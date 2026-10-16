@@ -85,14 +85,39 @@ class Instagram:
             time.sleep(3)
         raise RuntimeError("Instagram görseli zamanında işlemedi")
 
-    def son_gonderi(self, sonra):
+    def son_gonderi(self, sonra, kenar="media"):
         try:
-            for m in self.call("GET", f"{self.ig}/media", fields="id,timestamp", limit="3").get("data", []):
+            for m in self.call("GET", f"{self.ig}/{kenar}", fields="id,timestamp", limit="3").get("data", []):
                 if dt.datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z") >= sonra:
                     return m["id"]
         except RuntimeError:
             pass
         return None
+
+    def yayimla(self, cid, kenar="media"):
+        """Hazır kapsayıcıyı yayımlar; hata dönse de yayın gerçekleşmişse onu döndürür (çift paylaşım olmasın)."""
+        sonra = dt.datetime.now(dt.timezone.utc) - dt.timedelta(seconds=30)
+        for i in range(3):
+            try:
+                return self.call("POST", f"{self.ig}/media_publish", creation_id=cid)["id"]
+            except RuntimeError:
+                bulunan = self.son_gonderi(sonra, kenar)
+                if bulunan:
+                    return bulunan
+                if i == 2:
+                    raise
+                time.sleep(10 * (i + 1))
+
+    def reels(self, video_url, aciklama, akisa=False):
+        cid = self.call("POST", f"{self.ig}/media", media_type="REELS", video_url=video_url, caption=aciklama,
+                        share_to_feed="true" if akisa else "false")["id"]
+        self.bekle(cid, sure=420)
+        return self.yayimla(cid)
+
+    def story(self, gorsel_url):
+        cid = self.call("POST", f"{self.ig}/media", media_type="STORIES", image_url=gorsel_url)["id"]
+        self.bekle(cid)
+        return self.yayimla(cid, kenar="stories")
 
     def gonder(self, gorsel_urlleri, aciklama):
         """Tek görsel ya da (2-10 görsel) karusel gönderi yayımlar."""
@@ -106,18 +131,7 @@ class Instagram:
             cid = self.call("POST", f"{self.ig}/media", media_type="CAROUSEL", children=",".join(cocuklar),
                             caption=aciklama)["id"]
         self.bekle(cid)
-        sonra = dt.datetime.now(dt.timezone.utc) - dt.timedelta(seconds=30)
-        for i in range(3):
-            try:
-                return self.call("POST", f"{self.ig}/media_publish", creation_id=cid)["id"]
-            except RuntimeError:
-                # hata dönse de yayın bazen gerçekleşiyor: aynı haber iki kez çıkmasın
-                bulunan = self.son_gonderi(sonra)
-                if bulunan:
-                    return bulunan
-                if i == 2:
-                    raise
-                time.sleep(10 * (i + 1))
+        return self.yayimla(cid)
 
 
 def gh_token():
@@ -135,7 +149,7 @@ def github_yukle(yollar, repo):
     token = gh_token()
     is_ = tempfile.mkdtemp()
     try:
-        adlar = [f"{i:02d}.jpg" for i in range(1, len(yollar) + 1)]
+        adlar = [f"{i:02d}{os.path.splitext(y)[1]}" for i, y in enumerate(yollar, 1)]
         for yol, ad in zip(yollar, adlar):
             shutil.copy(yol, os.path.join(is_, ad))
         kimlik = ["-c", "user.name=haberbot", "-c", "user.email=bot@users.noreply.github.com"]
@@ -160,11 +174,29 @@ def github_yukle(yollar, repo):
     return urller
 
 
-def paylas(gorseller, aciklama, cfg):
+def paylas(gorseller, aciklama, cfg, video=None, story=None):
+    """Gönderi (tek kart/karusel), sonra Reels ve story. {"gonderi": id, "reels": id|hata, "story": id|hata} döner.
+
+    Gönderi başarısızsa hata fırlatır; Reels/story hatası gönderiyi geri almaz, sadece kaydedilir.
+    """
     ig = cfg["instagram"]
     istemci = Instagram(ig)
     repo = os.environ.get("MEDIA_REPO") or os.environ.get("GITHUB_REPOSITORY") or ig["gorsel_repo"]
-    return istemci.gonder(github_yukle(gorseller, repo), aciklama)
+    ekler = [y for y in (video, story) if y]
+    urller = github_yukle(list(gorseller) + ekler, repo)  # hepsi tek seferde
+    gorsel_url, ek_url = urller[:len(gorseller)], dict(zip(ekler, urller[len(gorseller):]))
+    sonuc = {"gonderi": istemci.gonder(gorsel_url, aciklama)}
+    if video:
+        try:
+            sonuc["reels"] = istemci.reels(ek_url[video], aciklama, akisa=cfg.get("reels", {}).get("akisa_da", False))
+        except Exception as e:
+            sonuc["reels"] = f"hata: {e}"
+    if story:
+        try:
+            sonuc["story"] = istemci.story(ek_url[story])
+        except Exception as e:
+            sonuc["story"] = f"hata: {e}"
+    return sonuc
 
 
 if __name__ == "__main__":

@@ -58,7 +58,7 @@ def _yerlesim(c, slayt, k):
     return p
 
 
-def bilgi_slayti(haber, slayt, marka, sayfa, cikti):
+def bilgi_slayti(haber, slayt, marka, sayfa, cikti, kaydir=True):
     img, c, vurgu = zemin(haber, marka, sayfa)
     alan = 1160 - 180
     for k in [x / 100 for x in range(125, 55, -5)]:  # az yazıda büyük başla, sığana kadar küçült
@@ -97,7 +97,8 @@ def bilgi_slayti(haber, slayt, marka, sayfa, cikti):
         y += h
 
     c.line([KENAR, 1190, G - KENAR, 1190], fill=(45, 50, 60), width=2)
-    kart.kaydir_oku(c, vurgu)
+    if kaydir:
+        kart.kaydir_oku(c, vurgu)
     img.save(cikti, "JPEG", quality=92)
     return cikti
 
@@ -130,14 +131,20 @@ def kapanis(haber, marka, kullanici_adi, sayfa, cikti):
     return cikti
 
 
-def karusel(haber, marka, kullanici_adi, klasor):
-    """Slayt yollarını döndürür (Instagram en fazla 10 slayt alır)."""
+def karusel(haber, marka, kullanici_adi, klasor, video=False):
+    """Slayt yollarını döndürür (Instagram en fazla 10 slayt alır).
+
+    video=True: Reels için; "KAYDIR" oku ve sayfa numarası yok (video kendisi akıyor).
+    """
     os.makedirs(klasor, exist_ok=True)
     slaytlar = haber.get("slaytlar", [])[:8]
     toplam = len(slaytlar) + 2
-    yollar = [kart.ciz_kart(dict(haber, ozet=""), marka, kullanici_adi, os.path.join(klasor, "01.jpg"),
-                            sayfa=(1, toplam), kaydir=True)]
+    no = (lambda i: None) if video else (lambda i: (i, toplam))
+    on = "v" if video else ""
+    yollar = [kart.ciz_kart(dict(haber, ozet=""), marka, kullanici_adi, os.path.join(klasor, f"{on}01.jpg"),
+                            sayfa=no(1), kaydir=not video)]
     for i, s in enumerate(slaytlar, 2):
-        yollar.append(bilgi_slayti(haber, s, marka, (i, toplam), os.path.join(klasor, f"{i:02d}.jpg")))
-    yollar.append(kapanis(haber, marka, kullanici_adi, (toplam, toplam), os.path.join(klasor, f"{toplam:02d}.jpg")))
+        yollar.append(bilgi_slayti(haber, s, marka, no(i), os.path.join(klasor, f"{on}{i:02d}.jpg"),
+                                   kaydir=not video))
+    yollar.append(kapanis(haber, marka, kullanici_adi, no(toplam), os.path.join(klasor, f"{on}{toplam:02d}.jpg")))
     return yollar

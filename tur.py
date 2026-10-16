@@ -25,12 +25,15 @@ def main():
         haber.ayar = lambda: cfg
     yeni = haber.guncelle()
     print(f"{yeni} yeni haber")
-    onceki = haber.durum_oku().get("kayit", [""])[0] if haber.durum_oku().get("kayit") else ""
+    eski = haber.durum_oku().get("kayit", [])
+    onceki_ilk = eski[0] if eski else None
     bot.otomatik_tur(zorla=True)
     kayit = haber.durum_oku().get("kayit", [])
-    if kayit and kayit[0] != onceki:
-        print(kayit[0])
-    if kayit and "başarısız" in kayit[0]:
+    # bu turda eklenen satırlar: bir önceki en yeni satıra kadar olanlar
+    yeni_kayit = kayit[:kayit.index(onceki_ilk)] if onceki_ilk in kayit else kayit[:5]
+    for satir in reversed(yeni_kayit):
+        print(satir)
+    if any("başarısız" in k for k in yeni_kayit):
         sys.exit(1)  # GitHub'da kırmızı görünsün, e-posta gelsin
 
 

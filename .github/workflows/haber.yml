@@ -41,6 +41,9 @@ jobs:
 
       - run: pip install -r requirements-bot.txt
 
+      # Reels videosu için
+      - run: ffmpeg -version > /dev/null 2>&1 || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+
       - name: Tur
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
