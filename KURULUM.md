@@ -9,7 +9,14 @@ Her turda bot (`tur.py`):
 3. Haberin tamamını sitesinden okur (yapay zekâ yok, `ozet.py` kuralları): konuyu (renk), ili (harita), başlıktaki
    rakamı, kancayı bulur ve 4-7 slaytlık karusel yapar: kapak → Ne oldu? → Detaylar → Rakamlarla → Ne dedi? →
    Ayrıca → kaynak/takip et. Bilgi azsa karusel zorlanmaz, tek kart paylaşılır.
-4. Slaytları bu reponun `media` dalına koyar (Instagram görseli internet adresinden indirir), Instagram'a gönderir.
+4. Aynı haberden ayrıca **Reels videosu** (`reels.py`: 9:16, üstte hafifçe yanıp sönen "SON DAKİKA", kısa geçişler,
+   ~15-25 sn, konuya göre müzik) ve **story** görseli üretir.
+5. Hepsini bu reponun `media` dalına koyar (Instagram dosyayı internet adresinden indirir) ve sırayla paylaşır:
+   gönderi (karusel/tek kart) → Reels (yalnızca Reels sekmesinde, profil ızgarası tekrar etmesin) → story.
+   Reels ya da story hata verirse gönderi yine durur, hata kayda yazılır.
+
+Müzik (`muzik/`, Gemini ile üretildi): `genel_*.mp3` (The Noon Deadline), `agir_*.mp3` (Weight of the Hour; afet,
+asayiş), `hafif_*.mp3` (Morning Brief; spor, ekonomi). Aynı türden birden çok dosya koyarsan bot rastgele seçer.
 
 Cümleler haberden alıntıdır; kaynak kapakta ve son slaytta, link açıklamada yazar.
 
@@ -24,7 +31,9 @@ Cümleler haberden alıntıdır; kaynak kapakta ve son slaytta, link açıklamad
 - `otomatik`: iki paylaşım arası (20 dk), günlük en fazla (25; Instagram'ın API sınırı 24 saatte 50),
   sessiz saatler (02–07 TR), öncelikli kelimeler (şu an boş).
 - `engellenen_kelimeler`: "deprem mi oldu", "namaz vakti" gibi tekrar eden SEO haberleri.
-- `deneme_modu: true` iken hiçbir şey gerçekten paylaşılmaz. Kurulum bitince `false` yap.
+- `reels.acik`, `story.acik`: Reels ve story'yi aç/kapat. `reels.akisa_da: true` Reels'i profil ızgarasına da koyar.
+- Her haber Instagram'da 3 yayın sayılır (gönderi + Reels + story); günlük API sınırı 100, 25 haber = 75.
+- `deneme_modu: true` iken hiçbir şey gerçekten paylaşılmaz.
 
 ## Instagram bağlantısı (bir kez, Son Koz'daki gibi)
 1. Yeni haber hesabını Instagram'da **İşletme hesabı** yap, yeni bir Facebook sayfasına bağla.
