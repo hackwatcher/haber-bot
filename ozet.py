@@ -98,7 +98,7 @@ def fiil_cek(metin):
         i = 0
         while i < len(w) and (w[i][:1].isupper() or w[i].lower() in UNVAN):
             i += 1
-        if i >= 2:
+        if i >= 2 or (i == 1 and w[0].strip(",") in {"Bakan", "Vali", "Başkan", "Valilik", "Bakanlık"}):
             w = w[i:]
     if not w:
         return ""
@@ -152,7 +152,7 @@ def rakamlar_bul(cumleler, baslik, haric):
             if set(re.findall(r"\d+", m.group(0))) & baslik_sayilari:  # başlıktaki rakam tekrar edilmesin
                 continue
             aciklama = rakam_aciklamasi(c, m, son_fiil)
-            if not 12 <= len(aciklama) <= 80:
+            if not 12 <= len(aciklama) <= 80 or len(aciklama.split()) < 3:  # "Alındı" gibi tek başına anlamsız
                 continue
             gorulen.add(yazi.lower())
             sonuc.append((yazi, aciklama, c))

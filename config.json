@@ -1,6 +1,6 @@
 {
-  "marka": "GÜNDEM",
-  "kullanici_adi": "@hesabin",
+  "marka": "XHABER",
+  "kullanici_adi": "@xhabercom",
   "hashtagler": "#haber #sondakika #gündem",
 
   "kaynaklar": [
@@ -24,7 +24,7 @@
 
   "instagram": {
     "yontem": "meta",
-    "kullanici_adi": "hesabin",
+    "kullanici_adi": "xhabercom",
     "token_dosyasi": ".gizli/token.txt",
     "gorsel_repo": "hackwatcher/haber-bot"
   },
