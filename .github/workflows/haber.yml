@@ -12,6 +12,10 @@ on:
         description: "Sadece dene (Instagram'a gönderme)"
         type: boolean
         default: true
+      baglanti:
+        description: "Sadece Instagram bağlantısını kontrol et"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -41,7 +45,10 @@ jobs:
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tur.py ${{ (github.event_name == 'workflow_dispatch' && inputs.deneme) && '--deneme' || '' }}
+        run: >-
+          python tur.py
+          ${{ (github.event_name == 'workflow_dispatch' && inputs.baglanti) && '--baglanti' || '' }}
+          ${{ (github.event_name == 'workflow_dispatch' && inputs.deneme) && '--deneme' || '' }}
 
       - name: Durumu kaydet
         if: always()

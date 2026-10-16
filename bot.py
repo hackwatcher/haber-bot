@@ -39,7 +39,9 @@ def hazirla(h, duzenleme=None):
 
 def bugun_paylasilan(d):
     bugun = simdi().date().isoformat()
-    return [h for h in d["haberler"].values() if h.get("paylasildi", "").startswith(bugun)]
+    # deneme modundaki sahte paylaşımlar günlük sınırdan yemesin
+    return [h for h in d["haberler"].values()
+            if h.get("paylasildi", "").startswith(bugun) and h.get("ig_id") != "deneme"]
 
 
 def haberi_paylas(hid, duzenleme=None, kim="elle"):
@@ -101,7 +103,7 @@ def otomatik_tur(zorla=False):
     paylasilan = bugun_paylasilan(d)
     if len(paylasilan) >= o["gunluk_en_fazla"]:
         return
-    tum = [h["paylasildi"] for h in d["haberler"].values() if h.get("paylasildi")]
+    tum = [h["paylasildi"] for h in d["haberler"].values() if h.get("paylasildi") and h.get("ig_id") != "deneme"]
     if tum and simdi() - dt.datetime.fromisoformat(max(tum)) < dt.timedelta(minutes=o["iki_paylasim_arasi_dakika"]):
         return
     h = otomatik_sec(d, cfg)
