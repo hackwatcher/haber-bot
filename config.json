@@ -1,0 +1,33 @@
+{
+  "marka": "GÜNDEM",
+  "kullanici_adi": "@hesabin",
+  "hashtagler": "#haber #sondakika #gündem",
+
+  "kaynaklar": [
+    {"ad": "NTV", "url": "https://www.ntv.com.tr/son-dakika.rss"},
+    {"ad": "Sözcü", "url": "https://www.sozcu.com.tr/feeds-son-dakika"},
+    {"ad": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/gundem"},
+    {"ad": "BBC Türkçe", "url": "https://feeds.bbci.co.uk/turkce/rss.xml"}
+  ],
+
+  "otomatik": {
+    "kontrol_dakika": 2,
+    "iki_paylasim_arasi_dakika": 20,
+    "gunluk_en_fazla": 25,
+    "haber_en_eski_dakika": 90,
+    "sessiz_saatler": [2, 7],
+    "oncelikli_kelimeler": [],
+    "sadece_oncelikli": false
+  },
+
+  "engellenen_kelimeler": ["deprem mi oldu", "namaz vakti", "hava durumu", "altın fiyat", "döviz kuru", "burç", "rüya", "maç ne zaman", "hangi kanalda", "şans oyunu", "loto", "piyango sonuç", "nöbetçi eczane"],
+
+  "instagram": {
+    "yontem": "meta",
+    "kullanici_adi": "hesabin",
+    "token_dosyasi": ".gizli/token.txt",
+    "gorsel_repo": "hackwatcher/haber-bot"
+  },
+
+  "deneme_modu": true
+}

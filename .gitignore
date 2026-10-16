@@ -1,0 +1,5 @@
+.gizli/
+data/*
+!data/durum.json
+ornekler/
+__pycache__/

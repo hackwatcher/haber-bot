@@ -1,0 +1,172 @@
+"""Instagram'a tek görsel ya da karusel gönderi. Son Koz botundaki (bugunbasla/bot.py) Graph akışının sade hali.
+
+yontem "meta": graph.facebook.com + sistem kullanıcısı token'ı; hesap Facebook sayfasına bağlı İşletme hesabı olmalı.
+yontem "instagram": graph.instagram.com + Instagram ile giriş token'ı.
+Instagram görseli adresten indirir; görseller herkese açık bir GitHub reposunun 'media' dalına konur.
+"""
+
+import datetime as dt
+import json
+import os
+import shutil
+import subprocess
+import tempfile
+import time
+
+import requests
+
+KOK = os.path.dirname(os.path.abspath(__file__))
+ADRES = {"meta": "https://graph.facebook.com/v26.0/", "instagram": "https://graph.instagram.com/v23.0/"}
+
+
+def token_oku(ig):
+    # GitHub'da secret (META_TOKEN), bilgisayarda .gizli/token.txt
+    tok = (os.environ.get("META_TOKEN") or os.environ.get("HABER_TOKEN") or "").strip()
+    yol = os.path.join(KOK, ig["token_dosyasi"])
+    if not tok and os.path.exists(yol):
+        with open(yol, encoding="utf-8") as f:
+            tok = f.read().strip()
+    if not tok:
+        raise RuntimeError(f"Token yok: {ig['token_dosyasi']} dosyasına token'ı yapıştır.")
+    return tok
+
+
+class Instagram:
+    def __init__(self, ig):
+        self.ayar = ig
+        self.base = ADRES[ig["yontem"]]
+        self.token = token_oku(ig)
+        self._id = None
+
+    def call(self, method, path, **params):
+        params["access_token"] = self.token
+        try:
+            if method == "GET":
+                r = requests.get(self.base + path, params=params, timeout=120)
+            else:
+                r = requests.post(self.base + path, data=params, timeout=120)
+            data = r.json()
+        except Exception as e:  # token görünmesin
+            raise RuntimeError(f"{path}: istek başarısız: {str(e).replace(self.token, '***')}") from None
+        if "error" in data:
+            e = data["error"]
+            raise RuntimeError(f"{e.get('error_user_title') or e.get('message')} {e.get('error_user_msg', '')} "
+                               f"(kod {e.get('code')}/{e.get('error_subcode', '-')})")
+        return data
+
+    @property
+    def ig(self):
+        if self._id:
+            return self._id
+        if self.ayar["yontem"] == "instagram":
+            self._id = self.call("GET", "me", fields="user_id")["user_id"]
+            return self._id
+        r = self.call("GET", "me/accounts", fields="name,instagram_business_account{id,username}", limit="50")
+        for s in r.get("data", []):
+            hesap = s.get("instagram_business_account")
+            if hesap and hesap.get("username") == self.ayar["kullanici_adi"]:
+                self._id = hesap["id"]
+                return self._id
+        raise RuntimeError(f"@{self.ayar['kullanici_adi']} bulunamadı: İşletme hesabı + bağlı Facebook sayfası + "
+                           f"token'da sayfa yetkisi gerekli.")
+
+    def baglanti(self):
+        b = self.call("GET", self.ig, fields="username,media_count,followers_count")
+        return f"@{b['username']} · {b.get('media_count', 0)} gönderi · {b.get('followers_count', 0)} takipçi"
+
+    def bekle(self, cid, sure=180):
+        bas = time.time()
+        while time.time() - bas < sure:
+            s = self.call("GET", cid, fields="status_code").get("status_code")
+            if s == "FINISHED":
+                return
+            if s in ("ERROR", "EXPIRED"):
+                raise RuntimeError(f"Instagram görseli işleyemedi ({s})")
+            time.sleep(3)
+        raise RuntimeError("Instagram görseli zamanında işlemedi")
+
+    def son_gonderi(self, sonra):
+        try:
+            for m in self.call("GET", f"{self.ig}/media", fields="id,timestamp", limit="3").get("data", []):
+                if dt.datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z") >= sonra:
+                    return m["id"]
+        except RuntimeError:
+            pass
+        return None
+
+    def gonder(self, gorsel_urlleri, aciklama):
+        """Tek görsel ya da (2-10 görsel) karusel gönderi yayımlar."""
+        if len(gorsel_urlleri) == 1:
+            cid = self.call("POST", f"{self.ig}/media", image_url=gorsel_urlleri[0], caption=aciklama)["id"]
+        else:
+            cocuklar = [self.call("POST", f"{self.ig}/media", image_url=u, is_carousel_item="true")["id"]
+                        for u in gorsel_urlleri[:10]]
+            for c in cocuklar:
+                self.bekle(c)
+            cid = self.call("POST", f"{self.ig}/media", media_type="CAROUSEL", children=",".join(cocuklar),
+                            caption=aciklama)["id"]
+        self.bekle(cid)
+        sonra = dt.datetime.now(dt.timezone.utc) - dt.timedelta(seconds=30)
+        for i in range(3):
+            try:
+                return self.call("POST", f"{self.ig}/media_publish", creation_id=cid)["id"]
+            except RuntimeError:
+                # hata dönse de yayın bazen gerçekleşiyor: aynı haber iki kez çıkmasın
+                bulunan = self.son_gonderi(sonra)
+                if bulunan:
+                    return bulunan
+                if i == 2:
+                    raise
+                time.sleep(10 * (i + 1))
+
+
+def gh_token():
+    tok = (os.environ.get("MEDIA_TOKEN") or os.environ.get("GITHUB_TOKEN") or "").strip()
+    if tok:
+        return tok
+    r = subprocess.run(["gh", "auth", "token"], capture_output=True, text=True)
+    if r.returncode != 0 or not r.stdout.strip():
+        raise RuntimeError("GitHub token'ı yok: 'gh auth login' yap ya da MEDIA_TOKEN ayarla.")
+    return r.stdout.strip()
+
+
+def github_yukle(yollar, repo):
+    """Görselleri herkese açık repodaki 'media' dalına koyar, kalıcı adreslerini döndürür."""
+    token = gh_token()
+    is_ = tempfile.mkdtemp()
+    try:
+        adlar = [f"{i:02d}.jpg" for i in range(1, len(yollar) + 1)]
+        for yol, ad in zip(yollar, adlar):
+            shutil.copy(yol, os.path.join(is_, ad))
+        kimlik = ["-c", "user.name=haberbot", "-c", "user.email=bot@users.noreply.github.com"]
+        for args in (["init", "-q", "-b", "media"], [*kimlik, "add", "."], [*kimlik, "commit", "-q", "-m", "media"]):
+            subprocess.run(["git", *args], cwd=is_, check=True, capture_output=True)
+        sha = subprocess.run(["git", "rev-parse", "HEAD"], cwd=is_, check=True,
+                             capture_output=True, text=True).stdout.strip()
+        r = subprocess.run(["git", "push", "-q", "--force", f"https://x-access-token:{token}@github.com/{repo}.git",
+                            "HEAD:media"], cwd=is_, capture_output=True, text=True)
+        if r.returncode != 0:
+            raise RuntimeError("Görsel GitHub'a gönderilemedi: " + r.stderr.replace(token, "***"))
+    finally:
+        shutil.rmtree(is_, ignore_errors=True)
+    urller = [f"https://raw.githubusercontent.com/{repo}/{sha}/{ad}" for ad in adlar]
+    for url in urller:
+        for _ in range(20):
+            if requests.head(url, timeout=20).status_code == 200:
+                break
+            time.sleep(3)
+        else:
+            raise RuntimeError(f"Görsel açılmıyor (repo herkese açık mı?): {url}")
+    return urller
+
+
+def paylas(gorseller, aciklama, cfg):
+    ig = cfg["instagram"]
+    istemci = Instagram(ig)
+    repo = os.environ.get("MEDIA_REPO") or os.environ.get("GITHUB_REPOSITORY") or ig["gorsel_repo"]
+    return istemci.gonder(github_yukle(gorseller, repo), aciklama)
+
+
+if __name__ == "__main__":
+    with open(os.path.join(KOK, "config.json"), encoding="utf-8") as f:
+        print(Instagram(json.load(f)["instagram"]).baglanti())

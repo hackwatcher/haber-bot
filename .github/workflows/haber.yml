@@ -1,0 +1,55 @@
+name: Haber paylaşımı
+
+on:
+  schedule:
+    # UTC; 15 dakikada bir. GitHub zamanlanmış işleri bazen geciktirir ya da atlar, sorun değil:
+    # bir sonraki tur kaçanı yakalar (90 dakikadan eski haber zaten paylaşılmaz).
+    # Sessiz saatler (02-07 TR) ve günlük sınır config.json'da, o saatlerde tur hiçbir şey paylaşmaz.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      deneme:
+        description: "Sadece dene (Instagram'a gönderme)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: haber-paylasimi
+  cancel-in-progress: false
+
+jobs:
+  tur:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Bekleyen çalışma, önceki turun kaydettiği durum.json'u görsün diye main'in en son hâli alınır
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements-bot.txt
+
+      - name: Tur
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tur.py ${{ (github.event_name == 'workflow_dispatch' && inputs.deneme) && '--deneme' || '' }}
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "haber-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/durum.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Haber durumu"
+          git pull -q --rebase
+          git push -q
