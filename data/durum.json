@@ -6216,8 +6216,9 @@
     "galat",
     "puanl"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "hata",
+   "oncelikli": false,
+   "hata": "list index out of range"
   },
   "c39ea427ca07": {
    "id": "c39ea427ca07",
@@ -6423,6 +6424,7 @@
   }
  },
  "kayit": [
+  "18.10 01:01:22  Otomatik paylaşım başarısız: list index out of range",
   "18.10 00:33:24  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 00:33:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): XHABER · Orkun Işıtmak’ın “Hangisi Gerçek Psikolog?” videosuna konuk olan Aşkım",
   "18.10 00:03:14  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
