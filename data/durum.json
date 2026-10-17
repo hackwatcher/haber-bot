@@ -2842,7 +2842,8 @@
     "sorun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "255c808ecbb2": {
    "id": "255c808ecbb2",
@@ -5275,9 +5276,50 @@
    "story_id": "18055954565585646",
    "slayt": 1,
    "kanca": "İmamoğlu savunmasının dördüncü günü"
+  },
+  "2a6bb49e2428": {
+   "id": "2a6bb49e2428",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"İstanbul Üniversitesi Hastanesi Çapa Yerleşkesi Toplu Temel Atma ve Toplu Açılış Töreni\"nde konuşuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43345252",
+   "zaman": "2026-10-17T14:55:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "dan",
+    "erdog",
+    "oneml"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "24d7fbb50f57"
+  },
+  "be6442cc744a": {
+   "id": "be6442cc744a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi'den 'Terörsüz Türkiye' açıklaması: Stratejik bir devlet politikası",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Cumhurbaşkanımız Recep Tayyip Erdoğan'ın liderliğinde ortaya konulan 'Türkiye Yüzyılı' vizyonunun en önemli stratejik hedeflerinden biri terör meselesinin kalıcı bir şekilde sona erdirilmesidir çünkü 'Terörsüz Türkiye' milli birliğimizin tahkimi,…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-terorsuz-turkiye-aciklamasi-stratejik-bir-devlet-politikasi-43345288",
+   "zaman": "2026-10-17T15:02:21+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "ciftc",
+    "den",
+    "devle",
+    "polit",
+    "strat",
+    "teror",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.10 15:15:58  1 yeni haber",
+  "17.10 15:15:58  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 15:03:01  Paylaşıldı (otomatik, tek kart + Reels + Story): BBC Türkçe · İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
   "17.10 15:01:12  2 yeni haber",
   "17.10 14:45:55  1 yeni haber",
