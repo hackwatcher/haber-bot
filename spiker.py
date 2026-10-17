@@ -129,6 +129,22 @@ def seslendir(z, cikti=None, hiz=1.30):
     if not metin:
         return None, 0.0, []
 
+    # 1. Öncelik: Gerçekçi Doğal Microsoft Neural TTS (tr-TR-EmelNeural)
+    try:
+        import asyncio
+        import edge_tts
+        yuzde = int(round((hiz - 1.0) * 100))
+        rate_str = f"+{yuzde}%" if yuzde >= 0 else f"{yuzde}%"
+        comm = edge_tts.Communicate(metin, "tr-TR-EmelNeural", rate=rate_str)
+        asyncio.run(comm.save(cikti))
+        if os.path.exists(cikti) and os.path.getsize(cikti) > 2000:
+            sure = ses_suresi(cikti)
+            altyazilar = altyazi_parcala(metin, sure)
+            return cikti, sure, altyazilar
+    except Exception as e:
+        print(f"Neural TTS atlandı ({e}), gTTS yedeğine geçiliyor...", flush=True)
+
+    # 2. Öncelik / Yedek: gTTS + ffmpeg hızlandırma
     gecici_raw = cikti + ".raw.mp3"
     try:
         tts = gtts.gTTS(metin, lang="tr")
