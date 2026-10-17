@@ -128,14 +128,23 @@ class Instagram:
         return self.yayimla(cid, kenar="stories")
 
     def gonder(self, gorsel_urlleri, aciklama):
-        """Tek görsel ya da (2-10 görsel) karusel gönderi yayımlar."""
+        """Tek görsel ya da (2-10 görsel/video) karma medya karusel gönderi yayımlar."""
         if len(gorsel_urlleri) == 1:
-            cid = self.call("POST", f"{self.ig}/media", image_url=gorsel_urlleri[0], caption=aciklama)["id"]
+            u = gorsel_urlleri[0]
+            if u.lower().endswith(".mp4"):
+                cid = self.call("POST", f"{self.ig}/media", media_type="VIDEO", video_url=u, caption=aciklama)["id"]
+            else:
+                cid = self.call("POST", f"{self.ig}/media", image_url=u, caption=aciklama)["id"]
         else:
-            cocuklar = [self.call("POST", f"{self.ig}/media", image_url=u, is_carousel_item="true")["id"]
-                        for u in gorsel_urlleri[:10]]
+            cocuklar = []
+            for u in gorsel_urlleri[:10]:
+                if u.lower().endswith(".mp4"):
+                    cid_c = self.call("POST", f"{self.ig}/media", media_type="VIDEO", video_url=u, is_carousel_item="true")["id"]
+                else:
+                    cid_c = self.call("POST", f"{self.ig}/media", image_url=u, is_carousel_item="true")["id"]
+                cocuklar.append(cid_c)
             for c in cocuklar:
-                self.bekle(c)
+                self.bekle(c, sure=300)
             cid = self.call("POST", f"{self.ig}/media", media_type="CAROUSEL", children=",".join(cocuklar),
                             caption=aciklama)["id"]
         self.bekle(cid)

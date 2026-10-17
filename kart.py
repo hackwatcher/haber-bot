@@ -61,7 +61,7 @@ def sar(ciz, metin, f, genislik):
 
 # ---------- parçalar ----------
 
-def ust_serit(c, marka, konu, ust=0, sayfa=None):
+def ust_serit(c, marka, konu, ust=0, sayfa=None, nabiz_alfa=1.0):
     etiket, vurgu, _, etiket_yazi = konu
     c.rectangle([0, 0, G, 14], fill=vurgu)
     fm = font(KALIN, 44)
@@ -71,7 +71,8 @@ def ust_serit(c, marka, konu, ust=0, sayfa=None):
                font=font(NORMAL, 32), fill=SOLUK)
     fe = font(KALIN, 30)
     ew = c.textlength(etiket, font=fe)
-    c.rounded_rectangle([G - KENAR - ew - 44, ust + 64, G - KENAR, ust + 122], radius=8, fill=vurgu)
+    vurgu_kutu = tuple(int(v * nabiz_alfa) for v in vurgu) if nabiz_alfa != 1.0 else vurgu
+    c.rounded_rectangle([G - KENAR - ew - 44, ust + 64, G - KENAR, ust + 122], radius=8, fill=vurgu_kutu)
     c.text((G - KENAR - ew - 22, ust + 77), etiket, font=fe, fill=etiket_yazi)
 
 
@@ -87,16 +88,17 @@ def alt_serit(c, haber, kullanici_adi, vurgu, kaydir=False):
         c.text((KENAR, 1222), "Kaynak: " + ", ".join(kaynaklar[:3]), font=fk, fill=GRI)
         c.text((KENAR, 1266), f"{t.day} {AYLAR[t.month - 1]} {t.year} · {t:%H:%M}", font=fk, fill=SOLUK)
     if kaydir:  # karusel kapağı
-        kaydir_oku(c, vurgu)
+        kaydir_oku(c, vurgu, dx=haber.get("kaydir_dx", 0))
     else:
         ku = font(KALIN, 30)
         c.text((G - KENAR - c.textlength(kullanici_adi, font=ku), 1244), kullanici_adi, font=ku, fill=BEYAZ)
 
 
-def kaydir_oku(c, vurgu):
+def kaydir_oku(c, vurgu, dx=0):
     fa = font(KALIN, 36)
-    c.text((G - KENAR - 70 - c.textlength("KAYDIR", font=fa), 1236), "KAYDIR", font=fa, fill=BEYAZ)
-    x, y = G - KENAR - 50, 1258
+    kw = c.textlength("KAYDIR", font=fa)
+    c.text((G - KENAR - 70 - kw + dx, 1236), "KAYDIR", font=fa, fill=BEYAZ)
+    x, y = G - KENAR - 50 + dx, 1258
     c.line([(x, y), (x + 40, y)], fill=vurgu, width=6)
     c.line([(x + 24, y - 16), (x + 40, y), (x + 24, y + 16)], fill=vurgu, width=6)
 
@@ -222,10 +224,19 @@ def ciz_kart(haber, marka, kullanici_adi, cikti, sayfa=None, kaydir=False):
     if foto_yol and os.path.exists(foto_yol):
         ham = Image.open(foto_yol).convert("RGB")
         yuk = 900 if ham.height / max(ham.width, 1) >= 0.75 else 660
-        tam = ImageOps.contain(ham, (G, yuk), method=Image.LANCZOS)
-        arka = ImageOps.fit(ham, (G, yuk), method=Image.LANCZOS).filter(ImageFilter.GaussianBlur(28)).point(lambda p: p * 0.45)
-        arka.paste(tam, ((G - tam.width) // 2, (yuk - tam.height) // 2))
-        img.paste(arka, (0, 0))
+        zoom = float(haber.get("foto_zoom") or 1.0)
+        if zoom > 1.001:
+            zw, zy = int(G * zoom), int(yuk * zoom)
+            tam = ImageOps.fit(ham, (zw, zy), method=Image.LANCZOS)
+            tam = tam.crop(((zw - G) // 2, (zy - yuk) // 2, (zw - G) // 2 + G, (zy - yuk) // 2 + yuk))
+            arka = ImageOps.fit(ham, (G, yuk), method=Image.LANCZOS).filter(ImageFilter.GaussianBlur(28)).point(lambda p: p * 0.45)
+            arka.paste(tam, (0, 0))
+            img.paste(arka, (0, 0))
+        else:
+            tam = ImageOps.contain(ham, (G, yuk), method=Image.LANCZOS)
+            arka = ImageOps.fit(ham, (G, yuk), method=Image.LANCZOS).filter(ImageFilter.GaussianBlur(28)).point(lambda p: p * 0.45)
+            arka.paste(tam, ((G - tam.width) // 2, (yuk - tam.height) // 2))
+            img.paste(arka, (0, 0))
         # fotoğrafın altını zemine erit
         erime = 340 if yuk > 660 else 240
         perde = Image.new("RGB", (G, erime), zemin)
@@ -233,7 +244,7 @@ def ciz_kart(haber, marka, kullanici_adi, cikti, sayfa=None, kaydir=False):
         img.paste(perde, (0, yuk - erime), maske)
         ust = Image.new("RGB", (G, 200), (0, 0, 0))
         img.paste(ust, (0, 0), Image.linear_gradient("L").rotate(180).resize((G, 200)).point(lambda v: v * .55))
-        ust_serit(c, marka, konu, sayfa=sayfa)
+        ust_serit(c, marka, konu, sayfa=sayfa, nabiz_alfa=float(haber.get("nabiz_alfa") or 1.0))
         fk = font(NORMAL, 22)
         not_ = foto.get("not", "")
         if not_:

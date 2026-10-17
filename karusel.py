@@ -4,12 +4,16 @@ Bilgi slaytları haber["slaytlar"] listesinden gelir; her biri {"etiket", "metin
 Metinler haberin tam metninden kendi cümlelerimizle özetlenir (birebir kopya değil).
 """
 
+import math
 import os
+import subprocess
 
 from PIL import Image, ImageDraw
 
+import haber
 import kart
 from kart import BEYAZ, G, GRI, KALIN, KENAR, KONULAR, NORMAL, SOLUK, Y, buyuk, font, sar
+import reels
 
 GENIS = G - 2 * KENAR
 
@@ -135,20 +139,99 @@ def kapanis(haber, marka, kullanici_adi, sayfa, cikti):
     return cikti
 
 
-def karusel(haber, marka, kullanici_adi, klasor, video=False):
+def hareketli_kapak(haber_veri, marka, kullanici_adi, cikti_mp4, sayfa=None, sure_sn=4.0):
+    """Karuselin 1. slaytı için Ken Burns yakınlaşması, daktilo başlık, canlı etiket ve kaydır animasyonlu MP4 video üretir."""
+    fps = 30
+    toplam_kare = int(fps * sure_sn)
+    baslik_len = len(haber_veri.get("baslik") or "")
+    foto_var = bool(haber_veri.get("foto"))
+    daktilo_sn = min(2.4, max(1.2, sure_sn * 0.55))
+    muzik = reels.muzik_sec(haber_veri)
+
+    cmd = [
+        reels.ffmpeg_yolu(), "-y", "-loglevel", "error",
+        "-f", "rawvideo", "-pix_fmt", "rgb24",
+        "-s", f"{kart.G}x{kart.Y}", "-r", str(fps), "-i", "-"
+    ]
+    if muzik and os.path.exists(muzik):
+        cmd += [
+            "-i", muzik,
+            "-filter:a", f"afade=t=in:d=0.3,afade=t=out:st={sure_sn - 0.8:.2f}:d=0.8,volume=0.45",
+            "-c:a", "aac", "-b:a", "192k",
+            "-map", "0:v", "-map", "1:a"
+        ]
+    cmd += [
+        "-t", f"{sure_sn:.2f}",
+        "-c:v", "libx264", "-preset", "veryfast", "-crf", "19",
+        "-pix_fmt", "yuv420p", "-movflags", "+faststart", cikti_mp4
+    ]
+
+    p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    gecici_jpg = cikti_mp4 + "_kare.jpg"
+    try:
+        for f_no in range(toplam_kare):
+            t = f_no / fps
+            oran = f_no / max(1, toplam_kare - 1)
+            zoom = round(1.00 + 0.08 * (0.5 - 0.5 * math.cos(math.pi * oran)), 3) if foto_var else 1.0
+            kaydir_dx = int(16 * (0.5 - 0.5 * math.cos(2 * math.pi * t / 1.0)))
+            harf = max(1, int(baslik_len * (t / daktilo_sn))) if t < daktilo_sn else baslik_len
+            imlec = (int(t * 7) % 2 == 0) if t < daktilo_sn else ((int(t * 4) % 2 == 0) if t < (sure_sn - 0.6) else False)
+            nabiz_alfa = 0.65 + 0.35 * (0.5 + 0.5 * math.sin(2 * math.pi * t / 1.2))
+
+            h_kare = dict(haber_veri, ozet="", foto_zoom=zoom, kaydir_dx=kaydir_dx,
+                          daktilo_harf=harf, daktilo_imlec=imlec, nabiz_alfa=nabiz_alfa)
+            kart.ciz_kart(h_kare, marka, kullanici_adi, gecici_jpg, sayfa=sayfa, kaydir=True)
+            with Image.open(gecici_jpg) as im:
+                p.stdin.write(im.convert("RGB").tobytes())
+        p.stdin.close()
+        if p.wait() != 0:
+            raise RuntimeError("ffmpeg hareketli kapağı yazamadı")
+    finally:
+        if os.path.exists(gecici_jpg):
+            try:
+                os.remove(gecici_jpg)
+            except Exception:
+                pass
+    return cikti_mp4
+
+
+def karusel(haber_veri, marka, kullanici_adi, klasor, video=False):
     """Slayt yollarını döndürür (Instagram en fazla 10 slayt alır).
 
     video=True: Reels için; "KAYDIR" oku ve sayfa numarası yok (video kendisi akıyor).
     """
     os.makedirs(klasor, exist_ok=True)
-    slaytlar = haber.get("slaytlar", [])[:8]
+    slaytlar = haber_veri.get("slaytlar", [])[:8]
     toplam = len(slaytlar) + 2
     no = (lambda i: None) if video else (lambda i: (i, toplam))
     on = "v" if video else ""
-    yollar = [kart.ciz_kart(dict(haber, ozet=""), marka, kullanici_adi, os.path.join(klasor, f"{on}01.jpg"),
-                            sayfa=no(1), kaydir=not video)]
+
+    kapak_jpg = os.path.join(klasor, f"{on}01.jpg")
+    kart.ciz_kart(dict(haber_veri, ozet=""), marka, kullanici_adi, kapak_jpg,
+                  sayfa=no(1), kaydir=not video)
+
+    cfg = haber.ayar() if hasattr(haber, "ayar") else {}
+    k_cfg = cfg.get("karusel", {}) if isinstance(cfg, dict) else {}
+    hareketli_acik = k_cfg.get("hareketli_kapak", True)
+
+    yollar = []
+    if not video and hareketli_acik and haber_veri.get("foto"):
+        kapak_mp4 = os.path.join(klasor, f"{on}01.mp4")
+        try:
+            hareketli_kapak(haber_veri, marka, kullanici_adi, kapak_mp4,
+                            sayfa=no(1), sure_sn=float(k_cfg.get("sure_sn", 4.0)))
+            if os.path.exists(kapak_mp4):
+                yollar.append(kapak_mp4)
+            else:
+                yollar.append(kapak_jpg)
+        except Exception as e:
+            print(f"Hareketli karusel kapağı atlandı: {e}", flush=True)
+            yollar.append(kapak_jpg)
+    else:
+        yollar.append(kapak_jpg)
+
     for i, s in enumerate(slaytlar, 2):
-        yollar.append(bilgi_slayti(haber, s, marka, no(i), os.path.join(klasor, f"{on}{i:02d}.jpg"),
+        yollar.append(bilgi_slayti(haber_veri, s, marka, no(i), os.path.join(klasor, f"{on}{i:02d}.jpg"),
                                    kaydir=not video))
-    yollar.append(kapanis(haber, marka, kullanici_adi, no(toplam), os.path.join(klasor, f"{on}{toplam:02d}.jpg")))
+    yollar.append(kapanis(haber_veri, marka, kullanici_adi, no(toplam), os.path.join(klasor, f"{on}{toplam:02d}.jpg")))
     return yollar

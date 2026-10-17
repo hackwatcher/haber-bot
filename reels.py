@@ -232,20 +232,26 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
             # etiketin sönük hali bir kez hazırlanır, her karede iki hal arasında yumuşak geçilir
             parlak = kare.crop(kutu)
             sonuk = Image.blend(parlak, Image.new("RGB", parlak.size, zemin), 0.55)
+            foto_var = bool(haber.get("foto"))
             for k in range(adet):
                 a = 0.5 + 0.5 * math.cos(2 * math.pi * t / NABIZ)  # 1: parlak, 0: sönük
                 temel = kare
-                if i == 0 and k < daktilo_kare:
-                    harf = daktilo_harf_sayisi(k, daktilo_kare, baslik_uzunluk)
-                    imlec = (k // 8) % 2 == 0  # ~0,27 sn yanık / sönük imleç
-                    anahtar = (harf, imlec)
+                if i == 0 and daktilo_ciz:
+                    harf = daktilo_harf_sayisi(k, daktilo_kare, baslik_uzunluk) if k < daktilo_kare else baslik_uzunluk
+                    imlec = (k // 8) % 2 == 0 if k < daktilo_kare else False
+                    oran_slayt = k / max(1, adet - 1)
+                    zoom = round(1.00 + 0.08 * (0.5 - 0.5 * math.cos(math.pi * oran_slayt)), 3) if foto_var else 1.0
+                    anahtar = (harf, imlec, zoom)
                     if daktilo_son[0] != anahtar:
                         try:
-                            yol = daktilo_ciz(harf, imlec, daktilo_dosya)
+                            try:
+                                yol = daktilo_ciz(harf, imlec, daktilo_dosya, zoom=zoom)
+                            except TypeError:
+                                yol = daktilo_ciz(harf, imlec, daktilo_dosya)
                             daktilo_son = (anahtar, zemin_kare(haber, marka, kullanici_adi, yol, 0, n)[0])
                         except Exception as e:
-                            print(f"Daktilo efekti atlandı: {e}", flush=True)
-                            daktilo_kare = 0
+                            print(f"Daktilo/zoom efekti atlandı: {e}", flush=True)
+                            daktilo_ciz = None
                             daktilo_son = (None, None)
                     if daktilo_son[1] is not None:
                         temel = daktilo_son[1]

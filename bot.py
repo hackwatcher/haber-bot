@@ -66,14 +66,14 @@ def hazirla(h, duzenleme=None):
 
 
 def daktilo_cizici(z, cfg):
-    """Reels'in ilk slaytını (video kapağı) başlığın yalnızca ilk N harfiyle çizen fonksiyon döndürür.
+    """Reels'in ilk slaytını (video kapağı) başlığın yalnızca ilk N harfi ve kamera zoom oranıyla çizen fonksiyon döndürür.
 
     Karusel varsa kapak özetsiz çizilir (karusel.karusel(video=True) ile aynı), yoksa tek kart.
     """
     kapak = dict(z, ozet="") if z.get("slaytlar") else z
 
-    def ciz(harf, imlec, cikti):
-        return kart.ciz_kart(dict(kapak, daktilo_harf=harf, daktilo_imlec=imlec),
+    def ciz(harf, imlec, cikti, zoom=1.0):
+        return kart.ciz_kart(dict(kapak, daktilo_harf=harf, daktilo_imlec=imlec, foto_zoom=zoom),
                              cfg["marka"], cfg["kullanici_adi"], cikti)
     return ciz
 

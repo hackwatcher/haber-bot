@@ -405,7 +405,24 @@ class TestHaberBot(unittest.TestCase):
         karusel.kapanis(h_tg, "XHABER", "@xhabercom", (7, 7), kapanis_cikti)
         self.assertTrue(os.path.exists(kapanis_cikti))
 
+    def test_hareketli_karusel_ve_reels_zoom(self):
+        """Karusel fotoğraf içeren haberlerde hareketli kapak .mp4 üretmeli, video=True durumunda .jpg kalmalı."""
+        h = dict(self.ornek_haber, foto=self.ornek_foto, slaytlar=[
+            {"etiket": "Bilgi", "metin": "Slayt metni"}
+        ])
+        klasor = os.path.join(self.tmp, "karusel_test")
+        yollar = karusel.karusel(h, "XHABER", "@xhabercom", klasor, video=False)
+        self.assertTrue(yollar[0].endswith(".mp4"), "Karusel kapağı hareketli video olmalı")
+        self.assertTrue(os.path.exists(yollar[0]))
+        # Yanında statik 01.jpg de bulunmalı
+        self.assertTrue(os.path.exists(os.path.join(klasor, "01.jpg")))
+
+        # video=True çağrıldığında Reels için tüm slaytlar resim (.jpg) olmalı
+        yollar_v = karusel.karusel(h, "XHABER", "@xhabercom", klasor, video=True)
+        self.assertTrue(yollar_v[0].endswith(".jpg"), "Reels için kapak statik resim kalmalı")
+
 
 if __name__ == "__main__":
     unittest.main()
+
 

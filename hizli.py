@@ -31,7 +31,31 @@ os.makedirs(KAPAKLAR, exist_ok=True)
 
 def serit_olustur(yollar, cikti):
     """Slayt görsellerini tek bakışta önizlemek için yan yana tek bir JPEG şeridine birleştirir."""
-    imgs = [Image.open(y).convert("RGB") for y in yollar]
+    imgs = []
+    for y in yollar:
+        if y.lower().endswith(".mp4"):
+            jpg = os.path.splitext(y)[0] + ".jpg"
+            if os.path.exists(jpg):
+                imgs.append(Image.open(jpg).convert("RGB"))
+            else:
+                try:
+                    import subprocess
+                    import reels
+                    kare_gecici = cikti + "_tmpkare.jpg"
+                    subprocess.run([reels.ffmpeg_yolu(), "-y", "-loglevel", "error", "-ss", "00:00:01",
+                                    "-i", y, "-frames:v", "1", kare_gecici], check=True, timeout=10)
+                    if os.path.exists(kare_gecici):
+                        imgs.append(Image.open(kare_gecici).convert("RGB"))
+                        try:
+                            os.remove(kare_gecici)
+                        except Exception:
+                            pass
+                except Exception:
+                    pass
+        else:
+            imgs.append(Image.open(y).convert("RGB"))
+    if not imgs:
+        return cikti
     w, h = 540, 675
     bosluk = 12
     serit = Image.new("RGB", (w * len(imgs) + bosluk * max(0, len(imgs) - 1), h), (8, 10, 14))
