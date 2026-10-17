@@ -117,8 +117,8 @@ def altyazi_kutusu(img, metin, vurgu=(220, 38, 38)):
     return img
 
 
-def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hiz=1.15):
-    """slaytlar: 1080x1350 görseller (KAYDIR'sız). Spiker sesli ve altyazılı mp4 yazar, yolunu döndürür."""
+def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hiz=1.15, altyazi=False):
+    """slaytlar: 1080x1350 görseller (KAYDIR'sız). Spiker sesli ve müzikli mp4 yazar, yolunu döndürür."""
     _, vurgu, zemin, _ = konu_renkleri(haber)
     n = len(slaytlar)
     kareler = [zemin_kare(haber, marka, kullanici_adi, s, i, n) for i, s in enumerate(slaytlar)]
@@ -203,8 +203,8 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
                     oran = (k - (adet - gecis_kare) + 1) / (gecis_kare + 1)
                     f = Image.blend(f, sonraki, oran)
 
-                # Aktif altyazı varsa kareye ekle
-                if altyazilar:
+                # Altyazı açıksa ve aktif altyazı varsa kareye ekle
+                if altyazi and altyazilar:
                     aktif = None
                     for t0, t1, yazi in altyazilar:
                         if t0 <= t < t1:

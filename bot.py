@@ -86,7 +86,8 @@ def ekleri_hazirla(z, yollar, klasor):
             try:
                 spikerli = cfg.get("reels", {}).get("spikerli", True)
                 spiker_hiz = cfg.get("reels", {}).get("spiker_hiz", 1.15)
-                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya, spikerli=spikerli, spiker_hiz=spiker_hiz)
+                altyazi = cfg.get("reels", {}).get("altyazi", False)
+                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya, spikerli=spikerli, spiker_hiz=spiker_hiz, altyazi=altyazi)
             except Exception as e:
                 hatalar.append(f"Reels videosu: {e}")
     if cfg.get("story", {}).get("acik", True):
