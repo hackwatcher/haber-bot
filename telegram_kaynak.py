@@ -23,8 +23,11 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 
 
 def _foto_url_cikar(blok_html):
-    """HTML bloğundaki .tgme_widget_message_photo_wrap stilinden fotoğraf URL'sini ayıklar."""
-    m = re.search(r"tgme_widget_message_photo_wrap[^>]*style=\"[^\"]*url\(['\"]?(https://[^'\")]+)['\"]?\)", blok_html)
+    """HTML bloğundaki .tgme_widget_message_photo_wrap veya video_thumb stilinden fotoğraf URL'sini ayıklar."""
+    m = re.search(
+        r"tgme_widget_message_(?:photo_wrap|video_thumb)[^>]*style=\"[^\"]*url\(['\"]?(https://[^'\")]+)['\"]?\)",
+        blok_html,
+    )
     return m.group(1) if m else ""
 
 

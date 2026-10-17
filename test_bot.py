@@ -165,14 +165,16 @@ class TestHaberBot(unittest.TestCase):
         self.assertEqual(liste[0]["tg_foto_url"], "https://cdn4.telesco.pe/file/test.jpg")
         self.assertEqual(liste[1]["tg_video_url"], "https://cdn4.telesco.pe/file/test.mp4")
 
-        simdi_iso = bot.simdi().isoformat()
+        simdi_dt = bot.simdi()
+        simdi_iso = simdi_dt.isoformat()
+        sekiz_saat_once = (simdi_dt - dt.timedelta(hours=8)).isoformat()
         d = {
             "haberler": {
                 "rss_tek": {"id": "rss_tek", "durum": "yeni", "oncelikli": False, "diger_kaynaklar": [], "zaman": simdi_iso},
-                "tg_haber": {"id": "tg_haber", "durum": "yeni", "oncelikli": False, "diger_kaynaklar": [], "tg_kanal": "sahinozkan000", "zaman": simdi_iso},
+                "tg_haber": {"id": "tg_haber", "durum": "yeni", "oncelikli": False, "diger_kaynaklar": [], "tg_kanal": "sahinozkan000", "zaman": sekiz_saat_once},
             }
         }
-        cfg = {"otomatik": {"haber_en_eski_dakika": 90, "sadece_oncelikli": False}}
+        cfg = {"otomatik": {"haber_en_eski_dakika": 90, "telegram_en_eski_dakika": 1440, "sadece_oncelikli": False}}
         secilen = bot.otomatik_sec(d, cfg)
         self.assertEqual(secilen["id"], "tg_haber")
 

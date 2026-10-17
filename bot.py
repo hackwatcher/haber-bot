@@ -167,14 +167,19 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
 
 def otomatik_sec(d, cfg):
     o = cfg["otomatik"]
-    sinir = simdi() - dt.timedelta(minutes=o["haber_en_eski_dakika"])
-    adaylar = [h for h in d["haberler"].values() if h["durum"] == "yeni" and not h.get("tekrar_of")
-               and dt.datetime.fromisoformat(h["zaman"]) >= sinir]
+    s_now = simdi()
+    sinir_rss = s_now - dt.timedelta(minutes=o["haber_en_eski_dakika"])
+    sinir_tg = s_now - dt.timedelta(minutes=o.get("telegram_en_eski_dakika", 1440))
+    adaylar = [
+        h for h in d["haberler"].values()
+        if h["durum"] == "yeni" and not h.get("tekrar_of")
+        and dt.datetime.fromisoformat(h["zaman"]) >= (sinir_tg if h.get("tg_kanal") else sinir_rss)
+    ]
     if o.get("sadece_oncelikli"):
         adaylar = [h for h in adaylar if h["oncelikli"]]
-    # Akıllı Öncelik: önce öncelikli kelimeler, sonra çoklu kaynaklı RSS + Telegram haberleri, sonra en yenisi
+    # Önce öncelikli kelimeler, sonra bugünkü tüm Telegram haberleri, sonra çoklu kaynaklı RSS, sonra en yenisi
     adaylar.sort(
-        key=lambda h: (h["oncelikli"], len(h.get("diger_kaynaklar", [])) + (1 if h.get("tg_kanal") else 0), h["zaman"]),
+        key=lambda h: (h["oncelikli"], 1 if h.get("tg_kanal") else 0, len(h.get("diger_kaynaklar", [])), h["zaman"]),
         reverse=True,
     )
     return adaylar[0] if adaylar else None
