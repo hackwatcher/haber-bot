@@ -6164,8 +6164,15 @@
     "ozer",
     "sel"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-10-18T01:48:01.308803+03:00",
+   "ig_id": "18109958930269931",
+   "reels_id": "18424865920158479",
+   "story_id": "18219186355345950",
+   "yorum_id": "hata: (#10) Application does not have permission for this action  (kod 10/-)",
+   "slayt": 5,
+   "kanca": "CANLI YAYINDA KAZA"
   },
   "123b8948d02b": {
    "id": "123b8948d02b",
@@ -6431,6 +6438,8 @@
   }
  },
  "kayit": [
+  "18.10 01:48:01  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
+  "18.10 01:48:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): XHABER · İstanbul Çekmeköy'de sel felaketini aktaran NTV muhabiri Beyzanur Özer",
   "18.10 01:18:52  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 01:18:52  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): XHABER · Trump: “Orta Doğu’dan birinin adından emin değilseniz, direkt Muhammed",
   "18.10 01:01:22  Otomatik paylaşım başarısız: list index out of range",
