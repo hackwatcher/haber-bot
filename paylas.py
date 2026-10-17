@@ -184,6 +184,92 @@ class Instagram:
         return self.yayimla(cid)
 
 
+
+def fb_token_oku(fb):
+    tok = (os.environ.get("FB_TOKEN") or "").strip()
+    yol = os.path.join(KOK, fb.get("token_dosyasi", ".gizli/fb_token.txt"))
+    if not tok and os.path.exists(yol):
+        with open(yol, encoding="utf-8") as f:
+            tok = f.read().strip()
+    if not tok:
+        tok = (os.environ.get("META_TOKEN") or "").strip()
+    if not tok or tok.startswith("#"):
+        raise RuntimeError(f"Facebook token'ı yok: FB_TOKEN secret'ı ya da {fb.get('token_dosyasi')} gerekli.")
+    return tok
+
+
+class Facebook:
+    def __init__(self, fb_cfg):
+        self.ayar = fb_cfg
+        self.base = "https://graph.facebook.com/v26.0/"
+        self.token = fb_token_oku(fb_cfg)
+        self._sayfa_id = fb_cfg.get("sayfa_id")
+        self._sayfa_token = None
+
+    def call(self, method, path, token=None, **params):
+        params["access_token"] = token or self.token
+        try:
+            if method == "GET":
+                r = requests.get(self.base + path, params=params, timeout=120)
+            else:
+                r = requests.post(self.base + path, data=params, timeout=120)
+            data = r.json()
+        except Exception as e:
+            raise RuntimeError(f"{path}: istek başarısız: {str(e).replace(self.token, '***')}") from None
+        if "error" in data:
+            e = data["error"]
+            raise RuntimeError(f"Facebook: {e.get('message', '')} (kod {e.get('code')}/{e.get('error_subcode', '-')})")
+        return data
+
+    @property
+    def sayfa(self):
+        """Sayfa ID'si ve Page Access Token'ı döndürür."""
+        if self._sayfa_id and self._sayfa_token:
+            return self._sayfa_id, self._sayfa_token
+        r = self.call("GET", "me/accounts", fields="id,name,access_token", limit="50")
+        for s in r.get("data", []):
+            if not self._sayfa_id or s["id"] == str(self._sayfa_id) or s["name"].lower() == "xhabercom":
+                self._sayfa_id = s["id"]
+                self._sayfa_token = s["access_token"]
+                return self._sayfa_id, self._sayfa_token
+        raise RuntimeError(f"Facebook sayfası ({self._sayfa_id or 'xhabercom'}) bulunamadı.")
+
+    def gonder(self, gorsel_urlleri, aciklama, link=None):
+        """Facebook sayfasına gönderi atar (tek fotoğraf veya çoklu fotoğraf albümü)."""
+        pid, ptok = self.sayfa
+        mesaj = aciklama
+        if link and link not in mesaj:
+            mesaj = f"{mesaj}\n\n🔗 Haberin Detayı: {link}"
+
+        fotolar = [u for u in gorsel_urlleri if not u.lower().endswith(".mp4")]
+        if not fotolar:
+            fotolar = gorsel_urlleri
+
+        if len(fotolar) == 1:
+            r = self.call("POST", f"{pid}/photos", token=ptok, url=fotolar[0], caption=mesaj)
+            return r.get("post_id") or r.get("id")
+        else:
+            media_fbids = []
+            for u in fotolar[:10]:
+                r = self.call("POST", f"{pid}/photos", token=ptok, url=u, published="false")
+                media_fbids.append({"media_fbid": r["id"]})
+            payload = {
+                "message": mesaj,
+                "attached_media": json.dumps(media_fbids)
+            }
+            r = self.call("POST", f"{pid}/feed", token=ptok, **payload)
+            return r.get("id")
+
+    def reels(self, video_url, aciklama, link=None):
+        """Facebook sayfasına video (Reels) yükler."""
+        pid, ptok = self.sayfa
+        mesaj = aciklama
+        if link and link not in mesaj:
+            mesaj = f"{mesaj}\n\n🔗 Haberin Detayı: {link}"
+        r = self.call("POST", f"{pid}/videos", token=ptok, file_url=video_url, description=mesaj)
+        return r.get("id")
+
+
 def gh_token():
     tok = (os.environ.get("MEDIA_TOKEN") or os.environ.get("GITHUB_TOKEN") or "").strip()
     if tok:
@@ -224,10 +310,10 @@ def github_yukle(yollar, repo):
     return urller
 
 
-def paylas(gorseller, aciklama, cfg, video=None, story=None, ilk_yorum=None):
-    """Gönderi (tek kart/karusel), sonra Reels ve story. {"gonderi": id, "reels": id|hata, "story": id|hata, "yorum": id|hata} döner.
+def paylas(gorseller, aciklama, cfg, video=None, story=None, ilk_yorum=None, link=None):
+    """Gönderi (tek kart/karusel), sonra Reels, story ve Facebook. {"gonderi": id, ...} döner.
 
-    Gönderi başarısızsa hata fırlatır; Reels/story/yorum hatası gönderiyi geri almaz, sadece kaydedilir.
+    Gönderi başarısızsa hata fırlatır; Reels/story/yorum/facebook hatası gönderiyi geri almaz, sadece kaydedilir.
     """
     ig = cfg["instagram"]
     istemci = Instagram(ig)
@@ -257,6 +343,20 @@ def paylas(gorseller, aciklama, cfg, video=None, story=None, ilk_yorum=None):
                 istemci.yorum_yap(sonuc["reels"], ilk_yorum)
             except Exception:
                 pass
+
+    fb_cfg = cfg.get("facebook")
+    if fb_cfg and fb_cfg.get("acik"):
+        try:
+            fb = Facebook(fb_cfg)
+            sonuc["facebook"] = fb.gonder(gorsel_url, aciklama, link=link)
+            if video and fb_cfg.get("reels", True):
+                try:
+                    sonuc["facebook_reels"] = fb.reels(ek_url[video], aciklama, link=link)
+                except Exception as e:
+                    sonuc["facebook_reels"] = f"hata: {e}"
+        except Exception as e:
+            sonuc["facebook"] = f"hata: {e}"
+
     return sonuc
 
 

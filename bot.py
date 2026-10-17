@@ -191,9 +191,16 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
             ilk_yorum = sorular.get(konu, "📌 Bu konu hakkındaki düşünceleriniz neler? Yorumlarda buluşalım.")
 
         if cfg.get("deneme_modu"):
-            sonuc = {"gonderi": "deneme", "reels": "deneme" if video else None, "story": "deneme" if story else None, "yorum": "deneme" if ilk_yorum else None}
+            sonuc = {
+                "gonderi": "deneme",
+                "reels": "deneme" if video else None,
+                "story": "deneme" if story else None,
+                "yorum": "deneme" if ilk_yorum else None,
+                "facebook": "deneme" if cfg.get("facebook", {}).get("acik") else None,
+                "facebook_reels": "deneme" if (cfg.get("facebook", {}).get("acik") and video and cfg.get("facebook", {}).get("reels", True)) else None,
+            }
         else:
-            sonuc = paylas.paylas(yollar, metin, cfg, video=video, story=story, ilk_yorum=ilk_yorum)
+            sonuc = paylas.paylas(yollar, metin, cfg, video=video, story=story, ilk_yorum=ilk_yorum, link=h.get("link"))
         ig_id = sonuc["gonderi"]
         with haber.KILIT:
             d = haber.durum_oku()
@@ -201,6 +208,7 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
             h2.update({"durum": "paylasildi", "paylasildi": simdi().isoformat(), "ig_id": ig_id,
                        "reels_id": sonuc.get("reels"), "story_id": sonuc.get("story"),
                        "yorum_id": sonuc.get("yorum"),
+                       "fb_id": sonuc.get("facebook"), "fb_reels_id": sonuc.get("facebook_reels"),
                        "slayt": len(yollar), "kanca": z["kanca"]})
             # aynı olayın diğer sitelerdeki kopyaları da kapansın
             for x in d["haberler"].values():
@@ -208,11 +216,11 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
                     x["durum"] = "tekrar"
             on = "[DENEME] " if cfg.get("deneme_modu") else ""
             tur = f"{len(yollar)} slaytlık karusel" if len(yollar) > 1 else "tek kart"
-            ekler = [ad for ad in ("reels", "story", "yorum") if sonuc.get(ad) and not str(sonuc[ad]).startswith("hata")]
+            ekler = [ad for ad in ("reels", "story", "yorum", "facebook", "facebook_reels") if sonuc.get(ad) and not str(sonuc[ad]).startswith("hata")]
             if ekler:
                 tur += " + " + " + ".join(e.capitalize() for e in ekler)
             haber.kaydet(d, f"{on}Paylaşıldı ({kim}, {tur}): {h['kaynak']} · {h['baslik'][:70]}")
-            for ad in ("reels", "story", "yorum"):
+            for ad in ("reels", "story", "yorum", "facebook", "facebook_reels"):
                 if str(sonuc.get(ad) or "").startswith("hata"):
                     hatalar.append(f"{ad}: {sonuc[ad][6:]}")
             for hata in hatalar:

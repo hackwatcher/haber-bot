@@ -37,6 +37,7 @@
   "reels": {"acik": true, "akisa_da": false, "spikerli": true, "spiker_hiz": 1.15, "altyazi": false, "daktilo": true, "daktilo_sn": 2.6, "foto_hareket": true},
   "karusel": {"hareketli_kapak": true, "sure_sn": 4.0},
   "story": {"acik": true, "sadece_telegram": true},
+  "facebook": {"acik": true, "sayfa_id": "1276642895542042", "token_dosyasi": ".gizli/fb_token.txt", "reels": true},
 
   "deneme_modu": false
 }
