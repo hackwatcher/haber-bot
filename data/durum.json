@@ -4349,7 +4349,8 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1aed6680e6a5": {
    "id": "1aed6680e6a5",
@@ -4480,9 +4481,65 @@
    "story_id": "18100491026561712",
    "slayt": 1,
    "kanca": "Dikkat"
+  },
+  "2211498b9c8f": {
+   "id": "2211498b9c8f",
+   "kaynak": "Hürriyet",
+   "baslik": "Tehlike geçmedi: Sağanak yağış geri geliyor! Sel felaketinin ardından uyarılar peş peşe geldi | Meteoroloji saat verdi: İstanbul dahil 45 ilde alarm",
+   "ozet": "İstanbul başta olmak üzere birçok kentte yaşanan sel felaketinin ardından Meteoroloji Genel Müdürlüğü’nden sarı ve turuncu kodlu yeni bir uyarı geldi. Yurt genelinde 45 ili etkisi altına alması beklenen şiddetli sağanak ve kuvvetli fırtına nedeniyle yetkililer teyakkuza geçti.",
+   "link": "https://www.hurriyet.com.tr/gundem/live-tehlike-gecmedi-saganak-yagis-geri-geliyor-sel-felaketinin-ardindan-uyarilar-pes-pese-geldi-meteoroloji-saat-verdi-istanbul-dahil-45-43344817",
+   "zaman": "2026-10-17T07:31:00+03:00",
+   "kelimeler": [
+    "45",
+    "alarm",
+    "ardin",
+    "dahil",
+    "felak",
+    "gecme",
+    "geldi",
+    "geliy",
+    "geri",
+    "ilde",
+    "istan",
+    "meteo",
+    "pes",
+    "pese",
+    "saat",
+    "sagan",
+    "sel",
+    "tehli",
+    "uyari",
+    "verdi",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "013fb9e9c775"
+  },
+  "fceb0b0c541a": {
+   "id": "fceb0b0c541a",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İstanbul'a düşen 'rekor' yağışın sele dönüşmesi nasıl önlenebilirdi?",
+   "ozet": "İstanbul'da, 14 Ekim'den beri aralıklı olarak süren yağışlar resmi kayıtların başlamasından bu yana kentte yaşanan en şiddetli hava olayları arasında yerini aldı.",
+   "link": "https://www.bbc.com/turkce/articles/c687zjl55p3qo",
+   "zaman": "2026-10-17T10:14:29+03:00",
+   "kelimeler": [
+    "donus",
+    "dusen",
+    "istan",
+    "nasil",
+    "onlen",
+    "rekor",
+    "sele",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.10 10:16:05  1 yeni haber",
+  "17.10 10:16:05  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 10:02:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu y",
   "17.10 09:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Kütahya'da 3.4 büyüklüğünde deprem",
   "17.10 09:31:04  2 yeni haber",
