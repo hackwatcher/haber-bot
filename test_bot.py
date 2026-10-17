@@ -167,7 +167,7 @@ class TestHaberBot(unittest.TestCase):
 
         simdi_dt = bot.simdi()
         simdi_iso = simdi_dt.isoformat()
-        sekiz_saat_once = (simdi_dt - dt.timedelta(hours=8)).isoformat()
+        sekiz_saat_once = (simdi_dt - bot.dt.timedelta(hours=8)).isoformat()
         d = {
             "haberler": {
                 "rss_tek": {"id": "rss_tek", "durum": "yeni", "oncelikli": False, "diger_kaynaklar": [], "zaman": simdi_iso},
