@@ -3532,7 +3532,10 @@
     "mugla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "e8a8a14c1d9a": {
    "id": "e8a8a14c1d9a",
@@ -4867,7 +4870,50 @@
    "reels_id": "17978843627918513",
    "story_id": "18031557194681056",
    "slayt": 1,
-   "kanca": "Son dakika"
+   "kanca": "Son dakika",
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "4db21b347519": {
+   "id": "4db21b347519",
+   "kaynak": "Hürriyet",
+   "baslik": "Etimesgut Belediyesi soruşturmasında 7 tutuklama",
+   "ozet": "Etimesgut Belediyesi soruşturmasında 2 belediye başkan yardımcısı dahil 7 kişi tutuklandı. 4 şüpheli hakkında ev hapsi kararı verildi",
+   "link": "https://www.hurriyet.com.tr/gundem/etimesgut-belediyesi-sorusturmasinda-7-tutuklama-43345028",
+   "zaman": "2026-10-17T11:30:35+03:00",
+   "kelimeler": [
+    "beled",
+    "etime",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a1ca356e0111"
+  },
+  "145d79012c58": {
+   "id": "145d79012c58",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa ettiğini açıkladı",
+   "ozet": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras 16 Ekim'de sosyal medya üzerinden bir açıklama yaparak CHP'den ayrıldığını ifade etti. Aras, \"Görevimi bağımsız olarak sürdürme kararı aldım\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cq33x5l3p8vko",
+   "zaman": "2026-10-17T11:32:58+03:00",
+   "kelimeler": [
+    "ahmet",
+    "aras",
+    "baska",
+    "beled",
+    "buyuk",
+    "chp",
+    "den",
+    "ettig",
+    "istif",
+    "mugla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eb4b1b58f897"
   }
  },
  "kayit": [
