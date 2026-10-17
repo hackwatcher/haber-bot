@@ -176,6 +176,13 @@ def guncelle():
             gelen += akis_oku(k)
         except Exception as e:
             hatalar.append(f"{k['ad']}: {e}")
+    if cfg.get("telegram_kanallari"):
+        import telegram_kaynak
+        for tk in cfg["telegram_kanallari"]:
+            try:
+                gelen += telegram_kaynak.kanal_oku(tk)
+            except Exception as e:
+                hatalar.append(f"Telegram ({tk.get('kullanici', '')}): {e}")
 
     with KILIT:
         d = durum_oku()

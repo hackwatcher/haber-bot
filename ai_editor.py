@@ -128,7 +128,7 @@ def zenginlestir_ai(h, z_varsayilan=None):
         return z_varsayilan
 
     try:
-        spot, paragraflar, _ = ozet.sayfa_oku(h["link"])
+        spot, paragraflar, _ = ozet.sayfa_oku(h["link"], yedek_metin=h.get("tg_metin", ""))
         if not paragraflar and not spot:
             return z_varsayilan
         ai = metin_analiz_et(h, spot, paragraflar, anahtar)

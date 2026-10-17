@@ -10,6 +10,10 @@
     {"ad": "BBC Türkçe", "url": "https://feeds.bbci.co.uk/turkce/rss.xml"}
   ],
 
+  "telegram_kanallari": [
+    {"ad": "XHABER", "kullanici": "sahinozkan000"}
+  ],
+
   "otomatik": {
     "kontrol_dakika": 2,
     "iki_paylasim_arasi_dakika": 20,

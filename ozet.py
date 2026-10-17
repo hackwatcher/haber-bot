@@ -162,7 +162,10 @@ def rakamlar_bul(cumleler, baslik, haric):
 
 # ---------- metin çekme ----------
 
-def sayfa_oku(url):
+def sayfa_oku(url, yedek_metin=""):
+    if "t.me/" in url:
+        import telegram_kaynak
+        return telegram_kaynak.sayfa_oku_tg(url, yedek_metin=yedek_metin)
     r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
     r.raise_for_status()
     metin = r.text
@@ -342,7 +345,7 @@ def sec(adaylar, n, kullanilan_kel, baslik_kel):
 def zenginlestir(h):
     """Haber kaydına konu, il, kanca ve karusel slaytlarını ekler. Az bilgi varsa slayt listesi boş kalır (tek kart)."""
     try:
-        spot, paragraflar, tam_metin = sayfa_oku(h["link"])
+        spot, paragraflar, tam_metin = sayfa_oku(h["link"], yedek_metin=h.get("tg_metin", ""))
     except Exception:
         spot, paragraflar, tam_metin = "", [], ""
     cumleler = []

@@ -144,6 +144,38 @@ class TestHaberBot(unittest.TestCase):
             self.assertEqual(z["konu"], "dunya")
             self.assertEqual(z["foto"]["yol"], "data/kapaklar/test12345678.jpg")
 
+    def test_telegram_kaynak_ve_akilli_oncelik(self):
+        """Telegram HTML ayrıştırıcı foto/video/metin çıkarmalı ve bot.otomatik_sec Akıllı Öncelik uygulamalı."""
+        import telegram_kaynak
+
+        ornek_html = '''
+        <div class="tgme_widget_message" data-post="sahinozkan000/30276">
+          <a class="tgme_widget_message_photo_wrap" style="width:680px;background-image:url('https://cdn4.telesco.pe/file/test.jpg')"></a>
+          <div class="tgme_widget_message_text" dir="auto">Fenerbahçe, Alanyaspor'u bugün oynanan maçta 3 - 0 yendi.<br/>İrfancan Kahveci'nin 3 golü de iptal edildi.</div>
+          <time datetime="2026-10-17T18:30:00+00:00"></time>
+        </div>
+        <div class="tgme_widget_message" data-post="sahinozkan000/30272">
+          <video src="https://cdn4.telesco.pe/file/test.mp4"></video>
+          <div class="tgme_widget_message_text" dir="auto">İstanbul Çekmeköy'de sel felaketini aktaran muhabire otobüs aynası çarptı.</div>
+          <time datetime="2026-10-17T18:10:00+00:00"></time>
+        </div>
+        '''
+        liste = telegram_kaynak.html_ayristir(ornek_html, ad="XHABER", kullanici="sahinozkan000")
+        self.assertEqual(len(liste), 2)
+        self.assertEqual(liste[0]["tg_foto_url"], "https://cdn4.telesco.pe/file/test.jpg")
+        self.assertEqual(liste[1]["tg_video_url"], "https://cdn4.telesco.pe/file/test.mp4")
+
+        simdi_iso = bot.simdi().isoformat()
+        d = {
+            "haberler": {
+                "rss_tek": {"id": "rss_tek", "durum": "yeni", "oncelikli": False, "diger_kaynaklar": [], "zaman": simdi_iso},
+                "tg_haber": {"id": "tg_haber", "durum": "yeni", "oncelikli": False, "diger_kaynaklar": [], "tg_kanal": "sahinozkan000", "zaman": simdi_iso},
+            }
+        }
+        cfg = {"otomatik": {"haber_en_eski_dakika": 90, "sadece_oncelikli": False}}
+        secilen = bot.otomatik_sec(d, cfg)
+        self.assertEqual(secilen["id"], "tg_haber")
+
 
 if __name__ == "__main__":
     unittest.main()

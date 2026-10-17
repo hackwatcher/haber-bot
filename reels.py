@@ -80,6 +80,15 @@ def sureler(haber, n):
     return [2.5] + orta + [1.8]
 
 
+def ffmpeg_yolu():
+    import shutil
+    p = shutil.which("ffmpeg")
+    if p:
+        return p
+    import imageio_ffmpeg
+    return imageio_ffmpeg.get_ffmpeg_exe()
+
+
 def video(haber, marka, kullanici_adi, slaytlar, cikti):
     """slaytlar: 1080x1350 görseller (KAYDIR'sız). Müzikli mp4 yazar, yolunu döndürür."""
     _, vurgu, zemin, _ = konu_renkleri(haber)
@@ -90,7 +99,7 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti):
     toplam_sn = sum(sure)
     muzik = muzik_sec(haber)
 
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
+    cmd = [ffmpeg_yolu(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
            "-r", str(FPS), "-i", "-"]
     if muzik:
         cmd += ["-i", muzik, "-filter:a", f"afade=t=in:d=0.3,afade=t=out:st={toplam_sn - 1.2:.2f}:d=1.2,volume=0.85",
@@ -122,8 +131,49 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti):
     return cikti
 
 
+def gercek_video_reels(haber, marka, kullanici_adi, kaynak_video, cikti):
+    """Telegram veya kaynaktan gelen gerçek .mp4 videoyu sesini koruyarak 1080x1920 XHABER Reels formatına giydirir."""
+    v_yol = kaynak_video if os.path.isabs(kaynak_video) else os.path.join(KOK, kaynak_video)
+    if not os.path.exists(v_yol):
+        raise RuntimeError("Kaynak video bulunamadı")
+    _, vurgu, zemin, yazi_rengi = konu_renkleri(haber)
+    img = Image.new("RGB", (W, H), zemin)
+    c = ImageDraw.Draw(img)
+    ust_yazi = kart.buyuk(haber.get("kanca") or "SON DAKİKA")
+    if len(ust_yazi) > 26:
+        ust_yazi = "SON DAKİKA"
+    etiket(c, 180, vurgu, yazi_rengi, yazi=ust_yazi)
+    alt_haber = {
+        "kanca": haber.get("kaynak", marka),
+        "baslik": haber.get("baslik", ""),
+        "ozet": "",
+    }
+    kart.metin_blogu(c, alt_haber, 980, 1460, vurgu, en_buyuk=66, ozet_satir=0)
+    c.line([(kart.KENAR, 1490), (W - kart.KENAR, 1490)], fill=(38, 43, 54), width=2)
+    c.text((kart.KENAR, 1520), f"{kart.buyuk(marka)}  ·  {kullanici_adi}", font=font(KALIN, 36), fill=kart.GRI)
+    zemin_dosya = cikti + "_zemin.jpg"
+    img.save(zemin_dosya, "JPEG", quality=95)
+    try:
+        cmd = [
+            ffmpeg_yolu(), "-y", "-loglevel", "error",
+            "-loop", "1", "-i", zemin_dosya,
+            "-i", v_yol,
+            "-filter_complex", "[1:v]scale=1080:640:force_original_aspect_ratio=decrease[vid];[0:v][vid]overlay=(W-w)/2:300:shortest=1[outv]",
+            "-map", "[outv]", "-map", "1:a?",
+            "-t", "58",
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p",
+            "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", "-shortest", cikti,
+        ]
+        subprocess.run(cmd, check=True, timeout=120)
+    finally:
+        if os.path.exists(zemin_dosya):
+            os.remove(zemin_dosya)
+    return cikti
+
+
 def story(haber, marka, kullanici_adi, kapak, cikti):
     """Story görseli: videonun ilk karesi, altta profile yönlendirme."""
     img, _ = zemin_kare(haber, marka, kullanici_adi, kapak, 0, 1, alt_yazi="DETAYLAR PROFİLDE  " + kullanici_adi)
     img.save(cikti, "JPEG", quality=92)
     return cikti
+

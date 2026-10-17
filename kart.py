@@ -9,7 +9,7 @@ import json
 import math
 import os
 
-from PIL import Image, ImageDraw, ImageFont, ImageOps
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 KOK = os.path.dirname(os.path.abspath(__file__))
 KALIN = os.path.join(KOK, "fonts", "Montserrat-ExtraBold.ttf")
@@ -200,20 +200,28 @@ def ciz_kart(haber, marka, kullanici_adi, cikti, sayfa=None, kaydir=False):
     if foto and foto.get("yol"):
         foto_yol = foto["yol"] if os.path.isabs(foto["yol"]) else os.path.join(KOK, foto["yol"])
     if foto_yol and os.path.exists(foto_yol):
-        resim = ImageOps.fit(Image.open(foto_yol).convert("RGB"), (G, 660), centering=(.5, .5))
-        img.paste(resim, (0, 0))
+        ham = Image.open(foto_yol).convert("RGB")
+        yuk = 900 if ham.height / max(ham.width, 1) >= 0.75 else 660
+        tam = ImageOps.contain(ham, (G, yuk), method=Image.LANCZOS)
+        arka = ImageOps.fit(ham, (G, yuk), method=Image.LANCZOS).filter(ImageFilter.GaussianBlur(28)).point(lambda p: p * 0.45)
+        arka.paste(tam, ((G - tam.width) // 2, (yuk - tam.height) // 2))
+        img.paste(arka, (0, 0))
         # fotoğrafın altını zemine erit
-        perde = Image.new("RGB", (G, 240), zemin)
-        maske = Image.linear_gradient("L").resize((G, 240))
-        img.paste(perde, (0, 420), maske)
+        erime = 340 if yuk > 660 else 240
+        perde = Image.new("RGB", (G, erime), zemin)
+        maske = Image.linear_gradient("L").resize((G, erime))
+        img.paste(perde, (0, yuk - erime), maske)
         ust = Image.new("RGB", (G, 200), (0, 0, 0))
         img.paste(ust, (0, 0), Image.linear_gradient("L").rotate(180).resize((G, 200)).point(lambda v: v * .55))
         ust_serit(c, marka, konu, sayfa=sayfa)
         fk = font(NORMAL, 22)
         not_ = foto.get("not", "")
         if not_:
-            c.text((G - KENAR - c.textlength(not_, font=fk), 612), not_, font=fk, fill=(200, 205, 212))
-        metin_blogu(c, haber, 670, 1160, vurgu, en_buyuk=80, ozet_satir=2)
+            c.text((G - KENAR - c.textlength(not_, font=fk), (yuk - 330) if yuk > 660 else 612), not_, font=fk, fill=(200, 205, 212))
+        if yuk > 660:
+            metin_blogu(c, haber, 770, 1185, vurgu, en_buyuk=74, ozet_satir=0)
+        else:
+            metin_blogu(c, haber, 670, 1160, vurgu, en_buyuk=80, ozet_satir=2)
     elif haber.get("il"):
         ust_serit(c, marka, konu, sayfa=sayfa)
         il_haritasi(c, haber["il"], (KENAR - 20, 170, G - KENAR + 20, 560), vurgu, zemin)

@@ -44,6 +44,13 @@ def hazirla(h, duzenleme=None):
     """Haberin tam metnini okuyup karusel (bilgi azsa tek kart) üretir. (görsel yolları, açıklama, haber) döndürür."""
     cfg = haber.ayar()
     z = ozet.zenginlestir(h)
+    if h.get("tg_kanal") or "t.me/" in h.get("link", ""):
+        import telegram_kaynak
+        tg_foto, tg_video = telegram_kaynak.medya_indir(h, cfg["marka"])
+        if tg_foto:
+            z["foto"] = tg_foto
+        if tg_video:
+            z["tg_video"] = tg_video
     if not h.get("duzenleme") and not duzenleme:
         z = ai_editor.zenginlestir_ai(h, z)
     uygula(z, h.get("duzenleme"), cfg["marka"])
@@ -69,10 +76,17 @@ def ekleri_hazirla(z, yollar, klasor):
     except Exception as e:
         vs, _ = yollar, hatalar.append(f"video slaytı: {e}")
     if cfg.get("reels", {}).get("acik", True):
-        try:
-            video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, os.path.join(klasor, "reels.mp4"))
-        except Exception as e:
-            hatalar.append(f"Reels videosu: {e}")
+        reels_dosya = os.path.join(klasor, "reels.mp4")
+        if z.get("tg_video"):
+            try:
+                video = reels.gercek_video_reels(z, cfg["marka"], cfg["kullanici_adi"], z["tg_video"], reels_dosya)
+            except Exception as e:
+                hatalar.append(f"Gerçek video Reels: {e}")
+        if not video:
+            try:
+                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya)
+            except Exception as e:
+                hatalar.append(f"Reels videosu: {e}")
     if cfg.get("story", {}).get("acik", True):
         try:
             story = reels.story(z, cfg["marka"], cfg["kullanici_adi"], vs[0], os.path.join(klasor, "story.jpg"))
@@ -158,8 +172,11 @@ def otomatik_sec(d, cfg):
                and dt.datetime.fromisoformat(h["zaman"]) >= sinir]
     if o.get("sadece_oncelikli"):
         adaylar = [h for h in adaylar if h["oncelikli"]]
-    # önce öncelikli haberler, sonra birden fazla sitenin verdiği haberler, sonra en yenisi
-    adaylar.sort(key=lambda h: (h["oncelikli"], len(h.get("diger_kaynaklar", [])), h["zaman"]), reverse=True)
+    # Akıllı Öncelik: önce öncelikli kelimeler, sonra çoklu kaynaklı RSS + Telegram haberleri, sonra en yenisi
+    adaylar.sort(
+        key=lambda h: (h["oncelikli"], len(h.get("diger_kaynaklar", [])) + (1 if h.get("tg_kanal") else 0), h["zaman"]),
+        reverse=True,
+    )
     return adaylar[0] if adaylar else None
 
 
