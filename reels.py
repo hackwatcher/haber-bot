@@ -109,7 +109,7 @@ def altyazi_kutusu(img, metin, vurgu=(220, 38, 38)):
     return img
 
 
-def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True):
+def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hiz=1.15):
     """slaytlar: 1080x1350 görseller (KAYDIR'sız). Spiker sesli ve altyazılı mp4 yazar, yolunu döndürür."""
     _, vurgu, zemin, _ = konu_renkleri(haber)
     n = len(slaytlar)
@@ -123,7 +123,8 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True):
     if spikerli:
         try:
             import spiker
-            spiker_dosya, spiker_sn, altyazilar = spiker.seslendir(haber, hiz=1.30)
+            hiz = haber.get("spiker_hiz") or spiker_hiz
+            spiker_dosya, spiker_sn, altyazilar = spiker.seslendir(haber, hiz=hiz)
         except Exception as e:
             spiker_dosya = None
             print(f"Spiker seslendirme atlandı: {e}", flush=True)

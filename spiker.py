@@ -117,8 +117,8 @@ def altyazi_parcala(metin, toplam_sure):
     return araliklar
 
 
-def seslendir(z, cikti=None, hiz=1.30):
-    """Spiker metnini hızlı TV spikeri temposunda (1.30x) seslendirir ve MP3 kaydeder.
+def seslendir(z, cikti=None, hiz=1.15):
+    """Spiker metnini dengeli TV spikeri temposunda (1.15x) seslendirir ve MP3 kaydeder.
     (dosya_yolu, sure_sn, altyazilar) tuple'ı döndürür; hata durumunda (None, 0.0, []) döner.
     """
     hid = z.get("id", "temp")
