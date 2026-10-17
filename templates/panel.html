@@ -50,8 +50,7 @@
 <body>
 <header>
   <h1>Haber Paneli</h1>
-  <span id="deneme" class="rozet deneme" hidden>DENEME MODU · gerçekten paylaşılmıyor</span>
-  <label class="anahtar" id="oto"><i></i><span>Otomatik paylaşım</span></label>
+  <span class="rozet" style="background:#2bb673;color:#000;font-weight:700;">CANLI İZLEME · Yalnızca Tıklayınca Paylaşır</span>
   <span class="bilgi" id="sayac"></span>
   <span style="flex:1"></span>
   <div class="filtre" id="filtre">
@@ -96,9 +95,9 @@ const post = (u, b) => fetch(u, {method: "POST", headers: {"Content-Type": "appl
 
 async function yukle() {
   veri = await (await fetch("/api/durum")).json();
-  $("#deneme").hidden = !veri.deneme;
-  $("#oto").classList.toggle("acik", veri.otomatik);
-  $("#sayac").textContent = `Bugün ${veri.bugun}/${veri.gunluk_en_fazla} paylaşım · en az ${veri.aralik} dk arayla (otomatik)`;
+  if ($("#deneme")) $("#deneme").hidden = !veri.deneme;
+  if ($("#oto")) $("#oto").classList.toggle("acik", veri.otomatik);
+  $("#sayac").textContent = `Bugün ${veri.bugun}/${veri.gunluk_en_fazla} paylaşım (GitHub Actions otomatik · Panel manuel)`;
   $("#kayit").textContent = veri.kayit.join("\n");
   ciz();
 }
@@ -167,11 +166,13 @@ $("#dPaylas").onclick = async () => {
   $("#dPaylas").disabled = false; $("#dPaylas").textContent = "Paylaş"; $("#dlg").close();
 };
 
-$("#oto").onclick = async () => {
-  const yeni = !veri.otomatik;
-  if (yeni && !confirm("Otomatik paylaşım açılsın mı? Bot yeni haberleri kendisi paylaşacak.")) return;
-  await post("/api/otomatik", {acik: yeni}); yukle();
-};
+if ($("#oto")) {
+  $("#oto").onclick = async () => {
+    const yeni = !veri.otomatik;
+    if (yeni && !confirm("Otomatik paylaşım açılsın mı? Bot yeni haberleri kendisi paylaşacak.")) return;
+    await post("/api/otomatik", {acik: yeni}); yukle();
+  };
+}
 $("#yenile").onclick = async () => { $("#yenile").textContent = "…"; await post("/api/yenile"); $("#yenile").textContent = "↻ Yenile"; yukle(); };
 $("#filtre").onclick = e => {
   const b = e.target.closest("button"); if (!b) return;

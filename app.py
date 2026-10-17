@@ -18,8 +18,8 @@ app = Flask(__name__)
 def dongu():
     while True:
         try:
+            # Panel 'Sadece İzleme' modundadır; akışları çeker ama asla kendi kendine paylaşım yapmaz
             haber.guncelle()
-            otomatik_tur()
         except Exception as e:
             print("Döngü hatası:", e, flush=True)
         time.sleep(max(1, haber.ayar()["otomatik"]["kontrol_dakika"]) * 60)
@@ -84,7 +84,25 @@ def gorsel(hid, ad):
 @app.post("/api/paylas/<hid>")
 def api_paylas(hid):
     try:
-        ig_id = haberi_paylas(hid, request.json or {})
+        # Uzak depodaki (GitHub Actions) son durumu çek
+        try:
+            import subprocess
+            subprocess.run(["git", "pull", "-q", "--rebase", "-X", "ours", "origin", "main"], timeout=15)
+        except Exception:
+            pass
+
+        ig_id = haberi_paylas(hid, request.json or {}, kim="panel")
+
+        # Paylaşıldı bilgisini remote'a (GitHub) pushla ki GitHub Actions bilsin
+        try:
+            import subprocess
+            subprocess.run(["git", "add", "data/durum.json"], timeout=10)
+            subprocess.run(["git", "commit", "-m", "Panel: manuel paylasim"], timeout=10)
+            subprocess.run(["git", "pull", "-q", "--rebase", "-X", "ours", "origin", "main"], timeout=15)
+            subprocess.run(["git", "push", "-q", "origin", "main"], timeout=15)
+        except Exception:
+            pass
+
         return jsonify(ok=True, id=ig_id)
     except Exception as e:
         return jsonify(ok=False, hata=str(e)), 400
