@@ -90,22 +90,30 @@ def ffmpeg_yolu():
 
 
 def altyazi_kutusu(img, metin, vurgu=(220, 38, 38)):
-    """Kare üzerine modern TV bülteni altyazı bandı yerleştirir (büyük, okunaklı font)."""
+    """Kare üzerine modern TV bülteni altyazı bandı yerleştirir.
+
+    Instagram Reels Güvenli Alanı (Safe Zone):
+    - Alt kullanıcı adı, müzik başlığı ve butonların üstünde kalması için Y: 1475..1560
+    - Sağdaki beğeni/yorum butonları sütununa (X > 940) taşmaması için genişlik maks 800px (X: 140..940)
+    """
     if not metin:
         return img
     c = ImageDraw.Draw(img)
-    f_sub = font(KALIN, 44)
+    f_sub = font(KALIN, 40)
     tw = c.textlength(metin, font=f_sub)
-    if tw > 880:
-        f_sub = font(KALIN, 36)
+    if tw > 710:
+        f_sub = font(KALIN, 33)
         tw = c.textlength(metin, font=f_sub)
-    gen = min(1020, tw + 96)
+    if tw > 710:
+        f_sub = font(KALIN, 27)
+        tw = c.textlength(metin, font=f_sub)
+    gen = min(800, tw + 90)
     x0 = (W - gen) / 2
-    y0 = 1705
-    y1 = y0 + 86
-    c.rounded_rectangle([x0, y0, x0 + gen, y1], radius=18, fill=(22, 26, 36), outline=(50, 58, 72), width=2)
-    c.ellipse([x0 + 26, y0 + 31, x0 + 50, y0 + 55], fill=vurgu)
-    c.text((x0 + 68, y0 + 17), metin, font=f_sub, fill=BEYAZ)
+    y0 = 1475
+    y1 = y0 + 85
+    c.rounded_rectangle([x0, y0, x0 + gen, y1], radius=18, fill=(18, 22, 30), outline=(52, 60, 76), width=2)
+    c.ellipse([x0 + 24, y0 + 31, x0 + 48, y0 + 55], fill=vurgu)
+    c.text((x0 + 62, y0 + 18), metin, font=f_sub, fill=BEYAZ)
     return img
 
 
