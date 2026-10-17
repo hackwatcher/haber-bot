@@ -83,16 +83,26 @@ class Instagram:
         except Exception as e:
             sonuc["izin_hatasi"] = str(e)
         try:
-            r = self.call("GET", "me/accounts", fields="id,name,tasks,instagram_business_account{username}", limit="50")
-            sonuc["sayfalar"] = [
-                {
+            r = self.call("GET", "me/accounts", fields="id,name,access_token,tasks,instagram_business_account{username}", limit="50")
+            sayfalar = []
+            for s in r.get("data", []):
+                p_tok = s.get("access_token")
+                yazma_testi = "token_yok"
+                if p_tok:
+                    try:
+                        r_perm = requests.get(f"https://graph.facebook.com/v26.0/me/permissions?access_token={p_tok}", timeout=10).json()
+                        p_perms = [p["permission"] for p in r_perm.get("data", []) if p.get("status") == "granted"]
+                        yazma_testi = p_perms
+                    except Exception as err:
+                        yazma_testi = str(err)
+                sayfalar.append({
                     "id": s["id"],
                     "ad": s["name"],
                     "gorevler": s.get("tasks", []),
+                    "sayfa_izinleri": yazma_testi,
                     "bagli_ig": s.get("instagram_business_account", {}).get("username")
-                }
-                for s in r.get("data", [])
-            ]
+                })
+            sonuc["sayfalar"] = sayfalar
         except Exception as e:
             sonuc["sayfa_hatasi"] = str(e)
         return sonuc
