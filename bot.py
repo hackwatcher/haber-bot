@@ -279,11 +279,15 @@ def otomatik_tur(zorla=False):
     paylasilan = bugun_paylasilan(d)
     if len(paylasilan) >= o["gunluk_en_fazla"]:
         return
-    tum = [h["paylasildi"] for h in d["haberler"].values() if h.get("paylasildi") and h.get("ig_id") != "deneme"]
-    if tum and simdi() - dt.datetime.fromisoformat(max(tum)) < dt.timedelta(minutes=o["iki_paylasim_arasi_dakika"]):
-        return
     h = otomatik_sec(d, cfg)
     if not h:
+        return
+    bekleme = o["iki_paylasim_arasi_dakika"]
+    # Flaş / öncelikli / 2+ farklı kaynak tarafından teyitli veya Telegram haberlerinde bekleme süresini 20 dakikaya indir
+    if h.get("oncelikli") or len(h.get("diger_kaynaklar", [])) >= 2 or h.get("tg_kanal"):
+        bekleme = min(20, bekleme)
+    tum = [x["paylasildi"] for x in d["haberler"].values() if x.get("paylasildi") and x.get("ig_id") != "deneme"]
+    if tum and simdi() - dt.datetime.fromisoformat(max(tum)) < dt.timedelta(minutes=bekleme):
         return
     try:
         haberi_paylas(h["id"], kim="otomatik")

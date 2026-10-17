@@ -421,6 +421,61 @@ class TestHaberBot(unittest.TestCase):
         yollar_v = karusel.karusel(h, "XHABER", "@xhabercom", klasor, video=True)
         self.assertTrue(yollar_v[0].endswith(".jpg"), "Reels için kapak statik resim kalmalı")
 
+    def test_otomatik_tur_dinamik_bekleme_ve_oncelik(self):
+        """Altın oran ayarları ve öncelikli haberlerde dinamik 20 dk bekleme indirimi doğrulanmalı."""
+        import datetime as dt
+        from unittest.mock import patch
+
+        cfg = haber.ayar()
+        self.assertEqual(cfg["otomatik"]["iki_paylasim_arasi_dakika"], 45)
+        self.assertEqual(cfg["otomatik"]["gunluk_en_fazla"], 18)
+        self.assertEqual(cfg["otomatik"]["haber_en_eski_dakika"], 180)
+        self.assertIn("son dakika", cfg["otomatik"]["oncelikli_kelimeler"])
+
+        # 25 dakika önce yapılmış bir paylaşım simüle edelim
+        simdi = dt.datetime(2026, 10, 18, 14, 30, tzinfo=haber.TR)
+        onceki_paylasim = (simdi - dt.timedelta(minutes=25)).isoformat()
+
+        # 1. Normal haber adayı (oncelikli değil, tek kaynaklı)
+        h_normal = {
+            "id": "h_norm", "baslik": "Normal Gelişme", "zaman": simdi.isoformat(),
+            "durum": "yeni", "oncelikli": False, "diger_kaynaklar": []
+        }
+        d_normal = {
+            "otomatik": True,
+            "haberler": {
+                "eski": {"id": "eski", "durum": "paylasildi", "paylasildi": onceki_paylasim, "ig_id": "123"},
+                "h_norm": h_normal
+            }
+        }
+
+        with patch("bot.simdi", return_value=simdi), \
+             patch("haber.durum_oku", return_value=d_normal), \
+             patch("bot.otomatik_sec", return_value=h_normal), \
+             patch("bot.haberi_paylas") as mock_paylas:
+            bot.otomatik_tur()
+            mock_paylas.assert_not_called()  # 25 < 45 olduğu için beklemeli
+
+        # 2. Öncelikli haber adayı (oncelikli: True veya 2+ çoklu kaynak)
+        h_oncelikli = {
+            "id": "h_oncelik", "baslik": "Son Dakika Flaş Gelişme", "zaman": simdi.isoformat(),
+            "durum": "yeni", "oncelikli": True, "diger_kaynaklar": ["NTV", "Sözcü"]
+        }
+        d_oncelikli = {
+            "otomatik": True,
+            "haberler": {
+                "eski": {"id": "eski", "durum": "paylasildi", "paylasildi": onceki_paylasim, "ig_id": "123"},
+                "h_oncelik": h_oncelikli
+            }
+        }
+
+        with patch("bot.simdi", return_value=simdi), \
+             patch("haber.durum_oku", return_value=d_oncelikli), \
+             patch("bot.otomatik_sec", return_value=h_oncelikli), \
+             patch("bot.haberi_paylas") as mock_paylas:
+            bot.otomatik_tur()
+            mock_paylas.assert_called_once_with("h_oncelik", kim="otomatik")  # 25 >= 20 olduğu için hemen paylaşmalı
+
 
 if __name__ == "__main__":
     unittest.main()

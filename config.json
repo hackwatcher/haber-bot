@@ -16,12 +16,12 @@
 
   "otomatik": {
     "kontrol_dakika": 2,
-    "iki_paylasim_arasi_dakika": 20,
-    "gunluk_en_fazla": 46,
-    "haber_en_eski_dakika": 90,
+    "iki_paylasim_arasi_dakika": 45,
+    "gunluk_en_fazla": 18,
+    "haber_en_eski_dakika": 180,
     "telegram_en_eski_dakika": 1440,
     "sessiz_saatler": [2, 7],
-    "oncelikli_kelimeler": [],
+    "oncelikli_kelimeler": ["son dakika", "flaş", "deprem", "resmi gazete", "asgari ücret", "faiz", "istifa", "tutuklandı", "şampiyon", "vefat", "açıkladı", "kaza"],
     "sadece_oncelikli": false
   },
 
