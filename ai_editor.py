@@ -101,15 +101,18 @@ def gorsel_uret(prompt, hid, anahtar):
     except Exception:
         pass
 
-    # Ücretsiz anahtar yedeği: Pollinations Flux (1080x660, logosuz)
+    # Ücretsiz anahtar yedeği: Pollinations Flux (alt filigranı kesmek için 1080x740 çekip üst 1080x660 alınır)
     try:
+        import io
         import urllib.parse
+        from PIL import Image
         kodlu = urllib.parse.quote(prompt)
-        p_url = f"https://image.pollinations.ai/prompt/{kodlu}?width=1080&height=660&nologo=true&model=flux"
+        p_url = f"https://image.pollinations.ai/prompt/{kodlu}?width=1080&height=740&nologo=true&model=flux"
         r2 = requests.get(p_url, timeout=45, headers={"User-Agent": "Mozilla/5.0 (haberbot)"})
         if r2.status_code == 200 and len(r2.content) > 10000:
-            with open(dosya, "wb") as f:
-                f.write(r2.content)
+            im = Image.open(io.BytesIO(r2.content)).convert("RGB")
+            im = im.crop((0, 0, im.width, int(im.height * 660 / 740)))
+            im.save(dosya, "JPEG", quality=92)
             return f"data/kapaklar/{hid}.jpg"
     except Exception:
         pass
