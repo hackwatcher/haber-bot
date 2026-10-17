@@ -1,5 +1,7 @@
 .gizli/
 data/*
 !data/durum.json
+!data/kapaklar/
+!data/kapaklar/*
 ornekler/
 __pycache__/

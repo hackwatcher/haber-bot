@@ -118,10 +118,20 @@ def metni(el, ad):
     return (c.text or "") if c is not None else ""
 
 
+def xml_coz(icerik):
+    try:
+        return ET.fromstring(icerik)
+    except ET.ParseError:
+        metin = icerik.decode("utf-8", errors="ignore")
+        metin = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", metin)
+        metin = re.sub(r"&(?!(?:[a-zA-Z0-9]+|#\d+|#x[0-9a-fA-F]+);)", "&amp;", metin)
+        return ET.fromstring(metin.encode("utf-8"))
+
+
 def akis_oku(kaynak):
     r = requests.get(kaynak["url"], timeout=20, headers={"User-Agent": "Mozilla/5.0 (haberbot)"})
     r.raise_for_status()
-    kok = ET.fromstring(r.content)
+    kok = xml_coz(r.content)
     girdiler = [e for e in kok.iter() if yerel(e) in ("item", "entry")]
     sonuc = []
     for e in girdiler:

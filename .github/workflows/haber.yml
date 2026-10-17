@@ -48,6 +48,7 @@ jobs:
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: >-
           python tur.py
           ${{ (github.event_name == 'workflow_dispatch' && inputs.baglanti) && '--baglanti' || '' }}

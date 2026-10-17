@@ -29,9 +29,10 @@ KONU_KELIMELERI = {
              "transfer", "teknik direktör", "futbol", "basketbol", "şampiyon"],
     "ekonomi": ["dolar", "euro", "faiz", "enflasyon", "borsa", "merkez bankası", "asgari ücret", "emekli", "maaş",
                 "zam", "vergi", "ekonomi", "akaryakıt", "benzin", "motorin", "ihracat", "piyasa"],
-    "dunya": ["abd", "trump", "rusya", "ukrayna", "israil", "gazze", "avrupa birliği", "almanya", "iran", "suriye",
-              "nato", "putin", "çin", "yemen", "beyaz saray", "husi", "suudi", "bm ", "birleşmiş milletler",
-              "fransa", "ingiltere", "japonya", "lübnan", "irak", "azerbaycan", "yunanistan", "kremlin", "pentagon"],
+    "dunya": ["abd", "trump", "rusya", "ukrayna", "israil", "gazze", "avrupa birliği", "avrupa", "almanya", "iran",
+              "suriye", "nato", "putin", "çin", "yemen", "beyaz saray", "husi", "suudi", "bm ", "birleşmiş milletler",
+              "fransa", "paris", "ingiltere", "londra", "berlin", "moskova", "washington", "brüksel", "japonya",
+              "lübnan", "irak", "azerbaycan", "yunanistan", "kremlin", "pentagon"],
     "asayis": ["operasyon", "gözaltı", "tutukla", "cinayet", "öldürdü", "saldırı", "kaza", "silahlı", "uyuşturucu",
                "şüpheli", "yakalandı", "cezaevi"],
 }
@@ -324,7 +325,7 @@ def sec(adaylar, n, kullanilan_kel, baslik_kel):
     for c in sorted(adaylar, key=lambda c: -puanla(c, baslik_kel)):
         if re.match(r"(Bu |Söz konusu |Bunun |Şu )", c):  # tek başına okununca neyi kastettiği belli değil
             continue
-        if BIRINCI_SAHIS.search(c) or re.search(r"[\"“”]", c):  # birinin sözü: tırnaksız madde olarak yanıltır
+        if BIRINCI_SAHIS.search(c) or TIRNAK.search(c):  # birinin sözü: tırnaksız madde olarak yanıltır
             continue
         k = haber.kelimeler(c)
         if any(ortak(k, u) for u in kullanilan_kel):
@@ -376,7 +377,7 @@ def zenginlestir(h):
     if ilk:
         slaytlar["ne"] = {"etiket": "Ne oldu?", "metin": kisalt(ilk, 240)}
         kullanilan_kel.append(haber.kelimeler(ilk))
-    havuz = [c for c in tum[1:] if 40 <= len(c) <= 170 and not TIRNAK.search(c)]
+    havuz = [kisalt(c, 170) for c in tum[1:] if 40 <= len(c) <= 220 and not TIRNAK.search(c)]
 
     rakamlar = rakamlar_bul(tum, h["baslik"], {ilk})[:3]
     if len(rakamlar) >= 2:

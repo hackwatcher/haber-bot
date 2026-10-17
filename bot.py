@@ -5,6 +5,7 @@ import os
 import shutil
 import threading
 
+import ai_editor
 import haber
 import kart
 import karusel
@@ -22,12 +23,31 @@ def simdi():
     return dt.datetime.now(haber.TR)
 
 
+def uygula(z, duz, marka):
+    """Haber kaydına dışarıdan verilen düzenlemeleri (kanca, başlık, özet, konu, foto, slaytlar) uygular."""
+    if not duz:
+        return z
+    for k in ("baslik", "ozet", "kanca", "konu", "il", "rakam", "rakam_birim"):
+        if k in duz and duz[k] is not None:
+            v = duz[k].strip() if isinstance(duz[k], str) else duz[k]
+            if v != "" or k in ("il", "rakam", "rakam_birim"):
+                z[k] = v
+    if duz.get("foto"):
+        f = duz["foto"]
+        z["foto"] = {"yol": f, "not": f"Temsili görsel · {marka}"} if isinstance(f, str) else f
+    if "slaytlar" in duz and duz["slaytlar"] is not None:
+        z["slaytlar"] = duz["slaytlar"]
+    return z
+
+
 def hazirla(h, duzenleme=None):
     """Haberin tam metnini okuyup karusel (bilgi azsa tek kart) üretir. (görsel yolları, açıklama, haber) döndürür."""
     cfg = haber.ayar()
     z = ozet.zenginlestir(h)
-    if duzenleme:
-        z.update({k: v.strip() for k, v in duzenleme.items() if k in ("baslik", "ozet", "kanca") and v.strip()})
+    if not h.get("duzenleme") and not duzenleme:
+        z = ai_editor.zenginlestir_ai(h, z)
+    uygula(z, h.get("duzenleme"), cfg["marka"])
+    uygula(z, duzenleme, cfg["marka"])
     klasor = os.path.join(GORSEL, h["id"])
     shutil.rmtree(klasor, ignore_errors=True)
     os.makedirs(klasor)
@@ -59,6 +79,25 @@ def ekleri_hazirla(z, yollar, klasor):
         except Exception as e:
             hatalar.append(f"story: {e}")
     return video, story, hatalar
+
+
+def haberi_ozellestir(hid, duzenleme, video_uret=False):
+    """Habere özel kanca, görsel ve slaytları durum.json'a kaydeder; karusel (+ isteğe bağlı Reels/story) üretir."""
+    with haber.KILIT:
+        d = haber.durum_oku()
+        h = d["haberler"].get(hid)
+        if not h:
+            raise RuntimeError("Haber bulunamadı")
+        mevcut = dict(h.get("duzenleme") or {})
+        mevcut.update(duzenleme)
+        h["duzenleme"] = mevcut
+        haber.durum_yaz(d)
+    yollar, metin, z = hazirla(h)
+    video = story = None
+    hatalar = []
+    if video_uret:
+        video, story, hatalar = ekleri_hazirla(z, yollar, os.path.join(GORSEL, h["id"]))
+    return {"yollar": yollar, "aciklama": metin, "video": video, "story": story, "hatalar": hatalar, "haber": z}
 
 
 def bugun_paylasilan(d):

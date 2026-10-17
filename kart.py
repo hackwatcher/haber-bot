@@ -101,6 +101,8 @@ def metin_blogu(c, haber, ust, alt, vurgu, en_buyuk=104, ozet_satir=5):
     genislik = G - 2 * KENAR
     kanca = buyuk(haber.get("kanca", ""))
     ozet = haber.get("ozet", "")
+    coklu = len(haber.get("diger_kaynaklar", [])) + 1
+    rozet_var = coklu >= 2 and not ozet
     for boyut in range(en_buyuk, 44, -4):
         fb = font(KALIN, boyut)
         bs = sar(c, haber["baslik"], fb, genislik)
@@ -115,7 +117,7 @@ def metin_blogu(c, haber, ust, alt, vurgu, en_buyuk=104, ozet_satir=5):
             os_ = os_[:ozet_satir]
             os_[-1] = os_[-1].rstrip(",;:") + "…"
         h = (len(ks) * int(fkb * 1.2) + 28 if ks else 0) + len(bs) * bsat \
-            + (len(os_) * int(osb * 1.45) + 40 if os_ else 0)
+            + (len(os_) * int(osb * 1.45) + 40 if os_ else 0) + (74 if rozet_var else 0)
         if h <= alt - ust:
             break
     y = ust + max(0, (alt - ust - h) // 2)
@@ -133,6 +135,13 @@ def metin_blogu(c, haber, ust, alt, vurgu, en_buyuk=104, ozet_satir=5):
         for s in os_:
             c.text((KENAR, y), s, font=fo, fill=GRI)
             y += int(osb * 1.45)
+    elif rozet_var:
+        y += 28
+        fr = font(KALIN, 24)
+        ryazi = f"✓ {coklu} KAYNAKTA YER ALDI"
+        rw = c.textlength(ryazi, font=fr)
+        c.rounded_rectangle([KENAR, y, KENAR + rw + 40, y + 46], radius=23, outline=vurgu, width=2)
+        c.text((KENAR + 20, y + 10), ryazi, font=fr, fill=vurgu)
 
 
 # ---------- harita ----------
@@ -184,21 +193,27 @@ def ciz_kart(haber, marka, kullanici_adi, cikti, sayfa=None, kaydir=False):
     img = Image.new("RGB", (G, Y), zemin)
     c = ImageDraw.Draw(img)
 
-    if haber.get("foto"):
-        foto = haber["foto"]
-        resim = ImageOps.fit(Image.open(foto["yol"]).convert("RGB"), (G, 660), centering=(.5, .6))
+    foto = haber.get("foto")
+    if isinstance(foto, str):
+        foto = {"yol": foto, "not": f"Temsili görsel · {buyuk(marka)}"}
+    foto_yol = ""
+    if foto and foto.get("yol"):
+        foto_yol = foto["yol"] if os.path.isabs(foto["yol"]) else os.path.join(KOK, foto["yol"])
+    if foto_yol and os.path.exists(foto_yol):
+        resim = ImageOps.fit(Image.open(foto_yol).convert("RGB"), (G, 660), centering=(.5, .5))
         img.paste(resim, (0, 0))
         # fotoğrafın altını zemine erit
-        perde = Image.new("RGB", (G, 220), zemin)
-        maske = Image.linear_gradient("L").resize((G, 220))
-        img.paste(perde, (0, 440), maske)
+        perde = Image.new("RGB", (G, 240), zemin)
+        maske = Image.linear_gradient("L").resize((G, 240))
+        img.paste(perde, (0, 420), maske)
         ust = Image.new("RGB", (G, 200), (0, 0, 0))
         img.paste(ust, (0, 0), Image.linear_gradient("L").rotate(180).resize((G, 200)).point(lambda v: v * .55))
         ust_serit(c, marka, konu, sayfa=sayfa)
         fk = font(NORMAL, 22)
-        not_ = foto["not"]
-        c.text((G - KENAR - c.textlength(not_, font=fk), 612), not_, font=fk, fill=(200, 205, 212))
-        metin_blogu(c, haber, 680, 1160, vurgu, en_buyuk=80, ozet_satir=2)
+        not_ = foto.get("not", "")
+        if not_:
+            c.text((G - KENAR - c.textlength(not_, font=fk), 612), not_, font=fk, fill=(200, 205, 212))
+        metin_blogu(c, haber, 670, 1160, vurgu, en_buyuk=80, ozet_satir=2)
     elif haber.get("il"):
         ust_serit(c, marka, konu, sayfa=sayfa)
         il_haritasi(c, haber["il"], (KENAR - 20, 170, G - KENAR + 20, 560), vurgu, zemin)
@@ -233,8 +248,9 @@ def aciklama(haber, hashtagler, karusel=False):
         parca.append("Detaylar slaytlarda, kaydır 👉")
     kaynak = "Kaynak: " + ", ".join([haber["kaynak"]] + haber.get("diger_kaynaklar", []))
     parca.append(f"{kaynak}\n{haber['link']}")
-    if haber.get("foto"):
-        parca.append(haber["foto"]["not"])
+    foto = haber.get("foto")
+    if isinstance(foto, dict) and foto.get("not"):
+        parca.append(foto["not"])
     parca.append("Gündemi kaçırmamak için takip et.")
     parca.append((hashtagler + " " + KONU_ETIKETI.get(haber.get("konu", "gundem"), "")).strip())
     return "\n\n".join(p for p in parca if p)
