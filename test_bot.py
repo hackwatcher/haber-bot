@@ -374,6 +374,37 @@ class TestHaberBot(unittest.TestCase):
             with self.assertRaises(RuntimeError):
                 bot.haberi_paylas("h2")
 
+    def test_telegram_kaynak_ve_linki_gonderiden_gizlenir(self):
+        """Telegram haberlerinde gönderi açıklamasında ve kartlarda sahinozkan / t.me / kaynak yazmamalı."""
+        h_tg = {
+            "id": "tg_test",
+            "kaynak": "XHABER",
+            "baslik": "İstanbul'da kaza meydana geldi",
+            "ozet": "Olay yerinden görüntüler paylaşıldı.",
+            "link": "https://t.me/sahinozkan000/30275",
+            "zaman": "2026-10-18T00:00:00+03:00",
+            "tg_kanal": "sahinozkan000"
+        }
+        metin = kart.aciklama(h_tg, "#haber")
+        self.assertNotIn("sahinozkan", metin)
+        self.assertNotIn("t.me", metin)
+        self.assertNotIn("Kaynak:", metin)
+
+        # RSS haberinde ise kaynak ve link normal şekilde kalmalı
+        h_rss = dict(self.ornek_haber)
+        metin_rss = kart.aciklama(h_rss, "#haber")
+        self.assertIn("Kaynak: BBC Türkçe", metin_rss)
+        self.assertIn(h_rss["link"], metin_rss)
+
+        # Kart ve karusel kapanış çizimleri hata vermemeli
+        kart_cikti = os.path.join(self.tmp, "kart_tg.jpg")
+        kart.ciz_kart(h_tg, "XHABER", "@xhabercom", kart_cikti)
+        self.assertTrue(os.path.exists(kart_cikti))
+
+        kapanis_cikti = os.path.join(self.tmp, "kapanis_tg.jpg")
+        karusel.kapanis(h_tg, "XHABER", "@xhabercom", (7, 7), kapanis_cikti)
+        self.assertTrue(os.path.exists(kapanis_cikti))
+
 
 if __name__ == "__main__":
     unittest.main()

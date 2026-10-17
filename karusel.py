@@ -106,16 +106,20 @@ def bilgi_slayti(haber, slayt, marka, sayfa, cikti, kaydir=True):
 def kapanis(haber, marka, kullanici_adi, sayfa, cikti):
     konu = KONULAR.get(haber.get("konu", "gundem"), KONULAR["gundem"])
     img, c, vurgu = zemin(haber, marka, sayfa)
+    bu_tg = bool(haber.get("tg_kanal") or "t.me/" in haber.get("link", ""))
     y = 330
-    c.text((KENAR, y), "KAYNAK", font=font(KALIN, 40), fill=vurgu)
-    y += 70
-    kaynaklar = [haber["kaynak"]] + haber.get("diger_kaynaklar", [])
-    c.text((KENAR, y), ", ".join(kaynaklar), font=font(KALIN, 64), fill=BEYAZ)
-    y += 100
-    for s in sar(c, "Haberin tamamı için kaynağa bakabilirsin. Linki açıklamada.", font(NORMAL, 36), GENIS):
-        c.text((KENAR, y), s, font=font(NORMAL, 36), fill=GRI)
-        y += 52
-    y += 120
+    if not bu_tg:
+        c.text((KENAR, y), "KAYNAK", font=font(KALIN, 40), fill=vurgu)
+        y += 70
+        kaynaklar = [haber["kaynak"]] + haber.get("diger_kaynaklar", [])
+        c.text((KENAR, y), ", ".join(kaynaklar), font=font(KALIN, 64), fill=BEYAZ)
+        y += 100
+        for s in sar(c, "Haberin tamamı için kaynağa bakabilirsin. Linki açıklamada.", font(NORMAL, 36), GENIS):
+            c.text((KENAR, y), s, font=font(NORMAL, 36), fill=GRI)
+            y += 52
+        y += 120
+    else:
+        y = 480
     fb = font(KALIN, 92)
     for s in ["GÜNDEMİ", "KAÇIRMA."]:
         c.text((KENAR - 4, y), s, font=fb, fill=BEYAZ)

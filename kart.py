@@ -78,10 +78,14 @@ def ust_serit(c, marka, konu, ust=0, sayfa=None):
 def alt_serit(c, haber, kullanici_adi, vurgu, kaydir=False):
     c.line([KENAR, 1190, G - KENAR, 1190], fill=(45, 50, 60), width=2)
     t = dt.datetime.fromisoformat(haber["zaman"])
-    kaynaklar = [haber["kaynak"]] + haber.get("diger_kaynaklar", [])
+    bu_tg = bool(haber.get("tg_kanal") or "t.me/" in haber.get("link", ""))
     fk = font(NORMAL, 30)
-    c.text((KENAR, 1222), "Kaynak: " + ", ".join(kaynaklar[:3]), font=fk, fill=GRI)
-    c.text((KENAR, 1266), f"{t.day} {AYLAR[t.month - 1]} {t.year} · {t:%H:%M}", font=fk, fill=SOLUK)
+    if bu_tg:
+        c.text((KENAR, 1244), f"{t.day} {AYLAR[t.month - 1]} {t.year} · {t:%H:%M}", font=fk, fill=SOLUK)
+    else:
+        kaynaklar = [haber["kaynak"]] + haber.get("diger_kaynaklar", [])
+        c.text((KENAR, 1222), "Kaynak: " + ", ".join(kaynaklar[:3]), font=fk, fill=GRI)
+        c.text((KENAR, 1266), f"{t.day} {AYLAR[t.month - 1]} {t.year} · {t:%H:%M}", font=fk, fill=SOLUK)
     if kaydir:  # karusel kapağı
         kaydir_oku(c, vurgu)
     else:
@@ -306,8 +310,10 @@ def aciklama(haber, hashtagler, karusel=False):
         parca.append(haber["ozet"])
     if karusel:
         parca.append("Detaylar slaytlarda, kaydır 👉")
-    kaynak = "Kaynak: " + ", ".join([haber["kaynak"]] + haber.get("diger_kaynaklar", []))
-    parca.append(f"{kaynak}\n{haber['link']}")
+    bu_tg = bool(haber.get("tg_kanal") or "t.me/" in haber.get("link", ""))
+    if not bu_tg:
+        kaynak = "Kaynak: " + ", ".join([haber["kaynak"]] + haber.get("diger_kaynaklar", []))
+        parca.append(f"{kaynak}\n{haber['link']}")
     foto = haber.get("foto")
     if isinstance(foto, dict) and foto.get("not"):
         parca.append(foto["not"])
