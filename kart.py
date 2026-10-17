@@ -8,6 +8,7 @@ import datetime as dt
 import json
 import math
 import os
+import re
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
@@ -245,6 +246,42 @@ KONU_ETIKETI = {"gundem": "#gündem", "afet": "#hava #afet", "ekonomi": "#ekonom
                 "spor": "#spor", "asayis": "#asayiş"}
 
 
+def dinamik_etiketler(haber):
+    """Habere göre 2 adet dinamik hashtag döndürür. AI tarafından üretildiyse onu kullanır, yoksa başlıktan türetir."""
+    if haber.get("hashtagler") and isinstance(haber["hashtagler"], list) and len(haber["hashtagler"]) >= 1:
+        tags = [t.strip() if t.strip().startswith("#") else f"#{t.strip()}" for t in haber["hashtagler"] if isinstance(t, str) and t.strip()]
+        if len(tags) >= 2:
+            return tags[:2]
+        if len(tags) == 1:
+            pass  # 1 tane varsa ikincisini metinden tamamla
+    else:
+        tags = []
+
+    if haber.get("il"):
+        il_tag = f"#{haber['il'].lower().replace(' ', '')}"
+        if il_tag not in tags:
+            tags.append(il_tag)
+
+    durak = {"bugun", "bugün", "yarin", "yarın", "sonra", "kadar", "icin", "için", "neden", "nasil", "nasıl",
+             "iste", "işte", "oldu", "etti", "dedi", "yapti", "yaptı", "karar", "haber", "flas", "flaş", "dakika",
+             "yeni", "tarihi", "acikladi", "açıkladı", "gelisme", "gelişme"}
+    kelimeler = [k.strip(".,!?:;\"'()[]") for k in haber.get("baslik", "").split()]
+    for k in kelimeler:
+        k_temiz = re.sub(r"[^\w]", "", k).lower()
+        if len(k_temiz) >= 5 and k_temiz not in durak and not k_temiz.isdigit():
+            tag = f"#{k_temiz}"
+            if tag not in tags:
+                tags.append(tag)
+        if len(tags) >= 2:
+            break
+
+    if not tags:
+        konu_tag = KONU_ETIKETI.get(haber.get("konu", "gundem"), "#gündem")
+        tags = [t for t in konu_tag.split() if t]
+
+    return tags[:2]
+
+
 def aciklama(haber, hashtagler, karusel=False):
     parca = []
     if haber.get("kanca"):
@@ -260,5 +297,7 @@ def aciklama(haber, hashtagler, karusel=False):
     if isinstance(foto, dict) and foto.get("not"):
         parca.append(foto["not"])
     parca.append("Gündemi kaçırmamak için takip et.")
-    parca.append((hashtagler + " " + KONU_ETIKETI.get(haber.get("konu", "gundem"), "")).strip())
+    ozel = " ".join(dinamik_etiketler(haber))
+    parca.append(f"{hashtagler} {ozel}".strip())
     return "\n\n".join(p for p in parca if p)
+

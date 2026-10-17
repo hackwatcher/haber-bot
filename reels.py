@@ -89,45 +89,132 @@ def ffmpeg_yolu():
     return imageio_ffmpeg.get_ffmpeg_exe()
 
 
-def video(haber, marka, kullanici_adi, slaytlar, cikti):
-    """slaytlar: 1080x1350 görseller (KAYDIR'sız). Müzikli mp4 yazar, yolunu döndürür."""
+def altyazi_kutusu(img, metin, vurgu=(220, 38, 38)):
+    """Kare üzerine modern TV bülteni altyazı bandı yerleştirir."""
+    if not metin:
+        return img
+    c = ImageDraw.Draw(img)
+    f_sub = font(KALIN, 34)
+    tw = c.textlength(metin, font=f_sub)
+    if tw > 900:
+        f_sub = font(KALIN, 28)
+        tw = c.textlength(metin, font=f_sub)
+    gen = min(1020, tw + 80)
+    x0 = (W - gen) / 2
+    y0 = 1715
+    y1 = y0 + 72
+    c.rounded_rectangle([x0, y0, x0 + gen, y1], radius=16, fill=(22, 26, 36), outline=(50, 58, 72), width=2)
+    c.ellipse([x0 + 22, y0 + 26, x0 + 42, y0 + 46], fill=vurgu)
+    c.text((x0 + 56, y0 + 17), metin, font=f_sub, fill=BEYAZ)
+    return img
+
+
+def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True):
+    """slaytlar: 1080x1350 görseller (KAYDIR'sız). Spiker sesli ve altyazılı mp4 yazar, yolunu döndürür."""
     _, vurgu, zemin, _ = konu_renkleri(haber)
     n = len(slaytlar)
-    sure = sureler(haber, n)
     kareler = [zemin_kare(haber, marka, kullanici_adi, s, i, n) for i, s in enumerate(slaytlar)]
     kutu = kareler[0][1]
-    toplam_sn = sum(sure)
+
+    spiker_dosya = None
+    altyazilar = []
+    spiker_sn = 0.0
+
+    if spikerli:
+        try:
+            import spiker
+            spiker_dosya, spiker_sn, altyazilar = spiker.seslendir(haber, hiz=1.30)
+        except Exception as e:
+            spiker_dosya = None
+            print(f"Spiker seslendirme atlandı: {e}", flush=True)
+
+    if spiker_dosya and spiker_sn > 0:
+        toplam_sn = max(spiker_sn + 0.6, 6.0)
+        if n == 1:
+            sure = [toplam_sn]
+        elif n == 2:
+            sure = [toplam_sn / 2, toplam_sn / 2]
+        else:
+            ilk = min(2.5, toplam_sn * 0.25)
+            son = min(2.0, toplam_sn * 0.20)
+            orta_sure = (toplam_sn - ilk - son) / (n - 2)
+            sure = [ilk] + [orta_sure] * (n - 2) + [son]
+    else:
+        sure = sureler(haber, n)
+        toplam_sn = sum(sure)
+
     muzik = muzik_sec(haber)
 
     cmd = [ffmpeg_yolu(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
            "-r", str(FPS), "-i", "-"]
-    if muzik:
-        cmd += ["-i", muzik, "-filter:a", f"afade=t=in:d=0.3,afade=t=out:st={toplam_sn - 1.2:.2f}:d=1.2,volume=0.85",
-                "-c:a", "aac", "-b:a", "160k", "-map", "0:v", "-map", "1:a"]
+
+    if spiker_dosya and muzik:
+        # Spiker sesi net ve ön planda (%130), fon müziği kısık (%18) mikslenir
+        cmd += [
+            "-i", spiker_dosya,
+            "-i", muzik,
+            "-filter_complex",
+            f"[1:a]volume=1.30[spk];[2:a]volume=0.18,afade=t=in:d=0.3,afade=t=out:st={toplam_sn - 1.2:.2f}:d=1.2[bg];[spk][bg]amix=inputs=2:duration=first[outa]",
+            "-c:a", "aac", "-b:a", "192k",
+            "-map", "0:v", "-map", "[outa]"
+        ]
+    elif spiker_dosya:
+        cmd += [
+            "-i", spiker_dosya,
+            "-filter:a", "volume=1.30",
+            "-c:a", "aac", "-b:a", "192k",
+            "-map", "0:v", "-map", "1:a"
+        ]
+    elif muzik:
+        cmd += [
+            "-i", muzik,
+            "-filter:a", f"afade=t=in:d=0.3,afade=t=out:st={toplam_sn - 1.2:.2f}:d=1.2,volume=0.85",
+            "-c:a", "aac", "-b:a", "160k",
+            "-map", "0:v", "-map", "1:a"
+        ]
+
     cmd += ["-t", f"{toplam_sn:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p",
             "-movflags", "+faststart", cikti]
     p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
 
     gecis_kare = int(GECIS * FPS)
     t = 0.0
-    for i, (kare, _) in enumerate(kareler):
-        adet = int(round(sure[i] * FPS))
-        sonraki = kareler[i + 1][0] if i + 1 < n else None
-        # etiketin sönük hali bir kez hazırlanır, her karede iki hal arasında yumuşak geçilir
-        parlak = kare.crop(kutu)
-        sonuk = Image.blend(parlak, Image.new("RGB", parlak.size, zemin), 0.55)
-        for k in range(adet):
-            a = 0.5 + 0.5 * math.cos(2 * math.pi * t / NABIZ)  # 1: parlak, 0: sönük
-            f = kare.copy()
-            f.paste(Image.blend(sonuk, parlak, a), kutu[:2])
-            if sonraki is not None and k >= adet - gecis_kare:  # kısa geçiş
-                oran = (k - (adet - gecis_kare) + 1) / (gecis_kare + 1)
-                f = Image.blend(f, sonraki, oran)
-            p.stdin.write(f.tobytes())
-            t += 1 / FPS
-    p.stdin.close()
-    if p.wait() != 0:
-        raise RuntimeError("ffmpeg videoyu yazamadı")
+    try:
+        for i, (kare, _) in enumerate(kareler):
+            adet = int(round(sure[i] * FPS))
+            sonraki = kareler[i + 1][0] if i + 1 < n else None
+            # etiketin sönük hali bir kez hazırlanır, her karede iki hal arasında yumuşak geçilir
+            parlak = kare.crop(kutu)
+            sonuk = Image.blend(parlak, Image.new("RGB", parlak.size, zemin), 0.55)
+            for k in range(adet):
+                a = 0.5 + 0.5 * math.cos(2 * math.pi * t / NABIZ)  # 1: parlak, 0: sönük
+                f = kare.copy()
+                f.paste(Image.blend(sonuk, parlak, a), kutu[:2])
+                if sonraki is not None and k >= adet - gecis_kare:  # kısa geçiş
+                    oran = (k - (adet - gecis_kare) + 1) / (gecis_kare + 1)
+                    f = Image.blend(f, sonraki, oran)
+
+                # Aktif altyazı varsa kareye ekle
+                if altyazilar:
+                    aktif = None
+                    for t0, t1, yazi in altyazilar:
+                        if t0 <= t < t1:
+                            aktif = yazi
+                            break
+                    if aktif:
+                        altyazi_kutusu(f, aktif, vurgu)
+
+                p.stdin.write(f.tobytes())
+                t += 1 / FPS
+        p.stdin.close()
+        if p.wait() != 0:
+            raise RuntimeError("ffmpeg videoyu yazamadı")
+    finally:
+        if spiker_dosya and os.path.exists(spiker_dosya):
+            try:
+                os.remove(spiker_dosya)
+            except Exception:
+                pass
     return cikti
 
 

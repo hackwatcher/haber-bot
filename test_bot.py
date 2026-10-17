@@ -83,7 +83,7 @@ class TestHaberBot(unittest.TestCase):
                 {"etiket": "Rakamlarla", "rakamlar": [("9 karat", "Elmasın ağırlığı")]},
             ],
         }
-        h = dict(self.ornek_haber, duzenleme=duzenleme)
+        h = dict(self.ornek_haber, duzenleme=duzenleme, tg_kanal="sahinozkan000")
         # Web panelinden boş string geldiğinde mevcut düzenlemeyi ezmemeli
         yollar, metin, z = bot.hazirla(h, {"kanca": "", "baslik": ""})
         self.assertEqual(z["kanca"], "ELMANIN İÇİNDE ÇALINMIŞTI")
@@ -178,6 +178,51 @@ class TestHaberBot(unittest.TestCase):
         secilen = bot.otomatik_sec(d, cfg)
         self.assertEqual(secilen["id"], "tg_haber")
 
+    def test_dinamik_hashtagler_ve_ilk_yorum(self):
+        """Habere özel 2 dinamik hashtag ve paylaşıma otomatik ilk yorum eklenmeli."""
+        h_ai = dict(self.ornek_haber, hashtagler=["#fransa", "#elmas"])
+        tags_ai = kart.dinamik_etiketler(h_ai)
+        self.assertEqual(tags_ai, ["#fransa", "#elmas"])
+        acik_ai = kart.aciklama(h_ai, "#haber #sondakika #gündem")
+        self.assertTrue(acik_ai.endswith("#haber #sondakika #gündem #fransa #elmas"))
+
+        # AI etiketi yoksa başlıktan/ilden türetmeli
+        h_kural = dict(self.ornek_haber, hashtagler=[], il="Bursa", baslik="Bursa'da yeni teknoloji yatırımı başladı")
+        tags_kural = kart.dinamik_etiketler(h_kural)
+        self.assertEqual(len(tags_kural), 2)
+        self.assertIn("#bursa", tags_kural)
+
+    def test_spiker_hizli_seslendir_ve_story_telegram_siniri(self):
+        """Spiker metni hızlı bülten havasında üretilmeli, story sadece Telegram haberinde çalışmalı."""
+        import spiker
+
+        h = dict(self.ornek_haber, kanca="TARİHİ ZİRVE", baslik="Liderler masada toplandı", ozet="Ekonomik kararlar alındı.")
+        metin = spiker.spiker_metni_uret(h)
+        self.assertTrue(metin.startswith("Flaş gelişme: TARİHİ ZİRVE!"))
+        self.assertIn("Liderler masada toplandı", metin)
+
+        parcalar = spiker.altyazi_parcala(metin, 8.0)
+        self.assertTrue(len(parcalar) >= 2)
+        self.assertEqual(parcalar[0][0], 0.0)
+
+        # Story sınırlandırma testi: RSS haberinde Story None olmalı, Telegram'da üretilmeli
+        import unittest.mock as mock
+        with mock.patch("haber.ayar", return_value={"marka": "XHABER", "kullanici_adi": "@xhabercom", "story": {"acik": True, "sadece_telegram": True}, "reels": {"acik": False}}):
+            yollar = [self.ornek_foto]
+            klasor = os.path.join(self.tmp, "ekler_test")
+            os.makedirs(klasor, exist_ok=True)
+
+            # RSS haberi -> story None
+            _, story_rss, _ = bot.ekleri_hazirla(self.ornek_haber, yollar, klasor)
+            self.assertIsNone(story_rss)
+
+            # Telegram haberi -> story üretilmeli
+            h_tg = dict(self.ornek_haber, tg_kanal="sahinozkan000")
+            _, story_tg, _ = bot.ekleri_hazirla(h_tg, yollar, klasor)
+            self.assertIsNotNone(story_tg)
+            self.assertTrue(os.path.exists(story_tg))
+
 
 if __name__ == "__main__":
     unittest.main()
+

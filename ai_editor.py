@@ -33,7 +33,9 @@ Verilen haber metninden sadece gerçek bilgilere dayanarak (asla bilgi uydurmada
     {"etiket": "Detaylar", "maddeler": ["Madde 1 (maks 160 krk)", "Madde 2 (maks 160 krk)", "Madde 3 (maks 160 krk)"]},
     {"etiket": "Rakamlarla", "rakamlar": [["Rakam ve birim", "Kısa açıklama"]]},
     {"etiket": "Ne dedi?", "alinti": "Haberde geçen doğrudan alıntı söz", "kim": "Söyleyenin unvanı ve adı"}
-  ]
+  ],
+  "yorum_sorusu": "Okuyucuları yorum yapmaya davet eden merak uyandırıcı tek bir soru (Örn: '📌 Sizce bu karar doğru mu? Görüşlerinizi yazın.')",
+  "hashtagler": ["#habere_ozel_1", "#habere_ozel_2"]
 }
 Not: Haberde rakam yoksa 'Rakamlarla' slaytını, doğrudan alıntı söz yoksa 'Ne dedi?' slaytını ekleme; onun yerine 'Ayrıca' başlıklı maddeli slayt ekle. En az 3, en fazla 5 slayt olsun."""
 
@@ -139,6 +141,12 @@ def zenginlestir_ai(h, z_varsayilan=None):
         if isinstance(ai.get("slaytlar"), list) and len(ai["slaytlar"]) >= 2:
             # Rakamlarla slaytındaki listeleri tuple/list uyumlu tut
             z["slaytlar"] = ai["slaytlar"][:6]
+        if ai.get("yorum_sorusu") and isinstance(ai["yorum_sorusu"], str):
+            z["yorum_sorusu"] = ai["yorum_sorusu"].strip()
+        if ai.get("hashtagler") and isinstance(ai["hashtagler"], list):
+            tags = [t.strip() if t.strip().startswith("#") else f"#{t.strip()}" for t in ai["hashtagler"] if isinstance(t, str) and t.strip()]
+            if tags:
+                z["hashtagler"] = tags[:2]
 
         # Henüz kapak fotoğrafı yoksa AI ile üretmeyi dene
         if not z.get("foto"):

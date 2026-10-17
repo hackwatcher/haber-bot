@@ -108,6 +108,14 @@ class Instagram:
                     raise
                 time.sleep(10 * (i + 1))
 
+    def yorum_yap(self, media_id, mesaj):
+        """Gönderiye ya da Reels'e hesap adına ilk yorumu ekler. Yorum ID'sini döndürür."""
+        if not media_id or not mesaj:
+            return None
+        r = self.call("POST", f"{media_id}/comments", message=mesaj)
+        return r.get("id")
+
+
     def reels(self, video_url, aciklama, akisa=False):
         cid = self.call("POST", f"{self.ig}/media", media_type="REELS", video_url=video_url, caption=aciklama,
                         share_to_feed="true" if akisa else "false")["id"]
@@ -174,10 +182,10 @@ def github_yukle(yollar, repo):
     return urller
 
 
-def paylas(gorseller, aciklama, cfg, video=None, story=None):
-    """Gönderi (tek kart/karusel), sonra Reels ve story. {"gonderi": id, "reels": id|hata, "story": id|hata} döner.
+def paylas(gorseller, aciklama, cfg, video=None, story=None, ilk_yorum=None):
+    """Gönderi (tek kart/karusel), sonra Reels ve story. {"gonderi": id, "reels": id|hata, "story": id|hata, "yorum": id|hata} döner.
 
-    Gönderi başarısızsa hata fırlatır; Reels/story hatası gönderiyi geri almaz, sadece kaydedilir.
+    Gönderi başarısızsa hata fırlatır; Reels/story/yorum hatası gönderiyi geri almaz, sadece kaydedilir.
     """
     ig = cfg["instagram"]
     istemci = Instagram(ig)
@@ -196,6 +204,17 @@ def paylas(gorseller, aciklama, cfg, video=None, story=None):
             sonuc["story"] = istemci.story(ek_url[story])
         except Exception as e:
             sonuc["story"] = f"hata: {e}"
+    if ilk_yorum:
+        if sonuc.get("gonderi") and not str(sonuc["gonderi"]).startswith("hata"):
+            try:
+                sonuc["yorum"] = istemci.yorum_yap(sonuc["gonderi"], ilk_yorum)
+            except Exception as e:
+                sonuc["yorum"] = f"hata: {e}"
+        if sonuc.get("reels") and not str(sonuc["reels"]).startswith("hata"):
+            try:
+                istemci.yorum_yap(sonuc["reels"], ilk_yorum)
+            except Exception:
+                pass
     return sonuc
 
 

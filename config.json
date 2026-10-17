@@ -17,7 +17,7 @@
   "otomatik": {
     "kontrol_dakika": 2,
     "iki_paylasim_arasi_dakika": 20,
-    "gunluk_en_fazla": 33,
+    "gunluk_en_fazla": 46,
     "haber_en_eski_dakika": 90,
     "telegram_en_eski_dakika": 1440,
     "sessiz_saatler": [2, 7],
@@ -34,8 +34,8 @@
     "gorsel_repo": "hackwatcher/haber-bot"
   },
 
-  "reels": {"acik": true, "akisa_da": false},
-  "story": {"acik": true},
+  "reels": {"acik": true, "akisa_da": false, "spikerli": true},
+  "story": {"acik": true, "sadece_telegram": true},
 
   "deneme_modu": false
 }

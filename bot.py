@@ -84,14 +84,18 @@ def ekleri_hazirla(z, yollar, klasor):
                 hatalar.append(f"Gerçek video Reels: {e}")
         if not video:
             try:
-                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya)
+                spikerli = cfg.get("reels", {}).get("spikerli", True)
+                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya, spikerli=spikerli)
             except Exception as e:
                 hatalar.append(f"Reels videosu: {e}")
     if cfg.get("story", {}).get("acik", True):
-        try:
-            story = reels.story(z, cfg["marka"], cfg["kullanici_adi"], vs[0], os.path.join(klasor, "story.jpg"))
-        except Exception as e:
-            hatalar.append(f"story: {e}")
+        sadece_tg = cfg.get("story", {}).get("sadece_telegram", False)
+        bu_tg = bool(z.get("tg_kanal") or "t.me/" in z.get("link", ""))
+        if not sadece_tg or bu_tg:
+            try:
+                story = reels.story(z, cfg["marka"], cfg["kullanici_adi"], vs[0], os.path.join(klasor, "story.jpg"))
+            except Exception as e:
+                hatalar.append(f"story: {e}")
     return video, story, hatalar
 
 
@@ -135,16 +139,32 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
             raise RuntimeError("Bu haberin bir benzeri zaten paylaşıldı")
         yollar, metin, z = hazirla(h, duzenleme)
         video, story, hatalar = ekleri_hazirla(z, yollar, os.path.join(GORSEL, h["id"]))
+
+        # Otomatik İlk Yorum & Tartışma Başlatıcı
+        ilk_yorum = z.get("yorum_sorusu")
+        if not ilk_yorum:
+            konu = z.get("konu", "gundem")
+            sorular = {
+                "ekonomi": "📌 Sizce bu gelişme piyasaları ve fiyatları nasıl etkiler? Yorumlarda buluşalım.",
+                "spor": "📌 Bu maç ve transfer hakkındaki görüşünüz nedir? Yorumlarınızı bekliyoruz.",
+                "afet": "📌 Bölgedeki vatandaşlarımıza geçmiş olsun dileklerimizi iletiyoruz.",
+                "gundem": "📌 Bu konu hakkındaki düşünceleriniz neler? Görüşlerinizi yazın.",
+                "dunya": "📌 Dünyada yankı uyandıran bu gelişmeyi nasıl değerlendiriyorsunuz?",
+                "asayis": "📌 Sizce bu tür olaylara karşı nasıl tedbirler alınmalı?",
+            }
+            ilk_yorum = sorular.get(konu, "📌 Bu konu hakkındaki düşünceleriniz neler? Yorumlarda buluşalım.")
+
         if cfg.get("deneme_modu"):
-            sonuc = {"gonderi": "deneme", "reels": "deneme" if video else None, "story": "deneme" if story else None}
+            sonuc = {"gonderi": "deneme", "reels": "deneme" if video else None, "story": "deneme" if story else None, "yorum": "deneme" if ilk_yorum else None}
         else:
-            sonuc = paylas.paylas(yollar, metin, cfg, video=video, story=story)
+            sonuc = paylas.paylas(yollar, metin, cfg, video=video, story=story, ilk_yorum=ilk_yorum)
         ig_id = sonuc["gonderi"]
         with haber.KILIT:
             d = haber.durum_oku()
             h2 = d["haberler"][hid]
             h2.update({"durum": "paylasildi", "paylasildi": simdi().isoformat(), "ig_id": ig_id,
                        "reels_id": sonuc.get("reels"), "story_id": sonuc.get("story"),
+                       "yorum_id": sonuc.get("yorum"),
                        "slayt": len(yollar), "kanca": z["kanca"]})
             # aynı olayın diğer sitelerdeki kopyaları da kapansın
             for x in d["haberler"].values():
@@ -152,11 +172,11 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
                     x["durum"] = "tekrar"
             on = "[DENEME] " if cfg.get("deneme_modu") else ""
             tur = f"{len(yollar)} slaytlık karusel" if len(yollar) > 1 else "tek kart"
-            ekler = [ad for ad in ("reels", "story") if sonuc.get(ad) and not str(sonuc[ad]).startswith("hata")]
+            ekler = [ad for ad in ("reels", "story", "yorum") if sonuc.get(ad) and not str(sonuc[ad]).startswith("hata")]
             if ekler:
                 tur += " + " + " + ".join(e.capitalize() for e in ekler)
             haber.kaydet(d, f"{on}Paylaşıldı ({kim}, {tur}): {h['kaynak']} · {h['baslik'][:70]}")
-            for ad in ("reels", "story"):
+            for ad in ("reels", "story", "yorum"):
                 if str(sonuc.get(ad) or "").startswith("hata"):
                     hatalar.append(f"{ad}: {sonuc[ad][6:]}")
             for hata in hatalar:
