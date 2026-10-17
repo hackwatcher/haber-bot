@@ -14,10 +14,11 @@ import haber  # noqa: E402
 
 
 def main():
-    if "--baglanti" in sys.argv:  # sadece Instagram bağlantısını kontrol et, hiçbir şey paylaşma
+    if "--baglanti" in sys.argv:  # sadece Instagram ve Facebook bağlantısını kontrol et, hiçbir şey paylaşma
         import paylas
         ig = paylas.Instagram(haber.ayar()["instagram"])
-        print("Bağlantı:", ig.baglanti())
+        print("Instagram Bağlantısı:", ig.baglanti())
+        print("Facebook Yetki Kontrolü:", ig.facebook_kontrol())
         return
     if "--deneme" in sys.argv:
         cfg = haber.ayar()

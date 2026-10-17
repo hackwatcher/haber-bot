@@ -74,6 +74,29 @@ class Instagram:
         b = self.call("GET", self.ig, fields="username,media_count,followers_count")
         return f"@{b['username']} · {b.get('media_count', 0)} gönderi · {b.get('followers_count', 0)} takipçi"
 
+    def facebook_kontrol(self):
+        """Token'ın Facebook izinlerini ve bağlı sayfaları sorgular (Salt okunur)."""
+        sonuc = {}
+        try:
+            izinler = self.call("GET", "me/permissions").get("data", [])
+            sonuc["izinler"] = [p["permission"] for p in izinler if p.get("status") == "granted"]
+        except Exception as e:
+            sonuc["izin_hatasi"] = str(e)
+        try:
+            r = self.call("GET", "me/accounts", fields="id,name,tasks,instagram_business_account{username}", limit="50")
+            sonuc["sayfalar"] = [
+                {
+                    "id": s["id"],
+                    "ad": s["name"],
+                    "gorevler": s.get("tasks", []),
+                    "bagli_ig": s.get("instagram_business_account", {}).get("username")
+                }
+                for s in r.get("data", [])
+            ]
+        except Exception as e:
+            sonuc["sayfa_hatasi"] = str(e)
+        return sonuc
+
     def bekle(self, cid, sure=180):
         bas = time.time()
         while time.time() - bas < sure:
