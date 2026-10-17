@@ -65,6 +65,19 @@ def hazirla(h, duzenleme=None):
     return yollar, kart.aciklama(z, cfg["hashtagler"], karusel=len(yollar) > 1), z
 
 
+def daktilo_cizici(z, cfg):
+    """Reels'in ilk slaytını (video kapağı) başlığın yalnızca ilk N harfiyle çizen fonksiyon döndürür.
+
+    Karusel varsa kapak özetsiz çizilir (karusel.karusel(video=True) ile aynı), yoksa tek kart.
+    """
+    kapak = dict(z, ozet="") if z.get("slaytlar") else z
+
+    def ciz(harf, imlec, cikti):
+        return kart.ciz_kart(dict(kapak, daktilo_harf=harf, daktilo_imlec=imlec),
+                             cfg["marka"], cfg["kullanici_adi"], cikti)
+    return ciz
+
+
 def ekleri_hazirla(z, yollar, klasor):
     """Aynı haberden Reels videosu ve story görseli. Biri üretilemezse o atlanır, gönderi yine paylaşılır."""
     cfg = haber.ayar()
@@ -84,10 +97,12 @@ def ekleri_hazirla(z, yollar, klasor):
                 hatalar.append(f"Gerçek video Reels: {e}")
         if not video:
             try:
-                spikerli = cfg.get("reels", {}).get("spikerli", True)
-                spiker_hiz = cfg.get("reels", {}).get("spiker_hiz", 1.15)
-                altyazi = cfg.get("reels", {}).get("altyazi", False)
-                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya, spikerli=spikerli, spiker_hiz=spiker_hiz, altyazi=altyazi)
+                rcfg = cfg.get("reels", {})
+                daktilo_ciz = daktilo_cizici(z, cfg) if rcfg.get("daktilo", True) else None
+                video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya,
+                                    spikerli=rcfg.get("spikerli", True), spiker_hiz=rcfg.get("spiker_hiz", 1.15),
+                                    altyazi=rcfg.get("altyazi", False), daktilo_ciz=daktilo_ciz,
+                                    daktilo_sn=rcfg.get("daktilo_sn", 2.6))
             except Exception as e:
                 hatalar.append(f"Reels videosu: {e}")
     if cfg.get("story", {}).get("acik", True):

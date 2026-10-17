@@ -1,4 +1,7 @@
-"""Yapay Zeka Türkçe Haber Spikeri (gTTS + ffmpeg): Reels videoları için hızlı TV spikeri sesi ve altyazı üretir.
+"""Yapay Zeka Türkçe Haber Spikeri: Reels videoları için spiker sesi ve altyazı üretir.
+
+Birincil motor: Microsoft Neural TTS (edge-tts, tr-TR-EmelNeural) — gerçekçi ses.
+Yedek motor: gTTS + ffmpeg atempo (edge-tts kurulamazsa / ağ hatasında).
 """
 
 import os
@@ -62,7 +65,11 @@ def ffprobe_yolu():
 
 
 def ses_suresi(mp3_yol):
-    """ffprobe ile ses dosyasının süresini saniye cinsinden döndürür."""
+    """Ses dosyasının süresini saniye cinsinden döndürür.
+
+    Sıra: ffprobe -> `ffmpeg -i` çıktısındaki "Duration:" satırı -> dosya boyutundan tahmin (48 kbps,
+    edge-tts'in varsayılan çıktısı; yanlış yüksek bitrate varsayımı süreyi kısa gösterip spikeri keserdi).
+    """
     try:
         cmd = [
             ffprobe_yolu(), "-v", "error",
@@ -73,11 +80,18 @@ def ses_suresi(mp3_yol):
         res = subprocess.run(cmd, capture_output=True, text=True, check=True)
         return float(res.stdout.strip())
     except Exception:
-        # ffprobe çalışmazsa dosya boyutundan yaklaşık süre (192 kbps)
-        try:
-            return round(os.path.getsize(mp3_yol) / (192 * 1024 / 8), 2)
-        except Exception:
-            return 8.0
+        pass
+    try:
+        res = subprocess.run([ffmpeg_yolu(), "-hide_banner", "-i", mp3_yol], capture_output=True, text=True)
+        m = re.search(r"Duration:\s*(\d+):(\d+):(\d+(?:\.\d+)?)", res.stderr)
+        if m:
+            return int(m.group(1)) * 3600 + int(m.group(2)) * 60 + float(m.group(3))
+    except Exception:
+        pass
+    try:
+        return round(os.path.getsize(mp3_yol) / (48 * 1000 / 8), 2)
+    except Exception:
+        return 8.0
 
 
 def altyazi_parcala(metin, toplam_sure):
@@ -150,8 +164,7 @@ def seslendir(z, cikti=None, hiz=1.15):
         tts = gtts.gTTS(metin, lang="tr")
         tts.save(gecici_raw)
 
-        # Hızlı spiker temposu (atempo=1.30) ve ses netleştirme filtresi
-        # atempo: konuşma hızını 1.30x yapar (pitch/ton bozulmaz)
+        # atempo: konuşma hızını config'teki spiker_hiz kadar artırır (pitch/ton bozulmaz)
         # bass ve treble: TV haber spikeri netliği ve varlığı kazandırır
         cmd = [
             ffmpeg_yolu(), "-y", "-loglevel", "error",

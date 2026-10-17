@@ -128,9 +128,24 @@ def metin_blogu(c, haber, ust, alt, vurgu, en_buyuk=104, ozet_satir=5):
             c.text((KENAR + 32, y), s, font=fk, fill=vurgu)
             y += int(fkb * 1.2)
         y += 28
+    # Daktilo efekti: yerleşim TAM başlıktan hesaplandı (yazı zıplamaz), yalnızca ilk N harf çizilir.
+    gorunur = haber.get("daktilo_harf")
+    kalan = max(0, int(gorunur)) if gorunur is not None else 0
+    imlec = None
     for s in bs:
-        c.text((KENAR, y), s, font=fb, fill=BEYAZ)
+        if gorunur is None:
+            parca = s
+        else:
+            parca = s[:kalan] if kalan > 0 else ""
+        if parca:
+            c.text((KENAR, y), parca, font=fb, fill=BEYAZ)
+        if gorunur is not None and (kalan > 0 or imlec is None):
+            imlec = (KENAR + c.textlength(parca, font=fb), y)
+        kalan -= len(s) + 1  # satır sonundaki boşluk da bir harf sayılır
         y += bsat
+    if gorunur is not None and haber.get("daktilo_imlec") and imlec:
+        ix = imlec[0] + (boyut * .06 if imlec[0] > KENAR else 0)
+        c.rectangle([ix, imlec[1] + boyut * .12, ix + max(6, boyut * .07), imlec[1] + boyut * 1.0], fill=vurgu)
     if os_:
         y += 40
         for s in os_:

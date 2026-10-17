@@ -1,7 +1,8 @@
 """Haber slaytlarından kısa Reels videosu (9:16, müzikli) ve aynı tasarımda story görseli.
 
-Tarz: haber bülteni gibi sade. Üstte hafifçe yanıp sönen "SON DAKİKA" etiketi, slaytlar arasında
-kısa (0,15 sn) geçiş, altta ilerleme çubuğu. Uzun efekt yok.
+Tarz: haber bülteni gibi sade. Üstte hafifçe yanıp sönen "SON DAKİKA" etiketi (kart ve gerçek videolarda),
+ilk slaytta başlık klavyeden yazılıyormuş gibi açılır (daktilo), slaytlar arasında kısa (0,15 sn) geçiş,
+altta ilerleme çubuğu. Uzun efekt yok.
 """
 
 import glob
@@ -117,8 +118,21 @@ def altyazi_kutusu(img, metin, vurgu=(220, 38, 38)):
     return img
 
 
-def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hiz=1.15, altyazi=False):
-    """slaytlar: 1080x1350 görseller (KAYDIR'sız). Spiker sesli ve müzikli mp4 yazar, yolunu döndürür."""
+def daktilo_harf_sayisi(k, kare_sayisi, uzunluk):
+    """k. karede (0'dan) başlığın kaç harfinin görüneceği. Son karede tamamı görünür."""
+    if kare_sayisi <= 0:
+        return uzunluk
+    return min(uzunluk, max(1, math.ceil(uzunluk * (k + 1) / kare_sayisi)))
+
+
+def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hiz=1.15, altyazi=False,
+          daktilo_ciz=None, daktilo_sn=2.6):
+    """slaytlar: 1080x1350 görseller (KAYDIR'sız). Spiker sesli ve müzikli mp4 yazar, yolunu döndürür.
+
+    daktilo_ciz: verilirse ilk slaytta başlık klavyeden yazılıyormuş gibi açılır.
+        İmzası: daktilo_ciz(harf_sayisi, imlec_gorunur, cikti_yolu) -> 1080x1350 slayt yolu.
+    daktilo_sn: başlığın tamamen yazılma süresi (merak uyandıran tempo için ~2.6 sn).
+    """
     _, vurgu, zemin, _ = konu_renkleri(haber)
     n = len(slaytlar)
     kareler = [zemin_kare(haber, marka, kullanici_adi, s, i, n) for i, s in enumerate(slaytlar)]
@@ -151,6 +165,19 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
     else:
         sure = sureler(haber, n)
         toplam_sn = sum(sure)
+
+    # Daktilo açıkken ilk slayt, başlık yazılıp okunabilecek kadar uzun kalsın
+    if daktilo_ciz and n > 1:
+        eksik = (daktilo_sn + 1.0) - sure[0]
+        if eksik > 0:
+            if spiker_dosya and spiker_sn > 0:  # toplam süre sesle sabit: diğerlerinden düş
+                pay = [max(0.0, s - 1.5) for s in sure[1:]]
+                eksik = min(eksik, sum(pay))
+                if sum(pay) > 0:
+                    sure = [sure[0] + eksik] + [s - eksik * p / sum(pay) for s, p in zip(sure[1:], pay)]
+            else:
+                sure[0] += eksik
+                toplam_sn = sum(sure)
 
     muzik = muzik_sec(haber)
 
@@ -188,6 +215,16 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
 
     gecis_kare = int(GECIS * FPS)
     t = 0.0
+    # Daktilo: ilk slaytın süresine sığacak şekilde (bitince en az 0,6 sn tam başlık görünür)
+    baslik_uzunluk = len(haber.get("baslik") or "")
+    daktilo_kare = 0
+    if daktilo_ciz and baslik_uzunluk > 0:
+        ilk_adet = int(round(sure[0] * FPS))
+        daktilo_kare = min(int(round(daktilo_sn * FPS)), ilk_adet - gecis_kare - int(0.6 * FPS))
+        if daktilo_kare < int(0.8 * FPS):
+            daktilo_kare = 0
+    daktilo_dosya = cikti + "_daktilo.jpg"
+    daktilo_son = (None, None)  # (anahtar, kare) — bellekte yalnızca son kare tutulur
     try:
         for i, (kare, _) in enumerate(kareler):
             adet = int(round(sure[i] * FPS))
@@ -197,7 +234,22 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
             sonuk = Image.blend(parlak, Image.new("RGB", parlak.size, zemin), 0.55)
             for k in range(adet):
                 a = 0.5 + 0.5 * math.cos(2 * math.pi * t / NABIZ)  # 1: parlak, 0: sönük
-                f = kare.copy()
+                temel = kare
+                if i == 0 and k < daktilo_kare:
+                    harf = daktilo_harf_sayisi(k, daktilo_kare, baslik_uzunluk)
+                    imlec = (k // 8) % 2 == 0  # ~0,27 sn yanık / sönük imleç
+                    anahtar = (harf, imlec)
+                    if daktilo_son[0] != anahtar:
+                        try:
+                            yol = daktilo_ciz(harf, imlec, daktilo_dosya)
+                            daktilo_son = (anahtar, zemin_kare(haber, marka, kullanici_adi, yol, 0, n)[0])
+                        except Exception as e:
+                            print(f"Daktilo efekti atlandı: {e}", flush=True)
+                            daktilo_kare = 0
+                            daktilo_son = (None, None)
+                    if daktilo_son[1] is not None:
+                        temel = daktilo_son[1]
+                f = temel.copy()
                 f.paste(Image.blend(sonuk, parlak, a), kutu[:2])
                 if sonraki is not None and k >= adet - gecis_kare:  # kısa geçiş
                     oran = (k - (adet - gecis_kare) + 1) / (gecis_kare + 1)
@@ -219,11 +271,12 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
         if p.wait() != 0:
             raise RuntimeError("ffmpeg videoyu yazamadı")
     finally:
-        if spiker_dosya and os.path.exists(spiker_dosya):
-            try:
-                os.remove(spiker_dosya)
-            except Exception:
-                pass
+        for gecici in (spiker_dosya, daktilo_dosya):
+            if gecici and os.path.exists(gecici):
+                try:
+                    os.remove(gecici)
+                except Exception:
+                    pass
     return cikti
 
 
@@ -238,7 +291,7 @@ def gercek_video_reels(haber, marka, kullanici_adi, kaynak_video, cikti):
     ust_yazi = kart.buyuk(haber.get("kanca") or "SON DAKİKA")
     if len(ust_yazi) > 26:
         ust_yazi = "SON DAKİKA"
-    etiket(c, 180, vurgu, yazi_rengi, yazi=ust_yazi)
+    kutu = etiket(c, 180, vurgu, yazi_rengi, yazi=ust_yazi)
     alt_haber = {
         "kanca": haber.get("kaynak", marka),
         "baslik": haber.get("baslik", ""),
@@ -247,14 +300,26 @@ def gercek_video_reels(haber, marka, kullanici_adi, kaynak_video, cikti):
     kart.metin_blogu(c, alt_haber, 980, 1460, vurgu, en_buyuk=66, ozet_satir=0)
     c.line([(kart.KENAR, 1490), (W - kart.KENAR, 1490)], fill=(38, 43, 54), width=2)
     c.text((kart.KENAR, 1520), f"{kart.buyuk(marka)}  ·  {kullanici_adi}", font=font(KALIN, 36), fill=kart.GRI)
+    # Etiket nabzı: zeminde sönük hali, üstte parlak hali zamanla değişen saydamlıkla bindirilir
+    parlak = img.crop(kutu)
+    img.paste(Image.blend(parlak, Image.new("RGB", parlak.size, zemin), 0.55), kutu[:2])
     zemin_dosya = cikti + "_zemin.jpg"
+    etiket_dosya = cikti + "_etiket.png"
     img.save(zemin_dosya, "JPEG", quality=95)
+    parlak.save(etiket_dosya, "PNG")
     try:
+        filtre = (
+            f"[2:v]format=rgba,geq=r='r(X,Y)':g='g(X,Y)':b='b(X,Y)':a='255*(0.5+0.5*cos(2*PI*T/{NABIZ}))'[lbl];"
+            "[1:v]scale=1080:640:force_original_aspect_ratio=decrease[vid];"
+            "[0:v][vid]overlay=(W-w)/2:300:shortest=1[bg];"
+            f"[bg][lbl]overlay={kutu[0]}:{kutu[1]}:shortest=1[outv]"
+        )
         cmd = [
             ffmpeg_yolu(), "-y", "-loglevel", "error",
-            "-loop", "1", "-i", zemin_dosya,
+            "-framerate", str(FPS), "-loop", "1", "-i", zemin_dosya,
             "-i", v_yol,
-            "-filter_complex", "[1:v]scale=1080:640:force_original_aspect_ratio=decrease[vid];[0:v][vid]overlay=(W-w)/2:300:shortest=1[outv]",
+            "-framerate", str(FPS), "-loop", "1", "-i", etiket_dosya,
+            "-filter_complex", filtre,
             "-map", "[outv]", "-map", "1:a?",
             "-t", "58",
             "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p",
@@ -262,8 +327,9 @@ def gercek_video_reels(haber, marka, kullanici_adi, kaynak_video, cikti):
         ]
         subprocess.run(cmd, check=True, timeout=120)
     finally:
-        if os.path.exists(zemin_dosya):
-            os.remove(zemin_dosya)
+        for gecici in (zemin_dosya, etiket_dosya):
+            if os.path.exists(gecici):
+                os.remove(gecici)
     return cikti
 
 

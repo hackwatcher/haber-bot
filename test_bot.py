@@ -222,6 +222,112 @@ class TestHaberBot(unittest.TestCase):
             self.assertIsNotNone(story_tg)
             self.assertTrue(os.path.exists(story_tg))
 
+    # ---------- denetim sonrası eklenen testler ----------
+
+    def _kare(self, video, saniye):
+        """Videodan belirtilen saniyedeki kareyi PIL görseli olarak döndürür."""
+        import subprocess
+        import reels
+        yol = os.path.join(self.tmp, f"kare_{saniye}.png")
+        subprocess.run([reels.ffmpeg_yolu(), "-y", "-loglevel", "error", "-ss", str(saniye), "-i", video,
+                        "-frames:v", "1", "-update", "1", yol], check=True)
+        with Image.open(yol) as im:
+            return im.convert("RGB").copy()
+
+    @staticmethod
+    def _parlaklik(img, kutu):
+        from PIL import ImageStat
+        return sum(ImageStat.Stat(img.crop(kutu)).mean) / 3
+
+    def test_daktilo_kart_yerlesim_sabit(self):
+        """Daktilo: tüm harfler görünürken kart normal kartla birebir aynı, kısmi başlıkta farklı olmalı."""
+        from PIL import ImageChops
+        h = dict(self.ornek_haber, konu="gundem", kanca="SON DAKİKA")
+        normal = os.path.join(self.tmp, "normal.jpg")
+        tam = os.path.join(self.tmp, "tam.jpg")
+        kismi = os.path.join(self.tmp, "kismi.jpg")
+        kart.ciz_kart(h, "XHABER", "@xhabercom", normal)
+        kart.ciz_kart(dict(h, daktilo_harf=len(h["baslik"]), daktilo_imlec=False), "XHABER", "@xhabercom", tam)
+        kart.ciz_kart(dict(h, daktilo_harf=8, daktilo_imlec=True), "XHABER", "@xhabercom", kismi)
+        with Image.open(normal) as a, Image.open(tam) as b, Image.open(kismi) as c:
+            self.assertIsNone(ImageChops.difference(a.convert("RGB"), b.convert("RGB")).getbbox())
+            fark = ImageChops.difference(a.convert("RGB"), c.convert("RGB")).getbbox()
+            self.assertIsNotNone(fark)
+            # yalnızca başlık bölgesi değişir; üst bilgi (marka/etiket, y<200) sabit kalır = yazı zıplamaz
+            self.assertGreater(fark[1], 200)
+
+    def test_daktilo_harf_sayisi(self):
+        import reels
+        self.assertEqual(reels.daktilo_harf_sayisi(0, 78, 50), 1)
+        self.assertEqual(reels.daktilo_harf_sayisi(77, 78, 50), 50)
+        self.assertEqual(reels.daktilo_harf_sayisi(5, 0, 50), 50)
+
+    def test_reels_daktilo_ve_yanip_sonen_etiket(self):
+        """Kart Reels: başta başlık eksik, sonra tam; SON DAKİKA etiketi daktilo sırasında da yanıp sönmeli."""
+        import reels
+        from PIL import ImageChops
+        h = dict(self.ornek_haber, konu="gundem", kanca="SON DAKİKA")
+        slayt = kart.ciz_kart(h, "XHABER", "@xhabercom", os.path.join(self.tmp, "s1.jpg"))
+
+        def ciz(harf, imlec, cikti):
+            return kart.ciz_kart(dict(h, daktilo_harf=harf, daktilo_imlec=imlec), "XHABER", "@xhabercom", cikti)
+
+        cikti = os.path.join(self.tmp, "daktilo.mp4")
+        reels.video(h, "XHABER", "@xhabercom", [slayt], cikti, spikerli=False, daktilo_ciz=ciz, daktilo_sn=2.6)
+        self.assertTrue(os.path.exists(cikti))
+        self.assertFalse(os.path.exists(cikti + "_daktilo.jpg"))  # geçici dosya temizlendi
+
+        bas, son = self._kare(cikti, 0.5), self._kare(cikti, 4.0)
+        baslik_bolgesi = (0, reels.UST + 300, reels.W, reels.UST + 1100)
+        self.assertIsNotNone(ImageChops.difference(bas.crop(baslik_bolgesi), son.crop(baslik_bolgesi)).getbbox())
+
+        _, kutu = reels.zemin_kare(h, "XHABER", "@xhabercom", slayt, 0, 1)
+        parlak, sonuk = self._parlaklik(self._kare(cikti, 0.0), kutu), self._parlaklik(self._kare(cikti, 0.6), kutu)
+        self.assertGreater(parlak - sonuk, 8)
+
+    def test_gercek_video_etiket_yanip_soner(self):
+        """Telegram'dan gelen gerçek videoda da etiket yanıp sönmeli (eskiden sabitti)."""
+        import subprocess
+        import reels
+        kaynak = os.path.join(self.tmp, "kaynak.mp4")
+        subprocess.run([reels.ffmpeg_yolu(), "-y", "-loglevel", "error", "-f", "lavfi", "-i",
+                        "testsrc=size=640x360:rate=30:duration=2", "-pix_fmt", "yuv420p", kaynak], check=True)
+        h = dict(self.ornek_haber, konu="gundem", kanca="SON DAKİKA")
+        cikti = os.path.join(self.tmp, "gercek.mp4")
+        reels.gercek_video_reels(h, "XHABER", "@xhabercom", kaynak, cikti)
+        self.assertTrue(os.path.exists(cikti))
+        self.assertFalse(os.path.exists(cikti + "_etiket.png"))
+        f = reels.font(reels.KALIN, 46)
+        from PIL import ImageDraw
+        w = ImageDraw.Draw(Image.new("RGB", (1, 1))).textlength("SON DAKİKA", font=f) + 128
+        kutu = (int((reels.W - w) / 2), 180, int((reels.W + w) / 2), 266)
+        parlak, sonuk = self._parlaklik(self._kare(cikti, 0.0), kutu), self._parlaklik(self._kare(cikti, 0.6), kutu)
+        self.assertGreater(parlak - sonuk, 8)
+
+    def test_ses_suresi_ffprobe_yokken(self):
+        """ffprobe yoksa süre ffmpeg çıktısından doğru okunmalı (eskiden ~4 kat kısa tahmin ediliyordu)."""
+        import subprocess
+        import unittest.mock as mock
+        import spiker
+        mp3 = os.path.join(self.tmp, "ton.mp3")
+        subprocess.run([spiker.ffmpeg_yolu(), "-y", "-loglevel", "error", "-f", "lavfi", "-i",
+                        "sine=frequency=440:duration=3", "-b:a", "48k", mp3], check=True)
+        with mock.patch("spiker.ffprobe_yolu", return_value="olmayan_ffprobe_xyz"):
+            self.assertAlmostEqual(spiker.ses_suresi(mp3), 3.0, delta=0.3)
+
+    def test_bagimliliklar_ve_ayar_tutarli(self):
+        """Canlı bot gerçekçi spikeri kurmalı; config'te daktilo açık, altyazı kapalı olmalı."""
+        kok = os.path.dirname(os.path.abspath(__file__))
+        for dosya in ("requirements-bot.txt", "requirements.txt"):
+            with open(os.path.join(kok, dosya), encoding="utf-8") as f:
+                paketler = f.read().split()
+            self.assertIn("edge-tts", paketler, dosya)
+            self.assertIn("gTTS", paketler, dosya)
+        r = haber.ayar()["reels"]
+        self.assertTrue(r["daktilo"])
+        self.assertFalse(r["altyazi"])
+        self.assertAlmostEqual(r["spiker_hiz"], 1.15)
+
 
 if __name__ == "__main__":
     unittest.main()
