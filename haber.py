@@ -73,7 +73,7 @@ def benzer(a, b):
     if not a or not b:
         return False
     ortak = len(a & b)
-    return ortak / len(a | b) >= 0.45 or (min(len(a), len(b)) >= 4 and ortak / min(len(a), len(b)) >= 0.75)
+    return ortak / len(a | b) >= 0.40 or (min(len(a), len(b)) >= 3 and ortak / min(len(a), len(b)) >= 0.60)
 
 
 def ozet_kisalt(ozet, baslik, sinir=280):

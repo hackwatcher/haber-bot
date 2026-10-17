@@ -62,5 +62,7 @@ jobs:
           git add data/durum.json
           git diff --cached --quiet && exit 0
           git commit -q -m "Haber durumu"
-          git pull -q --rebase
-          git push -q
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase -X ours origin main && git push -q origin main && exit 0 || sleep 3
+          done
+          exit 1

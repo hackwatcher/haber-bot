@@ -328,6 +328,52 @@ class TestHaberBot(unittest.TestCase):
         self.assertFalse(r["altyazi"])
         self.assertAlmostEqual(r["spiker_hiz"], 1.15)
 
+    def test_cift_paylasim_ve_icerik_benzerlik_engeli(self):
+        """Aynı link veya %75+ benzer içerik daha önce paylaşıldıysa otomatik_sec ve haberi_paylas engellemeli."""
+        import unittest.mock as mock
+        h1 = {
+            "id": "h1",
+            "kaynak": "NTV",
+            "baslik": "Fenerbahçe Alanyaspor'u 3-0 yendi",
+            "ozet": "Maçta 3 gol atıldı.",
+            "link": "https://t.me/kanal/100",
+            "zaman": "2026-10-18T00:00:00+03:00",
+            "durum": "paylasildi",
+            "paylasildi": "2026-10-18T00:10:00+03:00"
+        }
+        # Aynı linke sahip yeni haber
+        h2 = {
+            "id": "h2",
+            "kaynak": "NTV",
+            "baslik": "Fenerbahçe Alanyaspor maçı bitti",
+            "ozet": "Farklı özet.",
+            "link": "https://t.me/kanal/100",
+            "zaman": "2026-10-18T00:05:00+03:00",
+            "durum": "yeni"
+        }
+        # Farklı link ama tıpatıp aynı olayı anlatan haber
+        h3 = {
+            "id": "h3",
+            "kaynak": "Sözcü",
+            "baslik": "Fenerbahçe Alanyaspor'u 3-0 mağlup etti",
+            "ozet": "Maçta 3 gol kaydedildi.",
+            "link": "https://sozcu.com.tr/fb-alanya",
+            "zaman": "2026-10-18T00:06:00+03:00",
+            "durum": "yeni"
+        }
+        d = {"haberler": {"h1": h1, "h2": h2, "h3": h3}, "kayit": []}
+        cfg = {"otomatik": {"haber_en_eski_dakika": 9999, "gunluk_en_fazla": 50, "iki_paylasim_arasi_dakika": 0}}
+
+        secilen = bot.otomatik_sec(d, cfg)
+        self.assertIsNone(secilen, "Aynı link veya benzer içeriğe sahip haberler elenmeliydi")
+        self.assertEqual(h2["durum"], "tekrar")
+        self.assertEqual(h3["durum"], "tekrar")
+
+        # haberi_paylas doğrudan çağrılsa bile hata fırlatarak engellemeli
+        with mock.patch("haber.durum_oku", return_value=d), mock.patch("haber.durum_yaz"):
+            with self.assertRaises(RuntimeError):
+                bot.haberi_paylas("h2")
+
 
 if __name__ == "__main__":
     unittest.main()

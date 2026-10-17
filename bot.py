@@ -154,6 +154,25 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
             raise RuntimeError("Bu haber zaten paylaşıldı")
         if h.get("tekrar_of") and d["haberler"].get(h["tekrar_of"], {}).get("paylasildi"):
             raise RuntimeError("Bu haberin bir benzeri zaten paylaşıldı")
+
+        # Çift paylaşım zırhı: link veya metin daha önce paylaşıldıysa kesin engelle
+        h_link = (h.get("link") or "").strip()
+        h_k = haber.kelimeler(h.get("baslik", "") + " " + (h.get("ozet") or "")[:120])
+        for xid, x in d.get("haberler", {}).items():
+            if xid != hid and (x.get("durum") == "paylasildi" or x.get("paylasildi")):
+                if h_link and x.get("link") and x["link"] == h_link:
+                    h["durum"] = "tekrar"
+                    h["tekrar_of"] = xid
+                    haber.durum_yaz(d)
+                    raise RuntimeError(f"Bu haberin linki daha önce paylaşıldı (ID: {xid})")
+                if h_k:
+                    x_k = haber.kelimeler(x.get("baslik", "") + " " + (x.get("ozet") or "")[:120])
+                    if haber.benzer(h_k, x_k):
+                        h["durum"] = "tekrar"
+                        h["tekrar_of"] = xid
+                        haber.durum_yaz(d)
+                        raise RuntimeError(f"Bu haberin bir benzeri zaten paylaşıldı: '{x.get('baslik', '')[:40]}' (ID: {xid})")
+
         yollar, metin, z = hazirla(h, duzenleme)
         video, story, hatalar = ekleri_hazirla(z, yollar, os.path.join(GORSEL, h["id"]))
 
@@ -207,16 +226,40 @@ def otomatik_sec(d, cfg):
     s_now = simdi()
     sinir_rss = s_now - dt.timedelta(minutes=o["haber_en_eski_dakika"])
     sinir_tg = s_now - dt.timedelta(minutes=o.get("telegram_en_eski_dakika", 1440))
-    adaylar = [
-        h for h in d["haberler"].values()
-        if h["durum"] == "yeni" and not h.get("tekrar_of")
-        and dt.datetime.fromisoformat(h["zaman"]) >= (sinir_tg if h.get("tg_kanal") else sinir_rss)
+
+    # Daha önce paylaşılan haberlerin linkleri ve içerik kelimeleri
+    paylasilan_linkler = {
+        x.get("link") for x in d["haberler"].values()
+        if (x.get("durum") == "paylasildi" or x.get("paylasildi")) and x.get("link")
+    }
+    paylasilan_kelimeler = [
+        haber.kelimeler(x.get("baslik", "") + " " + (x.get("ozet") or "")[:120])
+        for x in d["haberler"].values()
+        if x.get("durum") == "paylasildi" or x.get("paylasildi")
     ]
+
+    adaylar = []
+    for h in d["haberler"].values():
+        if h["durum"] != "yeni" or h.get("tekrar_of"):
+            continue
+        if dt.datetime.fromisoformat(h["zaman"]) < (sinir_tg if h.get("tg_kanal") else sinir_rss):
+            continue
+        # Link daha önce paylaşıldıysa otomatik kapat
+        if h.get("link") and h.get("link") in paylasilan_linkler:
+            h["durum"] = "tekrar"
+            continue
+        # İçerik daha önce paylaşılan bir habere benziyorsa otomatik kapat
+        hk = haber.kelimeler(h.get("baslik", "") + " " + (h.get("ozet") or "")[:120])
+        if hk and any(haber.benzer(hk, pk) for pk in paylasilan_kelimeler):
+            h["durum"] = "tekrar"
+            continue
+        adaylar.append(h)
+
     if o.get("sadece_oncelikli"):
         adaylar = [h for h in adaylar if h["oncelikli"]]
     # Önce öncelikli kelimeler, sonra bugünkü tüm Telegram haberleri, sonra çoklu kaynaklı RSS, sonra en yenisi
     adaylar.sort(
-        key=lambda h: (h["oncelikli"], 1 if h.get("tg_kanal") else 0, len(h.get("diger_kaynaklar", [])), h["zaman"]),
+        key=lambda h: (h.get("oncelikli", False), 1 if h.get("tg_kanal") else 0, len(h.get("diger_kaynaklar", [])), h["zaman"]),
         reverse=True,
     )
     return adaylar[0] if adaylar else None
