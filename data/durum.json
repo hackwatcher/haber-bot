@@ -2263,7 +2263,8 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e82daf2a6101": {
    "id": "e82daf2a6101",
@@ -5745,9 +5746,50 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "21df67c47114": {
+   "id": "21df67c47114",
+   "kaynak": "Hürriyet",
+   "baslik": "Polis Özel Harekat, uluslararası keskin nişancı yarışmasında birinci oldu",
+   "ozet": "Emniyet Genel Müdürlüğü (EGM), 20 ülke ve 96 keskin nişancının katıldığı ‘8. BORAN Uluslararası Keskin Nişancı Yarışması’nda Polis Özel Harekat personelinin birinci olduğunu açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/polis-ozel-harekat-uluslararasi-keskin-nisanci-yarismasinda-birinci-oldu-43345634",
+   "zaman": "2026-10-17T21:06:00+03:00",
+   "kelimeler": [
+    "birin",
+    "harek",
+    "keski",
+    "nisan",
+    "ozel",
+    "polis",
+    "ulusl",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f6f04f835f8": {
+   "id": "2f6f04f835f8",
+   "kaynak": "Hürriyet",
+   "baslik": "8 ilde yasa dışı bahis operasyonu: 22 gözaltı",
+   "ozet": "Siirt merkezli 8 ilde yasa dışı bahis ve sanal kumar siteleri üzerinden suç gelirlerinin toplandığı iddiasına yönelik operasyonda 22 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/8-ilde-yasa-disi-bahis-operasyonu-22-gozalti-43345638",
+   "zaman": "2026-10-17T21:08:22+03:00",
+   "kelimeler": [
+    "22",
+    "bahis",
+    "disi",
+    "gozal",
+    "ilde",
+    "opera",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "14eaf8824cbf"
   }
  },
  "kayit": [
+  "17.10 21:30:58  1 yeni haber",
   "17.10 21:15:46  1 yeni haber",
   "17.10 21:01:21  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
   "17.10 20:31:06  2 yeni haber",
