@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "8ffbec1a608a": {
-   "id": "8ffbec1a608a",
-   "kaynak": "Sözcü",
-   "baslik": "İmamoğlu'nun savunması sürerken hakkında soruşturma başlatıldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/ekrem-imamoglu-hakkinda-sorusturma-15-ekim-2026-p369566",
-   "zaman": "2026-10-15T19:54:54+03:00",
-   "kelimeler": [
-    "basla",
-    "hakki",
-    "imamo",
-    "nun",
-    "savun",
-    "sorus",
-    "surer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "aac7d44ee9ae": {
    "id": "aac7d44ee9ae",
    "kaynak": "Hürriyet",
@@ -9475,7 +9456,33 @@
     "yaris"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "ec65ea645b6e": {
+   "id": "ec65ea645b6e",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi, Keskin Nişancı Yarışması'nda dereceye giren takımları kutladı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, İzmir Foça Jandarma Komando Eğitim Komutanlığında düzenlenen BORAN8 Uluslararası Keskin Nişancı Yarışması'nda dereceye giren takımları tebrik etti.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-keskin-nisanci-yarismasinda-dereceye-giren-takimlari-kutladi-960476.html",
+   "zaman": "2026-10-18T19:46:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "ciftc",
+    "derec",
+    "giren",
+    "keski",
+    "kutla",
+    "nda",
+    "nisan",
+    "takim",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f4100c9c714a"
   }
  },
  "kayit": [
