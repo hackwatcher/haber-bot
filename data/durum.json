@@ -1,88 +1,5 @@
 {
  "haberler": {
-  "a5f5c9e3b65c": {
-   "id": "a5f5c9e3b65c",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da sel felaketinde son durum! Vali Gül ölü ve kayıp sayısını açıkladı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbul-da-sel-faleketinde-son-durum-vali-gul-olu-ve-kayip-sayisini-acikladi-p369547",
-   "zaman": "2026-10-15T19:04:16+03:00",
-   "kelimeler": [
-    "durum",
-    "felak",
-    "gul",
-    "istan",
-    "kayip",
-    "olu",
-    "sayis",
-    "sel",
-    "vali"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fa7aad14a8b7": {
-   "id": "fa7aad14a8b7",
-   "kaynak": "Hürriyet",
-   "baslik": "İmamoğlu'na hakkında yargı mensuplarına yönelik sözleri nedeniyle soruşturma",
-   "ozet": "Bakırköy Cumhuriyet Başsavcılığı, tutuklanmasının ardından İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu hakkında, \"İmamoğlu çıkar amaçlı suç örgütü\" davasının duruşmasında yargı mensuplarına yönelik sarfettiği sözler nedeniyle \"kamu…",
-   "link": "https://www.hurriyet.com.tr/gundem/imamogluna-hakkinda-yargi-mensuplarina-yonelik-sozleri-nedeniyle-sorusturma-43343258",
-   "zaman": "2026-10-15T19:11:34+03:00",
-   "kelimeler": [
-    "hakki",
-    "imamo",
-    "mensu",
-    "na",
-    "neden",
-    "sorus",
-    "sozle",
-    "yargi",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0a67b023f72f": {
-   "id": "0a67b023f72f",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Reyhanlı saldırısının sanığı Mihraç Ural Suriye'de yakalandı",
-   "ozet": "Suriye devlet haber ajansı SANA, gerçek ismi Ali Kayalı olan ve 2013'te Banyas'ta düzenlenen katliamın başlıca faillerinden olmakla suçlanan Mihraç Ural'ın sınırdan kaçmaya çalışırken yakalandığını bildirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cmvg67plge48o",
-   "zaman": "2026-10-15T19:11:35+03:00",
-   "kelimeler": [
-    "mihra",
-    "reyha",
-    "saldi",
-    "sanig",
-    "suriy",
-    "ural",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fa917aaecaf1"
-  },
-  "607ce6083570": {
-   "id": "607ce6083570",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan Antalya ve İstanbul’da yaşanan afetlere ilişkin açıklama",
-   "ozet": "Cumhurbaşkanı Erdoğan, Antalya ve İstanbul’da yoğun yağış, sel ve su baskınlarından etkilenen vatandaşlara geçmiş olsun dileklerini iletti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-antalya-ve-istanbulda-yasanan-afetlere-iliskin-aciklama-43343262",
-   "zaman": "2026-10-15T19:14:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "afetl",
-    "antal",
-    "cumhu",
-    "dan",
-    "erdog",
-    "ilisk",
-    "istan",
-    "yasan"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "9e1cb52d206b": {
    "id": "9e1cb52d206b",
    "kaynak": "Hürriyet",
@@ -7356,7 +7273,8 @@
    "diger_kaynaklar": [
     "TRT Haber",
     "Hürriyet",
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "3e1513086cb8": {
@@ -9428,9 +9346,53 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "2a110e0b754b": {
+   "id": "2a110e0b754b",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
+   "ozet": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye işlemlerinin yapıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
+   "zaman": "2026-10-18T19:06:53+03:00",
+   "kelimeler": [
+    "acikl",
+    "altin",
+    "baska",
+    "fon",
+    "ileti",
+    "ilisk",
+    "kurul",
+    "na",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "821d9948b82c"
+  },
+  "dbbcca676b10": {
+   "id": "dbbcca676b10",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Elon Musk'ın Cumhuriyetçilere yaptığı milyonlarca dolarlık bağış ne anlatıyor?",
+   "ozet": "Elon Musk, ABD’deki ara seçimler öncesinde Cumhuriyetçilere 200 milyon dolardan fazla bağış yaparken, desteğin özellikle şirketlerini taşıdığı Teksas’ta yoğunlaşması dikkat çekiyor",
+   "link": "https://www.bbc.com/turkce/articles/c620r7vg0e7wo",
+   "zaman": "2026-10-18T19:10:56+03:00",
+   "kelimeler": [
+    "anlat",
+    "bagis",
+    "cumhu",
+    "dolar",
+    "elon",
+    "in",
+    "milyo",
+    "musk",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.10 19:16:01  1 yeni haber",
   "18.10 19:01:16  1 yeni haber",
   "18.10 18:59:04  65 yeni haber",
   "18.10 18:46:12  2 yeni haber",
