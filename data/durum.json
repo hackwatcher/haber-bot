@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "9234db6e6186": {
-   "id": "9234db6e6186",
-   "kaynak": "Hürriyet",
-   "baslik": "Erzincan'da sel vurdu: Erzurum kara yolu tek yönlü ulaşıma kapandı",
-   "ozet": "Meteoroloji'nin uyarısının ardından Erzincan'da etkisini artıran sağanak sele yol açtı. Sansa Deresi mevkisinde su baskınları ve sel nedeniyle Erzurum-Erzincan kara yolu tek yönlü olarak trafiğe kapatılırken, ekipler yolda çalışma başlattı.",
-   "link": "https://www.hurriyet.com.tr/gundem/erzincanda-sel-vurdu-erzurum-kara-yolu-tek-yonlu-ulasima-kapandi-43343063",
-   "zaman": "2026-10-15T16:29:50+03:00",
-   "kelimeler": [
-    "erzin",
-    "erzur",
-    "kapan",
-    "kara",
-    "sel",
-    "tek",
-    "ulasi",
-    "vurdu",
-    "yolu",
-    "yonlu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e54ecb96f5e4": {
    "id": "e54ecb96f5e4",
    "kaynak": "Hürriyet",
@@ -5009,7 +4987,8 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "21df67c47114": {
    "id": "21df67c47114",
@@ -7324,9 +7303,54 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3b4bf0ee8236": {
+   "id": "3b4bf0ee8236",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Özdemir Bayraktar'ı vefatının 5. yılında andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının beşinci yılında rahmetle andı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ozdemir-bayraktari-vefatinin-5-yilinda-andi-43346312",
+   "zaman": "2026-10-18T16:13:00+03:00",
+   "kelimeler": [
+    "andi",
+    "bayra",
+    "cumhu",
+    "erdog",
+    "ozdem",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "551e33fd3350"
+  },
+  "c374347d0a5a": {
+   "id": "c374347d0a5a",
+   "kaynak": "XHABER",
+   "baslik": "Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi forması çaldı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30287",
+   "zaman": "2026-10-18T16:18:59+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi forması çaldı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/kZKIRjn3HRu98GTX-rMOrB1OsX2renjfA_RjkW0c_JQF7T3HtKf1a8EZXu7V2pHUBJdJw9PfJAcY7HwthOnN4HuCA06-QfxbA43SXpYfQtSsMS4e03_IbaLrLR6EVrKBQnRWKapZmBswkWgx6U_HfapjOVrRGQN45B0dvxP9SSPAiczoIAf8osrGC83dC64nDde5eA3wZl8919SubfFI9n1r5I5tRUSfA2KBP7ex6xYpw92fs2gkcaoRMJM-nRs4A-YKveBeNEFoQ0yJZKTxdIPgWrAiOdmYwU_-do1JzgA1otpgk45dhJop36ArFoywUHz0sxBtszW7w4YYmzx36w",
+   "tg_video_url": "https://cdn4.telesco.pe/file/1a095c3121.mp4?token=dJJCHTRAyLl12MkjitHot9MWL89u648j4vTaIwbgKOCw2vR-C4Vq4HzUjTYD_qqqERrBBZJa2lKRAX-Oworf5o4s4P3NjHRhNzxQeUPeu7ZDBKUBMS7ADIea3P7qTQRVulJV39p9uK0HNgKI1LxAnwVuqqmebFakODdXZs7SNRjAVIwXANKbikCLf6jaWNBZzFa-R4flp60pO39BZqax2UOUL_TMEivR4gjj0H6LAqZRQ1n2nF_x2UEEngiGRbrePVM3q7ZmHVU88iitYIJFu202F6TSVqGXSW5qab26wEetAc9vRO2MwJVXp61LFvYD8eTLde7fI1mOTvbncejmFg",
+   "kelimeler": [
+    "caldi",
+    "forma",
+    "frans",
+    "imzal",
+    "magaz",
+    "messi",
+    "prote",
+    "yagma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.10 16:31:12  1 yeni haber",
   "18.10 16:15:55  1 yeni haber",
   "18.10 15:46:07  4 yeni haber",
   "18.10 15:16:01  2 yeni haber",
