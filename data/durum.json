@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "a8ab145f0f79": {
-   "id": "a8ab145f0f79",
-   "kaynak": "Hürriyet",
-   "baslik": "Sağanak sonrası çatıya çıkmıştı: Dengesini kaybedip düşen adam can verdi",
-   "ozet": "İstanbul Zeytinburnu'nda sağanak yağmurun ardından oluşan hasarı onarmak için 3 katlı binanın çatısına çıkan Rahmetullah Acar dengesini kaybederek zemine düştü. Ağır yaralanan Acar, kaldırıldığı hastanede tüm müdahalelere rağmen kurtarılamadı.",
-   "link": "https://www.hurriyet.com.tr/gundem/saganak-sonrasi-catiya-cikmisti-dengesini-kaybedip-dusen-adam-can-verdi-43342712",
-   "zaman": "2026-10-15T13:35:00+03:00",
-   "kelimeler": [
-    "adam",
-    "can",
-    "catiy",
-    "cikmi",
-    "denge",
-    "dusen",
-    "kaybe",
-    "sagan",
-    "sonra",
-    "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b38fc086377a": {
    "id": "b38fc086377a",
    "kaynak": "Hürriyet",
@@ -7210,9 +7188,51 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "642f7ce12668": {
+   "id": "642f7ce12668",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’daki sel felaketinde can kaybı 5’e yükseldi",
+   "ozet": "Ayazağa'da yaşanan sel felaketinde kayıp olarak aranan Türkmenistan uyruklu Murat Babajanov'un cesedine Haliç'te ulaşıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbuldaki-sel-felaketinde-can-kaybi-5e-yukseldi-43346135",
+   "zaman": "2026-10-18T13:30:53+03:00",
+   "kelimeler": [
+    "can",
+    "daki",
+    "felak",
+    "istan",
+    "kaybi",
+    "sel",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
+  },
+  "cd5dacd3c6f7": {
+   "id": "cd5dacd3c6f7",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'da sel felaketinde can kaybı 5'e yükseldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-istanbul-da-sel-felaketinde-can-kaybi-5-e-yukseldi-p370324",
+   "zaman": "2026-10-18T13:33:31+03:00",
+   "kelimeler": [
+    "can",
+    "felak",
+    "istan",
+    "kaybi",
+    "sel",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
   }
  },
  "kayit": [
+  "18.10 13:45:53  1 yeni haber",
   "18.10 13:34:03  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 13:34:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'da eylemlere \"Kaptan Amerika' kostümüyle katılan şahıs sosyal m",
   "18.10 13:31:07  3 yeni haber",
