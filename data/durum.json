@@ -4870,7 +4870,8 @@
    "reels_id": "18135846475655746",
    "story_id": "18023418440714544",
    "slayt": 5,
-   "kanca": "Son dakika"
+   "kanca": "Son dakika",
+   "diger_kaynaklar": []
   },
   "b8d286f38139": {
    "id": "b8d286f38139",
@@ -5426,7 +5427,10 @@
    "reels_id": "18115183106025653",
    "story_id": "18641040319027220",
    "slayt": 6,
-   "kanca": "Son dakika"
+   "kanca": "Son dakika",
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "125fda1a28a4": {
    "id": "125fda1a28a4",
@@ -5573,7 +5577,8 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "14f3f5195324": {
    "id": "14f3f5195324",
@@ -6050,7 +6055,10 @@
     "yavas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "fe200af0a121": {
    "id": "fe200af0a121",
@@ -6598,9 +6606,226 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e2cba2419e47": {
+   "id": "e2cba2419e47",
+   "kaynak": "Hürriyet",
+   "baslik": "Türk öğrencilerin tercihi Almanya",
+   "ozet": "OECD’nin 2026 eğitim raporuna göre üye ülkelerde 5 milyonu aşan uluslararası öğrenci yükseköğretim görüyor. ABD, İngiltere, Avustralya, Kanada ve Almanya en büyük öğrenci merkezleri arasında yer alıyor. Türk öğrencilerin ilk tercihi ise artık ABD değil Almanya.",
+   "link": "https://www.hurriyet.com.tr/gundem/turk-ogrencilerin-tercihi-almanya-43345746",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "alman",
+    "ogren",
+    "terci",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5c7879c2af8a": {
+   "id": "5c7879c2af8a",
+   "kaynak": "Hürriyet",
+   "baslik": "Özgür Özel: Tek yolumuz kazanmak",
+   "ozet": "Partisinin Yozgat, Kırıkkale ve Ankara il başkanlıkları önseçimlerine katılan Özel, “Türkiye’nin önünde iki yol var. Bir AK Parti’nin kara düzeni, ikincisi YENİ Parti’nin yeni düzeni. Tek yolumuz kazanmak” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-tek-yolumuz-kazanmak-43345756",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "kazan",
+    "ozel",
+    "ozgur",
+    "tek",
+    "yolum"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "dec4cfd33653": {
+   "id": "dec4cfd33653",
+   "kaynak": "Hürriyet",
+   "baslik": "İBB davasında İmamoğlu savunmasını tamamladı",
+   "ozet": "Tutuklu olduğu İBB davasında 4 gün süren savunmasını tamamlayan Ekrem İmamoğlu, “Son sözü daima millet söyler, son hükmü daima ilahi adalet verir” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ibb-davasinda-imamoglu-savunmasini-tamamladi-43345761",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "davas",
+    "ibb",
+    "imamo",
+    "savun",
+    "tamam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "13c18542888f"
+  },
+  "00291af60138": {
+   "id": "00291af60138",
+   "kaynak": "Hürriyet",
+   "baslik": "Etimesgut Belediyesi’nde yedi yeni tutuklama",
+   "ozet": "Etimesgut Belediyesi’ne yönelik soruşturma kapsamında gözaltına alınan 25 şüpheliden 2’si belediye başkan yardımcısı 7 şüpheli tutuklandı. 4 şüpheliye ev hapsi verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/etimesgut-belediyesinde-yedi-yeni-tutuklama-43345762",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "beled",
+    "etime",
+    "nde",
+    "tutuk",
+    "yedi",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a1ca356e0111"
+  },
+  "d168a7baa6d9": {
+   "id": "d168a7baa6d9",
+   "kaynak": "Hürriyet",
+   "baslik": "Yavaş’tan parti değiştirenlere hesabını sandıkta verecekler",
+   "ozet": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Etimesgut Bağlıca’da yapımı tamamlanan Cumhuriyet Yüzme Havuzu ve Spor Kompleksi’nin açılış töreninde basın mensuplarının sorularını yanıtladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yavastan-parti-degistirenlere-hesabini-sandikta-verecekler-43345763",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "degis",
+    "hesab",
+    "parti",
+    "sandi",
+    "tan",
+    "verec",
+    "yavas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "252e03b69ddd"
+  },
+  "1aff55d0bf33": {
+   "id": "1aff55d0bf33",
+   "kaynak": "Hürriyet",
+   "baslik": "Azerbaycan ve Türkiye ayrılmaz bir bütündür",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, “Azerbaycan ve Türkiye, hangi konuda olursa olsun birbirinden ayrılmaz bir bütündür” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/azerbaycan-ve-turkiye-ayrilmaz-bir-butundur-43345764",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "ayril",
+    "azerb",
+    "butun",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "afd0ce383ebb"
+  },
+  "30380144eed1": {
+   "id": "30380144eed1",
+   "kaynak": "Hürriyet",
+   "baslik": "Mimar Sinan’ın mirası çizimlerle kitaplaştı",
+   "ozet": "DEMİRÖREN Yayınları ve Türk Tarih Kurumu işbirliğiyle yayımlanan ‘Mimar Sinan Yapıları / The Buildings of Mimar Sinan’ adlı kitap, yüksek mimar Ali Saim Ülgen’in Mimar Sinan’ın eserlerine ilişkin hazırladığı 266 rölöve çizimini bir araya getiriyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/mimar-sinanin-mirasi-cizimlerle-kitaplasti-43345765",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "cizim",
+    "in",
+    "kitap",
+    "mimar",
+    "miras",
+    "sinan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4a682d33d389"
+  },
+  "f37ddb544d6b": {
+   "id": "f37ddb544d6b",
+   "kaynak": "Hürriyet",
+   "baslik": "Ege Üniversitesi’nde köpek krizi",
+   "ozet": "Ege Üniversitesi Hayvan Hakları Topluluğu’nun bakımlarını üstlendiği 150’yi aşkın köpek, kampustan çevik kuvvet eşliğinde çıkarıldı. Ege Üniversitesi Hayvan Hakları Topluluğu, köpeklerin kafesler içinde bakıldığını, neden gönderildiklerini anlamadıklarını duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/ege-universitesinde-kopek-krizi-43345767",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "ege",
+    "kopek",
+    "krizi",
+    "nde",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9a77839af84b": {
+   "id": "9a77839af84b",
+   "kaynak": "Hürriyet",
+   "baslik": "9 yıl sonra ölümcül oyuna takipsizlik",
+   "ozet": "GAZİ Üniversitesi öğrencisi Evrim Mertin (24), 5 Ağustos 2017 tarihinde intihar etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/9-yil-sonra-olumcul-oyuna-takipsizlik-43345774",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "olumc",
+    "oyuna",
+    "takip",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63899d8f6ee9": {
+   "id": "63899d8f6ee9",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Breakıng Bad’ özentilerine suçüstü",
+   "ozet": "‘Breaking Bad’ dizisindeki gibi karavanı uyuşturucu faaliyetlerinde kullanan 2 şüpheli yapılan operasyonla yakalanarak tutuklandı. Karavan ve evde, şüphelilerin uyuşturucu yapımında kullandıkları malzemeler ve 213 kilogram sentetik uyuşturucu ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/breaking-bad-ozentilerine-sucustu-43345776",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "bad",
+    "break",
+    "ozent",
+    "sucus"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "523b0a75eeea": {
+   "id": "523b0a75eeea",
+   "kaynak": "Hürriyet",
+   "baslik": "Filyos’tan görev yeri Sakarya’ya uğurlandı",
+   "ozet": "Türkiye’nin ilk yüzer enerji üretim platformu olan Osman Gazi, ilk görev yeri Sakarya Gaz Sahası’na doğru dün yola çıktı. 20 yıl boyunca Karadeniz’in kalbine sabitlenecek olan platformla Sakarya Gaz Sahası’ndaki yerli doğalgaz üretimi iki katına çıkacak.",
+   "link": "https://www.hurriyet.com.tr/gundem/filyostan-gorev-yeri-sakaryaya-ugurlandi-43345778",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "filyo",
+    "gorev",
+    "sakar",
+    "tan",
+    "ugurl",
+    "ya",
+    "yeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "272621fd5715": {
+   "id": "272621fd5715",
+   "kaynak": "Hürriyet",
+   "baslik": "Çapa’da temel atma törenine katılan Erdoğan: Sağlıkta çekim merkezi olacağız",
+   "ozet": "İstanbul Üniversitesi Hastanesi Çapa Yerleşkesi’nde konuşan Cumhurbaşkanı Erdoğan, “İnsanımız sağlık hizmeti alabilmek için yurtdışına giderdi. Şimdi dünyanın dört bir yanından ülkemize geliyorlar. Sağlıkta Türkiye’yi küresel çekim merkezi haline getireceğiz” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/capada-temel-atma-torenine-katilan-erdogan-saglikta-cekim-merkezi-olacagiz-43345779",
+   "zaman": "2026-10-18T07:00:00+03:00",
+   "kelimeler": [
+    "atma",
+    "capa",
+    "cekim",
+    "erdog",
+    "katil",
+    "merke",
+    "olaca",
+    "sagli",
+    "temel",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.10 07:15:56  7 yeni haber",
   "18.10 07:03:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 07:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'nın Limoges kentinde protestocular, 1357'den bu yana belediye b",
   "18.10 07:01:14  1 yeni haber",
