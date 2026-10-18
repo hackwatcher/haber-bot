@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "25fe59d72548": {
-   "id": "25fe59d72548",
-   "kaynak": "Sözcü",
-   "baslik": "Damal Belediye Başkanı Kemal Çamlıyurt görevden uzaklaştırıldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/damal-belediye-baskani-kemal-camliyurt-gorevden-uzaklastirildi-p369577",
-   "zaman": "2026-10-15T20:38:22+03:00",
-   "kelimeler": [
-    "baska",
-    "beled",
-    "camli",
-    "damal",
-    "gorev",
-    "kemal",
-    "uzakl"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "cc1a4aa1e612"
-  },
   "36accff13972": {
    "id": "36accff13972",
    "kaynak": "Hürriyet",
@@ -9023,7 +9003,10 @@
     "tir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "b4221d5e6035": {
    "id": "b4221d5e6035",
@@ -9495,9 +9478,50 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "190f6f0f738e": {
+   "id": "190f6f0f738e",
+   "kaynak": "TRT Haber",
+   "baslik": "Düzce'de köprüden düşen tırda çıkan yangın söndürüldü",
+   "ozet": "Anadolu Otoyolu Düzce kesiminde otomobille çarpışıp viyadükten düştükten sonra yangın çıkan tır kullanılamaz hale geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/duzcede-kopruden-dusen-tirda-cikan-yangin-sonduruldu-960477.html",
+   "zaman": "2026-10-18T20:28:00+03:00",
+   "kelimeler": [
+    "cikan",
+    "dusen",
+    "duzce",
+    "kopru",
+    "sondu",
+    "tirda",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c86e3c70cd13": {
+   "id": "c86e3c70cd13",
+   "kaynak": "NTV",
+   "baslik": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik TIR kuyruğu",
+   "ozet": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik TIR kuyruğu oluştu.",
+   "link": "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904",
+   "zaman": "2026-10-18T20:41:38+03:00",
+   "kelimeler": [
+    "27",
+    "hamza",
+    "kapis",
+    "kilom",
+    "kuyru",
+    "nda",
+    "sinir",
+    "tir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c30f6d4db24"
   }
  },
  "kayit": [
+  "18.10 20:45:58  1 yeni haber",
   "18.10 20:31:08  2 yeni haber",
   "18.10 20:16:05  2 yeni haber",
   "18.10 19:53:17  3 yeni haber",
