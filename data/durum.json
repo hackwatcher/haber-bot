@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "3a6b07598cfa": {
-   "id": "3a6b07598cfa",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İstanbul için yeni yağış uyarısı: Can kaybı 3'e yükseldi, 5 kişi kayıp",
-   "ozet": "İstanbul Valisi Davut Gül, 14 Ekim'de şiddetlenen yağışlarda üç kişinin hayatını kaybettiğini, beş kişi için de kayıp başvurusu yapıldığını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o",
-   "zaman": "2026-10-16T00:22:18+03:00",
-   "kelimeler": [
-    "can",
-    "istan",
-    "kaybi",
-    "kayip",
-    "kisi",
-    "uyari",
-    "yagis",
-    "yeni",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d8d4ae9e8408": {
    "id": "d8d4ae9e8408",
    "kaynak": "Hürriyet",
@@ -9389,8 +9368,17 @@
     "vefat",
     "yilin"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-19T00:31:02.263670+03:00",
+   "ig_id": "18115728023117280",
+   "reels_id": "18081881189403588",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1769735070968362",
+   "slayt": 5,
+   "kanca": "MİLLİ TEKNOLOJİNİN ÖNCÜSÜ"
   },
   "fd8bd94eac05": {
    "id": "fd8bd94eac05",
@@ -9737,7 +9725,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "fdf873918dbf": {
    "id": "fdf873918dbf",
@@ -9896,9 +9887,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3a6b07598cfa": {
+   "id": "3a6b07598cfa",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İstanbul'da sel: Kayıp iki kişinin daha cenazesine ulaşıldı",
+   "ozet": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha naaşına ulaşıldı, iki kişi hala aranıyor. Pendik'te kaybolan iki kişiden birinin de cenazesine ulaşıldı. Böylelikle selde hayatını kaybedenlerin sayısı altıya yükseldi",
+   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o",
+   "zaman": "2026-10-18T20:24:02+03:00",
+   "kelimeler": [
+    "cenaz",
+    "iki",
+    "istan",
+    "kayip",
+    "kisin",
+    "sel",
+    "ulasi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f4594ea2f88": {
+   "id": "3f4594ea2f88",
+   "kaynak": "Hürriyet",
+   "baslik": "Pilav günü etkinliği kâbusa döndü! 100 kişi hastanelik oldu",
+   "ozet": "Bursa’nın İnegöl ilçesinde düzenlenen geleneksel pilav günü etkinliğinde ikram edilen tavuklu pilavı yiyen yaklaşık 100 kişi, mide bulantısı ve kusma şikâyetleriyle hastaneye başvurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/pilav-gunu-etkinligi-kabusa-dondu-100-kisi-hastanelik-oldu-43346628",
+   "zaman": "2026-10-19T00:09:35+03:00",
+   "kelimeler": [
+    "100",
+    "dondu",
+    "etkin",
+    "gunu",
+    "hasta",
+    "kabus",
+    "kisi",
+    "pilav"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b74bbc90b396": {
+   "id": "b74bbc90b396",
+   "kaynak": "TRT Haber",
+   "baslik": "Trabzon'daki silahlı saldırının şüphelileri İstanbul'da yakalandı",
+   "ozet": "Trabzon'da yaşanan silahlı saldırıyla ilişkili 2 şüpheli, İstanbul'da yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/trabzondaki-silahli-saldirinin-suphelileri-istanbulda-yakalandi-960484.html",
+   "zaman": "2026-10-19T00:20:00+03:00",
+   "kelimeler": [
+    "daki",
+    "istan",
+    "saldi",
+    "silah",
+    "suphe",
+    "trabz",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2384a3aacd7c"
   }
  },
  "kayit": [
+  "19.10 00:31:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İçişleri Bakanı Çiftçi vefatının 5. yılında Özdemir Bayraktar'ı andı",
+  "19.10 00:28:51  2 yeni haber",
   "19.10 00:15:52  2 yeni haber",
   "19.10 00:15:52  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
   "19.10 00:04:31  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Sözcü · Yeni Parti İzmir İl Başkanlığı ön seçimini Çağatay Güç kazandı",
@@ -10096,9 +10148,7 @@
   "16.10 18:29:56  Paylaşıldı (otomatik, tek kart): Hürriyet · Kubilay Kaan Kundakçı cinayeti davasında karar verildi",
   "16.10 18:29:40  5 yeni haber",
   "16.10 17:28:12  [DENEME] Paylaşıldı (otomatik, tek kart): Hürriyet · Bilal Erdoğan: Büyük hedefleri için emek vermeye istekli gençlere ihti",
-  "16.10 17:28:11  63 yeni haber",
-  "16.10 02:41:34  [DENEME] Paylaşıldı (elle): Sözcü · Erdoğan imzaladı: 13 bakanlık ve kurumda görev değişimi!",
-  "16.10 02:38:59  78 yeni haber"
+  "16.10 17:28:11  63 yeni haber"
  ],
  "otomatik": false
 }
