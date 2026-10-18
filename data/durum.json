@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "67a75c503dac": {
-   "id": "67a75c503dac",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İmamoğlu hakkında savunmasındaki ifadeler nedeniyle soruşturma açıldı",
-   "ozet": "Bakırköy Cumhuriyet Başsavcılığı, İmamoğlu hakkında ikinci gününde devam eden savunmasında söylediği sözler sebebiyle soruşturma başlattı.",
-   "link": "https://www.bbc.com/turkce/articles/cmz98y48937qo",
-   "zaman": "2026-10-15T18:58:59+03:00",
-   "kelimeler": [
-    "acild",
-    "hakki",
-    "ifade",
-    "imamo",
-    "neden",
-    "savun",
-    "sorus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a5f5c9e3b65c": {
    "id": "a5f5c9e3b65c",
    "kaynak": "Sözcü",
@@ -1905,7 +1886,10 @@
     "yazar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7c5aba98b962": {
    "id": "7c5aba98b962",
@@ -2058,7 +2042,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9d7e55e7bfa2": {
    "id": "9d7e55e7bfa2",
@@ -4002,7 +3989,10 @@
     "yuzer"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "a4f2fc9786b6": {
    "id": "a4f2fc9786b6",
@@ -4735,7 +4725,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7f66b4239e4a": {
    "id": "7f66b4239e4a",
@@ -4794,7 +4786,10 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "AA"
+   ]
   },
   "21df67c47114": {
    "id": "21df67c47114",
@@ -4820,7 +4815,10 @@
    "reels_id": "18146804401545235",
    "story_id": "18434955715145350",
    "slayt": 6,
-   "kanca": "HEDEFİ TAM İSABET"
+   "kanca": "HEDEFİ TAM İSABET",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2f6f04f835f8": {
    "id": "2f6f04f835f8",
@@ -4859,7 +4857,10 @@
     "tpp"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "893647a7f5f9": {
    "id": "893647a7f5f9",
@@ -5468,7 +5469,11 @@
     "veril"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ]
   },
   "2f01cb58e91c": {
    "id": "2f01cb58e91c",
@@ -6025,7 +6030,10 @@
     "tasti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "44510fa7bc9a": {
    "id": "44510fa7bc9a",
@@ -6048,7 +6056,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7bdf62301626": {
    "id": "7bdf62301626",
@@ -6092,7 +6103,10 @@
     "metre"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ee59573ee470": {
    "id": "ee59573ee470",
@@ -6262,7 +6276,11 @@
    "fb_id": "1276642895542042_122103818385472027",
    "fb_reels_id": "1122233986890794",
    "slayt": 6,
-   "kanca": "10 YILLIK FİRAR SONU"
+   "kanca": "10 YILLIK FİRAR SONU",
+   "diger_kaynaklar": [
+    "NTV",
+    "TRT Haber"
+   ]
   },
   "eb65be2ed35a": {
    "id": "eb65be2ed35a",
@@ -6471,7 +6489,10 @@
    "fb_id": "1276642895542042_122103878925472027",
    "fb_reels_id": "2492139204642103",
    "slayt": 6,
-   "kanca": "SANAT DÜNYASI YASTA"
+   "kanca": "SANAT DÜNYASI YASTA",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7599d6e645a5": {
    "id": "7599d6e645a5",
@@ -6660,7 +6681,10 @@
     "ulast"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f1f6d30643e1": {
    "id": "f1f6d30643e1",
@@ -6752,7 +6776,10 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "642f7ce12668": {
    "id": "642f7ce12668",
@@ -6773,7 +6800,9 @@
    "durum": "paylasildi",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "TRT Haber",
+    "NTV"
    ],
    "paylasildi": "2026-10-18T14:34:38.856086+03:00",
    "ig_id": "18198213340376901",
@@ -7067,7 +7096,10 @@
     "ozdem"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "b90482cae65b": {
    "id": "b90482cae65b",
@@ -7320,10 +7352,2046 @@
     "topla"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "Hürriyet",
+    "NTV"
+   ]
+  },
+  "3e1513086cb8": {
+   "id": "3e1513086cb8",
+   "kaynak": "TRT Haber",
+   "baslik": "Yazar Cevat Özkaya son yolculuğuna uğurlandı",
+   "ozet": "Kolon kanseri nedeniyle 72 yaşında hayatını kaybeden Pınar Yayınları'nın kurucularından ve Genel Yayın Yönetmeni, yazar Cevat Özkaya İstanbul'da son yolculuğuna uğurlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/yazar-cevat-ozkaya-son-yolculuguna-ugurlandi-960434.html",
+   "zaman": "2026-10-17T16:15:00+03:00",
+   "kelimeler": [
+    "cevat",
+    "ozkay",
+    "ugurl",
+    "yazar",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d60d8425c52"
+  },
+  "1bc673f05840": {
+   "id": "1bc673f05840",
+   "kaynak": "TRT Haber",
+   "baslik": "Sapanca'da sağanak: Yollar çöktü, köprüler yıkıldı",
+   "ozet": "Sakarya'da etkili olan sağanak nedeniyle turistik ilçe Sapanca'da bazı yollar kısmen çöktü, köprüler yıkıldı ve bungalovlar zarar gördü.",
+   "link": "https://www.trthaber.com/haber/turkiye/sapancada-saganak-yollar-coktu-kopruler-yikildi-960426.html",
+   "zaman": "2026-10-17T17:46:00+03:00",
+   "kelimeler": [
+    "coktu",
+    "kopru",
+    "sagan",
+    "sapan",
+    "yikil",
+    "yolla"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "e432500d3aec": {
+   "id": "e432500d3aec",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri Bakanı Fidan Irak'ta temaslarda bulundu",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Bağdat'ta Irak Temsilciler Meclisi Başkanı Heybet Halbusi ve Haşdi Şabi Komisyonu Başkanı Falih Fayyad'ın yanı sıra Irak Devlet Bakanı ve Irak Türkmen Cephesi Başkanı Mehmet Seman Ağaoğlu ile görüştü.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-irakta-temaslarda-bulundu-960427.html",
+   "zaman": "2026-10-17T18:17:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "bulun",
+    "disis",
+    "fidan",
+    "irak",
+    "ta",
+    "temas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7363e8710243": {
+   "id": "7363e8710243",
+   "kaynak": "TRT Haber",
+   "baslik": "Savunma ve havacılık sanayii 2026'da 15 milyar dolarlık yeni iş aldı",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, 2026 içinde sektördeki firmalarla 15 milyar dolarlık yeni sözleşme imzaladığını, yıl sonuna kadar bu rakamın 20 milyar dolara ulaşmasını öngördüklerini açıkladı.",
+   "link": "https://www.trthaber.com/haber/savunma/savunma-ve-havacilik-sanayii-2026da-15-milyar-dolarlik-yeni-is-aldi-960428.html",
+   "zaman": "2026-10-17T18:37:00+03:00",
+   "kelimeler": [
+    "15",
+    "2026",
+    "aldi",
+    "dolar",
+    "havac",
+    "is",
+    "milya",
+    "sanay",
+    "savun",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d3fcc0f57f88": {
+   "id": "d3fcc0f57f88",
+   "kaynak": "TRT Haber",
+   "baslik": "MHP Genel Başkanı Bahçeli Azerbaycan'ın bağımsızlık gününü kutladı",
+   "ozet": "Milliyetçi Hareket Partisi MHP Genel Başkanı Devlet Bahçeli, \"Azerbaycan ve Türkiye hangi konuda olursa olsun birbirinden ayrılmaz bir bütündür.\" ifadesini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceli-azerbaycanin-bagimsizlik-gununu-kutladi-960429.html",
+   "zaman": "2026-10-17T19:03:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "bagim",
+    "bahce",
+    "baska",
+    "genel",
+    "gunun",
+    "in",
+    "kutla",
+    "mhp"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b695c40d48be": {
+   "id": "b695c40d48be",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Cevat Özkaya için taziye mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yaşantısıyla, karakteriyle, çalışmalarıyla düşünce dünyamızda önemli izler bırakan Pınar Yayınları editörü Cevat Özkaya Beyefendiye Allahtan rahmet niyaz ediyor; ailesine, yakınlarına ve dostlarına başsağlığı dileklerimi iletiyorum\" mesajını…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cevat-ozkaya-icin-taziye-mesaji-960430.html",
+   "zaman": "2026-10-17T19:13:00+03:00",
+   "kelimeler": [
+    "cevat",
+    "cumhu",
+    "dan",
+    "erdog",
+    "mesaj",
+    "ozkay",
+    "taziy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cbb4aa83c068"
+  },
+  "caf1dae9dec7": {
+   "id": "caf1dae9dec7",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul Valisi Gül: Ayazağa Meydanı'ndaki yıkımlar yarın tamamlanacak",
+   "ozet": "İstanbul Valisi Davut Gül, Ayazağa Meydanı'ndaki 16 dükkan, spor sahası, tribünler, Kur'an kursu ve yanındaki lojmanların bu gece ve yarın gündüz olmak üzere tamamının yıkımının tamamlanacağını açıkladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gul-ayazaga-meydanindaki-yikimlar-yarin-tamamlanacak-960431.html",
+   "zaman": "2026-10-17T19:24:00+03:00",
+   "kelimeler": [
+    "ayaza",
+    "gul",
+    "istan",
+    "meyda",
+    "ndaki",
+    "tamam",
+    "valis",
+    "yarin",
+    "yikim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "511015281f42": {
+   "id": "511015281f42",
+   "kaynak": "TRT Haber",
+   "baslik": "'İmamoğlu çıkar amaçlı suç örgütü' davasında ara karar",
+   "ozet": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 436 sanığın yargılandığı davanın 101. duruşmasında 7 sanığın tahliyesine karar verildi. Duruşma, 2 Kasım Pazartesi gününe ertelendi.",
+   "link": "https://www.trthaber.com/haber/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-ara-karar-960432.html",
+   "zaman": "2026-10-17T19:31:00+03:00",
+   "kelimeler": [
+    "amacl",
+    "ara",
+    "cikar",
+    "davas",
+    "imamo",
+    "karar",
+    "orgut",
+    "suc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "10b1c0efcdfe": {
+   "id": "10b1c0efcdfe",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: 10 ilde turuncu, 26 ilde sarı kodlu uyarı var",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-kodlu-uyari-var-960433.html",
+   "zaman": "2026-10-17T20:06:00+03:00",
+   "kelimeler": [
+    "10",
+    "26",
+    "bakan",
+    "ilde",
+    "kodlu",
+    "kurum",
+    "sari",
+    "turun",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d0e488200288"
+  },
+  "100498fa0932": {
+   "id": "100498fa0932",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da bazı yollar yarın trafiğe kapatılacak",
+   "ozet": "İstanbul'da düzenlenecek etkinlik kapsamında yarın bazı yolların trafiğe kapatılacağı duyuruldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-yarin-trafige-kapatilacak-960435.html",
+   "zaman": "2026-10-17T20:37:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "istan",
+    "kapat",
+    "trafi",
+    "yarin",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "98c8097b8837": {
+   "id": "98c8097b8837",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan: Irak Türkmen Cephesi'nden bir bakan çıkması önemliydi",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Irak Başbakanı Ali ezZeydi ile bir araya geldiğini belirterek, \"Başbakan Zeydi'nin Türkiye ile ilişkileri ileri taşımada çok ciddi bir vizyonu var\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-irak-turkmen-cephesinden-bir-bakan-cikmasi-onemliydi-960436.html",
+   "zaman": "2026-10-17T20:40:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "cephe",
+    "cikma",
+    "fidan",
+    "irak",
+    "nden",
+    "oneml",
+    "turkm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a5e9959ce15": {
+   "id": "2a5e9959ce15",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan vefatının 8. yılında Ara Güler'i andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, duayen foto muhabiri Ara Güler'i vefatının 8'inci yılında yad etti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-vefatinin-8-yilinda-ara-guleri-andi-960437.html",
+   "zaman": "2026-10-17T20:51:00+03:00",
+   "kelimeler": [
+    "andi",
+    "ara",
+    "cumhu",
+    "erdog",
+    "guler",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "551e33fd3350"
+  },
+  "1be39acad5d0": {
+   "id": "1be39acad5d0",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, uluslararası keskin nişancı yarışmasında birinci oldu",
+   "ozet": "Türkiye, 20 ülkeden 96 personelin katıldığı 8. BORAN Uluslararası Keskin Nişancı Yarışması'nda birincilik elde etti. Polis Özel Harekat Başkanlığı takımı birinci, Özel Kuvvetler Komutanlığı takımı ikinci, Kara Kuvvetleri Komutanlığı takımı ise üçüncü oldu.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-uluslararasi-keskin-nisanci-yarismasinda-birinci-oldu-960438.html",
+   "zaman": "2026-10-17T20:55:00+03:00",
+   "kelimeler": [
+    "birin",
+    "keski",
+    "nisan",
+    "turki",
+    "ulusl",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "21df67c47114"
+  },
+  "090c78a99f21": {
+   "id": "090c78a99f21",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da selden etkilenen esnafa 80 milyon lira nakdi destek",
+   "ozet": "Ticaret Bakanı Ömer Bolat, İstanbul'da meydana gelen yağışlara dikkati çekerek, \"Sel felaketinden etkilenen esnafımızın, acil ihtiyaçlarının karşılanması amacıyla 80 milyon lira nakdi destek sağlanacaktır\" ifadesini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-selden-etkilenen-esnafa-80-milyon-lira-nakdi-destek-960439.html",
+   "zaman": "2026-10-17T23:00:00+03:00",
+   "kelimeler": [
+    "80",
+    "deste",
+    "esnaf",
+    "etkil",
+    "istan",
+    "lira",
+    "milyo",
+    "nakdi",
+    "selde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0c23cc441ded"
+  },
+  "cb39ccb9dc73": {
+   "id": "cb39ccb9dc73",
+   "kaynak": "NTV",
+   "baslik": "Bakan Bolat duyurdu. Selden etkilenen esnafa destek",
+   "ozet": "Ticaret Bakanı Ömer Bolat,, İstanbul'daki sel felaketinden etkilenen esnaflara 80 milyon lira nakdi destek sağlanacağını duyurdu.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-bolat-duyurdu-selden-etkilenen-esnafa-destek-1746778",
+   "zaman": "2026-10-18T00:13:35+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolat",
+    "deste",
+    "duyur",
+    "esnaf",
+    "etkil",
+    "selde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0c23cc441ded"
+  },
+  "6e071ab07701": {
+   "id": "6e071ab07701",
+   "kaynak": "NTV",
+   "baslik": "Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama",
+   "ozet": "Takasbank, Takasbank Para Piyasası (TPP) aracılığıyla belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddialara ilişkin açıklama yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/takasbanktan-tpp-ve-tefas-iddialarina-iliskin-aciklama-1746780",
+   "zaman": "2026-10-18T00:33:24+03:00",
+   "kelimeler": [
+    "acikl",
+    "iddia",
+    "ilisk",
+    "takas",
+    "tan",
+    "tefas",
+    "tpp"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c755607f91b"
+  },
+  "6154f52fd229": {
+   "id": "6154f52fd229",
+   "kaynak": "TRT Haber",
+   "baslik": "Manisaya mevsimin ilk karı düştü",
+   "ozet": "Manisanın Alaşehir ilçesinde mevsimin ilk karı yağdı. Horzum Alakaya Mahallesinin yaylalar mevkiinde saat 16.00 sıralarında başlayan kar yağışı, yüksek kesimleri beyaza bürüdü.",
+   "link": "https://www.trthaber.com/haber/turkiye/manisaya-mevsimin-ilk-kari-dustu-960440.html",
+   "zaman": "2026-10-18T01:48:00+03:00",
+   "kelimeler": [
+    "dustu",
+    "ilk",
+    "kari",
+    "manis",
+    "mevsi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "83d4c33f2cbe": {
+   "id": "83d4c33f2cbe",
+   "kaynak": "NTV",
+   "baslik": "Kocaeli’de Namazgah Barajı bölgesinde tahliye kararı",
+   "ozet": "Kocaeli’de sağanak yağmur nedeniyle Namazgah Barajı’ndan Sarısu Deresi’nin denizle buluştuğu noktaya kadar olan bölgedeki vatandaşların su baskını riski nedeniyle evlerini tahliye etmeleri istendi.",
+   "link": "https://www.ntv.com.tr/turkiye/kocaelide-namazgah-baraji-bolgesinde-tahliye-karari-1746781",
+   "zaman": "2026-10-18T02:15:59+03:00",
+   "kelimeler": [
+    "baraj",
+    "bolge",
+    "karar",
+    "kocae",
+    "namaz",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "71fc2a8dd2cd": {
+   "id": "71fc2a8dd2cd",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da sağanak: Suya kapılan araçtaki 2 kişi kayıp",
+   "ozet": "İstanbul'da aralıklarla devam eden sağanak Anadolu Yakası'nda hayatı etkiledi. Pendik'te sel sularına kapılan 2 kişinin bulunması için çalışma başlatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-saganak-suya-kapilan-aractaki-2-kisi-kayip-960441.html",
+   "zaman": "2026-10-18T07:44:00+03:00",
+   "kelimeler": [
+    "aract",
+    "istan",
+    "kapil",
+    "kayip",
+    "kisi",
+    "sagan",
+    "suya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3f486ec04ee5"
+  },
+  "a5de56067fb1": {
+   "id": "a5de56067fb1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bursa'da taşan dere nedeniyle yol ulaşıma kapandı",
+   "ozet": "Bursa'nın İnegöl ilçesinde aşırı yağışın yol açtığı dere taşması nedeniyle yol ulaşıma kapandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bursada-tasan-dere-nedeniyle-yol-ulasima-kapandi-960442.html",
+   "zaman": "2026-10-18T07:55:00+03:00",
+   "kelimeler": [
+    "bursa",
+    "dere",
+    "kapan",
+    "neden",
+    "tasan",
+    "ulasi",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "082f761c2893": {
+   "id": "082f761c2893",
+   "kaynak": "TRT Haber",
+   "baslik": "18 il için 'sarı' ve 'turuncu' kodlu uyarı",
+   "ozet": "Yağışlı hava ve fırtına nedeniyle 18 il için sarı ve turuncu kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli ve dikkatli olması istendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-ve-turuncu-kodlu-uyari-960443.html",
+   "zaman": "2026-10-18T08:10:00+03:00",
+   "kelimeler": [
+    "18",
+    "il",
+    "kodlu",
+    "sari",
+    "turun",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "44510fa7bc9a"
+  },
+  "fdb9210ef281": {
+   "id": "fdb9210ef281",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da toprak kayması nedeniyle 9 katlı bina tahliye edildi",
+   "ozet": "İstanbul Pendik'te 9 katlı binanın önünde bulunan inşaat alanında toprak kayması meydana geldi. Sitenin bahçesinin bitişiğindeki bölümün de etkilendiği toprak kayması nedeniyle apartman sakinleri binadan tahliye edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-toprak-kaymasi-nedeniyle-9-katli-bina-tahliye-edildi-960444.html",
+   "zaman": "2026-10-18T08:46:00+03:00",
+   "kelimeler": [
+    "bina",
+    "edild",
+    "istan",
+    "katli",
+    "kayma",
+    "neden",
+    "tahli",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79e7a3efdb46": {
+   "id": "79e7a3efdb46",
+   "kaynak": "TRT Haber",
+   "baslik": "Amasra'da fırtına: Dalga boyu 6 metreye ulaştı",
+   "ozet": "Bartın'ın Amasra ilçesinde etkili olan fırtına nedeniyle denizde dalga boyu 6 metreye ulaştı. Fırtına nedeniyle balıkçı tekneleri denize açılmayıp, limana demirledi.",
+   "link": "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html",
+   "zaman": "2026-10-18T08:59:00+03:00",
+   "kelimeler": [
+    "amasr",
+    "boyu",
+    "dalga",
+    "firti",
+    "metre",
+    "ulast"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "622019e8b21e"
+  },
+  "799fe5a34261": {
+   "id": "799fe5a34261",
+   "kaynak": "TRT Haber",
+   "baslik": "Milli SİHA'ların öncü ismi: Özdemir Bayraktar",
+   "ozet": "Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar, vefatının beşinci yılında anılıyor.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/milli-sihalarin-oncu-ismi-ozdemir-bayraktar-960446.html",
+   "zaman": "2026-10-18T09:06:00+03:00",
+   "kelimeler": [
+    "bayra",
+    "ismi",
+    "larin",
+    "milli",
+    "oncu",
+    "ozdem",
+    "siha"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6868f3d53d4d": {
+   "id": "6868f3d53d4d",
+   "kaynak": "NTV",
+   "baslik": "Firari üç FETÖ'cü İstanbul'da yakalandı",
+   "ozet": "Haklarında arama kaydı bulunan Fetullahçı Terör Örgütü (FETÖ) üyesi üç firari şüpheli, İstanbul'da düzenlenen eş zamanlı operasyonlarla yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/firari-uc-fetocu-istanbulda-yakalandi-1746798",
+   "zaman": "2026-10-18T09:19:26+03:00",
+   "kelimeler": [
+    "cu",
+    "feto",
+    "firar",
+    "istan",
+    "uc",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3da4d75c2195"
+  },
+  "1024f6938e8a": {
+   "id": "1024f6938e8a",
+   "kaynak": "TRT Haber",
+   "baslik": "Firari 3 FETÖ'cü yakalandı",
+   "ozet": "İstanbul polisi, haklarında arama kaydı bulunan FETÖ üyesi 3 firari şüpheliyi eş zamanlı operasyonlarla yakaladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/firari-3-fetocu-yakalandi-960447.html",
+   "zaman": "2026-10-18T09:30:00+03:00",
+   "kelimeler": [
+    "cu",
+    "feto",
+    "firar",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3da4d75c2195"
+  },
+  "8c2fa9cc587a": {
+   "id": "8c2fa9cc587a",
+   "kaynak": "TRT Haber",
+   "baslik": "Sosyal medyada mevzuata aykırı ilan paylaşan işletmelere 15,2 milyon ceza",
+   "ozet": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan veren toplam 152 emlak ve galeri işletmesine bugüne kadar 15,2 milyon lira idari para cezası uygulandığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html",
+   "zaman": "2026-10-18T09:36:00+03:00",
+   "kelimeler": [
+    "15",
+    "aykir",
+    "ceza",
+    "ilan",
+    "islet",
+    "medya",
+    "mevzu",
+    "milyo",
+    "payla",
+    "sosya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d6202d6c23db": {
+   "id": "d6202d6c23db",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de bir aracın futbol sahasındakilere çarpması sonucu 2 kişi öldü, 11 kişi yaralandı",
+   "ozet": "ABD'nin Kansas eyaletindeki Wichita kentinde bir aracın futbol sahasındakilere çarpması sonucu biri 6 yaşındaki çocuk olmak üzere 2 kişi hayatını kaybetti, 11 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-bir-aracin-futbol-sahasindakilere-carpmasi-sonucu-2-kisi-oldu-11-kisi-yaralandi-960449.html",
+   "zaman": "2026-10-18T09:57:00+03:00",
+   "kelimeler": [
+    "11",
+    "abd",
+    "araci",
+    "carpm",
+    "futbo",
+    "kisi",
+    "sahas",
+    "sonuc",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "952633ce70c1": {
+   "id": "952633ce70c1",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da barajların doluluk oranı yüzde 50'yi geçti",
+   "ozet": "İstanbul'a su sağlayan barajlardaki ortalama doluluk oranı, son günlerde rekor miktarda görülen sağanak yağmur etkisiyle 4 günde 14,37 puan artarak yüzde 52,43 seviyesine yükseldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html",
+   "zaman": "2026-10-18T10:43:00+03:00",
+   "kelimeler": [
+    "50",
+    "baraj",
+    "dolul",
+    "gecti",
+    "istan",
+    "orani",
+    "yi",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "2316f8e5c2e4": {
+   "id": "2316f8e5c2e4",
+   "kaynak": "TRT Haber",
+   "baslik": "Sanatçı Süleyman Saim Tekcan vefat etti",
+   "ozet": "2022'de Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü'ne layık görülen ressam, sinema oyuncusu ve baskı sanatçısı Süleyman Saim Tekcan, 86 yaşında hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
+   "zaman": "2026-10-18T10:53:00+03:00",
+   "kelimeler": [
+    "etti",
+    "saim",
+    "sanat",
+    "suley",
+    "tekca",
+    "vefat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b40b6efd1aea"
+  },
+  "d8e81d2fc009": {
+   "id": "d8e81d2fc009",
+   "kaynak": "TRT Haber",
+   "baslik": "Gelecek yılın bütçesine pay gelirlerinden 778,9 milyar lira katkı sağlanacak",
+   "ozet": "Devlet yeni yılda kişi ve kurumlardan alınan paylardan 778 milyar 937 milyon 447 bin lira gelir elde etmeyi hedefliyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-7789-milyar-lira-katki-saglanacak-960452.html",
+   "zaman": "2026-10-18T11:01:00+03:00",
+   "kelimeler": [
+    "778",
+    "butce",
+    "gelec",
+    "gelir",
+    "katki",
+    "lira",
+    "milya",
+    "pay",
+    "sagla",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cc3da812c9cd": {
+   "id": "cc3da812c9cd",
+   "kaynak": "TRT Haber",
+   "baslik": "Meclis'te bütçe maratonu başlıyor",
+   "ozet": "Türkiye Büyük Millet Meclisi'nin gündemi bu hafta da bir hayli yoğun olacak. Bütçe maratonu Cumhurbaşkanı Yardımcısı Yılmaz'ın çarşamba günü Plan ve Bütçe Komisyonunda yapacağı sunumla başlayacak.",
+   "link": "https://www.trthaber.com/haber/gundem/mecliste-butce-maratonu-basliyor-960453.html",
+   "zaman": "2026-10-18T11:06:00+03:00",
+   "kelimeler": [
+    "basli",
+    "butce",
+    "marat",
+    "mecli",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0c23a61088ff": {
+   "id": "0c23a61088ff",
+   "kaynak": "TRT Haber",
+   "baslik": "Emniyet ve jandarma ekipleri geçmiş yıllara ait 60 cinayeti aydınlattı",
+   "ozet": "Emniyet ve jandarma ekiplerinin çalışmalarıyla bu sene geçmiş yıllara ait 60 cinayet aydınlatıldı. İçişleri Bakanı Mustafa Çiftçi, \"Cinayet işleyip izini kaybettirdiğini, aradan zaman geçtiği için artık bulunamayacağını düşünenler büyük bir yanılgı içerisinde\" mesajını paylaştı.",
+   "link": "https://www.trthaber.com/haber/turkiye/emniyet-ve-jandarma-ekipleri-gecmis-yillara-ait-60-cinayeti-aydinlatti-960454.html",
+   "zaman": "2026-10-18T11:08:00+03:00",
+   "kelimeler": [
+    "60",
+    "ait",
+    "aydin",
+    "cinay",
+    "ekipl",
+    "emniy",
+    "gecmi",
+    "janda",
+    "yilla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c3bd511ebe0f": {
+   "id": "c3bd511ebe0f",
+   "kaynak": "AA",
+   "baslik": "\"Atatürk\" adının verildiği ilk lise, 141 yıldır eğitim meşalesini taşıyor",
+   "ozet": "\"Ankara İdadisi\" adıyla 1886'da kurulan Ankara Atatürk Lisesi, Osmanlı'dan Cumhuriyet'e uzanan köklü geçmişiyle Türkiye'nin eğitim ve kültür hafızasını geleceğe taşımaya devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/-ataturk-adinin-verildigi-ilk-lise-141-yildir-egitim-mesalesini-tasiyor/4092440",
+   "zaman": "2026-10-18T11:09:21+03:00",
+   "kelimeler": [
+    "141",
+    "adini",
+    "atatu",
+    "egiti",
+    "ilk",
+    "lise",
+    "mesal",
+    "tasiy",
+    "veril",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7a5f271afec0": {
+   "id": "7a5f271afec0",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump'tan İran mesajı: Orada biraz daha uzun kalabiliriz",
+   "ozet": "ABD Başkanı Donald Trump, İran'a yönelik saldırılarda bu ülkenin nükleer kapasitelerini ortadan kaldırdıklarını savunarak, \"Orada biraz daha uzun kalabiliriz.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/trumptan-iran-mesaji-orada-biraz-daha-uzun-kalabiliriz-960457.html",
+   "zaman": "2026-10-18T11:10:00+03:00",
+   "kelimeler": [
+    "biraz",
+    "iran",
+    "kalab",
+    "mesaj",
+    "orada",
+    "tan",
+    "trump",
+    "uzun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c6d2a704fce6": {
+   "id": "c6d2a704fce6",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin ticari araç ihracatı 5 milyar doları aştı",
+   "ozet": "Türkiye'nin hafif ticari araç, kamyonet ve kamyon grubunu kapsayan 'eşya taşımaya mahsus motorlu taşıtlar' ihracatı, ocakeylül döneminde 5 milyar 185 milyon 578 bin dolar oldu. Hafif ticari araç, kamyonet ve kamyon ihracatında en çok dış satım Birleşik Krallık'a yapıldı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ticari-arac-ihracati-5-milyar-dolari-asti-960455.html",
+   "zaman": "2026-10-18T11:12:00+03:00",
+   "kelimeler": [
+    "arac",
+    "asti",
+    "dolar",
+    "ihrac",
+    "milya",
+    "nin",
+    "ticar",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "88068dce8bc3": {
+   "id": "88068dce8bc3",
+   "kaynak": "TRT Haber",
+   "baslik": "Gelecek yıl ulaştırma programlarına 1 trilyon liranın üzerinde ödenek ayrıldı",
+   "ozet": "Türkiye, gelecek yıl demir yolu ulaşımı, kara yolu ulaşımı, bilgi ve iletişim, deniz yolu ulaşımı ile kombine taşımacılık, lojistik ve tehlikeli mal taşımacılığı programları için 1 trilyon lirayı aşkın harcama yapmayı öngörüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html",
+   "zaman": "2026-10-18T11:48:00+03:00",
+   "kelimeler": [
+    "ayril",
+    "gelec",
+    "liran",
+    "odene",
+    "progr",
+    "trily",
+    "ulast",
+    "uzeri",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9d708c5b49b4": {
+   "id": "9d708c5b49b4",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Suudi Arabistan'da keşif helikopterinin düşmesi sonucu 2 asker öldü",
+   "ozet": "Suudi Arabistan liderliğindeki Arap Koalisyonu, ülkenin Necran bölgesinde teknik arıza nedeniyle keşif helikopterinin düşmesi sonucu 2 subayın hayatını kaybettiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanda-kesif-helikopterinin-dusmesi-sonucu-2-asker-oldu-960458.html",
+   "zaman": "2026-10-18T11:58:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "asker",
+    "dusme",
+    "helik",
+    "kesif",
+    "koali",
+    "sonuc",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d5f5c9aa37cd": {
+   "id": "d5f5c9aa37cd",
+   "kaynak": "NTV",
+   "baslik": "Meclis'te yeni haftada gündem yoğun. Fon teklifi Genel Kurul'a geliyor",
+   "ozet": "Meclis'te yeni haftada kritik bir düzenleme gündemde olacak. Tasfiyesine karar verilen fonlara ilişkin kanun teklifi Genel Kurul'da görüşülecek.",
+   "link": "https://www.ntv.com.tr/turkiye/mecliste-yeni-haftada-gundem-yogun-fon-teklifi-genel-kurula-geliyor-1746827",
+   "zaman": "2026-10-18T12:03:10+03:00",
+   "kelimeler": [
+    "fon",
+    "geliy",
+    "genel",
+    "gunde",
+    "hafta",
+    "kurul",
+    "mecli",
+    "te",
+    "tekli",
+    "yeni",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f595fc5ff997": {
+   "id": "f595fc5ff997",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul Valisi Gül: Derenin ıslahıyla ilgili çalışmalar başladı",
+   "ozet": "İstanbul Valisi Davut Gül, yıkım çalışmalarının sürdüğünü belirterek, \"Orman tarafından başlayarak derenin ıslahıyla ilgili içerisindeki ağaçların ve buna benzer daralmaların genişletilmesiyle ilgili de çalışmalar başladı.",
+   "link": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gul-derenin-islahiyla-ilgili-calismalar-basladi-960459.html",
+   "zaman": "2026-10-18T12:09:00+03:00",
+   "kelimeler": [
+    "basla",
+    "calis",
+    "deren",
+    "gul",
+    "ilgil",
+    "islah",
+    "istan",
+    "valis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "35f9ab2a72a2": {
+   "id": "35f9ab2a72a2",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya'da yoğun İHA saldırılarında petrol terminali ve veri merkezi hedef alındı",
+   "ozet": "Rus yetkililer, Ukrayna'nın St. Petersburg kenti ile Leningrad bölgesine yoğun insansız hava aracı İHA saldırıları düzenlediğini, saldırılarda petrol terminali ile teknoloji şirketi VK'ye ait veri merkezinin hedef alındığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusyada-yogun-iha-saldirilarinda-petrol-terminali-ve-veri-merkezi-hedef-alindi-960460.html",
+   "zaman": "2026-10-18T12:10:00+03:00",
+   "kelimeler": [
+    "alind",
+    "hedef",
+    "iha",
+    "merke",
+    "petro",
+    "rusya",
+    "saldi",
+    "termi",
+    "veri",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a24e6e666591": {
+   "id": "a24e6e666591",
+   "kaynak": "NTV",
+   "baslik": "Şarkıcı İlyas Yalçıntaş'a uyuşturucu ticaretinden en az 10 yıl hapis istemi",
+   "ozet": "Şarkıcı İlyas Yalçıntaş hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan 10 yıldan az olmamak üzere hapis cezası istemiyle iddianame hazırlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-uyusturucu-ticaretinden-en-az-10-yil-hapis-istemi-1746820",
+   "zaman": "2026-10-18T12:15:43+03:00",
+   "kelimeler": [
+    "10",
+    "az",
+    "hapis",
+    "ilyas",
+    "istem",
+    "sarki",
+    "ticar",
+    "uyust",
+    "yalci",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22c237af4cf3": {
+   "id": "22c237af4cf3",
+   "kaynak": "TRT Haber",
+   "baslik": "YerköyKayseri YHT Hattı'nda ilerleme yüzde 50'yi aştı",
+   "ozet": "YerköyKayseri Yüksek Hızlı Tren YHT Projesi'ndeki fiziki ilerleme yüzde 50'yi aştı. Projenin tamamlanmasıyla AnkaraKayseri kesiminde demir yoluyla seyahat süresi 1 saat 45 dakikaya düşecek.",
+   "link": "https://www.trthaber.com/haber/turkiye/yerkoy-kayseri-yht-hattinda-ilerleme-yuzde-50yi-asti-960461.html",
+   "zaman": "2026-10-18T12:21:00+03:00",
+   "kelimeler": [
+    "50",
+    "asti",
+    "hatti",
+    "ilerl",
+    "nda",
+    "yerko",
+    "yht",
+    "yi",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f40e027a8898": {
+   "id": "f40e027a8898",
+   "kaynak": "TRT Haber",
+   "baslik": "Hindistan'da kamyon, kalabalığa daldı: 15 ölü",
+   "ozet": "Hindistan'ın Madya Pradeş eyaletinde, kamyonun tapınak yakınında toplanan kalabalığa çarpması sonucu 15 kişi hayatını kaybetti, 30'dan fazla kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/hindistanda-kamyon-kalabaliga-daldi-15-olu-960462.html",
+   "zaman": "2026-10-18T12:30:00+03:00",
+   "kelimeler": [
+    "15",
+    "daldi",
+    "hindi",
+    "kalab",
+    "kamyo",
+    "olu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2e037b71643c": {
+   "id": "2e037b71643c",
+   "kaynak": "NTV",
+   "baslik": "Baraj doluluk oranları yüzde 50'yi aştı. İstanbul barajları ne kadar, yüzde kaç dolu?",
+   "ozet": "Marmara Bölgesi genelinde hafta ortasından bu yana aralıksız devam eden kuvvetli sağanak yağışlar, İstanbul'un içme suyu kaynaklarına rekor düzeyde canlılık getirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-baraj-doluluk-oranlari-yuzde-50yi-asti-istanbul-barajlari-ne-kadar-yuzde-kac-dolu-1746818",
+   "zaman": "2026-10-18T12:47:07+03:00",
+   "kelimeler": [
+    "50",
+    "asti",
+    "baraj",
+    "dolu",
+    "dolul",
+    "istan",
+    "kac",
+    "oranl",
+    "yi",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "952633ce70c1"
+  },
+  "864bfeedc595": {
+   "id": "864bfeedc595",
+   "kaynak": "NTV",
+   "baslik": "Resmi Gazete'de bugün. 18 Ekim 2026 tarihli Resmi Gazete kararları neler?",
+   "ozet": "Resmi Gazete'de 18 Ekim 2026 tarihli kararlar yayımlandı. Günün gündeminde kamu kurumlarının düzenleme ve uygulama yönetmelikleri kararları da yer aldı.",
+   "link": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-18-ekim-2026-tarihli-resmi-gazete-kararlari-neler-1746792",
+   "zaman": "2026-10-18T12:47:25+03:00",
+   "kelimeler": [
+    "18",
+    "2026",
+    "bugun",
+    "ekim",
+    "gazet",
+    "karar",
+    "neler",
+    "resmi",
+    "tarih"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "3441c91b53c6": {
+   "id": "3441c91b53c6",
+   "kaynak": "TRT Haber",
+   "baslik": "Selde can kaybı 6'ya yükseldi",
+   "ozet": "İstanbul ve Kocaeli'deki selde kaybolan iki kişinin daha cesedinin bulunmasıyla afette hayatını kaybedenlerin sayısı 6'ya yükseldi.",
+   "link": "https://www.trthaber.com/haber/gundem/selde-can-kaybi-6ya-yukseldi-960463.html",
+   "zaman": "2026-10-18T13:37:00+03:00",
+   "kelimeler": [
+    "can",
+    "kaybi",
+    "selde",
+    "ya",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
+  },
+  "5627405659f5": {
+   "id": "5627405659f5",
+   "kaynak": "AA",
+   "baslik": "Uşak, Karabük ve Kastamonu'nun yüksek kesimleri karla kaplandı",
+   "ozet": "Uşak, Karabük ve Kastamonu'da etkili olan kar yağışının ardından yüksek kesimler beyaza büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/usak-karabuk-ve-kastamonunun-yuksek-kesimleri-karla-kaplandi/4092587",
+   "zaman": "2026-10-18T13:41:41+03:00",
+   "kelimeler": [
+    "kapla",
+    "karab",
+    "karla",
+    "kasta",
+    "kesim",
+    "nun",
+    "usak",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6a8302bec4fa": {
+   "id": "6a8302bec4fa",
+   "kaynak": "NTV",
+   "baslik": "2026 yılının 9 aylık sürecinde 60 cinayet dosyası aydınlatıldı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi \"Cinayet işleyip izini kaybettirdiğini, aradan zaman geçtiği için artık bulunamayacağını düşünenler büyük bir yanılgı içerisinde.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/2026-yilinin-9-aylik-surecinde-60-cinayet-dosyasi-aydinlatildi-1746848",
+   "zaman": "2026-10-18T13:41:48+03:00",
+   "kelimeler": [
+    "2026",
+    "60",
+    "aydin",
+    "aylik",
+    "cinay",
+    "dosya",
+    "surec",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d518f51097d2": {
+   "id": "d518f51097d2",
+   "kaynak": "TRT Haber",
+   "baslik": "'İyilik Var'da bir ayda gönüllü sayısı 20 bine ulaştı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı tarafından, gönüllülük faaliyetlerine katılımın artırılması ve bireylerle kurumların toplumsal dayanışmaya katkı sunmasının sağlanması amacıyla hayata geçirilen \"İyilik Var\" ile bir ayda 20 bin vatandaş gönüllülük hareketine dahil oldu.",
+   "link": "https://www.trthaber.com/haber/yasam/iyilik-varda-bir-ayda-gonullu-sayisi-20-bine-ulasti-960464.html",
+   "zaman": "2026-10-18T14:03:00+03:00",
+   "kelimeler": [
+    "20",
+    "ayda",
+    "bine",
+    "gonul",
+    "iyili",
+    "sayis",
+    "ulast"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "143b1b5939da"
+  },
+  "ec568f7dfb04": {
+   "id": "ec568f7dfb04",
+   "kaynak": "NTV",
+   "baslik": "KYK burs sonuçları sorgulama ekranı 2026: KYK burs sonuçları açıklandı mı, ne zaman açıklanacak?",
+   "ozet": "Gençlik ve Spor Bakanlığı (GSB) Kredi ve Yurtlar Genel Müdürlüğü tarafından yürütülen 2026-2027 eğitim-öğretim yılı KYK burs ve öğrenim kredisi başvuru süreci, 16 Ekim Cuma günü saat 23.59 itibarıyla resmen tamamlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-sonuclari-sorgulama-ekrani-2026-kyk-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-1746853",
+   "zaman": "2026-10-18T14:11:12+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "burs",
+    "ekran",
+    "kyk",
+    "sonuc",
+    "sorgu",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bf4a6726df87": {
+   "id": "bf4a6726df87",
+   "kaynak": "AA",
+   "baslik": "Fed'e ilişkin \"şahin\" beklentiler ve küresel büyümeye yönelik endişeler emtia piyasasını baskıladı",
+   "ozet": "Emtia piyasasında bu hafta ABD Merkez Bankasının (Fed) para politikasına ilişkin \"şahin\" beklentiler ve küresel büyümeye ilişkin endişelerle satış baskısı hakim oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-ve-kuresel-buyumeye-yonelik-endiseler-emtia-piyasasini-baskiladi/4092610",
+   "zaman": "2026-10-18T14:18:11+03:00",
+   "kelimeler": [
+    "baski",
+    "bekle",
+    "buyum",
+    "emtia",
+    "endis",
+    "fed",
+    "ilisk",
+    "kures",
+    "piyas",
+    "sahin",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b9f65093cb52": {
+   "id": "b9f65093cb52",
+   "kaynak": "AA",
+   "baslik": "Güneydoğu'nun tekstil ihracatında kumaş zirvede yer aldı",
+   "ozet": "Güneydoğu Anadolu Bölgesi'nden yılın 9 ayında gerçekleştirilen tekstil ihracatında kumaş, yüzde 5,3 artış ve 731 milyon 861 bin dolarla ilk sırada yer aldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/guneydogunun-tekstil-ihracatinda-kumas-zirvede-yer-aldi/4092613",
+   "zaman": "2026-10-18T14:27:42+03:00",
+   "kelimeler": [
+    "aldi",
+    "guney",
+    "ihrac",
+    "kumas",
+    "nun",
+    "tekst",
+    "yer",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60b3f2f40027": {
+   "id": "60b3f2f40027",
+   "kaynak": "AA",
+   "baslik": "Kuyumculardan \"ikinci baskı altın\" uyarısı",
+   "ozet": "Ankara Kuyumcular ve Saatçiler Odası Başkanı Sönmez, piyasada daha düşük fiyata satılan ve orijinalinden ayırt edilmesi zor olan ikinci baskı altınlara karşı tüketicileri dikkatli olmaları konusunda uyardı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuyumculardan-ikinci-baski-altin-uyarisi/4092614",
+   "zaman": "2026-10-18T14:30:42+03:00",
+   "kelimeler": [
+    "altin",
+    "baski",
+    "ikinc",
+    "kuyum",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f24db96d4876": {
+   "id": "f24db96d4876",
+   "kaynak": "AA",
+   "baslik": "Dünyada yeni elektrik ihtiyacının karşılanmasında temiz enerjinin rolü artıyor",
+   "ozet": "Ember'in Türkiye ve Kafkasya Bölge Lideri Alparslan, yenilenebilir enerji kaynaklarının fosil yakıtlara alternatif olmanın ötesine geçerek dünyada artan elektrik talebinin karşılanmasında daha belirleyici hale geldiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dunyada-yeni-elektrik-ihtiyacinin-karsilanmasinda-temiz-enerjinin-rolu-artiyor/4092620",
+   "zaman": "2026-10-18T14:37:53+03:00",
+   "kelimeler": [
+    "artiy",
+    "dunya",
+    "elekt",
+    "enerj",
+    "ihtiy",
+    "karsi",
+    "rolu",
+    "temiz",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2fd9de43dd5e": {
+   "id": "2fd9de43dd5e",
+   "kaynak": "NTV",
+   "baslik": "Ömer Çelik, Azerbaycan'ın bağımsızlığının yıl dönümünü kutladı",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, Azerbaycan'ın bağımsızlığını kutladığı bir mesaj yayımladı.",
+   "link": "https://www.ntv.com.tr/turkiye/omer-celik-azerbaycanin-bagimsizliginin-yil-donumunu-kutladi-1746860",
+   "zaman": "2026-10-18T14:40:15+03:00",
+   "kelimeler": [
+    "azerb",
+    "bagim",
+    "celik",
+    "donum",
+    "in",
+    "kutla",
+    "omer",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a6c10df21626": {
+   "id": "a6c10df21626",
+   "kaynak": "TRT Haber",
+   "baslik": "Belçika'nın Liege kentindeki protestolarda 45 kişi gözaltına alındı",
+   "ozet": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda şiddet olayları yaşanmasının ardından Liege polisi, 45 kişinin gözaltına alındığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/belcikanin-liege-kentindeki-protestolarda-45-kisi-gozaltina-alindi-960465.html",
+   "zaman": "2026-10-18T14:41:00+03:00",
+   "kelimeler": [
+    "45",
+    "alind",
+    "belci",
+    "gozal",
+    "kenti",
+    "kisi",
+    "liege",
+    "nin",
+    "prote"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "6a7768fdfd93": {
+   "id": "6a7768fdfd93",
+   "kaynak": "AA",
+   "baslik": "Kasımpaşa sahasından 3 puanla ayrıldı",
+   "ozet": "Kasımpaşa, Trendyol Süper Lig'in 8. haftasında konuk ettiği Samsunspor'u 4-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-sahasindan-3-puanla-ayrildi/4092624",
+   "zaman": "2026-10-18T14:46:08+03:00",
+   "kelimeler": [
+    "ayril",
+    "kasim",
+    "puanl",
+    "sahas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "99173966a10d": {
+   "id": "99173966a10d",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Azerbaycan'ın Bağımsızlık Günü'nü kutladı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın 18 Ekim Bağımsızlığın Yeniden Sağlanması Günü'nü kutladı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycanin-bagimsizlik-gununu-kutladi-960466.html",
+   "zaman": "2026-10-18T14:47:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "bagim",
+    "cumhu",
+    "erdog",
+    "gunu",
+    "in",
+    "kutla",
+    "nu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "4cf539bdac31": {
+   "id": "4cf539bdac31",
+   "kaynak": "NTV",
+   "baslik": "Yağış bitiyor, sıcaklık artıyor. İstanbul'da yeni haftada hava nasıl olacak?",
+   "ozet": "İstanbul'a felaketi getiren yağışlar bugünden itibaren bölgeyi terk ediyor. Sıcaklıklar ise yeni haftada kademeli olarak artacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yagis-bitiyor-sicaklik-artiyor-istanbulda-yeni-haftada-hava-nasil-olacak-1746814",
+   "zaman": "2026-10-18T14:49:23+03:00",
+   "kelimeler": [
+    "artiy",
+    "bitiy",
+    "hafta",
+    "hava",
+    "istan",
+    "nasil",
+    "olaca",
+    "sicak",
+    "yagis",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "12256a13bb03": {
+   "id": "12256a13bb03",
+   "kaynak": "TRT Haber",
+   "baslik": "Rize'de hayatını kaybeden polis memuruna veda",
+   "ozet": "Rize'de geçirdiği kalp krizi sonucu hayatını kaybeden polis memuru Şafak Yılmaz, son yolculuğuna uğurlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/rizede-hayatini-kaybeden-polis-memuruna-veda-960467.html",
+   "zaman": "2026-10-18T14:51:00+03:00",
+   "kelimeler": [
+    "hayat",
+    "kaybe",
+    "memur",
+    "polis",
+    "rize",
+    "veda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "67841e59f74b": {
+   "id": "67841e59f74b",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Azerbaycan'a kutlama mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın Bağımsızlığın Yeniden Sağlanması Günü'nü kutladı.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-azerbaycana-kutlama-mesaji-1746863",
+   "zaman": "2026-10-18T14:52:22+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "dan",
+    "erdog",
+    "kutla",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dc45b7915334"
+  },
+  "ef1af27a41df": {
+   "id": "ef1af27a41df",
+   "kaynak": "AA",
+   "baslik": "Yemen'de Husilerin kuşatması altındaki Taiz'de yakıt ve gaz sıkıntısı insani krizi derinleştiriyor",
+   "ozet": "Yemen'in güneybatısındaki yoğun nüfuslu Taiz kentinde İran destekli Husilerin ikmal yollarını kapatması ve çevresindeki çatışmaların yoğunlaşması, insani ve ekonomik koşulları ağırlaştırıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-kusatmasi-altindaki-taizde-yakit-ve-gaz-sikintisi-insani-krizi-derinlestiriyor/4092628",
+   "zaman": "2026-10-18T14:52:39+03:00",
+   "kelimeler": [
+    "altin",
+    "derin",
+    "gaz",
+    "husil",
+    "insan",
+    "krizi",
+    "kusat",
+    "sikin",
+    "taiz",
+    "yakit",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3caf9afef5b2": {
+   "id": "3caf9afef5b2",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Azerbaycan’ın \"Bağımsızlığın Yeniden Sağlanması Günü\"nü kutladı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan’ın \"Bağımsızlığın Yeniden Sağlanması Günü\"nü tebrik etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycan-in-bagimsizligin-yeniden-saglanmasi-gununu-kutladi/4092633",
+   "zaman": "2026-10-18T14:56:48+03:00",
+   "kelimeler": [
+    "azerb",
+    "bagim",
+    "cumhu",
+    "erdog",
+    "gunu",
+    "in",
+    "kutla",
+    "nu",
+    "sagla",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "99173966a10d"
+  },
+  "d8a780d14962": {
+   "id": "d8a780d14962",
+   "kaynak": "AA",
+   "baslik": "Nevşehir'de düzenlenen Salomon Kapadokya Ultra Trail sona erdi",
+   "ozet": "Nevşehir'de düzenlenen Salomon Kapadokya Ultra Trail, ödül töreni ile sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/nevsehirde-duzenlenen-salomon-kapadokya-ultra-trail-sona-erdi/4092634",
+   "zaman": "2026-10-18T15:00:14+03:00",
+   "kelimeler": [
+    "duzen",
+    "erdi",
+    "kapad",
+    "nevse",
+    "salom",
+    "sona",
+    "trail",
+    "ultra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7c2b659c37f1": {
+   "id": "7c2b659c37f1",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail'in Gazze'ye saldırılarında 2'si çocuk 5 kişi hayatını kaybetti",
+   "ozet": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda ikisi çocuk 5 Filistinli hayatını kaybetti, en az 8 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-gazzeye-saldirilarinda-2si-cocuk-5-kisi-hayatini-kaybetti-960468.html",
+   "zaman": "2026-10-18T15:02:00+03:00",
+   "kelimeler": [
+    "cocuk",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "saldi",
+    "si",
+    "soyki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7455f56905ca": {
+   "id": "7455f56905ca",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'de yaklaşık 3 yıl sonra enkazdan çıkarılan 75 Filistinlinin naaşı toprağa verildi",
+   "ozet": "Katil İsrail ordusunun Aralık 2023'te Gazze kentinin doğusundaki Derec Mahallesi'ne düzenlediği saldırıda hayatını kaybeden, aralarında kadın ve çocukların da bulunduğu 75 Filistinlinin naaşı, yaklaşık 3 yıl sonra enkaz altından çıkarılarak toprağa verildi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-yaklasik-3-yil-sonra-enkazdan-cikarilan-75-filistinlinin-naasi-topraga-verildi-960470.html",
+   "zaman": "2026-10-18T15:09:00+03:00",
+   "kelimeler": [
+    "75",
+    "cikar",
+    "enkaz",
+    "filis",
+    "gazze",
+    "naasi",
+    "topra",
+    "veril",
+    "yakla",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "21d15ff4a081": {
+   "id": "21d15ff4a081",
+   "kaynak": "NTV",
+   "baslik": "Selde mahsur kalan 8 aylık Zeynep bebek böyle kurtarıldı",
+   "ozet": "Sakarya'da dere taşkınında mahsur kalan Zeynep bebek halat düzeneğiyle kurtarıldı. İçişleri Bakanı Mustafa Çiftçi, \"Sen uyu Zeynep kızım, biz buradayız.\" başlığıyla paylaşım yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-selde-mahsur-kalan-8-aylik-zeynep-bebek-boyle-kurtarildi-1746864",
+   "zaman": "2026-10-18T15:13:06+03:00",
+   "kelimeler": [
+    "aylik",
+    "bebek",
+    "boyle",
+    "kalan",
+    "kurta",
+    "mahsu",
+    "selde",
+    "zeyne"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "157ec6fe0e7c": {
+   "id": "157ec6fe0e7c",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran, vefatının 7. yılında Nuri Pakdil'i andı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Kudüs şairi\" olarak tanınan şair ve yazar Nuri Pakdil'i vefatının 7. yılında andı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-vefatinin-7-yilinda-nuri-pakdili-andi/4092662",
+   "zaman": "2026-10-18T15:19:37+03:00",
+   "kelimeler": [
+    "andi",
+    "baska",
+    "duran",
+    "ileti",
+    "nuri",
+    "pakdi",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5d6ab1942c79"
+  },
+  "8a09657a45a5": {
+   "id": "8a09657a45a5",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran, Özdemir Bayraktar'ı vefatının 5. yılında andı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının beşinci yılında rahmetle andı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-ozdemir-bayraktari-vefatinin-5-yilinda-andi/4092670",
+   "zaman": "2026-10-18T15:31:04+03:00",
+   "kelimeler": [
+    "andi",
+    "baska",
+    "bayra",
+    "duran",
+    "ileti",
+    "ozdem",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5d6ab1942c79"
+  },
+  "6c2ccbcfb5fe": {
+   "id": "6c2ccbcfb5fe",
+   "kaynak": "AA",
+   "baslik": "Belçika'nın Kudüs Başkonsolosu, Filistin topraklarını gasbeden İsraillilerin saldırılarını anlattı",
+   "ozet": "İşgal altındaki Batı Şeria'nın Taybe beldesinde Filistin topraklarını gasbeden maskeli İsraillilerin saldırısına uğrayan diplomatlardan Belçika'nın Kudüs Başkonsolosu Anick Van Calster, \"Şiddet, gerçekten yeni bir boyuta ulaştı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikanin-kudus-baskonsolosu-filistin-topraklarini-gasbeden-israillilerin-saldirilarini-anlatti/4092677",
+   "zaman": "2026-10-18T15:45:04+03:00",
+   "kelimeler": [
+    "anlat",
+    "basko",
+    "belci",
+    "filis",
+    "gasbe",
+    "israi",
+    "kudus",
+    "nin",
+    "saldi",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "240835b3ccf5": {
+   "id": "240835b3ccf5",
+   "kaynak": "AA",
+   "baslik": "İran’ın yeni Savunma Bakanı Ahlaki'den ilk açıklama: Siyonistlerle savaşmak için parmağımız tetikte hazırız",
+   "ozet": "İran’ın yeni Savunma Bakanı Mehrdad Ahlaki Kitapçi, İsrail’in İran’a yönelik olası saldırılarına karşı hazırlık içerisinde olduklarını belirterek, \"Siyonistlerle savaşmak için parmağımız tetikte hazırız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-in-yeni-savunma-bakani-ahlakiden-ilk-aciklama-siyonistlerle-savasmak-icin-parmagimiz-tetikte-haziriz/4092678",
+   "zaman": "2026-10-18T15:52:18+03:00",
+   "kelimeler": [
+    "acikl",
+    "ahlak",
+    "bakan",
+    "den",
+    "hazir",
+    "ilk",
+    "in",
+    "iran",
+    "parma",
+    "savas",
+    "savun",
+    "siyon",
+    "tetik",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1924a4acde99": {
+   "id": "1924a4acde99",
+   "kaynak": "AA",
+   "baslik": "Pendik-Gebze sınırında sel sularına kapılan 2 kişiden biri bulundu",
+   "ozet": "İstanbul Valisi Gül, Pendik-Gebze sınırında sel sularına kapılan 2 kişiye ilişkin, \"Gebze'de olan kaza neticesinde oradaki vatandaşlarımız Pendik'e sürüklendiler. Aranan kişilerden biri bulundu, diğerinin arama çalışmaları devam ediyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/pendik-gebze-sinirinda-sel-sularina-kapilan-2-kisiden-biri-bulundu/4092683",
+   "zaman": "2026-10-18T15:57:40+03:00",
+   "kelimeler": [
+    "biri",
+    "bulun",
+    "gebze",
+    "kapil",
+    "kisid",
+    "pendi",
+    "sel",
+    "sinir",
+    "sular"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9e8aa6eb1d49": {
+   "id": "9e8aa6eb1d49",
+   "kaynak": "AA",
+   "baslik": "Türk Yıldızları, Kayseri'de gösteri uçuşu yaptı",
+   "ozet": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, Kayseri'de gösteri uçuşu gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-kayseride-gosteri-ucusu-yapti/4092689",
+   "zaman": "2026-10-18T16:04:02+03:00",
+   "kelimeler": [
+    "goste",
+    "kayse",
+    "turk",
+    "ucusu",
+    "yapti",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "1d136522d8ca": {
+   "id": "1d136522d8ca",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (18 Ekim 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-18-ekim-2026/4092690",
+   "zaman": "2026-10-18T16:06:37+03:00",
+   "kelimeler": [
+    "18",
+    "2026",
+    "60",
+    "bugun",
+    "ekim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "864bfeedc595"
+  },
+  "1458c5ce7db1": {
+   "id": "1458c5ce7db1",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Özdemir Bayraktar'ı anma mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özdemir Bayraktarın beşinci vefat yıl dönümü dolayısıyla anma mesajı paylaştı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-ozdemir-bayraktari-anma-mesaji-960469.html",
+   "zaman": "2026-10-18T16:08:00+03:00",
+   "kelimeler": [
+    "anma",
+    "bayra",
+    "cumhu",
+    "dan",
+    "erdog",
+    "mesaj",
+    "ozdem"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cbb4aa83c068"
+  },
+  "20cc73075b47": {
+   "id": "20cc73075b47",
+   "kaynak": "AA",
+   "baslik": "Filistinli aktivist Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki son saldırısını AA'ya anlattı",
+   "ozet": "Filistinli aktivist Makhamreh, Filistin topraklarını gasbeden İsraillilerin işgal altındaki Batı Şeria'nın Main beldesine düzenlediği son saldırıya ilişkin, \"Askerler rastgele ateş açarak yerleşimcilerin bu hırsızlığı yapmasına yardım etti.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistinli-aktivist-filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-son-saldirisini-aaya-anlatti/4092693",
+   "zaman": "2026-10-18T16:10:20+03:00",
+   "kelimeler": [
+    "aa",
+    "aktiv",
+    "anlat",
+    "bati",
+    "daki",
+    "filis",
+    "gasbe",
+    "israi",
+    "saldi",
+    "seria",
+    "topra",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6c2ccbcfb5fe"
+  },
+  "5cda1aeefc98": {
+   "id": "5cda1aeefc98",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Özdemir Bayraktar'ı andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının 5. yılında andı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-ozdemir-bayraktari-andi/4092695",
+   "zaman": "2026-10-18T16:12:25+03:00",
+   "kelimeler": [
+    "andi",
+    "bayra",
+    "cumhu",
+    "erdog",
+    "ozdem",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "551e33fd3350"
+  },
+  "67282a9b2205": {
+   "id": "67282a9b2205",
+   "kaynak": "AA",
+   "baslik": "BM Genel Sekreteri Guterres: Kıbrıs'ta güven tesisini engelleyen eylemler cesaret kırıcı",
+   "ozet": "Guterres, KKTC Cumhurbaşkanı Erhürman’ın, Kıbrıslı Türklerin kültürel, siyasi ve diplomatik faaliyetlerinin engellenmesine ilişkin mektubuna verdiği yanıtta, \"(Kıbrıs'ta) Güven tesisini engelleyen eylemler cesaret kırıcı.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterres-kibrista-guven-tesisini-engelleyen-eylemler-cesaret-kirici/4092697",
+   "zaman": "2026-10-18T16:14:52+03:00",
+   "kelimeler": [
+    "bm",
+    "cesar",
+    "engel",
+    "eylem",
+    "genel",
+    "guter",
+    "guven",
+    "kibri",
+    "kiric",
+    "sekre",
+    "ta",
+    "tesis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19eae2e7b1de": {
+   "id": "19eae2e7b1de",
+   "kaynak": "AA",
+   "baslik": "Belçika'nın başkenti Brüksel'deki protestolarda 150 kişi gözaltına alındı",
+   "ozet": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda şiddet olayları yaşanmasının ardından Brüksel polisi, 150 kişinin gözaltına alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikanin-baskenti-brukseldeki-protestolarda-150-kisi-gozaltina-alindi/4092698",
+   "zaman": "2026-10-18T16:16:02+03:00",
+   "kelimeler": [
+    "150",
+    "alind",
+    "baske",
+    "belci",
+    "bruks",
+    "deki",
+    "gozal",
+    "kisi",
+    "nin",
+    "prote"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a6c10df21626"
+  },
+  "99eee1ce88c8": {
+   "id": "99eee1ce88c8",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da sarı yeleklilerin gösterilerinde 2 binden fazla kişi gözaltına alındı",
+   "ozet": "Fransa'da dün sokaklara inen sarı yeleklilerin gösterilerinde 2 binden fazla kişi gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-sari-yeleklilerin-gosterilerinde-2-binden-fazla-kisi-gozaltina-alindi-960472.html",
+   "zaman": "2026-10-18T16:21:00+03:00",
+   "kelimeler": [
+    "alind",
+    "binde",
+    "fazla",
+    "frans",
+    "goste",
+    "gozal",
+    "kisi",
+    "sari",
+    "yelek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d85b5671b1b": {
+   "id": "2d85b5671b1b",
+   "kaynak": "NTV",
+   "baslik": "Türk Yıldızları Kayseri'de gösteri uçuşu yaptı",
+   "ozet": "Türk Hava Kuvvetleri'nin akrobasi timi Türk Yıldızları, Kayseri'de gösteri uçuşu gerçekleştirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/turk-yildizlari-kayseride-gosteri-ucusu-yapti-1746885",
+   "zaman": "2026-10-18T16:27:47+03:00",
+   "kelimeler": [
+    "goste",
+    "kayse",
+    "turk",
+    "ucusu",
+    "yapti",
+    "yildi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9e8aa6eb1d49"
+  },
+  "460d4f67d3ea": {
+   "id": "460d4f67d3ea",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Nuri Pakdil için anma mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, şair, mütefekkir ve yazar Nuri Pakdil'in vefatının 7. yıl dönümü dolayısıyla anma mesajı paylaştı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-nuri-pakdil-icin-anma-mesaji-960471.html",
+   "zaman": "2026-10-18T16:33:00+03:00",
+   "kelimeler": [
+    "anma",
+    "cumhu",
+    "dan",
+    "erdog",
+    "mesaj",
+    "nuri",
+    "pakdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cbb4aa83c068"
+  },
+  "12f2a80dfd2a": {
+   "id": "12f2a80dfd2a",
+   "kaynak": "AA",
+   "baslik": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
+   "ozet": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-goruntulendi/4092716",
+   "zaman": "2026-10-18T16:46:01+03:00",
+   "kelimeler": [
+    "calis",
+    "dronl",
+    "ekipl",
+    "erzin",
+    "erzur",
+    "gorun",
+    "heyel",
+    "kara",
+    "yolun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6db3cc3cac32": {
+   "id": "6db3cc3cac32",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe Futbol Direktörü Oğuz Çetin'den Marco Asensio açıklaması",
+   "ozet": "Fenerbahçe Futbol Direktörü Oğuz Çetin, futbolculardan Marco Asensio ile teknik direktör İsmail Kartal arasında herhangi bir sorunun bulunmadığını ve Asensio'nun ameliyat edileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-futbol-direktoru-oguz-cetinden-marco-asensio-aciklamasi/4092718",
+   "zaman": "2026-10-18T16:48:24+03:00",
+   "kelimeler": [
+    "acikl",
+    "asens",
+    "cetin",
+    "den",
+    "direk",
+    "fener",
+    "futbo",
+    "marco",
+    "oguz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "44f99ed1e42d": {
+   "id": "44f99ed1e42d",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan şair Nuri Pakdil'i andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Kudüs Şairi\" Nuri Pakdil'i vefatının 7. yıl dönümünde yad etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-sair-nuri-pakdili-andi/4092721",
+   "zaman": "2026-10-18T16:55:35+03:00",
+   "kelimeler": [
+    "andi",
+    "cumhu",
+    "erdog",
+    "nuri",
+    "pakdi",
+    "sair"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "854a1b1ac13c": {
+   "id": "854a1b1ac13c",
+   "kaynak": "AA",
+   "baslik": "Milli tenisçi İpek Öz, Bulgaristan'daki turnuvada şampiyon oldu",
+   "ozet": "Milli tenisçi Öz, 6 numaralı seribaşı olarak katıldığı Eski Zağra Kadınlar Tenis Turnuvası'nın finalinde 8 numaralı seribaşı Çek Alena Kovackova’yı 2-0 yenerek şampiyonluğa ulaştı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-ipek-oz-bulgaristandaki-turnuvada-sampiyon-oldu/4092726",
+   "zaman": "2026-10-18T17:11:53+03:00",
+   "kelimeler": [
+    "bulga",
+    "daki",
+    "ipek",
+    "milli",
+    "oz",
+    "sampi",
+    "tenis",
+    "turnu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ca35148e9a46": {
+   "id": "ca35148e9a46",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Dışişleri Bakanı Arakçi: Tehditler karşısında boyun eğmeyeceğiz",
+   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, ABD'den gelen saldırı tehditlerine ilişkin, \"Tehditler karşısında boyun eğmeyeceğiz.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-960473.html",
+   "zaman": "2026-10-18T17:12:00+03:00",
+   "kelimeler": [
+    "arakc",
+    "bakan",
+    "boyun",
+    "disis",
+    "egmey",
+    "iran",
+    "karsi",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "421250d35944": {
+   "id": "421250d35944",
+   "kaynak": "AA",
+   "baslik": "Göztepe, Kocaelispor'u deplasmanda mağlup etti",
+   "ozet": "Trendyol Süper Lig'in 8. haftasında Göztepe, deplasmanda Kocaelispor'u 2-1 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/goztepe-kocaelisporu-deplasmanda-maglup-etti/4092729",
+   "zaman": "2026-10-18T17:14:25+03:00",
+   "kelimeler": [
+    "depla",
+    "etti",
+    "gozte",
+    "kocae",
+    "maglu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e95248231c43": {
+   "id": "e95248231c43",
+   "kaynak": "AA",
+   "baslik": "Kırklareli'nde ilaç fabrikasında çıkan yangına müdahale ediliyor",
+   "ozet": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangina-mudahale-ediliyor/4092747",
+   "zaman": "2026-10-18T17:33:19+03:00",
+   "kelimeler": [
+    "cikan",
+    "edili",
+    "fabri",
+    "ilac",
+    "kirkl",
+    "mudah",
+    "nde",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "ae359f627827": {
+   "id": "ae359f627827",
+   "kaynak": "NTV",
+   "baslik": "Ayazağa'da son durum. Binalar yıkıldı, enkaz kaldırılıyor",
+   "ozet": "İstanbul'da selin vurduğu Ayazağa Mahallesi'nde dere yatağı üzerine inşa edilmiş yapılar yıkıldı, enkaz kaldırma çalışmaları sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-ayazagada-son-durum-binalar-yikildi-enkaz-kaldiriliyor-1746894",
+   "zaman": "2026-10-18T17:34:53+03:00",
+   "kelimeler": [
+    "ayaza",
+    "binal",
+    "durum",
+    "enkaz",
+    "kaldi",
+    "yikil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "692c8211f144": {
+   "id": "692c8211f144",
+   "kaynak": "NTV",
+   "baslik": "Kırklareli'nde ilaç fabrikasında yangın",
+   "ozet": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/kirklarelinde-ilac-fabrikasinda-yangin-1746896",
+   "zaman": "2026-10-18T17:54:24+03:00",
+   "kelimeler": [
+    "fabri",
+    "ilac",
+    "kirkl",
+    "nde",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e95248231c43"
+  },
+  "3c30f6d4db24": {
+   "id": "3c30f6d4db24",
+   "kaynak": "AA",
+   "baslik": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu",
+   "ozet": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757",
+   "zaman": "2026-10-18T17:59:26+03:00",
+   "kelimeler": [
+    "27",
+    "hamza",
+    "kapis",
+    "kilom",
+    "kuyru",
+    "nda",
+    "olust",
+    "sinir",
+    "tir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b4221d5e6035": {
+   "id": "b4221d5e6035",
+   "kaynak": "TRT Haber",
+   "baslik": "Gaziantep'te iplik fabrikasında çıkan yangın kontrol altına alındı",
+   "ozet": "Gaziantep Organize Sanayi Bölgesi'ndeki OSB iplik fabrikasında çıkan yangın kontrol altına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/gaziantepte-iplik-fabrikasinda-cikan-yangin-kontrol-altina-alindi-960474.html",
+   "zaman": "2026-10-18T18:03:00+03:00",
+   "kelimeler": [
+    "alind",
+    "altin",
+    "cikan",
+    "fabri",
+    "gazia",
+    "iplik",
+    "kontr",
+    "te",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "42fe59763c58"
+  },
+  "1d0f3c8c3af7": {
+   "id": "1d0f3c8c3af7",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'daki sel faciasında can kaybı 5'e yükseldi",
+   "ozet": "İstanbul'daki sel felaketinde kaybolan Türkmenistan uyruklu bir kişinin cansız bedenine ulaşıldı. İstanbul-Kocaeli il sınırında sele kapılan 2 kişiden biri de ölü bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbuldaki-sel-faciasinda-can-kaybi-5e-yukseldi-1746803",
+   "zaman": "2026-10-18T18:05:12+03:00",
+   "kelimeler": [
+    "can",
+    "daki",
+    "facia",
+    "istan",
+    "kaybi",
+    "sel",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
+  },
+  "e4f7bab6e527": {
+   "id": "e4f7bab6e527",
+   "kaynak": "AA",
+   "baslik": "Trump, İsrail seçimlerinde Netanyahu'ya desteğini açıkladı",
+   "ozet": "ABD Başkanı Donald Trump, İsrail’de 27 Ekim’de yapılacak seçimler için İsrail Başbakanı Binyamin Netanyahu'ya destek verdiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-israil-secimlerinde-netanyahuya-destegini-acikladi/4092771",
+   "zaman": "2026-10-18T18:26:22+03:00",
+   "kelimeler": [
+    "deste",
+    "israi",
+    "netan",
+    "secim",
+    "trump",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "13038c97d92f": {
+   "id": "13038c97d92f",
+   "kaynak": "TRT Haber",
+   "baslik": "Altıncı Fon Kurulu Toplantısı gerçekleştirdi",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirdi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere azami sayıda kişiye ödeme yapılmasının planlandığı belirtildi.",
+   "link": "https://www.trthaber.com/haber/gundem/altinci-fon-kurulu-toplantisi-gerceklestirdi-960475.html",
+   "zaman": "2026-10-18T18:43:00+03:00",
+   "kelimeler": [
+    "altin",
+    "fon",
+    "gerce",
+    "kurul",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "821d9948b82c"
+  },
+  "03fcd2e0030d": {
+   "id": "03fcd2e0030d",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
+   "ozet": "İletişim Başkanlığı, açıklamasında “Altıncı Fon Kurulu Toplantısı Cumhurbaşkanı Yardımcımızın başkanlığında gerçekleştirilmiştir. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıklarımız ile ilgili kurum ve kuruluşları katılmıştır.” yer verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/altinci-fon-kurulu-toplantisi-gerceklesti-43346459",
+   "zaman": "2026-10-18T18:44:00+03:00",
+   "kelimeler": [
+    "erdi",
+    "fon",
+    "gorus",
+    "hafta",
+    "kanun",
+    "kurul",
+    "nci",
+    "nun",
+    "sona",
+    "tbmm",
+    "tekli",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "821d9948b82c"
+  },
+  "34808ca53365": {
+   "id": "34808ca53365",
+   "kaynak": "NTV",
+   "baslik": "Fon Kurulu altıncı kez toplandı. Tasfiye sürecindeki fon sayısı 131'den 65'e düştü",
+   "ozet": "Fon Koordinasyon Kurulu, altıncı kez toplandı. Bugüne kadar 45 binin üzerinde kişiye toplam yaklaşık 40,8 milyar TL'lik tasfiye işleminin tamamlandığı belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131den-65e-dustu-1746900",
+   "zaman": "2026-10-18T18:57:24+03:00",
+   "kelimeler": [
+    "131",
+    "65",
+    "altin",
+    "den",
+    "dustu",
+    "fon",
+    "kez",
+    "kurul",
+    "sayis",
+    "surec",
+    "tasfi",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "821d9948b82c"
   }
  },
  "kayit": [
+  "18.10 18:59:04  65 yeni haber",
   "18.10 18:46:12  2 yeni haber",
   "18.10 17:31:14  1 yeni haber",
   "18.10 17:15:55  2 yeni haber",
