@@ -9,6 +9,7 @@ import glob
 import math
 import os
 import random
+import re
 import subprocess
 
 from PIL import Image, ImageDraw
@@ -286,11 +287,24 @@ def video(haber, marka, kullanici_adi, slaytlar, cikti, spikerli=True, spiker_hi
     return cikti
 
 
+def video_bilgisi(yol):
+    """ffmpeg -i çıktısından videonun süresini (sn) ve ses izi olup olmadığını okur."""
+    r = subprocess.run([ffmpeg_yolu(), "-hide_banner", "-i", yol], capture_output=True, text=True,
+                       encoding="utf-8", errors="ignore")
+    m = re.search(r"Duration:\s*(\d+):(\d+):(\d+(?:\.\d+)?)", r.stderr)
+    sure = int(m.group(1)) * 3600 + int(m.group(2)) * 60 + float(m.group(3)) if m else 0.0
+    return {"sure": sure, "ses": bool(re.search(r"Stream #.*Audio:", r.stderr))}
+
+
 def gercek_video_reels(haber, marka, kullanici_adi, kaynak_video, cikti):
     """Telegram veya kaynaktan gelen gerçek .mp4 videoyu sesini koruyarak 1080x1920 XHABER Reels formatına giydirir."""
     v_yol = kaynak_video if os.path.isabs(kaynak_video) else os.path.join(KOK, kaynak_video)
     if not os.path.exists(v_yol):
         raise RuntimeError("Kaynak video bulunamadı")
+    bilgi = video_bilgisi(v_yol)
+    # Instagram Reels en az 3 sn ister; daha kısa videoda slayt videosuna dönülür (çağıran yakalar)
+    if bilgi["sure"] < 3.5:
+        raise RuntimeError(f"Kaynak video çok kısa ({bilgi['sure']:.1f} sn)")
     _, vurgu, zemin, yazi_rengi = konu_renkleri(haber)
     img = Image.new("RGB", (W, H), zemin)
     c = ImageDraw.Draw(img)
@@ -325,9 +339,12 @@ def gercek_video_reels(haber, marka, kullanici_adi, kaynak_video, cikti):
             "-framerate", str(FPS), "-loop", "1", "-i", zemin_dosya,
             "-i", v_yol,
             "-framerate", str(FPS), "-loop", "1", "-i", etiket_dosya,
+            # sesi olmayan videoya sessiz ses izi: sessiz Reels'i Instagram bazen işleyemiyor
+            *([] if bilgi["ses"] else ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]),
             "-filter_complex", filtre,
-            "-map", "[outv]", "-map", "1:a?",
-            "-t", "58",
+            "-map", "[outv]", "-map", "1:a" if bilgi["ses"] else "3:a",
+            "-r", str(FPS),
+            "-t", f"{min(58.0, bilgi['sure']):.2f}",
             "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", "-shortest", cikti,
         ]

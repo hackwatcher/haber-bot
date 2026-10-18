@@ -346,14 +346,16 @@ def paylas(gorseller, aciklama, cfg, video=None, story=None, ilk_yorum=None, lin
 
     fb_cfg = cfg.get("facebook")
     if fb_cfg and fb_cfg.get("acik"):
+        # Haber başına tek gönderi (sayfa erişimi düşmesin): video varsa yalnız video, yoksa ya da olmazsa fotoğraflar
         try:
             fb = Facebook(fb_cfg)
-            sonuc["facebook"] = fb.gonder(gorsel_url, aciklama, link=link)
             if video and fb_cfg.get("reels", True):
                 try:
                     sonuc["facebook_reels"] = fb.reels(ek_url[video], aciklama, link=link)
                 except Exception as e:
                     sonuc["facebook_reels"] = f"hata: {e}"
+            if not sonuc.get("facebook_reels") or str(sonuc["facebook_reels"]).startswith("hata"):
+                sonuc["facebook"] = fb.gonder(gorsel_url, aciklama, link=link)
         except Exception as e:
             sonuc["facebook"] = f"hata: {e}"
 

@@ -166,7 +166,7 @@ def sayfa_oku(url, yedek_metin=""):
     if "t.me/" in url:
         import telegram_kaynak
         return telegram_kaynak.sayfa_oku_tg(url, yedek_metin=yedek_metin)
-    r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+    r = requests.get(url, headers={"User-Agent": haber.TARAYICI}, timeout=20)
     r.raise_for_status()
     metin = r.text
     spot = ""

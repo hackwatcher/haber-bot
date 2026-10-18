@@ -63,7 +63,8 @@ jobs:
           git add data/durum.json
           git diff --cached --quiet && exit 0
           git commit -q -m "Haber durumu"
+          # rebase'de "theirs" = bu turun commit'i; çakışmada bu turun paylaşım kaydı korunur (çift paylaşım olmasın)
           for i in 1 2 3 4 5; do
-            git pull -q --rebase -X ours origin main && git push -q origin main && exit 0 || sleep 3
+            git pull -q --rebase -X theirs origin main && git push -q origin main && exit 0 || sleep 3
           done
           exit 1

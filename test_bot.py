@@ -197,6 +197,9 @@ class TestHaberBot(unittest.TestCase):
         import spiker
 
         h = dict(self.ornek_haber, kanca="TARİHİ ZİRVE", baslik="Liderler masada toplandı", ozet="Ekonomik kararlar alındı.")
+        # öncelikli olmayan haber "Flaş" diye açılmaz
+        self.assertTrue(spiker.spiker_metni_uret(dict(h, oncelikli=False, diger_kaynaklar=[])).startswith("TARİHİ ZİRVE."))
+        h["oncelikli"] = True
         metin = spiker.spiker_metni_uret(h)
         self.assertTrue(metin.startswith("Flaş gelişme: TARİHİ ZİRVE!"))
         self.assertIn("Liderler masada toplandı", metin)
@@ -291,12 +294,18 @@ class TestHaberBot(unittest.TestCase):
         import reels
         kaynak = os.path.join(self.tmp, "kaynak.mp4")
         subprocess.run([reels.ffmpeg_yolu(), "-y", "-loglevel", "error", "-f", "lavfi", "-i",
-                        "testsrc=size=640x360:rate=30:duration=2", "-pix_fmt", "yuv420p", kaynak], check=True)
+                        "testsrc=size=640x360:rate=30:duration=4", "-pix_fmt", "yuv420p", kaynak], check=True)
         h = dict(self.ornek_haber, konu="gundem", kanca="SON DAKİKA")
         cikti = os.path.join(self.tmp, "gercek.mp4")
         reels.gercek_video_reels(h, "XHABER", "@xhabercom", kaynak, cikti)
         self.assertTrue(os.path.exists(cikti))
         self.assertFalse(os.path.exists(cikti + "_etiket.png"))
+        self.assertTrue(reels.video_bilgisi(cikti)["ses"])  # sessiz kaynağa sessiz ses izi eklenir
+        kisa = os.path.join(self.tmp, "kisa.mp4")
+        subprocess.run([reels.ffmpeg_yolu(), "-y", "-loglevel", "error", "-f", "lavfi", "-i",
+                        "testsrc=size=640x360:rate=30:duration=2", "-pix_fmt", "yuv420p", kisa], check=True)
+        with self.assertRaises(RuntimeError):  # 3 sn altı Reels olmaz, slayt videosuna dönülür
+            reels.gercek_video_reels(h, "XHABER", "@xhabercom", kisa, cikti)
         f = reels.font(reels.KALIN, 46)
         from PIL import ImageDraw
         w = ImageDraw.Draw(Image.new("RGB", (1, 1))).textlength("SON DAKİKA", font=f) + 128
@@ -475,6 +484,51 @@ class TestHaberBot(unittest.TestCase):
              patch("bot.haberi_paylas") as mock_paylas:
             bot.otomatik_tur()
             mock_paylas.assert_called_once_with("h_oncelik", kim="otomatik")  # 25 >= 20 olduğu için hemen paylaşmalı
+
+
+    def test_bekleme_gunun_kalanina_yayilir(self):
+        """Günlük hak öğleden sonra bitmesin: kalan hak kalan saatlere yayılır, flaş haber yarı sürede gider."""
+        import datetime as dt
+        o = {"iki_paylasim_arasi_dakika": 45, "flas_bekleme_dakika": 20, "gunluk_en_fazla": 18, "sessiz_saatler": [2, 7]}
+        sabah = dt.datetime(2026, 10, 18, 7, 0, tzinfo=haber.TR)
+        self.assertAlmostEqual(bot.bekleme_dakika(o, 0, simdi_=sabah), 1020 / 18)       # 17 saat / 18 hak
+        self.assertAlmostEqual(bot.bekleme_dakika(o, 0, True, simdi_=sabah), 1020 / 36)
+        aksam = dt.datetime(2026, 10, 18, 21, 0, tzinfo=haber.TR)
+        self.assertEqual(bot.bekleme_dakika(o, 10, simdi_=aksam), 45)                     # bol hak: alt sınır
+        self.assertEqual(bot.bekleme_dakika(o, 17, True, simdi_=aksam), 90)               # son hak: 180 dk'nın yarısı
+        gece = dt.datetime(2026, 10, 19, 1, 0, tzinfo=haber.TR)                         # 00-02 yeni günden yer
+        self.assertEqual(bot.bekleme_dakika(o, 0, simdi_=gece), 45)
+        # 07:00'den itibaren her turda (15 dk) kural izin verince paylaşılırsa son paylaşım akşama kalmalı
+        t, son, adet = sabah, None, 0
+        while t.date() == sabah.date():
+            if adet < 18 and (son is None or (t - son).total_seconds() / 60 >= bot.bekleme_dakika(o, adet, simdi_=t)):
+                son, adet = t, adet + 1
+            t += dt.timedelta(minutes=15)
+        self.assertGreaterEqual(son.hour, 21)
+
+    def test_kart_ozetsiz_baslikta_cokmez(self):
+        """Özet satırı 0 olan kart (Telegram/tek kart) uzun özetle 'list index out of range' vermemeli."""
+        h = dict(self.ornek_haber, ozet="Çok uzun bir özet metni. " * 20, slaytlar=[])
+        cikti = os.path.join(self.tmp, "ozetsiz.jpg")
+        kart.ciz_kart(h, "XHABER", "@xhabercom", cikti)
+        self.assertTrue(os.path.exists(cikti))
+
+    def test_facebook_haber_basina_tek_gonderi(self):
+        """Video varsa Facebook'a yalnız video gider; video başarısızsa fotoğraflar gönderilir."""
+        from unittest.mock import MagicMock, patch
+        import paylas
+        cfg = {"instagram": {"yontem": "meta", "token_dosyasi": "x", "gorsel_repo": "a/b", "kullanici_adi": "x"},
+               "facebook": {"acik": True, "reels": True}}
+        for reels_hata in (False, True):
+            ig, fb = MagicMock(), MagicMock()
+            ig.gonder.return_value = "ig1"
+            ig.reels.return_value = "r1"
+            fb.reels.side_effect = RuntimeError("olmadı") if reels_hata else None
+            fb.reels.return_value = "fbv"
+            with patch("paylas.Instagram", return_value=ig), patch("paylas.Facebook", return_value=fb),                  patch("paylas.github_yukle", side_effect=lambda y, r: [f"u{i}" for i in range(len(y))]):
+                sonuc = paylas.paylas(["a.jpg", "b.jpg"], "metin", cfg, video="v.mp4")
+            self.assertEqual(fb.gonder.called, reels_hata)
+            self.assertEqual("facebook" in sonuc, reels_hata)
 
 
 if __name__ == "__main__":

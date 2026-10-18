@@ -176,9 +176,11 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
         yollar, metin, z = hazirla(h, duzenleme)
         video, story, hatalar = ekleri_hazirla(z, yollar, os.path.join(GORSEL, h["id"]))
 
-        # Otomatik İlk Yorum & Tartışma Başlatıcı
+        # Otomatik İlk Yorum & Tartışma Başlatıcı (token'da instagram_manage_comments izni gerekir)
         ilk_yorum = z.get("yorum_sorusu")
-        if not ilk_yorum:
+        if not cfg.get("ilk_yorum", {}).get("acik", False):
+            ilk_yorum = None
+        elif not ilk_yorum:
             konu = z.get("konu", "gundem")
             sorular = {
                 "ekonomi": "📌 Sizce bu gelişme piyasaları ve fiyatları nasıl etkiler? Yorumlarda buluşalım.",
@@ -190,17 +192,22 @@ def haberi_paylas(hid, duzenleme=None, kim="elle"):
             }
             ilk_yorum = sorular.get(konu, "📌 Bu konu hakkındaki düşünceleriniz neler? Yorumlarda buluşalım.")
 
+        fb_acik = cfg.get("facebook", {}).get("acik", False)
+        fb_video = bool(fb_acik and video and cfg.get("facebook", {}).get("reels", True))
+        # Telegram haberlerinde kaynak linki hiçbir yerde gösterilmez (Instagram açıklamasıyla aynı)
+        bu_tg = bool(h.get("tg_kanal") or "t.me/" in (h.get("link") or ""))
         if cfg.get("deneme_modu"):
             sonuc = {
                 "gonderi": "deneme",
                 "reels": "deneme" if video else None,
                 "story": "deneme" if story else None,
                 "yorum": "deneme" if ilk_yorum else None,
-                "facebook": "deneme" if cfg.get("facebook", {}).get("acik") else None,
-                "facebook_reels": "deneme" if (cfg.get("facebook", {}).get("acik") and video and cfg.get("facebook", {}).get("reels", True)) else None,
+                "facebook": "deneme" if (fb_acik and not fb_video) else None,
+                "facebook_reels": "deneme" if fb_video else None,
             }
         else:
-            sonuc = paylas.paylas(yollar, metin, cfg, video=video, story=story, ilk_yorum=ilk_yorum, link=h.get("link"))
+            sonuc = paylas.paylas(yollar, metin, cfg, video=video, story=story, ilk_yorum=ilk_yorum,
+                                  link=None if bu_tg else h.get("link"))
         ig_id = sonuc["gonderi"]
         with haber.KILIT:
             d = haber.durum_oku()
@@ -273,6 +280,26 @@ def otomatik_sec(d, cfg):
     return adaylar[0] if adaylar else None
 
 
+def bekleme_dakika(o, bugun_adet, flas=False, simdi_=None):
+    """İki paylaşım arası bekleme: günün kalan hakkı kalan saatlere yayılır, akşam saatleri boş kalmasın.
+
+    Günlük sayaç gece yarısı sıfırlanır; gece yarısından sessiz saatlere kadar olan paylaşımlar yeni günden yer.
+    Flaş haber (öncelikli kelime ya da 2+ kaynak) bu aralığın yarısında gidebilir, ama en az flas_bekleme_dakika.
+    """
+    s = simdi_ or simdi()
+    bas = o.get("sessiz_saatler", [0, 0])[0]
+    if s.hour < bas:
+        bitis = s.replace(hour=bas, minute=0, second=0, microsecond=0)
+    else:
+        bitis = (s + dt.timedelta(days=1)).replace(hour=0, minute=0, second=0, microsecond=0)
+    kalan_hak = max(1, o["gunluk_en_fazla"] - bugun_adet)
+    yayma = (bitis - s).total_seconds() / 60 / kalan_hak
+    normal = max(o["iki_paylasim_arasi_dakika"], yayma)
+    if flas:
+        return max(o.get("flas_bekleme_dakika", 20), min(normal, yayma * 0.5))
+    return normal
+
+
 def otomatik_tur(zorla=False):
     """Kurallar izin veriyorsa sıradaki haberi paylaşır. zorla=True: paneldeki otomatik anahtarına bakma (GitHub)."""
     cfg = haber.ayar()
@@ -290,10 +317,8 @@ def otomatik_tur(zorla=False):
     h = otomatik_sec(d, cfg)
     if not h:
         return
-    bekleme = o["iki_paylasim_arasi_dakika"]
-    # Flaş / öncelikli / 2+ farklı kaynak tarafından teyitli veya Telegram haberlerinde bekleme süresini 20 dakikaya indir
-    if h.get("oncelikli") or len(h.get("diger_kaynaklar", [])) >= 2 or h.get("tg_kanal"):
-        bekleme = min(20, bekleme)
+    flas = h.get("oncelikli") or len(h.get("diger_kaynaklar", [])) >= 2
+    bekleme = bekleme_dakika(o, len(paylasilan), flas)
     tum = [x["paylasildi"] for x in d["haberler"].values() if x.get("paylasildi") and x.get("ig_id") != "deneme"]
     if tum and simdi() - dt.datetime.fromisoformat(max(tum)) < dt.timedelta(minutes=bekleme):
         return

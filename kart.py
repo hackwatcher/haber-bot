@@ -122,7 +122,8 @@ def metin_blogu(c, haber, ust, alt, vurgu, en_buyuk=104, ozet_satir=5):
         os_ = sar(c, ozet, fo, genislik - 30) if ozet else []
         if len(os_) > ozet_satir:  # yarım cümle kalmasın
             os_ = os_[:ozet_satir]
-            os_[-1] = os_[-1].rstrip(",;:") + "…"
+            if os_:  # ozet_satir=0: özet hiç gösterilmez
+                os_[-1] = os_[-1].rstrip(",;:") + "…"
         h = (len(ks) * int(fkb * 1.2) + 28 if ks else 0) + len(bs) * bsat \
             + (len(os_) * int(osb * 1.45) + 40 if os_ else 0) + (74 if rozet_var else 0)
         if h <= alt - ust:

@@ -16,6 +16,7 @@ KOK = os.path.dirname(os.path.abspath(__file__))
 DURUM = os.path.join(KOK, "data", "durum.json")
 TR = dt.timezone(dt.timedelta(hours=3))
 KILIT = threading.RLock()
+TARAYICI = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 
 # Benzerlik karşılaştırmasında anlam taşımayan kelimeler
 DOLGU = set("""son dakika flas flaş haber haberi haberleri acil canli canlı video foto galeri ve ile de da bu bir icin için
@@ -129,7 +130,8 @@ def xml_coz(icerik):
 
 
 def akis_oku(kaynak):
-    r = requests.get(kaynak["url"], timeout=20, headers={"User-Agent": "Mozilla/5.0 (haberbot)"})
+    # Tarayıcı kimliği: bazı siteler (NTV) bot kimliğine sunucu IP'lerinden 403 veriyor
+    r = requests.get(kaynak["url"], timeout=20, headers={"User-Agent": TARAYICI})
     r.raise_for_status()
     kok = xml_coz(r.content)
     girdiler = [e for e in kok.iter() if yerel(e) in ("item", "entry")]

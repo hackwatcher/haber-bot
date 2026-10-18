@@ -27,11 +27,13 @@ def spiker_metni_uret(z):
     ozet = (z.get("ozet") or "").strip()
 
     parcalar = []
-    # TV Spikeri Giriş Kancası
-    if kanca and len(kanca) <= 35 and kanca.lower() not in ("son dakika", "flaş"):
-        parcalar.append(f"Flaş gelişme: {kanca}!")
-    else:
-        parcalar.append("Son dakika gelişmesi!")
+    # TV Spikeri Giriş Kancası: "Flaş/Son dakika" yalnızca gerçekten öncelikli ya da çok kaynaklı haberde
+    flas = bool(z.get("oncelikli") or len(z.get("diger_kaynaklar", [])) >= 2)
+    kanca_uygun = kanca and len(kanca) <= 35 and kanca.lower() not in ("son dakika", "flaş")
+    if flas:
+        parcalar.append(f"Flaş gelişme: {kanca}!" if kanca_uygun else "Son dakika gelişmesi!")
+    elif kanca_uygun:
+        parcalar.append(f"{kanca}.")
 
     if baslik:
         temiz_baslik = baslik.rstrip(".!?,")

@@ -4,7 +4,9 @@
   "hashtagler": "#haber #sondakika #gündem",
 
   "kaynaklar": [
-    {"ad": "NTV", "url": "https://www.ntv.com.tr/son-dakika.rss"},
+    {"ad": "NTV", "url": "https://www.ntv.com.tr/gundem.rss"},
+    {"ad": "AA", "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel"},
+    {"ad": "TRT Haber", "url": "https://www.trthaber.com/sondakika.rss"},
     {"ad": "Sözcü", "url": "https://www.sozcu.com.tr/feeds-son-dakika"},
     {"ad": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/gundem"},
     {"ad": "BBC Türkçe", "url": "https://feeds.bbci.co.uk/turkce/rss.xml"}
@@ -17,15 +19,16 @@
   "otomatik": {
     "kontrol_dakika": 2,
     "iki_paylasim_arasi_dakika": 45,
+    "flas_bekleme_dakika": 20,
     "gunluk_en_fazla": 18,
     "haber_en_eski_dakika": 180,
     "telegram_en_eski_dakika": 1440,
     "sessiz_saatler": [2, 7],
-    "oncelikli_kelimeler": ["son dakika", "flaş", "deprem", "resmi gazete", "asgari ücret", "faiz", "istifa", "tutuklandı", "şampiyon", "vefat", "açıkladı", "kaza"],
+    "oncelikli_kelimeler": ["son dakika", "flaş", "deprem", "resmi gazete", "asgari ücret", "faiz", "istifa", "tutuklandı", "şampiyon", "vefat", "kaza"],
     "sadece_oncelikli": false
   },
 
-  "engellenen_kelimeler": ["deprem mi oldu", "namaz vakti", "hava durumu", "altın fiyat", "döviz kuru", "burç", "rüya", "maç ne zaman", "hangi kanalda", "şans oyunu", "loto", "piyango sonuç", "nöbetçi eczane"],
+  "engellenen_kelimeler": ["deprem mi oldu", "namaz vakti", "hava durumu", "altın fiyat", "döviz kuru", "burç", "rüya", "maç ne zaman", "hangi kanalda", "şans oyunu", "loto", "piyango sonuç", "nöbetçi eczane", "lezzet", "tarifi"],
 
   "instagram": {
     "yontem": "meta",
@@ -37,6 +40,7 @@
   "reels": {"acik": true, "akisa_da": false, "spikerli": true, "spiker_hiz": 1.15, "altyazi": false, "daktilo": true, "daktilo_sn": 2.6, "foto_hareket": true},
   "karusel": {"hareketli_kapak": true, "sure_sn": 4.0},
   "story": {"acik": true, "sadece_telegram": true},
+  "ilk_yorum": {"acik": false},
   "facebook": {"acik": true, "sayfa_id": "1276642895542042", "token_dosyasi": ".gizli/fb_token.txt", "reels": true},
 
   "deneme_modu": false
