@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "c953b2c7a2c4": {
-   "id": "c953b2c7a2c4",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul Valiliği uyardı: Yarın daha kötüsü geliyor",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-istanbul-valiligi-nden-son-dakika-uyarisi-yarin-daha-kotusu-geliyor-p369502",
-   "zaman": "2026-10-15T23:05:14+03:00",
-   "kelimeler": [
-    "geliy",
-    "istan",
-    "kotus",
-    "uyard",
-    "valil",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4ee857719620": {
-   "id": "4ee857719620",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Trump, Fort Hood saldırganının infazını canlı yayınlama planını iptal etti",
-   "ozet": "Trump, bazı kişilerin 60 yılı aşkın süredir gerçekleşen ilk askeri infaz olan Nidal Hasan'ın öldürülmesini \"izlemek istemeyeceğini\" söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/c8qln213pge3o",
-   "zaman": "2026-10-15T23:06:37+03:00",
-   "kelimeler": [
-    "etti",
-    "fort",
-    "hood",
-    "infaz",
-    "iptal",
-    "plani",
-    "saldi",
-    "trump",
-    "yayin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1234e74d8334": {
    "id": "1234e74d8334",
    "kaynak": "BBC Türkçe",
@@ -9437,7 +9398,10 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c4e42b79aa4d": {
    "id": "c4e42b79aa4d",
@@ -9826,10 +9790,113 @@
     "yasan"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "72283978ff78": {
+   "id": "72283978ff78",
+   "kaynak": "AA",
+   "baslik": "Rusya: Zelenskiy, Moskova ile müzakere istemiyor",
+   "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Moskova ve Kiev’in belirli bir mutabakata ulaştığı durumda Ukrayna’nın Rus sivil hedeflere yönelik saldırılar düzenlediğini söyleyerek, “Bundan çıkardığımız tek bir sonuç var, Zelenskiy müzakere istemiyor.” dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-zelenskiy-moskova-ile-muzakere-istemiyor/4092854",
+   "zaman": "2026-10-18T20:18:11+03:00",
+   "kelimeler": [
+    "istem",
+    "mosko",
+    "muzak",
+    "rusya",
+    "zelen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "326f110a995c": {
+   "id": "326f110a995c",
+   "kaynak": "AA",
+   "baslik": "Türkiye'den Kanada'da yaşanan patlamaya ilişkin taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Kanada'da Wainwright Askeri Üssü'nde dün meydana gelen patlamada yaşanan can kayıplarından derin üzüntü duyulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-kanadada-yasanan-patlamaya-iliskin-taziye-mesaji/4092905",
+   "zaman": "2026-10-18T22:57:24+03:00",
+   "kelimeler": [
+    "den",
+    "ilisk",
+    "kanad",
+    "mesaj",
+    "patla",
+    "taziy",
+    "turki",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a37c08f95406"
+  },
+  "6b8e6353721e": {
+   "id": "6b8e6353721e",
+   "kaynak": "AA",
+   "baslik": "Kanada'da Wainwright Askeri Üssü'nde çıkan yangında 4 asker öldü",
+   "ozet": "Kanada'nın Alberta eyaletindeki Wainwright Askeri Üssü'nde çıkan yangında 4 askerin öldüğü ve çok sayıda ağır yaralı olduğu açıklandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kanadada-wainwright-askeri-ussunde-cikan-yanginda-4-asker-oldu/4092907",
+   "zaman": "2026-10-18T22:58:20+03:00",
+   "kelimeler": [
+    "asker",
+    "cikan",
+    "kanad",
+    "nde",
+    "ussu",
+    "wainw",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7c94020802fe"
+  },
+  "4112bd91b8d5": {
+   "id": "4112bd91b8d5",
+   "kaynak": "NTV",
+   "baslik": "Eğitim için Isparta’ya ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
+   "ozet": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
+   "zaman": "2026-10-18T23:03:22+03:00",
+   "kelimeler": [
+    "13",
+    "egiti",
+    "ekip",
+    "ispar",
+    "kanyo",
+    "kaybo",
+    "kayip",
+    "olu",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2384a3aacd7c": {
+   "id": "2384a3aacd7c",
+   "kaynak": "NTV",
+   "baslik": "Trabzon'da silahlı saldırıda bir kişiyi yaraladılar. 2 şüpheli İstanbul'da yakalandı",
+   "ozet": "Trabzon'da bir kişiyi silahla yaralayan 2 şüpheli, polis ekipleri tarafından Çatalca'da düzenlenen operasyonla yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/trabzonda-silahli-saldirida-bir-kisiyi-yaraladilar-2-supheli-istanbulda-yakalandi-1746917",
+   "zaman": "2026-10-18T23:07:25+03:00",
+   "kelimeler": [
+    "istan",
+    "kisiy",
+    "saldi",
+    "silah",
+    "suphe",
+    "trabz",
+    "yakal",
+    "yaral"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "18.10 23:16:01  3 yeni haber",
   "18.10 23:01:18  2 yeni haber",
   "18.10 22:46:10  5 yeni haber",
   "18.10 22:31:11  2 yeni haber",
