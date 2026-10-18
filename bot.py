@@ -88,7 +88,10 @@ def ekleri_hazirla(z, yollar, klasor):
         vs = karusel.karusel(z, cfg["marka"], cfg["kullanici_adi"], klasor, video=True) if z["slaytlar"] else yollar
     except Exception as e:
         vs, _ = yollar, hatalar.append(f"video slaytı: {e}")
-    if cfg.get("reels", {}).get("acik", True):
+    rcfg = cfg.get("reels", {})
+    # Reels yalnız güçlü haberde (öncelikli, 2+ kaynak ya da gerçek videolu): aynı haber akışta iki kez görünmesin
+    guclu = z.get("oncelikli") or len(z.get("diger_kaynaklar", [])) >= 2 or z.get("tg_video")
+    if rcfg.get("acik", True) and (guclu or not rcfg.get("sadece_guclu", False)):
         reels_dosya = os.path.join(klasor, "reels.mp4")
         if z.get("tg_video"):
             try:
@@ -97,7 +100,6 @@ def ekleri_hazirla(z, yollar, klasor):
                 hatalar.append(f"Gerçek video Reels: {e}")
         if not video:
             try:
-                rcfg = cfg.get("reels", {})
                 daktilo_ciz = daktilo_cizici(z, cfg) if rcfg.get("daktilo", True) else None
                 video = reels.video(z, cfg["marka"], cfg["kullanici_adi"], vs, reels_dosya,
                                     spikerli=rcfg.get("spikerli", True), spiker_hiz=rcfg.get("spiker_hiz", 1.15),

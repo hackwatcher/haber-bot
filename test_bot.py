@@ -437,13 +437,13 @@ class TestHaberBot(unittest.TestCase):
 
         cfg = haber.ayar()
         self.assertEqual(cfg["otomatik"]["iki_paylasim_arasi_dakika"], 45)
-        self.assertEqual(cfg["otomatik"]["gunluk_en_fazla"], 18)
+        self.assertEqual(cfg["otomatik"]["gunluk_en_fazla"], 12)
         self.assertEqual(cfg["otomatik"]["haber_en_eski_dakika"], 180)
         self.assertIn("son dakika", cfg["otomatik"]["oncelikli_kelimeler"])
 
-        # 25 dakika önce yapılmış bir paylaşım simüle edelim
+        # 30 dakika önce yapılmış bir paylaşım simüle edelim
         simdi = dt.datetime(2026, 10, 18, 14, 30, tzinfo=haber.TR)
-        onceki_paylasim = (simdi - dt.timedelta(minutes=25)).isoformat()
+        onceki_paylasim = (simdi - dt.timedelta(minutes=30)).isoformat()
 
         # 1. Normal haber adayı (oncelikli değil, tek kaynaklı)
         h_normal = {
@@ -463,7 +463,7 @@ class TestHaberBot(unittest.TestCase):
              patch("bot.otomatik_sec", return_value=h_normal), \
              patch("bot.haberi_paylas") as mock_paylas:
             bot.otomatik_tur()
-            mock_paylas.assert_not_called()  # 25 < 45 olduğu için beklemeli
+            mock_paylas.assert_not_called()  # 30 < 45 olduğu için beklemeli
 
         # 2. Öncelikli haber adayı (oncelikli: True veya 2+ çoklu kaynak)
         h_oncelikli = {
@@ -483,7 +483,7 @@ class TestHaberBot(unittest.TestCase):
              patch("bot.otomatik_sec", return_value=h_oncelikli), \
              patch("bot.haberi_paylas") as mock_paylas:
             bot.otomatik_tur()
-            mock_paylas.assert_called_once_with("h_oncelik", kim="otomatik")  # 25 >= 20 olduğu için hemen paylaşmalı
+            mock_paylas.assert_called_once_with("h_oncelik", kim="otomatik")  # flaş: kalan aralığın yarısı (~26 dk) geçti, paylaşmalı
 
 
     def test_bekleme_gunun_kalanina_yayilir(self):
@@ -529,6 +529,19 @@ class TestHaberBot(unittest.TestCase):
                 sonuc = paylas.paylas(["a.jpg", "b.jpg"], "metin", cfg, video="v.mp4")
             self.assertEqual(fb.gonder.called, reels_hata)
             self.assertEqual("facebook" in sonuc, reels_hata)
+
+
+    def test_reels_yalniz_guclu_haberde(self):
+        """sadece_guclu açıkken sıradan haberde Reels üretilmez; öncelikli ya da çok kaynaklı haberde üretilir."""
+        from unittest.mock import patch
+        cfg = dict(haber.ayar(), reels={"acik": True, "sadece_guclu": True}, story={"acik": False})
+        yollar = [self.ornek_foto]
+        with patch("haber.ayar", return_value=cfg), patch("reels.video", return_value="reels.mp4") as v:
+            sirada = dict(self.ornek_haber, oncelikli=False, diger_kaynaklar=[], slaytlar=[])
+            self.assertIsNone(bot.ekleri_hazirla(sirada, yollar, self.tmp)[0])
+            v.assert_not_called()
+            for guclu in (dict(sirada, oncelikli=True), dict(sirada, diger_kaynaklar=["NTV", "AA"])):
+                self.assertEqual(bot.ekleri_hazirla(guclu, yollar, self.tmp)[0], "reels.mp4")
 
 
 if __name__ == "__main__":

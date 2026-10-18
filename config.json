@@ -20,7 +20,7 @@
     "kontrol_dakika": 2,
     "iki_paylasim_arasi_dakika": 45,
     "flas_bekleme_dakika": 20,
-    "gunluk_en_fazla": 18,
+    "gunluk_en_fazla": 12,
     "haber_en_eski_dakika": 180,
     "telegram_en_eski_dakika": 1440,
     "sessiz_saatler": [2, 7],
@@ -37,7 +37,7 @@
     "gorsel_repo": "hackwatcher/haber-bot"
   },
 
-  "reels": {"acik": true, "akisa_da": false, "spikerli": true, "spiker_hiz": 1.15, "altyazi": false, "daktilo": true, "daktilo_sn": 2.6, "foto_hareket": true},
+  "reels": {"acik": true, "sadece_guclu": true, "akisa_da": false, "spikerli": true, "spiker_hiz": 1.15, "altyazi": false, "daktilo": true, "daktilo_sn": 2.6, "foto_hareket": true},
   "karusel": {"hareketli_kapak": true, "sure_sn": 4.0},
   "story": {"acik": true, "sadece_telegram": true},
   "ilk_yorum": {"acik": false},
