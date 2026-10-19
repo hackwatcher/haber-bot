@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "215105156a45": {
-   "id": "215105156a45",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Gürlek duyurdu | Ömer Şenol cinayetinde sır perdesi aralandı: 4 şüpheli tutuklandı",
-   "ozet": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığı koordinasyonunda incelenen bir faili meçhul cinayetin daha aydınlığa kavuştuğunu duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-omer-senol-cinayetinde-sir-perdesi-aralandi-4-supheli-tutuklandi-43343643",
-   "zaman": "2026-10-16T10:22:00+03:00",
-   "kelimeler": [
-    "arala",
-    "bakan",
-    "cinay",
-    "duyur",
-    "gurle",
-    "omer",
-    "perde",
-    "senol",
-    "sir",
-    "suphe",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "791b4f9821c8": {
    "id": "791b4f9821c8",
    "kaynak": "Hürriyet",
@@ -6526,7 +6503,10 @@
     "mevsi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "83d4c33f2cbe": {
    "id": "83d4c33f2cbe",
@@ -10133,7 +10113,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "79e0f5b72352": {
@@ -11053,9 +11034,232 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "a7e813f61730"
+  },
+  "92074672114a": {
+   "id": "92074672114a",
+   "kaynak": "TRT Haber",
+   "baslik": "İklim değişikliği Norveçte içme suyunu kullanılamaz hale getirdi",
+   "ozet": "Norveç'in Svalbard takımadalarında bulunan Longyearbyen kasabasında yaşayanlara, sudaki ağır metal kirliliği nedeniyle musluk suyunu içmemeleri uyarısı yapıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/iklim-degisikligi-norvecte-icme-suyunu-kullanilamaz-hale-getirdi-960502.html",
+   "zaman": "2026-10-19T09:56:00+03:00",
+   "kelimeler": [
+    "degis",
+    "getir",
+    "hale",
+    "icme",
+    "iklim",
+    "kulla",
+    "norve",
+    "suyun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "163a4f9f17b3": {
+   "id": "163a4f9f17b3",
+   "kaynak": "Hürriyet",
+   "baslik": "\"İmdat polis yok mu\" diye feryat etmişti: Tabeladan düşen kadın hastanelik oldu",
+   "ozet": "İstanbul, Beyoğlu'nda odasının penceresinden otel tabelasına çıkan Deniz Ece Y., \"İmdat polis yok mu\" diye bağırarak yardım istedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/imdat-polis-yok-mu-diye-feryat-etmisti-tabeladan-dusen-kadin-hastanelik-oldu-43346828",
+   "zaman": "2026-10-19T10:11:00+03:00",
+   "kelimeler": [
+    "diye",
+    "dusen",
+    "etmis",
+    "ferya",
+    "hasta",
+    "imdat",
+    "kadin",
+    "polis",
+    "tabel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "daba545d6441": {
+   "id": "daba545d6441",
+   "kaynak": "NTV",
+   "baslik": "Gümrüklerde 9 ayda 91,7 milyar liralık kaçak eşya ve uyuşturucu ele geçirildi",
+   "ozet": "Ticaret Bakanlığı, 2026'nın ilk 9 ayında düzenlenen 4 bin 890 operasyonda geçen yılın aynı dönemine göre yüzde 22 artışla 91,7 milyar liralık kaçak eşya ve uyuşturucu ele geçirildiğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/gumruklerde-9-ayda-917-milyar-liralik-kacak-esya-ve-uyusturucu-ele-gecirildi-1746954",
+   "zaman": "2026-10-19T10:15:41+03:00",
+   "kelimeler": [
+    "91",
+    "ayda",
+    "ele",
+    "esya",
+    "gecir",
+    "gumru",
+    "kacak",
+    "liral",
+    "milya",
+    "uyust"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "39ce253d867a"
+  },
+  "d36e2f98ee4d": {
+   "id": "d36e2f98ee4d",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'den Orta Doğu'daki vatandaşlarına dikkatli olmaları çağrısı",
+   "ozet": "ABD, Orta Doğu'daki vatandaşlarına havaalanı ve hava yolu operasyonları hakkındaki bilgileri takip etmeleri ve bölgedeki \"karmaşık\" güvenlik ortamı nedeniyle daha dikkatli olmaları çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-dikkatli-olmalari-cagrisi-960504.html",
+   "zaman": "2026-10-19T10:17:00+03:00",
+   "kelimeler": [
+    "abd",
+    "cagri",
+    "daki",
+    "den",
+    "dikka",
+    "dogu",
+    "olmal",
+    "orta",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "37253ad072eb": {
+   "id": "37253ad072eb",
+   "kaynak": "TRT Haber",
+   "baslik": "Otomobilin özel bölmesinden 40 kilo metamfetamin çıktı",
+   "ozet": "Bulgaristan'dan Türkiye'ye Dereköy Sınır Kapısı üzerinden giriş yapan otomobilde, özel bölmeye gizlenmiş 40 kilo 300 gram metamfetamin ele geçirildi. Olayla ilgili 2 yabancı uyruklu şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/otomobilin-ozel-bolmesinden-40-kilo-metamfetamin-cikti-960503.html",
+   "zaman": "2026-10-19T10:17:00+03:00",
+   "kelimeler": [
+    "40",
+    "bolme",
+    "cikti",
+    "kilo",
+    "metam",
+    "otomo",
+    "ozel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2cbd57a0b13a": {
+   "id": "2cbd57a0b13a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bartın'da kar sürprizi! Mevsimin ilk karı yağdı... Kar kalınlığı 10 santimetreye ulaştı",
+   "ozet": "Bartın'ın yüksek kesimlerine kar yağışı etkili oldu. Yaklaşık 18 saat boyunca etkili olan yağışta kar kalınlığı yer yer 10 santimetreye ulaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bartinda-kar-surprizi-mevsimin-ilk-kari-yagdi-kar-kalinligi-10-santimetreye-ulasti-43346836",
+   "zaman": "2026-10-19T10:17:59+03:00",
+   "kelimeler": [
+    "10",
+    "barti",
+    "ilk",
+    "kalin",
+    "kar",
+    "kari",
+    "mevsi",
+    "santi",
+    "surpr",
+    "ulast",
+    "yagdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6154f52fd229"
+  },
+  "f44cc924f987": {
+   "id": "f44cc924f987",
+   "kaynak": "AA",
+   "baslik": "ABD'den Orta Doğu'daki vatandaşlarına \"karmaşık\" güvenlik ortamı nedeniyle dikkatli olmaları çağrısı",
+   "ozet": "ABD, Orta Doğu'daki vatandaşlarına havaalanı ve hava yolu operasyonları hakkındaki bilgileri takip etmeleri ve bölgedeki \"karmaşık\" güvenlik ortamı nedeniyle daha dikkatli olmaları çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-karmasik-guvenlik-ortami-nedeniyle-dikkatli-olmalari-cagrisi/4093061",
+   "zaman": "2026-10-19T10:20:24+03:00",
+   "kelimeler": [
+    "abd",
+    "cagri",
+    "daki",
+    "den",
+    "dikka",
+    "dogu",
+    "guven",
+    "karma",
+    "neden",
+    "olmal",
+    "orta",
+    "ortam",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d36e2f98ee4d"
+  },
+  "2ba46df96644": {
+   "id": "2ba46df96644",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş, Aliya İzetbegoviç'i andı",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, vefatının 23. yılı dolayısıyla Bosna Hersek'in ilk Cumhurbaşkanı Aliya İzetbegoviç'i anma mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-aliya-izetbegovici-andi/4093063",
+   "zaman": "2026-10-19T10:23:05+03:00",
+   "kelimeler": [
+    "aliya",
+    "andi",
+    "baska",
+    "izetb",
+    "kurtu",
+    "tbmm"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "dd799410a536": {
+   "id": "dd799410a536",
+   "kaynak": "AA",
+   "baslik": "Tarımsal girdi fiyat endeksi ağustosta yıllık bazda yüzde 30,28, aylık yüzde 3,41 arttı",
+   "ozet": "Tarımsal girdi fiyat endeksi (Tarım-GFE), ağustosta yıllık bazda yüzde 30,28, aylık bazda yüzde 3,41 artış gösterdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tarimsal-girdi-fiyat-endeksi-agustosta-yillik-bazda-yuzde-30-28-aylik-yuzde-3-41-artti/4093064",
+   "zaman": "2026-10-19T10:24:17+03:00",
+   "kelimeler": [
+    "28",
+    "30",
+    "41",
+    "agust",
+    "artti",
+    "aylik",
+    "bazda",
+    "endek",
+    "fiyat",
+    "girdi",
+    "tarim",
+    "yilli",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aecd535c3886": {
+   "id": "aecd535c3886",
+   "kaynak": "Hürriyet",
+   "baslik": "Etkinlikteki tavuklu pilav hastanelik etti: Şikayet sayısı 182 'ye yükseldi",
+   "ozet": "Bursa’nın İnegöl ilçesinde düzenlenen etkinliğe katılan çok sayıda vatandaş hastanelik oldu. Tavuk pilav yedikten sonra mide bulantısı ve kusma şikayetiyle hastaneye başvuranların sayısı 182'ye yükseldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/etkinlikteki-tavuklu-pilav-hastanelik-etti-sikayet-sayisi-182-ye-yukseldi-43346843",
+   "zaman": "2026-10-19T10:25:00+03:00",
+   "kelimeler": [
+    "182",
+    "etkin",
+    "etti",
+    "hasta",
+    "pilav",
+    "sayis",
+    "sikay",
+    "tavuk",
+    "ye",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 10:31:15  7 yeni haber",
   "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu",
   "19.10 10:15:56  6 yeni haber",
   "19.10 10:01:19  3 yeni haber",
@@ -11254,8 +11458,7 @@
   "17.10 08:01:27  1 yeni haber",
   "17.10 07:46:54  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
   "17.10 07:45:50  2 yeni haber",
-  "17.10 07:17:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Kara para ağı iddiasına soruşturma",
-  "17.10 07:15:58  14 yeni haber"
+  "17.10 07:17:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Kara para ağı iddiasına soruşturma"
  ],
  "otomatik": false
 }
