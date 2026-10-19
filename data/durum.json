@@ -15894,8 +15894,17 @@
     "sonuc",
     "sorgu"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-20T01:19:36.440095+03:00",
+   "ig_id": "18109584143577914",
+   "reels_id": "18121421831515504",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1620586533093965",
+   "slayt": 6,
+   "kanca": "BÜYÜK İKRAMİYE HEYECANI"
   },
   "b72c43076926": {
    "id": "b72c43076926",
@@ -16156,7 +16165,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "5e562eeec533": {
    "id": "5e562eeec533",
@@ -16338,9 +16350,34 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9c42419cd46c"
+  },
+  "6bdac9b45870": {
+   "id": "6bdac9b45870",
+   "kaynak": "Hürriyet",
+   "baslik": "Resmi Gazete'de kritik atamalar… Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
+   "ozet": "RESMİ Gazete’de yayımlanan atama kararlarına göre, Hazine ve Maliye Bakanlığı Bakan Yardımcılığına Strateji ve Bütçe Başkanlığı Başkan Yardımcısı Kutluhan Taşkın atanırken, Sermaye Piyasası Kurulu Başkanı Mahmut Sütcü ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulu…",
+   "link": "https://www.hurriyet.com.tr/gundem/resmi-gazetede-kritik-atamalar-spk-baskani-sutcu-gorevden-alindi-hazine-ve-maliye-bakan-yardimciligina-taskin-atandi-43347887",
+   "zaman": "2026-10-20T00:49:00+03:00",
+   "kelimeler": [
+    "atama",
+    "atand",
+    "bakan",
+    "gazet",
+    "hazin",
+    "kriti",
+    "kutlu",
+    "maliy",
+    "resmi",
+    "taski",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5ebf1a678b8b"
   }
  },
  "kayit": [
+  "20.10 01:19:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 19 Ekim 2",
   "20.10 00:48:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Atama ve görevden alma kararları Resmi Gazete'de",
   "20.10 00:31:14  3 yeni haber",
   "20.10 00:18:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Ev hapsinde gözaltına alınan Murat Ağırel tutuklandı",
@@ -16539,8 +16576,7 @@
   "17.10 22:58:15  1 yeni haber",
   "17.10 22:50:04  1 yeni haber",
   "17.10 22:31:09  18 yeni haber",
-  "17.10 22:17:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · Polis Özel Harekat, uluslararası keskin nişancı yarışmasında birinci o",
-  "17.10 21:52:09  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · CHP’den istifa eden belediye başkanı YENİ Parti’ye geçti"
+  "17.10 22:17:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · Polis Özel Harekat, uluslararası keskin nişancı yarışmasında birinci o"
  ],
  "otomatik": false
 }
