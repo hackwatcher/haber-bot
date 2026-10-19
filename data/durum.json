@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "2ccf145ac120": {
-   "id": "2ccf145ac120",
-   "kaynak": "Hürriyet",
-   "baslik": "23 yaşındaki Merve'den acı haber: 17 gün sonra hayatını kaybetti",
-   "ozet": "Bartın’da tünel çıkışında yolcu minibüsünün TIR’a çarptığı kazada yaralanan Merve Yurdakul (23), tedavi gördüğü hastanede 17 gün sonra hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/23-yasindaki-merveden-aci-haber-17-gun-sonra-hayatini-kaybetti-43343572",
-   "zaman": "2026-10-16T09:37:05+03:00",
-   "kelimeler": [
-    "17",
-    "23",
-    "aci",
-    "den",
-    "gun",
-    "hayat",
-    "kaybe",
-    "merve",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "35604e5ce49a": {
    "id": "35604e5ce49a",
    "kaynak": "Hürriyet",
@@ -10263,7 +10242,10 @@
     "suphe"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "01afdc080aeb": {
    "id": "01afdc080aeb",
@@ -10674,9 +10656,159 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f9ceb3b88c03"
+  },
+  "31e888a28dde": {
+   "id": "31e888a28dde",
+   "kaynak": "TRT Haber",
+   "baslik": "Macron: Cumhuriyeti devirmeye çalışanlar bunun hesabını vermeli",
+   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, ülkesinde devam eden protestolarla ilgili, \"Yıkanlar bunun maliyetini ödemeli. Cumhuriyeti devirmeye çalışanlar bunun hesabını vermeli\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/macron-cumhuriyeti-devirmeye-calisanlar-bunun-hesabini-vermeli-960495.html",
+   "zaman": "2026-10-19T09:29:00+03:00",
+   "kelimeler": [
+    "bunun",
+    "calis",
+    "cumhu",
+    "devir",
+    "hesab",
+    "macro",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4f6665dc9d86": {
+   "id": "4f6665dc9d86",
+   "kaynak": "AA",
+   "baslik": "Tayland'da şiddetli yağışların yol açtığı sellerde son bir ayda 80 kişi öldü",
+   "ozet": "Tayland'da ülke genelinde şiddetli yağışlar sonucu meydana gelen sellerde son bir ayda 80 kişi hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/taylandda-siddetli-yagislarin-yol-actigi-sellerde-son-bir-ayda-80-kisi-oldu/4093004",
+   "zaman": "2026-10-19T09:29:29+03:00",
+   "kelimeler": [
+    "80",
+    "actig",
+    "ayda",
+    "kisi",
+    "selle",
+    "sidde",
+    "tayla",
+    "yagis",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a7e813f61730": {
+   "id": "a7e813f61730",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde yarın Slavia Prag'ı konuk edecek",
+   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Çekya temsilcisi Slavia Prag'ı ağırlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-uefa-sampiyonlar-liginde-yarin-slavia-pragi-konuk-edecek/4093005",
+   "zaman": "2026-10-19T09:30:44+03:00",
+   "kelimeler": [
+    "edece",
+    "fener",
+    "konuk",
+    "ligi",
+    "nde",
+    "prag",
+    "sampi",
+    "slavi",
+    "uefa",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "dc0fb2fa9a72": {
+   "id": "dc0fb2fa9a72",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın güne yükselişle başladı, işte fiyatlar...",
+   "ozet": "Gram altın, haftanın ilk gününe yükselişle başlamasının ardından 6 bin 655 liradan işlem görüyor. Çeyrek altın 10 bin 900 liradan, cumhuriyet altını 43 bin 399 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-yukselisle-basladi-iste-fiyatlar-960496.html",
+   "zaman": "2026-10-19T09:32:00+03:00",
+   "kelimeler": [
+    "altin",
+    "basla",
+    "fiyat",
+    "gune",
+    "iste",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "357f6783a5e6": {
+   "id": "357f6783a5e6",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Mars'ın uydusundan parça almayı amaçlayan uzay aracı bugün fırlatılıyor",
+   "ozet": "Bir uzay aracı, Mars uydusundan 10 gram toz alıp Dünya'ya geri getirmek üzere iddialı bir görev için fırlatılmaya hazırlanıyor.",
+   "link": "https://www.bbc.com/turkce/articles/c933x6p8rgp3o",
+   "zaman": "2026-10-19T09:32:11+03:00",
+   "kelimeler": [
+    "almay",
+    "amacl",
+    "araci",
+    "bugun",
+    "firla",
+    "in",
+    "mars",
+    "parca",
+    "uydus",
+    "uzay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "45a2bd3904ab": {
+   "id": "45a2bd3904ab",
+   "kaynak": "Hürriyet",
+   "baslik": "Kara para aklama soruşturması: Emir Sarıgül teslim oldu! Gözaltındaki 17 kişi adliyeye sevk edildi",
+   "ozet": "Kara para aklama soruşturmasında hakkında gözaltı kararı bulunan Emir Sarıgül emniyete giderek teslim olurken daha soruşturma kapsamında gözaltına alınan aralarında Murat Ağırel, Ömer Sarıgül, Aylin Kotil, Volkan Aslanbaş, Cavidan Tanrah Artuner’in bulunduğu 17 kişi adliyeye…",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-teslim-oldu-gozaltindaki-17-kisi-adliyeye-sevk-edildi-43346757",
+   "zaman": "2026-10-19T09:35:46+03:00",
+   "kelimeler": [
+    "17",
+    "adliy",
+    "aklam",
+    "edild",
+    "emir",
+    "gozal",
+    "kara",
+    "kisi",
+    "para",
+    "sarig",
+    "sevk",
+    "sorus",
+    "tesli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "79e0f5b72352"
+  },
+  "6bf87704c0da": {
+   "id": "6bf87704c0da",
+   "kaynak": "AA",
+   "baslik": "Ekvador'da ayin sırasında üzerine haç devrilen rahip hayatını kaybetti",
+   "ozet": "Güney Amerika ülkesi Ekvador'da canlı yayınlanan ayin sırasında üzerine büyük bir ahşap haç devrilen rahip yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ekvadorda-ayin-sirasinda-uzerine-hac-devrilen-rahip-hayatini-kaybetti/4093016",
+   "zaman": "2026-10-19T09:40:10+03:00",
+   "kelimeler": [
+    "ayin",
+    "devri",
+    "ekvad",
+    "hac",
+    "hayat",
+    "kaybe",
+    "rahip",
+    "siras",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 09:45:54  6 yeni haber",
   "19.10 09:31:10  5 yeni haber",
   "19.10 09:16:01  3 yeni haber",
   "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
@@ -10875,8 +11007,7 @@
   "17.10 07:15:58  14 yeni haber",
   "17.10 02:44:51  2 yeni haber",
   "17.10 02:16:13  1 yeni haber",
-  "17.10 02:16:13  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 01:17:17  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · 31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de"
+  "17.10 02:16:13  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss"
  ],
  "otomatik": false
 }
