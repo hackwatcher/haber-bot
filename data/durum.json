@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "5ffc7666257a": {
-   "id": "5ffc7666257a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "AKP yönetiminden Azerbaycan açıklaması: Sorunlarımızı aile içinde konuşuruz",
-   "ozet": "AKP Genel Başkan Yardımcısı Kürşad Zorlu, Türkiye ve Azerbaycan ilişkilerinde gerilim yaratan konulara değinmeden, \"Devletlerimizin ilerleyiş tarzında farklılıklar olabilir\" açıklaması yaptı.",
-   "link": "https://www.bbc.com/turkce/articles/cmrly08xjerro",
-   "zaman": "2026-10-16T09:19:42+03:00",
-   "kelimeler": [
-    "acikl",
-    "aile",
-    "akp",
-    "azerb",
-    "icind",
-    "konus",
-    "sorun",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "bfc6e8161705": {
-   "id": "bfc6e8161705",
-   "kaynak": "Hürriyet",
-   "baslik": "1 milyondan fazla SMS gönderip Euro üzerinden para kazanmışlar: İstanbul merkezli yasa dışı operasyonda 24 gözaltı",
-   "ozet": "İstanbul'da yasa dışı bahis içerikli 1 milyondan fazla SMS gönderildiği tespit edildi. Şüphelilerin, telefonlarına yükledikleri uygulama üzerinden farklı kişilere ait GSM hatlarını kullanarak mesaj başına 0,005 ile 0,01 Euro arasında kazanç sağladıkları belirlendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/1-milyondan-fazla-ayni-smsi-gondermisler-istanbul-merkezli-operasyonda-24-gozalti-43343553",
-   "zaman": "2026-10-16T09:25:00+03:00",
-   "kelimeler": [
-    "24",
-    "disi",
-    "euro",
-    "fazla",
-    "gonde",
-    "gozal",
-    "istan",
-    "kazan",
-    "merke",
-    "milyo",
-    "opera",
-    "para",
-    "sms",
-    "uzeri",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2ccf145ac120": {
    "id": "2ccf145ac120",
    "kaynak": "Hürriyet",
@@ -7376,7 +7329,8 @@
     "zaman"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "bf4a6726df87": {
    "id": "bf4a6726df87",
@@ -10285,7 +10239,10 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "79e0f5b72352": {
    "id": "79e0f5b72352",
@@ -10503,9 +10460,179 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "fefcee779885"
+  },
+  "0f46c382cff5": {
+   "id": "0f46c382cff5",
+   "kaynak": "TRT Haber",
+   "baslik": "14 ilde yasa dışı üreme hücresi ticareti operasyonu: 36 gözaltı",
+   "ozet": "Adalet Bakanı Akın Gürlek, kadınları yasa dışı üreme hücresi ticaretine yönlendiren suç örgütüne yönelik İstanbul merkezli 14 ilde gerçekleştirilen eş zamanlı operasyonda 36 şüphelinin gözaltına alındığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/14-ilde-yasa-disi-ureme-hucresi-ticareti-operasyonu-36-gozalti-960492.html",
+   "zaman": "2026-10-19T09:09:00+03:00",
+   "kelimeler": [
+    "14",
+    "36",
+    "disi",
+    "gozal",
+    "hucre",
+    "ilde",
+    "opera",
+    "ticar",
+    "ureme",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "34c3c01b985f": {
+   "id": "34c3c01b985f",
+   "kaynak": "Hürriyet",
+   "baslik": "1,5 milyon kişi bu sistemde! Faizsiz ev ve araba almak isteyenler için yeni kurallar: GYODER, OYDER ve hukuk uzmanı tasarruf finansman modelini anlattı",
+   "ozet": "Faiz ödemeden ev ya da otomobil sahibi olmayı sağlayan tasarruf finansman sisteminde kurallar 1 Ekim'de değişti.",
+   "link": "https://www.hurriyet.com.tr/gundem/1-5-milyon-kisi-bu-sistemde-faizsiz-ev-ve-araba-almak-isteyenler-ne-bilmeli-uzmanlar-tasarruf-finansman-modelini-anlatti-43342367",
+   "zaman": "2026-10-19T09:14:00+03:00",
+   "kelimeler": [
+    "almak",
+    "anlat",
+    "araba",
+    "ev",
+    "faizs",
+    "finan",
+    "gyode",
+    "hukuk",
+    "istey",
+    "kisi",
+    "kural",
+    "milyo",
+    "model",
+    "oyder",
+    "siste",
+    "tasar",
+    "uzman",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f97b3581d8a2": {
+   "id": "f97b3581d8a2",
+   "kaynak": "NTV",
+   "baslik": "Milyonlarca öğrenci bekliyor. 2026 GSB KYK burs sonuçları açıklandı mı, ne zaman açıklanır?",
+   "ozet": "Gençlik ve Spor Bakanlığı'na (GSB) bağlı Kredi ve Yurtlar Kurumu (KYK) tarafından öğrencilere verilecek burslar için tarih araştırmaları sürüyor. 12-16 Ekim tarihinde tamamlanan KYK burs başvurularının ardından tüm gözler sonuçların açıklanacağı tarihe çevrildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-milyonlarca-ogrenci-bekliyor-2026-gsb-kyk-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanir-1746943",
+   "zaman": "2026-10-19T09:15:51+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "bekli",
+    "burs",
+    "gsb",
+    "kyk",
+    "milyo",
+    "ogren",
+    "sonuc",
+    "zaman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ec568f7dfb04"
+  },
+  "418cd240c5a1": {
+   "id": "418cd240c5a1",
+   "kaynak": "AA",
+   "baslik": "Putin'in Ukrayna ile ilgili Şi ve Trump ile Çin'de üçlü görüşme yapmayı önerdiği iddia edildi",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin'in, Rusya-Ukrayna Savaşı'nı bitirmeye yönelik Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump ile Çin'de bir araya gelmeyi önerdiği ileri sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/putinin-ukrayna-ile-ilgili-si-ve-trump-ile-cinde-uclu-gorusme-yapmayi-onerdigi-iddia-edildi/4092992",
+   "zaman": "2026-10-19T09:16:10+03:00",
+   "kelimeler": [
+    "cin",
+    "edild",
+    "gorus",
+    "iddia",
+    "ilgil",
+    "in",
+    "onerd",
+    "putin",
+    "si",
+    "trump",
+    "uclu",
+    "ukray",
+    "yapma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7ad3aa376bb4": {
+   "id": "7ad3aa376bb4",
+   "kaynak": "TRT Haber",
+   "baslik": "Gümrüklerde 91,7 milyar liralık kaçak eşya ve uyuşturucu ele geçirildi",
+   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü ekiplerince, ocakeylül döneminde düzenlenen 4 bin 890 operasyonda 91 milyar 720 milyon liralık kaçak eşya ve uyuşturucu maddeye el konuldu.",
+   "link": "https://www.trthaber.com/haber/gundem/gumruklerde-917-milyar-liralik-kacak-esya-ve-uyusturucu-ele-gecirildi-960493.html",
+   "zaman": "2026-10-19T09:18:00+03:00",
+   "kelimeler": [
+    "91",
+    "ele",
+    "esya",
+    "gecir",
+    "gumru",
+    "kacak",
+    "liral",
+    "milya",
+    "uyust"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "39ce253d867a"
+  },
+  "6318f43492f8": {
+   "id": "6318f43492f8",
+   "kaynak": "AA",
+   "baslik": "Ticaret Bakanlığı ekipleri 9 ayda 91,7 milyar liralık kaçak eşya ve uyuşturucu ele geçirdi",
+   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü ekiplerince, ocak-eylül döneminde düzenlenen 4 bin 890 operasyonda 91 milyar 720 milyon liralık kaçak eşya ve uyuşturucu maddeye el konuldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-ekipleri-9-ayda-91-7-milyar-liralik-kacak-esya-ve-uyusturucu-ele-gecirdi/4092995",
+   "zaman": "2026-10-19T09:19:37+03:00",
+   "kelimeler": [
+    "91",
+    "ayda",
+    "bakan",
+    "ekipl",
+    "ele",
+    "esya",
+    "gecir",
+    "kacak",
+    "liral",
+    "milya",
+    "ticar",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "65585d1a868d": {
+   "id": "65585d1a868d",
+   "kaynak": "AA",
+   "baslik": "Roma'daki \"Troya ve Roma: Antik Akdeniz Mitleri, Efsaneleri, Hikayeleri\" sergisi sona erdi",
+   "ozet": "İtalya'nın başkenti Roma'nın dünyaca ünlü simge yapılarından Kolezyum'da Kültür ve Turizm Bakanlığınca açılan \"Troya ve Roma: Antik Akdeniz Mitleri, Efsaneleri, Hikayeleri\" sergisi sona erdi.",
+   "link": "https://www.aa.com.tr/tr/kultur/romadaki-troya-ve-roma-antik-akdeniz-mitleri-efsaneleri-hikayeleri-sergisi-sona-erdi/4092996",
+   "zaman": "2026-10-19T09:20:08+03:00",
+   "kelimeler": [
+    "akden",
+    "antik",
+    "daki",
+    "efsan",
+    "erdi",
+    "hikay",
+    "mitle",
+    "roma",
+    "sergi",
+    "sona",
+    "troya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 09:31:10  5 yeni haber",
   "19.10 09:16:01  3 yeni haber",
   "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
   "19.10 09:01:20  4 yeni haber",
@@ -10704,8 +10831,7 @@
   "17.10 02:44:51  2 yeni haber",
   "17.10 02:16:13  1 yeni haber",
   "17.10 02:16:13  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 01:17:17  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · 31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
-  "17.10 01:15:59  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
+  "17.10 01:17:17  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · 31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de"
  ],
  "otomatik": false
 }
