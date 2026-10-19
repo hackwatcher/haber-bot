@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "019fc9a5714e": {
-   "id": "019fc9a5714e",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Çözüm sürecinde dönüş takvimi: DEM Parti'nin beklentisi ne?",
-   "ozet": "Silahsızlanma sürecinin ardından PKK'lıların dönüşünün nasıl ve ne zaman gerçekleşeceği tartışılıyor. DEM Parti kaynakları, ilk etapta 200 ila 400 kişinin dönüşünün söz konusu olabileceğini öngörüyor. Ankara'dan Ayşe Sayın'ın haberi.",
-   "link": "https://www.bbc.com/turkce/articles/crz98kgldqxxo",
-   "zaman": "2026-10-16T15:05:26+03:00",
-   "kelimeler": [
-    "bekle",
-    "cozum",
-    "dem",
-    "donus",
-    "nin",
-    "parti",
-    "surec",
-    "takvi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8d60d8425c52": {
-   "id": "8d60d8425c52",
-   "kaynak": "Hürriyet",
-   "baslik": "AK Parti Sözcüsü Çelik'ten yazar Cevat Özkaya için taziye mesajı",
-   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, vefat eden yazar Cevat Özkaya'ya Allah'tan rahmet, ailesine başsağlığı diledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-yazar-cevat-ozkaya-icin-taziye-mesaji-43344201",
-   "zaman": "2026-10-16T15:13:35+03:00",
-   "kelimeler": [
-    "ak",
-    "celik",
-    "cevat",
-    "mesaj",
-    "ozkay",
-    "parti",
-    "sozcu",
-    "taziy",
-    "ten",
-    "yazar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "7c5aba98b962": {
    "id": "7c5aba98b962",
    "kaynak": "Hürriyet",
@@ -13466,7 +13421,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dba256ab8422": {
    "id": "dba256ab8422",
@@ -13526,9 +13484,186 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "aa3e427deeb2": {
+   "id": "aa3e427deeb2",
+   "kaynak": "AA",
+   "baslik": "Sis altında kalan Sandal Divlit Volkanı havadan görüntülendi",
+   "ozet": "Manisa'nın Kula ilçesindeki Sandal Divlit Volkanı, üzerini saran sisle görüntülendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/sis-altinda-kalan-sandal-divlit-volkani-havadan-goruntulendi/4093263",
+   "zaman": "2026-10-19T13:01:32+03:00",
+   "kelimeler": [
+    "altin",
+    "divli",
+    "gorun",
+    "havad",
+    "kalan",
+    "sanda",
+    "sis",
+    "volka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "83b8280f9544": {
+   "id": "83b8280f9544",
+   "kaynak": "AA",
+   "baslik": "Mersin'de Çeşmeli-Taşucu Otoyolu'nun yapımı tamamlanan Kızkalesi kesimi trafiğe açıldı",
+   "ozet": "Mersin'de Çeşmeli-Erdemli-Silifke-Taşucu Otoyolu Projesi'nin yapımı tamamlanan 52 kilometrelik Çeşmeli-Kızkalesi kesimi trafiğe açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mersinde-cesmeli-tasucu-otoyolunun-yapimi-tamamlanan-kizkalesi-kesimi-trafige-acildi/4093309",
+   "zaman": "2026-10-19T13:39:40+03:00",
+   "kelimeler": [
+    "acild",
+    "cesme",
+    "kesim",
+    "kizka",
+    "mersi",
+    "nun",
+    "otoyo",
+    "tamam",
+    "tasuc",
+    "trafi",
+    "yapim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "be34e4ce0477": {
+   "id": "be34e4ce0477",
+   "kaynak": "AA",
+   "baslik": "Yurdun iç ve batı kesimlerinde cuma gününe kadar yağış beklenmiyor",
+   "ozet": "Yurdun iç ve batı kesimlerinde cuma gününe kadar yağış beklenmezken, hava sıcaklıklarının ülke genelinde mevsim normalleri civarında seyredeceği tahmin ediliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-ic-ve-bati-kesimlerinde-cuma-gunune-kadar-yagis-beklenmiyor/4093378",
+   "zaman": "2026-10-19T14:27:07+03:00",
+   "kelimeler": [
+    "bati",
+    "bekle",
+    "cuma",
+    "gunun",
+    "ic",
+    "kesim",
+    "yagis",
+    "yurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "57ce255f9146": {
+   "id": "57ce255f9146",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da selden etkilenen Şile'de temizlik çalışmaları sürüyor",
+   "ozet": "İstanbul'da sağanağın ardından meydana gelen sel ve su baskınlarından etkilenen Şile'de temizlik, bakım ve onarım çalışmaları devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-selden-etkilenen-silede-temizlik-calismalari-suruyor/4093429",
+   "zaman": "2026-10-19T14:39:49+03:00",
+   "kelimeler": [
+    "calis",
+    "etkil",
+    "istan",
+    "selde",
+    "sile",
+    "suruy",
+    "temiz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c2f2a69453b1": {
+   "id": "c2f2a69453b1",
+   "kaynak": "TRT Haber",
+   "baslik": "Sıcaklıklar hafta sonuna kadar mevsim normallerinde seyredecek",
+   "ozet": "Yurdun iç ve batı kesimlerinde cuma gününe kadar yağış beklenmediği, Doğu Karadeniz ile Doğu Anadolu'nun doğusunda ise sağanak görüleceği tahmin ediliyor. Sıcaklıkların İstanbul'da 2022, Ankara'da 1819, İzmir'de 2427 derece arasında seyretmesi öngörülüyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/sicakliklar-hafta-sonuna-kadar-mevsim-normallerinde-seyredecek-960531.html",
+   "zaman": "2026-10-19T14:48:00+03:00",
+   "kelimeler": [
+    "hafta",
+    "mevsi",
+    "norma",
+    "seyre",
+    "sicak",
+    "sonun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1d6575f5c988": {
+   "id": "1d6575f5c988",
+   "kaynak": "TRT Haber",
+   "baslik": "Tasarruf finansmanında rekor büyüme: İşlem hacmi 1,2 trilyon lirayı aştı",
+   "ozet": "Türkiye'de tasarruf finansman sektörünün işlem hacmi geçen yıl yüzde 261,8 artışla 1 trilyon 211 milyar liraya yükseldi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/tasarruf-finansmaninda-rekor-buyume-islem-hacmi-12-trilyon-lirayi-asti-960530.html",
+   "zaman": "2026-10-19T14:59:00+03:00",
+   "kelimeler": [
+    "asti",
+    "buyum",
+    "finan",
+    "hacmi",
+    "islem",
+    "liray",
+    "rekor",
+    "tasar",
+    "trily"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c53f0da35d53"
+  },
+  "d389196a8feb": {
+   "id": "d389196a8feb",
+   "kaynak": "AA",
+   "baslik": "Almanya'dan Fransa için seyahat uyarısı",
+   "ozet": "Almanya, şiddetli kitlesel protestoların düzenlendiği Fransa için seyahat uyarısı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyadan-fransa-icin-seyahat-uyarisi/4093464",
+   "zaman": "2026-10-19T14:59:43+03:00",
+   "kelimeler": [
+    "alman",
+    "dan",
+    "frans",
+    "seyah",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e019516cc31d": {
+   "id": "e019516cc31d",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da bu hafta birçok etkinlik sanatseverlerle buluşacak",
+   "ozet": "İstanbul'da bu hafta müzikten tiyatroya, sergiden çocuk atölyelerine kadar geniş bir yelpazede çok sayıda kültür sanat etkinliği gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/kultur/istanbulda-bu-hafta-bircok-etkinlik-sanatseverlerle-bulusacak/4093466",
+   "zaman": "2026-10-19T15:00:50+03:00",
+   "kelimeler": [
+    "birco",
+    "bulus",
+    "etkin",
+    "hafta",
+    "istan",
+    "sanat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e810b5f85f61": {
+   "id": "e810b5f85f61",
+   "kaynak": "Hürriyet",
+   "baslik": "Diyarbakır'da otomobilin bagajına giren yılanı esnaf çıkardı",
+   "ozet": "Diyarbakır’ın Çermik ilçesinde bir otomobilin bagajına yılan girdi. Esnaf tarafından bagajdan çıkarılan yılan, doğal yaşam alanına bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-otomobilin-bagajina-giren-yilani-esnaf-cikardi-43347358",
+   "zaman": "2026-10-19T15:05:10+03:00",
+   "kelimeler": [
+    "bagaj",
+    "cikar",
+    "diyar",
+    "esnaf",
+    "giren",
+    "otomo",
+    "yilan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 15:16:11  8 yeni haber",
   "19.10 15:01:29  6 yeni haber",
   "19.10 14:45:54  5 yeni haber",
   "19.10 14:31:17  8 yeni haber",
@@ -13727,8 +13862,7 @@
   "17.10 12:46:01  1 yeni haber",
   "17.10 12:31:57  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Zonguldak'ta sağanağın ardından denize sürüklenen çöpler kıyıya vurdu",
   "17.10 12:31:04  2 yeni haber",
-  "17.10 12:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Demirören Yayınları’ndan Mimar Sinan’ın eserlerini bir araya getiren k",
-  "17.10 12:01:19  1 yeni haber"
+  "17.10 12:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Demirören Yayınları’ndan Mimar Sinan’ın eserlerini bir araya getiren k"
  ],
  "otomatik": false
 }
