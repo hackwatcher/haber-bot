@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "a1bdbc9797e8": {
-   "id": "a1bdbc9797e8",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da FETÖ operasyonu: 19 şüpheli yakalandı",
-   "ozet": "İstanbul'da Fetullahçı Terör Örgütü'ne (FETÖ) yönelik operasyonda biri aktif kamu görevlisi 19 zanlı gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-feto-operasyonu-19-supheli-yakalandi-43343517",
-   "zaman": "2026-10-16T08:32:00+03:00",
-   "kelimeler": [
-    "19",
-    "feto",
-    "istan",
-    "opera",
-    "suphe",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d575f16e37cc": {
-   "id": "d575f16e37cc",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Murat Ağırel ev hapsindeyken gözaltına alındı",
-   "ozet": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo",
-   "zaman": "2026-10-16T08:42:03+03:00",
-   "kelimeler": [
-    "agire",
-    "alind",
-    "ev",
-    "gozal",
-    "hapsi",
-    "murat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "68ff540b92e0": {
-   "id": "68ff540b92e0",
-   "kaynak": "Sözcü",
-   "baslik": "M7 Yıldız–Mahmutbey Metro Hattı’nın açılış tarihi belli oldu",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/m7-yildiz-mahmutbey-metro-hatti-nin-acilis-tarihi-belli-oldu-p369678",
-   "zaman": "2026-10-16T08:44:43+03:00",
-   "kelimeler": [
-    "acili",
-    "belli",
-    "hatti",
-    "m7",
-    "mahmu",
-    "metro",
-    "nin",
-    "tarih",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a382404bc613": {
    "id": "a382404bc613",
    "kaynak": "Hürriyet",
@@ -10271,9 +10214,97 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f9ceb3b88c03"
+  },
+  "503a30fc17fd": {
+   "id": "503a30fc17fd",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbuldaki selde can kaybı 6ya yükseldi",
+   "ozet": "İstanbuldaki selde hayatını kaybedenlerin sayısı 6ya yükseldi. Ayvansaray Vapur İskelesi yakınlarında bir cansız beden bulundu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-selde-can-kaybi-6ya-yukseldi-960490.html",
+   "zaman": "2026-10-19T08:31:00+03:00",
+   "kelimeler": [
+    "6ya",
+    "can",
+    "istan",
+    "kaybi",
+    "selde",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
+  },
+  "6a3eab792433": {
+   "id": "6a3eab792433",
+   "kaynak": "Hürriyet",
+   "baslik": "Alihan Kuriş suç örgütü soruşturmasında yeni operasyon",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı tarafından liderliğini Alihan Kuriş’in yaptığı öne sürülen suç örgütüne yönelik Ankara merkezli 12 ilde düzenlenen operasyonda, 38 şüpheliden 22’si gözaltına alındı. 14 şüphelinin yurt dışında olduğu belirlenirken, 2 şüpheli aranıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-yeni-operasyon-43346702",
+   "zaman": "2026-10-19T08:33:56+03:00",
+   "kelimeler": [
+    "aliha",
+    "kuris",
+    "opera",
+    "orgut",
+    "sorus",
+    "suc",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "56db25e4c49b": {
+   "id": "56db25e4c49b",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da sel faciasında can kaybı 6'ya yükseldi",
+   "ozet": "İstanbul'da meydana gelen sel felaketinde can kaybı 6'ya çıktı. Kayıp bir kişiyi arama çalışması sürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-sel-faciasinda-can-kaybi-6ya-yukseldi-43346704",
+   "zaman": "2026-10-19T08:39:00+03:00",
+   "kelimeler": [
+    "can",
+    "facia",
+    "istan",
+    "kaybi",
+    "sel",
+    "ya",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
+  },
+  "b0e84ad29303": {
+   "id": "b0e84ad29303",
+   "kaynak": "NTV",
+   "baslik": "Alihan Kuriş suç örgütüne yeni dalga operasyon. 12 ilde 22 şüpheli gözaltına alındı",
+   "ozet": "Alihan Kuriş suç örgütüne yönelik Ankara merkezli 12 ilde düzenlenen operasyonda haklarında gözaltı kararı verilen 38 şüpheliden 22'si gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-alihan-kuris-suc-orgutune-yeni-dalga-operasyon-12-ilde-22-supheli-gozaltina-alindi-1746941",
+   "zaman": "2026-10-19T08:45:13+03:00",
+   "kelimeler": [
+    "12",
+    "22",
+    "aliha",
+    "alind",
+    "dalga",
+    "gozal",
+    "ilde",
+    "kuris",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6a3eab792433"
   }
  },
  "kayit": [
+  "19.10 08:46:08  1 yeni haber",
   "19.10 08:16:01  1 yeni haber",
   "19.10 08:01:22  1 yeni haber",
   "19.10 07:46:05  1 yeni haber",
@@ -10472,8 +10503,7 @@
   "17.10 01:15:59  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
   "17.10 01:01:12  1 yeni haber",
   "17.10 00:47:18  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de",
-  "17.10 00:46:00  1 yeni haber",
-  "17.10 00:02:43  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · SPK'dan 37 kişi hakkında suç duyurusu kararı"
+  "17.10 00:46:00  1 yeni haber"
  ],
  "otomatik": false
 }
