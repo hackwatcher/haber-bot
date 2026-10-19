@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "37f48ca67bc6": {
-   "id": "37f48ca67bc6",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Gürlek: Alo Adalet 135 artık 81 ilde",
-   "ozet": "Adalet Bakanı Akın Gürlek, \"1 Eylül’de Ankara Batı, İzmir ve Kayseri adliyelerinde pilot olarak uygulamaya aldığımız Alo Adalet 135 Hattı’nı, bugün itibarıyla 81 ilimizdeki tüm adliyelerde vatandaşlarımızın hizmetine sunuyoruz\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-alo-adalet-135-artik-81-ilde-43344093",
-   "zaman": "2026-10-16T14:07:28+03:00",
-   "kelimeler": [
-    "135",
-    "81",
-    "adale",
-    "alo",
-    "artik",
-    "bakan",
-    "gurle",
-    "ilde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4c3cc5524deb": {
-   "id": "4c3cc5524deb",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İmamoğlu'nun savunması: 'AKP döneminde 2,5 milyar dolarlık kamu zararı tespit ettik'",
-   "ozet": "İBB davasında savunmasını sürdüren Ekrem İmamoğlu, belediyenin AKP yönetimindeki dönemine ilişkin 33 dosyada toplam 2,5 milyar dolarlık kamu zararı tespit ettiklerini söyledi",
-   "link": "https://www.bbc.com/turkce/articles/c63dj1xgdkgxo",
-   "zaman": "2026-10-16T14:11:05+03:00",
-   "kelimeler": [
-    "akp",
-    "dolar",
-    "donem",
-    "ettik",
-    "imamo",
-    "kamu",
-    "milya",
-    "nun",
-    "savun",
-    "tespi",
-    "zarar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3531a76712f0": {
    "id": "3531a76712f0",
    "kaynak": "Hürriyet",
@@ -11838,8 +11795,20 @@
     "tarih",
     "ulasa"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ],
+   "paylasildi": "2026-10-19T14:19:01.875362+03:00",
+   "ig_id": "18127412113847743",
+   "reels_id": "18630716107020255",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "4189336941365450",
+   "slayt": 6,
+   "kanca": "DÜNYA NUTUK OKUYACAK"
   },
   "90539712be27": {
    "id": "90539712be27",
@@ -13145,9 +13114,188 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8d1347289daf": {
+   "id": "8d1347289daf",
+   "kaynak": "AA",
+   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, “Muhtarlar Günü Buluşması” programında konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4093319",
+   "zaman": "2026-10-19T13:46:43+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "99173966a10d"
+  },
+  "042dd447dc68": {
+   "id": "042dd447dc68",
+   "kaynak": "AA",
+   "baslik": "Atatürk'ün eseri \"Nutuk\" sekiz dilde dünyaya ulaşacak",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Atatürk'ün eseri Nutuk'un İngilizce, Almanca, Fransızca, Kazakça, Rusça, Urduca, Farsça ve Türkmence özel baskılarının hazırlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/kultur/ataturkun-eseri-nutuk-sekiz-dilde-dunyaya-ulasacak/4093324",
+   "zaman": "2026-10-19T13:49:20+03:00",
+   "kelimeler": [
+    "atatu",
+    "dilde",
+    "dunya",
+    "eseri",
+    "nutuk",
+    "sekiz",
+    "ulasa",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "860f7e329ecf"
+  },
+  "fe87f27a138c": {
+   "id": "fe87f27a138c",
+   "kaynak": "Hürriyet",
+   "baslik": "İZBETON yolsuzluk davasında flaş gelişme: İzmir Büyükşehir Belediyesi müdahillik istedi",
+   "ozet": "Araç kiralanması hizmet alımındaki usulsüzlük iddialarıyla 56 sanığın yargılandığı davada İzmir Büyükşehir Belediyesi suçtan zarar gören sıfatıyla davaya katılma talebinde bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/izbeton-yolsuzluk-davasinda-flas-gelisme-izmir-buyuksehir-belediyesi-mudahillik-istedi-43347231",
+   "zaman": "2026-10-19T13:53:00+03:00",
+   "kelimeler": [
+    "beled",
+    "buyuk",
+    "davas",
+    "gelis",
+    "isted",
+    "izbet",
+    "izmir",
+    "mudah",
+    "yolsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "868368f1546d": {
+   "id": "868368f1546d",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrailden Avusturyaya giden uçak bomba ihbarıyla Bulgaristana acil iniş yaptı",
+   "ozet": "İsrailden Avusturyaya gitmek üzere havalanan Austrian Airlinesa ait yolcu uçağı, bomba ihbarı üzerine Bulgaristana yönlendirilerek acil iniş yaptı.",
+   "link": "https://www.trthaber.com/haber/dunya/israilden-avusturyaya-giden-ucak-bomba-ihbariyla-bulgaristana-acil-inis-yapti-960524.html",
+   "zaman": "2026-10-19T13:57:00+03:00",
+   "kelimeler": [
+    "avust",
+    "bomba",
+    "bulga",
+    "giden",
+    "ihbar",
+    "inis",
+    "israi",
+    "ucak",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7f1e746ba598": {
+   "id": "7f1e746ba598",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde düzenlenen Muhtarlar Günü buluşmasında konuşuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-960525.html",
+   "zaman": "2026-10-19T14:02:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "99173966a10d"
+  },
+  "70918d42c35f": {
+   "id": "70918d42c35f",
+   "kaynak": "AA",
+   "baslik": "İstanbul Valisi Gül: İstanbul'da selden etkilenenlerin zararları bugün ödenmeye başlanacak",
+   "ozet": "İstanbul Valisi Davut Gül, kentte meydana gelen sel ve su baskınlarına ilişkin, \"Kabaca 3 bin ev ve iş yerinin ciddi anlamda zarar gördüğünü tespit ettik ve bunların zarar ziyanları da bugün itibarıyla ödenmeye başlanacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gul-istanbulda-selden-etkilenenlerin-zararlari-bugun-odenmeye-baslanacak/4093343",
+   "zaman": "2026-10-19T14:04:21+03:00",
+   "kelimeler": [
+    "basla",
+    "bugun",
+    "etkil",
+    "gul",
+    "istan",
+    "odenm",
+    "selde",
+    "valis",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "29bbc1318ab8": {
+   "id": "29bbc1318ab8",
+   "kaynak": "AA",
+   "baslik": "Katar, savunma sanayisini geliştirmek için yerli üretim merkezi kuracağını duyurdu",
+   "ozet": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Suud bin Abdurrahman Al Sani, ülkesinin savunma kapasitesini güçlendirmek amacıyla yakında yerli bir savunma üretim merkezi kuracağını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-savunma-sanayisini-gelistirmek-icin-yerli-uretim-merkezi-kuracagini-duyurdu/4093349",
+   "zaman": "2026-10-19T14:08:26+03:00",
+   "kelimeler": [
+    "duyur",
+    "gelis",
+    "katar",
+    "kurac",
+    "merke",
+    "sanay",
+    "savun",
+    "ureti",
+    "yerli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "00bb16bda75f": {
+   "id": "00bb16bda75f",
+   "kaynak": "Hürriyet",
+   "baslik": "Muhtarlar Günü Buluşması! Cumhurbaşkanı Erdoğan’dan önemli açıklamalar",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi’nde \"Muhtarlar Günü Buluşması\" programında önemli açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/muhtarlar-gunu-bulusmasi-cumhurbaskani-erdogandan-onemli-aciklamalar-43347265",
+   "zaman": "2026-10-19T14:09:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bulus",
+    "cumhu",
+    "dan",
+    "erdog",
+    "gunu",
+    "muhta",
+    "oneml"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "563e6ad01ce0": {
+   "id": "563e6ad01ce0",
+   "kaynak": "AA",
+   "baslik": "Yeryüzü Doktorları, üç ülkede sağlık hizmetleri kapasitesini artırıyor",
+   "ozet": "Yeryüzü Doktorları, Yemen, Somali ve Suriye'de hizmet kapasitesini artırarak ihtiyaç sahiplerinin sağlık hizmetlerine erişimini güçlendiriyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/yeryuzu-doktorlari-uc-ulkede-saglik-hizmetleri-kapasitesini-artiriyor/4093354",
+   "zaman": "2026-10-19T14:10:51+03:00",
+   "kelimeler": [
+    "artir",
+    "dokto",
+    "hizme",
+    "kapas",
+    "sagli",
+    "uc",
+    "ulked",
+    "yeryu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 14:19:01  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Millî mücadelenin tarihî mirası Nutuk sekiz dilde dünyaya ulaşacak",
+  "19.10 14:15:59  6 yeni haber",
   "19.10 14:01:25  9 yeni haber",
   "19.10 13:45:59  4 yeni haber",
   "19.10 13:31:08  7 yeni haber",
@@ -13345,9 +13493,7 @@
   "17.10 12:01:19  1 yeni haber",
   "17.10 11:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Etimesgut Belediyesi soruşturmasında 7 kişi tutuklandı",
   "17.10 11:31:08  2 yeni haber",
-  "17.10 11:16:01  1 yeni haber",
-  "17.10 11:02:05  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Emine Erdoğan'dan Türkiye Maarif Vakfı 10. Yıl Programı'na ilişkin pay",
-  "17.10 11:01:19  4 yeni haber"
+  "17.10 11:16:01  1 yeni haber"
  ],
  "otomatik": false
 }
