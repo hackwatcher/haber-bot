@@ -15583,10 +15583,100 @@
     "tcg"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "ea3a68f024d9": {
+   "id": "ea3a68f024d9",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan, Belçikalı mevkidaşı Prevot ile Brüksel'de görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel'de Belçika Başbakan Yardımcısı ve Dışişleri Bakanı Maxime Prevot ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-belcikali-mevkidasi-prevot-ile-brukselde-gorustu/4093844",
+   "zaman": "2026-10-19T21:26:59+03:00",
+   "kelimeler": [
+    "bakan",
+    "belci",
+    "bruks",
+    "disis",
+    "fidan",
+    "gorus",
+    "mevki",
+    "prevo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d7ff842637ce"
+  },
+  "431edd05ea4b": {
+   "id": "431edd05ea4b",
+   "kaynak": "AA",
+   "baslik": "Papa 14. Leo, Ukrayna Devlet Başkanı Zelenskiy ile telefonda görüştü",
+   "ozet": "Vatikan Devlet Başkanı Papa 14. Leo'nun, Ukrayna Devlet Başkanı Volodimir Zelenskiy ile Ukrayna'nın Herson bölgesi Oleşki şehrindeki insani krizi görüştüğü bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-ukrayna-devlet-baskani-zelenskiy-ile-telefonda-gorustu/4093846",
+   "zaman": "2026-10-19T21:31:01+03:00",
+   "kelimeler": [
+    "14",
+    "baska",
+    "devle",
+    "gorus",
+    "leo",
+    "papa",
+    "telef",
+    "ukray",
+    "zelen"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "70fb8cf3f8dd": {
+   "id": "70fb8cf3f8dd",
+   "kaynak": "AA",
+   "baslik": "Portekiz kampını terk eden Ronaldo'ya 255 avro para cezası",
+   "ozet": "Portekiz Futbol Federasyonu, izinsiz milli takım kampını terk eden Cristiano Ronaldo'ya 30 gün hak mahrumiyeti ve 255 avro para cezası verdi.",
+   "link": "https://www.aa.com.tr/tr/spor/portekiz-kampini-terk-eden-ronaldoya-255-avro-para-cezasi/4093850",
+   "zaman": "2026-10-19T21:34:48+03:00",
+   "kelimeler": [
+    "255",
+    "avro",
+    "cezas",
+    "eden",
+    "kampi",
+    "para",
+    "porte",
+    "ronal",
+    "terk",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "144777f4599a": {
+   "id": "144777f4599a",
+   "kaynak": "AA",
+   "baslik": "TCG Anadolu, Arnavutluk'ta Neptune Strike 2026 tatbikatına katıldı",
+   "ozet": "Çok maksatlı amfibi hücum gemisi TCG Anadolu, NATO'nun Neptune Strike 2026 tatbikatının dördüncü ve son aşaması kapsamında Arnavutluk'ta düzenlenen tatbikata katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tcg-anadolu-arnavutlukta-neptune-strike-2026-tatbikatina-katildi/4093853",
+   "zaman": "2026-10-19T21:41:56+03:00",
+   "kelimeler": [
+    "2026",
+    "anado",
+    "arnav",
+    "katil",
+    "neptu",
+    "strik",
+    "ta",
+    "tatbi",
+    "tcg"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "74d8f5b89ee1"
   }
  },
  "kayit": [
+  "19.10 21:46:02  2 yeni haber",
   "19.10 21:31:17  3 yeni haber",
   "19.10 21:16:05  3 yeni haber",
   "19.10 20:46:03  3 yeni haber",
@@ -15785,8 +15875,7 @@
   "17.10 18:45:50  2 yeni haber",
   "17.10 18:31:02  2 yeni haber",
   "17.10 18:15:49  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "17.10 18:02:14  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Ayazağa'da dere yatağındaki yapıların yıkımına başlandı",
-  "17.10 17:32:11  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sel felaketinde kaybolan Ahmet Derin ve Haşim Ciritoğulları'nın son gö"
+  "17.10 18:02:14  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Ayazağa'da dere yatağındaki yapıların yıkımına başlandı"
  ],
  "otomatik": false
 }
