@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "a382404bc613": {
-   "id": "a382404bc613",
-   "kaynak": "Hürriyet",
-   "baslik": "Kara para aklama iddiası: Murat Ağırel, Aylin Kotil ve Ömer Sarıgül hakkında gözaltı kararı",
-   "ozet": "Kara para aklama iddialarına ilişkin Murat Ağırel, Aylin Kotil, Emir Sarıgül, Ömer Sarıgül, Volkan Aslanbaş ve Cavid Tanrah Artuner hakkında gözaltı kararı verildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kara-para-aklama-iddiasi-murat-agirel-aylin-kotil-ve-omer-sarigul-hakkinda-gozalti-karari-43343526",
-   "zaman": "2026-10-16T08:53:00+03:00",
-   "kelimeler": [
-    "agire",
-    "aklam",
-    "aylin",
-    "gozal",
-    "hakki",
-    "iddia",
-    "kara",
-    "karar",
-    "kotil",
-    "murat",
-    "omer",
-    "para",
-    "sarig"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7218d2a40f13": {
    "id": "7218d2a40f13",
    "kaynak": "Hürriyet",
@@ -6214,8 +6189,17 @@
     "prote",
     "yagma"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-10-19T09:03:46.107666+03:00",
+   "ig_id": "17959100553016696",
+   "reels_id": "17952396588294575",
+   "story_id": "18113386585871027",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1831060961647949",
+   "slayt": 5,
+   "kanca": "İMZALI MESSİ FORMASI"
   },
   "cb68c950d7aa": {
    "id": "cb68c950d7aa",
@@ -10301,9 +10285,97 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6a3eab792433"
+  },
+  "39ce253d867a": {
+   "id": "39ce253d867a",
+   "kaynak": "Hürriyet",
+   "baslik": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'",
+   "ozet": "Ticaret Bakanlığı \"2026 yılının ilk 9 ayında gerçekleştirilen 4 bin 890 farklı operasyonda, 91 milyar 720 milyon TL değerinde ticari eşya ve uyuşturucu madde ele geçirildi.\" açıklamasında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/yilinin-ilk-9-ayinda-91-milyar-720-milyon-tllik-ticari-esya-ve-uyusturucu-ele-gecirildi-43346707",
+   "zaman": "2026-10-19T08:41:00+03:00",
+   "kelimeler": [
+    "720",
+    "91",
+    "ayind",
+    "ele",
+    "esya",
+    "gecir",
+    "ilk",
+    "lik",
+    "milya",
+    "milyo",
+    "ticar",
+    "tl",
+    "uyust",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79e0f5b72352": {
+   "id": "79e0f5b72352",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da kara para aklama soruşturmasında 17 şüpheli adliyede",
+   "ozet": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında gözaltına alınan 17 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-kara-para-aklama-sorusturmasinda-17-supheli-adliyede-960491.html",
+   "zaman": "2026-10-19T08:42:00+03:00",
+   "kelimeler": [
+    "17",
+    "adliy",
+    "aklam",
+    "istan",
+    "kara",
+    "para",
+    "sorus",
+    "suphe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "01afdc080aeb": {
+   "id": "01afdc080aeb",
+   "kaynak": "AA",
+   "baslik": "İstanbul'daki selde kaybolan 1 kişinin daha cesedine ulaşıldı",
+   "ozet": "İstanbul Valiliği, kentteki selde kaybolan Haşim Ciritlioğlu'na ait cesedin Ayvansaray Vapur İskelesi'nin yakınında bulunduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982",
+   "zaman": "2026-10-19T08:54:27+03:00",
+   "kelimeler": [
+    "cesed",
+    "daki",
+    "istan",
+    "kaybo",
+    "kisin",
+    "selde",
+    "ulasi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d890d6a47da8": {
+   "id": "d890d6a47da8",
+   "kaynak": "NTV",
+   "baslik": "Kara para aklama soruşturması. Emir Sarıgül emniyete giderek teslim oldu",
+   "ozet": "\"Suçtan kaynaklanan mal varlığı değerlerini aklama\" suçu kapsamında yürütülen soruşturmada hakkında gözaltı kararı bulunan Emir Sarıgül emniyete giderek teslim oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kara-para-aklama-sorusturmasi-emir-sarigul-emniyete-giderek-teslim-oldu-1746940",
+   "zaman": "2026-10-19T08:59:06+03:00",
+   "kelimeler": [
+    "aklam",
+    "emir",
+    "emniy",
+    "gider",
+    "kara",
+    "para",
+    "sarig",
+    "sorus",
+    "tesli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
+  "19.10 09:01:20  4 yeni haber",
   "19.10 08:46:08  1 yeni haber",
   "19.10 08:16:01  1 yeni haber",
   "19.10 08:01:22  1 yeni haber",
@@ -10501,9 +10573,7 @@
   "17.10 02:16:13  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 01:17:17  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · 31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
   "17.10 01:15:59  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "17.10 01:01:12  1 yeni haber",
-  "17.10 00:47:18  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de",
-  "17.10 00:46:00  1 yeni haber"
+  "17.10 01:01:12  1 yeni haber"
  ],
  "otomatik": false
 }
