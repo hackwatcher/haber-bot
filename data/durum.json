@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "bf37219eefc7": {
-   "id": "bf37219eefc7",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da sel felaketinde üçüncü gün: Can kaybı 4'e yükseldi | Uyarılar art arda geldi: Tehlike geçmiş değil",
-   "ozet": "Meteoroloji Genel Müdürlüğü (MGM), yurt genelini etkisi altına alan olumsuz hava koşullarına ilişkin son değerlendirmelerini açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/live-yurt-genelini-saganak-vurdu-yagislar-kuvvetlenerek-geri-geliyor-istanbul-icin-uyarilar-pes-pese-geldi-6-vatandasimiz-kayip-43343493",
-   "zaman": "2026-10-16T08:28:00+03:00",
-   "kelimeler": [
-    "arda",
-    "art",
-    "can",
-    "degil",
-    "felak",
-    "gecmi",
-    "geldi",
-    "gun",
-    "istan",
-    "kaybi",
-    "sel",
-    "tehli",
-    "ucunc",
-    "uyari",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a1bdbc9797e8": {
    "id": "a1bdbc9797e8",
    "kaynak": "Hürriyet",
@@ -10167,7 +10140,10 @@
     "sayid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "befe36571ff9": {
    "id": "befe36571ff9",
@@ -10279,6 +10255,22 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1e81e22e2b1f": {
+   "id": "1e81e22e2b1f",
+   "kaynak": "Hürriyet",
+   "baslik": "Çukurova Belediyesi'ne operasyon",
+   "ozet": "Adana’da jandarma ekipleri Çukurova Belediyesi’ne yönelik operasyon düzenliyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/cukurova-belediyesine-operasyon-43346697",
+   "zaman": "2026-10-19T08:13:56+03:00",
+   "kelimeler": [
+    "beled",
+    "cukur",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9ceb3b88c03"
   }
  },
  "kayit": [
