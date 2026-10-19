@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "5ea7b2533f36": {
-   "id": "5ea7b2533f36",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Göktaş: Kayıpları bulma noktasında çalışmalar devam ediyor",
-   "ozet": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, İstanbul'da sel felaketinin en çok etkili olduğu Sarıyer Ayazağa Mahallesi'nde incelemelerde bulundu. Bakan Göktaş, \"Kayıpları bulma noktasında çalışmalar hız kesmeden devam ediyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-goktas-kayiplari-bulma-noktasinda-calismalar-devam-ediyor-43344674",
-   "zaman": "2026-10-16T22:15:05+03:00",
-   "kelimeler": [
-    "bakan",
-    "bulma",
-    "calis",
-    "devam",
-    "ediyo",
-    "gokta",
-    "kayip",
-    "nokta"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7388f2c1cf75": {
    "id": "7388f2c1cf75",
    "kaynak": "Hürriyet",
@@ -14653,7 +14633,10 @@
     "topcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6bda604a7068": {
    "id": "6bda604a7068",
@@ -15670,10 +15653,109 @@
     "trabz"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "df71a52eb0e4": {
+   "id": "df71a52eb0e4",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Bolat, otomotiv sektörünün temsilcileriyle bir araya geldi",
+   "ozet": "TİCARET Bakanı Ömer Bolat, “Bugün, Ticaret Bakanlığımızda, Türkiye İhracatçılar Meclisi (TİM), Otomotiv İhracatçıları Birliği (OİB), Otomotiv Sanayi Derneği (OSD) ve Taşıt Araçları Tedarik Sanayicileri Derneği (TAYSAD) başkanları ve üst yönetimlerinin katılımıyla, otomotiv…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-bolat-otomotiv-sektorunun-temsilcileriyle-bir-araya-geldi-43347801",
+   "zaman": "2026-10-19T21:55:15+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "bolat",
+    "geldi",
+    "otomo",
+    "sekto",
+    "temsi"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "707634a27c61": {
+   "id": "707634a27c61",
+   "kaynak": "TRT Haber",
+   "baslik": "Derbide kazanan Trabzonspor",
+   "ozet": "Trabzonspor, Süper Lig'de 8. haftanın kapanış maçında Beşiktaş'ı 20 yenerek puanını 16'ya yükseltti.",
+   "link": "https://www.trthaber.com/haber/spor/derbide-kazanan-trabzonspor-960565.html",
+   "zaman": "2026-10-19T21:57:00+03:00",
+   "kelimeler": [
+    "derbi",
+    "kazan",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f1087f3bdb82": {
+   "id": "f1087f3bdb82",
+   "kaynak": "AA",
+   "baslik": "UEFA, FIFA'dan 42 soruya yanıt vermesini istedi",
+   "ozet": "UEFA, FIFA Barış Ödülü, ABD'li futbolcu Folarin Balogun'un ertelenen kırmızı kart cezası ve FIFA Forward Enterprise (FFE) projesiyle ilgili 42 soru için FIFA'dan yanıt istedi.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-fifadan-42-soruya-yanit-vermesini-istedi-/4093866",
+   "zaman": "2026-10-19T21:59:32+03:00",
+   "kelimeler": [
+    "42",
+    "dan",
+    "fifa",
+    "isted",
+    "soruy",
+    "uefa",
+    "verme",
+    "yanit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f89cbe0023b3": {
+   "id": "f89cbe0023b3",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine topçu saldırıları düzenledi",
+   "ozet": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere topçu saldırılarını sürdürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilari-duzenledi-960566.html",
+   "zaman": "2026-10-19T22:01:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "guney",
+    "in",
+    "isgal",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "topcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41ec36d29bb5"
+  },
+  "692911414902": {
+   "id": "692911414902",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, sahasında Beşiktaş'ı yendi",
+   "ozet": "Trendyol Süper Lig'de 8. haftanın kapanış maçında Trabzonspor, Beşiktaş'ı 2-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-sahasinda-besiktasi-yendi/4093869",
+   "zaman": "2026-10-19T22:02:35+03:00",
+   "kelimeler": [
+    "besik",
+    "sahas",
+    "trabz",
+    "yendi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3de346f4d3ad"
   }
  },
  "kayit": [
+  "19.10 22:16:05  3 yeni haber",
   "19.10 22:01:19  1 yeni haber",
   "19.10 21:46:02  2 yeni haber",
   "19.10 21:31:17  3 yeni haber",
@@ -15872,8 +15954,7 @@
   "17.10 19:16:10  1 yeni haber",
   "17.10 19:01:14  1 yeni haber",
   "17.10 18:45:50  2 yeni haber",
-  "17.10 18:31:02  2 yeni haber",
-  "17.10 18:15:49  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
+  "17.10 18:31:02  2 yeni haber"
  ],
  "otomatik": false
 }
