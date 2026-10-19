@@ -10021,7 +10021,8 @@
     "yemeg"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "096c1710dd84": {
    "id": "096c1710dd84",
@@ -10048,9 +10049,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8c412cbc916b": {
+   "id": "8c412cbc916b",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa'da hayır yemeğinden 53 kişiyi hastanelik oldu",
+   "ozet": "Bursa'nın İnegöl ilçesinde bir hayır etkinliğinde yemek yedikten sonra rahatsızlanan 53 kişi, hastaneye başvurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-hayir-yemeginden-53-kisiyi-hastanelik-oldu-43346667",
+   "zaman": "2026-10-19T02:46:00+03:00",
+   "kelimeler": [
+    "53",
+    "bursa",
+    "hasta",
+    "hayir",
+    "kisiy",
+    "yemeg"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6a9f2e8d4c4"
+  },
+  "85deb4afc674": {
+   "id": "85deb4afc674",
+   "kaynak": "Hürriyet",
+   "baslik": "Kadıköy'de 3 katlı ahşap köşk yandı",
+   "ozet": "Kadıköy'de 3 katlı ahşap köşk yangında kullanılamaz hale geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kadikoyde-3-katli-ahsap-kosk-yandi-43346669",
+   "zaman": "2026-10-19T05:37:54+03:00",
+   "kelimeler": [
+    "ahsap",
+    "kadik",
+    "katli",
+    "kosk",
+    "yandi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8654ab4327e9": {
+   "id": "8654ab4327e9",
+   "kaynak": "Hürriyet",
+   "baslik": "ABD’nin İstanbul Başkonsolosu Michael Lally, için kaleme aldı… Bir Saygı Yolculuğu",
+   "ozet": "Seksen yıl önce bir Amerikan zırhlısı, Türkiye ile Amerika Birleşik Devletleri’nin yan yana duracağı mesajını taşıyarak İstanbul Boğazı’na girdi. Bu ziyaret 22-28 Ekim tarihleri arasında Beşiktaş’taki Deniz Müzesi’nde düzenlenecek gezici bir sergiyle anılıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/abdnin-istanbul-baskonsolosu-michael-lally-icin-kaleme-aldi-bir-saygi-yolculugu-43346660",
+   "zaman": "2026-10-19T05:53:28+03:00",
+   "kelimeler": [
+    "abd",
+    "aldi",
+    "basko",
+    "istan",
+    "kalem",
+    "lally",
+    "micha",
+    "nin",
+    "saygi",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 06:01:24  2 yeni haber",
   "19.10 03:31:13  1 yeni haber",
   "19.10 03:01:21  1 yeni haber",
   "19.10 02:46:00  1 yeni haber",
@@ -10249,8 +10309,7 @@
   "16.10 23:08:38  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · ÖSYM duyurdu: Hafta sonu yapılacak sınavlar ertelendi",
   "16.10 23:07:36  9 yeni haber",
   "16.10 21:16:28  Paylaşıldı (otomatik, 5 slaytlık karusel): Hürriyet · Yasadışı bahis soruşturmasında 27 tutuklama",
-  "16.10 21:15:51  10 yeni haber",
-  "16.10 19:24:15  [DENEME] Paylaşıldı (otomatik, tek kart): Sözcü · İstanbul Valiliği duyurdu: Hafta sonu yapılmayacak"
+  "16.10 21:15:51  10 yeni haber"
  ],
  "otomatik": false
 }
