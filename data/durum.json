@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "00428f590143": {
-   "id": "00428f590143",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-kambocya-basbakani-hun-maneti-kabul-etti-43344461",
-   "zaman": "2026-10-16T17:50:00+03:00",
-   "kelimeler": [
-    "basba",
-    "cumhu",
-    "erdog",
-    "etti",
-    "hun",
-    "kabul",
-    "kambo",
-    "manet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "85708db04e29": {
-   "id": "85708db04e29",
-   "kaynak": "Sözcü",
-   "baslik": "Kubilay Kaan Kundakçı cinayeti davasında karar çıktı: Kalaycıoğlu'na beraat, Kadayıfçıoğlu'na müebbet",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/aleyna-kalaycioglu-hakkinda-karar-p369888",
-   "zaman": "2026-10-16T17:53:47+03:00",
-   "kelimeler": [
-    "beraa",
-    "cikti",
-    "cinay",
-    "davas",
-    "kaan",
-    "kaday",
-    "kalay",
-    "karar",
-    "kubil",
-    "kunda",
-    "muebb",
-    "na"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9ca462e8a43f"
-  },
   "b094059afe33": {
    "id": "b094059afe33",
    "kaynak": "BBC Türkçe",
@@ -14988,9 +14942,122 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "154b7b3e5906"
+  },
+  "04895961a58d": {
+   "id": "04895961a58d",
+   "kaynak": "AA",
+   "baslik": "Ankara Temelli Veri Merkezi'nin temeli atıldı",
+   "ozet": "Türkiye'nin yapay zeka, bulut teknolojileri ve veri depolama alanlarında artan altyapı ihtiyacına yanıt vermek amacıyla planlanan Ankara Temelli Veri Merkezi kampüsünün temeli törenle atıldı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ankara-temelli-veri-merkezinin-temeli-atildi/4093632",
+   "zaman": "2026-10-19T16:48:40+03:00",
+   "kelimeler": [
+    "ankar",
+    "atild",
+    "merke",
+    "nin",
+    "temel",
+    "veri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a7cadc25600": {
+   "id": "2a7cadc25600",
+   "kaynak": "AA",
+   "baslik": "UEFA'dan 3 Türk hakeme görev",
+   "ozet": "UEFA, FIFA kokartlı Uğur Çakmak, Hakan Tezcan ve Ayberg Öz'ü 2028 FIFA Futsal Dünya Kupası Grup Eleme turunda oynanacak Moldova-Fransa maçında görevlendirdi.",
+   "link": "https://www.aa.com.tr/tr/spor/uefadan-3-turk-hakeme-gorev/4093668",
+   "zaman": "2026-10-19T17:26:04+03:00",
+   "kelimeler": [
+    "dan",
+    "gorev",
+    "hakem",
+    "turk",
+    "uefa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d9ac3e7c3217": {
+   "id": "d9ac3e7c3217",
+   "kaynak": "Hürriyet",
+   "baslik": "Akdeniz açıklarında 3,8 büyüklüğünde deprem",
+   "ozet": "Muğla’nın Datça ilçesi açıklarında saat 17,30’da 7 kilometre derinliğinde 3,8 büyüklüğünde bir deprem meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/akdeniz-aciklarinda-3-8-buyuklugunde-deprem-43347638",
+   "zaman": "2026-10-19T17:50:58+03:00",
+   "kelimeler": [
+    "acikl",
+    "akden",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "42d5b2053e19": {
+   "id": "42d5b2053e19",
+   "kaynak": "TRT Haber",
+   "baslik": "Dijital Üniversite Platformu başvuruları için yarın son gün",
+   "ozet": "Yükseköğretim Kurulu YÖK himayesinde hayata geçirilen Dijital Üniversite Platformu için başvurular yarın sona erecek.",
+   "link": "https://www.trthaber.com/haber/egitim/dijital-universite-platformu-basvurulari-icin-yarin-son-gun-960554.html",
+   "zaman": "2026-10-19T17:51:00+03:00",
+   "kelimeler": [
+    "basvu",
+    "dijit",
+    "gun",
+    "platf",
+    "unive",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "449d76decf6d": {
+   "id": "449d76decf6d",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, TESK Genel Başkanı Yiğiner'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Esnaf ve Sanatkarları Konfederasyonu (TESK) Genel Başkanı Mehmet Yiğiner'i kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tesk-genel-baskani-yigineri-kabul-etti/4093694",
+   "zaman": "2026-10-19T17:54:29+03:00",
+   "kelimeler": [
+    "baska",
+    "cumhu",
+    "erdog",
+    "etti",
+    "genel",
+    "kabul",
+    "tesk",
+    "yigin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f7d8129fda4": {
+   "id": "3f7d8129fda4",
+   "kaynak": "NTV",
+   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 19 Ekim 2026",
+   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 19 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-19-ekim-2026-1747042",
+   "zaman": "2026-10-19T18:00:00+03:00",
+   "kelimeler": [
+    "19",
+    "2026",
+    "afad",
+    "az",
+    "depre",
+    "ekim",
+    "kandi",
+    "liste",
+    "mugla",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9c42419cd46c"
   }
  },
  "kayit": [
+  "19.10 18:01:21  5 yeni haber",
   "19.10 17:45:56  3 yeni haber",
   "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
   "19.10 17:31:12  7 yeni haber",
@@ -15189,8 +15256,7 @@
   "17.10 15:15:58  1 yeni haber",
   "17.10 15:15:58  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 15:03:01  Paylaşıldı (otomatik, tek kart + Reels + Story): BBC Türkçe · İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
-  "17.10 15:01:12  2 yeni haber",
-  "17.10 14:45:55  1 yeni haber"
+  "17.10 15:01:12  2 yeni haber"
  ],
  "otomatik": false
 }
