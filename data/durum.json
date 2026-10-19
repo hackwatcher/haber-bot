@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "bfda73ee4cb1": {
-   "id": "bfda73ee4cb1",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum ve Bakan Çiftçi Ayazağa'da incelemelerde bulundu! 'Kayıp 4 vatandaş aranıyor! 60 bin personel sahada'",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ve İçişleri Bakanı Mustafa Çiftçi, İstanbul'da sel felaketinin en çok etkili olduğu Sarıyer Ayazağa Mahallesi'nde incelemelerde bulundu. Bakan Kurum, \"Bir afet yaşadık.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-ve-bakan-ciftci-ayazagada-incelemede-bulundu-60-bin-personel-sahada-43343933",
-   "zaman": "2026-10-16T12:38:00+03:00",
-   "kelimeler": [
-    "60",
-    "arani",
-    "ayaza",
-    "bakan",
-    "bin",
-    "bulun",
-    "ciftc",
-    "incel",
-    "kayip",
-    "kurum",
-    "perso",
-    "sahad",
-    "vatan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e7a7f914aa50": {
    "id": "e7a7f914aa50",
    "kaynak": "Hürriyet",
@@ -12331,11 +12306,20 @@
     "suphe",
     "yakal"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "Hürriyet"
-   ]
+   ],
+   "paylasildi": "2026-10-19T12:48:07.603586+03:00",
+   "ig_id": "18131024701701653",
+   "reels_id": "17937112698392437",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1099419832953205",
+   "slayt": 6,
+   "kanca": "SİBER AĞA BÜYÜK DARBE"
   },
   "dc1b6ea5ba25": {
    "id": "dc1b6ea5ba25",
@@ -12595,9 +12579,93 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9c42419cd46c"
+  },
+  "23fcfafb5175": {
+   "id": "23fcfafb5175",
+   "kaynak": "AA",
+   "baslik": "Cumhuriyet'le yaşıt Ankara Lisesi bir asrı aşan eğitim geleneğini sürdürüyor",
+   "ozet": "Cumhuriyet'in ilanından 18 gün önce Gazi Mustafa Kemal Atatürk'ün isteği üzerine 79 kız öğrenciyle eğitim öğretime başlayan Ankara Lisesi, bir asrı aşan tarihinde başkentin eğitim hayatının önemli kurumları arasında yer alıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/cumhuriyetle-yasit-ankara-lisesi-bir-asri-asan-egitim-gelenegini-surduruyor/4093123",
+   "zaman": "2026-10-19T11:11:43+03:00",
+   "kelimeler": [
+    "ankar",
+    "asan",
+    "asri",
+    "cumhu",
+    "egiti",
+    "gelen",
+    "le",
+    "lises",
+    "surdu",
+    "yasit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "114dfc2f72ff": {
+   "id": "114dfc2f72ff",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da konserde 2 ölüm! Vali Gül sebebini açıkladı",
+   "ozet": "İstanbul Valisi Davut Gül, \"Konsere giden 3 vatandaşımız farklı uyuşturucular kullanmışlar. Bunlar adli tıp raporunda tespit edildi. Uyuşturucudan kaynaklı bir ölüm hadisesi. Ölüm ve yaralı olduğu için adli süreç sürüyor\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-konserde-2-olum-vali-gul-sebebini-acikladi-43347063",
+   "zaman": "2026-10-19T12:23:00+03:00",
+   "kelimeler": [
+    "gul",
+    "istan",
+    "konse",
+    "olum",
+    "sebeb",
+    "vali"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1b2aa57b64b3": {
+   "id": "1b2aa57b64b3",
+   "kaynak": "AA",
+   "baslik": "İspanya'nın doğusunda şiddetli yağışlar etkili olmaya devam ediyor",
+   "ozet": "İspanya'nın doğusundaki Valensiya, Katalonya ve Balear Adaları bölgelerini iki gündür etkisi altına alan şiddetli yağışlar yaşamı felç etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyanin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor/4093223",
+   "zaman": "2026-10-19T12:34:09+03:00",
+   "kelimeler": [
+    "devam",
+    "dogus",
+    "ediyo",
+    "etkil",
+    "ispan",
+    "nin",
+    "olmay",
+    "sidde",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "156422bef9bc": {
+   "id": "156422bef9bc",
+   "kaynak": "AA",
+   "baslik": "\"Yetkilendirilmiş Yükümlü Statüleri\" için gümrüklerde AB ile karşılıklı tanımada geri sayım",
+   "ozet": "Ticaret Bakanlığı, Türkiye ile AB arasında yetkilendirilmiş yükümlü firmalara ait sertifika ve statü bilgilerinin taraf gümrük idareleri arasında elektronik ortamda paylaşılmasına yönelik teknik çalışmalarda son aşamaya gelindiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yetkilendirilmis-yukumlu-statuleri-icin-gumruklerde-ab-ile-karsilikli-tanimada-geri-sayim/4093240",
+   "zaman": "2026-10-19T12:42:13+03:00",
+   "kelimeler": [
+    "ab",
+    "geri",
+    "gumru",
+    "karsi",
+    "sayim",
+    "statu",
+    "tanim",
+    "yetki",
+    "yukum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 12:48:07  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 27 ilde siber suç operasyonu: 643 şüpheli yakalandı",
+  "19.10 12:46:05  4 yeni haber",
   "19.10 12:31:13  9 yeni haber",
   "19.10 12:16:00  9 yeni haber",
   "19.10 12:01:20  9 yeni haber",
@@ -12795,9 +12863,7 @@
   "17.10 10:46:08  1 yeni haber",
   "17.10 10:32:55  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): BBC Türkçe · Starlink interneti Ukrayna savaş alanında neden bu kadar önemli?",
   "17.10 10:31:13  5 yeni haber",
-  "17.10 10:16:05  1 yeni haber",
-  "17.10 10:16:05  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 10:02:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu y"
+  "17.10 10:16:05  1 yeni haber"
  ],
  "otomatik": false
 }
