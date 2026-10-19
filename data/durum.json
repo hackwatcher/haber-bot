@@ -9996,7 +9996,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "befe36571ff9": {
@@ -10481,7 +10482,10 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "34c3c01b985f": {
    "id": "34c3c01b985f",
@@ -10629,6 +10633,47 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ff5215f18b07": {
+   "id": "ff5215f18b07",
+   "kaynak": "AA",
+   "baslik": "İstanbul merkezli yasa dışı \"üreme hücresi\" ticareti operasyonu",
+   "ozet": "Adalet Bakanı Akın Gürlek, İstanbul merkezli yasa dışı üreme hücresi ticareti operasyonunda haklarında adli işlem başlatılan 53 şüpheliden 36'sının gözaltına alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-yasa-disi-ureme-hucresi-ticareti-operasyonu-/4093001",
+   "zaman": "2026-10-19T09:26:30+03:00",
+   "kelimeler": [
+    "disi",
+    "hucre",
+    "istan",
+    "merke",
+    "opera",
+    "ticar",
+    "ureme",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f46c382cff5"
+  },
+  "5e7677458f96": {
+   "id": "5e7677458f96",
+   "kaynak": "TRT Haber",
+   "baslik": "Çukurova Belediyesine yolsuzluk ve rüşvet operasyonu: 44 gözaltı",
+   "ozet": "Adana'da Çukurova Belediyesindeki ihale ve doğrudan teminlerde usulsüzlük yapıldığı iddialarına ilişkin yürütülen soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem Belediye Başkanı Soner Çetin'in de bulunduğu 44 kişi yakalandı.",
+   "link": "https://www.trthaber.com/haber/gundem/cukurova-belediyesine-yolsuzluk-ve-rusvet-operasyonu-44-gozalti-960494.html",
+   "zaman": "2026-10-19T09:29:00+03:00",
+   "kelimeler": [
+    "44",
+    "beled",
+    "cukur",
+    "gozal",
+    "opera",
+    "rusve",
+    "yolsu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9ceb3b88c03"
   }
  },
  "kayit": [
