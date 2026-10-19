@@ -1,61 +1,5 @@
 {
  "haberler": {
-  "791b4f9821c8": {
-   "id": "791b4f9821c8",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Ersoy: Bu eşsiz emaneti gelecek kuşaklara aktaracağız",
-   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, dünyaca tanınan hattat Mehmet Özçay’ın dört buçuk yılda tamamladığı ve yüz binlerce nüshası basılan Mushaf-ı Şerif’in el yazması aslını Türkiye Yazma Eserler Kurumu Başkanlığına vakfettiğini açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-ersoy-bu-essiz-emaneti-gelecek-kusaklara-aktaracagiz-43343671",
-   "zaman": "2026-10-16T10:34:02+03:00",
-   "kelimeler": [
-    "aktar",
-    "bakan",
-    "emane",
-    "ersoy",
-    "essiz",
-    "gelec",
-    "kusak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "959f4b26d075": {
-   "id": "959f4b26d075",
-   "kaynak": "Hürriyet",
-   "baslik": "22 ilde terör operasyonları: 59 şüpheli yakalandı",
-   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamaya göre 22 ilde DEAŞ terör örgütüne yönelik jandarma tarafından operasyonlar düzenlendi, 59 şüpheli gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/22-ilde-teror-operasyonlari-59-supheli-yakalandi-43343672",
-   "zaman": "2026-10-16T10:35:00+03:00",
-   "kelimeler": [
-    "22",
-    "59",
-    "ilde",
-    "opera",
-    "suphe",
-    "teror",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "22cb94b39622": {
-   "id": "22cb94b39622",
-   "kaynak": "Sözcü",
-   "baslik": "MSCI kararı sonrası borsada sert düşüş",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/msci-karari-sonrasi-borsada-sert-dusus-p369728",
-   "zaman": "2026-10-16T10:41:05+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "karar",
-    "msci",
-    "sert",
-    "sonra"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "14eaf8824cbf": {
    "id": "14eaf8824cbf",
    "kaynak": "Hürriyet",
@@ -9868,7 +9812,8 @@
    "diger_kaynaklar": [
     "Hürriyet",
     "TRT Haber",
-    "AA"
+    "AA",
+    "BBC Türkçe"
    ]
   },
   "befe36571ff9": {
@@ -11256,9 +11201,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5ce500a5b5b9": {
+   "id": "5ce500a5b5b9",
+   "kaynak": "AA",
+   "baslik": "Fransa İçişleri Bakanı Nunez, sarı yeleklilerin gösterilerinin ardından istifasını sundu",
+   "ozet": "Fransa İçişleri Bakanı Laurent Nunez, sarı yeleklilerin gösterilerini iyi yönetemediği yönündeki eleştirilerin ardından istifasını sunduğunu bildirdi. Fransa Cumhurbaşkanı Macron, Nunez'in istifasını reddetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-icisleri-bakani-nunez-sari-yeleklilerin-gosterilerinin-ardindan-istifasini-sundu/4093069",
+   "zaman": "2026-10-19T10:30:28+03:00",
+   "kelimeler": [
+    "ardin",
+    "bakan",
+    "frans",
+    "goste",
+    "icisl",
+    "istif",
+    "nunez",
+    "sari",
+    "sundu",
+    "yelek"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6f3937aa34a9": {
+   "id": "6f3937aa34a9",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Çukurova Belediyesi'ne operasyon: Belediye Başkanı dahil 44 kişi gözaltına alındı",
+   "ozet": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo",
+   "zaman": "2026-10-19T10:33:25+03:00",
+   "kelimeler": [
+    "44",
+    "alind",
+    "baska",
+    "beled",
+    "cukur",
+    "dahil",
+    "gozal",
+    "kisi",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9ceb3b88c03"
+  },
+  "8a7cb7ec39c9": {
+   "id": "8a7cb7ec39c9",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul ve Kocaeli'deki selde can kaybı 8'e yükseldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-veya-istanbul-ve-kocaeli-deki-selde-can-kaybi-8-e-yukseldi-p370490",
+   "zaman": "2026-10-19T10:39:05+03:00",
+   "kelimeler": [
+    "can",
+    "deki",
+    "istan",
+    "kaybi",
+    "kocae",
+    "selde",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
   }
  },
  "kayit": [
+  "19.10 10:45:52  1 yeni haber",
   "19.10 10:31:15  7 yeni haber",
   "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu",
   "19.10 10:15:56  6 yeni haber",
@@ -11457,8 +11467,7 @@
   "17.10 08:17:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Sel felaketinin ardından görünmeyen tehlike! Uzman isim şebeke suların",
   "17.10 08:01:27  1 yeni haber",
   "17.10 07:46:54  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
-  "17.10 07:45:50  2 yeni haber",
-  "17.10 07:17:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Kara para ağı iddiasına soruşturma"
+  "17.10 07:45:50  2 yeni haber"
  ],
  "otomatik": false
 }
