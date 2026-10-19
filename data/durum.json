@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "0e5afef8d531": {
-   "id": "0e5afef8d531",
-   "kaynak": "Sözcü",
-   "baslik": "Sabah operasyonunda yeni gözaltı kararları",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/sabah-operasyonunda-yeni-gozalti-kararlari-p369676",
-   "zaman": "2026-10-16T12:04:59+03:00",
-   "kelimeler": [
-    "gozal",
-    "karar",
-    "opera",
-    "sabah",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0671805a0d70": {
    "id": "0671805a0d70",
    "kaynak": "BBC Türkçe",
@@ -7365,7 +7348,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "7455f56905ca": {
    "id": "7455f56905ca",
@@ -12175,9 +12161,222 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "90539712be27": {
+   "id": "90539712be27",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da bu yıl 125 bin kişiye meme kanseri taraması yapıldı",
+   "ozet": "İstanbul İl Sağlık Müdürü Abdullah Emre Güner, bu yıl 125 bin kişiye tarama yaptıklarını, riskli bulunan 8 bin kişiden 500'üne herhangi bir şikayeti bulunmadığı halde meme kanseri tanısı konulduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-bu-yil-125-bin-kisiye-meme-kanseri-taramasi-yapildi/4093109",
+   "zaman": "2026-10-19T11:06:47+03:00",
+   "kelimeler": [
+    "125",
+    "bin",
+    "istan",
+    "kanse",
+    "kisiy",
+    "meme",
+    "taram",
+    "yapil",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d88700980860": {
+   "id": "d88700980860",
+   "kaynak": "AA",
+   "baslik": "Sivas Lisesinin 139 yıllık eğitim serüveni",
+   "ozet": "Sivas Kongresi'ne ev sahipliği yapan ve 108 gün boyunca Büyük Önder Mustafa Kemal Atatürk'ü ağırlayan binada 1887 yılında eğitime başlayan Sivas Lisesi, 139 yıldır yeni nesilleri yetiştirmeye devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/sivas-lisesinin-139-yillik-egitim-seruveni/4093119",
+   "zaman": "2026-10-19T11:10:41+03:00",
+   "kelimeler": [
+    "139",
+    "egiti",
+    "lises",
+    "seruv",
+    "sivas",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dbc59b8b4dfa": {
+   "id": "dbc59b8b4dfa",
+   "kaynak": "AA",
+   "baslik": "Milli satranççı Işık Can, ABD'de 5'te 5 yaparak şampiyonluğa ulaştı",
+   "ozet": "Milli satranççı Büyükusta (GM) Işık Can, ABD'de düzenlenen 2026 Güney Dakota Valilik Kupası'nı (South Dakota Governor’s Cup) 5'te 5 yaparak şampiyon tamamladı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-satrancci-isik-can-abdde-5te-5-yaparak-sampiyonluga-ulasti/4093140",
+   "zaman": "2026-10-19T11:30:09+03:00",
+   "kelimeler": [
+    "abd",
+    "can",
+    "isik",
+    "milli",
+    "sampi",
+    "satra",
+    "te",
+    "ulast",
+    "yapar"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "43257c8e726f": {
+   "id": "43257c8e726f",
+   "kaynak": "AA",
+   "baslik": "Yıla dip seviyede başlayan Tahtalı Barajı'nda doluluk yüzde 42,6'ya yükseldi",
+   "ozet": "İzmir'in içme suyu ihtiyacının büyük bölümünü karşılayan Tahtalı Barajı'nın doluluk oranı, yıla dip seviyede başlamasının ardından yeni yağışlı dönemde yüzde 40'ın üzerine çıktı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yila-dip-seviyede-baslayan-tahtali-barajinda-doluluk-yuzde-42-6ya-yukseldi/4093162",
+   "zaman": "2026-10-19T11:46:07+03:00",
+   "kelimeler": [
+    "42",
+    "baraj",
+    "basla",
+    "dip",
+    "dolul",
+    "nda",
+    "seviy",
+    "tahta",
+    "ya",
+    "yila",
+    "yukse",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "13e1fa7c1e4a": {
+   "id": "13e1fa7c1e4a",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda 5 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda 5 Filistinli hayatını kaybetti, 22 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-5-filistinli-hayatini-kaybetti/4093175",
+   "zaman": "2026-10-19T11:56:05+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "ragme",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7c2b659c37f1"
+  },
+  "7754316aa01e": {
+   "id": "7754316aa01e",
+   "kaynak": "AA",
+   "baslik": "\"Asrın inşa seferberliği\" Rus basınında yer aldı",
+   "ozet": "Türkiye'nin 6 Şubat 2023'teki Kahramanmaraş merkezli depremlerin ardından başlattığı yeniden inşa seferberliği, Rusya'nın en büyük medya kuruluşlarından biri olan Komsomolskaya Pravda'ya haber oldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/asrin-insa-seferberligi-rus-basininda-yer-aldi-/4093176",
+   "zaman": "2026-10-19T11:56:11+03:00",
+   "kelimeler": [
+    "aldi",
+    "asrin",
+    "basin",
+    "insa",
+    "rus",
+    "sefer",
+    "yer"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "816c5186cf1d": {
+   "id": "816c5186cf1d",
+   "kaynak": "AA",
+   "baslik": "Araştırma: Avustralya'da çocuklar, maruz kaldıkları istismarı yapay zekaya anlatmaya daha meyilli",
+   "ozet": "Avustralya'da yapılan araştırmada, çocukların çevrim içi platformlarda uğradıkları cinsel istismarı, yetkili bir kişi yerine yapay zeka sohbet robotlarına bildirmelerinin daha olası olduğu ortaya çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/arastirma-avustralyada-cocuklar-maruz-kaldiklari-istismari-yapay-zekaya-anlatmaya-daha-meyilli/4093184",
+   "zaman": "2026-10-19T12:02:26+03:00",
+   "kelimeler": [
+    "anlat",
+    "arast",
+    "avust",
+    "cocuk",
+    "istis",
+    "kaldi",
+    "maruz",
+    "meyil",
+    "yapay",
+    "zekay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82708a62cd6b": {
+   "id": "82708a62cd6b",
+   "kaynak": "AA",
+   "baslik": "Türk hentbolunun sporcu aileleri: Yunus Özmusul ve Ülkü Çağlı Özmusul",
+   "ozet": "A Milli Erkek Hentbol Takımı kalecisi Yunus Özmusul ile eski hentbolcu eşi Ülkü Çağlı Özmusul, bu sporla başlayan hikayelerini, çocukları Tuna ve Asya'nın katılımıyla büyüyen bir aile yaşamına dönüştürdü.",
+   "link": "https://www.aa.com.tr/tr/spor/turk-hentbolunun-sporcu-aileleri-yunus-ozmusul-ve-ulku-cagli-ozmusul/4093185",
+   "zaman": "2026-10-19T12:02:32+03:00",
+   "kelimeler": [
+    "ailel",
+    "cagli",
+    "hentb",
+    "ozmus",
+    "sporc",
+    "turk",
+    "ulku",
+    "yunus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "20c6b4b18d1f": {
+   "id": "20c6b4b18d1f",
+   "kaynak": "Hürriyet",
+   "baslik": "Meteoroloji raporu açıkladı! Eylül ayında Türkiye'yi afetler vurdu",
+   "ozet": "Türkiye genelinde eylül ayında kaydedilen 66 meteorolojik afetin yaklaşık yüzde 61'ini şiddetli yağış, sel ve fırtına oluşturdu. Sakarya ve Kocaeli son 66 yılın en yüksek eylül yağışını alırken, eylül sonu ve ekim ayındaki sağanaklar büyük hasara ve can kayıplarına yol açtı.",
+   "link": "https://www.hurriyet.com.tr/gundem/meteoroloji-raporu-acikladi-eylul-ayinda-turkiyeyi-afetler-vurdu-43347022",
+   "zaman": "2026-10-19T12:06:06+03:00",
+   "kelimeler": [
+    "afetl",
+    "ayind",
+    "eylul",
+    "meteo",
+    "rapor",
+    "turki",
+    "vurdu",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fed0d0488ad4": {
+   "id": "fed0d0488ad4",
+   "kaynak": "AA",
+   "baslik": "Rekabet Kurulu toplu yemek hizmeti sunan 10 şirket hakkında soruşturma başlattı",
+   "ozet": "Rekabet Kurulu, kamu kurumlarına toplu yemek hizmeti sağlayan 10 şirket hakkında soruşturma başlatılmasına karar verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulu-toplu-yemek-hizmeti-sunan-10-sirket-hakkinda-sorusturma-baslatti/4093198",
+   "zaman": "2026-10-19T12:11:00+03:00",
+   "kelimeler": [
+    "10",
+    "basla",
+    "hakki",
+    "hizme",
+    "kurul",
+    "rekab",
+    "sirke",
+    "sorus",
+    "sunan",
+    "toplu",
+    "yemek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 12:16:00  9 yeni haber",
   "19.10 12:01:20  9 yeni haber",
   "19.10 11:46:01  7 yeni haber",
   "19.10 11:33:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İrkutsk vakası: Dünya Kovid-19'dan hangi dersleri çıkardı?",
@@ -12376,8 +12575,7 @@
   "17.10 10:16:05  1 yeni haber",
   "17.10 10:16:05  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 10:02:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu y",
-  "17.10 09:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Kütahya'da 3.4 büyüklüğünde deprem",
-  "17.10 09:31:04  2 yeni haber"
+  "17.10 09:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Kütahya'da 3.4 büyüklüğünde deprem"
  ],
  "otomatik": false
 }
