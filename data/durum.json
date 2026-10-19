@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "9d7e55e7bfa2": {
-   "id": "9d7e55e7bfa2",
-   "kaynak": "Hürriyet",
-   "baslik": "Batman'da 7 yaşındaki kızını boğarak öldürmüştü! Ömer Faruk Arslan cezaevindeki koğuşunda ölü bulundu",
-   "ozet": "Batman’da 3 yıl önce, 7 yaşındaki kızı Adara Arslan'ı boğup cesedini kömürlükte saklayan 40 yaşındaki Ömer Faruk Arslan, cezaevindeki koğuşunda ölü bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/batmanda-7-yasindaki-kizini-bogarak-oldurmustu-omer-faruk-arslan-cezaevindeki-kogusunda-olu-bulundu-43344355",
-   "zaman": "2026-10-16T16:40:00+03:00",
-   "kelimeler": [
-    "arsla",
-    "batma",
-    "bogar",
-    "bulun",
-    "cezae",
-    "faruk",
-    "kizin",
-    "kogus",
-    "oldur",
-    "olu",
-    "omer",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6e2c90cbdbe4": {
    "id": "6e2c90cbdbe4",
    "kaynak": "Hürriyet",
@@ -14180,7 +14156,8 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "a5b2623a00e3": {
    "id": "a5b2623a00e3",
@@ -14361,9 +14338,204 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "044fe3bd727d": {
+   "id": "044fe3bd727d",
+   "kaynak": "AA",
+   "baslik": "Düzce'de offroad tutkunlarının sonbahar turu kar safarisine dönüştü",
+   "ozet": "Düzce'de sonbahar turu düzenleyen offroad tutkunları, kentin yüksek kesimlerinde yağan kar nedeniyle zor anlar yaşadı.",
+   "link": "https://www.aa.com.tr/tr/gundem/duzcede-offroad-tutkunlarinin-sonbahar-turu-kar-safarisine-donustu/4093089",
+   "zaman": "2026-10-19T10:46:35+03:00",
+   "kelimeler": [
+    "donus",
+    "duzce",
+    "kar",
+    "offro",
+    "safar",
+    "sonba",
+    "turu",
+    "tutku"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e1d000245b7c": {
+   "id": "e1d000245b7c",
+   "kaynak": "AA",
+   "baslik": "Erciyes Dağı'ndaki su kanalları buz tuttu",
+   "ozet": "Türkiye'nin önemli kış turizmi ve dağcılık merkezlerinden Erciyes Dağı'ndaki su kanalları soğuk havanın etkisiyle buz tuttu.",
+   "link": "https://www.aa.com.tr/tr/gundem/erciyes-dagindaki-su-kanallari-buz-tuttu/4093534",
+   "zaman": "2026-10-19T15:53:28+03:00",
+   "kelimeler": [
+    "buz",
+    "dagi",
+    "erciy",
+    "kanal",
+    "ndaki",
+    "su",
+    "tuttu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "42e7f1c4a0c4": {
+   "id": "42e7f1c4a0c4",
+   "kaynak": "AA",
+   "baslik": "Yemen'in Şebve Valiliği: Husilerin güvenlik merkezine düzenlediği saldırıda ilk belirlemelere göre 53 kişi öldü",
+   "ozet": "Yemen'in Şebve Valiliği açıklamasında, \"Husilerin, eğitim merkezine balistik füzelerle düzenlediği saldırıda iç güvenlik güçlerinden en az 53 kişi öldü, yaklaşık 200 kişi yaralandı.\" denildi.",
+   "link": "https://www.aa.com.tr/tr/live-blog/yemenin-sebve-valiligi-husilerin-guvenlik-merkezine-duzenledigi-saldirida-ilk-belirlemelere-gore-53-kisi-oldu/6906",
+   "zaman": "2026-10-19T16:11:10+03:00",
+   "kelimeler": [
+    "53",
+    "belir",
+    "duzen",
+    "gore",
+    "guven",
+    "husil",
+    "ilk",
+    "in",
+    "kisi",
+    "merke",
+    "saldi",
+    "sebve",
+    "valil",
+    "yemen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "817687b487dc"
+  },
+  "149f9eb54a61": {
+   "id": "149f9eb54a61",
+   "kaynak": "TRT Haber",
+   "baslik": "Rapor: İngiltere, ekonomik refahı ve güvenliği için AB'ye yeniden üye olmalı",
+   "ozet": "İngiliz düşünce kuruluşu Kamu Politikası Araştırma Enstitüsü IPPR, İngiltere'nin ekonomik refahını, güvenliğini ve demokrasisini koruyabilmesi için Avrupa Birliği'ne yeniden katılmayı orta vadeli hedef olarak belirlemesi gerektiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/rapor-ingiltere-ekonomik-refahi-ve-guvenligi-icin-abye-yeniden-uye-olmali-960545.html",
+   "zaman": "2026-10-19T16:20:00+03:00",
+   "kelimeler": [
+    "ab",
+    "ekono",
+    "guven",
+    "ingil",
+    "olmal",
+    "rapor",
+    "refah",
+    "uye",
+    "ye",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b483aa10659": {
+   "id": "4b483aa10659",
+   "kaynak": "Hürriyet",
+   "baslik": "Datça açıklarında sürüklenen tekne için ekipler harekete geçti",
+   "ozet": "Datça açıklarında makine arızası nedeniyle sürüklenmeye başlayan ve içerisinde 3 kişinin bulunduğu 27 metrelik tekne için yardım çağrısı yapıldı. Bölgeye gönderilen KIYEM-6 hızlı tahlisiye botu, tekneyi yedekleyerek Palamutbükü'ne götürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/datca-aciklarinda-suruklenen-tekne-icin-ekipler-harekete-gecti-43347515",
+   "zaman": "2026-10-19T16:32:07+03:00",
+   "kelimeler": [
+    "acikl",
+    "datca",
+    "ekipl",
+    "gecti",
+    "harek",
+    "suruk",
+    "tekne"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7b07fa92ad0b": {
+   "id": "7b07fa92ad0b",
+   "kaynak": "AA",
+   "baslik": "63. Uluslararası Antalya Altın Portakal Film Festivali'nin biletleri satışa çıktı",
+   "ozet": "Türkiye'nin en köklü film festivali Uluslararası Antalya Altın Portakal Film Festivali'nin biletleri satışa çıkarıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/63-uluslararasi-antalya-altin-portakal-film-festivalinin-biletleri-satisa-cikti/4093611",
+   "zaman": "2026-10-19T16:33:47+03:00",
+   "kelimeler": [
+    "63",
+    "altin",
+    "antal",
+    "bilet",
+    "cikti",
+    "festi",
+    "film",
+    "nin",
+    "porta",
+    "satis",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "007eeaf38c93": {
+   "id": "007eeaf38c93",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kacır: Ülkemizin kurulu veri merkezi gücünü en az 1 gigavata çıkaracağız",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Yapay zeka ekonomisinin ihtiyaç duyduğu işlem gücünü karşılamak ve küresel dijital hizmetler pazarından daha fazla pay almak üzere, 2030a kadar ülkemizin kurulu veri merkezi gücünü en az 1 gigavata çıkaracağız.\" dedi.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-ulkemizin-kurulu-veri-merkezi-gucunu-en-az-1-gigavata-cikaracagiz-960546.html",
+   "zaman": "2026-10-19T16:35:00+03:00",
+   "kelimeler": [
+    "az",
+    "bakan",
+    "cikar",
+    "gigav",
+    "gucun",
+    "kacir",
+    "kurul",
+    "merke",
+    "ulkem",
+    "veri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b2a2fc4b4a28": {
+   "id": "b2a2fc4b4a28",
+   "kaynak": "AA",
+   "baslik": "Hazırlık sınıfını geçemeyen öğrencilerin Türkçe yükseköğretim programlarına yerleştirilme başvuruları başladı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), zorunlu yabancı dil hazırlık sınıfında başarısız olan öğrenciler için Türkçe yükseköğretim programlarına yerleştirme başvurularının bugünden itibaren 2 Kasım'a kadar alınacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/hazirlik-sinifini-gecemeyen-ogrencilerin-turkce-yuksekogretim-programlarina-yerlestirilme-basvurulari-basladi/4093614",
+   "zaman": "2026-10-19T16:35:19+03:00",
+   "kelimeler": [
+    "basla",
+    "basvu",
+    "gecem",
+    "hazir",
+    "ogren",
+    "progr",
+    "sinif",
+    "turkc",
+    "yerle",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb11ed4a98fe": {
+   "id": "eb11ed4a98fe",
+   "kaynak": "NTV",
+   "baslik": "Yoğun bakımdan sedyeyle çıktı, kızına gözyaşlarıyla veda etti",
+   "ozet": "Maltepe'de çöken binada yaşamını yitiren Gülce Dora Turhan, annesinin yoğun bakımdaki tedavisi nedeniyle 11 gün sonra defnedildi. Cenazeye sedye üzerinde katılan acılı anne, gözyaşlarına boğuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yogun-bakimdan-sedyeyle-cikti-kizina-gozyaslariyla-veda-etti-1747037",
+   "zaman": "2026-10-19T16:41:26+03:00",
+   "kelimeler": [
+    "bakim",
+    "cikti",
+    "etti",
+    "gozya",
+    "kizin",
+    "sedye",
+    "veda",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 16:46:08  8 yeni haber",
   "19.10 16:31:15  11 yeni haber",
   "19.10 16:15:57  5 yeni haber",
   "19.10 16:01:30  8 yeni haber",
@@ -14562,8 +14734,7 @@
   "17.10 14:01:17  2 yeni haber",
   "17.10 13:46:06  1 yeni haber",
   "17.10 13:32:07  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Uludağ'da kar yağışı başladı",
-  "17.10 13:31:23  1 yeni haber",
-  "17.10 13:15:54  2 yeni haber"
+  "17.10 13:31:23  1 yeni haber"
  ],
  "otomatik": false
 }
