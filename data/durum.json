@@ -3582,50 +3582,6 @@
    "slayt": 1,
    "kanca": "Son dakika"
   },
-  "64a16c8ba3f7": {
-   "id": "64a16c8ba3f7",
-   "kaynak": "XHABER",
-   "baslik": "Gazeteci Murat Ağırel, sabah saatlerinde gözaltına alındı.",
-   "ozet": "Ağırel, fon soruşturmasını haberleştirdiği için ev hapsinde bulunuyordu.",
-   "link": "https://t.me/sahinozkan000/30258",
-   "zaman": "2026-10-16T11:46:08+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Gazeteci Murat Ağırel, sabah saatlerinde gözaltına alındı.\nAğırel, fon soruşturmasını haberleştirdiği için ev hapsinde bulunuyordu.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/kNxhPE9qooxo6o0bHrQJDAQK3vinaP8gEeaTSgspKmkRABnTn1voDafBZSFBhFHiDIRFCHhOzCBw_T9EAUoXi6-fhhTdQLH9ZcvNhX3P-rru9vrSi_0wg-lckh1hNlfA5yQHeue_aEYemezhj-HqoO5dcxR2Nh8rF8GOiGGafMCI9G3H6jB8ORI1A8dNEBASMD14poM8NivClMBZhlAM38VJH1TiXybXI1S69DNLhV6wrAAx205m7N_3gbkdiRw7Eq2FBgtuVLq2UOauz3J9G1QkzROzdVKSkxg0p5c1S-x4R6GM7gzegPZb4UmsWxLXN9sZi8s1l7k7Q1AND9a78g.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "agire",
-    "alind",
-    "gazet",
-    "gozal",
-    "murat",
-    "saatl",
-    "sabah"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "420334f8634e": {
-   "id": "420334f8634e",
-   "kaynak": "XHABER",
-   "baslik": "Tesla, yeni nesil Roadster'ı tanıttı.",
-   "ozet": "▬ Uçabiliyor. ▬ 0-100 km/s: 0.81 saniye ▬ Menzil: 480+ kilometre. ▬ Maksimum hız: 370 km/s+",
-   "link": "https://t.me/sahinozkan000/30259",
-   "zaman": "2026-10-16T11:48:21+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Tesla, yeni nesil Roadster'ı tanıttı.\n▬ Uçabiliyor.\n▬ 0-100 km/s: 0.81 saniye\n▬ Menzil: 480+ kilometre.\n▬ Maksimum hız: 370 km/s+",
-   "tg_foto_url": "",
-   "tg_video_url": "https://cdn4.telesco.pe/file/734102aacf.mp4?token=k9Fcs8fghZ5lUoTeZ8QwbC75-tY7GMDXfG4jRCu-x0AJceHGnS6glSTJRsmPAYPeGpBOW51WngqvEEMEkDPrhPfqvSJQ4SG21jEKn1Tc3MGL2Gcdkx2yF5IgeBq2n6tm5D-frLjuJkoYgfNRiFJvKN3oSS6YlXjeXxKUUmdfYnvXQMkSKreOniZ7iR0sdzxPwwzikMCAmtFRThTRXpvGz1M8bBJmTgxT-LRxEVP0PAoUkUuQMAnxAakoBwxFqXGVBXQUG-WJAEkKmgay5dG-nYS2qIv9oc5zVqi6hmyBme7z-xRFIWBTldCT5Rd__h0SXR3ja216D1W4lLbn5iqucpEbRFp83qWSaowLT__oP1gXQSZccZ7Jjw5Nwj1HXf0N8IVqY12nLto1E3a_tkz715-6LC2N1qu6PJyK3FFe1G_PqcJVvk5uYo4u9QYvGUM3CDwc86a1fgRgJOu37DcrCHZg84Ufmbaj-QbN8p-dqBwv6GLQCGuHauFJQzCe5YtqcoylAXYOTUUpZoHXNjlLGj6cIhDZ3yq9VJT-ZblB4YHZcE0ZwsSatxaHVWZHknzu-igx5c6VsIC_iqHFkKinXkmKmbpqChW0jMlpwRv9I7EPcyEt4xXfnULhpMOyXeYe_ome6-N1LH5CzWNg8ILKr-Mbve7RAY9HJU3Irh-2ZAo",
-   "kelimeler": [
-    "nesil",
-    "roads",
-    "tanit",
-    "tesla",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "261f46581016": {
    "id": "261f46581016",
    "kaynak": "XHABER",
@@ -5120,7 +5076,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "54fd02a1a09a": {
    "id": "54fd02a1a09a",
@@ -11955,9 +11914,271 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "30b81956e03b": {
+   "id": "30b81956e03b",
+   "kaynak": "AA",
+   "baslik": "İsrail muhalefeti, Trump'ın seçimlerde Netanyahu'ya desteğini açıklamasını eleştirdi",
+   "ozet": "ABD Başkanı Donald Trump'ın İsrail'de 27 Ekim'de yapılacak seçimlere kısa bir süre kala mevcut Başbakan Binyamin Netanyahu'ya desteğini açıklaması, muhalefetin tepkisine neden oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-muhalefeti-trumpin-secimlerde-netanyahuya-destegini-aciklamasini-elestirdi/4093096",
+   "zaman": "2026-10-19T10:55:33+03:00",
+   "kelimeler": [
+    "acikl",
+    "deste",
+    "elest",
+    "in",
+    "israi",
+    "muhal",
+    "netan",
+    "secim",
+    "trump",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e4f7bab6e527"
+  },
+  "b500fa89daa8": {
+   "id": "b500fa89daa8",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da ambalajlı su pazarı bu yıl 35 milyar liralık büyüklüğe koşuyor",
+   "ozet": "Ambalajlı Su Üreticileri Derneği (SUDER) Yönetim Kurulu Başkanı Yaşabey Kalebaşı, \"İstanbul'un perakende cirosu bazında 2026 yılında yaklaşık 35 milyar liralık ekonomik büyüklüğe ulaşacağı tahmin edilmektedir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbulda-ambalajli-su-pazari-bu-yil-35-milyar-liralik-buyukluge-kosuyor/4093104",
+   "zaman": "2026-10-19T11:05:10+03:00",
+   "kelimeler": [
+    "35",
+    "ambal",
+    "buyuk",
+    "istan",
+    "kosuy",
+    "liral",
+    "milya",
+    "pazar",
+    "su",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bae54bf37127": {
+   "id": "bae54bf37127",
+   "kaynak": "AA",
+   "baslik": "Bitlis'te huzura kavuşan kırsal bölgelerin yolları konforlu hale getiriliyor",
+   "ozet": "Bitlis'te, huzur ve güven ortamının sağlandığı Anadere ve Kesan Deresi bölgelerindeki yollar asfalt çalışmalarıyla daha konforlu hale getiriliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/bitliste-huzura-kavusan-kirsal-bolgelerin-yollari-konforlu-hale-getiriliyor/4093149",
+   "zaman": "2026-10-19T11:37:38+03:00",
+   "kelimeler": [
+    "bitli",
+    "bolge",
+    "getir",
+    "hale",
+    "huzur",
+    "kavus",
+    "kirsa",
+    "konfo",
+    "te",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7661c1b7eda0": {
+   "id": "7661c1b7eda0",
+   "kaynak": "AA",
+   "baslik": "Bakan Tekin, UNESCO Yeşil Eğitim Ortaklığı üyelerini COP31'e davet etti",
+   "ozet": "Milli Eğitim Bakanı Tekin, \"Yeşil Vatan'da büyüttüğümüz eğitim anlayışını, COP31'in ortak iradesiyle yeşil bir dünya ve daha adil bir gelecek için birlikte geliştirmeye kararlıyız.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-tekin-unesco-yesil-egitim-ortakligi-uyelerini-cop31e-davet-etti/4093154",
+   "zaman": "2026-10-19T11:41:08+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "davet",
+    "egiti",
+    "etti",
+    "ortak",
+    "tekin",
+    "unesc",
+    "uyele",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "9a616b39b2c9": {
+   "id": "9a616b39b2c9",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Tekin'den UNESCO üyelerine COP31 daveti",
+   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, UNESCO Yeşil Eğitim Ortaklığı'na üye ülkeleri kasım ayında Türkiye'de düzenlenecek COP31'e davet ederek, \"Yeşil Vatan'da büyüttüğümüz eğitim anlayışını, COP31'in ortak iradesiyle yeşil bir dünya ve daha adil bir gelecek için birlikte geliştirmeye…",
+   "link": "https://www.trthaber.com/haber/egitim/bakan-tekinden-unesco-uyelerine-cop31-daveti-960511.html",
+   "zaman": "2026-10-19T11:42:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "davet",
+    "den",
+    "tekin",
+    "unesc",
+    "uyele"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7661c1b7eda0"
+  },
+  "dd96be0f5653": {
+   "id": "dd96be0f5653",
+   "kaynak": "BBC Türkçe",
+   "baslik": "'Polis kontrolü kaybetti' diyen Fransa İçişleri Bakanı istifa etti, Macron kabul etmedi",
+   "ozet": "Fransa İçişleri Bakanı Laurent Nuñez, hafta sonu bazı kentlerde düzenlenen protestolarda polisin \"kontrolü kaybettiğini\" söyledi. \"Yaşananların tümünden kendisini sorumlu hissettiği\" için Cumhurbaşkanı Emmanuel Macron'a istifasını sunduğunu açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o",
+   "zaman": "2026-10-19T11:44:34+03:00",
+   "kelimeler": [
+    "bakan",
+    "diyen",
+    "etmed",
+    "etti",
+    "frans",
+    "icisl",
+    "istif",
+    "kabul",
+    "kaybe",
+    "kontr",
+    "macro",
+    "polis"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "620a39025ee9": {
+   "id": "620a39025ee9",
+   "kaynak": "Hürriyet",
+   "baslik": "Yazılı Kanyon'da facia: Eğitim için giden İHH ekibinden 1 eğitmen hayatını kaybetti, 10 kişi kurtarılmayı bekliyor",
+   "ozet": "Isparta Sütçüler'deki kanyonda yönünü kaybeden 14 kişilik İHH gönüllü grubunu arama çalışmalarında acı haber geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yazili-kanyonda-facia-egitim-icin-giden-ihh-ekibinden-1-egitmen-hayatini-kaybetti-10-kisi-kurtarilmayi-bekliyor-43346981",
+   "zaman": "2026-10-19T11:45:00+03:00",
+   "kelimeler": [
+    "10",
+    "bekli",
+    "egiti",
+    "egitm",
+    "ekibi",
+    "facia",
+    "giden",
+    "hayat",
+    "ihh",
+    "kanyo",
+    "kaybe",
+    "kisi",
+    "kurta",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e0306adcfeec": {
+   "id": "e0306adcfeec",
+   "kaynak": "AA",
+   "baslik": "İsrail, casus yazılımlarla Arap medyasını ve gazetecileri hedef alıyor",
+   "ozet": "Siber güvenlik araştırma kuruluşu Citizen Lab, İsrailli dijital reklam şirketi Discover-Tech'in çevrim içi reklamlar aracılığıyla Al Jazeera bünyesindeki en az 45 cihazın casus yazılımlarla hedef alınmasında rol oynadığını ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-casus-yazilimlarla-arap-medyasini-ve-gazetecileri-hedef-aliyor/4093165",
+   "zaman": "2026-10-19T11:49:09+03:00",
+   "kelimeler": [
+    "aliyo",
+    "arap",
+    "casus",
+    "gazet",
+    "hedef",
+    "israi",
+    "medya",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d5bb18556b0c": {
+   "id": "d5bb18556b0c",
+   "kaynak": "AA",
+   "baslik": "Lübnan'ın doğusunda Türkmen çocuklar için Türkçe eğitim merkezi açıldı",
+   "ozet": "Yeryüzü Kalkınma Derneği (YKD), Lübnan'ın doğusundaki Baalbek bölgesine bağlı Duris köyünde yaşayan Türkmen çocuklar için onarımını tamamladığı okul binasında Türkçe Eğitim Merkezi'ni hizmete açtı.",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnanin-dogusunda-turkmen-cocuklar-icin-turkce-egitim-merkezi-acildi/4093166",
+   "zaman": "2026-10-19T11:49:33+03:00",
+   "kelimeler": [
+    "acild",
+    "cocuk",
+    "dogus",
+    "egiti",
+    "in",
+    "lubna",
+    "merke",
+    "turkc",
+    "turkm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60c83e13739e": {
+   "id": "60c83e13739e",
+   "kaynak": "AA",
+   "baslik": "Lille-Galatasaray maçını Sloven hakem Rade Obrenovic yönetecek",
+   "ozet": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde 21 Ekim Çarşamba günü Fransa temsilcisi Lille'e konuk olacağı maçı Sloven hakem Rade Obrenovic yönetecek.",
+   "link": "https://www.aa.com.tr/tr/spor/lille-galatasaray-macini-sloven-hakem-rade-obrenovic-yonetecek/4093167",
+   "zaman": "2026-10-19T11:50:38+03:00",
+   "kelimeler": [
+    "galat",
+    "hakem",
+    "lille",
+    "macin",
+    "obren",
+    "rade",
+    "slove",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "97999236ee74": {
+   "id": "97999236ee74",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'da yağışlar barajları coşturdu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbul-da-yagislar-barajlari-costurdu-p370588",
+   "zaman": "2026-10-19T11:51:47+03:00",
+   "kelimeler": [
+    "baraj",
+    "costu",
+    "istan",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b45c5b9104f2"
+  },
+  "860f7e329ecf": {
+   "id": "860f7e329ecf",
+   "kaynak": "Hürriyet",
+   "baslik": "Millî mücadelenin tarihî mirası Nutuk sekiz dilde dünyaya ulaşacak",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazi Mustafa Kemal Atatürk’ün Millî Mücadele yıllarını, bağımsızlığın kazanılmasını ve Cumhuriyet’in kuruluş sürecini belgelere dayalı olarak anlattığı Nutuk’u, yeni bir yayın ve araştırma sürecine taşıyan Nutuk Külliyatı Projesi’ni…",
+   "link": "https://www.hurriyet.com.tr/gundem/milli-mucadelenin-tarihi-mirasi-nutuk-sekiz-dilde-dunyaya-ulasacak-43346956",
+   "zaman": "2026-10-19T11:56:27+03:00",
+   "kelimeler": [
+    "dilde",
+    "dunya",
+    "milli",
+    "miras",
+    "mucad",
+    "nutuk",
+    "sekiz",
+    "tarih",
+    "ulasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "19.10 12:01:20  9 yeni haber",
   "19.10 11:46:01  7 yeni haber",
   "19.10 11:33:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İrkutsk vakası: Dünya Kovid-19'dan hangi dersleri çıkardı?",
   "19.10 11:31:12  11 yeni haber",
@@ -12156,8 +12377,7 @@
   "17.10 10:16:05  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 10:02:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu y",
   "17.10 09:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Kütahya'da 3.4 büyüklüğünde deprem",
-  "17.10 09:31:04  2 yeni haber",
-  "17.10 08:46:59  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Bakırköy'de tanker devrildi: 1 kişi yaralandı"
+  "17.10 09:31:04  2 yeni haber"
  ],
  "otomatik": false
 }
