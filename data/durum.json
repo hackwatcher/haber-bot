@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "7c5aba98b962": {
-   "id": "7c5aba98b962",
-   "kaynak": "Hürriyet",
-   "baslik": "Hafta sonuna dikkat! Uzman isim il il uyardı: Kuvvetli yağış ve fırtına etkili olacak",
-   "ozet": "Meteoroloji Genel Müdürlüğü Hava Tahmin Uzmanı Abdullah Macit, hafta sonu için kuvvetli yağış ve fırtına uyarısında bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/hafta-sonuna-dikkat-uzman-isim-il-il-uyardi-kuvvetli-yagis-ve-firtina-etkili-olacak-43344238",
-   "zaman": "2026-10-16T15:33:16+03:00",
-   "kelimeler": [
-    "dikka",
-    "etkil",
-    "firti",
-    "hafta",
-    "il",
-    "isim",
-    "kuvve",
-    "olaca",
-    "sonun",
-    "uyard",
-    "uzman",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "348a2c087355": {
-   "id": "348a2c087355",
-   "kaynak": "Hürriyet",
-   "baslik": "'Balina James'in 3 koruması operasyonla yakalandı! Aramalarda 7 milyon 150 bin dolar ele geçirildi",
-   "ozet": "\"Kripto para dolandırıcılığı\" suçundan kırmızı bültenle aranan ve düzenlenen operasyonla yakalanan \"Balina James\" lakaplı Richard James Schueller'in 3 koruması düzenlenen operasyonla yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/balina-jamesin-3-korumasi-operasyonla-yakalandi-aramalarda-7-milyon-150-bin-dolar-ele-gecirildi-43344219",
-   "zaman": "2026-10-16T15:36:00+03:00",
-   "kelimeler": [
-    "150",
-    "arama",
-    "balin",
-    "bin",
-    "dolar",
-    "ele",
-    "gecir",
-    "in",
-    "james",
-    "korum",
-    "milyo",
-    "opera",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "314349792299": {
-   "id": "314349792299",
-   "kaynak": "Sözcü",
-   "baslik": "CHP 48 ismi ihraç etti",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-chp-48-ismi-ihrac-etti-p369778",
-   "zaman": "2026-10-16T15:45:23+03:00",
-   "kelimeler": [
-    "48",
-    "chp",
-    "etti",
-    "ihrac",
-    "ismi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5385d23be572": {
    "id": "5385d23be572",
    "kaynak": "BBC Türkçe",
@@ -10472,7 +10406,10 @@
     "tbmm"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "dd799410a536": {
    "id": "dd799410a536",
@@ -13851,9 +13788,147 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f6334b0787b5": {
+   "id": "f6334b0787b5",
+   "kaynak": "TRT Haber",
+   "baslik": "TCMB, perşembe günü faiz kararını açıklayacak",
+   "ozet": "Yurt içinde gözler bu hafta Türkiye Cumhuriyet Merkez Bankasının TCMB faiz kararına çevrilirken, perşembe günü açıklanacak karar öncesi beklenti anketine katılan ekonomistler, ekim ayında TCMB'nin politika faizini 1 puan indirerek yüzde 36'ya çekmesini bekliyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/tcmb-persembe-gunu-faiz-kararini-aciklayacak-960536.html",
+   "zaman": "2026-10-19T15:22:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "faiz",
+    "gunu",
+    "karar",
+    "perse",
+    "tcmb"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-19T15:48:51.988549+03:00",
+   "ig_id": "17979094790917939",
+   "reels_id": "18134154415669885",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2308109969971143",
+   "slayt": 5,
+   "kanca": "FAİZDE KRİTİK VİRAJ"
+  },
+  "80aec4d39fe3": {
+   "id": "80aec4d39fe3",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş, Kırgızistan'a gitti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Türk Devletleri Parlamenter Asamblesi 15’inci Genel Kurulu’na katılmak üzere Kırgızistan’ın başkenti Bişkek’e gitti.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-kirgizistana-gitti-43347422",
+   "zaman": "2026-10-19T15:26:45+03:00",
+   "kelimeler": [
+    "baska",
+    "gitti",
+    "kirgi",
+    "kurtu",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2ba46df96644"
+  },
+  "514cf6d4b917": {
+   "id": "514cf6d4b917",
+   "kaynak": "AA",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Zorlu: Kurultay kavramı, kadim Türk tarihinin ayrılmaz bir parçasıdır",
+   "ozet": "AK Parti Genel Başkan Yardımcısı, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, \"Kurultay kavramı, kadim Türk tarihinin ve yönetim tarihinin ayrılmaz bir parçasıdır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-kurultay-kavrami-kadim-turk-tarihinin-ayrilmaz-bir-parcasidir/4093501",
+   "zaman": "2026-10-19T15:29:32+03:00",
+   "kelimeler": [
+    "ak",
+    "ayril",
+    "baska",
+    "genel",
+    "kadim",
+    "kavra",
+    "kurul",
+    "parca",
+    "parti",
+    "tarih",
+    "turk",
+    "yardi",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79c6698f0cb8": {
+   "id": "79c6698f0cb8",
+   "kaynak": "TRT Haber",
+   "baslik": "Sağanağın taşıdığı atıklar Zonguldak Limanı'nı kapladı",
+   "ozet": "Zonguldak'ta sağanak nedeniyle sürüklenen evsel atıklar ve ağaç parçaları limanda birikerek su yüzeyini kapladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/saganagin-tasidigi-atiklar-zonguldak-limanini-kapladi-960538.html",
+   "zaman": "2026-10-19T15:35:00+03:00",
+   "kelimeler": [
+    "atikl",
+    "kapla",
+    "liman",
+    "ni",
+    "sagan",
+    "tasid",
+    "zongu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "36af43f6e685": {
+   "id": "36af43f6e685",
+   "kaynak": "AA",
+   "baslik": "Çin'in başkenti Pekin'in nüfusunun üçte birinin 2035'te 60 yaş ve üstü olacağı öngörülüyor",
+   "ozet": "Çin'de başkent Pekin'in nüfusunun yaklaşık üçte birinin 60 yaş ve üstü olacağı tahmin ediliyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/cinin-baskenti-pekinin-nufusunun-ucte-birinin-2035te-60-yas-ve-ustu-olacagi-ongoruluyor/4093506",
+   "zaman": "2026-10-19T15:36:42+03:00",
+   "kelimeler": [
+    "2035",
+    "60",
+    "baske",
+    "birin",
+    "cin",
+    "in",
+    "nufus",
+    "olaca",
+    "ongor",
+    "pekin",
+    "te",
+    "ucte",
+    "ustu",
+    "yas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a534c4d2e4dc": {
+   "id": "a534c4d2e4dc",
+   "kaynak": "Hürriyet",
+   "baslik": "Kayıp Büşra bebek soruşturması | 40 gündür hiçbir ize rastlanmadı",
+   "ozet": "Sivas'ın Divriği ilçesinde kaybolduğu ihbarı yapılan 11 aylık Büşra bebek soruşturmasında, aradan geçen yaklaşık 40 güne rağmen hiçbir ize rastlanılamadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kayip-busra-bebek-sorusturmasi-40-gundur-hicbir-ize-rastlanmadi-43347432",
+   "zaman": "2026-10-19T15:37:17+03:00",
+   "kelimeler": [
+    "40",
+    "bebek",
+    "busra",
+    "gundu",
+    "hicbi",
+    "ize",
+    "kayip",
+    "rastl",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 15:48:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · TCMB, perşembe günü faiz kararını açıklayacak",
+  "19.10 15:45:58  5 yeni haber",
   "19.10 15:31:14  6 yeni haber",
   "19.10 15:16:11  8 yeni haber",
   "19.10 15:01:29  6 yeni haber",
@@ -14051,9 +14126,7 @@
   "17.10 13:15:54  2 yeni haber",
   "17.10 13:02:10  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Gülistan Doku soruşturması | Çalıştığı kafenin üst katındaki kameralar",
   "17.10 13:01:20  2 yeni haber",
-  "17.10 12:46:01  1 yeni haber",
-  "17.10 12:31:57  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Zonguldak'ta sağanağın ardından denize sürüklenen çöpler kıyıya vurdu",
-  "17.10 12:31:04  2 yeni haber"
+  "17.10 12:46:01  1 yeni haber"
  ],
  "otomatik": false
 }
