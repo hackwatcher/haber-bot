@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "474dc06263b9": {
-   "id": "474dc06263b9",
-   "kaynak": "Sözcü",
-   "baslik": "Mansur Yavaş'tan Ankaralılara uyarı: Bu akşama dikkat",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/mansur-yavastan-ankaralilara-uyari-bu-aksama-dikkat-p369889",
-   "zaman": "2026-10-16T17:32:26+03:00",
-   "kelimeler": [
-    "aksam",
-    "ankar",
-    "dikka",
-    "mansu",
-    "tan",
-    "uyari",
-    "yavas"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "00428f590143": {
    "id": "00428f590143",
    "kaynak": "Hürriyet",
@@ -2739,30 +2720,6 @@
    "story_id": "18112370039336748",
    "slayt": 1,
    "kanca": "Son dakika"
-  },
-  "4efe224f7f3a": {
-   "id": "4efe224f7f3a",
-   "kaynak": "XHABER",
-   "baslik": "#SONDAKİKA | Kubilay Kaan Kundakçı'nın öldürülmesine ilişkin davada:",
-   "ozet": "— Aleyna Kalaycıoğlu hakkında tahliye kararı verildi. — Alaattin Kadayıfçıoğlu 'kasten öldürme' suçundan müebbet hapis cezasına çarptırıldı.",
-   "link": "https://t.me/sahinozkan000/30261",
-   "zaman": "2026-10-16T17:31:19+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "#SONDAKİKA | Kubilay Kaan Kundakçı'nın öldürülmesine ilişkin davada:\n— Aleyna Kalaycıoğlu hakkında tahliye kararı verildi.\n— Alaattin Kadayıfçıoğlu 'kasten öldürme' suçundan müebbet hapis cezasına çarptırıldı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/Z1N9xiRFEboy7DgxD7kB3eOA6Md7PXmi8IzCgHgU7ndgPECpZ_TCrfp3u6aAKXcw9aDqAjIj0nkxP_NpgwpuauP-fS52A2tPiRJEUs4adDEkL1MC4NJ9unLWZmu04wscdxrWEvJ_5YoJit1_QekK5tl-fXbq3RyhWM5eWOLCPw_gOcDf97awgtC7PlZoawEo5nlnTgApDhFjq63j1RAF9pmxl2X9rt9n5mk2jn_ugK1etym_QZhl8JlmtoSYzkiMRU0B37z5L9RfBnk4PNBTGU4GBC8K5JFumt1bElYv9F3zpXkJUXjTJ5m2wvRgjblOE6upiI69jJdyi0DWglcVtA.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "davad",
-    "ilisk",
-    "kaan",
-    "kubil",
-    "kunda",
-    "nin",
-    "oldur",
-    "sonda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "cdfaec2931d7": {
    "id": "cdfaec2931d7",
@@ -14809,7 +14766,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber",
-    "NTV"
+    "NTV",
+    "BBC Türkçe"
    ],
    "paylasildi": "2026-10-19T17:32:15.685380+03:00",
    "ig_id": "18096393845556938",
@@ -14859,7 +14817,10 @@
     "na"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a79404c51c7e": {
    "id": "a79404c51c7e",
@@ -14903,9 +14864,134 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "154b7b3e5906"
+  },
+  "252111c08749": {
+   "id": "252111c08749",
+   "kaynak": "AA",
+   "baslik": "Hazine ve Maliye Bakan Yardımcısı Çelik emeklilik dilekçesini, SPK Başkanı Sütcü istifasını sundu",
+   "ozet": "Hazine ve Maliye Bakan Yardımcısı Osman Çelik, Bakan Mehmet Şimşek'e bugünden geçerli olmak üzere emeklilik dilekçesini verirken Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü, sağlık sorunları nedeniyle istifasını sundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakan-yardimcisi-celik-emeklilik-dilekcesini-spk-baskani-sutcu-istifasini-sundu/4093661",
+   "zaman": "2026-10-19T17:21:01+03:00",
+   "kelimeler": [
+    "bakan",
+    "baska",
+    "celik",
+    "dilek",
+    "emekl",
+    "hazin",
+    "istif",
+    "maliy",
+    "spk",
+    "sundu",
+    "sutcu",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "154b7b3e5906"
+  },
+  "1e74ae3567eb": {
+   "id": "1e74ae3567eb",
+   "kaynak": "TRT Haber",
+   "baslik": "Hazine ve Maliye Bakan Yardımcısı Çelik emekliliğini sundu",
+   "ozet": "Hazine ve Maliye Bakan Yardımcısı Osman Çelik, Bakan Şimşek'e bugünden geçerli olmak üzere emeklilik dilekçesini sundu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/hazine-ve-maliye-bakan-yardimcisi-celik-emekliligini-sundu-960552.html",
+   "zaman": "2026-10-19T17:33:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "celik",
+    "emekl",
+    "hazin",
+    "maliy",
+    "sundu",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5a5a06f87c99": {
+   "id": "5a5a06f87c99",
+   "kaynak": "Hürriyet",
+   "baslik": "Esenyurt Belediyesi Başkan Vekili Can Aksoy, görevden alındı",
+   "ozet": "Esenyurt Belediyesi Başkan Vekili Can Aksoy görevden alındı. Can Aksoy, İstanbul Vali Yardımcılığı görevini sürdürecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/esenyurt-belediyesi-baskan-vekili-can-aksoy-gorevden-alindi-43347614",
+   "zaman": "2026-10-19T17:33:17+03:00",
+   "kelimeler": [
+    "aksoy",
+    "alind",
+    "baska",
+    "beled",
+    "can",
+    "eseny",
+    "gorev",
+    "vekil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f74fd2089709"
+  },
+  "407ab86999e1": {
+   "id": "407ab86999e1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bodrum'da gıda güvenliği denetimleri: 8 işletmeye kapatma cezası",
+   "ozet": "Muğla'nın Bodrum ilçesinde belediye ekiplerince gerçekleştirilen denetimlerde, son kullanma tarihi geçmiş ürün sattığı belirlenen 8 işletmeye 3'er gün kapatma cezası uygulandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bodrumda-gida-guvenligi-denetimleri-8-isletmeye-kapatma-cezasi-960553.html",
+   "zaman": "2026-10-19T17:35:00+03:00",
+   "kelimeler": [
+    "bodru",
+    "cezas",
+    "denet",
+    "gida",
+    "guven",
+    "islet",
+    "kapat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1ca201cb2776": {
+   "id": "1ca201cb2776",
+   "kaynak": "AA",
+   "baslik": "Sakarya'da ekimdeki yağışlar kente 4,5 ay yetecek içme suyu sağladı",
+   "ozet": "Marmara Bölgesi'nin önemli içme suyu kaynaklarından Sapanca Gölü'ndeki su seviyesi, ekim ayında etkili olan yağışlarla 30,51 metreye çıktı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-ekimdeki-yagislar-kente-4-5-ay-yetecek-icme-suyu-sagladi/4093679",
+   "zaman": "2026-10-19T17:36:42+03:00",
+   "kelimeler": [
+    "ay",
+    "ekimd",
+    "icme",
+    "kente",
+    "sagla",
+    "sakar",
+    "suyu",
+    "yagis",
+    "yetec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f9aa736b8c99": {
+   "id": "f9aa736b8c99",
+   "kaynak": "BBC Türkçe",
+   "baslik": "SPK Başkanı Mahmut Sütcü istifa etti",
+   "ozet": "Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü'nün, sağlık sorunları nedeniyle istifa ettiği açıklandı. Hazine ve Maliye Bakan Yardımcısı Osman Çelik'in de Bakan Mehmet Şimşek'e emeklilik dilekçesini sunduğu kamuoyuna duyuruldu.",
+   "link": "https://www.bbc.com/turkce/articles/cmpqg5j2yw18o",
+   "zaman": "2026-10-19T17:37:39+03:00",
+   "kelimeler": [
+    "baska",
+    "etti",
+    "istif",
+    "mahmu",
+    "spk",
+    "sutcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "154b7b3e5906"
   }
  },
  "kayit": [
+  "19.10 17:45:56  3 yeni haber",
   "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
   "19.10 17:31:12  7 yeni haber",
   "19.10 17:16:08  1 yeni haber",
@@ -15104,8 +15190,7 @@
   "17.10 15:15:58  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 15:03:01  Paylaşıldı (otomatik, tek kart + Reels + Story): BBC Türkçe · İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
   "17.10 15:01:12  2 yeni haber",
-  "17.10 14:45:55  1 yeni haber",
-  "17.10 14:31:56  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Para ve not bırakıp evden ayrılan Selman Alkan'dan 6 gündür haber alın"
+  "17.10 14:45:55  1 yeni haber"
  ],
  "otomatik": false
 }
