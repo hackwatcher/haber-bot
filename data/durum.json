@@ -14100,7 +14100,10 @@
     "yardi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "5a5a06f87c99": {
    "id": "5a5a06f87c99",
@@ -16065,8 +16068,17 @@
     "murat",
     "tutuk"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-20T00:18:46.344360+03:00",
+   "ig_id": "17911439991556321",
+   "reels_id": "17907619419586093",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1432910549907452",
+   "slayt": 6,
+   "kanca": "EV HAPSİNDEN CEZAEVİNE"
   },
   "537f569ea52b": {
    "id": "537f569ea52b",
@@ -16200,9 +16212,49 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9c42419cd46c"
+  },
+  "5ebf1a678b8b": {
+   "id": "5ebf1a678b8b",
+   "kaynak": "Sözcü",
+   "baslik": "Hazine ve Maliye Bakanlığı'nda yeni atama",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/hazine-ve-maliye-bakanligi-atama-20-ekim-2026-p370771",
+   "zaman": "2026-10-20T00:12:07+03:00",
+   "kelimeler": [
+    "atama",
+    "bakan",
+    "hazin",
+    "maliy",
+    "nda",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e562eeec533": {
+   "id": "5e562eeec533",
+   "kaynak": "NTV",
+   "baslik": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
+   "ozet": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı. Gelir İdaresi Başkanlığına ise Şinasi Candan atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-1747070",
+   "zaman": "2026-10-20T00:14:40+03:00",
+   "kelimeler": [
+    "atand",
+    "bakan",
+    "hazin",
+    "kutlu",
+    "maliy",
+    "taski",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1e74ae3567eb"
   }
  },
  "kayit": [
+  "20.10 00:18:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Ev hapsinde gözaltına alınan Murat Ağırel tutuklandı",
+  "20.10 00:16:04  1 yeni haber",
   "20.10 00:02:53  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "20.10 00:01:19  2 yeni haber",
   "19.10 23:46:07  2 yeni haber",
@@ -16400,9 +16452,7 @@
   "17.10 22:17:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · Polis Özel Harekat, uluslararası keskin nişancı yarışmasında birinci o",
   "17.10 21:52:09  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · CHP’den istifa eden belediye başkanı YENİ Parti’ye geçti",
   "17.10 21:51:12  1 yeni haber",
-  "17.10 21:46:01  1 yeni haber",
-  "17.10 21:30:58  1 yeni haber",
-  "17.10 21:15:46  1 yeni haber"
+  "17.10 21:46:01  1 yeni haber"
  ],
  "otomatik": false
 }
