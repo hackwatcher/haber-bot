@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "7218d2a40f13": {
-   "id": "7218d2a40f13",
-   "kaynak": "Hürriyet",
-   "baslik": "Gözler ekim ayının geri kalanı ve kasımda: Yeniden geliyor! Hangi saatler riskli? Pastırma sıcakları beklentisi değişti mi?",
-   "ozet": "İstanbul’da hayatı olumsuz etkileyen sağanağın ardından yeni yağış uyarısı geldi. Meteoroloji uzmanları, yağışların yeniden etkisini artıracağı saatleri ve önümüzdeki günlerde İstanbul’u bekleyen hava durumunu açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gozler-ekim-ayinin-geri-kalani-ve-kasimda-yeniden-geliyor-hangi-saatler-riskli-pastirma-sicaklari-beklentisi-degisti-mi-43343088",
-   "zaman": "2026-10-16T09:06:00+03:00",
-   "kelimeler": [
-    "ayini",
-    "bekle",
-    "degis",
-    "ekim",
-    "geliy",
-    "geri",
-    "gozle",
-    "hangi",
-    "kalan",
-    "kasim",
-    "pasti",
-    "riskl",
-    "saatl",
-    "sicak",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5ffc7666257a": {
    "id": "5ffc7666257a",
    "kaynak": "BBC Türkçe",
@@ -10237,7 +10210,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber",
+    "AA"
    ]
   },
   "56db25e4c49b": {
@@ -10371,9 +10346,167 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c6851457b036": {
+   "id": "c6851457b036",
+   "kaynak": "TRT Haber",
+   "baslik": "'Alihan Kuriş Suç Örgütü' soruşturmasında 22 gözaltı",
+   "ozet": "Ankara merkezli 12 ilde 'Alihan Kuriş Suç Örgütü'ne yönelik düzenlenen operasyonda, haklarında gözaltı kararı verilen 38 şüpheliden 22si gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-22-gozalti-960489.html",
+   "zaman": "2026-10-19T08:55:00+03:00",
+   "kelimeler": [
+    "22",
+    "aliha",
+    "gozal",
+    "kuris",
+    "orgut",
+    "sorus",
+    "suc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6a3eab792433"
+  },
+  "460247353dd8": {
+   "id": "460247353dd8",
+   "kaynak": "AA",
+   "baslik": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında 22 şüpheli yakalandı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığınca \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturması kapsamında 22 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-22-supheli-yakalandi/4092984",
+   "zaman": "2026-10-19T08:57:09+03:00",
+   "kelimeler": [
+    "22",
+    "aliha",
+    "amacl",
+    "cikar",
+    "kuris",
+    "orgut",
+    "sorus",
+    "suc",
+    "suphe",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6a3eab792433"
+  },
+  "6dfe0573b848": {
+   "id": "6dfe0573b848",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'daki selde can kaybı 6'ya yükseldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-veya-istanbul-daki-selde-can-kaybi-6-ya-yukseldi-p370490",
+   "zaman": "2026-10-19T09:04:50+03:00",
+   "kelimeler": [
+    "can",
+    "daki",
+    "istan",
+    "kaybi",
+    "selde",
+    "ya",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "642f7ce12668"
+  },
+  "80a19a4ada9d": {
+   "id": "80a19a4ada9d",
+   "kaynak": "AA",
+   "baslik": "Küresel piyasalarda toparlanma eğilimi öne çıkıyor",
+   "ozet": "Küresel piyasalar, Orta Doğu'da yeni bir uzlaşı planı üzerinde çalışılması ve Çin'de açıklanan makroekonomik verilerden alınan olumlu sinyallerin risk iştahını desteklemesiyle haftaya toparlanma eğilimiyle başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-toparlanma-egilimi-one-cikiyor/4092986",
+   "zaman": "2026-10-19T09:04:55+03:00",
+   "kelimeler": [
+    "cikiy",
+    "egili",
+    "kures",
+    "one",
+    "piyas",
+    "topar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fefcee779885": {
+   "id": "fefcee779885",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek duyurdu | Yasa dışı 'yumurta' ticaretine darbe: 41 kadın 811 kez yumurta satışı yapmış",
+   "ozet": "Adalet Bakanı Akın Gürlek, İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, Türkiye, KKTC, Arnavutluk ve Gürcistan bağlantılı yasa dışı yumurta ticareti ağına yönelik 14 ilde eş zamanlı operasyon düzenlendiğini duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-yasa-disi-yumurta-ticaretine-darbe-41-kadin-811-kez-yumurta-satisi-yapmis-43346723",
+   "zaman": "2026-10-19T09:05:17+03:00",
+   "kelimeler": [
+    "41",
+    "811",
+    "bakan",
+    "darbe",
+    "disi",
+    "duyur",
+    "gurle",
+    "kadin",
+    "kez",
+    "satis",
+    "ticar",
+    "yapmi",
+    "yasa",
+    "yumur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "a081b5be0251": {
+   "id": "a081b5be0251",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Rusya içinde Ukrayna'ya çalışan Putin karşıtı casus şebekesi",
+   "ozet": "İki adam, savaş sırasında Ukrayna istihbaratını desteklemek için yaptıklarını söyledikleri çalışmaları anlattı.",
+   "link": "https://www.bbc.com/turkce/articles/cv5ynp4kprz6o",
+   "zaman": "2026-10-19T09:09:42+03:00",
+   "kelimeler": [
+    "calis",
+    "casus",
+    "icind",
+    "karsi",
+    "putin",
+    "rusya",
+    "sebek",
+    "ukray",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c2cfbd2bf1e": {
+   "id": "3c2cfbd2bf1e",
+   "kaynak": "NTV",
+   "baslik": "Yasa dışı üreme hücresi ticaretine operasyon. 41 kadın 811 kez yumurta satışı yapmış",
+   "ozet": "İstanbul dahil 14 ilde insan bedeni üzerinden haksız kazanç sağlayanlara yönelik operasyon düzenlendi.",
+   "link": "https://www.ntv.com.tr/turkiye/yasa-disi-ureme-hucresi-ticaretine-operasyon-41-kadin-811-kez-yumurta-satisi-yapmis-1746947",
+   "zaman": "2026-10-19T09:13:45+03:00",
+   "kelimeler": [
+    "41",
+    "811",
+    "disi",
+    "hucre",
+    "kadin",
+    "kez",
+    "opera",
+    "satis",
+    "ticar",
+    "ureme",
+    "yapmi",
+    "yasa",
+    "yumur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "fefcee779885"
   }
  },
  "kayit": [
+  "19.10 09:16:01  3 yeni haber",
   "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
   "19.10 09:01:20  4 yeni haber",
   "19.10 08:46:08  1 yeni haber",
@@ -10572,8 +10705,7 @@
   "17.10 02:16:13  1 yeni haber",
   "17.10 02:16:13  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "17.10 01:17:17  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · 31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
-  "17.10 01:15:59  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "17.10 01:01:12  1 yeni haber"
+  "17.10 01:15:59  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
  ],
  "otomatik": false
 }
