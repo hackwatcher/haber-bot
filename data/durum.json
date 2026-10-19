@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "5a050fc8a301": {
-   "id": "5a050fc8a301",
-   "kaynak": "Hürriyet",
-   "baslik": "MHP lideri Bahçeli'nin 25 yıllık siyasi çizgisi uluslararası dergide",
-   "ozet": "İzmir Bakırçay Üniversitesi'nden Prof. Dr. Ali Taş, MHP Genel Başkanı Devlet Bahçeli'nin 2000-2025 yılları arasında yaptığı yaklaşık 300 konuşmayı inceledi. Prof. Dr. Ali Taş'ın çalışması Uluslararası hakemli dergi 'Journal of Political Ideologies'de yayımlandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahcelinin-25-yillik-siyasi-cizgisi-uluslararasi-dergide-43344018",
-   "zaman": "2026-10-16T13:29:00+03:00",
-   "kelimeler": [
-    "25",
-    "bahce",
-    "cizgi",
-    "dergi",
-    "lider",
-    "mhp",
-    "nin",
-    "siyas",
-    "ulusl",
-    "yilli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fd59281369c2": {
-   "id": "fd59281369c2",
-   "kaynak": "Sözcü",
-   "baslik": "Halk TV soruşturmasında yeni gelişme! 12 kişi adliyede",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/halk-tv-sorusturmasinda-12-kisi-adliyede-p369802",
-   "zaman": "2026-10-16T13:29:27+03:00",
-   "kelimeler": [
-    "12",
-    "adliy",
-    "gelis",
-    "halk",
-    "kisi",
-    "sorus",
-    "tv",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "377785ffb5ba": {
    "id": "377785ffb5ba",
    "kaynak": "Hürriyet",
@@ -12412,7 +12370,10 @@
     "yeter"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8baae6121ae4": {
    "id": "8baae6121ae4",
@@ -12772,9 +12733,220 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "eee6bc80efbf": {
+   "id": "eee6bc80efbf",
+   "kaynak": "AA",
+   "baslik": "Üç boyutlu modellemeyle böbrek tümörünün haritası çıkarılarak kanser yok ediliyor",
+   "ozet": "Ürolojik kanser cerrahisinde kullanılan ve hastanın gerçek radyolojik verileriyle oluşturulan 3D “dijital ikiz” modeli, tümörlü organın haritasını çıkararak tümörün diğer organlara zarar vermeden ve tam olarak temizlenmesini kolaylaştırıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/uc-boyutlu-modellemeyle-bobrek-tumorunun-haritasi-cikarilarak-kanser-yok-ediliyor/4093100",
+   "zaman": "2026-10-19T11:02:27+03:00",
+   "kelimeler": [
+    "bobre",
+    "boyut",
+    "cikar",
+    "edili",
+    "harit",
+    "kanse",
+    "model",
+    "tumor",
+    "uc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a4da84b94db": {
+   "id": "1a4da84b94db",
+   "kaynak": "TRT Haber",
+   "baslik": "Selin vurduğu Ayazağa'da kentsel dönüşüm mesaisi başladı",
+   "ozet": "Sarıyer Ayazağa'da yaşanan sel baskınlarının ardından bölgede kalıcı çözüm için Kentsel Dönüşüm Ofisi açıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/selin-vurdugu-ayazagada-kentsel-donusum-mesaisi-basladi-960518.html",
+   "zaman": "2026-10-19T12:55:00+03:00",
+   "kelimeler": [
+    "ayaza",
+    "basla",
+    "donus",
+    "kents",
+    "mesai",
+    "selin",
+    "vurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "85f0afaefb31": {
+   "id": "85f0afaefb31",
+   "kaynak": "TRT Haber",
+   "baslik": "BM Dünya Gıda Programı: Finansman yetersizliği nedeniyle 500 bin Gazzeliye yardım kesilecek",
+   "ozet": "Birleşmiş Milletler Dünya Gıda Programı WFP, finansman yetersizliği nedeniyle 500 bin Gazzeliye yönelik yardımları sonlandıracağını açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-dunya-gida-programi-finansman-yetersizligi-nedeniyle-500-bin-gazzeliye-yardim-kesilecek-960519.html",
+   "zaman": "2026-10-19T13:10:00+03:00",
+   "kelimeler": [
+    "500",
+    "bin",
+    "bm",
+    "dunya",
+    "finan",
+    "gazze",
+    "gida",
+    "kesil",
+    "neden",
+    "progr",
+    "yardi",
+    "yeter"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7cef9e2aa745"
+  },
+  "ba540193cf4a": {
+   "id": "ba540193cf4a",
+   "kaynak": "AA",
+   "baslik": "Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı yarın Brüksel'de yapılacak",
+   "ozet": "\"Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı\", Dışişleri Bakanı Hakan Fidan, İçişleri Bakanı Mustafa Çiftçi ve Adalet Bakanı Akın Gürlek'in katılımıyla yarın Belçika'nın başkenti Brüksel'de düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisi-yarin-brukselde-yapilacak/4093273",
+   "zaman": "2026-10-19T13:11:44+03:00",
+   "kelimeler": [
+    "adale",
+    "bakan",
+    "belci",
+    "bruks",
+    "disis",
+    "icisl",
+    "topla",
+    "turki",
+    "yapil",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "37c243c7f3bd": {
+   "id": "37c243c7f3bd",
+   "kaynak": "AA",
+   "baslik": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilere ve mülklerine saldırdı",
+   "ozet": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'da Filistinlilere saldırarak 2 kişiyi yaraladı, bir aracı ateşe verdi, 2 evi yakmaya çalıştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilere-ve-mulklerine-saldirdi/4093277",
+   "zaman": "2026-10-19T13:15:26+03:00",
+   "kelimeler": [
+    "bati",
+    "filis",
+    "gasbe",
+    "israi",
+    "mulkl",
+    "saldi",
+    "seria",
+    "topra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6c2ccbcfb5fe"
+  },
+  "11d5286ce530": {
+   "id": "11d5286ce530",
+   "kaynak": "Sözcü",
+   "baslik": "AKOM'dan İstanbul'a cuma alarmı!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbulda-sicaklik-22-dereceye-cikacak-cuma-yagmur-bekleniyor-p370531",
+   "zaman": "2026-10-19T13:17:12+03:00",
+   "kelimeler": [
+    "akom",
+    "alarm",
+    "cuma",
+    "dan",
+    "istan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "129355feb676": {
+   "id": "129355feb676",
+   "kaynak": "Hürriyet",
+   "baslik": "Adalet, Dışişleri ve İçişleri bakanları Belçika'ya ziyaret gerçekleştirecek",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, İçişleri Bakanı Mustafa Çiftçi ve Adalet Bakanı Akın Gürlek, yarın Brüksel'de düzenlenecek Türkiye- Belçika Dışişleri, Adalet ve İçişleri Bakanları Dördüncü Toplantısı'na katılmak üzere 19-21 Ekim tarihleri arasında Belçika'ya bir ziyaret…",
+   "link": "https://www.hurriyet.com.tr/gundem/adalet-disisleri-ve-icisleri-bakanlari-belcikaya-ziyaret-gerceklestirecek-43347170",
+   "zaman": "2026-10-19T13:17:45+03:00",
+   "kelimeler": [
+    "adale",
+    "bakan",
+    "belci",
+    "disis",
+    "gerce",
+    "icisl",
+    "ya",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba540193cf4a"
+  },
+  "ea78838755ab": {
+   "id": "ea78838755ab",
+   "kaynak": "AA",
+   "baslik": "İsrail ve Birleşik Krallık arasındaki siyasi ilişkiler kopma noktasında mı?",
+   "ozet": "Birleşik Krallık'ın Batı Şeria'daki yasa dışı İsrail yerleşimleriyle ticareti kısıtlama kararı, İsrail'in siyasetinin rotasını değiştirmemesi halinde küresel çapta siyasi bir yalnızlığa sürüklenme riskiyle karşı karşıya olduğunu gösteriyor.",
+   "link": "https://www.aa.com.tr/tr/analiz/israil-ve-birlesik-krallik-arasindaki-siyasi-iliskiler-kopma-noktasinda-mi/4093282",
+   "zaman": "2026-10-19T13:18:05+03:00",
+   "kelimeler": [
+    "arasi",
+    "birle",
+    "ilisk",
+    "israi",
+    "kopma",
+    "krall",
+    "nokta",
+    "siyas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d17a882f8bf8": {
+   "id": "d17a882f8bf8",
+   "kaynak": "NTV",
+   "baslik": "M7 metro istasyonu ne zaman açılacak? M7 Mecidiyeköy metro hattı açılış tarihi",
+   "ozet": "M7 metro istasyonunun açılacağı tarih, her gün Mecidiyeköy'den işe gidip gelmek için metro kullanan vatandaşların gündeminde yer alıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-m7-metro-istasyonu-ne-zaman-acilacak-m7-mecidiyekoy-metro-hatti-acilis-tarihi-1746999",
+   "zaman": "2026-10-19T13:26:32+03:00",
+   "kelimeler": [
+    "acila",
+    "acili",
+    "hatti",
+    "istas",
+    "m7",
+    "mecid",
+    "metro",
+    "tarih",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b41968040d30": {
+   "id": "b41968040d30",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İtalya'da şiddet olayları sonrası Meloni'den acil durum toplantısı",
+   "ozet": "İtalya'da başta Milano olmak üzere bazı kentlerde hafta sonunda düzenlenen gösterilerde yaşanan şiddet olayları ve gözaltıların ardından hükümet olağanüstü \"kamu düzeni\" toplantısı düzenliyor.",
+   "link": "https://www.bbc.com/turkce/articles/cm4g1j150z6wo",
+   "zaman": "2026-10-19T13:28:33+03:00",
+   "kelimeler": [
+    "den",
+    "durum",
+    "italy",
+    "melon",
+    "olayl",
+    "sidde",
+    "sonra",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 13:31:08  7 yeni haber",
   "19.10 13:16:12  5 yeni haber",
   "19.10 13:01:15  4 yeni haber",
   "19.10 12:48:07  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 27 ilde siber suç operasyonu: 643 şüpheli yakalandı",
@@ -12973,8 +13145,7 @@
   "17.10 11:02:05  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Emine Erdoğan'dan Türkiye Maarif Vakfı 10. Yıl Programı'na ilişkin pay",
   "17.10 11:01:19  4 yeni haber",
   "17.10 11:01:19  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 10:46:08  1 yeni haber",
-  "17.10 10:32:55  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): BBC Türkçe · Starlink interneti Ukrayna savaş alanında neden bu kadar önemli?"
+  "17.10 10:46:08  1 yeni haber"
  ],
  "otomatik": false
 }
