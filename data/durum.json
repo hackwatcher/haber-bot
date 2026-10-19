@@ -1,43 +1,5 @@
 {
  "haberler": {
-  "3a82fdb25963": {
-   "id": "3a82fdb25963",
-   "kaynak": "Sözcü",
-   "baslik": "Marmaray’da seferler gecikmeli yapılıyor",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/marmaray-da-seferler-gecikmeli-yapiliyor-p369671",
-   "zaman": "2026-10-16T08:04:50+03:00",
-   "kelimeler": [
-    "gecik",
-    "marma",
-    "sefer",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "096af30d86c0": {
-   "id": "096af30d86c0",
-   "kaynak": "Hürriyet",
-   "baslik": "33 ilde dev operasyon: Yasa dışı bahis çetesine ağır darbe!",
-   "ozet": "İçişleri Bakanlığı Eskişehir merkezli 33 ilde Yasa Dışı Bahis suçuna yönelik yürütülen planlı çalışmalar kapsamında 119 şüpheliye yönelik eşzamanlı operasyon düzenlendiğini duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/33-ilde-yasa-disi-bahis-operasyonu-119-supheliye-es-zamanli-baskin-43343501",
-   "zaman": "2026-10-16T08:11:00+03:00",
-   "kelimeler": [
-    "33",
-    "agir",
-    "bahis",
-    "cetes",
-    "darbe",
-    "dev",
-    "disi",
-    "ilde",
-    "opera",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "bf37219eefc7": {
    "id": "bf37219eefc7",
    "kaynak": "Hürriyet",
@@ -9712,7 +9674,10 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7fab7515cb74": {
    "id": "7fab7515cb74",
@@ -9976,7 +9941,8 @@
     "yolcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "886bf98a71e5": {
    "id": "886bf98a71e5",
@@ -10243,9 +10209,80 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d7048084b429": {
+   "id": "d7048084b429",
+   "kaynak": "Hürriyet",
+   "baslik": "ABD’nin İstanbul Başkonsolosu Michael Lally, Hürriyet için kaleme aldı… Bir Saygı Yolculuğu",
+   "ozet": "Seksen yıl önce bir Amerikan zırhlısı, Türkiye ile Amerika Birleşik Devletleri’nin yan yana duracağı mesajını taşıyarak İstanbul Boğazı’na girdi. Bu ziyaret 22-28 Ekim tarihleri arasında Beşiktaş’taki Deniz Müzesi’nde düzenlenecek gezici bir sergiyle anılıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/abdnin-istanbul-baskonsolosu-michael-lally-hurriyet-icin-kaleme-aldi-bir-saygi-yolculugu-43346660",
+   "zaman": "2026-10-19T05:53:00+03:00",
+   "kelimeler": [
+    "abd",
+    "aldi",
+    "basko",
+    "hurri",
+    "istan",
+    "kalem",
+    "lally",
+    "micha",
+    "nin",
+    "saygi",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8654ab4327e9"
+  },
+  "57887e728c29": {
+   "id": "57887e728c29",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
+   "ozet": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki barış görüşmelerinde \"büyük ilerleme\" kaydedildiğini ileri sürerek, öte yandan Ukrayna Devlet Başkanı Vladimir Zelenskiyi dünya dizel pazarlarına ciddi zarar veren Rusya'daki dizel rafinerilerini hedef almakla ve savaşı…",
+   "link": "https://www.trthaber.com/haber/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi-960487.html",
+   "zaman": "2026-10-19T07:54:00+03:00",
+   "kelimeler": [
+    "almas",
+    "daki",
+    "dizel",
+    "elest",
+    "hedef",
+    "nin",
+    "rafin",
+    "rusya",
+    "trump",
+    "ukray"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7373f24a8c1"
+  },
+  "a987291bbc06": {
+   "id": "a987291bbc06",
+   "kaynak": "TRT Haber",
+   "baslik": "Filistin Eğitim Bakanlığı, İsrail saldırılarına maruz kalan öğrencilere uluslararası koruma istedi",
+   "ozet": "Filistin Eğitim Bakanlığı, İsrail'in son 24 saatte Gazze'de 3 öğrenciyi öldürdüğünü belirterek, çocukların korunması için uluslararası eylem çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/filistin-egitim-bakanligi-israil-saldirilarina-maruz-kalan-ogrencilere-uluslararasi-koruma-istedi-960488.html",
+   "zaman": "2026-10-19T07:58:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "egiti",
+    "filis",
+    "israi",
+    "isted",
+    "kalan",
+    "korum",
+    "maruz",
+    "ogren",
+    "saldi",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 08:16:01  1 yeni haber",
   "19.10 08:01:22  1 yeni haber",
   "19.10 07:46:05  1 yeni haber",
   "19.10 07:16:01  6 yeni haber",
@@ -10444,8 +10481,7 @@
   "17.10 01:01:12  1 yeni haber",
   "17.10 00:47:18  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de",
   "17.10 00:46:00  1 yeni haber",
-  "17.10 00:02:43  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · SPK'dan 37 kişi hakkında suç duyurusu kararı",
-  "17.10 00:01:15  2 yeni haber"
+  "17.10 00:02:43  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · SPK'dan 37 kişi hakkında suç duyurusu kararı"
  ],
  "otomatik": false
 }
