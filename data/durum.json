@@ -1,31 +1,5 @@
 {
  "haberler": {
-  "9ca462e8a43f": {
-   "id": "9ca462e8a43f",
-   "kaynak": "Hürriyet",
-   "baslik": "Kubilay Kaan Kundakçı cinayeti davasında karar verildi",
-   "ozet": "Kubilay Kaan Kundakçı’nın silahlı saldırıda öldürülmesine ilişkin davada karar açıklandı. Mahkeme heyeti, tutuklu bulunan Aleyna Kalaycıoğlu’nun beraatine karar verirken, Alaattin Kadayıfçıoğlu’nu 'Kasten öldürme' suçundan müebbet hapis cezasına çarptırdı.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-kubilay-kaan-kundakci-cinayeti-davasinda-karar-verildi-43344426",
-   "zaman": "2026-10-16T17:21:00+03:00",
-   "kelimeler": [
-    "cinay",
-    "davas",
-    "kaan",
-    "karar",
-    "kubil",
-    "kunda",
-    "veril"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü"
-   ],
-   "paylasildi": "2026-10-16T18:29:56.361705+03:00",
-   "ig_id": "18199147465381217",
-   "slayt": 1,
-   "kanca": "Son dakika"
-  },
   "474dc06263b9": {
    "id": "474dc06263b9",
    "kaynak": "Sözcü",
@@ -3676,7 +3650,10 @@
     "unive"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "9a77839af84b": {
    "id": "9a77839af84b",
@@ -6962,7 +6939,10 @@
     "sair"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "854a1b1ac13c": {
    "id": "854a1b1ac13c",
@@ -14687,9 +14667,247 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "1b2aa57b64b3"
+  },
+  "148b0e981a5b": {
+   "id": "148b0e981a5b",
+   "kaynak": "AA",
+   "baslik": "Bakan Işıkhan: Yeşil dönüşümün çalışma barışını koruyarak çalışmak hayati bir önem arz etmektedir",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Yeşil dönüşümün çalışma barışını koruyarak ve tüm işgücü piyasası paydaşları için, her düzeyde aktif işbirliği ve koordinasyon içerisinde çalışmak hayati bir önem arz etmektedir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-isikhan-yesil-donusumun-calisma-barisini-koruyarak-calismak-hayati-bir-onem-arz-etmektedir/4093616",
+   "zaman": "2026-10-19T16:36:12+03:00",
+   "kelimeler": [
+    "arz",
+    "bakan",
+    "baris",
+    "calis",
+    "donus",
+    "etmek",
+    "hayat",
+    "isikh",
+    "koruy",
+    "onem",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c426040e54d5": {
+   "id": "c426040e54d5",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan Aliya İzzetbegoviç'i andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Aliya İzzetbegoviç'in vefatının 23'üncü yıl dönümü dolayısıyla sosyal medya hesabından mesaj yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-aliya-izzetbegovici-andi-43347564",
+   "zaman": "2026-10-19T17:03:00+03:00",
+   "kelimeler": [
+    "aliya",
+    "andi",
+    "cumhu",
+    "erdog",
+    "izzet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "44f99ed1e42d"
+  },
+  "baf939a7d7aa": {
+   "id": "baf939a7d7aa",
+   "kaynak": "Hürriyet",
+   "baslik": "Elazığ merkezli hesap kiralama operasyonu: Yasa dışı bahse darbe, 9 gözaltı",
+   "ozet": "Siber polisin Elazığ, İstanbul ve Adana'da eş zamanlı gerçekleştirdiği baskınlarda, bahis sitelerine \"SET\" adı verilen banka hesapları sağlayan şebeke çökertildi. Operasyonda 9 şüpheli yakalanırken, 2 firariyi arama çalışmaları sürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/elazig-merkezli-hesap-kiralama-operasyonu-yasa-disi-bahse-darbe-9-gozalti-43347572",
+   "zaman": "2026-10-19T17:05:48+03:00",
+   "kelimeler": [
+    "bahse",
+    "darbe",
+    "disi",
+    "elazi",
+    "gozal",
+    "hesap",
+    "kiral",
+    "merke",
+    "opera",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "58c6d8d10ccd": {
+   "id": "58c6d8d10ccd",
+   "kaynak": "TRT Haber",
+   "baslik": "Avustralyada ünlülerin kumar reklamı yapması yasaklanıyor",
+   "ozet": "Avustralya'nın 2027'den itibaren kamuoyu tarafından tanınmış kişilerin kumar reklamlarında yer almasını yasakladığı bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/avustralyada-unlulerin-kumar-reklami-yapmasi-yasaklaniyor-960550.html",
+   "zaman": "2026-10-19T17:07:00+03:00",
+   "kelimeler": [
+    "avust",
+    "kumar",
+    "rekla",
+    "unlul",
+    "yapma",
+    "yasak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d140cd45172e": {
+   "id": "d140cd45172e",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Aliya İzzetbegoviçi anma mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Aliya İzzetbegoviç'in ölüm yıl dönümüyle ilgili mesaj paylaştı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-aliya-izzetbegovici-anma-mesaji-960549.html",
+   "zaman": "2026-10-19T17:07:00+03:00",
+   "kelimeler": [
+    "aliya",
+    "anma",
+    "cumhu",
+    "dan",
+    "erdog",
+    "izzet",
+    "mesaj"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0cde11c70b4f": {
+   "id": "0cde11c70b4f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Ege Üniversitesi'ndeki köpeklerin toplatılmasında taraflar ne diyor?",
+   "ozet": "Ege Üniversitesi'ndeki bakım alanında yaşayan 170 köpekten 86'sı 16 Ekim'i 17 Ekim'e bağlayan gece yarısı toplatıldı. Üniversitesinin hayvan hakları topluluğu, Bornova'daki bir yerleşkeye götürülen köpeklerin sahiplendirilmesi için çalışma başlattı.",
+   "link": "https://www.bbc.com/turkce/articles/cmn4e74v2ex3o",
+   "zaman": "2026-10-19T17:20:56+03:00",
+   "kelimeler": [
+    "diyor",
+    "ege",
+    "kopek",
+    "ndeki",
+    "taraf",
+    "topla",
+    "unive"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f37ddb544d6b"
+  },
+  "154b7b3e5906": {
+   "id": "154b7b3e5906",
+   "kaynak": "AA",
+   "baslik": "Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sermaye-piyasasi-kurulu-spk-baskani-sutcu-istifasini-sundu/4093661",
+   "zaman": "2026-10-19T17:21:01+03:00",
+   "kelimeler": [
+    "baska",
+    "istif",
+    "kurul",
+    "piyas",
+    "serma",
+    "spk",
+    "sundu",
+    "sutcu"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ],
+   "paylasildi": "2026-10-19T17:32:15.685380+03:00",
+   "ig_id": "18096393845556938",
+   "reels_id": "18350384872282600",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1156325733738320",
+   "slayt": 1,
+   "kanca": "Ekonomi"
+  },
+  "86f864c8437c": {
+   "id": "86f864c8437c",
+   "kaynak": "TRT Haber",
+   "baslik": "SPK Başkanı Sütçü istifasını sundu",
+   "ozet": "Sermaye Piyasası Kurulu SPK Başkanı Mahmut Sütçü, sağlık sorunları nedeniyle istifasını sundu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/spk-baskani-sutcu-istifasini-sundu-960551.html",
+   "zaman": "2026-10-19T17:22:00+03:00",
+   "kelimeler": [
+    "baska",
+    "istif",
+    "spk",
+    "sundu",
+    "sutcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "154b7b3e5906"
+  },
+  "f74fd2089709": {
+   "id": "f74fd2089709",
+   "kaynak": "NTV",
+   "baslik": "Esenyurt Belediyesi Başkanlığı'na kayyum olarak atanan Can Aksoy görevden alındı",
+   "ozet": "Esenyurt Belesiyesi kayyumu Can Aksoy görevden alındı. Aksoy, İstanbul Vali Yardımcısı olarak göreve devam edecek.",
+   "link": "https://www.ntv.com.tr/turkiye/esenyurt-belediyesi-kayyumu-can-aksoy-gorevden-alindi-1747038",
+   "zaman": "2026-10-19T17:27:02+03:00",
+   "kelimeler": [
+    "aksoy",
+    "alind",
+    "atana",
+    "baska",
+    "beled",
+    "can",
+    "eseny",
+    "gorev",
+    "kayyu",
+    "na"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a79404c51c7e": {
+   "id": "a79404c51c7e",
+   "kaynak": "Sözcü",
+   "baslik": "Fon krizinin ardından Hazine ve Maliye Bakan Yardımcısı ve SPK Başkanı gitti",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mahmut-sutcu-istifa-mi-etti-p370705",
+   "zaman": "2026-10-19T17:29:37+03:00",
+   "kelimeler": [
+    "ardin",
+    "bakan",
+    "baska",
+    "fon",
+    "gitti",
+    "hazin",
+    "krizi",
+    "maliy",
+    "spk",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "88b689ec0f1f": {
+   "id": "88b689ec0f1f",
+   "kaynak": "NTV",
+   "baslik": "Sermaye Piyasası Kurulu Başkanı Mahmut Sütçü istifa etti",
+   "ozet": "Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütçü istifa etti. Hazine ve Maliye Bakan Yardımcısı Osman Çelik ise emeklilik dilekçesini sundu.",
+   "link": "https://www.ntv.com.tr/turkiye/sermaye-piyasasi-kurulu-baskani-mahmut-sutcu-istifasini-sundu-1747039",
+   "zaman": "2026-10-19T17:29:47+03:00",
+   "kelimeler": [
+    "baska",
+    "etti",
+    "istif",
+    "kurul",
+    "mahmu",
+    "piyas",
+    "serma",
+    "sutcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "154b7b3e5906"
   }
  },
  "kayit": [
+  "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
+  "19.10 17:31:12  7 yeni haber",
   "19.10 17:16:08  1 yeni haber",
   "19.10 17:01:38  1 yeni haber",
   "19.10 16:56:27  5 yeni haber",
@@ -14887,9 +15105,7 @@
   "17.10 15:03:01  Paylaşıldı (otomatik, tek kart + Reels + Story): BBC Türkçe · İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
   "17.10 15:01:12  2 yeni haber",
   "17.10 14:45:55  1 yeni haber",
-  "17.10 14:31:56  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Para ve not bırakıp evden ayrılan Selman Alkan'dan 6 gündür haber alın",
-  "17.10 14:03:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): BBC Türkçe · Fransa genelinde protestolar başladı: Paris'te onlarca gözaltı",
-  "17.10 14:01:17  2 yeni haber"
+  "17.10 14:31:56  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Para ve not bırakıp evden ayrılan Selman Alkan'dan 6 gündür haber alın"
  ],
  "otomatik": false
 }
