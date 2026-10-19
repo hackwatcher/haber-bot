@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "9d0fe57fa0c1": {
-   "id": "9d0fe57fa0c1",
-   "kaynak": "Hürriyet",
-   "baslik": "Siirt'te çoğu öğrenci 22 kişi gıda zehirlenmesinden hastanelik oldu",
-   "ozet": "Siirt'in Kurtalan ilçesinde 19'u öğrenci 22 kişi gıda zehirlenmesi şüphesiyle hastaneye kaldırıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/siirtte-cogu-ogrenci-22-kisi-gida-zehirlenmesinden-hastanelik-oldu-43344650",
-   "zaman": "2026-10-16T21:47:48+03:00",
-   "kelimeler": [
-    "22",
-    "cogu",
-    "gida",
-    "hasta",
-    "kisi",
-    "ogren",
-    "siirt",
-    "te",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5ea7b2533f36": {
    "id": "5ea7b2533f36",
    "kaynak": "Hürriyet",
@@ -15673,9 +15652,29 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "74d8f5b89ee1"
+  },
+  "3de346f4d3ad": {
+   "id": "3de346f4d3ad",
+   "kaynak": "XHABER",
+   "baslik": "MS | Trabzonspor 2-0 Beşiktaş",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30294",
+   "zaman": "2026-10-19T21:56:12+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | Trabzonspor 2-0 Beşiktaş",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/cWVhcEC8Q_ccNCm1QIx78mbQ4osZ91U9nHmWAb9dY7UR3yk2svUIetJd39Zl35IJS7nbcSl6a-2D2_M8bl6jQr5kB082GAlhk0VUJCU6pJbvSICbnbLtBTyiIC4MCcaHL92tuBzaFJuT7oZsKwTCUxvKTyNg8jLg_cft6cp-J99zhzHWGZqfFucAaGEM6YnAehVYp81nC1rtBHCnvxYGX-s1wcBO45IjB11yoNSdmuMgAvedkY74sZSCTYpBuky6JDU_TIzKgNvhjUMmx2UALfjzW13ViR85X25NktDGw0fFXnHXgHyAa3pBM3zKiouy-osYkEPeEJ0wBpXE-x7zYw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "besik",
+    "ms",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 22:01:19  1 yeni haber",
   "19.10 21:46:02  2 yeni haber",
   "19.10 21:31:17  3 yeni haber",
   "19.10 21:16:05  3 yeni haber",
@@ -15874,8 +15873,7 @@
   "17.10 19:01:14  1 yeni haber",
   "17.10 18:45:50  2 yeni haber",
   "17.10 18:31:02  2 yeni haber",
-  "17.10 18:15:49  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "17.10 18:02:14  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Ayazağa'da dere yatağındaki yapıların yıkımına başlandı"
+  "17.10 18:15:49  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
  ],
  "otomatik": false
 }
