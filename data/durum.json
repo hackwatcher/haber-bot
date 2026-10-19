@@ -8032,7 +8032,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "13038c97d92f": {
    "id": "13038c97d92f",
@@ -11529,9 +11532,268 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "51305b8592f6": {
+   "id": "51305b8592f6",
+   "kaynak": "TRT Haber",
+   "baslik": "Ayazağa'da sel sonrası dere yatağında çalışmalar sürüyor",
+   "ozet": "İstanbul'da selden etkilenen Sarıyer Ayazağa Mahallesi'nde dere yatağındaki bazı yapıların yıkımının ardından bölgede temizlik ve enkaz kaldırma çalışmaları devam ediyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/ayazagada-sel-sonrasi-dere-yataginda-calismalar-suruyor-960508.html",
+   "zaman": "2026-10-19T11:04:00+03:00",
+   "kelimeler": [
+    "ayaza",
+    "calis",
+    "dere",
+    "sel",
+    "sonra",
+    "suruy",
+    "yatag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "49a7210cdebf": {
+   "id": "49a7210cdebf",
+   "kaynak": "AA",
+   "baslik": "Türkiye'de geçen ay 66 meteorolojik afet meydana geldi",
+   "ozet": "Türkiye'de eylül ayında 66 meteorolojik karakterli afet meydana gelirken, en fazla görülen afet türü şiddetli yağış ve sel olarak kayıtlara geçti.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyede-gecen-ay-66-meteorolojik-afet-meydana-geldi/4093105",
+   "zaman": "2026-10-19T11:05:47+03:00",
+   "kelimeler": [
+    "66",
+    "afet",
+    "ay",
+    "gecen",
+    "geldi",
+    "meteo",
+    "meyda",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72a59c06dda8": {
+   "id": "72a59c06dda8",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail muhalefetinden Trumpın Netanyahu desteğine tepki",
+   "ozet": "ABD Başkanı Donald Trump'ın İsrail'de 27 Ekim'de yapılacak seçimlere kısa bir süre kala mevcut Başbakan Binyamin Netanyahu'ya desteğini açıklaması, muhalefetin tepkisine neden oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/israil-muhalefetinden-trumpin-netanyahu-destegine-tepki-960507.html",
+   "zaman": "2026-10-19T11:07:00+03:00",
+   "kelimeler": [
+    "deste",
+    "israi",
+    "muhal",
+    "netan",
+    "tepki",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e4f7bab6e527"
+  },
+  "17db4d956844": {
+   "id": "17db4d956844",
+   "kaynak": "AA",
+   "baslik": "İrkutsk vakası: Dünya Kovid-19'dan hangi dersleri çıkardı?",
+   "ozet": "Kovid-19'un bize öğrettiği en önemli derslerden biri, salgınlarda zamanın en kıymetli kaynak olduğuydu. Küresel ve kamusal risk oluşturan acillerde zaman kazanmanın yolu ise erken, eksiksiz ve şeffaf bilgi paylaşımından geçiyor.",
+   "link": "https://www.aa.com.tr/tr/analiz/irkutsk-vakasi-dunya-kovid-19dan-hangi-dersleri-cikardi/4093118",
+   "zaman": "2026-10-19T11:10:23+03:00",
+   "kelimeler": [
+    "19",
+    "cikar",
+    "dan",
+    "dersl",
+    "dunya",
+    "hangi",
+    "irkut",
+    "kovid",
+    "vakas"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-19T11:33:49.546736+03:00",
+   "ig_id": "18070090547784721",
+   "reels_id": "18398081542202798",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1136145322705558",
+   "slayt": 6,
+   "kanca": "SİBİRYA'DA GİZEMLİ ÖLÜM"
+  },
+  "e9ed7b8d0009": {
+   "id": "e9ed7b8d0009",
+   "kaynak": "AA",
+   "baslik": "Malvarlığına karşı suçlar yüzde 30,5, kişilere karşı suçlar yüzde 11,4 azaldı",
+   "ozet": "Emniyet ve jandarma sorumluluk bölgelerinde, 1 Ocak-8 Ekim 2026 döneminde malvarlığına karşı işlenen 9 önemli suçta olay sayısı, 2021-2025 yıllarının aynı dönem ortalamasına göre yüzde 30,5, kişilere karşı işlenen 10 önemli suçta yüzde 11,4 azaldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/malvarligina-karsi-suclar-yuzde-30-5-kisilere-karsi-suclar-yuzde-11-4-azaldi/4093122",
+   "zaman": "2026-10-19T11:11:40+03:00",
+   "kelimeler": [
+    "11",
+    "30",
+    "azald",
+    "karsi",
+    "kisil",
+    "malva",
+    "sucla",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "353048802ab2": {
+   "id": "353048802ab2",
+   "kaynak": "Hürriyet",
+   "baslik": "16 yaşındaki oğlunu kaybeden anneden Meta için vahim iddia | 'Yapay zeka kullandılar, çocuğumuzu 20 dakika içinde kaybettik'",
+   "ozet": "ABD’de 16 yaşındaki oğlu Elijah’ın ölümü ardından Meta’ya dava açan anne Shannon Heacock, hukuk mücadelesini sürdürüyor. CNN Türk’ten Serdar Korucu’ya konuşan Heacock, “Oğlum ölmedi, öldürüldü” dedi, Mark Zuckerberg’ün sorumluluğu olduğunu söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/16-yasindaki-oglunu-kaybeden-anneden-meta-icin-vahim-iddia-mark-zuckerberg-sen-bir-yalancisin-43346894",
+   "zaman": "2026-10-19T11:13:00+03:00",
+   "kelimeler": [
+    "16",
+    "20",
+    "anned",
+    "cocug",
+    "icind",
+    "iddia",
+    "kaybe",
+    "kulla",
+    "meta",
+    "oglun",
+    "vahim",
+    "yapay",
+    "yasin",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed142b0a1a96": {
+   "id": "ed142b0a1a96",
+   "kaynak": "AA",
+   "baslik": "NBA'de yeni sezonun perdesi yarın açılacak",
+   "ozet": "Houston Rockets'ta Alperen Şengün, Philadelphia 76ers'ta Adem Bona ve Dallas Mavericks'te Tarık Biberovic forma giyecek.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-yeni-sezonun-perdesi-yarin-acilacak/4093127",
+   "zaman": "2026-10-19T11:15:22+03:00",
+   "kelimeler": [
+    "acila",
+    "nba",
+    "perde",
+    "sezon",
+    "yarin",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b016af77d95": {
+   "id": "4b016af77d95",
+   "kaynak": "Hürriyet",
+   "baslik": "Çocukları 'Kuş göstereceğim' yalanıyla kandırmaya çalıştılar! Mahallelinin saldırdığı şüpheliler kendilerini otoparka kilitledi",
+   "ozet": "İstanbul Kağıthane’de iddiaya göre, otoparkta alkol alan 2 şüpheli, sokakta oynayan 4 çocuğu \"Size kuş göstereceğim\" yalanıyla otoparka sokmaya çalıştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cocuklari-kus-gosterecegim-yalaniyla-kandirmaya-calistilar-mahallelinin-saldirdigi-supheliler-kendilerini-otoparka-kilitledi-43346910",
+   "zaman": "2026-10-19T11:17:28+03:00",
+   "kelimeler": [
+    "calis",
+    "cocuk",
+    "goste",
+    "kandi",
+    "kendi",
+    "kilit",
+    "kus",
+    "mahal",
+    "otopa",
+    "saldi",
+    "suphe",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f28e95c5dc72": {
+   "id": "f28e95c5dc72",
+   "kaynak": "TRT Haber",
+   "baslik": "Eylül ayında 66 meteorolojik afet yaşandı",
+   "ozet": "Türkiye'de eylül ayında 66 meteorolojik afet kayıtlara geçti. Şiddetli yağışların ekimde de etkisini sürdürmesiyle İstanbul ve Kocaeli başta olmak üzere birçok bölgede sel ve su baskınları yaşandı, 8 kişi hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/eylul-ayinda-66-meteorolojik-afet-yasandi-960509.html",
+   "zaman": "2026-10-19T11:18:00+03:00",
+   "kelimeler": [
+    "66",
+    "afet",
+    "ayind",
+    "eylul",
+    "meteo",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd85c1bf61dd": {
+   "id": "fd85c1bf61dd",
+   "kaynak": "AA",
+   "baslik": "Kanada'daki askeri üste çıkan yangında 39 kişi yaralandı",
+   "ozet": "Kanada makamları, Alberta eyaletindeki Wainwright Askeri Üssü'nde dün çıkan ve 4 askerin hayatını kaybettiği yangında, 19'u ağır 39 kişinin yaralandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kanadadaki-askeri-uste-cikan-yanginda-39-kisi-yaralandi/4093132",
+   "zaman": "2026-10-19T11:19:03+03:00",
+   "kelimeler": [
+    "39",
+    "asker",
+    "cikan",
+    "daki",
+    "kanad",
+    "kisi",
+    "uste",
+    "yangi",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ae4d473421ba": {
+   "id": "ae4d473421ba",
+   "kaynak": "AA",
+   "baslik": "İspanyol teknik direktör Josep Guardiola'dan Filistin için dayanışma çağrısı",
+   "ozet": "Josep Guardiola, \"Onların hayatları da bizimki kadar değerli. Onların acısı yabancı değil. Unutmayalım; Filistin ile dayanışmaya ara verilemez.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/ispanyol-teknik-direktor-josep-guardioladan-filistin-icin-dayanisma-cagrisi/4093133",
+   "zaman": "2026-10-19T11:19:47+03:00",
+   "kelimeler": [
+    "cagri",
+    "dan",
+    "dayan",
+    "direk",
+    "filis",
+    "guard",
+    "ispan",
+    "josep",
+    "tekni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f41432a576ee": {
+   "id": "f41432a576ee",
+   "kaynak": "AA",
+   "baslik": "Osmanlı döneminde hastane olarak da kullanılan binada 115 yıldır eğitim veriliyor",
+   "ozet": "Osmaniye'de yapımına 1907'de Almanlar tarafından başlanan, bir dönem hastane ve karargah olarak hizmet verilen yapıda, 1911'den bu yana eğitim de devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/osmanli-doneminde-hastane-olarak-da-kullanilan-binada-115-yildir-egitim-veriliyor/4093135",
+   "zaman": "2026-10-19T11:22:11+03:00",
+   "kelimeler": [
+    "115",
+    "binad",
+    "donem",
+    "egiti",
+    "hasta",
+    "kulla",
+    "osman",
+    "veril",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 11:33:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İrkutsk vakası: Dünya Kovid-19'dan hangi dersleri çıkardı?",
+  "19.10 11:31:12  11 yeni haber",
   "19.10 11:16:16  9 yeni haber",
   "19.10 11:01:25  5 yeni haber",
   "19.10 10:45:52  1 yeni haber",
@@ -11729,9 +11991,7 @@
   "17.10 09:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Kütahya'da 3.4 büyüklüğünde deprem",
   "17.10 09:31:04  2 yeni haber",
   "17.10 08:46:59  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Bakırköy'de tanker devrildi: 1 kişi yaralandı",
-  "17.10 08:30:57  1 yeni haber",
-  "17.10 08:17:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Sel felaketinin ardından görünmeyen tehlike! Uzman isim şebeke suların",
-  "17.10 08:01:27  1 yeni haber"
+  "17.10 08:30:57  1 yeni haber"
  ],
  "otomatik": false
 }
