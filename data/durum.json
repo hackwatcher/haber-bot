@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "b094059afe33": {
-   "id": "b094059afe33",
-   "kaynak": "BBC Türkçe",
-   "baslik": "MSCI'dan Türkiye kararı: Piyasa sınıflandırması nasıl değişebilir?",
-   "ozet": "Küresel endeks şirketi Morgan Stanley Capital International (MSCI), Türkiye'deki endekslerine dair bazı işlemleri dondurduğunu açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/cm75przp0ldvo",
-   "zaman": "2026-10-16T18:06:22+03:00",
-   "kelimeler": [
-    "dan",
-    "degis",
-    "karar",
-    "msci",
-    "nasil",
-    "piyas",
-    "sinif",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ffca765fc28b": {
    "id": "ffca765fc28b",
    "kaynak": "Hürriyet",
@@ -15010,7 +14990,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "449d76decf6d": {
    "id": "449d76decf6d",
@@ -15030,7 +15013,10 @@
     "yigin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3f7d8129fda4": {
    "id": "3f7d8129fda4",
@@ -15054,9 +15040,93 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9c42419cd46c"
+  },
+  "22856fc3297a": {
+   "id": "22856fc3297a",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, TESK Genel Başkanı'nı kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Esnaf ve Sanatkarları Konfederasyonu TESK Genel Başkanı Mehmet Yiğiner'i kabul etti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tesk-genel-baskanini-kabul-etti-960555.html",
+   "zaman": "2026-10-19T18:00:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cumhu",
+    "erdog",
+    "etti",
+    "genel",
+    "kabul",
+    "ni",
+    "tesk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "449d76decf6d"
+  },
+  "2ad505e7ad3e": {
+   "id": "2ad505e7ad3e",
+   "kaynak": "AA",
+   "baslik": "Dijital Üniversite Platformu başvuruları yarın sona erecek",
+   "ozet": "Yükseköğretim Kurulu (YÖK) himayesinde hayata geçirilen Dijital Üniversite Platformu için başvurular yarın sona erecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/dijital-universite-platformu-basvurulari-yarin-sona-erecek/4093707",
+   "zaman": "2026-10-19T18:02:38+03:00",
+   "kelimeler": [
+    "basvu",
+    "dijit",
+    "erece",
+    "platf",
+    "sona",
+    "unive",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "42d5b2053e19"
+  },
+  "a33be725a10f": {
+   "id": "a33be725a10f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Üsküdar Belediyesi yarın üçüncü kez başkanvekilini seçecek",
+   "ozet": "Üsküdar Belediyesi'nde, trafik kazasında hayatını kaybeden Dündar Ziya Gültekin'in yerine başkanvekili seçimi 20 Ekim Salı günü yapılacak.",
+   "link": "https://www.bbc.com/turkce/articles/c8r4yq0rnx32o",
+   "zaman": "2026-10-19T18:05:42+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "kez",
+    "secec",
+    "ucunc",
+    "uskud",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "525ad1db0e22": {
+   "id": "525ad1db0e22",
+   "kaynak": "AA",
+   "baslik": "Büyükçekmece'de D-100 kara yolunun bir bölümü 22.00-06.00 saatlerinde trafiğe kapatılacak",
+   "ozet": "Büyükçekmece'de D-100 kara yolunun Işık Sitesi Durağı'nın bulunduğu bölümü, devam eden çalışmalar nedeniyle 22.00-06.00 saatlerinde Ankara ve Edirne istikametlerinde ulaşıma kapatılacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/buyukcekmecede-d-100-kara-yolunun-bir-bolumu-2200-0600-saatlerinde-trafige-kapatilacak/4093714",
+   "zaman": "2026-10-19T18:08:49+03:00",
+   "kelimeler": [
+    "00",
+    "06",
+    "100",
+    "22",
+    "bolum",
+    "buyuk",
+    "kapat",
+    "kara",
+    "saatl",
+    "trafi",
+    "yolun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 18:15:58  2 yeni haber",
   "19.10 18:01:21  5 yeni haber",
   "19.10 17:45:56  3 yeni haber",
   "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
@@ -15255,8 +15325,7 @@
   "17.10 15:31:10  3 yeni haber",
   "17.10 15:15:58  1 yeni haber",
   "17.10 15:15:58  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 15:03:01  Paylaşıldı (otomatik, tek kart + Reels + Story): BBC Türkçe · İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
-  "17.10 15:01:12  2 yeni haber"
+  "17.10 15:03:01  Paylaşıldı (otomatik, tek kart + Reels + Story): BBC Türkçe · İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'"
  ],
  "otomatik": false
 }
