@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "5385d23be572": {
-   "id": "5385d23be572",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Türkiye ve Azerbaycan hangi konularda farklılaşıyor?",
-   "ozet": "“Tek millet, iki devlet” ilkesiyle son 10 yılda ilişkilerini her alanda derinleştiren ve stratejik ortak seviyesine çıkartan Türkiye ve Azerbaycan, Bakü’nün ilk ve orta dereceli okullarda \"başörtüsü yasağı\" getirmesi ve Ankara’nın buna tepkisi nedeniyle gerildi.",
-   "link": "https://www.bbc.com/turkce/articles/c9ly087xjkp0o",
-   "zaman": "2026-10-16T15:47:12+03:00",
-   "kelimeler": [
-    "azerb",
-    "farkl",
-    "hangi",
-    "konul",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "09d272d38e21": {
-   "id": "09d272d38e21",
-   "kaynak": "Hürriyet",
-   "baslik": "Samsun'da kan donduran cinayetin iddianamesi kabul edildi: HTS kayıtları oyunu bozdu!",
-   "ozet": "Samsun'un Canik ilçesinde park halindeki otomobilin yanında ölü bulunan Ferit Marhan'ın (45), satır ve bıçakla öldürülmesine ilişkin soruşturma tamamlandı. Cinayetle ilgili tutuklanan kadın, kocası ve oğlu hakkında hazırlanan iddianame kabul edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/samsunda-kan-donduran-cinayetin-iddianamesi-kabul-edildi-hts-kayitlari-oyunu-bozdu-43344248",
-   "zaman": "2026-10-16T15:56:59+03:00",
-   "kelimeler": [
-    "bozdu",
-    "cinay",
-    "dondu",
-    "edild",
-    "hts",
-    "iddia",
-    "kabul",
-    "kan",
-    "kayit",
-    "oyunu",
-    "samsu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1cea5eee16cb": {
    "id": "1cea5eee16cb",
    "kaynak": "Hürriyet",
@@ -6724,7 +6684,8 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "21d15ff4a081": {
    "id": "21d15ff4a081",
@@ -13924,9 +13885,196 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3b3943c9e640": {
+   "id": "3b3943c9e640",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'de enkaz altından çıkarılan 75 Filistinlinin cenazesi defnedildi",
+   "ozet": "Gazze kentinde işgalci İsrail'in yıktığı evlerin enkazından çıkarılan, aralarında kadın ve çocukların da bulunduğu 75 Filistinli toprağa verildi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-enkaz-altindan-cikarilan-75-filistinlinin-cenazesi-defnedildi-960537.html",
+   "zaman": "2026-10-19T15:20:00+03:00",
+   "kelimeler": [
+    "75",
+    "altin",
+    "cenaz",
+    "cikar",
+    "defne",
+    "enkaz",
+    "filis",
+    "gazze"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7455f56905ca"
+  },
+  "3e9f8ce0515a": {
+   "id": "3e9f8ce0515a",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum, Kazakistan Ekoloji ve Doğal Kaynaklar Bakanı Kuantyrov ile bir araya geldi",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Kazakistan Ekoloji ve Doğal Kaynaklar Bakanı Alibek Kuantyrov ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-kazakistan-ekoloji-ve-dogal-kaynaklar-bakani-kuantyrov-ile-bir-araya-geldi/4093507",
+   "zaman": "2026-10-19T15:36:55+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "dogal",
+    "ekolo",
+    "geldi",
+    "kayna",
+    "kazak",
+    "kuant",
+    "kurum"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "67fcf83d69bb": {
+   "id": "67fcf83d69bb",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi: Muhtarlarımız devletimizin sahadaki en yakın yol arkadaşlarıdır",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Türkiye Yüzyılı vizyonunun, devletin bütün kurumlarıyla millete daha iyi hizmet sunma iradesinin yol haritası olduğunu dile getirerek, \"Bu büyük yürüyüşte muhtarlarımız, devletimizin sahadaki en yakın yol arkadaşlarıdır.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-muhtarlarimiz-devletimizin-sahadaki-en-yakin-yol-arkadaslaridir-960540.html",
+   "zaman": "2026-10-19T15:42:00+03:00",
+   "kelimeler": [
+    "arkad",
+    "bakan",
+    "ciftc",
+    "devle",
+    "muhta",
+    "sahad",
+    "yakin",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9ab2429a8832": {
+   "id": "9ab2429a8832",
+   "kaynak": "TRT Haber",
+   "baslik": "Dolandırıcılıkla mücadelede 24 saat esaslı merkez kuruluyor",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, dolandırıcılık olaylarının önlenmesi, mağdurların maddi kayıplarının azaltılması ve suç gelirlerine hızlı müdahale edilmesi amacıyla Dolandırıcılıkla Mücadele Merkezinin DOLUNAY kurulacağını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/dolandiricilikla-mucadelede-24-saat-esasli-merkez-kuruluyor-960539.html",
+   "zaman": "2026-10-19T15:46:00+03:00",
+   "kelimeler": [
+    "24",
+    "dolan",
+    "esasl",
+    "kurul",
+    "merke",
+    "mucad",
+    "saat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3e305604f45a": {
+   "id": "3e305604f45a",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe Teknik Direktörü İsmail Kartal: Rakibe karşı 3 farklı kurgumuz var",
+   "ozet": "UEFA Şampiyonlar Ligi'nin 3. haftasında yarın Çekya'nın Slavia Prag ekibini konuk edecek Fenerbahçe'de teknik direktör İsmail Kartal, rakibe karşı 3 farklı kurguyla sahaya çıkıp kazanmak istediklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-ismail-kartal-rakibe-karsi-3-farkli-kurgumuz-var/4093528",
+   "zaman": "2026-10-19T15:50:52+03:00",
+   "kelimeler": [
+    "direk",
+    "farkl",
+    "fener",
+    "ismai",
+    "karsi",
+    "karta",
+    "kurgu",
+    "rakib",
+    "tekni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "94f83993505e": {
+   "id": "94f83993505e",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa'da güzellik merkezine dolandırıcılık operasyonu",
+   "ozet": "Bursa’da hizmet verilmediği halde vatandaşlara sözleşme ve senet imzalatarak icra takibi tehdidiyle haksız kazanç sağladığı öne sürülen güzellik merkezine operasyon düzenlendi. Aramalarda 305 senetli sözleşme ele geçirildi. Operasyonda gözaltına alınan F.B.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-guzellik-merkezine-dolandiricilik-operasyonu-43347460",
+   "zaman": "2026-10-19T15:51:44+03:00",
+   "kelimeler": [
+    "bursa",
+    "dolan",
+    "guzel",
+    "merke",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "96cb4e82e644": {
+   "id": "96cb4e82e644",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın Necran bölgesinde erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Necran bölgesinde erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-necran-bolgesinde-erken-uyari-sistemi-devreye-alindi/4093537",
+   "zaman": "2026-10-19T15:55:31+03:00",
+   "kelimeler": [
+    "alind",
+    "arabi",
+    "bolge",
+    "devre",
+    "erken",
+    "in",
+    "necra",
+    "siste",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "56ebf7d45bd3": {
+   "id": "56ebf7d45bd3",
+   "kaynak": "AA",
+   "baslik": "İstanbul ve 5 ildeki sel ve su baskınlarının sigorta maliyeti 2 milyar liraya yaklaştı",
+   "ozet": "İstanbul ve 5 ilde etkili olan şiddetli yağış ve su baskınları nedeniyle, 2 bin 379 hasar için yangın ve kasko branşlarında ayrılan toplam muallak tazminat karşılığı 1 milyar 904 milyon 994 bin 494 lira oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-5-ildeki-sel-ve-su-baskinlarinin-sigorta-maliyeti-2-milyar-liraya-yaklasti/4093540",
+   "zaman": "2026-10-19T15:57:59+03:00",
+   "kelimeler": [
+    "baski",
+    "ildek",
+    "istan",
+    "liray",
+    "maliy",
+    "milya",
+    "sel",
+    "sigor",
+    "su",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0f589d0f3ee5": {
+   "id": "0f589d0f3ee5",
+   "kaynak": "AA",
+   "baslik": "Galatasaray'da Rafael Leao'nun adalesinde hafif-orta düzey zorlanma tespit edildi",
+   "ozet": "Galatasaray'da Portekizli futbolcu Rafael Leao'nun kasık adalesinde hafif-orta düzey zorlanma tespit edildiği açıklandı.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasarayda-rafael-leaonun-adalesinde-hafif-orta-duzey-zorlanma-tespit-edildi/4093543",
+   "zaman": "2026-10-19T15:58:38+03:00",
+   "kelimeler": [
+    "adale",
+    "duzey",
+    "edild",
+    "galat",
+    "hafif",
+    "leao",
+    "nun",
+    "orta",
+    "rafae",
+    "tespi",
+    "zorla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 16:01:30  8 yeni haber",
   "19.10 15:48:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · TCMB, perşembe günü faiz kararını açıklayacak",
   "19.10 15:45:58  5 yeni haber",
   "19.10 15:31:14  6 yeni haber",
@@ -14125,8 +14273,7 @@
   "17.10 13:31:23  1 yeni haber",
   "17.10 13:15:54  2 yeni haber",
   "17.10 13:02:10  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Gülistan Doku soruşturması | Çalıştığı kafenin üst katındaki kameralar",
-  "17.10 13:01:20  2 yeni haber",
-  "17.10 12:46:01  1 yeni haber"
+  "17.10 13:01:20  2 yeni haber"
  ],
  "otomatik": false
 }
