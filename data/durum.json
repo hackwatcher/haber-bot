@@ -9775,7 +9775,10 @@
     "yi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "080b3495bf9a": {
    "id": "080b3495bf9a",
@@ -10199,9 +10202,51 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "befe36571ff9": {
+   "id": "befe36571ff9",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Dışişleri Bakanı Arakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
+   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor-960486.html",
+   "zaman": "2026-10-19T06:25:00+03:00",
+   "kelimeler": [
+    "abd",
+    "arakc",
+    "bakan",
+    "disis",
+    "girme",
+    "hapse",
+    "iran",
+    "netan",
+    "savas",
+    "suruk",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "925840edff9b"
+  },
+  "6895d9c2bb3d": {
+   "id": "6895d9c2bb3d",
+   "kaynak": "Sözcü",
+   "baslik": "Altında ibre yeniden yukarı döndü",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/altinda-ibre-yeniden-yukari-dondu-p370470",
+   "zaman": "2026-10-19T07:54:47+03:00",
+   "kelimeler": [
+    "altin",
+    "dondu",
+    "ibre",
+    "yenid",
+    "yukar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 08:01:22  1 yeni haber",
   "19.10 07:46:05  1 yeni haber",
   "19.10 07:16:01  6 yeni haber",
   "19.10 07:04:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Fransa'da Örümcek Adam kostümlü eylemciler, efsaneleşmiş ikonik pozu y",
@@ -10400,8 +10445,7 @@
   "17.10 00:47:18  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de",
   "17.10 00:46:00  1 yeni haber",
   "17.10 00:02:43  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · SPK'dan 37 kişi hakkında suç duyurusu kararı",
-  "17.10 00:01:15  2 yeni haber",
-  "16.10 23:32:22  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · AK Parti Sözcüsü Çelik'ten partisinin eski Isparta Gençlik Kolları Baş"
+  "17.10 00:01:15  2 yeni haber"
  ],
  "otomatik": false
 }
