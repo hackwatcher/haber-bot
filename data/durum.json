@@ -11931,7 +11931,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "156422bef9bc": {
    "id": "156422bef9bc",
@@ -14623,9 +14626,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "26952f8d46a5": {
+   "id": "26952f8d46a5",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (19 Ekim 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-19-ekim-2026/4093522",
+   "zaman": "2026-10-19T15:46:41+03:00",
+   "kelimeler": [
+    "19",
+    "2026",
+    "60",
+    "bugun",
+    "ekim",
+    "saniy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "cdf219626d38": {
+   "id": "cdf219626d38",
+   "kaynak": "AA",
+   "baslik": "60 saniyede ekonomide bugün (19 Ekim 2026)",
+   "ozet": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-19-ekim-2026/4093523",
+   "zaman": "2026-10-19T15:47:15+03:00",
+   "kelimeler": [
+    "19",
+    "2026",
+    "60",
+    "bugun",
+    "ekim",
+    "ekono",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "26952f8d46a5"
+  },
+  "be251850998e": {
+   "id": "be251850998e",
+   "kaynak": "TRT Haber",
+   "baslik": "İspanya'nın doğusunda şiddetli yağışlar etkili olmaya devam ediyor",
+   "ozet": "Yağışlar nedeniyle ölenlerin sayısı 4'e yükseldi, evlerinde mahsur kalan 2 binden fazla kişi kurtarıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/ispanyanin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor-960548.html",
+   "zaman": "2026-10-19T16:56:00+03:00",
+   "kelimeler": [
+    "devam",
+    "dogus",
+    "ediyo",
+    "etkil",
+    "ispan",
+    "nin",
+    "olmay",
+    "sidde",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b2aa57b64b3"
   }
  },
  "kayit": [
+  "19.10 17:16:08  1 yeni haber",
   "19.10 17:01:38  1 yeni haber",
   "19.10 16:56:27  5 yeni haber",
   "19.10 16:46:08  8 yeni haber",
@@ -14824,8 +14889,7 @@
   "17.10 14:45:55  1 yeni haber",
   "17.10 14:31:56  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Para ve not bırakıp evden ayrılan Selman Alkan'dan 6 gündür haber alın",
   "17.10 14:03:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): BBC Türkçe · Fransa genelinde protestolar başladı: Paris'te onlarca gözaltı",
-  "17.10 14:01:17  2 yeni haber",
-  "17.10 13:46:06  1 yeni haber"
+  "17.10 14:01:17  2 yeni haber"
  ],
  "otomatik": false
 }
