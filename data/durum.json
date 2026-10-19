@@ -1,55 +1,5 @@
 {
  "haberler": {
-  "e852adfc71b7": {
-   "id": "e852adfc71b7",
-   "kaynak": "Sözcü",
-   "baslik": "SPK'dan 37 kişi hakkında suç duyurusu kararı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
-   "zaman": "2026-10-16T23:59:52+03:00",
-   "kelimeler": [
-    "37",
-    "dan",
-    "duyur",
-    "hakki",
-    "karar",
-    "kisi",
-    "spk",
-    "suc"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T00:02:43.568738+03:00",
-   "ig_id": "17969312912962749",
-   "reels_id": "18117611392801385",
-   "story_id": "17951075898316404",
-   "slayt": 1,
-   "kanca": "Ekonomi"
-  },
-  "2f073c523ad5": {
-   "id": "2f073c523ad5",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-ekim-2026-1746646",
-   "zaman": "2026-10-17T00:00:00+03:00",
-   "kelimeler": [
-    "17",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "ekim",
-    "il",
-    "istan",
-    "izmir",
-    "nered"
-   ],
-   "durum": "engelli",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "9b1a5e3ec962": {
    "id": "9b1a5e3ec962",
    "kaynak": "Hürriyet",
@@ -7251,7 +7201,8 @@
     "zelen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "326f110a995c": {
    "id": "326f110a995c",
@@ -14602,7 +14553,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "1854fff740ba": {
@@ -16050,8 +16002,9 @@
     "servi",
     "tasiy"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "hata",
+   "oncelikli": true,
+   "hata": "Instagram görseli işleyemedi (ERROR)"
   },
   "b639b866c9de": {
    "id": "b639b866c9de",
@@ -16091,10 +16044,167 @@
     "yatir"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "d575f16e37cc": {
+   "id": "d575f16e37cc",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Ev hapsinde gözaltına alınan Murat Ağırel tutuklandı",
+   "ozet": "Fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan ev hapsinde olan gazeteci Murat Ağırel yeniden gözaltına alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo",
+   "zaman": "2026-10-19T22:57:36+03:00",
+   "kelimeler": [
+    "agire",
+    "alina",
+    "ev",
+    "gozal",
+    "hapsi",
+    "murat",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "537f569ea52b": {
+   "id": "537f569ea52b",
+   "kaynak": "TRT Haber",
+   "baslik": "Isparta'da kanyonda mahsur kalan 10 İHH gönüllüsü kurtarıldı",
+   "ozet": "Yazılı Kanyon mevkisinde mahsur kalan İHH gönüllü grubundan 10 kişi ekiplerin çalışması sonucu kurtarıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-10-ihh-gonullusu-kurtarildi-960572.html",
+   "zaman": "2026-10-19T23:38:00+03:00",
+   "kelimeler": [
+    "10",
+    "gonul",
+    "ihh",
+    "ispar",
+    "kalan",
+    "kanyo",
+    "kurta",
+    "mahsu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c4e42b79aa4d"
+  },
+  "5b87eb788f91": {
+   "id": "5b87eb788f91",
+   "kaynak": "AA",
+   "baslik": "Sarı Yelekliler eylemlerinin ardından ABD'den Fransa'daki vatandaşlarına güvenlik uyarısı",
+   "ozet": "ABD, şiddet olaylarına sahne olan Sarı Yelekliler eylemlerinin ardından Fransa'daki vatandaşlarına yönelik güvenlik uyarısı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/sari-yelekliler-eylemlerinin-ardindan-abdden-fransadaki-vatandaslarina-guvenlik-uyarisi/4093947",
+   "zaman": "2026-10-19T23:44:34+03:00",
+   "kelimeler": [
+    "abd",
+    "ardin",
+    "daki",
+    "den",
+    "eylem",
+    "frans",
+    "guven",
+    "sari",
+    "uyari",
+    "vatan",
+    "yelek"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "42aa7515695b": {
+   "id": "42aa7515695b",
+   "kaynak": "Hürriyet",
+   "baslik": "SPK'den Tera Yatırım Holding ve Peker Gayrimenkul Yatırım Ortaklığına ilişkin karar",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), Peker Gayrimenkul Yatırım Ortaklığı AŞ’nin A grubu imtiyazlı paylarını devralarak şirketin yönetim kontrolünü elde eden Tera Yatırım Holding'in zorunlu pay alım teklifinde bulunma yükümlülüğünü yerine getirmemesi nedeniyle Tera Yatırım Holding ve…",
+   "link": "https://www.hurriyet.com.tr/gundem/spkden-tera-yatirim-holding-ve-peker-gayrimenkul-yatirim-ortakligina-iliskin-karar-43347867",
+   "zaman": "2026-10-19T23:45:39+03:00",
+   "kelimeler": [
+    "den",
+    "gayri",
+    "holdi",
+    "ilisk",
+    "karar",
+    "ortak",
+    "peker",
+    "spk",
+    "tera",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c748540d3fc4"
+  },
+  "5c90344cbedb": {
+   "id": "5c90344cbedb",
+   "kaynak": "AA",
+   "baslik": "Trump'tan Zelenskiy'e \"Rusya ile müzakereleri devretmesinin zamanının geldiği\" mesajı",
+   "ozet": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin, Moskova ile anlaşma yapmaya istekli olmadığını savunarak, \"Belki de Zelenskiy’nin müzakereleri, başka birine devretmesinin zamanı gelmiştir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumptan-zelenskiye-rusya-ile-muzakereleri-devretmesinin-zamaninin-geldigi-mesaji/4093953",
+   "zaman": "2026-10-19T23:47:17+03:00",
+   "kelimeler": [
+    "devre",
+    "geldi",
+    "mesaj",
+    "muzak",
+    "rusya",
+    "tan",
+    "trump",
+    "zaman",
+    "zelen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72283978ff78"
+  },
+  "5fd9ae95586b": {
+   "id": "5fd9ae95586b",
+   "kaynak": "TRT Haber",
+   "baslik": "TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı",
+   "ozet": "Tasarruf Mevduatı Sigorta Fonu TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/tmsf-tera-yatirim-teknoloji-holdinge-kayyum-olarak-atandi-960573.html",
+   "zaman": "2026-10-19T23:51:00+03:00",
+   "kelimeler": [
+    "atand",
+    "holdi",
+    "kayyu",
+    "tekno",
+    "tera",
+    "tmsf",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f651a0b0667a"
+  },
+  "1b431cbe42c6": {
+   "id": "1b431cbe42c6",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-ekim-2026-1747069",
+   "zaman": "2026-10-20T00:00:00+03:00",
+   "kelimeler": [
+    "20",
+    "2026",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "ekim",
+    "il",
+    "istan",
+    "izmir",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9c42419cd46c"
   }
  },
  "kayit": [
+  "20.10 00:02:53  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
+  "20.10 00:01:19  2 yeni haber",
   "19.10 23:46:07  2 yeni haber",
   "19.10 23:16:09  2 yeni haber",
   "19.10 23:01:32  5 yeni haber",
@@ -16292,9 +16402,7 @@
   "17.10 21:51:12  1 yeni haber",
   "17.10 21:46:01  1 yeni haber",
   "17.10 21:30:58  1 yeni haber",
-  "17.10 21:15:46  1 yeni haber",
-  "17.10 21:01:21  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "17.10 20:31:06  2 yeni haber"
+  "17.10 21:15:46  1 yeni haber"
  ],
  "otomatik": false
 }
