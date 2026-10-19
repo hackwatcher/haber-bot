@@ -14757,7 +14757,10 @@
     "veri"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2a7cadc25600": {
    "id": "2a7cadc25600",
@@ -15184,9 +15187,119 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bb3306d18578": {
+   "id": "bb3306d18578",
+   "kaynak": "TRT Haber",
+   "baslik": "Ambulansa yol vermeyen sürücüye 46 bin lira ceza",
+   "ozet": "İstanbul Zeytinburnu'nda ambulansa yol vermediği belirlenen sürücüye 46 bin lira ceza uygulandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ambulansa-yol-vermeyen-surucuye-46-bin-lira-ceza-960557.html",
+   "zaman": "2026-10-19T18:47:00+03:00",
+   "kelimeler": [
+    "46",
+    "ambul",
+    "bin",
+    "ceza",
+    "lira",
+    "suruc",
+    "verme",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "be65f13f2530": {
+   "id": "be65f13f2530",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara Temelli’ye 4,1 milyar dolarlık veri merkezi... Bakan Kacır: 2012’den bu yana 42 milyar liralık veri merkezi yatırımının önünü açtık",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Ankara'nın Temelli bölgesindeki Başkent OSB bünyesinde 450 milyon dolarlık yatırımla veri merkezi yapılacağını belirterek, \"22 megavat kapasiteli tesis, sonrasında gerçekleşecek 900 milyon dolarlık gelişmiş soğutma sistemleri ve…",
+   "link": "https://www.hurriyet.com.tr/gundem/ankara-temelliye-4-1-milyar-dolarlik-veri-merkezi-bakan-kacir-2012den-bu-yana-42-milyar-liralik-veri-merkezi-yatiriminin-onunu-actik-43347690",
+   "zaman": "2026-10-19T18:55:00+03:00",
+   "kelimeler": [
+    "2012",
+    "42",
+    "actik",
+    "ankar",
+    "bakan",
+    "den",
+    "dolar",
+    "kacir",
+    "liral",
+    "merke",
+    "milya",
+    "onunu",
+    "temel",
+    "veri",
+    "yana",
+    "yatir",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "04895961a58d"
+  },
+  "56e47482d1cd": {
+   "id": "56e47482d1cd",
+   "kaynak": "Hürriyet",
+   "baslik": "Konya'da kıraathaneye tüfekli saldırı: 1 ölü, 1 yaralı",
+   "ozet": "Konya'nın Akşehir ilçesinde bir kıraathaneye av tüfeğiyle gelen şüphelinin ateş açması sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/konyada-kiraathaneye-tufekli-saldiri-1-olu-1-yarali-43347693",
+   "zaman": "2026-10-19T18:57:00+03:00",
+   "kelimeler": [
+    "kiraa",
+    "konya",
+    "olu",
+    "saldi",
+    "tufek",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8ec9e41e25e5": {
+   "id": "8ec9e41e25e5",
+   "kaynak": "Sözcü",
+   "baslik": "Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/dogan-bekin-yeniden-refah-partisinden-istifa-edecek-mi-p370722",
+   "zaman": "2026-10-19T19:02:28+03:00",
+   "kelimeler": [
+    "acikl",
+    "bekin",
+    "carpi",
+    "den",
+    "dogan",
+    "istif",
+    "refah",
+    "sinya",
+    "ta",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "453455d466c2": {
+   "id": "453455d466c2",
+   "kaynak": "Sözcü",
+   "baslik": "Sarıgül soruşturmasında 15 tutuklama, 2 adli kontrol istemi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-p370717",
+   "zaman": "2026-10-19T19:14:44+03:00",
+   "kelimeler": [
+    "15",
+    "adli",
+    "istem",
+    "kontr",
+    "sarig",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 19:16:03  4 yeni haber",
   "19.10 19:01:37  3 yeni haber",
   "19.10 18:45:57  4 yeni haber",
   "19.10 18:31:13  3 yeni haber",
@@ -15385,8 +15498,7 @@
   "17.10 16:31:07  2 yeni haber",
   "17.10 16:02:12  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Meriç Nehri'nde bot alabora olmuştu! Kaybolan 2 çocuktan 1'inin cansız",
   "17.10 15:46:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 15:32:22  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sapanca'da kestane toplamak için gittiği ormanda cansız bedeni bulundu",
-  "17.10 15:31:10  3 yeni haber"
+  "17.10 15:32:22  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Sapanca'da kestane toplamak için gittiği ormanda cansız bedeni bulundu"
  ],
  "otomatik": false
 }
