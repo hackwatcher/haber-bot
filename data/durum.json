@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "0671805a0d70": {
-   "id": "0671805a0d70",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Tesla roket teknolojisi destekli 'uçan' spor aracını tanıttı",
-   "ozet": "Elektriki araç devi Tesla, 15 Ekim'de yaptığı sunumda, yeniden tasarlanmış \"uçan\" Roadster modelini dikkat çeken bir gösteriyle tanıttı.",
-   "link": "https://www.bbc.com/turkce/articles/cj93z97r50lxo",
-   "zaman": "2026-10-16T12:16:47+03:00",
-   "kelimeler": [
-    "araci",
-    "deste",
-    "roket",
-    "spor",
-    "tanit",
-    "tekno",
-    "tesla",
-    "ucan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4f3a83a6cd70": {
-   "id": "4f3a83a6cd70",
-   "kaynak": "Hürriyet",
-   "baslik": "Polis düğmeye bastı: Araç satış ilanlarında 'fiyatlı' tuzak! Çok sayıda mağdur var",
-   "ozet": "Düşük fiyatlı araç satış ilanlarıyla yoğun talep oluşturup acele ettirdiği kişilerden kapora alarak dolandırıcılık yapan şebekeye yönelik operasyon düzenlendi. Operasyonda 32 şüpheli gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gorenler-telefona-sarilip-magdur-oluyor-arac-ilanlarindaki-bu-tuzaga-dikkat-43343904",
-   "zaman": "2026-10-16T12:20:00+03:00",
-   "kelimeler": [
-    "arac",
-    "basti",
-    "dugme",
-    "fiyat",
-    "ilanl",
-    "magdu",
-    "polis",
-    "satis",
-    "sayid",
-    "tuzak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c110dc00145b": {
-   "id": "c110dc00145b",
-   "kaynak": "Hürriyet",
-   "baslik": "Amasya'da korkunç olay! 16 yaşındaki kız çocuğu evinde ölü bulundu",
-   "ozet": "Amasya'da 16 yaşındaki kız çocuğu, sabah saatlerinde ailesiyle birlikte yaşadığı evinde ölü bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/amasyada-korkunc-olay-16-yasindaki-kiz-cocugu-evinde-olu-bulundu-43343924",
-   "zaman": "2026-10-16T12:27:40+03:00",
-   "kelimeler": [
-    "16",
-    "amasy",
-    "bulun",
-    "cocug",
-    "evind",
-    "kiz",
-    "korku",
-    "olay",
-    "olu",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "bfda73ee4cb1": {
    "id": "bfda73ee4cb1",
    "kaynak": "Hürriyet",
@@ -9061,7 +8997,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "487f2f9a596c": {
    "id": "487f2f9a596c",
@@ -12372,10 +12309,296 @@
     "yemek"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "09ee87788c97": {
+   "id": "09ee87788c97",
+   "kaynak": "TRT Haber",
+   "baslik": "27 ilde siber suç operasyonu: 643 şüpheli yakalandı",
+   "ozet": "Emniyet Genel Müdürlüğü koordinesinde 27 ilde \"yasa dışı bahis\", \"çevrim içi çocuk müstehcenliği\" ve \"nitelikli dolandırıcılık\" başta olmak üzere siber suçlara yönelik son 6 günde düzenlenen operasyonlarda yakalanan 643 şüpheliden 303'ü tutuklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/27-ilde-siber-suc-operasyonu-643-supheli-yakalandi-960512.html",
+   "zaman": "2026-10-19T12:08:00+03:00",
+   "kelimeler": [
+    "27",
+    "643",
+    "ilde",
+    "opera",
+    "siber",
+    "suc",
+    "suphe",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "dc1b6ea5ba25": {
+   "id": "dc1b6ea5ba25",
+   "kaynak": "AA",
+   "baslik": "Acun Ilıcalı, UEFA Başkanı Aleksander Ceferin ile bir araya geldi",
+   "ozet": "Hull City ve Maribor kulüplerinin sahibi, Türk iş insanı Acun Ilıcalı, UEFA Başkanı Aleksander Ceferin ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/spor/acun-ilicali-uefa-baskani-aleksander-ceferin-ile-bir-araya-geldi/4093194",
+   "zaman": "2026-10-19T12:10:08+03:00",
+   "kelimeler": [
+    "acun",
+    "aleks",
+    "araya",
+    "baska",
+    "cefer",
+    "geldi",
+    "ilica",
+    "uefa"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "256d5420392f": {
+   "id": "256d5420392f",
+   "kaynak": "TRT Haber",
+   "baslik": "FETÖ şüphelilerinin kaçışı çamura saplanan araçla son buldu",
+   "ozet": "Edirne'nin Uzunköprü ilçesinde, yasa dışı yollarla yurt dışına çıkmaya hazırlanırken yakalanan 4 Fetullahçı Terör Örgütü FETÖ şüphelisinden 3'ü tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/feto-suphelilerinin-kacisi-camura-saplanan-aracla-son-buldu-960513.html",
+   "zaman": "2026-10-19T12:11:00+03:00",
+   "kelimeler": [
+    "aracl",
+    "buldu",
+    "camur",
+    "feto",
+    "kacis",
+    "sapla",
+    "suphe"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e4d251e66798": {
+   "id": "e4d251e66798",
+   "kaynak": "AA",
+   "baslik": "ABD'den AB'ye \"stratejik uydu frekansı\" uyarısı",
+   "ozet": "ABD yönetimi, AB Komisyonunun stratejik uydu haberleşme frekanslarını yerli firmalara ayırma planına ilişkin, Amerikan şirketlerinin pazara erişiminin kısıtlanması durumunda AB'yi milyarlarca dolarlık kayba uğratabileceği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-abye-stratejik-uydu-frekansi-uyarisi/4093201",
+   "zaman": "2026-10-19T12:12:23+03:00",
+   "kelimeler": [
+    "ab",
+    "abd",
+    "den",
+    "freka",
+    "strat",
+    "uyari",
+    "uydu",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8f50fc3730b": {
+   "id": "b8f50fc3730b",
+   "kaynak": "AA",
+   "baslik": "Yunan basını: Sahil Güvenlik gemisi düzensiz göçmenleri taşıyan tekneye çarptı, 6 kişi öldü",
+   "ozet": "Midilli Adası açıklarında, Yunanistan Sahil Güvenlik gemisinin düzensiz göçmenleri taşıyan bir tekneye \"kovalama sırasında\" çarpması sonucu biri bebek 6 göçmenin hayatını kaybettiği ifade edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunan-basini-sahil-guvenlik-gemisi-duzensiz-gocmenleri-tasiyan-tekneye-carpti-6-kisi-oldu/4093202",
+   "zaman": "2026-10-19T12:12:52+03:00",
+   "kelimeler": [
+    "basin",
+    "carpt",
+    "duzen",
+    "gemis",
+    "gocme",
+    "guven",
+    "kisi",
+    "sahil",
+    "tasiy",
+    "tekne",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9d9debd67a9d": {
+   "id": "9d9debd67a9d",
+   "kaynak": "Hürriyet",
+   "baslik": "27 ilde siber suç operasyonu: 643 şüpheli yakalandı, 303 zanlı cezaevinde",
+   "ozet": "Emniyet Genel Müdürlüğü Siber Suçlarla Mücadele Daire Başkanlığı koordinesinde 27 ilde yasa dışı bahis, nitelikli dolandırıcılık ve çocuk müstehcenliğine yönelik düzenlenen operasyonlarda 643 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 303’ü tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/siber-suclarla-mucadele-6-gunde-643-supheli-yakalandi-43347037",
+   "zaman": "2026-10-19T12:13:00+03:00",
+   "kelimeler": [
+    "27",
+    "303",
+    "643",
+    "cezae",
+    "ilde",
+    "opera",
+    "siber",
+    "suc",
+    "suphe",
+    "yakal",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "09ee87788c97"
+  },
+  "085a1d7ee545": {
+   "id": "085a1d7ee545",
+   "kaynak": "AA",
+   "baslik": "Afrika'nın ilk olimpiyat etkinliği Dakar 2026 için geri sayım başladı",
+   "ozet": "Dakar, Diamniadio ve Saly’de düzenlenecek oyunlarda 35 branşta 2 bin 700 sporcu ağırlanacak.",
+   "link": "https://www.aa.com.tr/tr/spor/afrikanin-ilk-olimpiyat-etkinligi-dakar-2026-icin-geri-sayim-basladi/4093207",
+   "zaman": "2026-10-19T12:16:33+03:00",
+   "kelimeler": [
+    "2026",
+    "afrik",
+    "basla",
+    "dakar",
+    "etkin",
+    "geri",
+    "ilk",
+    "nin",
+    "olimp",
+    "sayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a4967d81843c": {
+   "id": "a4967d81843c",
+   "kaynak": "AA",
+   "baslik": "A Milli Kadın Basketbol Takımı'nın yeni başantrenörü Frederic Dusart oldu",
+   "ozet": "A Milli Kadın Basketbol Takımı'nda başantrenörlük görevine Frederic Dusart getirildi.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takiminin-yeni-basantrenoru-frederic-dusart-oldu/4093209",
+   "zaman": "2026-10-19T12:18:53+03:00",
+   "kelimeler": [
+    "basan",
+    "baske",
+    "dusar",
+    "frede",
+    "kadin",
+    "milli",
+    "nin",
+    "takim",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a4369fe06740": {
+   "id": "a4369fe06740",
+   "kaynak": "TRT Haber",
+   "baslik": "Rekabet Kurulu, 10 yemek şirketi hakkında soruşturma başlattı",
+   "ozet": "Rekabet Kurulu, kamu kurum ve kuruluşlarının toplu yemek hizmeti alımlarına yönelik ihalelerde danışıklı hareket ederek kamu zararına yol açtıkları iddiasıyla 10 şirket hakkında soruşturma başlattı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-10-yemek-sirketi-hakkinda-sorusturma-baslatti-960514.html",
+   "zaman": "2026-10-19T12:21:00+03:00",
+   "kelimeler": [
+    "10",
+    "basla",
+    "hakki",
+    "kurul",
+    "rekab",
+    "sirke",
+    "sorus",
+    "yemek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fed0d0488ad4"
+  },
+  "7cef9e2aa745": {
+   "id": "7cef9e2aa745",
+   "kaynak": "AA",
+   "baslik": "BM Dünya Gıda Programı, finansman yetersizliği nedeniyle 500 bin Gazzeliye yardımın kesileceğini duyurdu",
+   "ozet": "Birleşmiş Milletler Dünya Gıda Programı (WFP), finansman yetersizliği nedeniyle 500 bin Gazzeliye yönelik yardımları sonlandıracağını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-dunya-gida-programi-finansman-yetersizligi-nedeniyle-500-bin-gazzeliye-yardimin-kesilecegini-duyurdu/4093211",
+   "zaman": "2026-10-19T12:21:03+03:00",
+   "kelimeler": [
+    "500",
+    "bin",
+    "bm",
+    "dunya",
+    "duyur",
+    "finan",
+    "gazze",
+    "gida",
+    "kesil",
+    "neden",
+    "progr",
+    "yardi",
+    "yeter"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8baae6121ae4": {
+   "id": "8baae6121ae4",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran, Aliya İzetbegoviç'i andı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Bosna Hersek'in ilk Cumhurbaşkanı Aliya İzetbegoviç'i anma mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-aliya-izetbegovici-andi/4093213",
+   "zaman": "2026-10-19T12:23:08+03:00",
+   "kelimeler": [
+    "aliya",
+    "andi",
+    "baska",
+    "duran",
+    "ileti",
+    "izetb"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5d6ab1942c79"
+  },
+  "af4df493581f": {
+   "id": "af4df493581f",
+   "kaynak": "NTV",
+   "baslik": "Atatürk'ün Nutuk'u 8 dilde dünyaya açılıyor: Dijital platform erişime sunuldu",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Nutuk Külliyatı Projesi'ni tanıttı. Eser, 8 dildeki özel baskılarının yanı sıra sesli, işaret dilli ve Braille formatlarıyla erişime sunuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-ataturkun-nutuku-8-dilde-dunyaya-aciliyor-dijital-platform-erisime-sunuldu-1746984",
+   "zaman": "2026-10-19T12:25:42+03:00",
+   "kelimeler": [
+    "acili",
+    "atatu",
+    "dijit",
+    "dilde",
+    "dunya",
+    "erisi",
+    "nutuk",
+    "platf",
+    "sunul",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c3015ad6d35": {
+   "id": "4c3015ad6d35",
+   "kaynak": "NTV",
+   "baslik": "Kırklareli'de deprem mi oldu? Az önce deprem Kırklareli'de nerede oldu? Kırklareli deprem Kandilli ve AFAD son depremler listesi 19 Ekim 2026",
+   "ozet": "Son dakika Kırklareli deprem haberleri.. Kırklareli'de deprem mi oldu? Az önce deprem Kırklareli'de nerede oldu? Kırklareli Kandilli ve AFAD son depremler.. 19 Ekim 2026 Kırklareli deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Kırklareli'de?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-kirklarelide-deprem-mi-oldu-az-once-deprem-kirklarelide-nerede-oldu-kirklareli-deprem-kandilli-ve-afad-son-depremler-listesi-19-ekim-2026-1746995",
+   "zaman": "2026-10-19T12:30:00+03:00",
+   "kelimeler": [
+    "19",
+    "2026",
+    "afad",
+    "az",
+    "depre",
+    "ekim",
+    "kandi",
+    "kirkl",
+    "liste",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9c42419cd46c"
   }
  },
  "kayit": [
+  "19.10 12:31:13  9 yeni haber",
   "19.10 12:16:00  9 yeni haber",
   "19.10 12:01:20  9 yeni haber",
   "19.10 11:46:01  7 yeni haber",
@@ -12574,8 +12797,7 @@
   "17.10 10:31:13  5 yeni haber",
   "17.10 10:16:05  1 yeni haber",
   "17.10 10:16:05  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "17.10 10:02:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu y",
-  "17.10 09:32:06  Paylaşıldı (otomatik, tek kart + Reels + Story): Hürriyet · Kütahya'da 3.4 büyüklüğünde deprem"
+  "17.10 10:02:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu y"
  ],
  "otomatik": false
 }
