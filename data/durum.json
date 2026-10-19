@@ -16237,7 +16237,10 @@
    "fb_id": null,
    "fb_reels_id": "1473895021314986",
    "slayt": 5,
-   "kanca": "RESMİ GAZETE'DE KRİTİK İMZALAR"
+   "kanca": "RESMİ GAZETE'DE KRİTİK İMZALAR",
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "501c0d042978": {
    "id": "501c0d042978",
@@ -16374,9 +16377,93 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5ebf1a678b8b"
+  },
+  "5184e53317ed": {
+   "id": "5184e53317ed",
+   "kaynak": "TRT Haber",
+   "baslik": "Beyoğlu'nda 6 katlı apartmanda yangın",
+   "ozet": "Beyoğlu'nda apartmanın en üst katında çıkan yangın itfaiye ekiplerince söndürüldü.",
+   "link": "https://www.trthaber.com/haber/turkiye/beyoglunda-6-katli-apartmanda-yangin-960574.html",
+   "zaman": "2026-10-20T00:06:00+03:00",
+   "kelimeler": [
+    "apart",
+    "beyog",
+    "katli",
+    "nda",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f2c73ffe2a84": {
+   "id": "f2c73ffe2a84",
+   "kaynak": "AA",
+   "baslik": "TBMM heyeti Kolombiya'da Türk kurumlarını ziyaret ederek çeşitli açılışlara katıldı",
+   "ozet": "AK Parti Antalya Milletvekili ve And Parlamentosu Türk Grubu Başkanı Tuba Vural Çokal başkanlığındaki Türkiye Büyük Millet Meclisi (TBMM) heyeti, Kolombiya'da Türk kurumlarını ziyaret ederek TİKA'nın çeşitli açılışlarına katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-heyeti-kolombiyada-turk-kurumlarini-ziyaret-ederek-cesitli-acilislara-katildi/4093989",
+   "zaman": "2026-10-20T01:02:03+03:00",
+   "kelimeler": [
+    "acili",
+    "cesit",
+    "edere",
+    "heyet",
+    "katil",
+    "kolom",
+    "kurum",
+    "tbmm",
+    "turk",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb7919f89651": {
+   "id": "eb7919f89651",
+   "kaynak": "AA",
+   "baslik": "Büyük Aile Platformu'ndan internet sitesi ve iletişim kanallarına yönelik siber saldırıya ilişkin açıklama",
+   "ozet": "Büyük Aile Platformu, iletişim kanalları ve resmi internet sitesine yönelik siber saldırının teknik ekiplerin çalışmasıyla kısa sürede bertaraf edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/buyuk-aile-platformundan-internet-sitesi-ve-iletisim-kanallarina-yonelik-siber-saldiriya-iliskin-aciklama/4093991",
+   "zaman": "2026-10-20T01:20:59+03:00",
+   "kelimeler": [
+    "acikl",
+    "aile",
+    "buyuk",
+    "ileti",
+    "ilisk",
+    "inter",
+    "kanal",
+    "ndan",
+    "platf",
+    "saldi",
+    "siber",
+    "sites",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c089d8a9a006": {
+   "id": "c089d8a9a006",
+   "kaynak": "NTV",
+   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "ozet": "Bazı bakanlık ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazetede-1747073",
+   "zaman": "2026-10-20T01:23:32+03:00",
+   "kelimeler": [
+    "alma",
+    "atama",
+    "gazet",
+    "gorev",
+    "karar",
+    "resmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e832f1a6f4d2"
   }
  },
  "kayit": [
+  "20.10 01:31:13  3 yeni haber",
   "20.10 01:19:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 19 Ekim 2",
   "20.10 00:48:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Atama ve görevden alma kararları Resmi Gazete'de",
   "20.10 00:31:14  3 yeni haber",
@@ -16575,8 +16662,7 @@
   "17.10 23:31:04  1 yeni haber",
   "17.10 22:58:15  1 yeni haber",
   "17.10 22:50:04  1 yeni haber",
-  "17.10 22:31:09  18 yeni haber",
-  "17.10 22:17:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): Hürriyet · Polis Özel Harekat, uluslararası keskin nişancı yarışmasında birinci o"
+  "17.10 22:31:09  18 yeni haber"
  ],
  "otomatik": false
 }
