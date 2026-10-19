@@ -1,55 +1,5 @@
 {
  "haberler": {
-  "14eaf8824cbf": {
-   "id": "14eaf8824cbf",
-   "kaynak": "Hürriyet",
-   "baslik": "8,5 milyar liralık para hareketliliği | Batman merkezli 13 ilde yasa dışı bahis operasyonunda 119 gözaltı",
-   "ozet": "Yasa dışı bahis şebekelerine yönelik operasyonlara bir yenisi daha eklendi. Batman merkezli 13 ilde düzenlenen yasa dışı bahis operasyonunda, hesaplarında 8,5 milyar lira para hareketliliği tespit edilen 119 şüpheli yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/8-5-milyar-liralik-para-hareketliligi-batman-merkezli-13-ilde-yasa-disi-bahis-operasyonunda-119-gozalti-43343706",
-   "zaman": "2026-10-16T10:49:11+03:00",
-   "kelimeler": [
-    "119",
-    "13",
-    "bahis",
-    "batma",
-    "disi",
-    "gozal",
-    "harek",
-    "ilde",
-    "liral",
-    "merke",
-    "milya",
-    "opera",
-    "para",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "e82daf2a6101": {
-   "id": "e82daf2a6101",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul barajlarında son durum: Doluluk oranı iki günde yaklaşık 10 puan arttı",
-   "ozet": "İstanbul'a su sağlayan barajlardaki ortalama doluluk oranı önceki günkü yağışların etkisiyle iki günde 9,96 puan artarak yüzde 38,06'dan yüzde 48,02 seviyesine yükseldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbul-barajlarinda-son-durum-doluluk-orani-iki-gunde-yaklasik-10-puan-artti-43343710",
-   "zaman": "2026-10-16T10:52:07+03:00",
-   "kelimeler": [
-    "10",
-    "artti",
-    "baraj",
-    "dolul",
-    "durum",
-    "gunde",
-    "iki",
-    "istan",
-    "orani",
-    "puan",
-    "yakla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0e5afef8d531": {
    "id": "0e5afef8d531",
    "kaynak": "Sözcü",
@@ -10204,7 +10154,10 @@
     "topar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "fefcee779885": {
    "id": "fefcee779885",
@@ -11265,9 +11218,128 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "642f7ce12668"
+  },
+  "935ed4a6705d": {
+   "id": "935ed4a6705d",
+   "kaynak": "TRT Haber",
+   "baslik": "Küresel piyasalar toparlanma eğiliminde",
+   "ozet": "Küresel piyasalar, Orta Doğu'da yeni bir uzlaşı planı üzerinde çalışılması ve Çin'de açıklanan makroekonomik verilerden alınan olumlu sinyallerin risk iştahını desteklemesiyle haftaya toparlanma eğilimiyle başladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-toparlanma-egiliminde-960505.html",
+   "zaman": "2026-10-19T10:42:00+03:00",
+   "kelimeler": [
+    "egili",
+    "kures",
+    "piyas",
+    "topar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "80a19a4ada9d"
+  },
+  "45a576e73b70": {
+   "id": "45a576e73b70",
+   "kaynak": "AA",
+   "baslik": "Rusya: Kiev'de askeri sanayi tesisleri ile füze ve İHA depolarını vurduk",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'nın başkenti Kiev'deki askeri sanayi tesisleri ile füze ve insansız hava aracı (İHA) depolarını vurduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-kievde-askeri-sanayi-tesisleri-ile-fuze-ve-iha-depolarini-vurduk/4093085",
+   "zaman": "2026-10-19T10:44:02+03:00",
+   "kelimeler": [
+    "asker",
+    "depol",
+    "fuze",
+    "iha",
+    "kiev",
+    "rusya",
+    "sanay",
+    "tesis",
+    "vurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "416b3543c65e": {
+   "id": "416b3543c65e",
+   "kaynak": "Hürriyet",
+   "baslik": "Yabancı uyruklu 2 dağcı aranıyor",
+   "ozet": "Kayseri'de, Erciyes Dağı'na zirve tırmanışı yapan yabancı uyruklu 2 dağcıdan biri kayalıklardan düştü. Diğer dağcı, arkadaşı için ihbarda bulundu. Bölgeye sevk edilen ekipler iki arkadaşı bulmak için çalışmalara başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yabanci-uyruklu-2-dagci-araniyor-43346858",
+   "zaman": "2026-10-19T10:47:00+03:00",
+   "kelimeler": [
+    "arani",
+    "dagci",
+    "uyruk",
+    "yaban"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dfca88a2c6f0": {
+   "id": "dfca88a2c6f0",
+   "kaynak": "TRT Haber",
+   "baslik": "Erciyes'te 2 dağcı için arama kurtarma çalışması başlatıldı",
+   "ozet": "Kayseri'de, Erciyes Dağı'na zirve tırmanışı yapan yabancı uyruklu 2 dağcı için arama kurtarma çalışması başlatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/erciyeste-2-dagci-icin-arama-kurtarma-calismasi-baslatildi-960506.html",
+   "zaman": "2026-10-19T10:48:00+03:00",
+   "kelimeler": [
+    "arama",
+    "basla",
+    "calis",
+    "dagci",
+    "erciy",
+    "kurta",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1fa171e4a07f": {
+   "id": "1fa171e4a07f",
+   "kaynak": "AA",
+   "baslik": "Pendik Göçbeyli Mahallesi'nde sele kapılan bir kişinin cansız bedeni bulundu",
+   "ozet": "İstanbul-Kocaeli il sınırındaki bölgede sel sularına kapılan bir kişinin cansız bedenine, saat 08.30 sıralarında Pendik'teki Göçbeyli Deresi'nde ulaşıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/pendik-gocbeyli-mahallesinde-sele-kapilan-bir-kisinin-cansiz-bedeni-bulundu/4093093",
+   "zaman": "2026-10-19T10:49:47+03:00",
+   "kelimeler": [
+    "beden",
+    "bulun",
+    "cansi",
+    "gocbe",
+    "kapil",
+    "kisin",
+    "mahal",
+    "nde",
+    "pendi",
+    "sele"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f015d8416a0e": {
+   "id": "f015d8416a0e",
+   "kaynak": "NTV",
+   "baslik": "Yaz aylarında kilitlenen bölgeye yeni otoyol. 2,5 saatlik yol 18 dakikaya düştü",
+   "ozet": "Mersin'de Çeşmeli-Erdemli-Silifke-Taşucu Otoyolu'nun Çeşmeli-Kızkalesi kesimi hizmete girdi. Yeni otoyolun saatler süren seyahat süresini 18 dakikaya düşürmesi hedefleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yaz-aylarinda-kilitlenen-bolgeye-yeni-otoyol-25-saatlik-yol-18-dakikaya-dustu-1746969",
+   "zaman": "2026-10-19T10:52:27+03:00",
+   "kelimeler": [
+    "18",
+    "aylar",
+    "bolge",
+    "dakik",
+    "dustu",
+    "kilit",
+    "otoyo",
+    "saatl",
+    "yaz",
+    "yeni",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.10 11:01:25  5 yeni haber",
   "19.10 10:45:52  1 yeni haber",
   "19.10 10:31:15  7 yeni haber",
   "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu",
@@ -11466,8 +11538,7 @@
   "17.10 08:30:57  1 yeni haber",
   "17.10 08:17:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): Hürriyet · Sel felaketinin ardından görünmeyen tehlike! Uzman isim şebeke suların",
   "17.10 08:01:27  1 yeni haber",
-  "17.10 07:46:54  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
-  "17.10 07:45:50  2 yeni haber"
+  "17.10 07:46:54  Paylaşıldı (otomatik, tek kart + Reels + Story): Sözcü · Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak"
  ],
  "otomatik": false
 }
