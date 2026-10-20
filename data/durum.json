@@ -16438,7 +16438,10 @@
     "opera"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "06f817313814": {
    "id": "06f817313814",
@@ -16514,6 +16517,27 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d5ff615c68e2": {
+   "id": "d5ff615c68e2",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara'da kaçakçılık operasyonu: 11 şüpheli hakkında işlem başlatıldı",
+   "ozet": "Başkentteki kaçakçılık operasyonunda yakalanan 11 şüpheli hakkında işlem başlatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-kacakcilik-operasyonu-11-supheli-hakkinda-islem-baslatildi-960577.html",
+   "zaman": "2026-10-20T02:47:00+03:00",
+   "kelimeler": [
+    "11",
+    "ankar",
+    "basla",
+    "hakki",
+    "islem",
+    "kacak",
+    "opera",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "69ef9513be7c"
   }
  },
  "kayit": [
