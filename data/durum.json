@@ -17853,7 +17853,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3fa4073e4125": {
    "id": "3fa4073e4125",
@@ -17944,9 +17947,132 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "781ca81cb004": {
+   "id": "781ca81cb004",
+   "kaynak": "AA",
+   "baslik": "\"Kurgu trafik kazası\" soruşturmasında 77 şüpheli gözaltına alındı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Adana Cumhuriyet Başsavcılığınca, kurgu trafik kazalarıyla 17 sigorta şirketinden haksız tazminat temin ettiği belirlenen suç örgütüne yönelik yürütülen soruşturmada 77 şüphelinin gözaltına alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kurgu-trafik-kazasi-sorusturmasinda-77-supheli-gozaltina-alindi/4094094",
+   "zaman": "2026-10-20T09:36:49+03:00",
+   "kelimeler": [
+    "77",
+    "alind",
+    "gozal",
+    "kazas",
+    "kurgu",
+    "sorus",
+    "suphe",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2350cf75997f": {
+   "id": "2350cf75997f",
+   "kaynak": "TRT Haber",
+   "baslik": "Yarısı Bizden Kampanyası 1 yıl uzatıldı",
+   "ozet": "İstanbul'da kentsel dönüşümü hızlandırmak için 22 Şubat 2024'te Cumhurbaşkanlığı Kararnamesi ile yürürlüğe giren \"Yarısı Bizden\" desteğinin süresi 31 Aralık 2027'ye kadar uzatıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html",
+   "zaman": "2026-10-20T09:39:00+03:00",
+   "kelimeler": [
+    "bizde",
+    "kampa",
+    "uzati",
+    "yaris",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0a21a94af840"
+  },
+  "ac9eb422f919": {
+   "id": "ac9eb422f919",
+   "kaynak": "AA",
+   "baslik": "Kamu teşebbüslerinin 2027 yatırım hedefi 754,2 milyar lira",
+   "ozet": "Kamu iktisadi teşebbüsleri (KİT) ve bağlı ortaklıklarının, 2027'de 754,2 milyar lira tutarında yatırım yapmaları öngörülüyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kamu-tesebbuslerinin-2027-yatirim-hedefi-754-2-milyar-lira-/4094102",
+   "zaman": "2026-10-20T09:45:52+03:00",
+   "kelimeler": [
+    "2027",
+    "754",
+    "hedef",
+    "kamu",
+    "lira",
+    "milya",
+    "teseb",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ae2bbc7d751e": {
+   "id": "ae2bbc7d751e",
+   "kaynak": "Hürriyet",
+   "baslik": "Batman'da maskeli haraç çetesine operasyon! 6 şüpheliden 2'si tutuklandı",
+   "ozet": "Batman’da bir iş yerine düzenlenen silahlı saldırının ardından iş yeri sahibinden 15 milyon lira haraç istendiği iddiasıyla yürütülen soruşturmada gözaltına alınan 6 şüpheliden 2’si tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/batmanda-maskeli-harac-cetesine-operasyon-6-supheliden-2si-tutuklandi-43348031",
+   "zaman": "2026-10-20T09:46:38+03:00",
+   "kelimeler": [
+    "batma",
+    "cetes",
+    "harac",
+    "maske",
+    "opera",
+    "si",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "bf0d97231ae3": {
+   "id": "bf0d97231ae3",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz'dan sermaye piyasalarına ilişkin açıklama",
+   "ozet": "Cumhurbaşkanı Yardımcısı Yılmaz, fon piyasalarının belirli bir bölümünde yaşanan sorunlarla ilgili idari ve adli tedbirlerin kararlılıkla ve eş güdüm içinde hayata geçirildiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-sermaye-piyasalarina-iliskin-aciklama/4094109",
+   "zaman": "2026-10-20T09:51:34+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "dan",
+    "ilisk",
+    "piyas",
+    "serma",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "572a509b3505": {
+   "id": "572a509b3505",
+   "kaynak": "Hürriyet",
+   "baslik": "Adana'da eve EYP'li saldırı… Hatice Taş: Tehdit ediliyoruz, can güvenliğimiz yok",
+   "ozet": "Adana’da 2’si çocuk 6 kişinin bulunduğu eve el yapımı patlayıcı (EYP) atıldı. Evlerinin 3’üncü kez saldırıya uğradığını belirten Hatice Taş (46), firari bir hükümlünün yakalanmasından kendilerinin sorumlu tutulduğunu ifade ederek, \"Korkuyoruz, can güvenliğimiz yok\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/adanada-eve-eypli-saldiri-hatice-tas-tehdit-ediliyoruz-can-guvenligimiz-yok-43348051",
+   "zaman": "2026-10-20T09:57:07+03:00",
+   "kelimeler": [
+    "adana",
+    "can",
+    "edili",
+    "eve",
+    "eyp",
+    "guven",
+    "hatic",
+    "li",
+    "saldi",
+    "tas",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 10:01:30  5 yeni haber",
+  "20.10 10:01:30  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "20.10 09:48:37  2 yeni haber",
   "20.10 09:46:21  9 yeni haber",
   "20.10 09:33:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Üsküdar’da 3’üncü seçim",
@@ -18144,9 +18270,7 @@
   "18.10 08:15:50  1 yeni haber",
   "18.10 08:02:53  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 08:02:53  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · ‘Breakıng Bad’ özentilerine suçüstü",
-  "18.10 07:46:06  1 yeni haber",
-  "18.10 07:33:30  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 07:33:30  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Özgür Özel: Tek yolumuz kazanmak"
+  "18.10 07:46:06  1 yeni haber"
  ],
  "otomatik": false
 }
