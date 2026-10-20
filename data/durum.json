@@ -20379,7 +20379,10 @@
     "turk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "5541593684d4": {
    "id": "5541593684d4",
@@ -21994,9 +21997,154 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "438900107c57": {
+   "id": "438900107c57",
+   "kaynak": "AA",
+   "baslik": "Türk bilim insanları \"TARLA\"da ilk ışınlama deneyini gerçekleştirdi",
+   "ozet": "Ankara Üniversitesinin (AÜ) öncülüğünde kurulan Türk Hızlandırıcı ve Işınım Laboratuvarında (TARLA) görev yapan bilim insanları tarafından ilk ışınlama deneyi başarıyla gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-bilim-insanlari-tarlada-ilk-isinlama-deneyini-gerceklestirdi/4094362",
+   "zaman": "2026-10-20T12:18:05+03:00",
+   "kelimeler": [
+    "bilim",
+    "deney",
+    "gerce",
+    "ilk",
+    "insan",
+    "isinl",
+    "tarla",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b0c751915c0"
+  },
+  "e95ff4415033": {
+   "id": "e95ff4415033",
+   "kaynak": "AA",
+   "baslik": "Google'ın bulut hizmetlerindeki kesinti giderilmeye başlandı",
+   "ozet": "Google Cloud'un Londra merkezli altyapısında elektrik kesintisi nedeniyle yaşanan aksaklığın giderilmeye başlandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/googlein-bulut-hizmetlerindeki-kesinti-giderilmeye-baslandi/4094510",
+   "zaman": "2026-10-20T13:55:00+03:00",
+   "kelimeler": [
+    "basla",
+    "bulut",
+    "gider",
+    "googl",
+    "hizme",
+    "in",
+    "kesin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "20f03f9535c4": {
+   "id": "20f03f9535c4",
+   "kaynak": "TRT Haber",
+   "baslik": "Polonya'da İkinci Dünya Savaşı'ndan kalma bomba nedeniyle 3 bin kişi tahliye ediliyor",
+   "ozet": "Polonya'nın Wroclaw kentinde İkinci Dünya Savaşı döneminden kalma 250 kilogramlık patlamamış bomba bulunması nedeniyle bölgedeki yaklaşık 3 bin kişinin tahliyesine başlandığı duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/polonyada-ikinci-dunya-savasindan-kalma-bomba-nedeniyle-3-bin-kisi-tahliye-ediliyor-960649.html",
+   "zaman": "2026-10-20T15:32:00+03:00",
+   "kelimeler": [
+    "bin",
+    "bomba",
+    "dunya",
+    "edili",
+    "ikinc",
+    "kalma",
+    "kisi",
+    "ndan",
+    "neden",
+    "polon",
+    "savas",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "52cbbc7d1ec2": {
+   "id": "52cbbc7d1ec2",
+   "kaynak": "TRT Haber",
+   "baslik": "Gabar'da ilk hedef günlük 100 bin varil petrol",
+   "ozet": "Terörden arındırılan Gabar'da Türkiye'nin en kaliteli petrolünü ürettiklerini söyleyen Bakan Bayraktar, \"Günde yaklaşık 85 bin varil inşallah Gabar'da yeni yaptığımız keşiflerle bu rakam 100 binin üzerine 2027 yılında çıkmış olacak\" açıklamasını yaptı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/gabarda-ilk-hedef-gunluk-100-bin-varil-petrol-960651.html",
+   "zaman": "2026-10-20T15:35:00+03:00",
+   "kelimeler": [
+    "100",
+    "bin",
+    "gabar",
+    "gunlu",
+    "hedef",
+    "ilk",
+    "petro",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "953778a4ab67": {
+   "id": "953778a4ab67",
+   "kaynak": "AA",
+   "baslik": "Bakan Bolat: Fiyat etiketi ve fahiş fiyat denetimlerini aralıksız sürdürüyoruz",
+   "ozet": "Ticaret Bakanı Ömer Bolat, tüketicilerin mağdur olmaması adına, tüm illerde fiyat etiketi ve fahiş fiyat denetimlerini aralıksız sürdürdüklerini belirterek, \"Haziran 2023'ten bu yana toplam 8,8 milyar liralık idari para cezası uygulanmıştır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-fiyat-etiketi-ve-fahis-fiyat-denetimlerini-araliksiz-surduruyoruz/4094678",
+   "zaman": "2026-10-20T15:47:34+03:00",
+   "kelimeler": [
+    "arali",
+    "bakan",
+    "bolat",
+    "denet",
+    "etike",
+    "fahis",
+    "fiyat",
+    "surdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "43fc237d4ed0": {
+   "id": "43fc237d4ed0",
+   "kaynak": "AA",
+   "baslik": "İngiltere Deniz Ticaret Operasyonları: Umman açıklarında bir tankere askeri güçler müdahale etti",
+   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman'ın Dukm kentinin yaklaşık 121 deniz mili doğusunda bir tankere askeri güçlerin müdahale ettiğine dair ihbar alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-umman-aciklarinda-bir-tankere-askeri-gucler-mudahale-etti/4094682",
+   "zaman": "2026-10-20T15:48:40+03:00",
+   "kelimeler": [
+    "acikl",
+    "asker",
+    "deniz",
+    "etti",
+    "gucle",
+    "ingil",
+    "mudah",
+    "opera",
+    "tanke",
+    "ticar",
+    "umman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e39379814eda": {
+   "id": "e39379814eda",
+   "kaynak": "NTV",
+   "baslik": "Ataşehir’de tehlikeli geçiş kazayla sonuçlandı",
+   "ozet": "Ataşehir'de kırmızı ışıkta yolun karşısına geçmeye çalışan yayaya, motosikletlinin çarpması kask kamerasınca kaydedildi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-atasehirde-tehlikeli-gecis-kazayla-sonuclandi-1747190",
+   "zaman": "2026-10-20T16:00:47+03:00",
+   "kelimeler": [
+    "atase",
+    "gecis",
+    "kazay",
+    "sonuc",
+    "tehli"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "20.10 16:01:30  6 yeni haber",
   "20.10 15:46:00  3 yeni haber",
   "20.10 15:31:11  3 yeni haber",
   "20.10 15:19:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaraydan Lille maçı öncesi UEFA'ya güvenlik başvurusu",
@@ -22195,8 +22343,7 @@
   "18.10 12:03:23  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 12:03:23  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Fuhuş operasyonunda mahkeme kararını verdi: İş yerlerine ruhsat iptali",
   "18.10 12:01:20  2 yeni haber",
-  "18.10 11:46:00  1 yeni haber",
-  "18.10 11:33:29  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 11:46:00  1 yeni haber"
  ],
  "otomatik": false
 }
