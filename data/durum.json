@@ -1,59 +1,5 @@
 {
  "haberler": {
-  "53f0d3a707e0": {
-   "id": "53f0d3a707e0",
-   "kaynak": "Hürriyet",
-   "baslik": "Para ve not bırakıp evden ayrılan Selman Alkan'dan 6 gündür haber alınamıyor",
-   "ozet": "İstanbul Sultangazi'de yaşayan Selman Alkan, bir miktar para ile \"Eşyaları alın ve evi boşaltın. Bu eve geri dönmeyeceğim. Buraya nakliye ve benzeri masraflar için 108 bin lira bırakıyorum\" yazılı not bırakıp evden ayrıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/para-ve-not-birakip-evden-ayrilan-selman-alkandan-6-gundur-haber-alinamiyor-43345199",
-   "zaman": "2026-10-17T13:49:43+03:00",
-   "kelimeler": [
-    "alina",
-    "alkan",
-    "ayril",
-    "birak",
-    "dan",
-    "evden",
-    "gundu",
-    "not",
-    "para",
-    "selma"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T14:31:56.880655+03:00",
-   "ig_id": "18099594914536777",
-   "reels_id": "18029726507910906",
-   "story_id": "17981946221930278",
-   "slayt": 1,
-   "kanca": "Dikkat"
-  },
-  "25b5de9761c2": {
-   "id": "25b5de9761c2",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Fransa genelinde protestolar başladı: Paris'te onlarca gözaltı",
-   "ozet": "Bugün Fransa genelinde artan yakıt fiyatları, hayat pahalılığı ve kötüleşen kamu hizmetlerine karşı düzenlenecek protestolara on binlerce kişinin katılması bekleniyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo",
-   "zaman": "2026-10-17T13:58:08+03:00",
-   "kelimeler": [
-    "basla",
-    "frans",
-    "genel",
-    "gozal",
-    "onlar",
-    "paris",
-    "prote",
-    "te"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T14:03:28.275854+03:00",
-   "ig_id": "18163971394495036",
-   "reels_id": "17913348480498881",
-   "story_id": "18395676253166628",
-   "slayt": 5,
-   "kanca": "Fransa genelinde protestolar başladı"
-  },
   "3e64c3fd3cf4": {
    "id": "3e64c3fd3cf4",
    "kaynak": "Hürriyet",
@@ -18949,7 +18895,10 @@
     "ten"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "0398926c0c3e": {
    "id": "0398926c0c3e",
@@ -19010,7 +18959,10 @@
     "visne"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "822fb991e01f": {
    "id": "822fb991e01f",
@@ -20978,10 +20930,313 @@
     "yil"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "001c2b2a9195": {
+   "id": "001c2b2a9195",
+   "kaynak": "AA",
+   "baslik": "Ankara'da Mısır Silahlı Kuvvetlerinin Zafer Günü'nün 53. yılı kutlandı",
+   "ozet": "Mısır'ın Ankara Büyükelçiliği Savunma Ataşeliğince Mısır Silahlı Kuvvetleri'nin Zafer Günü'nün 53. yılı vesilesiyle resepsiyon düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-misir-silahli-kuvvetlerinin-zafer-gununun-53-yili-kutlandi/4093624",
+   "zaman": "2026-10-19T16:43:38+03:00",
+   "kelimeler": [
+    "53",
+    "ankar",
+    "gunu",
+    "kutla",
+    "kuvve",
+    "misir",
+    "nun",
+    "silah",
+    "yili",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "94b5140d3f63": {
+   "id": "94b5140d3f63",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da taşkın riskinde yağışın yanı sıra havza özellikleri ve kentleşme etkili oluyor",
+   "ozet": "Doç. Dr. Ekmekcioğlu, İstanbul'un diğer bölgelerinde de şiddetli yağışların ciddi taşkınlara yol açabileceğini belirterek yoğun kentleşme ve drenaj sistemlerindeki değişimlerin görüldüğü havzaların dikkatle değerlendirilmesi gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-taskin-riskinde-yagisin-yani-sira-havza-ozellikleri-ve-kentlesme-etkili-oluyor/4094240",
+   "zaman": "2026-10-20T11:07:13+03:00",
+   "kelimeler": [
+    "etkil",
+    "havza",
+    "istan",
+    "kentl",
+    "oluyo",
+    "ozell",
+    "riski",
+    "sira",
+    "taski",
+    "yagis",
+    "yani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df6cda74049a": {
+   "id": "df6cda74049a",
+   "kaynak": "AA",
+   "baslik": "Türk vişne mermeri Çin pazarında yoğun talep görüyor",
+   "ozet": "Elazığ'ın Alacakaya ilçesinde üretilen vişne mermeri, Çin başta olmak üzere uluslararası pazarlarda gördüğü taleple Türkiye'nin doğal taş ihracatında öne çıkan ürünler arasında bulunuyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-visne-mermeri-cin-pazarinda-yogun-talep-goruyor/4094278",
+   "zaman": "2026-10-20T11:20:37+03:00",
+   "kelimeler": [
+    "cin",
+    "goruy",
+    "merme",
+    "pazar",
+    "talep",
+    "turk",
+    "visne",
+    "yogun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e535f1e58d3f"
+  },
+  "4f75d9b06309": {
+   "id": "4f75d9b06309",
+   "kaynak": "AA",
+   "baslik": "Bakan Kacır: Uluslararası patent başvurularında kadın buluşçu oranında dünya birincisiyiz",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TÜBİTAK'ın bilim insanlarına yönelik destek programları kapsamında son 23 yılda 233 bin kadın araştırmacıya 32 milyar lira destek verdiklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-uluslararasi-patent-basvurularinda-kadin-buluscu-oraninda-dunya-birincisiyiz/4094356",
+   "zaman": "2026-10-20T12:08:46+03:00",
+   "kelimeler": [
+    "bakan",
+    "basvu",
+    "birin",
+    "bulus",
+    "dunya",
+    "kacir",
+    "kadin",
+    "orani",
+    "paten",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "48a5b1eaa59e": {
+   "id": "48a5b1eaa59e",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Putin ile Witkoff'un yakın zamanda görüşmesini umuyoruz",
+   "ozet": "Kremlin Sözcüsü Dmitriy Peskov, Rusya Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump'ın özel temsilcisi Steve Witkoff arasında yakın zamanda bir görüşme düzenlenmesini umduklarını belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-putin-ile-witkoffun-yakin-zamanda-gorusmesini-umuyoruz-960637.html",
+   "zaman": "2026-10-20T13:10:00+03:00",
+   "kelimeler": [
+    "gorus",
+    "putin",
+    "rusya",
+    "umuyo",
+    "un",
+    "witko",
+    "yakin",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fec4ef8f9edc": {
+   "id": "fec4ef8f9edc",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bakan Şimşek'ten, fonlardan 10 milyon TL'den fazla kazanç sağlayanlara yasal süreç uyarısı",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarında yürütülen tasfiye sürecinde usulsüz kazanç elde ettiği tespit edilen kişilere yönelik yeni adımların atılacağını söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/c6x2977zyv7ko",
+   "zaman": "2026-10-20T13:43:39+03:00",
+   "kelimeler": [
+    "10",
+    "bakan",
+    "den",
+    "fazla",
+    "fonla",
+    "kazan",
+    "milyo",
+    "sagla",
+    "simse",
+    "surec",
+    "ten",
+    "tl",
+    "uyari",
+    "yasal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5ee9b15ba707"
+  },
+  "26afb6fb6c4b": {
+   "id": "26afb6fb6c4b",
+   "kaynak": "Hürriyet",
+   "baslik": "Suzan Elik cinayeti davasında yeni gelişme! Firari koca için kırmızı bülten çıkarıldı",
+   "ozet": "İstanbul, Çekmeköy’de boşanma aşamasındaki 3 çocuk annesi eşi Suzan Elik’i tabancayla vurarak öldüren ve olay yerinden kaçan firari Yunus Elik hakkında kırmızı bülten çıkarıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/suzan-elik-cinayeti-davasinda-yeni-gelisme-firari-koca-icin-kirmizi-bulten-cikarildi-43348502",
+   "zaman": "2026-10-20T13:45:40+03:00",
+   "kelimeler": [
+    "bulte",
+    "cikar",
+    "cinay",
+    "davas",
+    "elik",
+    "firar",
+    "gelis",
+    "kirmi",
+    "koca",
+    "suzan",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "01e90827161b": {
+   "id": "01e90827161b",
+   "kaynak": "TRT Haber",
+   "baslik": "A Milli Takım'da Sergen Yalçın dönemi",
+   "ozet": "Sergen Yalçın, A Milli Takım Teknik Direktörlüğü için 4 yıllık anlaşmaya vardıklarını açıkladı. Yalçın, \"Konu Milli Takım olunca her şey geride kalır\" açıklamasını yaptı.",
+   "link": "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-960639.html",
+   "zaman": "2026-10-20T13:47:00+03:00",
+   "kelimeler": [
+    "donem",
+    "milli",
+    "serge",
+    "takim",
+    "yalci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "96a5133bcd0d"
+  },
+  "625689f9ebf9": {
+   "id": "625689f9ebf9",
+   "kaynak": "AA",
+   "baslik": "Türkiye'de 44 gümüş eşya sanatkarına \"Somut Olmayan Kültürel Miras Taşıyıcısı Kartı\" verildi",
+   "ozet": "İstanbul Kuyumcular Odası ile Gümüş Eşya El Sanatkarları Derneğinin (GESAD) ortak yürüttüğü çalışmalar sonucunda Kültür ve Turizm Bakanlığı (KTB) tarafından 44 gümüş eşya sanatkarına \"Somut Olmayan Kültürel Miras Taşıyıcısı Kartı\" verildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/turkiyede-44-gumus-esya-sanatkarina-somut-olmayan-kulturel-miras-tasiyicisi-karti-verildi/4094500",
+   "zaman": "2026-10-20T13:47:18+03:00",
+   "kelimeler": [
+    "44",
+    "esya",
+    "gumus",
+    "karti",
+    "kultu",
+    "miras",
+    "olmay",
+    "sanat",
+    "somut",
+    "tasiy",
+    "turki",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d0907cb9b44a": {
+   "id": "d0907cb9b44a",
+   "kaynak": "AA",
+   "baslik": "9. İstanbul Arabuluculuk Konferansı 23-24 Ekim'de düzenlenecek",
+   "ozet": "Arabuluculuk alanındaki öncü ve özgün konumuyla öne çıkan Türkiye, 9. İstanbul Arabuluculuk Konferansı'nı 23-24 Ekim tarihlerinde \"Barış İçin Ortaklıklar ve Yeni Perspektifler: Değişen Dünyada Arabuluculuk\" temasıyla düzenleyecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/9-istanbul-arabuluculuk-konferansi-23-24-ekimde-duzenlenecek/4094501",
+   "zaman": "2026-10-20T13:47:34+03:00",
+   "kelimeler": [
+    "23",
+    "24",
+    "arabu",
+    "duzen",
+    "ekim",
+    "istan",
+    "konfe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1dda1cb3da17": {
+   "id": "1dda1cb3da17",
+   "kaynak": "AA",
+   "baslik": "Katar'dan Husilerin saldırıları karşısında Suudi Arabistan'a destek",
+   "ozet": "Katar Dışişleri Bakanlığı Sözcüsü Ensari, Husilerin saldırıları karşısında egemenliğini savunan Suudi Arabistan'ı desteklediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/katardan-husilerin-saldirilari-karsisinda-suudi-arabistana-destek/4094508",
+   "zaman": "2026-10-20T13:54:08+03:00",
+   "kelimeler": [
+    "arabi",
+    "dan",
+    "deste",
+    "husil",
+    "karsi",
+    "katar",
+    "saldi",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "24aee9d6cfbd": {
+   "id": "24aee9d6cfbd",
+   "kaynak": "AA",
+   "baslik": "Batı Avrupa'da Google'ın bulut hizmetlerinde teknik sorun yaşanıyor",
+   "ozet": "Google Cloud'un Batı Avrupa'daki tesislerinde birden fazla hizmeti etkileyen hatalar ve ağ kesintileri yaşanıyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bati-avrupada-googlein-bulut-hizmetlerinde-teknik-sorun-yasaniyor/4094510",
+   "zaman": "2026-10-20T13:55:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "bati",
+    "bulut",
+    "googl",
+    "hizme",
+    "in",
+    "sorun",
+    "tekni",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "42ac0555aeb4": {
+   "id": "42ac0555aeb4",
+   "kaynak": "NTV",
+   "baslik": "Aile meclisinde karar alıp öldürmüşlerdi: Suzan'ın katil zanlısına kırmızı bülten",
+   "ozet": "İstanbul'da boşanma aşamasındaki eşi Suzan Elik'i silahla vurarak öldüren firari sanık Yunus Elik hakkında kırmızı bülten çıkarıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/aile-meclisinde-karar-alip-oldurmuslerdi-suzanin-katil-zanlisina-kirmizi-bulten-1747171",
+   "zaman": "2026-10-20T13:57:18+03:00",
+   "kelimeler": [
+    "aile",
+    "alip",
+    "bulte",
+    "in",
+    "karar",
+    "katil",
+    "kirmi",
+    "mecli",
+    "oldur",
+    "suzan",
+    "zanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aa9d4e0147d5": {
+   "id": "aa9d4e0147d5",
+   "kaynak": "AA",
+   "baslik": "Bolu sonbahar renklerine büründü",
+   "ozet": "Bolu'da ağaçlar yeşil, sarı, kahverengi ve kızılın tonlarına büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/bolu-sonbahar-renklerine-burundu/4094514",
+   "zaman": "2026-10-20T13:57:27+03:00",
+   "kelimeler": [
+    "bolu",
+    "burun",
+    "renkl",
+    "sonba"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 14:01:22  11 yeni haber",
   "20.10 13:45:53  4 yeni haber",
   "20.10 13:34:28  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada",
   "20.10 13:31:11  8 yeni haber",
@@ -21180,8 +21435,7 @@
   "18.10 10:46:14  2 yeni haber",
   "18.10 10:33:57  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 10:33:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · İstanbul'da FETÖ operasyonu: Zaman gazetesinin eski çalışanı ve 2 fira",
-  "18.10 10:31:20  1 yeni haber",
-  "18.10 10:16:03  5 yeni haber"
+  "18.10 10:31:20  1 yeni haber"
  ],
  "otomatik": false
 }
