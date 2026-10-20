@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "5553915f0c4d": {
-   "id": "5553915f0c4d",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakırköy'de tanker devrildi: 1 kişi yaralandı",
-   "ozet": "Bakırköy Yeni Havaalanı Caddesi'nde LNG yüklü tanker, şoförünün virajı alamaması sonucu devrilip yan yattı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakirkoyde-tanker-devrildi-1-kisi-yaralandi-43344824",
-   "zaman": "2026-10-17T08:08:31+03:00",
-   "kelimeler": [
-    "bakir",
-    "devri",
-    "kisi",
-    "tanke",
-    "yaral"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T08:46:59.694774+03:00",
-   "ig_id": "18183367540429932",
-   "reels_id": "18099397262080083",
-   "story_id": "17935678626403330",
-   "slayt": 1,
-   "kanca": "Bakırköy'de tanker devrildi"
-  },
   "ddbc5b3c3480": {
    "id": "ddbc5b3c3480",
    "kaynak": "Hürriyet",
@@ -16784,8 +16761,17 @@
     "park",
     "yaral"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-20T08:18:04.172289+03:00",
+   "ig_id": "18645779974053055",
+   "reels_id": "18093784433178454",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1644794223969018",
+   "slayt": 6,
+   "kanca": "ALEV TOPUNA DÖNDÜ"
   },
   "ce804dbd2011": {
    "id": "ce804dbd2011",
@@ -16869,9 +16855,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bc1cfa0fc631": {
+   "id": "bc1cfa0fc631",
+   "kaynak": "TRT Haber",
+   "baslik": "Beyaz Saray Sözcüsü Zacharia neden sadece 5 gün görevde kaldı?",
+   "ozet": "Katie Zacharia'nın ilk basın toplantısındaki performansı ve hukuk geçmişine ilişkin çelişkili açıklamaları tartışma yarattı. ABD Başkanı Donald Trump'ın danışmanlarının da atamayı sorguladığı öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/beyaz-saray-sozcusu-zacharia-neden-sadece-5-gun-gorevde-kaldi-960586.html",
+   "zaman": "2026-10-20T07:53:00+03:00",
+   "kelimeler": [
+    "beyaz",
+    "gorev",
+    "gun",
+    "kaldi",
+    "neden",
+    "sadec",
+    "saray",
+    "sozcu",
+    "zacha"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "861f5d14b6e5": {
+   "id": "861f5d14b6e5",
+   "kaynak": "AA",
+   "baslik": "Trump'ın destek açıklaması Netanyahu blokunda beklenen oy artışını sağlamadı",
+   "ozet": "İsrail'de 27 Ekim'deki meclis seçimine ilişkin yapılan son kamuoyu yoklaması, ABD Başkanı Donald Trump'ın Başbakan Binyamin Netanyahu’ya desteğini açıklamasının hükümet blokunun oylarında gözle görülür bir artışa neden olmadığını ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumpin-destek-aciklamasi-netanyahu-blokunda-beklenen-oy-artisini-saglamadi/4094025",
+   "zaman": "2026-10-20T07:58:56+03:00",
+   "kelimeler": [
+    "acikl",
+    "artis",
+    "bekle",
+    "bloku",
+    "deste",
+    "in",
+    "netan",
+    "oy",
+    "sagla",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "526bef92e6b8": {
+   "id": "526bef92e6b8",
+   "kaynak": "TRT Haber",
+   "baslik": "ChatGPT şimdi de kripto para çaldı",
+   "ozet": "OpenAI, deneysel bir yapay zeka modelinin eğitim görevini tamamlamak için yetkisi olmadan kripto cüzdanlarından fon aldığını açıkladı. Şirket, olayın yapay zeka modellerinin kendi değerlendirmelerini hesap sahiplerinin izninin önüne koyabildiğini gösterdiğini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/chatgpt-simdi-de-kripto-para-caldi-960587.html",
+   "zaman": "2026-10-20T08:02:00+03:00",
+   "kelimeler": [
+    "caldi",
+    "chatg",
+    "kript",
+    "para",
+    "simdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 08:18:04  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Park halindeki araçlara çarpan otomobil alev aldı: 2 kişi yaralandı",
+  "20.10 08:16:03  3 yeni haber",
   "20.10 08:01:11  3 yeni haber",
   "20.10 07:46:04  2 yeni haber",
   "20.10 07:31:15  3 yeni haber",
@@ -17069,9 +17117,7 @@
   "18.10 04:46:15  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "18.10 04:15:55  2 yeni haber",
   "18.10 02:31:07  2 yeni haber",
-  "18.10 02:01:18  2 yeni haber",
-  "18.10 01:48:01  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 01:48:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): XHABER · İstanbul Çekmeköy'de sel felaketini aktaran NTV muhabiri Beyzanur Özer"
+  "18.10 02:01:18  2 yeni haber"
  ],
  "otomatik": false
 }
