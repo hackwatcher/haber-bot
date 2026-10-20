@@ -9876,7 +9876,8 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ba06d145dbc5": {
    "id": "ba06d145dbc5",
@@ -16892,7 +16893,8 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "78b4076a4302": {
    "id": "78b4076a4302",
@@ -22993,9 +22995,171 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "87998786bf6e"
+  },
+  "5148e8e4cab1": {
+   "id": "5148e8e4cab1",
+   "kaynak": "TRT Haber",
+   "baslik": "Topkapı Sarayı'nda 10 bini aşkın eser ziyaretçiyle buluşacak",
+   "ozet": "Topkapı Sarayı'nın birinci avlusunda bulunan tarihi Darphanei Amire yapı topluluğu, restorasyon ve yeniden işlevlendirme çalışmalarının ardından 5 ihtisas müzesiyle ziyarete açılacak.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/topkapi-sarayinda-10-bini-askin-eser-ziyaretciyle-bulusacak-960659.html",
+   "zaman": "2026-10-20T16:58:00+03:00",
+   "kelimeler": [
+    "10",
+    "askin",
+    "bini",
+    "bulus",
+    "eser",
+    "nda",
+    "saray",
+    "topka",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fa09cb1a284f": {
+   "id": "fa09cb1a284f",
+   "kaynak": "TRT Haber",
+   "baslik": "Tek fotoğrafla kanser hastalarının yaşam süresini tahmin eden yapay zeka geliştirildi",
+   "ozet": "Uzmanlar, hastaların yüz fotoğrafını analiz ederek biyolojik yaşını hesaplayabilen ve kanser tedavisinde yaşam şansını öngörebilen yeni bir yapay zeka aracı geliştirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/tek-fotografla-kanser-hastalarinin-yasam-suresini-tahmin-eden-yapay-zeka-gelistirildi-960661.html",
+   "zaman": "2026-10-20T17:25:00+03:00",
+   "kelimeler": [
+    "eden",
+    "fotog",
+    "gelis",
+    "hasta",
+    "kanse",
+    "sures",
+    "tahmi",
+    "tek",
+    "yapay",
+    "yasam",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1d07067ba4b6"
+  },
+  "05b7d8de062c": {
+   "id": "05b7d8de062c",
+   "kaynak": "AA",
+   "baslik": "Tarım İşletmeleri Genel Müdürlüğü bu yıl tay satışlarından 336 milyon 770 bin lira gelir elde etti",
+   "ozet": "Tarım İşletmeleri Genel Müdürü Gezginç, \"Yıl içinde 5 koşu tayı 3 elit tay satışı yapıldı. Bu yılın tamamında toplam 41'i elit tay olmak üzere 323 baş tay satışı yaptık. Bu satışlardan toplamda 336 milyon 770 bin liralık hasılat elde ettik.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tarim-isletmeleri-genel-mudurlugu-bu-yil-tay-satislarindan-336-milyon-770-bin-lira-gelir-elde-etti/4094803",
+   "zaman": "2026-10-20T17:26:11+03:00",
+   "kelimeler": [
+    "336",
+    "770",
+    "bin",
+    "elde",
+    "etti",
+    "gelir",
+    "genel",
+    "islet",
+    "lira",
+    "milyo",
+    "mudur",
+    "satis",
+    "tarim",
+    "tay",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6403acaba540": {
+   "id": "6403acaba540",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor Kulübü Başkanı Ertuğrul Doğan'a \"bahis oynama\" gerekçesiyle 45 gün hak mahrumiyeti cezası",
+   "ozet": "TFF, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'ın \"bahis oynama\" gerekçesiyle 45 gün hak mahrumiyeti cezası aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-kulubu-baskani-ertugrul-dogana-bahis-oynama-gerekcesiyle-45-gun-hak-mahrumiyeti-cezasi/4094810",
+   "zaman": "2026-10-20T17:31:31+03:00",
+   "kelimeler": [
+    "45",
+    "bahis",
+    "baska",
+    "cezas",
+    "dogan",
+    "ertug",
+    "gerek",
+    "gun",
+    "hak",
+    "kulub",
+    "mahru",
+    "oynam",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "d493636c3c1d": {
+   "id": "d493636c3c1d",
+   "kaynak": "TRT Haber",
+   "baslik": "Ertuğrul Doğan'a hak mahrumiyeti cezası",
+   "ozet": "Türkiye Futbol Federasyonu TFF, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'ın \"bahis oynama\" gerekçesiyle 45 gün hak mahrumiyeti cezası aldığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/ertugrul-dogana-hak-mahrumiyeti-cezasi-960662.html",
+   "zaman": "2026-10-20T17:33:00+03:00",
+   "kelimeler": [
+    "cezas",
+    "dogan",
+    "ertug",
+    "hak",
+    "mahru"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6403acaba540"
+  },
+  "192c5f633056": {
+   "id": "192c5f633056",
+   "kaynak": "AA",
+   "baslik": "Husilerin Yemen'in Taiz kentine düzenlediği saldırılarda 1 kişi öldü",
+   "ozet": "Yemen'de İran destekli Husilerin, Taiz'e düzenlediği saldırılarda ilk belirlemelere göre 1 kişi öldü, 7 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/husilerin-yemenin-taiz-kentine-duzenledigi-saldirilarda-1-kisi-oldu/4094821",
+   "zaman": "2026-10-20T17:37:43+03:00",
+   "kelimeler": [
+    "duzen",
+    "husil",
+    "in",
+    "kenti",
+    "kisi",
+    "saldi",
+    "taiz",
+    "yemen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4c82df17cb83"
+  },
+  "32330d736402": {
+   "id": "32330d736402",
+   "kaynak": "AA",
+   "baslik": "Amazon, ABD'de tatil sezonunda 300 binden fazla kişiyi işe alacak",
+   "ozet": "ABD'li perakende devi Amazon, yoğun tatil sezonu alışveriş dönemine hazırlanırken ABD genelinde 300 binden fazla kişiyi işe alacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/amazon-abdde-tatil-sezonunda-300-binden-fazla-kisiyi-ise-alacak/4094825",
+   "zaman": "2026-10-20T17:40:04+03:00",
+   "kelimeler": [
+    "300",
+    "abd",
+    "alaca",
+    "amazo",
+    "binde",
+    "fazla",
+    "ise",
+    "kisiy",
+    "sezon",
+    "tatil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 17:45:58  4 yeni haber",
   "20.10 17:31:16  4 yeni haber",
   "20.10 17:18:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
   "20.10 17:16:00  5 yeni haber",
@@ -23194,8 +23358,7 @@
   "18.10 13:15:59  2 yeni haber",
   "18.10 13:04:20  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 13:04:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Adana'da fırtına çatıyı uçurdu! Evin sahibi o anları anlattı: Deprem o",
-  "18.10 13:01:11  1 yeni haber",
-  "18.10 12:45:59  3 yeni haber"
+  "18.10 13:01:11  1 yeni haber"
  ],
  "otomatik": false
 }
