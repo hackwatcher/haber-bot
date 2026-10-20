@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "1fd7afa9fbe0": {
-   "id": "1fd7afa9fbe0",
-   "kaynak": "Hürriyet",
-   "baslik": "Uludağ’a beklenen kar düştü! Bazı araçlar yolda kaldı",
-   "ozet": "Türkiye'nin önemli kayak ve kış turizmi merkezlerinden​​​​​​​ Uludağ'da kar yağışı etkili oldu. Uludağ’a kış lastiği olmadan çıkan bazı sürücüler yolda kaldı",
-   "link": "https://www.hurriyet.com.tr/gundem/uludaga-beklenen-kar-dustu-bazi-araclar-yolda-kaldi-43345715",
-   "zaman": "2026-10-17T23:52:32+03:00",
-   "kelimeler": [
-    "aracl",
-    "bazi",
-    "bekle",
-    "dustu",
-    "kaldi",
-    "kar",
-    "uluda",
-    "yolda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6c5095cc8aa1": {
-   "id": "6c5095cc8aa1",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-ekim-2026-1746779",
-   "zaman": "2026-10-18T00:00:00+03:00",
-   "kelimeler": [
-    "18",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "ekim",
-    "il",
-    "istan",
-    "izmir",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2f073c523ad5"
-  },
   "ff1273e15877": {
    "id": "ff1273e15877",
    "kaynak": "XHABER",
@@ -13320,7 +13276,8 @@
    "fb_id": null,
    "fb_reels_id": "1620586533093965",
    "slayt": 6,
-   "kanca": "BÜYÜK İKRAMİYE HEYECANI"
+   "kanca": "BÜYÜK İKRAMİYE HEYECANI",
+   "diger_kaynaklar": []
   },
   "b72c43076926": {
    "id": "b72c43076926",
@@ -24614,11 +24571,20 @@
     "kisi",
     "tutuk"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-10-21T00:03:12.557186+03:00",
+   "ig_id": "18093757076172245",
+   "reels_id": "18131470339757902",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1894124502041383",
+   "slayt": 6,
+   "kanca": "Dünyadan"
   },
   "5ef31742ae84": {
    "id": "5ef31742ae84",
@@ -24811,7 +24777,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "f747f825fb25": {
@@ -24857,9 +24824,98 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "97adc53cddb3"
+  },
+  "a5534c7ffcee": {
+   "id": "a5534c7ffcee",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıyer'de sürüklenen tanker kurtarıldı",
+   "ozet": "Ulaştırma ve Altyapı Bakanlığı, Sarıyer'de sürüklenen sürüklenen Liberya bayraklı ‘BANDA’ isimli ham petrol tankerinin kurtarılarak yüzdürüldüğünü açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sariyerde-suruklenen-tanker-kurtarildi-43349100",
+   "zaman": "2026-10-20T23:44:22+03:00",
+   "kelimeler": [
+    "kurta",
+    "sariy",
+    "suruk",
+    "tanke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "97adc53cddb3"
+  },
+  "0a285f2d7cfa": {
+   "id": "0a285f2d7cfa",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkanı Trump'a göre İran ile savaş çok yakında sona erecek",
+   "ozet": "ABD Başkanı Donald Trump, İran ile savaşın çok yakında sona ereceğini ve petrol fiyatlarının hızla düşeceğini savunarak, İran'ın \"gelecekte de nükleer silaha sahip olmayacağından\" emin olmak istediklerini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumpa-gore-iran-ile-savas-cok-yakinda-sona-erecek-960688.html",
+   "zaman": "2026-10-20T23:51:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "erece",
+    "gore",
+    "iran",
+    "savas",
+    "sona",
+    "trump",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e884d60fbc34": {
+   "id": "e884d60fbc34",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 20 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1747223",
+   "zaman": "2026-10-20T23:58:34+03:00",
+   "kelimeler": [
+    "20",
+    "2026",
+    "belli",
+    "cekil",
+    "ekim",
+    "ekran",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1873b98578fc"
+  },
+  "ddc460402390": {
+   "id": "ddc460402390",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-ekim-2026-1747224",
+   "zaman": "2026-10-21T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "21",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "ekim",
+    "il",
+    "istan",
+    "izmir",
+    "nered"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "21.10 00:03:12  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fransa'daki eylemlerde 149 kişi tutuklandı",
+  "21.10 00:01:22  2 yeni haber",
   "20.10 23:46:16  1 yeni haber",
   "20.10 23:45:00  1 yeni haber",
   "20.10 23:31:14  3 yeni haber",
@@ -25057,9 +25113,7 @@
   "18.10 21:01:16  2 yeni haber",
   "18.10 20:45:58  1 yeni haber",
   "18.10 20:31:08  2 yeni haber",
-  "18.10 20:16:05  2 yeni haber",
-  "18.10 19:53:17  3 yeni haber",
-  "18.10 19:46:03  2 yeni haber"
+  "18.10 20:16:05  2 yeni haber"
  ],
  "otomatik": false
 }
