@@ -24809,10 +24809,58 @@
     "uzunl"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "f747f825fb25": {
+   "id": "f747f825fb25",
+   "kaynak": "AA",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Nutuk'un 8 dile çevrilmesine ilişkin paylaşım",
+   "ozet": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, \"Milli mücadeleyi, Cumhuriyet'imizin önemini ve Türk milletinin yeniden uyanışını ortaya koyan Nutuk'un nesillerimizce irdelenmesi ve anlaşılması dileğiyle.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-nutukun-8-dile-cevrilmesine-iliskin-paylasim/4095138",
+   "zaman": "2026-10-20T23:43:04+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "cevri",
+    "dan",
+    "dile",
+    "genel",
+    "ilisk",
+    "nutuk",
+    "parti",
+    "payla",
+    "un",
+    "yardi",
+    "zorlu"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "7afbd6825cfb": {
+   "id": "7afbd6825cfb",
+   "kaynak": "NTV",
+   "baslik": "Sarıyer'de karaya oturan petrol tankeri kurtarıldı",
+   "ozet": "Sarıyer Kısırkaya açıklarında sürüklenen Liberya bayraklı tankeri bulunduğu yerden kurtarılarak yüzdürüldü.",
+   "link": "https://www.ntv.com.tr/turkiye/sariyerde-karaya-oturan-petrol-tankeri-kurtarildi-1747222",
+   "zaman": "2026-10-20T23:44:31+03:00",
+   "kelimeler": [
+    "karay",
+    "kurta",
+    "otura",
+    "petro",
+    "sariy",
+    "tanke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "97adc53cddb3"
   }
  },
  "kayit": [
+  "20.10 23:46:16  1 yeni haber",
   "20.10 23:45:00  1 yeni haber",
   "20.10 23:31:14  3 yeni haber",
   "20.10 23:16:15  1 yeni haber",
@@ -25011,8 +25059,7 @@
   "18.10 20:31:08  2 yeni haber",
   "18.10 20:16:05  2 yeni haber",
   "18.10 19:53:17  3 yeni haber",
-  "18.10 19:46:03  2 yeni haber",
-  "18.10 19:31:12  1 yeni haber"
+  "18.10 19:46:03  2 yeni haber"
  ],
  "otomatik": false
 }
