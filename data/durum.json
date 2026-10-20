@@ -1,31 +1,5 @@
 {
  "haberler": {
-  "dc45b7915334": {
-   "id": "dc45b7915334",
-   "kaynak": "Hürriyet",
-   "baslik": "Osman Gazi Yüzer Üretim Platformu Uğurlama Töreni... Cumhurbaşkanı Erdoğan'dan video mesaj",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Osman Gazi Yüzer Üretim Platformu Uğurlama Töreni\"ne video mesaj gönderdi. Cumhurbaşkanı Erdoğan, \"Karadeniz'deki doğal gaz üretimimiz günlük 20 milyon metrekübe çıkarak ikiye katlanacak.",
-   "link": "https://www.hurriyet.com.tr/gundem/osman-gazi-yuzer-uretim-platformu-ugurlama-toreni-cumhurbaskani-erdogandan-video-mesaj-43345119",
-   "zaman": "2026-10-17T12:30:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "dan",
-    "erdog",
-    "gazi",
-    "mesaj",
-    "osman",
-    "platf",
-    "toren",
-    "ugurl",
-    "ureti",
-    "yuzer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
   "a4f2fc9786b6": {
    "id": "a4f2fc9786b6",
    "kaynak": "Hürriyet",
@@ -19388,7 +19362,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "78850f71dccc": {
    "id": "78850f71dccc",
@@ -19981,9 +19958,215 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "6649f08f3494"
+  },
+  "0a2fba80d3b9": {
+   "id": "0a2fba80d3b9",
+   "kaynak": "AA",
+   "baslik": "Üsküdar Belediye Başkan Vekilliğine AK Partili Sarıoğlu seçildi",
+   "ozet": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in vefatı nedeniyle Belediye Meclisinde yapılan seçimin 3. turunda 24 oyun tamamını alan AK Parti'li Meclis Üyesi Muhammed Emin Sarıoğlu, Belediye Başkan Vekilliğine seçildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekilligine-ak-partili-sarioglu-secildi/4094324",
+   "zaman": "2026-10-20T11:45:46+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "beled",
+    "parti",
+    "sario",
+    "secil",
+    "uskud",
+    "vekil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c589b5ecf113"
+  },
+  "345c92f703e5": {
+   "id": "345c92f703e5",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da sel nedeniyle can kaybı 7'ye yükseldi",
+   "ozet": "İstanbul'da meydana gelen sel felaketinde kaybolan Ahmet Derin'in cansız bedenine ulaşıldı. Afette hayatını kaybedenlerin sayısı 7'ye yükselirken arama kurtarma çalışmalarına son verildi.",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-sel-nedeniyle-can-kaybi-7ye-yukseldi-960627.html",
+   "zaman": "2026-10-20T12:09:00+03:00",
+   "kelimeler": [
+    "can",
+    "istan",
+    "kaybi",
+    "neden",
+    "sel",
+    "ye",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e692cc9dd74e": {
+   "id": "e692cc9dd74e",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke İttifakı Anlaşması Meclis'te",
+   "ozet": "Mekke İttifakı Anlaşması'na dair kanun teklifi Meclis Başkanlığına sunuldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/mekke-ittifaki-anlasmasi-mecliste-43348346",
+   "zaman": "2026-10-20T12:13:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "ittif",
+    "mecli",
+    "mekke",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "60f51f35eb60": {
+   "id": "60f51f35eb60",
+   "kaynak": "AA",
+   "baslik": "Batı Şeria'daki İsrail saldırıları, 20 Filistinli aileyi göçe zorladı",
+   "ozet": "İsrail ordusunun ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'daki saldırıları nedeniyle Ürdün Vadisi'ndeki 20 Filistinli ailenin evlerini terk etmek zorunda kaldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bati-seriadaki-israil-saldirilari-20-filistinli-aileyi-goce-zorladi/4094359",
+   "zaman": "2026-10-20T12:14:24+03:00",
+   "kelimeler": [
+    "20",
+    "ailey",
+    "bati",
+    "daki",
+    "filis",
+    "goce",
+    "israi",
+    "saldi",
+    "seria",
+    "zorla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eaf801df3bff": {
+   "id": "eaf801df3bff",
+   "kaynak": "Hürriyet",
+   "baslik": "Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada",
+   "ozet": "Adana’da yola çıkan kediye çarpmamak için motosikletiyle manevra yapan Halil İbrahim (18), aracın devrilmesi sonucu hafif yaralandı. Kaza anı güvenlik kamerasına yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kediye-carpmamak-icin-direksiyonu-kirdi-motosiklet-kazasi-kamerada-43348323",
+   "zaman": "2026-10-20T12:16:20+03:00",
+   "kelimeler": [
+    "carpm",
+    "direk",
+    "kamer",
+    "kazas",
+    "kediy",
+    "kirdi",
+    "motos"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "249511a275ec": {
+   "id": "249511a275ec",
+   "kaynak": "TRT Haber",
+   "baslik": "AB Yüksek Temsilcisi: Rusya, gıdayı kasıtlı olarak bir silah haline getiriyor",
+   "ozet": "AB Yüksek Temsilcisi Kaja Kallas, Karadeniz'deki gemilere yönelik saldırılardan Rusya'nın sorumlu olduğunu, Moskova'nın bu saldırılarla gıdayı kasıtlı olarak silah haline getirdiğini öne sürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-temsilcisi-rusya-gidayi-kasitli-olarak-bir-silah-haline-getiriyor-960628.html",
+   "zaman": "2026-10-20T12:17:00+03:00",
+   "kelimeler": [
+    "ab",
+    "getir",
+    "giday",
+    "halin",
+    "kasit",
+    "rusya",
+    "silah",
+    "temsi",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "25d96ccfd034": {
+   "id": "25d96ccfd034",
+   "kaynak": "AA",
+   "baslik": "Rusya: Ukrayna konusunda Rusya, Çin ve ABD'nin üçlü toplantıya ilgisi var",
+   "ozet": "Rusya Dışişleri Bakan Yardımcısı Rudenko, Ukrayna konusunda Rusya, ABD ve Çin'in üçlü bir toplantıya ilgi duyduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-konusunda-rusya-cin-ve-abdnin-uclu-toplantiya-ilgisi-var/4094371",
+   "zaman": "2026-10-20T12:23:42+03:00",
+   "kelimeler": [
+    "abd",
+    "cin",
+    "ilgis",
+    "konus",
+    "nin",
+    "rusya",
+    "topla",
+    "uclu",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0ffd4c5f38f7": {
+   "id": "0ffd4c5f38f7",
+   "kaynak": "NTV",
+   "baslik": "Mekke İttifakı Anlaşması Meclis'te",
+   "ozet": "Mekke İttifakı Anlaşmasına Dair Kanun Teklifi Meclis Başkanlığı'na sunuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154",
+   "zaman": "2026-10-20T12:25:22+03:00",
+   "kelimeler": [
+    "anlas",
+    "ittif",
+    "mecli",
+    "mekke",
+    "te"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e692cc9dd74e"
+  },
+  "4f112f7b2452": {
+   "id": "4f112f7b2452",
+   "kaynak": "AA",
+   "baslik": "Milli tenisçi Zeynep Sönmez, Japonya Açık'ta ikinci tura yükseldi",
+   "ozet": "Milli sporcu Zeynep Sönmez, Japonya Açık Kadınlar Tenis Turnuvası'nın ilk turunda Avustralyalı rakibi Maya Joint'u 2-1 yenerek ikinci tura yükseldi.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acikta-ikinci-tura-yukseldi/4094374",
+   "zaman": "2026-10-20T12:25:30+03:00",
+   "kelimeler": [
+    "acik",
+    "ikinc",
+    "japon",
+    "milli",
+    "sonme",
+    "ta",
+    "tenis",
+    "tura",
+    "yukse",
+    "zeyne"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19072b79e6d1": {
+   "id": "19072b79e6d1",
+   "kaynak": "AA",
+   "baslik": "MotoGP'de yarışan milli motosikletçi Toprak Razgatlıoğlu, sakatlık nedeniyle sezonu kapattı",
+   "ozet": "Endonezya Grand Prix'sinde geçirdiği kazada omzundan sakatlanan milli motosikletçi Toprak Razgatlıoğlu, 26 Ekim Pazartesi günü ameliyat edilecek ve MotoGP'de sezonun son 5 yarışında yer alamayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/motogpde-yarisan-milli-motosikletci-toprak-razgatlioglu-sakatlik-nedeniyle-sezonu-kapatti/4094381",
+   "zaman": "2026-10-20T12:28:51+03:00",
+   "kelimeler": [
+    "kapat",
+    "milli",
+    "motog",
+    "motos",
+    "neden",
+    "razga",
+    "sakat",
+    "sezon",
+    "topra",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "20.10 12:31:07  8 yeni haber",
   "20.10 12:16:04  6 yeni haber",
   "20.10 12:05:34  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Kanada Başbakanı Carney'nin Türkiye ziyareti ticarette yeni işbirliği ",
   "20.10 12:01:39  14 yeni haber",
@@ -20182,8 +20365,7 @@
   "18.10 09:46:00  1 yeni haber",
   "18.10 09:33:32  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 09:33:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · İranlılar, Hürmüz Boğazı’nda batan gemilerden iPhone ve parfümleri top",
-  "18.10 09:31:07  1 yeni haber",
-  "18.10 09:16:02  2 yeni haber"
+  "18.10 09:31:07  1 yeni haber"
  ],
  "otomatik": false
 }
