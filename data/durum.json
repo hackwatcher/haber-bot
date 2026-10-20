@@ -18262,7 +18262,10 @@
     "yuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d0f99410fea7": {
    "id": "d0f99410fea7",
@@ -18606,7 +18609,10 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1e510b76412a": {
    "id": "1e510b76412a",
@@ -19533,7 +19539,10 @@
     "urunl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "34701d7e6bc4": {
    "id": "34701d7e6bc4",
@@ -20016,7 +20025,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber",
+    "Sözcü"
    ]
   },
   "60f51f35eb60": {
@@ -20079,7 +20090,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "25d96ccfd034": {
    "id": "25d96ccfd034",
@@ -20163,9 +20177,282 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "f4b48ec0081a": {
+   "id": "f4b48ec0081a",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Ukrayna'da 4 kuru yük gemisi ile lojistik merkezlerini vurduk",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa bölgesinde 4 kuru yük gemisi ile Hmelnitski ve Volın bölgelerindeki lojistik merkezlerini insansız hava araçlarıyla İHA vurduklarını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-4-kuru-yuk-gemisi-ile-lojistik-merkezlerini-vurduk-960629.html",
+   "zaman": "2026-10-20T10:15:00+03:00",
+   "kelimeler": [
+    "gemis",
+    "kuru",
+    "lojis",
+    "merke",
+    "rusya",
+    "ukray",
+    "vurdu",
+    "yuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f8b06a0a2f88"
+  },
+  "721eebc2d105": {
+   "id": "721eebc2d105",
+   "kaynak": "TRT Haber",
+   "baslik": "Karadeniz'in su ürünleri ihracatı 9 ayda 322 milyon doları aştı",
+   "ozet": "Karadeniz Bölgesi'nden yılın ocakeylül döneminde yapılan su ürünleri ihracatı, 322 milyon 393 bin 650 dolara ulaştı. Su ürünlerine en çok talep Rusya, Yunanistan ve Belarus'tan geldi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/karadenizin-su-urunleri-ihracati-9-ayda-322-milyon-dolari-asti-960630.html",
+   "zaman": "2026-10-20T12:25:00+03:00",
+   "kelimeler": [
+    "322",
+    "asti",
+    "ayda",
+    "dolar",
+    "ihrac",
+    "in",
+    "karad",
+    "milyo",
+    "su",
+    "urunl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8f3e4fd8fafd"
+  },
+  "cda164c7dad3": {
+   "id": "cda164c7dad3",
+   "kaynak": "TRT Haber",
+   "baslik": "Mekke İttifakı Anlaşması Meclis'e sunuldu",
+   "ozet": "Mekke İttifakı Anlaşması'na dair kanun teklifi Türkiye Büyük Millet Meclisi Başkanlığına sunuldu.",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-ittifaki-anlasmasi-meclise-sunuldu-960631.html",
+   "zaman": "2026-10-20T12:26:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "ittif",
+    "mecli",
+    "mekke",
+    "sunul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e692cc9dd74e"
+  },
+  "f43f9bf495db": {
+   "id": "f43f9bf495db",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş: Tüm insanlığın kurtuluşu, adil bir dünya sisteminin kurulmasından geçiyor",
+   "ozet": "TBMM Başkanı Kurtulmuş, haksızlık, çifte standart, savaş ve insanlık suçları, çatışma, gerilim ve yoksullukların sona ermesi için adil ve hakkaniyetli bir dünya sisteminin kurulması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-tum-insanligin-kurtulusu-adil-bir-dunya-sisteminin-kurulmasindan-geciyor/4094379",
+   "zaman": "2026-10-20T12:28:30+03:00",
+   "kelimeler": [
+    "adil",
+    "baska",
+    "dunya",
+    "geciy",
+    "insan",
+    "kurtu",
+    "kurul",
+    "siste",
+    "tbmm",
+    "tum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f5ab3af4b9d5": {
+   "id": "f5ab3af4b9d5",
+   "kaynak": "AA",
+   "baslik": "AB Yüksek Temsilcisi Kallas: Rusya, gıdayı kasıtlı olarak bir silah haline getiriyor",
+   "ozet": "AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kallas, Karadeniz'deki gemilere yönelik saldırılardan Rusya'nın sorumlu olduğunu, Moskova'nın bu saldırılarla gıdayı kasıtlı olarak silah haline getirdiğini öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-yuksek-temsilcisi-kallas-rusya-gidayi-kasitli-olarak-bir-silah-haline-getiriyor/4094382",
+   "zaman": "2026-10-20T12:28:57+03:00",
+   "kelimeler": [
+    "ab",
+    "getir",
+    "giday",
+    "halin",
+    "kalla",
+    "kasit",
+    "rusya",
+    "silah",
+    "temsi",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "249511a275ec"
+  },
+  "51cd500ac098": {
+   "id": "51cd500ac098",
+   "kaynak": "AA",
+   "baslik": "ABD, Çinli yapay zeka şirketi DeepSeek'in federal kurumlarda kullanımını yasakladı",
+   "ozet": "ABD, ulusal ve siber güvenlik riskleri gerekçesiyle Çinli yapay zeka şirketi DeepSeek'in ürünlerinin federal kurumların bilişim sistemlerinden çıkarılmasına ve kamu ihale süreçlerinden menedilmesine karar verdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-cinli-yapay-zeka-sirketi-deepseekin-federal-kurumlarda-kullanimini-yasakladi/4094385",
+   "zaman": "2026-10-20T12:29:36+03:00",
+   "kelimeler": [
+    "abd",
+    "cinli",
+    "deeps",
+    "feder",
+    "in",
+    "kulla",
+    "kurum",
+    "sirke",
+    "yapay",
+    "yasak",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca1cdaf55fa7": {
+   "id": "ca1cdaf55fa7",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin dünya turizm gelirlerinde sıra atlaması bekleniyor",
+   "ozet": "Türkiye'nin gelecek yıl turizm gelirleri sıralamasında basamak atlayarak en çok gelire sahip 6'ncı ülke olması bekleniyor. En çok turist çeken ülke sıralamasında da Türkiye'nin bu yıl ulaştığı 4'üncülük konumunu 20272029 döneminde de koruması öngörülüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor-960632.html",
+   "zaman": "2026-10-20T12:33:00+03:00",
+   "kelimeler": [
+    "atlam",
+    "bekle",
+    "dunya",
+    "gelir",
+    "nin",
+    "sira",
+    "turiz",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac9ca09aa2cd"
+  },
+  "58c461d71aa5": {
+   "id": "58c461d71aa5",
+   "kaynak": "AA",
+   "baslik": "Bahçeli: Huzur ve güven iklimini sabote etmeye yönelik hiçbir girişim kabul edilemez",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Türkiye'nin ekonomik, siyasi ve diplomatik başarılarla öne çıktığı, kanunsuzlukların üzerine gidildiği bir ortamda huzur ve güven iklimini sabote etmeye yönelik hiçbir girişim kabul edilemez.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bahceli-huzur-ve-guven-iklimini-sabote-etmeye-yonelik-hicbir-girisim-kabul-edilemez/4094388",
+   "zaman": "2026-10-20T12:33:12+03:00",
+   "kelimeler": [
+    "bahce",
+    "edile",
+    "etmey",
+    "giris",
+    "guven",
+    "hicbi",
+    "huzur",
+    "iklim",
+    "kabul",
+    "sabot",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "149987f7e745": {
+   "id": "149987f7e745",
+   "kaynak": "AA",
+   "baslik": "Türkmenler, Irak'ta ilk kez Irak Türkmen Cephesinden bir ismin devlet bakanı olmasından memnun",
+   "ozet": "Irak Meclisinde bakanlıklar için yapılan seçimlerde, \"ilk kez\" Irak Türkmen Cephesinden (ITC) bir adayın devlet bakanlığı görevine seçilmesi Kerkük'teki Türkmenler tarafından memnuniyetle karşılandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkmenler-irakta-ilk-kez-irak-turkmen-cephesinden-bir-ismin-devlet-bakani-olmasindan-memnun/4094392",
+   "zaman": "2026-10-20T12:35:06+03:00",
+   "kelimeler": [
+    "bakan",
+    "cephe",
+    "devle",
+    "ilk",
+    "irak",
+    "ismin",
+    "kez",
+    "memnu",
+    "olmas",
+    "ta",
+    "turkm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd3fb8636525": {
+   "id": "fd3fb8636525",
+   "kaynak": "Hürriyet",
+   "baslik": "İbn-i Sina'nın torunları Türkiye'de doktor oluyor: Özbek üçüzlerin tıp yolculuğu Gülhane'de devam ediyor",
+   "ozet": "Buhara'dan Türkiye'ye uzanan başarı hikayesinde üçüz kız kardeşler Sabina, Medine ve Zarina Hamreyava, tıp eğitimlerinin son aşaması olan intörnlüğü Gülhane Eğitim ve Araştırma Hastanesi'nde tamamlıyor. SBÜ Rektörü Prof. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/ibn-i-sinanin-torunlari-turkiyede-doktor-oluyor-ozbek-ucuzlerin-tip-yolculugu-gulhanede-devam-ediyor-43348375",
+   "zaman": "2026-10-20T12:35:54+03:00",
+   "kelimeler": [
+    "devam",
+    "dokto",
+    "ediyo",
+    "gulha",
+    "ibn",
+    "nin",
+    "oluyo",
+    "ozbek",
+    "sina",
+    "tip",
+    "torun",
+    "turki",
+    "ucuzl",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3afe22cdcacf": {
+   "id": "3afe22cdcacf",
+   "kaynak": "Sözcü",
+   "baslik": "Mekke İttifakı Anlaşması'na dair kanun teklifi Meclis'e sunuldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mekke-ittifaki-anlasmasina-dair-kanun-teklifi-meclise-sunuldu-p370953",
+   "zaman": "2026-10-20T12:36:40+03:00",
+   "kelimeler": [
+    "anlas",
+    "dair",
+    "ittif",
+    "kanun",
+    "mecli",
+    "mekke",
+    "na",
+    "sunul",
+    "tekli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e692cc9dd74e"
+  },
+  "22c53fb38131": {
+   "id": "22c53fb38131",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Fatima el-Mansuri: Fas'ın kral, din adamları ve feministler arasında sıkışan ilk kadın başbakanı",
+   "ozet": "Fas'ın ilk kadın başbakanı Fatima el-Mansouri, dini ve siyasi engellere rağmen kadın haklarını ilerletebilecek mi?",
+   "link": "https://www.bbc.com/turkce/articles/ckj0l7ygzm14o",
+   "zaman": "2026-10-20T12:37:03+03:00",
+   "kelimeler": [
+    "adaml",
+    "arasi",
+    "basba",
+    "din",
+    "el",
+    "fas",
+    "fatim",
+    "femin",
+    "ilk",
+    "in",
+    "kadin",
+    "kral",
+    "mansu",
+    "sikis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 12:46:08  6 yeni haber",
+  "20.10 12:46:08  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "20.10 12:31:07  8 yeni haber",
   "20.10 12:16:04  6 yeni haber",
   "20.10 12:05:34  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Kanada Başbakanı Carney'nin Türkiye ziyareti ticarette yeni işbirliği ",
@@ -20363,9 +20650,7 @@
   "18.10 10:04:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · İstanbul Beşiktaş’ta düzenlenen operasyonla, kripto balinası Richard J",
   "18.10 10:01:23  1 yeni haber",
   "18.10 09:46:00  1 yeni haber",
-  "18.10 09:33:32  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 09:33:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · İranlılar, Hürmüz Boğazı’nda batan gemilerden iPhone ve parfümleri top",
-  "18.10 09:31:07  1 yeni haber"
+  "18.10 09:33:32  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
