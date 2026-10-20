@@ -23910,7 +23910,10 @@
     "yuzde"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "9522f1fd430f": {
    "id": "9522f1fd430f",
@@ -24826,7 +24829,10 @@
     "yakin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "e884d60fbc34": {
    "id": "e884d60fbc34",
@@ -24894,8 +24900,17 @@
     "ucunc",
     "uefa"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-21T01:03:21.313573+03:00",
+   "ig_id": "17906491623661104",
+   "reels_id": "18124850311923171",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2416173365791735",
+   "slayt": 6,
+   "kanca": "DEVLER LİGİ'NDE GOL YAĞMURU"
   },
   "d9ae2d0bab21": {
    "id": "d9ae2d0bab21",
@@ -25124,9 +25139,152 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d0b8427a3ac1": {
+   "id": "d0b8427a3ac1",
+   "kaynak": "AA",
+   "baslik": "DSÖ, eşitsizliğin bulaşıcı olmayan hastalık riskleri ile bakıma erişimi şekillendirdiğini bildirdi",
+   "ozet": "Dünya Sağlık Örgütü (DSÖ), eşitsizliğin bulaşıcı olmayan hastalık risklerini ve bakıma erişimi şekillendirdiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/dso-esitsizligin-bulasici-olmayan-hastalik-riskleri-ile-bakima-erisimi-sekillendirdigini-bildirdi/4095155",
+   "zaman": "2026-10-21T00:11:47+03:00",
+   "kelimeler": [
+    "bakim",
+    "bildi",
+    "bulas",
+    "dso",
+    "erisi",
+    "esits",
+    "hasta",
+    "olmay",
+    "riskl",
+    "sekil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3fd16750fcb7": {
+   "id": "3fd16750fcb7",
+   "kaynak": "AA",
+   "baslik": "Trump'ın Kanada menşeli ürünlere uyguladığı yüzde 50'lik tarifelere karşı dava açıldı",
+   "ozet": "ABD'de bir gıda ithalatçısı, Başkan Donald Trump yönetiminin Kanada menşeli bazı ürünlere uyguladığı yüzde 50 oranındaki gümrük vergilerinin hukuka aykırı olduğu gerekçesiyle dava açtı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumpin-kanada-menseli-urunlere-uyguladigi-yuzde-50lik-tarifelere-karsi-dava-acildi/4095163",
+   "zaman": "2026-10-21T00:20:12+03:00",
+   "kelimeler": [
+    "50",
+    "acild",
+    "dava",
+    "in",
+    "kanad",
+    "karsi",
+    "lik",
+    "mense",
+    "tarif",
+    "trump",
+    "urunl",
+    "uygul",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "242f93e886e6"
+  },
+  "6a5c3552536f": {
+   "id": "6a5c3552536f",
+   "kaynak": "AA",
+   "baslik": "İngiltere'nin kuraklığı atlatabilmesi için ortalamanın yüzde 120'si kadar yağış alması gerekiyor",
+   "ozet": "İngiltere'nin ilkbahar başında kuraklıktan çıkmış sayılabilmesi için gelecek 6 ay boyunca uzun dönem ortalama yağış miktarının en az yüzde 120'si kadar yağış alması gerektiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterenin-kurakligi-atlatabilmesi-icin-ortalamanin-yuzde-120si-kadar-yagis-almasi-gerekiyor/4095164",
+   "zaman": "2026-10-21T00:20:18+03:00",
+   "kelimeler": [
+    "120",
+    "almas",
+    "atlat",
+    "gerek",
+    "ingil",
+    "kurak",
+    "nin",
+    "ortal",
+    "si",
+    "yagis",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "544da8a2d464": {
+   "id": "544da8a2d464",
+   "kaynak": "AA",
+   "baslik": "Vance, 2028 başkanlık seçiminde aday olması halinde Trump'ın desteğini alacağı görüşünde",
+   "ozet": "ABD Başkan Yardımcısı JD Vance, 2028'deki başkanlık seçiminde aday olması halinde Başkan Donald Trump'ın kendisini destekleyeceğini düşündüğünü söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/vance-2028-baskanlik-seciminde-aday-olmasi-halinde-trumpin-destegini-alacagi-gorusunde/4095165",
+   "zaman": "2026-10-21T00:23:31+03:00",
+   "kelimeler": [
+    "2028",
+    "aday",
+    "alaca",
+    "baska",
+    "deste",
+    "gorus",
+    "halin",
+    "in",
+    "olmas",
+    "secim",
+    "trump",
+    "vance"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3dc450d79b9e": {
+   "id": "3dc450d79b9e",
+   "kaynak": "AA",
+   "baslik": "Filistin: Gazze'de yarım milyon kişiye gıda yardımının kesilmesi insani yardım sistemini tehdit ediyor",
+   "ozet": "Filistin hükümeti, Gazze Şeridi'nde yaklaşık yarım milyon Filistinliye yönelik gıda yardımının kesilmesinin insani yardım sisteminin devamlılığını tehdit ettiği ve insani koşulların daha da kötüleşmesine yol açabileceği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-gazzede-yarim-milyon-kisiye-gida-yardiminin-kesilmesi-insani-yardim-sistemini-tehdit-ediyor/4095169",
+   "zaman": "2026-10-21T00:26:13+03:00",
+   "kelimeler": [
+    "ediyo",
+    "filis",
+    "gazze",
+    "gida",
+    "insan",
+    "kesil",
+    "kisiy",
+    "milyo",
+    "siste",
+    "tehdi",
+    "yardi",
+    "yarim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "14d82fd25486": {
+   "id": "14d82fd25486",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump'a göre İran ile savaş \"çok yakında\" sona erecek",
+   "ozet": "ABD Başkanı Donald Trump, İran ile savaşın çok yakında sona ereceğini ve petrol fiyatlarının hızla düşeceğini savunarak, İran'ın \"gelecekte de nükleer silaha sahip olmayacağından\" emin olmak istediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpa-gore-iran-ile-savas-cok-yakinda-sona-erecek/4095171",
+   "zaman": "2026-10-21T00:27:40+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "erece",
+    "gore",
+    "iran",
+    "savas",
+    "sona",
+    "trump",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0a285f2d7cfa"
   }
  },
  "kayit": [
+  "21.10 01:03:21  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · UEFA Şampiyonlar Ligi'nin üçüncü haftası 9 maçla başladı",
+  "21.10 01:01:13  4 yeni haber",
   "21.10 00:46:07  4 yeni haber",
   "21.10 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Arkadaşının öldüğü trafik kazasından sağ kurtulmuştu! 10 gün sonra fec",
   "21.10 00:31:12  1 yeni haber",
@@ -25324,9 +25482,7 @@
   "18.10 23:01:18  2 yeni haber",
   "18.10 22:46:10  5 yeni haber",
   "18.10 22:31:11  2 yeni haber",
-  "18.10 22:16:03  3 yeni haber",
-  "18.10 21:46:02  3 yeni haber",
-  "18.10 21:31:24  1 yeni haber"
+  "18.10 22:16:03  3 yeni haber"
  ],
  "otomatik": false
 }
