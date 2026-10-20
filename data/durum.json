@@ -2105,44 +2105,6 @@
     "AA"
    ]
   },
-  "100498fa0932": {
-   "id": "100498fa0932",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da bazı yollar yarın trafiğe kapatılacak",
-   "ozet": "İstanbul'da düzenlenecek etkinlik kapsamında yarın bazı yolların trafiğe kapatılacağı duyuruldu.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-yarin-trafige-kapatilacak-960435.html",
-   "zaman": "2026-10-17T20:37:00+03:00",
-   "kelimeler": [
-    "bazi",
-    "istan",
-    "kapat",
-    "trafi",
-    "yarin",
-    "yolla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "98c8097b8837": {
-   "id": "98c8097b8837",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan: Irak Türkmen Cephesi'nden bir bakan çıkması önemliydi",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Irak Başbakanı Ali ezZeydi ile bir araya geldiğini belirterek, \"Başbakan Zeydi'nin Türkiye ile ilişkileri ileri taşımada çok ciddi bir vizyonu var\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-irak-turkmen-cephesinden-bir-bakan-cikmasi-onemliydi-960436.html",
-   "zaman": "2026-10-17T20:40:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "cephe",
-    "cikma",
-    "fidan",
-    "irak",
-    "nden",
-    "oneml",
-    "turkm"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2a5e9959ce15": {
    "id": "2a5e9959ce15",
    "kaynak": "TRT Haber",
@@ -23234,7 +23196,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "c1a5b417a17d": {
@@ -23422,7 +23385,8 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c85955fd6d7d": {
    "id": "c85955fd6d7d",
@@ -24052,9 +24016,99 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "424c913e8ad6": {
+   "id": "424c913e8ad6",
+   "kaynak": "Hürriyet",
+   "baslik": "DMM’den ‘Avrupa çöpünü Türkiye’ye döküyor' iddialarına yalanlama",
+   "ozet": "Dezenformasyonla Mücadele Merkezi (DMM) tarafından, bazı basın yayın organlarında ve sosyal medya hesaplarında yer alan \"Avrupa çöpünü Türkiye’ye döküyor\" yönündeki paylaşımlara ilişkin, \"Gerçekleri çarpıtan ağır bir manipülasyon içermektedir\" denildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dmmden-avrupa-copunu-turkiyeye-dokuyor-iddialarina-yalanlama-43348979",
+   "zaman": "2026-10-20T20:25:44+03:00",
+   "kelimeler": [
+    "avrup",
+    "copun",
+    "den",
+    "dmm",
+    "dokuy",
+    "iddia",
+    "turki",
+    "yalan",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "93ebd004a901": {
+   "id": "93ebd004a901",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanlığı'ndan Libya'nın deniz yetki alanları kararına ilişkin açıklama: Memnuniyetle karşılıyoruz",
+   "ozet": "DIŞİŞLERİ Bakanlığı, Libya Temsilciler Meclisi'nin Türkiye ile Libya arasındaki Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası konusunda aldığı kararı memnuniyetle karşıladıklarını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-libyanin-deniz-yetki-alanlari-kararina-iliskin-aciklama-memnuniyetle-karsiliyoruz-43348983",
+   "zaman": "2026-10-20T20:28:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "alanl",
+    "bakan",
+    "deniz",
+    "disis",
+    "ilisk",
+    "karar",
+    "karsi",
+    "libya",
+    "memnu",
+    "ndan",
+    "nin",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "307479ec4786"
+  },
+  "c9f95479a23b": {
+   "id": "c9f95479a23b",
+   "kaynak": "TRT Haber",
+   "baslik": "Tanju Özcan'a 7 yıl 3 ay 15 gün hapis cezası",
+   "ozet": "Bolu Belediyesine yönelik \"irtikap\" davasında sanık Tanju Özcan hakkında \"zincirleme şekilde icbar suretiyle irtikap\" suçundan 7 yıl 3 ay 15 gün hapis cezası verildi ve 4 yıl boyunca \"siyasi yasak\" getirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/tanju-ozcana-7-yil-3-ay-15-gun-hapis-cezasi-960677.html",
+   "zaman": "2026-10-20T20:30:00+03:00",
+   "kelimeler": [
+    "15",
+    "ay",
+    "cezas",
+    "gun",
+    "hapis",
+    "ozcan",
+    "tanju",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bc1baa9ba783"
+  },
+  "046fb9f7f335": {
+   "id": "046fb9f7f335",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan, Brüksel'de Avrupa Politika Merkezinde hitapta bulundu",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel’de yerleşik Avrupa Politika Merkezi (European Policy Center) isimli düşünce kuruluşunda bir hitapta bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-brukselde-avrupa-politika-merkezinde-hitapta-bulundu/4094979",
+   "zaman": "2026-10-20T20:32:57+03:00",
+   "kelimeler": [
+    "avrup",
+    "bakan",
+    "bruks",
+    "bulun",
+    "disis",
+    "fidan",
+    "hitap",
+    "merke",
+    "polit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 20:46:02  2 yeni haber",
   "20.10 20:31:18  3 yeni haber",
   "20.10 20:23:36  2 yeni haber",
   "20.10 20:16:13  1 yeni haber",
@@ -24253,8 +24307,7 @@
   "18.10 16:39:28  1 yeni haber",
   "18.10 16:31:12  1 yeni haber",
   "18.10 16:15:55  1 yeni haber",
-  "18.10 15:46:07  4 yeni haber",
-  "18.10 15:16:01  2 yeni haber"
+  "18.10 15:46:07  4 yeni haber"
  ],
  "otomatik": false
 }
