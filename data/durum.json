@@ -1,33 +1,5 @@
 {
  "haberler": {
-  "13c18542888f": {
-   "id": "13c18542888f",
-   "kaynak": "Sözcü",
-   "baslik": "İBB davasında İmamoğlu'nun çapraz sorgusuna geçildi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/ibb-davasinda-imamoglu-nun-capraz-sorgusuna-gecildi-p370118",
-   "zaman": "2026-10-17T16:46:57+03:00",
-   "kelimeler": [
-    "capra",
-    "davas",
-    "gecil",
-    "ibb",
-    "imamo",
-    "nun",
-    "sorgu"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T16:57:27.848675+03:00",
-   "ig_id": "18151668118535551",
-   "reels_id": "18115183106025653",
-   "story_id": "18641040319027220",
-   "slayt": 6,
-   "kanca": "Son dakika",
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "125fda1a28a4": {
    "id": "125fda1a28a4",
    "kaynak": "Hürriyet",
@@ -22474,7 +22446,8 @@
     "yalci"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4ba5bfa75e39": {
    "id": "4ba5bfa75e39",
@@ -22536,9 +22509,208 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b356708d2608": {
+   "id": "b356708d2608",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Sözcüsü Ömer Çelik: Fon şeytanlarının üzerine gidiyoruz",
+   "ozet": "AK Parti MKYK sona erdi. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, toplantı sonrasında açıklamalarda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celik-fon-seytanlarinin-uzerine-gidiyoruz-43348634",
+   "zaman": "2026-10-20T16:04:00+03:00",
+   "kelimeler": [
+    "ak",
+    "celik",
+    "fon",
+    "gidiy",
+    "omer",
+    "parti",
+    "seyta",
+    "sozcu",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4672fd2784fc": {
+   "id": "4672fd2784fc",
+   "kaynak": "AA",
+   "baslik": "Sapanca Gölü'nde suyun çekildiği alanlar son yağışlarla kısmen doldu",
+   "ozet": "Sakarya'da yaz mevsiminde su seviyesi düşen Sapanca Gölü'nde daha önce suların çekildiği alanların yağışların ardından kısmen dolduğu görüldü.",
+   "link": "https://www.aa.com.tr/tr/gundem/sapanca-golunde-suyun-cekildigi-alanlar-son-yagislarla-kismen-doldu/4094731",
+   "zaman": "2026-10-20T16:34:51+03:00",
+   "kelimeler": [
+    "alanl",
+    "cekil",
+    "doldu",
+    "golu",
+    "kisme",
+    "nde",
+    "sapan",
+    "suyun",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "be3f2dee0aad": {
+   "id": "be3f2dee0aad",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi",
+   "ozet": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html",
+   "zaman": "2026-10-20T16:37:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "guney",
+    "hava",
+    "in",
+    "isgal",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41ec36d29bb5"
+  },
+  "5567676ac191": {
+   "id": "5567676ac191",
+   "kaynak": "AA",
+   "baslik": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın oldu",
+   "ozet": "A Milli Futbol Takımı'nın teknik direktörlüğüne Sergen Yalçın getirildi. Sergen Yalçın, ay-yıldızlıların tarihindeki 48. teknik direktörü oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-yeni-teknik-direktoru-sergen-yalcin-oldu/4094740",
+   "zaman": "2026-10-20T16:41:12+03:00",
+   "kelimeler": [
+    "direk",
+    "futbo",
+    "milli",
+    "nin",
+    "serge",
+    "takim",
+    "tekni",
+    "yalci",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0deb67c5d8ae"
+  },
+  "0320ec501d7a": {
+   "id": "0320ec501d7a",
+   "kaynak": "Hürriyet",
+   "baslik": "Kemer Belediye Başkanı Necati Topaloğlu ve 8 meclis üyesi CHP'den istifa etti",
+   "ozet": "Antalya'da Kemer Belediye Başkanı Necati Topaloğlu, beraberindeki 8 belediye meclis üyesiyle birlikte Cumhuriyet Halk Partisi'nden istifa ettiklerini ve yollarına bağımsız olarak devam edeceklerini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kemer-belediye-baskani-necati-topaloglu-ve-8-meclis-uyesi-chpden-istifa-etti-43348765",
+   "zaman": "2026-10-20T16:42:24+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "chp",
+    "den",
+    "etti",
+    "istif",
+    "kemer",
+    "mecli",
+    "necat",
+    "topal",
+    "uyesi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9e3770dfc746": {
+   "id": "9e3770dfc746",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeni MHK Başkanı Anthony Taylor oldu",
+   "ozet": "TFF, MHK Başkanlığı'na halen Elit Hakem Direktörü olarak görev yapan Anthony Taylor'un getirildiğini açıkladı. Süper Lig ve 1. Lig yayın ihalesi tarihi 30 Kasım olarak değiştirildi.",
+   "link": "https://www.trthaber.com/haber/spor/yeni-mhk-baskani-anthony-taylor-oldu-960658.html",
+   "zaman": "2026-10-20T16:44:00+03:00",
+   "kelimeler": [
+    "antho",
+    "baska",
+    "mhk",
+    "taylo",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "35ef763a193d": {
+   "id": "35ef763a193d",
+   "kaynak": "AA",
+   "baslik": "Türkiye Futbol Federasyonu Merkez Hakem Kurulunun başkanlığına Anthony Taylor getirildi",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-futbol-federasyonu-merkez-hakem-kurulunun-baskanligina-anthony-taylor-getirildi/4094747",
+   "zaman": "2026-10-20T16:44:38+03:00",
+   "kelimeler": [
+    "antho",
+    "baska",
+    "feder",
+    "futbo",
+    "getir",
+    "hakem",
+    "kurul",
+    "merke",
+    "taylo",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9e3770dfc746"
+  },
+  "01ae01fefc5c": {
+   "id": "01ae01fefc5c",
+   "kaynak": "AA",
+   "baslik": "Apple, yeni iPhone serisi için ABD'li üreticilerle işbirliğini genişletiyor",
+   "ozet": "ABD'li teknoloji şirketi Apple, iPhone Duo ve iPhone 18 Pro'nun kritik bileşenlerinin ABD'de üretilmesi için Amerikan şirketleriyle yeni işbirliklerini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-yeni-iphone-serisi-icin-abdli-ureticilerle-isbirligini-genisletiyor/4094752",
+   "zaman": "2026-10-20T16:47:17+03:00",
+   "kelimeler": [
+    "abd",
+    "apple",
+    "genis",
+    "iphon",
+    "isbir",
+    "li",
+    "seris",
+    "ureti",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3e41df23f178": {
+   "id": "3e41df23f178",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan: Enerji güvenliği ve tedarik zincirleri, uluslararası işbirliği gerektiren ortak bir sorumluluk",
+   "ozet": "Suudi Arabistan Bakanlar Kurulu, küresel enerji güvenliği, uluslararası ticaret, tedarik zincirlerinin sürdürülebilirliği ve deniz ulaşımının uluslararası işbirliği gerektiren ortak bir sorumluluk olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-enerji-guvenligi-ve-tedarik-zincirleri-uluslararasi-isbirligi-gerektiren-ortak-bir-sorumluluk/4094761",
+   "zaman": "2026-10-20T16:53:10+03:00",
+   "kelimeler": [
+    "arabi",
+    "enerj",
+    "gerek",
+    "guven",
+    "isbir",
+    "ortak",
+    "sorum",
+    "suudi",
+    "tedar",
+    "ulusl",
+    "zinci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 17:01:35  6 yeni haber",
   "20.10 16:46:14  5 yeni haber",
   "20.10 16:31:13  6 yeni haber",
   "20.10 16:16:13  6 yeni haber",
@@ -22737,8 +22909,7 @@
   "18.10 12:45:59  3 yeni haber",
   "18.10 12:34:09  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 12:34:09  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Sanatçı Süleyman Saim Tekcan 86 yaşında vefat etti",
-  "18.10 12:30:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "18.10 12:03:23  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 12:30:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
  ],
  "otomatik": false
 }
