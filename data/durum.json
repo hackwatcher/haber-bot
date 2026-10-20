@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "16c576c9a61b": {
-   "id": "16c576c9a61b",
-   "kaynak": "Hürriyet",
-   "baslik": "Pınar Güneş’in öldürülmesi olayında 4 tutuklama",
-   "ozet": "İzmir'in Çeşme ilçesinde, Pınar Güneş’in (28), tabancayla vurularak öldürülmesi olayına ilişkin yürütülen soruşturmada gözaltına alınan 5 şüpheliden 4’ü tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/pinar-gunesin-oldurulmesi-olayinda-4-tutuklama-43345683",
-   "zaman": "2026-10-17T22:19:20+03:00",
-   "kelimeler": [
-    "gunes",
-    "in",
-    "olayi",
-    "oldur",
-    "pinar",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0c23cc441ded": {
    "id": "0c23cc441ded",
    "kaynak": "Hürriyet",
@@ -10038,7 +10020,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "ce43fb4209dd": {
@@ -24444,9 +24427,165 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c29bc26164ac": {
+   "id": "c29bc26164ac",
+   "kaynak": "AA",
+   "baslik": "Ankara'da belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu 24 kişi yaralandı",
+   "ozet": "Ankara'nın Etimesgut ilçesinde belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-belediye-otobusunun-yaya-ust-gecidinin-ayagina-carpmasi-sonucu-24-kisi-yaralandi/4095054",
+   "zaman": "2026-10-20T22:04:25+03:00",
+   "kelimeler": [
+    "24",
+    "ankar",
+    "ayagi",
+    "beled",
+    "carpm",
+    "gecid",
+    "kisi",
+    "otobu",
+    "sonuc",
+    "ust",
+    "yaral",
+    "yaya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "2e97cf4f13ca": {
+   "id": "2e97cf4f13ca",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da belediye otobüsü üst geçide çarptı: 24 yaralı",
+   "ozet": "Ankara'nın Etimesgut ilçesinde belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-belediye-otobusu-ust-gecide-carpti-24-yarali-43349052",
+   "zaman": "2026-10-20T22:10:06+03:00",
+   "kelimeler": [
+    "24",
+    "ankar",
+    "beled",
+    "carpt",
+    "gecid",
+    "otobu",
+    "ust",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c29bc26164ac"
+  },
+  "744b2b1cf22a": {
+   "id": "744b2b1cf22a",
+   "kaynak": "TRT Haber",
+   "baslik": "Brezilya'da, Meta'ya devlet başkanı adaylarına eşit muameleyi belgelemesi için 24 saat süre",
+   "ozet": "Brezilya Yüksek Seçim Mahkemesi TSE, Meta şirketinden, devlet başkanı seçiminin ikinci turunda yarışan adayların kampanyalarına eşit muamele edildiğini gösteren bilgi ve belgeleri 24 saat içinde sunmasını istedi.",
+   "link": "https://www.trthaber.com/haber/dunya/brezilyada-metaya-devlet-baskani-adaylarina-esit-muameleyi-belgelemesi-icin-24-saat-sure-960683.html",
+   "zaman": "2026-10-20T22:13:00+03:00",
+   "kelimeler": [
+    "24",
+    "adayl",
+    "baska",
+    "belge",
+    "brezi",
+    "devle",
+    "esit",
+    "meta",
+    "muame",
+    "saat",
+    "sure",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c1506c3d0aa2": {
+   "id": "c1506c3d0aa2",
+   "kaynak": "AA",
+   "baslik": "BM'den askeri yapay zekanın düzenlenmesi için bağlayıcı anlaşma yapılması çağrısı",
+   "ozet": "Birleşmiş Milletler Silahsızlanma Araştırmaları Enstitüsü (UNIDIR) Direktörü Robin Geiss, askeri alanda yapay zeka kullanımının risklerine dikkati çekerek, ölümcül otonom silah sistemlerine ilişkin hukuken bağlayıcı bir anlaşma yapılmasını istedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bmden-askeri-yapay-zekanin-duzenlenmesi-icin-baglayici-anlasma-yapilmasi-cagrisi/4095063",
+   "zaman": "2026-10-20T22:14:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "asker",
+    "bagla",
+    "bm",
+    "cagri",
+    "den",
+    "duzen",
+    "yapay",
+    "yapil",
+    "zekan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e540f94366a": {
+   "id": "5e540f94366a",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan, Libyalı yetkililer Dibeybe ve Hafter ile görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ve Libya Ulusal Ordusu Genel Komutan Yardımcısı Saddam Hafter ile telefonda görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-fidan-libyali-yetkililer-dibeybe-ve-hafter-ile-gorustu-43349057",
+   "zaman": "2026-10-20T22:22:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "dibey",
+    "disis",
+    "fidan",
+    "gorus",
+    "hafte",
+    "hakan",
+    "libya",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d7ff842637ce"
+  },
+  "e8c737b9b383": {
+   "id": "e8c737b9b383",
+   "kaynak": "NTV",
+   "baslik": "Bakan Fidan'dan Libya diplomasisi",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Libya Başbakanı Abdülhamid Dibeybe ve Libya Ulusal Ordusu Genel Komutan Yardımcısı Saddam Hafter ile telefon görüşmeleri gerçekleştirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-libya-diplomasisi-1747215",
+   "zaman": "2026-10-20T22:24:24+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "diplo",
+    "fidan",
+    "libya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f41bff1f16a6": {
+   "id": "f41bff1f16a6",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan, Libyalı yetkililer Dibeybe ve Hafter ile telefonda görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ve Libya Ulusal Ordusu Genel Komutan Yardımcısı Saddam Hafter ile telefonda görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-libyali-yetkililer-dibeybe-ve-hafter-ile-telefonda-gorustu/4095072",
+   "zaman": "2026-10-20T22:28:41+03:00",
+   "kelimeler": [
+    "bakan",
+    "dibey",
+    "disis",
+    "fidan",
+    "gorus",
+    "hafte",
+    "libya",
+    "telef",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d7ff842637ce"
   }
  },
  "kayit": [
+  "20.10 22:31:18  4 yeni haber",
   "20.10 22:16:01  3 yeni haber",
   "20.10 22:01:23  3 yeni haber",
   "20.10 21:46:06  5 yeni haber",
@@ -24645,8 +24784,7 @@
   "18.10 19:01:16  1 yeni haber",
   "18.10 18:59:04  65 yeni haber",
   "18.10 18:46:12  2 yeni haber",
-  "18.10 17:31:14  1 yeni haber",
-  "18.10 17:15:55  2 yeni haber"
+  "18.10 17:31:14  1 yeni haber"
  ],
  "otomatik": false
 }
