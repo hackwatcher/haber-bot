@@ -2261,47 +2261,6 @@
     "AA"
    ]
   },
-  "caf1dae9dec7": {
-   "id": "caf1dae9dec7",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul Valisi Gül: Ayazağa Meydanı'ndaki yıkımlar yarın tamamlanacak",
-   "ozet": "İstanbul Valisi Davut Gül, Ayazağa Meydanı'ndaki 16 dükkan, spor sahası, tribünler, Kur'an kursu ve yanındaki lojmanların bu gece ve yarın gündüz olmak üzere tamamının yıkımının tamamlanacağını açıkladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gul-ayazaga-meydanindaki-yikimlar-yarin-tamamlanacak-960431.html",
-   "zaman": "2026-10-17T19:24:00+03:00",
-   "kelimeler": [
-    "ayaza",
-    "gul",
-    "istan",
-    "meyda",
-    "ndaki",
-    "tamam",
-    "valis",
-    "yarin",
-    "yikim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "511015281f42": {
-   "id": "511015281f42",
-   "kaynak": "TRT Haber",
-   "baslik": "'İmamoğlu çıkar amaçlı suç örgütü' davasında ara karar",
-   "ozet": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 436 sanığın yargılandığı davanın 101. duruşmasında 7 sanığın tahliyesine karar verildi. Duruşma, 2 Kasım Pazartesi gününe ertelendi.",
-   "link": "https://www.trthaber.com/haber/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-ara-karar-960432.html",
-   "zaman": "2026-10-17T19:31:00+03:00",
-   "kelimeler": [
-    "amacl",
-    "ara",
-    "cikar",
-    "davas",
-    "imamo",
-    "karar",
-    "orgut",
-    "suc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "10b1c0efcdfe": {
    "id": "10b1c0efcdfe",
    "kaynak": "TRT Haber",
@@ -15869,7 +15828,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "1957b724d995": {
@@ -16722,7 +16682,10 @@
     "saldi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "64edfa6b7499": {
    "id": "64edfa6b7499",
@@ -23560,9 +23523,290 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7c28d27e0163": {
+   "id": "7c28d27e0163",
+   "kaynak": "Hürriyet",
+   "baslik": "DMM’den ‘Azerbaycan’da Türk bayrağı indirilmeye çalışıldı’ iddialarına yalanlama",
+   "ozet": "İLETİŞİM Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Azerbaycan’da Türk bayrağının indirilmeye çalışıldığı yönündeki iddialar dezenformasyon içermektedir\" açıklamasını yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/dmmden-azerbaycanda-turk-bayragi-indirilmeye-calisildi-iddialarina-yalanlama-43348929",
+   "zaman": "2026-10-20T19:05:55+03:00",
+   "kelimeler": [
+    "azerb",
+    "bayra",
+    "calis",
+    "den",
+    "dmm",
+    "iddia",
+    "indir",
+    "turk",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "84785748de65": {
+   "id": "84785748de65",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'de, soykırımcı İsrail saldırılarında 7 Filistinli hayatını kaybetti",
+   "ozet": "Soykırımcı İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırıları sonucu aralarında kadın ve çocukların da bulunduğu 7 Filistinli yaşamını yitirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-soykirimci-israil-saldirilarinda-7-filistinli-hayatini-kaybetti-960667.html",
+   "zaman": "2026-10-20T19:06:00+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "israi",
+    "kaybe",
+    "saldi",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "580e8e5431c9"
+  },
+  "307479ec4786": {
+   "id": "307479ec4786",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran’dan Libya’nın deniz yetki alanları kararına ilişkin açıklama",
+   "ozet": "İletişim Başkanı Burhanettin Duran, Libya Temsilciler Meclisi'nin Türkiye ile imzalanan deniz yetki alanları mutabakat muhtırasını oy birliğiyle onaylamasının, Türkiye-Libya ilişkileri ve Doğu Akdeniz'deki gelişmeler açısından önemli ve memnuniyet verici bir adım olduğunu…",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-libyanin-deniz-yetki-alanlari-kararina-iliskin-aciklama-43348931",
+   "zaman": "2026-10-20T19:06:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "alanl",
+    "baska",
+    "dan",
+    "deniz",
+    "duran",
+    "ileti",
+    "ilisk",
+    "karar",
+    "libya",
+    "nin",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c85955fd6d7d": {
+   "id": "c85955fd6d7d",
+   "kaynak": "TRT Haber",
+   "baslik": "Ultra işlenmiş gıdalar beyin damarlarına sessizce zarar veriyor",
+   "ozet": "Uzmanlar, yoğun şekilde işlenmiş gıdaların tüketimi ile orta yaşlı bireylerin beyin damarlarında görülen hasarlar arasında bir bağlantı tespit etti.",
+   "link": "https://www.trthaber.com/haber/dunya/ultra-islenmis-gidalar-beyin-damarlarina-sessizce-zarar-veriyor-960669.html",
+   "zaman": "2026-10-20T19:08:00+03:00",
+   "kelimeler": [
+    "beyin",
+    "damar",
+    "gidal",
+    "islen",
+    "sessi",
+    "ultra",
+    "veriy",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f9edf83df3c": {
+   "id": "2f9edf83df3c",
+   "kaynak": "AA",
+   "baslik": "MİT Başkanı Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Dibeybe ile görüştü",
+   "ozet": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-libya-ulusal-birlik-hukumeti-basbakani-dibeybe-ile-gorustu/4094909",
+   "zaman": "2026-10-20T19:08:20+03:00",
+   "kelimeler": [
+    "basba",
+    "baska",
+    "birli",
+    "dibey",
+    "gorus",
+    "hukum",
+    "kalin",
+    "libya",
+    "mit",
+    "ulusa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "672b175100a3": {
+   "id": "672b175100a3",
+   "kaynak": "TRT Haber",
+   "baslik": "DMM'den Azerbaycan'da Türk bayrağı indirilmeye çalışıldı iddialarına yalanlama",
+   "ozet": "Dezenformasyonla Mücadele Merkezi DMM, Azerbaycan'da Türk bayrağının indirilmeye çalışıldığı yönündeki iddiaların dezenformasyon içerdiğini, görüntülerin eski tarihli olduğunu ve bayrağın indirilmesi gibi bir durumun yaşanmadığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/dmmden-azerbaycanda-turk-bayragi-indirilmeye-calisildi-iddialarina-yalanlama-960668.html",
+   "zaman": "2026-10-20T19:11:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "bayra",
+    "calis",
+    "den",
+    "dmm",
+    "iddia",
+    "indir",
+    "turk",
+    "yalan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7c28d27e0163"
+  },
+  "2f05f70cd85a": {
+   "id": "2f05f70cd85a",
+   "kaynak": "AA",
+   "baslik": "12 Dev Adam Basketbol Okulları 1. etap basketbolcu taramaları başlıyor",
+   "ozet": "12 Dev Adam Basketbol Okulları (12 DABO), 2026-2027 dönemi basketbolcu taramalarına Bitlis, Muş, Siirt, Van, Hakkari ve Şırnak illerinde 1. etapla başlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/12-dev-adam-basketbol-okullari-1-etap-basketbolcu-taramalari-basliyor/4094914",
+   "zaman": "2026-10-20T19:11:48+03:00",
+   "kelimeler": [
+    "12",
+    "adam",
+    "baske",
+    "basli",
+    "dev",
+    "etap",
+    "okull",
+    "taram"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "719dbfc394e5": {
+   "id": "719dbfc394e5",
+   "kaynak": "AA",
+   "baslik": "NATO, Karadeniz'de gemilerin korunması için bölgeye ek unsurlar sevk edecek",
+   "ozet": "NATO, Karadeniz'de gemilere yönelik saldırıların ardından bölgeye gözetleme, keşif ve adli inceleme destekleri dahil ek unsurlar gönderileceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-karadenizde-gemilerin-korunmasi-icin-bolgeye-ek-unsurlar-sevk-edecek/4094916",
+   "zaman": "2026-10-20T19:12:50+03:00",
+   "kelimeler": [
+    "bolge",
+    "edece",
+    "ek",
+    "gemil",
+    "karad",
+    "korun",
+    "nato",
+    "sevk",
+    "unsur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d613ba3bfb1c": {
+   "id": "d613ba3bfb1c",
+   "kaynak": "TRT Haber",
+   "baslik": "MİT Başkanı Kalın'dan Libya'nın toprak bütünlüğüne destek mesajı",
+   "ozet": "MİT Başkanı İbrahim Kalın ve Libya Başbakanı Abdulhamid Dibeybe, Libya'da kalıcı barışın sağlanması, siyasi ve askeri uzlaşı sürecinin ilerletilmesi ve TürkiyeLibya iş birliğinin güçlendirilmesi konularını görüştü.",
+   "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-libyanin-toprak-butunlugune-destek-mesaji-960670.html",
+   "zaman": "2026-10-20T19:17:00+03:00",
+   "kelimeler": [
+    "baska",
+    "butun",
+    "dan",
+    "deste",
+    "kalin",
+    "libya",
+    "mesaj",
+    "mit",
+    "nin",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "911c40da052c": {
+   "id": "911c40da052c",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran'dan Türkiye-Libya deniz yetki alanları mutabakatının onaylanmasına ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Duran, Libya Temsilciler Meclisinin, Türkiye ile imzalanan deniz yetki alanları mutabakat muhtırasını oy birliğiyle onaylamasının, önemli ve memnuniyet verici bir adım olduğunu kaydetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasina-iliskin-paylasim/4094919",
+   "zaman": "2026-10-20T19:18:22+03:00",
+   "kelimeler": [
+    "alanl",
+    "baska",
+    "dan",
+    "deniz",
+    "duran",
+    "ileti",
+    "ilisk",
+    "libya",
+    "mutab",
+    "onayl",
+    "payla",
+    "turki",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41f0fcf6dac4"
+  },
+  "3df9556aec36": {
+   "id": "3df9556aec36",
+   "kaynak": "Hürriyet",
+   "baslik": "MİT Başkanı Kalın, Libya Başbakanı Dibeybe ile görüştü",
+   "ozet": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mit-baskani-kalin-libya-basbakani-dibeybe-ile-gorustu-43348938",
+   "zaman": "2026-10-20T19:20:48+03:00",
+   "kelimeler": [
+    "basba",
+    "baska",
+    "dibey",
+    "gorus",
+    "kalin",
+    "libya",
+    "mit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2f9edf83df3c"
+  },
+  "91709d9fdfda": {
+   "id": "91709d9fdfda",
+   "kaynak": "Hürriyet",
+   "baslik": "Etiler'de restoran alev alev yandı",
+   "ozet": "Etiler'de bir restoranda iddiaya göre gaz kaçağı nedeniyle yangın çıktı. Kısa sürede büyüyen alevler itfaiye ekipleri tarafından söndürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/etilerde-restoran-alev-alev-yandi-43348942",
+   "zaman": "2026-10-20T19:23:49+03:00",
+   "kelimeler": [
+    "alev",
+    "etile",
+    "resto",
+    "yandi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a2aa741fbd8b": {
+   "id": "a2aa741fbd8b",
+   "kaynak": "Hürriyet",
+   "baslik": "DEAŞ terör örgütüne finansman operasyonu: 14 gözaltı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı tarafından DEAŞ silahlı terör örgütüne yönelik finansman sağlama operasyonunda 14 şahıs gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/deas-teror-orgutune-finansman-operasyonu-14-gozalti-43348946",
+   "zaman": "2026-10-20T19:26:00+03:00",
+   "kelimeler": [
+    "14",
+    "deas",
+    "finan",
+    "gozal",
+    "opera",
+    "orgut",
+    "teror"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "403c7d58e5f8"
   }
  },
  "kayit": [
+  "20.10 19:31:07  8 yeni haber",
   "20.10 19:15:58  2 yeni haber",
   "20.10 19:01:25  6 yeni haber",
   "20.10 18:46:11  5 yeni haber",
@@ -23761,8 +24005,7 @@
   "18.10 14:34:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · İstanbul’daki sel felaketinde can kaybı 5’e yükseldi",
   "18.10 14:31:19  1 yeni haber",
   "18.10 14:01:16  2 yeni haber",
-  "18.10 13:45:53  1 yeni haber",
-  "18.10 13:34:03  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 13:45:53  1 yeni haber"
  ],
  "otomatik": false
 }
