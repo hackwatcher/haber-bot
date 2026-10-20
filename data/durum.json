@@ -1,98 +1,5 @@
 {
  "haberler": {
-  "013fb9e9c775": {
-   "id": "013fb9e9c775",
-   "kaynak": "Hürriyet",
-   "baslik": "Tehlike geçmedi: Sağanak yağış geri geliyor! Sel felaketinin ardından uyarılar peş peşe geldi | Meteoroloji saat verdi: İstanbul dahil 45 ilde alarm",
-   "ozet": "İstanbul başta olmak üzere birçok kentte yaşanan sel felaketinin ardından Meteoroloji Genel Müdürlüğü’nden sarı ve turuncu kodlu yeni bir uyarı geldi. Yurt genelinde 45 ili etkisi altına alması beklenen şiddetli sağanak ve kuvvetli fırtına nedeniyle yetkililer teyakkuza geçti.",
-   "link": "https://www.hurriyet.com.tr/gundem/tehlike-gecmedi-saganak-yagis-geri-geliyor-sel-felaketinin-ardindan-uyarilar-pes-pese-geldi-meteoroloji-saat-verdi-istanbul-dahil-45-43344817",
-   "zaman": "2026-10-17T07:31:21+03:00",
-   "kelimeler": [
-    "45",
-    "alarm",
-    "ardin",
-    "dahil",
-    "felak",
-    "gecme",
-    "geldi",
-    "geliy",
-    "geri",
-    "ilde",
-    "istan",
-    "meteo",
-    "pes",
-    "pese",
-    "saat",
-    "sagan",
-    "sel",
-    "tehli",
-    "uyari",
-    "verdi",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "1aed6680e6a5": {
-   "id": "1aed6680e6a5",
-   "kaynak": "Sözcü",
-   "baslik": "Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/yandas-gazeteci-iddia-etti-ahmet-aras-akp-ye-katilacak-p369959",
-   "zaman": "2026-10-17T07:39:57+03:00",
-   "kelimeler": [
-    "ahmet",
-    "akp",
-    "aras",
-    "etti",
-    "gazet",
-    "iddia",
-    "katil",
-    "yanda",
-    "ye"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T07:46:54.742607+03:00",
-   "ig_id": "18108023807111254",
-   "reels_id": "17972553597173228",
-   "story_id": "18118538470972891",
-   "slayt": 1,
-   "kanca": "Yandaş gazeteci iddia etti"
-  },
-  "2232d0a26136": {
-   "id": "2232d0a26136",
-   "kaynak": "Hürriyet",
-   "baslik": "Sel felaketinin ardından görünmeyen tehlike! Uzman isim şebeke sularına karşı uyardı... Hastalık riski mi taşıyor?",
-   "ozet": "Megakenti etkisi altına alan şiddetli yağışların ardından sel sularının getirdiği bakteri, virüs ve kimyasal tehlikelere karşı uzman uyarısı geldi. Musluk suyunu kaynatmak mikropları ve ağır metalleri öldürmeye yeter mi?",
-   "link": "https://www.hurriyet.com.tr/gundem/sel-felaketinin-ardindan-gorunmeyen-tehlike-uzman-isim-sebeke-sularina-karsi-uyardi-hastalik-riski-mi-tasiyor-43344059",
-   "zaman": "2026-10-17T07:43:23+03:00",
-   "kelimeler": [
-    "ardin",
-    "felak",
-    "gorun",
-    "hasta",
-    "isim",
-    "karsi",
-    "riski",
-    "sebek",
-    "sel",
-    "sular",
-    "tasiy",
-    "tehli",
-    "uyard",
-    "uzman"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T08:17:20.192313+03:00",
-   "ig_id": "18023562317712788",
-   "reels_id": "18246347707313562",
-   "story_id": "17985873648089113",
-   "slayt": 5,
-   "kanca": "Dikkat"
-  },
   "5553915f0c4d": {
    "id": "5553915f0c4d",
    "kaynak": "Hürriyet",
@@ -15337,7 +15244,10 @@
     "yasag"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "b3eaf1ca4f61": {
    "id": "b3eaf1ca4f61",
@@ -16836,9 +16746,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b24a9fd4b0d3": {
+   "id": "b24a9fd4b0d3",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de sürücülere geyik uyarısı: Çarpışmalar ölümcül olabilir",
+   "ozet": "ABD'de ekim, kasım ve aralık aylarında geyiklerle araçların çarpışma riski artıyor. Sigorta verilerine göre sürücülerin bir hayvanla çarpışma olasılığı 145'te 1.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-suruculere-geyik-uyarisi-carpismalar-olumcul-olabilir-960583.html",
+   "zaman": "2026-10-20T07:15:00+03:00",
+   "kelimeler": [
+    "abd",
+    "carpi",
+    "geyik",
+    "olabi",
+    "olumc",
+    "suruc",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ee6e3870208f": {
+   "id": "ee6e3870208f",
+   "kaynak": "Hürriyet",
+   "baslik": "Park halindeki araçlara çarpan otomobil alev aldı: 2 kişi yaralandı",
+   "ozet": "Kayseri'nin Melikgazi ilçesinde kontrolden çıkan otomobil park halindeki 3 araca çarparak alev aldı. Kazada 2 kişi yaralandı, itfaiye ekipleri yanan aracı kısa süreli çalışmayla söndürdü. Otomobilin çarptığı park halindeki hafif ticari araç, bir dükkanın içine girdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/park-halindeki-araclara-carpan-otomobil-alev-aldi-2-kisi-yaralandi-43347935",
+   "zaman": "2026-10-20T07:39:01+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "aracl",
+    "carpa",
+    "halin",
+    "kisi",
+    "otomo",
+    "park",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ce804dbd2011": {
+   "id": "ce804dbd2011",
+   "kaynak": "Sözcü",
+   "baslik": "Fransa’da protestolar büyüyor! Sokağa çıkma yasağı Paris’e uzandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/fransa-da-protestolar-buyuyor-sokaga-cikma-yasagi-paris-e-uzandi-p370802",
+   "zaman": "2026-10-20T07:41:30+03:00",
+   "kelimeler": [
+    "buyuy",
+    "cikma",
+    "frans",
+    "paris",
+    "prote",
+    "sokag",
+    "uzand",
+    "yasag"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9aee3ec15253"
   }
  },
  "kayit": [
+  "20.10 07:46:04  2 yeni haber",
   "20.10 07:31:15  3 yeni haber",
   "20.10 07:16:03  17 yeni haber",
   "20.10 07:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · MS | Trabzonspor 2-0 Beşiktaş",
@@ -17037,8 +17009,7 @@
   "18.10 02:01:18  2 yeni haber",
   "18.10 01:48:01  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 01:48:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): XHABER · İstanbul Çekmeköy'de sel felaketini aktaran NTV muhabiri Beyzanur Özer",
-  "18.10 01:18:52  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 01:18:52  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): XHABER · Trump: “Orta Doğu’dan birinin adından emin değilseniz, direkt Muhammed"
+  "18.10 01:18:52  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
