@@ -17019,7 +17019,10 @@
     "opera"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3ee5e7e02a53": {
    "id": "3ee5e7e02a53",
@@ -17040,9 +17043,115 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "061cbbd15032"
+  },
+  "2baedfe1d8ba": {
+   "id": "2baedfe1d8ba",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara merkezli DEAŞ operasyonu: 14 gözaltı",
+   "ozet": "Ankara merkezli farklı illerde eş zamanlı gerçekleştirilen operasyonlarda DEAŞ terör örgütü adına Terörizmin Finansmanı Faaliyetleri yürüttüğü bilgileri bulunan ve MASAK, HTS çalışması neticesinde şüpheli işlemler gerçekleştirdikleri tespit edilen 16 şüpheliden 14'ü yakalanarak…",
+   "link": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-deas-operasyonu-14-gozalti-960589.html",
+   "zaman": "2026-10-20T08:17:00+03:00",
+   "kelimeler": [
+    "14",
+    "ankar",
+    "deas",
+    "gozal",
+    "merke",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "14309b67571d"
+  },
+  "8d8cc85b18cd": {
+   "id": "8d8cc85b18cd",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul merkezli 3 ilde FETÖ'nün gizli yapılanmasına operasyon: 15 gözaltı",
+   "ozet": "İstanbul merkezli 3 ilde FETÖ'nün gizli yapılanmasına yönelik 15 adrese eş zamanlı gerçekleştirilen operasyonlarda 15 şüpheli yakalanarak gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-3-ilde-fetonun-gizli-yapilanmasina-operasyon-15-gozalti-960590.html",
+   "zaman": "2026-10-20T08:26:00+03:00",
+   "kelimeler": [
+    "15",
+    "feto",
+    "gizli",
+    "gozal",
+    "ilde",
+    "istan",
+    "merke",
+    "nun",
+    "opera",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1f6fb84176d": {
+   "id": "f1f6fb84176d",
+   "kaynak": "Hürriyet",
+   "baslik": "DEAŞ'ın finansmanına yönelik soruşturmalarda 21 şüpheli gözaltına alındı",
+   "ozet": "Ankara merkezli DEAŞ operasyonunda, Suriye'deki kamplarda tutulan örgüt üyeleri için toplanan bağışları aktardığı belirlenen 14 şüpheli gözaltına alındı. Öte yandan yine DEAŞ’ın finans ağına yönelik İstanbul ve Mersin’de düzenlenen operasyonda ise 7 şüpheli yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/deasin-finansmanina-yonelik-sorusturmada-14-supheli-gozaltina-alindi-43347951",
+   "zaman": "2026-10-20T08:26:00+03:00",
+   "kelimeler": [
+    "21",
+    "alind",
+    "deas",
+    "finan",
+    "gozal",
+    "in",
+    "sorus",
+    "suphe",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "9c331807e487": {
+   "id": "9c331807e487",
+   "kaynak": "TRT Haber",
+   "baslik": "Samanyolu'nda altın üreten kozmik çarpışmanın izleri keşfedilmiş olabilir",
+   "ozet": "Bilim insanları, Samanyolu'nda kaynağı uzun süredir açıklanamayan yüksek enerjili gama ışınlarının, iki nötron yıldızının birleşmesiyle oluşan bir kilonovanın kalıntılarından kaynaklanabileceğini düşünüyor.",
+   "link": "https://www.trthaber.com/haber/dunya/samanyolunda-altin-ureten-kozmik-carpismanin-izleri-kesfedilmis-olabilir-960591.html",
+   "zaman": "2026-10-20T08:27:00+03:00",
+   "kelimeler": [
+    "altin",
+    "carpi",
+    "izler",
+    "kesfe",
+    "kozmi",
+    "nda",
+    "olabi",
+    "saman",
+    "urete"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fda940f5ad65": {
+   "id": "fda940f5ad65",
+   "kaynak": "TRT Haber",
+   "baslik": "DEAŞ'ın finansal ağına operasyon: 7 gözaltı",
+   "ozet": "İstanbul Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğünce DEAŞ silahlı terör örgütünün finansal faaliyetlerinin deşifre edilmesine yönelik yürütülen çalışmalar kapsamında, İstanbul ve Mersin'de düzenlenen operasyonda 7 şüpheli yakalanarak gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/deasin-finansal-agina-operasyon-7-gozalti-960592.html",
+   "zaman": "2026-10-20T08:33:00+03:00",
+   "kelimeler": [
+    "agina",
+    "deas",
+    "finan",
+    "gozal",
+    "in",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1f6fb84176d"
   }
  },
  "kayit": [
+  "20.10 08:46:00  3 yeni haber",
   "20.10 08:31:06  4 yeni haber",
   "20.10 08:18:04  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Park halindeki araçlara çarpan otomobil alev aldı: 2 kişi yaralandı",
   "20.10 08:16:03  3 yeni haber",
@@ -17241,8 +17350,7 @@
   "18.10 07:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'nın Limoges kentinde protestocular, 1357'den bu yana belediye b",
   "18.10 07:01:14  1 yeni haber",
   "18.10 04:46:15  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "18.10 04:15:55  2 yeni haber",
-  "18.10 02:31:07  2 yeni haber"
+  "18.10 04:15:55  2 yeni haber"
  ],
  "otomatik": false
 }
