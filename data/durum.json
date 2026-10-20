@@ -17975,7 +17975,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "da040f9f0fcf": {
    "id": "da040f9f0fcf",
@@ -19342,7 +19345,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "098a98e89aa1": {
    "id": "098a98e89aa1",
@@ -21857,9 +21863,141 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9490fcd376f0": {
+   "id": "9490fcd376f0",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Şimşek: 131 fonun 66'sı tamamen tasfiye edildi",
+   "ozet": "Hazine ve Maliye Bakanı Şimşek, fon tasfiyelerinin şeffaflıkla yapıldığını, herhangi bir kamu kaynağının kullanılmayacağını söyledi. Bakan Şimşek, \"Toplamda 131 fon, 7 portföy yönetim şirketi bünyesindeki 131 fon tasfiyeye alındı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-131-fonun-66si-tamamen-tasfiye-edildi-960626.html",
+   "zaman": "2026-10-20T11:51:00+03:00",
+   "kelimeler": [
+    "131",
+    "66",
+    "bakan",
+    "edild",
+    "fonun",
+    "si",
+    "simse",
+    "tamam",
+    "tasfi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d4a142afed1"
+  },
+  "26e6180c5c92": {
+   "id": "26e6180c5c92",
+   "kaynak": "AA",
+   "baslik": "Türkiye, Katar, Pakistan ve Endonezya savunma sanayisinde güçlerini birleştirecek",
+   "ozet": "Türkiye, Katar, Pakistan ve Endonezya arasında savunma sanayisi alanında işbirliğini geliştirmeyi amaçlayan mutabakat zaptının yarın Katar'da imzalanması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-katar-pakistan-ve-endonezya-savunma-sanayisinde-guclerini-birlestirecek/4094632",
+   "zaman": "2026-10-20T15:14:30+03:00",
+   "kelimeler": [
+    "birle",
+    "endon",
+    "gucle",
+    "katar",
+    "pakis",
+    "sanay",
+    "savun",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "98e99f56f0e7": {
+   "id": "98e99f56f0e7",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'nın güneydoğusunda şiddetli yağışlar hayatı olumsuz etkiledi",
+   "ozet": "Fransa'nın güneydoğusundaki 7 vilayette etkili olan şiddetli yağışlar nedeniyle ev ve iş yerleri sular altında kaldı, ulaşım aksadı.",
+   "link": "https://www.trthaber.com/haber/dunya/fransanin-guneydogusunda-siddetli-yagislar-hayati-olumsuz-etkiledi-960648.html",
+   "zaman": "2026-10-20T15:27:00+03:00",
+   "kelimeler": [
+    "etkil",
+    "frans",
+    "guney",
+    "hayat",
+    "nin",
+    "olums",
+    "sidde",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0fea9c4f985e"
+  },
+  "d2e99da2a9a6": {
+   "id": "d2e99da2a9a6",
+   "kaynak": "TRT Haber",
+   "baslik": "Samp;P Global Ratings: Türkiye'de hanehalkının liraya güveni dirençli kalmaya devam ediyor",
+   "ozet": "Samp;P Global Ratings, Türkiye'de hanehalkının liraya güveninin dirençli kalmaya devam ettiğini ve Orta Doğu'daki savaştan kaynaklanan enerji fiyat şokunun enflasyonda yukarı yönlü baskı oluşturmasına rağmen ülke ekonomisinin şokun etkilerini atlatabileceğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/sp-global-ratings-turkiyede-hanehalkinin-liraya-guveni-direncli-kalmaya-devam-ediyor-960650.html",
+   "zaman": "2026-10-20T15:32:00+03:00",
+   "kelimeler": [
+    "devam",
+    "diren",
+    "ediyo",
+    "globa",
+    "guven",
+    "haneh",
+    "kalma",
+    "liray",
+    "ratin",
+    "samp",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6d18e62a9c83"
+  },
+  "bbf278e1078a": {
+   "id": "bbf278e1078a",
+   "kaynak": "NTV",
+   "baslik": "Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
+   "ozet": "Yeni Yol Partisi’nden istifa eden Bağımsız Bursa Milletvekili Cemalettin Kani Torun AK Parti’ye katıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/bursa-milletvekili-cemalettin-kani-torun-ak-partiye-katildi-1747185",
+   "zaman": "2026-10-20T15:40:49+03:00",
+   "kelimeler": [
+    "ak",
+    "bursa",
+    "cemal",
+    "kani",
+    "katil",
+    "mille",
+    "parti",
+    "torun",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e12c648f3a57": {
+   "id": "e12c648f3a57",
+   "kaynak": "AA",
+   "baslik": "AJet, 2027 yaz sezonunda Bodrum ve Dalaman'dan Almanya'nın 5 kentine uçacak",
+   "ozet": "AJet, 2027 yaz sezonunda Muğla'nın Bodrum ve Dalaman ilçelerinden Almanya'nın 5 kentine direkt uçuşlar düzenleyecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ajet-2027-yaz-sezonunda-bodrum-ve-dalamandan-almanyanin-5-kentine-ucacak/4094669",
+   "zaman": "2026-10-20T15:41:05+03:00",
+   "kelimeler": [
+    "2027",
+    "ajet",
+    "alman",
+    "bodru",
+    "dalam",
+    "dan",
+    "kenti",
+    "nin",
+    "sezon",
+    "ucaca",
+    "yaz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 15:46:00  3 yeni haber",
   "20.10 15:31:11  3 yeni haber",
   "20.10 15:19:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaraydan Lille maçı öncesi UEFA'ya güvenlik başvurusu",
   "20.10 15:16:12  1 yeni haber",
@@ -22058,8 +22196,7 @@
   "18.10 12:03:23  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Fuhuş operasyonunda mahkeme kararını verdi: İş yerlerine ruhsat iptali",
   "18.10 12:01:20  2 yeni haber",
   "18.10 11:46:00  1 yeni haber",
-  "18.10 11:33:29  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 11:33:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Diyarbakır’da lezzetin sırrı sumak ekşisinde! Meftuneden duvaklı pilav"
+  "18.10 11:33:29  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
