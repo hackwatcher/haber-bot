@@ -8156,7 +8156,8 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "357f6783a5e6": {
    "id": "357f6783a5e6",
@@ -17203,7 +17204,8 @@
    "diger_kaynaklar": [
     "Sözcü",
     "Hürriyet",
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "3b9bbe782f8a": {
@@ -17641,9 +17643,267 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9f12b1ced3a0": {
+   "id": "9f12b1ced3a0",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Sorunlu fonlara yönelik tedbirler kararlılıkla uygulanıyor",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Olağan tasfiyeler hızla yapılmaktadır, olağanüstü tasfiye için kanuni düzenlemeler Meclisimizin gündemindedir. Haksız ve fahiş kazançların sisteme dönmesi ve yatırımcılara ödenmesi için yoğun ve çok yönlü çaba sarf edilmektedir.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-960596.html",
+   "zaman": "2026-10-20T09:16:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "fonla",
+    "karar",
+    "sorun",
+    "tedbi",
+    "uygul",
+    "yardi",
+    "yilma",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "06f33f79837b": {
+   "id": "06f33f79837b",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Güler Katar'a gidecek",
+   "ozet": "Milli Savunma Bakanı Yaşar Güler, Türkiye, Katar, Pakistan ve Endonezya arasında savunma sanayi alanında imzalanacak işbirliği mutabakatı için Katar'a gidecek.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-guler-katara-gidecek-960597.html",
+   "zaman": "2026-10-20T09:26:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "gidec",
+    "guler",
+    "katar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d6bdec69ecc3": {
+   "id": "d6bdec69ecc3",
+   "kaynak": "AA",
+   "baslik": "İstanbul'daki vize danışmanlığı soruşturmasının ikinci operasyonunda 60 gözaltı kararı",
+   "ozet": "Vize danışmanlığı adı altında faaliyet göstererek çevrim içi randevu sistemlerine yazılımlarla eriştikleri ve vatandaşlardan yüksek tutarlarda ücret tahsil ettikleri belirlenen yapılara yönelik soruşturmada 60 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-vize-danismanligi-sorusturmasinin-ikinci-operasyonunda-60-gozalti-karari/4094072",
+   "zaman": "2026-10-20T09:27:44+03:00",
+   "kelimeler": [
+    "60",
+    "daki",
+    "danis",
+    "gozal",
+    "ikinc",
+    "istan",
+    "karar",
+    "opera",
+    "sorus",
+    "vize"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c29f9452412"
+  },
+  "e20178efe39c": {
+   "id": "e20178efe39c",
+   "kaynak": "Hürriyet",
+   "baslik": "Numan Kurtulmuş Bişkek'te seslendi: Türk dünyası yeni bir cazibe merkezi",
+   "ozet": "Kırgızistan'ın başkenti Bişkek'te düzenlenen TÜRKPA 15'inci Genel Kurulu öncesi gerçekleştirilen Asamble Konseyi Toplantısı'na katılan TBMM Başkanı Numan Kurtulmuş, Türk dünyasının tarihî birikimi ve insani bağlarıyla geleceği birlikte şekillendirmek için kıymetli imkanlara…",
+   "link": "https://www.hurriyet.com.tr/gundem/numan-kurtulmus-biskekte-seslendi-turk-dunyasi-yeni-bir-cazibe-merkezi-43347996",
+   "zaman": "2026-10-20T09:28:40+03:00",
+   "kelimeler": [
+    "biske",
+    "cazib",
+    "dunya",
+    "kurtu",
+    "merke",
+    "numan",
+    "sesle",
+    "te",
+    "turk",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d2da48c5e8ba": {
+   "id": "d2da48c5e8ba",
+   "kaynak": "AA",
+   "baslik": "İzmir'deki Beydağ Sulama Projesi ile 196 bin 500 dekar arazide modern sulama başlayacak",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, İzmir'in Ödemiş ve Beydağ ilçelerinde hayata geçirecekleri Beydağ Sulama Projesi ile 196 bin 500 dekar arazide modern sulama dönemini başlatacaklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirdeki-beydag-sulama-projesi-ile-196-bin-500-dekar-arazide-modern-sulama-baslayacak/4094078",
+   "zaman": "2026-10-20T09:31:41+03:00",
+   "kelimeler": [
+    "196",
+    "500",
+    "arazi",
+    "basla",
+    "beyda",
+    "bin",
+    "dekar",
+    "deki",
+    "izmir",
+    "moder",
+    "proje",
+    "sulam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a8f78dee069b": {
+   "id": "a8f78dee069b",
+   "kaynak": "Hürriyet",
+   "baslik": "Demir sopalarla dövüp tuvalete kilitledi: Çıraklara işkenceye yeniden gözaltı",
+   "ozet": "Niğde'de 2 çırağını demir sopayla dövüp tuvalete kilitleyen berber, ailelerin şikayetinin ardından mahkemeye çıkarılmış ve adli kontrol şartıyla serbest bırakılmıştı. Berber S.G., yeniden gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/demir-sopalarla-dovup-tuvalete-kilitledi-ciraklara-iskenceye-yeniden-gozalti-43347974",
+   "zaman": "2026-10-20T09:31:52+03:00",
+   "kelimeler": [
+    "cirak",
+    "demir",
+    "dovup",
+    "gozal",
+    "isken",
+    "kilit",
+    "sopal",
+    "tuval",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "58dc2a0b2291": {
+   "id": "58dc2a0b2291",
+   "kaynak": "AA",
+   "baslik": "WSJ: ABD, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadı",
+   "ozet": "ABD Savunma Bakanı Pete Hegseth'in Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadığı iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/wsj-abd-ukraynaya-patriot-hava-savunma-sistemlerinin-sevkiyatini-henuz-onaylamadi/4094080",
+   "zaman": "2026-10-20T09:31:53+03:00",
+   "kelimeler": [
+    "abd",
+    "hava",
+    "henuz",
+    "onayl",
+    "patri",
+    "savun",
+    "sevki",
+    "siste",
+    "ukray",
+    "wsj",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "221b223594b0": {
+   "id": "221b223594b0",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, Şampiyonlar Ligi'nde yarın Fransa ekibi Lille ile deplasmanda karşılaşacak",
+   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın deplasmanda Fransa ekibi Lille ile karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-fransa-ekibi-lille-ile-deplasmanda-karsilasacak/4094084",
+   "zaman": "2026-10-20T09:33:32+03:00",
+   "kelimeler": [
+    "depla",
+    "ekibi",
+    "frans",
+    "galat",
+    "karsi",
+    "ligi",
+    "lille",
+    "nde",
+    "sampi",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3890b1b8b712": {
+   "id": "3890b1b8b712",
+   "kaynak": "TRT Haber",
+   "baslik": "Gram altın güne nasıl başladı?",
+   "ozet": "Gram altın, güne düşüşle başlamasının ardından 6 bin 572 liradan işlem görüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/gram-altin-gune-nasil-basladi-960598.html",
+   "zaman": "2026-10-20T09:35:00+03:00",
+   "kelimeler": [
+    "altin",
+    "basla",
+    "gram",
+    "gune",
+    "nasil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dc0fb2fa9a72"
+  },
+  "0a21a94af840": {
+   "id": "0a21a94af840",
+   "kaynak": "AA",
+   "baslik": "\"Yarısı Bizden\" desteğinin süresi 31 Aralık 2027'ye kadar uzatıldı",
+   "ozet": "İstanbul'da kentsel dönüşümü hızlandırmak için 22 Şubat 2024'te Cumhurbaşkanlığı Kararnamesi ile yürürlüğe giren \"Yarısı Bizden\" desteğinin süresi 31 Aralık 2027'ye kadar uzatıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yarisi-bizden-desteginin-suresi-31-aralik-2027ye-kadar-uzatildi/4094095",
+   "zaman": "2026-10-20T09:38:00+03:00",
+   "kelimeler": [
+    "2027",
+    "31",
+    "arali",
+    "bizde",
+    "deste",
+    "sures",
+    "uzati",
+    "yaris",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3fa4073e4125": {
+   "id": "3fa4073e4125",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Milas Belediyesi'ne operasyon: CHP'li Belediye Başkanı dahil 35 kişi hakkında gözaltı kararı",
+   "ozet": "Muğla'da Milas Belediyesi Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da bulunduğu 35 kişi hakkında gözaltı kararı verildi. Rüşvet ve ihaleye fesat karıştırma iddialarına ilişkin yürütülen soruşturma kapsamında 13 ilde eş zamanlı operasyonlar düzenlendi.",
+   "link": "https://www.bbc.com/turkce/articles/cj75pq4lvk91o",
+   "zaman": "2026-10-20T09:42:53+03:00",
+   "kelimeler": [
+    "35",
+    "baska",
+    "beled",
+    "chp",
+    "dahil",
+    "gozal",
+    "hakki",
+    "karar",
+    "kisi",
+    "li",
+    "milas",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9ceb3b88c03"
+  },
+  "76d85a712996": {
+   "id": "76d85a712996",
+   "kaynak": "Sözcü",
+   "baslik": "Milas Belediyesi'ne operasyon: Belediye başkanı dahil 29 kişi gözaltına alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-milas-belediyesi-ne-operasyon-belediye-baskani-dahil-29-kisi-gozaltina-alindi-p370815",
+   "zaman": "2026-10-20T09:44:44+03:00",
+   "kelimeler": [
+    "29",
+    "alind",
+    "baska",
+    "beled",
+    "dahil",
+    "gozal",
+    "kisi",
+    "milas",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 09:46:21  9 yeni haber",
   "20.10 09:33:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Üsküdar’da 3’üncü seçim",
   "20.10 09:31:14  2 yeni haber",
   "20.10 09:15:56  6 yeni haber",
@@ -17842,8 +18102,7 @@
   "18.10 07:46:06  1 yeni haber",
   "18.10 07:33:30  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 07:33:30  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Özgür Özel: Tek yolumuz kazanmak",
-  "18.10 07:15:56  7 yeni haber",
-  "18.10 07:03:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 07:15:56  7 yeni haber"
  ],
  "otomatik": false
 }
