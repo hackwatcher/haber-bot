@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "410dff92b689": {
-   "id": "410dff92b689",
-   "kaynak": "Sözcü",
-   "baslik": "Ayazağa'da dere yatağındaki yapıların yıkımına başlandı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/selin-ardindan-ayazagada-dere-yatagindaki-yapilarin-yikimina-baslandi-p370110",
-   "zaman": "2026-10-17T16:34:44+03:00",
-   "kelimeler": [
-    "ayaza",
-    "basla",
-    "dere",
-    "yapil",
-    "yatag",
-    "yikim"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T18:02:14.896420+03:00",
-   "ig_id": "18107004446211863",
-   "reels_id": "17902147143378281",
-   "story_id": "17972604738173767",
-   "slayt": 1,
-   "kanca": "Son dakika"
-  },
   "13c18542888f": {
    "id": "13c18542888f",
    "kaynak": "Sözcü",
@@ -22286,7 +22262,8 @@
     "yakin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "87d4673e9453": {
    "id": "87d4673e9453",
@@ -22434,9 +22411,135 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "48ac9fb08a1a"
+  },
+  "5a959aa4412a": {
+   "id": "5a959aa4412a",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye öncülüğünde 4 ülkeden savunmada yakın iş birliği",
+   "ozet": "Türkiye, Katar, Pakistan ve Endonezya arasında savunma sanayii alanındaki iş birliğini kurumsal ve çok taraflı bir yapıya kavuşturacak kritik mutabakat zaptı, Katarın başkenti Dohada imzalanacak.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-onculugunde-4-ulkeden-savunmada-yakin-is-birligi-960652.html",
+   "zaman": "2026-10-20T15:28:00+03:00",
+   "kelimeler": [
+    "birli",
+    "is",
+    "oncul",
+    "savun",
+    "turki",
+    "ulked",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "96016be2d957"
+  },
+  "ba377dfdca37": {
+   "id": "ba377dfdca37",
+   "kaynak": "Hürriyet",
+   "baslik": "Ayazağa'da selin izleri… Mağazayı su bastı: 19 senelik emek bir dakikada gitti",
+   "ozet": "İstanbul, Sarıyer Ayazağa'da etkili olan sağanağın ardından basan sel suları, yaklaşık 600 metrekarelik mağazada 1 metre 70 santimetreye kadar yükseldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ayazagada-selin-izleri-magazayi-su-basti-19-senelik-emek-bir-dakikada-gitti-43348744",
+   "zaman": "2026-10-20T16:33:05+03:00",
+   "kelimeler": [
+    "19",
+    "ayaza",
+    "basti",
+    "dakik",
+    "emek",
+    "gitti",
+    "izler",
+    "magaz",
+    "selin",
+    "senel",
+    "su"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0deb67c5d8ae": {
+   "id": "0deb67c5d8ae",
+   "kaynak": "AA",
+   "baslik": "A Milli Futbol Takımı'nda teknik direktörlüğe Sergen Yalçın getirildi",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminda-teknik-direktorluge-sergen-yalcin-getirildi/4094740",
+   "zaman": "2026-10-20T16:41:12+03:00",
+   "kelimeler": [
+    "direk",
+    "futbo",
+    "getir",
+    "milli",
+    "nda",
+    "serge",
+    "takim",
+    "tekni",
+    "yalci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4ba5bfa75e39": {
+   "id": "4ba5bfa75e39",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
+   "ozet": "ABD'de yapılan bir araştırma, yapay zeka kullanılarak, bir hastalığın ne kadar ilerlemiş olduğunun hastanın yüz fotoğrafı üzerinden de değerlendirilebileceğini savundu.",
+   "link": "https://www.bbc.com/turkce/articles/cmjwe7y5wx5zo",
+   "zaman": "2026-10-20T16:41:30+03:00",
+   "kelimeler": [
+    "fotog",
+    "goste",
+    "hasta",
+    "oldug",
+    "yuz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab170f71838c": {
+   "id": "ab170f71838c",
+   "kaynak": "Sözcü",
+   "baslik": "TBMM'de fon teklifi görüşmeleri öne çekildi: Bugün başlıyor!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/tbmm-de-fon-teklifi-gorusmeleri-one-cekildi-bugun-gorusulecek-p371037",
+   "zaman": "2026-10-20T16:41:58+03:00",
+   "kelimeler": [
+    "basli",
+    "bugun",
+    "cekil",
+    "fon",
+    "gorus",
+    "one",
+    "tbmm",
+    "tekli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3898761c9bec": {
+   "id": "3898761c9bec",
+   "kaynak": "AA",
+   "baslik": "İsrail, Mescid-i Aksa İmam Hatibi İkrime Sabri'nin Aksa'ya giriş yasağını uzattı",
+   "ozet": "İsrail, Mescid-i Aksa İmam Hatibi ve Kudüs Yüksek İslami Heyeti Başkanı Şeyh İkrime Sabri'nin Mescid-i Aksa'ya giriş yasağını 6 ay daha uzattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-mescid-i-aksa-imam-hatibi-ikrime-sabrinin-aksaya-giris-yasagini-uzatti/4094745",
+   "zaman": "2026-10-20T16:43:58+03:00",
+   "kelimeler": [
+    "aksa",
+    "giris",
+    "hatib",
+    "ikrim",
+    "imam",
+    "israi",
+    "mesci",
+    "nin",
+    "sabri",
+    "uzatt",
+    "ya",
+    "yasag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 16:46:14  5 yeni haber",
   "20.10 16:31:13  6 yeni haber",
   "20.10 16:16:13  6 yeni haber",
   "20.10 16:01:30  6 yeni haber",
@@ -22635,8 +22738,7 @@
   "18.10 12:34:09  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 12:34:09  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Sanatçı Süleyman Saim Tekcan 86 yaşında vefat etti",
   "18.10 12:30:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "18.10 12:03:23  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 12:03:23  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Fuhuş operasyonunda mahkeme kararını verdi: İş yerlerine ruhsat iptali"
+  "18.10 12:03:23  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
