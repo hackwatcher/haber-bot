@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "f0d71a867c5d": {
-   "id": "f0d71a867c5d",
-   "kaynak": "Hürriyet",
-   "baslik": "İçişleri Bakanlığı duyurdu: Aranan 912 şüpheli yakalandı",
-   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamada \"81 ilde mahkemelerimizce yakalama kararı verilen ve aranan şahıslara yönelik düzenlenen 'Aranan Şahıslar Uygulamasında' 912 şahıs yakalandı\" denildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-aranan-912-supheli-yakalandi-43344986",
-   "zaman": "2026-10-17T11:10:00+03:00",
-   "kelimeler": [
-    "912",
-    "arana",
-    "bakan",
-    "duyur",
-    "icisl",
-    "suphe",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a806b76b931a": {
    "id": "a806b76b931a",
    "kaynak": "Hürriyet",
@@ -7897,7 +7878,10 @@
     "uzay"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "45a2bd3904ab": {
    "id": "45a2bd3904ab",
@@ -18801,9 +18785,236 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "19197ce8392d": {
+   "id": "19197ce8392d",
+   "kaynak": "BBC Türkçe",
+   "baslik": "'Kadınların yumurtaları yurt dışına satıldı': Operasyon hakkında neler biliniyor?",
+   "ozet": "Adalet Bakanı Gürlek, Türkiye'den kadınları yurt dışına yönlendirerek yumurtalarını satmakla suçlanan. aralarında doktorların da bulunduğu 39 kişinin gözaltına alındığını açıkladı. Bu ticareti örgütleyen kişilerin iki milyon euro kazanç elde ettiği iddia ediliyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmwyv10npv5ko",
+   "zaman": "2026-10-19T19:39:51+03:00",
+   "kelimeler": [
+    "bilin",
+    "disin",
+    "hakki",
+    "kadin",
+    "neler",
+    "opera",
+    "satil",
+    "yumur",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ac9ca09aa2cd": {
+   "id": "ac9ca09aa2cd",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin gelecek yıl dünya turizm gelirlerinde sıra atlaması bekleniyor",
+   "ozet": "Türkiye'nin gelecek yıl turizm gelirleri sıralamasında basamak atlayarak en çok gelire sahip 6'ncı ülke olması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-gelecek-yil-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor/4094229",
+   "zaman": "2026-10-20T11:02:43+03:00",
+   "kelimeler": [
+    "atlam",
+    "bekle",
+    "dunya",
+    "gelec",
+    "gelir",
+    "nin",
+    "sira",
+    "turiz",
+    "turki",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1e510b76412a": {
+   "id": "1e510b76412a",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, Avrupa'da 343. kez sahne alacak",
+   "ozet": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Fransa ekibi Lille'e konuk olacak Galatasaray, Avrupa kupalarındaki 343. karşılaşmasına çıkacak.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-avrupada-343-kez-sahne-alacak/4094230",
+   "zaman": "2026-10-20T11:03:26+03:00",
+   "kelimeler": [
+    "343",
+    "alaca",
+    "avrup",
+    "galat",
+    "kez",
+    "sahne"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "74c117eb18b6": {
+   "id": "74c117eb18b6",
+   "kaynak": "Hürriyet",
+   "baslik": "Kaza yerinde kalpleri ısıtan yardım: Anne ve kızına vatandaşlar şemsiye tuttu",
+   "ozet": "Balıkesir'in Bandırma ilçesinde yolun karşısına geçmeye çalışan Mediha Şenay ile kızı Hale Şenay’a, otomobil çarptı. Hale'nin bacağı otomobilin altında sıkışırken, sağlık ekipleri gelene kadar anne ve kızının ıslanmaması için çevredekiler şemsiye tuttu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kaza-yerinde-kalpleri-isitan-yardim-anne-ve-kizina-vatandaslar-semsiye-tuttu-43348187",
+   "zaman": "2026-10-20T11:03:56+03:00",
+   "kelimeler": [
+    "anne",
+    "isita",
+    "kalpl",
+    "kaza",
+    "kizin",
+    "semsi",
+    "tuttu",
+    "vatan",
+    "yardi",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ddcaf6bfcbbd": {
+   "id": "ddcaf6bfcbbd",
+   "kaynak": "Hürriyet",
+   "baslik": "111 yıl sonra belgesi ortaya çıktı! Çanakkale Savaşları’nda Türk askeri, yaralı İngiliz’i kurtarmış",
+   "ozet": "Çanakkale Onsekiz Mart Üniversitesi (ÇOMÜ) Atatürk ve Çanakkale Savaşları Araştırma Merkezi (AÇASAM) tarafından harp cerideleri üzerinde yapılan çalışmalarda, Çanakkale Savaşları sırasında yararlanan bir İngiliz askerinin Türk askeri tarafından sırtında taşındığına ilişkin…",
+   "link": "https://www.hurriyet.com.tr/gundem/111-yil-sonra-belgesi-ortaya-cikti-canakkale-savaslarinda-turk-askeri-yarali-ingilizi-kurtarmis-43348126",
+   "zaman": "2026-10-20T11:04:00+03:00",
+   "kelimeler": [
+    "111",
+    "asker",
+    "belge",
+    "canak",
+    "cikti",
+    "ingil",
+    "kurta",
+    "nda",
+    "ortay",
+    "savas",
+    "turk",
+    "yaral",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9b121ca1dd1a": {
+   "id": "9b121ca1dd1a",
+   "kaynak": "AA",
+   "baslik": "Muhammed Salah, gol krallığı yarışında zirvede",
+   "ozet": "Trendyol Süper Lig'in 8. haftasında konuk ettiği Beşiktaş'ı 2-0 yenen Trabzonspor'da Mısırlı yıldız oyuncu Muhammed Salah, gol krallığı yarışında tek başına zirvede yer aldı.",
+   "link": "https://www.aa.com.tr/tr/spor/muhammed-salah-gol-kralligi-yarisinda-zirvede-/4094235",
+   "zaman": "2026-10-20T11:05:58+03:00",
+   "kelimeler": [
+    "gol",
+    "krall",
+    "muham",
+    "salah",
+    "yaris",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "afce90fc5c28": {
+   "id": "afce90fc5c28",
+   "kaynak": "Sözcü",
+   "baslik": "Dolar/TL'de yükseliş durmuyor: Yeni rekor geldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/dolar-tl-de-yukselis-durmuyor-yeni-rekor-geldi-p370908",
+   "zaman": "2026-10-20T11:06:14+03:00",
+   "kelimeler": [
+    "dolar",
+    "durmu",
+    "geldi",
+    "rekor",
+    "tl",
+    "yeni",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6cc751ed38cc": {
+   "id": "6cc751ed38cc",
+   "kaynak": "AA",
+   "baslik": "JAXA, Mars'ın gizemli uydusundan numune getirmeyi hedefleyen MMX uzay aracını fırlattı",
+   "ozet": "Japonya Uzay Araştırma Ajansı (JAXA), Mars'ın gizemli \"Phobos\" uydusunu keşfedip numuneler getirmeyi hedefleyen MMX uzay aracını fırlattı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/jaxa-marsin-gizemli-uydusundan-numune-getirmeyi-hedefleyen-mmx-uzay-aracini-firlatti/4094236",
+   "zaman": "2026-10-20T11:06:40+03:00",
+   "kelimeler": [
+    "araci",
+    "firla",
+    "getir",
+    "gizem",
+    "hedef",
+    "in",
+    "jaxa",
+    "mars",
+    "mmx",
+    "numun",
+    "uydus",
+    "uzay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "357f6783a5e6"
+  },
+  "197bbc0f0c74": {
+   "id": "197bbc0f0c74",
+   "kaynak": "AA",
+   "baslik": "Tesla'nın arabası uçuyor, hissesi düşüyor",
+   "ozet": "Elektrikli otomobil sektöründe geliştirdiği teknolojiler ve otonom sürüş alanındaki iddialı hedefleriyle öne çıkan Tesla, araç teknolojisindeki ilerlemesini hisse piyasalarına yansıtmakta zorlanıyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/teslanin-arabasi-ucuyor-hissesi-dusuyor/4094243",
+   "zaman": "2026-10-20T11:08:33+03:00",
+   "kelimeler": [
+    "araba",
+    "dusuy",
+    "hisse",
+    "nin",
+    "tesla",
+    "ucuyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "243cc6de9f9a": {
+   "id": "243cc6de9f9a",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor'da Andre Onana kalesinde güven veriyor",
+   "ozet": "Trendyol Süper Lig'in ilk 8 haftasında en az gol (5 gol) takım konumunda bulunan Trabzonspor'da kaleci Andre Onana performansıyla beğeni kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonsporda-andre-onana-kalesinde-guven-veriyor/4094244",
+   "zaman": "2026-10-20T11:08:40+03:00",
+   "kelimeler": [
+    "andre",
+    "guven",
+    "kales",
+    "onana",
+    "trabz",
+    "veriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9bfb21f43f6f": {
+   "id": "9bfb21f43f6f",
+   "kaynak": "AA",
+   "baslik": "\"Şehirler kuraklık ve sel riskine aynı anda hazırlanmalı\" uyarısı",
+   "ozet": "Prof. Dr. Tağıl, şehirlerin değişen iklim koşullarıyla artan ani yağış ve kuraklık tehditlerine karşı aynı anda hazırlanması gerektiğini belirterek, \"Mesele düşen suyu ne ölçüde tutabildiğimiz ve ihtiyaç duyduğumuz döneme aktarabildiğimizdir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/sehirler-kuraklik-ve-sel-riskine-ayni-anda-hazirlanmali-uyarisi/4094249",
+   "zaman": "2026-10-20T11:10:54+03:00",
+   "kelimeler": [
+    "anda",
+    "ayni",
+    "hazir",
+    "kurak",
+    "riski",
+    "sehir",
+    "sel",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 11:16:04  10 yeni haber",
   "20.10 11:01:18  15 yeni haber",
   "20.10 10:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TBMM Başkanı Kurtulmuş, Bişkek'te Kazakistan Kurultay Başkanı Dadebay ",
   "20.10 10:46:03  5 yeni haber",
@@ -19002,8 +19213,7 @@
   "18.10 09:03:14  Ek paylaşılamadı: reels: Instagram görseli işleyemedi (ERROR)",
   "18.10 09:03:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook + Facebook_reels): XHABER · Fransa’da olaylar kontrolden çıktı.",
   "18.10 08:46:10  1 yeni haber",
-  "18.10 08:30:47  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 08:30:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Mansur Yavaş: “Parti değiştirenler, hesabını sandıkta verecektir.”"
+  "18.10 08:30:47  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
