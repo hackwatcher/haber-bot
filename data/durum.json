@@ -377,28 +377,6 @@
    "slayt": 1,
    "kanca": "Son dakika"
   },
-  "3f91d41db694": {
-   "id": "3f91d41db694",
-   "kaynak": "XHABER",
-   "baslik": "Galatasaray, Ankara deplasmanından 3 puanla ayrıldı.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30274",
-   "zaman": "2026-10-17T17:58:18+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Galatasaray, Ankara deplasmanından 3 puanla ayrıldı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/piDBzGyACtEKFDuC_s1_1HBylJBnq0RKfTImHyOQ1gMD7vVRsQrrWfC6bC56ZdKS9xFPuKLVdZHcJk4QoGx0cDc0x-1xGcbZGVOZ7x7ZEIJincRr3CL5nKiCLOBl-OA-ujx71lw_5noCdPiUhqqNWbsLr--WxZD5DmXsVHYGlh6zutEdfl6lGnoK2dyTKND75ZKYY6WuKT7WPr0eRvJSwfUXs0xNqDwrBcASnurY4kpfYSRHqzkJXz6CtWkGMOBWrXGSJIT8YsImHGmx8vCO-KgR1VpY8qQi9vRh14iCFWmlaFB0tgfxjiycY-N3DL-2-6vhgH4e0fuYWtTTh00YOQ.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "ankar",
-    "ayril",
-    "depla",
-    "galat",
-    "puanl"
-   ],
-   "durum": "hata",
-   "oncelikli": false,
-   "hata": "list index out of range"
-  },
   "c39ea427ca07": {
    "id": "c39ea427ca07",
    "kaynak": "XHABER",
@@ -2441,24 +2419,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "1bc673f05840": {
-   "id": "1bc673f05840",
-   "kaynak": "TRT Haber",
-   "baslik": "Sapanca'da sağanak: Yollar çöktü, köprüler yıkıldı",
-   "ozet": "Sakarya'da etkili olan sağanak nedeniyle turistik ilçe Sapanca'da bazı yollar kısmen çöktü, köprüler yıkıldı ve bungalovlar zarar gördü.",
-   "link": "https://www.trthaber.com/haber/turkiye/sapancada-saganak-yollar-coktu-kopruler-yikildi-960426.html",
-   "zaman": "2026-10-17T17:46:00+03:00",
-   "kelimeler": [
-    "coktu",
-    "kopru",
-    "sagan",
-    "sapan",
-    "yikil",
-    "yolla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "e432500d3aec": {
    "id": "e432500d3aec",
@@ -22601,7 +22561,10 @@
     "uyesi"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "9e3770dfc746": {
    "id": "9e3770dfc746",
@@ -23156,9 +23119,148 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1af11f05f840": {
+   "id": "1af11f05f840",
+   "kaynak": "TRT Haber",
+   "baslik": "Tek fotoğrafla kanser hastalarının yaşam süresini tahmin eden yapay zeka geliştirildi",
+   "ozet": "Uzmanlar, hastaların yüz fotoğrafını analiz ederek biyolojik yaşını hesaplayabilen ve kanser tedavisinde yaşam şansını öngörebilen yeni bir yapay zeka aracı geliştirdi.",
+   "link": "https://www.trthaber.com/haber/guncel/tek-fotografla-kanser-hastalarinin-yasam-suresini-tahmin-eden-yapay-zeka-gelistirildi-960661.html",
+   "zaman": "2026-10-20T17:25:00+03:00",
+   "kelimeler": [
+    "eden",
+    "fotog",
+    "gelis",
+    "hasta",
+    "kanse",
+    "sures",
+    "tahmi",
+    "tek",
+    "yapay",
+    "yasam",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1d07067ba4b6"
+  },
+  "df7ff2b45b43": {
+   "id": "df7ff2b45b43",
+   "kaynak": "Hürriyet",
+   "baslik": "Tarihi miras ayağa kalktı… Topkapı Sarayı'nda 7 yıllık restorasyon tamamlandı: Darphane-i Amire'de 5 yeni müze açılıyor",
+   "ozet": "Topkapı Sarayı'nın birinci avlusunda yer alan tarihi Darphane-i Amire yerleşkesindeki 17 bin metrekarelik alanda yürütülen çalışmalar sona erdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/topkapi-sarayinda-10-bini-askin-eserin-bulundugu-5-muze-ziyarete-aciliyor-43348872",
+   "zaman": "2026-10-20T17:41:00+03:00",
+   "kelimeler": [
+    "acili",
+    "amire",
+    "ayaga",
+    "darph",
+    "kalkt",
+    "miras",
+    "muze",
+    "nda",
+    "resto",
+    "saray",
+    "tamam",
+    "tarih",
+    "topka",
+    "yeni",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df002013596c": {
+   "id": "df002013596c",
+   "kaynak": "AA",
+   "baslik": "13. Necip Fazıl Ödülleri 2026 yılı kazananları açıklandı",
+   "ozet": "Cumhuriyet tarihinin önemli edebiyatçı ve fikir adamlarından Necip Fazıl Kısakürek'in manevi ve kültürel mirasını yaşatmak amacıyla Star Gazetesi tarafından düzenlenen Necip Fazıl Ödülleri’nin 2026 yılı kazananları açıklandı.",
+   "link": "https://www.aa.com.tr/tr/kultur/13-necip-fazil-odulleri-2026-yili-kazananlari-aciklandi/4094830",
+   "zaman": "2026-10-20T17:44:26+03:00",
+   "kelimeler": [
+    "13",
+    "2026",
+    "acikl",
+    "fazil",
+    "kazan",
+    "necip",
+    "odull",
+    "yili"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "c8d6f614a398": {
+   "id": "c8d6f614a398",
+   "kaynak": "AA",
+   "baslik": "Topkapı Sarayı'nın Darphane-i Amire yerleşkesi 5 müzeyle ziyarete açılacak",
+   "ozet": "Topkapı Sarayı'nın birinci avlusunda bulunan tarihi Darphane-i Amire yapı topluluğu, restorasyon ve yeniden işlevlendirme çalışmalarının ardından 5 ihtisas müzesiyle ziyarete açılacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/topkapi-sarayinin-darphane-i-amire-yerleskesi-5-muzeyle-ziyarete-acilacak/4094833",
+   "zaman": "2026-10-20T17:47:03+03:00",
+   "kelimeler": [
+    "acila",
+    "amire",
+    "darph",
+    "muzey",
+    "nin",
+    "saray",
+    "topka",
+    "yerle",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "268e382b989d": {
+   "id": "268e382b989d",
+   "kaynak": "AA",
+   "baslik": "AK Parti Sözcüsü Çelik: Fon soruşturmasında kararlı ve tavizsiz bir şekilde hareket ediliyor",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"Fon dolandırıcıları, fon şeytanları dediğimiz bu yolsuzlukları yapanların üzerine gidilmesi konusunda yüksek bir iradeyle, kararlı ve tavizsiz bir şekilde hareket ediliyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-sorusturmasinda-kararli-ve-tavizsiz-bir-sekilde-hareket-ediliyor/4094837",
+   "zaman": "2026-10-20T17:50:30+03:00",
+   "kelimeler": [
+    "ak",
+    "celik",
+    "edili",
+    "fon",
+    "harek",
+    "karar",
+    "parti",
+    "sekil",
+    "sorus",
+    "sozcu",
+    "taviz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cb224e974bf1": {
+   "id": "cb224e974bf1",
+   "kaynak": "NTV",
+   "baslik": "Kemer Belediye Başkanı Topaloğlu ve 8 meclis üyesi CHP'den istifa etti",
+   "ozet": "Antalya'da, Kemer Belediye Başkanı Necati Topaloğlu, 8 belediye meclis üyesiyle CHP'den istifa ettiklerini ve görevlerine bağımsız devam edeceklerini bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/kemer-belediye-baskani-topaloglu-ve-8-meclis-uyesi-chpden-istifa-etti-1747202",
+   "zaman": "2026-10-20T17:57:34+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "chp",
+    "den",
+    "etti",
+    "istif",
+    "kemer",
+    "mecli",
+    "topal",
+    "uyesi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0320ec501d7a"
   }
  },
  "kayit": [
+  "20.10 18:01:29  4 yeni haber",
   "20.10 17:45:58  4 yeni haber",
   "20.10 17:31:16  4 yeni haber",
   "20.10 17:18:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
@@ -23357,8 +23459,7 @@
   "18.10 13:31:07  3 yeni haber",
   "18.10 13:15:59  2 yeni haber",
   "18.10 13:04:20  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 13:04:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Adana'da fırtına çatıyı uçurdu! Evin sahibi o anları anlattı: Deprem o",
-  "18.10 13:01:11  1 yeni haber"
+  "18.10 13:04:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Adana'da fırtına çatıyı uçurdu! Evin sahibi o anları anlattı: Deprem o"
  ],
  "otomatik": false
 }
