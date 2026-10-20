@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "ddbc5b3c3480": {
-   "id": "ddbc5b3c3480",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul’da dev operasyon: Kırmızı bültenle aranan kripto vurguncusu yakalandı",
-   "ozet": "Adalet Bakanı Akın Gürlek, sosyal medya hesabından yaptığı açıklamada, ABD ve Finlandiya’da 1 milyar dolarlık kripto varlık dolandırıcılığı gerçekleştirdiği iddiasıyla INTERPOL tarafından kırmızı bültenle aranan ABD vatandaşı Richard James Schueler’in İstanbul’da yakalanarak…",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-dev-operasyon-kirmizi-bultenle-aranan-kripto-vurguncusu-yakalandi-43344842",
-   "zaman": "2026-10-17T09:21:30+03:00",
-   "kelimeler": [
-    "arana",
-    "bulte",
-    "dev",
-    "istan",
-    "kirmi",
-    "kript",
-    "opera",
-    "vurgu",
-    "yakal"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T10:02:50.309536+03:00",
-   "ig_id": "18027581933921477",
-   "reels_id": "18033071468851647",
-   "story_id": "18636208723061401",
-   "slayt": 6,
-   "kanca": "İstanbul’da dev operasyon"
-  },
-  "5f5a38497d19": {
-   "id": "5f5a38497d19",
-   "kaynak": "Hürriyet",
-   "baslik": "Kütahya'da 3.4 büyüklüğünde deprem",
-   "ozet": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Kütahya'nın Simav ilçesinde 3.4 büyüklüğünde deprem meydana geldiğini duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/kutahyada-3-4-buyuklugunde-deprem-43344846",
-   "zaman": "2026-10-17T09:23:59+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "kutah"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T09:32:06.064508+03:00",
-   "ig_id": "18139049380722480",
-   "reels_id": "17949412710314391",
-   "story_id": "18100491026561712",
-   "slayt": 1,
-   "kanca": "Dikkat"
-  },
   "fceb0b0c541a": {
    "id": "fceb0b0c541a",
    "kaynak": "BBC Türkçe",
@@ -12426,7 +12378,10 @@
     "opera"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "96cb4e82e644": {
    "id": "96cb4e82e644",
@@ -16591,11 +16546,20 @@
     "uncu",
     "uskud"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "NTV"
-   ]
+   ],
+   "paylasildi": "2026-10-20T09:33:57.180883+03:00",
+   "ig_id": "18041946122834352",
+   "reels_id": "17909023962588653",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1134642122336160",
+   "slayt": 6,
+   "kanca": "ÜSKÜDAR'DA ÜÇÜNCÜ SANDIK"
   },
   "c20211c081ec": {
    "id": "c20211c081ec",
@@ -17588,9 +17552,100 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "88ce63186549": {
+   "id": "88ce63186549",
+   "kaynak": "AA",
+   "baslik": "Terör örgütü DEAŞ'ın finansal ağına yönelik operasyonlarda 21 şüpheli yakalandı",
+   "ozet": "Terör örgütü DEAŞ'ın finansmanına yönelik soruşturma kapsamında düzenlenen operasyonlarda 21 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasin-finansal-agina-yonelik-operasyonlarda-21-supheli-yakalandi/4094042",
+   "zaman": "2026-10-20T08:50:49+03:00",
+   "kelimeler": [
+    "21",
+    "agina",
+    "deas",
+    "finan",
+    "in",
+    "opera",
+    "orgut",
+    "suphe",
+    "teror",
+    "yakal",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1f6fb84176d"
+  },
+  "96cb7bc2472d": {
+   "id": "96cb7bc2472d",
+   "kaynak": "TRT Haber",
+   "baslik": "Adana merkezli sigorta dolandırıcılığı operasyonu: 77 gözaltı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Adana merkezli kurgu trafik kazaları üzerinden 17 sigorta şirketinden haksız tazminat temin ettiği belirlenen bir suç yapılanmasına yönelik gerçekleştirilen operasyonda, hakkında adli işlem başlatılan 88 şüpheliden 77'sinin yakalanarak gözaltına…",
+   "link": "https://www.trthaber.com/haber/turkiye/adana-merkezli-sigorta-dolandiriciligi-operasyonu-77-gozalti-960595.html",
+   "zaman": "2026-10-20T09:03:00+03:00",
+   "kelimeler": [
+    "77",
+    "adana",
+    "dolan",
+    "gozal",
+    "merke",
+    "opera",
+    "sigor"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "94f83993505e"
+  },
+  "34705325ad20": {
+   "id": "34705325ad20",
+   "kaynak": "AA",
+   "baslik": "ABD Savunma Bakanı Hegseth'in İsrail'i ziyaret ederek Netanyahu ile görüştüğü belirtildi",
+   "ozet": "İran'a yönelik ABD-İsrail saldırılarının tekrar başlama ihtimalinin gündemde olduğu bir sırada ABD Savunma Bakanı Pete Hegseth'in İsrail'i ziyaret ederek Başbakan Binyamin Netanyahu ile bir araya geldiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-hegsethin-israili-ziyaret-ederek-netanyahu-ile-gorustugu-belirtildi/4094059",
+   "zaman": "2026-10-20T09:11:47+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "belir",
+    "edere",
+    "gorus",
+    "hegse",
+    "in",
+    "israi",
+    "netan",
+    "savun",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ee7e368a08f5": {
+   "id": "ee7e368a08f5",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Kim hukuka aykırı işlem yaptıysa sonuçlarına katlanmalı",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Kim hukuka aykırı işlem yaptıysa veya yaparsa hiç şüphesiz sonuçlarına katlanmalıdır.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-kim-hukuka-aykiri-islem-yaptiysa-sonuclarina-katlanmali-960596.html",
+   "zaman": "2026-10-20T09:16:00+03:00",
+   "kelimeler": [
+    "aykir",
+    "cumhu",
+    "hukuk",
+    "islem",
+    "katla",
+    "kim",
+    "sonuc",
+    "yapti",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 09:33:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Üsküdar’da 3’üncü seçim",
+  "20.10 09:31:14  2 yeni haber",
   "20.10 09:15:56  6 yeni haber",
   "20.10 09:01:14  6 yeni haber",
   "20.10 08:46:00  3 yeni haber",
@@ -17788,9 +17843,7 @@
   "18.10 07:33:30  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 07:33:30  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Özgür Özel: Tek yolumuz kazanmak",
   "18.10 07:15:56  7 yeni haber",
-  "18.10 07:03:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 07:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'nın Limoges kentinde protestocular, 1357'den bu yana belediye b",
-  "18.10 07:01:14  1 yeni haber"
+  "18.10 07:03:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
