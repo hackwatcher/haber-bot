@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "24683748db18": {
-   "id": "24683748db18",
-   "kaynak": "Hürriyet",
-   "baslik": "Adana'da sokaklar göle döndü! Otomobil suya gömüldü",
-   "ozet": "Adana'da sağanak yağmurda sokaklar göle dönerken alt geçitten geçmeye çalışan bir otomobil ise suya gömüldü. Otomobil sürücüsü İsmail Yalçın ve 2 çocuğu itfaiye ekiplerince çıkartıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/adana-da-sokaklar-gole-dondu-otomobil-suya-gomuldu-43345389",
-   "zaman": "2026-10-17T16:15:00+03:00",
-   "kelimeler": [
-    "adana",
-    "dondu",
-    "gole",
-    "gomul",
-    "otomo",
-    "sokak",
-    "suya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ca27ea026d0b": {
    "id": "ca27ea026d0b",
    "kaynak": "Hürriyet",
@@ -2604,24 +2585,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "3e1513086cb8": {
-   "id": "3e1513086cb8",
-   "kaynak": "TRT Haber",
-   "baslik": "Yazar Cevat Özkaya son yolculuğuna uğurlandı",
-   "ozet": "Kolon kanseri nedeniyle 72 yaşında hayatını kaybeden Pınar Yayınları'nın kurucularından ve Genel Yayın Yönetmeni, yazar Cevat Özkaya İstanbul'da son yolculuğuna uğurlandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/yazar-cevat-ozkaya-son-yolculuguna-ugurlandi-960434.html",
-   "zaman": "2026-10-17T16:15:00+03:00",
-   "kelimeler": [
-    "cevat",
-    "ozkay",
-    "ugurl",
-    "yazar",
-    "yolcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8d60d8425c52"
   },
   "1bc673f05840": {
    "id": "1bc673f05840",
@@ -18600,7 +18563,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "NTV"
    ]
   },
   "0398926c0c3e": {
@@ -21973,7 +21937,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "e12c648f3a57": {
    "id": "e12c648f3a57",
@@ -22141,9 +22108,232 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "853933cdb7db": {
+   "id": "853933cdb7db",
+   "kaynak": "AA",
+   "baslik": "Kurtulmuş: Milletin parasını haksız yere cebine indiren kim varsa hesap sorulması lazım",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, fon soruşturmalarına ilişkin, \"Milletin parasını bir şekilde haksız yere cebine indiren kim varsa bunların hepsinden hesap sorulması lazım.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kurtulmus-milletin-parasini-haksiz-yere-cebine-indiren-kim-varsa-hesap-sorulmasi-lazim/4094686",
+   "zaman": "2026-10-20T15:51:33+03:00",
+   "kelimeler": [
+    "cebin",
+    "haksi",
+    "hesap",
+    "indir",
+    "kim",
+    "kurtu",
+    "lazim",
+    "mille",
+    "paras",
+    "sorul",
+    "varsa",
+    "yere"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b79310d5bea": {
+   "id": "4b79310d5bea",
+   "kaynak": "TRT Haber",
+   "baslik": "Bursa Milletvekili Torun AK Parti'ye katıldı",
+   "ozet": "Yeni Yol Partisi'nden istifa eden Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı. AK Parti'nin Meclis'teki sandalye sayısı 281'e yükseldi.",
+   "link": "https://www.trthaber.com/haber/gundem/bursa-milletvekili-torun-ak-partiye-katildi-960653.html",
+   "zaman": "2026-10-20T15:55:00+03:00",
+   "kelimeler": [
+    "ak",
+    "bursa",
+    "katil",
+    "mille",
+    "parti",
+    "torun",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "bbf278e1078a"
+  },
+  "162fd05b8155": {
+   "id": "162fd05b8155",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi",
+   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696",
+   "zaman": "2026-10-20T15:57:23+03:00",
+   "kelimeler": [
+    "atesk",
+    "belde",
+    "duzen",
+    "guney",
+    "hava",
+    "in",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41ec36d29bb5"
+  },
+  "9b897a1a0c04": {
+   "id": "9b897a1a0c04",
+   "kaynak": "TRT Haber",
+   "baslik": "Kurtulmuş: Terörsüz Türkiye, dünyaya anlatabileceğimiz bir Türkiye Modeli'dir",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Türkiye kendine özgü bir süreci yönetiyor. Bu, aslında Türkiye Modeli olarak artık dünyanın her yerinde anlatabileceğimiz bir model.",
+   "link": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-dunyaya-anlatabilecegimiz-bir-turkiye-modelidir-960654.html",
+   "zaman": "2026-10-20T16:01:00+03:00",
+   "kelimeler": [
+    "anlat",
+    "dir",
+    "dunya",
+    "kurtu",
+    "model",
+    "teror",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8d4f5df9aa13": {
+   "id": "8d4f5df9aa13",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş'tan fon soruşturması açıklaması",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, fon soruşturmalarına ilişkin, \"Milletin parasını bir şekilde haksız yere cebine indiren kim varsa bunların hepsinden hesap sorulması lazım. Öyle anlaşılıyor ki bunların bir kısmı bunu sistematik bir şekilde yapmışlar.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-fon-sorusturmasi-aciklamasi-43348700",
+   "zaman": "2026-10-20T16:03:15+03:00",
+   "kelimeler": [
+    "acikl",
+    "baska",
+    "fon",
+    "kurtu",
+    "sorus",
+    "tan",
+    "tbmm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "648319bf6f97": {
+   "id": "648319bf6f97",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti MKYK sona erdi | Parti Sözcüsü Çelik'ten önemli açıklamalar",
+   "ozet": "AK Parti MKYK sona erdi. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, toplantı sonrasında açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-mkyk-sona-erdi-parti-sozcusu-celikten-onemli-aciklamalar-43348634",
+   "zaman": "2026-10-20T16:04:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ak",
+    "celik",
+    "erdi",
+    "mkyk",
+    "oneml",
+    "parti",
+    "sona",
+    "sozcu",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "305b09c9b0a6"
+  },
+  "a35378db1ca8": {
+   "id": "a35378db1ca8",
+   "kaynak": "AA",
+   "baslik": "Rubio'dan olası ABD-Çin-Rusya görüşmesinin \"dünya için çok olumlu bir şey\" olacağı yorumu",
+   "ozet": "ABD Dışişleri Bakanı Rubio, ABD, Çin ve Rusya'nın silah kontrolü gibi konuları tartışacağı olası bir üçlü görüşmenin \"dünya için çok olumlu bir şey\" olacağını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/rubiodan-olasi-abd-cin-rusya-gorusmesinin-dunya-icin-cok-olumlu-bir-sey-olacagi-yorumu/4094710",
+   "zaman": "2026-10-20T16:06:31+03:00",
+   "kelimeler": [
+    "abd",
+    "cin",
+    "dan",
+    "dunya",
+    "gorus",
+    "olaca",
+    "olasi",
+    "oluml",
+    "rubio",
+    "rusya",
+    "sey",
+    "yorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a596819d335b": {
+   "id": "a596819d335b",
+   "kaynak": "NTV",
+   "baslik": "Dünyada üç kişide görülmüştü, Türkiye'de ilk. Tıp literatürüne girecek ameliyat Giresun'da yapıldı",
+   "ozet": "Giresun'da idrarda kanama şikayetiyle hastaneye başvuran mesane kanseri hastası Fahri Çakır'ın sağ böbreğinin leğen kemiği içinde olduğu belirlendi. Çakır, başarılı bir operasyonla sağlığına kavuştu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-dunyada-uc-kiside-gorulmustu-turkiyede-ilk-tip-literaturune-girecek-ameliyat-giresunda-yapildi-1747166",
+   "zaman": "2026-10-20T16:07:09+03:00",
+   "kelimeler": [
+    "ameli",
+    "dunya",
+    "girec",
+    "gires",
+    "gorul",
+    "ilk",
+    "kisid",
+    "liter",
+    "tip",
+    "turki",
+    "uc",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4dc3c0fcd1bb": {
+   "id": "4dc3c0fcd1bb",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Ekspere gerek yok\" dediler, pert aracı sağlam diye sattılar: 16 gözaltı",
+   "ozet": "İkinci el araç pazarında kilometre düşürme ve sahte rapor oyunuyla haksız kazanç sağlayan şüphelilere İstanbul ve Muğla’da eş zamanlı baskın yapıldı. 30 mağdurun tespit edildiği soruşturmada 16 kişi yakalandı, firari 2 şüpheli aranıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/ekspere-gerek-yok-dediler-pert-araci-saglam-diye-sattilar-16-gozalti-43348706",
+   "zaman": "2026-10-20T16:08:56+03:00",
+   "kelimeler": [
+    "16",
+    "araci",
+    "dedil",
+    "diye",
+    "ekspe",
+    "gerek",
+    "gozal",
+    "pert",
+    "sagla",
+    "satti"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7552312b7ad2": {
+   "id": "7552312b7ad2",
+   "kaynak": "NTV",
+   "baslik": "AK Parti Sözcüsü Çelik'ten fon açıklaması: Çalışmalar hızla sürüyor",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon konusunda devletin tüm kurumlarının görevinin başında olduğunu söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celikten-fon-aciklamasi-calismalar-hizla-suruyor-1747193",
+   "zaman": "2026-10-20T16:14:55+03:00",
+   "kelimeler": [
+    "acikl",
+    "ak",
+    "calis",
+    "celik",
+    "fon",
+    "hizla",
+    "parti",
+    "sozcu",
+    "suruy",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5ee9b15ba707"
   }
  },
  "kayit": [
+  "20.10 16:16:13  6 yeni haber",
   "20.10 16:01:30  6 yeni haber",
   "20.10 15:46:00  3 yeni haber",
   "20.10 15:31:11  3 yeni haber",
@@ -22342,8 +22532,7 @@
   "18.10 12:30:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
   "18.10 12:03:23  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 12:03:23  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Fuhuş operasyonunda mahkeme kararını verdi: İş yerlerine ruhsat iptali",
-  "18.10 12:01:20  2 yeni haber",
-  "18.10 11:46:00  1 yeni haber"
+  "18.10 12:01:20  2 yeni haber"
  ],
  "otomatik": false
 }
