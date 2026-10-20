@@ -16589,7 +16589,10 @@
     "uskud"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "c20211c081ec": {
    "id": "c20211c081ec",
@@ -16915,9 +16918,132 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d259fa031b08": {
+   "id": "d259fa031b08",
+   "kaynak": "TRT Haber",
+   "baslik": "NASA'nın minyatür insan beyinleri uzay istasyonuna ulaştı",
+   "ozet": "NASA'nın deney kapsamında Uluslararası Uzay İstasyonu'na gönderdiği minyatür insan beyni modelleri, mikro yerçekimi ve radyasyonun beyin hücreleri üzerindeki etkilerini incelemek için kullanılacak.",
+   "link": "https://www.trthaber.com/haber/dunya/nasanin-minyatur-insan-beyinleri-uzay-istasyonuna-ulasti-960588.html",
+   "zaman": "2026-10-20T08:16:00+03:00",
+   "kelimeler": [
+    "beyin",
+    "insan",
+    "istas",
+    "minya",
+    "nasa",
+    "nin",
+    "ulast",
+    "uzay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "061cbbd15032": {
+   "id": "061cbbd15032",
+   "kaynak": "Sözcü",
+   "baslik": "Milas Belediyesi'ne operasyon: Polis giriş çıkışları kapattı!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-milas-belediyesi-ne-operasyon-polis-giris-cikislari-kapatti-p370815",
+   "zaman": "2026-10-20T08:20:49+03:00",
+   "kelimeler": [
+    "beled",
+    "cikis",
+    "giris",
+    "kapat",
+    "milas",
+    "opera",
+    "polis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "fd10315e6417": {
+   "id": "fd10315e6417",
+   "kaynak": "Hürriyet",
+   "baslik": "Karabük'te kıskançlık kavgası kanlı bitti: Sevgilisini bıçaklayan kadın gözaltında",
+   "ozet": "Karabük'te kız arkadaşı Gözde T. ile tartışan Fuat G., kavganın büyümesi üzerine ekmek bıçağıyla yaralandı. Hastaneye kaldırılan Fuat G.'nin hayati tehlikesinin bulunduğu öğrenilirken, Gözde T. gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/karabukte-kiskanclik-kavgasi-kanli-bitti-sevgilisini-bicaklayan-kadin-gozaltinda-43347949",
+   "zaman": "2026-10-20T08:21:00+03:00",
+   "kelimeler": [
+    "bicak",
+    "bitti",
+    "gozal",
+    "kadin",
+    "kanli",
+    "karab",
+    "kavga",
+    "kiska",
+    "sevgi",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a1e58e17fd39": {
+   "id": "a1e58e17fd39",
+   "kaynak": "NTV",
+   "baslik": "Üsküdar Belediyesi'nde 3'üncü seçim. Başkanvekili seçilecek",
+   "ozet": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin'in yerine bugün yeni başkanvekili seçilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/uskudar-belediyesinde-3uncu-secim-baskanvekili-secilecek-1747095",
+   "zaman": "2026-10-20T08:27:56+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "nde",
+    "secil",
+    "secim",
+    "uncu",
+    "uskud"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1fb133178c78"
+  },
+  "14309b67571d": {
+   "id": "14309b67571d",
+   "kaynak": "NTV",
+   "baslik": "Ankara merkezli DAEŞ operasyonunda 14 gözaltı",
+   "ozet": "DAEŞ'in finansmanına yönelik soruşturma kapsamında, Suriye’deki kamplarda tutulan örgüt üyelerinin serbest bırakılması için yurt dışında toplayan 14 şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankara-merkezli-daes-operasyonunda-14-gozalti-1747092",
+   "zaman": "2026-10-20T08:28:45+03:00",
+   "kelimeler": [
+    "14",
+    "ankar",
+    "daes",
+    "gozal",
+    "merke",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ee5e7e02a53": {
+   "id": "3ee5e7e02a53",
+   "kaynak": "NTV",
+   "baslik": "Milas Belediyesi'ne operasyon. Binaya giriş ve çıkışlar durduruldu",
+   "ozet": "Muğla'da CHP'li Milas Belediyesi'ne yönelik operasyon düzenlendi. Belediyede yapılan aramalar nedeniyle binaya giriş ve çıkışların durdurulduğu belirtiliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-milas-belediyesine-operasyon-binaya-giris-ve-cikislar-durduruldu-1747094",
+   "zaman": "2026-10-20T08:29:46+03:00",
+   "kelimeler": [
+    "beled",
+    "binay",
+    "cikis",
+    "durdu",
+    "giris",
+    "milas",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "061cbbd15032"
   }
  },
  "kayit": [
+  "20.10 08:31:06  4 yeni haber",
   "20.10 08:18:04  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Park halindeki araçlara çarpan otomobil alev aldı: 2 kişi yaralandı",
   "20.10 08:16:03  3 yeni haber",
   "20.10 08:01:11  3 yeni haber",
@@ -17116,8 +17242,7 @@
   "18.10 07:01:14  1 yeni haber",
   "18.10 04:46:15  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
   "18.10 04:15:55  2 yeni haber",
-  "18.10 02:31:07  2 yeni haber",
-  "18.10 02:01:18  2 yeni haber"
+  "18.10 02:31:07  2 yeni haber"
  ],
  "otomatik": false
 }
