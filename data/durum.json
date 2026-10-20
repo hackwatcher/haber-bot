@@ -502,46 +502,6 @@
    "slayt": 1,
    "kanca": "Son dakika"
   },
-  "5b536b533983": {
-   "id": "5b536b533983",
-   "kaynak": "XHABER",
-   "baslik": "İstanbul Çekmeköy'de sel felaketini aktaran NTV muhabiri Beyzanur Özer'in kafasına, arkadan geçen İETT otobüsünün aynası çarptı.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30272",
-   "zaman": "2026-10-17T15:31:01+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "İstanbul Çekmeköy'de sel felaketini aktaran NTV muhabiri Beyzanur Özer'in kafasına, arkadan geçen İETT otobüsünün aynası çarptı.",
-   "tg_foto_url": "",
-   "tg_video_url": "https://cdn4.telesco.pe/file/651f4ad8a1.mp4?token=nZUJMHlmU4cR9Ezk2hYHrTqU_4kUF8mnmuqWg9ujHOsbxb8ZQltAfDFjiD7TTdy-H7RFlXm3G7v310NsHkZVjvfbRRPpy32B3tYzI--TV2rfNMuTOS9nVWuK46OcAV6RcKQsTDXQ5tjYOsiJMLIlT6lZX8OcmFpRPHm0zD6WvgujJykxSHpOfd11kusw-ghZl-HCgCOxgNz90uUfxPoHExbr_8M2RdmOMGllT-iQNK-L4reoY1CSleaWvqohzU2rHMDTeiOAZc3IvzRUW1LiAUDzuUEnJQ7xMP2dE_nyhPKPh5fI4VTtDGGjXFEjrRODB2ElC7mTm5RM8ywHrDEBVA",
-   "kelimeler": [
-    "aktar",
-    "arkad",
-    "aynas",
-    "beyza",
-    "carpt",
-    "cekme",
-    "felak",
-    "gecen",
-    "iett",
-    "in",
-    "istan",
-    "kafas",
-    "muhab",
-    "ntv",
-    "otobu",
-    "ozer",
-    "sel"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-18T01:48:01.308803+03:00",
-   "ig_id": "18109958930269931",
-   "reels_id": "18424865920158479",
-   "story_id": "18219186355345950",
-   "yorum_id": "hata: (#10) Application does not have permission for this action  (kod 10/-)",
-   "slayt": 5,
-   "kanca": "CANLI YAYINDA KAZA"
-  },
   "123b8948d02b": {
    "id": "123b8948d02b",
    "kaynak": "XHABER",
@@ -21832,9 +21792,75 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "aa9d4e0147d5"
+  },
+  "5fc17994b2fc": {
+   "id": "5fc17994b2fc",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere'de otobüslerde yüksek sesli müzik dinleyenlere 100 sterlin ceza",
+   "ozet": "İngiltere'de otobüslerde yüksek sesli müzik dinleyen ve rahatsız edici davranışlarda bulunanlara 100 sterlin para cezası verilecek.",
+   "link": "https://www.trthaber.com/haber/dunya/ingilterede-otobuslerde-yuksek-sesli-muzik-dinleyenlere-100-sterlin-ceza-960647.html",
+   "zaman": "2026-10-20T15:04:00+03:00",
+   "kelimeler": [
+    "100",
+    "ceza",
+    "dinle",
+    "ingil",
+    "muzik",
+    "otobu",
+    "sesli",
+    "sterl",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "666e26fae046": {
+   "id": "666e26fae046",
+   "kaynak": "AA",
+   "baslik": "Katar’dan İran’a Hürmüz Boğazı’ndaki internet kablolarını hedef almama çağrısı",
+   "ozet": "Katar, İran’ın Hürmüz Boğazı’ndan geçen deniz altı internet kablolarını hedef alma ihtimaline ilişkin, böyle bir adımın İran halkı dahil tüm bölge ülkelerine zarar vereceği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-dan-iran-a-hurmuz-bogazi-ndaki-internet-kablolarini-hedef-almama-cagrisi/4094626",
+   "zaman": "2026-10-20T15:11:28+03:00",
+   "kelimeler": [
+    "almam",
+    "bogaz",
+    "cagri",
+    "dan",
+    "hedef",
+    "hurmu",
+    "inter",
+    "iran",
+    "kablo",
+    "katar",
+    "ndaki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "be821400bbcb": {
+   "id": "be821400bbcb",
+   "kaynak": "AA",
+   "baslik": "İtalya'da şiddetli protestoların ardından hükümet, Milano'da asker görevlendirme hazırlığında",
+   "ozet": "İtalya Başbakan Yardımcısı Tajani, özellikle Milano kentinde şiddet olaylarına sahne olan protestolara yanıt olarak şehirde adli kolluk yetkilerine sahip 500 askerin görevlendirilmesinin de çıkaracakları yeni güvenlik paketinde yer alacağını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-siddetli-protestolarin-ardindan-hukumet-milanoda-asker-gorevlendirme-hazirliginda/4094628",
+   "zaman": "2026-10-20T15:12:08+03:00",
+   "kelimeler": [
+    "ardin",
+    "asker",
+    "gorev",
+    "hazir",
+    "hukum",
+    "italy",
+    "milan",
+    "prote",
+    "sidde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 15:31:11  3 yeni haber",
   "20.10 15:19:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaraydan Lille maçı öncesi UEFA'ya güvenlik başvurusu",
   "20.10 15:16:12  1 yeni haber",
   "20.10 15:01:28  11 yeni haber",
@@ -22033,8 +22059,7 @@
   "18.10 12:01:20  2 yeni haber",
   "18.10 11:46:00  1 yeni haber",
   "18.10 11:33:29  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 11:33:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Diyarbakır’da lezzetin sırrı sumak ekşisinde! Meftuneden duvaklı pilav",
-  "18.10 11:30:58  2 yeni haber"
+  "18.10 11:33:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Diyarbakır’da lezzetin sırrı sumak ekşisinde! Meftuneden duvaklı pilav"
  ],
  "otomatik": false
 }
