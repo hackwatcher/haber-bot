@@ -13657,7 +13657,10 @@
     "depre"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "42d5b2053e19": {
    "id": "42d5b2053e19",
@@ -17083,7 +17086,10 @@
     "yapil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f1f6fb84176d": {
    "id": "f1f6fb84176d",
@@ -17148,9 +17154,244 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f1f6fb84176d"
+  },
+  "d8beb1b3e870": {
+   "id": "d8beb1b3e870",
+   "kaynak": "AA",
+   "baslik": "İstanbul merkezli 3 ilde FETÖ'nün mahrem yapılanmasına yönelik operasyonda 15 şüpheli yakalandı",
+   "ozet": "İstanbul merkezli 3 ilde Fetullahçı Terör Örgütü'nün (FETÖ) mahrem yapılanmasına yönelik düzenlenen operasyonda 15 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-3-ilde-fetonun-mahrem-yapilanmasina-yonelik-operasyonda-15-supheli-yakalandi/4094036",
+   "zaman": "2026-10-20T08:30:29+03:00",
+   "kelimeler": [
+    "15",
+    "feto",
+    "ilde",
+    "istan",
+    "mahre",
+    "merke",
+    "nun",
+    "opera",
+    "suphe",
+    "yakal",
+    "yapil",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d8cc85b18cd"
+  },
+  "add0ca373f5f": {
+   "id": "add0ca373f5f",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankesörlü arama ve BankAsya detayı: 15 FETÖ şüphelisi gözaltında",
+   "ozet": "Kaçakçılık şubesinin yürüttüğü soruşturmada gizli tanık ifadeleri, Bank Asya hareketleri ve ankesörlü arama kayıtları deşifre edildi. İstanbul, Burdur ve Ordu'da eş zamanlı basılan 15 adreste, aralarında aktif ve ihraç kamu görevlilerinin de bulunduğu 15 şüpheli yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankesorlu-arama-ve-bankasya-detayi-15-feto-suphelisi-gozaltinda-43347962",
+   "zaman": "2026-10-20T08:43:48+03:00",
+   "kelimeler": [
+    "15",
+    "ankes",
+    "arama",
+    "banka",
+    "detay",
+    "feto",
+    "gozal",
+    "suphe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2ce7b41b2ba5": {
+   "id": "2ce7b41b2ba5",
+   "kaynak": "Hürriyet",
+   "baslik": "Milas Belediyesi'ne operasyon: Belediye binasında arama yapılıyor",
+   "ozet": "Muğla'nın Milas İlçe Belediyesi'nde polis ekiplerince operasyon düzenlendi. Belediye binasında arama yapılıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-milas-belediyesine-operasyon-belediye-binasinda-arama-yapiliyor-43347948",
+   "zaman": "2026-10-20T08:44:00+03:00",
+   "kelimeler": [
+    "arama",
+    "beled",
+    "binas",
+    "milas",
+    "opera",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5c29f9452412": {
+   "id": "5c29f9452412",
+   "kaynak": "TRT Haber",
+   "baslik": "Vize şirketlerine operasyon: 60 gözaltı kararı",
+   "ozet": "Sosyal medya ve internet üzerinden garantili vize ve garantilirandevu vaatleriyle vatandaşlardan ödeme aldıkları, taahhüt edilen hizmetlerin yerine getirilmediği durumlarda tahsil edilen bedelleri tamamen veya kısmen iade etmeyerek haksız menfaat sağladıkları iddialarına ilişkin…",
+   "link": "https://www.trthaber.com/haber/turkiye/vize-sirketlerine-operasyon-60-gozalti-karari-960594.html",
+   "zaman": "2026-10-20T08:45:00+03:00",
+   "kelimeler": [
+    "60",
+    "gozal",
+    "karar",
+    "opera",
+    "sirke",
+    "vize"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü",
+    "Hürriyet",
+    "NTV"
+   ]
+  },
+  "3b9bbe782f8a": {
+   "id": "3b9bbe782f8a",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş: Sahip olduğumuz tarihi birikim, geleceği birlikte şekillendirmek için kıymetli imkanlar sunmakta",
+   "ozet": "TBMM Başkanı Kurtulmuş, \"Sahip olduğumuz tarihi birikim, insani bağlar ve potansiyelimiz geleceği birlikte şekillendirmek için hepimize fevkalade kıymetli imkanlar sunmaktadır.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-sahip-oldugumuz-tarihi-birikim-gelecegi-birlikte-sekillendirmek-icin-kiymetli-imkanlar-sunmakta/4094040",
+   "zaman": "2026-10-20T08:46:29+03:00",
+   "kelimeler": [
+    "baska",
+    "birik",
+    "birli",
+    "gelec",
+    "imkan",
+    "kiyme",
+    "kurtu",
+    "oldug",
+    "sahip",
+    "sekil",
+    "sunma",
+    "tarih",
+    "tbmm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "846f649f632d": {
+   "id": "846f649f632d",
+   "kaynak": "TRT Haber",
+   "baslik": "Milas Belediyesi'ne rüşvet soruşturması",
+   "ozet": "Muğla'da Milas Belediyesine yönelik rüşvet ve ihaleye fesat karıştırma iddialarına ilişkin yürütülen soruşturma kapsamında, aralarında Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da bulunduğu 35 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/milas-belediyesine-rusvet-sorusturmasi-960593.html",
+   "zaman": "2026-10-20T08:49:00+03:00",
+   "kelimeler": [
+    "beled",
+    "milas",
+    "rusve",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e6f1da7cdb0b": {
+   "id": "e6f1da7cdb0b",
+   "kaynak": "Sözcü",
+   "baslik": "Vize şirketlerine soruşturma: 60 şüpheli hakkında gözaltı kararı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/vize-sirketlerine-sorusturma-60-supheli-hakkinda-gozalti-karari-p370835",
+   "zaman": "2026-10-20T08:49:50+03:00",
+   "kelimeler": [
+    "60",
+    "gozal",
+    "hakki",
+    "karar",
+    "sirke",
+    "sorus",
+    "suphe",
+    "vize"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c29f9452412"
+  },
+  "eccbbf4a99d8": {
+   "id": "eccbbf4a99d8",
+   "kaynak": "Hürriyet",
+   "baslik": "Vize şirketlerine 'bot' operasyonu: 60 şüpheli gözaltına alındı",
+   "ozet": "8 ilde vize şirketlerine yönelik soruşturmada 60 şüpheli hakkında gözaltı kararı verildi",
+   "link": "https://www.hurriyet.com.tr/gundem/vize-sirketlerine-bot-operasyonu-60-supheli-gozaltina-alindi-43347968",
+   "zaman": "2026-10-20T08:52:00+03:00",
+   "kelimeler": [
+    "60",
+    "alind",
+    "bot",
+    "gozal",
+    "opera",
+    "sirke",
+    "suphe",
+    "vize"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c29f9452412"
+  },
+  "df9aaf02fe98": {
+   "id": "df9aaf02fe98",
+   "kaynak": "NTV",
+   "baslik": "Aşırı sağanak gitti, hava açtı: Sıcaklık 30 dereceye yaklaşacak, yağmur için yeni tarih belli oldu",
+   "ozet": "Türkiye şiddetli yağmurun ardından ılık bir havanın etkisi altına girdi. Bazı bölgelerde hava sıcaklığı 30 dereceye yaklaşacak. İstanbul'da yeni yağışlı hava sistemi için ise tarih belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-asiri-saganak-gitti-hava-acti-sicaklik-30-dereceye-yaklasacak-yagmur-icin-yeni-tarih-belli-oldu-1747097",
+   "zaman": "2026-10-20T08:52:30+03:00",
+   "kelimeler": [
+    "30",
+    "acti",
+    "asiri",
+    "belli",
+    "derec",
+    "gitti",
+    "hava",
+    "sagan",
+    "sicak",
+    "tarih",
+    "yagmu",
+    "yakla",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0fec5cfebf2d": {
+   "id": "0fec5cfebf2d",
+   "kaynak": "AA",
+   "baslik": "Pasifik'teki ada ülkesi Vanuatu açıklarında 6,3 büyüklüğünde deprem",
+   "ozet": "Pasifik'teki ada ülkesi Vanuatu açıklarında 6,3 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/pasifikteki-ada-ulkesi-vanuatu-aciklarinda-6-3-buyuklugunde-deprem/4094043",
+   "zaman": "2026-10-20T08:55:27+03:00",
+   "kelimeler": [
+    "acikl",
+    "ada",
+    "buyuk",
+    "depre",
+    "pasif",
+    "teki",
+    "ulkes",
+    "vanua"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d9ac3e7c3217"
+  },
+  "409b9ef94b9e": {
+   "id": "409b9ef94b9e",
+   "kaynak": "NTV",
+   "baslik": "8 şehirde vize operasyonu: 60 gözaltı kararı",
+   "ozet": "İstanbul merkezli sekiz şehirde vize dolandırıcılığı operasyonunda 60 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-8-sehirde-vize-operasyonu-60-gozalti-karari-1747106",
+   "zaman": "2026-10-20T08:56:54+03:00",
+   "kelimeler": [
+    "60",
+    "gozal",
+    "karar",
+    "opera",
+    "sehir",
+    "vize"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c29f9452412"
   }
  },
  "kayit": [
+  "20.10 09:01:14  6 yeni haber",
   "20.10 08:46:00  3 yeni haber",
   "20.10 08:31:06  4 yeni haber",
   "20.10 08:18:04  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Park halindeki araçlara çarpan otomobil alev aldı: 2 kişi yaralandı",
@@ -17349,8 +17590,7 @@
   "18.10 07:03:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 07:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'nın Limoges kentinde protestocular, 1357'den bu yana belediye b",
   "18.10 07:01:14  1 yeni haber",
-  "18.10 04:46:15  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss",
-  "18.10 04:15:55  2 yeni haber"
+  "18.10 04:46:15  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss"
  ],
  "otomatik": false
 }
