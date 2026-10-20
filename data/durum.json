@@ -16562,7 +16562,10 @@
     "yakla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8379361cd199": {
    "id": "8379361cd199",
@@ -16583,6 +16586,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7f295479a782": {
+   "id": "7f295479a782",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail, Filistinlilere ait yaklaşık 183 dönüm araziye el koydu",
+   "ozet": "Soykırımcı İsrail'in, işgal altındaki Batı Şeria'nın El Halil ve Beytüllahim kentlerinde Filistinlilere ait yaklaşık 183 dönüm araziye el koyduğu belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu-960578.html",
+   "zaman": "2026-10-20T03:28:00+03:00",
+   "kelimeler": [
+    "183",
+    "ait",
+    "arazi",
+    "donum",
+    "el",
+    "filis",
+    "isgal",
+    "israi",
+    "koydu",
+    "yakla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a8199ee26f7f"
   }
  },
  "kayit": [
