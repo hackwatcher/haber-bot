@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "551e33fd3350": {
-   "id": "551e33fd3350",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan vefatının 8. yılında Ara Güler'i andı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, duayen foto muhabiri Ara Güler'i vefatının 8'inci yılında yad etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-vefatinin-8-yilinda-ara-guleri-andi-43345631",
-   "zaman": "2026-10-17T20:53:00+03:00",
-   "kelimeler": [
-    "andi",
-    "ara",
-    "cumhu",
-    "erdog",
-    "guler",
-    "vefat",
-    "yilin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "AA"
-   ]
-  },
   "21df67c47114": {
    "id": "21df67c47114",
    "kaynak": "Hürriyet",
@@ -2104,45 +2081,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "2a5e9959ce15": {
-   "id": "2a5e9959ce15",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan vefatının 8. yılında Ara Güler'i andı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, duayen foto muhabiri Ara Güler'i vefatının 8'inci yılında yad etti.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-vefatinin-8-yilinda-ara-guleri-andi-960437.html",
-   "zaman": "2026-10-17T20:51:00+03:00",
-   "kelimeler": [
-    "andi",
-    "ara",
-    "cumhu",
-    "erdog",
-    "guler",
-    "vefat",
-    "yilin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "551e33fd3350"
-  },
-  "1be39acad5d0": {
-   "id": "1be39acad5d0",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye, uluslararası keskin nişancı yarışmasında birinci oldu",
-   "ozet": "Türkiye, 20 ülkeden 96 personelin katıldığı 8. BORAN Uluslararası Keskin Nişancı Yarışması'nda birincilik elde etti. Polis Özel Harekat Başkanlığı takımı birinci, Özel Kuvvetler Komutanlığı takımı ikinci, Kara Kuvvetleri Komutanlığı takımı ise üçüncü oldu.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-uluslararasi-keskin-nisanci-yarismasinda-birinci-oldu-960438.html",
-   "zaman": "2026-10-17T20:55:00+03:00",
-   "kelimeler": [
-    "birin",
-    "keski",
-    "nisan",
-    "turki",
-    "ulusl",
-    "yaris"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "21df67c47114"
   },
   "090c78a99f21": {
    "id": "090c78a99f21",
@@ -10214,7 +10152,9 @@
    ],
    "durum": "yeni",
    "oncelikli": true,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d7ff842637ce": {
    "id": "d7ff842637ce",
@@ -24036,7 +23976,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "93ebd004a901": {
    "id": "93ebd004a901",
@@ -24105,9 +24048,123 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ab51fe841092": {
+   "id": "ab51fe841092",
+   "kaynak": "AA",
+   "baslik": "Türk Telekom Basketbol Takımı, giydiği antrenman formalarıyla COP31'e dikkati çekti",
+   "ozet": "Türk Telekom oyuncuları, Antalya'da düzenlenecek COP31 ile ilgili farkındalık yaratmak için BKT Avrupa Kupası B Grubu'nda Siauliai Basketbol ile oynadıkları maç öncesi ısınmaya geri dönüştürülebilir malzemeden üretilmiş formalarla çıktı.",
+   "link": "https://www.aa.com.tr/tr/spor/turk-telekom-basketbol-takimi-giydigi-antrenman-formalariyla-cop31e-dikkati-cekti/4094978",
+   "zaman": "2026-10-20T20:31:00+03:00",
+   "kelimeler": [
+    "antre",
+    "baske",
+    "cekti",
+    "cop31",
+    "dikka",
+    "forma",
+    "giydi",
+    "takim",
+    "telek",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bfe22c41b7cf": {
+   "id": "bfe22c41b7cf",
+   "kaynak": "AA",
+   "baslik": "Yunanistan'da öğrenciler yüksek kiraları ve hayat pahalılığını protesto için çadır kurdu",
+   "ozet": "Yunanistan'da öğrenciler, yüksek kiralara ve yaşam maliyetinin yol açtığı sorunlara dikkati çekmek amacıyla Parlamento binası önündeki Sintagma Meydanı'na sembolik olarak çadır kurarak eylem yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-ogrenciler-yuksek-kiralari-ve-hayat-pahaliligini-protesto-icin-cadir-kurdu/4094987",
+   "zaman": "2026-10-20T20:45:45+03:00",
+   "kelimeler": [
+    "cadir",
+    "hayat",
+    "kiral",
+    "kurdu",
+    "ogren",
+    "pahal",
+    "prote",
+    "yukse",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4871703a349a": {
+   "id": "4871703a349a",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe-Slavia Prag maçı öncesinde taklit ürün satanlara geçit verilmedi",
+   "ozet": "Emniyet güçleri, Fenerbahçe-Slavia Prag maçı öncesinde stat çevresinde taklit ürün satıcılarına geçit vermedi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-maci-oncesinde-taklit-urun-satanlara-gecit-verilmedi/4094988",
+   "zaman": "2026-10-20T20:47:08+03:00",
+   "kelimeler": [
+    "fener",
+    "gecit",
+    "maci",
+    "onces",
+    "prag",
+    "satan",
+    "slavi",
+    "takli",
+    "urun",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "86b34bebed3f"
+  },
+  "07eed1e4daee": {
+   "id": "07eed1e4daee",
+   "kaynak": "AA",
+   "baslik": "Fransa'da savcılık, AP üyesi Hassan'ın 2 yıl siyasetten men edilmesini talep etti",
+   "ozet": "Fransa'da savcılık, Filistin asıllı Avrupa Parlamentosu (AP) üyesi Rima Hassan hakkında \"terör propagandası\" yaptığı gerekçesiyle 2 yıl siyasetten men cezası verilmesini talep etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-savcilik-ap-uyesi-hassanin-2-yil-siyasetten-men-edilmesini-talep-etti/4094991",
+   "zaman": "2026-10-20T20:49:17+03:00",
+   "kelimeler": [
+    "ap",
+    "edilm",
+    "etti",
+    "frans",
+    "hassa",
+    "in",
+    "men",
+    "savci",
+    "siyas",
+    "talep",
+    "uyesi",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ce3bbc78d69b": {
+   "id": "ce3bbc78d69b",
+   "kaynak": "TRT Haber",
+   "baslik": "DMM: Avrupa çöpünü Türkiye'ye döküyor yönündeki paylaşımların manipülasyon içeriyor",
+   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Avrupa çöpünü Türkiye'ye döküyor\" yönündeki paylaşımların manipülasyon içerdiğini aktardı.",
+   "link": "https://www.trthaber.com/haber/gundem/dmm-avrupa-copunu-turkiyeye-dokuyor-yonundeki-paylasimlarin-manipulasyon-iceriyor-960678.html",
+   "zaman": "2026-10-20T20:54:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "copun",
+    "dmm",
+    "dokuy",
+    "iceri",
+    "manip",
+    "payla",
+    "turki",
+    "ye",
+    "yonun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "424c913e8ad6"
   }
  },
  "kayit": [
+  "20.10 21:01:24  3 yeni haber",
   "20.10 20:46:02  2 yeni haber",
   "20.10 20:31:18  3 yeni haber",
   "20.10 20:23:36  2 yeni haber",
@@ -24306,8 +24363,7 @@
   "18.10 17:01:26  1 yeni haber",
   "18.10 16:39:28  1 yeni haber",
   "18.10 16:31:12  1 yeni haber",
-  "18.10 16:15:55  1 yeni haber",
-  "18.10 15:46:07  4 yeni haber"
+  "18.10 16:15:55  1 yeni haber"
  ],
  "otomatik": false
 }
