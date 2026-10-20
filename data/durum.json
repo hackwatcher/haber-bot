@@ -1837,26 +1837,6 @@
     "AA"
    ]
   },
-  "6e071ab07701": {
-   "id": "6e071ab07701",
-   "kaynak": "NTV",
-   "baslik": "Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama",
-   "ozet": "Takasbank, Takasbank Para Piyasası (TPP) aracılığıyla belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddialara ilişkin açıklama yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/takasbanktan-tpp-ve-tefas-iddialarina-iliskin-aciklama-1746780",
-   "zaman": "2026-10-18T00:33:24+03:00",
-   "kelimeler": [
-    "acikl",
-    "iddia",
-    "ilisk",
-    "takas",
-    "tan",
-    "tefas",
-    "tpp"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3c755607f91b"
-  },
   "6154f52fd229": {
    "id": "6154f52fd229",
    "kaynak": "TRT Haber",
@@ -18492,7 +18472,8 @@
     "zorla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "eaf801df3bff": {
    "id": "eaf801df3bff",
@@ -25011,9 +24992,142 @@
    "fb_reels_id": "4474364256136903",
    "slayt": 5,
    "kanca": "KADERDEN KAÇAMADI"
+  },
+  "baa08482d3dc": {
+   "id": "baa08482d3dc",
+   "kaynak": "AA",
+   "baslik": "Filistinlilerin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırılarında 4 kişi yaralandı",
+   "ozet": "Filistinlilerin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın farklı bölgelerinde düzenledikleri saldırılarda 4 Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistinlilerin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-4-kisi-yaralandi/4095156",
+   "zaman": "2026-10-21T00:12:52+03:00",
+   "kelimeler": [
+    "bati",
+    "daki",
+    "filis",
+    "gasbe",
+    "israi",
+    "kisi",
+    "saldi",
+    "seria",
+    "topra",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "60f51f35eb60"
+  },
+  "633c30da9602": {
+   "id": "633c30da9602",
+   "kaynak": "AA",
+   "baslik": "Irak-İran arasındaki Şeyb Sınır Kapısı’nın kapatıldığı iddia edildi",
+   "ozet": "Irak ve İran arasındaki Şeyb Sınır Kapısı’nın, Başbakan Ali ez-Zeydi’nin talimatıyla kapatıldığı öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/irak-iran-arasindaki-seyb-sinir-kapisi-nin-kapatildigi-iddia-edildi/4095157",
+   "zaman": "2026-10-21T00:12:55+03:00",
+   "kelimeler": [
+    "arasi",
+    "edild",
+    "iddia",
+    "irak",
+    "iran",
+    "kapat",
+    "kapis",
+    "nin",
+    "seyb",
+    "sinir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "74105584d544": {
+   "id": "74105584d544",
+   "kaynak": "AA",
+   "baslik": "Netflix'in geliri üçüncü çeyrekte yüzde 12 arttı",
+   "ozet": "Küresel yayın platformu Netflix'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yaklaşık yüzde 12 artarak 12,9 milyar dolara yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/netflixin-geliri-ucuncu-ceyrekte-yuzde-12-artti/4095162",
+   "zaman": "2026-10-21T00:18:39+03:00",
+   "kelimeler": [
+    "12",
+    "artti",
+    "ceyre",
+    "gelir",
+    "in",
+    "netfl",
+    "ucunc",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "c3fc1aa68c02": {
+   "id": "c3fc1aa68c02",
+   "kaynak": "AA",
+   "baslik": "SpaceX'in geliri üçüncü çeyrekte yüzde 161 arttı",
+   "ozet": "SpaceX'in geliri, yapay zeka segmentinin ve Starlink abone sayısındaki artışın etkisiyle 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 161 yükseldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/spacexin-geliri-ucuncu-ceyrekte-yuzde-161-artti/4095172",
+   "zaman": "2026-10-21T00:28:35+03:00",
+   "kelimeler": [
+    "161",
+    "artti",
+    "ceyre",
+    "gelir",
+    "in",
+    "space",
+    "ucunc",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "74105584d544"
+  },
+  "4c5b6eddd274": {
+   "id": "4c5b6eddd274",
+   "kaynak": "TRT Haber",
+   "baslik": "SPK: Pusula, Alnus ve Bulls yatırım şirketlerinin faaliyetleri durduruldu",
+   "ozet": "SPK'dan yapılan açıklamada, Pusula, Alnus ve Bulls yatırım şirketlerinin faaliyetlerinin durdurulduğu belirtildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/spk-pusula-alnus-ve-bulls-yatirim-sirketlerinin-faaliyetleri-durduruldu-960691.html",
+   "zaman": "2026-10-21T00:32:00+03:00",
+   "kelimeler": [
+    "alnus",
+    "bulls",
+    "durdu",
+    "faali",
+    "pusul",
+    "sirke",
+    "spk",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f29bc9c0ae6": {
+   "id": "2f29bc9c0ae6",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret: 'Yeni bir stratejik ilişkinin başlangıcı'",
+   "ozet": "Mark Carney bugün Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret gerçekleştiren ilk lider olacak. Ziyaret hem sembolik hem de çok kapsamlı gündemi nedeniyle Türkiye-Kanada ilişkilerinde tarihi bir dönüm noktası olarak değerlendiriliyor.",
+   "link": "https://www.bbc.com/turkce/articles/c5m2dz18pr4ko",
+   "zaman": "2026-10-21T00:39:50+03:00",
+   "kelimeler": [
+    "basba",
+    "basla",
+    "dan",
+    "duzey",
+    "ilisk",
+    "ilk",
+    "kanad",
+    "resmi",
+    "strat",
+    "turki",
+    "ye",
+    "yeni",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 00:46:07  4 yeni haber",
   "21.10 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Arkadaşının öldüğü trafik kazasından sağ kurtulmuştu! 10 gün sonra fec",
   "21.10 00:31:12  1 yeni haber",
   "21.10 00:16:08  1 yeni haber",
@@ -25212,8 +25326,7 @@
   "18.10 22:31:11  2 yeni haber",
   "18.10 22:16:03  3 yeni haber",
   "18.10 21:46:02  3 yeni haber",
-  "18.10 21:31:24  1 yeni haber",
-  "18.10 21:01:16  2 yeni haber"
+  "18.10 21:31:24  1 yeni haber"
  ],
  "otomatik": false
 }
