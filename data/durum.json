@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "a4f2fc9786b6": {
-   "id": "a4f2fc9786b6",
-   "kaynak": "Hürriyet",
-   "baslik": "Şanlıurfa'daki uyuşturucu operasyonunda 29 tutuklama",
-   "ozet": "İçişleri Bakanlığı, Şanlıurfa'da uyuşturucu satıcılarına yönelik düzenlenen operasyonda gözaltına alınan 29 zanlının tutuklandığını bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/sanliurfadaki-uyusturucu-operasyonunda-29-tutuklama-43345156",
-   "zaman": "2026-10-17T12:54:48+03:00",
-   "kelimeler": [
-    "29",
-    "daki",
-    "opera",
-    "sanli",
-    "tutuk",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "34bbdf68794f": {
-   "id": "34bbdf68794f",
-   "kaynak": "Hürriyet",
-   "baslik": "Gülistan Doku soruşturması | Çalıştığı kafenin üst katındaki kameraların görüntüleri dosyada yok",
-   "ozet": "Tunceli’de Gülistan Doku soruşturmasında Gülistan'ın çalıştığı kafede sorumlu olduğu üst kat görüntülerinin dosyada olmadığı, yalnızca kafeye giriş ve çıkış görüntülerinin yer aldığı ortaya çıktı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gulistan-doku-sorusturmasi-calistigi-kafenin-ust-katindaki-kameralarin-goruntuleri-dosyada-yok-43345153",
-   "zaman": "2026-10-17T12:57:27+03:00",
-   "kelimeler": [
-    "calis",
-    "doku",
-    "dosya",
-    "gorun",
-    "gulis",
-    "kafen",
-    "kamer",
-    "katin",
-    "sorus",
-    "ust"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T13:02:10.321330+03:00",
-   "ig_id": "18107656958254403",
-   "reels_id": "18033056270904883",
-   "story_id": "18228069949330598",
-   "slayt": 1,
-   "kanca": "Son dakika"
-  },
   "88dd0ca039a6": {
    "id": "88dd0ca039a6",
    "kaynak": "Hürriyet",
@@ -7143,7 +7097,8 @@
     "ulasi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d890d6a47da8": {
    "id": "d890d6a47da8",
@@ -7348,7 +7303,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "34c3c01b985f": {
@@ -18922,7 +18878,10 @@
     "yasan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "14ba8515e648": {
    "id": "14ba8515e648",
@@ -20448,9 +20407,244 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "00059e8b3238": {
+   "id": "00059e8b3238",
+   "kaynak": "AA",
+   "baslik": "Türkiye, 2028 Olimpiyatları'na pist ve yol bisikletinde de kota hedefliyor",
+   "ozet": "Türkiye Bisiklet Federasyonu Başkanı Emin Müftüoğlu, 2028 Los Angeles Olimpiyat Oyunları'nda hem pist hem de yol bisikletinde kota almayı hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-2028-olimpiyatlarina-pist-ve-yol-bisikletinde-de-kota-hedefliyor/4094242",
+   "zaman": "2026-10-20T11:07:42+03:00",
+   "kelimeler": [
+    "2028",
+    "bisik",
+    "hedef",
+    "kota",
+    "na",
+    "olimp",
+    "pist",
+    "turki",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8d691d52b6b7": {
+   "id": "8d691d52b6b7",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da selde kaybolan bir kişinin daha cansız bedenine ulaşıldı",
+   "ozet": "İstanbul'daki yağış nedeniyle Sarıyer ilçesine bağlı Ayazağa Mahallesi'nde meydana gelen selde kaybolan Ahmet Derin'in cansız bedeni Haliç'te bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-selde-kaybolan-bir-kisinin-daha-cansiz-bedenine-ulasildi/4094401",
+   "zaman": "2026-10-20T12:41:10+03:00",
+   "kelimeler": [
+    "beden",
+    "cansi",
+    "istan",
+    "kaybo",
+    "kisin",
+    "selde",
+    "ulasi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "01afdc080aeb"
+  },
+  "d924eb877390": {
+   "id": "d924eb877390",
+   "kaynak": "AA",
+   "baslik": "ABD'deki Kongre ara seçimleri yaklaşırken anketlerdeki tablo netleşiyor",
+   "ozet": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken yapılan anketlerdeki tablolar da netleşmeye başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor/4094402",
+   "zaman": "2026-10-20T12:41:36+03:00",
+   "kelimeler": [
+    "abd",
+    "anket",
+    "ara",
+    "deki",
+    "kongr",
+    "netle",
+    "secim",
+    "tablo",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5b05709e57b3": {
+   "id": "5b05709e57b3",
+   "kaynak": "AA",
+   "baslik": "Özbek üçüz kız kardeşlerin tıp eğitimi, İbn-i Sina'nın topraklarından Türkiye'ye uzandı",
+   "ozet": "Özbekistan'ın Buhara kentinde tıp eğitimine başlayan üçüz kız kardeşler Sabina, Medine ve Zarina Hamreyava, doktorluk yolculuklarına Türkiye'de devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/ozbek-ucuz-kiz-kardeslerin-tip-egitimi-ibn-i-sinanin-topraklarindan-turkiyeye-uzandi/4094407",
+   "zaman": "2026-10-20T12:43:53+03:00",
+   "kelimeler": [
+    "egiti",
+    "ibn",
+    "karde",
+    "kiz",
+    "nin",
+    "ozbek",
+    "sina",
+    "tip",
+    "topra",
+    "turki",
+    "ucuz",
+    "uzand",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "64cd72a62793": {
+   "id": "64cd72a62793",
+   "kaynak": "Hürriyet",
+   "baslik": "1 Kasım’da binlerce kişi dolandırılabilir! Bu yöntemlere karşı hazırlıklı olun... Uzman isim anlattı: İşte yaşanabilecek en felaket senaryo",
+   "ozet": "1 Kasım 2026 tarihi itibarıyla yürürlüğe girecek olan 15 yaş altı sosyal medya yasağı ve düzenlemesi, dijital dünyada yeni bir dönemi başlatırken, siber dolandırıcılar için de biçilmiş kaftan niteliğinde bir zemin hazırlıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/1-kasimda-binlerce-kisi-dolandirilabilir-bu-yontemlere-karsi-hazirlikli-olun-uzman-isim-anlatti-iste-yasanabilecek-en-felaket-senaryo-43348322",
+   "zaman": "2026-10-20T12:45:01+03:00",
+   "kelimeler": [
+    "anlat",
+    "binle",
+    "dolan",
+    "felak",
+    "hazir",
+    "isim",
+    "iste",
+    "karsi",
+    "kasim",
+    "kisi",
+    "olun",
+    "senar",
+    "uzman",
+    "yasan",
+    "yonte"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9b719ae8beb6": {
+   "id": "9b719ae8beb6",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye'de ilk kez gerçekleştirildi: Sağ böbreği leğen kemiğinde olan hastaya başarılı operasyon",
+   "ozet": "Giresun’da idrarda kanama şikayetiyle hastaneye başvuran mesane kanseri hastası Fahri Çakır'ın sağ böbreğinin leğen kemiği içinde olduğu belirlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiyede-ilk-kez-gerceklestirildi-sag-bobregi-legen-kemiginde-olan-hastaya-basarili-operasyon-43348397",
+   "zaman": "2026-10-20T12:45:13+03:00",
+   "kelimeler": [
+    "basar",
+    "bobre",
+    "gerce",
+    "hasta",
+    "ilk",
+    "kemig",
+    "kez",
+    "legen",
+    "opera",
+    "sag",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ebdb4789a066": {
+   "id": "ebdb4789a066",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin yenilenebilir enerji hamlesi yakıt maliyetlerini düşürüyor, enerji güvenliğini artırıyor",
+   "ozet": "Yenilenebilir enerjideki hızlı yükselişle fosil yakıt ithalatını azaltan Türkiye, COP31 ev sahibi olarak bu ivmeyi daha da ileriye taşıma fırsatına sahip.",
+   "link": "https://www.aa.com.tr/tr/analiz/turkiyenin-yenilenebilir-enerji-hamlesi-yakit-maliyetlerini-dusuruyor-enerji-guvenligini-artiriyor/4094415",
+   "zaman": "2026-10-20T12:47:17+03:00",
+   "kelimeler": [
+    "artir",
+    "dusur",
+    "enerj",
+    "guven",
+    "hamle",
+    "maliy",
+    "nin",
+    "turki",
+    "yakit",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d4b732a15333": {
+   "id": "d4b732a15333",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\"",
+   "ozet": "İstanbul'da tarihi bir palamut bolluğu yaşanıyor. Balıkçılar, uzun yıllardır bu oranda bolluk görmediklerini anlatırken, palamudun toptan fiyatı 25 liraya kadar geriledi.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-tarihi-palamut-bollugu-1987den-beri-boylesini-gormedim-1747158",
+   "zaman": "2026-10-20T12:48:29+03:00",
+   "kelimeler": [
+    "1987",
+    "beri",
+    "bollu",
+    "boyle",
+    "den",
+    "gorme",
+    "istan",
+    "palam",
+    "tarih"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8e945d6f51f9"
+  },
+  "afc0e5169eb7": {
+   "id": "afc0e5169eb7",
+   "kaynak": "Hürriyet",
+   "baslik": "6 ilde DEAŞ operasyonu: 11 gözaltı",
+   "ozet": "Mardin merkezli 6 ilde, terör örgütü DEAŞ’ın finans kaynaklarına yönelik operasyonda 11 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/6-ilde-deas-operasyonu-11-gozalti-43348409",
+   "zaman": "2026-10-20T12:53:15+03:00",
+   "kelimeler": [
+    "11",
+    "deas",
+    "gozal",
+    "ilde",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f46c382cff5"
+  },
+  "ba8fcb64ce76": {
+   "id": "ba8fcb64ce76",
+   "kaynak": "XHABER",
+   "baslik": "Özgür Özel: \"Tayyip Erdoğan basın mensuplarına, \"Benim berberime gidip benim gibi tıraş olacaksınız\" dediği gün, Allah'ın izniyle Kuzey Kore'yi de...",
+   "ozet": "Özgür Özel: \"Tayyip Erdoğan basın mensuplarına, \"Benim berberime gidip benim gibi tıraş olacaksınız\" dediği gün, Allah'ın izniyle Kuzey Kore'yi de geride bırakacağız!\"",
+   "link": "https://t.me/sahinozkan000/30296",
+   "zaman": "2026-10-20T13:00:56+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Özgür Özel: \"Tayyip Erdoğan basın mensuplarına, \"Benim berberime gidip benim gibi tıraş olacaksınız\" dediği gün, Allah'ın izniyle Kuzey Kore'yi de geride bırakacağız!\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/DP7D_B4hU03-V3f3SQA2o0yYXkwe1RHkD-pmWZH_2eLXBjlKKGAyG13NMskUAE-WwM_GgANvfrw4X7QSktMY2KhT5pbIiGyLOlnYVWVOgoOgmzYPv4aR-KBCqDwZh35XMGOm1BV329u2m_iNMTDDQNxWpCteHayl7AJEJ4r2_MXwF7wKWYQnS0TBaRv-J7echr3eJRDLluXsaHj4TfAis71MXzr8D2e3KwnU4l4V7YQd3bmt18el-Fe0PCKSNjwopp9qrOZ0l-L94sgJwCTuomzCDG5EK_DQSBrXH0rLoc6kVgnXujpopMyX5sGUAlxRp0_h3gGGQRdUmqQQjEYwQg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "allah",
+    "basin",
+    "benim",
+    "berbe",
+    "dedig",
+    "erdog",
+    "gidip",
+    "gun",
+    "in",
+    "izniy",
+    "kore",
+    "kuzey",
+    "mensu",
+    "olaca",
+    "ozel",
+    "ozgur",
+    "tayyi",
+    "tiras",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 13:01:42  7 yeni haber",
   "20.10 12:46:08  6 yeni haber",
   "20.10 12:46:08  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "20.10 12:31:07  8 yeni haber",
@@ -20649,8 +20843,7 @@
   "18.10 10:04:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 10:04:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · İstanbul Beşiktaş’ta düzenlenen operasyonla, kripto balinası Richard J",
   "18.10 10:01:23  1 yeni haber",
-  "18.10 09:46:00  1 yeni haber",
-  "18.10 09:33:32  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 09:46:00  1 yeni haber"
  ],
  "otomatik": false
 }
