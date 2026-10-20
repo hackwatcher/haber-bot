@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "2f01cb58e91c": {
-   "id": "2f01cb58e91c",
-   "kaynak": "Sözcü",
-   "baslik": "Pınar Güneş'i öldürdüğü öne sürülen 17 yaşındaki şüpheli tutuklandı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/pinar-gunesi-oldurdugu-one-surulen-17-yasindaki-supheli-tutuklandi-p370161",
-   "zaman": "2026-10-17T23:28:25+03:00",
-   "kelimeler": [
-    "17",
-    "gunes",
-    "oldur",
-    "one",
-    "pinar",
-    "suphe",
-    "surul",
-    "tutuk",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1fd7afa9fbe0": {
    "id": "1fd7afa9fbe0",
    "kaynak": "Hürriyet",
@@ -24744,9 +24723,77 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2cb6113b07b3"
+  },
+  "3127f0cb4a0f": {
+   "id": "3127f0cb4a0f",
+   "kaynak": "AA",
+   "baslik": "İtalya'da şiddetli protestoların ardından çocuk suçları ve güvenliğe ilişkin yeni kararname onaylandı",
+   "ozet": "İtalya Başbakanı Giorgia Meloni, 17-18 Ekim'de özellikle de Milano kentinde şiddet olaylarına sahne olan protestoların ardından çocuk suçları ve güvenlik alanındaki suçları ve cezaları belirleyen kabinenin onayladığı yeni kararnameyi duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-siddetli-protestolarin-ardindan-cocuk-suclari-ve-guvenlige-iliskin-yeni-kararname-onaylandi/4095115",
+   "zaman": "2026-10-20T23:22:16+03:00",
+   "kelimeler": [
+    "ardin",
+    "cocuk",
+    "guven",
+    "ilisk",
+    "italy",
+    "karar",
+    "onayl",
+    "prote",
+    "sidde",
+    "sucla",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e17e5e449cef": {
+   "id": "e17e5e449cef",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump, Fransa'daki olaylar için \"ayaklanma değil, devrim gibi\" yorumunu yaptı",
+   "ozet": "ABD Başkanı Donald Trump, Fransa'da yaşananların eğitimle değil, \"göçmenlerle\" ilgili olduğunu savunarak, \"Fransa’da hiç böyle bir şey görmemiştim. Bu küçük bir ayaklanma değil, tam anlamıyla bir devrim gibi.\" değerlendirmesinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-fransadaki-olaylar-icin-ayaklanma-degil-devrim-gibi-yorumunu-yapti/4095116",
+   "zaman": "2026-10-20T23:23:35+03:00",
+   "kelimeler": [
+    "abd",
+    "ayakl",
+    "baska",
+    "daki",
+    "degil",
+    "devri",
+    "frans",
+    "olayl",
+    "trump",
+    "yapti",
+    "yorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "528bd7de66e1": {
+   "id": "528bd7de66e1",
+   "kaynak": "AA",
+   "baslik": "Süper Lig'den 10 kulüp PFDK'ye sevk edildi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 10 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligden-10-kulup-pfdkye-sevk-edildi/4095118",
+   "zaman": "2026-10-20T23:25:13+03:00",
+   "kelimeler": [
+    "10",
+    "den",
+    "edild",
+    "kulup",
+    "lig",
+    "pfdk",
+    "sevk",
+    "super",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 23:31:14  3 yeni haber",
   "20.10 23:16:15  1 yeni haber",
   "20.10 23:01:24  2 yeni haber",
   "20.10 22:46:10  2 yeni haber",
@@ -24945,8 +24992,7 @@
   "18.10 19:53:17  3 yeni haber",
   "18.10 19:46:03  2 yeni haber",
   "18.10 19:31:12  1 yeni haber",
-  "18.10 19:16:01  1 yeni haber",
-  "18.10 19:01:16  1 yeni haber"
+  "18.10 19:16:01  1 yeni haber"
  ],
  "otomatik": false
 }
