@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "2067d48b7cf9": {
-   "id": "2067d48b7cf9",
-   "kaynak": "Sözcü",
-   "baslik": "Bahçeli'den Azerbaycan mesajı: Bundan geri dönüş olmayacaktır",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/bahceliden-azerbaycan-mesaji-bundan-geri-donus-olmayacaktir-p370139",
-   "zaman": "2026-10-17T19:06:28+03:00",
-   "kelimeler": [
-    "azerb",
-    "bahce",
-    "bunda",
-    "den",
-    "donus",
-    "geri",
-    "mesaj",
-    "olmay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "45d891d0fe78": {
    "id": "45d891d0fe78",
    "kaynak": "Hürriyet",
@@ -2280,47 +2260,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "d3fcc0f57f88": {
-   "id": "d3fcc0f57f88",
-   "kaynak": "TRT Haber",
-   "baslik": "MHP Genel Başkanı Bahçeli Azerbaycan'ın bağımsızlık gününü kutladı",
-   "ozet": "Milliyetçi Hareket Partisi MHP Genel Başkanı Devlet Bahçeli, \"Azerbaycan ve Türkiye hangi konuda olursa olsun birbirinden ayrılmaz bir bütündür.\" ifadesini kullandı.",
-   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceli-azerbaycanin-bagimsizlik-gununu-kutladi-960429.html",
-   "zaman": "2026-10-17T19:03:00+03:00",
-   "kelimeler": [
-    "azerb",
-    "bagim",
-    "bahce",
-    "baska",
-    "genel",
-    "gunun",
-    "in",
-    "kutla",
-    "mhp"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b695c40d48be": {
-   "id": "b695c40d48be",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan Cevat Özkaya için taziye mesajı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yaşantısıyla, karakteriyle, çalışmalarıyla düşünce dünyamızda önemli izler bırakan Pınar Yayınları editörü Cevat Özkaya Beyefendiye Allahtan rahmet niyaz ediyor; ailesine, yakınlarına ve dostlarına başsağlığı dileklerimi iletiyorum\" mesajını…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cevat-ozkaya-icin-taziye-mesaji-960430.html",
-   "zaman": "2026-10-17T19:13:00+03:00",
-   "kelimeler": [
-    "cevat",
-    "cumhu",
-    "dan",
-    "erdog",
-    "mesaj",
-    "ozkay",
-    "taziy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "cbb4aa83c068"
   },
   "caf1dae9dec7": {
    "id": "caf1dae9dec7",
@@ -22294,7 +22233,10 @@
     "uzeri"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "4672fd2784fc": {
    "id": "4672fd2784fc",
@@ -23496,7 +23438,10 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c1a5b417a17d": {
    "id": "c1a5b417a17d",
@@ -23522,9 +23467,103 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7d8813aed372": {
+   "id": "7d8813aed372",
+   "kaynak": "AA",
+   "baslik": "AK Parti Sözcüsü Çelik: Fon şeytanlarının üzerine sonuna kadar gidilmesi konusunda tavizsiz bir şekilde hareket ediliyor",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"Fon dolandırıcıları, fon şeytanları dediğimiz bu yolsuzlukları yapanların üzerine gidilmesi konusunda yüksek bir iradeyle, kararlı ve tavizsiz bir şekilde hareket ediliyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-seytanlarinin-uzerine-sonuna-kadar-gidilmesi-konusunda-tavizsiz-bir-sekilde-hareket-ediliyor/4094837",
+   "zaman": "2026-10-20T17:50:30+03:00",
+   "kelimeler": [
+    "ak",
+    "celik",
+    "edili",
+    "fon",
+    "gidil",
+    "harek",
+    "konus",
+    "parti",
+    "sekil",
+    "seyta",
+    "sonun",
+    "sozcu",
+    "taviz",
+    "uzeri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b356708d2608"
+  },
+  "7807b9168ef6": {
+   "id": "7807b9168ef6",
+   "kaynak": "Hürriyet",
+   "baslik": "Tanju Özcan, hapis cezasına çarptırıldı",
+   "ozet": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan hakkında, tutuklu yargılandığı davada 7 yıl 3 ay 15 gün hapis cezası verildi. Özcan hakkında kurban olayı kapsamında ise her mağdur için 1 yıl 8 ay 15 gün verilen hapis cezası ertelendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-tanju-ozcan-hapis-cezasina-carptirildi-43348924",
+   "zaman": "2026-10-20T18:50:00+03:00",
+   "kelimeler": [
+    "carpt",
+    "cezas",
+    "hapis",
+    "ozcan",
+    "tanju"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bc1baa9ba783"
+  },
+  "8726bf907b44": {
+   "id": "8726bf907b44",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: TürkiyeLibya deniz yetki alanları mutabakatının onaylanması önemli bir adım",
+   "ozet": "İletişim Başkanı Burhanettin Duran, Türkiye ile Libya arasında imzalanan deniz yetki alanları mutabakat muhtırasının onaylanmasına ilişkin, \"TürkiyeLibya ilişkileri ve Doğu Akdenizdeki gelişmeler açısından önemli ve memnuniyet verici bir adımdır\" açıklamasında bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasi-onemli-bir-adim-960666.html",
+   "zaman": "2026-10-20T19:00:00+03:00",
+   "kelimeler": [
+    "adim",
+    "alanl",
+    "baska",
+    "deniz",
+    "duran",
+    "ileti",
+    "mutab",
+    "onayl",
+    "oneml",
+    "turki",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab867df6f3f3": {
+   "id": "ab867df6f3f3",
+   "kaynak": "AA",
+   "baslik": "Çin, ABD'nin \"ticari sırları çalma\" iddiasıyla Çinli şirketlere yaptırım getirmesine tepki gösterdi",
+   "ozet": "Çin, ABD'de ticari sırları çalmaktan hüküm giyen bir Çin vatandaşıyla bağlantılı Çinli şirketlere yaptırım uygulanmasına tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdnin-ticari-sirlari-calma-iddiasiyla-cinli-sirketlere-yaptirim-getirmesine-tepki-gosterdi-/4094906",
+   "zaman": "2026-10-20T19:04:06+03:00",
+   "kelimeler": [
+    "abd",
+    "calma",
+    "cin",
+    "cinli",
+    "getir",
+    "goste",
+    "iddia",
+    "nin",
+    "sirke",
+    "sirla",
+    "tepki",
+    "ticar",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 19:15:58  2 yeni haber",
   "20.10 19:01:25  6 yeni haber",
   "20.10 18:46:11  5 yeni haber",
   "20.10 18:31:18  3 yeni haber",
@@ -23723,8 +23762,7 @@
   "18.10 14:31:19  1 yeni haber",
   "18.10 14:01:16  2 yeni haber",
   "18.10 13:45:53  1 yeni haber",
-  "18.10 13:34:03  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 13:34:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'da eylemlere \"Kaptan Amerika' kostümüyle katılan şahıs sosyal m"
+  "18.10 13:34:03  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
