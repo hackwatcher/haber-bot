@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "3e64c3fd3cf4": {
-   "id": "3e64c3fd3cf4",
-   "kaynak": "Hürriyet",
-   "baslik": "Manisa'daki otobüs kazasından acı haber geldi: Hayatını kaybedenlerin sayısı 12'ye çıktı",
-   "ozet": "Manisa'nın Akhisar ilçesinde TIR’ın geri manevra yapan yolcu otobüsüne arkadan çarptığı kazada ölü sayısı 12’ye çıktı. Yaralılardan Zülfiye Arıcı (71), tedavi gördüğü Manisa Şehir Hastanesi’nde hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/manisadaki-otobus-kazasindan-aci-haber-geldi-hayatini-kaybedenlerin-sayisi-12ye-cikti-43345243",
-   "zaman": "2026-10-17T14:19:48+03:00",
-   "kelimeler": [
-    "12",
-    "aci",
-    "cikti",
-    "daki",
-    "geldi",
-    "hayat",
-    "kaybe",
-    "kazas",
-    "manis",
-    "otobu",
-    "sayis",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "58dd3a227ffc": {
    "id": "58dd3a227ffc",
    "kaynak": "Hürriyet",
@@ -11233,7 +11209,8 @@
     "trt"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "d7ff842637ce": {
    "id": "d7ff842637ce",
@@ -21361,9 +21338,48 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "968064797b76": {
+   "id": "968064797b76",
+   "kaynak": "TRT Haber",
+   "baslik": "FenerbahçeSlavia Prag maçı TRT 1'de",
+   "ozet": "Temsilcimiz Fenerbahçe, UEFA Şampiyonlar Ligi'nin üçüncü haftasında bugün Çekya ekibi Slavia Prag'ı ağırlayacak. Chobani Stadı'nda saat 19.45'te başlayacak karşılaşma TRT 1, tabii ve TRT Radyo 1'den canlı yayınlanacak.",
+   "link": "https://www.trthaber.com/haber/gundem/fenerbahce-slavia-prag-maci-trt-1de-960641.html",
+   "zaman": "2026-10-20T13:52:00+03:00",
+   "kelimeler": [
+    "fener",
+    "maci",
+    "prag",
+    "trt"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "86b34bebed3f"
+  },
+  "84276cc8fb26": {
+   "id": "84276cc8fb26",
+   "kaynak": "Hürriyet",
+   "baslik": "Samsun’da baktığı yaşlı kadının hesabını boşaltan bakıcı suçüstü yakalandı",
+   "ozet": "Atakum'da 6 aydır evinde çalıştığı yatalak 86 yaşındaki M.Ç.'nin hesap şifrelerini kullanarak kendi hesabına 78 bin TL geçiren bakıcı D.B. polis tarafından yakalandı. Borçları nedeniyle parayı aldığını itiraf eden şüpheli kadın tutuklanarak cezaevine gönderildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/samsunda-baktigi-yasli-kadinin-hesabini-bosaltan-bakici-sucustu-yakalandi-43348539",
+   "zaman": "2026-10-20T14:14:49+03:00",
+   "kelimeler": [
+    "bakic",
+    "bakti",
+    "bosal",
+    "hesab",
+    "kadin",
+    "samsu",
+    "sucus",
+    "yakal",
+    "yasli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 14:31:13  1 yeni haber",
   "20.10 14:16:05  5 yeni haber",
   "20.10 14:01:22  11 yeni haber",
   "20.10 13:45:53  4 yeni haber",
@@ -21562,8 +21578,7 @@
   "18.10 11:15:59  2 yeni haber",
   "18.10 11:01:24  2 yeni haber",
   "18.10 10:46:14  2 yeni haber",
-  "18.10 10:33:57  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 10:33:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · İstanbul'da FETÖ operasyonu: Zaman gazetesinin eski çalışanı ve 2 fira"
+  "18.10 10:33:57  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
  ],
  "otomatik": false
 }
