@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "145d79012c58": {
-   "id": "145d79012c58",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa ettiğini açıkladı",
-   "ozet": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras 16 Ekim'de sosyal medya üzerinden bir açıklama yaparak CHP'den ayrıldığını ifade etti. Aras, \"Görevimi bağımsız olarak sürdürme kararı aldım\" dedi.",
-   "link": "https://www.bbc.com/turkce/articles/cq33x5l3p8vko",
-   "zaman": "2026-10-17T11:32:58+03:00",
-   "kelimeler": [
-    "ahmet",
-    "aras",
-    "baska",
-    "beled",
-    "buyuk",
-    "chp",
-    "den",
-    "ettig",
-    "istif",
-    "mugla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "eb4b1b58f897"
-  },
   "4a682d33d389": {
    "id": "4a682d33d389",
    "kaynak": "Hürriyet",
@@ -12037,7 +12014,8 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "56ebf7d45bd3": {
    "id": "56ebf7d45bd3",
@@ -13378,7 +13356,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "525ad1db0e22": {
    "id": "525ad1db0e22",
@@ -16624,7 +16605,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "3ee5e7e02a53": {
@@ -19218,7 +19200,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b34caff2aeb8": {
    "id": "b34caff2aeb8",
@@ -19235,7 +19220,10 @@
     "secil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5ee9b15ba707": {
    "id": "5ee9b15ba707",
@@ -19253,9 +19241,300 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0398926c0c3e": {
+   "id": "0398926c0c3e",
+   "kaynak": "AA",
+   "baslik": "İstanbul havalimanlarında bu yıl yaklaşık 9 ton uyuşturucu ele geçirildi",
+   "ozet": "İstanbul havalimanlarındaki Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü ekipleri, yılbaşından bu yana 253 ayrı olayda 8 ton 875 kilogram uyuşturucu ve sentetik uyuşturucu ele geçirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-havalimanlarinda-bu-yil-yaklasik-9-ton-uyusturucu-ele-gecirildi/4094221",
+   "zaman": "2026-10-20T11:01:18+03:00",
+   "kelimeler": [
+    "ele",
+    "gecir",
+    "haval",
+    "istan",
+    "ton",
+    "uyust",
+    "yakla",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0724e6a6f377": {
+   "id": "0724e6a6f377",
+   "kaynak": "AA",
+   "baslik": "Belçika ve Türkiye, işbirliğini güçlendirmek için 10 yıl sonra bakanlar düzeyinde yeniden bir arada",
+   "ozet": "Belçika ve Türkiye'den 7 bakan, iki ülke arasındaki ilişkilerde yeniden oluşan ivmeyi güçlendirmek amacıyla bugün Brüksel'de 10 yıl aradan sonra bir araya gelecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/belcika-ve-turkiye-isbirligini-guclendirmek-icin-10-yil-sonra-bakanlar-duzeyinde-yeniden-bir-arada/4094232",
+   "zaman": "2026-10-20T11:04:29+03:00",
+   "kelimeler": [
+    "10",
+    "arada",
+    "bakan",
+    "belci",
+    "duzey",
+    "gucle",
+    "isbir",
+    "turki",
+    "yenid",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e535f1e58d3f": {
+   "id": "e535f1e58d3f",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk vişne mermerine uluslararası pazarda talep artıyor",
+   "ozet": "Elazığ'ın Alacakaya ilçesinde üretilen vişne mermerinin ihracatı 2026'nın ilk 6 ayında geçen yılın aynı dönemine kıyasla yüzde 30 arttı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turk-visne-mermerine-uluslararasi-pazarda-talep-artiyor-960620.html",
+   "zaman": "2026-10-20T11:15:00+03:00",
+   "kelimeler": [
+    "artiy",
+    "merme",
+    "pazar",
+    "talep",
+    "turk",
+    "ulusl",
+    "visne"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "822fb991e01f": {
+   "id": "822fb991e01f",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin devreye girmesinin ardından patlama sesleri duyuldu",
+   "ozet": "Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin devreye alınmasının ardından patlama sesleri duyuldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyadda-erken-uyari-sisteminin-devreye-girmesinin-ardindan-patlama-sesleri-duyuldu/4094264",
+   "zaman": "2026-10-20T11:16:23+03:00",
+   "kelimeler": [
+    "arabi",
+    "ardin",
+    "baske",
+    "devre",
+    "duyul",
+    "erken",
+    "girme",
+    "in",
+    "patla",
+    "riyad",
+    "sesle",
+    "siste",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "96cb4e82e644"
+  },
+  "52b46319a371": {
+   "id": "52b46319a371",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul Havalimanı 'dünyanın en iyisi' seçildi",
+   "ozet": "İGA İstanbul Havalimanı, Conde Nast Traveller dergisinin İngiltere edisyonu tarafından düzenlenen \"Okuyucu Tercihleri Ödülleri 2026\" Readers' Choice Awards 2026 kapsamında \"Dünyanın En İyi Havalimanı\" seçildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/istanbul-havalimani-dunyanin-en-iyisi-secildi-960621.html",
+   "zaman": "2026-10-20T11:25:00+03:00",
+   "kelimeler": [
+    "dunya",
+    "haval",
+    "istan",
+    "iyisi",
+    "secil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b34caff2aeb8"
+  },
+  "8ee9cccb693b": {
+   "id": "8ee9cccb693b",
+   "kaynak": "TRT Haber",
+   "baslik": "Üsküdar Belediye Başkan Vekili belli oldu",
+   "ozet": "Üsküdar Belediye Meclisinde gerçekleştirilen Belediye Başkan Vekilliği seçiminin üçüncü turunda, 24 meclis üyesinin oyunu alan Muhammed Emin Sarıoğlu, Üsküdar Belediye Başkan Vekili oldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/uskudar-belediye-baskan-vekili-belli-oldu-960623.html",
+   "zaman": "2026-10-20T11:28:00+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "belli",
+    "uskud",
+    "vekil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a33be725a10f"
+  },
+  "8880a593c838": {
+   "id": "8880a593c838",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da 3 ilçede su kesintisi yapılacak",
+   "ozet": "İstanbul'da yapılacak isale hattı çalışmaları nedeniyle Başakşehir, Esenyurt ve Arnavutköy'ün bazı mahallelerine yarın 11 saat boyunca su verilemeyecek.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-3-ilcede-su-kesintisi-yapilacak-960622.html",
+   "zaman": "2026-10-20T11:28:00+03:00",
+   "kelimeler": [
+    "ilced",
+    "istan",
+    "kesin",
+    "su",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e9660dadea24"
+  },
+  "5641514a4491": {
+   "id": "5641514a4491",
+   "kaynak": "AA",
+   "baslik": "Belçika'dan Fransa'daki vatandaşlarına uyarı",
+   "ozet": "Belçika Dışişleri Bakanlığı, 17 Ekim'de Fransa'da düzenlenen protestolarda meydana gelen şiddet olaylarının ardından ülkedeki Belçika vatandaşlarına kalabalıklardan ve toplu etkinliklerden uzak durmaları çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikadan-fransadaki-vatandaslarina-uyari/4094297",
+   "zaman": "2026-10-20T11:30:09+03:00",
+   "kelimeler": [
+    "belci",
+    "daki",
+    "dan",
+    "frans",
+    "uyari",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d389196a8feb"
+  },
+  "873d4165e8f9": {
+   "id": "873d4165e8f9",
+   "kaynak": "AA",
+   "baslik": "Yalova gemi, yat ve hizmetleri sektöründe ihracatını yüzde 100'e yakın artırdı",
+   "ozet": "Yalova'da gemi, yat ve hizmetleri sektörünün ocak-eylül döneminde yaptığı ihracat, yıllık bazda yüzde 96,5 artarak 777 milyon 704 bin dolara ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yalova-gemi-yat-ve-hizmetleri-sektorunde-ihracatini-yuzde-100e-yakin-artirdi-/4094303",
+   "zaman": "2026-10-20T11:32:38+03:00",
+   "kelimeler": [
+    "100",
+    "artir",
+    "gemi",
+    "hizme",
+    "ihrac",
+    "sekto",
+    "yakin",
+    "yalov",
+    "yat",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a73e510e63cd": {
+   "id": "a73e510e63cd",
+   "kaynak": "AA",
+   "baslik": "Bakan Memişoğlu, yerli ultrason cihazı üretimi için tesis kurulacağını bildirdi",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, teknoloji transferiyle başlatılan ultrason cihazı projesinde önemli bir aşamaya gelindiğini belirterek, cihazların en az yüzde 71 yerlilik oranıyla Türkiye'de kurulacak tesiste üretileceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-yerli-ultrason-cihazi-uretimi-icin-tesis-kurulacagini-bildirdi/4094307",
+   "zaman": "2026-10-20T11:36:41+03:00",
+   "kelimeler": [
+    "bakan",
+    "bildi",
+    "cihaz",
+    "kurul",
+    "memis",
+    "tesis",
+    "ultra",
+    "ureti",
+    "yerli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d39658902f70": {
+   "id": "d39658902f70",
+   "kaynak": "Hürriyet",
+   "baslik": "'Daltonlar' suç örgütüne 8 ilde operasyon: 14 gözaltı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı tarafından 'Daltonlar' suç örgütüne yönelik yürütülen soruşturma kapsamında 8 ilde eş zamanlı operasyon düzenlendi. Operasyonda 4'ü adli süreçteki çocuk olmak üzere 14 şüpheli, gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/daltonlar-suc-orgutune-8-ilde-operasyon-14-gozalti-43348272",
+   "zaman": "2026-10-20T11:37:37+03:00",
+   "kelimeler": [
+    "14",
+    "dalto",
+    "gozal",
+    "ilde",
+    "opera",
+    "orgut",
+    "suc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c589b5ecf113": {
+   "id": "c589b5ecf113",
+   "kaynak": "NTV",
+   "baslik": "Yeni Parti ve CHP aday çıkarmadı. Üsküdar Belediyesi Başkanvekili Muhammed Emin Sarıoğlu oldu",
+   "ozet": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin'in yerine Cumhur İttifakı'nın adayı Muhammed Emin Sarıoğlu seçildi.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-parti-ve-chp-aday-cikarmadi-uskudar-belediyesi-baskanvekili-muhammed-emin-sarioglu-oldu-1747095",
+   "zaman": "2026-10-20T11:38:30+03:00",
+   "kelimeler": [
+    "aday",
+    "baska",
+    "beled",
+    "chp",
+    "cikar",
+    "emin",
+    "muham",
+    "parti",
+    "sario",
+    "uskud",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "78850f71dccc": {
+   "id": "78850f71dccc",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor-Hearts maçını Belçikalı hakem Lawrence Visser yönetecek",
+   "ozet": "Trabzonspor'un UEFA Konferans Ligi'nde 22 Ekim Perşembe günü İskoçya temsilcisi Hearts'ı ağırlayacağı maçı Belçikalı hakem Lawrence Visser yönetecek.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-hearts-macini-belcikali-hakem-lawrence-visser-yonetecek/4094314",
+   "zaman": "2026-10-20T11:39:05+03:00",
+   "kelimeler": [
+    "belci",
+    "hakem",
+    "heart",
+    "lawre",
+    "macin",
+    "trabz",
+    "visse",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e7c8eeb96b6b": {
+   "id": "e7c8eeb96b6b",
+   "kaynak": "AA",
+   "baslik": "Ankara merkezli operasyonda \"Daltonlar\" suç örgütüyle bağlantılı 10 şüpheli gözaltına alındı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığınca, kamuoyunda \"Daltonlar\" olarak bilinen suç örgütüyle bağlantılı şüphelilere yönelik yürütülen soruşturmada 10 zanlı gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankara-merkezli-operasyonda-daltonlar-suc-orgutuyle-baglantili-10-supheli-gozaltina-alindi/4094316",
+   "zaman": "2026-10-20T11:39:47+03:00",
+   "kelimeler": [
+    "10",
+    "alind",
+    "ankar",
+    "bagla",
+    "dalto",
+    "gozal",
+    "merke",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "14309b67571d"
   }
  },
  "kayit": [
+  "20.10 11:45:52  8 yeni haber",
   "20.10 11:31:11  14 yeni haber",
   "20.10 11:16:04  10 yeni haber",
   "20.10 11:01:18  15 yeni haber",
@@ -19454,8 +19733,7 @@
   "18.10 09:16:02  2 yeni haber",
   "18.10 09:03:14  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 09:03:14  Ek paylaşılamadı: reels: Instagram görseli işleyemedi (ERROR)",
-  "18.10 09:03:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook + Facebook_reels): XHABER · Fransa’da olaylar kontrolden çıktı.",
-  "18.10 08:46:10  1 yeni haber"
+  "18.10 09:03:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook + Facebook_reels): XHABER · Fransa’da olaylar kontrolden çıktı."
  ],
  "otomatik": false
 }
