@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "fceb0b0c541a": {
-   "id": "fceb0b0c541a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İstanbul'a düşen 'rekor' yağışın sele dönüşmesi nasıl önlenebilirdi?",
-   "ozet": "İstanbul'da, 14 Ekim'den beri aralıklı olarak süren yağışlar resmi kayıtların başlamasından bu yana kentte yaşanan en şiddetli hava olayları arasında yerini aldı.",
-   "link": "https://www.bbc.com/turkce/articles/c687zjl55p3qo",
-   "zaman": "2026-10-17T10:14:29+03:00",
-   "kelimeler": [
-    "donus",
-    "dusen",
-    "istan",
-    "nasil",
-    "onlen",
-    "rekor",
-    "sele",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "90971ee68d8b": {
-   "id": "90971ee68d8b",
-   "kaynak": "Hürriyet",
-   "baslik": "16 ildeki yasa dışı bahis ve kumar operasyonunda 29 şüpheli tutuklandı",
-   "ozet": "Kocaeli merkezli 16 ilde düzenlenen operasyonda yasa dışı bahis operasyonunda hesaplarında 6 milyar 235 milyon 761 bin 905 liralık hesap hareketi bulunduğu tespit edilen şüphelilere yönelik düzenlenen operasyonda 29 şüpheli tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/16-ildeki-yasa-disi-bahis-ve-kumar-operasyonunda-29-supheli-tutuklandi-43344889",
-   "zaman": "2026-10-17T10:08:39+03:00",
-   "kelimeler": [
-    "16",
-    "29",
-    "bahis",
-    "disi",
-    "ildek",
-    "kumar",
-    "opera",
-    "suphe",
-    "tutuk",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "bbefc173a066": {
-   "id": "bbefc173a066",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İnsan boyunun inişli ve çıkışlı tarihinde kritik dönüm noktaları neler?",
-   "ozet": "Bugün 100 yıl öncesine göre yaklaşık 10 cm daha uzunuz ancak bu artış kesintisiz gerçekleşmedi.",
-   "link": "https://www.bbc.com/turkce/articles/ck240qpgj39do",
-   "zaman": "2026-10-17T10:15:45+03:00",
-   "kelimeler": [
-    "boyun",
-    "cikis",
-    "donum",
-    "inisl",
-    "insan",
-    "kriti",
-    "neler",
-    "nokta",
-    "tarih"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "09ac00fb4d16": {
    "id": "09ac00fb4d16",
    "kaynak": "BBC Türkçe",
@@ -8157,7 +8093,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "357f6783a5e6": {
    "id": "357f6783a5e6",
@@ -8374,7 +8312,8 @@
     "varil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0d7eec9d52f2": {
    "id": "0d7eec9d52f2",
@@ -17441,7 +17380,10 @@
     "seyre"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c38821ae1e8c": {
    "id": "c38821ae1e8c",
@@ -17679,7 +17621,10 @@
     "katar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d6bdec69ecc3": {
    "id": "d6bdec69ecc3",
@@ -18068,9 +18013,347 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "70a95377328c": {
+   "id": "70a95377328c",
+   "kaynak": "AA",
+   "baslik": "FETÖ'nün mahrem yapılanmasına yönelik operasyonlarda 31 şüpheli yakalandı",
+   "ozet": "Fetullahçı Terör Örgütü'nün (FETÖ) mahrem yapılanmasına yönelik düzenlenen operasyonlarda 31 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/fetonun-mahrem-yapilanmasina-yonelik-operasyonlarda-31-supheli-yakalandi/4094036",
+   "zaman": "2026-10-20T08:30:29+03:00",
+   "kelimeler": [
+    "31",
+    "feto",
+    "mahre",
+    "nun",
+    "opera",
+    "suphe",
+    "yakal",
+    "yapil",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1d07067ba4b6": {
+   "id": "1d07067ba4b6",
+   "kaynak": "TRT Haber",
+   "baslik": "Yapay zeka fotoğraftan kanser hastalarının yaşam süresini tahmin ediyor",
+   "ozet": "ABDdeki Mass General Brigham araştırmacıları, kanser hastalarının yüz fotoğrafını analiz ederek biyolojik yaşlarını ve hayatta kalma risklerini tahmin edebilen iki yapay zeka aracı geliştirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-fotograftan-kanser-hastalarinin-yasam-suresini-tahmin-ediyor-960601.html",
+   "zaman": "2026-10-20T09:46:00+03:00",
+   "kelimeler": [
+    "ediyo",
+    "fotog",
+    "hasta",
+    "kanse",
+    "sures",
+    "tahmi",
+    "yapay",
+    "yasam",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "78b4076a4302": {
+   "id": "78b4076a4302",
+   "kaynak": "TRT Haber",
+   "baslik": "Küresel piyasalarda ibre negatife döndü",
+   "ozet": "Küresel piyasalarda, ABD ile İran arasındaki çatışmaların yarattığı tedirginlikler risk iştahını törpülerken, bilanço sezonunda önemli şirketlerin finansal sonuçları öncesinde negatif bir seyir izleniyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-ibre-negatife-dondu-960603.html",
+   "zaman": "2026-10-20T09:54:00+03:00",
+   "kelimeler": [
+    "dondu",
+    "ibre",
+    "kures",
+    "negat",
+    "piyas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e9b5aee3c458"
+  },
+  "64fe0d02e0cd": {
+   "id": "64fe0d02e0cd",
+   "kaynak": "TRT Haber",
+   "baslik": "Güney Kore'de uçuş sırasında uçağın acil çıkış kapısını açmaya çalışan yolcuya hapis cezası",
+   "ozet": "Tayland'ın başkenti Bangkok'tan Güney Kore'nin Daegu kentine sefer yapan yolcu uçağının acil çıkış kapısını uçuş sırasında açmaya çalışan kişi, ertelenmiş hapis cezasına çarptırıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/guney-korede-ucus-sirasinda-ucagin-acil-cikis-kapisini-acmaya-calisan-yolcuya-hapis-cezasi-960602.html",
+   "zaman": "2026-10-20T09:54:00+03:00",
+   "kelimeler": [
+    "acmay",
+    "calis",
+    "cezas",
+    "cikis",
+    "guney",
+    "hapis",
+    "kapis",
+    "kore",
+    "siras",
+    "ucagi",
+    "ucus",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a1113beb449c": {
+   "id": "a1113beb449c",
+   "kaynak": "AA",
+   "baslik": "MEB, ortak yazılı sınav sistemi kılavuzunu yayımladı",
+   "ozet": "Milli Eğitim Bakanlığınca (MEB), okullarda gerçekleştirilen yazılı sınavların hazırlanması ve değerlendirilmesi süreçlerinde ortak standartların güçlendirilmesi amacıyla geliştirilen Ortak Yazılı Sınav Sistemi (OYSS) Uygulama Kılavuzu yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/meb-ortak-yazili-sinav-sistemi-kilavuzunu-yayimladi/4094117",
+   "zaman": "2026-10-20T09:57:18+03:00",
+   "kelimeler": [
+    "kilav",
+    "meb",
+    "ortak",
+    "sinav",
+    "siste",
+    "yayim",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "Hürriyet"
+   ]
+  },
+  "668c61a42d78": {
+   "id": "668c61a42d78",
+   "kaynak": "TRT Haber",
+   "baslik": "Okullarda yazılı sınavlarda yeni sistem",
+   "ozet": "Milli Eğitim Bakanlığınca MEB, okullarda gerçekleştirilen yazılı sınavların hazırlanması ve değerlendirilmesi süreçlerinde ortak standartların güçlendirilmesi amacıyla geliştirilen Ortak Yazılı Sınav Sistemi OYSS Uygulama Kılavuzu yayımlandı.",
+   "link": "https://www.trthaber.com/haber/egitim/okullarda-yazili-sinavlarda-yeni-sistem-960604.html",
+   "zaman": "2026-10-20T09:58:00+03:00",
+   "kelimeler": [
+    "okull",
+    "sinav",
+    "siste",
+    "yazil",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a1113beb449c"
+  },
+  "580e8e5431c9": {
+   "id": "580e8e5431c9",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'de bir eve düzenlediği saldırıda Filistinli genç çift hayatını kaybetti",
+   "ozet": "İsrail ordusunun Gazze'de bir eve düzenlediği saldırıda 39 yaşındaki Ekrem Bisam Yasin ile 36 yaşındaki eşi Dina Nebil Yasin hayatını kaybetti, 3'ü kadın 4 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-bir-eve-duzenledigi-saldirida-filistinli-genc-cift-hayatini-kaybetti/4094118",
+   "zaman": "2026-10-20T09:58:22+03:00",
+   "kelimeler": [
+    "cift",
+    "duzen",
+    "eve",
+    "filis",
+    "gazze",
+    "genc",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "64edfa6b7499": {
+   "id": "64edfa6b7499",
+   "kaynak": "NTV",
+   "baslik": "Penseyle kapı kilidini kırıp eve girdi, \"Kendi evim zannettim\" dedi",
+   "ozet": "Adana'da girdiği evlerden hırsızlık yapan ve hakkında 38 yıl kesinleşmiş hapis cezası bulunan şüpheli, polis ekiplerince yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-penseyle-kapi-kilidini-kirip-eve-girdi-kendi-evim-zannettim-dedi-1747120",
+   "zaman": "2026-10-20T09:58:49+03:00",
+   "kelimeler": [
+    "eve",
+    "evim",
+    "girdi",
+    "kapi",
+    "kendi",
+    "kilid",
+    "kirip",
+    "pense",
+    "zanne"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "de21e424cb68": {
+   "id": "de21e424cb68",
+   "kaynak": "AA",
+   "baslik": "Borsa güne yükselişe başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,38 yükselişle 11.473,82 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselise-basladi/4094120",
+   "zaman": "2026-10-20T09:59:21+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "gune",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dc0fb2fa9a72"
+  },
+  "5deab9269ad1": {
+   "id": "5deab9269ad1",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'li Senatör Sanders'tan İsrail'e askeri yardımları durdurma çağrısı",
+   "ozet": "ABD'li Senatör Bernie Sanders, Başkan Donald Trump'ı İsrail Başbakanı Binyamin Netanyahu'yu desteklediği için sert bir şekilde eleştirerek Washington yönetimine İsrail'e yaptığı askeri yardımı sonlandırması çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/abdli-senator-sanderstan-israile-askeri-yardimlari-durdurma-cagrisi-960605.html",
+   "zaman": "2026-10-20T10:00:00+03:00",
+   "kelimeler": [
+    "abd",
+    "asker",
+    "cagri",
+    "durdu",
+    "israi",
+    "li",
+    "sande",
+    "senat",
+    "tan",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "638ed8183ec5": {
+   "id": "638ed8183ec5",
+   "kaynak": "TRT Haber",
+   "baslik": "KİT'lerin 2027 yılı yatırım ve finansman programı yayımlandı",
+   "ozet": "Kamu iktisadi teşebbüsleri KİT ve bağlı ortaklıklarının, 2027'de 754,2 milyar lira tutarında yatırım yapmaları öngörülüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kitlerin-2027-yili-yatirim-ve-finansman-programi-yayimlandi-960606.html",
+   "zaman": "2026-10-20T10:02:00+03:00",
+   "kelimeler": [
+    "2027",
+    "finan",
+    "kit",
+    "lerin",
+    "progr",
+    "yatir",
+    "yayim",
+    "yili"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fda4a23f51e5": {
+   "id": "fda4a23f51e5",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni sistemin ayrıntıları belli oldu: MEB, ortak yazılı sınav için kılavuz yayımladı",
+   "ozet": "Milli Eğitim Bakanlığınca (MEB), okullarda gerçekleştirilen yazılı sınavların hazırlanması ve değerlendirilmesi süreçlerinde ortak standartların güçlendirilmesi amacıyla geliştirilen Ortak Yazılı Sınav Sistemi (OYSS) Uygulama Kılavuzu yayımlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-sistemin-ayrintilari-belli-oldu-meb-ortak-yazili-sinav-icin-kilavuz-yayimladi-43348064",
+   "zaman": "2026-10-20T10:02:00+03:00",
+   "kelimeler": [
+    "ayrin",
+    "belli",
+    "kilav",
+    "meb",
+    "ortak",
+    "sinav",
+    "siste",
+    "yayim",
+    "yazil",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a1113beb449c"
+  },
+  "c9dbad0324e4": {
+   "id": "c9dbad0324e4",
+   "kaynak": "TRT Haber",
+   "baslik": "Brent petrolün varili 110,63 dolardan işlem görüyor",
+   "ozet": "Dün 110,70 dolara kadar yükselen Brent petrolün aralık vadeli varil fiyatı, günü 109,55 dolardan tamamladı.",
+   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-11063-dolardan-islem-goruyor-960607.html",
+   "zaman": "2026-10-20T10:03:00+03:00",
+   "kelimeler": [
+    "110",
+    "63",
+    "brent",
+    "dolar",
+    "goruy",
+    "islem",
+    "petro",
+    "varil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fe65466ee081"
+  },
+  "67e6492c203b": {
+   "id": "67e6492c203b",
+   "kaynak": "AA",
+   "baslik": "Milli Savunma Bakanı Güler, Katar'a gidecek",
+   "ozet": "Milli Savunma Bakanı Yaşar Güler, Türkiye, Katar, Pakistan ve Endonezya arasında savunma sanayi alanında imzalanacak işbirliği mutabakatı için Katar'a gidecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-katara-gidecek/4094127",
+   "zaman": "2026-10-20T10:05:16+03:00",
+   "kelimeler": [
+    "bakan",
+    "gidec",
+    "guler",
+    "katar",
+    "milli",
+    "savun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06f33f79837b"
+  },
+  "6a7970871d04": {
+   "id": "6a7970871d04",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş BOA, FIBA Kadınlar Avrupa Kupası'nda yarın DSK Basketball Brandys ile karşılaşacak",
+   "ozet": "Beşiktaş BOA Kadın Basketbol Takımı, FIBA Avrupa Kupası B Grubu ilk maçında yarın Çekya'nın DSK Basketball Brandys ekibine konuk olacak.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-boa-fiba-kadinlar-avrupa-kupasinda-yarin-dsk-basketball-brandys-ile-karsilasacak/4094137",
+   "zaman": "2026-10-20T10:10:30+03:00",
+   "kelimeler": [
+    "avrup",
+    "baske",
+    "besik",
+    "boa",
+    "brand",
+    "dsk",
+    "fiba",
+    "kadin",
+    "karsi",
+    "kupas",
+    "nda",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f650a9ffcfcc": {
+   "id": "f650a9ffcfcc",
+   "kaynak": "NTV",
+   "baslik": "Vize vurgununda WhatsApp yazışmaları: Randevu sistemini kilitleyip, 300 euroya satmışlar",
+   "ozet": "Vize randevusu garantisi verip botlarla ele geçirdikleri randevuları 300 euroya satan şüphelilere operasyon yapıldı. Operasyonda şebeke üyelerinin WhatsApp yazışmaları ortaya çıktı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-vize-vurgununda-whatsapp-yazismalari-randevu-sistemini-kilitleyip-300-euroya-satmislar-1747106",
+   "zaman": "2026-10-20T10:11:42+03:00",
+   "kelimeler": [
+    "300",
+    "euroy",
+    "kilit",
+    "rande",
+    "satmi",
+    "siste",
+    "vize",
+    "vurgu",
+    "whats",
+    "yazis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 10:16:06  10 yeni haber",
   "20.10 10:01:30  5 yeni haber",
   "20.10 10:01:30  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "20.10 09:48:37  2 yeni haber",
@@ -18269,8 +18552,7 @@
   "18.10 08:27:44  1 yeni haber",
   "18.10 08:15:50  1 yeni haber",
   "18.10 08:02:53  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 08:02:53  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · ‘Breakıng Bad’ özentilerine suçüstü",
-  "18.10 07:46:06  1 yeni haber"
+  "18.10 08:02:53  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · ‘Breakıng Bad’ özentilerine suçüstü"
  ],
  "otomatik": false
 }
