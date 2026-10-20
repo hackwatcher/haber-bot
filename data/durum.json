@@ -17112,7 +17112,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "9c331807e487": {
@@ -17388,9 +17389,209 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5c29f9452412"
+  },
+  "403c7d58e5f8": {
+   "id": "403c7d58e5f8",
+   "kaynak": "TRT Haber",
+   "baslik": "Terör örgütü DEAŞ'ın finansal ağına operasyon: 7 gözaltı",
+   "ozet": "İstanbul ve Mersin'de terör örgütü DEAŞ'ın finansal faaliyetlerinin deşifre edilmesine yönelik düzenlenen operasyonda 7 şüpheli yakalanarak gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/teror-orgutu-deasin-finansal-agina-operasyon-7-gozalti-960592.html",
+   "zaman": "2026-10-20T08:33:00+03:00",
+   "kelimeler": [
+    "agina",
+    "deas",
+    "finan",
+    "gozal",
+    "in",
+    "opera",
+    "orgut",
+    "teror"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "1957b724d995": {
+   "id": "1957b724d995",
+   "kaynak": "AA",
+   "baslik": "Terör örgütü DEAŞ'ın finansal ağına yönelik operasyonda 7 şüpheli yakalandı",
+   "ozet": "İstanbul ve Mersin'de terör örgütü DEAŞ'ın finans kaynaklarına yönelik düzenlenen operasyonda 7 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasin-finansal-agina-yonelik-operasyonda-7-supheli-yakalandi/4094042",
+   "zaman": "2026-10-20T08:50:49+03:00",
+   "kelimeler": [
+    "agina",
+    "deas",
+    "finan",
+    "in",
+    "opera",
+    "orgut",
+    "suphe",
+    "teror",
+    "yakal",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "403c7d58e5f8"
+  },
+  "05dd197755cc": {
+   "id": "05dd197755cc",
+   "kaynak": "Hürriyet",
+   "baslik": "Vize şirketlerine 'bot' operasyonu: 60 şüpheli hakkında gözaltı kararı",
+   "ozet": "8 ilde vize şirketlerine yönelik soruşturmada 60 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/vize-sirketlerine-bot-operasyonu-60-supheli-hakkinda-gozalti-karari-43347968",
+   "zaman": "2026-10-20T08:52:00+03:00",
+   "kelimeler": [
+    "60",
+    "bot",
+    "gozal",
+    "hakki",
+    "karar",
+    "opera",
+    "sirke",
+    "suphe",
+    "vize"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c29f9452412"
+  },
+  "e9b5aee3c458": {
+   "id": "e9b5aee3c458",
+   "kaynak": "AA",
+   "baslik": "Küresel piyasalar jeopolitik risklerin etkisiyle negatif seyrediyor",
+   "ozet": "Küresel piyasalarda, ABD ile İran arasındaki çatışmaların yarattığı​​​​​​​ tedirginlikler risk iştahını törpülerken, bilanço sezonunda önemli şirketlerin finansal sonuçları öncesinde negatif bir seyir izleniyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-jeopolitik-risklerin-etkisiyle-negatif-seyrediyor/4094049",
+   "zaman": "2026-10-20T09:02:13+03:00",
+   "kelimeler": [
+    "etkis",
+    "jeopo",
+    "kures",
+    "negat",
+    "piyas",
+    "riskl",
+    "seyre"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c38821ae1e8c": {
+   "id": "c38821ae1e8c",
+   "kaynak": "Hürriyet",
+   "baslik": "Adalet Bakanı Gürlek duyurdu: Kurgu kaza çetesine şafak baskını, 77 gözaltı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Adana merkezli olarak sigorta şirketlerini hedef alan kurgu trafik kazaları çetesine yönelik operasyon düzenlendiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/adalet-bakani-gurlek-duyurdu-kurgu-kaza-cetesine-safak-baskini-77-gozalti-43347976",
+   "zaman": "2026-10-20T09:05:17+03:00",
+   "kelimeler": [
+    "77",
+    "adale",
+    "bakan",
+    "baski",
+    "cetes",
+    "duyur",
+    "gozal",
+    "gurle",
+    "kaza",
+    "kurgu",
+    "safak"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "61089dd26986": {
+   "id": "61089dd26986",
+   "kaynak": "AA",
+   "baslik": "Terör örgütü DEAŞ'ın finansmanına yönelik soruşturmada 14 şüpheli gözaltına alındı",
+   "ozet": "Ankara merkezli farklı illerde terör örgütü DEAŞ'ın finansmanına yönelik soruşturma kapsamında düzenlenen operasyonlarda 14 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasin-finansmanina-yonelik-sorusturmada-14-supheli-gozaltina-alindi/4094055",
+   "zaman": "2026-10-20T09:08:26+03:00",
+   "kelimeler": [
+    "14",
+    "alind",
+    "deas",
+    "finan",
+    "gozal",
+    "in",
+    "orgut",
+    "sorus",
+    "suphe",
+    "teror",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1f6fb84176d"
+  },
+  "561453b458fb": {
+   "id": "561453b458fb",
+   "kaynak": "AA",
+   "baslik": "ABD Başkan Yardımcısı Vance, Netanyahu'nun yeniden seçilmesine destek vermekten kaçındı",
+   "ozet": "ABD Başkan Yardımcısı Vance, ABD Başkanı Donald Trump'ın İsrail Başbakanı Binyamin Netanyahu'nun yeniden seçilmesini desteklemesinin ardından İsrail'deki seçimlere müdahil olmayacağını belirterek, Netanyahu'ya destek vermekten kaçındı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-netanyahunun-yeniden-secilmesine-destek-vermekten-kacindi/4094057",
+   "zaman": "2026-10-20T09:09:38+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "deste",
+    "kacin",
+    "netan",
+    "nun",
+    "secil",
+    "vance",
+    "verme",
+    "yardi",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "52fee753719a": {
+   "id": "52fee753719a",
+   "kaynak": "NTV",
+   "baslik": "Sarıgüllere kara para aklama tutuklaması | Soruşturma nasıl başladı, neler biliniyor?",
+   "ozet": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğlu Ömer Sarıgül, gazeteci Murat Ağırel dahil 15 şüpheli tutuklandı. Emir Sarıgül'ün işlemleri ise sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sarigullere-kara-para-aklama-tutuklamasi-sorusturma-nasil-basladi-neler-biliniyor-1747107",
+   "zaman": "2026-10-20T09:10:50+03:00",
+   "kelimeler": [
+    "aklam",
+    "basla",
+    "bilin",
+    "kara",
+    "nasil",
+    "neler",
+    "para",
+    "sarig",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "76e56fda6c6b": {
+   "id": "76e56fda6c6b",
+   "kaynak": "NTV",
+   "baslik": "Trafik kazasını kazanç kapısı yapanlara operasyon. 77 gözaltı",
+   "ozet": "Kurgu trafik kazaları üzerinden 17 sigorta şirketinden haksız tazminat temin ettiği tespit edilenlere yönelik operasyon düzenlendi.",
+   "link": "https://www.ntv.com.tr/turkiye/trafik-kazasini-kazanc-kapisi-yapanlara-operasyon-77-gozalti-1747110",
+   "zaman": "2026-10-20T09:13:32+03:00",
+   "kelimeler": [
+    "77",
+    "gozal",
+    "kapis",
+    "kazan",
+    "kazas",
+    "opera",
+    "trafi",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "20.10 09:15:56  6 yeni haber",
   "20.10 09:01:14  6 yeni haber",
   "20.10 08:46:00  3 yeni haber",
   "20.10 08:31:06  4 yeni haber",
@@ -17589,8 +17790,7 @@
   "18.10 07:15:56  7 yeni haber",
   "18.10 07:03:41  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 07:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook + Facebook_reels): XHABER · Fransa'nın Limoges kentinde protestocular, 1357'den bu yana belediye b",
-  "18.10 07:01:14  1 yeni haber",
-  "18.10 04:46:15  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/son-dakika.rss"
+  "18.10 07:01:14  1 yeni haber"
  ],
  "otomatik": false
 }
