@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "a806b76b931a": {
-   "id": "a806b76b931a",
-   "kaynak": "Hürriyet",
-   "baslik": "Mardin’de ‘kira’ cinayeti kamerada! Duruşmada amcasını öldürdüğünü kabul etti: Kaç bıçak darbesi vurduğumu hatırlamıyorum",
-   "ozet": "Mardin’in Midyat ilçesinde 46 yaşındaki Nihat Bilgiç’in, kira anlaşmazlığı nedeniyle çıkan kavgada 14 bıçak darbesiyle öldürülmesine ilişkin tutuklu sanıklar ağabeyi Halil ile yeğenleri Ali ve Aziz Bilgiç’in yargılandığı davada, olay anına ilişkin güvenlik kamerası görüntüsü…",
-   "link": "https://www.hurriyet.com.tr/gundem/mardinde-kira-cinayeti-kamerada-durusmada-amcasini-oldurdugunu-kabul-etti-kac-bicak-darbesi-vurdugumu-hatirlamiyorum-43344995",
-   "zaman": "2026-10-17T11:29:34+03:00",
-   "kelimeler": [
-    "amcas",
-    "bicak",
-    "cinay",
-    "darbe",
-    "durus",
-    "etti",
-    "hatir",
-    "kabul",
-    "kac",
-    "kamer",
-    "kira",
-    "mardi",
-    "oldur",
-    "vurdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a1ca356e0111": {
-   "id": "a1ca356e0111",
-   "kaynak": "Sözcü",
-   "baslik": "Etimesgut Belediyesi soruşturmasında 7 kişi tutuklandı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/etimesgut-belediyesi-sorusturmasinda-7-kisi-tutuklandi-p370032",
-   "zaman": "2026-10-17T11:30:01+03:00",
-   "kelimeler": [
-    "beled",
-    "etime",
-    "kisi",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-17T11:32:06.948228+03:00",
-   "ig_id": "18126603733860145",
-   "reels_id": "17978843627918513",
-   "story_id": "18031557194681056",
-   "slayt": 1,
-   "kanca": "Son dakika",
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "BBC Türkçe"
-   ]
-  },
-  "4db21b347519": {
-   "id": "4db21b347519",
-   "kaynak": "Hürriyet",
-   "baslik": "Etimesgut Belediyesi soruşturmasında 7 tutuklama",
-   "ozet": "Etimesgut Belediyesi soruşturmasında 2 belediye başkan yardımcısı dahil 7 kişi tutuklandı. 4 şüpheli hakkında ev hapsi kararı verildi",
-   "link": "https://www.hurriyet.com.tr/gundem/etimesgut-belediyesi-sorusturmasinda-7-tutuklama-43345028",
-   "zaman": "2026-10-17T11:30:35+03:00",
-   "kelimeler": [
-    "beled",
-    "etime",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a1ca356e0111"
-  },
   "145d79012c58": {
    "id": "145d79012c58",
    "kaynak": "BBC Türkçe",
@@ -18698,7 +18628,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6d18e62a9c83": {
    "id": "6d18e62a9c83",
@@ -19011,9 +18944,319 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bedd2c427dd4": {
+   "id": "bedd2c427dd4",
+   "kaynak": "AA",
+   "baslik": "Türkiye Diyanet Vakfının Filistinlilere yönelik yardımları 66 milyon doları geçti",
+   "ozet": "Türkiye Diyanet Vakfı (TDV), Gazze ve Gazze dışında yaşayan Filistinlilere yönelik 66 milyon 400 bin 318 dolarlık insani yardım gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-diyanet-vakfinin-filistinlilere-yonelik-yardimlari-66-milyon-dolari-gecti/4094213",
+   "zaman": "2026-10-20T10:54:05+03:00",
+   "kelimeler": [
+    "66",
+    "diyan",
+    "dolar",
+    "filis",
+    "gecti",
+    "milyo",
+    "turki",
+    "vakfi",
+    "yardi",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8003bb671025": {
+   "id": "8003bb671025",
+   "kaynak": "AA",
+   "baslik": "Milli Mücadele'nin emektar okulu 121 yıldır meslek sahibi gençler yetiştiriyor",
+   "ozet": "\"Mekteb-i Sanayi\" adıyla kurulan, Milli Mücadele yıllarında atölyelerinde ordunun ihtiyaç duyduğu malzemelerin üretimine katkı sağlayan Ulus Mesleki ve Teknik Anadolu Lisesi, köklü geçmişiyle meslek sahibi gençler yetiştirmeye devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/milli-mucadelenin-emektar-okulu-121-yildir-meslek-sahibi-gencler-yetistiriyor/4094222",
+   "zaman": "2026-10-20T11:01:22+03:00",
+   "kelimeler": [
+    "121",
+    "emekt",
+    "gencl",
+    "mesle",
+    "milli",
+    "mucad",
+    "nin",
+    "okulu",
+    "sahib",
+    "yetis",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c1a1e75ede70": {
+   "id": "c1a1e75ede70",
+   "kaynak": "TRT Haber",
+   "baslik": "Uzun metrajlı film yapım desteği 412,9 milyon liraya yükseldi",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, uzun metrajlı sinema filmi yapım desteğinin geçen yıla göre yaklaşık yüzde 42 artarak 412 milyon 900 bin liraya ulaştığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/uzun-metrajli-film-yapim-destegi-4129-milyon-liraya-yukseldi-960617.html",
+   "zaman": "2026-10-20T11:04:00+03:00",
+   "kelimeler": [
+    "412",
+    "deste",
+    "film",
+    "liray",
+    "metra",
+    "milyo",
+    "uzun",
+    "yapim",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "34bbcdab097c"
+  },
+  "cd7d75dba9e7": {
+   "id": "cd7d75dba9e7",
+   "kaynak": "AA",
+   "baslik": "Sahel bölgesinde El Kaide ile DEAŞ arasında nüfuz savaşı büyüyor",
+   "ozet": "Batı Afrika'nın Sahel bölgesinde terör örgütü El Kaide bağlantılı JNIM ile DEAŞ’ın Sahel kolu ISSP arasındaki nüfuz mücadelesi şiddetlenirken, iki örgüt arasındaki çatışmaların coğrafi olarak genişlemesi yeni riskler doğuruyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/sahel-bolgesinde-el-kaide-ile-deas-arasinda-nufuz-savasi-buyuyor/4094250",
+   "zaman": "2026-10-20T11:10:54+03:00",
+   "kelimeler": [
+    "arasi",
+    "bolge",
+    "buyuy",
+    "deas",
+    "el",
+    "kaide",
+    "nufuz",
+    "sahel",
+    "savas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a9d3ef0480ee": {
+   "id": "a9d3ef0480ee",
+   "kaynak": "AA",
+   "baslik": "Göç etmeyen leylekler mevsimsel yağışlarla canlanan Kabaklı Göleti'ni mesken tuttu",
+   "ozet": "Diyarbakır'da mevsimsel yağışlarla canlanan Kabaklı Göleti, iklim değişikliği ve küresel ısınma nedeniyle sonbaharda göç etmesi beklenen leylekler için kışlama alanı haline geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/goc-etmeyen-leylekler-mevsimsel-yagislarla-canlanan-kabakli-goletini-mesken-tuttu/4094254",
+   "zaman": "2026-10-20T11:12:23+03:00",
+   "kelimeler": [
+    "canla",
+    "etmey",
+    "goc",
+    "golet",
+    "kabak",
+    "leyle",
+    "meske",
+    "mevsi",
+    "ni",
+    "tuttu",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8e945d6f51f9": {
+   "id": "8e945d6f51f9",
+   "kaynak": "AA",
+   "baslik": "Palamutta tarihi bolluk yaşanıyor",
+   "ozet": "Palamut avcılığında bu sezon uzun yıllardır görülmeyen bolluk yaşanırken balıkçılar, bu bereketin kasım sonuna kadar sürmesini ve sezonun geri kalanında hamsi, çinekop ve lüfer avında verim bekliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/palamutta-tarihi-bolluk-yasaniyor/4094260",
+   "zaman": "2026-10-20T11:15:03+03:00",
+   "kelimeler": [
+    "bollu",
+    "palam",
+    "tarih",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "14ba8515e648": {
+   "id": "14ba8515e648",
+   "kaynak": "AA",
+   "baslik": "Kanada Başbakanı Carney'nin Türkiye ziyareti ticarette yeni işbirliği kapıları açacak",
+   "ozet": "Kanada Başbakanı Mark Carney'nin yarın başlayacak ziyaretiyle Türkiye ile Kanada arasındaki ilişkilere yeni bir boyut kazandırılması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kanada-basbakani-carneynin-turkiye-ziyareti-ticarette-yeni-isbirligi-kapilari-acacak/4094259",
+   "zaman": "2026-10-20T11:15:03+03:00",
+   "kelimeler": [
+    "acaca",
+    "basba",
+    "carne",
+    "isbir",
+    "kanad",
+    "kapil",
+    "nin",
+    "ticar",
+    "turki",
+    "yeni",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2e8d2c9de7fa": {
+   "id": "2e8d2c9de7fa",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu",
+   "ozet": "Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyadda-saldiri-uyarisi-sonrasi-patlama-sesleri-duyuldu/4094264",
+   "zaman": "2026-10-20T11:16:23+03:00",
+   "kelimeler": [
+    "arabi",
+    "baske",
+    "duyul",
+    "in",
+    "patla",
+    "riyad",
+    "saldi",
+    "sesle",
+    "sonra",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b3e1f4a40a17": {
+   "id": "b3e1f4a40a17",
+   "kaynak": "AA",
+   "baslik": "Eskişehir merkezli yasa dışı bahis operasyonunda yakalanan 86 şüpheli adliyede",
+   "ozet": "Eskişehir merkezli 33 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 86 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/eskisehir-merkezli-yasa-disi-bahis-operasyonunda-yakalanan-86-supheli-adliyede/4094266",
+   "zaman": "2026-10-20T11:16:26+03:00",
+   "kelimeler": [
+    "86",
+    "adliy",
+    "bahis",
+    "disi",
+    "eskis",
+    "merke",
+    "opera",
+    "suphe",
+    "yakal",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c5c78ceeadc": {
+   "id": "6c5c78ceeadc",
+   "kaynak": "NTV",
+   "baslik": "Akdeniz'in iki körfezinde alarm: \"O kötü senaryoya geldik\"",
+   "ozet": "Akdeniz'in iki körfezi İskenderun ve Mersin'de oksijen oranı önemli miktarda azaldı. Kirliliğe dikkat çeken uzmanlar, \"Bu korktuğumuz bir şeydi, o kötü senaryoya geldik.\" değerlendirmesini yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-akdenizin-iki-korfezinde-alarm-o-kotu-senaryoya-geldik-1747139",
+   "zaman": "2026-10-20T11:18:07+03:00",
+   "kelimeler": [
+    "akden",
+    "alarm",
+    "geldi",
+    "iki",
+    "in",
+    "korfe",
+    "kotu",
+    "senar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "45c6d708769d": {
+   "id": "45c6d708769d",
+   "kaynak": "AA",
+   "baslik": "IRENA'dan COP31 için elektrifikasyonun öncelenmesi ve şebeke yatırımı çağrısı",
+   "ozet": "Uluslararası Yenilenebilir Enerji Ajansı (IRENA) Genel Direktörü Francesco La Camera, Paris Anlaşması hedeflerine ulaşılması için elektrifikasyonun hızlandırılması ve elektrik şebekelerinin güçlendirilmesi gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/irenadan-cop31-icin-elektrifikasyonun-oncelenmesi-ve-sebeke-yatirimi-cagrisi/4094283",
+   "zaman": "2026-10-20T11:21:23+03:00",
+   "kelimeler": [
+    "cagri",
+    "cop31",
+    "dan",
+    "elekt",
+    "irena",
+    "oncel",
+    "sebek",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "34e392914a86": {
+   "id": "34e392914a86",
+   "kaynak": "AA",
+   "baslik": "Düzenleyici ve denetleyici kurumlara 2027 bütçesinde 115,2 milyar lira ayrıldı",
+   "ozet": "Düzenleyici ve denetleyici kurumların 2027 yılı bütçesinden alacağı pay 115 milyar 219 milyon 571 bin lira olarak belirlendi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/duzenleyici-ve-denetleyici-kurumlara-2027-butcesinde-115-2-milyar-lira-ayrildi/4094286",
+   "zaman": "2026-10-20T11:22:46+03:00",
+   "kelimeler": [
+    "115",
+    "2027",
+    "ayril",
+    "butce",
+    "denet",
+    "duzen",
+    "kurum",
+    "lira",
+    "milya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e9660dadea24": {
+   "id": "e9660dadea24",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da yarın bazı ilçelerde su kesintisi yapılacak",
+   "ozet": "İstanbul'da yapılacak isale hattı çalışmaları nedeniyle Başakşehir, Esenyurt ve Arnavutköy'ün bazı mahallelerine yarın 11 saat boyunca su verilemeyecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yarin-bazi-ilcelerde-su-kesintisi-yapilacak/4094291",
+   "zaman": "2026-10-20T11:25:49+03:00",
+   "kelimeler": [
+    "bazi",
+    "ilcel",
+    "istan",
+    "kesin",
+    "su",
+    "yapil",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b34caff2aeb8": {
+   "id": "b34caff2aeb8",
+   "kaynak": "AA",
+   "baslik": "İstanbul Havalimanı \"dünyanın en iyisi\" seçildi",
+   "ozet": "İGA İstanbul Havalimanı, Conde Nast Traveller dergisinin İngiltere edisyonu tarafından düzenlenen \"Okuyucu Tercihleri Ödülleri 2026\" (Readers' Choice Awards 2026) kapsamında \"Dünyanın En İyi Havalimanı\" seçildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-havalimani-dunyanin-en-iyisi-secildi/4094292",
+   "zaman": "2026-10-20T11:26:33+03:00",
+   "kelimeler": [
+    "dunya",
+    "haval",
+    "istan",
+    "iyisi",
+    "secil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5ee9b15ba707": {
+   "id": "5ee9b15ba707",
+   "kaynak": "Sözcü",
+   "baslik": "Bakan Şimşek'ten fon açıklaması",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/bakan-simsek-ten-fon-aciklamasi-p370918",
+   "zaman": "2026-10-20T11:29:21+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "fon",
+    "simse",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 11:31:11  14 yeni haber",
   "20.10 11:16:04  10 yeni haber",
   "20.10 11:01:18  15 yeni haber",
   "20.10 10:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TBMM Başkanı Kurtulmuş, Bişkek'te Kazakistan Kurultay Başkanı Dadebay ",
@@ -19212,8 +19455,7 @@
   "18.10 09:03:14  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 09:03:14  Ek paylaşılamadı: reels: Instagram görseli işleyemedi (ERROR)",
   "18.10 09:03:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook + Facebook_reels): XHABER · Fransa’da olaylar kontrolden çıktı.",
-  "18.10 08:46:10  1 yeni haber",
-  "18.10 08:30:47  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 08:46:10  1 yeni haber"
  ],
  "otomatik": false
 }
