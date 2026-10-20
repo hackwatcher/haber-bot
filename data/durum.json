@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "0c23cc441ded": {
-   "id": "0c23cc441ded",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Bolat: İstanbul'da selden etkilenen esnafa 80 milyon TL destek verilecek",
-   "ozet": "TİCARET Bakanı Ömer Bolat, İstanbul’da sel felaketinden etkilenen esnafların acil ihtiyaçlarının karşılanması için 80 milyon TL nakdi destek sağlanacağını açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-bolat-istanbulda-selden-etkilenen-esnafa-80-milyon-tl-destek-verilecek-43345698",
-   "zaman": "2026-10-17T22:42:34+03:00",
-   "kelimeler": [
-    "80",
-    "bakan",
-    "bolat",
-    "deste",
-    "esnaf",
-    "etkil",
-    "istan",
-    "milyo",
-    "selde",
-    "tl",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "NTV"
-   ]
-  },
   "2f01cb58e91c": {
    "id": "2f01cb58e91c",
    "kaynak": "Sözcü",
@@ -21723,7 +21696,10 @@
     "tekli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "3898761c9bec": {
    "id": "3898761c9bec",
@@ -24452,7 +24428,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "2e97cf4f13ca": {
@@ -24582,9 +24559,89 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d7ff842637ce"
+  },
+  "0ac44be9b621": {
+   "id": "0ac44be9b621",
+   "kaynak": "AA",
+   "baslik": "Aile ortamında başlayan canlandırmalar çocukları tiyatro sahnesine taşıdı",
+   "ozet": "Malatya'da ailelerin desteğiyle tiyatro çalışmalarını sürdüren 14 çocuk, hazırladıkları oyunlarla son bir yılda 6 kez sahne alarak yaklaşık 1000 izleyiciyle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/aile-ortaminda-baslayan-canlandirmalar-cocuklari-tiyatro-sahnesine-tasidi/4095066",
+   "zaman": "2026-10-20T22:17:01+03:00",
+   "kelimeler": [
+    "aile",
+    "basla",
+    "canla",
+    "cocuk",
+    "ortam",
+    "sahne",
+    "tasid",
+    "tiyat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8132161dc7f9": {
+   "id": "8132161dc7f9",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara'da EGO otobüsü üst geçidin ayağına çarptı: 24 yaralı",
+   "ozet": "Ankara'nın Etimesgut ilçesinde yoldan çıkan EGO otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı. Otobüste sıkışan şoför kurtarılarak sağlık ekiplerine teslim edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-ego-otobusu-ust-gecidin-ayagina-carpti-24-yarali-960684.html",
+   "zaman": "2026-10-20T22:23:00+03:00",
+   "kelimeler": [
+    "24",
+    "ankar",
+    "ayagi",
+    "carpt",
+    "ego",
+    "gecid",
+    "otobu",
+    "ust",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c29bc26164ac"
+  },
+  "2cb6113b07b3": {
+   "id": "2cb6113b07b3",
+   "kaynak": "Hürriyet",
+   "baslik": "Fergani’nin altıncı uydusu uzayda",
+   "ozet": "Fergani Uzay’ın tamamen milli imkânlarla geliştirdiği altıncı deneme uydusu olan FRG-100D4 uzaya çıktı. Haberleşme ve navigasyon yetenekleriyle donatılan 160 kg ağırlığındaki yeni nesil milli uydu, yörüngesine yerleşerek göreve başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ferganinin-altinci-uydusu-uzayda-43349060",
+   "zaman": "2026-10-20T22:29:18+03:00",
+   "kelimeler": [
+    "altin",
+    "ferga",
+    "nin",
+    "uydus",
+    "uzayd"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8fcc2825bad3": {
+   "id": "8fcc2825bad3",
+   "kaynak": "Hürriyet",
+   "baslik": "Meclis'te fon teklifinin görüşmeleri öne çekildi",
+   "ozet": "TBMM Genel Kurulu’nda AK Parti'nin verdiği grup önerisiyle Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi’nin görüşmeleri öne çekildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mecliste-fon-teklifinin-gorusmeleri-one-cekildi-43349069",
+   "zaman": "2026-10-20T22:34:20+03:00",
+   "kelimeler": [
+    "cekil",
+    "fon",
+    "gorus",
+    "mecli",
+    "one",
+    "te",
+    "tekli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab170f71838c"
   }
  },
  "kayit": [
+  "20.10 22:46:10  2 yeni haber",
   "20.10 22:31:18  4 yeni haber",
   "20.10 22:16:01  3 yeni haber",
   "20.10 22:01:23  3 yeni haber",
@@ -24783,8 +24840,7 @@
   "18.10 19:16:01  1 yeni haber",
   "18.10 19:01:16  1 yeni haber",
   "18.10 18:59:04  65 yeni haber",
-  "18.10 18:46:12  2 yeni haber",
-  "18.10 17:31:14  1 yeni haber"
+  "18.10 18:46:12  2 yeni haber"
  ],
  "otomatik": false
 }
