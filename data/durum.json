@@ -22825,7 +22825,10 @@
     "tbmm"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "328f3c171f68": {
    "id": "328f3c171f68",
@@ -22847,9 +22850,153 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "af3b6fbd0b69": {
+   "id": "af3b6fbd0b69",
+   "kaynak": "AA",
+   "baslik": "TFF Merkez Hakem Kurulu başkanlığına Anthony Taylor getirildi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF), Merkez Hakem Kurulu (MHK) başkanlığına Anthony Taylor'ın getirildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/tff-merkez-hakem-kurulu-baskanligina-anthony-taylor-getirildi/4094747",
+   "zaman": "2026-10-20T16:44:38+03:00",
+   "kelimeler": [
+    "antho",
+    "baska",
+    "getir",
+    "hakem",
+    "kurul",
+    "merke",
+    "taylo",
+    "tff"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9e3770dfc746"
+  },
+  "5711231454f8": {
+   "id": "5711231454f8",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçdaroğlu'nun odasının karşısına şerit çekildi: meclis'te dikkat çeken tedbir",
+   "ozet": "Yeni Partili Murat Emir, TBMM'de Kemal Kılıçdaroğlu'nun çalışma odasının karşısında bulunan odasının önüne şerit çektirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglunun-odasinin-karsisina-serit-cekildi-mecliste-dikkat-ceken-tedbir-43348825",
+   "zaman": "2026-10-20T17:07:00+03:00",
+   "kelimeler": [
+    "ceken",
+    "cekil",
+    "dikka",
+    "karsi",
+    "kilic",
+    "mecli",
+    "nun",
+    "odasi",
+    "serit",
+    "te",
+    "tedbi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "110ab2d2bfba": {
+   "id": "110ab2d2bfba",
+   "kaynak": "Hürriyet",
+   "baslik": "Balıkçı teknesinde feci olay: 1 kişi hayatını kaybetti, 3 kişi yaralandı",
+   "ozet": "Trabzon’da balıkçı teknesindeki acı olay teknedeki güvenlik kamerasına yansıdı. Tekneyle avlanırken ağ çekmede kullanılan vinç sistemi üzerine devrilen İzzet Sırtbaşı (40) hayatını kaybetti, 3 balıkçı yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/balikci-teknesinde-feci-olum-1-kisi-hayatini-kaybetti-3-kisi-yaralandi-43348820",
+   "zaman": "2026-10-20T17:11:00+03:00",
+   "kelimeler": [
+    "balik",
+    "feci",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "olay",
+    "tekne",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca97b661d6c8": {
+   "id": "ca97b661d6c8",
+   "kaynak": "AA",
+   "baslik": "Galatasaray'ın Lille maçı kamp kadrosu belli oldu",
+   "ozet": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın deplasmanda Fransız ekibi Lille ile karşılaşacak Galatasaray'ın kamp kadrosu belli oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasarayin-lille-maci-kamp-kadrosu-belli-oldu-/4094790",
+   "zaman": "2026-10-20T17:12:08+03:00",
+   "kelimeler": [
+    "belli",
+    "galat",
+    "in",
+    "kadro",
+    "kamp",
+    "lille",
+    "maci"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f74cff44c3ba": {
+   "id": "f74cff44c3ba",
+   "kaynak": "Sözcü",
+   "baslik": "Gaziosmanpaşa Belediye Başkanı Bahçetepe için tahliye talebi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/hakan-bahcetepe-tahliye-edilecek-mi-p371055",
+   "zaman": "2026-10-20T17:24:45+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "beled",
+    "gazio",
+    "tahli",
+    "taleb"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "c63e06e427c8": {
+   "id": "c63e06e427c8",
+   "kaynak": "NTV",
+   "baslik": "Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe'nin tahliyesi istendi",
+   "ozet": "Gaziosmanpaşa Belediyesi davasında mütaala açıklandı. Belediye Başkanı Hakan Bahçetepe'nin tahliyesi istendi.",
+   "link": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepenin-tahliyesi-istendi-1747199",
+   "zaman": "2026-10-20T17:29:33+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "beled",
+    "davas",
+    "gazio",
+    "hakan",
+    "isten",
+    "nin",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f74cff44c3ba"
+  },
+  "114ff861e98e": {
+   "id": "114ff861e98e",
+   "kaynak": "NTV",
+   "baslik": "TBMM'de sandalye dağılımı değişti",
+   "ozet": "Bağımsız Bursa Milletvekili Cemalettin Kani Torun'un AK Parti'ye katılmasıyla TBMM'deki sandalye dağılımı değişirken, AK Parti'nin sandalye sayısı 281'e yükseldi.",
+   "link": "https://www.ntv.com.tr/turkiye/tbmmde-sandalye-dagilimi-degisti-1747201",
+   "zaman": "2026-10-20T17:30:54+03:00",
+   "kelimeler": [
+    "dagil",
+    "degis",
+    "sanda",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "87998786bf6e"
   }
  },
  "kayit": [
+  "20.10 17:31:16  4 yeni haber",
   "20.10 17:18:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
   "20.10 17:16:00  5 yeni haber",
   "20.10 17:01:35  6 yeni haber",
@@ -23048,8 +23195,7 @@
   "18.10 13:04:20  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 13:04:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook + Facebook_reels): Hürriyet · Adana'da fırtına çatıyı uçurdu! Evin sahibi o anları anlattı: Deprem o",
   "18.10 13:01:11  1 yeni haber",
-  "18.10 12:45:59  3 yeni haber",
-  "18.10 12:34:09  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)"
+  "18.10 12:45:59  3 yeni haber"
  ],
  "otomatik": false
 }
