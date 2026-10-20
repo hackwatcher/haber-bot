@@ -164,40 +164,6 @@
    "slayt": 1,
    "kanca": "Dikkat"
   },
-  "2211498b9c8f": {
-   "id": "2211498b9c8f",
-   "kaynak": "Hürriyet",
-   "baslik": "Tehlike geçmedi: Sağanak yağış geri geliyor! Sel felaketinin ardından uyarılar peş peşe geldi | Meteoroloji saat verdi: İstanbul dahil 45 ilde alarm",
-   "ozet": "İstanbul başta olmak üzere birçok kentte yaşanan sel felaketinin ardından Meteoroloji Genel Müdürlüğü’nden sarı ve turuncu kodlu yeni bir uyarı geldi. Yurt genelinde 45 ili etkisi altına alması beklenen şiddetli sağanak ve kuvvetli fırtına nedeniyle yetkililer teyakkuza geçti.",
-   "link": "https://www.hurriyet.com.tr/gundem/live-tehlike-gecmedi-saganak-yagis-geri-geliyor-sel-felaketinin-ardindan-uyarilar-pes-pese-geldi-meteoroloji-saat-verdi-istanbul-dahil-45-43344817",
-   "zaman": "2026-10-17T07:31:00+03:00",
-   "kelimeler": [
-    "45",
-    "alarm",
-    "ardin",
-    "dahil",
-    "felak",
-    "gecme",
-    "geldi",
-    "geliy",
-    "geri",
-    "ilde",
-    "istan",
-    "meteo",
-    "pes",
-    "pese",
-    "saat",
-    "sagan",
-    "sel",
-    "tehli",
-    "uyari",
-    "verdi",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "013fb9e9c775"
-  },
   "fceb0b0c541a": {
    "id": "fceb0b0c541a",
    "kaynak": "BBC Türkçe",
@@ -12724,7 +12690,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0bb5acbff811": {
    "id": "0bb5acbff811",
@@ -16772,9 +16741,105 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "34c7ec0006d2": {
+   "id": "34c7ec0006d2",
+   "kaynak": "TRT Haber",
+   "baslik": "Bangladeş'te kızamık şüphesiyle ölen çocuk sayısı 1201'e yükseldi",
+   "ozet": "Bangladeş'te mart ayı ortasından bu yana devam eden salgında kızamık şüphesiyle hayatını kaybeden çocuk sayısının 1201'e yükseldiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/bangladeste-kizamik-suphesiyle-olen-cocuk-sayisi-1201e-yukseldi-960581.html",
+   "zaman": "2026-10-20T07:08:00+03:00",
+   "kelimeler": [
+    "1201",
+    "bangl",
+    "cocuk",
+    "kizam",
+    "olen",
+    "sayis",
+    "suphe",
+    "te",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9cc1c1d73c85"
+  },
+  "21c899d98f44": {
+   "id": "21c899d98f44",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünyanın en hızlı büyüyen şehirleri listesinde dengeler değişti",
+   "ozet": "Hindistan'ın Ghaziabad kenti, yıllık yüzde 5,2'lik nüfus artışıyla dünyanın en hızlı büyüyen şehri oldu. İlk sıralarda Asya ve Afrika kentlerinin yer aldığı listede, dünyanın en kalabalık şehri ise 41,9 milyon nüfusuyla Endonezya'nın başkenti Cakarta oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/dunyanin-en-hizli-buyuyen-sehirleri-listesinde-dengeler-degisti-960582.html",
+   "zaman": "2026-10-20T07:12:00+03:00",
+   "kelimeler": [
+    "buyuy",
+    "degis",
+    "denge",
+    "dunya",
+    "hizli",
+    "liste",
+    "sehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fbc865f731ba": {
+   "id": "fbc865f731ba",
+   "kaynak": "Hürriyet",
+   "baslik": "Önce 6 yaşındaki Eylül ve Yusuf, şimdi 11’indeki Hamza... Çocuklarda kalp krizi alarm veriyor! İşte gizli belirtiler",
+   "ozet": "11 yaşındaki Hamza, 6 yaşındaki Eylül ve Muhammed Yusuf... Peş peşe yaşanan çocuk ölümleri tüm Türkiye'yi yasa boğdu. Ailelerin aklındaki soru ise aynı: Çocuklarda herhangi bir belirti olmadan kalp krizi yaşanması nasıl mümkün oluyor?",
+   "link": "https://www.hurriyet.com.tr/gundem/once-6-yasindaki-eylul-ve-yusuf-simdi-11indeki-hamza-cocuklarda-kalp-krizi-alarm-veriyor-iste-gizli-belirtiler-43346863",
+   "zaman": "2026-10-20T07:14:00+03:00",
+   "kelimeler": [
+    "11",
+    "alarm",
+    "belir",
+    "cocuk",
+    "eylul",
+    "gizli",
+    "hamza",
+    "indek",
+    "iste",
+    "kalp",
+    "krizi",
+    "simdi",
+    "veriy",
+    "yasin",
+    "yusuf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "80c4d76e9ab9": {
+   "id": "80c4d76e9ab9",
+   "kaynak": "Hürriyet",
+   "baslik": "Aşırı sağanak yerini 25-30 derece sıcaklığa bırakıyor: Sonbaharın ılık yüzü! İstanbul’da hava nasıl olacak?",
+   "ozet": "İstanbul başta olmak üzere birçok kentte hayatı olumsuz etkileyen şiddetli sağanakların ardından Türkiye, bu hafta sıcak günlerin etkisine giriyor. Bazı bölgelerde sıcaklıkların 30 dereceye yaklaşması beklenirken, İstanbul’da hava nasıl olacak?",
+   "link": "https://www.hurriyet.com.tr/gundem/asiri-saganak-yerini-25-30-derece-sicakliga-birakiyor-sonbaharin-ilik-yuzu-istanbulda-hava-nasil-olacak-43347318",
+   "zaman": "2026-10-20T07:14:04+03:00",
+   "kelimeler": [
+    "25",
+    "30",
+    "asiri",
+    "birak",
+    "derec",
+    "hava",
+    "ilik",
+    "istan",
+    "nasil",
+    "olaca",
+    "sagan",
+    "sicak",
+    "sonba",
+    "yerin",
+    "yuzu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.10 07:31:15  3 yeni haber",
   "20.10 07:16:03  17 yeni haber",
   "20.10 07:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · MS | Trabzonspor 2-0 Beşiktaş",
   "20.10 05:46:12  1 yeni haber",
@@ -16973,8 +17038,7 @@
   "18.10 01:48:01  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
   "18.10 01:48:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story): XHABER · İstanbul Çekmeköy'de sel felaketini aktaran NTV muhabiri Beyzanur Özer",
   "18.10 01:18:52  Ek paylaşılamadı: yorum: (#10) Application does not have permission for this action  (kod 10/-)",
-  "18.10 01:18:52  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): XHABER · Trump: “Orta Doğu’dan birinin adından emin değilseniz, direkt Muhammed",
-  "18.10 01:01:22  Otomatik paylaşım başarısız: list index out of range"
+  "18.10 01:18:52  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Story): XHABER · Trump: “Orta Doğu’dan birinin adından emin değilseniz, direkt Muhammed"
  ],
  "otomatik": false
 }
