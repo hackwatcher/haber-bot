@@ -1,0 +1,132 @@
+XHABER — HABER KARTI GÖRSELLERİ (100 adet)
+
+CODEX / GPT'YE TALİMAT:
+1. Aşağıdaki 100 görseli SIRAYLA, tek tek üret.
+2. Her görseli başındaki kodla adlandırıp PNG olarak şu klasöre kaydet:
+   C:\Users\CASPER\Desktop\321\haberbot\gorseller\
+   Örnek: C:\Users\CASPER\Desktop\321\haberbot\gorseller\gundem_01.png
+   Klasör yoksa oluştur. Hepsi bu tek klasörde olsun, alt klasör açma.
+3. Klasörde zaten olan dosyayı atla (yarıda kalırsa kaldığın yerden devam edebilmek için).
+4. Bir görsel üretilemezse (ör. güvenlik reddi) atla, sonraki görsele geç. Sonunda atladıklarının listesini ver.
+5. Başka hiçbir dosyaya dokunma. Kendi yorumunu ekleme.
+
+HER GÖRSEL İÇİN ORTAK KURALLAR (her prompta ekle):
+- Yatay format, 3:2 (1536x1024).
+- Fotogerçekçi, profesyonel haber fotoğrafçılığı, gerçek kamera ve lens hissi, doğal ışık, hafif sinematik renk.
+- Sahne Türkiye'de geçiyor: Türk mimarisi, Türk plakaları, Türkçe ortam.
+- YAZI YOK, logo yok, filigran yok (ayrıca belirtilenler hariç).
+- Tanınabilir gerçek kişi yok (siyasetçi, ünlü vb.). İnsanlar varsa arkadan, uzaktan, bulanık ya da yüzü seçilmeyecek şekilde.
+- Gerçek kulüp armaları ve marka logoları yok.
+- Görselin alt üçte biri sade olsun (üstüne haber yazısı gelecek).
+
+────────── GÜNDEM / SİYASET (20) ──────────
+gundem_01: Turkish Grand National Assembly building in Ankara, wide shot at golden hour, Turkish flag waving on top.
+gundem_02: Empty parliament general assembly hall with red seats and a speaker's podium, soft overhead light.
+gundem_03: Close-up of many news microphones on a podium in front of a blurred Turkish flag.
+gundem_04: Large Turkish flag waving against a dramatic cloudy sky, low angle.
+gundem_05: Ballot box with an official seal on a school classroom desk, election day, soft window light.
+gundem_06: Hand dropping an envelope into a transparent ballot box, shallow depth of field.
+gundem_07: Ankara Kızılay square at dusk, traffic light trails, city lights.
+gundem_08: Anıtkabir colonnade in Ankara under a clear blue sky, symmetrical composition.
+gundem_09: Crowd at a political rally seen from behind, many Turkish flags in the air, evening stage lights, faces not visible.
+gundem_10: Press room with rows of empty chairs and cameras on tripods facing a podium.
+gundem_11: Journalists' hands holding phones and recorders toward an unseen speaker, motion blur.
+gundem_12: Vote counting table with stacks of ballot papers and stamps, officials' hands only.
+gundem_13: Istanbul skyline with mosques at sunrise, Turkish flag in the foreground.
+gundem_14: Government office desk with documents, a fountain pen and a small Turkish flag, moody light.
+gundem_15: Election campaign posters and flags hanging across a busy Turkish street, colorful, no readable text.
+gundem_16: TV studio with an empty debate table and bright studio lights, blue tones.
+gundem_17: Long corridor of a Turkish government building with marble floors and flags.
+gundem_18: Aerial view of Ankara city center at night.
+gundem_19: Turkish flags lining a boulevard during a national holiday, morning light.
+gundem_20: Wooden gavel and Turkish legal books on a desk, symbolic of new laws.
+
+────────── AFET (16) ──────────
+afet_01: Search and rescue team in orange uniforms working on a collapsed building at night, floodlights, dust in the air, faces not visible.
+afet_02: Collapsed concrete building rubble in a Turkish city after an earthquake, grey sky.
+afet_03: Rows of disaster relief tents in a field, early morning fog.
+afet_04: Firefighters fighting a forest fire on a Turkish hillside, orange flames and smoke, silhouettes.
+afet_05: Firefighting airplane dropping water over a burning pine forest near the Aegean coast.
+afet_06: Flooded street in a Turkish town, cars half under muddy water, heavy rain.
+afet_07: Rescue boat on a flooded road, rescuers in life jackets, seen from behind.
+afet_08: Heavy snowstorm on a Turkish highway, trucks and snowplow with flashing lights.
+afet_09: Ambulances and emergency vehicles lined up with flashing lights, rainy night, Turkish ambulance style.
+afet_10: Cracked asphalt road after an earthquake, warning cones.
+afet_11: Volunteers carrying aid boxes and water bottles, hands and boxes in focus.
+afet_12: Landslide blocking a mountain road in the Black Sea region, green hills, excavator.
+afet_13: Storm clouds and lightning over Istanbul, dramatic sky.
+afet_14: Sea waves crashing over a coastal promenade during a storm, Turkish seaside town.
+afet_15: Seismograph needle drawing sharp lines on paper, close-up, dramatic light.
+afet_16: Burned black forest landscape after a wildfire, smoke still rising, sunset.
+
+────────── EKONOMİ (16) ──────────
+ekonomi_01: Turkish lira banknotes spread on a table, close-up, shallow depth of field.
+ekonomi_02: Stack of Turkish lira coins with a blurred city in the background.
+ekonomi_03: Currency exchange office display board at night in Istanbul, glowing red LED numbers, no readable names.
+ekonomi_04: Stock market trading screens with red and green charts, blurred trader silhouettes.
+ekonomi_05: Istanbul Levent financial district skyscrapers at blue hour.
+ekonomi_06: Supermarket aisle with a shopping cart, price tags blurred, everyday life.
+ekonomi_07: Turkish open-air bazaar with fresh vegetables and fruit stalls, vibrant colors.
+ekonomi_08: Gas station pump nozzle in a hand, fuel price theme, evening.
+ekonomi_09: Gold bracelets and gold coins in a jewelry shop window at the Grand Bazaar.
+ekonomi_10: Container port with cranes and cargo ships at sunset, export theme, Turkish coast.
+ekonomi_11: Factory production line with workers in safety gear, seen from a distance.
+ekonomi_12: Hand holding a supermarket receipt and a wallet, close-up.
+ekonomi_13: Rising line chart drawn on glass with a blurred office behind.
+ekonomi_14: Shoppers walking through a historic covered bazaar, warm lights, motion blur.
+ekonomi_15: Calculator, bills and a pen on a kitchen table, household budget theme.
+ekonomi_16: Wheat field in Central Anatolia with a tractor at golden hour, agriculture theme.
+
+────────── DÜNYA (16) ──────────
+dunya_01: Turkish flag next to other national flags at an international summit hall, blurred.
+dunya_02: Diplomatic meeting table with small flags and microphones, empty chairs.
+dunya_03: Bosphorus Bridge in Istanbul connecting Europe and Asia at dusk, ships passing.
+dunya_04: Earth globe on a desk with a map of the Middle East and Europe in focus.
+dunya_05: Airport departure hall with planes visible through glass windows, travel and diplomacy.
+dunya_06: Military aircraft flying over clouds, side view, no markings visible.
+dunya_07: Navy ship sailing on the Mediterranean, dramatic sky.
+dunya_08: Border gate with trucks waiting in line, dusty landscape.
+dunya_09: World map with glowing connection lines, dark blue tones.
+dunya_10: Humanitarian aid trucks convoy on a desert road.
+dunya_11: Large conference room of an international organization, rows of desks with flags.
+dunya_12: Oil tanker in the Turkish Straits, Istanbul skyline behind.
+dunya_13: Embassy building gate with flags and security barriers, neutral, no readable text.
+dunya_14: Night view of a war-torn city skyline in the distance with smoke, no people.
+dunya_15: Handshake between two people in suits, close-up of hands only, flags blurred behind.
+dunya_16: Satellite view style image of the Eastern Mediterranean and Turkey from space.
+
+────────── SPOR (16) ──────────
+spor_01: Packed football stadium at night under floodlights, red and yellow fans' flares, wide shot.
+spor_02: Football stadium full of fans in yellow and navy blue, flags waving, night match.
+spor_03: Stadium crowd in black and white with smoke from flares, dramatic.
+spor_04: Football on the center spot of a green pitch, low angle, stadium lights.
+spor_05: Football player's boots kicking a ball, close-up, grass flying, no logos.
+spor_06: Goalkeeper diving to save a ball, motion blur, generic kit without logos.
+spor_07: Fans holding red Turkish national flags in a stadium, national team match atmosphere.
+spor_08: Empty stadium seats in red, rows leading to the pitch.
+spor_09: Basketball going through the hoop in an indoor arena, crowd blurred.
+spor_10: Volleyball player spiking the ball in an indoor arena, generic red jersey.
+spor_11: Trophy cup on a pedestal with confetti falling, stadium lights.
+spor_12: Coach's tactical board with magnets on a bench, pitch blurred behind.
+spor_13: Referee holding up a red card, close-up of hand and card, blurred stadium.
+spor_14: Players' tunnel leading to a bright pitch, dramatic light.
+spor_15: Wrestler's hands on a wrestling mat, Turkish wrestling tradition, dramatic light.
+spor_16: Marathon runners crossing the Bosphorus Bridge, motion blur.
+
+────────── ASAYİŞ (16) ──────────
+asayis_01: Turkish police car with blue and red lights flashing at night on a city street, "POLİS" text on the car allowed.
+asayis_02: Police barrier tape across a dark street, blurred police lights behind.
+asayis_03: Turkish courthouse exterior with stone columns, cloudy day.
+asayis_04: Handcuffs on a wooden table, dramatic side light.
+asayis_05: Police officers seen from behind at a checkpoint at night, reflective vests.
+asayis_06: Turkish gendarmerie vehicle on a rural road, green and white, dusk.
+asayis_07: Judge's gavel on a courtroom desk, scales of justice blurred behind.
+asayis_08: Evidence bags and a magnifying glass on a desk, crime investigation theme.
+asayis_09: Prison corridor with barred doors, cold light.
+asayis_10: Ambulance and police car at a traffic accident scene at night, wet road reflections.
+asayis_11: Seized drugs packages and cash laid out on a table for a press display, no people.
+asayis_12: Security camera mounted on a building wall, city street below.
+asayis_13: Police helicopter flying over Istanbul at dusk.
+asayis_14: Coast guard boat patrolling the Aegean Sea, waves.
+asayis_15: Fingerprint scan on a dark digital screen, blue tones, cybercrime theme.
+asayis_16: Courthouse hallway with lawyers in black robes walking, seen from behind, blurred.

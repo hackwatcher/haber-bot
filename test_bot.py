@@ -142,7 +142,12 @@ class TestHaberBot(unittest.TestCase):
             z = ai_editor.zenginlestir_ai(self.ornek_haber, varsayilan)
             self.assertEqual(z["kanca"], "ELMANIN İÇİNDE ÇALINDI")
             self.assertEqual(z["konu"], "dunya")
-            self.assertEqual(z["foto"]["yol"], "data/kapaklar/test12345678.jpg")
+            self.assertEqual(z.get("foto"), varsayilan.get("foto"))  # AI kapak üretmez, havuz seçer
+
+    def test_havuz_alt_konu_secimi(self):
+        import havuz
+        self.assertEqual(havuz.sec({"konu": "afet", "baslik": "Malatya'da 4.8 büyüklüğünde deprem"}, "X")["yol"], "havuz/afet_15.jpg")
+        self.assertEqual(havuz.sec({"konu": "asayis", "baslik": "TEM'de zincirleme kaza"}, "X")["yol"], "havuz/asayis_10.jpg")
 
     def test_telegram_kaynak_ve_akilli_oncelik(self):
         """Telegram HTML ayrıştırıcı foto/video/metin çıkarmalı ve bot.otomatik_sec Akıllı Öncelik uygulamalı."""

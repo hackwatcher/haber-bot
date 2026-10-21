@@ -147,13 +147,7 @@ def zenginlestir_ai(h, z_varsayilan=None):
             tags = [t.strip() if t.strip().startswith("#") else f"#{t.strip()}" for t in ai["hashtagler"] if isinstance(t, str) and t.strip()]
             if tags:
                 z["hashtagler"] = tags[:2]
-
-        # Henüz kapak fotoğrafı yoksa AI ile üretmeyi dene
-        if not z.get("foto"):
-            bagil_yol = gorsel_uret(ai.get("gorsel_prompt", ""), h["id"], anahtar)
-            if bagil_yol:
-                marka = haber.ayar().get("marka", "XHABER")
-                z["foto"] = {"yol": bagil_yol, "not": f"Temsili görsel · {marka}"}
+        # Kapak görseli AI ile üretilmiyor (kalite düşük); bot.hazirla havuzdan seçer.
         return z
     except Exception as e:
         temiz_hata = str(e).replace(anahtar, "***")

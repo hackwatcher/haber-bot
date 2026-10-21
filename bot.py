@@ -7,6 +7,7 @@ import threading
 
 import ai_editor
 import haber
+import havuz
 import kart
 import karusel
 import ozet
@@ -55,6 +56,8 @@ def hazirla(h, duzenleme=None):
         z = ai_editor.zenginlestir_ai(h, z)
     uygula(z, h.get("duzenleme"), cfg["marka"])
     uygula(z, duzenleme, cfg["marka"])
+    if not z.get("foto"):
+        z["foto"] = havuz.sec(z, cfg["marka"])
     klasor = os.path.join(GORSEL, h["id"])
     shutil.rmtree(klasor, ignore_errors=True)
     os.makedirs(klasor)
