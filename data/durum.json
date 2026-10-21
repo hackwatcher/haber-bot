@@ -14248,7 +14248,10 @@
     "yilma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "572a509b3505": {
    "id": "572a509b3505",
@@ -26958,7 +26961,10 @@
     "topla"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b324eacd3760": {
    "id": "b324eacd3760",
@@ -27270,7 +27276,10 @@
     "yilda"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3ffb844c7882": {
    "id": "3ffb844c7882",
@@ -28073,9 +28082,207 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2ae4c136594f"
+  },
+  "ccb179b2a0d0": {
+   "id": "ccb179b2a0d0",
+   "kaynak": "AA",
+   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Erdoğan, AK Parti TBMM Grup Toplantısı'nda konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4095262",
+   "zaman": "2026-10-21T09:29:28+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ]
+  },
+  "bb2b60b4d7ed": {
+   "id": "bb2b60b4d7ed",
+   "kaynak": "AA",
+   "baslik": "\"Harem Balesi\" 28 yıllık yolculuğunu sürdürüyor",
+   "ozet": "Rejisör ve koreograf Merih Çimenciler'in 1998'de Osmanlı'nın 700. kuruluş yıl dönümü kutlamaları kapsamında sahneye koyduğu Harem Balesi, 28 yıldır farklı kuşaklardan dansçıların yorumuyla sanatseverlerle buluşmayı sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/harem-balesi-28-yillik-yolculugunu-surduruyor/4095421",
+   "zaman": "2026-10-21T11:11:50+03:00",
+   "kelimeler": [
+    "28",
+    "bales",
+    "harem",
+    "surdu",
+    "yilli",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9e77bdc32a7b": {
+   "id": "9e77bdc32a7b",
+   "kaynak": "AA",
+   "baslik": "Taş binada başlayan eğitim 100 yıldır sürüyor",
+   "ozet": "11. Cumhurbaşkanı Abdullah Gül ve Türk Halk Müziği sanatçısı Nezahat Bayram'ın da eğitim gördüğü Kayseri'deki Gazipaşa İlkokulu, bir asırdır minik öğrencilerin sesiyle yankılanıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/tas-binada-baslayan-egitim-100-yildir-suruyor/4095428",
+   "zaman": "2026-10-21T11:14:25+03:00",
+   "kelimeler": [
+    "100",
+    "basla",
+    "binad",
+    "egiti",
+    "suruy",
+    "tas",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c2fa4c36b9c": {
+   "id": "2c2fa4c36b9c",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, grup toplantısında konuşuyor",
+   "ozet": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin TBMM grup toplantısında konuşuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-grup-toplantisinda-konusuyor-960745.html",
+   "zaman": "2026-10-21T11:48:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "grup",
+    "konus",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "31f076901283": {
+   "id": "31f076901283",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin uzay ve havacılık faaliyetleri için 100 milyar liraya yakın ödenek",
+   "ozet": "Türkiye'nin uzay ve havacılık faaliyetlerinin geliştirilmesi amacıyla 2027'de 24 milyar 587 milyon lira, 2028'de 30 milyar 597 milyon lira, 2029'da 36 milyar 953 milyon lira olmak üzere gelecek 3 yılda 100 milyar liraya yakın kaynak kullanılması öngörülüyor.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-uzay-ve-havacilik-faaliyetleri-icin-100-milyar-liraya-yakin-odenek-960750.html",
+   "zaman": "2026-10-21T12:25:00+03:00",
+   "kelimeler": [
+    "100",
+    "faali",
+    "havac",
+    "liray",
+    "milya",
+    "nin",
+    "odene",
+    "turki",
+    "uzay",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cffbe817f633"
+  },
+  "62187ad7458b": {
+   "id": "62187ad7458b",
+   "kaynak": "TRT Haber",
+   "baslik": "Deprem bölgesindeki 11 ilin ihracatı 15,6 milyar doları aştı",
+   "ozet": "Deprem bölgesindeki 11 ilin ocakeylül dönemi ihracatı, 2026'da geçen yılın aynı dönemine göre 1,42 milyar dolar artış gösterdi. Gaziantep yaklaşık 8 milyar dolarla ilk sırada yer alırken, Elazığ'ın ihracatı yüzde 193,3 yükseldi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/deprem-bolgesindeki-11-ilin-ihracati-156-milyar-dolari-asti-960751.html",
+   "zaman": "2026-10-21T12:30:00+03:00",
+   "kelimeler": [
+    "11",
+    "15",
+    "asti",
+    "bolge",
+    "depre",
+    "dolar",
+    "ihrac",
+    "ilin",
+    "milya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d812a2488ec7"
+  },
+  "59725a23516f": {
+   "id": "59725a23516f",
+   "kaynak": "AA",
+   "baslik": "Emine Erdoğan: Gazze'deki 1 milyondan fazla çocuk, çocuk refahından haklarını alabilmenin hayaliyle yaşıyor",
+   "ozet": "Emine Erdoğan, \"Bugün Gazze'deki 1 milyondan fazla çocuk, çocuk refahından haklarını alabilmenin hayaliyle yaşıyor. Unutmayalım ki kimsenin geride kalmadığı bir dünya ancak savaş sirenleri sustuğunda mümkün olabilir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-gazzedeki-1-milyondan-fazla-cocuk-cocuk-refahindan-haklarini-alabilmenin-hayaliyle-yasiyor/4095560",
+   "zaman": "2026-10-21T12:33:01+03:00",
+   "kelimeler": [
+    "alabi",
+    "cocuk",
+    "deki",
+    "emine",
+    "erdog",
+    "fazla",
+    "gazze",
+    "hakla",
+    "hayal",
+    "milyo",
+    "refah",
+    "yasiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5ad5c7ca8b3d": {
+   "id": "5ad5c7ca8b3d",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
+   "ozet": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin TBMM Grup Toplantısı'nda açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43349387",
+   "zaman": "2026-10-21T12:33:45+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "dan",
+    "erdog",
+    "oneml"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bf0d97231ae3"
+  },
+  "62cb302ec103": {
+   "id": "62cb302ec103",
+   "kaynak": "AA",
+   "baslik": "Eskişehir'de \"Mukaddes Emanetler\" sergisi açıldı",
+   "ozet": "Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) Eskişehir Şubesi tarafından düzenlenen \"Mukaddes Emanetler Sergisi\", Eskişehir İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda ziyarete açıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/eskisehirde-mukaddes-emanetler-sergisi-acildi/4095575",
+   "zaman": "2026-10-21T12:42:16+03:00",
+   "kelimeler": [
+    "acild",
+    "emane",
+    "eskis",
+    "mukad",
+    "sergi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7b4ac4db942c": {
+   "id": "7b4ac4db942c",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan: Yeni siyaset diline ihtiyaç var",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'nin yeni bir siyaset diline ihtiyacı olduğunu söyledi, \"Tavırları, Türkiye'nin üzerine operasyon hayalleri kuranlara cesaret veren bir tavırdır.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-yeni-siyaset-diline-ihtiyac-var-1747330",
+   "zaman": "2026-10-21T12:44:27+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dilin",
+    "erdog",
+    "ihtiy",
+    "siyas",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
   }
  },
  "kayit": [
+  "21.10 12:46:06  5 yeni haber",
   "21.10 12:31:17  5 yeni haber",
   "21.10 12:16:24  11 yeni haber",
   "21.10 12:03:22  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AYM karar verdi... Yeni Parti’nin ismi değişmeyecek",
@@ -28274,8 +28481,7 @@
   "19.10 11:33:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İrkutsk vakası: Dünya Kovid-19'dan hangi dersleri çıkardı?",
   "19.10 11:31:12  11 yeni haber",
   "19.10 11:16:16  9 yeni haber",
-  "19.10 11:01:25  5 yeni haber",
-  "19.10 10:45:52  1 yeni haber"
+  "19.10 11:01:25  5 yeni haber"
  ],
  "otomatik": false
 }
