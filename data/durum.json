@@ -47,48 +47,6 @@
     "AA"
    ]
   },
-  "692c8211f144": {
-   "id": "692c8211f144",
-   "kaynak": "NTV",
-   "baslik": "Kırklareli'nde ilaç fabrikasında yangın",
-   "ozet": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/kirklarelinde-ilac-fabrikasinda-yangin-1746896",
-   "zaman": "2026-10-18T17:54:24+03:00",
-   "kelimeler": [
-    "fabri",
-    "ilac",
-    "kirkl",
-    "nde",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e95248231c43"
-  },
-  "3c30f6d4db24": {
-   "id": "3c30f6d4db24",
-   "kaynak": "AA",
-   "baslik": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu",
-   "ozet": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu.",
-   "link": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757",
-   "zaman": "2026-10-18T17:59:26+03:00",
-   "kelimeler": [
-    "27",
-    "hamza",
-    "kapis",
-    "kilom",
-    "kuyru",
-    "nda",
-    "olust",
-    "sinir",
-    "tir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
   "b4221d5e6035": {
    "id": "b4221d5e6035",
    "kaynak": "TRT Haber",
@@ -13377,7 +13335,10 @@
     "yila"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "465c594c4caf": {
    "id": "465c594c4caf",
@@ -18381,7 +18342,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Sözcü"
    ]
   },
   "9e3770dfc746": {
@@ -21105,7 +21067,10 @@
     "libya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f41bff1f16a6": {
    "id": "f41bff1f16a6",
@@ -30466,9 +30431,165 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9b28827c836a": {
+   "id": "9b28827c836a",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Göktaş: Önceliğimiz çocuğun haklarını koruyan güçlü bir sosyal koruma sistemi olmalı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Önceliğimiz, her çocuğun haklarını koruyan, ihtiyaçlarını gözeten ve potansiyelini geliştiren güçlü bir sosyal koruma sistemi oluşturmak olmalıdır\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-onceligimiz-cocugun-haklarini-koruyan-guclu-bir-sosyal-koruma-sistemi-olmali-960798.html",
+   "zaman": "2026-10-21T17:29:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "cocug",
+    "gokta",
+    "guclu",
+    "hakla",
+    "korum",
+    "koruy",
+    "olmal",
+    "oncel",
+    "siste",
+    "sosya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dd7cf79c07f3": {
+   "id": "dd7cf79c07f3",
+   "kaynak": "TRT Haber",
+   "baslik": "Yapay zeka dedektörleri edebiyat dünyasını karıştırdı: Yazarlar haksız yere suçlanıyor",
+   "ozet": "Yapay zeka araçlarının yaygınlaşması, edebi eserlerin yaratım sürecine yönelik şüpheleri artırırken, güvenilirliği tartışmalı olan yapay zeka dedektörleri birçok yazarın haksız yere suçlanmasına ve ödüllerinden mahrum kalmasına yol açıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-dedektorleri-edebiyat-dunyasini-karistirdi-yazarlar-haksiz-yere-suclaniyor-960796.html",
+   "zaman": "2026-10-21T17:39:00+03:00",
+   "kelimeler": [
+    "dedek",
+    "dunya",
+    "edebi",
+    "haksi",
+    "karis",
+    "sucla",
+    "yapay",
+    "yazar",
+    "yere",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f5daee1d2758": {
+   "id": "f5daee1d2758",
+   "kaynak": "TRT Haber",
+   "baslik": "MEB'den yurt dışındaki Türk çocuklarına 7 seviyeli ders kitabı seti",
+   "ozet": "Milli Eğitim Bakanlığınca MEB yurt dışında yaşayan Türk çocuklarının ana dilleriyle bağlarını güçlendirmek amacıyla hazırlanan güncel \"Türkçe ve Türk Kültürü\" ders kitapları erişime açıldı.",
+   "link": "https://www.trthaber.com/haber/egitim/mebden-yurt-disindaki-turk-cocuklarina-7-seviyeli-ders-kitabi-seti-960797.html",
+   "zaman": "2026-10-21T17:43:00+03:00",
+   "kelimeler": [
+    "cocuk",
+    "den",
+    "ders",
+    "disin",
+    "kitab",
+    "meb",
+    "seti",
+    "seviy",
+    "turk",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7271334d2a7a": {
+   "id": "7271334d2a7a",
+   "kaynak": "Hürriyet",
+   "baslik": "Terör örgütü DEAŞ'ın sözde sorumlusu, etkin pişmanlık istedi",
+   "ozet": "Milli İstihbarat Teşkilatı (MİT) tarafından sınırda yakalanıp, getirildiği Konya'da tutuklanan DEAŞ terör örgütünün Pakistan’da medya yapılanmasında sorumlu 'Ebu Ubeyde/Ebu İbrahim' kod adlı Ahmet Kazancı hakkında 15 yıla kadar hapis cezası istendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/teror-orgutu-deasin-sozde-sorumlusu-etkin-pismanlik-istedi-43350134",
+   "zaman": "2026-10-21T17:45:05+03:00",
+   "kelimeler": [
+    "deas",
+    "etkin",
+    "in",
+    "isted",
+    "orgut",
+    "pisma",
+    "sorum",
+    "sozde",
+    "teror"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3064800f25e9"
+  },
+  "d25c18863e52": {
+   "id": "d25c18863e52",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan: Türkiye-Libya deniz yetki alanları anlaşması hukuken ve siyaseten meşrudur",
+   "ozet": "Dışişleri Bakanı Fidan, Libya Temsilciler Meclisinin Türkiye ile Libya arasında 2019'da imzalanan deniz yetki alanları mutabakatını kabulüne ilişkin, anlaşmanın hem hukuki hem de siyasi açıdan son derece meşru olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-turkiye-libya-deniz-yetki-alanlari-anlasmasi-hukuken-ve-siyaseten-mesrudur/4096166",
+   "zaman": "2026-10-21T17:48:11+03:00",
+   "kelimeler": [
+    "alanl",
+    "anlas",
+    "bakan",
+    "deniz",
+    "disis",
+    "fidan",
+    "hukuk",
+    "libya",
+    "mesru",
+    "siyas",
+    "turki",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e8c737b9b383"
+  },
+  "3dfa0f6f984d": {
+   "id": "3dfa0f6f984d",
+   "kaynak": "Sözcü",
+   "baslik": "CHP'de 1 belediye başkanı ve 2 meclis üyesi için ihraç istemi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/chp-de-biri-belediye-baskani-3-ihrac-istemi-p371407",
+   "zaman": "2026-10-21T17:49:03+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "chp",
+    "ihrac",
+    "istem",
+    "mecli",
+    "uyesi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0320ec501d7a"
+  },
+  "789efa428c5e": {
+   "id": "789efa428c5e",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Libya’nın Türkiye anlaşmasını onaylaması Doğu Akdeniz'de dengeleri değiştirebilir mi?",
+   "ozet": "Libya Temsilciler Meclisi'nin 2019 yılında Türkiye ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı yedi yıl sonra onaylaması, Doğu Akdeniz'deki süren rekabet ve müzakereler açısından yeni bir denklemin ortaya çıkmasına neden oldu.",
+   "link": "https://www.bbc.com/turkce/articles/cwrkyldnkgndo",
+   "zaman": "2026-10-21T17:56:07+03:00",
+   "kelimeler": [
+    "akden",
+    "anlas",
+    "degis",
+    "denge",
+    "dogu",
+    "libya",
+    "nin",
+    "onayl",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 18:01:27  4 yeni haber",
   "21.10 17:46:06  5 yeni haber",
   "21.10 17:31:12  5 yeni haber",
   "21.10 17:18:55  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yemek kuryesi süsü verdiler, uyuşturucuyu bulaşık makinesine gizledile",
@@ -30667,8 +30788,7 @@
   "19.10 17:01:38  1 yeni haber",
   "19.10 16:56:27  5 yeni haber",
   "19.10 16:46:08  8 yeni haber",
-  "19.10 16:31:15  11 yeni haber",
-  "19.10 16:15:57  5 yeni haber"
+  "19.10 16:31:15  11 yeni haber"
  ],
  "otomatik": false
 }
