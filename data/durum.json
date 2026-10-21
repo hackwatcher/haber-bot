@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "2cff158f2137": {
-   "id": "2cff158f2137",
-   "kaynak": "NTV",
-   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1746902",
-   "zaman": "2026-10-18T20:14:33+03:00",
-   "kelimeler": [
-    "26",
-    "agust",
-    "bilet",
-    "ekran",
-    "hizli",
-    "mpi",
-    "sans",
-    "sonuc",
-    "sorgu",
-    "tikla",
-    "topu"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "300cf843545c": {
    "id": "300cf843545c",
    "kaynak": "Sözcü",
@@ -150,26 +127,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "c4e42b79aa4d"
-  },
-  "c6c2e8759124": {
-   "id": "c6c2e8759124",
-   "kaynak": "AA",
-   "baslik": "Süper Lig'de Başakşehir, Gaziantep FK'yı mağlup etti",
-   "ozet": "İstanbul Başakşehir, Trendyol Süper Lig'in 8. haftasında konuk ettiği Gaziantep FK'yi 2-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/super-ligde-basaksehir-gaziantep-fkyi-maglup-etti/4092853",
-   "zaman": "2026-10-18T20:15:17+03:00",
-   "kelimeler": [
-    "basak",
-    "etti",
-    "fk",
-    "gazia",
-    "lig",
-    "maglu",
-    "super",
-    "yi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "a206d7bdd808": {
    "id": "a206d7bdd808",
@@ -12035,7 +11992,8 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "bf0d97231ae3": {
    "id": "bf0d97231ae3",
@@ -31011,7 +30969,10 @@
     "sozcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "4c252d94c537": {
    "id": "4c252d94c537",
@@ -31308,9 +31269,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2083030368d5": {
+   "id": "2083030368d5",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunca işgal altındaki Batı Şeria'da alıkonulan ABD'li Kongre adayı serbest kaldığını duyurdu",
+   "ozet": "İşgal altındaki Batı Şeria'da Filistinli çiftçilere eşlik ederken İsrail ordusunca gözaltına alınan ABD'li Demokrat Kongre adayı Brad Lander, kendisinin muhtemelen kamuoyunda tanınan biri olması nedeniyle serbest bırakıldığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunca-isgal-altindaki-bati-seriada-alikonulan-abdli-kongre-adayi-serbest-kaldigini-duyurdu/4096285",
+   "zaman": "2026-10-21T19:29:23+03:00",
+   "kelimeler": [
+    "abd",
+    "adayi",
+    "aliko",
+    "altin",
+    "bati",
+    "duyur",
+    "isgal",
+    "israi",
+    "kaldi",
+    "kongr",
+    "li",
+    "ordus",
+    "serbe",
+    "seria"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "04052b394490": {
+   "id": "04052b394490",
+   "kaynak": "Hürriyet",
+   "baslik": "Çocuk müstehcenliği operasyonu: 5 şüpheli tutuklandı",
+   "ozet": "Aydın’da çocuk müstehcenliği içeriklerini satın aldıkları belirlenen 5 şüpheli tutuklanırken, 3 şüpheli ise adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cocuk-mustehcenligi-operasyonu-5-supheli-tutuklandi-43350246",
+   "zaman": "2026-10-21T20:04:29+03:00",
+   "kelimeler": [
+    "cocuk",
+    "muste",
+    "opera",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ae2bbc7d751e"
+  },
+  "ec2c9285c89b": {
+   "id": "ec2c9285c89b",
+   "kaynak": "AA",
+   "baslik": "\"Hakemler dosyası\" soruşturmasında Ferdi Karadoruk'a 8 yıla kadar hapis istemi",
+   "ozet": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği (TFFHGD) İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle iddianame düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/spor/hakemler-dosyasi-sorusturmasinda-ferdi-karadoruka-8-yila-kadar-hapis-istemi/4096309",
+   "zaman": "2026-10-21T20:05:16+03:00",
+   "kelimeler": [
+    "dosya",
+    "ferdi",
+    "hakem",
+    "hapis",
+    "istem",
+    "karad",
+    "sorus",
+    "yila"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "92227c5a3910": {
+   "id": "92227c5a3910",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
+   "ozet": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-960808.html",
+   "zaman": "2026-10-21T20:06:00+03:00",
+   "kelimeler": [
+    "anasi",
+    "bomba",
+    "devri",
+    "durdu",
+    "faali",
+    "iran",
+    "muhaf",
+    "nukle",
+    "sozcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eaa2768ae22a"
   }
  },
  "kayit": [
+  "21.10 20:16:10  2 yeni haber",
   "21.10 20:01:40  4 yeni haber",
   "21.10 20:01:40  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "21.10 19:48:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bakan Gürlek açıkladı: Fon soruşturmasında 404 kişi hakkında adli işle",
@@ -31509,8 +31557,7 @@
   "19.10 19:31:16  2 yeni haber",
   "19.10 19:16:03  4 yeni haber",
   "19.10 19:01:37  3 yeni haber",
-  "19.10 18:45:57  4 yeni haber",
-  "19.10 18:31:13  3 yeni haber"
+  "19.10 18:45:57  4 yeni haber"
  ],
  "otomatik": false
 }
