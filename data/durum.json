@@ -47,48 +47,6 @@
     "AA"
    ]
   },
-  "b4221d5e6035": {
-   "id": "b4221d5e6035",
-   "kaynak": "TRT Haber",
-   "baslik": "Gaziantep'te iplik fabrikasında çıkan yangın kontrol altına alındı",
-   "ozet": "Gaziantep Organize Sanayi Bölgesi'ndeki OSB iplik fabrikasında çıkan yangın kontrol altına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/gaziantepte-iplik-fabrikasinda-cikan-yangin-kontrol-altina-alindi-960474.html",
-   "zaman": "2026-10-18T18:03:00+03:00",
-   "kelimeler": [
-    "alind",
-    "altin",
-    "cikan",
-    "fabri",
-    "gazia",
-    "iplik",
-    "kontr",
-    "te",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "42fe59763c58"
-  },
-  "1d0f3c8c3af7": {
-   "id": "1d0f3c8c3af7",
-   "kaynak": "NTV",
-   "baslik": "İstanbul'daki sel faciasında can kaybı 5'e yükseldi",
-   "ozet": "İstanbul'daki sel felaketinde kaybolan Türkmenistan uyruklu bir kişinin cansız bedenine ulaşıldı. İstanbul-Kocaeli il sınırında sele kapılan 2 kişiden biri de ölü bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbuldaki-sel-faciasinda-can-kaybi-5e-yukseldi-1746803",
-   "zaman": "2026-10-18T18:05:12+03:00",
-   "kelimeler": [
-    "can",
-    "daki",
-    "facia",
-    "istan",
-    "kaybi",
-    "sel",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "642f7ce12668"
-  },
   "e4f7bab6e527": {
    "id": "e4f7bab6e527",
    "kaynak": "AA",
@@ -30116,7 +30074,10 @@
     "ozbek"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0fffd71920eb": {
    "id": "0fffd71920eb",
@@ -30586,9 +30547,141 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2569c3737e87": {
+   "id": "2569c3737e87",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan, Özbekistan'da rehabilitasyon merkezi ve okul öncesi eğitim kurumunun açılışına katıldı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Semerkant'taki İMKON Rehabilitasyon Merkezi ve Çok Amaçlı Özel Okul Öncesi Eğitim Kurumunun açılışına katıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-ozbekistanda-rehabilitasyon-merkezi-ve-okul-oncesi-egitim-kurumunun-acilisina-katildi-960793.html",
+   "zaman": "2026-10-21T17:18:00+03:00",
+   "kelimeler": [
+    "acili",
+    "egiti",
+    "emine",
+    "erdog",
+    "katil",
+    "kurum",
+    "merke",
+    "okul",
+    "onces",
+    "ozbek",
+    "rehab"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5096ab988883"
+  },
+  "8ee1497029a9": {
+   "id": "8ee1497029a9",
+   "kaynak": "AA",
+   "baslik": "MEB'in \"Türkçe ve Türk Kültürü\" ders kitapları erişime açıldı",
+   "ozet": "Milli Eğitim Bakanlığınca (MEB) yurt dışında yaşayan Türk çocuklarının ana dilleriyle bağlarını güçlendirmek amacıyla hazırlanan güncel \"Türkçe ve Türk Kültürü\" ders kitapları erişime açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mebin-turkce-ve-turk-kulturu-ders-kitaplari-erisime-acildi/4096126",
+   "zaman": "2026-10-21T17:27:19+03:00",
+   "kelimeler": [
+    "acild",
+    "ders",
+    "erisi",
+    "in",
+    "kitap",
+    "kultu",
+    "meb",
+    "turk",
+    "turkc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5b1a8a70cda6": {
+   "id": "5b1a8a70cda6",
+   "kaynak": "AA",
+   "baslik": "BM kuruluşlarından El Nino'ya karşı \"erken ve ciddiyetle harekete geçilmesi\" çağrısı",
+   "ozet": "WMO Genel Sekreteri Saulo ile BM Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Fletcher, \"sıcaklık artışına neden olan El Nino hava olayına karşı erken ve ciddiyetle harekete geçilmesi\" çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-kuruluslarindan-el-ninoya-karsi-erken-ve-ciddiyetle-harekete-gecilmesi-cagrisi/4096169",
+   "zaman": "2026-10-21T17:50:37+03:00",
+   "kelimeler": [
+    "bm",
+    "cagri",
+    "ciddi",
+    "el",
+    "erken",
+    "gecil",
+    "harek",
+    "karsi",
+    "kurul",
+    "nino",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22ea06adc3e6": {
+   "id": "22ea06adc3e6",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş, Libya Temsilciler Meclisi Başkanı Abdunnebi ile telefonda görüştü",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Libya Temsilciler Meclisi Başkanı Salihin Abdunnebi ile görüşmesinde, Türkiye-Libya Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası'nın kabul edilmesinden duyduğu memnuniyeti dile getirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-libya-temsilciler-meclisi-baskani-abdunnebi-ile-telefonda-gorustu/4096178",
+   "zaman": "2026-10-21T17:59:54+03:00",
+   "kelimeler": [
+    "abdun",
+    "baska",
+    "gorus",
+    "kurtu",
+    "libya",
+    "mecli",
+    "tbmm",
+    "telef",
+    "temsi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab2cff1193d3": {
+   "id": "ab2cff1193d3",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor'un eski futbolcusu Giorgi Nemsadze hayatını kaybetti",
+   "ozet": "Trabzonspor Kulübü, eski futbolcusu Giorgi Nemsadze'nin hayatını kaybettiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti/4096182",
+   "zaman": "2026-10-21T18:05:34+03:00",
+   "kelimeler": [
+    "eski",
+    "futbo",
+    "giorg",
+    "hayat",
+    "kaybe",
+    "nemsa",
+    "trabz",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "759d0c984226": {
+   "id": "759d0c984226",
+   "kaynak": "AA",
+   "baslik": "Kremlin: Rusya-Ukrayna-ABD üçlü müzakerelerini kasımda yeniden başlatmaya hazırız",
+   "ozet": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya'nın ABD ve Ukrayna ile üçlü müzakereleri kasım ayında yeniden başlatmaya hazır olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kremlin-rusya-ukrayna-abd-uclu-muzakerelerini-kasimda-yeniden-baslatmaya-haziriz/4096191",
+   "zaman": "2026-10-21T18:12:09+03:00",
+   "kelimeler": [
+    "abd",
+    "basla",
+    "hazir",
+    "kasim",
+    "kreml",
+    "muzak",
+    "rusya",
+    "uclu",
+    "ukray",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 18:16:00  5 yeni haber",
   "21.10 18:01:27  4 yeni haber",
   "21.10 17:46:06  5 yeni haber",
   "21.10 17:31:12  5 yeni haber",
@@ -30787,8 +30880,7 @@
   "19.10 17:16:08  1 yeni haber",
   "19.10 17:01:38  1 yeni haber",
   "19.10 16:56:27  5 yeni haber",
-  "19.10 16:46:08  8 yeni haber",
-  "19.10 16:31:15  11 yeni haber"
+  "19.10 16:46:08  8 yeni haber"
  ],
  "otomatik": false
 }
