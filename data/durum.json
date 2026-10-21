@@ -24311,7 +24311,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "8fcc2825bad3": {
@@ -25422,6 +25423,27 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4c5b6eddd274"
+  },
+  "a9e0661b4e80": {
+   "id": "a9e0661b4e80",
+   "kaynak": "NTV",
+   "baslik": "Milli uydu yörüngede. Fergani’nin altıncı uydusu yörüngeye yerleşti",
+   "ozet": "Milli İmkanlarla geliştirilen Fergani Uzay'ın altıncı deneme uydusu uzaya çıktı. Yörüngesine yerleşen uydu göreve başladı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-milli-uydu-yorungede-ferganinin-altinci-uydusu-yorungeye-yerlesti-1747233",
+   "zaman": "2026-10-21T04:24:44+03:00",
+   "kelimeler": [
+    "altin",
+    "ferga",
+    "milli",
+    "nin",
+    "uydu",
+    "uydus",
+    "yerle",
+    "yorun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2cb6113b07b3"
   }
  },
  "kayit": [
