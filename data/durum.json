@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "c86e3c70cd13": {
-   "id": "c86e3c70cd13",
-   "kaynak": "NTV",
-   "baslik": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik TIR kuyruğu",
-   "ozet": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik TIR kuyruğu oluştu.",
-   "link": "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904",
-   "zaman": "2026-10-18T20:41:38+03:00",
-   "kelimeler": [
-    "27",
-    "hamza",
-    "kapis",
-    "kilom",
-    "kuyru",
-    "nda",
-    "sinir",
-    "tir"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3c30f6d4db24"
-  },
-  "7c94020802fe": {
-   "id": "7c94020802fe",
-   "kaynak": "TRT Haber",
-   "baslik": "Kanada'da Wainwright Askeri Üssü'nde çıkan yangında 4 asker öldü",
-   "ozet": "Kanada'nın Alberta eyaletindeki Wainwright Askeri Üssü'nde çıkan yangında 4 askerin öldüğü ve çok sayıda ağır yaralı olduğu açıklandı.",
-   "link": "https://www.trthaber.com/haber/dunya/kanadada-wainwright-askeri-ussunde-cikan-yanginda-4-asker-oldu-960478.html",
-   "zaman": "2026-10-18T20:45:00+03:00",
-   "kelimeler": [
-    "asker",
-    "cikan",
-    "kanad",
-    "nde",
-    "ussu",
-    "wainw",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "c4e42b79aa4d": {
    "id": "c4e42b79aa4d",
    "kaynak": "AA",
@@ -30667,7 +30624,10 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0c19685b3cc5": {
    "id": "0c19685b3cc5",
@@ -31325,9 +31285,100 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "164b56cbfc2b": {
+   "id": "164b56cbfc2b",
+   "kaynak": "AA",
+   "baslik": "Zonguldak'ta çöken binada 1 kişi kurtarıldı, 1 kişi öldü",
+   "ozet": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi, 1 kişi hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu/4096254",
+   "zaman": "2026-10-21T19:01:38+03:00",
+   "kelimeler": [
+    "binad",
+    "coken",
+    "kisi",
+    "kurta",
+    "ta",
+    "zongu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a45d51676f5c"
+  },
+  "06107ab80f6d": {
+   "id": "06107ab80f6d",
+   "kaynak": "TRT Haber",
+   "baslik": "Bangladeş'te yıl başından bu yana dang humması nedeniyle ölenlerin sayısı 364'e çıktı",
+   "ozet": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364e yükseldi.",
+   "link": "https://www.trthaber.com/haber/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti-960810.html",
+   "zaman": "2026-10-21T20:23:00+03:00",
+   "kelimeler": [
+    "364",
+    "bangl",
+    "basin",
+    "cikti",
+    "dang",
+    "humma",
+    "neden",
+    "olenl",
+    "sayis",
+    "te",
+    "yana",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7136d5941339"
+  },
+  "317b3ec2fb66": {
+   "id": "317b3ec2fb66",
+   "kaynak": "TRT Haber",
+   "baslik": "Şarkıcı IAMDDB, İsrail'i yapay zeka videosunda kimliğini çalmakla suçladı",
+   "ozet": "Angola asıllı İngiliz rapçi Diana De Brito IAMDDB, İsrail hükümetinin resmi sosyal medya hesabından yapılan propaganda paylaşımında, kendi görüntülerinin rızası dışında kullanıldığını belirterek, \"Kimliğimi neden çaldın?\" ifadesini kullandı.",
+   "link": "https://www.trthaber.com/haber/dunya/sarkici-iamddb-israili-yapay-zeka-videosunda-kimligini-calmakla-sucladi-960811.html",
+   "zaman": "2026-10-21T20:28:00+03:00",
+   "kelimeler": [
+    "calma",
+    "iamdd",
+    "israi",
+    "kimli",
+    "sarki",
+    "sucla",
+    "video",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6a2c16fd8d12": {
+   "id": "6a2c16fd8d12",
+   "kaynak": "AA",
+   "baslik": "AfD Eş Genel Başkanı Weidel, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi",
+   "ozet": "Almanya için Alternatif (AfD) Eş Genel Başkanı Alice Weidel, Avrupa Birliği'nin (AB) mevcut haliyle \"ciddi reforma\" ihtiyacı olduğunu belirterek, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/afd-es-genel-baskani-weidel-partisinin-abyi-yeniden-insa-etmek-istedigini-soyledi/4096327",
+   "zaman": "2026-10-21T20:35:40+03:00",
+   "kelimeler": [
+    "ab",
+    "afd",
+    "baska",
+    "es",
+    "etmek",
+    "genel",
+    "insa",
+    "isted",
+    "parti",
+    "soyle",
+    "weide",
+    "yenid",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 20:45:59  2 yeni haber",
   "21.10 20:26:20  1 yeni haber",
   "21.10 20:16:10  2 yeni haber",
   "21.10 20:01:40  4 yeni haber",
@@ -31526,8 +31577,7 @@
   "19.10 19:46:05  1 yeni haber",
   "19.10 19:46:05  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
   "19.10 19:31:16  2 yeni haber",
-  "19.10 19:16:03  4 yeni haber",
-  "19.10 19:01:37  3 yeni haber"
+  "19.10 19:16:03  4 yeni haber"
  ],
  "otomatik": false
 }
