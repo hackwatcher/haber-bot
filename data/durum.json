@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "370fbb5dc4d3": {
-   "id": "370fbb5dc4d3",
-   "kaynak": "Hürriyet",
-   "baslik": "Esenler'de sokak ortasında silahlı düello: Birbirlerini vuran iki şüpheliden biri serbest",
-   "ozet": "Fevzi Çakmak Mahallesi'nde M.B. ve A.Ç. arasında çıkan tartışma kanlı bitti. Karşılıklı ateş açarak yaralanan ikiliden hastaneden taburcu olan M.B. adli kontrolle serbest kalırken, diğer şüphelinin tedavisi devam ediyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/esenlerde-sokak-ortasinda-silahli-duello-birbirlerini-vuran-iki-supheliden-biri-serbest-43345802",
-   "zaman": "2026-10-18T08:04:54+03:00",
-   "kelimeler": [
-    "birbi",
-    "biri",
-    "duell",
-    "esenl",
-    "iki",
-    "ortas",
-    "serbe",
-    "silah",
-    "sokak",
-    "suphe",
-    "vuran"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "07771c7dba36": {
-   "id": "07771c7dba36",
-   "kaynak": "Hürriyet",
-   "baslik": "Eskişehir'de sokak ortasında cinayet: \"Hak etti, vurdum\" diyen katil zanlısı yakalandı",
-   "ozet": "Odunpazarı ilçesinde Abdülkadir Çelik, aralarında tartışma çıkan Muratcan Altun'u pompalı tüfekle kovalayıp göğsünden vurdu. Ambulansta hayatını kaybeden Altun'un ölümüne neden olan Çelik evinde yakalanırken, o dehşet anları cep telefonuyla saniye saniye kaydedildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/eskisehirde-sokak-ortasinda-cinayet-hak-etti-vurdum-diyen-katil-zanlisi-yakalandi-43345803",
-   "zaman": "2026-10-18T08:11:00+03:00",
-   "kelimeler": [
-    "cinay",
-    "diyen",
-    "eskis",
-    "etti",
-    "hak",
-    "katil",
-    "ortas",
-    "sokak",
-    "vurdu",
-    "yakal",
-    "zanli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3f486ec04ee5": {
    "id": "3f486ec04ee5",
    "kaynak": "Hürriyet",
@@ -1410,25 +1364,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "082f761c2893": {
-   "id": "082f761c2893",
-   "kaynak": "TRT Haber",
-   "baslik": "18 il için 'sarı' ve 'turuncu' kodlu uyarı",
-   "ozet": "Yağışlı hava ve fırtına nedeniyle 18 il için sarı ve turuncu kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli ve dikkatli olması istendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-ve-turuncu-kodlu-uyari-960443.html",
-   "zaman": "2026-10-18T08:10:00+03:00",
-   "kelimeler": [
-    "18",
-    "il",
-    "kodlu",
-    "sari",
-    "turun",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "44510fa7bc9a"
   },
   "fdb9210ef281": {
    "id": "fdb9210ef281",
@@ -23879,7 +23814,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c1506c3d0aa2": {
    "id": "c1506c3d0aa2",
@@ -25783,9 +25721,63 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "19401546beaf": {
+   "id": "19401546beaf",
+   "kaynak": "TRT Haber",
+   "baslik": "Arnavutköy'de işçi servisi hafriyat kamyonuna çarptı: 9 yaralı",
+   "ozet": "İstanbul Arnavutköy'de işçileri taşıyan servis minibüsünün park halindeki hafriyat kamyonuna arkadan çarpması sonucu meydana gelen kazada 9 kişi yaralandı. Yaralılar ambulanslarla çevredeki hastanelere kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/arnavutkoyde-isci-servisi-hafriyat-kamyonuna-carpti-9-yarali-960708.html",
+   "zaman": "2026-10-21T07:56:00+03:00",
+   "kelimeler": [
+    "arnav",
+    "carpt",
+    "hafri",
+    "isci",
+    "kamyo",
+    "servi",
+    "yaral"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-21T08:18:39.081713+03:00",
+   "ig_id": "18108805997216067",
+   "reels_id": "17866411044677062",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1419198227045307",
+   "slayt": 5,
+   "kanca": "İŞÇİ SERVİSİ KAZASI"
+  },
+  "5ba7716af783": {
+   "id": "5ba7716af783",
+   "kaynak": "AA",
+   "baslik": "Meta, Brezilya'daki devlet başkanı seçiminde adaylara eşit muamele edildiğini belirtti",
+   "ozet": "Meta, Brezilya Yüksek Seçim Mahkemesinin (TSE), devlet başkanı seçiminin ikinci turunda yarışan adayların kampanyalarına eşit muamele edildiğini göstermesinin istenmesi üzerine, adaylara eşit davrandığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/meta-brezilyadaki-devlet-baskani-seciminde-adaylara-esit-muamele-edildigini-belirtti/4095220",
+   "zaman": "2026-10-21T08:05:29+03:00",
+   "kelimeler": [
+    "adayl",
+    "baska",
+    "belir",
+    "brezi",
+    "daki",
+    "devle",
+    "edild",
+    "esit",
+    "meta",
+    "muame",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "744b2b1cf22a"
   }
  },
  "kayit": [
+  "21.10 08:18:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Arnavutköy'de işçi servisi hafriyat kamyonuna çarptı: 9 yaralı",
+  "21.10 08:16:04  1 yeni haber",
   "21.10 08:01:25  2 yeni haber",
   "21.10 07:46:07  4 yeni haber",
   "21.10 07:16:00  11 yeni haber",
@@ -25983,9 +25975,7 @@
   "19.10 07:01:21  1 yeni haber",
   "19.10 06:45:53  1 yeni haber",
   "19.10 06:01:24  2 yeni haber",
-  "19.10 03:31:13  1 yeni haber",
-  "19.10 03:01:21  1 yeni haber",
-  "19.10 02:46:00  1 yeni haber"
+  "19.10 03:31:13  1 yeni haber"
  ],
  "otomatik": false
 }
