@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "eb65be2ed35a": {
-   "id": "eb65be2ed35a",
-   "kaynak": "Hürriyet",
-   "baslik": "Araçla gelip eğlence mekanına kurşun yağdırdılar",
-   "ozet": "Bursa'da bir eğlence mekanına silah saldırı düzenlendi. Polis, olayın ardından kaçan şüpheli ya da şüphelileri yakalamak için çalışma başlattı.",
-   "link": "https://www.hurriyet.com.tr/gundem/aracla-gelip-eglence-mekanina-kursun-yagdirdilar-43345901",
-   "zaman": "2026-10-18T10:31:23+03:00",
-   "kelimeler": [
-    "aracl",
-    "eglen",
-    "gelip",
-    "kursu",
-    "mekan",
-    "yagdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7f1f18c59248": {
-   "id": "7f1f18c59248",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul barajlarında 4 günde rekor artış",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbul-barajlarinda-4-gunde-rekor-artis-p370277",
-   "zaman": "2026-10-18T10:41:49+03:00",
-   "kelimeler": [
-    "artis",
-    "baraj",
-    "gunde",
-    "istan",
-    "rekor"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "20172c85a217": {
-   "id": "20172c85a217",
-   "kaynak": "Hürriyet",
-   "baslik": "Antalya’da deniz içi plastik kirliliği havadan ve su altından görüntülendi! ‘Bu sularda yüzmeyin’ uyarısı",
-   "ozet": "Akdeniz kıyılarındaki plastik kirliliği, son günlerde Kaş Halk Plajı'nda kaydedilen görüntülerle yeniden gündeme geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/antalyada-deniz-ici-plastik-kirliligi-havadan-ve-su-altindan-goruntulendi-bu-sularda-yuzmeyin-uyarisi-43345907",
-   "zaman": "2026-10-18T10:37:14+03:00",
-   "kelimeler": [
-    "altin",
-    "antal",
-    "deniz",
-    "gorun",
-    "havad",
-    "ici",
-    "kirli",
-    "plast",
-    "su",
-    "sular",
-    "uyari",
-    "yuzme"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "0a3ac30e4ea1": {
-   "id": "0a3ac30e4ea1",
-   "kaynak": "Hürriyet",
-   "baslik": "Şanlıurfa'da kan donduran iddia: 8 yaşındaki çocuk darbedilip ütüyle yakıldı!",
-   "ozet": "Siverek'te vücudunda ağır yanıklar ve darp izleriyle hastaneye kaldırılan 8 yaşındaki H.Z.'nin işkenceye uğradığı öne sürüldü. Dehşet verici olayla ilgili anne, anneanne ve teyze gözaltına alınırken, küçük kız yanık servisinde tedavi altına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sanliurfada-kan-donduran-iddia-8-yasindaki-cocuk-darbedilip-utuyle-yakildi-43345924",
-   "zaman": "2026-10-18T10:46:00+03:00",
-   "kelimeler": [
-    "cocuk",
-    "darbe",
-    "dondu",
-    "iddia",
-    "kan",
-    "sanli",
-    "utuyl",
-    "yakil",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e3ecab8e9796": {
    "id": "e3ecab8e9796",
    "kaynak": "Hürriyet",
@@ -1067,29 +986,6 @@
     "Hürriyet",
     "NTV",
     "AA"
-   ]
-  },
-  "952633ce70c1": {
-   "id": "952633ce70c1",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da barajların doluluk oranı yüzde 50'yi geçti",
-   "ozet": "İstanbul'a su sağlayan barajlardaki ortalama doluluk oranı, son günlerde rekor miktarda görülen sağanak yağmur etkisiyle 4 günde 14,37 puan artarak yüzde 52,43 seviyesine yükseldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html",
-   "zaman": "2026-10-18T10:43:00+03:00",
-   "kelimeler": [
-    "50",
-    "baraj",
-    "dolul",
-    "gecti",
-    "istan",
-    "orani",
-    "yi",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
    ]
   },
   "2316f8e5c2e4": {
@@ -26313,8 +26209,17 @@
     "yapti",
     "yerel"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-21T10:48:14.121360+03:00",
+   "ig_id": "18102932663530068",
+   "reels_id": "17954216154274810",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "3763041600513998",
+   "slayt": 5,
+   "kanca": "HALKA KAR PAYI"
   },
   "f9a19599eef0": {
    "id": "f9a19599eef0",
@@ -26792,9 +26697,179 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0f9024584fcc": {
+   "id": "0f9024584fcc",
+   "kaynak": "TRT Haber",
+   "baslik": "Altınbaş Holding'e fon soruşturması",
+   "ozet": "Sermaye piyasası işlemlerine ilişkin soruşturmalar kapsamında Altınbaş Holding sahibi Nusret Altınbaş hakkında yakalama kararı çıkarıldı. Kardeşi İnan Altınbaş ise gözaltına alındı, diğer aile fertlerinin tüm malvarlıkları donduruldu.",
+   "link": "https://www.trthaber.com/haber/gundem/altinbas-holdinge-fon-sorusturmasi-960729.html",
+   "zaman": "2026-10-21T10:25:00+03:00",
+   "kelimeler": [
+    "altin",
+    "fon",
+    "holdi",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "120ad6adb8bd": {
+   "id": "120ad6adb8bd",
+   "kaynak": "AA",
+   "baslik": "Basketbol Avrupa Ligi'nde \"Türk derbisi\"",
+   "ozet": "Basketbol Avrupa Ligi'nin 7. haftasındaki derbide Anadolu Efes, yarın Beşiktaş'ı konuk edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-turk-derbisi/4095343",
+   "zaman": "2026-10-21T10:29:36+03:00",
+   "kelimeler": [
+    "avrup",
+    "baske",
+    "derbi",
+    "ligi",
+    "nde",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ae96b18fd787"
+  },
+  "315b70e4b529": {
+   "id": "315b70e4b529",
+   "kaynak": "AA",
+   "baslik": "UEFA Avrupa Ligi'nde 3. hafta maçları yarın yapılacak",
+   "ozet": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvası UEFA Avrupa Ligi'nde 3. hafta maçları yarın yapılacak.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginde-3-hafta-maclari-yarin-yapilacak/4095344",
+   "zaman": "2026-10-21T10:29:53+03:00",
+   "kelimeler": [
+    "avrup",
+    "hafta",
+    "ligi",
+    "macla",
+    "nde",
+    "uefa",
+    "yapil",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ae96b18fd787"
+  },
+  "492c774698b0": {
+   "id": "492c774698b0",
+   "kaynak": "AA",
+   "baslik": "Sudan ile Güney Sudan arasındaki tartışmalı bölgeye yapılan İHA saldırısında 153 kişi öldü",
+   "ozet": "Sudan ile Güney Sudan arasında egemenlik ihtilafına konu olan Abyei bölgesindeki bir pazara düzenlenen insansız hava aracı (İHA) saldırısında 153 kişi hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/sudan-ile-guney-sudan-arasindaki-tartismali-bolgeye-yapilan-iha-saldirisinda-153-kisi-oldu/4095346",
+   "zaman": "2026-10-21T10:33:06+03:00",
+   "kelimeler": [
+    "153",
+    "arasi",
+    "bolge",
+    "guney",
+    "iha",
+    "kisi",
+    "saldi",
+    "sudan",
+    "tarti",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "073ef7cea7fb": {
+   "id": "073ef7cea7fb",
+   "kaynak": "AA",
+   "baslik": "Aile ve Gençlik Fonu kapsamında ekimde 15 bin 468 gence 1 milyar 756 milyon lira ödeme yapıldı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Aile ve Gençlik Fonu kapsamında bu ay 15 bin 468 gence toplam 1 milyar 756 milyon 600 bin lira ödeme yapıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/aile-ve-genclik-fonu-kapsaminda-ekimde-15-bin-468-gence-1-milyar-756-milyon-lira-odeme-yapildi/4095347",
+   "zaman": "2026-10-21T10:33:36+03:00",
+   "kelimeler": [
+    "15",
+    "468",
+    "756",
+    "aile",
+    "bin",
+    "ekimd",
+    "fonu",
+    "gence",
+    "gencl",
+    "kapsa",
+    "lira",
+    "milya",
+    "milyo",
+    "odeme",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bf967917934d": {
+   "id": "bf967917934d",
+   "kaynak": "AA",
+   "baslik": "Fransa'da Mirage 2000D tipi savaş uçağı düştü",
+   "ozet": "Fransa’nın Meurthe-et-Moselle vilayetinde Mirage 2000D tipi bir savaş uçağının düştüğü ve bir kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-mirage-2000d-tipi-savas-ucagi-dustu-/4095348",
+   "zaman": "2026-10-21T10:34:01+03:00",
+   "kelimeler": [
+    "2000d",
+    "dustu",
+    "frans",
+    "mirag",
+    "savas",
+    "tipi",
+    "ucagi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "711e982b55b3": {
+   "id": "711e982b55b3",
+   "kaynak": "NTV",
+   "baslik": "1915 yılında kullanılmış. Antalya'da çöpte buldu, müzeye bağışladı",
+   "ozet": "Antalya'da zabıta memuru İbrahim Uysal'ın çöpte bulduğu 1915 damgalı askeri sedye, 3,5 aylık incelemenin ardından tescillenerek Çanakkale'deki savaş müzesine bağışlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-1915-yilinda-kullanilmis-antalyada-copte-buldu-muzeye-bagisladi-1747298",
+   "zaman": "2026-10-21T10:37:03+03:00",
+   "kelimeler": [
+    "1915",
+    "antal",
+    "bagis",
+    "buldu",
+    "copte",
+    "kulla",
+    "muzey",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0db57e5de525": {
+   "id": "0db57e5de525",
+   "kaynak": "AA",
+   "baslik": "ABD Dışişleri Bakanı Rubio, Putin'in Miami'deki G20 Zirvesi'ne katılabileceğini söyledi",
+   "ozet": "ABD Dışişleri Bakanı Rubio, Rusya Devlet Başkanı Vladimir Putin'in aralık ayında Florida eyaletinin Miami kentinde düzenlenecek G20 Zirvesi'ne katılabileceğini ancak henüz bu konuda kesinleşmiş bir karar bulunmadığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-putinin-miamideki-g20-zirvesine-katilabilecegini-soyledi/4095359",
+   "zaman": "2026-10-21T10:42:08+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "deki",
+    "disis",
+    "g20",
+    "in",
+    "katil",
+    "miami",
+    "putin",
+    "rubio",
+    "soyle",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 10:48:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trump, veri merkezlerine kendi elektriklerini üretmeleri ve yerel halk",
+  "21.10 10:46:06  6 yeni haber",
   "21.10 10:31:13  8 yeni haber",
   "21.10 10:15:58  6 yeni haber",
   "21.10 10:01:28  8 yeni haber",
@@ -26992,9 +27067,7 @@
   "19.10 09:45:54  6 yeni haber",
   "19.10 09:31:10  5 yeni haber",
   "19.10 09:16:01  3 yeni haber",
-  "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
-  "19.10 09:01:20  4 yeni haber",
-  "19.10 08:46:08  1 yeni haber"
+  "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for"
  ],
  "otomatik": false
 }
