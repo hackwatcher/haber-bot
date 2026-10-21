@@ -460,24 +460,6 @@
     "AA"
    ]
   },
-  "72283978ff78": {
-   "id": "72283978ff78",
-   "kaynak": "AA",
-   "baslik": "Rusya: Zelenskiy, Moskova ile müzakere istemiyor",
-   "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Moskova ve Kiev’in belirli bir mutabakata ulaştığı durumda Ukrayna’nın Rus sivil hedeflere yönelik saldırılar düzenlediğini söyleyerek, “Bundan çıkardığımız tek bir sonuç var, Zelenskiy müzakere istemiyor.” dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-zelenskiy-moskova-ile-muzakere-istemiyor/4092854",
-   "zaman": "2026-10-18T20:18:11+03:00",
-   "kelimeler": [
-    "istem",
-    "mosko",
-    "muzak",
-    "rusya",
-    "zelen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "326f110a995c": {
    "id": "326f110a995c",
    "kaynak": "AA",
@@ -722,25 +704,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "3a6b07598cfa": {
-   "id": "3a6b07598cfa",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İstanbul'da sel: Kayıp iki kişinin daha cenazesine ulaşıldı",
-   "ozet": "İstanbul'da etkili olan sağanak yağış sonrasında Ayazağa'da meydana gelen selde kaybolan bir kişinin daha naaşına ulaşıldı, iki kişi hala aranıyor. Pendik'te kaybolan iki kişiden birinin de cenazesine ulaşıldı. Böylelikle selde hayatını kaybedenlerin sayısı altıya yükseldi",
-   "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o",
-   "zaman": "2026-10-18T20:24:02+03:00",
-   "kelimeler": [
-    "cenaz",
-    "iki",
-    "istan",
-    "kayip",
-    "kisin",
-    "sel",
-    "ulasi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "3f4594ea2f88": {
    "id": "3f4594ea2f88",
@@ -31332,7 +31295,10 @@
     "yila"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "92227c5a3910": {
    "id": "92227c5a3910",
@@ -31355,9 +31321,51 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "eaa2768ae22a"
+  },
+  "4c6ae826b59b": {
+   "id": "4c6ae826b59b",
+   "kaynak": "TRT Haber",
+   "baslik": "Hakemler dosyası soruşturması: Ferdi Karadoruk'a 8 yıla kadar hapis istemi",
+   "ozet": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği TFFHGD İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle iddianame düzenlendi.",
+   "link": "https://www.trthaber.com/haber/gundem/hakemler-dosyasi-sorusturmasi-ferdi-karadoruka-8-yila-kadar-hapis-istemi-960809.html",
+   "zaman": "2026-10-21T20:08:00+03:00",
+   "kelimeler": [
+    "dosya",
+    "ferdi",
+    "hakem",
+    "hapis",
+    "istem",
+    "karad",
+    "sorus",
+    "yila"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ec2c9285c89b"
+  },
+  "9908fdfcb95f": {
+   "id": "9908fdfcb95f",
+   "kaynak": "Hürriyet",
+   "baslik": "39 eserden oluşan Çınar Resim Atölyeleri Sergisi açıldı",
+   "ozet": "Çınar Uluslararası Kültür ve Sanat Derneği (ÇINAR-DER) bünyesindeki Çınar Uluslararası Kültür ve Sanat Merkezi eğitmenleri ve öğrencilerinin hazırladığı 39 eser, Çınar Resim Atölyeleri Sergisi’nde sanatseverlerle buluştu.",
+   "link": "https://www.hurriyet.com.tr/gundem/39-eserden-olusan-cinar-resim-atolyeleri-sergisi-acildi-43350250",
+   "zaman": "2026-10-21T20:11:36+03:00",
+   "kelimeler": [
+    "39",
+    "acild",
+    "atoly",
+    "cinar",
+    "eserd",
+    "olusa",
+    "resim",
+    "sergi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 20:26:20  1 yeni haber",
   "21.10 20:16:10  2 yeni haber",
   "21.10 20:01:40  4 yeni haber",
   "21.10 20:01:40  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
@@ -31556,8 +31564,7 @@
   "19.10 19:46:05  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
   "19.10 19:31:16  2 yeni haber",
   "19.10 19:16:03  4 yeni haber",
-  "19.10 19:01:37  3 yeni haber",
-  "19.10 18:45:57  4 yeni haber"
+  "19.10 19:01:37  3 yeni haber"
  ],
  "otomatik": false
 }
