@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "4112bd91b8d5": {
-   "id": "4112bd91b8d5",
-   "kaynak": "NTV",
-   "baslik": "Eğitim için Isparta’ya ekip kanyonda kayboldu: 1 ölü, 13 kayıp",
-   "ozet": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi eğitimler sırasında hayatını kaybederken, 13 kişiye ulaşılmaya çalışılıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916",
-   "zaman": "2026-10-18T23:03:22+03:00",
-   "kelimeler": [
-    "13",
-    "egiti",
-    "ekip",
-    "ispar",
-    "kanyo",
-    "kaybo",
-    "kayip",
-    "olu",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2384a3aacd7c": {
-   "id": "2384a3aacd7c",
-   "kaynak": "NTV",
-   "baslik": "Trabzon'da silahlı saldırıda bir kişiyi yaraladılar. 2 şüpheli İstanbul'da yakalandı",
-   "ozet": "Trabzon'da bir kişiyi silahla yaralayan 2 şüpheli, polis ekipleri tarafından Çatalca'da düzenlenen operasyonla yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/trabzonda-silahli-saldirida-bir-kisiyi-yaraladilar-2-supheli-istanbulda-yakalandi-1746917",
-   "zaman": "2026-10-18T23:07:25+03:00",
-   "kelimeler": [
-    "istan",
-    "kisiy",
-    "saldi",
-    "silah",
-    "suphe",
-    "trabz",
-    "yakal",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "23f61d2c047a": {
-   "id": "23f61d2c047a",
-   "kaynak": "AA",
-   "baslik": "Fransa Cumhurbaşkanı Macron, valilerin bazı gösterileri yasaklama kararı alabileceğini duyurdu",
-   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, ülkesinin düzen ve sükunete ihtiyacı olduğunu belirterek, valilerin bazı gösterileri yasaklama kararı alabileceklerini açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-valilerin-bazi-gosterileri-yasaklama-karari-alabilecegini-duyurdu/4092910",
-   "zaman": "2026-10-18T23:03:16+03:00",
-   "kelimeler": [
-    "alabi",
-    "bazi",
-    "cumhu",
-    "duyur",
-    "frans",
-    "goste",
-    "karar",
-    "macro",
-    "valil",
-    "yasak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fc73793c5338": {
-   "id": "fc73793c5338",
-   "kaynak": "AA",
-   "baslik": "Netanyahu, ulusal güvenlik doktrininde \"İran rejimi\"ni devirmeyi vadetti",
-   "ozet": "İsrail Başbakanı Binyamin Netanyahu, 27 Ekim'de yapılacak seçimlerin \"varoluşsal öneme sahip\" olduğunu ileri sürerek açıkladığı güvenlik doktrininde \"İran rejimini devirme\" sözü verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-ulusal-guvenlik-doktrininde-iran-rejimini-devirmeyi-vadetti/4092909",
-   "zaman": "2026-10-18T23:02:49+03:00",
-   "kelimeler": [
-    "devir",
-    "doktr",
-    "guven",
-    "iran",
-    "netan",
-    "ni",
-    "rejim",
-    "ulusa",
-    "vadet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9c42419cd46c": {
    "id": "9c42419cd46c",
    "kaynak": "NTV",
@@ -23297,7 +23210,11 @@
     "sorus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "AA"
+   ]
   },
   "e2fbc98be167": {
    "id": "e2fbc98be167",
@@ -29141,7 +29058,8 @@
     "ulkel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "edda6e030a59": {
    "id": "edda6e030a59",
@@ -31622,7 +31540,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "e6551b23de51": {
@@ -31821,7 +31740,10 @@
     "sites"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0c3afbb972e8": {
    "id": "0c3afbb972e8",
@@ -31972,6 +31894,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9c6a3916ff51": {
+   "id": "9c6a3916ff51",
+   "kaynak": "Hürriyet",
+   "baslik": "Emir Sarıgül tutuklandı",
+   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturma kapsamında gözaltında bulunan Emir Sarıgül çıkarıldığı mahkemece tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/emir-sarigul-tutuklandi-43350291",
+   "zaman": "2026-10-21T21:21:00+03:00",
+   "kelimeler": [
+    "emir",
+    "sarig",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e53534457746"
+  },
+  "4b502a467b01": {
+   "id": "4b502a467b01",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da kara para soruşturmasında Sarıgül tutuklandı",
+   "ozet": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-sorusturmasinda-sarigul-tutuklandi-960820.html",
+   "zaman": "2026-10-21T21:57:00+03:00",
+   "kelimeler": [
+    "istan",
+    "kara",
+    "para",
+    "sarig",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e53534457746"
+  },
+  "b3298f23e100": {
+   "id": "b3298f23e100",
+   "kaynak": "AA",
+   "baslik": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
+   "ozet": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Al Sani, Türkiye, Katar, Pakistan ve Endonezya arasında imzalanan Bedir Mutabakat Zaptı'nın, ülkeler arasındaki savunma işbirliğine önemli katkı sağlayacağını vurguladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savunma-isbirligine-katki-saglayacak/4096461",
+   "zaman": "2026-10-21T22:55:34+03:00",
+   "kelimeler": [
+    "arasi",
+    "basba",
+    "bedir",
+    "isbir",
+    "katar",
+    "katki",
+    "mutab",
+    "sagla",
+    "savun",
+    "ulkel",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1ee94c4c0db9"
+  },
+  "f2c15b56b5c6": {
+   "id": "f2c15b56b5c6",
+   "kaynak": "TRT Haber",
+   "baslik": "PHP'deki güvenlik açığı nedeniyle dünya çapında çok sayıda site kapatıldı",
+   "ozet": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
+   "link": "https://www.trthaber.com/haber/dunya/phpdeki-guvenlik-acigi-nedeniyle-dunya-capinda-cok-sayida-site-kapatildi-960823.html",
+   "zaman": "2026-10-21T22:57:00+03:00",
+   "kelimeler": [
+    "acigi",
+    "capin",
+    "deki",
+    "dunya",
+    "guven",
+    "kapat",
+    "neden",
+    "php",
+    "sayid",
+    "site"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8dc579505c6d"
+  },
+  "4e9c4a705f03": {
+   "id": "4e9c4a705f03",
+   "kaynak": "Hürriyet",
+   "baslik": "Suudi Arabistan’daki Şeybe Petrol Sahası'na saldırı: 2 ölü, 2 yaralı",
+   "ozet": "Suudi Arabistan Enerji Bakanlığı, ülkenin güneydoğusundaki Şeybe Petrol Sahası'nı hedef alan saldırıda, 2 kişinin hayatını kaybettiği, 2 kişinin yaralandığını belirtti.",
+   "link": "https://www.hurriyet.com.tr/gundem/suudi-arabistandaki-seybe-petrol-sahasina-saldiri-2-olu-2-yarali-43350344",
+   "zaman": "2026-10-21T23:07:20+03:00",
+   "kelimeler": [
+    "arabi",
+    "daki",
+    "na",
+    "olu",
+    "petro",
+    "sahas",
+    "saldi",
+    "seybe",
+    "suudi",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "de86ec194442"
+  },
+  "c72f2d890b85": {
+   "id": "c72f2d890b85",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
+   "ozet": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
+   "zaman": "2026-10-21T23:10:26+03:00",
+   "kelimeler": [
+    "aklam",
+    "alina",
+    "emir",
+    "gozal",
+    "istan",
+    "kara",
+    "para",
+    "sarig",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e53534457746"
   }
  },
  "kayit": [
