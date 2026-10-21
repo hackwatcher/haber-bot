@@ -26,7 +26,7 @@ GECIS = 0.15               # slaytlar arası geçiş süresi (sn)
 NABIZ = 1.2                # etiketin bir yanıp sönme süresi (sn)
 
 # konu -> müzik türü (muzik/ klasöründe genel_*.mp3, agir_*.mp3, hafif_*.mp3)
-MUZIK_TURU = {"afet": "agir", "asayis": "agir", "spor": "hafif", "ekonomi": "hafif"}
+MUZIK_TURU = {"afet": "agir", "asayis": "agir"}  # hafif_* kulak tırmalıyor; spor/ekonomi genel müzikle
 
 
 def konu_renkleri(haber):
@@ -37,6 +37,11 @@ def muzik_sec(haber):
     tur = MUZIK_TURU.get(haber.get("konu"), "genel")
     parcalar = sorted(glob.glob(os.path.join(MUZIK, f"{tur}_*.mp3"))) or sorted(glob.glob(os.path.join(MUZIK, "*.mp3")))
     return random.choice(parcalar) if parcalar else None
+
+
+def acil_mi(haber):
+    """Öncelikli kelimeli haber ya da Telegram'dan gelen sıcak gelişme."""
+    return bool(haber.get("oncelikli") or haber.get("tg_kanal") or "t.me/" in haber.get("link", ""))
 
 
 def etiket(c, y, vurgu, yazi_rengi, yazi="SON DAKİKA"):
@@ -53,11 +58,11 @@ def etiket(c, y, vurgu, yazi_rengi, yazi="SON DAKİKA"):
 
 def zemin_kare(haber, marka, kullanici_adi, slayt, sira, toplam, alt_yazi=None):
     """Bir videodaki sabit kare: üst şerit, slayt, ilerleme çubuğu, kullanıcı adı. (görsel, etiket kutusu)"""
-    _, vurgu, zemin, yazi_rengi = konu_renkleri(haber)
+    ad, vurgu, zemin, yazi_rengi = konu_renkleri(haber)
     img = Image.new("RGB", (W, H), zemin)
     c = ImageDraw.Draw(img)
-    # marka adı slaytın içinde zaten yazıyor; üstte yalnızca yanıp sönen etiket
-    kutu = etiket(c, 112, vurgu, yazi_rengi)
+    # marka adı slaytın içinde zaten yazıyor; üstte yanıp sönen etiket: yalnız acil haberde SON DAKİKA
+    kutu = etiket(c, 112, vurgu, yazi_rengi, "SON DAKİKA" if acil_mi(haber) else ad)
     img.paste(Image.open(slayt).convert("RGB"), (0, UST))
     # ilerleme çubuğu: hikâye gibi parçalı
     if toplam > 1:
@@ -78,8 +83,8 @@ def sureler(haber, n):
         return [7.0]
     yazilar = [len(s.get("metin", "")) + sum(len(m) for m in s.get("maddeler", [])) + len(s.get("alinti", ""))
                + sum(len(a) + 8 for _, a in s.get("rakamlar", [])) for s in haber.get("slaytlar", [])]
-    orta = [min(4.5, max(2.6, 1.8 + 0.015 * u)) for u in yazilar][: n - 2]
-    return [2.5] + orta + [1.8]
+    orta = [min(3.6, max(2.2, 1.5 + 0.012 * u)) for u in yazilar][: n - 2]
+    return [2.5] + orta + [1.5]
 
 
 def ffmpeg_yolu():

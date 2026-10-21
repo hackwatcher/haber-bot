@@ -67,7 +67,7 @@ class TestHaberBot(unittest.TestCase):
         self.assertTrue(os.path.exists(cikti_yedek))
 
         acik = kart.aciklama(h_foto, "#haber #gündem", karusel=True)
-        self.assertIn("ELMANIN İÇİNDE ÇALINDI", acik)
+        self.assertNotIn("ELMANIN İÇİNDE ÇALINDI", acik)  # kanca görselde, açıklamada tekrar etmez
         self.assertIn("BBC Türkçe, NTV, Sözcü", acik)
 
     def test_bot_uygula_ve_hazirla_ve_reels(self):
@@ -133,16 +133,17 @@ class TestHaberBot(unittest.TestCase):
             "slaytlar": [
                 {"etiket": "Ne oldu?", "metin": "Elmas bulundu."},
                 {"etiket": "Detaylar", "maddeler": ["Madde 1", "Madde 2"]},
+                {"etiket": "Ne dedi?", "alinti": "Bu söz haberde hiç geçmiyor", "kim": "Uydurma kişi"},
             ],
         }
         with mock.patch.dict(os.environ, {"GEMINI_API_KEY": "test_key"}), \
              mock.patch("ozet.sayfa_oku", return_value=("Spot", ["Paragraf 1"], "Tam metin")), \
-             mock.patch("ai_editor.metin_analiz_et", return_value=sahte_ai_json), \
-             mock.patch("ai_editor.gorsel_uret", return_value="data/kapaklar/test12345678.jpg"):
+             mock.patch("ai_editor.metin_analiz_et", return_value=sahte_ai_json):
             z = ai_editor.zenginlestir_ai(self.ornek_haber, varsayilan)
             self.assertEqual(z["kanca"], "ELMANIN İÇİNDE ÇALINDI")
             self.assertEqual(z["konu"], "dunya")
             self.assertEqual(z.get("foto"), varsayilan.get("foto"))  # AI kapak üretmez, havuz seçer
+            self.assertFalse(any(s.get("alinti") for s in z["slaytlar"]))  # kaynakta olmayan alıntı atılır
 
     def test_havuz_alt_konu_secimi(self):
         import havuz
@@ -404,11 +405,11 @@ class TestHaberBot(unittest.TestCase):
         self.assertNotIn("t.me", metin)
         self.assertNotIn("Kaynak:", metin)
 
-        # RSS haberinde ise kaynak ve link normal şekilde kalmalı
+        # RSS haberinde kaynak kalır; link açıklamaya yazılmaz (Instagram'da tıklanmaz)
         h_rss = dict(self.ornek_haber)
         metin_rss = kart.aciklama(h_rss, "#haber")
         self.assertIn("Kaynak: BBC Türkçe", metin_rss)
-        self.assertIn(h_rss["link"], metin_rss)
+        self.assertNotIn(h_rss["link"], metin_rss)
 
         # Kart ve karusel kapanış çizimleri hata vermemeli
         kart_cikti = os.path.join(self.tmp, "kart_tg.jpg")

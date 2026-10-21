@@ -1,7 +1,7 @@
 {
   "marka": "XHABER",
   "kullanici_adi": "@xhabercom",
-  "hashtagler": "#haber #sondakika #gündem",
+  "hashtagler": "#haber #gündem",
 
   "kaynaklar": [
     {"ad": "NTV", "url": "https://www.ntv.com.tr/gundem.rss"},
@@ -28,7 +28,7 @@
     "sadece_oncelikli": false
   },
 
-  "engellenen_kelimeler": ["deprem mi oldu", "namaz vakti", "hava durumu", "altın fiyat", "döviz kuru", "burç", "rüya", "maç ne zaman", "hangi kanalda", "şans oyunu", "loto", "piyango sonuç", "nöbetçi eczane", "lezzet", "tarifi"],
+  "engellenen_kelimeler": ["deprem mi oldu", "namaz vakti", "hava durumu", "altın fiyat", "döviz kuru", "burç", "rüya", "maç ne zaman", "hangi kanalda", "şans oyunu", "loto", "piyango", "on numara", "sayısal loto", "süper loto", "sonuçları sorgulama", "çıktı mı", "kazandıran numaralar", "nöbetçi eczane", "lezzet", "tarifi"],
 
   "instagram": {
     "yontem": "meta",
@@ -37,7 +37,7 @@
     "gorsel_repo": "hackwatcher/haber-bot"
   },
 
-  "reels": {"acik": true, "sadece_guclu": true, "akisa_da": false, "spikerli": true, "spiker_hiz": 1.15, "altyazi": false, "daktilo": true, "daktilo_sn": 2.6, "foto_hareket": true},
+  "reels": {"acik": true, "sadece_guclu": true, "akisa_da": false, "spikerli": false, "spiker_hiz": 1.15, "altyazi": false, "daktilo": true, "daktilo_sn": 2.6, "foto_hareket": true},
   "karusel": {"hareketli_kapak": true, "sure_sn": 4.0},
   "story": {"acik": true, "sadece_telegram": true},
   "ilk_yorum": {"acik": false},

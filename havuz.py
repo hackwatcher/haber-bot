@@ -24,11 +24,11 @@ ETIKET = {
     "gundem_15": "seçim kampanya afiş", "gundem_16": "canlı yayın tartışma televizyon",
     "gundem_17": "bakanlık kurum", "gundem_18": "ankara", "gundem_19": "bayram tören kutlama",
     "gundem_20": "yasa kanun düzenleme anayasa",
-    "afet_01": "enkaz arama kurtarma afad göçük", "afet_02": "deprem enkaz yıkıldı bina hasar",
+    "afet_01": "enkaz arama kurtarma afad göçük", "afet_02": "enkaz yıkıl çöktü göçtü ağır hasar",
     "afet_03": "çadır depremzede barınma", "afet_04": "orman yangın itfaiye alev",
     "afet_05": "yangın uçak helikopter orman", "afet_06": "sel su baskın yağış sağanak",
     "afet_07": "sel kurtarma bot mahsur", "afet_08": "kar tipi yol kapandı buzlanma",
-    "afet_09": "ambulans yaralı acil hastane", "afet_10": "deprem çatlak yol hasar",
+    "afet_09": "ambulans yaralı acil hastane", "afet_10": "çatlak yarıldı hasar",
     "afet_11": "yardım bağış gönüllü kızılay", "afet_12": "heyelan toprak kayması karadeniz",
     "afet_13": "fırtına yıldırım meteoroloji uyarı", "afet_14": "fırtına dalga sahil hortum",
     "afet_15": "deprem büyüklü kandilli sarsıntı artçı", "afet_16": "yangın küle döndü hektar",
@@ -66,6 +66,12 @@ ETIKET = {
 }
 
 
+# Ağır ya da takım renkli görseller yalnız habere anahtar kelimeyle eşleşince seçilir, yedek olarak asla.
+SADECE_ESLESINCE = {"afet_01", "afet_02", "afet_03", "afet_10", "afet_16", "asayis_02", "asayis_09", "dunya_14",
+                    "spor_01", "spor_02", "spor_03", "spor_15", "spor_09", "spor_10", "spor_16", "spor_11",
+                    "dunya_06", "dunya_07", "dunya_08", "dunya_10", "asayis_11", "asayis_13"}
+
+
 def kucuk(s):
     return (s or "").replace("I", "ı").replace("İ", "i").lower()
 
@@ -79,7 +85,7 @@ def sec(z, marka):
     kelimeler = re.findall(r"[\w-]+", kucuk(" ".join(str(z.get(a) or "") for a in ("baslik", "kanca", "ozet"))))
     puan = {k: sum(1 for e in ETIKET[k].split() if any(w.startswith(e) for w in kelimeler)) for k in adaylar}
     en_iyi = max(puan.values())
-    adaylar = sorted(k for k in adaylar if puan[k] == en_iyi)
+    adaylar = sorted(k for k in adaylar if puan[k] == en_iyi and (en_iyi > 0 or k not in SADECE_ESLESINCE))
     sira = int(hashlib.md5(str(z.get("id") or kelimeler).encode()).hexdigest(), 16)
     secilen = adaylar[sira % len(adaylar)]
     return {"yol": f"havuz/{secilen}.jpg", "not": f"Temsili görsel · {marka}"}

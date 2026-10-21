@@ -1,14 +1,15 @@
-"""Bulut AI Editör (Gemini API): Bilgisayar kapalıyken GitHub Actions üzerinde kanca söz, slayt ve kapak görseli üretir.
+"""Bulut AI Editör (Gemini API): Bilgisayar kapalıyken GitHub Actions üzerinde kanca söz ve slayt metinlerini üretir.
 
 GEMINI_API_KEY tanımlı değilse veya bir hata oluşursa hiçbir kesinti olmadan mevcut kural motoruna (ozet.py) geri döner.
 """
 
-import base64
 import json
 import os
+import re
 import requests
 
 import haber
+import kart
 import ozet
 
 KOK = haber.KOK
@@ -17,27 +18,42 @@ os.makedirs(KAPAKLAR, exist_ok=True)
 
 GEMINI_API = "https://generativelanguage.googleapis.com/v1beta/models"
 METIN_MODEL = "gemini-3-flash-preview"
-GORSEL_MODEL = "gemini-3-pro-image-preview"
 GECERLI_KONULAR = {"gundem", "afet", "ekonomi", "dunya", "spor", "asayis"}
 
 SISTEM_TALIMATI = """Sen @xhabercom (XHABER) Instagram haber hesabının baş editörüsün.
-Verilen haber metninden sadece gerçek bilgilere dayanarak (asla bilgi uydurmadan) şu JSON yapısını üret:
+Verilen haber metninden şu JSON yapısını üret:
 {
   "konu": "gundem | afet | ekonomi | dunya | spor | asayis",
-  "kanca": "2-4 kelimelik çarpıcı, merak uyandıran büyük harf uyumlu kanca söz (Örn: ELMANIN İÇİNDE ÇALINMIŞTI, 2 METRELİK DALGALAR, AVRUPA'DA ZİRVE. Asla sıradan 'SON DAKİKA' yazma)",
-  "baslik": "6-12 kelimelik net, vurucu Türkçe haber başlığı",
+  "kanca": "2-4 kelimelik, büyük harf kanca söz",
+  "baslik": "6-12 kelimelik net, sade Türkçe haber başlığı",
   "ozet": "En fazla 200 karakterlik tek cümlelik özet",
-  "gorsel_prompt": "Cinematic editorial photojournalism close-up or wide shot representing the news event, realistic lighting, high contrast, 3:2 aspect ratio, no text, no watermarks, no logos (İngilizce yaz)",
   "slaytlar": [
     {"etiket": "Ne oldu?", "metin": "Olayın en önemli özeti (120-210 karakter)"},
-    {"etiket": "Detaylar", "maddeler": ["Madde 1 (maks 160 krk)", "Madde 2 (maks 160 krk)", "Madde 3 (maks 160 krk)"]},
+    {"etiket": "Detaylar", "maddeler": ["Madde 1 (maks 160 krk)", "Madde 2 (maks 160 krk)"]},
     {"etiket": "Rakamlarla", "rakamlar": [["Rakam ve birim", "Kısa açıklama"]]},
-    {"etiket": "Ne dedi?", "alinti": "Haberde geçen doğrudan alıntı söz", "kim": "Söyleyenin unvanı ve adı"}
+    {"etiket": "Ne dedi?", "alinti": "Haberde tırnak içinde geçen sözün BİREBİR kopyası", "kim": "Söyleyenin unvanı ve adı"}
   ],
-  "yorum_sorusu": "Okuyucuları yorum yapmaya davet eden merak uyandırıcı tek bir soru (Örn: '📌 Sizce bu karar doğru mu? Görüşlerinizi yazın.')",
+  "yorum_sorusu": "Haberle ilgili tarafsız, tek bir soru (Örn: 'Sizce bu karar nasıl sonuçlanır?')",
   "hashtagler": ["#habere_ozel_1", "#habere_ozel_2"]
 }
-Not: Haberde rakam yoksa 'Rakamlarla' slaytını, doğrudan alıntı söz yoksa 'Ne dedi?' slaytını ekleme; onun yerine 'Ayrıca' başlıklı maddeli slayt ekle. En az 3, en fazla 5 slayt olsun."""
+
+KESİN KURALLAR:
+1. Sadece metinde yazanı kullan. Metinde olmayan bilgi, tarih, unvan, sonuç, geçmiş bilgisi EKLEME. Emin değilsen yazma.
+2. Yorum ve sıfat katma: "muhteşem", "tarihi", "kritik", "şok", "heyecan dolu", "yıldızlaştı", "net bir skor" gibi değerlendirmeler yasak. Haber ajansı dili kullan: kim, ne, nerede, ne zaman, kaç.
+3. Kanca haberin en somut ayrıntısını söyler (Örn: ROZETİ ERDOĞAN TAKTI, EV HAPSİNDEN CEZAEVİNE, 2 METRELİK DALGALAR). Olayı büyütme: "alev aldı" ise "alev topu" deme, "başvuru" ise "alarm" deme. KRİTİK, ŞOK, ALARM, FLAŞ, SON DAKİKA, RÜZGAR, GOL YAĞMURU, DEVLER, FIRTINA gibi klişeler yasak. Kanca başlıktaki kelimeleri tekrar etmesin.
+4. Ölüm, yaralanma, cinayet, istismar haberlerinde kanca sade ve saygılı olsun; "kaderden kaçamadı", "feci", "kahreden" gibi magazin dili yasak.
+5. "Ne dedi?" slaytını yalnız metinde tırnak içinde geçen bir söz varsa ekle ve sözü kelimesi kelimesine kopyala. Söz yoksa bu slaytı ekleme.
+6. "Rakamlarla" slaytını yalnız haberin özü olan rakamlar varsa ekle (ceza süresi, zam oranı, kayıp sayısı gibi). Önemsiz sayıları (maç sayısı, hafta numarası) ve başka slaytta yazılan bilgiyi tekrar etme.
+7. Slaytlar birbirini tekrar etmesin. Dolgu slayt ekleme. Basit haberde 2-3, detaylı haberde en fazla 4 slayt."""
+
+
+YASAK_KANCA = ("KRİTİK", "ŞOK", "ALARM", "FLAŞ", "SON DAKİKA", "RÜZGAR", "YAĞMURU", "DEVLER", "FIRTINA",
+               "KADERDEN", "FECİ", "KAHREDEN", "ALEV TOPU")
+
+
+def sade(metin):
+    """Alıntı karşılaştırması için: tırnak, noktalama ve boşluk farklarını yok sayar."""
+    return " ".join(re.sub(r"[^\w]+", " ", kart.buyuk(metin or "")).split())
 
 
 def anahtar_oku():
@@ -80,47 +96,6 @@ def metin_analiz_et(h, spot, paragraflar, anahtar):
     return sonuc
 
 
-def gorsel_uret(prompt, hid, anahtar):
-    """Önce Gemini görsel modelini dener; ücretsiz planda kapalıysa Pollinations Flux ile 1080x660 görsel üretir."""
-    if not prompt:
-        return None
-    dosya = os.path.join(KAPAKLAR, f"{hid}.jpg")
-    url = f"{GEMINI_API}/{GORSEL_MODEL}:generateContent"
-    govde = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseModalities": ["IMAGE"]},
-    }
-    try:
-        r = requests.post(url, params={"key": anahtar}, json=govde, timeout=45)
-        if r.status_code == 200:
-            parcalar = r.json().get("candidates", [{}])[0].get("content", {}).get("parts", [])
-            for p in parcalar:
-                inline = p.get("inlineData")
-                if inline and inline.get("data"):
-                    with open(dosya, "wb") as f:
-                        f.write(base64.b64decode(inline["data"]))
-                    return f"data/kapaklar/{hid}.jpg"
-    except Exception:
-        pass
-
-    # Ücretsiz anahtar yedeği: Pollinations Flux (alt filigranı kesmek için 1080x740 çekip üst 1080x660 alınır)
-    try:
-        import io
-        import urllib.parse
-        from PIL import Image
-        kodlu = urllib.parse.quote(prompt)
-        p_url = f"https://image.pollinations.ai/prompt/{kodlu}?width=1080&height=740&nologo=true&model=flux"
-        r2 = requests.get(p_url, timeout=45, headers={"User-Agent": "Mozilla/5.0 (haberbot)"})
-        if r2.status_code == 200 and len(r2.content) > 10000:
-            im = Image.open(io.BytesIO(r2.content)).convert("RGB")
-            im = im.crop((0, 0, im.width, int(im.height * 660 / 740)))
-            im.save(dosya, "JPEG", quality=92)
-            return f"data/kapaklar/{hid}.jpg"
-    except Exception:
-        pass
-    return None
-
-
 def zenginlestir_ai(h, z_varsayilan=None):
     """GEMINI_API_KEY varsa haberi AI ile zenginleştirir; yoksa veya hata olursa z_varsayilan döndürür."""
     if z_varsayilan is None:
@@ -138,9 +113,15 @@ def zenginlestir_ai(h, z_varsayilan=None):
         for alan in ("konu", "kanca", "baslik", "ozet"):
             if ai.get(alan) and isinstance(ai[alan], str) and ai[alan].strip():
                 z[alan] = ai[alan].strip()
-        if isinstance(ai.get("slaytlar"), list) and len(ai["slaytlar"]) >= 2:
-            # Rakamlarla slaytındaki listeleri tuple/list uyumlu tut
-            z["slaytlar"] = ai["slaytlar"][:6]
+        if any(k in kart.buyuk(z["kanca"]) for k in YASAK_KANCA):
+            z["kanca"] = z_varsayilan.get("kanca", "")
+        if isinstance(ai.get("slaytlar"), list):
+            kaynak_metin = sade(" ".join([spot] + paragraflar))
+            # uydurma alıntı riski: söz kaynak metinde birebir geçmiyorsa slayt atılır
+            slaytlar = [s for s in ai["slaytlar"] if isinstance(s, dict)
+                        and (not s.get("alinti") or sade(s["alinti"]) in kaynak_metin)]
+            if len(slaytlar) >= 2:
+                z["slaytlar"] = slaytlar[:4]
         if ai.get("yorum_sorusu") and isinstance(ai["yorum_sorusu"], str):
             z["yorum_sorusu"] = ai["yorum_sorusu"].strip()
         if ai.get("hashtagler") and isinstance(ai["hashtagler"], list):

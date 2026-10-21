@@ -289,7 +289,7 @@ def dinamik_etiketler(haber):
         tags = []
 
     if haber.get("il"):
-        il_tag = f"#{haber['il'].lower().replace(' ', '')}"
+        il_tag = f"#{haber['il'].replace('I', 'ı').replace('İ', 'i').lower().replace(' ', '')}"
         if il_tag not in tags:
             tags.append(il_tag)
 
@@ -298,7 +298,7 @@ def dinamik_etiketler(haber):
              "yeni", "tarihi", "acikladi", "açıkladı", "gelisme", "gelişme"}
     kelimeler = [k.strip(".,!?:;\"'()[]") for k in haber.get("baslik", "").split()]
     for k in kelimeler:
-        k_temiz = re.sub(r"[^\w]", "", k).lower()
+        k_temiz = re.sub(r"[^\w]", "", k.replace("I", "ı").replace("İ", "i")).lower()
         if len(k_temiz) >= 5 and k_temiz not in durak and not k_temiz.isdigit():
             tag = f"#{k_temiz}"
             if tag not in tags:
@@ -314,10 +314,7 @@ def dinamik_etiketler(haber):
 
 
 def aciklama(haber, hashtagler, karusel=False):
-    parca = []
-    if haber.get("kanca"):
-        parca.append(haber["kanca"])
-    parca.append(haber["baslik"])
+    parca = [haber["baslik"]]  # kanca görselde yazıyor, açıklamada tekrar etmez
     if haber.get("ozet"):
         parca.append(haber["ozet"])
     if karusel:
@@ -325,10 +322,12 @@ def aciklama(haber, hashtagler, karusel=False):
     bu_tg = bool(haber.get("tg_kanal") or "t.me/" in haber.get("link", ""))
     if not bu_tg:
         kaynak = "Kaynak: " + ", ".join([haber["kaynak"]] + haber.get("diger_kaynaklar", []))
-        parca.append(f"{kaynak}\n{haber['link']}")
+        parca.append(kaynak)  # Instagram açıklamadaki link tıklanmaz
     foto = haber.get("foto")
     if isinstance(foto, dict) and foto.get("not"):
         parca.append(foto["not"])
+    if haber.get("yorum_sorusu"):
+        parca.append(haber["yorum_sorusu"])
     parca.append("Gündemi kaçırmamak için takip et.")
     ozel = " ".join(dinamik_etiketler(haber))
     parca.append(f"{hashtagler} {ozel}".strip())

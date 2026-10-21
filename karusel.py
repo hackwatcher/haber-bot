@@ -117,11 +117,7 @@ def kapanis(haber, marka, kullanici_adi, sayfa, cikti):
         y += 70
         kaynaklar = [haber["kaynak"]] + haber.get("diger_kaynaklar", [])
         c.text((KENAR, y), ", ".join(kaynaklar), font=font(KALIN, 64), fill=BEYAZ)
-        y += 100
-        for s in sar(c, "Haberin tamamı için kaynağa bakabilirsin. Linki açıklamada.", font(NORMAL, 36), GENIS):
-            c.text((KENAR, y), s, font=font(NORMAL, 36), fill=GRI)
-            y += 52
-        y += 120
+        y += 220
     else:
         y = 480
     fb = font(KALIN, 92)
@@ -134,7 +130,6 @@ def kapanis(haber, marka, kullanici_adi, sayfa, cikti):
     w = c.textlength(yazi, font=fk)
     c.rounded_rectangle([KENAR, y, KENAR + w + 70, y + 96], radius=14, fill=vurgu)
     c.text((KENAR + 35, y + 24), yazi, font=fk, fill=konu[3])
-    c.text((KENAR, y + 140), "Kaydet, ihtiyacı olana gönder.", font=font(NORMAL, 32), fill=SOLUK)
     img.save(cikti, "JPEG", quality=92)
     return cikti
 
@@ -232,6 +227,6 @@ def karusel(haber_veri, marka, kullanici_adi, klasor, video=False):
 
     for i, s in enumerate(slaytlar, 2):
         yollar.append(bilgi_slayti(haber_veri, s, marka, no(i), os.path.join(klasor, f"{on}{i:02d}.jpg"),
-                                   kaydir=not video))
+                                   kaydir=False))  # kaydırma ipucu yalnız kapakta
     yollar.append(kapanis(haber_veri, marka, kullanici_adi, no(toplam), os.path.join(klasor, f"{on}{toplam:02d}.jpg")))
     return yollar
