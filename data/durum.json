@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "3ed44da3ab3a": {
-   "id": "3ed44da3ab3a",
-   "kaynak": "Hürriyet",
-   "baslik": "15 metreden düşen tır küle döndü: Sürücü ölümden son anda kurtuldu",
-   "ozet": "Anadolu Otoyolu Düzce kesiminde otomobille çarpıştıktan sonra Küçükmelen Köprüsü'nden 15 metre yükseklikten düşen alüminyum yüklü tırda yangın çıktı. Tır şoförünün düşmeden hemen önce atlayarak kurtulduğu kazada 2 kişi hafif yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/15-metreden-dusen-tir-kule-dondu-surucu-olumden-son-anda-kurtuldu-43346395",
-   "zaman": "2026-10-18T17:26:19+03:00",
-   "kelimeler": [
-    "15",
-    "anda",
-    "dondu",
-    "dusen",
-    "kule",
-    "kurtu",
-    "metre",
-    "olumd",
-    "suruc",
-    "tir"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "0128eed8edd9": {
    "id": "0128eed8edd9",
    "kaynak": "Sözcü",
@@ -29953,7 +29931,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "Hürriyet"
    ]
   },
   "13a04d86adfe": {
@@ -30164,7 +30143,10 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "961095c198c6": {
    "id": "961095c198c6",
@@ -30230,9 +30212,161 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0fffd71920eb": {
+   "id": "0fffd71920eb",
+   "kaynak": "AA",
+   "baslik": "Bakan Işıkhan: İŞKUR'un hizmetlerini dijital dönüşüm, beceri geliştirme ve kapsayıcı istihdam ekseninde güçlendiriyoruz",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, \"İŞKUR'un hizmetlerini dijital dönüşüm, beceri geliştirme ve kapsayıcı istihdam ekseninde güçlendiriyoruz. İş arayanların istihdam fırsatlarına erişimini kolaylaştırıyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-iskurun-hizmetlerini-dijital-donusum-beceri-gelistirme-ve-kapsayici-istihdam-ekseninde-guclendiriyoruz/4096106",
+   "zaman": "2026-10-21T17:11:58+03:00",
+   "kelimeler": [
+    "bakan",
+    "becer",
+    "dijit",
+    "donus",
+    "eksen",
+    "gelis",
+    "gucle",
+    "hizme",
+    "isikh",
+    "iskur",
+    "istih",
+    "kapsa",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3cecc2ac1894": {
+   "id": "3cecc2ac1894",
+   "kaynak": "AA",
+   "baslik": "Yunanistan Basketbol Federasyonu Başkanı Liolios şike ve rüşvet suçlamalarıyla gözaltına alındı",
+   "ozet": "Yunanistan Basketbol Federasyonu Başkanı Vangelis Liolios ile aralarında hakemlerin de bulunduğu 5 kişi şike ve rüşvet suçlamalarıyla gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/spor/yunanistan-basketbol-federasyonu-baskani-liolios-sike-ve-rusvet-suclamalariyla-gozaltina-alindi/4096109",
+   "zaman": "2026-10-21T17:14:00+03:00",
+   "kelimeler": [
+    "alind",
+    "baska",
+    "baske",
+    "feder",
+    "gozal",
+    "lioli",
+    "rusve",
+    "sike",
+    "sucla",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4249efdf319f": {
+   "id": "4249efdf319f",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Manifest’ grubunun kurucusu Tolga Akış hakkında istenen ceza belli oldu",
+   "ozet": "Kamuoyunda 'Manifest' olarak bilinen grubun kurucusu ve menajeri Tolga Akış hakkında 'müstehcen yayınların yayınlanmasına aracılık etmek' suçundan 6 aydan 3 yıla kadar hapis cezası talep edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/manifest-grubunun-kurucusu-tolga-akis-hakkinda-istenen-ceza-belli-oldu-43350081",
+   "zaman": "2026-10-21T17:15:16+03:00",
+   "kelimeler": [
+    "akis",
+    "belli",
+    "ceza",
+    "grubu",
+    "hakki",
+    "isten",
+    "kuruc",
+    "manif",
+    "tolga"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f230898618d3"
+  },
+  "3dcc45e03028": {
+   "id": "3dcc45e03028",
+   "kaynak": "TRT Haber",
+   "baslik": "Nobel ödüllü bilim insanı Aziz Sancar'ın evi müze oldu",
+   "ozet": "Nobel ödüllü Türk bilim insanı Prof. Dr. Aziz Sancar'ın Mardin'in Savur ilçesinde doğup büyüdüğü tarihi konağın bir katı restore edilerek müzeye dönüştürüldü.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/nobel-odullu-bilim-insani-aziz-sancarin-evi-muze-oldu-960791.html",
+   "zaman": "2026-10-21T17:18:00+03:00",
+   "kelimeler": [
+    "aziz",
+    "bilim",
+    "evi",
+    "in",
+    "insan",
+    "muze",
+    "nobel",
+    "odull",
+    "sanca"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1ee94c4c0db9": {
+   "id": "1ee94c4c0db9",
+   "kaynak": "AA",
+   "baslik": "Katar: Bedir Mutabakatı, müttefik ve dost ülkelerin ihtiyaçlarının karşılanmasına katkı sağlayacak",
+   "ozet": "Katar, Türkiye, Pakistan ve Endonezya arasında imzalanan Bedir Mutabakat Zaptı'yla dört ülkenin savunma sanayisi kabiliyetlerinden en iyi şekilde yararlanılarak müttefik ve dost ülkelerin ihtiyaçlarının karşılanmasına katkı sağlanacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-bedir-mutabakati-muttefik-ve-dost-ulkelerin-ihtiyaclarinin-karsilanmasina-katki-saglayacak/4096116",
+   "zaman": "2026-10-21T17:18:12+03:00",
+   "kelimeler": [
+    "bedir",
+    "dost",
+    "ihtiy",
+    "karsi",
+    "katar",
+    "katki",
+    "mutab",
+    "mutte",
+    "sagla",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "edda6e030a59": {
+   "id": "edda6e030a59",
+   "kaynak": "AA",
+   "baslik": "Mardin Savur'da \"Aziz Sancar Müzesi\" ziyarete açıldı",
+   "ozet": "Mardin'in Savur ilçesinin Sefa Mahallesi'nde Nobel ödüllü Türk bilim insanı Prof. Dr. Aziz Sancar'ın doğup büyüdüğü ve hekimlik yaparken bir süre kaldığı tarihi konağın bir katı restore edilerek \"Aziz Sancar Müzesi\"ne dönüştürüldü.",
+   "link": "https://www.aa.com.tr/tr/kultur/mardin-savurda-aziz-sancar-muzesi-ziyarete-acildi/4096125",
+   "zaman": "2026-10-21T17:24:25+03:00",
+   "kelimeler": [
+    "acild",
+    "aziz",
+    "mardi",
+    "muzes",
+    "sanca",
+    "savur",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b12023046e46": {
+   "id": "b12023046e46",
+   "kaynak": "NTV",
+   "baslik": "\"Eşime ürün satma\" cinayeti. Kasabı bıçaklayarak öldürdü",
+   "ozet": "İstanbul'da bir şahıs, boşanma aşamasındaki eşine ürün satmaya çalışan kasabı bıçaklayarak öldürdü.",
+   "link": "https://www.ntv.com.tr/turkiye/esime-urun-satma-cinayeti-kasabi-bicaklayarak-oldurdu-1747367",
+   "zaman": "2026-10-21T17:27:40+03:00",
+   "kelimeler": [
+    "bicak",
+    "cinay",
+    "esime",
+    "kasab",
+    "oldur",
+    "satma",
+    "urun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9736068fbc0b"
   }
  },
  "kayit": [
+  "21.10 17:31:12  5 yeni haber",
   "21.10 17:18:55  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yemek kuryesi süsü verdiler, uyuşturucuyu bulaşık makinesine gizledile",
   "21.10 17:16:08  10 yeni haber",
   "21.10 17:01:20  7 yeni haber",
@@ -30431,8 +30565,7 @@
   "19.10 16:46:08  8 yeni haber",
   "19.10 16:31:15  11 yeni haber",
   "19.10 16:15:57  5 yeni haber",
-  "19.10 16:01:30  8 yeni haber",
-  "19.10 15:48:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · TCMB, perşembe günü faiz kararını açıklayacak"
+  "19.10 16:01:30  8 yeni haber"
  ],
  "otomatik": false
 }
