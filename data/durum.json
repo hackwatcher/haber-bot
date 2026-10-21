@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "e3ecab8e9796": {
-   "id": "e3ecab8e9796",
-   "kaynak": "Hürriyet",
-   "baslik": "Bir kenti daha sağanak vurdu: Yollar göle döndü, iş yerlerini su bastı",
-   "ozet": "İstanbul ve çevre illerdeki sel felaketinin ardından Zonguldak'ta da alarm verildi. Turuncu kodlu uyarı yapılan kentte sağanak nedeniyle Acılık Deresi ile Şahide Mar Deresi'nin debisi yükseldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bir-kenti-daha-saganak-vurdu-yollar-gole-dondu-is-yerlerini-su-basti-43345929",
-   "zaman": "2026-10-18T11:00:00+03:00",
-   "kelimeler": [
-    "basti",
-    "dondu",
-    "gole",
-    "is",
-    "kenti",
-    "sagan",
-    "su",
-    "vurdu",
-    "yerle",
-    "yolla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0799354444fa": {
    "id": "0799354444fa",
    "kaynak": "Hürriyet",
@@ -987,47 +965,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "2316f8e5c2e4": {
-   "id": "2316f8e5c2e4",
-   "kaynak": "TRT Haber",
-   "baslik": "Sanatçı Süleyman Saim Tekcan vefat etti",
-   "ozet": "2022'de Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü'ne layık görülen ressam, sinema oyuncusu ve baskı sanatçısı Süleyman Saim Tekcan, 86 yaşında hayatını kaybetti.",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
-   "zaman": "2026-10-18T10:53:00+03:00",
-   "kelimeler": [
-    "etti",
-    "saim",
-    "sanat",
-    "suley",
-    "tekca",
-    "vefat"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "b40b6efd1aea"
-  },
-  "d8e81d2fc009": {
-   "id": "d8e81d2fc009",
-   "kaynak": "TRT Haber",
-   "baslik": "Gelecek yılın bütçesine pay gelirlerinden 778,9 milyar lira katkı sağlanacak",
-   "ozet": "Devlet yeni yılda kişi ve kurumlardan alınan paylardan 778 milyar 937 milyon 447 bin lira gelir elde etmeyi hedefliyor.",
-   "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-7789-milyar-lira-katki-saglanacak-960452.html",
-   "zaman": "2026-10-18T11:01:00+03:00",
-   "kelimeler": [
-    "778",
-    "butce",
-    "gelec",
-    "gelir",
-    "katki",
-    "lira",
-    "milya",
-    "pay",
-    "sagla",
-    "yilin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "cc3da812c9cd": {
    "id": "cc3da812c9cd",
@@ -26146,7 +26083,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d63162f168ef": {
    "id": "d63162f168ef",
@@ -26865,9 +26803,181 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0bf9e423bfb2": {
+   "id": "0bf9e423bfb2",
+   "kaynak": "TRT Haber",
+   "baslik": "Genç çiftlere ekimde 1 milyar 756 milyon liralık evlilik desteği",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, aile kurumunun desteklenmesi ve genç çiftlerin evlilik süreçlerine katkı sağlanması amacıyla kurulan Aile ve Gençlik Fonu kapsamında bu ay 15 bin 468 gence toplam 1 milyar 756 milyon 600 bin lira ödeme yapıldığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/genc-ciftlere-ekimde-1-milyar-756-milyon-liralik-evlilik-destegi-960732.html",
+   "zaman": "2026-10-21T10:33:00+03:00",
+   "kelimeler": [
+    "756",
+    "ciftl",
+    "deste",
+    "ekimd",
+    "evlil",
+    "genc",
+    "liral",
+    "milya",
+    "milyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dac98f69c54c": {
+   "id": "dac98f69c54c",
+   "kaynak": "TRT Haber",
+   "baslik": "Müze müdürü yanlış bilgiyle tanıtılan eser nedeniyle istifa kararı aldı",
+   "ozet": "Güney Kore Ulusal Müzesi Müdürü Yu Hongjun, müzede yanlış bilgiyle sergilenen bir eser nedeniyle istifa edeceğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/muze-muduru-yanlis-bilgiyle-tanitilan-eser-nedeniyle-istifa-karari-aldi-960730.html",
+   "zaman": "2026-10-21T10:39:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "bilgi",
+    "eser",
+    "istif",
+    "karar",
+    "mudur",
+    "muze",
+    "neden",
+    "tanit",
+    "yanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "71ef173d9fc7": {
+   "id": "71ef173d9fc7",
+   "kaynak": "Hürriyet",
+   "baslik": "Su basan binalar için kritik uyarı: Nem binayı öldürür, 6 ay ile 6 yıl arasında çürüme başlar",
+   "ozet": "İstanbul’da etkili olan sağanak sonrası bodrum ve zemin katları su altında kalan binalara ilişkin değerlendirmede bulunan Prof. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/su-basan-binalar-icin-kritik-uyari-nem-binayi-oldurur-6-ay-ile-6-yil-arasinda-curume-baslar-43349388",
+   "zaman": "2026-10-21T10:46:12+03:00",
+   "kelimeler": [
+    "arasi",
+    "ay",
+    "basan",
+    "basla",
+    "binal",
+    "binay",
+    "curum",
+    "kriti",
+    "nem",
+    "oldur",
+    "su",
+    "uyari",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3230e822d61d": {
+   "id": "3230e822d61d",
+   "kaynak": "AA",
+   "baslik": "İnsansız Deniz Sistemleri Tatbikatı TURNAs-2026 başladı",
+   "ozet": "Deniz Kuvvetleri Komutanlığınca düzenlenen \"İnsansız Deniz Sistemleri Tatbikatı TURNAs-2026\" Antalya Körfezi'nde başladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/insansiz-deniz-sistemleri-tatbikati-turnas-2026-basladi/4095371",
+   "zaman": "2026-10-21T10:49:32+03:00",
+   "kelimeler": [
+    "2026",
+    "basla",
+    "deniz",
+    "insan",
+    "siste",
+    "tatbi",
+    "turna"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b9dbf88b2397": {
+   "id": "b9dbf88b2397",
+   "kaynak": "AA",
+   "baslik": "UEFA Konferans Ligi'nde 2. hafta maçları yarın oynanacak",
+   "ozet": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvası olan UEFA Konferans Ligi'nin 2. haftasında yarın 18 maç oynanacak.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginde-2-hafta-maclari-yarin-oynanacak/4095372",
+   "zaman": "2026-10-21T10:49:54+03:00",
+   "kelimeler": [
+    "hafta",
+    "konfe",
+    "ligi",
+    "macla",
+    "nde",
+    "oynan",
+    "uefa",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6701fd5dc50b"
+  },
+  "1c2708a16f10": {
+   "id": "1c2708a16f10",
+   "kaynak": "AA",
+   "baslik": "Elektrik piyasasında yeni teminat kuralları getirildi",
+   "ozet": "Elektrik piyasasında temerrüde düşen katılımcıların teminat yükümlülükleri sıkılaştırılırken, ödenmeyen fatura borçları da teminat çağrısı gerektiren durumlar arasına alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-piyasasinda-yeni-teminat-kurallari-getirildi/4095375",
+   "zaman": "2026-10-21T10:52:09+03:00",
+   "kelimeler": [
+    "elekt",
+    "getir",
+    "kural",
+    "piyas",
+    "temin",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e51afef8b85f": {
+   "id": "e51afef8b85f",
+   "kaynak": "Hürriyet",
+   "baslik": "Yalova'da sağanakta tıkanan mazgalı bastonuyla açmıştı: Vali Usta'dan Remziye Kurşun'a teşekkür ziyareti",
+   "ozet": "Yalova’da sağanak sırasında evinin bulunduğu sokaktaki tıkanan mazgalı bastonuyla temizleyerek su birikmesini önleyen 65 yaşındaki Remziye Kurşun'u evinde ziyaret eden Vali Ahmet Hamdi Usta, sergilediği duyarlılık dolayısıyla teşekkür edip çiçek verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yalovada-saganakta-tikanan-mazgali-bastonuyla-acmisti-vali-ustadan-remziye-kursuna-tesekkur-ziyareti-43349404",
+   "zaman": "2026-10-21T10:54:00+03:00",
+   "kelimeler": [
+    "acmis",
+    "basto",
+    "dan",
+    "kursu",
+    "mazga",
+    "remzi",
+    "sagan",
+    "tesek",
+    "tikan",
+    "usta",
+    "vali",
+    "yalov",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bef958ac07c7": {
+   "id": "bef958ac07c7",
+   "kaynak": "NTV",
+   "baslik": "Bolu Dağı'nda sis etkili oldu, görüş mesafesi azaldı",
+   "ozet": "Bolu Dağı'nın D-100 kara yolu geçişinde etkili olan yoğun sis nedeniyle görüş mesafesi yaklaşık 25 metreye kadar düştü.",
+   "link": "https://www.ntv.com.tr/turkiye/video-bolu-daginda-sis-etkili-oldu-gorus-mesafesi-azaldi-1747303",
+   "zaman": "2026-10-21T10:55:52+03:00",
+   "kelimeler": [
+    "azald",
+    "bolu",
+    "dagi",
+    "etkil",
+    "gorus",
+    "mesaf",
+    "nda",
+    "sis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 11:01:29  7 yeni haber",
   "21.10 10:48:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trump, veri merkezlerine kendi elektriklerini üretmeleri ve yerel halk",
   "21.10 10:46:06  6 yeni haber",
   "21.10 10:31:13  8 yeni haber",
@@ -27066,8 +27176,7 @@
   "19.10 10:01:19  3 yeni haber",
   "19.10 09:45:54  6 yeni haber",
   "19.10 09:31:10  5 yeni haber",
-  "19.10 09:16:01  3 yeni haber",
-  "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for"
+  "19.10 09:16:01  3 yeni haber"
  ],
  "otomatik": false
 }
