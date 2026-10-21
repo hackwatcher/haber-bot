@@ -891,29 +891,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "e78c766f6b50": {
-   "id": "e78c766f6b50",
-   "kaynak": "Hürriyet",
-   "baslik": "Kocaeli'de sağanak sonrası dereye düşen cipin sürücüsü kurtuldu, kayıp 2 kişi aranıyor",
-   "ozet": "Kocaeli’nin Gebze ilçesinde dereye düşüp sele kapılan cipteki 3 kişiden sürücü Mustafa Deniz Ertaş kurtuldu, kayıp olan arkadaşları Doğan Arslan ve Fatih Demirtaş ile araca ulaşmak için arama kurtarma çalışmaları sürüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/kocaelide-saganak-sonrasi-dereye-dusen-cipin-surucusu-kurtuldu-kayip-2-kisi-araniyor-43345806",
-   "zaman": "2026-10-18T08:31:00+03:00",
-   "kelimeler": [
-    "arani",
-    "cipin",
-    "derey",
-    "dusen",
-    "kayip",
-    "kisi",
-    "kocae",
-    "kurtu",
-    "sagan",
-    "sonra",
-    "suruc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "cb2f02111a73": {
    "id": "cb2f02111a73",
    "kaynak": "Hürriyet",
@@ -25748,7 +25725,10 @@
    "fb_id": null,
    "fb_reels_id": "1419198227045307",
    "slayt": 5,
-   "kanca": "İŞÇİ SERVİSİ KAZASI"
+   "kanca": "İŞÇİ SERVİSİ KAZASI",
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "5ba7716af783": {
    "id": "5ba7716af783",
@@ -25773,9 +25753,147 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "744b2b1cf22a"
+  },
+  "641910c4184d": {
+   "id": "641910c4184d",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi: Doğu ve Güneydoğu'da 2 bin 63 yol kontrol noktası kaldırıldı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Terörsüz Türkiye\" sürecinde sona yaklaşıldığını belirterek, tesis edilen huzur ve güven ortamı sayesinde Doğu ve Güneydoğu Anadolu bölgelerindeki 2 bin 63 yol kontrol noktasının kaldırıldığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-dogu-ve-guneydoguda-2-bin-63-yol-kontrol-noktasi-kaldirildi-960709.html",
+   "zaman": "2026-10-21T08:07:00+03:00",
+   "kelimeler": [
+    "63",
+    "bakan",
+    "bin",
+    "ciftc",
+    "dogu",
+    "guney",
+    "kaldi",
+    "kontr",
+    "nokta",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d7d9cfafb681": {
+   "id": "d7d9cfafb681",
+   "kaynak": "Hürriyet",
+   "baslik": "Servis minibüsü hafriyat kamyonuna çarptı: 9 kişi yaralandı",
+   "ozet": "Arnavutköy’de servis minibüsünün park halindeki hafriyat kamyonuna çarptığı kazada 9 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/servis-minibusu-hafriyat-kamyonuna-carpti-9-kisi-yaralandi-43349184",
+   "zaman": "2026-10-21T08:07:00+03:00",
+   "kelimeler": [
+    "carpt",
+    "hafri",
+    "kamyo",
+    "kisi",
+    "minib",
+    "servi",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "19401546beaf"
+  },
+  "004e77087c11": {
+   "id": "004e77087c11",
+   "kaynak": "TRT Haber",
+   "baslik": "BM'den iklim krizinde 1,5 derece sınırının aşılmaması için hızlı hareket edilmesi çağrısı",
+   "ozet": "Birleşmiş Milletler BM Genel Sekreteri Antonio Guterres, iklim krizinde dünyanın artık 1,5 derecelik sınırı aşmaktan kaçınamayacak duruma geldiğini belirterek, emisyon açığını kapatmak için ülkeleri hızlı hareket etmeye çağırdı.",
+   "link": "https://www.trthaber.com/haber/dunya/bmden-iklim-krizinde-15-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi-960710.html",
+   "zaman": "2026-10-21T08:08:00+03:00",
+   "kelimeler": [
+    "asilm",
+    "bm",
+    "cagri",
+    "den",
+    "derec",
+    "edilm",
+    "harek",
+    "hizli",
+    "iklim",
+    "krizi",
+    "sinir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "8a2103e62b45": {
+   "id": "8a2103e62b45",
+   "kaynak": "AA",
+   "baslik": "BM'den iklim krizinde 1,5 derece sınırının aşılmaması için hızlı hareket edilmesi çağrısı",
+   "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, iklim krizinde dünyanın artık 1,5 derecelik sınırı aşmaktan kaçınamayacak duruma geldiğini belirterek, emisyon açığını kapatmak için ülkeleri hızlı hareket etmeye çağırdı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bmden-iklim-krizinde-1-5-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi/4095222",
+   "zaman": "2026-10-21T08:11:34+03:00",
+   "kelimeler": [
+    "asilm",
+    "bm",
+    "cagri",
+    "den",
+    "derec",
+    "edilm",
+    "harek",
+    "hizli",
+    "iklim",
+    "krizi",
+    "sinir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "004e77087c11"
+  },
+  "439100461dcf": {
+   "id": "439100461dcf",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir sahilinde laf atma kavgası: Kulağını ısırarak kopardı",
+   "ozet": "İzmir Konak'ta ailesiyle oturan bir kişi, laf atma tartışması sonrası darbedilerek kulağından ısırıldı. Sol kulağının bir kısmı kopan yaralı hastaneye sevk edilirken, polis olay yerinden hızla uzaklaşan şüphelinin peşine düştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/izmir-sahilinde-laf-atma-kavgasi-kulagini-isirarak-kopardi-43349186",
+   "zaman": "2026-10-21T08:18:06+03:00",
+   "kelimeler": [
+    "atma",
+    "isira",
+    "izmir",
+    "kavga",
+    "kopar",
+    "kulag",
+    "laf",
+    "sahil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c0d764caacc": {
+   "id": "3c0d764caacc",
+   "kaynak": "Hürriyet",
+   "baslik": "Aracı hem polisin üzerine sürdü hem tehdit etti: Alkollü sürücüye 680 bin liralık ceza",
+   "ozet": "Kayseri'de polisin ihtarına uymayıp kaçan ve yakalandığında aracı kendisinin kullanmadığını iddia ederek ekipleri tehdit eden alkollü sürücü gözaltına alındı. Kovalamaca sonrası yakalanan sürücü hakkında adli işlem başlatılırken, aracı otoparka çekildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/araci-hem-polisin-uzerine-surdu-hem-tehdit-etti-alkollu-surucuye-680-bin-liralik-ceza-43349196",
+   "zaman": "2026-10-21T08:28:53+03:00",
+   "kelimeler": [
+    "680",
+    "alkol",
+    "araci",
+    "bin",
+    "ceza",
+    "etti",
+    "hem",
+    "liral",
+    "polis",
+    "surdu",
+    "suruc",
+    "tehdi",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 08:31:18  4 yeni haber",
   "21.10 08:18:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Arnavutköy'de işçi servisi hafriyat kamyonuna çarptı: 9 yaralı",
   "21.10 08:16:04  1 yeni haber",
   "21.10 08:01:25  2 yeni haber",
@@ -25974,8 +26092,7 @@
   "19.10 07:04:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Fransa'da Örümcek Adam kostümlü eylemciler, efsaneleşmiş ikonik pozu y",
   "19.10 07:01:21  1 yeni haber",
   "19.10 06:45:53  1 yeni haber",
-  "19.10 06:01:24  2 yeni haber",
-  "19.10 03:31:13  1 yeni haber"
+  "19.10 06:01:24  2 yeni haber"
  ],
  "otomatik": false
 }
