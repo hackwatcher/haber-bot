@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "607d52b0b583": {
-   "id": "607d52b0b583",
-   "kaynak": "NTV",
-   "baslik": "Dışişleri Bakanlığı’ndan Kanada’daki patlamaya taziye",
-   "ozet": "Dışişleri Bakanlığı'ndan, Kanada'nın Alberta eyaletinde askeri üste meydana gelen patlama nedeniyle can kayıpları için taziye mesajı paylaşıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/disisleri-bakanligindan-kanadadaki-patlamaya-taziye-1746914",
-   "zaman": "2026-10-18T22:52:53+03:00",
-   "kelimeler": [
-    "bakan",
-    "daki",
-    "disis",
-    "kanad",
-    "ndan",
-    "patla",
-    "taziy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a37c08f95406": {
-   "id": "a37c08f95406",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'den Kanada'daki askeri üste yaşanan patlamaya ilişkin taziye mesajı",
-   "ozet": "Dışişleri Bakanlığı, Kanada'da bir askeri üste dün meydana gelen patlama nedeniyle yaşanan can kayıplarından derin üzüntü duyulduğunu belirtti.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-kanadadaki-askeri-uste-yasanan-patlamaya-iliskin-taziye-mesaji-960482.html",
-   "zaman": "2026-10-18T22:53:00+03:00",
-   "kelimeler": [
-    "asker",
-    "daki",
-    "den",
-    "ilisk",
-    "kanad",
-    "mesaj",
-    "patla",
-    "taziy",
-    "turki",
-    "uste",
-    "yasan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "326f110a995c": {
-   "id": "326f110a995c",
-   "kaynak": "AA",
-   "baslik": "Türkiye'den Kanada'da yaşanan patlamaya ilişkin taziye mesajı",
-   "ozet": "Dışişleri Bakanlığı, Kanada'da Wainwright Askeri Üssü'nde dün meydana gelen patlamada yaşanan can kayıplarından derin üzüntü duyulduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-kanadada-yasanan-patlamaya-iliskin-taziye-mesaji/4092905",
-   "zaman": "2026-10-18T22:57:24+03:00",
-   "kelimeler": [
-    "den",
-    "ilisk",
-    "kanad",
-    "mesaj",
-    "patla",
-    "taziy",
-    "turki",
-    "yasan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a37c08f95406"
-  },
-  "6b8e6353721e": {
-   "id": "6b8e6353721e",
-   "kaynak": "AA",
-   "baslik": "Kanada'da Wainwright Askeri Üssü'nde çıkan yangında 4 asker öldü",
-   "ozet": "Kanada'nın Alberta eyaletindeki Wainwright Askeri Üssü'nde çıkan yangında 4 askerin öldüğü ve çok sayıda ağır yaralı olduğu açıklandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/kanadada-wainwright-askeri-ussunde-cikan-yanginda-4-asker-oldu/4092907",
-   "zaman": "2026-10-18T22:58:20+03:00",
-   "kelimeler": [
-    "asker",
-    "cikan",
-    "kanad",
-    "nde",
-    "ussu",
-    "wainw",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7c94020802fe"
-  },
   "4112bd91b8d5": {
    "id": "4112bd91b8d5",
    "kaynak": "NTV",
@@ -27280,7 +27194,8 @@
     "uefa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "f340f672034d": {
    "id": "f340f672034d",
@@ -31935,9 +31850,132 @@
    ],
    "durum": "engelli",
    "oncelikli": false
+  },
+  "0512345bb0da": {
+   "id": "0512345bb0da",
+   "kaynak": "AA",
+   "baslik": "ABD Başkan Yardımcısı Vance, Netanyahu'ya saldırmadığını ancak destek de vermediğini belirtti",
+   "ozet": "ABD Başkan Yardımcısı JD Vance, yabancı ülke seçimlerine değil 3 Kasım'daki Kongre seçimlerine odaklandığını belirterek, \"Bibi Netanyahu'ya saldırmıyorum, Bibi Netanyahu'ya destek de vermiyorum.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-netanyahuya-saldirmadigini-ancak-destek-de-vermedigini-belirtti/4096372",
+   "zaman": "2026-10-21T21:26:12+03:00",
+   "kelimeler": [
+    "abd",
+    "ancak",
+    "baska",
+    "belir",
+    "deste",
+    "netan",
+    "saldi",
+    "vance",
+    "verme",
+    "ya",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5eed67b15934": {
+   "id": "5eed67b15934",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Yumaklı, Kanadalı Bakan Hodgson’u ağırladı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Kanada Enerji ve Doğal Kaynaklar Bakanı Tim Hodgson ile bir araya geldi. Görüşmede orman yangınlarıyla mücadelede işbirliği ve tecrübe paylaşımı konuları ele alındı",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-yumakli-kanadali-bakan-hodgsonu-agirladi-43350338",
+   "zaman": "2026-10-21T22:45:00+03:00",
+   "kelimeler": [
+    "agirl",
+    "bakan",
+    "hodgs",
+    "kanad",
+    "yumak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "388aa0f3732e": {
+   "id": "388aa0f3732e",
+   "kaynak": "AA",
+   "baslik": "UEFA'dan Halil Umut Meler'e görev",
+   "ozet": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında görev yapacak.",
+   "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
+   "zaman": "2026-10-21T22:45:50+03:00",
+   "kelimeler": [
+    "dan",
+    "gorev",
+    "halil",
+    "meler",
+    "uefa",
+    "umut"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2f4a82023e46"
+  },
+  "76571ff24ce0": {
+   "id": "76571ff24ce0",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Memişoğlu, Güney Kore'de 3 ülkenin sağlık bakanıyla görüştü",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Güney Kore ziyareti kapsamında Tunus, Katar ve Güney Kore'nin sağlık bakanlarıyla bir araya geldi. Bakan Memişoğlu, sağlık teknolojileri alanında faaliyet gösteren merkez ve şirketleri de ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-guney-korede-3-ulkenin-saglik-bakaniyla-gorustu-43350339",
+   "zaman": "2026-10-21T22:48:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "gorus",
+    "guney",
+    "kore",
+    "memis",
+    "sagli",
+    "ulken"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cd5068968744": {
+   "id": "cd5068968744",
+   "kaynak": "AA",
+   "baslik": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
+   "ozet": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
+   "zaman": "2026-10-21T22:55:45+03:00",
+   "kelimeler": [
+    "belir",
+    "cozum",
+    "hic",
+    "nda",
+    "olduk",
+    "olmad",
+    "rusya",
+    "savas",
+    "trump",
+    "ukray",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e299fd75c3c5": {
+   "id": "e299fd75c3c5",
+   "kaynak": "Sözcü",
+   "baslik": "AKP'nin fon teklifinin 3.maddesine verdiği önerge kabul edildi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-akp-nin-fon-teklifinin-3-maddesine-verdigi-onerge-kabul-edildi-p371475",
+   "zaman": "2026-10-21T22:56:01+03:00",
+   "kelimeler": [
+    "akp",
+    "edild",
+    "fon",
+    "kabul",
+    "madde",
+    "nin",
+    "onerg",
+    "tekli",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 23:01:25  5 yeni haber",
   "21.10 22:46:13  5 yeni haber",
   "21.10 22:31:16  4 yeni haber",
   "21.10 22:15:58  3 yeni haber",
@@ -32136,8 +32174,7 @@
   "19.10 22:16:05  3 yeni haber",
   "19.10 22:01:19  1 yeni haber",
   "19.10 21:46:02  2 yeni haber",
-  "19.10 21:31:17  3 yeni haber",
-  "19.10 21:16:05  3 yeni haber"
+  "19.10 21:31:17  3 yeni haber"
  ],
  "otomatik": false
 }
