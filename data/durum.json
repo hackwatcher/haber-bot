@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "9c42419cd46c": {
-   "id": "9c42419cd46c",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-ekim-2026-1746922",
-   "zaman": "2026-10-19T00:00:00+03:00",
-   "kelimeler": [
-    "19",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "ekim",
-    "il",
-    "istan",
-    "izmir",
-    "nered"
-   ],
-   "durum": "engelli",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
   "487f2f9a596c": {
    "id": "487f2f9a596c",
    "kaynak": "TRT Haber",
@@ -20356,7 +20332,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "46dd46e47ab2": {
    "id": "46dd46e47ab2",
@@ -31334,8 +31311,17 @@
     "galat",
     "puanl"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-22T00:03:52.226570+03:00",
+   "ig_id": "18161458264501017",
+   "reels_id": "18197154358388934",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1430468048505512",
+   "slayt": 5,
+   "kanca": "Spor"
   },
   "7c6c7e3eb2be": {
    "id": "7c6c7e3eb2be",
@@ -32093,7 +32079,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "2307d6638707": {
    "id": "2307d6638707",
@@ -32253,9 +32242,80 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9fda3ad3677a": {
+   "id": "9fda3ad3677a",
+   "kaynak": "AA",
+   "baslik": "ABD: Tahliye emri sadece Suudi Arabistan'daki misyon çalışanları için geçerli",
+   "ozet": "ABD Dışişleri Bakanlığı Sözcü Yardımcısı Pigott, Körfez ülkelerindeki bazı personel ve aileleri için tahliye emri verileceği yönündeki haberleri yalanlayarak uygulamanın yalnızca Suudi Arabistan'daki misyon çalışanlarını kapsadığını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-tahliye-emri-sadece-suudi-arabistandaki-misyon-calisanlari-icin-gecerli/4096510",
+   "zaman": "2026-10-21T23:44:54+03:00",
+   "kelimeler": [
+    "abd",
+    "arabi",
+    "calis",
+    "daki",
+    "emri",
+    "gecer",
+    "misyo",
+    "sadec",
+    "suudi",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "00c866e58cc3": {
+   "id": "00c866e58cc3",
+   "kaynak": "AA",
+   "baslik": "Siber Güvenlik Başkanlığınca kritik güvenlik zafiyetlerine karşı ulusal ölçekte tarama başlatıldı",
+   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısındaki kritik güvenlik zafiyetlerine karşı ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siber-guvenlik-baskanliginca-kritik-guvenlik-zafiyetlerine-karsi-ulusal-olcekte-tarama-baslatildi/4096515",
+   "zaman": "2026-10-21T23:47:45+03:00",
+   "kelimeler": [
+    "baska",
+    "basla",
+    "guven",
+    "karsi",
+    "kriti",
+    "olcek",
+    "siber",
+    "taram",
+    "ulusa",
+    "zafiy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dbc2880fb176"
+  },
+  "dd60eb66dfc5": {
+   "id": "dd60eb66dfc5",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
+   "zaman": "2026-10-22T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "22",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "ekim",
+    "il",
+    "istan",
+    "izmir",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ddc460402390"
   }
  },
  "kayit": [
+  "22.10 00:03:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaray Fransa'dan 3 puanla dönüyor",
+  "22.10 00:01:28  1 yeni haber",
   "21.10 23:46:46  1 yeni haber",
   "21.10 23:46:00  2 yeni haber",
   "21.10 23:31:04  2 yeni haber",
@@ -32453,9 +32513,7 @@
   "19.10 23:16:09  2 yeni haber",
   "19.10 23:01:32  5 yeni haber",
   "19.10 23:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "19.10 22:46:05  2 yeni haber",
-  "19.10 22:31:14  4 yeni haber",
-  "19.10 22:16:05  3 yeni haber"
+  "19.10 22:46:05  2 yeni haber"
  ],
  "otomatik": false
 }
