@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "c2249b673976": {
-   "id": "c2249b673976",
-   "kaynak": "NTV",
-   "baslik": "Mide ve bağırsaklarından 750 gram uyuşturucu çıktı",
-   "ozet": "Bitlis’te durdurulan yolcu otobüsündeki yabancı uyruklu bir şüphelinin çekilen röntgen ve tomografi görüntülerinde, mide ve bağırsaklarında 758 gram metamfetamin tespit edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/mide-ve-bagirsaklarindan-750-gram-uyusturucu-cikti-1746910",
-   "zaman": "2026-10-18T22:24:42+03:00",
-   "kelimeler": [
-    "750",
-    "bagir",
-    "cikti",
-    "gram",
-    "mide",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "192c63efab25": {
-   "id": "192c63efab25",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi: Devletmillet el ele, omuz omuza çalışıyoruz",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, selden etkilenen bölgelerde yürütülen çalışmalara ilişkin, \"Afetin izlerini silmek, sokaklarımızı temizlemek ve hayatı normale döndürmek için devletmillet el ele, omuz omuza çalışıyoruz\" ifadelerini kullandı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-devlet-millet-el-ele-omuz-omuza-calisiyoruz-960481.html",
-   "zaman": "2026-10-18T22:28:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "calis",
-    "ciftc",
-    "devle",
-    "el",
-    "ele",
-    "omuz",
-    "omuza"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f9ce3a38a942": {
-   "id": "f9ce3a38a942",
-   "kaynak": "Hürriyet",
-   "baslik": "Trabzon'da cip dereye uçtu; 5 yaralı",
-   "ozet": "Trabzon'un Araklı ilçesinde kontrolden çıkıp dereye yuvarlanan cipteki 5 kişi, yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/trabzonda-cip-dereye-uctu-5-yarali-43346594",
-   "zaman": "2026-10-18T22:30:03+03:00",
-   "kelimeler": [
-    "cip",
-    "derey",
-    "trabz",
-    "uctu",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "73272f7da78e": {
    "id": "73272f7da78e",
    "kaynak": "AA",
@@ -31479,7 +31424,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "1fdc6b21a451": {
@@ -31792,9 +31738,116 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ef933c768e79": {
+   "id": "ef933c768e79",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
+   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
+   "zaman": "2026-10-21T20:41:08+03:00",
+   "kelimeler": [
+    "aldi",
+    "galat",
+    "galib",
+    "ilk",
+    "karsi",
+    "ligi",
+    "lille",
+    "ndeki",
+    "sampi",
+    "sezon"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "de86ec194442": {
+   "id": "de86ec194442",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'da Şeybe Petrol Sahası'nı hedef alan saldırıda 2 kişi hayatını kaybetti, 2 kişi yaralandı",
+   "ozet": "Suudi Arabistan'ın Şarkiyye bölgesindeki Şeybe Petrol Sahası'nı hedef alan saldırıda 2 kişinin hayatını kaybettiği, 2 kişinin yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanda-seybe-petrol-sahasini-hedef-alan-saldirida-2-kisi-hayatini-kaybetti-2-kisi-yaralandi/4096359",
+   "zaman": "2026-10-21T21:08:28+03:00",
+   "kelimeler": [
+    "alan",
+    "arabi",
+    "hayat",
+    "hedef",
+    "kaybe",
+    "kisi",
+    "ni",
+    "petro",
+    "sahas",
+    "saldi",
+    "seybe",
+    "suudi",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e6551b23de51": {
+   "id": "e6551b23de51",
+   "kaynak": "TRT Haber",
+   "baslik": "Emir Sarıgül hakkında tutuklama talebi",
+   "ozet": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül, tutuklama talebiyle hakimliğe sevk edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/emir-sarigul-hakkinda-tutuklama-talebi-960820.html",
+   "zaman": "2026-10-21T21:57:00+03:00",
+   "kelimeler": [
+    "emir",
+    "hakki",
+    "sarig",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "002eac05f4eb"
+  },
+  "e6cabe352809": {
+   "id": "e6cabe352809",
+   "kaynak": "AA",
+   "baslik": "Hollanda'da güvenlik açığı nedeniyle vatandaşlık hizmeti sunulan siteler erişime kapatıldı",
+   "ozet": "Hollanda'da, yaygın kullanılan PHP programlama dilinde tespit edilen kritik güvenlik açıkları nedeniyle vatandaşların devlet hizmetlerine eriştiği DigiD ve MijnOverheid gibi internet siteleri geçici olarak kapatıldı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hollandada-guvenlik-acigi-nedeniyle-vatandaslik-hizmeti-sunulan-siteler-erisime-kapatildi/4096418",
+   "zaman": "2026-10-21T22:12:57+03:00",
+   "kelimeler": [
+    "acigi",
+    "erisi",
+    "guven",
+    "hizme",
+    "holla",
+    "kapat",
+    "neden",
+    "sitel",
+    "sunul",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "662f4c3917ff": {
+   "id": "662f4c3917ff",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye ile İran arasında sınır güvenliği ele alındı",
+   "ozet": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-ele-alindi-43350316",
+   "zaman": "2026-10-21T22:24:08+03:00",
+   "kelimeler": [
+    "alind",
+    "arasi",
+    "ele",
+    "guven",
+    "iran",
+    "sinir",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 22:31:16  4 yeni haber",
   "21.10 22:15:58  3 yeni haber",
   "21.10 22:01:23  1 yeni haber",
   "21.10 21:45:58  5 yeni haber",
@@ -31993,8 +32046,7 @@
   "19.10 21:46:02  2 yeni haber",
   "19.10 21:31:17  3 yeni haber",
   "19.10 21:16:05  3 yeni haber",
-  "19.10 20:46:03  3 yeni haber",
-  "19.10 20:16:16  5 yeni haber"
+  "19.10 20:46:03  3 yeni haber"
  ],
  "otomatik": false
 }
