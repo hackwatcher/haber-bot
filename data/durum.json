@@ -1223,28 +1223,6 @@
     "AA"
    ]
   },
-  "8c2fa9cc587a": {
-   "id": "8c2fa9cc587a",
-   "kaynak": "TRT Haber",
-   "baslik": "Sosyal medyada mevzuata aykırı ilan paylaşan işletmelere 15,2 milyon ceza",
-   "ozet": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan veren toplam 152 emlak ve galeri işletmesine bugüne kadar 15,2 milyon lira idari para cezası uygulandığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html",
-   "zaman": "2026-10-18T09:36:00+03:00",
-   "kelimeler": [
-    "15",
-    "aykir",
-    "ceza",
-    "ilan",
-    "islet",
-    "medya",
-    "mevzu",
-    "milyo",
-    "payla",
-    "sosya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d6202d6c23db": {
    "id": "d6202d6c23db",
    "kaynak": "TRT Haber",
@@ -16040,7 +16018,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "7891e6664168": {
    "id": "7891e6664168",
@@ -24341,7 +24320,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "2f29bc9c0ae6": {
@@ -25484,7 +25464,10 @@
     "sert"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "19401546beaf": {
    "id": "19401546beaf",
@@ -26059,9 +26042,205 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "721728b93243": {
+   "id": "721728b93243",
+   "kaynak": "TRT Haber",
+   "baslik": "Ömer Çelik: Bölgenin geleceği işbirliğiyle şekillenecek",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, \"Libya Temsilciler Meclisinin Türkiye ile imzalanan Deniz Yetki Alanları Anlaşmasını onaylaması, tarihi ve hukuki haklılığımızın tescilidir. Bölgenin geleceği dayatmalarla değil, hakkaniyet ve iş birliğiyle şekillenecektir\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/omer-celik-bolgenin-gelecegi-isbirligiyle-sekillenecek-960715.html",
+   "zaman": "2026-10-21T09:22:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "celik",
+    "gelec",
+    "isbir",
+    "omer",
+    "sekil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b9c8f8ec5fc5": {
+   "id": "b9c8f8ec5fc5",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Sözcüsü Çelik: Mavi Vatan’daki haklarımızı ve Libya halkının haklarını güçlü bir biçimde savunacağız",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, \"Libya Temsilciler Meclisi’nin Türkiye ile imzalanan Deniz Yetki Alanları Anlaşması’nı onaylaması, tarihi ve hukuki haklılığımızın tescilidir.\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celik-mavi-vatandaki-haklarimizi-ve-libya-halkinin-haklarini-guclu-bir-bicimde-savunacagiz-43349241",
+   "zaman": "2026-10-21T09:27:53+03:00",
+   "kelimeler": [
+    "ak",
+    "bicim",
+    "celik",
+    "daki",
+    "guclu",
+    "hakla",
+    "halki",
+    "libya",
+    "mavi",
+    "parti",
+    "savun",
+    "sozcu",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "797951325acd": {
+   "id": "797951325acd",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatı güne düşüşle başladı",
+   "ozet": "Gram altın, güne düşüşle başlamasının ardından 6 bin 565 liradan işlem görüyor. Çeyrek altın 10 bin 786 liradan, cumhuriyet altını 42 bin 941 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyati-gune-dususle-basladi-960716.html",
+   "zaman": "2026-10-21T09:33:00+03:00",
+   "kelimeler": [
+    "altin",
+    "basla",
+    "dusus",
+    "fiyat",
+    "gune"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "50fa251702fa"
+  },
+  "418f6df6a20f": {
+   "id": "418f6df6a20f",
+   "kaynak": "TRT Haber",
+   "baslik": "9 ilde dolandırıcılık ve yasa dışı bahis operasyonu",
+   "ozet": "9 il merkezli 'Nitelikli Dolandırıcılık ve Yasa Dışı Bahis' suçlarına yönelik düzenlenen operasyonlarda, 34 milyar 760 milyon lira para hareketliliği tespit edilen 123 şüpheli hakkında işlem yapıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/9-ilde-dolandiricilik-ve-yasa-disi-bahis-operasyonu-960717.html",
+   "zaman": "2026-10-21T09:34:00+03:00",
+   "kelimeler": [
+    "bahis",
+    "disi",
+    "dolan",
+    "ilde",
+    "opera",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b3e1f4a40a17"
+  },
+  "2abdd4ae3e90": {
+   "id": "2abdd4ae3e90",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir'de 2 bin yıllık Zeus heykel başı ele geçirildi! 3 şüpheli gözaltında...",
+   "ozet": "İzmir'in Konak ilçesinde, Roma dönemine ait yaklaşık 2 bin yıllık mermer Zeus heykel başı ele geçirildi. Olaya ilişkin 3 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/izmirde-2-bin-yillik-zeus-heykel-basi-ele-gecirildi-3-supheli-gozaltinda-43349244",
+   "zaman": "2026-10-21T09:34:18+03:00",
+   "kelimeler": [
+    "basi",
+    "bin",
+    "ele",
+    "gecir",
+    "gozal",
+    "heyke",
+    "izmir",
+    "suphe",
+    "yilli",
+    "zeus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cb6f49fef407": {
+   "id": "cb6f49fef407",
+   "kaynak": "AA",
+   "baslik": "SPK, Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım'ın faaliyetlerini geçici olarak durdurma kararı aldı",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), Alnus Yatırım Menkul Değerler, Bulls Yatırım Menkul Değerler ve Pusula Yatırım Menkul Değerler'in sermaye piyasası faaliyetlerini bugün saat 00.01 itibarıyla geçici olarak durdurma kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-alnus-yatirim-bulls-yatirim-ve-pusula-yatirimin-faaliyetlerini-gecici-olarak-durdurma-karari-aldi/4095268",
+   "zaman": "2026-10-21T09:34:59+03:00",
+   "kelimeler": [
+    "aldi",
+    "alnus",
+    "bulls",
+    "durdu",
+    "faali",
+    "gecic",
+    "in",
+    "karar",
+    "pusul",
+    "spk",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4c5b6eddd274"
+  },
+  "a7dbc632c7c3": {
+   "id": "a7dbc632c7c3",
+   "kaynak": "AA",
+   "baslik": "Gazze'deki Sağlık Bakanlığı: Hastane jeneratörlerini çalıştırmak için gerekli yakıt tükendi",
+   "ozet": "İsrail ordusunun soykırıma varan saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'ndeki hastanelerde jeneratörleri çalıştırmak için gerekli yakıtın tükendiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-saglik-bakanligi-hastane-jeneratorlerini-calistirmak-icin-gerekli-yakit-tukendi/4095269",
+   "zaman": "2026-10-21T09:37:07+03:00",
+   "kelimeler": [
+    "bakan",
+    "calis",
+    "deki",
+    "gazze",
+    "gerek",
+    "hasta",
+    "jener",
+    "sagli",
+    "tuken",
+    "yakit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bcc26772fffa": {
+   "id": "bcc26772fffa",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, FIBA Kadınlar Avrupa Ligi'nde yarın Kangoeroes Basket Mechelen'e konuk olacak",
+   "ozet": "Galatasaray Çağdaş Faktoring Kadın Basketbol Takımı, FIBA Avrupa Ligi B Grubu'nun 2. haftasında yarın Belçika'nın Kangoeroes Basket Mechelen takımı ile deplasmanda karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-fiba-kadinlar-avrupa-liginde-yarin-kangoeroes-basket-mechelene-konuk-olacak/4095271",
+   "zaman": "2026-10-21T09:37:47+03:00",
+   "kelimeler": [
+    "avrup",
+    "baske",
+    "fiba",
+    "galat",
+    "kadin",
+    "kango",
+    "konuk",
+    "ligi",
+    "meche",
+    "nde",
+    "olaca",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ae96b18fd787"
+  },
+  "53ad5bcddc9a": {
+   "id": "53ad5bcddc9a",
+   "kaynak": "Hürriyet",
+   "baslik": "9 ilde büyük operasyon: 34 milyar liralık para hareketliliği ortaya çıkarıldı",
+   "ozet": "İçişleri Bakanlığı, jandarma ekiplerince 9 il merkezli düzenlenen \"Nitelikli Dolandırıcılık ve Yasa Dışı Bahis\" operasyonlarında, 34 milyar 760 milyon TL tutarında para hareketliliği belirlenen 123 şüpheli hakkında işlem yapıldığını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/9-ilde-buyuk-operasyon-34-milyar-liralik-para-hareketliligi-ortaya-cikarildi-43349251",
+   "zaman": "2026-10-21T09:39:29+03:00",
+   "kelimeler": [
+    "34",
+    "buyuk",
+    "cikar",
+    "harek",
+    "ilde",
+    "liral",
+    "milya",
+    "opera",
+    "ortay",
+    "para"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 09:42:52  5 yeni haber",
   "21.10 09:34:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 ölü",
   "21.10 09:31:06  7 yeni haber",
   "21.10 09:15:54  4 yeni haber",
@@ -26260,8 +26439,7 @@
   "19.10 08:46:08  1 yeni haber",
   "19.10 08:16:01  1 yeni haber",
   "19.10 08:01:22  1 yeni haber",
-  "19.10 07:46:05  1 yeni haber",
-  "19.10 07:16:01  6 yeni haber"
+  "19.10 07:46:05  1 yeni haber"
  ],
  "otomatik": false
 }
