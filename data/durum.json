@@ -341,27 +341,6 @@
     "AA"
    ]
   },
-  "157ec6fe0e7c": {
-   "id": "157ec6fe0e7c",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanı Duran, vefatının 7. yılında Nuri Pakdil'i andı",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Kudüs şairi\" olarak tanınan şair ve yazar Nuri Pakdil'i vefatının 7. yılında andı.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-vefatinin-7-yilinda-nuri-pakdili-andi/4092662",
-   "zaman": "2026-10-18T15:19:37+03:00",
-   "kelimeler": [
-    "andi",
-    "baska",
-    "duran",
-    "ileti",
-    "nuri",
-    "pakdi",
-    "vefat",
-    "yilin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5d6ab1942c79"
-  },
   "8a09657a45a5": {
    "id": "8a09657a45a5",
    "kaynak": "AA",
@@ -28967,7 +28946,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3912f9b2c6d0": {
    "id": "3912f9b2c6d0",
@@ -29384,9 +29366,95 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "3b9de7d31dc8"
+  },
+  "a0927295dc38": {
+   "id": "a0927295dc38",
+   "kaynak": "AA",
+   "baslik": "Yazar Ahmet Ümit, çevirmen ve yayıncılarıyla İstanbul'da bir araya geldi",
+   "ozet": "Yapı Kredi Kültür Sanat Yayıncılık ve Kalem Ajans işbirliğiyle düzenlenen \"İstanbul'dan Dünyaya: Ahmet Ümit'in Kelimelerle Yolculuğu\" başlıklı panel, Yapı Kredi Kültür Sanat binasında gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/yazar-ahmet-umit-cevirmen-ve-yayincilariyla-istanbulda-bir-araya-geldi/4095891",
+   "zaman": "2026-10-21T15:01:38+03:00",
+   "kelimeler": [
+    "ahmet",
+    "araya",
+    "cevir",
+    "geldi",
+    "istan",
+    "umit",
+    "yayin",
+    "yazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a2e26ae32846": {
+   "id": "a2e26ae32846",
+   "kaynak": "TRT Haber",
+   "baslik": "Filistin'e destek veren yazara İngiltere'de yasak",
+   "ozet": "Nobel ödüllü yazarların da aralarında bulunduğu 150'den fazla isim, Filistin yanlısı tutumu nedeniyle kitapları İngiltere'de satıştan kaldırılan İrlandalı yazar Sally Rooney'ye destek verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/filistine-destek-veren-yazara-ingilterede-yasak-960771.html",
+   "zaman": "2026-10-21T15:07:00+03:00",
+   "kelimeler": [
+    "deste",
+    "filis",
+    "ingil",
+    "veren",
+    "yasak",
+    "yazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3019ee1a54c3": {
+   "id": "3019ee1a54c3",
+   "kaynak": "AA",
+   "baslik": "MHP Genel Başkanı Bahçeli'den Türkiye-Libya deniz yetki muhtırasının onaylanmasına ilişkin açıklama",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Dün Trablusgarp'a ulaşmanın yollarını arayan Türkiye'den, bugün Akdeniz'de kendi hak ve hukukunu savunan, kendi rotasını belirleyen ve kendi geleceğine yön veren Türkiye'ye… \" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-turkiye-libya-deniz-yetki-muhtirasinin-onaylanmasina-iliskin-aciklama/4095910",
+   "zaman": "2026-10-21T15:12:13+03:00",
+   "kelimeler": [
+    "acikl",
+    "bahce",
+    "baska",
+    "den",
+    "deniz",
+    "genel",
+    "ilisk",
+    "libya",
+    "mhp",
+    "muhti",
+    "onayl",
+    "turki",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f326077c9815": {
+   "id": "f326077c9815",
+   "kaynak": "AA",
+   "baslik": "İçişleri Bakanı Çiftçi: 625 suç örgütüne 1741 operasyon yaptık",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"625 suç örgütüne, 1741 operasyon yaptık. 22'si uluslararası bağlantılı olan örgütler.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-625-suc-orgutune-1741-operasyon-yaptik/4095923",
+   "zaman": "2026-10-21T15:19:37+03:00",
+   "kelimeler": [
+    "1741",
+    "625",
+    "bakan",
+    "ciftc",
+    "icisl",
+    "opera",
+    "orgut",
+    "suc",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a016611031f0"
   }
  },
  "kayit": [
+  "21.10 15:25:41  3 yeni haber",
   "21.10 15:18:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · İYİ Parti'de kriz: Dervişoğlu istifaya çağırdı, Ahmet Eşref Fakıbaba n",
   "21.10 15:16:03  5 yeni haber",
   "21.10 15:01:22  7 yeni haber",
@@ -29585,8 +29653,7 @@
   "19.10 14:31:17  8 yeni haber",
   "19.10 14:19:01  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Millî mücadelenin tarihî mirası Nutuk sekiz dilde dünyaya ulaşacak",
   "19.10 14:15:59  6 yeni haber",
-  "19.10 14:01:25  9 yeni haber",
-  "19.10 13:45:59  4 yeni haber"
+  "19.10 14:01:25  9 yeni haber"
  ],
  "otomatik": false
 }
