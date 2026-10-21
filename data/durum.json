@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "b74bbc90b396": {
-   "id": "b74bbc90b396",
-   "kaynak": "TRT Haber",
-   "baslik": "Trabzon'daki silahlı saldırının şüphelileri İstanbul'da yakalandı",
-   "ozet": "Trabzon'da yaşanan silahlı saldırıyla ilişkili 2 şüpheli, İstanbul'da yakalandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/trabzondaki-silahli-saldirinin-suphelileri-istanbulda-yakalandi-960484.html",
-   "zaman": "2026-10-19T00:20:00+03:00",
-   "kelimeler": [
-    "daki",
-    "istan",
-    "saldi",
-    "silah",
-    "suphe",
-    "trabz",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2384a3aacd7c"
-  },
   "e7373f24a8c1": {
    "id": "e7373f24a8c1",
    "kaynak": "AA",
@@ -20270,7 +20250,8 @@
    "fb_id": null,
    "fb_reels_id": "2416173365791735",
    "slayt": 6,
-   "kanca": "DEVLER LİGİ'NDE GOL YAĞMURU"
+   "kanca": "DEVLER LİGİ'NDE GOL YAĞMURU",
+   "diger_kaynaklar": []
   },
   "d9ae2d0bab21": {
    "id": "d9ae2d0bab21",
@@ -21107,7 +21088,8 @@
     "yurt"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "ec9a0d424acd": {
    "id": "ec9a0d424acd",
@@ -32240,9 +32222,136 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "dbc2880fb176"
+  },
+  "328d2f0695c5": {
+   "id": "328d2f0695c5",
+   "kaynak": "AA",
+   "baslik": "UEFA Şampiyonlar Ligi'nin üçüncü haftası, oynanan 9 maçla tamamlandı",
+   "ozet": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, 9 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ucuncu-haftasi-oynanan-9-macla-tamamlandi/4096539",
+   "zaman": "2026-10-22T00:07:37+03:00",
+   "kelimeler": [
+    "hafta",
+    "ligi",
+    "macla",
+    "nin",
+    "oynan",
+    "sampi",
+    "tamam",
+    "ucunc",
+    "uefa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "46dd46e47ab2"
+  },
+  "471b9dd0f09a": {
+   "id": "471b9dd0f09a",
+   "kaynak": "AA",
+   "baslik": "Tesla'nın karı üçüncü çeyrekte azaldı",
+   "ozet": "Amerikan elektrikli otomobil üreticisi Tesla'nın net karı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/teslanin-kari-ucuncu-ceyrekte-azaldi/4096540",
+   "zaman": "2026-10-22T00:07:42+03:00",
+   "kelimeler": [
+    "azald",
+    "ceyre",
+    "kari",
+    "nin",
+    "tesla",
+    "ucunc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b5f9bd609f5": {
+   "id": "0b5f9bd609f5",
+   "kaynak": "TRT Haber",
+   "baslik": "Yurt içi piyasalarında gözler faiz kararında",
+   "ozet": "Piyasaların ve yatırımcıların odağında yer alan Türkiye Cumhuriyet Merkez Bankasının TCMB yılın yedinci faiz kararı bugün açıklanacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html",
+   "zaman": "2026-10-22T00:08:00+03:00",
+   "kelimeler": [
+    "faiz",
+    "gozle",
+    "ici",
+    "karar",
+    "piyas",
+    "yurt"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "dc6f13f5b7a6"
+  },
+  "f68f286bee7b": {
+   "id": "f68f286bee7b",
+   "kaynak": "AA",
+   "baslik": "Trump, İran'la savaşın \"yaptığı en iyi işlerden biri\" olduğunu savundu",
+   "ozet": "ABD Başkanı Donald Trump, İran'la savaşa girmesinin sebebinin Tahran'ın nükleer silaha sahip olmasını engellemek olduğunu kaydederek, bunun \"yaptığı en iyi işlerden biri\" olduğunu savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yaptigi-en-iyi-islerden-biri-oldugunu-savundu/4096546",
+   "zaman": "2026-10-22T00:23:32+03:00",
+   "kelimeler": [
+    "biri",
+    "iran",
+    "isler",
+    "iyi",
+    "la",
+    "oldug",
+    "savas",
+    "savun",
+    "trump",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b7bcbaad315f": {
+   "id": "b7bcbaad315f",
+   "kaynak": "AA",
+   "baslik": "IBM'in geliri üçüncü çeyrekte yüzde 5 arttı",
+   "ozet": "ABD merkezli teknoloji şirketi IBM'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yüzde 5 artarak 17,1 milyar dolara yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ibmin-geliri-ucuncu-ceyrekte-yuzde-5-artti/4096547",
+   "zaman": "2026-10-22T00:23:36+03:00",
+   "kelimeler": [
+    "artti",
+    "ceyre",
+    "gelir",
+    "ibm",
+    "in",
+    "ucunc",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "74105584d544"
+  },
+  "b635939188e5": {
+   "id": "b635939188e5",
+   "kaynak": "XHABER",
+   "baslik": "YENİ Parti Lideri Özgür Özel’den eylem ve sokak çağrısı:",
+   "ozet": "— “Gün evde oturma günü değildir. Gün klavye başında eleştirme, cep telefonundan paylaşım yapma günü değildir. — Gün meydanlara çıkma, sokaklara akma, mücadeleyi yükseltme günüdür.”",
+   "link": "https://t.me/sahinozkan000/30314",
+   "zaman": "2026-10-22T00:30:57+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "YENİ Parti Lideri Özgür Özel’den eylem ve sokak çağrısı:\n— “Gün evde oturma günü değildir. Gün klavye başında eleştirme, cep telefonundan paylaşım yapma günü değildir.\n— Gün meydanlara çıkma, sokaklara akma, mücadeleyi yükseltme günüdür.”",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/o-qc2b_xcVSlBdwsfjW2DfZ090a_jJmtLhX9ozHjJ7YYKw3dSBfL00Snr--VpOpNifxSjeAM22yM8niNky8NuIKcN7hmkYVe8jclM4m-fP1Hv8i4y12uBu5lfIaQknzX6BabVAurTqgNHW6YGFBNdVUMTHJraH_TAbiJzMiDYqGP0HfcRFgcyPMDnTGM5ngvMCUJ52JH2CpryvcBjbEnpjKHYCIT6G8gTqqzn9I93P-IEJM1aVM3_-7Q8V2gWwq1DAvF5E8pW3Rgc2P9ToqN6LEmPoBLwP6ns5TIP-TGsyeSX1knp0rLlj4ouAW_KRk4_OIfTJGYc6tyZE-ppozrQA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/01da9da66c.mp4?token=u1LZibGxy1-ozyOBtEA_qM49ofUE5XWM0zUy2Y4niZxDoA3htzjjdz33LyF_-1iv_ea_0FxSkte4gsl3a-3qsHTzVL7VNhFwHwbZz5pCWg1iqh-jLoUtKY6s0Z3TvTL0ozjn9QYHxOE4bThG9gTXje4Oxt0yQa4A1dtt2hPPXza8aeTnvcnq0HEpCCSrIo1l34HWLQHZi0b_lj-sKCya-tOl2y6cfoCIwZ9VFdLzqACucbrHhZ0haafqJVsH7dnsA5z9T4xi5yrYXB1SPxuL_yy-BtWdr35OoJoNMul4tfV3Q0O6QfFGccSEXfkY_n9VF7h0Go6Vk0Pu-hRkFjvAZg",
+   "kelimeler": [
+    "cagri",
+    "den",
+    "eylem",
+    "lider",
+    "ozel",
+    "ozgur",
+    "parti",
+    "sokak",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 00:31:03  3 yeni haber",
   "22.10 00:03:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaray Fransa'dan 3 puanla dönüyor",
   "22.10 00:01:28  1 yeni haber",
   "21.10 23:46:46  1 yeni haber",
@@ -32441,8 +32550,7 @@
   "19.10 23:46:07  2 yeni haber",
   "19.10 23:16:09  2 yeni haber",
   "19.10 23:01:32  5 yeni haber",
-  "19.10 23:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "19.10 22:46:05  2 yeni haber"
+  "19.10 23:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
  ],
  "otomatik": false
 }
