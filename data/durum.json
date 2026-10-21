@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "01f8494a94a5": {
-   "id": "01f8494a94a5",
-   "kaynak": "Hürriyet",
-   "baslik": "AK Partili Yayman, Hatay'da festivalde konuştu: Çiftçimizin, esnafımızın problemi bizim problemimizdir",
-   "ozet": "AK Parti Genel Başkan Yardımcısı Hüseyin Yayman, Hatay'da düzenlenen 10. Altınözü Zeytin, Zeytinyağı ve Gastronomi Festivali'nde yaptığı konuşmada, çiftçi ve esnafın sorunlarını adım adım çözeceklerini belirtti.",
-   "link": "https://www.hurriyet.com.tr/gundem/ak-partili-yayman-hatayda-festivalde-konustu-ciftcimizin-esnafimizin-problemi-bizim-problemimizdir-43346061",
-   "zaman": "2026-10-18T12:30:00+03:00",
-   "kelimeler": [
-    "ak",
-    "bizim",
-    "ciftc",
-    "esnaf",
-    "festi",
-    "hatay",
-    "konus",
-    "parti",
-    "probl",
-    "yayma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1b81367e8351": {
    "id": "1b81367e8351",
    "kaynak": "Hürriyet",
@@ -735,45 +713,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "22c237af4cf3": {
-   "id": "22c237af4cf3",
-   "kaynak": "TRT Haber",
-   "baslik": "YerköyKayseri YHT Hattı'nda ilerleme yüzde 50'yi aştı",
-   "ozet": "YerköyKayseri Yüksek Hızlı Tren YHT Projesi'ndeki fiziki ilerleme yüzde 50'yi aştı. Projenin tamamlanmasıyla AnkaraKayseri kesiminde demir yoluyla seyahat süresi 1 saat 45 dakikaya düşecek.",
-   "link": "https://www.trthaber.com/haber/turkiye/yerkoy-kayseri-yht-hattinda-ilerleme-yuzde-50yi-asti-960461.html",
-   "zaman": "2026-10-18T12:21:00+03:00",
-   "kelimeler": [
-    "50",
-    "asti",
-    "hatti",
-    "ilerl",
-    "nda",
-    "yerko",
-    "yht",
-    "yi",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f40e027a8898": {
-   "id": "f40e027a8898",
-   "kaynak": "TRT Haber",
-   "baslik": "Hindistan'da kamyon, kalabalığa daldı: 15 ölü",
-   "ozet": "Hindistan'ın Madya Pradeş eyaletinde, kamyonun tapınak yakınında toplanan kalabalığa çarpması sonucu 15 kişi hayatını kaybetti, 30'dan fazla kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/hindistanda-kamyon-kalabaliga-daldi-15-olu-960462.html",
-   "zaman": "2026-10-18T12:30:00+03:00",
-   "kelimeler": [
-    "15",
-    "daldi",
-    "hindi",
-    "kalab",
-    "kamyo",
-    "olu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "2e037b71643c": {
    "id": "2e037b71643c",
@@ -21882,7 +21821,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "NTV"
    ]
   },
   "663312d9f3b0": {
@@ -26196,7 +26136,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "120ad6adb8bd": {
    "id": "120ad6adb8bd",
@@ -27647,7 +27589,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "60437054c6c7": {
@@ -27927,9 +27870,213 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "e313dd7b3c0f": {
+   "id": "e313dd7b3c0f",
+   "kaynak": "TRT Haber",
+   "baslik": "Yarısı Bizden Kampanyası ile dönüşümü tamamlanan konut sayısı 123 bini aştı",
+   "ozet": "İstanbul'da kentsel dönüşümü hızlandırmak amacıyla hayata geçirilen \"Yarısı Bizden Kampanyası\" kapsamında dönüşümü tamamlanan bağımsız bölüm sayısı, 22 Eylül'den bu yana 5 bin 482 artarak 123 bin 396'ya yükseldi.",
+   "link": "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-ile-donusumu-tamamlanan-konut-sayisi-123-bini-asti-960747.html",
+   "zaman": "2026-10-21T12:01:00+03:00",
+   "kelimeler": [
+    "123",
+    "asti",
+    "bini",
+    "bizde",
+    "donus",
+    "kampa",
+    "konut",
+    "sayis",
+    "tamam",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "42fb0221b4b5": {
+   "id": "42fb0221b4b5",
+   "kaynak": "TRT Haber",
+   "baslik": "CHP kurultay ceza davasında mütalaa açıklandı",
+   "ozet": "Ankarada CHPnin 38inci Olağan Kurultayına ilişkin usulsüzlük iddialarıyla açılan davada, savcı mütalaasını açıkladı. Duruşma, 11 Kasıma ertelendi.",
+   "link": "https://www.trthaber.com/haber/gundem/chp-kurultay-ceza-davasinda-mutalaa-aciklandi-960748.html",
+   "zaman": "2026-10-21T12:08:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ceza",
+    "chp",
+    "davas",
+    "kurul",
+    "mutal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "82786289dc07"
+  },
+  "e29dc8f50533": {
+   "id": "e29dc8f50533",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya'dan ABD'ye dizel taşıyan ilk tankerin yarın yola çıkması planlanıyor",
+   "ozet": "Rusya Başbakan Yardımcısı Aleksandr Novak, ABD'ye dizel taşıyacak ilk tankerin yarın limandan hareket edeceğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusyadan-abdye-dizel-tasiyan-ilk-tankerin-yarin-yola-cikmasi-planlaniyor-960749.html",
+   "zaman": "2026-10-21T12:09:00+03:00",
+   "kelimeler": [
+    "abd",
+    "cikma",
+    "dan",
+    "dizel",
+    "ilk",
+    "planl",
+    "rusya",
+    "tanke",
+    "tasiy",
+    "yarin",
+    "ye",
+    "yola"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "29d1a21022d3": {
+   "id": "29d1a21022d3",
+   "kaynak": "AA",
+   "baslik": "Türkiye, Tanzanya'ya 100 yük vagonu ihraç edecek",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Üreteceğimiz vagonlarımızla, Tanzanya'nın demir yolu yük taşımacılığına katkı sağlayacağız.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-tanzanyaya-100-yuk-vagonu-ihrac-edecek-/4095520",
+   "zaman": "2026-10-21T12:10:51+03:00",
+   "kelimeler": [
+    "100",
+    "edece",
+    "ihrac",
+    "tanza",
+    "turki",
+    "vagon",
+    "ya",
+    "yuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f490e47227bb": {
+   "id": "f490e47227bb",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Fon soruşturmasında 26 gözaltı, Nusret Altınbaş hakkında yakalama kararı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında 31 kişi hakkında daha gözaltı kararı verildi. 26 kişi gözaltına alındı.",
+   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no",
+   "zaman": "2026-10-21T12:18:53+03:00",
+   "kelimeler": [
+    "26",
+    "altin",
+    "fon",
+    "gozal",
+    "hakki",
+    "karar",
+    "nusre",
+    "sorus",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f9024584fcc"
+  },
+  "5579b8d0e24d": {
+   "id": "5579b8d0e24d",
+   "kaynak": "AA",
+   "baslik": "Rusya'dan ABD'ye dizel taşıyan ilk tankerin yarın yola çıkması planlanıyor",
+   "ozet": "Rusya Başbakan Yardımcısı Aleksandr Novak, ABD'ye dizel taşıyacak ilk tankerin yarın limandan hareket edeceğini söyledi.​​​​​​​",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rusyadan-abdye-dizel-tasiyan-ilk-tankerin-yarin-yola-cikmasi-planlaniyor/4095540",
+   "zaman": "2026-10-21T12:21:12+03:00",
+   "kelimeler": [
+    "abd",
+    "cikma",
+    "dan",
+    "dizel",
+    "ilk",
+    "planl",
+    "rusya",
+    "tanke",
+    "tasiy",
+    "yarin",
+    "ye",
+    "yola"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e29dc8f50533"
+  },
+  "a56caa1d2d73": {
+   "id": "a56caa1d2d73",
+   "kaynak": "Hürriyet",
+   "baslik": "Yasa dışı üreme hücresi ticaretine operasyon: Gözaltı sayısı 44'e çıktı",
+   "ozet": "İstanbul merkezli 14 ilde başlatılan yasa dışı üreme hücresi ticareti soruşturmasında yeni yakalamalar yapıldı. Emniyetteki işlemleri süren 39 şüphelinin ardından 5 zanlının daha yakalanmasıyla gözaltındaki şüpheli sayısı 44'e ulaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yasa-disi-ureme-hucresi-ticaretine-operasyon-gozalti-sayisi-44e-cikti-43349592",
+   "zaman": "2026-10-21T12:22:19+03:00",
+   "kelimeler": [
+    "44",
+    "cikti",
+    "disi",
+    "gozal",
+    "hucre",
+    "opera",
+    "sayis",
+    "ticar",
+    "ureme",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d48587f3b4ac": {
+   "id": "d48587f3b4ac",
+   "kaynak": "NTV",
+   "baslik": "Özgür Özel'den Ursula von der Leyen'e tepki: Taraf tutmayın",
+   "ozet": "Yeni Parti Genel Başkanı Özgür Özel, Türkiye - Libya anlaşmasını eleştiren Avrupa Komisyonu Başkanı Ursula von der Leyen'e tepki gösterdi. Özel, \"Göreviniz gerilimi körüklemek değil.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/ozgur-ozelden-ursula-von-der-leyene-tepki-taraf-tutmayin-1747326",
+   "zaman": "2026-10-21T12:28:45+03:00",
+   "kelimeler": [
+    "den",
+    "der",
+    "leyen",
+    "ozel",
+    "ozgur",
+    "taraf",
+    "tepki",
+    "tutma",
+    "ursul",
+    "von"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "54a2253b1357": {
+   "id": "54a2253b1357",
+   "kaynak": "NTV",
+   "baslik": "Murat Kurum'dan Özgür Özel'e sel tepkisi: \"Yalan söyleyerek siyaset yapıyorlar\"",
+   "ozet": "Çevre Şehircilik ve İklim Bakanı Murat Kurum, sel felaketinin ardından eleştirilerde bulunan Yeni Parti Genel Başkanı Özgür Özel'e \"Yalan söyleyerek siyaset yapıyorlar.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/murat-kurumdan-ozgur-ozele-sel-tepkisi-yalan-soyleyerek-siyaset-yapiyorlar-1747328",
+   "zaman": "2026-10-21T12:28:59+03:00",
+   "kelimeler": [
+    "dan",
+    "kurum",
+    "murat",
+    "ozel",
+    "ozgur",
+    "sel",
+    "siyas",
+    "soyle",
+    "tepki",
+    "yalan",
+    "yapiy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2ae4c136594f"
   }
  },
  "kayit": [
+  "21.10 12:31:17  5 yeni haber",
   "21.10 12:16:24  11 yeni haber",
   "21.10 12:03:22  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AYM karar verdi... Yeni Parti’nin ismi değişmeyecek",
   "21.10 12:01:25  5 yeni haber",
@@ -28128,8 +28275,7 @@
   "19.10 11:31:12  11 yeni haber",
   "19.10 11:16:16  9 yeni haber",
   "19.10 11:01:25  5 yeni haber",
-  "19.10 10:45:52  1 yeni haber",
-  "19.10 10:31:15  7 yeni haber"
+  "19.10 10:45:52  1 yeni haber"
  ],
  "otomatik": false
 }
