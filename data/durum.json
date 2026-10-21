@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "34808ca53365": {
-   "id": "34808ca53365",
-   "kaynak": "NTV",
-   "baslik": "Fon Kurulu altıncı kez toplandı. Tasfiye sürecindeki fon sayısı 131'den 65'e düştü",
-   "ozet": "Fon Koordinasyon Kurulu, altıncı kez toplandı. Bugüne kadar 45 binin üzerinde kişiye toplam yaklaşık 40,8 milyar TL'lik tasfiye işleminin tamamlandığı belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-kurulu-altinci-kez-toplandi-tasfiye-surecindeki-fon-sayisi-131den-65e-dustu-1746900",
-   "zaman": "2026-10-18T18:57:24+03:00",
-   "kelimeler": [
-    "131",
-    "65",
-    "altin",
-    "den",
-    "dustu",
-    "fon",
-    "kez",
-    "kurul",
-    "sayis",
-    "surec",
-    "tasfi",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "821d9948b82c"
-  },
-  "1cb3c50c7db3": {
-   "id": "1cb3c50c7db3",
-   "kaynak": "Hürriyet",
-   "baslik": "Antalya'da kamyon ile cip çarpıştı; 1 turist öldü, 3 yaralı",
-   "ozet": "Antalya'nın Kumluca ilçesinde cip ile kamyonun kafa kafaya çarpıştığı kazada Çinli 4 turist yaralandı. Hastanede tedaviye alınan yaralılardan Feng You (55) kurtarılamadı.",
-   "link": "https://www.hurriyet.com.tr/gundem/antalyada-kamyon-ile-cip-carpisti-1-turist-oldu-3-yarali-43346465",
-   "zaman": "2026-10-18T18:52:43+03:00",
-   "kelimeler": [
-    "antal",
-    "carpi",
-    "cip",
-    "kamyo",
-    "turis",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "2a110e0b754b": {
    "id": "2a110e0b754b",
    "kaynak": "AA",
@@ -161,24 +118,6 @@
     "sanat",
     "suley",
     "tekca"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "83e133c5bc15": {
-   "id": "83e133c5bc15",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanlığı, Konya Kitap Günleri'nde",
-   "ozet": "Konya Büyükşehir Belediyesi tarafından bu yıl 13'üncüsü düzenlenen Konya Kitap Günleri'nde Cumhurbaşkanlığı İletişim Başkanlığı standı yoğun ilgi görüyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/iletisim-baskanligi-konya-kitap-gunlerinde/4092799",
-   "zaman": "2026-10-18T18:50:43+03:00",
-   "kelimeler": [
-    "baska",
-    "gunle",
-    "ileti",
-    "kitap",
-    "konya",
-    "nde"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -19230,7 +19169,8 @@
     "yuzde"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "7c4099706881": {
    "id": "7c4099706881",
@@ -30907,9 +30847,193 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "86b8864cd149": {
+   "id": "86b8864cd149",
+   "kaynak": "AA",
+   "baslik": "Yunanistan'da öğretmenler ve öğrencilerden eğitime daha fazla bütçe talebiyle eylem",
+   "ozet": "Yunanistan’da öğretmenler ve öğrenciler, eğitime ayrılan bütçenin artırılması talebiyle eylem düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-ogretmenler-ve-ogrencilerden-egitime-daha-fazla-butce-talebiyle-eylem/4096190",
+   "zaman": "2026-10-21T18:11:55+03:00",
+   "kelimeler": [
+    "butce",
+    "egiti",
+    "eylem",
+    "fazla",
+    "ogren",
+    "ogret",
+    "taleb",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f68a36f546da": {
+   "id": "f68a36f546da",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Azerbaycan Cumhurbaşkanı Aliyev ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-43350164",
+   "zaman": "2026-10-21T18:32:00+03:00",
+   "kelimeler": [
+    "aliye",
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "71ebad2c5a41": {
+   "id": "71ebad2c5a41",
+   "kaynak": "Hürriyet",
+   "baslik": "Park halindeki otomobile silahlı saldırı: 1 ölü",
+   "ozet": "KAĞITHANE’de park halindeki otomobile düzenlenen silahlı saldırıda araç içerisinde oturan Eser Aktaş (44), hayatını kaybetti. Aktaş'ın cenazesi olay yerindeki incelemelerin ardından hastane morguna kaldırıldı. Polis ekipleri kaçan şüpheliyi yakalamak için çalışma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/park-halindeki-otomobile-silahli-saldiri-1-olu-43350167",
+   "zaman": "2026-10-21T18:34:43+03:00",
+   "kelimeler": [
+    "halin",
+    "olu",
+    "otomo",
+    "park",
+    "saldi",
+    "silah"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0743cc7043d5": {
+   "id": "0743cc7043d5",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Uraloğlu, Ukrayna'nın Ankara Büyükelçisi Dzhelialov ile görüştü",
+   "ozet": "ULAŞTIRMA ve Altyapı Bakanı Abdulkadir Uraloğlu, Ukrayna’nın Ankara Büyükelçisi Naryman Dzhelialov ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-uraloglu-ukraynanin-ankara-buyukelcisi-dzhelialov-ile-gorustu-43350169",
+   "zaman": "2026-10-21T18:36:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "bakan",
+    "buyuk",
+    "dzhel",
+    "gorus",
+    "nin",
+    "ukray",
+    "uralo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "06a5f6400e46": {
+   "id": "06a5f6400e46",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Gürlek: Haksız kazançla mücadelemiz sürecek",
+   "ozet": "Adalet Bakanı Akın Gürlek, \"Sermaye piyasalarındaki manipülatif işlemlere ilişkin yürütülen soruşturmalar kapsamında bugüne kadar 404 kişi hakkında adli işlem yapılmış; 88 şüpheli tutuklanmış, 26 şüpheli gözaltına alınmış, 195 kişi hakkında adli kontrol tedbiri uygulanmıştır\"…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-haksiz-kazancla-mucadelemiz-surecek-960805.html",
+   "zaman": "2026-10-21T18:46:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "gurle",
+    "haksi",
+    "kazan",
+    "mucad",
+    "surec"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d0d76d95ae79": {
+   "id": "d0d76d95ae79",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da trafik yoğunluğu yüzde 83'e ulaştı",
+   "ozet": "İstanbul'da akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu oluştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-trafik-yogunlugu-yuzde-83e-ulasti/4096240",
+   "zaman": "2026-10-21T18:51:50+03:00",
+   "kelimeler": [
+    "83",
+    "istan",
+    "trafi",
+    "ulast",
+    "yogun",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "48225272ba0f"
+  },
+  "7a07cf972427": {
+   "id": "7a07cf972427",
+   "kaynak": "NTV",
+   "baslik": "Bakan Gürlek açıkladı: Fon soruşturmasında 404 kişi hakkında adli işlem yapıldı",
+   "ozet": "Adalet Bakanı Akın Gürlek, sermaye piyasalarında manipülatif işlemlere yönelik soruşturmalar kapsamında 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-haksiz-kazanclara-yonelik-mucadelemizi-kararlilikla-surdurecegiz-1747375",
+   "zaman": "2026-10-21T18:53:29+03:00",
+   "kelimeler": [
+    "404",
+    "adli",
+    "bakan",
+    "fon",
+    "gurle",
+    "hakki",
+    "islem",
+    "kisi",
+    "sorus",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "72564f88afe4": {
+   "id": "72564f88afe4",
+   "kaynak": "XHABER",
+   "baslik": "Cem Uzan, Lille karşılaşması öncesi Galatasaray taraftarları tarafından ilgiyle karşılandı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30310",
+   "zaman": "2026-10-21T18:57:19+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Cem Uzan, Lille karşılaşması öncesi Galatasaray taraftarları tarafından ilgiyle karşılandı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/gNh1FHY8WAHuKgaYDU6JyfBRPRke8Px2mbMImrK8ayEXdt9xoQdYskYDx269hbM4JhgulK2f-y0ZkExQMrU8K4WCCK3SYejFgwsLCd3CRMWzPLNCy_QgHBZ5Vzv6Y352jxCsScO4IjuR1uip7tCBXMH7Efar1v1lbae_tWVzdbb9Db5vsPY9AG5HQ5UrRYpQrwMdyAeZbDiI6U4xKxTlZhIk6Cz31pglT57FP81Vns9Ax2vejbJkEF55w4nR1F2JbqTVXuFtMZfj_o_SNmcXbK5_Un8yNeGj5uwi3XDWToCdOMK94j_cjjcX5oPNx2poaajQIoW013riUOGpjzFN-Q",
+   "tg_video_url": "",
+   "kelimeler": [
+    "cem",
+    "galat",
+    "ilgiy",
+    "karsi",
+    "lille",
+    "onces",
+    "taraf",
+    "uzan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7136d5941339": {
+   "id": "7136d5941339",
+   "kaynak": "AA",
+   "baslik": "Bangladeş'te yıl başından bu yana dang humması nedeniyle ölenlerin sayısı 364'e çıktı",
+   "ozet": "Bangladeş'te dang humması nedeniyle yılbaşından bu yana ülke genelinde hayatını kaybedenlerin sayısı 364’e yükseldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti/4096249",
+   "zaman": "2026-10-21T18:57:38+03:00",
+   "kelimeler": [
+    "364",
+    "bangl",
+    "basin",
+    "cikti",
+    "dang",
+    "humma",
+    "neden",
+    "olenl",
+    "sayis",
+    "te",
+    "yana",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 19:01:25  7 yeni haber",
   "21.10 18:46:07  2 yeni haber",
   "21.10 18:31:16  7 yeni haber",
   "21.10 18:16:00  5 yeni haber",
@@ -31108,8 +31232,7 @@
   "19.10 17:45:56  3 yeni haber",
   "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
   "19.10 17:31:12  7 yeni haber",
-  "19.10 17:16:08  1 yeni haber",
-  "19.10 17:01:38  1 yeni haber"
+  "19.10 17:16:08  1 yeni haber"
  ],
  "otomatik": false
 }
