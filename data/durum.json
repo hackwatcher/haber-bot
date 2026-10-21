@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "8978c44eab22": {
-   "id": "8978c44eab22",
-   "kaynak": "Hürriyet",
-   "baslik": "Halı silkelerken 8’inci kattan düşen kadın hayatını kaybetti",
-   "ozet": "BATMAN’da balkonda halı silkelerken dengesini kaybedip 8’inci kattan düşen Esra Işık (30), kaldırıldığı hastanede hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/hali-silkelerken-8inci-kattan-dusen-kadin-hayatini-kaybetti-43346567",
-   "zaman": "2026-10-18T21:40:39+03:00",
-   "kelimeler": [
-    "dusen",
-    "hali",
-    "hayat",
-    "inci",
-    "kadin",
-    "katta",
-    "kaybe",
-    "silke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "58d8e53f601b": {
    "id": "58d8e53f601b",
    "kaynak": "TRT Haber",
@@ -371,27 +351,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "fdf873918dbf": {
-   "id": "fdf873918dbf",
-   "kaynak": "AA",
-   "baslik": "Milano'da devam eden şiddet olaylarında 160 kişi gözaltına alındı",
-   "ozet": "İtalya’nın Milano kentinde dün hayat pahalılığı ve hükümet karşıtı protestolarda çıkan olayların ardından kent merkezi bugün de şiddet olaylarına sahne oldu.",
-   "link": "https://www.aa.com.tr/tr/dunya/milanoda-devam-eden-siddet-olaylarinda-160-kisi-gozaltina-alindi/4092878",
-   "zaman": "2026-10-18T21:39:34+03:00",
-   "kelimeler": [
-    "160",
-    "alind",
-    "devam",
-    "eden",
-    "gozal",
-    "kisi",
-    "milan",
-    "olayl",
-    "sidde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "23f61d2c047a": {
    "id": "23f61d2c047a",
@@ -30824,7 +30783,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "13d2e76ab81a": {
    "id": "13d2e76ab81a",
@@ -31600,7 +31562,10 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "1fdc6b21a451": {
    "id": "1fdc6b21a451",
@@ -31640,9 +31605,143 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c76896a5b705": {
+   "id": "c76896a5b705",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump, İran'da \"sembolik\" olarak hapishaneye atıldı",
+   "ozet": "ABD Başkanı Donald Trump, İran'ın başkenti Tahran’da \"sembolik\" olarak hapishaneye atıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranda-sembolik-olarak-hapishaneye-atildi-/4096270",
+   "zaman": "2026-10-21T19:10:49+03:00",
+   "kelimeler": [
+    "abd",
+    "atild",
+    "baska",
+    "hapis",
+    "iran",
+    "sembo",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d30390ddcbbf": {
+   "id": "d30390ddcbbf",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, Lille'i mağlup etti",
+   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nde Lille'i 4-2 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-lillei-maglup-etti/4096332",
+   "zaman": "2026-10-21T20:41:08+03:00",
+   "kelimeler": [
+    "etti",
+    "galat",
+    "lille",
+    "maglu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "1612e63d75b4": {
+   "id": "1612e63d75b4",
+   "kaynak": "Hürriyet",
+   "baslik": "Emir Sarıgül hakkında tutuklama talebi",
+   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturma kapsamında gözaltında bulunan Emir Sarıgül, adliyeye getirildi. Savcılık ifadesi tamamlanan Sarıgül, tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/emir-sarigul-hakkinda-tutuklama-talebi-43350291",
+   "zaman": "2026-10-21T21:21:57+03:00",
+   "kelimeler": [
+    "emir",
+    "hakki",
+    "sarig",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "002eac05f4eb"
+  },
+  "6f8edd44bc63": {
+   "id": "6f8edd44bc63",
+   "kaynak": "TRT Haber",
+   "baslik": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütüyor",
+   "ozet": "JP Morgan İstanbul Şubesi, Türkiye'deki bankacılık faaliyetlerini büyütme kararını KAP'a bildirdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutuyor-960817.html",
+   "zaman": "2026-10-21T21:25:00+03:00",
+   "kelimeler": [
+    "banka",
+    "buyut",
+    "deki",
+    "faali",
+    "jp",
+    "morga",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "822efdf3dd52": {
+   "id": "822efdf3dd52",
+   "kaynak": "NTV",
+   "baslik": "JP Morgan’dan açıklama: Türkiye’deki faaliyetlerimizi büyüteceğiz",
+   "ozet": "Dünyanın en büyük finans kuruluşlarından JP Morgan, Türkiye’de 11 yıldır aracı kurum faaliyeti yürütmüyordu. Banka, Türkiye’deki faaliyetlerini de büyüteceğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/jp-morgandan-aciklama-turkiyedeki-faaliyetlerimizi-buyutecegiz-1747384",
+   "zaman": "2026-10-21T21:34:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "buyut",
+    "dan",
+    "deki",
+    "faali",
+    "jp",
+    "morga",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "abbb553f3f62"
+  },
+  "9e648779c7b8": {
+   "id": "9e648779c7b8",
+   "kaynak": "TRT Haber",
+   "baslik": "Galatasaray Fransa'dan 3 puanla dönüyor",
+   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nde Lille'i 42 yendi.",
+   "link": "https://www.trthaber.com/haber/gundem/galatasaray-fransadan-3-puanla-donuyor-960818.html",
+   "zaman": "2026-10-21T21:37:00+03:00",
+   "kelimeler": [
+    "dan",
+    "donuy",
+    "frans",
+    "galat",
+    "puanl"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7c6c7e3eb2be": {
+   "id": "7c6c7e3eb2be",
+   "kaynak": "AA",
+   "baslik": "BM: Gazze'de süren İsrail saldırıları nedeniyle özellikle çocuklar \"ciddi risklerle\" karşı karşıya",
+   "ozet": "Birleşmiş Milletler (BM), Gazze'de İsrail'in devam eden ve sivil kayıplara yol açan saldırıları konusunda \"derin endişe\" duyduklarını belirterek, özellikle çocukların \"ciddi risklerle\" karşı karşıya olduğu uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-gazzede-suren-israil-saldirilari-nedeniyle-ozellikle-cocuklar-ciddi-risklerle-karsi-karsiya-/4096387",
+   "zaman": "2026-10-21T21:43:06+03:00",
+   "kelimeler": [
+    "bm",
+    "ciddi",
+    "cocuk",
+    "gazze",
+    "israi",
+    "karsi",
+    "neden",
+    "ozell",
+    "riskl",
+    "saldi",
+    "suren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 21:45:58  5 yeni haber",
   "21.10 21:31:15  2 yeni haber",
   "21.10 21:16:07  6 yeni haber",
   "21.10 21:01:28  2 yeni haber",
@@ -31841,8 +31940,7 @@
   "19.10 20:46:03  3 yeni haber",
   "19.10 20:16:16  5 yeni haber",
   "19.10 20:01:24  1 yeni haber",
-  "19.10 19:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Sözcü · Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
-  "19.10 19:46:05  1 yeni haber"
+  "19.10 19:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Sözcü · Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama"
  ],
  "otomatik": false
 }
