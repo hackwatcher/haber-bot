@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "2a110e0b754b": {
-   "id": "2a110e0b754b",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
-   "ozet": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye işlemlerinin yapıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
-   "zaman": "2026-10-18T19:06:53+03:00",
-   "kelimeler": [
-    "acikl",
-    "altin",
-    "baska",
-    "fon",
-    "ileti",
-    "ilisk",
-    "kurul",
-    "na",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "821d9948b82c"
-  },
-  "dbbcca676b10": {
-   "id": "dbbcca676b10",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Elon Musk'ın Cumhuriyetçilere yaptığı milyonlarca dolarlık bağış ne anlatıyor?",
-   "ozet": "Elon Musk, ABD’deki ara seçimler öncesinde Cumhuriyetçilere 200 milyon dolardan fazla bağış yaparken, desteğin özellikle şirketlerini taşıdığı Teksas’ta yoğunlaşması dikkat çekiyor",
-   "link": "https://www.bbc.com/turkce/articles/c620r7vg0e7wo",
-   "zaman": "2026-10-18T19:10:56+03:00",
-   "kelimeler": [
-    "anlat",
-    "bagis",
-    "cumhu",
-    "dolar",
-    "elon",
-    "in",
-    "milyo",
-    "musk",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e906070ca9a7": {
-   "id": "e906070ca9a7",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
-   "ozet": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye işlemlerinin yapıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
-   "zaman": "2026-10-18T19:06:53+03:00",
-   "kelimeler": [
-    "acikl",
-    "altin",
-    "baska",
-    "fon",
-    "ileti",
-    "ilisk",
-    "kurul",
-    "na",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "821d9948b82c"
-  },
   "9379a74f376c": {
    "id": "9379a74f376c",
    "kaynak": "AA",
@@ -13929,7 +13864,9 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "BBC Türkçe",
-    "NTV"
+    "NTV",
+    "AA",
+    "Hürriyet"
    ]
   },
   "0398926c0c3e": {
@@ -29625,7 +29562,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Sözcü",
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "13a04d86adfe": {
@@ -30537,7 +30475,10 @@
     "zorlu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ac9ed03805c7": {
    "id": "ac9ed03805c7",
@@ -31030,9 +30971,235 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0c19685b3cc5": {
+   "id": "0c19685b3cc5",
+   "kaynak": "TRT Haber",
+   "baslik": "Manifest'in kurucusu Tolga Akış'a 3 yıla kadar hapis istemi",
+   "ozet": "\"Müstehcen yayınların yayımlanmasına aracılık etmek\" suçundan yürütülen soruşturma kapsamında tutuklanan menajer Tolga Akış hakkında, 3 yıla kadar hapis istemiyle iddianame düzenlendi.",
+   "link": "https://www.trthaber.com/haber/gundem/manifestin-kurucusu-tolga-akisa-3-yila-kadar-hapis-istemi-960804.html",
+   "zaman": "2026-10-21T18:42:00+03:00",
+   "kelimeler": [
+    "akis",
+    "hapis",
+    "in",
+    "istem",
+    "kuruc",
+    "manif",
+    "tolga",
+    "yila"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f230898618d3"
+  },
+  "bc726ac8b596": {
+   "id": "bc726ac8b596",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk Dünyası'na uygun Özbek alfabesi yürürlüğe girdi",
+   "ozet": "AK Parti Genel Başkan Yardımcısı, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk Dünyası'na uygun Özbek alfabesinin Özbekistan Cumhurbaşkanı Şevket Mirziyoyev tarafından imzalanarak yürürlüğe girmesinden memnuniyet duyduklarını açıkladı.",
+   "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasina-uygun-ozbek-alfabesi-yururluge-girdi-960799.html",
+   "zaman": "2026-10-21T18:55:00+03:00",
+   "kelimeler": [
+    "alfab",
+    "dunya",
+    "girdi",
+    "na",
+    "ozbek",
+    "turk",
+    "uygun",
+    "yurur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cfab655d01ae"
+  },
+  "4bf955943735": {
+   "id": "4bf955943735",
+   "kaynak": "AA",
+   "baslik": "Libya Başkanlık Konseyi Başkan Yardımcısı: Türkiye-Libya muhtırasının onaylanması son derece yerinde bir adım",
+   "ozet": "Libya Başkanlık Konseyi Başkan Yardımcısı Musa el-Koni, Temsilciler Meclisinin (TM) Mutabakat Muhtırası'nı onaylamasının son derece yerinde ve zamanında atılmış bir adım olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/libya-baskanlik-konseyi-baskan-yardimcisi-turkiye-libya-muhtirasinin-onaylanmasi-son-derece-yerinde-bir-adim/4096245",
+   "zaman": "2026-10-21T18:55:40+03:00",
+   "kelimeler": [
+    "adim",
+    "baska",
+    "derec",
+    "konse",
+    "libya",
+    "muhti",
+    "onayl",
+    "turki",
+    "yardi",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e820cf0de84e": {
+   "id": "e820cf0de84e",
+   "kaynak": "AA",
+   "baslik": "Adalet Bakanı Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama",
+   "ozet": "Bakan Gürlek, sermaye piyasalarındaki manipülatif işlemlere dair soruşturmalarda 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını, 26 şüphelinin gözaltına alındığını ve 195 kişi için adli kontrol tedbiri uygulandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama/4096253",
+   "zaman": "2026-10-21T19:01:27+03:00",
+   "kelimeler": [
+    "acikl",
+    "adale",
+    "bakan",
+    "gurle",
+    "ilisk",
+    "islem",
+    "manip",
+    "piyas",
+    "serma",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5ee9b15ba707"
+  },
+  "a45d51676f5c": {
+   "id": "a45d51676f5c",
+   "kaynak": "AA",
+   "baslik": "Zonguldak'ta çöken binada 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı",
+   "ozet": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-icin-arama-calismasi-baslatildi/4096254",
+   "zaman": "2026-10-21T19:01:38+03:00",
+   "kelimeler": [
+    "arama",
+    "basla",
+    "binad",
+    "calis",
+    "coken",
+    "kisi",
+    "kurta",
+    "ta",
+    "zongu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "73be2dc08a8c": {
+   "id": "73be2dc08a8c",
+   "kaynak": "TRT Haber",
+   "baslik": "Zonguldak'ta bina çöktü: Enkazda kalan 2 kişiden 1i kurtarıldı",
+   "ozet": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-enkazda-kalan-2-kisiden-1i-kurtarildi-960806.html",
+   "zaman": "2026-10-21T19:03:00+03:00",
+   "kelimeler": [
+    "1i",
+    "bina",
+    "coktu",
+    "enkaz",
+    "kalan",
+    "kisid",
+    "kurta",
+    "ta",
+    "zongu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "846510af9d65": {
+   "id": "846510af9d65",
+   "kaynak": "Hürriyet",
+   "baslik": "Zonguldak'ta 3 katlı bina çöktü... 1 kişi kurtarıldı, 1 kişi ise kayıp",
+   "ozet": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/zonguldakta-3-katli-bina-coktu-1-kisi-kurtarildi-1-kisi-ise-kayip-43350196",
+   "zaman": "2026-10-21T19:04:41+03:00",
+   "kelimeler": [
+    "bina",
+    "coktu",
+    "ise",
+    "katli",
+    "kayip",
+    "kisi",
+    "kurta",
+    "ta",
+    "zongu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "86ed9fba1d02": {
+   "id": "86ed9fba1d02",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama: 404 kişi hakkında adli işlem yapıldı",
+   "ozet": "Adalet Bakanı Akın Gürlek, \"Sermaye piyasalarındaki manipülatif işlemlere ilişkin yürütülen soruşturmalar kapsamında bugüne kadar 404 kişi hakkında adli işlem yapılmış; 88 şüpheli tutuklanmış, 26 şüpheli gözaltına alınmış, 195 kişi hakkında adli kontrol tedbiri uygulanmıştır.\"…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama-404-kisi-hakkinda-adli-islem-yapildi-43350198",
+   "zaman": "2026-10-21T19:04:47+03:00",
+   "kelimeler": [
+    "404",
+    "acikl",
+    "adli",
+    "bakan",
+    "gurle",
+    "hakki",
+    "ilisk",
+    "islem",
+    "kisi",
+    "manip",
+    "piyas",
+    "serma",
+    "ten",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5ee9b15ba707"
+  },
+  "494ad7aa720a": {
+   "id": "494ad7aa720a",
+   "kaynak": "NTV",
+   "baslik": "Zonguldak'ta 3 katlı bina çöktü: Enkaz altındaki 1 kişiyi kurtarma çalışmaları sürüyor",
+   "ozet": "Zonguldak'ta 3 katlı bina çöktü. Enkazdan bir kişi yaralı kurtarılırken, bir kişiyi arama kurtarma çalışmaları sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/zonguldakta-3-katli-bina-coktu-enkaz-altindaki-1-kisiyi-kurtarma-calismalari-suruyor-1747377",
+   "zaman": "2026-10-21T19:07:11+03:00",
+   "kelimeler": [
+    "altin",
+    "bina",
+    "calis",
+    "coktu",
+    "enkaz",
+    "katli",
+    "kisiy",
+    "kurta",
+    "suruy",
+    "ta",
+    "zongu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "73be2dc08a8c"
+  },
+  "eaa2768ae22a": {
+   "id": "eaa2768ae22a",
+   "kaynak": "AA",
+   "baslik": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
+   "ozet": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen bombayı kullanabileceğini ancak bunun İran'ın nükleer sanayi faaliyetlerini durdurmayacağını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz/4096266",
+   "zaman": "2026-10-21T19:09:14+03:00",
+   "kelimeler": [
+    "anasi",
+    "bomba",
+    "devri",
+    "durdu",
+    "faali",
+    "iran",
+    "muhaf",
+    "nukle",
+    "sozcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 19:16:06  5 yeni haber",
   "21.10 19:01:25  7 yeni haber",
   "21.10 18:46:07  2 yeni haber",
   "21.10 18:31:16  7 yeni haber",
@@ -31231,8 +31398,7 @@
   "19.10 18:01:21  5 yeni haber",
   "19.10 17:45:56  3 yeni haber",
   "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
-  "19.10 17:31:12  7 yeni haber",
-  "19.10 17:16:08  1 yeni haber"
+  "19.10 17:31:12  7 yeni haber"
  ],
  "otomatik": false
 }
