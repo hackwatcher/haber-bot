@@ -21078,7 +21078,10 @@
     "suruc"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c25e3b3cb61c": {
    "id": "c25e3b3cb61c",
@@ -31878,7 +31881,10 @@
     "yakin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "e299fd75c3c5": {
    "id": "e299fd75c3c5",
@@ -32111,10 +32117,126 @@
     "topra"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "60af9b19d996": {
+   "id": "60af9b19d996",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail, Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
+   "ozet": "Soykırımcı İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal gerçekleştirdiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
+   "zaman": "2026-10-21T23:20:00+03:00",
+   "kelimeler": [
+    "12",
+    "23",
+    "bati",
+    "gerce",
+    "israi",
+    "saatt",
+    "saldi",
+    "seria",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2307d6638707"
+  },
+  "57a45ce60988": {
+   "id": "57a45ce60988",
+   "kaynak": "AA",
+   "baslik": "Axios: İsrail, pazartesi İran sınırına yakın noktalarda uçuş gerçekleştirdi",
+   "ozet": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/axios-israil-pazartesi-iran-sinirina-yakin-noktalarda-ucus-gerceklestirdi/4096495",
+   "zaman": "2026-10-21T23:35:27+03:00",
+   "kelimeler": [
+    "axios",
+    "gerce",
+    "iran",
+    "israi",
+    "nokta",
+    "pazar",
+    "sinir",
+    "ucus",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4a5fa2867495": {
+   "id": "4a5fa2867495",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, RusyaUkrayna Savaşı'nda çözüme hiç olmadığı kadar yakın olduklarını belirtti",
+   "ozet": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti-960826.html",
+   "zaman": "2026-10-21T23:36:00+03:00",
+   "kelimeler": [
+    "belir",
+    "cozum",
+    "hic",
+    "nda",
+    "olduk",
+    "olmad",
+    "rusya",
+    "savas",
+    "trump",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cd5068968744"
+  },
+  "c8435a8cd52d": {
+   "id": "c8435a8cd52d",
+   "kaynak": "Hürriyet",
+   "baslik": "Emniyet şeridinde park halindeki TIR’a çarpan motosikletin sürücüsü öldü",
+   "ozet": "Balıkesir'in Bandırma ilçesinde TIR'ın dorsesine arkadan çarpan motosikletin sürücüsü Emre Ö. (30) hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/emniyet-seridinde-park-halindeki-tira-carpan-motosikletin-surucusu-oldu-43350361",
+   "zaman": "2026-10-21T23:38:48+03:00",
+   "kelimeler": [
+    "carpa",
+    "emniy",
+    "halin",
+    "motos",
+    "park",
+    "serid",
+    "suruc",
+    "tir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e82934bfe721"
+  },
+  "efaad6ef21f0": {
+   "id": "efaad6ef21f0",
+   "kaynak": "AA",
+   "baslik": "İsrail'deki ankete göre Netanyahu bloğu 51 sandalyeye gerilerken Eisenkot'un bloğu 55'e ulaştı",
+   "ozet": "İsrail'de yapılan bir anket, Başbakan Binyamin Netanyahu liderliğindeki bloğun 2 sandalye kaybederek 51'e gerilediğini, Yashar Partisi lideri Gadi Eisenkot'un bloğunun ise 55 sandalyeye ulaştığını ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israildeki-ankete-gore-netanyahu-blogu-51-sandalyeye-gerilerken-eisenkotun-blogu-55e-ulasti/4096505",
+   "zaman": "2026-10-21T23:41:51+03:00",
+   "kelimeler": [
+    "51",
+    "55",
+    "anket",
+    "blogu",
+    "deki",
+    "eisen",
+    "geril",
+    "gore",
+    "israi",
+    "netan",
+    "sanda",
+    "ulast",
+    "un"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 23:46:00  2 yeni haber",
   "21.10 23:31:04  2 yeni haber",
   "21.10 23:01:25  5 yeni haber",
   "21.10 22:46:13  5 yeni haber",
@@ -32313,8 +32435,7 @@
   "19.10 22:46:05  2 yeni haber",
   "19.10 22:31:14  4 yeni haber",
   "19.10 22:16:05  3 yeni haber",
-  "19.10 22:01:19  1 yeni haber",
-  "19.10 21:46:02  2 yeni haber"
+  "19.10 22:01:19  1 yeni haber"
  ],
  "otomatik": false
 }
