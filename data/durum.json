@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "54fd02a1a09a": {
-   "id": "54fd02a1a09a",
-   "kaynak": "Hürriyet",
-   "baslik": "Diyarbakır’da lezzetin sırrı sumak ekşisinde! Meftuneden duvaklı pilava 48 lezzet noktasıyla gastronomi rotası",
-   "ozet": "Diyarbakır lezzetleri denince akla ilk olarak ciğer ve burma kadayıf geliyor ama kentin mutfak hazinesi bunlarla sınırlı değil.",
-   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-lezzetin-sirri-sumak-eksisinde-meftuneden-duvakli-pilava-48-lezzet-noktasiyla-gastronomi-rotasi-43345973",
-   "zaman": "2026-10-18T11:23:09+03:00",
-   "kelimeler": [
-    "48",
-    "diyar",
-    "duvak",
-    "eksis",
-    "gastr",
-    "lezze",
-    "meftu",
-    "nokta",
-    "pilav",
-    "rotas",
-    "sirri",
-    "sumak"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-18T11:33:29.285325+03:00",
-   "ig_id": "18112110155593428",
-   "reels_id": "17983219548107865",
-   "story_id": null,
-   "yorum_id": "hata: (#10) Application does not have permission for this action  (kod 10/-)",
-   "fb_id": "1276642895542042_122103845907472027",
-   "fb_reels_id": "1405468065120932",
-   "slayt": 6,
-   "kanca": "SUMAK EKŞİSİ SIRRI"
-  },
-  "b40b6efd1aea": {
-   "id": "b40b6efd1aea",
-   "kaynak": "Hürriyet",
-   "baslik": "Sanatçı Süleyman Saim Tekcan 86 yaşında vefat etti",
-   "ozet": "2022'de Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü'ne layık görülen ressam, sinema oyuncusu ve baskı sanatçısı Süleyman Saim Tekcan, 86 yaşında hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/sanatci-suleyman-saim-tekcan-86-yasinda-vefat-etti-43345980",
-   "zaman": "2026-10-18T11:28:25+03:00",
-   "kelimeler": [
-    "86",
-    "etti",
-    "saim",
-    "sanat",
-    "suley",
-    "tekca",
-    "vefat",
-    "yasin"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-18T12:34:09.762960+03:00",
-   "ig_id": "18104671439002307",
-   "reels_id": "18113378660158312",
-   "story_id": null,
-   "yorum_id": "hata: (#10) Application does not have permission for this action  (kod 10/-)",
-   "fb_id": "1276642895542042_122103878925472027",
-   "fb_reels_id": "2492139204642103",
-   "slayt": 6,
-   "kanca": "SANAT DÜNYASI YASTA",
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "7599d6e645a5": {
    "id": "7599d6e645a5",
    "kaynak": "Hürriyet",
@@ -27112,7 +27047,11 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV",
+    "TRT Haber"
+   ]
   },
   "be4ebea24964": {
    "id": "be4ebea24964",
@@ -27184,9 +27123,247 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "be6fb9600f60": {
+   "id": "be6fb9600f60",
+   "kaynak": "AA",
+   "baslik": "Uydu vericisiyle izlenen şahin 5 ayda kıtalar arası 6 bin kilometre kanat çırptı",
+   "ozet": "Iğdır'dan uydu vericisiyle takibe alınan \"Ender\" isimli şahin, yaklaşık 5 ayda Asya'dan Afrika'ya 6 bin kilometre kanat çırptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/uydu-vericisiyle-izlenen-sahin-5-ayda-kitalar-arasi-6-bin-kilometre-kanat-cirpti/4095397",
+   "zaman": "2026-10-21T11:01:38+03:00",
+   "kelimeler": [
+    "arasi",
+    "ayda",
+    "bin",
+    "cirpt",
+    "izlen",
+    "kanat",
+    "kilom",
+    "kital",
+    "sahin",
+    "uydu",
+    "veric"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bc745999a4a2": {
+   "id": "bc745999a4a2",
+   "kaynak": "TRT Haber",
+   "baslik": "Hızlı tren hat uzunluğu 2029'da 5 bin 389 kilometreye çıkarılacak",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, hızlı tren hat uzunluğunun 2027'de 3 bin 244 kilometreye, 2028'de 4 bin 98 kilometreye ve 2029'da 5 bin 389 kilometreye ulaştırılmasının hedeflendiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/hizli-tren-hat-uzunlugu-2029da-5-bin-389-kilometreye-cikarilacak-960736.html",
+   "zaman": "2026-10-21T11:04:00+03:00",
+   "kelimeler": [
+    "2029",
+    "389",
+    "bin",
+    "cikar",
+    "hat",
+    "hizli",
+    "kilom",
+    "tren",
+    "uzunl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "61ef9e4560e1": {
+   "id": "61ef9e4560e1",
+   "kaynak": "AA",
+   "baslik": "Afrika'da insan hakları şartının 40. yılında savaş, darbe ve ihlaller sürüyor",
+   "ozet": "Afrika'da insan hakları sisteminin oluşturulmasının üzerinden 40 yıl geçmesine rağmen kıtada milyonlarca insan hala savaş, zorla yerinden edilme, öldürme, işkence, cinsel şiddet ve siyasi baskılarla karşı karşıya kalıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/afrikada-insan-haklari-sartinin-40-yilinda-savas-darbe-ve-ihlaller-suruyor/4095402",
+   "zaman": "2026-10-21T11:04:10+03:00",
+   "kelimeler": [
+    "40",
+    "afrik",
+    "darbe",
+    "hakla",
+    "ihlal",
+    "insan",
+    "sarti",
+    "savas",
+    "suruy",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b1283f6490f7": {
+   "id": "b1283f6490f7",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Sat, açık artırmaya çıkar\" dediler, müzeye verdi: Çöpte bulunan 1915 damgalı sedye tescillendi",
+   "ozet": "Antalya'da çöplerin arasında bulunan ve üzerinde Birinci Dünya Savaşı dönemine ait izler taşıyan askeri sedye, yetkililerce incelenip orijinal olduğu doğrulanarak Çanakkale'deki yerini aldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sat-acik-artirmaya-cikar-dediler-muzeye-verdi-copte-bulunan-1915-damgali-sedye-tescillendi-43349435",
+   "zaman": "2026-10-21T11:09:11+03:00",
+   "kelimeler": [
+    "1915",
+    "acik",
+    "artir",
+    "bulun",
+    "cikar",
+    "copte",
+    "damga",
+    "dedil",
+    "muzey",
+    "sat",
+    "sedye",
+    "tesci",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d812a2488ec7": {
+   "id": "d812a2488ec7",
+   "kaynak": "AA",
+   "baslik": "6 Şubat depremlerini atlatan 11 ilin toplam ihracatı 15,6 milyar doları aştı",
+   "ozet": "Kahramanmaraş merkezli 6 Şubat 2023'teki depremlerin yıkıma neden olduğu 11 kentin ocak-eylül döneminde yaptığı toplam ihracat, geçen yılın aynı dönemine kıyasla yüzde 10 artarak 15 milyar 633 milyon 220 bin 410 dolara ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/6-subat-depremlerini-atlatan-11-ilin-toplam-ihracati-15-6-milyar-dolari-asti/4095423",
+   "zaman": "2026-10-21T11:12:59+03:00",
+   "kelimeler": [
+    "11",
+    "15",
+    "asti",
+    "atlat",
+    "depre",
+    "dolar",
+    "ihrac",
+    "ilin",
+    "milya",
+    "subat",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b324eacd3760": {
+   "id": "b324eacd3760",
+   "kaynak": "NTV",
+   "baslik": "Anayasa Mahkemesi'nin yeni başkanı kim olacak? Seçim süreci yarın başlıyor",
+   "ozet": "Anayasa Mahkemesi (AYM) Başkanı Kadir Özkaya'nın görev süresinin 22 Aralık'ta dolacak olması nedeniyle, başkanlık seçimi için süreç yarın başlıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/anayasa-mahkemesinin-yeni-baskani-kim-olacak-secim-sureci-yarin-basliyor-1747310",
+   "zaman": "2026-10-21T11:16:12+03:00",
+   "kelimeler": [
+    "anaya",
+    "baska",
+    "basli",
+    "kim",
+    "mahke",
+    "nin",
+    "olaca",
+    "secim",
+    "surec",
+    "yarin",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "57360768b22f"
+  },
+  "264fae693b98": {
+   "id": "264fae693b98",
+   "kaynak": "AA",
+   "baslik": "ABD'nin 1 trilyon doları aşan faiz faturası bütçeyi zorluyor",
+   "ozet": "ABD'de federal hükümetin ulusal borcu için ödediği net faiz tutarı, 30 Eylül'de sona eren 2026 mali yılında 1 trilyon doları aşarak bütçe üzerindeki yükü ağırlaştırıyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-1-trilyon-dolari-asan-faiz-faturasi-butceyi-zorluyor/4095434",
+   "zaman": "2026-10-21T11:20:03+03:00",
+   "kelimeler": [
+    "abd",
+    "asan",
+    "butce",
+    "dolar",
+    "faiz",
+    "fatur",
+    "nin",
+    "trily",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9cdc9cdb71f2": {
+   "id": "9cdc9cdb71f2",
+   "kaynak": "TRT Haber",
+   "baslik": "Anayasa Mahkemesi Başkanlığı için seçim süreci başlıyor",
+   "ozet": "Anayasa Mahkemesi AYM Başkanı Kadir Özkaya'nın görev süresinin 22 Aralık'ta dolacak olması nedeniyle, yeni başkanın belirlenmesine yönelik seçim süreci yarın başlayacak. Özkaya, görev süresinin dolması nedeniyle aday olamayacak ancak oy kullanabilecek.",
+   "link": "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basliyor-960739.html",
+   "zaman": "2026-10-21T11:21:00+03:00",
+   "kelimeler": [
+    "anaya",
+    "baska",
+    "basli",
+    "mahke",
+    "secim",
+    "surec"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "57360768b22f"
+  },
+  "e89a57e98fcd": {
+   "id": "e89a57e98fcd",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin coğrafi işaretli ürünleri Paris'te vitrine çıktı",
+   "ozet": "Türk Patent ve Marka Kurumu (TÜRKPATENT) Başkanı Muhammed Zeki Durak, uluslararası gıda fuarı \"SIAL Paris 2026\"da Türkiye'nin coğrafi işaretli ürünlerini ziyaretçilerle buluşturduklarını belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-cografi-isaretli-urunleri-pariste-vitrine-cikti/4095438",
+   "zaman": "2026-10-21T11:22:07+03:00",
+   "kelimeler": [
+    "cikti",
+    "cogra",
+    "isare",
+    "nin",
+    "paris",
+    "te",
+    "turki",
+    "urunl",
+    "vitri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd0a29668300": {
+   "id": "bd0a29668300",
+   "kaynak": "Hürriyet",
+   "baslik": "AYM karar verdi... Yeni Parti’nin ismi değişmeyecek",
+   "ozet": "Son dakika... Yeni Parti’nin ismi değişmeyecek! Anayasa Mahkemesi Yenilik Partisi’nin itirazını reddetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/aym-karar-verdi-yeni-partinin-ismi-degismeyecek-43349487",
+   "zaman": "2026-10-21T11:22:19+03:00",
+   "kelimeler": [
+    "aym",
+    "degis",
+    "ismi",
+    "karar",
+    "nin",
+    "parti",
+    "verdi",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "dcb8c2ff0141": {
+   "id": "dcb8c2ff0141",
+   "kaynak": "AA",
+   "baslik": "Türkiye telecerrahiyle ülkeler arası ameliyatlara hazırlanıyor",
+   "ozet": "Üroloji uzmanı Prof. Dr. Murat Binbay, robotik sistemler aracılığıyla uzaktan ameliyata olanak tanıyan telecerrahinin dünyada uygulanmaya başlandığını, Türkiye'de de hayata geçirilmesine yönelik mevzuat hazırlıklarının sürdüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-telecerrahiyle-ulkeler-arasi-ameliyatlara-hazirlaniyor/4095443",
+   "zaman": "2026-10-21T11:25:45+03:00",
+   "kelimeler": [
+    "ameli",
+    "arasi",
+    "hazir",
+    "telec",
+    "turki",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 11:31:17  9 yeni haber",
   "21.10 11:16:11  13 yeni haber",
   "21.10 11:01:29  7 yeni haber",
   "21.10 10:48:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trump, veri merkezlerine kendi elektriklerini üretmeleri ve yerel halk",
@@ -27385,8 +27562,7 @@
   "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu",
   "19.10 10:15:56  6 yeni haber",
   "19.10 10:01:19  3 yeni haber",
-  "19.10 09:45:54  6 yeni haber",
-  "19.10 09:31:10  5 yeni haber"
+  "19.10 09:45:54  6 yeni haber"
  ],
  "otomatik": false
 }
