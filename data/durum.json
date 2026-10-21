@@ -1,40 +1,5 @@
 {
  "haberler": {
-  "3da4d75c2195": {
-   "id": "3da4d75c2195",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da FETÖ operasyonu: Zaman gazetesinin eski çalışanı ve 2 firari FETÖ'cü tutuklandı",
-   "ozet": "İstanbul Emniyet Müdürlüğü ekiplerinin düzenlediği eş zamanlı operasyonlarda, aralarında kapatılan Zaman gazetesinin eski çalışanlarından 10 yıldır firari olan Mehmet Yılmaz'ın da bulunduğu FETÖ üyesi 3 şüpheli yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-feto-operasyonu-zaman-gazetesinin-eski-calisani-ve-2-firari-fetocu-tutuklandi-43345898",
-   "zaman": "2026-10-18T10:26:08+03:00",
-   "kelimeler": [
-    "calis",
-    "cu",
-    "eski",
-    "feto",
-    "firar",
-    "gazet",
-    "istan",
-    "opera",
-    "tutuk",
-    "zaman"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-18T10:33:57.906619+03:00",
-   "ig_id": "17913130440515158",
-   "reels_id": "18193644706394023",
-   "story_id": null,
-   "yorum_id": "hata: (#10) Application does not have permission for this action  (kod 10/-)",
-   "fb_id": "1276642895542042_122103818385472027",
-   "fb_reels_id": "1122233986890794",
-   "slayt": 6,
-   "kanca": "10 YILLIK FİRAR SONU",
-   "diger_kaynaklar": [
-    "NTV",
-    "TRT Haber"
-   ]
-  },
   "eb65be2ed35a": {
    "id": "eb65be2ed35a",
    "kaynak": "Hürriyet",
@@ -26499,7 +26464,10 @@
     "ticar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bcd04374295e": {
    "id": "bcd04374295e",
@@ -26522,7 +26490,10 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "885a86db3c27": {
    "id": "885a86db3c27",
@@ -26591,9 +26562,240 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2a4d6bdc4bda": {
+   "id": "2a4d6bdc4bda",
+   "kaynak": "TRT Haber",
+   "baslik": "Rizede mandalina çeşidi 9a çıktı, Antalyaya gönderildi",
+   "ozet": "Rizede yetiştirilen mandalinalar üzerinde 10 yıl süren çalışmalar sonucunda 9 yeni tescilli tür ortaya çıkarıldı. Hasat ve yetişme süresi uzatılan mandalinalar, Antalyaya uyum sağlarsa, Akdeniz Bölgesinde Rize Mandalinası yetiştirilecek.",
+   "link": "https://www.trthaber.com/haber/yasam/rizede-mandalina-cesidi-9a-cikti-antalyaya-gonderildi-960718.html",
+   "zaman": "2026-10-21T09:28:00+03:00",
+   "kelimeler": [
+    "9a",
+    "antal",
+    "cesid",
+    "cikti",
+    "gonde",
+    "manda",
+    "rized"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "acd5509bedc6": {
+   "id": "acd5509bedc6",
+   "kaynak": "TRT Haber",
+   "baslik": "Emisyon Ticaret Sistemi'nin işleyiş kuralları belirlendi",
+   "ozet": "Türkiye'de net sıfır hedefine uygun sera gazı emisyonlarının piyasa temelli bir mekanizmayla azaltımını teşvik etmek amacıyla kurulacak piyasaların işletilmesine yönelik kurallar netleştirildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/emisyon-ticaret-sisteminin-isleyis-kurallari-belirlendi-960726.html",
+   "zaman": "2026-10-21T10:03:00+03:00",
+   "kelimeler": [
+    "belir",
+    "emisy",
+    "isley",
+    "kural",
+    "nin",
+    "siste",
+    "ticar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c910f3532da3"
+  },
+  "bc9373815cad": {
+   "id": "bc9373815cad",
+   "kaynak": "TRT Haber",
+   "baslik": "OpenAIın yapay zekaları kendi güvenlik denetimini devre dışı bıraktı",
+   "ozet": "ABD'li yapay zeka şirketi OpenAI, GPT6.1 Sol ve GPT6 Astra modellerinin şirket içindeki yazılım görevleri sırasında yapay zeka sistemlerindeki uyumsuzlukları tespit eden izleme mekanizmalarını devre dışı bıraktığını ve güvenlik uyarılarını engellediğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/openaiin-yapay-zekalari-kendi-guvenlik-denetimini-devre-disi-birakti-960728.html",
+   "zaman": "2026-10-21T10:09:00+03:00",
+   "kelimeler": [
+    "birak",
+    "denet",
+    "devre",
+    "disi",
+    "guven",
+    "kendi",
+    "opena",
+    "yapay",
+    "zekal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bcd04374295e"
+  },
+  "624dfe21474f": {
+   "id": "624dfe21474f",
+   "kaynak": "AA",
+   "baslik": "Fransız Parlamentosu \"Kara Kanun\"un yürürlükten kaldırılmasını onayladı",
+   "ozet": "Fransız parlamentosu, ülkede köleliğe ilişkin düzenlemeler içeren \"Kara Kanun\"un yürürlükten kaldırılmasına yönelik yasa tasarısını onayladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransiz-parlamentosu-kara-kanunun-yururlukten-kaldirilmasini-onayladi/4095316",
+   "zaman": "2026-10-21T10:11:41+03:00",
+   "kelimeler": [
+    "frans",
+    "kaldi",
+    "kanun",
+    "kara",
+    "onayl",
+    "parla",
+    "un",
+    "yurur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "918045a1e24d": {
+   "id": "918045a1e24d",
+   "kaynak": "Hürriyet",
+   "baslik": "Kaçakçılara sınırda şafak baskını! Sikkeler, ok uçları ve yüzükler ele geçirildi",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Edirne’deki İpsala ve Kapıkule gümrük kapılarında gerçekleştirilen operasyonlarla kültür varlıklarının yurt dışına kaçırılmasının önlenmesinin ardından Ticaret Bakanı Ömer Bolat ve Gümrük Muhafaza ekiplerine teşekkür etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/kacakcilara-sinirda-safak-baskini-sikkeler-ok-uclari-ve-yuzukler-ele-gecirildi-43349324",
+   "zaman": "2026-10-21T10:13:00+03:00",
+   "kelimeler": [
+    "baski",
+    "ele",
+    "gecir",
+    "kacak",
+    "ok",
+    "safak",
+    "sikke",
+    "sinir",
+    "uclar",
+    "yuzuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9639efd04a15": {
+   "id": "9639efd04a15",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti MKYK'da kritik sunum: Belediyeler için 5 başlıklı reform paketi Meclis yolunda",
+   "ozet": "AK Parti Yerel Yönetimler Başkanı Mustafa Demir'in MKYK toplantısında yaptığı sunumla detayları netleşen yerel yönetimler reformunda son viraja girildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-mkykda-kritik-sunum-belediyeler-icin-5-baslikli-reform-paketi-meclis-yolunda-43349334",
+   "zaman": "2026-10-21T10:16:29+03:00",
+   "kelimeler": [
+    "ak",
+    "basli",
+    "beled",
+    "kriti",
+    "mecli",
+    "mkyk",
+    "paket",
+    "parti",
+    "refor",
+    "sunum",
+    "yolun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "305b09c9b0a6"
+  },
+  "b8642b0559fc": {
+   "id": "b8642b0559fc",
+   "kaynak": "AA",
+   "baslik": "Getty Images, ABD'de iflas başvurusunda bulundu",
+   "ozet": "Dünyanın önde gelen görsel içerik şirketlerinden Getty Images, borçlarını yeniden yapılandırmak ve mali durumunu güçlendirmek amacıyla ABD'de iflas başvurusunda bulundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/getty-images-abdde-iflas-basvurusunda-bulundu/4095319",
+   "zaman": "2026-10-21T10:16:51+03:00",
+   "kelimeler": [
+    "abd",
+    "basvu",
+    "bulun",
+    "getty",
+    "iflas",
+    "image"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "31d2c803d142": {
+   "id": "31d2c803d142",
+   "kaynak": "AA",
+   "baslik": "NBA'de Oklahoma City Thunder, sezona San Antonio Spurs galibiyetiyle başladı",
+   "ozet": "Spurs'ü 116-104 yenen Thunder'da Shai Gilgeous-Alexander, 32 sayı, 6 ribaunt, 4 asistle takımını galibiyete taşıdı.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-oklahoma-city-thunder-sezona-san-antonio-spurs-galibiyetiyle-basladi/4095324",
+   "zaman": "2026-10-21T10:20:08+03:00",
+   "kelimeler": [
+    "anton",
+    "basla",
+    "city",
+    "galib",
+    "nba",
+    "oklah",
+    "san",
+    "sezon",
+    "spurs",
+    "thund"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e53534457746": {
+   "id": "e53534457746",
+   "kaynak": "Hürriyet",
+   "baslik": "Kara para aklama soruşturması: Emir Sarıgül adliyeye sevk edildi",
+   "ozet": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül adliyeye sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-adliyeye-sevk-edildi-43349335",
+   "zaman": "2026-10-21T10:20:37+03:00",
+   "kelimeler": [
+    "adliy",
+    "aklam",
+    "edild",
+    "emir",
+    "kara",
+    "para",
+    "sarig",
+    "sevk",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e2fbc98be167": {
+   "id": "e2fbc98be167",
+   "kaynak": "AA",
+   "baslik": "AK Parti'nin yerel yönetimlere yönelik reform çalışmasında sona gelindi",
+   "ozet": "AK Parti, yerel yönetimler reform çalışmasına son şeklini vererek, en kısa sürede TBMM'ye sunmayı planlıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-partinin-yerel-yonetimlere-yonelik-reform-calismasinda-sona-gelindi-/4095339",
+   "zaman": "2026-10-21T10:26:57+03:00",
+   "kelimeler": [
+    "ak",
+    "calis",
+    "gelin",
+    "nin",
+    "parti",
+    "refor",
+    "sona",
+    "yerel",
+    "yonel",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c54689517712": {
+   "id": "c54689517712",
+   "kaynak": "AA",
+   "baslik": "MEB'in \"Aile Eğitim Bülteni\" ekim sayısı yayımlandı",
+   "ozet": "Milli Eğitim Bakanlığınca okul öncesi eğitim kademesindeki çocukların ailelerine yönelik katılım süreçlerinin desteklenmesi amacıyla hazırlanan Aile Eğitim Bülteni'nin ekim sayısı \"Maarif Yolculuğunda Okul Öncesi Eğitim\" temasıyla erişime açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mebin-aile-egitim-bulteni-ekim-sayisi-yayimlandi/4095340",
+   "zaman": "2026-10-21T10:28:01+03:00",
+   "kelimeler": [
+    "aile",
+    "bulte",
+    "egiti",
+    "ekim",
+    "in",
+    "meb",
+    "sayis",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 10:31:13  8 yeni haber",
   "21.10 10:15:58  6 yeni haber",
   "21.10 10:01:28  8 yeni haber",
   "21.10 09:42:52  5 yeni haber",
@@ -26792,8 +26994,7 @@
   "19.10 09:16:01  3 yeni haber",
   "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
   "19.10 09:01:20  4 yeni haber",
-  "19.10 08:46:08  1 yeni haber",
-  "19.10 08:16:01  1 yeni haber"
+  "19.10 08:46:08  1 yeni haber"
  ],
  "otomatik": false
 }
