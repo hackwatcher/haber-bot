@@ -1,43 +1,5 @@
 {
  "haberler": {
-  "9379a74f376c": {
-   "id": "9379a74f376c",
-   "kaynak": "AA",
-   "baslik": "İtalya'da dünkü olaylı protestoların bilançosu ağır oldu",
-   "ozet": "İtalya'da dün hayat pahalılığı ve hükümet karşıtı protesto gösterilerinde çıkan şiddet olaylarında, 28 kişinin gözaltına alındığı, 161 kişinin yaralandığı ve 1 milyon avro civarında maddi hasar oluştuğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/italyada-dunku-olayli-protestolarin-bilancosu-agir-oldu/4092819",
-   "zaman": "2026-10-18T19:23:42+03:00",
-   "kelimeler": [
-    "agir",
-    "bilan",
-    "dunku",
-    "italy",
-    "olayl",
-    "prote"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2ec207cea673": {
-   "id": "2ec207cea673",
-   "kaynak": "AA",
-   "baslik": "Yunanistan'ın Rodop ilinde ormanlık alanda yangın çıktı",
-   "ozet": "",
-   "link": "https://www.aa.com.tr/tr/dunya/yunanistanin-rodop-ilinde-ormanlik-alanda-yangin-cikti/4092816",
-   "zaman": "2026-10-18T19:20:23+03:00",
-   "kelimeler": [
-    "aland",
-    "cikti",
-    "ilind",
-    "in",
-    "orman",
-    "rodop",
-    "yangi",
-    "yunan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "475ddb85597a": {
    "id": "475ddb85597a",
    "kaynak": "AA",
@@ -499,25 +461,6 @@
    "fb_reels_id": "1638650994323570",
    "slayt": 6,
    "kanca": "KOCAOĞLU GERİDE KALDI"
-  },
-  "652b68c624cd": {
-   "id": "652b68c624cd",
-   "kaynak": "AA",
-   "baslik": "Kremlin: Kiev'in saldırılarına cevabımızın sonuçlarını alıyoruz",
-   "ozet": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'nın insansız hava araçlarıyla Rusya'nın St. Petersburg şehrine yönelik saldırısına sistematik cevap verdiklerini belirterek, Kiev'in saldırı kapasitesini azaltmayı amaçladıklarını ve sonuç aldıklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kremlin-kievin-saldirilarina-cevabimizin-sonuclarini-aliyoruz/4092822",
-   "zaman": "2026-10-18T19:29:54+03:00",
-   "kelimeler": [
-    "aliyo",
-    "cevab",
-    "in",
-    "kiev",
-    "kreml",
-    "saldi",
-    "sonuc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "c2249b673976": {
    "id": "c2249b673976",
@@ -18911,7 +18854,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "BBC Türkçe",
-    "XHABER"
+    "XHABER",
+    "NTV"
    ]
   },
   "327ae29ca3fd": {
@@ -31196,9 +31140,92 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4c252d94c537": {
+   "id": "4c252d94c537",
+   "kaynak": "AA",
+   "baslik": "İngiltere'de yazar ve ünlü isimlerden Palestine Action ve Sally Rooney için sansüre tepki",
+   "ozet": "Nobel, Pulitzer ve Booker ödüllü yazarların da aralarında bulunduğu 153 isim, Palestine Action'a destek verdiği gerekçesiyle kitaplarının İngiltere'deki satışları durdurulan İrlandalı yazar Sally Rooney'ye destek verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yazar-ve-unlu-isimlerden-palestine-action-ve-sally-rooney-icin-sansure-tepki/4096276",
+   "zaman": "2026-10-21T19:16:25+03:00",
+   "kelimeler": [
+    "actio",
+    "ingil",
+    "isiml",
+    "pales",
+    "roone",
+    "sally",
+    "sansu",
+    "tepki",
+    "unlu",
+    "yazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4f1e1db15c00": {
+   "id": "4f1e1db15c00",
+   "kaynak": "NTV",
+   "baslik": "Gazeteci İsmail Arı tutuklandı",
+   "ozet": "Gazeteci İsmail Arı, RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine başlatılan soruşturma kapsamında tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/gazeteci-ismail-ari-tutuklandi-1747378",
+   "zaman": "2026-10-21T19:23:14+03:00",
+   "kelimeler": [
+    "ari",
+    "gazet",
+    "ismai",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "208886641e90"
+  },
+  "9d00f2ba5cfc": {
+   "id": "9d00f2ba5cfc",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Tekin'den Kılıçdaroğlu'na ziyaret: \"Siyasi bir konuya girmedik\"",
+   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, CHP Genel Başkanı Kemal Kılıçdaroğlu'nu ziyaret ederek, kızının nikahına davet etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-tekinden-kilicdarogluna-ziyaret-siyasi-bir-konuya-girmedik-43350212",
+   "zaman": "2026-10-21T19:26:14+03:00",
+   "kelimeler": [
+    "bakan",
+    "den",
+    "girme",
+    "kilic",
+    "konuy",
+    "na",
+    "siyas",
+    "tekin",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "abbb553f3f62": {
+   "id": "abbb553f3f62",
+   "kaynak": "Hürriyet",
+   "baslik": "JP Morgan’dan kritik Türkiye kararı… Faaliyet izninin iptali için başvuracak",
+   "ozet": "JP Morgan Menkul Değerler AŞ, Türkiye'de faaliyet izninin iptal edilmesi talebiyle Sermaye Piyasası Kurulu'na (SPK) başvuruda bulunacağını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/jp-morgandan-kritik-turkiye-karari-faaliyet-izninin-iptali-icin-basvuracak-43350211",
+   "zaman": "2026-10-21T19:26:46+03:00",
+   "kelimeler": [
+    "basvu",
+    "dan",
+    "faali",
+    "iptal",
+    "iznin",
+    "jp",
+    "karar",
+    "kriti",
+    "morga",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 19:31:03  3 yeni haber",
   "21.10 19:16:06  5 yeni haber",
   "21.10 19:01:25  7 yeni haber",
   "21.10 18:46:07  2 yeni haber",
@@ -31397,8 +31424,7 @@
   "19.10 18:15:58  2 yeni haber",
   "19.10 18:01:21  5 yeni haber",
   "19.10 17:45:56  3 yeni haber",
-  "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
-  "19.10 17:31:12  7 yeni haber"
+  "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu"
  ],
  "otomatik": false
 }
