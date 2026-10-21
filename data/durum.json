@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "7599d6e645a5": {
-   "id": "7599d6e645a5",
-   "kaynak": "Hürriyet",
-   "baslik": "Anne ve çocukları kabusu yaşamıştı! Beyaz eşya firması tazminat ödeyecek",
-   "ozet": "Bursa'da yaşayan Kevser Kandemir'in, 2022 yılında evinin mutfağındaki yangının bulaşık makinesinden çıktığı belirlendi. Kandemir, bulaşık makinesini üreten firma hakkında dava açtı.",
-   "link": "https://www.hurriyet.com.tr/gundem/anne-ve-cocuklari-kabusu-yasamisti-beyaz-esya-firmasi-tazminat-odeyecek-43345993",
-   "zaman": "2026-10-18T11:39:00+03:00",
-   "kelimeler": [
-    "anne",
-    "beyaz",
-    "cocuk",
-    "esya",
-    "firma",
-    "kabus",
-    "odeye",
-    "tazmi",
-    "yasam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "364ebaca8bff": {
    "id": "364ebaca8bff",
    "kaynak": "Hürriyet",
@@ -22007,7 +21986,10 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dd52a354d9ac": {
    "id": "dd52a354d9ac",
@@ -27321,7 +27303,10 @@
     "vitri"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bd0a29668300": {
    "id": "bd0a29668300",
@@ -27341,7 +27326,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dcb8c2ff0141": {
    "id": "dcb8c2ff0141",
@@ -27360,9 +27348,306 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ab63d3d2b1b4": {
+   "id": "ab63d3d2b1b4",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ile Libya'nın deniz yetki anlaşması neden önemli?",
+   "ozet": "Türkiyenin Doğu Akdenizdeki konumunu güçlendiren Libya ile deniz yetki anlaşması, iki ülkenin denizlerdeki haklarını ortak zeminde buluşturdu. Peki, Libya Parlamentosu'nun da onayladığı anlaşma hangi kazanımları beraberinde getiriyor?",
+   "link": "https://www.trthaber.com/haber/dunya/turkiye-ile-libyanin-deniz-yetki-anlasmasi-neden-onemli-960725.html",
+   "zaman": "2026-10-21T09:36:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "deniz",
+    "libya",
+    "neden",
+    "nin",
+    "oneml",
+    "turki",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b9da6b32d0b1"
+  },
+  "c6279f457489": {
+   "id": "c6279f457489",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin coğrafi işaretli ürünleri Paris'te vitrine çıktı",
+   "ozet": "Dünyanın önde gelen gıda fuarlarından olan ve Fransa'nın başkenti Paris'te düzenlenen SIAL Paris 2026'da, TÜRKPATENT tanıtım alanında Türkiye'nin tescilli coğrafi işaretleri ziyaretçilerle buluşturuldu.",
+   "link": "https://www.trthaber.com/haber/yasam/turkiyenin-cografi-isaretli-urunleri-pariste-vitrine-cikti-960738.html",
+   "zaman": "2026-10-21T11:19:00+03:00",
+   "kelimeler": [
+    "cikti",
+    "cogra",
+    "isare",
+    "nin",
+    "paris",
+    "te",
+    "turki",
+    "urunl",
+    "vitri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e89a57e98fcd"
+  },
+  "3b0492b604bf": {
+   "id": "3b0492b604bf",
+   "kaynak": "AA",
+   "baslik": "El Nino, dünya genelinde kuraklık, sel ve kasırgaların etkisini şiddetlendiriyor",
+   "ozet": "Etkilerinin gelecek aylarda daha da artması beklenen El Nino hava olayı, dünyanın farklı bölgelerinde kuraklık, sel ve şiddetli fırtınalara yol açarken tarımsal üretimden deniz ekosistemlerine kadar birçok alanı da olumsuz etkiliyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/el-nino-dunya-genelinde-kuraklik-sel-ve-kasirgalarin-etkisini-siddetlendiriyor/4095435",
+   "zaman": "2026-10-21T11:20:51+03:00",
+   "kelimeler": [
+    "dunya",
+    "el",
+    "etkis",
+    "genel",
+    "kasir",
+    "kurak",
+    "nino",
+    "sel",
+    "sidde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "383b0b9a76a2": {
+   "id": "383b0b9a76a2",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeni Parti'nin ismi değişmeyecek",
+   "ozet": "Anayasa Mahkemesi AYM, \"Yeni Parti'nin isim ve rumuzunun hükümsüzlüğüne ve siyasi partiler sicilinden terkinine karar verilmesi\" talebini oy çokluğuyla reddetti.",
+   "link": "https://www.trthaber.com/haber/gundem/yeni-partinin-ismi-degismeyecek-960740.html",
+   "zaman": "2026-10-21T11:26:00+03:00",
+   "kelimeler": [
+    "degis",
+    "ismi",
+    "nin",
+    "parti",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bd0a29668300"
+  },
+  "64e5d52a822d": {
+   "id": "64e5d52a822d",
+   "kaynak": "AA",
+   "baslik": "S&P Global, Türkiye'nin kredi notunda olası artış için dezenflasyon ve rezervlere işaret etti",
+   "ozet": "S&P Global Ratings Türkiye Lider Analisti Karen Vartapetov, Türkiye'nin kredi notunda olası artış için dezenflasyon ve uluslararası rezervlerin önemine işaret etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sp-global-turkiyenin-kredi-notunda-olasi-artis-icin-dezenflasyon-ve-rezervlere-isaret-etti/4095445",
+   "zaman": "2026-10-21T11:26:12+03:00",
+   "kelimeler": [
+    "artis",
+    "dezen",
+    "etti",
+    "globa",
+    "isare",
+    "kredi",
+    "nin",
+    "notun",
+    "olasi",
+    "rezer",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "58ca9225b4cb": {
+   "id": "58ca9225b4cb",
+   "kaynak": "TRT Haber",
+   "baslik": "Sigorta sektörünün prim üretimi 9 ayda 1 trilyon lirayı aştı",
+   "ozet": "Sigorta sektörünün bu yılın 9 ayında toplam prim üretimi, geçen yılın aynı dönemine kıyasla yüzde 28 artarak 1 trilyon 97 milyar 137,4 milyon liraya ulaştı. Katılım sigortacılığı tarafında ise yıllık yüzde 44,7 artışla 68 milyar 252,5 milyon liralık prim üretildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti-960741.html",
+   "zaman": "2026-10-21T11:27:00+03:00",
+   "kelimeler": [
+    "asti",
+    "ayda",
+    "liray",
+    "prim",
+    "sekto",
+    "sigor",
+    "trily",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "ff14e98f6a8d": {
+   "id": "ff14e98f6a8d",
+   "kaynak": "AA",
+   "baslik": "İstanbul merkezli yasa dışı \"üreme hücresi\" ticareti soruşturmasında 5 zanlı daha yakalandı",
+   "ozet": "İstanbul merkezli 14 ilde düzenlenen yasa dışı \"üreme hücresi\" ticaretine yönelik operasyonda 5 şüpheli daha yakalanırken gözaltı sayısı 44'e yükseldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-yasa-disi-ureme-hucresi-ticareti-sorusturmasinda-5-zanli-daha-yakalandi/4095450",
+   "zaman": "2026-10-21T11:29:07+03:00",
+   "kelimeler": [
+    "disi",
+    "hucre",
+    "istan",
+    "merke",
+    "sorus",
+    "ticar",
+    "ureme",
+    "yakal",
+    "yasa",
+    "zanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cffbe817f633": {
+   "id": "cffbe817f633",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin uzay ve havacılık faaliyetleri için gelecek 3 yılda 100 milyar liraya yakın ödenek",
+   "ozet": "Türkiye'nin uzay ve havacılık faaliyetlerinin geliştirilmesi amacıyla gelecek 3 yılda 100 milyar liraya yakın kaynak kullanılması öngörülüyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-uzay-ve-havacilik-faaliyetleri-icin-gelecek-3-yilda-100-milyar-liraya-yakin-odenek/4095452",
+   "zaman": "2026-10-21T11:29:49+03:00",
+   "kelimeler": [
+    "100",
+    "faali",
+    "gelec",
+    "havac",
+    "liray",
+    "milya",
+    "nin",
+    "odene",
+    "turki",
+    "uzay",
+    "yakin",
+    "yilda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ffb844c7882": {
+   "id": "3ffb844c7882",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin kültürel mirası sınır kapılarında korundu",
+   "ozet": "İpsala ve Kapıkule gümrük kapılarında gerçekleştirilen operasyonlarla 7 bini aşkın kültür varlığının yurt dışına kaçırılması önlendi. Her iki operasyonda ele geçirilen 7 bini aşkın esere el konulurken olaylarla ilgili adli soruşturma başlatıldı.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/turkiyenin-kulturel-mirasi-sinir-kapilarinda-korundu-960742.html",
+   "zaman": "2026-10-21T11:30:00+03:00",
+   "kelimeler": [
+    "kapil",
+    "korun",
+    "kultu",
+    "miras",
+    "nin",
+    "sinir",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c1fa5472c636": {
+   "id": "c1fa5472c636",
+   "kaynak": "AA",
+   "baslik": "Sigorta sektörünün prim üretimi 9 ayda 1 trilyon lirayı aştı",
+   "ozet": "Sigorta sektörünün bu yılın 9 ayında toplam prim üretimi, geçen yılın aynı dönemine kıyasla yüzde 28 artarak 1 trilyon 97 milyar 137,4 milyon liraya ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti/4095460",
+   "zaman": "2026-10-21T11:33:36+03:00",
+   "kelimeler": [
+    "asti",
+    "ayda",
+    "liray",
+    "prim",
+    "sekto",
+    "sigor",
+    "trily",
+    "ureti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "58ca9225b4cb"
+  },
+  "51f472d5207a": {
+   "id": "51f472d5207a",
+   "kaynak": "AA",
+   "baslik": "MSB personeline patentli buluşları için kıdemli albay aylığının 14 katına kadar ödül",
+   "ozet": "Milli Savunma Bakanlığı (MSB) personeline, Türk Silahlı Kuvvetleri (TSK) ihtiyaçlarına yönelik geliştirdikleri ürün ve projelere patent alınması durumunda, kıdemli albay aylığının 14 katına kadar fikri gayret ödülü verilebilecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/msb-personeline-patentli-buluslari-icin-kidemli-albay-ayliginin-14-katina-kadar-odul/4095467",
+   "zaman": "2026-10-21T11:35:52+03:00",
+   "kelimeler": [
+    "14",
+    "albay",
+    "aylig",
+    "bulus",
+    "katin",
+    "kidem",
+    "msb",
+    "odul",
+    "paten",
+    "perso"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b20c0e5caabe": {
+   "id": "b20c0e5caabe",
+   "kaynak": "Sözcü",
+   "baslik": "AYM'den YENİ Parti hakkında karar: İsminin kaldırılması talebine ret",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-aym-den-yeni-parti-hakkinda-karar-isminin-kaldirilmasi-talebine-ret-p371289",
+   "zaman": "2026-10-21T11:36:48+03:00",
+   "kelimeler": [
+    "aym",
+    "den",
+    "hakki",
+    "ismin",
+    "kaldi",
+    "karar",
+    "parti",
+    "ret",
+    "taleb",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5696c1d41036": {
+   "id": "5696c1d41036",
+   "kaynak": "AA",
+   "baslik": "Hyundai Türkiye'deki elektrikli araç vizyonunu ilk üç hedefiyle güçlendiriyor",
+   "ozet": "Hyundai Motor Türkiye Üst Yöneticisi (CEO) Alex Kim, Türkiye'nin markanın Avrupa'daki elektrifikasyon stratejisinde kilit konumda bulunduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/-hyundai-turkiyedeki-elektrikli-arac-vizyonunu-ilk-uc-hedefiyle-guclendiriyor/4095472",
+   "zaman": "2026-10-21T11:40:19+03:00",
+   "kelimeler": [
+    "arac",
+    "deki",
+    "elekt",
+    "gucle",
+    "hedef",
+    "hyund",
+    "ilk",
+    "turki",
+    "uc",
+    "vizyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb37c380da6d": {
+   "id": "eb37c380da6d",
+   "kaynak": "AA",
+   "baslik": "Türk hokeyinin olimpiyat hayali",
+   "ozet": "Türkiye Hokey Federasyonu Başkanı Mustafa Çakır, Türk hokeyinin hayalinin olimpiyatta yer almak olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/turk-hokeyinin-olimpiyat-hayali/4095477",
+   "zaman": "2026-10-21T11:41:32+03:00",
+   "kelimeler": [
+    "hayal",
+    "hokey",
+    "olimp",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 11:46:07  10 yeni haber",
   "21.10 11:31:17  9 yeni haber",
   "21.10 11:16:11  13 yeni haber",
   "21.10 11:01:29  7 yeni haber",
@@ -27561,8 +27846,7 @@
   "19.10 10:31:15  7 yeni haber",
   "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu",
   "19.10 10:15:56  6 yeni haber",
-  "19.10 10:01:19  3 yeni haber",
-  "19.10 09:45:54  6 yeni haber"
+  "19.10 10:01:19  3 yeni haber"
  ],
  "otomatik": false
 }
