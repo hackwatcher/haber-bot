@@ -341,27 +341,6 @@
     "AA"
    ]
   },
-  "8a09657a45a5": {
-   "id": "8a09657a45a5",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanı Duran, Özdemir Bayraktar'ı vefatının 5. yılında andı",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının beşinci yılında rahmetle andı.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-ozdemir-bayraktari-vefatinin-5-yilinda-andi/4092670",
-   "zaman": "2026-10-18T15:31:04+03:00",
-   "kelimeler": [
-    "andi",
-    "baska",
-    "bayra",
-    "duran",
-    "ileti",
-    "ozdem",
-    "vefat",
-    "yilin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5d6ab1942c79"
-  },
   "6c2ccbcfb5fe": {
    "id": "6c2ccbcfb5fe",
    "kaynak": "AA",
@@ -28232,7 +28211,8 @@
     "mekke"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "de228f806058": {
    "id": "de228f806058",
@@ -29451,9 +29431,55 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a016611031f0"
+  },
+  "5b35cc0494f2": {
+   "id": "5b35cc0494f2",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke'den sonra Bedir Mutabakat Zaptı Anlaşması… Savunma Sanayii Başkanı Prof. Dr. Görgün: Stratejik bir adım",
+   "ozet": "Katar’ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı. Savunma Sanayii Başkanı Prof. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/mekkeden-sonra-bedir-mutabakat-zapti-anlasmasi-savunma-sanayii-baskani-prof-dr-gorgun-stratejik-bir-adim-43349714",
+   "zaman": "2026-10-21T13:38:00+03:00",
+   "kelimeler": [
+    "adim",
+    "anlas",
+    "baska",
+    "bedir",
+    "den",
+    "dr",
+    "gorgu",
+    "mekke",
+    "mutab",
+    "prof",
+    "sanay",
+    "savun",
+    "strat",
+    "zapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6bbdf99ec4a3"
+  },
+  "619dc0b07282": {
+   "id": "619dc0b07282",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor Teknik Direktörü Reis: Kadromuzdan mutluyum",
+   "ozet": "Trabzonspor Teknik Direktörü Thomas Reis, \"İçeride oynadığımız, ev sahibi olduğumuz, puanları da her zaman kazanmak istediğimiz için gelecek olan puanlar umuyorum bizim hanemize yazılacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-teknik-direktoru-reis-kadromuzdan-mutluyum/4095898",
+   "zaman": "2026-10-21T15:03:08+03:00",
+   "kelimeler": [
+    "direk",
+    "kadro",
+    "mutlu",
+    "reis",
+    "tekni",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "21.10 15:31:22  1 yeni haber",
   "21.10 15:25:41  3 yeni haber",
   "21.10 15:18:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · İYİ Parti'de kriz: Dervişoğlu istifaya çağırdı, Ahmet Eşref Fakıbaba n",
   "21.10 15:16:03  5 yeni haber",
@@ -29652,8 +29678,7 @@
   "19.10 14:45:54  5 yeni haber",
   "19.10 14:31:17  8 yeni haber",
   "19.10 14:19:01  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Millî mücadelenin tarihî mirası Nutuk sekiz dilde dünyaya ulaşacak",
-  "19.10 14:15:59  6 yeni haber",
-  "19.10 14:01:25  9 yeni haber"
+  "19.10 14:15:59  6 yeni haber"
  ],
  "otomatik": false
 }
