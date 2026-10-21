@@ -1,35 +1,5 @@
 {
  "haberler": {
-  "364ebaca8bff": {
-   "id": "364ebaca8bff",
-   "kaynak": "Hürriyet",
-   "baslik": "Fuhuş operasyonunda mahkeme kararını verdi: İş yerlerine ruhsat iptali",
-   "ozet": "Mersin’in Gülnar ilçesinde polis ekiplerinin düzenlediği fuhuş operasyonunda gözaltına alınan 6 şüpheli çıkarıldıkları mahkemece tutuklandı. Operasyon düzenlenen iki işletmenin ruhsat iptali için yasal süreç başlatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/fuhus-operasyonunda-mahkeme-kararini-verdi-is-yerlerine-ruhsat-iptali-43345987",
-   "zaman": "2026-10-18T11:49:36+03:00",
-   "kelimeler": [
-    "fuhus",
-    "iptal",
-    "is",
-    "karar",
-    "mahke",
-    "opera",
-    "ruhsa",
-    "verdi",
-    "yerle"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-18T12:03:23.250950+03:00",
-   "ig_id": "18112303913618329",
-   "reels_id": "18103425638330618",
-   "story_id": null,
-   "yorum_id": "hata: (#10) Application does not have permission for this action  (kod 10/-)",
-   "fb_id": "1276642895542042_122103861519472027",
-   "fb_reels_id": "1117312274136832",
-   "slayt": 6,
-   "kanca": "RUHSATLAR İPTAL EDİLDİ"
-  },
   "d25bfc726daf": {
    "id": "d25bfc726daf",
    "kaynak": "Hürriyet",
@@ -809,48 +779,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "88068dce8bc3": {
-   "id": "88068dce8bc3",
-   "kaynak": "TRT Haber",
-   "baslik": "Gelecek yıl ulaştırma programlarına 1 trilyon liranın üzerinde ödenek ayrıldı",
-   "ozet": "Türkiye, gelecek yıl demir yolu ulaşımı, kara yolu ulaşımı, bilgi ve iletişim, deniz yolu ulaşımı ile kombine taşımacılık, lojistik ve tehlikeli mal taşımacılığı programları için 1 trilyon lirayı aşkın harcama yapmayı öngörüyor.",
-   "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html",
-   "zaman": "2026-10-18T11:48:00+03:00",
-   "kelimeler": [
-    "ayril",
-    "gelec",
-    "liran",
-    "odene",
-    "progr",
-    "trily",
-    "ulast",
-    "uzeri",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9d708c5b49b4": {
-   "id": "9d708c5b49b4",
-   "kaynak": "TRT Haber",
-   "baslik": "Arap Koalisyonu: Suudi Arabistan'da keşif helikopterinin düşmesi sonucu 2 asker öldü",
-   "ozet": "Suudi Arabistan liderliğindeki Arap Koalisyonu, ülkenin Necran bölgesinde teknik arıza nedeniyle keşif helikopterinin düşmesi sonucu 2 subayın hayatını kaybettiğini duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanda-kesif-helikopterinin-dusmesi-sonucu-2-asker-oldu-960458.html",
-   "zaman": "2026-10-18T11:58:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "asker",
-    "dusme",
-    "helik",
-    "kesif",
-    "koali",
-    "sonuc",
-    "suudi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "d5f5c9aa37cd": {
    "id": "d5f5c9aa37cd",
@@ -21151,7 +21079,10 @@
     "ismai"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "327ae29ca3fd": {
    "id": "327ae29ca3fd",
@@ -26398,7 +26329,8 @@
     "sorus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "120ad6adb8bd": {
    "id": "120ad6adb8bd",
@@ -27325,11 +27257,20 @@
     "verdi",
     "yeni"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-10-21T12:03:22.473816+03:00",
+   "ig_id": "18110544467236775",
+   "reels_id": "18210459826318726",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1494044652552086",
+   "slayt": 4,
+   "kanca": "İSİM DEĞİŞMEYECEK"
   },
   "dcb8c2ff0141": {
    "id": "dcb8c2ff0141",
@@ -27644,9 +27585,227 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7a4eb506d73f": {
+   "id": "7a4eb506d73f",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında yeni gelişme: Altınbaş Holding sahibi hakkında yakalama kararı",
+   "ozet": "Sermaye piyasası işlemlerine ilişkin soruşturmalar kapsamında Altınbaş Holding sahibi Nusret Altınbaş hakkında yakalama kararı çıkarıldı. Kardeşi İnan Altınbaş ise gözaltına alındı, diğer aile fertlerinin tüm malvarlıkları donduruldu.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-sahibi-hakkinda-yakalama-karari-960729.html",
+   "zaman": "2026-10-21T10:25:00+03:00",
+   "kelimeler": [
+    "altin",
+    "fon",
+    "gelis",
+    "hakki",
+    "holdi",
+    "karar",
+    "sahib",
+    "sorus",
+    "yakal",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f9024584fcc"
+  },
+  "8b5cddf2d8d5": {
+   "id": "8b5cddf2d8d5",
+   "kaynak": "AA",
+   "baslik": "Bakan Gürlek: İsrailli yasa dışı yerleşimcilerin vandallıklarına 'Dur' diyen küresel adalet sistemine ihtiyacımız var",
+   "ozet": "Bakan Gürlek, \"OECD ülkelerinin, Gazze'de yerinden edilen 1,5 milyon insanın haklarını savunmak için en gür sesle haykırması gerekmekte. İsrailli yasa dışı yerleşimcilerin vandallıklarına 'Dur' diyen küresel adalet sistemine ihtiyacımız var.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-israilli-yasa-disi-yerlesimcilerin-vandalliklarina-dur-diyen-kuresel-adalet-sistemine-ihtiyacimiz-var/4095360",
+   "zaman": "2026-10-21T10:42:12+03:00",
+   "kelimeler": [
+    "adale",
+    "bakan",
+    "disi",
+    "diyen",
+    "dur",
+    "gurle",
+    "ihtiy",
+    "israi",
+    "kures",
+    "siste",
+    "vanda",
+    "yasa",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e42d827436de": {
+   "id": "e42d827436de",
+   "kaynak": "AA",
+   "baslik": "İklim taahhütleri yerine getirilse bile küresel sıcaklıklar 2100'e kadar 2,6 derece artabilir",
+   "ozet": "UNEP, ülkelerin iklim değişikliğiyle mücadele kapsamında verdiği taahhütleri yerine getirmesi halinde bile küresel sıcaklıkların sanayi öncesi döneme kıyasla 2100'e kadar 2,6 derece artmasının öngörüldüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iklim-taahhutleri-yerine-getirilse-bile-kuresel-sicakliklar-2100e-kadar-2-6-derece-artabilir/4095451",
+   "zaman": "2026-10-21T11:29:19+03:00",
+   "kelimeler": [
+    "2100",
+    "artab",
+    "bile",
+    "derec",
+    "getir",
+    "iklim",
+    "kures",
+    "sicak",
+    "taahh",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b6f06c477927": {
+   "id": "b6f06c477927",
+   "kaynak": "TRT Haber",
+   "baslik": "Gürültü tartışmasında komşusunu öldüren sanığa müebbet hapis istemi",
+   "ozet": "İstanbul'un Kağıthane ilçesinde gürültü nedeniyle yaşanan tartışmada komşusu Rıdvan Çevik'i silahla vurarak öldürdüğü belirtilen Yusuf Avşar hakkında müebbet hapis ve 2 yıldan 4 yıla kadar hapis cezası istemiyle hazırlanan iddianame kabul edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/gurultu-tartismasinda-komsusunu-olduren-saniga-muebbet-hapis-istemi-960743.html",
+   "zaman": "2026-10-21T11:41:00+03:00",
+   "kelimeler": [
+    "gurul",
+    "hapis",
+    "istem",
+    "komsu",
+    "muebb",
+    "oldur",
+    "sanig",
+    "tarti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d94a86dbae13": {
+   "id": "d94a86dbae13",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Güler, Katarlı mevkidaşı ile görüştü",
+   "ozet": "Milli Savunma Bakanı Yaşar Güler, Katar Başbakan Yardımcısı ve Savunma Bakanı Suud bin Abdurrahman Al Sani ile bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-guler-katarli-mevkidasi-ile-gorustu-960744.html",
+   "zaman": "2026-10-21T11:45:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "gorus",
+    "guler",
+    "katar",
+    "mevki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06f33f79837b"
+  },
+  "67571785fbef": {
+   "id": "67571785fbef",
+   "kaynak": "AA",
+   "baslik": "Milli Savunma Bakanı Güler, Katarlı mevkidaşı Al Sani ile görüştü",
+   "ozet": "Milli Savunma Bakanı Yaşar Güler, Katar Başbakan Yardımcısı ve Savunma Bakanı Suud bin Abdurrahman Al Sani ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-katarli-mevkidasi-al-sani-ile-gorustu/4095482",
+   "zaman": "2026-10-21T11:48:36+03:00",
+   "kelimeler": [
+    "al",
+    "bakan",
+    "gorus",
+    "guler",
+    "katar",
+    "mevki",
+    "milli",
+    "sani",
+    "savun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06f33f79837b"
+  },
+  "b9ecca7e6dc0": {
+   "id": "b9ecca7e6dc0",
+   "kaynak": "AA",
+   "baslik": "Fransa'nın Korsika Adası'nda etkili olan şiddetli yağışlarda 1 kişi öldü",
+   "ozet": "Fransa’nın Korsika Adası'nda iki gündür etkili olan ve yer yer sellere yol açan şiddetli yağışlarda 1 kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransanin-korsika-adasinda-etkili-olan-siddetli-yagislarda-1-kisi-oldu/4095486",
+   "zaman": "2026-10-21T11:51:45+03:00",
+   "kelimeler": [
+    "adasi",
+    "etkil",
+    "frans",
+    "kisi",
+    "korsi",
+    "nda",
+    "nin",
+    "sidde",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0fea9c4f985e"
+  },
+  "664161073471": {
+   "id": "664161073471",
+   "kaynak": "NTV",
+   "baslik": "Üreme hücresi operasyonu: Donör iki kadına Türkiye dönüşü gözaltı",
+   "ozet": "Yasa dışı üreme hücresi ticareti yapan çeteye yönelik soruşturmada, donör kadınlardan ikisi KKTC dönüşü havalimanında yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-ureme-hucresi-operasyonu-donor-iki-kadina-turkiye-donusu-gozalti-1747321",
+   "zaman": "2026-10-21T11:55:32+03:00",
+   "kelimeler": [
+    "donor",
+    "donus",
+    "gozal",
+    "hucre",
+    "iki",
+    "kadin",
+    "opera",
+    "turki",
+    "ureme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82786289dc07": {
+   "id": "82786289dc07",
+   "kaynak": "Sözcü",
+   "baslik": "CHP Kurultay davasında yeni gelişme: İmamoğlu ve 8 kişi hakkında ceza istendi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-chp-kurultay-davasinda-yeni-gelisme-imamoglu-ve-8-kisi-hakkinda-ceza-istendi-p371301",
+   "zaman": "2026-10-21T11:57:46+03:00",
+   "kelimeler": [
+    "ceza",
+    "chp",
+    "davas",
+    "gelis",
+    "hakki",
+    "imamo",
+    "isten",
+    "kisi",
+    "kurul",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60437054c6c7": {
+   "id": "60437054c6c7",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Gözaltına alınan gazeteci İsmail Arı adliyeye sevk edildi",
+   "ozet": "BirGün gazetesi, gözaltına alınan muhabiri İsmail Arı'nın 21 Ekim sabah saatlerinde adliyeye sevk edildiğini bildirdi.",
+   "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo",
+   "zaman": "2026-10-21T11:59:51+03:00",
+   "kelimeler": [
+    "adliy",
+    "alina",
+    "ari",
+    "edild",
+    "gazet",
+    "gozal",
+    "ismai",
+    "sevk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "208886641e90"
   }
  },
  "kayit": [
+  "21.10 12:03:22  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AYM karar verdi... Yeni Parti’nin ismi değişmeyecek",
+  "21.10 12:01:25  5 yeni haber",
   "21.10 11:46:07  10 yeni haber",
   "21.10 11:31:17  9 yeni haber",
   "21.10 11:16:11  13 yeni haber",
@@ -27844,9 +28003,7 @@
   "19.10 11:01:25  5 yeni haber",
   "19.10 10:45:52  1 yeni haber",
   "19.10 10:31:15  7 yeni haber",
-  "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu",
-  "19.10 10:15:56  6 yeni haber",
-  "19.10 10:01:19  3 yeni haber"
+  "19.10 10:18:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinli karateci Meryem Bişarat'tan dünya şampiyonluğu"
  ],
  "otomatik": false
 }
