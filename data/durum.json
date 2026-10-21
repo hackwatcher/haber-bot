@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "ee59573ee470": {
-   "id": "ee59573ee470",
-   "kaynak": "Hürriyet",
-   "baslik": "Basit bir şikayetle başladı, kanser teşhisiyle bitti: Mucize dönüş",
-   "ozet": "Adana'da 4 ay önce kabızlık şikayetiyle doktora başvuran 3 çocuk annesi Meryem İnce'ye rektum kanseri teşhisi konuldu. Başarılı geçen robotik cerrahi operasyonunun ardından kısa sürede ayağa kalkan İnce, 4 günde taburcu olmanın mutluluğunu yaşadığını söyledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/basit-bir-sikayetle-basladi-kanser-teshisiyle-bitti-mucize-donus-43345855",
-   "zaman": "2026-10-18T09:29:42+03:00",
-   "kelimeler": [
-    "basit",
-    "basla",
-    "bitti",
-    "donus",
-    "kanse",
-    "muciz",
-    "sikay",
-    "teshi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "54ccb3889003": {
    "id": "54ccb3889003",
    "kaynak": "Hürriyet",
@@ -1242,42 +1222,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "6868f3d53d4d": {
-   "id": "6868f3d53d4d",
-   "kaynak": "NTV",
-   "baslik": "Firari üç FETÖ'cü İstanbul'da yakalandı",
-   "ozet": "Haklarında arama kaydı bulunan Fetullahçı Terör Örgütü (FETÖ) üyesi üç firari şüpheli, İstanbul'da düzenlenen eş zamanlı operasyonlarla yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/firari-uc-fetocu-istanbulda-yakalandi-1746798",
-   "zaman": "2026-10-18T09:19:26+03:00",
-   "kelimeler": [
-    "cu",
-    "feto",
-    "firar",
-    "istan",
-    "uc",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3da4d75c2195"
-  },
-  "1024f6938e8a": {
-   "id": "1024f6938e8a",
-   "kaynak": "TRT Haber",
-   "baslik": "Firari 3 FETÖ'cü yakalandı",
-   "ozet": "İstanbul polisi, haklarında arama kaydı bulunan FETÖ üyesi 3 firari şüpheliyi eş zamanlı operasyonlarla yakaladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/firari-3-fetocu-yakalandi-960447.html",
-   "zaman": "2026-10-18T09:30:00+03:00",
-   "kelimeler": [
-    "cu",
-    "feto",
-    "firar",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3da4d75c2195"
   },
   "8c2fa9cc587a": {
    "id": "8c2fa9cc587a",
@@ -25795,7 +25739,10 @@
     "tarih"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "1ed3c36f33e9": {
    "id": "1ed3c36f33e9",
@@ -25878,9 +25825,245 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e9b5aee3c458"
+  },
+  "06548ad37b3d": {
+   "id": "06548ad37b3d",
+   "kaynak": "TRT Haber",
+   "baslik": "Hatay'da mobilya fabrikasında yangın",
+   "ozet": "Hatay'da sanayi sitesindeki bir mobilya fabrikasında yangın çıktı. Bölgeye sevk edilen ekipler, alevlere müdahale ediyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/hatayda-mobilya-fabrikasinda-yangin-960712.html",
+   "zaman": "2026-10-21T09:10:00+03:00",
+   "kelimeler": [
+    "fabri",
+    "hatay",
+    "mobil",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "63a275c12054": {
+   "id": "63a275c12054",
+   "kaynak": "Hürriyet",
+   "baslik": "Hatay'da mobilya fabrikasında yangın",
+   "ozet": "Hatay'da sanayi sitesindeki bir mobilya fabrikasında yangın çıktı. Bölgeye sevk edilen ekipler, alevlere müdahale ediyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/hatayda-mobilya-fabrikasinda-yangin-43349220",
+   "zaman": "2026-10-21T09:10:00+03:00",
+   "kelimeler": [
+    "fabri",
+    "hatay",
+    "mobil",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06548ad37b3d"
+  },
+  "7ea4b54a265a": {
+   "id": "7ea4b54a265a",
+   "kaynak": "TRT Haber",
+   "baslik": "Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 ölü",
+   "ozet": "Afyonkarahisarın Emirdağ ilçesinde iki otomobilin kafa kafaya çarpıştığı kazada 4 kişi hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-iki-otomobil-kafa-kafaya-carpisti-4-olu-960713.html",
+   "zaman": "2026-10-21T09:12:00+03:00",
+   "kelimeler": [
+    "afyon",
+    "carpi",
+    "iki",
+    "kafa",
+    "kafay",
+    "olu",
+    "otomo"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ],
+   "paylasildi": "2026-10-21T09:34:01.442953+03:00",
+   "ig_id": "18072970592758874",
+   "reels_id": "18141482914717117",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1641069734225007",
+   "slayt": 5,
+   "kanca": "4 KİŞİ HAYATINI KAYBETTİ"
+  },
+  "b89096983637": {
+   "id": "b89096983637",
+   "kaynak": "TRT Haber",
+   "baslik": "Küresel piyasalarda yön arayışı sürüyor",
+   "ozet": "Küresel piyasalar, güçlü şirket bilançolarına karşın yapay zeka yatırımlarına ilişkin belirsizlikler ve jeopolitik risklerin etkisiyle karışık seyrediyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yon-arayisi-suruyor-960714.html",
+   "zaman": "2026-10-21T09:13:00+03:00",
+   "kelimeler": [
+    "arayi",
+    "kures",
+    "piyas",
+    "suruy",
+    "yon"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "916a81df9689": {
+   "id": "916a81df9689",
+   "kaynak": "Hürriyet",
+   "baslik": "Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 kişi hayatını kaybetti",
+   "ozet": "Afyonkarahisar'ın Emirdağ ilçesinde iki otomobilin çarpıştığı kazada 4 kişi hayatını kaybetti. Kaza sonrası kara yolu trafiğe kapatılırken, bölgeye sevk edilen AFAD, itfaiye ve sağlık ekipleri çalışma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-iki-otomobil-kafa-kafaya-carpisti-4-kisi-hayatini-kaybetti-43349226",
+   "zaman": "2026-10-21T09:15:00+03:00",
+   "kelimeler": [
+    "afyon",
+    "carpi",
+    "hayat",
+    "iki",
+    "kafa",
+    "kafay",
+    "kaybe",
+    "kisi",
+    "otomo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7ea4b54a265a"
+  },
+  "bfcb852df012": {
+   "id": "bfcb852df012",
+   "kaynak": "AA",
+   "baslik": "Edirne'deki iki gümrük kapısında yapılan operasyonlarda 7 bin 160 tarihi eser ele geçirildi",
+   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, Edirne'de iki gümrük kapısında yaptıkları operasyonlarda tarihi eser niteliği taşıdığı değerlendirilen 7 bin 160 kültür varlığına el koydu.",
+   "link": "https://www.aa.com.tr/tr/gundem/edirnedeki-iki-gumruk-kapisinda-yapilan-operasyonlarda-7-bin-160-tarihi-eser-ele-gecirildi/4095247",
+   "zaman": "2026-10-21T09:16:36+03:00",
+   "kelimeler": [
+    "160",
+    "bin",
+    "deki",
+    "edirn",
+    "ele",
+    "eser",
+    "gecir",
+    "gumru",
+    "iki",
+    "kapis",
+    "opera",
+    "tarih",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7bfd767f3caa"
+  },
+  "c18982207f7d": {
+   "id": "c18982207f7d",
+   "kaynak": "XHABER",
+   "baslik": "Umman kıyılarında nadir görülen pembe yunuslar görüntülendi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30298",
+   "zaman": "2026-10-21T09:19:04+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Umman kıyılarında nadir görülen pembe yunuslar görüntülendi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/ORCiy8mNSx7nAOFMgkXE22U98f0SS80FNEoX-YNjsvdftgm8HxDf2LG5iUprx3-f3kytLzU55KwQ5eyjA5Qi7Yn_qTu6UJenY4nLHyoyzDXPmIA3y8m1BfKOjrp1INfxPaVrThHf3Wlvg6f63KQw-GkFYzvi7ukYuFZycN4SiG_Fk5QfNC4Mi3PH3P4S-p__YbOBBMv0yA1wOmSIZM_wPN5oYjdwF76sl0ylOcx-ZWV5sg41ybXuqfkYcilnrHaaK6YVum2dKcDnu-aNJOwsIlA_daWF7hXFA5Fu7zFO32pgQziKGmcZArvXlTJSS9TCIiurVT3NM9FeraHvz6Io9A",
+   "tg_video_url": "https://cdn4.telesco.pe/file/bd89f05a08.mp4?token=WqIvpnZfViwiX5L5eiqZAipMXyXN-zhK9iKgOHzGsYotOnUyC_MNvVbhvXvFR5KRID6B1Xyd0ZZ7ea20cvLy44a35US2qBZexRCb7V3-th5kTE_OCeyxvY8Sb-6MLRdkaXhTnmZKsw6ibdyAL1WrVuQZ80gRzRKewWkNr909Fav8klZ0-h9zI7xPVhkIzASAWJndqTDOqvAKvgbypWgH1NnB7lC0_daLA0KRTY6z0pHCWBqbyMpOtwHa34-kBZe7rvWgYtktEGxkUymPCELFYAyRDoWmWGr2_nNvwgpq_5ZTjekCldDacVEQLHYUcSR--vL1VEntfYStYt7G4_NdDw",
+   "kelimeler": [
+    "gorul",
+    "gorun",
+    "kiyil",
+    "nadir",
+    "pembe",
+    "umman",
+    "yunus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "da5025eebd84": {
+   "id": "da5025eebd84",
+   "kaynak": "XHABER",
+   "baslik": "İtalya'nın Bologna kentinde polis, protestoculardan birini tazyikli suyla yere düşürdü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30299",
+   "zaman": "2026-10-21T09:19:47+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İtalya'nın Bologna kentinde polis, protestoculardan birini tazyikli suyla yere düşürdü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/UWYL44vrt8edPKXkBtIBuSHJLdMAkdQVf1MyCJAms5UnyxWOeutjb4uFB5TwKeFtsI39eLOzv5P0KV3IQy_4R9SOtLhPm4up8dYJC9eMf90PaDShHpz0AUQpw6LlYGJqUThmsWjHh_v4dfGp7acKDsSLefO31xnh4KAEXggbqfQB-1G_f7TUd1oJVtVBK8JKQD_5QQMqQD6Ejg-WcY5Aqy9wEHOTTaxJSYQ-5mLEr_ydKcOqHVsErmQ7ZYZ5y0EYoJkn2vUladuURZHpEKXZs4FGtnfjdkbew5OVN-a_gAtC5egqC_5aVsiL8LjazFqbToZ_umrAn4UKYnBro6I2Rg",
+   "tg_video_url": "https://cdn4.telesco.pe/file/71235c678c.mp4?token=OKUOsg_OxhN5sYZPz4zkktl5sJpMtpcPfhS8rWLKSdNo5nfAz4ec2N4eaAdlvhGaYFAzpRCDu-zdHd9UI4Lu2MWE2XXNsvx9d-DVGZgjjt9QgLR_rcKmLjAjuuZFAggfUu054nLVE79x_bzHPIdADSyEYgko__0_fA3qJ0C1DJT-GlXewTrECEWLZocpkVHqBzV0Hzo9quH96sUKeVIIO0fpGNafMw-yfxrJ5QnQRH2nZjafjH-1OIrqomVhNArBVhAKe83EYrgCYwGfOiL_xurOFZx_j6AifHXZGIq4g2l1559vTVTN5I04MmEHmeymRUft4vM2vlOUr-qxWX4Qkg",
+   "kelimeler": [
+    "birin",
+    "bolog",
+    "dusur",
+    "italy",
+    "kenti",
+    "nin",
+    "polis",
+    "prote",
+    "suyla",
+    "tazyi",
+    "yere"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "23b95a8678e6": {
+   "id": "23b95a8678e6",
+   "kaynak": "XHABER",
+   "baslik": "Yemen’de rastgele bir silah dükkanında, “Hitler’in Testeresi” olarak bilinen ve dakikada 1.200 mermi atabilen efsanevi MG42, 3.300 dolara satılıyor.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30300",
+   "zaman": "2026-10-21T09:23:47+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Yemen’de rastgele bir silah dükkanında, “Hitler’in Testeresi” olarak bilinen ve dakikada 1.200 mermi atabilen efsanevi MG42, 3.300 dolara satılıyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/CMf3LIDfz5vHOFHXDPbgQdSf23GoJbi1QvuI9uxb0TsD-iBxGXKm2RppXO46RfMifXuw4h9fkSMLzDFHiu0LNVN9x3zq2QU4WBVoCUk2Gv_d507LzAO0MJbdTrtLAzv7VRQKnAvj_iz6ohfI4WoMuZAl-cr8JjJnyrYKJDOWuuvEdsPJDnX4_43RXuOaOzY9dHZt3HsIVM8zgW0czFJoSoZVKgJayBAzDZdgAjGtrM3d6-97XtsDwqWVGKSykdpzyqrhEdezzTcqbJuMo02lqqus0GtF9SVO6ck4mpD4l2Pf_q-1ULBQIkvLqbQMp_Zm1WiTF-3bP60H0wwaEpKd3w",
+   "tg_video_url": "https://cdn4.telesco.pe/file/d2017bd1ec.mp4?token=WtjpLTB6NYA5XZ84iUZaez12O-DrQ3K0eWizuG-o1V5EvdQFPBIXKJy-lpFH996lFTjACMzPhQabPT1fhNbRVwB4xnogpbs_AjKRTM-c-XLvKEOPbvKqto0OMpYEdkdorjONf7y7vDUpXi2FDxDUXbQEPD-pOIBBy2HRtvYy8NhF50nRvpEIHBUypSru9OcBA222W2it9D2Xgfyn-_cbFBhCusZFOc2venHvPOFG3uIpQBDI-xQTuLOIuxeXAsdm4qWJU3Zrn2i11RNmQ6xV4AtizxjP0T0zY21QQi1i86O-RXePMvEdh1DuyHWE53n74YtFdXKE-HBsxl5dZyjj8A",
+   "kelimeler": [
+    "200",
+    "300",
+    "atabi",
+    "bilin",
+    "dakik",
+    "dolar",
+    "dukka",
+    "efsan",
+    "hitle",
+    "in",
+    "mermi",
+    "mg42",
+    "rastg",
+    "satil",
+    "silah",
+    "teste",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e94de571551e": {
+   "id": "e94de571551e",
+   "kaynak": "BBC Türkçe",
+   "baslik": "BM'nin 1,5 derece raporunda Türkiye ile ilgili uyarılar var?",
+   "ozet": "Birleşmiş Milletler 21 Ekim'de yayımladığı kritik uyarıda, 1,5 derece eşiğiyle ilgili acilen ve sert önlemler çağrısında bulundu.",
+   "link": "https://www.bbc.com/turkce/articles/cwg7xd7180e2o",
+   "zaman": "2026-10-21T09:28:26+03:00",
+   "kelimeler": [
+    "bm",
+    "derec",
+    "ilgil",
+    "nin",
+    "rapor",
+    "turki",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 09:34:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 ölü",
+  "21.10 09:31:06  7 yeni haber",
   "21.10 09:15:54  4 yeni haber",
   "21.10 08:45:57  2 yeni haber",
   "21.10 08:31:18  4 yeni haber",
@@ -26078,9 +26261,7 @@
   "19.10 08:16:01  1 yeni haber",
   "19.10 08:01:22  1 yeni haber",
   "19.10 07:46:05  1 yeni haber",
-  "19.10 07:16:01  6 yeni haber",
-  "19.10 07:04:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Fransa'da Örümcek Adam kostümlü eylemciler, efsaneleşmiş ikonik pozu y",
-  "19.10 07:01:21  1 yeni haber"
+  "19.10 07:16:01  6 yeni haber"
  ],
  "otomatik": false
 }
