@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "54ccb3889003": {
-   "id": "54ccb3889003",
-   "kaynak": "Hürriyet",
-   "baslik": "Sarıyer'deki sel felaketinden yürek yakan yeni görüntüler: İçinde adam var",
-   "ozet": "İstanbul'u esir alan sağanakta Sarıyer'de aracıyla sel sularına kapılıp kaybolan Ahmet Derin'in sürüklenme anına ait yeni videolar ortaya çıktı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sariyerdeki-sel-felaketinden-yurek-yakan-yeni-goruntuler-icinde-adam-var-43345865",
-   "zaman": "2026-10-18T09:45:00+03:00",
-   "kelimeler": [
-    "adam",
-    "deki",
-    "felak",
-    "gorun",
-    "icind",
-    "sariy",
-    "sel",
-    "yakan",
-    "yeni",
-    "yurek"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3ed61b1d0e4b": {
    "id": "3ed61b1d0e4b",
    "kaynak": "BBC Türkçe",
@@ -26084,7 +26062,10 @@
     "vatan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "797951325acd": {
    "id": "797951325acd",
@@ -26237,6 +26218,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "65bd17f123c6": {
+   "id": "65bd17f123c6",
+   "kaynak": "NTV",
+   "baslik": "Ömer Çelik: Mavi Vatan'daki haklarımızı ve Libya halkının haklarını güçlü bir biçimde savunacağız",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, \"Libya Temsilciler Meclisi’nin Türkiye ile imzalanan Deniz Yetki Alanları Anlaşması’nı onaylaması, tarihi ve hukuki haklılığımızın tescilidir.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/omer-celik-mavi-vatandaki-haklarimizi-ve-libya-halkinin-haklarini-guclu-bir-bicimde-savunacagiz-1747281",
+   "zaman": "2026-10-21T09:43:27+03:00",
+   "kelimeler": [
+    "bicim",
+    "celik",
+    "daki",
+    "guclu",
+    "hakla",
+    "halki",
+    "libya",
+    "mavi",
+    "omer",
+    "savun",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b9c8f8ec5fc5"
   }
  },
  "kayit": [
