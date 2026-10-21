@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "c4e42b79aa4d": {
-   "id": "c4e42b79aa4d",
-   "kaynak": "AA",
-   "baslik": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden biri hayatını kaybetti",
-   "ozet": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı. Mahsur kalan 13 kişiyi kurtarma çalışmaları sürüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kaybetti/4092865",
-   "zaman": "2026-10-18T20:55:08+03:00",
-   "kelimeler": [
-    "biri",
-    "gonul",
-    "hayat",
-    "ihh",
-    "ispar",
-    "kalan",
-    "kanyo",
-    "kaybe",
-    "mahsu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "eecabaafe813": {
    "id": "eecabaafe813",
    "kaynak": "TRT Haber",
@@ -778,29 +754,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "0daf4c77665c": {
-   "id": "0daf4c77665c",
-   "kaynak": "AA",
-   "baslik": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden 3'ü kurtarıldı, biri hayatını kaybetti",
-   "ozet": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı. Mahsur kalan 13 kişiyi kurtarma çalışmaları sürüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-3u-kurtarildi-biri-hayatini-kaybetti/4092865",
-   "zaman": "2026-10-18T20:55:08+03:00",
-   "kelimeler": [
-    "biri",
-    "gonul",
-    "hayat",
-    "ihh",
-    "ispar",
-    "kalan",
-    "kanyo",
-    "kaybe",
-    "kurta",
-    "mahsu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c4e42b79aa4d"
   },
   "9ec061d2744e": {
    "id": "9ec061d2744e",
@@ -31375,9 +31328,75 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ead7e5517a7d": {
+   "id": "ead7e5517a7d",
+   "kaynak": "AA",
+   "baslik": "Fransa'da sarı yeleklilerin eylemleri kapsamında 174 kişi tutuklandı",
+   "ozet": "Fransa Adalet Bakanı Gerald Darmanin, sarı yeleklilerin 17 Ekim'de şiddet olaylarına sahne olan eylemleri kapsamında 174 kişinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemleri-kapsaminda-174-kisi-tutuklandi/4096329",
+   "zaman": "2026-10-21T20:37:30+03:00",
+   "kelimeler": [
+    "174",
+    "eylem",
+    "frans",
+    "kapsa",
+    "kisi",
+    "sari",
+    "tutuk",
+    "yelek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "197aeaf18f93"
+  },
+  "640970747fda": {
+   "id": "640970747fda",
+   "kaynak": "AA",
+   "baslik": "Küresel yatırım ve teknoloji dünyası GO! GLOBAL Türkiye Zirvesi'nde buluşacak",
+   "ozet": "GO! GLOBAL Türkiye Zirvesi, küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini 22-24 Ekim'de İstanbul’da bir araya getirecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-yatirim-ve-teknoloji-dunyasi-go-global-turkiye-zirvesinde-bulusacak/4096336",
+   "zaman": "2026-10-21T20:50:24+03:00",
+   "kelimeler": [
+    "bulus",
+    "dunya",
+    "globa",
+    "go",
+    "kures",
+    "nde",
+    "tekno",
+    "turki",
+    "yatir",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aa51183df35d": {
+   "id": "aa51183df35d",
+   "kaynak": "AA",
+   "baslik": "ABD'de mortgage faizleri iki aydan uzun süre sonra ilk kez düştü",
+   "ozet": "ABD'de 30 yıl vadeli mortgage (konut kredisi) için ortalama faiz oranı geçen hafta yüzde 7,41'e inerken, iki aydan uzun bir sürenin ardından ilk kez düşüş kaydetti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-mortgage-faizleri-iki-aydan-uzun-sure-sonra-ilk-kez-dustu/4096339",
+   "zaman": "2026-10-21T20:54:05+03:00",
+   "kelimeler": [
+    "abd",
+    "aydan",
+    "dustu",
+    "faizl",
+    "iki",
+    "ilk",
+    "kez",
+    "mortg",
+    "sure",
+    "uzun"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "21.10 21:01:28  2 yeni haber",
   "21.10 20:45:59  2 yeni haber",
   "21.10 20:26:20  1 yeni haber",
   "21.10 20:16:10  2 yeni haber",
@@ -31576,8 +31595,7 @@
   "19.10 19:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Sözcü · Yeniden Refah'ta istifa sinyali: Doğan Bekin'den çarpıcı açıklama",
   "19.10 19:46:05  1 yeni haber",
   "19.10 19:46:05  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "19.10 19:31:16  2 yeni haber",
-  "19.10 19:16:03  4 yeni haber"
+  "19.10 19:31:16  2 yeni haber"
  ],
  "otomatik": false
 }
