@@ -1,57 +1,5 @@
 {
  "haberler": {
-  "f4100c9c714a": {
-   "id": "f4100c9c714a",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Çiftçi’den BORAN-8 Uluslararası Keskin Nişancı Yarışması'nda dereceye giren takımlara kutlama",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, İzmir Foça Jandarma Komando Eğitim Komutanlığında düzenlenen BORAN-8 Uluslararası Keskin Nişancı Yarışması'nda dereceye giren takımları tebrik etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-boran-8-uluslararasi-keskin-nisanci-yarismasinda-dereceye-giren-takimlara-kutlama-43346500",
-   "zaman": "2026-10-18T19:47:44+03:00",
-   "kelimeler": [
-    "bakan",
-    "boran",
-    "ciftc",
-    "den",
-    "derec",
-    "giren",
-    "keski",
-    "kutla",
-    "nda",
-    "nisan",
-    "takim",
-    "ulusl",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "b30b95024180": {
-   "id": "b30b95024180",
-   "kaynak": "AA",
-   "baslik": "Milli halterci Tuana Süren, Avrupa Gençler Şampiyonası'nda 3 altın madalya elde etti",
-   "ozet": "Avrupa Gençler ve 23 Yaş Altı Halter Şampiyonası'na katılan Tuana Süren, genç kadınlar +86 kilo kategorisinde 3 altın madalya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-halterci-tuana-suren-avrupa-gencler-sampiyonasinda-3-altin-madalya-elde-etti/4092847",
-   "zaman": "2026-10-18T20:00:15+03:00",
-   "kelimeler": [
-    "altin",
-    "avrup",
-    "elde",
-    "etti",
-    "gencl",
-    "halte",
-    "madal",
-    "milli",
-    "nda",
-    "sampi",
-    "suren",
-    "tuana"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "2cff158f2137": {
    "id": "2cff158f2137",
    "kaynak": "NTV",
@@ -74,31 +22,6 @@
    ],
    "durum": "yeni",
    "oncelikli": true
-  },
-  "2f2d1c89ca35": {
-   "id": "2f2d1c89ca35",
-   "kaynak": "AA",
-   "baslik": "Anket: ABD'de ara seçimler yaklaşırken halkın yüzde 71'ine göre ülke \"yanlış yolda\"",
-   "ozet": "ABD'de 3 Kasım'da düzenlenecek ara seçim öncesi yapılan ankette, katılımcıların yüzde 71'i ülkenin \"yanlış yolda\" ilerlediğini düşündüğünü belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/anket-abdde-ara-secimler-yaklasirken-halkin-yuzde-71ine-gore-ulke-yanlis-yolda/4092843",
-   "zaman": "2026-10-18T19:53:57+03:00",
-   "kelimeler": [
-    "71",
-    "abd",
-    "anket",
-    "ara",
-    "gore",
-    "halki",
-    "ine",
-    "secim",
-    "ulke",
-    "yakla",
-    "yanli",
-    "yolda",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "300cf843545c": {
    "id": "300cf843545c",
@@ -11896,7 +11819,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "XHABER"
    ]
   },
   "3890b1b8b712": {
@@ -30967,7 +30891,10 @@
     "zongu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "73be2dc08a8c": {
    "id": "73be2dc08a8c",
@@ -31213,9 +31140,179 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "10d68ecfe02f": {
+   "id": "10d68ecfe02f",
+   "kaynak": "TRT Haber",
+   "baslik": "Zonguldak'ta bina çöktü: 1 kişi kurtarıldı, 1 kişi öldü",
+   "ozet": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html",
+   "zaman": "2026-10-21T19:03:00+03:00",
+   "kelimeler": [
+    "bina",
+    "coktu",
+    "kisi",
+    "kurta",
+    "ta",
+    "zongu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a45d51676f5c"
+  },
+  "5f807ecc5062": {
+   "id": "5f807ecc5062",
+   "kaynak": "AA",
+   "baslik": "Bakan Bolat: Türkiye'nin döküm sanayisindeki toplam üretimi 2025'te 2 milyon 300 bin ton oldu",
+   "ozet": "Ticaret Bakanı Bolat, Türkiye'nin döküm sanayisinde üretim kapasitesinin 3 milyon ton olduğunu belirterek, \"Toplam üretimimiz 2025 yılında 2 milyon 300 bin ton olmuştur.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiyenin-dokum-sanayisindeki-toplam-uretimi-2025te-2-milyon-300-bin-ton-oldu/4096280",
+   "zaman": "2026-10-21T19:27:23+03:00",
+   "kelimeler": [
+    "2025",
+    "300",
+    "bakan",
+    "bin",
+    "bolat",
+    "dokum",
+    "milyo",
+    "nin",
+    "sanay",
+    "te",
+    "ton",
+    "topla",
+    "turki",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "94e3c86a2c21": {
+   "id": "94e3c86a2c21",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız",
+   "ozet": "Ticaret Bakanı Ömer Bolat, Türkiye'nin döküm sanayisinde üretim kapasitesinin 3 milyon ton olduğunu belirterek \"Toplam üretimimiz 2025 yılında 2 milyon 300 bin ton olmuştur.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-bolat-dokum-sektorunde-dunyada-7nci-avrupada-2nci-siradayiz-43350222",
+   "zaman": "2026-10-21T19:41:44+03:00",
+   "kelimeler": [
+    "avrup",
+    "bakan",
+    "bolat",
+    "dokum",
+    "dunya",
+    "nci",
+    "sekto",
+    "sirad"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f65041d613bf": {
+   "id": "f65041d613bf",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Uraloğlu, Kırgızistan’ın Ankara Büyükelçisi Kazakbaev ile bir araya geldi",
+   "ozet": "ULAŞTIRMA ve Altyapı Bakanı Abdulkadir Uraloğlu, Kırgızistan’ın Ankara Büyükelçisi Ruslan Kazakbaev ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-uraloglu-kirgizistanin-ankara-buyukelcisi-kazakbaev-ile-bir-araya-geldi-43350228",
+   "zaman": "2026-10-21T19:44:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "araya",
+    "bakan",
+    "buyuk",
+    "geldi",
+    "in",
+    "kazak",
+    "kirgi",
+    "uralo"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "1ab498a471e1": {
+   "id": "1ab498a471e1",
+   "kaynak": "XHABER",
+   "baslik": "GOOOL | 🇫🇷 Lille 0-1 Galatasaray 🇹🇷",
+   "ozet": "⚽️ 2' Yunus",
+   "link": "https://t.me/sahinozkan000/30311",
+   "zaman": "2026-10-21T19:48:49+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "GOOOL | 🇫🇷 Lille 0-1 Galatasaray 🇹🇷\n⚽️ 2' Yunus",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "galat",
+    "goool",
+    "lille"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "221b223594b0"
+  },
+  "27837c373278": {
+   "id": "27837c373278",
+   "kaynak": "AA",
+   "baslik": "Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırılarında 2 Filistinli yaralandı",
+   "ozet": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın kuzeyindeki Nablus kentinde düzenlediği iki ayrı saldırıda 2 Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-2-filistinli-yaralandi/4096302",
+   "zaman": "2026-10-21T19:52:05+03:00",
+   "kelimeler": [
+    "bati",
+    "daki",
+    "filis",
+    "gasbe",
+    "israi",
+    "saldi",
+    "seria",
+    "topra",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "60f51f35eb60"
+  },
+  "978dfec80994": {
+   "id": "978dfec80994",
+   "kaynak": "XHABER",
+   "baslik": "GOL | Lille 1-1 Galatasaray",
+   "ozet": "8' Diaoune",
+   "link": "https://t.me/sahinozkan000/30312",
+   "zaman": "2026-10-21T19:55:20+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "GOL | Lille 1-1 Galatasaray\n8' Diaoune",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "galat",
+    "gol",
+    "lille"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "221b223594b0"
+  },
+  "4b4fdb5cf36a": {
+   "id": "4b4fdb5cf36a",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturmalarına ilişkin, \"Yatırımcı ile manipülatörü birbirine karıştırmadan titiz bir şekilde adli ve idari süreçleri hayata geçiriyoruz, geçirmeye devam edeceğiz.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-2027-yili-butcesini-meclise-sundu-43350238",
+   "zaman": "2026-10-21T19:57:47+03:00",
+   "kelimeler": [
+    "2027",
+    "butce",
+    "cumhu",
+    "mecli",
+    "sundu",
+    "yardi",
+    "yili",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 20:01:40  4 yeni haber",
+  "21.10 20:01:40  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "21.10 19:48:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bakan Gürlek açıkladı: Fon soruşturmasında 404 kişi hakkında adli işle",
   "21.10 19:46:07  2 yeni haber",
   "21.10 19:31:03  3 yeni haber",
@@ -31413,9 +31510,7 @@
   "19.10 19:16:03  4 yeni haber",
   "19.10 19:01:37  3 yeni haber",
   "19.10 18:45:57  4 yeni haber",
-  "19.10 18:31:13  3 yeni haber",
-  "19.10 18:15:58  2 yeni haber",
-  "19.10 18:01:21  5 yeni haber"
+  "19.10 18:31:13  3 yeni haber"
  ],
  "otomatik": false
 }
