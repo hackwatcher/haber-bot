@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "ec63beab87a9": {
-   "id": "ec63beab87a9",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da birçok yol bugün kapalı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbulda-bircok-yol-bugun-kapali-p370195",
-   "zaman": "2026-10-18T07:41:06+03:00",
-   "kelimeler": [
-    "birco",
-    "bugun",
-    "istan",
-    "kapal",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "370fbb5dc4d3": {
    "id": "370fbb5dc4d3",
    "kaynak": "Hürriyet",
@@ -1427,26 +1410,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "71fc2a8dd2cd": {
-   "id": "71fc2a8dd2cd",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da sağanak: Suya kapılan araçtaki 2 kişi kayıp",
-   "ozet": "İstanbul'da aralıklarla devam eden sağanak Anadolu Yakası'nda hayatı etkiledi. Pendik'te sel sularına kapılan 2 kişinin bulunması için çalışma başlatıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-saganak-suya-kapilan-aractaki-2-kisi-kayip-960441.html",
-   "zaman": "2026-10-18T07:44:00+03:00",
-   "kelimeler": [
-    "aract",
-    "istan",
-    "kapil",
-    "kayip",
-    "kisi",
-    "sagan",
-    "suya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3f486ec04ee5"
   },
   "a5de56067fb1": {
    "id": "a5de56067fb1",
@@ -25701,9 +25664,87 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3d99761cd8b6"
+  },
+  "17fdd454a218": {
+   "id": "17fdd454a218",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: Zenginleştirilmiş uranyumun tek bir gramı bile ülkemizden çıkarılmayacak",
+   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, \"Zenginleştirilmiş uranyumun tek bir gramı bile İrandan çıkarılmayacak. ABD güven tesis edecek adımlar atana kadar hiçbir müzakere yapılmayacak.\" açıklamasında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-zenginlestirilmis-uranyumun-tek-bir-grami-bile-ulkemizden-cikarilmayacak-960705.html",
+   "zaman": "2026-10-21T07:13:00+03:00",
+   "kelimeler": [
+    "bile",
+    "cikar",
+    "grami",
+    "iran",
+    "tek",
+    "ulkem",
+    "urany",
+    "zengi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3fd6b071a0b2": {
+   "id": "3fd6b071a0b2",
+   "kaynak": "TRT Haber",
+   "baslik": "Eyüpsultan'da İBB'ye ağaç tepkisi",
+   "ozet": "İstanbul Eyüpsultanda, tramvay hattı çalışması gerekçesiyle taşınacağı açıklanan asırlık ağaçların kesildiği iddia edildi. Mahalle sakinleri İstanbul Büyükşehir Belediyesi ekiplerine tepki gösterdi. Olay yerine polis çağrıldı, çalışmalar durduruldu.",
+   "link": "https://www.trthaber.com/haber/gundem/eyupsultanda-ibbye-agac-tepkisi-960704.html",
+   "zaman": "2026-10-21T07:22:00+03:00",
+   "kelimeler": [
+    "agac",
+    "eyups",
+    "ibb",
+    "tepki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d425b37f016": {
+   "id": "2d425b37f016",
+   "kaynak": "Hürriyet",
+   "baslik": "Evinde otururken üzerine tavan çöktü!",
+   "ozet": "Kayseri’de bir apartman dairesinde oturan F.Ö. (75), tavandan kopan moloz yığını altında kalarak yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/evinde-otururken-uzerine-tavan-coktu-43349176",
+   "zaman": "2026-10-21T07:37:47+03:00",
+   "kelimeler": [
+    "coktu",
+    "evind",
+    "oturu",
+    "tavan",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6e8045255992": {
+   "id": "6e8045255992",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Medine-i Münevvere ve doğu bölgesinde 5 insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi/4095218",
+   "zaman": "2026-10-21T07:39:31+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "bolge",
+    "dogu",
+    "iha",
+    "in",
+    "koali",
+    "medin",
+    "onlen",
+    "saldi",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 07:46:07  4 yeni haber",
   "21.10 07:16:00  11 yeni haber",
   "21.10 07:02:48  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · MS | 🇹🇷 Fenerbahçe 2-2 S.",
   "21.10 07:01:17  1 yeni haber",
@@ -25902,8 +25943,7 @@
   "19.10 03:31:13  1 yeni haber",
   "19.10 03:01:21  1 yeni haber",
   "19.10 02:46:00  1 yeni haber",
-  "19.10 01:46:03  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "19.10 01:19:12  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İsrail ordusunda görev yapan askerleri Türkiye'ye getirerek sağlık hiz"
+  "19.10 01:46:03  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
  ],
  "otomatik": false
 }
