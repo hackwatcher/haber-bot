@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "475ddb85597a": {
-   "id": "475ddb85597a",
-   "kaynak": "AA",
-   "baslik": "Baskı sanatının öncü ismi: Süleyman Saim Tekcan",
-   "ozet": "Türk özgün baskı sanatının ve modern resminin öncü isimlerinden, akademisyen, ressam ve sinema oyuncusu Prof. Dr. Süleyman Saim Tekcan, akademik ve sanatsal çalışmalarıyla iz bıraktı.",
-   "link": "https://www.aa.com.tr/tr/kultur/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan/4092825",
-   "zaman": "2026-10-18T19:35:19+03:00",
-   "kelimeler": [
-    "baski",
-    "ismi",
-    "oncu",
-    "saim",
-    "sanat",
-    "suley",
-    "tekca"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ca4f4a3d7075": {
-   "id": "ca4f4a3d7075",
-   "kaynak": "AA",
-   "baslik": "İsrail askerlerinden \"Gazze'de sivillerin hedef alındığı ve evlerin sistematik yıkıldığı\" itirafları",
-   "ozet": "İsrail'in Gazze'deki saldırılarına katılan askerler, sivillerin hedef alındığını, silahsız Filistinlilerin öldürüldüğünü, konutların sistematik biçimde yıkıldığını ve Filistinlilerin insan kalkanı olarak kullanıldığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinden-gazzede-sivillerin-hedef-alindigi-ve-evlerin-sistematik-yikildigi-itiraflari/4092823",
-   "zaman": "2026-10-18T19:33:43+03:00",
-   "kelimeler": [
-    "alind",
-    "asker",
-    "evler",
-    "gazze",
-    "hedef",
-    "israi",
-    "itira",
-    "siste",
-    "sivil",
-    "yikil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f4100c9c714a": {
    "id": "f4100c9c714a",
    "kaynak": "Hürriyet",
@@ -68,29 +27,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "ec65ea645b6e": {
-   "id": "ec65ea645b6e",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi, Keskin Nişancı Yarışması'nda dereceye giren takımları kutladı",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, İzmir Foça Jandarma Komando Eğitim Komutanlığında düzenlenen BORAN8 Uluslararası Keskin Nişancı Yarışması'nda dereceye giren takımları tebrik etti.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-keskin-nisanci-yarismasinda-dereceye-giren-takimlari-kutladi-960476.html",
-   "zaman": "2026-10-18T19:46:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "ciftc",
-    "derec",
-    "giren",
-    "keski",
-    "kutla",
-    "nda",
-    "nisan",
-    "takim",
-    "yaris"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f4100c9c714a"
   },
   "b30b95024180": {
    "id": "b30b95024180",
@@ -30865,8 +30801,17 @@
     "sorus",
     "yapil"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-21T19:48:22.190361+03:00",
+   "ig_id": "18095123903465293",
+   "reels_id": "18356966896222103",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1832505161366069",
+   "slayt": 6,
+   "kanca": "404 KİŞİYE ADLİ İŞLEM"
   },
   "72564f88afe4": {
    "id": "72564f88afe4",
@@ -31222,9 +31167,57 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "13d2e76ab81a": {
+   "id": "13d2e76ab81a",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Bolat: Türkiye dünyanın 11'inci büyük ekonomisi konumuna ulaştı",
+   "ozet": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dünyanın satın alma gücü paritesine göre 11'nci büyük ekonomisi konumuna ulaştığını ifade etti.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-turkiye-dunyanin-11inci-buyuk-ekonomisi-konumuna-ulasti-960807.html",
+   "zaman": "2026-10-21T19:26:00+03:00",
+   "kelimeler": [
+    "11",
+    "bakan",
+    "bolat",
+    "buyuk",
+    "dunya",
+    "ekono",
+    "inci",
+    "konum",
+    "turki",
+    "ulast"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72bf55320dce": {
+   "id": "72bf55320dce",
+   "kaynak": "AA",
+   "baslik": "Çin Japonya'ya itriyum ihracatını, \"nükleer silah sahibi olma girişimini engellemek için\" kısıtlıyor",
+   "ozet": "Çin, Japonya'ya nadir toprak elementi itriyum (Y) ihracatını azaltmasının amacının, bu ülkenin yeniden askerileşmesini ve nükleer silah sahibi olma girişimini engellemek olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-japonyaya-itriyum-ihracatini-nukleer-silah-sahibi-olma-girisimini-engellemek-icin-kisitliyor/4096292",
+   "zaman": "2026-10-21T19:36:18+03:00",
+   "kelimeler": [
+    "cin",
+    "engel",
+    "giris",
+    "ihrac",
+    "itriy",
+    "japon",
+    "kisit",
+    "nukle",
+    "olma",
+    "sahib",
+    "silah",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 19:48:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bakan Gürlek açıkladı: Fon soruşturmasında 404 kişi hakkında adli işle",
+  "21.10 19:46:07  2 yeni haber",
   "21.10 19:31:03  3 yeni haber",
   "21.10 19:16:06  5 yeni haber",
   "21.10 19:01:25  7 yeni haber",
@@ -31422,9 +31415,7 @@
   "19.10 18:45:57  4 yeni haber",
   "19.10 18:31:13  3 yeni haber",
   "19.10 18:15:58  2 yeni haber",
-  "19.10 18:01:21  5 yeni haber",
-  "19.10 17:45:56  3 yeni haber",
-  "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu"
+  "19.10 18:01:21  5 yeni haber"
  ],
  "otomatik": false
 }
