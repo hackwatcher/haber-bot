@@ -1,97 +1,5 @@
 {
  "haberler": {
-  "487f2f9a596c": {
-   "id": "487f2f9a596c",
-   "kaynak": "TRT Haber",
-   "baslik": "Milli futbolcu Arda Güler'den jeneriklik gol",
-   "ozet": "Milli futbolcu Arda Güler, Real Madrid'in Sevilla ile oynadığı maçta şık bir gole imza attı.",
-   "link": "https://www.trthaber.com/haber/spor/milli-futbolcu-arda-gulerden-jeneriklik-gol-960483.html",
-   "zaman": "2026-10-19T00:03:00+03:00",
-   "kelimeler": [
-    "arda",
-    "den",
-    "futbo",
-    "gol",
-    "guler",
-    "jener",
-    "milli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "bc4c36a54a34": {
-   "id": "bc4c36a54a34",
-   "kaynak": "AA",
-   "baslik": "Milli futbolcu Arda Güler'in gol attığı maçta Real Madrid, Sevilla'yı 4-1 yendi",
-   "ozet": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler'in 1 gol attığı maçta Sevilla'yı 4-1 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-futbolcu-arda-gulerin-gol-attigi-macta-real-madrid-sevillayi-4-1-yendi/4092927",
-   "zaman": "2026-10-19T00:03:47+03:00",
-   "kelimeler": [
-    "arda",
-    "attig",
-    "futbo",
-    "gol",
-    "guler",
-    "in",
-    "macta",
-    "madri",
-    "milli",
-    "real",
-    "sevil",
-    "yendi",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "487f2f9a596c"
-  },
-  "e6f006b3a46e": {
-   "id": "e6f006b3a46e",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda bir petrol tankerinin mayına çarptığını açıkladı",
-   "ozet": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın güneyinde İran'ın belirlediği güzergah ve kuralları ihlal ettiği öne sürülen bir petrol tankerinin deniz mayınına çarptığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-petrol-tankerinin-mayina-carptigini-acikladi/4092928",
-   "zaman": "2026-10-19T00:04:51+03:00",
-   "kelimeler": [
-    "bogaz",
-    "carpt",
-    "devri",
-    "hurmu",
-    "iran",
-    "mayin",
-    "muhaf",
-    "nda",
-    "ordus",
-    "petro",
-    "tanke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "3f4594ea2f88": {
-   "id": "3f4594ea2f88",
-   "kaynak": "Hürriyet",
-   "baslik": "Pilav günü etkinliği kâbusa döndü! 100 kişi hastanelik oldu",
-   "ozet": "Bursa’nın İnegöl ilçesinde düzenlenen geleneksel pilav günü etkinliğinde ikram edilen tavuklu pilavı yiyen yaklaşık 100 kişi, mide bulantısı ve kusma şikâyetleriyle hastaneye başvurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/pilav-gunu-etkinligi-kabusa-dondu-100-kisi-hastanelik-oldu-43346628",
-   "zaman": "2026-10-19T00:09:35+03:00",
-   "kelimeler": [
-    "100",
-    "dondu",
-    "etkin",
-    "gunu",
-    "hasta",
-    "kabus",
-    "kisi",
-    "pilav"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b74bbc90b396": {
    "id": "b74bbc90b396",
    "kaynak": "TRT Haber",
@@ -32081,7 +31989,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "2307d6638707": {
@@ -32311,6 +32220,26 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "ddc460402390"
+  },
+  "2390d9d4bf12": {
+   "id": "2390d9d4bf12",
+   "kaynak": "Hürriyet",
+   "baslik": "Siber Güvenlik Başkanlığı’ndan ulusal çapta siber güvenlik uyarısı",
+   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısındaki kritik güvenlik zafiyetlerine karşı ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligindan-ulusal-capta-siber-guvenlik-uyarisi-43350368",
+   "zaman": "2026-10-21T23:52:19+03:00",
+   "kelimeler": [
+    "baska",
+    "capta",
+    "guven",
+    "ndan",
+    "siber",
+    "ulusa",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dbc2880fb176"
   }
  },
  "kayit": [
