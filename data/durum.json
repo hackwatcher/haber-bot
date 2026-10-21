@@ -47,47 +47,6 @@
     "AA"
    ]
   },
-  "e95248231c43": {
-   "id": "e95248231c43",
-   "kaynak": "AA",
-   "baslik": "Kırklareli'nde ilaç fabrikasında çıkan yangına müdahale ediliyor",
-   "ozet": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangina-mudahale-ediliyor/4092747",
-   "zaman": "2026-10-18T17:33:19+03:00",
-   "kelimeler": [
-    "cikan",
-    "edili",
-    "fabri",
-    "ilac",
-    "kirkl",
-    "mudah",
-    "nde",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "ae359f627827": {
-   "id": "ae359f627827",
-   "kaynak": "NTV",
-   "baslik": "Ayazağa'da son durum. Binalar yıkıldı, enkaz kaldırılıyor",
-   "ozet": "İstanbul'da selin vurduğu Ayazağa Mahallesi'nde dere yatağı üzerine inşa edilmiş yapılar yıkıldı, enkaz kaldırma çalışmaları sürüyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-ayazagada-son-durum-binalar-yikildi-enkaz-kaldiriliyor-1746894",
-   "zaman": "2026-10-18T17:34:53+03:00",
-   "kelimeler": [
-    "ayaza",
-    "binal",
-    "durum",
-    "enkaz",
-    "kaldi",
-    "yikil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "692c8211f144": {
    "id": "692c8211f144",
    "kaynak": "NTV",
@@ -260,28 +219,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "821d9948b82c"
-  },
-  "53003b8c3869": {
-   "id": "53003b8c3869",
-   "kaynak": "AA",
-   "baslik": "Kırklareli'nde ilaç fabrikasında çıkan yangın kontrol altına alındı",
-   "ozet": "Kırklareli'nin Vize ilçesinde ilaç fabrikasında çıkan yangın, kontrol altına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangin-kontrol-altina-alindi/4092747",
-   "zaman": "2026-10-18T17:33:19+03:00",
-   "kelimeler": [
-    "alind",
-    "altin",
-    "cikan",
-    "fabri",
-    "ilac",
-    "kirkl",
-    "kontr",
-    "nde",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e95248231c43"
   },
   "1cb3c50c7db3": {
    "id": "1cb3c50c7db3",
@@ -30122,7 +30059,10 @@
     "yasak"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9736068fbc0b": {
    "id": "9736068fbc0b",
@@ -30363,9 +30303,173 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9736068fbc0b"
+  },
+  "4a98a0084f12": {
+   "id": "4a98a0084f12",
+   "kaynak": "TRT Haber",
+   "baslik": "Eli kanlı İsrailin İran planına Trumptan ret",
+   "ozet": "Financial Timesın üç kaynağa dayandırdığı habere göre, eli kanlı Netanyahu, İrana yönelik saldırılar için orduya plan hazırlattığı Trumpın ise ABDdeki ara seçimler öncesinde çatışmaların yeniden başlamasına karşı çıktığı öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israilin-iran-planina-trumptan-ret-960790.html",
+   "zaman": "2026-10-21T17:06:00+03:00",
+   "kelimeler": [
+    "eli",
+    "iran",
+    "israi",
+    "kanli",
+    "plani",
+    "ret",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "038e3812aa63": {
+   "id": "038e3812aa63",
+   "kaynak": "Hürriyet",
+   "baslik": "DMM'den Doğu Akdeniz ve Libya mutabakatına ilişkin dezenformasyon uyarısı",
+   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'nı hedef alarak Türkiye'nin Doğu Akdeniz'i istikrarsızlaştırdığı yönündeki iddiaların açık bir manipülasyon ve dezenformasyon olduğunu duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/dmmden-dogu-akdeniz-ve-libya-mutabakatina-iliskin-dezenformasyon-uyarisi-43350095",
+   "zaman": "2026-10-21T17:20:18+03:00",
+   "kelimeler": [
+    "akden",
+    "den",
+    "dezen",
+    "dmm",
+    "dogu",
+    "ilisk",
+    "libya",
+    "mutab",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c22a974afacc": {
+   "id": "c22a974afacc",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da hafta sonu yapılacak olan gösteriler yasaklandı",
+   "ozet": "Fransada 17 Ekimde şiddet olaylarının yaşandığı sarı yelekliler eylemlerinin ardından hükümet bazı şehirlerde kısmi sokağa çıkma yasağı dahil tedbirleri sıkılaştırırken Toulon şehrinde 24 Ekimde yapılması planlanan eylemler yasaklandı.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-hafta-sonu-yapilacak-olan-gosteriler-yasaklandi-960792.html",
+   "zaman": "2026-10-21T17:21:00+03:00",
+   "kelimeler": [
+    "frans",
+    "goste",
+    "hafta",
+    "sonu",
+    "yapil",
+    "yasak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ebc2e384d2e2"
+  },
+  "1d6ce8de68f2": {
+   "id": "1d6ce8de68f2",
+   "kaynak": "TRT Haber",
+   "baslik": "ABden SpaceXe Ukraynada hizmetleri yeniden başlatma çağrısı",
+   "ozet": "Avrupa Birliği AB Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı.",
+   "link": "https://www.trthaber.com/haber/dunya/abden-spacexe-ukraynada-hizmetleri-yeniden-baslatma-cagrisi-960794.html",
+   "zaman": "2026-10-21T17:27:00+03:00",
+   "kelimeler": [
+    "abden",
+    "basla",
+    "cagri",
+    "hizme",
+    "space",
+    "ukray",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c9d94369ca49": {
+   "id": "c9d94369ca49",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Kurultay Fenomeni\" adlı eser ve Tenzile Erdoğan portresi Cumhurbaşkanı Erdoğan'a takdim edildi",
+   "ozet": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Kazakistan Cumhurbaşkanı Tokayev'in ziyareti öncesinde Ankara'ya gelen Kazak heyetin, ilk yurt dışı tanıtımı Türkiye'de yapılan \"Kurultay Fenomeni\" kitabını ve merhum Tenzile Erdoğan'ın portresini Cumhurbaşkanı Recep Tayyip…",
+   "link": "https://www.hurriyet.com.tr/gundem/kurultay-fenomeni-adli-eser-ve-tenzile-erdogan-portresi-cumhurbaskani-erdogana-takdim-edildi-43350114",
+   "zaman": "2026-10-21T17:28:00+03:00",
+   "kelimeler": [
+    "adli",
+    "cumhu",
+    "edild",
+    "erdog",
+    "eser",
+    "fenom",
+    "kurul",
+    "portr",
+    "takdi",
+    "tenzi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "72d1346fa060": {
+   "id": "72d1346fa060",
+   "kaynak": "TRT Haber",
+   "baslik": "Paris ve Lyon'da kısmi sokağa çıkma yasağı 1 gün uzatıldı",
+   "ozet": "Fransada şiddet olaylarının yaşandığı sarı yelekliler eylemlerinin ardından bazı şehirlerde kısmi sokağa çıkma yasağı uygulanırken başkent Paris ve Lyon'daki yasağın 1 gün daha uzatıldığı bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/paris-ve-lyonda-kismi-sokaga-cikma-yasagi-1-gun-uzatildi-960795.html",
+   "zaman": "2026-10-21T17:35:00+03:00",
+   "kelimeler": [
+    "cikma",
+    "gun",
+    "kismi",
+    "lyon",
+    "paris",
+    "sokag",
+    "uzati",
+    "yasag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "09298d8c1bd5": {
+   "id": "09298d8c1bd5",
+   "kaynak": "AA",
+   "baslik": "Türkiye, Katar, Pakistan ve Endonezya'dan savunma sanayisinde \"Bedir\" ile stratejik işbirliği",
+   "ozet": "Türkiye'nin, ortak projelerde savunma sanayisi aracılığıyla en büyük payı alması bekleniyor",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-katar-pakistan-ve-endonezyadan-savunma-sanayisinde-bedir-ile-stratejik-isbirligi/4096144",
+   "zaman": "2026-10-21T17:37:54+03:00",
+   "kelimeler": [
+    "bedir",
+    "dan",
+    "endon",
+    "isbir",
+    "katar",
+    "pakis",
+    "sanay",
+    "savun",
+    "strat",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "26e6180c5c92"
+  },
+  "69c0c3e0c941": {
+   "id": "69c0c3e0c941",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke Ortak Savunma Anlaşması Dışişleri Komisyonu'nda",
+   "ozet": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın onaylanmasına ilişkin kanun teklifi, TBMM Dışişleri Komisyonu'na sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mekke-ortak-savunma-anlasmasi-disisleri-komisyonunda-43350133",
+   "zaman": "2026-10-21T17:38:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "disis",
+    "komis",
+    "mekke",
+    "nda",
+    "ortak",
+    "savun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 17:46:06  5 yeni haber",
   "21.10 17:31:12  5 yeni haber",
   "21.10 17:18:55  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yemek kuryesi süsü verdiler, uyuşturucuyu bulaşık makinesine gizledile",
   "21.10 17:16:08  10 yeni haber",
@@ -30564,8 +30668,7 @@
   "19.10 16:56:27  5 yeni haber",
   "19.10 16:46:08  8 yeni haber",
   "19.10 16:31:15  11 yeni haber",
-  "19.10 16:15:57  5 yeni haber",
-  "19.10 16:01:30  8 yeni haber"
+  "19.10 16:15:57  5 yeni haber"
  ],
  "otomatik": false
 }
