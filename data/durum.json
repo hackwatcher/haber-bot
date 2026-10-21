@@ -1,95 +1,5 @@
 {
  "haberler": {
-  "0128eed8edd9": {
-   "id": "0128eed8edd9",
-   "kaynak": "Sözcü",
-   "baslik": "AKP'li Metin Külünk'ten 'fon listesi' uyarısı: Erdoğan'ı devirmek isteyenlere fırsat veriyorsunuz",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/metin-kulunk-fon-paylasimi-p370389",
-   "zaman": "2026-10-18T18:43:14+03:00",
-   "kelimeler": [
-    "akp",
-    "devir",
-    "erdog",
-    "firsa",
-    "fon",
-    "istey",
-    "kulun",
-    "li",
-    "liste",
-    "metin",
-    "ten",
-    "uyari",
-    "veriy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "821d9948b82c": {
-   "id": "821d9948b82c",
-   "kaynak": "Sözcü",
-   "baslik": "Fon kurulundan altıncı toplantı!",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/fon-kurulundan-altinci-toplanti-p370391",
-   "zaman": "2026-10-18T18:44:33+03:00",
-   "kelimeler": [
-    "altin",
-    "fon",
-    "kurul",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet",
-    "NTV",
-    "AA"
-   ]
-  },
-  "13038c97d92f": {
-   "id": "13038c97d92f",
-   "kaynak": "TRT Haber",
-   "baslik": "Altıncı Fon Kurulu Toplantısı gerçekleştirdi",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında, Altıncı Fon Kurulu Toplantısı gerçekleştirdi. İletişim Başkanlığı'ndan yapılan açıklamada, önümüzdeki hafta, başta para piyasası fonlarında yer alanlar olmak üzere azami sayıda kişiye ödeme yapılmasının planlandığı belirtildi.",
-   "link": "https://www.trthaber.com/haber/gundem/altinci-fon-kurulu-toplantisi-gerceklestirdi-960475.html",
-   "zaman": "2026-10-18T18:43:00+03:00",
-   "kelimeler": [
-    "altin",
-    "fon",
-    "gerce",
-    "kurul",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "821d9948b82c"
-  },
-  "03fcd2e0030d": {
-   "id": "03fcd2e0030d",
-   "kaynak": "Hürriyet",
-   "baslik": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
-   "ozet": "İletişim Başkanlığı, açıklamasında “Altıncı Fon Kurulu Toplantısı Cumhurbaşkanı Yardımcımızın başkanlığında gerçekleştirilmiştir. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıklarımız ile ilgili kurum ve kuruluşları katılmıştır.” yer verdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/altinci-fon-kurulu-toplantisi-gerceklesti-43346459",
-   "zaman": "2026-10-18T18:44:00+03:00",
-   "kelimeler": [
-    "erdi",
-    "fon",
-    "gorus",
-    "hafta",
-    "kanun",
-    "kurul",
-    "nci",
-    "nun",
-    "sona",
-    "tbmm",
-    "tekli",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "821d9948b82c"
-  },
   "34808ca53365": {
    "id": "34808ca53365",
    "kaynak": "NTV",
@@ -15104,7 +15014,10 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0ffd4c5f38f7": {
    "id": "0ffd4c5f38f7",
@@ -30878,9 +30791,126 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "22ea06adc3e6"
+  },
+  "3423cf6a8c10": {
+   "id": "3423cf6a8c10",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu, seçim propagandası endişesiyle Netanyahu'nun konuşmasını canlı yayınlamadı",
+   "ozet": "İsrail ordusu, Başbakan Binyamin Netanyahu'nun bugün askeri mezuniyet töreninde yapacağı konuşmayı seçim propagandası olarak kullanabileceği endişesiyle canlı yayınlatmama kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-secim-propagandasi-endisesiyle-netanyahunun-konusmasini-canli-yayinlamadi/4096188",
+   "zaman": "2026-10-21T18:11:31+03:00",
+   "kelimeler": [
+    "endis",
+    "israi",
+    "konus",
+    "netan",
+    "nun",
+    "ordus",
+    "propa",
+    "secim",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3e8fefd5bdc1": {
+   "id": "3e8fefd5bdc1",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan Azerbaycan Cumhurbaşkanı Aliyev ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-960802.html",
+   "zaman": "2026-10-21T18:28:00+03:00",
+   "kelimeler": [
+    "aliye",
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "beedd9694a13": {
+   "id": "beedd9694a13",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan ve Aliyev telefonda görüştü",
+   "ozet": "Cumhurbaşkanı Erdoğan ve Azerbaycan Cumhurbaşkanı Aliyev telefonda görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ve-aliyev-telefonda-gorustu-1747376",
+   "zaman": "2026-10-21T18:32:01+03:00",
+   "kelimeler": [
+    "aliye",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "telef"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "dc6c7a0d03be": {
+   "id": "dc6c7a0d03be",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Azerbaycan Cumhurbaşkanı Aliyev ile telefonda görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile telefonda görüştü. Görüşmede, Türkiye-Azerbaycan ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-telefonda-gorustu/4096205",
+   "zaman": "2026-10-21T18:34:07+03:00",
+   "kelimeler": [
+    "aliye",
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "telef"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "218e88554937": {
+   "id": "218e88554937",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD, Rusya ve Ukrayna üçlü görüşme yapacak",
+   "ozet": "ABD'li yetkili, Rusya'nın Ukrayna ile üçlü görüşme yapılması yönündeki ABD teklifini kabul ettiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-rusya-ve-ukrayna-uclu-gorusme-yapacak-960803.html",
+   "zaman": "2026-10-21T18:37:00+03:00",
+   "kelimeler": [
+    "abd",
+    "gorus",
+    "rusya",
+    "uclu",
+    "ukray",
+    "yapac"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "25d96ccfd034"
+  },
+  "f78608edff6f": {
+   "id": "f78608edff6f",
+   "kaynak": "Sözcü",
+   "baslik": "Azerbaycan ile Türkiye arasında iplerin gerildiği günlerde... Erdoğan ile Aliyev görüştü",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/erdogan-aliyev-gorusmesi-21-ekim-2026-p371428",
+   "zaman": "2026-10-21T18:44:49+03:00",
+   "kelimeler": [
+    "aliye",
+    "arasi",
+    "azerb",
+    "erdog",
+    "geril",
+    "gorus",
+    "gunle",
+    "ipler",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 18:46:07  2 yeni haber",
   "21.10 18:31:16  7 yeni haber",
   "21.10 18:16:00  5 yeni haber",
   "21.10 18:01:27  4 yeni haber",
@@ -31079,8 +31109,7 @@
   "19.10 17:32:15  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Sermaye Piyasası Kurulu (SPK) Başkanı Sütçü, istifasını sundu",
   "19.10 17:31:12  7 yeni haber",
   "19.10 17:16:08  1 yeni haber",
-  "19.10 17:01:38  1 yeni haber",
-  "19.10 16:56:27  5 yeni haber"
+  "19.10 17:01:38  1 yeni haber"
  ],
  "otomatik": false
 }
