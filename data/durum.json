@@ -1201,27 +1201,6 @@
     "AA"
    ]
   },
-  "d6202d6c23db": {
-   "id": "d6202d6c23db",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'de bir aracın futbol sahasındakilere çarpması sonucu 2 kişi öldü, 11 kişi yaralandı",
-   "ozet": "ABD'nin Kansas eyaletindeki Wichita kentinde bir aracın futbol sahasındakilere çarpması sonucu biri 6 yaşındaki çocuk olmak üzere 2 kişi hayatını kaybetti, 11 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-bir-aracin-futbol-sahasindakilere-carpmasi-sonucu-2-kisi-oldu-11-kisi-yaralandi-960449.html",
-   "zaman": "2026-10-18T09:57:00+03:00",
-   "kelimeler": [
-    "11",
-    "abd",
-    "araci",
-    "carpm",
-    "futbo",
-    "kisi",
-    "sahas",
-    "sonuc",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "952633ce70c1": {
    "id": "952633ce70c1",
    "kaynak": "TRT Haber",
@@ -26124,7 +26103,10 @@
     "zeus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cb6f49fef407": {
    "id": "cb6f49fef407",
@@ -26170,7 +26152,10 @@
     "yakit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bcc26772fffa": {
    "id": "bcc26772fffa",
@@ -26242,9 +26227,280 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b9c8f8ec5fc5"
+  },
+  "3618a14ffb60": {
+   "id": "3618a14ffb60",
+   "kaynak": "TRT Haber",
+   "baslik": "Brent petrolün varili 110,34 dolardan işlem görüyor",
+   "ozet": "Brent petrolün varili, uluslararası vadeli piyasalarda 110,34 dolardan işlem görüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/brent-petrolun-varili-11034-dolardan-islem-goruyor-960719.html",
+   "zaman": "2026-10-21T09:38:00+03:00",
+   "kelimeler": [
+    "110",
+    "34",
+    "brent",
+    "dolar",
+    "goruy",
+    "islem",
+    "petro",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "888bfe4ca6f0": {
+   "id": "888bfe4ca6f0",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump'ın gazetecileri Beyaz Saray'dan çıkarma planları tartışılıyor",
+   "ozet": "ABD Başkanı Donald Trump'ın, birkaç kez eski Beyaz Saray Sözcüsü Karoline Leavitt'e basın mensuplarının Beyaz Saray'daki James S. Brady Basın Brifing Salonu'ndan çıkarılması talimatını verdiği iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-gazetecileri-beyaz-saraydan-cikarma-planlari-tartisiliyor/4095277",
+   "zaman": "2026-10-21T09:41:09+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "beyaz",
+    "cikar",
+    "dan",
+    "gazet",
+    "in",
+    "planl",
+    "saray",
+    "tarti",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "200191e33e20": {
+   "id": "200191e33e20",
+   "kaynak": "AA",
+   "baslik": "ABD Savunma Bakanı Hegseth, Ukrayna'ya yönelik tutumlarının değişmediğini söyledi",
+   "ozet": "ABD Savunma Bakanı Hegseth, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadığı iddialarının ardından, bu ülkeye yönelik tutumlarının değişmediğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-savunma-bakani-hegseth-ukraynaya-yonelik-tutumlarinin-degismedigini-soyledi/4095278",
+   "zaman": "2026-10-21T09:41:22+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "degis",
+    "hegse",
+    "savun",
+    "soyle",
+    "tutum",
+    "ukray",
+    "ya",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d505dfb84cd1": {
+   "id": "d505dfb84cd1",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump'ın gazetecileri Beyaz Saray'dan çıkarma planları tartışılıyor",
+   "ozet": "Donald Trump'ın, birkaç kez eski Beyaz Saray Sözcüsü Karoline Leavitt'e basın mensuplarının Beyaz Saray'daki James S. Brady Basın Brifing Salonu'ndan çıkarılması talimatını verdiği iddia edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/trumpin-gazetecileri-beyaz-saraydan-cikarma-planlari-tartisiliyor-960721.html",
+   "zaman": "2026-10-21T09:43:00+03:00",
+   "kelimeler": [
+    "beyaz",
+    "cikar",
+    "dan",
+    "gazet",
+    "in",
+    "planl",
+    "saray",
+    "tarti",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "888bfe4ca6f0"
+  },
+  "9d8daa987ce8": {
+   "id": "9d8daa987ce8",
+   "kaynak": "TRT Haber",
+   "baslik": "2 bin yıllık Zeus heykel başı ele geçirildi",
+   "ozet": "İzmir'in Konak ilçesinde, Roma dönemine ait ve yaklaşık 2 bin yıllık olduğu değerlendirilen mermer Zeus heykel başı ele geçirildi, 3 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/2-bin-yillik-zeus-heykel-basi-ele-gecirildi-960720.html",
+   "zaman": "2026-10-21T09:43:00+03:00",
+   "kelimeler": [
+    "basi",
+    "bin",
+    "ele",
+    "gecir",
+    "heyke",
+    "yilli",
+    "zeus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2abdd4ae3e90"
+  },
+  "91c63fd07126": {
+   "id": "91c63fd07126",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında 31 yeni gözaltı kararı verildi",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu, SPK incelemeleri sonucunda 4 şirketin hisselerindeki şüpheli işlemlere yönelik 31 kişi hakkında gözaltı kararı çıkardı. Operasyonda kapsamında 26 kişi gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-31-gozalti-karari-43349274",
+   "zaman": "2026-10-21T09:44:00+03:00",
+   "kelimeler": [
+    "31",
+    "fon",
+    "gozal",
+    "karar",
+    "sorus",
+    "veril",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
+  },
+  "6701fd5dc50b": {
+   "id": "6701fd5dc50b",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, UEFA Konferans Ligi'nde yarın sahasında Hearts ile karşılaşacak",
+   "ozet": "Trabzonspor, UEFA Konferans Ligi'nin ikinci haftasında yarın İskoçya'nın Hearts takımını konuk edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-uefa-konferans-liginde-yarin-sahasinda-hearts-ile-karsilasacak/4095285",
+   "zaman": "2026-10-21T09:44:14+03:00",
+   "kelimeler": [
+    "heart",
+    "karsi",
+    "konfe",
+    "ligi",
+    "nde",
+    "sahas",
+    "trabz",
+    "uefa",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d63162f168ef": {
+   "id": "d63162f168ef",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'de hastane jeneratörlerini çalıştırmak için gerekli yakıt tükendi",
+   "ozet": "Soykırımcı İsrail ordusunun saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'ndeki hastanelerde jeneratörleri çalıştırmak için gerekli yakıtın tükendiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-hastane-jeneratorlerini-calistirmak-icin-gerekli-yakit-tukendi-960723.html",
+   "zaman": "2026-10-21T09:46:00+03:00",
+   "kelimeler": [
+    "calis",
+    "gazze",
+    "gerek",
+    "hasta",
+    "jener",
+    "tuken",
+    "yakit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a7dbc632c7c3"
+  },
+  "88d421225658": {
+   "id": "88d421225658",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturması kapsamında 26 kişi gözaltına alındı",
+   "ozet": "Fon soruşturması kapsamında hakkında gözaltı kararı verilen 31 şüpheliden 26'sı gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-kapsaminda-26-kisi-gozaltina-alindi-960722.html",
+   "zaman": "2026-10-21T09:46:00+03:00",
+   "kelimeler": [
+    "26",
+    "alind",
+    "fon",
+    "gozal",
+    "kapsa",
+    "kisi",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c15dbe8a7a32": {
+   "id": "c15dbe8a7a32",
+   "kaynak": "AA",
+   "baslik": "Trump, veri merkezlerine kendi elektriklerini üretmeleri ve yerel halka kar payı ödemeleri çağrısı yaptı",
+   "ozet": "ABD Başkanı Trump, yapay zeka veri merkezlerinin elektrik fiyatlarındaki artışı önlemek için kendi enerjilerini üretmeleri ve yerel halkın desteğini kazanmak amacıyla bölge sakinlerine kar payı ödemeleri gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-veri-merkezlerine-kendi-elektriklerini-uretmeleri-ve-yerel-halka-kar-payi-odemeleri-cagrisi-yapti/4095294",
+   "zaman": "2026-10-21T09:52:33+03:00",
+   "kelimeler": [
+    "cagri",
+    "elekt",
+    "halka",
+    "kar",
+    "kendi",
+    "merke",
+    "odeme",
+    "payi",
+    "trump",
+    "uretm",
+    "veri",
+    "yapti",
+    "yerel"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f9a19599eef0": {
+   "id": "f9a19599eef0",
+   "kaynak": "Hürriyet",
+   "baslik": "Sıcaklıklar düşüyor: Sağanak yağış geri dönüyor | Meteoroloji tarih verdi: İstanbul dahil birçok ilde etkili olacak",
+   "ozet": "Geçtiğimiz hafta sele neden olan yağışların ardından yurt genelinde hakim olan bahar havası sona eriyor. Meteoroloji Genel Müdürlüğü (MGM), cuma gününden itibaren batı kesimlerden başlayarak yeni bir yağışlı sistemin etki alanına girileceğini bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sicakliklar-dusuyor-saganak-yagis-geri-donuyor-meteoroloji-tarih-verdi-istanbul-dahil-bircok-ilde-etkili-olacak-43349265",
+   "zaman": "2026-10-21T09:57:26+03:00",
+   "kelimeler": [
+    "birco",
+    "dahil",
+    "donuy",
+    "dusuy",
+    "etkil",
+    "geri",
+    "ilde",
+    "istan",
+    "meteo",
+    "olaca",
+    "sagan",
+    "sicak",
+    "tarih",
+    "verdi",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70790bc67e7b": {
+   "id": "70790bc67e7b",
+   "kaynak": "XHABER",
+   "baslik": "Fon soruşturması kapsamında 31 kişi hakkında gözaltı kararı verildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30301",
+   "zaman": "2026-10-21T10:00:27+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Fon soruşturması kapsamında 31 kişi hakkında gözaltı kararı verildi.",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "31",
+    "fon",
+    "gozal",
+    "hakki",
+    "kapsa",
+    "karar",
+    "kisi",
+    "sorus",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "91c63fd07126"
   }
  },
  "kayit": [
+  "21.10 10:01:28  8 yeni haber",
   "21.10 09:42:52  5 yeni haber",
   "21.10 09:34:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 ölü",
   "21.10 09:31:06  7 yeni haber",
@@ -26443,8 +26699,7 @@
   "19.10 09:01:20  4 yeni haber",
   "19.10 08:46:08  1 yeni haber",
   "19.10 08:16:01  1 yeni haber",
-  "19.10 08:01:22  1 yeni haber",
-  "19.10 07:46:05  1 yeni haber"
+  "19.10 08:01:22  1 yeni haber"
  ],
  "otomatik": false
 }
