@@ -1,102 +1,5 @@
 {
  "haberler": {
-  "3ed61b1d0e4b": {
-   "id": "3ed61b1d0e4b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Nobel ödüllerinde cinsiyet ayrımı var mı: 'İstatistiklere göre cevap: Evet'",
-   "ozet": "Tıp, fizik, kimya ve 1969 yılından bu yana verilen ekonomi gibi bilim alanlarındaki ödüllerde kadınların tarihsel temsiliyeti özellikle düşük. 1901 ve 2026 yılları arasında bu dört disiplinde verilen 769 ödülden yalnızca 30'u kadınlara verildi.",
-   "link": "https://www.bbc.com/turkce/articles/c63el5jql99po",
-   "zaman": "2026-10-18T10:04:35+03:00",
-   "kelimeler": [
-    "ayrim",
-    "cevap",
-    "cinsi",
-    "evet",
-    "gore",
-    "istat",
-    "nobel",
-    "odull"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "123c7827b1d0": {
-   "id": "123c7827b1d0",
-   "kaynak": "BBC Türkçe",
-   "baslik": "BBC araştırması: İsrail ordusu yüzlerce iç soruşturmasının sonuçlarını kamuoyuna açıklamadı",
-   "ozet": "BBC'nin doğrulama birimi BBC Verify, İsrail ordusunun insanları öldürmek ve yaralamakla suçlandığı 254 olayla ilgili açılan soruşturmaların sonuçlarının kamuoyuna açıklanmadığını tespit etti. Bu olaylar, Gazze, işgal altındaki Batı Şeria, Lübnan ve İsrail'de gerçekleşti.",
-   "link": "https://www.bbc.com/turkce/articles/cqdjv982nl4eo",
-   "zaman": "2026-10-18T10:05:49+03:00",
-   "kelimeler": [
-    "acikl",
-    "arast",
-    "bbc",
-    "ic",
-    "israi",
-    "kamuo",
-    "ordus",
-    "sonuc",
-    "sorus",
-    "yuzle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "acba2f070213": {
-   "id": "acba2f070213",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Neandertallerin yaşamında şiddet ne kadar yaygındı?",
-   "ozet": "Arkeologlar, Kuzey Irak'taki bir mağarada bulunan, 75 bin yıl önce ölmüş bir Neandertal'in göğsünde açılan yaranın, en eski şiddet kanıtlarından biri olabileceğini söylüyor.",
-   "link": "https://www.bbc.com/turkce/articles/cq3dj43dr8vdo",
-   "zaman": "2026-10-18T10:07:07+03:00",
-   "kelimeler": [
-    "neand",
-    "sidde",
-    "yasam",
-    "yaygi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e85565ba8e86": {
-   "id": "e85565ba8e86",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Nordik dillerde neden 'lütfen' kelimesi bulunmuyor?",
-   "ozet": "Seyahat ederken nazik ve saygılı olmak çok önemli bir özellik, ancak \"lütfen\" kelimesinin bir karşılığının olmadığı bir yerde kendinizi nasıl kibarca ifade edebilirsiniz? Peki bu ülkelerde yaşayanlar kaba mı?",
-   "link": "https://www.bbc.com/turkce/articles/cwn73x7zpr5yo",
-   "zaman": "2026-10-18T10:08:12+03:00",
-   "kelimeler": [
-    "bulun",
-    "dille",
-    "kelim",
-    "lutfe",
-    "neden",
-    "nordi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "80112136b476": {
-   "id": "80112136b476",
-   "kaynak": "Hürriyet",
-   "baslik": "AK Partili Kasapoğlu: Ülkemizin her bir karışı çok özel zenginliklerle dolu",
-   "ozet": "Manisalılar Platformu tarafından Bornova Aşık Veysel Rekreasyon Alanı’nda ‘İzmir’de Manisa Kültür ve Sanat Festivali’ düzenlendi. Festivalde konuşan AK Parti İzmir Milletvekili Mehmet Muharrem Kasapoğlu, \"Ülkemizin her bir karışı çok özel zenginliklerle dolu.",
-   "link": "https://www.hurriyet.com.tr/gundem/ak-partili-kasapoglu-ulkemizin-her-bir-karisi-cok-ozel-zenginliklerle-dolu-43345847",
-   "zaman": "2026-10-18T10:10:00+03:00",
-   "kelimeler": [
-    "ak",
-    "dolu",
-    "her",
-    "karis",
-    "kasap",
-    "ozel",
-    "parti",
-    "ulkem",
-    "zengi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3da4d75c2195": {
    "id": "3da4d75c2195",
    "kaynak": "Hürriyet",
@@ -26294,7 +26197,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d505dfb84cd1": {
    "id": "d505dfb84cd1",
@@ -26497,9 +26403,198 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "91c63fd07126"
+  },
+  "2d1164bb15ab": {
+   "id": "2d1164bb15ab",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Savunma Bakanı Ukrayna'ya yönelik tutumlarının değişmediğini söyledi",
+   "ozet": "ABD Savunma Bakanı Pete Hegseth, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadığı iddialarının ardından, bu ülkeye yönelik tutumlarının değişmediğini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-ukraynaya-yonelik-tutumlarinin-degismedigini-soyledi-960724.html",
+   "zaman": "2026-10-21T09:50:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "degis",
+    "savun",
+    "soyle",
+    "tutum",
+    "ukray",
+    "ya",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "200191e33e20"
+  },
+  "7a376772d636": {
+   "id": "7a376772d636",
+   "kaynak": "AA",
+   "baslik": "Rusya: Ukrayna'da lojistik merkezlerini ve enerji altyapısını vurduk",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'daki bazı lojistik merkezlerini ve enerji altyapısını insansız hava araçlarıyla (İHA) vurduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-lojistik-merkezlerini-ve-enerji-altyapisini-vurduk/4095298",
+   "zaman": "2026-10-21T10:00:14+03:00",
+   "kelimeler": [
+    "altya",
+    "enerj",
+    "lojis",
+    "merke",
+    "rusya",
+    "ukray",
+    "vurdu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f8b06a0a2f88"
+  },
+  "b128f588ffae": {
+   "id": "b128f588ffae",
+   "kaynak": "AA",
+   "baslik": "Borsa güne düşüşle başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,55 azalışla 11.733,26 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4095300",
+   "zaman": "2026-10-21T10:01:08+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "dusus",
+    "gune"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "efdf25af2730": {
+   "id": "efdf25af2730",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş, UEFA Avrupa Ligi'nde yarın Crystal Palace ile karşılaşacak",
+   "ozet": "Tüpraş Stadı'nda oynanacak müsabaka, saat 22.00'de başlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-crystal-palace-ile-karsilasacak/4095301",
+   "zaman": "2026-10-21T10:02:26+03:00",
+   "kelimeler": [
+    "avrup",
+    "besik",
+    "cryst",
+    "karsi",
+    "ligi",
+    "nde",
+    "palac",
+    "uefa",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c910f3532da3": {
+   "id": "c910f3532da3",
+   "kaynak": "AA",
+   "baslik": "Emisyon Ticaret Sistemi'ne ilişkin kurallar belirlendi",
+   "ozet": "Türkiye'de net sıfır hedefine uygun sera gazı emisyonlarının piyasa temelli bir mekanizmayla azaltımını teşvik etmek amacıyla kurulacak piyasaların işletilmesine yönelik kurallar netleştirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/emisyon-ticaret-sistemine-iliskin-kurallar-belirlendi/4095302",
+   "zaman": "2026-10-21T10:03:51+03:00",
+   "kelimeler": [
+    "belir",
+    "emisy",
+    "ilisk",
+    "kural",
+    "siste",
+    "ticar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bcd04374295e": {
+   "id": "bcd04374295e",
+   "kaynak": "AA",
+   "baslik": "OpenAI, bazı yapay zeka modellerinin güvenlik izleme sistemlerini devre dışı bıraktığını açıkladı",
+   "ozet": "OpenAI, GPT-6.1 Sol ve GPT-6 Astra modellerinin şirket içindeki yazılım görevleri sırasında yapay zeka sistemlerindeki uyumsuzlukları tespit eden izleme mekanizmalarını devre dışı bıraktığını ve güvenlik uyarılarını engellediğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-bazi-yapay-zeka-modellerinin-guvenlik-izleme-sistemlerini-devre-disi-biraktigini-acikladi/4095308",
+   "zaman": "2026-10-21T10:08:25+03:00",
+   "kelimeler": [
+    "bazi",
+    "birak",
+    "devre",
+    "disi",
+    "guven",
+    "izlem",
+    "model",
+    "opena",
+    "siste",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "885a86db3c27": {
+   "id": "885a86db3c27",
+   "kaynak": "AA",
+   "baslik": "9 il merkezli dolandırıcılık ve yasa dışı bahis operasyonlarında 123 şüpheli yakalandı",
+   "ozet": "İçişleri Bakanlığı, Jandarma Genel Komutanlığı ekiplerince 9 ilde nitelikli dolandırıcılık ve yasa dışı bahis suçlarına yönelik düzenlenen operasyonlarda 123 şüphelinin yakalandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/9-il-merkezli-dolandiricilik-ve-yasa-disi-bahis-operasyonlarinda-123-supheli-yakalandi/4095309",
+   "zaman": "2026-10-21T10:08:39+03:00",
+   "kelimeler": [
+    "123",
+    "bahis",
+    "disi",
+    "dolan",
+    "il",
+    "merke",
+    "opera",
+    "suphe",
+    "yakal",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b3e1f4a40a17"
+  },
+  "25609b34e16d": {
+   "id": "25609b34e16d",
+   "kaynak": "AA",
+   "baslik": "İstanbul'daki sermaye piyasası işlemleri soruşturmalarında 31 şüpheli hakkında gözaltı kararı",
+   "ozet": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda 31 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-sermaye-piyasasi-islemleri-sorusturmalarinda-31-supheli-hakkinda-gozalti-karari/4095310",
+   "zaman": "2026-10-21T10:09:02+03:00",
+   "kelimeler": [
+    "31",
+    "daki",
+    "gozal",
+    "hakki",
+    "islem",
+    "istan",
+    "karar",
+    "piyas",
+    "serma",
+    "sorus",
+    "suphe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f2072199ad5": {
+   "id": "3f2072199ad5",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Zelenskiy ile görüşen ABD özel temsilcisi Witkoff, Rusya'da Putin ile biraraya gelecek",
+   "ozet": "Steve Witkoff, Rusya'nın Ukrayna ile yıllardır süren çatışmasını sona erdirmeye yönelik önerileri görüşmek üzere St. Petersburg'a gitti. Witkoff bundan önce Ukrayna Devlet Başkanı Volodimir Zelenskiy ile Oslo'da görüştü. Bir ABD yetkilisi görüşmeleri \"yapıcı\" olarak nitelendirdi.",
+   "link": "https://www.bbc.com/turkce/articles/cm8xzrxwggv8o",
+   "zaman": "2026-10-21T10:12:32+03:00",
+   "kelimeler": [
+    "abd",
+    "birar",
+    "gelec",
+    "gorus",
+    "ozel",
+    "putin",
+    "rusya",
+    "temsi",
+    "witko",
+    "zelen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 10:15:58  6 yeni haber",
   "21.10 10:01:28  8 yeni haber",
   "21.10 09:42:52  5 yeni haber",
   "21.10 09:34:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 ölü",
@@ -26698,8 +26793,7 @@
   "19.10 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fransa’da protestocular, yağmaladıkları bir mağazadan imzalı Messi for",
   "19.10 09:01:20  4 yeni haber",
   "19.10 08:46:08  1 yeni haber",
-  "19.10 08:16:01  1 yeni haber",
-  "19.10 08:01:22  1 yeni haber"
+  "19.10 08:16:01  1 yeni haber"
  ],
  "otomatik": false
 }
