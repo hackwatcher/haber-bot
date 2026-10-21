@@ -246,53 +246,6 @@
     "AA"
    ]
   },
-  "240835b3ccf5": {
-   "id": "240835b3ccf5",
-   "kaynak": "AA",
-   "baslik": "İran’ın yeni Savunma Bakanı Ahlaki'den ilk açıklama: Siyonistlerle savaşmak için parmağımız tetikte hazırız",
-   "ozet": "İran’ın yeni Savunma Bakanı Mehrdad Ahlaki Kitapçi, İsrail’in İran’a yönelik olası saldırılarına karşı hazırlık içerisinde olduklarını belirterek, \"Siyonistlerle savaşmak için parmağımız tetikte hazırız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-in-yeni-savunma-bakani-ahlakiden-ilk-aciklama-siyonistlerle-savasmak-icin-parmagimiz-tetikte-haziriz/4092678",
-   "zaman": "2026-10-18T15:52:18+03:00",
-   "kelimeler": [
-    "acikl",
-    "ahlak",
-    "bakan",
-    "den",
-    "hazir",
-    "ilk",
-    "in",
-    "iran",
-    "parma",
-    "savas",
-    "savun",
-    "siyon",
-    "tetik",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1924a4acde99": {
-   "id": "1924a4acde99",
-   "kaynak": "AA",
-   "baslik": "Pendik-Gebze sınırında sel sularına kapılan 2 kişiden biri bulundu",
-   "ozet": "İstanbul Valisi Gül, Pendik-Gebze sınırında sel sularına kapılan 2 kişiye ilişkin, \"Gebze'de olan kaza neticesinde oradaki vatandaşlarımız Pendik'e sürüklendiler. Aranan kişilerden biri bulundu, diğerinin arama çalışmaları devam ediyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/pendik-gebze-sinirinda-sel-sularina-kapilan-2-kisiden-biri-bulundu/4092683",
-   "zaman": "2026-10-18T15:57:40+03:00",
-   "kelimeler": [
-    "biri",
-    "bulun",
-    "gebze",
-    "kapil",
-    "kisid",
-    "pendi",
-    "sel",
-    "sinir",
-    "sular"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "9e8aa6eb1d49": {
    "id": "9e8aa6eb1d49",
    "kaynak": "AA",
@@ -15531,7 +15484,10 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ]
   },
   "12930da58afd": {
    "id": "12930da58afd",
@@ -25426,7 +25382,10 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bef958ac07c7": {
    "id": "bef958ac07c7",
@@ -29553,9 +29512,169 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3da8cb827f0f"
+  },
+  "c6094f0a0f4b": {
+   "id": "c6094f0a0f4b",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında yeni gelişme: Altınbaş Holding'in sahibi hakkında yakalama kararı",
+   "ozet": "Sermaye piyasası işlemlerine ilişkin soruşturmalar kapsamında Altınbaş Holding sahibi Nusret Altınbaş hakkında yakalama kararı çıkarıldı. Kardeşi İnan Altınbaş ise gözaltına alındı, diğer aile fertlerinin tüm malvarlıkları donduruldu.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-altinbas-holdingin-sahibi-hakkinda-yakalama-karari-960729.html",
+   "zaman": "2026-10-21T10:25:00+03:00",
+   "kelimeler": [
+    "altin",
+    "fon",
+    "gelis",
+    "hakki",
+    "holdi",
+    "in",
+    "karar",
+    "sahib",
+    "sorus",
+    "yakal",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f9024584fcc"
+  },
+  "1394ec805ffc": {
+   "id": "1394ec805ffc",
+   "kaynak": "TRT Haber",
+   "baslik": "Tıkanan mazgalı bastonuyla açan Remziye teyzeye Yalova Valisi Usta'dan ziyaret",
+   "ozet": "Yalovada sağanak sırasında evinin bulunduğu sokaktaki mazgalı yapraklarla tıkandığı için bastonuyla temizleyen 65 yaşındaki Remziye Kurşuna, Yalova Valisi Ahmet Hamdi Usta ziyarette bulunarak duyarlılığından dolayı teşekkür etti.",
+   "link": "https://www.trthaber.com/haber/turkiye/tikanan-mazgali-bastonuyla-acan-remziye-teyzeye-yalova-valisi-ustadan-ziyaret-960763.html",
+   "zaman": "2026-10-21T14:10:00+03:00",
+   "kelimeler": [
+    "acan",
+    "basto",
+    "dan",
+    "mazga",
+    "remzi",
+    "teyze",
+    "tikan",
+    "usta",
+    "valis",
+    "yalov",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e51afef8b85f"
+  },
+  "601d929ada1c": {
+   "id": "601d929ada1c",
+   "kaynak": "TRT Haber",
+   "baslik": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
+   "ozet": "Kanada Başbakanı Mark Carney yarın Türkiye'de olacak. Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine gelecek olan Carney iki gün Türkiye'de bulunacak.",
+   "link": "https://www.trthaber.com/haber/gundem/kanada-basbakani-mark-carney-turkiyeye-geliyor-960775.html",
+   "zaman": "2026-10-21T15:37:00+03:00",
+   "kelimeler": [
+    "basba",
+    "carne",
+    "geliy",
+    "kanad",
+    "mark",
+    "turki",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3da8cb827f0f"
+  },
+  "ff9fa6e332c5": {
+   "id": "ff9fa6e332c5",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail Filistinli gencin kanser hastası babasıyla vedalaşmasına izin vermedi",
+   "ozet": "Katil İsrailin alıkoyduğu Filistinli Yamen Amr, kanser hastası babasına son kez sarılamadı; oğlunun alıkonulmasına dayanamayan baba yalnızca 3 saat sonra hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-filistinli-gencin-kanser-hastasi-babasiyla-vedalasmasina-izin-vermedi-960776.html",
+   "zaman": "2026-10-21T15:47:00+03:00",
+   "kelimeler": [
+    "babas",
+    "filis",
+    "genci",
+    "hasta",
+    "israi",
+    "izin",
+    "kanse",
+    "katil",
+    "vedal",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "803289adad7b": {
+   "id": "803289adad7b",
+   "kaynak": "NTV",
+   "baslik": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
+   "ozet": "Kanada Başbakanı Mark Carney, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye geliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/kanada-basbakani-mark-carney-turkiyeye-geliyor-1747355",
+   "zaman": "2026-10-21T15:49:00+03:00",
+   "kelimeler": [
+    "basba",
+    "carne",
+    "geliy",
+    "kanad",
+    "mark",
+    "turki",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3da8cb827f0f"
+  },
+  "e5e224175ee8": {
+   "id": "e5e224175ee8",
+   "kaynak": "AA",
+   "baslik": "DMM, \"AFAD dalgıçlarının görevi bıraktığı ve su altı arama-kurtarma kapasitesinin yetersiz olduğu\" iddialarını yalanladı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"AFAD'ın dalgıçlarının toplu olarak görevi bıraktığı ve su altı arama-kurtarma kapasitesinin yetersiz olduğu\" yönündeki iddiaların asılsız olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/dmm-afad-dalgiclarinin-gorevi-biraktigi-ve-su-alti-arama-kurtarma-kapasitesinin-yetersiz-oldugu-iddialarini-yalanladi/4095974",
+   "zaman": "2026-10-21T15:49:44+03:00",
+   "kelimeler": [
+    "afad",
+    "alti",
+    "arama",
+    "birak",
+    "dalgi",
+    "dmm",
+    "gorev",
+    "iddia",
+    "kapas",
+    "kurta",
+    "oldug",
+    "su",
+    "yalan",
+    "yeter"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "862d9d183c2f": {
+   "id": "862d9d183c2f",
+   "kaynak": "NTV",
+   "baslik": "Ahmet Eşref Fakıbaba istifa etti, TBMM'deki sandalye dağılımı değişti",
+   "ozet": "Ankara Milletvekili Ahmet Eşref Fakıbaba'nın İYİ Parti'den istifa etmesiyle TBMM'deki sandalye dağılımı değişti.",
+   "link": "https://www.ntv.com.tr/turkiye/ahmet-esref-fakibaba-istifa-etti-tbmmdeki-sandalye-dagilimi-degisti-1747359",
+   "zaman": "2026-10-21T15:59:26+03:00",
+   "kelimeler": [
+    "ahmet",
+    "dagil",
+    "degis",
+    "deki",
+    "esref",
+    "etti",
+    "fakib",
+    "istif",
+    "sanda",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "87998786bf6e"
   }
  },
  "kayit": [
+  "21.10 16:01:29  2 yeni haber",
   "21.10 15:46:05  4 yeni haber",
   "21.10 15:31:22  1 yeni haber",
   "21.10 15:25:41  3 yeni haber",
@@ -29754,8 +29873,7 @@
   "19.10 15:16:11  8 yeni haber",
   "19.10 15:01:29  6 yeni haber",
   "19.10 14:45:54  5 yeni haber",
-  "19.10 14:31:17  8 yeni haber",
-  "19.10 14:19:01  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Millî mücadelenin tarihî mirası Nutuk sekiz dilde dünyaya ulaşacak"
+  "19.10 14:31:17  8 yeni haber"
  ],
  "otomatik": false
 }
