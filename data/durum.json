@@ -47,27 +47,6 @@
     "AA"
    ]
   },
-  "e4f7bab6e527": {
-   "id": "e4f7bab6e527",
-   "kaynak": "AA",
-   "baslik": "Trump, İsrail seçimlerinde Netanyahu'ya desteğini açıkladı",
-   "ozet": "ABD Başkanı Donald Trump, İsrail’de 27 Ekim’de yapılacak seçimler için İsrail Başbakanı Binyamin Netanyahu'ya destek verdiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-israil-secimlerinde-netanyahuya-destegini-acikladi/4092771",
-   "zaman": "2026-10-18T18:26:22+03:00",
-   "kelimeler": [
-    "deste",
-    "israi",
-    "netan",
-    "secim",
-    "trump",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "13038c97d92f": {
    "id": "13038c97d92f",
    "kaynak": "TRT Haber",
@@ -21027,7 +21006,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "f41bff1f16a6": {
@@ -30635,7 +30615,10 @@
     "temsi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "ab2cff1193d3": {
    "id": "ab2cff1193d3",
@@ -30678,9 +30661,227 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cfab655d01ae": {
+   "id": "cfab655d01ae",
+   "kaynak": "AA",
+   "baslik": "Kürşad Zorlu'dan Türk dünyasına uygun Özbek alfabesinin yürürlüğe girmesine ilişkin açıklama",
+   "ozet": "AK Parti Genel Başkan Yardımcısı, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk dünyasına uygun Özbek alfabesinin Özbekistan Cumhurbaşkanı Şevket Mirziyoyev tarafından imzalanarak yürürlüğe girmesinden memnuniyet duyduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kursad-zorludan-turk-dunyasina-uygun-ozbek-alfabesinin-yururluge-girmesine-iliskin-aciklama/4096183",
+   "zaman": "2026-10-21T18:06:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "alfab",
+    "dan",
+    "dunya",
+    "girme",
+    "ilisk",
+    "kursa",
+    "ozbek",
+    "turk",
+    "uygun",
+    "yurur",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ac9ed03805c7": {
+   "id": "ac9ed03805c7",
+   "kaynak": "TRT Haber",
+   "baslik": "DMM, Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'na ilişkin iddiaları yalanladı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'nı hedef alarak Türkiye'nin Doğu Akdeniz'i istikrarsızlaştırdığı yönündeki iddiaların dezenformasyon içerdiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/dmm-turkiye-ile-libya-arasindaki-deniz-yetki-alanlari-anlasmasina-iliskin-iddialari-yalanladi-960800.html",
+   "zaman": "2026-10-21T18:06:00+03:00",
+   "kelimeler": [
+    "alanl",
+    "anlas",
+    "arasi",
+    "deniz",
+    "dmm",
+    "iddia",
+    "ilisk",
+    "libya",
+    "na",
+    "turki",
+    "yalan",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "215e567119ee": {
+   "id": "215e567119ee",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan: LibyaTürkiye deniz yetki alanları mutabakatı meşru bir anlaşmadır",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Libya Temsilciler Meclisi'nin 2019'da Libya ile Türkiye arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını kabulüne dair \"Bu, gerek hukuksal açıdan gerek siyasal açıdan son derece meşru bir anlaşmadır.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-libya-turkiye-deniz-yetki-alanlari-mutabakati-mesru-bir-anlasmadir-960801.html",
+   "zaman": "2026-10-21T18:09:00+03:00",
+   "kelimeler": [
+    "alanl",
+    "anlas",
+    "bakan",
+    "deniz",
+    "fidan",
+    "libya",
+    "mesru",
+    "mutab",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e8c737b9b383"
+  },
+  "cdcc15438299": {
+   "id": "cdcc15438299",
+   "kaynak": "NTV",
+   "baslik": "26 bin liraya hurdacıya satılmıştı, 35 gün sonra bulundu",
+   "ozet": "Yalova ile Japonya’nın Tonami kenti arasındaki dostluğun simgesi olan 37 yıllık \"Barış Çanı\" hurdacıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-26-bin-liraya-hurdaciya-satilmisti-35-gun-sonra-bulundu-1747372",
+   "zaman": "2026-10-21T18:16:32+03:00",
+   "kelimeler": [
+    "26",
+    "35",
+    "bin",
+    "bulun",
+    "gun",
+    "hurda",
+    "liray",
+    "satil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5560af017120": {
+   "id": "5560af017120",
+   "kaynak": "AA",
+   "baslik": "DMM, Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'na ilişkin iddiaları yalanladı",
+   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Türkiye ile Libya arasındaki Deniz Yetki Alanları Anlaşması'nı hedef alarak Türkiye'nin Doğu Akdeniz'i istikrarsızlaştırdığı yönündeki iddiaların dezenformasyon içerdiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiye-ile-libya-arasindaki-deniz-yetki-alanlari-anlasmasina-iliskin-iddialari-yalanladi/4096194",
+   "zaman": "2026-10-21T18:16:44+03:00",
+   "kelimeler": [
+    "alanl",
+    "anlas",
+    "arasi",
+    "deniz",
+    "dmm",
+    "iddia",
+    "ilisk",
+    "libya",
+    "na",
+    "turki",
+    "yalan",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac9ed03805c7"
+  },
+  "686cf916a966": {
+   "id": "686cf916a966",
+   "kaynak": "Hürriyet",
+   "baslik": "CHP Sözcüsü Sarı açıkladı... CHP’de 3 isim disipline sevk edildi",
+   "ozet": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, Libya-Türkiye deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasının, Libya Temsilciler Meclisi'nce kabulünün, Türkiye'nin Mavi Vatan konsepti içinde önemli bir kazanım olduğunu vurgulayarak, \"Hem Libya'nın…",
+   "link": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-sari-libya-turkiye-deniz-yetki-alanlarinin-belirlenmesine-iliskin-muhtirayi-destekliyoruz-43350153",
+   "zaman": "2026-10-21T18:20:00+03:00",
+   "kelimeler": [
+    "chp",
+    "disip",
+    "edild",
+    "isim",
+    "sari",
+    "sevk",
+    "sozcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "18d308e2ee3e": {
+   "id": "18d308e2ee3e",
+   "kaynak": "AA",
+   "baslik": "AP'deki yolsuzlukla mücadele soruşturması kapsamında aşırı sağcı gruba ait ofisler arandı",
+   "ozet": "Avrupa Kamu Savcılığının (EPPO) Avrupa Parlamentosu'ndaki (AP) eski grup hakkında yürüttüğü AP fonlarının usulsüz harcanmasına yönelik soruşturma kapsamında polis, aşırı sağcı Avrupa'nın Vatanseverleri (PfE) grubunun ofislerinde arama yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/apdeki-yolsuzlukla-mucadele-sorusturmasi-kapsaminda-asiri-sagci-gruba-ait-ofisler-arandi/4096197",
+   "zaman": "2026-10-21T18:22:16+03:00",
+   "kelimeler": [
+    "ait",
+    "ap",
+    "arand",
+    "asiri",
+    "deki",
+    "gruba",
+    "kapsa",
+    "mucad",
+    "ofisl",
+    "sagci",
+    "sorus",
+    "yolsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17dd983b8dd6": {
+   "id": "17dd983b8dd6",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek, 5 ülkenin adalet bakanları ve Tayland Başbakan Yardımcısı ile görüştü",
+   "ozet": "ADALET Bakanı Akın Gürlek, İstanbul’da düzenlenen '2026 OECD Adalete Eşit Erişim Küresel Yuvarlak Masa Toplantısı' kapsamında İspanya, Benin, Hırvatistan ve Bosna-Hersek adalet bakanları ile Tayland Başbakan Yardımcısı ve beraberindeki heyetlerle bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-5-ulkenin-adalet-bakanlari-ve-tayland-basbakan-yardimcisi-ile-gorustu-43350155",
+   "zaman": "2026-10-21T18:23:25+03:00",
+   "kelimeler": [
+    "adale",
+    "bakan",
+    "basba",
+    "gorus",
+    "gurle",
+    "tayla",
+    "ulken",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f1dc5b0d543": {
+   "id": "5f1dc5b0d543",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,87 değer kaybederek 11.577,12 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4096198",
+   "zaman": "2026-10-21T18:26:16+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "964785777fa8": {
+   "id": "964785777fa8",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş, Libyalı mevkidaşı Saad ile görüştü",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Libya Temsilciler Meclisi Başkanı Salihin Abdunnebi Muhammed Saad ile telefonda görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-libyali-mevkidasi-saad-ile-gorustu-43350157",
+   "zaman": "2026-10-21T18:27:57+03:00",
+   "kelimeler": [
+    "baska",
+    "gorus",
+    "kurtu",
+    "libya",
+    "mevki",
+    "saad",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "22ea06adc3e6"
   }
  },
  "kayit": [
+  "21.10 18:31:16  7 yeni haber",
   "21.10 18:16:00  5 yeni haber",
   "21.10 18:01:27  4 yeni haber",
   "21.10 17:46:06  5 yeni haber",
@@ -30879,8 +31080,7 @@
   "19.10 17:31:12  7 yeni haber",
   "19.10 17:16:08  1 yeni haber",
   "19.10 17:01:38  1 yeni haber",
-  "19.10 16:56:27  5 yeni haber",
-  "19.10 16:46:08  8 yeni haber"
+  "19.10 16:56:27  5 yeni haber"
  ],
  "otomatik": false
 }
