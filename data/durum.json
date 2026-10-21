@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "cd5dacd3c6f7": {
-   "id": "cd5dacd3c6f7",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da sel felaketinde can kaybı 5'e yükseldi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-istanbul-da-sel-felaketinde-can-kaybi-5-e-yukseldi-p370324",
-   "zaman": "2026-10-18T13:33:31+03:00",
-   "kelimeler": [
-    "can",
-    "felak",
-    "istan",
-    "kaybi",
-    "sel",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "642f7ce12668"
-  },
   "d4cae4ac54f4": {
    "id": "d4cae4ac54f4",
    "kaynak": "Hürriyet",
@@ -532,64 +513,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "3441c91b53c6": {
-   "id": "3441c91b53c6",
-   "kaynak": "TRT Haber",
-   "baslik": "Selde can kaybı 6'ya yükseldi",
-   "ozet": "İstanbul ve Kocaeli'deki selde kaybolan iki kişinin daha cesedinin bulunmasıyla afette hayatını kaybedenlerin sayısı 6'ya yükseldi.",
-   "link": "https://www.trthaber.com/haber/gundem/selde-can-kaybi-6ya-yukseldi-960463.html",
-   "zaman": "2026-10-18T13:37:00+03:00",
-   "kelimeler": [
-    "can",
-    "kaybi",
-    "selde",
-    "ya",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "642f7ce12668"
-  },
-  "5627405659f5": {
-   "id": "5627405659f5",
-   "kaynak": "AA",
-   "baslik": "Uşak, Karabük ve Kastamonu'nun yüksek kesimleri karla kaplandı",
-   "ozet": "Uşak, Karabük ve Kastamonu'da etkili olan kar yağışının ardından yüksek kesimler beyaza büründü.",
-   "link": "https://www.aa.com.tr/tr/gundem/usak-karabuk-ve-kastamonunun-yuksek-kesimleri-karla-kaplandi/4092587",
-   "zaman": "2026-10-18T13:41:41+03:00",
-   "kelimeler": [
-    "kapla",
-    "karab",
-    "karla",
-    "kasta",
-    "kesim",
-    "nun",
-    "usak",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6a8302bec4fa": {
-   "id": "6a8302bec4fa",
-   "kaynak": "NTV",
-   "baslik": "2026 yılının 9 aylık sürecinde 60 cinayet dosyası aydınlatıldı",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi \"Cinayet işleyip izini kaybettirdiğini, aradan zaman geçtiği için artık bulunamayacağını düşünenler büyük bir yanılgı içerisinde.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/2026-yilinin-9-aylik-surecinde-60-cinayet-dosyasi-aydinlatildi-1746848",
-   "zaman": "2026-10-18T13:41:48+03:00",
-   "kelimeler": [
-    "2026",
-    "60",
-    "aydin",
-    "aylik",
-    "cinay",
-    "dosya",
-    "surec",
-    "yilin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "d518f51097d2": {
    "id": "d518f51097d2",
@@ -18945,7 +18868,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "98e99f56f0e7": {
    "id": "98e99f56f0e7",
@@ -23549,7 +23475,10 @@
     "soyki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f6e45e33b2b4": {
    "id": "f6e45e33b2b4",
@@ -27563,7 +27492,10 @@
     "nin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "9d19fad7eaea": {
    "id": "9d19fad7eaea",
@@ -27890,7 +27822,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "bb2b60b4d7ed": {
@@ -28517,7 +28450,10 @@
     "sikay"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d8185d897c9c": {
    "id": "d8185d897c9c",
@@ -28681,9 +28617,303 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7b988c4c6b8a": {
+   "id": "7b988c4c6b8a",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Özgür Özel'e tepki: Hayırdır kiminle savaştasınız?",
+   "ozet": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin TBMM Grup Toplantısı'nda açıklamalarda bulundu. Cumhurbaşkanı Erdoğan konuşmasında, Yeni Parti Genel Başkanı Özgür Özel'e tepki gösterdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ozgur-ozele-tepki-hayirdir-kiminle-savastasiniz-43349387",
+   "zaman": "2026-10-21T12:33:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "erdog",
+    "hayir",
+    "kimin",
+    "ozel",
+    "ozgur",
+    "savas",
+    "tepki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "1b1f59d17fe2": {
+   "id": "1b1f59d17fe2",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Görenler 112'ye bildirsin\" Likya yolu'nda kaybolan turist için ekipler seferber oldu",
+   "ozet": "Antalya'da Likya Yolu'nun Kaş ile Demre ilçeleri arasındaki etabında yürüyüşe çıktıktan sonra kendisinden haber alınamayan Friederike Elisabeth Newrzella için jandarma, AFAD ve AKUT ekipleri bölgede geniş çaplı arama başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gorenler-112ye-bildirsin-likya-yolunda-kaybolan-turist-icin-ekipler-seferber-oldu-43349684",
+   "zaman": "2026-10-21T13:19:11+03:00",
+   "kelimeler": [
+    "112",
+    "bildi",
+    "ekipl",
+    "goren",
+    "kaybo",
+    "likya",
+    "nda",
+    "sefer",
+    "turis",
+    "ye",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c871bbc9d5b": {
+   "id": "4c871bbc9d5b",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, Katar, Pakistan ve Endonezya'dan dev savunma anlaşması",
+   "ozet": "Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-katar-pakistan-ve-endonezyadan-dev-savunma-anlasmasi-960759.html",
+   "zaman": "2026-10-21T13:22:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "dan",
+    "dev",
+    "endon",
+    "katar",
+    "pakis",
+    "savun",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "26e6180c5c92"
+  },
+  "6e40b14c8fe8": {
+   "id": "6e40b14c8fe8",
+   "kaynak": "TRT Haber",
+   "baslik": "Pakistanda yolcu otobüsünün devrilmesi sonucu 10 kişi öldü, 32 kişi yaralandı",
+   "ozet": "Pakistanın Pencap eyaletine bağlı Racanpur bölgesinde yolcu otobüsünün devrilmesi sonucu 10 kişi yaşamını yitirdi, 32 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/pakistanda-yolcu-otobusunun-devrilmesi-sonucu-10-kisi-oldu-32-kisi-yaralandi-960760.html",
+   "zaman": "2026-10-21T13:28:00+03:00",
+   "kelimeler": [
+    "10",
+    "32",
+    "devri",
+    "kisi",
+    "otobu",
+    "pakis",
+    "sonuc",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "75ccb6d2b9aa": {
+   "id": "75ccb6d2b9aa",
+   "kaynak": "TRT Haber",
+   "baslik": "Brüksel'deki öğrenci gösterilerinde polis şiddeti iddialarına ilişkin 26 şikayet",
+   "ozet": "Belçika'da Polis Hizmetleri Daimi Denetleme Komitesi P Komitesi, Brüksel'de öğrencilerin düzenlediği protestolarda polis şiddeti iddiasıyla 26 şikayet aldığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/brukseldeki-ogrenci-gosterilerinde-polis-siddeti-iddialarina-iliskin-26-sikayet-960761.html",
+   "zaman": "2026-10-21T13:30:00+03:00",
+   "kelimeler": [
+    "26",
+    "bruks",
+    "deki",
+    "goste",
+    "iddia",
+    "ilisk",
+    "ogren",
+    "polis",
+    "sidde",
+    "sikay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "db7391369f49"
+  },
+  "87b4c9d27f8f": {
+   "id": "87b4c9d27f8f",
+   "kaynak": "AA",
+   "baslik": "CHP'nin 38. Olağan Kurultayı'ndaki usulsüzlük iddialarına ilişkin davada esas hakkındaki mütalaa açıklandı",
+   "ozet": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük iddiasıyla açılan davada esasa ilişkin mütalaasını veren savcı, İBB görevinden uzaklaştırılan Ekrem İmamoğlu'nun da aralarında olduğu 9 sanığın \"oylamaya hile karıştırma\" suçundan cezalandırılmasını istedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/chpnin-38-olagan-kurultayindaki-usulsuzluk-iddialarina-iliskin-davada-esas-hakkindaki-mutalaa-aciklandi/4095733",
+   "zaman": "2026-10-21T13:35:00+03:00",
+   "kelimeler": [
+    "38",
+    "acikl",
+    "chp",
+    "davad",
+    "esas",
+    "hakki",
+    "iddia",
+    "ilisk",
+    "kurul",
+    "mutal",
+    "ndaki",
+    "nin",
+    "olaga",
+    "usuls"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e35bacc76a7e"
+  },
+  "499d38c777f3": {
+   "id": "499d38c777f3",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Erdoğan AKP tabanına seslendi: 'Milletin malına el uzatanı kayırmayız'",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan fon soruşturmasında parti tabanlarının kendilerini izlediğini bildiklerini ve bunu dikkate alarak hareket ettiklerini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cm5ynl39ve2xo",
+   "zaman": "2026-10-21T13:37:02+03:00",
+   "kelimeler": [
+    "akp",
+    "el",
+    "erdog",
+    "kayir",
+    "malin",
+    "mille",
+    "sesle",
+    "taban",
+    "uzata"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a0dfe7edd74d": {
+   "id": "a0dfe7edd74d",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş: Türkiye ile Libya, kendi geleceklerine ilişkin kararları alma iradesine ve kudretine sahiptir",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Türkiye-Libya deniz yetki muhtırasının onaylanmasına ilişkin, \"Türkiye ile Libya, kendi geleceklerine ilişkin kararları alma iradesine ve kudretine sahiptir.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiye-ile-libya-kendi-geleceklerine-iliskin-kararlari-alma-iradesine-ve-kudretine-sahiptir/4095739",
+   "zaman": "2026-10-21T13:37:42+03:00",
+   "kelimeler": [
+    "alma",
+    "baska",
+    "gelec",
+    "ilisk",
+    "irade",
+    "karar",
+    "kendi",
+    "kudre",
+    "kurtu",
+    "libya",
+    "sahip",
+    "tbmm",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6bbdf99ec4a3": {
+   "id": "6bbdf99ec4a3",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke'den sonra Bedir İttifakı kuruldu",
+   "ozet": "Türkiye, Katar, Pakistan ve Endonezya savunma anlaşması imzalandı. Milli Savunma Bakanlığı, Mutabakat, askeri üretimde işbirliğini teşvik etmeyi, dört ülkenin askeri kabiliyetini güçlendirmeyi, teknik askeri eğitim ve AR-GE konularında işbirliğini amaçladığını duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-mekkeden-sonra-bedir-ittifaki-kuruldu-43349714",
+   "zaman": "2026-10-21T13:38:00+03:00",
+   "kelimeler": [
+    "bedir",
+    "den",
+    "ittif",
+    "kurul",
+    "mekke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "de228f806058": {
+   "id": "de228f806058",
+   "kaynak": "AA",
+   "baslik": "İsrail güçleri, Filistinli çiftçilere destek veren ABD'li Kongre adayı Lander'ı Batı Şeria'da gözaltına aldı",
+   "ozet": "İsrailli bir insan hakları örgütü, ABD'li Demokrat Kongre adayı Brad Lander'ın Filistinli çiftçilere eşlik eden onlarca aktivistle birlikte işgal altındaki Batı Şeria'da İsrail güçleri tarafından gözaltına alındığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-gucleri-filistinli-ciftcilere-destek-veren-abdli-kongre-adayi-landeri-bati-seriada-gozaltina-aldi/4095743",
+   "zaman": "2026-10-21T13:38:16+03:00",
+   "kelimeler": [
+    "abd",
+    "adayi",
+    "aldi",
+    "bati",
+    "ciftc",
+    "deste",
+    "filis",
+    "gozal",
+    "gucle",
+    "israi",
+    "kongr",
+    "lande",
+    "li",
+    "seria",
+    "veren"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "888d39d5ec5e"
+  },
+  "c5af27c788fc": {
+   "id": "c5af27c788fc",
+   "kaynak": "Hürriyet",
+   "baslik": "Rehberlik öğretmenine anlattı… “Anneni öldürürüm” tehdidiyle çocuğa istismara 30 yıl hapis",
+   "ozet": "Antalya'da dini nikahla birlikte yaşadığı kadının 12 yaşındaki kızına 1 yıl boyunca cinsel istismarda bulunduğu suçlamasıyla yargılanan sanık, 30 yıl hapis cezasına çarptırıldı. Mahkeme, sanığın tutuklanmasına yönelik yakalama emri çıkardı.",
+   "link": "https://www.hurriyet.com.tr/gundem/rehberlik-ogretmenine-anlatti-anneni-oldururum-tehdidiyle-cocuga-istismara-30-yil-hapis-43349710",
+   "zaman": "2026-10-21T13:40:29+03:00",
+   "kelimeler": [
+    "30",
+    "anlat",
+    "annen",
+    "cocug",
+    "hapis",
+    "istis",
+    "ogret",
+    "oldur",
+    "rehbe",
+    "tehdi",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f70c44edc985": {
+   "id": "f70c44edc985",
+   "kaynak": "NTV",
+   "baslik": "Bedir Mutabakat Zaptı imzalandı",
+   "ozet": "Türkiye, Katar, Pakistan ve Endonezya; savunma sanayiinde ortak üretim, araştırma-geliştirme ve teknik eğitimi kapsayan Bedir Mutabakat Zaptı'nı Katar’ın başkenti Doha'da imzaladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bedir-mutabakat-zapti-imzalandi-1747336",
+   "zaman": "2026-10-21T13:40:39+03:00",
+   "kelimeler": [
+    "bedir",
+    "imzal",
+    "mutab",
+    "zapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "c68f82dc556a": {
+   "id": "c68f82dc556a",
+   "kaynak": "AA",
+   "baslik": "MSB: Türkiye, Katar, Endonezya ve Pakistan arasında 'Bedir Mutabakat Zaptı' imzalandı",
+   "ozet": "Milli Savunma Bakanlığından (MSB), Katar'ın başkenti Doha'da Türkiye, Katar, Endonezya ve Pakistan savunma bakanlıkları arasında çok taraflı 'Bedir Mutabakat Zaptı' imzalandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/msb-turkiye-katar-endonezya-ve-pakistan-arasinda-bedir-mutabakat-zapti-imzalandi/4095749",
+   "zaman": "2026-10-21T13:41:32+03:00",
+   "kelimeler": [
+    "arasi",
+    "bedir",
+    "endon",
+    "imzal",
+    "katar",
+    "msb",
+    "mutab",
+    "pakis",
+    "turki",
+    "zapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f70c44edc985"
   }
  },
  "kayit": [
+  "21.10 13:46:04  7 yeni haber",
   "21.10 13:35:07  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · 6 Şubat depremlerini atlatan 11 ilin toplam ihracatı 15,6 milyar dolar",
   "21.10 13:31:10  8 yeni haber",
   "21.10 13:16:21  7 yeni haber",
@@ -28882,8 +29112,7 @@
   "19.10 12:48:07  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 27 ilde siber suç operasyonu: 643 şüpheli yakalandı",
   "19.10 12:46:05  4 yeni haber",
   "19.10 12:31:13  9 yeni haber",
-  "19.10 12:16:00  9 yeni haber",
-  "19.10 12:01:20  9 yeni haber"
+  "19.10 12:16:00  9 yeni haber"
  ],
  "otomatik": false
 }
