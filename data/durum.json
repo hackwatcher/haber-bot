@@ -1411,25 +1411,6 @@
     "AA"
    ]
   },
-  "a5de56067fb1": {
-   "id": "a5de56067fb1",
-   "kaynak": "TRT Haber",
-   "baslik": "Bursa'da taşan dere nedeniyle yol ulaşıma kapandı",
-   "ozet": "Bursa'nın İnegöl ilçesinde aşırı yağışın yol açtığı dere taşması nedeniyle yol ulaşıma kapandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/bursada-tasan-dere-nedeniyle-yol-ulasima-kapandi-960442.html",
-   "zaman": "2026-10-18T07:55:00+03:00",
-   "kelimeler": [
-    "bursa",
-    "dere",
-    "kapan",
-    "neden",
-    "tasan",
-    "ulasi",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "082f761c2893": {
    "id": "082f761c2893",
    "kaynak": "TRT Haber",
@@ -25740,10 +25721,72 @@
     "suudi"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "f0f8560db14a": {
+   "id": "f0f8560db14a",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Medinei Münevvere ve doğu bölgesinde 5 insansız hava aracının İHA engellenerek düşürüldüğünü duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-960707.html",
+   "zaman": "2026-10-21T07:35:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "bolge",
+    "dogu",
+    "iha",
+    "in",
+    "koali",
+    "medin",
+    "onlen",
+    "saldi",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6e8045255992"
+  },
+  "1acccfbad69c": {
+   "id": "1acccfbad69c",
+   "kaynak": "TRT Haber",
+   "baslik": "Devrilen akaryakıt tankeri alev topuna döndü: 1 ölü",
+   "ozet": "Şanlıurfa'nın Viranşehir ilçesinde devrildikten sonra yanan akaryakıt tankerinin sürücüsü hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/devrilen-akaryakit-tankeri-alev-topuna-dondu-1-olu-960706.html",
+   "zaman": "2026-10-21T07:38:00+03:00",
+   "kelimeler": [
+    "akary",
+    "alev",
+    "devri",
+    "dondu",
+    "olu",
+    "tanke",
+    "topun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "50fa251702fa": {
+   "id": "50fa251702fa",
+   "kaynak": "Sözcü",
+   "baslik": "Altında sert düşüş!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/altinda-sert-dusus-p371181",
+   "zaman": "2026-10-21T07:52:18+03:00",
+   "kelimeler": [
+    "altin",
+    "dusus",
+    "sert"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "21.10 08:01:25  2 yeni haber",
   "21.10 07:46:07  4 yeni haber",
   "21.10 07:16:00  11 yeni haber",
   "21.10 07:02:48  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · MS | 🇹🇷 Fenerbahçe 2-2 S.",
@@ -25942,8 +25985,7 @@
   "19.10 06:01:24  2 yeni haber",
   "19.10 03:31:13  1 yeni haber",
   "19.10 03:01:21  1 yeni haber",
-  "19.10 02:46:00  1 yeni haber",
-  "19.10 01:46:03  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
+  "19.10 02:46:00  1 yeni haber"
  ],
  "otomatik": false
 }
