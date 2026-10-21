@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "e7e42c45cf30": {
-   "id": "e7e42c45cf30",
-   "kaynak": "Hürriyet",
-   "baslik": "Bursa'da sağanak etkili oldu: Köprü çöktü, tarım arazilerini su bastı",
-   "ozet": "Bursa’nın İnegöl ilçesinde etkili olan sağanak nedeniyle dere üzerindeki köprünün çökmesi sonucu yolda mahsur kalan sürücüler, ekiplerin çalışmasıyla kurtarıldı. Ayrıca aşırı yağış nedeniyle tarım arazileri desular altında kaldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bursada-saganak-etkili-oldu-kopru-coktu-tarim-arazilerini-su-basti-43345787",
-   "zaman": "2026-10-18T04:04:00+03:00",
-   "kelimeler": [
-    "arazi",
-    "basti",
-    "bursa",
-    "coktu",
-    "etkil",
-    "kopru",
-    "sagan",
-    "su",
-    "tarim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f47e5aa62b8e": {
    "id": "f47e5aa62b8e",
    "kaynak": "Sözcü",
@@ -24944,7 +24923,10 @@
     "yatir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2f29bc9c0ae6": {
    "id": "2f29bc9c0ae6",
@@ -25422,6 +25404,24 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "c25e3b3cb61c": {
+   "id": "c25e3b3cb61c",
+   "kaynak": "Hürriyet",
+   "baslik": "SPK, 3 aracı kurumun faaliyetlerini durdurdu",
+   "ozet": "SERMAYE Piyasası Kurulu (SPK), Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ’nin sermaye piyasası faaliyetlerini 21 Ekim 2026 saat 00.01 itibarıyla geçici olarak durdurma kararı aldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/spk-3-araci-kurumun-faaliyetlerini-durdurdu-43349173",
+   "zaman": "2026-10-21T03:55:28+03:00",
+   "kelimeler": [
+    "araci",
+    "durdu",
+    "faali",
+    "kurum",
+    "spk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4c5b6eddd274"
   }
  },
  "kayit": [
