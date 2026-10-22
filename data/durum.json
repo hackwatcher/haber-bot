@@ -1,89 +1,5 @@
 {
  "haberler": {
-  "01afdc080aeb": {
-   "id": "01afdc080aeb",
-   "kaynak": "AA",
-   "baslik": "İstanbul'daki selde kaybolan 1 kişinin daha cesedine ulaşıldı",
-   "ozet": "İstanbul Valiliği, kentteki selde kaybolan Haşim Ciritlioğlu'na ait cesedin Ayvansaray Vapur İskelesi'nin yakınında bulunduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982",
-   "zaman": "2026-10-19T08:54:27+03:00",
-   "kelimeler": [
-    "cesed",
-    "daki",
-    "istan",
-    "kaybo",
-    "kisin",
-    "selde",
-    "ulasi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "d890d6a47da8": {
-   "id": "d890d6a47da8",
-   "kaynak": "NTV",
-   "baslik": "Kara para aklama soruşturması. Emir Sarıgül emniyete giderek teslim oldu",
-   "ozet": "\"Suçtan kaynaklanan mal varlığı değerlerini aklama\" suçu kapsamında yürütülen soruşturmada hakkında gözaltı kararı bulunan Emir Sarıgül emniyete giderek teslim oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kara-para-aklama-sorusturmasi-emir-sarigul-emniyete-giderek-teslim-oldu-1746940",
-   "zaman": "2026-10-19T08:59:06+03:00",
-   "kelimeler": [
-    "aklam",
-    "emir",
-    "emniy",
-    "gider",
-    "kara",
-    "para",
-    "sarig",
-    "sorus",
-    "tesli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c6851457b036": {
-   "id": "c6851457b036",
-   "kaynak": "TRT Haber",
-   "baslik": "'Alihan Kuriş Suç Örgütü' soruşturmasında 22 gözaltı",
-   "ozet": "Ankara merkezli 12 ilde 'Alihan Kuriş Suç Örgütü'ne yönelik düzenlenen operasyonda, haklarında gözaltı kararı verilen 38 şüpheliden 22si gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-22-gozalti-960489.html",
-   "zaman": "2026-10-19T08:55:00+03:00",
-   "kelimeler": [
-    "22",
-    "aliha",
-    "gozal",
-    "kuris",
-    "orgut",
-    "sorus",
-    "suc"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6a3eab792433"
-  },
-  "460247353dd8": {
-   "id": "460247353dd8",
-   "kaynak": "AA",
-   "baslik": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında 22 şüpheli yakalandı",
-   "ozet": "Ankara Cumhuriyet Başsavcılığınca \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturması kapsamında 22 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-22-supheli-yakalandi/4092984",
-   "zaman": "2026-10-19T08:57:09+03:00",
-   "kelimeler": [
-    "22",
-    "aliha",
-    "amacl",
-    "cikar",
-    "kuris",
-    "orgut",
-    "sorus",
-    "suc",
-    "suphe",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6a3eab792433"
-  },
   "6dfe0573b848": {
    "id": "6dfe0573b848",
    "kaynak": "Sözcü",
@@ -32808,9 +32724,48 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "218b4ea38fcb"
+  },
+  "89da4364cf4f": {
+   "id": "89da4364cf4f",
+   "kaynak": "Hürriyet",
+   "baslik": "Zonguldak'ta çöken bina böyle görüntülendi",
+   "ozet": "Zonguldak'ta Merkez Meşrutiyet Mahallesi Sütliyen Sokak'taki 3 katlı bina henüz belirlenemeyen nedenle çöktü. Zonguldak'ta çöken bina sabahın ilk ışıklarıyla böyle görüntülendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/zonguldakta-coken-bina-boyle-goruntulendi-43350479",
+   "zaman": "2026-10-22T08:49:28+03:00",
+   "kelimeler": [
+    "bina",
+    "boyle",
+    "coken",
+    "gorun",
+    "ta",
+    "zongu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a12dbdf7369": {
+   "id": "1a12dbdf7369",
+   "kaynak": "AA",
+   "baslik": "Trump, İran ile müzakere yapmadıklarını ve yakında \"bir şeyler olacağını\" söyledi",
+   "ozet": "ABD Başkanı Donald Trump, İran ile müzakere yapmadıklarını ve \"öyle ya da böyle yakında bir şeyler olacağını\" söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iran-ile-muzakere-yapmadiklarini-ve-yakinda-bir-seyler-olacagini-soyledi/4096619",
+   "zaman": "2026-10-22T08:58:15+03:00",
+   "kelimeler": [
+    "iran",
+    "muzak",
+    "olaca",
+    "seyle",
+    "soyle",
+    "trump",
+    "yakin",
+    "yapma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 09:01:15  2 yeni haber",
   "22.10 08:46:02  2 yeni haber",
   "22.10 08:33:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara'da işyerine silahlı saldırı: Ateş ettiği anları kaydeden zanlı ",
   "22.10 08:31:18  3 yeni haber",
@@ -33009,8 +32964,7 @@
   "20.10 07:46:04  2 yeni haber",
   "20.10 07:31:15  3 yeni haber",
   "20.10 07:16:03  17 yeni haber",
-  "20.10 07:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · MS | Trabzonspor 2-0 Beşiktaş",
-  "20.10 05:46:12  1 yeni haber"
+  "20.10 07:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · MS | Trabzonspor 2-0 Beşiktaş"
  ],
  "otomatik": false
 }
