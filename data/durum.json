@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "01f4d14e8baa": {
-   "id": "01f4d14e8baa",
-   "kaynak": "Hürriyet",
-   "baslik": "D-100 kara yolunun bir bölümü trafiğe kapatılacak",
-   "ozet": "Büyükçekmece'de D-100 kara yolunun Işık Sitesi Durağı'nın bulunduğu bölümü, devam eden çalışmalar nedeniyle 22.00-06.00 saatlerinde Ankara ve Edirne istikametlerinde ulaşıma kapatılacak.",
-   "link": "https://www.hurriyet.com.tr/gundem/d-100-kara-yolunun-bir-bolumu-trafige-kapatilacak-43347667",
-   "zaman": "2026-10-19T18:21:18+03:00",
-   "kelimeler": [
-    "100",
-    "bolum",
-    "kapat",
-    "kara",
-    "trafi",
-    "yolun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "525ad1db0e22"
-  },
-  "7dff937f939a": {
-   "id": "7dff937f939a",
-   "kaynak": "AA",
-   "baslik": "14. Boğaziçi Film Festivali'nde ulusal yarışmada 10 film yarışacak",
-   "ozet": "Anadolu Ajansının Global İletişim Ortağı olduğu, Boğaziçi Kültür Sanat Vakfı tarafından bu yıl 14. kez düzenlenecek Boğaziçi Film Festivali'nin Ulusal Uzun Metraj Film Yarışması'nda yer alacak 10 film belli oldu.",
-   "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinde-ulusal-yarismada-10-film-yarisacak/4093719",
-   "zaman": "2026-10-19T18:22:04+03:00",
-   "kelimeler": [
-    "10",
-    "14",
-    "bogaz",
-    "festi",
-    "film",
-    "nde",
-    "ulusa",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "41ec36d29bb5": {
-   "id": "41ec36d29bb5",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine topçu saldırıları düzenledi",
-   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere topçu saldırılarını sürdürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilari-duzenledi/4093720",
-   "zaman": "2026-10-19T18:25:49+03:00",
-   "kelimeler": [
-    "atesk",
-    "duzen",
-    "guney",
-    "in",
-    "israi",
-    "lubna",
-    "ordus",
-    "ragme",
-    "saldi",
-    "topcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "6bda604a7068": {
    "id": "6bda604a7068",
    "kaynak": "AA",
@@ -504,28 +440,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "79e0f5b72352"
-  },
-  "871136cfc5b3": {
-   "id": "871136cfc5b3",
-   "kaynak": "TRT Haber",
-   "baslik": "Pakistan'dan Suudi Arabistan'a gereken her türlü desteği sağlama mesajı",
-   "ozet": "Pakistan ordusu, Yemendeki Husilerin saldırıları karşısında Suudi Arabistanı savunmak için \"gereken her türlü desteği sağladığını ve sağlamaya devam edeceğini\" bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/pakistandan-suudi-arabistana-gereken-her-turlu-destegi-saglama-mesaji-960559.html",
-   "zaman": "2026-10-19T18:17:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "dan",
-    "deste",
-    "gerek",
-    "her",
-    "mesaj",
-    "pakis",
-    "sagla",
-    "suudi",
-    "turlu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "13662b46f5d0": {
    "id": "13662b46f5d0",
@@ -22451,7 +22365,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "215e567119ee": {
@@ -32303,7 +32218,10 @@
     "virus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "79c1272453f2": {
    "id": "79c1272453f2",
@@ -33399,9 +33317,165 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "27982aa9622e"
+  },
+  "2f701f888281": {
+   "id": "2f701f888281",
+   "kaynak": "Hürriyet",
+   "baslik": "Kanada Başbakanı Ankara'da… Cumhurbaşkanı Erdoğan: İlişkilerimizi stratejik ortaklığa yükseltiyoruz",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kanada Başbakanı Mark Carney'i ile Beştepe'de ortak basın toplantısı düzenledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kanada-basbakani-ankarada-cumhurbaskani-erdogan-iliskilerimizi-stratejik-ortakliga-yukseltiyoruz-43351271",
+   "zaman": "2026-10-22T17:27:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "basba",
+    "cumhu",
+    "erdog",
+    "ilisk",
+    "kanad",
+    "ortak",
+    "strat",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "37de2bf5e59f": {
+   "id": "37de2bf5e59f",
+   "kaynak": "AA",
+   "baslik": "ABD, 4 şirketin çip ve kritik malzeme çalışmalarına 389 milyon dolar destek verecek",
+   "ozet": "ABD yönetimi, yarı iletkenler ve kritik malzemeler üzerinde çalışan dört şirkete toplam 389 milyon dolarlık fon sağlamayı planladığını, buna karşılık hükümetin bu şirketlerden azınlık hissesi alacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-4-sirketin-cip-ve-kritik-malzeme-calismalarina-389-milyon-dolar-destek-verecek/4097552",
+   "zaman": "2026-10-22T18:11:41+03:00",
+   "kelimeler": [
+    "389",
+    "abd",
+    "calis",
+    "cip",
+    "deste",
+    "dolar",
+    "kriti",
+    "malze",
+    "milyo",
+    "sirke",
+    "verec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b714193d21a3": {
+   "id": "b714193d21a3",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Işıkhan: 18 bin 441 öğrencimize 609 milyon lira ödeyeceğiz",
+   "ozet": "ÇALIŞMA ve Sosyal Güvenlik Bakanı Vedat Işıkhan, şehit çocukları ile harp ve vazife malullerine ve çocuklarına yönelik eğitim öğretim yardımı ödemelerinin 23 Ekim'de gerçekleştirileceğini belirterek, 2026- 2027 eğitim öğretim döneminde 18 bin 441 öğrenciye 609 milyon liralık…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-isikhan-18-bin-441-ogrencimize-609-milyon-lira-odeyecegiz-43351448",
+   "zaman": "2026-10-22T18:15:38+03:00",
+   "kelimeler": [
+    "18",
+    "441",
+    "609",
+    "bakan",
+    "bin",
+    "isikh",
+    "lira",
+    "milyo",
+    "odeye",
+    "ogren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "866b723ef463": {
+   "id": "866b723ef463",
+   "kaynak": "AA",
+   "baslik": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
+   "ozet": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-7-buyuklugunde-deprem-meydana-geldi/4097563",
+   "zaman": "2026-10-22T18:16:50+03:00",
+   "kelimeler": [
+    "bolge",
+    "buyuk",
+    "cin",
+    "depre",
+    "geldi",
+    "in",
+    "meyda",
+    "nde",
+    "ozerk",
+    "tibet"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "5e03806c35c7": {
+   "id": "5e03806c35c7",
+   "kaynak": "TRT Haber",
+   "baslik": "DSÖ, Fransa'da, hayvanlarda görülen Shamonda virüsünün ilk insan vakası olan kişinin öldüğünü bildirdi",
+   "ozet": "Dünya Sağlık Örgütü DSÖ Genel Direktörü Tedros Adhanom Ghebreyesus, Fransa'da, bugüne kadar hayvanlarda görülen Shamonda virüsünün ilk insan vakası olan kişinin yaşamını yitirdiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/dso-fransada-hayvanlarda-gorulen-shamonda-virusunun-ilk-insan-vakasi-olan-kisinin-oldugunu-bildirdi-960929.html",
+   "zaman": "2026-10-22T18:17:00+03:00",
+   "kelimeler": [
+    "bildi",
+    "dso",
+    "frans",
+    "gorul",
+    "hayva",
+    "ilk",
+    "insan",
+    "kisin",
+    "oldug",
+    "shamo",
+    "vakas",
+    "virus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "154eaa623471"
+  },
+  "e74ba04ac5ec": {
+   "id": "e74ba04ac5ec",
+   "kaynak": "XHABER",
+   "baslik": "Türkiye'de her 10 kişiden 7'si borçla yaşıyor.",
+   "ozet": "(Nefes)",
+   "link": "https://t.me/sahinozkan000/30327",
+   "zaman": "2026-10-22T18:17:58+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Türkiye'de her 10 kişiden 7'si borçla yaşıyor. (Nefes)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/b2WKBbp9cPaXP621WMSEiLLRJBDZv0ZILRPoxWStbUxzvDgnJrspiUWozVab4GhnekBwMCzHdQ35FHM9roWfuzYenvtWdccBwdOhcmRt4TjFvRTCZ_hriLFnZ7ahtAX50pjdvAFE_JMED6qQXksqOPW1zHMrlDOMKCAq1EVHG8UZJwNg3OwoNxE-C3xI12k_6Ult0apXUAp2-sLgnTWYWUXFFHeezJbgT9dDTL_WSVptpJAGhFFcgSfpKV1jwQ0ysP1VmF5DSkzxWipaa0IZS9F-WQHASechbJ1jonWRhhJ9U005EwyfWxQq7VkUSL3YWD1nAuCsTc_osAfAiKeRcw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "10",
+    "borcl",
+    "her",
+    "kisid",
+    "si",
+    "turki",
+    "yasiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "119b6de8edba": {
+   "id": "119b6de8edba",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye ile Kanada arasında 3 anlaşma imzalandı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Kanada Başbakanı Mark Carney'in huzurunda iki ülke arasında 3 anlaşma imzalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-ile-kanada-arasinda-3-anlasma-imzalandi-43351453",
+   "zaman": "2026-10-22T18:21:37+03:00",
+   "kelimeler": [
+    "anlas",
+    "arasi",
+    "imzal",
+    "kanad",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac9ed03805c7"
   }
  },
  "kayit": [
+  "22.10 18:31:23  4 yeni haber",
   "22.10 18:16:04  1 yeni haber",
   "22.10 18:01:35  6 yeni haber",
   "22.10 17:48:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin da",
@@ -33600,8 +33674,7 @@
   "20.10 15:46:00  3 yeni haber",
   "20.10 15:31:11  3 yeni haber",
   "20.10 15:19:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaraydan Lille maçı öncesi UEFA'ya güvenlik başvurusu",
-  "20.10 15:16:12  1 yeni haber",
-  "20.10 15:01:28  11 yeni haber"
+  "20.10 15:16:12  1 yeni haber"
  ],
  "otomatik": false
 }
