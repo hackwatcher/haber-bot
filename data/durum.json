@@ -16313,7 +16313,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "TRT Haber"
    ]
   },
   "cffbe817f633": {
@@ -33769,9 +33770,78 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "567f1395eb26"
+  },
+  "a4e36ee982fa": {
+   "id": "a4e36ee982fa",
+   "kaynak": "AA",
+   "baslik": "Avusturya'da on binlerce kişi üniversitelere yönelik tasarruf planlarını protesto etti",
+   "ozet": "Avusturya'nın başkenti Viyana'da on binlerce kişi, hükümetin üniversitelere yönelik tasarruf planlarını protesto etmek için yürüyüş düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/avusturyada-on-binlerce-kisi-universitelere-yonelik-tasarruf-planlarini-protesto-etti/4097719",
+   "zaman": "2026-10-22T20:39:49+03:00",
+   "kelimeler": [
+    "avust",
+    "binle",
+    "etti",
+    "kisi",
+    "on",
+    "planl",
+    "prote",
+    "tasar",
+    "unive",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a66049170766": {
+   "id": "a66049170766",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul merkezli yasa dışı üreme hücresi ticareti operasyonu: 8 tutuklama",
+   "ozet": "İstanbul merkezli 14 ilde düzenlenen yasa dışı \"üreme hücresi\" ticaretine yönelik operasyonda gözaltına alınan 44 şüpheliden 8'i tutuklandı, 36'sı hakkında adli kontrol kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-yasa-disi-ureme-hucresi-ticareti-operasyonu-8-tutuklama-960939.html",
+   "zaman": "2026-10-22T20:52:00+03:00",
+   "kelimeler": [
+    "disi",
+    "hucre",
+    "istan",
+    "merke",
+    "opera",
+    "ticar",
+    "tutuk",
+    "ureme",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ff14e98f6a8d"
+  },
+  "c5caba0e1fec": {
+   "id": "c5caba0e1fec",
+   "kaynak": "AA",
+   "baslik": "Arap ülkeleri ile bazı kurumlar, Husilerin Suudi Arabistan'daki havalimanına yönelik saldırısını kınadı",
+   "ozet": "Katar, Birleşik Arap Emirlikleri (BAE), Kuveyt, Bahreyn, Ürdün, Yemen ile Ezher Kurumu ve Arap İçişleri Bakanları Konseyi, İran destekli Husilerin Suudi Arabistan'ın Dammam kentindeki Kral Fahd Uluslararası Havalimanı'na yönelik saldırısını kınadı.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-ulkeleri-ile-bazi-kurumlar-husilerin-suudi-arabistandaki-havalimanina-yonelik-saldirisini-kinadi/4097732",
+   "zaman": "2026-10-22T20:55:11+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "bazi",
+    "daki",
+    "haval",
+    "husil",
+    "kinad",
+    "kurum",
+    "saldi",
+    "suudi",
+    "ulkel",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 21:16:07  2 yeni haber",
   "22.10 21:08:21  2 yeni haber",
   "22.10 20:16:51  5 yeni haber",
   "22.10 20:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
@@ -33970,8 +34040,7 @@
   "20.10 17:45:58  4 yeni haber",
   "20.10 17:31:16  4 yeni haber",
   "20.10 17:18:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
-  "20.10 17:16:00  5 yeni haber",
-  "20.10 17:01:35  6 yeni haber"
+  "20.10 17:16:00  5 yeni haber"
  ],
  "otomatik": false
 }
