@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "503a30fc17fd": {
-   "id": "503a30fc17fd",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbuldaki selde can kaybı 6ya yükseldi",
-   "ozet": "İstanbuldaki selde hayatını kaybedenlerin sayısı 6ya yükseldi. Ayvansaray Vapur İskelesi yakınlarında bir cansız beden bulundu.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-selde-can-kaybi-6ya-yukseldi-960490.html",
-   "zaman": "2026-10-19T08:31:00+03:00",
-   "kelimeler": [
-    "6ya",
-    "can",
-    "istan",
-    "kaybi",
-    "selde",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "642f7ce12668"
-  },
   "6a3eab792433": {
    "id": "6a3eab792433",
    "kaynak": "Hürriyet",
@@ -32802,9 +32783,88 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6794d5bceaa4": {
+   "id": "6794d5bceaa4",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da işyerine silahlı saldırı: Ateş ettiği anları kaydeden zanlı ve 4 suç ortağı tutuklandı",
+   "ozet": "Ankara’nın Çankaya ilçesinde bir işyerine düzenlenen silahlı saldırıya ilişkin gözaltına alınan 6 şüpheliden 5'i tutuklandı, 1 şüpheli adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-is-yerine-silahli-saldiri-ates-ettigi-anlari-kaydeden-zanli-ve-4-suc-ortagi-tutuklandi-43350471",
+   "zaman": "2026-10-22T08:12:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "anlar",
+    "ates",
+    "ettig",
+    "isyer",
+    "kayde",
+    "ortag",
+    "saldi",
+    "silah",
+    "suc",
+    "tutuk",
+    "zanli"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-22T08:33:52.117534+03:00",
+   "ig_id": "18422764621159514",
+   "reels_id": "18077118677448519",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "968349715823012",
+   "slayt": 5,
+   "kanca": "SALDIRIYI KAYDA ALDI"
+  },
+  "ef4a55020e3f": {
+   "id": "ef4a55020e3f",
+   "kaynak": "TRT Haber",
+   "baslik": "İran ordusu: Basra Körfezi'nde petrol transferi yapan 4 gemi vuruldu",
+   "ozet": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Basra Körfezi'nin kuzey kesiminde petrol yüklerini gemiden gemiye aktaran 4 geminin eş zamanlı vurulduğunu ve yanmaya devam ettiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu-960839.html",
+   "zaman": "2026-10-22T08:19:00+03:00",
+   "kelimeler": [
+    "basra",
+    "gemi",
+    "iran",
+    "korfe",
+    "nde",
+    "ordus",
+    "petro",
+    "trans",
+    "vurul",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "716ff685e161": {
+   "id": "716ff685e161",
+   "kaynak": "Sözcü",
+   "baslik": "Türkiye'de gözler 14.00'e çevrildi: Döviz ve borsada dananın kuyruğu kopabilir",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/turkiyede-gozler-1400e-cevrildi-doviz-ve-borsada-dananin-kuyrugu-kopabilir-p371543",
+   "zaman": "2026-10-22T08:21:35+03:00",
+   "kelimeler": [
+    "00",
+    "14",
+    "borsa",
+    "cevri",
+    "danan",
+    "doviz",
+    "gozle",
+    "kopab",
+    "kuyru",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 08:33:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara'da işyerine silahlı saldırı: Ateş ettiği anları kaydeden zanlı ",
+  "22.10 08:31:18  3 yeni haber",
   "22.10 08:02:26  Otomatik paylaşım başarısız: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=20)",
   "22.10 08:01:19  1 yeni haber",
   "22.10 07:31:04  4 yeni haber",
@@ -33002,9 +33062,7 @@
   "20.10 07:16:03  17 yeni haber",
   "20.10 07:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · MS | Trabzonspor 2-0 Beşiktaş",
   "20.10 05:46:12  1 yeni haber",
-  "20.10 05:46:12  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "20.10 04:16:14  1 yeni haber",
-  "20.10 04:01:26  1 yeni haber"
+  "20.10 05:46:12  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
  ],
  "otomatik": false
 }
