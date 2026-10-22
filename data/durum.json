@@ -1,98 +1,5 @@
 {
  "haberler": {
-  "5ebf1a678b8b": {
-   "id": "5ebf1a678b8b",
-   "kaynak": "Sözcü",
-   "baslik": "Hazine ve Maliye Bakanlığı'nda yeni atama",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/hazine-ve-maliye-bakanligi-atama-20-ekim-2026-p370771",
-   "zaman": "2026-10-20T00:12:07+03:00",
-   "kelimeler": [
-    "atama",
-    "bakan",
-    "hazin",
-    "maliy",
-    "nda",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "5e562eeec533": {
-   "id": "5e562eeec533",
-   "kaynak": "NTV",
-   "baslik": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
-   "ozet": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı. Gelir İdaresi Başkanlığına ise Şinasi Candan atandı.",
-   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-1747070",
-   "zaman": "2026-10-20T00:14:40+03:00",
-   "kelimeler": [
-    "atand",
-    "bakan",
-    "hazin",
-    "kutlu",
-    "maliy",
-    "taski",
-    "yardi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1e74ae3567eb"
-  },
-  "51c7a1b66ead": {
-   "id": "51c7a1b66ead",
-   "kaynak": "AA",
-   "baslik": "Bomba ihbarı sebebiyle \"Milano-Cidde\" uçağı Roma'ya acil iniş yaptı",
-   "ozet": "İtalya'nın Milano kentinden Suudi Arabistan'ın Cidde kentine gitmek için havalanan bir yolcu uçağı, \"bomba\" ihbarı üzerine Roma Fiumicino Havalimanı'na acil iniş yaptı. Güvenlik kontrollerinde, ihbarın asılsız olduğu ortaya çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/bomba-ihbari-sebebiyle-milano-cidde-ucagi-romaya-acil-inis-yapti/4093974",
-   "zaman": "2026-10-20T00:08:50+03:00",
-   "kelimeler": [
-    "bomba",
-    "cidde",
-    "ihbar",
-    "inis",
-    "milan",
-    "roma",
-    "sebeb",
-    "ucagi",
-    "ya",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e832f1a6f4d2": {
-   "id": "e832f1a6f4d2",
-   "kaynak": "TRT Haber",
-   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
-   "ozet": "Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
-   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-960575.html",
-   "zaman": "2026-10-20T00:13:00+03:00",
-   "kelimeler": [
-    "alma",
-    "atama",
-    "gazet",
-    "gorev",
-    "karar",
-    "resmi"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-20T00:48:42.169085+03:00",
-   "ig_id": "18079439801533709",
-   "reels_id": "18112870937164510",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1473895021314986",
-   "slayt": 5,
-   "kanca": "RESMİ GAZETE'DE KRİTİK İMZALAR",
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
   "501c0d042978": {
    "id": "501c0d042978",
    "kaynak": "AA",
@@ -207,23 +114,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5ebf1a678b8b"
-  },
-  "5184e53317ed": {
-   "id": "5184e53317ed",
-   "kaynak": "TRT Haber",
-   "baslik": "Beyoğlu'nda 6 katlı apartmanda yangın",
-   "ozet": "Beyoğlu'nda apartmanın en üst katında çıkan yangın itfaiye ekiplerince söndürüldü.",
-   "link": "https://www.trthaber.com/haber/turkiye/beyoglunda-6-katli-apartmanda-yangin-960574.html",
-   "zaman": "2026-10-20T00:06:00+03:00",
-   "kelimeler": [
-    "apart",
-    "beyog",
-    "katli",
-    "nda",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "f2c73ffe2a84": {
    "id": "f2c73ffe2a84",
@@ -33173,7 +33063,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "bb59a8a2c2df": {
    "id": "bb59a8a2c2df",
@@ -33919,7 +33812,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "TRT Haber"
    ]
   },
   "cd56552d99a2": {
@@ -33965,9 +33859,221 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "c5793696a2a6": {
+   "id": "c5793696a2a6",
+   "kaynak": "TRT Haber",
+   "baslik": "Beşiktaş Crystal Palace ile berabere kaldı",
+   "ozet": "Beşiktaş, UEFA Avrupa Ligi'nde Crystal Palace ile 22 berabere kaldı.",
+   "link": "https://www.trthaber.com/haber/gundem/besiktas-crystal-palace-ile-berabere-kaldi-960945.html",
+   "zaman": "2026-10-22T23:57:00+03:00",
+   "kelimeler": [
+    "berab",
+    "besik",
+    "cryst",
+    "kaldi",
+    "palac"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "008bc38547e4"
+  },
+  "8258b356f2cb": {
+   "id": "8258b356f2cb",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş, Avrupa'da yoluna yenilgisiz devam etti",
+   "ozet": "UEFA Avrupa Ligi'nin 3. haftasında Beşiktaş, geçen sezonu Konferans Ligi şampiyonu olarak tamamlayan Premier Lig ekibi Crystal Palace'la 2-2 berabere kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupada-yoluna-yenilgisiz-devam-etti/4097852",
+   "zaman": "2026-10-22T23:57:01+03:00",
+   "kelimeler": [
+    "avrup",
+    "besik",
+    "devam",
+    "etti",
+    "yenil",
+    "yolun"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2713724e0341": {
+   "id": "2713724e0341",
+   "kaynak": "TRT Haber",
+   "baslik": "Van Gogh'un Yıldızlı Gece tablosundaki yüzyıllık sır çözüldü",
+   "ozet": "Vincent van Goghun ünlü tablosu Yıldızlı Gece'deki gökyüzü diziliminin, sanatçının 1889 yılının temmuz ayında gözlemlediği gerçek şafak vakti gökyüzüyle birebir uyuştuğu ortaya çıktı.",
+   "link": "https://www.trthaber.com/haber/dunya/van-goghun-yildizli-gece-tablosundaki-yuzyillik-sir-cozuldu-960946.html",
+   "zaman": "2026-10-23T00:01:00+03:00",
+   "kelimeler": [
+    "cozul",
+    "gece",
+    "gogh",
+    "sir",
+    "tablo",
+    "un",
+    "van",
+    "yildi",
+    "yuzyi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1330929fd4c3": {
+   "id": "1330929fd4c3",
+   "kaynak": "AA",
+   "baslik": "UEFA Konferans Ligi'nin ikinci haftası, 18 maçla tamamlandı",
+   "ozet": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının lig aşamasında, 18 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginin-ikinci-haftasi-18-macla-tamamlandi/4097856",
+   "zaman": "2026-10-23T00:01:55+03:00",
+   "kelimeler": [
+    "18",
+    "hafta",
+    "ikinc",
+    "konfe",
+    "ligi",
+    "macla",
+    "nin",
+    "tamam",
+    "uefa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "9fa411affac7": {
+   "id": "9fa411affac7",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump'tan LeBron James'e \"milli marş\" tepkisi",
+   "ozet": "ABD Başkanı Donald Trump, Amerikan milli marşı okunurken marşı dinlemeyip \"saygısızlık\" yaptığını belirttiği ünlü NBA oyuncusu LeBron James'in Amerikan halkından özür dilemesi gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/spor/abd-baskani-trumptan-lebron-jamese-milli-mars-tepkisi/4097857",
+   "zaman": "2026-10-23T00:04:06+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "james",
+    "lebro",
+    "mars",
+    "milli",
+    "tan",
+    "tepki",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "443fd4b09527": {
+   "id": "443fd4b09527",
+   "kaynak": "TRT Haber",
+   "baslik": "Endonezya'daki yangınlar 333 bin kişide solunum yolu enfeksiyonuna yol açtı",
+   "ozet": "Endonezya'da aylardır süren orman yangınları nedeniyle 333 binden fazla akut solunum yolu enfeksiyonu vakası kayıtlara geçti.",
+   "link": "https://www.trthaber.com/haber/dunya/endonezyadaki-yanginlar-333-bin-kiside-solunum-yolu-enfeksiyonuna-yol-acti-960947.html",
+   "zaman": "2026-10-23T00:07:00+03:00",
+   "kelimeler": [
+    "333",
+    "acti",
+    "bin",
+    "daki",
+    "endon",
+    "enfek",
+    "kisid",
+    "solun",
+    "yangi",
+    "yol",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aaae888436dd": {
+   "id": "aaae888436dd",
+   "kaynak": "XHABER",
+   "baslik": "Sırbistan'da protestolar başladı.",
+   "ozet": "Binlerce kişi sokaklara çıkmış durumda.",
+   "link": "https://t.me/sahinozkan000/30329",
+   "zaman": "2026-10-23T00:09:47+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Sırbistan'da protestolar başladı.\nBinlerce kişi sokaklara çıkmış durumda.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/El_lrNxE9rP57JHViARaCcDDANyW8FGkKQS4DtDV5askoQ-7nSlPcvvmijvi6RckYcktVy1Pcb1Fw41HCQjKQjrOjnYn9lUEswCM4wkfJz-rDU2g0kD6ojCFg39xvKZ6WlXRCSVP-WQgLL767jh1Atqmc4KA89rQkoSYWSjist7gGOnsDC6U3fwi1x-gEsR0bvsjq1H_J2s_pj_rcTcrNgzN30rLx5XqRYWfWUdsXavZZRQkHbuHT8zThsCdceME7qU_9kO-N8yeLYjbEaBLIWDn4RckOeYlWjW7tJDKUY84FsCvKzqKK5XY7-fy00Nyf1AO-BMv9dncOi-GMdp7rw",
+   "tg_video_url": "https://cdn4.telesco.pe/file/ddad133046.mp4?token=v4IwSNRRv5kzi7VZXii5hh4mebD-sTBvYpXNS1p0ghheNH9OK7-_-iKV2HV2WRGEDozxlWEmlPvs8hbNHcPceY3WOIAcGf2IOMBeKZ6XfPm0fZBu6BSQv-QMzmiz_ywqhlHWMf317HcRAcF_f4ev1fO9XFdjpTcuVulPI55vAalM871gufTfu1eYm3oOZlGP-ALHMa2O9M54F8yP5Lr1jfb0XamIWuEpaGDptwLAFkaEr1vf7hkMgexvf9Ieti6tjDmxoS3ElIQ8fkLvkWWIyNBXELIbmSN9hZbS0-nGGmU1xXPDG3mdwZqCsc_6xuUyBnLow7kc1oGJontdR0-twYi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ",
+   "kelimeler": [
+    "basla",
+    "prote",
+    "sirbi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb2346ef0e8a": {
+   "id": "eb2346ef0e8a",
+   "kaynak": "XHABER",
+   "baslik": "72 yaşındaki Ali Ağaoğlu ile 36 yaşındaki eşi Bige Yıldırımer, erkek bebek beklediklerini açıkladı.",
+   "ozet": "Ağaoğlu, 6. kez baba olacak.",
+   "link": "https://t.me/sahinozkan000/30330",
+   "zaman": "2026-10-23T00:11:07+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "72 yaşındaki Ali Ağaoğlu ile 36 yaşındaki eşi Bige Yıldırımer, erkek bebek beklediklerini açıkladı.\nAğaoğlu, 6. kez baba olacak.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/dseLHZ3zGZb_cJU6kkRflDvRBURBBKU4dzMq_aN_p4zJOFBSGCMK2HSicoV4eI_Qq3bPE93V5d5s2Ek0k8VNdnhG1l2boPLIWIH0z7HxgcYAPz6f6-imA_OEIcEupcAfoxKhv0lMVIlQ6Yu10CmcKA68H7oFKKLEnrOFPVxPCt2Yrp8CulIWIMDKWzjdtNhDdF_R1CqGYXwhakYUsort3bxBz1050PnDtxAP88lG3i8IRryeZQ7SVkrYWHsN16QviD_sJRVRaGihYPu8Z_qOF2sa41jrDKGBAssyTQsKYnLHnaXHvJ4znygqNmHjV_V4C0YeIIeXZ0pInqP4glSB5g.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "36",
+    "72",
+    "agaog",
+    "ali",
+    "bebek",
+    "bekle",
+    "bige",
+    "erkek",
+    "esi",
+    "yasin",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "afd23825f2ea": {
+   "id": "afd23825f2ea",
+   "kaynak": "AA",
+   "baslik": "UEFA Avrupa Ligi'nin üçüncü haftası, oynanan 18 maçla tamamlandı",
+   "ozet": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının lig aşamasında, 18 karşılaşma oynandı.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ucuncu-haftasi-oynanan-18-macla-tamamlandi/4097873",
+   "zaman": "2026-10-23T00:11:43+03:00",
+   "kelimeler": [
+    "18",
+    "avrup",
+    "hafta",
+    "ligi",
+    "macla",
+    "nin",
+    "oynan",
+    "tamam",
+    "ucunc",
+    "uefa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1330929fd4c3"
+  },
+  "96751d2ebd38": {
+   "id": "96751d2ebd38",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında 11 tutuklama, 4 ev hapsi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-11-tutuklama-4-ev-hapsi-p371851",
+   "zaman": "2026-10-23T00:14:56+03:00",
+   "kelimeler": [
+    "11",
+    "ev",
+    "fon",
+    "hapsi",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aa06488dcfbc"
   }
  },
  "kayit": [
+  "23.10 00:17:59  7 yeni haber",
   "23.10 00:04:23  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Alihan Kuriş suç örgütü soruşturmasında 19 tutuklama",
   "23.10 00:01:17  12 yeni haber",
   "22.10 22:46:07  2 yeni haber",
@@ -34166,8 +34272,7 @@
   "20.10 19:50:06  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Büyükelçi Kazakbaev, Türkiye'nin Kırgızistan'a yapılan yatırımlarda üç",
   "20.10 19:46:05  1 yeni haber",
   "20.10 19:31:07  8 yeni haber",
-  "20.10 19:15:58  2 yeni haber",
-  "20.10 19:01:25  6 yeni haber"
+  "20.10 19:15:58  2 yeni haber"
  ],
  "otomatik": false
 }
