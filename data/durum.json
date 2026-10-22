@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "6895d9c2bb3d": {
-   "id": "6895d9c2bb3d",
-   "kaynak": "Sözcü",
-   "baslik": "Altında ibre yeniden yukarı döndü",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/altinda-ibre-yeniden-yukari-dondu-p370470",
-   "zaman": "2026-10-19T07:54:47+03:00",
-   "kelimeler": [
-    "altin",
-    "dondu",
-    "ibre",
-    "yenid",
-    "yukar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "57887e728c29": {
-   "id": "57887e728c29",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
-   "ozet": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki barış görüşmelerinde \"büyük ilerleme\" kaydedildiğini ileri sürerek, öte yandan Ukrayna Devlet Başkanı Vladimir Zelenskiyi dünya dizel pazarlarına ciddi zarar veren Rusya'daki dizel rafinerilerini hedef almakla ve savaşı…",
-   "link": "https://www.trthaber.com/haber/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi-960487.html",
-   "zaman": "2026-10-19T07:54:00+03:00",
-   "kelimeler": [
-    "almas",
-    "daki",
-    "dizel",
-    "elest",
-    "hedef",
-    "nin",
-    "rafin",
-    "rusya",
-    "trump",
-    "ukray"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e7373f24a8c1"
-  },
-  "a987291bbc06": {
-   "id": "a987291bbc06",
-   "kaynak": "TRT Haber",
-   "baslik": "Filistin Eğitim Bakanlığı, İsrail saldırılarına maruz kalan öğrencilere uluslararası koruma istedi",
-   "ozet": "Filistin Eğitim Bakanlığı, İsrail'in son 24 saatte Gazze'de 3 öğrenciyi öldürdüğünü belirterek, çocukların korunması için uluslararası eylem çağrısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/filistin-egitim-bakanligi-israil-saldirilarina-maruz-kalan-ogrencilere-uluslararasi-koruma-istedi-960488.html",
-   "zaman": "2026-10-19T07:58:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "egiti",
-    "filis",
-    "israi",
-    "isted",
-    "kalan",
-    "korum",
-    "maruz",
-    "ogren",
-    "saldi",
-    "ulusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1e81e22e2b1f": {
    "id": "1e81e22e2b1f",
    "kaynak": "Hürriyet",
@@ -32559,8 +32496,9 @@
     "kolej",
     "skand"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "hata",
+   "oncelikli": true,
+   "hata": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=20)"
   },
   "82af90091994": {
    "id": "82af90091994",
@@ -32857,9 +32795,34 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a52e7471a469"
+  },
+  "ea79ea709784": {
+   "id": "ea79ea709784",
+   "kaynak": "AA",
+   "baslik": "Çukurova Belediyesine yönelik operasyonda gözaltına alınan 49 kişi adliyeye sevk edildi",
+   "ozet": "Çukurova Belediyesi'ndeki usulsüzlüklere yönelik soruşturmada 19 Ekim'de gözaltına alınan aralarında Çukurova Belediye Başkanı Kozay, geçen dönemki Belediye Başkanı Çetin ve 4 belediye başkan yardımcısının da bulunduğu 49 kişi adliyeye sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cukurova-belediyesine-yonelik-operasyonda-gozaltina-alinan-49-kisi-adliyeye-sevk-edildi-/4096599",
+   "zaman": "2026-10-22T07:43:19+03:00",
+   "kelimeler": [
+    "49",
+    "adliy",
+    "alina",
+    "beled",
+    "cukur",
+    "edild",
+    "gozal",
+    "kisi",
+    "opera",
+    "sevk",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 08:02:26  Otomatik paylaşım başarısız: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=20)",
+  "22.10 08:01:19  1 yeni haber",
   "22.10 07:31:04  4 yeni haber",
   "22.10 07:15:56  9 yeni haber",
   "22.10 07:02:32  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · HSK, bazı ilçelerin yargı çevrelerini yeniden belirledi",
@@ -33057,9 +33020,7 @@
   "20.10 05:46:12  1 yeni haber",
   "20.10 05:46:12  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "20.10 04:16:14  1 yeni haber",
-  "20.10 04:01:26  1 yeni haber",
-  "20.10 03:31:11  2 yeni haber",
-  "20.10 02:45:59  1 yeni haber"
+  "20.10 04:01:26  1 yeni haber"
  ],
  "otomatik": false
 }
