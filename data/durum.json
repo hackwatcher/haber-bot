@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "f9ceb3b88c03": {
-   "id": "f9ceb3b88c03",
-   "kaynak": "Sözcü",
-   "baslik": "Çukurova Belediyesi'ne operasyon: Çok sayıda gözaltı kararı var",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-cukurova-belediyesi-ne-operasyon-cok-sayida-gozalti-karari-var-p370468",
-   "zaman": "2026-10-19T07:42:27+03:00",
-   "kelimeler": [
-    "beled",
-    "cukur",
-    "gozal",
-    "karar",
-    "opera",
-    "sayid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "TRT Haber",
-    "AA",
-    "BBC Türkçe"
-   ]
-  },
   "6895d9c2bb3d": {
    "id": "6895d9c2bb3d",
    "kaynak": "Sözcü",
@@ -32389,7 +32365,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Hürriyet",
-    "Sözcü"
+    "Sözcü",
+    "AA"
    ]
   },
   "5296795b5224": {
@@ -32860,6 +32837,26 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fc5dc42224bf": {
+   "id": "fc5dc42224bf",
+   "kaynak": "AA",
+   "baslik": "Tuzla'da ayakkabı fabrikasında çıkan yangına müdahale ediliyor",
+   "ozet": "Tuzla'da ayakkabı fabrikasında çıkan yangına itfaiye ekiplerinin müdahalesi sürüyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/tuzlada-ayakkabi-fabrikasinda-cikan-yangina-mudahale-ediliyor/4096598",
+   "zaman": "2026-10-22T07:33:12+03:00",
+   "kelimeler": [
+    "ayakk",
+    "cikan",
+    "edili",
+    "fabri",
+    "mudah",
+    "tuzla",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a52e7471a469"
   }
  },
  "kayit": [
