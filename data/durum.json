@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "6f3937aa34a9": {
-   "id": "6f3937aa34a9",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Çukurova Belediyesi'ne operasyon: Belediye Başkanı dahil 44 kişi gözaltına alındı",
-   "ozet": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo",
-   "zaman": "2026-10-19T10:33:25+03:00",
-   "kelimeler": [
-    "44",
-    "alind",
-    "baska",
-    "beled",
-    "cukur",
-    "dahil",
-    "gozal",
-    "kisi",
-    "opera"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f9ceb3b88c03"
-  },
-  "8a7cb7ec39c9": {
-   "id": "8a7cb7ec39c9",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul ve Kocaeli'deki selde can kaybı 8'e yükseldi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-veya-istanbul-ve-kocaeli-deki-selde-can-kaybi-8-e-yukseldi-p370490",
-   "zaman": "2026-10-19T10:39:05+03:00",
-   "kelimeler": [
-    "can",
-    "deki",
-    "istan",
-    "kaybi",
-    "kocae",
-    "selde",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "642f7ce12668"
-  },
   "935ed4a6705d": {
    "id": "935ed4a6705d",
    "kaynak": "TRT Haber",
@@ -31489,7 +31447,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "6794d5bceaa4": {
    "id": "6794d5bceaa4",
@@ -32459,9 +32420,127 @@
    "fb_reels_id": "2566914983823592",
    "slayt": 6,
    "kanca": "SÜRÜCÜ ASLİ KUSURLU"
+  },
+  "6f3937aa34a9": {
+   "id": "6f3937aa34a9",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Çukurova Belediye Başkanı dahil 49 kişi adliyeye sevk edildi",
+   "ozet": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo",
+   "zaman": "2026-10-22T09:19:03+03:00",
+   "kelimeler": [
+    "49",
+    "adliy",
+    "baska",
+    "beled",
+    "cukur",
+    "dahil",
+    "edild",
+    "kisi",
+    "sevk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea79ea709784"
+  },
+  "4267c4d4ee30": {
+   "id": "4267c4d4ee30",
+   "kaynak": "TRT Haber",
+   "baslik": "Sosyal medya platformlarına ceza yağıyor",
+   "ozet": "Sosyal medya platformları çeşitli ihlaller nedeniyle yüklü miktarda cezalarla karşı karşıya kalıyor. Son olarak ABD'de Meta, tüketiciyi koruma yasalarını ihlal etmekten 25 milyar dolarlık cezaya çarptırıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/sosyal-medya-platformlarina-ceza-yagiyor-960850.html",
+   "zaman": "2026-10-22T09:25:00+03:00",
+   "kelimeler": [
+    "ceza",
+    "medya",
+    "platf",
+    "sosya",
+    "yagiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9903bc2f5dc9": {
+   "id": "9903bc2f5dc9",
+   "kaynak": "AA",
+   "baslik": "Yerli turistler yılın ikinci çeyreğinde 155 milyar lira seyahat harcaması yaptı",
+   "ozet": "Yerli turistlerin bu yılın nisan-haziran döneminde yurt içinde yaptığı seyahat harcamaları, geçen yılın aynı dönemine göre yüzde 32,6 artarak 154 milyar 998 milyon 4 bin lira oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcamasi-yapti/4096731",
+   "zaman": "2026-10-22T10:29:18+03:00",
+   "kelimeler": [
+    "155",
+    "ceyre",
+    "harca",
+    "ikinc",
+    "lira",
+    "milya",
+    "seyah",
+    "turis",
+    "yapti",
+    "yerli",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cda3d84f5334": {
+   "id": "cda3d84f5334",
+   "kaynak": "TRT Haber",
+   "baslik": "Alperen Şengün'den sezona 'doubledouble' başlangıç",
+   "ozet": "NBA'de Houston Rockets, milli basketbolcu Alperen Şengün'ün \"doubledouble\" yaptığı maçta Dallas Mavericks'i 128110 yendi.",
+   "link": "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html",
+   "zaman": "2026-10-22T10:31:00+03:00",
+   "kelimeler": [
+    "alper",
+    "basla",
+    "den",
+    "doubl",
+    "sengu",
+    "sezon"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "362ba08516fb": {
+   "id": "362ba08516fb",
+   "kaynak": "TRT Haber",
+   "baslik": "Zonguldak'taki bina çökmesi soruşturmasında 3 kişi gözaltında",
+   "ozet": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı bina çökmesine ilişkin soruşturmada kepçe operatörü, işveren ve mimar hakkında gözaltı kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/zonguldaktaki-bina-cokmesi-sorusturmasinda-3-kisi-gozaltinda-960851.html",
+   "zaman": "2026-10-22T10:32:00+03:00",
+   "kelimeler": [
+    "bina",
+    "cokme",
+    "gozal",
+    "kisi",
+    "sorus",
+    "taki",
+    "zongu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7bd1779ff842": {
+   "id": "7bd1779ff842",
+   "kaynak": "AA",
+   "baslik": "Brüksel'de öğrenciler üniversite kampüsünün girişini kapattı",
+   "ozet": "Belçika'nın başkenti Brüksel'de, öğrenim harçlarına yapılması planlanan zam ve yükseköğretim finansmanındaki kesintilere tepki gösteren öğrenciler, üniversite kampüsünün girişini kapattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/-brukselde-ogrenciler-universite-kampusunun-girisini-kapatti/4096734",
+   "zaman": "2026-10-22T10:33:04+03:00",
+   "kelimeler": [
+    "bruks",
+    "giris",
+    "kampu",
+    "kapat",
+    "ogren",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 10:40:34  5 yeni haber",
   "22.10 10:35:56  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Elif Mavi'nin yaşamını yitirdiği kazada iddianame hazır: Sürücü asli k",
   "22.10 10:33:01  5 yeni haber",
   "22.10 10:17:58  2 yeni haber",
@@ -32660,8 +32739,7 @@
   "20.10 09:46:21  9 yeni haber",
   "20.10 09:33:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Üsküdar’da 3’üncü seçim",
   "20.10 09:31:14  2 yeni haber",
-  "20.10 09:15:56  6 yeni haber",
-  "20.10 09:01:14  6 yeni haber"
+  "20.10 09:15:56  6 yeni haber"
  ],
  "otomatik": false
 }
