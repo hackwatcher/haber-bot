@@ -1,107 +1,5 @@
 {
  "haberler": {
-  "1e74ae3567eb": {
-   "id": "1e74ae3567eb",
-   "kaynak": "TRT Haber",
-   "baslik": "Hazine ve Maliye Bakan Yardımcısı Çelik emekliliğini sundu",
-   "ozet": "Hazine ve Maliye Bakan Yardımcısı Osman Çelik, Bakan Şimşek'e bugünden geçerli olmak üzere emeklilik dilekçesini sundu.",
-   "link": "https://www.trthaber.com/haber/ekonomi/hazine-ve-maliye-bakan-yardimcisi-celik-emekliligini-sundu-960552.html",
-   "zaman": "2026-10-19T17:33:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "celik",
-    "emekl",
-    "hazin",
-    "maliy",
-    "sundu",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "5a5a06f87c99": {
-   "id": "5a5a06f87c99",
-   "kaynak": "Hürriyet",
-   "baslik": "Esenyurt Belediyesi Başkan Vekili Can Aksoy, görevden alındı",
-   "ozet": "Esenyurt Belediyesi Başkan Vekili Can Aksoy görevden alındı. Can Aksoy, İstanbul Vali Yardımcılığı görevini sürdürecek.",
-   "link": "https://www.hurriyet.com.tr/gundem/esenyurt-belediyesi-baskan-vekili-can-aksoy-gorevden-alindi-43347614",
-   "zaman": "2026-10-19T17:33:17+03:00",
-   "kelimeler": [
-    "aksoy",
-    "alind",
-    "baska",
-    "beled",
-    "can",
-    "eseny",
-    "gorev",
-    "vekil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f74fd2089709"
-  },
-  "407ab86999e1": {
-   "id": "407ab86999e1",
-   "kaynak": "TRT Haber",
-   "baslik": "Bodrum'da gıda güvenliği denetimleri: 8 işletmeye kapatma cezası",
-   "ozet": "Muğla'nın Bodrum ilçesinde belediye ekiplerince gerçekleştirilen denetimlerde, son kullanma tarihi geçmiş ürün sattığı belirlenen 8 işletmeye 3'er gün kapatma cezası uygulandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/bodrumda-gida-guvenligi-denetimleri-8-isletmeye-kapatma-cezasi-960553.html",
-   "zaman": "2026-10-19T17:35:00+03:00",
-   "kelimeler": [
-    "bodru",
-    "cezas",
-    "denet",
-    "gida",
-    "guven",
-    "islet",
-    "kapat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1ca201cb2776": {
-   "id": "1ca201cb2776",
-   "kaynak": "AA",
-   "baslik": "Sakarya'da ekimdeki yağışlar kente 4,5 ay yetecek içme suyu sağladı",
-   "ozet": "Marmara Bölgesi'nin önemli içme suyu kaynaklarından Sapanca Gölü'ndeki su seviyesi, ekim ayında etkili olan yağışlarla 30,51 metreye çıktı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-ekimdeki-yagislar-kente-4-5-ay-yetecek-icme-suyu-sagladi/4093679",
-   "zaman": "2026-10-19T17:36:42+03:00",
-   "kelimeler": [
-    "ay",
-    "ekimd",
-    "icme",
-    "kente",
-    "sagla",
-    "sakar",
-    "suyu",
-    "yagis",
-    "yetec"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f9aa736b8c99": {
-   "id": "f9aa736b8c99",
-   "kaynak": "BBC Türkçe",
-   "baslik": "SPK Başkanı Mahmut Sütcü istifa etti",
-   "ozet": "Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü'nün, sağlık sorunları nedeniyle istifa ettiği açıklandı. Hazine ve Maliye Bakan Yardımcısı Osman Çelik'in de Bakan Mehmet Şimşek'e emeklilik dilekçesini sunduğu kamuoyuna duyuruldu.",
-   "link": "https://www.bbc.com/turkce/articles/cmpqg5j2yw18o",
-   "zaman": "2026-10-19T17:37:39+03:00",
-   "kelimeler": [
-    "baska",
-    "etti",
-    "istif",
-    "mahmu",
-    "spk",
-    "sutcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "154b7b3e5906"
-  },
   "d9ac3e7c3217": {
    "id": "d9ac3e7c3217",
    "kaynak": "Hürriyet",
@@ -14943,7 +14841,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "19401546beaf": {
@@ -33366,8 +33265,17 @@
     "oldug",
     "yikil"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-22T17:48:21.469317+03:00",
+   "ig_id": "17952252762049395",
+   "reels_id": "18125704421492228",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1677649820603720",
+   "slayt": 5,
+   "kanca": "4 SANIĞA HAPİS CEZASI"
   },
   "1acdb5acdd46": {
    "id": "1acdb5acdd46",
@@ -33434,9 +33342,75 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ccb179b2a0d0"
+  },
+  "a57ed154a815": {
+   "id": "a57ed154a815",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: Kanada ile ticaret hacmimizi 10 milyar dolara çıkarmayı temenni ediyoruz",
+   "ozet": "Cumhurbaşkanı Erdoğan, \"Atacağımız adımlarla yaklaşık 3 milyar dolar civarında seyreden ticaret hacmimizi ilk olarak 5 milyar, akabinde 10 milyar dolara çıkarmayı temenni ediyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kanada-ile-ticaret-hacmimizi-10-milyar-dolara-cikarmayi-temenni-ediyoruz/4097340",
+   "zaman": "2026-10-22T16:42:51+03:00",
+   "kelimeler": [
+    "10",
+    "cikar",
+    "cumhu",
+    "dolar",
+    "ediyo",
+    "erdog",
+    "hacmi",
+    "kanad",
+    "milya",
+    "temen",
+    "ticar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "65bb2fcf5892": {
+   "id": "65bb2fcf5892",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: Kanada ile ilişkiler 'stratejik ortaklık' düzeyine yükseltildi",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kanada ile ilişkilerin \"stratejik ortaklık\" seviyesine çıkarıldığını ve Serbest Ticaret Anlaşması müzakerelerine yıl sonundan önce başlanacağını söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kanada-ile-iliskiler-stratejik-ortaklik-duzeyine-yukseltildi-960923.html",
+   "zaman": "2026-10-22T17:11:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "duzey",
+    "erdog",
+    "ilisk",
+    "kanad",
+    "ortak",
+    "strat",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ccb179b2a0d0"
+  },
+  "765b9d62c631": {
+   "id": "765b9d62c631",
+   "kaynak": "AA",
+   "baslik": "Altın ve gümüş fiyatları artan enerji maliyetleriyle düşüşte",
+   "ozet": "Küresel piyasalarda altının ons fiyatı, artan enerji maliyetlerinin enflasyon baskısını artırması ve Fed'in faizleri uzun süre yüksek tutacağı beklentileriyle yüzde 2'nin üzerinde geriledi. Gümüşün ons fiyatı da yüzde 4'ü aşan düşüşle 55 dolara indi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/altin-ve-gumus-fiyatlari-artan-enerji-maliyetleriyle-dususte/4097424",
+   "zaman": "2026-10-22T17:35:19+03:00",
+   "kelimeler": [
+    "altin",
+    "artan",
+    "dusus",
+    "enerj",
+    "fiyat",
+    "gumus",
+    "maliy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "50fa251702fa"
   }
  },
  "kayit": [
+  "22.10 17:48:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin da",
   "22.10 17:31:16  10 yeni haber",
   "22.10 17:01:20  11 yeni haber",
   "22.10 16:22:24  9 yeni haber",
@@ -33635,8 +33609,7 @@
   "20.10 15:16:12  1 yeni haber",
   "20.10 15:01:28  11 yeni haber",
   "20.10 14:46:04  8 yeni haber",
-  "20.10 14:31:13  1 yeni haber",
-  "20.10 14:16:05  5 yeni haber"
+  "20.10 14:31:13  1 yeni haber"
  ],
  "otomatik": false
 }
