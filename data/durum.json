@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "4e647bdc8808": {
-   "id": "4e647bdc8808",
-   "kaynak": "Hürriyet",
-   "baslik": "Özgür Özel: Barış sürecinden herkes faydalı çıkar",
-   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, ‘Terörsüz Türkiye’ sürecine ilişkin, \"Türkiye'deki barış süreci, terörün sona ermesi, silahların bırakılması, çatışmaların bir daha geri gelmemek üzere son bulmasında bu topraklar üzerinde yaşayan hiç kimsenin zararı yoktur.",
-   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-baris-surecinden-herkes-faydali-cikar-43347685",
-   "zaman": "2026-10-19T18:49:31+03:00",
-   "kelimeler": [
-    "baris",
-    "cikar",
-    "fayda",
-    "herke",
-    "ozel",
-    "ozgur",
-    "surec"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "defe79d8ddef": {
-   "id": "defe79d8ddef",
-   "kaynak": "NTV",
-   "baslik": "16 yaşındaki Hiranur cinayetinde ağırlaştırılmış müebbet kararı",
-   "ozet": "Mersin'de 16 yaşındaki Hiranur Nilgün Aygar'ın ölümüne ilişkin davada cinayet sanığına ağırlaştırılmış müebbet cezası verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/16-yasindaki-hiranurun-cinayet-sanigina-agirlastirilmis-muebbet-1747048",
-   "zaman": "2026-10-19T18:57:57+03:00",
-   "kelimeler": [
-    "16",
-    "agirl",
-    "cinay",
-    "hiran",
-    "karar",
-    "muebb",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "bb3306d18578": {
-   "id": "bb3306d18578",
-   "kaynak": "TRT Haber",
-   "baslik": "Ambulansa yol vermeyen sürücüye 46 bin lira ceza",
-   "ozet": "İstanbul Zeytinburnu'nda ambulansa yol vermediği belirlenen sürücüye 46 bin lira ceza uygulandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ambulansa-yol-vermeyen-surucuye-46-bin-lira-ceza-960557.html",
-   "zaman": "2026-10-19T18:47:00+03:00",
-   "kelimeler": [
-    "46",
-    "ambul",
-    "bin",
-    "ceza",
-    "lira",
-    "suruc",
-    "verme",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "be65f13f2530": {
-   "id": "be65f13f2530",
-   "kaynak": "Hürriyet",
-   "baslik": "Ankara Temelli’ye 4,1 milyar dolarlık veri merkezi... Bakan Kacır: 2012’den bu yana 42 milyar liralık veri merkezi yatırımının önünü açtık",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Ankara'nın Temelli bölgesindeki Başkent OSB bünyesinde 450 milyon dolarlık yatırımla veri merkezi yapılacağını belirterek, \"22 megavat kapasiteli tesis, sonrasında gerçekleşecek 900 milyon dolarlık gelişmiş soğutma sistemleri ve…",
-   "link": "https://www.hurriyet.com.tr/gundem/ankara-temelliye-4-1-milyar-dolarlik-veri-merkezi-bakan-kacir-2012den-bu-yana-42-milyar-liralik-veri-merkezi-yatiriminin-onunu-actik-43347690",
-   "zaman": "2026-10-19T18:55:00+03:00",
-   "kelimeler": [
-    "2012",
-    "42",
-    "actik",
-    "ankar",
-    "bakan",
-    "den",
-    "dolar",
-    "kacir",
-    "liral",
-    "merke",
-    "milya",
-    "onunu",
-    "temel",
-    "veri",
-    "yana",
-    "yatir",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "04895961a58d"
-  },
-  "56e47482d1cd": {
-   "id": "56e47482d1cd",
-   "kaynak": "Hürriyet",
-   "baslik": "Konya'da kıraathaneye tüfekli saldırı: 1 ölü, 1 yaralı",
-   "ozet": "Konya'nın Akşehir ilçesinde bir kıraathaneye av tüfeğiyle gelen şüphelinin ateş açması sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/konyada-kiraathaneye-tufekli-saldiri-1-olu-1-yarali-43347693",
-   "zaman": "2026-10-19T18:57:00+03:00",
-   "kelimeler": [
-    "kiraa",
-    "konya",
-    "olu",
-    "saldi",
-    "tufek",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8ec9e41e25e5": {
    "id": "8ec9e41e25e5",
    "kaynak": "Sözcü",
@@ -33300,7 +33194,10 @@
     "tibet"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5e03806c35c7": {
    "id": "5e03806c35c7",
@@ -33489,7 +33386,10 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "8a15c8333f33": {
    "id": "8a15c8333f33",
@@ -33508,9 +33408,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d47528f778b5": {
+   "id": "d47528f778b5",
+   "kaynak": "TRT Haber",
+   "baslik": "Şehit ve gazi çocuklarına 609 milyon TL'lik eğitim desteği",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, şehit çocuklarına, harpvazife malullerine ve çocuklarına yönelik 609 milyon liralık eğitimöğretim yardımı ödemelerinin yarın yapılacağını açıkladı.",
+   "link": "https://www.trthaber.com/haber/egitim/sehit-ve-gazi-cocuklarina-609-milyon-tllik-egitim-destegi-960930.html",
+   "zaman": "2026-10-22T18:42:00+03:00",
+   "kelimeler": [
+    "609",
+    "cocuk",
+    "deste",
+    "egiti",
+    "gazi",
+    "lik",
+    "milyo",
+    "sehit",
+    "tl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "30675707b8eb": {
+   "id": "30675707b8eb",
+   "kaynak": "AA",
+   "baslik": "Bakan Kacır: Yerli harita ve navigasyon uygulamasını 2027 başından itibaren kullanmaya hazırlanıyoruz",
+   "ozet": "Sanayi ve Teknoloji Bakanı Kacır, veri güvenliği açısından stratejik gördükleri yerli harita ve navigasyon uygulamasını 2027 başından itibaren kullanmaya hazırlandıklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-yerli-harita-ve-navigasyon-uygulamasini-2027-basindan-itibaren-kullanmaya-hazirlaniyoruz/4097593",
+   "zaman": "2026-10-22T18:42:38+03:00",
+   "kelimeler": [
+    "2027",
+    "bakan",
+    "basin",
+    "harit",
+    "hazir",
+    "itiba",
+    "kacir",
+    "kulla",
+    "navig",
+    "uygul",
+    "yerli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5ad81d2e6d5d"
+  },
+  "04030196ed64": {
+   "id": "04030196ed64",
+   "kaynak": "Hürriyet",
+   "baslik": "Trafoya giren zihinsel engelli hayatını kaybetti",
+   "ozet": "ANKARA'da trafoya giren zihinsel engelli Durali Yaz (74), elektrik akımına kapılarak hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/trafoya-giren-zihinsel-engelli-hayatini-kaybetti-43351485",
+   "zaman": "2026-10-22T18:47:43+03:00",
+   "kelimeler": [
+    "engel",
+    "giren",
+    "hayat",
+    "kaybe",
+    "trafo",
+    "zihin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7d867feb249c": {
+   "id": "7d867feb249c",
+   "kaynak": "TRT Haber",
+   "baslik": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
+   "ozet": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesinde-7-buyuklugunde-deprem-meydana-geldi-960931.html",
+   "zaman": "2026-10-22T18:51:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "buyuk",
+    "cin",
+    "depre",
+    "geldi",
+    "in",
+    "meyda",
+    "nde",
+    "ozerk",
+    "tibet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "866b723ef463"
   }
  },
  "kayit": [
+  "22.10 19:01:43  2 yeni haber",
   "22.10 18:46:03  5 yeni haber",
   "22.10 18:31:23  4 yeni haber",
   "22.10 18:16:04  1 yeni haber",
@@ -33709,8 +33696,7 @@
   "20.10 16:16:13  6 yeni haber",
   "20.10 16:01:30  6 yeni haber",
   "20.10 15:46:00  3 yeni haber",
-  "20.10 15:31:11  3 yeni haber",
-  "20.10 15:19:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaraydan Lille maçı öncesi UEFA'ya güvenlik başvurusu"
+  "20.10 15:31:11  3 yeni haber"
  ],
  "otomatik": false
 }
