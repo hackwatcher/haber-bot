@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "886bf98a71e5": {
-   "id": "886bf98a71e5",
-   "kaynak": "Hürriyet",
-   "baslik": "Vakalar hızla tırmanıyor, sayı binleri aştı! Bulaştırıcılığı en yüksek virüs... “Bir hasta 18 kişiye bulaştırabiliyor”",
-   "ozet": "Unutulmaya yüz tutan tehlike sessizce geri döndü. Yıllardır başarıyla kontrol altında tutulan kızamık vakaları 2026’da tırmanışa geçerek binleri aştı.",
-   "link": "https://www.hurriyet.com.tr/gundem/vakalar-hizla-tirmaniyor-sayi-binleri-asti-bulastiriciligi-en-yuksek-virus-bir-hasta-18-kisiye-bulastirabiliyor-43340327",
-   "zaman": "2026-10-19T06:29:00+03:00",
-   "kelimeler": [
-    "18",
-    "asti",
-    "binle",
-    "bulas",
-    "hasta",
-    "hizla",
-    "kisiy",
-    "sayi",
-    "tirma",
-    "vakal",
-    "virus",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b6dfe60af657": {
    "id": "b6dfe60af657",
    "kaynak": "AA",
@@ -230,30 +206,6 @@
     "AA",
     "BBC Türkçe"
    ]
-  },
-  "befe36571ff9": {
-   "id": "befe36571ff9",
-   "kaynak": "TRT Haber",
-   "baslik": "İran Dışişleri Bakanı Arakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
-   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor-960486.html",
-   "zaman": "2026-10-19T06:25:00+03:00",
-   "kelimeler": [
-    "abd",
-    "arakc",
-    "bakan",
-    "disis",
-    "girme",
-    "hapse",
-    "iran",
-    "netan",
-    "savas",
-    "suruk",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "925840edff9b"
   },
   "6895d9c2bb3d": {
    "id": "6895d9c2bb3d",
@@ -31174,7 +31126,10 @@
     "vatan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "662f4c3917ff": {
    "id": "662f4c3917ff",
@@ -32542,9 +32497,51 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9fda3ad3677a"
+  },
+  "8c3ad3119cf7": {
+   "id": "8c3ad3119cf7",
+   "kaynak": "TRT Haber",
+   "baslik": "Amasya'da binanın içine giren yaban domuzu paniğe neden oldu",
+   "ozet": "Amasya'da bir sitenin binasına giren yaban domuzu paniğe neden oldu. İhbar üzerine bölgeye sevk edilen polis ekipleri, yaban domuzunu etkisiz hale getirdi. Operasyonu İl Emniyet Müdürü Ali Erkan Aktaşgül de takip etti.",
+   "link": "https://www.trthaber.com/haber/turkiye/amasyada-binanin-icine-giren-yaban-domuzu-panige-neden-oldu-960834.html",
+   "zaman": "2026-10-22T06:07:00+03:00",
+   "kelimeler": [
+    "amasy",
+    "binan",
+    "domuz",
+    "giren",
+    "icine",
+    "neden",
+    "panig",
+    "yaban"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "43f40c871bd7": {
+   "id": "43f40c871bd7",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da güvenlik açığı nedeniyle valiliklerin siteleri erişime kapatıldı",
+   "ozet": "Fransa'da internet sitelerinin altyapısında yaygın olarak kullanılan PHP programlama dilinde tespit edilen güvenlik açıkları nedeniyle valiliklerin internet siteleri geçici olarak erişime kapatıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-guvenlik-acigi-nedeniyle-valiliklerin-siteleri-erisime-kapatildi-960835.html",
+   "zaman": "2026-10-22T06:21:00+03:00",
+   "kelimeler": [
+    "acigi",
+    "erisi",
+    "frans",
+    "guven",
+    "kapat",
+    "neden",
+    "sitel",
+    "valil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6cabe352809"
   }
  },
  "kayit": [
+  "22.10 06:31:24  1 yeni haber",
   "22.10 05:01:16  2 yeni haber",
   "22.10 03:31:12  2 yeni haber",
   "22.10 03:16:17  2 yeni haber",
@@ -32743,8 +32740,7 @@
   "20.10 02:31:13  3 yeni haber",
   "20.10 02:01:45  1 yeni haber",
   "20.10 01:46:00  1 yeni haber",
-  "20.10 01:31:13  3 yeni haber",
-  "20.10 01:19:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 19 Ekim 2"
+  "20.10 01:31:13  3 yeni haber"
  ],
  "otomatik": false
 }
