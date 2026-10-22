@@ -31928,7 +31928,10 @@
     "tahli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "00c866e58cc3": {
    "id": "00c866e58cc3",
@@ -32564,6 +32567,45 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "6a00d7fa6579": {
+   "id": "6a00d7fa6579",
+   "kaynak": "TRT Haber",
+   "baslik": "Balıkesir'de tıra çarpan motosiklet sürücüsü hayatını kaybetti",
+   "ozet": "Balıkesir'in Bandırma ilçesinde, park halindeki tıra çarpan motosiklet sürücüsü yaşamını yitirdi.",
+   "link": "https://www.trthaber.com/haber/turkiye/balikesirde-tira-carpan-motosiklet-surucusu-hayatini-kaybetti-960832.html",
+   "zaman": "2026-10-22T03:29:00+03:00",
+   "kelimeler": [
+    "balik",
+    "carpa",
+    "hayat",
+    "kaybe",
+    "motos",
+    "suruc",
+    "tira"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e82934bfe721"
+  },
+  "1003b49fadaf": {
+   "id": "1003b49fadaf",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'den Suudi Arabistan için tahliye kararı",
+   "ozet": "Amerika Birleşik Devletleri, artan güvenlik riskleri nedeniyle Suudi Arabistan'daki acil durum dışı diplomatik personel ve ailelerine ülkeden ayrılma talimatı verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdden-suudi-arabistan-icin-tahliye-karari-960833.html",
+   "zaman": "2026-10-22T05:01:00+03:00",
+   "kelimeler": [
+    "abd",
+    "arabi",
+    "den",
+    "karar",
+    "suudi",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9fda3ad3677a"
   }
  },
  "kayit": [
