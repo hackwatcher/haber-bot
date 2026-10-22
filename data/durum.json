@@ -1,101 +1,5 @@
 {
  "haberler": {
-  "e810b5f85f61": {
-   "id": "e810b5f85f61",
-   "kaynak": "Hürriyet",
-   "baslik": "Diyarbakır'da otomobilin bagajına giren yılanı esnaf çıkardı",
-   "ozet": "Diyarbakır’ın Çermik ilçesinde bir otomobilin bagajına yılan girdi. Esnaf tarafından bagajdan çıkarılan yılan, doğal yaşam alanına bırakıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-otomobilin-bagajina-giren-yilani-esnaf-cikardi-43347358",
-   "zaman": "2026-10-19T15:05:10+03:00",
-   "kelimeler": [
-    "bagaj",
-    "cikar",
-    "diyar",
-    "esnaf",
-    "giren",
-    "otomo",
-    "yilan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "70d4cd171b9e": {
-   "id": "70d4cd171b9e",
-   "kaynak": "TRT Haber",
-   "baslik": "YEKA yarışmaları 23 Kasım'da yapılacak",
-   "ozet": "Enerji ve Tabii Kaynaklar Bakanlığınca rüzgar ve güneş enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları YEKA ve bağlantı kapasitelerinin tahsisine ilişkin yarışmalar 2 ve 3 Kasım'da yapılacak.",
-   "link": "https://www.trthaber.com/haber/ekonomi/yeka-yarismalari-2-3-kasimda-yapilacak-960535.html",
-   "zaman": "2026-10-19T15:04:00+03:00",
-   "kelimeler": [
-    "23",
-    "kasim",
-    "yapil",
-    "yaris",
-    "yeka"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8b334bf6d7c1"
-  },
-  "d1ad9c6b00b4": {
-   "id": "d1ad9c6b00b4",
-   "kaynak": "TRT Haber",
-   "baslik": "Bireysel Öğrenme Etkinlikleri kitapları erişime açıldı",
-   "ozet": "Milli Eğitim Bakanlığı MEB, eğitimde fırsat eşitliğini güçlendirmek, öğrenmenin sürekliliğini desteklemek ve öğrencilerin bireysel öğrenme becerilerini geliştirmek amacıyla hazırlanan \"Bireysel Öğrenme Etkinlikleri\" kitaplarını erişime açtı.",
-   "link": "https://www.trthaber.com/haber/egitim/bireysel-ogrenme-etkinlikleri-kitaplari-erisime-acildi-960532.html",
-   "zaman": "2026-10-19T15:05:00+03:00",
-   "kelimeler": [
-    "acild",
-    "birey",
-    "erisi",
-    "etkin",
-    "kitap",
-    "ogren"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c39e6f44bc88"
-  },
-  "86b34bebed3f": {
-   "id": "86b34bebed3f",
-   "kaynak": "TRT Haber",
-   "baslik": "FenerbahçeSlavia Prag maçı TRT 1'de",
-   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Çekya ekibi Slavia Prag'ı ağırlayacak. Chobani Stadı'nda saat 19.45'te başlayacak karşılaşma TRT 1, tabii ve TRT Radyo 1'den canlı yayınlanacak.",
-   "link": "https://www.trthaber.com/haber/gundem/fenerbahce-slavia-prag-maci-trt-1de-960533.html",
-   "zaman": "2026-10-19T15:08:00+03:00",
-   "kelimeler": [
-    "fener",
-    "maci",
-    "prag",
-    "trt"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "d7ff842637ce": {
-   "id": "d7ff842637ce",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan, Suudi mevkidaşıyla görüştü",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan Al Suud ile telefon görüşmesi gerçekleştirdi. Görüşmede, Suudi Arabistan'ın egemenliğini ve toprak bütünlüğünü hedef alan saldırılar başta olmak üzere bölgesel güvenlik meseleleri ele alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-suudi-mevkidasiyla-gorustu-960534.html",
-   "zaman": "2026-10-19T15:13:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "fidan",
-    "gorus",
-    "mevki",
-    "suudi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ]
-  },
   "ce43fb4209dd": {
    "id": "ce43fb4209dd",
    "kaynak": "AA",
@@ -23774,7 +23678,8 @@
     "yunan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4249efdf319f": {
    "id": "4249efdf319f",
@@ -33508,9 +33413,257 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f49a00c8dd63": {
+   "id": "f49a00c8dd63",
+   "kaynak": "AA",
+   "baslik": "Ampute Futbol Milli Takımı'nda 8 oyuncu ilk kez Dünya Kupası'nda mücadele edecek",
+   "ozet": "Ampute Futbol Milli Takımı, 8 yeni oyuncunun yer aldığı kadrosuyla Meksika'da düzenlenecek Dünya Kupası'nda şampiyon ünvanını korumak için hazırlıklarını sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takiminda-8-oyuncu-ilk-kez-dunya-kupasinda-mucadele-edecek/4096790",
+   "zaman": "2026-10-22T11:07:29+03:00",
+   "kelimeler": [
+    "amput",
+    "dunya",
+    "edece",
+    "futbo",
+    "ilk",
+    "kez",
+    "kupas",
+    "milli",
+    "mucad",
+    "nda",
+    "oyunc",
+    "takim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f1837f57f68c": {
+   "id": "f1837f57f68c",
+   "kaynak": "AA",
+   "baslik": "Pentagon, 850 adet F-35 üretimi konusunda Lockheed Martin ile çerçeve anlaşmaya vardı",
+   "ozet": "ABD Savunma Bakanlığının (Pentagon), Lockheed Martin şirketiyle 10 yılda en az 850 adet \"F-35 Lightning II\" model savaş uçağı üretimini içeren çerçeve anlaşma imzaladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/pentagon-850-adet-f-35-uretimi-konusunda-lockheed-martin-ile-cerceve-anlasmaya-vardi/4097164",
+   "zaman": "2026-10-22T14:55:24+03:00",
+   "kelimeler": [
+    "35",
+    "850",
+    "adet",
+    "anlas",
+    "cerce",
+    "konus",
+    "lockh",
+    "marti",
+    "penta",
+    "ureti",
+    "vardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bef6d7086616": {
+   "id": "bef6d7086616",
+   "kaynak": "TRT Haber",
+   "baslik": "A Milli Takım'da Sergen Yalçın dönemi resmen başladı",
+   "ozet": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, 4 yıllık imzayı attı. Birlik ve beraberlik çağrısı yapan Yalçın, \"Çünkü hepimizin üzerinde olan bir değerden bahsediyoruz, o da AyYıldız\" dedi.",
+   "link": "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-960905.html",
+   "zaman": "2026-10-22T14:57:00+03:00",
+   "kelimeler": [
+    "basla",
+    "donem",
+    "milli",
+    "resme",
+    "serge",
+    "takim",
+    "yalci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c6afad33cbb": {
+   "id": "6c6afad33cbb",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanlığından 7. Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Sürecin başından bu yana, tasfiye sürecinde olan fonların sayısı 131'den 47'ye düşmüş, 55 bin 755 hesaba toplam 49,7 milyar lira tutarında ayni ve nakdi tasfiye ödemesi yapılmıştır.\" açıklamasında bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-7-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4097167",
+   "zaman": "2026-10-22T14:58:20+03:00",
+   "kelimeler": [
+    "acikl",
+    "baska",
+    "fon",
+    "ileti",
+    "ilisk",
+    "koord",
+    "kurul",
+    "na",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3633b07b39d1": {
+   "id": "3633b07b39d1",
+   "kaynak": "AA",
+   "baslik": "Fransa Cumhurbaşkanı Macron gelecek günlerde sendika dışı eylemlerin her yerde yasaklanacağını açıkladı",
+   "ozet": "Macron 17 Ekim’de yağma ve şiddet olaylarının yaşandığı Sarı Yelekliler eylemlerinin ardından güvenlik tedbirlerinin sıkılaştırıldığı Fransa’da sendikaların talebiyle düzenlenmeyen tüm eylemlerin hemen her yerde yasaklanacağını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-gelecek-gunlerde-sendika-disi-eylemlerin-her-yerde-yasaklanacagini-acikladi/4097168",
+   "zaman": "2026-10-22T15:00:38+03:00",
+   "kelimeler": [
+    "cumhu",
+    "disi",
+    "eylem",
+    "frans",
+    "gelec",
+    "gunle",
+    "her",
+    "macro",
+    "sendi",
+    "yasak",
+    "yerde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "7cdaa1d069d3": {
+   "id": "7cdaa1d069d3",
+   "kaynak": "TRT Haber",
+   "baslik": "Macron: Sendika dışı eylemler her yerde yasaklanacak",
+   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron 17 Ekimde yağma ve şiddet olaylarının yaşandığı Sarı Yelekliler eylemlerinin ardından güvenlik tedbirlerinin sıkılaştırıldığı Fransada sendikaların talebiyle düzenlenmeyen tüm eylemlerin hemen her yerde yasaklanacağını belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/macron-sendika-disi-eylemler-her-yerde-yasaklanacak-960906.html",
+   "zaman": "2026-10-22T15:02:00+03:00",
+   "kelimeler": [
+    "disi",
+    "eylem",
+    "her",
+    "macro",
+    "sendi",
+    "yasak",
+    "yerde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3633b07b39d1"
+  },
+  "181f31484249": {
+   "id": "181f31484249",
+   "kaynak": "Hürriyet",
+   "baslik": "Eski TFF Başkan Vekili Lütfi Arıboğan'ın iddianamesi kabul edildi",
+   "ozet": "Eski TFF Başkan Vekili Lütfi Arıboğan hakkında hazırlanan iddianame 25. Ağır Ceza Mahkemesi tarafından kabul edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/eski-tff-baskan-vekili-lutfi-ariboganin-iddianamesi-kabul-edildi-43351138",
+   "zaman": "2026-10-22T15:02:00+03:00",
+   "kelimeler": [
+    "aribo",
+    "baska",
+    "edild",
+    "eski",
+    "iddia",
+    "in",
+    "kabul",
+    "lutfi",
+    "tff",
+    "vekil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
+  },
+  "05eb85b7c78c": {
+   "id": "05eb85b7c78c",
+   "kaynak": "AA",
+   "baslik": "TFF, teknik direktör Sergen Yalçın ile 4 yıllık sözleşme imzaladı",
+   "ozet": "A Milli Futbol Takımı'nın teknik direktörlüğü konusunda 4 yıllık anlaşmaya varılan Sergen Yalçın için imza töreni düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/spor/tff-teknik-direktor-sergen-yalcin-ile-4-yillik-sozlesme-imzaladi/4097172",
+   "zaman": "2026-10-22T15:04:14+03:00",
+   "kelimeler": [
+    "direk",
+    "imzal",
+    "serge",
+    "sozle",
+    "tekni",
+    "tff",
+    "yalci",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d6d878e8d960": {
+   "id": "d6d878e8d960",
+   "kaynak": "AA",
+   "baslik": "Yunanistan basketbolunda kaos",
+   "ozet": "Yunanistan Basketbol Federasyonu Başkanı Vangelis Liolios ve Avrupa Ligi hakemi Vasiliki Tsaroucha'nın da aralarında bulunduğu 6 kişinin şike ve rüşvet suçlamalarıyla gözaltına alınması, ülke basketbolunda deprem etkisi oluşturdu.",
+   "link": "https://www.aa.com.tr/tr/spor/yunanistan-basketbolunda-kaos/4097179",
+   "zaman": "2026-10-22T15:09:26+03:00",
+   "kelimeler": [
+    "baske",
+    "kaos",
+    "yunan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3cecc2ac1894"
+  },
+  "52bd277284fa": {
+   "id": "52bd277284fa",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Partili İnan’dan Özel’e sert sözler: Türk demokrasi tarihinin gördüğü en çapsız, en vizyonsuz muhalefet liderliği",
+   "ozet": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, geçtiğimiz haftalarda AK Parti'ye katılan Çiğli Belediye Başkanı Onur Emrah Yıldız'a gerçekleştirdiği ziyarette yaptığı basın açıklamasında Yeni Parti Genel Başkanı Özgür Özel'e çok sert sözlerle yüklendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-partili-inandan-ozele-sert-sozler-turk-demokrasi-tarihinin-gordugu-en-capsiz-en-vizyonsuz-muhalefet-liderligi-43351147",
+   "zaman": "2026-10-22T15:10:36+03:00",
+   "kelimeler": [
+    "ak",
+    "capsi",
+    "dan",
+    "demok",
+    "gordu",
+    "inan",
+    "lider",
+    "muhal",
+    "ozel",
+    "parti",
+    "sert",
+    "sozle",
+    "tarih",
+    "turk",
+    "vizyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3d85dacfef69": {
+   "id": "3d85dacfef69",
+   "kaynak": "Sözcü",
+   "baslik": "Şike soruşturmasında yeni gelişme: Eski TFF Başkan Vekili Lütfi Arıboğan hakkında hapis istemi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/sike-sorusturmasinda-yeni-gelisme-eski-tff-baskan-vekili-lutfi-aribogan-hakkinda-hapis-istemi-p371720",
+   "zaman": "2026-10-22T15:15:36+03:00",
+   "kelimeler": [
+    "aribo",
+    "baska",
+    "eski",
+    "gelis",
+    "hakki",
+    "hapis",
+    "istem",
+    "lutfi",
+    "sike",
+    "sorus",
+    "tff",
+    "vekil",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "181f31484249"
   }
  },
  "kayit": [
+  "22.10 15:16:26  8 yeni haber",
   "22.10 15:01:31  3 yeni haber",
   "22.10 14:46:07  7 yeni haber",
   "22.10 14:35:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Merkez Bankası politika faizini 100 baz puan indirerek yüzde 36'ya çek",
@@ -33709,8 +33862,7 @@
   "20.10 13:34:28  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada",
   "20.10 13:31:11  8 yeni haber",
   "20.10 13:15:57  6 yeni haber",
-  "20.10 13:01:42  7 yeni haber",
-  "20.10 12:46:08  6 yeni haber"
+  "20.10 13:01:42  7 yeni haber"
  ],
  "otomatik": false
 }
