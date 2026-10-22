@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "ae31502dbb28": {
-   "id": "ae31502dbb28",
-   "kaynak": "TRT Haber",
-   "baslik": "Zelenski, Rusya'nın saldırılarında 28 trafo merkezinin hasar gördüğünü belirtti",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun hava saldırılarında 28 trafo merkezi ile enerji tesislerinin hedef alındığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/zelenski-rusyanin-saldirilarinda-28-trafo-merkezinin-hasar-gordugunu-belirtti-960560.html",
-   "zaman": "2026-10-19T20:03:00+03:00",
-   "kelimeler": [
-    "28",
-    "belir",
-    "gordu",
-    "hasar",
-    "merke",
-    "nin",
-    "rusya",
-    "saldi",
-    "trafo",
-    "zelen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ca89bd73ebae": {
-   "id": "ca89bd73ebae",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum: Asrın inşası aynı zamanda gönüllerin de inşasıdır",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 6 Şubat Kahramanmaraş merkezli depremlerde enkazdan 2 torunu ve eşiyle çıkarılan Adıyamanlı Bayram Kahraman ile bir araya geldiği görüntüleri paylaşarak, \"Asrın İnşası aynı zamanda gönüllerin de inşasıdır\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-asrin-insasi-ayni-zamanda-gonullerin-de-insasidir-43347732",
-   "zaman": "2026-10-19T20:04:01+03:00",
-   "kelimeler": [
-    "asrin",
-    "ayni",
-    "bakan",
-    "gonul",
-    "insas",
-    "kurum",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "f596ea3124f1": {
-   "id": "f596ea3124f1",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda 5 Filistinli hayatını kaybetti",
-   "ozet": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda aralarında çocukların da bulunduğu 5 Filistinli hayatını kaybetti, en az 8 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridine-duzenledigi-saldirilarda-5-filistinli-hayatini-kaybetti-960561.html",
-   "zaman": "2026-10-19T20:05:00+03:00",
-   "kelimeler": [
-    "duzen",
-    "filis",
-    "gazze",
-    "hayat",
-    "in",
-    "israi",
-    "katil",
-    "kaybe",
-    "saldi",
-    "serid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7c2b659c37f1"
-  },
-  "539e5ff961a1": {
-   "id": "539e5ff961a1",
-   "kaynak": "AA",
-   "baslik": "Antalya Büyükşehir Belediyesi iştiraki ANSET'e yönelik soruşturmanın iddianamesi kabul edildi",
-   "ozet": "Antalya Büyükşehir Belediyesinin iştiraki ANSET’e yönelik soruşturmada aralarında Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Muhittin Böcek ve eski genel sekreter Cansel Çevikkol Tuncer’in de bulunduğu 55 sanık hakkında dava açıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/antalya-buyuksehir-belediyesi-istiraki-ansete-yonelik-sorusturmanin-iddianamesi-kabul-edildi/4093784",
-   "zaman": "2026-10-19T20:09:05+03:00",
-   "kelimeler": [
-    "anset",
-    "antal",
-    "beled",
-    "buyuk",
-    "edild",
-    "iddia",
-    "istir",
-    "kabul",
-    "sorus",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "088be9c0c84b": {
    "id": "088be9c0c84b",
    "kaynak": "Hürriyet",
@@ -21439,7 +21353,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "9b28827c836a": {
@@ -24103,7 +24018,10 @@
     "verdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "9c6a3916ff51": {
    "id": "9c6a3916ff51",
@@ -24699,7 +24617,10 @@
     "veril"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "11341e424863": {
    "id": "11341e424863",
@@ -33573,7 +33494,10 @@
     "yatay"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "0ba04fadb0d6": {
    "id": "0ba04fadb0d6",
@@ -33616,9 +33540,201 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b12752d3c841": {
+   "id": "b12752d3c841",
+   "kaynak": "AA",
+   "baslik": "\"Mekke Ortak Savunma Anlaşması\" 27 Ekim'de TBMM Dışişleri Komisyonu'nda görüşülecek",
+   "ozet": "TBMM Dışişleri Komisyonu Başkanı ve Ankara Milletvekili Fuat Oktay, Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifinin 27 Ekim Salı günü Komisyon'da görüşüleceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mekke-ortak-savunma-anlasmasi-27-ekimde-tbmm-disisleri-komisyonunda-gorusulecek/4097503",
+   "zaman": "2026-10-22T17:48:34+03:00",
+   "kelimeler": [
+    "27",
+    "anlas",
+    "disis",
+    "ekim",
+    "gorus",
+    "komis",
+    "mekke",
+    "nda",
+    "ortak",
+    "savun",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "69c0c3e0c941"
+  },
+  "c8c86094eefb": {
+   "id": "c8c86094eefb",
+   "kaynak": "AA",
+   "baslik": "ABD'de Senatör Sanders'tan Müslüman senatör adayı El-Sayed'in desteklenmesi çağrısı",
+   "ozet": "ABD'li Senatör Sanders, İsrail yanlısı lobi grubu AIPAC'ın, Demokrat senatör adayı El Sayed'in ara seçimleri kaybetmesi için 9 milyon dolarlık büyük bir bütçe oluşturduğunu belirterek, Müslüman Senato adayına destek çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-senator-sanderstan-musluman-senator-adayi-el-sayedin-desteklenmesi-cagrisi/4097696",
+   "zaman": "2026-10-22T19:59:47+03:00",
+   "kelimeler": [
+    "abd",
+    "adayi",
+    "cagri",
+    "deste",
+    "el",
+    "in",
+    "muslu",
+    "sande",
+    "sayed",
+    "senat",
+    "tan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f158cad02c3": {
+   "id": "3f158cad02c3",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon düzenlemelerini içeren kanun teklifi yasalaştı",
+   "ozet": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-duzenlemelerini-iceren-kanun-teklifi-yasalasti-960936.html",
+   "zaman": "2026-10-22T20:05:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "fon",
+    "icere",
+    "kanun",
+    "tekli",
+    "yasal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "881a96c7cbd4": {
+   "id": "881a96c7cbd4",
+   "kaynak": "AA",
+   "baslik": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM'de kabul edilerek yasalaştı",
+   "ozet": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlari-hakkinda-kanun-teklifi-tbmmde-kabul-edilerek-yasalasti-/4097702",
+   "zaman": "2026-10-22T20:05:22+03:00",
+   "kelimeler": [
+    "bazi",
+    "edile",
+    "fonla",
+    "hakki",
+    "kabul",
+    "kanun",
+    "karar",
+    "tasfi",
+    "tbmm",
+    "tekli",
+    "veril",
+    "yasal",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "80a09fcc7e5d"
+  },
+  "b8cd47e4fadd": {
+   "id": "b8cd47e4fadd",
+   "kaynak": "Hürriyet",
+   "baslik": "Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi",
+   "ozet": "Son dakika haberi... Tasfiyesine karar verilen bazı yatırım fonları hakkındaki 9 maddelik kanun teklifi, TBMM Genel Kurulu'nda kabul edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-bazi-yatirim-fonlari-hakkindaki-kanun-teklifi-mecliste-kabul-edildi-43351547",
+   "zaman": "2026-10-22T20:07:52+03:00",
+   "kelimeler": [
+    "bazi",
+    "edild",
+    "fonla",
+    "hakki",
+    "kabul",
+    "kanun",
+    "mecli",
+    "te",
+    "tekli",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3fbbac68ac02": {
+   "id": "3fbbac68ac02",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Bayraktar: Kanada ile enerjide ortak bildiri imzaladık",
+   "ozet": "ENERJİ ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Kanada Enerji ve Doğal Kaynaklar Bakanı Tim Hodgson ile enerji alanında iş birliğine ilişkin ortak bildiri imzaladıklarını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-bayraktar-kanada-ile-enerjide-ortak-bildiri-imzaladik-43351548",
+   "zaman": "2026-10-22T20:08:53+03:00",
+   "kelimeler": [
+    "bakan",
+    "bayra",
+    "bildi",
+    "enerj",
+    "imzal",
+    "kanad",
+    "ortak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7dcdc3bf6e3f": {
+   "id": "7dcdc3bf6e3f",
+   "kaynak": "AA",
+   "baslik": "YÖK'ten öğrenci affı kapsamında yatay geçişte taban puan düzenlemesi",
+   "ozet": "Yükseköğretim Kurulunca (YÖK) öğrenci affı kapsamında öğrenimlerine yeniden başlama hakkı kazananların yatay geçiş işlemlerine ilişkin ek düzenleme yapıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yokten-ogrenci-affi-kapsaminda-yatay-geciste-taban-puan-duzenlemesi-/4097704",
+   "zaman": "2026-10-22T20:10:53+03:00",
+   "kelimeler": [
+    "affi",
+    "duzen",
+    "gecis",
+    "kapsa",
+    "ogren",
+    "puan",
+    "taban",
+    "ten",
+    "yatay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "052496fc741d"
+  },
+  "23612a5c3d9d": {
+   "id": "23612a5c3d9d",
+   "kaynak": "NTV",
+   "baslik": "Fon teklifi Meclis'te kabul edildi",
+   "ozet": "Fonların tasfiyesine ilişkin kanun teklifi, TBMM Genel Kurulu'nda kabul edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-teklifi-mecliste-kabul-edildi-1747532",
+   "zaman": "2026-10-22T20:12:07+03:00",
+   "kelimeler": [
+    "edild",
+    "fon",
+    "kabul",
+    "mecli",
+    "te",
+    "tekli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e299fd75c3c5"
+  },
+  "c23df38586a0": {
+   "id": "c23df38586a0",
+   "kaynak": "AA",
+   "baslik": "Türkiye-Kanada savunma ilişkilerinde yeni dönem",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, Türkiye ile Kanada arasında imzalanan Savunma Sektörü Ortaklıkları Mutabakat Zaptı'nın, iki müttefik arasındaki savunma ortaklığını geliştirme iradesinin somut göstergesi olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-kanada-savunma-iliskilerinde-yeni-donem/4097706",
+   "zaman": "2026-10-22T20:13:11+03:00",
+   "kelimeler": [
+    "donem",
+    "ilisk",
+    "kanad",
+    "savun",
+    "turki",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 20:16:51  5 yeni haber",
   "22.10 20:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
   "22.10 20:01:22  4 yeni haber",
   "22.10 19:48:14  4 yeni haber",
@@ -33817,8 +33933,7 @@
   "20.10 17:18:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bursa Milletvekili Cemalettin Kani Torun AK Parti'ye katıldı",
   "20.10 17:16:00  5 yeni haber",
   "20.10 17:01:35  6 yeni haber",
-  "20.10 16:46:14  5 yeni haber",
-  "20.10 16:31:13  6 yeni haber"
+  "20.10 16:46:14  5 yeni haber"
  ],
  "otomatik": false
 }
