@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "156422bef9bc": {
-   "id": "156422bef9bc",
-   "kaynak": "AA",
-   "baslik": "\"Yetkilendirilmiş Yükümlü Statüleri\" için gümrüklerde AB ile karşılıklı tanımada geri sayım",
-   "ozet": "Ticaret Bakanlığı, Türkiye ile AB arasında yetkilendirilmiş yükümlü firmalara ait sertifika ve statü bilgilerinin taraf gümrük idareleri arasında elektronik ortamda paylaşılmasına yönelik teknik çalışmalarda son aşamaya gelindiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yetkilendirilmis-yukumlu-statuleri-icin-gumruklerde-ab-ile-karsilikli-tanimada-geri-sayim/4093240",
-   "zaman": "2026-10-19T12:42:13+03:00",
-   "kelimeler": [
-    "ab",
-    "geri",
-    "gumru",
-    "karsi",
-    "sayim",
-    "statu",
-    "tanim",
-    "yetki",
-    "yukum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "de26a85ef1b4": {
    "id": "de26a85ef1b4",
    "kaynak": "TRT Haber",
@@ -31038,7 +31017,8 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "a9f8ba675bc6": {
    "id": "a9f8ba675bc6",
@@ -32954,9 +32934,145 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f2a82a674867"
+  },
+  "8ddde473bf03": {
+   "id": "8ddde473bf03",
+   "kaynak": "Hürriyet",
+   "baslik": "Esra Albayrak'tan Semerkant'ta yapay zeka ve çocuk uyarısı: Algoritmalar odağımıza ve verimize talip",
+   "ozet": "Özbekistan’daki çocuk zirvesinde konuşan Dr. Esra Albayrak, teknolojinin dikkatimizi esir alırken iradeyi zayıflattığı uyarısında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/esra-albayraktan-semerkantta-yapay-zeka-ve-cocuk-uyarisi-algoritmalar-odagimiza-ve-verimize-talip-43350649",
+   "zaman": "2026-10-22T10:44:00+03:00",
+   "kelimeler": [
+    "albay",
+    "algor",
+    "cocuk",
+    "esra",
+    "odagi",
+    "semer",
+    "ta",
+    "talip",
+    "tan",
+    "uyari",
+    "verim",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4c00804e4de5"
+  },
+  "3f5c9279dff3": {
+   "id": "3f5c9279dff3",
+   "kaynak": "Hürriyet",
+   "baslik": "1 yıllık şişkinlik şikayetinin altından dev kitle çıktı: Sinsi tehlikeye 4 saatlik operasyon",
+   "ozet": "Karın ağrısıyla hastaneye başvuran 74 yaşındaki kadının karnını tamamen dolduran 30 santimetrelik tümör cerrahi müdahaleyle alındı. Çevre organlara da sıçrayan kitleyi ekibiyle birlikte temizleyen Op. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/1-yillik-siskinlik-sikayetinin-altindan-dev-kitle-cikti-sinsi-tehlikeye-4-saatlik-operasyon-43350864",
+   "zaman": "2026-10-22T12:34:22+03:00",
+   "kelimeler": [
+    "altin",
+    "cikti",
+    "dev",
+    "kitle",
+    "opera",
+    "saatl",
+    "sikay",
+    "sinsi",
+    "siski",
+    "tehli",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8e7a3c965da": {
+   "id": "b8e7a3c965da",
+   "kaynak": "AA",
+   "baslik": "Şehit annelerinin ve eşlerinin ördüğü battaniyeler devlet korumasındaki bebeklere sarıldı",
+   "ozet": "Evlat acısı yaşayan şehit anneleri ile eşlerinin ellerinden çıkan ve bir annenin şefkatini taşıyan battaniyeler, \"İlk Battaniyem Projesi\" kapsamında devlet korumasındaki bebeklere örtüldü.",
+   "link": "https://www.aa.com.tr/tr/gundem/sehit-annelerinin-ve-eslerinin-ordugu-battaniyeler-devlet-korumasindaki-bebeklere-sarildi/4096938",
+   "zaman": "2026-10-22T12:34:55+03:00",
+   "kelimeler": [
+    "annel",
+    "batta",
+    "bebek",
+    "devle",
+    "esler",
+    "korum",
+    "ordug",
+    "saril",
+    "sehit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c709288e0a75": {
+   "id": "c709288e0a75",
+   "kaynak": "AA",
+   "baslik": "AJet'ten yurt içi uçuşlarda indirimli bilet kampanyası",
+   "ozet": "AJet, yurt içi uçuşlarda vergiler dahil 1200 liradan başlayan fiyatlarla indirimli biletleri satışa sundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ajetten-yurt-ici-ucuslarda-indirimli-bilet-kampanyasi/4096941",
+   "zaman": "2026-10-22T12:36:12+03:00",
+   "kelimeler": [
+    "ajet",
+    "bilet",
+    "ici",
+    "indir",
+    "kampa",
+    "ten",
+    "ucusl",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f53337740e23": {
+   "id": "f53337740e23",
+   "kaynak": "AA",
+   "baslik": "Rusya Devlet Başkanı Putin: Avrasya küresel ekonomide öncü rol oynuyor",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin, Avrasya'nın küresel ekonomide öncü rol oynadığını belirterek, dünya Gayri Safi Yurt İçi Hasıla'nın (GSYH) yaklaşık üçte ikisinin bölgede üretildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-avrasya-kuresel-ekonomide-oncu-rol-oynuyor/4096945",
+   "zaman": "2026-10-22T12:37:04+03:00",
+   "kelimeler": [
+    "avras",
+    "baska",
+    "devle",
+    "ekono",
+    "kures",
+    "oncu",
+    "oynuy",
+    "putin",
+    "rol",
+    "rusya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "03b7f018ede7": {
+   "id": "03b7f018ede7",
+   "kaynak": "BBC Türkçe",
+   "baslik": "'Müstehcen yayın' suçlaması: Manifest'in menajeri Akış hakkında 3 yıla kadar hapis istemi",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında tutuklanan Manifest grubunun menajeri Tolga Akış hakkında altı aydan üç yıla kadar hapis istemiyle iddianame düzenlendi.",
+   "link": "https://www.bbc.com/turkce/articles/c93eqpwjd7wo",
+   "zaman": "2026-10-22T12:43:25+03:00",
+   "kelimeler": [
+    "akis",
+    "hakki",
+    "hapis",
+    "in",
+    "istem",
+    "manif",
+    "menaj",
+    "muste",
+    "sucla",
+    "yayin",
+    "yila"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 12:46:05  5 yeni haber",
   "22.10 12:35:33  4 yeni haber",
   "22.10 12:21:54  13 yeni haber",
   "22.10 12:01:23  7 yeni haber",
@@ -33155,8 +33271,7 @@
   "20.10 11:31:11  14 yeni haber",
   "20.10 11:16:04  10 yeni haber",
   "20.10 11:01:18  15 yeni haber",
-  "20.10 10:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TBMM Başkanı Kurtulmuş, Bişkek'te Kazakistan Kurultay Başkanı Dadebay ",
-  "20.10 10:46:03  5 yeni haber"
+  "20.10 10:48:49  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TBMM Başkanı Kurtulmuş, Bişkek'te Kazakistan Kurultay Başkanı Dadebay "
  ],
  "otomatik": false
 }
