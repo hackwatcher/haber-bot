@@ -32404,7 +32404,10 @@
     "zeyti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "cafad1127c29": {
    "id": "cafad1127c29",
@@ -32500,9 +32503,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "218b4ea38fcb": {
+   "id": "218b4ea38fcb",
+   "kaynak": "Hürriyet",
+   "baslik": "Fonların tasfiyesine ilişkin teklifin ilk 5 maddesi kabul edildi",
+   "ozet": "TÜRKİYE Büyük Millet Meclisi (TBMM) Genel Kurulu'nda, 'Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin ilk 5 maddesi kabul edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fonlarin-tasfiyesine-iliskin-teklifin-ilk-5-maddesi-kabul-edildi-43350440",
+   "zaman": "2026-10-22T04:41:44+03:00",
+   "kelimeler": [
+    "edild",
+    "fonla",
+    "ilisk",
+    "ilk",
+    "kabul",
+    "madde",
+    "tasfi",
+    "tekli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15fbb77590d8": {
+   "id": "15fbb77590d8",
+   "kaynak": "Hürriyet",
+   "baslik": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vurularak yakalandı",
+   "ozet": "Zeytinburnu’nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/zeytinburnunda-polise-ates-acan-supheli-bacagindan-vurularak-yakalandi-43350441",
+   "zaman": "2026-10-22T04:43:00+03:00",
+   "kelimeler": [
+    "acan",
+    "ates",
+    "bacag",
+    "nda",
+    "polis",
+    "suphe",
+    "vurul",
+    "yakal",
+    "zeyti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0b496cb87acf"
+  },
+  "df72e9e0e3e4": {
+   "id": "df72e9e0e3e4",
+   "kaynak": "Hürriyet",
+   "baslik": "HSK, bazı ilçelerin yargı çevrelerini yeniden belirledi",
+   "ozet": "Hakimler ve Savcılar Kurulu’nun Malkara, Gelibolu ve Eceabat ilçelerinin Keşan Ağır Ceza Mahkemesi yargı çevresine bağlanmasına ilişkin kararı Resmi Gazete’de yayımlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/hsk-bazi-ilcelerin-yargi-cevrelerini-yeniden-belirledi-43350442",
+   "zaman": "2026-10-22T04:44:03+03:00",
+   "kelimeler": [
+    "bazi",
+    "belir",
+    "cevre",
+    "hsk",
+    "ilcel",
+    "yargi",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "22.10 05:01:16  2 yeni haber",
   "22.10 03:31:12  2 yeni haber",
   "22.10 03:16:17  2 yeni haber",
   "22.10 01:46:04  2 yeni haber",
@@ -32701,8 +32766,7 @@
   "20.10 02:01:45  1 yeni haber",
   "20.10 01:46:00  1 yeni haber",
   "20.10 01:31:13  3 yeni haber",
-  "20.10 01:19:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 19 Ekim 2",
-  "20.10 00:48:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Atama ve görevden alma kararları Resmi Gazete'de"
+  "20.10 01:19:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 19 Ekim 2"
  ],
  "otomatik": false
 }
