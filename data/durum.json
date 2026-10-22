@@ -22622,7 +22622,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ]
   },
   "120ad6adb8bd": {
@@ -25562,7 +25563,10 @@
     "uzata"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a0dfe7edd74d": {
    "id": "a0dfe7edd74d",
@@ -25676,7 +25680,8 @@
    "diger_kaynaklar": [
     "AA",
     "XHABER",
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "c68f82dc556a": {
@@ -26168,7 +26173,8 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "2b13f1e541b5": {
    "id": "2b13f1e541b5",
@@ -28141,7 +28147,8 @@
     "tepki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "aaaecb2e86d2": {
    "id": "aaaecb2e86d2",
@@ -32379,10 +32386,368 @@
     "yangi"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "Sözcü"
+   ]
+  },
+  "5296795b5224": {
+   "id": "5296795b5224",
+   "kaynak": "Hürriyet",
+   "baslik": "Tuzla’da ayakkabı fabrikasında yangın: Alevlere müdahale ediliyor",
+   "ozet": "Tuzla’da ayakkabı fabrikasının çatı katında yangın çıktı. İhbar üzerine olay yerine sevk edilen itfaiye ekiplerinin alevlere müdahalesi sürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/tuzlada-ayakkabi-fabrikasinda-yangin-alevlere-mudahale-ediliyor-43350444",
+   "zaman": "2026-10-22T06:58:00+03:00",
+   "kelimeler": [
+    "alevl",
+    "ayakk",
+    "edili",
+    "fabri",
+    "mudah",
+    "tuzla",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a52e7471a469"
+  },
+  "9789f0b56d12": {
+   "id": "9789f0b56d12",
+   "kaynak": "Hürriyet",
+   "baslik": "Dervişoğlu’ndan Görevden alınsınlar",
+   "ozet": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, fon krizine yönelik AK Parti’nin attığı adımları eleştirerek, “Görevini yapmayanların, yapılanlara göz yumanların, olaya bizzat iştirak edenlerin görevden bir an önce el çektirilmesi gerekiyor” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dervisoglundan-gorevden-alinsinlar-43350389",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "alins",
+    "dervi",
+    "gorev",
+    "ndan"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "34375ad97f3e": {
+   "id": "34375ad97f3e",
+   "kaynak": "Hürriyet",
+   "baslik": "Özel'den Kışlalı’ya çiçek",
+   "ozet": "YENİ Parti Lideri Özgür Özel, gazeteci-yazar ve akademisyen Prof. Dr. Ahmet Taner Kışlalı’nın ölümünün 27’nci yılı dolayısıyla düzenlenen anma törenine katıldı. Anma töreni, Ahmet Taner Kışlalı’nın evinin önünde başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozelden-kislaliya-cicek-43350392",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "cicek",
+    "den",
+    "kisla",
+    "ozel",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a34eaec35d71": {
+   "id": "a34eaec35d71",
+   "kaynak": "Hürriyet",
+   "baslik": "AYM kararını verdi: Yeni Parti adına devam",
+   "ozet": "YENİ Parti’nin kuruluşunun ardından Yenilik Partisi, isimlerin benzerliği nedeniyle Yargıtay Cumhuriyet Başsavcılığı’na başvurmuştu. Başsavcılık da “iltibas” gerekçesiyle YENİ Parti’ye isim değişikliği yapması yönünde bildirimde bulunmuş, 18 Eylül’e kadar süre tanımıştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/aym-kararini-verdi-yeni-parti-adina-devam-43350394",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "adina",
+    "aym",
+    "devam",
+    "karar",
+    "parti",
+    "verdi",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bd0a29668300"
+  },
+  "ab3fa05a0c7b": {
+   "id": "ab3fa05a0c7b",
+   "kaynak": "Hürriyet",
+   "baslik": "Özgür Özel: Ben şiddete çağırmam",
+   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, partisinin Halk TV İstanbul stüdyosu önünde düzenlediği dayanışma mitingine katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-ben-siddete-cagirmam-43350395",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "ben",
+    "cagir",
+    "ozel",
+    "ozgur",
+    "sidde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6b23742f5b93": {
+   "id": "6b23742f5b93",
+   "kaynak": "Hürriyet",
+   "baslik": "Emir Sarıgül tutuklandı",
+   "ozet": "ALMAN vatandaşı K.P. ile M.B., yurtiçi ve yurtdışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarlı paraların aklanmasına yönelik işlemler gerçekleştirildiğini ileri sürmüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/emir-sarigul-tutuklandi-43350398",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "emir",
+    "sarig",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e53534457746"
+  },
+  "ce8e7bbbb60b": {
+   "id": "ce8e7bbbb60b",
+   "kaynak": "Hürriyet",
+   "baslik": "İklim krizi beyni tehdit ediyor",
+   "ozet": "Artan sıcaklıklar, hava kirliliği ve bulaşıcı hastalıklar, nörolojik hastalık riskini artırıyor. Uzmanlar, yaşlılar, çocuklar ve düşük gelirli kesimlerin iklim krizinden daha fazla etkilenebileceği uyarısında bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/iklim-krizi-beyni-tehdit-ediyor-43350399",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "beyni",
+    "ediyo",
+    "iklim",
+    "krizi",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7630d75ea96e": {
+   "id": "7630d75ea96e",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan: Milletin malına el uzatana sahip çıkmayız",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan fon soruşturmasına ilişkin, “Biz bu meseleye bir cerrah titizliğiyle vaziyet ediyor, milletimizin çıkarını her türlü hesabın üzerinde tutuyoruz. Biz millete yanlış yapana, milletin malına el uzatana sahip çıkmayız.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-milletin-malina-el-uzatana-sahip-cikmayiz-43350400",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "cikma",
+    "el",
+    "erdog",
+    "malin",
+    "mille",
+    "sahip",
+    "uzata"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "499d38c777f3"
+  },
+  "fd3e637569c7": {
+   "id": "fd3e637569c7",
+   "kaynak": "Hürriyet",
+   "baslik": "Örgüt liderine 29 yıl istendi… ‘Nuriş Kardeşler’e iddianame",
+   "ozet": "KAMUOYUNDA ‘Nurişler’, ‘Nuriş Kardeşler’ ve ‘Karagümrük Çetesi’ olarak bilinen silahlı organize suç örgütüne yönelik soruşturma tamamlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/orgut-liderine-29-yil-istendi-nuris-kardeslere-iddianame-43350404",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "29",
+    "iddia",
+    "isten",
+    "karde",
+    "lider",
+    "nuris",
+    "orgut",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e0de6d16f1f3": {
+   "id": "e0de6d16f1f3",
+   "kaynak": "Hürriyet",
+   "baslik": "Park demans riskini azaltıyor",
+   "ozet": "İSVEÇ’te yapılan bir araştırma, evin yakınındaki yeşil alanların demans riskinin yüzde 20 daha düşük olmasıyla bağlantılı olduğunu ortaya koydu.",
+   "link": "https://www.hurriyet.com.tr/gundem/park-demans-riskini-azaltiyor-43350406",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "azalt",
+    "deman",
+    "park",
+    "riski"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19c619c99442": {
+   "id": "19c619c99442",
+   "kaynak": "Hürriyet",
+   "baslik": "Kolejde skandal",
+   "ozet": "Ankara’da yürütülen ‘fuhuş ve uyuşturucu’ operasyonunda skandal bir gelişme yaşandı. Özel bir okulda 4 yıldır sınıf öğretmenliği yapan S.D. isimli kadın, ‘fuhuş ve uyuşturucu’ suçları kapsamında tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kolejde-skandal-43350410",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "kolej",
+    "skand"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "82af90091994": {
+   "id": "82af90091994",
+   "kaynak": "Hürriyet",
+   "baslik": "4 ülkeden Bedir Mutabakatı",
+   "ozet": "Mutabakat Zaptı’na Türkiye adına Milli Savunma Bakanı Yaşar Güler ve Savunma Sanayii Başkanı Haluk Görgün ile Katar ve Pakistan Savunma Bakanları ile Endonezya Savunma Bakan Yardımcısı imza attı.",
+   "link": "https://www.hurriyet.com.tr/gundem/4-ulkeden-bedir-mutabakati-43350411",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "bedir",
+    "mutab",
+    "ulked"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f70c44edc985"
+  },
+  "82d7b72f9169": {
+   "id": "82d7b72f9169",
+   "kaynak": "Hürriyet",
+   "baslik": "Bahçeli’den Libya yorumu: Tarih değişti Türkiye güçlendi",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Libya Temsilciler Meclisi’nin Türkiye ile imzalanan Deniz Yetki Alanları Anlaşması’nı onaylamasına ilişkin “Mavi Vatan Türkiye’nin tarihi mirasının, uluslararası hukuktan kaynaklanan meşru haklarının ve güçlü Türkiye idealinin ifadesidir.",
+   "link": "https://www.hurriyet.com.tr/gundem/bahceliden-libya-yorumu-tarih-degisti-turkiye-guclendi-43350412",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "degis",
+    "den",
+    "gucle",
+    "libya",
+    "tarih",
+    "turki",
+    "yorum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3797cf55cc29"
+  },
+  "1509f769acd3": {
+   "id": "1509f769acd3",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan: Savaş bölgesindeki çocukların sesiyiz",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan'ın eşi Emine Erdoğan, Özbekistan'da düzenlenen 'Çocukların Refahına Yatırım Yapmak: Gelecek Nesillerin Sürdürülebilir ve Adil Kalkınmasına Giden Yol Dünya Zirvesi'nde “Özellikle Gazze başta olmak üzere savaş bölgelerindeki çocukların sesi olmayı…",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-savas-bolgesindeki-cocuklarin-sesiyiz-43350414",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "cocuk",
+    "emine",
+    "erdog",
+    "savas",
+    "sesiy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e3589665cbb4"
+  },
+  "2c0b5b90506a": {
+   "id": "2c0b5b90506a",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında yeni dalga: Altınbaş’ın patronu gözaltında",
+   "ozet": "Fon soruşturması genişledi, 31 kişi hakkında gözaltı kararı verildi. Altınbaş Holding Yönetim Kurulu Başkanı İnan Altınbaş’ın da arasında bulunduğu 26 kişi gözaltına alındı. Yönetim Kurulu Başkanvekili Nusret Altınbaş adresinde bulunamazken, ailenin malvarlığı donduruldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-dalga-altinbasin-patronu-gozaltinda-43350418",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "altin",
+    "dalga",
+    "fon",
+    "gozal",
+    "in",
+    "patro",
+    "sorus",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f9024584fcc"
+  },
+  "92b1e60adb62": {
+   "id": "92b1e60adb62",
+   "kaynak": "Hürriyet",
+   "baslik": "Berat Albayrak’ın avukatından açıklama: ‘Fon iddialarına dava açacağız’",
+   "ozet": "Hazine ve Maliye eski Bakanı Berat Albayrak, fon soruşturmasına ilişkin hakkındaki iddialara avukatı İsa Sinan Göktaş aracılığı ile yanıt verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/berat-albayrakin-avukatindan-aciklama-fon-iddialarina-dava-acacagiz-43350423",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "acaca",
+    "acikl",
+    "albay",
+    "avuka",
+    "berat",
+    "dava",
+    "fon",
+    "iddia",
+    "in"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "adc82e6518e1"
+  },
+  "bbf793fe6bb2": {
+   "id": "bbf793fe6bb2",
+   "kaynak": "Hürriyet",
+   "baslik": "Dil eğitiminde yapay zekâ iyi bir yardımcı ama yeterli değil",
+   "ozet": "Çeviri araçlarının gelişmesi, yabancı dil öğrenmeye duyulan ihtiyacın azalıp azalmayacağı sorusunu gündeme getirirken uzmanlardan uyarı geldi. Prof. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/dil-egitiminde-yapay-zeka-iyi-bir-yardimci-ama-yeterli-degil-43350424",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "ama",
+    "degil",
+    "dil",
+    "egiti",
+    "iyi",
+    "yapay",
+    "yardi",
+    "yeter",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f5e451ea4c86": {
+   "id": "f5e451ea4c86",
+   "kaynak": "Hürriyet",
+   "baslik": "Libya Anlaşması’nı eleştiren AB’ye ortak tepki: Hem taraflı hem kibirli",
+   "ozet": "Avrupa Komisyonu Başkanı Ursula von der Leyen’in Libya anlaşmasına yönelik açıklamalarına iktidar ve muhalefetten tepki yağdı. YENİ Parti Lideri Özel, Leyen’e “Tarafsızlığını yitirmiş kibirli tutum” sözleriyle tepki gösterdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/libya-anlasmasini-elestiren-abye-ortak-tepki-hem-tarafli-hem-kibirli-43350427",
+   "zaman": "2026-10-22T07:00:00+03:00",
+   "kelimeler": [
+    "ab",
+    "anlas",
+    "elest",
+    "hem",
+    "kibir",
+    "libya",
+    "ni",
+    "ortak",
+    "taraf",
+    "tepki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e2788e2266c0": {
+   "id": "e2788e2266c0",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'da ayakkabı fabrikasında yangın",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbul-da-ayakkabi-fabrikasinda-yangin-p371526",
+   "zaman": "2026-10-22T07:08:38+03:00",
+   "kelimeler": [
+    "ayakk",
+    "fabri",
+    "istan",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a52e7471a469"
   }
  },
  "kayit": [
+  "22.10 07:15:56  9 yeni haber",
   "22.10 07:02:32  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · HSK, bazı ilçelerin yargı çevrelerini yeniden belirledi",
   "22.10 07:01:23  1 yeni haber",
   "22.10 06:31:24  1 yeni haber",
@@ -32581,8 +32946,7 @@
   "20.10 04:01:26  1 yeni haber",
   "20.10 03:31:11  2 yeni haber",
   "20.10 02:45:59  1 yeni haber",
-  "20.10 02:31:13  3 yeni haber",
-  "20.10 02:01:45  1 yeni haber"
+  "20.10 02:31:13  3 yeni haber"
  ],
  "otomatik": false
 }
