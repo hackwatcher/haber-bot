@@ -1,201 +1,5 @@
 {
  "haberler": {
-  "6dfe0573b848": {
-   "id": "6dfe0573b848",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'daki selde can kaybı 6'ya yükseldi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-veya-istanbul-daki-selde-can-kaybi-6-ya-yukseldi-p370490",
-   "zaman": "2026-10-19T09:04:50+03:00",
-   "kelimeler": [
-    "can",
-    "daki",
-    "istan",
-    "kaybi",
-    "selde",
-    "ya",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "642f7ce12668"
-  },
-  "80a19a4ada9d": {
-   "id": "80a19a4ada9d",
-   "kaynak": "AA",
-   "baslik": "Küresel piyasalarda toparlanma eğilimi öne çıkıyor",
-   "ozet": "Küresel piyasalar, Orta Doğu'da yeni bir uzlaşı planı üzerinde çalışılması ve Çin'de açıklanan makroekonomik verilerden alınan olumlu sinyallerin risk iştahını desteklemesiyle haftaya toparlanma eğilimiyle başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-toparlanma-egilimi-one-cikiyor/4092986",
-   "zaman": "2026-10-19T09:04:55+03:00",
-   "kelimeler": [
-    "cikiy",
-    "egili",
-    "kures",
-    "one",
-    "piyas",
-    "topar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "fefcee779885": {
-   "id": "fefcee779885",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Gürlek duyurdu | Yasa dışı 'yumurta' ticaretine darbe: 41 kadın 811 kez yumurta satışı yapmış",
-   "ozet": "Adalet Bakanı Akın Gürlek, İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, Türkiye, KKTC, Arnavutluk ve Gürcistan bağlantılı yasa dışı yumurta ticareti ağına yönelik 14 ilde eş zamanlı operasyon düzenlendiğini duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-yasa-disi-yumurta-ticaretine-darbe-41-kadin-811-kez-yumurta-satisi-yapmis-43346723",
-   "zaman": "2026-10-19T09:05:17+03:00",
-   "kelimeler": [
-    "41",
-    "811",
-    "bakan",
-    "darbe",
-    "disi",
-    "duyur",
-    "gurle",
-    "kadin",
-    "kez",
-    "satis",
-    "ticar",
-    "yapmi",
-    "yasa",
-    "yumur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "a081b5be0251": {
-   "id": "a081b5be0251",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Rusya içinde Ukrayna'ya çalışan Putin karşıtı casus şebekesi",
-   "ozet": "İki adam, savaş sırasında Ukrayna istihbaratını desteklemek için yaptıklarını söyledikleri çalışmaları anlattı.",
-   "link": "https://www.bbc.com/turkce/articles/cv5ynp4kprz6o",
-   "zaman": "2026-10-19T09:09:42+03:00",
-   "kelimeler": [
-    "calis",
-    "casus",
-    "icind",
-    "karsi",
-    "putin",
-    "rusya",
-    "sebek",
-    "ukray",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3c2cfbd2bf1e": {
-   "id": "3c2cfbd2bf1e",
-   "kaynak": "NTV",
-   "baslik": "Yasa dışı üreme hücresi ticaretine operasyon. 41 kadın 811 kez yumurta satışı yapmış",
-   "ozet": "İstanbul dahil 14 ilde insan bedeni üzerinden haksız kazanç sağlayanlara yönelik operasyon düzenlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/yasa-disi-ureme-hucresi-ticaretine-operasyon-41-kadin-811-kez-yumurta-satisi-yapmis-1746947",
-   "zaman": "2026-10-19T09:13:45+03:00",
-   "kelimeler": [
-    "41",
-    "811",
-    "disi",
-    "hucre",
-    "kadin",
-    "kez",
-    "opera",
-    "satis",
-    "ticar",
-    "ureme",
-    "yapmi",
-    "yasa",
-    "yumur"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "fefcee779885"
-  },
-  "0f46c382cff5": {
-   "id": "0f46c382cff5",
-   "kaynak": "TRT Haber",
-   "baslik": "14 ilde yasa dışı üreme hücresi ticareti operasyonu: 36 gözaltı",
-   "ozet": "Adalet Bakanı Akın Gürlek, kadınları yasa dışı üreme hücresi ticaretine yönlendiren suç örgütüne yönelik İstanbul merkezli 14 ilde gerçekleştirilen eş zamanlı operasyonda 36 şüphelinin gözaltına alındığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/gundem/14-ilde-yasa-disi-ureme-hucresi-ticareti-operasyonu-36-gozalti-960492.html",
-   "zaman": "2026-10-19T09:09:00+03:00",
-   "kelimeler": [
-    "14",
-    "36",
-    "disi",
-    "gozal",
-    "hucre",
-    "ilde",
-    "opera",
-    "ticar",
-    "ureme",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ]
-  },
-  "34c3c01b985f": {
-   "id": "34c3c01b985f",
-   "kaynak": "Hürriyet",
-   "baslik": "1,5 milyon kişi bu sistemde! Faizsiz ev ve araba almak isteyenler için yeni kurallar: GYODER, OYDER ve hukuk uzmanı tasarruf finansman modelini anlattı",
-   "ozet": "Faiz ödemeden ev ya da otomobil sahibi olmayı sağlayan tasarruf finansman sisteminde kurallar 1 Ekim'de değişti.",
-   "link": "https://www.hurriyet.com.tr/gundem/1-5-milyon-kisi-bu-sistemde-faizsiz-ev-ve-araba-almak-isteyenler-ne-bilmeli-uzmanlar-tasarruf-finansman-modelini-anlatti-43342367",
-   "zaman": "2026-10-19T09:14:00+03:00",
-   "kelimeler": [
-    "almak",
-    "anlat",
-    "araba",
-    "ev",
-    "faizs",
-    "finan",
-    "gyode",
-    "hukuk",
-    "istey",
-    "kisi",
-    "kural",
-    "milyo",
-    "model",
-    "oyder",
-    "siste",
-    "tasar",
-    "uzman",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "f97b3581d8a2": {
-   "id": "f97b3581d8a2",
-   "kaynak": "NTV",
-   "baslik": "Milyonlarca öğrenci bekliyor. 2026 GSB KYK burs sonuçları açıklandı mı, ne zaman açıklanır?",
-   "ozet": "Gençlik ve Spor Bakanlığı'na (GSB) bağlı Kredi ve Yurtlar Kurumu (KYK) tarafından öğrencilere verilecek burslar için tarih araştırmaları sürüyor. 12-16 Ekim tarihinde tamamlanan KYK burs başvurularının ardından tüm gözler sonuçların açıklanacağı tarihe çevrildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-milyonlarca-ogrenci-bekliyor-2026-gsb-kyk-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanir-1746943",
-   "zaman": "2026-10-19T09:15:51+03:00",
-   "kelimeler": [
-    "2026",
-    "acikl",
-    "bekli",
-    "burs",
-    "gsb",
-    "kyk",
-    "milyo",
-    "ogren",
-    "sonuc",
-    "zaman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ec568f7dfb04"
-  },
   "418cd240c5a1": {
    "id": "418cd240c5a1",
    "kaynak": "AA",
@@ -31106,7 +30910,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "Hürriyet"
+    "Hürriyet",
+    "BBC Türkçe"
    ]
   },
   "2307d6638707": {
@@ -32762,9 +32567,101 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f472c259348a": {
+   "id": "f472c259348a",
+   "kaynak": "Hürriyet",
+   "baslik": "Aydın, Edirne ve Kırklareli'nde düzensiz göçmen operasyonu: 24 kişi yakalandı",
+   "ozet": "Aydın'da 14 düzensiz göçmenin yakalandığı olayla ilgili 1 yabancı uyruklu ile 3 organizatör tutuklandı. Edirne ve Kırklareli'nde ise 20 düzensiz göçmen yakalandı",
+   "link": "https://www.hurriyet.com.tr/gundem/aydin-edirne-ve-kirklarelinde-duzensiz-gocmen-operasyonu-24-kisi-yakalandi-43350481",
+   "zaman": "2026-10-22T08:58:06+03:00",
+   "kelimeler": [
+    "24",
+    "aydin",
+    "duzen",
+    "edirn",
+    "gocme",
+    "kirkl",
+    "kisi",
+    "nde",
+    "opera",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2b6dabf34b8c": {
+   "id": "2b6dabf34b8c",
+   "kaynak": "AA",
+   "baslik": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
+   "ozet": "Küresel piyasalarda, ABD'de teknoloji şirketlerinin bilançolarından alınan sinyaller ve yapay zeka yatırımlarının finansmanıyla ilgili endişelerin sürmesiyle karışık seyir izlenirken, yurt içinde gözler TCMB'nin para politikası kararlarına çevrildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yurt-icinde-gozler-tcmbnin-faiz-kararina-cevrildi/4096625",
+   "zaman": "2026-10-22T09:02:35+03:00",
+   "kelimeler": [
+    "cevri",
+    "faiz",
+    "gozle",
+    "icind",
+    "karar",
+    "nin",
+    "tcmb",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d5ab73bdce77": {
+   "id": "d5ab73bdce77",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
+   "ozet": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
+   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo",
+   "zaman": "2026-10-22T09:07:21+03:00",
+   "kelimeler": [
+    "acigi",
+    "basla",
+    "capin",
+    "dunya",
+    "guven",
+    "kriti",
+    "olcek",
+    "siber",
+    "taram",
+    "turki",
+    "ulusa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dbc2880fb176"
+  },
+  "1623cd2650d6": {
+   "id": "1623cd2650d6",
+   "kaynak": "Hürriyet",
+   "baslik": "Kızamık vakaları yeniden tırmanışta… Uzman isimden kritik uyarı: Beyin fonksiyonları devre dışı kalabilir",
+   "ozet": "Aşı karşıtlığının etkisiyle kızamık vakalarında artış yaşandığına dikkat çeken Uzm. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/kizamik-vakalari-yeniden-tirmanista-uzman-isimden-kritik-uyari-beyin-fonksiyonlari-devre-disi-kalabilir-43350492",
+   "zaman": "2026-10-22T09:08:52+03:00",
+   "kelimeler": [
+    "beyin",
+    "devre",
+    "disi",
+    "fonks",
+    "isimd",
+    "kalab",
+    "kizam",
+    "kriti",
+    "tirma",
+    "uyari",
+    "uzman",
+    "vakal",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.10 09:16:08  3 yeni haber",
   "22.10 09:01:15  2 yeni haber",
   "22.10 08:46:02  2 yeni haber",
   "22.10 08:33:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara'da işyerine silahlı saldırı: Ateş ettiği anları kaydeden zanlı ",
@@ -32963,8 +32860,7 @@
   "20.10 08:01:11  3 yeni haber",
   "20.10 07:46:04  2 yeni haber",
   "20.10 07:31:15  3 yeni haber",
-  "20.10 07:16:03  17 yeni haber",
-  "20.10 07:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · MS | Trabzonspor 2-0 Beşiktaş"
+  "20.10 07:16:03  17 yeni haber"
  ],
  "otomatik": false
 }
