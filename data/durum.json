@@ -1,83 +1,5 @@
 {
  "haberler": {
-  "06f817313814": {
-   "id": "06f817313814",
-   "kaynak": "BBC Türkçe",
-   "baslik": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
-   "ozet": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar ele alındı.",
-   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o",
-   "zaman": "2026-10-20T02:23:21+03:00",
-   "kelimeler": [
-    "cikti",
-    "dem",
-    "gorus",
-    "hangi",
-    "mesaj",
-    "one",
-    "parti",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "25f7f4b5d16b": {
-   "id": "25f7f4b5d16b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Uydu görüntülerinde Kim Jong Un'un havuzlu - kaydıraklı gemisi",
-   "ozet": "Kuzey Kore'nin Wonsan kıyılarında, 2026 Temmuz ayından Ekim ortasına kadar kaydedilen uydu görüntülerinde 80 metrelik lüks bir deniz aracı defalarca yer aldı.",
-   "link": "https://www.bbc.com/turkce/articles/c5pvgkw482xro",
-   "zaman": "2026-10-20T02:24:38+03:00",
-   "kelimeler": [
-    "gemis",
-    "gorun",
-    "havuz",
-    "jong",
-    "kaydi",
-    "kim",
-    "un",
-    "uydu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6eafd1203523": {
-   "id": "6eafd1203523",
-   "kaynak": "NTV",
-   "baslik": "Fon teklifi bugün Genel Kurul'a geliyor",
-   "ozet": "Tasfiyesine karar verilen fonlara ilişkin kanun teklifi bugün Genel Kurul'da görüşülecek. Teklifle yatırımcılara 1 milyon liraya kadar ara ödeme yapılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-teklifi-bugun-genel-kurula-geliyor-1747074",
-   "zaman": "2026-10-20T02:28:24+03:00",
-   "kelimeler": [
-    "bugun",
-    "fon",
-    "geliy",
-    "genel",
-    "kurul",
-    "tekli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "4acdd8be8324": {
-   "id": "4acdd8be8324",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara'da aranan 169 kişi yakalandı",
-   "ozet": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 169 kişi yakalandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ankarada-aranan-169-kisi-yakalandi-960576.html",
-   "zaman": "2026-10-20T02:30:00+03:00",
-   "kelimeler": [
-    "169",
-    "ankar",
-    "arana",
-    "kisi",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d5ff615c68e2": {
    "id": "d5ff615c68e2",
    "kaynak": "TRT Haber",
@@ -34215,9 +34137,64 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "31a543f29f81": {
+   "id": "31a543f29f81",
+   "kaynak": "TRT Haber",
+   "baslik": "Kayseri'de tramvayın çarptığı yaya ağır yaralandı",
+   "ozet": "Kayseri'nin Melikgazi ilçesinde tramvayın çarptığı yaya ağır yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kayseride-tramvayin-carptigi-yaya-agir-yaralandi-960952.html",
+   "zaman": "2026-10-23T01:56:00+03:00",
+   "kelimeler": [
+    "agir",
+    "carpt",
+    "kayse",
+    "tramv",
+    "yaral",
+    "yaya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f81be3f72b33": {
+   "id": "f81be3f72b33",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
+   "ozet": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı.",
+   "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro",
+   "zaman": "2026-10-23T02:00:52+03:00",
+   "kelimeler": [
+    "bedir",
+    "hedef",
+    "ittif",
+    "mekke",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c8e6133c095": {
+   "id": "6c8e6133c095",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
+   "ozet": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o",
+   "zaman": "2026-10-23T02:09:41+03:00",
+   "kelimeler": [
+    "alman",
+    "basvu",
+    "daki",
+    "iddia",
+    "iltic",
+    "rusve",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.10 02:31:04  3 yeni haber",
   "23.10 02:01:28  4 yeni haber",
   "23.10 01:33:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Beşiktaş, Avrupa'da yoluna yenilgisiz devam etti",
   "23.10 01:31:06  1 yeni haber",
@@ -34416,8 +34393,7 @@
   "20.10 21:01:24  3 yeni haber",
   "20.10 20:46:02  2 yeni haber",
   "20.10 20:31:18  3 yeni haber",
-  "20.10 20:23:36  2 yeni haber",
-  "20.10 20:16:13  1 yeni haber"
+  "20.10 20:23:36  2 yeni haber"
  ],
  "otomatik": false
 }
