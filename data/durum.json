@@ -31065,7 +31065,8 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "70ee68af202d": {
    "id": "70ee68af202d",
@@ -32419,9 +32420,79 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0b496cb87acf": {
+   "id": "0b496cb87acf",
+   "kaynak": "Sözcü",
+   "baslik": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vuruldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/zeytinburnunda-polise-ates-acan-supheli-bacagindan-vuruldu-p371523",
+   "zaman": "2026-10-22T03:05:05+03:00",
+   "kelimeler": [
+    "acan",
+    "ates",
+    "bacag",
+    "nda",
+    "polis",
+    "suphe",
+    "vurul",
+    "zeyti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cafad1127c29": {
+   "id": "cafad1127c29",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD ve İsrail'in ABD ara seçimleri sonrası İran'a yeni saldırı planladığı iddia edildi",
+   "ozet": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yönelik yeni saldırılar için \"somut planlar hazırladığı\" öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-ve-israilin-abd-ara-secimleri-sonrasi-irana-yeni-saldiri-planladigi-iddia-edildi-960831.html",
+   "zaman": "2026-10-22T03:06:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "edild",
+    "iddia",
+    "in",
+    "iran",
+    "israi",
+    "planl",
+    "saldi",
+    "secim",
+    "sonra",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6b387385dfe0": {
+   "id": "6b387385dfe0",
+   "kaynak": "AA",
+   "baslik": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yeni saldırı planları yaptığı iddiası",
+   "ozet": "ABD ve İsrail'in ABD ara seçimlerinin ardından İran'a yönelik yeni saldırılar için \"somut planlar hazırladığı\" öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ve-israilin-abd-ara-secimlerinin-ardindan-irana-yeni-saldiri-planlari-yaptigi-iddiasi/4096582",
+   "zaman": "2026-10-22T03:09:41+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "ardin",
+    "iddia",
+    "in",
+    "iran",
+    "israi",
+    "planl",
+    "saldi",
+    "secim",
+    "yapti",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "13b1ff09cf0e"
   }
  },
  "kayit": [
+  "22.10 03:16:17  2 yeni haber",
   "22.10 01:46:04  2 yeni haber",
   "22.10 01:31:12  2 yeni haber",
   "22.10 01:15:55  1 yeni haber",
@@ -32620,8 +32691,7 @@
   "20.10 01:31:13  3 yeni haber",
   "20.10 01:19:36  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 19 Ekim 2",
   "20.10 00:48:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Atama ve görevden alma kararları Resmi Gazete'de",
-  "20.10 00:31:14  3 yeni haber",
-  "20.10 00:18:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Ev hapsinde gözaltına alınan Murat Ağırel tutuklandı"
+  "20.10 00:31:14  3 yeni haber"
  ],
  "otomatik": false
 }
