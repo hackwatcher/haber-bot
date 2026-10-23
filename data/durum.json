@@ -1,121 +1,5 @@
 {
  "haberler": {
-  "4139f45811bc": {
-   "id": "4139f45811bc",
-   "kaynak": "Hürriyet",
-   "baslik": "Borsa günü yükselişle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915",
-   "zaman": "2026-10-20T18:33:05+03:00",
-   "kelimeler": [
-    "borsa",
-    "gunu",
-    "tamam",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6bda604a7068"
-  },
-  "4258256fd890": {
-   "id": "4258256fd890",
-   "kaynak": "Hürriyet",
-   "baslik": "Kemer Belediye Başkanı ve 8 meclis üyesi partisinden istifa etti",
-   "ozet": "Kemer Belediye Başkanı Necati Topaloğlu, 8 belediye meclis üyesiyle birlikte Cumhuriyet Halk Partisi (CHP) üyeliğinden istifa ederek görevlerini bağımsız olarak sürdürme kararı aldıklarını bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kemer-belediye-baskani-ve-8-meclis-uyesi-partisinden-istifa-etti-43348916",
-   "zaman": "2026-10-20T18:35:52+03:00",
-   "kelimeler": [
-    "baska",
-    "beled",
-    "etti",
-    "istif",
-    "kemer",
-    "mecli",
-    "parti",
-    "uyesi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "0320ec501d7a"
-  },
-  "22aca6a03aa9": {
-   "id": "22aca6a03aa9",
-   "kaynak": "AA",
-   "baslik": "İsrail Savunma Bakanı, Lübnan'ın işgal altındaki güneyinden 200 bin sivili sürgün ettiklerini açıkladı",
-   "ozet": "İsrail Savunma Bakanı Yisrael Katz, Lübnan'ın güneyinde işgal altında tuttukları 700 kilometrekarelik bir alanda 60'ın üzerinde köyü yerle bir ettiklerini ve 200 bin sivili sürgün ettiklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-lubnanin-isgal-altindaki-guneyinden-200-bin-sivili-surgun-ettiklerini-acikladi/4094889",
-   "zaman": "2026-10-20T18:39:45+03:00",
-   "kelimeler": [
-    "200",
-    "altin",
-    "bakan",
-    "bin",
-    "ettik",
-    "guney",
-    "in",
-    "isgal",
-    "israi",
-    "lubna",
-    "savun",
-    "sivil",
-    "surgu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "28c283344850": {
-   "id": "28c283344850",
-   "kaynak": "AA",
-   "baslik": "Büyükelçi Kazakbaev, Türkiye'nin Kırgızistan'a yapılan yatırımlarda üçüncü sırada olduğunu söyledi",
-   "ozet": "Kırgızistan'ın Ankara Büyükelçisi Ruslan Kazakbaev, Türkiye’nin Kırgızistan’a yapılan yatırımların büyüme hızı bakımından ülkeler arasında üçüncü sıraya yükseldiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/buyukelci-kazakbaev-turkiyenin-kirgizistana-yapilan-yatirimlarda-ucuncu-sirada-oldugunu-soyledi/4094890",
-   "zaman": "2026-10-20T18:40:07+03:00",
-   "kelimeler": [
-    "buyuk",
-    "kazak",
-    "kirgi",
-    "nin",
-    "oldug",
-    "sirad",
-    "soyle",
-    "turki",
-    "ucunc",
-    "yapil",
-    "yatir"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-20T19:50:06.563177+03:00",
-   "ig_id": "18080736686729045",
-   "reels_id": "17904088251599527",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1697441078712546",
-   "slayt": 6,
-   "kanca": "KIRGIZİSTAN'DA TÜRK RÜZGARI"
-  },
-  "48225272ba0f": {
-   "id": "48225272ba0f",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da akşam saatlerinde trafik yoğunluğu yüzde 83'e çıktı",
-   "ozet": "İstanbul'da haftanın ikinci iş günü akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu oluştu.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yuzde-83e-cikti/4094880",
-   "zaman": "2026-10-20T18:34:50+03:00",
-   "kelimeler": [
-    "83",
-    "aksam",
-    "cikti",
-    "istan",
-    "saatl",
-    "trafi",
-    "yogun",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "7c4099706881": {
    "id": "7c4099706881",
    "kaynak": "AA",
@@ -26742,7 +26626,10 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "507d2dac55b1": {
    "id": "507d2dac55b1",
@@ -32689,9 +32576,135 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b0b0c3efdd8e"
+  },
+  "462f1d540938": {
+   "id": "462f1d540938",
+   "kaynak": "AA",
+   "baslik": "Bakan Fidan: İran'a yeni bir saldırının bölgedeki savaşı yaygınlaştıracağı konusunda hemfikiriz",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, R4 ve R4+E3 toplantılarına katılan ülkelerin özellikle İran'a yönelik yeniden yapılacak bir saldırının bölgedeki savaş ve çatışmayı tekrar yaygınlaştırmaya yol açacağı konusunda hemfikir olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-irana-yeni-bir-saldirinin-bolgedeki-savasi-yayginlastiracagi-konusunda-hemfikiriz/4098755",
+   "zaman": "2026-10-23T17:50:45+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolge",
+    "fidan",
+    "hemfi",
+    "iran",
+    "konus",
+    "saldi",
+    "savas",
+    "yaygi",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8441b77f0436": {
+   "id": "8441b77f0436",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıyer açıklarında karaya oturan tanker İstanbul Boğazı'ndan geçirildi",
+   "ozet": "Sarıyer'de sürüklendikten sonra karaya oturan Liberya bayraklı ‘BANDA’ isimli ham petrol tankeri, kurtarıldıktan sonra İstanbul Boğazı'ndan geçirildi. Tankerin geçişi havadan görüntülendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sariyer-aciklarinda-karaya-oturan-tanker-istanbul-bogazindan-gecirildi-43352698",
+   "zaman": "2026-10-23T18:26:48+03:00",
+   "kelimeler": [
+    "acikl",
+    "bogaz",
+    "gecir",
+    "istan",
+    "karay",
+    "ndan",
+    "otura",
+    "sariy",
+    "tanke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0e4ffa0bf747": {
+   "id": "0e4ffa0bf747",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye ile Slovakya arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakanlığı ile Slovakya Ekonomi Bakanlığı arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-ile-slovakya-arasinda-enerji-alaninda-isbirligine-iliskin-mutabakat-zapti-imzalandi-43352708",
+   "zaman": "2026-10-23T18:29:00+03:00",
+   "kelimeler": [
+    "alani",
+    "arasi",
+    "enerj",
+    "ilisk",
+    "imzal",
+    "isbir",
+    "mutab",
+    "slova",
+    "turki",
+    "zapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "26df99520107": {
+   "id": "26df99520107",
+   "kaynak": "Hürriyet",
+   "baslik": "Kütahya merkezli 5 ilde yasa dışı bahis operasyonu: 76 gözaltı",
+   "ozet": "Kütahya merkezli 5 ilde eş zamanlı düzenlenen yasa dışı bahis operasyonunda 76 şüpheli gözaltına alındı. Şüphelilerin banka hesaplarında toplam 14 milyar 928 milyon 530 bin TL işlem hacmi tespit edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kutahya-merkezli-5-ilde-yasa-disi-bahis-operasyonu-76-gozalti-43352712",
+   "zaman": "2026-10-23T18:31:47+03:00",
+   "kelimeler": [
+    "76",
+    "bahis",
+    "disi",
+    "gozal",
+    "ilde",
+    "kutah",
+    "merke",
+    "opera",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c4ef0005bdc6"
+  },
+  "a72dc2881070": {
+   "id": "a72dc2881070",
+   "kaynak": "AA",
+   "baslik": "Bakan Bayraktar, Slovakya ile enerji alanında mutabakat zaptı imzalandığını bildirdi",
+   "ozet": "Bakan Bayraktar, Türkiye ile Slovakya arasında doğal gaz ticareti, yenilenebilir enerji, enerji verimliliği, nükleer enerji ve kritik mineraller alanlarındaki işbirliği potansiyelinin değerlendirilmesi amacıyla mutabakat zaptı imzalandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-slovakya-ile-enerji-alaninda-mutabakat-zapti-imzalandigini-bildirdi/4098828",
+   "zaman": "2026-10-23T18:32:42+03:00",
+   "kelimeler": [
+    "alani",
+    "bakan",
+    "bayra",
+    "bildi",
+    "enerj",
+    "imzal",
+    "mutab",
+    "slova",
+    "zapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3fbbac68ac02"
+  },
+  "a450ca293a10": {
+   "id": "a450ca293a10",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,92 değer kaybederek 11.116,99 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833",
+   "zaman": "2026-10-23T18:36:18+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.10 18:46:11  4 yeni haber",
   "23.10 18:31:13  2 yeni haber",
   "23.10 18:16:03  12 yeni haber",
   "23.10 17:46:36  6 yeni haber",
@@ -32890,8 +32903,7 @@
   "21.10 12:01:25  5 yeni haber",
   "21.10 11:46:07  10 yeni haber",
   "21.10 11:31:17  9 yeni haber",
-  "21.10 11:16:11  13 yeni haber",
-  "21.10 11:01:29  7 yeni haber"
+  "21.10 11:16:11  13 yeni haber"
  ],
  "otomatik": false
 }
