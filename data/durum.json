@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "9f030215ddea": {
-   "id": "9f030215ddea",
-   "kaynak": "AA",
-   "baslik": "Libya Devlet Yüksek Konseyi: Temsilciler Meclisinin Türkiye-Libya deniz yetki muhtırasını onayından memnunuz",
-   "ozet": "Libya Temsilciler Meclisinin üst kanadı Devlet Yüksek Konseyi, Meclisin Türkiye ve Libya arasında 2019’da imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onaylamasından memnuniyet duyduğunu açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-devlet-yuksek-konseyi-temsilciler-meclisinin-turkiye-libya-deniz-yetki-muhtirasini-onayindan-memnunuz/4095184",
-   "zaman": "2026-10-21T01:17:58+03:00",
-   "kelimeler": [
-    "deniz",
-    "devle",
-    "konse",
-    "libya",
-    "mecli",
-    "memnu",
-    "muhti",
-    "onayi",
-    "temsi",
-    "turki",
-    "yetki",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "41f0fcf6dac4"
-  },
   "5719791b1a4a": {
    "id": "5719791b1a4a",
    "kaynak": "AA",
@@ -32441,7 +32416,10 @@
     "seria"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6dfef4dd73ec": {
    "id": "6dfef4dd73ec",
@@ -32462,9 +32440,105 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ec5605e5a5f9": {
+   "id": "ec5605e5a5f9",
+   "kaynak": "AA",
+   "baslik": "UAEA: İran ile ABD arasında diplomatik anlaşmaya varılmadan kalıcı ve istikrarlı bir çözüm olmayacak",
+   "ozet": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran'ın nükleer faaliyetlerini doğrulamak için hazırlıkların çoğunu tamamladıklarını, bölgede diplomatik bir anlaşma olmadan kalıcı ve istikrarlı bir çözüme ulaşılmayacağını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/uaea-iran-ile-abd-arasinda-diplomatik-anlasmaya-varilmadan-kalici-ve-istikrarli-bir-cozum-olmayacak/4099135",
+   "zaman": "2026-10-24T00:46:53+03:00",
+   "kelimeler": [
+    "abd",
+    "anlas",
+    "arasi",
+    "cozum",
+    "diplo",
+    "iran",
+    "istik",
+    "kalic",
+    "olmay",
+    "uaea",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "57e0fd5be34a": {
+   "id": "57e0fd5be34a",
+   "kaynak": "AA",
+   "baslik": "Modern dans eseri \"Rüzgar Ağacı\"nın prömiyeri bugün AKM'de gerçekleşecek",
+   "ozet": "İstanbul Kültür Sanat Vakfı (İKSV) tarafından düzenlenen \"İstanbul Tiyatro Festivali\" bu yıl 30. edisyonunu kutlarken İstanbul Devlet Opera ve Balesi (İDOB) ile ortak bir prodüksiyona imza atıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/modern-dans-eseri-ruzgar-agacinin-promiyeri-bugun-akmde-gerceklesecek/4099139",
+   "zaman": "2026-10-24T00:51:16+03:00",
+   "kelimeler": [
+    "agaci",
+    "akm",
+    "bugun",
+    "dans",
+    "eseri",
+    "gerce",
+    "moder",
+    "nin",
+    "promi",
+    "ruzga"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "849fd83537bc": {
+   "id": "849fd83537bc",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında 2 kişi 5 milyar TL’yi iade etti... Mal varlıklarındaki tedbirler kaldırıldı",
+   "ozet": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda, Enver Geçgel ve Feridun Geçgel'in mal varlıkları üzerindeki tedbir kararının kaldırılmasına karar verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-2-kisi-5-milyar-tlyi-iade-etti-mal-varliklarindaki-tedbirler-kaldirildi-43353017",
+   "zaman": "2026-10-24T01:09:00+03:00",
+   "kelimeler": [
+    "etti",
+    "fon",
+    "iade",
+    "kaldi",
+    "kisi",
+    "mal",
+    "milya",
+    "sorus",
+    "tedbi",
+    "tl",
+    "varli",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "81faf6567a5b": {
+   "id": "81faf6567a5b",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail, Batı Şeria'nın El Halil şehrine geniş çaplı askeri operasyon başlattı",
+   "ozet": "Katil İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan ve çatışmaların yaşandığı El Halil kentine yönelik \"geniş çaplı askeri operasyon\" başlattığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-bati-serianin-el-halil-sehrine-genis-capli-askeri-operasyon-baslatti-961044.html",
+   "zaman": "2026-10-24T01:14:00+03:00",
+   "kelimeler": [
+    "asker",
+    "basla",
+    "bati",
+    "capli",
+    "el",
+    "genis",
+    "halil",
+    "israi",
+    "katil",
+    "nin",
+    "opera",
+    "sehri",
+    "seria"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6aeee6734fb2"
   }
  },
  "kayit": [
+  "24.10 01:31:07  3 yeni haber",
   "24.10 01:18:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası ",
   "24.10 01:15:57  5 yeni haber",
   "24.10 01:01:23  2 yeni haber",
@@ -32663,8 +32737,7 @@
   "21.10 17:16:08  10 yeni haber",
   "21.10 17:01:20  7 yeni haber",
   "21.10 16:46:11  10 yeni haber",
-  "21.10 16:31:08  5 yeni haber",
-  "21.10 16:15:57  5 yeni haber"
+  "21.10 16:31:08  5 yeni haber"
  ],
  "otomatik": false
 }
