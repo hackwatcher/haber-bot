@@ -32304,7 +32304,10 @@
     "yapar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "94ad82309b3f": {
    "id": "94ad82309b3f",
@@ -32327,9 +32330,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8730cd358231": {
+   "id": "8730cd358231",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump: İran'a Belki küçük bir Destansı Öfke Operasyonu daha yaparız",
+   "ozet": "ABD Başkanı Donald Trump, İran'ın anlaşmaya yanaşmaması durumunda \"küçük bir Destansı Öfke Operasyonu daha\" düzenleyebileceklerini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz-961043.html",
+   "zaman": "2026-10-24T00:39:00+03:00",
+   "kelimeler": [
+    "belki",
+    "desta",
+    "iran",
+    "kucuk",
+    "ofke",
+    "opera",
+    "trump",
+    "yapar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "23e314164b9b"
+  },
+  "84cbaf75b069": {
+   "id": "84cbaf75b069",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İngiltere Başbakanı Burnham'dan konserve gıda ve şişe suyu depolama tavsiyesi",
+   "ozet": "İngiltere Başbakanı Andy Burnham, acil durumlara hazırlıklı olmak amacıyla halka konserve gıda ve şişe suyu stoklamalarını tavsiye etti.",
+   "link": "https://www.bbc.com/turkce/articles/c8qlnk9l271vo",
+   "zaman": "2026-10-24T00:48:23+03:00",
+   "kelimeler": [
+    "basba",
+    "burnh",
+    "dan",
+    "depol",
+    "gida",
+    "ingil",
+    "konse",
+    "sise",
+    "suyu",
+    "tavsi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cab1141cce74": {
+   "id": "cab1141cce74",
+   "kaynak": "NTV",
+   "baslik": "Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası verilecek",
+   "ozet": "Kurtuluş Savaşı'nda hizmetleri tespit edilen 5 şehit ve gazinin mirasçılarına​​​​​​​ İstiklal Madalyası verilmesine ilişkin Cumhurbaşkanı kararı Resmi Gazete'de yayımlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/kurtulus-savasina-katilan-5-askerin-mirascilarina-istiklal-madalyasi-verilecek-1747700",
+   "zaman": "2026-10-24T00:55:08+03:00",
+   "kelimeler": [
+    "asker",
+    "istik",
+    "katil",
+    "kurtu",
+    "madal",
+    "miras",
+    "na",
+    "savas",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "24.10 01:01:23  2 yeni haber",
   "24.10 00:49:18  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Avrupa Konseyi Görünürlük Haftası vesilesiyle resepsiyon düzenlendi",
   "24.10 00:45:55  7 yeni haber",
   "24.10 00:21:42  1 yeni haber",
@@ -32528,8 +32596,7 @@
   "21.10 16:31:08  5 yeni haber",
   "21.10 16:15:57  5 yeni haber",
   "21.10 16:01:29  2 yeni haber",
-  "21.10 15:46:05  4 yeni haber",
-  "21.10 15:31:22  1 yeni haber"
+  "21.10 15:46:05  4 yeni haber"
  ],
  "otomatik": false
 }
