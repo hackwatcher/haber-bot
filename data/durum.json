@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "fda940f5ad65": {
-   "id": "fda940f5ad65",
-   "kaynak": "TRT Haber",
-   "baslik": "DEAŞ'ın finansal ağına operasyon: 7 gözaltı",
-   "ozet": "İstanbul Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğünce DEAŞ silahlı terör örgütünün finansal faaliyetlerinin deşifre edilmesine yönelik yürütülen çalışmalar kapsamında, İstanbul ve Mersin'de düzenlenen operasyonda 7 şüpheli yakalanarak gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/deasin-finansal-agina-operasyon-7-gozalti-960592.html",
-   "zaman": "2026-10-20T08:33:00+03:00",
-   "kelimeler": [
-    "agina",
-    "deas",
-    "finan",
-    "gozal",
-    "in",
-    "opera"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f1f6fb84176d"
-  },
-  "add0ca373f5f": {
-   "id": "add0ca373f5f",
-   "kaynak": "Hürriyet",
-   "baslik": "Ankesörlü arama ve BankAsya detayı: 15 FETÖ şüphelisi gözaltında",
-   "ozet": "Kaçakçılık şubesinin yürüttüğü soruşturmada gizli tanık ifadeleri, Bank Asya hareketleri ve ankesörlü arama kayıtları deşifre edildi. İstanbul, Burdur ve Ordu'da eş zamanlı basılan 15 adreste, aralarında aktif ve ihraç kamu görevlilerinin de bulunduğu 15 şüpheli yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ankesorlu-arama-ve-bankasya-detayi-15-feto-suphelisi-gozaltinda-43347962",
-   "zaman": "2026-10-20T08:43:48+03:00",
-   "kelimeler": [
-    "15",
-    "ankes",
-    "arama",
-    "banka",
-    "detay",
-    "feto",
-    "gozal",
-    "suphe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2ce7b41b2ba5": {
-   "id": "2ce7b41b2ba5",
-   "kaynak": "Hürriyet",
-   "baslik": "Milas Belediyesi'ne operasyon: Belediye binasında arama yapılıyor",
-   "ozet": "Muğla'nın Milas İlçe Belediyesi'nde polis ekiplerince operasyon düzenlendi. Belediye binasında arama yapılıyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-milas-belediyesine-operasyon-belediye-binasinda-arama-yapiliyor-43347948",
-   "zaman": "2026-10-20T08:44:00+03:00",
-   "kelimeler": [
-    "arama",
-    "beled",
-    "binas",
-    "milas",
-    "opera",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5c29f9452412": {
-   "id": "5c29f9452412",
-   "kaynak": "TRT Haber",
-   "baslik": "Vize şirketlerine operasyon: 60 gözaltı kararı",
-   "ozet": "Sosyal medya ve internet üzerinden garantili vize ve garantilirandevu vaatleriyle vatandaşlardan ödeme aldıkları, taahhüt edilen hizmetlerin yerine getirilmediği durumlarda tahsil edilen bedelleri tamamen veya kısmen iade etmeyerek haksız menfaat sağladıkları iddialarına ilişkin…",
-   "link": "https://www.trthaber.com/haber/turkiye/vize-sirketlerine-operasyon-60-gozalti-karari-960594.html",
-   "zaman": "2026-10-20T08:45:00+03:00",
-   "kelimeler": [
-    "60",
-    "gozal",
-    "karar",
-    "opera",
-    "sirke",
-    "vize"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü",
-    "Hürriyet",
-    "NTV",
-    "AA"
-   ]
-  },
   "3b9bbe782f8a": {
    "id": "3b9bbe782f8a",
    "kaynak": "AA",
@@ -228,30 +147,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5c29f9452412"
-  },
-  "403c7d58e5f8": {
-   "id": "403c7d58e5f8",
-   "kaynak": "TRT Haber",
-   "baslik": "Terör örgütü DEAŞ'ın finansal ağına operasyon: 7 gözaltı",
-   "ozet": "İstanbul ve Mersin'de terör örgütü DEAŞ'ın finansal faaliyetlerinin deşifre edilmesine yönelik düzenlenen operasyonda 7 şüpheli yakalanarak gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/teror-orgutu-deasin-finansal-agina-operasyon-7-gozalti-960592.html",
-   "zaman": "2026-10-20T08:33:00+03:00",
-   "kelimeler": [
-    "agina",
-    "deas",
-    "finan",
-    "gozal",
-    "in",
-    "opera",
-    "orgut",
-    "teror"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ]
   },
   "1957b724d995": {
    "id": "1957b724d995",
@@ -33259,7 +33154,10 @@
     "ucret"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c63198dd3c1f": {
    "id": "c63198dd3c1f",
@@ -34007,9 +33905,195 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f66177597e17": {
+   "id": "f66177597e17",
+   "kaynak": "Hürriyet",
+   "baslik": "Geceyi aydınlatan alevler depoyu sardı: Çatısı çöken kereste deposu kullanılamaz hale geldi",
+   "ozet": "İzmir Buca’da saat 03.15 sıralarında başlayan yangın kısa sürede tüm depoyu kapladı. İtfaiye ekiplerinin alevlerle mücadelesi sürerken sac çatısı çöken malzeme deposu kontrol altına alınarak söndürüldü; olay yerinde soğutma çalışmaları başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/geceyi-aydinlatan-alevler-depoyu-sardi-catisi-coken-kereste-deposu-kullanilamaz-hale-geldi-43351775",
+   "zaman": "2026-10-23T08:20:43+03:00",
+   "kelimeler": [
+    "alevl",
+    "aydin",
+    "catis",
+    "coken",
+    "depos",
+    "depoy",
+    "gecey",
+    "geldi",
+    "hale",
+    "keres",
+    "kulla",
+    "sardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d6ef90968ffa": {
+   "id": "d6ef90968ffa",
+   "kaynak": "TRT Haber",
+   "baslik": "Mal varlığını aklama soruşturmasında Ankara merkezli operasyon düzenlendi",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı'nca yürütülen mal varlığını aklama soruşturması kapsamında 9 şüpheliyle bağlantılı 8 şirket incelendi.",
+   "link": "https://www.trthaber.com/haber/gundem/mal-varligini-aklama-sorusturmasinda-ankara-merkezli-operasyon-duzenlendi-960965.html",
+   "zaman": "2026-10-23T08:25:00+03:00",
+   "kelimeler": [
+    "aklam",
+    "ankar",
+    "duzen",
+    "mal",
+    "merke",
+    "opera",
+    "sorus",
+    "varli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "d595080d0039": {
+   "id": "d595080d0039",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara merkezli kara para aklama soruşturması: Çok sayıda adrese eş zamanlı operasyon! 8 şirket incelendi",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı'nın 2022 yılında başlattığı bir soruşturma kapsamında öncül suçlardan elde edildiği değerlendirilen gelirlerin turizm, yemek ve inşaat faaliyetleri ile alkollü eğlence mekânları üzerinden ekonomik sisteme dâhil edilerek farklı mal varlığı…",
+   "link": "https://www.hurriyet.com.tr/gundem/ankara-merkezli-kara-para-aklama-sorusturmasi-cok-sayida-adrese-es-zamanli-operasyon-8-sirket-incelendi-43351778",
+   "zaman": "2026-10-23T08:25:00+03:00",
+   "kelimeler": [
+    "adres",
+    "aklam",
+    "ankar",
+    "es",
+    "incel",
+    "kara",
+    "merke",
+    "opera",
+    "para",
+    "sayid",
+    "sirke",
+    "sorus",
+    "zaman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d6ef90968ffa"
+  },
+  "1f1d7dfd6d60": {
+   "id": "1f1d7dfd6d60",
+   "kaynak": "Hürriyet",
+   "baslik": "Polisten kaçış direkte son buldu | Alkollü sürücüyü \"Babamdan habersiz aldım\" savunması kurtarmadı",
+   "ozet": "Bursa'da gece saatlerinde polis uygulamasından kaçan alkollü otomobil sürücüsü, kavşaktaki trafik lambasına çarparak durdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/polisten-kacis-direkte-son-buldu-alkollu-surucuyu-babamdan-habersiz-aldim-savunmasi-kurtarmadi-43351779",
+   "zaman": "2026-10-23T08:30:14+03:00",
+   "kelimeler": [
+    "aldim",
+    "alkol",
+    "babam",
+    "buldu",
+    "direk",
+    "haber",
+    "kacis",
+    "kurta",
+    "polis",
+    "savun",
+    "suruc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ccf91011643f": {
+   "id": "ccf91011643f",
+   "kaynak": "AA",
+   "baslik": "\"Suç gelirlerinin aklanması\"na yönelik Ankara merkezli operasyon düzenlendi",
+   "ozet": "Öncül suçlardan elde edildiği değerlendirilen gelirlerin ekonomiye dahil edilmesine yönelik Ankara merkezli operasyon kapsamında çok sayıda adreste eş zamanlı arama yapıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/suc-gelirlerinin-aklanmasina-yonelik-ankara-merkezli-operasyon-duzenlendi/4097936",
+   "zaman": "2026-10-23T08:32:38+03:00",
+   "kelimeler": [
+    "aklan",
+    "ankar",
+    "duzen",
+    "gelir",
+    "merke",
+    "na",
+    "opera",
+    "suc",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5292505a3fd2": {
+   "id": "5292505a3fd2",
+   "kaynak": "AA",
+   "baslik": "29 Ekim Cumhuriyet Bayramı'nda bazı şehir içi toplu taşıma seferleri ücretsiz olacak",
+   "ozet": "Başkentray, Marmaray, İZBAN, Sirkeci-Kazlıçeşme Raylı Sistem Hattı ve Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı, 29 Ekim Cumhuriyet Bayramı'nda ücretsiz hizmet verecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/29-ekim-cumhuriyet-bayraminda-bazi-sehir-ici-toplu-tasima-seferleri-ucretsiz-olacak/4097937",
+   "zaman": "2026-10-23T08:36:23+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "bazi",
+    "cumhu",
+    "ekim",
+    "ici",
+    "nda",
+    "olaca",
+    "sefer",
+    "sehir",
+    "tasim",
+    "toplu",
+    "ucret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8e534a4daaf3"
+  },
+  "a3724d6ff9fb": {
+   "id": "a3724d6ff9fb",
+   "kaynak": "Hürriyet",
+   "baslik": "Bir aylık takibin adli bilançosu: Sokaklardan toplanan uyuşturucu ve 67 tutuklama",
+   "ozet": "Diyarbakır’da narkotik polisinin il genelinde son bir ayda yürüttüğü geniş çaplı çalışmaların bilançosu açıklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bir-aylik-takibin-adli-bilancosu-sokaklardan-toplanan-uyusturucu-ve-67-tutuklama-43351787",
+   "zaman": "2026-10-23T08:41:06+03:00",
+   "kelimeler": [
+    "67",
+    "adli",
+    "aylik",
+    "bilan",
+    "sokak",
+    "takib",
+    "topla",
+    "tutuk",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "14e1f5ed8868": {
+   "id": "14e1f5ed8868",
+   "kaynak": "NTV",
+   "baslik": "Çapa'da kadın tuvaletinde sapık paniği. Flaş patlayınca yakayı ele verdi",
+   "ozet": "İstanbul Tıp Fakültesi'nin acil cerrahi biriminde çalışan bir erkek personel, iddiaya göre, kadın sağlık çalışanlarını yaklaşık 8 aydır kadınlar tuvaletinde gizlice görüntüledi. Tacizci tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-capada-kadin-tuvaletinde-sapik-panigi-flas-patlayinca-yakayi-ele-verdi-1747578",
+   "zaman": "2026-10-23T08:43:58+03:00",
+   "kelimeler": [
+    "capa",
+    "ele",
+    "kadin",
+    "panig",
+    "patla",
+    "sapik",
+    "tuval",
+    "verdi",
+    "yakay"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "23.10 08:46:04  6 yeni haber",
   "23.10 08:19:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · CHP'li Belediye Başkanı dahil 34 kişi tutuklandı",
   "23.10 08:16:05  3 yeni haber",
   "23.10 07:31:08  1 yeni haber",
@@ -34208,8 +34292,7 @@
   "21.10 00:01:22  2 yeni haber",
   "20.10 23:46:16  1 yeni haber",
   "20.10 23:45:00  1 yeni haber",
-  "20.10 23:31:14  3 yeni haber",
-  "20.10 23:16:15  1 yeni haber"
+  "20.10 23:31:14  3 yeni haber"
  ],
  "otomatik": false
 }
