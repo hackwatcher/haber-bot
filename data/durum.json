@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "d9ae2d0bab21": {
-   "id": "d9ae2d0bab21",
-   "kaynak": "TRT Haber",
-   "baslik": "Ferganinin altıncı uydusu FRG100D4 yörüngesine başarıyla yerleşti",
-   "ozet": "Baykar Yönetim Kurulu Başkanı ve Teknoloji Lideri Selçuk Bayraktar tarafından kurulan Fergani Uzay Teknolojileri, milli mühendislik kabiliyetiyle geliştirdiği altıncı deneme uydusu FRG100D4'ü, ABD'nin Cape Canaveral Uzay Kuvvetleri Üssü'nden uzaya gönderdi.",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/ferganinin-altinci-uydusu-frg-100d4-yorungesine-basariyla-yerlesti-960689.html",
-   "zaman": "2026-10-21T00:07:00+03:00",
-   "kelimeler": [
-    "altin",
-    "basar",
-    "ferga",
-    "frg10",
-    "uydus",
-    "yerle",
-    "yorun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2cb6113b07b3"
-  },
   "15b767b1e23a": {
    "id": "15b767b1e23a",
    "kaynak": "TRT Haber",
@@ -95,51 +75,6 @@
    "fb_reels_id": "4474364256136903",
    "slayt": 5,
    "kanca": "KADERDEN KAÇAMADI"
-  },
-  "baa08482d3dc": {
-   "id": "baa08482d3dc",
-   "kaynak": "AA",
-   "baslik": "Filistinlilerin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırılarında 4 kişi yaralandı",
-   "ozet": "Filistinlilerin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın farklı bölgelerinde düzenledikleri saldırılarda 4 Filistinli yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistinlilerin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-4-kisi-yaralandi/4095156",
-   "zaman": "2026-10-21T00:12:52+03:00",
-   "kelimeler": [
-    "bati",
-    "daki",
-    "filis",
-    "gasbe",
-    "israi",
-    "kisi",
-    "saldi",
-    "seria",
-    "topra",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "60f51f35eb60"
-  },
-  "633c30da9602": {
-   "id": "633c30da9602",
-   "kaynak": "AA",
-   "baslik": "Irak-İran arasındaki Şeyb Sınır Kapısı’nın kapatıldığı iddia edildi",
-   "ozet": "Irak ve İran arasındaki Şeyb Sınır Kapısı’nın, Başbakan Ali ez-Zeydi’nin talimatıyla kapatıldığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-iran-arasindaki-seyb-sinir-kapisi-nin-kapatildigi-iddia-edildi/4095157",
-   "zaman": "2026-10-21T00:12:55+03:00",
-   "kelimeler": [
-    "arasi",
-    "edild",
-    "iddia",
-    "irak",
-    "iran",
-    "kapat",
-    "kapis",
-    "nin",
-    "seyb",
-    "sinir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "74105584d544": {
    "id": "74105584d544",
@@ -228,28 +163,6 @@
     "ye",
     "yeni",
     "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d0b8427a3ac1": {
-   "id": "d0b8427a3ac1",
-   "kaynak": "AA",
-   "baslik": "DSÖ, eşitsizliğin bulaşıcı olmayan hastalık riskleri ile bakıma erişimi şekillendirdiğini bildirdi",
-   "ozet": "Dünya Sağlık Örgütü (DSÖ), eşitsizliğin bulaşıcı olmayan hastalık risklerini ve bakıma erişimi şekillendirdiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/dso-esitsizligin-bulasici-olmayan-hastalik-riskleri-ile-bakima-erisimi-sekillendirdigini-bildirdi/4095155",
-   "zaman": "2026-10-21T00:11:47+03:00",
-   "kelimeler": [
-    "bakim",
-    "bildi",
-    "bulas",
-    "dso",
-    "erisi",
-    "esits",
-    "hasta",
-    "olmay",
-    "riskl",
-    "sekil"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -30530,7 +30443,10 @@
     "zapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "26df99520107": {
    "id": "26df99520107",
@@ -32423,9 +32339,88 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "cc82f46e2d38"
+  },
+  "5c46adbc34e3": {
+   "id": "5c46adbc34e3",
+   "kaynak": "TRT Haber",
+   "baslik": "Almanya'dan Cumhurbaşkanı Erdoğan ve Dışişleri Bakanı Fidan'a teşekkür",
+   "ozet": "Almanya Dışişleri Bakanı Wadephul, E3R4 toplantısına ev sahipliği yapan Cumhurbaşkanı Erdoğan ve Dışişleri Bakanı Hakan Fidana teşekkür etti.",
+   "link": "https://www.trthaber.com/haber/dunya/almanyadan-cumhurbaskani-erdogan-ve-disisleri-bakani-fidana-tesekkur-961036.html",
+   "zaman": "2026-10-23T23:51:00+03:00",
+   "kelimeler": [
+    "alman",
+    "bakan",
+    "cumhu",
+    "dan",
+    "disis",
+    "erdog",
+    "fidan",
+    "tesek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d1b0345f8ac": {
+   "id": "2d1b0345f8ac",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Trump: İran'a karşı yeni bir askeri operasyon olabilir",
+   "ozet": "ABD Başkanı Donald Trump, Washington'un İran'a karşı yeni bir askeri harekat düzenleyebileceğini söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cm3el0p0j8yjo",
+   "zaman": "2026-10-23T23:53:07+03:00",
+   "kelimeler": [
+    "asker",
+    "iran",
+    "karsi",
+    "olabi",
+    "opera",
+    "trump",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9939d903bf78": {
+   "id": "9939d903bf78",
+   "kaynak": "TRT Haber",
+   "baslik": "AB ve birçok ülke Ürdün'de yapılan saldırıyı kınadı",
+   "ozet": "Ürdün'ün Kerek kentinde bir kilisede 7 kişinin hayatını kaybettiği, 27 kişinin yaralandığı saldırı dünyanın birçok yerinde kınandı.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-ve-bircok-ulke-urdunde-yapilan-saldiriyi-kinadi-961038.html",
+   "zaman": "2026-10-23T23:57:00+03:00",
+   "kelimeler": [
+    "ab",
+    "birco",
+    "kinad",
+    "saldi",
+    "ulke",
+    "urdun",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5916c8453523": {
+   "id": "5916c8453523",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ile Slovakya arasında enerji alanında iş birliği",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye ile Slovakya arasında doğal gaz ticareti, yenilenebilir enerji, enerji verimliliği, nükleer enerji ve kritik mineraller alanlarındaki iş birliği potansiyelinin değerlendirilmesi ve ortak yol haritasının belirlenmesi…",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-slovakya-arasinda-enerji-alaninda-is-birligi-961037.html",
+   "zaman": "2026-10-23T23:58:00+03:00",
+   "kelimeler": [
+    "alani",
+    "arasi",
+    "birli",
+    "enerj",
+    "is",
+    "slova",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0e4ffa0bf747"
   }
  },
  "kayit": [
+  "24.10 00:16:05  3 yeni haber",
   "24.10 00:04:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tu",
   "24.10 00:01:23  1 yeni haber",
   "23.10 23:46:15  1 yeni haber",
@@ -32624,8 +32619,7 @@
   "21.10 15:31:22  1 yeni haber",
   "21.10 15:25:41  3 yeni haber",
   "21.10 15:18:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · İYİ Parti'de kriz: Dervişoğlu istifaya çağırdı, Ahmet Eşref Fakıbaba n",
-  "21.10 15:16:03  5 yeni haber",
-  "21.10 15:01:22  7 yeni haber"
+  "21.10 15:16:03  5 yeni haber"
  ],
  "otomatik": false
 }
