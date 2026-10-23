@@ -51,27 +51,6 @@
    "oncelikli": false,
    "tekrar_of": "9aee3ec15253"
   },
-  "46089d7a8f63": {
-   "id": "46089d7a8f63",
-   "kaynak": "TRT Haber",
-   "baslik": "'İstanbul: Bir Şehir, Bin Bakış' sergisi Paris'te sanatseverlerle buluştu",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığının düzenlediği \"İstanbul: Bir Şehir, Bin Bakış\" başlıklı sergi, Fransa'nın başkenti Paris'teki tarihi Le Refectoire des Cordeliers binasında açıldı.",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/istanbul-bir-sehir-bin-bakis-sergisi-pariste-sanatseverlerle-bulustu-960585.html",
-   "zaman": "2026-10-20T07:23:00+03:00",
-   "kelimeler": [
-    "bakis",
-    "bin",
-    "bulus",
-    "istan",
-    "paris",
-    "sanat",
-    "sehir",
-    "sergi",
-    "te"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "872db57030ea": {
    "id": "872db57030ea",
    "kaynak": "TRT Haber",
@@ -33372,7 +33351,10 @@
     "yasas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "19c06e20bdb6": {
    "id": "19c06e20bdb6",
@@ -33693,7 +33675,10 @@
     "zeyti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a5bc21e6cad8": {
    "id": "a5bc21e6cad8",
@@ -33715,7 +33700,10 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "37a44c9ac829": {
    "id": "37a44c9ac829",
@@ -34187,7 +34175,10 @@
     "yol"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a59eb0f5409a": {
    "id": "a59eb0f5409a",
@@ -34208,9 +34199,129 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a6928d72b661": {
+   "id": "a6928d72b661",
+   "kaynak": "TRT Haber",
+   "baslik": "Avrupa'da bu yaz aşırı sıcakların 50 binden fazla can kaybına yol açtığı tahmin ediliyor",
+   "ozet": "Avrupa'da bu yaz yaşanan kavurucu sıcaklarda kentsel bölgelerde 50 binden fazla kişinin hayatını kaybettiği tahmin edilirken, bu ölümlerin üçte ikisinin iklim değişikliğinin etkileri nedeniyle gerçekleştiği belirlendi.",
+   "link": "https://www.trthaber.com/haber/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor-960959.html",
+   "zaman": "2026-10-23T07:05:00+03:00",
+   "kelimeler": [
+    "50",
+    "actig",
+    "asiri",
+    "avrup",
+    "binde",
+    "can",
+    "edili",
+    "fazla",
+    "kaybi",
+    "sicak",
+    "tahmi",
+    "yaz",
+    "yol"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "195e63ea7a48"
+  },
+  "ea6cd80d302a": {
+   "id": "ea6cd80d302a",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Suudi Arabistanda dün 11 İHA ve bir balistik füze önlendi",
+   "ozet": "Yemen'de Suudi Arabistan öncülüğündeki Arap Koalisyonu, dün, Suudi Arabistanın çeşitli bölgelerinde 11 insansız hava aracı İHA ile bir balistik füzeyi engelleyerek düşürdüğünü duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanda-dun-11-iha-ve-bir-balistik-fuze-onlendi-960960.html",
+   "zaman": "2026-10-23T07:09:00+03:00",
+   "kelimeler": [
+    "11",
+    "arabi",
+    "arap",
+    "balis",
+    "dun",
+    "fuze",
+    "iha",
+    "koali",
+    "onlen",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a5bc21e6cad8"
+  },
+  "e77b1ea571ac": {
+   "id": "e77b1ea571ac",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail, Batı Şeriada zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu",
+   "ozet": "İşgalci İsrail askerlerinin ve Filistin topraklarını gasbeden İsraillilerin zeytin hasadını engellediği işgal altındaki Batı Şeria'da, Filistinlilere yardımcı olan 11 yabancı uyruklu aktivistin alıkonulduğu bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu-960961.html",
+   "zaman": "2026-10-23T07:11:00+03:00",
+   "kelimeler": [
+    "11",
+    "aktiv",
+    "aliko",
+    "bati",
+    "eden",
+    "hasad",
+    "isgal",
+    "israi",
+    "seria",
+    "yaban",
+    "yardi",
+    "zeyti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c63198dd3c1f"
+  },
+  "3a8f19e2d442": {
+   "id": "3a8f19e2d442",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+   "ozet": "ABD Başkanı Donald Trump, ülkenin savunma kabiliyetini güçlendirmek ve yurt içi petrol üretim, rafinasyon ve lojistik kapasitesini artırmak amacıyla Savunma Üretim Yasası'nı devreye soktu.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi-960962.html",
+   "zaman": "2026-10-23T07:14:00+03:00",
+   "kelimeler": [
+    "abd",
+    "aldi",
+    "artir",
+    "baska",
+    "devre",
+    "kapas",
+    "ni",
+    "petro",
+    "savun",
+    "trump",
+    "ureti",
+    "yasas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9ff2218c0721"
+  },
+  "46d7665cf5fd": {
+   "id": "46d7665cf5fd",
+   "kaynak": "Sözcü",
+   "baslik": "CHP'li Belediye Başkanı dahil 34 kişi tutuklandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/chp-li-belediye-baskani-dahil-34-kisi-tutuklandi-p371880",
+   "zaman": "2026-10-23T07:23:36+03:00",
+   "kelimeler": [
+    "34",
+    "baska",
+    "beled",
+    "chp",
+    "dahil",
+    "kisi",
+    "li",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "23.10 07:31:08  1 yeni haber",
   "23.10 07:16:02  18 yeni haber",
   "23.10 07:03:22  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Çukurova Belediyesi'ne yolsuzluk soruşturması: 34 şüpheli tutuklandı",
   "23.10 07:01:19  1 yeni haber",
@@ -34409,8 +34520,7 @@
   "20.10 23:31:14  3 yeni haber",
   "20.10 23:16:15  1 yeni haber",
   "20.10 23:01:24  2 yeni haber",
-  "20.10 22:46:10  2 yeni haber",
-  "20.10 22:31:18  4 yeni haber"
+  "20.10 22:46:10  2 yeni haber"
  ],
  "otomatik": false
 }
