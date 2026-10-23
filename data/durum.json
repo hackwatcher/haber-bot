@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "723d58c94d83": {
-   "id": "723d58c94d83",
-   "kaynak": "Hürriyet",
-   "baslik": "Ankara'da uyuşturucu operasyonu: 47 şüpheli yakalandı",
-   "ozet": "Ankara'da uyuşturucu operasyonlarında yakalanan 47 şüpheli hakkında işlem başlatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ankarada-uyusturucu-operasyonu-47-supheli-yakalandi-43347926",
-   "zaman": "2026-10-20T05:00:25+03:00",
-   "kelimeler": [
-    "47",
-    "ankar",
-    "opera",
-    "suphe",
-    "uyust",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f15f3acf33d6"
-  },
   "ae85247903e0": {
    "id": "ae85247903e0",
    "kaynak": "TRT Haber",
@@ -34116,9 +34097,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ec9b35643a22": {
+   "id": "ec9b35643a22",
+   "kaynak": "NTV",
+   "baslik": "Trabzonspor'un yıldızı maç sonrası kaza geçirdi",
+   "ozet": "Trabzonspor'un kalecisi Andre Onana, UEFA Konferans Ligi'ndeki Hearts maçının ardından evine dönerken zincirleme trafik kazasına karıştı.",
+   "link": "https://www.ntv.com.tr/turkiye/trabzonsporun-yildizi-mac-sonrasi-kaza-gecirdi-1747555",
+   "zaman": "2026-10-23T04:58:58+03:00",
+   "kelimeler": [
+    "gecir",
+    "kaza",
+    "mac",
+    "sonra",
+    "trabz",
+    "un",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "23.10 05:01:14  1 yeni haber",
   "23.10 04:45:59  1 yeni haber",
   "23.10 03:45:54  1 yeni haber",
   "23.10 02:31:04  3 yeni haber",
@@ -34317,8 +34318,7 @@
   "20.10 22:01:23  3 yeni haber",
   "20.10 21:46:06  5 yeni haber",
   "20.10 21:31:20  4 yeni haber",
-  "20.10 21:01:24  3 yeni haber",
-  "20.10 20:46:02  2 yeni haber"
+  "20.10 21:01:24  3 yeni haber"
  ],
  "otomatik": false
 }
