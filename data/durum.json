@@ -1,81 +1,5 @@
 {
  "haberler": {
-  "888d39d5ec5e": {
-   "id": "888d39d5ec5e",
-   "kaynak": "TRT Haber",
-   "baslik": "Soykırımcı İsrail, Batı Şeria'da düzenlediği baskınlarda çok sayıda Filistinliyi gözaltına aldı",
-   "ozet": "Soykırımcı İsrail ordusunun, işgal altındaki Batı Şeria'nın farklı bölgelerinde düzenlediği baskınlarda çok sayıda Filistinliyi gözaltına aldığı belirtildi.",
-   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-duzenledigi-baskinlarda-cok-sayida-filistinliyi-gozaltina-aldi-960692.html",
-   "zaman": "2026-10-21T02:03:00+03:00",
-   "kelimeler": [
-    "aldi",
-    "baski",
-    "bati",
-    "duzen",
-    "filis",
-    "gozal",
-    "israi",
-    "sayid",
-    "seria",
-    "soyki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "f6e45e33b2b4": {
-   "id": "f6e45e33b2b4",
-   "kaynak": "AA",
-   "baslik": "WSJ: Anthropic, gelecekte ek bilgi işlem kapasitesi için 750 milyar dolar harcayabilir",
-   "ozet": "ABD merkezli yapay zeka şirketi Anthropic'in, gelecek yıllarda ek bilgi işlem kapasitesi için 750 milyar dolar harcayabileceği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/wsj-anthropic-gelecekte-ek-bilgi-islem-kapasitesi-icin-750-milyar-dolar-harcayabilir/4095192",
-   "zaman": "2026-10-21T02:09:09+03:00",
-   "kelimeler": [
-    "750",
-    "anthr",
-    "bilgi",
-    "dolar",
-    "ek",
-    "gelec",
-    "harca",
-    "islem",
-    "kapas",
-    "milya",
-    "wsj"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4e5b694666c5": {
-   "id": "4e5b694666c5",
-   "kaynak": "AA",
-   "baslik": "İngiltere'de hükümetin hataları nedeniyle Kovid-19'un bakım evlerinde hızla yayıldığı rapor edildi",
-   "ozet": "İngiltere'de hükümetin Kovid-19'la mücadelede aldığı kararları inceleyen Kovid-19 Soruşturma Komisyonu'nun hazırladığı 6'ncı raporda, hükümetin hataları nedeniyle virüsün yaşlı bakım evlerinde \"orman yangını gibi\" yayıldığı ifade edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-hukumetin-hatalari-nedeniyle-kovid-19un-bakim-evlerinde-hizla-yayildigi-rapor-edildi/4095193",
-   "zaman": "2026-10-21T02:09:15+03:00",
-   "kelimeler": [
-    "19",
-    "bakim",
-    "edild",
-    "evler",
-    "hatal",
-    "hizla",
-    "hukum",
-    "ingil",
-    "kovid",
-    "neden",
-    "rapor",
-    "un",
-    "yayil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "6f6d51beed03": {
    "id": "6f6d51beed03",
    "kaynak": "AA",
@@ -31197,7 +31121,10 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "0c39f10eaf0f": {
    "id": "0c39f10eaf0f",
@@ -32565,6 +32492,25 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5e524ad795b9"
+  },
+  "6a4c664acd68": {
+   "id": "6a4c664acd68",
+   "kaynak": "Hürriyet",
+   "baslik": "Manisa’da akü üretimi yapan fabrikada yangın",
+   "ozet": "Manisa Organize Sanayi Bölgesi'nde bulunan akü üretimi yapan fabrikada yangın çıktı. Bölgeye çok sayıda itfaiye ekibi sevk edildi. Yangın, itfaiye ekiplerinin yaklaşık 1.5 saatlik müdahalesiyle kontrol altına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/manisada-aku-uretimi-yapan-fabrikada-yangin-43353020",
+   "zaman": "2026-10-24T01:59:00+03:00",
+   "kelimeler": [
+    "aku",
+    "fabri",
+    "manis",
+    "ureti",
+    "yangi",
+    "yapan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "922cce59cecd"
   }
  },
  "kayit": [
