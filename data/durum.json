@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "4871703a349a": {
-   "id": "4871703a349a",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe-Slavia Prag maçı öncesinde taklit ürün satanlara geçit verilmedi",
-   "ozet": "Emniyet güçleri, Fenerbahçe-Slavia Prag maçı öncesinde stat çevresinde taklit ürün satıcılarına geçit vermedi.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-maci-oncesinde-taklit-urun-satanlara-gecit-verilmedi/4094988",
-   "zaman": "2026-10-20T20:47:08+03:00",
-   "kelimeler": [
-    "fener",
-    "gecit",
-    "maci",
-    "onces",
-    "prag",
-    "satan",
-    "slavi",
-    "takli",
-    "urun",
-    "veril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "86b34bebed3f"
-  },
-  "07eed1e4daee": {
-   "id": "07eed1e4daee",
-   "kaynak": "AA",
-   "baslik": "Fransa'da savcılık, AP üyesi Hassan'ın 2 yıl siyasetten men edilmesini talep etti",
-   "ozet": "Fransa'da savcılık, Filistin asıllı Avrupa Parlamentosu (AP) üyesi Rima Hassan hakkında \"terör propagandası\" yaptığı gerekçesiyle 2 yıl siyasetten men cezası verilmesini talep etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-savcilik-ap-uyesi-hassanin-2-yil-siyasetten-men-edilmesini-talep-etti/4094991",
-   "zaman": "2026-10-20T20:49:17+03:00",
-   "kelimeler": [
-    "ap",
-    "edilm",
-    "etti",
-    "frans",
-    "hassa",
-    "in",
-    "men",
-    "savci",
-    "siyas",
-    "talep",
-    "uyesi",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ce3bbc78d69b": {
-   "id": "ce3bbc78d69b",
-   "kaynak": "TRT Haber",
-   "baslik": "DMM: Avrupa çöpünü Türkiye'ye döküyor yönündeki paylaşımların manipülasyon içeriyor",
-   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Avrupa çöpünü Türkiye'ye döküyor\" yönündeki paylaşımların manipülasyon içerdiğini aktardı.",
-   "link": "https://www.trthaber.com/haber/gundem/dmm-avrupa-copunu-turkiyeye-dokuyor-yonundeki-paylasimlarin-manipulasyon-iceriyor-960678.html",
-   "zaman": "2026-10-20T20:54:00+03:00",
-   "kelimeler": [
-    "avrup",
-    "copun",
-    "dmm",
-    "dokuy",
-    "iceri",
-    "manip",
-    "payla",
-    "turki",
-    "ye",
-    "yonun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "424c913e8ad6"
-  },
   "c0717173fb0f": {
    "id": "c0717173fb0f",
    "kaynak": "AA",
@@ -32361,7 +32291,10 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ed513054d583": {
    "id": "ed513054d583",
@@ -32509,10 +32442,158 @@
     "uzakl"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "Hürriyet"
+   ]
+  },
+  "5b65038ba308": {
+   "id": "5b65038ba308",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, Ukrayna'daki internet sorunu çözülmezse Musk ile görüşecek",
+   "ozet": "Trump, Ukrayna ordusunun Starshield internet hizmetindeki sorunun çözüldüğünü duyduğunu, aksi halde Elon Muskla görüşeceğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-ukraynadaki-internet-sorunu-cozulmezse-musk-ile-gorusecek-961022.html",
+   "zaman": "2026-10-23T20:24:00+03:00",
+   "kelimeler": [
+    "cozul",
+    "daki",
+    "gorus",
+    "inter",
+    "musk",
+    "sorun",
+    "trump",
+    "ukray"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "11644a1f72e6"
+  },
+  "4734fb2537ea": {
+   "id": "4734fb2537ea",
+   "kaynak": "TRT Haber",
+   "baslik": "İran lideri Hamaney'in danışmanı: İran düşmanın zayıf noktalarını tanıyor",
+   "ozet": "İran lideri Mücteba Hamaneyin danışmanı Muhammed Muhbir, petrol ve enerji alanlarına atıfta bulunarak, \"İran düşmanın zayıf noktalarını tanıyor.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-lideri-hamaneyin-danismani-iran-dusmanin-zayif-noktalarini-taniyor-961024.html",
+   "zaman": "2026-10-23T20:34:00+03:00",
+   "kelimeler": [
+    "danis",
+    "dusma",
+    "haman",
+    "in",
+    "iran",
+    "lider",
+    "nokta",
+    "taniy",
+    "zayif"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c081a58cf18": {
+   "id": "6c081a58cf18",
+   "kaynak": "TRT Haber",
+   "baslik": "Çukurova Belediye Başkanı Kozay görevden uzaklaştırıldı",
+   "ozet": "Çukurova Belediye Başkanı Emrah Kozay, hakkında yürütülen soruşturmada tutuklanması nedeniyle geçici bir tedbir olarak İçişleri Bakanlığınca görevden uzaklaştırıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/cukurova-belediye-baskani-kozay-gorevden-uzaklastirildi-961023.html",
+   "zaman": "2026-10-23T20:38:00+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "cukur",
+    "gorev",
+    "kozay",
+    "uzakl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "647ac3b642df"
+  },
+  "599ec64ed57a": {
+   "id": "599ec64ed57a",
+   "kaynak": "Hürriyet",
+   "baslik": "Çukurova Belediye Başkanı görevden uzaklaştırıldı",
+   "ozet": "Adana İli Çukurova Belediye Başkanı Emrah Kozay, geçici bir tedbir olarak görevden uzaklaştırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cukurova-belediye-baskani-gorevden-uzaklastirildi-43352835",
+   "zaman": "2026-10-23T20:50:00+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "cukur",
+    "gorev",
+    "uzakl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "647ac3b642df"
+  },
+  "54b72a26c7e7": {
+   "id": "54b72a26c7e7",
+   "kaynak": "AA",
+   "baslik": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
+   "ozet": "ABD merkezli teknoloji şirketi Microsoft tarafından yürütülen araştırmada, şirketin yapay zeka destekli teşhis sisteminin geçmiş vaka verilerindeki hekim sonuçlarına kıyasla 2,3 kat daha yüksek tanı doğruluğuna ulaştığı belirlendi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi/4098961",
+   "zaman": "2026-10-23T20:50:48+03:00",
+   "kelimeler": [
+    "acikl",
+    "arast",
+    "ilisk",
+    "sonuc",
+    "teshi",
+    "tibbi",
+    "yapay",
+    "yeni",
+    "zekay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "ec8189c0ace1": {
+   "id": "ec8189c0ace1",
+   "kaynak": "TRT Haber",
+   "baslik": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
+   "ozet": "Microsoft'un yapay zeka destekli teşhis sisteminin, geçmiş tıbbi vakalar üzerinde yapılan testlerde hekimlerden 2,3 kat daha yüksek tanı doğruluğuna ulaştığı belirtildi",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi-961025.html",
+   "zaman": "2026-10-23T20:51:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "arast",
+    "ilisk",
+    "sonuc",
+    "teshi",
+    "tibbi",
+    "yapay",
+    "yeni",
+    "zekay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "54b72a26c7e7"
+  },
+  "64450062f908": {
+   "id": "64450062f908",
+   "kaynak": "AA",
+   "baslik": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
+   "ozet": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, sade ve anlaşılır dille öğreniyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
+   "zaman": "2026-10-23T20:55:43+03:00",
+   "kelimeler": [
+    "cocuk",
+    "etkin",
+    "kesfe",
+    "umrey",
+    "uygun",
+    "yasla"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "23.10 21:00:41  3 yeni haber",
   "23.10 20:45:56  2 yeni haber",
   "23.10 20:31:08  3 yeni haber",
   "23.10 20:15:54  2 yeni haber",
@@ -32711,8 +32792,7 @@
   "21.10 13:35:07  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · 6 Şubat depremlerini atlatan 11 ilin toplam ihracatı 15,6 milyar dolar",
   "21.10 13:31:10  8 yeni haber",
   "21.10 13:16:21  7 yeni haber",
-  "21.10 13:01:26  6 yeni haber",
-  "21.10 13:01:26  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
+  "21.10 13:01:26  6 yeni haber"
  ],
  "otomatik": false
 }
