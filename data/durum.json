@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "db29a2d301c7": {
-   "id": "db29a2d301c7",
-   "kaynak": "Hürriyet",
-   "baslik": "Hesaplarında 7,1 milyar lira para hareketi… Yasa dışı bahis operasyonunda 78 şüpheli tutuklandı",
-   "ozet": "ESKİŞEHİR merkezli 33 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 101 şüpheli adliyeye sevk edildi. Şüphelilerin, banka hesaplarında yapılan incelemede 7,1 milyar liralık işlem hacmi gerçekleştirdikleri tespit edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/7-1-milyar-lira-para-hareketi-yasa-disi-bahis-operasyonunda-78-supheli-tutuklandi-43349165",
-   "zaman": "2026-10-21T01:49:00+03:00",
-   "kelimeler": [
-    "78",
-    "bahis",
-    "disi",
-    "harek",
-    "hesap",
-    "lira",
-    "milya",
-    "opera",
-    "para",
-    "suphe",
-    "tutuk",
-    "yasa"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "34701d7e6bc4"
-  },
   "888d39d5ec5e": {
    "id": "888d39d5ec5e",
    "kaynak": "TRT Haber",
@@ -32131,7 +32106,10 @@
     "yuvar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "8b16ce04e3c8": {
    "id": "8b16ce04e3c8",
@@ -32315,7 +32293,10 @@
    "fb_id": null,
    "fb_reels_id": "1788947185580356",
    "slayt": 5,
-   "kanca": "İSTİKLAL MADALYASI KARARI"
+   "kanca": "İSTİKLAL MADALYASI KARARI",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ee63db87f4de": {
    "id": "ee63db87f4de",
@@ -32519,9 +32500,75 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6aeee6734fb2"
+  },
+  "6992f2c53602": {
+   "id": "6992f2c53602",
+   "kaynak": "TRT Haber",
+   "baslik": "Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası verilecek",
+   "ozet": "Kurtuluş Savaşı'nda hizmetleri tespit edilen 5 şehit ve gazinin mirasçılarına İstiklal Madalyası verilmesine ilişkin Cumhurbaşkanı kararı Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/kurtulus-savasina-katilan-5-askerin-mirascilarina-istiklal-madalyasi-verilecek-961045.html",
+   "zaman": "2026-10-24T01:27:00+03:00",
+   "kelimeler": [
+    "asker",
+    "istik",
+    "katil",
+    "kurtu",
+    "madal",
+    "miras",
+    "na",
+    "savas",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cab1141cce74"
+  },
+  "f9f40dc39f2f": {
+   "id": "f9f40dc39f2f",
+   "kaynak": "Hürriyet",
+   "baslik": "Hatay'da kahreden olay! Trafik canavarı anne ve küçük kızını hayattan kopardı",
+   "ozet": "Hatay'ın Reyhanlı ilçesinde otomobil, bebek arabasıyla yolun karşısına geçmeye çalışan anne ile 4 yaşındaki kızına çarptı. Kazada anne Ayşe Yetek öldü, yaralanan kız çocuğu Meryem Azra Yetek ise kaldırıldığı hastanede tedavi altına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/hatayda-kahreden-olay-trafik-canavari-anne-ve-kucuk-kizini-hayattan-kopardi-43353018",
+   "zaman": "2026-10-24T01:43:00+03:00",
+   "kelimeler": [
+    "anne",
+    "canav",
+    "hatay",
+    "hayat",
+    "kahre",
+    "kizin",
+    "kopar",
+    "kucuk",
+    "olay",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9e0fee539123": {
+   "id": "9e0fee539123",
+   "kaynak": "Hürriyet",
+   "baslik": "Çankırı'da korkunç kaza! Otomobil uçuruma yuvarlandı: 4 ölü, 1 yaralı",
+   "ozet": "Çankırı’da otomobilin uçuruma yuvarlanması sonucu 4 kişi öldü, 1 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cankirida-korkunc-kaza-otomobil-ucuruma-yuvarlandi-4-olu-1-yarali-43353019",
+   "zaman": "2026-10-24T01:45:48+03:00",
+   "kelimeler": [
+    "canki",
+    "kaza",
+    "korku",
+    "olu",
+    "otomo",
+    "ucuru",
+    "yaral",
+    "yuvar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5e524ad795b9"
   }
  },
  "kayit": [
+  "24.10 02:01:33  1 yeni haber",
   "24.10 01:48:44  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Adana merkezli 'kurgu trafik kazası' soruşturmasında 58 şüpheli tutukl",
   "24.10 01:31:07  3 yeni haber",
   "24.10 01:18:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası ",
@@ -32720,8 +32767,7 @@
   "21.10 17:31:12  5 yeni haber",
   "21.10 17:18:55  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yemek kuryesi süsü verdiler, uyuşturucuyu bulaşık makinesine gizledile",
   "21.10 17:16:08  10 yeni haber",
-  "21.10 17:01:20  7 yeni haber",
-  "21.10 16:46:11  10 yeni haber"
+  "21.10 17:01:20  7 yeni haber"
  ],
  "otomatik": false
 }
