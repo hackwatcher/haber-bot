@@ -1,162 +1,5 @@
 {
  "haberler": {
-  "7c4099706881": {
-   "id": "7c4099706881",
-   "kaynak": "AA",
-   "baslik": "Yazılım şirketi Salesforce, pazarlama şirketi Braze'i 5,66 milyar dolara satın alıyor",
-   "ozet": "ABD merkezli bulut tabanlı yazılım şirketi Salesforce, pazarlama şirketi Braze'i 5,66 milyar dolara almak üzere anlaşmaya vardığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yazilim-sirketi-salesforce-pazarlama-sirketi-brazei-5-66-milyar-dolara-satin-aliyor/4094891",
-   "zaman": "2026-10-20T18:46:44+03:00",
-   "kelimeler": [
-    "66",
-    "aliyo",
-    "braze",
-    "dolar",
-    "milya",
-    "pazar",
-    "sales",
-    "satin",
-    "sirke",
-    "yazil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f28a0bad18b8": {
-   "id": "f28a0bad18b8",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Türkiye'nin dahil olmak istediği 'Made in Europe' planı nedir?",
-   "ozet": "Fransa ve Almanya'nın, Avrupa'nın zorlanan otomotiv sektörünü korumayı amaçlayan \"Made in Europe\" planı üzerinde anlaşmaya varmasının ardından, Türkiye plana dahil olma çabalarını sürdürme kararı aldı.",
-   "link": "https://www.bbc.com/turkce/articles/c9p8gj40xz1lo",
-   "zaman": "2026-10-20T18:53:24+03:00",
-   "kelimeler": [
-    "dahil",
-    "europ",
-    "in",
-    "isted",
-    "made",
-    "nedir",
-    "nin",
-    "olmak",
-    "plani",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "97ea392c9d6b": {
-   "id": "97ea392c9d6b",
-   "kaynak": "AA",
-   "baslik": "Merz: Türkiye'den gelen göç Almanya'yı kültürel, ekonomik ve bilimsel açıdan zenginleştirdi",
-   "ozet": "Almanya Başbakanı Friedrich Merz, Türkiye'den gelen göç sayesinde Almanya'nın kültürel, ekonomik ve bilimsel açıdan daha zengin hale geldiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/merz-turkiyeden-gelen-goc-almanyayi-kulturel-ekonomik-ve-bilimsel-acidan-zenginlestirdi/4094899",
-   "zaman": "2026-10-20T18:56:06+03:00",
-   "kelimeler": [
-    "acida",
-    "alman",
-    "bilim",
-    "den",
-    "ekono",
-    "gelen",
-    "goc",
-    "kultu",
-    "merz",
-    "turki",
-    "yi",
-    "zengi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "bc1baa9ba783": {
-   "id": "bc1baa9ba783",
-   "kaynak": "NTV",
-   "baslik": "Tanju Özcan hakkında 7 yıl hapis cezası",
-   "ozet": "Bolu Belediye Başkanı görevinden uzaklaştırılan Tanju Özcan'ın 7 yıl hapis cezasına çarptırıldığı belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210",
-   "zaman": "2026-10-20T18:59:30+03:00",
-   "kelimeler": [
-    "cezas",
-    "hakki",
-    "hapis",
-    "ozcan",
-    "tanju",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "TRT Haber",
-    "BBC Türkçe"
-   ]
-  },
-  "c1a5b417a17d": {
-   "id": "c1a5b417a17d",
-   "kaynak": "AA",
-   "baslik": "Toplam sanayi üretici fiyat endeksi eylülde aylık yüzde 2,31, yıllık yüzde 29,32 arttı",
-   "ozet": "Toplam sanayi üretici fiyat endeksi, eylülde aylık bazda yüzde 2,31, yıllık bazda yüzde 29,32 artış kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/toplam-sanayi-uretici-fiyat-endeksi-eylulde-aylik-yuzde-2-31-yillik-yuzde-29-32-artti/4094904",
-   "zaman": "2026-10-20T18:59:37+03:00",
-   "kelimeler": [
-    "29",
-    "31",
-    "32",
-    "artti",
-    "aylik",
-    "endek",
-    "eylul",
-    "fiyat",
-    "sanay",
-    "topla",
-    "ureti",
-    "yilli",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7807b9168ef6": {
-   "id": "7807b9168ef6",
-   "kaynak": "Hürriyet",
-   "baslik": "Tanju Özcan, hapis cezasına çarptırıldı",
-   "ozet": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan hakkında, tutuklu yargılandığı davada 7 yıl 3 ay 15 gün hapis cezası verildi. Özcan hakkında kurban olayı kapsamında ise her mağdur için 1 yıl 8 ay 15 gün verilen hapis cezası ertelendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-tanju-ozcan-hapis-cezasina-carptirildi-43348924",
-   "zaman": "2026-10-20T18:50:00+03:00",
-   "kelimeler": [
-    "carpt",
-    "cezas",
-    "hapis",
-    "ozcan",
-    "tanju"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "bc1baa9ba783"
-  },
-  "8726bf907b44": {
-   "id": "8726bf907b44",
-   "kaynak": "TRT Haber",
-   "baslik": "İletişim Başkanı Duran: TürkiyeLibya deniz yetki alanları mutabakatının onaylanması önemli bir adım",
-   "ozet": "İletişim Başkanı Burhanettin Duran, Türkiye ile Libya arasında imzalanan deniz yetki alanları mutabakat muhtırasının onaylanmasına ilişkin, \"TürkiyeLibya ilişkileri ve Doğu Akdenizdeki gelişmeler açısından önemli ve memnuniyet verici bir adımdır\" açıklamasında bulundu.",
-   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasi-onemli-bir-adim-960666.html",
-   "zaman": "2026-10-20T19:00:00+03:00",
-   "kelimeler": [
-    "adim",
-    "alanl",
-    "baska",
-    "deniz",
-    "duran",
-    "ileti",
-    "mutab",
-    "onayl",
-    "oneml",
-    "turki",
-    "yetki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ab867df6f3f3": {
    "id": "ab867df6f3f3",
    "kaynak": "AA",
@@ -32701,9 +32544,67 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "42234c2df76c": {
+   "id": "42234c2df76c",
+   "kaynak": "TRT Haber",
+   "baslik": "BM Sudan'da sivilleri hedef alan hava saldırılarını şiddetle kınadı",
+   "ozet": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, Sudan'da bu ay artış gösteren ve sivilleri hedef alan ölümcül hava saldırılarını şiddetle kınadı.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-sudanda-sivilleri-hedef-alan-hava-saldirilarini-siddetle-kinadi-961014.html",
+   "zaman": "2026-10-23T18:26:00+03:00",
+   "kelimeler": [
+    "alan",
+    "bm",
+    "hava",
+    "hedef",
+    "kinad",
+    "saldi",
+    "sidde",
+    "sivil",
+    "sudan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d86bb655aacd": {
+   "id": "d86bb655aacd",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara merkezli 7 ilde fuhuş ve müstehcenlik operasyonu: 45 gözaltı",
+   "ozet": "Ankara merkezli 7 ilde düzenlenen müstehcenlik ve fuhuş operasyonunda 45 kişi gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankara-merkezli-7-ilde-fuhus-ve-mustehcenlik-operasyonu-45-gozalti-43352720",
+   "zaman": "2026-10-23T18:45:00+03:00",
+   "kelimeler": [
+    "45",
+    "ankar",
+    "fuhus",
+    "gozal",
+    "ilde",
+    "merke",
+    "muste",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "94ec15f77d92": {
+   "id": "94ec15f77d92",
+   "kaynak": "AA",
+   "baslik": "Bu hafta yatırım araçlarının performansı",
+   "ozet": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 5,16, altının gram fiyatı yüzde 4,18 değer kaybederken, dolar/TL yüzde 0,36 ve avro/TL yüzde 0,03 değer kazandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4098852",
+   "zaman": "2026-10-23T18:50:54+03:00",
+   "kelimeler": [
+    "aracl",
+    "hafta",
+    "perfo",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "23.10 19:01:20  3 yeni haber",
   "23.10 18:46:11  4 yeni haber",
   "23.10 18:31:13  2 yeni haber",
   "23.10 18:16:03  12 yeni haber",
@@ -32902,8 +32803,7 @@
   "21.10 12:03:22  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AYM karar verdi... Yeni Parti’nin ismi değişmeyecek",
   "21.10 12:01:25  5 yeni haber",
   "21.10 11:46:07  10 yeni haber",
-  "21.10 11:31:17  9 yeni haber",
-  "21.10 11:16:11  13 yeni haber"
+  "21.10 11:31:17  9 yeni haber"
  ],
  "otomatik": false
 }
