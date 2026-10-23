@@ -1,255 +1,5 @@
 {
  "haberler": {
-  "eaf801df3bff": {
-   "id": "eaf801df3bff",
-   "kaynak": "Hürriyet",
-   "baslik": "Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada",
-   "ozet": "Adana’da yola çıkan kediye çarpmamak için motosikletiyle manevra yapan Halil İbrahim (18), aracın devrilmesi sonucu hafif yaralandı. Kaza anı güvenlik kamerasına yansıdı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kediye-carpmamak-icin-direksiyonu-kirdi-motosiklet-kazasi-kamerada-43348323",
-   "zaman": "2026-10-20T12:16:20+03:00",
-   "kelimeler": [
-    "carpm",
-    "direk",
-    "kamer",
-    "kazas",
-    "kediy",
-    "kirdi",
-    "motos"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "NTV"
-   ],
-   "paylasildi": "2026-10-20T13:34:28.801934+03:00",
-   "ig_id": "18097837388434886",
-   "reels_id": "18110727176268038",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1393798222836815",
-   "slayt": 6,
-   "kanca": "KEDİ İÇİN TEHLİKELİ MANEVRA"
-  },
-  "249511a275ec": {
-   "id": "249511a275ec",
-   "kaynak": "TRT Haber",
-   "baslik": "AB Yüksek Temsilcisi: Rusya, gıdayı kasıtlı olarak bir silah haline getiriyor",
-   "ozet": "AB Yüksek Temsilcisi Kaja Kallas, Karadeniz'deki gemilere yönelik saldırılardan Rusya'nın sorumlu olduğunu, Moskova'nın bu saldırılarla gıdayı kasıtlı olarak silah haline getirdiğini öne sürdü.",
-   "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-temsilcisi-rusya-gidayi-kasitli-olarak-bir-silah-haline-getiriyor-960628.html",
-   "zaman": "2026-10-20T12:17:00+03:00",
-   "kelimeler": [
-    "ab",
-    "getir",
-    "giday",
-    "halin",
-    "kasit",
-    "rusya",
-    "silah",
-    "temsi",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "25d96ccfd034": {
-   "id": "25d96ccfd034",
-   "kaynak": "AA",
-   "baslik": "Rusya: Ukrayna konusunda Rusya, Çin ve ABD'nin üçlü toplantıya ilgisi var",
-   "ozet": "Rusya Dışişleri Bakan Yardımcısı Rudenko, Ukrayna konusunda Rusya, ABD ve Çin'in üçlü bir toplantıya ilgi duyduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-konusunda-rusya-cin-ve-abdnin-uclu-toplantiya-ilgisi-var/4094371",
-   "zaman": "2026-10-20T12:23:42+03:00",
-   "kelimeler": [
-    "abd",
-    "cin",
-    "ilgis",
-    "konus",
-    "nin",
-    "rusya",
-    "topla",
-    "uclu",
-    "ukray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "0ffd4c5f38f7": {
-   "id": "0ffd4c5f38f7",
-   "kaynak": "NTV",
-   "baslik": "Mekke İttifakı Anlaşması Meclis'te",
-   "ozet": "Mekke İttifakı Anlaşmasına Dair Kanun Teklifi Meclis Başkanlığı'na sunuldu.",
-   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154",
-   "zaman": "2026-10-20T12:25:22+03:00",
-   "kelimeler": [
-    "anlas",
-    "ittif",
-    "mecli",
-    "mekke",
-    "te"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e692cc9dd74e"
-  },
-  "4f112f7b2452": {
-   "id": "4f112f7b2452",
-   "kaynak": "AA",
-   "baslik": "Milli tenisçi Zeynep Sönmez, Japonya Açık'ta ikinci tura yükseldi",
-   "ozet": "Milli sporcu Zeynep Sönmez, Japonya Açık Kadınlar Tenis Turnuvası'nın ilk turunda Avustralyalı rakibi Maya Joint'u 2-1 yenerek ikinci tura yükseldi.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acikta-ikinci-tura-yukseldi/4094374",
-   "zaman": "2026-10-20T12:25:30+03:00",
-   "kelimeler": [
-    "acik",
-    "ikinc",
-    "japon",
-    "milli",
-    "sonme",
-    "ta",
-    "tenis",
-    "tura",
-    "yukse",
-    "zeyne"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "19072b79e6d1": {
-   "id": "19072b79e6d1",
-   "kaynak": "AA",
-   "baslik": "MotoGP'de yarışan milli motosikletçi Toprak Razgatlıoğlu, sakatlık nedeniyle sezonu kapattı",
-   "ozet": "Endonezya Grand Prix'sinde geçirdiği kazada omzundan sakatlanan milli motosikletçi Toprak Razgatlıoğlu, 26 Ekim Pazartesi günü ameliyat edilecek ve MotoGP'de sezonun son 5 yarışında yer alamayacak.",
-   "link": "https://www.aa.com.tr/tr/spor/motogpde-yarisan-milli-motosikletci-toprak-razgatlioglu-sakatlik-nedeniyle-sezonu-kapatti/4094381",
-   "zaman": "2026-10-20T12:28:51+03:00",
-   "kelimeler": [
-    "kapat",
-    "milli",
-    "motog",
-    "motos",
-    "neden",
-    "razga",
-    "sakat",
-    "sezon",
-    "topra",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "721eebc2d105": {
-   "id": "721eebc2d105",
-   "kaynak": "TRT Haber",
-   "baslik": "Karadeniz'in su ürünleri ihracatı 9 ayda 322 milyon doları aştı",
-   "ozet": "Karadeniz Bölgesi'nden yılın ocakeylül döneminde yapılan su ürünleri ihracatı, 322 milyon 393 bin 650 dolara ulaştı. Su ürünlerine en çok talep Rusya, Yunanistan ve Belarus'tan geldi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/karadenizin-su-urunleri-ihracati-9-ayda-322-milyon-dolari-asti-960630.html",
-   "zaman": "2026-10-20T12:25:00+03:00",
-   "kelimeler": [
-    "322",
-    "asti",
-    "ayda",
-    "dolar",
-    "ihrac",
-    "in",
-    "karad",
-    "milyo",
-    "su",
-    "urunl"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8f3e4fd8fafd"
-  },
-  "cda164c7dad3": {
-   "id": "cda164c7dad3",
-   "kaynak": "TRT Haber",
-   "baslik": "Mekke İttifakı Anlaşması Meclis'e sunuldu",
-   "ozet": "Mekke İttifakı Anlaşması'na dair kanun teklifi Türkiye Büyük Millet Meclisi Başkanlığına sunuldu.",
-   "link": "https://www.trthaber.com/haber/gundem/mekke-ittifaki-anlasmasi-meclise-sunuldu-960631.html",
-   "zaman": "2026-10-20T12:26:00+03:00",
-   "kelimeler": [
-    "anlas",
-    "ittif",
-    "mecli",
-    "mekke",
-    "sunul"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e692cc9dd74e"
-  },
-  "f43f9bf495db": {
-   "id": "f43f9bf495db",
-   "kaynak": "AA",
-   "baslik": "TBMM Başkanı Kurtulmuş: Tüm insanlığın kurtuluşu, adil bir dünya sisteminin kurulmasından geçiyor",
-   "ozet": "TBMM Başkanı Kurtulmuş, haksızlık, çifte standart, savaş ve insanlık suçları, çatışma, gerilim ve yoksullukların sona ermesi için adil ve hakkaniyetli bir dünya sisteminin kurulması gerektiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-tum-insanligin-kurtulusu-adil-bir-dunya-sisteminin-kurulmasindan-geciyor/4094379",
-   "zaman": "2026-10-20T12:28:30+03:00",
-   "kelimeler": [
-    "adil",
-    "baska",
-    "dunya",
-    "geciy",
-    "insan",
-    "kurtu",
-    "kurul",
-    "siste",
-    "tbmm",
-    "tum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f5ab3af4b9d5": {
-   "id": "f5ab3af4b9d5",
-   "kaynak": "AA",
-   "baslik": "AB Yüksek Temsilcisi Kallas: Rusya, gıdayı kasıtlı olarak bir silah haline getiriyor",
-   "ozet": "AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kallas, Karadeniz'deki gemilere yönelik saldırılardan Rusya'nın sorumlu olduğunu, Moskova'nın bu saldırılarla gıdayı kasıtlı olarak silah haline getirdiğini öne sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-yuksek-temsilcisi-kallas-rusya-gidayi-kasitli-olarak-bir-silah-haline-getiriyor/4094382",
-   "zaman": "2026-10-20T12:28:57+03:00",
-   "kelimeler": [
-    "ab",
-    "getir",
-    "giday",
-    "halin",
-    "kalla",
-    "kasit",
-    "rusya",
-    "silah",
-    "temsi",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "249511a275ec"
-  },
-  "51cd500ac098": {
-   "id": "51cd500ac098",
-   "kaynak": "AA",
-   "baslik": "ABD, Çinli yapay zeka şirketi DeepSeek'in federal kurumlarda kullanımını yasakladı",
-   "ozet": "ABD, ulusal ve siber güvenlik riskleri gerekçesiyle Çinli yapay zeka şirketi DeepSeek'in ürünlerinin federal kurumların bilişim sistemlerinden çıkarılmasına ve kamu ihale süreçlerinden menedilmesine karar verdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-cinli-yapay-zeka-sirketi-deepseekin-federal-kurumlarda-kullanimini-yasakladi/4094385",
-   "zaman": "2026-10-20T12:29:36+03:00",
-   "kelimeler": [
-    "abd",
-    "cinli",
-    "deeps",
-    "feder",
-    "in",
-    "kulla",
-    "kurum",
-    "sirke",
-    "yapay",
-    "yasak",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ca1cdaf55fa7": {
    "id": "ca1cdaf55fa7",
    "kaynak": "TRT Haber",
@@ -2275,27 +2025,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "438900107c57": {
-   "id": "438900107c57",
-   "kaynak": "AA",
-   "baslik": "Türk bilim insanları \"TARLA\"da ilk ışınlama deneyini gerçekleştirdi",
-   "ozet": "Ankara Üniversitesinin (AÜ) öncülüğünde kurulan Türk Hızlandırıcı ve Işınım Laboratuvarında (TARLA) görev yapan bilim insanları tarafından ilk ışınlama deneyi başarıyla gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-bilim-insanlari-tarlada-ilk-isinlama-deneyini-gerceklestirdi/4094362",
-   "zaman": "2026-10-20T12:18:05+03:00",
-   "kelimeler": [
-    "bilim",
-    "deney",
-    "gerce",
-    "ilk",
-    "insan",
-    "isinl",
-    "tarla",
-    "turk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1b0c751915c0"
   },
   "e95ff4415033": {
    "id": "e95ff4415033",
@@ -32873,7 +32602,10 @@
     "ulast"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ae580058a1b4": {
    "id": "ae580058a1b4",
@@ -33528,9 +33260,208 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f8e32921acd8"
+  },
+  "4e3bfc853d86": {
+   "id": "4e3bfc853d86",
+   "kaynak": "AA",
+   "baslik": "Bakan Kacır: Teknoloji liderlerini Türkiye'nin girişimcilik potansiyeline yatırım yapmaya davet ediyoruz",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Küresel girişim sermayesi fonlarını ve teknoloji liderlerini Türkiye'nin girişimcilik potansiyeline yatırım yapmaya, uzun vadeli ortaklıklar kurmaya davet ediyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-teknoloji-liderlerini-turkiyenin-girisimcilik-potansiyeline-yatirim-yapmaya-davet-ediyoruz/4098231",
+   "zaman": "2026-10-23T11:43:07+03:00",
+   "kelimeler": [
+    "bakan",
+    "davet",
+    "ediyo",
+    "giris",
+    "kacir",
+    "lider",
+    "nin",
+    "potan",
+    "tekno",
+    "turki",
+    "yapma",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b9db33fd1be": {
+   "id": "2b9db33fd1be",
+   "kaynak": "AA",
+   "baslik": "Türk zırhlıları orduların yükünü omuzluyor",
+   "ozet": "Türk savunma sanayisi bünyesinde geliştirilen paletli zırhlı araçlar, Türkiye'nin yanı sıra 6 dost ve müttefik ülkede modern orduların hareket kabiliyetine, koruma ve ateş gücüne katkı sağlıyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-zirhlilari-ordularin-yukunu-omuzluyor/4098263",
+   "zaman": "2026-10-23T12:08:23+03:00",
+   "kelimeler": [
+    "omuzl",
+    "ordul",
+    "turk",
+    "yukun",
+    "zirhl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "688efe7be802": {
+   "id": "688efe7be802",
+   "kaynak": "AA",
+   "baslik": "Küresel yatırım ve teknoloji dünyası, GO! GLOBAL Türkiye Zirvesi'nde buluştu",
+   "ozet": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi ikinci gününde devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-yatirim-ve-teknoloji-dunyasi-go-global-turkiye-zirvesinde-bulustu/4098267",
+   "zaman": "2026-10-23T12:10:16+03:00",
+   "kelimeler": [
+    "bulus",
+    "dunya",
+    "globa",
+    "go",
+    "kures",
+    "nde",
+    "tekno",
+    "turki",
+    "yatir",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1ee3ffebf1bc": {
+   "id": "1ee3ffebf1bc",
+   "kaynak": "TRT Haber",
+   "baslik": "ARGE merkezi sayısı 1365'e yükseldi",
+   "ozet": "Türkiye'de eylül sonu itibarıyla ARGE merkezi sayısı 1365'e, tasarım merkezi sayısı 348'e yükseldi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ar-ge-merkezi-sayisi-1365e-yukseldi-960988.html",
+   "zaman": "2026-10-23T12:15:00+03:00",
+   "kelimeler": [
+    "1365",
+    "arge",
+    "merke",
+    "sayis",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bd51bd03165f"
+  },
+  "96293d84a8ef": {
+   "id": "96293d84a8ef",
+   "kaynak": "Hürriyet",
+   "baslik": "Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var",
+   "ozet": "İstanbul Pendik'te hafriyat kamyonu bir eczaneye daldı. İhbar üzerine olay yerine polis, itfaiye ve sağlık ekipleri sevk edildi. Kazada yaralananların olduğu öğrenildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/pendikte-feci-kaza-hafriyat-kamyonu-eczaneye-girdi-yaralilar-var-43352148",
+   "zaman": "2026-10-23T12:17:13+03:00",
+   "kelimeler": [
+    "eczan",
+    "feci",
+    "girdi",
+    "hafri",
+    "kamyo",
+    "kaza",
+    "pendi",
+    "te",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "cb082d54e5de": {
+   "id": "cb082d54e5de",
+   "kaynak": "AA",
+   "baslik": "\"Sumud Filosu\"na yapılan silahlı müdahaleye ilişkin 35 sanığın yargılanmasına başlandı",
+   "ozet": "Gazze'ye insani yardım taşıyan Küresel Sumud Filosu'na silahlı müdahalede bulunulmasına ilişkin, aralarında İsrail Başbakanı Binyamin Netanyahu'nun da bulunduğu 35 sanığın yargılanmasına başlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sumud-filosuna-yapilan-silahli-mudahaleye-iliskin-35-sanigin-yargilanmasina-baslandi/4098287",
+   "zaman": "2026-10-23T12:21:46+03:00",
+   "kelimeler": [
+    "35",
+    "basla",
+    "filos",
+    "ilisk",
+    "mudah",
+    "na",
+    "sanig",
+    "silah",
+    "sumud",
+    "yapil",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "340629d834e9": {
+   "id": "340629d834e9",
+   "kaynak": "Hürriyet",
+   "baslik": "Milas Belediyesi'ne yönelik ihale operasyonunda Başkan Topuz ve oğlu dahil 20 kişi adliyede",
+   "ozet": "Muğla merkezli 13 ilde sahte ihale evrakı ve usulsüz iş deneyim belgelerine yönelik düzenlenen operasyonda gözaltına alınan, aralarında Milas Belediye Başkanı Fevzi Topuz ve oğlu D.T.'nin de bulunduğu 20 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/milas-belediyesine-yonelik-ihale-operasyonunda-baskan-topuz-ve-oglu-dahil-20-kisi-adliyede-43352102",
+   "zaman": "2026-10-23T12:22:00+03:00",
+   "kelimeler": [
+    "20",
+    "adliy",
+    "baska",
+    "beled",
+    "dahil",
+    "ihale",
+    "kisi",
+    "milas",
+    "oglu",
+    "opera",
+    "topuz",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7b6fcb193b97": {
+   "id": "7b6fcb193b97",
+   "kaynak": "AA",
+   "baslik": "TOGG, Türkiye'nin ev sahipliğinde gerçekleştirilecek COP31'in \"Mobilite Sektör Ortağı\" oldu",
+   "ozet": "TOGG, Türkiye'nin ev sahipliğinde gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) 31. Taraflar Konferansı'nın (COP31) \"Mobilite Sektör Ortağı\" oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/togg-turkiyenin-ev-sahipliginde-gerceklestirilecek-cop31in-mobilite-sektor-ortagi-oldu/4098291",
+   "zaman": "2026-10-23T12:23:28+03:00",
+   "kelimeler": [
+    "cop31",
+    "ev",
+    "gerce",
+    "in",
+    "mobil",
+    "nin",
+    "ortag",
+    "sahip",
+    "sekto",
+    "togg",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd33a3705272": {
+   "id": "fd33a3705272",
+   "kaynak": "AA",
+   "baslik": "Doğu Türkiye Orta Koridor Demir Yolu Geliştirme Projesi'nin ihalesi 22 Aralık'ta yapılacak",
+   "ozet": "Doğu Türkiye Orta Koridor Demir Yolu Geliştirme (ETMIC) Projesi'nin altyapı ve üstyapı işlerinin tasarımı ve inşasına ilişkin ihale, 22 Aralık Salı günü gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dogu-turkiye-orta-koridor-demir-yolu-gelistirme-projesinin-ihalesi-22-aralikta-yapilacak/4098302",
+   "zaman": "2026-10-23T12:29:45+03:00",
+   "kelimeler": [
+    "22",
+    "arali",
+    "demir",
+    "dogu",
+    "gelis",
+    "ihale",
+    "korid",
+    "nin",
+    "orta",
+    "proje",
+    "ta",
+    "turki",
+    "yapil",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.10 12:31:19  8 yeni haber",
   "23.10 12:18:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · İstifa eden Türkiye Sigorta Genel Müdürü Taha Çakmak yeniden gözaltına",
   "23.10 12:16:05  8 yeni haber",
   "23.10 12:01:35  16 yeni haber",
@@ -33729,8 +33660,7 @@
   "21.10 05:31:15  1 yeni haber",
   "21.10 05:01:19  1 yeni haber",
   "21.10 03:01:18  3 yeni haber",
-  "21.10 02:46:02  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "21.10 02:31:11  3 yeni haber"
+  "21.10 02:46:02  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
  ],
  "otomatik": false
 }
