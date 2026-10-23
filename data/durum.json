@@ -1,114 +1,5 @@
 {
  "haberler": {
-  "1837cbf039d2": {
-   "id": "1837cbf039d2",
-   "kaynak": "AA",
-   "baslik": "Bahçeşehir Koleji, ⁠BKT Avrupa Kupası'nda yarın BOSNA BH Telecom ile karşılaşacak",
-   "ozet": "Bahçeşehir Koleji Erkek Basketbol Takımı, BKT Avrupa Kupası D Grubu 4. hafta maçında yarın Bosna Hersek temsilcisi BOSNA BH Telecom'a konuk olacak.",
-   "link": "https://www.aa.com.tr/tr/spor/bahcesehir-koleji-bkt-avrupa-kupasinda-yarin-bosna-bh-telecom-ile-karsilasacak/4094164",
-   "zaman": "2026-10-20T10:22:50+03:00",
-   "kelimeler": [
-    "avrup",
-    "bahce",
-    "bh",
-    "bkt",
-    "bosna",
-    "karsi",
-    "kolej",
-    "kupas",
-    "nda",
-    "telec",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "233486c913e6": {
-   "id": "233486c913e6",
-   "kaynak": "Sözcü",
-   "baslik": "Üsküdar Belediyesi'nde üçüncü başkan vekili seçimi başladı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/uskudar-da-akp-ve-mhp-nin-adayi-belli-oldu-p370872",
-   "zaman": "2026-10-20T10:23:12+03:00",
-   "kelimeler": [
-    "baska",
-    "basla",
-    "beled",
-    "nde",
-    "secim",
-    "ucunc",
-    "uskud",
-    "vekil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1fb133178c78"
-  },
-  "e3c93a64c6c3": {
-   "id": "e3c93a64c6c3",
-   "kaynak": "TRT Haber",
-   "baslik": "Dünyanın saatinden artık 1 saniye eksilecek",
-   "ozet": "Dünya genelinde zamanı belirleyen uluslararası kuruluşlar, atom saatleriyle Dünyanın dönüşü arasındaki farkı dengelemek için kullanılan \"artık saniye\" uygulamasını kaldırmayı gündeme aldı.",
-   "link": "https://www.trthaber.com/haber/dunya/dunyanin-saatinden-artik-1-saniye-eksilecek-960613.html",
-   "zaman": "2026-10-20T10:23:00+03:00",
-   "kelimeler": [
-    "artik",
-    "dunya",
-    "eksil",
-    "saati",
-    "saniy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6f6790843e58": {
-   "id": "6f6790843e58",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı'nda ABD'ye ait bir MQ-9 İHA'sını düşürdük",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı semalarında ABD'ye ait bir MQ-9 insansız hava aracını (İHA) düşürdüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinda-abdye-ait-bir-mq-9-ihasini-dusurduk/4094169",
-   "zaman": "2026-10-20T10:25:44+03:00",
-   "kelimeler": [
-    "abd",
-    "ait",
-    "bogaz",
-    "devri",
-    "dusur",
-    "hurmu",
-    "iha",
-    "iran",
-    "mq",
-    "muhaf",
-    "nda",
-    "ordus",
-    "sini",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e6f006b3a46e"
-  },
-  "a5ba1c182343": {
-   "id": "a5ba1c182343",
-   "kaynak": "Hürriyet",
-   "baslik": "Geminbeli Geçidi'nde sonbahar manzaraları: Renk cümbüşü havadan görüntülendi",
-   "ozet": "Sivas'ın Zara ve Suşehri ilçeleri arasında yer alan 2 bin 10 rakımlı Geminbeli Geçidi, sonbaharın gelmesiyle birlikte sarı, kızıl ve kahverenginin tonlarına bürünerek renk cümbüşüne sahne oldu. Karadeniz'i İç Anadolu'ya bağlayan sarp geçitteki doğa manzarası havadan görüntülendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/geminbeli-gecidinde-sonbahar-manzaralari-renk-cumbusu-havadan-goruntulendi-43348104",
-   "zaman": "2026-10-20T10:25:58+03:00",
-   "kelimeler": [
-    "cumbu",
-    "gecid",
-    "gemin",
-    "gorun",
-    "havad",
-    "manza",
-    "nde",
-    "renk",
-    "sonba"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "795bb2db240c": {
    "id": "795bb2db240c",
    "kaynak": "AA",
@@ -201,47 +92,6 @@
     "mhp",
     "oneml",
     "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d0f99410fea7": {
-   "id": "d0f99410fea7",
-   "kaynak": "TRT Haber",
-   "baslik": "Kadınlar için yapay zeka ve dijital güçlenme eğitimleri başlıyor",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, Turkcell ve Kadın ve Demokrasi Vakfı KADEM iş birliğinde hayata geçirilen \"Kadınlar İçin Yapay Zeka ve Dijital Güçlenme Eğitimleri\" 27 Ekim'de Van'da başlıyor.",
-   "link": "https://www.trthaber.com/haber/gundem/kadinlar-icin-yapay-zeka-ve-dijital-guclenme-egitimleri-basliyor-960612.html",
-   "zaman": "2026-10-20T10:20:00+03:00",
-   "kelimeler": [
-    "basli",
-    "dijit",
-    "egiti",
-    "gucle",
-    "kadin",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8ab0162249f2": {
-   "id": "8ab0162249f2",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Göktaş: 15 yaş altındaki çocuklara sosyal ağ hizmeti sunulamayacak",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocuklara yönelik sosyal medya düzenlemesinin detaylarını paylaştı. Bakan Göktaş, \"15 yaş altındaki çocuklara sosyal ağ hizmeti sunulamayacak.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-15-yas-altindaki-cocuklara-sosyal-ag-hizmeti-sunulamayacak-960615.html",
-   "zaman": "2026-10-20T10:30:00+03:00",
-   "kelimeler": [
-    "15",
-    "ag",
-    "altin",
-    "bakan",
-    "cocuk",
-    "gokta",
-    "hizme",
-    "sosya",
-    "sunul",
-    "yas"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -33684,9 +33534,150 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "832c836c3110": {
+   "id": "832c836c3110",
+   "kaynak": "AA",
+   "baslik": "Eyüpspor, Süper Lig'de yarın Kasımpaşa'yı ağırlayacak",
+   "ozet": "Eyüpspor, Trendyol Süper Lig'in 9. haftasında yarın Kasımpaşa'yı konuk edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/eyupspor-super-ligde-yarin-kasimpasayi-agirlayacak/4098026",
+   "zaman": "2026-10-23T10:08:02+03:00",
+   "kelimeler": [
+    "agirl",
+    "eyups",
+    "kasim",
+    "lig",
+    "super",
+    "yarin",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d0b3212407d9": {
+   "id": "d0b3212407d9",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe'de olağan yüksek divan kurulu toplantısı, yarın yapılacak",
+   "ozet": "Fenerbahçe Kulübünde olağan yüksek divan kurulu toplantısı, yarın gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-olagan-yuksek-divan-kurulu-toplantisi-yarin-yapilacak/4098027",
+   "zaman": "2026-10-23T10:08:13+03:00",
+   "kelimeler": [
+    "divan",
+    "fener",
+    "kurul",
+    "olaga",
+    "topla",
+    "yapil",
+    "yarin",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f0fe78f82508": {
+   "id": "f0fe78f82508",
+   "kaynak": "Hürriyet",
+   "baslik": "69 yaşında onur belgesiyle mezun oldu, 71 yaşında yüksek lisansa başladı",
+   "ozet": "Kars'ta yaşayan 2 çocuk ve 3 torun sahibi 71 yaşındaki Ayşen Arda İşçi, açık öğretim lisesini bitirdikten sonra 69 yaşında onur derecesiyle tamamladığı Kafkas Üniversitesi Siyaset Bilimi ve Uluslararası İlişkiler Bölümü'nde yüksek lisans eğitimine başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/69-yasinda-onur-belgesiyle-mezun-oldu-71-yasinda-yuksek-lisansa-basladi-43351907",
+   "zaman": "2026-10-23T10:13:00+03:00",
+   "kelimeler": [
+    "69",
+    "71",
+    "basla",
+    "belge",
+    "lisan",
+    "mezun",
+    "onur",
+    "yasin",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9094b31375d7": {
+   "id": "9094b31375d7",
+   "kaynak": "AA",
+   "baslik": "Yıllık enflasyon beklentisi hanehalkı ve reel sektör için geriledi",
+   "ozet": "Yıllık enflasyon beklentileri, ekimde piyasa katılımcıları için yükselirken hanehalkı ve reel sektör için geriledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yillik-enflasyon-beklentisi-hanehalki-ve-reel-sektor-icin-geriledi/4098036",
+   "zaman": "2026-10-23T10:16:36+03:00",
+   "kelimeler": [
+    "bekle",
+    "enfla",
+    "geril",
+    "haneh",
+    "reel",
+    "sekto",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8160c4e26e34": {
+   "id": "8160c4e26e34",
+   "kaynak": "TRT Haber",
+   "baslik": "MİA'dan İsrail Yayılmacılığının Anatomisi Raporu",
+   "ozet": "Milli İstihbarat Akademisi MİA, \"İsrail Yayılmacılığının Anatomisi\" başlıklı raporunu yayımladı.",
+   "link": "https://www.trthaber.com/haber/gundem/miadan-israil-yayilmaciliginin-anatomisi-raporu-960973.html",
+   "zaman": "2026-10-23T10:17:00+03:00",
+   "kelimeler": [
+    "anato",
+    "dan",
+    "israi",
+    "mia",
+    "rapor",
+    "yayil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "208d982d733c": {
+   "id": "208d982d733c",
+   "kaynak": "AA",
+   "baslik": "İran Dışişleri Bakanı: ABD, İsrail'in savunması için kendi vergi mükelleflerinin 11 milyar dolarını harcadı",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD’nin İsrail’i savunmak için ABD vergi mükelleflerinin parasından 11 milyar dolar harcadığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-abd-israilin-savunmasi-icin-kendi-vergi-mukelleflerinin-11-milyar-dolarini-harcadi/4098042",
+   "zaman": "2026-10-23T10:21:38+03:00",
+   "kelimeler": [
+    "11",
+    "abd",
+    "bakan",
+    "disis",
+    "dolar",
+    "harca",
+    "in",
+    "iran",
+    "israi",
+    "kendi",
+    "milya",
+    "mukel",
+    "savun",
+    "vergi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f0099599d8c": {
+   "id": "2f0099599d8c",
+   "kaynak": "AA",
+   "baslik": "Trakya için sarı kodlu meteorolojik uyarı",
+   "ozet": "Meteoroloji Genel Müdürlüğü, Edirne, Tekirdağ ve Kırklareli için sarı kodlu meteorolojik uyarı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/trakya-icin-sari-kodlu-meteorolojik-uyari/4098044",
+   "zaman": "2026-10-23T10:23:04+03:00",
+   "kelimeler": [
+    "kodlu",
+    "meteo",
+    "sari",
+    "traky",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.10 10:31:17  7 yeni haber",
   "23.10 10:16:02  15 yeni haber",
   "23.10 09:48:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Veri analistine canlı bahis vurgunu suçlaması: Skorları 7 saniye gecik",
   "23.10 09:45:54  12 yeni haber",
@@ -33885,8 +33876,7 @@
   "21.10 01:01:13  4 yeni haber",
   "21.10 00:46:07  4 yeni haber",
   "21.10 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Arkadaşının öldüğü trafik kazasından sağ kurtulmuştu! 10 gün sonra fec",
-  "21.10 00:31:12  1 yeni haber",
-  "21.10 00:16:08  1 yeni haber"
+  "21.10 00:31:12  1 yeni haber"
  ],
  "otomatik": false
 }
