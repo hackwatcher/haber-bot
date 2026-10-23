@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "ae4398ad3038": {
-   "id": "ae4398ad3038",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump yönetimi 300 binden fazla vizeyi iptal etti",
-   "ozet": "ABD'de Başkan Donald Trump yönetiminin, göreve geldiği günden bugüne 300 binden fazla vizeyi iptal ettiği açıklandı.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-yonetimi-300-binden-fazla-vizeyi-iptal-etti-960693.html",
-   "zaman": "2026-10-21T02:47:00+03:00",
-   "kelimeler": [
-    "300",
-    "binde",
-    "etti",
-    "fazla",
-    "iptal",
-    "trump",
-    "vizey",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e82934bfe721": {
-   "id": "e82934bfe721",
-   "kaynak": "TRT Haber",
-   "baslik": "Bursa'da otomobile çarpan motosikletin sürücüsü öldü",
-   "ozet": "Bursa'nın İnegöl ilçesindeki trafik kazasında 19 yaşındaki motosiklet sürücüsü hayatını kaybetti.",
-   "link": "https://www.trthaber.com/haber/turkiye/bursada-otomobile-carpan-motosikletin-surucusu-oldu-960694.html",
-   "zaman": "2026-10-21T02:51:00+03:00",
-   "kelimeler": [
-    "bursa",
-    "carpa",
-    "motos",
-    "otomo",
-    "suruc"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "c25e3b3cb61c": {
    "id": "c25e3b3cb61c",
    "kaynak": "Hürriyet",
@@ -32444,7 +32404,10 @@
     "yer"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "833abb62c09a": {
    "id": "833abb62c09a",
@@ -32464,6 +32427,27 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7791bf14e157": {
+   "id": "7791bf14e157",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+   "ozet": "Uluslararası Para Fonu IMF, Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini belirtti.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-961046.html",
+   "zaman": "2026-10-24T02:41:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "deger",
+    "mali",
+    "seffa",
+    "siral",
+    "turki",
+    "ust",
+    "yer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72f5f81f87cb"
   }
  },
  "kayit": [
