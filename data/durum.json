@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "3fd6b071a0b2": {
-   "id": "3fd6b071a0b2",
-   "kaynak": "TRT Haber",
-   "baslik": "Eyüpsultan'da İBB'ye ağaç tepkisi",
-   "ozet": "İstanbul Eyüpsultanda, tramvay hattı çalışması gerekçesiyle taşınacağı açıklanan asırlık ağaçların kesildiği iddia edildi. Mahalle sakinleri İstanbul Büyükşehir Belediyesi ekiplerine tepki gösterdi. Olay yerine polis çağrıldı, çalışmalar durduruldu.",
-   "link": "https://www.trthaber.com/haber/gundem/eyupsultanda-ibbye-agac-tepkisi-960704.html",
-   "zaman": "2026-10-21T07:22:00+03:00",
-   "kelimeler": [
-    "agac",
-    "eyups",
-    "ibb",
-    "tepki",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2d425b37f016": {
    "id": "2d425b37f016",
    "kaynak": "Hürriyet",
@@ -32381,6 +32364,25 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7319916aca4b": {
+   "id": "7319916aca4b",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da bazı cadde ve yollar trafiğe kapatıldı",
+   "ozet": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-43353029",
+   "zaman": "2026-10-24T07:18:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "cadde",
+    "istan",
+    "kapat",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0b8dd14bba0"
   }
  },
  "kayit": [
