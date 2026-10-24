@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "c25e3b3cb61c": {
-   "id": "c25e3b3cb61c",
-   "kaynak": "Hürriyet",
-   "baslik": "SPK, 3 aracı kurumun faaliyetlerini durdurdu",
-   "ozet": "SERMAYE Piyasası Kurulu (SPK), Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ’nin sermaye piyasası faaliyetlerini 21 Ekim 2026 saat 00.01 itibarıyla geçici olarak durdurma kararı aldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/spk-3-araci-kurumun-faaliyetlerini-durdurdu-43349173",
-   "zaman": "2026-10-21T03:55:28+03:00",
-   "kelimeler": [
-    "araci",
-    "durdu",
-    "faali",
-    "kurum",
-    "spk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4c5b6eddd274"
-  },
   "a9e0661b4e80": {
    "id": "a9e0661b4e80",
    "kaynak": "NTV",
@@ -26750,7 +26732,8 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "7b6fcb193b97": {
    "id": "7b6fcb193b97",
@@ -32406,7 +32389,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "833abb62c09a": {
@@ -32466,9 +32450,89 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "da6ec4c04984": {
+   "id": "da6ec4c04984",
+   "kaynak": "Hürriyet",
+   "baslik": "Kıraathanede gece yarısı çıkan yangın korkuttu",
+   "ozet": "Bursa’da bir kıraathanede çıkan yangın, ekiplerin müdahalesiyle kontrol altına alınarak söndürüldü. Yangın sebebiyle kıraathanede maddi hasar meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kiraathanede-gece-yarisi-cikan-yangin-korkuttu-43353022",
+   "zaman": "2026-10-24T03:31:00+03:00",
+   "kelimeler": [
+    "cikan",
+    "gece",
+    "kiraa",
+    "korku",
+    "yangi",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cd64ea5c222b": {
+   "id": "cd64ea5c222b",
+   "kaynak": "Hürriyet",
+   "baslik": "Azerbaycan Büyükelçisi Aslanov'dan MHP Lideri Bahçeli'ye ziyaret",
+   "ozet": "Azerbaycan'ın Ankara Büyükelçisi Reşad Aslanov, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/azerbaycan-buyukelcisi-aslanovdan-mhp-lideri-bahceliye-ziyaret-43353023",
+   "zaman": "2026-10-24T03:33:32+03:00",
+   "kelimeler": [
+    "aslan",
+    "azerb",
+    "bahce",
+    "buyuk",
+    "dan",
+    "lider",
+    "mhp",
+    "ye",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b2dd472af4ab": {
+   "id": "b2dd472af4ab",
+   "kaynak": "Hürriyet",
+   "baslik": "Milas Belediyesi operasyonunda 18 tutuklama",
+   "ozet": "Muğla'nın Milas belediyesine yönelik Muğla Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gözaltı kararı verilen 35 şüpheliden 18'i tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/milas-belediyesi-operasyonunda-18-tutuklama-43353024",
+   "zaman": "2026-10-24T03:34:42+03:00",
+   "kelimeler": [
+    "18",
+    "beled",
+    "milas",
+    "opera",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "340629d834e9"
+  },
+  "aaafe5d25130": {
+   "id": "aaafe5d25130",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+   "ozet": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-43353025",
+   "zaman": "2026-10-24T03:36:18+03:00",
+   "kelimeler": [
+    "aldi",
+    "deger",
+    "mali",
+    "seffa",
+    "siral",
+    "turki",
+    "ust",
+    "yer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72f5f81f87cb"
   }
  },
  "kayit": [
+  "24.10 04:01:47  2 yeni haber",
+  "24.10 04:01:47  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)",
   "24.10 03:15:57  1 yeni haber",
   "24.10 02:45:57  1 yeni haber",
   "24.10 02:31:10  1 yeni haber",
@@ -32666,9 +32730,7 @@
   "21.10 18:46:07  2 yeni haber",
   "21.10 18:31:16  7 yeni haber",
   "21.10 18:16:00  5 yeni haber",
-  "21.10 18:01:27  4 yeni haber",
-  "21.10 17:46:06  5 yeni haber",
-  "21.10 17:31:12  5 yeni haber"
+  "21.10 18:01:27  4 yeni haber"
  ],
  "otomatik": false
 }
