@@ -1,61 +1,5 @@
 {
  "haberler": {
-  "62e4fd2e1d4e": {
-   "id": "62e4fd2e1d4e",
-   "kaynak": "Hürriyet",
-   "baslik": "Kağıthane'de 3 katlı binada yangın",
-   "ozet": "Kağıthane'de 3 katlı binada yangın çıktı. İhbar üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekipleri sevk edildi. Ekiplerin alevleri söndürme çalışmaları sürüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/kagithanede-3-katli-binada-yangin-43350287",
-   "zaman": "2026-10-21T21:19:26+03:00",
-   "kelimeler": [
-    "binad",
-    "kagit",
-    "katli",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1612e63d75b4": {
-   "id": "1612e63d75b4",
-   "kaynak": "Hürriyet",
-   "baslik": "Emir Sarıgül hakkında tutuklama talebi",
-   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturma kapsamında gözaltında bulunan Emir Sarıgül, adliyeye getirildi. Savcılık ifadesi tamamlanan Sarıgül, tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/emir-sarigul-hakkinda-tutuklama-talebi-43350291",
-   "zaman": "2026-10-21T21:21:57+03:00",
-   "kelimeler": [
-    "emir",
-    "hakki",
-    "sarig",
-    "taleb",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "002eac05f4eb"
-  },
-  "6f8edd44bc63": {
-   "id": "6f8edd44bc63",
-   "kaynak": "TRT Haber",
-   "baslik": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütüyor",
-   "ozet": "JP Morgan İstanbul Şubesi, Türkiye'deki bankacılık faaliyetlerini büyütme kararını KAP'a bildirdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutuyor-960817.html",
-   "zaman": "2026-10-21T21:25:00+03:00",
-   "kelimeler": [
-    "banka",
-    "buyut",
-    "deki",
-    "faali",
-    "jp",
-    "morga",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "822efdf3dd52": {
    "id": "822efdf3dd52",
    "kaynak": "NTV",
@@ -633,22 +577,6 @@
    "diger_kaynaklar": [
     "NTV"
    ]
-  },
-  "9c6a3916ff51": {
-   "id": "9c6a3916ff51",
-   "kaynak": "Hürriyet",
-   "baslik": "Emir Sarıgül tutuklandı",
-   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturma kapsamında gözaltında bulunan Emir Sarıgül çıkarıldığı mahkemece tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/emir-sarigul-tutuklandi-43350291",
-   "zaman": "2026-10-21T21:21:00+03:00",
-   "kelimeler": [
-    "emir",
-    "sarig",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "e53534457746"
   },
   "4b502a467b01": {
    "id": "4b502a467b01",
@@ -14336,7 +14264,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "832c836c3110": {
    "id": "832c836c3110",
@@ -28451,9 +28380,51 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "be2445008d81": {
+   "id": "be2445008d81",
+   "kaynak": "AA",
+   "baslik": "Amed Sportif Faaliyetler, deplasmanda Samsunspor'u 2-1 yendi",
+   "ozet": "Trendyol Süper Lig'in 9. haftasında Amed Sportif Faaliyetler, deplasmanda Samsunspor'u 2-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-deplasmanda-samsunsporu-2-1-yendi/4099771",
+   "zaman": "2026-10-24T20:05:09+03:00",
+   "kelimeler": [
+    "amed",
+    "depla",
+    "faali",
+    "samsu",
+    "sport",
+    "yendi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cd70a264eccf"
+  },
+  "562733cebffd": {
+   "id": "562733cebffd",
+   "kaynak": "TRT Haber",
+   "baslik": "Çin'de Champi Tayfunu nedeniyle 60 binden fazla kişi tahliye edildi",
+   "ozet": "Çin'in doğu kıyılarında etkisini gösteren Champi Tayfunu nedeniyle risk altındaki bölgelerde yaşayan on binlerce kişi güvenli bölgelere sevk edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/cinde-champi-tayfunu-nedeniyle-60-binden-fazla-kisi-tahliye-edildi-961099.html",
+   "zaman": "2026-10-24T21:04:00+03:00",
+   "kelimeler": [
+    "60",
+    "binde",
+    "champ",
+    "cin",
+    "edild",
+    "fazla",
+    "kisi",
+    "neden",
+    "tahli",
+    "tayfu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.10 21:25:43  1 yeni haber",
   "24.10 21:01:24  2 yeni haber",
   "24.10 21:01:24  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "24.10 20:45:55  2 yeni haber",
@@ -28652,8 +28623,7 @@
   "22.10 12:46:05  5 yeni haber",
   "22.10 12:35:33  4 yeni haber",
   "22.10 12:21:54  13 yeni haber",
-  "22.10 12:01:23  7 yeni haber",
-  "22.10 11:48:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Arda Turan, İspanyolca röportaj verdi:"
+  "22.10 12:01:23  7 yeni haber"
  ],
  "otomatik": false
 }
