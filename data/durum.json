@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "2d425b37f016": {
-   "id": "2d425b37f016",
-   "kaynak": "Hürriyet",
-   "baslik": "Evinde otururken üzerine tavan çöktü!",
-   "ozet": "Kayseri’de bir apartman dairesinde oturan F.Ö. (75), tavandan kopan moloz yığını altında kalarak yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/evinde-otururken-uzerine-tavan-coktu-43349176",
-   "zaman": "2026-10-21T07:37:47+03:00",
-   "kelimeler": [
-    "coktu",
-    "evind",
-    "oturu",
-    "tavan",
-    "uzeri"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6e8045255992": {
-   "id": "6e8045255992",
-   "kaynak": "AA",
-   "baslik": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
-   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Medine-i Münevvere ve doğu bölgesinde 5 insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi/4095218",
-   "zaman": "2026-10-21T07:39:31+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "bolge",
-    "dogu",
-    "iha",
-    "in",
-    "koali",
-    "medin",
-    "onlen",
-    "saldi",
-    "suudi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "f0f8560db14a": {
-   "id": "f0f8560db14a",
-   "kaynak": "TRT Haber",
-   "baslik": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
-   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Medinei Münevvere ve doğu bölgesinde 5 insansız hava aracının İHA engellenerek düşürüldüğünü duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-960707.html",
-   "zaman": "2026-10-21T07:35:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "bolge",
-    "dogu",
-    "iha",
-    "in",
-    "koali",
-    "medin",
-    "onlen",
-    "saldi",
-    "suudi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6e8045255992"
-  },
-  "1acccfbad69c": {
-   "id": "1acccfbad69c",
-   "kaynak": "TRT Haber",
-   "baslik": "Devrilen akaryakıt tankeri alev topuna döndü: 1 ölü",
-   "ozet": "Şanlıurfa'nın Viranşehir ilçesinde devrildikten sonra yanan akaryakıt tankerinin sürücüsü hayatını kaybetti.",
-   "link": "https://www.trthaber.com/haber/turkiye/devrilen-akaryakit-tankeri-alev-topuna-dondu-1-olu-960706.html",
-   "zaman": "2026-10-21T07:38:00+03:00",
-   "kelimeler": [
-    "akary",
-    "alev",
-    "devri",
-    "dondu",
-    "olu",
-    "tanke",
-    "topun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "50fa251702fa": {
    "id": "50fa251702fa",
    "kaynak": "Sözcü",
@@ -23749,7 +23663,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "05b6fb3fdffa": {
@@ -32383,6 +32298,30 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b0b8dd14bba0"
+  },
+  "0c46188add8d": {
+   "id": "0c46188add8d",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-yollar-trafige-kapatildi/4099167",
+   "zaman": "2026-10-24T07:39:18+03:00",
+   "kelimeler": [
+    "bayra",
+    "bazi",
+    "cadde",
+    "cumhu",
+    "istan",
+    "kapat",
+    "neden",
+    "prova",
+    "toren",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "92c7ad048afd"
   }
  },
  "kayit": [
