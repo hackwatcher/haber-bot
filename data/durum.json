@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "d0d76d95ae79": {
-   "id": "d0d76d95ae79",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da trafik yoğunluğu yüzde 83'e ulaştı",
-   "ozet": "İstanbul'da akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu oluştu.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-trafik-yogunlugu-yuzde-83e-ulasti/4096240",
-   "zaman": "2026-10-21T18:51:50+03:00",
-   "kelimeler": [
-    "83",
-    "istan",
-    "trafi",
-    "ulast",
-    "yogun",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "48225272ba0f"
-  },
   "7a07cf972427": {
    "id": "7a07cf972427",
    "kaynak": "NTV",
@@ -28957,9 +28938,94 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "ed513054d583"
+  },
+  "467f9cb82eeb": {
+   "id": "467f9cb82eeb",
+   "kaynak": "AA",
+   "baslik": "Erzurumspor FK, deplasmanda Gaziantep FK'yi 3-1 mağlup etti",
+   "ozet": "Trendyol Süper Lig'in 9. haftasındaki maçta Erzurumspor FK, deplasmanda Gaziantep FK'yi 3-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/-erzurumspor-fk-deplasmanda-gaziantep-fkyi-3-1-maglup-etti/4099616",
+   "zaman": "2026-10-24T16:56:25+03:00",
+   "kelimeler": [
+    "depla",
+    "erzur",
+    "etti",
+    "fk",
+    "gazia",
+    "maglu",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ef68ec0d89b3": {
+   "id": "ef68ec0d89b3",
+   "kaynak": "TRT Haber",
+   "baslik": "Zelenskiy, ordunun kullandığı Starlink internet hizmetinin eski hızına döndüğünü söyledi",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD merkezli SpaceX'in Starlink sisteminin Ukrayna ordusuna sunduğu ve yavaşlayan internet hizmetinin \"kısıtlamalardan önceki hıza\" geri döndüğünü bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/zelenskiy-ordunun-kullandigi-starlink-internet-hizmetinin-eski-hizina-dondugunu-soyledi-961093.html",
+   "zaman": "2026-10-24T17:59:00+03:00",
+   "kelimeler": [
+    "dondu",
+    "eski",
+    "hizin",
+    "hizme",
+    "inter",
+    "kulla",
+    "ordun",
+    "soyle",
+    "starl",
+    "zelen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63d0803ea4ed": {
+   "id": "63d0803ea4ed",
+   "kaynak": "Hürriyet",
+   "baslik": "Tarım ve Orman Bakanı Yumaklı, Kastamonu'nun sahil ilçelerini ziyaret etti",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Kastamonu'nun Abana, Bozkurt ve Çatalzeytin ilçelerinde ziyaretler gerçekleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/tarim-ve-orman-bakani-yumakli-kastamonunun-sahil-ilcelerini-ziyaret-etti-43353783",
+   "zaman": "2026-10-24T18:43:24+03:00",
+   "kelimeler": [
+    "bakan",
+    "etti",
+    "ilcel",
+    "kasta",
+    "nun",
+    "orman",
+    "sahil",
+    "tarim",
+    "yumak",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a2641f486d28": {
+   "id": "a2641f486d28",
+   "kaynak": "Sözcü",
+   "baslik": "KPSS adaylarına kimlik kolaylığı: Nüfus müdürlükleri pazar günü açık",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/kpss-adaylarina-kimlik-kolayligi-nufus-mudurlukleri-pazar-gunu-acik-p372371",
+   "zaman": "2026-10-24T18:50:53+03:00",
+   "kelimeler": [
+    "acik",
+    "adayl",
+    "gunu",
+    "kimli",
+    "kolay",
+    "kpss",
+    "mudur",
+    "nufus",
+    "pazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.10 18:52:50  4 yeni haber",
   "24.10 18:46:16  5 yeni haber",
   "24.10 18:31:10  3 yeni haber",
   "24.10 18:16:09  1 yeni haber",
@@ -29158,8 +29224,7 @@
   "22.10 10:35:56  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Elif Mavi'nin yaşamını yitirdiği kazada iddianame hazır: Sürücü asli k",
   "22.10 10:33:01  5 yeni haber",
   "22.10 10:17:58  2 yeni haber",
-  "22.10 10:17:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252",
-  "22.10 10:05:38  6 yeni haber"
+  "22.10 10:17:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5252"
  ],
  "otomatik": false
 }
