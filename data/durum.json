@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "2307d6638707": {
-   "id": "2307d6638707",
-   "kaynak": "AA",
-   "baslik": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
-   "ozet": "İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal gerçekleştirdiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-23-saldiri-gerceklestirdi/4096478",
-   "zaman": "2026-10-21T23:17:57+03:00",
-   "kelimeler": [
-    "12",
-    "23",
-    "asker",
-    "bati",
-    "filis",
-    "gasbe",
-    "gerce",
-    "israi",
-    "saatt",
-    "saldi",
-    "seria",
-    "topra"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "60af9b19d996": {
-   "id": "60af9b19d996",
-   "kaynak": "TRT Haber",
-   "baslik": "Soykırımcı İsrail, Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
-   "ozet": "Soykırımcı İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal gerçekleştirdiği bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
-   "zaman": "2026-10-21T23:20:00+03:00",
-   "kelimeler": [
-    "12",
-    "23",
-    "bati",
-    "gerce",
-    "israi",
-    "saatt",
-    "saldi",
-    "seria",
-    "soyki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2307d6638707"
-  },
   "57a45ce60988": {
    "id": "57a45ce60988",
    "kaynak": "AA",
@@ -27888,9 +27839,80 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7b13e16f3c10": {
+   "id": "7b13e16f3c10",
+   "kaynak": "TRT Haber",
+   "baslik": "İranlı yetkiliden saldırıya uğramaları halinde İsrail'i hedef alacakları tehdidi",
+   "ozet": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı Azizi, olası bir çatışmada İsrail'de hedef alabilecekleri bazı altyapı noktalarının haritasını paylaştı",
+   "link": "https://www.trthaber.com/haber/dunya/iranli-yetkiliden-saldiriya-ugramalari-halinde-israili-hedef-alacaklari-tehdidi-961102.html",
+   "zaman": "2026-10-24T23:05:00+03:00",
+   "kelimeler": [
+    "alaca",
+    "halin",
+    "hedef",
+    "iranl",
+    "israi",
+    "saldi",
+    "tehdi",
+    "ugram",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "c118ccb27d26": {
+   "id": "c118ccb27d26",
+   "kaynak": "AA",
+   "baslik": "İçişleri Bakanı Çiftçi: (Antalya'da düzenlenecek COP31) Sahada 26 bin personelimiz görev yapacak",
+   "ozet": "Bakan Çiftçi, Antalya'da düzenlenecek COP31'e ilişkin, \"İçişleri Bakanlığı olarak, Emniyet Genel Müdürlüğümüz, Jandarma Genel Komutanlığımız, Sahil Güvenlik Komutanlığımız oldukça geniş tedbirler aldı. Sahada 26 bin personelimiz görev yapacak\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-antalyada-duzenlenecek-cop31-sahada-26-bin-personelimiz-gorev-yapacak/4099856",
+   "zaman": "2026-10-24T23:08:27+03:00",
+   "kelimeler": [
+    "26",
+    "antal",
+    "bakan",
+    "bin",
+    "ciftc",
+    "cop31",
+    "duzen",
+    "gorev",
+    "icisl",
+    "perso",
+    "sahad",
+    "yapac"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "21d2a04e382f": {
+   "id": "21d2a04e382f",
+   "kaynak": "AA",
+   "baslik": "İranlı yetkiliden \"saldırıya uğramaları halinde İsrail'i hedef alacakları\" tehdidi",
+   "ozet": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı Azizi, ülkesinin milli güvenliğine ve çıkarlarına yönelik herhangi bir girişim karşısında \"İsrail'in yaşanmaz hale geleceği\" değerlendirmesinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkiliden-saldiriya-ugramalari-halinde-israili-hedef-alacaklari-tehdidi/4099860",
+   "zaman": "2026-10-24T23:14:59+03:00",
+   "kelimeler": [
+    "alaca",
+    "halin",
+    "hedef",
+    "iranl",
+    "israi",
+    "saldi",
+    "tehdi",
+    "ugram",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7b13e16f3c10"
   }
  },
  "kayit": [
+  "24.10 23:31:04  2 yeni haber",
   "24.10 23:16:10  2 yeni haber",
   "24.10 23:01:41  1 yeni haber",
   "24.10 22:45:57  2 yeni haber",
@@ -28089,8 +28111,7 @@
   "22.10 14:35:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Merkez Bankası politika faizini 100 baz puan indirerek yüzde 36'ya çek",
   "22.10 14:31:46  4 yeni haber",
   "22.10 14:16:23  11 yeni haber",
-  "22.10 13:48:03  8 yeni haber",
-  "22.10 13:31:12  10 yeni haber"
+  "22.10 13:48:03  8 yeni haber"
  ],
  "otomatik": false
 }
