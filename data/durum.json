@@ -25342,7 +25342,10 @@
     "yasam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3cad8e28e041": {
    "id": "3cad8e28e041",
@@ -27868,9 +27871,54 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6b571ed01247"
+  },
+  "ab2f68335875": {
+   "id": "ab2f68335875",
+   "kaynak": "AA",
+   "baslik": "Eber Gölü'ndeki sazlık ve Sarıcaova'daki yanan ormanlarda yaban hayatı izleniyor",
+   "ozet": "Afyonkarahisar'da, Eber Gölü'ndeki sazlık ile Sarıcaova'daki yangından etkilenen ormanlık alanlarda yürütülen çalışmalarla, yaban hayvanlarının bölgedeki varlığı ve yangının tür çeşitliliği üzerindeki etkileri araştırılıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/eber-golundeki-sazlik-ve-saricaovadaki-yanan-ormanlarda-yaban-hayati-izleniyor/4099905",
+   "zaman": "2026-10-25T01:11:37+03:00",
+   "kelimeler": [
+    "daki",
+    "eber",
+    "golu",
+    "hayat",
+    "izlen",
+    "ndeki",
+    "orman",
+    "saric",
+    "sazli",
+    "yaban",
+    "yanan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a2f07f7d270a": {
+   "id": "a2f07f7d270a",
+   "kaynak": "AA",
+   "baslik": "Robotik kalp cerrahisi hastaların günlük yaşama dönüşünü hızlandırıyor",
+   "ozet": "Karadeniz Teknik Üniversitesi (KTÜ) Farabi Hastanesinde robotik kalp ve damar cerrahisi uygulanmaya başlanırken bu yöntemle ilk kez Rize ve Gümüşhane'den gelen iki hasta ameliyat edildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/robotik-kalp-cerrahisi-hastalarin-gunluk-yasama-donusunu-hizlandiriyor/4099907",
+   "zaman": "2026-10-25T01:13:16+03:00",
+   "kelimeler": [
+    "cerra",
+    "donus",
+    "gunlu",
+    "hasta",
+    "hizla",
+    "kalp",
+    "robot",
+    "yasam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f6407ec7227f"
   }
  },
  "kayit": [
+  "25.10 02:01:41  1 yeni haber",
   "25.10 01:46:07  2 yeni haber",
   "25.10 01:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "25.10 01:33:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İstanbul Barosu seçimlerinde yumruk yumruğa kavga çıktı.",
@@ -28069,8 +28117,7 @@
   "22.10 18:31:23  4 yeni haber",
   "22.10 18:16:04  1 yeni haber",
   "22.10 18:01:35  6 yeni haber",
-  "22.10 17:48:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin da",
-  "22.10 17:31:16  10 yeni haber"
+  "22.10 17:48:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin da"
  ],
  "otomatik": false
 }
