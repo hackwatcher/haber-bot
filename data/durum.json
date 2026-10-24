@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "af3f39a41933": {
-   "id": "af3f39a41933",
-   "kaynak": "AA",
-   "baslik": "Microsoft, Çin bağlantılı aktörün yapay zeka kullanarak yüzlerce kuruluşu hedef aldığını belirtti",
-   "ozet": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-cin-baglantili-aktorun-yapay-zeka-kullanarak-yuzlerce-kurulusu-hedef-aldigini-belirtti/4096573",
-   "zaman": "2026-10-22T01:40:45+03:00",
-   "kelimeler": [
-    "aktor",
-    "aldig",
-    "bagla",
-    "belir",
-    "cin",
-    "hedef",
-    "kulla",
-    "kurul",
-    "micro",
-    "yapay",
-    "yuzle",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0b496cb87acf": {
    "id": "0b496cb87acf",
    "kaynak": "Sözcü",
@@ -27733,7 +27709,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a89805ff6cef": {
    "id": "a89805ff6cef",
@@ -27826,9 +27805,74 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "17993cdbc539"
+  },
+  "274c2700d482": {
+   "id": "274c2700d482",
+   "kaynak": "AA",
+   "baslik": "GAİB'e bağlı 9 ildeki kuru meyve ihracatından 9 ayda 183,9 milyon dolarlık gelir",
+   "ozet": "Güneydoğu Anadolu İhracatçı Birliklerine bağlı 9 ilden ocak-eylül döneminde 183,9 milyon dolarlık kuru meyve ihracatı gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/gaibe-bagli-9-ildeki-kuru-meyve-ihracatindan-9-ayda-183-9-milyon-dolarlik-gelir/4099908",
+   "zaman": "2026-10-25T01:14:14+03:00",
+   "kelimeler": [
+    "183",
+    "ayda",
+    "bagli",
+    "dolar",
+    "gaib",
+    "gelir",
+    "ihrac",
+    "ildek",
+    "kuru",
+    "meyve",
+    "milyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a7c15cacf485": {
+   "id": "a7c15cacf485",
+   "kaynak": "AA",
+   "baslik": "Plaj futbolunda 33 ülkeden 48 takım Alanya'da buluşacak",
+   "ozet": "Plaj Futbolu Dünya Kulüpler Şampiyonası, 26 Ekim-1 Kasım tarihlerinde Antalya'nın Alanya ilçesinde 5 kıtadan 33 ülkenin 48 takımını buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/spor/plaj-futbolunda-33-ulkeden-48-takim-alanyada-bulusacak/4099909",
+   "zaman": "2026-10-25T01:14:50+03:00",
+   "kelimeler": [
+    "33",
+    "48",
+    "alany",
+    "bulus",
+    "futbo",
+    "plaj",
+    "takim",
+    "ulked"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e47af2ee3c46": {
+   "id": "e47af2ee3c46",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
+   "ozet": "ABD Başkanı Donald Trump, İran'da başladığı işi bitirmek zorunda kalabileceğini ifade ederek, \"İran'ı tekrar bombalama ihtimalim var\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-irani-tekrar-bombalama-ihtimalim-var-961112.html",
+   "zaman": "2026-10-25T01:25:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "bomba",
+    "ihtim",
+    "iran",
+    "tekra",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6b571ed01247"
   }
  },
  "kayit": [
+  "25.10 01:46:07  2 yeni haber",
+  "25.10 01:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "25.10 01:33:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İstanbul Barosu seçimlerinde yumruk yumruğa kavga çıktı.",
   "25.10 01:31:16  1 yeni haber",
   "25.10 01:16:08  1 yeni haber",
@@ -28026,9 +28070,7 @@
   "22.10 18:16:04  1 yeni haber",
   "22.10 18:01:35  6 yeni haber",
   "22.10 17:48:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin da",
-  "22.10 17:31:16  10 yeni haber",
-  "22.10 17:01:20  11 yeni haber",
-  "22.10 16:22:24  9 yeni haber"
+  "22.10 17:31:16  10 yeni haber"
  ],
  "otomatik": false
 }
