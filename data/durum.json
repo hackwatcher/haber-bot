@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "7310e5dc8f67": {
-   "id": "7310e5dc8f67",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye ile Belçika arasında bakanlar düzeyinde kritik zirve",
-   "ozet": "Türkiye ve Belçika, işbirliğini güçlendirmek amacıyla 10 yıl aradan sonra bakanlar düzeyinde bir araya gelirken; Dışişleri Bakanı Fidan, Adalet Bakanı Gürlek ve İçişleri Bakanı Çiftçi'nin Brüksel'de katıldığı 'Üçlü Bakanlar Toplantısı'nda terörle mücadele, suçluların iadesi,…",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-belcika-arasinda-bakanlar-duzeyinde-kritik-zirve-960697.html",
-   "zaman": "2026-10-21T06:02:00+03:00",
-   "kelimeler": [
-    "arasi",
-    "bakan",
-    "belci",
-    "duzey",
-    "kriti",
-    "turki",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "dc6f13f5b7a6": {
    "id": "dc6f13f5b7a6",
    "kaynak": "TRT Haber",
@@ -24392,7 +24373,10 @@
     "yolla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0d7b3d9f419f": {
    "id": "0d7b3d9f419f",
@@ -32538,6 +32522,25 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "92c7ad048afd"
+  },
+  "b978f51fbd3d": {
+   "id": "b978f51fbd3d",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da bazı cadde ve yollar trafiğe kapatıldı",
+   "ozet": "29 Ekim Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-961049.html",
+   "zaman": "2026-10-24T05:56:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "cadde",
+    "istan",
+    "kapat",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0b8dd14bba0"
   }
  },
  "kayit": [
