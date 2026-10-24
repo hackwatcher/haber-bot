@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "23c38579bb03": {
-   "id": "23c38579bb03",
-   "kaynak": "AA",
-   "baslik": "Meta'nın geliri üçüncü çeyrekte arttı",
-   "ozet": "Facebook, Instagram ve WhatsApp'ın sahibi Meta'nın geliri yılın üçüncü çeyreğinde yüzde 26 artış kaydetti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/metanin-geliri-ucuncu-ceyrekte-artti/4096555",
-   "zaman": "2026-10-22T00:42:54+03:00",
-   "kelimeler": [
-    "artti",
-    "ceyre",
-    "gelir",
-    "meta",
-    "nin",
-    "ucunc"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "74105584d544"
-  },
   "72bd97556a4e": {
    "id": "72bd97556a4e",
    "kaynak": "XHABER",
@@ -27327,7 +27308,8 @@
     "york"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "98df7205bcac": {
    "id": "98df7205bcac",
@@ -27817,9 +27799,81 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "0bea4c782911"
+  },
+  "d31aa74c614b": {
+   "id": "d31aa74c614b",
+   "kaynak": "AA",
+   "baslik": "İran basını: İran'ın ABD'ye yeni bir teklif ilettiği iddiaları gerçeği yansıtmıyor",
+   "ozet": "İran'ın Pakistan aracılığıyla ABD'ye deniz ablukasının kaldırılması karşılığında Hürmüz Boğazı'nın açılacağı yönünde yeni bir teklif ilettiği iddiasının doğru olmadığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-iranin-abdye-yeni-bir-teklif-ilettigi-iddialari-gercegi-yansitmiyor/4099893",
+   "zaman": "2026-10-25T00:18:46+03:00",
+   "kelimeler": [
+    "abd",
+    "basin",
+    "gerce",
+    "iddia",
+    "ilett",
+    "in",
+    "iran",
+    "tekli",
+    "yansi",
+    "ye",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab2664084749": {
+   "id": "ab2664084749",
+   "kaynak": "TRT Haber",
+   "baslik": "Filistin İnsan Hakları Merkezi: El Halil'de yaklaşık 2 bin 500 kişi zorla yerinden edildi",
+   "ozet": "Filistin İnsan Hakları Merkezi, işgalci İsrail'in, işgal altındaki Batı Şeria'nın El Halil kentindeki Filistinlilere karşı toplu cezalandırma uyguladığını ve yaklaşık 2 bin 500 kişinin yerinden edildiğini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/filistin-insan-haklari-merkezi-el-halilde-yaklasik-2-bin-500-kisi-zorla-yerinden-edildi-961108.html",
+   "zaman": "2026-10-25T00:25:00+03:00",
+   "kelimeler": [
+    "500",
+    "bin",
+    "edild",
+    "el",
+    "filis",
+    "hakla",
+    "halil",
+    "insan",
+    "kisi",
+    "merke",
+    "yakla",
+    "yerin",
+    "zorla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c6f970403e0": {
+   "id": "6c6f970403e0",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump, erken oy kullanma işlemlerinin başladığı Florida'da oyunu kullandı",
+   "ozet": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak Kongre ara seçimleri kapsamında erken oy kullanma işlemlerinin başladığı Florida'da oyunu kullandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-erken-oy-kullanma-islemlerinin-basladigi-floridada-oyunu-kullandi-/4099896",
+   "zaman": "2026-10-25T00:34:08+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "basla",
+    "erken",
+    "flori",
+    "islem",
+    "kulla",
+    "oy",
+    "oyunu",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "192267563bc6"
   }
  },
  "kayit": [
+  "25.10 00:46:20  2 yeni haber",
   "25.10 00:34:11  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
   "25.10 00:31:20  3 yeni haber",
   "25.10 00:16:02  2 yeni haber",
@@ -28018,8 +28072,7 @@
   "22.10 16:03:35  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Como mağlubiyeti sonrası Bruno Fernandes’ten teknik direktörü Carrick’",
   "22.10 16:01:32  5 yeni haber",
   "22.10 15:31:15  4 yeni haber",
-  "22.10 15:16:26  8 yeni haber",
-  "22.10 15:01:31  3 yeni haber"
+  "22.10 15:16:26  8 yeni haber"
  ],
  "otomatik": false
 }
