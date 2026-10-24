@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "6a2c16fd8d12": {
-   "id": "6a2c16fd8d12",
-   "kaynak": "AA",
-   "baslik": "AfD Eş Genel Başkanı Weidel, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi",
-   "ozet": "Almanya için Alternatif (AfD) Eş Genel Başkanı Alice Weidel, Avrupa Birliği'nin (AB) mevcut haliyle \"ciddi reforma\" ihtiyacı olduğunu belirterek, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/afd-es-genel-baskani-weidel-partisinin-abyi-yeniden-insa-etmek-istedigini-soyledi/4096327",
-   "zaman": "2026-10-21T20:35:40+03:00",
-   "kelimeler": [
-    "ab",
-    "afd",
-    "baska",
-    "es",
-    "etmek",
-    "genel",
-    "insa",
-    "isted",
-    "parti",
-    "soyle",
-    "weide",
-    "yenid",
-    "yi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ead7e5517a7d": {
-   "id": "ead7e5517a7d",
-   "kaynak": "AA",
-   "baslik": "Fransa'da sarı yeleklilerin eylemleri kapsamında 174 kişi tutuklandı",
-   "ozet": "Fransa Adalet Bakanı Gerald Darmanin, sarı yeleklilerin 17 Ekim'de şiddet olaylarına sahne olan eylemleri kapsamında 174 kişinin tutuklandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemleri-kapsaminda-174-kisi-tutuklandi/4096329",
-   "zaman": "2026-10-21T20:37:30+03:00",
-   "kelimeler": [
-    "174",
-    "eylem",
-    "frans",
-    "kapsa",
-    "kisi",
-    "sari",
-    "tutuk",
-    "yelek"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "197aeaf18f93"
-  },
   "640970747fda": {
    "id": "640970747fda",
    "kaynak": "AA",
@@ -412,22 +366,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "d30390ddcbbf": {
-   "id": "d30390ddcbbf",
-   "kaynak": "AA",
-   "baslik": "Galatasaray, Lille'i mağlup etti",
-   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nde Lille'i 4-2 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-lillei-maglup-etti/4096332",
-   "zaman": "2026-10-21T20:41:08+03:00",
-   "kelimeler": [
-    "etti",
-    "galat",
-    "lille",
-    "maglu"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "1612e63d75b4": {
    "id": "1612e63d75b4",
    "kaynak": "Hürriyet",
@@ -677,28 +615,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "ef933c768e79": {
-   "id": "ef933c768e79",
-   "kaynak": "AA",
-   "baslik": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
-   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
-   "zaman": "2026-10-21T20:41:08+03:00",
-   "kelimeler": [
-    "aldi",
-    "galat",
-    "galib",
-    "ilk",
-    "karsi",
-    "ligi",
-    "lille",
-    "ndeki",
-    "sampi",
-    "sezon"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "de86ec194442": {
    "id": "de86ec194442",
@@ -26567,7 +26483,9 @@
    "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber",
+    "Hürriyet"
    ],
    "paylasildi": "2026-10-24T16:48:11.814457+03:00",
    "ig_id": "17910072441319291",
@@ -28777,9 +28695,97 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "666b160f0c9f"
+  },
+  "839981cc2248": {
+   "id": "839981cc2248",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye 'Uluslararası En İyi Askeri Uçangöz Takımı Yarışması'nda şampiyon oldu",
+   "ozet": "Kara Kuvvetleri Komutanlığının ilk kez düzenlediği Uluslararası En İyi Askeri Uçangöz Takımı Yarışması'nda Kara Kuvvetleri Komutanlığının 1'inci takımı şampiyon oldu.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-uluslararasi-en-iyi-askeri-ucangoz-takimi-yarismasinda-sampiyon-oldu-961098.html",
+   "zaman": "2026-10-24T20:08:00+03:00",
+   "kelimeler": [
+    "asker",
+    "iyi",
+    "nda",
+    "sampi",
+    "takim",
+    "turki",
+    "ucang",
+    "ulusl",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1bb71914f16d"
+  },
+  "dff9c0751a08": {
+   "id": "dff9c0751a08",
+   "kaynak": "Hürriyet",
+   "baslik": "Kara Kuvvetleri'nin 'Askeri Dron Yarışması'nda Türkiye şampiyon oldu",
+   "ozet": "Kara Kuvvetleri Komutanlığı tarafından ilk kez düzenlenen 'Uluslararası En İyi Askeri Uçangöz (Dron)/Gözükara Takımı Yarışması'nda (BIMDTC-2026) Türk Kara Kuvvetleri Komutanlığı takımı parkuru 41,417 saniye ile tamamlayarak şampiyon oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-kuvvetlerinin-askeri-dron-yarismasinda-turkiye-sampiyon-oldu-43353871",
+   "zaman": "2026-10-24T20:29:00+03:00",
+   "kelimeler": [
+    "asker",
+    "dron",
+    "kara",
+    "kuvve",
+    "nda",
+    "nin",
+    "sampi",
+    "turki",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1bb71914f16d"
+  },
+  "b3365a2c079f": {
+   "id": "b3365a2c079f",
+   "kaynak": "AA",
+   "baslik": "Sermaye piyasası işlemleri soruşturmalarında Ertan Aydın'a tutuklama talebi",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda gözaltına alınan araştırma ve kampanya şirketi kurucusu Ertan Aydın tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-ertan-aydina-tutuklama-talebi/4099789",
+   "zaman": "2026-10-24T20:29:09+03:00",
+   "kelimeler": [
+    "aydin",
+    "ertan",
+    "islem",
+    "piyas",
+    "serma",
+    "sorus",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "db9b46cf70a4": {
+   "id": "db9b46cf70a4",
+   "kaynak": "NTV",
+   "baslik": "Annesinin vefatıyla sadrazam torunu olduğunu öğrendi. \"Çeşme'nin üçte ikisi bizim\"",
+   "ozet": "Nilüfer Akcoşkun Bozbağ'ın, Sadrazam Melek Mehmed Paşa'nın torunu olduğunu öğrenmesiyle başlayan miras mücadelesi sürüyor. Arşivlerde 20 arsa tespit eden Bozbağ, \"Çeşme'nin üçte ikisi bizim\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/annesinin-vefatiyla-sadrazam-torunu-oldugunu-ogrendi-cesmenin-ucte-ikisi-bizim-1747813",
+   "zaman": "2026-10-24T20:38:38+03:00",
+   "kelimeler": [
+    "annes",
+    "bizim",
+    "cesme",
+    "ikisi",
+    "nin",
+    "ogren",
+    "oldug",
+    "sadra",
+    "torun",
+    "ucte",
+    "vefat"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "24.10 20:45:55  2 yeni haber",
   "24.10 20:31:17  3 yeni haber",
   "24.10 20:16:16  3 yeni haber",
   "24.10 20:01:25  1 yeni haber",
@@ -28978,8 +28984,7 @@
   "22.10 12:01:23  7 yeni haber",
   "22.10 11:48:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Arda Turan, İspanyolca röportaj verdi:",
   "22.10 11:45:59  19 yeni haber",
-  "22.10 11:31:17  6 yeni haber",
-  "22.10 11:17:37  13 yeni haber"
+  "22.10 11:31:17  6 yeni haber"
  ],
  "otomatik": false
 }
