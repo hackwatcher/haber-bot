@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "17fdd454a218": {
-   "id": "17fdd454a218",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Zenginleştirilmiş uranyumun tek bir gramı bile ülkemizden çıkarılmayacak",
-   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, \"Zenginleştirilmiş uranyumun tek bir gramı bile İrandan çıkarılmayacak. ABD güven tesis edecek adımlar atana kadar hiçbir müzakere yapılmayacak.\" açıklamasında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-zenginlestirilmis-uranyumun-tek-bir-grami-bile-ulkemizden-cikarilmayacak-960705.html",
-   "zaman": "2026-10-21T07:13:00+03:00",
-   "kelimeler": [
-    "bile",
-    "cikar",
-    "grami",
-    "iran",
-    "tek",
-    "ulkem",
-    "urany",
-    "zengi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3fd6b071a0b2": {
    "id": "3fd6b071a0b2",
    "kaynak": "TRT Haber",
@@ -24613,7 +24593,10 @@
     "yapma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "379a31215831": {
    "id": "379a31215831",
@@ -25940,7 +25923,8 @@
     "yag"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0730a1d96055": {
    "id": "0730a1d96055",
@@ -29130,7 +29114,10 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c274d6780584": {
    "id": "c274d6780584",
@@ -32147,9 +32134,257 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b0b8dd14bba0"
+  },
+  "9b4da5e9572d": {
+   "id": "9b4da5e9572d",
+   "kaynak": "Hürriyet",
+   "baslik": "Maden ocağında grizu patlaması",
+   "ozet": "Özel kömür madeni ocağında meydana gelen grizu patlamasında 3 işçi yaşamını yitirdi, 2’si ağır, 5 işçi yaralandı. Patlamaya ilişkin başlatılan soruşturmada işletme sahibi ile iş sağlığı ve güvenliği uzmanı hakkında gözaltı kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/maden-ocaginda-grizu-patlamasi-43352939",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "grizu",
+    "maden",
+    "ocagi",
+    "patla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "84eaa4ea384f"
+  },
+  "8250f3a368cb": {
+   "id": "8250f3a368cb",
+   "kaynak": "Hürriyet",
+   "baslik": "7 saniyelik vurgun",
+   "ozet": "Spor müsabakalarındaki canlı bahisleri 7 saniye geciktirerek, skor belli olduktan sonra ortaklarına bahis oynattığı tespit edilen ‘Spordata’ isimli firmada veri analisti olarak çalışan O.B.’nin hesaplarında 192 milyon liralık para giriş çıkışı olduğu belirlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/7-saniyelik-vurgun-43352941",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "saniy",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "40bc9d2e976a": {
+   "id": "40bc9d2e976a",
+   "kaynak": "Hürriyet",
+   "baslik": "Yağ aldırma ameliyatında can verdi",
+   "ozet": "Tuğba Onur, özel bir hastanede yağ aldırma ameliyatı sırasında hayatını kaybetti. Eşinin yanlış müdahale nedeniyle öldüğünü öne süren Murat Onur, hastane ve olayda sorumluluğu olanlardan şikâyetçi oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/yag-aldirma-ameliyatinda-can-verdi-43352942",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "aldir",
+    "ameli",
+    "can",
+    "verdi",
+    "yag"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "babcaad64826"
+  },
+  "ccf569aa62bc": {
+   "id": "ccf569aa62bc",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül soruşturmasında 3 şüpheliye tutuklama talebi",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nca Sarıgül Ailesi hakkında yürütülen ‘suçtan kaynaklanan malvarlığı değerlerini aklama’ soruşturması kapsamında gözaltına alınan 5 şüpheliden 3'ü tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigul-sorusturmasinda-3-supheliye-tutuklama-talebi-43352943",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "sarig",
+    "sorus",
+    "suphe",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aa06488dcfbc"
+  },
+  "66d439a79dd0": {
+   "id": "66d439a79dd0",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan: Barış için arabuluculuk yapmaya devam",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, “Türkiye olarak, güvensizlik üzerine bina edilen bir uluslararası siyaset anlayışını kabul etmiyoruz. En çetin itilaflarda dahi diplomasi için mutlaka bir kapı olduğuna inanıyoruz.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-baris-icin-arabuluculuk-yapmaya-devam-43352944",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "arabu",
+    "baris",
+    "devam",
+    "erdog",
+    "yapma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6edc9bf2e0f8"
+  },
+  "b88275a7dd76": {
+   "id": "b88275a7dd76",
+   "kaynak": "Hürriyet",
+   "baslik": "Çatışmaya karşı İstanbul çağrısı",
+   "ozet": "Türkiye, Mısır, Pakistan, Suudi Arabistan, İngiltere, Almanya, Fransa ve İtalya dışişleri bakanlarını bir araya getiren İstanbul zirvesinden hem Körfez’de hem Ukrayna’da bir an önce ateşkes ve barış çağrısı çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/catismaya-karsi-istanbul-cagrisi-43352946",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "catis",
+    "istan",
+    "karsi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "124391c0d0d1": {
+   "id": "124391c0d0d1",
+   "kaynak": "Hürriyet",
+   "baslik": "Bahçeli’den kurultay tarihi... 15. kurultay 7 Şubat’ta",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, “Partimizin 15’inci Olağan Büyük Kurultayı’nın 7 Şubat 2027 Pazar günü gerçekleştirilmesi kararlaştırılmıştır” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bahceliden-kurultay-tarihi-15-kurultay-7-subatta-43352948",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "bahce",
+    "den",
+    "kurul",
+    "subat",
+    "ta",
+    "tarih"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2358d282323a": {
+   "id": "2358d282323a",
+   "kaynak": "Hürriyet",
+   "baslik": "Aleyna için ezber bozan mütalaa... İntihara sevk değil kasten öldürme",
+   "ozet": "Ayrıldığı sevgilisinin tehditleri nedeniyle hayatına son veren üniversite öğrencisi Aleyna Kaya’nın ölümüne ilişkin ‘intihara yönlendirme’ suçundan dava açılmıştı. Ancak Cumhuriyet Savcısı, örnek bir mütalaa ile sanığın ‘kasten öldürme’den cezalandırılmasını talep etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/aleyna-icin-ezber-bozan-mutalaa-intihara-sevk-degil-kasten-oldurme-43352952",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "aleyn",
+    "bozan",
+    "degil",
+    "ezber",
+    "intih",
+    "kaste",
+    "mutal",
+    "oldur",
+    "sevk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ea961ced608b": {
+   "id": "ea961ced608b",
+   "kaynak": "Hürriyet",
+   "baslik": "Saldırının 2. yılı... TUSAŞ şehitlerini andı",
+   "ozet": "TÜRK Havacılık ve Uzay Sanayii A.Ş. (TUSAŞ), 23 Ekim 2024’te Kahramankazan Yerleşkesi’ne gerçekleştirilen terör saldırısının 2’nci yılında şehitleri andı.",
+   "link": "https://www.hurriyet.com.tr/gundem/saldirinin-2-yili-tusas-sehitlerini-andi-43352967",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "andi",
+    "saldi",
+    "sehit",
+    "tusas",
+    "yili"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a5d00402d4be"
+  },
+  "cb191f3b1235": {
+   "id": "cb191f3b1235",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti’den vekillere Genel Kurul uyarısı",
+   "ozet": "AK Parti Grup Başkanlığı, milletvekillerine Genel Kurul uyarısında bulundu. Cumhurbaşkanı Tayyip Erdoğan’ın da milletvekillerine yönelik “Meclis çalışmalarına katılın” uyarılarının ardından Grup Başkanı Abdullah Güler, milletvekillerine gönderdiği yazıyla vekillerin 31 Aralık…",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-partiden-vekillere-genel-kurul-uyarisi-43352972",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "ak",
+    "den",
+    "genel",
+    "kurul",
+    "parti",
+    "uyari",
+    "vekil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "983afc471166": {
+   "id": "983afc471166",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul Barosu başkanını seçecek",
+   "ozet": "İstanbul Barosu’nun bu hafta sonu yapılacak 128. Olağan Genel Kurulu’nda başkanlık için dokuz aday yarışacak. Haliç Kongre Merkezi’ndeki seçimde 68 bini aşkın avukatın oy hakkı var. Hürriyet adayları ve projelerini sıraladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-barosu-baskanini-sececek-43352974",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "baros",
+    "baska",
+    "istan",
+    "secec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aac70efdb723": {
+   "id": "aac70efdb723",
+   "kaynak": "Hürriyet",
+   "baslik": "Özel’den Sosyalist Enternasyonal buluşması",
+   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, Sosyalist Enternasyonal toplantısına çevrim içi katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozelden-sosyalist-enternasyonal-bulusmasi-43352981",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "bulus",
+    "den",
+    "enter",
+    "ozel",
+    "sosya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6dcab148668e": {
+   "id": "6dcab148668e",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum COP31’i anlattı: İklim Antalya’da değişecek",
+   "ozet": "Bakan Murat Kurum kasımda dünya liderlerini Antalya’da buluşturacak COP31 zirvesini anlatırken “Dünya, iklimin geleceğini konuşmak üzere ülkemize, Antalya’ya gelecek” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-cop31i-anlatti-iklim-antalyada-degisecek-43352982",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "anlat",
+    "antal",
+    "bakan",
+    "cop31",
+    "degis",
+    "iklim",
+    "kurum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "af985df828c9": {
+   "id": "af985df828c9",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Tekin çocuklarla halat çekti",
+   "ozet": "İSTANBUL’DA Güneşlitepe İlkokulu’nda ‘Maarifin Kalbinde Oyun, Aile ve Çocuk Günü’ düzenlendi. Milli Eğitim Bakanı Yusuf Tekin’in katıldığı programda çocuklar, okul bahçesinde oyun oynadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-tekin-cocuklarla-halat-cekti-43352992",
+   "zaman": "2026-10-24T07:00:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "cekti",
+    "cocuk",
+    "halat",
+    "tekin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.10 07:15:56  9 yeni haber",
   "24.10 07:03:40  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kayseri’de kaza yapan otomobil alev aldı, park halindeki 3 araç zarar ",
   "24.10 06:01:38  1 yeni haber",
   "24.10 05:01:27  1 yeni haber",
@@ -32348,8 +32583,7 @@
   "21.10 19:46:07  2 yeni haber",
   "21.10 19:31:03  3 yeni haber",
   "21.10 19:16:06  5 yeni haber",
-  "21.10 19:01:25  7 yeni haber",
-  "21.10 18:46:07  2 yeni haber"
+  "21.10 19:01:25  7 yeni haber"
  ],
  "otomatik": false
 }
