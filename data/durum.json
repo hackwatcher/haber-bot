@@ -32487,9 +32487,31 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "72f5f81f87cb"
+  },
+  "affdac147b05": {
+   "id": "affdac147b05",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husilerin Riyad’a fırlattığı balistik füze imha edildi",
+   "ozet": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tümgeneral Turki el-Maliki, İran destekli Husilerin Riyad’a doğru fırlattığı balistik füzenin hava savunma sistemi tarafından engellenerek imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyad-a-firlattigi-balistik-fuze-imha-edildi/4099159",
+   "zaman": "2026-10-24T04:55:44+03:00",
+   "kelimeler": [
+    "arap",
+    "balis",
+    "edild",
+    "firla",
+    "fuze",
+    "husil",
+    "imha",
+    "koali",
+    "riyad"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.10 05:01:27  1 yeni haber",
   "24.10 04:01:47  2 yeni haber",
   "24.10 04:01:47  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)",
   "24.10 03:15:57  1 yeni haber",
@@ -32688,8 +32710,7 @@
   "21.10 19:01:25  7 yeni haber",
   "21.10 18:46:07  2 yeni haber",
   "21.10 18:31:16  7 yeni haber",
-  "21.10 18:16:00  5 yeni haber",
-  "21.10 18:01:27  4 yeni haber"
+  "21.10 18:16:00  5 yeni haber"
  ],
  "otomatik": false
 }
