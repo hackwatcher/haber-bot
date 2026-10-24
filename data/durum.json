@@ -25864,7 +25864,10 @@
    "fb_id": null,
    "fb_reels_id": "1128024516430875",
    "slayt": 4,
-   "kanca": "BARO SEÇİMİNDE KAVGA"
+   "kanca": "BARO SEÇİMİNDE KAVGA",
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "43d006d62f8d": {
    "id": "43d006d62f8d",
@@ -27294,7 +27297,10 @@
     "yapac"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "21d2a04e382f": {
    "id": "21d2a04e382f",
@@ -27915,9 +27921,115 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f6407ec7227f"
+  },
+  "2c565300a452": {
+   "id": "2c565300a452",
+   "kaynak": "AA",
+   "baslik": "Barselona'da şiddet olaylarının yaşandığı protestolara polis müdahale etti",
+   "ozet": "İspanya'nın Barselona kentinde polis ekipleri, gençlerin organize ettiği protesto gösterilerinde şiddet olayları yaşanması üzerine gruba müdahale etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/barselonada-siddet-olaylarinin-yasandigi-protestolara-polis-mudahale-etti/4099892",
+   "zaman": "2026-10-25T00:10:50+03:00",
+   "kelimeler": [
+    "barse",
+    "etti",
+    "mudah",
+    "olayl",
+    "polis",
+    "prote",
+    "sidde",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a77f3caa753a": {
+   "id": "a77f3caa753a",
+   "kaynak": "Hürriyet",
+   "baslik": "İçişleri Bakanı Çiftçi: Sahada 26 bin personelimiz görev yapacak",
+   "ozet": "Bakan Çiftçi, Antalya'da düzenlenecek COP31'e ilişkin, \"İçişleri Bakanlığı olarak, Emniyet Genel Müdürlüğümüz, Jandarma Genel Komutanlığımız, Sahil Güvenlik Komutanlığımız oldukça geniş tedbirler aldı. Sahada 26 bin personelimiz görev yapacak\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftci-sahada-26-bin-personelimiz-gorev-yapacak-43354036",
+   "zaman": "2026-10-25T01:50:13+03:00",
+   "kelimeler": [
+    "26",
+    "bakan",
+    "bin",
+    "ciftc",
+    "gorev",
+    "icisl",
+    "perso",
+    "sahad",
+    "yapac"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c118ccb27d26"
+  },
+  "28df13f79e0d": {
+   "id": "28df13f79e0d",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul Barosunun 128. Olağan Genel Kurulu'nda yumruklu kavga",
+   "ozet": "İstanbul Barosunun 128. Olağan Genel Kurulu'nda avukatlar arasında yumruklu kavga çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-barosunun-128-olagan-genel-kurulunda-yumruklu-kavga-43354038",
+   "zaman": "2026-10-25T01:51:59+03:00",
+   "kelimeler": [
+    "128",
+    "baros",
+    "genel",
+    "istan",
+    "kavga",
+    "kurul",
+    "nda",
+    "olaga",
+    "yumru"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5099221515ba"
+  },
+  "26d7f6665e20": {
+   "id": "26d7f6665e20",
+   "kaynak": "Hürriyet",
+   "baslik": "Ardan Zentürk hakkında 'Cumhurbaşkanına hakaret' suçundan soruşturma başlatıldı",
+   "ozet": "Ardan Zentürk hakkında sanal medya paylaşımlarındaki ifadeleri nedeniyle 'Cumhurbaşkanına hakaret' suçundan resen soruşturma başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ardan-zenturk-hakkinda-cumhurbaskanina-hakaret-sucundan-sorusturma-baslatildi-43354040",
+   "zaman": "2026-10-25T01:54:12+03:00",
+   "kelimeler": [
+    "ardan",
+    "basla",
+    "cumhu",
+    "hakar",
+    "hakki",
+    "sorus",
+    "sucun",
+    "zentu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bca18a51f520": {
+   "id": "bca18a51f520",
+   "kaynak": "TRT Haber",
+   "baslik": "Anadolu Otoyolu'nda tır ile cipin çarpıştığı kazada 1 kişi öldü, 2 kişi yaralandı",
+   "ozet": "Anadolu Otoyolu'nun Kocaeli geçişinde devrilen tırın karşı şeride geçerek ciple çarpışması sonucu tır sürücüsü hayatını kaybetti, cipteki 2 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/anadolu-otoyolunda-tir-ile-cipin-carpistigi-kazada-1-kisi-oldu-2-kisi-yaralandi-961113.html",
+   "zaman": "2026-10-25T02:03:00+03:00",
+   "kelimeler": [
+    "anado",
+    "carpi",
+    "cipin",
+    "kazad",
+    "kisi",
+    "nda",
+    "otoyo",
+    "tir",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "25.10 02:09:31  3 yeni haber",
   "25.10 02:01:41  1 yeni haber",
   "25.10 01:46:07  2 yeni haber",
   "25.10 01:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -28116,8 +28228,7 @@
   "22.10 18:46:03  5 yeni haber",
   "22.10 18:31:23  4 yeni haber",
   "22.10 18:16:04  1 yeni haber",
-  "22.10 18:01:35  6 yeni haber",
-  "22.10 17:48:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin da"
+  "22.10 18:01:35  6 yeni haber"
  ],
  "otomatik": false
 }
