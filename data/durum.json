@@ -1,56 +1,5 @@
 {
  "haberler": {
-  "72bd97556a4e": {
-   "id": "72bd97556a4e",
-   "kaynak": "XHABER",
-   "baslik": "Cem Yılmaz: \"Kesinlikle bir daha sigara içmeyeceğim.",
-   "ozet": "Allah içenleri kurtarsın.\"",
-   "link": "https://t.me/sahinozkan000/30315",
-   "zaman": "2026-10-22T00:56:35+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Cem Yılmaz: \"Kesinlikle bir daha sigara içmeyeceğim. Allah içenleri kurtarsın.\"",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/jXFd157bdoYr6nzIjFRhZzmQ_vWNvnzC94KkfkHvrHPISb6Ikc1f8ol5cS2BIJOjcHxyz1Ipkm-U_MEZSGO0DuJydByhHSYbzJsdB2bj0nnsdRDvVQL7AlZgznPHSo9HqWwhLBJlhz_X4Gqd8oVJ59RJDwwQvrq9yhUl1yna05jNnS4LnWqUS4goBLJnBOATJJqTusHaBDfDQN3KBepTabo1rxwWBqyPP7vFrmPOaKrVQXm55O65Q7mKRKWl0a2jtbS7hr2ZwKx-5hG8YJkHhoo7Ovg2df2vTuZOChBw5CIjU0C04WjU81iUpSwldxeYRxWXHyB0yo5SLCtdmngjiQ.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "cem",
-    "icmey",
-    "kesin",
-    "sigar",
-    "yilma"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-22T01:03:45.847760+03:00",
-   "ig_id": "18362504263247581",
-   "reels_id": null,
-   "story_id": "18033092372900496",
-   "yorum_id": null,
-   "fb_id": "1276642895542042_122107473237472027",
-   "fb_reels_id": null,
-   "slayt": 4,
-   "kanca": "SİGARAYI BIRAKTI"
-  },
-  "6adfda52aa23": {
-   "id": "6adfda52aa23",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Macron, Netanyahu ve Trump'ı Fransa'daki eylemleri istismar etmekle suçladı",
-   "ozet": "Fransa cumhurbaşkanının yorumu, önümüzdeki haftalarda seçimlerle karşı karşıya olan Binyamin Netanyahu ve Donald Trump'a yönelik açık bir eleştiri niteliğinde.",
-   "link": "https://www.bbc.com/turkce/articles/cwx287g6e702o",
-   "zaman": "2026-10-22T00:58:06+03:00",
-   "kelimeler": [
-    "daki",
-    "etmek",
-    "eylem",
-    "frans",
-    "istis",
-    "macro",
-    "netan",
-    "sucla",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b4886cac4d9a": {
    "id": "b4886cac4d9a",
    "kaynak": "AA",
@@ -27846,7 +27795,10 @@
     "zorla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "6c6f970403e0": {
    "id": "6c6f970403e0",
@@ -27870,9 +27822,55 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "192267563bc6"
+  },
+  "5df622716b6e": {
+   "id": "5df622716b6e",
+   "kaynak": "AA",
+   "baslik": "Filistin İnsan Hakları Merkezi: El Halil'de yaklaşık 2 bin 500 kişi zorla yerinden edildi",
+   "ozet": "Filistin İnsan Hakları Merkezi, İsrail'in, işgal altındaki Batı Şeria'nın El Halil kentindeki Filistinlilere karşı toplu cezalandırma uyguladığını ve yaklaşık 2 bin 500 kişinin yerinden edildiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-insan-haklari-merkezi-el-halilde-yaklasik-2-bin-500-kisi-zorla-yerinden-edildi/4099895",
+   "zaman": "2026-10-25T00:33:57+03:00",
+   "kelimeler": [
+    "500",
+    "bin",
+    "edild",
+    "el",
+    "filis",
+    "hakla",
+    "halil",
+    "insan",
+    "kisi",
+    "merke",
+    "yakla",
+    "yerin",
+    "zorla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab2664084749"
+  },
+  "6b571ed01247": {
+   "id": "6b571ed01247",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
+   "ozet": "ABD Başkanı Donald Trump, İran'da başladığı işi bitirmek zorunda kalabileceğini ifade ederek, \"İran'ı tekrar bombalama ihtimalim var.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irani-tekrar-bombalama-ihtimalim-var/4099896",
+   "zaman": "2026-10-25T00:34:08+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "bomba",
+    "ihtim",
+    "iran",
+    "tekra",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 01:01:21  1 yeni haber",
   "25.10 00:46:20  2 yeni haber",
   "25.10 00:34:11  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
   "25.10 00:31:20  3 yeni haber",
@@ -28071,8 +28069,7 @@
   "22.10 16:22:24  9 yeni haber",
   "22.10 16:03:35  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Como mağlubiyeti sonrası Bruno Fernandes’ten teknik direktörü Carrick’",
   "22.10 16:01:32  5 yeni haber",
-  "22.10 15:31:15  4 yeni haber",
-  "22.10 15:16:26  8 yeni haber"
+  "22.10 15:31:15  4 yeni haber"
  ],
  "otomatik": false
 }
