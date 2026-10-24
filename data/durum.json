@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "00c866e58cc3": {
-   "id": "00c866e58cc3",
-   "kaynak": "AA",
-   "baslik": "Siber Güvenlik Başkanlığınca kritik güvenlik zafiyetlerine karşı ulusal ölçekte tarama başlatıldı",
-   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısındaki kritik güvenlik zafiyetlerine karşı ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siber-guvenlik-baskanliginca-kritik-guvenlik-zafiyetlerine-karsi-ulusal-olcekte-tarama-baslatildi/4096515",
-   "zaman": "2026-10-21T23:47:45+03:00",
-   "kelimeler": [
-    "baska",
-    "basla",
-    "guven",
-    "karsi",
-    "kriti",
-    "olcek",
-    "siber",
-    "taram",
-    "ulusa",
-    "zafiy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dbc2880fb176"
-  },
-  "dd60eb66dfc5": {
-   "id": "dd60eb66dfc5",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
-   "zaman": "2026-10-22T00:00:00+03:00",
-   "kelimeler": [
-    "2026",
-    "22",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "ekim",
-    "il",
-    "istan",
-    "izmir",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "ddc460402390"
-  },
-  "2390d9d4bf12": {
-   "id": "2390d9d4bf12",
-   "kaynak": "Hürriyet",
-   "baslik": "Siber Güvenlik Başkanlığı’ndan ulusal çapta siber güvenlik uyarısı",
-   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısındaki kritik güvenlik zafiyetlerine karşı ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligindan-ulusal-capta-siber-guvenlik-uyarisi-43350368",
-   "zaman": "2026-10-21T23:52:19+03:00",
-   "kelimeler": [
-    "baska",
-    "capta",
-    "guven",
-    "ndan",
-    "siber",
-    "ulusa",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dbc2880fb176"
-  },
   "328d2f0695c5": {
    "id": "328d2f0695c5",
    "kaynak": "AA",
@@ -26403,8 +26336,17 @@
     "yonel",
     "yuruy"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-10-25T00:03:41.843334+03:00",
+   "ig_id": "17877972072573810",
+   "reels_id": "17992372266059946",
+   "story_id": "18006577901791151",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1464730368979974",
+   "slayt": 4,
+   "kanca": "İZMİR'DE BASIN YÜRÜYÜŞÜ"
   },
   "77b2e28cd430": {
    "id": "77b2e28cd430",
@@ -27429,7 +27371,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "be2445008d81": {
    "id": "be2445008d81",
@@ -27837,9 +27780,34 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d9180e846a37": {
+   "id": "d9180e846a37",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-ekim-2026-1747822",
+   "zaman": "2026-10-25T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "25",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "ekim",
+    "il",
+    "istan",
+    "izmir",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8cd0292db693"
   }
  },
  "kayit": [
+  "25.10 00:03:41  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Gazetecilere yönelik baskı, sansür ve tutuklamalara karşı binlerce kiş",
   "24.10 23:45:59  2 yeni haber",
   "24.10 23:31:04  2 yeni haber",
   "24.10 23:16:10  2 yeni haber",
@@ -28038,8 +28006,7 @@
   "22.10 15:01:31  3 yeni haber",
   "22.10 14:46:07  7 yeni haber",
   "22.10 14:35:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Merkez Bankası politika faizini 100 baz puan indirerek yüzde 36'ya çek",
-  "22.10 14:31:46  4 yeni haber",
-  "22.10 14:16:23  11 yeni haber"
+  "22.10 14:31:46  4 yeni haber"
  ],
  "otomatik": false
 }
