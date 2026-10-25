@@ -1,43 +1,5 @@
 {
  "haberler": {
-  "f6b298e7cf39": {
-   "id": "f6b298e7cf39",
-   "kaynak": "TRT Haber",
-   "baslik": "Bankacılık sektörünün kredi hacmi 28 trilyon liraya yükseldi",
-   "ozet": "Bankacılık sektörünün toplam kredi hacmi, 16 Ekim itibarıyla 28,7 trilyon liraya çıktı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/bankacilik-sektorunun-kredi-hacmi-28-trilyon-liraya-yukseldi-960912.html",
-   "zaman": "2026-10-22T15:34:00+03:00",
-   "kelimeler": [
-    "28",
-    "banka",
-    "hacmi",
-    "kredi",
-    "liray",
-    "sekto",
-    "trily",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7dc016992e9c": {
-   "id": "7dc016992e9c",
-   "kaynak": "NTV",
-   "baslik": "Lütfi Arıboğan'a 4 yıl hapis istemi",
-   "ozet": "TFF'nin eski başkanvekili Lütfi Arıboğan hakkında FETÖ davası açıldı. Arıboğan'ın 4 yıla kadar hapsi talep edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/lutfi-aribogana-4-yil-hapis-istemi-1747505",
-   "zaman": "2026-10-22T15:44:13+03:00",
-   "kelimeler": [
-    "aribo",
-    "hapis",
-    "istem",
-    "lutfi",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "aae5bc5db122"
-  },
   "1bd9c92cc0f8": {
    "id": "1bd9c92cc0f8",
    "kaynak": "BBC Türkçe",
@@ -5134,30 +5096,6 @@
    "fb_reels_id": "2653113385108994",
    "slayt": 5,
    "kanca": "34 KİŞİ TUTUKLANDI"
-  },
-  "695f67677e33": {
-   "id": "695f67677e33",
-   "kaynak": "AA",
-   "baslik": "AK Parti Genel Başkan Yardımcısı Yalçın: Milli Birlik ve Kardeşlik Projemizi sonuna kadar götüreceğiz",
-   "ozet": "AK Parti Genel Başkan Yardımcısı ve İnsan Hakları Başkanı Hasan Basri Yalçın, \"Milli Birlik ve Kardeşlik Projemizi sonuna kadar götüreceğiz. Ülkemizde huzur ve kardeşlik iklimini yeniden inşa edeceğiz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-yalcin-milli-birlik-ve-kardeslik-projemizi-sonuna-kadar-goturecegiz/4097225",
-   "zaman": "2026-10-22T15:33:35+03:00",
-   "kelimeler": [
-    "ak",
-    "baska",
-    "birli",
-    "genel",
-    "gotur",
-    "karde",
-    "milli",
-    "parti",
-    "proje",
-    "sonun",
-    "yalci",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "88d8b00544a9": {
    "id": "88d8b00544a9",
@@ -23531,7 +23469,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ebcc702adfac": {
    "id": "ebcc702adfac",
@@ -25649,11 +25590,21 @@
     "lider",
     "mhp"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "NTV"
-   ]
+    "NTV",
+    "TRT Haber"
+   ],
+   "paylasildi": "2026-10-25T15:48:18.090864+03:00",
+   "ig_id": "18021183731945069",
+   "reels_id": "18284820724290703",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1109067451480038",
+   "slayt": 5,
+   "kanca": "KAZAKİSTAN CUMHURİYET GÜNÜ"
   },
   "b11b49593141": {
    "id": "b11b49593141",
@@ -25718,9 +25669,72 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "b60a50f253bd"
+  },
+  "429237e7d5fa": {
+   "id": "429237e7d5fa",
+   "kaynak": "TRT Haber",
+   "baslik": "Bahçeli, Kazakistan'ın Cumhuriyet Günü'nü kutladı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Kazakistan Cumhuriyet Günü dolayısıyla yayımladığı mesajda, Türkiye ile Kazakistan'ın Türk dünyasının iki kardeş ve dost devleti olduğunu belirterek iki ülke arasındaki tarihi ve kültürel bağların güçlendirilmesi gerektiğini vurguladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bahceli-kazakistanin-cumhuriyet-gununu-kutladi-961150.html",
+   "zaman": "2026-10-25T15:29:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "cumhu",
+    "gunu",
+    "in",
+    "kazak",
+    "kutla",
+    "nu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b60a50f253bd"
+  },
+  "0132ca332402": {
+   "id": "0132ca332402",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Dışişleri Bakanı Arakçi: Hürmüz Boğazı'nın yönetimi eskisi gibi olmayacak",
+   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, bölgede yaşanan savaşların güvenlik koşullarını değiştirdiğini belirterek, \"Hürmüz Boğazı'nın yönetimi eskisi gibi olmayacak.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-hurmuz-bogazinin-yonetimi-eskisi-gibi-olmayacak-961151.html",
+   "zaman": "2026-10-25T15:34:00+03:00",
+   "kelimeler": [
+    "arakc",
+    "bakan",
+    "bogaz",
+    "disis",
+    "eskis",
+    "hurmu",
+    "iran",
+    "nin",
+    "olmay",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "19d232263ddc"
+  },
+  "b2b1858868c1": {
+   "id": "b2b1858868c1",
+   "kaynak": "AA",
+   "baslik": "Meteorolojiden 2 il için turuncu, 3 il için sarı kodlu uyarı",
+   "ozet": "Meteoroloji Genel Müdürlüğü, yarın beklenen kuvvetli yağış nedeniyle 2 il için turuncu, 3 il için sarı kodlu uyarıda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-2-il-icin-turuncu-3-il-icin-sari-kodlu-uyari/4100236",
+   "zaman": "2026-10-25T15:34:51+03:00",
+   "kelimeler": [
+    "il",
+    "kodlu",
+    "meteo",
+    "sari",
+    "turun",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 15:48:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · MHP lideri Bahçeli'den Kazakistan Cumhuriyet günü kutlaması",
+  "25.10 15:45:58  1 yeni haber",
   "25.10 15:31:17  4 yeni haber",
   "25.10 15:16:07  5 yeni haber",
   "25.10 15:01:14  5 yeni haber",
@@ -25918,9 +25932,7 @@
   "23.10 11:01:21  3 yeni haber",
   "23.10 10:46:18  8 yeni haber",
   "23.10 10:31:17  7 yeni haber",
-  "23.10 10:16:02  15 yeni haber",
-  "23.10 09:48:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Veri analistine canlı bahis vurgunu suçlaması: Skorları 7 saniye gecik",
-  "23.10 09:45:54  12 yeni haber"
+  "23.10 10:16:02  15 yeni haber"
  ],
  "otomatik": false
 }
