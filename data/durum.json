@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "6c01cfc2e687": {
-   "id": "6c01cfc2e687",
-   "kaynak": "TRT Haber",
-   "baslik": "Numan Kurtulmuş: Süreç tıkır tıkır işliyor",
-   "ozet": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye Tıkır tıkır işliyor hiçbir şey geç kalmıyor. Herkes üzerine düşen sorumluluğu yerine getirsin, bir diğerine ödev vermeye kalkmasın\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-surec-tikir-tikir-isliyor-960895.html",
-   "zaman": "2026-10-22T14:17:00+03:00",
-   "kelimeler": [
-    "isliy",
-    "kurtu",
-    "numan",
-    "surec",
-    "tikir"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ff06114c7172"
-  },
   "cf40d319cddf": {
    "id": "cf40d319cddf",
    "kaynak": "Hürriyet",
@@ -64,29 +46,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "b3b00142b3ff": {
-   "id": "b3b00142b3ff",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da kara para aklama soruşturması: 5 şüpheli daha gözaltına alındı",
-   "ozet": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında Mustafa Sarıgül'ün korumasının da aralarında bulunduğu 5 şüpheli gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/istanbulda-kara-para-aklama-sorusturmasi-5-supheli-daha-gozaltina-alindi-960896.html",
-   "zaman": "2026-10-22T14:17:00+03:00",
-   "kelimeler": [
-    "aklam",
-    "alind",
-    "gozal",
-    "istan",
-    "kara",
-    "para",
-    "sorus",
-    "suphe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
   },
   "d70f01c2aa06": {
    "id": "d70f01c2aa06",
@@ -15936,7 +15895,10 @@
     "yuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "651c8eb0359f": {
    "id": "651c8eb0359f",
@@ -25793,7 +25755,8 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c92981af32c9": {
    "id": "c92981af32c9",
@@ -25816,6 +25779,73 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ec79f5ec3700": {
+   "id": "ec79f5ec3700",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Ukraynada lojistik merkezlerini ve kuru yük gemisini vurduk",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'nın Harkiv şehrindeki lojistik merkezleri ve Çernomorsk Limanı'na askeri amaçlı yük taşıyan bir kuru yük gemisini insansız hava araçlarıyla İHA vurduklarını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-lojistik-merkezlerini-ve-kuru-yuk-gemisini-vurduk-961141.html",
+   "zaman": "2026-10-25T13:52:00+03:00",
+   "kelimeler": [
+    "gemis",
+    "kuru",
+    "lojis",
+    "merke",
+    "rusya",
+    "ukray",
+    "vurdu",
+    "yuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ca4b2fbe81e5"
+  },
+  "36efa8ec684a": {
+   "id": "36efa8ec684a",
+   "kaynak": "TRT Haber",
+   "baslik": "Jandarmanın yüzen karakolu 7/24 görev başında",
+   "ozet": "Malatya, Elazığ ve Diyarbakır sınırlarındaki Karakaya Barajı'nda görev yapan Jandarma Asayiş Bot Timi, 617 kilometrelik kıyı şeridinde vatandaşların can ve mal güvenliğini sağlamak, kaçak avcılığı önlemek ve su üstü araçlarını denetlemek için mesai yapıyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/jandarmanin-yuzen-karakolu-724-gorev-basinda-961140.html",
+   "zaman": "2026-10-25T14:03:00+03:00",
+   "kelimeler": [
+    "24",
+    "basin",
+    "gorev",
+    "janda",
+    "karak",
+    "yuzen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dde1d09f4494"
+  },
+  "087e5024e44e": {
+   "id": "087e5024e44e",
+   "kaynak": "Hürriyet",
+   "baslik": "Boş arazideki bebek cesedinin sırrı 14 yıl sonra çözüldü | \"Kız doğdu, kayınvalidem baskı yaptı\" savunması",
+   "ozet": "Kahramanmaraş Emniyet Müdürlüğü, 9 Aralık 2010'da boş arazide bulunan ve faili meçhul kalan bebek cinayetini titiz bir çalışmayla aydınlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bos-arazideki-bebek-cesedinin-sirri-14-yil-sonra-cozuldu-kiz-dogdu-kayinvalidem-baski-yapti-savunmasi-43354398",
+   "zaman": "2026-10-25T14:07:25+03:00",
+   "kelimeler": [
+    "14",
+    "arazi",
+    "baski",
+    "bebek",
+    "bos",
+    "cesed",
+    "cozul",
+    "dogdu",
+    "kayin",
+    "kiz",
+    "savun",
+    "sirri",
+    "yapti",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f13cbca96184"
   }
  },
  "kayit": [
