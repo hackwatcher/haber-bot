@@ -1,109 +1,5 @@
 {
  "haberler": {
-  "04030196ed64": {
-   "id": "04030196ed64",
-   "kaynak": "Hürriyet",
-   "baslik": "Trafoya giren zihinsel engelli hayatını kaybetti",
-   "ozet": "ANKARA'da trafoya giren zihinsel engelli Durali Yaz (74), elektrik akımına kapılarak hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/trafoya-giren-zihinsel-engelli-hayatini-kaybetti-43351485",
-   "zaman": "2026-10-22T18:47:43+03:00",
-   "kelimeler": [
-    "engel",
-    "giren",
-    "hayat",
-    "kaybe",
-    "trafo",
-    "zihin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7d867feb249c": {
-   "id": "7d867feb249c",
-   "kaynak": "TRT Haber",
-   "baslik": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
-   "ozet": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldiği bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesinde-7-buyuklugunde-deprem-meydana-geldi-960931.html",
-   "zaman": "2026-10-22T18:51:00+03:00",
-   "kelimeler": [
-    "bolge",
-    "buyuk",
-    "cin",
-    "depre",
-    "geldi",
-    "in",
-    "meyda",
-    "nde",
-    "ozerk",
-    "tibet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "866b723ef463"
-  },
-  "25920a3e3921": {
-   "id": "25920a3e3921",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Çiftçi: COP31 Zirvesi'nde 26 bin personel görev yapacak",
-   "ozet": "Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) hazırlık çalışmaları kapsamında Antalya'ya gelen İçişleri Bakanı Mustafa Çiftçi, zirve kapsamında yaklaşık 26 bin personelin görev yapacağını belirterek güvenlik tedbirlerinin kara, hava ve denizden yürütüleceğini söyledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-cop31-zirvesinde-26-bin-personel-gorev-yapacak-43351493",
-   "zaman": "2026-10-22T18:57:02+03:00",
-   "kelimeler": [
-    "26",
-    "bakan",
-    "bin",
-    "ciftc",
-    "cop31",
-    "gorev",
-    "nde",
-    "perso",
-    "yapac",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f6b59169b85d"
-  },
-  "fdb66b0ec280": {
-   "id": "fdb66b0ec280",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, Macaristan'a gidecek",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 1956 Macar Devrimi ve Özgürlük Mücadelesi'nin 70. yıl dönümü dolayısıyla başkent Budapeşte'de düzenlenecek resmi anma etkinliklerine katılmak ve çeşitli temaslarda bulunmak üzere yarın Macaristan'a gidecek.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-macaristana-gidecek-43351497",
-   "zaman": "2026-10-22T18:59:14+03:00",
-   "kelimeler": [
-    "cumhu",
-    "gidec",
-    "macar",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9e4c4b639749"
-  },
-  "83547e4f48c8": {
-   "id": "83547e4f48c8",
-   "kaynak": "TRT Haber",
-   "baslik": "Danimarka, Rusya'ya karşı caydırıcılığını artırmak için uzun menzilli füze alacak",
-   "ozet": "Danimarka'nın, Rusya'ya karşı caydırıcılığını artırmak amacıyla F35 savaş uçaklarında kullanılabilecek uzun menzilli seyir füzeleri satın alacağı bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/danimarka-rusyaya-karsi-caydiriciligini-artirmak-icin-uzun-menzilli-fuze-alacak-960932.html",
-   "zaman": "2026-10-22T19:01:00+03:00",
-   "kelimeler": [
-    "alaca",
-    "artir",
-    "caydi",
-    "danim",
-    "fuze",
-    "karsi",
-    "menzi",
-    "rusya",
-    "uzun",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "27bdb8c3328c": {
    "id": "27bdb8c3328c",
    "kaynak": "AA",
@@ -18437,7 +18333,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dd0850c928cc": {
    "id": "dd0850c928cc",
@@ -25102,7 +25001,8 @@
     "yatir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5731fd497d65": {
    "id": "5731fd497d65",
@@ -25146,10 +25046,136 @@
     "ten"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "a466c2a92e73": {
+   "id": "a466c2a92e73",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Gürlek: Fon soruşturmalarında önceliğimiz iyi niyetli yatırımcıların hakkını korumak",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Hiçbir hukuka aykırılığın karşılıksız kalmaması, mağduriyetlerin giderilmesi ve adaletin eksiksiz tecellisi için kararlılıkla çalışacağız\" açıklamasını yaptı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmalarinda-onceligimiz-iyi-niyetli-yatirimcilarin-hakkini-korumak-961160.html",
+   "zaman": "2026-10-25T18:35:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "fon",
+    "gurle",
+    "hakki",
+    "iyi",
+    "korum",
+    "niyet",
+    "oncel",
+    "sorus",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "97ceb7e8c3fb"
+  },
+  "a0f2f8482142": {
+   "id": "a0f2f8482142",
+   "kaynak": "TRT Haber",
+   "baslik": "Libya Dışişleri Bakanlığı, ABD maslahatgüzarını bakanlığa çağırdı",
+   "ozet": "Libya Dışişleri Bakanlığı, ABD Başkanı Donald Trumpın Libya ile ilgili tahkir edici ifadeleri nedeniyle ABDnin Trablustaki maslahatgüzarını bakanlığa çağırarak protesto notası verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/libya-disisleri-bakanligi-abd-maslahatguzarini-bakanliga-cagirdi-961161.html",
+   "zaman": "2026-10-25T18:44:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "cagir",
+    "disis",
+    "libya",
+    "masla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9993810b4960": {
+   "id": "9993810b4960",
+   "kaynak": "AA",
+   "baslik": "Milli güreşçi Yüksel Sarıçiçek, dünya ikincisi oldu",
+   "ozet": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Yüksel Sarıçiçek, grekoromen stil 82 kiloda gümüş madalyanın sahibi oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu/4100346",
+   "zaman": "2026-10-25T18:49:09+03:00",
+   "kelimeler": [
+    "dunya",
+    "gures",
+    "ikinc",
+    "milli",
+    "saric",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f39430a87e13"
+  },
+  "5d23a8b88134": {
+   "id": "5d23a8b88134",
+   "kaynak": "TRT Haber",
+   "baslik": "Milli güreşçi Yüksel Sarıçiçek dünya ikincisi oldu",
+   "ozet": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Yüksel Sarıçiçek, grekoromen stil 82 kiloda gümüş madalyanın sahibi oldu.",
+   "link": "https://www.trthaber.com/haber/spor/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu-961162.html",
+   "zaman": "2026-10-25T18:50:00+03:00",
+   "kelimeler": [
+    "dunya",
+    "gures",
+    "ikinc",
+    "milli",
+    "saric",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f39430a87e13"
+  },
+  "5c7556a92b84": {
+   "id": "5c7556a92b84",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek’ten Fon soruşturmasına ilişkin açıklama",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama-43354672",
+   "zaman": "2026-10-25T18:50:08+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "fon",
+    "gurle",
+    "ilisk",
+    "sorus",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cf54d3681e5b"
+  },
+  "9c6c99cf8307": {
+   "id": "9c6c99cf8307",
+   "kaynak": "NTV",
+   "baslik": "Bakan Gürlek'ten fon soruşturması açıklaması. \"Yeni mal varlığı tedbirleri uygulanacak\"",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmaları kapsamında yeni mal varlığı tedbirleri uygulanacağını söyledi. Gürlek, gönüllü iadelerin, hukuki sorumluluğu ortadan kaldırmadığını da belirtti.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-yeni-mal-varligi-tedbirleri-uygulanacak-1747937",
+   "zaman": "2026-10-25T18:54:28+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "fon",
+    "gurle",
+    "mal",
+    "sorus",
+    "tedbi",
+    "ten",
+    "uygul",
+    "varli",
+    "yeni"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 19:01:16  2 yeni haber",
   "25.10 18:46:08  3 yeni haber",
   "25.10 18:31:11  3 yeni haber",
   "25.10 18:15:59  1 yeni haber",
@@ -25348,8 +25374,7 @@
   "23.10 14:31:17  2 yeni haber",
   "23.10 14:16:04  4 yeni haber",
   "23.10 14:01:22  10 yeni haber",
-  "23.10 13:47:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var",
-  "23.10 13:45:54  4 yeni haber"
+  "23.10 13:47:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var"
  ],
  "otomatik": false
 }
