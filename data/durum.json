@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "19c06e20bdb6": {
-   "id": "19c06e20bdb6",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da üst solunum yolu vakaları sonbaharla birlikte artıyor",
-   "ozet": "İstanbul İl Sağlık Müdürü Doç. Dr. Abdullah Emre Güner, sonbaharla birlikte üst solunum yolu enfeksiyonu başvurularının artmaya başladığını, son bir ayda 559 bin kişinin bu şikayetlerle hastanelere geldiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-ust-solunum-yolu-vakalari-sonbaharla-birlikte-artiyor/4097890",
-   "zaman": "2026-10-23T01:18:06+03:00",
-   "kelimeler": [
-    "artiy",
-    "birli",
-    "istan",
-    "solun",
-    "sonba",
-    "ust",
-    "vakal",
-    "yolu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "25df70cb5600"
-  },
-  "8859402838dd": {
-   "id": "8859402838dd",
-   "kaynak": "TRT Haber",
-   "baslik": "Çanakkale'de seyir halindeki saman yüklü tır yandı",
-   "ozet": "Çanakkale'nin Ayvacık ilçesinde seyir halindeyken alev alan saman yüklü tır kullanılamaz hale geldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/canakkalede-seyir-halindeki-saman-yuklu-tir-yandi-960951.html",
-   "zaman": "2026-10-23T01:27:00+03:00",
-   "kelimeler": [
-    "canak",
-    "halin",
-    "saman",
-    "seyir",
-    "tir",
-    "yandi",
-    "yuklu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8f024a7fd0c7": {
    "id": "8f024a7fd0c7",
    "kaynak": "AA",
@@ -24325,11 +24285,21 @@
     "prix",
     "sini"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-26T01:32:27.353671+03:00",
+   "ig_id": "17926309806202081",
+   "reels_id": "18115742996017668",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1387792743134434",
+   "slayt": 1,
+   "kanca": "Dünyadan"
   }
  },
  "kayit": [
+  "26.10 01:32:27  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
   "26.10 01:15:58  2 yeni haber",
   "26.10 01:03:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bron",
   "26.10 01:01:22  1 yeni haber",
@@ -24528,8 +24498,7 @@
   "23.10 20:15:54  2 yeni haber",
   "23.10 20:04:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · NVIDIA'nın CEO'su Huang, Kazakistan'ın küresel bir fiziksel yapay zeka",
   "23.10 20:01:45  5 yeni haber",
-  "23.10 20:01:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "23.10 19:31:13  10 yeni haber"
+  "23.10 20:01:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
  ],
  "otomatik": false
 }
