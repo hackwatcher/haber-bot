@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "803f2a343fa6": {
-   "id": "803f2a343fa6",
-   "kaynak": "AA",
-   "baslik": "Panathinaikos'lu basketbolcu Nunn, Yunanistan'daki şike ve rüşvet skandalına tepki gösterdi",
-   "ozet": "Yunanistan ekibi Panathinaikos'un ABD'li oyuncsu Kendrick Nunn, \"Kupalarımı geri almam gerekecek, saygılarımla.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/panathinaikoslu-basketbolcu-nunn-yunanistandaki-sike-ve-rusvet-skandalina-tepki-gosterdi/4097549",
-   "zaman": "2026-10-22T18:07:20+03:00",
-   "kelimeler": [
-    "baske",
-    "daki",
-    "goste",
-    "lu",
-    "nunn",
-    "panat",
-    "rusve",
-    "sike",
-    "skand",
-    "tepki",
-    "yunan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "27982aa9622e"
-  },
-  "37de2bf5e59f": {
-   "id": "37de2bf5e59f",
-   "kaynak": "AA",
-   "baslik": "ABD, 4 şirketin çip ve kritik malzeme çalışmalarına 389 milyon dolar destek verecek",
-   "ozet": "ABD yönetimi, yarı iletkenler ve kritik malzemeler üzerinde çalışan dört şirkete toplam 389 milyon dolarlık fon sağlamayı planladığını, buna karşılık hükümetin bu şirketlerden azınlık hissesi alacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-4-sirketin-cip-ve-kritik-malzeme-calismalarina-389-milyon-dolar-destek-verecek/4097552",
-   "zaman": "2026-10-22T18:11:41+03:00",
-   "kelimeler": [
-    "389",
-    "abd",
-    "calis",
-    "cip",
-    "deste",
-    "dolar",
-    "kriti",
-    "malze",
-    "milyo",
-    "sirke",
-    "verec"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b714193d21a3": {
-   "id": "b714193d21a3",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Işıkhan: 18 bin 441 öğrencimize 609 milyon lira ödeyeceğiz",
-   "ozet": "ÇALIŞMA ve Sosyal Güvenlik Bakanı Vedat Işıkhan, şehit çocukları ile harp ve vazife malullerine ve çocuklarına yönelik eğitim öğretim yardımı ödemelerinin 23 Ekim'de gerçekleştirileceğini belirterek, 2026- 2027 eğitim öğretim döneminde 18 bin 441 öğrenciye 609 milyon liralık…",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-isikhan-18-bin-441-ogrencimize-609-milyon-lira-odeyecegiz-43351448",
-   "zaman": "2026-10-22T18:15:38+03:00",
-   "kelimeler": [
-    "18",
-    "441",
-    "609",
-    "bakan",
-    "bin",
-    "isikh",
-    "lira",
-    "milyo",
-    "odeye",
-    "ogren"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "866b723ef463": {
    "id": "866b723ef463",
    "kaynak": "AA",
@@ -168,30 +99,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ac9ed03805c7"
-  },
-  "e0ec8dcbdc7e": {
-   "id": "e0ec8dcbdc7e",
-   "kaynak": "AA",
-   "baslik": "Bakan Işıkhan: Şehit çocukları ile harp-vazife malulleri ve çocuklarına eğitim yardımı ödemeleri yarın yapılacak",
-   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Aziz şehitlerimizin emaneti evlatlarımız ile harp ve vazife malullerimiz ve çocuklarına eğitim öğretim yardımı ödemelerini yarın itibarıyla gerçekleştiriyoruz.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-sehit-cocuklari-ile-harp-vazife-malulleri-ve-cocuklarina-egitim-yardimi-odemeleri-yarin-yapilacak/4097545",
-   "zaman": "2026-10-22T18:03:41+03:00",
-   "kelimeler": [
-    "bakan",
-    "cocuk",
-    "egiti",
-    "harp",
-    "isikh",
-    "malul",
-    "odeme",
-    "sehit",
-    "vazif",
-    "yapil",
-    "yardi",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "06c1aab29ef1": {
    "id": "06c1aab29ef1",
@@ -25310,7 +25217,10 @@
     "yakla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "1c885dbe7d51": {
    "id": "1c885dbe7d51",
@@ -25369,9 +25279,57 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5aa60fea7d48": {
+   "id": "5aa60fea7d48",
+   "kaynak": "AA",
+   "baslik": "Fransa'da fırtınaların ardından yaklaşık 59 bin hanede elektrik kesintisi sürüyor",
+   "ozet": "Fransa'da Austen ve Boelo fırtınaları nedeniyle yaklaşık 59 bin hanede elektrik kesintisi devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor/4100321",
+   "zaman": "2026-10-25T17:51:21+03:00",
+   "kelimeler": [
+    "59",
+    "ardin",
+    "bin",
+    "elekt",
+    "firti",
+    "frans",
+    "haned",
+    "kesin",
+    "suruy",
+    "yakla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e2423e2daaaa"
+  },
+  "bd959316c7ef": {
+   "id": "bd959316c7ef",
+   "kaynak": "AA",
+   "baslik": "Papa 14. Leo, Yemen'in Taiz kentinde açlık çekenlerin durumundan endişe duyuyor",
+   "ozet": "Vatikan Devlet Başkanı Papa 14. Leo, Yemen’in gıda, su ve tıbbi yardım ihtiyacı bulunan Taiz kentindeki vahim insani durumu endişeyle takip ettiğini belirterek, Yemen halkının ve bölgedeki tüm halkların barış içinde yaşaması çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-yemenin-taiz-kentinde-aclik-cekenlerin-durumundan-endise-duyuyor/4100330",
+   "zaman": "2026-10-25T18:08:16+03:00",
+   "kelimeler": [
+    "14",
+    "aclik",
+    "ceken",
+    "durum",
+    "duyuy",
+    "endis",
+    "in",
+    "kenti",
+    "leo",
+    "papa",
+    "taiz",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 18:15:59  1 yeni haber",
   "25.10 17:59:19  6 yeni haber",
   "25.10 17:45:54  4 yeni haber",
   "25.10 17:33:19  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı ol",
@@ -25570,8 +25528,7 @@
   "23.10 13:47:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var",
   "23.10 13:45:54  4 yeni haber",
   "23.10 13:31:38  7 yeni haber",
-  "23.10 12:46:08  11 yeni haber",
-  "23.10 12:31:19  8 yeni haber"
+  "23.10 12:46:08  11 yeni haber"
  ],
  "otomatik": false
 }
