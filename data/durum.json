@@ -1,94 +1,5 @@
 {
  "haberler": {
-  "ef4a55020e3f": {
-   "id": "ef4a55020e3f",
-   "kaynak": "TRT Haber",
-   "baslik": "İran ordusu: Basra Körfezi'nde petrol transferi yapan 4 gemi vuruldu",
-   "ozet": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Basra Körfezi'nin kuzey kesiminde petrol yüklerini gemiden gemiye aktaran 4 geminin eş zamanlı vurulduğunu ve yanmaya devam ettiğini bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu-960839.html",
-   "zaman": "2026-10-22T08:19:00+03:00",
-   "kelimeler": [
-    "basra",
-    "gemi",
-    "iran",
-    "korfe",
-    "nde",
-    "ordus",
-    "petro",
-    "trans",
-    "vurul",
-    "yapan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "716ff685e161": {
-   "id": "716ff685e161",
-   "kaynak": "Sözcü",
-   "baslik": "Türkiye'de gözler 14.00'e çevrildi: Döviz ve borsada dananın kuyruğu kopabilir",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/turkiyede-gozler-1400e-cevrildi-doviz-ve-borsada-dananin-kuyrugu-kopabilir-p371543",
-   "zaman": "2026-10-22T08:21:35+03:00",
-   "kelimeler": [
-    "00",
-    "14",
-    "borsa",
-    "cevri",
-    "danan",
-    "doviz",
-    "gozle",
-    "kopab",
-    "kuyru",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cbbb170bd863": {
-   "id": "cbbb170bd863",
-   "kaynak": "AA",
-   "baslik": "İran ordusu: Basra Körfezi'nde petrol transferi yapan 4 gemi vuruldu",
-   "ozet": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Basra Körfezi'nin kuzey kesiminde petrol yüklerini gemiden gemiye aktaran 4 geminin eş zamanlı vurulduğunu ve yanmaya devam ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu/4096607",
-   "zaman": "2026-10-22T08:23:31+03:00",
-   "kelimeler": [
-    "basra",
-    "gemi",
-    "iran",
-    "korfe",
-    "nde",
-    "ordus",
-    "petro",
-    "trans",
-    "vurul",
-    "yapan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ef4a55020e3f"
-  },
-  "942bdeda8dff": {
-   "id": "942bdeda8dff",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara'da iş yerine ateş açan 5 şüpheliye tutuklama",
-   "ozet": "Ankara'nın Çankaya ilçesinde bir iş yerine silahla ateş açılması olayına karışan şüphelilerden 5'i tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ankarada-is-yerine-ates-acan-5-supheliye-tutuklama-960840.html",
-   "zaman": "2026-10-22T08:25:00+03:00",
-   "kelimeler": [
-    "acan",
-    "ankar",
-    "ates",
-    "is",
-    "suphe",
-    "tutuk",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "a8d8d2e85a34": {
    "id": "a8d8d2e85a34",
    "kaynak": "NTV",
@@ -20634,7 +20545,10 @@
     "vanua"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "80c4dfa01a01": {
    "id": "80c4dfa01a01",
@@ -27587,9 +27501,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9fb28a4966ff": {
+   "id": "9fb28a4966ff",
+   "kaynak": "Sözcü",
+   "baslik": "Japonya'da 7,0 büyüklüğünde deprem",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/japonyada-70-buyuklugunde-deprem-tokyoda-da-hissedildi-p372451",
+   "zaman": "2026-10-25T08:21:41+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "japon"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f796efc24719"
+  },
+  "bbe6ddf8649e": {
+   "id": "bbe6ddf8649e",
+   "kaynak": "Hürriyet",
+   "baslik": "Ege kıyıları ve Doğu Anadolu için sağanak uyarısı: Birçok bölgede sis ve pus bekleniyor",
+   "ozet": "Meteoroloji Genel Müdürlüğü'nün son değerlendirmelerine göre; Muğla ve Aydın'ın kıyı kesimleri, Doğu Anadolu’nun doğusu ile Bingöl ve Mardin çevrelerinde yerel sağanak ve gök gürültülü sağanak yağış bekleniyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/ege-kiyilari-ve-dogu-anadolu-icin-saganak-uyarisi-bircok-bolgede-sis-ve-pus-bekleniyor-43354069",
+   "zaman": "2026-10-25T08:21:48+03:00",
+   "kelimeler": [
+    "anado",
+    "bekle",
+    "birco",
+    "bolge",
+    "dogu",
+    "ege",
+    "kiyil",
+    "pus",
+    "sagan",
+    "sis",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 08:31:29  1 yeni haber",
   "25.10 08:15:55  1 yeni haber",
   "25.10 07:46:17  1 yeni haber",
   "25.10 07:16:13  13 yeni haber",
@@ -27788,8 +27742,7 @@
   "22.10 21:16:07  2 yeni haber",
   "22.10 21:08:21  2 yeni haber",
   "22.10 20:16:51  5 yeni haber",
-  "22.10 20:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
-  "22.10 20:01:22  4 yeni haber"
+  "22.10 20:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi"
  ],
  "otomatik": false
 }
