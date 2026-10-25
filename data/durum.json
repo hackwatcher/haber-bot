@@ -1,130 +1,5 @@
 {
  "haberler": {
-  "5f5946111ae9": {
-   "id": "5f5946111ae9",
-   "kaynak": "AA",
-   "baslik": "Kritik güvenlik açıklarına karşı sistemleri güncelleme uyarısı",
-   "ozet": "İnternet altyapısında yaygın kullanılan programlama dili PHP'de tespit edilen kritik güvenlik açıkları nedeniyle dünya genelinde tedbirler sıkılaştırılırken, uzmanlar, kurum ve işletmelere sistemlerini güncelleme uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kritik-guvenlik-aciklarina-karsi-sistemleri-guncelleme-uyarisi/4096910",
-   "zaman": "2026-10-22T12:17:55+03:00",
-   "kelimeler": [
-    "acikl",
-    "gunce",
-    "guven",
-    "karsi",
-    "kriti",
-    "siste",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "935256a4bbc3": {
-   "id": "935256a4bbc3",
-   "kaynak": "TRT Haber",
-   "baslik": "Siber Güvenlik Başkanlığı: eDevlet'in güvenliğini etkileyen bir sorun bulunmadı",
-   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, dünya genelinde kullanılan PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin eDevlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandığını ve hizmetlerin güvenliğini olumsuz etkileyen herhangi bir sorun…",
-   "link": "https://www.trthaber.com/haber/gundem/siber-guvenlik-baskanligi-e-devletin-guvenligini-etkileyen-bir-sorun-bulunmadi-960878.html",
-   "zaman": "2026-10-22T12:18:00+03:00",
-   "kelimeler": [
-    "baska",
-    "bulun",
-    "edevl",
-    "etkil",
-    "guven",
-    "in",
-    "siber",
-    "sorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2af93470c283": {
-   "id": "2af93470c283",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Kacır: OSB'lerimizin sayısını 374'e yükselttik",
-   "ozet": "Sanayi ve Teknoloji Bakanı Kacır, 118 hektarlık Burdur Batı ve 38 hektarlık Amasya Gümüşhacıköy organize sanayi bölgelerini OSB bugün itibarıyla ilan ettiklerini belirterek \"Ülkemize toplam 156 hektarlık yeni planlı sanayi alanı kazandırmış olduk.",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-osblerimizin-sayisini-374e-yukselttik-960879.html",
-   "zaman": "2026-10-22T12:22:00+03:00",
-   "kelimeler": [
-    "374",
-    "bakan",
-    "kacir",
-    "lerim",
-    "osb",
-    "sayis",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "13afce987b11"
-  },
-  "d262855ad65a": {
-   "id": "d262855ad65a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Anayasa Mahkemesi'nde yeni başkan seçimi süreci başladı",
-   "ozet": "Anayasa Mahkemesi'nde (AYM) Başkan Kadir Özkaya'nın görev süresinin dolacak olması nedeniyle başkanlık seçim süreci başladı.",
-   "link": "https://www.bbc.com/turkce/articles/crd93kgqgjpvo",
-   "zaman": "2026-10-22T12:24:40+03:00",
-   "kelimeler": [
-    "anaya",
-    "baska",
-    "basla",
-    "mahke",
-    "nde",
-    "secim",
-    "surec",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "57360768b22f"
-  },
-  "ac8b9f9c5ab3": {
-   "id": "ac8b9f9c5ab3",
-   "kaynak": "AA",
-   "baslik": "İstanbul Havalimanı'ndaki 4. pist ile yaklaşık bir ayda 284 ton yakıt tasarrufu sağlandı",
-   "ozet": "Bakan Uraloğlu, İstanbul Havalimanı'nda 18 Eylül'de hizmete açılan 4. ana pistten 15 Ekim'e kadar 1738 kalkış gerçekleştirildiğini belirterek, yaklaşık 284 ton yakıt tasarrufu ve 897 ton karbondioksit emisyonu azaltımı hesaplandığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanindaki-4-pist-ile-yaklasik-bir-ayda-284-ton-yakit-tasarrufu-saglandi/4096927",
-   "zaman": "2026-10-22T12:26:48+03:00",
-   "kelimeler": [
-    "284",
-    "ayda",
-    "haval",
-    "istan",
-    "ndaki",
-    "pist",
-    "sagla",
-    "tasar",
-    "ton",
-    "yakit",
-    "yakla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "4213dbfe64c0": {
-   "id": "4213dbfe64c0",
-   "kaynak": "AA",
-   "baslik": "E-Devlet Kapısı'ndaki güvenlik incelemesi tamamlandı",
-   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin e-Devlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandığını ve herhangi bir sorun bulunmadığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/e-devlet-kapisindaki-guvenlik-incelemesi-tamamlandi/4096933",
-   "zaman": "2026-10-22T12:30:55+03:00",
-   "kelimeler": [
-    "devle",
-    "guven",
-    "incel",
-    "kapis",
-    "ndaki",
-    "tamam"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f2a82a674867"
-  },
   "3f5c9279dff3": {
    "id": "3f5c9279dff3",
    "kaynak": "Hürriyet",
@@ -532,28 +407,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "958bfe37c4d0": {
-   "id": "958bfe37c4d0",
-   "kaynak": "AA",
-   "baslik": "Messi'nin Dünya Kupası zaferi Katar'da dev duvar resmiyle ölümsüzleştirildi",
-   "ozet": "Katar'da düzenlenen 2022 FIFA Dünya Kupası'nda Arjantin Milli Takımı'nın şampiyonluğa ulaşmasının ardından Lionel Messi'nin yaşadığı tarihi an, başkent Doha yakınlarındaki El-Vekra kentinde dev bir duvar resmiyle ölümsüzleştirildi.",
-   "link": "https://www.aa.com.tr/tr/spor/messinin-dunya-kupasi-zaferi-katarda-dev-duvar-resmiyle-olumsuzlestirildi/4096905",
-   "zaman": "2026-10-22T12:16:00+03:00",
-   "kelimeler": [
-    "dev",
-    "dunya",
-    "duvar",
-    "katar",
-    "kupas",
-    "messi",
-    "nin",
-    "olums",
-    "resmi",
-    "zafer"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "c7f4ae803a32": {
    "id": "c7f4ae803a32",
@@ -26457,9 +26310,115 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6b7f5a8ef279": {
+   "id": "6b7f5a8ef279",
+   "kaynak": "TRT Haber",
+   "baslik": "Mardin'de feci kaza: Aynı aileden 6 kişinin cenazesi defnedildi",
+   "ozet": "Mardin'in Nusaybin ilçesinde sulama kanalına devrilen otomobilde yaşamını yitiren 4'ü çocuk 6 kişinin cenazesi toprağa verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/mardinde-feci-kaza-ayni-aileden-6-kisinin-cenazesi-defnedildi-961132.html",
+   "zaman": "2026-10-25T12:04:00+03:00",
+   "kelimeler": [
+    "ailed",
+    "ayni",
+    "cenaz",
+    "defne",
+    "feci",
+    "kaza",
+    "kisin",
+    "mardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b4759d764532": {
+   "id": "b4759d764532",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da takip ettiği kadına tacizde bulundu: Mahalleli kaçışına izin vermedi",
+   "ozet": "Kağıthane'de yolda yürüyen kadını takip ederek taciz ettiği öne sürülen şüpheli, kadının çığlıkları üzerine toplanan mahalleli tarafından yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-takip-ettigi-kadina-tacizde-bulundu-mahalleli-kacisina-izin-vermedi-43354275",
+   "zaman": "2026-10-25T12:09:00+03:00",
+   "kelimeler": [
+    "bulun",
+    "ettig",
+    "istan",
+    "izin",
+    "kacis",
+    "kadin",
+    "mahal",
+    "taciz",
+    "takip",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8788b32ec02a": {
+   "id": "8788b32ec02a",
+   "kaynak": "AA",
+   "baslik": "Meclis'e \"60 yaş ve üstü vatandaşlara yeşil pasaport hakkı verilsin\" talebi",
+   "ozet": "TBMM Dilekçe Komisyonuna gelen başvurular arasında, 60 yaş ve üzerindeki vatandaşlara yeşil pasaport hakkı tanınması talebi de yer aldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/meclise-60-yas-ve-ustu-vatandaslara-yesil-pasaport-hakki-verilsin-talebi/4100104",
+   "zaman": "2026-10-25T12:16:04+03:00",
+   "kelimeler": [
+    "60",
+    "hakki",
+    "mecli",
+    "pasap",
+    "taleb",
+    "ustu",
+    "vatan",
+    "veril",
+    "yas",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4099b25efa16": {
+   "id": "4099b25efa16",
+   "kaynak": "AA",
+   "baslik": "Öğretmen ve öğrencilerden çiftçilerin traktörlerine tarlada ücretsiz bakım desteği",
+   "ozet": "Erzincan'da meslek lisesi öğretmen ve öğrencileri, sosyal sorumluluk projesi kapsamında tarlalara giderek çiftçilere ait traktörlerin periyodik bakım ve kontrollerini ücretsiz yapıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/ogretmen-ve-ogrencilerden-ciftcilerin-traktorlerine-tarlada-ucretsiz-bakim-destegi/4100111",
+   "zaman": "2026-10-25T12:23:18+03:00",
+   "kelimeler": [
+    "bakim",
+    "ciftc",
+    "deste",
+    "ogren",
+    "ogret",
+    "tarla",
+    "trakt",
+    "ucret"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f20dee312ea": {
+   "id": "2f20dee312ea",
+   "kaynak": "AA",
+   "baslik": "Türkiye ile Ermenistan arasındaki Ani Köprüsü'nün restorasyonunda yeni aşama",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye ile Ermenistan sınırında bulunan tarihi Ani Köprüsü'nün yeniden inşası için ihale sürecini tamamladıklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-ermenistan-arasindaki-ani-koprusunun-restorasyonunda-yeni-asama-/4100112",
+   "zaman": "2026-10-25T12:25:04+03:00",
+   "kelimeler": [
+    "ani",
+    "arasi",
+    "asama",
+    "ermen",
+    "kopru",
+    "nun",
+    "resto",
+    "turki",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 12:31:12  5 yeni haber",
   "25.10 12:15:57  5 yeni haber",
   "25.10 12:01:20  8 yeni haber",
   "25.10 11:46:06  8 yeni haber",
@@ -26658,8 +26617,7 @@
   "23.10 05:16:02  2 yeni haber",
   "23.10 05:01:14  1 yeni haber",
   "23.10 04:45:59  1 yeni haber",
-  "23.10 03:45:54  1 yeni haber",
-  "23.10 02:31:04  3 yeni haber"
+  "23.10 03:45:54  1 yeni haber"
  ],
  "otomatik": false
 }
