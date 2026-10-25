@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "1bd9c92cc0f8": {
-   "id": "1bd9c92cc0f8",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Merkez Bankası'nın 9 ay sonra ilk kez faiz indirmesi ne anlama geliyor?",
-   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Para Politikası Kurulu (PPK) bugün politika faizini 100 baz puan indirerek % 36'ya çekti. Böylece TCMB 9 ay sonra ilk kez faiz indirimine gitmiş oldu. Koç Üniversitesi Öğretim Üyesi Prof. Dr.",
-   "link": "https://www.bbc.com/turkce/articles/c6vg7w1gvg92o",
-   "zaman": "2026-10-22T15:47:10+03:00",
-   "kelimeler": [
-    "anlam",
-    "ay",
-    "banka",
-    "faiz",
-    "geliy",
-    "ilk",
-    "indir",
-    "kez",
-    "merke",
-    "nin"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "34b7f7759935": {
-   "id": "34b7f7759935",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, Kanada Başbakanı Carney'i resmi törenle karşıladı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'yi ziyaret eden Kanada Başbakanı Mark Carney'i resmi törenle karşıladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kanada-basbakani-carneyi-resmi-torenle-karsiladi/4097254",
-   "zaman": "2026-10-22T15:53:11+03:00",
-   "kelimeler": [
-    "basba",
-    "carne",
-    "cumhu",
-    "erdog",
-    "kanad",
-    "karsi",
-    "resmi",
-    "toren"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ccb179b2a0d0"
-  },
-  "dba11aa01b55": {
-   "id": "dba11aa01b55",
-   "kaynak": "AA",
-   "baslik": "İstanbul Photo Awards 2026 Sergisi Roma'da açıldı",
-   "ozet": "Anadolu Ajansının (AA) düzenlediği İstanbul Photo Awards 2026'nın ikinci sergisi İtalya'nın başkenti Roma'da açıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/istanbul-photo-awards-2026-sergisi-romada-acildi/4097258",
-   "zaman": "2026-10-22T15:54:50+03:00",
-   "kelimeler": [
-    "2026",
-    "acild",
-    "award",
-    "istan",
-    "photo",
-    "roma",
-    "sergi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "372972bb344b": {
    "id": "372972bb344b",
    "kaynak": "NTV",
@@ -24700,7 +24638,10 @@
     "verme"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8fa7ef1de015": {
    "id": "8fa7ef1de015",
@@ -25571,7 +25512,10 @@
     "vurdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "b60a50f253bd": {
    "id": "b60a50f253bd",
@@ -25594,7 +25538,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "NTV",
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ],
    "paylasildi": "2026-10-25T15:48:18.090864+03:00",
    "ig_id": "18021183731945069",
@@ -25730,9 +25675,233 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d059b7ea9bd8": {
+   "id": "d059b7ea9bd8",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 7 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 7 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-7-kisi-hayatini-kaybetti/4100135",
+   "zaman": "2026-10-25T13:00:51+03:00",
+   "kelimeler": [
+    "24",
+    "atesk",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "ragme",
+    "saatt",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "88d469249c31"
+  },
+  "07dd1c0fad99": {
+   "id": "07dd1c0fad99",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında Ertan Aydın yeniden gözaltına alındı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında, hakkında verilen adli kontrol kararına yapılan itiraz üzerine yakalama kararı çıkarılan eski AK Parti milletvekili, araştırma ve kampanya şirketi kurucusu Ertan Aydın, Ankara'da…",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-ertan-aydin-yeniden-gozaltina-alindi-961145.html",
+   "zaman": "2026-10-25T14:54:00+03:00",
+   "kelimeler": [
+    "alind",
+    "aydin",
+    "ertan",
+    "fon",
+    "gozal",
+    "sorus",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "68b93af9320c"
+  },
+  "cbf849c01de6": {
+   "id": "cbf849c01de6",
+   "kaynak": "AA",
+   "baslik": "MKE'nin TOLGA ve PİRANA sistemleri, TURNAs-2026 Tatbikatı'nda hedefleri tam isabetle vurdu",
+   "ozet": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ve PİRANA kamikaze insansız deniz aracı Milli İnsansız Deniz Sistemleri Tatbikatı'nda (TURNAs-2026) hedefleri tam isabetle vurdu.",
+   "link": "https://www.aa.com.tr/tr/gundem/mkenin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikatinda-hedefleri-tam-isabetle-vurdu/4100219",
+   "zaman": "2026-10-25T15:07:39+03:00",
+   "kelimeler": [
+    "2026",
+    "hedef",
+    "isabe",
+    "mke",
+    "nda",
+    "nin",
+    "piran",
+    "siste",
+    "tam",
+    "tatbi",
+    "tolga",
+    "turna",
+    "vurdu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a4e9bbcdf47f"
+  },
+  "5fba02289f19": {
+   "id": "5fba02289f19",
+   "kaynak": "AA",
+   "baslik": "MHP Genel Başkanı Bahçeli'den 25 Ekim Kazakistan Cumhuriyet Günü mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Bugün Türkiye ve Kazakistan ilişkileri tarihten aldığı ilhamla oldukça sağlam bir temel üzerine oturmaktadır.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-25-ekim-kazakistan-cumhuriyet-gunu-mesaji/4100248",
+   "zaman": "2026-10-25T15:41:44+03:00",
+   "kelimeler": [
+    "25",
+    "bahce",
+    "baska",
+    "cumhu",
+    "den",
+    "ekim",
+    "genel",
+    "gunu",
+    "kazak",
+    "mesaj",
+    "mhp"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b60a50f253bd"
+  },
+  "07256ef11c47": {
+   "id": "07256ef11c47",
+   "kaynak": "NTV",
+   "baslik": "Bahçeli'den Kazakistan Cumhuriyet Günü mesajı",
+   "ozet": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"25 Ekim Kazakistan Cumhuriyet Günü\" nedeniyle bir kutlama mesajı yayımladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bahceliden-kazakistan-cumhuriyet-gunu-mesaji-1747906",
+   "zaman": "2026-10-25T15:49:08+03:00",
+   "kelimeler": [
+    "bahce",
+    "cumhu",
+    "den",
+    "gunu",
+    "kazak",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b60a50f253bd"
+  },
+  "5176e5c4feed": {
+   "id": "5176e5c4feed",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Ev yapımı sentetik uyuşturucu dalgası ABD'deki krizi derinleştiriyor",
+   "ozet": "BBC News, ülkenin ölümcül yeni bir uyuşturucu salgınıyla mücadele ettiği bir dönemde, kullanıcılar, satıcılar, cezaevi ve rehabilitasyon çalışanlarından görüş aldı.",
+   "link": "https://www.bbc.com/turkce/articles/c6z98312xk51o",
+   "zaman": "2026-10-25T15:51:17+03:00",
+   "kelimeler": [
+    "abd",
+    "dalga",
+    "deki",
+    "derin",
+    "ev",
+    "krizi",
+    "sente",
+    "uyust",
+    "yapim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70d65e2eba01": {
+   "id": "70d65e2eba01",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasında Ertan Aydın yeniden gözaltına alındı",
+   "ozet": "Fon soruşturmasında savcılık eski AK Parti milletvekili Ertan Aydın'a verilen adli kontrol kararına itiraz etti. Hakkında yakalama kararı çıkarılan Aydın gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-ertan-aydin-yeniden-gozaltina-alindi-1747904",
+   "zaman": "2026-10-25T15:53:07+03:00",
+   "kelimeler": [
+    "alind",
+    "aydin",
+    "ertan",
+    "fon",
+    "gozal",
+    "sorus",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "68b93af9320c"
+  },
+  "8a8ca057b482": {
+   "id": "8a8ca057b482",
+   "kaynak": "AA",
+   "baslik": "KKTC'de batan gemiden kurtulan anne kızına vermeyi düşündüğü \"Deniz\" isminden vazgeçti",
+   "ozet": "KKTC'nin Girne kenti açıklarında batan yolcu gemisinden 8 aylık hamileyken sağ kurtulan Gökdaş, yaşadıkları travmadan sonra kızlarına vermeyi düşündükleri \"Deniz\" isminden vazgeçtiklerini, \"Alara\" ismini tercih ettiklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kktcde-batan-gemiden-kurtulan-anne-kizina-vermeyi-dusundugu-deniz-isminden-vazgecti/4100257",
+   "zaman": "2026-10-25T15:53:34+03:00",
+   "kelimeler": [
+    "anne",
+    "batan",
+    "deniz",
+    "dusun",
+    "gemid",
+    "ismin",
+    "kizin",
+    "kktc",
+    "kurtu",
+    "vazge",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "93c913604f74": {
+   "id": "93c913604f74",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Meclis Başkanı: Düşmana hayal edilemeyecek derecede karşılık vermeye hazırız",
+   "ozet": "İran Meclis ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, meclis oturumunda yaptığı konuşmada, \"Düşmana hayal edilemeyecek derecede karşılık vermeye hazırız.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-dusmana-hayal-edilemeyecek-derecede-karsilik-vermeye-haziriz-961152.html",
+   "zaman": "2026-10-25T15:54:00+03:00",
+   "kelimeler": [
+    "baska",
+    "derec",
+    "dusma",
+    "edile",
+    "hayal",
+    "hazir",
+    "iran",
+    "karsi",
+    "mecli",
+    "verme"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5f50e1a61d84"
+  },
+  "952527471fae": {
+   "id": "952527471fae",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Binyamin Netanyahu: 'Bay Güvenlik' İsrail'de yedinci kez başbakan olabilir mi?",
+   "ozet": "İsrail'in en uzun süre görev yapan başbakanı, 27 Ekim'de yapılacak parlamento seçimlerinde bir dönem daha görevde kalmayı umuyor.",
+   "link": "https://www.bbc.com/turkce/articles/c94g1p2m21xlo",
+   "zaman": "2026-10-25T15:54:00+03:00",
+   "kelimeler": [
+    "basba",
+    "bay",
+    "binya",
+    "guven",
+    "israi",
+    "kez",
+    "netan",
+    "olabi",
+    "yedin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 16:01:34  3 yeni haber",
   "25.10 15:48:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · MHP lideri Bahçeli'den Kazakistan Cumhuriyet günü kutlaması",
   "25.10 15:45:58  1 yeni haber",
   "25.10 15:31:17  4 yeni haber",
@@ -25931,8 +26100,7 @@
   "23.10 11:03:49  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 15 yaşındaki çocuğu ağabeyinin borcu yüzünden vurmuşlar",
   "23.10 11:01:21  3 yeni haber",
   "23.10 10:46:18  8 yeni haber",
-  "23.10 10:31:17  7 yeni haber",
-  "23.10 10:16:02  15 yeni haber"
+  "23.10 10:31:17  7 yeni haber"
  ],
  "otomatik": false
 }
