@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "fc5dc42224bf": {
-   "id": "fc5dc42224bf",
-   "kaynak": "AA",
-   "baslik": "Tuzla'da ayakkabı fabrikasında çıkan yangına müdahale ediliyor",
-   "ozet": "Tuzla'da ayakkabı fabrikasında çıkan yangına itfaiye ekiplerinin müdahalesi sürüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/tuzlada-ayakkabi-fabrikasinda-cikan-yangina-mudahale-ediliyor/4096598",
-   "zaman": "2026-10-22T07:33:12+03:00",
-   "kelimeler": [
-    "ayakk",
-    "cikan",
-    "edili",
-    "fabri",
-    "mudah",
-    "tuzla",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a52e7471a469"
-  },
-  "ea79ea709784": {
-   "id": "ea79ea709784",
-   "kaynak": "AA",
-   "baslik": "Çukurova Belediyesine yönelik operasyonda gözaltına alınan 49 kişi adliyeye sevk edildi",
-   "ozet": "Çukurova Belediyesi'ndeki usulsüzlüklere yönelik soruşturmada 19 Ekim'de gözaltına alınan aralarında Çukurova Belediye Başkanı Kozay, geçen dönemki Belediye Başkanı Çetin ve 4 belediye başkan yardımcısının da bulunduğu 49 kişi adliyeye sevk edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cukurova-belediyesine-yonelik-operasyonda-gozaltina-alinan-49-kisi-adliyeye-sevk-edildi-/4096599",
-   "zaman": "2026-10-22T07:43:19+03:00",
-   "kelimeler": [
-    "49",
-    "adliy",
-    "alina",
-    "beled",
-    "cukur",
-    "edild",
-    "gozal",
-    "kisi",
-    "opera",
-    "sevk",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "BBC Türkçe"
-   ]
-  },
   "6794d5bceaa4": {
    "id": "6794d5bceaa4",
    "kaynak": "Hürriyet",
@@ -416,25 +370,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "955ef8cdace3": {
-   "id": "955ef8cdace3",
-   "kaynak": "AA",
-   "baslik": "Tuzla'da ayakkabı fabrikasında çıkan yangın söndürüldü",
-   "ozet": "Tuzla'da ayakkabı fabrikasında çıkan yangın itfaiye ekiplerince söndürüldü.",
-   "link": "https://www.aa.com.tr/tr/gundem/tuzlada-ayakkabi-fabrikasinda-cikan-yangin-sonduruldu/4096598",
-   "zaman": "2026-10-22T07:33:12+03:00",
-   "kelimeler": [
-    "ayakk",
-    "cikan",
-    "fabri",
-    "sondu",
-    "tuzla",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a52e7471a469"
   },
   "9ad80696d52f": {
    "id": "9ad80696d52f",
@@ -27640,9 +27575,33 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "affdac147b05"
+  },
+  "72dadaea5a2c": {
+   "id": "72dadaea5a2c",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in saldırıları El Halil'de yüz yüze eğitime engel oluyor",
+   "ozet": "Katil İsrail ordusunun başlattığı saldırı nedeniyle işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil'de eğitim kurumları çalışmalarına ara verme veya uzaktan sürdürme kararı aldı.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-saldirilari-el-halilde-yuz-yuze-egitime-engel-oluyor-961117.html",
+   "zaman": "2026-10-25T07:26:00+03:00",
+   "kelimeler": [
+    "egiti",
+    "el",
+    "engel",
+    "halil",
+    "in",
+    "israi",
+    "katil",
+    "oluyo",
+    "saldi",
+    "yuz",
+    "yuze"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 07:46:17  1 yeni haber",
   "25.10 07:16:13  13 yeni haber",
   "25.10 07:02:12  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Manifest’e rakip yeni bir kız grubu ortaya çıktı.",
   "25.10 05:46:17  1 yeni haber",
@@ -27841,8 +27800,7 @@
   "22.10 20:16:51  5 yeni haber",
   "22.10 20:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
   "22.10 20:01:22  4 yeni haber",
-  "22.10 19:48:14  4 yeni haber",
-  "22.10 19:31:05  9 yeni haber"
+  "22.10 19:48:14  4 yeni haber"
  ],
  "otomatik": false
 }
