@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "e332c861936b": {
-   "id": "e332c861936b",
-   "kaynak": "NTV",
-   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 22 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1747538",
-   "zaman": "2026-10-22T21:56:15+03:00",
-   "kelimeler": [
-    "2026",
-    "22",
-    "belli",
-    "cekil",
-    "ekim",
-    "ekran",
-    "kazan",
-    "loto",
-    "mpi",
-    "numar",
-    "sonuc",
-    "sorgu",
-    "super"
-   ],
-   "durum": "engelli",
-   "oncelikli": true
-  },
   "b9265fc98f13": {
    "id": "b9265fc98f13",
    "kaynak": "AA",
@@ -113,49 +88,6 @@
     "NTV"
    ]
   },
-  "440b7c3fc784": {
-   "id": "440b7c3fc784",
-   "kaynak": "AA",
-   "baslik": "ABD'de kurumsal yatırımcıların konut alımlarını kısıtlayan yasaya yönelik düzenleme taslağı",
-   "ozet": "ABD Hazine Bakanlığı, büyük kurumsal yatırımcıların müstakil konut satın almasını kısıtlayan yasanın uygulanmasına ilişkin düzenleme taslağı yayımladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-kurumsal-yatirimcilarin-konut-alimlarini-kisitlayan-yasaya-yonelik-duzenleme-taslagi/4097781",
-   "zaman": "2026-10-22T21:48:21+03:00",
-   "kelimeler": [
-    "abd",
-    "aliml",
-    "duzen",
-    "kisit",
-    "konut",
-    "kurum",
-    "tasla",
-    "yasay",
-    "yatir",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "00e1e7a0650f": {
-   "id": "00e1e7a0650f",
-   "kaynak": "AA",
-   "baslik": "Fransa'da 15 vilayette fırtına nedeniyle \"turuncu alarm\" verildi",
-   "ozet": "Fransa'nın batısında ve kuzeyindeki 15 vilayette Austen Fırtınası nedeniyle turuncu alarm verildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-15-vilayette-firtina-nedeniyle-turuncu-alarm-verildi/4097783",
-   "zaman": "2026-10-22T21:48:48+03:00",
-   "kelimeler": [
-    "15",
-    "alarm",
-    "firti",
-    "frans",
-    "neden",
-    "turun",
-    "veril",
-    "vilay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "b839a9af7900": {
    "id": "b839a9af7900",
    "kaynak": "NTV",
@@ -176,26 +108,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3606747069ba"
-  },
-  "37dcf605b1e6": {
-   "id": "37dcf605b1e6",
-   "kaynak": "AA",
-   "baslik": "Fransa ve Belçika'da fırtına nedeniyle \"turuncu alarm\" verildi",
-   "ozet": "Fransa'da 15 vilayette ve Belçika'nın bazı bölgelerinde fırtına nedeniyle \"turuncu alarm\" verildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransa-ve-belcikada-firtina-nedeniyle-turuncu-alarm-verildi/4097783",
-   "zaman": "2026-10-22T21:48:48+03:00",
-   "kelimeler": [
-    "alarm",
-    "belci",
-    "firti",
-    "frans",
-    "neden",
-    "turun",
-    "veril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "00e1e7a0650f"
   },
   "81a099168d39": {
    "id": "81a099168d39",
@@ -23728,7 +23640,10 @@
     "unsur"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "e2b7de5dc803": {
    "id": "e2b7de5dc803",
@@ -24578,9 +24493,48 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "58559a6d59f4": {
+   "id": "58559a6d59f4",
+   "kaynak": "Hürriyet",
+   "baslik": "İçişleri Bakanlığı'ndan kuvvetli 'sağanak' uyarısı",
+   "ozet": "İÇİŞLERİ Bakanlığı, yarın birçok ilde etkili olması beklenen sağanak nedeniyle sel ve su baskınına karşı uyarıda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligindan-kuvvetli-saganak-uyarisi-43354766",
+   "zaman": "2026-10-25T21:43:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "icisl",
+    "kuvve",
+    "ndan",
+    "sagan",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ffe29d0cb4e5": {
+   "id": "ffe29d0cb4e5",
+   "kaynak": "NTV",
+   "baslik": "TUNGA-X düşman unsurunu tam isabetle imha etti",
+   "ozet": "Avcı insansız hava aracı TUNGA-X, radar ve görüntü güdüm entegrasyonuyla temsili düşman İHA unsurunu tam isabetle vurarak başarıyla etkisiz hale getirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti-1747956",
+   "zaman": "2026-10-25T21:51:48+03:00",
+   "kelimeler": [
+    "dusma",
+    "etti",
+    "imha",
+    "isabe",
+    "tam",
+    "tunga",
+    "unsur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f4ba0302c097"
   }
  },
  "kayit": [
+  "25.10 22:01:19  1 yeni haber",
   "25.10 21:45:57  3 yeni haber",
   "25.10 21:31:47  2 yeni haber",
   "25.10 21:16:07  1 yeni haber",
@@ -24779,8 +24733,7 @@
   "23.10 17:15:58  4 yeni haber",
   "23.10 17:01:19  4 yeni haber",
   "23.10 16:46:06  8 yeni haber",
-  "23.10 16:15:57  5 yeni haber",
-  "23.10 16:01:18  4 yeni haber"
+  "23.10 16:15:57  5 yeni haber"
  ],
  "otomatik": false
 }
