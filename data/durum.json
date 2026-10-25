@@ -1,40 +1,5 @@
 {
  "haberler": {
-  "31a543f29f81": {
-   "id": "31a543f29f81",
-   "kaynak": "TRT Haber",
-   "baslik": "Kayseri'de tramvayın çarptığı yaya ağır yaralandı",
-   "ozet": "Kayseri'nin Melikgazi ilçesinde tramvayın çarptığı yaya ağır yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/kayseride-tramvayin-carptigi-yaya-agir-yaralandi-960952.html",
-   "zaman": "2026-10-23T01:56:00+03:00",
-   "kelimeler": [
-    "agir",
-    "carpt",
-    "kayse",
-    "tramv",
-    "yaral",
-    "yaya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f81be3f72b33": {
-   "id": "f81be3f72b33",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
-   "ozet": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı.",
-   "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro",
-   "zaman": "2026-10-23T02:00:52+03:00",
-   "kelimeler": [
-    "bedir",
-    "hedef",
-    "ittif",
-    "mekke",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6c8e6133c095": {
    "id": "6c8e6133c095",
    "kaynak": "BBC Türkçe",
@@ -24255,7 +24220,10 @@
     "zamir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "7360307016e9": {
    "id": "7360307016e9",
@@ -24278,9 +24246,52 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4fd764686821"
+  },
+  "b7924405ff4e": {
+   "id": "b7924405ff4e",
+   "kaynak": "TRT Haber",
+   "baslik": "Diyarbakır'da 39 kilo 871 gram uyuşturucu ele geçirildi",
+   "ozet": "Diyarbakır'ın merkez Bağlar ve Yenişehir ilçelerinde 39 kilo 871 gram uyuşturucu ele geçirildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-39-kilo-871-gram-uyusturucu-ele-gecirildi-961177.html",
+   "zaman": "2026-10-26T01:52:00+03:00",
+   "kelimeler": [
+    "39",
+    "871",
+    "diyar",
+    "ele",
+    "gecir",
+    "gram",
+    "kilo",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "98fb395e8605": {
+   "id": "98fb395e8605",
+   "kaynak": "Hürriyet",
+   "baslik": "Seçim öncesi Netanyahu ile Genelkurmay Başkanı Zamir arasında İran krizi",
+   "ozet": "İsrail Başbakanı Binyamin Netanyahu'nun salı günü yapılacak genel seçim öncesinde orduya İran'a karşı yeni bir saldırı talimatı verdiği ancak Genelkurmay Başkanı Eyal Zamir'in bunun bir \"hesap hatasına\" yol açabileceği endişesiyle söz konusu emre ilişkin ıslak imzalı bir belge…",
+   "link": "https://www.hurriyet.com.tr/gundem/secim-oncesi-netanyahu-ile-genelkurmay-baskani-zamir-arasinda-iran-krizi-43354863",
+   "zaman": "2026-10-26T01:55:34+03:00",
+   "kelimeler": [
+    "arasi",
+    "baska",
+    "genel",
+    "iran",
+    "krizi",
+    "netan",
+    "onces",
+    "secim",
+    "zamir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "153993cf7f7b"
   }
  },
  "kayit": [
+  "26.10 02:01:18  1 yeni haber",
   "26.10 01:53:35  1 yeni haber",
   "26.10 01:32:27  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
   "26.10 01:15:58  2 yeni haber",
@@ -24479,8 +24490,7 @@
   "23.10 20:45:56  2 yeni haber",
   "23.10 20:31:08  3 yeni haber",
   "23.10 20:15:54  2 yeni haber",
-  "23.10 20:04:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · NVIDIA'nın CEO'su Huang, Kazakistan'ın küresel bir fiziksel yapay zeka",
-  "23.10 20:01:45  5 yeni haber"
+  "23.10 20:04:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · NVIDIA'nın CEO'su Huang, Kazakistan'ın küresel bir fiziksel yapay zeka"
  ],
  "otomatik": false
 }
