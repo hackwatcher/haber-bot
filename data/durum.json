@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "b6eeadce4244": {
-   "id": "b6eeadce4244",
-   "kaynak": "TRT Haber",
-   "baslik": "Trabzonspor Konferans Ligi'nde yine kazandı",
-   "ozet": "Trabzonspor, UEFA Konferans Ligi'nin 2. haftasında İskoç ekibi Hearts'ı 20 mağlup etti.",
-   "link": "https://www.trthaber.com/haber/gundem/trabzonspor-konferans-liginde-yine-kazandi-960942.html",
-   "zaman": "2026-10-22T21:45:00+03:00",
-   "kelimeler": [
-    "kazan",
-    "konfe",
-    "ligi",
-    "nde",
-    "trabz",
-    "yine"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "e332c861936b": {
    "id": "e332c861936b",
    "kaynak": "NTV",
@@ -42,30 +24,6 @@
    ],
    "durum": "engelli",
    "oncelikli": true
-  },
-  "d576d6251734": {
-   "id": "d576d6251734",
-   "kaynak": "AA",
-   "baslik": "Zelenskiy'den ABD'nin Rusya'ya yaptırımları askıya almasının \"Putin'i güçlendireceği\" mesajı",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın Rusya'ya yönelik yaptırımları geçici olarak askıya alması kararının Rusya Devlet Başkanı Vladimir Putin'i \"daha da güçlendireceği\" mesajını verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiyden-abdnin-rusyaya-yaptirimlari-askiya-almasinin-putini-guclendirecegi-mesaji/4097771",
-   "zaman": "2026-10-22T21:39:36+03:00",
-   "kelimeler": [
-    "abd",
-    "almas",
-    "askiy",
-    "den",
-    "gucle",
-    "mesaj",
-    "nin",
-    "putin",
-    "rusya",
-    "ya",
-    "yapti",
-    "zelen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "b9265fc98f13": {
    "id": "b9265fc98f13",
@@ -24533,9 +24491,97 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "d20640c62dca": {
+   "id": "d20640c62dca",
+   "kaynak": "TRT Haber",
+   "baslik": "Çankırı'da otomobil ile pikap çarpıştı: 1 ölü",
+   "ozet": "Çankırı'da otomobil ile pikabın çarpışması sonucu 1 kişi yaşamını yitirdi, 2 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/cankirida-otomobil-ile-pikap-carpisti-1-olu-961166.html",
+   "zaman": "2026-10-25T20:41:00+03:00",
+   "kelimeler": [
+    "canki",
+    "carpi",
+    "olu",
+    "otomo",
+    "pikap"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6ca389a3391"
+  },
+  "3d5cd6f5d910": {
+   "id": "3d5cd6f5d910",
+   "kaynak": "AA",
+   "baslik": "Bulgaristan'da sandık çıkış anketlerine göre mevcut cumhurbaşkanı seçimi önde götürüyor",
+   "ozet": "Bulgaristan'da yapılan cumhurbaşkanı seçiminde, sandık çıkış anketlerine göre mevcut Cumhurbaşkanı İliyana Yotova ilk sırada yer alırken, seçimin ikinci tura kalması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-sandik-cikis-anketlerine-gore-mevcut-cumhurbaskani-secimi-onde-goturuyor/4100407",
+   "zaman": "2026-10-25T21:29:45+03:00",
+   "kelimeler": [
+    "anket",
+    "bulga",
+    "cikis",
+    "cumhu",
+    "gore",
+    "gotur",
+    "mevcu",
+    "onde",
+    "sandi",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60b2bd5d3508": {
+   "id": "60b2bd5d3508",
+   "kaynak": "NTV",
+   "baslik": "İstanbul Havalimanı'nda uyuşturucu operasyonu. 25 kilogram esrar ele geçirildi",
+   "ozet": "İstanbul Havalimanı’nda, Kamboçya’dan aktarmalı olarak gelen İspanya pasaportlu yolcunun bagajında 25 kilo 520 gram esrar ele geçirildi. Uyuşturucuyu teslim alacak kişi ise Bayrampaşa’da yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbul-havalimaninda-uyusturucu-operasyonu-25-kilogram-esrar-ele-gecirildi-1747953",
+   "zaman": "2026-10-25T21:36:38+03:00",
+   "kelimeler": [
+    "25",
+    "ele",
+    "esrar",
+    "gecir",
+    "haval",
+    "istan",
+    "kilog",
+    "nda",
+    "opera",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c0dadcd2c94": {
+   "id": "4c0dadcd2c94",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1747955",
+   "zaman": "2026-10-25T21:45:45+03:00",
+   "kelimeler": [
+    "2026",
+    "25",
+    "agust",
+    "belli",
+    "cekil",
+    "ekran",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "25.10 21:45:57  3 yeni haber",
   "25.10 21:31:47  2 yeni haber",
   "25.10 21:16:07  1 yeni haber",
   "25.10 21:08:49  1 yeni haber",
@@ -24734,8 +24780,7 @@
   "23.10 17:01:19  4 yeni haber",
   "23.10 16:46:06  8 yeni haber",
   "23.10 16:15:57  5 yeni haber",
-  "23.10 16:01:18  4 yeni haber",
-  "23.10 15:46:02  9 yeni haber"
+  "23.10 16:01:18  4 yeni haber"
  ],
  "otomatik": false
 }
