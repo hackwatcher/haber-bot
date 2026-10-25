@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "27bdb8c3328c": {
-   "id": "27bdb8c3328c",
-   "kaynak": "AA",
-   "baslik": "Suudi Arabistan'ın Necran bölgesinde erken uyarı sistemi devreye alındı",
-   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Necran bölgesinde erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-necran-bolgesinde-erken-uyari-sistemi-devreye-alindi/4097636",
-   "zaman": "2026-10-22T19:08:08+03:00",
-   "kelimeler": [
-    "alind",
-    "arabi",
-    "bolge",
-    "devre",
-    "erken",
-    "in",
-    "necra",
-    "siste",
-    "suudi",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "26e0c221ee9b": {
-   "id": "26e0c221ee9b",
-   "kaynak": "AA",
-   "baslik": "Beyaz Saray: ABD, 3 Kasım seçimlerinden önce İran'a saldırmayacak",
-   "ozet": "Beyaz Saray, ABD'nin 3 Kasım'daki Kongre ara seçimlerinden önce İran'a herhangi bir saldırı düzenlemeyeceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-abd-3-kasim-secimlerinden-once-irana-saldirmayacak/4097641",
-   "zaman": "2026-10-22T19:10:53+03:00",
-   "kelimeler": [
-    "abd",
-    "beyaz",
-    "iran",
-    "kasim",
-    "saldi",
-    "saray",
-    "secim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9bbd03e67d1f": {
    "id": "9bbd03e67d1f",
    "kaynak": "Sözcü",
@@ -22819,7 +22778,10 @@
     "vitri"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "252e2c792f22": {
    "id": "252e2c792f22",
@@ -25048,7 +25010,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "a466c2a92e73": {
@@ -25172,9 +25135,91 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "da9f834f16cd": {
+   "id": "da9f834f16cd",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek: Önceliğimiz, iade edilen tutarların gerçek hak sahiplerine ulaştırılmasıdır",
+   "ozet": "ADALET Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-onceligimiz-iade-edilen-tutarlarin-gercek-hak-sahiplerine-ulastirilmasidir-43354672",
+   "zaman": "2026-10-25T18:50:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "edile",
+    "gerce",
+    "gurle",
+    "hak",
+    "iade",
+    "oncel",
+    "sahip",
+    "tutar",
+    "ulast"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0bce089447ee": {
+   "id": "0bce089447ee",
+   "kaynak": "TRT Haber",
+   "baslik": "Modern savunma teknolojileri Afrika'da vitrine çıkıyor",
+   "ozet": "Afrika'daki önemli savunma ve güvenlik buluşmalarından biri haline gelen BAMEX 2026, 913 Kasım'da Mali'nin başkenti Bamakoda gerçekleştirilecek.",
+   "link": "https://www.trthaber.com/haber/guncel/modern-savunma-teknolojileri-afrikada-vitrine-cikiyor-961163.html",
+   "zaman": "2026-10-25T18:59:00+03:00",
+   "kelimeler": [
+    "afrik",
+    "cikiy",
+    "moder",
+    "savun",
+    "tekno",
+    "vitri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f4151031806e"
+  },
+  "a9d4c7aca897": {
+   "id": "a9d4c7aca897",
+   "kaynak": "AA",
+   "baslik": "Bakan Gürlek'ten fon soruşturmasına ilişkin açıklama",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355",
+   "zaman": "2026-10-25T19:01:29+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "fon",
+    "gurle",
+    "ilisk",
+    "sorus",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cf54d3681e5b"
+  },
+  "0d8b66332ec5": {
+   "id": "0d8b66332ec5",
+   "kaynak": "Sözcü",
+   "baslik": "İktidara yakın gazetecinin iddiası: Oktay Saral görevden alındı!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/oktay-saral-gorevden-mi-alindi-p372634",
+   "zaman": "2026-10-25T19:12:35+03:00",
+   "kelimeler": [
+    "alind",
+    "gazet",
+    "gorev",
+    "iddia",
+    "iktid",
+    "oktay",
+    "saral",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 19:15:58  2 yeni haber",
   "25.10 19:01:16  2 yeni haber",
   "25.10 18:46:08  3 yeni haber",
   "25.10 18:31:11  3 yeni haber",
@@ -25373,8 +25418,7 @@
   "23.10 14:46:03  3 yeni haber",
   "23.10 14:31:17  2 yeni haber",
   "23.10 14:16:04  4 yeni haber",
-  "23.10 14:01:22  10 yeni haber",
-  "23.10 13:47:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var"
+  "23.10 14:01:22  10 yeni haber"
  ],
  "otomatik": false
 }
