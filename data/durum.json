@@ -1,33 +1,5 @@
 {
  "haberler": {
-  "f43b4468ec62": {
-   "id": "f43b4468ec62",
-   "kaynak": "AA",
-   "baslik": "İran Meclis Başkanı Kalibaf Matrix'li paylaşımla ABD'ye seslendi: İran'la savaşın hiçbir faydası olmayacak",
-   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD yönetimi ve halkına seslenerek, İran'la olası bir savaşın ABD'ye fayda sağlamayacağını aksine ağır sonuçlara yol açacağını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-matrixli-paylasimla-abdye-seslendi-iranla-savasin-hicbir-faydasi-olmayacak/4097739",
-   "zaman": "2026-10-22T21:01:30+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "fayda",
-    "hicbi",
-    "iran",
-    "kalib",
-    "la",
-    "li",
-    "matri",
-    "mecli",
-    "olmay",
-    "payla",
-    "savas",
-    "sesle",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "567f1395eb26"
-  },
   "679ed93517a3": {
    "id": "679ed93517a3",
    "kaynak": "TRT Haber",
@@ -17012,7 +16984,8 @@
     "yi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ef68ec0d89b3": {
    "id": "ef68ec0d89b3",
@@ -24741,9 +24714,50 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4cfd8ec50cc4"
+  },
+  "25587500ea71": {
+   "id": "25587500ea71",
+   "kaynak": "AA",
+   "baslik": "Göztepe, Arca Çorum FK'yı 2-0 mağlup etti",
+   "ozet": "Trendyol Süper Lig'in 9. haftasında Göztepe, sahasında Arca Çorum FK'yı 2-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/goztepe-arca-corum-fkyi-2-0-maglup-etti/4100373",
+   "zaman": "2026-10-25T20:05:07+03:00",
+   "kelimeler": [
+    "arca",
+    "corum",
+    "etti",
+    "fk",
+    "gozte",
+    "maglu",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "467f9cb82eeb"
+  },
+  "b6fbd8af480b": {
+   "id": "b6fbd8af480b",
+   "kaynak": "TRT Haber",
+   "baslik": "Riyad Havalimanı'nda iki terminalde uçuşlara yeniden başlandı",
+   "ozet": "Suudi Arabistanın başkenti Riyaddaki Kral Halid Uluslararası Havalimanı'nın iki terminalinde, Yemendeki Husilerin saldırıları nedeniyle yaklaşık iki haftadır durdurulan uçuşlara kısmen yeniden başlandı.",
+   "link": "https://www.trthaber.com/haber/dunya/riyad-havalimaninda-iki-terminalde-ucuslara-yeniden-baslandi-961168.html",
+   "zaman": "2026-10-25T20:53:00+03:00",
+   "kelimeler": [
+    "basla",
+    "haval",
+    "iki",
+    "nda",
+    "riyad",
+    "termi",
+    "ucusl",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 21:08:49  1 yeni haber",
   "25.10 21:01:29  4 yeni haber",
   "25.10 20:15:58  2 yeni haber",
   "25.10 19:48:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Trump İran kararını son dakikada değiştirdi",
@@ -24942,8 +24956,7 @@
   "23.10 16:01:18  4 yeni haber",
   "23.10 15:46:02  9 yeni haber",
   "23.10 15:17:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Virajı alamayan kömür yüklü TIR uçuruma devrildi: 2 yaralı",
-  "23.10 15:16:00  4 yeni haber",
-  "23.10 15:01:24  4 yeni haber"
+  "23.10 15:16:00  4 yeni haber"
  ],
  "otomatik": false
 }
