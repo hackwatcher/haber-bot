@@ -1,88 +1,5 @@
 {
  "haberler": {
-  "d5ab73bdce77": {
-   "id": "d5ab73bdce77",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
-   "ozet": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
-   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo",
-   "zaman": "2026-10-22T09:07:21+03:00",
-   "kelimeler": [
-    "acigi",
-    "basla",
-    "capin",
-    "dunya",
-    "guven",
-    "kriti",
-    "olcek",
-    "siber",
-    "taram",
-    "turki",
-    "ulusa"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dbc2880fb176"
-  },
-  "1623cd2650d6": {
-   "id": "1623cd2650d6",
-   "kaynak": "Hürriyet",
-   "baslik": "Kızamık vakaları yeniden tırmanışta… Uzman isimden kritik uyarı: Beyin fonksiyonları devre dışı kalabilir",
-   "ozet": "Aşı karşıtlığının etkisiyle kızamık vakalarında artış yaşandığına dikkat çeken Uzm. Dr.",
-   "link": "https://www.hurriyet.com.tr/gundem/kizamik-vakalari-yeniden-tirmanista-uzman-isimden-kritik-uyari-beyin-fonksiyonlari-devre-disi-kalabilir-43350492",
-   "zaman": "2026-10-22T09:08:52+03:00",
-   "kelimeler": [
-    "beyin",
-    "devre",
-    "disi",
-    "fonks",
-    "isimd",
-    "kalab",
-    "kizam",
-    "kriti",
-    "tirma",
-    "uyari",
-    "uzman",
-    "vakal",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9e17999289f7": {
-   "id": "9e17999289f7",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel piyasalarda yön arayışı sürüyor",
-   "ozet": "Küresel piyasalarda, ABD'de büyük teknoloji şirketlerinin bilançolarından alınan sinyaller ve yapay zeka yatırımlarının finansmanıyla ilgili endişelerin sürmesiyle karışık bir seyir izlenirken, yurt içinde gözler Türkiye Cumhuriyet Merkez Bankasının TCMB para politikası…",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yon-arayisi-suruyor-960842.html",
-   "zaman": "2026-10-22T09:09:00+03:00",
-   "kelimeler": [
-    "arayi",
-    "kures",
-    "piyas",
-    "suruy",
-    "yon"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b89096983637"
-  },
-  "60e5612ab9c7": {
-   "id": "60e5612ab9c7",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 5 gözaltı daha",
-   "ozet": "Fon soruşturması kapsamında haklarında gözaltı kararı verilen 31 kişi yakalandı.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-5-gozalti-daha-960841.html",
-   "zaman": "2026-10-22T09:12:00+03:00",
-   "kelimeler": [
-    "fon",
-    "gozal",
-    "sorus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "91c63fd07126"
-  },
   "8b7d644bfcd9": {
    "id": "8b7d644bfcd9",
    "kaynak": "AA",
@@ -353,24 +270,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b128f588ffae"
-  },
-  "cffec66a1d63": {
-   "id": "cffec66a1d63",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 31 şüpheli gözaltında",
-   "ozet": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında gözaltına alınan şüphelilerin sayısı 31'e yükseldi.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-31-supheli-gozaltinda-960841.html",
-   "zaman": "2026-10-22T09:12:00+03:00",
-   "kelimeler": [
-    "31",
-    "fon",
-    "gozal",
-    "sorus",
-    "suphe"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "91c63fd07126"
   },
   "202e6ab1485a": {
    "id": "202e6ab1485a",
@@ -20425,7 +20324,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "10564cf6cdfa": {
    "id": "10564cf6cdfa",
@@ -27452,9 +27352,119 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4c8a09c7b69c": {
+   "id": "4c8a09c7b69c",
+   "kaynak": "TRT Haber",
+   "baslik": "Ayvalık'ta tekne battı: Denizde aranan kişi kurtarıldı",
+   "ozet": "Balıkesir'in Ayvalık ilçesi açıklarında özel bir teknenin batmasının ardından denizde aranan kişi kurtarıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ayvalikta-tekne-batti-denizde-aranan-kisi-kurtarildi-961114.html",
+   "zaman": "2026-10-25T02:07:00+03:00",
+   "kelimeler": [
+    "arana",
+    "ayval",
+    "batti",
+    "deniz",
+    "kisi",
+    "kurta",
+    "ta",
+    "tekne"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9e225899c1c3": {
+   "id": "9e225899c1c3",
+   "kaynak": "AA",
+   "baslik": "Trakya'daki çifte vatandaşlar Bulgaristan'daki cumhurbaşkanı seçimi için sandık başına gitti",
+   "ozet": "Edirne, Kırklareli ve Tekirdağ'da yaşayan çifte vatandaşlar, Bulgaristan'daki cumhurbaşkanı ve cumhurbaşkanı yardımcısı seçimi için sandık başına gitti.",
+   "link": "https://www.aa.com.tr/tr/gundem/trakyadaki-cifte-vatandaslar-bulgaristandaki-cumhurbaskani-secimi-icin-sandik-basina-gitti/4099960",
+   "zaman": "2026-10-25T09:04:39+03:00",
+   "kelimeler": [
+    "basin",
+    "bulga",
+    "cifte",
+    "cumhu",
+    "daki",
+    "gitti",
+    "sandi",
+    "secim",
+    "traky",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "80c4dfa01a01"
+  },
+  "e03cec1c6d85": {
+   "id": "e03cec1c6d85",
+   "kaynak": "Hürriyet",
+   "baslik": "Kars'ta dondurucu ayaz: Sabah araçlarının başına gidenler buz tutan camlarla karşılaştı",
+   "ozet": "Kars'ta gece boyu etkili olan ayazın ardından sabah termometreler eksi 6'yı gösterdi. Araç camlarının buzla kaplandığı ve kırağının etkili olduğu kentte, sürücüler güne buz kazıyarak başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/karsta-dondurucu-ayaz-sabah-araclarinin-basina-gidenler-buz-tutan-camlarla-karsilasti-43354079",
+   "zaman": "2026-10-25T09:06:21+03:00",
+   "kelimeler": [
+    "aracl",
+    "ayaz",
+    "basin",
+    "buz",
+    "camla",
+    "dondu",
+    "giden",
+    "kars",
+    "karsi",
+    "sabah",
+    "ta",
+    "tutan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a0076f002aab": {
+   "id": "a0076f002aab",
+   "kaynak": "NTV",
+   "baslik": "Sosyal medya paylaştı, polis cezayı kesti",
+   "ozet": "İzmir'in Bornova ilçesinde otomobiliyle drift yaptığı sosyal medyadaki görüntülerden tespit edilen sürücüye 140 bin lira idari para cezası uygulandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-sosyal-medya-paylasti-polis-cezayi-kesti-1747836",
+   "zaman": "2026-10-25T09:08:13+03:00",
+   "kelimeler": [
+    "cezay",
+    "kesti",
+    "medya",
+    "payla",
+    "polis",
+    "sosya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "88aa150c37c0": {
+   "id": "88aa150c37c0",
+   "kaynak": "AA",
+   "baslik": "Kabe ve Mescidi Nebevi imamları, Husilerin Mekke ve Medine'yi hedef almasına tepki gösterdi",
+   "ozet": "Suudi Arabistan'da Kabe ve Mescid-i Nebevi imamları, Yemen'deki İran destekli Husilerin Mekke ve Medine'yi hedef almasının dini hükümlere göre suç olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kabe-ve-mescidi-nebevi-imamlari-husilerin-mekke-ve-medineyi-hedef-almasina-tepki-gosterdi/4099963",
+   "zaman": "2026-10-25T09:10:36+03:00",
+   "kelimeler": [
+    "almas",
+    "goste",
+    "hedef",
+    "husil",
+    "imaml",
+    "kabe",
+    "medin",
+    "mekke",
+    "mesci",
+    "nebev",
+    "tepki",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 09:16:13  4 yeni haber",
   "25.10 09:04:52  1 yeni haber",
   "25.10 09:04:13  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Yeni Call of Duty oyununda atılabilen nükleer bomba görüntülendi.",
   "25.10 09:01:38  1 yeni haber",
@@ -27653,8 +27663,7 @@
   "22.10 22:16:10  3 yeni haber",
   "22.10 22:01:27  3 yeni haber",
   "22.10 21:46:34  3 yeni haber",
-  "22.10 21:31:10  5 yeni haber",
-  "22.10 21:16:07  2 yeni haber"
+  "22.10 21:31:10  5 yeni haber"
  ],
  "otomatik": false
 }
