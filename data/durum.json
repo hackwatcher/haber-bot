@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "e2788e2266c0": {
-   "id": "e2788e2266c0",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da ayakkabı fabrikasında yangın",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbul-da-ayakkabi-fabrikasinda-yangin-p371526",
-   "zaman": "2026-10-22T07:08:38+03:00",
-   "kelimeler": [
-    "ayakk",
-    "fabri",
-    "istan",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a52e7471a469"
-  },
-  "a9a3c9c26a6f": {
-   "id": "a9a3c9c26a6f",
-   "kaynak": "Hürriyet",
-   "baslik": "Yeni moda, sayıları artıyor: Sosyal medya dedektifleri! Hukuk ne diyor? Çizgi nerede aşılıyor?",
-   "ozet": "Sosyal medyada ve internet aramalarında ‘dedektif’ yazınca, bu hizmeti sunan pek çok hesap ve internet sitesi karşınıza çıkıyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/yeni-moda-sayilari-artiyor-sosyal-medya-dedektifleri-hukuk-ne-diyor-cizgi-nerede-asiliyor-43344368",
-   "zaman": "2026-10-22T07:07:46+03:00",
-   "kelimeler": [
-    "artiy",
-    "asili",
-    "cizgi",
-    "dedek",
-    "diyor",
-    "hukuk",
-    "medya",
-    "moda",
-    "nered",
-    "sayil",
-    "sosya",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "096da23921c3": {
-   "id": "096da23921c3",
-   "kaynak": "TRT Haber",
-   "baslik": "İhbara giden polislere ateş açan şüpheli etkisiz hale getirildi",
-   "ozet": "İstanbul Zeytinburnunda ihbar üzerine bir daireye gelen polis ekiplerine silahla ateş açan şüpheli, ekiplerin müdahalesiyle bacağından vurularak etkisiz hale getirildi. Yaralanan şüpheli hastaneye kaldırılırken, olayda bir kişi de yakalanarak gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ihbara-giden-polislere-ates-acan-supheli-etkisiz-hale-getirildi-960837.html",
-   "zaman": "2026-10-22T07:08:00+03:00",
-   "kelimeler": [
-    "acan",
-    "ates",
-    "etkis",
-    "getir",
-    "giden",
-    "hale",
-    "ihbar",
-    "polis",
-    "suphe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "629d747d97a6": {
    "id": "629d747d97a6",
    "kaynak": "Hürriyet",
@@ -17874,7 +17812,10 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "9d4b63eec79f": {
    "id": "9d4b63eec79f",
@@ -21414,7 +21355,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "2402af9202ff": {
@@ -24240,7 +24182,10 @@
     "tan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c5a5d90b8ea9": {
    "id": "c5a5d90b8ea9",
@@ -24534,7 +24479,10 @@
     "yaris"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "813b8076dd61": {
    "id": "813b8076dd61",
@@ -27444,9 +27392,310 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0d4eb7fb5d89": {
+   "id": "0d4eb7fb5d89",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan: Müzeler bölgesi şahane oldu",
+   "ozet": "‘Topkapı Sarayı Darphane-i Amire Müzeleri Açılış Töreni’ne katılan Cumhurbaşkanı Erdoğan, “Darphane-i Amire Külliyesi, dünyaya örnek teşkil edecek müzeler bölgesi olarak şahane bir yapıya ve görünüme kavuştu. Bize saldıranlar, bu müzelerle en güzel cevabı almış oldu” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-muzeler-bolgesi-sahane-oldu-43353959",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "cumhu",
+    "erdog",
+    "muzel",
+    "sahan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60b1d8a5c709": {
+   "id": "60b1d8a5c709",
+   "kaynak": "Hürriyet",
+   "baslik": "Özbekistan’dan TDT’ye teklif",
+   "ozet": "Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türk Devletleri Ekonomik Ortaklık Daimî Konseyi’nin kurulmasını ve bu konseye bağlı Proje Ofisinin Taşkent’te konuşlandırılmasını önerdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozbekistandan-tdtye-teklif-43353961",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "dan",
+    "ozbek",
+    "tdt",
+    "tekli",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "12cb174928fa": {
+   "id": "12cb174928fa",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul Barosu’nda kavgalı genel kurul",
+   "ozet": "Türkiye’nin en kalabalık barosu olan ve yaklaşık 68 bin avukatın kayıtlı bulunduğu İstanbul Barosu’nun 128’inci Olağan Genel Kurulu, dün Haliç Kongre Merkezi’nde yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-barosunda-kavgali-genel-kurul-43353962",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "baros",
+    "genel",
+    "istan",
+    "kavga",
+    "kurul",
+    "nda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70b3b8757f64": {
+   "id": "70b3b8757f64",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş’tan Atina’ya müftü tepkisi",
+   "ozet": "Yunanistan’ın Batı Trakya bölgesinde Türk azınlığın kendi seçtiği müftüleri tanımayarak devlet eliyle atama yapmasına TBMM Başkanı Numan Kurtulmuş tepki gösterdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-atinaya-muftu-tepkisi-43353964",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "atina",
+    "baska",
+    "kurtu",
+    "muftu",
+    "tan",
+    "tbmm",
+    "tepki",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aa7ee82126af": {
+   "id": "aa7ee82126af",
+   "kaynak": "Hürriyet",
+   "baslik": "Kemal Kılıçdaroğlu: Türkiye Ortadoğu’nun koçbaşıdır",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, bir dizi ziyaret için gittiği Gaziantep’te, Balıklı Meydan’ında esnafı ziyaret ederek sohbet etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/kemal-kilicdaroglu-turkiye-ortadogunun-kocbasidir-43353966",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "kemal",
+    "kilic",
+    "kocba",
+    "nun",
+    "ortad",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "66811721886f": {
+   "id": "66811721886f",
+   "kaynak": "Hürriyet",
+   "baslik": "Özgür Özel: Gazetecilerin arkasındayız",
+   "ozet": "Basın örgütlerinin İzmir’de düzenlediği yürüyüşe katılan YENİ Parti Lideri Özel, “Haber alma hakkımızın teminatı olan basın emekçilerinin sonuna kadar arkasındayız” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-gazetecilerin-arkasindayiz-43353967",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "arkas",
+    "gazet",
+    "ozel",
+    "ozgur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15cd9bdab74f": {
+   "id": "15cd9bdab74f",
+   "kaynak": "Hürriyet",
+   "baslik": "Sandal’ın eşi ve babasından ‘fahiş’ kazancı iade başvurusu",
+   "ozet": "Fon soruşturmasında 3 milyara yakın kâr eden şarkıcı Mustafa Sandal’ın eşi Melis Sütşurup Sandal ve babası Cihan Sütşurup’un avukatları İstanbul Cumhuriyet Başsavcılığı’na başvurarak müvekkilleri adına fondan kazanılan parayı iade etme taleplerini iletti.",
+   "link": "https://www.hurriyet.com.tr/gundem/sandalin-esi-ve-babasindan-fahis-kazanci-iade-basvurusu-43353969",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "babas",
+    "basvu",
+    "esi",
+    "fahis",
+    "iade",
+    "in",
+    "kazan",
+    "sanda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2b460da53e8f"
+  },
+  "f3eeb7def139": {
+   "id": "f3eeb7def139",
+   "kaynak": "Hürriyet",
+   "baslik": "Müebbette en önemli delil Ulu’nun ifadesi",
+   "ozet": "Yalova'da \"Güllü\" adıyla tanınan şarkıcı Gül Tut'un ölümüne ilişkin davada, kızı Tuğyan Ülkem Gülter'e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/muebbette-en-onemli-delil-ulunun-ifadesi-43353982",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "delil",
+    "ifade",
+    "muebb",
+    "nun",
+    "oneml",
+    "ulu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "687e3e78cc0d": {
+   "id": "687e3e78cc0d",
+   "kaynak": "Hürriyet",
+   "baslik": "O kemikler Gülşen’e mi ait! Dosya açıldı evi kundaklandı",
+   "ozet": "Ankara’da 17 yıl önce kaybolan Gülşen Uyar’ın 20 gün önce çıkan yangında kül olan evinin altında yapılan kazıda bulunan insan kemikleri ile ilgili DNA incelemesi sürüyor. İtfaiye raporunda yangının birden fazla noktadaki kundaklama sonucu çıktığı belirtildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/o-kemikler-gulsene-mi-ait-dosya-acildi-evi-kundaklandi-43353994",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "acild",
+    "ait",
+    "dosya",
+    "evi",
+    "gulse",
+    "kemik",
+    "kunda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b44a9a96b0b6": {
+   "id": "b44a9a96b0b6",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan ve Carney’den ‘Sıfır Atık’ ziyareti",
+   "ozet": "Cumhurbaşkanı Erdoğan’ın eşi Emine Erdoğan, Kanada Başbakanı Mark Carney’nin eşi Diana Fox Carney ile Sıfır Atık Vakfı’nı ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-ve-carneyden-sifir-atik-ziyareti-43354000",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "atik",
+    "carne",
+    "den",
+    "emine",
+    "erdog",
+    "sifir",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d4a85b049229"
+  },
+  "af40fc5e1a32": {
+   "id": "af40fc5e1a32",
+   "kaynak": "Hürriyet",
+   "baslik": "3 milyon aday için sessizlik çağrısı",
+   "ozet": "ÖSYM tarafından düzenlenen Kamu Personel Seçme Sınavı (2026-KPSS Ortaöğretim) bugün yapılacak. 2 milyon 986 bin adayın ter dökeceği sınavlar sırasında inşaatlara ara verilmesi ve korna çalınmaması gibi sessizlik çağrısı yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/3-milyon-aday-icin-sessizlik-cagrisi-43354002",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "aday",
+    "cagri",
+    "milyo",
+    "sessi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63d4bfa8c575": {
+   "id": "63d4bfa8c575",
+   "kaynak": "Hürriyet",
+   "baslik": "Interpol’ün aradığı iki kaçak İstanbul’da yakalandı",
+   "ozet": "İstanbul Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şube Müdürlüğü ekipleri, Moğolistan’daki adli makamlarca ‘uyuşturucu madde ticareti’ suçundan mavi bülten ile aranan Mandukhai Dashdemberel ve ‘hırsızlık’ suçundan kırmızı bülten ile aranan Odbayar Otgonbat isimli iki…",
+   "link": "https://www.hurriyet.com.tr/gundem/interpolun-aradigi-iki-kacak-istanbulda-yakalandi-43354012",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "aradi",
+    "iki",
+    "inter",
+    "istan",
+    "kacak",
+    "un",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "09d58d4217eb": {
+   "id": "09d58d4217eb",
+   "kaynak": "Hürriyet",
+   "baslik": "Gecekonduda yangın... 11 yaşındaki halil can verdi",
+   "ozet": "İSTANBUL Maltepe’de bulunan gecekonduda dün saat 07.00 sıralarında, henüz bilinmeyen nedenle yangın çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gecekonduda-yangin-11-yasindaki-halil-can-verdi-43354013",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "11",
+    "can",
+    "gecek",
+    "halil",
+    "verdi",
+    "yangi",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "233ef1abe510": {
+   "id": "233ef1abe510",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül soruşturması genişliyor",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından ‘suçtan kaynaklanan malvarlığı değerlerini aklama’ iddiasıyla yürütülen ‘Sarıgül’ soruşturması kapsamında dün yeni bir operasyon daha düzenlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigul-sorusturmasi-genisliyor-43354014",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "genis",
+    "sarig",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dcb45a9616be"
+  },
+  "6dc83fe80515": {
+   "id": "6dc83fe80515",
+   "kaynak": "Hürriyet",
+   "baslik": "Kızamıkta endişelendiren oran",
+   "ozet": "Türkiye’de kızamık vakalarının 3 bin seviyesine ulaşması üzerine uyarılarda bulunan Enfeksiyon Hastalıkları Derneği Başkanı Prof. Dr. Mehmet Ceyhan, aşılama oranının salgın eşiği olan yüzde 95’in altına düşerek yüzde 92’ye gerilediğini belirtti.",
+   "link": "https://www.hurriyet.com.tr/gundem/kizamikta-endiselendiren-oran-43354015",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "endis",
+    "kizam",
+    "oran"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "adad70dee1ff": {
+   "id": "adad70dee1ff",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Acil’in yarısı acil değil",
+   "ozet": "Türkiye Acil Tıp Vakfı tarafından Antalya'nın Kemer ilçesindeki bir otelde düzenlenen 6. Uluslararası Acil Tıp Kongresi'nde konuşan Prof. Dr. Şahin Çolak, sağlık hizmetlerine erişimin kolay olmasının acil servislerdeki yoğunluğun nedenlerinden biri olduğunu söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/acilin-yarisi-acil-degil-43354016",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "degil",
+    "in",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b65d02f3ac97"
+  },
+  "e5f328f38a5a": {
+   "id": "e5f328f38a5a",
+   "kaynak": "Hürriyet",
+   "baslik": "Geleceğin modacıları ödüllendirildi",
+   "ozet": "GÜNEYDOĞU Anadolu Tekstil ve Hammaddeleri İhracatçıları Birliği (GATHİB) tarafından, Ticaret Bakanlığı desteği ve Türkiye İhracatçılar Meclisi (TİM) koordinasyonuyla düzenlenen 6’ncı ‘Doku Kumaş Tasarım Yarışması’nda ödüller sahiplerini buldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/gelecegin-modacilari-odullendirildi-43354017",
+   "zaman": "2026-10-25T07:00:00+03:00",
+   "kelimeler": [
+    "gelec",
+    "modac",
+    "odull"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.10 07:16:13  13 yeni haber",
   "25.10 07:02:12  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Manifest’e rakip yeni bir kız grubu ortaya çıktı.",
   "25.10 05:46:17  1 yeni haber",
   "25.10 05:16:02  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -27645,8 +27894,7 @@
   "22.10 20:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
   "22.10 20:01:22  4 yeni haber",
   "22.10 19:48:14  4 yeni haber",
-  "22.10 19:31:05  9 yeni haber",
-  "22.10 19:01:43  2 yeni haber"
+  "22.10 19:31:05  9 yeni haber"
  ],
  "otomatik": false
 }
