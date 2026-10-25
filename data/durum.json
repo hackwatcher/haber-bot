@@ -1,90 +1,5 @@
 {
  "haberler": {
-  "10a43b77a936": {
-   "id": "10a43b77a936",
-   "kaynak": "AA",
-   "baslik": "BM, ağustostaki sel felaketinden sonra Nepal'de 4,8 milyar dolara ihtiyaç olduğunu belirtti",
-   "ozet": "BM Proje Hizmetleri Ofisi İcra Direktörü Silva, 26 Ağustos'ta meydana gelen sel felaketi nedeniyle Nepal'in toparlanması için 4,8 milyar dolara ihtiyaç olduğunu, şu ana kadar sadece 24,5 milyon dolar toplandığını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-agustostaki-sel-felaketinden-sonra-nepalde-4-8-milyar-dolara-ihtiyac-oldugunu-belirtti/4097832",
-   "zaman": "2026-10-22T23:18:11+03:00",
-   "kelimeler": [
-    "agust",
-    "belir",
-    "bm",
-    "dolar",
-    "felak",
-    "ihtiy",
-    "milya",
-    "nepal",
-    "oldug",
-    "sel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "062198313170": {
-   "id": "062198313170",
-   "kaynak": "Sözcü",
-   "baslik": "Süleymancılara operasyon: 19 kişi daha tutuklandı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/suleymancilara-yonelik-operasyonda-19-kisi-tutuklandi-p371839",
-   "zaman": "2026-10-22T23:20:58+03:00",
-   "kelimeler": [
-    "19",
-    "kisi",
-    "opera",
-    "suley",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "d030a6a4ca15": {
-   "id": "d030a6a4ca15",
-   "kaynak": "AA",
-   "baslik": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında yakalanan 19 şüpheli tutuklandı",
-   "ozet": "Ankara Cumhuriyet Başsavcılığınca yürütülen \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında gözaltına alınan 38 şüpheliden 19'u tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-yakalanan-19-supheli-tutuklandi/4097839",
-   "zaman": "2026-10-22T23:24:31+03:00",
-   "kelimeler": [
-    "19",
-    "aliha",
-    "amacl",
-    "cikar",
-    "kuris",
-    "orgut",
-    "sorus",
-    "suc",
-    "suphe",
-    "tutuk",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "77be1b956cdc"
-  },
-  "5cd506d2ccc0": {
-   "id": "5cd506d2ccc0",
-   "kaynak": "BBC Türkçe",
-   "baslik": "'Alihan Kuriş' soruşturmasında 19 kişi daha tutuklandı",
-   "ozet": "Alihan Kuriş'in liderliğinde \"çıkar amaçlı suç örgütü kurma ve örgüte üye olma\" gibi iddialarla yürütülen soruşturma kapsamında düzenlenen yeni dalga operasyonda gözaltına alınanlardan 19'u daha tutuklandı.",
-   "link": "https://www.bbc.com/turkce/articles/cjejpp92gw8o",
-   "zaman": "2026-10-22T23:28:30+03:00",
-   "kelimeler": [
-    "19",
-    "aliha",
-    "kisi",
-    "kuris",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "f430d396853d"
-  },
   "e437664cf2e0": {
    "id": "e437664cf2e0",
    "kaynak": "AA",
@@ -19718,7 +19633,10 @@
     "verme"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c58037e34a25": {
    "id": "c58037e34a25",
@@ -24391,6 +24309,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c5d94bd27755": {
+   "id": "c5d94bd27755",
+   "kaynak": "AA",
+   "baslik": "Sırbistan'daki erken genel seçimde oy kullanma işlemi sona erdi",
+   "ozet": "Sırbistan'da bugün yapılan erken genel seçimde sabah yerel saatle 07.00'de başlayan oy kullanma işleminin sona erdiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistandaki-erken-genel-secimde-oy-kullanma-islemi-sona-erdi/4100460",
+   "zaman": "2026-10-25T23:22:29+03:00",
+   "kelimeler": [
+    "daki",
+    "erdi",
+    "erken",
+    "genel",
+    "islem",
+    "kulla",
+    "oy",
+    "secim",
+    "sirbi",
+    "sona"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fa6c3eb267b5"
   }
  },
  "kayit": [
