@@ -23486,7 +23486,10 @@
     "seria"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "853653559eae": {
    "id": "853653559eae",
@@ -24231,9 +24234,54 @@
    "fb_reels_id": "1387792743134434",
    "slayt": 1,
    "kanca": "Dünyadan"
+  },
+  "153993cf7f7b": {
+   "id": "153993cf7f7b",
+   "kaynak": "AA",
+   "baslik": "İsrail'de seçim öncesi Netanyahu ile Genelkurmay Başkanı Zamir arasında İran krizi",
+   "ozet": "İsrail Başbakanı Netanyahu'nun salı günü yapılacak genel seçim öncesinde orduya İran'a karşı yeni bir saldırı talimatı verdiği ancak Genelkurmay Başkanı Zamir'in söz konusu emre ilişkin ıslak imzalı bir belge talep ederek karşı çıktığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-oncesi-netanyahu-ile-genelkurmay-baskani-zamir-arasinda-iran-krizi/4100518",
+   "zaman": "2026-10-26T01:44:39+03:00",
+   "kelimeler": [
+    "arasi",
+    "baska",
+    "genel",
+    "iran",
+    "israi",
+    "krizi",
+    "netan",
+    "onces",
+    "secim",
+    "zamir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7360307016e9": {
+   "id": "7360307016e9",
+   "kaynak": "AA",
+   "baslik": "İsrail askerleri Batı Şeria'da 1 Filistinliyi yaraladı, 5 kişiyi gözaltına aldı",
+   "ozet": "İsrail askerlerinin işgal altındaki Batı Şeria'nın farklı noktalarına düzenlediği baskınlarda 1 Filistinli yaralandı, 5 kişi gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriada-1-filistinliyi-yaraladi-5-kisiyi-gozaltina-aldi/4100520",
+   "zaman": "2026-10-26T01:52:32+03:00",
+   "kelimeler": [
+    "aldi",
+    "asker",
+    "bati",
+    "filis",
+    "gozal",
+    "israi",
+    "kisiy",
+    "seria",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4fd764686821"
   }
  },
  "kayit": [
+  "26.10 01:53:35  1 yeni haber",
   "26.10 01:32:27  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
   "26.10 01:15:58  2 yeni haber",
   "26.10 01:03:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bron",
@@ -24432,8 +24480,7 @@
   "23.10 20:31:08  3 yeni haber",
   "23.10 20:15:54  2 yeni haber",
   "23.10 20:04:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · NVIDIA'nın CEO'su Huang, Kazakistan'ın küresel bir fiziksel yapay zeka",
-  "23.10 20:01:45  5 yeni haber",
-  "23.10 20:01:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
+  "23.10 20:01:45  5 yeni haber"
  ],
  "otomatik": false
 }
