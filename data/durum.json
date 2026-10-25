@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "9bb8d8beb219": {
-   "id": "9bb8d8beb219",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD Başkanı Trump'tan İran açıklaması: Belki biraz daha ileri gidebiliriz",
-   "ozet": "ABD Başkanı Donald Trump, İran'a birçok açıdan ciddi zarar verdiklerini savunarak, \"Belki biraz daha ileri gidebiliriz.\" dedi.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-iran-aciklamasi-belki-biraz-daha-ileri-gidebiliriz-960949.html",
-   "zaman": "2026-10-23T00:33:00+03:00",
-   "kelimeler": [
-    "abd",
-    "acikl",
-    "baska",
-    "belki",
-    "biraz",
-    "gideb",
-    "ileri",
-    "iran",
-    "tan",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "312e03ff7171"
-  },
-  "6f63dd4b4ce0": {
-   "id": "6f63dd4b4ce0",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturması kapsamında 11 şüpheli tutuklandı",
-   "ozet": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda gözaltına alınan 11 şüpheli tutuklandı.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasi-kapsaminda-11-supheli-tutuklandi-960950.html",
-   "zaman": "2026-10-23T00:38:00+03:00",
-   "kelimeler": [
-    "11",
-    "fon",
-    "kapsa",
-    "sorus",
-    "suphe",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "aa06488dcfbc"
-  },
   "51761e191f6f": {
    "id": "51761e191f6f",
    "kaynak": "AA",
@@ -14135,7 +14093,8 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "4a1d2dde1c33": {
    "id": "4a1d2dde1c33",
@@ -24200,9 +24159,158 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "73c9693fc93d"
+  },
+  "c19b5b7789d4": {
+   "id": "c19b5b7789d4",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin 506'ncı kuş türü Manavgat'ta kaydedildi",
+   "ozet": "Türkiye'de bugüne kadar kaydedilen kuş türü sayısı, Antalya'nın Manavgat ilçesinde görülen çayırkoşarıyla 506'ya yükseldi.",
+   "link": "https://www.trthaber.com/haber/yasam/turkiyenin-506nci-kus-turu-manavgatta-kaydedildi-961175.html",
+   "zaman": "2026-10-26T00:24:00+03:00",
+   "kelimeler": [
+    "506",
+    "kayde",
+    "kus",
+    "manav",
+    "nci",
+    "nin",
+    "ta",
+    "turki",
+    "turu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d3271a13334d": {
+   "id": "d3271a13334d",
+   "kaynak": "AA",
+   "baslik": "Yemen'de Husilerin fırlattığı balistik füzenin düşmesi sonucu Aden kentinde şiddetli patlama meydana geldi",
+   "ozet": "Yemen'deki İran destekli Husilerin Aden kentine fırlattığı balistik füzenin hükümet güçlerine ait askeri kampın yakınlarına düşmesi sonucu şiddetli bir patlama meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-firlattigi-balistik-fuzenin-dusmesi-sonucu-aden-kentinde-siddetli-patlama-meydana-geldi/4100500",
+   "zaman": "2026-10-26T00:31:40+03:00",
+   "kelimeler": [
+    "aden",
+    "balis",
+    "dusme",
+    "firla",
+    "fuzen",
+    "geldi",
+    "husil",
+    "kenti",
+    "meyda",
+    "patla",
+    "sidde",
+    "sonuc",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "33cfa06ca2da": {
+   "id": "33cfa06ca2da",
+   "kaynak": "TRT Haber",
+   "baslik": "Sermaye piyasası soruşturmasında Gürol Sami Özer tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer tutuklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/sermaye-piyasasi-sorusturmasinda-gurol-sami-ozer-tutuklandi-961176.html",
+   "zaman": "2026-10-26T00:33:00+03:00",
+   "kelimeler": [
+    "gurol",
+    "ozer",
+    "piyas",
+    "sami",
+    "serma",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7ec438c2e98f"
+  },
+  "f15c1a0bb96f": {
+   "id": "f15c1a0bb96f",
+   "kaynak": "AA",
+   "baslik": "Sermaye piyasası işlemleri soruşturmasında Gürol Sami Özer tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmasinda-gurol-sami-ozer-tutuklandi/4100501",
+   "zaman": "2026-10-26T00:33:37+03:00",
+   "kelimeler": [
+    "gurol",
+    "islem",
+    "ozer",
+    "piyas",
+    "sami",
+    "serma",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b3365a2c079f"
+  },
+  "2ef48ceecc5f": {
+   "id": "2ef48ceecc5f",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında yeni gelişme… Eski milletvekili Ertan Aydın tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında, hakkında verilen adli kontrol kararına yapılan itiraz üzerine yeniden gözaltına alınan eski AK Parti milletvekili, araştırma ve kampanya şirketi kurucusu Ertan Aydın tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-eski-milletvekili-ertan-aydin-tutuklandi-43354830",
+   "zaman": "2026-10-26T00:37:25+03:00",
+   "kelimeler": [
+    "aydin",
+    "ertan",
+    "eski",
+    "fon",
+    "gelis",
+    "mille",
+    "sorus",
+    "tutuk",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "52e560661ca9"
+  },
+  "feff88a3be09": {
+   "id": "feff88a3be09",
+   "kaynak": "AA",
+   "baslik": "Geleceğin Türk hukukçuları uluslararası mahkemelerde tarihi duruşmaları izledi",
+   "ozet": "İstanbul, Marmara ve Boğaziçi Üniversitelerinin hukuk fakültelerinden öğrenci ve akademisyenler, \"Uluslararası Hukuk Yolculuğu Projesi\" kapsamında Avrupa'nın en önemli uluslararası yargı mercilerindeki önemli duruşmaları yerinde takip etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/gelecegin-turk-hukukculari-uluslararasi-mahkemelerde-tarihi-durusmalari-izledi/4100503",
+   "zaman": "2026-10-26T00:37:29+03:00",
+   "kelimeler": [
+    "durus",
+    "gelec",
+    "hukuk",
+    "izled",
+    "mahke",
+    "tarih",
+    "turk",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c44e9378b23c": {
+   "id": "c44e9378b23c",
+   "kaynak": "Sözcü",
+   "baslik": "Sırbistan'da Vucic seçim yenilgisini kabul etti: Kaybettik",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/sirbistan-da-yeni-donem-vucic-kaybetti-p372675",
+   "zaman": "2026-10-26T00:42:48+03:00",
+   "kelimeler": [
+    "etti",
+    "kabul",
+    "kaybe",
+    "secim",
+    "sirbi",
+    "vucic",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 00:45:59  4 yeni haber",
   "26.10 00:34:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. Eski AK Parti milletvekili Ertan Aydın",
   "26.10 00:31:18  1 yeni haber",
   "26.10 00:15:59  6 yeni haber",
@@ -24401,8 +24509,7 @@
   "23.10 19:31:13  10 yeni haber",
   "23.10 19:01:20  3 yeni haber",
   "23.10 18:46:11  4 yeni haber",
-  "23.10 18:31:13  2 yeni haber",
-  "23.10 18:16:03  12 yeni haber"
+  "23.10 18:31:13  2 yeni haber"
  ],
  "otomatik": false
 }
