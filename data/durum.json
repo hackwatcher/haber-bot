@@ -23968,8 +23968,17 @@
     "silva",
     "sonuc"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-26T08:18:37.614392+03:00",
+   "ig_id": "18102613886383569",
+   "reels_id": "18139046140724810",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1666280718534750",
+   "slayt": 6,
+   "kanca": "ARKA BAHÇE OLMAYACAĞIZ"
   },
   "19e632917a61": {
    "id": "19e632917a61",
@@ -24039,9 +24048,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0c59009df8a8": {
+   "id": "0c59009df8a8",
+   "kaynak": "NTV",
+   "baslik": "Kabine toplanıyor. Ana gündem fon soruşturması",
+   "ozet": "Cumhurbaşkanlığı Kabinesi, bugün Beştepe'de toplanacak. Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlık edeceği toplantıda ana gündem maddesi fon soruşturması olacak.",
+   "link": "https://www.ntv.com.tr/turkiye/kabine-toplaniyor-ana-gundem-fon-sorusturmasi-1747884",
+   "zaman": "2026-10-26T08:08:35+03:00",
+   "kelimeler": [
+    "ana",
+    "fon",
+    "gunde",
+    "kabin",
+    "sorus",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a4bbb658fe72"
   }
  },
  "kayit": [
+  "26.10 08:18:37  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Brezilya'da resmi olmayan sonuçlara göre seçimi kazanan Silva: Brezily",
   "26.10 08:01:39  1 yeni haber",
   "26.10 07:46:03  2 yeni haber",
   "26.10 07:16:12  9 yeni haber",
@@ -24240,8 +24269,7 @@
   "24.10 00:21:42  1 yeni haber",
   "24.10 00:16:05  3 yeni haber",
   "24.10 00:04:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tu",
-  "24.10 00:01:23  1 yeni haber",
-  "23.10 23:46:15  1 yeni haber"
+  "24.10 00:01:23  1 yeni haber"
  ],
  "otomatik": false
 }
