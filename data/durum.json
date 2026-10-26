@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "828ce42b2f00": {
-   "id": "828ce42b2f00",
-   "kaynak": "TRT Haber",
-   "baslik": "Kayseri'de trafik kazasında 3 kişi yaralandı",
-   "ozet": "Kayseri'nin Melikgazi ilçesinde yeni alınan otomobilin karıştığı trafik kazasında 3 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/kayseride-trafik-kazasinda-3-kisi-yaralandi-960953.html",
-   "zaman": "2026-10-23T03:18:00+03:00",
-   "kelimeler": [
-    "kayse",
-    "kazas",
-    "kisi",
-    "trafi",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "178b71f7f5f6": {
-   "id": "178b71f7f5f6",
-   "kaynak": "TRT Haber",
-   "baslik": "Çin'in Tibet Özerk Bölgesi'ndeki depremde 16 kişi öldü",
-   "ozet": "Çin'in Tibet Özerk Bölgesi'nde dün gece meydana gelen 7 büyüklüğündeki depremde ilk belirlemelere göre 16 kişinin hayatını kaybettiği belirtildi.",
-   "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesindeki-depremde-16-kisi-oldu-960954.html",
-   "zaman": "2026-10-23T03:31:00+03:00",
-   "kelimeler": [
-    "16",
-    "bolge",
-    "cin",
-    "depre",
-    "in",
-    "kisi",
-    "ndeki",
-    "ozerk",
-    "tibet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "866b723ef463"
-  },
   "8736dd3d3611": {
    "id": "8736dd3d3611",
    "kaynak": "TRT Haber",
@@ -24318,9 +24276,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "db06ed45f077": {
+   "id": "db06ed45f077",
+   "kaynak": "TRT Haber",
+   "baslik": "Yemen'de çatışmalar Taiz ve Lahic vilayetlerinde sürüyor",
+   "ozet": "Yemen'de hükümet güçleri ile Husiler arasında ülkenin güneybatısındaki Taiz ve Lahic vilayetlerinde çatışmalar devam ediyor.",
+   "link": "https://www.trthaber.com/haber/dunya/yemende-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor-961179.html",
+   "zaman": "2026-10-26T03:20:00+03:00",
+   "kelimeler": [
+    "catis",
+    "lahic",
+    "suruy",
+    "taiz",
+    "vilay",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 03:31:24  1 yeni haber",
   "26.10 03:16:07  1 yeni haber",
   "26.10 03:01:33  1 yeni haber",
   "26.10 02:45:56  1 yeni haber",
@@ -24519,8 +24496,7 @@
   "23.10 22:46:09  4 yeni haber",
   "23.10 22:01:35  5 yeni haber",
   "23.10 21:45:54  4 yeni haber",
-  "23.10 21:16:07  2 yeni haber",
-  "23.10 21:00:41  3 yeni haber"
+  "23.10 21:16:07  2 yeni haber"
  ],
  "otomatik": false
 }
