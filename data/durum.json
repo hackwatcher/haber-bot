@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "604444e82542": {
-   "id": "604444e82542",
-   "kaynak": "Hürriyet",
-   "baslik": "R4 dışişleri bakanlarından İstanbul'daki toplantı sonrası ortak bildiri",
-   "ozet": "Türkiye, Mısır, Pakistan ve Suudi Arabistan (R4 Grubu) dışişleri bakanları, İsrail işgalinin bölge ve ötesindeki istikrarsızlığın temel kaynağını oluşturduğunu ve İsrail politikalarının küresel kamuoyunda derin adaletsizlik hissi yarattığını bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/r4-disisleri-bakanlarindan-istanbuldaki-toplanti-sonrasi-ortak-bildiri-43352985",
-   "zaman": "2026-10-24T00:12:23+03:00",
-   "kelimeler": [
-    "bakan",
-    "bildi",
-    "daki",
-    "disis",
-    "istan",
-    "ortak",
-    "r4",
-    "sonra",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "429322b996ee"
-  },
   "3b6915afd7d2": {
    "id": "3b6915afd7d2",
    "kaynak": "AA",
@@ -49,46 +27,6 @@
    "fb_reels_id": "31146072908329938",
    "slayt": 6,
    "kanca": "HAKLARI HAYATA GEÇİRMEK"
-  },
-  "742af04b776b": {
-   "id": "742af04b776b",
-   "kaynak": "TRT Haber",
-   "baslik": "Estetik ameliyatı sırasında fenalaşan kadın hayatını kaybetti",
-   "ozet": "İstanbul'da özel bir hastanede estetik ameliyatı sırasında sağlık durumu kötüleşen 46 yaşındaki kadın hayatını kaybetti.",
-   "link": "https://www.trthaber.com/haber/turkiye/estetik-ameliyati-sirasinda-fenalasan-kadin-hayatini-kaybetti-961039.html",
-   "zaman": "2026-10-24T00:13:00+03:00",
-   "kelimeler": [
-    "ameli",
-    "estet",
-    "fenal",
-    "hayat",
-    "kadin",
-    "kaybe",
-    "siras"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5e524ad795b9": {
-   "id": "5e524ad795b9",
-   "kaynak": "TRT Haber",
-   "baslik": "Çankırı'da otomobil uçuruma yuvarlandı: 4 ölü, 1 yaralı",
-   "ozet": "Çankırı'nın Bayramören ilçesinde uçuruma yuvarlanan otomobildeki 4 kişi hayatını kaybetti, 1 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/cankirida-otomobil-ucuruma-yuvarlandi-4-olu-1-yarali-961040.html",
-   "zaman": "2026-10-24T00:16:00+03:00",
-   "kelimeler": [
-    "canki",
-    "olu",
-    "otomo",
-    "ucuru",
-    "yaral",
-    "yuvar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
   },
   "8b16ce04e3c8": {
    "id": "8b16ce04e3c8",
@@ -276,27 +214,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "ee63db87f4de": {
-   "id": "ee63db87f4de",
-   "kaynak": "AA",
-   "baslik": "ABD'nin Kanada menşeli ürünlere uyguladığı tarifelerin kapsamı değişiyor",
-   "ozet": "ABD yönetimi, 30 Ekim itibarıyla Kanada menşeli bazı ürünlere uygulanan yüzde 50 oranındaki gümrük vergilerinin kapsamından bazı makine ve kağıt ürünlerini çıkaracak, yerine belirli vanalar ve halılar gibi ürünleri dahil edecek.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-kanada-menseli-urunlere-uyguladigi-tarifelerin-kapsami-degisiyor/4099112",
-   "zaman": "2026-10-24T00:15:27+03:00",
-   "kelimeler": [
-    "abd",
-    "degis",
-    "kanad",
-    "kapsa",
-    "mense",
-    "nin",
-    "tarif",
-    "urunl",
-    "uygul"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "8776c48dba83": {
    "id": "8776c48dba83",
@@ -23586,7 +23503,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5160c2ca8b24": {
    "id": "5160c2ca8b24",
@@ -23866,7 +23786,10 @@
     "tahra"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9c905449b421": {
    "id": "9c905449b421",
@@ -23891,9 +23814,177 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "44fdc72a99f8"
+  },
+  "5ebf06da5829": {
+   "id": "5ebf06da5829",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: ABD, müzakere konusunda ciddi ise Tahran'ın 7 şartını kabul etmeli",
+   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD'nin Tahran ile ciddi müzakerelere başlayabilmesi için İran'ın belirlediği 7 şartı kabul edip uygulaması gerektiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli-961275.html",
+   "zaman": "2026-10-26T23:59:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ciddi",
+    "etmel",
+    "in",
+    "iran",
+    "ise",
+    "kabul",
+    "konus",
+    "muzak",
+    "sarti",
+    "tahra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "500a3ab58110"
+  },
+  "dd2070e1455a": {
+   "id": "dd2070e1455a",
+   "kaynak": "AA",
+   "baslik": "Suriye devlet televizyonu: Ürdün hava saldırılarında 5 sivil öldü",
+   "ozet": "Suriye'nin güneyindeki Dera ilinde, Ürdün tarafından düzenlenen hava saldırılarında beş kişinin öldüğü belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-devlet-televizyonu-urdun-hava-saldirilarinda-5-sivil-oldu/4101811",
+   "zaman": "2026-10-27T00:01:03+03:00",
+   "kelimeler": [
+    "devle",
+    "hava",
+    "saldi",
+    "sivil",
+    "suriy",
+    "telev",
+    "urdun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "664f0cd616c0": {
+   "id": "664f0cd616c0",
+   "kaynak": "AA",
+   "baslik": "Trump, Brezilya'daki seçimde \"taraf tutmadığını\" söyledi",
+   "ozet": "ABD Başkanı Donald Trump, Brezilya'da gerçekleşen son başkanlık seçiminde \"taraf tutmadığını\" ancak seçim sürecinin \"kötü bir izlenim bıraktığını\" savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-brezilyadaki-secimde-taraf-tutmadigini-soyledi/4101815",
+   "zaman": "2026-10-27T00:06:28+03:00",
+   "kelimeler": [
+    "brezi",
+    "daki",
+    "secim",
+    "soyle",
+    "taraf",
+    "trump",
+    "tutma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "27aa49236280": {
+   "id": "27aa49236280",
+   "kaynak": "XHABER",
+   "baslik": "Abdülkerim Bardakcı ve Archie Brown, kırmızı kart gördü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30380",
+   "zaman": "2026-10-27T00:06:33+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Abdülkerim Bardakcı ve Archie Brown, kırmızı kart gördü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/dHW-EydvlGwcJe0k41PXftzIU1LArIoxUFDoK5tj2etQEoq4y1PBKndcTq5RCQtpcepstuStVe6ZMeaLhfKF2oiMt_T_gsjEO-kwL_2wpyGqpU1hyIps6z7nKwwHqGPEZn6ChS6yrwWgmVET5TQqpuFenRpWjqhE-F98Su-9i7ogzFg6my7AF_oUVSdEDTNz4yT952VKH1UVq4mcTooIybBWuV0I3PdnL0ecHbWAy329-dGasgSFi_cJXGIxhQqr0tBycHktWQibB_Ske-EAZpnlx1wYOAqwaM21FqbFgB3oQdQyNwwBEWVF0eqUyMvHua1M3WQtrm0BV9GbdHBPfQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "abdul",
+    "archi",
+    "barda",
+    "brown",
+    "gordu",
+    "kart",
+    "kirmi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "212e133acff9": {
+   "id": "212e133acff9",
+   "kaynak": "AA",
+   "baslik": "Milli tenisçi Ergi Kırkın, Singapur'da şampiyon oldu",
+   "ozet": "Milli tenisçi Ergi Kırkın, Singapur'da düzenlenen M15 turnuvasının finalinde Fransız Maxime Janvier'i 2-0 yenerek profesyonel kariyerinin 16. tekler şampiyonluğunu kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-ergi-kirkin-singapurda-sampiyon-oldu/4101817",
+   "zaman": "2026-10-27T00:08:28+03:00",
+   "kelimeler": [
+    "ergi",
+    "kirki",
+    "milli",
+    "sampi",
+    "singa",
+    "tenis"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "43dca9b2c16f": {
+   "id": "43dca9b2c16f",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de yolcu uçağı terör tehdidi ihbarı üzerine havalimanına geri döndü",
+   "ozet": "ABD'de, United Airlines hava yolu şirketine ait yolcu uçağı, bir yolcunun \"terör tehdidinde\" bulunduğu ihbarı üzerine kalkıştan kısa süre sonra havalimanına geri döndü.",
+   "link": "https://www.trthaber.com/haber/guncel/abdde-yolcu-ucagi-teror-tehdidi-ihbari-uzerine-havalimanina-geri-dondu-961276.html",
+   "zaman": "2026-10-27T00:10:00+03:00",
+   "kelimeler": [
+    "abd",
+    "dondu",
+    "geri",
+    "haval",
+    "ihbar",
+    "tehdi",
+    "teror",
+    "ucagi",
+    "uzeri",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "40c6cd28f265": {
+   "id": "40c6cd28f265",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, seçimlere hile karıştıranları ihbar edenlere 1 milyon dolar ödeneceğini duyurdu",
+   "ozet": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak ara seçimlerde hile yapıldığına ilişkin ihbarda bulunanlara, hileyi yapanların tutuklanıp hüküm giymesi halinde 1 milyon dolar ödeneceğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-secimlere-hile-karistiranlari-ihbar-edenlere-1-milyon-dolar-odenecegini-duyurdu-961277.html",
+   "zaman": "2026-10-27T00:12:00+03:00",
+   "kelimeler": [
+    "dolar",
+    "duyur",
+    "edenl",
+    "hile",
+    "ihbar",
+    "karis",
+    "milyo",
+    "odene",
+    "secim",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2a713793a487"
+  },
+  "0c6b4522feca": {
+   "id": "0c6b4522feca",
+   "kaynak": "NTV",
+   "baslik": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "ozet": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095",
+   "zaman": "2026-10-27T00:15:20+03:00",
+   "kelimeler": [
+    "fon",
+    "gazet",
+    "girdi",
+    "kanun",
+    "resmi",
+    "yayim",
+    "yurur"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "27.10 00:16:16  6 yeni haber",
   "27.10 00:03:35  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · 7 gollü Karadeniz derbisinde kazanan belli oldu:",
   "27.10 00:01:24  3 yeni haber",
   "26.10 23:46:17  5 yeni haber",
@@ -24092,8 +24183,7 @@
   "24.10 16:48:11  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye, Kara Kuvvetleri Komutanlığının \"Uluslararası En İyi Askeri Uç",
   "24.10 16:31:44  1 yeni haber",
   "24.10 16:16:01  3 yeni haber",
-  "24.10 16:01:16  3 yeni haber",
-  "24.10 15:46:06  3 yeni haber"
+  "24.10 16:01:16  3 yeni haber"
  ],
  "otomatik": false
 }
