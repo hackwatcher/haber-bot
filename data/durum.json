@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "8736dd3d3611": {
-   "id": "8736dd3d3611",
-   "kaynak": "TRT Haber",
-   "baslik": "Mersin'de çatlaklar oluşan bina tahliye edildi",
-   "ozet": "Mersin'in Yenişehir ilçesinde farklı bölümlerinde çatlaklar oluştuğu tespit edilen 3 katlı binadaki vatandaşlar tahliye edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/mersinde-catlaklar-olusan-bina-tahliye-edildi-960955.html",
-   "zaman": "2026-10-23T04:07:00+03:00",
-   "kelimeler": [
-    "bina",
-    "catla",
-    "edild",
-    "mersi",
-    "olusa",
-    "tahli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ec9b35643a22": {
    "id": "ec9b35643a22",
    "kaynak": "NTV",
@@ -24294,9 +24276,67 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b5952fb61656": {
+   "id": "b5952fb61656",
+   "kaynak": "TRT Haber",
+   "baslik": "Brezilya'da Lula da Silva yeniden devlet başkanı seçildi",
+   "ozet": "Brezilya'da devlet başkanlığı seçiminin ikinci turu yapıldı. Çekişmeli geçen seçimi mevcut Devlet Başkanı Lula da Silva kazandı.",
+   "link": "https://www.trthaber.com/haber/dunya/brezilyada-lula-da-silva-yeniden-devlet-baskani-secildi-961180.html",
+   "zaman": "2026-10-26T03:53:00+03:00",
+   "kelimeler": [
+    "baska",
+    "brezi",
+    "devle",
+    "lula",
+    "secil",
+    "silva",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "22504fa97fd4": {
+   "id": "22504fa97fd4",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Mumyalar ve Viking geçitleri: Buzlar eriyince ortaya çıkan sırlar",
+   "ozet": "İklim değişikliği nedeniyle dünyada buzların erime hızı artıyor ve bu durum, binlerce yıldır mükemmel bir şekilde korunmuş antik eserleri gün yüzüne çıkarıyor.",
+   "link": "https://www.bbc.com/turkce/articles/c6j9kzj1478eo",
+   "zaman": "2026-10-26T04:01:06+03:00",
+   "kelimeler": [
+    "buzla",
+    "cikan",
+    "eriyi",
+    "gecit",
+    "mumya",
+    "ortay",
+    "sirla",
+    "vikin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2040215354d4": {
+   "id": "2040215354d4",
+   "kaynak": "TRT Haber",
+   "baslik": "Riyad'da erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad için erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/riyadda-erken-uyari-sistemi-devreye-alindi-961181.html",
+   "zaman": "2026-10-26T04:02:00+03:00",
+   "kelimeler": [
+    "alind",
+    "devre",
+    "erken",
+    "riyad",
+    "siste",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 04:16:08  3 yeni haber",
   "26.10 03:31:24  1 yeni haber",
   "26.10 03:16:07  1 yeni haber",
   "26.10 03:01:33  1 yeni haber",
@@ -24495,8 +24535,7 @@
   "23.10 23:01:20  4 yeni haber",
   "23.10 22:46:09  4 yeni haber",
   "23.10 22:01:35  5 yeni haber",
-  "23.10 21:45:54  4 yeni haber",
-  "23.10 21:16:07  2 yeni haber"
+  "23.10 21:45:54  4 yeni haber"
  ],
  "otomatik": false
 }
