@@ -24234,7 +24234,10 @@
     "tura"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "02eb4421ae39": {
    "id": "02eb4421ae39",
@@ -24276,9 +24279,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5aac6826719b": {
+   "id": "5aac6826719b",
+   "kaynak": "TRT Haber",
+   "baslik": "Bulgaristan'da seçim ikinci tura kaldı",
+   "ozet": "Bulgaristan'da düzenlenen cumhurbaşkanlığı seçimi, katılımın yüzde 50'nin altında kalması ve hiçbir aday çiftinin yüzde 50'nin üzerinde oy alamaması nedeniyle ikinci tura kaldı.",
+   "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-secim-ikinci-tura-kaldi-961178.html",
+   "zaman": "2026-10-26T02:39:00+03:00",
+   "kelimeler": [
+    "bulga",
+    "ikinc",
+    "kaldi",
+    "secim",
+    "tura"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9e9ffcbe6647"
+  },
+  "62b91a015035": {
+   "id": "62b91a015035",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Brezilya'da başa baş geçen seçim yarışını Lula önde götürüyor",
+   "ozet": "Brezilya'da görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında yarış başa baş sürüyor. Oyların yüzde 80'den fazlası sayıldı. İlk sonuçlara göre Lula, oyların yüzde 51.27'sine sahip.",
+   "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo",
+   "zaman": "2026-10-26T03:14:37+03:00",
+   "kelimeler": [
+    "bas",
+    "basa",
+    "brezi",
+    "gecen",
+    "gotur",
+    "lula",
+    "onde",
+    "secim",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 03:16:07  1 yeni haber",
   "26.10 03:01:33  1 yeni haber",
   "26.10 02:45:56  1 yeni haber",
   "26.10 02:31:25  1 yeni haber",
@@ -24477,8 +24520,7 @@
   "23.10 22:01:35  5 yeni haber",
   "23.10 21:45:54  4 yeni haber",
   "23.10 21:16:07  2 yeni haber",
-  "23.10 21:00:41  3 yeni haber",
-  "23.10 20:45:56  2 yeni haber"
+  "23.10 21:00:41  3 yeni haber"
  ],
  "otomatik": false
 }
