@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "88d8b00544a9": {
-   "id": "88d8b00544a9",
-   "kaynak": "TRT Haber",
-   "baslik": "Çin Hanedanlığı'nın devasa heykel ordusunda çarpıcı parmak izi keşfi",
-   "ozet": "Çin'deki Terakota Ordusu heykelleri üzerinde yapılan parmak izi analizi, üretimde yalnızca yetişkin erkeklerin değil, kadınların ve 15 yaş altı çocukların da çalışmış olabileceğini ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/cin-hanedanliginin-devasa-heykel-ordusunda-carpici-parmak-izi-kesfi-960963.html",
-   "zaman": "2026-10-23T07:35:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "cin",
-    "devas",
-    "haned",
-    "heyke",
-    "izi",
-    "kesfi",
-    "nin",
-    "ordus",
-    "parma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9d673338c7a2": {
-   "id": "9d673338c7a2",
-   "kaynak": "Hürriyet",
-   "baslik": "Kuvvetli yağış etkili olacak: Meteoroloji uyardı! 3 ilde sarı alarm | O bölgelerde yaşayanlar dışarı çıkarken dikkat",
-   "ozet": "Meteoroloji Genel Müdürlüğü (MGM), Marmara'nın batısı için sarı kodlu meteorolojik uyarı yayımladı. Yerel olarak kuvvetli sağanak ve gök gürültülü sağanak yağış beklenirken, 3 ilde sarı kodlu alarm verildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kuvvetli-yagis-etkili-olacak-meteoroloji-uyardi-3-ilde-sari-alarm-o-bolgelerde-yasayanlar-disari-cikarken-dikkat-43351759",
-   "zaman": "2026-10-23T07:44:00+03:00",
-   "kelimeler": [
-    "alarm",
-    "bolge",
-    "cikar",
-    "dikka",
-    "disar",
-    "etkil",
-    "ilde",
-    "kuvve",
-    "meteo",
-    "olaca",
-    "sari",
-    "uyard",
-    "yagis",
-    "yasay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f66177597e17": {
    "id": "f66177597e17",
    "kaynak": "Hürriyet",
@@ -23687,7 +23639,10 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "060eabb9dd2c": {
    "id": "060eabb9dd2c",
@@ -23991,9 +23946,82 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a22b591a21d6": {
+   "id": "a22b591a21d6",
+   "kaynak": "TRT Haber",
+   "baslik": "Brezilya'da resmi olmayan sonuçlara göre seçimi kazanan Silva: Brezilya kimsenin arka bahçesi değildir ve olmayacaktır",
+   "ozet": "Brezilya'da devlet başkanlığı seçimlerini resmi olmayan sonuçlara göre kazanan 81 yaşındaki Luiz Inacio Lula da Silva, \"Brezilya kimsenin arka bahçesi değildir ve olmayacaktır.\" ifadesini kullandı.",
+   "link": "https://www.trthaber.com/haber/dunya/brezilyada-resmi-olmayan-sonuclara-gore-secimi-kazanan-silva-brezilya-kimsenin-arka-bahcesi-degildir-ve-olmayacaktir-961185.html",
+   "zaman": "2026-10-26T07:15:00+03:00",
+   "kelimeler": [
+    "arka",
+    "bahce",
+    "brezi",
+    "degil",
+    "gore",
+    "kazan",
+    "kimse",
+    "olmay",
+    "resmi",
+    "secim",
+    "silva",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "19e632917a61": {
+   "id": "19e632917a61",
+   "kaynak": "TRT Haber",
+   "baslik": "Yemen'deki Husiler: Riyad'daki Kral Halid Havalimanı ile DoğuBatı Petrol Boru Hattı'nı hedef aldık",
+   "ozet": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'daki Uluslararası Kral Halid Havalimanı ile DoğuBatı Petrol Boru Hattı'nı hedef aldıklarını açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/yemendeki-husiler-riyaddaki-kral-halid-havalimani-ile-dogu-bati-petrol-boru-hattini-hedef-aldik-961186.html",
+   "zaman": "2026-10-26T07:27:00+03:00",
+   "kelimeler": [
+    "aldik",
+    "boru",
+    "daki",
+    "deki",
+    "dogub",
+    "halid",
+    "hatti",
+    "haval",
+    "hedef",
+    "husil",
+    "kral",
+    "ni",
+    "petro",
+    "riyad",
+    "yemen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ceeb1cf522ab"
+  },
+  "3db6b9f96123": {
+   "id": "3db6b9f96123",
+   "kaynak": "TRT Haber",
+   "baslik": "İskoçyada Mısır mumyaları sergiden kaldırıldı: Ölenlerin rızası alınamadı",
+   "ozet": "Glasgow'daki iki müze, ölen kişilerin rızasının bulunmaması ve güncellenen etik ilkeler doğrultusunda Mısır mumyalarını sergiden kaldırdı ya da ziyaretçilerin görüşüne kapattı.",
+   "link": "https://www.trthaber.com/haber/turkiye/iskocyada-misir-mumyalari-sergiden-kaldirildi-olenlerin-rizasi-alinamadi-961187.html",
+   "zaman": "2026-10-26T07:29:00+03:00",
+   "kelimeler": [
+    "alina",
+    "iskoc",
+    "kaldi",
+    "misir",
+    "mumya",
+    "olenl",
+    "rizas",
+    "sergi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 07:46:03  2 yeni haber",
   "26.10 07:16:12  9 yeni haber",
   "26.10 07:03:14  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · MS | Barcelona 1 - 2 Real Madrid",
   "26.10 06:31:22  2 yeni haber",
@@ -24192,8 +24220,7 @@
   "24.10 00:04:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tu",
   "24.10 00:01:23  1 yeni haber",
   "23.10 23:46:15  1 yeni haber",
-  "23.10 23:31:09  5 yeni haber",
-  "23.10 23:01:20  4 yeni haber"
+  "23.10 23:31:09  5 yeni haber"
  ],
  "otomatik": false
 }
