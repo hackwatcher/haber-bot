@@ -1,57 +1,5 @@
 {
  "haberler": {
-  "c63198dd3c1f": {
-   "id": "c63198dd3c1f",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu, Batı Şeria’da zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu",
-   "ozet": "İsrail askerlerinin ve Filistin topraklarını gasbeden İsraillilerin zeytin hasadını engellediği işgal altındaki Batı Şeria'da, Filistinlilere yardımcı olan 11 yabancı uyruklu aktivistin alıkonulduğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seria-da-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu/4097916",
-   "zaman": "2026-10-23T06:16:56+03:00",
-   "kelimeler": [
-    "11",
-    "aktiv",
-    "aliko",
-    "bati",
-    "eden",
-    "hasad",
-    "israi",
-    "ordus",
-    "seria",
-    "yaban",
-    "yardi",
-    "zeyti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "a5bc21e6cad8": {
-   "id": "a5bc21e6cad8",
-   "kaynak": "AA",
-   "baslik": "Arap Koalisyonu: Suudi Arabistan’da dün 11 İHA ve bir balistik füze önlendi",
-   "ozet": "Yemen'de Suudi Arabistan öncülüğündeki Arap Koalisyonu, dün, Suudi Arabistan’ın çeşitli bölgelerinde 11 insansız hava aracı (İHA) ile bir balistik füzeyi engelleyerek düşürdüğünü duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistan-da-dun-11-iha-ve-bir-balistik-fuze-onlendi/4097917",
-   "zaman": "2026-10-23T06:25:55+03:00",
-   "kelimeler": [
-    "11",
-    "arabi",
-    "arap",
-    "balis",
-    "dun",
-    "fuze",
-    "iha",
-    "koali",
-    "onlen",
-    "suudi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "37a44c9ac829": {
    "id": "37a44c9ac829",
    "kaynak": "AA",
@@ -18804,7 +18752,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "336c0ff04b9e": {
    "id": "336c0ff04b9e",
@@ -24200,7 +24150,10 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "b5952fb61656": {
    "id": "b5952fb61656",
@@ -24299,9 +24252,103 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c44e9378b23c"
+  },
+  "50e6c0def610": {
+   "id": "50e6c0def610",
+   "kaynak": "AA",
+   "baslik": "Yemen'de hükümet güçleriyle Husiler arasındaki çatışmalar Taiz ve Lahic vilayetlerinde sürüyor",
+   "ozet": "Yemen'de hükümet güçleri ile Husiler arasında ülkenin güneybatısındaki Taiz ve Lahic vilayetlerinde çatışmalar devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleriyle-husiler-arasindaki-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor/4100525",
+   "zaman": "2026-10-26T02:46:32+03:00",
+   "kelimeler": [
+    "arasi",
+    "catis",
+    "gucle",
+    "hukum",
+    "husil",
+    "lahic",
+    "suruy",
+    "taiz",
+    "vilay",
+    "yemen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "db06ed45f077"
+  },
+  "ceeb1cf522ab": {
+   "id": "ceeb1cf522ab",
+   "kaynak": "AA",
+   "baslik": "Yemen'deki Husiler: Riyad'daki Kral Halid Havalimanı ile Doğu-Batı Petrol Boru Hattı'nı hedef aldık",
+   "ozet": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'daki Uluslararası Kral Halid Havalimanı ile Doğu-Batı Petrol Boru Hattı'nı hedef aldıklarını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/live-blog/yemendeki-husiler-riyaddaki-kral-halid-havalimani-ile-dogu-bati-petrol-boru-hattini-hedef-aldik/6934",
+   "zaman": "2026-10-26T06:08:37+03:00",
+   "kelimeler": [
+    "aldik",
+    "bati",
+    "boru",
+    "daki",
+    "deki",
+    "dogu",
+    "halid",
+    "hatti",
+    "haval",
+    "hedef",
+    "husil",
+    "kral",
+    "ni",
+    "petro",
+    "riyad",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "060eabb9dd2c": {
+   "id": "060eabb9dd2c",
+   "kaynak": "TRT Haber",
+   "baslik": "GalatasarayFenerbahçe derbisinde 407. randevu bu akşam",
+   "ozet": "Galatasaray, Trendyol Süper Lig'in 9. haftasında bugün sahasında Fenerbahçe ile karşılaşacak. RAMS Park'taki derbi, saat 21.30'da başlayacak. Müsabakada hakem Atilla Karaoğlan görev yapacak.",
+   "link": "https://www.trthaber.com/haber/gundem/galatasaray-fenerbahce-derbisinde-407-randevu-bu-aksam-961184.html",
+   "zaman": "2026-10-26T06:11:00+03:00",
+   "kelimeler": [
+    "407",
+    "aksam",
+    "derbi",
+    "galat",
+    "rande"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b6ca63f5862"
+  },
+  "ea9586621713": {
+   "id": "ea9586621713",
+   "kaynak": "Hürriyet",
+   "baslik": "Acil servislerde sayı artıyor: Gripte üçlü tehdit! Belirtiler aynı, riskler farklı… Bildiklerimiz değişiyor mu?",
+   "ozet": "Havaların yavaş yavaş soğuması, sonbaharın kendini iyiden iyiye hissettirmesiyle birlikte grip sezonu da yeniden gündeme geldi. Kış aylarına yaklaşırken gözler, her yıl milyonlarca kişiyi etkileyen influenza virüslerine çevrildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/acil-servislerde-sayi-artiyor-gripte-uclu-tehdit-belirtiler-ayni-riskler-farkli-bildiklerimiz-degisiyor-mu-43339638",
+   "zaman": "2026-10-26T06:21:51+03:00",
+   "kelimeler": [
+    "artiy",
+    "ayni",
+    "belir",
+    "bildi",
+    "degis",
+    "farkl",
+    "gript",
+    "riskl",
+    "sayi",
+    "servi",
+    "tehdi",
+    "uclu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 06:31:22  2 yeni haber",
   "26.10 04:16:08  3 yeni haber",
   "26.10 03:31:24  1 yeni haber",
   "26.10 03:16:07  1 yeni haber",
@@ -24500,8 +24547,7 @@
   "23.10 23:31:09  5 yeni haber",
   "23.10 23:01:20  4 yeni haber",
   "23.10 22:46:09  4 yeni haber",
-  "23.10 22:01:35  5 yeni haber",
-  "23.10 21:45:54  4 yeni haber"
+  "23.10 22:01:35  5 yeni haber"
  ],
  "otomatik": false
 }
