@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "cb6754d4755f": {
-   "id": "cb6754d4755f",
-   "kaynak": "Hürriyet",
-   "baslik": "AK Parti Genel Sekreteri Eyyüp Kadir İnan’dan 2028 seçimleriyle ilgili önemli mesajlar",
-   "ozet": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, AK Parti Buca İlçe Danışma Meclisi Toplantısı'nda teşkilat mensuplarıyla bir araya geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-sekreteri-eyyup-kadir-inandan-2028-secimleriyle-ilgili-onemli-mesajlar-43352878",
-   "zaman": "2026-10-23T22:04:31+03:00",
-   "kelimeler": [
-    "2028",
-    "ak",
-    "dan",
-    "eyyup",
-    "genel",
-    "ilgil",
-    "inan",
-    "kadir",
-    "mesaj",
-    "oneml",
-    "parti",
-    "secim",
-    "sekre"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "15d13b6430a8": {
-   "id": "15d13b6430a8",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanlığı Senfoni Orkestrası \"Melankoli ve Gül\" konseriyle sanatseverlerle buluştu",
-   "ozet": "Cumhurbaşkanlığı Senfoni Orkestrası (CSO), Birleşmiş Milletler işbirliğiyle düzenlenen \"Melankoli ve Gül\" konserinde sanatseverlerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/cumhurbaskanligi-senfoni-orkestrasi-melankoli-ve-gul-konseriyle-sanatseverlerle-bulustu/4099018",
-   "zaman": "2026-10-23T22:14:07+03:00",
-   "kelimeler": [
-    "bulus",
-    "cumhu",
-    "gul",
-    "konse",
-    "melan",
-    "orkes",
-    "sanat",
-    "senfo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0d30104324c7": {
-   "id": "0d30104324c7",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan: Bölgesel meselelerin çözümünde sorumluluk almaya devam edeceğiz",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Türkiye'nin bölgesel meselelerin çözümünde sorumluluk almaya devam edeceklerini belirtti.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-bolgesel-meselelerin-cozumunde-sorumluluk-almaya-devam-edecegiz-961030.html",
-   "zaman": "2026-10-23T22:27:00+03:00",
-   "kelimeler": [
-    "almay",
-    "bakan",
-    "bolge",
-    "cozum",
-    "devam",
-    "edece",
-    "fidan",
-    "mesel",
-    "sorum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8707e3904956": {
    "id": "8707e3904956",
    "kaynak": "AA",
@@ -9856,7 +9790,10 @@
     "yildi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "8744920522a6": {
    "id": "8744920522a6",
@@ -23160,7 +23097,8 @@
     "sorgu"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "d2dec01230bd": {
    "id": "d2dec01230bd",
@@ -23675,7 +23613,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "AA"
    ]
   },
   "2dcd440104dd": {
@@ -23735,9 +23674,178 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6830a72d4da6"
+  },
+  "e487bac8d4f2": {
+   "id": "e487bac8d4f2",
+   "kaynak": "TRT Haber",
+   "baslik": "Beşiktaş, Başakşehir'i 2 golle geçti",
+   "ozet": "Beşiktaş, Süper Lig'in 9. haftasında İstanbul Başakşehir'i 20 yenerek puanını 18'e yükseltti.",
+   "link": "https://www.trthaber.com/haber/spor/besiktas-basaksehiri-2-golle-gecti-961265.html",
+   "zaman": "2026-10-26T21:53:00+03:00",
+   "kelimeler": [
+    "basak",
+    "besik",
+    "gecti",
+    "golle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4875cb6798e8": {
+   "id": "4875cb6798e8",
+   "kaynak": "Hürriyet",
+   "baslik": "Minibüs şarampole devrildi… 15 kişi yaralandı",
+   "ozet": "ANTALYA'nın Kumluca ilçesinde minibüsün şarampole devrildiği kazada 15 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/minibus-sarampole-devrildi-15-kisi-yaralandi-43355942",
+   "zaman": "2026-10-26T21:56:17+03:00",
+   "kelimeler": [
+    "15",
+    "devri",
+    "kisi",
+    "minib",
+    "saram",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "126d85334adf": {
+   "id": "126d85334adf",
+   "kaynak": "AA",
+   "baslik": "SPK, Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetlerini geçici olarak durdurdu",
+   "ozet": "SPK'nin Tera Portföy Yönetimi AŞ ve Pusula Portföy Yönetimi AŞ hakkında aldığı kararlar kurulun internet sitesinde yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetlerini-gecici-olarak-durdurdu/4101717",
+   "zaman": "2026-10-26T22:16:17+03:00",
+   "kelimeler": [
+    "durdu",
+    "faali",
+    "gecic",
+    "piyas",
+    "portf",
+    "pusul",
+    "serma",
+    "spk",
+    "tera",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6830a72d4da6"
+  },
+  "390353e6081e": {
+   "id": "390353e6081e",
+   "kaynak": "XHABER",
+   "baslik": "İY | Galatasaray 2-0 Fenerbahçe",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30378",
+   "zaman": "2026-10-26T22:19:43+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İY | Galatasaray 2-0 Fenerbahçe",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/GIBWPx0-ppVdUSZ_40VezaRg0jtYOugZNX7O5JI2AATvm_q0ePps17e1UZORYMmPjAcRhGqBjfAV4P-yP0V6exWkR2C6LvFHzFLu3JhE-2N3Ky0L9B33dS9vK91-SditIqPDOKTGSS8hn799Q9yq8g8qta6vDcJPNpMAss5WTjjknwKwQuc_zsYFt4DUv9oSd6_W71o2HeSqNjWuWkojnBg2bEM-KaTXhB66GizRnA-7vLp52qJE98iiV4ByJU8TzBohZ8yRJr2J3k0oI5hdB9BHCAR8_0OhIGQH7OyNfY_qYo55zPnPLY89ePUKV1Mq-1TE2U6ghffSMkqjdPgA0g.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "fener",
+    "galat",
+    "iy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6c42593db0a0"
+  },
+  "274fa0a398a6": {
+   "id": "274fa0a398a6",
+   "kaynak": "Hürriyet",
+   "baslik": "İşçilerin kaldığı konteyneri ataşe veren 2 sanığın cezası belli oldu",
+   "ozet": "Hatay'ın Antakya ilçesinde, işçilerin kaldığı konteynerin ateşe verilmesi sonucu İbrahim Yaşar’ın (19) hayatını kaybettiği, kuzeni Mehmet Ali Yaşar’ın ise ağır yaralandığı olayla ilgili davada karar çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/iscilerin-kaldigi-konteyneri-atase-veren-2-sanigin-cezasi-belli-oldu-43355953",
+   "zaman": "2026-10-26T22:21:40+03:00",
+   "kelimeler": [
+    "atase",
+    "belli",
+    "cezas",
+    "iscil",
+    "kaldi",
+    "konte",
+    "sanig",
+    "veren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4e99356d1058": {
+   "id": "4e99356d1058",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4101732",
+   "zaman": "2026-10-26T22:25:50+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "in",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "surdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b7ec7d1670aa": {
+   "id": "b7ec7d1670aa",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 26 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1748085",
+   "zaman": "2026-10-26T22:26:10+03:00",
+   "kelimeler": [
+    "2026",
+    "26",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekim",
+    "ekran",
+    "ikram",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0855e0cc19d9"
+  },
+  "4d51684d7f53": {
+   "id": "4d51684d7f53",
+   "kaynak": "AA",
+   "baslik": "AB ülkeleri, Ukrayna için 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı",
+   "ozet": "Avrupa Birliği (AB) üyesi ülkeler, Ukrayna'ya askeri destek sağlamak amacıyla Avrupa Barış Fonu (EPF) kapsamında 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasinda-anlasti/4101737",
+   "zaman": "2026-10-26T22:29:55+03:00",
+   "kelimeler": [
+    "ab",
+    "anlas",
+    "avrol",
+    "birak",
+    "fonun",
+    "milya",
+    "serbe",
+    "ukray",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 22:31:26  5 yeni haber",
   "26.10 22:01:29  4 yeni haber",
   "26.10 21:46:10  3 yeni haber",
   "26.10 21:46:10  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
@@ -23936,8 +24044,7 @@
   "24.10 15:08:53  4 yeni haber",
   "24.10 15:01:58  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)",
   "24.10 14:48:47  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan ",
-  "24.10 14:46:19  3 yeni haber",
-  "24.10 14:31:05  5 yeni haber"
+  "24.10 14:46:19  3 yeni haber"
  ],
  "otomatik": false
 }
