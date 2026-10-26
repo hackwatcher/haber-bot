@@ -1,88 +1,5 @@
 {
  "haberler": {
-  "acdd671b28b7": {
-   "id": "acdd671b28b7",
-   "kaynak": "Sözcü",
-   "baslik": "Hakkı Bulut rahatsızlandı; hastaneye kaldırıldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/hakki-bulut-rahatsizlandi-mi-saglik-durumu-nasil-p372155",
-   "zaman": "2026-10-23T22:47:28+03:00",
-   "kelimeler": [
-    "bulut",
-    "hakki",
-    "hasta",
-    "kaldi",
-    "rahat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b9a8cebeb07e": {
-   "id": "b9a8cebeb07e",
-   "kaynak": "NTV",
-   "baslik": "Adana'da film gibi adam kaçırma: Otomobilin bagajına zorla bindirdiler",
-   "ozet": "Adana’da bir grup, bir adamı zorla otomobilin bagajına bindirerek kaçırdı. O anlar vatandaşlar görüntülenirken, polis inceleme başlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-adanada-film-gibi-adam-kacirma-otomobilin-bagajina-zorla-bindirdiler-1747692",
-   "zaman": "2026-10-23T22:53:22+03:00",
-   "kelimeler": [
-    "adam",
-    "adana",
-    "bagaj",
-    "bindi",
-    "film",
-    "kacir",
-    "otomo",
-    "zorla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "909f852c9270": {
-   "id": "909f852c9270",
-   "kaynak": "NTV",
-   "baslik": "Adana'da film gibi adam kaçırma: Otomobilin bagajına zorla bindirdiler",
-   "ozet": "Adana’da bir grup, bir adamı zorla otomobilin bagajına bindirerek kaçırdı. O anlar vatandaşlar tarafından görüntülendi.",
-   "link": "https://www.ntv.com.tr/turkiye/adanada-film-gibi-adam-kacirma-otomobilin-bagajina-zorla-bindirdiler-1747691",
-   "zaman": "2026-10-23T22:53:39+03:00",
-   "kelimeler": [
-    "adam",
-    "adana",
-    "bagaj",
-    "bindi",
-    "film",
-    "kacir",
-    "otomo",
-    "zorla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b9a8cebeb07e"
-  },
-  "75e8ca72dbab": {
-   "id": "75e8ca72dbab",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda \"iki süper tanker\" mayına çarptı",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın güneyinde \"iki süper tankerin\" deniz mayınına çarptığını ve ardından patlama meydana geldiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046",
-   "zaman": "2026-10-23T22:54:18+03:00",
-   "kelimeler": [
-    "bogaz",
-    "carpt",
-    "devri",
-    "hurmu",
-    "iki",
-    "iran",
-    "mayin",
-    "muhaf",
-    "nda",
-    "ordus",
-    "super",
-    "tanke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "40897f722914": {
    "id": "40897f722914",
    "kaynak": "TRT Haber",
@@ -23869,9 +23786,27 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4e99356d1058"
+  },
+  "6170dce08061": {
+   "id": "6170dce08061",
+   "kaynak": "TRT Haber",
+   "baslik": "Elazığ'da 3 tır zincirleme kazaya karıştı",
+   "ozet": "Elazığ'da 3 tırın karıştığı zincirleme trafik kazasında ilk belirlemelere göre 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/elazigda-3-tir-zincirleme-kazaya-karisti-961269.html",
+   "zaman": "2026-10-26T22:49:00+03:00",
+   "kelimeler": [
+    "elazi",
+    "karis",
+    "kazay",
+    "tir",
+    "zinci"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "26.10 23:01:25  1 yeni haber",
   "26.10 22:46:09  1 yeni haber",
   "26.10 22:31:26  5 yeni haber",
   "26.10 22:01:29  4 yeni haber",
@@ -24070,8 +24005,7 @@
   "24.10 15:31:21  6 yeni haber",
   "24.10 15:16:07  3 yeni haber",
   "24.10 15:08:53  4 yeni haber",
-  "24.10 15:01:58  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)",
-  "24.10 14:48:47  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan "
+  "24.10 15:01:58  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)"
  ],
  "otomatik": false
 }
