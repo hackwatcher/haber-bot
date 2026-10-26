@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "599ec64ed57a": {
-   "id": "599ec64ed57a",
-   "kaynak": "Hürriyet",
-   "baslik": "Çukurova Belediye Başkanı görevden uzaklaştırıldı",
-   "ozet": "Adana İli Çukurova Belediye Başkanı Emrah Kozay, geçici bir tedbir olarak görevden uzaklaştırıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cukurova-belediye-baskani-gorevden-uzaklastirildi-43352835",
-   "zaman": "2026-10-23T20:50:00+03:00",
-   "kelimeler": [
-    "baska",
-    "beled",
-    "cukur",
-    "gorev",
-    "uzakl"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "647ac3b642df"
-  },
-  "54b72a26c7e7": {
-   "id": "54b72a26c7e7",
-   "kaynak": "AA",
-   "baslik": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
-   "ozet": "ABD merkezli teknoloji şirketi Microsoft tarafından yürütülen araştırmada, şirketin yapay zeka destekli teşhis sisteminin geçmiş vaka verilerindeki hekim sonuçlarına kıyasla 2,3 kat daha yüksek tanı doğruluğuna ulaştığı belirlendi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi/4098961",
-   "zaman": "2026-10-23T20:50:48+03:00",
-   "kelimeler": [
-    "acikl",
-    "arast",
-    "ilisk",
-    "sonuc",
-    "teshi",
-    "tibbi",
-    "yapay",
-    "yeni",
-    "zekay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "ec8189c0ace1": {
-   "id": "ec8189c0ace1",
-   "kaynak": "TRT Haber",
-   "baslik": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
-   "ozet": "Microsoft'un yapay zeka destekli teşhis sisteminin, geçmiş tıbbi vakalar üzerinde yapılan testlerde hekimlerden 2,3 kat daha yüksek tanı doğruluğuna ulaştığı belirtildi",
-   "link": "https://www.trthaber.com/haber/dunya/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi-961025.html",
-   "zaman": "2026-10-23T20:51:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "arast",
-    "ilisk",
-    "sonuc",
-    "teshi",
-    "tibbi",
-    "yapay",
-    "yeni",
-    "zekay"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "54b72a26c7e7"
-  },
-  "64450062f908": {
-   "id": "64450062f908",
-   "kaynak": "AA",
-   "baslik": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
-   "ozet": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, sade ve anlaşılır dille öğreniyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
-   "zaman": "2026-10-23T20:55:43+03:00",
-   "kelimeler": [
-    "cocuk",
-    "etkin",
-    "kesfe",
-    "umrey",
-    "uygun",
-    "yasla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f147a72815a2": {
    "id": "f147a72815a2",
    "kaynak": "AA",
@@ -23686,9 +23604,46 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "59fb69c0f9d1"
+  },
+  "5416a4773549": {
+   "id": "5416a4773549",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul Barosu Başkanı adayı Kanadoğlu hakkında resen soruşturma",
+   "ozet": "İstanbul Barosu başkanlık seçimleri sırasında baro başkanı adayı Osman Korkut Kanadoğlu'nun sarf ettiği sözler nedeniyle hakkında soruşturma başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-barosu-baskani-adayi-kanadoglu-hakkinda-resen-sorusturma-43355896",
+   "zaman": "2026-10-26T20:39:04+03:00",
+   "kelimeler": [
+    "adayi",
+    "baros",
+    "baska",
+    "hakki",
+    "istan",
+    "kanad",
+    "resen",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79c91be752ce": {
+   "id": "79c91be752ce",
+   "kaynak": "Sözcü",
+   "baslik": "Sarıgül soruşturmasında 3 tutuklama talebi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-yeni-gelisme-26-ekim-2026-p373017",
+   "zaman": "2026-10-26T20:48:55+03:00",
+   "kelimeler": [
+    "sarig",
+    "sorus",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.10 21:01:39  2 yeni haber",
   "26.10 20:49:34  2 yeni haber",
   "26.10 20:31:27  10 yeni haber",
   "26.10 19:31:20  3 yeni haber",
@@ -23887,8 +23842,7 @@
   "24.10 14:15:55  7 yeni haber",
   "24.10 14:01:28  3 yeni haber",
   "24.10 13:46:07  4 yeni haber",
-  "24.10 13:31:22  1 yeni haber",
-  "24.10 13:15:54  3 yeni haber"
+  "24.10 13:31:22  1 yeni haber"
  ],
  "otomatik": false
 }
