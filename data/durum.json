@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "9ed03d7cd162": {
-   "id": "9ed03d7cd162",
-   "kaynak": "Sözcü",
-   "baslik": "Eski SPK Daire Başkanı Erman Çete için gözaltı kararı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/erman-cete-gozalti-karari-p372161",
-   "zaman": "2026-10-23T23:21:38+03:00",
-   "kelimeler": [
-    "baska",
-    "cete",
-    "daire",
-    "erman",
-    "eski",
-    "gozal",
-    "karar",
-    "spk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "52fafbe51054": {
-   "id": "52fafbe51054",
-   "kaynak": "Sözcü",
-   "baslik": "Dehşet anları anbean kamerada! Arabanın bagajına koyup kaçırdılar",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/adanada-bir-kisiyi-otomobil-bagajina-koyup-kacirdilar-p372163",
-   "zaman": "2026-10-23T23:30:02+03:00",
-   "kelimeler": [
-    "anbea",
-    "anlar",
-    "araba",
-    "bagaj",
-    "dehse",
-    "kacir",
-    "kamer",
-    "koyup"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "08adb37f146f": {
    "id": "08adb37f146f",
    "kaynak": "XHABER",
@@ -70,29 +30,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "429322b996ee": {
-   "id": "429322b996ee",
-   "kaynak": "TRT Haber",
-   "baslik": "R4 Bakanlar Toplantısı sonrası ortak bildiri yayımlandı",
-   "ozet": "Türkiye, Mısır, Pakistan ve Suudi Arabistan R4 Grubu dışişleri bakanları bugün İstanbul'da düzenlenen toplantının ardından ortak bildiri yayımladı.",
-   "link": "https://www.trthaber.com/haber/gundem/r4-bakanlar-toplantisi-sonrasi-ortak-bildiri-yayimlandi-961034.html",
-   "zaman": "2026-10-23T23:30:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "bildi",
-    "ortak",
-    "r4",
-    "sonra",
-    "topla",
-    "yayim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ]
   },
   "9c149af7b469": {
    "id": "9c149af7b469",
@@ -10234,7 +10171,10 @@
     "iyi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "42393d229b9a": {
    "id": "42393d229b9a",
@@ -23849,6 +23789,26 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "adafcae6f66f"
+  },
+  "d312c0689aa1": {
+   "id": "d312c0689aa1",
+   "kaynak": "XHABER",
+   "baslik": "MS | Galatasaray 2 - 1 Fenerbahçe",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30379",
+   "zaman": "2026-10-26T23:24:29+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | Galatasaray 2 - 1 Fenerbahçe",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/C-ZzcSQLQ6ir5nnHJP32RWqmiHGWNhLUqe7b7WXeCJkIltjLys0_VMdzR5BIpYHvYqgRfWjDoGmw4d2RYMBRdjCA2R7H_-VLIs610-MrTO29vJpOl-TReUf-4HtcTnLeY8iaCTSBARLE3EFPB3wehnqwlA1Yy2Rd6a9xXunbtCtFEXh_fv9pU9oLYUtzMDf7KiJnIjb6EyMVHYaDrGrDhAphMZN0OYI13iNBCVjTIAPXXA6BRmG2-aX7nqXUMJMvtC-owgVItQEgkOY7jOpmYjfaX-0Qa1_LXVr3sHvdZVbj_gzEcoWHXjJcJEczIBP5YGhlSQLYbTbd3nH_yVhUnw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "fener",
+    "galat",
+    "ms"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eda792fd3cb8"
   }
  },
  "kayit": [
