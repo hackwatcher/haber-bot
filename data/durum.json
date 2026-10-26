@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "64860d18a5b7": {
-   "id": "64860d18a5b7",
-   "kaynak": "Hürriyet",
-   "baslik": "1849 sayfalık ANSET iddianamesinde yeni perde: Telefonunu sıfırla, iPhone al",
-   "ozet": "Antalya Büyükşehir Belediyesi ve iştiraki ANSET'e yönelik hazırlanan 1849 sayfalık iddianamede yer alan sanık ifadeleri ortaya çıktı.",
-   "link": "https://www.hurriyet.com.tr/gundem/1849-sayfalik-anset-iddianamesinde-yeni-perde-telefonunu-sifirla-iphone-al-43352335",
-   "zaman": "2026-10-23T14:10:04+03:00",
-   "kelimeler": [
-    "1849",
-    "al",
-    "anset",
-    "iddia",
-    "iphon",
-    "perde",
-    "sayfa",
-    "sifir",
-    "telef",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "19dd5ee61124": {
-   "id": "19dd5ee61124",
-   "kaynak": "TRT Haber",
-   "baslik": "DSÖ, ilk kez bir insanda görülen Shamonda virüsünü araştırıyor",
-   "ozet": "Dünya Sağlık Örgütü DSÖ Sözcüsü Christian Lindmeier, Fransa'da bugüne kadar hayvanlarda görülen Shamonda virüsünün ilk kez bulaştığı kişinin ölmesi üzerine araştırmaları sürdürdüklerini, halk sağlığına yönelik potansiyel riskler hakkında veri toplayan Fransız yetkililerle…",
-   "link": "https://www.trthaber.com/haber/dunya/dso-ilk-kez-bir-insanda-gorulen-shamonda-virusunu-arastiriyor-960998.html",
-   "zaman": "2026-10-23T14:13:00+03:00",
-   "kelimeler": [
-    "arast",
-    "dso",
-    "gorul",
-    "ilk",
-    "insan",
-    "kez",
-    "shamo",
-    "virus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "154eaa623471"
-  },
-  "2c420debb665": {
-   "id": "2c420debb665",
-   "kaynak": "Hürriyet",
-   "baslik": "Bağırsak enfeksiyonu nedeniyle hastaneye kaldırılmıştı: Üniversite öğrencisi hayatını kaybetti",
-   "ozet": "Trabzon Üniversitesi Yönetim Bilişim Sistemleri Bölümü 2. sınıf öğrencisi Hatice Kübra Gedik, bağırsak enfeksiyonuna bağlı olduğu belirtilen rahatsızlığı nedeniyle kaldırıldığı hastaneye hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/bagirsak-enfeksiyonu-nedeniyle-hastaneye-kaldirilmisti-universite-ogrencisi-hayatini-kaybetti-43352337",
-   "zaman": "2026-10-23T14:15:30+03:00",
-   "kelimeler": [
-    "bagir",
-    "enfek",
-    "hasta",
-    "hayat",
-    "kaldi",
-    "kaybe",
-    "neden",
-    "ogren",
-    "unive"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "fae9fe3e1389": {
    "id": "fae9fe3e1389",
    "kaynak": "TRT Haber",
@@ -21401,7 +21337,8 @@
     "tahra"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0d018a2cb2b6": {
    "id": "0d018a2cb2b6",
@@ -23253,8 +23190,17 @@
     "janda",
     "madal"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-26T14:18:51.779947+03:00",
+   "ig_id": "17978729136132318",
+   "reels_id": "18114219836233435",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2381922832581783",
+   "slayt": 5,
+   "kanca": "16 SPORCUNUN TAMAMI KAZANDI"
   },
   "4ba5370a45e5": {
    "id": "4ba5370a45e5",
@@ -23538,9 +23484,77 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1fde61327b43": {
+   "id": "1fde61327b43",
+   "kaynak": "TRT Haber",
+   "baslik": "Yunan basını: Türkiyenin yükselişi biz yalnızlaştırıyor",
+   "ozet": "Türk Savunma Sanayiinin yükselişi ve birçok ülkeyle yapılan anlaşmalar, Yunan basınında tedirginlik yaratmaya devam ediyor. Yayınlanan bir analizde, Türkiyenin yükselen gücünün Yunanistanda yalnız kalma endişesi yarattığı belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/yunan-basini-turkiyenin-yukselisi-biz-yalnizlastiriyor-961234.html",
+   "zaman": "2026-10-26T14:04:00+03:00",
+   "kelimeler": [
+    "basin",
+    "biz",
+    "turki",
+    "yalni",
+    "yukse",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b3d55d65f0c": {
+   "id": "0b3d55d65f0c",
+   "kaynak": "AA",
+   "baslik": "Hava ve deniz ambulanslarıyla 121 bin 832 vatandaşa sağlık hizmeti sunuldu",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, bugüne kadar hava ambulanslarıyla 76 bin 414, deniz ambulanslarıyla ise 45 bin 418 vatandaşa sağlık hizmeti sunduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/hava-ve-deniz-ambulanslariyla-121-bin-832-vatandasa-saglik-hizmeti-sunuldu/4101139",
+   "zaman": "2026-10-26T14:06:55+03:00",
+   "kelimeler": [
+    "121",
+    "832",
+    "ambul",
+    "bin",
+    "deniz",
+    "hava",
+    "hizme",
+    "sagli",
+    "sunul",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "65c9f42bc29f": {
+   "id": "65c9f42bc29f",
+   "kaynak": "NTV",
+   "baslik": "Mekke İttifakı'ndan Tahran ziyareti. Türkiye'yi MİT Başkanı İbrahim Kalın temsil ediyor",
+   "ozet": "Türkiye, Pakistan ve Suudi Arabistan'dan oluşan Mekke İttifakı'nın yetkilileri bugün Tahran'da. Toplantıda Türkiye'yi MİT Başkanı İbrahim Kalın temsil ediyor.",
+   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifakindan-tahran-ziyareti-turkiyeyi-mit-baskani-ibrahim-kalin-temsil-ediyor-1748004",
+   "zaman": "2026-10-26T14:08:28+03:00",
+   "kelimeler": [
+    "baska",
+    "ediyo",
+    "ibrah",
+    "ittif",
+    "kalin",
+    "mekke",
+    "mit",
+    "ndan",
+    "tahra",
+    "temsi",
+    "turki",
+    "yi",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "800ced239e4a"
   }
  },
  "kayit": [
+  "26.10 14:18:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Jandarma Gücü, İspanya'dan 101 madalya ile döndü",
+  "26.10 14:16:04  2 yeni haber",
   "26.10 14:01:39  6 yeni haber",
   "26.10 13:46:05  12 yeni haber",
   "26.10 13:16:29  5 yeni haber",
@@ -23738,9 +23752,7 @@
   "24.10 10:16:07  5 yeni haber",
   "24.10 10:03:51  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · 20 yaşında 250 yıl hapis cezasıyla karşı karşıya: \"Her şeyi eve gelen ",
   "24.10 10:01:43  2 yeni haber",
-  "24.10 09:46:15  3 yeni haber",
-  "24.10 09:31:18  1 yeni haber",
-  "24.10 09:15:57  2 yeni haber"
+  "24.10 09:46:15  3 yeni haber"
  ],
  "otomatik": false
 }
