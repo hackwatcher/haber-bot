@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "40897f722914": {
-   "id": "40897f722914",
-   "kaynak": "TRT Haber",
-   "baslik": "Adana merkezli 'kurgu trafik kazası' soruşturmasında 58 şüpheli tutuklandı",
-   "ozet": "Adana merkezli 7 ilde yürütülen \"kurgu trafik kazası\" soruşturması kapsamında gözaltına alınan 87 şüpheliden 58'i tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/adana-merkezli-kurgu-trafik-kazasi-sorusturmasinda-58-supheli-tutuklandi-961032.html",
-   "zaman": "2026-10-23T23:07:00+03:00",
-   "kelimeler": [
-    "58",
-    "adana",
-    "kazas",
-    "kurgu",
-    "merke",
-    "sorus",
-    "suphe",
-    "trafi",
-    "tutuk"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-24T01:48:44.117124+03:00",
-   "ig_id": "17906772672667627",
-   "reels_id": "18116965685046256",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1741683280235482",
-   "slayt": 6,
-   "kanca": "58 ŞÜPHELİ TUTUKLANDI"
-  },
-  "526d38db2021": {
-   "id": "526d38db2021",
-   "kaynak": "TRT Haber",
-   "baslik": "SOLOTÜRK, 29 Ekim'de Eskişehir'de gösteri uçuşu yapacak",
-   "ozet": "Türk Hava Kuvvetlerinin gösteri ekibi SOLOTÜRK, 29 Ekim Cumhuriyet Bayramı'nda Eskişehir'de gösteri uçuşu gerçekleştirecek.",
-   "link": "https://www.trthaber.com/haber/turkiye/soloturk-29-ekimde-eskisehirde-gosteri-ucusu-yapacak-961033.html",
-   "zaman": "2026-10-23T23:13:00+03:00",
-   "kelimeler": [
-    "29",
-    "ekim",
-    "eskis",
-    "goste",
-    "solot",
-    "ucusu",
-    "yapac"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9ed03d7cd162": {
    "id": "9ed03d7cd162",
    "kaynak": "Sözcü",
@@ -12401,7 +12352,8 @@
     "zorla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "120cd5c7f2de": {
    "id": "120cd5c7f2de",
@@ -23461,7 +23413,10 @@
     "tekli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6830a72d4da6": {
    "id": "6830a72d4da6",
@@ -23803,9 +23758,101 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "445da31ef017": {
+   "id": "445da31ef017",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu, işgal altındaki Doğu Kudüs'te 2 Filistinliyi yaraladı, 2 kişiyi gözaltına aldı",
+   "ozet": "İsrail ordusu, işgal altındaki Doğu Kudüs'ün kuzeyinde yer alan Kalendiya Mülteci Kampı ile güneydoğusundaki Ebu Dis beldesine düzenlediği baskınlarda 2 Filistinliyi yaraladı, 2 kişiyi de gözaltına aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-dogu-kuduste-2-filistinliyi-yaraladi-2-kisiyi-gozaltina-aldi/4101726",
+   "zaman": "2026-10-26T22:17:50+03:00",
+   "kelimeler": [
+    "aldi",
+    "altin",
+    "dogu",
+    "filis",
+    "gozal",
+    "isgal",
+    "israi",
+    "kisiy",
+    "kudus",
+    "ordus",
+    "te",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b11b49593141"
+  },
+  "10ce502dc090": {
+   "id": "10ce502dc090",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Tekin duyurdu... Türkiye ile Suudi Arabistan arasında eğitim alanında işbirliği mutabakatı imzalandı",
+   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, eğitim sistemlerinin barışa, insan haklarına ve karşılıklı dostane ilişkilere yeterince yer vermesi durumunda dünyada savaşların ve insan hakları ihlallerinin olmayacağını belirtti.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-tekin-duyurdu-turkiye-ile-suudi-arabistan-arasinda-egitim-alaninda-isbirligi-mutabakati-imzalandi-43355980",
+   "zaman": "2026-10-26T23:12:22+03:00",
+   "kelimeler": [
+    "alani",
+    "arabi",
+    "arasi",
+    "bakan",
+    "duyur",
+    "egiti",
+    "imzal",
+    "isbir",
+    "mutab",
+    "suudi",
+    "tekin",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a713793a487": {
+   "id": "2a713793a487",
+   "kaynak": "AA",
+   "baslik": "Trump, seçimlere hile karıştıranları ihbar edenlere 1 milyon dolar ödeneceğini duyurdu",
+   "ozet": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak ara seçimlerde hile yapıldığına ilişkin ihbarda bulunanlara, hileyi yapanların tutuklanıp hüküm giymesi halinde 1 milyon dolar ödeneceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-secimlere-hile-karistiranlari-ihbar-edenlere-1-milyon-dolar-odenecegini-duyurdu/4101761",
+   "zaman": "2026-10-26T23:13:50+03:00",
+   "kelimeler": [
+    "dolar",
+    "duyur",
+    "edenl",
+    "hile",
+    "ihbar",
+    "karis",
+    "milyo",
+    "odene",
+    "secim",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5160c2ca8b24": {
+   "id": "5160c2ca8b24",
+   "kaynak": "TRT Haber",
+   "baslik": "Microsoft'tan çalışanlarına gönüllü işten ayrılma teklifi",
+   "ozet": "ABD merkezli teknoloji şirketi Microsoft, ABD, Kanada, Hindistan ve Birleşik Krallık'taki belirli çalışanlarına yönelik gönüllü işten ayrılma programı başlattı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/microsofttan-calisanlarina-gonullu-isten-ayrilma-teklifi-961270.html",
+   "zaman": "2026-10-26T23:14:00+03:00",
+   "kelimeler": [
+    "ayril",
+    "calis",
+    "gonul",
+    "isten",
+    "micro",
+    "tan",
+    "tekli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "adafcae6f66f"
   }
  },
  "kayit": [
+  "26.10 23:20:52  2 yeni haber",
   "26.10 23:01:25  1 yeni haber",
   "26.10 22:46:09  1 yeni haber",
   "26.10 22:31:26  5 yeni haber",
@@ -24004,8 +24051,7 @@
   "24.10 15:46:06  3 yeni haber",
   "24.10 15:31:21  6 yeni haber",
   "24.10 15:16:07  3 yeni haber",
-  "24.10 15:08:53  4 yeni haber",
-  "24.10 15:01:58  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)"
+  "24.10 15:08:53  4 yeni haber"
  ],
  "otomatik": false
 }
