@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "23e314164b9b": {
-   "id": "23e314164b9b",
-   "kaynak": "AA",
-   "baslik": "Trump: İran'a belki küçük bir Destansı Öfke Operasyonu daha yaparız",
-   "ozet": "ABD Başkanı Donald Trump, İran'ın anlaşmaya yanaşmaması durumunda \"küçük bir Destansı Öfke Operasyonu daha\" düzenleyebileceklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz/4099126",
-   "zaman": "2026-10-24T00:37:37+03:00",
-   "kelimeler": [
-    "belki",
-    "desta",
-    "iran",
-    "kucuk",
-    "ofke",
-    "opera",
-    "trump",
-    "yapar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "94ad82309b3f": {
-   "id": "94ad82309b3f",
-   "kaynak": "Sözcü",
-   "baslik": "36 yaşındaki Ayşe ve kızı Meryem'den geriye bu acı fotoğraf kaldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/36-yasindaki-ayse-ve-kizi-meryem-den-geriye-bu-aci-fotograf-kaldi-p372179",
-   "zaman": "2026-10-24T00:38:38+03:00",
-   "kelimeler": [
-    "36",
-    "aci",
-    "ayse",
-    "den",
-    "fotog",
-    "geriy",
-    "kaldi",
-    "kizi",
-    "merye",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8730cd358231": {
-   "id": "8730cd358231",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump: İran'a Belki küçük bir Destansı Öfke Operasyonu daha yaparız",
-   "ozet": "ABD Başkanı Donald Trump, İran'ın anlaşmaya yanaşmaması durumunda \"küçük bir Destansı Öfke Operasyonu daha\" düzenleyebileceklerini belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz-961043.html",
-   "zaman": "2026-10-24T00:39:00+03:00",
-   "kelimeler": [
-    "belki",
-    "desta",
-    "iran",
-    "kucuk",
-    "ofke",
-    "opera",
-    "trump",
-    "yapar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "23e314164b9b"
-  },
   "84cbaf75b069": {
    "id": "84cbaf75b069",
    "kaynak": "BBC Türkçe",
@@ -23646,7 +23580,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "cfcc2f186997": {
    "id": "cfcc2f186997",
@@ -23917,9 +23854,67 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "0c6b4522feca"
+  },
+  "1b0b0c159fb3": {
+   "id": "1b0b0c159fb3",
+   "kaynak": "AA",
+   "baslik": "Milli eskrimcilerden Cezayir'de altın madalya",
+   "ozet": "Gençler ve Yıldızlar Kılıç Eskrim Dünya Kupası'nın Cezayir'deki ayağına katılan Türk sporcular takım halinde şampiyon oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-eskrimcilerden-cezayirde-altin-madalya/4101825",
+   "zaman": "2026-10-27T00:22:03+03:00",
+   "kelimeler": [
+    "altin",
+    "cezay",
+    "eskri",
+    "madal",
+    "milli"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "60b69ff88775": {
+   "id": "60b69ff88775",
+   "kaynak": "AA",
+   "baslik": "ESDER'in \"Uluslararası El Sanatları Projesi\"nin gala programı gerçekleştirildi",
+   "ozet": "Esnaf ve Sanatkarlar Derneğinin (ESDER) \"Uluslararası El Sanatları Projesi\" gala programı Ankara'da gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/esderin-uluslararasi-el-sanatlari-projesinin-gala-programi-gerceklestirildi/4101829",
+   "zaman": "2026-10-27T00:34:46+03:00",
+   "kelimeler": [
+    "el",
+    "esder",
+    "gala",
+    "gerce",
+    "in",
+    "nin",
+    "progr",
+    "proje",
+    "sanat",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1c5932dea0a": {
+   "id": "f1c5932dea0a",
+   "kaynak": "NTV",
+   "baslik": "BUDO'nun 8 seferi iptal edildi",
+   "ozet": "Bugün beklenen kuvvetli yağış nedeniyle BUDO'nun 8 seferi iptal edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/budonun-8-seferi-iptal-edildi-1748097",
+   "zaman": "2026-10-27T00:36:16+03:00",
+   "kelimeler": [
+    "budo",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fc9b07269006"
   }
  },
  "kayit": [
+  "27.10 00:46:10  2 yeni haber",
   "27.10 00:34:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
   "27.10 00:16:16  6 yeni haber",
   "27.10 00:03:35  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · 7 gollü Karadeniz derbisinde kazanan belli oldu:",
@@ -24118,8 +24113,7 @@
   "24.10 17:16:16  4 yeni haber",
   "24.10 17:01:14  3 yeni haber",
   "24.10 16:48:11  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye, Kara Kuvvetleri Komutanlığının \"Uluslararası En İyi Askeri Uç",
-  "24.10 16:31:44  1 yeni haber",
-  "24.10 16:16:01  3 yeni haber"
+  "24.10 16:31:44  1 yeni haber"
  ],
  "otomatik": false
 }
