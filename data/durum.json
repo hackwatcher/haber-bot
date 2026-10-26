@@ -20489,7 +20489,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ea0529cc7acc": {
    "id": "ea0529cc7acc",
@@ -24333,6 +24336,24 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2490db6c2ef3": {
+   "id": "2490db6c2ef3",
+   "kaynak": "TRT Haber",
+   "baslik": "Kabine yoğun gündemle Beştepe'de toplanacak",
+   "ozet": "Kabine, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında Beştepe'de toplanacak. Fon piyasalarında yaşanan gelişmeler kapsamında atılan adımlar toplantının öncelikli gündemi olacak.",
+   "link": "https://www.trthaber.com/haber/gundem/kabine-yogun-gundemle-bestepede-toplanacak-961182.html",
+   "zaman": "2026-10-26T04:04:00+03:00",
+   "kelimeler": [
+    "beste",
+    "gunde",
+    "kabin",
+    "topla",
+    "yogun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a4bbb658fe72"
   }
  },
  "kayit": [
