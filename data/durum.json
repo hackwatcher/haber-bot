@@ -1,31 +1,5 @@
 {
  "haberler": {
-  "8707e3904956": {
-   "id": "8707e3904956",
-   "kaynak": "AA",
-   "baslik": "Irak Başbakanı Zeydi: Kalkınma Yolu Projesi’nin temel atma töreni için Cumhurbaşkanı Erdoğan’ı davet edeceğiz",
-   "ozet": "Irak Başbakanı Zeydi, Kalkınma Yolu Projesi’nin temel atma töreni için Cumhurbaşkanı Recep Tayyip Erdoğan’ı davet edeceklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydi-kalkinma-yolu-projesi-nin-temel-atma-toreni-icin-cumhurbaskani-erdogan-i-davet-edecegiz/4099039",
-   "zaman": "2026-10-23T22:45:15+03:00",
-   "kelimeler": [
-    "atma",
-    "basba",
-    "cumhu",
-    "davet",
-    "edece",
-    "erdog",
-    "irak",
-    "kalki",
-    "nin",
-    "proje",
-    "temel",
-    "toren",
-    "yolu",
-    "zeydi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "acdd671b28b7": {
    "id": "acdd671b28b7",
    "kaynak": "Sözcü",
@@ -105,26 +79,6 @@
     "ordus",
     "super",
     "tanke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "847324e77b83": {
-   "id": "847324e77b83",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi: Lüksemburg makamlarıyla çok boyutlu iş birliğine hazırız",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler ile görüşmesinde \"Suriyede barınma, istihdam ve gönüllü geri dönüşler sonrası diğer çalışmalar kapsamında Lüksemburg makamları ile çok boyutlu iş birliğine de hazır olduğumuzu ifade etmek…",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-luksemburg-makamlariyla-cok-boyutlu-is-birligine-haziriz-961031.html",
-   "zaman": "2026-10-23T22:40:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "birli",
-    "boyut",
-    "ciftc",
-    "hazir",
-    "is",
-    "lukse",
-    "makam"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -23614,7 +23568,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Sözcü",
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "2dcd440104dd": {
@@ -23791,7 +23746,10 @@
     "surdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b7ec7d1670aa": {
    "id": "b7ec7d1670aa",
@@ -23842,9 +23800,79 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7d4ba01dca55": {
+   "id": "7d4ba01dca55",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail, kuşattığı El Halil'de Filistinli aileye evinden çıkması için sadece yarım saat verdi",
+   "ozet": "İşgalci İsrail ordusunun, dört gündür kuşattığı Batı Şeria'nın El Halil kentinde ikamet eden Filistinli Macide Şuveyki, İsrail askerlerinin, evlerinden ayrılmaları için sadece yarım saat süre tanıdığını belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-kusattigi-el-halilde-filistinli-aileye-evinden-cikmasi-icin-sadece-yarim-saat-verdi-961267.html",
+   "zaman": "2026-10-26T22:05:00+03:00",
+   "kelimeler": [
+    "ailey",
+    "cikma",
+    "el",
+    "evind",
+    "filis",
+    "halil",
+    "isgal",
+    "israi",
+    "kusat",
+    "saat",
+    "sadec",
+    "verdi",
+    "yarim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1b471ce35e8": {
+   "id": "f1b471ce35e8",
+   "kaynak": "TRT Haber",
+   "baslik": "Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetleri durduruldu",
+   "ozet": "SPK, Tera Portföy Yönetimi AŞ ve Pusula Portföy Yönetimi AŞ'nin sermaye piyasası faaliyetlerini geçici olarak durdurma ve bu şirketlerin kurucusu olduğu fonların tasfiye işlemlerini yürütmek üzere bankaları görevlendirme kararı aldı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetleri-durduruldu-961266.html",
+   "zaman": "2026-10-26T22:18:00+03:00",
+   "kelimeler": [
+    "durdu",
+    "faali",
+    "piyas",
+    "portf",
+    "pusul",
+    "serma",
+    "tera",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6830a72d4da6"
+  },
+  "26a8cc2cdb4e": {
+   "id": "26a8cc2cdb4e",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+   "ozet": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-961268.html",
+   "zaman": "2026-10-26T22:27:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "in",
+    "isgal",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "surdu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4e99356d1058"
   }
  },
  "kayit": [
+  "26.10 22:46:09  1 yeni haber",
   "26.10 22:31:26  5 yeni haber",
   "26.10 22:01:29  4 yeni haber",
   "26.10 21:46:10  3 yeni haber",
@@ -24043,8 +24071,7 @@
   "24.10 15:16:07  3 yeni haber",
   "24.10 15:08:53  4 yeni haber",
   "24.10 15:01:58  Akış okunamadı: AA: HTTPSConnectionPool(host='www.aa.com.tr', port=443): Read timed out. (read timeout=20)",
-  "24.10 14:48:47  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan ",
-  "24.10 14:46:19  3 yeni haber"
+  "24.10 14:48:47  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında 15 tutuklama daha: Aralarında Taha Çakmak ve İnan "
  ],
  "otomatik": false
 }
