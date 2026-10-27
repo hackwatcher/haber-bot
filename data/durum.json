@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "4fe9aca55879": {
-   "id": "4fe9aca55879",
-   "kaynak": "AA",
-   "baslik": "İsrail'in kuşattığı El Halil'de Filistinlilerin çıkarıldığı evler askeri mevzilere dönüştürülüyor",
-   "ozet": "İsrail ordusunun işgal altındaki Batı Şeria'nın El Halil kentinde başlattığı saldırılar, Filistinlilerin evlerinden zorla çıkarılması, konutların askeri mevzilere dönüştürülmesi ve hareket özgürlüklerinin kısıtlanmasıyla insani krizi derinleştiriyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-el-halilde-filistinlilerin-cikarildigi-evler-askeri-mevzilere-donusturuluyor/4099817",
-   "zaman": "2026-10-24T21:31:06+03:00",
-   "kelimeler": [
-    "asker",
-    "cikar",
-    "donus",
-    "el",
-    "evler",
-    "filis",
-    "halil",
-    "in",
-    "israi",
-    "kusat",
-    "mevzi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "5d5066f4abf1": {
    "id": "5d5066f4abf1",
    "kaynak": "NTV",
@@ -27180,7 +27156,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "4b506d76ec81": {
@@ -27361,9 +27338,52 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fc762976519b": {
+   "id": "fc762976519b",
+   "kaynak": "TRT Haber",
+   "baslik": "ASELSAN'ın cirosu 9 ayda 151,5 milyar liraya yükseldi",
+   "ozet": "ASELSAN, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı. 9 ayda 14 milyar dolarlık yeni iş alırken yeni ihracat sözleşmelerini yüzde 34 artırarak 1,9 milyar dolara çıkardı.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/aselsanin-cirosu-9-ayda-1515-milyar-liraya-yukseldi-961402.html",
+   "zaman": "2026-10-27T21:16:00+03:00",
+   "kelimeler": [
+    "151",
+    "asels",
+    "ayda",
+    "ciros",
+    "in",
+    "liray",
+    "milya",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "acdce987f5bc"
+  },
+  "9725210dfb8f": {
+   "id": "9725210dfb8f",
+   "kaynak": "AA",
+   "baslik": "Yemen ordusu: Babulmendeb Boğazı'nda stratejik noktalarda kontrol sağlandı",
+   "ozet": "Yemen ordusu, ülkenin güneybatısındaki Taiz vilayeti sınırlarında yer alan Babulmendeb Boğazı'nda stratejik noktaların kontrolünü sağladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-babulmendeb-bogazinda-stratejik-noktalarda-kontrol-saglandi/4102968",
+   "zaman": "2026-10-27T21:18:01+03:00",
+   "kelimeler": [
+    "babul",
+    "bogaz",
+    "kontr",
+    "nda",
+    "nokta",
+    "ordus",
+    "sagla",
+    "strat",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 21:31:21  1 yeni haber",
   "27.10 21:19:35  4 yeni haber",
   "27.10 21:01:25  7 yeni haber",
   "27.10 20:34:25  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | İsmail Kartal, istifa talebini yönetime iletti.",
@@ -27562,8 +27582,7 @@
   "25.10 13:15:52  3 yeni haber",
   "25.10 13:01:34  4 yeni haber",
   "25.10 12:48:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Balkondan yan binanın çatısına geçmişti: Tenteye basınca metrelerce yü",
-  "25.10 12:46:08  5 yeni haber",
-  "25.10 12:31:12  5 yeni haber"
+  "25.10 12:46:08  5 yeni haber"
  ],
  "otomatik": false
 }
