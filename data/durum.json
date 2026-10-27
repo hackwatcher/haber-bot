@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "716e8b387870": {
-   "id": "716e8b387870",
-   "kaynak": "AA",
-   "baslik": "Dünya Güreş Birliğinde başkanlığa yeniden Lalovic seçildi",
-   "ozet": "Dünya Güreş Birliğinin (UWW) genel kurulunda Nenad Lalovic, başkanlık görevine yeniden getirildi.",
-   "link": "https://www.aa.com.tr/tr/dunyadan-spor/dunya-gures-birliginde-baskanliga-yeniden-lalovic-secildi/4099218",
-   "zaman": "2026-10-24T10:25:54+03:00",
-   "kelimeler": [
-    "baska",
-    "birli",
-    "dunya",
-    "gures",
-    "lalov",
-    "secil",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "76565b9ccf8d": {
-   "id": "76565b9ccf8d",
-   "kaynak": "Hürriyet",
-   "baslik": "Ziya Gökalp'in fikrî mirası doğumunun 150. yılında Milli Kütüphane'de sergileniyor",
-   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Ziya Gökalp’in doğumunun 150. yılında hazırlanan “Millî Kütüphane Hazineleri: Ziya Gökalp Sergisi ve Paneli”ne katıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ziya-gokalpin-fikri-mirasi-dogumunun-150-yilinda-milli-kutuphanede-sergileniyor-43353143",
-   "zaman": "2026-10-24T10:28:00+03:00",
-   "kelimeler": [
-    "150",
-    "dogum",
-    "fikri",
-    "gokal",
-    "in",
-    "kutup",
-    "milli",
-    "miras",
-    "sergi",
-    "yilin",
-    "ziya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "ed5e14c2335f": {
-   "id": "ed5e14c2335f",
-   "kaynak": "AA",
-   "baslik": "Türkiye, Ürdün'de kiliseye düzenlenen saldırıyı şiddetle kınadı",
-   "ozet": "Dışişleri Bakanlığı, Ürdün'ün Kerek kentindeki bir kiliseye düzenlenen silahlı saldırıyı şiddetle kınadı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-urdunde-kiliseye-duzenlenen-saldiriyi-siddetle-kinadi/4099219",
-   "zaman": "2026-10-24T10:30:42+03:00",
-   "kelimeler": [
-    "duzen",
-    "kilis",
-    "kinad",
-    "saldi",
-    "sidde",
-    "turki",
-    "urdun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "3d0047740ad7": {
    "id": "3d0047740ad7",
    "kaynak": "AA",
@@ -1059,31 +992,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a38d45ea6c29"
-  },
-  "8ecd24f8e851": {
-   "id": "8ecd24f8e851",
-   "kaynak": "TRT Haber",
-   "baslik": "Emine Erdoğan, Kanada Başbakanı'nın eşi Carney ile Sıfır Atık Vakfını ziyaret etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Kanada Başbakanı Mark Carney'nin eşi Diana Fox Carney ile Sıfır Atık Vakfını ziyaret etti.",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-kanada-basbakaninin-esi-carney-ile-sifir-atik-vakfini-ziyaret-etti-961055.html",
-   "zaman": "2026-10-24T10:19:00+03:00",
-   "kelimeler": [
-    "atik",
-    "basba",
-    "carne",
-    "emine",
-    "erdog",
-    "esi",
-    "etti",
-    "kanad",
-    "nin",
-    "sifir",
-    "vakfi",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d4a85b049229"
   },
   "13c351f8a59a": {
    "id": "13c351f8a59a",
@@ -22512,7 +22420,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "619c5a921394": {
@@ -24309,7 +24218,8 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e747e90253a7": {
    "id": "e747e90253a7",
@@ -24668,7 +24578,10 @@
     "rakam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "66e062eef672": {
    "id": "66e062eef672",
@@ -24691,7 +24604,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "7646addbf7c3": {
@@ -24911,9 +24825,169 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5e47af324d60": {
+   "id": "5e47af324d60",
+   "kaynak": "TRT Haber",
+   "baslik": "Yatırım fonlarında tasfiye kuralları belirlendi",
+   "ozet": "Sermaye Piyasası Kurulu SPK tarafından tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "link": "https://www.trthaber.com/haber/gundem/yatirim-fonlarinda-tasfiye-kurallari-belirlendi-961293.html",
+   "zaman": "2026-10-27T07:52:00+03:00",
+   "kelimeler": [
+    "belir",
+    "fonla",
+    "kural",
+    "tasfi",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c62f9044bbe4"
+  },
+  "b48aab800696": {
+   "id": "b48aab800696",
+   "kaynak": "TRT Haber",
+   "baslik": "Kırıkkale'de işçileri taşıyan midibüs devrildi: 15 yaralı",
+   "ozet": "Kırıkkale'de işçileri taşıyan midibüsün devrilmesi sonucu 1'i ağır 15 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kirikkalede-iscileri-tasiyan-midibus-devrildi-15-yarali-961305.html",
+   "zaman": "2026-10-27T09:31:00+03:00",
+   "kelimeler": [
+    "15",
+    "devri",
+    "iscil",
+    "kirik",
+    "midib",
+    "tasiy",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "095f23c9b853"
+  },
+  "bfacc4de581b": {
+   "id": "bfacc4de581b",
+   "kaynak": "TRT Haber",
+   "baslik": "3 il merkezli yasa dışı bahis ve suç örgütü operasyonu: 150 gözaltı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Ankara, İstanbul ve Edirne cumhuriyet başsavcılıklarının koordinesinde yasa dışı bahis ve organize suç örgütlerine yönelik yürütülen 3 ayrı soruşturma kapsamında düzenlenen operasyonlarda 150 şüphelinin gözaltına alındığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/3-il-merkezli-yasa-disi-bahis-ve-suc-orgutu-operasyonu-150-gozalti-961315.html",
+   "zaman": "2026-10-27T10:06:00+03:00",
+   "kelimeler": [
+    "150",
+    "bahis",
+    "disi",
+    "gozal",
+    "il",
+    "merke",
+    "opera",
+    "orgut",
+    "suc",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd6d12f5d7af": {
+   "id": "fd6d12f5d7af",
+   "kaynak": "AA",
+   "baslik": "Organize suç örgütlerine bu yıl 1741 operasyon düzenlendi",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, bu yıl 625 organize suç örgütüne yönelik 1741 operasyon gerçekleştirildiğini ve 8 bini aşkın şüphelinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/organize-suc-orgutlerine-bu-yil-1741-operasyon-duzenlendi/4101978",
+   "zaman": "2026-10-27T10:11:51+03:00",
+   "kelimeler": [
+    "1741",
+    "duzen",
+    "opera",
+    "organ",
+    "orgut",
+    "suc",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "66e062eef672"
+  },
+  "aac2fd30a29a": {
+   "id": "aac2fd30a29a",
+   "kaynak": "TRT Haber",
+   "baslik": "Kurgu kazalar için kiralık şoförler kullanmışlar",
+   "ozet": "Adana merkezli 7 ilde yürütülen \"kurgu trafik kazaları\" soruşturmasında suç örgütünün kiralık şoförler de kullanarak sigorta şirketlerinden yaklaşık 15 milyon lira haksız tazminat temin ettiği belirlendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/kurgu-kazalar-icin-kiralik-soforler-kullanmislar-961316.html",
+   "zaman": "2026-10-27T10:14:00+03:00",
+   "kelimeler": [
+    "kazal",
+    "kiral",
+    "kulla",
+    "kurgu",
+    "sofor"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "175022608768": {
+   "id": "175022608768",
+   "kaynak": "AA",
+   "baslik": "İşsizlik rakamları açıklandı",
+   "ozet": "Türkiye'de işsizlik oranı, eylülde bir önceki aya göre 0,5 puan artarak yüzde 8,4 olarak gerçekleşti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/issizlik-rakamlari-aciklandi/4101984",
+   "zaman": "2026-10-27T10:16:21+03:00",
+   "kelimeler": [
+    "acikl",
+    "issiz",
+    "rakam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f90686a1c65a"
+  },
+  "a9fefddc9de2": {
+   "id": "a9fefddc9de2",
+   "kaynak": "AA",
+   "baslik": "Suç örgütü, \"kurgu trafik kazaları\" için kiralık şoför kullanmış",
+   "ozet": "Adana merkezli 7 ilde yürütülen \"kurgu trafik kazaları\" soruşturmasında suç örgütünün kiralık şoförler de kullanarak sigorta şirketlerinden yaklaşık 15 milyon lira haksız tazminat temin ettiği belirlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/suc-orgutu-kurgu-trafik-kazalari-icin-kiralik-sofor-kullanmis/4101987",
+   "zaman": "2026-10-27T10:17:10+03:00",
+   "kelimeler": [
+    "kazal",
+    "kiral",
+    "kulla",
+    "kurgu",
+    "orgut",
+    "sofor",
+    "suc",
+    "trafi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "aac2fd30a29a"
+  },
+  "a82751f0f4fc": {
+   "id": "a82751f0f4fc",
+   "kaynak": "Hürriyet",
+   "baslik": "'Pes' dedirten vurgunda dikkat çeken detay: Kiralık sürücü kullanmışlar",
+   "ozet": "Kurgu trafik kazalarıyla sigorta şirketlerini dolandıran şebekeye operasyon düzenlenmiş ve 56 kişi çıkarıldıkları mahkemece tutuklanmıştı. 'Pes' dedirten vurgunda dikkat çeken detaylar ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/pes-dedirten-vurgunda-dikkat-ceken-detay-kiralik-surucu-kullanmislar-43356276",
+   "zaman": "2026-10-27T10:23:31+03:00",
+   "kelimeler": [
+    "ceken",
+    "dedir",
+    "detay",
+    "dikka",
+    "kiral",
+    "kulla",
+    "pes",
+    "suruc",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "27.10 10:31:20  3 yeni haber",
+  "27.10 10:31:20  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "27.10 10:16:04  10 yeni haber",
   "27.10 10:01:30  4 yeni haber",
   "27.10 09:48:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · DOSYA: Avrupa'nın Futbol Şöleni Başlıyor",
@@ -25111,9 +25185,7 @@
   "24.10 23:16:10  2 yeni haber",
   "24.10 23:01:41  1 yeni haber",
   "24.10 22:45:57  2 yeni haber",
-  "24.10 22:31:14  1 yeni haber",
-  "24.10 22:16:12  2 yeni haber",
-  "24.10 22:01:28  1 yeni haber"
+  "24.10 22:31:14  1 yeni haber"
  ],
  "otomatik": false
 }
