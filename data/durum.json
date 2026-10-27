@@ -1,108 +1,5 @@
 {
  "haberler": {
-  "334e488f90f3": {
-   "id": "334e488f90f3",
-   "kaynak": "NTV",
-   "baslik": "Fatih'te denizde erkek cesedi bulundu",
-   "ozet": "Fatih Cibali Sahili'nde, deniz polisi ekiplerince bir erkek cesedi bulundu. Kimliği tespit edilemeyen cenaze, Adli Tıp Kurumu morguna kaldırıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/fatihte-denizde-erkek-cesedi-bulundu-1747809",
-   "zaman": "2026-10-24T18:34:57+03:00",
-   "kelimeler": [
-    "bulun",
-    "cesed",
-    "deniz",
-    "erkek",
-    "fatih",
-    "te"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fc9e672d040b": {
-   "id": "fc9e672d040b",
-   "kaynak": "AA",
-   "baslik": "Ambarlı Liman Kompleksi'nde 9 ayda 1,4 milyon konteynerin gümrük işlemleri yapıldı",
-   "ozet": "Ticaret Bakanı Ömer Bolat, Ambarlı Liman Kompleksi'nde bu yılın 9 ayında 1,4 milyon konteynerin ve 58 bin geminin gümrük işlemlerinin gerçekleştirildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ambarli-liman-kompleksinde-9-ayda-1-4-milyon-konteynerin-gumruk-islemleri-yapildi/4099704",
-   "zaman": "2026-10-24T18:36:16+03:00",
-   "kelimeler": [
-    "ambar",
-    "ayda",
-    "gumru",
-    "islem",
-    "kompl",
-    "konte",
-    "liman",
-    "milyo",
-    "nde",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c09180e523ca": {
-   "id": "c09180e523ca",
-   "kaynak": "AA",
-   "baslik": "İçişleri Bakanı Çiftçi'den KPSS tedbirlerine ilişkin açıklama",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Kamu Personel Seçme Sınavı (KPSS Ortaöğretim) kapsamında 32 bin 601 emniyet, 3 bin 143 jandarma personelinin sınav güvenliği için görev yapacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kpss-tedbirlerine-iliskin-aciklama/4099705",
-   "zaman": "2026-10-24T18:39:46+03:00",
-   "kelimeler": [
-    "acikl",
-    "bakan",
-    "ciftc",
-    "den",
-    "icisl",
-    "ilisk",
-    "kpss",
-    "tedbi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "416a7daccd4a": {
-   "id": "416a7daccd4a",
-   "kaynak": "NTV",
-   "baslik": "Zonguldak'taki maden ocağında patlamaya ilişkin 3 kişi tutuklandı",
-   "ozet": "Zonguldak'ta 3 işçinin hayatını kaybettiği maden ocağındaki patlamaya ilişkin üç kişi tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/zonguldaktaki-maden-ocaginda-patlama-3-kisi-tutuklandi-1747810",
-   "zaman": "2026-10-24T18:43:44+03:00",
-   "kelimeler": [
-    "ilisk",
-    "kisi",
-    "maden",
-    "ocagi",
-    "patla",
-    "taki",
-    "tutuk",
-    "zongu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "ed513054d583"
-  },
-  "63d0803ea4ed": {
-   "id": "63d0803ea4ed",
-   "kaynak": "Hürriyet",
-   "baslik": "Tarım ve Orman Bakanı Yumaklı, Kastamonu'nun sahil ilçelerini ziyaret etti",
-   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Kastamonu'nun Abana, Bozkurt ve Çatalzeytin ilçelerinde ziyaretler gerçekleştirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/tarim-ve-orman-bakani-yumakli-kastamonunun-sahil-ilcelerini-ziyaret-etti-43353783",
-   "zaman": "2026-10-24T18:43:24+03:00",
-   "kelimeler": [
-    "bakan",
-    "etti",
-    "ilcel",
-    "kasta",
-    "nun",
-    "orman",
-    "sahil",
-    "tarim",
-    "yumak",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a2641f486d28": {
    "id": "a2641f486d28",
    "kaynak": "Sözcü",
@@ -9389,7 +9286,10 @@
     "yasas"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "43f3ff0a01f3": {
    "id": "43f3ff0a01f3",
@@ -15857,7 +15757,8 @@
    "fb_id": null,
    "fb_reels_id": "1089492557043483",
    "slayt": 5,
-   "kanca": "Ekonomi"
+   "kanca": "Ekonomi",
+   "diger_kaynaklar": []
   },
   "247cd31c3786": {
    "id": "247cd31c3786",
@@ -26594,7 +26495,10 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3d5c27366db3": {
    "id": "3d5c27366db3",
@@ -26637,9 +26541,213 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d54958f20463"
+  },
+  "e95eaa3dde81": {
+   "id": "e95eaa3dde81",
+   "kaynak": "AA",
+   "baslik": "Bilim Taşkent, Özbekistan’da açıldı",
+   "ozet": "Özbekistan’ın başkenti Taşkent’te, çocuk ve gençleri bilim ve teknolojiyle buluşturmayı amaçlayan Bilim Taşkent faaliyetlerine başladı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bilim-taskent-ozbekistan-da-acildi/4102660",
+   "zaman": "2026-10-27T17:32:13+03:00",
+   "kelimeler": [
+    "acild",
+    "bilim",
+    "ozbek",
+    "taske"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0904944e6a5c": {
+   "id": "0904944e6a5c",
+   "kaynak": "TRT Haber",
+   "baslik": "Bahçeli: Türk dünyasının istikbali müşterek sorumluluğumuzdur",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Türk dünyasının istikbali müşterek sorumluluğumuzdur. Kardeşliğimizi korumak, bağımsız devletlerimizin egemenliğine saygı göstermek ve tarihi yürüyüşümüzü gelecek nesillere taşıyarak sürdürmek hepimizin boynunun borcudur\" açıklamasında bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/bahceli-turk-dunyasinin-istikbali-musterek-sorumlulugumuzdur-961388.html",
+   "zaman": "2026-10-27T18:15:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "dunya",
+    "istik",
+    "muste",
+    "sorum",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6d3c65d2404"
+  },
+  "8f00138cc29f": {
+   "id": "8f00138cc29f",
+   "kaynak": "TRT Haber",
+   "baslik": "Ordu'da kırmızı bülten operasyonu: Aranan hükümlü yakalandı",
+   "ozet": "Ordu'nun Ünye ilçesinde, Interpol tarafından kırmızı bültenle aranan Gürcistan uyruklu hükümlü yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/orduda-kirmizi-bulten-operasyonu-aranan-hukumlu-yakalandi-961389.html",
+   "zaman": "2026-10-27T18:30:00+03:00",
+   "kelimeler": [
+    "arana",
+    "bulte",
+    "hukum",
+    "kirmi",
+    "opera",
+    "ordu",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "34f0a0494688"
+  },
+  "b85621370cae": {
+   "id": "b85621370cae",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü",
+   "ozet": "TİCARET Bakanı Ömer Bolat, Birleşik Krallık'ın Ankara Büyükelçisi Jennifer Elizabeth Anderson ile bir araya geldi. Görüşmede, Serbest Ticaret Anlaşması'nın kapsamının genişletilmesi ve iki ülke arasındaki ekonomik işbirliği imkanları ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125",
+   "zaman": "2026-10-27T18:30:06+03:00",
+   "kelimeler": [
+    "ander",
+    "ankar",
+    "bakan",
+    "birle",
+    "bolat",
+    "buyuk",
+    "gorus",
+    "in",
+    "krall"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "00aac4d8f71b": {
+   "id": "00aac4d8f71b",
+   "kaynak": "AA",
+   "baslik": "Borsa günü yatay seyirle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.151,03 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4102725",
+   "zaman": "2026-10-27T18:33:27+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "seyir",
+    "tamam",
+    "yatay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b1527c972a34"
+  },
+  "dbf08ffa5daa": {
+   "id": "dbf08ffa5daa",
+   "kaynak": "Hürriyet",
+   "baslik": "Vali Gül: Yıl sonu diye gerekli gereksiz ödeneklerin tamamını harcamak zorunda değiliz",
+   "ozet": "İstanbul Valisi Davut Gül, İl Koordinasyon Kurulu 3'üncü Dönem Toplantısı’na katıldı. Burada konuşan Vali Gül, \"Yıl sonu diye mutlaka gerekli gereksiz ödeneklerin tamamını harcama zorunda da değiliz. Tasarrufa, şeffaflığa riayet edeceğiz\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/vali-gul-yil-sonu-diye-gerekli-gereksiz-odeneklerin-tamamini-harcamak-zorunda-degiliz-43357132",
+   "zaman": "2026-10-27T18:36:30+03:00",
+   "kelimeler": [
+    "degil",
+    "diye",
+    "gerek",
+    "gul",
+    "harca",
+    "odene",
+    "sonu",
+    "tamam",
+    "vali",
+    "yil",
+    "zorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2675b17e2351": {
+   "id": "2675b17e2351",
+   "kaynak": "Hürriyet",
+   "baslik": "Bolu Belediyesindeki ‘ihaleye fesat’ operasyonunda 3 tutuklama",
+   "ozet": "Bolu’da jandarma ekipleri tarafından Bolu Belediyesi’ne yönelik düzenlenen ‘ihaleye fesat karıştırma’ ve ‘zimmet’ operasyonunda gözaltına alınan 4 şüpheliden, aralarında Belediye Başkan Yardımcısı'nın da bulunduğu 3 kişi tutuklanarak cezaevine gönderildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bolu-belediyesindeki-ihaleye-fesat-operasyonunda-3-tutuklama-43357135",
+   "zaman": "2026-10-27T18:38:00+03:00",
+   "kelimeler": [
+    "beled",
+    "bolu",
+    "fesat",
+    "ihale",
+    "opera",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5c9c9caaddc1": {
+   "id": "5c9c9caaddc1",
+   "kaynak": "XHABER",
+   "baslik": "Firari Batuhan Karadeniz, Mert Hakan Yandaş’a yoğun hakaretlerde bulundu.",
+   "ozet": "“Sen kimsin Türk polisini itiyorsun lan!”",
+   "link": "https://t.me/sahinozkan000/30391",
+   "zaman": "2026-10-27T18:43:00+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Firari Batuhan Karadeniz, Mert Hakan Yandaş’a yoğun hakaretlerde bulundu.\n“Sen kimsin Türk polisini itiyorsun lan!”",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/M3kDLowVdHmw8ctIkHrD30r5_GkiMNocf-jh2O3ZEDTcWh4skBQHGpSyG61vYck4C9ZP7Y41ibQ2jbgYHlfTBRf15j3VcKCu4_De2jz1RcpFFhjxfgKaGi9olNpOQFsnQhxxnhn3UT_yDbFC4_GmrTPQRIdkvUB2UXJZGpYoXcbz-TUPta5u630py8PHFZLXWp_E8_2SXvA4UovhVYaT3TOd2X2YdTuiCCZY47CNJBdgCoaQPcybM7-uItaSqiEzGSywfmp9EBfD26cJf53-ERoO37-TXU3zql2w4FS8FGgvEqwZ0yEs75fqqEiYHwnJ3PeEHntj9iGUn1gCnPi1cQ",
+   "tg_video_url": "https://cdn4.telesco.pe/file/0e3f597e75.mp4?token=hMvZtBB-X2hujIA92X6QmqB3NW68KNUQ-0P4QXFQhvfolbJCcgbjXIKPBRZEJg76M79E9oGBL59LnI1M-SLT0yivZTveaNXmd_l1i1w2Pow92c0igdT5FQqnrtuS8w8u2asHfQaxOIYWXHTqg6vzz7_Tar4JGl4-HLUCCwbXXH5F41Q6o5Qno82ngAv4efBPHCxGqns7MTjg9cUrbtsa3SWqsIUj3aAsVQFq7AyKA-tQrLsvIDpIW_CMk8p8AC7JpCkV4m5_ZWSOwqeU1VHg6vzQ-GUWf31vi5H5_FfSyAj6uIEfn766JKJ6czaN_UkXZEzKk2mljjTtqq31X8hhNw",
+   "kelimeler": [
+    "batuh",
+    "bulun",
+    "firar",
+    "hakan",
+    "hakar",
+    "karad",
+    "mert",
+    "yanda",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7782e82e72d1": {
+   "id": "7782e82e72d1",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | İsmail Kartal, istifa talebini yönetime iletti.",
+   "ozet": "(HT Spor)",
+   "link": "https://t.me/sahinozkan000/30392",
+   "zaman": "2026-10-27T18:43:08+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | İsmail Kartal, istifa talebini yönetime iletti.\n(HT Spor)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/WwFB8PG15bfqpCP5HP2Y6NBVP_2oC3YY2glXpjAQRfHkU8urEyv3SsNSuX8Uwhg37tmpHleznH69ZkhKkIxQA7l3305KxhNvENXVGQlfxqMAPN05Sr3aPKOzvJUIVS8FoPl5GxJVJD3ufvaJ92nkSVZdVkbWfL4xF541iYXTjWfNIgO-awY-wLMB0Keff1khe6roWdPugua6BC4WyvuzfB7BiCSNQcwmOmmf2wlSl12fwUAAyoaD7Rk6MYdJjDgryA5a6ZYXvSU8qHSdiMFe4mXUhVuuOU0QzQYcrqzkfG9AuRReJLLMH--GNwpJOj3McDi9Oi_uaJjdZ_ghN7LlhA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "ilett",
+    "ismai",
+    "istif",
+    "karta",
+    "sonda",
+    "taleb",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "00b17f3fdde4": {
+   "id": "00b17f3fdde4",
+   "kaynak": "AA",
+   "baslik": "Ziraat Türkiye Kupası 3. eleme turuna 9 maçla başlandı",
+   "ozet": "Futbolda Ziraat Türkiye Kupası 3. eleme turuna 9 maçla başlandı.",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasi-3-eleme-turuna-9-macla-baslandi/4102732",
+   "zaman": "2026-10-27T18:43:43+03:00",
+   "kelimeler": [
+    "basla",
+    "eleme",
+    "kupas",
+    "macla",
+    "turki",
+    "turun",
+    "ziraa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9a265ce932fb"
   }
  },
  "kayit": [
+  "27.10 18:45:59  6 yeni haber",
   "27.10 18:31:08  3 yeni haber",
   "27.10 18:18:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Batman'da 'kurgu trafik kazası' operasyonu: 43 gözaltı",
   "27.10 18:15:57  2 yeni haber",
@@ -26838,8 +26946,7 @@
   "25.10 11:15:57  10 yeni haber",
   "25.10 11:01:34  5 yeni haber",
   "25.10 10:45:54  5 yeni haber",
-  "25.10 10:31:19  1 yeni haber",
-  "25.10 10:17:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Otomobildeki arıza zincirleme kazaya yol açtı"
+  "25.10 10:31:19  1 yeni haber"
  ],
  "otomatik": false
 }
