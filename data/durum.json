@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "df3c495d1902": {
-   "id": "df3c495d1902",
-   "kaynak": "AA",
-   "baslik": "Fernando Melo'nun \"Rüzgar Ağacı\" adlı eseri AKM'de izleyiciyle buluştu",
-   "ozet": "İstanbul Kültür Sanat Vakfı tarafından düzenlenen 30. İstanbul Tiyatro Festivali kapsamında, İstanbul Devlet Opera ve Balesi ile ortak prodüksiyon olarak sahnelenen \"Rüzgar Ağacı\", AKM Tiyatro Sahnesi'nde prömiyer yaptı.",
-   "link": "https://www.aa.com.tr/tr/kultur/fernando-melonun-ruzgar-agaci-adli-eseri-akmde-izleyiciyle-bulustu/4099843",
-   "zaman": "2026-10-24T22:57:08+03:00",
-   "kelimeler": [
-    "adli",
-    "agaci",
-    "akm",
-    "bulus",
-    "eseri",
-    "ferna",
-    "izley",
-    "melo",
-    "nun",
-    "ruzga"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "442221ef3519": {
-   "id": "442221ef3519",
-   "kaynak": "NTV",
-   "baslik": "Bakan Memişoğlu: Türkiye’de 13-17 yaş arasındakilerin yüzde 30’u sigara kullanıyor",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"Türkiye’de 13 ile 17 yaş arasındaki nüfusun yüzde 30’u sigara kullanıyor. Dramatik bir sorunla karşı karşıyayız.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-memisoglu-turkiyede-13-17-yas-arasindakilerin-yuzde-30u-sigara-kullaniyor-1747819",
-   "zaman": "2026-10-24T23:00:29+03:00",
-   "kelimeler": [
-    "13",
-    "17",
-    "30",
-    "arasi",
-    "bakan",
-    "kulla",
-    "memis",
-    "sigar",
-    "turki",
-    "yas",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ]
-  },
   "7b13e16f3c10": {
    "id": "7b13e16f3c10",
    "kaynak": "TRT Haber",
@@ -27462,7 +27413,10 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a1921472196a": {
    "id": "a1921472196a",
@@ -27529,9 +27483,123 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7a9ed08d9f27": {
+   "id": "7a9ed08d9f27",
+   "kaynak": "AA",
+   "baslik": "Anadolu Ajansı Haber Ödülleri TBMM'de düzenlenen törenle sahiplerini buldu",
+   "ozet": "Bu yıl ikincisi düzenlenen Anadolu Ajansı Haber Ödülleri, TBMM Başkanı Numan Kurtulmuş, İçişleri Bakanı Mustafa Çiftçi ile çok sayıda davetlinin katıldığı törenle sahiplerini buldu.",
+   "link": "https://www.aa.com.tr/tr/kultur/anadolu-ajansi-haber-odulleri-tbmmde-duzenlenen-torenle-sahiplerini-buldu/4102962",
+   "zaman": "2026-10-27T21:08:23+03:00",
+   "kelimeler": [
+    "ajans",
+    "anado",
+    "buldu",
+    "duzen",
+    "odull",
+    "sahip",
+    "tbmm",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1d4c3f6232f0": {
+   "id": "1d4c3f6232f0",
+   "kaynak": "TRT Haber",
+   "baslik": "AA'dan TRT Haber Dijital Yayınlar'a \"Haberde Türkçe Kullanımı Özel Ödülü\"",
+   "ozet": "Anadolu Ajansı Habercilik ödülleri Meclis'te düzenlenen törenle sahiplerini buldu. TRT Haber Dijital Yayınlar Haber Prodüktörü Ayşe Şimşek, 'Türk Dil Kurumu Haberde Türkçe Kullanımı Özel Ödülü'ne layık görüldü.",
+   "link": "https://www.trthaber.com/haber/gundem/aadan-trt-haber-dijital-yayinlara-haberde-turkce-kullanimi-ozel-odulu-961403.html",
+   "zaman": "2026-10-27T21:18:00+03:00",
+   "kelimeler": [
+    "aa",
+    "dan",
+    "dijit",
+    "haber",
+    "kulla",
+    "odulu",
+    "ozel",
+    "trt",
+    "turkc",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1ba5dd3bbbb5": {
+   "id": "1ba5dd3bbbb5",
+   "kaynak": "TRT Haber",
+   "baslik": "Kurtulmuş: TRT ve AA'nın çalışmaları propaganda mekanizmasını ters yüz etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Gazze'de yaşanan insanlık dramının dünyaya duyurulmasında TRT ve Anadolu Ajansının çalışmalarına dikkati çekerek, iki kurumun hakikati ortaya çıkarma çabalarının küresel ölçekteki siyonist propaganda mekanizmasını ters yüz ettiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/kurtulmus-trt-ve-aanin-calismalari-propaganda-mekanizmasini-ters-yuz-etti-961404.html",
+   "zaman": "2026-10-27T21:24:00+03:00",
+   "kelimeler": [
+    "aa",
+    "calis",
+    "etti",
+    "kurtu",
+    "mekan",
+    "nin",
+    "propa",
+    "ters",
+    "trt",
+    "yuz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7a7ca8e42ef": {
+   "id": "f7a7ca8e42ef",
+   "kaynak": "TRT Haber",
+   "baslik": "SPK, Tera Yatırımın tüm faaliyet izinlerini ve yetki belgesini iptal etti",
+   "ozet": "Sermaye Piyasası Kurulu SPK, Tera Yatırım Menkul Değerler AŞnin tüm faaliyet izinlerinin ve yetki belgesinin iptal edilmesine, yatırımcılarının tazminine ve şirketin tedrici tasfiyesine karar verdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/spk-tera-yatirimin-tum-faaliyet-izinlerini-ve-yetki-belgesini-iptal-etti-961406.html",
+   "zaman": "2026-10-27T22:45:00+03:00",
+   "kelimeler": [
+    "belge",
+    "etti",
+    "faali",
+    "iptal",
+    "izinl",
+    "spk",
+    "tera",
+    "tum",
+    "yatir",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9f5b28ffc0ff"
+  },
+  "edb78a304069": {
+   "id": "edb78a304069",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 27 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1748258",
+   "zaman": "2026-10-27T22:46:47+03:00",
+   "kelimeler": [
+    "2026",
+    "27",
+    "belli",
+    "cekil",
+    "ekim",
+    "ekran",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0855e0cc19d9"
   }
  },
  "kayit": [
+  "27.10 23:01:19  3 yeni haber",
   "27.10 22:46:05  2 yeni haber",
   "27.10 22:31:10  6 yeni haber",
   "27.10 22:01:31  2 yeni haber",
@@ -27730,8 +27798,7 @@
   "25.10 14:18:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · AK Parti Genel Başkan Yardımcısı Zorlu, Ziya Gökalp'i vefatının 102. y",
   "25.10 14:16:09  9 yeni haber",
   "25.10 14:01:20  5 yeni haber",
-  "25.10 13:46:07  1 yeni haber",
-  "25.10 13:31:16  5 yeni haber"
+  "25.10 13:46:07  1 yeni haber"
  ],
  "otomatik": false
 }
