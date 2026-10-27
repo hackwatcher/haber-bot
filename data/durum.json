@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "813b8076dd61": {
-   "id": "813b8076dd61",
-   "kaynak": "NTV",
-   "baslik": "Kara Kuvvetleri'nin 'Askeri Drone Yarışması'nda Türkiye şampiyon oldu",
-   "ozet": "Ankara'da 18 ülkeden 22 takımın katıldığı uluslararası yarışmada Türk Kara Kuvvetleri takımı birinci oldu. Yarışmada Pakistan ikinci, İtalya üçüncü sırada yer aldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kara-kuvvetlerinin-askeri-drone-yarismasinda-turkiye-sampiyon-oldu-1747791",
-   "zaman": "2026-10-24T15:40:12+03:00",
-   "kelimeler": [
-    "asker",
-    "drone",
-    "kara",
-    "kuvve",
-    "nda",
-    "nin",
-    "sampi",
-    "turki",
-    "yaris"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "1bb71914f16d"
-  },
   "457623353e47": {
    "id": "457623353e47",
    "kaynak": "Hürriyet",
@@ -24988,7 +24966,10 @@
     "ulasm"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6637beda5d66": {
    "id": "6637beda5d66",
@@ -25928,10 +25909,133 @@
     "yeni"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "d05b61238eb4": {
+   "id": "d05b61238eb4",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk Kızılay'ın 'Gönüllü Ol' platformunda üye sayısı 500 bini aştı",
+   "ozet": "Türk Kızılay, 2020'de hayata geçirilen platform Gönüllü Ol'da kayıtlı üye sayısının 500 bini geçtiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/turk-kizilayin-gonullu-ol-platformunda-uye-sayisi-500-bini-asti-961361.html",
+   "zaman": "2026-10-27T15:21:00+03:00",
+   "kelimeler": [
+    "500",
+    "asti",
+    "bini",
+    "gonul",
+    "in",
+    "kizil",
+    "ol",
+    "platf",
+    "sayis",
+    "turk",
+    "uye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fa0495acf0c8": {
+   "id": "fa0495acf0c8",
+   "kaynak": "TRT Haber",
+   "baslik": "Turizm gelirinde 2027 hedefi 70 milyar dolar",
+   "ozet": "Türkiye'nin turizm gelirinin 2027'de 70 milyar dolara, ziyaretçi sayısının ise 66,6 milyona ulaşması hedefleniyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turizm-gelirinde-2027-hedefi-70-milyar-dolar-961363.html",
+   "zaman": "2026-10-27T15:25:00+03:00",
+   "kelimeler": [
+    "2027",
+    "70",
+    "dolar",
+    "gelir",
+    "hedef",
+    "milya",
+    "turiz"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5e976d8fc27e"
+  },
+  "27fcc67a6e42": {
+   "id": "27fcc67a6e42",
+   "kaynak": "TRT Haber",
+   "baslik": "2027'de 10 yeni nesil kütüphane açılacak",
+   "ozet": "Türkiye'de 2027'de 10 yeni nesil kütüphanenin hizmete açılması, 20 bin yazma ve nadir eserin dijitalleştirilmesi, 1100 yazma ve nadide eserin restore edilmesi hedefleniyor.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/2027de-10-yeni-nesil-kutuphane-acilacak-961364.html",
+   "zaman": "2026-10-27T15:31:00+03:00",
+   "kelimeler": [
+    "10",
+    "2027",
+    "acila",
+    "kutup",
+    "nesil",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5355ede4fc18"
+  },
+  "907c81e57c47": {
+   "id": "907c81e57c47",
+   "kaynak": "Hürriyet",
+   "baslik": "Eskişehir’de bir gün: Tarihî sokaklardan gondol turuna",
+   "ozet": "Odunpazarı’nın ahşap evlerinden çağdaş sanat müzelerine, yöresel lezzetlerden Porsuk Çayı’ndaki gondol turlarına uzanan rota, Eskişehir’i bir günde keşfetme imkânı sunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/eskisehirde-bir-gun-tarihi-sokaklardan-gondol-turuna-43356838",
+   "zaman": "2026-10-27T15:32:00+03:00",
+   "kelimeler": [
+    "eskis",
+    "gondo",
+    "gun",
+    "sokak",
+    "tarih",
+    "turun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5d77529adb21": {
+   "id": "5d77529adb21",
+   "kaynak": "AA",
+   "baslik": "AB, iklim değişikliği kaynaklı afetlere karşı hazırlığını artıracak",
+   "ozet": "Avrupa Birliği (AB), sıcak hava dalgaları, kuraklık, sel ve orman yangınlarına karşı hazırlık seviyesini güçlendirmek amacıyla yeni bir plan hazırladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-iklim-degisikligi-kaynakli-afetlere-karsi-hazirligini-artiracak/4102508",
+   "zaman": "2026-10-27T15:34:35+03:00",
+   "kelimeler": [
+    "ab",
+    "afetl",
+    "artir",
+    "degis",
+    "hazir",
+    "iklim",
+    "karsi",
+    "kayna"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a414e0f4df56": {
+   "id": "a414e0f4df56",
+   "kaynak": "NTV",
+   "baslik": "İzmir'e yeni çevre yolu geliyor. \"Trafiği rahatlatacak\"",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'la bir araya geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-izmire-yeni-cevre-yolu-geliyor-trafigi-rahatlatacak-1748228",
+   "zaman": "2026-10-27T15:45:42+03:00",
+   "kelimeler": [
+    "cevre",
+    "geliy",
+    "izmir",
+    "rahat",
+    "trafi",
+    "yeni",
+    "yolu"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 15:46:06  4 yeni haber",
   "27.10 15:31:35  14 yeni haber",
   "27.10 15:01:28  4 yeni haber",
   "27.10 14:46:28  1 yeni haber",
@@ -26130,8 +26234,7 @@
   "25.10 08:31:29  1 yeni haber",
   "25.10 08:15:55  1 yeni haber",
   "25.10 07:46:17  1 yeni haber",
-  "25.10 07:16:13  13 yeni haber",
-  "25.10 07:02:12  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Manifest’e rakip yeni bir kız grubu ortaya çıktı."
+  "25.10 07:16:13  13 yeni haber"
  ],
  "otomatik": false
 }
