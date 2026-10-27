@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "7319916aca4b": {
-   "id": "7319916aca4b",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da bazı cadde ve yollar trafiğe kapatıldı",
-   "ozet": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-43353029",
-   "zaman": "2026-10-24T07:18:00+03:00",
-   "kelimeler": [
-    "bazi",
-    "cadde",
-    "istan",
-    "kapat",
-    "trafi",
-    "yolla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b0b8dd14bba0"
-  },
   "0c46188add8d": {
    "id": "0c46188add8d",
    "kaynak": "AA",
@@ -16780,7 +16761,8 @@
     "sorus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "582a8cd083f0": {
    "id": "582a8cd083f0",
@@ -24082,9 +24064,120 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "35e91bfc97e1"
+  },
+  "8a080efa5d98": {
+   "id": "8a080efa5d98",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakırköy Belediyesine rüşvet soruşturması: 68 gözaltı kararı",
+   "ozet": "Bakırköy Belediyesinde mal ve hizmet alımı ihalelerine fesat karıştırıldığı ve iş yeri ruhsatı süreçlerinde esnaftan rüşvet talep edildiği iddialarına yönelik yürütülen soruşturma kapsamında, aralarında belediye başkan yardımcıları ve meclis üyelerinin de bulunduğu 68 şüpheli…",
+   "link": "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html",
+   "zaman": "2026-10-27T07:11:00+03:00",
+   "kelimeler": [
+    "68",
+    "bakir",
+    "beled",
+    "gozal",
+    "karar",
+    "rusve",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "95b1143bde31"
+  },
+  "fd259f56a982": {
+   "id": "fd259f56a982",
+   "kaynak": "TRT Haber",
+   "baslik": "Sosyal medyadan tetikçi ağı kuran suç örgütüne operasyon: 85 gözaltı",
+   "ozet": "Yurt dışından yönetilen ve sosyal medya platformları üzerinden temin ettiği tetikçileri kapalı mesajlaşma grupları aracılığıyla eyleme yönlendiren suç örgütüne yönelik İstanbul merkezli 30 ilde düzenlenen eş zamanlı operasyonda 85 şüpheli yakalandı.",
+   "link": "https://www.trthaber.com/haber/gundem/sosyal-medyadan-tetikci-agi-kuran-suc-orgutune-operasyon-85-gozalti-961288.html",
+   "zaman": "2026-10-27T07:13:00+03:00",
+   "kelimeler": [
+    "85",
+    "agi",
+    "gozal",
+    "kuran",
+    "medya",
+    "opera",
+    "orgut",
+    "sosya",
+    "suc",
+    "tetik"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bf0fe02a775b": {
+   "id": "bf0fe02a775b",
+   "kaynak": "Hürriyet",
+   "baslik": "Megakentte kritik gün! Sel kapıda mı? İşte en riski bölgeler ve kasım ayı sürprizi",
+   "ozet": "İstanbul ve Marmara Bölgesi, 14 Ekim’de yaşanan sel afetinin ardından bugün beklenen kuvvetli sağanak yağışlar nedeniyle yeniden kritik bir döneme giriyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/megakentte-kritik-gun-sel-kapida-mi-iste-en-riski-bolgeler-ve-kasim-ayi-surprizi-43355413",
+   "zaman": "2026-10-27T07:15:32+03:00",
+   "kelimeler": [
+    "ayi",
+    "bolge",
+    "gun",
+    "iste",
+    "kapid",
+    "kasim",
+    "kriti",
+    "megak",
+    "riski",
+    "sel",
+    "surpr"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b0990b842152": {
+   "id": "b0990b842152",
+   "kaynak": "NTV",
+   "baslik": "30 ilde Daltonlar suç örgütüne operasyon: 85 şüpheli gözaltına alındı",
+   "ozet": "İstanbul merkezli 30 ilde, Daltonlar Suç Örgütüne yönelik eş zamanlı operasyon yapıldı. Operasyonlarda 85 şüpheli yakalanarak gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/30-ilde-daltonlar-suc-orgutune-operasyon-85-supheli-gozaltina-alindi-1748116",
+   "zaman": "2026-10-27T07:26:33+03:00",
+   "kelimeler": [
+    "30",
+    "85",
+    "alind",
+    "dalto",
+    "gozal",
+    "ilde",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
+  },
+  "c7b454fa4ff4": {
+   "id": "c7b454fa4ff4",
+   "kaynak": "Sözcü",
+   "baslik": "Daltonlar' suç örgütüne 30 ilde dev operasyon",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-daltonlar-a-30-ilde-es-zamanli-operasyon-p373082",
+   "zaman": "2026-10-27T07:29:13+03:00",
+   "kelimeler": [
+    "30",
+    "dalto",
+    "dev",
+    "ilde",
+    "opera",
+    "orgut",
+    "suc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0990b842152"
   }
  },
  "kayit": [
+  "27.10 07:31:10  3 yeni haber",
   "27.10 07:16:13  10 yeni haber",
   "27.10 07:02:46  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Fenerbahçeli taraftarlar İsmail Kartal'ı istifaya çağırıyor.",
   "27.10 07:01:21  3 yeni haber",
@@ -24283,8 +24376,7 @@
   "24.10 19:31:14  3 yeni haber",
   "24.10 19:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Maçın son dakikalarında fenalaşan futbolcu kalp krizi geçirdi",
   "24.10 19:15:55  4 yeni haber",
-  "24.10 18:52:50  4 yeni haber",
-  "24.10 18:46:16  5 yeni haber"
+  "24.10 18:52:50  4 yeni haber"
  ],
  "otomatik": false
 }
