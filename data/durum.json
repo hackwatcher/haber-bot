@@ -22987,7 +22987,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "cfcc2f186997": {
@@ -23757,7 +23758,10 @@
     "top"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f2d75f989bdf": {
    "id": "f2d75f989bdf",
@@ -23893,9 +23897,48 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "212e133acff9"
+  },
+  "65f2fa7c1153": {
+   "id": "65f2fa7c1153",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın Top ödülü Harry Kane'in",
+   "ozet": "Bayern Münih'in yıldız golcüsü Harry Kane, Ballon d'Or Altın Top ödülünü kariyerinde ilk kez kazandı. Kane, Michael Owen'dan 25 yıl sonra ödülü alan ilk İngiliz oldu. Mbappe oylamada ikinci, Yamal ise üçüncü sırada yer aldı.",
+   "link": "https://www.trthaber.com/haber/gundem/altin-top-odulu-harry-kanein-961283.html",
+   "zaman": "2026-10-27T06:10:00+03:00",
+   "kelimeler": [
+    "altin",
+    "harry",
+    "in",
+    "kane",
+    "odulu",
+    "top"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9f19ae002643"
+  },
+  "1052a93b41f7": {
+   "id": "1052a93b41f7",
+   "kaynak": "TRT Haber",
+   "baslik": "BUDO'nun bazı seferleri iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin BUDO 8 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/budonun-bazi-seferleri-iptal-edildi-961284.html",
+   "zaman": "2026-10-27T06:18:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "budo",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fc9b07269006"
   }
  },
  "kayit": [
+  "27.10 06:31:10  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "27.10 05:47:30  2 yeni haber",
   "27.10 04:31:10  4 yeni haber",
   "27.10 03:45:57  1 yeni haber",
@@ -24094,8 +24137,7 @@
   "24.10 18:46:16  5 yeni haber",
   "24.10 18:31:10  3 yeni haber",
   "24.10 18:16:09  1 yeni haber",
-  "24.10 18:01:25  2 yeni haber",
-  "24.10 17:45:54  2 yeni haber"
+  "24.10 18:01:25  2 yeni haber"
  ],
  "otomatik": false
 }
