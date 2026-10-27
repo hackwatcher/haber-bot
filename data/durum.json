@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "562733cebffd": {
-   "id": "562733cebffd",
-   "kaynak": "TRT Haber",
-   "baslik": "Çin'de Champi Tayfunu nedeniyle 60 binden fazla kişi tahliye edildi",
-   "ozet": "Çin'in doğu kıyılarında etkisini gösteren Champi Tayfunu nedeniyle risk altındaki bölgelerde yaşayan on binlerce kişi güvenli bölgelere sevk edildi.",
-   "link": "https://www.trthaber.com/haber/dunya/cinde-champi-tayfunu-nedeniyle-60-binden-fazla-kisi-tahliye-edildi-961099.html",
-   "zaman": "2026-10-24T21:04:00+03:00",
-   "kelimeler": [
-    "60",
-    "binde",
-    "champ",
-    "cin",
-    "edild",
-    "fazla",
-    "kisi",
-    "neden",
-    "tahli",
-    "tayfu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4fe9aca55879": {
    "id": "4fe9aca55879",
    "kaynak": "AA",
@@ -26942,7 +26920,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "TRT Haber"
    ]
   },
   "c26d3185d095": {
@@ -27199,7 +27178,10 @@
     "milya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "4b506d76ec81": {
    "id": "4b506d76ec81",
@@ -27240,9 +27222,149 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "79c91be752ce"
+  },
+  "35adb7c69fac": {
+   "id": "35adb7c69fac",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara Emniyeti'nden dijital dolandırıcılık uyarısı",
+   "ozet": "ANKARA Emniyet Müdürlüğü, sahte kısa mesajlar (SMS) ve internet siteleri üzerinden gerçekleştirilen dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankara-emniyetinden-dijital-dolandiricilik-uyarisi-43357249",
+   "zaman": "2026-10-27T20:53:26+03:00",
+   "kelimeler": [
+    "ankar",
+    "dijit",
+    "dolan",
+    "emniy",
+    "nden",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1d031c711d33": {
+   "id": "1d031c711d33",
+   "kaynak": "TRT Haber",
+   "baslik": "Fenerbahçe'de İsmail Kartal dönemi sona erdi",
+   "ozet": "Fenerbahçe, teknik direktör İsmail Kartal ile yollarını ayırdığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-961401.html",
+   "zaman": "2026-10-27T20:56:00+03:00",
+   "kelimeler": [
+    "donem",
+    "erdi",
+    "fener",
+    "ismai",
+    "karta",
+    "sona"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "04f7cb1dac56"
+  },
+  "ed42d36cd80a": {
+   "id": "ed42d36cd80a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi: Siber tehditlere karşı daha bütüncül ve etkin bir güvenlik yapısı oluşturacağız",
+   "ozet": "İÇİŞLERİ Bakanı Mustafa Çiftçi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında gerçekleştirilen Siber Güvenlik Kurulunun 2'nci Toplantısı'na katıldığını belirterek, \"Türkiye Yüzyılı'nda yalnızca fiziki sınırlarımızı değil, siber vatanımızı da koruyacak; dijital…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-siber-tehditlere-karsi-daha-butuncul-ve-etkin-bir-guvenlik-yapisi-olusturacagiz-43357254",
+   "zaman": "2026-10-27T20:57:03+03:00",
+   "kelimeler": [
+    "bakan",
+    "butun",
+    "ciftc",
+    "etkin",
+    "guven",
+    "karsi",
+    "olust",
+    "siber",
+    "tehdi",
+    "yapis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8017c923507f": {
+   "id": "8017c923507f",
+   "kaynak": "Hürriyet",
+   "baslik": "ASELSAN'ın 9 aylık cirosu açıklandı",
+   "ozet": "ASELSAN'ın cirosu, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/aselsanin-9-aylik-cirosu-aciklandi-43357255",
+   "zaman": "2026-10-27T21:01:45+03:00",
+   "kelimeler": [
+    "acikl",
+    "asels",
+    "aylik",
+    "ciros",
+    "in"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "acdce987f5bc"
+  },
+  "c040f4234da7": {
+   "id": "c040f4234da7",
+   "kaynak": "AA",
+   "baslik": "Gazze El-Ezher Üniversitesinden 16 Filistinli tıp öğrencisi İstanbul'da mezun oldu",
+   "ozet": "Tıp eğitimlerini İstanbul Medeniyet Üniversitesi'nde (İMÜ) tamamlayan Gazze El-Ezher Üniversitesi Tıp Fakültesi öğrencisi 16 Filistinli için mezuniyet töreni yapıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/gazze-el-ezher-universitesinden-16-filistinli-tip-ogrencisi-istanbulda-mezun-oldu/4102956",
+   "zaman": "2026-10-27T21:03:41+03:00",
+   "kelimeler": [
+    "16",
+    "el",
+    "ezher",
+    "filis",
+    "gazze",
+    "istan",
+    "mezun",
+    "ogren",
+    "tip",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6134421be800": {
+   "id": "6134421be800",
+   "kaynak": "AA",
+   "baslik": "Sermaye piyasası işlemlerine ilişkin soruşturmada yakalanan 2 zanlıya tutuklama talebi",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 4 şüpheliden 2'si tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanliya-tutuklama-talebi-/4102964",
+   "zaman": "2026-10-27T21:12:21+03:00",
+   "kelimeler": [
+    "ilisk",
+    "islem",
+    "piyas",
+    "serma",
+    "sorus",
+    "taleb",
+    "tutuk",
+    "yakal",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "67e91e048abf"
+  },
+  "20907826aab6": {
+   "id": "20907826aab6",
+   "kaynak": "Hürriyet",
+   "baslik": "TOKİ başvurusu dolandırıcılığına 5 ilde operasyonu: 8 gözaltı",
+   "ozet": "ANKARA Batı Cumhuriyet Başsavcılığınca, TOKİ başvurusu yapmak isteyen vatandaşları sahte internet siteleri üzerinden dolandırdıkları belirlenen şüphelilere yönelik Ankara merkezli 5 ilde düzenlenen eş zamanlı operasyonda 8 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/toki-basvurusu-dolandiriciligina-5-ilde-operasyonu-8-gozalti-43357263",
+   "zaman": "2026-10-27T21:14:08+03:00",
+   "kelimeler": [
+    "basvu",
+    "dolan",
+    "gozal",
+    "ilde",
+    "opera",
+    "toki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 21:19:35  4 yeni haber",
   "27.10 21:01:25  7 yeni haber",
   "27.10 20:34:25  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | İsmail Kartal, istifa talebini yönetime iletti.",
   "27.10 20:31:49  6 yeni haber",
@@ -27441,8 +27563,7 @@
   "25.10 13:01:34  4 yeni haber",
   "25.10 12:48:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Balkondan yan binanın çatısına geçmişti: Tenteye basınca metrelerce yü",
   "25.10 12:46:08  5 yeni haber",
-  "25.10 12:31:12  5 yeni haber",
-  "25.10 12:15:57  5 yeni haber"
+  "25.10 12:31:12  5 yeni haber"
  ],
  "otomatik": false
 }
