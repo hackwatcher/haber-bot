@@ -27608,7 +27608,10 @@
     "serid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "e4f79462070e": {
    "id": "e4f79462070e",
@@ -27629,9 +27632,58 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "dbfdd3a61e91": {
+   "id": "dbfdd3a61e91",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail ordusunun Gazze Şeridi'ne düzenlediği saldırıda 4 Filistinli öldü",
+   "ozet": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-gazze-seridine-duzenledigi-saldirida-4-filistinli-oldu-961414.html",
+   "zaman": "2026-10-28T01:21:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "filis",
+    "gazze",
+    "isgal",
+    "israi",
+    "ordus",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "860bed67decd"
+  },
+  "c3128a62403c": {
+   "id": "c3128a62403c",
+   "kaynak": "Sözcü",
+   "baslik": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarında! Pasifik Holding'in üç yöneticisinin mal varlıklarına tedbir",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/akpli-vekil-asuman-erdoganin-esi-de-aralarinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-t-p373397",
+   "zaman": "2026-10-28T01:43:42+03:00",
+   "kelimeler": [
+    "akp",
+    "arala",
+    "asuma",
+    "erdog",
+    "esi",
+    "holdi",
+    "in",
+    "li",
+    "mal",
+    "pasif",
+    "tedbi",
+    "uc",
+    "varli",
+    "vekil",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 01:46:00  1 yeni haber",
   "28.10 01:32:33  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe'de İsmail Kartal dönemi sona erdi.",
   "28.10 01:31:09  2 yeni haber",
   "28.10 01:04:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Fon soruşturmasında 2 yeni tutuklama: 120'ye yükseldi",
@@ -27830,8 +27882,7 @@
   "25.10 17:31:08  3 yeni haber",
   "25.10 17:16:11  2 yeni haber",
   "25.10 17:16:11  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "25.10 17:01:35  2 yeni haber",
-  "25.10 16:46:10  3 yeni haber"
+  "25.10 17:01:35  2 yeni haber"
  ],
  "otomatik": false
 }
