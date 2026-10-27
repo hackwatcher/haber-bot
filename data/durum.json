@@ -1,81 +1,5 @@
 {
  "haberler": {
-  "6f8d67bd7dbb": {
-   "id": "6f8d67bd7dbb",
-   "kaynak": "Hürriyet",
-   "baslik": "Kayseri’de kaza yapan otomobil alev aldı, park halindeki 3 araç zarar gördü: 1 yaralı",
-   "ozet": "Kayseri’nin Kocasinan ilçesinde kaldırıma çarpıp, karşı yola geçerek alev alan otomobil kullanılamaz hale geldi. Kazada otomobil sürücüsü yaralanırken, park halindeki 3 otomobilde alevlerin sıçraması nedeniyle zarar gördü.",
-   "link": "https://www.hurriyet.com.tr/gundem/kayseride-kaza-yapan-otomobil-alev-aldi-park-halindeki-3-arac-zarar-gordu-1-yarali-43353027",
-   "zaman": "2026-10-24T05:55:00+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "arac",
-    "gordu",
-    "halin",
-    "kayse",
-    "kaza",
-    "otomo",
-    "park",
-    "yapan",
-    "yaral",
-    "zarar"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-24T07:03:40.723610+03:00",
-   "ig_id": "18080010695550775",
-   "reels_id": "18488072551111538",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1272560018359708",
-   "slayt": 5,
-   "kanca": "OTOMOBİL ALEV ALDI"
-  },
-  "cd819cbfbb51": {
-   "id": "cd819cbfbb51",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı",
-   "ozet": "",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-yollar-trafige-kapatildi-43353028",
-   "zaman": "2026-10-24T05:56:42+03:00",
-   "kelimeler": [
-    "bayra",
-    "bazi",
-    "cadde",
-    "cumhu",
-    "istan",
-    "kapat",
-    "neden",
-    "prova",
-    "toren",
-    "trafi",
-    "yolla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "92c7ad048afd"
-  },
-  "b978f51fbd3d": {
-   "id": "b978f51fbd3d",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da bazı cadde ve yollar trafiğe kapatıldı",
-   "ozet": "29 Ekim Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-961049.html",
-   "zaman": "2026-10-24T05:56:00+03:00",
-   "kelimeler": [
-    "bazi",
-    "cadde",
-    "istan",
-    "kapat",
-    "trafi",
-    "yolla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b0b8dd14bba0"
-  },
   "9b4da5e9572d": {
    "id": "9b4da5e9572d",
    "kaynak": "Hürriyet",
@@ -23240,7 +23164,10 @@
     "tenis"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "43dca9b2c16f": {
    "id": "43dca9b2c16f",
@@ -23582,7 +23509,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "075e4d2cf0c9": {
@@ -23905,6 +23833,66 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cee94e4d7ddf": {
+   "id": "cee94e4d7ddf",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 füze ile 4 İHA imha edildi",
+   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füze ve 4 insansız hava aracının (İHA) hava savunma sistemleri tarafından imha edildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-fuze-ile-4-iha-imha-edildi/4101863",
+   "zaman": "2026-10-27T03:37:16+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "edild",
+    "firla",
+    "fuze",
+    "husil",
+    "iha",
+    "imha",
+    "koali",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e5338642f8f9"
+  },
+  "ea8907ecaf26": {
+   "id": "ea8907ecaf26",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'da hortum faciası: 4 ölü, 1 yaralı",
+   "ozet": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-hortum-faciasi-4-olu-1-yarali-961281.html",
+   "zaman": "2026-10-27T05:59:00+03:00",
+   "kelimeler": [
+    "antal",
+    "facia",
+    "hortu",
+    "olu",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "619c5a921394"
+  },
+  "7437dd839443": {
+   "id": "7437dd839443",
+   "kaynak": "TRT Haber",
+   "baslik": "Milli tenisçi Ergi Kırkın, Singapur'da şampiyon oldu",
+   "ozet": "Milli tenisçi Ergi Kırkın, Singapur'da düzenlenen M15 turnuvasının finalinde Fransız Maxime Janvier'i 20 yenerek profesyonel kariyerinin 16. tekler şampiyonluğunu kazandı.",
+   "link": "https://www.trthaber.com/haber/gundem/milli-tenisci-ergi-kirkin-singapurda-sampiyon-oldu-961282.html",
+   "zaman": "2026-10-27T06:02:00+03:00",
+   "kelimeler": [
+    "ergi",
+    "kirki",
+    "milli",
+    "sampi",
+    "singa",
+    "tenis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "212e133acff9"
   }
  },
  "kayit": [
