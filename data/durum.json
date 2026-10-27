@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "c24dd3f55161": {
-   "id": "c24dd3f55161",
-   "kaynak": "AA",
-   "baslik": "Trump, Beyaz Saray'daki brifing salonunun yerini değiştirebileceğini belirtti",
-   "ozet": "ABD Başkanı Donald Trump, Beyaz Saray muhabirlerinin kullandığı ve basın brifinglerinin düzenlendiği salonun başka bir yere taşınabileceğini ifade etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-beyaz-saraydaki-brifing-salonunun-yerini-degistirebilecegini-belirtti/4099642",
-   "zaman": "2026-10-24T17:17:22+03:00",
-   "kelimeler": [
-    "belir",
-    "beyaz",
-    "brifi",
-    "daki",
-    "degis",
-    "salon",
-    "saray",
-    "trump",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "eca17e7f6453": {
    "id": "eca17e7f6453",
    "kaynak": "TRT Haber",
@@ -224,27 +203,6 @@
    "fb_reels_id": "1464730368979974",
    "slayt": 4,
    "kanca": "İZMİR'DE BASIN YÜRÜYÜŞÜ"
-  },
-  "77b2e28cd430": {
-   "id": "77b2e28cd430",
-   "kaynak": "AA",
-   "baslik": "63. Uluslararası Antalya Altın Portakal Film Festivali başladı",
-   "ozet": "63. Uluslararası Antalya Altın Portakal Film Festivali, geleneksel kortej geçişiyle başladı.",
-   "link": "https://www.aa.com.tr/tr/kultur/63-uluslararasi-antalya-altin-portakal-film-festivali-basladi/4099645",
-   "zaman": "2026-10-24T17:23:57+03:00",
-   "kelimeler": [
-    "63",
-    "altin",
-    "antal",
-    "basla",
-    "festi",
-    "film",
-    "porta",
-    "ulusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "62504274a19b": {
    "id": "62504274a19b",
@@ -13556,7 +13514,8 @@
     "ulusl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "a96ff166d472": {
    "id": "a96ff166d472",
@@ -25766,7 +25725,10 @@
     "mekke"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "4db3da4880ed": {
    "id": "4db3da4880ed",
@@ -26157,7 +26119,10 @@
     "topla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "265ad757933a": {
    "id": "265ad757933a",
@@ -26428,9 +26393,87 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "83d2ef2565b1": {
+   "id": "83d2ef2565b1",
+   "kaynak": "AA",
+   "baslik": "Sudan'ın Ankara Büyükelçisi Eltayeb: Sudan için adalet arıyoruz",
+   "ozet": "Sudan'ın Ankara Büyükelçisi Nadir Yousif Eltayeb, Faşir'de yaklaşık 30 aylık kuşatma nedeniyle 1 milyona yakın kişinin, silahlı kuvvetlerin havadan ulaştırdığı yardımlarla yaşamını sürdürdüğünü belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/sudanin-ankara-buyukelcisi-eltayeb-sudan-icin-adalet-ariyoruz/4102608",
+   "zaman": "2026-10-27T16:45:27+03:00",
+   "kelimeler": [
+    "adale",
+    "ankar",
+    "ariyo",
+    "buyuk",
+    "eltay",
+    "in",
+    "sudan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "85376066e282"
+  },
+  "49b4f093fbb5": {
+   "id": "49b4f093fbb5",
+   "kaynak": "TRT Haber",
+   "baslik": "Milas Belediye Başkan Vekili 3 Kasım'da seçilecek",
+   "ozet": "Milas Belediye Başkanı Fevzi Topuz'un yerine görev yapacak başkan vekili, 3 Kasım Salı günü yapılacak Belediye Meclisi toplantısında belirlenecek.",
+   "link": "https://www.trthaber.com/haber/turkiye/milas-belediye-baskan-vekili-3-kasimda-secilecek-961380.html",
+   "zaman": "2026-10-27T17:03:00+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "kasim",
+    "milas",
+    "secil",
+    "vekil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd62a947196e": {
+   "id": "bd62a947196e",
+   "kaynak": "TRT Haber",
+   "baslik": "Siber Güvenlik Kurulu toplandı",
+   "ozet": "Siber Güvenlik Kurulu, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+   "link": "https://www.trthaber.com/haber/gundem/siber-guvenlik-kurulu-toplandi-961381.html",
+   "zaman": "2026-10-27T17:16:00+03:00",
+   "kelimeler": [
+    "guven",
+    "kurul",
+    "siber",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4fa91572a40a"
+  },
+  "8d8570c74569": {
+   "id": "8d8570c74569",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Mekke İttifakı Anlaşması, TBMM Dışişleri Komisyonu'nda kabul edildi",
+   "ozet": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke İttifakı Anlaşması'na dair kanun teklifi, 27 Ekim'de TBMM Dışişleri Komisyonu'nda kabul edildi.",
+   "link": "https://www.bbc.com/turkce/articles/cwj0l71r8lq9o",
+   "zaman": "2026-10-27T17:28:51+03:00",
+   "kelimeler": [
+    "anlas",
+    "disis",
+    "edild",
+    "ittif",
+    "kabul",
+    "komis",
+    "mekke",
+    "nda",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9c9154420bf6"
   }
  },
  "kayit": [
+  "27.10 17:31:16  1 yeni haber",
   "27.10 17:15:59  4 yeni haber",
   "27.10 17:01:36  4 yeni haber",
   "27.10 16:45:56  7 yeni haber",
@@ -26629,8 +26672,7 @@
   "25.10 10:01:22  2 yeni haber",
   "25.10 09:46:06  3 yeni haber",
   "25.10 09:31:06  4 yeni haber",
-  "25.10 09:16:13  4 yeni haber",
-  "25.10 09:04:52  1 yeni haber"
+  "25.10 09:16:13  4 yeni haber"
  ],
  "otomatik": false
 }
