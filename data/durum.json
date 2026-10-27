@@ -1,77 +1,5 @@
 {
  "haberler": {
-  "bd8c466ac330": {
-   "id": "bd8c466ac330",
-   "kaynak": "AA",
-   "baslik": "Bakan Bolat: 2029 yılı için hedefimiz, mal ve hizmet ihracatımızı 450 milyar dolara ulaştırmak",
-   "ozet": "Ticaret Bakanı Ömer Bolat, 2026 yılının eylül ayı itibarıyla ihracatçılara 49,6 milyar dolarlık destek sağladıklarını belirterek, 2029 yılı için hedeflerinin, mal ve hizmet ihracatını 450 milyar dolara ulaştırmak olduğunu ifade etti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-2029-yili-icin-hedefimiz-mal-ve-hizmet-ihracatimizi-450-milyar-dolara-ulastirmak/4099579",
-   "zaman": "2026-10-24T16:02:49+03:00",
-   "kelimeler": [
-    "2029",
-    "450",
-    "bakan",
-    "bolat",
-    "dolar",
-    "hedef",
-    "hizme",
-    "ihrac",
-    "mal",
-    "milya",
-    "ulast",
-    "yili"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fe35c14ded14": {
-   "id": "fe35c14ded14",
-   "kaynak": "AA",
-   "baslik": "FIFA Başkanı Infantino, dünya futbolunun desteğini aldığına inanıyor",
-   "ozet": "UEFA'nın talep ettiği belgeleri ne zaman sunacakları sorusuna net bir yanıt vermeyen Infantino, belgelerin yasal bir sürece tabi olduğunu ve bunun üzerinde çalıştıklarını ifade etti.",
-   "link": "https://www.aa.com.tr/tr/spor/fifa-baskani-infantino-dunya-futbolunun-destegini-aldigina-inaniyor/4099581",
-   "zaman": "2026-10-24T16:06:06+03:00",
-   "kelimeler": [
-    "aldig",
-    "baska",
-    "deste",
-    "dunya",
-    "fifa",
-    "futbo",
-    "inani",
-    "infan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3cad8e28e041": {
-   "id": "3cad8e28e041",
-   "kaynak": "AA",
-   "baslik": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Yunanistan'ın Gümülcine ve İskeçe'ye müftü atamasına tepki",
-   "ozet": "Kürşad Zorlu, Yunanistan hükümetinin Batı Trakya Türk Azınlığının müftülüklerine yönelik uygulamalarına ilişkin, \"Yunanistan'ın Batı Trakya Türk azınlığının eğitim ve din alanındaki özel haklarını ihlal eden uygulamalarını şiddetle kınıyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-yunanistanin-gumulcine-ve-iskeceye-muftu-atamasina-tepki/4099591",
-   "zaman": "2026-10-24T16:17:23+03:00",
-   "kelimeler": [
-    "ak",
-    "atama",
-    "baska",
-    "dan",
-    "genel",
-    "gumul",
-    "in",
-    "iskec",
-    "muftu",
-    "parti",
-    "tepki",
-    "yardi",
-    "ye",
-    "yunan",
-    "zorlu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7be848580a08"
-  },
   "501258366c6c": {
    "id": "501258366c6c",
    "kaynak": "NTV",
@@ -95,26 +23,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "fd1f642bd39a"
-  },
-  "2413b1ba23f6": {
-   "id": "2413b1ba23f6",
-   "kaynak": "AA",
-   "baslik": "\"Daltonlar\" suç örgütüne yönelik soruşturmada 15 şüpheli tutuklandı",
-   "ozet": "Ankara Cumhuriyet Başsavcılığınca, kamuoyunda \"Daltonlar\" olarak bilinen suç örgütüyle bağlantılı şüphelilere yönelik soruşturmada, 3'ü adli süreçteki çocuk 15 zanlı tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/daltonlar-suc-orgutune-yonelik-sorusturmada-15-supheli-tutuklandi/4099601",
-   "zaman": "2026-10-24T16:30:46+03:00",
-   "kelimeler": [
-    "15",
-    "dalto",
-    "orgut",
-    "sorus",
-    "suc",
-    "suphe",
-    "tutuk",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "47c3c7a635a1": {
    "id": "47c3c7a635a1",
@@ -25546,7 +25454,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8c10659a81bc": {
    "id": "8c10659a81bc",
@@ -25584,12 +25495,21 @@
     "turki",
     "ye"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "NTV",
     "AA"
-   ]
+   ],
+   "paylasildi": "2026-10-27T16:33:42.624657+03:00",
+   "ig_id": "17917841097260981",
+   "reels_id": "18036972887891259",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1568548741705161",
+   "slayt": 5,
+   "kanca": "TOKAYEV TÜRKİYE'YE GELİYOR"
   },
   "a1ead38d08de": {
    "id": "a1ead38d08de",
@@ -26135,9 +26055,239 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d25b7334eb29"
+  },
+  "a479ee865316": {
+   "id": "a479ee865316",
+   "kaynak": "TRT Haber",
+   "baslik": "Burdur'da otobüs kazası: 1 ölü, 8 yaralı",
+   "ozet": "Burdur'un Ağlasun ilçesinde yolcu otobüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 8 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/burdurda-otobus-kazasi-1-olu-8-yarali-961339.html",
+   "zaman": "2026-10-27T12:29:00+03:00",
+   "kelimeler": [
+    "burdu",
+    "kazas",
+    "olu",
+    "otobu",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0a40b92b2e96"
+  },
+  "f4c7a572a1ea": {
+   "id": "f4c7a572a1ea",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'daki uyuşturucu operasyonlarında 5 kişi yakalandı",
+   "ozet": "İstanbul Bağcılar ve Şişli'de düzenlenen uyuşturucu operasyonlarında biri firari hükümlü 5 kişi gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-uyusturucu-operasyonlarinda-5-kisi-yakalandi-961356.html",
+   "zaman": "2026-10-27T14:56:00+03:00",
+   "kelimeler": [
+    "daki",
+    "istan",
+    "kisi",
+    "opera",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "66837ac4616a": {
+   "id": "66837ac4616a",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk Dünyası 13. Ankara Zirvesiyle yeni döneme hazırlanıyor",
+   "ozet": "\"Türk Dünyası'nın geleceği, birlikte hareket etme ve ortak hedefler doğrultusunda sonuç üretme irademizde saklı.\" diyen Türk Devletleri Teşkilatı Genel Sekreteri Kubanıçbek Ömüraliyev, dört yıllık görev süresinde Teşkilatın kaydettiği ilerlemeleri ve Ankarada düzenlenecek 13.",
+   "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasi-13-ankara-zirvesiyle-yeni-doneme-hazirlaniyor-961366.html",
+   "zaman": "2026-10-27T15:36:00+03:00",
+   "kelimeler": [
+    "13",
+    "ankar",
+    "donem",
+    "dunya",
+    "hazir",
+    "turk",
+    "yeni",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f830523494ba": {
+   "id": "f830523494ba",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş, Kuzey Makedonya Devlet Bakanı Zeynula'yı kabul etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, Kuzey Makedonya Devlet Bakanı ve Türk Demokratik Partisi Genel Başkanı Zülfikar Zeynula'yı kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kuzey-makedonya-devlet-bakani-zeynulayi-kabul-etti/4102531",
+   "zaman": "2026-10-27T15:52:53+03:00",
+   "kelimeler": [
+    "bakan",
+    "baska",
+    "devle",
+    "etti",
+    "kabul",
+    "kurtu",
+    "kuzey",
+    "maked",
+    "tbmm",
+    "yi",
+    "zeynu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cf417d5ccaff": {
+   "id": "cf417d5ccaff",
+   "kaynak": "Hürriyet",
+   "baslik": "Tramvay yayalara çarptı: 1 ölü, 1 yaralı",
+   "ozet": "Kocaeli'nin İzmit ilçesinde yolun karşısına geçmeye çalışan iki kişiye tramvay çarptı. Yaralılardan Nesime Sert kaldırıldığı hastanede hayatını kaybetti",
+   "link": "https://www.hurriyet.com.tr/gundem/tramvay-yayalara-carpti-1-olu-1-yarali-43356898",
+   "zaman": "2026-10-27T15:57:00+03:00",
+   "kelimeler": [
+    "carpt",
+    "olu",
+    "tramv",
+    "yaral",
+    "yayal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f48d1bd77697": {
+   "id": "f48d1bd77697",
+   "kaynak": "AA",
+   "baslik": "İran Ordusu: Hürmüz Boğazı’nın doğusunda mayına çarpan tankerde yangın çıktı",
+   "ozet": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı’nın doğu bölgesinde takip sistemlerini kapatıp seyreden bir tankerin mayına çarptığını ve tankerde yangın çıktığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazi-nin-dogusunda-mayina-carpan-tankerde-yangin-cikti/4102544",
+   "zaman": "2026-10-27T16:00:33+03:00",
+   "kelimeler": [
+    "bogaz",
+    "carpa",
+    "cikti",
+    "dogus",
+    "hurmu",
+    "iran",
+    "mayin",
+    "nin",
+    "ordus",
+    "tanke",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9c6ec739d0f1": {
+   "id": "9c6ec739d0f1",
+   "kaynak": "AA",
+   "baslik": "Mercedes-Benz, Çin pazarı ve artan maliyetler nedeniyle kar hedeflerini düşürdü",
+   "ozet": "Alman otomotiv grubu Mercedes-Benz, Çin pazarındaki sert talep düşüşü, Orta Doğu'daki savaşın tetiklediği yüksek maliyetler ve dördüncü çeyreğe sarkan ek yükler nedeniyle bu yılki kar beklentilerini aşağı yönlü revize etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/mercedes-benz-cin-pazari-ve-artan-maliyetler-nedeniyle-kar-hedeflerini-dusurdu/4102559",
+   "zaman": "2026-10-27T16:10:18+03:00",
+   "kelimeler": [
+    "artan",
+    "benz",
+    "cin",
+    "dusur",
+    "hedef",
+    "kar",
+    "maliy",
+    "merce",
+    "neden",
+    "pazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70bd42a507fb": {
+   "id": "70bd42a507fb",
+   "kaynak": "AA",
+   "baslik": "Somali hükümeti, Türkiye ile köklü ortaklığın güçlü şekilde sürdüğünü belirtti",
+   "ozet": "Somali federal hükümeti, Türkiye ile köklü ortaklığın güçlü şekilde devam ettiğini, iki ülkenin terörle mücadele, ulusal güvenliğin güçlendirilmesi ve kalıcı barışın sağlanması için işbirliğini sürdürdüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/somali-hukumeti-turkiye-ile-koklu-ortakligin-guclu-sekilde-surdugunu-belirtti/4102565",
+   "zaman": "2026-10-27T16:14:04+03:00",
+   "kelimeler": [
+    "belir",
+    "guclu",
+    "hukum",
+    "koklu",
+    "ortak",
+    "sekil",
+    "somal",
+    "surdu",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "913d1274c2e8": {
+   "id": "913d1274c2e8",
+   "kaynak": "Hürriyet",
+   "baslik": "Kalp krizi geçiren 9 yaşındaki Ömer Halis, hayatını kaybetti",
+   "ozet": "Zonguldak'ın Ereğli ilçesinde, eğitim gördüğü ilkokulda rahatsızlanan Ömer Halis Yıldırım (9), yaşamını yitirdi. Yıldırım’ın ilk incelemede kalp krizi sonucu hayatını kaybettiği belirtildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kalp-krizi-geciren-9-yasindaki-omer-halis-hayatini-kaybetti-43356947",
+   "zaman": "2026-10-27T16:17:00+03:00",
+   "kelimeler": [
+    "gecir",
+    "halis",
+    "hayat",
+    "kalp",
+    "kaybe",
+    "krizi",
+    "omer",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3257fe7a3c16": {
+   "id": "3257fe7a3c16",
+   "kaynak": "TRT Haber",
+   "baslik": "Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi paneli düzenlendi",
+   "ozet": "İletişim Başkanlığınca \"Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi\" başlıklı panel düzenlendi.",
+   "link": "https://www.trthaber.com/haber/gundem/sifir-atiktan-cop31e-turkiyenin-iklim-diplomasisi-paneli-duzenlendi-961372.html",
+   "zaman": "2026-10-27T16:19:00+03:00",
+   "kelimeler": [
+    "atik",
+    "cop31",
+    "diplo",
+    "duzen",
+    "iklim",
+    "nin",
+    "panel",
+    "sifir",
+    "tan",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "261c694850e6"
+  },
+  "fe270c2b4cf0": {
+   "id": "fe270c2b4cf0",
+   "kaynak": "AA",
+   "baslik": "Vergi Denetim Kurulu 820 hekim ve 45 özel hastaneyi yakın takibe aldı",
+   "ozet": "Vergi Denetim Kurulu Başkanlığı (VDK), 820 hekim ve 45 özel hastaneyle yaptığı görüşmelerde vergisel riskleri incelemeye ihtiyaç duyulmadan giderirken çalışmanın üç aylık etki analizinde toplam 32,7 milyar lira matrah değişimi tespit etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/vergi-denetim-kurulu-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi/4102584",
+   "zaman": "2026-10-27T16:21:49+03:00",
+   "kelimeler": [
+    "45",
+    "820",
+    "aldi",
+    "denet",
+    "hasta",
+    "hekim",
+    "kurul",
+    "ozel",
+    "takib",
+    "vergi",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 16:33:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Kazakistan Cumhurbaşkanı Tokayev Türkiye'ye geliyor",
+  "27.10 16:31:28  9 yeni haber",
   "27.10 16:02:32  6 yeni haber",
   "27.10 15:46:06  4 yeni haber",
   "27.10 15:31:35  14 yeni haber",
@@ -26335,9 +26485,7 @@
   "25.10 09:04:52  1 yeni haber",
   "25.10 09:04:13  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Yeni Call of Duty oyununda atılabilen nükleer bomba görüntülendi.",
   "25.10 09:01:38  1 yeni haber",
-  "25.10 08:31:29  1 yeni haber",
-  "25.10 08:15:55  1 yeni haber",
-  "25.10 07:46:17  1 yeni haber"
+  "25.10 08:31:29  1 yeni haber"
  ],
  "otomatik": false
 }
