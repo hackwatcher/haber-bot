@@ -1,83 +1,5 @@
 {
  "haberler": {
-  "da6ec4c04984": {
-   "id": "da6ec4c04984",
-   "kaynak": "Hürriyet",
-   "baslik": "Kıraathanede gece yarısı çıkan yangın korkuttu",
-   "ozet": "Bursa’da bir kıraathanede çıkan yangın, ekiplerin müdahalesiyle kontrol altına alınarak söndürüldü. Yangın sebebiyle kıraathanede maddi hasar meydana geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kiraathanede-gece-yarisi-cikan-yangin-korkuttu-43353022",
-   "zaman": "2026-10-24T03:31:00+03:00",
-   "kelimeler": [
-    "cikan",
-    "gece",
-    "kiraa",
-    "korku",
-    "yangi",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cd64ea5c222b": {
-   "id": "cd64ea5c222b",
-   "kaynak": "Hürriyet",
-   "baslik": "Azerbaycan Büyükelçisi Aslanov'dan MHP Lideri Bahçeli'ye ziyaret",
-   "ozet": "Azerbaycan'ın Ankara Büyükelçisi Reşad Aslanov, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/azerbaycan-buyukelcisi-aslanovdan-mhp-lideri-bahceliye-ziyaret-43353023",
-   "zaman": "2026-10-24T03:33:32+03:00",
-   "kelimeler": [
-    "aslan",
-    "azerb",
-    "bahce",
-    "buyuk",
-    "dan",
-    "lider",
-    "mhp",
-    "ye",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b2dd472af4ab": {
-   "id": "b2dd472af4ab",
-   "kaynak": "Hürriyet",
-   "baslik": "Milas Belediyesi operasyonunda 18 tutuklama",
-   "ozet": "Muğla'nın Milas belediyesine yönelik Muğla Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gözaltı kararı verilen 35 şüpheliden 18'i tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/milas-belediyesi-operasyonunda-18-tutuklama-43353024",
-   "zaman": "2026-10-24T03:34:42+03:00",
-   "kelimeler": [
-    "18",
-    "beled",
-    "milas",
-    "opera",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "340629d834e9"
-  },
-  "aaafe5d25130": {
-   "id": "aaafe5d25130",
-   "kaynak": "Hürriyet",
-   "baslik": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
-   "ozet": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-43353025",
-   "zaman": "2026-10-24T03:36:18+03:00",
-   "kelimeler": [
-    "aldi",
-    "deger",
-    "mali",
-    "seffa",
-    "siral",
-    "turki",
-    "ust",
-    "yer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "72f5f81f87cb"
-  },
   "affdac147b05": {
    "id": "affdac147b05",
    "kaynak": "AA",
@@ -14524,7 +14446,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "2490db6c2ef3": {
    "id": "2490db6c2ef3",
@@ -19794,7 +19719,8 @@
     "yasay"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "91fac6c7263f": {
    "id": "91fac6c7263f",
@@ -23816,9 +23742,75 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "619c5a921394"
+  },
+  "8339de4d95a9": {
+   "id": "8339de4d95a9",
+   "kaynak": "NTV",
+   "baslik": "İstanbul için sel alarmı. Sabah saatlerine dikkat",
+   "ozet": "İstanbul'da yeniden kuvvetli yağış uyarısı var. Özellikle sabah saat 05.00 ile 10.00 arası şiddetli sağanak bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107",
+   "zaman": "2026-10-27T03:18:43+03:00",
+   "kelimeler": [
+    "alarm",
+    "dikka",
+    "istan",
+    "saatl",
+    "sabah",
+    "sel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c4444999c10e"
+  },
+  "cfd2f909cccb": {
+   "id": "cfd2f909cccb",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın Harc vilayeti ve doğu bölgesinde erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistemi-devreye-alindi/4101863",
+   "zaman": "2026-10-27T03:37:16+03:00",
+   "kelimeler": [
+    "alind",
+    "arabi",
+    "bolge",
+    "devre",
+    "dogu",
+    "erken",
+    "harc",
+    "in",
+    "siste",
+    "suudi",
+    "uyari",
+    "vilay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2040215354d4"
+  },
+  "1332fd87e0e0": {
+   "id": "1332fd87e0e0",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
+   "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo",
+   "zaman": "2026-10-27T03:44:02+03:00",
+   "kelimeler": [
+    "chp",
+    "cikis",
+    "erken",
+    "kilic",
+    "muhal",
+    "nasil",
+    "nun",
+    "secim",
+    "yorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 03:45:57  1 yeni haber",
   "27.10 02:16:12  7 yeni haber",
   "27.10 00:52:15  2 yeni haber",
   "27.10 00:46:10  2 yeni haber",
@@ -24017,8 +24009,7 @@
   "24.10 18:01:25  2 yeni haber",
   "24.10 17:45:54  2 yeni haber",
   "24.10 17:31:18  4 yeni haber",
-  "24.10 17:16:16  4 yeni haber",
-  "24.10 17:01:14  3 yeni haber"
+  "24.10 17:16:16  4 yeni haber"
  ],
  "otomatik": false
 }
