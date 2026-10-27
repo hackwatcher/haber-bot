@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "d9180e846a37": {
-   "id": "d9180e846a37",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Ekim 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-ekim-2026-1747822",
-   "zaman": "2026-10-25T00:00:00+03:00",
-   "kelimeler": [
-    "2026",
-    "25",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "ekim",
-    "il",
-    "istan",
-    "izmir",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "8cd0292db693"
-  },
-  "0bea4c782911": {
-   "id": "0bea4c782911",
-   "kaynak": "TRT Haber",
-   "baslik": "Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
-   "ozet": "Milli Savunma Bakanlığı, Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz'ün şehit olduğunu, 2 personelin yaralandığını açıklandı.",
-   "link": "https://www.trthaber.com/haber/gundem/albay-sayit-gokgoz-askeri-arac-kazasinda-sehit-oldu-961105.html",
-   "zaman": "2026-10-25T00:00:00+03:00",
-   "kelimeler": [
-    "albay",
-    "arac",
-    "asker",
-    "gokgo",
-    "kazas",
-    "sayit",
-    "sehit"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "NTV",
-    "AA"
-   ],
-   "paylasildi": "2026-10-25T00:34:11.847645+03:00",
-   "ig_id": "18638121388055103",
-   "reels_id": "17865712533693672",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1114948614797806",
-   "slayt": 6,
-   "kanca": "ALBAY SAYİT GÖKGÖZ ŞEHİT"
-  },
   "f50d7570688e": {
    "id": "f50d7570688e",
    "kaynak": "Hürriyet",
@@ -27549,7 +27492,10 @@
     "tamam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "e52f72aa3a50": {
    "id": "e52f72aa3a50",
@@ -27656,8 +27602,17 @@
     "ticar",
     "yaral"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-28T00:05:01.052105+03:00",
+   "ig_id": "18139272733654866",
+   "reels_id": "17889908067476266",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1864477178325953",
+   "slayt": 5,
+   "kanca": "NESİH A.'NIN DURUMU AĞIR"
   },
   "3b17f40388ca": {
    "id": "3b17f40388ca",
@@ -27749,9 +27704,105 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "fc6657f4e58f"
+  },
+  "8f0323ed440d": {
+   "id": "8f0323ed440d",
+   "kaynak": "TRT Haber",
+   "baslik": "Güllü'nün kızı Tuğyan Ülkem Gülter'e yeni soruşturma",
+   "ozet": "Yalova'da \"Güllü\" adıyla tanınan şarkıcı Gül Tut'u öldürdüğü gerekçesiyle ağırlaştırılmış müebbet hapis cezasına çarptırılan kızı Tuğyan Ülkem Gülter hakkında hemşirelik yaptığı dönemde hastalara yönelik davranışlarıyla ilgili adli ve idari soruşturma başlatıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/gullunun-kizi-tugyan-ulkem-gultere-yeni-sorusturma-961411.html",
+   "zaman": "2026-10-27T23:45:00+03:00",
+   "kelimeler": [
+    "gullu",
+    "gulte",
+    "kizi",
+    "nun",
+    "sorus",
+    "tugya",
+    "ulkem",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0190b45ef903": {
+   "id": "0190b45ef903",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | İsrail’deki İlk resmi sonuçlara göre, Netanyahu'nun kaybettiği belirtiliyor.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30396",
+   "zaman": "2026-10-27T23:47:50+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | İsrail’deki İlk resmi sonuçlara göre, Netanyahu'nun kaybettiği belirtiliyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/TrL3WL609jdrZR3abaUxIK-OYLPjrMw1bzxDF59Bv7wYHwAyDdkLIrbwbwVvEFusWJQIiiZ-MVTIvTQ4wrxhblxWr-9qF-jk4iDA1XGuwz71GDokjr7AfQ0vl1tzBn7fKvUlsT1gDuxWWQZQTdBBEahxuUuMSeWIhnLpZNyQGEsgsQSjeIkL5Dld-ihbbQzGkfpRFUmAhQ5MloyExZThod5zHDSz-SDEGZX8ANLinsKUGyoICOJK6KJy4QJse8qyx8Btysx3Ig2c1_aWNFIroa4fktU2CxX8ku4A3PITuIQTpkRQf1SRCBfv5L5ko-b38k_Gw_Bdbcab8cmBUu-SPw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "belir",
+    "deki",
+    "gore",
+    "ilk",
+    "israi",
+    "kaybe",
+    "netan",
+    "nun",
+    "resmi",
+    "sonda",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "02ab5d5fac5b": {
+   "id": "02ab5d5fac5b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İsrail'de sandık çıkış anketlerine göre hiçbir blok meclis çoğunluğunu sağlayamıyor",
+   "ozet": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu gösteriyor.",
+   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o",
+   "zaman": "2026-10-27T23:55:56+03:00",
+   "kelimeler": [
+    "anket",
+    "blok",
+    "cikis",
+    "cogun",
+    "gore",
+    "hicbi",
+    "israi",
+    "mecli",
+    "sagla",
+    "sandi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7e051921d902"
+  },
+  "0bf7088cdcb7": {
+   "id": "0bf7088cdcb7",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Ekim 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 28 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-28-ekim-2026-1748262",
+   "zaman": "2026-10-28T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "28",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "ekim",
+    "il",
+    "istan",
+    "izmir",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "44fdc72a99f8"
   }
  },
  "kayit": [
+  "28.10 00:05:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Mardin’de hafif ticari araç ile otomobil çarpıştı: 1 ölü, 3 yaralı",
+  "28.10 00:01:22  2 yeni haber",
   "27.10 23:45:59  6 yeni haber",
   "27.10 23:31:20  2 yeni haber",
   "27.10 23:16:15  3 yeni haber",
@@ -27949,9 +28000,7 @@
   "25.10 15:31:17  4 yeni haber",
   "25.10 15:16:07  5 yeni haber",
   "25.10 15:01:14  5 yeni haber",
-  "25.10 14:45:53  5 yeni haber",
-  "25.10 14:31:20  5 yeni haber",
-  "25.10 14:18:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · AK Parti Genel Başkan Yardımcısı Zorlu, Ziya Gökalp'i vefatının 102. y"
+  "25.10 14:45:53  5 yeni haber"
  ],
  "otomatik": false
 }
