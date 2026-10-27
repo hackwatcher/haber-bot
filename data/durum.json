@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "3ac664c379bd": {
-   "id": "3ac664c379bd",
-   "kaynak": "Hürriyet",
-   "baslik": "Çanakkale Boğazı’nda gemi arızası: Gemi güvenli bölgeye demirletildi",
-   "ozet": "Çanakkale Boğazı’nda makine arızası yapan 118 metre uzunluğundaki tanker yedeklenerek Şevketiye Demir Sahası’na demirletildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/canakkale-bogazinda-gemi-arizasi-gemi-guvenli-bolgeye-demirletildi-43353056",
-   "zaman": "2026-10-24T08:56:09+03:00",
-   "kelimeler": [
-    "ariza",
-    "bogaz",
-    "bolge",
-    "canak",
-    "demir",
-    "gemi",
-    "guven",
-    "nda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "c2a9c133fed8": {
    "id": "c2a9c133fed8",
    "kaynak": "Sözcü",
@@ -43,27 +20,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "0c21ed09b780": {
-   "id": "0c21ed09b780",
-   "kaynak": "TRT Haber",
-   "baslik": "Çanakkale Boğazı'nda arızalanan gemi güvenli bölgeye demirletildi",
-   "ozet": "Çanakkale Boğazı'nda arızalanan gemi, Şevketiye Demir Sahası'na çekildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/canakkale-bogazinda-arizalanan-gemi-guvenli-bolgeye-demirletildi-961051.html",
-   "zaman": "2026-10-24T08:56:00+03:00",
-   "kelimeler": [
-    "ariza",
-    "bogaz",
-    "bolge",
-    "canak",
-    "demir",
-    "gemi",
-    "guven",
-    "nda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3ac664c379bd"
   },
   "579870b58ee8": {
    "id": "579870b58ee8",
@@ -24355,9 +24311,94 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "52cbf9531bd9": {
+   "id": "52cbf9531bd9",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ile AB arasında makine emniyeti mevzuatında uyum süreci tamamlandı",
+   "ozet": "Ticaret Bakanlığı, TürkiyeAB Gümrük Birliği kapsamında makine emniyeti mevzuatında uyum sürecinin tamamlandığını teyit eden \"Beyan Metni\"nin imzalandığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-ab-arasinda-makine-emniyeti-mevzuatinda-uyum-sureci-tamamlandi-961298.html",
+   "zaman": "2026-10-27T08:37:00+03:00",
+   "kelimeler": [
+    "ab",
+    "arasi",
+    "emniy",
+    "makin",
+    "mevzu",
+    "surec",
+    "tamam",
+    "turki",
+    "uyum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d00ee1fc2fc": {
+   "id": "2d00ee1fc2fc",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail'de genel seçimler için oy verme işlemi başladı",
+   "ozet": "İsrail'de Meclis'teki 120 milletvekilini belirlemek üzere ülke genelindeki oy verme işlemi yerel saatle 07.00'de TSİ 08.00 başladı.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilde-genel-secimler-icin-oy-verme-islemi-basladi-961299.html",
+   "zaman": "2026-10-27T08:39:00+03:00",
+   "kelimeler": [
+    "basla",
+    "genel",
+    "islem",
+    "israi",
+    "oy",
+    "secim",
+    "soyki",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63b8ca50e845": {
+   "id": "63b8ca50e845",
+   "kaynak": "Hürriyet",
+   "baslik": "Küçükçekmece’de çatıda başlayan yangın bitişikteki binaya sıçradı: Müdahale sürüyor",
+   "ozet": "Küçükçekmece’de 3 katlı tekstil atölyesinin çatısında çıkan yangın, bitişikteki binanın çatısına da sıçradı. İtfaiye ekiplerinin yangına müdahalesi sürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/kucukcekmecede-catida-baslayan-yangin-bitisikteki-binaya-sicradi-mudahale-suruyor-43356140",
+   "zaman": "2026-10-27T08:49:18+03:00",
+   "kelimeler": [
+    "basla",
+    "binay",
+    "bitis",
+    "catid",
+    "kucuk",
+    "mudah",
+    "sicra",
+    "suruy",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1598abb3b447": {
+   "id": "1598abb3b447",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da bugün okullar tatil mi, tatil açıklaması yapıldı mı? Yoğun yağış sonrası gündemde",
+   "ozet": "İstanbul'da bugün meydana gelen yoğun sağanak yağış nedeniyle okulların tatil olup olmadığı birçok öğrenci ve velinin gündeminde yer alıyor. Geçtiğimiz günlerde meydana gelen yoğun yağışlarla birlikte sel gibi su baskınları yaşanmış ve İstanbul'da okullar tatil edilmişti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-okullar-tatil-mi-tatil-aciklamasi-yapildi-mi-yogun-yagis-sonrasi-gundemde-1748126",
+   "zaman": "2026-10-27T08:52:39+03:00",
+   "kelimeler": [
+    "acikl",
+    "bugun",
+    "gunde",
+    "istan",
+    "okull",
+    "sonra",
+    "tatil",
+    "yagis",
+    "yapil",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 08:58:24  4 yeni haber",
   "27.10 08:48:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Resmi Gazete'de bugün neler, hangi kararlar var? (27 Ekim 2026 Resmi G",
   "27.10 08:45:58  3 yeni haber",
   "27.10 08:31:11  3 yeni haber",
@@ -24556,8 +24597,7 @@
   "24.10 21:01:24  2 yeni haber",
   "24.10 21:01:24  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "24.10 20:45:55  2 yeni haber",
-  "24.10 20:31:17  3 yeni haber",
-  "24.10 20:16:16  3 yeni haber"
+  "24.10 20:31:17  3 yeni haber"
  ],
  "otomatik": false
 }
