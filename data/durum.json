@@ -1,82 +1,5 @@
 {
  "haberler": {
-  "0b491efec759": {
-   "id": "0b491efec759",
-   "kaynak": "AA",
-   "baslik": "Tekerlekli sandalyeyle geldiği hastaneden yürüyerek taburcu oldu",
-   "ozet": "Yaklaşık 30 yıl önce düşmesi sonucu boynunda kırık oluşan ve ikinci kez düşmesinin ardından boyundan aşağısı felç kalan Neriman Fil, İstanbul'da tekerlekli sandalyeyle geldiği hastaneden zorlu tedavi süreci sonrası yürüyerek taburcu oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/tekerlekli-sandalyeyle-geldigi-hastaneden-yuruyerek-taburcu-oldu/4099627",
-   "zaman": "2026-10-24T17:04:55+03:00",
-   "kelimeler": [
-    "geldi",
-    "hasta",
-    "sanda",
-    "tabur",
-    "teker",
-    "yuruy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "57883e0b1469": {
-   "id": "57883e0b1469",
-   "kaynak": "TRT Haber",
-   "baslik": "TURKSAI'nın teşkilat tüzüğü Antalya'da imzalandı",
-   "ozet": "Türk Devletleri Teşkilatı Üye Devletleri Yüksek Denetim Kurumları Teşkilatı, temsilcilerin Antalya'da imzaladığı tüzükle resmi ve hukuki statü kazandı.",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/turksainin-teskilat-tuzugu-antalyada-imzalandi-961087.html",
-   "zaman": "2026-10-24T17:05:00+03:00",
-   "kelimeler": [
-    "antal",
-    "imzal",
-    "nin",
-    "teski",
-    "turks",
-    "tuzug"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "edce45c9d514": {
-   "id": "edce45c9d514",
-   "kaynak": "Hürriyet",
-   "baslik": "6'ncı Doku Kumaş Tasarım Yarışması'nda ödüller sahiplerini buldu",
-   "ozet": "GÜNEYDOĞU Anadolu Tekstil ve Hammaddeleri İhracatçıları Birliği (GATHİB) tarafından, Ticaret Bakanlığı desteği ve Türkiye İhracatçılar Meclisi (TİM) koordinasyonuyla düzenlenen 6'ncı 'Doku Kumaş Tasarım Yarışması'nda ödüller sahiplerini buldu.",
-   "link": "https://www.hurriyet.com.tr/gundem/6nci-doku-kumas-tasarim-yarismasinda-oduller-sahiplerini-buldu-43353694",
-   "zaman": "2026-10-24T17:10:13+03:00",
-   "kelimeler": [
-    "buldu",
-    "doku",
-    "kumas",
-    "nci",
-    "nda",
-    "odull",
-    "sahip",
-    "tasar",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d75adddebd5c": {
-   "id": "d75adddebd5c",
-   "kaynak": "TRT Haber",
-   "baslik": "Coşkun Necati Arabacı'ya 15 yıl 6 ay hapis",
-   "ozet": "İzmir'de organize suç örgütü elebaşı Coşkun Necati Arabacı, 15 yıl 6 ay hapis cezasına çarptırıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/coskun-necati-arabaciya-15-yil-6-ay-hapis-961088.html",
-   "zaman": "2026-10-24T17:14:00+03:00",
-   "kelimeler": [
-    "15",
-    "araba",
-    "ay",
-    "cosku",
-    "hapis",
-    "necat",
-    "ya",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c24dd3f55161": {
    "id": "c24dd3f55161",
    "kaynak": "AA",
@@ -20059,7 +19982,10 @@
    "fb_id": null,
    "fb_reels_id": "1861436538546765",
    "slayt": 5,
-   "kanca": "2027 YILLIK PROGRAMI"
+   "kanca": "2027 YILLIK PROGRAMI",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "93ecd87833c3": {
    "id": "93ecd87833c3",
@@ -26107,7 +26033,10 @@
     "yakin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "47d02c3426ab": {
    "id": "47d02c3426ab",
@@ -26377,9 +26306,132 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0b94ed1f1ca6": {
+   "id": "0b94ed1f1ca6",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (27 Ekim 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-27-ekim-2026/4102553",
+   "zaman": "2026-10-27T16:07:40+03:00",
+   "kelimeler": [
+    "2026",
+    "27",
+    "60",
+    "bugun",
+    "ekim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bb7bf38eaabc"
+  },
+  "c2fd7dd071a1": {
+   "id": "c2fd7dd071a1",
+   "kaynak": "AA",
+   "baslik": "60 saniyede ekonomide bugün (27 Ekim 2026)",
+   "ozet": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-ekim-2026/4102556",
+   "zaman": "2026-10-27T16:09:07+03:00",
+   "kelimeler": [
+    "2026",
+    "27",
+    "60",
+    "bugun",
+    "ekim",
+    "ekono",
+    "saniy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4bdde491dc42": {
+   "id": "4bdde491dc42",
+   "kaynak": "TRT Haber",
+   "baslik": "Yanıltıcı ilana devam eden firmaya 2 kat ceza",
+   "ozet": "Ticaret Bakanlığı, yanıltıcı konut ilanı ihlaline devam eden firmaya, önceden verilen cezanın 2 katı idari para cezası uyguladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/yaniltici-ilana-devam-eden-firmaya-2-kat-ceza-961378.html",
+   "zaman": "2026-10-27T16:52:00+03:00",
+   "kelimeler": [
+    "ceza",
+    "devam",
+    "eden",
+    "firma",
+    "ilana",
+    "kat",
+    "yanil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60cb5a1c0920": {
+   "id": "60cb5a1c0920",
+   "kaynak": "TRT Haber",
+   "baslik": "VDK, 820 hekim ve 45 özel hastaneyi yakın takibe aldı",
+   "ozet": "Vergi Denetim Kurulu Başkanlığı VDK, sağlık sektörüne yönelik yürüttüğü gözetim programı kapsamında 820 hekim ve 45 özel hastaneyle yaptığı görüşmelerde vergisel riskleri incelemeye ihtiyaç duyulmadan giderirken çalışmanın üç aylık etki analizinde toplam 32,7 milyar lira matrah…",
+   "link": "https://www.trthaber.com/haber/ekonomi/vdk-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi-961379.html",
+   "zaman": "2026-10-27T17:02:00+03:00",
+   "kelimeler": [
+    "45",
+    "820",
+    "aldi",
+    "hasta",
+    "hekim",
+    "ozel",
+    "takib",
+    "vdk",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fe270c2b4cf0"
+  },
+  "ab3bdfe72ff6": {
+   "id": "ab3bdfe72ff6",
+   "kaynak": "AA",
+   "baslik": "Mbappe'nin Mao için \"diktatör\" ifadesini kullanması Çin'de tepki topladı",
+   "ozet": "Real Madrid'de forma giyen Fransız futbolcu Kylian Mbappe'nin Çin Halk Cumhuriyeti'nin kurucusu Mao Zedong hakkında \"Çinli diktatör\" ifadesini kullanması ülkede tepkiye yol açtı.",
+   "link": "https://www.aa.com.tr/tr/spor/mbappenin-mao-icin-diktator-ifadesini-kullanmasi-cinde-tepki-topladi/4102639",
+   "zaman": "2026-10-27T17:10:05+03:00",
+   "kelimeler": [
+    "cin",
+    "dikta",
+    "ifade",
+    "kulla",
+    "mao",
+    "mbapp",
+    "nin",
+    "tepki",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "71fd749c28e4": {
+   "id": "71fd749c28e4",
+   "kaynak": "AA",
+   "baslik": "Kanadalı müzisyen Neil Young, şarkısını mitinginde kullanan Trump'a dava açtı",
+   "ozet": "Kanadalı müzisyen Neil Young, \"Rockin' in the Free World\" isimli şarkısını bir daha seçim kampanyasında kullanmama sözüne rağmen Ohio mitinginde kullanan ABD Başkanı Donald Trump'a 10 milyon dolarlık dava açtı.",
+   "link": "https://www.aa.com.tr/tr/kultur/kanadali-muzisyen-neil-young-sarkisini-mitinginde-kullanan-trumpa-dava-acti-/4102644",
+   "zaman": "2026-10-27T17:13:47+03:00",
+   "kelimeler": [
+    "acti",
+    "dava",
+    "kanad",
+    "kulla",
+    "mitin",
+    "muzis",
+    "neil",
+    "sarki",
+    "trump",
+    "young"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 17:15:59  4 yeni haber",
   "27.10 17:01:36  4 yeni haber",
   "27.10 16:45:56  7 yeni haber",
   "27.10 16:33:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Kazakistan Cumhurbaşkanı Tokayev Türkiye'ye geliyor",
@@ -26578,8 +26630,7 @@
   "25.10 09:46:06  3 yeni haber",
   "25.10 09:31:06  4 yeni haber",
   "25.10 09:16:13  4 yeni haber",
-  "25.10 09:04:52  1 yeni haber",
-  "25.10 09:04:13  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Yeni Call of Duty oyununda atılabilen nükleer bomba görüntülendi."
+  "25.10 09:04:52  1 yeni haber"
  ],
  "otomatik": false
 }
