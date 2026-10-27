@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "0c46188add8d": {
-   "id": "0c46188add8d",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı",
-   "ozet": "",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-yollar-trafige-kapatildi/4099167",
-   "zaman": "2026-10-24T07:39:18+03:00",
-   "kelimeler": [
-    "bayra",
-    "bazi",
-    "cadde",
-    "cumhu",
-    "istan",
-    "kapat",
-    "neden",
-    "prova",
-    "toren",
-    "trafi",
-    "yolla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "92c7ad048afd"
-  },
   "dd6cfc803f8f": {
    "id": "dd6cfc803f8f",
    "kaynak": "AA",
@@ -23740,7 +23716,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Hürriyet",
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "f9077148d554": {
@@ -24152,7 +24129,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "Hürriyet"
    ]
   },
   "c7b454fa4ff4": {
@@ -24174,9 +24152,114 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b0990b842152"
+  },
+  "2d0f50556433": {
+   "id": "2d0f50556433",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 füze ile 4 İHA imha edildi",
+   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füze ve 4 insansız hava aracının İHA hava savunma sistemleri tarafından imha edildiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-fuze-ile-4-iha-imha-edildi-961289.html",
+   "zaman": "2026-10-27T07:12:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "edild",
+    "firla",
+    "fuze",
+    "husil",
+    "iha",
+    "imha",
+    "koali",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e5338642f8f9"
+  },
+  "0219b7359da4": {
+   "id": "0219b7359da4",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da beklenen yağmur başladı: Dışarı çıkan vatandaşlar zor anlar yaşadı",
+   "ozet": "İstanbul'da sabahın erken saatlerinde etkili olan sağanak yağış, işe gitmek için yola çıkan vatandaşlara zor anlar yaşattı. Bazı vatandaşlar şemsiyeleriyle yağmurdan korunmaya çalışırken, bazıları ise yağıştan etkilenmemek için koşarak ilerledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098",
+   "zaman": "2026-10-27T07:23:00+03:00",
+   "kelimeler": [
+    "anlar",
+    "basla",
+    "bekle",
+    "cikan",
+    "disar",
+    "istan",
+    "vatan",
+    "yagmu",
+    "yasad",
+    "zor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3476250fb7f7": {
+   "id": "3476250fb7f7",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni nesil suç örgülerine operasyon: 85 şüpheli gözaltına alındı",
+   "ozet": "Yeni Nesil Suç Örgütlerine yönelik 30 ilde eş zamanlı operasyon gerçekleştirildi. 85 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-nesil-suc-orgulerine-operasyon-85-supheli-gozaltina-alindi-43356102",
+   "zaman": "2026-10-27T07:29:00+03:00",
+   "kelimeler": [
+    "85",
+    "alind",
+    "gozal",
+    "nesil",
+    "opera",
+    "orgul",
+    "suc",
+    "suphe",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0990b842152"
+  },
+  "5bf502cdfd01": {
+   "id": "5bf502cdfd01",
+   "kaynak": "Sözcü",
+   "baslik": "Yerel yönetim dengeleri değişiyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/yerel-yonetim-dengeleri-degisiyor-p373085",
+   "zaman": "2026-10-27T07:41:25+03:00",
+   "kelimeler": [
+    "degis",
+    "denge",
+    "yerel",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c3bd73ba3a0e": {
+   "id": "c3bd73ba3a0e",
+   "kaynak": "AA",
+   "baslik": "Bakırköy Belediyesine yönelik soruşturmada 68 şüpheliye gözaltı kararı",
+   "ozet": "Bakırköy Cumhuriyet Başsavcılığı, Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin başlatılan soruşturma kapsamında 68 şüpheli hakkında gözaltı kararı verildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-68-supheliye-gozalti-karari/4101880",
+   "zaman": "2026-10-27T07:43:55+03:00",
+   "kelimeler": [
+    "68",
+    "bakir",
+    "beled",
+    "gozal",
+    "karar",
+    "sorus",
+    "suphe",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "35e91bfc97e1"
   }
  },
  "kayit": [
+  "27.10 07:46:02  2 yeni haber",
   "27.10 07:31:10  3 yeni haber",
   "27.10 07:16:13  10 yeni haber",
   "27.10 07:02:46  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Fenerbahçeli taraftarlar İsmail Kartal'ı istifaya çağırıyor.",
@@ -24375,8 +24458,7 @@
   "24.10 19:46:07  1 yeni haber",
   "24.10 19:31:14  3 yeni haber",
   "24.10 19:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Maçın son dakikalarında fenalaşan futbolcu kalp krizi geçirdi",
-  "24.10 19:15:55  4 yeni haber",
-  "24.10 18:52:50  4 yeni haber"
+  "24.10 19:15:55  4 yeni haber"
  ],
  "otomatik": false
 }
