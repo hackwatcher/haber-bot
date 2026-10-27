@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "ff163abf119d": {
-   "id": "ff163abf119d",
-   "kaynak": "Hürriyet",
-   "baslik": "Tekirdağ'da 1813 yılına tarihlenen mezar taşı kitabesi bulundu",
-   "ozet": "Tekirdağ Bağcılık Araştırma Enstitüsü arazisinde bulunan Osmanlı dönemi Edirne Valisi Şehit Hurşid Paşa’nın kızı Şah-ı Huban Hanım’a ait olduğu değerlendirilen, 1813 yılına tarihlenen mezar taşı kitabesi, Tekirdağ Müze Müdürlüğü’ne teslim edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/tekirdagda-1813-yilina-tarihlenen-mezar-tasi-kitabesi-bulundu-43353319",
-   "zaman": "2026-10-24T12:05:55+03:00",
-   "kelimeler": [
-    "1813",
-    "bulun",
-    "kitab",
-    "mezar",
-    "tarih",
-    "tasi",
-    "tekir",
-    "yilin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0414e8069864": {
-   "id": "0414e8069864",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da mal varlığı aklama soruşturması: 3 şüpheliye tutuklama, Mustafa Sarıgül'ün korumasına adli kontrol",
-   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturmada gözaltına alınan 5 şüpheliden 3'ü çıkarıldıkları hakimlikçe tutuklanırken 2 kişi ise ev hapsi şeklinde adli kontrol şartıyla tahliye edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-mal-varligi-aklama-sorusturmasi-3-supheliye-tutuklama-mustafa-sarigulun-korumasina-adli-kontrol-43353323",
-   "zaman": "2026-10-24T12:06:00+03:00",
-   "kelimeler": [
-    "adli",
-    "aklam",
-    "istan",
-    "kontr",
-    "korum",
-    "mal",
-    "musta",
-    "sarig",
-    "sorus",
-    "suphe",
-    "tutuk",
-    "un",
-    "varli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a63b1a9b2f9b"
-  },
-  "7be848580a08": {
-   "id": "7be848580a08",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanlığından Yunanistan'ın Gümülcine ve İskeçe'ye müftü atamasına tepki",
-   "ozet": "Dışişleri Bakanlığı, Yunanistan'ın Gümülcine ve İskeçe’de sözde müftüler atayarak Batı Trakya Türk Azınlığının uluslararası anlaşmalarla teminat altına alınan temel hak ve özgürlüklerini hiçe saydığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-yunanistanin-gumulcine-ve-iskeceye-muftu-atamasina-tepki/4099340",
-   "zaman": "2026-10-24T12:15:19+03:00",
-   "kelimeler": [
-    "atama",
-    "bakan",
-    "disis",
-    "gumul",
-    "in",
-    "iskec",
-    "muftu",
-    "tepki",
-    "ye",
-    "yunan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "024678b9f0ac": {
    "id": "024678b9f0ac",
    "kaynak": "NTV",
@@ -13963,7 +13894,10 @@
     "yilda"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "b737d4b6ae99": {
    "id": "b737d4b6ae99",
@@ -20968,7 +20902,8 @@
    "diger_kaynaklar": [
     "AA",
     "NTV",
-    "TRT Haber"
+    "TRT Haber",
+    "Sözcü"
    ]
   },
   "075e4d2cf0c9": {
@@ -24870,7 +24805,10 @@
     "sonuc"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "ced4a853b2dc": {
    "id": "ced4a853b2dc",
@@ -24892,7 +24830,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "08baf6fe424a": {
@@ -25115,9 +25054,158 @@
    "fb_reels_id": "988189464328367",
    "slayt": 6,
    "kanca": "10 YIL SONRA AYNI KADER"
+  },
+  "de2ea1e95e67": {
+   "id": "de2ea1e95e67",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum: Ülkemizin barışçıl diplomasisi COP31'e ilham olacak",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Ülkemizin barışçıl diplomasisi COP31'e ilham olacak. Diyalogla kurulan her masa, uzlaşıya ve eyleme dönüşecek.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-ulkemizin-bariscil-diplomasisi-cop31e-ilham-olacak/4102122",
+   "zaman": "2026-10-27T11:39:08+03:00",
+   "kelimeler": [
+    "bakan",
+    "baris",
+    "cop31",
+    "diplo",
+    "ilham",
+    "kurum",
+    "olaca",
+    "ulkem"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ced4a853b2dc"
+  },
+  "22861100aa79": {
+   "id": "22861100aa79",
+   "kaynak": "AA",
+   "baslik": "Kasım ve Aralık 2026 ile Ocak 2027 dönemi askerlik sınıflandırma sonuçları açıklandı",
+   "ozet": "Milli Savunma Bakanlığı, Kasım ve Aralık 2026 ile Ocak 2027 dönemlerinde silah altına alınacak yedek subay ve astsubay adayları ile erlerin sınıflandırma sonuçlarının açıklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kasim-ve-aralik-2026-ile-ocak-2027-donemi-askerlik-siniflandirma-sonuclari-aciklandi/4102123",
+   "zaman": "2026-10-27T11:39:11+03:00",
+   "kelimeler": [
+    "2026",
+    "2027",
+    "acikl",
+    "arali",
+    "asker",
+    "donem",
+    "kasim",
+    "ocak",
+    "sinif",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dcb47213ba52"
+  },
+  "4c7b718b22a4": {
+   "id": "4c7b718b22a4",
+   "kaynak": "Hürriyet",
+   "baslik": "Suç ihbarlarında yeni dönem: Başvuruların akıbeti e-Devlet'ten görülebilecek",
+   "ozet": "Vatandaşların güvenlik güçlerine yaptığı asayiş ihbarları dijital ortama taşınıyor. Yıllık programa alınan yeni altyapı sistemiyle ihbarların durumu e-Devlet kapısından anlık olarak takip edilebilecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/suc-ihbarlarinda-yeni-donem-basvurularin-akibeti-e-devletten-gorulebilecek-43356469",
+   "zaman": "2026-10-27T11:57:12+03:00",
+   "kelimeler": [
+    "akibe",
+    "basvu",
+    "devle",
+    "donem",
+    "gorul",
+    "ihbar",
+    "suc",
+    "ten",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e6e85a7e3f8e": {
+   "id": "e6e85a7e3f8e",
+   "kaynak": "AA",
+   "baslik": "Ödeme güvenliği için siber güvenlik tedbiri alınacak",
+   "ozet": "Politika faizine ilişkin atılacak adımlar, enflasyon gerçekleşmeleri, ana eğilimi ve beklentiler göz önünde bulundurularak ara hedeflerle uyumlu biçimde dezenflasyonun gerektirdiği sıkılığı sağlayacak şekilde belirlenecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/odeme-guvenligi-icin-siber-guvenlik-tedbiri-alinacak/4102160",
+   "zaman": "2026-10-27T11:59:31+03:00",
+   "kelimeler": [
+    "alina",
+    "guven",
+    "odeme",
+    "siber",
+    "tedbi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "92ed742777e0": {
+   "id": "92ed742777e0",
+   "kaynak": "NTV",
+   "baslik": "\"Türkiye'nin elektrik altyapısına 10 yılda 50 milyar dolarlık yatırım gerekiyor\"",
+   "ozet": "Elektrik Dağıtım Hizmetleri Derneği, Türkiye'nin elektrik dağıtım altyapısında gelecek 10 yılda en az 50 milyar dolarlık yatırım ihtiyacı olduğunu açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiyenin-elektrik-altyapisina-10-yilda-50-milyar-dolarlik-yatirim-gerekiyor-1748188",
+   "zaman": "2026-10-27T12:10:56+03:00",
+   "kelimeler": [
+    "10",
+    "50",
+    "altya",
+    "dolar",
+    "elekt",
+    "gerek",
+    "milya",
+    "nin",
+    "turki",
+    "yatir",
+    "yilda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a967a5dfb998"
+  },
+  "a0594d75be5f": {
+   "id": "a0594d75be5f",
+   "kaynak": "XHABER",
+   "baslik": "IPhone Duo, 75 bin katlamanın ardından kırıldı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30386",
+   "zaman": "2026-10-27T12:13:22+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "iPhone Duo, 75 bin katlamanın ardından kırıldı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/TzDrL0Wx6xfYRX4lXoEeQQHGvaUNPo82F-KCqBXB2ib6Utd3DfKaey6844ppDKeKgeDDELwOAhEBPtIf66mYiJYG3i_cnOm-yfLq5LGUIcWx80w6Z6FyD4xUlo4SNudztBJaUyPfE793ETseJ-QI0E77ADpf2d7_AD0YgYIGD8gZ78t6aIQCXxEwKPXJTr58UMqT4wQ6CqJ8zEFGnFv9IiuhBg01Ji4d5tXszATWbKGzOW-fcE3kJ8x_nLiz4nwfCX-GfFX6aa6tx67l81Mc_lCiWhB0nOALTAKCs7x9SEbCTDsaipqiprfvz6wvKh2cYQ7g9yUH8ilUoU2kAjIfhA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/674af82406.mp4?token=DD3gDNNSID4JLRDJW9jP_q5rsZ92F2CMFJBIPZ6d-uemPeJgLGF84LtGxYVaemmFhfccjR4aOW0eMW2QORDZiuESyeDeuFRXZra1pc1-mbESdzaxnKhQHssByDsVH4uPo_pVnPhDhHZOQkDnXOexhVq8fVr_hgLZRqdec0tnLr6C1WpMkNn587g0LpX2GBr_1MfsKafgBb56O66zp6pbqtQyUUsRXH0w0jTz9pb7IxyUBR8_hckTawAMptQBnf7TqBJQ6Xn5_Dcf4OrfluqzKhkvSt0wk0oI5norVBanp2LwkekWuWbS2mZ_Fm7HQDqSxCxzyoQZhHzKpkGJAuA7yQ",
+   "kelimeler": [
+    "75",
+    "ardin",
+    "bin",
+    "duo",
+    "iphon",
+    "katla",
+    "kiril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab721066cdb8": {
+   "id": "ab721066cdb8",
+   "kaynak": "Sözcü",
+   "baslik": "Antalya'da yolcu otobüsü devrildi: Ölü ve yaralılar var",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-antalya-da-yolcu-otobusu-devrildi-olu-ve-yaralilar-var-p373206",
+   "zaman": "2026-10-27T12:14:15+03:00",
+   "kelimeler": [
+    "antal",
+    "devri",
+    "olu",
+    "otobu",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "619c5a921394"
   }
  },
  "kayit": [
+  "27.10 12:16:03  3 yeni haber",
   "27.10 12:04:19  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İstanbul'daki feci olayda kahreden detay: 10 yıl sonra ağabeyi ile ayn",
   "27.10 12:01:37  12 yeni haber",
   "27.10 11:46:09  12 yeni haber",
@@ -25316,8 +25404,7 @@
   "25.10 01:01:21  1 yeni haber",
   "25.10 00:46:20  2 yeni haber",
   "25.10 00:34:11  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
-  "25.10 00:31:20  3 yeni haber",
-  "25.10 00:16:02  2 yeni haber"
+  "25.10 00:31:20  3 yeni haber"
  ],
  "otomatik": false
 }
