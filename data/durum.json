@@ -22174,7 +22174,10 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "8f0a1c07526e": {
    "id": "8f0a1c07526e",
@@ -23807,9 +23810,111 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "71ac28d75686": {
+   "id": "71ac28d75686",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 balistik füze imha edildi",
+   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füzenin hava savunma sistemleri tarafından imha edildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-balistik-fuze-imha-edildi/4101863",
+   "zaman": "2026-10-27T03:37:16+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "balis",
+    "edild",
+    "firla",
+    "fuze",
+    "husil",
+    "imha",
+    "koali",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e5338642f8f9"
+  },
+  "ef508db960c9": {
+   "id": "ef508db960c9",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+   "ozet": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle ilişkilere nasıl bakıyor ?",
+   "link": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo",
+   "zaman": "2026-10-27T03:46:35+03:00",
+   "kelimeler": [
+    "adayl",
+    "bakiy",
+    "basba",
+    "israi",
+    "kriti",
+    "nasil",
+    "secim",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9f19ae002643": {
+   "id": "9f19ae002643",
+   "kaynak": "AA",
+   "baslik": "Altın Top ödülünü İngiliz futbolcu Harry Kane kazandı",
+   "ozet": "Bayern Münih ve İngiltere Milli Takımı'nın yıldız golcüsü Harry Kane, 2025-26 sezonunun en iyi futbolcusuna verilen Ballon d'Or (Altın Top) ödülünü kariyerinde ilk kez kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865",
+   "zaman": "2026-10-27T03:52:10+03:00",
+   "kelimeler": [
+    "altin",
+    "futbo",
+    "harry",
+    "ingil",
+    "kane",
+    "kazan",
+    "odulu",
+    "top"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f2d75f989bdf": {
+   "id": "f2d75f989bdf",
+   "kaynak": "Hürriyet",
+   "baslik": "Yol çöktü, araç içine düştü!",
+   "ozet": "Muğla’nın Menteşe ilçesinde yağış nedeniyle yol çöktü. Seyir halnde iken yoda olışan çöküntüye farketmeyerek çukura düşen araç ise yolda mahsur kaldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yol-coktu-arac-icine-dustu-43356088",
+   "zaman": "2026-10-27T04:17:31+03:00",
+   "kelimeler": [
+    "arac",
+    "coktu",
+    "dustu",
+    "icine",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b1d0465a6ac": {
+   "id": "0b1d0465a6ac",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
+   "ozet": "Popüler sohbet robotu Claude'un üreticisi Anthropic, ABD'de planlanan dev halka arzına ilişkin ayrıntıları açıklarken yapay zekanın \"insanlık için felaket niteliğinde veya varoluşsal riskler oluşturabileceği\" uyarısında bulundu.",
+   "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o",
+   "zaman": "2026-10-27T04:23:52+03:00",
+   "kelimeler": [
+    "anthr",
+    "arz",
+    "edili",
+    "halka",
+    "insan",
+    "risk",
+    "uyari",
+    "varol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 04:31:10  4 yeni haber",
   "27.10 03:45:57  1 yeni haber",
   "27.10 02:16:12  7 yeni haber",
   "27.10 00:52:15  2 yeni haber",
@@ -24008,8 +24113,7 @@
   "24.10 18:16:09  1 yeni haber",
   "24.10 18:01:25  2 yeni haber",
   "24.10 17:45:54  2 yeni haber",
-  "24.10 17:31:18  4 yeni haber",
-  "24.10 17:16:16  4 yeni haber"
+  "24.10 17:31:18  4 yeni haber"
  ],
  "otomatik": false
 }
