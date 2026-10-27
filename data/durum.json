@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "e0584833103c": {
-   "id": "e0584833103c",
-   "kaynak": "Hürriyet",
-   "baslik": "Bıçaklayıp darbettiği kişinin yakınları tarafından sopayla dakikalarca dövüldü! O anlar kamerada",
-   "ozet": "Şanlıurfa’da alacak verecek meselesi nedeniyle T.B.’yi bıçakla hafif yaralayıp, tekme tokat darbeden Talat B., bir süre sonra hasmının yakınlarının saldırısına uğradı. Silahların ateşlendiği kavgada sopalarla dövülen Talat B.",
-   "link": "https://www.hurriyet.com.tr/gundem/bicaklayip-darbettigi-kisinin-yakinlari-tarafindan-sopayla-dakikalarca-dovuldu-o-anlar-kamerada-43353389",
-   "zaman": "2026-10-24T13:03:29+03:00",
-   "kelimeler": [
-    "anlar",
-    "bicak",
-    "dakik",
-    "darbe",
-    "dovul",
-    "kamer",
-    "kisin",
-    "sopay",
-    "taraf",
-    "yakin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "922a58610951": {
-   "id": "922a58610951",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan, anne ve babasının kabirlerini ziyaret etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, anne ve babasının mezarlarını ziyaret etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-anne-ve-babasinin-kabirlerini-ziyaret-etti-43353379",
-   "zaman": "2026-10-24T13:09:00+03:00",
-   "kelimeler": [
-    "anne",
-    "babas",
-    "cumhu",
-    "erdog",
-    "etti",
-    "kabir",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "412a47d2760c": {
-   "id": "412a47d2760c",
-   "kaynak": "TRT Haber",
-   "baslik": "74 ilde atık gıdalar hayvan mamasına dönüştürülüyor",
-   "ozet": "Türkiye'de 74 ilde kamu kurumları ve toplu tüketim yerlerinden toplanan gıda atıkları Sıfır Atık Projesi kapsamında hayvan mamasına dönüştürülüyor. Bu kapsamda günlük 31 bin 274 kilogram mama üretimi gerçekleştiriliyor.",
-   "link": "https://www.trthaber.com/haber/gundem/74-ilde-atik-gidalar-hayvan-mamasina-donusturuluyor-961070.html",
-   "zaman": "2026-10-24T13:05:00+03:00",
-   "kelimeler": [
-    "74",
-    "atik",
-    "donus",
-    "gidal",
-    "hayva",
-    "ilde",
-    "mamas"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dfe60c3d99d9"
-  },
-  "fa5f138da274": {
-   "id": "fa5f138da274",
-   "kaynak": "Hürriyet",
-   "baslik": "Ege’nin incisi İzmir dokuz gün boyunca sanatseverleri ağırlayacak",
-   "ozet": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali’nin 24’üncü durağı, Ege’nin incisi İzmir’de festival heyecanı başladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/egenin-incisi-izmir-dokuz-gun-boyunca-sanatseverleri-agirlayacak-43353399",
-   "zaman": "2026-10-24T13:15:43+03:00",
-   "kelimeler": [
-    "agirl",
-    "boyun",
-    "dokuz",
-    "ege",
-    "gun",
-    "incis",
-    "izmir",
-    "nin",
-    "sanat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7bf71bca9565": {
    "id": "7bf71bca9565",
    "kaynak": "AA",
@@ -24957,11 +24875,20 @@
     "yaral",
     "yolcu"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-10-27T13:18:14.163197+03:00",
+   "ig_id": "18118747487098835",
+   "reels_id": "18158418637509847",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1842334943458928",
+   "slayt": 5,
+   "kanca": "BURDUR'DA OTOBÜS DEVRİLDİ"
   },
   "1d4cb37754f1": {
    "id": "1d4cb37754f1",
@@ -25046,7 +24973,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d586142e8022": {
    "id": "d586142e8022",
@@ -25413,9 +25342,77 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "343167bda8bf": {
+   "id": "343167bda8bf",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da tüketici güveni protestoların gölgesinde 13 yılın en düşük seviyesine geriledi",
+   "ozet": "Fransa'da tüketici güveni, son dönemde tırmanışa geçen protestolar, artan işsizlik ve fiyat artışlarının etkisiyle ekimde 13 yılın en düşük seviyesine geriledi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/fransada-tuketici-guveni-protestolarin-golgesinde-13-yilin-en-dusuk-seviyesine-geriledi-961343.html",
+   "zaman": "2026-10-27T12:39:00+03:00",
+   "kelimeler": [
+    "13",
+    "dusuk",
+    "frans",
+    "geril",
+    "golge",
+    "guven",
+    "prote",
+    "seviy",
+    "tuket",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d46a4ef4d75": {
+   "id": "2d46a4ef4d75",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 6 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 6 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-6-kisi-hayatini-kaybetti/4102232",
+   "zaman": "2026-10-27T12:50:21+03:00",
+   "kelimeler": [
+    "24",
+    "atesk",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "ragme",
+    "saatt",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "efbc38d712eb"
+  },
+  "f3c06abbd2b3": {
+   "id": "f3c06abbd2b3",
+   "kaynak": "TRT Haber",
+   "baslik": "Mekke Anlaşması TBMM Dışişleri Komisyonunda",
+   "ozet": "TBMM Dışişleri Komisyonunda, Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin görüşmeleri sürüyor.",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-disisleri-komisyonunda-961342.html",
+   "zaman": "2026-10-27T12:57:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "disis",
+    "komis",
+    "mekke",
+    "tbmm"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d25b7334eb29"
   }
  },
  "kayit": [
+  "27.10 13:18:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yolcu otobüsü devrildi: 1 ölü, 7 yaralı",
+  "27.10 13:15:56  1 yeni haber",
   "27.10 13:01:27  6 yeni haber",
   "27.10 12:46:02  9 yeni haber",
   "27.10 12:31:17  10 yeni haber",
@@ -25613,9 +25610,7 @@
   "25.10 01:46:07  2 yeni haber",
   "25.10 01:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "25.10 01:33:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İstanbul Barosu seçimlerinde yumruk yumruğa kavga çıktı.",
-  "25.10 01:31:16  1 yeni haber",
-  "25.10 01:16:08  1 yeni haber",
-  "25.10 01:01:21  1 yeni haber"
+  "25.10 01:31:16  1 yeni haber"
  ],
  "otomatik": false
 }
