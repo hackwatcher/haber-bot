@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "dd6cfc803f8f": {
-   "id": "dd6cfc803f8f",
-   "kaynak": "AA",
-   "baslik": "Küba'da 2,7 milyondan fazla kişi su hizmetinden mahrum kaldı",
-   "ozet": "Küba'da kronikleşen enerji krizi ve altyapı sorunları nedeniyle 2,7 milyondan fazla kişinin su hizmetinden mahrum kaldığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kubada-2-7-milyondan-fazla-kisi-su-hizmetinden-mahrum-kaldi/4099170",
-   "zaman": "2026-10-24T08:09:21+03:00",
-   "kelimeler": [
-    "fazla",
-    "hizme",
-    "kaldi",
-    "kisi",
-    "kuba",
-    "mahru",
-    "milyo",
-    "su"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "da84fec364de": {
    "id": "da84fec364de",
    "kaynak": "AA",
@@ -24326,9 +24306,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "13b8957b95a7": {
+   "id": "13b8957b95a7",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon Kanunu Resmi Gazete'de",
+   "ozet": "Sermaye Piyasası Kurulu SPK tarafından tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-kanunu-resmi-gazetede-961293.html",
+   "zaman": "2026-10-27T07:52:00+03:00",
+   "kelimeler": [
+    "fon",
+    "gazet",
+    "kanun",
+    "resmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0c6b4522feca"
+  },
+  "55b4e59c99fe": {
+   "id": "55b4e59c99fe",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail ordusu, Batı Şeria'da Filistinlilere ait evi askeri karargaha dönüştürdü",
+   "ozet": "Soykırımcı İsrail ordusunun, işgal altındaki Batı Şeria'nın Nablus kentinde Filistinlilere ait evi askeri karargaha dönüştürdüğü bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-bati-seriada-filistinlilere-ait-evi-askeri-karargaha-donusturdu-961294.html",
+   "zaman": "2026-10-27T07:55:00+03:00",
+   "kelimeler": [
+    "ait",
+    "asker",
+    "bati",
+    "donus",
+    "evi",
+    "filis",
+    "israi",
+    "karar",
+    "ordus",
+    "seria",
+    "soyki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "778addf5035d": {
+   "id": "778addf5035d",
+   "kaynak": "AA",
+   "baslik": "İsrail'de seçmenler genel seçimler için sandık başında",
+   "ozet": "İsrail'de Meclis'teki 120 milletvekilini belirlemek üzere ülke genelindeki oy verme işlemi yerel saatle 07.00'de (TSİ 08.00) başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-secmenler-genel-secimler-icin-sandik-basinda/4101884",
+   "zaman": "2026-10-27T08:02:20+03:00",
+   "kelimeler": [
+    "basin",
+    "genel",
+    "israi",
+    "sandi",
+    "secim",
+    "secme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 08:16:01  2 yeni haber",
   "27.10 08:01:45  2 yeni haber",
   "27.10 07:46:02  2 yeni haber",
   "27.10 07:31:10  3 yeni haber",
@@ -24527,8 +24566,7 @@
   "24.10 20:16:16  3 yeni haber",
   "24.10 20:01:25  1 yeni haber",
   "24.10 19:46:07  1 yeni haber",
-  "24.10 19:31:14  3 yeni haber",
-  "24.10 19:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Maçın son dakikalarında fenalaşan futbolcu kalp krizi geçirdi"
+  "24.10 19:31:14  3 yeni haber"
  ],
  "otomatik": false
 }
