@@ -1,89 +1,5 @@
 {
  "haberler": {
-  "0f7965bdf142": {
-   "id": "0f7965bdf142",
-   "kaynak": "AA",
-   "baslik": "Sermaye piyasası işlemleri soruşturmalarında gözaltına alınan 15 zanlı tutuklandı",
-   "ozet": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda gözaltına alınan 22 şüpheliden 15'i tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-gozaltina-alinan-15-zanli-tutuklandi/4099450",
-   "zaman": "2026-10-24T14:42:18+03:00",
-   "kelimeler": [
-    "15",
-    "alina",
-    "gozal",
-    "islem",
-    "piyas",
-    "serma",
-    "sorus",
-    "tutuk",
-    "zanli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5e7c9984e0a1"
-  },
-  "3b9c063743e9": {
-   "id": "3b9c063743e9",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İstanbul dahil 10 şehirde 'Sansüre hayır, Habere Özgürlük' yürüyüşleri",
-   "ozet": "İstanbul, Ankara, İzmir ve Diyarbakır dahil 10 şehirde sendikaların da destek verdiği \"Sansüre hayır, Habere Özgürlük\" yürüşleri yapılıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw77p30rplj3o",
-   "zaman": "2026-10-24T14:42:31+03:00",
-   "kelimeler": [
-    "10",
-    "dahil",
-    "haber",
-    "hayir",
-    "istan",
-    "ozgur",
-    "sansu",
-    "sehir",
-    "yuruy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1d7f1096adf4": {
-   "id": "1d7f1096adf4",
-   "kaynak": "AA",
-   "baslik": "Filistin’den BM’ye kayıp ve tutukluların akıbetinin açıklığa kavuşturulması çağrısı",
-   "ozet": "Filistin, işgal altındaki Filistin topraklarında kadın ve çocukların da aralarında bulunduğu kayıp binlerce kişi ile Filistinli tutukluların akıbetinin açıklığa kavuşturulması için Birleşmiş Milletler (BM) mekanizmalarına acil çağrıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-den-bm-ye-kayip-ve-tutuklularin-akibetinin-acikliga-kavusturulmasi-cagrisi/4099449",
-   "zaman": "2026-10-24T14:41:59+03:00",
-   "kelimeler": [
-    "acikl",
-    "akibe",
-    "bm",
-    "cagri",
-    "den",
-    "filis",
-    "kavus",
-    "kayip",
-    "tutuk",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "77ba9a2939f0": {
-   "id": "77ba9a2939f0",
-   "kaynak": "AA",
-   "baslik": "Fransa'da yasaklanan yerlerde eylem yapanlara polis müdahalesi",
-   "ozet": "Fransa'da başta Paris olmak üzere ülkenin farklı noktalarında eylemler düzenlenirken, polis valiliklerin eylem yasağı kararlarına uymayan eylemcilere müdahale etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-yasaklanan-yerlerde-eylem-yapanlara-polis-mudahalesi/4099452",
-   "zaman": "2026-10-24T14:45:17+03:00",
-   "kelimeler": [
-    "eylem",
-    "frans",
-    "mudah",
-    "polis",
-    "yapan",
-    "yasak",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b43c4bdef1dd": {
    "id": "b43c4bdef1dd",
    "kaynak": "AA",
@@ -25104,7 +25020,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "72784bfed9d2": {
    "id": "72784bfed9d2",
@@ -25768,9 +25687,51 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1167d6ad6f7f": {
+   "id": "1167d6ad6f7f",
+   "kaynak": "AA",
+   "baslik": "Rusya'dan dizel yüklü 3 tanker ihracat için yola çıktı",
+   "ozet": "Rusya Başbakan Yardımcısı Aleksandr Novak, dizel yakıt taşıyan 3 tankerin ihracat için Rus limanlarından yola çıktığını, dördüncü tankerin ise 28 Ekim'de hareket etmesini beklediklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rusyadan-dizel-yuklu-3-tanker-ihracat-icin-yola-cikti/4102407",
+   "zaman": "2026-10-27T14:37:33+03:00",
+   "kelimeler": [
+    "cikti",
+    "dan",
+    "dizel",
+    "ihrac",
+    "rusya",
+    "tanke",
+    "yola",
+    "yuklu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0813880802d8": {
+   "id": "0813880802d8",
+   "kaynak": "Sözcü",
+   "baslik": "Emekli polis dehşet saçtı: Kardeşini öldürüp, intihar etti",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/emekli-polis-dehset-sacti-kardesini-oldurup-intihar-etti-p373247",
+   "zaman": "2026-10-27T14:41:11+03:00",
+   "kelimeler": [
+    "dehse",
+    "emekl",
+    "etti",
+    "intih",
+    "karde",
+    "oldur",
+    "polis",
+    "sacti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6b7994a5ce5a"
   }
  },
  "kayit": [
+  "27.10 14:46:28  1 yeni haber",
   "27.10 14:44:08  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye Bina Deprem Yönetmeliği güncellenecek",
   "27.10 14:41:35  10 yeni haber",
   "27.10 14:15:57  10 yeni haber",
@@ -25969,8 +25930,7 @@
   "25.10 07:16:13  13 yeni haber",
   "25.10 07:02:12  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Manifest’e rakip yeni bir kız grubu ortaya çıktı.",
   "25.10 05:46:17  1 yeni haber",
-  "25.10 05:16:02  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "25.10 03:01:27  1 yeni haber"
+  "25.10 05:16:02  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
