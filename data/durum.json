@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "80c4dfa01a01": {
-   "id": "80c4dfa01a01",
-   "kaynak": "AA",
-   "baslik": "Bulgaristan'da vatandaşlar cumhurbaşkanı seçimi için yarın sandık başına gidecek",
-   "ozet": "",
-   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-vatandaslar-cumhurbaskani-secimi-icin-yarin-sandik-basina-gidecek/4099190",
-   "zaman": "2026-10-24T09:21:02+03:00",
-   "kelimeler": [
-    "basin",
-    "bulga",
-    "cumhu",
-    "gidec",
-    "sandi",
-    "secim",
-    "vatan",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "701e2732639c": {
    "id": "701e2732639c",
    "kaynak": "Hürriyet",
@@ -23840,7 +23817,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Sözcü",
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "c7b454fa4ff4": {
@@ -24244,7 +24222,10 @@
     "uyum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "2d00ee1fc2fc": {
    "id": "2d00ee1fc2fc",
@@ -24346,7 +24327,10 @@
     "yonun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "45978db4b771": {
    "id": "45978db4b771",
@@ -24410,9 +24394,224 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8af15324e0af": {
+   "id": "8af15324e0af",
+   "kaynak": "AA",
+   "baslik": "İstanbul merkezli 30 ilde yeni nesil suç örgütü operasyonunda 85 zanlı yakalandı",
+   "ozet": "İstanbul merkezli 30 ilde yeni nesil suç örgütüne yönelik düzenlenen operasyonda 85 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-30-ilde-yeni-nesil-suc-orgutu-operasyonunda-85-zanli-yakalandi/4101889",
+   "zaman": "2026-10-27T08:23:50+03:00",
+   "kelimeler": [
+    "30",
+    "85",
+    "ilde",
+    "istan",
+    "merke",
+    "nesil",
+    "opera",
+    "orgut",
+    "suc",
+    "yakal",
+    "yeni",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0990b842152"
+  },
+  "506622705bbc": {
+   "id": "506622705bbc",
+   "kaynak": "AA",
+   "baslik": "Rusya, Ukrayna'da Herson yönünde geçici ateşkesi başlattı",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'da Herson bölgesindeki Oleşki şehrinde insani yardım operasyonu nedeniyle Herson yönünde geçici ateşkesin başladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti/4101896",
+   "zaman": "2026-10-27T08:37:56+03:00",
+   "kelimeler": [
+    "atesk",
+    "basla",
+    "gecic",
+    "herso",
+    "rusya",
+    "ukray",
+    "yonun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0fe2d0b1adea"
+  },
+  "69e7b4ed5599": {
+   "id": "69e7b4ed5599",
+   "kaynak": "AA",
+   "baslik": "MİT Başkanı Kalın, Tahran'da bölgesel işbirliği ve ortak güvenliğin güçlendirilmesinin önemine dikkati çekti",
+   "ozet": "MİT Başkanı Kalın, Tahran'da Suudi Arabistanlı ve Pakistanlı yetkililerle İran Cumhurbaşkanı Pezeşkiyan, İran Dışişleri Bakanı Erakçi ve İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-tahranda-bolgesel-isbirligi-ve-ortak-guvenligin-guclendirilmesinin-onemine-dikkati-cekti/4101900",
+   "zaman": "2026-10-27T08:43:00+03:00",
+   "kelimeler": [
+    "baska",
+    "bolge",
+    "cekti",
+    "dikka",
+    "gucle",
+    "guven",
+    "isbir",
+    "kalin",
+    "mit",
+    "onemi",
+    "ortak",
+    "tahra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e5a12f7efbe9": {
+   "id": "e5a12f7efbe9",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ekonomisinin 2027 hedefleri Resmi Gazete'de",
+   "ozet": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı Resmi Gazete'de yayımlandı. Gelecek yıla ilişkin temel hedeflerin belirlendiği programda büyüme yüzde 4,2, enflasyon yüzde 21, ihracat ise 292 milyar dolar olarak öngörüldü.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html",
+   "zaman": "2026-10-27T09:05:00+03:00",
+   "kelimeler": [
+    "2027",
+    "ekono",
+    "gazet",
+    "hedef",
+    "resmi",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "fcd0c66458f2": {
+   "id": "fcd0c66458f2",
+   "kaynak": "AA",
+   "baslik": "DOSYA: Avrupa'nın Futbol Şöleni Başlıyor",
+   "ozet": "2024 Avrupa Futbol Şampiyonası (EURO 2024) öncesi katılımcı ülkelerin kadroları, organizasyonda en fazla oyuncuyla temsil edilecek ligleri şekillendiriyor.",
+   "link": "https://www.aa.com.tr/tr/spor/dosya-avrupanin-futbol-soleni-basliyor/4101914",
+   "zaman": "2026-10-27T09:10:30+03:00",
+   "kelimeler": [
+    "avrup",
+    "basli",
+    "dosya",
+    "futbo",
+    "nin",
+    "solen"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0486c684f79f": {
+   "id": "0486c684f79f",
+   "kaynak": "Hürriyet",
+   "baslik": "DEAŞ'ın para trafiğine darbe: MASAK ve HTS kayıtları deşifre etti",
+   "ozet": "Terör örgütü DEAŞ'a finansman sağlayan şüphelilere yönelik Ankara merkezli 2 ilde operasyon düzenlendi. Gerçekleştirdikleri şüpheli finansal işlemler teknik takiple ortaya çıkarılan 16 zanlı gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/deasin-para-trafigine-darbe-masak-ve-hts-kayitlari-desifre-etti-43356166",
+   "zaman": "2026-10-27T09:13:00+03:00",
+   "kelimeler": [
+    "darbe",
+    "deas",
+    "desif",
+    "etti",
+    "hts",
+    "in",
+    "kayit",
+    "masak",
+    "para",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "33b946291b8b": {
+   "id": "33b946291b8b",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin AB makine emniyeti mevzuatına uyum süreci tamamlandı",
+   "ozet": "Ticaret Bakanlığı, Avrupa Birliği'nin (AB) makine emniyeti mevzuatında uyum sürecinin tamamlandığını teyit eden beyan metninin imzalandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ab-makine-emniyeti-mevzuatina-uyum-sureci-tamamlandi/4101927",
+   "zaman": "2026-10-27T09:24:11+03:00",
+   "kelimeler": [
+    "ab",
+    "emniy",
+    "makin",
+    "mevzu",
+    "nin",
+    "surec",
+    "tamam",
+    "turki",
+    "uyum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "52cbf9531bd9"
+  },
+  "6fd8f582d108": {
+   "id": "6fd8f582d108",
+   "kaynak": "NTV",
+   "baslik": "Antalya'da hortum faciası: 4 kişinin öldüğü hortum böyle gelmiş",
+   "ozet": "Antalya'da dört işçinin öldüğü hortum faciasından yeni bir görüntü ortaya çıktı. Görüntülerde hortumun bir seyir terasını yerle bir ettiği görülüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-antalyada-hortum-faciasi-4-kisinin-oldugu-hortum-boyle-gelmis-1748141",
+   "zaman": "2026-10-27T09:24:41+03:00",
+   "kelimeler": [
+    "antal",
+    "boyle",
+    "facia",
+    "gelmi",
+    "hortu",
+    "kisin",
+    "oldug"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "619c5a921394"
+  },
+  "d8a7a9ce5262": {
+   "id": "d8a7a9ce5262",
+   "kaynak": "NTV",
+   "baslik": "DAEŞ operasyonunda 2 milyon 135 bin lira değerinde para ve altına el konuldu",
+   "ozet": "Ankara merkezli 2 ilde DAEŞ'in finansman faaliyetlerine yönelik düzenlenen operasyonda 16 şüpheli gözaltına alındı. Aramalarda yaklaşık 2 milyon 135 bin lira değerinde para ve altına el konuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-daes-operasyonunda-2-milyon-135-bin-lira-degerinde-para-ve-altina-el-konuldu-1748138",
+   "zaman": "2026-10-27T09:28:05+03:00",
+   "kelimeler": [
+    "135",
+    "altin",
+    "bin",
+    "daes",
+    "deger",
+    "el",
+    "konul",
+    "lira",
+    "milyo",
+    "opera",
+    "para"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "86ac42812d40": {
+   "id": "86ac42812d40",
+   "kaynak": "AA",
+   "baslik": "ABD'de eski FBI Direktörü Comey, gizli bilgileri basına sızdırmakla suçlandı",
+   "ozet": "ABD'de eski Federal Soruşturma Bürosu (FBI) Direktörü James Comey'e, 2016'da ulusal güvenlikle ilgili gizli bilgileri basına sızdırdığı iddiasıyla federal düzeyde suçlama yöneltildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-eski-fbi-direktoru-comey-gizli-bilgileri-basina-sizdirmakla-suclandi/4101931",
+   "zaman": "2026-10-27T09:28:18+03:00",
+   "kelimeler": [
+    "abd",
+    "basin",
+    "bilgi",
+    "comey",
+    "direk",
+    "eski",
+    "fbi",
+    "gizli",
+    "sizdi",
+    "sucla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 09:31:08  6 yeni haber",
   "27.10 09:16:11  5 yeni haber",
   "27.10 08:58:24  4 yeni haber",
   "27.10 08:48:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Resmi Gazete'de bugün neler, hangi kararlar var? (27 Ekim 2026 Resmi G",
@@ -24611,8 +24810,7 @@
   "24.10 21:45:59  1 yeni haber",
   "24.10 21:25:43  1 yeni haber",
   "24.10 21:01:24  2 yeni haber",
-  "24.10 21:01:24  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "24.10 20:45:55  2 yeni haber"
+  "24.10 21:01:24  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
