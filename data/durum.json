@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "073cc7a67567": {
-   "id": "073cc7a67567",
-   "kaynak": "Hürriyet",
-   "baslik": "Trafik magandası! Tartıştığı kadın sürücünün aracının camını yumrukladı",
-   "ozet": "Ümraniye’de trafikte yol verme nedeniyle çıkan tartışmada aracından inen kişi, kadın sürücünün otomobilinin camını yumrukladı. O anlar cep telefonu kamerasıyla kaydedildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/trafik-magandasi-tartistigi-kadin-surucunun-aracinin-camini-yumrukladi-43353931",
-   "zaman": "2026-10-24T22:33:00+03:00",
-   "kelimeler": [
-    "araci",
-    "camin",
-    "kadin",
-    "magan",
-    "suruc",
-    "tarti",
-    "trafi",
-    "yumru"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "df3c495d1902": {
    "id": "df3c495d1902",
    "kaynak": "AA",
@@ -26902,7 +26882,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "NTV"
    ]
   },
   "56d197e61967": {
@@ -27482,9 +27463,76 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a1921472196a": {
+   "id": "a1921472196a",
+   "kaynak": "NTV",
+   "baslik": "Dışişleri'nden Ege ve Doğu Akdeniz açıklaması: Taviz vermeyeceğiz",
+   "ozet": "Dışişleri Bakanlığı, \"Şimdiye kadar olduğu gibi bundan sonra da Ege ve Doğu Akdeniz’deki meşru hak ve menfaatlerimizi taviz vermeksizin korumaya devam edeceğiz.\" açıklamasını yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/disislerinden-ege-ve-dogu-akdeniz-aciklamasi-taviz-vermeyecegiz-1748256",
+   "zaman": "2026-10-27T22:31:24+03:00",
+   "kelimeler": [
+    "acikl",
+    "akden",
+    "disis",
+    "dogu",
+    "ege",
+    "nden",
+    "taviz",
+    "verme"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2810d97af41d"
+  },
+  "2969410ce643": {
+   "id": "2969410ce643",
+   "kaynak": "AA",
+   "baslik": "Antalya Altın Portakal Film Festivali'nde \"Ölü Arının İğnesi\" filminin dünya prömiyeri yapıldı",
+   "ozet": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında Ulusal Uzun Metraj Film Yarışması'nda yer alan \"Ölü Arının İğnesi\" filminin dünya prömiyeri gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/antalya-altin-portakal-film-festivalinde-olu-arinin-ignesi-filminin-dunya-promiyeri-yapildi/4103023",
+   "zaman": "2026-10-27T22:36:19+03:00",
+   "kelimeler": [
+    "altin",
+    "antal",
+    "arini",
+    "dunya",
+    "festi",
+    "film",
+    "filmi",
+    "ignes",
+    "nde",
+    "olu",
+    "porta",
+    "promi",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3588e596f87e": {
+   "id": "3588e596f87e",
+   "kaynak": "AA",
+   "baslik": "Vatikan, Orta Doğu'da \"iki devletli çözüm\"e inancını koruyor",
+   "ozet": "Vatikan Devletlerle ve Uluslararası Kuruluşlarla İlişkiler Sekreteri (Dışişleri Bakanı) Başpiskopos Gallagher, bazılarının Orta Doğu'da \"iki devletli çözüm\" fikrine olan inancını kaybetse de kendilerinin bunu söylemeye devam edeceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/vatikan-orta-doguda-iki-devletli-cozume-inancini-koruyor/4103027",
+   "zaman": "2026-10-27T22:41:42+03:00",
+   "kelimeler": [
+    "cozum",
+    "devle",
+    "dogu",
+    "iki",
+    "inanc",
+    "koruy",
+    "orta",
+    "vatik"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 22:46:05  2 yeni haber",
   "27.10 22:31:10  6 yeni haber",
   "27.10 22:01:31  2 yeni haber",
   "27.10 21:46:40  3 yeni haber",
@@ -27683,8 +27731,7 @@
   "25.10 14:16:09  9 yeni haber",
   "25.10 14:01:20  5 yeni haber",
   "25.10 13:46:07  1 yeni haber",
-  "25.10 13:31:16  5 yeni haber",
-  "25.10 13:15:52  3 yeni haber"
+  "25.10 13:31:16  5 yeni haber"
  ],
  "otomatik": false
 }
