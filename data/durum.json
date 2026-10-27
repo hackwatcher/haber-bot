@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "7bf71bca9565": {
-   "id": "7bf71bca9565",
-   "kaynak": "AA",
-   "baslik": "TARSİM'e 10 ayda 478 bin hasar ihbarı yapıldı",
-   "ozet": "Tarım Sigortaları Havuzu (TARSİM) bu yılın ocak-ekim döneminde çeşitli nedenlerle bitkisel ürünleri, seraları ve hayvanları zarar gören sigortalı üretici ve yetiştiricilerden 478 bin hasar ihbarı aldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tarsime-10-ayda-478-bin-hasar-ihbari-yapildi/4099393",
-   "zaman": "2026-10-24T13:24:08+03:00",
-   "kelimeler": [
-    "10",
-    "478",
-    "ayda",
-    "bin",
-    "hasar",
-    "ihbar",
-    "tarsi",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7953b4a08e8d"
-  },
-  "c2a34442587b": {
-   "id": "c2a34442587b",
-   "kaynak": "AA",
-   "baslik": "Fransa'daki Sarı Yelekliler eyleminde polis şiddeti iddialarına ilişkin yeni soruşturma",
-   "ozet": "Fransa’da 17 Ekim’deki Sarı Yelekliler eyleminde bir fotoğrafçının şok bombasıyla yaralandığı olaya ilişkin soruşturma açıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-sari-yelekliler-eyleminde-polis-siddeti-iddialarina-iliskin-yeni-sorusturma/4099397",
-   "zaman": "2026-10-24T13:28:59+03:00",
-   "kelimeler": [
-    "daki",
-    "eylem",
-    "frans",
-    "iddia",
-    "ilisk",
-    "polis",
-    "sari",
-    "sidde",
-    "sorus",
-    "yelek",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9a56db5dc891": {
    "id": "9a56db5dc891",
    "kaynak": "XHABER",
@@ -24878,7 +24834,8 @@
    "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ],
    "paylasildi": "2026-10-27T13:18:14.163197+03:00",
    "ig_id": "18118747487098835",
@@ -24926,7 +24883,10 @@
     "yogun"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "4f92381e4748": {
    "id": "4f92381e4748",
@@ -25408,9 +25368,184 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d25b7334eb29"
+  },
+  "2e9e0a139b9f": {
+   "id": "2e9e0a139b9f",
+   "kaynak": "AA",
+   "baslik": "İranlılar, İsrail'deki seçimlerin İran politikasını değiştirmeyeceğine inanıyor",
+   "ozet": "İran'ın başkenti Tahran'da halk, İsrail'deki genel seçimlerin sonucundan bağımsız olarak Tel Aviv yönetiminin İran'a yönelik politikalarında köklü bir değişiklik yaşanmayacağını ve \"saldırgan tutumunu\" sürdüreceğini düşünüyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/iranlilar-israildeki-secimlerin-iran-politikasini-degistirmeyecegine-inaniyor-/4102204",
+   "zaman": "2026-10-27T12:30:17+03:00",
+   "kelimeler": [
+    "degis",
+    "deki",
+    "inani",
+    "iran",
+    "iranl",
+    "israi",
+    "polit",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "abb0f5ac589a": {
+   "id": "abb0f5ac589a",
+   "kaynak": "TRT Haber",
+   "baslik": "Kuzey Ege için fırtına uyarısı",
+   "ozet": "Kuzey Ege'nin kuzey kesimlerinde yarın sabahın ilk saatlerinden itibaren etkili olması beklenen fırtınanın hızının saatte 75 kilometreye kadar çıkacağı tahmin ediliyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/kuzey-ege-icin-firtina-uyarisi-961344.html",
+   "zaman": "2026-10-27T13:15:00+03:00",
+   "kelimeler": [
+    "ege",
+    "firti",
+    "kuzey",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "166d57b21555": {
+   "id": "166d57b21555",
+   "kaynak": "AA",
+   "baslik": "Burdur'da yolcu otobüsünün devrilmesi sonucu 1 kişi öldü, 9 kişi yaralandı",
+   "ozet": "Burdur'un Ağlasun ilçesinde yolcu otobüsünün devrilmesi sonucu 1 kişi hayatını kaybetti, 9 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/burdurda-yolcu-otobusunun-devrilmesi-sonucu-1-kisi-oldu-9-kisi-yaralandi/4102290",
+   "zaman": "2026-10-27T13:16:21+03:00",
+   "kelimeler": [
+    "burdu",
+    "devri",
+    "kisi",
+    "otobu",
+    "sonuc",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0a40b92b2e96"
+  },
+  "45bc8c384f3d": {
+   "id": "45bc8c384f3d",
+   "kaynak": "AA",
+   "baslik": "Yurdun güneybatı ve güneydoğu kesimleri için kuvvetli yağış uyarısı",
+   "ozet": "Yurdun güneybatı ve güneydoğu kesimleri için kuvvetli yağış uyarısında bulunuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-guneybati-ve-guneydogu-kesimleri-icin-kuvvetli-yagis-uyarisi/4102292",
+   "zaman": "2026-10-27T13:17:45+03:00",
+   "kelimeler": [
+    "guney",
+    "kesim",
+    "kuvve",
+    "uyari",
+    "yagis",
+    "yurdu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9a008cf1ecb1"
+  },
+  "09f895a2a298": {
+   "id": "09f895a2a298",
+   "kaynak": "TRT Haber",
+   "baslik": "Trafik denetimleri gelecek yıl yoğunlaştırılacak",
+   "ozet": "Trafik güvenliğinin artırılması ve kazalara neden olan ihlallerin önlenmesi amacıyla 2027'de denetimlerin yoğunlaştırılması hedefleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/trafik-denetimleri-gelecek-yil-yogunlastirilacak-961345.html",
+   "zaman": "2026-10-27T13:18:00+03:00",
+   "kelimeler": [
+    "denet",
+    "gelec",
+    "trafi",
+    "yil",
+    "yogun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "058085feda5c"
+  },
+  "440b91af1a53": {
+   "id": "440b91af1a53",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Bahçeli'yi kabul edecek",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'yi Cumhurbaşkanlığı Külliyesi'nde kabul edecek.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bahceliyi-kabul-edecek-961346.html",
+   "zaman": "2026-10-27T13:19:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "cumhu",
+    "edece",
+    "erdog",
+    "kabul",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "NTV"
+   ]
+  },
+  "194350ad79b9": {
+   "id": "194350ad79b9",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, MHP Genel Başkanı Bahçeli'yi kabul edecek",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın MHP Genel Başkanı Devlet Bahçeli'yi kabul edeceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-mhp-genel-baskani-bahceliyi-kabul-edecek/4102296",
+   "zaman": "2026-10-27T13:19:39+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "cumhu",
+    "edece",
+    "erdog",
+    "genel",
+    "kabul",
+    "mhp",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "440b91af1a53"
+  },
+  "362c98ad6cac": {
+   "id": "362c98ad6cac",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, MHP lideri Bahçeli ile görüşecek",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'yi Cumhurbaşkanlığı Külliyesi'nde kabul edecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-mhp-lideri-bahceli-ile-gorusecek-43356631",
+   "zaman": "2026-10-27T13:20:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "lider",
+    "mhp"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e408a4f9b801": {
+   "id": "e408a4f9b801",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan, Bahçeli'yi kabul edecek",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile MHP Genel Başkanı Devlet Bahçeli, bugün saat 14.00'te bir araya gelecek.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bahceliyi-kabul-edecek-1748205",
+   "zaman": "2026-10-27T13:27:39+03:00",
+   "kelimeler": [
+    "bahce",
+    "cumhu",
+    "edece",
+    "erdog",
+    "kabul",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "440b91af1a53"
   }
  },
  "kayit": [
+  "27.10 13:31:20  4 yeni haber",
   "27.10 13:18:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yolcu otobüsü devrildi: 1 ölü, 7 yaralı",
   "27.10 13:15:56  1 yeni haber",
   "27.10 13:01:27  6 yeni haber",
@@ -25609,8 +25744,7 @@
   "25.10 02:01:41  1 yeni haber",
   "25.10 01:46:07  2 yeni haber",
   "25.10 01:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "25.10 01:33:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İstanbul Barosu seçimlerinde yumruk yumruğa kavga çıktı.",
-  "25.10 01:31:16  1 yeni haber"
+  "25.10 01:33:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İstanbul Barosu seçimlerinde yumruk yumruğa kavga çıktı."
  ],
  "otomatik": false
 }
