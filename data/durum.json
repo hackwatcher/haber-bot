@@ -1,83 +1,5 @@
 {
  "haberler": {
-  "98df7205bcac": {
-   "id": "98df7205bcac",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki saldırılarını sürdürdü",
-   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-saldirilarini-surdurdu/4099824",
-   "zaman": "2026-10-24T22:03:24+03:00",
-   "kelimeler": [
-    "atesk",
-    "guney",
-    "in",
-    "israi",
-    "lubna",
-    "ordus",
-    "ragme",
-    "saldi",
-    "surdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "02ebe78d6efb": {
-   "id": "02ebe78d6efb",
-   "kaynak": "NTV",
-   "baslik": "Zeybekci: Fon meselesinde hem ihmal hem suistimal var",
-   "ozet": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekci, fon soruşturmalarıyla ilgili, \"Maalesef bazı kamu kurumlarının yönetiminde de hem ihmal hem suistimal vardır​​​.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/zeybekci-fon-meselesinde-hem-ihmal-hem-suistimal-var-1747818",
-   "zaman": "2026-10-24T22:29:57+03:00",
-   "kelimeler": [
-    "fon",
-    "hem",
-    "ihmal",
-    "mesel",
-    "suist",
-    "zeybe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ec22a0fe53c9": {
-   "id": "ec22a0fe53c9",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'den Somali'de eğitime destek: Bir okulun derslikleri yenilendi",
-   "ozet": "Somali Türk Görev Kuvveti Komutanlığı tarafından Somali'nin başkenti Mogadişu'daki bir okulun 5 dersliğinin bakım, onarım ve yenileme çalışmaları tamamlandı.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-somalide-egitime-destek-bir-okulun-derslikleri-yenilendi-961101.html",
-   "zaman": "2026-10-24T22:30:00+03:00",
-   "kelimeler": [
-    "den",
-    "dersl",
-    "deste",
-    "egiti",
-    "okulu",
-    "somal",
-    "turki",
-    "yenil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "79de66642f3b": {
-   "id": "79de66642f3b",
-   "kaynak": "Sözcü",
-   "baslik": "Fransa ve İtalya alarmda: Yüzbinler sokağa indi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/fransada-sari-yelekliler-sokakta-bakanliga-gore-410-bin-kisi-p372397",
-   "zaman": "2026-10-24T22:30:28+03:00",
-   "kelimeler": [
-    "alarm",
-    "frans",
-    "indi",
-    "italy",
-    "sokag",
-    "yuzbi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "073cc7a67567": {
    "id": "073cc7a67567",
    "kaynak": "Hürriyet",
@@ -18400,7 +18322,10 @@
     "tesli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "4e57e6b28a1b": {
    "id": "4e57e6b28a1b",
@@ -27408,9 +27333,159 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "5e29d88daa7b": {
+   "id": "5e29d88daa7b",
+   "kaynak": "TRT Haber",
+   "baslik": "232 kilometre hızla makas attı: 145 bin lira ceza ve 5 ay ehliyetsiz",
+   "ozet": "İstanbul Arnavutköyde Kuzey Marmara Otoyolu üzerinde saatte 232 kilometre hızla ilerleyerek araçların arasında makas atan sürücü, Otoyol Jandarma ekipleri tarafından yakalandı. Sürücüye toplam 145 bin lira idari para cezası uygulanırken, ehliyetine 5 ay süreyle el konuldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/232-kilometre-hizla-makas-atti-145-bin-lira-ceza-ve-5-ay-ehliyetsiz-961405.html",
+   "zaman": "2026-10-27T22:03:00+03:00",
+   "kelimeler": [
+    "145",
+    "232",
+    "atti",
+    "ay",
+    "bin",
+    "ceza",
+    "ehliy",
+    "hizla",
+    "kilom",
+    "lira",
+    "makas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4111bd08982f": {
+   "id": "4111bd08982f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Brezilya'da seçimi kaybeden Bolsonaro'nun pasaportu iptal edildi",
+   "ozet": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış olabileceğine yönelik spekülasyonlar var.",
+   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko",
+   "zaman": "2026-10-27T22:07:26+03:00",
+   "kelimeler": [
+    "bolso",
+    "brezi",
+    "edild",
+    "iptal",
+    "kaybe",
+    "nun",
+    "pasap",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "629ca7e79e5d"
+  },
+  "eb2ca6890834": {
+   "id": "eb2ca6890834",
+   "kaynak": "AA",
+   "baslik": "\"Hikayenin En Güzel Yeri: Türkiye'de Soyut Resim\" sergisi İstanbul'da sanatseverlerle buluştu",
+   "ozet": "Küra Kolektif tarafından \"Hikayenin En Güzel Yeri: Türkiye’de Soyut Resim\" sergisi, Karaköy'deki The Muradiye'de ziyarete açıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/hikayenin-en-guzel-yeri-turkiyede-soyut-resim-sergisi-istanbulda-sanatseverlerle-bulustu/4103012",
+   "zaman": "2026-10-27T22:13:49+03:00",
+   "kelimeler": [
+    "bulus",
+    "guzel",
+    "hikay",
+    "istan",
+    "resim",
+    "sanat",
+    "sergi",
+    "soyut",
+    "turki",
+    "yeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8c5c83ad1303": {
+   "id": "8c5c83ad1303",
+   "kaynak": "Hürriyet",
+   "baslik": "Yön tabelasının direğine çarpan otomobilin sürücüsü hayatını kaybetti",
+   "ozet": "ADANA'da Mert Aydın (33), kontrolünü kaybettiği otomobilin yön levhası direğine çarpması sonucu hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/yon-tabelasinin-diregine-carpan-otomobilin-surucusu-hayatini-kaybetti-43357303",
+   "zaman": "2026-10-27T22:15:20+03:00",
+   "kelimeler": [
+    "carpa",
+    "direg",
+    "hayat",
+    "kaybe",
+    "otomo",
+    "suruc",
+    "tabel",
+    "yon"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "340ea08d4f4b": {
+   "id": "340ea08d4f4b",
+   "kaynak": "AA",
+   "baslik": "Rusya Devlet Başkanı Putin ve Katar Emiri Al Sani, Moskova'da görüştü",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin ile Katar Emiri Şeyh Temim bin Hamed Al Sani, Moskova'da bir araya gelerek İran çevresindeki çatışmaları, Hürmüz Boğazı'ndaki krizi ve enerji alanındaki işbirliğini ele aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-ve-katar-emiri-al-sani-moskovada-gorustu/4103013",
+   "zaman": "2026-10-27T22:17:42+03:00",
+   "kelimeler": [
+    "al",
+    "baska",
+    "devle",
+    "emiri",
+    "gorus",
+    "katar",
+    "mosko",
+    "putin",
+    "rusya",
+    "sani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9c7f9601d256": {
+   "id": "9c7f9601d256",
+   "kaynak": "AA",
+   "baslik": "Putin ve Pezeşkiyan Moskova'da bölgesel gelişmeleri ve ilişkileri görüştü",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin ile İran Cumhurbaşkanı Mesud Pezeşkiyan, Moskova'da bir araya gelerek bölgedeki gelişmeleri ve iki ülke arasındaki ilişkileri ele aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-ve-pezeskiyan-moskovada-bolgesel-gelismeleri-ve-iliskileri-gorustu/4103014",
+   "zaman": "2026-10-27T22:18:40+03:00",
+   "kelimeler": [
+    "bolge",
+    "gelis",
+    "gorus",
+    "ilisk",
+    "mosko",
+    "pezes",
+    "putin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9f5b28ffc0ff": {
+   "id": "9f5b28ffc0ff",
+   "kaynak": "AA",
+   "baslik": "SPK, Tera Yatırımın tüm faaliyet izinlerini ve yetki belgesini iptal etti",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), Tera Yatırım Menkul Değerler AŞ’nin tüm faaliyet izinlerinin ve yetki belgesinin iptal edilmesine, yatırımcılarının tazminine ve şirketin tedrici tasfiyesine karar verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-tera-yatirimin-tum-faaliyet-izinlerini-ve-yetki-belgesini-iptal-etti/4103018",
+   "zaman": "2026-10-27T22:27:18+03:00",
+   "kelimeler": [
+    "belge",
+    "etti",
+    "faali",
+    "iptal",
+    "izinl",
+    "spk",
+    "tera",
+    "tum",
+    "yatir",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.10 22:31:10  6 yeni haber",
   "27.10 22:01:31  2 yeni haber",
   "27.10 21:46:40  3 yeni haber",
   "27.10 21:31:21  1 yeni haber",
@@ -27609,8 +27684,7 @@
   "25.10 14:01:20  5 yeni haber",
   "25.10 13:46:07  1 yeni haber",
   "25.10 13:31:16  5 yeni haber",
-  "25.10 13:15:52  3 yeni haber",
-  "25.10 13:01:34  4 yeni haber"
+  "25.10 13:15:52  3 yeni haber"
  ],
  "otomatik": false
 }
