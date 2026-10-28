@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "b9112fc1c436": {
-   "id": "b9112fc1c436",
-   "kaynak": "AA",
-   "baslik": "Madrid'in ünlü şenliğinde 1000'den fazla koyun kent merkezinde yürüdü",
-   "ozet": "İspanya'nın başkenti Madrid'de, Orta Çağ geleneklerinden biri olan ve \"Trashumancia Şenliği\" adıyla bilinen etkinlik kapsamında, 1000'den fazla koyun kent sokaklarında yürüdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/madridin-unlu-senliginde-1000den-fazla-koyun-kent-merkezinde-yurudu/4100306",
-   "zaman": "2026-10-25T17:15:29+03:00",
-   "kelimeler": [
-    "1000",
-    "den",
-    "fazla",
-    "in",
-    "kent",
-    "koyun",
-    "madri",
-    "merke",
-    "senli",
-    "unlu",
-    "yurud"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7ec438c2e98f": {
    "id": "7ec438c2e98f",
    "kaynak": "AA",
@@ -19189,7 +19166,8 @@
     "saniy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4bdde491dc42": {
    "id": "4bdde491dc42",
@@ -29715,7 +29693,10 @@
     "thy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1171e7808a08": {
    "id": "1171e7808a08",
@@ -29835,9 +29816,213 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "799b1ae02971": {
+   "id": "799b1ae02971",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (28 Ekim 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-28-ekim-2026/4103867",
+   "zaman": "2026-10-28T16:10:05+03:00",
+   "kelimeler": [
+    "2026",
+    "28",
+    "60",
+    "bugun",
+    "ekim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c2fd7dd071a1"
+  },
+  "14a474176518": {
+   "id": "14a474176518",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: Türk dünyası, geleceğini birlikte inşa etme iradesiyle yoluna devam ediyor",
+   "ozet": "İletişim Başkanı Burhanettin Duran, \"Ortak tarihimizden, dilimizden ve medeniyet mirasımızdan güç alan Türk dünyası, geleceğini birlikte inşa etme iradesiyle yoluna devam ediyor.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turk-dunyasi-gelecegini-birlikte-insa-etme-iradesiyle-yoluna-devam-ediyor-961515.html",
+   "zaman": "2026-10-28T16:52:00+03:00",
+   "kelimeler": [
+    "baska",
+    "birli",
+    "devam",
+    "dunya",
+    "duran",
+    "ediyo",
+    "etme",
+    "gelec",
+    "ileti",
+    "insa",
+    "irade",
+    "turk",
+    "yolun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "135b58f80d52": {
+   "id": "135b58f80d52",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Ersoy, AK Parti'li İnan ve İzmir Büyükşehir Belediye Başkanı Tugay’ı kabul etti",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan ile İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ı kabul etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ersoy-ak-partili-inan-ve-izmir-buyuksehir-belediye-baskani-tugayi-kabul-etti-43358407",
+   "zaman": "2026-10-28T16:55:12+03:00",
+   "kelimeler": [
+    "ak",
+    "bakan",
+    "baska",
+    "beled",
+    "buyuk",
+    "ersoy",
+    "etti",
+    "inan",
+    "izmir",
+    "kabul",
+    "li",
+    "parti",
+    "tugay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "37bc2e869e35"
+  },
+  "e0441640744f": {
+   "id": "e0441640744f",
+   "kaynak": "TRT Haber",
+   "baslik": "THY'den 29 Ekim'e özel indirimli bilet kampanyası",
+   "ozet": "THY'nin 29 Ekim'e özel kampanyası kapsamında 115 bin koltuk, 1699 liradan başlayan fiyatlarla satışa çıkarıldı. 30 Ekim'e kadar alınabilecek biletler, 1 Aralık 202628 Şubat 2027 tarihleri arasındaki yurt içi uçuşlarda kullanılabilecek.",
+   "link": "https://www.trthaber.com/haber/ekonomi/thyden-29-ekime-ozel-indirimli-bilet-kampanyasi-961514.html",
+   "zaman": "2026-10-28T16:56:00+03:00",
+   "kelimeler": [
+    "29",
+    "bilet",
+    "den",
+    "ekim",
+    "indir",
+    "kampa",
+    "ozel",
+    "thy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b44a0604d9bb"
+  },
+  "a681aafc9a2d": {
+   "id": "a681aafc9a2d",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine topçu saldırıları düzenledi",
+   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere topçu saldırılarını sürdürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilari-duzenledi/4103954",
+   "zaman": "2026-10-28T17:00:02+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "guney",
+    "in",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "topcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7a23dc5cea14"
+  },
+  "d10322dfc0ec": {
+   "id": "d10322dfc0ec",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran'dan Türk Devletleri Teşkilatı 13. Zirvesi'ne ilişkin paylaşım",
+   "ozet": "İletişim Başkanı Duran, Türk Devletleri Teşkilatı 13. Devlet ve Hükümet Başkanları Zirvesi'nde ortaya konulacak ortak iradenin, Türk dünyasının geleceğe yönelik hedeflerine ulaşmasında önemli bir güç oluşturacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turk-devletleri-teskilati-13-zirvesine-iliskin-paylasim/4103960",
+   "zaman": "2026-10-28T17:05:30+03:00",
+   "kelimeler": [
+    "13",
+    "baska",
+    "dan",
+    "devle",
+    "duran",
+    "ileti",
+    "ilisk",
+    "payla",
+    "teski",
+    "turk",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "289523a0645c"
+  },
+  "349964eeb05f": {
+   "id": "349964eeb05f",
+   "kaynak": "AA",
+   "baslik": "İngiltere Başbakanı Burnham, Brexit'in ekonomi ve göç açısından kötü olduğunu söyledi",
+   "ozet": "İngiltere Başbakanı Andy Burnham, ülkenin Avrupa Birliği'nden (AB) ayrılmasının 2016'daki Brexit referandumu öncesinde sözü verilenin aksine ekonomik büyüme ve göç kontrolü açısından kötü olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-brexitin-ekonomi-ve-goc-acisindan-kotu-oldugunu-soyledi/4103961",
+   "zaman": "2026-10-28T17:05:33+03:00",
+   "kelimeler": [
+    "acisi",
+    "basba",
+    "brexi",
+    "burnh",
+    "ekono",
+    "goc",
+    "in",
+    "ingil",
+    "kotu",
+    "oldug",
+    "soyle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a59d195236c7": {
+   "id": "a59d195236c7",
+   "kaynak": "Hürriyet",
+   "baslik": "Çorum’da korkunç kaza! Otomobil ile cip çarpıştı: 4 can kaybı, 2 yaralı",
+   "ozet": "Çorum'un Alaca ilçesinde cip ile otomobilin çarpıştı. Korkunç kazada ilk belirlemelere göre 4 kişi hayatını kaybetti, 2 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/corumda-korkunc-kaza-otomobil-ile-cip-carpisti-4-can-kaybi-2-yarali-43358432",
+   "zaman": "2026-10-28T17:08:03+03:00",
+   "kelimeler": [
+    "can",
+    "carpi",
+    "cip",
+    "corum",
+    "kaybi",
+    "kaza",
+    "korku",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e6afb51d98ec": {
+   "id": "e6afb51d98ec",
+   "kaynak": "AA",
+   "baslik": "Dünya Bankası, emtia fiyatlarının 2026'da yüzde 23 artmasını bekliyor",
+   "ozet": "Dünya Bankası, küresel şokların artmasıyla emtia fiyatlarının 2026'da yüzde 23,1 yükselmesinin beklendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-emtia-fiyatlarinin-2026da-yuzde-23-artmasini-bekliyor/4103965",
+   "zaman": "2026-10-28T17:11:35+03:00",
+   "kelimeler": [
+    "2026",
+    "23",
+    "artma",
+    "banka",
+    "bekli",
+    "dunya",
+    "emtia",
+    "fiyat",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 17:15:55  4 yeni haber",
   "28.10 17:04:27  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Türkiye'den İspanyaya taziye mesajı",
   "28.10 17:01:36  4 yeni haber",
   "28.10 16:46:01  6 yeni haber",
@@ -30036,8 +30221,7 @@
   "26.10 12:16:14  11 yeni haber",
   "26.10 12:01:32  3 yeni haber",
   "26.10 11:54:00  10 yeni haber",
-  "26.10 11:31:23  11 yeni haber",
-  "26.10 11:15:57  12 yeni haber"
+  "26.10 11:31:23  11 yeni haber"
  ],
  "otomatik": false
 }
