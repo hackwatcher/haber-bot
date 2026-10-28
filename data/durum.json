@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "39cb7eb7a25e": {
-   "id": "39cb7eb7a25e",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul Barosu başkanlık seçimini Kocasakal kazandı",
-   "ozet": "İSTANBUL Barosu 128’inci Olağan Genel Kurulu’nun ikinci gününde başkanlık seçimi için oy kullanma işlemi sona erdi. Oy sayımının tamamlanmasının ardından resmi olmayan sonuçlara göre Ümit Kocasakal seçimi 9 bin 548 oy ile kazandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbul-barosu-baskanlik-secimini-kocasakal-kazandi-43354708",
-   "zaman": "2026-10-25T20:04:37+03:00",
-   "kelimeler": [
-    "baros",
-    "baska",
-    "istan",
-    "kazan",
-    "kocas",
-    "secim"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "BBC Türkçe",
-    "NTV",
-    "XHABER"
-   ]
-  },
-  "876e37422b1b": {
-   "id": "876e37422b1b",
-   "kaynak": "TRT Haber",
-   "baslik": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde deprem",
-   "ozet": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde bir deprem meydana geldi.",
-   "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesinde-57-buyuklugunde-deprem-961165.html",
-   "zaman": "2026-10-25T20:07:00+03:00",
-   "kelimeler": [
-    "bolge",
-    "buyuk",
-    "cin",
-    "depre",
-    "in",
-    "nde",
-    "ozerk",
-    "tibet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "502a473e1bd0"
-  },
-  "4ce72b7e130f": {
-   "id": "4ce72b7e130f",
-   "kaynak": "Hürriyet",
-   "baslik": "Çin’de 5,7 büyüklüğünde deprem",
-   "ozet": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde bir depremin meydana geldiği bildirildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/cinde-5-7-buyuklugunde-deprem-43354710",
-   "zaman": "2026-10-25T20:08:06+03:00",
-   "kelimeler": [
-    "buyuk",
-    "cin",
-    "depre"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "f796efc24719"
-  },
   "4cfd8ec50cc4": {
    "id": "4cfd8ec50cc4",
    "kaynak": "Hürriyet",
@@ -216,26 +156,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4cfd8ec50cc4"
-  },
-  "25587500ea71": {
-   "id": "25587500ea71",
-   "kaynak": "AA",
-   "baslik": "Göztepe, Arca Çorum FK'yı 2-0 mağlup etti",
-   "ozet": "Trendyol Süper Lig'in 9. haftasında Göztepe, sahasında Arca Çorum FK'yı 2-0 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/goztepe-arca-corum-fkyi-2-0-maglup-etti/4100373",
-   "zaman": "2026-10-25T20:05:07+03:00",
-   "kelimeler": [
-    "arca",
-    "corum",
-    "etti",
-    "fk",
-    "gozte",
-    "maglu",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "467f9cb82eeb"
   },
   "b6fbd8af480b": {
    "id": "b6fbd8af480b",
@@ -20359,7 +20279,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ab9d7ceed20f": {
    "id": "ab9d7ceed20f",
@@ -25245,7 +25168,8 @@
     "yili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e8396b3df64a": {
    "id": "e8396b3df64a",
@@ -30862,9 +30786,115 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "289523a0645c"
+  },
+  "792f1740df75": {
+   "id": "792f1740df75",
+   "kaynak": "TRT Haber",
+   "baslik": "AB'nin Kanada'ya ortak üyelik statüsü teklifinden vazgeçtiği iddiası",
+   "ozet": "Avrupa Birliği AB üyelerinin, Kanada'ya \"ortak üyelik\" statüsü verilmesi fikrinden vazgeçerek, bunun yerine iki taraf arasında \"daha yakın bir ortaklık\" kurulması üzerinde mutabık kaldığı ileri sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/abnin-kanadaya-ortak-uyelik-statusu-teklifinden-vazgectigi-iddiasi-961530.html",
+   "zaman": "2026-10-28T19:26:00+03:00",
+   "kelimeler": [
+    "ab",
+    "iddia",
+    "kanad",
+    "nin",
+    "ortak",
+    "statu",
+    "tekli",
+    "uyeli",
+    "vazge",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6b38f2b406ce"
+  },
+  "f481aaf9371f": {
+   "id": "f481aaf9371f",
+   "kaynak": "Hürriyet",
+   "baslik": "Merkezefendi Belediyesi operasyonunda 3 kişi mahkemeye sevk edildi, 7 kişi serbest",
+   "ozet": "Denizli'nin Merkezefendi Belediyesine yönelik 'rüşvet', 'ihaleye fesat karıştırma', 'irtikap' suçlarına ilişkin düzenlenen operasyonda gözaltına alınan 27 şüpheliden 3'ü mahkemeye sevk edilirken, 7 kişi ise ifadelerinin ardından serbest bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/merkezefendi-belediyesi-operasyonunda-3-kisi-mahkemeye-sevk-edildi-7-kisi-serbest-43358592",
+   "zaman": "2026-10-28T19:58:27+03:00",
+   "kelimeler": [
+    "beled",
+    "edild",
+    "kisi",
+    "mahke",
+    "merke",
+    "opera",
+    "serbe",
+    "sevk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8211d518bf70": {
+   "id": "8211d518bf70",
+   "kaynak": "Hürriyet",
+   "baslik": "Kütahya'da trenin çarptığı genç hayatını kaybetti",
+   "ozet": "Kütahya'da hemzemin geçitte yolcu treninin çarptığı 18 yaşındaki genç, kaldırıldığı hastanede yaşamını yitirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kutahyada-trenin-carptigi-genc-hayatini-kaybetti-43358594",
+   "zaman": "2026-10-28T20:01:45+03:00",
+   "kelimeler": [
+    "carpt",
+    "genc",
+    "hayat",
+    "kaybe",
+    "kutah",
+    "treni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "59fed7545dfe": {
+   "id": "59fed7545dfe",
+   "kaynak": "NTV",
+   "baslik": "SPK'dan yabancı finans kuruluşlarına ilişkin iddialara yalanlama",
+   "ozet": "SPK, yabancı finans kuruluşlarının Türkiye'de yüksek kazançlar elde ettikten sonra yatırım pozisyonlarını kapatarak piyasadan çıktıkları yönündeki iddiaların gerçeği yansıtmadığını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/spkdan-yabanci-finans-kuruluslarina-iliskin-iddialara-yalanlama-1748402",
+   "zaman": "2026-10-28T20:02:56+03:00",
+   "kelimeler": [
+    "dan",
+    "finan",
+    "iddia",
+    "ilisk",
+    "kurul",
+    "spk",
+    "yaban",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f3d54b0ca506": {
+   "id": "f3d54b0ca506",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş'tan Meclis'in 2027 yılı bütçesine ilişkin paylaşım",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, TBMM Plan ve Bütçe Komisyonunda kabul edilen Meclis'in 2027 yılı bütçesinin hayırlı olması temennisinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmustan-meclisin-2027-yili-butcesine-iliskin-paylasim/4104173",
+   "zaman": "2026-10-28T20:11:13+03:00",
+   "kelimeler": [
+    "2027",
+    "baska",
+    "butce",
+    "ilisk",
+    "in",
+    "kurtu",
+    "mecli",
+    "payla",
+    "tan",
+    "tbmm",
+    "yili"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6d3d52c40926"
   }
  },
  "kayit": [
+  "28.10 20:16:19  3 yeni haber",
   "28.10 20:01:25  1 yeni haber",
   "28.10 19:45:59  7 yeni haber",
   "28.10 19:33:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · \"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Di",
@@ -31063,8 +31093,7 @@
   "26.10 15:15:58  14 yeni haber",
   "26.10 14:49:39  5 yeni haber",
   "26.10 14:32:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "26.10 14:31:21  7 yeni haber",
-  "26.10 14:18:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Jandarma Gücü, İspanya'dan 101 madalya ile döndü"
+  "26.10 14:31:21  7 yeni haber"
  ],
  "otomatik": false
 }
