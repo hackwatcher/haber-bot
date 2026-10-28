@@ -1,34 +1,5 @@
 {
  "haberler": {
-  "e2b7de5dc803": {
-   "id": "e2b7de5dc803",
-   "kaynak": "Hürriyet",
-   "baslik": "300 kilometre hıza ulaşan TUNGA-X’ten nokta atışı… Düşman İHA'sını tam isabet vurdu",
-   "ozet": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ tarafından geliştirilen avcı insansız hava aracı (İHA) TUNGA-X, TURNAs-2026 İnsansız Deniz Sistemleri Tatbikatı'nda, radar ve görüntü güdüm entegrasyonuyla temsili düşman İHA unsurunu tam isabetle vurarak başarıyla etkisiz hale…",
-   "link": "https://www.hurriyet.com.tr/gundem/300-kilometre-hiza-ulasan-tunga-xten-nokta-atisi-dusman-ihasini-tam-isabet-vurdu-43354645",
-   "zaman": "2026-10-25T18:19:00+03:00",
-   "kelimeler": [
-    "300",
-    "atisi",
-    "dusma",
-    "hiza",
-    "iha",
-    "isabe",
-    "kilom",
-    "nokta",
-    "sini",
-    "tam",
-    "ten",
-    "tunga",
-    "ulasa",
-    "vurdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
   "97ceb7e8c3fb": {
    "id": "97ceb7e8c3fb",
    "kaynak": "TRT Haber",
@@ -16091,7 +16062,8 @@
     "yasin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ea10ed80ce61": {
    "id": "ea10ed80ce61",
@@ -21860,7 +21832,10 @@
    "fb_id": null,
    "fb_reels_id": "1864477178325953",
    "slayt": 5,
-   "kanca": "NESİH A.'NIN DURUMU AĞIR"
+   "kanca": "NESİH A.'NIN DURUMU AĞIR",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3b17f40388ca": {
    "id": "3b17f40388ca",
@@ -29696,7 +29671,8 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "e6afb51d98ec": {
    "id": "e6afb51d98ec",
@@ -30413,9 +30389,315 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c25544a2e430": {
+   "id": "c25544a2e430",
+   "kaynak": "AA",
+   "baslik": "Yunanistan'da şiddetli yağışlar heyelan ve su baskınlarına yol açtı",
+   "ozet": "Yunanistan'da şiddetli yağışlar nedeniyle bazı bölgelerde heyelan ve su baskınları meydana gelirken, Tesalya bölgesinde yaşayanlara acil durum uyarısı gönderildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-siddetli-yagislar-heyelan-ve-su-baskinlarina-yol-acti/4103970",
+   "zaman": "2026-10-28T17:13:56+03:00",
+   "kelimeler": [
+    "acti",
+    "baski",
+    "heyel",
+    "sidde",
+    "su",
+    "yagis",
+    "yol",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "499413d42c6d": {
+   "id": "499413d42c6d",
+   "kaynak": "AA",
+   "baslik": "Ziraat Türkiye Kupası'ndaki Fethiyespor-Eyüpspor maçı sağanak nedeniyle ertelendi",
+   "ozet": "Fethiyespor ile Eyüpspor arasında oynanan Ziraat Türkiye Kupası 3. eleme turu maçı sağanak nedeniyle ertelendi.",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasindaki-fethiyespor-eyupspor-maci-saganak-nedeniyle-ertelendi/4104011",
+   "zaman": "2026-10-28T17:30:42+03:00",
+   "kelimeler": [
+    "ertel",
+    "eyups",
+    "fethi",
+    "kupas",
+    "maci",
+    "ndaki",
+    "neden",
+    "sagan",
+    "turki",
+    "ziraa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "21911058be3a": {
+   "id": "21911058be3a",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'de düzenlediği saldırılarda 4 kişi hayatını kaybetti, 19 kişi yaralandı",
+   "ozet": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'nde düzenlediği saldırılarda en az 4 Filistinlinin yaşamını yitirdiği, 19 kişinin de yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-duzenledigi-saldirilarda-4-kisi-hayatini-kaybetti-19-kisi-yaralandi/4104024",
+   "zaman": "2026-10-28T17:40:30+03:00",
+   "kelimeler": [
+    "19",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "saldi",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "beb82c7c359e"
+  },
+  "0222cf3547d0": {
+   "id": "0222cf3547d0",
+   "kaynak": "TRT Haber",
+   "baslik": "Çorum'da iki otomobil çarpıştı: 4 ölü, 2 yaralı",
+   "ozet": "Çorum'un Alaca ilçesinde iki otomobilin çarpışması sonucu 4 kişi öldü, 2 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/corumda-iki-otomobil-carpisti-4-olu-2-yarali-961523.html",
+   "zaman": "2026-10-28T18:12:00+03:00",
+   "kelimeler": [
+    "carpi",
+    "corum",
+    "iki",
+    "olu",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9ef20e0f0940"
+  },
+  "184821323e9b": {
+   "id": "184821323e9b",
+   "kaynak": "Hürriyet",
+   "baslik": "CHP Sözcüsü Sarı’dan seçim açıklaması: 2028'e sarkmış bir seçimi erken seçim olarak görmüyoruz",
+   "ozet": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, \"Cumhurbaşkanı adaylarıyla ilgili bir değerlendirmemiz yok. CHP’nin yetkili kurumlarında aday profili, adayın kim olduğu, kimler olabileceğine ilişkin bir tartışma yapılmıyor. Bu tartışmayı erken buluyoruz\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-saridan-secim-aciklamasi-2028e-sarkmis-bir-secimi-erken-secim-olarak-gormuyoruz-43358515",
+   "zaman": "2026-10-28T18:14:13+03:00",
+   "kelimeler": [
+    "2028",
+    "acikl",
+    "chp",
+    "dan",
+    "erken",
+    "gormu",
+    "sari",
+    "sarkm",
+    "secim",
+    "sozcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8bcee5c01dd": {
+   "id": "b8bcee5c01dd",
+   "kaynak": "XHABER",
+   "baslik": "\"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Dizdar ve Nevin Tekin tahliye edildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30403",
+   "zaman": "2026-10-28T18:16:13+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "\"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Dizdar ve Nevin Tekin tahliye edildi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/Jkxd5ISdWN2-_TmWHeTT8PeAL6He0Pv5tQfcXJwvpsZBg66wuBX8xspZV295bB6Qn9LzAOwmP49RGzCzrQGhjE3pzJz1SG-PENgX7uhe3aB0fzGS7Ry1XfmkKLITBe3PfcWBObFW267IqCU76yozkjaJ2kYUFZk6Bc-9UuQlPRucfb-IVolL-mOoxTPbEGDI6qTPkJ329McPZg2p-0ZbWIevGbh09auVQCFGmLcZKO9f822pT6bZQ-041-uDAxNGLRTtfpewIQVhJzNyDsZEylWRDt2Aey72x2wxood_5aCcJsKgethp6-1eEWz0d8roJJCaaCb4ijzQb3Higz-Ibg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "dizda",
+    "edild",
+    "istif",
+    "neden",
+    "nehir",
+    "nevin",
+    "ogren",
+    "panka",
+    "tahli",
+    "tekin",
+    "tutuk",
+    "yusuf"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "02c3fe4042fb": {
+   "id": "02c3fe4042fb",
+   "kaynak": "Hürriyet",
+   "baslik": "Aydın'da kanalizasyon kazısında toprak kaydı; 1 ölü",
+   "ozet": "Aydın'ın İncirliova ilçesinde kepçeyle yapılan kanalizasyon kazısı sırasında işçilerden Ercan Az (38), kayan toprağın altında kalarak yaşamını yitirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/aydinda-kanalizasyon-kazisinda-toprak-kaydi-1-olu-43358521",
+   "zaman": "2026-10-28T18:17:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "kanal",
+    "kaydi",
+    "kazis",
+    "olu",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5b0d06244cc8": {
+   "id": "5b0d06244cc8",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Sınır (Frontier) Yapay Zeka Modellerinin Kontrolü\" başlıklı Norveç-Finlandiya ortak çağrısı kapsamında düzenlenen ilk çevrim içi toplantıya katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi/4104064",
+   "zaman": "2026-10-28T18:18:09+03:00",
+   "kelimeler": [
+    "bakan",
+    "disis",
+    "fidan",
+    "katil",
+    "kontr",
+    "model",
+    "sinir",
+    "topla",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "1b293035481b": {
+   "id": "1b293035481b",
+   "kaynak": "Hürriyet",
+   "baslik": "'Türk Dünyası Diyalog Forumu' düzenlenecek",
+   "ozet": "Türkiye'nin ev sahipliğinde 29-30 Ekim tarihlerinde Ankara’da düzenlenecek olan Türk Devletleri Teşkilatı (TDT) 13'üncü Zirvesi kapsamında, Cumhurbaşkanlığı İletişim Başkanlığı tarafından ‘Türk Dünyası Diyalog Forumu’ başlıklı uluslararası forum gerçekleştirilecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-duzenlenecek-43358528",
+   "zaman": "2026-10-28T18:20:12+03:00",
+   "kelimeler": [
+    "diyal",
+    "dunya",
+    "duzen",
+    "forum",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "85732b1c2576": {
+   "id": "85732b1c2576",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Sınır (Frontier) Yapay Zeka Modellerinin Kontrolü\" başlıklı Norveç-Finlandiya ortak çağrısı kapsamında düzenlenen ilk çevrim içi toplantıya katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi-43358529",
+   "zaman": "2026-10-28T18:21:02+03:00",
+   "kelimeler": [
+    "bakan",
+    "disis",
+    "fidan",
+    "hakan",
+    "katil",
+    "kontr",
+    "model",
+    "sinir",
+    "topla",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5b0d06244cc8"
+  },
+  "914fdfebd14a": {
+   "id": "914fdfebd14a",
+   "kaynak": "Hürriyet",
+   "baslik": "Çorum’da feci kaza! Otomobil ile cip çarpıştı; 4 ölü, 2 yaralı",
+   "ozet": "Çorum'un Alaca ilçesinde otomobil ile cipin çarpıştığı kazada 4 kişi hayatını kaybetti, 2 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-otomobil-ile-cip-carpisti-4-olu-2-yarali-43358530",
+   "zaman": "2026-10-28T18:22:00+03:00",
+   "kelimeler": [
+    "carpi",
+    "cip",
+    "corum",
+    "feci",
+    "kaza",
+    "olu",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a59d195236c7"
+  },
+  "5d4c4dc0369e": {
+   "id": "5d4c4dc0369e",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi: Dolandırıcılıkla Mücadele Merkezi kuracağız",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, “İçişleri Bakanlığımız bünyesinde kurmayı planladığımız Dolandırıcılıkla Mücadele Merkezi ile suçla mücadelede yeni bir dönemin kapısını aralıyoruz.” açıklamasında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-dolandiricilikla-mucadele-merkezi-kuracagiz-43358532",
+   "zaman": "2026-10-28T18:23:55+03:00",
+   "kelimeler": [
+    "bakan",
+    "ciftc",
+    "dolan",
+    "kurac",
+    "merke",
+    "mucad"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ec66fcba6925": {
+   "id": "ec66fcba6925",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanlığı 30-31 Ekim'de \"Türk Dünyası Diyalog Forumu\" düzenleyecek",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi marjında, \"Türk Dünyası Diyalog Forumu\" başlıklı uluslararası forum düzenleyecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-30-31-ekimde-turk-dunyasi-diyalog-forumu-duzenleyecek/4104070",
+   "zaman": "2026-10-28T18:24:37+03:00",
+   "kelimeler": [
+    "30",
+    "31",
+    "baska",
+    "diyal",
+    "dunya",
+    "duzen",
+    "ekim",
+    "forum",
+    "ileti",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b293035481b"
+  },
+  "930ba6783026": {
+   "id": "930ba6783026",
+   "kaynak": "Sözcü",
+   "baslik": "Eşini öldürüp intihara kalkıştı! 11 aylık kızları koruma altına alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/esini-oldurup-intihara-kalkisti-11-aylik-kizlari-koruma-altina-alindi-p373685",
+   "zaman": "2026-10-28T18:27:04+03:00",
+   "kelimeler": [
+    "11",
+    "alind",
+    "altin",
+    "aylik",
+    "esini",
+    "intih",
+    "kalki",
+    "kizla",
+    "korum",
+    "oldur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 18:31:14  9 yeni haber",
   "28.10 18:16:16  3 yeni haber",
   "28.10 18:01:26  5 yeni haber",
   "28.10 17:46:23  5 yeni haber",
@@ -30614,8 +30896,7 @@
   "26.10 13:16:29  5 yeni haber",
   "26.10 13:01:38  7 yeni haber",
   "26.10 12:46:14  9 yeni haber",
-  "26.10 12:33:26  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Oktay Saral, Cumhurbaşkanı Başdanışmanlığı görevinden ist",
-  "26.10 12:31:24  3 yeni haber"
+  "26.10 12:33:26  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Oktay Saral, Cumhurbaşkanı Başdanışmanlığı görevinden ist"
  ],
  "otomatik": false
 }
