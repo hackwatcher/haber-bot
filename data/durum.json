@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "502a473e1bd0": {
-   "id": "502a473e1bd0",
-   "kaynak": "AA",
-   "baslik": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde deprem meydana geldi",
-   "ozet": "Çin'in Tibet Özerk Bölgesi'nde 5,7 büyüklüğünde bir depremin meydana geldiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-5-7-buyuklugunde-deprem-meydana-geldi/4100372",
-   "zaman": "2026-10-25T20:01:24+03:00",
-   "kelimeler": [
-    "bolge",
-    "buyuk",
-    "cin",
-    "depre",
-    "geldi",
-    "in",
-    "meyda",
-    "nde",
-    "ozerk",
-    "tibet"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "39cb7eb7a25e": {
    "id": "39cb7eb7a25e",
    "kaynak": "Hürriyet",
@@ -84,30 +59,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f796efc24719"
-  },
-  "63eb5cdcd785": {
-   "id": "63eb5cdcd785",
-   "kaynak": "AA",
-   "baslik": "Axios: Beyaz Saray, Netanyahu'nun seçim kampanyasına destek arayışını \"çaresizlik işareti\" olarak görüyor",
-   "ozet": "Beyaz Saray'ın, İsrail Başbakanı Binyamin Netanyahu'nun seçim kampanyası için yürüttüğü lobi faaliyetlerini \"çaresizlik işareti\" olarak değerlendirdiği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/axios-beyaz-saray-netanyahunun-secim-kampanyasina-destek-arayisini-caresizlik-isareti-olarak-goruyor/4100371",
-   "zaman": "2026-10-25T20:01:00+03:00",
-   "kelimeler": [
-    "arayi",
-    "axios",
-    "beyaz",
-    "cares",
-    "deste",
-    "goruy",
-    "isare",
-    "kampa",
-    "netan",
-    "nun",
-    "saray",
-    "secim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "4cfd8ec50cc4": {
    "id": "4cfd8ec50cc4",
@@ -18942,7 +18893,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "2cd6a60c2d51": {
    "id": "2cd6a60c2d51",
@@ -30836,9 +30790,82 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "6e786117eb74": {
+   "id": "6e786117eb74",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump: Netanyahu'nun şu anda durumu oldukça iyi",
+   "ozet": "ABD Başkanı Donald Trump, İsrail'deki seçimlere ilişkin Başbakan Binyamin Netanyahu'nun \"iyi durumda\" olduğunu savunarak, Netanyahu liderliğinde bir birlik hükümeti kurma çabalarına dahil olup olmayacağını henüz düşünmediğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-netanyahunun-su-anda-durumu-oldukca-iyi/4104144",
+   "zaman": "2026-10-28T19:38:35+03:00",
+   "kelimeler": [
+    "abd",
+    "anda",
+    "baska",
+    "durum",
+    "iyi",
+    "netan",
+    "nun",
+    "olduk",
+    "su",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a7310e91d321": {
+   "id": "a7310e91d321",
+   "kaynak": "AA",
+   "baslik": "Netanyahu'nun partisi, İsrail vatandaşı Filistinlilerin seçimlere yüksek katılımını hazmedemedi",
+   "ozet": "İsrail Başbakanı Binyamin Netanyahu'nun liderliğini yaptığı Likud Partisi, İsrail vatandaşı Filistinlilerin seçimlere yüksek katılımını hazmedemezken \"seçimlerin Arap partileri tarafından çalındığını\" iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/netanyahunun-partisi-israil-vatandasi-filistinlilerin-secimlere-yuksek-katilimini-hazmedemedi/4104157",
+   "zaman": "2026-10-28T19:49:54+03:00",
+   "kelimeler": [
+    "filis",
+    "hazme",
+    "israi",
+    "katil",
+    "netan",
+    "nun",
+    "parti",
+    "secim",
+    "vatan",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cacf75ee3ab8"
+  },
+  "8773948abf0a": {
+   "id": "8773948abf0a",
+   "kaynak": "AA",
+   "baslik": "TDT 13. Devlet ve Hükümet Başkanları Zirvesi, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenlenecek",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi'nin \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenleneceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tdt-13-devlet-ve-hukumet-baskanlari-zirvesi-turk-yuzyili-dilde-fikirde-iste-birlik-temasiyla-duzenlenecek/4104156",
+   "zaman": "2026-10-28T19:49:54+03:00",
+   "kelimeler": [
+    "13",
+    "baska",
+    "birli",
+    "devle",
+    "dilde",
+    "duzen",
+    "fikir",
+    "hukum",
+    "iste",
+    "tdt",
+    "temas",
+    "turk",
+    "yuzyi",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "289523a0645c"
   }
  },
  "kayit": [
+  "28.10 20:01:25  1 yeni haber",
   "28.10 19:45:59  7 yeni haber",
   "28.10 19:33:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · \"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Di",
   "28.10 19:31:18  3 yeni haber",
@@ -31037,8 +31064,7 @@
   "26.10 14:49:39  5 yeni haber",
   "26.10 14:32:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "26.10 14:31:21  7 yeni haber",
-  "26.10 14:18:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Jandarma Gücü, İspanya'dan 101 madalya ile döndü",
-  "26.10 14:16:04  2 yeni haber"
+  "26.10 14:18:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Jandarma Gücü, İspanya'dan 101 madalya ile döndü"
  ],
  "otomatik": false
 }
