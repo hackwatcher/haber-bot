@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "2be0c25acbb2": {
-   "id": "2be0c25acbb2",
-   "kaynak": "NTV",
-   "baslik": "2026 KPSS Ortaöğretim soru ve cevapları yayımlandı. ÖSYM duyurdu",
-   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) düzenlenen 2026 Kamu Personel Seçme Sınavı Ortaöğretim (2026-KPSS Ortaöğretim) soru ve cevapları erişime açıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-2026-kpss-ortaogretim-soru-ve-cevaplari-yayimlandi-osym-duyurdu-1747852",
-   "zaman": "2026-10-25T13:31:18+03:00",
-   "kelimeler": [
-    "2026",
-    "cevap",
-    "duyur",
-    "kpss",
-    "ortao",
-    "osym",
-    "soru",
-    "yayim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "XHABER"
-   ]
-  },
-  "12412b4fae58": {
-   "id": "12412b4fae58",
-   "kaynak": "TRT Haber",
-   "baslik": "Vergi hizmetlerinde dijital dönüşüm hız kazandı",
-   "ozet": "Gelir İdaresi Başkanlığı GİB, robotik süreç otomasyonu sayesinde bugüne kadar 200 binden fazla yazıyı memur müdahalesi olmadan hazırlayarak muhataplarına iletti. Dijital Vergi Dairesi üzerinden ise yılın 9 ayında yaklaşık 18,3 milyon başvuru ve dilekçe alındı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/vergi-hizmetlerinde-dijital-donusum-hiz-kazandi-961138.html",
-   "zaman": "2026-10-25T13:38:00+03:00",
-   "kelimeler": [
-    "dijit",
-    "donus",
-    "hiz",
-    "hizme",
-    "kazan",
-    "vergi"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "98aadf8fe036": {
-   "id": "98aadf8fe036",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Brezilya'da seçmenler Lula ile Jair Bolsonaro'nun oğlu arasında tercih yapacak",
-   "ozet": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gidiyor. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında tercih yapacak.",
-   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo",
-   "zaman": "2026-10-25T13:44:12+03:00",
-   "kelimeler": [
-    "arasi",
-    "bolso",
-    "brezi",
-    "jair",
-    "lula",
-    "nun",
-    "oglu",
-    "secme",
-    "terci",
-    "yapac"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5f50e1a61d84": {
    "id": "5f50e1a61d84",
    "kaynak": "AA",
@@ -381,29 +318,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f13cbca96184"
-  },
-  "52ca6e727ba0": {
-   "id": "52ca6e727ba0",
-   "kaynak": "AA",
-   "baslik": "Milli İnsansız Deniz Sistemleri Tatbikatı-2026'nın \"Seçkin Gözlemci Günü\" tamamlandı",
-   "ozet": "Deniz Kuvvetleri Komutanlığının sevk ve idaresinde düzenlenen Milli İnsansız Deniz Sistemleri Tatbikatı-2026 (TURNAs-2026) Seçkin Gözlemci Günü'nde, milli ve NATO uyumlu insansız sistemlerin deniz harekat ortamındaki etkinlikleri sergilendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/milli-insansiz-deniz-sistemleri-tatbikati-2026nin-seckin-gozlemci-gunu-tamamlandi/4100152",
-   "zaman": "2026-10-25T13:37:00+03:00",
-   "kelimeler": [
-    "2026",
-    "deniz",
-    "gozle",
-    "gunu",
-    "insan",
-    "milli",
-    "nin",
-    "secki",
-    "siste",
-    "tamam",
-    "tatbi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "645e4114e6b6": {
    "id": "645e4114e6b6",
@@ -28703,7 +28617,10 @@
     "yasar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "1b0624001923": {
    "id": "1b0624001923",
@@ -29519,9 +29436,141 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1823eb82422c": {
+   "id": "1823eb82422c",
+   "kaynak": "AA",
+   "baslik": "İspanya'daki iki hızlı trenin çarpıştığı kazada hayatını kaybedenlerin sayısı 46'ya yükseldi",
+   "ozet": "İspanya'da Madrid-Endülüs seferi yapan iki yolcu treninin çarpıştığı kazada 46 kişinin öldüğü ve çok sayıda kişinin yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyadaki-iki-hizli-trenin-carpistigi-kazada-hayatini-kaybedenlerin-sayisi-46ya-yukseldi/4103535",
+   "zaman": "2026-10-28T12:19:22+03:00",
+   "kelimeler": [
+    "46",
+    "carpi",
+    "daki",
+    "hayat",
+    "hizli",
+    "iki",
+    "ispan",
+    "kaybe",
+    "kazad",
+    "sayis",
+    "treni",
+    "ya",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6fa89ecdb492"
+  },
+  "022b599d9aa9": {
+   "id": "022b599d9aa9",
+   "kaynak": "AA",
+   "baslik": "Türkiye Basketbol Federasyonunun mali genel kurulu yapıldı",
+   "ozet": "Türkiye Basketbol Federasyonu (TBF) Olağan Mali Genel Kurulu, Ankara'da gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-basketbol-federasyonunun-mali-genel-kurulu-yapildi/4103619",
+   "zaman": "2026-10-28T13:11:53+03:00",
+   "kelimeler": [
+    "baske",
+    "feder",
+    "genel",
+    "kurul",
+    "mali",
+    "turki",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "51dfbf059649": {
+   "id": "51dfbf059649",
+   "kaynak": "TRT Haber",
+   "baslik": "Tasfiye sürecindeki fonlarda ilk ara ödeme cuma günü başlıyor",
+   "ozet": "Tasfiye sürecindeki yatırım fonları kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler ise 30 Ekim Cuma günü başlayacak.",
+   "link": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html",
+   "zaman": "2026-10-28T13:27:00+03:00",
+   "kelimeler": [
+    "ara",
+    "basli",
+    "cuma",
+    "fonla",
+    "gunu",
+    "ilk",
+    "odeme",
+    "surec",
+    "tasfi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b3935e088048": {
+   "id": "b3935e088048",
+   "kaynak": "AA",
+   "baslik": "Bakan Güler, Sofya'da Türkiye-Bulgaristan-Romanya Savunma Bakanları Toplantısı'na katıldı",
+   "ozet": "Milli Savunma Bakanı Yaşar Güler, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu ile Sofya'da düzenlenen Türkiye-Bulgaristan-Romanya Savunma Bakanları ve Genelkurmay Başkanları Toplantısı'na katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-guler-sofyada-turkiye-bulgaristan-romanya-savunma-bakanlari-toplantisina-katildi/4103652",
+   "zaman": "2026-10-28T13:29:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "bulga",
+    "guler",
+    "katil",
+    "na",
+    "roman",
+    "savun",
+    "sofya",
+    "topla",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0d591ded681"
+  },
+  "bc7508e21aff": {
+   "id": "bc7508e21aff",
+   "kaynak": "Hürriyet",
+   "baslik": "5 yıldır su bile içemeyen hasta kesisiz ameliyatla et yedi… Doktorların operasyonu hayatını değiştirdi",
+   "ozet": "Kahramanmaraş'ta nadir görülen akalazya hastalığı nedeniyle 5,5 yıldır katı gıda tüketemeyen ve son 45 günde su dahi içemeyerek serumla beslenen Arif Gedikli, ağızdan girilerek yapılan ve dünyada nadir uygulanan ileri endoskopik operasyonla yeniden normal beslenmeye başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/5-yildir-su-bile-icemeyen-hasta-kesisiz-ameliyatla-et-yedi-doktorlarin-operasyonu-hayatini-degistirdi-43358027",
+   "zaman": "2026-10-28T13:29:00+03:00",
+   "kelimeler": [
+    "ameli",
+    "bile",
+    "degis",
+    "dokto",
+    "et",
+    "hasta",
+    "hayat",
+    "iceme",
+    "kesis",
+    "opera",
+    "su",
+    "yedi",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "535852dc7687": {
+   "id": "535852dc7687",
+   "kaynak": "NTV",
+   "baslik": "Bakan Kurum ile Mansur Yavaş görüştü",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile Ankara Büyükşehir Belediye Başkanı Mansur Yavaş bir görüşme gerçekleştirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-ile-mansur-yavas-gorustu-1748362",
+   "zaman": "2026-10-28T13:39:59+03:00",
+   "kelimeler": [
+    "bakan",
+    "gorus",
+    "kurum",
+    "mansu",
+    "yavas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 13:47:16  4 yeni haber",
   "28.10 13:31:12  8 yeni haber",
   "28.10 13:17:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 32 ilde dev uyuşturucu operasyonu: 423 şüpheli yakalandı, 298 tutuklam",
   "28.10 13:15:55  4 yeni haber",
@@ -29720,8 +29769,7 @@
   "26.10 08:32:20  1 yeni haber",
   "26.10 08:31:11  1 yeni haber",
   "26.10 08:18:37  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Brezilya'da resmi olmayan sonuçlara göre seçimi kazanan Silva: Brezily",
-  "26.10 08:01:39  1 yeni haber",
-  "26.10 07:46:03  2 yeni haber"
+  "26.10 08:01:39  1 yeni haber"
  ],
  "otomatik": false
 }
