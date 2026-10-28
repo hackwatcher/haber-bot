@@ -28193,7 +28193,10 @@
     "tutun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "ce649d635dbb": {
    "id": "ce649d635dbb",
@@ -28217,6 +28220,32 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5517e3e7bd86": {
+   "id": "5517e3e7bd86",
+   "kaynak": "Hürriyet",
+   "baslik": "Kaçak tütün ticareti | Haksız kazanç ve vergi kaybı mercekte: 12 kişi hakkında yakalama talimatı",
+   "ozet": "İstanbul'da bandrolsüz ve kaçak tütün mamulleri ticareti yaparak kamu zararına yol açtıkları tespit edilen 12 şüpheli hakkında gözaltı, arama ve el koyma kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kacak-tutun-ticareti-haksiz-kazanc-ve-vergi-kaybi-mercekte-12-kisi-hakkinda-yakalama-talimati-43357453",
+   "zaman": "2026-10-28T08:51:17+03:00",
+   "kelimeler": [
+    "12",
+    "hakki",
+    "haksi",
+    "kacak",
+    "kaybi",
+    "kazan",
+    "kisi",
+    "merce",
+    "talim",
+    "ticar",
+    "tutun",
+    "vergi",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7a3fa1524af7"
   }
  },
  "kayit": [
