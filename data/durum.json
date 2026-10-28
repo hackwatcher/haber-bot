@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "0d8b66332ec5": {
-   "id": "0d8b66332ec5",
-   "kaynak": "Sözcü",
-   "baslik": "İktidara yakın gazetecinin iddiası: Oktay Saral görevden alındı!",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/oktay-saral-gorevden-mi-alindi-p372634",
-   "zaman": "2026-10-25T19:12:35+03:00",
-   "kelimeler": [
-    "alind",
-    "gazet",
-    "gorev",
-    "iddia",
-    "iktid",
-    "oktay",
-    "saral",
-    "yakin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d618c512b01e": {
-   "id": "d618c512b01e",
-   "kaynak": "AA",
-   "baslik": "ABD Başkanı Trump'tan İran'a yeni ültimatom",
-   "ozet": "ABD Başkanı Donald Trump, Tahran'a yeni bir ültimatom göndererek, ya İran'la anlaşma imzalayacaklarını ya da bu ülkeyi askeri olarak \"yok edeceklerini\" ifade etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-yeni-ultimatom/4100358",
-   "zaman": "2026-10-25T19:09:59+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "iran",
-    "tan",
-    "trump",
-    "ultim",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6b571ed01247"
-  },
   "60682770623a": {
    "id": "60682770623a",
    "kaynak": "BBC Türkçe",
@@ -29192,7 +29152,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "58fc86ab8134": {
@@ -30396,7 +30357,10 @@
     "mucad"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ec66fcba6925": {
    "id": "ec66fcba6925",
@@ -30599,9 +30563,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e9952e4b1e7b": {
+   "id": "e9952e4b1e7b",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakanlar Çiftçi ve Gürlek bir araya geldi: Dolandırıcılıkla Mücadele Merkezi kuruluyor",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi ile Adalet Bakanı Akın Gürlek bir araya gelerek, 'DOLUNAY Projesi' kapsamında dolandırıcılıkla mücadelede atılacak adımları görüştü.",
+   "link": "https://www.trthaber.com/haber/gundem/bakanlar-ciftci-ve-gurlek-bir-araya-geldi-dolandiricilikla-mucadele-merkezi-kuruluyor-961527.html",
+   "zaman": "2026-10-28T18:55:00+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "ciftc",
+    "dolan",
+    "geldi",
+    "gurle",
+    "kurul",
+    "merke",
+    "mucad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5d4c4dc0369e"
+  },
+  "a4cfbae4d559": {
+   "id": "a4cfbae4d559",
+   "kaynak": "AA",
+   "baslik": "Göğsündeki çizikten kanser olduğunu öğrenen kadın erken teşhisin önemine dikkati çekti",
+   "ozet": "Beş yıl önce göğsünün altındaki bir çiziği fark edip şüphe üzerine gittiği hastanede meme kanseri olduğunu öğrenen Sibel Kılıç, zorlu tedavi sürecinin ardından sağlığına kavuştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/gogsundeki-cizikten-kanser-oldugunu-ogrenen-kadin-erken-teshisin-onemine-dikkati-cekti/4104106",
+   "zaman": "2026-10-28T19:04:15+03:00",
+   "kelimeler": [
+    "cekti",
+    "cizik",
+    "dikka",
+    "erken",
+    "gogsu",
+    "kadin",
+    "kanse",
+    "ogren",
+    "oldug",
+    "onemi",
+    "teshi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70a2b5518c62": {
+   "id": "70a2b5518c62",
+   "kaynak": "AA",
+   "baslik": "Bakanlar Gürlek ve Çiftçi, DOLUNAY Projesi için bir araya geldi",
+   "ozet": "Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, DOLUNAY Projesi kapsamında dolandırıcılıkla mücadelede atılacak adımları, Dolandırıcılıkla Mücadele Merkezinin kurulmasına yönelik hazırlıkları ve mevzuat çalışmalarını değerlendirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakanlar-gurlek-ve-ciftci-dolunay-projesi-icin-bir-araya-geldi/4104115",
+   "zaman": "2026-10-28T19:10:31+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "ciftc",
+    "dolun",
+    "geldi",
+    "gurle",
+    "proje"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "43b536f53e36": {
+   "id": "43b536f53e36",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile heyetler arası görüşmeye başkanlık etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev ile baş başa görüşmelerinin ardından heyetler arası görüşmeye başkanlık etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-heyetler-arasi-gorusmeye-baskanlik-etti/4104118",
+   "zaman": "2026-10-28T19:12:45+03:00",
+   "kelimeler": [
+    "arasi",
+    "baska",
+    "cumhu",
+    "erdog",
+    "etti",
+    "gorus",
+    "heyet",
+    "kazak",
+    "tokay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "11fcfaabe148"
   }
  },
  "kayit": [
+  "28.10 19:16:03  2 yeni haber",
   "28.10 19:01:33  2 yeni haber",
   "28.10 18:46:00  2 yeni haber",
   "28.10 18:31:14  9 yeni haber",
@@ -30800,8 +30851,7 @@
   "26.10 14:16:04  2 yeni haber",
   "26.10 14:01:39  6 yeni haber",
   "26.10 13:46:05  12 yeni haber",
-  "26.10 13:16:29  5 yeni haber",
-  "26.10 13:01:38  7 yeni haber"
+  "26.10 13:16:29  5 yeni haber"
  ],
  "otomatik": false
 }
