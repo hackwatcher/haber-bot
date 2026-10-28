@@ -1,112 +1,5 @@
 {
  "haberler": {
-  "5a3a9dd3d269": {
-   "id": "5a3a9dd3d269",
-   "kaynak": "AA",
-   "baslik": "Maliye robotik işlemlerle mükellefe otomatik ulaşmaya başladı",
-   "ozet": "Gelir İdaresi Başkanlığı (GİB), robotik uygulamalarla pek çok işlem ve yazışmayı otomatik yapmaya başlarken bugüne kadar 200 binden fazla yazı, memur müdahalesine gerek kalmadan oluşturularak muhataplarına ulaştırıldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/maliye-robotik-islemlerle-mukellefe-otomatik-ulasmaya-basladi/4100091",
-   "zaman": "2026-10-25T12:01:31+03:00",
-   "kelimeler": [
-    "basla",
-    "islem",
-    "maliy",
-    "mukel",
-    "otoma",
-    "robot",
-    "ulasm"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1fafaacdb1be": {
-   "id": "1fafaacdb1be",
-   "kaynak": "AA",
-   "baslik": "Bakan Göktaş'tan \"2026 Yılı Aile ve Çocuk Dostu Yapım ve Dizi Teşvik Ödülleri\"ne ilişkin paylaşım",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanı Göktaş, 2026 Yılı Aile ve Çocuk Dostu Yapım ve Dizi Teşvik Ödülleri için başvuruların devam ettiğini, aileyi merkeze alan, çocukların gelişimine katkı sunan hikayeleri teşvik etmeyi sürdüreceklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/bakan-goktastan-2026-yili-aile-ve-cocuk-dostu-yapim-ve-dizi-tesvik-odullerine-iliskin-paylasim/4100098",
-   "zaman": "2026-10-25T12:09:46+03:00",
-   "kelimeler": [
-    "2026",
-    "aile",
-    "bakan",
-    "cocuk",
-    "dizi",
-    "dostu",
-    "gokta",
-    "ilisk",
-    "odull",
-    "payla",
-    "tan",
-    "tesvi",
-    "yapim",
-    "yili"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cdf7a95b9d17": {
-   "id": "cdf7a95b9d17",
-   "kaynak": "Sözcü",
-   "baslik": "Mustafa Sandal'ın kayınvalidesinin 3 milyon dolarına el konuldu",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/mustafa-sandal-in-kayinvalidesinin-3-milyon-dolarina-el-konuldu-p372552",
-   "zaman": "2026-10-25T12:11:57+03:00",
-   "kelimeler": [
-    "dolar",
-    "el",
-    "in",
-    "kayin",
-    "konul",
-    "milyo",
-    "musta",
-    "sanda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6b7f5a8ef279": {
-   "id": "6b7f5a8ef279",
-   "kaynak": "TRT Haber",
-   "baslik": "Mardin'de feci kaza: Aynı aileden 6 kişinin cenazesi defnedildi",
-   "ozet": "Mardin'in Nusaybin ilçesinde sulama kanalına devrilen otomobilde yaşamını yitiren 4'ü çocuk 6 kişinin cenazesi toprağa verildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/mardinde-feci-kaza-ayni-aileden-6-kisinin-cenazesi-defnedildi-961132.html",
-   "zaman": "2026-10-25T12:04:00+03:00",
-   "kelimeler": [
-    "ailed",
-    "ayni",
-    "cenaz",
-    "defne",
-    "feci",
-    "kaza",
-    "kisin",
-    "mardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "b4759d764532": {
-   "id": "b4759d764532",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul’da takip ettiği kadına tacizde bulundu: Mahalleli kaçışına izin vermedi",
-   "ozet": "Kağıthane'de yolda yürüyen kadını takip ederek taciz ettiği öne sürülen şüpheli, kadının çığlıkları üzerine toplanan mahalleli tarafından yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-takip-ettigi-kadina-tacizde-bulundu-mahalleli-kacisina-izin-vermedi-43354275",
-   "zaman": "2026-10-25T12:09:00+03:00",
-   "kelimeler": [
-    "bulun",
-    "ettig",
-    "istan",
-    "izin",
-    "kacis",
-    "kadin",
-    "mahal",
-    "taciz",
-    "takip",
-    "verme"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8788b32ec02a": {
    "id": "8788b32ec02a",
    "kaynak": "AA",
@@ -17595,7 +17488,8 @@
     "yukar"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "bc08b772d302": {
    "id": "bc08b772d302",
@@ -28088,7 +27982,10 @@
     "sigor"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cb212d0959a3": {
    "id": "cb212d0959a3",
@@ -28176,7 +28073,10 @@
     "ulusa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "749886d4e462": {
    "id": "749886d4e462",
@@ -28346,7 +28246,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "52d1a8ffba9f": {
    "id": "52d1a8ffba9f",
@@ -28824,9 +28727,244 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "8ded9b083d60": {
+   "id": "8ded9b083d60",
+   "kaynak": "AA",
+   "baslik": "Geleneksel Türk Okçuluk Takımı, Güney Kore'de başarı peşinde",
+   "ozet": "Geleneksel Türk Okçuluk Takımı, Güney Kore'de düzenlenecek 2026 Dünya Geleneksel Okçuluk Şampiyonası'nda başarı elde ederek Türk bayrağını dalgalandırmak istiyor.",
+   "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculuk-takimi-guney-korede-basari-pesinde/4103430",
+   "zaman": "2026-10-28T11:10:52+03:00",
+   "kelimeler": [
+    "basar",
+    "gelen",
+    "guney",
+    "kore",
+    "okcul",
+    "pesin",
+    "takim",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8cd76c4e8370"
+  },
+  "df1c49cb6522": {
+   "id": "df1c49cb6522",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul ve 4 ilde selin sigorta maliyeti 12 milyar liraya dayandı",
+   "ozet": "İstanbul ve çevre illerde 1415 Ekim'de yaşanan şiddetli yağış ve su baskınlarına ilişkin sigorta şirketlerine 27 Ekim itibarıyla 10 bin 130 hasar ihbarı yapılırken, toplam hasar tutarı 11 milyar 992,45 milyon liraya ulaştı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/istanbul-ve-4-ilde-selin-sigorta-maliyeti-12-milyar-liraya-dayandi-961462.html",
+   "zaman": "2026-10-28T11:54:00+03:00",
+   "kelimeler": [
+    "12",
+    "dayan",
+    "ilde",
+    "istan",
+    "liray",
+    "maliy",
+    "milya",
+    "selin",
+    "sigor"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "035e257d82c6"
+  },
+  "2a8e333a3421": {
+   "id": "2a8e333a3421",
+   "kaynak": "TRT Haber",
+   "baslik": "MSB: Mısır ile anlaşma imzalamaya hazırız",
+   "ozet": "Milli Savunma Bakanlığı, Libya Temsilciler Meclisi'nin deniz yetki alanları mutabakatını onaylamasını memnuniyetle karşılarken, Mısır ile de benzer bir anlaşma imzalamaya hazır olunduğunu bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/msb-misir-ile-anlasma-imzalamaya-haziriz-961464.html",
+   "zaman": "2026-10-28T11:57:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "hazir",
+    "imzal",
+    "misir",
+    "msb"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "7723ca8035a5": {
+   "id": "7723ca8035a5",
+   "kaynak": "AA",
+   "baslik": "Kazakistan Dışişleri Bakanı Muhtar Tileuberdi: Ülkelerimiz arasındaki ilişkiler istikrarlı biçimde gelişmektedir",
+   "ozet": "Kazakistan Dışişleri Bakanı Muhtar Tileuberdi, Türkiye ile kapsamlı işbirliğinin geliştirilmesine ve Türk Devletleri Teşkilatı (TDT) çerçevesindeki ilişkilerin güçlendirilmesine önem verdiklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/kazakistan-disisleri-bakani-muhtar-tileuberdi-ulkelerimiz-arasindaki-iliskiler-istikrarli-bicimde-gelismektedir/4103502",
+   "zaman": "2026-10-28T11:58:01+03:00",
+   "kelimeler": [
+    "arasi",
+    "bakan",
+    "bicim",
+    "disis",
+    "gelis",
+    "ilisk",
+    "istik",
+    "kazak",
+    "muhta",
+    "tileu",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "04ce4d19ff1a": {
+   "id": "04ce4d19ff1a",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB’den Libya anlaşması mesajı: Mısır ile de anlaşmaya hazırız",
+   "ozet": "Milli Savunma Bakanlığı'ndan yapılan açıklamada, Libya ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması anlaşmasına işaret edilerek, “Mısır’la da benzer bir anlaşmaya hazırız” mesajı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/msbden-libya-anlasmasi-mesaji-misir-ile-de-anlasmaya-haziriz-43357811",
+   "zaman": "2026-10-28T12:00:12+03:00",
+   "kelimeler": [
+    "anlas",
+    "den",
+    "hazir",
+    "libya",
+    "mesaj",
+    "misir",
+    "msb"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2a8e333a3421"
+  },
+  "b139de8170c4": {
+   "id": "b139de8170c4",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni Parti'nin olağan kurultayı için tarih açıklandı",
+   "ozet": "Yeni Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Zeynel Emre, Parti Meclisi'nde (PM) 1. Olağan Kurultay'ın 14-15 Kasım'da Ankara Arena Spor Salonu'nda yapılması kararının alındığını bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-partinin-olagan-kurultayi-icin-tarih-aciklandi-43357827",
+   "zaman": "2026-10-28T12:01:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "kurul",
+    "nin",
+    "olaga",
+    "parti",
+    "tarih",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ff44d457c57c"
+  },
+  "289523a0645c": {
+   "id": "289523a0645c",
+   "kaynak": "NTV",
+   "baslik": "Türk Devletleri Teşkilatı Zirvesi başlıyor",
+   "ozet": "Türk Devletleri Teşkilatı (TDT) Zirvesi yarın Beştepe'de başlıyor. İki gün sürecek zirvenin teması \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" olacak.",
+   "link": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-basliyor-1748342",
+   "zaman": "2026-10-28T12:01:57+03:00",
+   "kelimeler": [
+    "basli",
+    "devle",
+    "teski",
+    "turk",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ecc0a79f39a": {
+   "id": "3ecc0a79f39a",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin ulusal dijital kimlik cüzdanı için ilk adım atılıyor",
+   "ozet": "Siber Güvenlik Başkanlığının sorumluluğunda geliştirilecek ulusal dijital kimlik cüzdanı, temel kimlik ve diploma belgelerini bir araya getirecek. Kamu çalışanları öncelikli olarak hazırlanacak prototipin gelecek yıl pilot bir yükseköğretim kurumunda test edilmesi öngörülüyor.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ulusal-dijital-kimlik-cuzdani-icin-ilk-adim-atiliyor-961465.html",
+   "zaman": "2026-10-28T12:02:00+03:00",
+   "kelimeler": [
+    "adim",
+    "atili",
+    "cuzda",
+    "dijit",
+    "ilk",
+    "kimli",
+    "nin",
+    "turki",
+    "ulusa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a5d3c8942d8f"
+  },
+  "d1fa3a97e2ed": {
+   "id": "d1fa3a97e2ed",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin Ay'a ilk teması için hedef 2027",
+   "ozet": "Türkiye, uzay teknolojilerindeki kapasitesini geliştirme hedefleri doğrultusunda gelecek yıl Uzay Havası Uygulama Merkezini UHUM kurmak için gerekli ön çalışmaları başlatmayı, ilk uzay aracını da Ay'a göndermeyi planlıyor.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-aya-ilk-temasi-icin-hedef-2027-961466.html",
+   "zaman": "2026-10-28T12:05:00+03:00",
+   "kelimeler": [
+    "2027",
+    "ay",
+    "hedef",
+    "ilk",
+    "nin",
+    "temas",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b491f182d8e9": {
+   "id": "b491f182d8e9",
+   "kaynak": "XHABER",
+   "baslik": "Bir Çinli cam şirketi, Fransa'daki protestoları ücretsiz reklam fırsatına dönüştürdü.",
+   "ozet": "Şirket, sadece kırılmaz camların bir videosunu sosyal medyada paylaştı. 'Biz ürettiysek kırılmaz'",
+   "link": "https://t.me/sahinozkan000/30401",
+   "zaman": "2026-10-28T12:06:15+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Bir Çinli cam şirketi, Fransa'daki protestoları ücretsiz reklam fırsatına dönüştürdü.\nŞirket, sadece kırılmaz camların bir videosunu sosyal medyada paylaştı.\n'Biz ürettiysek kırılmaz'",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/H2VPz4pSktHP5wC17CdWuVihaU0qjqriByAxi-Y-DiFQmsfufahYWarTsOzdsztkOui6BDEizO9a3SF6tXsXtrxn_DICsDFS80JH1dmGDOXqT7ac7wbYCCKwTg4Vd8dzN7ttqrjObhdp1X5ZPBmDPzj_PvR9VsuSTY6iW2E_pvClJwTs0mU5IOAQO2Yt6Np_dGkAN_ocYG5IiMod2oPrjyRd3JWovpCwzqKKoWRB4GOtRpnKt61ksHD3IDnAHN3H8QTso5sNWyX6z_pDRAO0UtB43sw94VOxXcpk1iDlXua3PrNlaoOasJ6l0EALB9uL5bh6wDlMNNS7AeMVm8gp4g",
+   "tg_video_url": "https://cdn4.telesco.pe/file/185b14c1db.mp4?token=tMSQH6Vozjga7_G4KGvJivjKWFhTA2drPeyEqUHB9IO_CzVD0V175r6DtRErvoy07Kx2fORTWgQEFmDobWkBntrDX-neVvqZ2mXf_XN1WVM1Us3W8mCy07WHVJyFDlLMdNjv2-cA1Ns_UicoJlhGePixF8eUcB8hSI5phMIQ8btI7adWv4Ga1lUdwtEi6ehJ3yp17_fGcK4kJ5VuFHm0cOg6O6YClViTXctJNtxuAvkLtTOdpIUDPDuvU_QuRnmKM-p-7hm_ieXlqliVbL83jnyS2HA2DB2AFxG-xu7mUrKAunH4aiO8B6cJNsCzxTChM7EPBjCdPmrXNSUVrT2Vdg",
+   "kelimeler": [
+    "cam",
+    "cinli",
+    "daki",
+    "donus",
+    "firsa",
+    "frans",
+    "prote",
+    "rekla",
+    "sirke",
+    "ucret"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "10edbf8ca2cb": {
+   "id": "10edbf8ca2cb",
+   "kaynak": "Hürriyet",
+   "baslik": "Acılı babaya yoğun bakım kapısında ölüm tehdidi \"Size kim selam verirse vuracağız\"",
+   "ozet": "Adana'da başından vurulan 15 yaşındaki evladının başında bekleyen acılı aile, firari şüphelilerden gelen tehdit mesajlarıyla sarsıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/acili-babaya-yogun-bakim-kapisinda-olum-tehdidi-size-kim-selam-verirse-vuracagiz-43357783",
+   "zaman": "2026-10-28T12:09:00+03:00",
+   "kelimeler": [
+    "acili",
+    "babay",
+    "bakim",
+    "kapis",
+    "kim",
+    "olum",
+    "selam",
+    "size",
+    "tehdi",
+    "verir",
+    "vurac",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 12:16:00  6 yeni haber",
   "28.10 12:01:27  8 yeni haber",
   "28.10 11:49:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Avrupa borsaları negatif seyrediyor",
   "28.10 11:46:17  11 yeni haber",
@@ -29025,8 +29163,7 @@
   "26.10 06:31:22  2 yeni haber",
   "26.10 04:16:08  3 yeni haber",
   "26.10 03:31:24  1 yeni haber",
-  "26.10 03:16:07  1 yeni haber",
-  "26.10 03:01:33  1 yeni haber"
+  "26.10 03:16:07  1 yeni haber"
  ],
  "otomatik": false
 }
