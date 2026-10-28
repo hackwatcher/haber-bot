@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "a3e1e0f1a78d": {
-   "id": "a3e1e0f1a78d",
-   "kaynak": "AA",
-   "baslik": "İsrail basınına göre, ordu seçim öncesinde alarm seviyesini \"en üst düzeye\" çıkardı",
-   "ozet": "İsrail ordusunun, 27 Ekim'de yapılacak seçime 3 gün kala, İran veya Lübnan'dan füze fırlatılması dahil olası güvenlik gelişmelerine karşı alarm seviyesini en üst düzeye çıkardığı ve çeşitli bölgelere on binlerce asker konuşlandırdığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basinina-gore-ordu-secim-oncesinde-alarm-seviyesini-en-ust-duzeye-cikardi/4099920",
-   "zaman": "2026-10-25T02:48:40+03:00",
-   "kelimeler": [
-    "alarm",
-    "basin",
-    "cikar",
-    "duzey",
-    "gore",
-    "israi",
-    "onces",
-    "ordu",
-    "secim",
-    "seviy",
-    "ust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "82f37f0c2fd7": {
    "id": "82f37f0c2fd7",
    "kaynak": "TRT Haber",
@@ -27639,7 +27616,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber",
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "ccf65363b2dd": {
@@ -27720,9 +27698,49 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "795f7b25c404"
+  },
+  "607a67e61453": {
+   "id": "607a67e61453",
+   "kaynak": "AA",
+   "baslik": "Suriye ile Ürdün arasındaki Nasib Sınır Kapısı yeniden açılıyor",
+   "ozet": "Suriye, ülkenin güneyindeki Nasib Sınır Kapısı'nın sabah saatlerinde yeniden açılacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-ile-urdun-arasindaki-nasib-sinir-kapisi-yeniden-aciliyor/4103205",
+   "zaman": "2026-10-28T02:43:02+03:00",
+   "kelimeler": [
+    "acili",
+    "arasi",
+    "kapis",
+    "nasib",
+    "sinir",
+    "suriy",
+    "urdun",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "940dc66e9614": {
+   "id": "940dc66e9614",
+   "kaynak": "AA",
+   "baslik": "Beyoğlu'nda 4 katlı metruk bina çöktü",
+   "ozet": "Beyoğlu'nda 4 katlı binada çökme meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209",
+   "zaman": "2026-10-28T02:58:49+03:00",
+   "kelimeler": [
+    "beyog",
+    "bina",
+    "coktu",
+    "katli",
+    "metru",
+    "nda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "795f7b25c404"
   }
  },
  "kayit": [
+  "28.10 03:01:32  1 yeni haber",
   "28.10 02:31:11  1 yeni haber",
   "28.10 02:16:02  1 yeni haber",
   "28.10 02:01:28  2 yeni haber",
@@ -27921,8 +27939,7 @@
   "25.10 18:15:59  1 yeni haber",
   "25.10 17:59:19  6 yeni haber",
   "25.10 17:45:54  4 yeni haber",
-  "25.10 17:33:19  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı ol",
-  "25.10 17:31:08  3 yeni haber"
+  "25.10 17:33:19  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı ol"
  ],
  "otomatik": false
 }
