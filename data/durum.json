@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "82748f70a288": {
-   "id": "82748f70a288",
-   "kaynak": "AA",
-   "baslik": "İran medyası: Hanzala hacker grubu, İsrail hükümeti ve ordusuna ait gizli ses arşivini paylaştı",
-   "ozet": "İran bağlantılı \"Hanzala (Handala)\" adlı hacker grubunun, İsrail hükümeti ve ordusuna ait gizli kayıtların tutulduğu Etype sistemini hacklediği ve 150 gigabaytlık gizli veriyi kamuya açık şekilde paylaştığı belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-medyasi-hanzala-hacker-grubu-israil-hukumeti-ve-ordusuna-ait-gizli-ses-arsivini-paylasti/4100394",
-   "zaman": "2026-10-25T20:50:37+03:00",
-   "kelimeler": [
-    "ait",
-    "arsiv",
-    "gizli",
-    "grubu",
-    "hacke",
-    "hanza",
-    "hukum",
-    "iran",
-    "israi",
-    "medya",
-    "ordus",
-    "payla",
-    "ses"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "157f8b0014ab": {
-   "id": "157f8b0014ab",
-   "kaynak": "AA",
-   "baslik": "Katarlı arabulucuların İranlı yetkililerle görüşmek üzere Tahran'a gittiği iddia edildi",
-   "ozet": "Katarlı arabulucuların, ABD ile İran arasındaki arabuluculuk görüşmeleri kapsamında İran'ın başkenti Tahran'a gittiği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/katarli-arabulucularin-iranli-yetkililerle-gorusmek-uzere-tahrana-gittigi-iddia-edildi/4100395",
-   "zaman": "2026-10-25T20:54:38+03:00",
-   "kelimeler": [
-    "arabu",
-    "edild",
-    "gitti",
-    "gorus",
-    "iddia",
-    "iranl",
-    "katar",
-    "tahra",
-    "uzere",
-    "yetki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "02c8439b1482": {
-   "id": "02c8439b1482",
-   "kaynak": "NTV",
-   "baslik": "Zonguldak'taki maden ocağı patlamasında tutuklu sayısı 4 oldu",
-   "ozet": "Zonguldak'ın Kilimli ilçesinde 3 işçinin hayatını kaybettiği, 5 işçinin yaralandığı maden ocağındaki patlamaya ilişkin soruşturmada tutuklu sayısı 4'e yükseldi.",
-   "link": "https://www.ntv.com.tr/turkiye/zonguldaktaki-maden-ocagi-patlamasinda-tutuklu-sayisi-4-oldu-1747947",
-   "zaman": "2026-10-25T20:59:37+03:00",
-   "kelimeler": [
-    "maden",
-    "ocagi",
-    "patla",
-    "sayis",
-    "taki",
-    "tutuk",
-    "zongu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4cfd8ec50cc4"
-  },
-  "b6fbd8af480b": {
-   "id": "b6fbd8af480b",
-   "kaynak": "TRT Haber",
-   "baslik": "Riyad Havalimanı'nda iki terminalde uçuşlara yeniden başlandı",
-   "ozet": "Suudi Arabistanın başkenti Riyaddaki Kral Halid Uluslararası Havalimanı'nın iki terminalinde, Yemendeki Husilerin saldırıları nedeniyle yaklaşık iki haftadır durdurulan uçuşlara kısmen yeniden başlandı.",
-   "link": "https://www.trthaber.com/haber/dunya/riyad-havalimaninda-iki-terminalde-ucuslara-yeniden-baslandi-961168.html",
-   "zaman": "2026-10-25T20:53:00+03:00",
-   "kelimeler": [
-    "basla",
-    "haval",
-    "iki",
-    "nda",
-    "riyad",
-    "termi",
-    "ucusl",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "86fca8bacd93": {
    "id": "86fca8bacd93",
    "kaynak": "NTV",
@@ -24330,7 +24243,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "c26b703a8855": {
    "id": "c26b703a8855",
@@ -31052,9 +30968,169 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "66a8861733e7"
+  },
+  "cdf11536578c": {
+   "id": "cdf11536578c",
+   "kaynak": "AA",
+   "baslik": "İran Dışişleri Bakanı Erakçi, diplomasiye şans vermeye devam edeceklerini söyledi",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ülkesinin diplomatik girişimlerin başarıya ulaşması için arabulucularla temaslarını sürdüreceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-diplomasiye-sans-vermeye-devam-edeceklerini-soyledi/4104220",
+   "zaman": "2026-10-28T20:41:58+03:00",
+   "kelimeler": [
+    "bakan",
+    "devam",
+    "diplo",
+    "disis",
+    "edece",
+    "erakc",
+    "iran",
+    "sans",
+    "soyle",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1d1843bce95": {
+   "id": "f1d1843bce95",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi: Bir yılda Gürcistan'dan 548 kişi getirildi",
+   "ozet": "İÇİŞLERİ Bakanı Mustafa Çiftçi, Gürcistan İçişleri Bakanı Sulkhan Tamazashvili ile telefon görüşmesi gerçekleştirdiğini belirterek, \"1 Eylül'de Gürcistan'a gerçekleştirdiğimiz ziyaretin ardından iade ve sınır dışı süreçleri hız kazandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-bir-yilda-gurcistandan-548-kisi-getirildi-43358619",
+   "zaman": "2026-10-28T20:42:23+03:00",
+   "kelimeler": [
+    "548",
+    "bakan",
+    "ciftc",
+    "dan",
+    "getir",
+    "gurci",
+    "kisi",
+    "yilda"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ab316ea9973a": {
+   "id": "ab316ea9973a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Bayraktar, Kazakistan Enerji Bakanı Akkenzhenov ile görüştü",
+   "ozet": "ENERJİ ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Kazakistan Enerji Bakanı Yerlan Akkenzhenov ile bir araya geldi. Görüşmede, hidrokarbon alanındaki iş birliği imkanları, elektrik enterkonneksiyon projeleri ve nükleer enerji alanındaki stratejik adımlar ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-bayraktar-kazakistan-enerji-bakani-akkenzhenov-ile-gorustu-43358622",
+   "zaman": "2026-10-28T20:44:47+03:00",
+   "kelimeler": [
+    "akken",
+    "bakan",
+    "bayra",
+    "enerj",
+    "gorus",
+    "kazak"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7e1796f1723b": {
+   "id": "7e1796f1723b",
+   "kaynak": "AA",
+   "baslik": "Türkiye ve Kazakistan'ın savunma sanayisindeki işbirliği derinleşecek",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, \"Savunma sanayisi alanında işbirliği, Kazakistan ile ilişkilerimizin önemli başlıklarından biri.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-ve-kazakistanin-savunma-sanayisindeki-isbirligi-derinlesecek/4104224",
+   "zaman": "2026-10-28T20:47:46+03:00",
+   "kelimeler": [
+    "derin",
+    "in",
+    "isbir",
+    "kazak",
+    "sanay",
+    "savun",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "cbffb4df2cda": {
+   "id": "cbffb4df2cda",
+   "kaynak": "Hürriyet",
+   "baslik": "CHP lideri Kılıçdaroğlu’ndan Cumhuriyet Bayramı mesajı",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, \"29 Ekim Cumhuriyet Bayramı\" dolayısıyla kutlama mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/chp-lideri-kilicdaroglundan-cumhuriyet-bayrami-mesaji-43358625",
+   "zaman": "2026-10-28T20:50:46+03:00",
+   "kelimeler": [
+    "bayra",
+    "chp",
+    "cumhu",
+    "kilic",
+    "lider",
+    "mesaj",
+    "ndan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "936c52ddae56": {
+   "id": "936c52ddae56",
+   "kaynak": "NTV",
+   "baslik": "Sarıgül soruşturmasında 10 kişi hakkında daha gözaltı kararı",
+   "ozet": "Sarıgül soruşturması kapsamında 10 kişi hakkında daha gözaltı kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-10-kisi-hakkinda-daha-gozalti-karari-1748407",
+   "zaman": "2026-10-28T20:52:24+03:00",
+   "kelimeler": [
+    "10",
+    "gozal",
+    "hakki",
+    "karar",
+    "kisi",
+    "sarig",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8a21d61b9b94": {
+   "id": "8a21d61b9b94",
+   "kaynak": "AA",
+   "baslik": "Seçimlerde oy sayımının sürdüğü İsrail'de Savunma Bakanı Katz'dan İran'a saldırı mesajı",
+   "ozet": "Yeni parlamento ve hükümeti belirlemek için dün sandık başına giden İsrail'de oy sayımı sürerken Savunma Bakanı Yisrael Katz, İran'a saldırı mesajı verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/secimlerde-oy-sayiminin-surdugu-israilde-savunma-bakani-katzdan-irana-saldiri-mesaji/4104228",
+   "zaman": "2026-10-28T20:52:25+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "iran",
+    "israi",
+    "katz",
+    "mesaj",
+    "oy",
+    "saldi",
+    "savun",
+    "sayim",
+    "secim",
+    "surdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "570179edb2fc": {
+   "id": "570179edb2fc",
+   "kaynak": "Sözcü",
+   "baslik": "Sarıgül soruşturmasında 10 gözaltı kararı daha",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mustafa-sarigul-yeni-gozalti-kararlari-p373713",
+   "zaman": "2026-10-28T20:56:34+03:00",
+   "kelimeler": [
+    "10",
+    "gozal",
+    "karar",
+    "sarig",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4da38e528519"
   }
  },
  "kayit": [
+  "28.10 21:01:33  7 yeni haber",
   "28.10 20:46:10  3 yeni haber",
   "28.10 20:31:16  5 yeni haber",
   "28.10 20:16:19  3 yeni haber",
@@ -31253,8 +31329,7 @@
   "26.10 16:31:14  9 yeni haber",
   "26.10 16:01:24  8 yeni haber",
   "26.10 15:31:23  2 yeni haber",
-  "26.10 15:15:58  14 yeni haber",
-  "26.10 14:49:39  5 yeni haber"
+  "26.10 15:15:58  14 yeni haber"
  ],
  "otomatik": false
 }
