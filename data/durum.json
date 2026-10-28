@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "86fca8bacd93": {
-   "id": "86fca8bacd93",
-   "kaynak": "NTV",
-   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1747950",
-   "zaman": "2026-10-25T21:09:28+03:00",
-   "kelimeler": [
-    "26",
-    "agust",
-    "bilet",
-    "ekran",
-    "hizli",
-    "mpi",
-    "sans",
-    "sonuc",
-    "sorgu",
-    "tikla",
-    "topu"
-   ],
-   "durum": "engelli",
-   "oncelikli": true
-  },
-  "03f794bcefdd": {
-   "id": "03f794bcefdd",
-   "kaynak": "AA",
-   "baslik": "Netanyahu, 27 Ekim'de yapılacak genel seçimde İran'ın İsrail'e saldırı düzenleyebileceğini iddia etti",
-   "ozet": "İsrail Başbakanı Binyamin Netanyahu, İran ve bölgedeki vekil güçlerinin 27 Ekim'de yapılacak genel seçimlerde saldırı düzenleyebileceğine ilişkin ellerinde istihbarat olduğu iddiasında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-27-ekimde-yapilacak-genel-secimde-iranin-israile-saldiri-duzenleyebilecegini-iddia-etti/4100398",
-   "zaman": "2026-10-25T21:11:01+03:00",
-   "kelimeler": [
-    "27",
-    "duzen",
-    "ekim",
-    "etti",
-    "genel",
-    "iddia",
-    "in",
-    "iran",
-    "israi",
-    "netan",
-    "saldi",
-    "secim",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "c4fefc11ca71": {
    "id": "c4fefc11ca71",
    "kaynak": "Hürriyet",
@@ -30677,7 +30628,10 @@
     "yalan"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f3d54b0ca506": {
    "id": "f3d54b0ca506",
@@ -31127,9 +31081,164 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4da38e528519"
+  },
+  "8f32c4d87aa9": {
+   "id": "8f32c4d87aa9",
+   "kaynak": "AA",
+   "baslik": "SPK, yabancı finans kuruluşlarına ilişkin iddiaların gerçeği yansıtmadığını bildirdi",
+   "ozet": "SPK, yabancı finans kuruluşlarının yüksek kazanç elde ettikten sonra pozisyonlarını kapatıp belirli sermaye piyasası araçlarındaki varlıklarını elden çıkardığı yönündeki iddiaların gerçeği yansıtmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-yabanci-finans-kuruluslarina-iliskin-iddialarin-gercegi-yansitmadigini-bildirdi/4104169",
+   "zaman": "2026-10-28T20:09:32+03:00",
+   "kelimeler": [
+    "bildi",
+    "finan",
+    "gerce",
+    "iddia",
+    "ilisk",
+    "kurul",
+    "spk",
+    "yaban",
+    "yansi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "59fed7545dfe"
+  },
+  "6339723b61a7": {
+   "id": "6339723b61a7",
+   "kaynak": "TRT Haber",
+   "baslik": "FED faizi sabit tuttu",
+   "ozet": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,754 aralığında sabit tuttu.",
+   "link": "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html",
+   "zaman": "2026-10-28T21:02:00+03:00",
+   "kelimeler": [
+    "faizi",
+    "fed",
+    "sabit",
+    "tuttu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "6ad375e1fdeb": {
+   "id": "6ad375e1fdeb",
+   "kaynak": "AA",
+   "baslik": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,75-4 aralığında sabit tuttu",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-merkez-bankasi-politika-faizini-beklentiler-dahilinde-yuzde-3-75-4-araliginda-sabit-tuttu/4104235",
+   "zaman": "2026-10-28T21:02:13+03:00",
+   "kelimeler": [
+    "75",
+    "abd",
+    "arali",
+    "banka",
+    "bekle",
+    "dahil",
+    "faizi",
+    "merke",
+    "polit",
+    "sabit",
+    "tuttu",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6339723b61a7"
+  },
+  "7522dd40d658": {
+   "id": "7522dd40d658",
+   "kaynak": "AA",
+   "baslik": "İspanya Kral Kupası'nda 24 maç, tren kazası nedeniyle ertelendi",
+   "ozet": "İspanya Kral Kupası'nda bugün oynanması planlanan 24 karşılaşma, Toledo kenti yakınlarında meydana gelen tren kazası nedeniyle ertelendi.",
+   "link": "https://www.aa.com.tr/tr/spor/ispanya-kral-kupasinda-24-mac-tren-kazasi-nedeniyle-ertelendi/4104240",
+   "zaman": "2026-10-28T21:06:22+03:00",
+   "kelimeler": [
+    "24",
+    "ertel",
+    "ispan",
+    "kazas",
+    "kral",
+    "kupas",
+    "mac",
+    "nda",
+    "neden",
+    "tren"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "754806eefd93": {
+   "id": "754806eefd93",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Fidan ve Bakan Bolat’tan sürücülerin Schengen sorunu için diplomatik girişim",
+   "ozet": "Dışişleri Bakanı Hakan Fidan ve Ticaret Bakanı Ömer Bolat, Türk sürücülerinin Schengen vizesi ve sınır geçişlerinde yaşadığı sorunların çözümü için diplomatik temaslarını sürdürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-fidan-ve-bakan-bolattan-suruculerin-schengen-sorunu-icin-diplomatik-girisim-43358638",
+   "zaman": "2026-10-28T21:10:05+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolat",
+    "diplo",
+    "fidan",
+    "giris",
+    "schen",
+    "sorun",
+    "suruc",
+    "tan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ea1749fe5bbf": {
+   "id": "ea1749fe5bbf",
+   "kaynak": "AA",
+   "baslik": "Kanada'da Filistinli öğrencilerin öğrenim izni başvurularının reddedilmesine tepki",
+   "ozet": "Kanada'da sivil toplum kuruluşları, siyasiler ve akademisyenler, ülkedeki üniversitelerden kabul almış Filistinli öğrencilerin öğrenim izni başvurularının reddedilmesine tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kanadada-filistinli-ogrencilerin-ogrenim-izni-basvurularinin-reddedilmesine-tepki/4104247",
+   "zaman": "2026-10-28T21:11:00+03:00",
+   "kelimeler": [
+    "basvu",
+    "filis",
+    "izni",
+    "kanad",
+    "ogren",
+    "redde",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c5021d9242b5": {
+   "id": "c5021d9242b5",
+   "kaynak": "XHABER",
+   "baslik": "ABD Merkez Bankası (FED), faiz oranlarını %3,75-4 seviyesinde sabit bıraktı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30404",
+   "zaman": "2026-10-28T21:13:58+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "ABD Merkez Bankası (FED), faiz oranlarını %3,75-4 seviyesinde sabit bıraktı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/KaEduRGTGVXE3RbMeAh5r1l77PdB6YaJoPVmDPhgFmqsrev5fr9YhjvCDhu9Hh1Ro1VX8YlwxXirtWxcCTfClrPQ1jkuLRZjp5gKGD3CaD47cjBVD7u0cKNjrYXg_1B1yfU6nwfsBdxSzgrSs-T0O8xNmzmwckkl8D1sNGxR8RyFjGT-I_9X7IPmMzyypLr_KX05aHVpksmDJ0JYD2Q31dAKSHC5X9SWb08fU_1x_zXr6QceaHyJHSE5_alj40r51acOiBLszb8ZvSmPx0TFjc_KPNXJi6RLMnUNspUHI2ibITyxKEqvwuzhCJEKHwMOXdSMwizVElzEJK4txhtiiw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "75",
+    "abd",
+    "banka",
+    "birak",
+    "faiz",
+    "fed",
+    "merke",
+    "oranl",
+    "sabit",
+    "seviy"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "28.10 21:16:15  5 yeni haber",
   "28.10 21:01:33  7 yeni haber",
   "28.10 20:46:10  3 yeni haber",
   "28.10 20:31:16  5 yeni haber",
@@ -31328,8 +31437,7 @@
   "26.10 16:33:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sonrası olay | \"Dövüş antrenörüyüm\" dedi, sürücüye yumruk attı",
   "26.10 16:31:14  9 yeni haber",
   "26.10 16:01:24  8 yeni haber",
-  "26.10 15:31:23  2 yeni haber",
-  "26.10 15:15:58  14 yeni haber"
+  "26.10 15:31:23  2 yeni haber"
  ],
  "otomatik": false
 }
