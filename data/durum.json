@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "60b2bd5d3508": {
-   "id": "60b2bd5d3508",
-   "kaynak": "NTV",
-   "baslik": "İstanbul Havalimanı'nda uyuşturucu operasyonu. 25 kilogram esrar ele geçirildi",
-   "ozet": "İstanbul Havalimanı’nda, Kamboçya’dan aktarmalı olarak gelen İspanya pasaportlu yolcunun bagajında 25 kilo 520 gram esrar ele geçirildi. Uyuşturucuyu teslim alacak kişi ise Bayrampaşa’da yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbul-havalimaninda-uyusturucu-operasyonu-25-kilogram-esrar-ele-gecirildi-1747953",
-   "zaman": "2026-10-25T21:36:38+03:00",
-   "kelimeler": [
-    "25",
-    "ele",
-    "esrar",
-    "gecir",
-    "haval",
-    "istan",
-    "kilog",
-    "nda",
-    "opera",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4c0dadcd2c94": {
-   "id": "4c0dadcd2c94",
-   "kaynak": "NTV",
-   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1747955",
-   "zaman": "2026-10-25T21:45:45+03:00",
-   "kelimeler": [
-    "2026",
-    "25",
-    "agust",
-    "belli",
-    "cekil",
-    "ekran",
-    "kazan",
-    "loto",
-    "mpi",
-    "numar",
-    "sonuc",
-    "sorgu",
-    "super"
-   ],
-   "durum": "engelli",
-   "oncelikli": true
-  },
-  "58559a6d59f4": {
-   "id": "58559a6d59f4",
-   "kaynak": "Hürriyet",
-   "baslik": "İçişleri Bakanlığı'ndan kuvvetli 'sağanak' uyarısı",
-   "ozet": "İÇİŞLERİ Bakanlığı, yarın birçok ilde etkili olması beklenen sağanak nedeniyle sel ve su baskınına karşı uyarıda bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligindan-kuvvetli-saganak-uyarisi-43354766",
-   "zaman": "2026-10-25T21:43:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "icisl",
-    "kuvve",
-    "ndan",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ffe29d0cb4e5": {
    "id": "ffe29d0cb4e5",
    "kaynak": "NTV",
@@ -30702,7 +30637,10 @@
     "yolla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "99621e514c74": {
    "id": "99621e514c74",
@@ -31287,9 +31225,54 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "6339723b61a7"
+  },
+  "492aaa2d56bd": {
+   "id": "492aaa2d56bd",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul ve Ankara'da bazı yollar trafiğe kapatılacak",
+   "ozet": "İstanbul ve Ankara'da, 29 Ekim Cumhuriyet Bayramı programları kapsamında yarın bazı yollar trafiğe kapatılacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-ve-ankarada-bazi-yollar-trafige-kapatilacak-961533.html",
+   "zaman": "2026-10-28T20:34:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "bazi",
+    "istan",
+    "kapat",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4853be239d73"
+  },
+  "a97491e1ee74": {
+   "id": "a97491e1ee74",
+   "kaynak": "AA",
+   "baslik": "İtalya merkezli Clusit: 2026'nın ilk yarısında rekor sayıda \"ciddi siber olay\" kaydedildi",
+   "ozet": "İtalya merkezli Bilgi Güvenliği Kuruluşu Clusit, 2026'nın ilk yarısında yaşanan 4 bin 911 \"ciddi siber olay\" ile küresel anlamda rekor bir sayının kaydedildiğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/italya-merkezli-clusit-2026nin-ilk-yarisinda-rekor-sayida-ciddi-siber-olay-kaydedildi/4104276",
+   "zaman": "2026-10-28T21:37:02+03:00",
+   "kelimeler": [
+    "2026",
+    "ciddi",
+    "clusi",
+    "ilk",
+    "italy",
+    "kayde",
+    "merke",
+    "nin",
+    "olay",
+    "rekor",
+    "sayid",
+    "siber",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 21:46:02  1 yeni haber",
   "28.10 21:30:53  4 yeni haber",
   "28.10 21:30:53  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "28.10 21:16:15  5 yeni haber",
@@ -31488,8 +31471,7 @@
   "26.10 17:46:12  5 yeni haber",
   "26.10 17:31:19  3 yeni haber",
   "26.10 17:15:57  16 yeni haber",
-  "26.10 16:33:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sonrası olay | \"Dövüş antrenörüyüm\" dedi, sürücüye yumruk attı",
-  "26.10 16:31:14  9 yeni haber"
+  "26.10 16:33:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sonrası olay | \"Dövüş antrenörüyüm\" dedi, sürücüye yumruk attı"
  ],
  "otomatik": false
 }
