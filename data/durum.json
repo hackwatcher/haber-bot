@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "c4fefc11ca71": {
-   "id": "c4fefc11ca71",
-   "kaynak": "Hürriyet",
-   "baslik": "Antalya'da feci kaza: Üniversiteli Yağnur hayatını kaybetti",
-   "ozet": "Antalya’nın Alanya ilçesinde minibüs ile motosikletin çarpıştığı kazada ağır yaralanan üniversite öğrencisi Yağnur Damla Karaaslan (20) hastanede hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/antalyada-feci-kaza-universiteli-yagnur-hayatini-kaybetti-43354758",
-   "zaman": "2026-10-25T21:26:50+03:00",
-   "kelimeler": [
-    "antal",
-    "feci",
-    "hayat",
-    "kaybe",
-    "kaza",
-    "unive",
-    "yagnu"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "3d5cd6f5d910": {
-   "id": "3d5cd6f5d910",
-   "kaynak": "AA",
-   "baslik": "Bulgaristan'da sandık çıkış anketlerine göre mevcut cumhurbaşkanı seçimi önde götürüyor",
-   "ozet": "Bulgaristan'da yapılan cumhurbaşkanı seçiminde, sandık çıkış anketlerine göre mevcut Cumhurbaşkanı İliyana Yotova ilk sırada yer alırken, seçimin ikinci tura kalması bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-sandik-cikis-anketlerine-gore-mevcut-cumhurbaskani-secimi-onde-goturuyor/4100407",
-   "zaman": "2026-10-25T21:29:45+03:00",
-   "kelimeler": [
-    "anket",
-    "bulga",
-    "cikis",
-    "cumhu",
-    "gore",
-    "gotur",
-    "mevcu",
-    "onde",
-    "sandi",
-    "secim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "60b2bd5d3508": {
    "id": "60b2bd5d3508",
    "kaynak": "NTV",
@@ -125,24 +84,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f4ba0302c097"
-  },
-  "f66a4f868d21": {
-   "id": "f66a4f868d21",
-   "kaynak": "TRT Haber",
-   "baslik": "Milli deniz sistemleri TURNAs2026'da nefes kesti",
-   "ozet": "Deniz Kuvvetleri Komutanlığının sevk ve idaresinde düzenlenen Milli İnsansız Deniz Sistemleri Tatbikatı2026 TURNAs2026 Seçkin Gözlemci Günü'nde, milli ve NATO uyumlu insansız sistemlerin deniz harekat ortamındaki etkinlikleri sergilendi.",
-   "link": "https://www.trthaber.com/haber/savunma/milli-deniz-sistemleri-turnas-2026da-nefes-kesti-961169.html",
-   "zaman": "2026-10-25T21:22:00+03:00",
-   "kelimeler": [
-    "deniz",
-    "kesti",
-    "milli",
-    "nefes",
-    "siste",
-    "turna"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "4fd764686821": {
    "id": "4fd764686821",
@@ -1012,27 +953,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "153993cf7f7b"
-  },
-  "9e9ffcbe6647": {
-   "id": "9e9ffcbe6647",
-   "kaynak": "AA",
-   "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimi ikinci tura kaldı",
-   "ozet": "Bulgaristan'da düzenlenen cumhurbaşkanlığı seçimi, katılımın yüzde 50'nin altında kalması ve hiçbir aday çiftinin yüzde 50'nin üzerinde oy alamaması nedeniyle ikinci tura kaldı.​​​​​​​",
-   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-cumhurbaskanligi-secimi-ikinci-tura-kaldi/4100407",
-   "zaman": "2026-10-25T21:29:45+03:00",
-   "kelimeler": [
-    "bulga",
-    "cumhu",
-    "ikinc",
-    "kaldi",
-    "secim",
-    "tura"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
   },
   "02eb4421ae39": {
    "id": "02eb4421ae39",
@@ -22276,7 +22196,10 @@
    "fb_id": null,
    "fb_reels_id": "1618815363056212",
    "slayt": 5,
-   "kanca": "3 ŞÜPHELİ TUTUKLANDI"
+   "kanca": "3 ŞÜPHELİ TUTUKLANDI",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "874196116535": {
    "id": "874196116535",
@@ -31235,9 +31158,122 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "5e60ab6d44a7": {
+   "id": "5e60ab6d44a7",
+   "kaynak": "AA",
+   "baslik": "Hollanda hükümetine ABD ve İsrail'in ihlallerini kınamada seçici davrandığı eleştirisi",
+   "ozet": "Hollanda'da Uluslararası Hukuk Danışma Komitesi (CAVV), hükümeti ABD ve İsrail'in ihlallerini kınamada yeterince açık davranmadığı gerekçesiyle eleştirerek uluslararası hukuka yaklaşımının değiştiği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/hollanda-hukumetine-abd-ve-israilin-ihlallerini-kinamada-secici-davrandigi-elestirisi/4104246",
+   "zaman": "2026-10-28T21:10:35+03:00",
+   "kelimeler": [
+    "abd",
+    "davra",
+    "elest",
+    "holla",
+    "hukum",
+    "ihlal",
+    "in",
+    "israi",
+    "kinam",
+    "secic"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca6557f04eab": {
+   "id": "ca6557f04eab",
+   "kaynak": "Hürriyet",
+   "baslik": "Öğrencinin mesajı bir ilçeyi alarma geçirdi! 'Pazartesi okula gelmeyin, kötü şeyler olacak'",
+   "ozet": "Tekirdağ'ın Muratlı ilçesinde Anadolu Lisesi 9. Sınıf öğrencilerinden biri, arkadaşlarına 'Pazartesi okula gelmeyin, kötü şeyler olacak' deyince emniyet ve okul yönetimini harekete geçirdi. Öğrencinin ifadesine başvurulurken, evinde arama yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ogrencinin-mesaji-bir-ilceyi-alarma-gecirdi-pazartesi-okula-gelmeyin-kotu-seyler-olacak-43358636",
+   "zaman": "2026-10-28T21:11:52+03:00",
+   "kelimeler": [
+    "alarm",
+    "gecir",
+    "gelme",
+    "ilcey",
+    "kotu",
+    "mesaj",
+    "ogren",
+    "okula",
+    "olaca",
+    "pazar",
+    "seyle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4e74e893c367": {
+   "id": "4e74e893c367",
+   "kaynak": "AA",
+   "baslik": "Dünya Gıda Programı, Gazze'deki açlığı \"kabul edilemez\" olarak nitelendirdi",
+   "ozet": "Birleşmiş Milletler (BM) Dünya Gıda Programı (WFP) İcra Direktörü Luke J. Lindberg, İsrail'in kısıtlamaları nedeniyle devam eden açlığın \"kabul edilemez\" olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/dunya-gida-programi-gazzedeki-acligi-kabul-edilemez-olarak-nitelendirdi/4104257",
+   "zaman": "2026-10-28T21:20:04+03:00",
+   "kelimeler": [
+    "aclig",
+    "deki",
+    "dunya",
+    "edile",
+    "gazze",
+    "gida",
+    "kabul",
+    "nitel",
+    "progr"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "11d2411ea106": {
+   "id": "11d2411ea106",
+   "kaynak": "AA",
+   "baslik": "İstanbul'daki kara para aklama soruşturmasında 10 şüpheli hakkında gözaltı kararı",
+   "ozet": "İstanbul'da, yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında 10 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-10-supheli-hakkinda-gozalti-karari-/4104258",
+   "zaman": "2026-10-28T21:20:31+03:00",
+   "kelimeler": [
+    "10",
+    "aklam",
+    "daki",
+    "gozal",
+    "hakki",
+    "istan",
+    "kara",
+    "karar",
+    "para",
+    "sorus",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c9c2d214e74"
+  },
+  "489fe2c10408": {
+   "id": "489fe2c10408",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'daki kara para aklama soruşturması: 10 gözaltı kararı",
+   "ozet": "İstanbul'da, yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında 10 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasi-10-gozalti-karari-961535.html",
+   "zaman": "2026-10-28T21:21:00+03:00",
+   "kelimeler": [
+    "10",
+    "aklam",
+    "daki",
+    "gozal",
+    "istan",
+    "kara",
+    "karar",
+    "para",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 21:30:53  4 yeni haber",
+  "28.10 21:30:53  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "28.10 21:16:15  5 yeni haber",
   "28.10 21:01:33  7 yeni haber",
   "28.10 20:46:10  3 yeni haber",
@@ -31435,9 +31471,7 @@
   "26.10 17:31:19  3 yeni haber",
   "26.10 17:15:57  16 yeni haber",
   "26.10 16:33:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sonrası olay | \"Dövüş antrenörüyüm\" dedi, sürücüye yumruk attı",
-  "26.10 16:31:14  9 yeni haber",
-  "26.10 16:01:24  8 yeni haber",
-  "26.10 15:31:23  2 yeni haber"
+  "26.10 16:31:14  9 yeni haber"
  ],
  "otomatik": false
 }
