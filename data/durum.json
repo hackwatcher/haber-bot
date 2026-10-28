@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "268a92cf10d8": {
-   "id": "268a92cf10d8",
-   "kaynak": "Hürriyet",
-   "baslik": "Direksiyon başında sızıp kaldılar: 1,84 promille yakalandı, polise 'sıkıntı çıkarırım' dedi",
-   "ozet": "Kayseri’de kırmızı ışıkta bekleyen araçtan uzun süre hareket gelmeyince çağrılan polis ekipleri, araçtaki iki kişiyi uyandırmakta güçlük çekti.",
-   "link": "https://www.hurriyet.com.tr/gundem/direksiyon-basinda-sizip-kaldilar-1-84-promille-yakalandi-polise-sikinti-cikaririm-dedi-43354066",
-   "zaman": "2026-10-25T08:07:19+03:00",
-   "kelimeler": [
-    "84",
-    "basin",
-    "cikar",
-    "direk",
-    "kaldi",
-    "polis",
-    "promi",
-    "sikin",
-    "sizip",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9fb28a4966ff": {
    "id": "9fb28a4966ff",
    "kaynak": "Sözcü",
@@ -27822,8 +27800,17 @@
     "suphe",
     "tutuk"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-28T08:19:25.579016+03:00",
+   "ig_id": "18104479199326808",
+   "reels_id": "18042592547832698",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1618815363056212",
+   "slayt": 5,
+   "kanca": "3 ŞÜPHELİ TUTUKLANDI"
   },
   "874196116535": {
    "id": "874196116535",
@@ -28176,9 +28163,53 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1839eeebe2f8": {
+   "id": "1839eeebe2f8",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail genel seçimlerinde oyların yüzde 28'i sayılırken, Netanyahu bloğu dışındaki partiler öne geçti",
+   "ozet": "İsrail'deki genel seçimlerde oyların yüzde 28'den fazlasının sayılmasının ardından açıklanan sonuçlara göre, İsrail vatandaşı Filistinlileri temsil eden Arap partileri dahil muhalefetteki partiler oyların yüzde 51,3'ünü alırken, Başbakan Binyamin Netanyahu'nun bloğu yüzde…",
+   "link": "https://www.trthaber.com/haber/dunya/israil-genel-secimlerinde-oylarin-yuzde-28i-sayilirken-netanyahu-blogu-disindaki-partiler-one-gecti-961431.html",
+   "zaman": "2026-10-28T08:07:00+03:00",
+   "kelimeler": [
+    "28",
+    "blogu",
+    "disin",
+    "gecti",
+    "genel",
+    "israi",
+    "netan",
+    "one",
+    "oylar",
+    "parti",
+    "sayil",
+    "secim",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aaf8eae7e7fe": {
+   "id": "aaf8eae7e7fe",
+   "kaynak": "TRT Haber",
+   "baslik": "KabatepeGökçeada feribot seferlerine fırtına engeli",
+   "ozet": "Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle KabatepeGökçeada hattında bugün yapılması planlanan 2 feribot seferi iptal edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/kabatepe-gokceada-feribot-seferlerine-firtina-engeli-961432.html",
+   "zaman": "2026-10-28T08:11:00+03:00",
+   "kelimeler": [
+    "engel",
+    "ferib",
+    "firti",
+    "kabat",
+    "sefer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 08:19:25  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · ‘Kara para’ iddiasında 3 şüpheli tutuklandı",
+  "28.10 08:17:24  2 yeni haber",
   "28.10 08:01:47  2 yeni haber",
   "28.10 07:45:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "28.10 07:31:29  4 yeni haber",
@@ -28376,9 +28407,7 @@
   "25.10 23:16:18  1 yeni haber",
   "25.10 22:16:16  2 yeni haber",
   "25.10 22:01:19  1 yeni haber",
-  "25.10 21:45:57  3 yeni haber",
-  "25.10 21:31:47  2 yeni haber",
-  "25.10 21:16:07  1 yeni haber"
+  "25.10 21:45:57  3 yeni haber"
  ],
  "otomatik": false
 }
