@@ -25139,7 +25139,8 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "7b2f8bafde7e": {
    "id": "7b2f8bafde7e",
@@ -31443,9 +31444,92 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "362c98ad6cac"
+  },
+  "0cae9e210799": {
+   "id": "0cae9e210799",
+   "kaynak": "AA",
+   "baslik": "ABD'de eski yetkililerden başkan adaylarına \"Gazze'deki soykırımdan sorumlu yetkilileri işe almama\" çağrısı",
+   "ozet": "ABD'de Gazze'ye yönelik politikalar nedeniyle istifa eden eski yetkililer, 2028'de yapılacak başkanlık seçimlerinde aday olacak kişilere \"İsrail'in Gazze'deki soykırımından sorumlu yetkilileri işe almama sözü vermeleri\" çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-eski-yetkililerden-baskan-adaylarina-gazzedeki-soykirimdan-sorumlu-yetkilileri-ise-almama-cagrisi/4104294",
+   "zaman": "2026-10-28T21:58:59+03:00",
+   "kelimeler": [
+    "abd",
+    "adayl",
+    "almam",
+    "baska",
+    "cagri",
+    "deki",
+    "eski",
+    "gazze",
+    "ise",
+    "sorum",
+    "soyki",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7a0d0469a884": {
+   "id": "7a0d0469a884",
+   "kaynak": "AA",
+   "baslik": "AK Parti'den Cumhuriyet'in 103. yılına özel video",
+   "ozet": "AK Parti, Cumhuriyet'in 103. yılı dolayısıyla Milli Teknoloji Hamlesi kapsamında hayata geçirilen çalışmalar ile Türkiye'nin kazanımlarının yer aldığı özel bir video hazırladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-partiden-cumhuriyetin-103-yilina-ozel-video/4104309",
+   "zaman": "2026-10-28T22:01:33+03:00",
+   "kelimeler": [
+    "103",
+    "ak",
+    "cumhu",
+    "den",
+    "in",
+    "ozel",
+    "parti",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3cdc12e14f0b"
+  },
+  "a3a44baf7395": {
+   "id": "a3a44baf7395",
+   "kaynak": "NTV",
+   "baslik": "İstanbul kapalı yollar listesi",
+   "ozet": "İstanbul'da kapalı yolların tam listesi. Kadıköy, Üsküdar ve Ataşehir'de hangi yol ne zaman kapalı?Kadıköy, Üsküdar ve Ataşehir'de yollar ne zaman açılacak. Kadıköy, Üsküdar, Fatih ve Ataşehir'de alternatif yolların tam listesi.",
+   "link": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-kapali-yollarin-tam-listesi-kadikoy-uskudar-ve-atasehirde-hangi-yol-ne-zaman-kapali-1748410",
+   "zaman": "2026-10-28T22:13:59+03:00",
+   "kelimeler": [
+    "istan",
+    "kapal",
+    "liste",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "361b237325f7": {
+   "id": "361b237325f7",
+   "kaynak": "NTV",
+   "baslik": "Marmara'daki gemi faciası: 56 gün sonra bir erkek cesedine ulaşıldı",
+   "ozet": "Marmara Denizi'nde 2 Eylül'de iki geminin çarpışması sonucu batan Tuğberk İmamoğlu adlı gemiye ilişkin arama kurtarma çalışmalarında, kazadan 56 gün sonra bir erkek cesedi bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/marmaradaki-gemi-faciasi-56-gun-sonra-bir-erkek-cesedine-ulasildi-1748412",
+   "zaman": "2026-10-28T22:14:28+03:00",
+   "kelimeler": [
+    "56",
+    "cesed",
+    "daki",
+    "erkek",
+    "facia",
+    "gemi",
+    "gun",
+    "marma",
+    "ulasi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "28.10 22:16:01  3 yeni haber",
   "28.10 22:02:36  4 yeni haber",
   "28.10 21:46:02  1 yeni haber",
   "28.10 21:30:53  4 yeni haber",
@@ -31644,8 +31728,7 @@
   "26.10 19:01:44  7 yeni haber",
   "26.10 18:31:16  4 yeni haber",
   "26.10 17:46:12  5 yeni haber",
-  "26.10 17:31:19  3 yeni haber",
-  "26.10 17:15:57  16 yeni haber"
+  "26.10 17:31:19  3 yeni haber"
  ],
  "otomatik": false
 }
