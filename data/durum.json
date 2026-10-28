@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "257b73dd9fa3": {
-   "id": "257b73dd9fa3",
-   "kaynak": "TRT Haber",
-   "baslik": "Şehit Albay Sayit Gökgöz son yolculuğuna uğurlandı",
-   "ozet": "Ankara'da meydana gelen askeri araç kazasında şehit olan Albay Sayit Gökgöz için cenaze töreni düzenlendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/sehit-albay-sayit-gokgoz-son-yolculuguna-ugurlandi-961147.html",
-   "zaman": "2026-10-25T15:02:00+03:00",
-   "kelimeler": [
-    "albay",
-    "gokgo",
-    "sayit",
-    "sehit",
-    "ugurl",
-    "yolcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "0bea4c782911"
-  },
-  "dfe6cc82a181": {
-   "id": "dfe6cc82a181",
-   "kaynak": "AA",
-   "baslik": "Brezilya'da halk, devlet başkanı seçiminin ikinci turu için sandık başına gitti",
-   "ozet": "Brezilya'da devlet başkanı seçiminde hiçbir adayın yüzde 50'yi aşamaması nedeniyle düzenlenen ikinci turda oy verme işlemi başladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/brezilyada-halk-devlet-baskani-seciminin-ikinci-turu-icin-sandik-basina-gitti/4100217",
-   "zaman": "2026-10-25T15:02:18+03:00",
-   "kelimeler": [
-    "basin",
-    "baska",
-    "brezi",
-    "devle",
-    "gitti",
-    "halk",
-    "ikinc",
-    "sandi",
-    "secim",
-    "turu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a4e9bbcdf47f": {
    "id": "a4e9bbcdf47f",
    "kaynak": "TRT Haber",
@@ -223,32 +182,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "cbf849c01de6": {
-   "id": "cbf849c01de6",
-   "kaynak": "AA",
-   "baslik": "MKE'nin TOLGA ve PİRANA sistemleri, TURNAs-2026 Tatbikatı'nda hedefleri tam isabetle vurdu",
-   "ozet": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ve PİRANA kamikaze insansız deniz aracı Milli İnsansız Deniz Sistemleri Tatbikatı'nda (TURNAs-2026) hedefleri tam isabetle vurdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/mkenin-tolga-ve-pirana-sistemleri-turnas-2026-tatbikatinda-hedefleri-tam-isabetle-vurdu/4100219",
-   "zaman": "2026-10-25T15:07:39+03:00",
-   "kelimeler": [
-    "2026",
-    "hedef",
-    "isabe",
-    "mke",
-    "nda",
-    "nin",
-    "piran",
-    "siste",
-    "tam",
-    "tatbi",
-    "tolga",
-    "turna",
-    "vurdu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a4e9bbcdf47f"
   },
   "5fba02289f19": {
    "id": "5fba02289f19",
@@ -29401,7 +29334,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "65ee99c22cac": {
    "id": "65ee99c22cac",
@@ -29586,9 +29522,72 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "62c4ad026c05": {
+   "id": "62c4ad026c05",
+   "kaynak": "AA",
+   "baslik": "İstanbul'un da aralarında bulunduğu 29 il için meteorolojik uyarı",
+   "ozet": "Meteorolojiden yarın Adana, Antalya, Mersin ve Muğla için \"turuncu\", İstanbul'un da aralarında bulunduğu 25 il için \"sarı\" kodlu yağış uyarısında bulunuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulun-da-aralarinda-bulundugu-29-il-icin-meteorolojik-uyari/4103695",
+   "zaman": "2026-10-28T13:55:30+03:00",
+   "kelimeler": [
+    "29",
+    "arala",
+    "bulun",
+    "il",
+    "istan",
+    "meteo",
+    "un",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ec31cd6f5099": {
+   "id": "ec31cd6f5099",
+   "kaynak": "TRT Haber",
+   "baslik": "Eylülde cumhuriyet tarihinin en yüksek ikinci aylık ihracatı",
+   "ozet": "Ticaret Bakanı Ömer Bolat, eylül ayında çift haneli artış hızıyla 103 yıllık Cumhuriyet tarihinin en yüksek ikinci aylık ihracatına ulaşıldığını belirterek, \"Eylülde yıllıklandırılmış ihracat geçen yıla göre yüzde 5,2 yükselişle 283,7 milyar dolar olarak gerçekleşti\" dedi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/eylulde-cumhuriyet-tarihinin-en-yuksek-ikinci-aylik-ihracati-961499.html",
+   "zaman": "2026-10-28T14:51:00+03:00",
+   "kelimeler": [
+    "aylik",
+    "cumhu",
+    "eylul",
+    "ihrac",
+    "ikinc",
+    "tarih",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "82df10775437"
+  },
+  "b0339484ffad": {
+   "id": "b0339484ffad",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'de 11 bin 72 çocuk koruyucu ailelerin yanında geleceğe hazırlanıyor",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, 11 bin 72 çocuğun, 9 bin 327 koruyucu ailenin yanında güvenle geleceğe hazırlandığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/turkiyede-11-bin-72-cocuk-koruyucu-ailelerin-yaninda-gelecege-hazirlaniyor-961500.html",
+   "zaman": "2026-10-28T15:04:00+03:00",
+   "kelimeler": [
+    "11",
+    "72",
+    "ailel",
+    "bin",
+    "cocuk",
+    "gelec",
+    "hazir",
+    "koruy",
+    "turki",
+    "yanin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 15:16:08  2 yeni haber",
   "28.10 15:02:42  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · 69 ilde kaçakçılık operasyonları: 494 şüpheli yakalandı, tonlarca kaça",
   "28.10 15:01:24  8 yeni haber",
   "28.10 14:46:05  6 yeni haber",
@@ -29787,8 +29786,7 @@
   "26.10 10:01:25  3 yeni haber",
   "26.10 09:46:14  8 yeni haber",
   "26.10 09:33:34  Paylaşıldı (otomatik, 7 slaytlık karusel + Reels + Facebook_reels): AA · Küresel piyasalar Fed haftasına karışık seyirle başladı",
-  "26.10 09:31:26  2 yeni haber",
-  "26.10 09:16:12  4 yeni haber"
+  "26.10 09:31:26  2 yeni haber"
  ],
  "otomatik": false
 }
