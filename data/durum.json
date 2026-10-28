@@ -1,58 +1,5 @@
 {
  "haberler": {
-  "904b37414aff": {
-   "id": "904b37414aff",
-   "kaynak": "TRT Haber",
-   "baslik": "Asrın inşa seferberliği ABD basınının gündeminde",
-   "ozet": "ABD merkezli USA TODAY ve Business Insider deprem bölgesinde tamamlanan yeniden inşa çalışmalarını haberleştirdi.",
-   "link": "https://www.trthaber.com/haber/gundem/asrin-insa-seferberligi-abd-basininin-gundeminde-961122.html",
-   "zaman": "2026-10-25T10:29:00+03:00",
-   "kelimeler": [
-    "abd",
-    "asrin",
-    "basin",
-    "gunde",
-    "insa",
-    "sefer"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "AA"
-   ],
-   "paylasildi": "2026-10-25T11:33:35.623774+03:00",
-   "ig_id": "18427456339145791",
-   "reels_id": "17888799534486303",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1808279803847567",
-   "slayt": 6,
-   "kanca": "ABD BASININDA DEPREM KONUTLARI"
-  },
-  "83abf9c2d5f9": {
-   "id": "83abf9c2d5f9",
-   "kaynak": "AA",
-   "baslik": "Yemen Dışişleri Bakanı Zube: Husiler, Yemen'i dünyayı tehdit eden bir platforma dönüştürmeye çalışıyor",
-   "ozet": "Yemen Dışişleri Bakanı Zube, \"Husiler, ülkemiz Yemen'i bölgeyi ve dünyayı tehdit eden bir platforma dönüştürmeye çalışıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-disisleri-bakani-zube-husiler-yemeni-dunyayi-tehdit-eden-bir-platforma-donusturmeye-calisiyor/4100011",
-   "zaman": "2026-10-25T10:30:32+03:00",
-   "kelimeler": [
-    "bakan",
-    "calis",
-    "disis",
-    "donus",
-    "dunya",
-    "eden",
-    "husil",
-    "platf",
-    "tehdi",
-    "yemen",
-    "zube"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "553b608a09c5": {
    "id": "553b608a09c5",
    "kaynak": "AA",
@@ -28235,7 +28182,11 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "AA"
+   ]
   },
   "f5f65e3df7a3": {
    "id": "f5f65e3df7a3",
@@ -28500,9 +28451,350 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b9a0351415ed"
+  },
+  "5933ef1ab427": {
+   "id": "5933ef1ab427",
+   "kaynak": "AA",
+   "baslik": "HAVELSAN, TURNAs-2026 Tatbikatı'nda insansız sistemlerin müşterek harekat gücünü sergiledi",
+   "ozet": "HAVELSAN, Milli İnsansız Deniz Sistemleri Tatbikatı-2026'da milli komuta kontrol, otonomi ve video yönetimi yeteneklerini bir araya getirerek, deniz, kara ve hava insansız sistemlerinin müşterek harekat kabiliyetini başarıyla ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/havelsan-turnas-2026-tatbikatinda-insansiz-sistemlerin-musterek-harekat-gucunu-sergiledi/4103289",
+   "zaman": "2026-10-28T09:12:53+03:00",
+   "kelimeler": [
+    "2026",
+    "gucun",
+    "harek",
+    "havel",
+    "insan",
+    "muste",
+    "nda",
+    "sergi",
+    "siste",
+    "tatbi",
+    "turna"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8746d34ffb50": {
+   "id": "8746d34ffb50",
+   "kaynak": "TRT Haber",
+   "baslik": "İtalya'nın Sardinya Adası'ndaki restoranlarda ailelere telefon yasağı",
+   "ozet": "İtalya'nın Sardinya Adası'nda 15 restoran, ailelerin yemek sırasında cep telefonu ve diğer elektronik cihazları kullanmasını önlemeye yönelik bir aylık pilot uygulamaya katılıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/italyanin-sardinya-adasindaki-restoranlarda-ailelere-telefon-yasagi-961442.html",
+   "zaman": "2026-10-28T09:36:00+03:00",
+   "kelimeler": [
+    "adasi",
+    "ailel",
+    "italy",
+    "ndaki",
+    "nin",
+    "resto",
+    "sardi",
+    "telef",
+    "yasag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b977b31d158d": {
+   "id": "b977b31d158d",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin İran'a yönelik askeri operasyonlarının maliyeti 47,1 milyar dolar",
+   "ozet": "ABD'nin, İran'a yönelik askeri operasyonlarını başlattığı 28 Şubat'tan 16 Ekim'e kadar geçen sürede yaklaşık 47,1 milyar dolar harcadığı bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-471-milyar-dolar-961443.html",
+   "zaman": "2026-10-28T09:52:00+03:00",
+   "kelimeler": [
+    "47",
+    "abd",
+    "asker",
+    "dolar",
+    "iran",
+    "maliy",
+    "milya",
+    "nin",
+    "opera",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "8800673d7e35": {
+   "id": "8800673d7e35",
+   "kaynak": "AA",
+   "baslik": "ABD'nin İran'a yönelik askeri operasyonlarının maliyeti 47,1 milyar dolar",
+   "ozet": "ABD'nin, İran'a yönelik askeri operasyonlarını başlattığı 28 Şubat'tan 16 Ekim'e kadar geçen sürede yaklaşık 47,1 milyar dolar harcadığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-47-1-milyar-dolar/4103321",
+   "zaman": "2026-10-28T09:53:38+03:00",
+   "kelimeler": [
+    "47",
+    "abd",
+    "asker",
+    "dolar",
+    "iran",
+    "maliy",
+    "milya",
+    "nin",
+    "opera",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b977b31d158d"
+  },
+  "bc20e6ca37cf": {
+   "id": "bc20e6ca37cf",
+   "kaynak": "AA",
+   "baslik": "ABD'li ve Kübalı yetkililer, BM toplantısı sırasında birbirlerine sesini yükseltti",
+   "ozet": "ABD'li ve Kübalı yetkililer, Birleşmiş Milletler (BM) Genel Kurulu'nda Küba'ya uygulanan ambargoyla ilgili bir karar tasarısının görüşüldüğü toplantı esnasında yüksek sesle münakaşa etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-ve-kubali-yetkililer-bm-toplantisi-sirasinda-birbirlerine-sesini-yukseltti/4103323",
+   "zaman": "2026-10-28T09:54:22+03:00",
+   "kelimeler": [
+    "abd",
+    "birbi",
+    "bm",
+    "kubal",
+    "li",
+    "sesin",
+    "siras",
+    "topla",
+    "yetki",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5eadbd583955": {
+   "id": "5eadbd583955",
+   "kaynak": "TRT Haber",
+   "baslik": "ÖSYM'nin 2027 sınav takvimi belli oldu",
+   "ozet": "ÖSYM Başkanı Bayram Ali Ersoy, Yükseköğretim Kurumları Sınavı'nın 2027YKS 1920 Haziran'da yapılacağını, sınava başvuruların 4 Şubat2 Mart tarihlerinde alınacağını açıkladı.",
+   "link": "https://www.trthaber.com/haber/egitim/osymnin-2027-sinav-takvimi-belli-oldu-961445.html",
+   "zaman": "2026-10-28T09:59:00+03:00",
+   "kelimeler": [
+    "2027",
+    "belli",
+    "nin",
+    "osym",
+    "sinav",
+    "takvi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "00e4b624bdf2"
+  },
+  "0f49914b01da": {
+   "id": "0f49914b01da",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunun El Halil'deki kuşatma ve saldırıları 6'ncı gününde sürüyor",
+   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine yönelik saldırı ve baskınlarını altıncı gününde de sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-el-halildeki-kusatma-ve-saldirilari-6nci-gununde-suruyor/4103340",
+   "zaman": "2026-10-28T10:03:18+03:00",
+   "kelimeler": [
+    "deki",
+    "el",
+    "gunun",
+    "halil",
+    "israi",
+    "kusat",
+    "nci",
+    "ordus",
+    "saldi",
+    "suruy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0449aa86fb3f": {
+   "id": "0449aa86fb3f",
+   "kaynak": "TRT Haber",
+   "baslik": "Uluslararası uyuşturucu baronu Türkiye'de yakalandı",
+   "ozet": "Belçika adli makamlarınca difüzyon kararıyla uluslararası seviyede aranan ve Kolombiya'dan Avrupa'ya uzanan dev kokain ağını yönettiği belirlenen organize suç örgütü elebaşı S.G., İstanbul Zeytinburnu'nda düzenlenen operasyonla kıskıvrak yakalandı.",
+   "link": "https://www.trthaber.com/haber/gundem/uluslararasi-uyusturucu-baronu-turkiyede-yakalandi-961448.html",
+   "zaman": "2026-10-28T10:06:00+03:00",
+   "kelimeler": [
+    "baron",
+    "turki",
+    "ulusl",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "797eb7692849"
+  },
+  "068b507e8897": {
+   "id": "068b507e8897",
+   "kaynak": "Hürriyet",
+   "baslik": "Kaputuna çıktığı aracı sürücüyü itip kaçırdı: \"Kendimde değildim\" savunması",
+   "ozet": "Adana'da trafikte araçların önünü kesip yola yatarak durdurduğu hafif ticari aracı gasbeden ve kaçış sırasında kavşaktaki araçlara çarpan Mustafa Gökbudak yakalandı. Güvenlik kameralarına yansıyan kovalamacanın ardından adliyeye sevk edilen şüpheli tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kaputuna-ciktigi-araci-surucuyu-itip-kacirdi-kendimde-degildim-savunmasi-43357569",
+   "zaman": "2026-10-28T10:18:00+03:00",
+   "kelimeler": [
+    "araci",
+    "cikti",
+    "degil",
+    "itip",
+    "kacir",
+    "kaput",
+    "kendi",
+    "savun",
+    "suruc"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b8a7fdfd43b6": {
+   "id": "b8a7fdfd43b6",
+   "kaynak": "NTV",
+   "baslik": "Kritik uyarı: \"7 büyüklüğünde deprem üretebilir\"",
+   "ozet": "Bursa'nın deprem tehlikesine ilişkin uzmanlardan kritik bir uyarı geldi. Yapılan araştırmalarda, 1855'te iki büyük depreme neden olan 94 kilometre uzunluğunda fay hattı tespit edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-kritik-uyari-7-buyuklugunde-deprem-uretebilir-1748310",
+   "zaman": "2026-10-28T10:20:09+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "kriti",
+    "urete",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "4c3860731001": {
+   "id": "4c3860731001",
+   "kaynak": "AA",
+   "baslik": "Dış ticaret verileri açıklandı",
+   "ozet": "Türkiye'nin ihracatı eylülde geçen yılın aynı ayına kıyasla yüzde 15,3 artarak 25 milyar 967 milyon dolar, ithalatı yüzde 5,6 yükselişle 31 milyar 130 milyon dolar olarak gerçekleşti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dis-ticaret-verileri-aciklandi/4103360",
+   "zaman": "2026-10-28T10:20:50+03:00",
+   "kelimeler": [
+    "acikl",
+    "dis",
+    "ticar",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dab944cbf114": {
+   "id": "dab944cbf114",
+   "kaynak": "AA",
+   "baslik": "Ekim ayı doğum yardımı ödemeleri hesaplara yatırıldı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, ekim ayı doğum yardımı ödemelerinin, bugün itibarıyla hesaplara yatırıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ekim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi/4103364",
+   "zaman": "2026-10-28T10:22:56+03:00",
+   "kelimeler": [
+    "ayi",
+    "dogum",
+    "ekim",
+    "hesap",
+    "odeme",
+    "yardi",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60471c42d254": {
+   "id": "60471c42d254",
+   "kaynak": "AA",
+   "baslik": "\"Arnab\" siklonik fırtınası, Hindistan'ın Andhra Pradeş eyaletinin kıyılarında etkisini gösteriyor",
+   "ozet": "Hint Okyanusu'nun kuzeydoğusundaki Bengal Körfezi'nde oluşan \"Arnab\" siklonik fırtınası, Hindistan'ın Andhra Pradeş eyaletinin kıyılarına ulaştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/arnab-siklonik-firtinasi-hindistanin-andhra-prades-eyaletinin-kiyilarinda-etkisini-gosteriyor/4103365",
+   "zaman": "2026-10-28T10:23:37+03:00",
+   "kelimeler": [
+    "andhr",
+    "arnab",
+    "etkis",
+    "eyale",
+    "firti",
+    "goste",
+    "hindi",
+    "in",
+    "kiyil",
+    "prade",
+    "siklo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9c081f50d059": {
+   "id": "9c081f50d059",
+   "kaynak": "AA",
+   "baslik": "ABD'de 52 yıl önce öldürülen genç kızın katilinin Ted Bundy olduğu DNA testiyle belirlendi",
+   "ozet": "ABD'nin Utah eyaletinde 1974'te öldürülen 17 yaşındaki Melissa Ann Smith'in katilinin, DNA incelemeleri sonucunda Ted Bundy olduğu tespit edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-52-yil-once-oldurulen-genc-kizin-katilinin-ted-bundy-oldugu-dna-testiyle-belirlendi/4103368",
+   "zaman": "2026-10-28T10:23:59+03:00",
+   "kelimeler": [
+    "52",
+    "abd",
+    "belir",
+    "bundy",
+    "dna",
+    "genc",
+    "katil",
+    "kizin",
+    "oldug",
+    "oldur",
+    "ted",
+    "testi",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e95330092bf0": {
+   "id": "e95330092bf0",
+   "kaynak": "AA",
+   "baslik": "Hizmet Üretici Fiyat Endeksi eylülde aylık yüzde 0,17, yıllık yüzde 33,23 arttı",
+   "ozet": "Hizmet Üretici Fiyat Endeksi (H-ÜFE), eylülde aylık bazda yüzde 0,17, yıllık bazda yüzde 33,23 artış gösterdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hizmet-uretici-fiyat-endeksi-eylulde-aylik-yuzde-0-17-yillik-yuzde-33-23-artti/4103372",
+   "zaman": "2026-10-28T10:27:29+03:00",
+   "kelimeler": [
+    "17",
+    "23",
+    "33",
+    "artti",
+    "aylik",
+    "endek",
+    "eylul",
+    "fiyat",
+    "hizme",
+    "ureti",
+    "yilli",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "979b206c29fd": {
+   "id": "979b206c29fd",
+   "kaynak": "AA",
+   "baslik": "Uyuşturucu ve örgüt kurma suçlarından uluslararası seviyede aranan S.G. İstanbul'da yakalandı",
+   "ozet": "İçişleri Bakanlığı, Belçika adli makamlarınca \"uyuşturucu madde ticareti ve suç örgütü kurma\" suçlarından difüzyonla uluslararası seviyede aranan S.G'nin İstanbul'da yakalandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uyusturucu-ve-orgut-kurma-suclarindan-uluslararasi-seviyede-aranan-sg-istanbulda-yakalandi/4103373",
+   "zaman": "2026-10-28T10:27:33+03:00",
+   "kelimeler": [
+    "arana",
+    "istan",
+    "kurma",
+    "orgut",
+    "seviy",
+    "sucla",
+    "ulusl",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "797eb7692849"
   }
  },
  "kayit": [
+  "28.10 10:31:06  12 yeni haber",
   "28.10 10:17:58  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa'da ilginç olay | Yardım teklifini reddetti, dakikalar sonra kaza",
   "28.10 10:16:02  7 yeni haber",
   "28.10 10:03:28  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
@@ -28701,8 +28993,7 @@
   "26.10 01:53:35  1 yeni haber",
   "26.10 01:32:27  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
   "26.10 01:15:58  2 yeni haber",
-  "26.10 01:03:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bron",
-  "26.10 01:01:22  1 yeni haber"
+  "26.10 01:03:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bron"
  ],
  "otomatik": false
 }
