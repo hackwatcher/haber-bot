@@ -1,112 +1,5 @@
 {
  "haberler": {
-  "1cca1c3c05b1": {
-   "id": "1cca1c3c05b1",
-   "kaynak": "NTV",
-   "baslik": "SİPER Ürün-2 yeni testi geçti. Havada hedef değiştirdi",
-   "ozet": "Türkiye'nin uzun menzilli bölge hava ve füze savunma sistemi SİPER Ürün-2, yeni kabiliyetini başarılı atış testiyle sahada ispatladı. Havadayken güncellenen yeni hedefini imha etti.",
-   "link": "https://www.ntv.com.tr/turkiye/siper-urun-2-yeni-testi-gecti-havada-hedef-degistirdi-1747929",
-   "zaman": "2026-10-25T17:32:48+03:00",
-   "kelimeler": [
-    "degis",
-    "gecti",
-    "havad",
-    "hedef",
-    "siper",
-    "testi",
-    "urun",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3aad7e298c7e": {
-   "id": "3aad7e298c7e",
-   "kaynak": "Hürriyet",
-   "baslik": "Sermaye piyasası işlemleri soruşturmalarında Gürol Sami Özer gözaltına alındı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında, Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-gurol-sami-ozer-gozaltina-alindi-43354623",
-   "zaman": "2026-10-25T17:41:00+03:00",
-   "kelimeler": [
-    "alind",
-    "gozal",
-    "gurol",
-    "islem",
-    "ozer",
-    "piyas",
-    "sami",
-    "serma",
-    "sorus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ec438c2e98f"
-  },
-  "ccd39146b0fb": {
-   "id": "ccd39146b0fb",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmalarında Gürol Sami Özer gözaltına alındı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında, Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmalarinda-gurol-sami-ozer-gozaltina-alindi-961157.html",
-   "zaman": "2026-10-25T17:42:00+03:00",
-   "kelimeler": [
-    "alind",
-    "fon",
-    "gozal",
-    "gurol",
-    "ozer",
-    "sami",
-    "sorus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ec438c2e98f"
-  },
-  "bb2c4433a32c": {
-   "id": "bb2c4433a32c",
-   "kaynak": "TRT Haber",
-   "baslik": "Suudi Arabistan'da engellenen füzelerin şarapnel parçaları 2 kişiyi yaraladı",
-   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın güneyine fırlattığı iki balistik füzenin havada imha edildiği, düşen şarapnel parçalarının 2 kişiyi yaraladığı duyuruldu.",
-   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-engellenen-fuzelerin-sarapnel-parcalari-2-kisiyi-yaraladi-961158.html",
-   "zaman": "2026-10-25T17:45:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "engel",
-    "fuzel",
-    "kisiy",
-    "parca",
-    "sarap",
-    "suudi",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e2423e2daaaa": {
-   "id": "e2423e2daaaa",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransa'da fırtınaların ardından yaklaşık 59 bin hanede elektrik kesintisi sürüyor",
-   "ozet": "Fransa'da Austen ve Boelo fırtınaları nedeniyle yaklaşık 59 bin hanede elektrik kesintisi devam ediyor.",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor-961159.html",
-   "zaman": "2026-10-25T17:46:00+03:00",
-   "kelimeler": [
-    "59",
-    "ardin",
-    "bin",
-    "elekt",
-    "firti",
-    "frans",
-    "haned",
-    "kesin",
-    "suruy",
-    "yakla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "1c885dbe7d51": {
    "id": "1c885dbe7d51",
    "kaynak": "NTV",
@@ -29704,7 +29597,10 @@
     "tokay"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "58fc86ab8134": {
    "id": "58fc86ab8134",
@@ -30097,7 +29993,8 @@
     "treni"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "5612a93ea5f3": {
    "id": "5612a93ea5f3",
@@ -30164,9 +30061,185 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "2a2bdd5df972"
+  },
+  "e4a86a33fbf8": {
+   "id": "e4a86a33fbf8",
+   "kaynak": "TRT Haber",
+   "baslik": "Amasyalı çiftçi tarlasına traktörüyle 'Cumhuriyet' yazdı",
+   "ozet": "Amasya'nın Merzifon ilçesinde yaşayan genç çiftçi, tarlasına traktörle \"Cumhuriyet\" yazdı.",
+   "link": "https://www.trthaber.com/haber/turkiye/amasyali-ciftci-tarlasina-traktoruyle-cumhuriyet-yazdi-961507.html",
+   "zaman": "2026-10-28T16:07:00+03:00",
+   "kelimeler": [
+    "amasy",
+    "ciftc",
+    "cumhu",
+    "tarla",
+    "trakt",
+    "yazdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1fb783241576": {
+   "id": "1fb783241576",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ve 2 ülkeden Karadeniz'deki ticari gemi saldırılarına ortak tepki",
+   "ozet": "Türkiye, Bulgaristan ve Romanya Savunma Bakanları, ortak bildiriyle Karadeniz'deki ticari gemilere yönelik saldırılara tepki gösterdi.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-2-ulkeden-karadenizdeki-ticari-gemi-saldirilarina-ortak-tepki-961519.html",
+   "zaman": "2026-10-28T17:22:00+03:00",
+   "kelimeler": [
+    "deki",
+    "gemi",
+    "karad",
+    "ortak",
+    "saldi",
+    "tepki",
+    "ticar",
+    "turki",
+    "ulked"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fa60480a3bb1": {
+   "id": "fa60480a3bb1",
+   "kaynak": "AA",
+   "baslik": "Fransa'da Sarı Yelekliler'in eylemlerinin maliyetinin 1 milyar avroyu aşacağı tahmin ediliyor",
+   "ozet": "Fransa'da 17-18 Ekim'de şiddet ve yağma olaylarına sahne olan Sarı Yelekliler'in eylemlerinde oluşan hasarın maliyetinin 1 milyar avroyu aşabileceği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemlerinin-maliyetinin-1-milyar-avroyu-asacagi-tahmin-ediliyor/4104002",
+   "zaman": "2026-10-28T17:25:10+03:00",
+   "kelimeler": [
+    "asaca",
+    "avroy",
+    "edili",
+    "eylem",
+    "frans",
+    "in",
+    "maliy",
+    "milya",
+    "sari",
+    "tahmi",
+    "yelek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "7f4dbd1923e5": {
+   "id": "7f4dbd1923e5",
+   "kaynak": "NTV",
+   "baslik": "Çorum'da feci kaza. 4 kişi hayatını kaybetti",
+   "ozet": "Çorum'da cip ile otomobilin çarpıştığı kazada 4 kişi yaşamını yitirdi, 2 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/corumda-feci-kaza-4-kisi-hayatini-kaybetti-1748392",
+   "zaman": "2026-10-28T17:32:56+03:00",
+   "kelimeler": [
+    "corum",
+    "feci",
+    "hayat",
+    "kaybe",
+    "kaza",
+    "kisi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ea6a038b54fd": {
+   "id": "ea6a038b54fd",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'daki eylemlerin maliyetinin 1 milyar euroyu aşacağı tahmin ediliyor",
+   "ozet": "Fransa'da 1718 Ekim'de şiddet ve yağma olaylarına sahne olan Sarı Yelekliler'in eylemlerinde oluşan hasarın maliyetinin 1 milyar euroyu aşabileceği belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/fransadaki-eylemlerin-maliyetinin-1-milyar-euroyu-asacagi-tahmin-ediliyor-961520.html",
+   "zaman": "2026-10-28T17:34:00+03:00",
+   "kelimeler": [
+    "asaca",
+    "daki",
+    "edili",
+    "euroy",
+    "eylem",
+    "frans",
+    "maliy",
+    "milya",
+    "tahmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fa60480a3bb1"
+  },
+  "7f67c2139c58": {
+   "id": "7f67c2139c58",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin Kahire Büyükelçisi, iklim konusunda dünyanın taahhütlerden uygulamaya geçmesi gerektiğini söyledi",
+   "ozet": "Türkiye'nin Kahire Büyükelçisi Salih Mutlu Şen, Paris Anlaşması'nın ikinci on yılına girerken dünyanın artık taahhütlerden uygulamaya geçmesi gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-kahire-buyukelcisi-iklim-konusunda-dunyanin-taahhutlerden-uygulamaya-gecmesi-gerektigini-soyledi/4104013",
+   "zaman": "2026-10-28T17:34:39+03:00",
+   "kelimeler": [
+    "buyuk",
+    "dunya",
+    "gecme",
+    "gerek",
+    "iklim",
+    "kahir",
+    "konus",
+    "nin",
+    "soyle",
+    "taahh",
+    "turki",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "873aa49b33a4": {
+   "id": "873aa49b33a4",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş'tan İspanya'daki iki hızlı trenin çarpıştığı kazaya ilişkin paylaşım",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, İspanya'daki iki hızlı trenin çarpıştığı kazaya ilişkin, \"Türkiye olarak dost İspanya'nın yanında olduğumuzu ifade ediyor, İspanya halkına dayanışma ve kardeşlik duygularımızı iletiyorum.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmustan-ispanyadaki-iki-hizli-trenin-carpistigi-kazaya-iliskin-paylasim/4104020",
+   "zaman": "2026-10-28T17:38:18+03:00",
+   "kelimeler": [
+    "baska",
+    "carpi",
+    "daki",
+    "hizli",
+    "iki",
+    "ilisk",
+    "ispan",
+    "kazay",
+    "kurtu",
+    "payla",
+    "tan",
+    "tbmm",
+    "treni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "73f2a7e6434d"
+  },
+  "203bcbf69a08": {
+   "id": "203bcbf69a08",
+   "kaynak": "NTV",
+   "baslik": "Kazakistan Cumhurbaşkanı Tokayev Ankara'da. Cumhurbaşkanı Erdoğan törenle karşıladı",
+   "ozet": "Kazakistan Cumhurbaşkanı Tokayev Türkiye'yi ziyaret edeyor. Cumhurbaşkanı Erdoğan, Tokayev'i resmi törenle karşıladı",
+   "link": "https://www.ntv.com.tr/turkiye/kazakistan-cumhurbaskani-tokayev-ankarada-cumhurbaskani-erdogan-torenle-karsiladi-1748394",
+   "zaman": "2026-10-28T17:44:54+03:00",
+   "kelimeler": [
+    "ankar",
+    "cumhu",
+    "erdog",
+    "karsi",
+    "kazak",
+    "tokay",
+    "toren"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "11fcfaabe148"
   }
  },
  "kayit": [
+  "28.10 17:46:23  5 yeni haber",
   "28.10 17:31:20  7 yeni haber",
   "28.10 17:15:55  4 yeni haber",
   "28.10 17:04:27  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Türkiye'den İspanyaya taziye mesajı",
@@ -30365,8 +30438,7 @@
   "26.10 12:33:26  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Oktay Saral, Cumhurbaşkanı Başdanışmanlığı görevinden ist",
   "26.10 12:31:24  3 yeni haber",
   "26.10 12:16:14  11 yeni haber",
-  "26.10 12:01:32  3 yeni haber",
-  "26.10 11:54:00  10 yeni haber"
+  "26.10 12:01:32  3 yeni haber"
  ],
  "otomatik": false
 }
