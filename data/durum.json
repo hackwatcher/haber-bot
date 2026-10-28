@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "60682770623a": {
-   "id": "60682770623a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Akın Gürlek'ten 'fon' açıklaması: 'Gönüllü iade hukuki sorumluluğu ortadan kaldırmaz'",
-   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasına konu olan kişilerin kazandıkları parayı gönüllü olarak iade etseler de haklarındaki soruşturmanın sürebileceğini söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/c5rmy7wkek47o",
-   "zaman": "2026-10-25T19:20:19+03:00",
-   "kelimeler": [
-    "acikl",
-    "akin",
-    "fon",
-    "gonul",
-    "gurle",
-    "hukuk",
-    "iade",
-    "kaldi",
-    "ortad",
-    "sorum",
-    "ten"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "cf54d3681e5b"
-  },
-  "dc3745776f3b": {
-   "id": "dc3745776f3b",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump: Bugün İran'a saldırı olmayacak",
-   "ozet": "ABD Başkanı Trump, İran'a yönelik yakın zamanda harekat olmayacağını söyledi, \"Bugün İran'a bir saldırı olmayacak\" açıklamasını yaptı.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-bugun-irana-saldiri-olmayacak-961164.html",
-   "zaman": "2026-10-25T19:24:00+03:00",
-   "kelimeler": [
-    "bugun",
-    "iran",
-    "olmay",
-    "saldi",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "534d83374a26": {
    "id": "534d83374a26",
    "kaynak": "Sözcü",
@@ -30228,8 +30184,17 @@
     "tutuk",
     "yusuf"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-28T19:33:40.075932+03:00",
+   "ig_id": "18115652513016375",
+   "reels_id": "17956243560270960",
+   "story_id": "18092744840682577",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2190398881831007",
+   "slayt": 4,
+   "kanca": "ÖĞRENCİLER TAHLİYE EDİLDİ"
   },
   "02c3fe4042fb": {
    "id": "02c3fe4042fb",
@@ -30649,9 +30614,94 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "11fcfaabe148"
+  },
+  "a116f2a2237b": {
+   "id": "a116f2a2237b",
+   "kaynak": "TRT Haber",
+   "baslik": "İspanya'da hızlı trenler çarpıştı: En az 68 ölü",
+   "ozet": "İspanya'da MadridEndülüs seferi yapan iki yolcu treninin çarpıştığı kazada en az 68 kişinin hayatını kaybettiği duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/ispanyada-hizli-trenler-carpisti-en-az-68-olu-961528.html",
+   "zaman": "2026-10-28T18:57:00+03:00",
+   "kelimeler": [
+    "68",
+    "az",
+    "carpi",
+    "hizli",
+    "ispan",
+    "olu",
+    "trenl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "562684b1b293"
+  },
+  "49e2d9ca9de3": {
+   "id": "49e2d9ca9de3",
+   "kaynak": "AA",
+   "baslik": "Trump, seçim vaadi olan 5 bin dolarla Mar-a-Lago Malikanesi'nde hamburger ve tatlı bile alınamayabileceğini söyledi",
+   "ozet": "ABD Başkanı Donald Trump, Temsilciler Meclisi ve Senatodaki seçimlerde Cumhuriyetçilerin galip gelmesi halinde, her yetişkine vadettiği 5 bin dolar ile Florida'daki Mar-a-Lago Malikanesi'nde hamburger ve küçük tatlı bile alınamayabileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-secim-vaadi-olan-5-bin-dolarla-mar-a-lago-malikanesinde-hamburger-ve-tatli-bile-alinamayabilecegini-soyledi/4104109",
+   "zaman": "2026-10-28T19:05:46+03:00",
+   "kelimeler": [
+    "alina",
+    "bile",
+    "bin",
+    "dolar",
+    "hambu",
+    "lago",
+    "malik",
+    "mar",
+    "nde",
+    "secim",
+    "soyle",
+    "tatli",
+    "trump",
+    "vaadi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "463bee9eacb7": {
+   "id": "463bee9eacb7",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
+   "ozet": "Birçok kişi taze ürünlerin her halükarda en iyi seçenek olduğunu varsayar, ancak uzmanlara göre durum bu kadar basit değil.",
+   "link": "https://www.bbc.com/turkce/articles/c9x284ex08lgo",
+   "zaman": "2026-10-28T19:19:51+03:00",
+   "kelimeler": [
+    "dondu",
+    "gidal",
+    "konse",
+    "sagli",
+    "veya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0784f87981af": {
+   "id": "0784f87981af",
+   "kaynak": "NTV",
+   "baslik": "Dolandırıcılığa \"Dolunay\" önlemi. İhbarlara dakikalar içinde müdahale edilecek",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi ile Adalet Bakanı Akın Gürlek, dolandırıcılıkla mücadele için hayata geçirilen DOLUNAY projesini ele almak için bir araya geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/dolandiriciliga-dolunay-onlemi-ihbarlara-dakikalar-icinde-mudaha-edilecek-1748401",
+   "zaman": "2026-10-28T19:23:41+03:00",
+   "kelimeler": [
+    "dakik",
+    "dolan",
+    "dolun",
+    "edile",
+    "icind",
+    "ihbar",
+    "mudah",
+    "onlem"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 19:33:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · \"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Di",
+  "28.10 19:31:18  3 yeni haber",
   "28.10 19:16:03  2 yeni haber",
   "28.10 19:01:33  2 yeni haber",
   "28.10 18:46:00  2 yeni haber",
@@ -30849,9 +30899,7 @@
   "26.10 14:31:21  7 yeni haber",
   "26.10 14:18:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Jandarma Gücü, İspanya'dan 101 madalya ile döndü",
   "26.10 14:16:04  2 yeni haber",
-  "26.10 14:01:39  6 yeni haber",
-  "26.10 13:46:05  12 yeni haber",
-  "26.10 13:16:29  5 yeni haber"
+  "26.10 14:01:39  6 yeni haber"
  ],
  "otomatik": false
 }
