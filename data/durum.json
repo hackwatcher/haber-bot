@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "be9cf0c6db34": {
-   "id": "be9cf0c6db34",
-   "kaynak": "NTV",
-   "baslik": "Fon soruşturması. Ertan Aydın ve Gürol Sami Özer tutuklandı",
-   "ozet": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-gurol-sami-ozer-tutuklandi-1747904",
-   "zaman": "2026-10-26T00:52:57+03:00",
-   "kelimeler": [
-    "aydin",
-    "ertan",
-    "fon",
-    "gurol",
-    "ozer",
-    "sami",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "3b97847c9e24": {
    "id": "3b97847c9e24",
    "kaynak": "XHABER",
@@ -31458,8 +31438,17 @@
     "uc",
     "yaral"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-29T01:03:51.191981+03:00",
+   "ig_id": "18078477740460839",
+   "reels_id": "18121538065945345",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1098821386302904",
+   "slayt": 5,
+   "kanca": "1 POLİS ŞEHİT"
   },
   "4a15bfafa6eb": {
    "id": "4a15bfafa6eb",
@@ -31481,9 +31470,33 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f7ff7bd33e76": {
+   "id": "f7ff7bd33e76",
+   "kaynak": "AA",
+   "baslik": "Trump, \"İran'la müzakereleri yeniden başlatması için Vance'i görevlendirdiği\" iddiasını yalanladı",
+   "ozet": "ABD Başkanı Donald Trump, \"İran'la müzakereleri yeniden başlatması için Başkan Yardımcısı JD Vance'i görevlendirdiği\" iddiasını yalanlayarak, Vance'in sadece İran'ın ihtiyaç duyduğu tıbbi malzemelerin teminine yardım ettiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iranla-muzakereleri-yeniden-baslatmasi-icin-vancei-gorevlendirdigi-iddiasini-yalanladi/4104416",
+   "zaman": "2026-10-29T00:53:40+03:00",
+   "kelimeler": [
+    "basla",
+    "gorev",
+    "iddia",
+    "iran",
+    "la",
+    "muzak",
+    "trump",
+    "vance",
+    "yalan",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 01:03:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Üç aracın karıştığı kazada 1 polis şehit oldu; 11 yaralı var",
+  "29.10 01:01:25  1 yeni haber",
   "29.10 00:46:10  1 yeni haber",
   "29.10 00:35:23  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
   "29.10 00:32:21  1 yeni haber",
@@ -31681,9 +31694,7 @@
   "26.10 23:20:52  2 yeni haber",
   "26.10 23:01:25  1 yeni haber",
   "26.10 22:46:09  1 yeni haber",
-  "26.10 22:31:26  5 yeni haber",
-  "26.10 22:01:29  4 yeni haber",
-  "26.10 21:46:10  3 yeni haber"
+  "26.10 22:31:26  5 yeni haber"
  ],
  "otomatik": false
 }
