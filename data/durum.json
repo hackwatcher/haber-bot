@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "385fb7c8fad1": {
-   "id": "385fb7c8fad1",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkçülük fikrinin mimarı: Ziya Gökalp",
-   "ozet": "\"Türkçülüğün Esasları\", \"Kızıl Elma\" ve \"Türkleşmek, İslamlaşmak, Muasırlaşmak\" gibi eserleriyle tanınan Ziya Gökalp, dil, kültür ve milli kimlik üzerine geliştirdiği fikirlerle Türk düşünce hayatına yön verdi. Türkçülük düşüncesinin öncü isimlerinden Gökalp, vefatının 102.",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/turkculuk-fikrinin-mimari-ziya-gokalp-961100.html",
-   "zaman": "2026-10-25T10:00:00+03:00",
-   "kelimeler": [
-    "fikri",
-    "gokal",
-    "mimar",
-    "turkc",
-    "ziya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "76565b9ccf8d"
-  },
-  "0ea97ecbd826": {
-   "id": "0ea97ecbd826",
-   "kaynak": "Hürriyet",
-   "baslik": "Arkadaşlarıyla balık tutmaya gitmişti: Suda kaybolan gençten acı haber",
-   "ozet": "Adana'nın Çukurova ilçesinde arkadaşlarıyla balık tuttuğu sırada dengesini kaybederek Seyhan Baraj Gölü'ne düşen Müslüm U., suda çırpındıktan sonra gözden kayboldu. İhbar üzerine başlatılan arama çalışmalarında gencin cansız bedenine ulaştı.",
-   "link": "https://www.hurriyet.com.tr/gundem/arkadaslariyla-balik-tutmaya-gitmisti-suda-kaybolan-gencten-aci-haber-43354118",
-   "zaman": "2026-10-25T09:54:44+03:00",
-   "kelimeler": [
-    "aci",
-    "arkad",
-    "balik",
-    "genct",
-    "gitmi",
-    "kaybo",
-    "suda",
-    "tutma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7ee58943e0c6": {
-   "id": "7ee58943e0c6",
-   "kaynak": "AA",
-   "baslik": "Gaziantep FK'nin galibiyet hasreti 5 maça çıktı",
-   "ozet": "Trendyol Süper Lig'in 9. haftasında sahasında Erzurumspor FK'ye 3-1 mağlup olan Gaziantep FK'nin ligdeki galibiyet hasreti 5 maça çıktı.",
-   "link": "https://www.aa.com.tr/tr/spor/gaziantep-fknin-galibiyet-hasreti-5-maca-cikti/4099989",
-   "zaman": "2026-10-25T09:58:06+03:00",
-   "kelimeler": [
-    "cikti",
-    "fk",
-    "galib",
-    "gazia",
-    "hasre",
-    "maca",
-    "nin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5f972a8dc6c9": {
    "id": "5f972a8dc6c9",
    "kaynak": "AA",
@@ -17256,7 +17199,8 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "fdefb048af03": {
    "id": "fdefb048af03",
@@ -17795,7 +17739,8 @@
     "gune"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e26cf92f2e7d": {
    "id": "e26cf92f2e7d",
@@ -28109,7 +28054,8 @@
     "ons"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1c992874dfd0": {
    "id": "1c992874dfd0",
@@ -28179,9 +28125,256 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "c3128a62403c"
+  },
+  "b23248d956d1": {
+   "id": "b23248d956d1",
+   "kaynak": "TRT Haber",
+   "baslik": "Konya'da mısır tarlasında 10 metre çapında yeni obruk oluştu",
+   "ozet": "Konya'nın Karapınar ilçesinde mısır tarlasında yaklaşık 1 ay önce oluştuğu tahmin edilen 10 metre genişliğinde yeni bir obruk bulundu.",
+   "link": "https://www.trthaber.com/haber/turkiye/konyada-misir-tarlasinda-10-metre-capinda-yeni-obruk-olustu-961436.html",
+   "zaman": "2026-10-28T09:10:00+03:00",
+   "kelimeler": [
+    "10",
+    "capin",
+    "konya",
+    "metre",
+    "misir",
+    "obruk",
+    "olust",
+    "tarla",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8e1e93799457": {
+   "id": "8e1e93799457",
+   "kaynak": "AA",
+   "baslik": "Trump, Brezilya'da seçimleri kaybeden Bolsonaro'nun \"ABD'ye gelmesini onaylayabileceğini\" söyledi",
+   "ozet": "ABD Başkanı Donald Trump, Brezilya'da devlet başkanı seçimlerinin 2. turunu Luiz Inacio Lula da Silva'ya karşı kaybeden Senatör Flavio Bolsonaro'nun ABD'ye gelmesini \"onaylayabileceğini\" söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-brezilyada-secimleri-kaybeden-bolsonaronun-abdye-gelmesini-onaylayabilecegini-soyledi/4103295",
+   "zaman": "2026-10-28T09:17:12+03:00",
+   "kelimeler": [
+    "abd",
+    "bolso",
+    "brezi",
+    "gelme",
+    "kaybe",
+    "nun",
+    "onayl",
+    "secim",
+    "soyle",
+    "trump",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6f47496c9ec8": {
+   "id": "6f47496c9ec8",
+   "kaynak": "AA",
+   "baslik": "YETEV'in çocuk edebiyatı hikaye yarışmasında ödüller sahiplerini buldu",
+   "ozet": "Fatih Sultan Mehmet Vakıf Üniversitesi (FSMVÜ) ve Yeni Türkiye Eğitim Vakfına (YETEV) bağlı YETEV Türk Müziği İlkokulu işbirliğiyle, \"Köklerden Geleceğe: Çocuk Edebiyatında Yeniden Yazım Hikaye Yarışması Ödül Töreni\" düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/kultur/yetevin-cocuk-edebiyati-hikaye-yarismasinda-oduller-sahiplerini-buldu/4103305",
+   "zaman": "2026-10-28T09:29:20+03:00",
+   "kelimeler": [
+    "buldu",
+    "cocuk",
+    "edebi",
+    "hikay",
+    "in",
+    "odull",
+    "sahip",
+    "yaris",
+    "yetev"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62e8f25f751f": {
+   "id": "62e8f25f751f",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında düşüş sürüyor: Gram altın, çeyrek altın ve ons altın ne kadar?",
+   "ozet": "Gram altın, güne düşüşle başlamasının ardından 6 bin 458 liradan işlem görüyor. Çeyrek altın 10 bin 616 liradan, Cumhuriyet altını 42 bin 273 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-dusus-suruyor-gram-altin-ceyrek-altin-ve-ons-altin-ne-kadar-961439.html",
+   "zaman": "2026-10-28T09:36:00+03:00",
+   "kelimeler": [
+    "altin",
+    "ceyre",
+    "dusus",
+    "fiyat",
+    "gram",
+    "ons",
+    "suruy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3a2275b97539"
+  },
+  "c412f34af203": {
+   "id": "c412f34af203",
+   "kaynak": "TRT Haber",
+   "baslik": "Küresel piyasalarda yapay zeka rallisi",
+   "ozet": "Küresel piyasalar, teknoloji hisselerindeki yükselişlerin etkisiyle pozitif seyrederken, gözler bugün ABD Merkez Bankasının Fed faiz kararına çevrildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yapay-zeka-rallisi-961441.html",
+   "zaman": "2026-10-28T09:38:00+03:00",
+   "kelimeler": [
+    "kures",
+    "piyas",
+    "ralli",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "80a481990d17"
+  },
+  "418318778fb1": {
+   "id": "418318778fb1",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa'da ilginç olay | Yardım teklifini reddetti, dakikalar sonra kaza yaptı",
+   "ozet": "Osmangazi'de motosiklet sürücüsü Yasemin Koç, trafik ışıklarında kendisine uzatılan yardım elini geri çevirdi. \"Acemi değiliz\" diyen sürücü, kısa süre sonra kaza yaptı. O anlar saniye saniye görüntülendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-ilginc-olay-yardim-teklifini-reddetti-dakikalar-sonra-kaza-yapti-43357498",
+   "zaman": "2026-10-28T09:40:18+03:00",
+   "kelimeler": [
+    "bursa",
+    "dakik",
+    "ilgin",
+    "kaza",
+    "olay",
+    "redde",
+    "tekli",
+    "yapti",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "4cb480bdf186": {
+   "id": "4cb480bdf186",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Real Madrid'e konuk olacak",
+   "ozet": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Basketbol Avrupa Ligi'nin (EuroLeague) 9. haftasında yarın İspanya'nın Real Madrid ekibiyle deplasmanda karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-real-madride-konuk-olacak/4103310",
+   "zaman": "2026-10-28T09:43:50+03:00",
+   "kelimeler": [
+    "avrup",
+    "baske",
+    "fener",
+    "konuk",
+    "ligi",
+    "madri",
+    "nde",
+    "olaca",
+    "real",
+    "tarfi",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f746a93d4d49": {
+   "id": "f746a93d4d49",
+   "kaynak": "AA",
+   "baslik": "Ticaret Bakanlığı kasım ayı indirim kampanyalarını mercek altına aldı",
+   "ozet": "Ticaret Bakanlığı, tüketicilerin yanıltılmalarını ve mağduriyet yaşamalarını önlemek amacıyla kasım ayı boyunca indirimli satış reklamlarının, mecra ayrımı gözetilmeksizin, yakından takip edileceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-kasim-ayi-indirim-kampanyalarini-mercek-altina-aldi/4103313",
+   "zaman": "2026-10-28T09:45:20+03:00",
+   "kelimeler": [
+    "aldi",
+    "altin",
+    "ayi",
+    "bakan",
+    "indir",
+    "kampa",
+    "kasim",
+    "merce",
+    "ticar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "93dd871173bd": {
+   "id": "93dd871173bd",
+   "kaynak": "AA",
+   "baslik": "Kütahya merkezli yasa dışı bahis soruşturmasında 62 zanlı tutuklandı",
+   "ozet": "Kütahya merkezli 5 ilde yasa dışı bahis oynattıkları ve bu faaliyetlere aracılık ettikleri öne sürülen iki suç örgütüne yönelik operasyonda gözaltına alınan 79 şüpheliden 62'si tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kutahya-merkezli-yasa-disi-bahis-sorusturmasinda-62-zanli-tutuklandi/4103315",
+   "zaman": "2026-10-28T09:47:58+03:00",
+   "kelimeler": [
+    "62",
+    "bahis",
+    "disi",
+    "kutah",
+    "merke",
+    "sorus",
+    "tutuk",
+    "yasa",
+    "zanli"
+   ],
+   "durum": "hata",
+   "oncelikli": true,
+   "hata": "Instagram görseli işleyemedi (ERROR)"
+  },
+  "797eb7692849": {
+   "id": "797eb7692849",
+   "kaynak": "Hürriyet",
+   "baslik": "Uluslararası seviyede aranan uyuşturucu şüphelisi İstanbul'da yakalandı",
+   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamada, \"Belçika adli makamlarınca “Uyuşturucu Madde Ticareti ve Suç Örgütü Kurma” suçlarından difüzyonla uluslararası seviyede aranan S.G. isimli şahıs, İstanbul'da yakalandı.\" denildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/uluslararasi-seviyede-aranan-uyusturucu-suphelisi-istanbulda-yakalandi-43357525",
+   "zaman": "2026-10-28T09:57:37+03:00",
+   "kelimeler": [
+    "arana",
+    "istan",
+    "seviy",
+    "suphe",
+    "ulusl",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f5f65e3df7a3": {
+   "id": "f5f65e3df7a3",
+   "kaynak": "AA",
+   "baslik": "Borsa güne yatay başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yatay seyirle 11.150,96 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yatay-basladi/4103334",
+   "zaman": "2026-10-28T09:59:52+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "gune",
+    "yatay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "432a367319bf"
+  },
+  "b9a0351415ed": {
+   "id": "b9a0351415ed",
+   "kaynak": "Sözcü",
+   "baslik": "Mustafa Sarıgül YENİ Parti üyeliğini askıya alacak",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mustafa-sarigul-yeni-parti-uyeligini-askiya-alacak-p373477",
+   "zaman": "2026-10-28T10:00:49+03:00",
+   "kelimeler": [
+    "alaca",
+    "askiy",
+    "musta",
+    "parti",
+    "sarig",
+    "uyeli",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 10:03:28  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
+  "28.10 10:01:26  9 yeni haber",
   "28.10 09:51:57  Otomatik paylaşım başarısız: Instagram görseli zamanında işlemedi",
   "28.10 09:45:56  6 yeni haber",
   "28.10 09:31:28  3 yeni haber",
@@ -28379,9 +28572,7 @@
   "26.10 01:03:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bron",
   "26.10 01:01:22  1 yeni haber",
   "26.10 00:45:59  4 yeni haber",
-  "26.10 00:34:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. Eski AK Parti milletvekili Ertan Aydın",
-  "26.10 00:31:18  1 yeni haber",
-  "26.10 00:15:59  6 yeni haber"
+  "26.10 00:34:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. Eski AK Parti milletvekili Ertan Aydın"
  ],
  "otomatik": false
 }
