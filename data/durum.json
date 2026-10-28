@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "853653559eae": {
-   "id": "853653559eae",
-   "kaynak": "NTV",
-   "baslik": "İstanbul Barosu başkanlığına Ümit Kocasakal seçildi",
-   "ozet": "İstanbul Barosu'nun 2 gün süren 128. Olağan Genel Kurulu tamamlandı. 9 adayın yarıştığı Baro Başkanlığı seçimlerini Ümit Kocasakal kazandı.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbul-barosu-baskanligina-umit-kocasakal-secildi-1747959",
-   "zaman": "2026-10-25T22:21:51+03:00",
-   "kelimeler": [
-    "baros",
-    "baska",
-    "istan",
-    "kocas",
-    "secil",
-    "umit"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "39cb7eb7a25e"
-  },
   "70fc4e3632bb": {
    "id": "70fc4e3632bb",
    "kaynak": "AA",
@@ -30622,7 +30603,8 @@
     "topu"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "ee84cd4af3bb": {
    "id": "ee84cd4af3bb",
@@ -31526,9 +31508,63 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "12143a71c526": {
+   "id": "12143a71c526",
+   "kaynak": "AA",
+   "baslik": "Deniz Kuvvetleri Komutanlığına bağlı 29 gemi, Cumhuriyet Bayramı'nda 29 limanı ziyaret edecek",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Deniz Kuvvetleri Komutanlığına bağlı 29 gemiyle 29 Ekim Cumhuriyet Bayramı'nda 29 liman ziyareti yapılacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/deniz-kuvvetleri-komutanligina-bagli-29-gemi-cumhuriyet-bayraminda-29-limani-ziyaret-edecek/4104342",
+   "zaman": "2026-10-28T22:21:09+03:00",
+   "kelimeler": [
+    "29",
+    "bagli",
+    "bayra",
+    "cumhu",
+    "deniz",
+    "edece",
+    "gemi",
+    "komut",
+    "kuvve",
+    "liman",
+    "nda",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "69b3a54d3dcf": {
+   "id": "69b3a54d3dcf",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 28 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1748413",
+   "zaman": "2026-10-28T22:27:52+03:00",
+   "kelimeler": [
+    "2026",
+    "28",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekim",
+    "ekran",
+    "ikram",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "99621e514c74"
   }
  },
  "kayit": [
+  "28.10 22:31:19  1 yeni haber",
   "28.10 22:16:01  3 yeni haber",
   "28.10 22:02:36  4 yeni haber",
   "28.10 21:46:02  1 yeni haber",
@@ -31727,8 +31763,7 @@
   "26.10 19:16:20  4 yeni haber",
   "26.10 19:01:44  7 yeni haber",
   "26.10 18:31:16  4 yeni haber",
-  "26.10 17:46:12  5 yeni haber",
-  "26.10 17:31:19  3 yeni haber"
+  "26.10 17:46:12  5 yeni haber"
  ],
  "otomatik": false
 }
