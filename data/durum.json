@@ -1,95 +1,5 @@
 {
  "haberler": {
-  "4cfd8ec50cc4": {
-   "id": "4cfd8ec50cc4",
-   "kaynak": "Hürriyet",
-   "baslik": "Zonguldak'ta maden ocağındaki patlamaya ilişkin 3 kişi tutuklandı",
-   "ozet": "Zonguldak’ta 3 işçinin hayatını kaybettiği, 5 işçinin yaralandığı grizu patlamasına ilişkin soruşturmada işveren, iş sağlığı ve güvenliği uzmanı ve maden mühendisi tutuklandı. Firari işletme müdürü hakkında ise yakalama kararı çıkarıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/zonguldakta-maden-ocagindaki-patlamaya-iliskin-3-kisi-tutuklandi-43354728",
-   "zaman": "2026-10-25T20:36:18+03:00",
-   "kelimeler": [
-    "ilisk",
-    "kisi",
-    "maden",
-    "ocagi",
-    "patla",
-    "ta",
-    "tutuk",
-    "zongu"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "NTV"
-   ]
-  },
-  "a537416b6fb0": {
-   "id": "a537416b6fb0",
-   "kaynak": "NTV",
-   "baslik": "TUNGA-X'ten düşman unsuruna tam isabet. Saatte 300 kilometre hıza ulaşabiliyor",
-   "ozet": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ tarafından geliştirilen avcı İHA TUNGA-X, radar ve görüntü güdüm entegrasyonuyla temsili düşman İHA'sını tam isabetle vurdu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-tunga-xten-dusman-unsuruna-tam-isabet-saatte-300-kilometre-hiza-ulasabiliyor-1747946",
-   "zaman": "2026-10-25T20:36:51+03:00",
-   "kelimeler": [
-    "300",
-    "dusma",
-    "hiza",
-    "isabe",
-    "kilom",
-    "saatt",
-    "tam",
-    "ten",
-    "tunga",
-    "ulasa",
-    "unsur"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e2b7de5dc803"
-  },
-  "8cdc51690a01": {
-   "id": "8cdc51690a01",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İstanbul Barosu'nun yeni başkanı Ümit Kocasakal oldu",
-   "ozet": "Dünyanın en büyük barolarından birisi olan İstanbul Barosu'nda 128. Olağan Genel Kurul kapsamında başkanlık seçimi için binlerce avukat sandık başındaydı.",
-   "link": "https://www.bbc.com/turkce/articles/cq8jz33m09j1o",
-   "zaman": "2026-10-25T20:44:53+03:00",
-   "kelimeler": [
-    "baros",
-    "baska",
-    "istan",
-    "kocas",
-    "nun",
-    "umit",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "39cb7eb7a25e"
-  },
-  "7554c5222d40": {
-   "id": "7554c5222d40",
-   "kaynak": "TRT Haber",
-   "baslik": "Maden ocağındaki patlamaya ilişkin yakalanan firari işletme müdürü tutuklandı",
-   "ozet": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 kişinin hayatını kaybettiği, 5 kişinin yaralandığı özel maden ocağındaki grizu patlamasına ilişkin gözaltına alınan firari işletme müdürü tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/maden-ocagindaki-patlamaya-iliskin-yakalanan-firari-isletme-muduru-tutuklandi-961167.html",
-   "zaman": "2026-10-25T20:45:00+03:00",
-   "kelimeler": [
-    "firar",
-    "ilisk",
-    "islet",
-    "maden",
-    "mudur",
-    "ocagi",
-    "patla",
-    "tutuk",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "4cfd8ec50cc4"
-  },
   "82748f70a288": {
    "id": "82748f70a288",
    "kaynak": "AA",
@@ -244,24 +154,6 @@
    ],
    "durum": "yeni",
    "oncelikli": true
-  },
-  "d20640c62dca": {
-   "id": "d20640c62dca",
-   "kaynak": "TRT Haber",
-   "baslik": "Çankırı'da otomobil ile pikap çarpıştı: 1 ölü",
-   "ozet": "Çankırı'da otomobil ile pikabın çarpışması sonucu 1 kişi yaşamını yitirdi, 2 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/cankirida-otomobil-ile-pikap-carpisti-1-olu-961166.html",
-   "zaman": "2026-10-25T20:41:00+03:00",
-   "kelimeler": [
-    "canki",
-    "carpi",
-    "olu",
-    "otomo",
-    "pikap"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e6ca389a3391"
   },
   "3d5cd6f5d910": {
    "id": "3d5cd6f5d910",
@@ -30972,7 +30864,10 @@
     "telef"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "9311f00121d5": {
    "id": "9311f00121d5",
@@ -31038,9 +30933,129 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "ee84cd4af3bb": {
+   "id": "ee84cd4af3bb",
+   "kaynak": "AA",
+   "baslik": "İsrail'de Ortak Arap Listesi'nden muhalefete Netanyahu'ya karşı \"Yahudi-Arap ortaklığı\" çağrısı",
+   "ozet": "İsrail vatandaşı Filistinlileri temsil eden Ortak Arap Listesi lideri Yusuf Cabbarin, Binyamin Netanyahu hükümetinin devrilmesi için çalışmaya hazır olduklarını belirterek, muhalefete Yahudi-Arap ortaklığına dayalı değişim çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-ortak-arap-listesinden-muhalefete-netanyahuya-karsi-yahudi-arap-ortakligi-cagrisi/4104202",
+   "zaman": "2026-10-28T20:20:12+03:00",
+   "kelimeler": [
+    "arap",
+    "cagri",
+    "israi",
+    "karsi",
+    "liste",
+    "muhal",
+    "nden",
+    "netan",
+    "ortak",
+    "ya",
+    "yahud"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "acef1a965513": {
+   "id": "acef1a965513",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş, milletvekillerinin sorularını yanıtladı",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye\" sürecine ilişkin, \"Hiç kimse bu sürecin arkasında başka niyetler aramasın. Hiç kimse bunun üzerinden siyasi hesaplar peşinde olmasın. İnşallah milletimiz bu süreçten de yüz akıyla çıkacak.\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-milletvekillerinin-sorularini-yanitladi-43358607",
+   "zaman": "2026-10-28T20:31:03+03:00",
+   "kelimeler": [
+    "baska",
+    "kurtu",
+    "mille",
+    "sorul",
+    "tbmm",
+    "yanit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fee4ca32a04a": {
+   "id": "fee4ca32a04a",
+   "kaynak": "AA",
+   "baslik": "Suriye, Dera'ya yönelik hava saldırıları nedeniyle Ürdün'e nota verdi",
+   "ozet": "Suriye Dışişleri Bakanlığı, Ürdün'ün Şam Büyükelçisi Süfyan el-Kudat'ı ülkesinin Suriye'nin Dera ilindeki sivil yerleşim yerlerine düzenlediği hava saldırıları nedeniyle bakanlığa çağırarak protesto notası verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-deraya-yonelik-hava-saldirilari-nedeniyle-urdune-nota-verdi/4104213",
+   "zaman": "2026-10-28T20:32:21+03:00",
+   "kelimeler": [
+    "dera",
+    "hava",
+    "neden",
+    "nota",
+    "saldi",
+    "suriy",
+    "urdun",
+    "verdi",
+    "ya",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a61160ec00b5": {
+   "id": "a61160ec00b5",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan, İspanya Dışişleri Bakanı Bueno ile görüştü",
+   "ozet": "DIŞİŞLERİ Bakanı Hakan Fidan, İspanya Dışişleri Bakanı José Manuel Albares Bueno bir telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-ispanya-disisleri-bakani-bueno-ile-gorustu-43358613",
+   "zaman": "2026-10-28T20:33:38+03:00",
+   "kelimeler": [
+    "bakan",
+    "bueno",
+    "disis",
+    "fidan",
+    "gorus",
+    "hakan",
+    "ispan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "63822fad6da3"
+  },
+  "ab9425c494ba": {
+   "id": "ab9425c494ba",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da bazı yollar trafiğe kapatılacak",
+   "ozet": "İstanbul'da, 29 Ekim Cumhuriyet Bayramı programları kapsamında yarın Üsküdar, Kadıköy ve Ataşehir'de bazı yollar trafiğe kapatılacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-trafige-kapatilacak-961533.html",
+   "zaman": "2026-10-28T20:34:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "istan",
+    "kapat",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "66a8861733e7"
+  },
+  "a12c18541541": {
+   "id": "a12c18541541",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711",
+   "zaman": "2026-10-28T20:43:01+03:00",
+   "kelimeler": [
+    "ilced",
+    "istan",
+    "kapat",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "66a8861733e7"
   }
  },
  "kayit": [
+  "28.10 20:46:10  3 yeni haber",
   "28.10 20:31:16  5 yeni haber",
   "28.10 20:16:19  3 yeni haber",
   "28.10 20:01:25  1 yeni haber",
@@ -31239,8 +31254,7 @@
   "26.10 16:01:24  8 yeni haber",
   "26.10 15:31:23  2 yeni haber",
   "26.10 15:15:58  14 yeni haber",
-  "26.10 14:49:39  5 yeni haber",
-  "26.10 14:32:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
+  "26.10 14:49:39  5 yeni haber"
  ],
  "otomatik": false
 }
