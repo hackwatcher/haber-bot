@@ -30569,7 +30569,10 @@
     "uydu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "239e99bd6ce9": {
    "id": "239e99bd6ce9",
@@ -30891,9 +30894,154 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6d3d52c40926"
+  },
+  "a4df5d3edbf6": {
+   "id": "a4df5d3edbf6",
+   "kaynak": "TRT Haber",
+   "baslik": "Putin, Elon Musk ile uydu konusunda temas halinde olduklarını söyledi",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin SpaceX'in kurucusu Elon Musk ile alçak yörüngeli uydu sistemleri konusunda yakın temas halinde olduğunu belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/putin-elon-musk-ile-uydu-konusunda-temas-halinde-olduklarini-soyledi-961532.html",
+   "zaman": "2026-10-28T20:07:00+03:00",
+   "kelimeler": [
+    "elon",
+    "halin",
+    "konus",
+    "musk",
+    "olduk",
+    "putin",
+    "soyle",
+    "temas",
+    "uydu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d178c9403299"
+  },
+  "80afd681effd": {
+   "id": "80afd681effd",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev ile Cumhurbaşkanlığı Külliyesinde bir görüşme gerçekleştirdi. Görüşmede TürkiyeKazakistan ikili ilişkileri ile bölgesel ve küresel konular ele alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-gorustu-961531.html",
+   "zaman": "2026-10-28T20:07:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gorus",
+    "kazak",
+    "tokay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "362c98ad6cac"
+  },
+  "b1f558062069": {
+   "id": "b1f558062069",
+   "kaynak": "AA",
+   "baslik": "İklim değişikliğinin sağlığa etkileri son 10 yılda arttı",
+   "ozet": "İklim değişikliğinin yükselen sıcaklıklar ve şiddetli kuraklık gibi çevresel tehditler nedeniyle sağlığı tehdit eden sonuçları son 10 yılda önemli ölçüde arttı.",
+   "link": "https://www.aa.com.tr/tr/dunya/iklim-degisikliginin-sagliga-etkileri-son-10-yilda-artti/4104170",
+   "zaman": "2026-10-28T20:10:15+03:00",
+   "kelimeler": [
+    "10",
+    "artti",
+    "degis",
+    "etkil",
+    "iklim",
+    "sagli",
+    "yilda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63822fad6da3": {
+   "id": "63822fad6da3",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan, İspanyol mevkidaşı Albares ile telefonda görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, İspanya Dışişleri Bakanı Jose Manuel Albares ile telefon görüşmesi yaptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-ispanyol-mevkidasi-albares-ile-telefonda-gorustu/4104183",
+   "zaman": "2026-10-28T20:14:05+03:00",
+   "kelimeler": [
+    "albar",
+    "bakan",
+    "disis",
+    "fidan",
+    "gorus",
+    "ispan",
+    "mevki",
+    "telef"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9311f00121d5": {
+   "id": "9311f00121d5",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş: Hiç kimse Terörsüz Türkiye sürecinin arkasında başka niyetler aramasın",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye\" sürecine ilişkin, \"Hiç kimse bu sürecin arkasında başka niyetler aramasın. Hiç kimse bunun üzerinden siyasi hesaplar peşinde olmasın. İnşallah milletimiz bu süreçten de yüz akıyla çıkacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-hic-kimse-terorsuz-turkiye-surecinin-arkasinda-baska-niyetler-aramasin/4104186",
+   "zaman": "2026-10-28T20:14:39+03:00",
+   "kelimeler": [
+    "arama",
+    "arkas",
+    "baska",
+    "hic",
+    "kimse",
+    "kurtu",
+    "niyet",
+    "surec",
+    "tbmm",
+    "teror",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4853be239d73": {
+   "id": "4853be239d73",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da yarın 3 ilçede bazı yollar trafiğe kapatılacak",
+   "ozet": "İstanbul'da, 29 Ekim Cumhuriyet Bayramı programları kapsamında yarın Üsküdar, Kadıköy ve Ataşehir'de bazı yollar trafiğe kapatılacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yarin-3-ilcede-bazi-yollar-trafige-kapatilacak/4104198",
+   "zaman": "2026-10-28T20:18:27+03:00",
+   "kelimeler": [
+    "bazi",
+    "ilced",
+    "istan",
+    "kapat",
+    "trafi",
+    "yarin",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "99621e514c74": {
+   "id": "99621e514c74",
+   "kaynak": "NTV",
+   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 28 Ekim | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1748405",
+   "zaman": "2026-10-28T20:29:32+03:00",
+   "kelimeler": [
+    "28",
+    "bilet",
+    "ekim",
+    "ekran",
+    "hizli",
+    "mpi",
+    "sans",
+    "sonuc",
+    "sorgu",
+    "tikla",
+    "topu"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "28.10 20:31:16  5 yeni haber",
   "28.10 20:16:19  3 yeni haber",
   "28.10 20:01:25  1 yeni haber",
   "28.10 19:45:59  7 yeni haber",
@@ -31092,8 +31240,7 @@
   "26.10 15:31:23  2 yeni haber",
   "26.10 15:15:58  14 yeni haber",
   "26.10 14:49:39  5 yeni haber",
-  "26.10 14:32:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "26.10 14:31:21  7 yeni haber"
+  "26.10 14:32:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
  ],
  "otomatik": false
 }
