@@ -23257,7 +23257,8 @@
    "diger_kaynaklar": [
     "AA",
     "TRT Haber",
-    "XHABER"
+    "XHABER",
+    "Hürriyet"
    ]
   },
   "be4333c6c3b5": {
@@ -31480,6 +31481,44 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "86dbf21736c3": {
+   "id": "86dbf21736c3",
+   "kaynak": "Hürriyet",
+   "baslik": "Gözbebeğimiz 103 yaşında",
+   "ozet": "Ulu Önder Mustafa Kemal Atatürk’ün ilan ettiği Cumhuriyet’in 103’üncü yılı tüm yurtta büyük bir coşkuyla kutlanıyor. Yer-gök kırmızı beyaza bürünürken 7’den 77’ye tüm vatandaşlar, 103 yıldır ‘gözbebeği’ gibi baktığı Cumhuriyet’e sahip olmanın gururunu yaşıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/gozbebegimiz-103-yasinda-43358803",
+   "zaman": "2026-10-29T02:03:06+03:00",
+   "kelimeler": [
+    "103",
+    "gozbe",
+    "yasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9000445f291e"
+  },
+  "ecdbde24f4d8": {
+   "id": "ecdbde24f4d8",
+   "kaynak": "Hürriyet",
+   "baslik": "MHP lideri Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, 29 Ekim Cumhuriyet Bayramı dolayısıyla mesaj yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-43358804",
+   "zaman": "2026-10-29T02:10:07+03:00",
+   "kelimeler": [
+    "29",
+    "bahce",
+    "bayra",
+    "cumhu",
+    "den",
+    "ekim",
+    "lider",
+    "mesaj",
+    "mhp"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8ec2084a1a48"
   }
  },
  "kayit": [
