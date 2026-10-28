@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "ffe29d0cb4e5": {
-   "id": "ffe29d0cb4e5",
-   "kaynak": "NTV",
-   "baslik": "TUNGA-X düşman unsurunu tam isabetle imha etti",
-   "ozet": "Avcı insansız hava aracı TUNGA-X, radar ve görüntü güdüm entegrasyonuyla temsili düşman İHA unsurunu tam isabetle vurarak başarıyla etkisiz hale getirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti-1747956",
-   "zaman": "2026-10-25T21:51:48+03:00",
-   "kelimeler": [
-    "dusma",
-    "etti",
-    "imha",
-    "isabe",
-    "tam",
-    "tunga",
-    "unsur"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f4ba0302c097"
-  },
-  "4fd764686821": {
-   "id": "4fd764686821",
-   "kaynak": "TRT Haber",
-   "baslik": "İşgalci İsrail Batı Şeria'da 3 günde 50 kişiyi gözaltına aldı",
-   "ozet": "Katil İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentinde 3 günde 50 kişiyi gözaltına aldı.",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-3-gunde-50-kisiyi-gozaltina-aldi-961170.html",
-   "zaman": "2026-10-25T21:49:00+03:00",
-   "kelimeler": [
-    "50",
-    "aldi",
-    "bati",
-    "gozal",
-    "gunde",
-    "isgal",
-    "israi",
-    "kisiy",
-    "seria"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "853653559eae": {
    "id": "853653559eae",
    "kaynak": "NTV",
@@ -15451,7 +15407,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "NTV"
+    "NTV",
+    "Sözcü"
    ]
   },
   "e408a4f9b801": {
@@ -19745,7 +19702,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "09ddb4dada9e": {
@@ -31268,10 +31226,227 @@
     "yaris"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "78859ac1427c": {
+   "id": "78859ac1427c",
+   "kaynak": "TRT Haber",
+   "baslik": "2026'nın ilk yarısında rekor sayıda ciddi siber olay kaydedildi",
+   "ozet": "İtalya merkezli Bilgi Güvenliği Kuruluşu Clusit, 2026'nın ilk yarısında yaşanan 4 bin 911 \"ciddi siber olay\" ile küresel anlamda rekor bir sayının kaydedildiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/2026nin-ilk-yarisinda-rekor-sayida-ciddi-siber-olay-kaydedildi-961536.html",
+   "zaman": "2026-10-28T21:20:00+03:00",
+   "kelimeler": [
+    "2026",
+    "ciddi",
+    "ilk",
+    "kayde",
+    "nin",
+    "olay",
+    "rekor",
+    "sayid",
+    "siber",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a97491e1ee74"
+  },
+  "7cdc2d674cd4": {
+   "id": "7cdc2d674cd4",
+   "kaynak": "AA",
+   "baslik": "Türk Hava Kuvvetlerinden Kıbrıs Adası'nın güneyinde ve Akdeniz'in uluslararası hava sahasında eğitim uçuşu",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Hava Kuvvetleri Komutanlığına bağlı muharip ve destek uçaklarının katılımıyla Kıbrıs Adası'nın güneyinde ve Akdeniz'in uluslararası hava sahasında eğitim uçuşu yaptığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-hava-kuvvetlerinden-kibris-adasinin-guneyinde-ve-akdenizin-uluslararasi-hava-sahasinda-egitim-ucusu/4104281",
+   "zaman": "2026-10-28T21:44:40+03:00",
+   "kelimeler": [
+    "adasi",
+    "akden",
+    "egiti",
+    "guney",
+    "hava",
+    "in",
+    "kibri",
+    "kuvve",
+    "nin",
+    "sahas",
+    "turk",
+    "ucusu",
+    "ulusl"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "960dffa26bda": {
+   "id": "960dffa26bda",
+   "kaynak": "Hürriyet",
+   "baslik": "Kara para aklama soruşturmasında yeni gelişme... 10 şüpheli hakkında gözaltı kararı",
+   "ozet": "İstanbul'da, yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında 10 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasinda-yeni-gelisme-10-supheli-hakkinda-gozalti-karari-43358657",
+   "zaman": "2026-10-28T21:46:26+03:00",
+   "kelimeler": [
+    "10",
+    "aklam",
+    "gelis",
+    "gozal",
+    "hakki",
+    "kara",
+    "karar",
+    "para",
+    "sorus",
+    "suphe",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c9c2d214e74"
+  },
+  "78df90418a23": {
+   "id": "78df90418a23",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+   "ozet": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede, TürkiyeABD ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961537.html",
+   "zaman": "2026-10-28T21:53:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "b9ccf0864f7f": {
+   "id": "b9ccf0864f7f",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Görüşmede, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/4104286",
+   "zaman": "2026-10-28T21:53:11+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "telef",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4aeebc8383d9"
+  },
+  "ad19fe6e13c8": {
+   "id": "ad19fe6e13c8",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhuriyet’in 103’üncü yılında Türk dünyası Ankara’da tek ses oldu",
+   "ozet": "Türk Devletleri Teşkilatı (TDT) Cumhuriyet Bayramı Konserleri kapsamında gerçekleştirilen Türk Dünyası Özel Konseri, Cumhuriyet Bayramı coşkusunu Türk dünyasının sesleri ve sahne kültürüyle buluşturdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhuriyetin-103uncu-yilinda-turk-dunyasi-ankarada-tek-ses-oldu-43358664",
+   "zaman": "2026-10-28T21:53:27+03:00",
+   "kelimeler": [
+    "103",
+    "ankar",
+    "cumhu",
+    "dunya",
+    "in",
+    "ses",
+    "tek",
+    "turk",
+    "uncu",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f90a046b86a5": {
+   "id": "f90a046b86a5",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
+   "ozet": "Son dakika haberi... Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Görüşmede, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu-43358668",
+   "zaman": "2026-10-28T21:54:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "telef",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "4aeebc8383d9"
+  },
+  "ddaceba9004a": {
+   "id": "ddaceba9004a",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İsrail seçim çıkmazını nasıl aşabilir? İşte olası dört senaryo",
+   "ozet": "Oyların %85'i sayıldıktan sonra, her şey bir çıkmaza işaret ediyor. En olası sonuç yeni seçimler olabilir.",
+   "link": "https://www.bbc.com/turkce/articles/ck87zw3p5lx5o",
+   "zaman": "2026-10-28T21:55:00+03:00",
+   "kelimeler": [
+    "asabi",
+    "cikma",
+    "dort",
+    "israi",
+    "iste",
+    "nasil",
+    "olasi",
+    "secim",
+    "senar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ecbdb1595cb8": {
+   "id": "ecbdb1595cb8",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+   "ozet": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1748411",
+   "zaman": "2026-10-28T21:57:40+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "78df90418a23"
+  },
+  "03fcad408be5": {
+   "id": "03fcad408be5",
+   "kaynak": "Sözcü",
+   "baslik": "Cumhurbaşkanı Erdoğan ile Trump telefonda görüştü",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/erdogan-trump-gorusmesi-28-ekim-2026-p373724",
+   "zaman": "2026-10-28T21:58:50+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gorus",
+    "telef",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "362c98ad6cac"
   }
  },
  "kayit": [
+  "28.10 22:02:36  4 yeni haber",
   "28.10 21:46:02  1 yeni haber",
   "28.10 21:30:53  4 yeni haber",
   "28.10 21:30:53  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
@@ -31470,8 +31645,7 @@
   "26.10 18:31:16  4 yeni haber",
   "26.10 17:46:12  5 yeni haber",
   "26.10 17:31:19  3 yeni haber",
-  "26.10 17:15:57  16 yeni haber",
-  "26.10 16:33:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sonrası olay | \"Dövüş antrenörüyüm\" dedi, sürücüye yumruk attı"
+  "26.10 17:15:57  16 yeni haber"
  ],
  "otomatik": false
 }
