@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "c73b4a01fb0f": {
-   "id": "c73b4a01fb0f",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş, Süper Lig'de yarın Başakşehir'i ağırlayacak",
-   "ozet": "Siyah-beyazlılarda Orkun Kökçü, Ümit Akdağ ve Miretti'nin Başakşehir karşısında formasından uzak kalması bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-basaksehiri-agirlayacak/4099981",
-   "zaman": "2026-10-25T09:36:19+03:00",
-   "kelimeler": [
-    "agirl",
-    "basak",
-    "besik",
-    "lig",
-    "super",
-    "yarin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a78fec082e1e"
-  },
-  "9178c5f6143a": {
-   "id": "9178c5f6143a",
-   "kaynak": "TRT Haber",
-   "baslik": "Kars'ta kış kendini hissettirmeye başladı",
-   "ozet": "Kars'ta sabah saatlerinde hava sıcaklığı sıfırın altında 6 dereceye kadar düştü. Dondurucu soğuk nedeniyle park halindeki araçların camları buz tutarken, sürücüler buzları temizlemek için uğraştı.",
-   "link": "https://www.trthaber.com/haber/turkiye/karsta-kis-kendini-hissettirmeye-basladi-961120.html",
-   "zaman": "2026-10-25T09:42:00+03:00",
-   "kelimeler": [
-    "basla",
-    "hisse",
-    "kars",
-    "kendi",
-    "kis",
-    "ta"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2d5911ff9d9f": {
-   "id": "2d5911ff9d9f",
-   "kaynak": "Hürriyet",
-   "baslik": "Aynı bölgede 3 gün arayla ikinci vahşet: Sokak ortasında kurşun yağmuruna tutup öldürdüler",
-   "ozet": "İstanbul Kağıthane'de 28 yaşındaki Tolga Derebaşı isimli genç, motosikletle yanına yaklaşan iki kişinin silahlı saldırısına uğradı. Can havliyle çevredeki bir oto yıkamacıya sığınan Derebaşı, kaldırıldığı hastanede yaşamını yitirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ayni-bolgede-3-gun-arayla-ikinci-vahset-sokak-ortasinda-kursun-yagmuruna-tuttup-oldurduler-43354096",
-   "zaman": "2026-10-25T09:42:47+03:00",
-   "kelimeler": [
-    "arayl",
-    "ayni",
-    "bolge",
-    "gun",
-    "ikinc",
-    "kursu",
-    "oldur",
-    "ortas",
-    "sokak",
-    "tutup",
-    "vahse",
-    "yagmu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "21a4c3ef0d66": {
-   "id": "21a4c3ef0d66",
-   "kaynak": "Hürriyet",
-   "baslik": "Maçın 90'ıncı dakikasında yere yığılmıştı: Kalp krizi geçiren futbolcuya anjiyo yapıldı",
-   "ozet": "Bartın'daki lig mücadelesinde sahada aniden fenalaşan Gençlik Mimar Sinan Spor oyuncusu Akın Karaaslan yürekleri ağza getirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/macin-90inci-dakikasinda-yere-yigilmisti-kalp-krizi-geciren-futbolcuya-anjiyo-yapildi-43354108",
-   "zaman": "2026-10-25T09:45:00+03:00",
-   "kelimeler": [
-    "90",
-    "anjiy",
-    "dakik",
-    "futbo",
-    "gecir",
-    "inci",
-    "kalp",
-    "krizi",
-    "macin",
-    "yapil",
-    "yere",
-    "yigil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f986a8f68b9b"
-  },
   "385fb7c8fad1": {
    "id": "385fb7c8fad1",
    "kaynak": "TRT Haber",
@@ -103,25 +17,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "76565b9ccf8d"
-  },
-  "7c3cadf4bf9e": {
-   "id": "7c3cadf4bf9e",
-   "kaynak": "AA",
-   "baslik": "Sırbistan'da halk erken genel seçim için sandık başında",
-   "ozet": "Sırbistan'daki seçmenler, erken genel seçimde oylarını kullanmak için sandık başına gitti.",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-halk-erken-genel-secim-icin-sandik-basinda/4099986",
-   "zaman": "2026-10-25T09:44:49+03:00",
-   "kelimeler": [
-    "basin",
-    "erken",
-    "genel",
-    "halk",
-    "sandi",
-    "secim",
-    "sirbi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "0ea97ecbd826": {
    "id": "0ea97ecbd826",
@@ -26798,7 +26693,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "0780fcc21e8c": {
    "id": "0780fcc21e8c",
@@ -27807,7 +27705,10 @@
     "yuzde"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "aaf8eae7e7fe": {
    "id": "aaf8eae7e7fe",
@@ -28105,9 +28006,184 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4be44ebb8f7d": {
+   "id": "4be44ebb8f7d",
+   "kaynak": "AA",
+   "baslik": "İsrail genel seçimlerinde oyların yüzde 28'i sayılırken, Netanyahu bloğu dışındaki partiler öne geçti",
+   "ozet": "İsrail'deki genel seçimlerde oyların yüzde 28'den fazlasının sayılmasının ardından açıklanan sonuçlara göre, muhalefetteki partiler oyların yüzde 51,3'ünü alırken, Başbakan Binyamin Netanyahu'nun bloğu yüzde 48,7'de kaldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-genel-secimlerinde-oylarin-yuzde-28i-sayilirken-netanyahu-blogu-disindaki-partiler-one-gecti/4103060",
+   "zaman": "2026-10-27T23:10:39+03:00",
+   "kelimeler": [
+    "28",
+    "blogu",
+    "disin",
+    "gecti",
+    "genel",
+    "israi",
+    "netan",
+    "one",
+    "oylar",
+    "parti",
+    "sayil",
+    "secim",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1839eeebe2f8"
+  },
+  "b1d4ebbe90bd": {
+   "id": "b1d4ebbe90bd",
+   "kaynak": "AA",
+   "baslik": "DOSYA: THY Avrupa Ligi",
+   "ozet": "Basketbol THY Avrupa Ligi'nde yeni sezon heyecanı başlarken, organizasyon tarihine 11 şampiyonlukla damga vuran Real Madrid en başarılı takım, takımları toplamda 14 zafer elde eden İspanya ise en başarılı ülke olarak zirvedeki yerini koruyor.",
+   "link": "https://www.aa.com.tr/tr/spor/dosya-thy-avrupa-ligi/4103296",
+   "zaman": "2026-10-28T09:17:59+03:00",
+   "kelimeler": [
+    "avrup",
+    "dosya",
+    "ligi",
+    "thy"
+   ],
+   "durum": "hata",
+   "oncelikli": true,
+   "hata": "Instagram görseli zamanında işlemedi"
+  },
+  "e675da702e86": {
+   "id": "e675da702e86",
+   "kaynak": "TRT Haber",
+   "baslik": "Brent petrolün varili 111,22 dolardan işlem görüyor",
+   "ozet": "Brent petrolün varili, uluslararası vadeli piyasalarda 111,22 dolardan işlem görüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/brent-petrolun-varili-11122-dolardan-islem-goruyor-961440.html",
+   "zaman": "2026-10-28T09:31:00+03:00",
+   "kelimeler": [
+    "111",
+    "22",
+    "brent",
+    "dolar",
+    "goruy",
+    "islem",
+    "petro",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "350de03cc3d0": {
+   "id": "350de03cc3d0",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: Tahran toplantısı, bölgesel güvenlik konusunda diyaloğu ilerletmek için fırsat sağladı",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, başkent Tahranda Türkiye, Suudi Arabistan, Pakistan ve İran heyetleri arasındaki dörtlü toplantıya ilişkin, \"Tahran toplantısı, bölgesel güvenlik konusunda diyaloğu ilerletmek ve tehditler ile zorluklara karşı mücadele etmek için bir fırsat…",
+   "link": "https://www.trthaber.com/haber/dunya/iran-tahran-toplantisi-bolgesel-guvenlik-konusunda-diyalogu-ilerletmek-icin-firsat-sagladi-961437.html",
+   "zaman": "2026-10-28T09:31:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "diyal",
+    "firsa",
+    "guven",
+    "ilerl",
+    "iran",
+    "konus",
+    "sagla",
+    "tahra",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3a2275b97539": {
+   "id": "3a2275b97539",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatları düşüşe geçti: Gram altın, çeyrek altın ve ons altın ne kadar?",
+   "ozet": "Gram altın, güne düşüşle başlamasının ardından 6 bin 458 liradan işlem görüyor. Çeyrek altın 10 bin 616 liradan, Cumhuriyet altını 42 bin 273 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-dususe-gecti-gram-altin-ceyrek-altin-ve-ons-altin-ne-kadar-961439.html",
+   "zaman": "2026-10-28T09:36:00+03:00",
+   "kelimeler": [
+    "altin",
+    "ceyre",
+    "dusus",
+    "fiyat",
+    "gecti",
+    "gram",
+    "ons"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "1c992874dfd0": {
+   "id": "1c992874dfd0",
+   "kaynak": "AA",
+   "baslik": "NBA'de Lakers, Luka Doncic'in 41 sayı attığı maçta sezonun ilk mağlubiyetini aldı",
+   "ozet": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers, Luka Doncic'in 41 sayı attığı maçta, sahasında Portland Trail Blazers'a 136-129 yenildi.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-41-sayi-attigi-macta-sezonun-ilk-maglubiyetini-aldi/4103307",
+   "zaman": "2026-10-28T09:38:56+03:00",
+   "kelimeler": [
+    "41",
+    "aldi",
+    "attig",
+    "donci",
+    "ilk",
+    "in",
+    "laker",
+    "luka",
+    "macta",
+    "maglu",
+    "nba",
+    "sayi",
+    "sezon"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "59f17e80f4fb": {
+   "id": "59f17e80f4fb",
+   "kaynak": "NTV",
+   "baslik": "Manastır'da filizlenen özgürlük fikri. Ata'nın anıları okulunda yaşatılıyor",
+   "ozet": "Atatürk'ün Kurtuluş Savaşı'nda gösterdiği liderlik ve sonrasında kurduğu devlet için aldığı yol kolay olmadı. NTV'den Deniz Tüysüz, Atatürk'ün fikirlerinin oluştuğu Manastır Askeri İdadisi'ne gitti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-manastirda-filizlenen-ozgurluk-fikri-atanin-anilari-okulunda-yasatiliyor-1748300",
+   "zaman": "2026-10-28T09:41:24+03:00",
+   "kelimeler": [
+    "anila",
+    "ata",
+    "fikri",
+    "filiz",
+    "manas",
+    "nin",
+    "okulu",
+    "ozgur",
+    "yasat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c35586116175": {
+   "id": "c35586116175",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasında Pasifik Holding'in üç yöneticisinin mal varlıklarına tedbir",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmada üç kişinin mal varlıklarına tedbir kararı uygulandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-tedbir-1748298",
+   "zaman": "2026-10-28T09:45:43+03:00",
+   "kelimeler": [
+    "fon",
+    "holdi",
+    "in",
+    "mal",
+    "pasif",
+    "sorus",
+    "tedbi",
+    "uc",
+    "varli",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3128a62403c"
   }
  },
  "kayit": [
+  "28.10 09:51:57  Otomatik paylaşım başarısız: Instagram görseli zamanında işlemedi",
+  "28.10 09:45:56  6 yeni haber",
   "28.10 09:31:28  3 yeni haber",
   "28.10 09:16:03  3 yeni haber",
   "28.10 09:01:29  2 yeni haber",
@@ -28305,9 +28381,7 @@
   "26.10 00:45:59  4 yeni haber",
   "26.10 00:34:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. Eski AK Parti milletvekili Ertan Aydın",
   "26.10 00:31:18  1 yeni haber",
-  "26.10 00:15:59  6 yeni haber",
-  "26.10 00:03:23  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Sırbistan'da başbakan adayı Vucic, erken genel seçimi kaybettiklerini ",
-  "26.10 00:01:19  2 yeni haber"
+  "26.10 00:15:59  6 yeni haber"
  ],
  "otomatik": false
 }
