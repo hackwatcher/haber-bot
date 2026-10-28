@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "7ec438c2e98f": {
-   "id": "7ec438c2e98f",
-   "kaynak": "AA",
-   "baslik": "Sermaye piyasası işlemleri soruşturmalarında Gürol Sami Özer gözaltına alındı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında, Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-gurol-sami-ozer-gozaltina-alindi/4100308",
-   "zaman": "2026-10-25T17:24:45+03:00",
-   "kelimeler": [
-    "alind",
-    "gozal",
-    "gurol",
-    "islem",
-    "ozer",
-    "piyas",
-    "sami",
-    "serma",
-    "sorus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "TRT Haber"
-   ]
-  },
-  "2fb09c481806": {
-   "id": "2fb09c481806",
-   "kaynak": "AA",
-   "baslik": "Batı Trakya Türk Azınlığı Danışma Kurulu, Yunanistan'ın müftü atamalarına tepki gösterdi",
-   "ozet": "Batı Trakya Türk Azınlığı Danışma Kurulu (BTTADK), Yunanistan'ın Gümülcine ve İskeçe müftülüklerine yaptığı atamalara tepki göstererek, azınlığın iradesinin dikkate alınması ve müftülük sorununun diyalog yoluyla çözülmesi çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/bati-trakya-turk-azinligi-danisma-kurulu-yunanistanin-muftu-atamalarina-tepki-gosterdi/4100312",
-   "zaman": "2026-10-25T17:29:09+03:00",
-   "kelimeler": [
-    "atama",
-    "azinl",
-    "bati",
-    "danis",
-    "goste",
-    "in",
-    "kurul",
-    "muftu",
-    "tepki",
-    "traky",
-    "turk",
-    "yunan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cd7e9b2bfe62": {
-   "id": "cd7e9b2bfe62",
-   "kaynak": "Hürriyet",
-   "baslik": "Park halindeki araçtan iniyordu: Otomobilin çocuğa çarptığı anlar kamerada",
-   "ozet": "Mardin Nusaybin'de caddede park eden hafif ticari araçtan inmeye çalışan çocuk, karşı yönden gelen otomobilin araca ve kendisine çarpması sonucu savruldu. Çevredekilerin yardıma koştuğu kaza anı anbean görüntülenirken, yaralı çocuk sağlık ekiplerince hastaneye ulaştırıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/park-halindeki-aractan-iniyordu-otomobilin-cocuga-carptigi-anlar-kamerada-43354613",
-   "zaman": "2026-10-25T17:30:00+03:00",
-   "kelimeler": [
-    "anlar",
-    "aract",
-    "carpt",
-    "cocug",
-    "halin",
-    "iniyo",
-    "kamer",
-    "otomo",
-    "park"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "1cca1c3c05b1": {
    "id": "1cca1c3c05b1",
    "kaynak": "NTV",
@@ -29575,7 +29505,8 @@
    "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "NTV"
    ],
    "paylasildi": "2026-10-28T17:04:27.680793+03:00",
    "ig_id": "18118633438990652",
@@ -30019,9 +29950,224 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "adf41d35b146": {
+   "id": "adf41d35b146",
+   "kaynak": "AA",
+   "baslik": "Beştepe Millet Ormanı, doğa ve kültürü başkentin merkezinde buluşturacak",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla yarın açılışı yapılacak Beştepe Millet Ormanı, 645 bin metrekarelik alanda kurulu tematik bahçeleri, yürüyüş ve bisiklet yolları, çocuk parkları ve kültürel duraklarıyla başkentlilere hizmet verecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/bestepe-millet-ormani-doga-ve-kulturu-baskentin-merkezinde-bulusturacak/4103919",
+   "zaman": "2026-10-28T16:38:46+03:00",
+   "kelimeler": [
+    "baske",
+    "beste",
+    "bulus",
+    "doga",
+    "kultu",
+    "merke",
+    "mille",
+    "orman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b5e552b36d8a": {
+   "id": "b5e552b36d8a",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev'i karşıladı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyaret için Türkiye'ye gelen Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev'i, Ankara Havalimanı'nda karşıladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayevi-karsiladi/4103948",
+   "zaman": "2026-10-28T16:54:04+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "karsi",
+    "kazak",
+    "tokay"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7ec510dabae6"
+  },
+  "747aab292fd2": {
+   "id": "747aab292fd2",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: İspanya halkının acısını yürekten paylaşıyoruz",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İspanya'da meydana gelen tren kazası nedeniyle geçmiş olsun ve taziye mesajı yayımlayarak, İspanya halkı ve hükümetine Türkiye'nin birlik ve dayanışma mesajlarını iletti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ispanya-halkinin-acisini-yurekten-paylasiyoruz-961516.html",
+   "zaman": "2026-10-28T17:10:00+03:00",
+   "kelimeler": [
+    "acisi",
+    "cumhu",
+    "erdog",
+    "halki",
+    "ispan",
+    "payla",
+    "yurek"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "a15bd6af91ba": {
+   "id": "a15bd6af91ba",
+   "kaynak": "TRT Haber",
+   "baslik": "Hong Kong, kuş gribi salgını nedeniyle Danimarka ve ABD'den kanatlı ithalatını durdurdu",
+   "ozet": "Çin hükümeti, Danimarka ve ABD'nin bazı bölgelerindeki kuş gribi salgınları nedeniyle bu ülkelerden kanatlı hayvan eti ve ürünleri ithalatını durdurduğunu bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/hong-kong-kus-gribi-salgini-nedeniyle-danimarka-ve-abdden-kanatli-ithalatini-durdurdu-961517.html",
+   "zaman": "2026-10-28T17:11:00+03:00",
+   "kelimeler": [
+    "abd",
+    "danim",
+    "den",
+    "durdu",
+    "gribi",
+    "hong",
+    "ithal",
+    "kanat",
+    "kong",
+    "kus",
+    "neden",
+    "salgi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8abb08e76b9f": {
+   "id": "8abb08e76b9f",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan İspanya'ya geçmiş olsun mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İspanya'da çok sayıda kişinin hayatını kaybetmesine yol açan tren kazası dolayısıyla geçmiş olsun mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ispanyaya-gecmis-olsun-mesaji-43358442",
+   "zaman": "2026-10-28T17:11:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "erdog",
+    "gecmi",
+    "ispan",
+    "mesaj",
+    "olsun",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8fe50a06894f": {
+   "id": "8fe50a06894f",
+   "kaynak": "AA",
+   "baslik": "Pancar üreticisi çiftçilerin hesaplarına 5'inci avans ödemeleri aktarıldı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, toplam 952 milyon lira büyüklüğündeki 5'inci avans ödemelerini pancar üreticisi çiftçilerin hesaplarına aktardıklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/pancar-ureticisi-ciftcilerin-hesaplarina-5inci-avans-odemeleri-aktarildi/4103968",
+   "zaman": "2026-10-28T17:12:49+03:00",
+   "kelimeler": [
+    "aktar",
+    "avans",
+    "ciftc",
+    "hesap",
+    "inci",
+    "odeme",
+    "panca",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "73f2a7e6434d": {
+   "id": "73f2a7e6434d",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan İspanya'daki iki hızlı trenin çarpıştığı kazaya ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanı Erdoğan, \"Dost İspanya'da bu sabah meydana gelen tren kazasından etkilenenlere geçmiş olsun dileklerimi iletiyorum. Kazada yakınlarını kaybedenlerin acısını ülkem ve milletim adına yürekten paylaşıyorum.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-ispanyadaki-iki-hizli-trenin-carpistigi-kazaya-iliskin-paylasim/4103976",
+   "zaman": "2026-10-28T17:15:41+03:00",
+   "kelimeler": [
+    "carpi",
+    "cumhu",
+    "daki",
+    "dan",
+    "erdog",
+    "hizli",
+    "iki",
+    "ilisk",
+    "ispan",
+    "kazay",
+    "payla",
+    "treni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "5612a93ea5f3": {
+   "id": "5612a93ea5f3",
+   "kaynak": "TRT Haber",
+   "baslik": "5'inci avans ödemeleri pancar çiftçilerinin hesaplarına yatırıldı",
+   "ozet": "Tarım ve Orman Bakanlığınca, toplam 952 milyon lira büyüklüğündeki 5'inci avans ödemeleri pancar üreticisi çiftçilerin hesaplarına aktarıldı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/5inci-avans-odemeleri-pancar-ciftcilerinin-hesaplarina-yatirildi-961518.html",
+   "zaman": "2026-10-28T17:17:00+03:00",
+   "kelimeler": [
+    "avans",
+    "ciftc",
+    "hesap",
+    "inci",
+    "odeme",
+    "panca",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8fe50a06894f"
+  },
+  "c6b788933bab": {
+   "id": "c6b788933bab",
+   "kaynak": "AA",
+   "baslik": "Brezilya'da seçimi kaybeden Bolsonaro, yurt dışı çıkış yasağına rağmen Arjantin üzerinden ABD'ye kaçtı",
+   "ozet": "Brezilya'da devlet başkanlığı seçimini kaybeden Bolsonaro'nun, hakkındaki yurt dışına çıkış yasağına ve pasaportunun iptaline rağmen ailesiyle kara yoluyla önce Arjantin'e geçtiği, buradan da özel uçakla Ekvador üzerinden ABD'ye kaçtığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/brezilyada-secimi-kaybeden-bolsonaro-yurt-disi-cikis-yasagina-ragmen-arjantin-uzerinden-abdye-kacti/4103987",
+   "zaman": "2026-10-28T17:21:28+03:00",
+   "kelimeler": [
+    "abd",
+    "arjan",
+    "bolso",
+    "brezi",
+    "cikis",
+    "disi",
+    "kacti",
+    "kaybe",
+    "ragme",
+    "secim",
+    "uzeri",
+    "yasag",
+    "ye",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb87f3092335": {
+   "id": "eb87f3092335",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan İspanya'ya taziye mesajı",
+   "ozet": "Cumhurbaşkanı Erdoğan, İspanya'daki kazaya ilişkin başsağlığı mesajı paylaştı.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-ispanyaya-taziye-mesaji-1748389",
+   "zaman": "2026-10-28T17:23:45+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "erdog",
+    "ispan",
+    "mesaj",
+    "taziy",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2a2bdd5df972"
   }
  },
  "kayit": [
+  "28.10 17:31:20  7 yeni haber",
   "28.10 17:15:55  4 yeni haber",
   "28.10 17:04:27  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Türkiye'den İspanyaya taziye mesajı",
   "28.10 17:01:36  4 yeni haber",
@@ -30220,8 +30366,7 @@
   "26.10 12:31:24  3 yeni haber",
   "26.10 12:16:14  11 yeni haber",
   "26.10 12:01:32  3 yeni haber",
-  "26.10 11:54:00  10 yeni haber",
-  "26.10 11:31:23  11 yeni haber"
+  "26.10 11:54:00  10 yeni haber"
  ],
  "otomatik": false
 }
