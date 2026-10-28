@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "1c885dbe7d51": {
-   "id": "1c885dbe7d51",
-   "kaynak": "NTV",
-   "baslik": "Bakanlık piyasadan toplattı. Boya setinde kimyasal risk",
-   "ozet": "Ticaret Bakanlığı, kimyasal risk taşıdığı belirlenen çocuklar için \"Tablo fırça ve sulu boya seti\"nin toplatıldığını duyurdu.",
-   "link": "https://www.ntv.com.tr/turkiye/bakanlik-piyasadan-toplatti-boya-setinde-kimyasal-risk-1747930",
-   "zaman": "2026-10-25T17:47:35+03:00",
-   "kelimeler": [
-    "bakan",
-    "boya",
-    "kimya",
-    "piyas",
-    "risk",
-    "setin",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "28dc7f9d7f52": {
-   "id": "28dc7f9d7f52",
-   "kaynak": "NTV",
-   "baslik": "Ankara'da uyuşturucu operasyonları. Bir haftada 69 şüpheli tutuklandı",
-   "ozet": "Ankara'da, uyuşturucu ticaretine yönelik olarak son 1 haftada gerçekleştirilen operasyonlarda gözaltına alınan 154 şüpheliden 69'u tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-uyusturucu-operasyonlari-bir-haftada-69-supheli-tutuklandi-1747931",
-   "zaman": "2026-10-25T17:51:04+03:00",
-   "kelimeler": [
-    "69",
-    "ankar",
-    "hafta",
-    "opera",
-    "suphe",
-    "tutuk",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "793a71065fb0": {
-   "id": "793a71065fb0",
-   "kaynak": "NTV",
-   "baslik": "Ehliyetsiz sürücü polisi görünce yer değiştirdi. Drondan kaçamadı",
-   "ozet": "Kırıkkale'de trafik denetimini fark edince yolcuyla yer değiştiren ehliyetsiz sürücü, drona yakalandı. Sürücüye ve araç sahibine toplam 80 bin lira idari para cezası uygulandı.",
-   "link": "https://www.ntv.com.tr/turkiye/ehliyetsiz-surucu-polisi-gorunce-yer-degistirdi-drondan-kacamadi-1747932",
-   "zaman": "2026-10-25T17:56:22+03:00",
-   "kelimeler": [
-    "degis",
-    "drond",
-    "ehliy",
-    "gorun",
-    "kacam",
-    "polis",
-    "suruc",
-    "yer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5aa60fea7d48": {
-   "id": "5aa60fea7d48",
-   "kaynak": "AA",
-   "baslik": "Fransa'da fırtınaların ardından yaklaşık 59 bin hanede elektrik kesintisi sürüyor",
-   "ozet": "Fransa'da Austen ve Boelo fırtınaları nedeniyle yaklaşık 59 bin hanede elektrik kesintisi devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor/4100321",
-   "zaman": "2026-10-25T17:51:21+03:00",
-   "kelimeler": [
-    "59",
-    "ardin",
-    "bin",
-    "elekt",
-    "firti",
-    "frans",
-    "haned",
-    "kesin",
-    "suruy",
-    "yakla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e2423e2daaaa"
-  },
   "bd959316c7ef": {
    "id": "bd959316c7ef",
    "kaynak": "AA",
@@ -21648,7 +21567,8 @@
     "yapil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3588e596f87e": {
    "id": "3588e596f87e",
@@ -24062,7 +23982,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6f47496c9ec8": {
    "id": "6f47496c9ec8",
@@ -30236,9 +30159,226 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "11fcfaabe148"
+  },
+  "50cb68b06b11": {
+   "id": "50cb68b06b11",
+   "kaynak": "AA",
+   "baslik": "ABD'de ara seçimler yaklaşırken Kongre kontrolü mücadelesinde 8 eyalet öne çıkıyor",
+   "ozet": "ABD genelindeki seçmenler, Kongre'nin yapısını yeniden şekillendirebilecek ve ABD Başkanı Donald Trump'ın görev süresinin son iki yılında yasama gündemini ilerletme kapasitesini belirleyecek ara seçimler için 3 Kasım'da sandık başına gidecek.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimler-yaklasirken-kongre-kontrolu-mucadelesinde-8-eyalet-one-cikiyor/4103972",
+   "zaman": "2026-10-28T17:15:13+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "cikiy",
+    "eyale",
+    "kongr",
+    "kontr",
+    "mucad",
+    "one",
+    "secim",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "98d63292d1d1": {
+   "id": "98d63292d1d1",
+   "kaynak": "TRT Haber",
+   "baslik": "Brezilya'da seçimi kaybeden Bolsonaro, Arjantin üzerinden ABD'ye kaçtı",
+   "ozet": "Brezilya'da devlet başkanlığı seçimini kaybeden Senatör Flavio Bolsonaro'nun, hakkındaki yurt dışına çıkış yasağına ve pasaportunun iptaline rağmen ailesiyle kara yoluyla önce Arjantin'e geçtiği, buradan da özel uçakla Ekvador üzerinden ABD'ye kaçtığı duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/brezilyada-secimi-kaybeden-bolsonaro-arjantin-uzerinden-abdye-kacti-961521.html",
+   "zaman": "2026-10-28T17:37:00+03:00",
+   "kelimeler": [
+    "abd",
+    "arjan",
+    "bolso",
+    "brezi",
+    "kacti",
+    "kaybe",
+    "secim",
+    "uzeri",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8e1e93799457"
+  },
+  "596a67e382a9": {
+   "id": "596a67e382a9",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere, Ukrayna'ya ekonomik ve askeri desteği 10 milyar sterline çıkaracak",
+   "ozet": "İngiltere Başbakanı Andy Burnham, Ukrayna Devlet Başkanı Volodimir Zelenski ile yaptığı telefon görüşmesinde, yeni bütçede Ukrayna'ya finansal ve askeri desteğin 10 milyar sterline yaklaşık 662,5 milyar lira çıkacağını söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiltere-ukraynaya-ekonomik-ve-askeri-destegi-10-milyar-sterline-cikaracak-961522.html",
+   "zaman": "2026-10-28T17:44:00+03:00",
+   "kelimeler": [
+    "10",
+    "asker",
+    "cikar",
+    "deste",
+    "ekono",
+    "ingil",
+    "milya",
+    "sterl",
+    "ukray",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8ec2084a1a48": {
+   "id": "8ec2084a1a48",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Ersoy’dan 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 29 Ekim Cumhuriyet Bayramı dolayısıyla yayımladığı mesajda, Cumhuriyetin millî egemenlik ile birlik ve beraberliğin en güçlü teminatlarından biri olduğunu vurguladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ersoydan-29-ekim-cumhuriyet-bayrami-mesaji-43358479",
+   "zaman": "2026-10-28T17:45:10+03:00",
+   "kelimeler": [
+    "29",
+    "bakan",
+    "bayra",
+    "cumhu",
+    "dan",
+    "ekim",
+    "ersoy",
+    "mesaj"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "4b787a3bbe3b": {
+   "id": "4b787a3bbe3b",
+   "kaynak": "Sözcü",
+   "baslik": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarındaydı! 3 kişinin mal varlığına gelen tedbir kararı jet hızıyla kaldırıldı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/pasifik-holdingin-uc-yoneticisinin-mal-varligi-uzerindeki-tedbir-kaldirildi-p373674",
+   "zaman": "2026-10-28T17:51:58+03:00",
+   "kelimeler": [
+    "akp",
+    "arala",
+    "asuma",
+    "erdog",
+    "esi",
+    "gelen",
+    "hiziy",
+    "in",
+    "jet",
+    "kaldi",
+    "karar",
+    "kisin",
+    "li",
+    "mal",
+    "tedbi",
+    "varli",
+    "vekil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3128a62403c"
+  },
+  "9a39188aa486": {
+   "id": "9a39188aa486",
+   "kaynak": "Sözcü",
+   "baslik": "3 aracın karıştığı kazada ortalık savaş alanına döndü! Çok sayıda yaralı var",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/3-aracin-karistigi-kazada-ortalik-savas-alanina-dondu-cok-sayida-yarali-var-p373678",
+   "zaman": "2026-10-28T17:54:44+03:00",
+   "kelimeler": [
+    "alani",
+    "araci",
+    "dondu",
+    "karis",
+    "kazad",
+    "ortal",
+    "savas",
+    "sayid",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d9af7618425b": {
+   "id": "d9af7618425b",
+   "kaynak": "AA",
+   "baslik": "İngiltere Kralı Charles, Cumhurbaşkanı Erdoğan'a 29 Ekim Cumhuriyet Bayramı dolayısıyla tebrik mesajı gönderdi",
+   "ozet": "İngiltere Kralı 3. Charles, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a tebrik mesajı gönderdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ingiltere-krali-charles-cumhurbaskani-erdogana-29-ekim-cumhuriyet-bayrami-dolayisiyla-tebrik-mesaji-gonderdi/4104042",
+   "zaman": "2026-10-28T17:55:03+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "charl",
+    "cumhu",
+    "dolay",
+    "ekim",
+    "erdog",
+    "gonde",
+    "ingil",
+    "krali",
+    "mesaj",
+    "tebri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8ec2084a1a48"
+  },
+  "570c5a6c7cd7": {
+   "id": "570c5a6c7cd7",
+   "kaynak": "AA",
+   "baslik": "Antalya Altın Portakal Film Festivali'nde \"Kadim Mavi\" filminin dünya prömiyeri yapıldı",
+   "ozet": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında Ulusal Uzun Metraj Film Yarışması'nda yer alan \"Kadim Mavi\" filminin dünya prömiyeri gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/antalya-altin-portakal-film-festivalinde-kadim-mavi-filminin-dunya-promiyeri-yapildi/4104046",
+   "zaman": "2026-10-28T17:57:36+03:00",
+   "kelimeler": [
+    "altin",
+    "antal",
+    "dunya",
+    "festi",
+    "film",
+    "filmi",
+    "kadim",
+    "mavi",
+    "nde",
+    "porta",
+    "promi",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2969410ce643"
+  },
+  "efc16c9590b1": {
+   "id": "efc16c9590b1",
+   "kaynak": "XHABER",
+   "baslik": "İzmir’de bir Tofaş’ın içinden çıkan Yahudilerin garip hareketleri tepki çekti.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30402",
+   "zaman": "2026-10-28T17:58:35+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İzmir’de bir Tofaş’ın içinden çıkan Yahudilerin garip hareketleri tepki çekti.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/BZ-ADDSdYbTTiWCli4Poxz8zfNbdpNxhk9aq5xHwoKJxz0L6zuUM5_BeqhxuMa3g31h1ZzrzNXrig9TJn8L6Zooa6S_7YRB_6yk1x6cTRfWkTl2dt8OasZ5hmZkPUb8Ga30bBWv6BUq60Dp9Pj07lZFMwZUqyUAt0aRmED59S9pWLdpAI8rch5_91B3C1OF3FUp-dqQUCmxpqX1_TeeQBuzqUS99jGEFXmubl4oyRY_b7bSXH1q-kf_JIbjIz-eUykonQqSi4N5IYBGBa8un2biNU9vtp64TTsuSEIuCFl2EQNYfH3JSlaZhQdPtgDd0UGT76Sj76q8Su2L8HePpBQ",
+   "tg_video_url": "https://cdn4.telesco.pe/file/a0898c8b48.mp4?token=ntrWaZ6J0qs8c2ypVUD4lI1c8hs1J8SFYFOsNnIpg4QsUs_P7lL1tyvF4PnXAlS1KEuZtgkstarg_G81SIObonkRaYmtv30Aceu3ySRaO36bzXDLrxnApjatHAp1f1sJEdtamKev1XGDCbhGjIgnyghBHuKNxyAws-n653hlkZ92vLEoaUfEBU8CKXdaz9MsBqdPcrrS73E7osqxgd-7RvI6sesLXaPidh7SAz7p6d4zvJPlwXAEsyIdWo-nD4O8SOEh_hKaUGA-3BS30DvPbaJeN5Na7m8vWLErIZTtO5BC1FgxP_v6-6xqXnV5Zz6xA8sTYgXLbNws1qNAu1siOzCScdFoPcMPqWAw0U0vfmABYbaSdLfxldU0ChodX_pz1SzAnEkGfAL1Zi3rGh1_5mTzKVrNKEpqP8XX9TJmYQbrejJRNenuj9QZKQwBZRD7-1T6ns-qhgH3EZOyNmg3S6J6nWsu8gP8ONby4Yd5GNt1WeulzH1DhhLmWOQTi7fONE7hxcL1dcBN_F2Xjo95HG5CCS-Jb51COf0-KoN4Vt2Fz3Y8CcbKWxtnH4ctprPBDYISuJHDt9nbjZSChlELgcL_Pn_0qrD0HpMucsKrg0ibVAYts7_1BEQb0y5tKQAko6KA4fH29dPFDkjasikxJef9ZRyP_iyELZnz__74Mhk",
+   "kelimeler": [
+    "cekti",
+    "cikan",
+    "garip",
+    "harek",
+    "icind",
+    "in",
+    "izmir",
+    "tepki",
+    "tofas",
+    "yahud"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 18:01:26  5 yeni haber",
   "28.10 17:46:23  5 yeni haber",
   "28.10 17:31:20  7 yeni haber",
   "28.10 17:15:55  4 yeni haber",
@@ -30437,8 +30577,7 @@
   "26.10 12:46:14  9 yeni haber",
   "26.10 12:33:26  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Oktay Saral, Cumhurbaşkanı Başdanışmanlığı görevinden ist",
   "26.10 12:31:24  3 yeni haber",
-  "26.10 12:16:14  11 yeni haber",
-  "26.10 12:01:32  3 yeni haber"
+  "26.10 12:16:14  11 yeni haber"
  ],
  "otomatik": false
 }
