@@ -31455,8 +31455,17 @@
     "uyeli",
     "yeni"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-29T01:34:52.642860+03:00",
+   "ig_id": "18364782265301539",
+   "reels_id": "18156855670520438",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1146024157818104",
+   "slayt": 5,
+   "kanca": "SARIGÜL'ÜN ÜYELİĞİ BİTTİ"
   },
   "6e3bd8cc3ee3": {
    "id": "6e3bd8cc3ee3",
@@ -31520,9 +31529,32 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9000445f291e"
+  },
+  "c38ef06923f4": {
+   "id": "c38ef06923f4",
+   "kaynak": "XHABER",
+   "baslik": "İmkansız denilen noktada Cumhuriyet’i kurmak...",
+   "ozet": "Bir dehanın 'bitti' denilen yerden 'Yeni başlıyoruz' demesidir 29 Ekim...",
+   "link": "https://t.me/sahinozkan000/30406",
+   "zaman": "2026-10-29T01:28:09+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İmkansız denilen noktada Cumhuriyet’i kurmak...\nBir dehanın 'bitti' denilen yerden 'Yeni başlıyoruz' demesidir 29 Ekim...",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/XDRctsaZbVaxIoSjxDB68sifgOts4_uZROvg6bWQhx8ED90WDlIdLfYFdrTCMresMKkLmMLpoQmCxKG4cuYB7xOTWJ5zX_RnFffUFfueQFuvEguujU79Hs6cQ_CrAmHUENIYiurzM5jJZM_ViLpSpjnMCkF0A2T7AxbReW_jSYT-asupVr5FHbgqX7PsC4W6HIVIx5C_K6NkExM-eCvjcgj_LjtJQP2Q1ji2_PFfUfAsQhmRqOzANg7ZKxr2kH_YiY50Szpdh-QOUVRxni8k-HjgLRmsmoBkxBe9zhZdVJg037d3bQu8ZMePN9tN300DDsLr1hE0jC-kKta6xUlOxQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "cumhu",
+    "denil",
+    "imkan",
+    "kurma",
+    "nokta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 01:34:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yeni Parti Genel Başkanı Özel: Sarıgül'ün üyeliği bitti, partimizle bi",
+  "29.10 01:31:11  1 yeni haber",
   "29.10 01:15:59  2 yeni haber",
   "29.10 01:03:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Üç aracın karıştığı kazada 1 polis şehit oldu; 11 yaralı var",
   "29.10 01:01:25  1 yeni haber",
@@ -31720,9 +31752,7 @@
   "27.10 00:03:35  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · 7 gollü Karadeniz derbisinde kazanan belli oldu:",
   "27.10 00:01:24  3 yeni haber",
   "26.10 23:46:17  5 yeni haber",
-  "26.10 23:20:52  2 yeni haber",
-  "26.10 23:01:25  1 yeni haber",
-  "26.10 22:46:09  1 yeni haber"
+  "26.10 23:20:52  2 yeni haber"
  ],
  "otomatik": false
 }
