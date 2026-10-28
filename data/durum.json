@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "f0fbd9ed76c7": {
-   "id": "f0fbd9ed76c7",
-   "kaynak": "AA",
-   "baslik": "SİPER Ürün-2 yeni kabiliyetini başarıyla test etti",
-   "ozet": "Türkiye'nin uzun menzilli bölge hava ve füze savunma sistemi SİPER Ürün-2, yeni kabiliyetini başarılı atış testiyle sahada ispatladı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siper-urun-2-yeni-kabiliyetini-basariyla-test-etti/4100275",
-   "zaman": "2026-10-25T16:36:46+03:00",
-   "kelimeler": [
-    "basar",
-    "etti",
-    "kabil",
-    "siper",
-    "test",
-    "urun",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "ab2577a9729c": {
-   "id": "ab2577a9729c",
-   "kaynak": "TRT Haber",
-   "baslik": "SİPER yeni kabiliyetini başarıyla test etti",
-   "ozet": "Türkiye'nin uzun menzilli bölge hava ve füze savunma sistemi SİPER Ürün2, yeni kabiliyetini başarılı atış testiyle sahada ispatladı.",
-   "link": "https://www.trthaber.com/haber/savunma/siper-yeni-kabiliyetini-basariyla-test-etti-961155.html",
-   "zaman": "2026-10-25T16:38:00+03:00",
-   "kelimeler": [
-    "basar",
-    "etti",
-    "kabil",
-    "siper",
-    "test",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f0fbd9ed76c7"
-  },
   "1d30050cc721": {
    "id": "1d30050cc721",
    "kaynak": "AA",
@@ -140,36 +99,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "57f93a73900f"
-  },
-  "3f9880ff4f55": {
-   "id": "3f9880ff4f55",
-   "kaynak": "AA",
-   "baslik": "Mehmet Ayberk Koşak, Artistik Cimnastik Dünya Şampiyonası'nda 6'ncı oldu",
-   "ozet": "Hollanda'da düzenlenen Artistik Cimnastik Dünya Şampiyonası'nda milli sporcu Mehmet Ayberk Koşak, halka aleti finalinde 13.800 puan alarak 6'ncı sırada yer aldı.",
-   "link": "https://www.aa.com.tr/tr/spor/mehmet-ayberk-kosak-artistik-cimnastik-dunya-sampiyonasinda-6nci-oldu/4100280",
-   "zaman": "2026-10-25T16:45:30+03:00",
-   "kelimeler": [
-    "artis",
-    "ayber",
-    "cimna",
-    "dunya",
-    "kosak",
-    "mehme",
-    "nci",
-    "nda",
-    "sampi"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-25T17:33:19.654244+03:00",
-   "ig_id": "18099999386414065",
-   "reels_id": "18129562039840373",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1632147708545395",
-   "slayt": 6,
-   "kanca": "DÜNYA ALTINCISI OLDU"
   },
   "205ea6f3b0c1": {
    "id": "205ea6f3b0c1",
@@ -25954,7 +25883,10 @@
     "sessi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3ece9c399298": {
    "id": "3ece9c399298",
@@ -29478,7 +29410,10 @@
     "zanli"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "eef42bf546c7": {
    "id": "eef42bf546c7",
@@ -29736,9 +29671,203 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "aded22ae5f0a": {
+   "id": "aded22ae5f0a",
+   "kaynak": "TRT Haber",
+   "baslik": "İspanya Başbakanı Sanchez: Hızlı tren kazasından dolayı derin üzüntü duyuyorum",
+   "ozet": "İspanya Başbakanı Pedro Sanchez, iki hızlı yolcu treninin çarpışması sonucu en az 10 kişinin hayatını kaybettiği kazadan derin üzüntü duyduğunu açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/ispanya-basbakani-sanchez-hizli-tren-kazasindan-dolayi-derin-uzuntu-duyuyorum-961480.html",
+   "zaman": "2026-10-28T13:03:00+03:00",
+   "kelimeler": [
+    "basba",
+    "derin",
+    "dolay",
+    "duyuy",
+    "hizli",
+    "ispan",
+    "kazas",
+    "sanch",
+    "tren",
+    "uzunt"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "93a53fa4e0c3": {
+   "id": "93a53fa4e0c3",
+   "kaynak": "TRT Haber",
+   "baslik": "Hollanda'da Filistin'e destek için 111 haftadır sessiz protesto düzenleniyor",
+   "ozet": "Hollandanın Utrecht kentinde, katil İsrailin Filistindeki saldırılarına dikkati çekmek amacıyla 111 haftadır, hafta içi her sabah \"Sessiz Sokak Protestosu\" düzenleniyor.",
+   "link": "https://www.trthaber.com/haber/dunya/hollandada-filistine-destek-icin-111-haftadir-sessiz-protesto-duzenleniyor-961508.html",
+   "zaman": "2026-10-28T16:27:00+03:00",
+   "kelimeler": [
+    "111",
+    "deste",
+    "duzen",
+    "filis",
+    "hafta",
+    "holla",
+    "prote",
+    "sessi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cb212d0959a3"
+  },
+  "732395d5d138": {
+   "id": "732395d5d138",
+   "kaynak": "Hürriyet",
+   "baslik": "Evlilik yıl dönümünde acı son: Üzerine yıldırım düşen 29 yaşındaki çoban öldü",
+   "ozet": "Osmaniye'nin Kadirli ilçesine bağlı Vayvaylı köyünde aniden bastıran hava şartlarında tarlaya yıldırım isabet etti. Olay anında hayvanların başında bulunan 29 yaşındaki çoban Horo Özdemir hayatını kaybederken, yanındaki arkadaşı hastaneye kaldırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/evlilik-yil-donumunde-aci-son-uzerine-yildirim-dusen-29-yasindaki-coban-oldu-43358366",
+   "zaman": "2026-10-28T16:31:00+03:00",
+   "kelimeler": [
+    "29",
+    "aci",
+    "coban",
+    "donum",
+    "dusen",
+    "evlil",
+    "uzeri",
+    "yasin",
+    "yil",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a2bdd5df972": {
+   "id": "2a2bdd5df972",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'den İspanyaya taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, İspanyanın Toledo şehri yakınlarında meydana gelen tren kazasındaki can kayıplarından derin üzüntü duyduğunu bildirerek, hayatını kaybedenlerin yakınlarına ve İspanya halkına başsağlığı dileklerini sundu.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-ispanyaya-taziye-mesaji-961510.html",
+   "zaman": "2026-10-28T16:32:00+03:00",
+   "kelimeler": [
+    "den",
+    "ispan",
+    "mesaj",
+    "taziy",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "3909db58202a": {
+   "id": "3909db58202a",
+   "kaynak": "AA",
+   "baslik": "Profesyonel sürücülerin Schengen sorunu için diplomatik temaslar sürüyor",
+   "ozet": "Uluslararası Nakliyeciler Derneği (UND), profesyonel sürücülerin Schengen sorununa çözüm bulunması amacıyla girişimlerin yoğun bir şekilde sürdürüldüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/profesyonel-suruculerin-schengen-sorunu-icin-diplomatik-temaslar-suruyor/4103907",
+   "zaman": "2026-10-28T16:32:17+03:00",
+   "kelimeler": [
+    "diplo",
+    "profe",
+    "schen",
+    "sorun",
+    "suruc",
+    "suruy",
+    "temas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6cb9ac8ca7e6": {
+   "id": "6cb9ac8ca7e6",
+   "kaynak": "AA",
+   "baslik": "Türkiye'den İspanya’daki tren kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, İspanya’nın Toledo şehri yakınlarında meydana gelen tren kazasındaki can kayıplarından derin üzüntü duyduğunu bildirerek, hayatını kaybedenlerin yakınlarına ve İspanya halkına başsağlığı dileklerini sundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiyeden-ispanya-daki-tren-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4103908",
+   "zaman": "2026-10-28T16:33:15+03:00",
+   "kelimeler": [
+    "daki",
+    "den",
+    "hayat",
+    "ispan",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "taziy",
+    "tren",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2a2bdd5df972"
+  },
+  "6ac5ed2722f1": {
+   "id": "6ac5ed2722f1",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'daki hortum faciasına ilişkin 2 zanlı tutuklandı",
+   "ozet": "Antalya'nın Kepez ilçesinde hortum nedeniyle iki konteynerin parçalanması sonucu 4 kişinin hayatını kaybettiği, 1 kişinin yaralandığı olaya ilişkin gözaltına alınan 4 şüpheliden 2'si tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyadaki-hortum-faciasina-iliskin-2-zanli-tutuklandi-961511.html",
+   "zaman": "2026-10-28T16:35:00+03:00",
+   "kelimeler": [
+    "antal",
+    "daki",
+    "facia",
+    "hortu",
+    "ilisk",
+    "tutuk",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a0b0d48aba95"
+  },
+  "369b1f1ad095": {
+   "id": "369b1f1ad095",
+   "kaynak": "AA",
+   "baslik": "F-35 tedarik sorunu yaşayan İsviçre, ABD'li üreticilerle doğrudan savunma sözleşmeleri imzalamayı hedefliyor",
+   "ozet": "F-35A savaş uçakları tedariki konusunda ABD ile sorun yaşayan İsviçre, ABD'li üreticilerle doğrudan savunma sözleşmeleri imzalamayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/f-35-tedarik-sorunu-yasayan-isvicre-abdli-ureticilerle-dogrudan-savunma-sozlesmeleri-imzalamayi-hedefliyor/4103915",
+   "zaman": "2026-10-28T16:37:02+03:00",
+   "kelimeler": [
+    "35",
+    "abd",
+    "dogru",
+    "hedef",
+    "imzal",
+    "isvic",
+    "li",
+    "savun",
+    "sorun",
+    "sozle",
+    "tedar",
+    "ureti",
+    "yasay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b44a0604d9bb": {
+   "id": "b44a0604d9bb",
+   "kaynak": "AA",
+   "baslik": "THY'den Cumhuriyet Bayramı'na özel indirimli bilet kampanyası",
+   "ozet": "Türk Hava Yolları (THY), 29 Ekim Cumhuriyet Bayramı'na özel 1699 liradan başlayan yurt içi indirimli biletleri satışa sundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thyden-cumhuriyet-bayramina-ozel-indirimli-bilet-kampanyasi/4103920",
+   "zaman": "2026-10-28T16:40:12+03:00",
+   "kelimeler": [
+    "bayra",
+    "bilet",
+    "cumhu",
+    "den",
+    "indir",
+    "kampa",
+    "na",
+    "ozel",
+    "thy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 16:46:01  6 yeni haber",
   "28.10 16:31:27  4 yeni haber",
   "28.10 16:16:11  6 yeni haber",
   "28.10 16:01:48  5 yeni haber",
@@ -29937,8 +30066,7 @@
   "26.10 11:31:23  11 yeni haber",
   "26.10 11:15:57  12 yeni haber",
   "26.10 11:03:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · NBA'de Lakers, Luka Doncic'in 52 sayı attığı maçı kazanarak 3'te 3 yap",
-  "26.10 11:01:31  7 yeni haber",
-  "26.10 10:45:58  7 yeni haber"
+  "26.10 11:01:31  7 yeni haber"
  ],
  "otomatik": false
 }
