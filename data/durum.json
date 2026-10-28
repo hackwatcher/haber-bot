@@ -20630,7 +20630,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "Sözcü"
+    "Sözcü",
+    "Hürriyet"
    ]
   },
   "d586142e8022": {
@@ -24921,7 +24922,10 @@
     "vurgu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c6e8e93a69b1": {
    "id": "c6e8e93a69b1",
@@ -27508,7 +27512,10 @@
     "yol"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "2fb7f73e8138": {
    "id": "2fb7f73e8138",
@@ -27749,9 +27756,317 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d64f7a44fc0f"
+  },
+  "37b53ac17064": {
+   "id": "37b53ac17064",
+   "kaynak": "TRT Haber",
+   "baslik": "Biyolojik silahlardan şantaja: Anthropic'in yaklaşık 100 sayfalık risk listesi",
+   "ozet": "Halka açılmaya hazırlanan yapay zeka şirketi Anthropic'in yayımladığı risk raporu, teknolojinin barındırdığı feci sonuçları göz önüne serdi.",
+   "link": "https://www.trthaber.com/haber/dunya/biyolojik-silahlardan-santaja-anthropicin-yaklasik-100-sayfalik-risk-listesi-961426.html",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "100",
+    "anthr",
+    "biyol",
+    "in",
+    "liste",
+    "risk",
+    "santa",
+    "sayfa",
+    "silah",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "585660365883": {
+   "id": "585660365883",
+   "kaynak": "Hürriyet",
+   "baslik": "Gerçeğin peşinde koşmadan gazetecilik yapılmaz",
+   "ozet": "Bu yıl ikincisi düzenlenen Anadolu Ajansı Haber ödülleri TBMM tören salonunda yapıldı. Törene TBMM Başkanı Numan Kurtulmuş ve İçişleri Bakanı Mustafa Çiftçi de katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gercegin-pesinde-kosmadan-gazetecilik-yapilmaz-43357343",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "gazet",
+    "gerce",
+    "kosma",
+    "pesin",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "65eec721b77f": {
+   "id": "65eec721b77f",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakırköy Belediyesi’ne operasyon... 5’i başkan yardımcısı 56 gözaltı",
+   "ozet": "Bakırköy Belediyesi’ne ‘ihaleye fesat karıştırma’ ve ‘irtikap’ iddiasıyla düzenlenen operasyonda aralarında 5 başkan yardımcısı ve 2 meclis üyesinin bulunduğu 68 şüpheli hakkında gözaltı kararı verildi. 56 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-operasyon-5i-baskan-yardimcisi-56-gozalti-43357346",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "56",
+    "bakir",
+    "baska",
+    "beled",
+    "gozal",
+    "opera",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "35e91bfc97e1"
+  },
+  "5f91c4ccaf3a": {
+   "id": "5f91c4ccaf3a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bütçede öncelik emekli",
+   "ozet": "TBMM Plan ve Bütçe Komisyonu, 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi ve 2025 Yılı Merkezi Yönetim Kesin Hesap Kanunu Teklifi’nin geneli ile Sayıştay raporlarını görüşmek üzere Komisyon Başkanı Mehmet Muş başkanlığında toplandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/butcede-oncelik-emekli-43357348",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "butce",
+    "emekl",
+    "oncel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "66cf1adeec48": {
+   "id": "66cf1adeec48",
+   "kaynak": "Hürriyet",
+   "baslik": "Özgür Özel: ‘Fon yasası’ AYM’ye gidecek",
+   "ozet": "Meclis’ten geçen ‘fon yasası’nı AYM’ye taşıyacaklarını açıklayan Özel, “İki farklı çalışma grubu oluşturduk. Birinci heyet mağdurlarla görüşecek. İkinci heyet cezaevinde bulunan fon tutuklularını ziyaret edecek” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-fon-yasasi-aymye-gidecek-43357349",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "aym",
+    "fon",
+    "gidec",
+    "ozel",
+    "ozgur",
+    "yasas",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c9c2d214e74": {
+   "id": "3c9c2d214e74",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Kara para’ iddiasında 3 şüpheli tutuklandı",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nca, Sarıgül ailesine yönelik ‘kara para aklama’ iddiasıyla yürütülen soruşturma kapsamında, gözaltına alınan 15 şüpheli emniyetteki işlemlerinin ardından, önceki gün Çağlayan’daki İstanbul Adalet Sarayı’na götürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-para-iddiasinda-3-supheli-tutuklandi-43357360",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "iddia",
+    "kara",
+    "para",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "874196116535": {
+   "id": "874196116535",
+   "kaynak": "Hürriyet",
+   "baslik": "Sadettin Saran: Ne kullandım ne temin ettim",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nın yürüttüğü uyuşturucu soruşturması kapsamında, işinsanı Steven Sadettin Saran ve spiker Ela Rümeysa Cebeci hakkında ‘uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama’ iddiasıyla 10’ar yıldan az olmamak üzere hapis istemiyle dava…",
+   "link": "https://www.hurriyet.com.tr/gundem/sadettin-saran-ne-kullandim-ne-temin-ettim-43357361",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "ettim",
+    "kulla",
+    "sadet",
+    "saran",
+    "temin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "300a4c9406ca": {
+   "id": "300a4c9406ca",
+   "kaynak": "Hürriyet",
+   "baslik": "O doktora 2.5 yıl ceza",
+   "ozet": "2000 yılında Süleymancılar olarak bilinen cemaatin liderliğine geçen Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un 2016’daki şüpheli ölümüne ilişkin hakkında ‘yalan tanıklık’ suçundan dava açılan tutuklu doktor Nurettin Demirkol (66) savunma yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/o-doktora-2-5-yil-ceza-43357362",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "ceza",
+    "dokto",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c6941c0d14d9": {
+   "id": "c6941c0d14d9",
+   "kaynak": "Hürriyet",
+   "baslik": "Güllü’nün katil kızı hakkında kan donduran suçlama",
+   "ozet": "‘Güllü’ adıyla tanınan annesi şarkıcı Gül Tut’u öldürdüğü gerekçesiyle ağırlaştırılmış müebbet hapis cezasına çarptırılan Tuğyan Ülkem Gülter hakkında, özel bir hastanede hemşire olarak çalıştığı dönemde, 'hastalara eziyet ettiği' iddiasıyla soruşturma başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gullunun-katil-kizi-hakkinda-kan-donduran-suclama-43357365",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "dondu",
+    "gullu",
+    "hakki",
+    "kan",
+    "katil",
+    "kizi",
+    "nun",
+    "sucla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3d8de280fdbb": {
+   "id": "3d8de280fdbb",
+   "kaynak": "Hürriyet",
+   "baslik": "Sesi duyup kaçanlar da soruşturulacak",
+   "ozet": "Kahramanmaraş’taki okul saldırısında 4 eğitimci hakkında soruşturma izni verildi. Rehber öğretmenin saldırganın şiddet eğilimine rağmen bildirimde bulunmadığı, okul müdürü, yardımcısı ile bir öğretmenin silah seslerini duyduktan sonra öğrencilerin güvenliğini sağlamadan okulu…",
+   "link": "https://www.hurriyet.com.tr/gundem/sesi-duyup-kacanlar-da-sorusturulacak-43357366",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "duyup",
+    "kacan",
+    "sesi",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "05051bed662c": {
+   "id": "05051bed662c",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Jel dolgulu oyuncak’ uyarısı: Oynarken yakabilir",
+   "ozet": "Son zamanlarda popüler olan jel dolgulu oyuncaklar için Türk Dermatoloji Derneği’nden çok önemli bir uyarı geldi: “Bu oyuncakları mikrodalga fırında ısıtmayın, güneşte bekletmeyin. Oyuncak ısınınca patlıyor ve ciltte ciddi yanığa neden oluyor.”",
+   "link": "https://www.hurriyet.com.tr/gundem/jel-dolgulu-oyuncak-uyarisi-oynarken-yakabilir-43357373",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "dolgu",
+    "jel",
+    "oynar",
+    "oyunc",
+    "uyari",
+    "yakab"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3711a1c525d5": {
+   "id": "3711a1c525d5",
+   "kaynak": "Hürriyet",
+   "baslik": "Antalya’da hortum kâbusu; 4 ölü 1 yaralı… Önüne geleni yutup geçti",
+   "ozet": "Antalya’da bir inşaat alanında çıkan hortumda işçilerin kaldığı 2 konteyner parçalandı, kule vinci devrildi. 4 işçi hayatını kaybetti, 1 işçi yaralandı. ‘Hücresel hortum’un koskoca inşaat alanında dar bir bölgede etkili olup 2 konteyneri parçalaması ise şoke etti...",
+   "link": "https://www.hurriyet.com.tr/gundem/antalyada-hortum-kabusu-4-olu-1-yarali-onune-geleni-yutup-gecti-43357375",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "antal",
+    "gecti",
+    "gelen",
+    "hortu",
+    "kabus",
+    "olu",
+    "onune",
+    "yaral",
+    "yutup"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "619c5a921394"
+  },
+  "e25814516de5": {
+   "id": "e25814516de5",
+   "kaynak": "Hürriyet",
+   "baslik": "Beştepe’de sürpriz zirve: En sıcak başlık Terörsüz Türkiye",
+   "ozet": "Beştepe’de dün sürpriz bir buluşma yaşandı. Cumhurbaşkanı Erdoğan, MHP Genel Başkanı Devlet Bahçeli ile bir araya geldi. Yaklaşık 1 saat süren kritik görüşmede, dış politika ve ekonomideki gelişmelerin yanı sıra Terörsüz Türkiye sürecinin ele alındığı bildirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bestepede-surpriz-zirve-en-sicak-baslik-terorsuz-turkiye-43357389",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "basli",
+    "beste",
+    "sicak",
+    "surpr",
+    "teror",
+    "turki",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "824df258dac4": {
+   "id": "824df258dac4",
+   "kaynak": "Hürriyet",
+   "baslik": "Siber güvenlikte dijital egemenlik vurgusu",
+   "ozet": "Siber Güvenlik Kurulu, Cumhurbaşkanı Erdoğan başkanlığında toplandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/siber-guvenlikte-dijital-egemenlik-vurgusu-43357392",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "dijit",
+    "egeme",
+    "guven",
+    "siber",
+    "vurgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7f703e535c8"
+  },
+  "4b01a6d0d4be": {
+   "id": "4b01a6d0d4be",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke Anlaşması komisyondan geçti",
+   "ozet": "TÜRKİYE, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşması, yasamada ilk durağı olan TBMM Dışişleri Komisyonu’ndan geçti.",
+   "link": "https://www.hurriyet.com.tr/gundem/mekke-anlasmasi-komisyondan-gecti-43357393",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "gecti",
+    "komis",
+    "mekke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d25b7334eb29"
+  },
+  "e2cc00d7e8e5": {
+   "id": "e2cc00d7e8e5",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da randevu hem ucuz hem pahalı",
+   "ozet": "Deutsche Bank’ın araştırmasına göre İstanbul, romantik bir randevu için Avrupa’nın en ucuz şehri oldu. 168 Euro tutarındaki randevu sepeti, ortalama aylık gelirle kıyaslandığında ise Avrupa’nın en pahalı ikinci şehri.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-randevu-hem-ucuz-hem-pahali-43357399",
+   "zaman": "2026-10-28T07:00:00+03:00",
+   "kelimeler": [
+    "hem",
+    "istan",
+    "pahal",
+    "rande",
+    "ucuz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "943baf02bfa8": {
+   "id": "943baf02bfa8",
+   "kaynak": "NTV",
+   "baslik": "Ankara'da yol kenarında ceset bulundu",
+   "ozet": "Ankara'nın Polatlı ilçesinde yol kenarında ceset bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-yol-kenarinda-ceset-bulundu-1748271",
+   "zaman": "2026-10-28T07:07:29+03:00",
+   "kelimeler": [
+    "ankar",
+    "bulun",
+    "ceset",
+    "kenar",
+    "yol"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a5c87a87adf9"
   }
  },
  "kayit": [
+  "28.10 07:15:57  12 yeni haber",
   "28.10 07:02:41  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · CB Erdoğan ve Devlet Bahçeli Külliye’de bir araya geldi.",
   "28.10 07:01:20  3 yeni haber",
   "28.10 06:45:59  2 yeni haber",
@@ -27950,8 +28265,7 @@
   "25.10 21:16:07  1 yeni haber",
   "25.10 21:08:49  1 yeni haber",
   "25.10 21:01:29  4 yeni haber",
-  "25.10 20:15:58  2 yeni haber",
-  "25.10 19:48:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Trump İran kararını son dakikada değiştirdi"
+  "25.10 20:15:58  2 yeni haber"
  ],
  "otomatik": false
 }
