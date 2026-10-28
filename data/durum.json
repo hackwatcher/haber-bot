@@ -1,99 +1,5 @@
 {
  "haberler": {
-  "8788b32ec02a": {
-   "id": "8788b32ec02a",
-   "kaynak": "AA",
-   "baslik": "Meclis'e \"60 yaş ve üstü vatandaşlara yeşil pasaport hakkı verilsin\" talebi",
-   "ozet": "TBMM Dilekçe Komisyonuna gelen başvurular arasında, 60 yaş ve üzerindeki vatandaşlara yeşil pasaport hakkı tanınması talebi de yer aldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/meclise-60-yas-ve-ustu-vatandaslara-yesil-pasaport-hakki-verilsin-talebi/4100104",
-   "zaman": "2026-10-25T12:16:04+03:00",
-   "kelimeler": [
-    "60",
-    "hakki",
-    "mecli",
-    "pasap",
-    "taleb",
-    "ustu",
-    "vatan",
-    "veril",
-    "yas",
-    "yesil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4099b25efa16": {
-   "id": "4099b25efa16",
-   "kaynak": "AA",
-   "baslik": "Öğretmen ve öğrencilerden çiftçilerin traktörlerine tarlada ücretsiz bakım desteği",
-   "ozet": "Erzincan'da meslek lisesi öğretmen ve öğrencileri, sosyal sorumluluk projesi kapsamında tarlalara giderek çiftçilere ait traktörlerin periyodik bakım ve kontrollerini ücretsiz yapıyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/ogretmen-ve-ogrencilerden-ciftcilerin-traktorlerine-tarlada-ucretsiz-bakim-destegi/4100111",
-   "zaman": "2026-10-25T12:23:18+03:00",
-   "kelimeler": [
-    "bakim",
-    "ciftc",
-    "deste",
-    "ogren",
-    "ogret",
-    "tarla",
-    "trakt",
-    "ucret"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2f20dee312ea": {
-   "id": "2f20dee312ea",
-   "kaynak": "AA",
-   "baslik": "Türkiye ile Ermenistan arasındaki Ani Köprüsü'nün restorasyonunda yeni aşama",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye ile Ermenistan sınırında bulunan tarihi Ani Köprüsü'nün yeniden inşası için ihale sürecini tamamladıklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-ermenistan-arasindaki-ani-koprusunun-restorasyonunda-yeni-asama-/4100112",
-   "zaman": "2026-10-25T12:25:04+03:00",
-   "kelimeler": [
-    "ani",
-    "arasi",
-    "asama",
-    "ermen",
-    "kopru",
-    "nun",
-    "resto",
-    "turki",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fda0077dbf26": {
-   "id": "fda0077dbf26",
-   "kaynak": "Hürriyet",
-   "baslik": "Balkondan yan binanın çatısına geçmişti: Tenteye basınca metrelerce yükseklikten düştü",
-   "ozet": "Şişli'de sabah saatlerinde 6'ncı kattaki evin balkonundan komşu binanın çatısına geçen Kazakistan uyruklu Aisulu Bekmakhanova, çatının orta kısmında bastığı tenteden boşluğa düşerek can verdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/balkondan-yan-binanin-catisina-gecmisti-tenteye-basinca-metrelerce-yukseklikten-dustu-43354295",
-   "zaman": "2026-10-25T12:31:00+03:00",
-   "kelimeler": [
-    "balko",
-    "basin",
-    "binan",
-    "catis",
-    "dustu",
-    "gecmi",
-    "metre",
-    "tente",
-    "yan",
-    "yukse"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-25T12:48:57.851033+03:00",
-   "ig_id": "18142812277614095",
-   "reels_id": "18127312865490129",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1109577111832675",
-   "slayt": 5,
-   "kanca": "ALTI KAT YÜKSEKLİK"
-  },
   "a824a253f926": {
    "id": "a824a253f926",
    "kaynak": "Hürriyet",
@@ -23108,7 +23014,8 @@
     "ugray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d42aa1a9d69c": {
    "id": "d42aa1a9d69c",
@@ -23396,7 +23303,10 @@
     "yonlu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6b38f2b406ce": {
    "id": "6b38f2b406ce",
@@ -27960,7 +27870,10 @@
     "okula"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "035e257d82c6": {
    "id": "035e257d82c6",
@@ -28961,9 +28874,148 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "72663cefa543": {
+   "id": "72663cefa543",
+   "kaynak": "AA",
+   "baslik": "Muğla'da sağanak yaşamı olumsuz etkiliyor",
+   "ozet": "Muğla'nın Bodrum, Marmaris ve Dalaman ilçelerinde etkili olan sağanak nedeniyle yollarda su birikintileri oluştu, araçlar mahsur kaldı, dere taştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/muglada-saganak-yasami-olumsuz-etkiliyor/4103471",
+   "zaman": "2026-10-28T11:37:23+03:00",
+   "kelimeler": [
+    "etkil",
+    "mugla",
+    "olums",
+    "sagan",
+    "yasam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed2df869804a": {
+   "id": "ed2df869804a",
+   "kaynak": "TRT Haber",
+   "baslik": "Okula devamsızlığın azaltılması için okulaile işbirliği güçlendirilecek",
+   "ozet": "Milli Eğitim Bakanlığı MEB, okula devamsızlığın azaltılması ve eğitimden kopma riski taşıyan öğrencilerin eğitim sistemi içerisinde tutulması amacıyla okulaile işbirliğini güçlendirerek, öğrencilerin sosyal ve akademik gelişimlerini izleyen takip mekanizması oluşturacak.",
+   "link": "https://www.trthaber.com/haber/egitim/okula-devamsizligin-azaltilmasi-icin-okul-aile-isbirligi-guclendirilecek-961463.html",
+   "zaman": "2026-10-28T11:58:00+03:00",
+   "kelimeler": [
+    "azalt",
+    "devam",
+    "gucle",
+    "isbir",
+    "okula"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "07304f813ce0"
+  },
+  "89caf9b3ca66": {
+   "id": "89caf9b3ca66",
+   "kaynak": "AA",
+   "baslik": "MSB: Geçen hafta 2 terör örgütü PKK mensubu daha teslim oldu",
+   "ozet": "Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, geçen hafta 2 terör örgütü PKK mensubunun daha teslim olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/msb-gecen-hafta-2-teror-orgutu-pkk-mensubu-daha-teslim-oldu/4103528",
+   "zaman": "2026-10-28T12:14:10+03:00",
+   "kelimeler": [
+    "gecen",
+    "hafta",
+    "mensu",
+    "msb",
+    "orgut",
+    "pkk",
+    "teror",
+    "tesli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5c0e14c74776": {
+   "id": "5c0e14c74776",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da bazı yollar trafiğe kapatılacak",
+   "ozet": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları kapsamında yarın bazı yollar trafiğe kapatılacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-trafige-kapatilacak-961467.html",
+   "zaman": "2026-10-28T12:17:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "istan",
+    "kapat",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "66a8861733e7"
+  },
+  "5afcd3435f66": {
+   "id": "5afcd3435f66",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da yarın bu yollar trafiğe kapanacak",
+   "ozet": "İstanbul Valiliğinden yapılan açıklamada 29 Ekim Cumhuriyet Bayramı'nın 103. Yıl Dönümü Kutlamaları' nedeniyle İstanbul'da bazı yolların trafiğe kapatılacağı duyuruldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-yarin-bu-yollar-trafige-kapanacak-43357877",
+   "zaman": "2026-10-28T12:17:38+03:00",
+   "kelimeler": [
+    "istan",
+    "kapan",
+    "trafi",
+    "yarin",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "916811997459"
+  },
+  "6fa89ecdb492": {
+   "id": "6fa89ecdb492",
+   "kaynak": "AA",
+   "baslik": "İspanya'da iki hızlı yolcu treninin çarpıştığı kazada en az 10 kişinin hayatını kaybettiği bildirildi",
+   "ozet": "İspanya'da Madrid-Endülüs seferi yapan iki hızlı yolcu treninin çarpıştığı kazada en az 10 kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-iki-hizli-yolcu-treninin-carpistigi-kazada-en-az-10-kisinin-hayatini-kaybettigi-bildirildi/4103535",
+   "zaman": "2026-10-28T12:19:22+03:00",
+   "kelimeler": [
+    "10",
+    "az",
+    "bildi",
+    "carpi",
+    "hayat",
+    "hizli",
+    "iki",
+    "ispan",
+    "kaybe",
+    "kazad",
+    "kisin",
+    "treni",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "09b01f3f7646": {
+   "id": "09b01f3f7646",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin ayçiçeği yağı ihracatı 9 ayda 932 milyon dolara yaklaştı",
+   "ozet": "Türkiye'nin ayçiçeği yağı ihracatının tutarı, 2026 yılının ocak-eylül döneminde geçen yılın aynı dönemine göre yüzde 17,9 artarak 931 milyon 949 bin dolara ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-aycicegi-yagi-ihracati-9-ayda-932-milyon-dolara-yaklasti/4103552",
+   "zaman": "2026-10-28T12:26:46+03:00",
+   "kelimeler": [
+    "932",
+    "aycic",
+    "ayda",
+    "dolar",
+    "ihrac",
+    "milyo",
+    "nin",
+    "turki",
+    "yagi",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.10 12:31:08  4 yeni haber",
   "28.10 12:16:00  6 yeni haber",
   "28.10 12:01:27  8 yeni haber",
   "28.10 11:49:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Avrupa borsaları negatif seyrediyor",
@@ -29162,8 +29214,7 @@
   "26.10 07:03:14  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · MS | Barcelona 1 - 2 Real Madrid",
   "26.10 06:31:22  2 yeni haber",
   "26.10 04:16:08  3 yeni haber",
-  "26.10 03:31:24  1 yeni haber",
-  "26.10 03:16:07  1 yeni haber"
+  "26.10 03:31:24  1 yeni haber"
  ],
  "otomatik": false
 }
