@@ -1,64 +1,5 @@
 {
  "haberler": {
-  "3b97847c9e24": {
-   "id": "3b97847c9e24",
-   "kaynak": "XHABER",
-   "baslik": "MS | Barcelona 1 - 2 Real Madrid",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30356",
-   "zaman": "2026-10-26T01:02:35+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "MS | Barcelona 1 - 2 Real Madrid",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/XneINIb8Ib2rC64JFVEiZWMV5dnHLtjEpbsmCby6p3sVFVqAddOsJIaDp63dVDHdXNWcnRn5i4OdWiDFTVLHt0DPHSr41hiVjqUKFWX4AZXQ08s7TXTIl3_5D1honQbAM2sfgaCrAwSPQoCasj63kolttdm59okwq_yvDqBvCYvZ2wbZbn2wmXJ-m4VyNPJC9In5e34FL7ceM1T67p3_2_NZ57hbutNYrJkjXwvlgIwo6rZNPVNAyYUmzJKBcbdNOFwFEE-WV1r1K7sKT3gYLver07P67CNP8lkx4qm2HSZFAb9qJrhbkYJ4qBTPQS0cikH-GAP_cs8894bNqIo6bg.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "barce",
-    "madri",
-    "ms",
-    "real"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-10-26T07:03:14.268470+03:00",
-   "ig_id": "18131609131761618",
-   "reels_id": null,
-   "story_id": "17879019438635354",
-   "yorum_id": null,
-   "fb_id": "1276642895542042_122109895365472027",
-   "fb_reels_id": null,
-   "slayt": 4,
-   "kanca": "EL CLASICO SONUCU",
-   "diger_kaynaklar": []
-  },
-  "705967823f2e": {
-   "id": "705967823f2e",
-   "kaynak": "AA",
-   "baslik": "Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
-   "ozet": "Formula 1 Dünya Şampiyonası'nda sezonun 18. yarışı ABD Grand Prix'sini, Mercedes takımından İtalyan pilot Kimi Antonelli kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/formula-1-abd-grand-prixsini-kimi-antonelli-kazandi/4100514",
-   "zaman": "2026-10-26T01:13:35+03:00",
-   "kelimeler": [
-    "abd",
-    "anton",
-    "formu",
-    "grand",
-    "kazan",
-    "kimi",
-    "prix",
-    "sini"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-26T01:32:27.353671+03:00",
-   "ig_id": "17926309806202081",
-   "reels_id": "18115742996017668",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1387792743134434",
-   "slayt": 1,
-   "kanca": "Dünyadan"
-  },
   "153993cf7f7b": {
    "id": "153993cf7f7b",
    "kaynak": "AA",
@@ -21814,7 +21755,8 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d9f8732fc47e": {
    "id": "d9f8732fc47e",
@@ -23403,7 +23345,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "TRT Haber"
+    "TRT Haber",
+    "XHABER"
    ]
   },
   "be4333c6c3b5": {
@@ -31492,9 +31435,95 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "38135b5c1b8f": {
+   "id": "38135b5c1b8f",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni Parti Genel Başkanı Özel: Sarıgül'ün üyeliği bitti, partimizle bir bağı yok",
+   "ozet": "Yeni Parti Genel Başkanı Özgür Özel, Erzincan Milletvekili Mustafa Sarıgül ile ilgili \"Kendisi partimize başvurarak 'üyeliğimi askıya alın' dedi. Siyasi Partiler Kanunu'nda üyeliği askıya almak diye bir şey yok, o istifa olarak değerlendiriliyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozel-sarigulun-uyeligi-bitti-partimizle-bir-bagi-yok-43358774",
+   "zaman": "2026-10-29T00:54:39+03:00",
+   "kelimeler": [
+    "bagi",
+    "baska",
+    "bitti",
+    "genel",
+    "ozel",
+    "parti",
+    "sarig",
+    "un",
+    "uyeli",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6e3bd8cc3ee3": {
+   "id": "6e3bd8cc3ee3",
+   "kaynak": "AA",
+   "baslik": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
+   "ozet": "Fitch Ratings, ABD'de 3 Kasım'da yapılacak ara seçimlerin ardından Kongre'deki dağılımın bütçe ve borç limiti konusunda anlaşmazlık riskini artırabileceğini ancak mali baskıların seçim sonucundan bağımsız olarak süreceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abddeki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-surecek/4104418",
+   "zaman": "2026-10-29T01:02:48+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "bagim",
+    "baski",
+    "deki",
+    "fitch",
+    "mali",
+    "secim",
+    "sonuc",
+    "surec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6851abbf47f7": {
+   "id": "6851abbf47f7",
+   "kaynak": "Hürriyet",
+   "baslik": "Sultangazi'de seyir halindeki otomobil alev topuna döndü",
+   "ozet": "İstanbul Sultangazi'de seyir halindeki otomobil alev alev yandı. Yangın anı, cep telefonu kamerasına anbean yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sultangazide-seyir-halindeki-otomobil-alev-topuna-dondu-43358784",
+   "zaman": "2026-10-29T01:11:53+03:00",
+   "kelimeler": [
+    "alev",
+    "dondu",
+    "halin",
+    "otomo",
+    "seyir",
+    "sulta",
+    "topun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3e1d76b3cbe4"
+  },
+  "ab407b433dd3": {
+   "id": "ab407b433dd3",
+   "kaynak": "XHABER",
+   "baslik": "Türkiye Cumhuriyeti 103 yaşında!",
+   "ozet": "29 Ekim Cumhuriyet Bayramımız kutlu olsun. 🇹🇷",
+   "link": "https://t.me/sahinozkan000/30405",
+   "zaman": "2026-10-29T01:13:03+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Türkiye Cumhuriyeti 103 yaşında!\n29 Ekim Cumhuriyet Bayramımız kutlu olsun. 🇹🇷",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/v69PeCcGwg5wS6_16tl-tE_7_l3l_wHpXPFZrBd0XwNBvfTAE5_98Dj-WuHlMULdN_uqrzS0yqeP9MXIKm-5BENA5EuZ97YKG9atWJOzLIscNcoyzy83vEVCJf-eAb4oNFb_gR8q9RIgM9Fm1PwUuLYmmynwqA3yFE0dRH6WAOADSb_JzUJRscfFoIhq32bpgyy28Bp8sjvKdqewo6x2r8NTwDOwgqo0d0-znpM-brMjy3KUTAOm_KzDMnkUi3iCvp1X_Lya4XWXmjJpO9umLGNxXS447DoymTytq4zc0MeYdTsMy4Ynie-YwrylLzkNW0cBdDMuGmMHjqrbzFX5Rw",
+   "tg_video_url": "https://cdn4.telesco.pe/file/b028f43d3d.mp4?token=NpV51wgtaOKv9BW0SeJnsBHJdVtjj-1bOYPkFyASrs7WDQYqisqFl8RzPiAHh8I68E8taSRwgaPRpRFAs8Ukpk0_BYjFTgpQLh5OhOF5DT914AKT64EvVadso_R7WQiYYlK1mkSyyI01msKOv2Vo9hlvIMOG0JUmfs9gEyuUHiPetirOTa4nwyITJtqNPQtKiTG0xFHefQa-2luAkehD9Lh6zBKQqk6uvzgjbDHa7luyYvQVv807A5BxLbKejzsu0KufFKlBsMb-BDw3IEEJyDYz8VQwg8sEm3CCcEc9nVt3NCOWwatVFbI-S8TGhIMXGzQdju6zrEVQlTYDFis-LQ",
+   "kelimeler": [
+    "103",
+    "cumhu",
+    "turki",
+    "yasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9000445f291e"
   }
  },
  "kayit": [
+  "29.10 01:15:59  2 yeni haber",
   "29.10 01:03:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Üç aracın karıştığı kazada 1 polis şehit oldu; 11 yaralı var",
   "29.10 01:01:25  1 yeni haber",
   "29.10 00:46:10  1 yeni haber",
@@ -31693,8 +31722,7 @@
   "26.10 23:46:17  5 yeni haber",
   "26.10 23:20:52  2 yeni haber",
   "26.10 23:01:25  1 yeni haber",
-  "26.10 22:46:09  1 yeni haber",
-  "26.10 22:31:26  5 yeni haber"
+  "26.10 22:46:09  1 yeni haber"
  ],
  "otomatik": false
 }
