@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "62b91a015035": {
-   "id": "62b91a015035",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Brezilya'da başa baş geçen seçim yarışını Lula önde götürüyor",
-   "ozet": "Brezilya'da görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında yarış başa baş sürüyor. Oyların yüzde 80'den fazlası sayıldı. İlk sonuçlara göre Lula, oyların yüzde 51.27'sine sahip.",
-   "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo",
-   "zaman": "2026-10-26T03:14:37+03:00",
-   "kelimeler": [
-    "bas",
-    "basa",
-    "brezi",
-    "gecen",
-    "gotur",
-    "lula",
-    "onde",
-    "secim",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "db06ed45f077": {
    "id": "db06ed45f077",
    "kaynak": "TRT Haber",
@@ -31547,9 +31526,53 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8ec2084a1a48"
+  },
+  "fb9f776eaef9": {
+   "id": "fb9f776eaef9",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankarada TDT Zirvesi kapsamında asayiş ve trafik denetimi yapıldı",
+   "ozet": "Başkentte, Türk Devletleri Teşkilatı TDT 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında yürütülen güvenlik tedbirleri çerçevesinde polis ekiplerince asayiş ve trafik denetimi gerçekleştirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/ankarada-tdt-zirvesi-kapsaminda-asayis-ve-trafik-denetimi-yapildi-961544.html",
+   "zaman": "2026-10-29T02:55:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "asayi",
+    "denet",
+    "kapsa",
+    "tdt",
+    "trafi",
+    "yapil",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "37ba45616f92": {
+   "id": "37ba45616f92",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
+   "ozet": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
+   "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko",
+   "zaman": "2026-10-29T03:07:54+03:00",
+   "kelimeler": [
+    "abd",
+    "belir",
+    "hayde",
+    "kaza",
+    "li",
+    "nin",
+    "oldug",
+    "olumu",
+    "oyunc",
+    "panet",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "29.10 03:16:15  2 yeni haber",
   "29.10 02:31:07  2 yeni haber",
   "29.10 01:46:11  1 yeni haber",
   "29.10 01:34:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yeni Parti Genel Başkanı Özel: Sarıgül'ün üyeliği bitti, partimizle bi",
@@ -31748,8 +31771,7 @@
   "27.10 00:46:10  2 yeni haber",
   "27.10 00:34:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
   "27.10 00:16:16  6 yeni haber",
-  "27.10 00:03:35  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · 7 gollü Karadeniz derbisinde kazanan belli oldu:",
-  "27.10 00:01:24  3 yeni haber"
+  "27.10 00:03:35  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · 7 gollü Karadeniz derbisinde kazanan belli oldu:"
  ],
  "otomatik": false
 }
