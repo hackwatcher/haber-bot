@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "c0b52bdd580d": {
-   "id": "c0b52bdd580d",
-   "kaynak": "NTV",
-   "baslik": "Sosyal medya yasağı ne zaman gelecek? Hangi uygulamalar yasaklanacak, nelere dikkat edilmeli?",
-   "ozet": "Çocuklara sosyal medya yasağının başlamasına kısa bir süre kaldı. Artık yeni hesaplar için yaş doğrulama zorunlu olacak. Bu durumu fırsata çeviren dolandırıcılar ise iş başında.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-15-yas-altina-sosyal-medya-yasagi-basliyor-yas-dogrulamasini-hemen-yapin-mesajlarina-dikkat-1747974",
-   "zaman": "2026-10-26T08:48:24+03:00",
-   "kelimeler": [
-    "dikka",
-    "edilm",
-    "gelec",
-    "hangi",
-    "medya",
-    "neler",
-    "sosya",
-    "uygul",
-    "yasag",
-    "yasak",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "63dc1337b81c": {
-   "id": "63dc1337b81c",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da bu akşam trafik işkencesi var",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbul-da-bu-aksam-trafik-iskencesi-var-p372713",
-   "zaman": "2026-10-26T08:51:16+03:00",
-   "kelimeler": [
-    "aksam",
-    "isken",
-    "istan",
-    "trafi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "af4d1591fffe": {
-   "id": "af4d1591fffe",
-   "kaynak": "AA",
-   "baslik": "Rusya: Ukrayna'da askeri depo, liman, gemi ve enerji tesislerini vurduk",
-   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'da askeri depo, liman, gemi ve enerji tesislerini vurduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-depo-liman-gemi-ve-enerji-tesislerini-vurduk/4100596",
-   "zaman": "2026-10-26T08:55:16+03:00",
-   "kelimeler": [
-    "asker",
-    "depo",
-    "enerj",
-    "gemi",
-    "liman",
-    "rusya",
-    "tesis",
-    "ukray",
-    "vurdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "c7c2d3345777": {
-   "id": "c7c2d3345777",
-   "kaynak": "TRT Haber",
-   "baslik": "Musk, Ukrayna'yı Starlink'in hizmet şartlarını ihlal etmekle suçladı",
-   "ozet": "SpaceX CEO'su Elon Musk, Kiev'in hizmete erişimin sağlandığını açıklamasının ardından Ukrayna ordusunu Starlink'in hizmet şartlarını ihlal etmekle suçladı.",
-   "link": "https://www.trthaber.com/haber/dunya/musk-ukraynayi-starlinkin-hizmet-sartlarini-ihlal-etmekle-sucladi-961193.html",
-   "zaman": "2026-10-26T08:56:00+03:00",
-   "kelimeler": [
-    "etmek",
-    "hizme",
-    "ihlal",
-    "in",
-    "musk",
-    "sartl",
-    "starl",
-    "sucla",
-    "ukray",
-    "yi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "90920dd9d8e5": {
-   "id": "90920dd9d8e5",
-   "kaynak": "TRT Haber",
-   "baslik": "İran savaşının gezegenin en eşsiz denizlerinden birine zehirli etkisi",
-   "ozet": "Orta Doğu'daki çatışmalar, bölgede devasa bir çevre felaketini tetikliyor. ABD, İsrail ve İran eksenindeki saldırılar petrol tesislerini harabeye çevirirken, atmosfere yayılan zehirli gazlar ve denize sızan tonlarca petrol, dünyanın en hassas ekosistemlerinden Basra Körfezi'ni…",
-   "link": "https://www.trthaber.com/haber/dunya/iran-savasinin-gezegenin-en-essiz-denizlerinden-birine-zehirli-etkisi-961194.html",
-   "zaman": "2026-10-26T09:00:00+03:00",
-   "kelimeler": [
-    "birin",
-    "deniz",
-    "essiz",
-    "etkis",
-    "gezeg",
-    "iran",
-    "savas",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e1d78477d8b3": {
    "id": "e1d78477d8b3",
    "kaynak": "AA",
@@ -32024,9 +31918,106 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f783f3384a90": {
+   "id": "f783f3384a90",
+   "kaynak": "Hürriyet",
+   "baslik": "Şırnak'ta korkunç kaza: Yolcu otobüsü tır ile çarpıştı! 15 yaralı",
+   "ozet": "Şırnak’ta kontrolden çıkan bir yolcu otobüsü, önce seyir halindeki bir tırla çarpıştı, ardından savrularak yol kenarında bulunan bir eve çarparak durabildi. Can pazarının yaşandığı kazada ilk belirlemelere göre 15 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sirnakta-korkunc-kaza-tirla-carpisan-otobus-eve-carpti-15-yarali-43358843",
+   "zaman": "2026-10-29T08:46:00+03:00",
+   "kelimeler": [
+    "15",
+    "carpi",
+    "kaza",
+    "korku",
+    "otobu",
+    "sirna",
+    "ta",
+    "tir",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-29T09:03:08.169949+03:00",
+   "ig_id": "18126524764909556",
+   "reels_id": "18126745882920923",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1655528499692897",
+   "slayt": 5,
+   "kanca": "EVE ÇARPARAK DURDU"
+  },
+  "a86ffa812cb2": {
+   "id": "a86ffa812cb2",
+   "kaynak": "NTV",
+   "baslik": "Cumhuriyetin ilanı: Dönemin yerli ve yabancı basını 1923 manşetlerinde ne yazdı?",
+   "ozet": "29 Ekim 1923'te Cumhuriyet'in ilanı ile Türkiye yeni bir güne uyandı. Dönemin yerli ve yabancı basını Cumhuriyetin ilanına geniş yer ayırdı. İşte o günkü gazetelerin ilk sayfaları.",
+   "link": "https://www.ntv.com.tr/turkiye/video-cumhuriyetin-ilani-1923-mansetlerinde-ne-yazdi-1748440",
+   "zaman": "2026-10-29T08:54:33+03:00",
+   "kelimeler": [
+    "1923",
+    "basin",
+    "cumhu",
+    "donem",
+    "ilani",
+    "manse",
+    "yaban",
+    "yazdi",
+    "yerli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fccf233c5074": {
+   "id": "fccf233c5074",
+   "kaynak": "NTV",
+   "baslik": "Turuncu kodlu uyarı verilmişti. 15 gün sonra aynı kabus, dereler taştı, sele teslim oldu",
+   "ozet": "Yurt genelinde kuvvetli sağanaklar etkili oluyor. Antalya, Muğla ve Aydın başta olmak üzere gece saatlerindeki sağanak su baskınlarına neden oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-turuncu-kodlu-uyari-verilmisti-15-gun-sonra-ayni-kabus-dereler-tasti-sele-teslim-oldu-1748444",
+   "zaman": "2026-10-29T08:59:31+03:00",
+   "kelimeler": [
+    "15",
+    "ayni",
+    "derel",
+    "gun",
+    "kabus",
+    "kodlu",
+    "sele",
+    "tasti",
+    "tesli",
+    "turun",
+    "uyari",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d46b8f6e97d4": {
+   "id": "d46b8f6e97d4",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan: Cumhuriyetimiz hür yaşama kararlılığının en büyük nişanesidir",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı mesajında Cumhuriyet'in hür yaşama kararlılığının en büyük göstergesi olduğunu belirterek \"Türkiye bugün dünden daha güçlüdür.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-cumhuriyetimiz-hur-yasama-kararliliginin-en-buyuk-nisanesidir-1748435",
+   "zaman": "2026-10-29T09:00:06+03:00",
+   "kelimeler": [
+    "buyuk",
+    "cumhu",
+    "erdog",
+    "hur",
+    "karar",
+    "nisan",
+    "yasam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 09:03:08  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şırnak'ta korkunç kaza: Yolcu otobüsü tır ile çarpıştı! 15 yaralı",
+  "29.10 09:01:23  4 yeni haber",
   "29.10 08:46:07  1 yeni haber",
   "29.10 08:16:10  3 yeni haber",
   "29.10 08:16:10  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
@@ -32224,9 +32215,7 @@
   "27.10 08:31:11  3 yeni haber",
   "27.10 08:16:01  2 yeni haber",
   "27.10 08:01:45  2 yeni haber",
-  "27.10 07:46:02  2 yeni haber",
-  "27.10 07:31:10  3 yeni haber",
-  "27.10 07:16:13  10 yeni haber"
+  "27.10 07:46:02  2 yeni haber"
  ],
  "otomatik": false
 }
