@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "0c59009df8a8": {
-   "id": "0c59009df8a8",
-   "kaynak": "NTV",
-   "baslik": "Kabine toplanıyor. Ana gündem fon soruşturması",
-   "ozet": "Cumhurbaşkanlığı Kabinesi, bugün Beştepe'de toplanacak. Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlık edeceği toplantıda ana gündem maddesi fon soruşturması olacak.",
-   "link": "https://www.ntv.com.tr/turkiye/kabine-toplaniyor-ana-gundem-fon-sorusturmasi-1747884",
-   "zaman": "2026-10-26T08:08:35+03:00",
-   "kelimeler": [
-    "ana",
-    "fon",
-    "gunde",
-    "kabin",
-    "sorus",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a4bbb658fe72"
-  },
-  "a408fae963a6": {
-   "id": "a408fae963a6",
-   "kaynak": "TRT Haber",
-   "baslik": "İngiltere Savunma Bakanı Wes Streeting: 1000 gün içinde savaşa hazır olmalıyız",
-   "ozet": "Savunma Bakanı Wes Streeting, İngiltere'nin önümüzdeki 1000 gün içinde savaşa hazır olması gerektiği uyarısında bulunarak, özellikle Rusya ile artan jeopolitik gerilimler nedeniyle vatandaşları su, gıda ve acil durum malzemeleri stoklamaya çağırdı.",
-   "link": "https://www.trthaber.com/haber/dunya/ingiltere-savunma-bakani-wes-streeting-1000-gun-icinde-savasa-hazir-olmaliyiz-961189.html",
-   "zaman": "2026-10-26T08:15:00+03:00",
-   "kelimeler": [
-    "1000",
-    "bakan",
-    "gun",
-    "hazir",
-    "icind",
-    "ingil",
-    "olmal",
-    "savas",
-    "savun",
-    "stree",
-    "wes"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "20a3004258ac": {
    "id": "20a3004258ac",
    "kaynak": "TRT Haber",
@@ -32023,9 +31981,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4ff32f7f0d29": {
+   "id": "4ff32f7f0d29",
+   "kaynak": "TRT Haber",
+   "baslik": "Baykuşlara tuhaf bir şeyler oluyor: Renk değiştiriyorlar",
+   "ozet": "İsviçre'deki peçeli baykuşlar son 30 yılda daha kızıl kahverengi ve daha yoğun benekli hale geldi.",
+   "link": "https://www.trthaber.com/haber/dunya/baykuslara-tuhaf-bir-seyler-oluyor-renk-degistiriyorlar-961570.html",
+   "zaman": "2026-10-29T07:55:00+03:00",
+   "kelimeler": [
+    "bayku",
+    "degis",
+    "oluyo",
+    "renk",
+    "seyle",
+    "tuhaf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "83a6c40aa7e0": {
+   "id": "83a6c40aa7e0",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul Valiliği duyurdu: Vatan Caddesi Kortej geçişi ertelendi",
+   "ozet": "İstanbul Valiliği, 29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında düzenlenecek olan Vatan Caddesi Kortej geçişinin, yağış nedeniyle ileri bir tarihe ertelendiğini duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-valiligi-duyurdu-vatan-caddesi-kortej-gecisi-ertelendi-43358824",
+   "zaman": "2026-10-29T08:00:37+03:00",
+   "kelimeler": [
+    "cadde",
+    "duyur",
+    "ertel",
+    "gecis",
+    "istan",
+    "korte",
+    "valil",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "897b9b3a4a58": {
+   "id": "897b9b3a4a58",
+   "kaynak": "AA",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda ABD yapımı MQ-1 tipi insansız hava aracının (İHA) düşürüldüğünü öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4104469",
+   "zaman": "2026-10-29T08:14:00+03:00",
+   "kelimeler": [
+    "bogaz",
+    "devri",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "mq",
+    "muhaf",
+    "nda",
+    "tipi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 08:16:10  3 yeni haber",
+  "29.10 08:16:10  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "29.10 08:01:21  1 yeni haber",
   "29.10 07:45:59  1 yeni haber",
   "29.10 07:31:57  4 yeni haber",
@@ -32223,9 +32243,7 @@
   "27.10 07:46:02  2 yeni haber",
   "27.10 07:31:10  3 yeni haber",
   "27.10 07:16:13  10 yeni haber",
-  "27.10 07:02:46  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Fenerbahçeli taraftarlar İsmail Kartal'ı istifaya çağırıyor.",
-  "27.10 07:01:21  3 yeni haber",
-  "27.10 06:31:10  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "27.10 07:02:46  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Fenerbahçeli taraftarlar İsmail Kartal'ı istifaya çağırıyor."
  ],
  "otomatik": false
 }
