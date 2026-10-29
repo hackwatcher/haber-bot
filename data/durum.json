@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "479a0bbfc00d": {
-   "id": "479a0bbfc00d",
-   "kaynak": "TRT Haber",
-   "baslik": "Garajınızda ne zaman uçan bir araba göreceksiniz? Yakın zamanda değil",
-   "ozet": "İnsanlar uçuşun ve otomobillerin ilk günlerinden beri uçan arabaların hayalini kuruyor. Tesla'nın bu ayın başlarında yeni Roadster modelinin \"uçan\" versiyonuyla yaptığı gösteri, bu hayale yaklaştığımız anlamına mı geliyor?",
-   "link": "https://www.trthaber.com/haber/dunya/garajinizda-ne-zaman-ucan-bir-araba-goreceksiniz-yakin-zamanda-degil-961192.html",
-   "zaman": "2026-10-26T08:45:00+03:00",
-   "kelimeler": [
-    "araba",
-    "degil",
-    "garaj",
-    "gorec",
-    "ucan",
-    "yakin",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c0b52bdd580d": {
    "id": "c0b52bdd580d",
    "kaynak": "NTV",
@@ -32023,9 +32004,30 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "c78c9ee26438"
+  },
+  "572da1fffbc0": {
+   "id": "572da1fffbc0",
+   "kaynak": "TRT Haber",
+   "baslik": "Aydın'da taşan dereden geçmeye çalışan otomobil sele kapıldı",
+   "ozet": "Aydının Koçarlı ilçesinde, etkili olan sağanakta taşan Sarıçay Deresinden geçmeye çalışan otomobil sele kapıldı. Araçta bulunan sürücü ve yolcu jandarma ve vatandaşların müdahalesiyle kurtarılırken, otomobil bulunduğu yerden çıkarıldı. O anlar kameraya da yansıdı.",
+   "link": "https://www.trthaber.com/haber/turkiye/aydinda-tasan-dereden-gecmeye-calisan-otomobil-sele-kapildi-961568.html",
+   "zaman": "2026-10-29T07:34:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "calis",
+    "dered",
+    "gecme",
+    "kapil",
+    "otomo",
+    "sele",
+    "tasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 08:46:07  1 yeni haber",
   "29.10 08:16:10  3 yeni haber",
   "29.10 08:16:10  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "29.10 08:01:21  1 yeni haber",
@@ -32224,8 +32226,7 @@
   "27.10 08:01:45  2 yeni haber",
   "27.10 07:46:02  2 yeni haber",
   "27.10 07:31:10  3 yeni haber",
-  "27.10 07:16:13  10 yeni haber",
-  "27.10 07:02:46  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Fenerbahçeli taraftarlar İsmail Kartal'ı istifaya çağırıyor."
+  "27.10 07:16:13  10 yeni haber"
  ],
  "otomatik": false
 }
