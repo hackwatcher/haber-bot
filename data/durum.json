@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "6170dce08061": {
-   "id": "6170dce08061",
-   "kaynak": "TRT Haber",
-   "baslik": "Elazığ'da 3 tır zincirleme kazaya karıştı",
-   "ozet": "Elazığ'da 3 tırın karıştığı zincirleme trafik kazasında ilk belirlemelere göre 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/elazigda-3-tir-zincirleme-kazaya-karisti-961269.html",
-   "zaman": "2026-10-26T22:49:00+03:00",
-   "kelimeler": [
-    "elazi",
-    "karis",
-    "kazay",
-    "tir",
-    "zinci"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "10ce502dc090": {
    "id": "10ce502dc090",
    "kaynak": "Hürriyet",
@@ -31929,7 +31912,8 @@
     "ziraa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ee98e385b6a7": {
    "id": "ee98e385b6a7",
@@ -32520,9 +32504,124 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2c6b25ea2603": {
+   "id": "2c6b25ea2603",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu",
+   "ozet": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri Sabri Koz, Prof. Dr. İlhami Turan, Sibel Eraslan, Burçak Evren, Prof. Dr. Gönül Paçacı ve Ahmedi Hani oldu.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kultur-ve-sanat-buyuk-odullerinin-sahipleri-belli-oldu-961672.html",
+   "zaman": "2026-10-29T22:40:00+03:00",
+   "kelimeler": [
+    "belli",
+    "buyuk",
+    "cumhu",
+    "kultu",
+    "nin",
+    "odull",
+    "sahip",
+    "sanat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "9083415992e2": {
+   "id": "9083415992e2",
+   "kaynak": "AA",
+   "baslik": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu",
+   "ozet": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri Sabri Koz, Prof. Dr. İlhami Turan, Sibel Eraslan, Burçak Evren, Prof. Dr. Gönül Paçacı ve Ahmed-i Hani oldu.",
+   "link": "https://www.aa.com.tr/tr/kultur/2026-cumhurbaskanligi-kultur-ve-sanat-buyuk-odullerinin-sahipleri-belli-oldu/4105438",
+   "zaman": "2026-10-29T22:40:45+03:00",
+   "kelimeler": [
+    "2026",
+    "belli",
+    "buyuk",
+    "cumhu",
+    "kultu",
+    "nin",
+    "odull",
+    "sahip",
+    "sanat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2c6b25ea2603"
+  },
+  "54aeaeef211e": {
+   "id": "54aeaeef211e",
+   "kaynak": "AA",
+   "baslik": "Ziraat Türkiye Kupası 3. eleme turu 4 maçla tamamlandı",
+   "ozet": "Futbolda Ziraat Türkiye Kupası 3. eleme turu, bugün oynanan 4 karşılaşmayla sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasi-3-eleme-turu-4-macla-tamamlandi/4105439",
+   "zaman": "2026-10-29T22:41:01+03:00",
+   "kelimeler": [
+    "eleme",
+    "kupas",
+    "macla",
+    "tamam",
+    "turki",
+    "turu",
+    "ziraa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5ccd16dd81bb"
+  },
+  "f3547003509c": {
+   "id": "f3547003509c",
+   "kaynak": "AA",
+   "baslik": "İsrail İç İstihbarat Teşkilatı, seçimlere dış müdahale iddiasının herhangi bir partiden gelmediğini savundu",
+   "ozet": "İsrail'de Filistinlileri temsil eden Arap partilerin seçim başarısının ardından soruşturma açılması talepleri üzerine Şin-Bet, seçimlere dış müdahaleye ilişkin bilginin herhangi bir parti veya siyasi oluşumdan gelmediğini savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ic-istihbarat-teskilati-secimlere-dis-mudahale-iddiasinin-herhangi-bir-partiden-gelmedigini-savundu/4105440",
+   "zaman": "2026-10-29T22:41:19+03:00",
+   "kelimeler": [
+    "dis",
+    "gelme",
+    "herha",
+    "ic",
+    "iddia",
+    "israi",
+    "istih",
+    "mudah",
+    "parti",
+    "savun",
+    "secim",
+    "teski"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f511223c7259": {
+   "id": "f511223c7259",
+   "kaynak": "Hürriyet",
+   "baslik": "ABD'nin Ankara Büyükelçisi Barrack’tan Cumhurbaşkanı Erdoğan ile Trump görüşmesine ilişkin değerlendirme",
+   "ozet": "ABD'nin Ankara Büyükelçisi ve Suriye ile Irak Özel Temsilcisi Tom Barrack, \"Türk devletleri arasındaki ortaklık, her iki liderin de (ABD Başkanı Donald Trump-Cumhurbaşkanı Recep Tayyip Erdoğan) paylaştığı vizyonun merkezinde yer almaktadır.\" ifadesini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/abdnin-ankara-buyukelcisi-barracktan-cumhurbaskani-erdogan-ile-trump-gorusmesine-iliskin-degerlendirme-43359946",
+   "zaman": "2026-10-29T22:55:40+03:00",
+   "kelimeler": [
+    "abd",
+    "ankar",
+    "barra",
+    "buyuk",
+    "cumhu",
+    "deger",
+    "erdog",
+    "gorus",
+    "ilisk",
+    "nin",
+    "tan",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "78df90418a23"
   }
  },
  "kayit": [
+  "29.10 23:01:26  2 yeni haber",
   "29.10 22:46:07  2 yeni haber",
   "29.10 22:31:13  2 yeni haber",
   "29.10 22:01:35  4 yeni haber",
@@ -32721,8 +32820,7 @@
   "27.10 23:01:19  3 yeni haber",
   "27.10 22:46:05  2 yeni haber",
   "27.10 22:31:10  6 yeni haber",
-  "27.10 22:01:31  2 yeni haber",
-  "27.10 21:46:40  3 yeni haber"
+  "27.10 22:01:31  2 yeni haber"
  ],
  "otomatik": false
 }
