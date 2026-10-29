@@ -1,119 +1,5 @@
 {
  "haberler": {
-  "1fde61327b43": {
-   "id": "1fde61327b43",
-   "kaynak": "TRT Haber",
-   "baslik": "Yunan basını: Türkiyenin yükselişi biz yalnızlaştırıyor",
-   "ozet": "Türk Savunma Sanayiinin yükselişi ve birçok ülkeyle yapılan anlaşmalar, Yunan basınında tedirginlik yaratmaya devam ediyor. Yayınlanan bir analizde, Türkiyenin yükselen gücünün Yunanistanda yalnız kalma endişesi yarattığı belirtildi.",
-   "link": "https://www.trthaber.com/haber/dunya/yunan-basini-turkiyenin-yukselisi-biz-yalnizlastiriyor-961234.html",
-   "zaman": "2026-10-26T14:04:00+03:00",
-   "kelimeler": [
-    "basin",
-    "biz",
-    "turki",
-    "yalni",
-    "yukse",
-    "yunan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0b3d55d65f0c": {
-   "id": "0b3d55d65f0c",
-   "kaynak": "AA",
-   "baslik": "Hava ve deniz ambulanslarıyla 121 bin 832 vatandaşa sağlık hizmeti sunuldu",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, bugüne kadar hava ambulanslarıyla 76 bin 414, deniz ambulanslarıyla ise 45 bin 418 vatandaşa sağlık hizmeti sunduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/hava-ve-deniz-ambulanslariyla-121-bin-832-vatandasa-saglik-hizmeti-sunuldu/4101139",
-   "zaman": "2026-10-26T14:06:55+03:00",
-   "kelimeler": [
-    "121",
-    "832",
-    "ambul",
-    "bin",
-    "deniz",
-    "hava",
-    "hizme",
-    "sagli",
-    "sunul",
-    "vatan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "65c9f42bc29f": {
-   "id": "65c9f42bc29f",
-   "kaynak": "NTV",
-   "baslik": "Mekke İttifakı'ndan Tahran ziyareti. Türkiye'yi MİT Başkanı İbrahim Kalın temsil ediyor",
-   "ozet": "Türkiye, Pakistan ve Suudi Arabistan'dan oluşan Mekke İttifakı'nın yetkilileri bugün Tahran'da. Toplantıda Türkiye'yi MİT Başkanı İbrahim Kalın temsil ediyor.",
-   "link": "https://www.ntv.com.tr/turkiye/mekke-ittifakindan-tahran-ziyareti-turkiyeyi-mit-baskani-ibrahim-kalin-temsil-ediyor-1748004",
-   "zaman": "2026-10-26T14:08:28+03:00",
-   "kelimeler": [
-    "baska",
-    "ediyo",
-    "ibrah",
-    "ittif",
-    "kalin",
-    "mekke",
-    "mit",
-    "ndan",
-    "tahra",
-    "temsi",
-    "turki",
-    "yi",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "800ced239e4a"
-  },
-  "beb4cbfd998c": {
-   "id": "beb4cbfd998c",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil İsrail 3 yılda 9 binden fazlası anne olan 12 bin 500'den fazla kadını öldürdü",
-   "ozet": "Katil İsrail'in Ekim 2023'ten bu yana Gazze Şeridi'ne düzenlediği saldırılarda, aralarında 9 binden fazla annenin de bulunduğu 12 bin 500'den fazla kadın hayatını kaybetti.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israil-3-yilda-9-binden-fazlasi-anne-olan-12-bin-500den-fazla-kadini-oldurdu-961235.html",
-   "zaman": "2026-10-26T14:10:00+03:00",
-   "kelimeler": [
-    "12",
-    "500",
-    "anne",
-    "bin",
-    "binde",
-    "den",
-    "fazla",
-    "israi",
-    "kadin",
-    "katil",
-    "oldur",
-    "yilda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c96b71b7dd0a"
-  },
-  "2cbb8721616d": {
-   "id": "2cbb8721616d",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Memişoğlu: 7 milyonun üzerinde vatandaşa şifa kapısı olduk",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, bugüne kadar hava ambulanslarıyla 76 bin 414, deniz ambulanslarıyla ise 45 bin 418 vatandaşa sağlık hizmeti sunduklarını bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-7-milyonun-uzerinde-vatandasa-sifa-kapisi-olduk-43355458",
-   "zaman": "2026-10-26T14:14:18+03:00",
-   "kelimeler": [
-    "bakan",
-    "kapis",
-    "memis",
-    "milyo",
-    "olduk",
-    "sifa",
-    "uzeri",
-    "vatan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "b19dd1f638cf": {
    "id": "b19dd1f638cf",
    "kaynak": "AA",
@@ -28983,7 +28869,11 @@
     "valis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "TRT Haber"
+   ]
   },
   "2074021abf0c": {
    "id": "2074021abf0c",
@@ -32220,9 +32110,190 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "64203e1b4f11": {
+   "id": "64203e1b4f11",
+   "kaynak": "AA",
+   "baslik": "İnme vakalarında \"çarpıntı ataklarına\" dikkat edilmeli",
+   "ozet": "Kırklareli Üniversitesi Tıp Fakültesi Nöroloji Ana Bilim Dalı Öğretim Üyesi Prof. Dr. Özlem Altıntaş Kadırhan, inme vakalarında \"çarpıntı ataklarına\" dikkat edilmesi gerektiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/inme-vakalarinda-carpinti-ataklarina-dikkat-edilmeli/4104817",
+   "zaman": "2026-10-29T13:36:22+03:00",
+   "kelimeler": [
+    "atakl",
+    "carpi",
+    "dikka",
+    "edilm",
+    "inme",
+    "vakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "698f71c5816c": {
+   "id": "698f71c5816c",
+   "kaynak": "AA",
+   "baslik": "Şanlıurfa'da peygamberlerin ve ilim insanlarının hikayeleri dijital ortamda anlatılıyor",
+   "ozet": "Türkiye'nin önemli inanç merkezlerinden, \"Peygamberler Şehri\" olarak nitelendirilen Şanlıurfa'daki Balıklıgöl Yerleşkesi'nde, peygamberlerin ve ilim insanlarının hikayeleri dijital ortamda anlatılıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/sanliurfada-peygamberlerin-ve-ilim-insanlarinin-hikayeleri-dijital-ortamda-anlatiliyor/4104823",
+   "zaman": "2026-10-29T13:37:35+03:00",
+   "kelimeler": [
+    "anlat",
+    "dijit",
+    "hikay",
+    "ilim",
+    "insan",
+    "ortam",
+    "peyga",
+    "sanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "71bf95744acf": {
+   "id": "71bf95744acf",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-29-ekim-cumhuriyet-bayrami-tebriklerini-kabul-etti/4104829",
+   "zaman": "2026-10-29T13:40:28+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "cumhu",
+    "ekim",
+    "erdog",
+    "etti",
+    "kabul",
+    "tebri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "682b9135453a"
+  },
+  "09627e7fad27": {
+   "id": "09627e7fad27",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, tebrikleri kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tebrikleri-kabul-etti-961621.html",
+   "zaman": "2026-10-29T13:43:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "etti",
+    "kabul",
+    "tebri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "682b9135453a"
+  },
+  "e09db6f12257": {
+   "id": "e09db6f12257",
+   "kaynak": "AA",
+   "baslik": "Liderlerden Cumhurbaşkanı Erdoğan'a 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "Azerbaycan Cumhurbaşkanı İlham Aliyev ve İran Cumhurbaşkanı Mesud Pezeşkiyan, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a tebriklerini iletti.",
+   "link": "https://www.aa.com.tr/tr/gundem/liderlerden-cumhurbaskani-erdogana-29-ekim-cumhuriyet-bayrami-mesaji/4104851",
+   "zaman": "2026-10-29T14:06:49+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "cumhu",
+    "ekim",
+    "erdog",
+    "lider",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d65753ccb060"
+  },
+  "87ba2038611f": {
+   "id": "87ba2038611f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Sinem Dedetaş için tahliye ve ev hapsi kararı",
+   "ozet": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
+   "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo",
+   "zaman": "2026-10-29T14:07:09+03:00",
+   "kelimeler": [
+    "dedet",
+    "ev",
+    "hapsi",
+    "karar",
+    "sinem",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "e044144344d5": {
+   "id": "e044144344d5",
+   "kaynak": "NTV",
+   "baslik": "Tek öğrencisi olan okulda tören: \"İşte Cumhuriyet tam olarak budur\"",
+   "ozet": "Konya’nın Ilgın ilçesinde, 1 öğretmen ve 1 öğrencinin bulunduğu okulda 29 Ekim Cumhuriyet Bayramı törenle kutlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-tek-ogrencisi-olan-okulda-toren-iste-cumhuriyet-tam-olarak-budur-1748515",
+   "zaman": "2026-10-29T14:09:10+03:00",
+   "kelimeler": [
+    "budur",
+    "cumhu",
+    "iste",
+    "ogren",
+    "okuld",
+    "tam",
+    "tek",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1860b3f0a2b0": {
+   "id": "1860b3f0a2b0",
+   "kaynak": "NTV",
+   "baslik": "Sinem Dedetaş'a ev hapsiyle tahliye",
+   "ozet": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş'ın ev hapsi şartıyla tahliyesine karar verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sinem-dedetasa-ev-hapsiyle-tahliye-1748516",
+   "zaman": "2026-10-29T14:14:51+03:00",
+   "kelimeler": [
+    "dedet",
+    "ev",
+    "hapsi",
+    "sinem",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "87ba2038611f"
+  },
+  "b7673f596997": {
+   "id": "b7673f596997",
+   "kaynak": "XHABER",
+   "baslik": "Anıtkabir'de bugünkü törende İstiklal Marşı okunduğu esnada, 4.",
+   "ozet": "Kolordu ve Ankara Garnizon Komutanı Tümgeneral Emre Tayanç'ın gür sesi yankılandı.",
+   "link": "https://t.me/sahinozkan000/30412",
+   "zaman": "2026-10-29T14:15:42+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Anıtkabir'de bugünkü törende İstiklal Marşı okunduğu esnada, 4. Kolordu ve Ankara Garnizon Komutanı Tümgeneral Emre Tayanç'ın gür sesi yankılandı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/cT4nFmoAjsa_yJN-Po6knKIrnXuRFY4tACKeS9AanpoGnx9onwZIV1561C1x-jzVmzyJo-5hr9ZHBgJdCFEQV4aXD9_BIiLLTpxpyImDudmkpGUmbLiAiSKVcwqPU58buMMF0mj2SlwZhjmB8uQvGqJSSS6WjlCc_awqhnHEOjNllAVZ6wCp-Is62eqPnzvaxnCPMB1_2M_QA7FjSHdyllUHC9Ko9KuGnOw6pjPEdkb9jpbrhkBOuPUJSy4AL-elAWk8ZrT9NgkkPxYHclRBNMqXok2txmqjPKgplJuiEjX4Xg2WepDmjKOBaBS4xdxvTVFQQTWIOYiJVWG0e2ZJKg",
+   "tg_video_url": "https://cdn4.telesco.pe/file/fe9e5052bb.mp4?token=ib2kdaaUEGxCmPVQtrqbA16MQScFnBBbxx4WDVPTsOKz4yoP6zemL36Ow5ZJ-nF0JHYDFGL841wt3va_YRhv2zm8-kPhT7RPiOv1b0ut2xbU0Y8vXe2IJ0HR-VWvWRJFaW2fqRl9BjQKLGPhSsIYoM2DWPTqzS8GV6PmdeiYLShogbwB2UW7UwiV_a0EnIm4cSf20oWaOt01zf-4F3tgrsENSCdfk3X33um0ZYloFzuN2dOyc5UMF4lqzavtqFBxMGh4LBqBzl9Dam59vxFDYl4g4GP2atIza2uWpCrbrKCno5x07_qFDVtjTz1R5wGHf01pTgAXd9k-pOEXlaixyVYSsoxPC_HtdqDSaR4YmjUhcKIpAVvkvDwdWjhbuv2ecGRZ8RpjZFte_v02jDeNIlXhn_PL6inU6Sq36lFBU0f9ihfyYPAPFnrI2DWtW6kfe230H5aSeBgQggqbSmnEb47Lbvrzbht_p1CtKvrzrfos7zcsitMyAd5d7gYN-Bv_U2Axrloh2YLUof__LY8h73eKuyau44qXOTu3BexTlikVvJhvLV85QWmsxHRiw07C6ziMq5i4wckD-l2kZMGOhFoiLsnhPARAxIob-HBeDkx2lrw7Tx0RHiXYyba4CuLwzlIsWQP3uW2TF_rZ1i9dnvw4_4k-YFnmXPESRz1rqNY",
+   "kelimeler": [
+    "anitk",
+    "bugun",
+    "esnad",
+    "istik",
+    "marsi",
+    "okund",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 14:15:58  5 yeni haber",
+  "29.10 14:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "29.10 14:01:26  6 yeni haber",
   "29.10 13:45:56  5 yeni haber",
   "29.10 13:31:13  8 yeni haber",
@@ -32420,9 +32491,7 @@
   "27.10 13:46:07  7 yeni haber",
   "27.10 13:31:20  4 yeni haber",
   "27.10 13:18:14  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yolcu otobüsü devrildi: 1 ölü, 7 yaralı",
-  "27.10 13:15:56  1 yeni haber",
-  "27.10 13:01:27  6 yeni haber",
-  "27.10 12:46:02  9 yeni haber"
+  "27.10 13:15:56  1 yeni haber"
  ],
  "otomatik": false
 }
