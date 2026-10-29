@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "20a3004258ac": {
-   "id": "20a3004258ac",
-   "kaynak": "TRT Haber",
-   "baslik": "İngiltere'de savaş uyarısının arından kurmalı radyolar yok satıyor",
-   "ozet": "Hükümetin halka krizlere karşı hazırlıklı olmak için stok yapmaya başlamasını tavsiye etmesinin ardından kurmalı radyolar hızla tükeniyor.",
-   "link": "https://www.trthaber.com/haber/dunya/ingilterede-savas-uyarisinin-arindan-kurmali-radyolar-yok-satiyor-961190.html",
-   "zaman": "2026-10-26T08:18:00+03:00",
-   "kelimeler": [
-    "arind",
-    "ingil",
-    "kurma",
-    "radyo",
-    "satiy",
-    "savas",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9397726e4b61": {
-   "id": "9397726e4b61",
-   "kaynak": "Sözcü",
-   "baslik": "Galatasaray-Fenerbahçe derbisi öncesi metro düzenlemesi: Seferler uzatıldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/galatasaray-fenerbahce-derbisi-oncesi-metro-duzenlemesi-seferler-uzatildi-p372741",
-   "zaman": "2026-10-26T08:30:30+03:00",
-   "kelimeler": [
-    "derbi",
-    "duzen",
-    "fener",
-    "galat",
-    "metro",
-    "onces",
-    "sefer",
-    "uzati"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "79cee138d8be": {
-   "id": "79cee138d8be",
-   "kaynak": "TRT Haber",
-   "baslik": "Anthropic, yapay zeka modellerini eğitmek için 274 Elvis Presley şarkısını kullandığı iddiasıyla dava edildi",
-   "ozet": "Elvis Presley'in müzik kataloğunun sahipleri, yapay zeka şirketi Anthropic'e, Presley'in şarkılarını modellerini eğitmek için izinsiz kullandığı iddiasıyla dava açtı.",
-   "link": "https://www.trthaber.com/haber/dunya/anthropic-yapay-zeka-modellerini-egitmek-icin-274-elvis-presley-sarkisini-kullandigi-iddiasiyla-dava-edildi-961191.html",
-   "zaman": "2026-10-26T08:32:00+03:00",
-   "kelimeler": [
-    "274",
-    "anthr",
-    "dava",
-    "edild",
-    "egitm",
-    "elvis",
-    "iddia",
-    "kulla",
-    "model",
-    "presl",
-    "sarki",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "479a0bbfc00d": {
    "id": "479a0bbfc00d",
    "kaynak": "TRT Haber",
@@ -26062,7 +25995,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "67fd75d9c47c": {
    "id": "67fd75d9c47c",
@@ -32040,7 +31975,54 @@
     "tipi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "616fc92b0498": {
+   "id": "616fc92b0498",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ1 tipi İHA düşürüldü",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın ABD yapımı MQ1 tipi insansız hava aracının İHA düşürülmesini öne sürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-961571.html",
+   "zaman": "2026-10-29T08:07:00+03:00",
+   "kelimeler": [
+    "bogaz",
+    "devri",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "mq1",
+    "muhaf",
+    "nda",
+    "tipi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "897b9b3a4a58"
+  },
+  "7f8528ce8acf": {
+   "id": "7f8528ce8acf",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da 29 Ekim sebebiyle bazı yollar trafiğe kapatıldı",
+   "ozet": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları dolayısıyla bazı yollar trafiğe kapatıldı. Valilik, kapanan yolları ve alternatif güzergahları internet sitesinden duyurdu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-29-ekim-sebebiyle-bazi-yollar-trafige-kapatildi-961572.html",
+   "zaman": "2026-10-29T08:14:00+03:00",
+   "kelimeler": [
+    "29",
+    "bazi",
+    "ekim",
+    "istan",
+    "kapat",
+    "sebeb",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c78c9ee26438"
   }
  },
  "kayit": [
