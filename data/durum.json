@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "037701650220": {
-   "id": "037701650220",
-   "kaynak": "Sözcü",
-   "baslik": "SPK'dan Tera ve Pusula'nın faaliyetlerini durdurma kararı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/spk-dan-iki-portfoy-sirketine-gecici-durdurma-karari-p373023",
-   "zaman": "2026-10-26T21:58:30+03:00",
-   "kelimeler": [
-    "dan",
-    "durdu",
-    "faali",
-    "karar",
-    "nin",
-    "pusul",
-    "spk",
-    "tera"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6830a72d4da6"
-  },
-  "e487bac8d4f2": {
-   "id": "e487bac8d4f2",
-   "kaynak": "TRT Haber",
-   "baslik": "Beşiktaş, Başakşehir'i 2 golle geçti",
-   "ozet": "Beşiktaş, Süper Lig'in 9. haftasında İstanbul Başakşehir'i 20 yenerek puanını 18'e yükseltti.",
-   "link": "https://www.trthaber.com/haber/spor/besiktas-basaksehiri-2-golle-gecti-961265.html",
-   "zaman": "2026-10-26T21:53:00+03:00",
-   "kelimeler": [
-    "basak",
-    "besik",
-    "gecti",
-    "golle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4875cb6798e8": {
-   "id": "4875cb6798e8",
-   "kaynak": "Hürriyet",
-   "baslik": "Minibüs şarampole devrildi… 15 kişi yaralandı",
-   "ozet": "ANTALYA'nın Kumluca ilçesinde minibüsün şarampole devrildiği kazada 15 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/minibus-sarampole-devrildi-15-kisi-yaralandi-43355942",
-   "zaman": "2026-10-26T21:56:17+03:00",
-   "kelimeler": [
-    "15",
-    "devri",
-    "kisi",
-    "minib",
-    "saram",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "126d85334adf": {
    "id": "126d85334adf",
    "kaynak": "AA",
@@ -32491,10 +32436,143 @@
     "tamam"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "757505265016": {
+   "id": "757505265016",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail'de sandıktan koalisyon belirsizliği çıkan seçimlerde oy sayımı tamamlandı",
+   "ozet": "İsrail'de yapılan ve sandıktan koalisyon belirsizliğinin çıktığı parlamento seçimlerinde oy sayımı tamamlandı.",
+   "link": "https://www.trthaber.com/haber/dunya/israilde-sandiktan-koalisyon-belirsizligi-cikan-secimlerde-oy-sayimi-tamamlandi-961668.html",
+   "zaman": "2026-10-29T21:46:00+03:00",
+   "kelimeler": [
+    "belir",
+    "cikan",
+    "israi",
+    "koali",
+    "oy",
+    "sandi",
+    "sayim",
+    "secim",
+    "tamam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f52d997afee9"
+  },
+  "41b9209e8c9e": {
+   "id": "41b9209e8c9e",
+   "kaynak": "AA",
+   "baslik": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi/4105403",
+   "zaman": "2026-10-29T21:50:06+03:00",
+   "kelimeler": [
+    "avrup",
+    "kazan",
+    "olasi",
+    "olmay",
+    "putin",
+    "savas",
+    "soyle"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "74c6deb64426": {
+   "id": "74c6deb64426",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB'den 29 Ekim resmigeçit töreni paylaşımı",
+   "ozet": "MİLLİ Savunma Bakanlığı (MSB), 29 Ekim Cumhuriyet Bayramı dolayısıyla Ankara'da Türkiye Büyük Millet Meclisi (TBMM) önünden Ulus'taki Birinci Meclis binasına kadar düzenlenen resmigeçit törenine ilişkin paylaşım yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/msbden-29-ekim-resmigecit-toreni-paylasimi-43359903",
+   "zaman": "2026-10-29T21:52:37+03:00",
+   "kelimeler": [
+    "29",
+    "den",
+    "ekim",
+    "msb",
+    "payla",
+    "resmi",
+    "toren"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "85190b8ffe1e": {
+   "id": "85190b8ffe1e",
+   "kaynak": "AA",
+   "baslik": "Emine Erdoğan'dan Cumhuriyet Bayramı ve TDT Zirvesi kapsamındaki resmi yemeğe ilişkin paylaşım",
+   "ozet": "Emine Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) Zirvesi dolayısıyla konuk devlet ve hükümet başkanları ile heyetleri onuruna verdikleri resmi akşam yemeğine ilişkin paylaşımda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-yemege-iliskin-paylasim/4105405",
+   "zaman": "2026-10-29T21:53:20+03:00",
+   "kelimeler": [
+    "bayra",
+    "cumhu",
+    "dan",
+    "emine",
+    "erdog",
+    "ilisk",
+    "kapsa",
+    "payla",
+    "resmi",
+    "tdt",
+    "yemeg",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "97d73b3ec756": {
+   "id": "97d73b3ec756",
+   "kaynak": "Hürriyet",
+   "baslik": "Kırıkkale'de tartıştığı babasını bıçaklayarak öldürdü",
+   "ozet": "Kırıkkale'de Veli Aydoğdu (60), tartıştığı oğlu H.K.A. (37) tarafından bıçaklanarak öldürüldü. Şüpheli evlat gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kirikkalede-tartistigi-babasini-bicaklayarak-oldurdu-43359908",
+   "zaman": "2026-10-29T21:56:00+03:00",
+   "kelimeler": [
+    "babas",
+    "bicak",
+    "kirik",
+    "oldur",
+    "tarti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6fbe263e28f4": {
+   "id": "6fbe263e28f4",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan'dan Cumhuriyet Bayramı ve TDT Zirvesi kapsamındaki resmi yemeğe ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) Zirvesi dolayısıyla konuk devlet ve hükümet başkanları ile heyetleri onuruna verdikleri resmi akşam yemeğine ilişkin paylaşımda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-yemege-iliskin-paylasim-43359909",
+   "zaman": "2026-10-29T21:56:50+03:00",
+   "kelimeler": [
+    "bayra",
+    "cumhu",
+    "dan",
+    "emine",
+    "erdog",
+    "ilisk",
+    "kapsa",
+    "payla",
+    "resmi",
+    "tdt",
+    "yemeg",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "85190b8ffe1e"
   }
  },
  "kayit": [
+  "29.10 22:01:35  4 yeni haber",
   "29.10 21:46:00  3 yeni haber",
   "29.10 21:31:31  4 yeni haber",
   "29.10 21:15:57  3 yeni haber",
@@ -32693,8 +32771,7 @@
   "27.10 22:01:31  2 yeni haber",
   "27.10 21:46:40  3 yeni haber",
   "27.10 21:31:21  1 yeni haber",
-  "27.10 21:19:35  4 yeni haber",
-  "27.10 21:01:25  7 yeni haber"
+  "27.10 21:19:35  4 yeni haber"
  ],
  "otomatik": false
 }
