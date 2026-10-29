@@ -31814,7 +31814,10 @@
     "te"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "00572c6dbcda": {
    "id": "00572c6dbcda",
@@ -32452,9 +32455,75 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3cdc12e14f0b"
+  },
+  "25f5347db22a": {
+   "id": "25f5347db22a",
+   "kaynak": "TRT Haber",
+   "baslik": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
+   "ozet": "Bosna Hersek'in kuzeyindeki Brcko'da, Avrupa Birliği AB Barış Gücü Misyonuna EUFOR ait askeri helikopterin düşmesi sonucu 4 kişi hayatını kaybetti, 11 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/bosna-hersekte-eufora-ait-helikopter-dustu-961671.html",
+   "zaman": "2026-10-29T22:23:00+03:00",
+   "kelimeler": [
+    "ait",
+    "bosna",
+    "dustu",
+    "eufor",
+    "helik",
+    "herse",
+    "te"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a384f6738193"
+  },
+  "743b2e54fdda": {
+   "id": "743b2e54fdda",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da düzenlenecek 2027 UEFA Konferans Ligi finalinin hazırlıkları sürüyor",
+   "ozet": "Türkiye Futbol Federasyonu (TFF), İstanbul'da oynanacak 2027 UEFA Konferans Ligi finalinin hazırlıklarının sürdüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/istanbulda-duzenlenecek-2027-uefa-konferans-ligi-finalinin-hazirliklari-suruyor/4105430",
+   "zaman": "2026-10-29T22:31:19+03:00",
+   "kelimeler": [
+    "2027",
+    "duzen",
+    "final",
+    "hazir",
+    "istan",
+    "konfe",
+    "ligi",
+    "suruy",
+    "uefa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1fbc86377879": {
+   "id": "1fbc86377879",
+   "kaynak": "XHABER",
+   "baslik": "Dün İzmir'de zıplarken görülen Yahudiler bugün de İstanbul Üsküdar'da görüldü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30418",
+   "zaman": "2026-10-29T22:32:12+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Dün İzmir'de zıplarken görülen Yahudiler bugün de İstanbul Üsküdar'da görüldü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/KbnG6t05Aq2G1QbBQ9yLirCLk7u6yjIU7vMFmzZKuUFuspub73ZvirV8hRmrGFvo7kau5qnYBB52ip7Mkjp0K2_59-eosNyf70TkxTiDMymM76t9L6GNTFn2Jb48BrSk2MPseWBjMEEP6fvsj0WeGkwzCxB4X_jyIe4CXgOtRrBnzm7Egiit15QmlC8BJHcySp3SCaviJ2HRJ-nq191sgFdTJ-qFvcgNwfsqEj6VWSoC-nYv2OCYgVKhDoRSgNySsrAWijmrMT02oqb7YfoFMS_054FmU-72XasG94yGwmcfIFZo_RmvSV65r8om2AQgg5gWtxEM_p7O6cvEml5jzw",
+   "tg_video_url": "https://cdn4.telesco.pe/file/dad5395516.mp4?token=XdC8lawWt3qaXjcmYQVGr612tclkecDK7zHCerr0pMzQgrSqNXyzeTVAxBOSy2cuHvre1fUChjMBeSWySZ-9KEAcQf81fmmjELnUfkJoy0F0j51SvYYuQwJjuIyzuxlqJyeGhT7KfTy6mY8u8DVcqitGL575Y5ika4QjvmE0vZTZE2MSieaO7jpKqtwLIbXIzJ-ScnfrS_LFv6ubuHc5u8lI9H2qjO7A9hmi7FDO4EAhUg2ng0OiGzR7WUG1Dkf4SfDi-oWp_6bBtP9oXEGz4VTCHF7fbORcjutFz-JpgT26oeL927ChBmuDFRjuvpTeFKK4NwrmxrbrCCll-ONOzA",
+   "kelimeler": [
+    "bugun",
+    "dun",
+    "gorul",
+    "istan",
+    "izmir",
+    "uskud",
+    "yahud",
+    "zipla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 22:46:07  2 yeni haber",
   "29.10 22:31:13  2 yeni haber",
   "29.10 22:01:35  4 yeni haber",
   "29.10 21:46:00  3 yeni haber",
@@ -32653,8 +32722,7 @@
   "27.10 22:46:05  2 yeni haber",
   "27.10 22:31:10  6 yeni haber",
   "27.10 22:01:31  2 yeni haber",
-  "27.10 21:46:40  3 yeni haber",
-  "27.10 21:31:21  1 yeni haber"
+  "27.10 21:46:40  3 yeni haber"
  ],
  "otomatik": false
 }
