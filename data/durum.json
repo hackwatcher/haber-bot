@@ -137,31 +137,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "7d4ba01dca55": {
-   "id": "7d4ba01dca55",
-   "kaynak": "TRT Haber",
-   "baslik": "İşgalci İsrail, kuşattığı El Halil'de Filistinli aileye evinden çıkması için sadece yarım saat verdi",
-   "ozet": "İşgalci İsrail ordusunun, dört gündür kuşattığı Batı Şeria'nın El Halil kentinde ikamet eden Filistinli Macide Şuveyki, İsrail askerlerinin, evlerinden ayrılmaları için sadece yarım saat süre tanıdığını belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-kusattigi-el-halilde-filistinli-aileye-evinden-cikmasi-icin-sadece-yarim-saat-verdi-961267.html",
-   "zaman": "2026-10-26T22:05:00+03:00",
-   "kelimeler": [
-    "ailey",
-    "cikma",
-    "el",
-    "evind",
-    "filis",
-    "halil",
-    "isgal",
-    "israi",
-    "kusat",
-    "saat",
-    "sadec",
-    "verdi",
-    "yarim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f1b471ce35e8": {
    "id": "f1b471ce35e8",
    "kaynak": "TRT Haber",
@@ -28197,7 +28172,8 @@
     "yili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "8002992c6c71": {
    "id": "8002992c6c71",
@@ -32480,7 +32456,10 @@
     "soyle"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "74c6deb64426": {
    "id": "74c6deb64426",
@@ -32569,6 +32548,48 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "85190b8ffe1e"
+  },
+  "c600a6398718": {
+   "id": "c600a6398718",
+   "kaynak": "TRT Haber",
+   "baslik": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
+   "ozet": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-961669.html",
+   "zaman": "2026-10-29T21:54:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "kazan",
+    "olasi",
+    "olmay",
+    "putin",
+    "savas",
+    "soyle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "41b9209e8c9e"
+  },
+  "f4fb1053ad43": {
+   "id": "f4fb1053ad43",
+   "kaynak": "AA",
+   "baslik": "CSO Ada Ankara'da Cumhuriyet'in 103. yılı konserlerle kutlandı",
+   "ozet": "Cumhuriyet'in ilanının 103. yıl dönümü dolayısıyla CSO Ada Ankara'da düzenlenen \"Cumhuriyet Tangoları\" ve \"Cumhuriyetin Sesi\" konserleri ile \"Göğe Yazılmış Bir Alp\" tiyatro oyunu sanatseverlerle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/cso-ada-ankarada-cumhuriyetin-103-yili-konserlerle-kutlandi/4105414",
+   "zaman": "2026-10-29T22:07:40+03:00",
+   "kelimeler": [
+    "103",
+    "ada",
+    "ankar",
+    "cso",
+    "cumhu",
+    "in",
+    "konse",
+    "kutla",
+    "yili"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "346c68e84f57"
   }
  },
  "kayit": [
