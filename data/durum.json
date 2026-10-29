@@ -32633,7 +32633,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f64ba76da9dd": {
    "id": "f64ba76da9dd",
@@ -32659,6 +32662,31 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "78df90418a23"
+  },
+  "fca04a695c0d": {
+   "id": "fca04a695c0d",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkanı Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiği iddia edildi",
+   "ozet": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı CENTCOM Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi-961675.html",
+   "zaman": "2026-10-29T23:12:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "bilgi",
+    "edild",
+    "hakki",
+    "iddia",
+    "in",
+    "iran",
+    "saldi",
+    "secen",
+    "trump",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a8804b1e53fd"
   }
  },
  "kayit": [
