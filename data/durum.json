@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "22b7f128f806": {
-   "id": "22b7f128f806",
-   "kaynak": "AA",
-   "baslik": "Trump: \"Libya, yasa dışı göç için bir koridor olarak kalamaz\"",
-   "ozet": "ABD Başkanı Donald Trump, iyi ilişkilere sahip olduklarını belirttiği Libya'nın \"artık yasa dışı göç için kullanılan bir koridor olmaması gerektiğini\" belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz/4100528",
-   "zaman": "2026-10-26T02:51:32+03:00",
-   "kelimeler": [
-    "disi",
-    "goc",
-    "kalam",
-    "korid",
-    "libya",
-    "trump",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "62b91a015035": {
    "id": "62b91a015035",
    "kaynak": "BBC Türkçe",
@@ -164,29 +145,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c44e9378b23c"
-  },
-  "50e6c0def610": {
-   "id": "50e6c0def610",
-   "kaynak": "AA",
-   "baslik": "Yemen'de hükümet güçleriyle Husiler arasındaki çatışmalar Taiz ve Lahic vilayetlerinde sürüyor",
-   "ozet": "Yemen'de hükümet güçleri ile Husiler arasında ülkenin güneybatısındaki Taiz ve Lahic vilayetlerinde çatışmalar devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleriyle-husiler-arasindaki-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor/4100525",
-   "zaman": "2026-10-26T02:46:32+03:00",
-   "kelimeler": [
-    "arasi",
-    "catis",
-    "gucle",
-    "hukum",
-    "husil",
-    "lahic",
-    "suruy",
-    "taiz",
-    "vilay",
-    "yemen"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "db06ed45f077"
   },
   "ceeb1cf522ab": {
    "id": "ceeb1cf522ab",
@@ -28380,7 +28338,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "4b787a3bbe3b": {
@@ -31565,6 +31524,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "002d0251f2c5": {
+   "id": "002d0251f2c5",
+   "kaynak": "TRT Haber",
+   "baslik": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Şahsi ikbalini milli istiklal uğruna feda eden ecdadımızdan devraldığımız bu mukaddes emaneti, fikri hür, irfanı hür ve vicdanı hür nesillerin ellerinde Türk ve Türkiye Yüzyılı'nın aydınlık ufuklarına taşıma azim ve kararlılığındayız.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-961543.html",
+   "zaman": "2026-10-29T02:42:00+03:00",
+   "kelimeler": [
+    "29",
+    "bahce",
+    "baska",
+    "bayra",
+    "cumhu",
+    "den",
+    "ekim",
+    "genel",
+    "mesaj",
+    "mhp"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8ec2084a1a48"
   }
  },
  "kayit": [
