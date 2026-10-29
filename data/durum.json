@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "1f0383e3a759": {
-   "id": "1f0383e3a759",
-   "kaynak": "AA",
-   "baslik": "Hazine ve Maliye Bakanlığından Merrill Lynch Bankasına yönelik iddialara ilişkin açıklama",
-   "ozet": "Hazine ve Maliye Bakanlığınca, \"Sayın Bakanımızın, yıllar önce çalışıp ayrıldığı bir kurum üzerinden asılsız iddialarla töhmet altında bırakılma gayretleri kabul edilemez.\" ifadesi kullanıldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-merrill-lynch-bankasina-yonelik-iddialara-iliskin-aciklama/4101509",
-   "zaman": "2026-10-26T19:05:53+03:00",
-   "kelimeler": [
-    "acikl",
-    "bakan",
-    "banka",
-    "hazin",
-    "iddia",
-    "ilisk",
-    "lynch",
-    "maliy",
-    "merri",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f062a08610b0": {
-   "id": "f062a08610b0",
-   "kaynak": "Sözcü",
-   "baslik": "Milas Belediye Başkanı Fevzi Topuz görevden uzaklaştırıldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/fevzi-topuz-gorevden-uzaklastirildi-p372998",
-   "zaman": "2026-10-26T19:16:02+03:00",
-   "kelimeler": [
-    "baska",
-    "beled",
-    "fevzi",
-    "gorev",
-    "milas",
-    "topuz",
-    "uzakl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "Hürriyet",
-    "TRT Haber"
-   ]
-  },
   "010ab15443a9": {
    "id": "010ab15443a9",
    "kaynak": "XHABER",
@@ -18049,7 +18003,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "8b6fc35a9293": {
    "id": "8b6fc35a9293",
@@ -31658,7 +31615,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "a0398fa682da": {
@@ -32385,9 +32343,110 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e7b911613897": {
+   "id": "e7b911613897",
+   "kaynak": "Hürriyet",
+   "baslik": "Siyasilerden TDT Zirvesi'ne ilişkin paylaşım",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi ve Cumhurbaşkanlığı İletişim Başkanlığı Türk Devletleri Teşkilatı (TDT) 13. Zirvesi'ne ilişkin paylaşımda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/siyasilerden-tdt-zirvesine-iliskin-paylasim-43359775",
+   "zaman": "2026-10-29T18:52:39+03:00",
+   "kelimeler": [
+    "ilisk",
+    "payla",
+    "siyas",
+    "tdt",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d1adc5c9d84d"
+  },
+  "7307279e84bd": {
+   "id": "7307279e84bd",
+   "kaynak": "AA",
+   "baslik": "ECB Başkanı Christine Lagarde aralıkta yeni bir faiz artışına işaret etti",
+   "ozet": "Avrupa Merkez Bankası (ECB) Başkanı Christine Lagarde, Avro Bölgesi’ndeki artan enflasyon risklerine dikkati çekerek aralık ayında yeni bir faiz artışının masada olduğunun sinyalini verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagarde-aralikta-yeni-bir-faiz-artisina-isaret-etti/4105208",
+   "zaman": "2026-10-29T18:58:38+03:00",
+   "kelimeler": [
+    "arali",
+    "artis",
+    "baska",
+    "chris",
+    "ecb",
+    "etti",
+    "faiz",
+    "isare",
+    "lagar",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "1598c08ce1ea": {
+   "id": "1598c08ce1ea",
+   "kaynak": "Hürriyet",
+   "baslik": "Sultanbeyli'de minibüste 1 milyon 642 bin adet sentetik ecza hapı ele geçirildi",
+   "ozet": "Sultanbeyli'de 'Uyuşturucu veya uyarıcı madde imal ve ticareti' suçuna yönelik çalışmalar kapsamında bir minibüse düzenlenen operasyonda 1 milyon 642 bin adet sentetik ecza hapı ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sultanbeylide-minibuste-1-milyon-642-bin-adet-sentetik-ecza-hapi-ele-gecirildi-43359781",
+   "zaman": "2026-10-29T19:00:00+03:00",
+   "kelimeler": [
+    "642",
+    "adet",
+    "bin",
+    "ecza",
+    "ele",
+    "gecir",
+    "hapi",
+    "milyo",
+    "minib",
+    "sente",
+    "sulta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fe7118ee9427": {
+   "id": "fe7118ee9427",
+   "kaynak": "NTV",
+   "baslik": "Türk Devletleri Teşkilatı Zirvesi. Cumhurbaşkanı Erdoğan liderleri karşıladı",
+   "ozet": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı Zirvesi dolayısıyla düzenlenen resmi akşam yemeğine katıldı. Erdoğan, zirveye katılan liderleri karşıladı.",
+   "link": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-cumhurbaskani-erdogan-liderleri-karsiladi-1748548",
+   "zaman": "2026-10-29T19:02:06+03:00",
+   "kelimeler": [
+    "cumhu",
+    "devle",
+    "erdog",
+    "karsi",
+    "lider",
+    "teski",
+    "turk",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "289523a0645c"
+  },
+  "282074505589": {
+   "id": "282074505589",
+   "kaynak": "AA",
+   "baslik": "CANLI-Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Erdoğan, Beştepe Millet Sergi Salonu'nda 29 Ekim Cumhuriyet Bayramı ve TDT Zirvesi dolayısıyla konuk devlet başkanlarının katılımıyla düzenlenen resmi akşam yemeğinde konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4105217",
+   "zaman": "2026-10-29T19:08:17+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fbb7fc7da539"
   }
  },
  "kayit": [
+  "29.10 19:16:02  2 yeni haber",
   "29.10 19:01:22  5 yeni haber",
   "29.10 18:46:02  5 yeni haber",
   "29.10 18:31:31  1 yeni haber",
@@ -32586,8 +32645,7 @@
   "27.10 18:45:59  6 yeni haber",
   "27.10 18:31:08  3 yeni haber",
   "27.10 18:18:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Batman'da 'kurgu trafik kazası' operasyonu: 43 gözaltı",
-  "27.10 18:15:57  2 yeni haber",
-  "27.10 18:01:38  6 yeni haber"
+  "27.10 18:15:57  2 yeni haber"
  ],
  "otomatik": false
 }
