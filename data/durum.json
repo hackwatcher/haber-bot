@@ -31876,7 +31876,10 @@
     "yurut"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "796d6758b028": {
    "id": "796d6758b028",
@@ -32413,6 +32416,27 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "56be54fb0f9c"
+  },
+  "fafb361a308a": {
+   "id": "fafb361a308a",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İsrail muhalefeti Netanyahu'yu seçimleri \"gayrimeşrulaştırmaya\" çalışmakla suçluyor",
+   "ozet": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu kınadı.",
+   "link": "https://www.bbc.com/turkce/articles/c6d93pd9pxw2o",
+   "zaman": "2026-10-30T02:22:43+03:00",
+   "kelimeler": [
+    "calis",
+    "gayri",
+    "israi",
+    "muhal",
+    "netan",
+    "secim",
+    "suclu",
+    "yu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "db6273db356d"
   }
  },
  "kayit": [
