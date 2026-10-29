@@ -1,105 +1,5 @@
 {
  "haberler": {
-  "e1d78477d8b3": {
-   "id": "e1d78477d8b3",
-   "kaynak": "AA",
-   "baslik": "Küresel piyasalar Fed haftasına karışık seyirle başladı",
-   "ozet": "Küresel piyasalar, devam eden jeopolitik riskler ve teknoloji şirketlerinin hisselerindeki satış baskısının sürmesiyle haftaya karışık seyirle başlarken, gözler bu hafta ABD Merkez Bankasının (Fed) faiz kararına çevrildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fed-haftasina-karisik-seyirle-basladi/4100611",
-   "zaman": "2026-10-26T09:05:25+03:00",
-   "kelimeler": [
-    "basla",
-    "fed",
-    "hafta",
-    "karis",
-    "kures",
-    "piyas",
-    "seyir"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-26T09:33:34.171517+03:00",
-   "ig_id": "17958669234264521",
-   "reels_id": "18110174912609026",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1421038486811557",
-   "slayt": 7,
-   "kanca": "Ekonomi"
-  },
-  "b6827c98729f": {
-   "id": "b6827c98729f",
-   "kaynak": "AA",
-   "baslik": "TCMB'den özel sektör tahvil piyasasında likiditeyi destekleyici adım",
-   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası ticari kredi büyüme sınırından istisna tutulan kredilere yönelik değişiklik yaptı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614",
-   "zaman": "2026-10-26T09:06:24+03:00",
-   "kelimeler": [
-    "adim",
-    "den",
-    "deste",
-    "likid",
-    "ozel",
-    "piyas",
-    "sekto",
-    "tahvi",
-    "tcmb"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a6c9507b00de": {
-   "id": "a6c9507b00de",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Mekke İttifakı üyesi ülkelerin üst düzey isimleri Tahran'ı ziyaret edecek",
-   "ozet": "Türkiye, Suudi Arabistan ve Pakistan'dan üst düzey yetkililerin İran'ın başkenti Tahran'da İranlı yetkililerle bir araya geleceği iddia edildi.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-mekke-ittifaki-uyesi-ulkelerin-ust-duzey-isimleri-tahrani-ziyaret-edecek-961195.html",
-   "zaman": "2026-10-26T09:15:00+03:00",
-   "kelimeler": [
-    "duzey",
-    "edece",
-    "iran",
-    "isiml",
-    "ittif",
-    "mekke",
-    "tahra",
-    "ulkel",
-    "ust",
-    "uyesi",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ]
-  },
-  "a05851289b06": {
-   "id": "a05851289b06",
-   "kaynak": "AA",
-   "baslik": "İran: Mekke İttifakı üyesi ülkelerin üst düzey isimleri Tahran'ı ziyaret edecek",
-   "ozet": "Türkiye, Suudi Arabistan ve Pakistan'dan üst düzey yetkililerin İran'ın başkenti Tahran'da İranlı yetkililerle bir araya geleceği iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-mekke-ittifaki-uyesi-ulkelerin-ust-duzey-isimleri-tahrani-ziyaret-edecek/4100624",
-   "zaman": "2026-10-26T09:15:26+03:00",
-   "kelimeler": [
-    "duzey",
-    "edece",
-    "iran",
-    "isiml",
-    "ittif",
-    "mekke",
-    "tahra",
-    "ulkel",
-    "ust",
-    "uyesi",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a6c9507b00de"
-  },
   "beed11205165": {
    "id": "beed11205165",
    "kaynak": "AA",
@@ -31828,7 +31728,10 @@
     "vatan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "897b9b3a4a58": {
    "id": "897b9b3a4a58",
@@ -31948,7 +31851,10 @@
    "fb_id": null,
    "fb_reels_id": "1655528499692897",
    "slayt": 5,
-   "kanca": "EVE ÇARPARAK DURDU"
+   "kanca": "EVE ÇARPARAK DURDU",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a86ffa812cb2": {
    "id": "a86ffa812cb2",
@@ -32013,9 +31919,178 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fd486899e072": {
+   "id": "fd486899e072",
+   "kaynak": "TRT Haber",
+   "baslik": "Şırnak'ta yolcu otobüsü ile tır çarpıştı: 15 yaralı",
+   "ozet": "Şırnak'ın Uludere ilçesinde yolcu otobüsü, tır ile çarpıştıktan sonra yol kenarındaki bir eve çarptı. Kazada 15 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sirnakta-yolcu-otobusu-ile-tir-carpisti-15-yarali-961574.html",
+   "zaman": "2026-10-29T08:47:00+03:00",
+   "kelimeler": [
+    "15",
+    "carpi",
+    "otobu",
+    "sirna",
+    "ta",
+    "tir",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f783f3384a90"
+  },
+  "6d2956332b84": {
+   "id": "6d2956332b84",
+   "kaynak": "TRT Haber",
+   "baslik": "MİT Başkanı Kalın'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "MİT Başkanı İbrahim Kalın, 29 Ekim Cumhuriyet Bayramı nedeniyle mesaj yayımladı.",
+   "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html",
+   "zaman": "2026-10-29T08:59:00+03:00",
+   "kelimeler": [
+    "29",
+    "baska",
+    "bayra",
+    "cumhu",
+    "dan",
+    "ekim",
+    "kalin",
+    "mesaj",
+    "mit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8ec2084a1a48"
+  },
+  "e4b50717d2f8": {
+   "id": "e4b50717d2f8",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhuriyetin 103. yılı için verdiği mesajda, \"Türkiye hamdolsun bugün dünden daha güçlüdür. İnşallah yarın çok daha güçlü, çok daha etkin olacaktır\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html",
+   "zaman": "2026-10-29T09:00:00+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "cumhu",
+    "dan",
+    "ekim",
+    "erdog",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d65753ccb060"
+  },
+  "8d3480003d8b": {
+   "id": "8d3480003d8b",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: Milli Mücadele, bir milletin en zor şartlarda dahi neleri başarabileceğini bütün göstermiştir",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gazi Mustafa Kemal önderliğinde yürüttüğümüz Milli Mücadele, birlik ve beraberlik içinde kenetlenen bir milletin en zor şartlarda dahi neleri başarabileceğini bütün göstermiştir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-milli-mucadele-bir-milletin-en-zor-sartlarda-dahi-neleri-basarabilecegini-butun-gostermistir/4104486",
+   "zaman": "2026-10-29T09:01:59+03:00",
+   "kelimeler": [
+    "basar",
+    "butun",
+    "cumhu",
+    "dahi",
+    "erdog",
+    "goste",
+    "mille",
+    "milli",
+    "mucad",
+    "neler",
+    "sartl",
+    "zor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b13fced7564b": {
+   "id": "b13fced7564b",
+   "kaynak": "TRT Haber",
+   "baslik": "Vatan Caddesi'ndeki 29 Ekim kortej geçişi ertelendi",
+   "ozet": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları kapsamında Vatan Caddesi'nde yapılması planlanan kortej geçişi yağış sebebiyle ertelendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/vatan-caddesindeki-29-ekim-kortej-gecisi-ertelendi-961576.html",
+   "zaman": "2026-10-29T09:04:00+03:00",
+   "kelimeler": [
+    "29",
+    "cadde",
+    "ekim",
+    "ertel",
+    "gecis",
+    "korte",
+    "ndeki",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "83a6c40aa7e0"
+  },
+  "2cb6377b9166": {
+   "id": "2cb6377b9166",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye hamdolsun bugün dünden daha güçlüdür. İnşallah yarın çok daha güçlü, çok daha itibarlı, her alanda çok daha etkin olacaktır\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-43358856",
+   "zaman": "2026-10-29T09:04:00+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "cumhu",
+    "dan",
+    "ekim",
+    "erdog",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d65753ccb060"
+  },
+  "6695222335e8": {
+   "id": "6695222335e8",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bebekken çantalara konularak terk edilen kardeşler yıllar sonra bir araya geldi",
+   "ozet": "David McBride, bebekken terk edildikten sonra on yıllarca annesini aradı. Ancak bunun yerine bir kız kardeşi ve bir erkek kardeşi buldu.",
+   "link": "https://www.bbc.com/turkce/articles/cq77pm63373mo",
+   "zaman": "2026-10-29T09:07:11+03:00",
+   "kelimeler": [
+    "araya",
+    "bebek",
+    "canta",
+    "edile",
+    "geldi",
+    "karde",
+    "konul",
+    "terk",
+    "yilla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8655444fe929": {
+   "id": "8655444fe929",
+   "kaynak": "AA",
+   "baslik": "Rusya: Ukrayna'da ordu için yük taşıyan gemiyi vurduk",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'da ordu için yük taşıyan bir gemiyi vurduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-ordu-icin-yuk-tasiyan-gemiyi-vurduk/4104497",
+   "zaman": "2026-10-29T09:07:24+03:00",
+   "kelimeler": [
+    "gemiy",
+    "ordu",
+    "rusya",
+    "tasiy",
+    "ukray",
+    "vurdu",
+    "yuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 09:15:56  3 yeni haber",
   "29.10 09:03:08  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şırnak'ta korkunç kaza: Yolcu otobüsü tır ile çarpıştı! 15 yaralı",
   "29.10 09:01:23  4 yeni haber",
   "29.10 08:46:07  1 yeni haber",
@@ -32214,8 +32289,7 @@
   "27.10 08:45:58  3 yeni haber",
   "27.10 08:31:11  3 yeni haber",
   "27.10 08:16:01  2 yeni haber",
-  "27.10 08:01:45  2 yeni haber",
-  "27.10 07:46:02  2 yeni haber"
+  "27.10 08:01:45  2 yeni haber"
  ],
  "otomatik": false
 }
