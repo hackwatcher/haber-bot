@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "19e632917a61": {
-   "id": "19e632917a61",
-   "kaynak": "TRT Haber",
-   "baslik": "Yemen'deki Husiler: Riyad'daki Kral Halid Havalimanı ile DoğuBatı Petrol Boru Hattı'nı hedef aldık",
-   "ozet": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'daki Uluslararası Kral Halid Havalimanı ile DoğuBatı Petrol Boru Hattı'nı hedef aldıklarını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/yemendeki-husiler-riyaddaki-kral-halid-havalimani-ile-dogu-bati-petrol-boru-hattini-hedef-aldik-961186.html",
-   "zaman": "2026-10-26T07:27:00+03:00",
-   "kelimeler": [
-    "aldik",
-    "boru",
-    "daki",
-    "deki",
-    "dogub",
-    "halid",
-    "hatti",
-    "haval",
-    "hedef",
-    "husil",
-    "kral",
-    "ni",
-    "petro",
-    "riyad",
-    "yemen"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ceeb1cf522ab"
-  },
-  "3db6b9f96123": {
-   "id": "3db6b9f96123",
-   "kaynak": "TRT Haber",
-   "baslik": "İskoçyada Mısır mumyaları sergiden kaldırıldı: Ölenlerin rızası alınamadı",
-   "ozet": "Glasgow'daki iki müze, ölen kişilerin rızasının bulunmaması ve güncellenen etik ilkeler doğrultusunda Mısır mumyalarını sergiden kaldırdı ya da ziyaretçilerin görüşüne kapattı.",
-   "link": "https://www.trthaber.com/haber/turkiye/iskocyada-misir-mumyalari-sergiden-kaldirildi-olenlerin-rizasi-alinamadi-961187.html",
-   "zaman": "2026-10-26T07:29:00+03:00",
-   "kelimeler": [
-    "alina",
-    "iskoc",
-    "kaldi",
-    "misir",
-    "mumya",
-    "olenl",
-    "rizas",
-    "sergi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "745742a6b774": {
    "id": "745742a6b774",
    "kaynak": "TRT Haber",
@@ -15125,7 +15077,10 @@
     "yili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f08e35408092": {
    "id": "f08e35408092",
@@ -31889,9 +31844,111 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "02157010f3b6": {
+   "id": "02157010f3b6",
+   "kaynak": "AA",
+   "baslik": "Siyasilerden 29 Ekim Cumhuriyet Bayramı mesajları",
+   "ozet": "Siyasiler, 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü dolayısıyla mesaj yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/siyasilerden-29-ekim-cumhuriyet-bayrami-mesajlari/4104420",
+   "zaman": "2026-10-29T01:34:23+03:00",
+   "kelimeler": [
+    "29",
+    "bayra",
+    "cumhu",
+    "ekim",
+    "mesaj",
+    "siyas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a34bc32fe949"
+  },
+  "3ffc70414fa8": {
+   "id": "3ffc70414fa8",
+   "kaynak": "TRT Haber",
+   "baslik": "İspanya'daki kazanın nedeni ne? Şimdiye kadar bildiklerimiz",
+   "ozet": "İspanya'nın Toledo kentinde Madrid ile Sevilla arasında sefer yapan iki yüksek hızlı trenin çarpışması sonucu en az 68 kişi hayatını kaybetti, 100'den fazla kişi yaralandı. Yetkililer, olayla ilgili olarak kontrol merkezi personelini sorguluyor.",
+   "link": "https://www.trthaber.com/haber/dunya/ispanyadaki-kazanin-nedeni-ne-simdiye-kadar-bildiklerimiz-961558.html",
+   "zaman": "2026-10-29T06:48:00+03:00",
+   "kelimeler": [
+    "bildi",
+    "daki",
+    "ispan",
+    "kazan",
+    "neden",
+    "simdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "62c92328460b": {
+   "id": "62c92328460b",
+   "kaynak": "TRT Haber",
+   "baslik": "Hayvanat bahçesi görevlisi leopar saldırısı sonucu hayatını kaybetti",
+   "ozet": "Hollanda'da çalıştığı safari parkında bir leoparın saldırısına uğrayan hayvanat bahçesi görevlisi, günler sonra aldığı yaralar nedeniyle hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/dunya/hayvanat-bahcesi-gorevlisi-leopar-saldirisi-sonucu-hayatini-kaybetti-961565.html",
+   "zaman": "2026-10-29T07:09:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "gorev",
+    "hayat",
+    "hayva",
+    "kaybe",
+    "leopa",
+    "saldi",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63d6a0e62cad": {
+   "id": "63d6a0e62cad",
+   "kaynak": "TRT Haber",
+   "baslik": "Gök bilimciler Plüton'un ötesinde olası bir cüce gezegen keşfetti",
+   "ozet": "Gök bilimciler, güneş sisteminde Plüton'un yörüngesinin ötesinde geçici olarak ED138 adını verdikleri yeni bir cüce gezegen adayı tespit etti.",
+   "link": "https://www.trthaber.com/haber/dunya/gok-bilimciler-plutonun-otesinde-olasi-bir-cuce-gezegen-kesfetti-961566.html",
+   "zaman": "2026-10-29T07:12:00+03:00",
+   "kelimeler": [
+    "bilim",
+    "cuce",
+    "gezeg",
+    "gok",
+    "kesfe",
+    "olasi",
+    "otesi",
+    "pluto",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "121ed1102494": {
+   "id": "121ed1102494",
+   "kaynak": "TRT Haber",
+   "baslik": "Buzullar eridi, altından Birinci Dünya Savaşı dönemine ait 250 mühimmat çıktı",
+   "ozet": "İtalya'nın Dolomitler bölgesinde hızla eriyen buzulların altından çıkan Birinci Dünya Savaşı dönemine ait yaklaşık 250 mühimmat bölgeden temizlendi.",
+   "link": "https://www.trthaber.com/haber/dunya/buzullar-eridi-altindan-birinci-dunya-savasi-donemine-ait-250-muhimmat-cikti-961567.html",
+   "zaman": "2026-10-29T07:18:00+03:00",
+   "kelimeler": [
+    "250",
+    "ait",
+    "altin",
+    "birin",
+    "buzul",
+    "cikti",
+    "donem",
+    "dunya",
+    "eridi",
+    "muhim",
+    "savas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 07:31:57  4 yeni haber",
   "29.10 07:16:04  14 yeni haber",
   "29.10 07:03:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İspanya'da tren kazası: Kontrol merkezi personeli sorgulanıyor",
   "29.10 07:01:19  4 yeni haber",
@@ -32090,8 +32147,7 @@
   "27.10 07:01:21  3 yeni haber",
   "27.10 06:31:10  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "27.10 05:47:30  2 yeni haber",
-  "27.10 04:31:10  4 yeni haber",
-  "27.10 03:45:57  1 yeni haber"
+  "27.10 04:31:10  4 yeni haber"
  ],
  "otomatik": false
 }
