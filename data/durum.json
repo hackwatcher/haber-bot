@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "b1527c972a34": {
-   "id": "b1527c972a34",
-   "kaynak": "AA",
-   "baslik": "Borsa günü yükselişle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, yüzde 0,31 değer kazanarak 11.151,96 puana yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4101476",
-   "zaman": "2026-10-26T18:32:51+03:00",
-   "kelimeler": [
-    "borsa",
-    "gunu",
-    "tamam",
-    "yukse"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-26T19:19:08.673994+03:00",
-   "ig_id": "18137393644570097",
-   "reels_id": "18077232611724435",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1089492557043483",
-   "slayt": 5,
-   "kanca": "Ekonomi",
-   "diger_kaynaklar": []
-  },
-  "247cd31c3786": {
-   "id": "247cd31c3786",
-   "kaynak": "AA",
-   "baslik": "A Milli Kadın Voleybol Takımı'nın Dünya Kupası'ndaki rakipleri belli oldu",
-   "ozet": "A Milli Kadın Voleybol Takımı'nın, ABD ve Kanada'nın ev sahipliğinde düzenlenecek 2027 FIVB Dünya Kupası'nda grup aşamasındaki rakipleri belli oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takiminin-dunya-kupasindaki-rakipleri-belli-oldu/4101485",
-   "zaman": "2026-10-26T18:40:29+03:00",
-   "kelimeler": [
-    "belli",
-    "dunya",
-    "kadin",
-    "kupas",
-    "milli",
-    "ndaki",
-    "nin",
-    "rakip",
-    "takim",
-    "voley"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "61f96736028d"
-  },
-  "1dcffe183abe": {
-   "id": "1dcffe183abe",
-   "kaynak": "TRT Haber",
-   "baslik": "Suç unsuru içeren 407 internet sitesine erişim engeli",
-   "ozet": "Jandarmanın siber devriye çalışmaları kapsamında yasa dışı bahis, dolandırıcılık ve müstehcenlik gibi suç unsurlarını içerdiği tespit edilen 407 internet sitesine erişim engellendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/suc-unsuru-iceren-407-internet-sitesine-erisim-engeli-961254.html",
-   "zaman": "2026-10-26T18:43:00+03:00",
-   "kelimeler": [
-    "407",
-    "engel",
-    "erisi",
-    "icere",
-    "inter",
-    "sites",
-    "suc",
-    "unsur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4fea0658c822": {
    "id": "4fea0658c822",
    "kaynak": "Hürriyet",
@@ -31377,7 +31308,8 @@
     "perib"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "8025a5eafd6e": {
    "id": "8025a5eafd6e",
@@ -31930,7 +31862,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a0398fa682da": {
    "id": "a0398fa682da",
@@ -32329,9 +32264,181 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "591d70deb69a": {
+   "id": "591d70deb69a",
+   "kaynak": "AA",
+   "baslik": "Nevşehir'de peribacasından kopan kaya parçalarının altında kalan 3 kişi hayatını kaybetti",
+   "ozet": "Nevşehir'in Göreme beldesinde peribacasından kopan kaya parçalarının altında kalan 3 kişi hayatını kaybetti, 5 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/nevsehirde-peribacasindan-kopan-kaya-parcalarinin-altinda-kalan-3-kisi-hayatini-kaybetti/4105008",
+   "zaman": "2026-10-29T16:15:07+03:00",
+   "kelimeler": [
+    "altin",
+    "hayat",
+    "kalan",
+    "kaya",
+    "kaybe",
+    "kisi",
+    "kopan",
+    "nevse",
+    "parca",
+    "perib"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a0cd8e594059"
+  },
+  "367fe3c7742d": {
+   "id": "367fe3c7742d",
+   "kaynak": "AA",
+   "baslik": "Uluslararası Demokratlar Birliğinden Almanya'ya Türk iş gücü göçünün 65. yılında ırkçılıkla mücadele vurgusu",
+   "ozet": "Uluslararası Demokratlar Birliği (UID), Almanya'ya 65 yıl önce çalışmaya gelen birinci kuşağın ülkenin ekonomik kalkınmasına katkılarına dikkati çekerek ırkçılık, aşırı sağcılık ve ayrımcılıkla mücadele çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/uluslararasi-demokratlar-birliginden-almanyaya-turk-is-gucu-gocunun-65-yilinda-irkcilikla-mucadele-vurgusu/4105183",
+   "zaman": "2026-10-29T18:28:03+03:00",
+   "kelimeler": [
+    "65",
+    "alman",
+    "birli",
+    "demok",
+    "gocun",
+    "gucu",
+    "irkci",
+    "is",
+    "mucad",
+    "turk",
+    "ulusl",
+    "vurgu",
+    "ya",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "30c7aaeb29fe": {
+   "id": "30c7aaeb29fe",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan'dan TDT Zirvesi paylaşımı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türk Devletleri Teşkilatı TDT 13. Zirvesi kapsamında gerçekleştirilen program ve etkinliklere ilişkin paylaşımda bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-tdt-zirvesi-paylasimi-961655.html",
+   "zaman": "2026-10-29T18:31:00+03:00",
+   "kelimeler": [
+    "dan",
+    "emine",
+    "erdog",
+    "payla",
+    "tdt",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d1adc5c9d84d"
+  },
+  "9b3df1c88861": {
+   "id": "9b3df1c88861",
+   "kaynak": "AA",
+   "baslik": "TDT Zirvesi'ne katılan liderler, Türk Devletleri Medeniyet Parkı'nda fidan dikti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi için Ankara'ya gelen liderler, Türk Devletleri Medeniyet Parkı'nda fidan dikti.",
+   "link": "https://www.aa.com.tr/tr/gundem/tdt-zirvesine-katilan-liderler-turk-devletleri-medeniyet-parkinda-fidan-dikti/4105187",
+   "zaman": "2026-10-29T18:31:11+03:00",
+   "kelimeler": [
+    "devle",
+    "dikti",
+    "fidan",
+    "katil",
+    "lider",
+    "meden",
+    "nda",
+    "parki",
+    "tdt",
+    "turk",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "289523a0645c"
+  },
+  "c967503b9734": {
+   "id": "c967503b9734",
+   "kaynak": "NTV",
+   "baslik": "Marmara Denizi'nde batan gemide bulunan cesedin kimliği belli oldu",
+   "ozet": "Marmara Denizi'nde batan Tuğberk İmamoğlu isimli gemide yürütülen arama kurtarma çalışmalarında bulunan cesedin kimliği belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/marmara-denizinde-batan-gemide-bulunan-cesedin-kimligi-belli-oldu-1748547",
+   "zaman": "2026-10-29T18:34:59+03:00",
+   "kelimeler": [
+    "batan",
+    "belli",
+    "bulun",
+    "cesed",
+    "deniz",
+    "gemid",
+    "kimli",
+    "marma",
+    "nde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "92b15a731751": {
+   "id": "92b15a731751",
+   "kaynak": "TRT Haber",
+   "baslik": "BM: Yapay zeka ve gelişen teknolojiler deniz güvenliği için yeni riskler oluşturuyor",
+   "ozet": "Birleşmiş Milletler BM Genel Sekreteri Antonio Guterres'in Kabine Şefi Courtenay Rattray, yapay zeka ve gelişen teknolojilerin deniz güvenliği alanında yeni fırsatlar sunarken siber saldırılar, yanlış hesaplamalar ve istenmeyen gerilimlerin tırmanması gibi riskleri de…",
+   "link": "https://www.trthaber.com/haber/dunya/bm-yapay-zeka-ve-gelisen-teknolojiler-deniz-guvenligi-icin-yeni-riskler-olusturuyor-961656.html",
+   "zaman": "2026-10-29T18:38:00+03:00",
+   "kelimeler": [
+    "bm",
+    "deniz",
+    "gelis",
+    "guven",
+    "olust",
+    "riskl",
+    "tekno",
+    "yapay",
+    "yeni",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e3cd8f674bae": {
+   "id": "e3cd8f674bae",
+   "kaynak": "Hürriyet",
+   "baslik": "Oyuncağını almak isterken hayatını kaybetti",
+   "ozet": "ADIYAMAN’ın Besni ilçesinde, su birikintisine düşen oyuncağını almak isterken içine düşen Yunus Emre Mutlu (7), kaldırıldığı hastanede hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/oyuncagini-almak-isterken-hayatini-kaybetti-43359764",
+   "zaman": "2026-10-29T18:41:41+03:00",
+   "kelimeler": [
+    "almak",
+    "hayat",
+    "ister",
+    "kaybe",
+    "oyunc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "da4ceea10d00": {
+   "id": "da4ceea10d00",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB, GÖKTÜRK-1'in objektifinden Anadolu görüntülerini paylaştı",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Cumhuriyet'in 103'üncü yıldönümü dolayısıyla GÖKTÜRK-1 uydusunun objektifinden çekilen, Anadolu'daki Türk bayrakları ile Mustafa Kemal Atatürk'ün portresi ve imzasının yer aldığı görüntüleri paylaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/msb-gokturk-1in-objektifinden-anadolu-goruntulerini-paylasti-43359763",
+   "zaman": "2026-10-29T18:42:10+03:00",
+   "kelimeler": [
+    "anado",
+    "goktu",
+    "gorun",
+    "in",
+    "msb",
+    "objek",
+    "payla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "29.10 18:46:02  5 yeni haber",
   "29.10 18:31:31  1 yeni haber",
   "29.10 18:15:59  2 yeni haber",
   "29.10 18:01:32  1 yeni haber",
@@ -32530,8 +32637,7 @@
   "27.10 18:18:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Batman'da 'kurgu trafik kazası' operasyonu: 43 gözaltı",
   "27.10 18:15:57  2 yeni haber",
   "27.10 18:01:38  6 yeni haber",
-  "27.10 17:46:01  5 yeni haber",
-  "27.10 17:31:16  1 yeni haber"
+  "27.10 17:46:01  5 yeni haber"
  ],
  "otomatik": false
 }
