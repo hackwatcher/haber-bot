@@ -26124,7 +26124,8 @@
     "yolla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "67fd75d9c47c": {
    "id": "67fd75d9c47c",
@@ -31945,9 +31946,63 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b1e389c8d87c": {
+   "id": "b1e389c8d87c",
+   "kaynak": "Hürriyet",
+   "baslik": "Sağanak yağış ve fırtına kapıda! Meteoroloji saat verdi: İstanbul, Mersin ve Antalya dahil birçok ilde alarm | Sel, su baskını, hortum ve fırtına...",
+   "ozet": "Meteoroloji Genel Müdürlüğü’nden peş peşe gelen uyarıların ardından ülke genelinde sağanak alarmı verildi; 26 kent için sarı, 4 kent için ise şiddetli yağış ve fırtına riskine karşı turuncu kodlu uyarı yayımlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/saganak-yagis-ve-firtina-kapida-meteoroloji-saat-verdi-istanbul-mersin-ve-antalya-dahil-bircok-ilde-alarm-sel-su-baskini-hortum-ve-43358813",
+   "zaman": "2026-10-29T07:30:00+03:00",
+   "kelimeler": [
+    "alarm",
+    "antal",
+    "baski",
+    "birco",
+    "dahil",
+    "firti",
+    "hortu",
+    "ilde",
+    "istan",
+    "kapid",
+    "mersi",
+    "meteo",
+    "saat",
+    "sagan",
+    "sel",
+    "su",
+    "verdi",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "be77bc9adf4d": {
+   "id": "be77bc9adf4d",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da 29 Ekim nedeniyle yollar trafiğe kapatıldı! İşte alternatif güzergahlar",
+   "ozet": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. Yıl Dönümü Kutlamaları' nedeniyle bazı yollar trafiğe kapatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-29-ekim-nedeniyle-yollar-trafige-kapatildi-iste-alternatif-guzergahlar-43358820",
+   "zaman": "2026-10-29T07:34:25+03:00",
+   "kelimeler": [
+    "29",
+    "alter",
+    "ekim",
+    "guzer",
+    "istan",
+    "iste",
+    "kapat",
+    "neden",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c78c9ee26438"
   }
  },
  "kayit": [
+  "29.10 07:45:59  1 yeni haber",
   "29.10 07:31:57  4 yeni haber",
   "29.10 07:16:04  14 yeni haber",
   "29.10 07:03:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İspanya'da tren kazası: Kontrol merkezi personeli sorgulanıyor",
@@ -32146,8 +32201,7 @@
   "27.10 07:02:46  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Fenerbahçeli taraftarlar İsmail Kartal'ı istifaya çağırıyor.",
   "27.10 07:01:21  3 yeni haber",
   "27.10 06:31:10  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "27.10 05:47:30  2 yeni haber",
-  "27.10 04:31:10  4 yeni haber"
+  "27.10 05:47:30  2 yeni haber"
  ],
  "otomatik": false
 }
