@@ -1,21 +1,5 @@
 {
  "haberler": {
-  "abb0f5ac589a": {
-   "id": "abb0f5ac589a",
-   "kaynak": "TRT Haber",
-   "baslik": "Kuzey Ege için fırtına uyarısı",
-   "ozet": "Kuzey Ege'nin kuzey kesimlerinde yarın sabahın ilk saatlerinden itibaren etkili olması beklenen fırtınanın hızının saatte 75 kilometreye kadar çıkacağı tahmin ediliyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/kuzey-ege-icin-firtina-uyarisi-961344.html",
-   "zaman": "2026-10-27T13:15:00+03:00",
-   "kelimeler": [
-    "ege",
-    "firti",
-    "kuzey",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "166d57b21555": {
    "id": "166d57b21555",
    "kaynak": "AA",
@@ -31542,7 +31526,10 @@
     "yelek"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9dcee543a8de": {
    "id": "9dcee543a8de",
@@ -31583,9 +31570,197 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f3f6cdf842da": {
+   "id": "f3f6cdf842da",
+   "kaynak": "AA",
+   "baslik": "Fransız yazar Jean Echenoz edebiyatta gerçek ile kurgu arasındaki dengeyi anlattı",
+   "ozet": "Goncourt ödüllü Fransız yazar Jean Echenoz, eserlerinde tarihsel gerçeklik ile edebi hayal gücü arasında denge kurmaya çalıştığını belirterek, yazarlık anlayışını ve dilin edebi anlatımdaki yerini anlattı.",
+   "link": "https://www.aa.com.tr/tr/kultur/fransiz-yazar-jean-echenoz-edebiyatta-gercek-ile-kurgu-arasindaki-dengeyi-anlatti/4105880",
+   "zaman": "2026-10-30T11:10:21+03:00",
+   "kelimeler": [
+    "anlat",
+    "arasi",
+    "denge",
+    "echen",
+    "edebi",
+    "frans",
+    "gerce",
+    "jean",
+    "kurgu",
+    "yazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "67b03eb2c55a": {
+   "id": "67b03eb2c55a",
+   "kaynak": "AA",
+   "baslik": "Çanakkale Savaşları'nın gizli kahramanlarından Müstecip Onbaşı'nın hayatı beyaz perdeye taşınacak",
+   "ozet": "Çanakkale Savaşları sırasında yaptığı top atışıyla Fransızlara ait denizaltının teslim alınmasını sağlayan Müstecip Onbaşı'nın hayatı, yapay zeka destekli \"Tek Kişilik Ordu Müstecip Onbaşı\" filmiyle beyaz perdeye taşınacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/canakkale-savaslarinin-gizli-kahramanlarindan-mustecip-onbasinin-hayati-beyaz-perdeye-tasinacak/4105898",
+   "zaman": "2026-10-30T11:12:37+03:00",
+   "kelimeler": [
+    "beyaz",
+    "canak",
+    "gizli",
+    "hayat",
+    "kahra",
+    "muste",
+    "nin",
+    "onbas",
+    "perde",
+    "savas",
+    "tasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4241a24075a2": {
+   "id": "4241a24075a2",
+   "kaynak": "AA",
+   "baslik": "\"Sanatın Haritası\", farklı koşullarda üretimlerini sürdüren sanatçıları buluşturacak",
+   "ozet": "İVA Sanat, \"Sanatın Haritası\" başlıklı karma sergiyi 24-29 Kasım'da İstanbul Ortaköy Tarihi Hüsrev Kethüda Hamamı'nda sanatseverlerle buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/sanatin-haritasi-farkli-kosullarda-uretimlerini-surduren-sanatcilari-bulusturacak/4106055",
+   "zaman": "2026-10-30T12:24:25+03:00",
+   "kelimeler": [
+    "bulus",
+    "farkl",
+    "harit",
+    "kosul",
+    "sanat",
+    "surdu",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b3754e3e7746": {
+   "id": "b3754e3e7746",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor Teknik Direktörü Reis, disiplin ve özgürlüğü ön planda tutuyor",
+   "ozet": "Trabzonspor'un Alman teknik direktörü Thomas Reis, bir takımda disiplinin yanı sıra belirli kuralların bulunması gerektiğini, tarzının disiplin ve özgürlük üzerine kurulu olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-teknik-direktoru-reis-disiplin-ve-ozgurlugu-on-planda-tutuyor/4106097",
+   "zaman": "2026-10-30T12:57:33+03:00",
+   "kelimeler": [
+    "direk",
+    "disip",
+    "on",
+    "ozgur",
+    "pland",
+    "reis",
+    "tekni",
+    "trabz",
+    "tutuy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5a9560749eb8": {
+   "id": "5a9560749eb8",
+   "kaynak": "AA",
+   "baslik": "Kocaelispor, Süper Lig'de yarın Çaykur Rizespor'u konuk edecek",
+   "ozet": "Kocaelispor, Trendyol Süper Lig'in 10. haftasında yarın Çaykur Rizespor'u ağırlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek/4106099",
+   "zaman": "2026-10-30T12:57:39+03:00",
+   "kelimeler": [
+    "cayku",
+    "edece",
+    "kocae",
+    "konuk",
+    "lig",
+    "rizes",
+    "super",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "36498387be14": {
+   "id": "36498387be14",
+   "kaynak": "AA",
+   "baslik": "Binance'e yönelik siber saldırıda milyarlarca dolarlık varlığın izi sürülüyor",
+   "ozet": "Kripto para borsası Binance, saldırının toplam etkisini 6,3 milyar dolar olarak hesaplarken, yaklaşık 3 milyar dolarlık dijital varlığın dondurulduğunu açıkladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/binancee-yonelik-siber-saldirida-milyarlarca-dolarlik-varligin-izi-suruluyor/4106100",
+   "zaman": "2026-10-30T12:57:40+03:00",
+   "kelimeler": [
+    "binan",
+    "dolar",
+    "izi",
+    "milya",
+    "saldi",
+    "siber",
+    "surul",
+    "varli",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "23099b0f35d6": {
+   "id": "23099b0f35d6",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da Sarı Yeleklilerin Meclis'in önünde düzenlemeyi planladığı eylem yasaklandı",
+   "ozet": "Fransa'da Sarı Yeleklilerin kamu özgürlüklerinin muhafaza edilmesi çağrısıyla Ulusal Meclis'in önünde düzenlemeyi planladığı eylemin yasaklandığı öğrenildi.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-sari-yeleklilerin-meclisin-onunde-duzenlemeyi-planladigi-eylem-yasaklandi-961726.html",
+   "zaman": "2026-10-30T12:59:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "eylem",
+    "frans",
+    "in",
+    "mecli",
+    "onund",
+    "planl",
+    "sari",
+    "yasak",
+    "yelek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0b1edc964e84"
+  },
+  "8421f128ac3b": {
+   "id": "8421f128ac3b",
+   "kaynak": "AA",
+   "baslik": "ÖSYM hafta sonu 4 sınav yapacak",
+   "ozet": "ÖSYM Başkanlığınca, 2026-Sayıştay Eleme yarın, 2026-DUS 2. Dönem, 2026-STS Diş Hekimliği 2. Dönem ve DHBT 1 Kasım Pazar günü düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/osym-hafta-sonu-4-sinav-yapacak/4106108",
+   "zaman": "2026-10-30T13:01:55+03:00",
+   "kelimeler": [
+    "hafta",
+    "osym",
+    "sinav",
+    "sonu",
+    "yapac"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "af8f256de981": {
+   "id": "af8f256de981",
+   "kaynak": "AA",
+   "baslik": "AYM'den eksik ödenen memur maaşlarına ilişkin ihlal kararı",
+   "ozet": "Anayasa Mahkemesi, \"eksik ödenen memur maaşlarının tahsili amacıyla\" başlatılan ilamsız icra takiplerinin düşmesine karar verilmesi sonrasında idari yargıda açılan davaların süre aşımından reddedilmesini \"mahkemeye erişim hakkının ihlali\" kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/aymden-eksik-odenen-memur-maaslarina-iliskin-ihlal-karari/4106120",
+   "zaman": "2026-10-30T13:06:52+03:00",
+   "kelimeler": [
+    "aym",
+    "den",
+    "eksik",
+    "ihlal",
+    "ilisk",
+    "karar",
+    "maasl",
+    "memur",
+    "odene"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 13:16:11  8 yeni haber",
   "30.10 13:01:28  5 yeni haber",
   "30.10 12:48:03  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 16 ilde 'Organize Suçlarla Mücadele' operasyonları: 55 şüpheli tutukla",
   "30.10 12:46:02  1 yeni haber",
@@ -31784,8 +31959,7 @@
   "28.10 11:15:58  9 yeni haber",
   "28.10 11:02:41  5 yeni haber",
   "28.10 10:46:11  5 yeni haber",
-  "28.10 10:31:06  12 yeni haber",
-  "28.10 10:17:58  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa'da ilginç olay | Yardım teklifini reddetti, dakikalar sonra kaza"
+  "28.10 10:31:06  12 yeni haber"
  ],
  "otomatik": false
 }
