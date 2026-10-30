@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "795f7b25c404": {
-   "id": "795f7b25c404",
-   "kaynak": "Hürriyet",
-   "baslik": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-   "ozet": "Son dakika haberi... İstanbul'un Beyoğlu ilçesinde 5 katlı metruk bir bina çöktü. Olay yerine çok sayıda ekip sevk edildi. Hasar gören yan bina ise tahliye ediliyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-beyoglunda-5-katli-metruk-bina-coktu-43357398",
-   "zaman": "2026-10-28T01:47:00+03:00",
-   "kelimeler": [
-    "beyog",
-    "bina",
-    "coktu",
-    "katli",
-    "metru",
-    "nda"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "NTV",
-    "AA"
-   ]
-  },
   "ccf65363b2dd": {
    "id": "ccf65363b2dd",
    "kaynak": "TRT Haber",
@@ -30760,9 +30737,31 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1ef5f730deae": {
+   "id": "1ef5f730deae",
+   "kaynak": "AA",
+   "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
+   "ozet": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi/4106991",
+   "zaman": "2026-10-31T01:45:24+03:00",
+   "kelimeler": [
+    "aday",
+    "bm",
+    "ferid",
+    "genel",
+    "goste",
+    "nu",
+    "sekre",
+    "sinir",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 02:01:18  1 yeni haber",
   "31.10 01:46:09  1 yeni haber",
   "31.10 01:31:15  1 yeni haber",
   "31.10 01:03:59  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Sahte TOKİ siteleri üzerinden dolandırıcılık yapan 6 şüpheli tutukland",
@@ -30961,8 +30960,7 @@
   "28.10 23:46:28  3 yeni haber",
   "28.10 23:31:36  2 yeni haber",
   "28.10 23:16:07  3 yeni haber",
-  "28.10 23:01:45  1 yeni haber",
-  "28.10 23:01:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
+  "28.10 23:01:45  1 yeni haber"
  ],
  "otomatik": false
 }
