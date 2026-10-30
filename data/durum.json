@@ -76,50 +76,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "52cbf9531bd9": {
-   "id": "52cbf9531bd9",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye ile AB arasında makine emniyeti mevzuatında uyum süreci tamamlandı",
-   "ozet": "Ticaret Bakanlığı, TürkiyeAB Gümrük Birliği kapsamında makine emniyeti mevzuatında uyum sürecinin tamamlandığını teyit eden \"Beyan Metni\"nin imzalandığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-ab-arasinda-makine-emniyeti-mevzuatinda-uyum-sureci-tamamlandi-961298.html",
-   "zaman": "2026-10-27T08:37:00+03:00",
-   "kelimeler": [
-    "ab",
-    "arasi",
-    "emniy",
-    "makin",
-    "mevzu",
-    "surec",
-    "tamam",
-    "turki",
-    "uyum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "2d00ee1fc2fc": {
-   "id": "2d00ee1fc2fc",
-   "kaynak": "TRT Haber",
-   "baslik": "Soykırımcı İsrail'de genel seçimler için oy verme işlemi başladı",
-   "ozet": "İsrail'de Meclis'teki 120 milletvekilini belirlemek üzere ülke genelindeki oy verme işlemi yerel saatle 07.00'de TSİ 08.00 başladı.",
-   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilde-genel-secimler-icin-oy-verme-islemi-basladi-961299.html",
-   "zaman": "2026-10-27T08:39:00+03:00",
-   "kelimeler": [
-    "basla",
-    "genel",
-    "islem",
-    "israi",
-    "oy",
-    "secim",
-    "soyki",
-    "verme"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "63b8ca50e845": {
    "id": "63b8ca50e845",
    "kaynak": "Hürriyet",
@@ -247,26 +203,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "506622705bbc": {
-   "id": "506622705bbc",
-   "kaynak": "AA",
-   "baslik": "Rusya, Ukrayna'da Herson yönünde geçici ateşkesi başlattı",
-   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'da Herson bölgesindeki Oleşki şehrinde insani yardım operasyonu nedeniyle Herson yönünde geçici ateşkesin başladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti/4101896",
-   "zaman": "2026-10-27T08:37:56+03:00",
-   "kelimeler": [
-    "atesk",
-    "basla",
-    "gecic",
-    "herso",
-    "rusya",
-    "ukray",
-    "yonun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0fe2d0b1adea"
   },
   "69e7b4ed5599": {
    "id": "69e7b4ed5599",
@@ -32282,9 +32218,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ae2f51930dd9": {
+   "id": "ae2f51930dd9",
+   "kaynak": "NTV",
+   "baslik": "Peribacası faciasının yaşandığı alanda son durum. Öncesi ve sonrası görüntülendi",
+   "ozet": "Kapadokya'da çöken peribacası faciasının ardından bölgenin yeni ve eski drone görüntüleri ortaya çıktı. Dev kaya parçalarının kopmasıyla oluşan değişim dikkat çekti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-peribacasi-faciasinin-yasandigi-alanda-son-durum-oncesi-ve-sonrasi-goruntulendi-1748578",
+   "zaman": "2026-10-30T08:32:26+03:00",
+   "kelimeler": [
+    "aland",
+    "durum",
+    "facia",
+    "gorun",
+    "onces",
+    "perib",
+    "sonra",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 08:40:24  1 yeni haber",
   "30.10 08:31:10  2 yeni haber",
   "30.10 08:16:09  1 yeni haber",
   "30.10 07:46:13  2 yeni haber",
@@ -32483,8 +32440,7 @@
   "28.10 06:45:59  2 yeni haber",
   "28.10 06:31:19  2 yeni haber",
   "28.10 06:17:11  1 yeni haber",
-  "28.10 05:45:57  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "28.10 05:16:03  1 yeni haber"
+  "28.10 05:45:57  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
