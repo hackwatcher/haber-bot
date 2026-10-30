@@ -1,31 +1,5 @@
 {
  "haberler": {
-  "edb78a304069": {
-   "id": "edb78a304069",
-   "kaynak": "NTV",
-   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 27 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1748258",
-   "zaman": "2026-10-27T22:46:47+03:00",
-   "kelimeler": [
-    "2026",
-    "27",
-    "belli",
-    "cekil",
-    "ekim",
-    "ekran",
-    "kazan",
-    "loto",
-    "mpi",
-    "numar",
-    "sonuc",
-    "sorgu",
-    "super"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "0855e0cc19d9"
-  },
   "5f35283e4410": {
    "id": "5f35283e4410",
    "kaynak": "TRT Haber",
@@ -29077,7 +29051,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "3174a7497bf2": {
@@ -30272,7 +30247,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "c5a071763c24": {
@@ -30771,9 +30747,133 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "bbbfc47aa738"
+  },
+  "da1375f2912c": {
+   "id": "da1375f2912c",
+   "kaynak": "TRT Haber",
+   "baslik": "MİT Başkanı Kalın: Hepimiz güvende olmadan hiçbirimiz güvende değiliz",
+   "ozet": "Milli İstihbarat Teşkilatı MİT Başkanı İbrahim Kalın, \"Biz hep şu ilkeyle hareket ettik: 'Hepimiz güvende olmadan hiçbirimiz güvende değiliz.' Kendi güvenliğimi garanti altına almak için mutlaka paydaşlarımın, komşularımın, ortaklarımın güvenliğini de dikkate almak zorundayım\"…",
+   "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-hepimiz-guvende-olmadan-hicbirimiz-guvende-degiliz-961772.html",
+   "zaman": "2026-10-30T22:24:00+03:00",
+   "kelimeler": [
+    "baska",
+    "degil",
+    "guven",
+    "hepim",
+    "hicbi",
+    "kalin",
+    "mit",
+    "olmad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3be4dee205ec"
+  },
+  "a62b08f150c7": {
+   "id": "a62b08f150c7",
+   "kaynak": "AA",
+   "baslik": "İran’dan Avrupa ülkelerine “Savaşın bir bedeli var, şimdi bedel ödeme sırası sizde” mesajı",
+   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai, Avrupa ülkelerinin bir zamanlar İsrail’in “kirli işleri” ile övündüğünü savunarak, “Savaşın ve terörün bir bedeli var, şimdi bedel ödeme sırası sizde.” yorumunda bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-dan-avrupa-ulkelerine-savasin-bir-bedeli-var-simdi-bedel-odeme-sirasi-sizde-mesaji/4106911",
+   "zaman": "2026-10-30T22:46:53+03:00",
+   "kelimeler": [
+    "avrup",
+    "bedel",
+    "dan",
+    "iran",
+    "mesaj",
+    "odeme",
+    "savas",
+    "simdi",
+    "siras",
+    "sizde",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c750a2ae7a4": {
+   "id": "6c750a2ae7a4",
+   "kaynak": "Hürriyet",
+   "baslik": "Rize'de sağanak taşkına neden oldu",
+   "ozet": "Rize'nin Çayeli ilçesine bağlı Madenli beldesinde etkili sağanak ırmağı taşırdı, bazı yollar sel sularıyla kaplandı. Beldenin yüksek kesimlerinde küçük çapta heyelanlar meydana gelirken, ekipler temizlik çalışması başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/rizede-saganak-taskina-neden-oldu-43361124",
+   "zaman": "2026-10-30T22:51:18+03:00",
+   "kelimeler": [
+    "neden",
+    "rize",
+    "sagan",
+    "taski"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5fd7ae3521c3": {
+   "id": "5fd7ae3521c3",
+   "kaynak": "AA",
+   "baslik": "BM Güvenlik Konseyi, Guterres'in yerine önerilecek aday için 7. kez ön oylama yaptı",
+   "ozet": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), bu yıl sonunda görev süresi bitecek olan Genel Sekreter Antonio Guterres'in yerine aday olacak 7 isim için 7. kez ön yoklama seçimi yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyi-guterresin-yerine-onerilecek-aday-icin-7-kez-on-oylama-yapti/4106917",
+   "zaman": "2026-10-30T22:53:42+03:00",
+   "kelimeler": [
+    "aday",
+    "bm",
+    "guter",
+    "guven",
+    "in",
+    "kez",
+    "konse",
+    "on",
+    "oneri",
+    "oylam",
+    "yapti",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "43822175e683": {
+   "id": "43822175e683",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakırköy Belediyesi soruşturmasında 40 şüpheliye tutuklama talebi",
+   "ozet": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan 63 şüpheliden 40'ı tutuklanma talebiyle hakimliğe sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesi-sorusturmasinda-40-supheliye-tutuklama-talebi-43361126",
+   "zaman": "2026-10-30T22:53:51+03:00",
+   "kelimeler": [
+    "40",
+    "bakir",
+    "beled",
+    "sorus",
+    "suphe",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ffbd8af0be52"
+  },
+  "82bf813e465b": {
+   "id": "82bf813e465b",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da dehşet anları! Kızı ile erkek arkadaşını öldürdü",
+   "ozet": "Ankara'nın Mamak ilçesinde bir kişi, kızını ve kızının beraber yaşadığı erkek arkadaşını öldürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-dehset-anlari-kizi-ile-erkek-arkadasini-oldurdu-43361128",
+   "zaman": "2026-10-30T22:55:38+03:00",
+   "kelimeler": [
+    "ankar",
+    "anlar",
+    "arkad",
+    "dehse",
+    "erkek",
+    "kizi",
+    "oldur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 23:02:32  4 yeni haber",
   "30.10 22:31:17  2 yeni haber",
   "30.10 22:15:59  2 yeni haber",
   "30.10 22:01:26  2 yeni haber",
@@ -30972,8 +31072,7 @@
   "28.10 21:01:33  7 yeni haber",
   "28.10 20:46:10  3 yeni haber",
   "28.10 20:31:16  5 yeni haber",
-  "28.10 20:16:19  3 yeni haber",
-  "28.10 20:01:25  1 yeni haber"
+  "28.10 20:16:19  3 yeni haber"
  ],
  "otomatik": false
 }
