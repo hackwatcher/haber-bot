@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "ea8907ecaf26": {
-   "id": "ea8907ecaf26",
-   "kaynak": "TRT Haber",
-   "baslik": "Antalya'da hortum faciası: 4 ölü, 1 yaralı",
-   "ozet": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/antalyada-hortum-faciasi-4-olu-1-yarali-961281.html",
-   "zaman": "2026-10-27T05:59:00+03:00",
-   "kelimeler": [
-    "antal",
-    "facia",
-    "hortu",
-    "olu",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "619c5a921394"
-  },
   "7437dd839443": {
    "id": "7437dd839443",
    "kaynak": "TRT Haber",
@@ -32286,9 +32268,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7f6228b566ed": {
+   "id": "7f6228b566ed",
+   "kaynak": "Sözcü",
+   "baslik": "Binance para yatırma ve çekmeyi durdurdu: 2,54 milyar dolar donduruldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/binance-para-yatirma-ve-cekmeyi-durdurdu-254-milyar-dolar-donduruldu-p374155",
+   "zaman": "2026-10-30T05:45:16+03:00",
+   "kelimeler": [
+    "54",
+    "binan",
+    "cekme",
+    "dolar",
+    "dondu",
+    "durdu",
+    "milya",
+    "para",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c9c9cdf8761": {
+   "id": "4c9c9cdf8761",
+   "kaynak": "TRT Haber",
+   "baslik": "Çanakkale'de otomobil aydınlatma direğine çarptı: 2 ölü",
+   "ozet": "Çanakkale'de refüjdeki aydınlatma direğine çarpan otomobildeki 2 kişi hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-961678.html",
+   "zaman": "2026-10-30T05:49:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "canak",
+    "carpt",
+    "direg",
+    "olu",
+    "otomo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "38dac9892c36": {
+   "id": "38dac9892c36",
+   "kaynak": "Hürriyet",
+   "baslik": "Çanakkale’de otomobil aydınlatma direğine çarptı: 2 ölü",
+   "ozet": "Çanakkale’de otomobilin refüjdeki aydınlatma direğine çarptığı kazada sürücü Efehan Uzkuç ile yanındaki Efe Serin hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-43360053",
+   "zaman": "2026-10-30T05:56:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "canak",
+    "carpt",
+    "direg",
+    "olu",
+    "otomo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "4c9c9cdf8761"
   }
  },
  "kayit": [
+  "30.10 06:01:28  2 yeni haber",
   "30.10 03:46:26  2 yeni haber",
   "30.10 03:16:09  1 yeni haber",
   "30.10 01:31:25  1 yeni haber",
@@ -32487,8 +32531,7 @@
   "28.10 02:01:28  2 yeni haber",
   "28.10 01:46:00  1 yeni haber",
   "28.10 01:32:33  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe'de İsmail Kartal dönemi sona erdi.",
-  "28.10 01:31:09  2 yeni haber",
-  "28.10 01:04:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Fon soruşturmasında 2 yeni tutuklama: 120'ye yükseldi"
+  "28.10 01:31:09  2 yeni haber"
  ],
  "otomatik": false
 }
