@@ -1,33 +1,5 @@
 {
  "haberler": {
-  "3fe5f51aa274": {
-   "id": "3fe5f51aa274",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 2 yeni tutuklama: 120'ye yükseldi",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 4 şüpheliden 2'si tutuklandı. Böylece tutuklananların sayısı 120'ye yükseldi.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-2-yeni-tutuklama-120ye-yukseldi-961413.html",
-   "zaman": "2026-10-28T00:43:00+03:00",
-   "kelimeler": [
-    "120",
-    "fon",
-    "sorus",
-    "tutuk",
-    "ye",
-    "yeni",
-    "yukse"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-28T01:04:21.875430+03:00",
-   "ig_id": "18251513497310643",
-   "reels_id": "18052140323811832",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1797698108135409",
-   "slayt": 5,
-   "kanca": "120 TUTUKLU"
-  },
   "c865c0c44656": {
    "id": "c865c0c44656",
    "kaynak": "AA",
@@ -30242,7 +30214,10 @@
     "yolla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9d79894cc952": {
    "id": "9d79894cc952",
@@ -30624,9 +30599,106 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e33611c73380": {
+   "id": "e33611c73380",
+   "kaynak": "AA",
+   "baslik": "\"Annelik Yolculuğu\" uygulamasıyla çocukların 5 yaşına kadar gelişimi takip edilecek",
+   "ozet": "Sağlık Bakanlığınca geliştirilen \"Annelik Yolculuğu\" mobil uygulamasının kapsamı, çocukların gelişim ve sağlık süreçlerinin 5 yaşına kadar takip edilebilmesi amacıyla genişletildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/annelik-yolculugu-uygulamasiyla-cocuklarin-5-yasina-kadar-gelisimi-takip-edilecek/4106954",
+   "zaman": "2026-10-30T23:50:58+03:00",
+   "kelimeler": [
+    "annel",
+    "cocuk",
+    "edile",
+    "gelis",
+    "takip",
+    "uygul",
+    "yasin",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e2dedb63008": {
+   "id": "5e2dedb63008",
+   "kaynak": "AA",
+   "baslik": "Uzmanından 0-5 yaş grubu çocuklar için oyuncak uyarısı",
+   "ozet": "Adana Şehir Eğitim ve Araştırma Hastanesi Çocuk Gastroenteroloji Uzmanı Doç. Dr. Didem Gülcü Taşkın, özellikle 0-5 yaş grubundaki çocuklarda yabancı cisim yutma vakalarının görüldüğünü belirterek aileleri oyuncak seçimi konusunda uyardı.",
+   "link": "https://www.aa.com.tr/tr/gundem/uzmanindan-0-5-yas-grubu-cocuklar-icin-oyuncak-uyarisi/4106956",
+   "zaman": "2026-10-30T23:51:20+03:00",
+   "kelimeler": [
+    "cocuk",
+    "grubu",
+    "oyunc",
+    "uyari",
+    "uzman",
+    "yas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6bc6cbd3941c": {
+   "id": "6bc6cbd3941c",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul Maratonu nedeniyle bazı yollar trafiğe kapatılacak",
+   "ozet": "İstanbul Emniyet Müdürlüğü, 1 Kasım'da düzenlenecek İstanbul Maratonu dolayısıyla trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-maratonu-nedeniyle-bazi-yollar-trafige-kapatilacak-961779.html",
+   "zaman": "2026-10-31T00:25:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "istan",
+    "kapat",
+    "marat",
+    "neden",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "90dc5c333fc1"
+  },
+  "f4901e8c1b8d": {
+   "id": "f4901e8c1b8d",
+   "kaynak": "TRT Haber",
+   "baslik": "HAVELSAN, Nijerya'da kapsamlı mutabakat muhtırası imzaladı",
+   "ozet": "HAVELSAN, Nijerya'da düzenlenen AFRIDEX 2026 Savunma Sanayii Fuarı kapsamında Nijerya Savunma Sanayii Kurumu DICON ile savunma ve teknoloji alanlarında işbirliğini geliştirmeye yönelik mutabakat muhtırası imzaladı.",
+   "link": "https://www.trthaber.com/haber/savunma/havelsan-nijeryada-kapsamli-mutabakat-muhtirasi-imzaladi-961780.html",
+   "zaman": "2026-10-31T00:33:00+03:00",
+   "kelimeler": [
+    "havel",
+    "imzal",
+    "kapsa",
+    "muhti",
+    "mutab",
+    "nijer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a6ec95a1629": {
+   "id": "2a6ec95a1629",
+   "kaynak": "NTV",
+   "baslik": "Sakarya'da yol çalışmasında antik yazıtlı taş blok bulundu",
+   "ozet": "Sakarya'da çalışma esnasında toprak altından çıkarılan antik dönem yazıtlı taş blok, mahallelinin dikkatini çekti. Devasa tarihi kalıntı, kısa sürede merak konusu haline geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yol-calismasinda-bulundu-merak-konusu-oldu-1748705",
+   "zaman": "2026-10-31T00:42:04+03:00",
+   "kelimeler": [
+    "antik",
+    "blok",
+    "bulun",
+    "calis",
+    "sakar",
+    "tas",
+    "yazit",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 00:46:04  4 yeni haber",
   "31.10 00:28:18  2 yeni haber",
   "31.10 00:16:58  2 yeni haber",
   "31.10 00:03:14  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Türkiye'den Bosna Hersek'teki helikopter kazasında hayatını kaybedenle",
@@ -30825,8 +30897,7 @@
   "28.10 22:46:14  5 yeni haber",
   "28.10 22:31:19  1 yeni haber",
   "28.10 22:16:01  3 yeni haber",
-  "28.10 22:02:36  4 yeni haber",
-  "28.10 21:46:02  1 yeni haber"
+  "28.10 22:02:36  4 yeni haber"
  ],
  "otomatik": false
 }
