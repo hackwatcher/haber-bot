@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "ccf65363b2dd": {
-   "id": "ccf65363b2dd",
-   "kaynak": "TRT Haber",
-   "baslik": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-   "ozet": "İstanbul Beyoğlu'nda 5 katlı metruk bina çöktü. Olay yerine çok sayıda ekip sevk edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/beyoglunda-5-katli-metruk-bina-coktu-961415.html",
-   "zaman": "2026-10-28T02:03:00+03:00",
-   "kelimeler": [
-    "beyog",
-    "bina",
-    "coktu",
-    "katli",
-    "metru",
-    "nda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "795f7b25c404"
-  },
-  "1c8b3b437c75": {
-   "id": "1c8b3b437c75",
-   "kaynak": "XHABER",
-   "baslik": "Özgür Özel: \"Artık kimse güvende değil.\"",
-   "ozet": "(📽Koza TV)",
-   "link": "https://t.me/sahinozkan000/30400",
-   "zaman": "2026-10-28T02:03:42+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Özgür Özel: \"Artık kimse güvende değil.\"\n(📽Koza TV)",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/GAyOPle2BjEAyV3924mNU9lOWPE5XyOP0UT-S4rhPsn05Nh792PNYCo9xctnsCnZ9VnZMcfDuxTT7p8s04XpLggJOve7SGfe1005vaDTIF5BoAJJICGJ21IMczvseeS9RUNiIwPVzp9hElcY9wePFCH-9sK4TNHGwB_TGSEsFhHBiey635qJco5sgsmw8YgCm61631GY07eL88Wqzeuye7XPs6V7CmByOmaUYbWRpT_gBvWeR8KrOjxhtZCowX3guyBmPkybhO9G2RPc3ohljkgDKYrerjPJnBq8xILFA-l6bOWlPdbABFR1oOQGtoDeN4Ahn2I9JQTSt4l5Pr0lgg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "artik",
-    "degil",
-    "guven",
-    "kimse",
-    "ozel",
-    "ozgur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3bb6a8c865f3": {
    "id": "3bb6a8c865f3",
    "kaynak": "NTV",
@@ -30198,7 +30157,8 @@
     "yolda"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "8873e4c5901c": {
    "id": "8873e4c5901c",
@@ -30757,7 +30717,53 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "e24562419bbc": {
+   "id": "e24562419bbc",
+   "kaynak": "AA",
+   "baslik": "Polonya Anayasa Mahkemesi önünde gösteri ve polis ablukası sürüyor",
+   "ozet": "Polonya'da Anayasa Mahkemesi Başkanı Bogdan Swieczkowski ve Başkan Yardımcısı Bartlomiej Sochanski'nin görevlerinden uzaklaştırıldığının duyurulmasının ardından mahkeme binası önünde başlayan gösteri ve polis ablukası devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/polonya-anayasa-mahkemesi-onunde-gosteri-ve-polis-ablukasi-suruyor/4106944",
+   "zaman": "2026-10-30T23:34:36+03:00",
+   "kelimeler": [
+    "abluk",
+    "anaya",
+    "goste",
+    "mahke",
+    "onund",
+    "polis",
+    "polon",
+    "suruy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6399365946d"
+  },
+  "0529b3755f41": {
+   "id": "0529b3755f41",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
+   "ozet": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı AGİT Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi-961782.html",
+   "zaman": "2026-10-31T01:58:00+03:00",
+   "kelimeler": [
+    "aday",
+    "bm",
+    "ferid",
+    "genel",
+    "goste",
+    "nu",
+    "sekre",
+    "sinir",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1ef5f730deae"
   }
  },
  "kayit": [
