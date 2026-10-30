@@ -15073,7 +15073,10 @@
     "rande"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "a823e3c94490": {
    "id": "a823e3c94490",
@@ -25409,7 +25412,10 @@
     "surdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d27d8a04f4ff": {
    "id": "d27d8a04f4ff",
@@ -30483,7 +30489,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3be4dee205ec": {
    "id": "3be4dee205ec",
@@ -30697,9 +30706,147 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "eb7b0ad3cb5e"
+  },
+  "2146f1081bb0": {
+   "id": "2146f1081bb0",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail ordusu, El Halil'de abluka altındaki bölgeyi kapalı askeri bölge ilan etti",
+   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentindeki Ayn Deyr Bahha bölgesini kapalı askeri bölge ilan etti.",
+   "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-el-halilde-abluka-altindaki-bolgeyi-kapali-askeri-bolge-ilan-etti-961766.html",
+   "zaman": "2026-10-30T21:13:00+03:00",
+   "kelimeler": [
+    "abluk",
+    "altin",
+    "asker",
+    "bolge",
+    "el",
+    "etti",
+    "halil",
+    "ilan",
+    "israi",
+    "kapal",
+    "ordus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8ca4a803dd33"
+  },
+  "89514bb0f0be": {
+   "id": "89514bb0f0be",
+   "kaynak": "TRT Haber",
+   "baslik": "Mersin'deki faili meçhul cinayete ilişkin yeni bilgilere ulaşıldı",
+   "ozet": "Mersin'de 19 yıl önce cansız bedeni bulunan Bahaddin Sefer cinayetinin aydınlatılmasına ilişkin soruşturmada yeni bilgilere ulaşıldı. Namus saikiyle işlendiği belirlenen cinayete ilişkin 6 ilde düzenlenen eş zamanlı operasyonlarda 6 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/mersindeki-faili-mechul-cinayete-iliskin-yeni-bilgilere-ulasildi-961768.html",
+   "zaman": "2026-10-30T21:30:00+03:00",
+   "kelimeler": [
+    "bilgi",
+    "cinay",
+    "deki",
+    "faili",
+    "ilisk",
+    "mechu",
+    "mersi",
+    "ulasi",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5e5145e22ad3"
+  },
+  "8ef8767b711e": {
+   "id": "8ef8767b711e",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye'den Bosna Hersek'teki helikopter kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Bosna Hersek'in kuzeyindeki Brcko'da EUFOR'a ait askeri helikopterin düşmesi sonucu hayatını kaybedenler için taziye mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiyeden-bosna-hersekteki-helikopter-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji-43361099",
+   "zaman": "2026-10-30T21:43:42+03:00",
+   "kelimeler": [
+    "bosna",
+    "den",
+    "hayat",
+    "helik",
+    "herse",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "taziy",
+    "teki",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "22c01652b3d6": {
+   "id": "22c01652b3d6",
+   "kaynak": "AA",
+   "baslik": "Türkiye'den Bosna Hersek'teki helikopter kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Bosna Hersek'in kuzeyindeki Brcko'da EUFOR'a ait askeri helikopterin düşmesi sonucu hayatını kaybedenler için taziye mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-bosna-hersekteki-helikopter-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4106880",
+   "zaman": "2026-10-30T21:48:13+03:00",
+   "kelimeler": [
+    "bosna",
+    "den",
+    "hayat",
+    "helik",
+    "herse",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "taziy",
+    "teki",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8ef8767b711e"
+  },
+  "6e371cdea5a1": {
+   "id": "6e371cdea5a1",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında iki iş insanının mal varlıklarına tedbir kararı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/kemal-akkaya-ve-enver-cevik-mal-varligi-tedbir-karari-p374435",
+   "zaman": "2026-10-30T21:55:21+03:00",
+   "kelimeler": [
+    "fon",
+    "iki",
+    "insan",
+    "is",
+    "karar",
+    "mal",
+    "sorus",
+    "tedbi",
+    "varli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "25e1db69e4bf": {
+   "id": "25e1db69e4bf",
+   "kaynak": "XHABER",
+   "baslik": "MS | Konyaspor 0-4 Galatasaray",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30434",
+   "zaman": "2026-10-30T22:01:04+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | Konyaspor 0-4 Galatasaray",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/ZWFa4qRNNgjAUIDuUcnpPCvE8DKiO6oNu1hT0K22ooN6xc2uzhiML7XwPxaPViKWPDXFbfRlPHFkJrzOwQZUHfusV-MegD_7Ao2uaT5ucpLRNWfpx7-vWXd6SxouAo8EKrqg_0AluZvCeHfXGK9BcOj1iGJEfZSCEdHbQCCW9OW5tJTH1iFL2zjh4DMvcWMYFsTLJWVYpyFJs96dG_87ELaFm_sV0yqloP4dxCGXzkOIiH97ZZva9GXveAfQu05WwnCpmEwmiEh37FJnuBABUrfiOgdePEfROrdClxuORDU7MVsV3YgBrT0x77Pefx8PwOkkcqSi6zVlVh0r_0Jz6A.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "galat",
+    "konya",
+    "ms"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ef14565488f0"
   }
  },
  "kayit": [
+  "30.10 22:01:26  2 yeni haber",
   "30.10 21:46:12  2 yeni haber",
   "30.10 21:31:19  4 yeni haber",
   "30.10 21:16:47  6 yeni haber",
@@ -30898,8 +31045,7 @@
   "28.10 20:16:19  3 yeni haber",
   "28.10 20:01:25  1 yeni haber",
   "28.10 19:45:59  7 yeni haber",
-  "28.10 19:33:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · \"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Di",
-  "28.10 19:31:18  3 yeni haber"
+  "28.10 19:33:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · \"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Di"
  ],
  "otomatik": false
 }
