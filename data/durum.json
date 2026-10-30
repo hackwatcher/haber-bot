@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "cfd2f909cccb": {
-   "id": "cfd2f909cccb",
-   "kaynak": "AA",
-   "baslik": "Suudi Arabistan'ın Harc vilayeti ve doğu bölgesinde erken uyarı sistemi devreye alındı",
-   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-harc-vilayeti-ve-dogu-bolgesinde-erken-uyari-sistemi-devreye-alindi/4101863",
-   "zaman": "2026-10-27T03:37:16+03:00",
-   "kelimeler": [
-    "alind",
-    "arabi",
-    "bolge",
-    "devre",
-    "dogu",
-    "erken",
-    "harc",
-    "in",
-    "siste",
-    "suudi",
-    "uyari",
-    "vilay"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2040215354d4"
-  },
-  "1332fd87e0e0": {
-   "id": "1332fd87e0e0",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Kılıçdaroğlu'nun erken seçim çıkışı CHP ve muhalefette nasıl yorumlandı?",
-   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun, iktidarın erken seçim kararı alması halinde buna itiraz etmeyeceklerini açıklaması, seçim ve adaylık hesaplarına ilişkin yeni bir tartışmayı da beraberinde getirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo",
-   "zaman": "2026-10-27T03:44:02+03:00",
-   "kelimeler": [
-    "chp",
-    "cikis",
-    "erken",
-    "kilic",
-    "muhal",
-    "nasil",
-    "nun",
-    "secim",
-    "yorum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "71ac28d75686": {
-   "id": "71ac28d75686",
-   "kaynak": "AA",
-   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 balistik füze imha edildi",
-   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füzenin hava savunma sistemleri tarafından imha edildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-balistik-fuze-imha-edildi/4101863",
-   "zaman": "2026-10-27T03:37:16+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "balis",
-    "edild",
-    "firla",
-    "fuze",
-    "husil",
-    "imha",
-    "koali",
-    "suudi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e5338642f8f9"
-  },
   "ef508db960c9": {
    "id": "ef508db960c9",
    "kaynak": "BBC Türkçe",
@@ -190,29 +121,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "cee94e4d7ddf": {
-   "id": "cee94e4d7ddf",
-   "kaynak": "AA",
-   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 füze ile 4 İHA imha edildi",
-   "ozet": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füze ve 4 insansız hava aracının (İHA) hava savunma sistemleri tarafından imha edildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-fuze-ile-4-iha-imha-edildi/4101863",
-   "zaman": "2026-10-27T03:37:16+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "edild",
-    "firla",
-    "fuze",
-    "husil",
-    "iha",
-    "imha",
-    "koali",
-    "suudi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e5338642f8f9"
   },
   "ea8907ecaf26": {
    "id": "ea8907ecaf26",
@@ -30200,7 +30108,8 @@
     "sulta"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "fe7118ee9427": {
    "id": "fe7118ee9427",
@@ -32441,9 +32350,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d73c39bb8f2a": {
+   "id": "d73c39bb8f2a",
+   "kaynak": "Hürriyet",
+   "baslik": "Mersin'de tütün dolu antrepoda yangın",
+   "ozet": "Mersin'de tütün dolu antrepoda çıkan yangında alevler kısa sürede tüm depoyu sardı. Çok sayıda itfaiye ekibi söndürme çalışmalarını sürdürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/mersinde-tutun-dolu-antrepoda-yangin-43360042",
+   "zaman": "2026-10-30T03:19:46+03:00",
+   "kelimeler": [
+    "antre",
+    "dolu",
+    "mersi",
+    "tutun",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ebada7964034": {
+   "id": "ebada7964034",
+   "kaynak": "Hürriyet",
+   "baslik": "Sultanbeyli'de 1 milyon 642 bin sentetik ecza hap ele geçirildi",
+   "ozet": "Sultanbeyli'de narkotik ekiplerinin bir araca düzenlediği operasyonda, 18 koli içerisinde 1 milyon 642 bin adet Pregabalin etken maddeli sentetik ecza hap ele geçirildi. Olayla ilgili gözaltına alınan 2 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sultanbeylide-1-milyon-642-bin-sentetik-ecza-hap-ele-gecirildi-43360044",
+   "zaman": "2026-10-30T03:20:36+03:00",
+   "kelimeler": [
+    "642",
+    "bin",
+    "ecza",
+    "ele",
+    "gecir",
+    "hap",
+    "milyo",
+    "sente",
+    "sulta"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1598c08ce1ea"
+  },
+  "38c0c128eed9": {
+   "id": "38c0c128eed9",
+   "kaynak": "Hürriyet",
+   "baslik": "Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi",
+   "ozet": "İstanbul'un Gaziosmanpaşa ilçesinde sağanak sonrası kısmi çökme meydana gelen yol trafiğe kapatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045",
+   "zaman": "2026-10-30T03:22:48+03:00",
+   "kelimeler": [
+    "cokme",
+    "gazio",
+    "geldi",
+    "meyda",
+    "sagan",
+    "sonra",
+    "yolda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 03:46:26  2 yeni haber",
   "30.10 03:16:09  1 yeni haber",
   "30.10 01:31:25  1 yeni haber",
   "30.10 01:15:58  4 yeni haber",
@@ -32642,8 +32610,7 @@
   "28.10 01:46:00  1 yeni haber",
   "28.10 01:32:33  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe'de İsmail Kartal dönemi sona erdi.",
   "28.10 01:31:09  2 yeni haber",
-  "28.10 01:04:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Fon soruşturmasında 2 yeni tutuklama: 120'ye yükseldi",
-  "28.10 01:01:23  1 yeni haber"
+  "28.10 01:04:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Fon soruşturmasında 2 yeni tutuklama: 120'ye yükseldi"
  ],
  "otomatik": false
 }
