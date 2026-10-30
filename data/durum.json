@@ -1,42 +1,5 @@
 {
  "haberler": {
-  "5bf502cdfd01": {
-   "id": "5bf502cdfd01",
-   "kaynak": "Sözcü",
-   "baslik": "Yerel yönetim dengeleri değişiyor",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/yerel-yonetim-dengeleri-degisiyor-p373085",
-   "zaman": "2026-10-27T07:41:25+03:00",
-   "kelimeler": [
-    "degis",
-    "denge",
-    "yerel",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c3bd73ba3a0e": {
-   "id": "c3bd73ba3a0e",
-   "kaynak": "AA",
-   "baslik": "Bakırköy Belediyesine yönelik soruşturmada 68 şüpheliye gözaltı kararı",
-   "ozet": "Bakırköy Cumhuriyet Başsavcılığı, Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin başlatılan soruşturma kapsamında 68 şüpheli hakkında gözaltı kararı verildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-68-supheliye-gozalti-karari/4101880",
-   "zaman": "2026-10-27T07:43:55+03:00",
-   "kelimeler": [
-    "68",
-    "bakir",
-    "beled",
-    "gozal",
-    "karar",
-    "sorus",
-    "suphe",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "35e91bfc97e1"
-  },
   "629ca7e79e5d": {
    "id": "629ca7e79e5d",
    "kaynak": "TRT Haber",
@@ -366,27 +329,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "8c8b6a3affc9": {
-   "id": "8c8b6a3affc9",
-   "kaynak": "AA",
-   "baslik": "Bakırköy Belediyesine yönelik soruşturmada 56 şüpheli gözaltına alındı",
-   "ozet": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin başlatılan soruşturma kapsamında 56 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-56-supheli-gozaltina-alindi/4101880",
-   "zaman": "2026-10-27T07:43:55+03:00",
-   "kelimeler": [
-    "56",
-    "alind",
-    "bakir",
-    "beled",
-    "gozal",
-    "sorus",
-    "suphe",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "0fe2d0b1adea": {
    "id": "0fe2d0b1adea",
@@ -32017,7 +31959,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "3a52b163a510": {
@@ -32402,9 +32345,69 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2757660e6712": {
+   "id": "2757660e6712",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünyanın gözü Türkiye'de: COP31 için geri sayım başladı",
+   "ozet": "Gezegenin geleceğini belirleyecek en kritik virajlardan biri olan Birleşmiş Milletler İklim Değişikliği Konferansı COP31, Türkiyenin ev sahipliğinde gerçekleşecek.",
+   "link": "https://www.trthaber.com/haber/gundem/dunyanin-gozu-turkiyede-cop31-icin-geri-sayim-basladi-961697.html",
+   "zaman": "2026-10-30T07:19:00+03:00",
+   "kelimeler": [
+    "basla",
+    "cop31",
+    "dunya",
+    "geri",
+    "gozu",
+    "sayim",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79b623b7bff4": {
+   "id": "79b623b7bff4",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da 31 Ekim protestoları için 70 bin polis teyakkuza geçti",
+   "ozet": "Fransa İçişleri Bakanı Laurent Nunez, artan yaşam maliyeti ve ücretler konusundaki hoşnutsuzluk nedeniyle birçok Fransız şehrinde yapılan seferberlik çağrılarının ortasında, cumartesi günü olası isyanlara karşı uyarıda bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-31-ekim-protestolari-icin-70-bin-polis-teyakkuza-gecti-961695.html",
+   "zaman": "2026-10-30T07:27:00+03:00",
+   "kelimeler": [
+    "31",
+    "70",
+    "bin",
+    "ekim",
+    "frans",
+    "gecti",
+    "polis",
+    "prote",
+    "teyak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ee821165315e": {
+   "id": "ee821165315e",
+   "kaynak": "AA",
+   "baslik": "2026-KPSS ön lisans sonuçları açıklandı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM), Kamu Personeli Seçme Sınavı (2026-KPSS) ön lisans sonuçları açıklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/2026-kpss-on-lisans-sonuclari-aciklandi/4105576",
+   "zaman": "2026-10-30T07:42:11+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "kpss",
+    "lisan",
+    "on",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7ad30bf00552"
   }
  },
  "kayit": [
+  "30.10 07:46:13  2 yeni haber",
   "30.10 07:31:16  3 yeni haber",
   "30.10 07:15:56  10 yeni haber",
   "30.10 07:02:07  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Victor Osimhen, 2. kez baba oldu.",
@@ -32603,8 +32606,7 @@
   "28.10 05:45:57  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "28.10 05:16:03  1 yeni haber",
   "28.10 05:01:23  1 yeni haber",
-  "28.10 04:16:10  2 yeni haber",
-  "28.10 03:01:32  1 yeni haber"
+  "28.10 04:16:10  2 yeni haber"
  ],
  "otomatik": false
 }
