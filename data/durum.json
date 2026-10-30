@@ -1,96 +1,5 @@
 {
  "haberler": {
-  "b0990b842152": {
-   "id": "b0990b842152",
-   "kaynak": "NTV",
-   "baslik": "30 ilde Daltonlar suç örgütüne operasyon: 85 şüpheli gözaltına alındı",
-   "ozet": "İstanbul merkezli 30 ilde, Daltonlar Suç Örgütüne yönelik eş zamanlı operasyon yapıldı. Operasyonlarda 85 şüpheli yakalanarak gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/30-ilde-daltonlar-suc-orgutune-operasyon-85-supheli-gozaltina-alindi-1748116",
-   "zaman": "2026-10-27T07:26:33+03:00",
-   "kelimeler": [
-    "30",
-    "85",
-    "alind",
-    "dalto",
-    "gozal",
-    "ilde",
-    "opera",
-    "orgut",
-    "suc",
-    "suphe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü",
-    "Hürriyet",
-    "AA"
-   ]
-  },
-  "c7b454fa4ff4": {
-   "id": "c7b454fa4ff4",
-   "kaynak": "Sözcü",
-   "baslik": "Daltonlar' suç örgütüne 30 ilde dev operasyon",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-daltonlar-a-30-ilde-es-zamanli-operasyon-p373082",
-   "zaman": "2026-10-27T07:29:13+03:00",
-   "kelimeler": [
-    "30",
-    "dalto",
-    "dev",
-    "ilde",
-    "opera",
-    "orgut",
-    "suc"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b0990b842152"
-  },
-  "0219b7359da4": {
-   "id": "0219b7359da4",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da beklenen yağmur başladı: Dışarı çıkan vatandaşlar zor anlar yaşadı",
-   "ozet": "İstanbul'da sabahın erken saatlerinde etkili olan sağanak yağış, işe gitmek için yola çıkan vatandaşlara zor anlar yaşattı. Bazı vatandaşlar şemsiyeleriyle yağmurdan korunmaya çalışırken, bazıları ise yağıştan etkilenmemek için koşarak ilerledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098",
-   "zaman": "2026-10-27T07:23:00+03:00",
-   "kelimeler": [
-    "anlar",
-    "basla",
-    "bekle",
-    "cikan",
-    "disar",
-    "istan",
-    "vatan",
-    "yagmu",
-    "yasad",
-    "zor"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3476250fb7f7": {
-   "id": "3476250fb7f7",
-   "kaynak": "Hürriyet",
-   "baslik": "Yeni nesil suç örgülerine operasyon: 85 şüpheli gözaltına alındı",
-   "ozet": "Yeni Nesil Suç Örgütlerine yönelik 30 ilde eş zamanlı operasyon gerçekleştirildi. 85 şüpheli hakkında gözaltı kararı verildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/yeni-nesil-suc-orgulerine-operasyon-85-supheli-gozaltina-alindi-43356102",
-   "zaman": "2026-10-27T07:29:00+03:00",
-   "kelimeler": [
-    "85",
-    "alind",
-    "gozal",
-    "nesil",
-    "opera",
-    "orgul",
-    "suc",
-    "suphe",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b0990b842152"
-  },
   "5bf502cdfd01": {
    "id": "5bf502cdfd01",
    "kaynak": "Sözcü",
@@ -127,27 +36,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "35e91bfc97e1"
-  },
-  "837700c328a6": {
-   "id": "837700c328a6",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransa'da öğrencilerden daha iyi eğitim koşulları için eylemleri sürdürme çağrısı",
-   "ozet": "Fransa'da hükümet eğitim için yeni destekler açıklarken, daha iyi eğitim koşulları isteyen lise ve üniversite öğrencileri eylemlere devam etme çağrısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-ogrencilerden-daha-iyi-egitim-kosullari-icin-eylemleri-surdurme-cagrisi-961290.html",
-   "zaman": "2026-10-27T07:29:00+03:00",
-   "kelimeler": [
-    "cagri",
-    "egiti",
-    "eylem",
-    "frans",
-    "iyi",
-    "kosul",
-    "ogren",
-    "surdu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "bbae35978204"
   },
   "629ca7e79e5d": {
    "id": "629ca7e79e5d",
@@ -32128,7 +32016,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "3a52b163a510": {
@@ -32429,9 +32318,94 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8de78262105e": {
+   "id": "8de78262105e",
+   "kaynak": "TRT Haber",
+   "baslik": "Brezilya 263 milyon mobil kullanıcısına yüz tanıma taraması zorunluluğu getirdi",
+   "ozet": "Brezilya ulusal telekomünikasyon düzenleyicisi Anatel, ülkedeki 263 milyon mobil abonenin tamamından canlı yüz taraması talep eden zorunlu bir biyometrik kayıt kuralını onayladı. Ulusal veri koruma otoritesinin yüz tanıma verilerini yönetme çerçevesi ise henüz tamamlanmadı.",
+   "link": "https://www.trthaber.com/haber/dunya/brezilya-263-milyon-mobil-kullanicisina-yuz-tanima-taramasi-zorunlulugu-getirdi-961694.html",
+   "zaman": "2026-10-30T07:07:00+03:00",
+   "kelimeler": [
+    "263",
+    "brezi",
+    "getir",
+    "kulla",
+    "milyo",
+    "mobil",
+    "tanim",
+    "taram",
+    "yuz",
+    "zorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ac1597671993": {
+   "id": "ac1597671993",
+   "kaynak": "Hürriyet",
+   "baslik": "2026 KPSS Ön Lisans Sınav sonuçları açıklandı",
+   "ozet": "2026 KPSS Ön Lisans Sınav sonuçları açıklandı. ÖSYM'nin resmi internet sitesinde yayınlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-2026-kpss-on-lisans-sinav-sonuclari-aciklandi-43360058",
+   "zaman": "2026-10-30T07:14:00+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "kpss",
+    "lisan",
+    "on",
+    "sinav",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7ad30bf00552"
+  },
+  "5bd12c78a2de": {
+   "id": "5bd12c78a2de",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa'da soğuk hava deposunda yangın: Kontrol altına alındı",
+   "ozet": "Bursa’nın İznik ilçesinde, soğuk hava deposunda çıkan yangına çok sayıda itfaiye ekibi müdahale etti. Yangın saatler sonra kontrol altına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-soguk-hava-deposunda-yangin-kontrol-altina-alindi-43360056",
+   "zaman": "2026-10-30T07:15:55+03:00",
+   "kelimeler": [
+    "alind",
+    "altin",
+    "bursa",
+    "depos",
+    "hava",
+    "kontr",
+    "soguk",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b194fe2b7dbe": {
+   "id": "b194fe2b7dbe",
+   "kaynak": "Hürriyet",
+   "baslik": "Komşuda vakalar artıyor: Can kaybı 51 oldu... Gizli tehlike Türkiye kapısında",
+   "ozet": "Yunanistan’da ölüm saçan ve can kaybını 51’e çıkaran Batı Nil virüsü rüzgâr gibi yayılıyor. Geleneksel yöntemlerin tamamen etkisiz kaldığı, gündüz bile kıyafet üzerinden saldıran yeni nesil istilacı sivrisinekler Türkiye için ne kadar büyük bir tehdit?",
+   "link": "https://www.hurriyet.com.tr/gundem/komsuda-vakalar-artiyor-can-kaybi-51-oldu-gizli-tehlike-turkiye-kapisinda-43357582",
+   "zaman": "2026-10-30T07:18:30+03:00",
+   "kelimeler": [
+    "51",
+    "artiy",
+    "can",
+    "gizli",
+    "kapis",
+    "kaybi",
+    "komsu",
+    "tehli",
+    "turki",
+    "vakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 07:31:16  3 yeni haber",
   "30.10 07:15:56  10 yeni haber",
   "30.10 07:02:07  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Victor Osimhen, 2. kez baba oldu.",
   "30.10 07:01:19  4 yeni haber",
@@ -32630,8 +32604,7 @@
   "28.10 05:16:03  1 yeni haber",
   "28.10 05:01:23  1 yeni haber",
   "28.10 04:16:10  2 yeni haber",
-  "28.10 03:01:32  1 yeni haber",
-  "28.10 02:31:11  1 yeni haber"
+  "28.10 03:01:32  1 yeni haber"
  ],
  "otomatik": false
 }
