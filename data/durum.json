@@ -1,96 +1,5 @@
 {
  "haberler": {
-  "62d6d2c12a33": {
-   "id": "62d6d2c12a33",
-   "kaynak": "NTV",
-   "baslik": "Harita sarı ve turuncuya büründü. Yağışlar şiddetlenecek, hortum riski çevre illere yayıldı",
-   "ozet": "Antalya'da etkili olan hortumda 4 kişi hayatını kaybetti. NTV Meteoroloji Editörü Dilek Çalışkan, kentte riskin devam ettiğini dile getirip yeni hortum tehlikesine karşı uyardı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-harita-sari-ve-turuncuya-burundu-yagislar-siddetlenecek-hortum-riski-cevre-illere-yayildi-1748211",
-   "zaman": "2026-10-27T14:17:13+03:00",
-   "kelimeler": [
-    "burun",
-    "cevre",
-    "harit",
-    "hortu",
-    "iller",
-    "riski",
-    "sari",
-    "sidde",
-    "turun",
-    "yagis",
-    "yayil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "abc4d71670b2": {
-   "id": "abc4d71670b2",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Antalya'da 4 işçinin hayatını kaybettiği hortumla ilgili neler biliniyor?",
-   "ozet": "Antalya'da 26 Ekim gece saatlerinde meydana gelen hortumda, site inşaatında çalışan dört işçi hayatını kaybetti, bir işçi yaralandı.",
-   "link": "https://www.bbc.com/turkce/articles/c674p3vwlje2o",
-   "zaman": "2026-10-27T14:17:38+03:00",
-   "kelimeler": [
-    "antal",
-    "bilin",
-    "hayat",
-    "hortu",
-    "ilgil",
-    "iscin",
-    "kaybe",
-    "neler"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5de2a4b9d1be": {
-   "id": "5de2a4b9d1be",
-   "kaynak": "AA",
-   "baslik": "BM, Yemen'de yerinden edilenlerin sayısının 281 bine ulaştığını bildirdi",
-   "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (BMMYK) Sözcüsü Babar Baloch, çatışmaların yaşandığı Yemen'de yerinden edilenlerin sayısının 281 bine ulaştığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-yerinden-edilenlerin-sayisinin-281-bine-ulastigini-bildirdi/4102379",
-   "zaman": "2026-10-27T14:22:18+03:00",
-   "kelimeler": [
-    "281",
-    "bildi",
-    "bine",
-    "bm",
-    "edile",
-    "sayis",
-    "ulast",
-    "yemen",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0e28635e419f": {
-   "id": "0e28635e419f",
-   "kaynak": "Hürriyet",
-   "baslik": "Aslı Baş'ın ölümüne ilişkin yeniden görülen davada ara karar: Ahmet Bayer duruşmalardan muaf tutuldu",
-   "ozet": "Muğla'nın Bodrum ilçesinde 16 yıl önce manken Aslı Baş'ın balkondan düşerek hayatını kaybetmesine ilişkin Yargıtay'ın bozma kararının ardından yeniden görülen davada ara karar çıktı. Muğla 1.",
-   "link": "https://www.hurriyet.com.tr/gundem/asli-basin-olumune-iliskin-yeniden-gorulen-davada-ara-karar-ahmet-bayer-durusmalardan-muaf-tutuldu-43356726",
-   "zaman": "2026-10-27T14:25:12+03:00",
-   "kelimeler": [
-    "ahmet",
-    "ara",
-    "asli",
-    "bas",
-    "bayer",
-    "davad",
-    "durus",
-    "gorul",
-    "ilisk",
-    "in",
-    "karar",
-    "muaf",
-    "olumu",
-    "tutul",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9333ff42a05d": {
    "id": "9333ff42a05d",
    "kaynak": "NTV",
@@ -310,22 +219,6 @@
     "hasta",
     "kroni",
     "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "dcd52f6bf4ef": {
-   "id": "dcd52f6bf4ef",
-   "kaynak": "AA",
-   "baslik": "DOSYA: El Nino Bilançosu",
-   "ozet": "Küresel sıcaklıkları zirveye taşıyan El Nino hava olayının sona ermesine rağmen, şiddetlenen iklim değişikliğinin etkisiyle temmuz ortasına kadar yeni sıcaklık rekorlarının kırılması bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/dosya-el-nino-bilancosu/4102381",
-   "zaman": "2026-10-27T14:22:31+03:00",
-   "kelimeler": [
-    "bilan",
-    "dosya",
-    "el",
-    "nino"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -22210,7 +22103,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "2bbbc7fef573": {
@@ -30189,7 +30083,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "c858e1d2765e": {
    "id": "c858e1d2765e",
@@ -31610,9 +31507,142 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "1224bff3b112": {
+   "id": "1224bff3b112",
+   "kaynak": "TRT Haber",
+   "baslik": "TDT 13. Zirvesi Ankara Bildirisi: Türk Yüzyılı vurgusu ve stratejik ortaklık mesajı",
+   "ozet": "Türk Devletleri Teşkilatı TDT Devlet Başkanları Konseyi 13. Zirvesi kapsamında liderlerin imzaladığı \"Ankara Bildirisi\" yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/tdt-13-zirvesi-ankara-bildirisi-turk-yuzyili-vurgusu-ve-stratejik-ortaklik-mesaji-961727.html",
+   "zaman": "2026-10-30T13:19:00+03:00",
+   "kelimeler": [
+    "13",
+    "ankar",
+    "bildi",
+    "mesaj",
+    "ortak",
+    "strat",
+    "tdt",
+    "turk",
+    "vurgu",
+    "yuzyi",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "09568d9474d3"
+  },
+  "a974c8089d67": {
+   "id": "a974c8089d67",
+   "kaynak": "AA",
+   "baslik": "Bakan Uraloğlu: Sadece 6 ilimiz bölünmüş yollarla bağlı iken bugün 77 ilimizi bölünmüş yollarla birbirine bağladık",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Uraloğlu, bölünmüş yollarla birbirine bağlanmış il sayısının 77'ye ulaştığını belirterek, \"Bu yılın başında 30 bin eşiğini aşarak bölünmüş yol ağımızı 30 bin 278 kilometreye çıkardık.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-sadece-6-ilimiz-bolunmus-yollarla-bagli-iken-bugun-77-ilimizi-bolunmus-yollarla-birbirine-bagladik/4106179",
+   "zaman": "2026-10-30T14:02:59+03:00",
+   "kelimeler": [
+    "77",
+    "bagla",
+    "bagli",
+    "bakan",
+    "birbi",
+    "bolun",
+    "bugun",
+    "iken",
+    "ilimi",
+    "sadec",
+    "uralo",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "257ef26b9b36": {
+   "id": "257ef26b9b36",
+   "kaynak": "AA",
+   "baslik": "KKTC Başbakanı Üstel, KKTC ile ilgili açıklamaları için Cumhurbaşkanı Erdoğan'a teşekkür etti",
+   "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi'nde KKTC ile ilgili açıklamaları için Cumhurbaşkanı Recep Tayyip Erdoğan'a teşekkür etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/kktc-basbakani-ustel-kktc-ile-ilgili-aciklamalari-icin-cumhurbaskani-erdogana-tesekkur-etti/4106195",
+   "zaman": "2026-10-30T14:21:01+03:00",
+   "kelimeler": [
+    "acikl",
+    "basba",
+    "cumhu",
+    "erdog",
+    "etti",
+    "ilgil",
+    "kktc",
+    "tesek",
+    "ustel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca9c78242385": {
+   "id": "ca9c78242385",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Serdar Berdimuhammedov ile bir araya geldi",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe'de Türkmenistan Devlet Başkanı Serdar Berdimuhammedov ile bir araya geldi. Görüşme basına kapalı gerçekleşti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-serdar-berdimuhammedov-ile-bir-araya-geldi-43360580",
+   "zaman": "2026-10-30T14:21:01+03:00",
+   "kelimeler": [
+    "araya",
+    "berdi",
+    "cumhu",
+    "erdog",
+    "geldi",
+    "serda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9e35b17c697"
+  },
+  "5746764a5ab9": {
+   "id": "5746764a5ab9",
+   "kaynak": "XHABER",
+   "baslik": "Türk Devletleri Teşkilatı zirvesinde, Erdoğan ve görevli arasında geçen diyalog:",
+   "ozet": "Erdoğan: “Yanlış yere imza atmadık değil mi?” Görevli: “Efendim, o Kazakistan’ındı. Türkiye’ye atacaktık.” Erdoğan: “Hay Allah iyiliğini versin...\"",
+   "link": "https://t.me/sahinozkan000/30426",
+   "zaman": "2026-10-30T14:23:13+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Türk Devletleri Teşkilatı zirvesinde, Erdoğan ve görevli arasında geçen diyalog:\nErdoğan: “Yanlış yere imza atmadık değil mi?”\nGörevli: “Efendim, o Kazakistan’ındı. Türkiye’ye atacaktık.”\nErdoğan: “Hay Allah iyiliğini versin...\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/jdX9TT4OidoesJP6nuDVnnH8uwX8hmhZamWrHlWEDerdDvD6MPS-Ouw7TW6Dd9P6Uw1AQmckUZWTFCUWWnnXgtPurl7VOdaWzj_QLAX6N2AIi22_L9U5wKXB8v3jn4w8YW4ZfYjCa-vaTcLNSa7QjXklRviVh6u9QnZlF9P1SZLxO8ICTOrf1dZLNTLxQsMaKbmyznXDJwW-2bBCnj8azsUoytIDBsMm3bKToCQCXehDQ_k9p21ycGdvdp0QqVoD--kHCxCZvd1N4inLbKNQHrFu9nCQBO2jUu7TmuMbhlPwUA8wPuybt7OL6ZGGwbgug3WUSmEbkcUa4mkIprty_Q",
+   "tg_video_url": "",
+   "kelimeler": [
+    "arasi",
+    "devle",
+    "diyal",
+    "erdog",
+    "gecen",
+    "gorev",
+    "teski",
+    "turk",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "eb7b0ad3cb5e"
+  },
+  "9dcd2defe3b7": {
+   "id": "9dcd2defe3b7",
+   "kaynak": "Sözcü",
+   "baslik": "Marmaray'da intihar vakası! Seferlerde aksama yaşanıyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/marmaray-da-intihar-vakasi-seferlerde-aksama-yasaniyor-p374340",
+   "zaman": "2026-10-30T14:28:48+03:00",
+   "kelimeler": [
+    "aksam",
+    "intih",
+    "marma",
+    "sefer",
+    "vakas",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 14:31:26  3 yeni haber",
   "30.10 14:18:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Mustafa Sarıgül YENİ Parti'den istifa etti",
   "30.10 14:16:09  8 yeni haber",
   "30.10 14:01:30  5 yeni haber",
@@ -31811,8 +31841,7 @@
   "28.10 12:31:08  4 yeni haber",
   "28.10 12:16:00  6 yeni haber",
   "28.10 12:01:27  8 yeni haber",
-  "28.10 11:49:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Avrupa borsaları negatif seyrediyor",
-  "28.10 11:46:17  11 yeni haber"
+  "28.10 11:49:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Avrupa borsaları negatif seyrediyor"
  ],
  "otomatik": false
 }
