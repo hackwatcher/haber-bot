@@ -1,66 +1,5 @@
 {
  "haberler": {
-  "f07b174f0f1b": {
-   "id": "f07b174f0f1b",
-   "kaynak": "Sözcü",
-   "baslik": "Sakarya'daki ölümcül fabrika patlamasının görüntüleri ortaya çıktı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/sakaryadaki-olumcul-fabrika-patlamasinin-goruntuleri-ortaya-cikti-p373343",
-   "zaman": "2026-10-27T21:36:09+03:00",
-   "kelimeler": [
-    "cikti",
-    "daki",
-    "fabri",
-    "gorun",
-    "olumc",
-    "ortay",
-    "patla",
-    "sakar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "63c5ba7fd8f9": {
-   "id": "63c5ba7fd8f9",
-   "kaynak": "Hürriyet",
-   "baslik": "Kadıköy'de yıkım kararı alınan 3 binada tahliye gerginliği",
-   "ozet": "Kadıköy’de 3 binanın kolonlarında ve iç kısımlarında oluşan çatlaklar nedeniyle kentsel dönüşüm kapsamında yıkım kararı alındı. Tahliye için gelen belediye ekiplerinden ek süre isteyen binalarda yaşayan kişiler ile ekipler arasında gerginlik yaşandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kadikoyde-yikim-karari-alinan-3-binada-tahliye-gerginligi-43357275",
-   "zaman": "2026-10-27T21:38:00+03:00",
-   "kelimeler": [
-    "alina",
-    "binad",
-    "gergi",
-    "kadik",
-    "karar",
-    "tahli",
-    "yikim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4aff43244d45": {
-   "id": "4aff43244d45",
-   "kaynak": "Hürriyet",
-   "baslik": "Yolcu otobüsünde 224 gram kokain ele geçirildi",
-   "ozet": "Düzce’de, batı illerinden doğu illerine giden yolcu otobüsünde 224 gram kokain ele geçirildi. Olayla ilgili gözaltına alınan otobüs şoförü Z.K. tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/yolcu-otobusunde-224-gram-kokain-ele-gecirildi-43357276",
-   "zaman": "2026-10-27T21:39:43+03:00",
-   "kelimeler": [
-    "224",
-    "ele",
-    "gecir",
-    "gram",
-    "kokai",
-    "otobu",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "5e29d88daa7b": {
    "id": "5e29d88daa7b",
    "kaynak": "TRT Haber",
@@ -29681,7 +29620,10 @@
     "zanli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "b518c7e9b6b5": {
    "id": "b518c7e9b6b5",
@@ -30561,7 +30503,10 @@
     "olmad"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c5a071763c24": {
    "id": "c5a071763c24",
@@ -30623,9 +30568,139 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c20ac53c1cc6": {
+   "id": "c20ac53c1cc6",
+   "kaynak": "AA",
+   "baslik": "MİT Başkanı Kalın: Hepimiz güvende olmadan hiçbirimiz güvende değiliz",
+   "ozet": "Milli İstihbarat Teşkilatı Başkanı Kalın, \"Biz hep şu ilkeyle hareket ettik: 'Hepimiz güvende olmadan hiçbirimiz güvende değiliz.' Kendi güvenliğimi garanti altına almak için mutlaka paydaşlarımın güvenliğini de dikkate almak zorundayım.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-hepimiz-guvende-olmadan-hicbirimiz-guvende-degiliz/4106854",
+   "zaman": "2026-10-30T21:05:06+03:00",
+   "kelimeler": [
+    "baska",
+    "degil",
+    "guven",
+    "hepim",
+    "hicbi",
+    "kalin",
+    "mit",
+    "olmad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3be4dee205ec"
+  },
+  "ab686b74fbe9": {
+   "id": "ab686b74fbe9",
+   "kaynak": "AA",
+   "baslik": "Kanada, AB'nin ilk \"ortak üyesi\" olmayı hedefliyor",
+   "ozet": "Kanada Başbakanı Mark Carney, Avrupa Birliği (AB) ile ilk \"ortak üyesi\" olmalarını sağlayacak yeni bir ortaklık modeli üzerinde çalıştıklarını ve müzakereleri haziranda tamamlamayı hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kanada-abnin-ilk-ortak-uyesi-olmayi-hedefliyor/4106870",
+   "zaman": "2026-10-30T21:28:13+03:00",
+   "kelimeler": [
+    "ab",
+    "hedef",
+    "ilk",
+    "kanad",
+    "nin",
+    "olmay",
+    "ortak",
+    "uyesi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ad8852d7a44f": {
+   "id": "ad8852d7a44f",
+   "kaynak": "AA",
+   "baslik": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Enerji Ufku\" paneli düzenlendi",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığınca Ankara'da bir otelde düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Enerji Ufku: Kaynaklar, Güvenlik ve İş Birliği Olanakları\" başlıklı panel düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-enerji-ufku-paneli-duzenlendi/4106871",
+   "zaman": "2026-10-30T21:28:30+03:00",
+   "kelimeler": [
+    "diyal",
+    "dunya",
+    "duzen",
+    "enerj",
+    "forum",
+    "kapsa",
+    "panel",
+    "turk",
+    "ufku"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41b0b539156f"
+  },
+  "760ede5c0e56": {
+   "id": "760ede5c0e56",
+   "kaynak": "Hürriyet",
+   "baslik": "'Daltonlar' suç örgütüne operasyon: 76 şüpheliye tutuklama talebi",
+   "ozet": "İstanbul merkezli 30 ilde 'Daltonlar' olarak bilinen suç örgütüne yönelik düzenlenen eş zamanlı operasyonda gözaltına alınan 90 şüpheli adliyeye getirildi. Şüphelilerden 76'sı tutuklama talebiyle, 14 kişi adli kontrol istemiyle Sulh Ceza Hakimliği'ne sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/daltonlar-suc-orgutune-operasyon-76-supheliye-tutuklama-talebi-43361083",
+   "zaman": "2026-10-30T21:29:41+03:00",
+   "kelimeler": [
+    "76",
+    "dalto",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "801fac8f8df3"
+  },
+  "c7638fcc100a": {
+   "id": "c7638fcc100a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Göktaş: Tarihimizde kadın, devletin kurucu iradesinde en başından beri vardır",
+   "ozet": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, “Bizim tarihimizde kadın, devletin kurucu iradesinde en başından beri vardır. Bu iradeyi bugün, Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde siyasetin her kademesinde daha da güçlü kılıyoruz” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-goktas-tarihimizde-kadin-devletin-kurucu-iradesinde-en-basindan-beri-vardir-43361094",
+   "zaman": "2026-10-30T21:31:01+03:00",
+   "kelimeler": [
+    "bakan",
+    "basin",
+    "beri",
+    "devle",
+    "gokta",
+    "irade",
+    "kadin",
+    "kuruc",
+    "tarih",
+    "vardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6ff5ae0dd943": {
+   "id": "6ff5ae0dd943",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Aliyev'in katılmadığı Türk Devletleri Zirvesi'nden hangi sonuçlar çıktı?",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirilen 13. Türk Devletleri Teşkilatı liderler zirvesine (TDT) Ankara-Bakü arasında yaşanan gerilim ve Azerbaycan Devlet Başkanı İlham Aliyev'in katılmaması damga vurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cmvg7zwd2xdzo",
+   "zaman": "2026-10-30T21:33:14+03:00",
+   "kelimeler": [
+    "aliye",
+    "cikti",
+    "devle",
+    "hangi",
+    "in",
+    "katil",
+    "nden",
+    "sonuc",
+    "turk",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eb7b0ad3cb5e"
   }
  },
  "kayit": [
+  "30.10 21:46:12  2 yeni haber",
   "30.10 21:31:19  4 yeni haber",
   "30.10 21:16:47  6 yeni haber",
   "30.10 21:16:47  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -30824,8 +30899,7 @@
   "28.10 20:01:25  1 yeni haber",
   "28.10 19:45:59  7 yeni haber",
   "28.10 19:33:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · \"Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan öğrenciler Nehir Di",
-  "28.10 19:31:18  3 yeni haber",
-  "28.10 19:16:03  2 yeni haber"
+  "28.10 19:31:18  3 yeni haber"
  ],
  "otomatik": false
 }
