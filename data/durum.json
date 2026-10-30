@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "27eba6f36b28": {
-   "id": "27eba6f36b28",
-   "kaynak": "NTV",
-   "baslik": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu.",
-   "link": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250",
-   "zaman": "2026-10-27T20:04:24+03:00",
-   "kelimeler": [
-    "basla",
-    "cuma",
-    "edile",
-    "fonla",
-    "ilgil",
-    "milyo",
-    "odeme",
-    "tasfi",
-    "tl",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0b27faa12697": {
-   "id": "0b27faa12697",
-   "kaynak": "AA",
-   "baslik": "Bakan Fidan, Ankara'da Genç Diplomasi Derneği mensuplarını kabul etti",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Genç Diplomasi Derneği mensuplarıyla Ankara'da bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-ankarada-genc-diplomasi-dernegi-mensuplarini-kabul-etti/4102831",
-   "zaman": "2026-10-27T20:08:44+03:00",
-   "kelimeler": [
-    "ankar",
-    "bakan",
-    "derne",
-    "diplo",
-    "etti",
-    "fidan",
-    "genc",
-    "kabul",
-    "mensu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "5b9a9c88130e": {
    "id": "5b9a9c88130e",
    "kaynak": "TRT Haber",
@@ -257,27 +211,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "ab9d7ceed20f": {
-   "id": "ab9d7ceed20f",
-   "kaynak": "AA",
-   "baslik": "İstanbul Ticaret Odası meslek komitesi ve meclis üyeleri seçimleri tamamlandı",
-   "ozet": "İTO Başkanı Şekib Avdagiç, 270 üyeden oluşan İTO Meclisi'nde 229 üyeyle çoğunluğu kazandıklarını belirterek, İTO'nun bir kez daha kazandığını söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ticaret-odasi-meslek-komitesi-ve-meclis-uyeleri-secimleri-tamamlandi/4102825",
-   "zaman": "2026-10-27T20:06:58+03:00",
-   "kelimeler": [
-    "istan",
-    "komit",
-    "mecli",
-    "mesle",
-    "odasi",
-    "secim",
-    "tamam",
-    "ticar",
-    "uyele"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "0ef9572b5ca2": {
    "id": "0ef9572b5ca2",
@@ -30824,7 +30757,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "3b301c6dc2df": {
@@ -30975,9 +30909,69 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "90779a7506fa": {
+   "id": "90779a7506fa",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Gürlek duyurdu: 4 faili meçhul cinayet daha aydınlatıldı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığının koordinasyonunda Konya, Kahramanmaraş, Mersin ve Hatay'da 4 ayrı faili meçhul cinayet dosyasının aydınlatıldığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi-961763.html",
+   "zaman": "2026-10-30T19:19:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "bakan",
+    "cinay",
+    "duyur",
+    "faili",
+    "gurle",
+    "mechu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "763f7e6626f5"
+  },
+  "6dc3cd3b2f88": {
+   "id": "6dc3cd3b2f88",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş-Hapoel Beer-Sheva maçı Gürcistan'da oynanacak",
+   "ozet": "Beşiktaş Kulübü, siyah-beyazlı futbol takımının UEFA Avrupa Ligi'nde İsrail ekibi Hapoel Beer-Sheva ile yapacağı iç saha maçının Gürcistan'da oynanacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-hapoel-beer-sheva-maci-gurcistanda-oynanacak/4106816",
+   "zaman": "2026-10-30T20:01:48+03:00",
+   "kelimeler": [
+    "beer",
+    "besik",
+    "gurci",
+    "hapoe",
+    "maci",
+    "oynan",
+    "sheva"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8dbfba783d74": {
+   "id": "8dbfba783d74",
+   "kaynak": "AA",
+   "baslik": "Binance, kullanıcıların pazar gününden önce yeniden para çekebilmesini umuyor",
+   "ozet": "Kripto para borsası Binance'in Eş Üst Yöneticisi (Co-CEO) Richard Teng, 40 saat içinde tamamlanması beklenen çalışmalar kapsamında, kullanıcıların pazar gününden önce yeniden para çekebilmesini umduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/binance-kullanicilarin-pazar-gununden-once-yeniden-para-cekebilmesini-umuyor/4106817",
+   "zaman": "2026-10-30T20:02:24+03:00",
+   "kelimeler": [
+    "binan",
+    "cekeb",
+    "gunun",
+    "kulla",
+    "para",
+    "pazar",
+    "umuyo",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 20:10:30  2 yeni haber",
   "30.10 20:01:22  2 yeni haber",
   "30.10 19:49:28  Ek paylaşılamadı: reels: An unknown error occurred  (kod 1/99)",
   "30.10 19:49:28  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook_reels): XHABER · Testo Taylan, Hatay'da deprem sonrası depresyona girerek evden çıkmaya",
@@ -31176,8 +31170,7 @@
   "28.10 18:31:14  9 yeni haber",
   "28.10 18:16:16  3 yeni haber",
   "28.10 18:01:26  5 yeni haber",
-  "28.10 17:46:23  5 yeni haber",
-  "28.10 17:31:20  7 yeni haber"
+  "28.10 17:46:23  5 yeni haber"
  ],
  "otomatik": false
 }
