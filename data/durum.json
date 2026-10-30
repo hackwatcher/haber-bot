@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "c3128a62403c": {
-   "id": "c3128a62403c",
-   "kaynak": "Sözcü",
-   "baslik": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarında! Pasifik Holding'in üç yöneticisinin mal varlıklarına tedbir",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/akpli-vekil-asuman-erdoganin-esi-de-aralarinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-t-p373397",
-   "zaman": "2026-10-28T01:43:42+03:00",
-   "kelimeler": [
-    "akp",
-    "arala",
-    "asuma",
-    "erdog",
-    "esi",
-    "holdi",
-    "in",
-    "li",
-    "mal",
-    "pasif",
-    "tedbi",
-    "uc",
-    "varli",
-    "vekil",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "ba868ee872f8": {
-   "id": "ba868ee872f8",
-   "kaynak": "Hürriyet",
-   "baslik": "İsrail ordusundan Gazze’ye saldırı: 4 Filistinli öldü",
-   "ozet": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/israil-ordusundan-gazzeye-saldiri-4-filistinli-oldu-43357396",
-   "zaman": "2026-10-28T01:41:12+03:00",
-   "kelimeler": [
-    "filis",
-    "gazze",
-    "israi",
-    "ordus",
-    "saldi",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "860bed67decd"
-  },
   "795f7b25c404": {
    "id": "795f7b25c404",
    "kaynak": "Hürriyet",
@@ -30790,9 +30741,29 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "110acf43b8b5"
+  },
+  "64eaf0f09ff2": {
+   "id": "64eaf0f09ff2",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Polonya'da siyasi gerginlik: Anayasa Mahkemesi'ne polis görevlendirildi",
+   "ozet": "Polonya'da hükümet ile Anayasa Mahkemesi başkanı ve yardımcısı arasında tırmanan gerilim üzerine, mahkeme binasına çevik kuvvet polisleri konuşlandırıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cm0e025gw751o",
+   "zaman": "2026-10-31T01:43:11+03:00",
+   "kelimeler": [
+    "anaya",
+    "gergi",
+    "gorev",
+    "mahke",
+    "polis",
+    "polon",
+    "siyas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 01:46:09  1 yeni haber",
   "31.10 01:31:15  1 yeni haber",
   "31.10 01:03:59  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Sahte TOKİ siteleri üzerinden dolandırıcılık yapan 6 şüpheli tutukland",
   "31.10 01:01:19  4 yeni haber",
@@ -30991,8 +30962,7 @@
   "28.10 23:31:36  2 yeni haber",
   "28.10 23:16:07  3 yeni haber",
   "28.10 23:01:45  1 yeni haber",
-  "28.10 23:01:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "28.10 22:46:14  5 yeni haber"
+  "28.10 23:01:45  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
  ],
  "otomatik": false
 }
