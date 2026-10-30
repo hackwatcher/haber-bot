@@ -1,43 +1,5 @@
 {
  "haberler": {
-  "1052a93b41f7": {
-   "id": "1052a93b41f7",
-   "kaynak": "TRT Haber",
-   "baslik": "BUDO'nun bazı seferleri iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin BUDO 8 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/budonun-bazi-seferleri-iptal-edildi-961284.html",
-   "zaman": "2026-10-27T06:18:00+03:00",
-   "kelimeler": [
-    "bazi",
-    "budo",
-    "edild",
-    "iptal",
-    "nun",
-    "sefer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fc9b07269006"
-  },
-  "e7b4bf9e628b": {
-   "id": "e7b4bf9e628b",
-   "kaynak": "TRT Haber",
-   "baslik": "11 il için sarı uyarı: Kuvvetli yağışa dikkat",
-   "ozet": "Marmara, Kıyı Ege ile Batı Akdeniz'de beklenen kuvvetli yağış nedeniyle 11 il için \"sarı\" ve \"turuncu\" kodlu uyarıda bulunuldu.",
-   "link": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961285.html",
-   "zaman": "2026-10-27T06:26:00+03:00",
-   "kelimeler": [
-    "11",
-    "dikka",
-    "il",
-    "kuvve",
-    "sari",
-    "uyari",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f00c2d490239": {
    "id": "f00c2d490239",
    "kaynak": "TRT Haber",
@@ -23808,7 +23770,10 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bffe1db37cd3": {
    "id": "bffe1db37cd3",
@@ -31981,7 +31946,10 @@
     "ucagi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2296644c4726": {
    "id": "2296644c4726",
@@ -32291,9 +32259,101 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "4c9c9cdf8761"
+  },
+  "09568d9474d3": {
+   "id": "09568d9474d3",
+   "kaynak": "TRT Haber",
+   "baslik": "TDT 13. Liderler Zirvesi Türk Yüzyılı temasıyla başlıyor",
+   "ozet": "Türk Devletleri Teşkilatı TDT 13. Devlet ve Hükümet Başkanları Zirvesi, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla bugün Ankarada düzenlenecek.",
+   "link": "https://www.trthaber.com/haber/gundem/tdt-13-liderler-zirvesi-turk-yuzyili-temasiyla-basliyor-961682.html",
+   "zaman": "2026-10-30T06:08:00+03:00",
+   "kelimeler": [
+    "13",
+    "basli",
+    "lider",
+    "tdt",
+    "temas",
+    "turk",
+    "yuzyi",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "263466f75b70": {
+   "id": "263466f75b70",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir gemide yangın çıktı",
+   "ozet": "İngiltere Deniz Ticaret Operasyonları UKMTO, Hürmüz Boğazı'nda Umman açıklarında seyreden bir gemide yangın çıktığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti-961679.html",
+   "zaman": "2026-10-30T06:12:00+03:00",
+   "kelimeler": [
+    "bogaz",
+    "cikti",
+    "deniz",
+    "gemid",
+    "hurmu",
+    "ingil",
+    "nda",
+    "opera",
+    "ticar",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7b256efcfb52"
+  },
+  "a0442dce63cc": {
+   "id": "a0442dce63cc",
+   "kaynak": "TRT Haber",
+   "baslik": "Binance, olası güvenlik sorununda dondurulan varlıkların 2,54 milyar dolar olduğunu açıkladı",
+   "ozet": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin inceleme sürerken dondurulan varlıkların doğrulanmış toplam tutarının 2,54 milyar dolar olduğunu bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/binance-olasi-guvenlik-sorununda-dondurulan-varliklarin-254-milyar-dolar-oldugunu-acikladi-961680.html",
+   "zaman": "2026-10-30T06:13:00+03:00",
+   "kelimeler": [
+    "54",
+    "binan",
+    "dolar",
+    "dondu",
+    "guven",
+    "milya",
+    "olasi",
+    "oldug",
+    "sorun",
+    "varli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dccac1a83603": {
+   "id": "dccac1a83603",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
+   "ozet": "ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığı öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi-961681.html",
+   "zaman": "2026-10-30T06:15:00+03:00",
+   "kelimeler": [
+    "10",
+    "24",
+    "abd",
+    "asker",
+    "az",
+    "den",
+    "edild",
+    "iddia",
+    "indig",
+    "israi",
+    "nakli",
+    "saatt",
+    "ucagi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0d96e1fe468"
   }
  },
  "kayit": [
+  "30.10 06:31:09  2 yeni haber",
   "30.10 06:01:28  2 yeni haber",
   "30.10 03:46:26  2 yeni haber",
   "30.10 03:16:09  1 yeni haber",
@@ -32492,8 +32552,7 @@
   "28.10 02:16:02  1 yeni haber",
   "28.10 02:01:28  2 yeni haber",
   "28.10 01:46:00  1 yeni haber",
-  "28.10 01:32:33  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe'de İsmail Kartal dönemi sona erdi.",
-  "28.10 01:31:09  2 yeni haber"
+  "28.10 01:32:33  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe'de İsmail Kartal dönemi sona erdi."
  ],
  "otomatik": false
 }
