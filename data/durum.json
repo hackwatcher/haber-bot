@@ -1,43 +1,5 @@
 {
  "haberler": {
-  "3bb6a8c865f3": {
-   "id": "3bb6a8c865f3",
-   "kaynak": "NTV",
-   "baslik": "Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi",
-   "ozet": "Kocaeli'nin Karamürsel ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 7 katlı bina, tedbiren boşaltıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/kocaelide-7-katli-bina-bosaltildi-kolonlarindan-ses-geldi-1748266",
-   "zaman": "2026-10-28T02:19:10+03:00",
-   "kelimeler": [
-    "bina",
-    "bosal",
-    "geldi",
-    "katli",
-    "kocae",
-    "kolon",
-    "ses"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "baaa6ed3d209": {
-   "id": "baaa6ed3d209",
-   "kaynak": "NTV",
-   "baslik": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-   "ozet": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine sevk edilen ekipler arama çalışması başlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
-   "zaman": "2026-10-28T02:30:00+03:00",
-   "kelimeler": [
-    "beyog",
-    "bina",
-    "coktu",
-    "katli",
-    "metru",
-    "nda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "795f7b25c404"
-  },
   "607a67e61453": {
    "id": "607a67e61453",
    "kaynak": "AA",
@@ -114,31 +76,6 @@
     "uyari",
     "yagis",
     "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d4fbdd4e8c12": {
-   "id": "d4fbdd4e8c12",
-   "kaynak": "AA",
-   "baslik": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Karagöz: Gazeteciliğin gücünü korumak toplumun ortak sorumluluğudur",
-   "ozet": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Serdar Karagöz, \"Gazeteciliğin gücünü korumak, habercilik kuruluşlarının ve gazetecilerin kendi sorumlulukları kadar, kamu kurumlarının, medya yöneticilerinin ve toplumun ortak sorumluluğudur.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/aa-yonetim-kurulu-baskani-ve-genel-muduru-karagoz-gazeteciligin-gucunu-korumak-toplumun-ortak-sorumlulugudur/4103200",
-   "zaman": "2026-10-28T02:27:49+03:00",
-   "kelimeler": [
-    "aa",
-    "baska",
-    "gazet",
-    "genel",
-    "gucun",
-    "karag",
-    "korum",
-    "kurul",
-    "mudur",
-    "ortak",
-    "sorum",
-    "toplu",
-    "yonet"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -30719,7 +30656,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "e24562419bbc": {
@@ -30764,9 +30702,47 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "1ef5f730deae"
+  },
+  "e61b3cd7ba95": {
+   "id": "e61b3cd7ba95",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye BM Sekreteri adayını açıkladı",
+   "ozet": "Feridun Sinirlioğlu'nun adaylığı için resmi başvuru yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-bm-sekreteri-adayini-acikladi-43361215",
+   "zaman": "2026-10-31T02:03:43+03:00",
+   "kelimeler": [
+    "adayi",
+    "bm",
+    "sekre",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1ef5f730deae"
+  },
+  "c9a852d2815c": {
+   "id": "c9a852d2815c",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Suudi Arabistan'a yönelik İHA saldırısı önlendi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Suudi Arabistan'ın doğu bölgesinde bir insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistana-yonelik-iha-saldirisi-onlendi/4106999",
+   "zaman": "2026-10-31T02:25:47+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "iha",
+    "koali",
+    "onlen",
+    "saldi",
+    "suudi",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 02:31:07  1 yeni haber",
   "31.10 02:01:18  1 yeni haber",
   "31.10 01:46:09  1 yeni haber",
   "31.10 01:31:15  1 yeni haber",
@@ -30965,8 +30941,7 @@
   "29.10 00:01:58  3 yeni haber",
   "28.10 23:46:28  3 yeni haber",
   "28.10 23:31:36  2 yeni haber",
-  "28.10 23:16:07  3 yeni haber",
-  "28.10 23:01:45  1 yeni haber"
+  "28.10 23:16:07  3 yeni haber"
  ],
  "otomatik": false
 }
