@@ -1,31 +1,5 @@
 {
  "haberler": {
-  "19795b412407": {
-   "id": "19795b412407",
-   "kaynak": "XHABER",
-   "baslik": "#SONDAKİKA",
-   "ozet": "İsmail Kartal, istifa sonrası evine dönerken trafik kazası geçirdi. Kartal'ın sağlık durumunun iyi olduğu öğrenildi. (A Spor)",
-   "link": "https://t.me/sahinozkan000/30398",
-   "zaman": "2026-10-28T00:27:29+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "#SONDAKİKA\nİsmail Kartal, istifa sonrası evine dönerken trafik kazası geçirdi.\nKartal'ın sağlık durumunun iyi olduğu öğrenildi.\n(A Spor)",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/vSGCeqigKUU1gR_J3EtB_qja8JKMY_idUvjOLNDCR434EYo3nx1G6RDAKRftOV8dwLjUOK1gcdQEUtbTaZntc5SSgx1-f3nGytlp6E2L7Idjk2XHl7YHJ_zNUnSVxPM8NWMCBlzoE4L-6-nzXLuzWk8zHi158AwXtvvR0r1hs0QG6i0mOXfhv9yjyhn8HJyb5W1dWsxejHlPzpW6n5QS9-wqeKFo52fC-niu_KEjt5bFAt0NFBQeJuJA6RQCkxH9v8t7xzlhcVDqrR3TL6-oJydeIF_l4BupnQ0roVFVgukvAO4xxak-c940UFgmfrQuK1320DJ3E4Z6Jt5JNeBbVQ.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "sonda"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-28T00:33:30.308461+03:00",
-   "ig_id": "18173680840415720",
-   "reels_id": "18499731400099960",
-   "story_id": "18643873708002016",
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1388036523121892",
-   "slayt": 1,
-   "kanca": "Son dakika"
-  },
   "3fe5f51aa274": {
    "id": "3fe5f51aa274",
    "kaynak": "TRT Haber",
@@ -30225,7 +30199,10 @@
     "oldur"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "76aff7d4cec3": {
    "id": "76aff7d4cec3",
@@ -30578,9 +30555,79 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "62be344375f7": {
+   "id": "62be344375f7",
+   "kaynak": "NTV",
+   "baslik": "Hamile kızını ve erkek arkadaşını öldürdü",
+   "ozet": "Ankara'nın Mamak ilçesinde bir kişi, hamile kızını ve kızının beraber yaşadığı erkek arkadaşını öldürdü.",
+   "link": "https://www.ntv.com.tr/turkiye/hamile-kizini-ve-erkek-arkadasini-oldurdu-1748704",
+   "zaman": "2026-10-31T00:25:01+03:00",
+   "kelimeler": [
+    "arkad",
+    "erkek",
+    "hamil",
+    "kizin",
+    "oldur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "82bf813e465b"
+  },
+  "5e2a2bd51243": {
+   "id": "5e2a2bd51243",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Polonya'da darbe oluyor.",
+   "ozet": "Halk darbeyi püskürtmek için sokağa indi.",
+   "link": "https://t.me/sahinozkan000/30436",
+   "zaman": "2026-10-31T00:25:31+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Polonya'da darbe oluyor. Halk darbeyi püskürtmek için sokağa indi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/AXPCSXMiFeJFKIgQaxicAU8BSkKPZts2t38O0uNojAbah3cY7MtrD5DKflFQGWr3VetK2BZiuR-vAAMA4ZRMRcjEgvzc5pRxLivndEsan20fCEEZMbJ6b5J9pB4CChrOXuxS0KXaLoQeiYaDRVjdQElQoD0Aq4Xc9dnZOytO-s0SfQMYjlumG3-cPt5K8gDHzBOsUjdJJaJTkSt-kmhQ2FW9335oe-8E2cJXQoulIhXCJaoEfmL0zCd5XSdsY-10UyIBrDcA9lymnALCB4M1oFjbl1pXDSErZL352xU_OBESgchZrKQmu-cMrDsBTs1BgIxop4tb9BjhKesBm7sEvA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/00374f23da.mp4?token=Q9ZmeqkqxioQcOYI95pbW64G-O3T0KaBuuugJDs8o0DYynKGOhf4XR1tH88fZY4nsZBRmNjEKpdcyNAZ_FXLnsG3TBZo5QGvHZbXScuN3jecB3ZkNvadMToXyHakwcBTZhqOq_34kYwj41FMH2rjXEUKo9jbpYeSEIvLduS-VLNFrcVAkD6StNBVKuBFTAHUw61-DUYTV_VGVvOEs9uV5xrwXObfB2C2YrThtSZVZbv6cQZCv3xcPnMeAZwGFUoyPiRowYEko6-0AoH-30UZI_T7ihHa-Qn7JNMNyobwsBMrRAnDODTKhI3TAjiAaVJe5tTv0xB1wr2lBuZ7_S8cOw",
+   "kelimeler": [
+    "darbe",
+    "oluyo",
+    "polon",
+    "sonda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b0bd0def1aaf": {
+   "id": "b0bd0def1aaf",
+   "kaynak": "XHABER",
+   "baslik": "Polonya Anayasa Mahkemesi Başkanı Bogdan Święczkowski, polis tarafından kapatılan demir kapıyı kestirmek için usta çağırdı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30437",
+   "zaman": "2026-10-31T00:26:21+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Polonya Anayasa Mahkemesi Başkanı Bogdan Święczkowski, polis tarafından kapatılan demir kapıyı kestirmek için usta çağırdı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/sbovY8nBUgrbXCFypHd2icf6YGjQcirZ4qC62Efai_DZb3lt9hjm5YxwiVzU82bAcfi5Zi-vwgPqcxnyRt6ADR5_e1WNKfTQ7zJ_Gmr-t0gPx_5zk78RgUNIECPAbFrZpC5xdnBS2AzcFaXsTrGdw_4WLFJ0B4uY79hr1UJX5Q1SJ-hCu8AIfkjth4jJR_nmISRaJ6vTR3vOnZ3Yck2R58dkTc43epuXlHycd_XNiZGAwb7T5KQt_9fiUrgZyjzSowOVB_529W19CU9yFNFF7sxScGpMHo9DIWsrIBoNDZmC4MJuTwYBzP6Cf65JJDTReZ3QBCN7SjJsvynaighJWA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/29d240441e.mp4?token=L3mWSJmpy8-kPy4bRulvBYOPcxf05SD855oRsunPRP7PyPuUNN6OWRMqQc_Yi4vm97WkTY7LbM918_vXjCMe17yqrvnmqkePhBacjzrT2ndmEdsEE_4COhU-Vk3aRq_HUmsIkqtQ1iosHZUhJsWc1nhxvXyylbLMsPi1N4lROMjm2bFeH7duERplSq-_pmQe7qgy5JknCVxF5rjiIRiYXoaM-wzG6sObeu2k3hDCCiufM7QuaqAhop2d1RiwhUyiTy8M0uNy8T8WaARWa3q4ra8YQ1PdbNJ6tPiK5ji5WH06VI8SM4ufKlKyJeDnRkCKuxXZChAcp_sfsGGvJdQzRw",
+   "kelimeler": [
+    "anaya",
+    "baska",
+    "bogda",
+    "cagir",
+    "czkow",
+    "demir",
+    "kapat",
+    "kapiy",
+    "kesti",
+    "mahke",
+    "polis",
+    "polon",
+    "taraf",
+    "usta",
+    "wi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 00:28:18  2 yeni haber",
   "31.10 00:16:58  2 yeni haber",
   "31.10 00:03:14  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Türkiye'den Bosna Hersek'teki helikopter kazasında hayatını kaybedenle",
   "31.10 00:01:19  2 yeni haber",
@@ -30779,8 +30826,7 @@
   "28.10 22:31:19  1 yeni haber",
   "28.10 22:16:01  3 yeni haber",
   "28.10 22:02:36  4 yeni haber",
-  "28.10 21:46:02  1 yeni haber",
-  "28.10 21:30:53  4 yeni haber"
+  "28.10 21:46:02  1 yeni haber"
  ],
  "otomatik": false
 }
