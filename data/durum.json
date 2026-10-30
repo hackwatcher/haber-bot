@@ -248,31 +248,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "8af15324e0af": {
-   "id": "8af15324e0af",
-   "kaynak": "AA",
-   "baslik": "İstanbul merkezli 30 ilde yeni nesil suç örgütü operasyonunda 85 zanlı yakalandı",
-   "ozet": "İstanbul merkezli 30 ilde yeni nesil suç örgütüne yönelik düzenlenen operasyonda 85 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-30-ilde-yeni-nesil-suc-orgutu-operasyonunda-85-zanli-yakalandi/4101889",
-   "zaman": "2026-10-27T08:23:50+03:00",
-   "kelimeler": [
-    "30",
-    "85",
-    "ilde",
-    "istan",
-    "merke",
-    "nesil",
-    "opera",
-    "orgut",
-    "suc",
-    "yakal",
-    "yeni",
-    "zanli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b0990b842152"
-  },
   "506622705bbc": {
    "id": "506622705bbc",
    "kaynak": "AA",
@@ -470,26 +445,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "fc28c19260c6": {
-   "id": "fc28c19260c6",
-   "kaynak": "TRT Haber",
-   "baslik": "Pendik ve Tuzla'da yollar göle döndü",
-   "ozet": "İstanbul'da gece saatlerinde itibaren etkisini gösteren sağanak sonrası Tuzla ve Pendikte yollar göle dönerken, bazı araçlar su birikintilerinin içinde mahsur kaldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/pendik-ve-tuzlada-yollar-gole-dondu-961297.html",
-   "zaman": "2026-10-27T08:18:00+03:00",
-   "kelimeler": [
-    "dondu",
-    "gole",
-    "pendi",
-    "tuzla",
-    "yolla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
   },
   "80a481990d17": {
    "id": "80a481990d17",
@@ -32290,9 +32245,47 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c2c5dfc5ad14": {
+   "id": "c2c5dfc5ad14",
+   "kaynak": "NTV",
+   "baslik": "Meteorolojiden 21 şehir için uyarı: Sağanak, sel ve fırtına riskine dikkat",
+   "ozet": "Türkiye'nin birçok şehrinde bugün de yağmur etkili olacak. Meteoroloji Genel Müdürlüğü aralarında İstanbul'un da olduğu 21 şehir için sarı kodlu uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-meteorolojiden-21-sehir-icin-uyari-saganak-sel-ve-firtina-riskine-dikkat-1748580",
+   "zaman": "2026-10-30T08:28:54+03:00",
+   "kelimeler": [
+    "21",
+    "dikka",
+    "firti",
+    "meteo",
+    "riski",
+    "sagan",
+    "sehir",
+    "sel",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4293443342e5": {
+   "id": "4293443342e5",
+   "kaynak": "Sözcü",
+   "baslik": "Dolar 50 lira sınırında",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/dolar-50-lira-sinirinda-p374182",
+   "zaman": "2026-10-30T08:29:53+03:00",
+   "kelimeler": [
+    "50",
+    "dolar",
+    "lira",
+    "sinir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "30.10 08:31:10  2 yeni haber",
   "30.10 08:16:09  1 yeni haber",
   "30.10 07:46:13  2 yeni haber",
   "30.10 07:31:16  3 yeni haber",
@@ -32491,8 +32484,7 @@
   "28.10 06:31:19  2 yeni haber",
   "28.10 06:17:11  1 yeni haber",
   "28.10 05:45:57  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "28.10 05:16:03  1 yeni haber",
-  "28.10 05:01:23  1 yeni haber"
+  "28.10 05:16:03  1 yeni haber"
  ],
  "otomatik": false
 }
