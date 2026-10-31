@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "6e3bd8cc3ee3": {
-   "id": "6e3bd8cc3ee3",
-   "kaynak": "AA",
-   "baslik": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
-   "ozet": "Fitch Ratings, ABD'de 3 Kasım'da yapılacak ara seçimlerin ardından Kongre'deki dağılımın bütçe ve borç limiti konusunda anlaşmazlık riskini artırabileceğini ancak mali baskıların seçim sonucundan bağımsız olarak süreceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abddeki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-surecek/4104418",
-   "zaman": "2026-10-29T01:02:48+03:00",
-   "kelimeler": [
-    "abd",
-    "ara",
-    "bagim",
-    "baski",
-    "deki",
-    "fitch",
-    "mali",
-    "secim",
-    "sonuc",
-    "surec"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6851abbf47f7": {
-   "id": "6851abbf47f7",
-   "kaynak": "Hürriyet",
-   "baslik": "Sultangazi'de seyir halindeki otomobil alev topuna döndü",
-   "ozet": "İstanbul Sultangazi'de seyir halindeki otomobil alev alev yandı. Yangın anı, cep telefonu kamerasına anbean yansıdı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sultangazide-seyir-halindeki-otomobil-alev-topuna-dondu-43358784",
-   "zaman": "2026-10-29T01:11:53+03:00",
-   "kelimeler": [
-    "alev",
-    "dondu",
-    "halin",
-    "otomo",
-    "seyir",
-    "sulta",
-    "topun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3e1d76b3cbe4"
-  },
-  "ab407b433dd3": {
-   "id": "ab407b433dd3",
-   "kaynak": "XHABER",
-   "baslik": "Türkiye Cumhuriyeti 103 yaşında!",
-   "ozet": "29 Ekim Cumhuriyet Bayramımız kutlu olsun. 🇹🇷",
-   "link": "https://t.me/sahinozkan000/30405",
-   "zaman": "2026-10-29T01:13:03+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Türkiye Cumhuriyeti 103 yaşında!\n29 Ekim Cumhuriyet Bayramımız kutlu olsun. 🇹🇷",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/v69PeCcGwg5wS6_16tl-tE_7_l3l_wHpXPFZrBd0XwNBvfTAE5_98Dj-WuHlMULdN_uqrzS0yqeP9MXIKm-5BENA5EuZ97YKG9atWJOzLIscNcoyzy83vEVCJf-eAb4oNFb_gR8q9RIgM9Fm1PwUuLYmmynwqA3yFE0dRH6WAOADSb_JzUJRscfFoIhq32bpgyy28Bp8sjvKdqewo6x2r8NTwDOwgqo0d0-znpM-brMjy3KUTAOm_KzDMnkUi3iCvp1X_Lya4XWXmjJpO9umLGNxXS447DoymTytq4zc0MeYdTsMy4Ynie-YwrylLzkNW0cBdDMuGmMHjqrbzFX5Rw",
-   "tg_video_url": "https://cdn4.telesco.pe/file/b028f43d3d.mp4?token=NpV51wgtaOKv9BW0SeJnsBHJdVtjj-1bOYPkFyASrs7WDQYqisqFl8RzPiAHh8I68E8taSRwgaPRpRFAs8Ukpk0_BYjFTgpQLh5OhOF5DT914AKT64EvVadso_R7WQiYYlK1mkSyyI01msKOv2Vo9hlvIMOG0JUmfs9gEyuUHiPetirOTa4nwyITJtqNPQtKiTG0xFHefQa-2luAkehD9Lh6zBKQqk6uvzgjbDHa7luyYvQVv807A5BxLbKejzsu0KufFKlBsMb-BDw3IEEJyDYz8VQwg8sEm3CCcEc9nVt3NCOWwatVFbI-S8TGhIMXGzQdju6zrEVQlTYDFis-LQ",
-   "kelimeler": [
-    "103",
-    "cumhu",
-    "turki",
-    "yasin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9000445f291e"
-  },
   "c38ef06923f4": {
    "id": "c38ef06923f4",
    "kaynak": "XHABER",
@@ -27720,9 +27657,109 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f4b127c1bba3"
+  },
+  "a7a33b952192": {
+   "id": "a7a33b952192",
+   "kaynak": "TRT Haber",
+   "baslik": "Sahra Çölü'nde bulunan gül rengi gök taşı 4,1 milyar yıllık Mars parçası çıktı",
+   "ozet": "Sahra Çölü'nde keşfedilen gül rengindeki gizemli gök taşının, Kızıl Gezegen'in en eski kabuk yapısına ışık tutan 4,1 milyar yıllık nadir bir Mars parçası olduğu NASA araştırmasıyla kanıtlandı.",
+   "link": "https://www.trthaber.com/haber/dunya/sahra-colunde-bulunan-gul-rengi-gok-tasi-41-milyar-yillik-mars-parcasi-cikti-961812.html",
+   "zaman": "2026-10-31T13:02:00+03:00",
+   "kelimeler": [
+    "bulun",
+    "cikti",
+    "colu",
+    "gok",
+    "gul",
+    "mars",
+    "milya",
+    "nde",
+    "parca",
+    "rengi",
+    "sahra",
+    "tasi",
+    "yilli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "39056ff1d127"
+  },
+  "377be7570a2b": {
+   "id": "377be7570a2b",
+   "kaynak": "TRT Haber",
+   "baslik": "Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
+   "ozet": "Anadolu Otoyolu Bolu Dağı Tüneli içinde tırın çarptığı otomobilin takla atması sonucu 4 kişi yaralandı. Tır sürücüsü kaza yerinden kaçtı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bolu-dagi-tunelinde-tirin-carptigi-otomobil-takla-atti-4-yarali-961850.html",
+   "zaman": "2026-11-01T00:47:00+03:00",
+   "kelimeler": [
+    "atti",
+    "bolu",
+    "carpt",
+    "dagi",
+    "nde",
+    "otomo",
+    "takla",
+    "tirin",
+    "tunel",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "66ca25e3e91d": {
+   "id": "66ca25e3e91d",
+   "kaynak": "XHABER",
+   "baslik": "Aziz Yıldırım, istifa etmeyi düşünüyor.",
+   "ozet": "(Ertem Şener)",
+   "link": "https://t.me/sahinozkan000/30463",
+   "zaman": "2026-11-01T01:05:36+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Aziz Yıldırım, istifa etmeyi düşünüyor. (Ertem Şener)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/JK5IDeBE-13-DwdOPoe4NPGF-roeGnflpWaCnP5wbQVmx2cUZhM2Xeaib6WVSJ6Vq_sNdB85IbGMnbXeCB_tQJPJny0NH5HOvGbKZCUQ8E7JWDuDEHAzKVH0QHGoW0EPhchrBwH-qH6y7uovNM6tkfQnifNupZhFW9MAoQOuRo9R6sIypge6SBwwHhUhq26Mz1HKTwWPd_Dg4z4awzLdQZW-VBPBK7Tsb0TBJYWtawIf36-OqkPHakJjmOTUgTk-XubDl5fDDNAXhFvJEWvJ_Xu9Va1H8IjgIDKRiMG49C0n4wPwmLwV1HQQjnqtFyhepwQXdxDU2T07NTZNd9zubQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "aziz",
+    "dusun",
+    "etmey",
+    "istif",
+    "yildi"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-01T01:18:04.594405+03:00",
+   "ig_id": "18118128974115570",
+   "reels_id": "18120639458095126",
+   "story_id": "18101246342544138",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1167479502616233",
+   "slayt": 4,
+   "kanca": "İSTİFA İDDİASI"
+  },
+  "6022eb8a4257": {
+   "id": "6022eb8a4257",
+   "kaynak": "XHABER",
+   "baslik": "Akaryakıt fiyatlarına zam geldi.",
+   "ozet": "— Benzin: 4,15 TL — Motorin: 3,60 TL",
+   "link": "https://t.me/sahinozkan000/30464",
+   "zaman": "2026-11-01T01:13:33+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Akaryakıt fiyatlarına zam geldi.\n— Benzin: 4,15 TL\n— Motorin: 3,60 TL",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/Jl1Wh5N2RXrb_BykTM-PJAtaDUbgm4woWKpZUzS_-K9y4jV5Jl03H2S3BYW9K38HYU9U6r83VorwVGPlLnpPxMJZRXpMbTpQF8ElqXdTHghENIVe1hYCs-SBbvoD5dbiCdYgsnZCKlRt5bc1Jdq3h3dpQUuXblownYbMbakJkH0FTEV67oRpgm7aCQW0q7ifva4gZfix13mpruShXsokRMLm5FLvLT3IfoboONOHmgXGKA4c9NWAMAkbdOQYQowi9_RQB4CrazJIt0aU89fk1gqkqtQ1lHehmJVfbp1fzwF7DO-bFcClz7T6otXCQYuusZQg-THgDzOevnHww6h-sw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "akary",
+    "fiyat",
+    "geldi",
+    "zam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "01.11 01:18:04  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Aziz Yıldırım, istifa etmeyi düşünüyor.",
+  "01.11 01:15:56  3 yeni haber",
   "01.11 00:33:33  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Atama ve görevden alma kararları Resmi Gazete'de",
   "01.11 00:31:09  2 yeni haber",
   "01.11 00:16:13  4 yeni haber",
@@ -27920,9 +27957,7 @@
   "29.10 21:15:57  3 yeni haber",
   "29.10 21:01:23  2 yeni haber",
   "29.10 20:47:13  2 yeni haber",
-  "29.10 20:31:15  1 yeni haber",
-  "29.10 20:15:58  4 yeni haber",
-  "29.10 20:01:22  2 yeni haber"
+  "29.10 20:31:15  1 yeni haber"
  ],
  "otomatik": false
 }
