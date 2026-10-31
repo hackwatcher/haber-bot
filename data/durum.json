@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "8b48d82ae6d9": {
-   "id": "8b48d82ae6d9",
-   "kaynak": "AA",
-   "baslik": "Başkentte Türk Devletleri Teşkilatı Zirvesi kapsamında bazı yollar trafiğe kapatılacak",
-   "ozet": "Ankara'da düzenlenecek Türk Devletleri Teşkilatı 13. Zirvesi kapsamında bazı yollar ihtiyaç olması halinde iki gün süreyle araç trafiğine kapatılacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/baskentte-turk-devletleri-teskilati-zirvesi-kapsaminda-bazi-yollar-trafige-kapatilacak/4104380",
-   "zaman": "2026-10-28T23:24:46+03:00",
-   "kelimeler": [
-    "baske",
-    "bazi",
-    "devle",
-    "kapat",
-    "kapsa",
-    "teski",
-    "trafi",
-    "turk",
-    "yolla",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "289523a0645c"
-  },
-  "2ea0bfe78e30": {
-   "id": "2ea0bfe78e30",
-   "kaynak": "AA",
-   "baslik": "Axios: Katar'ın öncülüğündeki bölgesel arabulucular, ABD-İran müzakerelerini yeniden başlatmak istiyor",
-   "ozet": "Katar öncülüğündeki bölgesel arabulucuların, ABD ile İran arasındaki müzakereleri yeniden başlatmak ve ABD'deki Kongre ara seçimlerinin ardından savaşın yeniden alevlenmesini önlemek için diplomatik anlaşma sağlamaya çalıştığı iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/axios-katarin-onculugundeki-bolgesel-arabulucular-abd-iran-muzakerelerini-yeniden-baslatmak-istiyor/4104382",
-   "zaman": "2026-10-28T23:26:49+03:00",
-   "kelimeler": [
-    "abd",
-    "arabu",
-    "axios",
-    "basla",
-    "bolge",
-    "in",
-    "iran",
-    "istiy",
-    "katar",
-    "muzak",
-    "oncul",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9988765838d4": {
    "id": "9988765838d4",
    "kaynak": "TRT Haber",
@@ -27577,7 +27530,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b04532dc56ab": {
    "id": "b04532dc56ab",
@@ -27621,9 +27577,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6df36e68d380": {
+   "id": "6df36e68d380",
+   "kaynak": "AA",
+   "baslik": "Katar'da 2027 FIBA Basketbol Dünya Kupası için 300 günlük geri sayım başladı",
+   "ozet": "Katar'ın ev sahipliğinde düzenlenecek 2027 FIBA Basketbol Dünya Kupası'na 300 gün kala, başkent Doha'da düzenlenen törenle geri sayım saati başlatıldı.",
+   "link": "https://www.aa.com.tr/tr/spor/katarda-2027-fiba-basketbol-dunya-kupasi-icin-300-gunluk-geri-sayim-basladi/4107594",
+   "zaman": "2026-10-31T21:20:36+03:00",
+   "kelimeler": [
+    "2027",
+    "300",
+    "baske",
+    "basla",
+    "dunya",
+    "fiba",
+    "geri",
+    "gunlu",
+    "katar",
+    "kupas",
+    "sayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e5ba2bb7cb56": {
+   "id": "e5ba2bb7cb56",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan: Uluslararası barış ve istikrarın tesisine katkıda bulunmaya devam edeceğiz",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Türkiye olarak, küresel konularda sorumluluk almaya; çok taraflılığı, iş birliğini ve diplomasiyi savunarak uluslararası barış ve istikrarın tesisine katkıda bulunmaya devam edeceğiz\" ifadesini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-uluslararasi-baris-ve-istikrarin-tesisine-katkida-bulunmaya-devam-edecegiz-961844.html",
+   "zaman": "2026-10-31T22:55:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "baris",
+    "bulun",
+    "devam",
+    "edece",
+    "fidan",
+    "istik",
+    "katki",
+    "tesis",
+    "ulusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5e436bab8c51"
+  },
+  "077378fe2fc9": {
+   "id": "077378fe2fc9",
+   "kaynak": "AA",
+   "baslik": "Arnavutluk'ta üniversite öğrencilerinin gösterileri sürüyor",
+   "ozet": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği gösteriler devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-universite-ogrencilerinin-gosterileri-suruyor/4107639",
+   "zaman": "2026-10-31T23:14:37+03:00",
+   "kelimeler": [
+    "arnav",
+    "goste",
+    "ogren",
+    "suruy",
+    "ta",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 23:31:09  2 yeni haber",
   "31.10 23:16:22  1 yeni haber",
   "31.10 23:01:31  4 yeni haber",
   "31.10 22:15:57  3 yeni haber",
@@ -27822,8 +27843,7 @@
   "29.10 19:31:19  4 yeni haber",
   "29.10 19:16:02  2 yeni haber",
   "29.10 19:01:22  5 yeni haber",
-  "29.10 18:46:02  5 yeni haber",
-  "29.10 18:31:31  1 yeni haber"
+  "29.10 18:46:02  5 yeni haber"
  ],
  "otomatik": false
 }
