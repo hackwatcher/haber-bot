@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "b0339484ffad": {
-   "id": "b0339484ffad",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'de 11 bin 72 çocuk koruyucu ailelerin yanında geleceğe hazırlanıyor",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, 11 bin 72 çocuğun, 9 bin 327 koruyucu ailenin yanında güvenle geleceğe hazırlandığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/turkiyede-11-bin-72-cocuk-koruyucu-ailelerin-yaninda-gelecege-hazirlaniyor-961500.html",
-   "zaman": "2026-10-28T15:04:00+03:00",
-   "kelimeler": [
-    "11",
-    "72",
-    "ailel",
-    "bin",
-    "cocuk",
-    "gelec",
-    "hazir",
-    "koruy",
-    "turki",
-    "yanin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c78c9ee26438": {
-   "id": "c78c9ee26438",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da '29 Ekim' trafiği: Yollar kilitlendi",
-   "ozet": "29 Ekim Cumhuriyet Bayramı resmi tatili bugün öğleden sonra başladı. Mesai çıkışı İstanbul'da trafik yoğunluğu yaşanıyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-29-ekim-trafigi-yollar-kilitlendi-43358232",
-   "zaman": "2026-10-28T15:14:00+03:00",
-   "kelimeler": [
-    "29",
-    "ekim",
-    "istan",
-    "kilit",
-    "trafi",
-    "yolla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "67fd75d9c47c": {
    "id": "67fd75d9c47c",
    "kaynak": "AA",
@@ -105,28 +62,6 @@
     "kurta",
     "mahsu",
     "sagan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e0a022279687": {
-   "id": "e0a022279687",
-   "kaynak": "TRT Haber",
-   "baslik": "Dalaman'da Tersakan Deresi taştı: Evler ve tarım arazileri su altında kaldı",
-   "ozet": "Muğla'nın Dalaman ilçesinde sağanak nedeniyle Tersakan Deresi taştı. Taşkın sonucu evler, iş yerleri ve tarım arazileri su altında kaldı, bazı yollar ulaşıma kapatıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/dalamanda-tersakan-deresi-tasti-evler-ve-tarim-arazileri-su-altinda-kaldi-961501.html",
-   "zaman": "2026-10-28T15:07:00+03:00",
-   "kelimeler": [
-    "altin",
-    "arazi",
-    "dalam",
-    "deres",
-    "evler",
-    "kaldi",
-    "su",
-    "tarim",
-    "tasti",
-    "tersa"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -28992,9 +28927,31 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "cba625b4669f"
+  },
+  "e87cdf1fa578": {
+   "id": "e87cdf1fa578",
+   "kaynak": "Hürriyet",
+   "baslik": "Eskişehir'de çiçekçide yangın! Gözyaşlarına boğuldu: Bütün mallarım gitti, dükkanım gitti",
+   "ozet": "Eskişehir'in Odunpazarı ilçesinde bir çiçekçi dükkanında çıkan yangına itfaiye ekipleri müdahale etti. İşletme sahibi, \"Bütün mallarım gitti, dükkanım gitti\" diyerek gözyaşlarına boğuldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/eskisehirde-cicekcide-yangin-gozyaslarina-boguldu-butun-mallarim-gitti-dukkanim-gitti-43361655",
+   "zaman": "2026-10-31T14:52:19+03:00",
+   "kelimeler": [
+    "bogul",
+    "butun",
+    "cicek",
+    "dukka",
+    "eskis",
+    "gitti",
+    "gozya",
+    "malla",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 15:15:57  1 yeni haber",
   "31.10 15:01:19  5 yeni haber",
   "31.10 14:47:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Şiirlerinde İstanbul'u ve tarihi yaşatan usta şair: Yahya Kemal Beyatl",
   "31.10 14:45:54  3 yeni haber",
@@ -29193,8 +29150,7 @@
   "29.10 11:46:09  12 yeni haber",
   "29.10 11:31:12  12 yeni haber",
   "29.10 11:16:03  9 yeni haber",
-  "29.10 11:04:28  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "29.10 11:01:17  4 yeni haber"
+  "29.10 11:04:28  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
