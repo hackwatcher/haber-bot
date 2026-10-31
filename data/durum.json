@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "a7310e91d321": {
-   "id": "a7310e91d321",
-   "kaynak": "AA",
-   "baslik": "Netanyahu'nun partisi, İsrail vatandaşı Filistinlilerin seçimlere yüksek katılımını hazmedemedi",
-   "ozet": "İsrail Başbakanı Binyamin Netanyahu'nun liderliğini yaptığı Likud Partisi, İsrail vatandaşı Filistinlilerin seçimlere yüksek katılımını hazmedemezken \"seçimlerin Arap partileri tarafından çalındığını\" iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/netanyahunun-partisi-israil-vatandasi-filistinlilerin-secimlere-yuksek-katilimini-hazmedemedi/4104157",
-   "zaman": "2026-10-28T19:49:54+03:00",
-   "kelimeler": [
-    "filis",
-    "hazme",
-    "israi",
-    "katil",
-    "netan",
-    "nun",
-    "parti",
-    "secim",
-    "vatan",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "cacf75ee3ab8"
-  },
-  "8773948abf0a": {
-   "id": "8773948abf0a",
-   "kaynak": "AA",
-   "baslik": "TDT 13. Devlet ve Hükümet Başkanları Zirvesi, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenlenecek",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi'nin \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenleneceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tdt-13-devlet-ve-hukumet-baskanlari-zirvesi-turk-yuzyili-dilde-fikirde-iste-birlik-temasiyla-duzenlenecek/4104156",
-   "zaman": "2026-10-28T19:49:54+03:00",
-   "kelimeler": [
-    "13",
-    "baska",
-    "birli",
-    "devle",
-    "dilde",
-    "duzen",
-    "fikir",
-    "hukum",
-    "iste",
-    "tdt",
-    "temas",
-    "turk",
-    "yuzyi",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "289523a0645c"
-  },
-  "f481aaf9371f": {
-   "id": "f481aaf9371f",
-   "kaynak": "Hürriyet",
-   "baslik": "Merkezefendi Belediyesi operasyonunda 3 kişi mahkemeye sevk edildi, 7 kişi serbest",
-   "ozet": "Denizli'nin Merkezefendi Belediyesine yönelik 'rüşvet', 'ihaleye fesat karıştırma', 'irtikap' suçlarına ilişkin düzenlenen operasyonda gözaltına alınan 27 şüpheliden 3'ü mahkemeye sevk edilirken, 7 kişi ise ifadelerinin ardından serbest bırakıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/merkezefendi-belediyesi-operasyonunda-3-kisi-mahkemeye-sevk-edildi-7-kisi-serbest-43358592",
-   "zaman": "2026-10-28T19:58:27+03:00",
-   "kelimeler": [
-    "beled",
-    "edild",
-    "kisi",
-    "mahke",
-    "merke",
-    "opera",
-    "serbe",
-    "sevk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8211d518bf70": {
    "id": "8211d518bf70",
    "kaynak": "Hürriyet",
@@ -27236,7 +27166,10 @@
     "vurgu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "27c299f68208": {
    "id": "27c299f68208",
@@ -28132,9 +28065,103 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3c94b76b20b4": {
+   "id": "3c94b76b20b4",
+   "kaynak": "AA",
+   "baslik": "ABD'nin Moskova Büyükelçiliğinden Tsaritsıno Müze ve Park Alanı'na yönelik saldırı tehdidi uyarısı",
+   "ozet": "ABD'nin Moskova Büyükelçiliği, Rusya'nın başkenti Moskova'daki Tsaritsıno Müze ve Park Alanı'na çok sayıda kişinin hayatını kaybedebileceği bir saldırı düzenlenebileceği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-moskova-buyukelciliginden-tsaritsino-muze-ve-park-alanina-yonelik-saldiri-tehdidi-uyarisi/4107539",
+   "zaman": "2026-10-31T19:38:49+03:00",
+   "kelimeler": [
+    "abd",
+    "alani",
+    "buyuk",
+    "mosko",
+    "muze",
+    "na",
+    "nin",
+    "park",
+    "saldi",
+    "tehdi",
+    "tsari",
+    "uyari",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17a55d7ffc68": {
+   "id": "17a55d7ffc68",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Türk Dünyası Diyalog Forumu\" kapsamında Özbekistan-Türkiye stratejik ortaklığı konuşuldu",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, \"2030’a Doğru Yeni Özbekistan: Reformların Kazanımları, Özbekistan-Türkiye Stratejik Ortaklığı ve Türk Devletleri Teşkilatı Çerçevesinde İş Birliği\" konulu yuvarlak masa toplantısı düzenledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-ozbekistan-turkiye-stratejik-ortakligi-konusuldu-43361902",
+   "zaman": "2026-10-31T19:43:00+03:00",
+   "kelimeler": [
+    "diyal",
+    "dunya",
+    "forum",
+    "kapsa",
+    "konus",
+    "ortak",
+    "ozbek",
+    "strat",
+    "turk",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7114fce5b380"
+  },
+  "0ce9ec12c59a": {
+   "id": "0ce9ec12c59a",
+   "kaynak": "Hürriyet",
+   "baslik": "977 milyon TL'lik fuhuş ağı çökertildi: 17 tutuklama",
+   "ozet": "Diyarbakır merkezli 10 ilde internet üzerinden fuhuş faaliyetlerini organize eden şüphelilere yönelik düzenlenen ‘Silüet Operasyonu’nda 28 kişi yakalandı. MASAK incelemelerinde 977 milyon TL'lik finansal işlem hacmi tespit edilen şüphelilerden 17'si tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/977-milyon-tllik-fuhus-agi-cokertildi-17-tutuklama-43361906",
+   "zaman": "2026-10-31T19:47:27+03:00",
+   "kelimeler": [
+    "17",
+    "977",
+    "agi",
+    "coker",
+    "fuhus",
+    "lik",
+    "milyo",
+    "tl",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "5da6f0e43b9a": {
+   "id": "5da6f0e43b9a",
+   "kaynak": "AA",
+   "baslik": "Yemen ordusu: Husilere karşı düzenlenen 1119 operasyonda 427 milis etkisiz hale getirildi",
+   "ozet": "Yemen ordusu, İran destekli Husilere karşı 1119 operasyon düzenlendiğini ve 427 milisin etkisiz hale getirildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-husilere-karsi-duzenlenen-1119-operasyonda-427-milis-etkisiz-hale-getirildi-/4107547",
+   "zaman": "2026-10-31T19:55:46+03:00",
+   "kelimeler": [
+    "1119",
+    "427",
+    "duzen",
+    "etkis",
+    "getir",
+    "hale",
+    "husil",
+    "karsi",
+    "milis",
+    "opera",
+    "ordus",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 20:01:21  3 yeni haber",
   "31.10 19:46:02  3 yeni haber",
   "31.10 19:31:11  1 yeni haber",
   "31.10 19:15:55  2 yeni haber",
@@ -28333,8 +28360,7 @@
   "29.10 16:16:04  2 yeni haber",
   "29.10 16:01:33  4 yeni haber",
   "29.10 15:45:57  8 yeni haber",
-  "29.10 15:31:21  4 yeni haber",
-  "29.10 15:16:03  5 yeni haber"
+  "29.10 15:31:21  4 yeni haber"
  ],
  "otomatik": false
 }
