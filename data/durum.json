@@ -1,104 +1,5 @@
 {
  "haberler": {
-  "463bee9eacb7": {
-   "id": "463bee9eacb7",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
-   "ozet": "Birçok kişi taze ürünlerin her halükarda en iyi seçenek olduğunu varsayar, ancak uzmanlara göre durum bu kadar basit değil.",
-   "link": "https://www.bbc.com/turkce/articles/c9x284ex08lgo",
-   "zaman": "2026-10-28T19:19:51+03:00",
-   "kelimeler": [
-    "dondu",
-    "gidal",
-    "konse",
-    "sagli",
-    "veya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0784f87981af": {
-   "id": "0784f87981af",
-   "kaynak": "NTV",
-   "baslik": "Dolandırıcılığa \"Dolunay\" önlemi. İhbarlara dakikalar içinde müdahale edilecek",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi ile Adalet Bakanı Akın Gürlek, dolandırıcılıkla mücadele için hayata geçirilen DOLUNAY projesini ele almak için bir araya geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/dolandiriciliga-dolunay-onlemi-ihbarlara-dakikalar-icinde-mudaha-edilecek-1748401",
-   "zaman": "2026-10-28T19:23:41+03:00",
-   "kelimeler": [
-    "dakik",
-    "dolan",
-    "dolun",
-    "edile",
-    "icind",
-    "ihbar",
-    "mudah",
-    "onlem"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "239e99bd6ce9": {
-   "id": "239e99bd6ce9",
-   "kaynak": "AA",
-   "baslik": "Bakan Uraloğlu, Kazakistanlı bakanlar Sauranbayev ve Kyrykbayev ile görüştü",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye ile Kazakistan arasındaki ulaştırma ve lojistik işbirliğini geliştirerek, Orta Koridor'un sunduğu fırsatları daha etkin değerlendirmeyi hedeflediklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-kazakistanli-bakanlar-sauranbayev-ve-kyrykbayev-ile-gorustu/4104124",
-   "zaman": "2026-10-28T19:19:26+03:00",
-   "kelimeler": [
-    "bakan",
-    "gorus",
-    "kazak",
-    "kyryk",
-    "saura",
-    "uralo"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "9e8f09344f07": {
-   "id": "9e8f09344f07",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransa'da eylemlerde oluşan hasarları eylemcilere ödetmeyi içeren tasarıdan vazgeçilmesi çağrısı",
-   "ozet": "Fransa'da insan hakları örgütleri ve sendika temsilcileri, gösteri ve toplanma hakkını ihlal edeceği gerekçesiyle eylemlerde oluşan hasarları eylemcilere ödetmeyi hedefleyen yasa tasarısından vazgeçilmesi çağrısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-eylemlerde-olusan-hasarlari-eylemcilere-odetmeyi-iceren-tasaridan-vazgecilmesi-cagrisi-961529.html",
-   "zaman": "2026-10-28T19:25:00+03:00",
-   "kelimeler": [
-    "cagri",
-    "eylem",
-    "frans",
-    "hasar",
-    "icere",
-    "odetm",
-    "olusa",
-    "tasar",
-    "vazge"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c0c59371d6b6": {
-   "id": "c0c59371d6b6",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Uraloğlu, Kazakistanlı bakanlar Sauranbayev ve Kyrykbayev ile bir araya geldi",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye ile Kazakistan arasındaki ulaştırma ve lojistik işbirliğini geliştirerek, Orta Koridor'un sunduğu fırsatları daha etkin değerlendirmeyi hedeflediklerini bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-uraloglu-kazakistanli-bakanlar-sauranbayev-ve-kyrykbayev-ile-bir-araya-geldi-43358574",
-   "zaman": "2026-10-28T19:29:04+03:00",
-   "kelimeler": [
-    "araya",
-    "bakan",
-    "geldi",
-    "kazak",
-    "kyryk",
-    "saura",
-    "uralo"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "239e99bd6ce9"
-  },
   "004667a69825": {
    "id": "004667a69825",
    "kaynak": "Hürriyet",
@@ -252,29 +153,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "289523a0645c"
-  },
-  "792f1740df75": {
-   "id": "792f1740df75",
-   "kaynak": "TRT Haber",
-   "baslik": "AB'nin Kanada'ya ortak üyelik statüsü teklifinden vazgeçtiği iddiası",
-   "ozet": "Avrupa Birliği AB üyelerinin, Kanada'ya \"ortak üyelik\" statüsü verilmesi fikrinden vazgeçerek, bunun yerine iki taraf arasında \"daha yakın bir ortaklık\" kurulması üzerinde mutabık kaldığı ileri sürüldü.",
-   "link": "https://www.trthaber.com/haber/dunya/abnin-kanadaya-ortak-uyelik-statusu-teklifinden-vazgectigi-iddiasi-961530.html",
-   "zaman": "2026-10-28T19:26:00+03:00",
-   "kelimeler": [
-    "ab",
-    "iddia",
-    "kanad",
-    "nin",
-    "ortak",
-    "statu",
-    "tekli",
-    "uyeli",
-    "vazge",
-    "ya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6b38f2b406ce"
   },
   "f481aaf9371f": {
    "id": "f481aaf9371f",
@@ -15040,7 +14918,10 @@
     "tayyi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "4a6fd3bb451c": {
    "id": "4a6fd3bb451c",
@@ -28019,7 +27900,10 @@
     "mudur"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "cdf1c0b82c9f": {
    "id": "cdf1c0b82c9f",
@@ -28089,7 +27973,10 @@
     "yolu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d8fd2923ae1f": {
    "id": "d8fd2923ae1f",
@@ -28150,9 +28037,143 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "82c7be6955f2": {
+   "id": "82c7be6955f2",
+   "kaynak": "AA",
+   "baslik": "Türk Dünyası Diyalog Forumu'nda Türk dünyasındaki dil ve kültür mirası ele alındı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Gaspıralı’nın İzinde: Türk Dünyasında Dil, Kültür ve Hafıza\" başlıklı panel gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-turk-dunyasindaki-dil-ve-kultur-mirasi-ele-alindi/4107424",
+   "zaman": "2026-10-31T17:48:09+03:00",
+   "kelimeler": [
+    "alind",
+    "dil",
+    "diyal",
+    "dunya",
+    "ele",
+    "forum",
+    "kultu",
+    "miras",
+    "nda",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e52c9a96f3da"
+  },
+  "f3b33f5877ec": {
+   "id": "f3b33f5877ec",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: Barışa giden yolda elimizden gelen gayreti göstermeye hazırız",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ukrayna ve Rusya arasında ev sahipliği yaptığımız müzakereler, diplomasi yoluyla somut sonuçlar alınabileceğini göstermişti. Bugün geldiğimiz noktada da adil bir barışın kaybedeni olmaz diyoruz.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-barisa-giden-yolda-elimizden-gelen-gayreti-gostermeye-haziriz-961834.html",
+   "zaman": "2026-10-31T18:57:00+03:00",
+   "kelimeler": [
+    "baris",
+    "cumhu",
+    "elimi",
+    "erdog",
+    "gayre",
+    "gelen",
+    "giden",
+    "goste",
+    "hazir",
+    "yolda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac288302c606"
+  },
+  "a8e04ee63bc9": {
+   "id": "a8e04ee63bc9",
+   "kaynak": "AA",
+   "baslik": "Zelenskiy: Cumhurbaşkanı Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışmak konusunda mutabık kaldık",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-cumhurbaskani-erdogan-ile-karadeniz-tahil-koridoru-uzerinde-calismak-konusunda-mutabik-kaldik/4107497",
+   "zaman": "2026-10-31T19:10:54+03:00",
+   "kelimeler": [
+    "calis",
+    "cumhu",
+    "erdog",
+    "kaldi",
+    "karad",
+    "konus",
+    "korid",
+    "mutab",
+    "tahil",
+    "uzeri",
+    "zelen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d6ac1c48bcc6"
+  },
+  "5f8f4155ff41": {
+   "id": "5f8f4155ff41",
+   "kaynak": "Hürriyet",
+   "baslik": "112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü kuruldu",
+   "ozet": "İçişleri Bakanlığı bünyesinde 112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü kuruldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/112-acil-cagri-ve-koordinasyon-genel-mudurlugu-kuruldu-43361877",
+   "zaman": "2026-10-31T19:11:00+03:00",
+   "kelimeler": [
+    "112",
+    "cagri",
+    "genel",
+    "koord",
+    "kurul",
+    "mudur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "28241d006e49"
+  },
+  "24a5a279a230": {
+   "id": "24a5a279a230",
+   "kaynak": "AA",
+   "baslik": "Meteorolojiden İzmir, Aydın ve Muğla için şiddetli yağış uyarısı",
+   "ozet": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-izmir-aydin-ve-mugla-icin-siddetli-yagis-uyarisi-/4107506",
+   "zaman": "2026-10-31T19:13:58+03:00",
+   "kelimeler": [
+    "aydin",
+    "izmir",
+    "meteo",
+    "mugla",
+    "sidde",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c24c78a68152": {
+   "id": "c24c78a68152",
+   "kaynak": "AA",
+   "baslik": "Türk Dünyası Diyalog Forumu kapsamında Küresel Ağ, Ortak Kimlik: Türk Dünyası Diasporası paneli yapıldı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından \"Türk Dünyası Diyalog Forumu\" kapsamında \"Küresel Ağ, Ortak Kimlik: Türk Dünyası Diasporası\" başlıklı panel düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-kuresel-ag-ortak-kimlik-turk-dunyasi-diasporasi-paneli-yapildi/4107523",
+   "zaman": "2026-10-31T19:21:05+03:00",
+   "kelimeler": [
+    "ag",
+    "diasp",
+    "diyal",
+    "dunya",
+    "forum",
+    "kapsa",
+    "kimli",
+    "kures",
+    "ortak",
+    "panel",
+    "turk",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41b0b539156f"
   }
  },
  "kayit": [
+  "31.10 19:31:11  1 yeni haber",
   "31.10 19:15:55  2 yeni haber",
   "31.10 19:01:20  4 yeni haber",
   "31.10 18:46:09  3 yeni haber",
@@ -28351,8 +28372,7 @@
   "29.10 15:45:57  8 yeni haber",
   "29.10 15:31:21  4 yeni haber",
   "29.10 15:16:03  5 yeni haber",
-  "29.10 15:03:31  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Sinem Dedetaş için tahliye ve ev hapsi kararı",
-  "29.10 15:01:27  4 yeni haber"
+  "29.10 15:03:31  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Sinem Dedetaş için tahliye ve ev hapsi kararı"
  ],
  "otomatik": false
 }
