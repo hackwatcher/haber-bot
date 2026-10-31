@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "cfca98d27d0b": {
-   "id": "cfca98d27d0b",
-   "kaynak": "AA",
-   "baslik": "İçişleri Bakanı Çiftçi'den kuvvetli sağanak uyarısı",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Vatandaşlarımızdan, Meteoroloji Genel Müdürlüğümüzün ve AFAD'ımızın uyarılarına hassasiyetle riayet etmelerini, can ve mal güvenliklerini riske atabilecek durumlardan uzak durmalarını istirham ediyorum.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kuvvetli-saganak-uyarisi/4104421",
-   "zaman": "2026-10-29T01:37:23+03:00",
-   "kelimeler": [
-    "bakan",
-    "ciftc",
-    "den",
-    "icisl",
-    "kuvve",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "86dbf21736c3": {
    "id": "86dbf21736c3",
    "kaynak": "Hürriyet",
@@ -1016,25 +994,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "02157010f3b6": {
-   "id": "02157010f3b6",
-   "kaynak": "AA",
-   "baslik": "Siyasilerden 29 Ekim Cumhuriyet Bayramı mesajları",
-   "ozet": "Siyasiler, 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü dolayısıyla mesaj yayımladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/siyasilerden-29-ekim-cumhuriyet-bayrami-mesajlari/4104420",
-   "zaman": "2026-10-29T01:34:23+03:00",
-   "kelimeler": [
-    "29",
-    "bayra",
-    "cumhu",
-    "ekim",
-    "mesaj",
-    "siyas"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a34bc32fe949"
   },
   "3ffc70414fa8": {
    "id": "3ffc70414fa8",
@@ -27682,8 +27641,17 @@
     "tunel",
     "yaral"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-01T01:49:09.747637+03:00",
+   "ig_id": "17883028050627068",
+   "reels_id": "17911402413316290",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1394995342715826",
+   "slayt": 5,
+   "kanca": "TIR ÇARPIP KAÇTI"
   },
   "66ca25e3e91d": {
    "id": "66ca25e3e91d",
@@ -27775,6 +27743,7 @@
   }
  },
  "kayit": [
+  "01.11 01:49:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
   "01.11 01:31:22  2 yeni haber",
   "01.11 01:18:04  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Aziz Yıldırım, istifa etmeyi düşünüyor.",
   "01.11 01:15:56  3 yeni haber",
@@ -27973,8 +27942,7 @@
   "29.10 21:46:00  3 yeni haber",
   "29.10 21:31:31  4 yeni haber",
   "29.10 21:15:57  3 yeni haber",
-  "29.10 21:01:23  2 yeni haber",
-  "29.10 20:47:13  2 yeni haber"
+  "29.10 21:01:23  2 yeni haber"
  ],
  "otomatik": false
 }
