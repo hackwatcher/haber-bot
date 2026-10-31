@@ -1,104 +1,5 @@
 {
  "haberler": {
-  "7e1796f1723b": {
-   "id": "7e1796f1723b",
-   "kaynak": "AA",
-   "baslik": "Türkiye ve Kazakistan'ın savunma sanayisindeki işbirliği derinleşecek",
-   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, \"Savunma sanayisi alanında işbirliği, Kazakistan ile ilişkilerimizin önemli başlıklarından biri.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-ve-kazakistanin-savunma-sanayisindeki-isbirligi-derinlesecek/4104224",
-   "zaman": "2026-10-28T20:47:46+03:00",
-   "kelimeler": [
-    "derin",
-    "in",
-    "isbir",
-    "kazak",
-    "sanay",
-    "savun",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "cbffb4df2cda": {
-   "id": "cbffb4df2cda",
-   "kaynak": "Hürriyet",
-   "baslik": "CHP lideri Kılıçdaroğlu’ndan Cumhuriyet Bayramı mesajı",
-   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, \"29 Ekim Cumhuriyet Bayramı\" dolayısıyla kutlama mesajı yayımladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/chp-lideri-kilicdaroglundan-cumhuriyet-bayrami-mesaji-43358625",
-   "zaman": "2026-10-28T20:50:46+03:00",
-   "kelimeler": [
-    "bayra",
-    "chp",
-    "cumhu",
-    "kilic",
-    "lider",
-    "mesaj",
-    "ndan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "936c52ddae56": {
-   "id": "936c52ddae56",
-   "kaynak": "NTV",
-   "baslik": "Sarıgül soruşturmasında 10 kişi hakkında daha gözaltı kararı",
-   "ozet": "Sarıgül soruşturması kapsamında 10 kişi hakkında daha gözaltı kararı verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-10-kisi-hakkinda-daha-gozalti-karari-1748407",
-   "zaman": "2026-10-28T20:52:24+03:00",
-   "kelimeler": [
-    "10",
-    "gozal",
-    "hakki",
-    "karar",
-    "kisi",
-    "sarig",
-    "sorus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8a21d61b9b94": {
-   "id": "8a21d61b9b94",
-   "kaynak": "AA",
-   "baslik": "Seçimlerde oy sayımının sürdüğü İsrail'de Savunma Bakanı Katz'dan İran'a saldırı mesajı",
-   "ozet": "Yeni parlamento ve hükümeti belirlemek için dün sandık başına giden İsrail'de oy sayımı sürerken Savunma Bakanı Yisrael Katz, İran'a saldırı mesajı verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/secimlerde-oy-sayiminin-surdugu-israilde-savunma-bakani-katzdan-irana-saldiri-mesaji/4104228",
-   "zaman": "2026-10-28T20:52:25+03:00",
-   "kelimeler": [
-    "bakan",
-    "dan",
-    "iran",
-    "israi",
-    "katz",
-    "mesaj",
-    "oy",
-    "saldi",
-    "savun",
-    "sayim",
-    "secim",
-    "surdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "570179edb2fc": {
-   "id": "570179edb2fc",
-   "kaynak": "Sözcü",
-   "baslik": "Sarıgül soruşturmasında 10 gözaltı kararı daha",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/mustafa-sarigul-yeni-gozalti-kararlari-p373713",
-   "zaman": "2026-10-28T20:56:34+03:00",
-   "kelimeler": [
-    "10",
-    "gozal",
-    "karar",
-    "sarig",
-    "sorus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4da38e528519"
-  },
   "6339723b61a7": {
    "id": "6339723b61a7",
    "kaynak": "TRT Haber",
@@ -15024,7 +14925,10 @@
     "karsi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "200e7e9895bd": {
    "id": "200e7e9895bd",
@@ -20997,7 +20901,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "b630dc6312a9": {
@@ -27817,7 +27722,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "237d0ae585e1": {
    "id": "237d0ae585e1",
@@ -27972,9 +27880,132 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "fa4e899c61dd"
+  },
+  "d429f546af57": {
+   "id": "d429f546af57",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, G20 Zirvesi öncesinde RusyaUkrayna barış anlaşması konusunda umutlu",
+   "ozet": "ABD Başkanı Donald Trump, aralık ayında yapılacak G20 Zirvesi öncesinde Rusya ile Ukrayna arasında barış anlaşmasına varılması konusunda umutlu olduğunu belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasi-konusunda-umutlu-961838.html",
+   "zaman": "2026-10-31T20:31:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "baris",
+    "g20",
+    "konus",
+    "onces",
+    "rusya",
+    "trump",
+    "umutl",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b612fd3131b4"
+  },
+  "4053660ef958": {
+   "id": "4053660ef958",
+   "kaynak": "XHABER",
+   "baslik": "Fenerbahçe tribünleri öfkeli!",
+   "ozet": "\"Yönetim istifa.\"",
+   "link": "https://t.me/sahinozkan000/30460",
+   "zaman": "2026-10-31T20:47:18+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Fenerbahçe tribünleri öfkeli!\n\"Yönetim istifa.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/r-qbtd6CrzvAZeMSpi2dT-siByBNmaU9Iu0juY6mK9_yIBb4-D7obxfmw80TN82YTYFm0HJrCw2iFvCdJKH2MVNSBLv3iry6m8ZZpzeGQ5Nhoq6nqGvgQOoZPhWz5vo_SVPacupGLOOR-2rD00sjI8pXMcG-B9sOFXJEFaosjofHLfJHffcZ76s0XQnQ-4mS90Jr87HE_xH1A00ynKHCGAZoi6gtp_tXZetgPSRh3mmT6EPW3XuqFNYAs-EAVx2QNcva2Y5w8RA-_yPVhQDIzvwjayF1aJlB6G_F3L4HoYQt0k9YOv5vj_4vWW3271BpzqqRTQ2NTsq4LyyQkHkvaA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/b68f0d3452.mp4?token=DBNkdugV4acwyPSaRMSH7n0tu_Aq2uYa1weJb6FVVUJlFURjTmHO1Xf065kxxiCl17LNjCp4J7y8i31DKJe4RCql1K9MZ_DLEUigcQ1ZxWFiR6j3RpTx8wuaai9_hG6kvlvvx-pH8vz3PciSmXX21Wt35GsF_we6pGRXFlmWJLikHQMNiXrtYHdnN5SZ2cYpKuYF-J2LF5eOAX32VT4Ehtm_skMmAJFpgoWSebsav_BU1s6N8Dx5ErLitm3VnXsrMAKCpLtF8RaWH9upcvSAvVr6HpBHvXqQclKeNxF1ElmYSeAxh1hZWDCSnEUBN9o6DlOvWf8-1JrFQYloyXO55Q",
+   "kelimeler": [
+    "fener",
+    "ofkel",
+    "tribu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "79085f613281": {
+   "id": "79085f613281",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri Bakanı Fidan, Meksika Dışişleri Bakanı Alvarez ile görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, ABD'de Meksika Dışişleri Bakanı Roberto Velasco Alvarez ile bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-meksika-disisleri-bakani-alvarez-ile-gorustu-961839.html",
+   "zaman": "2026-10-31T20:48:00+03:00",
+   "kelimeler": [
+    "alvar",
+    "bakan",
+    "disis",
+    "fidan",
+    "gorus",
+    "meksi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "04c0b1aeb006"
+  },
+  "68cca28951af": {
+   "id": "68cca28951af",
+   "kaynak": "Hürriyet",
+   "baslik": "Sağlık Bakanı Kemal Memişoğlu TÜSEB Ödülleri Töreni’ne katıldı",
+   "ozet": "Sağlık Bakanı Prof. Dr. Kemal Memişoğlu, 31 Ekim 2026 Cumartesi günü, 12. Türk Tıp Dünyası Kurultayı kapsamında düzenlenen “2026 TÜSEB Aziz Sancar Bilim, TÜSEB Hizmet ve TÜSEB Teşvik Ödülleri Töreni”ne katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/saglik-bakani-kemal-memisoglu-tuseb-odulleri-torenine-katildi-43361932",
+   "zaman": "2026-10-31T20:48:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "katil",
+    "kemal",
+    "memis",
+    "odull",
+    "sagli",
+    "toren",
+    "tuseb"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "95faf14d819c": {
+   "id": "95faf14d819c",
+   "kaynak": "AA",
+   "baslik": "BM Genel Sekreterliğine aday gösterilen Sinirlioğlu, vizyon belgesinde hedeflerini açıkladı",
+   "ozet": "Türkiye'nin BM Genel Sekreterliği için aday gösterdiği Sinirlioğlu, kaleme aldığı vizyon belgesinde çatışmaların önlenmesi, uluslararası işbirliğinin güçlendirilmesi ve BM'nin daha etkin bir yapıya kavuşturulmasına yönelik hedeflerini ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreterligine-aday-gosterilen-sinirlioglu-vizyon-belgesinde-hedeflerini-acikladi/4107585",
+   "zaman": "2026-10-31T20:53:08+03:00",
+   "kelimeler": [
+    "aday",
+    "belge",
+    "bm",
+    "genel",
+    "goste",
+    "hedef",
+    "sekre",
+    "sinir",
+    "vizyo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1ef5f730deae"
+  },
+  "a62d5b65372f": {
+   "id": "a62d5b65372f",
+   "kaynak": "XHABER",
+   "baslik": "MS | Fenerbahçe 1 - 2 Göztepe",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30461",
+   "zaman": "2026-10-31T20:57:25+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | Fenerbahçe 1 - 2 Göztepe",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/uj_QiNNUprzK0Dceh9kNMN94lDbug7rhk7Pr1JSSZ-mH3LlwNfd5thBtK4vwIclLlGBsEgmbBA0UylbKl71nlts2OYEYmt4BW1ZFVebVUzL64NtouqHa180S3GEiiv6iQMOMreNrLrgCQcZWyZ7WKd_5QHlIbq5iGnvbbfcoMWATXkxOzIXbjauOoIJnq3JfZpX0AOhB0zzp4J0sxWSJhRgzlhscHkZTXApujphAkGFBWuUPa4cMBb_y5cXxG5f9jnrBNs4hcmqN009SR475bPkIk4i1r99tAznwqPAQBdo_PAm0kFqfFfneLUkcg3ibG8CbKOOXsRF0zqdrVnYyPw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "fener",
+    "gozte",
+    "ms"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f5801602d58"
   }
  },
  "kayit": [
+  "31.10 21:01:29  2 yeni haber",
   "31.10 20:46:01  1 yeni haber",
   "31.10 20:31:55  1 yeni haber",
   "31.10 20:25:17  3 yeni haber",
@@ -28173,8 +28204,7 @@
   "29.10 17:46:17  2 yeni haber",
   "29.10 17:31:14  7 yeni haber",
   "29.10 17:04:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Avrupa Merkez Bankası Başkanı Lagarde istifa etti",
-  "29.10 17:01:28  3 yeni haber",
-  "29.10 16:46:06  4 yeni haber"
+  "29.10 17:01:28  3 yeni haber"
  ],
  "otomatik": false
 }
