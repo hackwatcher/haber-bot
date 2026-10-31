@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "4a15bfafa6eb": {
-   "id": "4a15bfafa6eb",
-   "kaynak": "AA",
-   "baslik": "Trump, Brezilya'daki seçim sonuçlarıyla ilgili yorum yapmayacağını belirtti",
-   "ozet": "ABD Başkanı Donald Trump, Brezilya'daki devlet başkanlığı seçimlerini kaybetmesinin ardından ülkesinden ayrılarak ABD'ye gelen Flavio Bolsonaro'yu kabul ettiklerini ancak Brezilya seçimlerinin sonuçlarına ilişkin \"yorum yapmayacağını\" söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-brezilyadaki-secim-sonuclariyla-ilgili-yorum-yapmayacagini-belirtti/4104413",
-   "zaman": "2026-10-29T00:39:29+03:00",
-   "kelimeler": [
-    "belir",
-    "brezi",
-    "daki",
-    "ilgil",
-    "secim",
-    "sonuc",
-    "trump",
-    "yapma",
-    "yorum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f7ff7bd33e76": {
    "id": "f7ff7bd33e76",
    "kaynak": "AA",
@@ -23595,7 +23574,8 @@
     "yilli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b5ad15fa6653": {
    "id": "b5ad15fa6653",
@@ -27606,7 +27586,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "5053e72563c9": {
@@ -27729,7 +27710,72 @@
    "fb_id": null,
    "fb_reels_id": "1618689183371677",
    "slayt": 5,
-   "kanca": "RESMİ GAZETE'DE YENİ ATAMALAR"
+   "kanca": "RESMİ GAZETE'DE YENİ ATAMALAR",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "dde84c7d5909": {
+   "id": "dde84c7d5909",
+   "kaynak": "TRT Haber",
+   "baslik": "Sahra Çölü'nde bulunan gül rengi göktaşı 4,1 milyar yıllık Mars parçası çıktı",
+   "ozet": "Sahra Çölü'nde keşfedilen gül rengindeki gizemli göktaşının, Kızıl Gezegen'in en eski kabuk yapısına ışık tutan 4,1 milyar yıllık nadir bir Mars parçası olduğu NASA araştırmasıyla kanıtlandı.",
+   "link": "https://www.trthaber.com/haber/dunya/sahra-colunde-bulunan-gul-rengi-goktasi-41-milyar-yillik-mars-parcasi-cikti-961812.html",
+   "zaman": "2026-10-31T13:02:00+03:00",
+   "kelimeler": [
+    "bulun",
+    "cikti",
+    "colu",
+    "gokta",
+    "gul",
+    "mars",
+    "milya",
+    "nde",
+    "parca",
+    "rengi",
+    "sahra",
+    "yilli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "39056ff1d127"
+  },
+  "d7dc3df3aa16": {
+   "id": "d7dc3df3aa16",
+   "kaynak": "AA",
+   "baslik": "SPK Başkanlığına Muhsin Atcı atandı",
+   "ozet": "Sermaye Piyasası Kurulu (SPK) Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676",
+   "zaman": "2026-11-01T00:29:54+03:00",
+   "kelimeler": [
+    "atand",
+    "atci",
+    "baska",
+    "muhsi",
+    "spk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0ebda287f969"
+  },
+  "bb9f788851f4": {
+   "id": "bb9f788851f4",
+   "kaynak": "TRT Haber",
+   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "ozet": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-961849.html",
+   "zaman": "2026-11-01T00:35:00+03:00",
+   "kelimeler": [
+    "alma",
+    "atama",
+    "gazet",
+    "gorev",
+    "karar",
+    "resmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f4b127c1bba3"
   }
  },
  "kayit": [
