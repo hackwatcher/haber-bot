@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "88ee424b2f12": {
-   "id": "88ee424b2f12",
-   "kaynak": "TRT Haber",
-   "baslik": "Artan yakıt maliyetleri lüks yolcu gemisini vurdu: Kamboçya'da mahsur kaldılar",
-   "ozet": "Dünya çapında yıllarca sürecek bir seyahate çıkan lüks bir yolcu gemisi, olağanüstü yüksek yakıt maliyetleri nedeniyle operasyonlarını askıya aldığını ve yolcuların Kamboçya'da mahsur kaldığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/artan-yakit-maliyetleri-luks-yolcu-gemisini-vurdu-kambocyada-mahsur-kaldilar-961420.html",
-   "zaman": "2026-10-28T06:32:00+03:00",
-   "kelimeler": [
-    "artan",
-    "gemis",
-    "kaldi",
-    "kambo",
-    "luks",
-    "mahsu",
-    "maliy",
-    "vurdu",
-    "yakit",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "20bd70e52f10": {
-   "id": "20bd70e52f10",
-   "kaynak": "TRT Haber",
-   "baslik": "Yapay zeka botları İngiltere'deki elektronik sigara yasağı anketini manipüle etmeye çalıştı",
-   "ozet": "İngiltere'de yapılan yeni bir araştırma, yapay zeka botlarının tek kullanımlık elektronik sigara yasağını etkilemek amacıyla hükümetin anketini binlerce sahte yanıtla doldurduğunu ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-botlari-ingilteredeki-elektronik-sigara-yasagi-anketini-manipule-etmeye-calisti-961422.html",
-   "zaman": "2026-10-28T06:39:00+03:00",
-   "kelimeler": [
-    "anket",
-    "botla",
-    "calis",
-    "deki",
-    "elekt",
-    "etmey",
-    "ingil",
-    "manip",
-    "sigar",
-    "yapay",
-    "yasag",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9607918b7e26": {
-   "id": "9607918b7e26",
-   "kaynak": "TRT Haber",
-   "baslik": "İngiltere Avrupa Birliği ile serbest dolaşıma dönüş için görüşüyor",
-   "ozet": "Başbakan Andy Burnham'ın Avrupa Birliği üyeliği tartışmasını yeniden açmasının ardından İngiltere'nin serbest dolaşıma olası bir dönüş konusunda AB ile görüşmeler yürüttüğü iddia ediliyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/ingiltere-avrupa-birligi-ile-serbest-dolasima-donus-icin-gorusuyor-961423.html",
-   "zaman": "2026-10-28T06:43:00+03:00",
-   "kelimeler": [
-    "avrup",
-    "birli",
-    "dolas",
-    "donus",
-    "gorus",
-    "ingil",
-    "serbe"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "bcf121791d60"
-  },
   "4f8b0519f2eb": {
    "id": "4f8b0519f2eb",
    "kaynak": "TRT Haber",
@@ -30600,7 +30534,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cc13b8fea703": {
    "id": "cc13b8fea703",
@@ -30663,6 +30600,28 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "c341f2036a2c": {
+   "id": "c341f2036a2c",
+   "kaynak": "TRT Haber",
+   "baslik": "Edirne'de tur otobüsüyle tırın çarpıştığı kazada 10 kişi yaralandı",
+   "ozet": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle tırın çarpışması sonucu 10 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/edirnede-tur-otobusuyle-tirin-carpistigi-kazada-10-kisi-yaralandi-961784.html",
+   "zaman": "2026-10-31T06:31:00+03:00",
+   "kelimeler": [
+    "10",
+    "carpi",
+    "edirn",
+    "kazad",
+    "kisi",
+    "otobu",
+    "tirin",
+    "tur",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9e213b40c31e"
   }
  },
  "kayit": [
