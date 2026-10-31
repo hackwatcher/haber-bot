@@ -1,201 +1,5 @@
 {
  "haberler": {
-  "02c3fe4042fb": {
-   "id": "02c3fe4042fb",
-   "kaynak": "Hürriyet",
-   "baslik": "Aydın'da kanalizasyon kazısında toprak kaydı; 1 ölü",
-   "ozet": "Aydın'ın İncirliova ilçesinde kepçeyle yapılan kanalizasyon kazısı sırasında işçilerden Ercan Az (38), kayan toprağın altında kalarak yaşamını yitirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/aydinda-kanalizasyon-kazisinda-toprak-kaydi-1-olu-43358521",
-   "zaman": "2026-10-28T18:17:00+03:00",
-   "kelimeler": [
-    "aydin",
-    "kanal",
-    "kaydi",
-    "kazis",
-    "olu",
-    "topra"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5b0d06244cc8": {
-   "id": "5b0d06244cc8",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanı Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Sınır (Frontier) Yapay Zeka Modellerinin Kontrolü\" başlıklı Norveç-Finlandiya ortak çağrısı kapsamında düzenlenen ilk çevrim içi toplantıya katıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi/4104064",
-   "zaman": "2026-10-28T18:18:09+03:00",
-   "kelimeler": [
-    "bakan",
-    "disis",
-    "fidan",
-    "katil",
-    "kontr",
-    "model",
-    "sinir",
-    "topla",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "TRT Haber"
-   ]
-  },
-  "1b293035481b": {
-   "id": "1b293035481b",
-   "kaynak": "Hürriyet",
-   "baslik": "'Türk Dünyası Diyalog Forumu' düzenlenecek",
-   "ozet": "Türkiye'nin ev sahipliğinde 29-30 Ekim tarihlerinde Ankara’da düzenlenecek olan Türk Devletleri Teşkilatı (TDT) 13'üncü Zirvesi kapsamında, Cumhurbaşkanlığı İletişim Başkanlığı tarafından ‘Türk Dünyası Diyalog Forumu’ başlıklı uluslararası forum gerçekleştirilecek.",
-   "link": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-duzenlenecek-43358528",
-   "zaman": "2026-10-28T18:20:12+03:00",
-   "kelimeler": [
-    "diyal",
-    "dunya",
-    "duzen",
-    "forum",
-    "turk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "TRT Haber"
-   ]
-  },
-  "85732b1c2576": {
-   "id": "85732b1c2576",
-   "kaynak": "Hürriyet",
-   "baslik": "Dışişleri Bakanı Hakan Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Sınır (Frontier) Yapay Zeka Modellerinin Kontrolü\" başlıklı Norveç-Finlandiya ortak çağrısı kapsamında düzenlenen ilk çevrim içi toplantıya katıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi-43358529",
-   "zaman": "2026-10-28T18:21:02+03:00",
-   "kelimeler": [
-    "bakan",
-    "disis",
-    "fidan",
-    "hakan",
-    "katil",
-    "kontr",
-    "model",
-    "sinir",
-    "topla",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5b0d06244cc8"
-  },
-  "914fdfebd14a": {
-   "id": "914fdfebd14a",
-   "kaynak": "Hürriyet",
-   "baslik": "Çorum’da feci kaza! Otomobil ile cip çarpıştı; 4 ölü, 2 yaralı",
-   "ozet": "Çorum'un Alaca ilçesinde otomobil ile cipin çarpıştığı kazada 4 kişi hayatını kaybetti, 2 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-otomobil-ile-cip-carpisti-4-olu-2-yarali-43358530",
-   "zaman": "2026-10-28T18:22:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "cip",
-    "corum",
-    "feci",
-    "kaza",
-    "olu",
-    "otomo",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a59d195236c7"
-  },
-  "5d4c4dc0369e": {
-   "id": "5d4c4dc0369e",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Çiftçi: Dolandırıcılıkla Mücadele Merkezi kuracağız",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, “İçişleri Bakanlığımız bünyesinde kurmayı planladığımız Dolandırıcılıkla Mücadele Merkezi ile suçla mücadelede yeni bir dönemin kapısını aralıyoruz.” açıklamasında bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-dolandiricilikla-mucadele-merkezi-kuracagiz-43358532",
-   "zaman": "2026-10-28T18:23:55+03:00",
-   "kelimeler": [
-    "bakan",
-    "ciftc",
-    "dolan",
-    "kurac",
-    "merke",
-    "mucad"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "ec66fcba6925": {
-   "id": "ec66fcba6925",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanlığı 30-31 Ekim'de \"Türk Dünyası Diyalog Forumu\" düzenleyecek",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi marjında, \"Türk Dünyası Diyalog Forumu\" başlıklı uluslararası forum düzenleyecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-30-31-ekimde-turk-dunyasi-diyalog-forumu-duzenleyecek/4104070",
-   "zaman": "2026-10-28T18:24:37+03:00",
-   "kelimeler": [
-    "30",
-    "31",
-    "baska",
-    "diyal",
-    "dunya",
-    "duzen",
-    "ekim",
-    "forum",
-    "ileti",
-    "turk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1b293035481b"
-  },
-  "930ba6783026": {
-   "id": "930ba6783026",
-   "kaynak": "Sözcü",
-   "baslik": "Eşini öldürüp intihara kalkıştı! 11 aylık kızları koruma altına alındı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/esini-oldurup-intihara-kalkisti-11-aylik-kizlari-koruma-altina-alindi-p373685",
-   "zaman": "2026-10-28T18:27:04+03:00",
-   "kelimeler": [
-    "11",
-    "alind",
-    "altin",
-    "aylik",
-    "esini",
-    "intih",
-    "kalki",
-    "kizla",
-    "korum",
-    "oldur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "aa5c07708819": {
-   "id": "aa5c07708819",
-   "kaynak": "TRT Haber",
-   "baslik": "İletişim Başkanlığı Türk Dünyası Diyalog Forumu düzenleyecek",
-   "ozet": "İletişim Başkanlığı, Türk Devletleri Teşkilatı TDT 13. Zirvesi marjında, \"Türk Dünyası Diyalog Forumu\" başlıklı uluslararası forum düzenleyecek.",
-   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-turk-dunyasi-diyalog-forumu-duzenleyecek-961524.html",
-   "zaman": "2026-10-28T18:28:00+03:00",
-   "kelimeler": [
-    "baska",
-    "diyal",
-    "dunya",
-    "duzen",
-    "forum",
-    "ileti",
-    "turk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1b293035481b"
-  },
   "caced3f9665b": {
    "id": "caced3f9665b",
    "kaynak": "AA",
@@ -28239,9 +28043,101 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c9920db9d656": {
+   "id": "c9920db9d656",
+   "kaynak": "AA",
+   "baslik": "AP: İran'ın Orta Doğu'daki 20'den fazla ABD üssüne yaptığı saldırılar, milyarlarca dolar hasara yol açtı",
+   "ozet": "AP'nin yaptığı incelemelerde, İran’ın Orta Doğu’daki 20'den fazla ABD üssüne düzenlediği saldırıların uçaklara ve binalara isabet etmeden önce erken uyarı sistemlerine odaklandığı ve milyarlarca dolarlık ekipman hasarına yol açtığı ortaya çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ap-iranin-orta-dogudaki-20den-fazla-abd-ussune-yaptigi-saldirilar-milyarlarca-dolar-hasara-yol-acti/4107433",
+   "zaman": "2026-10-31T18:02:12+03:00",
+   "kelimeler": [
+    "20",
+    "abd",
+    "acti",
+    "ap",
+    "daki",
+    "den",
+    "dogu",
+    "dolar",
+    "fazla",
+    "hasar",
+    "in",
+    "iran",
+    "milya",
+    "orta",
+    "saldi",
+    "ussun",
+    "yapti",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "555e2088bb86": {
+   "id": "555e2088bb86",
+   "kaynak": "AA",
+   "baslik": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu, Katar Türk Okulu öğrencileri ile buluştu",
+   "ozet": "Türkiye Basketbol Federasyonu (TBF) Başkanı Hidayet Türkoğlu, FIBA'nın düzenlediği etkinlikte Katar Türk Okulu öğrencileriyle bir araya gelerek, yurt dışında yaşayan genç Türk sporcuları milli takım forması altında görmek istediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-basketbol-federasyonu-baskani-turkoglu-katar-turk-okulu-ogrencileri-ile-bulustu/4107447",
+   "zaman": "2026-10-31T18:14:37+03:00",
+   "kelimeler": [
+    "baska",
+    "baske",
+    "bulus",
+    "feder",
+    "katar",
+    "ogren",
+    "okulu",
+    "turk",
+    "turki",
+    "turko"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5bdf3cd36cba": {
+   "id": "5bdf3cd36cba",
+   "kaynak": "AA",
+   "baslik": "Polonya'da Anayasa Mahkemesi krizi devam ediyor",
+   "ozet": "Polonya'da hükümet ile yargı organları ve Cumhurbaşkanlığı arasındaki güç mücadelesinin merkezine yerleşen Anayasa Mahkemesi krizi devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/polonyada-anayasa-mahkemesi-krizi-devam-ediyor/4107448",
+   "zaman": "2026-10-31T18:14:47+03:00",
+   "kelimeler": [
+    "anaya",
+    "devam",
+    "ediyo",
+    "krizi",
+    "mahke",
+    "polon"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22a9c2154594": {
+   "id": "22a9c2154594",
+   "kaynak": "Hürriyet",
+   "baslik": "Bir süredir haber alınamıyordu! 80 yaşındaki adamın cansız bedeni Boğaz'da bulundu",
+   "ozet": "Kağıthane’de evinden ayrıldıktan sonra kendisinden haber alınamayan ve ailesinin kayıp başvurusunda bulunduğu Mustafa Doyan’ın (80) cansız bedeni İstanbul Boğazı’nda bulundu. Doyan’ın cenazesi otopsi işlemleri için Adli Tıp Kurumu morguna götürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/bir-suredir-haber-alinamiyordu-80-yasindaki-adamin-cansiz-bedeni-bogazda-bulundu-43361859",
+   "zaman": "2026-10-31T18:26:00+03:00",
+   "kelimeler": [
+    "80",
+    "adami",
+    "alina",
+    "beden",
+    "bogaz",
+    "bulun",
+    "cansi",
+    "sured",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 18:31:18  4 yeni haber",
   "31.10 18:16:17  4 yeni haber",
   "31.10 18:03:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ege Denizi'nde deprem meydana geldi",
   "31.10 18:01:19  1 yeni haber",
@@ -28440,8 +28336,7 @@
   "29.10 15:01:27  4 yeni haber",
   "29.10 14:46:07  1 yeni haber",
   "29.10 14:31:13  4 yeni haber",
-  "29.10 14:15:58  5 yeni haber",
-  "29.10 14:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "29.10 14:15:58  5 yeni haber"
  ],
  "otomatik": false
 }
