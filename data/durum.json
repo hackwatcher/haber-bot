@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "196b634455fd": {
-   "id": "196b634455fd",
-   "kaynak": "AA",
-   "baslik": "Yemen hükümeti: Husiler, Aden Uluslararası Havalimanı'nı birkaç saat arayla 2. kez hedef aldı",
-   "ozet": "Yemen hükümeti, İran destekli Husilerin birkaç saat arayla ikinci kez Aden Uluslararası Havalimanı'na saldırı düzenlediğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-husiler-aden-uluslararasi-havalimanini-birkac-saat-arayla-2-kez-hedef-aldi/4104086",
-   "zaman": "2026-10-28T18:48:47+03:00",
-   "kelimeler": [
-    "aden",
-    "aldi",
-    "arayl",
-    "birka",
-    "haval",
-    "hedef",
-    "hukum",
-    "husil",
-    "kez",
-    "ni",
-    "saat",
-    "ulusl",
-    "yemen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "555c871d610b": {
-   "id": "555c871d610b",
-   "kaynak": "AA",
-   "baslik": "Deniz yüzeyi sıcaklıklarındaki artış Akdeniz'de aşırı hava olaylarının gelişimini destekliyor",
-   "ozet": "İzmir Bakırçay Üniversitesi Coğrafya Bölümü Öğretim Üyesi Tağıl, Akdeniz Havzası'nda yükselen deniz yüzeyi sıcaklıklarının ve deniz-atmosfer etkileşiminin şiddetli yağış, sel ve fırtına gibi ekstrem hava olaylarının gelişimini desteklediğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/deniz-yuzeyi-sicakliklarindaki-artis-akdenizde-asiri-hava-olaylarinin-gelisimini-destekliyor/4104088",
-   "zaman": "2026-10-28T18:50:54+03:00",
-   "kelimeler": [
-    "akden",
-    "artis",
-    "asiri",
-    "deniz",
-    "deste",
-    "gelis",
-    "hava",
-    "olayl",
-    "sicak",
-    "yuzey"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e9952e4b1e7b": {
-   "id": "e9952e4b1e7b",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakanlar Çiftçi ve Gürlek bir araya geldi: Dolandırıcılıkla Mücadele Merkezi kuruluyor",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi ile Adalet Bakanı Akın Gürlek bir araya gelerek, 'DOLUNAY Projesi' kapsamında dolandırıcılıkla mücadelede atılacak adımları görüştü.",
-   "link": "https://www.trthaber.com/haber/gundem/bakanlar-ciftci-ve-gurlek-bir-araya-geldi-dolandiricilikla-mucadele-merkezi-kuruluyor-961527.html",
-   "zaman": "2026-10-28T18:55:00+03:00",
-   "kelimeler": [
-    "araya",
-    "bakan",
-    "ciftc",
-    "dolan",
-    "geldi",
-    "gurle",
-    "kurul",
-    "merke",
-    "mucad"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5d4c4dc0369e"
-  },
   "a4cfbae4d559": {
    "id": "a4cfbae4d559",
    "kaynak": "AA",
@@ -132,26 +63,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "11fcfaabe148"
-  },
-  "a116f2a2237b": {
-   "id": "a116f2a2237b",
-   "kaynak": "TRT Haber",
-   "baslik": "İspanya'da hızlı trenler çarpıştı: En az 68 ölü",
-   "ozet": "İspanya'da MadridEndülüs seferi yapan iki yolcu treninin çarpıştığı kazada en az 68 kişinin hayatını kaybettiği duyuruldu.",
-   "link": "https://www.trthaber.com/haber/dunya/ispanyada-hizli-trenler-carpisti-en-az-68-olu-961528.html",
-   "zaman": "2026-10-28T18:57:00+03:00",
-   "kelimeler": [
-    "68",
-    "az",
-    "carpi",
-    "hizli",
-    "ispan",
-    "olu",
-    "trenl"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "562684b1b293"
   },
   "49e2d9ca9de3": {
    "id": "49e2d9ca9de3",
@@ -25603,7 +25514,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "77396088af5f": {
    "id": "77396088af5f",
@@ -27513,7 +27425,10 @@
     "yusuf"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2de1b91f012c": {
    "id": "2de1b91f012c",
@@ -28111,9 +28026,163 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9c2cef317ca6": {
+   "id": "9c2cef317ca6",
+   "kaynak": "AA",
+   "baslik": "CANLI -Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ukrayna Devlet Başkanı Volodimir Zelenskiy ile ortak basın toplantısı düzenliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4107374",
+   "zaman": "2026-10-31T16:16:56+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9ddfc16c8822"
+  },
+  "e9ce90bbd4c0": {
+   "id": "e9ce90bbd4c0",
+   "kaynak": "AA",
+   "baslik": "Anayasa krizinin yaşandığı Polonya'da muhalefet, hükümeti güven oylamasıyla düşürmek istiyor",
+   "ozet": "Polonya'da Anayasa Mahkemesi krizi devam ederken, eski Başbakan ve muhalefetteki Rozwoj Plus oluşumunun lideri Mateusz Morawiecki, Başbakan Donald Tusk liderliğindeki hükümete karşı güvensizlik önergesi vereceklerini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/anayasa-krizinin-yasandigi-polonyada-muhalefet-hukumeti-guven-oylamasiyla-dusurmek-istiyor/4107448",
+   "zaman": "2026-10-31T18:14:47+03:00",
+   "kelimeler": [
+    "anaya",
+    "dusur",
+    "guven",
+    "hukum",
+    "istiy",
+    "krizi",
+    "muhal",
+    "oylam",
+    "polon",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f775eb6b63df": {
+   "id": "f775eb6b63df",
+   "kaynak": "TRT Haber",
+   "baslik": "Şehit Piyade Sözleşmeli Er Yusuf Sait Ünlü son yolculuğuna uğurlandı",
+   "ozet": "Hakkari'nin Yüksekova ilçesinde hudut geçişi olayına müdahale sırasında açılan ateşle yaralanan ve kaldırıldığı hastanede şehit olan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün cenazesi Aydın'ın Çine ilçesinde toprağa verildi.",
+   "link": "https://www.trthaber.com/haber/gundem/sehit-piyade-sozlesmeli-er-yusuf-sait-unlu-son-yolculuguna-ugurlandi-961835.html",
+   "zaman": "2026-10-31T18:20:00+03:00",
+   "kelimeler": [
+    "er",
+    "piyad",
+    "sait",
+    "sehit",
+    "sozle",
+    "ugurl",
+    "unlu",
+    "yolcu",
+    "yusuf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d1134c1994b2"
+  },
+  "957de40c25fc": {
+   "id": "957de40c25fc",
+   "kaynak": "XHABER",
+   "baslik": "2022 yılında Sahara Çölü'nde keşfedilen 1 kilogram ağırlığındaki göktaşının Mars'a ait olduğu tespit edildi.",
+   "ozet": "— Taşın 4.1 milyar yaşında olduğu belirlendi.",
+   "link": "https://t.me/sahinozkan000/30457",
+   "zaman": "2026-10-31T18:48:49+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "2022 yılında Sahara Çölü'nde keşfedilen 1 kilogram ağırlığındaki göktaşının Mars'a ait olduğu tespit edildi.\n— Taşın 4.1 milyar yaşında olduğu belirlendi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/tjtroSiCsccCPPBuBTLWy9IqgvdVhaQSiEXeYMcBSrgIko8nlQQptCHPhwpiEFJ1U7ALXa24Trbxa_hZkgWocQzaxLnKLPKPfNqxWWxmRNclrZx9KjK9P_i5qpcV2fLlqwKToMuZYAImr70dOB43no9ZYqf5iXygvFt_2ekKA1f_n4_e6wH952Vy_6CX4lg0934_gbPwX5wbF1Ie9yewQe4TmYzK_vvcgDvSY13AYBLS0LwLyEyUEjNBVhJaAz5zaVJe2hOEDpDiBXFO3c2CNLxA0HRRBMkgBoiaKTRaicpXG0qIXdT7FPz6w4FpbP7UB3WchV7m7pJnlDFu7HIqIQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "2022",
+    "agirl",
+    "ait",
+    "colu",
+    "edild",
+    "gokta",
+    "kesfe",
+    "kilog",
+    "mars",
+    "nde",
+    "oldug",
+    "sahar",
+    "tespi",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "28241d006e49": {
+   "id": "28241d006e49",
+   "kaynak": "AA",
+   "baslik": "112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü kuruldu",
+   "ozet": "İçişleri Bakanlığı bünyesinde 112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü kuruldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/112-acil-cagri-ve-koordinasyon-genel-mudurlugu-kuruldu/4107462",
+   "zaman": "2026-10-31T18:50:17+03:00",
+   "kelimeler": [
+    "112",
+    "cagri",
+    "genel",
+    "koord",
+    "kurul",
+    "mudur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cdf1c0b82c9f": {
+   "id": "cdf1c0b82c9f",
+   "kaynak": "AA",
+   "baslik": "48. İstanbul Maratonu nedeniyle toplu ulaşımda düzenleme",
+   "ozet": "İstanbul'da yarın yapılacak 48. İstanbul Maratonu kapsamında kent genelinde bazı toplu ulaşım seferlerinde düzenlemeye gidildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/48-istanbul-maratonu-nedeniyle-toplu-ulasimda-duzenleme/4107467",
+   "zaman": "2026-10-31T18:53:21+03:00",
+   "kelimeler": [
+    "48",
+    "duzen",
+    "istan",
+    "marat",
+    "neden",
+    "toplu",
+    "ulasi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c45b48b778d2"
+  },
+  "d16bbf6cdc34": {
+   "id": "d16bbf6cdc34",
+   "kaynak": "BBC Türkçe",
+   "baslik": "28 yıldır yürüyen Karl Bushby, 58 bin km yol kat ettikten sonra evine döndü",
+   "ozet": "Dünyayı yürüyerek dolaşan Karl Bushby, 28 yıl sonra yolculuğunun sonuna neredeyse yaklaştı.",
+   "link": "https://www.bbc.com/turkce/articles/ckm23dng4rlqo",
+   "zaman": "2026-10-31T18:53:30+03:00",
+   "kelimeler": [
+    "28",
+    "58",
+    "bin",
+    "bushb",
+    "dondu",
+    "ettik",
+    "evine",
+    "karl",
+    "kat",
+    "km",
+    "yildi",
+    "yol",
+    "yuruy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 19:01:20  4 yeni haber",
   "31.10 18:46:09  3 yeni haber",
   "31.10 18:31:18  4 yeni haber",
   "31.10 18:16:17  4 yeni haber",
@@ -28312,8 +28381,7 @@
   "29.10 15:16:03  5 yeni haber",
   "29.10 15:03:31  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Sinem Dedetaş için tahliye ve ev hapsi kararı",
   "29.10 15:01:27  4 yeni haber",
-  "29.10 14:46:07  1 yeni haber",
-  "29.10 14:31:13  4 yeni haber"
+  "29.10 14:46:07  1 yeni haber"
  ],
  "otomatik": false
 }
