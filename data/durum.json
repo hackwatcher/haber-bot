@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "fd402e5996ef": {
-   "id": "fd402e5996ef",
-   "kaynak": "AA",
-   "baslik": "Avrupa'da doğal gaz fiyatları 100 avroyu aşarak son 4 yılın zirvesini gördü",
-   "ozet": "Avrupa'da doğal gaz fiyatları, Orta Doğu'daki gerilimlerin LNG sevkiyatını aksatması ve Asya'dan gelen güçlü talep nedeniyle megavatsaat başına 100 avroyu aşarak Aralık 2022'den bu yana en yüksek seviyesine çıktı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-100-avroyu-asarak-son-4-yilin-zirvesini-gordu/4104363",
-   "zaman": "2026-10-28T22:49:16+03:00",
-   "kelimeler": [
-    "100",
-    "asara",
-    "avroy",
-    "avrup",
-    "dogal",
-    "fiyat",
-    "gaz",
-    "gordu",
-    "yilin",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5e0343da6ac1": {
    "id": "5e0343da6ac1",
    "kaynak": "Hürriyet",
@@ -27395,7 +27373,10 @@
     "yenid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bb913e26c3c4": {
    "id": "bb913e26c3c4",
@@ -27569,9 +27550,122 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f8fd5d321555"
+  },
+  "031bcaefd6e6": {
+   "id": "031bcaefd6e6",
+   "kaynak": "TRT Haber",
+   "baslik": "Suriye'nin başkenti Şam'da tarihi Süleymaniye Tekkesi restore edilerek yeniden açıldı",
+   "ozet": "Suriye'nin başkenti Şam'da, Osmanlı padişahı Kanuni Sultan Süleyman tarafından Mimar Sinan'a yaptırılan tarihi Süleymaniye Tekkesi, restorasyon çalışmalarının tamamlanmasının ardından düzenlenen törenle yeniden açıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/suriyenin-baskenti-samda-tarihi-suleymaniye-tekkesi-restore-edilerek-yeniden-acildi-961843.html",
+   "zaman": "2026-10-31T22:00:00+03:00",
+   "kelimeler": [
+    "acild",
+    "baske",
+    "edile",
+    "nin",
+    "resto",
+    "sam",
+    "suley",
+    "suriy",
+    "tarih",
+    "tekke",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bf47fbaee976"
+  },
+  "1cb5c9922a46": {
+   "id": "1cb5c9922a46",
+   "kaynak": "AA",
+   "baslik": "TRT Çocuk 18'inci kuruluş yıl dönümünü kutluyor",
+   "ozet": "Türkiye'nin en çok izlenen çocuk kanalı TRT Çocuk, 18'inci kuruluş yıl dönümünü \"Minik Yıldız\" ve \"Hep Birlikte Söyleyelim\"in yanı sıra sevilen yapımları \"SER-a\" ve \"Ekip: SİBERAY\"ın yeni bölümleriyle kutlayacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/trt-cocuk-18inci-kurulus-yil-donumunu-kutluyor/4107629",
+   "zaman": "2026-10-31T22:45:56+03:00",
+   "kelimeler": [
+    "18",
+    "cocuk",
+    "donum",
+    "inci",
+    "kurul",
+    "kutlu",
+    "trt",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a278b273cc7d": {
+   "id": "a278b273cc7d",
+   "kaynak": "AA",
+   "baslik": "Kültür sanatın kaydını tutmanın zorlukları ve dijital arşivciliğin imkanları masaya yatırıldı",
+   "ozet": "Kültür ve Medeniyet Vakfının ODAK projesi kapsamında AA ve Rami Kütüphanesi ortaklığında düzenlenen \"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programında, kültür sanat alanında arşivleme ve dijital teknolojilerin arşivcilikteki rolü ele alındı.",
+   "link": "https://www.aa.com.tr/tr/kultur/kultur-sanatin-kaydini-tutmanin-zorluklari-ve-dijital-arsivciligin-imkanlari-masaya-yatirildi/4107630",
+   "zaman": "2026-10-31T22:48:05+03:00",
+   "kelimeler": [
+    "arsiv",
+    "dijit",
+    "imkan",
+    "kaydi",
+    "kultu",
+    "masay",
+    "sanat",
+    "tutma",
+    "yatir",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e436bab8c51": {
+   "id": "5e436bab8c51",
+   "kaynak": "AA",
+   "baslik": "Bakan Fidan, Türkiye'nin barış ve istikrarın tesisine katkıda bulunmaya devam edeceğini belirtti",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Türkiye olarak, küresel konularda sorumluluk almaya; çok taraflılığı, işbirliğini ve diplomasiyi savunarak uluslararası barış ve istikrarın tesisine katkıda bulunmaya devam edeceğiz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-baris-ve-istikrarin-tesisine-katkida-bulunmaya-devam-edecegini-belirtti/4107631",
+   "zaman": "2026-10-31T22:50:53+03:00",
+   "kelimeler": [
+    "bakan",
+    "baris",
+    "belir",
+    "bulun",
+    "devam",
+    "edece",
+    "fidan",
+    "istik",
+    "katki",
+    "nin",
+    "tesis",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b04532dc56ab": {
+   "id": "b04532dc56ab",
+   "kaynak": "AA",
+   "baslik": "Kültür sanat üretiminde kütüphane ve arşivlerin dönüşümü Karaköy Palas'ta konuşuldu",
+   "ozet": "Kültür Medeniyet Vakfının (KÜME) \"ODAK\" projesi kapsamında Anadolu Ajansı ve Rami Kütüphanesi ortaklığında hazırlanan \"Kültür Sanatın İzinde: Etkinlikten Hafızaya\" programında \"Koleksiyonu Harekete Geçirmek\" başlıklı oturum düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/turkulere-ses-verenler/kultur-sanat-uretiminde-kutuphane-ve-arsivlerin-donusumu-karakoy-palasta-konusuldu/4107633",
+   "zaman": "2026-10-31T22:54:28+03:00",
+   "kelimeler": [
+    "arsiv",
+    "donus",
+    "karak",
+    "konus",
+    "kultu",
+    "kutup",
+    "palas",
+    "sanat",
+    "ta",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 23:01:31  4 yeni haber",
   "31.10 22:15:57  3 yeni haber",
   "31.10 22:01:30  4 yeni haber",
   "31.10 21:46:02  2 yeni haber",
@@ -27770,8 +27864,7 @@
   "29.10 19:01:22  5 yeni haber",
   "29.10 18:46:02  5 yeni haber",
   "29.10 18:31:31  1 yeni haber",
-  "29.10 18:15:59  2 yeni haber",
-  "29.10 18:01:32  1 yeni haber"
+  "29.10 18:15:59  2 yeni haber"
  ],
  "otomatik": false
 }
