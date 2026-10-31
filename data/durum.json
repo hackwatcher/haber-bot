@@ -1,191 +1,5 @@
 {
  "haberler": {
-  "6339723b61a7": {
-   "id": "6339723b61a7",
-   "kaynak": "TRT Haber",
-   "baslik": "FED faizi sabit tuttu",
-   "ozet": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,754 aralığında sabit tuttu.",
-   "link": "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html",
-   "zaman": "2026-10-28T21:02:00+03:00",
-   "kelimeler": [
-    "faizi",
-    "fed",
-    "sabit",
-    "tuttu"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "6ad375e1fdeb": {
-   "id": "6ad375e1fdeb",
-   "kaynak": "AA",
-   "baslik": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,75-4 aralığında sabit tuttu",
-   "ozet": "",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-merkez-bankasi-politika-faizini-beklentiler-dahilinde-yuzde-3-75-4-araliginda-sabit-tuttu/4104235",
-   "zaman": "2026-10-28T21:02:13+03:00",
-   "kelimeler": [
-    "75",
-    "abd",
-    "arali",
-    "banka",
-    "bekle",
-    "dahil",
-    "faizi",
-    "merke",
-    "polit",
-    "sabit",
-    "tuttu",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6339723b61a7"
-  },
-  "7522dd40d658": {
-   "id": "7522dd40d658",
-   "kaynak": "AA",
-   "baslik": "İspanya Kral Kupası'nda 24 maç, tren kazası nedeniyle ertelendi",
-   "ozet": "İspanya Kral Kupası'nda bugün oynanması planlanan 24 karşılaşma, Toledo kenti yakınlarında meydana gelen tren kazası nedeniyle ertelendi.",
-   "link": "https://www.aa.com.tr/tr/spor/ispanya-kral-kupasinda-24-mac-tren-kazasi-nedeniyle-ertelendi/4104240",
-   "zaman": "2026-10-28T21:06:22+03:00",
-   "kelimeler": [
-    "24",
-    "ertel",
-    "ispan",
-    "kazas",
-    "kral",
-    "kupas",
-    "mac",
-    "nda",
-    "neden",
-    "tren"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "754806eefd93": {
-   "id": "754806eefd93",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Fidan ve Bakan Bolat’tan sürücülerin Schengen sorunu için diplomatik girişim",
-   "ozet": "Dışişleri Bakanı Hakan Fidan ve Ticaret Bakanı Ömer Bolat, Türk sürücülerinin Schengen vizesi ve sınır geçişlerinde yaşadığı sorunların çözümü için diplomatik temaslarını sürdürüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-fidan-ve-bakan-bolattan-suruculerin-schengen-sorunu-icin-diplomatik-girisim-43358638",
-   "zaman": "2026-10-28T21:10:05+03:00",
-   "kelimeler": [
-    "bakan",
-    "bolat",
-    "diplo",
-    "fidan",
-    "giris",
-    "schen",
-    "sorun",
-    "suruc",
-    "tan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ea1749fe5bbf": {
-   "id": "ea1749fe5bbf",
-   "kaynak": "AA",
-   "baslik": "Kanada'da Filistinli öğrencilerin öğrenim izni başvurularının reddedilmesine tepki",
-   "ozet": "Kanada'da sivil toplum kuruluşları, siyasiler ve akademisyenler, ülkedeki üniversitelerden kabul almış Filistinli öğrencilerin öğrenim izni başvurularının reddedilmesine tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kanadada-filistinli-ogrencilerin-ogrenim-izni-basvurularinin-reddedilmesine-tepki/4104247",
-   "zaman": "2026-10-28T21:11:00+03:00",
-   "kelimeler": [
-    "basvu",
-    "filis",
-    "izni",
-    "kanad",
-    "ogren",
-    "redde",
-    "tepki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c5021d9242b5": {
-   "id": "c5021d9242b5",
-   "kaynak": "XHABER",
-   "baslik": "ABD Merkez Bankası (FED), faiz oranlarını %3,75-4 seviyesinde sabit bıraktı.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30404",
-   "zaman": "2026-10-28T21:13:58+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "ABD Merkez Bankası (FED), faiz oranlarını %3,75-4 seviyesinde sabit bıraktı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/KaEduRGTGVXE3RbMeAh5r1l77PdB6YaJoPVmDPhgFmqsrev5fr9YhjvCDhu9Hh1Ro1VX8YlwxXirtWxcCTfClrPQ1jkuLRZjp5gKGD3CaD47cjBVD7u0cKNjrYXg_1B1yfU6nwfsBdxSzgrSs-T0O8xNmzmwckkl8D1sNGxR8RyFjGT-I_9X7IPmMzyypLr_KX05aHVpksmDJ0JYD2Q31dAKSHC5X9SWb08fU_1x_zXr6QceaHyJHSE5_alj40r51acOiBLszb8ZvSmPx0TFjc_KPNXJi6RLMnUNspUHI2ibITyxKEqvwuzhCJEKHwMOXdSMwizVElzEJK4txhtiiw.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "75",
-    "abd",
-    "banka",
-    "birak",
-    "faiz",
-    "fed",
-    "merke",
-    "oranl",
-    "sabit",
-    "seviy"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-29T00:04:30.753357+03:00",
-   "ig_id": "18115488818332597",
-   "reels_id": "18411753982090263",
-   "story_id": "18127763062910145",
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1658479405816291",
-   "slayt": 4,
-   "kanca": "FAİZLER SABİT TUTULDU"
-  },
-  "5e60ab6d44a7": {
-   "id": "5e60ab6d44a7",
-   "kaynak": "AA",
-   "baslik": "Hollanda hükümetine ABD ve İsrail'in ihlallerini kınamada seçici davrandığı eleştirisi",
-   "ozet": "Hollanda'da Uluslararası Hukuk Danışma Komitesi (CAVV), hükümeti ABD ve İsrail'in ihlallerini kınamada yeterince açık davranmadığı gerekçesiyle eleştirerek uluslararası hukuka yaklaşımının değiştiği uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/hollanda-hukumetine-abd-ve-israilin-ihlallerini-kinamada-secici-davrandigi-elestirisi/4104246",
-   "zaman": "2026-10-28T21:10:35+03:00",
-   "kelimeler": [
-    "abd",
-    "davra",
-    "elest",
-    "holla",
-    "hukum",
-    "ihlal",
-    "in",
-    "israi",
-    "kinam",
-    "secic"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ca6557f04eab": {
-   "id": "ca6557f04eab",
-   "kaynak": "Hürriyet",
-   "baslik": "Öğrencinin mesajı bir ilçeyi alarma geçirdi! 'Pazartesi okula gelmeyin, kötü şeyler olacak'",
-   "ozet": "Tekirdağ'ın Muratlı ilçesinde Anadolu Lisesi 9. Sınıf öğrencilerinden biri, arkadaşlarına 'Pazartesi okula gelmeyin, kötü şeyler olacak' deyince emniyet ve okul yönetimini harekete geçirdi. Öğrencinin ifadesine başvurulurken, evinde arama yapıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ogrencinin-mesaji-bir-ilceyi-alarma-gecirdi-pazartesi-okula-gelmeyin-kotu-seyler-olacak-43358636",
-   "zaman": "2026-10-28T21:11:52+03:00",
-   "kelimeler": [
-    "alarm",
-    "gecir",
-    "gelme",
-    "ilcey",
-    "kotu",
-    "mesaj",
-    "ogren",
-    "okula",
-    "olaca",
-    "pazar",
-    "seyle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4e74e893c367": {
    "id": "4e74e893c367",
    "kaynak": "AA",
@@ -252,24 +66,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "f1dd2c1f863c": {
-   "id": "f1dd2c1f863c",
-   "kaynak": "AA",
-   "baslik": "Fed politika faizini sabit tuttu",
-   "ozet": "ABD Merkez Bankası (Fed), politika faizini beklentiler doğrultusunda yüzde 3,75-4 aralığında sabit tuttu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fed-politika-faizini-sabit-tuttu/4104235",
-   "zaman": "2026-10-28T21:02:13+03:00",
-   "kelimeler": [
-    "faizi",
-    "fed",
-    "polit",
-    "sabit",
-    "tuttu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6339723b61a7"
   },
   "a97491e1ee74": {
    "id": "a97491e1ee74",
@@ -27768,7 +27564,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ]
   },
   "75f172133c25": {
@@ -28002,6 +27799,51 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4f5801602d58"
+  },
+  "38f7f519637a": {
+   "id": "38f7f519637a",
+   "kaynak": "TRT Haber",
+   "baslik": "BM Genel Sekreterliğine aday gösterilen Sinirlioğlu, vizyon belgesinde hedeflerini açıkladı",
+   "ozet": "Türkiye'nin Birleşmiş Milletler BM Genel Sekreterliği için aday gösterdiği Feridun Sinirlioğlu, kaleme aldığı vizyon belgesinde çatışmaların önlenmesi, uluslararası iş birliğinin güçlendirilmesi ve BM'nin daha etkin bir yapıya kavuşturulmasına yönelik hedeflerini ortaya koydu.",
+   "link": "https://www.trthaber.com/haber/gundem/bm-genel-sekreterligine-aday-gosterilen-sinirlioglu-vizyon-belgesinde-hedeflerini-acikladi-961840.html",
+   "zaman": "2026-10-31T20:54:00+03:00",
+   "kelimeler": [
+    "aday",
+    "belge",
+    "bm",
+    "genel",
+    "goste",
+    "hedef",
+    "sekre",
+    "sinir",
+    "vizyo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1ef5f730deae"
+  },
+  "fb97c9095515": {
+   "id": "fb97c9095515",
+   "kaynak": "Hürriyet",
+   "baslik": "Sermaye piyasası işlemlerine ilişkin soruşturmada Korkmaz Enes Ergun gözaltına alındı",
+   "ozet": "Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddiasıyla gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-korkmaz-enes-ergun-gozaltina-alindi-43361937",
+   "zaman": "2026-10-31T20:55:00+03:00",
+   "kelimeler": [
+    "alind",
+    "enes",
+    "ergun",
+    "gozal",
+    "ilisk",
+    "islem",
+    "korkm",
+    "piyas",
+    "serma",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fa4e899c61dd"
   }
  },
  "kayit": [
