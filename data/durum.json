@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "3e1d76b3cbe4": {
-   "id": "3e1d76b3cbe4",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul’da sabah saatlerinde korkutan yangın! Seyir halindeyken alev topuna döndü",
-   "ozet": "Ümraniye'de sabah saatlerinde seyir halindeki hafif ticari araç henüz bilinmeyen nedenle yanmaya başladı. Sürücü ve arkadaşının alevleri söndürme çabası yetersiz kalırken, ellerinde yanıklar oluşan iki kişinin yardımına itfaiye ekipleri yetişti. Araç tamamen küle döndü.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-sabah-saatlerinde-korkutan-yangin-seyir-halindeyken-alev-topuna-dondu-43357433",
-   "zaman": "2026-10-28T08:18:03+03:00",
-   "kelimeler": [
-    "alev",
-    "dondu",
-    "halin",
-    "istan",
-    "korku",
-    "saatl",
-    "sabah",
-    "seyir",
-    "topun",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "d9f8732fc47e": {
-   "id": "d9f8732fc47e",
-   "kaynak": "NTV",
-   "baslik": "Muratpaşa Kaymakamı İhsan Kara kalp krizinden hayatını kaybetti",
-   "ozet": "Antalya'da Muratpaşa Kaymakamı İhsan Kara evinde geçirdiği kalp krizi sonucu yaşamını yitirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/muratpasa-kaymakami-ihsan-kara-kalp-krizinden-hayatini-kaybetti-1748276",
-   "zaman": "2026-10-28T08:28:58+03:00",
-   "kelimeler": [
-    "hayat",
-    "ihsan",
-    "kalp",
-    "kara",
-    "kaybe",
-    "kayma",
-    "krizi",
-    "murat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "48f3f2365795": {
    "id": "48f3f2365795",
    "kaynak": "Hürriyet",
@@ -24944,7 +24901,8 @@
     "yol"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c2565a1f50c3": {
    "id": "c2565a1f50c3",
@@ -30520,6 +30478,48 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "500e7728d2d6": {
+   "id": "500e7728d2d6",
+   "kaynak": "TRT Haber",
+   "baslik": "Edirne'de tur otobüsüyle tır çarpıştı: 10 kişi yaralandı",
+   "ozet": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle tırın çarpışması sonucu 10 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/edirnede-tur-otobusuyle-tir-carpisti-10-kisi-yaralandi-961784.html",
+   "zaman": "2026-10-31T06:31:00+03:00",
+   "kelimeler": [
+    "10",
+    "carpi",
+    "edirn",
+    "kisi",
+    "otobu",
+    "tir",
+    "tur",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9e213b40c31e"
+  },
+  "15d177b43d76": {
+   "id": "15d177b43d76",
+   "kaynak": "NTV",
+   "baslik": "15 Temmuz Şehitler Köprüsü ve Avrasya Tüneli trafiğe kapanacak",
+   "ozet": "İstanbul Maratonu nedeniyle yarın günü megakentte birçok yol trafiğe kapalı olacak. Trafiğe kapatılacak yerler arasında 15 Temmuz Şehitler Köprüsü ile Avrasya Tüneli ve Galata Köprüsü de yer alıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusu-ve-avrasya-tuneli-trafige-kapanacak-1748717",
+   "zaman": "2026-10-31T08:17:45+03:00",
+   "kelimeler": [
+    "15",
+    "avras",
+    "kapan",
+    "kopru",
+    "sehit",
+    "temmu",
+    "trafi",
+    "tunel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b509943f60ca"
   }
  },
  "kayit": [
