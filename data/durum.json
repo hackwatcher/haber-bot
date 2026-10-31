@@ -1,354 +1,5 @@
 {
  "haberler": {
-  "4f8b0519f2eb": {
-   "id": "4f8b0519f2eb",
-   "kaynak": "TRT Haber",
-   "baslik": "Anthropic 12 saatten kısa bir sürede yapay zeka girişimi tarafından hacklendi",
-   "ozet": "Bir yapay zeka girişimi, Anthropic'in sistemlerini 12 saatten kısa bir sürede hackleyerek kurum içi mesajları ve verileri ifşa ettiğini iddia etti.",
-   "link": "https://www.trthaber.com/haber/dunya/anthropic-12-saatten-kisa-bir-surede-yapay-zeka-girisimi-tarafindan-hacklendi-961424.html",
-   "zaman": "2026-10-28T06:46:00+03:00",
-   "kelimeler": [
-    "12",
-    "anthr",
-    "giris",
-    "hackl",
-    "kisa",
-    "saatt",
-    "sured",
-    "taraf",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "12a468fc53ba": {
-   "id": "12a468fc53ba",
-   "kaynak": "TRT Haber",
-   "baslik": "İsrail basınına göre, oyların yüzde 16'sı sayılırken Netanyahu bloğu ile muhalefet başa baş",
-   "ozet": "İsrail basınına göre, genel seçimlerde oyların yaklaşık yüzde 16,8'i sayılırken, Başbakan Binyamin Netanyahu liderliğindeki blok ile muhalefet arasındaki yarış başa baş seyrediyor.",
-   "link": "https://www.trthaber.com/haber/dunya/israil-basinina-gore-oylarin-yuzde-16si-sayilirken-netanyahu-blogu-ile-muhalefet-basa-bas-961425.html",
-   "zaman": "2026-10-28T06:48:00+03:00",
-   "kelimeler": [
-    "16",
-    "bas",
-    "basa",
-    "basin",
-    "blogu",
-    "gore",
-    "israi",
-    "muhal",
-    "netan",
-    "oylar",
-    "sayil",
-    "si",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d64f7a44fc0f"
-  },
-  "37b53ac17064": {
-   "id": "37b53ac17064",
-   "kaynak": "TRT Haber",
-   "baslik": "Biyolojik silahlardan şantaja: Anthropic'in yaklaşık 100 sayfalık risk listesi",
-   "ozet": "Halka açılmaya hazırlanan yapay zeka şirketi Anthropic'in yayımladığı risk raporu, teknolojinin barındırdığı feci sonuçları göz önüne serdi.",
-   "link": "https://www.trthaber.com/haber/dunya/biyolojik-silahlardan-santaja-anthropicin-yaklasik-100-sayfalik-risk-listesi-961426.html",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "100",
-    "anthr",
-    "biyol",
-    "in",
-    "liste",
-    "risk",
-    "santa",
-    "sayfa",
-    "silah",
-    "yakla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "585660365883": {
-   "id": "585660365883",
-   "kaynak": "Hürriyet",
-   "baslik": "Gerçeğin peşinde koşmadan gazetecilik yapılmaz",
-   "ozet": "Bu yıl ikincisi düzenlenen Anadolu Ajansı Haber ödülleri TBMM tören salonunda yapıldı. Törene TBMM Başkanı Numan Kurtulmuş ve İçişleri Bakanı Mustafa Çiftçi de katıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gercegin-pesinde-kosmadan-gazetecilik-yapilmaz-43357343",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "gazet",
-    "gerce",
-    "kosma",
-    "pesin",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "65eec721b77f": {
-   "id": "65eec721b77f",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakırköy Belediyesi’ne operasyon... 5’i başkan yardımcısı 56 gözaltı",
-   "ozet": "Bakırköy Belediyesi’ne ‘ihaleye fesat karıştırma’ ve ‘irtikap’ iddiasıyla düzenlenen operasyonda aralarında 5 başkan yardımcısı ve 2 meclis üyesinin bulunduğu 68 şüpheli hakkında gözaltı kararı verildi. 56 şüpheli gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-operasyon-5i-baskan-yardimcisi-56-gozalti-43357346",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "56",
-    "bakir",
-    "baska",
-    "beled",
-    "gozal",
-    "opera",
-    "yardi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "35e91bfc97e1"
-  },
-  "5f91c4ccaf3a": {
-   "id": "5f91c4ccaf3a",
-   "kaynak": "Hürriyet",
-   "baslik": "Bütçede öncelik emekli",
-   "ozet": "TBMM Plan ve Bütçe Komisyonu, 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi ve 2025 Yılı Merkezi Yönetim Kesin Hesap Kanunu Teklifi’nin geneli ile Sayıştay raporlarını görüşmek üzere Komisyon Başkanı Mehmet Muş başkanlığında toplandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/butcede-oncelik-emekli-43357348",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "butce",
-    "emekl",
-    "oncel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "66cf1adeec48": {
-   "id": "66cf1adeec48",
-   "kaynak": "Hürriyet",
-   "baslik": "Özgür Özel: ‘Fon yasası’ AYM’ye gidecek",
-   "ozet": "Meclis’ten geçen ‘fon yasası’nı AYM’ye taşıyacaklarını açıklayan Özel, “İki farklı çalışma grubu oluşturduk. Birinci heyet mağdurlarla görüşecek. İkinci heyet cezaevinde bulunan fon tutuklularını ziyaret edecek” dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-fon-yasasi-aymye-gidecek-43357349",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "aym",
-    "fon",
-    "gidec",
-    "ozel",
-    "ozgur",
-    "yasas",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3c9c2d214e74": {
-   "id": "3c9c2d214e74",
-   "kaynak": "Hürriyet",
-   "baslik": "‘Kara para’ iddiasında 3 şüpheli tutuklandı",
-   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nca, Sarıgül ailesine yönelik ‘kara para aklama’ iddiasıyla yürütülen soruşturma kapsamında, gözaltına alınan 15 şüpheli emniyetteki işlemlerinin ardından, önceki gün Çağlayan’daki İstanbul Adalet Sarayı’na götürüldü.",
-   "link": "https://www.hurriyet.com.tr/gundem/kara-para-iddiasinda-3-supheli-tutuklandi-43357360",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "iddia",
-    "kara",
-    "para",
-    "suphe",
-    "tutuk"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-28T08:19:25.579016+03:00",
-   "ig_id": "18104479199326808",
-   "reels_id": "18042592547832698",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1618815363056212",
-   "slayt": 5,
-   "kanca": "3 ŞÜPHELİ TUTUKLANDI",
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "874196116535": {
-   "id": "874196116535",
-   "kaynak": "Hürriyet",
-   "baslik": "Sadettin Saran: Ne kullandım ne temin ettim",
-   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nın yürüttüğü uyuşturucu soruşturması kapsamında, işinsanı Steven Sadettin Saran ve spiker Ela Rümeysa Cebeci hakkında ‘uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama’ iddiasıyla 10’ar yıldan az olmamak üzere hapis istemiyle dava…",
-   "link": "https://www.hurriyet.com.tr/gundem/sadettin-saran-ne-kullandim-ne-temin-ettim-43357361",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "ettim",
-    "kulla",
-    "sadet",
-    "saran",
-    "temin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "300a4c9406ca": {
-   "id": "300a4c9406ca",
-   "kaynak": "Hürriyet",
-   "baslik": "O doktora 2.5 yıl ceza",
-   "ozet": "2000 yılında Süleymancılar olarak bilinen cemaatin liderliğine geçen Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un 2016’daki şüpheli ölümüne ilişkin hakkında ‘yalan tanıklık’ suçundan dava açılan tutuklu doktor Nurettin Demirkol (66) savunma yaptı.",
-   "link": "https://www.hurriyet.com.tr/gundem/o-doktora-2-5-yil-ceza-43357362",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "ceza",
-    "dokto",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c6941c0d14d9": {
-   "id": "c6941c0d14d9",
-   "kaynak": "Hürriyet",
-   "baslik": "Güllü’nün katil kızı hakkında kan donduran suçlama",
-   "ozet": "‘Güllü’ adıyla tanınan annesi şarkıcı Gül Tut’u öldürdüğü gerekçesiyle ağırlaştırılmış müebbet hapis cezasına çarptırılan Tuğyan Ülkem Gülter hakkında, özel bir hastanede hemşire olarak çalıştığı dönemde, 'hastalara eziyet ettiği' iddiasıyla soruşturma başlatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gullunun-katil-kizi-hakkinda-kan-donduran-suclama-43357365",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "dondu",
-    "gullu",
-    "hakki",
-    "kan",
-    "katil",
-    "kizi",
-    "nun",
-    "sucla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3d8de280fdbb": {
-   "id": "3d8de280fdbb",
-   "kaynak": "Hürriyet",
-   "baslik": "Sesi duyup kaçanlar da soruşturulacak",
-   "ozet": "Kahramanmaraş’taki okul saldırısında 4 eğitimci hakkında soruşturma izni verildi. Rehber öğretmenin saldırganın şiddet eğilimine rağmen bildirimde bulunmadığı, okul müdürü, yardımcısı ile bir öğretmenin silah seslerini duyduktan sonra öğrencilerin güvenliğini sağlamadan okulu…",
-   "link": "https://www.hurriyet.com.tr/gundem/sesi-duyup-kacanlar-da-sorusturulacak-43357366",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "duyup",
-    "kacan",
-    "sesi",
-    "sorus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "05051bed662c": {
-   "id": "05051bed662c",
-   "kaynak": "Hürriyet",
-   "baslik": "‘Jel dolgulu oyuncak’ uyarısı: Oynarken yakabilir",
-   "ozet": "Son zamanlarda popüler olan jel dolgulu oyuncaklar için Türk Dermatoloji Derneği’nden çok önemli bir uyarı geldi: “Bu oyuncakları mikrodalga fırında ısıtmayın, güneşte bekletmeyin. Oyuncak ısınınca patlıyor ve ciltte ciddi yanığa neden oluyor.”",
-   "link": "https://www.hurriyet.com.tr/gundem/jel-dolgulu-oyuncak-uyarisi-oynarken-yakabilir-43357373",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "dolgu",
-    "jel",
-    "oynar",
-    "oyunc",
-    "uyari",
-    "yakab"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3711a1c525d5": {
-   "id": "3711a1c525d5",
-   "kaynak": "Hürriyet",
-   "baslik": "Antalya’da hortum kâbusu; 4 ölü 1 yaralı… Önüne geleni yutup geçti",
-   "ozet": "Antalya’da bir inşaat alanında çıkan hortumda işçilerin kaldığı 2 konteyner parçalandı, kule vinci devrildi. 4 işçi hayatını kaybetti, 1 işçi yaralandı. ‘Hücresel hortum’un koskoca inşaat alanında dar bir bölgede etkili olup 2 konteyneri parçalaması ise şoke etti...",
-   "link": "https://www.hurriyet.com.tr/gundem/antalyada-hortum-kabusu-4-olu-1-yarali-onune-geleni-yutup-gecti-43357375",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "antal",
-    "gecti",
-    "gelen",
-    "hortu",
-    "kabus",
-    "olu",
-    "onune",
-    "yaral",
-    "yutup"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "619c5a921394"
-  },
-  "e25814516de5": {
-   "id": "e25814516de5",
-   "kaynak": "Hürriyet",
-   "baslik": "Beştepe’de sürpriz zirve: En sıcak başlık Terörsüz Türkiye",
-   "ozet": "Beştepe’de dün sürpriz bir buluşma yaşandı. Cumhurbaşkanı Erdoğan, MHP Genel Başkanı Devlet Bahçeli ile bir araya geldi. Yaklaşık 1 saat süren kritik görüşmede, dış politika ve ekonomideki gelişmelerin yanı sıra Terörsüz Türkiye sürecinin ele alındığı bildirildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bestepede-surpriz-zirve-en-sicak-baslik-terorsuz-turkiye-43357389",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "basli",
-    "beste",
-    "sicak",
-    "surpr",
-    "teror",
-    "turki",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "824df258dac4": {
-   "id": "824df258dac4",
-   "kaynak": "Hürriyet",
-   "baslik": "Siber güvenlikte dijital egemenlik vurgusu",
-   "ozet": "Siber Güvenlik Kurulu, Cumhurbaşkanı Erdoğan başkanlığında toplandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/siber-guvenlikte-dijital-egemenlik-vurgusu-43357392",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "dijit",
-    "egeme",
-    "guven",
-    "siber",
-    "vurgu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e7f703e535c8"
-  },
-  "4b01a6d0d4be": {
-   "id": "4b01a6d0d4be",
-   "kaynak": "Hürriyet",
-   "baslik": "Mekke Anlaşması komisyondan geçti",
-   "ozet": "TÜRKİYE, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşması, yasamada ilk durağı olan TBMM Dışişleri Komisyonu’ndan geçti.",
-   "link": "https://www.hurriyet.com.tr/gundem/mekke-anlasmasi-komisyondan-gecti-43357393",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "anlas",
-    "gecti",
-    "komis",
-    "mekke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d25b7334eb29"
-  },
-  "e2cc00d7e8e5": {
-   "id": "e2cc00d7e8e5",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul’da randevu hem ucuz hem pahalı",
-   "ozet": "Deutsche Bank’ın araştırmasına göre İstanbul, romantik bir randevu için Avrupa’nın en ucuz şehri oldu. 168 Euro tutarındaki randevu sepeti, ortalama aylık gelirle kıyaslandığında ise Avrupa’nın en pahalı ikinci şehri.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-randevu-hem-ucuz-hem-pahali-43357399",
-   "zaman": "2026-10-28T07:00:00+03:00",
-   "kelimeler": [
-    "hem",
-    "istan",
-    "pahal",
-    "rande",
-    "ucuz"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "943baf02bfa8": {
    "id": "943baf02bfa8",
    "kaynak": "NTV",
@@ -30598,8 +30249,17 @@
     "tutuk",
     "yonel"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-10-31T07:03:42.989733+03:00",
+   "ig_id": "17935668513147656",
+   "reels_id": "18084707147709719",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2152830596118950",
+   "slayt": 5,
+   "kanca": "BELEDİYE BAŞKANI TUTUKLANDI"
   },
   "c341f2036a2c": {
    "id": "c341f2036a2c",
@@ -30622,9 +30282,83 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9e213b40c31e"
+  },
+  "8a26521bca3b": {
+   "id": "8a26521bca3b",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB acı haberi duyurdu: Hakkari'de hudut geçiş olayına müdahale ederken yaralanan askerimiz şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı P. Söz. Er Yusuf Sait Ünlü, hudut geçiş olayına müdahale sırasında açılan ateşle yaralandığını helikopterle kaldırıldığı hastanede yapılan tüm müdahalelere rağmen şehit olduğunu duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/msb-aci-haberi-duyurdu-1-askerimiz-sehit-oldu-43361258",
+   "zaman": "2026-10-31T06:53:00+03:00",
+   "kelimeler": [
+    "aci",
+    "asker",
+    "duyur",
+    "ederk",
+    "gecis",
+    "hakka",
+    "hudut",
+    "msb",
+    "mudah",
+    "olayi",
+    "sehit",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "Sözcü"
+   ]
+  },
+  "9e5bfdaa0a7f": {
+   "id": "9e5bfdaa0a7f",
+   "kaynak": "AA",
+   "baslik": "Hakkari'de hudut geçiş olayına müdahale ederken açılan ateşle yaralanan asker şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Hakkari Yüksekova'da hudut geçiş olayına müdahale sırasında açılan ateşle yaralanan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün kaldırıldığı hastanede yapılan müdahaleye rağmen şehit olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu/4107021",
+   "zaman": "2026-10-31T06:53:11+03:00",
+   "kelimeler": [
+    "acila",
+    "asker",
+    "atesl",
+    "ederk",
+    "gecis",
+    "hakka",
+    "hudut",
+    "mudah",
+    "olayi",
+    "sehit",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8a26521bca3b"
+  },
+  "e46be40a096e": {
+   "id": "e46be40a096e",
+   "kaynak": "Sözcü",
+   "baslik": "Hudut geçişine müdahalede ateş açıldı: Bir asker şehit",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/hudut-gecisine-mudahalede-ates-acildi-bir-asker-sehit-p374482",
+   "zaman": "2026-10-31T06:58:10+03:00",
+   "kelimeler": [
+    "acild",
+    "asker",
+    "ates",
+    "gecis",
+    "hudut",
+    "mudah",
+    "sehit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8a26521bca3b"
   }
  },
  "kayit": [
+  "31.10 07:03:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Denizli'de Merkezefendi Belediyesine yönelik soruşturmada 5 şüpheli tu",
+  "31.10 07:01:35  1 yeni haber",
   "31.10 06:31:16  1 yeni haber",
   "31.10 03:46:05  2 yeni haber",
   "31.10 03:31:24  2 yeni haber",
@@ -30822,9 +30556,7 @@
   "29.10 01:01:25  1 yeni haber",
   "29.10 00:46:10  1 yeni haber",
   "29.10 00:35:23  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
-  "29.10 00:32:21  1 yeni haber",
-  "29.10 00:04:30  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · ABD Merkez Bankası (FED), faiz oranlarını %3,75-4 seviyesinde sabit bı",
-  "29.10 00:01:58  3 yeni haber"
+  "29.10 00:32:21  1 yeni haber"
  ],
  "otomatik": false
 }
