@@ -1,83 +1,5 @@
 {
  "haberler": {
-  "12143a71c526": {
-   "id": "12143a71c526",
-   "kaynak": "AA",
-   "baslik": "Deniz Kuvvetleri Komutanlığına bağlı 29 gemi, Cumhuriyet Bayramı'nda 29 limanı ziyaret edecek",
-   "ozet": "Milli Savunma Bakanlığı (MSB), Deniz Kuvvetleri Komutanlığına bağlı 29 gemiyle 29 Ekim Cumhuriyet Bayramı'nda 29 liman ziyareti yapılacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/deniz-kuvvetleri-komutanligina-bagli-29-gemi-cumhuriyet-bayraminda-29-limani-ziyaret-edecek/4104342",
-   "zaman": "2026-10-28T22:21:09+03:00",
-   "kelimeler": [
-    "29",
-    "bagli",
-    "bayra",
-    "cumhu",
-    "deniz",
-    "edece",
-    "gemi",
-    "komut",
-    "kuvve",
-    "liman",
-    "nda",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "69b3a54d3dcf": {
-   "id": "69b3a54d3dcf",
-   "kaynak": "NTV",
-   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 28 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1748413",
-   "zaman": "2026-10-28T22:27:52+03:00",
-   "kelimeler": [
-    "2026",
-    "28",
-    "acikl",
-    "bilet",
-    "buldu",
-    "cilgi",
-    "dev",
-    "ekim",
-    "ekran",
-    "ikram",
-    "loto",
-    "mpi",
-    "sahib",
-    "sayis",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "99621e514c74"
-  },
-  "0b3c134af2b5": {
-   "id": "0b3c134af2b5",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanı Duran'dan Kazakistan Cumhurbaşkanı Tokayev'in Türkiye ziyaretine ilişkin paylaşım",
-   "ozet": "İletişim Başkanı Burhanettin Duran, \"Cumhurbaşkanımızın liderliğinde Türkiye Yüzyılı hedefleri doğrultusunda, dost ve ortak ülkelerle ilişkilerimizi daha ileriye taşımaya ve ortak geleceğimizi güçlendirmeye devam ediyoruz.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-kazakistan-cumhurbaskani-tokayevin-turkiye-ziyaretine-iliskin-paylasim/4104347",
-   "zaman": "2026-10-28T22:29:08+03:00",
-   "kelimeler": [
-    "baska",
-    "cumhu",
-    "dan",
-    "duran",
-    "ileti",
-    "ilisk",
-    "in",
-    "kazak",
-    "payla",
-    "tokay",
-    "turki",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "7ec510dabae6"
-  },
   "d4821e3aef99": {
    "id": "d4821e3aef99",
    "kaynak": "AA",
@@ -26827,7 +26749,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c24c78a68152": {
    "id": "c24c78a68152",
@@ -27696,7 +27621,10 @@
     "yuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "f8fd5d321555": {
    "id": "f8fd5d321555",
@@ -27717,6 +27645,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a78efbe05b35": {
+   "id": "a78efbe05b35",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir, Aydın ve Muğla için şiddetli yağış uyarısı",
+   "ozet": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmir-aydin-ve-mugla-icin-siddetli-yagis-uyarisi-961842.html",
+   "zaman": "2026-10-31T22:01:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "izmir",
+    "mugla",
+    "sidde",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "24a5a279a230"
+  },
+  "5ca9eed3cd34": {
+   "id": "5ca9eed3cd34",
+   "kaynak": "Hürriyet",
+   "baslik": "Yük treninde kimyasal sızıntı alarmı! Ekipler devreye girdi, vagon karantinaya alındı",
+   "ozet": "Eskişehir’den Kayseri’ye yük taşıyan trende kimyasal sızıntı tespit edilmesi ekipleri harekete geçirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yuk-treninde-kimyasal-sizinti-alarmi-ekipler-devreye-girdi-vagon-karantinaya-alindi-43361981",
+   "zaman": "2026-10-31T22:19:55+03:00",
+   "kelimeler": [
+    "alarm",
+    "alind",
+    "devre",
+    "ekipl",
+    "girdi",
+    "karan",
+    "kimya",
+    "sizin",
+    "treni",
+    "vagon",
+    "yuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1de13f8bf99"
   }
  },
  "kayit": [
