@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "943baf02bfa8": {
-   "id": "943baf02bfa8",
-   "kaynak": "NTV",
-   "baslik": "Ankara'da yol kenarında ceset bulundu",
-   "ozet": "Ankara'nın Polatlı ilçesinde yol kenarında ceset bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-yol-kenarinda-ceset-bulundu-1748271",
-   "zaman": "2026-10-28T07:07:29+03:00",
-   "kelimeler": [
-    "ankar",
-    "bulun",
-    "ceset",
-    "kenar",
-    "yol"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a5c87a87adf9"
-  },
-  "8cb44352797a": {
-   "id": "8cb44352797a",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara'da otomobil tıra çarptı: 1 ölü",
-   "ozet": "Ankara'nın Çubuk ilçesinde otomobilin tıra arkadan çarpması sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ankarada-otomobil-tira-carpti-1-olu-961427.html",
-   "zaman": "2026-10-28T07:10:00+03:00",
-   "kelimeler": [
-    "ankar",
-    "carpt",
-    "olu",
-    "otomo",
-    "tira"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b3607087bef8": {
-   "id": "b3607087bef8",
-   "kaynak": "TRT Haber",
-   "baslik": "İklim değişikliği küresel sağlık acil durumu: Lancet raporu tehlikenin boyutunu gözler önüne serdi",
-   "ozet": "Paris Anlaşması'nın üzerinden 10 yıl geçmesine rağmen, University College London ve Dünya Sağlık Örgütü DSÖ iş birliğiyle hazırlanan 2026 Lancet Geri Sayım raporu, iklim değişikliğinin insan sağlığı üzerindeki olumsuz etkilerinin giderek hızlandığını ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/iklim-degisikligi-kuresel-saglik-acil-durumu-lancet-raporu-tehlikenin-boyutunu-gozler-onune-serdi-961428.html",
-   "zaman": "2026-10-28T07:11:00+03:00",
-   "kelimeler": [
-    "boyut",
-    "degis",
-    "durum",
-    "gozle",
-    "iklim",
-    "kures",
-    "lance",
-    "onune",
-    "rapor",
-    "sagli",
-    "serdi",
-    "tehli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "baa7f0092c4f": {
-   "id": "baa7f0092c4f",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye ile Sri Lanka arasında iş birliği anlaşması",
-   "ozet": "Türkiye ile Sri Lanka arasındaki hava ulaştırma ilişkilerinin geliştirilmesi amacıyla İkili Hava Ulaştırma Anlaşması'nı tadil eden protokol imzalandı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-sri-lanka-arasinda-is-birligi-anlasmasi-961429.html",
-   "zaman": "2026-10-28T07:13:00+03:00",
-   "kelimeler": [
-    "anlas",
-    "arasi",
-    "birli",
-    "is",
-    "lanka",
-    "sri",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "5f84713729e3": {
    "id": "5f84713729e3",
    "kaynak": "Hürriyet",
@@ -22095,7 +22014,10 @@
     "yapil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "8b881d97bd86": {
    "id": "8b881d97bd86",
@@ -24008,7 +23930,10 @@
     "veril"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "35c11f133b6d": {
    "id": "35c11f133b6d",
@@ -25659,7 +25584,10 @@
     "tarih"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "4d5088e1a9d1": {
    "id": "4d5088e1a9d1",
@@ -26385,7 +26313,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "99b03f4fe73e": {
    "id": "99b03f4fe73e",
@@ -30165,7 +30096,10 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "9e213b40c31e": {
    "id": "9e213b40c31e",
@@ -30354,9 +30288,334 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8a26521bca3b"
+  },
+  "17cd569d4f52": {
+   "id": "17cd569d4f52",
+   "kaynak": "Hürriyet",
+   "baslik": "Reziller",
+   "ozet": "Liseli kızını 3 yıl boyunca cinsel istismara maruz bırakan baba ile ona yardım eden anneye indirimsiz en üst sınırdan 30’ar yıl hapis cezası verildi. Mahkeme, annenin ‘müşterek fail’ olduğuna hükmetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/reziller-43361179",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "rezil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3df86c806d5d": {
+   "id": "3df86c806d5d",
+   "kaynak": "Hürriyet",
+   "baslik": "4 faili meçhul cinayet daha aydınlatıldı",
+   "ozet": "ADALET Bakanı Akın Gürlek, 4 ilde yıllardır faili meçhul kalan 4 cinayetin yeniden yürütülen soruşturmalarla aydınlatıldığını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/4-faili-mechul-cinayet-daha-aydinlatildi-43361183",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "cinay",
+    "faili",
+    "mechu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "763f7e6626f5"
+  },
+  "94296c4c95b0": {
+   "id": "94296c4c95b0",
+   "kaynak": "Hürriyet",
+   "baslik": "Karaborsa biletçilerine 8 yıl istendi",
+   "ozet": "TÜPRAŞ Stadyumu’nda 2 Kasım 2025’te oynanan Beşiktaş-Fenerbahçe maçının deplasman tribünü biletlerinin bot yazılımları kullanılarak toplu şekilde satın alındığı ve karaborsada değerinin üzerinde satıldığı iddiasına ilişkin soruşturma tamamlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/karaborsa-biletcilerine-8-yil-istendi-43361184",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "bilet",
+    "isten",
+    "karab",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ce26af8631f9": {
+   "id": "ce26af8631f9",
+   "kaynak": "Hürriyet",
+   "baslik": "Soruşturma derinleştirildi",
+   "ozet": "Çocuğunu öldürmekle tehdit ederek Aydın’dan 1 milyon Euro para isteyen 4 yeni nesil suç örgütü üyesi yakalandı. Şüphelilerin medyada çıkan asılsız haberler üzerine, ‘parası’ nedeniyle Aydın ile temasa geçtiğini değerlendiren emniyet ekipleri soruşturmayı derinleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sorusturma-derinlestirildi-43361185",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "derin",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "429a9a4e96b7": {
+   "id": "429a9a4e96b7",
+   "kaynak": "Hürriyet",
+   "baslik": "Hizmetçi firarda yeni dalga yolda: 10 soruda Sarıgül soruşturmaları",
+   "ozet": "Mustafa Sarıgül’ün merkezinde olduğu ‘kara para’ ve ‘cinsel saldırı’ konulu soruşturmalara dair detayları derledik. Sarıgül’ün ‘özel’ görüntülerini çektiği iddia edilen ‘Firuzan’ adlı hizmetçi yurtdışında ve ‘firari’ konumda. Ayrıca yeni operasyonlar da bekleniyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/hizmetci-firarda-yeni-dalga-yolda-10-soruda-sarigul-sorusturmalari-43361196",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "10",
+    "dalga",
+    "firar",
+    "hizme",
+    "sarig",
+    "sorud",
+    "sorus",
+    "yeni",
+    "yolda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ad1662bb2e4b": {
+   "id": "ad1662bb2e4b",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan’dan Türk dünyasına mesaj: Ayrılığa gayrılığa yer yok",
+   "ozet": "Ankara’da bir araya gelen Türk Devletleri Teşkilatı’na seslenen Cumhurbaşkanı Tayyip Erdoğan “Türk dünyasının aile fotoğrafında ayrılığa, gayrılığa, ihtilafa yer yoktur. Hepimiz biriz, beraberiz, ezelden ebede kadar inşallah kardeşiz” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogandan-turk-dunyasina-mesaj-ayriliga-gayriliga-yer-yok-43361197",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "ayril",
+    "dan",
+    "dunya",
+    "erdog",
+    "gayri",
+    "mesaj",
+    "turk",
+    "yer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f91978b1e1ad"
+  },
+  "62a00885a7f5": {
+   "id": "62a00885a7f5",
+   "kaynak": "Hürriyet",
+   "baslik": "Klasik çetesi çökertildi",
+   "ozet": "Yurtdışından kaçak olarak getirilen klasik değerli araçlara atıl durumdaki hasarlı araçların şase numarasını ekleyip, yeni kimlik kazandırarak satışa çıkaran şebeke çökertildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/klasik-cetesi-cokertildi-43361198",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "cetes",
+    "coker",
+    "klasi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e412f6c241c1": {
+   "id": "e412f6c241c1",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakırköy operasyonu... 63 şüpheli adliyede",
+   "ozet": "BAKIRKÖY Belediyesi’ne yönelik “ihaleye fesat karıştırma” ve “irtikap” soruşturmasında, aralarında belediye başkan yardımcıları ile Belediye Başkanı Ayşegül Ovalıoğlu’nun babası ve dayısının da bulunduğu 63 şüpheli, Bakırköy Adliyesi’ne sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakirkoy-operasyonu-63-supheli-adliyede-43361202",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "63",
+    "adliy",
+    "bakir",
+    "opera",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c9bb7c68b52b"
+  },
+  "f957aaccad55": {
+   "id": "f957aaccad55",
+   "kaynak": "Hürriyet",
+   "baslik": "FETÖ’nün finansörlerine operasyon",
+   "ozet": "FETÖ/PDY silahlı terör örgütüne yönelik yürütülen soruşturma kapsamında, sözde sorumlu oldukları bölgelerdeki işinsanları ve esnaflarla irtibat kurup örgüt için para topladıkları belirlenen 10 şüpheli yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fetonun-finansorlerine-operasyon-43361203",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "feto",
+    "finan",
+    "nun",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "30b9ba5f35d7"
+  },
+  "e83038c1bff4": {
+   "id": "e83038c1bff4",
+   "kaynak": "Hürriyet",
+   "baslik": "MİT, DEAŞ’lı Bahadır’ı Afganistan Pakistan sınırında yakaladı",
+   "ozet": "MİT, yaptığı istihbari çalışmalarda yerini belirlediği terör örgütü DEAŞ üyesi Uğur Bahadır’ı, Afganistan-Pakistan alanında yakalayarak, Türkiye’ye getirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mit-deasli-bahadiri-afganistan-pakistan-sinirinda-yakaladi-43361205",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "afgan",
+    "bahad",
+    "deas",
+    "li",
+    "mit",
+    "pakis",
+    "sinir",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5405662e2527": {
+   "id": "5405662e2527",
+   "kaynak": "Hürriyet",
+   "baslik": "Dervişoğlu’ndan o poza açıklama",
+   "ozet": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Anıtkabir’de MHP Genel Başkanı Devlet Bahçeli’nin koluna girip yürümesine gelen eleştirilere, “Anıtkabir’den inerken bu zamana kadar çok kişinin koluna girdim.",
+   "link": "https://www.hurriyet.com.tr/gundem/dervisoglundan-o-poza-aciklama-43361206",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "dervi",
+    "ndan",
+    "poza"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "47c0f89d26d9": {
+   "id": "47c0f89d26d9",
+   "kaynak": "Hürriyet",
+   "baslik": "AYM’den 3 önemli karar... Okul değiştirme cezasına ihlal ve tazminat",
+   "ozet": "ANAYASA Mahkemesi (AYM), eğitimden emekliliğe, memur maaşlarından adil yargılanma hakkına kadar milyonlarca kişiyi ilgilendirebilecek üç önemli hak ihlali kararı verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/aymden-3-onemli-karar-okul-degistirme-cezasina-ihlal-ve-tazminat-43361207",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "aym",
+    "cezas",
+    "degis",
+    "den",
+    "ihlal",
+    "karar",
+    "okul",
+    "oneml",
+    "tazmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3b61eff943a3"
+  },
+  "eb7f3ce04b6f": {
+   "id": "eb7f3ce04b6f",
+   "kaynak": "Hürriyet",
+   "baslik": "Test sürüşü Özel’den İstanbul’a yeni metro hattı",
+   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, İstanbul Büyükşehir Belediyesi (İBB) tarafından yapımı sürdürülen ve bu yıl sonunda hizmete alınması planlanan toplam 13 kilometre uzunluğunda, 11 istasyondan oluşan Ümraniye-Ataşehir-Göztepe Metro Hattı’nın test sürüşüne katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/test-surusu-ozelden-istanbula-yeni-metro-hatti-43361209",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "hatti",
+    "istan",
+    "metro",
+    "ozel",
+    "surus",
+    "test",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3273f8c6bef3"
+  },
+  "7a448f5b4fe7": {
+   "id": "7a448f5b4fe7",
+   "kaynak": "Hürriyet",
+   "baslik": "Görüntü sahte, utanç gerçek... ‘Yapay zekâlı şantaj’a dikkat",
+   "ozet": "UNICEF raporuna göre, 21 ülkede 12-17 yaş arasındaki yaklaşık 30 milyon çocuk yalnızca bir yıl içinde teknoloji aracılığıyla gerçekleşen cinsel sömürü ve istismara maruz kaldı. İstismar aracı ise önemli bir kısmında, yapay zekâ ile üretilen görüntülerle yapılan şantajlar...",
+   "link": "https://www.hurriyet.com.tr/gundem/goruntu-sahte-utanc-gercek-yapay-zekali-santaja-dikkat-43361214",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "dikka",
+    "gerce",
+    "gorun",
+    "sahte",
+    "santa",
+    "utanc",
+    "yapay",
+    "zekal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "757c35a194b5": {
+   "id": "757c35a194b5",
+   "kaynak": "Hürriyet",
+   "baslik": "LGS tarihi belli oldu",
+   "ozet": "Milli Eğitim Bakanlığı (MEB) Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü’nce 2027 Yılı Sınav Uygulama Takvimi yayımlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/lgs-tarihi-belli-oldu-43361232",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "belli",
+    "lgs",
+    "tarih"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bc5adc131ddd"
+  },
+  "770746cca607": {
+   "id": "770746cca607",
+   "kaynak": "Hürriyet",
+   "baslik": "‘The İstihdam’da altı Türk okulu",
+   "ozet": "ULUSLARARASI yükseköğretim araştırma kuruluşu Emerging Group tarafından hazırlanan ve Times Higher Education (THE) tarafından yayımlanan Küresel Üniversite İstihdam Edilebilirlik Sıralaması 2027 (GEURS 2027) araştırması, 40 ülkeden 15 bin 665 nitelikli katılımcının görüşlerine…",
+   "link": "https://www.hurriyet.com.tr/gundem/the-istihdamda-alti-turk-okulu-43361234",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "alti",
+    "istih",
+    "okulu",
+    "the",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7f23afaecb4b": {
+   "id": "7f23afaecb4b",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Tekin’den ortak sınav açıklaması",
+   "ozet": "TÜRKİYE’nin ilk gastronomi lisesi olan Erzurum’daki Ülker Gastronomi Mesleki ve Teknik Anadolu Lisesi’nin açılışının ardından gazetecilerle bir araya gelen Milli Eğitim Bakanı Yusuf Tekin, eğitim gündemine ilişkin açıklamalarda bulundu ve soruları yanıtladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-tekinden-ortak-sinav-aciklamasi-43361235",
+   "zaman": "2026-10-31T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "den",
+    "ortak",
+    "sinav",
+    "tekin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2c4a6ec81257"
+  },
+  "7f488b832a3e": {
+   "id": "7f488b832a3e",
+   "kaynak": "Sözcü",
+   "baslik": "‘Mumya ceset’ dosyası 19 yıl sonra yeniden açıldı: 6 gözaltı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mumya-ceset-dosyasi-19-yil-sonra-yeniden-acildi-6-gozalti-p374484",
+   "zaman": "2026-10-31T07:00:05+03:00",
+   "kelimeler": [
+    "19",
+    "acild",
+    "ceset",
+    "dosya",
+    "gozal",
+    "mumya",
+    "yenid",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ca82dae1d4f4"
   }
  },
  "kayit": [
+  "31.10 07:15:58  9 yeni haber",
   "31.10 07:03:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Denizli'de Merkezefendi Belediyesine yönelik soruşturmada 5 şüpheli tu",
   "31.10 07:01:35  1 yeni haber",
   "31.10 06:31:16  1 yeni haber",
@@ -30555,8 +30814,7 @@
   "29.10 01:03:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Üç aracın karıştığı kazada 1 polis şehit oldu; 11 yaralı var",
   "29.10 01:01:25  1 yeni haber",
   "29.10 00:46:10  1 yeni haber",
-  "29.10 00:35:23  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
-  "29.10 00:32:21  1 yeni haber"
+  "29.10 00:35:23  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu"
  ],
  "otomatik": false
 }
