@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "a0b0d48aba95": {
-   "id": "a0b0d48aba95",
-   "kaynak": "AA",
-   "baslik": "Antalya'da hortum nedeniyle parçalanan iki konteynerdeki 4 kişinin ölümüne ilişkin 2 zanlı tutuklandı",
-   "ozet": "Antalya'nın Kepez ilçesinde hortum nedeniyle iki konteynerin parçalanması sonucu 4 kişinin hayatını kaybettiği, 1 kişinin yaralandığı olaya ilişkin gözaltına alınan 4 şüpheliden 2'si tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/antalyada-hortum-nedeniyle-parcalanan-iki-konteynerdeki-4-kisinin-olumune-iliskin-2-zanli-tutuklandi/4103843",
-   "zaman": "2026-10-28T15:55:48+03:00",
-   "kelimeler": [
-    "antal",
-    "hortu",
-    "iki",
-    "ilisk",
-    "kisin",
-    "konte",
-    "neden",
-    "olumu",
-    "parca",
-    "tutuk",
-    "zanli"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ]
-  },
-  "8589632540d0": {
-   "id": "8589632540d0",
-   "kaynak": "Hürriyet",
-   "baslik": "Görenleri korku saldı! Eskişehir'deki otomobil polisi harekete geçirdi",
-   "ozet": "Eskişehir'de akılalmaz bir olay yaşandı. Kaputunda kan lekesi ve içinde ceset bulunan torba figürü görenleri şaşkına çevirdi. Polisi harekete geçirirken aracın sahibi ve içerik üreticisi, ifade işlemleri için karakola götürüldü.",
-   "link": "https://www.hurriyet.com.tr/gundem/gorenleri-korku-saldi-eskisehirdeki-otomobil-polisi-harekete-gecirdi-43358300",
-   "zaman": "2026-10-28T15:57:00+03:00",
-   "kelimeler": [
-    "deki",
-    "eskis",
-    "gecir",
-    "goren",
-    "harek",
-    "korku",
-    "otomo",
-    "polis",
-    "saldi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "26bffbce831e": {
    "id": "26bffbce831e",
    "kaynak": "NTV",
@@ -28761,7 +28713,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "54680c5de385": {
@@ -28827,9 +28780,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "45a50b20cc04": {
+   "id": "45a50b20cc04",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler zeytin toplayan çiftçileri hedef aldı",
+   "ozet": "İşgal altındaki Batı Şeria'da zeytin hasadı yapan Filistinli çiftçiler, İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin saldırılarına maruz kaldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-filistin-topraklarini-gasbeden-israilliler-zeytin-toplayan-ciftcileri-hedef-aldi/4107347",
+   "zaman": "2026-10-31T15:48:35+03:00",
+   "kelimeler": [
+    "aldi",
+    "ciftc",
+    "filis",
+    "gasbe",
+    "hedef",
+    "israi",
+    "ordus",
+    "topla",
+    "topra",
+    "zeyti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8e469dbf29f1": {
+   "id": "8e469dbf29f1",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan şehit ailesine başsağlığı mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün ailesine başsağlığı diledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-sehit-ailesine-bassagligi-mesaji-43361730",
+   "zaman": "2026-10-31T15:50:27+03:00",
+   "kelimeler": [
+    "ailes",
+    "bassa",
+    "cumhu",
+    "dan",
+    "erdog",
+    "mesaj",
+    "sehit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "968205960561"
+  },
+  "7c8aa56e80a7": {
+   "id": "7c8aa56e80a7",
+   "kaynak": "TRT Haber",
+   "baslik": "Yurt genelinde sıcaklıklar hissedilebilir derecede azalacak",
+   "ozet": "Hafta başında mevsim normalleri civarında ve kuzey kesimlerde yer yer mevsim normallerinin üzerinde seyretmesi beklenen hava sıcaklıklarının, perşembe gününden itibaren batı bölgelerden başlayarak yurt genelinde hissedilir derecede düşeceği bildirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-sicakliklar-hissedilebilir-derecede-azalacak-961827.html",
+   "zaman": "2026-10-31T15:54:00+03:00",
+   "kelimeler": [
+    "azala",
+    "derec",
+    "genel",
+    "hisse",
+    "sicak",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "31.10 16:01:19  2 yeni haber",
   "31.10 15:55:40  1 yeni haber",
   "31.10 15:45:57  4 yeni haber",
   "31.10 15:32:11  2 yeni haber",
@@ -29028,8 +29042,7 @@
   "29.10 12:31:14  8 yeni haber",
   "29.10 12:15:56  8 yeni haber",
   "29.10 12:01:26  2 yeni haber",
-  "29.10 11:48:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şişli’de korkunç olay! Kaza sonrası servis şoförünü alıkoyup 80 bin li",
-  "29.10 11:46:09  12 yeni haber"
+  "29.10 11:48:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şişli’de korkunç olay! Kaza sonrası servis şoförünü alıkoyup 80 bin li"
  ],
  "otomatik": false
 }
