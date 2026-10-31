@@ -1,37 +1,5 @@
 {
  "haberler": {
-  "b64edfaf42d1": {
-   "id": "b64edfaf42d1",
-   "kaynak": "Sözcü",
-   "baslik": "Üç aracın karıştığı kazada 1 polis şehit oldu; 11 yaralı var",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/van-hakkari-kara-yolu-polis-memuru-tayfun-akalan-hayatini-kaybetti-p373762",
-   "zaman": "2026-10-29T00:25:14+03:00",
-   "kelimeler": [
-    "11",
-    "araci",
-    "karis",
-    "kazad",
-    "polis",
-    "sehit",
-    "uc",
-    "yaral"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-29T01:03:51.191981+03:00",
-   "ig_id": "18078477740460839",
-   "reels_id": "18121538065945345",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1098821386302904",
-   "slayt": 5,
-   "kanca": "1 POLİS ŞEHİT",
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "4a15bfafa6eb": {
    "id": "4a15bfafa6eb",
    "kaynak": "AA",
@@ -27614,7 +27582,10 @@
     "zorun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0ebda287f969": {
    "id": "0ebda287f969",
@@ -27632,7 +27603,11 @@
     "spk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "Hürriyet"
+   ]
   },
   "5053e72563c9": {
    "id": "5053e72563c9",
@@ -27652,9 +27627,114 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "25fa2e762971": {
+   "id": "25fa2e762971",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan: Rusya ve Ukrayna bir anlaşmaya varmak zorunda",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, RusyaUkrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-961848.html",
+   "zaman": "2026-11-01T00:03:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "bakan",
+    "fidan",
+    "rusya",
+    "ukray",
+    "varma",
+    "zorun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "13d7f226ac25"
+  },
+  "6da99802e91d": {
+   "id": "6da99802e91d",
+   "kaynak": "TRT Haber",
+   "baslik": "SPK Başkanlığına Muhsin Atcı atandı",
+   "ozet": "Resmi gazetede yayımlanan atama kararlarına göre, Sermaye Piyasası Kurulu SPK Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/spk-baskanligina-muhsin-atci-atandi-961847.html",
+   "zaman": "2026-11-01T00:08:00+03:00",
+   "kelimeler": [
+    "atand",
+    "atci",
+    "baska",
+    "muhsi",
+    "spk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0ebda287f969"
+  },
+  "b11c6dfad825": {
+   "id": "b11c6dfad825",
+   "kaynak": "Hürriyet",
+   "baslik": "SPK Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı",
+   "ozet": "Resmi Gazete'de yayımlanan atama kararlarına göre, Sermaye Piyasası Kurulu (SPK) Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/spk-baskanligina-vergi-denetim-kurulu-baskani-muhsin-atci-atandi-43362031",
+   "zaman": "2026-11-01T00:11:02+03:00",
+   "kelimeler": [
+    "atand",
+    "atci",
+    "baska",
+    "denet",
+    "kurul",
+    "muhsi",
+    "spk",
+    "vergi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0ebda287f969"
+  },
+  "fd989d611708": {
+   "id": "fd989d611708",
+   "kaynak": "Sözcü",
+   "baslik": "Altın Portakal'da 'Taş ve Tüy'e 6 ödül",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/altin-portakalda-tas-ve-tuye-6-odul-p374708",
+   "zaman": "2026-11-01T00:21:26+03:00",
+   "kelimeler": [
+    "altin",
+    "odul",
+    "porta",
+    "tas",
+    "tuy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4b127c1bba3": {
+   "id": "f4b127c1bba3",
+   "kaynak": "AA",
+   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "ozet": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4107675",
+   "zaman": "2026-11-01T00:24:42+03:00",
+   "kelimeler": [
+    "alma",
+    "atama",
+    "gazet",
+    "gorev",
+    "karar",
+    "resmi"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-01T00:33:33.490955+03:00",
+   "ig_id": "18657970048039484",
+   "reels_id": "18111042605613607",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1618689183371677",
+   "slayt": 5,
+   "kanca": "RESMİ GAZETE'DE YENİ ATAMALAR"
   }
  },
  "kayit": [
+  "01.11 00:33:33  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Atama ve görevden alma kararları Resmi Gazete'de",
+  "01.11 00:31:09  2 yeni haber",
   "01.11 00:16:13  4 yeni haber",
   "01.11 00:04:34  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Fenerbahçe tribünleri öfkeli!",
   "01.11 00:02:27  1 yeni haber",
@@ -27852,9 +27932,7 @@
   "29.10 20:47:13  2 yeni haber",
   "29.10 20:31:15  1 yeni haber",
   "29.10 20:15:58  4 yeni haber",
-  "29.10 20:01:22  2 yeni haber",
-  "29.10 19:46:10  2 yeni haber",
-  "29.10 19:34:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Cumhurbaşkanı Erdoğan: Türkiye Cumhuriyeti büyük kazanımlarla başarıda"
+  "29.10 20:01:22  2 yeni haber"
  ],
  "otomatik": false
 }
