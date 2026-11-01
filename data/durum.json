@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "a995622f9797": {
-   "id": "a995622f9797",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan ve Trump arasında 24 saat içinde ikinci görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Trump'la 24 saatte ikinci kez telefonda görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ve-trump-arasinda-24-saat-icinde-ikinci-gorustu-1748550",
-   "zaman": "2026-10-29T20:15:11+03:00",
-   "kelimeler": [
-    "24",
-    "arasi",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "icind",
-    "ikinc",
-    "saat",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "78df90418a23"
-  },
-  "e98c3d20bd0b": {
-   "id": "e98c3d20bd0b",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-   "ozet": "Amerika Birleşik Devletleri Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğanı telefonla arayarak Türk Devletleri Teşkilatı Liderler Zirvesi için başarı dileklerini iletti.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961663.html",
-   "zaman": "2026-10-29T20:12:00+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "78df90418a23"
-  },
-  "998cd3410dd8": {
-   "id": "998cd3410dd8",
-   "kaynak": "Hürriyet",
-   "baslik": "Güllü'nün kızı Tuğyan yoğun bakımda halay çekmişti.... O görüntüler soruşturma dosyasına girdi",
-   "ozet": "ŞARKICI Güllü'nün ölümünden suçlu bulunarak ağırlaştırılmış müebbet hapis cezasına çarptırılan kızı Tuğyan Ülkem Gülter hakkında, özel hastanede çalıştığı dönemde hastalara eziyet ettiği iddiasıyla başlatılan soruşturma sürerken, yoğun bakım ünitesinde bir personelle halay…",
-   "link": "https://www.hurriyet.com.tr/gundem/gullunun-kizi-tugyan-yogun-bakimda-halay-cekmisti-o-goruntuler-sorusturma-dosyasina-girdi-43359817",
-   "zaman": "2026-10-29T20:13:34+03:00",
-   "kelimeler": [
-    "bakim",
-    "cekmi",
-    "dosya",
-    "girdi",
-    "gorun",
-    "gullu",
-    "halay",
-    "kizi",
-    "nun",
-    "sorus",
-    "tugya",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü"
-   ]
-  },
   "fd7f8c1c8e0b": {
    "id": "fd7f8c1c8e0b",
    "kaynak": "Hürriyet",
@@ -20151,7 +20083,10 @@
     "yuvar"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "d65a958385bf": {
    "id": "d65a958385bf",
@@ -24323,9 +24258,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c15a6524b462": {
+   "id": "c15a6524b462",
+   "kaynak": "AA",
+   "baslik": "İsrail Cumhurbaşkanı, liderlerle istişarelerde koalisyon uzlaşması için çaba göstereceğini söyledi",
+   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, ülkede 27 Ekim'de sandıktan koalisyon belirsizliğinin çıktığı seçimlerin ardından liderlerle yapacağı istişare toplantılarında, koalisyon uzlaşması sağlanması yönünde çaba sarf edeceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-liderlerle-istisarelerde-koalisyon-uzlasmasi-icin-caba-gosterecegini-soyledi/4108127",
+   "zaman": "2026-11-01T19:03:04+03:00",
+   "kelimeler": [
+    "caba",
+    "cumhu",
+    "goste",
+    "israi",
+    "istis",
+    "koali",
+    "lider",
+    "soyle",
+    "uzlas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9f5d1298e3d4": {
+   "id": "9f5d1298e3d4",
+   "kaynak": "AA",
+   "baslik": "2026 Dünya Güreş Şampiyonası'nın \"enleri\"",
+   "ozet": "2026 Dünya Güreş Şampiyonası'nda müsabakalar tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/spor/2026-dunya-gures-sampiyonasinin-enleri/4108137",
+   "zaman": "2026-11-01T19:18:04+03:00",
+   "kelimeler": [
+    "2026",
+    "dunya",
+    "enler",
+    "gures",
+    "nin",
+    "sampi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "db1d2fb5ebeb": {
+   "id": "db1d2fb5ebeb",
+   "kaynak": "Hürriyet",
+   "baslik": "Kütahya'da kamyonet ile hafif ticari araç çarpıştı: 1 ölü, 3 yaralı",
+   "ozet": "Kütahya’nın Altıntaş ilçesinde süt toplama kamyoneti ile hafif ticari aracın çarpıştığı kazada 1 kişi yaşamını yitirirken, 3 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kutahyada-kamyonet-ile-hafif-ticari-arac-carpisti-1-olu-3-yarali-43362680",
+   "zaman": "2026-11-01T19:53:37+03:00",
+   "kelimeler": [
+    "arac",
+    "carpi",
+    "hafif",
+    "kamyo",
+    "kutah",
+    "olu",
+    "ticar",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9aba14d8b33d"
   }
  },
  "kayit": [
+  "01.11 20:16:03  2 yeni haber",
   "01.11 20:01:18  1 yeni haber",
   "01.11 19:46:15  3 yeni haber",
   "01.11 19:23:08  1 yeni haber",
@@ -24524,8 +24520,7 @@
   "30.10 15:31:19  8 yeni haber",
   "30.10 15:16:11  3 yeni haber",
   "30.10 15:01:19  3 yeni haber",
-  "30.10 14:45:59  5 yeni haber",
-  "30.10 14:37:06  1 yeni haber"
+  "30.10 14:45:59  5 yeni haber"
  ],
  "otomatik": false
 }
