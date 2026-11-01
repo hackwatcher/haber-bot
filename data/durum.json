@@ -1,116 +1,5 @@
 {
  "haberler": {
-  "ee98e385b6a7": {
-   "id": "ee98e385b6a7",
-   "kaynak": "Hürriyet",
-   "baslik": "İmzalar atıldı.... Türkiye ile Özbekistan arasında ticaret işbirliğinde yeni protokol",
-   "ozet": "TÜRKİYE ile Özbekistan arasındaki Tercihli Ticaret Anlaşması'nın kapsamının genişletilmesine ilişkin protokol, Cumhurbaşkanı Recep Tayyip Erdoğan ve Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'in huzurunda imzalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/imzalar-atildi-turkiye-ile-ozbekistan-arasinda-ticaret-isbirliginde-yeni-protokol-43359857",
-   "zaman": "2026-10-29T21:01:49+03:00",
-   "kelimeler": [
-    "arasi",
-    "atild",
-    "imzal",
-    "isbir",
-    "ozbek",
-    "proto",
-    "ticar",
-    "turki",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a174c2c9780a": {
-   "id": "a174c2c9780a",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhuriyet’in 103 yıllık ışığı Galata Kulesi’ni aydınlattı",
-   "ozet": "Cumhuriyet’in 103’üncü yıl dönümünde İstanbul’un simge yapılarından Galata Kulesi, Gazi Mustafa Kemal Atatürk’ün hafızalara kazınan fotoğrafları ve ay yıldızla aydınlandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhuriyetin-103-yillik-isigi-galata-kulesini-aydinlatti-43359865",
-   "zaman": "2026-10-29T21:07:33+03:00",
-   "kelimeler": [
-    "103",
-    "aydin",
-    "cumhu",
-    "galat",
-    "in",
-    "isigi",
-    "kules",
-    "ni",
-    "yilli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "AA"
-   ]
-  },
-  "0dd34cd7c816": {
-   "id": "0dd34cd7c816",
-   "kaynak": "NTV",
-   "baslik": "Cumhuriyet'in 103 yıllık ışığı Galata Kulesi'ni aydınlattı",
-   "ozet": "Cumhuriyet’in 103’üncü yıl dönümünde Galata Kulesi, Gazi Mustafa Kemal Atatürk’ün fotoğrafları ve ay yıldızla aydınlandı.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhuriyetin-103-yillik-isigi-galata-kulesini-aydinlatti-1748553",
-   "zaman": "2026-10-29T21:07:57+03:00",
-   "kelimeler": [
-    "103",
-    "aydin",
-    "cumhu",
-    "galat",
-    "in",
-    "isigi",
-    "kules",
-    "ni",
-    "yilli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a174c2c9780a"
-  },
-  "abec1cea69b1": {
-   "id": "abec1cea69b1",
-   "kaynak": "TRT Haber",
-   "baslik": "İsrail'deki çocuk istismarı olayıyla ilgili ABD'de gözaltılar yapıldı",
-   "ozet": "ABD'de, İsrail'de çocuklara yönelik cinsel istismar suçlarıyla bağlantılı olduğu öne sürülen bazı ABD vatandaşlarının gözaltına alındığı bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/israildeki-cocuk-istismari-olayiyla-ilgili-abdde-gozaltilar-yapildi-961666.html",
-   "zaman": "2026-10-29T21:13:00+03:00",
-   "kelimeler": [
-    "abd",
-    "cocuk",
-    "deki",
-    "gozal",
-    "ilgil",
-    "israi",
-    "istis",
-    "olayi",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "87a1798388a8": {
-   "id": "87a1798388a8",
-   "kaynak": "AA",
-   "baslik": "Dünya Hızlı ve Yıldırım Satranç Şampiyonası, İstanbul'da düzenlenecek",
-   "ozet": "Dünya Hızlı ve Yıldırım Satranç Şampiyonası, 25-31 Aralık 2026 tarihlerinde İstanbul'da düzenlenecek.",
-   "link": "https://www.aa.com.tr/tr/spor/dunya-hizli-ve-yildirim-satranc-sampiyonasi-istanbulda-duzenlenecek/4105374",
-   "zaman": "2026-10-29T21:15:35+03:00",
-   "kelimeler": [
-    "dunya",
-    "duzen",
-    "hizli",
-    "istan",
-    "sampi",
-    "satra",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "462e588602a2": {
    "id": "462e588602a2",
    "kaynak": "AA",
@@ -18158,7 +18047,10 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "6df36e68d380": {
    "id": "6df36e68d380",
@@ -24139,9 +24031,126 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "08cdc0c60f86"
+  },
+  "6163ce8605b9": {
+   "id": "6163ce8605b9",
+   "kaynak": "AA",
+   "baslik": "Kasımpaşa ile Beşiktaş, berabere kaldı",
+   "ozet": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa ile Beşiktaş, 2-2 berabere kaldı.",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ile-besiktas-berabere-kaldi/4108160",
+   "zaman": "2026-11-01T19:58:08+03:00",
+   "kelimeler": [
+    "berab",
+    "besik",
+    "kaldi",
+    "kasim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cc2cc6590884": {
+   "id": "cc2cc6590884",
+   "kaynak": "AA",
+   "baslik": "ABD'de Cadılar Bayramı kutlamaları sırasında düzenlenen silahlı saldırılarda en az 6 kişi yaşamını yitirdi",
+   "ozet": "ABD'de Cadılar Bayramı sırasında farklı kentlerin eğlence bölgelerinde meydana gelen silahlı saldırılarda en az 6 kişi hayatını kaybetti, onlarca kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
+   "zaman": "2026-11-01T20:54:43+03:00",
+   "kelimeler": [
+    "abd",
+    "az",
+    "bayra",
+    "cadil",
+    "duzen",
+    "kisi",
+    "kutla",
+    "saldi",
+    "silah",
+    "siras",
+    "yasam",
+    "yitir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5e669d4ac438"
+  },
+  "f939351f6320": {
+   "id": "f939351f6320",
+   "kaynak": "Hürriyet",
+   "baslik": "Düğün salonundaki cinayetin şüphelisi tutuklandı",
+   "ozet": "Küçükçekmece'de düğün salonunda çıkan kavgada 1 kişiyi bıçaklayarak öldürdüğü iddiasıyla gözaltına alınan şüpheli tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/dugun-salonundaki-cinayetin-suphelisi-tutuklandi-43362717",
+   "zaman": "2026-11-01T21:05:18+03:00",
+   "kelimeler": [
+    "cinay",
+    "dugun",
+    "salon",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "a1353ade8f93": {
+   "id": "a1353ade8f93",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de 87 düzensiz göçmen yakalandı",
+   "ozet": "İzmir'in Karaburun ve Urla ilçelerinde 17'si çocuk 87 düzensiz göçmen yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-87-duzensiz-gocmen-yakalandi-961896.html",
+   "zaman": "2026-11-01T21:09:00+03:00",
+   "kelimeler": [
+    "87",
+    "duzen",
+    "gocme",
+    "izmir",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "545e82c83987": {
+   "id": "545e82c83987",
+   "kaynak": "NTV",
+   "baslik": "İplik atölyesi sahibi iş yerini yaktı, müdahale etmek isteyenlere tahta fırlattı",
+   "ozet": "Eyüpsultan’da iplik atölyesini ateşe veren Mehmet S.(35), müdahale etmek için gelen polis ekiplerinin üzerine atölyede bulunan malzemeleri attı. Yangın söndürüldü, şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/iplik-atolyesi-sahibi-is-yerini-yakti-mudahale-etmek-isteyenlere-tahta-firlatti-1748945",
+   "zaman": "2026-11-01T21:13:03+03:00",
+   "kelimeler": [
+    "atoly",
+    "etmek",
+    "firla",
+    "iplik",
+    "is",
+    "istey",
+    "mudah",
+    "sahib",
+    "tahta",
+    "yakti",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4e5defbf03ce": {
+   "id": "4e5defbf03ce",
+   "kaynak": "NTV",
+   "baslik": "Mahalle muhtarı uyuşturucu sevkiyatı yaparken yakalandı",
+   "ozet": "Sakarya'nın Karasu ilçesinde düzenlenen uyuşturucu operasyonunda 149 gram kokainle yakalanan Kocaali Merkez Mahallesi Muhtarı Beyti Kuru ile S.A. tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/mahalle-muhtari-uyusturucu-sevkiyati-yaparken-yakalandi-1748947",
+   "zaman": "2026-11-01T21:15:27+03:00",
+   "kelimeler": [
+    "mahal",
+    "muhta",
+    "sevki",
+    "uyust",
+    "yakal",
+    "yapar"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "01.11 21:17:12  5 yeni haber",
   "01.11 20:46:11  2 yeni haber",
   "01.11 20:31:49  2 yeni haber",
   "01.11 20:16:03  2 yeni haber",
@@ -24340,8 +24349,7 @@
   "30.10 16:02:38  9 yeni haber",
   "30.10 15:48:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Mehmet Kasapoğlu'dan İzmir depremi mesajı: 30 Ekim'in acısı yüreğimizd",
   "30.10 15:46:01  5 yeni haber",
-  "30.10 15:31:19  8 yeni haber",
-  "30.10 15:16:11  3 yeni haber"
+  "30.10 15:31:19  8 yeni haber"
  ],
  "otomatik": false
 }
