@@ -1,82 +1,5 @@
 {
  "haberler": {
-  "a8804b1e53fd": {
-   "id": "a8804b1e53fd",
-   "kaynak": "AA",
-   "baslik": "ABD Başkanı Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiği iddia edildi",
-   "ozet": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı (CENTCOM) Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi/4105460",
-   "zaman": "2026-10-29T23:07:48+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "bilgi",
-    "edild",
-    "hakki",
-    "iddia",
-    "in",
-    "iran",
-    "saldi",
-    "secen",
-    "trump",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "f64ba76da9dd": {
-   "id": "f64ba76da9dd",
-   "kaynak": "AA",
-   "baslik": "ABD'nin Ankara Büyükelçisi Barrack, Cumhurbaşkanı Erdoğan ile Trump'ın telefon görüşmesini değerlendirdi",
-   "ozet": "ABD'nin Ankara Büyükelçisi Barrack, \"Türk devletleri arasındaki ortaklık, her iki liderin de (ABD Başkanı Donald Trump-Cumhurbaşkanı Recep Tayyip Erdoğan) paylaştığı vizyonun merkezinde yer almaktadır.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/abdnin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trumpin-telefon-gorusmesini-degerlendirdi/4105463",
-   "zaman": "2026-10-29T23:10:14+03:00",
-   "kelimeler": [
-    "abd",
-    "ankar",
-    "barra",
-    "buyuk",
-    "cumhu",
-    "deger",
-    "erdog",
-    "gorus",
-    "in",
-    "nin",
-    "telef",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "78df90418a23"
-  },
-  "fca04a695c0d": {
-   "id": "fca04a695c0d",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD Başkanı Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiği iddia edildi",
-   "ozet": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı CENTCOM Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi-961675.html",
-   "zaman": "2026-10-29T23:12:00+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "bilgi",
-    "edild",
-    "hakki",
-    "iddia",
-    "in",
-    "iran",
-    "saldi",
-    "secen",
-    "trump",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a8804b1e53fd"
-  },
   "796d6758b028": {
    "id": "796d6758b028",
    "kaynak": "Sözcü",
@@ -16751,7 +16674,10 @@
    "fb_id": null,
    "fb_reels_id": "2362845831144260",
    "slayt": 4,
-   "kanca": "YÖNETİM İSTİFA"
+   "kanca": "YÖNETİM İSTİFA",
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "79085f613281": {
    "id": "79085f613281",
@@ -23873,9 +23799,54 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "0482bf6b470a": {
+   "id": "0482bf6b470a",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi: İstanbul'da tüm Türkiye'ye suça geçit yok",
+   "ozet": "İçişleri Bakanı Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-istanbulda-tum-turkiyeye-suca-gecit-yok-961899.html",
+   "zaman": "2026-11-01T22:50:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "ciftc",
+    "gecit",
+    "istan",
+    "suca",
+    "tum",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b02ecf8bfced": {
+   "id": "b02ecf8bfced",
+   "kaynak": "Sözcü",
+   "baslik": "Fenerbahçe tribün lideri Cem Gölbaşı'na silahlı eylem hazırlığı: 5 kişi yakalandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/cem-golbasian-eylem-hazirligi-iddiasi-gozaltilar-var-p374974",
+   "zaman": "2026-11-01T23:11:14+03:00",
+   "kelimeler": [
+    "cem",
+    "eylem",
+    "fener",
+    "golba",
+    "hazir",
+    "kisi",
+    "lider",
+    "na",
+    "silah",
+    "tribu",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4053660ef958"
   }
  },
  "kayit": [
+  "01.11 23:15:58  1 yeni haber",
   "01.11 23:01:18  2 yeni haber",
   "01.11 22:31:19  2 yeni haber",
   "01.11 22:16:02  2 yeni haber",
@@ -24074,8 +24045,7 @@
   "30.10 17:33:30  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Musk, Demokratların 2028 seçimlerini kazanmasının ABD için oyunun sonu",
   "30.10 17:31:13  3 yeni haber",
   "30.10 17:16:17  2 yeni haber",
-  "30.10 17:01:35  7 yeni haber",
-  "30.10 16:45:59  2 yeni haber"
+  "30.10 17:01:35  7 yeni haber"
  ],
  "otomatik": false
 }
