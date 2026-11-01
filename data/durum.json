@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "602349fb1402": {
-   "id": "602349fb1402",
-   "kaynak": "Hürriyet",
-   "baslik": "Özgür Özel: Cumhuriyet, kimsesizlerin kimsesidir",
-   "ozet": "Kadıköy'de Cumhuriyet'in 103'üncü yıl dönümü büyük bir coşkuyla kutlandı. Kutlamaya katılan Yeni Parti Genel Başkanı Özgür Özel, \"Benim için cumhuriyet bu milletin başının üstündeki yüce bir çatıdır. O çatı, 86 milyonun evidir.",
-   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-cumhuriyet-kimsesizlerin-kimsesidir-43360021",
-   "zaman": "2026-10-30T01:25:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "kimse",
-    "ozel",
-    "ozgur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "030877dd7352": {
    "id": "030877dd7352",
    "kaynak": "Hürriyet",
@@ -22217,14 +22200,23 @@
     "turel",
     "vekal"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
     "TRT Haber",
     "AA",
     "Hürriyet"
-   ]
+   ],
+   "paylasildi": "2026-11-02T01:33:37.203253+03:00",
+   "ig_id": "18384123826242380",
+   "reels_id": "18115984529126845",
+   "story_id": "17987550630094808",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1458181282312992",
+   "slayt": 4,
+   "kanca": "ATİLA TÜRELİ ATANDI"
   },
   "63755fa0e177": {
    "id": "63755fa0e177",
@@ -23889,9 +23881,32 @@
    "fb_reels_id": "1035403992895450",
    "slayt": 5,
    "kanca": "İLK KADIN CUMHURBAŞKANI"
+  },
+  "a4dfbe40c933": {
+   "id": "a4dfbe40c933",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Florida'da özel uçak yerleşim bölgesine düştü: 9 kişi hayatını kaybetti",
+   "ozet": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo",
+   "zaman": "2026-11-02T01:18:53+03:00",
+   "kelimeler": [
+    "bolge",
+    "dustu",
+    "flori",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "ozel",
+    "ucak",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 01:33:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Borsa İstanbul Genel Müdürlüğü görevine vekaleten Atila Türeli getiril",
+  "02.11 01:31:21  1 yeni haber",
   "02.11 01:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre ",
   "02.11 01:01:20  2 yeni haber",
   "02.11 00:34:38  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova aç",
@@ -24089,9 +24104,7 @@
   "30.10 19:49:28  Ek paylaşılamadı: reels: An unknown error occurred  (kod 1/99)",
   "30.10 19:49:28  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook_reels): XHABER · Testo Taylan, Hatay'da deprem sonrası depresyona girerek evden çıkmaya",
   "30.10 19:46:04  1 yeni haber",
-  "30.10 19:31:10  5 yeni haber",
-  "30.10 19:16:10  2 yeni haber",
-  "30.10 19:01:40  3 yeni haber"
+  "30.10 19:31:10  5 yeni haber"
  ],
  "otomatik": false
 }
