@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "4f49704a0d09": {
-   "id": "4f49704a0d09",
-   "kaynak": "XHABER",
-   "baslik": "Sinan Engin: \"Annemi kaybettiğimde askerdeydim.",
-   "ozet": "Yarbay izin vermediği için cenazesine yetişemedim. O yarbayı hiç unutamıyorum.\"",
-   "link": "https://t.me/sahinozkan000/30414",
-   "zaman": "2026-10-29T14:58:20+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Sinan Engin: \"Annemi kaybettiğimde askerdeydim.\nYarbay izin vermediği için cenazesine yetişemedim.\nO yarbayı hiç unutamıyorum.\"",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/Xxw-lAHjtF_1PMvd-ZywDl7nm1hxQ7Pik6BZCwc7ZEYaifQ6-hQog5WbKsLp4RUglR9bC4J3e5AM4UokUZFttTbJLG8jFGskl9TqXYd8xMFYoI-IVZWHLpwCUp53PPgsbARMuC75cmW6XKUQPHpKt8HVQoF6zvGD_-4mDTzAITo-Qnp57KVTz57eZ0249Es305-hvLUmcPKqsz4DmTpqLdqm-7ItWkFYN8wEg7PD84H0xOAoLK80WR0HcjvUXh2jkGryFueg5PT2hNHjT9Kc9h37OPhBLj-rO7491Dz80GXL1QOybJYbJAoVy2gtdrjVEa9tO4wKnotfLY-gP8jpLA",
-   "tg_video_url": "",
-   "kelimeler": [
-    "annem",
-    "asker",
-    "engin",
-    "kaybe",
-    "sinan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0e2e3762b613": {
-   "id": "0e2e3762b613",
-   "kaynak": "Hürriyet",
-   "baslik": "Evi fabrikaya çevirmişler: 120 bin dolu makaron ve tütün fırını ele geçirildi",
-   "ozet": "İstanbul, Çekmeköy'de kaçak sigara üretimi yapılan adrese düzenlenen operasyonda sahte bandrollerden jelatinleme makinelerine kadar çok sayıda malzeme bulundu. Polis baskınıyla suçüstü yakalanan 3 şüpheli, emniyetteki sorgularının ardından adli makamlara çıkarıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/evi-fabrikaya-cevirmisler-120-bin-dolu-makaron-ve-tutun-firini-ele-gecirildi-43359468",
-   "zaman": "2026-10-29T14:59:01+03:00",
-   "kelimeler": [
-    "120",
-    "bin",
-    "cevir",
-    "dolu",
-    "ele",
-    "evi",
-    "fabri",
-    "firin",
-    "gecir",
-    "makar",
-    "tutun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "11077860e922": {
    "id": "11077860e922",
    "kaynak": "AA",
@@ -214,24 +170,6 @@
     "kendi",
     "mille",
     "sengo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f5be75563099": {
-   "id": "f5be75563099",
-   "kaynak": "TRT Haber",
-   "baslik": "Putin, Filistin'in unutulmaması gerektiğini söyledi",
-   "ozet": "Putin, Basra Körfezi'ndeki gelişmeler nedeniyle Filistin sorununun unutulmaması gerektiğini belirterek, sorunun ancak bağımsız Filistin Devletinin kurulmasını öngören iki devletli çözümle sona erdirilebileceğini belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/putin-filistinin-unutulmamasi-gerektigini-soyledi-961628.html",
-   "zaman": "2026-10-29T14:52:00+03:00",
-   "kelimeler": [
-    "filis",
-    "gerek",
-    "in",
-    "putin",
-    "soyle",
-    "unutu"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -902,25 +840,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "baa7f0092c4f"
-  },
-  "2e7750b411b1": {
-   "id": "2e7750b411b1",
-   "kaynak": "AA",
-   "baslik": "Çaykur Rizespor'da hedef Kocaelispor maçıyla çıkışa geçmek",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü deplasmanda Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporda-hedef-kocaelispor-maciyla-cikisa-gecmek/4104915",
-   "zaman": "2026-10-29T15:01:06+03:00",
-   "kelimeler": [
-    "cayku",
-    "cikis",
-    "gecme",
-    "hedef",
-    "kocae",
-    "maciy",
-    "rizes"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "500deeb6fb27": {
    "id": "500deeb6fb27",
@@ -23997,7 +23916,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "TRT Haber"
    ]
   },
   "89df91608c8b": {
@@ -25632,9 +25552,68 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "86328bd2a0c4"
+  },
+  "fb556cfe5578": {
+   "id": "fb556cfe5578",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturması kapsamında Umut Güner gözaltında",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Dünya Gazetesi'nin sahibi Umut Güner gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-kapsaminda-umut-guner-gozaltinda-961880.html",
+   "zaman": "2026-11-01T14:41:00+03:00",
+   "kelimeler": [
+    "fon",
+    "gozal",
+    "guner",
+    "kapsa",
+    "sorus",
+    "umut"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7c899e409f20"
+  },
+  "a9e42b6d2814": {
+   "id": "a9e42b6d2814",
+   "kaynak": "Hürriyet",
+   "baslik": "Sermaye piyasası işlemlerine ilişkin soruşturmada Umut Güner gözaltına alındı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Dünya Gazetesi'nin sahibi Umut Güner gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-umut-guner-gozaltina-alindi-43362469",
+   "zaman": "2026-11-01T14:48:00+03:00",
+   "kelimeler": [
+    "alind",
+    "gozal",
+    "guner",
+    "ilisk",
+    "islem",
+    "piyas",
+    "serma",
+    "sorus",
+    "umut"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f498e02585f2": {
+   "id": "f498e02585f2",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeni haftada hava durumu nasıl olacak?",
+   "ozet": "Yurt genelinde yeni haftada sağanak ve yer yer gök gürültülü sağanak etkili olacak, hava sıcaklıkları ise perşembe gününden itibaren batı kesimlerden başlayarak hissedilir derecede azalacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-durumu-nasil-olacak-961881.html",
+   "zaman": "2026-11-01T14:49:00+03:00",
+   "kelimeler": [
+    "durum",
+    "hafta",
+    "hava",
+    "nasil",
+    "olaca",
+    "yeni"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "01.11 15:01:30  2 yeni haber",
   "01.11 14:47:59  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · 10 Kasım resmi tatil mi? 10 Kasım'da okullar tatil mi, bankalar, kargo",
   "01.11 14:46:05  1 yeni haber",
   "01.11 14:31:16  4 yeni haber",
@@ -25833,8 +25812,7 @@
   "30.10 11:02:41  7 yeni haber",
   "30.10 10:45:58  6 yeni haber",
   "30.10 10:32:01  7 yeni haber",
-  "30.10 10:18:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Küresel piyasalarda teknoloji hisselerine dair endişelerle satış baskı",
-  "30.10 10:16:07  6 yeni haber"
+  "30.10 10:18:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Küresel piyasalarda teknoloji hisselerine dair endişelerle satış baskı"
  ],
  "otomatik": false
 }
