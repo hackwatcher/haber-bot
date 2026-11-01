@@ -23642,7 +23642,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "c11fb43d8964": {
    "id": "c11fb43d8964",
@@ -23954,6 +23957,42 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b1747582f701": {
+   "id": "b1747582f701",
+   "kaynak": "NTV",
+   "baslik": "Tarkan'dan COP31 için anlamlı şarkı",
+   "ozet": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-tarkandan-cop31-icin-anlamli-sarki-1748965",
+   "zaman": "2026-11-02T00:42:23+03:00",
+   "kelimeler": [
+    "anlam",
+    "cop31",
+    "dan",
+    "sarki",
+    "tarka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "096d9dd411c2"
+  },
+  "d462f7f873e6": {
+   "id": "d462f7f873e6",
+   "kaynak": "NTV",
+   "baslik": "Tarkan'dan COP31 için anlamlı şarkı",
+   "ozet": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/tarkandan-cop31-icin-anlamli-sarki-1748964",
+   "zaman": "2026-11-02T00:43:29+03:00",
+   "kelimeler": [
+    "anlam",
+    "cop31",
+    "dan",
+    "sarki",
+    "tarka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "096d9dd411c2"
   }
  },
  "kayit": [
