@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "d379d09c061d": {
-   "id": "d379d09c061d",
-   "kaynak": "AA",
-   "baslik": "Suriye'nin Deyrizor ilinde meydana gelen sel felaketinde bir çocuk hayatını kaybetti",
-   "ozet": "Suriye'nin kuzey ve doğusunda etkili olan kuvvetli sağanak yağışın yol açtığı sel ve taşkınlar nedeniyle bir çocuk hayatını kaybetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-deyrizor-ilinde-meydana-gelen-sel-felaketinde-bir-cocuk-hayatini-kaybetti/4105260",
-   "zaman": "2026-10-29T19:31:26+03:00",
-   "kelimeler": [
-    "cocuk",
-    "deyri",
-    "felak",
-    "gelen",
-    "hayat",
-    "ilind",
-    "kaybe",
-    "meyda",
-    "nin",
-    "sel",
-    "suriy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2a4d7f1a2d76": {
-   "id": "2a4d7f1a2d76",
-   "kaynak": "AA",
-   "baslik": "İstanbul Havalimanı 8'inci yaşında günlük uçuş sayısıyla zirvede",
-   "ozet": "İstanbul Havalimanı günlük 1491 uçuş ortalamasıyla Avrupa'nın en yoğun havalimanı oldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-8inci-yasinda-gunluk-ucus-sayisiyla-zirvede-/4105276",
-   "zaman": "2026-10-29T19:45:44+03:00",
-   "kelimeler": [
-    "gunlu",
-    "haval",
-    "inci",
-    "istan",
-    "sayis",
-    "ucus",
-    "yasin",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d68874deb78c": {
    "id": "d68874deb78c",
    "kaynak": "TRT Haber",
@@ -24391,10 +24348,93 @@
     "yerin"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "207cf9e10e72": {
+   "id": "207cf9e10e72",
+   "kaynak": "Hürriyet",
+   "baslik": "Borsa İstanbul'a yeni atama",
+   "ozet": "Borsa İstanbul AŞ Genel Müdür Yardımcısı Atila Türeli, vekaleten Borsa İstanbul AŞ Genel Müdürü olarak görevlendirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/borsa-istanbula-yeni-atama-43362637",
+   "zaman": "2026-11-01T18:18:00+03:00",
+   "kelimeler": [
+    "atama",
+    "borsa",
+    "istan",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4d79daf66caf": {
+   "id": "4d79daf66caf",
+   "kaynak": "TRT Haber",
+   "baslik": "BM: Yemen'de çatışmalar nedeniyle yerinden edilenlerin sayısı 300 bini aştı",
+   "ozet": "Birleşmiş Milletler Uluslararası Göç Örgütü, Yemen'de tırmanan çatışmalar nedeniyle 300 binden fazla kişinin yerinden edildiğini, bunların neredeyse tamamının son 2 ayda gerçekleştiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-yemende-catismalar-nedeniyle-yerinden-edilenlerin-sayisi-300-bini-asti-961893.html",
+   "zaman": "2026-11-01T19:21:00+03:00",
+   "kelimeler": [
+    "300",
+    "asti",
+    "bini",
+    "bm",
+    "catis",
+    "edile",
+    "neden",
+    "sayis",
+    "yemen",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f3b24e167f19"
+  },
+  "72df2c322259": {
+   "id": "72df2c322259",
+   "kaynak": "AA",
+   "baslik": "Taha Akgül'den Dünya Güreş Şampiyonası sonrası özeleştiri",
+   "ozet": "Türkiye Güreş Federasyonu Başkanı Taha Akgül, 2026 Dünya Güreş Şampiyonası'nda beklentilerin uzağında kaldıklarını belirterek \"Gerekli değerlendirmeleri yapıp yolumuza daha sağlam ve emin adımlarla devam edeceğiz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/taha-akgulden-dunya-gures-sampiyonasi-sonrasi-ozelestiri/4108143",
+   "zaman": "2026-11-01T19:30:58+03:00",
+   "kelimeler": [
+    "akgul",
+    "den",
+    "dunya",
+    "gures",
+    "ozele",
+    "sampi",
+    "sonra",
+    "taha"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "af18881ead6b": {
+   "id": "af18881ead6b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Mithat Sancar: 'Öcalan İmralı'da yapılan yeni yere geçti'",
+   "ozet": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini savundu.",
+   "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo",
+   "zaman": "2026-11-01T19:40:43+03:00",
+   "kelimeler": [
+    "gecti",
+    "imral",
+    "mitha",
+    "ocala",
+    "sanca",
+    "yapil",
+    "yeni",
+    "yere"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "01.11 19:46:15  3 yeni haber",
   "01.11 19:23:08  1 yeni haber",
   "01.11 19:18:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli motosikletçi Kadir Erbay, İspanya Superbike Şampiyonası'nda ilk ",
   "01.11 19:15:57  1 yeni haber",
@@ -24593,8 +24633,7 @@
   "30.10 15:01:19  3 yeni haber",
   "30.10 14:45:59  5 yeni haber",
   "30.10 14:37:06  1 yeni haber",
-  "30.10 14:31:26  3 yeni haber",
-  "30.10 14:18:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Mustafa Sarıgül YENİ Parti'den istifa etti"
+  "30.10 14:31:26  3 yeni haber"
  ],
  "otomatik": false
 }
