@@ -23290,7 +23290,8 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "545e82c83987": {
    "id": "545e82c83987",
@@ -23954,6 +23955,25 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "79194d13d218": {
+   "id": "79194d13d218",
+   "kaynak": "TRT Haber",
+   "baslik": "Muğla açıklarında 35 düzensiz göçmen yakalandı",
+   "ozet": "Muğla'nın Bodrum ilçesi açıklarında 35 düzensiz göçmen ile 4 göçmen kaçakçılığı şüphelisi yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/mugla-aciklarinda-35-duzensiz-gocmen-yakalandi-961902.html",
+   "zaman": "2026-11-01T23:37:00+03:00",
+   "kelimeler": [
+    "35",
+    "acikl",
+    "duzen",
+    "gocme",
+    "mugla",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a1353ade8f93"
   }
  },
  "kayit": [
