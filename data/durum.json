@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "e0d96e1fe468": {
-   "id": "e0d96e1fe468",
-   "kaynak": "AA",
-   "baslik": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
-   "ozet": "ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi/4105536",
-   "zaman": "2026-10-30T00:58:07+03:00",
-   "kelimeler": [
-    "10",
-    "24",
-    "abd",
-    "asker",
-    "az",
-    "den",
-    "edild",
-    "iddia",
-    "indig",
-    "israi",
-    "nakli",
-    "saatt",
-    "ucagi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "2296644c4726": {
-   "id": "2296644c4726",
-   "kaynak": "AA",
-   "baslik": "Binance olası güvenlik sorununa ilişkin iddiaları araştırdığını bildirdi",
-   "ozet": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin bildirimleri araştırdığını belirterek, kullanıcı fonlarının güvende olduğunu açıkladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/binance-olasi-guvenlik-sorununa-iliskin-iddialari-arastirdigini-bildirdi/4105538",
-   "zaman": "2026-10-30T01:01:07+03:00",
-   "kelimeler": [
-    "arast",
-    "bildi",
-    "binan",
-    "guven",
-    "iddia",
-    "ilisk",
-    "olasi",
-    "sorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ed1f0ab64251": {
    "id": "ed1f0ab64251",
    "kaynak": "AA",
@@ -23993,9 +23945,59 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "096d9dd411c2"
+  },
+  "83b9da9e0c16": {
+   "id": "83b9da9e0c16",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de toprak kayması: 3 bina boşaltıldı",
+   "ozet": "İzmir'in Bayraklı ilçesinde temel kazısı yapılan inşaat alanında toprak kayması nedeniyle 3 bina tedbir amaçlı tahliye edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-toprak-kaymasi-3-bina-bosaltildi-961904.html",
+   "zaman": "2026-11-02T00:34:00+03:00",
+   "kelimeler": [
+    "bina",
+    "bosal",
+    "izmir",
+    "kayma",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b0c829b463c": {
+   "id": "0b0c829b463c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre İliyana Yotova kazandı",
+   "ozet": "Bulgaristan’da cumhurbaşkanlığı seçiminin ikinci turunda sandık çıkış anketleri, İliyana Yotova’nın yaklaşık yüzde 51 oyla önde olduğunu gösteriyor",
+   "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o",
+   "zaman": "2026-11-02T00:56:20+03:00",
+   "kelimeler": [
+    "bulga",
+    "cumhu",
+    "gore",
+    "iliya",
+    "kazan",
+    "olmay",
+    "resmi",
+    "secim",
+    "sonuc",
+    "yotov"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-02T01:03:43.265638+03:00",
+   "ig_id": "18134471059668950",
+   "reels_id": "17994774669098977",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1035403992895450",
+   "slayt": 5,
+   "kanca": "İLK KADIN CUMHURBAŞKANI"
   }
  },
  "kayit": [
+  "02.11 01:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre ",
+  "02.11 01:01:20  2 yeni haber",
   "02.11 00:34:38  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova aç",
   "02.11 00:31:13  2 yeni haber",
   "02.11 00:16:08  3 yeni haber",
@@ -24193,9 +24195,7 @@
   "30.10 19:46:04  1 yeni haber",
   "30.10 19:31:10  5 yeni haber",
   "30.10 19:16:10  2 yeni haber",
-  "30.10 19:01:40  3 yeni haber",
-  "30.10 18:45:59  4 yeni haber",
-  "30.10 18:31:24  7 yeni haber"
+  "30.10 19:01:40  3 yeni haber"
  ],
  "otomatik": false
 }
