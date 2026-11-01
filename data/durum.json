@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "897b9b3a4a58": {
-   "id": "897b9b3a4a58",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda ABD yapımı MQ-1 tipi insansız hava aracının (İHA) düşürüldüğünü öne sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4104469",
-   "zaman": "2026-10-29T08:14:00+03:00",
-   "kelimeler": [
-    "bogaz",
-    "devri",
-    "dusur",
-    "hurmu",
-    "iha",
-    "iran",
-    "mq",
-    "muhaf",
-    "nda",
-    "tipi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "616fc92b0498": {
-   "id": "616fc92b0498",
-   "kaynak": "TRT Haber",
-   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ1 tipi İHA düşürüldü",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın ABD yapımı MQ1 tipi insansız hava aracının İHA düşürülmesini öne sürdü.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-961571.html",
-   "zaman": "2026-10-29T08:07:00+03:00",
-   "kelimeler": [
-    "bogaz",
-    "devri",
-    "dusur",
-    "hurmu",
-    "iha",
-    "iran",
-    "mq1",
-    "muhaf",
-    "nda",
-    "tipi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "897b9b3a4a58"
-  },
-  "7f8528ce8acf": {
-   "id": "7f8528ce8acf",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da 29 Ekim sebebiyle bazı yollar trafiğe kapatıldı",
-   "ozet": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları dolayısıyla bazı yollar trafiğe kapatıldı. Valilik, kapanan yolları ve alternatif güzergahları internet sitesinden duyurdu.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-29-ekim-sebebiyle-bazi-yollar-trafige-kapatildi-961572.html",
-   "zaman": "2026-10-29T08:14:00+03:00",
-   "kelimeler": [
-    "29",
-    "bazi",
-    "ekim",
-    "istan",
-    "kapat",
-    "sebeb",
-    "trafi",
-    "yolla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c78c9ee26438"
-  },
   "f783f3384a90": {
    "id": "f783f3384a90",
    "kaynak": "Hürriyet",
@@ -27039,8 +26970,17 @@
     "vicda",
     "vurma"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-01T08:17:33.180247+03:00",
+   "ig_id": "18099100334425436",
+   "reels_id": "18022422941730320",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "4764950777107157",
+   "slayt": 1,
+   "kanca": "Son dakika"
   },
   "09522ade89dd": {
    "id": "09522ade89dd",
@@ -27141,9 +27081,56 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "897ceb19868b": {
+   "id": "897ceb19868b",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da inşaatın çevresindeki çatlaklar oluşan 4 bina tahliye edildi",
+   "ozet": "İstanbul Bağcılar’da inşaat alanındaki çalışmalar sırasında çevredeki 2 binanın duvarlarında çatlak ve yarıklar oluştuğunun belirlenmesi üzerine tedbir amaçlı toplam 4 bina tahliye edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112",
+   "zaman": "2026-11-01T07:54:00+03:00",
+   "kelimeler": [
+    "bina",
+    "catla",
+    "cevre",
+    "edild",
+    "insaa",
+    "istan",
+    "olusa",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e43c241febe3": {
+   "id": "e43c241febe3",
+   "kaynak": "Hürriyet",
+   "baslik": "Kültür ve Turizm Bakanı Ersoy'dan yurt dışına çıkarılan kültür varlıkları müjdesi: Yeni eserleri açıklayacağız",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, yurt dışına çıkarılan kültür varlıklarının iadesinde Türkiye'nin dünyaya eğitim veren bir ülke konumuna geldiğini belirterek, \"İşin en zor kısmı çoğu zaman eserin Anadolu’dan kaçırıldığını ortaya koymak.",
+   "link": "https://www.hurriyet.com.tr/gundem/kultur-ve-turizm-bakani-ersoydan-yurt-disina-cikarilan-kultur-varliklari-mujdesi-yeni-eserleri-aciklayacagiz-43362107",
+   "zaman": "2026-11-01T08:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "cikar",
+    "dan",
+    "disin",
+    "ersoy",
+    "eserl",
+    "kultu",
+    "mujde",
+    "turiz",
+    "varli",
+    "yeni",
+    "yurt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "01.11 08:17:33  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · İstismara uğradığını söyleyen kızını vurmak istemişti... Vicdansız tut",
+  "01.11 08:16:14  2 yeni haber",
   "01.11 07:15:55  5 yeni haber",
   "01.11 07:02:54  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Hakkari Yüksekova'da hudut geçiş olayına müdahale sırasında açılan ate",
   "01.11 06:46:11  1 yeni haber",
@@ -27341,9 +27328,7 @@
   "30.10 00:33:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İnsanlar fosil yakıtlarla sonraki buzul çağını kazara iptal etti",
   "30.10 00:31:15  1 yeni haber",
   "30.10 00:15:58  3 yeni haber",
-  "30.10 00:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
-  "30.10 00:01:28  3 yeni haber",
-  "29.10 23:46:00  3 yeni haber"
+  "30.10 00:03:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi"
  ],
  "otomatik": false
 }
