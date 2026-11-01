@@ -1,21 +1,5 @@
 {
  "haberler": {
-  "030877dd7352": {
-   "id": "030877dd7352",
-   "kaynak": "Hürriyet",
-   "baslik": "Kapadokya’da peribacası çöktü",
-   "ozet": "Kapadokya’da Göreme Açık Hava Müzesi girişinde peribacası çöktü. Kopan kaya parçalarının altında kalan 3 kişi yaşamını yitirirken, yaralı olarak hastaneye kaldırılan 5 kişiden 4’ü taburcu edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kapadokyada-peribacasi-coktu-43360026",
-   "zaman": "2026-10-30T01:31:31+03:00",
-   "kelimeler": [
-    "coktu",
-    "kapad",
-    "perib"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "56be54fb0f9c"
-  },
   "fafb361a308a": {
    "id": "fafb361a308a",
    "kaynak": "BBC Türkçe",
@@ -23902,9 +23886,34 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fcfe69e03b1f": {
+   "id": "fcfe69e03b1f",
+   "kaynak": "XHABER",
+   "baslik": "Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30481",
+   "zaman": "2026-11-02T01:34:48+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/bI9E890GpUiSgHkN325iBQITKFVJ9NawCpUFcJPjMot880Y_Nc8E3YcWxqu5Sd2qIppimwMM5FC5OUP8UVNzbWG9EXS9iMztjaSmDynzE70Nj-TfFE4paA9RHFCk4Zk1U5N7P3eoLUXxedv1Z4WqRlMBwTAbeX4RIYw_kjgynRUDBDPEiA_jac88WbGgfHnAuR117jInNC43p--G7kzk10UhXjaSOWMLHMYcX5VIxvaCcPw76tRqdqq9MC_kgTVKSi3Tk9jz04R8QNqhB4gQj0NoOsRTOXr5zWopO8f-K9HTLKmvuV44uv6DvXkoVOLQZwTkOr5NnC-b8AQEFwx9QA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "elend",
+    "ilk",
+    "ister",
+    "kim",
+    "milyo",
+    "olmak",
+    "sorud",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 01:46:16  1 yeni haber",
   "02.11 01:33:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Borsa İstanbul Genel Müdürlüğü görevine vekaleten Atila Türeli getiril",
   "02.11 01:31:21  1 yeni haber",
   "02.11 01:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre ",
@@ -24103,8 +24112,7 @@
   "30.10 20:01:22  2 yeni haber",
   "30.10 19:49:28  Ek paylaşılamadı: reels: An unknown error occurred  (kod 1/99)",
   "30.10 19:49:28  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook_reels): XHABER · Testo Taylan, Hatay'da deprem sonrası depresyona girerek evden çıkmaya",
-  "30.10 19:46:04  1 yeni haber",
-  "30.10 19:31:10  5 yeni haber"
+  "30.10 19:46:04  1 yeni haber"
  ],
  "otomatik": false
 }
