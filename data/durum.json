@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "6c440a0ca79b": {
-   "id": "6c440a0ca79b",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransa, öğrenci başına Türkiye'nin 3 katı harcıyor ancak eğitimde geride kalıyor",
-   "ozet": "Fransa, öğrenci başına eğitim harcamalarında Türkiye'nin yaklaşık üç katına ulaşmasına rağmen 2025 PISA sonuçlarında Türkiye'nin gerisinde kaldı. Yapılan bir analizde, eğitimde başarıyı belirleyen unsurun yalnızca harcama miktarı olmadığını ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/fransa-ogrenci-basina-turkiyenin-3-kati-harciyor-ancak-egitimde-geride-kaliyor-961648.html",
-   "zaman": "2026-10-29T16:55:00+03:00",
-   "kelimeler": [
-    "ancak",
-    "basin",
-    "egiti",
-    "frans",
-    "gerid",
-    "harci",
-    "kaliy",
-    "kati",
-    "nin",
-    "ogren",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "802edac2a0b3": {
-   "id": "802edac2a0b3",
-   "kaynak": "TRT Haber",
-   "baslik": "TCG Işın arama kurtarma gemisi Tekirdağ'da ziyarete açıldı",
-   "ozet": "Yerli ve milli imkanlarla üretilen Deniz Kuvvetleri Komutanlığı arama kurtarma gemisi \"TCG Işın\" 29 Ekim Cumhuriyet Bayramı dolayısıyla Tekirdağ'da ziyarete açıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/tcg-isin-arama-kurtarma-gemisi-tekirdagda-ziyarete-acildi-961645.html",
-   "zaman": "2026-10-29T16:59:00+03:00",
-   "kelimeler": [
-    "acild",
-    "arama",
-    "gemis",
-    "isin",
-    "kurta",
-    "tcg",
-    "tekir",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c1655a987f74": {
    "id": "c1655a987f74",
    "kaynak": "TRT Haber",
@@ -225,30 +182,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a0398fa682da"
-  },
-  "8528d62973f7": {
-   "id": "8528d62973f7",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransız basınından Türkiyeye övgü: Eğitimde üç kat az harcama, daha yüksek PISA puanı",
-   "ozet": "Fransa, öğrenci başına eğitim harcamalarında Türkiye'nin yaklaşık üç katına ulaşmasına rağmen 2025 PISA sonuçlarında Türkiye'nin gerisinde kaldı. Yapılan bir analizde, eğitimde başarıyı belirleyen unsurun yalnızca harcama miktarı olmadığını ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/fransiz-basinindan-turkiyeye-ovgu-egitimde-uc-kat-az-harcama-daha-yuksek-pisa-puani-961648.html",
-   "zaman": "2026-10-29T16:55:00+03:00",
-   "kelimeler": [
-    "az",
-    "basin",
-    "egiti",
-    "frans",
-    "harca",
-    "kat",
-    "ovgu",
-    "pisa",
-    "puani",
-    "turki",
-    "uc",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "592fd7ff00b9": {
    "id": "592fd7ff00b9",
@@ -24491,7 +24424,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c400be134a90": {
    "id": "c400be134a90",
@@ -24861,9 +24797,100 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b0477dbc43cf": {
+   "id": "b0477dbc43cf",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum, milli sporcu Şentunalı'nın COP31 için performans sergilediği \"İklim\" klibini paylaştı",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, artistik buz pateni milli sporcusu​​​​​​​ İklim Şentunalı'nın eriyen buz kütlesi üzerinde performans sergilediği COP31 tanıtım filmini sosyal medya hesabından paylaştı.",
+   "link": "https://www.aa.com.tr/tr/spor/bakan-kurum-milli-sporcu-sentunalinin-cop31-icin-performans-sergiledigi-iklim-klibini-paylasti/4107938",
+   "zaman": "2026-11-01T13:44:02+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "iklim",
+    "klibi",
+    "kurum",
+    "milli",
+    "nin",
+    "payla",
+    "perfo",
+    "sentu",
+    "sergi",
+    "sporc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "88d64d273cd2": {
+   "id": "88d64d273cd2",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de maç sonrası stadyum yakınındaki silahlı saldırıda bir kişi öldü, 8 kişi yaralandı",
+   "ozet": "ABD'nin Alabama eyaletinde futbol maçı sonrası stadyum yakınındaki bir caddede yaşanan silahlı saldırıda bir kişi hayatını kaybetti, 8 kişi ise yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
+   "zaman": "2026-11-01T16:40:00+03:00",
+   "kelimeler": [
+    "abd",
+    "kisi",
+    "mac",
+    "saldi",
+    "silah",
+    "sonra",
+    "stady",
+    "yakin",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "387dd6ce4431"
+  },
+  "5595e345f9a5": {
+   "id": "5595e345f9a5",
+   "kaynak": "AA",
+   "baslik": "Genelkurmay Başkanı Bayraktaroğlu, TSK Paraşüt Şampiyonası'nın kapanış törenine katıldı",
+   "ozet": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Gölbaşı'nda düzenlenen 5'inci Türk Silahlı Kuvvetleri (TSK) Paraşüt Şampiyonası'nın kapanış törenine katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/genelkurmay-baskani-bayraktaroglu-tsk-parasut-sampiyonasinin-kapanis-torenine-katildi/4108045",
+   "zaman": "2026-11-01T16:48:59+03:00",
+   "kelimeler": [
+    "baska",
+    "bayra",
+    "genel",
+    "kapan",
+    "katil",
+    "nin",
+    "paras",
+    "sampi",
+    "toren",
+    "tsk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "16d7d8ba88ff": {
+   "id": "16d7d8ba88ff",
+   "kaynak": "TRT Haber",
+   "baslik": "Ukrayna: Bu gece dört bölgedeki enerji altyapımız Rus saldırıları altında kaldı",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun ülkenin 4 bölgesindeki enerji altyapısını gece hedef aldığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/ukrayna-bu-gece-dort-bolgedeki-enerji-altyapimiz-rus-saldirilari-altinda-kaldi-961887.html",
+   "zaman": "2026-11-01T16:52:00+03:00",
+   "kelimeler": [
+    "altin",
+    "altya",
+    "bolge",
+    "dort",
+    "enerj",
+    "gece",
+    "kaldi",
+    "rus",
+    "saldi",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "01.11 17:01:17  3 yeni haber",
   "01.11 16:48:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Partili Kasapoğlu'ndan Menderes'te spor yatırımları ve belediyeye d",
   "01.11 16:46:08  3 yeni haber",
   "01.11 16:16:02  1 yeni haber",
@@ -25062,8 +25089,7 @@
   "30.10 12:46:02  1 yeni haber",
   "30.10 12:32:34  9 yeni haber",
   "30.10 12:16:01  4 yeni haber",
-  "30.10 12:01:34  9 yeni haber",
-  "30.10 11:46:08  11 yeni haber"
+  "30.10 12:01:34  9 yeni haber"
  ],
  "otomatik": false
 }
