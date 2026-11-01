@@ -19065,7 +19065,10 @@
     "turk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "90dc5c333fc1": {
    "id": "90dc5c333fc1",
@@ -27828,6 +27831,24 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3e1e4ecae4db": {
+   "id": "3e1e4ecae4db",
+   "kaynak": "Hürriyet",
+   "baslik": "Türk Dünyası Diyalog Forumu tamamlandı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığınca Türk Devletleri Teşkilatı (TDT) 13. Zirvesi marjında, ‘Türk Dünyası Diyalog Forumu’ başlıklı düzenlenen uluslararası forum tamamlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-tamamlandi-43362092",
+   "zaman": "2026-11-01T03:22:00+03:00",
+   "kelimeler": [
+    "diyal",
+    "dunya",
+    "forum",
+    "tamam",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "76aff7d4cec3"
   }
  },
  "kayit": [
