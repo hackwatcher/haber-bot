@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "6ecf2423e716": {
-   "id": "6ecf2423e716",
-   "kaynak": "NTV",
-   "baslik": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti",
-   "ozet": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Üç kişinin hayatını kaybettiği bildirildi. Yaralı sayısı 5 olarak açıklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533",
-   "zaman": "2026-10-29T18:10:03+03:00",
-   "kelimeler": [
-    "coktu",
-    "hayat",
-    "kapad",
-    "kaybe",
-    "kisi",
-    "perib",
-    "uc"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "56be54fb0f9c"
-  },
-  "8b75958ba8f5": {
-   "id": "8b75958ba8f5",
-   "kaynak": "TRT Haber",
-   "baslik": "100 bin simülasyonla test edildi: Kuyruklu yıldızlar Dünya'ya yaşam taşımış olabilir mi?",
-   "ozet": "Cambridge Üniversitesi'nden gökbilimcilerin gerçekleştirdiği kapsamlı simülasyonlar, yaşamın temel yapı taşlarını taşıyan kuyruklu yıldızların Dünya'ya çarpma senaryosunun daha önce sanıldığı kadar olası olmadığını ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/100-bin-simulasyonla-test-edildi-kuyruklu-yildizlar-dunyaya-yasam-tasimis-olabilir-mi-961654.html",
-   "zaman": "2026-10-29T18:05:00+03:00",
-   "kelimeler": [
-    "100",
-    "bin",
-    "dunya",
-    "edild",
-    "kuyru",
-    "olabi",
-    "simul",
-    "tasim",
-    "test",
-    "ya",
-    "yasam",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "367fe3c7742d": {
    "id": "367fe3c7742d",
    "kaynak": "AA",
@@ -559,25 +515,6 @@
    "diger_kaynaklar": [
     "AA"
    ]
-  },
-  "1e9410dc8242": {
-   "id": "1e9410dc8242",
-   "kaynak": "AA",
-   "baslik": "Antalya Kültür Yolu Festivali 31 Ekim'de başlayacak",
-   "ozet": "Türkiye Kültür Yolu Festivali'nin Antalya ayağı, 31 Ekim-8 Kasım'da konser, sergi, opera, bale, tiyatro, arkeoloji gezileri ve geleneksel sanat atölyeleri gibi çeşitli etkinliklerle düzenlenecek.",
-   "link": "https://www.aa.com.tr/tr/kultur/antalya-kultur-yolu-festivali-31-ekimde-baslayacak/4105165",
-   "zaman": "2026-10-29T18:03:16+03:00",
-   "kelimeler": [
-    "31",
-    "antal",
-    "basla",
-    "ekim",
-    "festi",
-    "kultu",
-    "yolu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "3585341f2f72": {
    "id": "3585341f2f72",
@@ -15371,7 +15308,8 @@
     "yenil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5c36c8375249": {
    "id": "5c36c8375249",
@@ -24668,9 +24606,135 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7a981bd64641": {
+   "id": "7a981bd64641",
+   "kaynak": "AA",
+   "baslik": "Başakşehir, Samsunspor'u sahasında mağlup etti",
+   "ozet": "Trendyol Süper Lig'in 10. haftasında İstanbul Başakşehir, sahasında Samsunspor'u 5-2 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/basaksehir-samsunsporu-sahasinda-maglup-etti/4108060",
+   "zaman": "2026-11-01T17:23:40+03:00",
+   "kelimeler": [
+    "basak",
+    "etti",
+    "maglu",
+    "sahas",
+    "samsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "646c67add1a9": {
+   "id": "646c67add1a9",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, Gaziantep FK'yi 2-0 yendi",
+   "ozet": "Trendyol Süper Lig'in 10. haftasında Trabzonspor, Gaziantep FK'yi 2-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-gaziantep-fkyi-2-0-yendi/4108061",
+   "zaman": "2026-11-01T17:23:49+03:00",
+   "kelimeler": [
+    "fk",
+    "gazia",
+    "trabz",
+    "yendi",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "77396088af5f"
+  },
+  "11da020d71a6": {
+   "id": "11da020d71a6",
+   "kaynak": "Hürriyet",
+   "baslik": "Bavulun plastiğine gizlemişler: Ağrı'da 16,6 milyon liralık uyuşturucu yakalandı",
+   "ozet": "Doğubayazıt'ta gümrük ekiplerinin kontrol ettiği İran uyruklu yolcunun valizlerinden 4 kilo 442 gram metamfetamin çıktı. İlçede eş zamanlı süren trafik ve asayiş uygulamalarında ise 329 aranan şahıs adalete teslim edildi, kurallara uymayan 112 motosiklet bağlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bavulun-plastigine-gizlemisler-agrida-16-6-milyon-liralik-uyusturucu-yakalandi-43362618",
+   "zaman": "2026-11-01T17:52:32+03:00",
+   "kelimeler": [
+    "16",
+    "agri",
+    "bavul",
+    "gizle",
+    "liral",
+    "milyo",
+    "plast",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0ea55f8b86ff": {
+   "id": "0ea55f8b86ff",
+   "kaynak": "AA",
+   "baslik": "İsrail, Filistinli gazeteci Tavil'i 2 aydır hücre hapsinde tutuyor",
+   "ozet": "Filistin Esirler Cemiyeti, Filistinli gazeteci Büşra Tavil'in İsrail hapishanesinde iki aydır hücre hapsinde tutulduğunu ve ağır ihlallere maruz kaldığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-filistinli-gazeteci-tavili-2-aydir-hucre-hapsinde-tutuyor/4108086",
+   "zaman": "2026-11-01T18:01:45+03:00",
+   "kelimeler": [
+    "aydir",
+    "filis",
+    "gazet",
+    "hapsi",
+    "hucre",
+    "israi",
+    "tavil",
+    "tutuy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0e58797f4ab4": {
+   "id": "0e58797f4ab4",
+   "kaynak": "XHABER",
+   "baslik": "Borsa İstanbul Genel Müdürlüğü görevine vekaleten Atila Türeli getirildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30475",
+   "zaman": "2026-11-01T18:04:15+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Borsa İstanbul Genel Müdürlüğü görevine vekaleten Atila Türeli getirildi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/L_lznw6ZCIifvlqjqrf2iSelZyVITeqTK8LYYYis40gD8aaiY_KCffc6NJAb92I-SN-EGpGLMibAOSGg4eq6GYjxgHy5S7bXfk7t6K1yYiuO1ToWCeahuoLgfKOw2vKa0-uOhwPX4ure_ltJF1HNnZeKn_yeBx5cQEJ8sYrEMD3_sQ-Xs4UjqM-44XEmZG1lGjbJKvGKi2eKd_v9hqMpQwTSrze75hage_BeS16SuOtztBaE3kr_wxYVyfjJhTU0Fy-7NbKPatUlceyKvw2L9U8HmbY4CNUZmTMX4tg_uq_50JHf6iZD8A1ak9PzhPkKWndgasNOnraY59upscCPgg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "atila",
+    "borsa",
+    "genel",
+    "getir",
+    "gorev",
+    "istan",
+    "mudur",
+    "turel",
+    "vekal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "63755fa0e177": {
+   "id": "63755fa0e177",
+   "kaynak": "NTV",
+   "baslik": "Borsa İstanbul Genel Müdürlüğü'ne vekaleten Atila Türeli getirildi",
+   "ozet": "Fon soruşturması kapsamında gözaltına alınan Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un yerine Genel Müdür Yardımcısı Atila Türeli vekaleten görevlendirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/borsa-istanbul-genel-mudurlugune-vekaleten-atila-tureli-getirildi-1748937",
+   "zaman": "2026-11-01T18:13:31+03:00",
+   "kelimeler": [
+    "atila",
+    "borsa",
+    "genel",
+    "getir",
+    "istan",
+    "mudur",
+    "turel",
+    "vekal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0e58797f4ab4"
   }
  },
  "kayit": [
+  "01.11 18:16:00  4 yeni haber",
   "01.11 18:01:53  2 yeni haber",
   "01.11 17:46:04  1 yeni haber",
   "01.11 17:31:08  2 yeni haber",
@@ -24869,8 +24933,7 @@
   "30.10 13:47:08  3 yeni haber",
   "30.10 13:31:11  6 yeni haber",
   "30.10 13:16:11  8 yeni haber",
-  "30.10 13:01:28  5 yeni haber",
-  "30.10 12:48:03  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 16 ilde 'Organize Suçlarla Mücadele' operasyonları: 55 şüpheli tutukla"
+  "30.10 13:01:28  5 yeni haber"
  ],
  "otomatik": false
 }
