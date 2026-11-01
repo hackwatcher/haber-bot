@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "796d6758b028": {
-   "id": "796d6758b028",
-   "kaynak": "Sözcü",
-   "baslik": "Göreme’deki faciada kahreden detay: Gazeteci ve eşi feci şekilde can verdi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/goremedeki-faciada-kahreden-detay-gazeteci-ve-esi-feci-sekilde-can-verdi-p374118",
-   "zaman": "2026-10-29T23:19:08+03:00",
-   "kelimeler": [
-    "can",
-    "deki",
-    "detay",
-    "esi",
-    "facia",
-    "feci",
-    "gazet",
-    "gorem",
-    "kahre",
-    "sekil",
-    "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7060464b6b26": {
-   "id": "7060464b6b26",
-   "kaynak": "AA",
-   "baslik": "İsrail'de Ortak Liste liderlerinden Tıybi: Ortak Liste olarak Eisenkot'a destek vermeye hazırız",
-   "ozet": "İsrail seçimlerinde tarihi bir temsil düzeyine ulaşan İsrail vatandaşı Filistinlileri temsil eden partilerden Taal'in lideri Tıybi, AA'ya yaptığı açıklamada, Ortak Liste olarak Eisenkot'a destek vermeye hazır olduklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-ortak-liste-liderlerinden-tiybi-ortak-liste-olarak-eisenkota-destek-vermeye-haziriz/4105473",
-   "zaman": "2026-10-29T23:26:30+03:00",
-   "kelimeler": [
-    "deste",
-    "eisen",
-    "hazir",
-    "israi",
-    "lider",
-    "liste",
-    "ortak",
-    "tiybi",
-    "verme"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "36a1300d5c83": {
-   "id": "36a1300d5c83",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu, Gazze Şeridi'nde düzenlediği hava saldırılarıyla 2 evi yerle bir etti",
-   "ozet": "İsrail ordusu, ateşkese rağmen Gazze Şeridi'ne düzenlediği hava saldırılarında 2 evi bombalayarak yerle bir etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridinde-duzenledigi-hava-saldirilariyla-2-evi-yerle-bir-etti-/4105477",
-   "zaman": "2026-10-29T23:31:05+03:00",
-   "kelimeler": [
-    "duzen",
-    "etti",
-    "evi",
-    "gazze",
-    "hava",
-    "israi",
-    "nde",
-    "ordus",
-    "saldi",
-    "serid",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ffe3465833be": {
    "id": "ffe3465833be",
    "kaynak": "BBC Türkçe",
@@ -16676,7 +16609,9 @@
    "slayt": 4,
    "kanca": "YÖNETİM İSTİFA",
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "Hürriyet",
+    "NTV"
    ]
   },
   "79085f613281": {
@@ -23843,9 +23778,135 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4053660ef958"
+  },
+  "ecacbb7e2f29": {
+   "id": "ecacbb7e2f29",
+   "kaynak": "AA",
+   "baslik": "İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı yapıldı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
+   "zaman": "2026-11-01T22:41:08+03:00",
+   "kelimeler": [
+    "bakan",
+    "baska",
+    "ciftc",
+    "guven",
+    "icisl",
+    "istan",
+    "topla",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8fd0f45818ae"
+  },
+  "00c502bd80c7": {
+   "id": "00c502bd80c7",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da helikopter destekli asayiş uygulaması",
+   "ozet": "İstanbul'da polis ekipleri, kent genelinde helikopter destekli \"huzur\" uygulaması yaptı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-helikopter-destekli-asayis-uygulamasi-961900.html",
+   "zaman": "2026-11-01T22:59:00+03:00",
+   "kelimeler": [
+    "asayi",
+    "deste",
+    "helik",
+    "istan",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d01249ab90e1": {
+   "id": "d01249ab90e1",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
+   "ozet": "Antalya'da, 920 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 1011 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak-961901.html",
+   "zaman": "2026-11-01T23:19:00+03:00",
+   "kelimeler": [
+    "antal",
+    "bazi",
+    "duzen",
+    "guzer",
+    "trafi",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "dc7118430594": {
+   "id": "dc7118430594",
+   "kaynak": "Hürriyet",
+   "baslik": "Daltonlar’dan Fenerbahçe tribün liderine suikast hazırlığı: 5 şüpheli yakalandı",
+   "ozet": "Kamuoyunda \"Daltonlar\" olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik silahlı eylem hazırlığında oldukları değerlendirilen 5 şüpheli yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/daltonlardan-fenerbahce-tribun-liderine-suikast-hazirligi-5-supheli-yakalandi-43362791",
+   "zaman": "2026-11-01T23:19:08+03:00",
+   "kelimeler": [
+    "dalto",
+    "dan",
+    "fener",
+    "hazir",
+    "lider",
+    "suika",
+    "suphe",
+    "tribu",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4053660ef958"
+  },
+  "cd53ac868d5c": {
+   "id": "cd53ac868d5c",
+   "kaynak": "NTV",
+   "baslik": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
+   "ozet": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960",
+   "zaman": "2026-11-01T23:20:38+03:00",
+   "kelimeler": [
+    "cetes",
+    "dalto",
+    "fener",
+    "hazir",
+    "lider",
+    "saldi",
+    "suphe",
+    "tribu",
+    "uyesi",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4053660ef958"
+  },
+  "54bd8269f7a5": {
+   "id": "54bd8269f7a5",
+   "kaynak": "AA",
+   "baslik": "COP31 kapsamında Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
+   "ozet": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 10,11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224",
+   "zaman": "2026-11-01T23:21:33+03:00",
+   "kelimeler": [
+    "antal",
+    "bazi",
+    "cop31",
+    "duzen",
+    "guzer",
+    "kapsa",
+    "trafi",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d01249ab90e1"
   }
  },
  "kayit": [
+  "01.11 23:31:09  2 yeni haber",
   "01.11 23:15:58  1 yeni haber",
   "01.11 23:01:18  2 yeni haber",
   "01.11 22:31:19  2 yeni haber",
@@ -24044,8 +24105,7 @@
   "30.10 17:46:01  2 yeni haber",
   "30.10 17:33:30  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Musk, Demokratların 2028 seçimlerini kazanmasının ABD için oyunun sonu",
   "30.10 17:31:13  3 yeni haber",
-  "30.10 17:16:17  2 yeni haber",
-  "30.10 17:01:35  7 yeni haber"
+  "30.10 17:16:17  2 yeni haber"
  ],
  "otomatik": false
 }
