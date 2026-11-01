@@ -1,108 +1,5 @@
 {
  "haberler": {
-  "4073600cedcc": {
-   "id": "4073600cedcc",
-   "kaynak": "TRT Haber",
-   "baslik": "Şarampole devrilen araç takla attı: 2 ölü, 2 yaralı",
-   "ozet": "Erzurum'un Oltu ilçesinde hafif ticari aracın şarampole devrilip takla atması sonucu 2 kişi hayatını kaybetti, 2 kişi ağır yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/sarampole-devrilen-arac-takla-atti-2-olu-2-yarali-961553.html",
-   "zaman": "2026-10-29T06:32:00+03:00",
-   "kelimeler": [
-    "arac",
-    "atti",
-    "devri",
-    "olu",
-    "saram",
-    "takla",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "84c2c631281e": {
-   "id": "84c2c631281e",
-   "kaynak": "TRT Haber",
-   "baslik": "Ekipler mantar ararken mahsur kalan yaşlı çift için seferber oldu",
-   "ozet": "Bursa'nın Gemlik ilçesinde mantar ararken ormanlık arazide mahsur kalan yaşlı çift, AFAD ve jandarma ekipleri tarafından kurtarıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ekipler-mantar-ararken-mahsur-kalan-yasli-cift-icin-seferber-oldu-961554.html",
-   "zaman": "2026-10-29T06:35:00+03:00",
-   "kelimeler": [
-    "arark",
-    "cift",
-    "ekipl",
-    "kalan",
-    "mahsu",
-    "manta",
-    "sefer",
-    "yasli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6067efbf6808": {
-   "id": "6067efbf6808",
-   "kaynak": "TRT Haber",
-   "baslik": "Putin: Elon Musk gerçek bir dahi",
-   "ozet": "Rusya Devlet Başkanı Vladimir Putin, SpaceX kurucusu Elon Musk ile uydu teknolojileri konusunda yakın temas halinde olduklarını belirterek Musk için \"gerçek bir dahi\" ifadesini kullandı.",
-   "link": "https://www.trthaber.com/haber/dunya/putin-elon-musk-gercek-bir-dahi-961556.html",
-   "zaman": "2026-10-29T06:43:00+03:00",
-   "kelimeler": [
-    "dahi",
-    "elon",
-    "gerce",
-    "musk",
-    "putin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d178c9403299"
-  },
-  "33c5a4339667": {
-   "id": "33c5a4339667",
-   "kaynak": "TRT Haber",
-   "baslik": "Binlerce kişiyi işten çıkaracağını duyuran Microsoft'un karı rekor seviyede arttı",
-   "ozet": "Teknoloji devi Microsoft, yapay zeka altyapısına milyarlarca dolar yatırım yapmaya devam ederken, iş gücünde yüzde 25'ten fazla kesintiye gideceğini duyurmasından sadece günler sonra, eylül sonu itibarıyla üç aylık karının 36,6 milyar doları aştığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/binlerce-kisiyi-isten-cikaracagini-duyuran-microsoftun-kari-rekor-seviyede-artti-961557.html",
-   "zaman": "2026-10-29T06:44:00+03:00",
-   "kelimeler": [
-    "artti",
-    "binle",
-    "cikar",
-    "duyur",
-    "isten",
-    "kari",
-    "kisiy",
-    "micro",
-    "rekor",
-    "seviy",
-    "un"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "bcee3f54fb11": {
-   "id": "bcee3f54fb11",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi'den kuvvetli yağış uyarısı: Teyakkuz halinde olunmalı",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 29 Ekim'de yurdun çeşitli bölgelerinde beklenen kuvvetli sağanak nedeniyle vatandaşları uyararak, Meteoroloji Genel Müdürlüğü ve AFAD'ın uyarılarına uyulmasını istedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftciden-kuvvetli-yagis-uyarisi-teyakkuz-halinde-olunmali-961555.html",
-   "zaman": "2026-10-29T06:44:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "ciftc",
-    "den",
-    "halin",
-    "kuvve",
-    "olunm",
-    "teyak",
-    "uyari",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "cfca98d27d0b"
-  },
   "f7199395a07b": {
    "id": "f7199395a07b",
    "kaynak": "TRT Haber",
@@ -20526,7 +20423,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "fcf1cc6fafa3": {
    "id": "fcf1cc6fafa3",
@@ -27788,9 +27688,49 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "90dc5c333fc1"
+  },
+  "2fdcee3cc153": {
+   "id": "2fdcee3cc153",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül Ailesi’nin ‘kara kutusu’ konuştu: ‘Altın ve elmasları jetle kaçırdılar’",
+   "ozet": "Sarıgüllerin para aklama soruşturmasında çarpıcı ifadeler ortaya çıktı. Hürriyet, ailenin ‘kara kutusu’ olarak anılan Cihan Tunç’un 4 sayfalık ifadesine ulaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-altin-ve-elmaslari-jetle-kacirdilar-43362077",
+   "zaman": "2026-11-01T06:29:37+03:00",
+   "kelimeler": [
+    "ailes",
+    "altin",
+    "elmas",
+    "jetle",
+    "kacir",
+    "kara",
+    "konus",
+    "kutus",
+    "nin",
+    "sarig"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a6bca47da4ac": {
+   "id": "a6bca47da4ac",
+   "kaynak": "Hürriyet",
+   "baslik": "Sosyal medyada yeni dönem",
+   "ozet": "Çocukların sosyal medya kullanımını sınırlandıran ve yetişkinlere e-Devlet üzerinden yaş doğrulama zorunluluğu getiren düzenleme bugün itibarıyla yürürlüğe girdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sosyal-medyada-yeni-donem-43362059",
+   "zaman": "2026-11-01T06:31:35+03:00",
+   "kelimeler": [
+    "donem",
+    "medya",
+    "sosya",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c4486013788"
   }
  },
  "kayit": [
+  "01.11 06:46:11  1 yeni haber",
   "01.11 04:16:11  1 yeni haber",
   "01.11 04:02:43  3 yeni haber",
   "01.11 03:46:32  2 yeni haber",
@@ -27989,8 +27929,7 @@
   "30.10 00:01:28  3 yeni haber",
   "29.10 23:46:00  3 yeni haber",
   "29.10 23:32:27  2 yeni haber",
-  "29.10 23:16:20  4 yeni haber",
-  "29.10 23:01:26  2 yeni haber"
+  "29.10 23:16:20  4 yeni haber"
  ],
  "otomatik": false
 }
