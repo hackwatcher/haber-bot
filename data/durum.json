@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "a0d2bea53284": {
-   "id": "a0d2bea53284",
-   "kaynak": "NTV",
-   "baslik": "Zelenski Türkiye'ye geliyor: Cumhurbaşkanı Erdoğan ile görüşecek",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine bugün Türkiye'ye gelecek.",
-   "link": "https://www.ntv.com.tr/turkiye/zelenski-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678",
-   "zaman": "2026-10-31T01:08:44+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "geliy",
-    "gorus",
-    "turki",
-    "ye",
-    "zelen"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "62b9915d2bab"
-  },
   "cfb865ed5623": {
    "id": "cfb865ed5623",
    "kaynak": "Hürriyet",
@@ -23330,7 +23310,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "7b1140ea65b3": {
@@ -23563,6 +23544,28 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2f9c5f8c8405"
+  },
+  "a17080e0eeeb": {
+   "id": "a17080e0eeeb",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan MHP lideri Bahçeli'ye başsağlığı mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Prof. Dr. Serpil Bahçeli'nin vefatı nedeniyle başsağlığı mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-mhp-lideri-bahceliye-bassagligi-mesaji-43363853",
+   "zaman": "2026-11-03T01:03:20+03:00",
+   "kelimeler": [
+    "bahce",
+    "bassa",
+    "cumhu",
+    "dan",
+    "erdog",
+    "lider",
+    "mesaj",
+    "mhp",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6b88d30aefd6"
   }
  },
  "kayit": [
