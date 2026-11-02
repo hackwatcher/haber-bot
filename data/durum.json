@@ -1,31 +1,5 @@
 {
  "haberler": {
-  "e6399365946d": {
-   "id": "e6399365946d",
-   "kaynak": "AA",
-   "baslik": "Polonya'da Anayasa Mahkemesi polis ablukasına alınınca Cumhurbaşkanı uçağını yarı yoldan döndürdü",
-   "ozet": "Polonya'da Anayasa Mahkemesi polis ablukasına alınırken Cumhurbaşkanı Karol Nawrocki Senegal'e planladığı ziyareti yarı yolda keserek ülkesine dönme kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/polonyada-anayasa-mahkemesi-polis-ablukasina-alininca-cumhurbaskani-ucagini-yari-yoldan-dondurdu/4106944",
-   "zaman": "2026-10-30T23:34:36+03:00",
-   "kelimeler": [
-    "abluk",
-    "alini",
-    "anaya",
-    "cumhu",
-    "dondu",
-    "mahke",
-    "polis",
-    "polon",
-    "ucagi",
-    "yari",
-    "yolda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "8873e4c5901c": {
    "id": "8873e4c5901c",
    "kaynak": "NTV",
@@ -569,27 +543,6 @@
     "TRT Haber",
     "Hürriyet"
    ]
-  },
-  "e24562419bbc": {
-   "id": "e24562419bbc",
-   "kaynak": "AA",
-   "baslik": "Polonya Anayasa Mahkemesi önünde gösteri ve polis ablukası sürüyor",
-   "ozet": "Polonya'da Anayasa Mahkemesi Başkanı Bogdan Swieczkowski ve Başkan Yardımcısı Bartlomiej Sochanski'nin görevlerinden uzaklaştırıldığının duyurulmasının ardından mahkeme binası önünde başlayan gösteri ve polis ablukası devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/polonya-anayasa-mahkemesi-onunde-gosteri-ve-polis-ablukasi-suruyor/4106944",
-   "zaman": "2026-10-30T23:34:36+03:00",
-   "kelimeler": [
-    "abluk",
-    "anaya",
-    "goste",
-    "mahke",
-    "onund",
-    "polis",
-    "polon",
-    "suruy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e6399365946d"
   },
   "0529b3755f41": {
    "id": "0529b3755f41",
@@ -17669,7 +17622,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "641303d4b0c7": {
    "id": "641303d4b0c7",
@@ -23353,7 +23308,10 @@
     "zorlu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "8697f648c980": {
    "id": "8697f648c980",
@@ -23447,6 +23405,46 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ddbaaea8b8fe": {
+   "id": "ddbaaea8b8fe",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in Gazze'ye saldırılarında 7 Filistinli daha hayatını kaybetti",
+   "ozet": "Katil İsrail ordusunun ateşkes anlaşmasını ihlal ederek Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 2'si daha önce yaralanan 7 Filistinli yaşamını yitirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-7-filistinli-daha-hayatini-kaybetti-961996.html",
+   "zaman": "2026-11-02T23:24:00+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "katil",
+    "kaybe",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "255ea36353a3"
+  },
+  "a331dbd89d83": {
+   "id": "a331dbd89d83",
+   "kaynak": "NTV",
+   "baslik": "Ahmet Nazif Zorlu hayatını kaybetti",
+   "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
+   "link": "https://www.ntv.com.tr/turkiye/ahmet-nazif-zorlu-hayatini-kaybetti-1749103",
+   "zaman": "2026-11-02T23:30:38+03:00",
+   "kelimeler": [
+    "ahmet",
+    "hayat",
+    "kaybe",
+    "nazif",
+    "zorlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2f9c5f8c8405"
   }
  },
  "kayit": [
