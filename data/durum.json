@@ -1,90 +1,5 @@
 {
  "haberler": {
-  "e43d48bfcc87": {
-   "id": "e43d48bfcc87",
-   "kaynak": "AA",
-   "baslik": "Atlanta'daki G20 Dışişleri Bakanları Toplantısı, aile fotoğrafı çekilmeden başladı",
-   "ozet": "ABD'nin Atlanta kentinde gerçekleştirilen ve Dışişleri Bakanı Hakan Fidan'ın da katıldığı G20 Dışişleri Bakanları Toplantısı, Rusya ile bazı Avrupa ülkeleri arasındaki anlaşmazlıklar nedeniyle aile fotoğrafı çekimi yapılmadan başladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/atlantadaki-g20-disisleri-bakanlari-toplantisi-aile-fotografi-cekilmeden-basladi/4106736",
-   "zaman": "2026-10-30T18:21:54+03:00",
-   "kelimeler": [
-    "aile",
-    "atlan",
-    "bakan",
-    "basla",
-    "cekil",
-    "daki",
-    "disis",
-    "fotog",
-    "g20",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "15b855e7f91f": {
-   "id": "15b855e7f91f",
-   "kaynak": "AA",
-   "baslik": "Borsa günü düşüşle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,64 değer kaybederek 10.759,56 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4106741",
-   "zaman": "2026-10-30T18:24:57+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "tamam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "801fac8f8df3": {
-   "id": "801fac8f8df3",
-   "kaynak": "AA",
-   "baslik": "İstanbul merkezli 30 ilde yeni nesil suç örgütü operasyonunda 52 zanlı için tutuklama talebi",
-   "ozet": "İstanbul merkezli 30 ilde yeni nesil suç örgütüne yönelik düzenlenen operasyonda gözaltına alınan 89 şüpheliden 52'si tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-30-ilde-yeni-nesil-suc-orgutu-operasyonunda-52-zanli-icin-tutuklama-talebi/4106745",
-   "zaman": "2026-10-30T18:29:00+03:00",
-   "kelimeler": [
-    "30",
-    "52",
-    "ilde",
-    "istan",
-    "merke",
-    "nesil",
-    "opera",
-    "orgut",
-    "suc",
-    "taleb",
-    "tutuk",
-    "yeni",
-    "zanli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "fd20a5b4972b": {
-   "id": "fd20a5b4972b",
-   "kaynak": "Sözcü",
-   "baslik": "Görevden uzaklaştırılan Fevzi Topuz'un cezaevi değişti!",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/fevzi-topuz-burdur-sevk-edildi-p374411",
-   "zaman": "2026-10-30T18:31:36+03:00",
-   "kelimeler": [
-    "cezae",
-    "degis",
-    "fevzi",
-    "gorev",
-    "topuz",
-    "un",
-    "uzakl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6f0a10e5ab70": {
    "id": "6f0a10e5ab70",
    "kaynak": "AA",
@@ -242,27 +157,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "cdf290cb92cb": {
-   "id": "cdf290cb92cb",
-   "kaynak": "AA",
-   "baslik": "Tuzla'da Cumhuriyet'in 103. yıl dönümü etkinliklerle kutlandı",
-   "ozet": "Tuzla'da, 29 Ekim Cumhuriyet Bayramı ve Cumhuriyet'in 103. yılı kültür, sanat ve spor etkinlikleriyle kutlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/tuzlada-cumhuriyetin-103-yil-donumu-etkinliklerle-kutlandi/4106744",
-   "zaman": "2026-10-30T18:26:58+03:00",
-   "kelimeler": [
-    "103",
-    "cumhu",
-    "donum",
-    "etkin",
-    "in",
-    "kutla",
-    "tuzla",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "346c68e84f57"
   },
   "e6ed4fffa0cc": {
    "id": "e6ed4fffa0cc",
@@ -23331,7 +23225,10 @@
     "uygul"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "45c7efb1ae4d": {
    "id": "45c7efb1ae4d",
@@ -23518,9 +23415,117 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4bd60ef3e523": {
+   "id": "4bd60ef3e523",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya ve Ukrayna'da acil durum uygulamalarına siber saldırılar düzenlendi",
+   "ozet": "Siber saldırganlar, Rusya ve Ukrayna'da vatandaşları olası tehlikelere karşı uyarmak amacıyla kullanılan acil durum uygulamalarını hedef aldı ve her iki ülkede de halka nükleer ve radyasyon tehdidine ilişkin sahte uyarılar gönderdi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ve-ukraynada-acil-durum-uygulamalarina-siber-saldirilar-duzenlendi-961982.html",
+   "zaman": "2026-11-02T17:57:00+03:00",
+   "kelimeler": [
+    "durum",
+    "duzen",
+    "rusya",
+    "saldi",
+    "siber",
+    "ukray",
+    "uygul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a42c0c2d4dda"
+  },
+  "abc1f148f32d": {
+   "id": "abc1f148f32d",
+   "kaynak": "AA",
+   "baslik": "Borsa günü yükselişle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968",
+   "zaman": "2026-11-02T18:20:12+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "96544d6088a0": {
+   "id": "96544d6088a0",
+   "kaynak": "Hürriyet",
+   "baslik": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/abd-iran-anlasmasina-yonelik-adimlar-piyasalari-olumlu-etkiledi-borsa-gunu-yukselisle-tamamladi-43363655",
+   "zaman": "2026-11-02T18:22:45+03:00",
+   "kelimeler": [
+    "abd",
+    "adiml",
+    "anlas",
+    "borsa",
+    "etkil",
+    "gunu",
+    "iran",
+    "oluml",
+    "piyas",
+    "tamam",
+    "yonel",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "abc1f148f32d"
+  },
+  "d5a3650574d2": {
+   "id": "d5a3650574d2",
+   "kaynak": "NTV",
+   "baslik": "\"Mumya ceset\" cinayetinde 19 yıl sonra itiraf. Buzdolabına sığmayınca parçalamışlar",
+   "ozet": "Mersin'de 2007 yılında kamuoyunda \"Mumya ceset\" olarak bilinen cinayetle ilgili 19 yıl sonra yeni ayrıntılar ortaya çıktı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-mumya-ceset-cinayetinde-19-yil-sonra-itiraf-buzdolabina-sigmayinca-parcalamislar-1749078",
+   "zaman": "2026-11-02T18:22:55+03:00",
+   "kelimeler": [
+    "19",
+    "buzdo",
+    "ceset",
+    "cinay",
+    "itira",
+    "mumya",
+    "parca",
+    "sigma",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7b825d9dff6": {
+   "id": "f7b825d9dff6",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında İnan Altınbaş'tan 680 milyon TL'lik iade!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/fon-sorusturmasi-inan-altinbas-ne-kadar-iade-etti-p375316",
+   "zaman": "2026-11-02T18:23:01+03:00",
+   "kelimeler": [
+    "680",
+    "altin",
+    "fon",
+    "iade",
+    "inan",
+    "lik",
+    "milyo",
+    "sorus",
+    "tan",
+    "tl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 18:31:52  3 yeni haber",
   "02.11 18:16:02  1 yeni haber",
   "02.11 18:01:35  4 yeni haber",
   "02.11 17:46:04  5 yeni haber",
@@ -23719,8 +23724,7 @@
   "31.10 14:31:27  4 yeni haber",
   "31.10 14:15:56  4 yeni haber",
   "31.10 14:01:23  4 yeni haber",
-  "31.10 13:46:15  4 yeni haber",
-  "31.10 13:33:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Türkiye ve Kazakistan arasındaki dış ticaret rekor seviyeye taşındı"
+  "31.10 13:46:15  4 yeni haber"
  ],
  "otomatik": false
 }
