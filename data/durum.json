@@ -1,55 +1,5 @@
 {
  "haberler": {
-  "7292c2f73efb": {
-   "id": "7292c2f73efb",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan G20 için Atlanta'da",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, ABD'nin Atlanta kentinde düzenlenen G20 Dışişleri Bakanları Toplantısına katılacak. Bakan Fidanın zirve kapsamında \"Jeopolitik Gerilimler\" ve \"Enerji\" oturumlarına katılması ve mevkidaşlarıyla kritik ikili görüşmeler gerçekleştirmesi bekleniyor.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-g20-icin-atlantada-961699.html",
-   "zaman": "2026-10-30T07:54:00+03:00",
-   "kelimeler": [
-    "atlan",
-    "bakan",
-    "fidan",
-    "g20"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5229fda92472"
-  },
-  "97640146d27e": {
-   "id": "97640146d27e",
-   "kaynak": "Hürriyet",
-   "baslik": "Balkanlardan gelen soğuk hava etkisini sürdürüyor: Kuvvetli sağanak yağış uyarısı! İstanbul dahil birçok ilde sarı alarm | Ani sel, rüzgar ve heyelan riski",
-   "ozet": "İstanbul başta olmak üzere yurdumuzun tamamına yakın bölümü Balkanlar üzerinden gelen soğuk hava ve yağışlı sistemlerin etkisi altında kalmaya devam ediyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/balkanlardan-gelen-soguk-hava-etkisini-surduruyor-kuvvetli-saganak-yagis-uyarisi-istanbul-dahil-bircok-ilde-sari-alarm-ani-sel-43360062",
-   "zaman": "2026-10-30T07:58:14+03:00",
-   "kelimeler": [
-    "alarm",
-    "ani",
-    "balka",
-    "birco",
-    "dahil",
-    "etkis",
-    "gelen",
-    "hava",
-    "heyel",
-    "ilde",
-    "istan",
-    "kuvve",
-    "riski",
-    "ruzga",
-    "sagan",
-    "sari",
-    "sel",
-    "soguk",
-    "surdu",
-    "uyari",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c2c5dfc5ad14": {
    "id": "c2c5dfc5ad14",
    "kaynak": "NTV",
@@ -23002,7 +22952,10 @@
     "sampi"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "4b97ab1a3bfd": {
    "id": "4b97ab1a3bfd",
@@ -23442,9 +23395,67 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c64725588890": {
+   "id": "c64725588890",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan Güney Kore'de",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e ulaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-korede/4108266",
+   "zaman": "2026-11-02T06:51:50+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "guney",
+    "kore"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "08fb00d6d95c"
+  },
+  "93aeb1437738": {
+   "id": "93aeb1437738",
+   "kaynak": "TRT Haber",
+   "baslik": "Anthropicten yapay zekaya kötü muamele yasağı: Mesele duygular değil",
+   "ozet": "ABD merkezli yapay zeka şirketi Anthropic, Claude modeline yönelik sürekli ve gereksiz kötü muameleyi kullanım politikası kapsamına aldı. Uzmanlar, kullanıcıların yapay zekayla kurduğu iletişimin modelin performansını ve güvenliğini etkileyebileceğine dikkat çekiyor.",
+   "link": "https://www.trthaber.com/haber/dunya/anthropicten-yapay-zekaya-kotu-muamele-yasagi-mesele-duygular-degil-961909.html",
+   "zaman": "2026-11-02T07:31:00+03:00",
+   "kelimeler": [
+    "anthr",
+    "degil",
+    "duygu",
+    "kotu",
+    "mesel",
+    "muame",
+    "yapay",
+    "yasag",
+    "zekay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "162f602e0a1f": {
+   "id": "162f602e0a1f",
+   "kaynak": "TRT Haber",
+   "baslik": "Kimi Antonelli, Formula 1 tarihinin en genç şampiyonu oldu",
+   "ozet": "Mercedes takımının İtalyan pilotu Kimi Antonelli, 2026 Formula 1 dünya şampiyonu oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/kimi-antonelli-formula-1-tarihinin-en-genc-sampiyonu-oldu-961908.html",
+   "zaman": "2026-11-02T07:46:00+03:00",
+   "kelimeler": [
+    "anton",
+    "formu",
+    "genc",
+    "kimi",
+    "sampi",
+    "tarih"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c3f1e4e2f488"
   }
  },
  "kayit": [
+  "02.11 08:01:25  1 yeni haber",
   "02.11 07:45:59  1 yeni haber",
   "02.11 07:15:58  8 yeni haber",
   "02.11 07:02:59  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi.",
@@ -23643,8 +23654,7 @@
   "30.10 23:02:32  4 yeni haber",
   "30.10 22:31:17  2 yeni haber",
   "30.10 22:15:59  2 yeni haber",
-  "30.10 22:01:26  2 yeni haber",
-  "30.10 21:46:12  2 yeni haber"
+  "30.10 22:01:26  2 yeni haber"
  ],
  "otomatik": false
 }
