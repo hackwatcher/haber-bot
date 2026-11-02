@@ -1,41 +1,5 @@
 {
  "haberler": {
-  "6f0a10e5ab70": {
-   "id": "6f0a10e5ab70",
-   "kaynak": "AA",
-   "baslik": "TMO, kasımda piyasaya 5,5 milyon ton hububat arz edecek",
-   "ozet": "Toprak Mahsulleri Ofisi (TMO), kasım ayında piyasaya 5,5 milyon ton hububat arz edeceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tmo-kasimda-piyasaya-5-5-milyon-ton-hububat-arz-edecek/4106749",
-   "zaman": "2026-10-30T18:34:39+03:00",
-   "kelimeler": [
-    "arz",
-    "edece",
-    "hubub",
-    "kasim",
-    "milyo",
-    "piyas",
-    "tmo",
-    "ton"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6d6debc44d14": {
-   "id": "6d6debc44d14",
-   "kaynak": "AA",
-   "baslik": "Bu hafta yatırım araçlarının performansı",
-   "ozet": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 3,22, avro/TL yüzde 0,10 ve altının gram fiyatı yüzde 1,18 değer kaybederken, dolar/TL yüzde 0,48 değer kazandı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4106756",
-   "zaman": "2026-10-30T18:43:44+03:00",
-   "kelimeler": [
-    "aracl",
-    "hafta",
-    "perfo",
-    "yatir"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "ea4c79f98ec6": {
    "id": "ea4c79f98ec6",
    "kaynak": "XHABER",
@@ -541,22 +505,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b36cd9864367"
-  },
-  "e388fa753f4b": {
-   "id": "e388fa753f4b",
-   "kaynak": "TRT Haber",
-   "baslik": "Göçmen kuşlar da jetlag oluyor",
-   "ozet": "Bilim insanları, göçmen deniz kuşlarının biyolojik saatleri ile bulundukları yerin saati arasındaki uyumsuzluğun yön bulma yeteneklerini bozduğunu ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/gocmen-kuslar-da-jet-lag-oluyor-961759.html",
-   "zaman": "2026-10-30T18:42:00+03:00",
-   "kelimeler": [
-    "gocme",
-    "jetla",
-    "kusla",
-    "oluyo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "c70eb6069c73": {
    "id": "c70eb6069c73",
@@ -20205,7 +20153,8 @@
     "suc"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "f5975eccdcf1": {
    "id": "f5975eccdcf1",
@@ -23522,9 +23471,56 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "437f90a94ec1": {
+   "id": "437f90a94ec1",
+   "kaynak": "AA",
+   "baslik": "Tahran’daki Tecriş Meydanı’nda \"gönüllü savaşçılar\" için üçüncü tatbikat alanı açıldı",
+   "ozet": "İran'ın başkenti Tahran’daki Tecriş Meydanı’nda, \"gönüllü savaşçıların\" silahlı tatbikat yapabilmeleri için hazırlanan alan hizmete girdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-alani-acildi/4108925",
+   "zaman": "2026-11-02T17:33:14+03:00",
+   "kelimeler": [
+    "acild",
+    "alani",
+    "daki",
+    "gonul",
+    "meyda",
+    "nda",
+    "savas",
+    "tahra",
+    "tatbi",
+    "tecri",
+    "ucunc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fa0f2a6ba8c2": {
+   "id": "fa0f2a6ba8c2",
+   "kaynak": "Hürriyet",
+   "baslik": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 102. duruşması sona erdi",
+   "ozet": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 102. duruşmasında bir kısım tanıklar dinlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-102-durusmasi-sona-erdi-43363658",
+   "zaman": "2026-11-02T18:32:15+03:00",
+   "kelimeler": [
+    "102",
+    "amacl",
+    "cikar",
+    "davas",
+    "durus",
+    "erdi",
+    "imamo",
+    "orgut",
+    "sona",
+    "suc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8fd253f0bcee"
   }
  },
  "kayit": [
+  "02.11 18:46:07  1 yeni haber",
   "02.11 18:31:52  3 yeni haber",
   "02.11 18:16:02  1 yeni haber",
   "02.11 18:01:35  4 yeni haber",
@@ -23723,8 +23719,7 @@
   "31.10 14:45:54  3 yeni haber",
   "31.10 14:31:27  4 yeni haber",
   "31.10 14:15:56  4 yeni haber",
-  "31.10 14:01:23  4 yeni haber",
-  "31.10 13:46:15  4 yeni haber"
+  "31.10 14:01:23  4 yeni haber"
  ],
  "otomatik": false
 }
