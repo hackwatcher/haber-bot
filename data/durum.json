@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "8873e4c5901c": {
-   "id": "8873e4c5901c",
-   "kaynak": "NTV",
-   "baslik": "Bakan Fidan, ABD'li mevkidaşı Rubio ile görüştü",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, ABD'de düzenlenen G20 Dışişleri Bakanları Toplantısı kapsamında ABD Dışişleri Bakanı Marco Rubio ile görüştü.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-fidan-abdli-mevkidasi-rubio-ile-gorustu-1748700",
-   "zaman": "2026-10-30T23:44:49+03:00",
-   "kelimeler": [
-    "abd",
-    "bakan",
-    "fidan",
-    "gorus",
-    "li",
-    "mevki",
-    "rubio"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "00e53f0fad13"
-  },
   "f420a92c4adc": {
    "id": "f420a92c4adc",
    "kaynak": "AA",
@@ -133,30 +113,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "110acf43b8b5"
-  },
-  "a336f747dc82": {
-   "id": "a336f747dc82",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Göktaş: Aile ve Kadın Konseyi, TDT'nin gelecek vizyonuna güçlü bir katkı sunacak",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Sayın Emine Erdoğan Hanımefendi'nin himayelerinde kurulacak olan Aile ve Kadın Konseyi, Türk Devletleri Teşkilatının gelecek vizyonuna güçlü bir katkı sunacaktır.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-aile-ve-kadin-konseyi-tdtnin-gelecek-vizyonuna-guclu-bir-katki-sunacak-961774.html",
-   "zaman": "2026-10-30T23:36:00+03:00",
-   "kelimeler": [
-    "aile",
-    "bakan",
-    "gelec",
-    "gokta",
-    "guclu",
-    "kadin",
-    "katki",
-    "konse",
-    "nin",
-    "sunac",
-    "tdt",
-    "vizyo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "690c6f5cb4d8": {
    "id": "690c6f5cb4d8",
@@ -23310,7 +23266,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "8697f648c980": {
@@ -23445,9 +23402,75 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2f9c5f8c8405"
+  },
+  "f294c9ab8e52": {
+   "id": "f294c9ab8e52",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul için sağanak uyarısı",
+   "ozet": "İstanbul için kuvvetli sağanak uyarısı yapıldı. Su baskını, ani sel ve ulaşımda aksamalar gibi olumsuzluklara karşı vatandaşlar uyarıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-saganak-uyarisi-961993.html",
+   "zaman": "2026-11-02T22:43:00+03:00",
+   "kelimeler": [
+    "istan",
+    "sagan",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "44abf7424422"
+  },
+  "a18f0baedafa": {
+   "id": "a18f0baedafa",
+   "kaynak": "Hürriyet",
+   "baslik": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
+   "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, bir süredir tedavi gördüğü hastanede hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-43363818",
+   "zaman": "2026-11-02T23:30:09+03:00",
+   "kelimeler": [
+    "ahmet",
+    "baska",
+    "hayat",
+    "holdi",
+    "kaybe",
+    "kurul",
+    "nazif",
+    "yonet",
+    "zorlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2f9c5f8c8405"
+  },
+  "d4fa84368172": {
+   "id": "d4fa84368172",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 2 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1749104",
+   "zaman": "2026-11-02T23:38:37+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 23:47:14  1 yeni haber",
   "02.11 23:31:30  2 yeni haber",
   "02.11 23:15:59  1 yeni haber",
   "02.11 23:01:57  2 yeni haber",
@@ -23646,8 +23669,7 @@
   "31.10 19:01:20  4 yeni haber",
   "31.10 18:46:09  3 yeni haber",
   "31.10 18:31:18  4 yeni haber",
-  "31.10 18:16:17  4 yeni haber",
-  "31.10 18:03:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ege Denizi'nde deprem meydana geldi"
+  "31.10 18:16:17  4 yeni haber"
  ],
  "otomatik": false
 }
