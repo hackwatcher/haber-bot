@@ -23184,7 +23184,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "XHABER",
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "f1a2550fd08a": {
@@ -23581,9 +23582,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "64675fb38505": {
+   "id": "64675fb38505",
+   "kaynak": "TRT Haber",
+   "baslik": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Prof. Dr. Serpil Bahçeli vefat etti.",
+   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html",
+   "zaman": "2026-11-02T20:07:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "etti",
+    "genel",
+    "karde",
+    "kiz",
+    "mhp",
+    "nin",
+    "serpi",
+    "vefat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "db21073f236b"
+  },
+  "573a0ebee47c": {
+   "id": "573a0ebee47c",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Riyad bölgesinde 2 İHA imha edildi",
+   "ozet": "Suudi Arabistan öncülüğündeki Arap koalisyonu başkent Riyad bölgesinde 2 insansız hava aracının İHA imha edildiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-riyad-bolgesinde-2-iha-imha-edildi-961988.html",
+   "zaman": "2026-11-02T20:12:00+03:00",
+   "kelimeler": [
+    "arap",
+    "bolge",
+    "edild",
+    "iha",
+    "imha",
+    "koali",
+    "riyad"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8a022715fa69": {
+   "id": "8a022715fa69",
+   "kaynak": "AA",
+   "baslik": "Anthropic, üçüncü çeyrekte yaklaşık 17 milyar dolar gelir elde etti",
+   "ozet": "Claude yapay zeka modellerinin geliştiricisi Anthropic, bu yılın üçüncü çeyreğinde yaklaşık 17 milyar dolar gelir elde ettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-ucuncu-ceyrekte-yaklasik-17-milyar-dolar-gelir-elde-etti/4109069",
+   "zaman": "2026-11-02T20:41:25+03:00",
+   "kelimeler": [
+    "17",
+    "anthr",
+    "ceyre",
+    "dolar",
+    "elde",
+    "etti",
+    "gelir",
+    "milya",
+    "ucunc",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 20:46:05  2 yeni haber",
   "02.11 20:40:16  7 yeni haber",
   "02.11 20:16:15  4 yeni haber",
   "02.11 20:01:35  2 yeni haber",
@@ -23782,8 +23848,7 @@
   "31.10 16:19:31  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Osmaniye'de 3.8 büyüklüğünde deprem",
   "31.10 16:15:58  3 yeni haber",
   "31.10 16:01:19  2 yeni haber",
-  "31.10 15:55:40  1 yeni haber",
-  "31.10 15:45:57  4 yeni haber"
+  "31.10 15:55:40  1 yeni haber"
  ],
  "otomatik": false
 }
