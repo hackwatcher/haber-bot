@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "a245ec4eb25f": {
-   "id": "a245ec4eb25f",
-   "kaynak": "BBC Türkçe",
-   "baslik": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
-   "ozet": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler başkanvekilliği seçimlerinde el değiştirdi ve AKP'ye geçti",
-   "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo",
-   "zaman": "2026-10-30T03:14:01+03:00",
-   "kelimeler": [
-    "31",
-    "beled",
-    "bugun",
-    "dagil",
-    "degis",
-    "istan",
-    "mart",
-    "nasil",
-    "secim",
-    "un",
-    "yerel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d73c39bb8f2a": {
    "id": "d73c39bb8f2a",
    "kaynak": "Hürriyet",
@@ -23927,9 +23904,30 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "6bde8d179303": {
+   "id": "6bde8d179303",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD ara seçimleri: Kim, nasıl kazanabilir ya da kaybedebilir?",
+   "ozet": "Trump'ın başkanlığının son iki yılını belirleyecek olan seçim öncesinde, önemli anketlere, yarışlara ve meselelere derinlemesine bir analiz.",
+   "link": "https://www.bbc.com/turkce/articles/cj5ynrx0dgego",
+   "zaman": "2026-11-02T03:00:38+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "kaybe",
+    "kazan",
+    "kim",
+    "nasil",
+    "secim",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "02.11 03:16:04  1 yeni haber",
   "02.11 02:53:42  1 yeni haber",
   "02.11 02:31:10  1 yeni haber",
   "02.11 01:46:16  1 yeni haber",
@@ -24128,8 +24126,7 @@
   "30.10 20:46:09  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "30.10 20:31:14  1 yeni haber",
   "30.10 20:10:30  2 yeni haber",
-  "30.10 20:01:22  2 yeni haber",
-  "30.10 19:49:28  Ek paylaşılamadı: reels: An unknown error occurred  (kod 1/99)"
+  "30.10 20:01:22  2 yeni haber"
  ],
  "otomatik": false
 }
