@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "f00d65f98db1": {
-   "id": "f00d65f98db1",
-   "kaynak": "AA",
-   "baslik": "Ordu'da yağış sonucu ırmakta mahsur kalan kişi kurtarıldı",
-   "ozet": "Ordu'nun Fatsa ilçesinde etkili olan yağış sonucu su seviyesi yükselen ırmakta mahsur kalan iş makinesi operatörü itfaiye ekiplerince kurtarıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/orduda-yagis-sonucu-irmakta-mahsur-kalan-kisi-kurtarildi/4106890",
-   "zaman": "2026-10-30T22:07:14+03:00",
-   "kelimeler": [
-    "irmak",
-    "kalan",
-    "kisi",
-    "kurta",
-    "mahsu",
-    "ordu",
-    "sonuc",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f5a423a7131a": {
    "id": "f5a423a7131a",
    "kaynak": "BBC Türkçe",
@@ -233,27 +213,6 @@
     "mahke",
     "ortal",
     "ulkes"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "64b0846b658f": {
-   "id": "64b0846b658f",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul ve Ankara'nın simge yapılarında TDT Zirvesi'ne özel gösterim",
-   "ozet": "İletişim Başkanlığı koordinasyonunda, Türk Devletleri Teşkilatı TDT Devlet Başkanları Konseyi 13.",
-   "link": "https://www.trthaber.com/haber/gundem/istanbul-ve-ankaranin-simge-yapilarinda-tdt-zirvesine-ozel-gosterim-961771.html",
-   "zaman": "2026-10-30T22:05:00+03:00",
-   "kelimeler": [
-    "ankar",
-    "goste",
-    "istan",
-    "nin",
-    "ozel",
-    "simge",
-    "tdt",
-    "yapil",
-    "zirve"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -23341,7 +23300,10 @@
     "sehit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "6ba4bdd72be2": {
    "id": "6ba4bdd72be2",
@@ -23363,9 +23325,42 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b0e452aed475": {
+   "id": "b0e452aed475",
+   "kaynak": "AA",
+   "baslik": "Gençlerbirliği, Alanyaspor'u 5-0 yendi",
+   "ozet": "Gençlerbirliği, Trendyol Süper Lig'in 10. haftasında sahasında Corendon Alanyaspor'u 5-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-alanyasporu-5-0-yendi/4109097",
+   "zaman": "2026-11-02T21:14:49+03:00",
+   "kelimeler": [
+    "alany",
+    "gencl",
+    "yendi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "282458b30c6b": {
+   "id": "282458b30c6b",
+   "kaynak": "AA",
+   "baslik": "Van'da rahatsızlanan asker şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Van'da görev esnasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in kaldırıldığı hastanede şehit olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanda-rahatsizlanan-asker-sehit-oldu/4109130",
+   "zaman": "2026-11-02T22:09:21+03:00",
+   "kelimeler": [
+    "asker",
+    "rahat",
+    "sehit",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7be5692f6c9b"
   }
  },
  "kayit": [
+  "02.11 22:16:01  1 yeni haber",
   "02.11 22:01:35  3 yeni haber",
   "02.11 21:46:04  2 yeni haber",
   "02.11 21:31:15  2 yeni haber",
@@ -23564,8 +23559,7 @@
   "31.10 17:46:18  3 yeni haber",
   "31.10 17:31:08  2 yeni haber",
   "31.10 17:15:59  3 yeni haber",
-  "31.10 17:01:30  1 yeni haber",
-  "31.10 16:46:08  8 yeni haber"
+  "31.10 17:01:30  1 yeni haber"
  ],
  "otomatik": false
 }
