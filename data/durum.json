@@ -22830,8 +22830,20 @@
     "sundu",
     "wever"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ],
+   "paylasildi": "2026-11-02T15:03:21.736591+03:00",
+   "ig_id": "18160520260502906",
+   "reels_id": "18108553493526163",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2610719166020503",
+   "slayt": 6,
+   "kanca": "BÜTÇE KRİZİ VE İSTİFA"
   },
   "7d8a2c818a74": {
    "id": "7d8a2c818a74",
@@ -23092,7 +23104,10 @@
     "surdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "408ea5192188": {
    "id": "408ea5192188",
@@ -23205,9 +23220,178 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0f29098dd9e2": {
+   "id": "0f29098dd9e2",
+   "kaynak": "AA",
+   "baslik": "COP31 alanına basın gezisi düzenlendi",
+   "ozet": "Antalya Valisi Şahin, Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Demiralp, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) alanında düzenlenen basın gezisi öncesi gazetecilere açıklama yaptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-alanina-basin-gezisi-duzenlendi-/4108694",
+   "zaman": "2026-11-02T14:16:57+03:00",
+   "kelimeler": [
+    "alani",
+    "basin",
+    "cop31",
+    "duzen",
+    "gezis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8e03f74c77f": {
+   "id": "b8e03f74c77f",
+   "kaynak": "TRT Haber",
+   "baslik": "Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu",
+   "ozet": "Belçika Başbakanı Bart De Wever'in federal hükümetin bütçe müzakerelerinde uzlaşma sağlayamamasının ardından istifasını Kral Philippe'e sunduğu bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/belcika-basbakani-de-wever-kral-philippee-istifasini-sundu-961959.html",
+   "zaman": "2026-11-02T14:41:00+03:00",
+   "kelimeler": [
+    "basba",
+    "belci",
+    "istif",
+    "kral",
+    "phili",
+    "sundu",
+    "wever"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "01120adffe96"
+  },
+  "0905fc65e96f": {
+   "id": "0905fc65e96f",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+   "ozet": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-961960.html",
+   "zaman": "2026-11-02T14:43:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "in",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "soyki",
+    "surdu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cd7891955a95"
+  },
+  "fcb93d6b119b": {
+   "id": "fcb93d6b119b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Ukrayna'nın başkenti Kiev'de sahte radyasyon alarmı uyarısıyla korku",
+   "ozet": "Ukrayna'da hava saldırılarına karşı uyarı amacıyla telefonlarda bulunan uygulama dün gece saatlerinde radyasyon alarmı uyarısı yaptı.",
+   "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o",
+   "zaman": "2026-11-02T14:46:27+03:00",
+   "kelimeler": [
+    "alarm",
+    "baske",
+    "kiev",
+    "korku",
+    "nin",
+    "radya",
+    "sahte",
+    "ukray",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e24f1ccbd9c9": {
+   "id": "e24f1ccbd9c9",
+   "kaynak": "AA",
+   "baslik": "DMM, Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı iddialarını yalanladı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yansıtmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-orman-varligini-korumadigi-ve-ormansizlasmayi-artirdigi-iddialarini-yalanladi/4108743",
+   "zaman": "2026-11-02T14:47:42+03:00",
+   "kelimeler": [
+    "artir",
+    "dmm",
+    "iddia",
+    "korum",
+    "nin",
+    "orman",
+    "turki",
+    "varli",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "e668344e0a53": {
+   "id": "e668344e0a53",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kacır yeni İMECE uyduları için tarih verdi",
+   "ozet": "Sanayi ve Teknoloji Bakanı Kacır, TÜRKSAT 7A uydusu için çalışmalara başladıklarını, yer gözlem uydu takımının üyeleri İMECE2'nin 2027'de, İMECE3'ün ise 2028'de uzaya gönderileceğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-yeni-imece-uydulari-icin-tarih-verdi-961961.html",
+   "zaman": "2026-11-02T14:50:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "imece",
+    "kacir",
+    "tarih",
+    "uydul",
+    "verdi",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f9f2bcf75e8b": {
+   "id": "f9f2bcf75e8b",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin orman varlığını korumadığı iddialarına yalanlama",
+   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yansıtmadığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-orman-varligini-korumadigi-iddialarina-yalanlama-961962.html",
+   "zaman": "2026-11-02T14:51:00+03:00",
+   "kelimeler": [
+    "iddia",
+    "korum",
+    "nin",
+    "orman",
+    "turki",
+    "varli",
+    "yalan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e24f1ccbd9c9"
+  },
+  "052e8fc87011": {
+   "id": "052e8fc87011",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturması. 37 kişinin iade ettiği tutar 18 milyar lirayı geçti",
+   "ozet": "120 ismin tutuklandığı fon soruşturmasında 1,5 ay geride kaldı. Fonlardan sağlanan haksız kazançların iadesi de sürüyor. İade edilen miktar 20 milyar liraya yaklaştı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-37-kisinin-iade-ettigi-tutar-18-milyar-lirayi-gecti-1749053",
+   "zaman": "2026-11-02T14:53:04+03:00",
+   "kelimeler": [
+    "18",
+    "37",
+    "ettig",
+    "fon",
+    "gecti",
+    "iade",
+    "kisin",
+    "liray",
+    "milya",
+    "sorus",
+    "tutar"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "02.11 15:03:21  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu",
+  "02.11 15:01:21  5 yeni haber",
   "02.11 14:46:02  3 yeni haber",
   "02.11 14:31:22  2 yeni haber",
   "02.11 14:16:49  9 yeni haber",
@@ -23405,9 +23589,7 @@
   "31.10 11:15:57  11 yeni haber",
   "31.10 11:03:47  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Firari suç örgütü şüphelisi MİT ve polisin ortak operasyonuyla yakalan",
   "31.10 11:01:28  2 yeni haber",
-  "31.10 10:46:02  5 yeni haber",
-  "31.10 10:31:24  3 yeni haber",
-  "31.10 10:15:53  7 yeni haber"
+  "31.10 10:46:02  5 yeni haber"
  ],
  "otomatik": false
 }
