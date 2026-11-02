@@ -1,78 +1,5 @@
 {
  "haberler": {
-  "0a32b588a169": {
-   "id": "0a32b588a169",
-   "kaynak": "AA",
-   "baslik": "AA Genel Müdürü Karagöz: Türk dünyasındaki medya işbirliğini daha da ileriye taşıyacağız",
-   "ozet": "Anadolu Ajansı (AA) Yönetim Kurulu Başkanı ve Genel Müdürü Serdar Karagöz, \"Anadolu Ajansı olarak çalışmaya, tecrübelerimizi paylaşmaya devam edeceğiz. Türk dünyasındaki medya işbirliğini daha da ileriye taşıyacağız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/aa-genel-muduru-karagoz-turk-dunyasindaki-medya-isbirligini-daha-da-ileriye-tasiyacagiz/4106934",
-   "zaman": "2026-10-30T23:18:07+03:00",
-   "kelimeler": [
-    "aa",
-    "dunya",
-    "genel",
-    "ileri",
-    "isbir",
-    "karag",
-    "medya",
-    "mudur",
-    "tasiy",
-    "turk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "efa862332008": {
-   "id": "efa862332008",
-   "kaynak": "AA",
-   "baslik": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, genç bilim insanlarına seslendi",
-   "ozet": "Baykar Yönetim Kurulu Başkanı Bayraktar, genç bilim insanlarına seslenerek, \"Sizler gibi dişiyle tırnağıyla bir yerlere gelmeye çalışan insanlar bir tarafta, bir taraftan da ahlaksızca bir yerlere gelmeye çalışan insanları görüyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/baykar-yonetim-kurulu-baskani-selcuk-bayraktar-genc-bilim-insanlarina-seslendi/4106935",
-   "zaman": "2026-10-30T23:18:17+03:00",
-   "kelimeler": [
-    "baska",
-    "bayka",
-    "bayra",
-    "bilim",
-    "genc",
-    "insan",
-    "kurul",
-    "selcu",
-    "sesle",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5f0f52cf3305": {
-   "id": "5f0f52cf3305",
-   "kaynak": "XHABER",
-   "baslik": "Ankara'da bir şahıs, 19 yaşındaki öz kızını ve kızının birlikte yaşadığı 53 yaşındaki sevgilisini silahla vurarak öldürdü.",
-   "ozet": "— Hayatını kaybeden genç kadının hamile olduğu ortaya çıktı.",
-   "link": "https://t.me/sahinozkan000/30435",
-   "zaman": "2026-10-30T23:29:52+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Ankara'da bir şahıs, 19 yaşındaki öz kızını ve kızının birlikte yaşadığı 53 yaşındaki sevgilisini silahla vurarak öldürdü.\n— Hayatını kaybeden genç kadının hamile olduğu ortaya çıktı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/i6UweMn5YcvPHCpfk8T23FlD_4Fto6ikJp1NfsncVyRZqlYpe54j7fAHAjUDyHWdNlWOHYf_RYOhiijlTCtgRpJMssh9X_sL5Iin1xzBL-O60RyoRE_A30ER_9oCaigzrlGFZ0qmjSBKX6hbxJ87DuWaM1RjHhgamPb0B1Q9DGqJi3JTG3shocncbT4jCpDGfNEZLLQWd6ZQ3RRC-msl8gEcw2kNmtGegpUshTrEcajyvfF2_KNWmjU96leW4EGFqYG606nGIFT8mN5z9Z8HaG73jnZeCaGTh1BpSX3ygwdn0ptwicH-Yncl-9F3JHxVWHAN_91mzbdSkQI8kteA4Q.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "19",
-    "53",
-    "ankar",
-    "birli",
-    "kizin",
-    "oldur",
-    "oz",
-    "sahis",
-    "sevgi",
-    "silah",
-    "vurar",
-    "yasad",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e6399365946d": {
    "id": "e6399365946d",
    "kaynak": "AA",
@@ -21867,7 +21794,10 @@
     "seul"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "43eda2212840": {
    "id": "43eda2212840",
@@ -22220,7 +22150,8 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "08e591f80052": {
    "id": "08e591f80052",
@@ -23423,9 +23354,103 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8697f648c980": {
+   "id": "8697f648c980",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanlığı Seul'de Bir Dostluğun Doğuşu sergisi düzenleyecek",
+   "ozet": "İletişim Başkanlığınca Güney Kore'nin başkenti Seul'de \"Bir Dostluğun Doğuşu: Bir Türk Fotoğrafçının Objektifinden 70 Yıl Önceki Kore\" sergisi düzenlenecek.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-seulde-bir-dostlugun-dogusu-sergisi-duzenleyecek-961981.html",
+   "zaman": "2026-11-02T17:58:00+03:00",
+   "kelimeler": [
+    "baska",
+    "dogus",
+    "dostl",
+    "duzen",
+    "ileti",
+    "sergi",
+    "seul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7c615fdfb38"
+  },
+  "6dfcbdfa3fae": {
+   "id": "6dfcbdfa3fae",
+   "kaynak": "AA",
+   "baslik": "Kayseri'de iş yerinde çıkan yangın söndürüldü",
+   "ozet": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangın söndürüldü.",
+   "link": "https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangin-sonduruldu/4109019",
+   "zaman": "2026-11-02T19:27:22+03:00",
+   "kelimeler": [
+    "cikan",
+    "is",
+    "kayse",
+    "sondu",
+    "yangi",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4b1dd59b3de7"
+  },
+  "aae3cfca1f8c": {
+   "id": "aae3cfca1f8c",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da sağanak etkili oluyor",
+   "ozet": "İstanbul'da gök gürültülü sağanak etkili oluyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-etkili-oluyor/4109163",
+   "zaman": "2026-11-02T23:11:33+03:00",
+   "kelimeler": [
+    "etkil",
+    "istan",
+    "oluyo",
+    "sagan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "986480123edd": {
+   "id": "986480123edd",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da sağanak etkili oluyor",
+   "ozet": "İstanbul'da gök gürültülü sağanak etkili oluyor. Sağanak nedeniyle bazı cadde ve sokaklarda su birikintileri oluştu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-saganak-etkili-oluyor-961994.html",
+   "zaman": "2026-11-02T23:16:00+03:00",
+   "kelimeler": [
+    "etkil",
+    "istan",
+    "oluyo",
+    "sagan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aae3cfca1f8c"
+  },
+  "a81488a670eb": {
+   "id": "a81488a670eb",
+   "kaynak": "TRT Haber",
+   "baslik": "İran basını: ABD ile iletişimde yeni gelişme yok",
+   "ozet": "İran ile ABD arasında ara bulucular üzerinden mesaj alışverişinin olağan şekilde devam ettiği fakat bu konuda yeni bir gelişme yaşanmadığı duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-basini-abd-ile-iletisimde-yeni-gelisme-yok-961995.html",
+   "zaman": "2026-11-02T23:21:00+03:00",
+   "kelimeler": [
+    "abd",
+    "basin",
+    "gelis",
+    "ileti",
+    "iran",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 23:31:30  2 yeni haber",
   "02.11 23:15:59  1 yeni haber",
   "02.11 23:01:57  2 yeni haber",
   "02.11 22:46:07  4 yeni haber",
@@ -23624,8 +23649,7 @@
   "31.10 18:46:09  3 yeni haber",
   "31.10 18:31:18  4 yeni haber",
   "31.10 18:16:17  4 yeni haber",
-  "31.10 18:03:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ege Denizi'nde deprem meydana geldi",
-  "31.10 18:01:19  1 yeni haber"
+  "31.10 18:03:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ege Denizi'nde deprem meydana geldi"
  ],
  "otomatik": false
 }
