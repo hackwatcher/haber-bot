@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "6dc3cd3b2f88": {
-   "id": "6dc3cd3b2f88",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş-Hapoel Beer-Sheva maçı Gürcistan'da oynanacak",
-   "ozet": "Beşiktaş Kulübü, siyah-beyazlı futbol takımının UEFA Avrupa Ligi'nde İsrail ekibi Hapoel Beer-Sheva ile yapacağı iç saha maçının Gürcistan'da oynanacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-hapoel-beer-sheva-maci-gurcistanda-oynanacak/4106816",
-   "zaman": "2026-10-30T20:01:48+03:00",
-   "kelimeler": [
-    "beer",
-    "besik",
-    "gurci",
-    "hapoe",
-    "maci",
-    "oynan",
-    "sheva"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8dbfba783d74": {
-   "id": "8dbfba783d74",
-   "kaynak": "AA",
-   "baslik": "Binance, kullanıcıların pazar gününden önce yeniden para çekebilmesini umuyor",
-   "ozet": "Kripto para borsası Binance'in Eş Üst Yöneticisi (Co-CEO) Richard Teng, 40 saat içinde tamamlanması beklenen çalışmalar kapsamında, kullanıcıların pazar gününden önce yeniden para çekebilmesini umduklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/binance-kullanicilarin-pazar-gununden-once-yeniden-para-cekebilmesini-umuyor/4106817",
-   "zaman": "2026-10-30T20:02:24+03:00",
-   "kelimeler": [
-    "binan",
-    "cekeb",
-    "gunun",
-    "kulla",
-    "para",
-    "pazar",
-    "umuyo",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b36cd9864367": {
    "id": "b36cd9864367",
    "kaynak": "Sözcü",
@@ -19808,7 +19769,11 @@
     "depre"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "AA"
+   ]
   },
   "5d153c3b7bed": {
    "id": "5d153c3b7bed",
@@ -23344,7 +23309,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "Hürriyet"
    ]
   },
   "f1a2550fd08a": {
@@ -23372,9 +23338,151 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "db21073f236b"
+  },
+  "6d94555097e0": {
+   "id": "6d94555097e0",
+   "kaynak": "AA",
+   "baslik": "Stuttgart'ın teknik direktörü Hoeness: Yarın oluşacak atmosferi dört gözle bekleyeceğiz",
+   "ozet": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Galatasaray'a konuk olacak Almanya temsilcisi Stuttgart'ın teknik direktörü Sebastian Hoeness, galibiyet için ellerinden geleni yapacaklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/stuttgartin-teknik-direktoru-hoeness-yarin-olusacak-atmosferi-dort-gozle-bekleyecegiz/4109039",
+   "zaman": "2026-11-02T19:54:09+03:00",
+   "kelimeler": [
+    "atmos",
+    "bekle",
+    "direk",
+    "dort",
+    "gozle",
+    "hoene",
+    "in",
+    "olusa",
+    "stutt",
+    "tekni",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e1d41d76b06c": {
+   "id": "e1d41d76b06c",
+   "kaynak": "Hürriyet",
+   "baslik": "MHP Lideri Bahçeli'nin acı günü.. Kız kardeşi Serpil Bahçeli hayatını kaybetti",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli’nin kız kardeşi Serpil Bahçeli hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahcelinin-aci-gunu-kiz-kardesi-serpil-bahceli-hayatini-kaybetti-43363703",
+   "zaman": "2026-11-02T19:59:00+03:00",
+   "kelimeler": [
+    "aci",
+    "bahce",
+    "gunu",
+    "hayat",
+    "karde",
+    "kaybe",
+    "kiz",
+    "lider",
+    "mhp",
+    "nin",
+    "serpi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "db21073f236b"
+  },
+  "d2a9089c3db4": {
+   "id": "d2a9089c3db4",
+   "kaynak": "Hürriyet",
+   "baslik": "Akdeniz'de 5.1 büyüklüğünde deprem",
+   "ozet": "AFAD'ın verilerine göre, Akdeniz'de saat 19.49'da 5.1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/akdenizde-5-1-buyuklugunde-deprem-43363705",
+   "zaman": "2026-11-02T20:04:00+03:00",
+   "kelimeler": [
+    "akden",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "55ff35338296"
+  },
+  "815b78e3a415": {
+   "id": "815b78e3a415",
+   "kaynak": "AA",
+   "baslik": "Marvell, Lumentum'u 115 milyar dolarlık anlaşmayla satın alacak",
+   "ozet": "ABD'li çip üreticisi Marvell Technology, optik ağ teknolojileri şirketi Lumentum'u tamamı hisse takası yoluyla yaklaşık 115 milyar dolarlık işletme değeriyle satın alacağını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047",
+   "zaman": "2026-11-02T20:04:30+03:00",
+   "kelimeler": [
+    "115",
+    "alaca",
+    "anlas",
+    "dolar",
+    "lumen",
+    "marve",
+    "milya",
+    "satin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "13a1e6fece78": {
+   "id": "13a1e6fece78",
+   "kaynak": "NTV",
+   "baslik": "Tekne kazasında ölmüştü. ATSO Başkanı Ali Bahar'ın davasında bir beraat, bir hapis cezası",
+   "ozet": "Tekne kazasında hayatını kaybeden dönemin Antalya Ticaret ve Sanayi Odası Başkanı Ali Bahar'ın davasında bir sanığa beraat, diğerine ise 1 yıl 8 ay hapis cezası verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/tekne-kazasinda-olmustu-atso-baskani-ali-baharin-davasinda-bir-beraat-bir-hapis-cezasi-1749086",
+   "zaman": "2026-11-02T20:07:01+03:00",
+   "kelimeler": [
+    "ali",
+    "atso",
+    "bahar",
+    "baska",
+    "beraa",
+    "cezas",
+    "davas",
+    "hapis",
+    "in",
+    "kazas",
+    "olmus",
+    "tekne"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "a4d0fa65a66d": {
+   "id": "a4d0fa65a66d",
+   "kaynak": "AA",
+   "baslik": "Akdeniz'de 5,1 büyüklüğünde deprem",
+   "ozet": "Akdeniz açıklarında saat 19.49'da 5,1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/akdenizde-5-1-buyuklugunde-deprem/4109049",
+   "zaman": "2026-11-02T20:10:24+03:00",
+   "kelimeler": [
+    "akden",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "55ff35338296"
+  },
+  "6dd905c61909": {
+   "id": "6dd905c61909",
+   "kaynak": "Sözcü",
+   "baslik": "AFAD duyurdu: Muğla açıklarında 5,1 büyüklüğünde deprem",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/akdeniz-mugla-deprem-2-kasim-2026-p375332",
+   "zaman": "2026-11-02T20:14:48+03:00",
+   "kelimeler": [
+    "acikl",
+    "afad",
+    "buyuk",
+    "depre",
+    "duyur",
+    "mugla"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "02.11 20:16:15  4 yeni haber",
   "02.11 20:01:35  2 yeni haber",
   "02.11 19:46:05  1 yeni haber",
   "02.11 19:34:22  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Borsa günü yükselişle tamamladı",
@@ -23573,8 +23681,7 @@
   "31.10 16:01:19  2 yeni haber",
   "31.10 15:55:40  1 yeni haber",
   "31.10 15:45:57  4 yeni haber",
-  "31.10 15:32:11  2 yeni haber",
-  "31.10 15:15:57  1 yeni haber"
+  "31.10 15:32:11  2 yeni haber"
  ],
  "otomatik": false
 }
