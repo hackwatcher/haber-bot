@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "0529b3755f41": {
-   "id": "0529b3755f41",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
-   "ozet": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı AGİT Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi-961782.html",
-   "zaman": "2026-10-31T01:58:00+03:00",
-   "kelimeler": [
-    "aday",
-    "bm",
-    "ferid",
-    "genel",
-    "goste",
-    "nu",
-    "sekre",
-    "sinir",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1ef5f730deae"
-  },
   "e61b3cd7ba95": {
    "id": "e61b3cd7ba95",
    "kaynak": "Hürriyet",
@@ -13019,7 +12997,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c15a6524b462": {
    "id": "c15a6524b462",
@@ -23541,9 +23521,78 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5331d34f7075"
+  },
+  "be26c5463654": {
+   "id": "be26c5463654",
+   "kaynak": "AA",
+   "baslik": "İsrailli eski kadın askerden itiraf: \"Ordu, Gazze ve Batı Şeria'daki gerçekleri manipüle ediyor\"",
+   "ozet": "İsrailli eski bir kadın asker, İsrail Ordu Sözcülüğü biriminin Gazze Şeridi ve Batı Şeria'daki askeri operasyonlara ilişkin kamuoyuna sunduğu bilgileri nasıl manipüle ettiğini ve masum Filistinlilere \"terörist\" etiketi yapıştırdığını ifşa etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-eski-kadin-askerden-itiraf-ordu-gazze-ve-bati-seriadaki-gercekleri-manipule-ediyor/4109240",
+   "zaman": "2026-11-03T01:47:06+03:00",
+   "kelimeler": [
+    "asker",
+    "bati",
+    "daki",
+    "ediyo",
+    "eski",
+    "gazze",
+    "gerce",
+    "israi",
+    "itira",
+    "kadin",
+    "manip",
+    "ordu",
+    "seria"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5837d9b11244": {
+   "id": "5837d9b11244",
+   "kaynak": "Hürriyet",
+   "baslik": "Diyarbakır’da kamyon ile hafif ticari araç çarpıştı: 2 ölü, 13 yaralı",
+   "ozet": "DİYARBAKIR’da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi öldü, 13 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-13-yarali-43363872",
+   "zaman": "2026-11-03T01:48:11+03:00",
+   "kelimeler": [
+    "13",
+    "arac",
+    "carpi",
+    "diyar",
+    "hafif",
+    "kamyo",
+    "olu",
+    "ticar",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5331d34f7075"
+  },
+  "ff85314e43f2": {
+   "id": "ff85314e43f2",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da şiddetli sağanak. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü",
+   "ozet": "İstanbul'da gök gürültülü sağanak nedeniyle yağışın ardından bazı caddeler ve sokaklar suyla doldu, yollarda çökme meydana geldi. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü.",
+   "link": "https://www.ntv.com.tr/turkiye/video-istanbulda-siddetli-saganak-camlica-kulesi-ve-finans-merkezine-yildirim-dustu-1749108",
+   "zaman": "2026-11-03T01:58:45+03:00",
+   "kelimeler": [
+    "camli",
+    "dustu",
+    "finan",
+    "istan",
+    "kules",
+    "merke",
+    "sagan",
+    "sidde",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 02:01:23  2 yeni haber",
   "03.11 01:03:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
   "03.11 01:01:17  2 yeni haber",
   "03.11 00:46:01  1 yeni haber",
@@ -23742,8 +23791,7 @@
   "31.10 20:46:01  1 yeni haber",
   "31.10 20:31:55  1 yeni haber",
   "31.10 20:25:17  3 yeni haber",
-  "31.10 20:17:56  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 977 milyon TL'lik fuhuş ağı çökertildi: 17 tutuklama",
-  "31.10 20:16:02  3 yeni haber"
+  "31.10 20:17:56  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 977 milyon TL'lik fuhuş ağı çökertildi: 17 tutuklama"
  ],
  "otomatik": false
 }
