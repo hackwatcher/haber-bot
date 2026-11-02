@@ -1,66 +1,5 @@
 {
  "haberler": {
-  "d73c39bb8f2a": {
-   "id": "d73c39bb8f2a",
-   "kaynak": "Hürriyet",
-   "baslik": "Mersin'de tütün dolu antrepoda yangın",
-   "ozet": "Mersin'de tütün dolu antrepoda çıkan yangında alevler kısa sürede tüm depoyu sardı. Çok sayıda itfaiye ekibi söndürme çalışmalarını sürdürüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/mersinde-tutun-dolu-antrepoda-yangin-43360042",
-   "zaman": "2026-10-30T03:19:46+03:00",
-   "kelimeler": [
-    "antre",
-    "dolu",
-    "mersi",
-    "tutun",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "ebada7964034": {
-   "id": "ebada7964034",
-   "kaynak": "Hürriyet",
-   "baslik": "Sultanbeyli'de 1 milyon 642 bin sentetik ecza hap ele geçirildi",
-   "ozet": "Sultanbeyli'de narkotik ekiplerinin bir araca düzenlediği operasyonda, 18 koli içerisinde 1 milyon 642 bin adet Pregabalin etken maddeli sentetik ecza hap ele geçirildi. Olayla ilgili gözaltına alınan 2 şüpheli adliyeye sevk edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/sultanbeylide-1-milyon-642-bin-sentetik-ecza-hap-ele-gecirildi-43360044",
-   "zaman": "2026-10-30T03:20:36+03:00",
-   "kelimeler": [
-    "642",
-    "bin",
-    "ecza",
-    "ele",
-    "gecir",
-    "hap",
-    "milyo",
-    "sente",
-    "sulta"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1598c08ce1ea"
-  },
-  "38c0c128eed9": {
-   "id": "38c0c128eed9",
-   "kaynak": "Hürriyet",
-   "baslik": "Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi",
-   "ozet": "İstanbul'un Gaziosmanpaşa ilçesinde sağanak sonrası kısmi çökme meydana gelen yol trafiğe kapatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045",
-   "zaman": "2026-10-30T03:22:48+03:00",
-   "kelimeler": [
-    "cokme",
-    "gazio",
-    "geldi",
-    "meyda",
-    "sagan",
-    "sonra",
-    "yolda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7f6228b566ed": {
    "id": "7f6228b566ed",
    "kaynak": "Sözcü",
@@ -23924,9 +23863,29 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "bd20620fabec": {
+   "id": "bd20620fabec",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bir zamanlar gökyüzüne hükmeden, insan avlayan dev kartallar",
+   "ozet": "Dinozorların sonunu getiren asteroit çarptıktan sonra, dev kuşlar onlarca milyon yıl boyunca en üst düzey yırtıcılar haline geldi ve insanlar da avları arasındaydı.",
+   "link": "https://www.bbc.com/turkce/articles/c679p4qlr359o",
+   "zaman": "2026-11-02T03:18:01+03:00",
+   "kelimeler": [
+    "avlay",
+    "dev",
+    "gokyu",
+    "hukme",
+    "insan",
+    "karta",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 03:31:11  1 yeni haber",
   "02.11 03:16:04  1 yeni haber",
   "02.11 02:53:42  1 yeni haber",
   "02.11 02:31:10  1 yeni haber",
@@ -24125,8 +24084,7 @@
   "30.10 20:46:09  4 yeni haber",
   "30.10 20:46:09  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "30.10 20:31:14  1 yeni haber",
-  "30.10 20:10:30  2 yeni haber",
-  "30.10 20:01:22  2 yeni haber"
+  "30.10 20:10:30  2 yeni haber"
  ],
  "otomatik": false
 }
