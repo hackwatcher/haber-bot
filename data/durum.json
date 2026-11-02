@@ -1,81 +1,5 @@
 {
  "haberler": {
-  "4212ab77c400": {
-   "id": "4212ab77c400",
-   "kaynak": "Hürriyet",
-   "baslik": "Yol verme kavgasında öğrenci servisine saldırdı",
-   "ozet": "Tokat'ta yol verme tartışmasında otomobil sürücüsü, lise öğrencilerinin içinde bulunduğu öğrenci servis minibüsüne saldırdı. O anlar, öğrenciler tarafından cep telefonu kamerasıyla kaydedildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/yol-verme-kavgasinda-ogrenci-servisine-saldirdi-43360811",
-   "zaman": "2026-10-30T16:33:25+03:00",
-   "kelimeler": [
-    "kavga",
-    "ogren",
-    "saldi",
-    "servi",
-    "verme",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "eff1b1ff38a1": {
-   "id": "eff1b1ff38a1",
-   "kaynak": "AA",
-   "baslik": "SGK ile Türk Eczacıları Birliği arasında eczanelerden ilaç teminiyle ilgili ek protokol imzalandı",
-   "ozet": "Bakan Işıkhan, Sosyal Güvenlik Kurumu (SGK) ile Türk Eczacıları Birliği (TEB) arasında sağlanan mutabakat sayesinde satış hasılatı baremleri ile reçete hizmet bedellerinin iyileştirildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sgk-ile-turk-eczacilari-birligi-arasinda-eczanelerden-ilac-teminiyle-ilgili-ek-protokol-imzalandi/4106581",
-   "zaman": "2026-10-30T16:40:36+03:00",
-   "kelimeler": [
-    "arasi",
-    "birli",
-    "eczac",
-    "eczan",
-    "ek",
-    "ilac",
-    "ilgil",
-    "imzal",
-    "proto",
-    "sgk",
-    "temin",
-    "turk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "675fc105bbf0": {
-   "id": "675fc105bbf0",
-   "kaynak": "TRT Haber",
-   "baslik": "Altında düşüş sürüyor",
-   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 350 bin liraya geriledi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/altinda-dusus-suruyor-961751.html",
-   "zaman": "2026-10-30T16:36:00+03:00",
-   "kelimeler": [
-    "altin",
-    "dusus",
-    "suruy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "bffe1db37cd3"
-  },
-  "e7e467095849": {
-   "id": "e7e467095849",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe, milli araya kadar Dirk Kuyt'a emanet",
-   "ozet": "Fenerbahçe Kulübü, Dirk Kuyt'ın milli araya kadar takımın başında görev alacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-milli-araya-kadar-dirk-kuyta-emanet/4106589",
-   "zaman": "2026-10-30T16:45:08+03:00",
-   "kelimeler": [
-    "araya",
-    "dirk",
-    "emane",
-    "fener",
-    "kuyt",
-    "milli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "85cdeafc4cbc": {
    "id": "85cdeafc4cbc",
    "kaynak": "AA",
@@ -11345,7 +11269,8 @@
     "sirri"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "13df4ea01b25": {
    "id": "13df4ea01b25",
@@ -21133,7 +21058,8 @@
     "iklim"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "60415bc9bbe8": {
    "id": "60415bc9bbe8",
@@ -21218,7 +21144,10 @@
     "unive"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6a1daa8aa66d": {
    "id": "6a1daa8aa66d",
@@ -23451,9 +23380,232 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1cde489e4b6c": {
+   "id": "1cde489e4b6c",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk Üniversiteleri Çin Eğitim Fuarı'na katıldı",
+   "ozet": "Türk üniversiteleri, Türkiye Ulusal Ajansı organizasyonuyla Çin'in başkenti Pekin'de düzenlenen Çin Eğitim Fuarı'na CEE katıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/turk-universiteleri-cin-egitim-fuarina-katildi-961973.html",
+   "zaman": "2026-11-02T16:11:00+03:00",
+   "kelimeler": [
+    "cin",
+    "egiti",
+    "fuari",
+    "katil",
+    "na",
+    "turk",
+    "unive"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9dfe3b863402"
+  },
+  "32f58b7caad8": {
+   "id": "32f58b7caad8",
+   "kaynak": "AA",
+   "baslik": "İsrail, Gazze'de Ekim 2025'te yürürlüğe giren ateşkesi yaklaşık 6 bin kez ihlal etti",
+   "ozet": "İsrail ordusu, Gazze Şeridi'nde ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana yaklaşık 6 bin ihlal gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843",
+   "zaman": "2026-11-02T16:25:51+03:00",
+   "kelimeler": [
+    "2025",
+    "atesk",
+    "bin",
+    "ekim",
+    "etti",
+    "gazze",
+    "giren",
+    "ihlal",
+    "israi",
+    "kez",
+    "te",
+    "yakla",
+    "yurur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "73e13cf974a6": {
+   "id": "73e13cf974a6",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail, Gazze'de Ekim 2025'te yürürlüğe giren ateşkesi yaklaşık 6 bin kez ihlal etti",
+   "ozet": "İşgalci İsrail ordusu, Gazze Şeridi'nde ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana yaklaşık 6 bin ihlal gerçekleştirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti-961974.html",
+   "zaman": "2026-11-02T16:28:00+03:00",
+   "kelimeler": [
+    "2025",
+    "atesk",
+    "bin",
+    "ekim",
+    "etti",
+    "gazze",
+    "giren",
+    "ihlal",
+    "israi",
+    "katil",
+    "kez",
+    "te",
+    "yakla",
+    "yurur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "32f58b7caad8"
+  },
+  "590c0c3c361d": {
+   "id": "590c0c3c361d",
+   "kaynak": "AA",
+   "baslik": "TÜSİAD, COP31'de Türk iş dünyasının iklim gündemine katkısını güçlendirmek için çalışmalarını sürdürüyor",
+   "ozet": "TÜSİAD'ın COP31 kapsamında ulusal ve uluslararası paydaşlarla yürüttüğü çalışmalarda sanayinin karbonsuzlaşması, temiz enerji dönüşümü, finansman ve temiz teknoloji başlıkları öne çıkıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/tusiad-cop31de-turk-is-dunyasinin-iklim-gundemine-katkisini-guclendirmek-icin-calismalarini-surduruyor/4108847",
+   "zaman": "2026-11-02T16:32:30+03:00",
+   "kelimeler": [
+    "calis",
+    "cop31",
+    "dunya",
+    "gucle",
+    "gunde",
+    "iklim",
+    "is",
+    "katki",
+    "surdu",
+    "turk",
+    "tusia"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "74df3bf77149"
+  },
+  "558ecbcb983a": {
+   "id": "558ecbcb983a",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında düşüş sürüyor",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 272 bin liraya geriledi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-dusus-suruyor-961975.html",
+   "zaman": "2026-11-02T16:34:00+03:00",
+   "kelimeler": [
+    "altin",
+    "dusus",
+    "fiyat",
+    "suruy"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "8e7b9ef81c09": {
+   "id": "8e7b9ef81c09",
+   "kaynak": "Hürriyet",
+   "baslik": "19 yıllık “mumya ceset” cinayetinin sırrı itiraflarla çözüldü: Dondurucuyu beton döküp sedir yapmışlar",
+   "ozet": "Mersin merkezli 6 ilde düzenlenen operasyonla gözaltına alınan şüpheliler, 2007'den bu yana faili meçhul kalan Bahaddin Sefer cinayetini ayrıntılarıyla anlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/19-yillik-mumya-ceset-cinayetinin-sirri-itiraflarla-cozuldu-dondurucuyu-beton-dokup-sedir-yapmislar-43363569",
+   "zaman": "2026-11-02T16:35:58+03:00",
+   "kelimeler": [
+    "19",
+    "beton",
+    "ceset",
+    "cinay",
+    "cozul",
+    "dokup",
+    "dondu",
+    "itira",
+    "mumya",
+    "sedir",
+    "sirri",
+    "yapmi",
+    "yilli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "09522ade89dd"
+  },
+  "b40376cc2687": {
+   "id": "b40376cc2687",
+   "kaynak": "TRT Haber",
+   "baslik": "Sivasta kaybolan Büşra bebeği arama çalışmaları sürüyor",
+   "ozet": "Sivas'ın Divriği ilçesinde kaybolan 11 aylık Büşra bebeği arama çalışmaları devam ediyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/sivasta-kaybolan-busra-bebegi-arama-calismalari-suruyor-961976.html",
+   "zaman": "2026-11-02T16:36:00+03:00",
+   "kelimeler": [
+    "arama",
+    "bebeg",
+    "busra",
+    "calis",
+    "kaybo",
+    "sivas",
+    "suruy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3fcae694b163": {
+   "id": "3fcae694b163",
+   "kaynak": "AA",
+   "baslik": "İsrail'le yakınlaşma Sırbistan seçimlerini etkiledi mi?",
+   "ozet": "Sırbistan'ın İsrail'e silah ihracatı iki yılda 1,4 milyon avrodan 132 milyon dolara çıkarken kamuoyunun büyük çoğunluğunun İsrail'e karşı Filistin'i desteklemesi, Vucic'in İsrail politikasını seçim tartışmalarının bir parçası haline getirdi.",
+   "link": "https://www.aa.com.tr/tr/analiz/israille-yakinlasma-sirbistan-secimlerini-etkiledi-mi/4108858",
+   "zaman": "2026-11-02T16:37:34+03:00",
+   "kelimeler": [
+    "etkil",
+    "israi",
+    "le",
+    "secim",
+    "sirbi",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "03e7a8f685f7": {
+   "id": "03e7a8f685f7",
+   "kaynak": "AA",
+   "baslik": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak",
+   "ozet": "Afife Tiyatro ve Zorlu PSM ortak yapımı, Afife Jale'nin ilham verici hayat hikayesini çağdaş bir yorumla sahneye taşıyan \"Afife\", Zorlu PSM'nin yanı sıra Türkiye turnesi kapsamında Ankara temsillerinde tiyatroseverlerle buluşacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/afife-oyunu-istanbul-ve-ankarada-yeniden-tiyatroseverlerle-bulusacak/4108861",
+   "zaman": "2026-11-02T16:39:18+03:00",
+   "kelimeler": [
+    "afife",
+    "ankar",
+    "bulus",
+    "istan",
+    "oyunu",
+    "tiyat",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1ec3ea3913c2": {
+   "id": "1ec3ea3913c2",
+   "kaynak": "NTV",
+   "baslik": "Bakü'ye gökyüzünden anlamlı mesaj. Erdoğan, Azerbaycan hava sahasında Zafer Günü'nü kutladı",
+   "ozet": "Güney Kore'ye giden Cumhurbaşkanı Recep Tayyip Erdoğan’ın uçağı Azerbaycan hava sahasından da geçti. Uçağın pilotu, Azerbaycan Cumhurbaşkanı İlham Aliyev'e Erdoğan'ın tebrik mesajını iletti.",
+   "link": "https://www.ntv.com.tr/turkiye/bakuye-gokyuzunden-anlamli-mesaj-erdogan-azerbaycan-hava-sahasinda-zafer-gununu-kutladi-1749066",
+   "zaman": "2026-11-02T16:44:13+03:00",
+   "kelimeler": [
+    "anlam",
+    "azerb",
+    "baku",
+    "erdog",
+    "gokyu",
+    "gunu",
+    "hava",
+    "kutla",
+    "mesaj",
+    "nu",
+    "sahas",
+    "ye",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 16:47:04  6 yeni haber",
   "02.11 16:31:11  4 yeni haber",
   "02.11 16:16:18  2 yeni haber",
   "02.11 16:01:31  5 yeni haber",
@@ -23652,8 +23804,7 @@
   "31.10 12:45:54  9 yeni haber",
   "31.10 12:31:10  7 yeni haber",
   "31.10 12:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milletlerarası anlaşma Resmi Gazete'de yayımlandı",
-  "31.10 12:16:09  4 yeni haber",
-  "31.10 12:01:18  8 yeni haber"
+  "31.10 12:16:09  4 yeni haber"
  ],
  "otomatik": false
 }
