@@ -1,101 +1,5 @@
 {
  "haberler": {
-  "2e7089520c24": {
-   "id": "2e7089520c24",
-   "kaynak": "AA",
-   "baslik": "Türk Devletleri Teşkilatı 13. Zirvesi Ankara Bildirisi yayımlandı",
-   "ozet": "\"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla düzenlenen TDT Devlet Başkanları Konseyi 13. Zirvesi'nin ardından \"Ankara Bildirisi\" imzalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-devletleri-teskilati-13-zirvesi-ankara-bildirisi-yayimlandi/4106522",
-   "zaman": "2026-10-30T16:05:02+03:00",
-   "kelimeler": [
-    "13",
-    "ankar",
-    "bildi",
-    "devle",
-    "teski",
-    "turk",
-    "yayim",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "eb7b0ad3cb5e"
-  },
-  "f725945ca521": {
-   "id": "f725945ca521",
-   "kaynak": "Hürriyet",
-   "baslik": "Ankara'da istinat duvarı çöken binanın temeli açığa çıktı! Bina tahliye edildi",
-   "ozet": "Ankara'nın Mamak ilçesinde toprak kayması sonucu istinat duvarı çöken 17 katlı apartmanın temeli, açığa çıktı. Bina zemin güçlendirmesi çalışmaları tamamlanana kadar tahliye edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ankarada-istinat-duvari-coken-binanin-temeli-aciga-cikti-bina-tahliye-edildi-43360774",
-   "zaman": "2026-10-30T16:10:08+03:00",
-   "kelimeler": [
-    "aciga",
-    "ankar",
-    "bina",
-    "binan",
-    "cikti",
-    "coken",
-    "duvar",
-    "edild",
-    "istin",
-    "tahli",
-    "temel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "21e4b11537ef": {
-   "id": "21e4b11537ef",
-   "kaynak": "NTV",
-   "baslik": "Emine Erdoğan, lider eşleriyle Ankara'da buluştu",
-   "ozet": "Emine Erdoğan, Türk Devletleri Teşkilatı Aile ve Kadın Konseyi toplantısında liderlerin eşleriyle bir araya geldi. Erdoğan, doğum oranlarındaki düşüşe ve kadınların toplumdaki rolüne dikkat çekti.",
-   "link": "https://www.ntv.com.tr/turkiye/emine-erdogan-lider-esleriyle-ankarada-bulustu-1748673",
-   "zaman": "2026-10-30T16:11:37+03:00",
-   "kelimeler": [
-    "ankar",
-    "bulus",
-    "emine",
-    "erdog",
-    "esler",
-    "lider"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8d4dd3ba455b": {
-   "id": "8d4dd3ba455b",
-   "kaynak": "AA",
-   "baslik": "Diyarbakır'da sağanak hayatı olumsuz etkiledi",
-   "ozet": "Diyarbakır'da sağanak nedeniyle bazı cadde ve sokaklarda su birikintileri oluştu, sürücüler ve yayalar zor anlar yaşadı.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyarbakirda-saganak-hayati-olumsuz-etkiledi/4106535",
-   "zaman": "2026-10-30T16:14:36+03:00",
-   "kelimeler": [
-    "diyar",
-    "etkil",
-    "hayat",
-    "olums",
-    "sagan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "94a0de160e90": {
-   "id": "94a0de160e90",
-   "kaynak": "AA",
-   "baslik": "Samsunspor, oyunculara uygun sistem arıyor",
-   "ozet": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Nenad Bjelica, \"Elimizdeki kadroya göre en iyi sistemi bulmaya çalışıyoruz. Ancak oyuncuların şu anki sisteme de en iyi şekilde adapte olabileceklerinden şüphem yok.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/samsunspor-oyunculara-uygun-sistem-ariyor/4106534",
-   "zaman": "2026-10-30T16:14:13+03:00",
-   "kelimeler": [
-    "ariyo",
-    "oyunc",
-    "samsu",
-    "siste",
-    "uygun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4212ab77c400": {
    "id": "4212ab77c400",
    "kaynak": "Hürriyet",
@@ -22909,7 +22813,11 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "TRT Haber"
+   ]
   },
   "02d4410cfd82": {
    "id": "02d4410cfd82",
@@ -23259,7 +23167,8 @@
     "yasan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4f11eee30ea9": {
    "id": "4f11eee30ea9",
@@ -23301,9 +23210,119 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "acbd7a035934": {
+   "id": "acbd7a035934",
+   "kaynak": "AA",
+   "baslik": "Siber suçlarla mücadele operasyonlarında 86 şüpheli tutuklandı",
+   "ozet": "İçişleri Bakanlığı, Emniyet Genel Müdürlüğü ekiplerince siber suçlarla mücadele kapsamında 11 ilde düzenlenen operasyonlarda yakalanan 120 şüpheliden 86'sının tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-86-supheli-tutuklandi/4108822",
+   "zaman": "2026-11-02T15:59:23+03:00",
+   "kelimeler": [
+    "86",
+    "mucad",
+    "opera",
+    "siber",
+    "sucla",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f1d9cbab56d9"
+  },
+  "bfaf471e82df": {
+   "id": "bfaf471e82df",
+   "kaynak": "TRT Haber",
+   "baslik": "Siber suçlarla mücadelede 11 ilde operasyon: 86 tutuklama",
+   "ozet": "5 günde 11 ilde düzenlenen operasyonlarda yasa dışı bahis, nitelikli dolandırıcılık ve çevrim içi çocuk istismarı suçlarına karıştığı belirlenen 120 şüpheli yakalandı. Şüphelilerden 86'sı tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/siber-suclarla-mucadelede-11-ilde-operasyon-86-tutuklama-961972.html",
+   "zaman": "2026-11-02T16:02:00+03:00",
+   "kelimeler": [
+    "11",
+    "86",
+    "ilde",
+    "mucad",
+    "opera",
+    "siber",
+    "sucla",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f1d9cbab56d9"
+  },
+  "4bae024213eb": {
+   "id": "4bae024213eb",
+   "kaynak": "AA",
+   "baslik": "Tarihi Filistin topraklarında işgale zemin hazırlayan Balfour Deklarasyonu 109 yıl önce bugün yayımlandı",
+   "ozet": "Tarihi Filistin toprakları üzerinde İsrail devletinin kurulmasına zemin hazırlayan İngiltere imzalı \"Balfour Deklarasyonu\"nun üzerinden 109 yıl geçerken, işgal ve abluka altındaki Filistin topraklarında İsrail zulmü katlanarak devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/tarihi-filistin-topraklarinda-isgale-zemin-hazirlayan-balfour-deklarasyonu-109-yil-once-bugun-yayimlandi/4108830",
+   "zaman": "2026-11-02T16:06:32+03:00",
+   "kelimeler": [
+    "109",
+    "balfo",
+    "bugun",
+    "dekla",
+    "filis",
+    "hazir",
+    "isgal",
+    "tarih",
+    "topra",
+    "yayim",
+    "yil",
+    "zemin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "75485244b2e2": {
+   "id": "75485244b2e2",
+   "kaynak": "NTV",
+   "baslik": "Yarın geceye dikkat, İstanbul'da tam 8 saat sürecek elektrik kesintisi yaşanacak",
+   "ozet": "İstanbul'un 19 ilçesinde elektrik kesintisi yaşanacak. BEDAŞ tarafından paylaşılan bakım, onarım ve yatırım programına göre, Avrupa Yakası'nda bulunan ilçelerde yaşanacak olan kesinti 8 saat sürecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yarin-geceye-dikkat-istanbulda-tam-8-saat-surecek-elektrik-kesintisi-yasanacak-1749065",
+   "zaman": "2026-11-02T16:13:20+03:00",
+   "kelimeler": [
+    "dikka",
+    "elekt",
+    "gecey",
+    "istan",
+    "kesin",
+    "saat",
+    "surec",
+    "tam",
+    "yarin",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3efebc7c65f8"
+  },
+  "50aae1631db8": {
+   "id": "50aae1631db8",
+   "kaynak": "Sözcü",
+   "baslik": "Türk Eximbank Yönetim Kurulu Başkanı Osman Çelik istifa etti",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/turk-eximbank-yonetim-kurulu-baskani-osman-celik-istifa-etti-p375287",
+   "zaman": "2026-11-02T16:15:04+03:00",
+   "kelimeler": [
+    "baska",
+    "celik",
+    "etti",
+    "eximb",
+    "istif",
+    "kurul",
+    "osman",
+    "turk",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "02.11 16:16:18  2 yeni haber",
   "02.11 16:01:31  5 yeni haber",
   "02.11 15:46:16  4 yeni haber",
   "02.11 15:31:26  6 yeni haber",
@@ -23502,8 +23521,7 @@
   "31.10 12:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milletlerarası anlaşma Resmi Gazete'de yayımlandı",
   "31.10 12:16:09  4 yeni haber",
   "31.10 12:01:18  8 yeni haber",
-  "31.10 11:45:56  7 yeni haber",
-  "31.10 11:31:24  12 yeni haber"
+  "31.10 11:45:56  7 yeni haber"
  ],
  "otomatik": false
 }
