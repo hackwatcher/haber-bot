@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "f5a423a7131a": {
-   "id": "f5a423a7131a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "'Sizin kardeşiniziz, bankanız değil': Ankara-Bakü geriliminde ekonominin yeri",
-   "ozet": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı.",
-   "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo",
-   "zaman": "2026-10-30T22:27:31+03:00",
-   "kelimeler": [
-    "ankar",
-    "baku",
-    "banka",
-    "degil",
-    "ekono",
-    "geril",
-    "karde",
-    "sizin",
-    "yeri"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "da1375f2912c": {
-   "id": "da1375f2912c",
-   "kaynak": "TRT Haber",
-   "baslik": "MİT Başkanı Kalın: Hepimiz güvende olmadan hiçbirimiz güvende değiliz",
-   "ozet": "Milli İstihbarat Teşkilatı MİT Başkanı İbrahim Kalın, \"Biz hep şu ilkeyle hareket ettik: 'Hepimiz güvende olmadan hiçbirimiz güvende değiliz.' Kendi güvenliğimi garanti altına almak için mutlaka paydaşlarımın, komşularımın, ortaklarımın güvenliğini de dikkate almak zorundayım\"…",
-   "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-hepimiz-guvende-olmadan-hicbirimiz-guvende-degiliz-961772.html",
-   "zaman": "2026-10-30T22:24:00+03:00",
-   "kelimeler": [
-    "baska",
-    "degil",
-    "guven",
-    "hepim",
-    "hicbi",
-    "kalin",
-    "mit",
-    "olmad"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3be4dee205ec"
-  },
   "a62b08f150c7": {
    "id": "a62b08f150c7",
    "kaynak": "AA",
@@ -23302,7 +23260,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "6ba4bdd72be2": {
@@ -23357,9 +23316,45 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "7be5692f6c9b"
+  },
+  "6f0ebb6235a4": {
+   "id": "6f0ebb6235a4",
+   "kaynak": "TRT Haber",
+   "baslik": "Mülkiyede kariyer zirvesi 3 Kasım'da düzenlenecek",
+   "ozet": "Mülkiye Mektepliler Derneği tarafından fakültedeki öğrenci toplulukları ile birlikte organize edilen Kariyer Zirvesi 3 Kasım 2026 tarihinde Ankara Üniversitesi Siyasal Bilgiler Fakültesinde gerçekleştirilecek.",
+   "link": "https://www.trthaber.com/haber/guncel/mulkiyede-kariyer-zirvesi-3-kasimda-duzenlenecek-961992.html",
+   "zaman": "2026-11-02T21:59:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "kariy",
+    "kasim",
+    "mulki",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ec91e3abcf7f": {
+   "id": "ec91e3abcf7f",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB açıkladı... Van'da rahatsızlanan asker şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Van'da görev esnasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in kaldırıldığı hastanede şehit olduğunu bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/vanda-rahatsizlanan-asker-sehit-oldu-43363776",
+   "zaman": "2026-11-02T22:15:00+03:00",
+   "kelimeler": [
+    "asker",
+    "msb",
+    "rahat",
+    "sehit",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7be5692f6c9b"
   }
  },
  "kayit": [
+  "02.11 22:31:27  1 yeni haber",
   "02.11 22:16:01  1 yeni haber",
   "02.11 22:01:35  3 yeni haber",
   "02.11 21:46:04  2 yeni haber",
@@ -23558,8 +23553,7 @@
   "31.10 18:01:19  1 yeni haber",
   "31.10 17:46:18  3 yeni haber",
   "31.10 17:31:08  2 yeni haber",
-  "31.10 17:15:59  3 yeni haber",
-  "31.10 17:01:30  1 yeni haber"
+  "31.10 17:15:59  3 yeni haber"
  ],
  "otomatik": false
 }
