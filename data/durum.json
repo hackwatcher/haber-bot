@@ -13306,7 +13306,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "fb332c085f43": {
    "id": "fb332c085f43",
@@ -22816,7 +22819,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA",
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "02d4410cfd82": {
@@ -23319,9 +23323,138 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "73257c8624cd": {
+   "id": "73257c8624cd",
+   "kaynak": "AA",
+   "baslik": "Ürdün Kralı: İsrail'in yayılmacı emelleri, bölgenin geleceğine yönelik en büyük tehdit",
+   "ozet": "Ürdün Kralı 2. Abdullah, İsrail'in yayılmacı emellerinin bölgenin geleceğine yönelik en büyük tehdit olduğunu belirterek bölgesel güvenlik ve istikrarın Filistin halkının toprakları üzerindeki haklarına kavuşmasına bağlı olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/urdun-krali-israilin-yayilmaci-emelleri-bolgenin-gelecegine-yonelik-en-buyuk-tehdit/4108836",
+   "zaman": "2026-11-02T16:14:46+03:00",
+   "kelimeler": [
+    "bolge",
+    "buyuk",
+    "emell",
+    "gelec",
+    "in",
+    "israi",
+    "krali",
+    "tehdi",
+    "urdun",
+    "yayil",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8d925ff29732": {
+   "id": "8d925ff29732",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bahçeli'den 19 yeni il önerisi: Bir ilçenin il olması ne anlama geliyor?",
+   "ozet": "MHP lideri Devlet Bahçeli Türkiye'de 19 yeni il ve 78 yeni ilçe kurulmasını önerdi. Bir ilçenin il olması ne anlama geliyor? İl olan bir ilçede neler değişiyor?",
+   "link": "https://www.bbc.com/turkce/articles/cwe9l7g8z9d7o",
+   "zaman": "2026-11-02T16:15:53+03:00",
+   "kelimeler": [
+    "19",
+    "anlam",
+    "bahce",
+    "den",
+    "geliy",
+    "il",
+    "ilcen",
+    "olmas",
+    "oneri",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c233c8a82988"
+  },
+  "a6a26e45161d": {
+   "id": "a6a26e45161d",
+   "kaynak": "Hürriyet",
+   "baslik": "Sefaköy'de metrobüste yangın",
+   "ozet": "İstanbul Küçükçekmece Sefaköy Metrobüs Durağı’nda yolcu almak için yanaşan metrobüsün motor kısmından dumanlar yükseldi. Metrobüstekiler tahliye edilirken, yangın itfaiyenin müdahalesiyle söndürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/sefakoyde-metrobuste-yangin-43363548",
+   "zaman": "2026-11-02T16:20:00+03:00",
+   "kelimeler": [
+    "metro",
+    "sefak",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8ebc999f5505": {
+   "id": "8ebc999f5505",
+   "kaynak": "NTV",
+   "baslik": "11 ilde siber suç operasyonu: 86 tutuklama",
+   "ozet": "11 ilde düzenlenen siber suçlarla mücadele operasyonlarında 120 şüpheli yakalandı. Şüphelilerden 86'sı tutuklanırken 25'i hakkında adli kontrol kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/11-ilde-siber-suc-operasyonu-86-tutuklama-1749062",
+   "zaman": "2026-11-02T16:20:33+03:00",
+   "kelimeler": [
+    "11",
+    "86",
+    "ilde",
+    "opera",
+    "siber",
+    "suc",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1d9cbab56d9"
+  },
+  "06ed5c7e653d": {
+   "id": "06ed5c7e653d",
+   "kaynak": "Hürriyet",
+   "baslik": "Top oynarken çıkan kavgada göğsünden bıçaklandı: 19 yaşındaki gencin ölüm anı kamerada",
+   "ozet": "Şahinbey Tekstilkent Mahallesi'ndeki halı sahada başlayan tartışma kavgaya dönüştü; göğsünden aldığı bıçak darbesiyle ağır yaralanan 19 yaşındaki Muhammed Hec Ali kurtarılamadı. Güvenlik kamerasına yansıyan olayın ardından cinayet büro ekipleri kaçan zanlıların peşine düştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/top-oynarken-cikan-kavgada-gogsunden-bicaklandi-19-yasindaki-gencin-olum-ani-kamerada-43363549",
+   "zaman": "2026-11-02T16:21:00+03:00",
+   "kelimeler": [
+    "19",
+    "ani",
+    "bicak",
+    "cikan",
+    "genci",
+    "gogsu",
+    "kamer",
+    "kavga",
+    "olum",
+    "oynar",
+    "top",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a68738b370ed": {
+   "id": "a68738b370ed",
+   "kaynak": "AA",
+   "baslik": "İsrail vatandaşı Filistinlileri temsil eden partiler Netanyahu hükümetine karşı bir araya geldi",
+   "ozet": "Seçimlerde 19 milletvekiliyle tarihi bir başarı elde eden İsrail vatandaşı Filistinlileri temsil eden partiler, Başbakan Binyamin Netanyahu liderliğindeki aşırı sağcı hükümeti devirme amacıyla bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-partiler-netanyahu-hukumetine-karsi-bir-araya-geldi/4108840",
+   "zaman": "2026-11-02T16:21:10+03:00",
+   "kelimeler": [
+    "araya",
+    "eden",
+    "filis",
+    "geldi",
+    "hukum",
+    "israi",
+    "karsi",
+    "netan",
+    "parti",
+    "temsi",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 16:31:11  4 yeni haber",
   "02.11 16:16:18  2 yeni haber",
   "02.11 16:01:31  5 yeni haber",
   "02.11 15:46:16  4 yeni haber",
@@ -23520,8 +23653,7 @@
   "31.10 12:31:10  7 yeni haber",
   "31.10 12:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milletlerarası anlaşma Resmi Gazete'de yayımlandı",
   "31.10 12:16:09  4 yeni haber",
-  "31.10 12:01:18  8 yeni haber",
-  "31.10 11:45:56  7 yeni haber"
+  "31.10 12:01:18  8 yeni haber"
  ],
  "otomatik": false
 }
