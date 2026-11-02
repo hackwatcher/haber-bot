@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "9dc89c0b36fd": {
-   "id": "9dc89c0b36fd",
-   "kaynak": "TRT Haber",
-   "baslik": "Arabanızın en büyük güvenlik zafiyeti beklenmedik bir yerde olabilir",
-   "ozet": "Bir otomobilin eğlence sistemi frenlerine giden bir yol sağlayabilir mi? Güvenlik araştırmacıları 2015 yılında bir Jeep Cherokee'de bu olasılığı gösterdi. Araştırmacılar, araç içi eğlenceyi çalıştıran bilgieğlence sistemine uzaktan erişti ve sürüş işlevlerine müdahale etti.",
-   "link": "https://www.trthaber.com/haber/dunya/arabanizin-en-buyuk-guvenlik-zafiyeti-beklenmedik-bir-yerde-olabilir-961693.html",
-   "zaman": "2026-10-30T07:03:00+03:00",
-   "kelimeler": [
-    "araba",
-    "bekle",
-    "buyuk",
-    "guven",
-    "olabi",
-    "yerde",
-    "zafiy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8de78262105e": {
-   "id": "8de78262105e",
-   "kaynak": "TRT Haber",
-   "baslik": "Brezilya 263 milyon mobil kullanıcısına yüz tanıma taraması zorunluluğu getirdi",
-   "ozet": "Brezilya ulusal telekomünikasyon düzenleyicisi Anatel, ülkedeki 263 milyon mobil abonenin tamamından canlı yüz taraması talep eden zorunlu bir biyometrik kayıt kuralını onayladı. Ulusal veri koruma otoritesinin yüz tanıma verilerini yönetme çerçevesi ise henüz tamamlanmadı.",
-   "link": "https://www.trthaber.com/haber/dunya/brezilya-263-milyon-mobil-kullanicisina-yuz-tanima-taramasi-zorunlulugu-getirdi-961694.html",
-   "zaman": "2026-10-30T07:07:00+03:00",
-   "kelimeler": [
-    "263",
-    "brezi",
-    "getir",
-    "kulla",
-    "milyo",
-    "mobil",
-    "tanim",
-    "taram",
-    "yuz",
-    "zorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ac1597671993": {
-   "id": "ac1597671993",
-   "kaynak": "Hürriyet",
-   "baslik": "2026 KPSS Ön Lisans Sınav sonuçları açıklandı",
-   "ozet": "2026 KPSS Ön Lisans Sınav sonuçları açıklandı. ÖSYM'nin resmi internet sitesinde yayınlandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-2026-kpss-on-lisans-sinav-sonuclari-aciklandi-43360058",
-   "zaman": "2026-10-30T07:14:00+03:00",
-   "kelimeler": [
-    "2026",
-    "acikl",
-    "kpss",
-    "lisan",
-    "on",
-    "sinav",
-    "sonuc"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ad30bf00552"
-  },
-  "5bd12c78a2de": {
-   "id": "5bd12c78a2de",
-   "kaynak": "Hürriyet",
-   "baslik": "Bursa'da soğuk hava deposunda yangın: Kontrol altına alındı",
-   "ozet": "Bursa’nın İznik ilçesinde, soğuk hava deposunda çıkan yangına çok sayıda itfaiye ekibi müdahale etti. Yangın saatler sonra kontrol altına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bursada-soguk-hava-deposunda-yangin-kontrol-altina-alindi-43360056",
-   "zaman": "2026-10-30T07:15:55+03:00",
-   "kelimeler": [
-    "alind",
-    "altin",
-    "bursa",
-    "depos",
-    "hava",
-    "kontr",
-    "soguk",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b194fe2b7dbe": {
    "id": "b194fe2b7dbe",
    "kaynak": "Hürriyet",
@@ -20174,7 +20093,10 @@
     "yurt"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a5ce1b3a1d4f": {
    "id": "a5ce1b3a1d4f",
@@ -23072,7 +22994,10 @@
     "topra"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "0b0c829b463c": {
    "id": "0b0c829b463c",
@@ -23357,9 +23282,226 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "08fb00d6d95c"
+  },
+  "ba24122e2816": {
+   "id": "ba24122e2816",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Güney Kore'ye geldi",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle başkent Seul'e geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-koreye-geldi-961906.html",
+   "zaman": "2026-11-02T06:52:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "geldi",
+    "guney",
+    "kore",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "08fb00d6d95c"
+  },
+  "0c676a3df8ae": {
+   "id": "0c676a3df8ae",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Putin ile Türkiye’de görüşmeye hazırım’",
+   "ozet": "Ukrayna Devlet Başkanı Zelenski, Türkiye’de Putin’le bir araya gelmeye hazır olduğunu söyledi. İstanbul’da Cumhurbaşkanı Erdoğan’la bu konuyu da konuştuklarını belirten Zelenski “Üçlü formatta liderler görüşmesinin Türkiye’de gerçekleşmesi konuşuldu” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/putin-ile-turkiyede-gorusmeye-hazirim-43362796",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "gorus",
+    "hazir",
+    "putin",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "630e8dc4f9bc": {
+   "id": "630e8dc4f9bc",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni sağanak dalgası",
+   "ozet": "Yurt genelinde yeni haftada sağanak ve yer yer gök gürültülü sağanak etkili olacak, hava sıcaklıkları ise perşembe gününden itibaren batı kesimlerden başlayarak hissedilir derecede azalacak.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-saganak-dalgasi-43362797",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "dalga",
+    "sagan",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0a7a96f0b55"
+  },
+  "9b81332475fb": {
+   "id": "9b81332475fb",
+   "kaynak": "Hürriyet",
+   "baslik": "Bahçeli’den proje: ‘100 İl 1000 İlçe’",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, kamu idaresini yeni yönetim sistemiyle uyumlu hale getirmeyi amaçladığı projesi kapsamında 19 yeni il ve 78 yeni ilçe kurulmasını önerdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bahceliden-proje-100-il-1000-ilce-43362799",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "100",
+    "1000",
+    "bahce",
+    "den",
+    "il",
+    "ilce",
+    "proje"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9f6bb329943c"
+  },
+  "402ca6e0b292": {
+   "id": "402ca6e0b292",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke Anlaşması Genel Kurul’a geliyor",
+   "ozet": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması’nın onaylanmasının uygun bulunduğuna dair kanun teklifi, bu hafta TBMM Genel Kurulu’na geliyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/mekke-anlasmasi-genel-kurula-geliyor-43362800",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "geliy",
+    "genel",
+    "kurul",
+    "mekke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2786bfff430f": {
+   "id": "2786bfff430f",
+   "kaynak": "Hürriyet",
+   "baslik": "Bayburt Kalesi’nin 800 yıllık gizemli çinileri",
+   "ozet": "Bayburt Kalesi, surlarındaki çinileri ile tarihi kayıtlarda önemli yer ediniyor. Anadolu’daki tek çinili kale örneği olan yapı, ziyaretçilerin ilgi odağı. Kalenin gizemli hikâyesinin peşine düştük.",
+   "link": "https://www.hurriyet.com.tr/gundem/bayburt-kalesinin-800-yillik-gizemli-cinileri-43362803",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "800",
+    "baybu",
+    "cinil",
+    "gizem",
+    "kales",
+    "nin",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c460745cb51b": {
+   "id": "c460745cb51b",
+   "kaynak": "Hürriyet",
+   "baslik": "Takıntılı hayranı kâbusu oldu... Uzaklaştırma kararı yetmedi",
+   "ozet": "SULTANLAR Ligi takımlarından Kuzeyboru’da orta oyuncu pozisyonunda oynayan milli voleybolcu Ece Hitayca (22), sosyal medya üzerinden uzun süredir Taner K.’nin ısrarlı takip ve dijital tacizlerine maruz kaldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/takintili-hayrani-kabusu-oldu-43362822",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "hayra",
+    "kabus",
+    "karar",
+    "takin",
+    "uzakl",
+    "yetme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "41457f641fe3": {
+   "id": "41457f641fe3",
+   "kaynak": "Hürriyet",
+   "baslik": "Yazılıda yeni dönem başlıyor: OYSS hakkında 15 soru 15 cevap",
+   "ozet": "MİLLİ Eğitim Bakanlığı’nın (MEB) Ortak Yazılı Sınav Sistemi (OYSS), okullarda uygulanan yazılı sınavlara yeni bir yaklaşım hayata geçirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yazilida-yeni-donem-basliyor-oyss-hakkinda-15-soru-15-cevap-43362825",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "basli",
+    "cevap",
+    "donem",
+    "hakki",
+    "oyss",
+    "soru",
+    "yazil",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c996a81b1133": {
+   "id": "c996a81b1133",
+   "kaynak": "Hürriyet",
+   "baslik": "48. kez İstanbul Maratonu",
+   "ozet": "DÜNYANIN kıtalar arasında koşulan tek maratonu olma özelliğini taşıyan Türkiye İş Bankası 48’inci İstanbul Maratonu rekorla tamamlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/48-kez-istanbul-maratonu-43362832",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "48",
+    "istan",
+    "kez",
+    "marat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "81bdfe833887": {
+   "id": "81bdfe833887",
+   "kaynak": "Hürriyet",
+   "baslik": "Ayasofya’da 1500 yıllık tarihe yolculuk",
+   "ozet": "Ayasofya’da en kapsamlı restorasyon sürerken, 1500 yıllık yapının şimdiye kadar girilmemiş tünelleri ve mahzenleri de temizlenip açığa çıkarılıyor. Bakan Ersoy, “Hedefimiz, yeraltındaki uygun bölümleri de ziyaretçilerle buluşturabilmek” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ayasofyada-1500-yillik-tarihe-yolculuk-43362835",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "1500",
+    "ayaso",
+    "tarih",
+    "yilli",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a1ad5e1c3033": {
+   "id": "a1ad5e1c3033",
+   "kaynak": "Hürriyet",
+   "baslik": "Vitamin gerçekten kabuğundaymış",
+   "ozet": "Meyve ve sebze kabukları, sapları ve çekirdeklerinin kanser ve kalp hastalıkları riskini önemli ölçüde azaltan diyet lifleri açısından büyük bir hazine olduğu belgelendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/vitamin-gercekten-kabugundaymis-43362837",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "gerce",
+    "kabug",
+    "vitam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc4b06117523": {
+   "id": "dc4b06117523",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir'de inşaat temel kazısında toprak kayması: 3 bina tahliye edildi",
+   "ozet": "İzmir'in Bayraklı ilçesinde, bir inşaatın temel kazısı sırasında meydana gelen toprak kayması nedeniyle yakınında bulunan 3 binada oturanlar güvenlik nedeniyle evlerinden tahliye edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/izmirde-insaat-temel-kazisinda-toprak-kaymasi-3-bina-tahliye-edildi-43362839",
+   "zaman": "2026-11-02T07:00:00+03:00",
+   "kelimeler": [
+    "bina",
+    "edild",
+    "insaa",
+    "izmir",
+    "kayma",
+    "kazis",
+    "tahli",
+    "temel",
+    "topra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "83b9da9e0c16"
   }
  },
  "kayit": [
+  "02.11 07:15:58  8 yeni haber",
   "02.11 07:02:59  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi.",
   "02.11 07:01:18  2 yeni haber",
   "02.11 05:16:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
@@ -23558,8 +23700,7 @@
   "30.10 22:15:59  2 yeni haber",
   "30.10 22:01:26  2 yeni haber",
   "30.10 21:46:12  2 yeni haber",
-  "30.10 21:31:19  4 yeni haber",
-  "30.10 21:16:47  6 yeni haber"
+  "30.10 21:31:19  4 yeni haber"
  ],
  "otomatik": false
 }
