@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "cfb865ed5623": {
-   "id": "cfb865ed5623",
-   "kaynak": "Hürriyet",
-   "baslik": "Baykar Yönetim Kurulu Başkanı Bayraktar: Bugünün yarışına değil yarının yarışına hazırlanmak gerekiyor",
-   "ozet": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, teknolojik gelişmelerde geleceği öngörerek hareket etmenin önemine dikkat çekerek \"Bugünün yarışına değil de yarının yarışına, bugün bitmiş veya kurgulanan bir yarışa değil de yarının yarışı ne olur, bunu öngörerek çalışmaya gayret…",
-   "link": "https://www.hurriyet.com.tr/gundem/baykar-yonetim-kurulu-baskani-bayraktar-bugunun-yarisina-degil-yarinin-yarisina-hazirlanmak-gerekiyor-43361194",
-   "zaman": "2026-10-31T01:18:00+03:00",
-   "kelimeler": [
-    "baska",
-    "bayka",
-    "bayra",
-    "bugun",
-    "degil",
-    "gerek",
-    "hazir",
-    "kurul",
-    "yarin",
-    "yaris",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f0263bd412ff": {
-   "id": "f0263bd412ff",
-   "kaynak": "NTV",
-   "baslik": "Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 31 Ekim 2026",
-   "ozet": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 31 Ekim 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Çanakkale'de?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-31-ekim-2026-1748708",
-   "zaman": "2026-10-31T01:30:00+03:00",
-   "kelimeler": [
-    "2026",
-    "31",
-    "afad",
-    "az",
-    "canak",
-    "depre",
-    "ekim",
-    "kandi",
-    "liste",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "110acf43b8b5"
-  },
   "64eaf0f09ff2": {
    "id": "64eaf0f09ff2",
    "kaynak": "BBC Türkçe",
@@ -15938,7 +15892,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "58c89021b4e9": {
    "id": "58c89021b4e9",
@@ -18868,7 +18825,10 @@
     "yunus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "26ec53175709": {
    "id": "26ec53175709",
@@ -23566,6 +23526,44 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "6b88d30aefd6"
+  },
+  "efe63b39aa0b": {
+   "id": "efe63b39aa0b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart'ı ağırlıyor",
+   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Almanya temsilcisi Stuttgart'ı konuk edecek",
+   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo",
+   "zaman": "2026-11-03T01:25:43+03:00",
+   "kelimeler": [
+    "agirl",
+    "evind",
+    "galat",
+    "ligi",
+    "nde",
+    "sampi",
+    "stutt"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "25e688464247"
+  },
+  "182c517f7945": {
+   "id": "182c517f7945",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül soruşturmasında 4 tutuklama, 8 adli kontrol",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı tarafından Sarıgül Ailesi’ne yönelik ‘kara para aklama’ ve ‘cinsel saldırı’ iddialarıyla yürütülen soruşturma kapsamında gözaltına alınan 10 şüpheli emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigul-sorusturmasinda-4-tutuklama-8-adli-kontrol-43363864",
+   "zaman": "2026-11-03T01:26:02+03:00",
+   "kelimeler": [
+    "adli",
+    "kontr",
+    "sarig",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d85790776af6"
   }
  },
  "kayit": [
