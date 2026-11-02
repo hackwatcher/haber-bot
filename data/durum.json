@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "e61b3cd7ba95": {
-   "id": "e61b3cd7ba95",
-   "kaynak": "Hürriyet",
-   "baslik": "Türkiye BM Sekreteri adayını açıkladı",
-   "ozet": "Feridun Sinirlioğlu'nun adaylığı için resmi başvuru yapıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/turkiye-bm-sekreteri-adayini-acikladi-43361215",
-   "zaman": "2026-10-31T02:03:43+03:00",
-   "kelimeler": [
-    "adayi",
-    "bm",
-    "sekre",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1ef5f730deae"
-  },
   "c9a852d2815c": {
    "id": "c9a852d2815c",
    "kaynak": "AA",
@@ -18562,7 +18545,8 @@
     "tehdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "00115695c32f": {
    "id": "00115695c32f",
@@ -23589,9 +23573,52 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "91add43b23f3": {
+   "id": "91add43b23f3",
+   "kaynak": "Hürriyet",
+   "baslik": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
+   "ozet": "Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) AG Anadolu Grubu Holding ve Vestel Elektronik'in paylarının Türkiye Varlık Fonu (TVF) ve Turkcell'e devrine ilişkin sözleşmeler imzalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874",
+   "zaman": "2026-11-03T01:52:15+03:00",
+   "kelimeler": [
+    "anado",
+    "geciy",
+    "grubu",
+    "in",
+    "payla",
+    "togg",
+    "turkc",
+    "tvf",
+    "veste"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "808b5f473514": {
+   "id": "808b5f473514",
+   "kaynak": "Hürriyet",
+   "baslik": "İş insanı Nevzat Aydın’a tehdit soruşturmasında 7 şüpheli tutuklandı",
+   "ozet": "İş insanı Nevzat Aydın, oğlunun Trabzonspor-Beşiktaş maçında seremoniye çıkması için 100 milyon lira ödediği yönündeki haberlerin ardından, 'Çirkinler' isimli suç örgütü üyesi olduğunu söyleyen K.A. tarafından arandığını ve 1 milyon avro istendiğini belirterek şikayetçi oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/is-insani-nevzat-aydina-tehdit-sorusturmasinda-7-supheli-tutuklandi-43363875",
+   "zaman": "2026-11-03T01:53:26+03:00",
+   "kelimeler": [
+    "aydin",
+    "insan",
+    "is",
+    "nevza",
+    "sorus",
+    "suphe",
+    "tehdi",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "47e4df73f5be"
   }
  },
  "kayit": [
+  "03.11 02:15:59  1 yeni haber",
   "03.11 02:01:23  2 yeni haber",
   "03.11 01:03:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
   "03.11 01:01:17  2 yeni haber",
@@ -23790,8 +23817,7 @@
   "31.10 21:01:29  2 yeni haber",
   "31.10 20:46:01  1 yeni haber",
   "31.10 20:31:55  1 yeni haber",
-  "31.10 20:25:17  3 yeni haber",
-  "31.10 20:17:56  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 977 milyon TL'lik fuhuş ağı çökertildi: 17 tutuklama"
+  "31.10 20:25:17  3 yeni haber"
  ],
  "otomatik": false
 }
