@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "64eaf0f09ff2": {
-   "id": "64eaf0f09ff2",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Polonya'da siyasi gerginlik: Anayasa Mahkemesi'ne polis görevlendirildi",
-   "ozet": "Polonya'da hükümet ile Anayasa Mahkemesi başkanı ve yardımcısı arasında tırmanan gerilim üzerine, mahkeme binasına çevik kuvvet polisleri konuşlandırıldı.",
-   "link": "https://www.bbc.com/turkce/articles/cm0e025gw751o",
-   "zaman": "2026-10-31T01:43:11+03:00",
-   "kelimeler": [
-    "anaya",
-    "gergi",
-    "gorev",
-    "mahke",
-    "polis",
-    "polon",
-    "siyas"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1ef5f730deae": {
-   "id": "1ef5f730deae",
-   "kaynak": "AA",
-   "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
-   "ozet": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi/4106991",
-   "zaman": "2026-10-31T01:45:24+03:00",
-   "kelimeler": [
-    "aday",
-    "bm",
-    "ferid",
-    "genel",
-    "goste",
-    "nu",
-    "sekre",
-    "sinir",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ]
-  },
   "0529b3755f41": {
    "id": "0529b3755f41",
    "kaynak": "TRT Haber",
@@ -13062,7 +13018,8 @@
     "ticar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c15a6524b462": {
    "id": "c15a6524b462",
@@ -23564,6 +23521,26 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d85790776af6"
+  },
+  "8e866dcabb8e": {
+   "id": "8e866dcabb8e",
+   "kaynak": "TRT Haber",
+   "baslik": "Diyarbakır'da kamyon ile hafif ticari araç çarpıştı: 2 ölü",
+   "ozet": "Diyarbakır'ın merkez Bağlar ilçesinde kamyon ile hafif ticari aracın çarpışması sonucu 2 kişi hayatını kaybetti, 12 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-962005.html",
+   "zaman": "2026-11-03T01:31:00+03:00",
+   "kelimeler": [
+    "arac",
+    "carpi",
+    "diyar",
+    "hafif",
+    "kamyo",
+    "olu",
+    "ticar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5331d34f7075"
   }
  },
  "kayit": [
