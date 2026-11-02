@@ -20053,7 +20053,10 @@
     "uzlas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "93830c37eef8": {
    "id": "93830c37eef8",
@@ -23353,9 +23356,91 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c1cfbe77e0bc": {
+   "id": "c1cfbe77e0bc",
+   "kaynak": "TRT Haber",
+   "baslik": "3 yaşındaki çocuğunu darp eden anne tutuklandı",
+   "ozet": "Ankara'da, 3 yaşındaki çocuğunu darp ettiğine ilişkin görüntüleri ortaya çıkan anne tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html",
+   "zaman": "2026-11-02T13:49:00+03:00",
+   "kelimeler": [
+    "anne",
+    "cocug",
+    "darp",
+    "eden",
+    "tutuk",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f07ab39d6e82": {
+   "id": "f07ab39d6e82",
+   "kaynak": "AA",
+   "baslik": "Lübnan'da faturalarını ödemeyen kamu kurumlarının elektriğinin kesilmesi için işlemler başlatıldı",
+   "ozet": "Lübnan Elektrik Kurumu, borçlarını ödemeyen kamu kurum ve kuruluşları ile belediyelerin elektriğinin kesilmesine yönelik işlemleri başlattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnanda-faturalarini-odemeyen-kamu-kurumlarinin-elektriginin-kesilmesi-icin-islemler-baslatildi/4108661",
+   "zaman": "2026-11-02T13:50:32+03:00",
+   "kelimeler": [
+    "basla",
+    "elekt",
+    "fatur",
+    "islem",
+    "kamu",
+    "kesil",
+    "kurum",
+    "lubna",
+    "odeme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "01120adffe96": {
+   "id": "01120adffe96",
+   "kaynak": "AA",
+   "baslik": "Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu",
+   "ozet": "Belçika Başbakanı Bart De Wever'in federal hükümetin bütçe müzakerelerinde uzlaşma sağlayamamasının ardından istifasını Kral Philippe'e sunduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcika-basbakani-de-wever-kral-philippee-istifasini-sundu/4108667",
+   "zaman": "2026-11-02T13:55:27+03:00",
+   "kelimeler": [
+    "basba",
+    "belci",
+    "istif",
+    "kral",
+    "phili",
+    "sundu",
+    "wever"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7d8a2c818a74": {
+   "id": "7d8a2c818a74",
+   "kaynak": "BBC Türkçe",
+   "baslik": "DEM Parti: Yerel seçimlerde 'kent uzlaşısı' ile seçilen meclis üyelerimiz partimize katılacak",
+   "ozet": "DEM Parti, 31 Mart 2024 yerel seçimlerindeki kent uzlaşısı stratejisi kampasında seçilen belediye meclis üyelerinin partiye katılacağını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/ck0j0lw68749o",
+   "zaman": "2026-11-02T13:56:22+03:00",
+   "kelimeler": [
+    "dem",
+    "katil",
+    "kent",
+    "mecli",
+    "parti",
+    "secil",
+    "secim",
+    "uyele",
+    "uzlas",
+    "yerel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6dbcec3e66e6"
   }
  },
  "kayit": [
+  "02.11 14:01:33  3 yeni haber",
   "02.11 13:55:56  4 yeni haber",
   "02.11 13:47:31  12 yeni haber",
   "02.11 13:31:21  1 yeni haber",
@@ -23554,8 +23639,7 @@
   "31.10 10:15:53  7 yeni haber",
   "31.10 10:03:54  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Depremler mi tetikledi? Prof. Dr. Bektaş uyardı: \"Bölge denize doğru ç",
   "31.10 10:01:25  6 yeni haber",
-  "31.10 09:46:10  1 yeni haber",
-  "31.10 09:28:29  2 yeni haber"
+  "31.10 09:46:10  1 yeni haber"
  ],
  "otomatik": false
 }
