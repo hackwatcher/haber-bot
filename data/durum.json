@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "41b0b539156f": {
-   "id": "41b0b539156f",
-   "kaynak": "AA",
-   "baslik": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Dünyasında Medya ve İletişim\" paneli yapıldı",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasında Medya ve İletişim\" paneli düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-dunyasinda-medya-ve-iletisim-paneli-yapildi/4106085",
-   "zaman": "2026-10-30T12:44:42+03:00",
-   "kelimeler": [
-    "diyal",
-    "dunya",
-    "forum",
-    "ileti",
-    "kapsa",
-    "medya",
-    "panel",
-    "turk",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "e4fbc3f0e6b1": {
    "id": "e4fbc3f0e6b1",
    "kaynak": "Hürriyet",
@@ -23158,7 +23136,10 @@
     "temmu"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "86fe20fc4fa4": {
    "id": "86fe20fc4fa4",
@@ -23321,9 +23302,113 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "74df3bf77149": {
+   "id": "74df3bf77149",
+   "kaynak": "AA",
+   "baslik": "Dünya, iklim gündemi için COP31'de Antalya'da buluşacak",
+   "ozet": "Türkiye'nin ev sahipliği yapacağı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), dünyanın dört bir yanından yüz binlerce katılımcı ve devlet başkanını Antalya'da bir araya getirecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/dunya-iklim-gundemi-icin-cop31de-antalyada-bulusacak/4108500",
+   "zaman": "2026-11-02T11:57:58+03:00",
+   "kelimeler": [
+    "antal",
+    "bulus",
+    "cop31",
+    "dunya",
+    "gunde",
+    "iklim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60415bc9bbe8": {
+   "id": "60415bc9bbe8",
+   "kaynak": "TRT Haber",
+   "baslik": "15 Temmuz Şehitler Köprüsü'nde zincirleme trafik kazası",
+   "ozet": "15 Temmuz Şehitler Köprüsü'nde 5 aracın karıştığı zincirleme trafik kazası nedeniyle trafik yoğunluğu yaşandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/15-temmuz-sehitler-koprusunde-zincirleme-trafik-kazasi-961945.html",
+   "zaman": "2026-11-02T12:29:00+03:00",
+   "kelimeler": [
+    "15",
+    "kazas",
+    "kopru",
+    "nde",
+    "sehit",
+    "temmu",
+    "trafi",
+    "zinci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cb78640cfb8c"
+  },
+  "e440d57bbeba": {
+   "id": "e440d57bbeba",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa metrosundaki unutkanlık mutlu bitti | Çantayı görünce sevinçten secdeye kapandı",
+   "ozet": "Bursa'da metro vagonunda çantasını unutan Endonezyalı öğrencinin yardımına temizlik görevlisi yetişti. İçinde pasaportu ve dövizi bulunan çantayı teslim alan genç kızın gözyaşları içinde secde ettiği anlar güvenlik kamerasına saniye saniye yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursa-metrosundaki-unutkanlik-mutlu-bitti-cantayi-gorunce-sevincten-secdeye-kapandi-43363235",
+   "zaman": "2026-11-02T12:30:00+03:00",
+   "kelimeler": [
+    "bitti",
+    "bursa",
+    "canta",
+    "gorun",
+    "kapan",
+    "metro",
+    "mutlu",
+    "secde",
+    "sevin",
+    "unutk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f25932af92f": {
+   "id": "5f25932af92f",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, İslam İşbirliği Teşkilatı Genel Sekreteri Ahmed'i kabul etti",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, İslam İşbirliği Teşkilatı (İİT) Genel Sekreteri İsmail Vild eş-Şeyh Ahmed'i kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-islam-isbirligi-teskilati-genel-sekreteri-ahmedi-kabul-etti/4108538",
+   "zaman": "2026-11-02T12:30:02+03:00",
+   "kelimeler": [
+    "ahmed",
+    "cumhu",
+    "etti",
+    "genel",
+    "isbir",
+    "islam",
+    "kabul",
+    "sekre",
+    "teski",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9dfe3b863402": {
+   "id": "9dfe3b863402",
+   "kaynak": "AA",
+   "baslik": "Türk üniversiteleri Çin Eğitim Fuarı'na katıldı",
+   "ozet": "Türk üniversiteleri, Türkiye Ulusal Ajansı organizasyonuyla Çin'in başkenti Pekin'de düzenlenen Çin Eğitim Fuarı'na (CEE) katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-universiteleri-cin-egitim-fuarina-katildi/4108546",
+   "zaman": "2026-11-02T12:36:49+03:00",
+   "kelimeler": [
+    "cin",
+    "egiti",
+    "fuari",
+    "katil",
+    "na",
+    "turk",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "02.11 12:46:05  4 yeni haber",
   "02.11 12:31:24  5 yeni haber",
   "02.11 12:16:15  14 yeni haber",
   "02.11 12:01:25  5 yeni haber",
@@ -23522,8 +23607,7 @@
   "31.10 07:45:59  1 yeni haber",
   "31.10 07:31:28  1 yeni haber",
   "31.10 07:15:58  9 yeni haber",
-  "31.10 07:03:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Denizli'de Merkezefendi Belediyesine yönelik soruşturmada 5 şüpheli tu",
-  "31.10 07:01:35  1 yeni haber"
+  "31.10 07:03:42  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Denizli'de Merkezefendi Belediyesine yönelik soruşturmada 5 şüpheli tu"
  ],
  "otomatik": false
 }
