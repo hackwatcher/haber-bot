@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "f4901e8c1b8d": {
-   "id": "f4901e8c1b8d",
-   "kaynak": "TRT Haber",
-   "baslik": "HAVELSAN, Nijerya'da kapsamlı mutabakat muhtırası imzaladı",
-   "ozet": "HAVELSAN, Nijerya'da düzenlenen AFRIDEX 2026 Savunma Sanayii Fuarı kapsamında Nijerya Savunma Sanayii Kurumu DICON ile savunma ve teknoloji alanlarında işbirliğini geliştirmeye yönelik mutabakat muhtırası imzaladı.",
-   "link": "https://www.trthaber.com/haber/savunma/havelsan-nijeryada-kapsamli-mutabakat-muhtirasi-imzaladi-961780.html",
-   "zaman": "2026-10-31T00:33:00+03:00",
-   "kelimeler": [
-    "havel",
-    "imzal",
-    "kapsa",
-    "muhti",
-    "mutab",
-    "nijer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2a6ec95a1629": {
-   "id": "2a6ec95a1629",
-   "kaynak": "NTV",
-   "baslik": "Sakarya'da yol çalışmasında antik yazıtlı taş blok bulundu",
-   "ozet": "Sakarya'da çalışma esnasında toprak altından çıkarılan antik dönem yazıtlı taş blok, mahallelinin dikkatini çekti. Devasa tarihi kalıntı, kısa sürede merak konusu haline geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yol-calismasinda-bulundu-merak-konusu-oldu-1748705",
-   "zaman": "2026-10-31T00:42:04+03:00",
-   "kelimeler": [
-    "antik",
-    "blok",
-    "bulun",
-    "calis",
-    "sakar",
-    "tas",
-    "yazit",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "02a5cfe67920": {
-   "id": "02a5cfe67920",
-   "kaynak": "TRT Haber",
-   "baslik": "Sahte TOKİ siteleri üzerinden dolandırıcılık yapan 6 şüpheli tutuklandı",
-   "ozet": "Ankara Batı Cumhuriyet Başsavcılığınca, TOKİ başvuruları için kurulan sahte internet siteleri üzerinden dolandırıcılık yapıldığı iddiasıyla yürütülen soruşturmada gözaltına alınan 8 şüpheliden 6'sı tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/sahte-toki-siteleri-uzerinden-dolandiricilik-yapan-6-supheli-tutuklandi-961781.html",
-   "zaman": "2026-10-31T00:38:00+03:00",
-   "kelimeler": [
-    "dolan",
-    "sahte",
-    "sitel",
-    "suphe",
-    "toki",
-    "tutuk",
-    "uzeri",
-    "yapan"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-31T01:03:59.295743+03:00",
-   "ig_id": "18099406448392783",
-   "reels_id": "17873244966641624",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1659845519020484",
-   "slayt": 5,
-   "kanca": "SAHTE TOKİ SİTELERİ"
-  },
   "867a7cf7abe1": {
    "id": "867a7cf7abe1",
    "kaynak": "Sözcü",
@@ -21167,7 +21100,10 @@
     "sevk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "838b0caf2b6c": {
    "id": "838b0caf2b6c",
@@ -23505,10 +23441,83 @@
     "sesle"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "577a488fe579": {
+   "id": "577a488fe579",
+   "kaynak": "TRT Haber",
+   "baslik": "İran basını: Hürmüz Boğazı'ndaki Keşm Adası'nda patlama sesleri duyuldu",
+   "ozet": "İran'ın güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası'nda 5 patlama sesi duyuldu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasinda-patlama-sesleri-duyuldu-962002.html",
+   "zaman": "2026-11-03T00:24:00+03:00",
+   "kelimeler": [
+    "adasi",
+    "basin",
+    "bogaz",
+    "duyul",
+    "hurmu",
+    "iran",
+    "kesm",
+    "nda",
+    "ndaki",
+    "patla",
+    "sesle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "719c7aa0c26e"
+  },
+  "042e9767a849": {
+   "id": "042e9767a849",
+   "kaynak": "TRT Haber",
+   "baslik": "Eski Borsa İstanbul Genel Müdürü Ergun'a tutuklama talebi",
+   "ozet": "Fon soruşturması kapsamında gözaltına alınan eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, \"rüşvet almak\" suçundan tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/eski-borsa-istanbul-genel-muduru-erguna-tutuklama-talebi-962003.html",
+   "zaman": "2026-11-03T00:32:00+03:00",
+   "kelimeler": [
+    "borsa",
+    "ergun",
+    "eski",
+    "genel",
+    "istan",
+    "mudur",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "de2563fd85da"
+  },
+  "47c4f141160e": {
+   "id": "47c4f141160e",
+   "kaynak": "AA",
+   "baslik": "ABD Başkan Yardımcısı Vance, İran'la uzlaşma ihtimaline \"oldukça iyimser\" yaklaştıklarını belirtti",
+   "ozet": "ABD Başkan Yardımcısı JD Vance, İran'la birtakım ilerlemeler kaydedildiğini ve müzakere yoluyla uzlaşmaya varılması ihtimali konusunda oldukça iyimser olduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-uzlasma-ihtimaline-oldukca-iyimser-yaklastiklarini-belirtti/4109231",
+   "zaman": "2026-11-03T00:39:32+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "belir",
+    "ihtim",
+    "iran",
+    "iyims",
+    "la",
+    "olduk",
+    "uzlas",
+    "vance",
+    "yakla",
+    "yardi"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 00:46:01  1 yeni haber",
   "03.11 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi ",
   "03.11 00:31:12  2 yeni haber",
   "03.11 00:16:33  5 yeni haber",
@@ -23707,8 +23716,7 @@
   "31.10 20:17:56  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 977 milyon TL'lik fuhuş ağı çökertildi: 17 tutuklama",
   "31.10 20:16:02  3 yeni haber",
   "31.10 20:01:21  3 yeni haber",
-  "31.10 19:46:02  3 yeni haber",
-  "31.10 19:31:11  1 yeni haber"
+  "31.10 19:46:02  3 yeni haber"
  ],
  "otomatik": false
 }
