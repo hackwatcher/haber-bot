@@ -1,58 +1,5 @@
 {
  "haberler": {
-  "d4e47db70d6d": {
-   "id": "d4e47db70d6d",
-   "kaynak": "TRT Haber",
-   "baslik": "Denizli'de Merkezefendi Belediyesine yönelik soruşturmada 5 şüpheli tutuklandı",
-   "ozet": "Denizli'de Merkezefendi Belediyesine yönelik soruşturma kapsamında gözaltına alınan aralarında Belediye Başkanı Şeniz Doğan ve eşinin de bulunduğu 5 şüpheli tutuklandı.",
-   "link": "https://www.trthaber.com/haber/gundem/denizlide-merkezefendi-belediyesine-yonelik-sorusturmada-5-supheli-tutuklandi-961783.html",
-   "zaman": "2026-10-31T06:17:00+03:00",
-   "kelimeler": [
-    "beled",
-    "deniz",
-    "merke",
-    "sorus",
-    "suphe",
-    "tutuk",
-    "yonel"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-31T07:03:42.989733+03:00",
-   "ig_id": "17935668513147656",
-   "reels_id": "18084707147709719",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2152830596118950",
-   "slayt": 5,
-   "kanca": "BELEDİYE BAŞKANI TUTUKLANDI",
-   "diger_kaynaklar": [
-    "XHABER"
-   ]
-  },
-  "c341f2036a2c": {
-   "id": "c341f2036a2c",
-   "kaynak": "TRT Haber",
-   "baslik": "Edirne'de tur otobüsüyle tırın çarpıştığı kazada 10 kişi yaralandı",
-   "ozet": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle tırın çarpışması sonucu 10 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/edirnede-tur-otobusuyle-tirin-carpistigi-kazada-10-kisi-yaralandi-961784.html",
-   "zaman": "2026-10-31T06:31:00+03:00",
-   "kelimeler": [
-    "10",
-    "carpi",
-    "edirn",
-    "kazad",
-    "kisi",
-    "otobu",
-    "tirin",
-    "tur",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "9e213b40c31e"
-  },
   "8a26521bca3b": {
    "id": "8a26521bca3b",
    "kaynak": "Hürriyet",
@@ -496,27 +443,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "500e7728d2d6": {
-   "id": "500e7728d2d6",
-   "kaynak": "TRT Haber",
-   "baslik": "Edirne'de tur otobüsüyle tır çarpıştı: 10 kişi yaralandı",
-   "ozet": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle tırın çarpışması sonucu 10 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/edirnede-tur-otobusuyle-tir-carpisti-10-kisi-yaralandi-961784.html",
-   "zaman": "2026-10-31T06:31:00+03:00",
-   "kelimeler": [
-    "10",
-    "carpi",
-    "edirn",
-    "kisi",
-    "otobu",
-    "tir",
-    "tur",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9e213b40c31e"
   },
   "15d177b43d76": {
    "id": "15d177b43d76",
@@ -18270,7 +18196,10 @@
     "yurdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "07cb725b040a": {
    "id": "07cb725b040a",
@@ -23667,9 +23596,45 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bb2d54a5063b": {
+   "id": "bb2d54a5063b",
+   "kaynak": "TRT Haber",
+   "baslik": "Sıcaklıklar yarından itibaren 5 ila 8 derece azalacak",
+   "ozet": "Türkiye genelinde hava sıcaklıklarının yarından itibaren batı kesimlerden başlayarak hissedilir derecede 5 ila 8 derece azalacağı tahmin ediliyor. Sıcaklık düşüşüyle birlikte ülke genelinde kuvvetli yağış ve Marmarada sert rüzgarlar etkili olacak.",
+   "link": "https://www.trthaber.com/haber/gundem/sicakliklar-yarindan-itibaren-5-ila-8-derece-azalacak-962011.html",
+   "zaman": "2026-11-03T06:05:00+03:00",
+   "kelimeler": [
+    "azala",
+    "derec",
+    "ila",
+    "itiba",
+    "sicak",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e48054693f1b": {
+   "id": "e48054693f1b",
+   "kaynak": "TRT Haber",
+   "baslik": "7 il için kuvvetli yağış uyarısı",
+   "ozet": "Kıyı Ege ile Marmara'nın batısında beklenen kuvvetli yağış nedeniyle 7 il için \"sarı\" kodlu uyarıda bulunuldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/7-il-icin-kuvvetli-yagis-uyarisi-962012.html",
+   "zaman": "2026-11-03T06:13:00+03:00",
+   "kelimeler": [
+    "il",
+    "kuvve",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "62c1500d55b4"
   }
  },
  "kayit": [
+  "03.11 06:31:25  1 yeni haber",
   "03.11 06:01:32  1 yeni haber",
   "03.11 06:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 04:46:54  1 yeni haber",
@@ -23868,8 +23833,7 @@
   "31.10 23:45:55  2 yeni haber",
   "31.10 23:31:09  2 yeni haber",
   "31.10 23:16:22  1 yeni haber",
-  "31.10 23:01:31  4 yeni haber",
-  "31.10 22:15:57  3 yeni haber"
+  "31.10 23:01:31  4 yeni haber"
  ],
  "otomatik": false
 }
