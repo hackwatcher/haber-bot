@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "f7c6091f8490": {
-   "id": "f7c6091f8490",
-   "kaynak": "AA",
-   "baslik": "\"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programı \"Sonuç Raporu\" oturumuyla tamamlandı",
-   "ozet": "Kültür Medeniyet Vakfının (KÜME) \"ODAK\" projesi kapsamında Anadolu Ajansı (AA) ve Rami Kütüphanesi ortaklığında hazırlanan \"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" başlıklı program sona erdi.",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-sanatin-izinde-etkinlikten-hafizaya-programi-sonuc-raporu-oturumuyla-tamamlandi/4107656",
-   "zaman": "2026-10-31T23:54:04+03:00",
-   "kelimeler": [
-    "etkin",
-    "hafiz",
-    "izind",
-    "kultu",
-    "oturu",
-    "progr",
-    "rapor",
-    "sanat",
-    "sonuc",
-    "tamam"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d6aa801d6f5c"
-  },
-  "2810190ab45b": {
-   "id": "2810190ab45b",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-kasim-2026-1748829",
-   "zaman": "2026-11-01T00:00:00+03:00",
-   "kelimeler": [
-    "01",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "il",
-    "istan",
-    "izmir",
-    "kasim",
-    "nered"
-   ],
-   "durum": "engelli",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
   "13d7f226ac25": {
    "id": "13d7f226ac25",
    "kaynak": "AA",
@@ -27165,8 +27118,17 @@
     "iki",
     "stutt"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-04T00:04:56.856823+03:00",
+   "ig_id": "17988256404083002",
+   "reels_id": "18336508240274478",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1110260361635105",
+   "slayt": 5,
+   "kanca": "BATRAKOV'DAN ÜST ÜSTE GOL"
   },
   "de1df92cb7ea": {
    "id": "de1df92cb7ea",
@@ -27485,9 +27447,34 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e342af46091f"
+  },
+  "900f0ee07282": {
+   "id": "900f0ee07282",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-kasim-2026-1749271",
+   "zaman": "2026-11-04T00:00:00+03:00",
+   "kelimeler": [
+    "04",
+    "2026",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "il",
+    "istan",
+    "izmir",
+    "kasim",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5d153c3b7bed"
   }
  },
  "kayit": [
+  "04.11 00:04:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaray, Stuttgart'ı iki golle geçti",
   "03.11 23:46:21  3 yeni haber",
   "03.11 23:31:33  2 yeni haber",
   "03.11 23:16:30  5 yeni haber",
@@ -27686,8 +27673,7 @@
   "01.11 22:16:02  2 yeni haber",
   "01.11 22:01:18  1 yeni haber",
   "01.11 21:46:53  2 yeni haber",
-  "01.11 21:31:09  1 yeni haber",
-  "01.11 21:17:12  5 yeni haber"
+  "01.11 21:31:09  1 yeni haber"
  ],
  "otomatik": false
 }
