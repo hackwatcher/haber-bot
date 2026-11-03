@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "d583d2efea13": {
-   "id": "d583d2efea13",
-   "kaynak": "TRT Haber",
-   "baslik": "112 Acil Çağrı Sisteminde yeni dönem",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Cumhurbaşkanı Recep Tayyip Erdoğanın imzasıyla yayımlanan Cumhurbaşkanlığı Kararnamesi doğrultusunda, Bakanlık bünyesinde \"112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü\"nün kurulduğunu duyurdu.",
-   "link": "https://www.trthaber.com/haber/gundem/112-acil-cagri-sisteminde-yeni-donem-961831.html",
-   "zaman": "2026-10-31T16:49:00+03:00",
-   "kelimeler": [
-    "112",
-    "cagri",
-    "donem",
-    "siste",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "e14c605a90b7": {
-   "id": "e14c605a90b7",
-   "kaynak": "TRT Haber",
-   "baslik": "İran Dışişleri Bakanı Arakçi: ABD makamları ile görüşme planımız yok",
-   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, ABD makamları ile görüşme planlarının olmadığını ve görüşmeye ilişkin ortaya atılan iddiaların gerçeği yansıtmadığını söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-abd-makamlari-ile-gorusme-planimiz-yok-961832.html",
-   "zaman": "2026-10-31T16:57:00+03:00",
-   "kelimeler": [
-    "abd",
-    "arakc",
-    "bakan",
-    "disis",
-    "gorus",
-    "iran",
-    "makam",
-    "plani"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ed63f66dc694"
-  },
   "a93621051085": {
    "id": "a93621051085",
    "kaynak": "XHABER",
@@ -156,28 +115,6 @@
     "tarti",
     "turan",
     "uzun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0dd62e5138b1": {
-   "id": "0dd62e5138b1",
-   "kaynak": "AA",
-   "baslik": "Kültür sanat yayıncılığının değişen ekosistemi Karaköy Palas'ta ele alındı",
-   "ozet": "Kültür ve Medeniyet Vakfının ODAK projesi kapsamında, Anadolu Ajansı ve Rami Kütüphanesi ortaklığında hazırlanan \"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programında, kültür sanat yayıncılığının durumu ve geleceğine dair konular ele alındı.",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-sanat-yayinciliginin-degisen-ekosistemi-karakoy-palasta-ele-alindi/4107395",
-   "zaman": "2026-10-31T16:50:31+03:00",
-   "kelimeler": [
-    "alind",
-    "degis",
-    "ekosi",
-    "ele",
-    "karak",
-    "kultu",
-    "palas",
-    "sanat",
-    "ta",
-    "yayin"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -10086,7 +10023,8 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b29589e73a8b": {
    "id": "b29589e73a8b",
@@ -11530,7 +11468,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "BBC Türkçe"
    ]
   },
   "8cdcc7e20859": {
@@ -26286,7 +26225,8 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ec0320e187dd": {
    "id": "ec0320e187dd",
@@ -26330,9 +26270,275 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3d539f081792": {
+   "id": "3d539f081792",
+   "kaynak": "AA",
+   "baslik": "İsrail işgali nedeniyle geçim kaynaklarından mahrum kalan Suriyeli çiftçiler ata topraklarından vazgeçmiyor",
+   "ozet": "Suriye’nin güneyindeki sınır hattında yaşayan Kuneytra ve Deralı çiftçiler, İsrail güçlerinin bölgeyi güvenlik alanı ilan etmesi ve kurduğu askeri noktalar nedeniyle asırlık ata topraklarındaki zeytinliklerine erişemiyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-isgali-nedeniyle-gecim-kaynaklarindan-mahrum-kalan-suriyeli-ciftciler-ata-topraklarindan-vazgecmiyor/4109658",
+   "zaman": "2026-11-03T12:21:02+03:00",
+   "kelimeler": [
+    "ata",
+    "ciftc",
+    "gecim",
+    "isgal",
+    "israi",
+    "kalan",
+    "kayna",
+    "mahru",
+    "neden",
+    "suriy",
+    "topra",
+    "vazge"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "35fd770b217b": {
+   "id": "35fd770b217b",
+   "kaynak": "AA",
+   "baslik": "Gazze'deki çocuklar, İsrail saldırılarının izlerini ve barış özlemlerini sanatla anlattı",
+   "ozet": "Gazze Şeridi'ndeki Filistinli çocuklar, İsrail'in ağır saldırıları nedeniyle maruz kaldıkları zorlukları, özgürlüğe, barışa ve güvenliğe duydukları özlemi yaptıkları tablo, resim ve maketlerle ifade ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-cocuklar-israil-saldirilarinin-izlerini-ve-baris-ozlemlerini-sanatla-anlatti/4109851",
+   "zaman": "2026-11-03T14:02:55+03:00",
+   "kelimeler": [
+    "anlat",
+    "baris",
+    "cocuk",
+    "deki",
+    "gazze",
+    "israi",
+    "izler",
+    "ozlem",
+    "saldi",
+    "sanat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0d3a21e6fa0d": {
+   "id": "0d3a21e6fa0d",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe'de teknik sorumlu Kuyt: İyi bir performansla reaksiyon göstermeliyiz",
+   "ozet": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın İngiltere'nin Liverpool takımını ağırlayacak Fenerbahçe'de teknik sorumlu Dirk Kuyt, iyi bir performansla reaksiyon göstermeleri gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-sorumlu-kuyt-iyi-bir-performansla-reaksiyon-gostermeliyiz/4110093",
+   "zaman": "2026-11-03T16:31:42+03:00",
+   "kelimeler": [
+    "fener",
+    "goste",
+    "iyi",
+    "kuyt",
+    "perfo",
+    "reaks",
+    "sorum",
+    "tekni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "c880a410a0c4": {
+   "id": "c880a410a0c4",
+   "kaynak": "TRT Haber",
+   "baslik": "Yağışlı ve soğuk hava geliyor",
+   "ozet": "Meteoroloji Genel Müdürlüğü tahminlerine göre ülke geneli yarın itibarıyla batı kesimlerinden başlayarak serin ve yağışlı havanın etkisine girecek.",
+   "link": "https://www.trthaber.com/haber/guncel/yagisli-ve-soguk-hava-geliyor-962105.html",
+   "zaman": "2026-11-03T16:33:00+03:00",
+   "kelimeler": [
+    "geliy",
+    "hava",
+    "soguk",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1a8407862ba2"
+  },
+  "d51605280b53": {
+   "id": "d51605280b53",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan'dan Türkiye'nin Juba Büyükelçisi Ergin için taziye mesajı",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Türkiye'nin Juba Büyükelçisi Metin Ergin'i kaybetmenin derin üzüntüsü içinde olduklarını belirterek, kendisine Allahtan rahmet, ailesine ve yakınlarına başsağlığı diledi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-turkiyenin-juba-buyukelcisi-ergin-icin-taziye-mesaji-962106.html",
+   "zaman": "2026-11-03T16:41:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "buyuk",
+    "dan",
+    "ergin",
+    "fidan",
+    "juba",
+    "mesaj",
+    "nin",
+    "taziy",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e14414e94993": {
+   "id": "e14414e94993",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında son durum",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP, standart altının kilogram fiyatı, günün sonunda 6 milyon 305 bin liraya çıktı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962107.html",
+   "zaman": "2026-11-03T16:42:00+03:00",
+   "kelimeler": [
+    "altin",
+    "durum",
+    "fiyat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f2d0fa264185"
+  },
+  "3f614bc64130": {
+   "id": "3f614bc64130",
+   "kaynak": "AA",
+   "baslik": "COP31'de iklim teknolojilerini sahaya taşıyacak uluslararası işbirliklerinin önü açılacak",
+   "ozet": "Türkiye Teknoloji Geliştirme Vakfı (TTGV), Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı'nda (COP31) iklim teknolojilerinin geliştirilmesinden uygulamaya geçirilmesine uzanan süreçteki kritik açığa dikkati çekecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-iklim-teknolojilerini-sahaya-tasiyacak-uluslararasi-isbirliklerinin-onu-acilacak/4110120",
+   "zaman": "2026-11-03T16:45:52+03:00",
+   "kelimeler": [
+    "acila",
+    "cop31",
+    "iklim",
+    "isbir",
+    "onu",
+    "sahay",
+    "tasiy",
+    "tekno",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a439c8bb37f1": {
+   "id": "a439c8bb37f1",
+   "kaynak": "AA",
+   "baslik": "Bakan Şimşek: Enerji ve emtia fiyatlarında öngörülen gerileme, enflasyondaki düşüşü destekleyecek",
+   "ozet": "Hazine ve Maliye Bakanı Şimşek, gelecek dönemde ekonomik aktivitenin dengeli seyri, enerji ve emtia fiyatlarında öngörülen gerileme, beklentilerde iyileşme ve hizmet enflasyonunda ataletin azalmasının enflasyondaki düşüşü destekleyeceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-enerji-ve-emtia-fiyatlarinda-ongorulen-gerileme-enflasyondaki-dususu-destekleyecek/4110121",
+   "zaman": "2026-11-03T16:45:54+03:00",
+   "kelimeler": [
+    "bakan",
+    "deste",
+    "dusus",
+    "emtia",
+    "enerj",
+    "enfla",
+    "fiyat",
+    "geril",
+    "ongor",
+    "simse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "5cd661dea0b0": {
+   "id": "5cd661dea0b0",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD ara seçimleri ve üç senaryo",
+   "ozet": "Demokratların yükselişi mi, yoksa Cumhuriyetçilerin direnci mi? BBC Kuzey Amerika Muhabiri Anthony Zurcher, ABD'de bugünkü ara seçimler sonrası ortaya çıkabilecek tabloyu senaryolar üzerinden inceledi.",
+   "link": "https://www.bbc.com/turkce/articles/c6rmyrpjr4n9o",
+   "zaman": "2026-11-03T16:46:02+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "secim",
+    "senar",
+    "uc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d4895b16b157"
+  },
+  "cd99829e6cc1": {
+   "id": "cd99829e6cc1",
+   "kaynak": "AA",
+   "baslik": "ABD'de ara seçimlerde oy kullanma işlemi başladı",
+   "ozet": "Ara seçimler için erken oy kullanma işlemleri 18 Eylül'de Minnesota, South Dakota ve Virginia eyaletlerinde başlarken, daha sonra diğer eyaletlerde de erken oy verme merkezleri hizmet vermeye başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerde-oy-kullanma-islemi-basladi/4110127",
+   "zaman": "2026-11-03T16:47:41+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "basla",
+    "islem",
+    "kulla",
+    "oy",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "060ab3d3c8d9"
+  },
+  "df341aed75f0": {
+   "id": "df341aed75f0",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Şimşek: Hizmet enflasyonunda ataletin azalması enflasyondaki düşüşü destekleyecektir",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, gelecek dönemde ekonomik aktivitenin dengeli seyri, enerji ve emtia fiyatlarında öngörülen gerileme, beklentilerde iyileşme ve hizmet enflasyonunda ataletin azalmasının enflasyondaki düşüşü destekleyeceğini belirtti.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-hizmet-enflasyonunda-ataletin-azalmasi-enflasyondaki-dususu-destekleyecektir-962109.html",
+   "zaman": "2026-11-03T16:48:00+03:00",
+   "kelimeler": [
+    "atale",
+    "azalm",
+    "bakan",
+    "deste",
+    "dusus",
+    "enfla",
+    "hizme",
+    "simse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a439c8bb37f1"
+  },
+  "041463fd5a40": {
+   "id": "041463fd5a40",
+   "kaynak": "NTV",
+   "baslik": "Şarkıcı İlyas Yalçıntaş'a ilk duruşmada tahliye",
+   "ozet": "\"Uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan yargılanan şarkıcı İlyas Yalçıntaş ilk duruşmada tahliye edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-ilk-durusmada-tahliye-1749248",
+   "zaman": "2026-11-03T16:48:08+03:00",
+   "kelimeler": [
+    "durus",
+    "ilk",
+    "ilyas",
+    "sarki",
+    "tahli",
+    "yalci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "711eb234b58c": {
+   "id": "711eb234b58c",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Cumhurbaşkanı: Üretim çarkının durmaması için gerekirse odamdaki elektriği keserim",
+   "ozet": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ülkedeki üretim çarkının durmaması için gerekirse odasındaki elektriği keseceğini, oda sıcaklığını minimuma indireceğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-cumhurbaskani-uretim-carkinin-durmamasi-icin-gerekirse-odamdaki-elektrigi-keserim-962110.html",
+   "zaman": "2026-11-03T16:49:00+03:00",
+   "kelimeler": [
+    "carki",
+    "cumhu",
+    "durma",
+    "elekt",
+    "gerek",
+    "iran",
+    "keser",
+    "odamd",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 17:01:34  8 yeni haber",
   "03.11 16:46:02  5 yeni haber",
   "03.11 16:31:21  4 yeni haber",
   "03.11 16:16:38  7 yeni haber",
@@ -26531,8 +26737,7 @@
   "01.11 14:46:05  1 yeni haber",
   "01.11 14:31:16  4 yeni haber",
   "01.11 14:16:36  4 yeni haber",
-  "01.11 14:01:19  6 yeni haber",
-  "01.11 13:46:05  3 yeni haber"
+  "01.11 14:01:19  6 yeni haber"
  ],
  "otomatik": false
 }
