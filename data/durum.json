@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "1cb5c9922a46": {
-   "id": "1cb5c9922a46",
-   "kaynak": "AA",
-   "baslik": "TRT Çocuk 18'inci kuruluş yıl dönümünü kutluyor",
-   "ozet": "Türkiye'nin en çok izlenen çocuk kanalı TRT Çocuk, 18'inci kuruluş yıl dönümünü \"Minik Yıldız\" ve \"Hep Birlikte Söyleyelim\"in yanı sıra sevilen yapımları \"SER-a\" ve \"Ekip: SİBERAY\"ın yeni bölümleriyle kutlayacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-cocuk-18inci-kurulus-yil-donumunu-kutluyor/4107629",
-   "zaman": "2026-10-31T22:45:56+03:00",
-   "kelimeler": [
-    "18",
-    "cocuk",
-    "donum",
-    "inci",
-    "kurul",
-    "kutlu",
-    "trt",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a278b273cc7d": {
    "id": "a278b273cc7d",
    "kaynak": "AA",
@@ -152,28 +132,6 @@
     "suruy",
     "ta",
     "unive"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0b311b499a4c": {
-   "id": "0b311b499a4c",
-   "kaynak": "AA",
-   "baslik": "63. Uluslararası Antalya Altın Portakal Film Festivali'nde ödüller verildi",
-   "ozet": "63. Uluslararası Antalya Altın Portakal Film Festivali'nde ödüller sahiplerini buldu.",
-   "link": "https://www.aa.com.tr/tr/kultur/63-uluslararasi-antalya-altin-portakal-film-festivalinde-oduller-verildi/4107623",
-   "zaman": "2026-10-31T22:34:49+03:00",
-   "kelimeler": [
-    "63",
-    "altin",
-    "antal",
-    "festi",
-    "film",
-    "nde",
-    "odull",
-    "porta",
-    "ulusl",
-    "veril"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -9986,7 +9944,10 @@
     "stutt"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "f555ac06165c": {
    "id": "f555ac06165c",
@@ -27282,9 +27243,89 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e2751be30065": {
+   "id": "e2751be30065",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, Stuttgart'ı mağlup etti",
+   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü haftasında konuk ettiği Almanya ekibi Stuttgart'ı 2-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgarti-maglup-etti/4110444",
+   "zaman": "2026-11-03T21:48:29+03:00",
+   "kelimeler": [
+    "etti",
+    "galat",
+    "maglu",
+    "stutt"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "fd11dc507a46": {
+   "id": "fd11dc507a46",
+   "kaynak": "XHABER",
+   "baslik": "Nivea, gün sonuna kadar 2 deodorant 157 TL kampanyası başlattı.",
+   "ozet": "—> İNDİRİM LİNKİ 👆",
+   "link": "https://t.me/sahinozkan000/30507",
+   "zaman": "2026-11-03T22:32:35+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Nivea, gün sonuna kadar 2 deodorant 157 TL kampanyası başlattı.\n—> İNDİRİM LİNKİ\n👆",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/NZzSwyk4KLwg889qdx3AJOaoi12vyElzHFmJzPukyVBSVx4peyLKrpfIYRmVZV6hop0O1jDhGYpvIeaQjsH95C-X2ld5pfUwSvAkcBCZqZsidLPA9_FDhzuSPJPyMGyHrMtVnx---FWDrLZxekI0-NuQUTluBlnLBo3IsbSfQ8vZo0ou3QHbfuvxsSN4no4K6DZp5AxKID44yQPUiDLpNNjaUHUiq7KiEUp_aWKUrAoemRcYiSlnQGq0XlM1OohyyszubTiUYX9yde3zY87Xr3TuzxiLLNZGQSldSmWcVIe5ntRyZKq-BmShiqw_dl8ewT2SQpuLgJI5aTBnGPXXRg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "157",
+    "basla",
+    "deodo",
+    "gun",
+    "kampa",
+    "nivea",
+    "sonun",
+    "tl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "181973ab59e0": {
+   "id": "181973ab59e0",
+   "kaynak": "AA",
+   "baslik": "Kasımpaşa, teknik direktör Emre Belözoğlu ile yolların ayrıldığını açıkladı",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-teknik-direktor-emre-belozoglu-ile-yollarin-ayrildigini-acikladi/4110481",
+   "zaman": "2026-11-03T22:33:34+03:00",
+   "kelimeler": [
+    "ayril",
+    "beloz",
+    "direk",
+    "emre",
+    "kasim",
+    "tekni",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a38a4274ba9b": {
+   "id": "a38a4274ba9b",
+   "kaynak": "XHABER",
+   "baslik": "MS | 🇹🇷 Galatasaray 2 - 0 Stuttgart 🇩🇪",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30508",
+   "zaman": "2026-11-03T22:39:56+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | 🇹🇷 Galatasaray 2 - 0 Stuttgart 🇩🇪",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/q2_rZOCc_v3tOEzaDuU2K6uX21M1bnGseEzojy9NBGiLAS3MBfcrNbm_MMQ-MVcUed17xJn8kJVkhQZXaat81Vc6J1jDCmfszwXJzkqE0upW9XaHAp_ACQNRGApZyQk5nvzAdtvc2M5BNu-XtjNwhT4y7y3FRjuhhluJYzgKypYIXW9PLlbELO-p7MQG_TOD_qs4idYuY2LkiWPbd5prBCK2yQzWoD_ypnbZITmt3xs0BT3pIiwYmRu90Xhydu80KGhVcw9pbswoGHcMUruy51RmE9wsedUBdvgVdfB7bctjVSngM2fe4ow0FYeWWDrOAGCk9Z6Fnszs--R1KLzflw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "galat",
+    "ms",
+    "stutt"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "11c92c7336a9"
   }
  },
  "kayit": [
+  "03.11 22:46:19  3 yeni haber",
   "03.11 22:32:22  3 yeni haber",
   "03.11 22:16:27  1 yeni haber",
   "03.11 21:46:42  3 yeni haber",
@@ -27483,8 +27524,7 @@
   "01.11 20:46:11  2 yeni haber",
   "01.11 20:31:49  2 yeni haber",
   "01.11 20:16:03  2 yeni haber",
-  "01.11 20:01:18  1 yeni haber",
-  "01.11 19:46:15  3 yeni haber"
+  "01.11 20:01:18  1 yeni haber"
  ],
  "otomatik": false
 }
