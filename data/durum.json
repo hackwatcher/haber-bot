@@ -22863,7 +22863,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "69e99d36a131": {
    "id": "69e99d36a131",
@@ -23629,9 +23632,46 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "72df1da5ead0"
+  },
+  "b90b6c3fb205": {
+   "id": "b90b6c3fb205",
+   "kaynak": "TRT Haber",
+   "baslik": "Manisa'da ambulans ve traktör çarpıştı",
+   "ozet": "Manisa'nın Köprübaşı ilçesinde hasta taşıyan ambulansla traktörün çarpışması sonucu 6 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/manisada-ambulans-ve-traktor-carpisti-962008.html",
+   "zaman": "2026-11-03T04:26:00+03:00",
+   "kelimeler": [
+    "ambul",
+    "carpi",
+    "manis",
+    "trakt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "862cc8b90fdf": {
+   "id": "862cc8b90fdf",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump'tan Amerikalı seçmenlere 'sandığa gidin' çağrısı",
+   "ozet": "ABD Başkanı Donald Trump, 3 Kasım Salı günü yapılacak Kongre ara seçimleri öncesinde seçmenlere son kez seslenerek \"sandığa gitmeleri\" çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/trumptan-amerikali-secmenlere-sandiga-gidin-cagrisi-962009.html",
+   "zaman": "2026-11-03T04:28:00+03:00",
+   "kelimeler": [
+    "ameri",
+    "cagri",
+    "gidin",
+    "sandi",
+    "secme",
+    "tan",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6c496c732d1f"
   }
  },
  "kayit": [
+  "03.11 04:46:54  1 yeni haber",
   "03.11 04:01:46  1 yeni haber",
   "03.11 03:46:07  1 yeni haber",
   "03.11 03:16:09  1 yeni haber",
@@ -23830,8 +23870,7 @@
   "31.10 23:01:31  4 yeni haber",
   "31.10 22:15:57  3 yeni haber",
   "31.10 22:01:30  4 yeni haber",
-  "31.10 21:46:02  2 yeni haber",
-  "31.10 21:31:17  1 yeni haber"
+  "31.10 21:46:02  2 yeni haber"
  ],
  "otomatik": false
 }
