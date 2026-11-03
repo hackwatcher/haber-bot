@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "f1de13f8bf99": {
-   "id": "f1de13f8bf99",
-   "kaynak": "NTV",
-   "baslik": "Yük treninde kimyasal sızıntı alarmı",
-   "ozet": "Eskişehir’den Kayseri’ye yük taşıyan trende kimyasal sızıntı tespit edilmesi ekipleri harekete geçirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/yuk-treninde-kimyasal-sizinti-alarmi-1748819",
-   "zaman": "2026-10-31T22:07:40+03:00",
-   "kelimeler": [
-    "alarm",
-    "kimya",
-    "sizin",
-    "treni",
-    "yuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "f8fd5d321555": {
-   "id": "f8fd5d321555",
-   "kaynak": "NTV",
-   "baslik": "Afyonkarahisar'da 4 katlı bina boşaltıldı. Altındaki fırının duvarları çatladı",
-   "ozet": "Afyonkarahisar'da 4 katlı bir binanın giriş katında bulunan ekmek fırınının duvarlarındaki fayanslarda çatlaklar oluşması üzerine bina tedbir amacıyla tahliye edildi.",
-   "link": "https://www.ntv.com.tr/turkiye/afyonkarahisarda-4-katli-bina-bosaltildi-altindaki-firinin-duvarlari-catladi-1748820",
-   "zaman": "2026-10-31T22:13:17+03:00",
-   "kelimeler": [
-    "afyon",
-    "altin",
-    "bina",
-    "bosal",
-    "catla",
-    "duvar",
-    "firin",
-    "katli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "5ca9eed3cd34": {
    "id": "5ca9eed3cd34",
    "kaynak": "Hürriyet",
@@ -27036,7 +26993,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "64b8cf2bbe1f": {
    "id": "64b8cf2bbe1f",
@@ -27253,9 +27212,53 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "34af9f43c86e"
+  },
+  "73b1491e4ccf": {
+   "id": "73b1491e4ccf",
+   "kaynak": "TRT Haber",
+   "baslik": "111 lira yazdığı ürüne 6 bin lira isteyen satıcıya 1 milyon lira ceza",
+   "ozet": "Ticaret Bakanlığı, internet sitesinde 111 liradan ilana koyduğu otomobil yedek parçası için satın almak isteyen tüketicilerden 5 bin ve 6 bin lira talep eden satıcıya 1 milyon 83 bin 706 lira idari para cezası kesti.",
+   "link": "https://www.trthaber.com/haber/turkiye/111-lira-yazdigi-urune-6-bin-lira-isteyen-saticiya-1-milyon-lira-ceza-962136.html",
+   "zaman": "2026-11-03T22:00:00+03:00",
+   "kelimeler": [
+    "111",
+    "bin",
+    "ceza",
+    "istey",
+    "lira",
+    "milyo",
+    "satic",
+    "urune",
+    "yazdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "475e34f44634": {
+   "id": "475e34f44634",
+   "kaynak": "NTV",
+   "baslik": "İlanda 111 lira yazıp 6 bin istedi, 1 milyon lira ceza yedi",
+   "ozet": "Bir ilan sitesinde 111 lira fiyat yazıp 6 bin lira isteyen otomobil yedek parça satıcısına ceza kesildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ilanda-111-lira-yazip-6-bin-istedi-1-milyon-lira-ceza-yedi-1749263",
+   "zaman": "2026-11-03T22:03:53+03:00",
+   "kelimeler": [
+    "111",
+    "bin",
+    "ceza",
+    "iland",
+    "isted",
+    "lira",
+    "milyo",
+    "yazip",
+    "yedi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7112cf142f9"
   }
  },
  "kayit": [
+  "03.11 22:16:27  1 yeni haber",
   "03.11 21:46:42  3 yeni haber",
   "03.11 21:31:47  2 yeni haber",
   "03.11 21:20:16  8 yeni haber",
@@ -27454,8 +27457,7 @@
   "01.11 20:16:03  2 yeni haber",
   "01.11 20:01:18  1 yeni haber",
   "01.11 19:46:15  3 yeni haber",
-  "01.11 19:23:08  1 yeni haber",
-  "01.11 19:18:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli motosikletçi Kadir Erbay, İspanya Superbike Şampiyonası'nda ilk "
+  "01.11 19:23:08  1 yeni haber"
  ],
  "otomatik": false
 }
