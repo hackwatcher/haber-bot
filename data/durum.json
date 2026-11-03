@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "8e3538ed913c": {
-   "id": "8e3538ed913c",
-   "kaynak": "Hürriyet",
-   "baslik": "Bursa'da 350 kilo kaçak midye ele geçirildi",
-   "ozet": "Bursa'nın Gemlik ilçesine bağlı Gemsaz sahilinde gerçekleştirilen ortak denetimde kaçak midye avcılığı yapan kişilere 182 bin 6 TL idari para cezası uygulandı. Avda kullanılan tekneye ve 350 kilogram midyeye ise el konuldu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bursada-350-kilo-kacak-midye-ele-gecirildi-43361868",
-   "zaman": "2026-10-31T18:41:00+03:00",
-   "kelimeler": [
-    "350",
-    "bursa",
-    "ele",
-    "gecir",
-    "kacak",
-    "kilo",
-    "midye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "957de40c25fc": {
    "id": "957de40c25fc",
    "kaynak": "XHABER",
@@ -26824,7 +26805,10 @@
     "yanit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "a9368783f834": {
    "id": "a9368783f834",
@@ -27039,9 +27023,137 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "abc1f148f32d"
+  },
+  "a68b75c67309": {
+   "id": "a68b75c67309",
+   "kaynak": "AA",
+   "baslik": "Bakan Tekin: Ülkemizin bütçesinden en çok kaynak eğitime ayrılıyor",
+   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, 2003 yılından bu yana bütçede en çok kaynağın eğitime ayrıldığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-tekin-ulkemizin-butcesinden-en-cok-kaynak-egitime-ayriliyor/4109981",
+   "zaman": "2026-11-03T15:13:07+03:00",
+   "kelimeler": [
+    "ayril",
+    "bakan",
+    "butce",
+    "egiti",
+    "kayna",
+    "tekin",
+    "ulkem"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a78dfa650a3e": {
+   "id": "a78dfa650a3e",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi",
+   "ozet": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programında konuşan AK Parti Kültür ve Sanat Politikalarından Sorumlu Genel Başkan Yardımcısı Hüseyin Yayman \"Türkiye'miz bugün dünyanın küresel güçlerinden birisi haline geldi\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-programi-duzenlendi-43364941",
+   "zaman": "2026-11-03T18:19:00+03:00",
+   "kelimeler": [
+    "24",
+    "25",
+    "ak",
+    "duzen",
+    "gelis",
+    "iktid",
+    "kurul",
+    "parti",
+    "progr",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bfc2f8be9edf"
+  },
+  "ecc92e56e3d7": {
+   "id": "ecc92e56e3d7",
+   "kaynak": "TRT Haber",
+   "baslik": "Evlilik için Türkiye'ye gelen Rus kadın İslamiyet'i seçti",
+   "ozet": "Aydın'ın Koçarlı ilçesine evlilik amacıyla gelen Rus vatandaşı Elena Dyachenko, yaptığı araştırmaların ardından İslamiyet'i seçerek Müslüman oldu ve \"Emine\" ismini aldı.",
+   "link": "https://www.trthaber.com/haber/yasam/evlilik-icin-turkiyeye-gelen-rus-kadin-islamiyeti-secti-962119.html",
+   "zaman": "2026-11-03T18:24:00+03:00",
+   "kelimeler": [
+    "evlil",
+    "gelen",
+    "islam",
+    "kadin",
+    "rus",
+    "secti",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2569542a843b": {
+   "id": "2569542a843b",
+   "kaynak": "TRT Haber",
+   "baslik": "BIST 100 endeksi günü yükselişle kapattı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,56 değer kazanarak 11.023,55 puandan tamamladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-962120.html",
+   "zaman": "2026-11-03T18:27:00+03:00",
+   "kelimeler": [
+    "100",
+    "bist",
+    "endek",
+    "gunu",
+    "kapat",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "5e8f4e000917": {
+   "id": "5e8f4e000917",
+   "kaynak": "AA",
+   "baslik": "İran Güvenlik Konseyi Genel Sekreteri: ABD'nin İran'ın taleplerine verdiği yanıt ikna edici olmadı",
+   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin İran'ın hak ve taleplerine verdiği yanıtın ikna edici olmadığını ifade etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-guvenlik-konseyi-genel-sekreteri-abdnin-iranin-taleplerine-verdigi-yanit-ikna-edici-olmadi/4110283",
+   "zaman": "2026-11-03T18:29:54+03:00",
+   "kelimeler": [
+    "abd",
+    "edici",
+    "genel",
+    "guven",
+    "ikna",
+    "in",
+    "iran",
+    "konse",
+    "nin",
+    "olmad",
+    "sekre",
+    "talep",
+    "verdi",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e383c468052d"
+  },
+  "6b6fd1cc503d": {
+   "id": "6b6fd1cc503d",
+   "kaynak": "Hürriyet",
+   "baslik": "Sağlık Bakanı Memişoğlu: Dünyanın 1 numaralı akciğer kanseri olan ülkesiyiz",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"Bu ülke artık bilimde, sağlıkta her türlü alanda yeni bir şey söylemeyle ilgili bilgiye, insan gücüne ve altyapıya sahip. Onun için yeni şeyler söyleyeceksiniz, icat çıkaracaksınız. Gençlere 'icat çıkarın' diyoruz.\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-dunyanin-1-numarali-akciger-kanseri-olan-ulkesiyiz-43364952",
+   "zaman": "2026-11-03T18:34:59+03:00",
+   "kelimeler": [
+    "akcig",
+    "bakan",
+    "dunya",
+    "kanse",
+    "memis",
+    "numar",
+    "sagli",
+    "ulkes"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 18:46:07  4 yeni haber",
   "03.11 18:31:39  8 yeni haber",
   "03.11 18:16:26  2 yeni haber",
   "03.11 18:16:26  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -27240,8 +27352,7 @@
   "01.11 16:48:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Partili Kasapoğlu'ndan Menderes'te spor yatırımları ve belediyeye d",
   "01.11 16:46:08  3 yeni haber",
   "01.11 16:16:02  1 yeni haber",
-  "01.11 16:01:24  2 yeni haber",
-  "01.11 15:45:58  3 yeni haber"
+  "01.11 16:01:24  2 yeni haber"
  ],
  "otomatik": false
 }
