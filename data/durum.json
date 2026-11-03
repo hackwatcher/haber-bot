@@ -133,27 +133,6 @@
    "oncelikli": false,
    "tekrar_of": "bf47fbaee976"
   },
-  "b49ebbfc1dc2": {
-   "id": "b49ebbfc1dc2",
-   "kaynak": "AA",
-   "baslik": "Filistin asıllı milletvekili Tıybi, Eisenkot liderliğindeki hükümeti destekleyeceklerini duyurdu",
-   "ozet": "İsrail vatandaşı Filistinli milletvekili Ahmed Tıybi, genel seçimde 11 sandalye elde etmeyi başaran Ortak Liste'nin, Gadi Eisenkot liderliğinde kurulacak bir koalisyon hükümetine dışarıdan destek vermeye hazır olduğunu duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-asilli-milletvekili-tiybi-eisenkot-liderligindeki-hukumeti-destekleyeceklerini-duyurdu/4107687",
-   "zaman": "2026-11-01T01:28:01+03:00",
-   "kelimeler": [
-    "asill",
-    "deste",
-    "duyur",
-    "eisen",
-    "filis",
-    "hukum",
-    "lider",
-    "mille",
-    "tiybi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3e1e4ecae4db": {
    "id": "3e1e4ecae4db",
    "kaynak": "Hürriyet",
@@ -26789,7 +26768,8 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "be00d1d9afd0": {
    "id": "be00d1d9afd0",
@@ -27381,9 +27361,47 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "44d0dd0186f8": {
+   "id": "44d0dd0186f8",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçdaroğlu’ndan Mekke diplomasisi",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, TBMM Genel Kurulu’nda bugün görüşülecek Mekke Anlaşması’yla ilgili kaygılarını gidermek için Yemenli yetkililerle görüştüğünü açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-mekke-diplomasisi-43365189",
+   "zaman": "2026-11-04T01:20:33+03:00",
+   "kelimeler": [
+    "diplo",
+    "kilic",
+    "mekke",
+    "ndan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "65cf6ead46ff": {
+   "id": "65cf6ead46ff",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunun Batı Şeria'da düzenlediği baskınlarında 2 Filistinli yaralandı",
+   "ozet": "İsrail ordusunun, işgal altındaki Batı Şeria'da düzenlediği baskınlarda 2 Filistinlinin yaralandığı ve 6 kişinin gözaltına alındığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-seriada-duzenledigi-baskinlarinda-2-filistinli-yaralandi/4110623",
+   "zaman": "2026-11-04T01:23:44+03:00",
+   "kelimeler": [
+    "baski",
+    "bati",
+    "duzen",
+    "filis",
+    "israi",
+    "ordus",
+    "seria",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a124ef17edd3"
   }
  },
  "kayit": [
+  "04.11 01:31:13  1 yeni haber",
   "04.11 01:16:35  1 yeni haber",
   "04.11 01:04:03  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe, Teknik Direktör Emre Belözoğlu ile anlaşmaya ",
   "04.11 01:01:43  2 yeni haber",
@@ -27582,8 +27600,7 @@
   "02.11 00:16:08  3 yeni haber",
   "02.11 00:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı y",
   "02.11 00:01:38  3 yeni haber",
-  "01.11 23:39:28  2 yeni haber",
-  "01.11 23:31:09  2 yeni haber"
+  "01.11 23:39:28  2 yeni haber"
  ],
  "otomatik": false
 }
