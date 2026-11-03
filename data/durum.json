@@ -23307,7 +23307,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5837d9b11244": {
    "id": "5837d9b11244",
@@ -23631,9 +23633,77 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "62c1500d55b4"
+  },
+  "f4a80d37a1fb": {
+   "id": "f4a80d37a1fb",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrailli eski askerden itiraf: Ordu, Gazze ve Batı Şeria'daki gerçekleri manipüle ediyor",
+   "ozet": "Katil İsrailli eski bir kadın asker, İsrail Ordu Sözcülüğü biriminin Gazze Şeridi ve işgal altındaki Batı Şeria'daki askeri operasyonlara ilişkin kamuoyuna sunduğu bilgileri nasıl manipüle ettiğini ve masum Filistinlilere \"terörist\" etiketi yapıştırdığını ifşa etti.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilli-eski-askerden-itiraf-ordu-gazze-ve-bati-seriadaki-gercekleri-manipule-ediyor-962013.html",
+   "zaman": "2026-11-03T06:05:00+03:00",
+   "kelimeler": [
+    "asker",
+    "bati",
+    "daki",
+    "ediyo",
+    "eski",
+    "gazze",
+    "gerce",
+    "israi",
+    "itira",
+    "katil",
+    "manip",
+    "ordu",
+    "seria"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "be26c5463654"
+  },
+  "304f0d842253": {
+   "id": "304f0d842253",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, COP31 zirvesine hazır: İklim diplomasisinin kalbi Antalya'da atacak",
+   "ozet": "Türkiye, 920 Kasım 2026'da Antalya'da düzenlenecek COP31 İklim Zirvesi ile dünyaya ev sahipliği yapacak.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-cop31-zirvesine-hazir-iklim-diplomasisinin-kalbi-antalyada-atacak-962015.html",
+   "zaman": "2026-11-03T06:30:00+03:00",
+   "kelimeler": [
+    "antal",
+    "ataca",
+    "cop31",
+    "diplo",
+    "hazir",
+    "iklim",
+    "kalbi",
+    "turki",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82e73ef5f30f": {
+   "id": "82e73ef5f30f",
+   "kaynak": "TRT Haber",
+   "baslik": "Meksika'da küçük uçak düştü: 2 kişi hayatını kaybetti",
+   "ozet": "Meksika'nın Hidalgo eyaletinde yerleşim yerine küçük bir uçağın düşmesi sonucu 2 kişinin yaşamını yitirdiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/meksikada-kucuk-ucak-dustu-2-kisi-hayatini-kaybetti-962014.html",
+   "zaman": "2026-11-03T06:32:00+03:00",
+   "kelimeler": [
+    "dustu",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "kucuk",
+    "meksi",
+    "ucak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a4dfbe40c933"
   }
  },
  "kayit": [
+  "03.11 06:46:03  1 yeni haber",
   "03.11 06:31:25  1 yeni haber",
   "03.11 06:01:32  1 yeni haber",
   "03.11 06:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -23832,8 +23902,7 @@
   "01.11 00:02:27  1 yeni haber",
   "31.10 23:45:55  2 yeni haber",
   "31.10 23:31:09  2 yeni haber",
-  "31.10 23:16:22  1 yeni haber",
-  "31.10 23:01:31  4 yeni haber"
+  "31.10 23:16:22  1 yeni haber"
  ],
  "otomatik": false
 }
