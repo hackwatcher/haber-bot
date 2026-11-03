@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "d70607a05c10": {
-   "id": "d70607a05c10",
-   "kaynak": "TRT Haber",
-   "baslik": "Zonguldak'ta el freni çekilmeyen kamyonet devrildi: O anlar kamerada",
-   "ozet": "Zonguldak'ta el freni çekilmeyen kamyonetin yol kenarına devrilmesi güvenlik kamerasınca kaydedildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-el-freni-cekilmeyen-kamyonet-devrildi-o-anlar-kamerada-961845.html",
-   "zaman": "2026-10-31T23:17:00+03:00",
-   "kelimeler": [
-    "anlar",
-    "cekil",
-    "devri",
-    "el",
-    "freni",
-    "kamer",
-    "kamyo",
-    "ta",
-    "zongu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4a05171b1afe": {
    "id": "4a05171b1afe",
    "kaynak": "Hürriyet",
@@ -24224,7 +24203,10 @@
     "vardi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3d539f081792": {
    "id": "3d539f081792",
@@ -27375,9 +27357,72 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b79c3876114a": {
+   "id": "b79c3876114a",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: 2027'de daha olumlu bir uluslararası konjonktür olacağına inanıyoruz",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"2027'de daha olumlu bir uluslararası konjonktür olacağına inanıyoruz. İhracatçılarımız gelecek sene çok daha fazlasını, çok daha iyisini yapacaktır. Buna inanıyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-2027de-daha-olumlu-bir-uluslararasi-konjonktur-olacagina-inaniyoruz/4110520",
+   "zaman": "2026-11-03T23:14:25+03:00",
+   "kelimeler": [
+    "2027",
+    "cumhu",
+    "inani",
+    "konjo",
+    "olaca",
+    "oluml",
+    "ulusl",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1b5090521f67": {
+   "id": "1b5090521f67",
+   "kaynak": "TRT Haber",
+   "baslik": "Sergen Yalçın'ın ilk milli takım kadrosu 6 Kasım'da açıklanacak",
+   "ozet": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, ilk aday kadrosunu \"canlı yayında\" açıklayacak.",
+   "link": "https://www.trthaber.com/haber/spor/sergen-yalcinin-ilk-milli-takim-kadrosu-6-kasimda-aciklanacak-962138.html",
+   "zaman": "2026-11-03T23:21:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ilk",
+    "in",
+    "kadro",
+    "kasim",
+    "milli",
+    "serge",
+    "takim",
+    "yalci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c1b5888a985e": {
+   "id": "c1b5888a985e",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-direktorluk-gorevine-emre-belozoglu-getirildi/4110526",
+   "zaman": "2026-11-03T23:28:11+03:00",
+   "kelimeler": [
+    "beloz",
+    "direk",
+    "emre",
+    "fener",
+    "getir",
+    "gorev",
+    "tekni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e342af46091f"
   }
  },
  "kayit": [
+  "03.11 23:31:33  2 yeni haber",
   "03.11 23:16:30  5 yeni haber",
   "03.11 23:01:42  3 yeni haber",
   "03.11 22:46:19  3 yeni haber",
@@ -27576,8 +27621,7 @@
   "01.11 21:46:53  2 yeni haber",
   "01.11 21:31:09  1 yeni haber",
   "01.11 21:17:12  5 yeni haber",
-  "01.11 20:46:11  2 yeni haber",
-  "01.11 20:31:49  2 yeni haber"
+  "01.11 20:46:11  2 yeni haber"
  ],
  "otomatik": false
 }
