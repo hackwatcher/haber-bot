@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "8b8d84290468": {
-   "id": "8b8d84290468",
-   "kaynak": "NTV",
-   "baslik": "BEDAŞ ilçe ilçe açıkladı. İstanbul'da 8 saat sürecek elektrik kesintisi",
-   "ozet": "İstanbul'un 15 ilçesinde planlı elektrik kesintisi yapılacak. BEDAŞ tarafından yapılan elektrik kesintisi duyurusunda 1 Kasım Pazar günü bazı ilçelerde gerçekleşecek kesinti 8 saati sürecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bedas-ilce-ilce-acikladi-istanbulda-8-saat-surecek-elektrik-kesintisi-1748727",
-   "zaman": "2026-10-31T09:21:39+03:00",
-   "kelimeler": [
-    "bedas",
-    "elekt",
-    "ilce",
-    "istan",
-    "kesin",
-    "saat",
-    "surec"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "eb1e9f3134e8": {
-   "id": "eb1e9f3134e8",
-   "kaynak": "AA",
-   "baslik": "Kasımpaşa, Süper Lig'de yarın Beşiktaş'ı konuk edecek",
-   "ozet": "Kasımpaşa, Trendyol Süper Lig'in 10. haftasında yarın Beşiktaş'ı ağırlayacak.",
-   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-super-ligde-yarin-besiktasi-konuk-edecek/4107042",
-   "zaman": "2026-10-31T09:28:04+03:00",
-   "kelimeler": [
-    "besik",
-    "edece",
-    "kasim",
-    "konuk",
-    "lig",
-    "super",
-    "yarin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5a9560749eb8"
-  },
   "2c38b98e226d": {
    "id": "2c38b98e226d",
    "kaynak": "AA",
@@ -288,26 +249,6 @@
    "fb_reels_id": "29915171991417330",
    "slayt": 6,
    "kanca": "DENİZE DOĞRU ÇÖKÜYOR"
-  },
-  "218ea4dd5ce1": {
-   "id": "218ea4dd5ce1",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş, Süper Lig'de yarın Kasımpaşa'ya konuk olacak",
-   "ozet": "Beşiktaş, Trendyol Süper Lig'in 10. haftasında yarın deplasmanda Kasımpaşa ile karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042",
-   "zaman": "2026-10-31T09:28:04+03:00",
-   "kelimeler": [
-    "besik",
-    "kasim",
-    "konuk",
-    "lig",
-    "olaca",
-    "super",
-    "ya",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "147ad2f19563": {
    "id": "147ad2f19563",
@@ -23542,7 +23483,8 @@
     "rakam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0b249e08e3d3": {
    "id": "0b249e08e3d3",
@@ -23921,11 +23863,20 @@
     "yolcu",
     "yuvar"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-11-03T09:34:10.619514+03:00",
+   "ig_id": "18132432853700603",
+   "reels_id": "18001307571108113",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2088289235205006",
+   "slayt": 5,
+   "kanca": "OTOBÜS ŞARAMPOLE DEVRİLDİ"
   },
   "68c2351b43d8": {
    "id": "68c2351b43d8",
@@ -24176,7 +24127,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2ccd97a7681c": {
    "id": "2ccd97a7681c",
@@ -24286,7 +24240,10 @@
     "ten"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "79044dd94544": {
    "id": "79044dd94544",
@@ -24332,9 +24289,253 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7a60645d3817": {
+   "id": "7a60645d3817",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünya turunu yürüyerek tamamlayan İngiliz gezgin 28 yıl sonra evine döndü",
+   "ozet": "Eski paraşütçü Karl Bushby, 28 yıl süren ve 29 ülkeyi kapsayan 57 bin 936 kilometrelik dünya turunu yürüyerek tamamladı ve memleketi Hull'da kahraman gibi karşılandı.",
+   "link": "https://www.trthaber.com/haber/dunya/dunya-turunu-yuruyerek-tamamlayan-ingiliz-gezgin-28-yil-sonra-evine-dondu-962030.html",
+   "zaman": "2026-11-03T08:56:00+03:00",
+   "kelimeler": [
+    "28",
+    "dondu",
+    "dunya",
+    "evine",
+    "gezgi",
+    "ingil",
+    "tamam",
+    "turun",
+    "yil",
+    "yuruy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "37209612bde4": {
+   "id": "37209612bde4",
+   "kaynak": "Hürriyet",
+   "baslik": "\"AVCI\" projesiyle Yasa Dışı Bahise dev darbe: 39 ilde 151 gözaltı",
+   "ozet": "İçişleri Bakanlığı İstanbul merkezli 39 ilde yapay zeka destekli AVCI projesi kullanılarak 'Yasa Dışı Bahis' suçuna yönelik düzenlenen operasyonlarda 151 şüphelinin yakalandığını duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/avci-projesiyle-yasa-disi-bahise-dev-darbe-39-ilde-151-gozalti-43363939",
+   "zaman": "2026-11-03T09:11:00+03:00",
+   "kelimeler": [
+    "151",
+    "39",
+    "avci",
+    "bahis",
+    "darbe",
+    "dev",
+    "disi",
+    "gozal",
+    "ilde",
+    "proje",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "45fc52b843dc": {
+   "id": "45fc52b843dc",
+   "kaynak": "AA",
+   "baslik": "Nepal'de iniş esnasında iki helikopterin çarpışması sonucu 1 kişi öldü, 3 kişi yaralandı",
+   "ozet": "Nepal'de Everest Dağı yakınlarındaki helikopter pistine aynı anda iniş yapmaya çalışan iki helikopterin çarpışması sonucu 1 turist hayatını kaybetti, 3 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/nepalde-inis-esnasinda-iki-helikopterin-carpismasi-sonucu-1-kisi-oldu-3-kisi-yaralandi/4109309",
+   "zaman": "2026-11-03T09:13:52+03:00",
+   "kelimeler": [
+    "carpi",
+    "esnas",
+    "helik",
+    "iki",
+    "inis",
+    "kisi",
+    "nepal",
+    "sonuc",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5c13f270611e": {
+   "id": "5c13f270611e",
+   "kaynak": "Sözcü",
+   "baslik": "ENAG ekim ayı enflasyon rakamlarını açıkladı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-enag-ekim-ayi-enflasyon-rakamlarini-acikladi-p375428",
+   "zaman": "2026-11-03T09:18:18+03:00",
+   "kelimeler": [
+    "ayi",
+    "ekim",
+    "enag",
+    "enfla",
+    "rakam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9780f850d6ca"
+  },
+  "a0b3fe768b81": {
+   "id": "a0b3fe768b81",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara merkezli 10 ilde FETÖ operasyonu: 14 gözaltı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı koordinesinde, MİT ve Ankara Emniyet Müdürlüğü ekiplerince FETÖ/PDY'nin kamu gizli yapılanmasına yönelik Ankara merkezli 10 ilde düzenlenen eş zamanlı operasyonda, 14 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-10-ilde-feto-operasyonu-14-gozalti-962033.html",
+   "zaman": "2026-11-03T09:19:00+03:00",
+   "kelimeler": [
+    "10",
+    "14",
+    "ankar",
+    "feto",
+    "gozal",
+    "ilde",
+    "merke",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "b2b0500dbfb8": {
+   "id": "b2b0500dbfb8",
+   "kaynak": "TRT Haber",
+   "baslik": "Avrupa Birliği kışa 2013'ten beri görülen en düşük gaz stok seviyeleriyle giriyor",
+   "ozet": "Küresel doğal gaz arz güvenliğine yönelik riskler devam ederken Avrupa Birliği AB, kış dönemine 2013'ten beri görülen en düşük doğal gaz stok seviyeleriyle giriyor.",
+   "link": "https://www.trthaber.com/haber/dunya/avrupa-birligi-kisa-2013ten-beri-gorulen-en-dusuk-gaz-stok-seviyeleriyle-giriyor-962032.html",
+   "zaman": "2026-11-03T09:19:00+03:00",
+   "kelimeler": [
+    "2013",
+    "avrup",
+    "beri",
+    "birli",
+    "dusuk",
+    "gaz",
+    "giriy",
+    "gorul",
+    "kisa",
+    "seviy",
+    "stok",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ed8bcd9560cf"
+  },
+  "fc9ea399742b": {
+   "id": "fc9ea399742b",
+   "kaynak": "AA",
+   "baslik": "A Milli Erkek Hentbol Takımı, yarın Avusturya ile karşılaşacak",
+   "ozet": "A Milli Erkek Hentbol Takımı, 2028 Avrupa Şampiyonası Elemeleri 2. Grup'taki ilk maçında yarın Avusturya ile karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-hentbol-takimi-yarin-avusturya-ile-karsilasacak/4109314",
+   "zaman": "2026-11-03T09:19:23+03:00",
+   "kelimeler": [
+    "avust",
+    "erkek",
+    "hentb",
+    "karsi",
+    "milli",
+    "takim",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "73f03d15af24": {
+   "id": "73f03d15af24",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara merkezli 10 ilde FETÖ operasyonu: 14 gözaltı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı koordinesinde, MİT ve Ankara Emniyet Müdürlüğü ekiplerince FETÖ/PDY'nin kamu mahrem yapılanmasına yönelik Ankara merkezli 10 ilde düzenlenen eş zamanlı operasyonda, haklarında gözaltı kararı verilen 14 şüphelinin tamamı yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankara-merkezli-10-ilde-feto-operasyonlari-14-gozalti-43363930",
+   "zaman": "2026-11-03T09:21:00+03:00",
+   "kelimeler": [
+    "10",
+    "14",
+    "ankar",
+    "feto",
+    "gozal",
+    "ilde",
+    "merke",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a0b3fe768b81"
+  },
+  "4844d3eded1e": {
+   "id": "4844d3eded1e",
+   "kaynak": "Hürriyet",
+   "baslik": "Kaşif Kozinoğlu'nun feth-i kabir raporu çıktı: Saç ve tırnaklarında yüksek oranda toksik madde tespit edildi",
+   "ozet": "Silivri Cezaevi'nde 2011 yılında hayatını kaybeden eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin yürütülen soruşturma kapsamında yapılan fethi kabir işlemi sonrası hazırlanan otopsi ve laboratuvar ön raporuna ulaşıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kasif-kozinoglunun-feth-i-kabir-raporu-cikti-sac-ve-tirnaklarinda-yuksek-oranda-toksik-madde-tespit-edildi-43363956",
+   "zaman": "2026-11-03T09:22:00+03:00",
+   "kelimeler": [
+    "cikti",
+    "edild",
+    "feth",
+    "kabir",
+    "kasif",
+    "kozin",
+    "madde",
+    "nun",
+    "orand",
+    "rapor",
+    "sac",
+    "tespi",
+    "tirna",
+    "toksi",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eb08ac2585ae"
+  },
+  "910b56e9b8b6": {
+   "id": "910b56e9b8b6",
+   "kaynak": "Hürriyet",
+   "baslik": "Sermaye piyasası işlemlerine ilişkin soruşturmada Korkmaz Enes Ergun tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddiasıyla gözaltına alınan eski Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-korkmaz-enes-ergun-tutuklandi-43363951",
+   "zaman": "2026-11-03T09:22:20+03:00",
+   "kelimeler": [
+    "enes",
+    "ergun",
+    "ilisk",
+    "islem",
+    "korkm",
+    "piyas",
+    "serma",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "4c2bd9a3fa62": {
+   "id": "4c2bd9a3fa62",
+   "kaynak": "NTV",
+   "baslik": "Dev operasyon: 4,3 milyar liralık kara para aklama ağı çökertildi",
+   "ozet": "Yasa dışı bahis ve dolandırıcılık paralarını kripto varlıklar üzerinden aklayan bir suç örgütü çökertildi.",
+   "link": "https://www.ntv.com.tr/turkiye/dev-operasyon-43-milyar-liralik-kara-para-aklama-agi-cokertildi-1749157",
+   "zaman": "2026-11-03T09:30:44+03:00",
+   "kelimeler": [
+    "agi",
+    "aklam",
+    "coker",
+    "dev",
+    "kara",
+    "liral",
+    "milya",
+    "opera",
+    "para"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 09:34:10  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Gece yarısı şarampole yuvarlandı! Konya'da yolcu otobüsü kazasında can",
+  "03.11 09:31:59  7 yeni haber",
   "03.11 09:16:51  9 yeni haber",
   "03.11 09:01:21  2 yeni haber",
   "03.11 08:46:04  5 yeni haber",
@@ -24532,9 +24733,7 @@
   "01.11 04:02:43  3 yeni haber",
   "01.11 03:46:32  2 yeni haber",
   "01.11 03:17:00  2 yeni haber",
-  "01.11 03:09:22  3 yeni haber",
-  "01.11 02:44:49  3 yeni haber",
-  "01.11 02:16:46  2 yeni haber"
+  "01.11 03:09:22  3 yeni haber"
  ],
  "otomatik": false
 }
