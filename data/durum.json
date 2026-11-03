@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "bb9f788851f4": {
-   "id": "bb9f788851f4",
-   "kaynak": "TRT Haber",
-   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
-   "ozet": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
-   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-961849.html",
-   "zaman": "2026-11-01T00:35:00+03:00",
-   "kelimeler": [
-    "alma",
-    "atama",
-    "gazet",
-    "gorev",
-    "karar",
-    "resmi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "f4b127c1bba3"
-  },
   "377be7570a2b": {
    "id": "377be7570a2b",
    "kaynak": "TRT Haber",
@@ -26292,7 +26273,10 @@
     "tasfi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "e7112cf142f9": {
    "id": "e7112cf142f9",
@@ -27319,9 +27303,77 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "da7aba277cb2": {
+   "id": "da7aba277cb2",
+   "kaynak": "TRT Haber",
+   "baslik": "Cevdet Yılmaz: 455 bin yatırımcının önemli bir kısmının anaparası ödenecek",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon tasfiye sürecinde küçük yatırımcılara yönelik ödemelerin sürdüğünü belirterek, 455 bin yatırımcının önemli bir kısmının anaparasını alacağını, ödemelerin kasım ayının ortalarına kadar büyük ölçüde tamamlanmasının beklendiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-455-bin-yatirimcinin-onemli-bir-kisminin-anaparasi-odenecek-962146.html",
+   "zaman": "2026-11-04T00:15:00+03:00",
+   "kelimeler": [
+    "455",
+    "anapa",
+    "bin",
+    "cevde",
+    "kismi",
+    "odene",
+    "oneml",
+    "yatir",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "21b499350256": {
+   "id": "21b499350256",
+   "kaynak": "TRT Haber",
+   "baslik": "Müslümanları hedef alan İsrail bağlantılı ve dev bütçeli dezenformasyon kampanyası ortaya çıkarıldı",
+   "ozet": "Dünya üzerinde 30 ülkede Müslümanları ve göçmenleri hedef alan, İsrail merkezli kuruluşlarla bağlantılı ve dev bütçeli bir dezenformasyon kampanyası ortaya çıkarıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/muslumanlari-hedef-alan-israil-baglantili-ve-dev-butceli-dezenformasyon-kampanyasi-ortaya-cikarildi-962147.html",
+   "zaman": "2026-11-04T00:33:00+03:00",
+   "kelimeler": [
+    "alan",
+    "bagla",
+    "butce",
+    "cikar",
+    "dev",
+    "dezen",
+    "hedef",
+    "israi",
+    "kampa",
+    "muslu",
+    "ortay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0c388bf22128": {
+   "id": "0c388bf22128",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Işıkhan: İşsizlik Sigortası Fonu'nun tasfiye edilen fonlarla ilgisi yok",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, İşsizlik Sigortası Fonu'nun tasfiye edilen fonlarla hiçbir bağlantısının bulunmadığını belirterek, \"İşsizlik Sigortası Fonu işçilerimizin alın teridir, işçilerimizin hakkıdır.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-isikhan-issizlik-sigortasi-fonunun-tasfiye-edilen-fonlarla-ilgisi-yok-962148.html",
+   "zaman": "2026-11-04T00:37:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "edile",
+    "fonla",
+    "fonu",
+    "ilgis",
+    "isikh",
+    "issiz",
+    "nun",
+    "sigor",
+    "tasfi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8fd02c49820b"
   }
  },
  "kayit": [
+  "04.11 00:46:15  2 yeni haber",
   "04.11 00:34:05  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İspanya'da hızlı tren kazasının ardından Ulaştırma Bakanı Puente istif",
   "04.11 00:31:37  2 yeni haber",
   "04.11 00:16:26  4 yeni haber",
@@ -27520,8 +27572,7 @@
   "01.11 23:31:09  2 yeni haber",
   "01.11 23:15:58  1 yeni haber",
   "01.11 23:01:18  2 yeni haber",
-  "01.11 22:31:19  2 yeni haber",
-  "01.11 22:16:02  2 yeni haber"
+  "01.11 22:31:19  2 yeni haber"
  ],
  "otomatik": false
 }
