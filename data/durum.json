@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "c24c78a68152": {
-   "id": "c24c78a68152",
-   "kaynak": "AA",
-   "baslik": "Türk Dünyası Diyalog Forumu kapsamında Küresel Ağ, Ortak Kimlik: Türk Dünyası Diasporası paneli yapıldı",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından \"Türk Dünyası Diyalog Forumu\" kapsamında \"Küresel Ağ, Ortak Kimlik: Türk Dünyası Diasporası\" başlıklı panel düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-kuresel-ag-ortak-kimlik-turk-dunyasi-diasporasi-paneli-yapildi/4107523",
-   "zaman": "2026-10-31T19:21:05+03:00",
-   "kelimeler": [
-    "ag",
-    "diasp",
-    "diyal",
-    "dunya",
-    "forum",
-    "kapsa",
-    "kimli",
-    "kures",
-    "ortak",
-    "panel",
-    "turk",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "41b0b539156f"
-  },
   "06dae5d439bf": {
    "id": "06dae5d439bf",
    "kaynak": "Sözcü",
@@ -16707,7 +16682,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "986480123edd": {
@@ -27081,7 +27057,10 @@
     "tusk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d3a750f0079f": {
    "id": "d3a750f0079f",
@@ -27215,10 +27194,161 @@
     "yayin"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "80d5284acf9b": {
+   "id": "80d5284acf9b",
+   "kaynak": "Sözcü",
+   "baslik": "Milas Belediye Başkanvekili Yeni Partili Barbaros Gezgin oldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/milas-belediye-baskanvekili-barbaros-gezgin-oldu-p375708",
+   "zaman": "2026-11-03T19:04:40+03:00",
+   "kelimeler": [
+    "barba",
+    "baska",
+    "beled",
+    "gezgi",
+    "milas",
+    "parti",
+    "yeni"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "5fad30c4b763": {
+   "id": "5fad30c4b763",
+   "kaynak": "Hürriyet",
+   "baslik": "DMM’den Haydar Aliyev Parkı'ndaki büstün kaldırılacağı iddiasına yalanlama",
+   "ozet": "İLETİŞİM Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), İstanbul'un Şişli ilçesindeki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür merkezi yapılacağı yönündeki iddiaların asılsız olduğunu açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/dmmden-haydar-aliyev-parkindaki-bustun-kaldirilacagi-iddiasina-yalanlama-43364973",
+   "zaman": "2026-11-03T19:05:27+03:00",
+   "kelimeler": [
+    "aliye",
+    "bustu",
+    "den",
+    "dmm",
+    "hayda",
+    "iddia",
+    "kaldi",
+    "ndaki",
+    "parki",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4268897f51fb": {
+   "id": "4268897f51fb",
+   "kaynak": "TRT Haber",
+   "baslik": "Collins'e göre 2026'nın kelimesi gölgede bırakmak anlamındaki Mogging",
+   "ozet": "İngilizce sözlük yayıncısı Collins, yılın kelimesini \"birini ya da bir şeyi gölgede bırakmak\" anlamına gelen \"Mogging\" olarak açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/collinse-gore-2026nin-kelimesi-golgede-birakmak-anlamindaki-mogging-962127.html",
+   "zaman": "2026-11-03T19:09:00+03:00",
+   "kelimeler": [
+    "2026",
+    "anlam",
+    "birak",
+    "colli",
+    "golge",
+    "gore",
+    "kelim",
+    "moggi",
+    "nin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "850c3e6d3b4b"
+  },
+  "c2355a5d9e80": {
+   "id": "c2355a5d9e80",
+   "kaynak": "AA",
+   "baslik": "Evrensel yardım sinyali \"SOS\" 120. yılında",
+   "ozet": "Dünyanın en tanınmış imdat sinyali SOS, 120 yıldır evrensel bir yardım sembolü olmaya devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/evrensel-yardim-sinyali-sos-120-yilinda/4110330",
+   "zaman": "2026-11-03T19:15:09+03:00",
+   "kelimeler": [
+    "120",
+    "evren",
+    "sinya",
+    "sos",
+    "yardi",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e2de161f5c4c": {
+   "id": "e2de161f5c4c",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da sağanak etkili oluyor. Valilik uyardı, bu saatlere dikkat",
+   "ozet": "Meteoroloji'nin uyarılarının ardından İstanbul'da beklenen sağanak yağış akşam saatlerinde etkili oldu. Trafik durma noktasına geldi. İstanbul Valiliği sabah saatleri için uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-etkili-oluyor-valilik-uyardi-bu-saatlere-dikkat-1749258",
+   "zaman": "2026-11-03T19:16:19+03:00",
+   "kelimeler": [
+    "dikka",
+    "etkil",
+    "istan",
+    "oluyo",
+    "saatl",
+    "sagan",
+    "uyard",
+    "valil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aae3cfca1f8c"
+  },
+  "e555912d69e2": {
+   "id": "e555912d69e2",
+   "kaynak": "TRT Haber",
+   "baslik": "İş insanlarını tehdit edip haraç isteyen suç örgütüne operasyon: 19 gözaltı",
+   "ozet": "Adana merkezli 3 ilde düzenlenen operasyonda, iş insanlarını yurt dışı telefon numaralarından arayarak tehdit ettikleri ve haraç topladıkları öne sürülen \"Aylar\" silahlı suç örgütü üyesi 19 şüpheli yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/is-insanlarini-tehdit-edip-harac-isteyen-suc-orgutune-operasyon-19-gozalti-962122.html",
+   "zaman": "2026-11-03T19:21:00+03:00",
+   "kelimeler": [
+    "19",
+    "edip",
+    "gozal",
+    "harac",
+    "insan",
+    "is",
+    "istey",
+    "opera",
+    "orgut",
+    "suc",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8c8bbb815080": {
+   "id": "8c8bbb815080",
+   "kaynak": "AA",
+   "baslik": "Polonya Başbakanı Tusk, Rusya sınırında şüpheli hareketlilik gözlemlendiğini bildirdi",
+   "ozet": "Polonya Başbakanı Donald Tusk, Rusya'nın Kaliningrad eksklavıyla ülkesi arasındaki sınırda gece saatlerinde şüpheli hareketlilik gözlemlendiğini ve bölgeye güvenlik güçlerinin sevk edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/polonya-basbakani-tusk-rusya-sinirinda-supheli-hareketlilik-gozlemlendigini-bildirdi/4110340",
+   "zaman": "2026-11-03T19:30:04+03:00",
+   "kelimeler": [
+    "basba",
+    "bildi",
+    "gozle",
+    "harek",
+    "polon",
+    "rusya",
+    "sinir",
+    "suphe",
+    "tusk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "34d923bdf3c4"
   }
  },
  "kayit": [
+  "03.11 19:31:29  4 yeni haber",
   "03.11 19:16:01  5 yeni haber",
   "03.11 19:02:40  5 yeni haber",
   "03.11 18:46:07  4 yeni haber",
@@ -27417,8 +27547,7 @@
   "01.11 17:31:08  2 yeni haber",
   "01.11 17:16:03  3 yeni haber",
   "01.11 17:01:17  3 yeni haber",
-  "01.11 16:48:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Partili Kasapoğlu'ndan Menderes'te spor yatırımları ve belediyeye d",
-  "01.11 16:46:08  3 yeni haber"
+  "01.11 16:48:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Partili Kasapoğlu'ndan Menderes'te spor yatırımları ve belediyeye d"
  ],
  "otomatik": false
 }
