@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "9419a579680e": {
-   "id": "9419a579680e",
-   "kaynak": "XHABER",
-   "baslik": "X hesabım maalesef mahkeme kararıyla erişime engellendi.",
-   "ozet": "Yeni bir X hesabı açtım. Takip ederek destek olmanızı bekliyorum. Yeni X hesabımın ; Tıkla —> sahinozkan1923",
-   "link": "https://t.me/sahinozkan000/30466",
-   "zaman": "2026-11-01T02:09:02+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "X hesabım maalesef mahkeme kararıyla erişime engellendi.\nYeni bir X hesabı açtım. Takip ederek destek olmanızı bekliyorum.\nYeni X hesabımın ;\nTıkla —> sahinozkan1923",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/ZbP0PyJjbg3ERNhJaeaYTy95ryn_lX-J1IyVMP_mNYJsP1mRXx5VJKJFNdWku_-jlSjbkbWSJEcIhS3Q5gorXeS9mtB8rTm-iiahgYthCBVHe3yaDnN-bs_ymEzIEHvJM4vBlJJJDMavJf1pOane7kRk20Fb3-r0LcBtitUdITwYXNcLS18GCeDP9r3yAnSJPXU3Co8TlZ2wMAahTnQPlIPRur_j-Et3XxrYSs6lXh_5pzX3bJCH-lKoaB2zG48A5BMtkg1-3dX22-qK41olB953Wp2UCiyu-8Uce-XSKEI7-1WDXz5UKz_x9VriKifWz2yaWRuhmbQzHZODDGuO-Q.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "engel",
-    "erisi",
-    "hesab",
-    "karar",
-    "maale",
-    "mahke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c42587cbb498": {
-   "id": "c42587cbb498",
-   "kaynak": "XHABER",
-   "baslik": "\"Umutsuz durumlar yoktur, umutsuz insanlar vardır.",
-   "ozet": "— Gazi Mustafa Kemal Atatürk",
-   "link": "https://t.me/sahinozkan000/30467",
-   "zaman": "2026-11-01T02:13:57+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "\"Umutsuz durumlar yoktur, umutsuz insanlar vardır. Ben hiçbir zaman umudumu yitirmedim.\"\n— Gazi Mustafa Kemal Atatürk",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/bjkX5Ve6nmsqes0QNGkV33MyXlMJa3F-lasZGsZYGJG8zN59yr0YwPoy-SeTbdTElCKI_Uv81QkNbkzo5Jv3hZNRVx5YMUaD0jK3sVdvZx3C_LOpouWrS3Wej_JUUh4kgGkHFWRtlpFzgHmBHqfJiEP_09h5pLi6KlQzGorzDMpaCtuinkPBFVRpssucNHRfZqVOuubYM53-IY7OJgqB1HZTR9PSlWMMN4YnopDst-GhWACQ2K5gQP3frHv6XL37v_Ovp-3gzF0RARKYE9nlHbEsREz3zfWyGkM9ToVIYNpyrkNqfkNx99fgZlhBRTEZftmcRTQMFHZbRwfxI_wU7w.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "durum",
-    "insan",
-    "umuts",
-    "vardi",
-    "yoktu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ac7a69870fca": {
    "id": "ac7a69870fca",
    "kaynak": "XHABER",
@@ -13192,7 +13149,10 @@
     "ulkem"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "af0ea82f1ab2": {
    "id": "af0ea82f1ab2",
@@ -13638,7 +13598,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "08e591f80052": {
    "id": "08e591f80052",
@@ -27547,9 +27509,119 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "772c8324c3e7": {
+   "id": "772c8324c3e7",
+   "kaynak": "TRT Haber",
+   "baslik": "Hatay'da iş yerinde yangın",
+   "ozet": "Hatay'ın Arsuz ilçesinde bir iş yerinde çıkan yangında 3 kişi dumandan etkilendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/hatayda-is-yerinde-yangin-962149.html",
+   "zaman": "2026-11-04T02:00:00+03:00",
+   "kelimeler": [
+    "hatay",
+    "is",
+    "yangi",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4b1dd59b3de7"
+  },
+  "3ecc3a145ad2": {
+   "id": "3ecc3a145ad2",
+   "kaynak": "AA",
+   "baslik": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
+   "ozet": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi/4110638",
+   "zaman": "2026-11-04T02:05:08+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "ilk",
+    "kapan",
+    "kongr",
+    "sandi",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
+  },
+  "9261f7a4d312": {
+   "id": "9261f7a4d312",
+   "kaynak": "XHABER",
+   "baslik": "ABD Başkanı Trump:",
+   "ozet": "“Eğer ABD’deki insanlar benden sıkılırsa, İsrail’e taşınıp orada Başbakan olacağım.”",
+   "link": "https://t.me/sahinozkan000/30516",
+   "zaman": "2026-11-04T02:06:04+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "ABD Başkanı Trump:\n“Eğer ABD’deki insanlar benden sıkılırsa, İsrail’e taşınıp orada Başbakan olacağım.”",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/UJb_1Bq_XqyYappKYk5PMVG2Fb07K--czF6sdwFivjboKSMJ9XQmrCprd0FgsoVhlQF4CWAYhrSSfEqch7b41JbECQFCqMvR1LhGt0oALBIclpRDrlaZevHaButFnTP2DhRJdlpo7dBR0taxwgJXjC82ZC9i_KAxFNeGHvK1ZeVTNJvhy8z-bzuwSBd49CpCM0Hoili6CnYp36fzkaXDuFEuZZumj1fB_zDVs2bWP5FdYZtXe2_CDm_bNI87CBtepleXBgb-uvxz4E11ggwFlWeUceH7zFmcieyENuyxCr9B18od9eoL_ougrgjg-rHfg-Pb2bF6v3rCPx9bxNdEsA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "83bbbde78e74"
+  },
+  "f4fbf3539368": {
+   "id": "f4fbf3539368",
+   "kaynak": "XHABER",
+   "baslik": "CBS News:",
+   "ozet": "2026 ara seçimlerine ilişkin ilk sandık çıkış anketlerine göre ABD Başkanı Donald Trump'ın görev onay oranı yüzde 38 seviyesinde. Bu oran, Trump'ın ilk başkanlık dönemindeki seviyenin de altında.",
+   "link": "https://t.me/sahinozkan000/30517",
+   "zaman": "2026-11-04T02:09:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "CBS News:\n2026 ara seçimlerine ilişkin ilk sandık çıkış anketlerine göre ABD Başkanı Donald Trump'ın görev onay oranı yüzde 38 seviyesinde.\nBu oran, Trump'ın ilk başkanlık dönemindeki seviyenin de altında. Trump, ara seçimlerde bir ABD başkanı için kaydedilen en düşük görev onay oranına doğru ilerliyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/Uu2LU1wzl3PwHukbqTv1syNTP6t0WhF7SXIGpJpxbavIUz3cU_gHTjffyiCsL8OHUw8f9739hnvGmRLy_wh5XKBmWHbEvgQ0Idq1vs3i0K2WAnU_ARJuftf7aDf4VujgFQl3W_0nTUUUP6yMHJ-x-YRdRfuG29n0GG7yfMsmNuB-e70CLGy3AYTxQIoBw4BHDf3_EOubph8LdwEg3DJEC382hmsPCS_Dya5pj2319oAMMekjaJ6mgH7tzi4MItd-dKZbbZxYSPGjNoXQ_n6yvIZ1tvOd5dkuJVQyxm89cCCepGRN3prN6vbFY1V5nL1pb6moA44nKcsAF7fg8YTklA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "cbs",
+    "news"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cac49bf49761": {
+   "id": "cac49bf49761",
+   "kaynak": "XHABER",
+   "baslik": "ABD'de Başkan Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde sandıklar kapanmaya başladı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30518",
+   "zaman": "2026-11-04T02:10:31+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "ABD'de Başkan Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde sandıklar kapanmaya başladı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/Vcb7TU3wv1MRwGJEDbTXfnP6Po1ui7GbWayKe16DDc6nsk-oEA_z5pNbeccb7T7K0gmVky-IKbK27O97IwktnGjcfimkcnCdMAYazfJRmmH2gwtUT6mQiguKxrPNRs42SeJimmyAXaA5ePcT-wZo9fkICh2muCENWSY5DJ2eJDI-AbsvGN6_fih4FDAkmBfpp91tlqCvYBQi5q4SilGj7WDQxRk0JzwHgI0BdLemaZYBDYktZNvBkfKU0Jucte1qUYCX7B-GvAl0m8SHZde2wPFXD7Bv2ZyGNNMphshvO49YIN3qm1RzKLdtjaayu8LFl5wWNOV-zR5KwTRzdpD1bA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "baska",
+    "basla",
+    "denge",
+    "gucun",
+    "kapan",
+    "kongr",
+    "sandi",
+    "secim",
+    "sekil",
+    "siyas",
+    "trump",
+    "yasam",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3ecc3a145ad2"
   }
  },
  "kayit": [
+  "04.11 02:16:30  2 yeni haber",
   "04.11 02:01:46  4 yeni haber",
   "04.11 01:39:20  2 yeni haber",
   "04.11 01:31:13  1 yeni haber",
@@ -27748,8 +27820,7 @@
   "02.11 01:01:20  2 yeni haber",
   "02.11 00:34:38  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova aç",
   "02.11 00:31:13  2 yeni haber",
-  "02.11 00:16:08  3 yeni haber",
-  "02.11 00:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı y"
+  "02.11 00:16:08  3 yeni haber"
  ],
  "otomatik": false
 }
