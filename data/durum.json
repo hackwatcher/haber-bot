@@ -23585,7 +23585,10 @@
     "veril"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "09b5f4b44d6e": {
    "id": "09b5f4b44d6e",
@@ -23607,6 +23610,25 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3b2ba77f8522": {
+   "id": "3b2ba77f8522",
+   "kaynak": "BBC Türkçe",
+   "baslik": "TÜİK ekim ayı enflasyon verilerini açıklayacak",
+   "ozet": "Türkiye İstatistik Kurumu (TÜİK) bugün ekim ayı enflasyon verilerini açıklayacak",
+   "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o",
+   "zaman": "2026-11-03T04:15:39+03:00",
+   "kelimeler": [
+    "acikl",
+    "ayi",
+    "ekim",
+    "enfla",
+    "tuik",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72df1da5ead0"
   }
  },
  "kayit": [
