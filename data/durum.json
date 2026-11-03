@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "5ca9eed3cd34": {
-   "id": "5ca9eed3cd34",
-   "kaynak": "Hürriyet",
-   "baslik": "Yük treninde kimyasal sızıntı alarmı! Ekipler devreye girdi, vagon karantinaya alındı",
-   "ozet": "Eskişehir’den Kayseri’ye yük taşıyan trende kimyasal sızıntı tespit edilmesi ekipleri harekete geçirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/yuk-treninde-kimyasal-sizinti-alarmi-ekipler-devreye-girdi-vagon-karantinaya-alindi-43361981",
-   "zaman": "2026-10-31T22:19:55+03:00",
-   "kelimeler": [
-    "alarm",
-    "alind",
-    "devre",
-    "ekipl",
-    "girdi",
-    "karan",
-    "kimya",
-    "sizin",
-    "treni",
-    "vagon",
-    "yuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f1de13f8bf99"
-  },
-  "49bc1f1cc65e": {
-   "id": "49bc1f1cc65e",
-   "kaynak": "Hürriyet",
-   "baslik": "Zelenskiy Fener Rum Ortodoks Patrikhanesi'ni ziyaret etti",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Balat’ta bulunan Fener Rum Ortodoks Patrikhanesi’ni ziyaret etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/zelenskiy-fener-rum-ortodoks-patrikhanesini-ziyaret-etti-43361989",
-   "zaman": "2026-10-31T22:30:00+03:00",
-   "kelimeler": [
-    "etti",
-    "fener",
-    "ni",
-    "ortod",
-    "patri",
-    "rum",
-    "zelen",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8c5fa484c0e8"
-  },
-  "b4ad36f9bd65": {
-   "id": "b4ad36f9bd65",
-   "kaynak": "Hürriyet",
-   "baslik": "Afyonkarahisar'da 4 katlı bina tedbir amacıyla boşaltıldı",
-   "ozet": "Afyonkarahisar'da 4 katlı bir binanın giriş katında bulunan ekmek fırınının duvarlarındaki fayanslarda çatlaklar oluşması üzerine bina tedbir amacıyla tahliye edilirken, çevredeki cadde ve sokaklar da ulaşıma kapatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-4-katli-bina-tedbir-amaciyla-bosaltildi-43361990",
-   "zaman": "2026-10-31T22:32:15+03:00",
-   "kelimeler": [
-    "afyon",
-    "amaci",
-    "bina",
-    "bosal",
-    "katli",
-    "tedbi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f8fd5d321555"
-  },
   "1cb5c9922a46": {
    "id": "1cb5c9922a46",
    "kaynak": "AA",
@@ -26639,7 +26575,10 @@
     "ugrad"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "73f0c93b3f26": {
    "id": "73f0c93b3f26",
@@ -27255,9 +27194,98 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e7112cf142f9"
+  },
+  "24411e0b433d": {
+   "id": "24411e0b433d",
+   "kaynak": "Hürriyet",
+   "baslik": "Binance, uğradığı siber saldırının perde arkasını açıkladı",
+   "ozet": "Kripto para borsası Binance, geçen hafta uğradığı siber saldırının çok aşamalı ve gelişmiş bir kampanya olduğunu, tek bir güvenlik ihlalinden veya basit bir kimlik avı girişiminden ibaret olmadığını bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/binance-ugradigi-siber-saldirinin-perde-arkasini-acikladi-43365103",
+   "zaman": "2026-11-03T22:14:00+03:00",
+   "kelimeler": [
+    "arkas",
+    "binan",
+    "perde",
+    "saldi",
+    "siber",
+    "ugrad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6447e6494920"
+  },
+  "bcfec1e97053": {
+   "id": "bcfec1e97053",
+   "kaynak": "AA",
+   "baslik": "Ben-Gvir'in tehdit ettiği Filistinli esire, 9 kurşunla yaralanmasına rağmen sadece ağrı kesici verilmiş",
+   "ozet": "Ben-Gvir'in hücresine baskın düzenleyerek idamla tehdit ettiği Filistinli esir Selame'nin nişanlısı Zamil, Selame'nin 9 kurşunla yaralandığını, 3 gün sonra revire götürülüp ağrı kesici verildikten sonra yeniden hücre hapsine alındığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ben-gvirin-tehdit-ettigi-filistinli-esire-9-kursunla-yaralanmasina-ragmen-sadece-agri-kesici-verilmis/4110469",
+   "zaman": "2026-11-03T22:16:58+03:00",
+   "kelimeler": [
+    "agri",
+    "ben",
+    "esire",
+    "ettig",
+    "filis",
+    "gvir",
+    "in",
+    "kesic",
+    "kursu",
+    "ragme",
+    "sadec",
+    "tehdi",
+    "veril",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "80f9f0b552c2": {
+   "id": "80f9f0b552c2",
+   "kaynak": "AA",
+   "baslik": "Süper Lig'den 7 takım, PFDK'ye sevk edildi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig'den 7 takımı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligden-7-takim-pfdkye-sevk-edildi/4110470",
+   "zaman": "2026-11-03T22:18:11+03:00",
+   "kelimeler": [
+    "den",
+    "edild",
+    "lig",
+    "pfdk",
+    "sevk",
+    "super",
+    "takim",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f13b9535976": {
+   "id": "5f13b9535976",
+   "kaynak": "AA",
+   "baslik": "Bakan Kacır, sel felaketinden etkilenen işletmelere 1 milyon lira destek vereceklerini duyurdu",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi imkanı sunulacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-destek-vereceklerini-duyurdu/4110472",
+   "zaman": "2026-11-03T22:21:08+03:00",
+   "kelimeler": [
+    "bakan",
+    "deste",
+    "duyur",
+    "etkil",
+    "felak",
+    "islet",
+    "kacir",
+    "lira",
+    "milyo",
+    "sel",
+    "verec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 22:32:22  3 yeni haber",
   "03.11 22:16:27  1 yeni haber",
   "03.11 21:46:42  3 yeni haber",
   "03.11 21:31:47  2 yeni haber",
@@ -27456,8 +27484,7 @@
   "01.11 20:31:49  2 yeni haber",
   "01.11 20:16:03  2 yeni haber",
   "01.11 20:01:18  1 yeni haber",
-  "01.11 19:46:15  3 yeni haber",
-  "01.11 19:23:08  1 yeni haber"
+  "01.11 19:46:15  3 yeni haber"
  ],
  "otomatik": false
 }
