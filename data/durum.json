@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "f5640f753798": {
-   "id": "f5640f753798",
-   "kaynak": "AA",
-   "baslik": "Mısır'da trafik kazasında 10 kişi hayatını kaybetti, 24 kişi yaralandı",
-   "ozet": "Mısır'ın başkenti Kahire'nin batısında minibüs ile tırın çarpışması sonucu ilk belirlemelere göre 10 kişi hayatını kaybetti, 24 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/misirda-trafik-kazasinda-10-kisi-hayatini-kaybetti-24-kisi-yaralandi/4107384",
-   "zaman": "2026-10-31T16:26:12+03:00",
-   "kelimeler": [
-    "10",
-    "24",
-    "hayat",
-    "kaybe",
-    "kazas",
-    "kisi",
-    "misir",
-    "trafi",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "a9140735d2fe": {
-   "id": "a9140735d2fe",
-   "kaynak": "NTV",
-   "baslik": "Yeni dönem. BES birikimleri bedelli askerlik ve hac için de kullanılabilecek",
-   "ozet": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı'na göre, Bireysel Emeklilik Sistemi'nde kısmi ödeme kapsamı genişletilecek. Bedelli askerlik ve hac da uygulamaya dahil edilecek.",
-   "link": "https://www.ntv.com.tr/turkiye/yeni-donem-bes-birikimleri-bedelli-askerlik-ve-hac-icin-de-kullanilabilecek-1748807",
-   "zaman": "2026-10-31T16:30:30+03:00",
-   "kelimeler": [
-    "asker",
-    "bedel",
-    "bes",
-    "birik",
-    "donem",
-    "hac",
-    "kulla",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c40b982cad1b": {
-   "id": "c40b982cad1b",
-   "kaynak": "TRT Haber",
-   "baslik": "20 yıl boyunca MS sandığı hastalık meğer başka çıktı",
-   "ozet": "ABD'de yaklaşık 20 yıl boyunca multipl skleroz MS hastası olduğunu sanarak yaşayan bir kadının, geçirdiği şiddetli bir atak sonrasında aslında nadir görülen başka bir bağışıklık sistemi hastalığıyla mücadele ettiği ortaya çıktı.",
-   "link": "https://www.trthaber.com/haber/dunya/20-yil-boyunca-ms-sandigi-hastalik-meger-baska-cikti-961830.html",
-   "zaman": "2026-10-31T16:18:00+03:00",
-   "kelimeler": [
-    "20",
-    "baska",
-    "boyun",
-    "cikti",
-    "hasta",
-    "meger",
-    "ms",
-    "sandi",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ed63f66dc694": {
    "id": "ed63f66dc694",
    "kaynak": "AA",
@@ -808,22 +746,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "9c2cef317ca6": {
-   "id": "9c2cef317ca6",
-   "kaynak": "AA",
-   "baslik": "CANLI -Cumhurbaşkanı Erdoğan konuşuyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ukrayna Devlet Başkanı Volodimir Zelenskiy ile ortak basın toplantısı düzenliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4107374",
-   "zaman": "2026-10-31T16:16:56+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "konus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9ddfc16c8822"
-  },
   "e9ce90bbd4c0": {
    "id": "e9ce90bbd4c0",
    "kaynak": "AA",
@@ -963,34 +885,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "ac288302c606": {
-   "id": "ac288302c606",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan: Barışa giden yolu açmak için elimizden gelen her türlü gayreti göstermeye hazırız",
-   "ozet": "Cumhurbaşkanı Erdoğan, Ukrayna'da barışın sağlanması çabalarını ve Karadeniz'deki güvenlik durumunu ele aldıklarını belirterek, \"Barışa giden yolu açmak için elimizden gelen her türlü gayreti göstermeye hazır olduğumuzu vurgulamak isterim.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-barisa-giden-yolu-acmak-icin-elimizden-gelen-her-turlu-gayreti-gostermeye-haziriz/4107374",
-   "zaman": "2026-10-31T16:16:56+03:00",
-   "kelimeler": [
-    "acmak",
-    "baris",
-    "cumhu",
-    "elimi",
-    "erdog",
-    "gayre",
-    "gelen",
-    "giden",
-    "goste",
-    "hazir",
-    "her",
-    "turlu",
-    "yolu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
   },
   "d8fd2923ae1f": {
    "id": "d8fd2923ae1f",
@@ -10713,7 +10607,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ]
   },
   "93830c37eef8": {
@@ -26251,7 +26146,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "1ae70f8c85b8": {
    "id": "1ae70f8c85b8",
@@ -26271,9 +26169,198 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1da7d9c70e86": {
+   "id": "1da7d9c70e86",
+   "kaynak": "AA",
+   "baslik": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi",
+   "ozet": "AK Parti Genel Merkezi'nde, Bakan Şimşek, AK Parti Genel Başkanvekilleri Elitaş ve Ala ile Genel Başkan Yardımcıları Çelik ile Büyükgümüş'ün konuşmacı olduğu \"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-programi-duzenlendi/4109934",
+   "zaman": "2026-11-03T14:41:47+03:00",
+   "kelimeler": [
+    "24",
+    "25",
+    "ak",
+    "duzen",
+    "gelis",
+    "iktid",
+    "kurul",
+    "parti",
+    "progr",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bfc2f8be9edf"
+  },
+  "3fb518791053": {
+   "id": "3fb518791053",
+   "kaynak": "AA",
+   "baslik": "Bakan Göktaş: Kadınların ekonomideki gücünü her geçen gün daha da büyütüyoruz",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Göktaş, \"Kadınların ekonomideki gücünü her geçen gün daha da büyütüyoruz. Bakanlık olarak kadınların enerji, teknoloji, sanayi başta olmak üzere her alanda aktif rol üstlenmesi için çalışıyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-kadinlarin-ekonomideki-gucunu-her-gecen-gun-daha-da-buyutuyoruz/4110014",
+   "zaman": "2026-11-03T15:36:53+03:00",
+   "kelimeler": [
+    "bakan",
+    "buyut",
+    "ekono",
+    "gecen",
+    "gokta",
+    "gucun",
+    "gun",
+    "her",
+    "kadin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c4dd37dc0de4": {
+   "id": "c4dd37dc0de4",
+   "kaynak": "AA",
+   "baslik": "Almanya'da süpermarketlerin soğutma sistemlerine siber saldırı",
+   "ozet": "Avrupa'nın birçok ülkesinde süpermarketlerin ve diğer işletmelerin soğutma sistemlerini hedef alan siber saldırılar, Almanya'daki bazı süpermarketleri de etkiledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-supermarketlerin-sogutma-sistemlerine-siber-saldiri/4110026",
+   "zaman": "2026-11-03T15:45:35+03:00",
+   "kelimeler": [
+    "alman",
+    "saldi",
+    "siber",
+    "siste",
+    "sogut",
+    "super"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "45908a43daed"
+  },
+  "caf78229c55e": {
+   "id": "caf78229c55e",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: İİT olarak topluluk içi ticaretimizi yüzde 25'e çıkarma hedefimiz var",
+   "ozet": "Cumhurbaşkanı Yardımcısı Yılmaz, İSEDAK 42. Bakanlar Toplantısı'na ilişkin \"Toplantıda, program ve projeleri değerlendirerek ilerletmek için istişarelerde bulunduk. İİT olarak topluluk içi ticareti yüzde 25'e çıkarma hedefimiz var\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-iit-olarak-topluluk-ici-ticaretimizi-yuzde-25e-cikarma-hedefimiz-var/4110049",
+   "zaman": "2026-11-03T16:07:19+03:00",
+   "kelimeler": [
+    "25",
+    "cikar",
+    "cumhu",
+    "hedef",
+    "ici",
+    "iit",
+    "ticar",
+    "toplu",
+    "yardi",
+    "yilma",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e187431903d6": {
+   "id": "e187431903d6",
+   "kaynak": "TRT Haber",
+   "baslik": "Savunma ve havacılık ihracatı ekimde 1,1 milyar doları aştı",
+   "ozet": "Türkiye'nin savunma ve havacılık sanayisi ihracatı, ekim ayında geçen yılın aynı dönemine göre yüzde 61 artarak 1 milyar 140 milyon dolara ulaştı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havacilik-ihracati-ekimde-11-milyar-dolari-asti-962102.html",
+   "zaman": "2026-11-03T16:18:00+03:00",
+   "kelimeler": [
+    "asti",
+    "dolar",
+    "ekimd",
+    "havac",
+    "ihrac",
+    "milya",
+    "savun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110cc1cc62e5"
+  },
+  "694b8e60bc7a": {
+   "id": "694b8e60bc7a",
+   "kaynak": "NTV",
+   "baslik": "Muğla’da fırtına sonrası denizde hortum oluştu",
+   "ozet": "Muğla'nın Milas ilçesinde etkili olan sağanak ve fırtınanın ardından denizde oluşan hortum, cep telefonu kameralarıyla kaydedildi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-muglada-firtina-sonrasi-denizde-hortum-olustu-1749246",
+   "zaman": "2026-11-03T16:20:11+03:00",
+   "kelimeler": [
+    "deniz",
+    "firti",
+    "hortu",
+    "mugla",
+    "olust",
+    "sonra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "59e14999b335": {
+   "id": "59e14999b335",
+   "kaynak": "Hürriyet",
+   "baslik": "DEM Parti’li Hatimoğulları: Kent Uzlaşısı zemininde duruyoruz",
+   "ozet": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, \"Kent Uzlaşısı zemininde duruyoruz. Bizim açımızdan Kent Uzlaşısı, kentteki bütün farklılıklarla birlikte kentin ihtiyaçlarına yanıt üretecek bir oluşum anlamı taşıyor. Biz aynı yerdeyiz\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dem-partili-hatimogullari-kent-uzlasisi-zemininde-duruyoruz-43364773",
+   "zaman": "2026-11-03T16:21:28+03:00",
+   "kelimeler": [
+    "dem",
+    "duruy",
+    "hatim",
+    "kent",
+    "li",
+    "parti",
+    "uzlas",
+    "zemin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6dbcec3e66e6"
+  },
+  "a78fc0716409": {
+   "id": "a78fc0716409",
+   "kaynak": "NTV",
+   "baslik": "İBB yöneticisi Erhan Karaal'ı evinin önünden kaçırmışlardı. İstenen cezalar belli oldu",
+   "ozet": "İstanbul Büyükşehir Belediyesi (İBB) Kültür AŞ Genel Müdür Yardımcısı Erhan Karaal'ın kaçırılmasına ilişkin soruşturma tamamlandı. 24 sanığa 4 ayrı suçtan toplam 37 yıla kadar hapis cezası istendi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-ibb-yoneticisi-erhan-karaali-evinin-onunden-kacirmislardi-istenen-cezalar-belli-oldu-1749245",
+   "zaman": "2026-11-03T16:25:12+03:00",
+   "kelimeler": [
+    "belli",
+    "cezal",
+    "erhan",
+    "evini",
+    "ibb",
+    "isten",
+    "kacir",
+    "karaa",
+    "onund",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "685cda47be64"
+  },
+  "e609eac6fd9f": {
+   "id": "e609eac6fd9f",
+   "kaynak": "AA",
+   "baslik": "AB Adalet Divanından \"yapay zekanın haberleri kullanmasına ilişkin\" görüş",
+   "ozet": "Avrupa Birliği Adalet Divanı Başsavcısı Maciej Szpunar, yapay zeka sohbet robotlarının, haberleri, okuyucunun asıl habere gitmesine gerek bırakmayacak biçimde yeniden sunmasının yayıncıların haklarını ihlal edebileceği görüşünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-adalet-divanindan-yapay-zekanin-haberleri-kullanmasina-iliskin-gorus/4110073",
+   "zaman": "2026-11-03T16:25:57+03:00",
+   "kelimeler": [
+    "ab",
+    "adale",
+    "divan",
+    "gorus",
+    "ilisk",
+    "kulla",
+    "yapay",
+    "zekan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 16:31:21  4 yeni haber",
   "03.11 16:16:38  7 yeni haber",
   "03.11 16:01:25  8 yeni haber",
   "03.11 15:46:09  2 yeni haber",
@@ -26472,8 +26559,7 @@
   "01.11 14:16:36  4 yeni haber",
   "01.11 14:01:19  6 yeni haber",
   "01.11 13:46:05  3 yeni haber",
-  "01.11 13:31:13  4 yeni haber",
-  "01.11 13:16:08  2 yeni haber"
+  "01.11 13:31:13  4 yeni haber"
  ],
  "otomatik": false
 }
