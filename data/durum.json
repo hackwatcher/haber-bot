@@ -23649,9 +23649,29 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6c496c732d1f"
+  },
+  "e259c8cf0abc": {
+   "id": "e259c8cf0abc",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail askerlerinin saldırılarında 2 Filistinli yaralandı",
+   "ozet": "Katil İsrail askerlerinin işgal altındaki Batı Şerianın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-askerlerinin-saldirilarinda-2-filistinli-yaralandi-962010.html",
+   "zaman": "2026-11-03T05:49:00+03:00",
+   "kelimeler": [
+    "asker",
+    "filis",
+    "israi",
+    "katil",
+    "saldi",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 06:01:32  1 yeni haber",
+  "03.11 06:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 04:46:54  1 yeni haber",
   "03.11 04:01:46  1 yeni haber",
   "03.11 03:46:07  1 yeni haber",
@@ -23849,9 +23869,7 @@
   "31.10 23:31:09  2 yeni haber",
   "31.10 23:16:22  1 yeni haber",
   "31.10 23:01:31  4 yeni haber",
-  "31.10 22:15:57  3 yeni haber",
-  "31.10 22:01:30  4 yeni haber",
-  "31.10 21:46:02  2 yeni haber"
+  "31.10 22:15:57  3 yeni haber"
  ],
  "otomatik": false
 }
