@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "4a05171b1afe": {
-   "id": "4a05171b1afe",
-   "kaynak": "Hürriyet",
-   "baslik": "Dışişleri Bakanı Hakan Fidan'dan G20 Dışişleri Bakanları Toplantısı’na ilişkin paylaşım",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, “30-31 Ekim 2026 tarihlerinde Atlanta’da düzenlenen G20 Dışişleri Bakanları Toplantısı’na katıldık. Görüştüğümüz mevkidaşlarımızla ikili ilişkilerimizi ve ortak gündemimizi ele aldık” açıklamasında bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidandan-g20-disisleri-bakanlari-toplantisina-iliskin-paylasim-43362012",
-   "zaman": "2026-10-31T23:36:28+03:00",
-   "kelimeler": [
-    "bakan",
-    "dan",
-    "disis",
-    "fidan",
-    "g20",
-    "hakan",
-    "ilisk",
-    "na",
-    "payla",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c5a071763c24"
-  },
   "f7c6091f8490": {
    "id": "f7c6091f8490",
    "kaynak": "AA",
@@ -69,25 +46,6 @@
    "durum": "engelli",
    "oncelikli": true,
    "diger_kaynaklar": []
-  },
-  "507b6c84018a": {
-   "id": "507b6c84018a",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil Netanyahu'ya karşı mecliste güç birliği",
-   "ozet": "Yashar Partisi lideri Gadi Eisenkot, Arap partilerinin de desteğiyle elde ettikleri meclis çoğunluğunu katil Netanyahu hükümetine karşı derhal kullanacaklarını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-netanyahuya-karsi-mecliste-guc-birligi-961846.html",
-   "zaman": "2026-10-31T23:40:00+03:00",
-   "kelimeler": [
-    "birli",
-    "guc",
-    "karsi",
-    "katil",
-    "mecli",
-    "netan",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "13d7f226ac25": {
    "id": "13d7f226ac25",
@@ -24205,7 +24163,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber",
+    "BBC Türkçe"
    ]
   },
   "3d539f081792": {
@@ -27419,9 +27379,116 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e342af46091f"
+  },
+  "43b92d937bbb": {
+   "id": "43b92d937bbb",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Ukrayna'nın İHA saldırısında biri Zaporijya NGS çalışanı 2 kişi öldü",
+   "ozet": "Ukrayna ordusunun insansız hava aracıyla İHA düzenlediği saldırıda, Rusya'nın kontrolündeki Zaporijya Nükleer Güç Santrali NGS çalışanının da aralarında bulunduğu 2 kişi hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynanin-iha-saldirisinda-biri-zaporijya-ngs-calisani-2-kisi-oldu-962139.html",
+   "zaman": "2026-11-03T23:24:00+03:00",
+   "kelimeler": [
+    "biri",
+    "calis",
+    "iha",
+    "kisi",
+    "ngs",
+    "nin",
+    "rusya",
+    "saldi",
+    "ukray",
+    "zapor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "553ed9627fb0": {
+   "id": "553ed9627fb0",
+   "kaynak": "TRT Haber",
+   "baslik": "Fenerbahçe'nin yeni teknik direktörü Emre Belözoğlu oldu",
+   "ozet": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/fenerbahcenin-yeni-teknik-direktoru-emre-belozoglu-oldu-962140.html",
+   "zaman": "2026-11-03T23:28:00+03:00",
+   "kelimeler": [
+    "beloz",
+    "direk",
+    "emre",
+    "fener",
+    "nin",
+    "tekni",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e342af46091f"
+  },
+  "5ce470b0c811": {
+   "id": "5ce470b0c811",
+   "kaynak": "TRT Haber",
+   "baslik": "Fethiye'de sağanak taşkına neden oldu: Evler ve tarım arazileri sular altında",
+   "ozet": "Muğla'nın Fethiye ilçesinde şiddetli yağışın ardından sulama kanallarının taşması sonucu bazı evler, seralar ve tarım arazileri sular altında kaldı. Olayda can kaybı yaşanmazken ekipler bölgede çalışma başlattı.",
+   "link": "https://www.trthaber.com/haber/turkiye/fethiyede-saganak-taskina-neden-oldu-evler-ve-tarim-arazileri-sular-altinda-962141.html",
+   "zaman": "2026-11-03T23:29:00+03:00",
+   "kelimeler": [
+    "altin",
+    "arazi",
+    "evler",
+    "fethi",
+    "neden",
+    "sagan",
+    "sular",
+    "tarim",
+    "taski"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df9ffa14f3a5": {
+   "id": "df9ffa14f3a5",
+   "kaynak": "AA",
+   "baslik": "AB, vatandaşlar için acil durumlara hazırlık rehberi yayımladı",
+   "ozet": "Avrupa Birliği (AB) Komisyonu, vatandaşların kriz durumunda ilk 3 gün boyunca temel ihtiyaçlarını kendileri karşılamaları, hazırlıklılık eğitimi ve güvenilir bilgi alınmasının sağlanması gibi tavsiyeleri içeren yeni acil durum rehberi yayımladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-vatandaslar-icin-acil-durumlara-hazirlik-rehberi-yayimladi/4110549",
+   "zaman": "2026-11-03T23:39:53+03:00",
+   "kelimeler": [
+    "ab",
+    "durum",
+    "hazir",
+    "rehbe",
+    "vatan",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "39bc584e9976": {
+   "id": "39bc584e9976",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Emre Belözoğlu: Fenerbahçe'nin ikinci kez teknik direktörlük görevine getirdiği eski kaptanı",
+   "ozet": "Emre Belözoğlu, daha önce 2020-2021 sezonunun son 10 haftasında Fenerbahçe'nin başında teknik direktör olarak görev almıştı. Belözoğlu'nun Pazar günü oynanacak Çorumspor maçında takımın başında yer alması bekleniyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmy93wr2w2p0o",
+   "zaman": "2026-11-03T23:45:40+03:00",
+   "kelimeler": [
+    "beloz",
+    "direk",
+    "emre",
+    "eski",
+    "fener",
+    "getir",
+    "gorev",
+    "ikinc",
+    "kapta",
+    "kez",
+    "nin",
+    "tekni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e342af46091f"
   }
  },
  "kayit": [
+  "03.11 23:46:21  3 yeni haber",
   "03.11 23:31:33  2 yeni haber",
   "03.11 23:16:30  5 yeni haber",
   "03.11 23:01:42  3 yeni haber",
@@ -27620,8 +27687,7 @@
   "01.11 22:01:18  1 yeni haber",
   "01.11 21:46:53  2 yeni haber",
   "01.11 21:31:09  1 yeni haber",
-  "01.11 21:17:12  5 yeni haber",
-  "01.11 20:46:11  2 yeni haber"
+  "01.11 21:17:12  5 yeni haber"
  ],
  "otomatik": false
 }
