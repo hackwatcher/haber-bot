@@ -1,76 +1,5 @@
 {
  "haberler": {
-  "fd3293586d9c": {
-   "id": "fd3293586d9c",
-   "kaynak": "NTV",
-   "baslik": "Şırnak'ta deprem mi oldu? Az önce deprem Şırnak'ta nerede oldu? Şırnak deprem Kandilli ve AFAD son depremler listesi 31 Ekim 2026",
-   "ozet": "Son dakika Şırnak deprem haberleri.. Şırnak'ta deprem mi oldu? Az önce deprem Şırnak'ta nerede oldu? Şırnak Kandilli ve AFAD son depremler.. 31 Ekim 2026 Şırnak deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Şırnak'ta? Şırnak son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-sirnakta-deprem-mi-oldu-az-once-deprem-sirnakta-nerede-oldu-sirnak-deprem-kandilli-ve-afad-son-depremler-listesi-31-ekim-2026-1748806",
-   "zaman": "2026-10-31T16:10:00+03:00",
-   "kelimeler": [
-    "2026",
-    "31",
-    "afad",
-    "az",
-    "depre",
-    "ekim",
-    "kandi",
-    "liste",
-    "nered",
-    "sirna",
-    "ta"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "110acf43b8b5"
-  },
-  "096c8a45e9ef": {
-   "id": "096c8a45e9ef",
-   "kaynak": "XHABER",
-   "baslik": "Karadağ, Türk vatandaşlarından 1 Kasım'dan itibaren vize isteyecek.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30445",
-   "zaman": "2026-10-31T16:12:18+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Karadağ, Türk vatandaşlarından 1 Kasım'dan itibaren vize isteyecek.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/BXkC9kMgn2_jQPi60Hanvvs9uCyNpwYL-RaC-X2G92i82dAseNY1hFXejImYrdUiD8P9yIzXk-S_EtyH0LXny_EVcYqCDm-d48lJb_-EtCClIaDkDZ8iWZZmZkL6DX36K83XbMdA82lV98SeaiRh2IOXw_7JEMnSIbiGsVYE14YU3KTYEVKTd2qYV5JFMJXvbYlzRJufsdq-SdF-nNPtYOGEygB4SN0GVYBvWS9NHEY8tYcn0y0S0PGga2CPjqyFXBbyBd418JMMnkrbil7Q2CrlNDfzKOHj8wkUMnBF0_i6BHqOWiZBbqa5c6xs4bYN9s9hlkiirsevpahhxSHv1g.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "dan",
-    "istey",
-    "itiba",
-    "karad",
-    "kasim",
-    "turk",
-    "vatan",
-    "vize"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "45565395e2b0": {
-   "id": "45565395e2b0",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan kritik görüşme! Ukrayna Devlet Başkanı Zelenski İstanbul'da",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Ukrayna Devlet Başkanı Volodimir Zelenski'nin Dolmabahçe Çalışma Ofisi'ndeki görüşmesi başladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-kritik-gorusme-ukrayna-devlet-baskani-zelenski-istanbulda-43361750",
-   "zaman": "2026-10-31T16:11:00+03:00",
-   "kelimeler": [
-    "baska",
-    "cumhu",
-    "dan",
-    "devle",
-    "erdog",
-    "gorus",
-    "istan",
-    "kriti",
-    "ukray",
-    "zelen"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "62b9915d2bab"
-  },
   "f5640f753798": {
    "id": "f5640f753798",
    "kaynak": "AA",
@@ -25705,7 +25634,10 @@
    "fb_id": null,
    "fb_reels_id": "1913949056638139",
    "slayt": 5,
-   "kanca": "BEBEĞİNİ KAYBETTİ"
+   "kanca": "BEBEĞİNİ KAYBETTİ",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7f8098311cbf": {
    "id": "7f8098311cbf",
@@ -26157,9 +26089,192 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "40b08d5bb3be": {
+   "id": "40b08d5bb3be",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ve Güney Kore, enerji ve madencilik alanında anlaşmalar imzaladı",
+   "ozet": "Türkiye ile Güney Kore arasında enerji arz güvenliğini pekiştirmeyi, teknoloji transferini hızlandırmayı ve madencilik sektöründe katma değerli üretimi artırmayı hedefleyen üç mutabakat zaptı imzalandı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-guney-kore-enerji-ve-madencilik-alaninda-anlasmalar-imzaladi-962097.html",
+   "zaman": "2026-11-03T15:54:00+03:00",
+   "kelimeler": [
+    "alani",
+    "anlas",
+    "enerj",
+    "guney",
+    "imzal",
+    "kore",
+    "maden",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6ce8ee1e16c3": {
+   "id": "6ce8ee1e16c3",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: Hürmüzgan eyaletinde 2 ABD İHA'sını düşürdük",
+   "ozet": "İran, Hürmüzgan eyaletinde ABDye ait iki Lucas marka kamikaze insansız hava aracını İHA düşürdüğünü iddia etti.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuzgan-eyaletinde-2-abd-ihasini-dusurduk-962098.html",
+   "zaman": "2026-11-03T15:56:00+03:00",
+   "kelimeler": [
+    "abd",
+    "dusur",
+    "eyale",
+    "hurmu",
+    "iha",
+    "iran",
+    "sini"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aed39972486b": {
+   "id": "aed39972486b",
+   "kaynak": "TRT Haber",
+   "baslik": "Otomotiv ihracatında 4 milyar dolar eşiği aşıldı",
+   "ozet": "Türkiye otomotiv endüstrisi, ekim ayında gerçekleştirdiği 4 milyar doları aşan ihracatla aylık bazda tüm zamanların en yüksek seviyesine ulaştı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-ihracatinda-4-milyar-dolar-esigi-asildi-962099.html",
+   "zaman": "2026-11-03T15:58:00+03:00",
+   "kelimeler": [
+    "asild",
+    "dolar",
+    "esigi",
+    "ihrac",
+    "milya",
+    "otomo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110cc1cc62e5"
+  },
+  "40e53f3637b3": {
+   "id": "40e53f3637b3",
+   "kaynak": "TRT Haber",
+   "baslik": "Bilkent Şehir Hastanesi, nakil bekleyen 534 hastaya umut oldu",
+   "ozet": "Ankara Bilkent Şehir Hastanesi Koordinatör Başhekimi Prof. Dr. Levent Öztürk, 49 kalp, 53 akciğer, 189 karaciğer, 243 böbrek nakli ameliyatının hastanede yapıldığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/turkiye/bilkent-sehir-hastanesi-nakil-bekleyen-534-hastaya-umut-oldu-962100.html",
+   "zaman": "2026-11-03T15:59:00+03:00",
+   "kelimeler": [
+    "534",
+    "bekle",
+    "bilke",
+    "hasta",
+    "nakil",
+    "sehir",
+    "umut"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "99cda378c633": {
+   "id": "99cda378c633",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Avrupa'da dört yolcu uçağına bomba ihbarı: Polonya, İspanya ve Bulgaristan'da güvenlik incelemesi",
+   "ozet": "Avrupa'nın farklı noktalarına uçan dört yolcu uçağı, bomba ihbarları nedeniyle güvenlik tedbirleri kapsamında incelemeye alındı. Polonya'nın başkenti Varşova'da iki uçak kontrol edildi, İspanya'nın Murcia kentine acil iniş yapan bir uçakta da arama yapıldı.",
+   "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo",
+   "zaman": "2026-11-03T16:00:32+03:00",
+   "kelimeler": [
+    "avrup",
+    "bomba",
+    "bulga",
+    "dort",
+    "guven",
+    "ihbar",
+    "incel",
+    "ispan",
+    "polon",
+    "ucagi",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e734f983a233": {
+   "id": "e734f983a233",
+   "kaynak": "Hürriyet",
+   "baslik": "Denizli'de haber alınamayan kadından acı haber! ATV ile kaza yaptığı ortaya çıktı",
+   "ozet": "Denizli'nin Acıpayam ilçesinde mantar toplamak için ormana gittikten sonra kendisinden haber alınamayan 55 yaşındaki Güldane Acar'ın, ATV aracıyla kaza yaptığı ve hayatını kaybettiği belirlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/denizlide-haber-alinamayan-kadindan-aci-haber-atv-ile-kaza-yaptigi-ortaya-cikti-43364726",
+   "zaman": "2026-11-03T16:07:20+03:00",
+   "kelimeler": [
+    "aci",
+    "alina",
+    "atv",
+    "cikti",
+    "deniz",
+    "kadin",
+    "kaza",
+    "ortay",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9fb46010a88c": {
+   "id": "9fb46010a88c",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara'da motosikletlinin çarptığı hamile kadın bebeğini kaybetti",
+   "ozet": "Ankara'nın Yenimahalle ilçesinde motosikletin çarpması sonucu ağır yaralanan 6 aylık hamile kadın bebeğini kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-motosikletlinin-carptigi-hamile-kadin-bebegini-kaybetti-962101.html",
+   "zaman": "2026-11-03T16:09:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "bebeg",
+    "carpt",
+    "hamil",
+    "kadin",
+    "kaybe",
+    "motos"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd41809013ad"
+  },
+  "685cda47be64": {
+   "id": "685cda47be64",
+   "kaynak": "Hürriyet",
+   "baslik": "İBB yöneticisi Erhan Karaal'ı evinin önünden kaçırmışlardı: İstenen cezalar belli oldu",
+   "ozet": "İstanbul Büyükşehir Belediyesi (İBB) Kültür A.Ş. Genel Müdür Yardımcısı Erhan Karaal’ın kaçırılmasına ilişkin yürütülen soruşturma tamamlandı. İddianamede, 17’si tutuklu 24 sanık hakkında 4 ayrı suçtan toplam 17 yıldan 37 yıla kadar hapis cezası talep edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ibb-yoneticisi-erhan-karaali-evinin-onunden-kacirmislardi-istenen-cezalar-belli-oldu-43364745",
+   "zaman": "2026-11-03T16:11:59+03:00",
+   "kelimeler": [
+    "belli",
+    "cezal",
+    "erhan",
+    "evini",
+    "ibb",
+    "isten",
+    "kacir",
+    "karaa",
+    "onund",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1ae70f8c85b8": {
+   "id": "1ae70f8c85b8",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Memur ve memur emeklilerine 2027'de yüzde 5 ve yüzde 4 toplu sözleşme zammı",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 2027 yılında memur ve memur emeklileri için yüzde beş ve yüzde dört oranında artış yapılacağını söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cwzd6m2y21r8o",
+   "zaman": "2026-11-03T16:13:03+03:00",
+   "kelimeler": [
+    "2027",
+    "emekl",
+    "memur",
+    "sozle",
+    "toplu",
+    "yuzde",
+    "zammi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 16:16:38  7 yeni haber",
   "03.11 16:01:25  8 yeni haber",
   "03.11 15:46:09  2 yeni haber",
   "03.11 15:31:14  1 yeni haber",
@@ -26358,8 +26473,7 @@
   "01.11 14:01:19  6 yeni haber",
   "01.11 13:46:05  3 yeni haber",
   "01.11 13:31:13  4 yeni haber",
-  "01.11 13:16:08  2 yeni haber",
-  "01.11 13:03:28  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · Galatasaray-Stuttgart maçını İngiliz hakem Kavanagh yönetecek"
+  "01.11 13:16:08  2 yeni haber"
  ],
  "otomatik": false
 }
