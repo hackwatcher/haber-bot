@@ -1,36 +1,5 @@
 {
  "haberler": {
-  "377be7570a2b": {
-   "id": "377be7570a2b",
-   "kaynak": "TRT Haber",
-   "baslik": "Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
-   "ozet": "Anadolu Otoyolu Bolu Dağı Tüneli içinde tırın çarptığı otomobilin takla atması sonucu 4 kişi yaralandı. Tır sürücüsü kaza yerinden kaçtı.",
-   "link": "https://www.trthaber.com/haber/turkiye/bolu-dagi-tunelinde-tirin-carptigi-otomobil-takla-atti-4-yarali-961850.html",
-   "zaman": "2026-11-01T00:47:00+03:00",
-   "kelimeler": [
-    "atti",
-    "bolu",
-    "carpt",
-    "dagi",
-    "nde",
-    "otomo",
-    "takla",
-    "tirin",
-    "tunel",
-    "yaral"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-01T01:49:09.747637+03:00",
-   "ig_id": "17883028050627068",
-   "reels_id": "17911402413316290",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1394995342715826",
-   "slayt": 5,
-   "kanca": "TIR ÇARPIP KAÇTI"
-  },
   "66ca25e3e91d": {
    "id": "66ca25e3e91d",
    "kaynak": "XHABER",
@@ -23759,13 +23728,22 @@
     "tekni",
     "vardi"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
     "TRT Haber",
     "BBC Türkçe"
-   ]
+   ],
+   "paylasildi": "2026-11-04T01:04:03.214125+03:00",
+   "ig_id": "18120793628092820",
+   "reels_id": "18414304552086361",
+   "story_id": "18572861935074450",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1462378499423290",
+   "slayt": 4,
+   "kanca": "EMRE BELÖZOĞLU DÖNÜYOR"
   },
   "3d539f081792": {
    "id": "3d539f081792",
@@ -27370,9 +27348,56 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8fd02c49820b"
+  },
+  "cf60faab3cb7": {
+   "id": "cf60faab3cb7",
+   "kaynak": "Sözcü",
+   "baslik": "Dilovası faciası davasındaki iki tahliye sonrası sert tepki",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/dilovasi-faciasi-davasindaki-iki-tahliye-sonrasi-sert-tepki-p375778",
+   "zaman": "2026-11-04T00:46:19+03:00",
+   "kelimeler": [
+    "davas",
+    "dilov",
+    "facia",
+    "iki",
+    "sert",
+    "sonra",
+    "tahli",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1b60e8177323": {
+   "id": "1b60e8177323",
+   "kaynak": "XHABER",
+   "baslik": "İsmail Saymaz : \"Fon vurgunu artık camilerde vaazlara da konu oluyor.",
+   "ozet": "Açık kaynaklara göre Adana Yüreğir’deki Merkez Camisi’nin imamı olan Mustafa İslam, dini kisveye bürünen haramzadeliği ve caminin kapısına dayanan yoksulluğu dosdoğru anlatmış.\"",
+   "link": "https://t.me/sahinozkan000/30509",
+   "zaman": "2026-11-04T00:50:39+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İsmail Saymaz : \"Fon vurgunu artık camilerde vaazlara da konu oluyor.\nAçık kaynaklara göre Adana Yüreğir’deki Merkez Camisi’nin imamı olan Mustafa İslam, dini kisveye bürünen haramzadeliği ve caminin kapısına dayanan yoksulluğu dosdoğru anlatmış.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/U2tiomguagcE9AYIE7vDre8KtA36LWDUs8lR1-3iX34jNREKtLgJ6Kf-oRyUr31ebMclotKCpukBBzkQL2J_AIFEZccNea87hZSQ4PjzcHs2Of-gV59P9qStPRSvWkANhk2EnoNBklkJpzN6zFZvICZW6smdhmd72iWp9_HfMzcVmdvxQc4kNTun4cDeA54Yb71RP-Dv6zTBaXNuZXA9zRyZYIX5eUiDwf_1vTJMe6YIec4DGqdjXmPvyEpKCDxY0MSrmBD_d3qxL9BYmvuybJ8O5Tqd-lIhSwDtIV3CoiXD1d8BCXJSSSf1tZcJKVdTTUSAshZDNwDHlyBArYHrKA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/943f81dd72.mp4?token=nBngLVRnm1r54yGMLh750hc5zrBeYYXgz5VNQdXdxjgJuaxpVkEdNbtRATggrDAQSgOtDx6M64kk070UM03Pi-NyQl5QNl1SkWVp8NAEnFedn5mJkmPYSyTmIwCPGJY9e-RZ3WPBn9z96HFnNAmU7OFfsbz4bw6tmDqCVcevriqSRU58HpMzwmccgchIVw0tqG9NgTvntbtwRq3v6D7GSh0GIGRKlOdlcO0AYYyPiWVnFqy305nYTPkNOGPDOJgCtbYhJPnKydBC8THUBXdxs2HEwYRMTeOlpz8jEe8GC1ITsBi3fWwAOex9MkXgNPsA9tgSalEgLrGCawF0GFHsJA",
+   "kelimeler": [
+    "artik",
+    "camil",
+    "fon",
+    "ismai",
+    "konu",
+    "oluyo",
+    "sayma",
+    "vaazl",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 01:04:03  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fenerbahçe, Teknik Direktör Emre Belözoğlu ile anlaşmaya ",
+  "04.11 01:01:43  2 yeni haber",
   "04.11 00:46:15  2 yeni haber",
   "04.11 00:34:05  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İspanya'da hızlı tren kazasının ardından Ulaştırma Bakanı Puente istif",
   "04.11 00:31:37  2 yeni haber",
@@ -27570,9 +27595,7 @@
   "02.11 00:01:38  3 yeni haber",
   "01.11 23:39:28  2 yeni haber",
   "01.11 23:31:09  2 yeni haber",
-  "01.11 23:15:58  1 yeni haber",
-  "01.11 23:01:18  2 yeni haber",
-  "01.11 22:31:19  2 yeni haber"
+  "01.11 23:15:58  1 yeni haber"
  ],
  "otomatik": false
 }
