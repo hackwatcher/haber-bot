@@ -1,104 +1,5 @@
 {
  "haberler": {
-  "0ce9ec12c59a": {
-   "id": "0ce9ec12c59a",
-   "kaynak": "Hürriyet",
-   "baslik": "977 milyon TL'lik fuhuş ağı çökertildi: 17 tutuklama",
-   "ozet": "Diyarbakır merkezli 10 ilde internet üzerinden fuhuş faaliyetlerini organize eden şüphelilere yönelik düzenlenen ‘Silüet Operasyonu’nda 28 kişi yakalandı. MASAK incelemelerinde 977 milyon TL'lik finansal işlem hacmi tespit edilen şüphelilerden 17'si tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/977-milyon-tllik-fuhus-agi-cokertildi-17-tutuklama-43361906",
-   "zaman": "2026-10-31T19:47:27+03:00",
-   "kelimeler": [
-    "17",
-    "977",
-    "agi",
-    "coker",
-    "fuhus",
-    "lik",
-    "milyo",
-    "tl",
-    "tutuk"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-10-31T20:17:56.296771+03:00",
-   "ig_id": "18108468950196296",
-   "reels_id": "18287590951294775",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1502856445046377",
-   "slayt": 6,
-   "kanca": "977 milyon tl"
-  },
-  "5da6f0e43b9a": {
-   "id": "5da6f0e43b9a",
-   "kaynak": "AA",
-   "baslik": "Yemen ordusu: Husilere karşı düzenlenen 1119 operasyonda 427 milis etkisiz hale getirildi",
-   "ozet": "Yemen ordusu, İran destekli Husilere karşı 1119 operasyon düzenlendiğini ve 427 milisin etkisiz hale getirildiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-husilere-karsi-duzenlenen-1119-operasyonda-427-milis-etkisiz-hale-getirildi-/4107547",
-   "zaman": "2026-10-31T19:55:46+03:00",
-   "kelimeler": [
-    "1119",
-    "427",
-    "duzen",
-    "etkis",
-    "getir",
-    "hale",
-    "husil",
-    "karsi",
-    "milis",
-    "opera",
-    "ordus",
-    "yemen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9776c0feb08e": {
-   "id": "9776c0feb08e",
-   "kaynak": "AA",
-   "baslik": "Fransa'da Sarı Yelekliler hayat pahalılığına karşı yeniden sokaklara çıktı",
-   "ozet": "Fransa'da hükümet, 17 ve 24 Ekim'de şiddet olaylarının yaşandığı gösterilerin ardından güvenlik tedbirlerini sıkılaştırırken, Sarı Yelekliler hayat pahalılığına karşı yeniden sokaklara çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-hayat-pahaliligina-karsi-yeniden-sokaklara-cikti/4107548",
-   "zaman": "2026-10-31T19:56:36+03:00",
-   "kelimeler": [
-    "cikti",
-    "frans",
-    "hayat",
-    "karsi",
-    "pahal",
-    "sari",
-    "sokak",
-    "yelek",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6d14e715f360": {
-   "id": "6d14e715f360",
-   "kaynak": "Hürriyet",
-   "baslik": "Alman polisinin kayıp ilanı verdiği kadın İstanbul’da hastanede çıktı",
-   "ozet": "Alman polisinin kayıp ilanı verdiği ve İstanbul Havalimanı’na geldikten sonra kendisinden haber alınamayan 39 yaşındaki Alman vatandaşı Alisa Nikolova-Merx'in Taksim Eğitim ve Araştırma Hastanesi'nde tedavi gördüğü ortaya çıktı.",
-   "link": "https://www.hurriyet.com.tr/gundem/alman-polisinin-kayip-ilani-verdigi-kadin-istanbulda-hastanede-cikti-43361910",
-   "zaman": "2026-10-31T20:00:17+03:00",
-   "kelimeler": [
-    "alman",
-    "cikti",
-    "hasta",
-    "ilani",
-    "istan",
-    "kadin",
-    "kayip",
-    "polis",
-    "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
   "b612fd3131b4": {
    "id": "b612fd3131b4",
    "kaynak": "AA",
@@ -27103,7 +27004,11 @@
     "yalan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "AA"
+   ]
   },
   "4268897f51fb": {
    "id": "4268897f51fb",
@@ -27286,9 +27191,83 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d6344f9f210a"
+  },
+  "8ce1566d53cc": {
+   "id": "8ce1566d53cc",
+   "kaynak": "TRT Haber",
+   "baslik": "DMM: Şişli Haydar Aliyev Parkı'ndaki büstün kaldırılacağı iddiası asılsız",
+   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür merkezi yapılacağı\" iddiasını yalanladı.",
+   "link": "https://www.trthaber.com/haber/gundem/dmm-sisli-haydar-aliyev-parkindaki-bustun-kaldirilacagi-iddiasi-asilsiz-962129.html",
+   "zaman": "2026-11-03T19:46:00+03:00",
+   "kelimeler": [
+    "aliye",
+    "asils",
+    "bustu",
+    "dmm",
+    "hayda",
+    "iddia",
+    "kaldi",
+    "ndaki",
+    "parki",
+    "sisli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5fad30c4b763"
+  },
+  "6a93f70a9383": {
+   "id": "6a93f70a9383",
+   "kaynak": "AA",
+   "baslik": "Irak Başbakanı Zeydi'den Kerkük'teki elektrik ve yakıt krizinin çözümüne yönelik talimat",
+   "ozet": "Irak Başbakanı Ali Falih ez-Zeydi, Kerkük kentinde halkın protesto gösterileri düzenlemesine yol açan elektrik kesintileri, yakıt sıkıntısı ve mahalle jeneratörlerine yapılan zamların çözüme kavuşturulması için talimat verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydiden-kerkukteki-elektrik-ve-yakit-krizinin-cozumune-yonelik-talimat/4110352",
+   "zaman": "2026-11-03T19:47:26+03:00",
+   "kelimeler": [
+    "basba",
+    "cozum",
+    "den",
+    "elekt",
+    "irak",
+    "kerku",
+    "krizi",
+    "talim",
+    "teki",
+    "yakit",
+    "yonel",
+    "zeydi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8e97aae4e66e": {
+   "id": "8e97aae4e66e",
+   "kaynak": "AA",
+   "baslik": "DMM \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı\" iddiasını yalanladı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür merkezi yapılacağı\" iddiasını yalanladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/dmm-sislideki-haydar-aliyev-parkinda-bulunan-bustun-kaldirilacagi-iddiasini-yalanladi/4110353",
+   "zaman": "2026-11-03T19:47:49+03:00",
+   "kelimeler": [
+    "aliye",
+    "bulun",
+    "bustu",
+    "deki",
+    "dmm",
+    "hayda",
+    "iddia",
+    "kaldi",
+    "nda",
+    "parki",
+    "sisli",
+    "yalan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5fad30c4b763"
   }
  },
  "kayit": [
+  "03.11 20:01:44  1 yeni haber",
+  "03.11 20:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 19:48:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 19 yıllık 'mumya ceset' cinayetinde yeni gelişme: 3 kişi tutuklandı",
   "03.11 19:46:11  2 yeni haber",
   "03.11 19:31:29  4 yeni haber",
@@ -27486,9 +27465,7 @@
   "01.11 18:31:18  3 yeni haber",
   "01.11 18:16:00  4 yeni haber",
   "01.11 18:01:53  2 yeni haber",
-  "01.11 17:46:04  1 yeni haber",
-  "01.11 17:31:08  2 yeni haber",
-  "01.11 17:16:03  3 yeni haber"
+  "01.11 17:46:04  1 yeni haber"
  ],
  "otomatik": false
 }
