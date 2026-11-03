@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "15cebaba750f": {
-   "id": "15cebaba750f",
-   "kaynak": "TRT Haber",
-   "baslik": "Hamaneyden olası saldırılara karşı ani ve coğrafi sınırı olmayan cevap verilmesi talimatı",
-   "ozet": "İran lideri Mücteba Hamaney'in, ABD ile yeni bir çatışma yaşanabileceğine ilişkin iddiaların gündeme gelmesinin ardından üst düzey askeri yetkililerle bir araya gelerek olası saldırılara karşı \"ani ve coğrafi sınır tanımayan bir karşılık verilmesi\" talimatını verdiği bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/hamaneyden-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati-961821.html",
-   "zaman": "2026-10-31T14:33:00+03:00",
-   "kelimeler": [
-    "ani",
-    "cevap",
-    "cogra",
-    "haman",
-    "karsi",
-    "olasi",
-    "olmay",
-    "saldi",
-    "sinir",
-    "talim",
-    "veril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "78b2e7910cec"
-  },
-  "58069cdf7ed9": {
-   "id": "58069cdf7ed9",
-   "kaynak": "AA",
-   "baslik": "\"COP31 İklim Teknolojileri Creathonu\"na başvurular sürüyor",
-   "ozet": "Küresel iklim zirvesi COP31 kapsamında, iklim krizine karşı teknoloji odaklı çözümler geliştirmeyi hedefleyen \"COP31 İklim Teknolojileri Creathonu\" için başvurular 2 Kasım'a kadar devam edecek.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cop31-iklim-teknolojileri-creathonuna-basvurular-suruyor/4107279",
-   "zaman": "2026-10-31T14:41:23+03:00",
-   "kelimeler": [
-    "basvu",
-    "cop31",
-    "creat",
-    "iklim",
-    "na",
-    "suruy",
-    "tekno"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "214a07be522c": {
-   "id": "214a07be522c",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan: Tıbbi ekipmanlarımızı artık biz üretiyoruz",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, vizyonlarının sağlıklı Türkiye yüzyılı vizyonu olduğunu söyledi. Erdoğan, Türkiye'nin tıbbi ekipmanlarını artık kendisinin ürettiğini anlattı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-cumhurbaskani-erdogan-tibbi-ekipmanlarimizi-artik-biz-uretiyoruz-1748789",
-   "zaman": "2026-10-31T14:45:08+03:00",
-   "kelimeler": [
-    "artik",
-    "biz",
-    "cumhu",
-    "ekipm",
-    "erdog",
-    "tibbi",
-    "ureti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "847f5743c46f": {
-   "id": "847f5743c46f",
-   "kaynak": "TRT Haber",
-   "baslik": "Ukrayna: Saldırılar nedeniyle Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin aile elektriksiz",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun düzenlediği hava saldırıları nedeniyle ülkesindeki Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin ailenin elektriksiz kaldığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-saldirilar-nedeniyle-kiev-ve-dnipropetrovsk-bolgelerinde-yaklasik-280-bin-aile-elektriksiz-961822.html",
-   "zaman": "2026-10-31T14:41:00+03:00",
-   "kelimeler": [
-    "280",
-    "aile",
-    "bin",
-    "bolge",
-    "dnipr",
-    "elekt",
-    "kiev",
-    "neden",
-    "saldi",
-    "ukray",
-    "yakla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "569868ad1268": {
-   "id": "569868ad1268",
-   "kaynak": "AA",
-   "baslik": "Bakan Kacır, TÜRKPATENT'in ücret tarifesine ilişkin düzenlemeyi değerlendirdi",
-   "ozet": "Bakan Kacır, Türk Patent ve Marka Kurumunun (TÜRKPATENT), KOBİ'lerin buluşlarının ve ülkedeki yapay zeka alanında geliştirilen yeniliklerin patentlenmesini teşvik etmek amacıyla önemli bir indirim uygulamasını hayata geçirdiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-turkpatentin-ucret-tarifesine-iliskin-duzenlemeyi-degerlendirdi/4107280",
-   "zaman": "2026-10-31T14:41:49+03:00",
-   "kelimeler": [
-    "bakan",
-    "deger",
-    "duzen",
-    "ilisk",
-    "in",
-    "kacir",
-    "tarif",
-    "turkp",
-    "ucret"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "bf0b1b2117ba": {
    "id": "bf0b1b2117ba",
    "kaynak": "XHABER",
@@ -19905,7 +19799,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "a31e4ae70b8c": {
    "id": "a31e4ae70b8c",
@@ -25612,7 +25509,8 @@
     "verme"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "bcaad21eefab": {
    "id": "bcaad21eefab",
@@ -25719,9 +25617,274 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bc0764bdbc0e": {
+   "id": "bc0764bdbc0e",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail'de muhalefet liderleri, acil hükümet kurma gündemiyle bir araya geldi",
+   "ozet": "İsrail'de, sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim seçimlerinin ardından, muhalefet bloku liderleri \"acil hükümet kurma\" gündemiyle bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/dunya/israilde-muhalefet-liderleri-acil-hukumet-kurma-gundemiyle-bir-araya-geldi-962087.html",
+   "zaman": "2026-11-03T12:29:00+03:00",
+   "kelimeler": [
+    "araya",
+    "geldi",
+    "gunde",
+    "hukum",
+    "israi",
+    "kurma",
+    "lider",
+    "muhal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "08c5b506c684": {
+   "id": "08c5b506c684",
+   "kaynak": "AA",
+   "baslik": "Savunma ve havacılık ihracatı ekimde 1,1 milyar doları aştı",
+   "ozet": "Türkiye'nin savunma ve havacılık sanayisi ihracatı, ekim ayında geçen yılın aynı dönemine göre yüzde 61 artarak 1 milyar 140 milyon dolara ulaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-ihracati-ekimde-1-1-milyar-dolari-asti/4109783",
+   "zaman": "2026-11-03T13:20:02+03:00",
+   "kelimeler": [
+    "asti",
+    "dolar",
+    "ekimd",
+    "havac",
+    "ihrac",
+    "milya",
+    "savun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110cc1cc62e5"
+  },
+  "c06b37b05a2d": {
+   "id": "c06b37b05a2d",
+   "kaynak": "AA",
+   "baslik": "ABD'de ara seçimlerde oy kullanma işlemi başladı",
+   "ozet": "ABD'de Başkan Donald Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde oy verme işlemi başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerde-oy-kullanma-islemi-basladi/4109862",
+   "zaman": "2026-11-03T14:11:12+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "basla",
+    "islem",
+    "kulla",
+    "oy",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "060ab3d3c8d9"
+  },
+  "cee0fbe5c483": {
+   "id": "cee0fbe5c483",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeni nesil ASELSAN deniz savunma sistemleri EURONAVAL'da boy gösteriyor",
+   "ozet": "ASELSAN, EURONAVAL 2026'da yeni nesil deniz savunma sistemlerini uluslararası ziyaretçilerle buluşturuyor.",
+   "link": "https://www.trthaber.com/haber/savunma/yeni-nesil-aselsan-deniz-savunma-sistemleri-euronavalda-boy-gosteriyor-962088.html",
+   "zaman": "2026-11-03T14:13:00+03:00",
+   "kelimeler": [
+    "asels",
+    "boy",
+    "deniz",
+    "euron",
+    "goste",
+    "nesil",
+    "savun",
+    "siste",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "cc4ac477ac6d": {
+   "id": "cc4ac477ac6d",
+   "kaynak": "AA",
+   "baslik": "ABD'li gazeteci Carlson'ın \"İran'a nükleer saldırı\" iddiası sonrası Kazma Dağı yeniden gündemde",
+   "ozet": "ABD’li gazeteci Tucker Carlson'ın, İsrail Başbakanı Binyamin Netanyahu'nun baskısıyla ABD'nin İran'a nükleer saldırı düzenleyebileceği iddiası sonrası gözler, Tahran'ın nükleer tesislerine ev sahipliği yaptığı iddia edilen Kazma Dağı'na çevrildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-gazeteci-carlsonin-irana-nukleer-saldiri-iddiasi-sonrasi-kazma-dagi-yeniden-gundemde/4109875",
+   "zaman": "2026-11-03T14:15:02+03:00",
+   "kelimeler": [
+    "abd",
+    "carls",
+    "dagi",
+    "gazet",
+    "gunde",
+    "iddia",
+    "in",
+    "iran",
+    "kazma",
+    "li",
+    "nukle",
+    "saldi",
+    "sonra",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "39ff1b3da858": {
+   "id": "39ff1b3da858",
+   "kaynak": "AA",
+   "baslik": "Deniz savunmasında yeni nesil ASELSAN çözümleri EURONAVAL'da boy gösteriyor",
+   "ozet": "ASELSAN, EURONAVAL 2026'da yeni nesil deniz savunma sistemlerini uluslararası ziyaretçilerle buluşturuyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/deniz-savunmasinda-yeni-nesil-aselsan-cozumleri-euronavalda-boy-gosteriyor/4109898",
+   "zaman": "2026-11-03T14:24:17+03:00",
+   "kelimeler": [
+    "asels",
+    "boy",
+    "cozum",
+    "deniz",
+    "euron",
+    "goste",
+    "nesil",
+    "savun",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cee0fbe5c483"
+  },
+  "5a7b8bb8d45f": {
+   "id": "5a7b8bb8d45f",
+   "kaynak": "Hürriyet",
+   "baslik": "Meriç'te can pazarı: Botları battı, iki çocuk akıntıya kapıldı",
+   "ozet": "Sabah saatlerinde Meriç Nehri'ni geçmeye çalışan 4 kişilik göçmen ailenin botu alabora oldu. Anne ve baba kendi imkanlarıyla kıyıya ulaşarak kurtulurken, nehirde kaybolan iki kardeş için bölgede geniş çaplı kurtarma operasyonu başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mericte-can-pazari-botlari-batti-iki-cocuk-akintiya-kapildi-43364562",
+   "zaman": "2026-11-03T14:28:19+03:00",
+   "kelimeler": [
+    "akint",
+    "batti",
+    "botla",
+    "can",
+    "cocuk",
+    "iki",
+    "kapil",
+    "meric",
+    "pazar",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b9ecdc18705d": {
+   "id": "b9ecdc18705d",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: Güney Kore ile ortak geçmişimizi müreffeh bir gelecek için yeni ufuklara taşımak istiyoruz",
+   "ozet": "Cumhurbaşkanı Erdoğan, Güney Kore'de onuruna verilen akşam yemeğindeki konuşmasında, \"Ortak geçmişimizi, vatandaşlarımızın müreffeh geleceğine ve dünyada barışın tesisine katkı verebileceğimiz yeni ufuklara taşımak istiyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-kore-ile-ortak-gecmisimizi-mureffeh-bir-gelecek-icin-yeni-ufuklara-tasimak-istiyoruz/4109919",
+   "zaman": "2026-11-03T14:30:18+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gecmi",
+    "gelec",
+    "guney",
+    "istiy",
+    "kore",
+    "muref",
+    "ortak",
+    "tasim",
+    "ufukl",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "95256e1f7f29": {
+   "id": "95256e1f7f29",
+   "kaynak": "NTV",
+   "baslik": "Özgür Özel'den Emir Sarıgül'ün 600 bin dolar iddiasına yanıt",
+   "ozet": "Kara para soruşturmasında tutuklanan Emir Sarıgül, babası Mustafa Sarıgül'ün Yeni Parti lideri Özgür Özel'e 600 bin dolar para verdiğini öne sürmüştü. Özel, parayla işinin olmadığını savundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozelden-emir-sarigulun-600-bin-dolar-iddiasina-yanit-1749231",
+   "zaman": "2026-11-03T14:30:46+03:00",
+   "kelimeler": [
+    "600",
+    "bin",
+    "den",
+    "dolar",
+    "emir",
+    "iddia",
+    "ozel",
+    "ozgur",
+    "sarig",
+    "un",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "768d462f8d39"
+  },
+  "56685466810d": {
+   "id": "56685466810d",
+   "kaynak": "TRT Haber",
+   "baslik": "Erdoğan'dan Güney Kore'ye: Uzak ama kalben yakın iki milletiz",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Asya'nın iki ucunda birbirlerinden uzak ama kalben yakın iki milletiz. Eğer kader insanları buluşturacaksa, mesafelerin engel olamayacağına en güzel örneğiz.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/erdogandan-guney-koreye-uzak-ama-kalben-yakin-iki-milletiz-962089.html",
+   "zaman": "2026-11-03T14:33:00+03:00",
+   "kelimeler": [
+    "ama",
+    "dan",
+    "erdog",
+    "guney",
+    "iki",
+    "kalbe",
+    "kore",
+    "mille",
+    "uzak",
+    "yakin",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1393b360412b": {
+   "id": "1393b360412b",
+   "kaynak": "Hürriyet",
+   "baslik": "Formula 1’in Türkiye’ye dönüşü WTM Londra Turizm Fuarı’nda tanıtıldı",
+   "ozet": "Formula 1’in 2027’de Türkiye’ye dönüşü, WTM Londra Turizm Fuarı’nda tanıtıldı. Türkiye standı önünde basın mensuplarının sorularını yanıtlayan Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, dünya pazarında 60’tan fazla turizm ürünüyle tanıtım yaptıklarını belirterek destinasyon ve…",
+   "link": "https://www.hurriyet.com.tr/gundem/formula-1in-turkiyeye-donusu-wtm-londra-turizm-fuarinda-tanitildi-43364580",
+   "zaman": "2026-11-03T14:36:00+03:00",
+   "kelimeler": [
+    "donus",
+    "formu",
+    "fuari",
+    "in",
+    "londr",
+    "nda",
+    "tanit",
+    "turiz",
+    "turki",
+    "wtm",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "edacbd8cdfb7": {
+   "id": "edacbd8cdfb7",
+   "kaynak": "Sözcü",
+   "baslik": "Akdeniz'de korkutan deprem!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-akdeniz-de-korkutan-deprem-p375623",
+   "zaman": "2026-11-03T14:38:36+03:00",
+   "kelimeler": [
+    "akden",
+    "depre",
+    "korku"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "55ff35338296"
   }
  },
  "kayit": [
+  "03.11 14:46:55  7 yeni haber",
   "03.11 14:31:16  5 yeni haber",
   "03.11 14:16:04  6 yeni haber",
   "03.11 14:01:32  4 yeni haber",
@@ -25920,8 +26083,7 @@
   "01.11 12:42:07  1 yeni haber",
   "01.11 12:31:07  5 yeni haber",
   "01.11 12:15:56  7 yeni haber",
-  "01.11 12:01:22  6 yeni haber",
-  "01.11 11:45:59  9 yeni haber"
+  "01.11 12:01:22  6 yeni haber"
  ],
  "otomatik": false
 }
