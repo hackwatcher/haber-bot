@@ -23960,7 +23960,10 @@
     "yuvar"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "68c2351b43d8": {
    "id": "68c2351b43d8",
@@ -24003,9 +24006,132 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f136811633f6": {
+   "id": "f136811633f6",
+   "kaynak": "TRT Haber",
+   "baslik": "Titanic'ten büyük tarihi okyanus gemisi Florida açıklarında batırılacak",
+   "ozet": "ABD'nin ikonik okyanus gemisi SS United States, dünyanın en büyük yapay resifini oluşturmak üzere Meksika Körfezi'nde batırılmaya hazırlanıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/titanicten-buyuk-tarihi-okyanus-gemisi-florida-aciklarinda-batirilacak-962026.html",
+   "zaman": "2026-11-03T08:27:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "batir",
+    "buyuk",
+    "flori",
+    "gemis",
+    "okyan",
+    "tarih",
+    "ten",
+    "titan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9c46206cebc4": {
+   "id": "9c46206cebc4",
+   "kaynak": "TRT Haber",
+   "baslik": "Konya'da yolcu otobüsü devrildi: 45 yaralı",
+   "ozet": "IspartaBeyşehir kara yolunda seyir halindeki yolcu otobüsü şarampole devrildi. Kazada 45 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/konyada-yolcu-otobusu-devrildi-45-yarali-962025.html",
+   "zaman": "2026-11-03T08:28:00+03:00",
+   "kelimeler": [
+    "45",
+    "devri",
+    "konya",
+    "otobu",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8cb83b66dd46"
+  },
+  "fb27479260a3": {
+   "id": "fb27479260a3",
+   "kaynak": "AA",
+   "baslik": "Rusya'nın Yaroslavl bölgesine İHA saldırısı düzenlendi",
+   "ozet": "Ukrayna'nın, Rusya'nın Yaroslavl bölgesine insansız hava araçlarıyla (İHA) saldırı düzenlediği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-yaroslavl-bolgesine-iha-saldirisi-duzenlendi/4109284",
+   "zaman": "2026-11-03T08:34:48+03:00",
+   "kelimeler": [
+    "bolge",
+    "duzen",
+    "iha",
+    "nin",
+    "rusya",
+    "saldi",
+    "yaros"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba13e494eb3c": {
+   "id": "ba13e494eb3c",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da öğrenciler okul ablukalarına yeniden başladı: Ülke yeni protestolara hazırlanıyor",
+   "ozet": "Fransa'da lise öğrencileri okul şartları ve hayat pahalılığını protesto etmek amacıyla okulları yeniden ablukaya alırken, hükümet ülke genelinde düzenlenecek yeni grev ve eylemlere hazırlanıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-ogrenciler-okul-ablukalarina-yeniden-basladi-ulke-yeni-protestolara-hazirlaniyor-962027.html",
+   "zaman": "2026-11-03T08:36:00+03:00",
+   "kelimeler": [
+    "abluk",
+    "basla",
+    "frans",
+    "hazir",
+    "ogren",
+    "okul",
+    "prote",
+    "ulke",
+    "yeni",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2367073e05cc": {
+   "id": "2367073e05cc",
+   "kaynak": "NTV",
+   "baslik": "2+1 kiralık evi hostel yaptı, kendi ödediği kirayı katladı",
+   "ozet": "İstanbul'da geçen yıl kiralanan 2+1 dairenin hostele çevrildiği iddia edildi. 25 bin lira kira ödeyen kiracının eve yerleştirdiği yatakları aylık 15 bin liradan göçmenlere kiraladığı öne sürüldü.",
+   "link": "https://www.ntv.com.tr/turkiye/21-kiralik-evi-hostel-yapti-kendi-odedigi-kirayi-katladi-1749132",
+   "zaman": "2026-11-03T08:40:23+03:00",
+   "kelimeler": [
+    "evi",
+    "hoste",
+    "katla",
+    "kendi",
+    "kiral",
+    "kiray",
+    "odedi",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "16b252d71aba": {
+   "id": "16b252d71aba",
+   "kaynak": "NTV",
+   "baslik": "KYK burs sonuçları sorgulama ekranı 2026-2027. KYK burs başvuru sonuçları açıklandı mı?",
+   "ozet": "KYK burs sonuçlarının ne zaman açıklanacağıyla ilgili tarih araştırmaları sürmeye devam ediyor. Bu yıl ilk kez üniversiteye başlayan ve eğitim hayatına maddi destek almak isteyen öğrenciler, 16 Ekim'de KYK burs başvuru işlemlerini tamamladı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-sonuclari-sorgulama-ekrani-2026-2027-kyk-burs-basvuru-sonuclari-aciklandi-mi-1749138",
+   "zaman": "2026-11-03T08:43:49+03:00",
+   "kelimeler": [
+    "2026",
+    "2027",
+    "acikl",
+    "basvu",
+    "burs",
+    "ekran",
+    "kyk",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 08:46:04  5 yeni haber",
   "03.11 08:31:59  5 yeni haber",
   "03.11 08:19:03  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'de özel jet otoyola çakıldı: Aynı aileden 4 kişi dahil 9 kişi öldü",
   "03.11 08:15:59  3 yeni haber",
@@ -24204,8 +24330,7 @@
   "01.11 02:44:49  3 yeni haber",
   "01.11 02:16:46  2 yeni haber",
   "01.11 01:49:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
-  "01.11 01:31:22  2 yeni haber",
-  "01.11 01:18:04  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Aziz Yıldırım, istifa etmeyi düşünüyor."
+  "01.11 01:31:22  2 yeni haber"
  ],
  "otomatik": false
 }
