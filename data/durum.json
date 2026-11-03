@@ -23487,7 +23487,8 @@
     "seria"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5837d9b11244": {
    "id": "5837d9b11244",
@@ -23573,9 +23574,71 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "47e4df73f5be"
+  },
+  "1317e5d2cdbf": {
+   "id": "1317e5d2cdbf",
+   "kaynak": "TRT Haber",
+   "baslik": "Ukrayna ve Rusya heyetleri ABD ara buluculuğunda bir araya gelecek",
+   "ozet": "Rusya ve Ukrayna arasında yeni bir müzakere turu başlıyor. ABD Özel Temsilcisi Steve Witkoff, tarafların ABD ara buluculuğunda 1011 Kasım'da Abu Dabi'de bir araya geleceğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/ukrayna-ve-rusya-heyetleri-abd-ara-buluculugunda-bir-araya-gelecek-962006.html",
+   "zaman": "2026-11-03T02:42:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "araya",
+    "buluc",
+    "gelec",
+    "heyet",
+    "rusya",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "18f90e8d035e": {
+   "id": "18f90e8d035e",
+   "kaynak": "AA",
+   "baslik": "İsrail askerlerinin Batı Şeria'daki baskınlarında 2 Filistinli yaralandı",
+   "ozet": "İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bati-seriadaki-baskinlarinda-2-filistinli-yaralandi/4109252",
+   "zaman": "2026-11-03T02:50:56+03:00",
+   "kelimeler": [
+    "asker",
+    "baski",
+    "bati",
+    "daki",
+    "filis",
+    "israi",
+    "seria",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "be26c5463654"
+  },
+  "8dd0e341a5cf": {
+   "id": "8dd0e341a5cf",
+   "kaynak": "AA",
+   "baslik": "ABD, Ukrayna ile Rusya arasında yürütülecek müzakerelerde arabuluculuk yapacak",
+   "ozet": "ABD'nin, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında çalışma düzeyinde yürütülecek müzakerelere arabuluculuk yapacağı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-yapacak/4109254",
+   "zaman": "2026-11-03T02:59:03+03:00",
+   "kelimeler": [
+    "abd",
+    "arabu",
+    "arasi",
+    "muzak",
+    "rusya",
+    "ukray",
+    "yapac",
+    "yurut"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 03:01:46  2 yeni haber",
   "03.11 02:15:59  1 yeni haber",
   "03.11 02:01:23  2 yeni haber",
   "03.11 01:03:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
@@ -23774,8 +23837,7 @@
   "31.10 21:31:17  1 yeni haber",
   "31.10 21:01:29  2 yeni haber",
   "31.10 20:46:01  1 yeni haber",
-  "31.10 20:31:55  1 yeni haber",
-  "31.10 20:25:17  3 yeni haber"
+  "31.10 20:31:55  1 yeni haber"
  ],
  "otomatik": false
 }
