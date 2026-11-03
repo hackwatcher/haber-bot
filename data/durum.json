@@ -474,29 +474,6 @@
     "AA"
    ]
   },
-  "6df36e68d380": {
-   "id": "6df36e68d380",
-   "kaynak": "AA",
-   "baslik": "Katar'da 2027 FIBA Basketbol Dünya Kupası için 300 günlük geri sayım başladı",
-   "ozet": "Katar'ın ev sahipliğinde düzenlenecek 2027 FIBA Basketbol Dünya Kupası'na 300 gün kala, başkent Doha'da düzenlenen törenle geri sayım saati başlatıldı.",
-   "link": "https://www.aa.com.tr/tr/spor/katarda-2027-fiba-basketbol-dunya-kupasi-icin-300-gunluk-geri-sayim-basladi/4107594",
-   "zaman": "2026-10-31T21:20:36+03:00",
-   "kelimeler": [
-    "2027",
-    "300",
-    "baske",
-    "basla",
-    "dunya",
-    "fiba",
-    "geri",
-    "gunlu",
-    "katar",
-    "kupas",
-    "sayim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e5ba2bb7cb56": {
    "id": "e5ba2bb7cb56",
    "kaynak": "TRT Haber",
@@ -27309,7 +27286,8 @@
     "yedi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "64b8cf2bbe1f": {
    "id": "64b8cf2bbe1f",
@@ -27348,9 +27326,77 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "ef62e39433f2": {
+   "id": "ef62e39433f2",
+   "kaynak": "Hürriyet",
+   "baslik": "İlan sitesine 111 lira yazdı, 6 bin lira istedi! 1 milyon 83 bin 706 lira ceza yedi",
+   "ozet": "Ticaret Bakanlığı, bir ilan sitesinde 111 lira fiyat yazıp satın almak isteyene 6 bin lira fiyat veren otomobil yedek parça satıcısına, 1 milyon 83 bin 706 lira idari para cezası verildiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ilan-sitesine-111-lira-yazdi-6-bin-lira-istedi-1-milyon-83-bin-706-lira-ceza-yedi-43365065",
+   "zaman": "2026-11-03T21:10:00+03:00",
+   "kelimeler": [
+    "111",
+    "706",
+    "83",
+    "bin",
+    "ceza",
+    "ilan",
+    "isted",
+    "lira",
+    "milyo",
+    "sites",
+    "yazdi",
+    "yedi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7112cf142f9"
+  },
+  "7c854c6fa5e3": {
+   "id": "7c854c6fa5e3",
+   "kaynak": "AA",
+   "baslik": "İsrail'de muhalefet, hükümet kurmak için Haredi partileriyle işbirliği arıyor",
+   "ozet": "İsrail'de muhalefet lideri Gadi Eisenkot'un Netanyahu'yu iktidardan uzaklaştırmak için Haredi partilerle işbirliği arayışına, Şas'ın Netanyahu'ya desteğini sürdürme kararı gölge düşürdü ve siyasi çıkmazı derinleştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-hukumet-kurmak-icin-haredi-partileriyle-isbirligi-ariyor/4110431",
+   "zaman": "2026-11-03T21:22:16+03:00",
+   "kelimeler": [
+    "ariyo",
+    "hared",
+    "hukum",
+    "isbir",
+    "israi",
+    "kurma",
+    "muhal",
+    "parti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0913b8a01f3e": {
+   "id": "0913b8a01f3e",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD'nin ilk Müslüman senatörü olabilecek Abdul El-Sayed kimdir?",
+   "ozet": "Michigan eyaletinde yapılan anketler, Demokrat Parti adayı Abdul El-Sayed'in ülkenin ilk Müslüman senatörü olacağını gösteriyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmwyqjz313ggo",
+   "zaman": "2026-11-03T21:22:33+03:00",
+   "kelimeler": [
+    "abd",
+    "abdul",
+    "el",
+    "ilk",
+    "kimdi",
+    "muslu",
+    "nin",
+    "olabi",
+    "sayed",
+    "senat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 21:31:47  2 yeni haber",
   "03.11 21:20:16  8 yeni haber",
   "03.11 21:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 20:56:37  6 yeni haber",
@@ -27549,8 +27595,7 @@
   "01.11 19:46:15  3 yeni haber",
   "01.11 19:23:08  1 yeni haber",
   "01.11 19:18:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli motosikletçi Kadir Erbay, İspanya Superbike Şampiyonası'nda ilk ",
-  "01.11 19:15:57  1 yeni haber",
-  "01.11 19:01:21  1 yeni haber"
+  "01.11 19:15:57  1 yeni haber"
  ],
  "otomatik": false
 }
