@@ -27546,7 +27546,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "TRT Haber"
    ]
   },
   "9261f7a4d312": {
@@ -27614,6 +27615,26 @@
     "trump",
     "yasam",
     "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3ecc3a145ad2"
+  },
+  "80f20e3638d7": {
+   "id": "80f20e3638d7",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
+   "ozet": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi-962150.html",
+   "zaman": "2026-11-04T02:12:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "ilk",
+    "kapan",
+    "kongr",
+    "sandi",
+    "secim"
    ],
    "durum": "tekrar",
    "oncelikli": false,
