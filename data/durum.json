@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "f17a4b9b29f9": {
-   "id": "f17a4b9b29f9",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel piyasalarda yön arayışı sürüyor",
-   "ozet": "ABD'li teknoloji şirketlerinin açıkladığı bilançolardan gelen karışık sinyaller ve yapay zeka harcamalarının karlılığına dair endişelerle haftayı dalgalı tamamlayan küresel piyasalarda gözler, yeni rotayı belirleyecek olan ABD tarım dışı istihdam ve yurt içi enflasyon verilerine…",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yon-arayisi-suruyor-961800.html",
-   "zaman": "2026-10-31T11:32:00+03:00",
-   "kelimeler": [
-    "arayi",
-    "kures",
-    "piyas",
-    "suruy",
-    "yon"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4901d78c5ab1": {
-   "id": "4901d78c5ab1",
-   "kaynak": "AA",
-   "baslik": "Bakan Ersoy: Türk mutfağını dünyada hak ettiği zirveye taşımak için çalışıyoruz",
-   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, \"Türk mutfağını dünyada hak ettiği zirveye taşımak ve küresel bilinirliğini artırmak için çalışıyoruz. Festivali Türk mutfağının zenginliğini tanıtmak için bir vitrin olarak kullanıyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/kultur/bakan-ersoy-turk-mutfagini-dunyada-hak-ettigi-zirveye-tasimak-icin-calisiyoruz/4107144",
-   "zaman": "2026-10-31T11:45:26+03:00",
-   "kelimeler": [
-    "bakan",
-    "calis",
-    "dunya",
-    "ersoy",
-    "ettig",
-    "hak",
-    "mutfa",
-    "tasim",
-    "turk",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ec72e15462b8": {
-   "id": "ec72e15462b8",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara Devlet Tiyatrosu'nun yeni sezonda hedefi 500 bini aşkın seyirciye ulaşmak",
-   "ozet": "Ankara Devlet Tiyatrosu, yeni sezonda 15 oyunun prömiyerini gerçekleştirerek, 500 binin üzerinde seyirciye ulaşmayı hedefliyor. Atatürk'ün Kurtuluş Savaşı öncesindeki yaşamı \"Koza\" ile sahneye taşınacak, Türkistan'dan Balkanlar'a uzanan hikaye \"Geçit\" oyunuyla anlatılacak.",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/ankara-devlet-tiyatrosunun-yeni-sezonda-hedefi-500-bini-askin-seyirciye-ulasmak-961803.html",
-   "zaman": "2026-10-31T11:47:00+03:00",
-   "kelimeler": [
-    "500",
-    "ankar",
-    "askin",
-    "bini",
-    "devle",
-    "hedef",
-    "nun",
-    "seyir",
-    "sezon",
-    "tiyat",
-    "ulasm",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "3e7b391c3a67": {
-   "id": "3e7b391c3a67",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye ile Kuzey Makedonya arasında sağlıkta işbirliği",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Türkiye ile Kuzey Makedonya arasında sağlık alanındaki işbirliğini geliştirmek amacıyla \"Sağlık ve Tıp Bilimleri Alanında Mutabakat Zaptı\" imzalandığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-kuzey-makedonya-arasinda-saglikta-isbirligi-961802.html",
-   "zaman": "2026-10-31T11:47:00+03:00",
-   "kelimeler": [
-    "arasi",
-    "isbir",
-    "kuzey",
-    "maked",
-    "sagli",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "66b8d56ca565": {
    "id": "66b8d56ca565",
    "kaynak": "BBC Türkçe",
@@ -24982,7 +24895,11 @@
     "yapin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "BBC Türkçe"
+   ]
   },
   "44e838311aa6": {
    "id": "44e838311aa6",
@@ -25006,9 +24923,295 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f3803a5d5409"
+  },
+  "0f2aafabdcc1": {
+   "id": "0f2aafabdcc1",
+   "kaynak": "AA",
+   "baslik": "Erzincan Lisesinin 142 yıllık eğitim yolculuğu",
+   "ozet": "Kapılarını 1884'te \"Rüştiye-i Askeriye\" adıyla açan ve Milli Eğitim Bakanlığının \"Tarihi 100 Lise\" listesinde yer alan Erzincan Lisesi, köklü geçmişiyle bürokrasiden siyasete, bilimden sanata binlerce mezun yetiştirdi.",
+   "link": "https://www.aa.com.tr/tr/kultur/erzincan-lisesinin-142-yillik-egitim-yolculugu/4109459",
+   "zaman": "2026-11-03T11:02:42+03:00",
+   "kelimeler": [
+    "142",
+    "egiti",
+    "erzin",
+    "lises",
+    "yilli",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "69e00edb2dda": {
+   "id": "69e00edb2dda",
+   "kaynak": "AA",
+   "baslik": "ABD'de 3 Kasım seçimlerinin kaderini ekonomi, İran savaşı ve sağlık hizmetleri belirleyecek",
+   "ozet": "ABD'de bugün yapılacak Kongre ara seçimleri için geri sayım sürerken Amerikalı seçmenlerin oy verme tercihlerinde hayat pahalılığı, artan akaryakıt fiyatları, İran savaşının etkileri ve sağlık hizmetleri en önemli başlıklar olarak öne çıkıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-3-kasim-secimlerinin-kaderini-ekonomi-iran-savasi-ve-saglik-hizmetleri-belirleyecek/4109475",
+   "zaman": "2026-11-03T11:08:52+03:00",
+   "kelimeler": [
+    "abd",
+    "belir",
+    "ekono",
+    "hizme",
+    "iran",
+    "kader",
+    "kasim",
+    "sagli",
+    "savas",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d9d524bd9f14": {
+   "id": "d9d524bd9f14",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk devletlerinden uzayda Turan hedefi",
+   "ozet": "Türk Devletleri Teşkilatı TDT uzay bilimi, teknolojisi ve inovasyon alanındaki küresel görünürlüğünü artırmak ve ortaklığını güçlendirmek amacıyla yeni projelere odaklanırken \"Türk Dünyası Uzay Günleri\" ile bağları güçlendirmeyi hedefliyor.",
+   "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-devletlerinden-uzayda-turan-hedefi-962063.html",
+   "zaman": "2026-11-03T11:22:00+03:00",
+   "kelimeler": [
+    "devle",
+    "hedef",
+    "turan",
+    "turk",
+    "uzayd"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3230ddc833c4": {
+   "id": "3230ddc833c4",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Gürlek: Fon soruşturmasında kapsamlı suç yapısı tespit edildi",
+   "ozet": "Adalet Bakanı Gürlek, \"fon soruşturması\" kapsamında üst düzey finans bürokrasisini de kapsayan organize bir suç şebekesinin tespit edildiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-kapsamli-suc-yapisi-tespit-edildi-962062.html",
+   "zaman": "2026-11-03T11:22:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "edild",
+    "fon",
+    "gurle",
+    "kapsa",
+    "sorus",
+    "suc",
+    "tespi",
+    "yapis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "934d368d84ab"
+  },
+  "63883e12eaf3": {
+   "id": "63883e12eaf3",
+   "kaynak": "AA",
+   "baslik": "Filipinler'deki Mayon Yanardağı’nda son 24 saatte 13 volkanik deprem yaşandı",
+   "ozet": "Filipinler'in başkenti Manila'nın 330 kilometre güneydoğusundaki Mayon Yanardağı'nda son 24 saatte 13 volkanik deprem yaşandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/filipinlerdeki-mayon-yanardagi-nda-son-24-saatte-13-volkanik-deprem-yasandi/4109492",
+   "zaman": "2026-11-03T11:23:45+03:00",
+   "kelimeler": [
+    "13",
+    "24",
+    "deki",
+    "depre",
+    "filip",
+    "mayon",
+    "nda",
+    "saatt",
+    "volka",
+    "yanar",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9671fccb753c": {
+   "id": "9671fccb753c",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'da düzenlenecek 2027 Asya Kupası \"olağanüstü koşullar\" nedeniyle ertelendi",
+   "ozet": "Suudi Arabistan'da gerçekleştirilecek 2027 AFC Asya Kupası, ev sahibi ülkeye yönelik saldırılar nedeniyle ertelendi.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenecek-2027-asya-kupasi-olaganustu-kosullar-nedeniyle-ertelendi/4109496",
+   "zaman": "2026-11-03T11:24:15+03:00",
+   "kelimeler": [
+    "2027",
+    "arabi",
+    "asya",
+    "duzen",
+    "ertel",
+    "kosul",
+    "kupas",
+    "neden",
+    "olaga",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c9c290a44a26": {
+   "id": "c9c290a44a26",
+   "kaynak": "AA",
+   "baslik": "Fiyatlamalar küresel merkez bankalarının yılı \"şahin\" adımlarla tamamlayacağına işaret ediyor",
+   "ozet": "Politika faizlerini geçen ayki toplantılarında bekle-gör stratejisi izleyerek sabit tutan ABD, Avrupa ve Japonya merkez bankalarının, artan enflasyonist baskılar nedeniyle aralık ayında para politikalarını sıkılaştırması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fiyatlamalar-kuresel-merkez-bankalarinin-yili-sahin-adimlarla-tamamlayacagina-isaret-ediyor/4109504",
+   "zaman": "2026-11-03T11:26:39+03:00",
+   "kelimeler": [
+    "adiml",
+    "banka",
+    "ediyo",
+    "fiyat",
+    "isare",
+    "kures",
+    "merke",
+    "sahin",
+    "tamam",
+    "yili"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ed5eacf88552": {
+   "id": "ed5eacf88552",
+   "kaynak": "AA",
+   "baslik": "Türkiye MUGEM'le \"uçak gemisi ligine\" girmeye hazırlanıyor",
+   "ozet": "MUGEM’in Türkiye’nin \"mavi vatan\"daki hak ve çıkarlarını koruma kapasitesini güçlendirmesinin ve askeri caydırıcılığını artırmasının yanı sıra ülkenin bölgesel ve küresel bir aktör olma hedeflerine de önemli katkılar sunması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/analiz/turkiye-mugemle-ucak-gemisi-ligine-girmeye-hazirlaniyor/4109510",
+   "zaman": "2026-11-03T11:29:52+03:00",
+   "kelimeler": [
+    "gemis",
+    "girme",
+    "hazir",
+    "le",
+    "ligin",
+    "mugem",
+    "turki",
+    "ucak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f248c141c9e3": {
+   "id": "f248c141c9e3",
+   "kaynak": "TRT Haber",
+   "baslik": "Bilim insanları bugüne kadar keşfedilen en küçük ölçekte sinyaller tespit etti",
+   "ozet": "CERN'deki Büyük Hadron Çarpıştırıcısı'nda yürütülen çalışmalarda bilim insanları, atomdan 100 milyar kat daha küçük olan ve \"zepteevren\" olarak adlandırılan ölçekte ilk kez sinyaller tespit etmeyi başardı.",
+   "link": "https://www.trthaber.com/haber/dunya/bilim-insanlari-bugune-kadar-kesfedilen-en-kucuk-olcekte-sinyaller-tespit-etti-962064.html",
+   "zaman": "2026-11-03T11:32:00+03:00",
+   "kelimeler": [
+    "bilim",
+    "bugun",
+    "etti",
+    "insan",
+    "kesfe",
+    "kucuk",
+    "olcek",
+    "sinya",
+    "tespi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f309ec44fd0": {
+   "id": "3f309ec44fd0",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bakan Gürlek: Fon soruşturmasında kapsamlı bir suç yapısı tespit edildi",
+   "ozet": "Adalet Bakanı Akın Gürlek, \"Fon soruşturmasında kapsamlı bir suç yapısı tespit edildi. Bu örgütsel yapının içindeki isimler arasında hiyerarşik ve sistemli bir iş birliğinin delillerine ulaştık\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo",
+   "zaman": "2026-11-03T11:33:56+03:00",
+   "kelimeler": [
+    "bakan",
+    "edild",
+    "fon",
+    "gurle",
+    "kapsa",
+    "sorus",
+    "suc",
+    "tespi",
+    "yapis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "934d368d84ab"
+  },
+  "63f0e6590d11": {
+   "id": "63f0e6590d11",
+   "kaynak": "TRT Haber",
+   "baslik": "Gümrük işlemlerinde yenilikçi teknolojiler yaygınlaştırılacak",
+   "ozet": "Türkiye'de gümrük süreçlerini dijitalleştirerek kontrolleri daha etkin hale getirmek amacıyla blokzincir ve optik karakter tanıma OCR gibi yenilikçi teknolojilerin kullanılması, böylelikle kağıtsız gümrük uygulamalarının yaygınlaştırılması hedefleniyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/gumruk-islemlerinde-yenilikci-teknolojiler-yayginlastirilacak-962065.html",
+   "zaman": "2026-11-03T11:34:00+03:00",
+   "kelimeler": [
+    "gumru",
+    "islem",
+    "tekno",
+    "yaygi",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "38fb1eddcaf0": {
+   "id": "38fb1eddcaf0",
+   "kaynak": "AA",
+   "baslik": "Küresel helal pazarı Helal Expo 2026'da buluşacak",
+   "ozet": "Helal Expo 2026, üreticileri, ihracatçıları, ithalatçıları, distribütörleri, perakende zincirlerinin satın alma yöneticilerini ve yatırımcıları İstanbul'da bir araya getirecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-helal-pazari-helal-expo-2026da-bulusacak/4109521",
+   "zaman": "2026-11-03T11:35:18+03:00",
+   "kelimeler": [
+    "2026",
+    "bulus",
+    "expo",
+    "helal",
+    "kures",
+    "pazar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b7ce13ebb804": {
+   "id": "b7ce13ebb804",
+   "kaynak": "AA",
+   "baslik": "Aydın-Denizli Otoyolu ve Yusufeli Viyadüğü \"Küresel Yol Başarı Ödülleri\"ne layık görüldü",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Uluslararası Yol Federasyonu tarafından verilen Küresel Yol Başarı Ödülleri kapsamında Aydın-Denizli Otoyolu ve Yusufeli Viyadüğü'nün iki ayrı kategoride ödül aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/aydin-denizli-otoyolu-ve-yusufeli-viyadugu-kuresel-yol-basari-odullerine-layik-goruldu/4109528",
+   "zaman": "2026-11-03T11:36:55+03:00",
+   "kelimeler": [
+    "aydin",
+    "basar",
+    "deniz",
+    "gorul",
+    "kures",
+    "layik",
+    "odull",
+    "otoyo",
+    "viyad",
+    "yol",
+    "yusuf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e6cc08b8999b": {
+   "id": "e6cc08b8999b",
+   "kaynak": "Sözcü",
+   "baslik": "Özgür Özel partisinin grup toplantısında konuşuyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-partisinin-grup-toplantisinda-konusuyor-p375540",
+   "zaman": "2026-11-03T11:40:51+03:00",
+   "kelimeler": [
+    "grup",
+    "konus",
+    "ozel",
+    "ozgur",
+    "parti",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "03.11 11:47:22  12 yeni haber",
   "03.11 11:31:20  7 yeni haber",
   "03.11 11:16:12  18 yeni haber",
   "03.11 11:01:23  3 yeni haber",
@@ -25207,8 +25410,7 @@
   "01.11 09:46:03  4 yeni haber",
   "01.11 09:31:16  1 yeni haber",
   "01.11 09:16:32  3 yeni haber",
-  "01.11 09:01:18  3 yeni haber",
-  "01.11 08:17:33  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · İstismara uğradığını söyleyen kızını vurmak istemişti... Vicdansız tut"
+  "01.11 09:01:18  3 yeni haber"
  ],
  "otomatik": false
 }
