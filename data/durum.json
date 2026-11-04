@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "38e1b707b7d6": {
-   "id": "38e1b707b7d6",
-   "kaynak": "NTV",
-   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1748943",
-   "zaman": "2026-11-01T20:41:15+03:00",
-   "kelimeler": [
-    "26",
-    "agust",
-    "bilet",
-    "ekran",
-    "hizli",
-    "mpi",
-    "sans",
-    "sonuc",
-    "sorgu",
-    "tikla",
-    "topu"
-   ],
-   "durum": "engelli",
-   "oncelikli": true
-  },
   "cc2cc6590884": {
    "id": "cc2cc6590884",
    "kaynak": "AA",
@@ -30312,7 +30289,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3168b0d36070": {
    "id": "3168b0d36070",
@@ -30491,7 +30471,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f92cd306ffc8": {
    "id": "f92cd306ffc8",
@@ -30695,7 +30678,10 @@
     "yardi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "37c75c29d3be": {
    "id": "37c75c29d3be",
@@ -30793,7 +30779,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "2fc19c8f7e37": {
@@ -30885,9 +30872,142 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5cc62f77bf33"
+  },
+  "2915831c04b2": {
+   "id": "2915831c04b2",
+   "kaynak": "Hürriyet",
+   "baslik": "Emir Sarıgül ‘Ev hapsi’ şartıyla tahliye edildi",
+   "ozet": "Sarıgül ailesine yönelik ‘kara para aklama’ ve ‘cinsel saldırı’ iddiasıyla yürütülen soruşturma kapsamında, 21 Ekim’de tutuklanan Emir Sarıgül ‘ev hapsi’ şeklindeki adli kontrolle tahliye edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-emir-sarigul-icin-ev-hapsi-karari-43366247",
+   "zaman": "2026-11-04T20:29:00+03:00",
+   "kelimeler": [
+    "edild",
+    "emir",
+    "ev",
+    "hapsi",
+    "sarig",
+    "sarti",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5cc62f77bf33"
+  },
+  "e5526d3e8045": {
+   "id": "e5526d3e8045",
+   "kaynak": "TRT Haber",
+   "baslik": "Nobel ödüllü bilim insanı Hinton: Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi",
+   "ozet": "Nobel ödüllü bilim insanı Geoffrey Hinton, yapay zeka teknolojisinin kontrolsüz gelişiminin insanlık için ciddi tehditler oluşturabileceğini belirterek, \"Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/nobel-odullu-bilim-insani-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi-962258.html",
+   "zaman": "2026-11-04T20:30:00+03:00",
+   "kelimeler": [
+    "bilim",
+    "gelis",
+    "hic",
+    "hinto",
+    "insan",
+    "iyi",
+    "nobel",
+    "odull",
+    "olabi",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d29d4c1636db"
+  },
+  "69b1aad3f4fb": {
+   "id": "69b1aad3f4fb",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail basını: ABD ara seçimlerini Demokratların kazanması Trump ve İsrail için ağır darbe",
+   "ozet": "İsrail basını, ABD ara seçimlerinde Cumhuriyetçilerin Kongredeki çoğunluğu kaybetmesini, Başkan Donald Trump ve İsrail için \"ağır darbe\" olarak nitelendirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/israil-basini-abd-ara-secimlerini-demokratlarin-kazanmasi-trump-ve-israil-icin-agir-darbe-962259.html",
+   "zaman": "2026-11-04T20:32:00+03:00",
+   "kelimeler": [
+    "abd",
+    "agir",
+    "ara",
+    "basin",
+    "darbe",
+    "demok",
+    "israi",
+    "kazan",
+    "secim",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0968c391e94b"
+  },
+  "a8ab2de5d8b5": {
+   "id": "a8ab2de5d8b5",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da yağış nedeniyle yol çöktü",
+   "ozet": "İstanbul Sultangazi'de yağışın etkisiyle biri ambulans olmak üzere 4 araç yolda oluşan çukura düştü.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-yagis-nedeniyle-yol-coktu-962261.html",
+   "zaman": "2026-11-04T20:33:00+03:00",
+   "kelimeler": [
+    "coktu",
+    "istan",
+    "neden",
+    "yagis",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a51a8fc5ff65": {
+   "id": "a51a8fc5ff65",
+   "kaynak": "TRT Haber",
+   "baslik": "DSÖ: Türkiye, COP müzakereleri kapsamında sağlık gündeminin öncülerinden biri haline geldi",
+   "ozet": "DSÖ İklim Değişikliği, Enerji ve Hava Kalitesi Birim Başkanı Diarmid CampbellLendrum, Türkiye'nin BM İklim Değişikliği Çerçeve Sözleşmesi'nin Taraflar Konferansı COP kapsamında sağlık gündeminin öncülerinden biri haline geldiğini belirterek COP31 zirvesinde önemli ilerleme…",
+   "link": "https://www.trthaber.com/haber/dunya/dso-turkiye-cop-muzakereleri-kapsaminda-saglik-gundeminin-onculerinden-biri-haline-geldi-962260.html",
+   "zaman": "2026-11-04T20:33:00+03:00",
+   "kelimeler": [
+    "biri",
+    "cop",
+    "dso",
+    "geldi",
+    "gunde",
+    "halin",
+    "kapsa",
+    "muzak",
+    "oncul",
+    "sagli",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f201b7cd58c5"
+  },
+  "fa520d2d31be": {
+   "id": "fa520d2d31be",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkan Yardımcısı JD Vance: Cumhuriyetçilerin seçimi kaybetme nedeni İran savaşı",
+   "ozet": "ABD Başkan Yardımcısı JD Vance, Kongre ara seçimlerini Cumhuriyetçi Partinin kaybetmesinin nedenini İran'la savaş ve İsrail'le ilişkilere bağladı.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-jd-vance-cumhuriyetcilerin-secimi-kaybetme-nedeni-iran-savasi-962262.html",
+   "zaman": "2026-11-04T20:37:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "cumhu",
+    "iran",
+    "jd",
+    "kaybe",
+    "neden",
+    "savas",
+    "secim",
+    "vance",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c75530383f9"
   }
  },
  "kayit": [
+  "04.11 20:47:23  1 yeni haber",
   "04.11 20:38:33  3 yeni haber",
   "04.11 20:38:33  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "04.11 20:31:20  3 yeni haber",
@@ -31086,8 +31206,7 @@
   "02.11 20:40:16  7 yeni haber",
   "02.11 20:16:15  4 yeni haber",
   "02.11 20:01:35  2 yeni haber",
-  "02.11 19:46:05  1 yeni haber",
-  "02.11 19:34:22  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Borsa günü yükselişle tamamladı"
+  "02.11 19:46:05  1 yeni haber"
  ],
  "otomatik": false
 }
