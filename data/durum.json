@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "5595e345f9a5": {
-   "id": "5595e345f9a5",
-   "kaynak": "AA",
-   "baslik": "Genelkurmay Başkanı Bayraktaroğlu, TSK Paraşüt Şampiyonası'nın kapanış törenine katıldı",
-   "ozet": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Gölbaşı'nda düzenlenen 5'inci Türk Silahlı Kuvvetleri (TSK) Paraşüt Şampiyonası'nın kapanış törenine katıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/genelkurmay-baskani-bayraktaroglu-tsk-parasut-sampiyonasinin-kapanis-torenine-katildi/4108045",
-   "zaman": "2026-11-01T16:48:59+03:00",
-   "kelimeler": [
-    "baska",
-    "bayra",
-    "genel",
-    "kapan",
-    "katil",
-    "nin",
-    "paras",
-    "sampi",
-    "toren",
-    "tsk"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "16d7d8ba88ff": {
-   "id": "16d7d8ba88ff",
-   "kaynak": "TRT Haber",
-   "baslik": "Ukrayna: Bu gece dört bölgedeki enerji altyapımız Rus saldırıları altında kaldı",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun ülkenin 4 bölgesindeki enerji altyapısını gece hedef aldığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-bu-gece-dort-bolgedeki-enerji-altyapimiz-rus-saldirilari-altinda-kaldi-961887.html",
-   "zaman": "2026-11-01T16:52:00+03:00",
-   "kelimeler": [
-    "altin",
-    "altya",
-    "bolge",
-    "dort",
-    "enerj",
-    "gece",
-    "kaldi",
-    "rus",
-    "saldi",
-    "ukray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d4347ed41096": {
    "id": "d4347ed41096",
    "kaynak": "Hürriyet",
@@ -14851,7 +14807,10 @@
     "whats"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "80606d2c2436": {
    "id": "80606d2c2436",
@@ -29942,9 +29901,189 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "61a5286971d3": {
+   "id": "61a5286971d3",
+   "kaynak": "TRT Haber",
+   "baslik": "Yasa dışı bahis çetelerinin trilyonluk kara para trafiği deşifre oldu",
+   "ozet": "Adalet Bakanı Akın Gürlek, yasa dışı bahis şebekelerine yönelik 9 ayda 81 ilde yürütülen 901 operasyonla yaklaşık 6 bin şüphelinin tutuklandığını, trilyonlarca liralık yasa dışı işlemin hacminin ortaya çıkarıldığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/yasa-disi-bahis-cetelerinin-trilyonluk-kara-para-trafigi-desifre-oldu-962243.html",
+   "zaman": "2026-11-04T16:46:00+03:00",
+   "kelimeler": [
+    "bahis",
+    "cetel",
+    "desif",
+    "disi",
+    "kara",
+    "para",
+    "trafi",
+    "trily",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3ae1306b7bff": {
+   "id": "3ae1306b7bff",
+   "kaynak": "Hürriyet",
+   "baslik": "DEM Parti'li Hatimoğulları, Selahattin Demirtaş’ı ziyaret etti",
+   "ozet": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Edirne F Tipi Yüksek Güvenlikli Kapalı Ceza İnfaz Kurumu’nda tutuklu bulunan eski HDP Eş Genel Başkanı Selahattin Demirtaş’ı ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/dem-partili-hatimogullari-selahattin-demirtasi-ziyaret-etti-43366030",
+   "zaman": "2026-11-04T16:46:10+03:00",
+   "kelimeler": [
+    "dem",
+    "demir",
+    "etti",
+    "hatim",
+    "li",
+    "parti",
+    "selah",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8de4b195bce4": {
+   "id": "8de4b195bce4",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek'ten yasa dışı bahis operasyonlarına ilişkin açıklama: 9 ayda 5 bin 949 şüpheli tutuklandı",
+   "ozet": "Adalet Bakanı Akın Gürlek, \"Yasa dışı bahisle mücadelemizi kararlılıkla sürdürüyoruz. 9 ayda 81 ilimizde gerçekleştirdiğimiz 901 operasyonla suç ağlarının üzerine gidiyor, finansal kaynaklarının izini sürüyoruz! 15.710 şüpheli hakkında adli işlem yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-yasa-disi-bahis-operasyonlarina-iliskin-aciklama-9-ayda-5-bin-949-supheli-tutuklandi-43366022",
+   "zaman": "2026-11-04T16:46:40+03:00",
+   "kelimeler": [
+    "949",
+    "acikl",
+    "ayda",
+    "bahis",
+    "bakan",
+    "bin",
+    "disi",
+    "gurle",
+    "ilisk",
+    "opera",
+    "suphe",
+    "ten",
+    "tutuk",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "758c899d87f2": {
+   "id": "758c899d87f2",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş, \"Barış Anneleri\" heyetini kabul etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, DEM Parti Sözcüsü ve Şırnak Milletvekili Ayşegül Doğan'ın eşlik ettiği \"Barış Anneleri\"nden oluşan heyeti kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-baris-anneleri-heyetini-kabul-etti/4111612",
+   "zaman": "2026-11-04T16:49:26+03:00",
+   "kelimeler": [
+    "annel",
+    "baris",
+    "baska",
+    "etti",
+    "heyet",
+    "kabul",
+    "kurtu",
+    "tbmm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "47b24477ebac": {
+   "id": "47b24477ebac",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiliz parlamento komitesi: Parlamentonun yanma, yıkılma veya karanlığa gömülme riski var",
+   "ozet": "İngiltere Parlamentosunun Kamu Hesapları Komitesi, parlamento binası olan Westminster Sarayı'nın, Fransa'daki Notre Dame Katedrali gibi yanma, yavaş yavaş yıkılma ve karanlığa gömülme riski taşıdığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiliz-parlamento-komitesi-parlamentonun-yanma-yikilma-veya-karanliga-gomulme-riski-var-962244.html",
+   "zaman": "2026-11-04T16:50:00+03:00",
+   "kelimeler": [
+    "gomul",
+    "ingil",
+    "karan",
+    "komit",
+    "parla",
+    "riski",
+    "veya",
+    "yanma",
+    "yikil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "288d736113dd": {
+   "id": "288d736113dd",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrailde hükümet 13 hafta içinde kurulamazsa erken seçim yapılacak",
+   "ozet": "İsrail'de koalisyon belirsizliğinin ortaya çıktığı 27 Ekim seçimlerinin ardından resmi sonuçların kesinleşmesiyle azami 13 hafta içinde hükümetin kurulması gerekiyor.",
+   "link": "https://www.trthaber.com/haber/dunya/israilde-hukumet-13-hafta-icinde-kurulamazsa-erken-secim-yapilacak-962245.html",
+   "zaman": "2026-11-04T16:51:00+03:00",
+   "kelimeler": [
+    "13",
+    "erken",
+    "hafta",
+    "hukum",
+    "icind",
+    "israi",
+    "kurul",
+    "secim",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "c4a983259fc2": {
+   "id": "c4a983259fc2",
+   "kaynak": "AA",
+   "baslik": "İsrail'de azami 13 hafta içinde hükümetin kurulamaması halinde erken seçime gidilecek",
+   "ozet": "İsrail'de koalisyon belirsizliğinin ortaya çıktığı 27 Ekim seçimlerinin ardından resmi sonuçların kesinleşmesiyle azami 13 hafta içinde hükümetin kurulması gerekiyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-azami-13-hafta-icinde-hukumetin-kurulamamasi-halinde-erken-secime-gidilecek/4111617",
+   "zaman": "2026-11-04T16:53:15+03:00",
+   "kelimeler": [
+    "13",
+    "azami",
+    "erken",
+    "gidil",
+    "hafta",
+    "halin",
+    "hukum",
+    "icind",
+    "israi",
+    "kurul",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "288d736113dd"
+  },
+  "900fd7be5364": {
+   "id": "900fd7be5364",
+   "kaynak": "NTV",
+   "baslik": "WhatsApp hesaplarını ele geçirip yakınlarından para istiyorlar: Resmi uyarı geldi",
+   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, WhatsApp ve benzeri mesajlaşma uygulamalarında artan dolandırıcılık girişimlerine karşı uyarıda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/whatsapp-hesaplarini-ele-gecirip-yakinlarindan-para-istiyorlar-resmi-uyari-geldi-1749398",
+   "zaman": "2026-11-04T16:59:57+03:00",
+   "kelimeler": [
+    "ele",
+    "gecir",
+    "geldi",
+    "hesap",
+    "istiy",
+    "para",
+    "resmi",
+    "uyari",
+    "whats",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7d19a160c6ed"
   }
  },
  "kayit": [
+  "04.11 17:01:22  6 yeni haber",
   "04.11 16:46:06  2 yeni haber",
   "04.11 16:31:14  4 yeni haber",
   "04.11 16:16:04  3 yeni haber",
@@ -30143,8 +30282,7 @@
   "02.11 16:47:04  6 yeni haber",
   "02.11 16:31:11  4 yeni haber",
   "02.11 16:16:18  2 yeni haber",
-  "02.11 16:01:31  5 yeni haber",
-  "02.11 15:46:16  4 yeni haber"
+  "02.11 16:01:31  5 yeni haber"
  ],
  "otomatik": false
 }
