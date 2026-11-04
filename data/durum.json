@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "413901a44f1d": {
-   "id": "413901a44f1d",
-   "kaynak": "NTV",
-   "baslik": "Karaman'da polisten kaçan motosikletliye 320 bin lira ceza: Kovalamaca anları",
-   "ozet": "Karaman'da polisin \"dur\" ihtarına uymayarak kaçan ve motosikletini polis ekiplerinin üzerine sürerek ters yönde ilerleyen sürücü, yaklaşık 5 dakika süren kovalamaca sonucu yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-karamanda-polisten-kacan-motosikletliye-320-bin-lira-ceza-kovalamaca-anlari-1748848",
-   "zaman": "2026-11-01T08:51:19+03:00",
-   "kelimeler": [
-    "320",
-    "anlar",
-    "bin",
-    "ceza",
-    "kacan",
-    "karam",
-    "koval",
-    "lira",
-    "motos",
-    "polis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1285bb9e3f1d": {
-   "id": "1285bb9e3f1d",
-   "kaynak": "NTV",
-   "baslik": "İstanbul'da hava bir anda değişecek. Perşembe gününe dikkat, sıcaklık 6 derece düşecek",
-   "ozet": "Neredeyse hafta boyunca sağanak yağışların süreceği yurt genelinde sıcaklık perşembe gününden itibaren azalacak. İstanbul'da yağışlı havanın yerini soğuk alacak, sıcaklık 6 derece düşecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-hava-bir-anda-degisecek-persembe-gunune-dikkat-sicaklik-6-derece-dusecek-1748843",
-   "zaman": "2026-11-01T08:58:26+03:00",
-   "kelimeler": [
-    "anda",
-    "degis",
-    "derec",
-    "dikka",
-    "dusec",
-    "gunun",
-    "hava",
-    "istan",
-    "perse",
-    "sicak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8eecd3d325da": {
    "id": "8eecd3d325da",
    "kaynak": "AA",
@@ -24157,7 +24113,10 @@
     "yuzde"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5e26d9bd4bed": {
    "id": "5e26d9bd4bed",
@@ -28355,9 +28314,132 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "867360e7dea1": {
+   "id": "867360e7dea1",
+   "kaynak": "TRT Haber",
+   "baslik": "Erdoğan, Güney Kore'de küresel şirketlerin üst yöneticilerini kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi temaslarda bulunmak üzere gittiği Güney Kore'nin başkenti Seul'de, ülkenin önde gelen küresel teknoloji ve sanayi şirketlerinin üst yöneticileriyle CEO bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/erdogan-guney-korede-kuresel-sirketlerin-ust-yoneticilerini-kabul-etti-962170.html",
+   "zaman": "2026-11-04T08:09:00+03:00",
+   "kelimeler": [
+    "erdog",
+    "etti",
+    "guney",
+    "kabul",
+    "kore",
+    "kures",
+    "sirke",
+    "ust",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7e7f0c9d3500": {
+   "id": "7e7f0c9d3500",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da trafik yoğunluğu yüzde 85'e çıktı",
+   "ozet": "İstanbul'da haftanın üçüncü iş gününde sabah saatlerinde trafik yoğunluğu Anadolu Yakası'nda yüzde 85'e çıktı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-trafik-yogunlugu-yuzde-85e-cikti-962172.html",
+   "zaman": "2026-11-04T08:41:00+03:00",
+   "kelimeler": [
+    "85",
+    "cikti",
+    "istan",
+    "trafi",
+    "yogun",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a8532121767b"
+  },
+  "97048bdb0c22": {
+   "id": "97048bdb0c22",
+   "kaynak": "TRT Haber",
+   "baslik": "Dört ayrı operasyonda 459 kilo uyuşturucu ele geçirildi",
+   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza ekiplerince Edirne ili Kapıkule, Hamzabeyli ve İpsala Gümrük Kapıları ile İstanbul Havalimanı'nda gerçekleştirilen dört ayrı operasyonda toplam 459 kilo 599 gram uyuşturucu madde ele geçirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/dort-ayri-operasyonda-459-kilo-uyusturucu-ele-gecirildi-962173.html",
+   "zaman": "2026-11-04T08:43:00+03:00",
+   "kelimeler": [
+    "459",
+    "ayri",
+    "dort",
+    "ele",
+    "gecir",
+    "kilo",
+    "opera",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b901ea92fd10": {
+   "id": "b901ea92fd10",
+   "kaynak": "Hürriyet",
+   "baslik": "Bavuldan düşen ruhsatsız silah ateş aldı: 12 yaşındaki çocuk yüzünden vuruldu",
+   "ozet": "Adana’da müstakil bir evde dolaptan indirilen bavuldaki tabanca yere düşüp patladı. Kurşunun yüzüne isabet etmesiyle ağır yaralanan 12 yaşındaki Melek G. Adana Şehir Hastanesi’ne sevk edilirken, olay sırasında evde bulunan 2 kişi emniyete götürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/bavuldan-dusen-ruhsatsiz-silah-ates-aldi-12-yasindaki-cocuk-yuzunden-vuruldu-43365251",
+   "zaman": "2026-11-04T08:43:51+03:00",
+   "kelimeler": [
+    "12",
+    "aldi",
+    "ates",
+    "bavul",
+    "cocuk",
+    "dusen",
+    "ruhsa",
+    "silah",
+    "vurul",
+    "yasin",
+    "yuzun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "431d78c3e35d": {
+   "id": "431d78c3e35d",
+   "kaynak": "NTV",
+   "baslik": "Anayasa Mahkemesi'nden Canan Karatay kararı",
+   "ozet": "Anayasa Mahkemesi, kalp-damar cerrahisi uzmanı Prof. Dr. Canan Karatay'ın aşılarla ilgili sözleri nedeniyle aldığı meslekten geçici men cezasının ifade özgürlüğünü ihlal ettiğine hükmetti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-anayasa-mahkemesinden-canan-karatay-karari-1749307",
+   "zaman": "2026-11-04T08:51:29+03:00",
+   "kelimeler": [
+    "anaya",
+    "canan",
+    "karar",
+    "karat",
+    "mahke",
+    "nden"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15dd4b6a1a0e": {
+   "id": "15dd4b6a1a0e",
+   "kaynak": "AA",
+   "baslik": "Trump, ara seçimlerdeki kayıpların nedeninin İran savaşı olabileceğini söyledi",
+   "ozet": "ABD Başkanı Donald Trump, ülkede düzenlenen ara seçimlerde Cumhuriyetçilerin yaşadığı kayıpların nedeninin kısmen İran'a yönelik sürdürülen savaş olabileceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-ara-secimlerdeki-kayiplarin-nedeninin-iran-savasi-olabilecegini-soyledi/4110909",
+   "zaman": "2026-11-04T08:51:43+03:00",
+   "kelimeler": [
+    "ara",
+    "iran",
+    "kayip",
+    "neden",
+    "olabi",
+    "savas",
+    "secim",
+    "soyle",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 09:01:19  5 yeni haber",
   "04.11 08:46:04  2 yeni haber",
   "04.11 08:31:14  2 yeni haber",
   "04.11 08:18:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD ara seçiminde Texas şoku: Demokrat parti zafer kazandı",
@@ -28556,8 +28638,7 @@
   "02.11 08:15:58  2 yeni haber",
   "02.11 08:01:25  1 yeni haber",
   "02.11 07:45:59  1 yeni haber",
-  "02.11 07:15:58  8 yeni haber",
-  "02.11 07:02:59  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi."
+  "02.11 07:15:58  8 yeni haber"
  ],
  "otomatik": false
 }
