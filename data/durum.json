@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "db1d2fb5ebeb": {
-   "id": "db1d2fb5ebeb",
-   "kaynak": "Hürriyet",
-   "baslik": "Kütahya'da kamyonet ile hafif ticari araç çarpıştı: 1 ölü, 3 yaralı",
-   "ozet": "Kütahya’nın Altıntaş ilçesinde süt toplama kamyoneti ile hafif ticari aracın çarpıştığı kazada 1 kişi yaşamını yitirirken, 3 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kutahyada-kamyonet-ile-hafif-ticari-arac-carpisti-1-olu-3-yarali-43362680",
-   "zaman": "2026-11-01T19:53:37+03:00",
-   "kelimeler": [
-    "arac",
-    "carpi",
-    "hafif",
-    "kamyo",
-    "kutah",
-    "olu",
-    "ticar",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "9aba14d8b33d"
-  },
   "8742255c4dd8": {
    "id": "8742255c4dd8",
    "kaynak": "XHABER",
@@ -149,22 +128,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "08cdc0c60f86"
-  },
-  "6163ce8605b9": {
-   "id": "6163ce8605b9",
-   "kaynak": "AA",
-   "baslik": "Kasımpaşa ile Beşiktaş, berabere kaldı",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa ile Beşiktaş, 2-2 berabere kaldı.",
-   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ile-besiktas-berabere-kaldi/4108160",
-   "zaman": "2026-11-01T19:58:08+03:00",
-   "kelimeler": [
-    "berab",
-    "besik",
-    "kaldi",
-    "kasim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "cc2cc6590884": {
    "id": "cc2cc6590884",
@@ -337,25 +300,6 @@
     "sandi",
     "secim",
     "yotov"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fcb3ca547761": {
-   "id": "fcb3ca547761",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş'ın deplasman fobisi Kasımpaşa'da devam etti",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa'ya konuk olan Beşiktaş, rakibiyle 2-2 berabere kaldı.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktasin-deplasman-fobisi-kasimpasada-devam-etti/4108160",
-   "zaman": "2026-11-01T19:58:08+03:00",
-   "kelimeler": [
-    "besik",
-    "depla",
-    "devam",
-    "etti",
-    "fobis",
-    "in",
-    "kasim"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -30746,9 +30690,117 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "306664489295": {
+   "id": "306664489295",
+   "kaynak": "TRT Haber",
+   "baslik": "Şişli'deki alt geçidi su bastı",
+   "ozet": "İstanbul'un Şişli ilçesinde kuvvetli sağanak nedeniyle alt geçitte su baskını meydana geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/sislideki-alt-gecidi-su-basti-962255.html",
+   "zaman": "2026-11-04T19:34:00+03:00",
+   "kelimeler": [
+    "alt",
+    "basti",
+    "deki",
+    "gecid",
+    "sisli",
+    "su"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d4c75660573c": {
+   "id": "d4c75660573c",
+   "kaynak": "Hürriyet",
+   "baslik": "\"MİT görevlisiyiz\" yalanıyla 3,5 milyon liralık vurgun! Suçüstü yakalandılar",
+   "ozet": "Antalya'da kendilerini Milli İstihbarat Teşkilatı (MİT) görevlisi olarak tanıtarak bir kişiyi yaklaşık 218 bin lira dolandıran ve arsasını 3 milyon 500 bin liraya sattırmaya çalışan 2 şüpheli suçüstü yakalandı. Şüphelilerden biri tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mit-gorevlisiyiz-yalaniyla-3-5-milyon-liralik-vurgun-sucustu-yakalandilar-43366223",
+   "zaman": "2026-11-04T19:44:00+03:00",
+   "kelimeler": [
+    "gorev",
+    "liral",
+    "milyo",
+    "mit",
+    "sucus",
+    "vurgu",
+    "yakal",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b4adb76a5d06": {
+   "id": "b4adb76a5d06",
+   "kaynak": "AA",
+   "baslik": "Rusya, Odessa Limanı'nda askeri yük taşıyan gemiyi vurduğunu açıkladı",
+   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa Limanı'nda askeri yük taşıyan bir gemiyi vurduklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-odessa-limaninda-askeri-yuk-tasiyan-gemiyi-vurdugunu-acikladi/4111833",
+   "zaman": "2026-11-04T19:46:14+03:00",
+   "kelimeler": [
+    "asker",
+    "gemiy",
+    "liman",
+    "nda",
+    "odess",
+    "rusya",
+    "tasiy",
+    "vurdu",
+    "yuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "264969e9bc60": {
+   "id": "264969e9bc60",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum, COP31 alanına kurulan Konya Tropikal Kelebek Bahçesi'ni paylaştı",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 alanına kurulan Konya Tropikal Kelebek Bahçesi'nden görüntüler paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-alanina-kurulan-konya-tropikal-kelebek-bahcesini-paylasti/4111834",
+   "zaman": "2026-11-04T19:46:25+03:00",
+   "kelimeler": [
+    "alani",
+    "bahce",
+    "bakan",
+    "cop31",
+    "keleb",
+    "konya",
+    "kurul",
+    "kurum",
+    "ni",
+    "payla",
+    "tropi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c75530383f9": {
+   "id": "3c75530383f9",
+   "kaynak": "AA",
+   "baslik": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin seçimi kaybetme nedeni olarak İran savaşına işaret etti",
+   "ozet": "ABD Başkan Yardımcısı JD Vance, Kongre ara seçimlerini Cumhuriyetçi Partinin kaybetmesinin nedenini İran'la savaş ve İsrail'le ilişkilere bağladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-jd-vance-cumhuriyetcilerin-secimi-kaybetme-nedeni-olarak-iran-savasina-isaret-etti/4111849",
+   "zaman": "2026-11-04T19:57:12+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "cumhu",
+    "etti",
+    "iran",
+    "isare",
+    "jd",
+    "kaybe",
+    "neden",
+    "savas",
+    "secim",
+    "vance",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 20:16:01  5 yeni haber",
   "04.11 19:46:06  3 yeni haber",
   "04.11 19:34:11  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Netanyahu, İsrail seçimlerinde 'resmen' çoğunluğu kaybetti.",
   "04.11 19:32:05  2 yeni haber",
@@ -30947,8 +30999,7 @@
   "02.11 19:34:22  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Borsa günü yükselişle tamamladı",
   "02.11 19:32:28  2 yeni haber",
   "02.11 19:16:11  1 yeni haber",
-  "02.11 19:01:32  4 yeni haber",
-  "02.11 18:46:07  1 yeni haber"
+  "02.11 19:01:32  4 yeni haber"
  ],
  "otomatik": false
 }
