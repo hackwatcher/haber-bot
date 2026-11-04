@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "79194d13d218": {
-   "id": "79194d13d218",
-   "kaynak": "TRT Haber",
-   "baslik": "Muğla açıklarında 35 düzensiz göçmen yakalandı",
-   "ozet": "Muğla'nın Bodrum ilçesi açıklarında 35 düzensiz göçmen ile 4 göçmen kaçakçılığı şüphelisi yakalandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/mugla-aciklarinda-35-duzensiz-gocmen-yakalandi-961902.html",
-   "zaman": "2026-11-01T23:37:00+03:00",
-   "kelimeler": [
-    "35",
-    "acikl",
-    "duzen",
-    "gocme",
-    "mugla",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a1353ade8f93"
-  },
   "eb9fbe74d0ea": {
    "id": "eb9fbe74d0ea",
    "kaynak": "XHABER",
@@ -31151,9 +31132,77 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d22b1392f9e7"
+  },
+  "911c65ec31e5": {
+   "id": "911c65ec31e5",
+   "kaynak": "AA",
+   "baslik": "Palandöken Dağı'nda kar yağışı etkili oldu",
+   "ozet": "Erzurum'daki Palandöken Dağı'nda kar yağışı etkili oldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/palandoken-daginda-kar-yagisi-etkili-oldu/4112030",
+   "zaman": "2026-11-04T22:58:44+03:00",
+   "kelimeler": [
+    "dagi",
+    "etkil",
+    "kar",
+    "nda",
+    "palan",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ebacd1608209": {
+   "id": "ebacd1608209",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'deki Sağlık Bakanlığı: İsrail tıbbi tahliyeleri zaman tuzağına dönüştürdü",
+   "ozet": "Gazze'deki Filistin Sağlık Bakanlığı, katil İsrail'in sürdürdüğü sıkı abluka ve kısıtlamaların tıbbi tahliyeleri birer \"zaman tuzağına\" dönüştürdüğünü, bu politikanın durumu kritik binlerce hastanın hayatta kalma şansını kaybetmesine neden olduğunu bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzedeki-saglik-bakanligi-israil-tibbi-tahliyeleri-zaman-tuzagina-donusturdu-962271.html",
+   "zaman": "2026-11-04T23:34:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "deki",
+    "donus",
+    "gazze",
+    "israi",
+    "sagli",
+    "tahli",
+    "tibbi",
+    "tuzag",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "76dcdda2dc79": {
+   "id": "76dcdda2dc79",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 4 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1749419",
+   "zaman": "2026-11-04T23:39:36+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 23:46:09  3 yeni haber",
   "04.11 23:31:49  1 yeni haber",
   "04.11 23:15:57  5 yeni haber",
   "04.11 22:46:00  7 yeni haber",
@@ -31352,8 +31401,7 @@
   "02.11 23:01:57  2 yeni haber",
   "02.11 22:46:07  4 yeni haber",
   "02.11 22:31:27  1 yeni haber",
-  "02.11 22:16:01  1 yeni haber",
-  "02.11 22:01:35  3 yeni haber"
+  "02.11 22:16:01  1 yeni haber"
  ],
  "otomatik": false
 }
