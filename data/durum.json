@@ -1,82 +1,5 @@
 {
  "haberler": {
-  "16c955c33c4c": {
-   "id": "16c955c33c4c",
-   "kaynak": "Hürriyet",
-   "baslik": "Mantar toplarken bozayı saldırdı | Ormanda canını zor kurtardı",
-   "ozet": "Sakarya’da arkadaşıyla mantar aramaya çıkan 67 yaşındaki Rıdvan Eğken, ormanda aniden karşısına çıkan bozayının saldırısına uğradı. Vücudunun çeşitli yerlerinden yaralanan adam hastaneye sevk edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/mantar-toplarken-bozayi-saldirdi-ormanda-canini-zor-kurtardi-43362461",
-   "zaman": "2026-11-01T14:35:00+03:00",
-   "kelimeler": [
-    "bozay",
-    "canin",
-    "kurta",
-    "manta",
-    "orman",
-    "saldi",
-    "topla",
-    "zor"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c6915c5ab1d3": {
-   "id": "c6915c5ab1d3",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, Güney Kore'yi ziyaret edecek",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle Seul'u ziyaret edeceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreyi-ziyaret-edecek/4107954",
-   "zaman": "2026-11-01T14:35:03+03:00",
-   "kelimeler": [
-    "cumhu",
-    "edece",
-    "erdog",
-    "guney",
-    "kore",
-    "yi",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "08fb00d6d95c"
-  },
-  "4fb4bf85c83b": {
-   "id": "4fb4bf85c83b",
-   "kaynak": "AA",
-   "baslik": "TRT 2'de ödüllü yapımlar sinemaseverlerle buluşacak",
-   "ozet": "Kasım ayında \"Zamanın Kabuk Değiştirdiği Anlar\" temasıyla hazırlanan sinema seçkisi TRT 2'de ekrana gelecek.",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-2de-odullu-yapimlar-sinemaseverlerle-bulusacak/4107958",
-   "zaman": "2026-11-01T14:41:21+03:00",
-   "kelimeler": [
-    "bulus",
-    "odull",
-    "sinem",
-    "trt",
-    "yapim"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "86328bd2a0c4"
-  },
-  "fb556cfe5578": {
-   "id": "fb556cfe5578",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturması kapsamında Umut Güner gözaltında",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Dünya Gazetesi'nin sahibi Umut Güner gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-kapsaminda-umut-guner-gozaltinda-961880.html",
-   "zaman": "2026-11-01T14:41:00+03:00",
-   "kelimeler": [
-    "fon",
-    "gozal",
-    "guner",
-    "kapsa",
-    "sorus",
-    "umut"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7c899e409f20"
-  },
   "a9e42b6d2814": {
    "id": "a9e42b6d2814",
    "kaynak": "Hürriyet",
@@ -262,24 +185,6 @@
     "odakl",
     "turki",
     "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "50a6280faafa": {
-   "id": "50a6280faafa",
-   "kaynak": "AA",
-   "baslik": "Amed Sportif Faaliyetler, sahasından 3 puanla ayrıldı",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında Amed Sportif Faaliyetler, sahasında Eyüpspor'u 5-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasindan-3-puanla-ayrildi/4107953",
-   "zaman": "2026-11-01T14:34:06+03:00",
-   "kelimeler": [
-    "amed",
-    "ayril",
-    "faali",
-    "puanl",
-    "sahas",
-    "sport"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -22271,7 +22176,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "91025eadf6fd": {
    "id": "91025eadf6fd",
@@ -28584,7 +28491,8 @@
    ],
    "durum": "hata",
    "oncelikli": true,
-   "hata": "Görsel GitHub'a gönderilemedi: remote: fatal error in commit_refs        \nTo https://github.com/hackwatcher/haber-bot.git\n ! [remote rejected] HEAD -> media (failure)\nerror: failed to push some refs to 'https://github.com/hackwatcher/haber-bot.git'\n"
+   "hata": "Görsel GitHub'a gönderilemedi: remote: fatal error in commit_refs        \nTo https://github.com/hackwatcher/haber-bot.git\n ! [remote rejected] HEAD -> media (failure)\nerror: failed to push some refs to 'https://github.com/hackwatcher/haber-bot.git'\n",
+   "diger_kaynaklar": []
   },
   "4d0c27fb44a9": {
    "id": "4d0c27fb44a9",
@@ -29472,9 +29380,126 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5430315c8204": {
+   "id": "5430315c8204",
+   "kaynak": "AA",
+   "baslik": "İsrailli milletvekili, \"asıl düşmanımız Netanyahu ve çetesi\" diyerek Eisenkot'a hükümet kurma çağrısı yaptı",
+   "ozet": "İsrail'de Ortak Liste Milletvekili Ofer Cassif, Yashar Partisi lideri Gadi Eisenkot'un bölge için en büyük tehdidin Netanyahu ve ortakları olduğunu anlayacağını belirterek, hükümeti kurması için Cumhurbaşkanına Eisenkot'u önereceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-milletvekili-asil-dusmanimiz-netanyahu-ve-cetesi-diyerek-eisenkota-hukumet-kurma-cagrisi-yapti/4111274",
+   "zaman": "2026-11-04T12:31:07+03:00",
+   "kelimeler": [
+    "asil",
+    "cagri",
+    "cetes",
+    "diyer",
+    "dusma",
+    "eisen",
+    "hukum",
+    "israi",
+    "kurma",
+    "mille",
+    "netan",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c10a6e7cbb6e": {
+   "id": "c10a6e7cbb6e",
+   "kaynak": "AA",
+   "baslik": "Paletli Yüzme Milli Takımı, Dünya Açık Su Şampiyonası'nda 4 madalya kazandı",
+   "ozet": "Türkiye Paletli Yüzme Milli Takımı, Mısır'da düzenlenen 2026 CMAS Dünya Açık Su Şampiyonası'nda 4 madalya elde etti.",
+   "link": "https://www.aa.com.tr/tr/spor/paletli-yuzme-milli-takimi-dunya-acik-su-sampiyonasinda-4-madalya-kazandi/4111434",
+   "zaman": "2026-11-04T14:26:50+03:00",
+   "kelimeler": [
+    "acik",
+    "dunya",
+    "kazan",
+    "madal",
+    "milli",
+    "nda",
+    "palet",
+    "sampi",
+    "su",
+    "takim",
+    "yuzme"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9d49e47ef15c"
+  },
+  "6ab1f5e6f31e": {
+   "id": "6ab1f5e6f31e",
+   "kaynak": "AA",
+   "baslik": "2026 ABD ara seçimlerinde Filistin destekçisi Müslüman aday Chevalier, Temsilciler Meclisine seçildi",
+   "ozet": "ABD'de düzenlenen Kongre ara seçimlerinde, üniversite yıllarından itibaren Filistin'e destek gösterilerine katılan ve daha sonra İslam'ı seçen Darializa Avila Chevalier, New York'tan Temsilciler Meclisine seçildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/2026-abd-ara-secimlerinde-filistin-destekcisi-musluman-aday-chevalier-temsilciler-meclisine-secildi/4111440",
+   "zaman": "2026-11-04T14:28:55+03:00",
+   "kelimeler": [
+    "2026",
+    "abd",
+    "aday",
+    "ara",
+    "cheva",
+    "deste",
+    "filis",
+    "mecli",
+    "muslu",
+    "secil",
+    "secim",
+    "temsi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d454d79292b7": {
+   "id": "d454d79292b7",
+   "kaynak": "AA",
+   "baslik": "Bayraktar TB2 FPV kamikaze dronlarla hedefini vurdu",
+   "ozet": "Baykar tarafından geliştirilen Bayraktar TB2 Silahlı İnsansız Hava Aracı (SİHA), Skydagger FPV kamikaze dronlar ile gerçekleştirdiği test uçuşunda, havadan bırakılan 2 FPV dron aracılığıyla belirlenen hedefleri tam isabetle vurdu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bayraktar-tb2-fpv-kamikaze-dronlarla-hedefini-vurdu/4111443",
+   "zaman": "2026-11-04T14:32:12+03:00",
+   "kelimeler": [
+    "bayra",
+    "dronl",
+    "fpv",
+    "hedef",
+    "kamik",
+    "tb2",
+    "vurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ee6d7695a3dd": {
+   "id": "ee6d7695a3dd",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda son 24 saatte 3 kişi hayatını kaybetti",
+   "ozet": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 3 kişi yaşamını yitirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti-962231.html",
+   "zaman": "2026-11-04T14:35:00+03:00",
+   "kelimeler": [
+    "24",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "katil",
+    "kaybe",
+    "kisi",
+    "saatt",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b36232b29143"
   }
  },
  "kayit": [
+  "04.11 14:46:11  3 yeni haber",
   "04.11 14:31:26  8 yeni haber",
   "04.11 14:17:22  9 yeni haber",
   "04.11 14:01:43  4 yeni haber",
@@ -29673,8 +29698,7 @@
   "02.11 14:31:22  2 yeni haber",
   "02.11 14:16:49  9 yeni haber",
   "02.11 14:01:33  3 yeni haber",
-  "02.11 13:55:56  4 yeni haber",
-  "02.11 13:47:31  12 yeni haber"
+  "02.11 13:55:56  4 yeni haber"
  ],
  "otomatik": false
 }
