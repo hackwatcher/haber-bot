@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "345693a1f07a": {
-   "id": "345693a1f07a",
-   "kaynak": "Sözcü",
-   "baslik": "Motorine dev zam: Fiyatlar tabelaya sığmadı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/motorine-dev-zam-fiyatlar-tabelaya-sigmadi-p374725",
-   "zaman": "2026-11-01T04:01:04+03:00",
-   "kelimeler": [
-    "dev",
-    "fiyat",
-    "motor",
-    "sigma",
-    "tabel",
-    "zam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e66c3cf320f5": {
    "id": "e66c3cf320f5",
    "kaynak": "Sözcü",
@@ -25815,7 +25797,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "831c1f2fcd27": {
    "id": "831c1f2fcd27",
@@ -26929,7 +26914,8 @@
    "kanca": "69 ÖLÜMLÜ KAZA",
    "diger_kaynaklar": [
     "BBC Türkçe",
-    "XHABER"
+    "XHABER",
+    "Sözcü"
    ]
   },
   "ff6c7e08ec27": {
@@ -27572,9 +27558,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4eb7da4a9cb4": {
+   "id": "4eb7da4a9cb4",
+   "kaynak": "NTV",
+   "baslik": "Bakan Kacır duyurdu. Selden etkilenen işletmelere 1 milyon lira destek",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira kredi imkanı sunulacağını bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kacir-duyurdu-selden-etkilenen-isletmelere-1-milyon-lira-destek-1749286",
+   "zaman": "2026-11-04T03:48:23+03:00",
+   "kelimeler": [
+    "bakan",
+    "deste",
+    "duyur",
+    "etkil",
+    "islet",
+    "kacir",
+    "lira",
+    "milyo",
+    "selde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6be4a2c32906"
+  },
+  "996ed5ce0c44": {
+   "id": "996ed5ce0c44",
+   "kaynak": "Sözcü",
+   "baslik": "Gece yarısı aile katliamı: Anne ve kızı öldü, 1 kızı yaralı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/gece-yarisi-aile-katliami-anne-ve-kizi-oldu-1-kizi-yarali-p375790",
+   "zaman": "2026-11-04T03:51:27+03:00",
+   "kelimeler": [
+    "aile",
+    "anne",
+    "gece",
+    "katli",
+    "kizi",
+    "yaral",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "06aa12ba2c17": {
+   "id": "06aa12ba2c17",
+   "kaynak": "Sözcü",
+   "baslik": "İspanya'da 69 kişinin öldüğü tren kazasının ardından bakan istifa etti",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/ispanyada-69-kisinin-oldugu-tren-kazasinin-ardindan-bakan-istifa-etti-p375789",
+   "zaman": "2026-11-04T03:55:29+03:00",
+   "kelimeler": [
+    "69",
+    "ardin",
+    "bakan",
+    "etti",
+    "ispan",
+    "istif",
+    "kazas",
+    "kisin",
+    "oldug",
+    "tren"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e11bd1d8cdd1"
   }
  },
  "kayit": [
+  "04.11 04:01:42  1 yeni haber",
   "04.11 03:31:19  2 yeni haber",
   "04.11 03:16:05  1 yeni haber",
   "04.11 03:01:37  1 yeni haber",
@@ -27773,8 +27824,7 @@
   "02.11 02:31:10  1 yeni haber",
   "02.11 01:46:16  1 yeni haber",
   "02.11 01:33:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Borsa İstanbul Genel Müdürlüğü görevine vekaleten Atila Türeli getiril",
-  "02.11 01:31:21  1 yeni haber",
-  "02.11 01:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre "
+  "02.11 01:31:21  1 yeni haber"
  ],
  "otomatik": false
 }
