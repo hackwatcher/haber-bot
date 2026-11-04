@@ -1,90 +1,5 @@
 {
  "haberler": {
-  "1cb9bc6544ee": {
-   "id": "1cb9bc6544ee",
-   "kaynak": "TRT Haber",
-   "baslik": "Sigorta tazminatı için kazaları kurguladılar: 21 kişi tutuklandı",
-   "ozet": "Batman'da kurgu trafik kazalarıyla sigorta şirketlerinden haksız tazminat temin ettiği belirlenen suç örgütüne yönelik yürütülen soruşturmada gözaltına alınan 43 zanlıdan 21'i tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/sigorta-tazminati-icin-kazalari-kurguladilar-21-kisi-tutuklandi-961882.html",
-   "zaman": "2026-11-01T15:03:00+03:00",
-   "kelimeler": [
-    "21",
-    "kazal",
-    "kisi",
-    "kurgu",
-    "sigor",
-    "tazmi",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "31af026e7319": {
-   "id": "31af026e7319",
-   "kaynak": "NTV",
-   "baslik": "Bursa’da barajlarda şaşırtan tablo: Gölbaşı’nda sular çekiliyor",
-   "ozet": "Bursa’da yağışlar içme suyu barajlarını doldururken, tarım arazilerini besleyen Gölbaşı Barajı’nda su seviyesi yeniden düştü. Mart ayında yüzde 85 doluluğa ulaşan barajda kuraklık etkisini gösteriyor.",
-   "link": "https://www.ntv.com.tr/turkiye/video-bursada-barajlarda-sasirtan-tablo-golbasinda-sular-cekiliyor-1748914",
-   "zaman": "2026-11-01T15:12:10+03:00",
-   "kelimeler": [
-    "baraj",
-    "bursa",
-    "cekil",
-    "golba",
-    "nda",
-    "sasir",
-    "sular",
-    "tablo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "387dd6ce4431": {
-   "id": "387dd6ce4431",
-   "kaynak": "AA",
-   "baslik": "ABD'de maç sonrası stadyum yakınındaki silahlı saldırıda bir kişi öldü, 8 kişi yaralandı",
-   "ozet": "ABD'nin Alabama eyaletinde futbol maçı sonrası stadyum yakınındaki bir caddede yaşanan silahlı saldırıda bir kişi hayatını kaybetti, 8 kişi ise yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi/4107971",
-   "zaman": "2026-11-01T15:14:07+03:00",
-   "kelimeler": [
-    "abd",
-    "kisi",
-    "mac",
-    "saldi",
-    "silah",
-    "sonra",
-    "stady",
-    "yakin",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "c400be134a90": {
-   "id": "c400be134a90",
-   "kaynak": "Hürriyet",
-   "baslik": "Eskişehir'de yola düşen bayrakları öperek yerden alan trafik polisi kamerada",
-   "ozet": "Eskişehir çevreyolunda refüje savrulan 2 Türk bayrağını gören trafik polisi, aracını durdurup yola geçti; yerden aldığı bayrakları özenle katlayıp öptükten sonra ekip aracına götürdü.",
-   "link": "https://www.hurriyet.com.tr/gundem/eskisehirde-yola-dusen-bayraklari-operek-yerden-alan-trafik-polisi-kamerada-43362482",
-   "zaman": "2026-11-01T15:11:51+03:00",
-   "kelimeler": [
-    "alan",
-    "bayra",
-    "dusen",
-    "eskis",
-    "kamer",
-    "opere",
-    "polis",
-    "trafi",
-    "yerde",
-    "yola"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "dd92f6089734": {
    "id": "dd92f6089734",
    "kaynak": "AA",
@@ -25177,7 +25092,10 @@
     "yanit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c6f606baa3c0": {
    "id": "c6f606baa3c0",
@@ -29047,7 +28965,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "37454cb5065f": {
    "id": "37454cb5065f",
@@ -29546,9 +29467,154 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4613c1c528b9": {
+   "id": "4613c1c528b9",
+   "kaynak": "TRT Haber",
+   "baslik": "Lübnan Başbakanından Hizbullaha üstü kapalı uyarı: Ülkeyi yeni bir savaşa sürüklemeyin",
+   "ozet": "Lübnan Başbakanı Nevvaf Selam, ABD/İsrailİran Savaşı'nın yeniden başlama riski karşısında Lübnan'ı yeni bir savaşa sürüklememeye karşı üstü kapalı Hizbullah'a uyarıda bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/lubnan-basbakanindan-hizbullaha-ustu-kapali-uyari-ulkeyi-yeni-bir-savasa-suruklemeyin-962232.html",
+   "zaman": "2026-11-04T14:33:00+03:00",
+   "kelimeler": [
+    "basba",
+    "hizbu",
+    "kapal",
+    "lubna",
+    "savas",
+    "suruk",
+    "ulkey",
+    "ustu",
+    "uyari",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bc497b4167d0": {
+   "id": "bc497b4167d0",
+   "kaynak": "AA",
+   "baslik": "MSÜ Rektörü Afyoncu, vakanüvis Ahmed Lütfi Efendi'nin tarihçiliğini değerlendirdi",
+   "ozet": "MSÜ Rektörü Prof. Dr. Afyoncu, Osmanlı'nın dört padişah dönemini kapsayan 51 yıllık tarihini kaleme alan vakanüvis Ahmed Lütfi Efendi'nin edebiyat, şiir ve bürokrasi alanlarındaki çalışmalarıyla çok yönlü bir Osmanlı aydını olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/kultur/msu-rektoru-afyoncu-vakanuvis-ahmed-lutfi-efendinin-tarihciligini-degerlendirdi/4111477",
+   "zaman": "2026-11-04T14:53:43+03:00",
+   "kelimeler": [
+    "afyon",
+    "ahmed",
+    "deger",
+    "efend",
+    "lutfi",
+    "msu",
+    "nin",
+    "rekto",
+    "tarih",
+    "vakan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0bff80826f39": {
+   "id": "0bff80826f39",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da iki metrobüsün çarpıştığı kazada 6 kişi yaralandı",
+   "ozet": "Esenyurt'ta iki metrobüsün çarpışması sonucu 6 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-iki-metrobusun-carpistigi-kazada-6-kisi-yaralandi/4111484",
+   "zaman": "2026-11-04T15:00:13+03:00",
+   "kelimeler": [
+    "carpi",
+    "iki",
+    "istan",
+    "kazad",
+    "kisi",
+    "metro",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5d00c9da68e4"
+  },
+  "3d020e8e269a": {
+   "id": "3d020e8e269a",
+   "kaynak": "Hürriyet",
+   "baslik": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu son yolculuğuna uğurlandı",
+   "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, İstanbul'da kılınan cenaze namazının ardından son yolculuğuna uğurlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-son-yolculuguna-ugurlandi-43365861",
+   "zaman": "2026-11-04T15:03:00+03:00",
+   "kelimeler": [
+    "ahmet",
+    "baska",
+    "holdi",
+    "kurul",
+    "nazif",
+    "ugurl",
+    "yolcu",
+    "yonet",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fccae4ff18ed": {
+   "id": "fccae4ff18ed",
+   "kaynak": "AA",
+   "baslik": "Hamaney, ABD'deki seçim sonuçlarının Washington'ın İran politikasında değişiklik oluşturmayacağını söyledi",
+   "ozet": "İran lideri Mücteba Hamaney, ABD'deki ara seçim sonuçlarının ardından, Amerikan siyasi liderliğindeki veya parti dinamiklerindeki değişikliklerin bu ülkenin \"İran'a yönelik düşmanlığını\" değiştirmeyeceğini ifade etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/hamaney-abddeki-secim-sonuclarinin-washingtonin-iran-politikasinda-degisiklik-olusturmayacagini-soyledi/4111496",
+   "zaman": "2026-11-04T15:06:46+03:00",
+   "kelimeler": [
+    "abd",
+    "degis",
+    "deki",
+    "haman",
+    "in",
+    "iran",
+    "olust",
+    "polit",
+    "secim",
+    "sonuc",
+    "soyle",
+    "washi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eca9039471d1"
+  },
+  "ec20686d0ac0": {
+   "id": "ec20686d0ac0",
+   "kaynak": "AA",
+   "baslik": "Devlet Arşivleri Başkanlığınca \"Uluslararası Arşiv ve Arşivcilik Sempozyumu\" düzenlenecek",
+   "ozet": "Cumhurbaşkanlığı Devlet Arşivleri Başkanlığınca, İstanbul'daki Osmanlı Arşivi Külliyesi'nde 6-8 Kasım'da \"Uluslararası Arşiv ve Arşivcilik Sempozyumu\" düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/kultur/devlet-arsivleri-baskanliginca-uluslararasi-arsiv-ve-arsivcilik-sempozyumu-duzenlenecek/4111497",
+   "zaman": "2026-11-04T15:07:53+03:00",
+   "kelimeler": [
+    "arsiv",
+    "baska",
+    "devle",
+    "duzen",
+    "sempo",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e3a7734c7957": {
+   "id": "e3a7734c7957",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da sağanak etkili oluyor",
+   "ozet": "İstanbul'da etkili olan sağanağın ardından bazı yollarda ve caddelerde su birikintileri oluştu, otomobil ve motosiklet sürücüleri ilerlemekte güçlük çekti.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-etkili-oluyor/4111501",
+   "zaman": "2026-11-04T15:10:41+03:00",
+   "kelimeler": [
+    "etkil",
+    "istan",
+    "oluyo",
+    "sagan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 15:15:58  5 yeni haber",
   "04.11 15:01:27  5 yeni haber",
   "04.11 14:46:11  3 yeni haber",
   "04.11 14:31:26  8 yeni haber",
@@ -29747,8 +29813,7 @@
   "02.11 15:01:21  5 yeni haber",
   "02.11 14:46:02  3 yeni haber",
   "02.11 14:31:22  2 yeni haber",
-  "02.11 14:16:49  9 yeni haber",
-  "02.11 14:01:33  3 yeni haber"
+  "02.11 14:16:49  9 yeni haber"
  ],
  "otomatik": false
 }
