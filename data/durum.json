@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "11da020d71a6": {
-   "id": "11da020d71a6",
-   "kaynak": "Hürriyet",
-   "baslik": "Bavulun plastiğine gizlemişler: Ağrı'da 16,6 milyon liralık uyuşturucu yakalandı",
-   "ozet": "Doğubayazıt'ta gümrük ekiplerinin kontrol ettiği İran uyruklu yolcunun valizlerinden 4 kilo 442 gram metamfetamin çıktı. İlçede eş zamanlı süren trafik ve asayiş uygulamalarında ise 329 aranan şahıs adalete teslim edildi, kurallara uymayan 112 motosiklet bağlandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bavulun-plastigine-gizlemisler-agrida-16-6-milyon-liralik-uyusturucu-yakalandi-43362618",
-   "zaman": "2026-11-01T17:52:32+03:00",
-   "kelimeler": [
-    "16",
-    "agri",
-    "bavul",
-    "gizle",
-    "liral",
-    "milyo",
-    "plast",
-    "uyust",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0ea55f8b86ff": {
    "id": "0ea55f8b86ff",
    "kaynak": "AA",
@@ -29295,7 +29274,10 @@
     "saran"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "0c6f8c7496fc": {
    "id": "0c6f8c7496fc",
@@ -30484,9 +30466,135 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f0084a581c4b"
+  },
+  "6716966e747b": {
+   "id": "6716966e747b",
+   "kaynak": "TRT Haber",
+   "baslik": "Pakistan ilk yerli üretim havahava füzesini test etti",
+   "ozet": "Pakistan ordusu, ilk yerli üretim havadan havaya füze \"Fa'az\"ın test edildiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/pakistan-ilk-yerli-uretim-hava-hava-fuzesini-test-etti-962234.html",
+   "zaman": "2026-11-04T15:14:00+03:00",
+   "kelimeler": [
+    "etti",
+    "fuzes",
+    "havah",
+    "ilk",
+    "pakis",
+    "test",
+    "ureti",
+    "yerli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c7bd50210664": {
+   "id": "c7bd50210664",
+   "kaynak": "TRT Haber",
+   "baslik": "CFR: ABD'nin 1948'den bu yana İsrail'e sağladığı yardımlar 300 milyar doları aşıyor",
+   "ozet": "ABD Başkanı Donald Trumpın İsraile sağlanan yıllık yaklaşık 4 milyar dolarlık güvenlik yardımının bu yıl sonu itibarıyla durdurulacağını açıklaması, Tel Aviv yönetimi, güvenlik bürokrasisi ve ekonomi çevrelerinde adeta deprem etkisi yarattı.",
+   "link": "https://www.trthaber.com/haber/dunya/cfr-abdnin-1948den-bu-yana-israile-sagladigi-yardimlar-300-milyar-dolari-asiyor-962253.html",
+   "zaman": "2026-11-04T17:46:00+03:00",
+   "kelimeler": [
+    "1948",
+    "300",
+    "abd",
+    "asiyo",
+    "cfr",
+    "den",
+    "dolar",
+    "israi",
+    "milya",
+    "nin",
+    "sagla",
+    "yana",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "05f1eacda722": {
+   "id": "05f1eacda722",
+   "kaynak": "AA",
+   "baslik": "AB'nin 2027 öncelikleri rekabetçilik ve enerji fiyatları olacak",
+   "ozet": "Avrupa Birliği (AB) Komisyonu, 2027 çalışma programında rekabetçilik ve enerji fiyatlarına odaklanırken bankacılık, ulaştırma, dijital piyasalar, konut ve izin süreçlerinde kuralları sadeleştirecek yeni teklifler sunacak.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abnin-2027-oncelikleri-rekabetcilik-ve-enerji-fiyatlari-olacak/4111702",
+   "zaman": "2026-11-04T17:47:38+03:00",
+   "kelimeler": [
+    "2027",
+    "ab",
+    "enerj",
+    "fiyat",
+    "nin",
+    "olaca",
+    "oncel",
+    "rekab"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "330634b5fb08": {
+   "id": "330634b5fb08",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri'nden Avrupa Komisyonuna tepki",
+   "ozet": "Dışişleri Bakanlığı, yaptığı açıklamada, \"Avrupa Komisyonunun ülkemizle ilgili hazırladığı rapor, ön yargılı ve hakkaniyetten uzak tutumu ortaya koymaktadır.\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/disislerinden-avrupa-komisyonuna-tepki-962252.html",
+   "zaman": "2026-11-04T17:48:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "disis",
+    "komis",
+    "nden",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c96ddbce4dee": {
+   "id": "c96ddbce4dee",
+   "kaynak": "TRT Haber",
+   "baslik": "Kapadokya'daki balon şampiyonasında yarışlara rüzgar engeli",
+   "ozet": "Kapadokya'da ilk kez düzenlenen Türkiye Sıcak Hava Balonu Şampiyonası'nda uçuşlar etkili olan rüzgar nedeniyle gerçekleştirilemedi. Almanya, Macaristan ve Ermenistan'ın da aralarında bulunduğu 4 ülkeden 25 pilotun katıldığı organizasyon, 7 Kasım'a kadar devam edecek.",
+   "link": "https://www.trthaber.com/haber/turkiye/kapadokyadaki-balon-sampiyonasinda-yarislara-ruzgar-engeli-962254.html",
+   "zaman": "2026-11-04T17:50:00+03:00",
+   "kelimeler": [
+    "balon",
+    "daki",
+    "engel",
+    "kapad",
+    "ruzga",
+    "sampi",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3050f01dd026": {
+   "id": "3050f01dd026",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Eski Fenerbahçe Başkanı Sadettin Saran ve spiker Ela Rümeysa Cebeci beraat etti",
+   "ozet": "İş insanı ve eski Fenerbahçe Başkanı Sadettin Saran ile spiker Ela Rümeysa Cebeci \"uyuşturucu madde temin etmek\" suçundan 10 yıldan az olmamak üzere hapisle yargılandıkları davada beraat etti.",
+   "link": "https://www.bbc.com/turkce/articles/cvg1m80v621o",
+   "zaman": "2026-11-04T17:58:27+03:00",
+   "kelimeler": [
+    "baska",
+    "beraa",
+    "cebec",
+    "ela",
+    "eski",
+    "etti",
+    "fener",
+    "rumey",
+    "sadet",
+    "saran",
+    "spike"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab3e6e806407"
   }
  },
  "kayit": [
+  "04.11 18:01:39  5 yeni haber",
   "04.11 17:46:01  5 yeni haber",
   "04.11 17:31:22  9 yeni haber",
   "04.11 17:18:05  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bakan Gürlek'ten yasa dışı bahis operasyonlarına ilişkin açıklama: 9 a",
@@ -30685,8 +30793,7 @@
   "02.11 17:46:04  5 yeni haber",
   "02.11 17:31:27  6 yeni haber",
   "02.11 17:16:14  2 yeni haber",
-  "02.11 17:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran, savaşı sona erdirmek için 7 şartta ısrar ediyor",
-  "02.11 17:01:32  1 yeni haber"
+  "02.11 17:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran, savaşı sona erdirmek için 7 şartta ısrar ediyor"
  ],
  "otomatik": false
 }
