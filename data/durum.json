@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "6274950186a5": {
-   "id": "6274950186a5",
-   "kaynak": "AA",
-   "baslik": "İstanbul Havalimanı'ndaki İGA Pass yolcu hizmetlerinde indirim kampanyası",
-   "ozet": "İstanbul Havalimanı'ndaki İGA Pass yolcu hizmetlerinde yüzde 20'ye varan indirimli yıllık üyelik kampanyası başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanindaki-iga-pass-yolcu-hizmetlerinde-indirim-kampanyasi/4107863",
-   "zaman": "2026-11-01T12:17:45+03:00",
-   "kelimeler": [
-    "haval",
-    "hizme",
-    "iga",
-    "indir",
-    "istan",
-    "kampa",
-    "ndaki",
-    "pass",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1a4e43d6499e": {
-   "id": "1a4e43d6499e",
-   "kaynak": "AA",
-   "baslik": "İtalya'nın Ankara Büyükelçisi Manzo, ülkesi ve Türkiye'nin bölgede istikrar için aynı tarafta olduğunu söyledi",
-   "ozet": "İtalya'nın Ankara Büyükelçisi Giuseppe Manzo, Türkiye ile İtalya arasındaki ikili ilişkileri \"mükemmel\" olarak nitelendirerek, iki ülke arasındaki bu özel bağın çok taraflı platformlara da taşınması ve yansıtılması gerektiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/italyanin-ankara-buyukelcisi-manzo-ulkesi-ve-turkiyenin-bolgede-istikrar-icin-ayni-tarafta-oldugunu-soyledi/4107870",
-   "zaman": "2026-11-01T12:26:48+03:00",
-   "kelimeler": [
-    "ankar",
-    "ayni",
-    "bolge",
-    "buyuk",
-    "istik",
-    "italy",
-    "manzo",
-    "nin",
-    "oldug",
-    "soyle",
-    "taraf",
-    "turki",
-    "ulkes"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3816daa82902": {
-   "id": "3816daa82902",
-   "kaynak": "TRT Haber",
-   "baslik": "Sağlıkta yerli teknoloji hamlesi: Robotik cerrahi cihazı Türkiye'de üretilecek",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, yerli robotik cerrahi cihazı geliştirmeyi hedeflediklerini belirterek, en geç 2027'nin başında TÜSEB aracılığıyla çağrıya çıkacaklarını ve teknolojiyi yazılımıyla birlikte Türkiye'de üreteceklerini söyledi.",
-   "link": "https://www.trthaber.com/haber/saglik/saglikta-yerli-teknoloji-hamlesi-robotik-cerrahi-cihazi-turkiyede-uretilecek-961873.html",
-   "zaman": "2026-11-01T12:32:00+03:00",
-   "kelimeler": [
-    "cerra",
-    "cihaz",
-    "hamle",
-    "robot",
-    "sagli",
-    "tekno",
-    "turki",
-    "ureti",
-    "yerli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3b6f336e1b33"
-  },
   "6c27a699fd78": {
    "id": "6c27a699fd78",
    "kaynak": "NTV",
@@ -385,26 +317,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "81747d0f4967": {
-   "id": "81747d0f4967",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Memişoğlu: Robotik cerrahi cihazı Türkiye'de üretilecek",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, yerli robotik cerrahi cihazı geliştirmeyi hedeflediklerini belirterek, en geç 2027'nin başında TÜSEB aracılığıyla çağrıya çıkacaklarını ve teknolojiyi yazılımıyla birlikte Türkiye'de üreteceklerini söyledi.",
-   "link": "https://www.trthaber.com/haber/saglik/bakan-memisoglu-robotik-cerrahi-cihazi-turkiyede-uretilecek-961873.html",
-   "zaman": "2026-11-01T12:32:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "cerra",
-    "cihaz",
-    "memis",
-    "robot",
-    "turki",
-    "ureti"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f9ef567290f7"
   },
   "43b222be3fb2": {
    "id": "43b222be3fb2",
@@ -28849,7 +28761,10 @@
     "york"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0c6af4f9f3d0": {
    "id": "0c6af4f9f3d0",
@@ -28945,9 +28860,184 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "61d70c9a34c3"
+  },
+  "b30dc7dc523c": {
+   "id": "b30dc7dc523c",
+   "kaynak": "AA",
+   "baslik": "Dakar 2026'da altın madalya kazanan Sema Nur Yüksel'in hedefi büyüklerde de olimpiyat şampiyonluğu",
+   "ozet": "Senegal'de düzenlenen 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) judoda altın madalya kazanan milli sporcu Sema Nur Yüksel, büyüklerde de olimpiyat şampiyonluğuna ulaşarak İstiklal Marşı'nı okutmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/spor/dakar-2026da-altin-madalya-kazanan-sema-nur-yukselin-hedefi-buyuklerde-de-olimpiyat-sampiyonlugu/4111165",
+   "zaman": "2026-11-04T11:24:48+03:00",
+   "kelimeler": [
+    "2026",
+    "altin",
+    "buyuk",
+    "dakar",
+    "hedef",
+    "in",
+    "kazan",
+    "madal",
+    "nur",
+    "olimp",
+    "sampi",
+    "sema",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "14e344b80a0e": {
+   "id": "14e344b80a0e",
+   "kaynak": "AA",
+   "baslik": "\"Ara Güler-Master of Leica\" sergisi, sanatçının fotoğraf arşivinden izler sunuyor",
+   "ozet": "Usta fotoğrafçı Ara Güler'in Leica markasıyla 60 yılı aşkın süreye yayılan ilişkisi, kişisel arşivindeki yazışmalar, notlar ve fotoğraflar aracılığıyla Ara Güler Müzesi'nde açılan \"Ara Güler-Master of Leica\" sergisinde ziyaretçiyle buluşuyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/ara-guler-master-of-leica-sergisi-sanatcinin-fotograf-arsivinden-izler-sunuyor/4111166",
+   "zaman": "2026-11-04T11:24:51+03:00",
+   "kelimeler": [
+    "ara",
+    "arsiv",
+    "fotog",
+    "guler",
+    "izler",
+    "leica",
+    "maste",
+    "of",
+    "sanat",
+    "sergi",
+    "sunuy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "07f4dcfdeb7a": {
+   "id": "07f4dcfdeb7a",
+   "kaynak": "TRT Haber",
+   "baslik": "New York Eyalet Senatosu'na ilk kez Filistin kökenli bir isim seçildi",
+   "ozet": "ABD'de düzenlenen ara seçimlerde aday olan Aber Kawas, New York'ta Eyalet Senatosu'na seçilen ilk Filistin kökenli ve başörtülü isim oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/new-york-eyalet-senatosuna-ilk-kez-filistin-kokenli-bir-isim-secildi-962210.html",
+   "zaman": "2026-11-04T12:03:00+03:00",
+   "kelimeler": [
+    "eyale",
+    "filis",
+    "ilk",
+    "isim",
+    "kez",
+    "koken",
+    "na",
+    "new",
+    "secil",
+    "senat",
+    "york"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d0ae04414e2b"
+  },
+  "040b401749d9": {
+   "id": "040b401749d9",
+   "kaynak": "AA",
+   "baslik": "Fransa'da kan depolama tesislerine siber saldırı düzenlendi",
+   "ozet": "Fransa'da kan kurumunun depolama tesislerinde kullanılan soğutma sistemine siber saldırı düzenlendiği öğrenildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi/4111245",
+   "zaman": "2026-11-04T12:13:52+03:00",
+   "kelimeler": [
+    "depol",
+    "duzen",
+    "frans",
+    "kan",
+    "saldi",
+    "siber",
+    "tesis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "5b02cb47c86c": {
+   "id": "5b02cb47c86c",
+   "kaynak": "TRT Haber",
+   "baslik": "Bin 450 kilogramlık NASA gözlemevi Dünya'ya düşüyor",
+   "ozet": "NASA'nın evrendeki en güçlü patlamaları incelemek amacıyla yörüngeye gönderdiği Neil Gehrels Swift Gözlemevi, yaklaşık 22 yıllık görev süresinin ardından Dünya atmosferine yeniden giriyor.",
+   "link": "https://www.trthaber.com/haber/dunya/bin-450-kilogramlik-nasa-gozlemevi-dunyaya-dusuyor-962212.html",
+   "zaman": "2026-11-04T12:15:00+03:00",
+   "kelimeler": [
+    "450",
+    "bin",
+    "dunya",
+    "dusuy",
+    "gozle",
+    "kilog",
+    "nasa",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60ebd9ccf4ab": {
+   "id": "60ebd9ccf4ab",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da kan depolama tesislerine siber saldırı düzenlendi",
+   "ozet": "Fransa'da kan kurumunun depolama tesislerinde kullanılan soğutma sistemine siber saldırı düzenlendiği öğrenildi.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi-962211.html",
+   "zaman": "2026-11-04T12:16:00+03:00",
+   "kelimeler": [
+    "depol",
+    "duzen",
+    "frans",
+    "kan",
+    "saldi",
+    "siber",
+    "tesis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "040b401749d9"
+  },
+  "0127a53e4215": {
+   "id": "0127a53e4215",
+   "kaynak": "AA",
+   "baslik": "İsrailli aşırı sağcı Bakan Ben-Gvir, seçim sonuçlarına karşı çıkacağını açıkladı",
+   "ozet": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, İsrail vatandaşı Filistinlileri temsil eden partilerin rekor oyla çıktığı seçimlerde \"hile\" yapıldığını öne sürerek seçim sonuçlarının onaylanmasına karşı çıkacağını belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-asiri-sagci-bakan-ben-gvir-secim-sonuclarina-karsi-cikacagini-acikladi/4111249",
+   "zaman": "2026-11-04T12:16:53+03:00",
+   "kelimeler": [
+    "asiri",
+    "bakan",
+    "ben",
+    "cikac",
+    "gvir",
+    "israi",
+    "karsi",
+    "sagci",
+    "secim",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4a999d6fb938": {
+   "id": "4a999d6fb938",
+   "kaynak": "TRT Haber",
+   "baslik": "Kekova Batığı Guinness Rekorlar Kitabı'nda",
+   "ozet": "Antalya'nın Kekova Adası yakınlarında su altı kazılarında ortaya çıkarılan gemi batığı, Guinness Rekorlar Kitabı'na dünyanın en eski batığı olarak girdi.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/kekova-batigi-guinness-rekorlar-kitabinda-962213.html",
+   "zaman": "2026-11-04T12:24:00+03:00",
+   "kelimeler": [
+    "batig",
+    "guinn",
+    "kekov",
+    "kitab",
+    "nda",
+    "rekor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 12:32:40  6 yeni haber",
   "04.11 12:16:00  5 yeni haber",
   "04.11 12:03:31  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Demokratların kazandığı Kongre ile Beyaz Saray arasındaki güç savaşı, ",
   "04.11 12:01:22  8 yeni haber",
@@ -29146,8 +29236,7 @@
   "02.11 11:49:33  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 32 ilde FETÖ operasyonu: 41 şüpheli tutuklandı",
   "02.11 11:46:30  6 yeni haber",
   "02.11 11:32:17  21 yeni haber",
-  "02.11 11:16:13  9 yeni haber",
-  "02.11 11:01:37  6 yeni haber"
+  "02.11 11:16:13  9 yeni haber"
  ],
  "otomatik": false
 }
