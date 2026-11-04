@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "a571ea3a3418": {
-   "id": "a571ea3a3418",
-   "kaynak": "TRT Haber",
-   "baslik": "Burdur'da iki otomobil çarpıştı: 2 ölü, 4 yaralı",
-   "ozet": "Burdur'un Çavdır ilçesinde iki otomobilin çarpışması sonucu 2 kişi öldü, 4 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/burdurda-iki-otomobil-carpisti-2-olu-4-yarali-961875.html",
-   "zaman": "2026-11-01T13:17:00+03:00",
-   "kelimeler": [
-    "burdu",
-    "carpi",
-    "iki",
-    "olu",
-    "otomo",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "279a09ed6fd7": {
    "id": "279a09ed6fd7",
    "kaynak": "AA",
@@ -24101,7 +24083,8 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "44d0dd0186f8": {
    "id": "44d0dd0186f8",
@@ -27324,7 +27307,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ffa47e254622": {
    "id": "ffa47e254622",
@@ -27366,7 +27351,10 @@
     "zorun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "45fe286a063e": {
    "id": "45fe286a063e",
@@ -28939,9 +28927,245 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "27a65401d1da": {
+   "id": "27a65401d1da",
+   "kaynak": "Hürriyet",
+   "baslik": "Çok sayıda vatandaşı mağdur etmişler.. 27,5 milyar liralık vurgun! Dolandırıcılık şebekelerine operasyon: 327 gözaltı",
+   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamaya göre 21 ilde dolandırıcılık şebekelerine yönelik operasyonlar düzenlendi. Gözaltına alınan 327 şüphelinin vatandaşları 464 milyon lira dolandırıldığı, banka hesaplarında ise 27 milyar 509 milyon TL işlem hacmi bulunduğu tespit edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/27-5-milyar-liralik-vurgun-yapmislar-cok-sayida-magdur-var-dolandiricilik-sebekelerine-operasyon-327-gozalti-43365652",
+   "zaman": "2026-11-04T13:09:00+03:00",
+   "kelimeler": [
+    "27",
+    "327",
+    "dolan",
+    "etmis",
+    "gozal",
+    "liral",
+    "magdu",
+    "milya",
+    "opera",
+    "sayid",
+    "sebek",
+    "vatan",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "753a76ff9a7e": {
+   "id": "753a76ff9a7e",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da tarihi eser kaçakçılarına operasyon: 4 gözaltı! Altın kaplama yazılı kitap ele geçirildi",
+   "ozet": "İstanbul’da tarihi eser satmak için müşteri aradıkları belirlenen 4 şüpheli, jandarmanın iki adrese düzenlediği operasyonda gözaltına alındı. Aramalarda Roma ve Bizans dönemlerine ait olduğu değerlendirilen iki kitap, bir muhafaza, bir belge, bir ikona ve beş sikke ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-tarihi-eser-kacakcilarina-operasyon-4-gozalti-altin-kaplama-yazili-kitap-ele-gecirildi-43365665",
+   "zaman": "2026-11-04T13:09:58+03:00",
+   "kelimeler": [
+    "altin",
+    "ele",
+    "eser",
+    "gecir",
+    "gozal",
+    "istan",
+    "kacak",
+    "kapla",
+    "kitap",
+    "opera",
+    "tarih",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c6eca16cbf5f": {
+   "id": "c6eca16cbf5f",
+   "kaynak": "TRT Haber",
+   "baslik": "Çiftçilere 9 ayda 115,5 milyar lira destek ödemesi yapıldı",
+   "ozet": "Tarım ve Orman Bakanlığı, ocakeylül döneminde çiftçilere 115 milyar 496 milyon lira destekleme ödemesi yaptı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ciftcilere-9-ayda-1155-milyar-lira-destek-odemesi-yapildi-962216.html",
+   "zaman": "2026-11-04T13:11:00+03:00",
+   "kelimeler": [
+    "115",
+    "ayda",
+    "ciftc",
+    "deste",
+    "lira",
+    "milya",
+    "odeme",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d9658a646a26"
+  },
+  "9d49e47ef15c": {
+   "id": "9d49e47ef15c",
+   "kaynak": "AA",
+   "baslik": "Geleneksel Türk Okçuluk Takımı, Dünya Şampiyonası'nda 4 madalya kazandı",
+   "ozet": "Güney Kore'de düzenlenen Dünya Geleneksel Okçuluk Şampiyonası'nda mücadele eden milli takım, 4 madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculuk-takimi-dunya-sampiyonasinda-4-madalya-kazandi/4111338",
+   "zaman": "2026-11-04T13:14:15+03:00",
+   "kelimeler": [
+    "dunya",
+    "gelen",
+    "kazan",
+    "madal",
+    "nda",
+    "okcul",
+    "sampi",
+    "takim",
+    "turk"
+   ],
+   "durum": "hata",
+   "oncelikli": true,
+   "hata": "Görsel GitHub'a gönderilemedi: remote: fatal error in commit_refs        \nTo https://github.com/hackwatcher/haber-bot.git\n ! [remote rejected] HEAD -> media (failure)\nerror: failed to push some refs to 'https://github.com/hackwatcher/haber-bot.git'\n"
+  },
+  "4d0c27fb44a9": {
+   "id": "4d0c27fb44a9",
+   "kaynak": "AA",
+   "baslik": "ABD'deki referandumlarda, 5 eyalette oy kullanmada vatandaşlık şartını güçlendiren düzenlemeler kabul edildi",
+   "ozet": "ABD'de 2026 Kongre ara seçimleri çerçevesinde 30'dan fazla eyalette çeşitli konularda 145 referandum düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-referandumlarda-5-eyalette-oy-kullanmada-vatandaslik-sartini-guclendiren-duzenlemeler-kabul-edildi/4111341",
+   "zaman": "2026-11-04T13:14:41+03:00",
+   "kelimeler": [
+    "abd",
+    "deki",
+    "duzen",
+    "edild",
+    "eyale",
+    "gucle",
+    "kabul",
+    "kulla",
+    "oy",
+    "refer",
+    "sarti",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8e94f55d5d2c": {
+   "id": "8e94f55d5d2c",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail gazetesi: ABD'deki seçim sonuçları, Tel AvivWashington ilişkisini yeniden şekillendirebilir",
+   "ozet": "İsrail basınında yayımlanan bir makalede, ABD'deki ara seçimlerde Başkan Donald Trump'ın mensubu olduğu Cumhuriyetçi Parti'nin Kongre'deki çoğunluğu kaybetmesinin, Washington yönetiminin İran politikasından ABDİsrail ilişkilerine kadar birçok alanda etkili olabileceğine ve…",
+   "link": "https://www.trthaber.com/haber/dunya/israil-gazetesi-abddeki-secim-sonuclari-tel-aviv-washington-iliskisini-yeniden-sekillendirebilir-962218.html",
+   "zaman": "2026-11-04T13:16:00+03:00",
+   "kelimeler": [
+    "abd",
+    "avivw",
+    "deki",
+    "gazet",
+    "ilisk",
+    "israi",
+    "secim",
+    "sekil",
+    "sonuc",
+    "tel",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6a853222760f": {
+   "id": "6a853222760f",
+   "kaynak": "TRT Haber",
+   "baslik": "Zorunlu kış lastiği uygulaması 15 Kasım'da başlıyor",
+   "ozet": "Şehirler arası yollarda yolcu ve eşya taşıyan tüm ticari araçlar için kış lastiği kullanım zorunluluğu 15 Kasım'dan itibaren başlayacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/zorunlu-kis-lastigi-uygulamasi-15-kasimda-basliyor-962217.html",
+   "zaman": "2026-11-04T13:16:00+03:00",
+   "kelimeler": [
+    "15",
+    "basli",
+    "kasim",
+    "kis",
+    "lasti",
+    "uygul",
+    "zorun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c042d55d0123"
+  },
+  "b540d442c59f": {
+   "id": "b540d442c59f",
+   "kaynak": "XHABER",
+   "baslik": "ABD'de devrilmez denilen Trump",
+   "ozet": "ara seçimleri kaybetti. Demokratlar hem Temsilciler Meclisi hem de Senato seçimlerini kazanıyor. Demokratlar, Başkan Trump'i görevden almak için azil süreci başlatmayı planlıyor.",
+   "link": "https://t.me/sahinozkan000/30520",
+   "zaman": "2026-11-04T13:23:04+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "ABD'de devrilmez denilen Trump\nara seçimleri kaybetti.\nDemokratlar hem Temsilciler Meclisi hem de Senato seçimlerini kazanıyor.\nDemokratlar, Başkan Trump'i görevden almak için azil süreci başlatmayı planlıyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/VOiGu5mJhAcwuWoyBsY1_OH6zIoHPTZcVqFJgagbI6M7QTFHsH5a8WM6Lax8jVdKhdNvekrSdEm1Lu0TJpC7sfedfU_oa3b-qCUV1A-xE2eltp-hQW6tRJKiC9D_y2G4PYErnba2C5wDE8eTpAU4ary8tT06QLu7T0O8m3ITOX-n-sMkYYWZHpgNJQtXlsFsmAAJtdFA2qux103XkFx2M3oVmkUmEOncUCaU6AnMfcq1kcLsK1oTr7pqskCjQbbIsBYzULgl-FVt24cRzYvTyU-on_6uoqKvfgmsFE2mvDMWLJI66nWDdEjLFYoU0LEXxNRrUsyAcneVPsj8ekFjFw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "abd",
+    "denil",
+    "devri",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "df14a8d36f38": {
+   "id": "df14a8d36f38",
+   "kaynak": "AA",
+   "baslik": "BMW'nin üçüncü çeyrek faaliyet karı Çin pazarındaki durgunluk nedeniyle yüzde 30 geriledi",
+   "ozet": "Alman otomobil üreticisi BMW Group'un faaliyet karı, Çin pazarındaki durgunluk ve maliyetli kurumsal dönüşüm süreçlerinin etkisiyle yılın üçüncü çeyreğinde yıllık bazda yaklaşık yüzde 30 azalarak 1,59 milyar avroya geriledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bmwnin-ucuncu-ceyrek-faaliyet-kari-cin-pazarindaki-durgunluk-nedeniyle-yuzde-30-geriledi/4111357",
+   "zaman": "2026-11-04T13:24:07+03:00",
+   "kelimeler": [
+    "30",
+    "bmw",
+    "ceyre",
+    "cin",
+    "durgu",
+    "faali",
+    "geril",
+    "kari",
+    "neden",
+    "nin",
+    "pazar",
+    "ucunc",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "74fb9ecace7c": {
+   "id": "74fb9ecace7c",
+   "kaynak": "XHABER",
+   "baslik": "Kavga sesleri üzerine olay yerine gelen polislere direnen adam, eşinin konuşmasını engellemeye çalıştı.",
+   "ozet": "Kadın ise gizlice el işareti yaparak polisten yardım istedi.",
+   "link": "https://t.me/sahinozkan000/30521",
+   "zaman": "2026-11-04T13:27:22+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Kavga sesleri üzerine olay yerine gelen polislere direnen adam, eşinin konuşmasını engellemeye çalıştı. Kadın ise gizlice el işareti yaparak polisten yardım istedi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/jIw7v6nWswtW1wfa0ytWCgja1Xn3PzQhYYGf05VuivaTmyR5snwDQAGmG9stZzPsKmQDXG8Kj0yTGOZMjPydXROTTg4ll593JsIbVzykZDot-d8rZLuWsmkuI6OG3leeiASV7I3C6duPdHARF95KCz90s8d19sby-Uk4sS1cB9GRJG0AIpTRvSlN4qc7gng3XPuA8vZqWKEYKmLfEDUtJeNB6wB6BnF95GP7dNAtT51Wi4Szum0Gfqp1sFoA6bJOvSiOfzgZBhQMokexhlRtd1XbrU_Wqguo32i3YbNxdaV2j5FX5m4YH-H85azHVx9Garhii1aK9HATe6JnUKa1MA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/760910197d.mp4?token=iZNL1byUPKuGkJrPSYCBOWBYkeLg-WD-VDglrx7jahLPfcj8gvtDGmx8BCVtPRhlIp0VHL9nTrg6wFgZquPWd5J_euVkycPqyJlEOWOvyuc6eaquyiuPOC6xPp2Vx8VxbzI695MsIVBGu5DWXEyVBQBzeUlg9qWmf1zo3G_5HdTpxMaXyajaCYhFe9Cf9qF_MP4urhvwkupIH4CbaHeWmeSbO4rpjlatbi2OYXs6Py3UK1RsPZFn5zJHRcwlSE3xPl7LnM5z9rVw2p5RR0a6kUGu5RDJZQ1O6-L-aBnxnLBk5JthGu0LlEC3MMDbcUgXSXTS3V6YtY4GUlUFOIwuyw",
+   "kelimeler": [
+    "adam",
+    "calis",
+    "diren",
+    "engel",
+    "esini",
+    "gelen",
+    "kavga",
+    "konus",
+    "olay",
+    "polis",
+    "sesle",
+    "uzeri",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "713353cd4768"
   }
  },
  "kayit": [
+  "04.11 13:33:07  Otomatik paylaşım başarısız: Görsel GitHub'a gönderilemedi: remote: fatal error in commit_refs        \nTo https://github.com/hackwatcher/haber-bot.git\n ! [remote rejected] HEAD -> media (failure)\nerror: failed to push some refs to 'https://github.com/hackwatcher/haber-bot.git'\n",
+  "04.11 13:31:20  7 yeni haber",
   "04.11 13:15:59  3 yeni haber",
   "04.11 13:01:32  5 yeni haber",
   "04.11 12:51:20  2 yeni haber",
@@ -29139,9 +29363,7 @@
   "02.11 13:16:16  9 yeni haber",
   "02.11 13:01:21  5 yeni haber",
   "02.11 12:46:05  4 yeni haber",
-  "02.11 12:31:24  5 yeni haber",
-  "02.11 12:16:15  14 yeni haber",
-  "02.11 12:01:25  5 yeni haber"
+  "02.11 12:31:24  5 yeni haber"
  ],
  "otomatik": false
 }
