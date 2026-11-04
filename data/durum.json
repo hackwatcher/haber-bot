@@ -23,29 +23,6 @@
    "durum": "engelli",
    "oncelikli": true
   },
-  "8fae41d8dfd4": {
-   "id": "8fae41d8dfd4",
-   "kaynak": "AA",
-   "baslik": "Kanada Başbakanı Carney, ABD Başkanı Trump ile ikili ticaret meselesini görüştü",
-   "ozet": "Kanada Başbakanı Mark Carney ile ABD Başkanı Donald Trump, uzun zamandır anlaşmazlıkların sürdüğü ikili ticaret meselesini telefonda görüştü.",
-   "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-gorustu/4108169",
-   "zaman": "2026-11-01T20:33:26+03:00",
-   "kelimeler": [
-    "abd",
-    "basba",
-    "baska",
-    "carne",
-    "gorus",
-    "ikili",
-    "kanad",
-    "mesel",
-    "ticar",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "08cdc0c60f86"
-  },
   "cc2cc6590884": {
    "id": "cc2cc6590884",
    "kaynak": "AA",
@@ -30814,10 +30791,105 @@
     "tahli"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "2fc19c8f7e37": {
+   "id": "2fc19c8f7e37",
+   "kaynak": "TRT Haber",
+   "baslik": "AB Komisyonu üyesi Kos, Karadağ, Arnavutluk, Moldova ve Ukrayna için üyelik yol haritalarını açıkladı",
+   "ozet": "Avrupa Birliği AB Komisyonunun Genişlemeden Sorumlu Üyesi Marta Kos, Karadağ'ın katılım antlaşması imzalanana kadar atması gereken adımları ve Arnavutluk, Moldova ile Ukraynanın üyelik müzakerelerinde gelecek bir yıl içerisinde ulaşmaları öngörülen hedefleri belirleyen yol…",
+   "link": "https://www.trthaber.com/haber/dunya/ab-komisyonu-uyesi-kos-karadag-arnavutluk-moldova-ve-ukrayna-icin-uyelik-yol-haritalarini-acikladi-962256.html",
+   "zaman": "2026-11-04T20:14:00+03:00",
+   "kelimeler": [
+    "ab",
+    "arnav",
+    "harit",
+    "karad",
+    "komis",
+    "kos",
+    "moldo",
+    "ukray",
+    "uyeli",
+    "uyesi",
+    "yol"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "9a872d3e1a72": {
+   "id": "9a872d3e1a72",
+   "kaynak": "AA",
+   "baslik": "ABD Senatosu Azınlık Lideri Demokrat Schumer: İran'la savaşı sona erdireceğiz",
+   "ozet": "Demokratların Kongre'de üstünlüğü sağladığı ara seçimleri değerlendiren Senato Azınlık Lideri Chuck Schumer, Amerikan halkının İran'da ne uğruna savaşıldığını bilmediğini ve bu savaşı bitireceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-iranla-savasi-sona-erdirecegiz/4111873",
+   "zaman": "2026-11-04T20:23:59+03:00",
+   "kelimeler": [
+    "abd",
+    "azinl",
+    "demok",
+    "erdir",
+    "iran",
+    "la",
+    "lider",
+    "savas",
+    "schum",
+    "senat",
+    "sona"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0d4b06841401": {
+   "id": "0d4b06841401",
+   "kaynak": "TRT Haber",
+   "baslik": "BM İnsan Hakları Yüksek Komiseri Türk: Hesap sorulabilirliği mümkün kılan kurumları savunmalıyız",
+   "ozet": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, Uluslararası Ceza Mahkemesinin UCM uluslararası insan hakları ekosisteminin vazgeçilmez bir parçası olduğunu belirterek, hesap sorulabilirliği mümkün kılan kurumların savunulması gerektiğini vurguladı.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-insan-haklari-yuksek-komiseri-turk-hesap-sorulabilirligi-mumkun-kilan-kurumlari-savunmaliyiz-962257.html",
+   "zaman": "2026-11-04T20:29:00+03:00",
+   "kelimeler": [
+    "bm",
+    "hakla",
+    "hesap",
+    "insan",
+    "kilan",
+    "komis",
+    "kurum",
+    "mumku",
+    "savun",
+    "sorul",
+    "turk",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "11dc8bcb2f99": {
+   "id": "11dc8bcb2f99",
+   "kaynak": "NTV",
+   "baslik": "Emir Sarıgül adli kontrol şartıyla tahliye edildi",
+   "ozet": "Kara para soruşturmasında tutuklanan Emir Sarıgül, adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/emir-sarigul-adli-kontrol-sartiyla-tahliye-edildi-1749408",
+   "zaman": "2026-11-04T20:37:15+03:00",
+   "kelimeler": [
+    "adli",
+    "edild",
+    "emir",
+    "kontr",
+    "sarig",
+    "sarti",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5cc62f77bf33"
   }
  },
  "kayit": [
+  "04.11 20:38:33  3 yeni haber",
+  "04.11 20:38:33  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "04.11 20:31:20  3 yeni haber",
   "04.11 20:16:01  5 yeni haber",
   "04.11 19:46:06  3 yeni haber",
@@ -31015,9 +31087,7 @@
   "02.11 20:16:15  4 yeni haber",
   "02.11 20:01:35  2 yeni haber",
   "02.11 19:46:05  1 yeni haber",
-  "02.11 19:34:22  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Borsa günü yükselişle tamamladı",
-  "02.11 19:32:28  2 yeni haber",
-  "02.11 19:16:11  1 yeni haber"
+  "02.11 19:34:22  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · Borsa günü yükselişle tamamladı"
  ],
  "otomatik": false
 }
