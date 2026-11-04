@@ -31021,7 +31021,10 @@
     "uygun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "86e2d9411df8": {
    "id": "86e2d9411df8",
@@ -31088,11 +31091,44 @@
     "selen",
     "suda"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-05T01:16:35.628726+03:00",
+   "ig_id": "17978661612141155",
+   "reels_id": null,
+   "story_id": "17965719399228251",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122113822173472027",
+   "fb_reels_id": null,
+   "slayt": 1,
+   "kanca": "Dikkat"
+  },
+  "631ae6994f31": {
+   "id": "631ae6994f31",
+   "kaynak": "Hürriyet",
+   "baslik": "Mekke Anlaşması’nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM’de",
+   "ozet": "TBMM Genel Kurulunda Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin birinci maddesi kabul edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmmde-43366369",
+   "zaman": "2026-11-05T01:05:59+03:00",
+   "kelimeler": [
+    "anlas",
+    "bulun",
+    "dair",
+    "kanun",
+    "mekke",
+    "nin",
+    "onayl",
+    "tbmm",
+    "tekli",
+    "uygun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fa0a7f79933f"
   }
  },
  "kayit": [
+  "05.11 01:16:35  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Atakan Özyurt ve Selen Özyurt çifti, ikinci çocukları Latife'nin suda ",
   "05.11 01:02:15  2 yeni haber",
   "05.11 00:46:07  2 yeni haber",
   "05.11 00:18:18  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fon soruşturmasında Fatma Betül Sayan Kaya, İlyas Kaya ve",
@@ -31291,8 +31327,7 @@
   "03.11 00:16:33  5 yeni haber",
   "03.11 00:02:41  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Vestel’in sahibi Ahmet Nazif Zorlu hayatını kaybetti.",
   "03.11 00:01:25  3 yeni haber",
-  "02.11 23:47:14  1 yeni haber",
-  "02.11 23:31:30  2 yeni haber"
+  "02.11 23:47:14  1 yeni haber"
  ],
  "otomatik": false
 }
