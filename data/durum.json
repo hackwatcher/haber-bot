@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "a43be99a4f1d": {
-   "id": "a43be99a4f1d",
-   "kaynak": "Hürriyet",
-   "baslik": "Direğe çarptı, panikle gaza yüklendi! Beşiktaş'ta bahçeye düşen alkollü sürücü kamerada",
-   "ozet": "Beşiktaş Balmumcu'da manevra yaparken direğe vuran ve panikleyip fren yerine gaza basınca geri geri giderek apartman bahçesine düşen sürücünün yardımına çevredeki vatandaşlar koştu.",
-   "link": "https://www.hurriyet.com.tr/gundem/direge-carpti-panikle-gaza-yuklendi-besiktasta-bahceye-dusen-alkollu-surucu-kamerada-43362204",
-   "zaman": "2026-11-01T10:33:08+03:00",
-   "kelimeler": [
-    "alkol",
-    "bahce",
-    "besik",
-    "carpt",
-    "direg",
-    "dusen",
-    "gaza",
-    "kamer",
-    "panik",
-    "suruc",
-    "ta",
-    "yukle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8a34c4381d28": {
-   "id": "8a34c4381d28",
-   "kaynak": "NTV",
-   "baslik": "E-Devlet yaş doğrulaması yapma ekranı. Sosyal medya yaş doğrulaması nasıl ve nereden yapılacak?",
-   "ozet": "Milyonlarca sosyal medya kullanıcısını doğrudan ilgilendiren yeni yönetmelik bugün yürürlüğe girdi. Artık Instagram, TikTok ve X gibi platformlarda hesap açarken e-Devlet üzerinden 'yaş doğrulama belirteci' şartı aranacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-e-devlet-yas-dogrulamasi-yapma-ekrani-sosyal-medya-yas-dogrulamasi-nasil-ve-nereden-yapilacak-1748860",
-   "zaman": "2026-11-01T10:37:30+03:00",
-   "kelimeler": [
-    "devle",
-    "dogru",
-    "ekran",
-    "medya",
-    "nasil",
-    "nered",
-    "sosya",
-    "yapil",
-    "yapma",
-    "yas"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "865c9722f17f": {
-   "id": "865c9722f17f",
-   "kaynak": "AA",
-   "baslik": "Rusya, Ukrayna'da askeri amaçla kullanılan tren istasyonu ve gemiyi vurduğunu bildirdi",
-   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'da askeri amaçlarla kullanılan tren istasyonu ve bir gemiyi vurduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-amacla-kullanilan-tren-istasyonu-ve-gemiyi-vurdugunu-bildirdi/4107771",
-   "zaman": "2026-11-01T10:45:03+03:00",
-   "kelimeler": [
-    "amacl",
-    "asker",
-    "bildi",
-    "gemiy",
-    "istas",
-    "kulla",
-    "rusya",
-    "tren",
-    "ukray",
-    "vurdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1d7fdd3ea507": {
    "id": "1d7fdd3ea507",
    "kaynak": "Hürriyet",
@@ -20771,7 +20703,8 @@
     "traky"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "bc0764bdbc0e": {
    "id": "bc0764bdbc0e",
@@ -25017,7 +24950,10 @@
     "senat"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5348cf1f446a": {
    "id": "5348cf1f446a",
@@ -28261,7 +28197,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "acc3252899e3": {
    "id": "acc3252899e3",
@@ -28507,8 +28444,17 @@
     "pesin",
     "yerle"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-04T10:48:42.073610+03:00",
+   "ig_id": "17953991304304644",
+   "reels_id": "18119857132796436",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2199141197348835",
+   "slayt": 6,
+   "kanca": "YÜZDE 74 PEŞİN İNDİRİMİ"
   },
   "f03f070b558b": {
    "id": "f03f070b558b",
@@ -28592,9 +28538,337 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "91ca6c0fbf26"
+  },
+  "0d1417259227": {
+   "id": "0d1417259227",
+   "kaynak": "TRT Haber",
+   "baslik": "Abdul elSayed, ABD Senatosuna seçilen ilk Müslüman senatör oldu",
+   "ozet": "ABD'de Kongre ara seçimlerde Michigan eyaletindeki Senato yarışını önde götüren Demokratların Müslüman adayı Abdul elSayed, destekçilerine hitaben yaptığı konuşmada zaferini ilan ederek \"Michigan, başardık.",
+   "link": "https://www.trthaber.com/haber/dunya/abdul-el-sayed-abd-senatosuna-secilen-ilk-musluman-senator-oldu-962177.html",
+   "zaman": "2026-11-04T09:28:00+03:00",
+   "kelimeler": [
+    "abd",
+    "abdul",
+    "elsay",
+    "ilk",
+    "muslu",
+    "secil",
+    "senat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0913b8a01f3e"
+  },
+  "c8a19741bf21": {
+   "id": "c8a19741bf21",
+   "kaynak": "AA",
+   "baslik": "Trakya'da sağanak etkisini sürdürüyor",
+   "ozet": "Edirne, Kırklareli ve Tekirdağ'da sağanak devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/trakyada-saganak-etkisini-surduruyor/4111038",
+   "zaman": "2026-11-04T10:18:05+03:00",
+   "kelimeler": [
+    "etkis",
+    "sagan",
+    "surdu",
+    "traky"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "963c12c60a42"
+  },
+  "39519ec5a275": {
+   "id": "39519ec5a275",
+   "kaynak": "TRT Haber",
+   "baslik": "Güney Kore: Kuzey Kore, Doğu Denizine doğru çok sayıda füze fırlattı",
+   "ozet": "Güney Kore ordusu, Kuzey Korenin Doğu Denizine doğru çok sayıda füze fırlattığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/guney-kore-kuzey-kore-dogu-denizine-dogru-cok-sayida-fuze-firlatti-962192.html",
+   "zaman": "2026-11-04T10:23:00+03:00",
+   "kelimeler": [
+    "deniz",
+    "dogru",
+    "dogu",
+    "firla",
+    "fuze",
+    "guney",
+    "kore",
+    "kuzey",
+    "sayid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8f9315098399": {
+   "id": "8f9315098399",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe Tarfin, Avrupa Ligi'nde yarın Baskonia'yı konuk edecek",
+   "ozet": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 10. haftasında yarın sahasında İspanya ekibi Kosner ​​​​​​​Baskonia ile karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-liginde-yarin-baskoniayi-konuk-edecek/4111050",
+   "zaman": "2026-11-04T10:24:12+03:00",
+   "kelimeler": [
+    "avrup",
+    "basko",
+    "edece",
+    "fener",
+    "konuk",
+    "ligi",
+    "nde",
+    "tarfi",
+    "yarin",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2043940fdd69": {
+   "id": "2043940fdd69",
+   "kaynak": "AA",
+   "baslik": "UEFA Konferans Ligi'nde 3. hafta maçları yarın oynanacak",
+   "ozet": "UEFA Konferans Ligi'nde 3. hafta maçları yarın yapılacak.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginde-3-hafta-maclari-yarin-oynanacak/4111051",
+   "zaman": "2026-11-04T10:24:17+03:00",
+   "kelimeler": [
+    "hafta",
+    "konfe",
+    "ligi",
+    "macla",
+    "nde",
+    "oynan",
+    "uefa",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a6b6557e1d64"
+  },
+  "a806aa6814f2": {
+   "id": "a806aa6814f2",
+   "kaynak": "Hürriyet",
+   "baslik": "Plaka benzerliği Rizeli sürücünün kabusu oldu: 24 saat boyunca e devletini kontrol ediyor | \"Avukatlar bile 'değiştirin' diyor\"",
+   "ozet": "Rize'de esnaflık yapan Arif Berber isimli vatandaş, kendisine gelen tebligatla neye uğradığını şaşırdı. İran plakalı tırın geçiş ihlallerinden kaynaklı trafik cezalarının kendisine geldiğini iddia eden Berber, savcılığa suç duyurusunda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/plaka-benzerligi-rizeli-surucunun-kabusu-oldu-24-saat-boyunca-e-devletini-kontrol-ediyor-43365367",
+   "zaman": "2026-11-04T10:28:00+03:00",
+   "kelimeler": [
+    "24",
+    "avuka",
+    "benze",
+    "bile",
+    "boyun",
+    "degis",
+    "devle",
+    "diyor",
+    "ediyo",
+    "kabus",
+    "kontr",
+    "plaka",
+    "rizel",
+    "saat",
+    "suruc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "941e606e6a24": {
+   "id": "941e606e6a24",
+   "kaynak": "AA",
+   "baslik": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi",
+   "ozet": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi/4111054",
+   "zaman": "2026-11-04T10:28:14+03:00",
+   "kelimeler": [
+    "abd",
+    "acikl",
+    "ara",
+    "ardin",
+    "geldi",
+    "ilk",
+    "isiml",
+    "oneml",
+    "secim",
+    "siyas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "98a6c732d96d": {
+   "id": "98a6c732d96d",
+   "kaynak": "AA",
+   "baslik": "\"6. Korkut Ata Türk Dünyası Film Festivali\", İstanbul'da başladı",
+   "ozet": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\", doğduğu şehir olan İstanbul'da yeniden sinemaseverlerle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-istanbulda-basladi/4111057",
+   "zaman": "2026-11-04T10:28:35+03:00",
+   "kelimeler": [
+    "ata",
+    "basla",
+    "dunya",
+    "festi",
+    "film",
+    "istan",
+    "korku",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5b4d364fdd22": {
+   "id": "5b4d364fdd22",
+   "kaynak": "Hürriyet",
+   "baslik": "Dükkanından 115 kilo gümüşü çalınmıştı: Kendi malını kuyumcuda parasıyla geri aldı! 'Böyle bir şey yapacağını hiç düşünemedim'",
+   "ozet": "Adana'da dükkanındaki 115 kilogram gümüşü çalınan toptancı İshak Şengül (56), zararının yaklaşık 9 milyon lira olduğunu belirterek, \"Eğer herhangi bir yerde bu kişileri gören, benim ürünlerimden satın alan varsa bunları emniyete teslim etmelerini istiyorum\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dukkanindan-115-kilo-gumusu-calinmisti-kendi-malini-kuyumcuda-parasiyla-geri-aldi-boyle-bir-sey-yapacagini-hic-dusunemedim-43365372",
+   "zaman": "2026-11-04T10:30:27+03:00",
+   "kelimeler": [
+    "115",
+    "aldi",
+    "boyle",
+    "calin",
+    "dukka",
+    "dusun",
+    "geri",
+    "gumus",
+    "hic",
+    "kendi",
+    "kilo",
+    "kuyum",
+    "malin",
+    "paras",
+    "sey",
+    "yapac"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "353782bbafd5": {
+   "id": "353782bbafd5",
+   "kaynak": "AA",
+   "baslik": "11 ildeki siber suçlar ve dolandırıcılık operasyonlarında 230 şüpheli hakkında işlem yapıldı",
+   "ozet": "İçişleri Bakanlığı, siber suçlar ve dolandırıcılığa yönelik 11 ilde gerçekleştirilen operasyonlarda 230 şüpheli hakkında adli işlem yapıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/11-ildeki-siber-suclar-ve-dolandiricilik-operasyonlarinda-230-supheli-hakkinda-islem-yapildi/4111068",
+   "zaman": "2026-11-04T10:33:20+03:00",
+   "kelimeler": [
+    "11",
+    "230",
+    "dolan",
+    "hakki",
+    "ildek",
+    "islem",
+    "opera",
+    "siber",
+    "sucla",
+    "suphe",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c247cbb6ed6e": {
+   "id": "c247cbb6ed6e",
+   "kaynak": "AA",
+   "baslik": "Bakırköy'de D-100 Topkapı istikameti yan yolu 15 gün trafiğe kapatılacak",
+   "ozet": "Bakırköy D-100 İncirli Köprüsü'nde yapılacak güçlendirme çalışmaları kapsamında, Topkapı istikameti yan yolu 8 Kasım Pazar günü saat 23.00 itibarıyla 15 gün süreyle trafiğe kapatılacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakirkoyde-d-100-topkapi-istikameti-yan-yolu-15-gun-trafige-kapatilacak/4111074",
+   "zaman": "2026-11-04T10:34:21+03:00",
+   "kelimeler": [
+    "100",
+    "15",
+    "bakir",
+    "gun",
+    "istik",
+    "kapat",
+    "topka",
+    "trafi",
+    "yan",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd54157a21b8": {
+   "id": "fd54157a21b8",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
+   "ozet": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti/4111081",
+   "zaman": "2026-11-04T10:39:04+03:00",
+   "kelimeler": [
+    "502",
+    "86",
+    "bini",
+    "ekim",
+    "gecti",
+    "itiba",
+    "milyo",
+    "nin",
+    "nufus",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "16c4ba698efa": {
+   "id": "16c4ba698efa",
+   "kaynak": "AA",
+   "baslik": "Emine Erdoğan, Yunus Emre Enstitüsünün Seul'deki kültür merkezinin resmi açılışını yaptı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Yunus Emre Enstitüsünün (YEE) Seul'deki kültür merkezinin resmi açılışını gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-yunus-emre-enstitusunun-seuldeki-kultur-merkezinin-resmi-acilisini-yapti/4111082",
+   "zaman": "2026-11-04T10:39:56+03:00",
+   "kelimeler": [
+    "acili",
+    "deki",
+    "emine",
+    "emre",
+    "ensti",
+    "erdog",
+    "kultu",
+    "merke",
+    "resmi",
+    "seul",
+    "yapti",
+    "yunus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "200b03de520b": {
+   "id": "200b03de520b",
+   "kaynak": "NTV",
+   "baslik": "İstanbullular dikkat. Bu yol 15 gün trafiğe kapatılacak",
+   "ozet": "Bakırköy D-100 İncirli Köprüsü'nde yapılacak güçlendirme çalışmaları kapsamında, Topkapı istikameti yan yolu 8 Kasım Pazar günü saat 23.00 itibarıyla 15 gün süreyle trafiğe kapatılacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbullular-dikkat-bu-yol-15-gun-trafige-kapatilacak-1749338",
+   "zaman": "2026-11-04T10:43:39+03:00",
+   "kelimeler": [
+    "15",
+    "dikka",
+    "gun",
+    "istan",
+    "kapat",
+    "trafi",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "975067fed407": {
+   "id": "975067fed407",
+   "kaynak": "NTV",
+   "baslik": "Bahçeli \"il olmalı\" dedi, ilçeyi heyecan sardı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli'nin il olmasını önerdiği ilçeler arasında yer alan Ergani'de yaşayan vatandaşlar, bu yönde bir kararı memnuniyetle karşılayacaklarını anlattı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bahceli-il-olmali-dedi-ilceyi-heyecan-sardi-1749334",
+   "zaman": "2026-11-04T10:44:52+03:00",
+   "kelimeler": [
+    "bahce",
+    "heyec",
+    "il",
+    "ilcey",
+    "olmal",
+    "sardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 10:48:42  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bakan Çiftçi, deprem konutları ve iş yerlerindeki peşin ödeme indiriml",
+  "04.11 10:46:04  12 yeni haber",
   "04.11 10:31:12  7 yeni haber",
   "04.11 10:16:05  9 yeni haber",
   "04.11 10:01:26  4 yeni haber",
@@ -28792,9 +29066,7 @@
   "02.11 10:16:15  8 yeni haber",
   "02.11 10:01:24  5 yeni haber",
   "02.11 09:45:56  9 yeni haber",
-  "02.11 09:31:09  5 yeni haber",
-  "02.11 09:18:45  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Fenerbahçe'de teknik direktör konusunda 8 yönetici Aykut Kocaman, 5 yö",
-  "02.11 09:16:20  1 yeni haber"
+  "02.11 09:31:09  5 yeni haber"
  ],
  "otomatik": false
 }
