@@ -1,36 +1,5 @@
 {
  "haberler": {
-  "0b0c829b463c": {
-   "id": "0b0c829b463c",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre İliyana Yotova kazandı",
-   "ozet": "Bulgaristan’da cumhurbaşkanlığı seçiminin ikinci turunda sandık çıkış anketleri, İliyana Yotova’nın yaklaşık yüzde 51 oyla önde olduğunu gösteriyor",
-   "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o",
-   "zaman": "2026-11-02T00:56:20+03:00",
-   "kelimeler": [
-    "bulga",
-    "cumhu",
-    "gore",
-    "iliya",
-    "kazan",
-    "olmay",
-    "resmi",
-    "secim",
-    "sonuc",
-    "yotov"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-02T01:03:43.265638+03:00",
-   "ig_id": "18134471059668950",
-   "reels_id": "17994774669098977",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1035403992895450",
-   "slayt": 5,
-   "kanca": "İLK KADIN CUMHURBAŞKANI"
-  },
   "a4dfbe40c933": {
    "id": "a4dfbe40c933",
    "kaynak": "BBC Türkçe",
@@ -31072,9 +31041,59 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7ed94e7da2fa": {
+   "id": "7ed94e7da2fa",
+   "kaynak": "TRT Haber",
+   "baslik": "Almanya'da Bavyera Eyalet Başbakan Yardımcısı Aiwanger otelde ölü bulundu",
+   "ozet": "Almanya'da Bavyera Eyaleti Başbakan Yardımcısı ve Ekonomi Bakanı Hubert Aiwanger'in Berlin'de konakladığı otelde ölü bulunduğu bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/almanyada-bavyera-eyalet-basbakan-yardimcisi-aiwanger-otelde-olu-bulundu-962273.html",
+   "zaman": "2026-11-05T00:45:00+03:00",
+   "kelimeler": [
+    "aiwan",
+    "alman",
+    "basba",
+    "bavye",
+    "bulun",
+    "eyale",
+    "olu",
+    "oteld",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b816b62c175": {
+   "id": "2b816b62c175",
+   "kaynak": "XHABER",
+   "baslik": "Atakan Özyurt ve Selen Özyurt çifti, ikinci çocukları Latife'nin suda doğum anını paylaştı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30529",
+   "zaman": "2026-11-05T00:54:18+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Atakan Özyurt ve Selen Özyurt çifti, ikinci çocukları Latife'nin suda doğum anını paylaştı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/IDQuWOWGHW41E_ZUWC4Xe-FN91RMOq9DyREDaUKF1K9Ol2oh13dzquQvygqzEkCajp4HRj8h696E8srHWmgeGiyB4ztizAkqT3W1LgerawORaRf36GoWta9WEa-j5FbTJHzkmgJgJwmGu_YVVX7anl15dwBHS8E_dvXc7hDHTw46It9bZQzlGe-Rq9kA8cEOy17fKHS6jMtYU6VO1H1wukYw2j2TakLH-DqR0h95DVeVc9pKmNTGrMQsVdlbEBUyfzujXV1T3yD7fT3E2UEh4CCAAdzSa8iMtF40L-De0I29B1LsBFVG6wPGPNni3BtC48zjhLYfDAKWtJqZDQji6A",
+   "tg_video_url": "",
+   "kelimeler": [
+    "anini",
+    "ataka",
+    "cifti",
+    "cocuk",
+    "dogum",
+    "ikinc",
+    "latif",
+    "nin",
+    "ozyur",
+    "payla",
+    "selen",
+    "suda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 01:02:15  2 yeni haber",
   "05.11 00:46:07  2 yeni haber",
   "05.11 00:18:18  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fon soruşturmasında Fatma Betül Sayan Kaya, İlyas Kaya ve",
   "05.11 00:02:15  Otomatik paylaşım başarısız: Media download has failed. The media URI doesn't meet our requirements. The media could not be fetched from this URI: https://raw.githubusercontent.com/hackwatcher/haber-bot/3aa90965fab06d662c789031efbc9b47810d1692/02.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating (kod 9004/2207052)",
@@ -31273,8 +31292,7 @@
   "03.11 00:02:41  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Vestel’in sahibi Ahmet Nazif Zorlu hayatını kaybetti.",
   "03.11 00:01:25  3 yeni haber",
   "02.11 23:47:14  1 yeni haber",
-  "02.11 23:31:30  2 yeni haber",
-  "02.11 23:15:59  1 yeni haber"
+  "02.11 23:31:30  2 yeni haber"
  ],
  "otomatik": false
 }
