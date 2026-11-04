@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "af18881ead6b": {
-   "id": "af18881ead6b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Mithat Sancar: 'Öcalan İmralı'da yapılan yeni yere geçti'",
-   "ozet": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini savundu.",
-   "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo",
-   "zaman": "2026-11-01T19:40:43+03:00",
-   "kelimeler": [
-    "gecti",
-    "imral",
-    "mitha",
-    "ocala",
-    "sanca",
-    "yapil",
-    "yeni",
-    "yere"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5331d34f7075": {
-   "id": "5331d34f7075",
-   "kaynak": "TRT Haber",
-   "baslik": "Kütahya'da kamyonet ile ticari araç çarpıştı: 1 ölü",
-   "ozet": "Kütahya'nın Altıntaş ilçesinde kamyonet ile hafif ticari aracın çarpışması sonucu 1 kişi öldü, 3 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/kutahyada-kamyonet-ile-ticari-arac-carpisti-1-olu-961894.html",
-   "zaman": "2026-11-01T19:45:00+03:00",
-   "kelimeler": [
-    "arac",
-    "carpi",
-    "kamyo",
-    "kutah",
-    "olu",
-    "ticar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "db1d2fb5ebeb": {
    "id": "db1d2fb5ebeb",
    "kaynak": "Hürriyet",
@@ -30693,9 +30652,104 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f92cd306ffc8": {
+   "id": "f92cd306ffc8",
+   "kaynak": "AA",
+   "baslik": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi/4111816",
+   "zaman": "2026-11-04T19:26:05+03:00",
+   "kelimeler": [
+    "ayi",
+    "ekim",
+    "fiyat",
+    "gelis",
+    "nu",
+    "rapor",
+    "tcmb",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "83ee00aabe7a": {
+   "id": "83ee00aabe7a",
+   "kaynak": "Hürriyet",
+   "baslik": "İçişleri Bakan Yardımcısı Yiğitbaşı, Manisa'da konuştu: Yüksek teknolojili projelerle güvenlik konseptimizi kökten dönüştürüyoruz",
+   "ozet": "İçişleri Bakan Yardımcısı Kübra Güran Yiğitbaşı, \"İçişleri Bakanlığımızın koordinasyonunda ve Jandarma Genel Komutanlığımızın bünyesinde hayata geçirdiğimiz yüksek teknolojili projelerle güvenlik konseptimizi kökten dönüştürüyoruz.\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakan-yardimcisi-yigitbasi-manisada-konustu-yuksek-teknolojili-projelerle-guvenlik-konseptimizi-kokten-donusturuyoruz-43366218",
+   "zaman": "2026-11-04T19:29:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "donus",
+    "guven",
+    "icisl",
+    "kokte",
+    "konse",
+    "konus",
+    "manis",
+    "proje",
+    "tekno",
+    "yardi",
+    "yigit",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "066169a3cf58": {
+   "id": "066169a3cf58",
+   "kaynak": "Hürriyet",
+   "baslik": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219",
+   "zaman": "2026-11-04T19:32:08+03:00",
+   "kelimeler": [
+    "ayi",
+    "ekim",
+    "fiyat",
+    "gelis",
+    "nu",
+    "rapor",
+    "tcmb",
+    "yayim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f92cd306ffc8"
+  },
+  "40f1d88e310d": {
+   "id": "40f1d88e310d",
+   "kaynak": "AA",
+   "baslik": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle 97 doların altına geriledi",
+   "ozet": "Brent petrolün ocak vadeli varil fiyatı, ABD'deki ara seçimlerin etkisiyle yaklaşık yüzde 6 düşüşle 97 doların altına geriledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829",
+   "zaman": "2026-11-04T19:38:00+03:00",
+   "kelimeler": [
+    "97",
+    "abd",
+    "altin",
+    "ara",
+    "brent",
+    "deki",
+    "dolar",
+    "etkis",
+    "fiyat",
+    "geril",
+    "petro",
+    "secim",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 19:46:06  3 yeni haber",
   "04.11 19:34:11  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Netanyahu, İsrail seçimlerinde 'resmen' çoğunluğu kaybetti.",
   "04.11 19:32:05  2 yeni haber",
   "04.11 19:15:58  2 yeni haber",
@@ -30894,8 +30948,7 @@
   "02.11 19:32:28  2 yeni haber",
   "02.11 19:16:11  1 yeni haber",
   "02.11 19:01:32  4 yeni haber",
-  "02.11 18:46:07  1 yeni haber",
-  "02.11 18:31:52  3 yeni haber"
+  "02.11 18:46:07  1 yeni haber"
  ],
  "otomatik": false
 }
