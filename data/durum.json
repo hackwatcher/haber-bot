@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "5cc89b45bc32": {
-   "id": "5cc89b45bc32",
-   "kaynak": "NTV",
-   "baslik": "Fren diye gaza bastı, aracıyla bahçeye düştü",
-   "ozet": "Beşiktaş’ta alkollü olduğu iddia edilen sürücünün kullandığı otomobil, Panikle fren yerine gaza basan sürücünün kullandığı otomobil, geri giderek yaklaşık 3 metre derinliğindeki bahçeye düştü.",
-   "link": "https://www.ntv.com.tr/turkiye/video-fren-diye-gaza-basti-araciyla-bahceye-dustu-1748857",
-   "zaman": "2026-11-01T10:02:49+03:00",
-   "kelimeler": [
-    "araci",
-    "bahce",
-    "basti",
-    "diye",
-    "dustu",
-    "fren",
-    "gaza"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "2cad55a0821d": {
-   "id": "2cad55a0821d",
-   "kaynak": "Hürriyet",
-   "baslik": "Çalışanları ilgilendiren karar: Yöneticisine \"İş Bilmez\" diyenin işe iadesi bozuldu",
-   "ozet": "Misafirlerin ve yöneticilerin hazır bulunduğu kurum toplantısında amirlerinin yetkin olmadığını söyleyince iş akdi feshedilen çalışanın işe iade talebi üst mahkemeden döndü.",
-   "link": "https://www.hurriyet.com.tr/gundem/calisanlari-ilgilendiren-karar-yoneticisine-is-bilmez-diyenin-ise-iadesi-bozuldu-43362183",
-   "zaman": "2026-11-01T10:05:02+03:00",
-   "kelimeler": [
-    "bilme",
-    "bozul",
-    "calis",
-    "diyen",
-    "iades",
-    "ilgil",
-    "is",
-    "ise",
-    "karar",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e8c969f56b03": {
-   "id": "e8c969f56b03",
-   "kaynak": "AA",
-   "baslik": "Kuzey Kore, taktik balistik füzeler için misket bombası başlığını test etti",
-   "ozet": "Kuzey Kore'nin, taktik balistik füzelerde kullanılmak üzere tasarlanan misket bombası başlığını test ettiği ve yıl sonuna kadar askeri birliklerin bu silahların 4 farklı türünü kullanabilmesini hedeflediği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745",
-   "zaman": "2026-11-01T10:05:13+03:00",
-   "kelimeler": [
-    "balis",
-    "basli",
-    "bomba",
-    "etti",
-    "fuzel",
-    "kore",
-    "kuzey",
-    "miske",
-    "takti",
-    "test"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "77e96df88e71"
-  },
-  "b5c6c7a509b9": {
-   "id": "b5c6c7a509b9",
-   "kaynak": "TRT Haber",
-   "baslik": "Fren yerine gaza bastı, otomobiliyle bahçeye uçtu",
-   "ozet": "İstanbul Beşiktaş'ta alkollü olduğu iddia edilen sürücünün kullandığı otomobil, önce yol kenarındaki direğe çarptı. Panikle fren yerine gaza basan sürücünün kullandığı otomobil, geri giderek yaklaşık 3 metre derinliğindeki bahçeye düştü.",
-   "link": "https://www.trthaber.com/haber/turkiye/fren-yerine-gaza-basti-otomobiliyle-bahceye-uctu-961858.html",
-   "zaman": "2026-11-01T10:14:00+03:00",
-   "kelimeler": [
-    "bahce",
-    "basti",
-    "fren",
-    "gaza",
-    "otomo",
-    "uctu",
-    "yerin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5cc89b45bc32"
-  },
   "c9611712449c": {
    "id": "c9611712449c",
    "kaynak": "AA",
@@ -174,24 +87,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "b8777cd30939": {
-   "id": "b8777cd30939",
-   "kaynak": "TRT Haber",
-   "baslik": "Sosyal medyada çocuklar için yeni dönem",
-   "ozet": "Sosyal medyada çocukları korumaya yönelik yeni dönem bugün başladı. 15 yaşından küçüklere sosyal medya hizmeti sunulmayacak, 1517 yaş grubunda ise canlı yayın ve sonsuz kaydırma gibi özellikler sınırlandırılacak.",
-   "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-cocuklar-icin-yeni-donem-961860.html",
-   "zaman": "2026-11-01T10:12:00+03:00",
-   "kelimeler": [
-    "cocuk",
-    "donem",
-    "medya",
-    "sosya",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5c4486013788"
   },
   "9f6bb329943c": {
    "id": "9f6bb329943c",
@@ -24994,7 +24889,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "831c1f2fcd27": {
@@ -27189,7 +27085,9 @@
    ],
    "durum": "yeni",
    "oncelikli": true,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d193683925b9": {
    "id": "d193683925b9",
@@ -28373,9 +28271,233 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7bc877e97ad3": {
+   "id": "7bc877e97ad3",
+   "kaynak": "TRT Haber",
+   "baslik": "COP31'de ana salonlara Anadolu ve Gazze isimleri verildi",
+   "ozet": "Antalya'da dünya liderleri dahil 1,5 milyon kişinin katılımıyla düzenlenecek COP31 İklim Zirvesi'nde salon isimleri belli oldu. Zirvenin Genel Kurul salonuna 'Anadolu', Türkiye'nin Filistin hassasiyetini yansıtan 5 bin kişilik en büyük salonuna ise 'Gazze' adı verildi.",
+   "link": "https://www.trthaber.com/haber/gundem/cop31de-ana-salonlara-anadolu-ve-gazze-isimleri-verildi-962183.html",
+   "zaman": "2026-11-04T09:50:00+03:00",
+   "kelimeler": [
+    "ana",
+    "anado",
+    "cop31",
+    "gazze",
+    "isiml",
+    "salon",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c7801e5e400": {
+   "id": "2c7801e5e400",
+   "kaynak": "Hürriyet",
+   "baslik": "11 il merkezli yasa dışı bahis operasyonu: 230 şüpheliye işlem yapıldı",
+   "ozet": "İçişleri Bakanlığı, 11 il merkezli yasa dışı bahis, silah kaçakçılığı ve siber güvenlik kanununa muhalefet suçlarına yönelik operasyonlar düzenlendiğini ve 230 şüpheli hakkında işlem yapıldığını duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/11-il-merkezli-yasa-disi-bahis-operasyonu-230-supheliye-islem-yapildi-43365259",
+   "zaman": "2026-11-04T09:55:00+03:00",
+   "kelimeler": [
+    "11",
+    "230",
+    "bahis",
+    "disi",
+    "il",
+    "islem",
+    "merke",
+    "opera",
+    "suphe",
+    "yapil",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c3ae3c1c645d": {
+   "id": "c3ae3c1c645d",
+   "kaynak": "TRT Haber",
+   "baslik": "Deprem bölgesindeki kalıcı konutlarda peşin ödemeye yüzde 74 indirim",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 6 Şubat depremlerinden etkilenen illerdeki kalıcı konutlar için peşin ödemelerde 31 Aralık 2026'ya kadar yüzde 74, iş yerleri için ise yüzde 48 indirim uygulanacağını, taksitli ödemelerde 2 yıl ödemesiz 18 yıl vade imkanı sunulacağını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html",
+   "zaman": "2026-11-04T09:57:00+03:00",
+   "kelimeler": [
+    "74",
+    "bolge",
+    "depre",
+    "indir",
+    "kalic",
+    "konut",
+    "odeme",
+    "pesin",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "54aea0849ff3": {
+   "id": "54aea0849ff3",
+   "kaynak": "AA",
+   "baslik": "Borsa güne yükselişle başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 1,22 yükselişle 11.157,96 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4110997",
+   "zaman": "2026-11-04T10:00:26+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "gune",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a6b6557e1d64": {
+   "id": "a6b6557e1d64",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, UEFA Konferans Ligi'nde yarın sahasında Freiburg ile karşılaşacak",
+   "ozet": "Trabzonspor, UEFA Konferans Ligi'nin 3. haftasında yarın sahasında Almanya'nın Freiburg takımı ile karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-uefa-konferans-liginde-yarin-sahasinda-freiburg-ile-karsilasacak/4110999",
+   "zaman": "2026-11-04T10:01:23+03:00",
+   "kelimeler": [
+    "freib",
+    "karsi",
+    "konfe",
+    "ligi",
+    "nde",
+    "sahas",
+    "trabz",
+    "uefa",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "acc3252899e3": {
+   "id": "acc3252899e3",
+   "kaynak": "TRT Haber",
+   "baslik": "Selden etkilenen KOBİ'lere faizsiz kredi desteği",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, sel ve taşkın felaketlerinden zarar gören işletmeler için KOSGEB Acil Durumlar Desteği'nin devreye alındığını bildirdi. Paket kapsamında KOBİ'lere, finansman maliyetini KOSGEB'in karşılayacağı 1 milyon liraya kadar kredi sağlanacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/selden-etkilenen-kobilere-faizsiz-kredi-destegi-962185.html",
+   "zaman": "2026-11-04T10:02:00+03:00",
+   "kelimeler": [
+    "deste",
+    "etkil",
+    "faizs",
+    "kobi",
+    "kredi",
+    "lere",
+    "selde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6be4a2c32906"
+  },
+  "c4f7147767b2": {
+   "id": "c4f7147767b2",
+   "kaynak": "AA",
+   "baslik": "2026 ABD ara seçimleri ilklere sahne oldu",
+   "ozet": "ABD'de Başkan Donald Trump'ın ikinci döneminde düzenlenen ara seçimlerde ilk sonuçlar, Kongre'nin dengesinin değişeceğini gösterirken, aynı zamanda ülke genelinde temsil noktasında birçok ilk yaşandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/2026-abd-ara-secimleri-ilklere-sahne-oldu/4111008",
+   "zaman": "2026-11-04T10:04:23+03:00",
+   "kelimeler": [
+    "2026",
+    "abd",
+    "ara",
+    "ilkle",
+    "sahne",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4a4892cd6565"
+  },
+  "864a48e18fbd": {
+   "id": "864a48e18fbd",
+   "kaynak": "AA",
+   "baslik": "TCMB'den Fon Tasfiyeleri ve Reel Sektör: Firma Verileri Ne Söylüyor? analizi",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) blog sayfası Merkezin Güncesi'nde yer alan analizde, fon piyasasındaki gelişmelerin reel sektörü farklı kanallar üzerinden etkileyebileceği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-fon-tasfiyeleri-ve-reel-sektor-firma-verileri-ne-soyluyor-analizi/4111010",
+   "zaman": "2026-11-04T10:04:40+03:00",
+   "kelimeler": [
+    "anali",
+    "den",
+    "firma",
+    "fon",
+    "reel",
+    "sekto",
+    "soylu",
+    "tasfi",
+    "tcmb",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9b8da2662313": {
+   "id": "9b8da2662313",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump seçim sonuçlarından dolayı Fox News'i da suçladı",
+   "ozet": "ABD Başkanı Donald Trump, Demokratların önde götürdüğü Kongre ara seçimlerinin sonuçları açıklanmaya devam ederken Demokrat partiye yayınlarında \"sürekli\" yer verdiği gerekçesiyle Fox News kanalının \"kayıplardan sorumlu olduğunu\" öne sürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-secim-sonuclarindan-dolayi-fox-newsi-da-sucladi-962186.html",
+   "zaman": "2026-11-04T10:05:00+03:00",
+   "kelimeler": [
+    "dolay",
+    "fox",
+    "news",
+    "secim",
+    "sonuc",
+    "sucla",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a54639174bd": {
+   "id": "1a54639174bd",
+   "kaynak": "NTV",
+   "baslik": "\"53 plaka\" karıştırılıyor mu? Plaka değiştirince cezalar gelmeye başladı, e-Devlet'ten çıkamıyor",
+   "ozet": "Rize'de yaşayan bir esnaf, hiç gitmediği İstanbul'dan farklı tarihlerde otoyol ve köprü geçiş ihlali cezaları kesildiği gerekçesiyle savcılığa suç duyurusunda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-53-plaka-karistiriliyor-mu-plaka-degistirince-cezalar-gelmeye-basladi-e-devletten-cikamiyor-1749329",
+   "zaman": "2026-11-04T10:08:00+03:00",
+   "kelimeler": [
+    "53",
+    "basla",
+    "cezal",
+    "cikam",
+    "degis",
+    "devle",
+    "gelme",
+    "karis",
+    "plaka",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "932a7f880eb2": {
+   "id": "932a7f880eb2",
+   "kaynak": "AA",
+   "baslik": "İsrail Merkez Seçim Komitesi: Seçimlerde şeffaflığa aykırı herhangi bir bulguya rastlanmadı",
+   "ozet": "İsrail Merkez Seçim Komitesi, 27 Ekim'deki parlamento seçimlerinin ardından yapılan tüm itirazları incelediğini ve seçimlerde şeffaflığa aykırı herhangi bir bulguya rastlanmadığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-merkez-secim-komitesi-secimlerde-seffafliga-aykiri-herhangi-bir-bulguya-rastlanmadi/4111021",
+   "zaman": "2026-11-04T10:09:22+03:00",
+   "kelimeler": [
+    "aykir",
+    "bulgu",
+    "herha",
+    "israi",
+    "komit",
+    "merke",
+    "rastl",
+    "secim",
+    "seffa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 10:16:05  9 yeni haber",
   "04.11 10:01:26  4 yeni haber",
   "04.11 09:46:00  4 yeni haber",
   "04.11 09:34:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Küresel piyasalar ABD'deki ara seçim sonuçlarına odaklandı",
@@ -28574,8 +28696,7 @@
   "02.11 09:31:09  5 yeni haber",
   "02.11 09:18:45  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Fenerbahçe'de teknik direktör konusunda 8 yönetici Aykut Kocaman, 5 yö",
   "02.11 09:16:20  1 yeni haber",
-  "02.11 09:16:20  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "02.11 08:47:16  3 yeni haber"
+  "02.11 09:16:20  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
