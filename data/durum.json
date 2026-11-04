@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "897ceb19868b": {
-   "id": "897ceb19868b",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da inşaatın çevresindeki çatlaklar oluşan 4 bina tahliye edildi",
-   "ozet": "İstanbul Bağcılar’da inşaat alanındaki çalışmalar sırasında çevredeki 2 binanın duvarlarında çatlak ve yarıklar oluştuğunun belirlenmesi üzerine tedbir amaçlı toplam 4 bina tahliye edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112",
-   "zaman": "2026-11-01T07:54:00+03:00",
-   "kelimeler": [
-    "bina",
-    "catla",
-    "cevre",
-    "edild",
-    "insaa",
-    "istan",
-    "olusa",
-    "tahli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e43c241febe3": {
-   "id": "e43c241febe3",
-   "kaynak": "Hürriyet",
-   "baslik": "Kültür ve Turizm Bakanı Ersoy'dan yurt dışına çıkarılan kültür varlıkları müjdesi: Yeni eserleri açıklayacağız",
-   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, yurt dışına çıkarılan kültür varlıklarının iadesinde Türkiye'nin dünyaya eğitim veren bir ülke konumuna geldiğini belirterek, \"İşin en zor kısmı çoğu zaman eserin Anadolu’dan kaçırıldığını ortaya koymak.",
-   "link": "https://www.hurriyet.com.tr/gundem/kultur-ve-turizm-bakani-ersoydan-yurt-disina-cikarilan-kultur-varliklari-mujdesi-yeni-eserleri-aciklayacagiz-43362107",
-   "zaman": "2026-11-01T08:00:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "bakan",
-    "cikar",
-    "dan",
-    "disin",
-    "ersoy",
-    "eserl",
-    "kultu",
-    "mujde",
-    "turiz",
-    "varli",
-    "yeni",
-    "yurt"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4d2c26cec06c": {
    "id": "4d2c26cec06c",
    "kaynak": "TRT Haber",
@@ -23000,7 +22955,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "2414a4b5dd43": {
    "id": "2414a4b5dd43",
@@ -27021,7 +26977,10 @@
     "valil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "ed86afee0430": {
    "id": "ed86afee0430",
@@ -27770,7 +27729,8 @@
     "senat"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "d193683925b9": {
    "id": "d193683925b9",
@@ -28214,9 +28174,93 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "44abf7424422"
+  },
+  "7cfd8c49bf2e": {
+   "id": "7cfd8c49bf2e",
+   "kaynak": "TRT Haber",
+   "baslik": "Fenerbahçe, Şampiyonlar Ligi'nde Liverpool'u ağırlıyor",
+   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 4. haftasında bugün İngiltere'nin Liverpool takımını konuk edecek.",
+   "link": "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html",
+   "zaman": "2026-11-04T07:39:00+03:00",
+   "kelimeler": [
+    "agirl",
+    "fener",
+    "ligi",
+    "liver",
+    "nde",
+    "sampi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c592cdc46a7a"
+  },
+  "9e3364eee34d": {
+   "id": "9e3364eee34d",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD ara seçimleri: Demokratlar, Senato'da 51 sandalyeye ulaştı",
+   "ozet": "ABD Kongre ara seçimlerinde Demokratlar, resmi olmayan sonuçlara göre Senato'da çoğunluğu elde ederek 51 sandalyeye ulaştı",
+   "link": "https://www.trthaber.com/haber/dunya/abd-ara-secimleri-demokratlar-senatoda-51-sandalyeye-ulasti-962168.html",
+   "zaman": "2026-11-04T07:40:00+03:00",
+   "kelimeler": [
+    "51",
+    "abd",
+    "ara",
+    "demok",
+    "sanda",
+    "secim",
+    "senat",
+    "ulast"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4a4892cd6565"
+  },
+  "a0a76dded713": {
+   "id": "a0a76dded713",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'da hava soğuyor! Valilik uyardı, bu saatlere dikkat",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbul-da-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-p375795",
+   "zaman": "2026-11-04T07:45:31+03:00",
+   "kelimeler": [
+    "dikka",
+    "hava",
+    "istan",
+    "saatl",
+    "soguy",
+    "uyard",
+    "valil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b1a9aefaacab"
+  },
+  "91ca6c0fbf26": {
+   "id": "91ca6c0fbf26",
+   "kaynak": "Sözcü",
+   "baslik": "Kış Kafkaslar'dan Türkiye'ye girdi: Termometreler dip yapıyor kar yolda",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/kis-kafkaslar-dan-turkiye-ye-sizdi-termometreler-dip-yapiyor-kar-yolda-p375803",
+   "zaman": "2026-11-04T07:54:01+03:00",
+   "kelimeler": [
+    "dan",
+    "dip",
+    "girdi",
+    "kafka",
+    "kar",
+    "kis",
+    "termo",
+    "turki",
+    "yapiy",
+    "ye",
+    "yolda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 08:01:21  1 yeni haber",
   "04.11 07:31:12  1 yeni haber",
   "04.11 07:16:11  13 yeni haber",
   "04.11 07:04:04  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Ekonomist Murat Muratoğlu :",
@@ -28415,8 +28459,7 @@
   "02.11 07:02:59  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi.",
   "02.11 07:01:18  2 yeni haber",
   "02.11 05:16:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "02.11 04:16:02  1 yeni haber",
-  "02.11 03:46:07  1 yeni haber"
+  "02.11 04:16:02  1 yeni haber"
  ],
  "otomatik": false
 }
