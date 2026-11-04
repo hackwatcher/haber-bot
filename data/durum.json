@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "2fdcee3cc153": {
-   "id": "2fdcee3cc153",
-   "kaynak": "Hürriyet",
-   "baslik": "Sarıgül Ailesi’nin ‘kara kutusu’ konuştu: ‘Altın ve elmasları jetle kaçırdılar’",
-   "ozet": "Sarıgüllerin para aklama soruşturmasında çarpıcı ifadeler ortaya çıktı. Hürriyet, ailenin ‘kara kutusu’ olarak anılan Cihan Tunç’un 4 sayfalık ifadesine ulaştı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-altin-ve-elmaslari-jetle-kacirdilar-43362077",
-   "zaman": "2026-11-01T06:29:37+03:00",
-   "kelimeler": [
-    "ailes",
-    "altin",
-    "elmas",
-    "jetle",
-    "kacir",
-    "kara",
-    "konus",
-    "kutus",
-    "nin",
-    "sarig"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a6bca47da4ac": {
-   "id": "a6bca47da4ac",
-   "kaynak": "Hürriyet",
-   "baslik": "Sosyal medyada yeni dönem",
-   "ozet": "Çocukların sosyal medya kullanımını sınırlandıran ve yetişkinlere e-Devlet üzerinden yaş doğrulama zorunluluğu getiren düzenleme bugün itibarıyla yürürlüğe girdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/sosyal-medyada-yeni-donem-43362059",
-   "zaman": "2026-11-01T06:31:35+03:00",
-   "kelimeler": [
-    "donem",
-    "medya",
-    "sosya",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5c4486013788"
-  },
   "85d4e801a597": {
    "id": "85d4e801a597",
    "kaynak": "Hürriyet",
@@ -27681,9 +27642,92 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3ecc3a145ad2"
+  },
+  "2cd4d3581d04": {
+   "id": "2cd4d3581d04",
+   "kaynak": "TRT Haber",
+   "baslik": "Mekke Anlaşması TBMM Genel Kurulu'nda görüşülecek",
+   "ozet": "Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi bugün TBMM Genel Kurulu'nda görüşülecek.",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-gorusulecek-962155.html",
+   "zaman": "2026-11-04T05:55:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "genel",
+    "gorus",
+    "kurul",
+    "mekke",
+    "nda",
+    "tbmm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ff2b090d13e": {
+   "id": "3ff2b090d13e",
+   "kaynak": "AA",
+   "baslik": "ABD'nin ilk siyahi kadın valisi Georgia eyaletinden Demokrat Keisha Lance Bottoms oldu",
+   "ozet": "ABD'de oy sayımının sürdüğü ara seçimlerde, Georgia eyaletinde Demokrat aday Keisha Lance Bottoms, ABD'nin ilk siyahi kadın valisi seçildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-siyahi-kadin-valisi-georgia-eyaletinden-demokrat-keisha-lance-bottoms-oldu/4110792",
+   "zaman": "2026-11-04T06:22:40+03:00",
+   "kelimeler": [
+    "abd",
+    "botto",
+    "demok",
+    "eyale",
+    "georg",
+    "ilk",
+    "kadin",
+    "keish",
+    "lance",
+    "nin",
+    "siyah",
+    "valis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d756301170eb": {
+   "id": "d756301170eb",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de ara seçimler: ilk sonuçlar neyi gösteriyor?",
+   "ozet": "ABD medyasındaki tahminlere göre seçmenlerin ABD Başkanı Donald Trump ve Cumhuriyetçilere sert bir tepki göstermesiyle Demokratlar, Temsilciler Meclisi'nin kontrolünü yaklaşık yirmi yılın en büyük çoğunluğuyla kazandı.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-ilk-sonuclar-neyi-gosteriyor-962156.html",
+   "zaman": "2026-11-04T06:24:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "goste",
+    "ilk",
+    "neyi",
+    "secim",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3ecc3a145ad2"
+  },
+  "09960bf4fabe": {
+   "id": "09960bf4fabe",
+   "kaynak": "TRT Haber",
+   "baslik": "Tartıştığı annesi ve kız kardeşini pompalı tüfekle öldürdü",
+   "ozet": "Şanlıurfa'nın Haliliye ilçesinde bir kişi, tartıştığı annesi ve kız kardeşini pompalı tüfekle öldürdü, diğer kız kardeşini yaraladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/tartistigi-annesi-ve-kiz-kardesini-pompali-tufekle-oldurdu-962157.html",
+   "zaman": "2026-11-04T06:30:00+03:00",
+   "kelimeler": [
+    "annes",
+    "karde",
+    "kiz",
+    "oldur",
+    "pompa",
+    "tarti",
+    "tufek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 06:32:22  3 yeni haber",
   "04.11 06:16:05  1 yeni haber",
   "04.11 04:16:07  1 yeni haber",
   "04.11 04:01:42  1 yeni haber",
@@ -27882,8 +27926,7 @@
   "02.11 03:31:11  1 yeni haber",
   "02.11 03:16:04  1 yeni haber",
   "02.11 02:53:42  1 yeni haber",
-  "02.11 02:31:10  1 yeni haber",
-  "02.11 01:46:16  1 yeni haber"
+  "02.11 02:31:10  1 yeni haber"
  ],
  "otomatik": false
 }
