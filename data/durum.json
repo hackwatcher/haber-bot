@@ -65,26 +65,6 @@
    "oncelikli": false,
    "tekrar_of": "90dc5c333fc1"
   },
-  "f27cfed0cb6e": {
-   "id": "f27cfed0cb6e",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da bugün Boğaz Köprüsü dahil birçok yol kapalı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbulda-bugun-bogaz-koprusu-dahil-bircok-yol-kapali-p374727",
-   "zaman": "2026-11-01T07:20:13+03:00",
-   "kelimeler": [
-    "birco",
-    "bogaz",
-    "bugun",
-    "dahil",
-    "istan",
-    "kapal",
-    "kopru",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "413901a44f1d": {
    "id": "413901a44f1d",
    "kaynak": "NTV",
@@ -22664,7 +22644,10 @@
     "sini"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "aed39972486b": {
    "id": "aed39972486b",
@@ -28157,9 +28140,55 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d9c301c100b6": {
+   "id": "d9c301c100b6",
+   "kaynak": "AA",
+   "baslik": "ABD'de Kongre ara seçimlerinde oy sayımı devam ediyor",
+   "ozet": "ABD'de Kongre ara seçimleri kapsamında Indiana ve Kentucky eyaletlerinde oy verme işlemi tamamlanırken, AP'nin resmi olmayan sonuçlarına göre Temsilciler Meclisinde Demokratlar 143, Cumhuriyetçiler 86 sandalye kazandı.",
+   "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-oy-sayimi-devam-ediyor/7124",
+   "zaman": "2026-11-04T06:13:40+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "devam",
+    "ediyo",
+    "kongr",
+    "oy",
+    "sayim",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "acba35f34706": {
+   "id": "acba35f34706",
+   "kaynak": "AA",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ-9 tipi İHA düşürüldü",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843",
+   "zaman": "2026-11-04T07:20:49+03:00",
+   "kelimeler": [
+    "abd",
+    "bogaz",
+    "devri",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "mq",
+    "muhaf",
+    "nda",
+    "tipi",
+    "yapim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6ce8ee1e16c3"
   }
  },
  "kayit": [
+  "04.11 07:31:12  1 yeni haber",
   "04.11 07:16:11  13 yeni haber",
   "04.11 07:04:04  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Ekonomist Murat Muratoğlu :",
   "04.11 07:01:17  3 yeni haber",
@@ -28358,8 +28387,7 @@
   "02.11 07:01:18  2 yeni haber",
   "02.11 05:16:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "02.11 04:16:02  1 yeni haber",
-  "02.11 03:46:07  1 yeni haber",
-  "02.11 03:31:11  1 yeni haber"
+  "02.11 03:46:07  1 yeni haber"
  ],
  "otomatik": false
 }
