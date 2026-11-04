@@ -14948,7 +14948,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "bd110724442e": {
    "id": "bd110724442e",
@@ -27544,9 +27547,54 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "de5d982d68b1": {
+   "id": "de5d982d68b1",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump, İran'a saldırmak için \"acil bir planının\" olmadığını belirtti",
+   "ozet": "ABD Başkanı Donald Trump, İran'a saldırmak konusunda \"acil bir planının\" olmadığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-saldirmak-icin-acil-bir-planinin-olmadigini-belirtti/4110667",
+   "zaman": "2026-11-04T03:08:46+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "belir",
+    "iran",
+    "olmad",
+    "plani",
+    "saldi",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "69e99d36a131"
+  },
+  "ba5806cfa4d2": {
+   "id": "ba5806cfa4d2",
+   "kaynak": "AA",
+   "baslik": "Yemen hükümeti, İran ve Lübnan'daki Hizbullah'ı Husilerin askeri eylemlerini yönetmekle suçladı",
+   "ozet": "Yemen İçişleri Bakanı İbrahim Haydan, İran ve Lübnan'daki Hizbullah'ın, Husilerin kontrolündeki bölgelerde görev yapan 21 askeri uzman aracılığıyla hükümet güçlerine karşı askeri eylemleri yönettiklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-iran-ve-lubnandaki-hizbullahi-husilerin-askeri-eylemlerini-yonetmekle-sucladi/4110670",
+   "zaman": "2026-11-04T03:11:14+03:00",
+   "kelimeler": [
+    "asker",
+    "daki",
+    "eylem",
+    "hizbu",
+    "hukum",
+    "husil",
+    "iran",
+    "lubna",
+    "sucla",
+    "yemen",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 03:16:05  1 yeni haber",
   "04.11 03:01:37  1 yeni haber",
   "04.11 02:46:26  1 yeni haber",
   "04.11 02:16:30  2 yeni haber",
@@ -27745,8 +27793,7 @@
   "02.11 01:33:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Borsa İstanbul Genel Müdürlüğü görevine vekaleten Atila Türeli getiril",
   "02.11 01:31:21  1 yeni haber",
   "02.11 01:03:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre ",
-  "02.11 01:01:20  2 yeni haber",
-  "02.11 00:34:38  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova aç"
+  "02.11 01:01:20  2 yeni haber"
  ],
  "otomatik": false
 }
