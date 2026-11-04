@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "dd92f6089734": {
-   "id": "dd92f6089734",
-   "kaynak": "AA",
-   "baslik": "Ticaret Bakanı Bolat: Türkiye'nin İİT ülkeleriyle olan ticaret hacmi 108 milyar dolara ulaşmıştır",
-   "ozet": "Ticaret Bakanı Ömer Bolat, \"Yılın dokuz ayında Türkiye'nin İslam İşbirliği Teşkilatı (İİT) ülkeleriyle olan ticaret hacmi 108 milyar dolara ulaşmıştır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiyenin-iit-ulkeleriyle-olan-ticaret-hacmi-108-milyar-dolara-ulasmistir/4107973",
-   "zaman": "2026-11-01T15:17:01+03:00",
-   "kelimeler": [
-    "108",
-    "bakan",
-    "bolat",
-    "dolar",
-    "hacmi",
-    "iit",
-    "milya",
-    "nin",
-    "ticar",
-    "turki",
-    "ulasm",
-    "ulkel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "6c0aebeeafcf": {
-   "id": "6c0aebeeafcf",
-   "kaynak": "AA",
-   "baslik": "Türkiye ve Güney Kore yeni ekonomik işbirliklerine odaklanıyor",
-   "ozet": "Ticaret, turizm gibi birçok alanda işbirliğini geliştirmeye odaklanan Türkiye ile Güney Kore arasındaki ticaret hacmi, geçen yıl 11,4 milyar doları, bu yılın 9 ayında da 8,7 milyar doları yakaladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-guney-kore-yeni-ekonomik-isbirliklerine-odaklaniyor/4107983",
-   "zaman": "2026-11-01T15:23:30+03:00",
-   "kelimeler": [
-    "ekono",
-    "guney",
-    "isbir",
-    "kore",
-    "odakl",
-    "turki",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "01a0735c07d7": {
-   "id": "01a0735c07d7",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Bahçeli '100 il 1000 ilçe projesi'ni açıkladı",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, 19 yeni il ve 78 yeni ilçe kurulması önerisini paylaştı. Bahçeli, Türkgün gazetesine \"100 İl 1000 İlçe Projesi\"nin detaylarını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/cm1exy4dwlw6o",
-   "zaman": "2026-11-01T15:26:02+03:00",
-   "kelimeler": [
-    "100",
-    "1000",
-    "bahce",
-    "il",
-    "ilce",
-    "ni",
-    "proje"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9f6bb329943c"
-  },
-  "7186d27e8af8": {
-   "id": "7186d27e8af8",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu, İran'la olası çatışmaların beklendiği bir dönemde askeri tatbikat başlattı",
-   "ozet": "İsrail ordusu, İran'la çatışmaların yeniden başlayabileceğine ilişkin söylemlerin arttığı bir dönemde, ülkenin farklı bölgelerinde bir hafta sürecek askeri tatbikat başlattığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-iranla-olasi-catismalarin-beklendigi-bir-donemde-askeri-tatbikat-baslatti/4107985",
-   "zaman": "2026-11-01T15:26:13+03:00",
-   "kelimeler": [
-    "asker",
-    "basla",
-    "bekle",
-    "catis",
-    "donem",
-    "iran",
-    "israi",
-    "la",
-    "olasi",
-    "ordus",
-    "tatbi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3bec0edaebc5": {
    "id": "3bec0edaebc5",
    "kaynak": "AA",
@@ -28964,11 +28877,20 @@
     "metro",
     "yaral"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA"
-   ]
+   ],
+   "paylasildi": "2026-11-04T15:33:34.350711+03:00",
+   "ig_id": "17955030360339972",
+   "reels_id": "18113566634097367",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1617595949634456",
+   "slayt": 5,
+   "kanca": "METROBÜSLER ÇARPIŞTI"
   },
   "37454cb5065f": {
    "id": "37454cb5065f",
@@ -29551,7 +29473,11 @@
     "zorlu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "TRT Haber"
+   ]
   },
   "fccae4ff18ed": {
    "id": "fccae4ff18ed",
@@ -29611,9 +29537,181 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7292bc0aae92": {
+   "id": "7292bc0aae92",
+   "kaynak": "AA",
+   "baslik": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu son yolculuğuna uğurlandı",
+   "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, İstanbul'da kılınan cenaze namazının ardından son yolculuğuna uğurlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-son-yolculuguna-ugurlandi/4111450",
+   "zaman": "2026-11-04T14:37:26+03:00",
+   "kelimeler": [
+    "ahmet",
+    "baska",
+    "holdi",
+    "kurul",
+    "nazif",
+    "ugurl",
+    "yolcu",
+    "yonet",
+    "zorlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3d020e8e269a"
+  },
+  "d6ed89d00420": {
+   "id": "d6ed89d00420",
+   "kaynak": "TRT Haber",
+   "baslik": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu'ya son görev",
+   "ozet": "82 yaşında hayatını kaybeden Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu için Levent'teki Barbaros Hayrettin Paşa Camisi'nde cenaze töreni düzenlendi. Zorlu'nun naaşı, namazın ardından Zincirlikuyu Mezarlığı'na defnedildi.",
+   "link": "https://www.trthaber.com/haber/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorluya-son-gorev-962233.html",
+   "zaman": "2026-11-04T15:11:00+03:00",
+   "kelimeler": [
+    "ahmet",
+    "baska",
+    "gorev",
+    "holdi",
+    "kurul",
+    "nazif",
+    "ya",
+    "yonet",
+    "zorlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3d020e8e269a"
+  },
+  "6ce4bec5e54d": {
+   "id": "6ce4bec5e54d",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail ordusu, Batı Şeria'da 45 Filistinliyi gözaltına aldı",
+   "ozet": "İşgalci İsrail ordusu, Batı Şeria'nın farklı bölgelerine düzenlediği baskınlarda 2'si gazeteci, 5'i kadın 45 Filistinliyi gözaltına aldı.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-bati-seriada-45-filistinliyi-gozaltina-aldi-962235.html",
+   "zaman": "2026-11-04T15:14:00+03:00",
+   "kelimeler": [
+    "45",
+    "aldi",
+    "bati",
+    "filis",
+    "gozal",
+    "isgal",
+    "israi",
+    "ordus",
+    "seria"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cda614d4ce82": {
+   "id": "cda614d4ce82",
+   "kaynak": "Hürriyet",
+   "baslik": "Fırıncı 'Kazım Baba'nın vasiyeti gerçekleşti: 'Şimdi aslında tam da olması gereken yerde'",
+   "ozet": "Muğla’nın Fethiye ilçesinde hayatını kaybeden Kazım Özüdoğru’nun (77) bedeni, vasiyeti üzerine tıp eğitiminde kullanılmak üzere Burdur Mehmet Akif Ersoy Üniversitesi (MAKÜ) Tıp Fakültesi’ne bağışlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/firinci-kazim-babanin-vasiyeti-gerceklesti-simdi-aslinda-tam-da-olmasi-gereken-yerde-43365874",
+   "zaman": "2026-11-04T15:14:36+03:00",
+   "kelimeler": [
+    "aslin",
+    "baba",
+    "firin",
+    "gerce",
+    "gerek",
+    "kazim",
+    "nin",
+    "olmas",
+    "simdi",
+    "tam",
+    "vasiy",
+    "yerde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "785dc96c8ecd": {
+   "id": "785dc96c8ecd",
+   "kaynak": "AA",
+   "baslik": "Hava Kuvvetleri envanterindeki HÜRKUŞ sayısı 4'e yükseldi",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı (SSB) koordinasyonunda, Türk Havacılık ve Uzay Sanayii (TUSAŞ) ana yükleniciliğinde geliştirilen yeni nesil temel eğitim uçağı HÜRKUŞ'un teslimatları devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hava-kuvvetleri-envanterindeki-hurkus-sayisi-4e-yukseldi/4111506",
+   "zaman": "2026-11-04T15:16:02+03:00",
+   "kelimeler": [
+    "envan",
+    "hava",
+    "hurku",
+    "kuvve",
+    "sayis",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc04204789a1": {
+   "id": "dc04204789a1",
+   "kaynak": "Hürriyet",
+   "baslik": "Afyonkarahisar'da feci kaza! 2 otomobil kafa kafaya çarpıştı: 4 kişi yaralandı",
+   "ozet": "Afyonkarahisar’ın Emirdağ ilçesine bağlı Davulga beldesinde 2 otomobilin kafa kafaya çarpıştığı kazada 4 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-feci-kaza-2-otomobil-kafa-kafaya-carpisti-4-kisi-yaralandi-43365896",
+   "zaman": "2026-11-04T15:23:08+03:00",
+   "kelimeler": [
+    "afyon",
+    "carpi",
+    "feci",
+    "kafa",
+    "kafay",
+    "kaza",
+    "kisi",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e17e3f2087d3": {
+   "id": "e17e3f2087d3",
+   "kaynak": "NTV",
+   "baslik": "İş insanı Ahmet Nazif Zorlu'ya veda. Gözyaşlarıyla son yolculuğuna uğurlandı",
+   "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, yaşamını yitirdi. Bugün son yolculuğuna uğurlanan Zorlu'nun eşi, çocukları ve torunları gözyaşlarına boğuldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-is-insani-ahmet-nazif-zorluya-veda-gozyaslariyla-son-yolculuguna-ugurlandi-1749381",
+   "zaman": "2026-11-04T15:28:07+03:00",
+   "kelimeler": [
+    "ahmet",
+    "gozya",
+    "insan",
+    "is",
+    "nazif",
+    "ugurl",
+    "veda",
+    "ya",
+    "yolcu",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d93f86dae4c2": {
+   "id": "d93f86dae4c2",
+   "kaynak": "NTV",
+   "baslik": "Tekirdağ'da faciadan saniyelerle kurtuldu: Kopan parçalar bomba gibi düştü",
+   "ozet": "Tekirdağ'da etkili olan sağanak yağışla beraber binadan kopan parçalar kaldırıma düştü. O sırada kaldırımda yürüyen bir vatandaş, üzerine bomba gibi düşen parçalardan saliselerle kurtuldu",
+   "link": "https://www.ntv.com.tr/turkiye/video-tekirdagda-faciadan-saniyelerle-kurtuldu-kopan-parcalar-bomba-gibi-dustu-1749388",
+   "zaman": "2026-11-04T15:29:33+03:00",
+   "kelimeler": [
+    "bomba",
+    "dustu",
+    "facia",
+    "kopan",
+    "kurtu",
+    "parca",
+    "saniy",
+    "tekir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 15:33:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Duraktaki metrobüsler çarpıştı: Yaralılar var",
+  "04.11 15:31:38  6 yeni haber",
   "04.11 15:15:58  5 yeni haber",
   "04.11 15:01:27  5 yeni haber",
   "04.11 14:46:11  3 yeni haber",
@@ -29811,9 +29909,7 @@
   "02.11 15:16:15  6 yeni haber",
   "02.11 15:03:21  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu",
   "02.11 15:01:21  5 yeni haber",
-  "02.11 14:46:02  3 yeni haber",
-  "02.11 14:31:22  2 yeni haber",
-  "02.11 14:16:49  9 yeni haber"
+  "02.11 14:46:02  3 yeni haber"
  ],
  "otomatik": false
 }
