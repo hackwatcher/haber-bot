@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "1f4975831d77": {
-   "id": "1f4975831d77",
-   "kaynak": "Hürriyet",
-   "baslik": "Güney Kore Devlet Başkanı Lee'den Cumhurbaşkanı Erdoğan'ın ziyaretine ilişkin paylaşım",
-   "ozet": "Güney Kore Devlet Başkanı Lee Jae Myung, Cumhurbaşkanı Recep Tayyip Erdoğan'ı başkent Seul'de ağırlayacak olmaktan büyük memnuniyet duyduğunu bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/guney-kore-devlet-baskani-leeden-cumhurbaskani-erdoganin-ziyaretine-iliskin-paylasim-43362727",
-   "zaman": "2026-11-01T21:21:39+03:00",
-   "kelimeler": [
-    "baska",
-    "cumhu",
-    "den",
-    "devle",
-    "erdog",
-    "guney",
-    "ilisk",
-    "in",
-    "kore",
-    "lee",
-    "payla",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "08fb00d6d95c"
-  },
-  "f23425f10f4e": {
-   "id": "f23425f10f4e",
-   "kaynak": "AA",
-   "baslik": "Bulgaristan'da sandık çıkış anketlerine göre Yotova seçimi önde götürüyor",
-   "ozet": "Bulgaristan'da yapılan cumhurbaşkanı seçiminde, sandık çıkış anketlerine göre İliyana Yotova ilk sırada yer alıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-sandik-cikis-anketlerine-gore-yotova-secimi-onde-goturuyor/4108181",
-   "zaman": "2026-11-01T21:24:09+03:00",
-   "kelimeler": [
-    "anket",
-    "bulga",
-    "cikis",
-    "gore",
-    "gotur",
-    "onde",
-    "sandi",
-    "secim",
-    "yotov"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b8d250da8a4c": {
-   "id": "b8d250da8a4c",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-koreye-gitti-961897.html",
-   "zaman": "2026-11-01T21:30:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "gitti",
-    "guney",
-    "kore",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "08fb00d6d95c"
-  },
   "9669e5b2b239": {
    "id": "9669e5b2b239",
    "kaynak": "Hürriyet",
@@ -18068,7 +18003,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "XHABER"
    ]
   },
   "2414a4b5dd43": {
@@ -23641,7 +23577,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "eca9039471d1": {
    "id": "eca9039471d1",
@@ -30653,7 +30592,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "2fc19c8f7e37": {
@@ -30970,9 +30910,98 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "904a2c3857c6": {
+   "id": "904a2c3857c6",
+   "kaynak": "AA",
+   "baslik": "İstanbul'daki kara para aklama soruşturmasında tutuklanan Emir Sarıgül'e \"ev hapsi\" şartıyla tahliye",
+   "ozet": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında tutuklanan Emir Sarıgül, \"ev hapsi\" şeklinde adli kontrol tedbiri uygulanarak tahliye edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-tutuklanan-emir-sarigule-ev-hapsi-sartiyla-tahliye/4111899",
+   "zaman": "2026-11-04T21:11:12+03:00",
+   "kelimeler": [
+    "aklam",
+    "daki",
+    "emir",
+    "ev",
+    "hapsi",
+    "istan",
+    "kara",
+    "para",
+    "sarig",
+    "sarti",
+    "sorus",
+    "tahli",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5cc62f77bf33"
+  },
+  "c8c40c50d3af": {
+   "id": "c8c40c50d3af",
+   "kaynak": "AA",
+   "baslik": "Trump, seçimleri kaybetmelerinin sebebinin \"İran savaşı\" ve buna bağlı \"hayat pahalılığı\" olduğunu söyledi",
+   "ozet": "ABD Başkanı Trump, Kongre seçimlerini Demokratlara karşı kaybetmelerinin sebebinin büyük ölçüde \"İran savaşı\" ve buna bağlı \"hayat pahalılığı\" olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-secimleri-kaybetmelerinin-sebebinin-iran-savasi-ve-buna-bagli-hayat-pahaliligi-oldugunu-soyledi/4111910",
+   "zaman": "2026-11-04T21:15:28+03:00",
+   "kelimeler": [
+    "bagli",
+    "buna",
+    "hayat",
+    "iran",
+    "kaybe",
+    "oldug",
+    "pahal",
+    "savas",
+    "sebeb",
+    "secim",
+    "soyle",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72b1055b844d": {
+   "id": "72b1055b844d",
+   "kaynak": "XHABER",
+   "baslik": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOL | 🇹🇷 Fenerbahçe 1-1 Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "ozet": "⚽️ 28' Greenwood",
+   "link": "https://t.me/sahinozkan000/30527",
+   "zaman": "2026-11-04T21:17:11+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOL | 🇹🇷 Fenerbahçe 1-1 Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n⚽️ 28' Greenwood",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "fener",
+    "goooo",
+    "liver"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c592cdc46a7a"
+  },
+  "36f5029dde17": {
+   "id": "36f5029dde17",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump: Kaybetmemizin sebebi İran savaşı",
+   "ozet": "ABD Başkanı Trump, Kongre seçimlerini Demokratlara karşı kaybetmelerinin sebebinin büyük ölçüde \"İran savaşı\" ve buna bağlı \"hayat pahalılığı\" olduğunu söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-kaybetmemizin-sebebi-iran-savasi-962265.html",
+   "zaman": "2026-11-04T21:20:00+03:00",
+   "kelimeler": [
+    "iran",
+    "kaybe",
+    "savas",
+    "sebeb",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "15dd4b6a1a0e"
   }
  },
  "kayit": [
+  "04.11 21:31:15  1 yeni haber",
   "04.11 21:15:58  1 yeni haber",
   "04.11 20:47:23  1 yeni haber",
   "04.11 20:38:33  3 yeni haber",
@@ -31171,8 +31200,7 @@
   "02.11 21:01:37  3 yeni haber",
   "02.11 20:46:05  2 yeni haber",
   "02.11 20:40:16  7 yeni haber",
-  "02.11 20:16:15  4 yeni haber",
-  "02.11 20:01:35  2 yeni haber"
+  "02.11 20:16:15  4 yeni haber"
  ],
  "otomatik": false
 }
