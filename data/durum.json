@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "92e05ee2d2ce": {
-   "id": "92e05ee2d2ce",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Hayalet görmek ve yanında bir varlık hissetmek: Neden paranormal deneyimler yaşıyoruz?",
-   "ozet": "İnsanlar binlerce yıldır hayalet hikayeleri anlatıyor ve bilimsel gelişmeler bunu değiştiremedi.",
-   "link": "https://www.bbc.com/turkce/articles/cmn8wpxjgp47o",
-   "zaman": "2026-11-01T17:23:35+03:00",
-   "kelimeler": [
-    "deney",
-    "gorme",
-    "hayal",
-    "hisse",
-    "neden",
-    "paran",
-    "varli",
-    "yanin",
-    "yasiy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ba30599157f3": {
    "id": "ba30599157f3",
    "kaynak": "Sözcü",
@@ -97,41 +76,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "7a981bd64641": {
-   "id": "7a981bd64641",
-   "kaynak": "AA",
-   "baslik": "Başakşehir, Samsunspor'u sahasında mağlup etti",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında İstanbul Başakşehir, sahasında Samsunspor'u 5-2 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehir-samsunsporu-sahasinda-maglup-etti/4108060",
-   "zaman": "2026-11-01T17:23:40+03:00",
-   "kelimeler": [
-    "basak",
-    "etti",
-    "maglu",
-    "sahas",
-    "samsu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "646c67add1a9": {
-   "id": "646c67add1a9",
-   "kaynak": "AA",
-   "baslik": "Trabzonspor, Gaziantep FK'yi 2-0 yendi",
-   "ozet": "Trendyol Süper Lig'in 10. haftasında Trabzonspor, Gaziantep FK'yi 2-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-gaziantep-fkyi-2-0-yendi/4108061",
-   "zaman": "2026-11-01T17:23:49+03:00",
-   "kelimeler": [
-    "fk",
-    "gazia",
-    "trabz",
-    "yendi",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "77396088af5f"
   },
   "11da020d71a6": {
    "id": "11da020d71a6",
@@ -234,28 +178,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0e58797f4ab4"
-  },
-  "18c59e4558fa": {
-   "id": "18c59e4558fa",
-   "kaynak": "AA",
-   "baslik": "Trabzonspor, Thomas Reis ile yoluna kayıpsız devam ediyor",
-   "ozet": "Trendyol Süper Lig'de sahasında Gaziantep FK'yi 2-0 mağlup eden Trabzonspor, teknik direktör Thomas Reis yönetiminde galibiyet serisini sürdürdü.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-ile-yoluna-kayipsiz-devam-ediyor/4108061",
-   "zaman": "2026-11-01T17:23:49+03:00",
-   "kelimeler": [
-    "devam",
-    "ediyo",
-    "kayip",
-    "reis",
-    "thoma",
-    "trabz",
-    "yolun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
   },
   "40903f906bb4": {
    "id": "40903f906bb4",
@@ -427,22 +349,6 @@
     "netan",
     "ya",
     "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a730be417e84": {
-   "id": "a730be417e84",
-   "kaynak": "AA",
-   "baslik": "Başakşehir'den İstanbul'da \"3'te 3\"",
-   "ozet": "İstanbul Başakşehir, Trendyol Süper Lig'in 10. haftasında sahasında Samsunspor'u 5-2 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehirden-istanbulda-3te-3/4108060",
-   "zaman": "2026-11-01T17:23:40+03:00",
-   "kelimeler": [
-    "basak",
-    "den",
-    "istan",
-    "te"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -16050,7 +15956,8 @@
     "washi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "f0dd1cce4039": {
    "id": "f0dd1cce4039",
@@ -30094,7 +30001,8 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "40ab35794377": {
    "id": "40ab35794377",
@@ -30181,9 +30089,300 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cbaed8c79683": {
+   "id": "cbaed8c79683",
+   "kaynak": "AA",
+   "baslik": "Sultan 2. Bayezid Külliyesi Sağlık Müzesi 10 ayda 180 bin 242 ziyaretçi ağırladı",
+   "ozet": "Edirne'deki Sultan 2. Bayezid Külliyesi Sağlık Müzesi'ni bu yıl ocak-ekim döneminde 180 bin 242 turist ziyaret etti.",
+   "link": "https://www.aa.com.tr/tr/kultur/sultan-2-bayezid-kulliyesi-saglik-muzesi-10-ayda-180-bin-242-ziyaretci-agirladi/4111600",
+   "zaman": "2026-11-04T16:37:22+03:00",
+   "kelimeler": [
+    "10",
+    "180",
+    "242",
+    "agirl",
+    "ayda",
+    "bayez",
+    "bin",
+    "kulli",
+    "muzes",
+    "sagli",
+    "sulta",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e3fdfca17bc8": {
+   "id": "e3fdfca17bc8",
+   "kaynak": "AA",
+   "baslik": "Bakan Bak, Spordan Sorumlu Bakanlar Konferansı'na katıldı",
+   "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Monako'da düzenlenen Avrupa Konseyi 19. Spordan Sorumlu Bakanlar Konferansı'na katıldı.",
+   "link": "https://www.aa.com.tr/tr/spor/bakan-bak-spordan-sorumlu-bakanlar-konferansina-katildi/4111603",
+   "zaman": "2026-11-04T16:39:07+03:00",
+   "kelimeler": [
+    "bak",
+    "bakan",
+    "katil",
+    "konfe",
+    "na",
+    "sorum",
+    "spord"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "35064a16f7f8": {
+   "id": "35064a16f7f8",
+   "kaynak": "TRT Haber",
+   "baslik": "Sanchez: \"Brezilyada oldu, ABDde de oldu, yakında İspanyada da olacak\"",
+   "ozet": "İspanya Başbakanı Pedro Sanchez, ABD'de yapılan ara seçimlerde Demokratlar'ın Cumhuriyetçiler'e karşı elde ettiği üstünlüğün, ülkesinde 29 Kasım'da yapılacak erken genel seçimlerde sosyalistlere yarar sağlayacağını savundu.",
+   "link": "https://www.trthaber.com/haber/dunya/sanchez-brezilyada-oldu-abdde-de-oldu-yakinda-ispanyada-da-olacak-962249.html",
+   "zaman": "2026-11-04T16:54:00+03:00",
+   "kelimeler": [
+    "abdde",
+    "brezi",
+    "ispan",
+    "olaca",
+    "sanch",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d5d6c6531fd9": {
+   "id": "d5d6c6531fd9",
+   "kaynak": "TRT Haber",
+   "baslik": "Dolandırıcıların hedefindeki iOS kullanıcılarına kritik güncelleme uyarısı",
+   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, son dönemde artış gösteren mesajlaşma uygulamaları üzerinden dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
+   "link": "https://www.trthaber.com/haber/gundem/dolandiricilarin-hedefindeki-ios-kullanicilarina-kritik-guncelleme-uyarisi-962247.html",
+   "zaman": "2026-11-04T16:59:00+03:00",
+   "kelimeler": [
+    "dolan",
+    "gunce",
+    "hedef",
+    "ios",
+    "kriti",
+    "kulla",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3ed09e76214b"
+  },
+  "300d7664f420": {
+   "id": "300d7664f420",
+   "kaynak": "AA",
+   "baslik": "Side Antik Kenti'nde tarihi miras geleceğe taşınıyor",
+   "ozet": "Antalya'nın Manavgat ilçesindeki Side Antik Kenti'nde, Geleceğe Miras Projesi kapsamında 2022'den bugüne 40'tan fazla noktada kazı, restorasyon ve çevre düzenleme çalışması gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/side-antik-kentinde-tarihi-miras-gelecege-tasiniyor-/4111635",
+   "zaman": "2026-11-04T17:05:35+03:00",
+   "kelimeler": [
+    "antik",
+    "gelec",
+    "kenti",
+    "miras",
+    "nde",
+    "side",
+    "tarih",
+    "tasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1eff5fc0db47": {
+   "id": "1eff5fc0db47",
+   "kaynak": "AA",
+   "baslik": "Siber Güvenlik Başkanlığından mesajlaşma uygulamaları üzerinden dolandırıcılık uyarısı",
+   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, WhatsApp ve benzeri mesajlaşma uygulamaları üzerinden gerçekleştirilen dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
+   "link": "https://www.aa.com.tr/tr/gundem/siber-guvenlik-baskanligindan-mesajlasma-uygulamalari-uzerinden-dolandiricilik-uyarisi/4111652",
+   "zaman": "2026-11-04T17:14:56+03:00",
+   "kelimeler": [
+    "baska",
+    "dolan",
+    "guven",
+    "mesaj",
+    "siber",
+    "uyari",
+    "uygul",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "e5f0dad9d5eb": {
+   "id": "e5f0dad9d5eb",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu Suriye'nin güneyindeki Kuneytra kırsalına baskınlar düzenledi",
+   "ozet": "İsrail ordusu, Suriye'nin güneyindeki Kuneytra ili kırsalında çok sayıda köye askeri araç ve tanklarla baskın düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyenin-guneyindeki-kuneytra-kirsalina-baskinlar-duzenledi/4111653",
+   "zaman": "2026-11-04T17:15:15+03:00",
+   "kelimeler": [
+    "baski",
+    "duzen",
+    "guney",
+    "israi",
+    "kirsa",
+    "kuney",
+    "nin",
+    "ordus",
+    "suriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "24c5cb79f1d7": {
+   "id": "24c5cb79f1d7",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunun Lübnan'ın güneyinde bir motosiklete düzenlediği İHA saldırısında 1 kişi yaralandı",
+   "ozet": "İsrail ordusunun, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki Mercayun ilçesinde bir motosikleti insansız hava aracıyla (İHA) hedef aldığı saldırıda 1 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-lubnanin-guneyinde-bir-motosiklete-duzenledigi-iha-saldirisinda-1-kisi-yaralandi/4111661",
+   "zaman": "2026-11-04T17:18:50+03:00",
+   "kelimeler": [
+    "duzen",
+    "guney",
+    "iha",
+    "in",
+    "israi",
+    "kisi",
+    "lubna",
+    "motos",
+    "ordus",
+    "saldi",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "907e4b20a23f": {
+   "id": "907e4b20a23f",
+   "kaynak": "XHABER",
+   "baslik": "Netanyahu, İsrail seçimlerinde 'resmen' çoğunluğu kaybetti.",
+   "ozet": "120 sandalyeli Knesset'te muhalefet 67, Netanyahu liderliğindeki iktidar bloku ise 53 sandalye kazandı.",
+   "link": "https://t.me/sahinozkan000/30525",
+   "zaman": "2026-11-04T17:21:30+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Netanyahu, İsrail seçimlerinde 'resmen' çoğunluğu kaybetti.\n120 sandalyeli Knesset'te muhalefet 67, Netanyahu liderliğindeki iktidar bloku ise 53 sandalye kazandı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/mGbvRJvH9K3dOwH-i6mm2s2O5X87T13IWQ0-1-67hmXLdtfbvO2mztDPMorqXyq3cnG1fncrkjy8GTT9XqM89JDe8n3A-oKazxFHpMalot9sK4jMOERnhLeXzpg-MsEX63Kxe5W6TeP5yeNWuffJzRK75fFvVDDfJjwDOA7n-dLelI4Ptvzdu5IQ23smZs3jjMVyqQSmKEIhVOpPqogVjJ7bR-4DObXDUgClOWFoX5h3lMTCq5Xql7m64TTEbzYq3a9tWVwr1ZiU5-dPlJHq5VeW1NIq4qXGVLC9MDlXQHiXE8VOBIXEEol3nfkVPnqx7rfVUBhhbDyqDFlQ7eg0Tw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "cogun",
+    "israi",
+    "kaybe",
+    "netan",
+    "resme",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8520b236e618": {
+   "id": "8520b236e618",
+   "kaynak": "Hürriyet",
+   "baslik": "Siber Güvenlik Başkanlığı'ndan mesajlaşma uygulamaları üzerinden dolandırıcılık uyarısı",
+   "ozet": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, WhatsApp ve benzeri mesajlaşma uygulamaları üzerinden gerçekleştirilen dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
+   "link": "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligindan-mesajlasma-uygulamalari-uzerinden-dolandiricilik-uyarisi-43366092",
+   "zaman": "2026-11-04T17:23:00+03:00",
+   "kelimeler": [
+    "baska",
+    "dolan",
+    "guven",
+    "mesaj",
+    "ndan",
+    "siber",
+    "uyari",
+    "uygul",
+    "uzeri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1eff5fc0db47"
+  },
+  "f9d17ce3857c": {
+   "id": "f9d17ce3857c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Türkiye-ABD ilişkisi ara seçimlerden sonra nasıl şekillenecek?",
+   "ozet": "Demokratlar, ABD ara seçimlerinde Başkan Donald Trump ve Cumhuriyetçileri hezimete uğrattı. İktidarının kalan iki yılını \"topal ördek\" olarak geçirecek Trump'ın dış politika yaklaşımının değişmesi bekleniyor. Peki Ankara-Washington ilişkileri bu süreçte nasıl ilerleyecek?",
+   "link": "https://www.bbc.com/turkce/articles/ck5ynwejp2g5o",
+   "zaman": "2026-11-04T17:23:16+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "ilisk",
+    "nasil",
+    "secim",
+    "sekil",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cf7e5fd00c59"
+  },
+  "cb09bfce4813": {
+   "id": "cb09bfce4813",
+   "kaynak": "AA",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'ndaki Keşm Adası'nda ABD'ye ait MQ-1 tipi İHA düşürüldü",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndaki Keşm Adası üzerinde uçan ABD'ye ait MQ-1 tipi insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazindaki-kesm-adasinda-abdye-ait-mq-1-tipi-iha-dusuruldu/4111677",
+   "zaman": "2026-11-04T17:28:03+03:00",
+   "kelimeler": [
+    "abd",
+    "adasi",
+    "ait",
+    "bogaz",
+    "devri",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "kesm",
+    "mq",
+    "muhaf",
+    "nda",
+    "ndaki",
+    "tipi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6ce8ee1e16c3"
+  },
+  "f0084a581c4b": {
+   "id": "f0084a581c4b",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Fon soruşturmasında Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı!",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30526",
+   "zaman": "2026-11-04T17:28:11+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Fon soruşturmasında Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı!",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/UQCttXK9Ank4ER7dcmza8MJZ4i9IGzA9lvekkbS7GG619RIVajqvtZ5AtyakcUAk4zaR__zncK9hfIPvwr2Vwpdrz_TAQhp90LxrZ5YHhNa6b6N_Yt-X3jKjE9QgRdnRw3fiFEPlOVFVOmK_tJmwIPklAQHY44SCSliDFY02Wh-zuxrd-Xniy_FYL_p-hQLbHysxV8YJHgVfI_701-d6SPb9q0QFvaPj_fCs9vPBtWSyGbuoc-zPtMCTGeUgXtbEtYOLoGh1sYGHN5xrYMfCA2tffAWKXMsLe9nbPoYBX8iWSyenhn8OfC1HwsW9KGqfJSWY6EEZ7EtlBt6ZpqypQw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "betul",
+    "cagri",
+    "fatma",
+    "fon",
+    "gonul",
+    "ibrah",
+    "ifade",
+    "ilyas",
+    "kaya",
+    "omer",
+    "sayan",
+    "sonda",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 17:31:22  9 yeni haber",
   "04.11 17:18:05  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bakan Gürlek'ten yasa dışı bahis operasyonlarına ilişkin açıklama: 9 a",
   "04.11 17:16:01  5 yeni haber",
   "04.11 17:01:22  6 yeni haber",
@@ -30382,8 +30581,7 @@
   "02.11 17:16:14  2 yeni haber",
   "02.11 17:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran, savaşı sona erdirmek için 7 şartta ısrar ediyor",
   "02.11 17:01:32  1 yeni haber",
-  "02.11 16:47:04  6 yeni haber",
-  "02.11 16:31:11  4 yeni haber"
+  "02.11 16:47:04  6 yeni haber"
  ],
  "otomatik": false
 }
