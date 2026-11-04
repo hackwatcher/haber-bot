@@ -15805,7 +15805,8 @@
     "uzlas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "efae45843b30": {
    "id": "efae45843b30",
@@ -16631,7 +16632,10 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2bb03c5be456": {
    "id": "2bb03c5be456",
@@ -18196,7 +18200,8 @@
     "varli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ae0851bc2108": {
    "id": "ae0851bc2108",
@@ -19071,7 +19076,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "c65ebd01a32e": {
@@ -20941,7 +20947,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "8596ff3ceff4": {
@@ -22411,7 +22418,8 @@
     "yanit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "cdff7484876c": {
    "id": "cdff7484876c",
@@ -27714,9 +27722,445 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3ff2b090d13e"
+  },
+  "81355b32f27a": {
+   "id": "81355b32f27a",
+   "kaynak": "AA",
+   "baslik": "ABD'de Kongre ara seçimlerinde sayım devam ediyor",
+   "ozet": "ABD'de Kongre ara seçimleri kapsamında Indiana ve Kentucky eyaletlerinde oy verme işlemi tamamlanırken, AP'nin resmi olmayan sonuçlarına göre Temsilciler Meclisinde Demokratlar 143, Cumhuriyetçiler 86 sandalye kazandı.",
+   "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-sayim-devam-ediyor/7124",
+   "zaman": "2026-11-04T06:13:40+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "devam",
+    "ediyo",
+    "kongr",
+    "sayim",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3ecc3a145ad2"
+  },
+  "c603e14b055d": {
+   "id": "c603e14b055d",
+   "kaynak": "TRT Haber",
+   "baslik": "Donald Trump'tan seçim sonrası ilk mesaj: Pusulada olsaydım ezici bir zafer kazanırdık",
+   "ozet": "ABD Başkanı Donald Trump, ara seçim sonuçları netleşmeye başlarken yaptığı ilk açıklamada, seçim gecesini kendisinin parçası olmadığı bir süreç olarak değerlendirdi. Desteklediği adaylardan bahsetmeyen Trump, sosyal medya platformu Truth Social üzerinden bir paylaşımda bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/donald-trumptan-secim-sonrasi-ilk-mesaj-pusulada-olsaydim-ezici-bir-zafer-kazanirdik-962163.html",
+   "zaman": "2026-11-04T06:55:00+03:00",
+   "kelimeler": [
+    "donal",
+    "ezici",
+    "ilk",
+    "kazan",
+    "mesaj",
+    "olsay",
+    "pusul",
+    "secim",
+    "sonra",
+    "tan",
+    "trump",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "4a4892cd6565": {
+   "id": "4a4892cd6565",
+   "kaynak": "TRT Haber",
+   "baslik": "2026 ABD ara seçimleri: Senato'da Cumhuriyetçiler 4, Demokratlar 11 sandalye kazandı",
+   "ozet": "ABD'de 2026 Kongre ara seçimlerinde seçime giren Senato koltuklarından 4'ünü Cumhuriyetçiler, 11'ini Demokratlar aldı.",
+   "link": "https://www.trthaber.com/haber/dunya/2026-abd-ara-secimleri-senatoda-cumhuriyetciler-4-demokratlar-11-sandalye-kazandi-962164.html",
+   "zaman": "2026-11-04T06:58:00+03:00",
+   "kelimeler": [
+    "11",
+    "2026",
+    "abd",
+    "ara",
+    "cumhu",
+    "demok",
+    "kazan",
+    "sanda",
+    "secim",
+    "senat"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d193683925b9": {
+   "id": "d193683925b9",
+   "kaynak": "TRT Haber",
+   "baslik": "Filistin asıllı Kongre üyesi Rashida Tlaib yeniden seçildi",
+   "ozet": "ABD Kongre ara seçimlerinde Temsilciler Meclisinin Filistin asıllı üyesi Rashida Tlaib, Michigan eyaletinden girdiği seçimleri kazandı.",
+   "link": "https://www.trthaber.com/haber/dunya/filistin-asilli-kongre-uyesi-rashida-tlaib-yeniden-secildi-962165.html",
+   "zaman": "2026-11-04T06:59:00+03:00",
+   "kelimeler": [
+    "asill",
+    "filis",
+    "kongr",
+    "rashi",
+    "secil",
+    "tlaib",
+    "uyesi",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "cd4ce0896fbd": {
+   "id": "cd4ce0896fbd",
+   "kaynak": "Hürriyet",
+   "baslik": "Güney Kore’yle 4 imza... Ticaret hedefi 15 milyar dolar",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung ile ortak basın toplantısında “İşbirliğimizi tüm insanlığın faydası için daha ilerilere taşımakta kararlıyız. İkili ticaretimizi 15 milyar dolar hedefine ulaştıracak adımları görüştük” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/guney-koreyle-4-imza-ticaret-hedefi-15-milyar-dolar-43365142",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "dolar",
+    "guney",
+    "hedef",
+    "imza",
+    "kore",
+    "milya",
+    "ticar",
+    "yle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fe546d76b92b"
+  },
+  "608cf822c4ee": {
+   "id": "608cf822c4ee",
+   "kaynak": "Hürriyet",
+   "baslik": "İzzet Keribar’ın sergisini ziyaret",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan'ın eşi Emine Erdoğan, fotoğraf sanatçısı İzzet Keribar'ın gönüllü askerlik yapmak için 1956'da gittiği Güney Kore'de çektiği fotoğraflardan oluşan ve Cumhurbaşkanlığı İletişim Başkanlığı tarafından hazırlanan ‘Bir Dostluğun Doğuşu: Bir Türk…",
+   "link": "https://www.hurriyet.com.tr/gundem/izzet-keribarin-sergisini-ziyaret-43365145",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "in",
+    "izzet",
+    "kerib",
+    "sergi",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "af04d43b9579"
+  },
+  "6c153dd9a656": {
+   "id": "6c153dd9a656",
+   "kaynak": "Hürriyet",
+   "baslik": "Çocuklarının gözü önünde eski eşi tarafından vurulan Dilan: Serbest kalırsa öldürecek",
+   "ozet": "Eski eşi Ali Kaplan tarafından çocuklarının gözleri önünde tabancayla bacaklarından vurulan biyolog Dilan Öztürk, saldırıya uğradığı yerde yaptığı açıklamada, “Serbest kalırsa yarım bıraktığı işi tamamlayıp beni öldürecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/cocuklarinin-gozu-onunde-eski-esi-tarafindan-vurulan-dilan-serbest-kalirsa-oldurecek-43365175",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "cocuk",
+    "dilan",
+    "esi",
+    "eski",
+    "gozu",
+    "kalir",
+    "oldur",
+    "onund",
+    "serbe",
+    "taraf",
+    "vurul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9680a10761e6": {
+   "id": "9680a10761e6",
+   "kaynak": "Hürriyet",
+   "baslik": "Haraç çetesi bu sefer Cihan Sütşurup’u hedef aldı",
+   "ozet": "‘Şapkalılar’ olarak bilinen suç örgütünün, fon soruşturmasında ‘şüpheli’ olarak yargılanan işinsanı ve aynı zamanda Mustafa Sandal’ın kayınpederi olan Cihan Sütşurup’tan para talep ettiği öne sürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/harac-cetesi-bu-sefer-cihan-sutsurupu-hedef-aldi-43365177",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "cetes",
+    "cihan",
+    "harac",
+    "hedef",
+    "sefer",
+    "sutsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0415dbcdf077": {
+   "id": "0415dbcdf077",
+   "kaynak": "Hürriyet",
+   "baslik": "Yapay zekâ 151 kişiyi avladı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı koordinesinde yasadışı bahsi önlemeye yönelik çalışmalarını sürdüren İstanbul Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, yerli ve milli yapay zekâ AVCI’yı (Açık Kaynak İstihbaratı Analiz Sistemi) kullanarak internet…",
+   "link": "https://www.hurriyet.com.tr/gundem/yapay-zeka-151-kisiyi-avladi-43365178",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "151",
+    "avlad",
+    "kisiy",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "15faab023109"
+  },
+  "1cbec4e6d17a": {
+   "id": "1cbec4e6d17a",
+   "kaynak": "Hürriyet",
+   "baslik": "O evde ne yaşandı",
+   "ozet": "HATAY’ın Antakya ilçesindeki bir evden önceki gün akşam saatlerinde yayılan yoğun kötü koku ihbarı üzerine polis ekipleri harekete geçti.",
+   "link": "https://www.hurriyet.com.tr/gundem/o-evde-ne-yasandi-43365179",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "evde",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ddc5f50d5a4f": {
+   "id": "ddc5f50d5a4f",
+   "kaynak": "Hürriyet",
+   "baslik": "Fenerbahçe - LIverpool maçı öncesi karaborsa bilet operasyonu",
+   "ozet": "BUGÜN Fenerbahçe Şükrü Saracoğlu Spor Kompleksi Chobani Stadyumu'nda oynanacak Fenerbahçe- Liverpool karşılaşması öncesinde sosyal medya üzerinden karaborsa bilet satışı yapıldığı bilgisi üzerine çalışma başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fenerbahce-liverpool-maci-oncesi-karaborsa-bilet-operasyonu-43365180",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "bilet",
+    "fener",
+    "karab",
+    "liver",
+    "maci",
+    "onces",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bf55e3dc6327": {
+   "id": "bf55e3dc6327",
+   "kaynak": "Hürriyet",
+   "baslik": "Özgür Özel’den Sarıgül’ün iddiasına yanıt: Parayla işim olmaz",
+   "ozet": "Emir Sarıgül’ün “Babam, parti kuruluşunda Özgür Özel’e üç defada 600 bin dolar verdi” iddiasını yalanlayan YENİ Parti Genel Başkanı Özgür Özel, “Gidin herkese sorun. Bir tane laf duyarsınız. ‘Özgür Özel’in parayla işi olmaz’ dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozgur-ozelden-sarigulun-iddiasina-yanit-parayla-isim-olmaz-43365181",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "iddia",
+    "isim",
+    "olmaz",
+    "ozel",
+    "ozgur",
+    "paray",
+    "sarig",
+    "un",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c175c32c7e2a"
+  },
+  "50c83347862b": {
+   "id": "50c83347862b",
+   "kaynak": "Hürriyet",
+   "baslik": "Kripto şirketine operasyon",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nca, Magician of Meta Kripto Varlık Alım Satım Platformu Anonim Şirketi hakkında yürütülen soruşturma kapsamında, şirketin ‘aeronx.com’ uzantılı web sitesi üzerinden faaliyet gösterdiği, şirket hesaplarına para gönderen 639 gerçek kişinin birçoğu…",
+   "link": "https://www.hurriyet.com.tr/gundem/kripto-sirketine-operasyon-43365182",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "kript",
+    "opera",
+    "sirke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6f714796546e"
+  },
+  "b5e423f84c2a": {
+   "id": "b5e423f84c2a",
+   "kaynak": "Hürriyet",
+   "baslik": "Tablo bu sefer karanlık... Ünlü ressamın eski eşinden vahim iddia",
+   "ozet": "Fatma Füsun İnan, eski eşi ressam Ergin İnan’ın yanında bahçıvan olarak çalışan Serkan K. tarafından zorla alıkoyulduğunu ve milyon dolarlık eserlerinin gasp edildiğini iddia ederek savcılığa suç duyurusunda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/tablo-bu-sefer-karanlik-unlu-ressamin-eski-esinden-vahim-iddia-43365183",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "esind",
+    "eski",
+    "iddia",
+    "karan",
+    "ressa",
+    "sefer",
+    "tablo",
+    "unlu",
+    "vahim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d6319c470ab8": {
+   "id": "d6319c470ab8",
+   "kaynak": "Hürriyet",
+   "baslik": "DEM Parti: Kent Uzlaşısı zeminindeyiz",
+   "ozet": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, 2024 yerel seçiminde ‘Kent Uzlaşısı’yla CHP listesinden seçilen belediye meclis üyelerinin DEM Parti’ye katılma kararıyla ilgili, “Bu karar, Kent Uzlaşısı anlayışımızı devam ettirecek bir karardır.",
+   "link": "https://www.hurriyet.com.tr/gundem/dem-parti-kent-uzlasisi-zeminindeyiz-43365193",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "dem",
+    "kent",
+    "parti",
+    "uzlas",
+    "zemin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6c8b173e7b0"
+  },
+  "76499300f64d": {
+   "id": "76499300f64d",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31’deki ‘Yeşil Bölge’ çözüm üssü olacak",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya’daki COP31 alanında yer alan Yeşil Bölge’ye ilişkin “Sıfır Atık’tan bilime, dirençli şehirlerden start-up’lara kadar iklim çözümlerinin merkez üssü olacak” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31deki-yesil-bolge-cozum-ussu-olacak-43365194",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "cop31",
+    "cozum",
+    "deki",
+    "olaca",
+    "ussu",
+    "yesil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1ff2849b0372"
+  },
+  "03114a145a84": {
+   "id": "03114a145a84",
+   "kaynak": "Hürriyet",
+   "baslik": "Kozinoğlu’nda ‘zehir’ çıktı",
+   "ozet": "Tutuklu bulunduğu cezaevinde hayatını kaybeden Kozinoğlu’nun ölümüne ilişkin yapılan fethi kabir sonrası hazırlanan toksikoloji ön raporu ‘şüpheyi’ artırdı. Kozinoğlu’nun saç ve tırnaklarında yüksek oranda antimon isimli toksik madde bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kozinoglunda-zehir-cikti-43365197",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "cikti",
+    "kozin",
+    "nda",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dd5dee19831c": {
+   "id": "dd5dee19831c",
+   "kaynak": "Hürriyet",
+   "baslik": "Yazılıda yeni dönem başladı… İlk OYSS yapıldı",
+   "ozet": "Ortak Yazılı Sınav Sistemi (OYSS) ortaokul ve lise kademesindeki okullarda ilk kez uygulandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yazilida-yeni-donem-basladi-ilk-oyss-yapildi-43365198",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "basla",
+    "donem",
+    "ilk",
+    "oyss",
+    "yapil",
+    "yazil",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "44bbcd24e392": {
+   "id": "44bbcd24e392",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek’ten fon operasyonları açıklaması: Basit bir borsa vurgunu değil",
+   "ozet": "Fon soruşturmalarıyla ilgili açıklama yapan Bakan Gürlek, “Basit bir borsa vurgunu ile sınırlı olmadığı, kapsamlı bir suç yapılanması olduğu tespit edildi. Bu örgütsel yapının içindeki isimler arasında hiyerarşik ve sistemli bir işbirliğinin delillerine ulaştık” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-fon-operasyonlari-aciklamasi-basit-bir-borsa-vurgunu-degil-43365201",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "basit",
+    "borsa",
+    "degil",
+    "fon",
+    "gurle",
+    "opera",
+    "ten",
+    "vurgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f3803a5d5409"
+  },
+  "b7c0bf59c5e7": {
+   "id": "b7c0bf59c5e7",
+   "kaynak": "Hürriyet",
+   "baslik": "9. Fon Kurulu Toplantısı’ndan açıklama: Ara ödemeler devam edecek",
+   "ozet": "İletişim Başkanlığı, tasfiye sürecinden sorumlu kurumların koordinasyonunda bu hafta ara ödemelere devam edileceğini duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/9-fon-kurulu-toplantisindan-aciklama-ara-odemeler-devam-edecek-43365205",
+   "zaman": "2026-11-04T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ara",
+    "devam",
+    "edece",
+    "fon",
+    "kurul",
+    "ndan",
+    "odeme",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc637d1b3acf": {
+   "id": "dc637d1b3acf",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD ara seçiminde Texas şoku: Demokrat parti zafer kazandı",
+   "ozet": "Demokrat Parti Temsilcisi James Talarico, Texas eyaletinde yapılan ABD Senatosu yarışında Cumhuriyetçi rakibi Ken Paxton'ı mağlup etti.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-ara-seciminde-texas-soku-demokrat-parti-zafer-kazandi-962166.html",
+   "zaman": "2026-11-04T07:03:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "demok",
+    "kazan",
+    "parti",
+    "secim",
+    "soku",
+    "texas",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "72004c6d5e5d": {
+   "id": "72004c6d5e5d",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Türkiye-Azerbaycan hattında gerginliğin nedenleri neler?",
+   "ozet": "Ankara-Bakü hattında başörtüsü tartışması ile başlayan gerilim, Cumhurbaşkanı İlham Aliyev'in Türkiye'de düzenlenen Türk Devletleri Teşkilatı zirvesine katılmamasıyla gündemde. Peki \"tek millet iki devlet\" ilkesini benimseyen stratejik ortakların arası nasıl açıldı?",
+   "link": "https://www.bbc.com/turkce/articles/c8kgev55zxywo",
+   "zaman": "2026-11-04T07:06:11+03:00",
+   "kelimeler": [
+    "azerb",
+    "gergi",
+    "hatti",
+    "neden",
+    "neler",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 07:16:11  13 yeni haber",
   "04.11 07:04:04  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Ekonomist Murat Muratoğlu :",
   "04.11 07:01:17  3 yeni haber",
   "04.11 06:32:22  3 yeni haber",
@@ -27915,8 +28359,7 @@
   "02.11 05:16:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "02.11 04:16:02  1 yeni haber",
   "02.11 03:46:07  1 yeni haber",
-  "02.11 03:31:11  1 yeni haber",
-  "02.11 03:16:04  1 yeni haber"
+  "02.11 03:31:11  1 yeni haber"
  ],
  "otomatik": false
 }
