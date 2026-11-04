@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "72ab97cd45e1": {
-   "id": "72ab97cd45e1",
-   "kaynak": "NTV",
-   "baslik": "Şehit askere ve Türk bayrağına hakaret eden şüpheli tutuklandı",
-   "ozet": "Balıkesir’de sosyal medya hesapları üzerinden şehit askere ve Türk bayrağına yönelik hakaret içerikli paylaşımlar yaptığı tespit edilen şahıs, çıkarıldığı mahkemece tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/sehit-askere-ve-turk-bayragina-hakaret-eden-supheli-tutuklandi-1748949",
-   "zaman": "2026-11-01T21:48:40+03:00",
-   "kelimeler": [
-    "asker",
-    "bayra",
-    "eden",
-    "hakar",
-    "sehit",
-    "suphe",
-    "turk",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "c020531f7144": {
-   "id": "c020531f7144",
-   "kaynak": "AA",
-   "baslik": "UKMTO: Hürmüz Boğazı'nda bir gemiye bilinmeyen cisim isabet etti",
-   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda bir gemiye bilinmeyen bir cismin isabet ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-bir-gemiye-bilinmeyen-cisim-isabet-etti/4108186",
-   "zaman": "2026-11-01T21:52:06+03:00",
-   "kelimeler": [
-    "bilin",
-    "bogaz",
-    "cisim",
-    "etti",
-    "gemiy",
-    "hurmu",
-    "isabe",
-    "nda",
-    "ukmto"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9cc0bcc22808": {
    "id": "9cc0bcc22808",
    "kaynak": "Sözcü",
@@ -2575,31 +2534,6 @@
    "fb_reels_id": "1740175203748841",
    "slayt": 6,
    "kanca": "41 ŞÜPHELİ TUTUKLANDI"
-  },
-  "7454eef345a2": {
-   "id": "7454eef345a2",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Binance, siber saldırıda çalınan 6,3 milyar dolarlık varlığın yüzde 90'ını yerine koyduğunu açıkladı",
-   "ozet": "Kripto para devi Binance, potansiyel bir siber saldırı sebebiyle 6,3 milyar dolar (yaklaşık 314 milyar lira) değerinde dijital varlığın etkilendiğini belirtti.",
-   "link": "https://www.bbc.com/turkce/articles/cm4g10d03rp8o",
-   "zaman": "2026-11-01T21:59:28+03:00",
-   "kelimeler": [
-    "90",
-    "binan",
-    "calin",
-    "dolar",
-    "ini",
-    "koydu",
-    "milya",
-    "saldi",
-    "siber",
-    "varli",
-    "yerin",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "75f172133c25"
   },
   "b1e3e14e5903": {
    "id": "b1e3e14e5903",
@@ -30960,7 +30894,10 @@
     "yurda"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "736f3b5da2e3": {
    "id": "736f3b5da2e3",
@@ -30982,9 +30919,50 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a92f00e1514c"
+  },
+  "bb7f6084c3f1": {
+   "id": "bb7f6084c3f1",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan yurda döndü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle resmi ziyaret gerçekleştirdiği Seul'deki temaslarını tamamlayarak yurda döndü.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yurda-dondu-962266.html",
+   "zaman": "2026-11-04T21:38:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dondu",
+    "erdog",
+    "yurda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "808c6e5ddf73"
+  },
+  "667cb53e0819": {
+   "id": "667cb53e0819",
+   "kaynak": "AA",
+   "baslik": "İsrail vatandaşı Filistinlileri temsil eden Raam Partisi, başbakanlık için Eisenkot'u önereceğini duyurdu",
+   "ozet": "İsrail vatandaşı Filistinlileri temsil eden Raam Partisi (Birleşik Arap Listesi), Cumhurbaşkanı Isaac Herzog'a hükümeti kurması için Gadi Eisenkot'un ismini önereceklerini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-raam-partisi-basbakanlik-icin-eisenkotu-onerecegini-duyurdu/4111955",
+   "zaman": "2026-11-04T21:53:19+03:00",
+   "kelimeler": [
+    "basba",
+    "duyur",
+    "eden",
+    "eisen",
+    "filis",
+    "israi",
+    "onere",
+    "parti",
+    "raam",
+    "temsi",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 22:01:27  1 yeni haber",
   "04.11 21:46:05  2 yeni haber",
   "04.11 21:31:15  1 yeni haber",
   "04.11 21:15:58  1 yeni haber",
@@ -31183,8 +31161,7 @@
   "02.11 21:31:15  2 yeni haber",
   "02.11 21:16:05  1 yeni haber",
   "02.11 21:01:37  3 yeni haber",
-  "02.11 20:46:05  2 yeni haber",
-  "02.11 20:40:16  7 yeni haber"
+  "02.11 20:46:05  2 yeni haber"
  ],
  "otomatik": false
 }
