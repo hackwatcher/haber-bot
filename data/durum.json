@@ -245,25 +245,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "d69c96c9a344": {
-   "id": "d69c96c9a344",
-   "kaynak": "AA",
-   "baslik": "60 saniyede bugün (01 Kasım 2026)",
-   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-01-kasim-2026/4108015",
-   "zaman": "2026-11-01T16:06:01+03:00",
-   "kelimeler": [
-    "01",
-    "2026",
-    "60",
-    "bugun",
-    "kasim",
-    "saniy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ed0d653c7293"
-  },
   "ba30599157f3": {
    "id": "ba30599157f3",
    "kaynak": "Sözcü",
@@ -24424,7 +24405,10 @@
    "fb_id": null,
    "fb_reels_id": "2153910818826901",
    "slayt": 5,
-   "kanca": "38 YIL SONRA İLK"
+   "kanca": "38 YIL SONRA İLK",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "72004c6d5e5d": {
    "id": "72004c6d5e5d",
@@ -29803,9 +29787,94 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "10f48c07cb7c"
+  },
+  "d8aed1b18608": {
+   "id": "d8aed1b18608",
+   "kaynak": "AA",
+   "baslik": "ABD'de Demokratların ara seçim zaferi Cumhuriyetçi cephede tepkilere ve parti içi eleştirilere yol açtı",
+   "ozet": "ABD'deki ara seçimlerde Demokratların Kongre'nin iki kanadında da çoğunluğu elde ettiğini gösteren sonuçlar Cumhuriyetçi siyasetçilerin tepkisine ve parti içi eleştirilere neden oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokratlarin-ara-secim-zaferi-cumhuriyetci-cephede-tepkilere-ve-parti-ici-elestirilere-yol-acti/4111543",
+   "zaman": "2026-11-04T15:52:57+03:00",
+   "kelimeler": [
+    "abd",
+    "acti",
+    "ara",
+    "cephe",
+    "cumhu",
+    "demok",
+    "elest",
+    "ici",
+    "parti",
+    "secim",
+    "tepki",
+    "yol",
+    "zafer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dc637d1b3acf"
+  },
+  "ec1374cd5479": {
+   "id": "ec1374cd5479",
+   "kaynak": "TRT Haber",
+   "baslik": "Ege ve Doğu Karadeniz için fırtına uyarısı",
+   "ozet": "Ege Denizi ile Doğu Karadenizin doğusunda yarın rüzgarın hızının saatte 75 kilometreye kadar ulaşması bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/ege-ve-dogu-karadeniz-icin-firtina-uyarisi-962240.html",
+   "zaman": "2026-11-04T15:54:00+03:00",
+   "kelimeler": [
+    "dogu",
+    "ege",
+    "firti",
+    "karad",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5c8a38f4bb8e": {
+   "id": "5c8a38f4bb8e",
+   "kaynak": "TRT Haber",
+   "baslik": "HÜRKUŞ'ta 2 yeni teslimat: Envanterdeki uçak sayısı 4 oldu",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı koordinasyonunda geliştirilen yeni nesil temel eğitim uçağı HÜRKUŞ'un 2 uçağının daha kabul işlemleri tamamlandı. Son teslimatlarla Hava Kuvvetleri Komutanlığının envanterindeki HÜRKUŞ sayısı 4'e yükseldi.",
+   "link": "https://www.trthaber.com/haber/savunma/hurkusta-2-yeni-teslimat-envanterdeki-ucak-sayisi-4-oldu-962239.html",
+   "zaman": "2026-11-04T15:56:00+03:00",
+   "kelimeler": [
+    "envan",
+    "hurku",
+    "sayis",
+    "ta",
+    "tesli",
+    "ucak",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f9ae9f27c30": {
+   "id": "5f9ae9f27c30",
+   "kaynak": "AA",
+   "baslik": "Sanchez, ABD'deki seçim sonuçlarının İspanya'daki seçimlerde sosyalistlere yarayacağını savundu",
+   "ozet": "İspanya Başbakanı Pedro Sanchez, ABD'de yapılan ara seçimlerde Demokratlar'ın Cumhuriyetçiler'e karşı elde ettiği üstünlüğün, ülkesinde 29 Kasım'da yapılacak erken genel seçimlerde sosyalistlere yarar sağlayacağını savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/sanchez-abddeki-secim-sonuclarinin-ispanyadaki-secimlerde-sosyalistlere-yarayacagini-savundu/4111557",
+   "zaman": "2026-11-04T16:08:24+03:00",
+   "kelimeler": [
+    "abd",
+    "daki",
+    "deki",
+    "ispan",
+    "sanch",
+    "savun",
+    "secim",
+    "sonuc",
+    "sosya",
+    "yaray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 16:16:04  3 yeni haber",
   "04.11 16:01:25  4 yeni haber",
   "04.11 15:46:28  6 yeni haber",
   "04.11 15:33:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Duraktaki metrobüsler çarpıştı: Yaralılar var",
@@ -30004,8 +30073,7 @@
   "02.11 16:01:31  5 yeni haber",
   "02.11 15:46:16  4 yeni haber",
   "02.11 15:31:26  6 yeni haber",
-  "02.11 15:16:15  6 yeni haber",
-  "02.11 15:03:21  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu"
+  "02.11 15:16:15  6 yeni haber"
  ],
  "otomatik": false
 }
