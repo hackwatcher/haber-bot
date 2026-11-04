@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "042bc1a786af": {
-   "id": "042bc1a786af",
-   "kaynak": "Hürriyet",
-   "baslik": "Hatay'da köpeği çalan motosikletlilerden ilginç savunma: Kendi köpeğimize benzettik",
-   "ozet": "Hatay’ın Dörtyol ilçesinde motosikletle gelip tasmayla çaldıkları golden cinsi köpek polisin çalışmasıyla bulunan iki şüpheli, köpeği kendi köpeklerine benzettikleri için aldıklarını öne sürdü.",
-   "link": "https://www.hurriyet.com.tr/gundem/hatayda-kopegi-calan-motosikletlilerden-ilginc-savunma-kendi-kopegimize-benzettik-43362147",
-   "zaman": "2026-11-01T09:29:00+03:00",
-   "kelimeler": [
-    "benze",
-    "calan",
-    "hatay",
-    "ilgin",
-    "kendi",
-    "kopeg",
-    "motos",
-    "savun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "036acc72efa9": {
    "id": "036acc72efa9",
    "kaynak": "AA",
@@ -28220,7 +28200,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "7e7f0c9d3500": {
    "id": "7e7f0c9d3500",
@@ -28259,7 +28242,10 @@
     "uyust"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "b901ea92fd10": {
    "id": "b901ea92fd10",
@@ -28360,8 +28346,17 @@
     "secim",
     "sonuc"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-04T09:34:20.565743+03:00",
+   "ig_id": "17955728130273132",
+   "reels_id": "17888280150624765",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2891972581182208",
+   "slayt": 5,
+   "kanca": "DEMOKRATLARIN SEÇİM BAŞARISI"
   },
   "847cf25f9d84": {
    "id": "847cf25f9d84",
@@ -28384,9 +28379,114 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "47693bd9cc00": {
+   "id": "47693bd9cc00",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD 2026 ara seçimlerinde seçim tarihinin ilkleri",
+   "ozet": "ABD'de yapılan 2026 ara seçimlerinde sandıktan çıkan sonuçlar, eyalet ve federal düzeyde birçok tarihi ilke sahne oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-2026-ara-secimlerinde-secim-tarihinin-ilkleri-962175.html",
+   "zaman": "2026-11-04T08:59:00+03:00",
+   "kelimeler": [
+    "2026",
+    "abd",
+    "ara",
+    "ilkle",
+    "secim",
+    "tarih"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4a4892cd6565"
+  },
+  "2b1271bf62bb": {
+   "id": "2b1271bf62bb",
+   "kaynak": "AA",
+   "baslik": "Jandarma komandolar \"Savaşçı Yarışması\"nda sınırlarını zorluyor",
+   "ozet": "Jandarma Komando birliklerinin taktik becerilerini, durumsal farkındalıklarını, zihinsel ve fiziksel dayanıklılıklarını artırmak amacıyla bu yıl ikincisi düzenlenen \"Savaşçı Yarışması\" İzmir'de devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/jandarma-komandolar-savasci-yarismasinda-sinirlarini-zorluyor/4110932",
+   "zaman": "2026-11-04T09:12:45+03:00",
+   "kelimeler": [
+    "janda",
+    "koman",
+    "nda",
+    "savas",
+    "sinir",
+    "yaris",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f28487e46344": {
+   "id": "f28487e46344",
+   "kaynak": "Hürriyet",
+   "baslik": "X-Ray ve dedektör köpekler devrede: 4 ayrı noktada 459 kilo zehir yakalandı",
+   "ozet": "Edirne’deki gümrük kapıları ve İstanbul Havalimanı’nda risk analizine takılan araç ve yolculara operasyon düzenlendi. Yakıt depolarından ve bagajlardan toplam 459 kilo 599 gram kokain, esrar ve eroin çıkarıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/x-ray-ve-dedektor-kopekler-devrede-4-ayri-noktada-459-kilo-zehir-yakalandi-43365275",
+   "zaman": "2026-11-04T09:18:00+03:00",
+   "kelimeler": [
+    "459",
+    "ayri",
+    "dedek",
+    "devre",
+    "kilo",
+    "kopek",
+    "nokta",
+    "ray",
+    "yakal",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "587c1e30c73a": {
+   "id": "587c1e30c73a",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Güney Kore'deki şirketlerin üst düzey yöneticilerini kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyaret kapsamında bulunduğu Güney Kore'nin başkenti Seul'de, teknoloji, elektronik, biyoteknoloji ve kimya alanlarında faaliyet gösteren şirketlerin üst düzey yöneticilerini kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-sirketlerin-ust-duzey-yoneticilerini-kabul-etti/4110944",
+   "zaman": "2026-11-04T09:22:11+03:00",
+   "kelimeler": [
+    "cumhu",
+    "deki",
+    "duzey",
+    "erdog",
+    "etti",
+    "guney",
+    "kabul",
+    "kore",
+    "sirke",
+    "ust",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "867360e7dea1"
+  },
+  "45865271206f": {
+   "id": "45865271206f",
+   "kaynak": "NTV",
+   "baslik": "Gümrüklerde 459 kilo uyuşturucu ele geçirildi",
+   "ozet": "Edirne'deki Kapıkule, Hamzabeyli ve İpsala gümrük kapıları ile İstanbul Havalimanı'nda gerçekleştirilen dört ayrı operasyonda kilolarca uyuşturucu madde ele geçirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gumruklerde-459-kilo-uyusturucu-ele-gecirildi-1749318",
+   "zaman": "2026-11-04T09:24:43+03:00",
+   "kelimeler": [
+    "459",
+    "ele",
+    "gecir",
+    "gumru",
+    "kilo",
+    "uyust"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "97048bdb0c22"
   }
  },
  "kayit": [
+  "04.11 09:34:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Küresel piyasalar ABD'deki ara seçim sonuçlarına odaklandı",
+  "04.11 09:31:29  2 yeni haber",
   "04.11 09:16:03  3 yeni haber",
   "04.11 09:01:19  5 yeni haber",
   "04.11 08:46:04  2 yeni haber",
@@ -28584,9 +28684,7 @@
   "02.11 09:16:20  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "02.11 08:47:16  3 yeni haber",
   "02.11 08:31:15  4 yeni haber",
-  "02.11 08:15:58  2 yeni haber",
-  "02.11 08:01:25  1 yeni haber",
-  "02.11 07:45:59  1 yeni haber"
+  "02.11 08:15:58  2 yeni haber"
  ],
  "otomatik": false
 }
