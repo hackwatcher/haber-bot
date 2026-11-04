@@ -1,82 +1,5 @@
 {
  "haberler": {
-  "ba30599157f3": {
-   "id": "ba30599157f3",
-   "kaynak": "Sözcü",
-   "baslik": "Borsa İstanbul'da Enes Ergun'un yerine Atila Türeli geldi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/borsa-istanbul-genel-mudurluk-gorevi-vekaleten-atila-tureli-getirildi-p374924",
-   "zaman": "2026-11-01T17:44:55+03:00",
-   "kelimeler": [
-    "atila",
-    "borsa",
-    "enes",
-    "ergun",
-    "geldi",
-    "istan",
-    "turel",
-    "un",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "215ae9b11652": {
-   "id": "215ae9b11652",
-   "kaynak": "AA",
-   "baslik": "Milli motosikletçi Kadir Erbay, İspanya Superbike Şampiyonası'nda ilk yarışta 3. oldu",
-   "ozet": "Milli motosikletçi Kadir Erbay, İspanya Superbike Şampiyonası'nda ilk yarışta 3'üncü olarak podyum sevinci yaşadı.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-motosikletci-kadir-erbay-ispanya-superbike-sampiyonasinda-ilk-yarista-3-oldu/4108080",
-   "zaman": "2026-11-01T17:38:25+03:00",
-   "kelimeler": [
-    "erbay",
-    "ilk",
-    "ispan",
-    "kadir",
-    "milli",
-    "motos",
-    "nda",
-    "sampi",
-    "super",
-    "yaris"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-01T19:18:00.941256+03:00",
-   "ig_id": "18099278351232633",
-   "reels_id": "18077290400766300",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1548214710675144",
-   "slayt": 5,
-   "kanca": "İSPANYA'DA PODYUM"
-  },
-  "924c0fbf86e8": {
-   "id": "924c0fbf86e8",
-   "kaynak": "TRT Haber",
-   "baslik": "Batı Şeria'da zeytin hasadı sezonunda işgalci İsrail saldırılarında 13 bin ağaç zarar gördü",
-   "ozet": "Filistin Tarım Bakanlığı, Batı Şeria'da devam eden zeytin hasadı sezonunda şu ana kadar işgalci İsrail saldırıları nedeniyle yaklaşık 13 bin zeytin ağacının zarar gördüğünü, yaklaşık 50 ton zeytin ile 300 tarım ekipmanının çalındığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/bati-seriada-zeytin-hasadi-sezonunda-isgalci-israil-saldirilarinda-13-bin-agac-zarar-gordu-961889.html",
-   "zaman": "2026-11-01T17:39:00+03:00",
-   "kelimeler": [
-    "13",
-    "agac",
-    "bati",
-    "bin",
-    "gordu",
-    "hasad",
-    "isgal",
-    "israi",
-    "saldi",
-    "seria",
-    "sezon",
-    "zarar",
-    "zeyti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "11da020d71a6": {
    "id": "11da020d71a6",
    "kaynak": "Hürriyet",
@@ -28958,7 +28881,8 @@
     "vakan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0bff80826f39": {
    "id": "0bff80826f39",
@@ -30378,10 +30302,192 @@
     "sorus"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "1bef63e220b9": {
+   "id": "1bef63e220b9",
+   "kaynak": "AA",
+   "baslik": "Vakanüvis Ahmed Lütfi Efendi'nin tarihçiliği sempozyumda farklı yönleriyle ele alınıyor",
+   "ozet": "Osmanlı tarih yazıcılığının önemli isimlerinden vakanüvis Ahmed Lütfi Efendi'nin hayatı, eserleri ve tarihçilik anlayışının ele alındığı \"Dört Padişah Bir Tarihçi: Vak'anüvis Ahmed Lütfi Efendi Sempozyumu\" devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/vakanuvis-ahmed-lutfi-efendinin-tarihciligi-sempozyumda-farkli-yonleriyle-ele-aliniyor/4111577",
+   "zaman": "2026-11-04T16:18:36+03:00",
+   "kelimeler": [
+    "ahmed",
+    "alini",
+    "efend",
+    "ele",
+    "farkl",
+    "lutfi",
+    "nin",
+    "sempo",
+    "tarih",
+    "vakan",
+    "yonle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bc497b4167d0"
+  },
+  "9502d830bcd9": {
+   "id": "9502d830bcd9",
+   "kaynak": "TRT Haber",
+   "baslik": "Katarda yarın ülke genelindeki camilerde yağmur duası yapılacak",
+   "ozet": "Katarda, yarın ülke genelindeki camilerde yağmur yağması için toplu dua yapılacağı duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/katarda-yarin-ulke-genelindeki-camilerde-yagmur-duasi-yapilacak-962250.html",
+   "zaman": "2026-11-04T16:49:00+03:00",
+   "kelimeler": [
+    "camil",
+    "duasi",
+    "genel",
+    "katar",
+    "ulke",
+    "yagmu",
+    "yapil",
+    "yarin"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "559a60ac5a32": {
+   "id": "559a60ac5a32",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Dilovası parfüm fabrikası yangını: Davada iki sanık tahliye edildi",
+   "ozet": "Kocaeli'nin Dilovası ilçesindeki bir kozmetik fabrikası yangınında yedi işçinin yaşamını yitirmesine ilişkin davanın beşinci duruşması görüldü. Mahkeme iki sanığın tahliye edilmesine karar verdi. Yakınlar, kendilerine para teklif edildiğini iddia etti.",
+   "link": "https://www.bbc.com/turkce/articles/c30yvn17y2yo",
+   "zaman": "2026-11-04T17:21:00+03:00",
+   "kelimeler": [
+    "davad",
+    "dilov",
+    "edild",
+    "fabri",
+    "iki",
+    "parfu",
+    "sanik",
+    "tahli",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0bb08eb16886": {
+   "id": "0bb08eb16886",
+   "kaynak": "AA",
+   "baslik": "Netanyahu ve ortakları, ABD ara seçim sonuçlarının açıklanmasının ardından sessizliğe gömüldü",
+   "ozet": "İsrail'de Başbakan Binyamin Netanyahu ve ortaklarının, resmi olmayan sonuçlara göre Demokratların büyük bir zafer elde ettiği görülen ABD ara seçimleri sonrasında yorum yapmaması dikkati çekiyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-ve-ortaklari-abd-ara-secim-sonuclarinin-aciklanmasinin-ardindan-sessizlige-gomuldu/4111678",
+   "zaman": "2026-11-04T17:28:37+03:00",
+   "kelimeler": [
+    "abd",
+    "acikl",
+    "ara",
+    "ardin",
+    "gomul",
+    "netan",
+    "ortak",
+    "secim",
+    "sessi",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3fd60bc522b0": {
+   "id": "3fd60bc522b0",
+   "kaynak": "AA",
+   "baslik": "Yemen'deki Husiler: Suudi Arabistan'a 4 saldırı düzenledik",
+   "ozet": "Husiler, Suudi Arabistan'a 4 saldırı düzenlediklerini, Yemen'de bulunan Suudi Arabistan takviye birliklerini hedef aldıklarını ve Suudi Arabistan'a ait bir insansız hava aracını (İHA) düşürdüklerini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistana-4-saldiri-duzenledik/4111683",
+   "zaman": "2026-11-04T17:30:52+03:00",
+   "kelimeler": [
+    "arabi",
+    "deki",
+    "duzen",
+    "husil",
+    "saldi",
+    "suudi",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8ef0ff111c65": {
+   "id": "8ef0ff111c65",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'ndaki Keşm Adası'nda ABD'ye ait İHA düşürüldü",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndaki Keşm Adası üzerinde uçan ABD'ye ait MQ1 tipi insansız hava aracının İHA hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazindaki-kesm-adasinda-abdye-ait-iha-dusuruldu-962251.html",
+   "zaman": "2026-11-04T17:34:00+03:00",
+   "kelimeler": [
+    "abd",
+    "adasi",
+    "ait",
+    "bogaz",
+    "devri",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "kesm",
+    "muhaf",
+    "nda",
+    "ndaki",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6ce8ee1e16c3"
+  },
+  "8e565e68ea54": {
+   "id": "8e565e68ea54",
+   "kaynak": "AA",
+   "baslik": "SEDDK'den fon soruşturması sürecindeki iddialara ilişkin açıklama",
+   "ozet": "SEDDK, fon sürecine ilişkin kurum hakkında kamuoyunu yanlış yönlendirme amacıyla ortaya atılan iddiaların bütünüyle asılsız olduğunu, bunların hiçbir hukuki veya fiili dayanağının bulunmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/seddkden-fon-sorusturmasi-surecindeki-iddialara-iliskin-aciklama/4111687",
+   "zaman": "2026-11-04T17:36:02+03:00",
+   "kelimeler": [
+    "acikl",
+    "den",
+    "fon",
+    "iddia",
+    "ilisk",
+    "seddk",
+    "sorus",
+    "surec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9235bd92bab8": {
+   "id": "9235bd92bab8",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı",
+   "ozet": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül şüpheli sıfatıyla ifadeye çağrıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+   "zaman": "2026-11-04T17:44:29+03:00",
+   "kelimeler": [
+    "betul",
+    "cagri",
+    "fatma",
+    "fon",
+    "gonul",
+    "ibrah",
+    "ifade",
+    "ilyas",
+    "kaya",
+    "omer",
+    "sayan",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f0084a581c4b"
   }
  },
  "kayit": [
+  "04.11 17:46:01  5 yeni haber",
   "04.11 17:31:22  9 yeni haber",
   "04.11 17:18:05  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bakan Gürlek'ten yasa dışı bahis operasyonlarına ilişkin açıklama: 9 a",
   "04.11 17:16:01  5 yeni haber",
@@ -30580,8 +30686,7 @@
   "02.11 17:31:27  6 yeni haber",
   "02.11 17:16:14  2 yeni haber",
   "02.11 17:03:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran, savaşı sona erdirmek için 7 şartta ısrar ediyor",
-  "02.11 17:01:32  1 yeni haber",
-  "02.11 16:47:04  6 yeni haber"
+  "02.11 17:01:32  1 yeni haber"
  ],
  "otomatik": false
 }
