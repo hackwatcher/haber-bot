@@ -28080,8 +28080,17 @@
     "texas",
     "zafer"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-04T08:18:06.746434+03:00",
+   "ig_id": "17952808977318042",
+   "reels_id": "18098318654405775",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2153910818826901",
+   "slayt": 5,
+   "kanca": "38 YIL SONRA İLK"
   },
   "72004c6d5e5d": {
    "id": "72004c6d5e5d",
@@ -28257,9 +28266,35 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "82ae39a1161e": {
+   "id": "82ae39a1161e",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ9 tipi İHA düşürüldü",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ9 tipi insansız hava aracının İHA hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu-962169.html",
+   "zaman": "2026-11-04T08:00:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bogaz",
+    "devri",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "mq9",
+    "muhaf",
+    "nda",
+    "tipi",
+    "yapim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6ce8ee1e16c3"
   }
  },
  "kayit": [
+  "04.11 08:18:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD ara seçiminde Texas şoku: Demokrat parti zafer kazandı",
   "04.11 08:01:21  1 yeni haber",
   "04.11 07:31:12  1 yeni haber",
   "04.11 07:16:11  13 yeni haber",
@@ -28458,8 +28493,7 @@
   "02.11 07:15:58  8 yeni haber",
   "02.11 07:02:59  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Kim Milyoner Olmak İster'de bir yarışmacı ilk soruda elendi.",
   "02.11 07:01:18  2 yeni haber",
-  "02.11 05:16:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "02.11 04:16:02  1 yeni haber"
+  "02.11 05:16:03  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
  ],
  "otomatik": false
 }
