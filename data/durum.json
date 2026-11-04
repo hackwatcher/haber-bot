@@ -1,90 +1,5 @@
 {
  "haberler": {
-  "2aa2953dddb5": {
-   "id": "2aa2953dddb5",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu, işgal altındaki Batı Şeria ve Doğu Kudüs'te 5 Filistinliyi gözaltına aldı",
-   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria ve Doğu Kudüs'te düzenlediği baskınlarda 5 Filistinliyi gözaltına aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seria-ve-dogu-kuduste-5-filistinliyi-gozaltina-aldi/4107949",
-   "zaman": "2026-11-01T14:17:33+03:00",
-   "kelimeler": [
-    "aldi",
-    "altin",
-    "bati",
-    "dogu",
-    "filis",
-    "gozal",
-    "isgal",
-    "israi",
-    "kudus",
-    "ordus",
-    "seria",
-    "te"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fe86f8c68121": {
-   "id": "fe86f8c68121",
-   "kaynak": "TRT Haber",
-   "baslik": "KOBİ'lere 50 milyar liralık yeni Nefes Kredisi imkanı",
-   "ozet": "Türkiye Odalar ve Borsalar Birliği TOBB, Kredi Garanti Fonu KGF ve bankaların iş birliğiyle yürütülen Nefes Kredisi'nde yeni dönem başvuruları 3 Kasım'da başlayacak.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kobilere-50-milyar-liralik-yeni-nefes-kredisi-imkani-961878.html",
-   "zaman": "2026-11-01T14:22:00+03:00",
-   "kelimeler": [
-    "50",
-    "imkan",
-    "kobi",
-    "kredi",
-    "lere",
-    "liral",
-    "milya",
-    "nefes",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "224e5410b7a5": {
-   "id": "224e5410b7a5",
-   "kaynak": "NTV",
-   "baslik": "Arkadaşına vedası yürekleri burktu: \"Üzülme diyorlar, nasıl üzülmeyeyim?\"",
-   "ozet": "Sivas'ta kalp yetmezliği nedeniyle 27 yaşında hayatını kaybeden diyaliz hastası Ahmet Esat Angi, son yolculuğuna uğurlandı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-arkadasina-vedasi-yurekleri-burktu-uzulme-diyorlar-nasil-uzulmeyeyim-1748907",
-   "zaman": "2026-11-01T14:26:39+03:00",
-   "kelimeler": [
-    "arkad",
-    "burkt",
-    "diyor",
-    "nasil",
-    "uzulm",
-    "vedas",
-    "yurek"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "52cace6ef5a2": {
-   "id": "52cace6ef5a2",
-   "kaynak": "TRT Haber",
-   "baslik": "Bulgaristan'da halk cumhurbaşkanı seçiminin ikinci turu için sandık başında",
-   "ozet": "Bulgaristan'da seçmenler, cumhurbaşkanı seçiminin ikinci turu için sandık başına gidiyor.",
-   "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-halk-cumhurbaskani-seciminin-ikinci-turu-icin-sandik-basinda-961879.html",
-   "zaman": "2026-11-01T14:25:00+03:00",
-   "kelimeler": [
-    "basin",
-    "bulga",
-    "cumhu",
-    "halk",
-    "ikinc",
-    "sandi",
-    "secim",
-    "turu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f7cda3b5865b"
-  },
   "16c955c33c4c": {
    "id": "16c955c33c4c",
    "kaynak": "Hürriyet",
@@ -29364,10 +29279,203 @@
     "yaral"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "4959f4d90526": {
+   "id": "4959f4d90526",
+   "kaynak": "TRT Haber",
+   "baslik": "Vatandaşları 464 milyon lira dolandıran 198 şüpheli tutuklandı",
+   "ozet": "21 ilde nitelikli dolandırıcılık suçuna yönelik düzenlenen operasyonlarda 327 şüpheli yakalandı. Vatandaşları 464 milyon lira dolandırdığı belirlenen şüphelilerden 198'i tutuklanırken, hesaplarında 27 milyar 509 milyon liralık işlem hacmi tespit edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/vatandaslari-464-milyon-lira-dolandiran-198-supheli-tutuklandi-962228.html",
+   "zaman": "2026-11-04T14:13:00+03:00",
+   "kelimeler": [
+    "198",
+    "464",
+    "dolan",
+    "lira",
+    "milyo",
+    "suphe",
+    "tutuk",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0826770dcd23": {
+   "id": "0826770dcd23",
+   "kaynak": "AA",
+   "baslik": "Trump'ın ikinci dönemindeki ara seçimlerde ilk sonuçlar, eyalet valiliği dağılımını değiştirdi",
+   "ozet": "ABD'de Başkan Donald Trump'ın ikinci döneminde düzenlenen ara seçimlerde ilk sonuçlar, ülke genelindeki eyalet valiliklerinin dağılımını da değiştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumpin-ikinci-donemindeki-ara-secimlerde-ilk-sonuclar-eyalet-valiligi-dagilimini-degistirdi/4111423",
+   "zaman": "2026-11-04T14:14:27+03:00",
+   "kelimeler": [
+    "ara",
+    "dagil",
+    "degis",
+    "donem",
+    "eyale",
+    "ikinc",
+    "ilk",
+    "in",
+    "secim",
+    "sonuc",
+    "trump",
+    "valil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1cc210ecc566": {
+   "id": "1cc210ecc566",
+   "kaynak": "AA",
+   "baslik": "BM'den, iklim değişikliğine uyum finansmanının ihtiyaçların çok gerisinde kaldığı uyarısı",
+   "ozet": "Birleşmiş Milletler Çevre Programı, küresel sıcaklık artışının sanayi öncesi döneme göre 1,5 derece eşiğini aşması beklenirken iklim değişikliğine uyum için sağlanan finansmanın ihtiyaçların çok gerisinde kaldığı uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/bmden-iklim-degisikligine-uyum-finansmaninin-ihtiyaclarin-cok-gerisinde-kaldigi-uyarisi/4111427",
+   "zaman": "2026-11-04T14:17:18+03:00",
+   "kelimeler": [
+    "bm",
+    "degis",
+    "den",
+    "finan",
+    "geris",
+    "ihtiy",
+    "iklim",
+    "kaldi",
+    "uyari",
+    "uyum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3eb3114294aa": {
+   "id": "3eb3114294aa",
+   "kaynak": "Hürriyet",
+   "baslik": "Okul saldırıları sonrası tehdit mesajları atmışlardı: 13 sanığa 4 yıla kadar hapis talebi",
+   "ozet": "Kahramanmaraş ve Şanlıurfa'daki okul saldırılarının ardından sosyal medyada yeni saldırılar yapılacağına yönelik tehdit içerikli paylaşımlar yaptıkları belirlenen 11'i tutuklu 13 sanık hakkında dava açıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/okul-saldirilari-sonrasi-tehdit-mesajlari-atmislardi-13-saniga-4-yila-kadar-hapis-talebi-43365781",
+   "zaman": "2026-11-04T14:18:09+03:00",
+   "kelimeler": [
+    "13",
+    "atmis",
+    "hapis",
+    "mesaj",
+    "okul",
+    "saldi",
+    "sanig",
+    "sonra",
+    "taleb",
+    "tehdi",
+    "yila"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "68b7eae02aae": {
+   "id": "68b7eae02aae",
+   "kaynak": "AA",
+   "baslik": "Demokratların seçim başarısı Asya'da risk iştahını artırdı",
+   "ozet": "ABD seçmenlerinin oy kullandığı Kongre ara seçimlerinde Demokratların, Temsilciler Meclisi ve Senatoda çoğunluğu sağlaması, Asya piyasalarında risk iştahını desteklerken seçim sonuçlarının ABD-Çin ilişkilerine olası yansımaları dikkatle izlenecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/demokratlarin-secim-basarisi-asyada-risk-istahini-artirdi/4111433",
+   "zaman": "2026-11-04T14:24:08+03:00",
+   "kelimeler": [
+    "artir",
+    "asya",
+    "basar",
+    "demok",
+    "istah",
+    "risk",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "31dbbdfdaf9f": {
+   "id": "31dbbdfdaf9f",
+   "kaynak": "Hürriyet",
+   "baslik": "Uyuşturucu davasında ikinci celse: Ela Rümeysa Cebeci hakim karşısında",
+   "ozet": "Aralarında eski Fenerbahçe Başkanı Sadettin Saran'ın da bulunduğu davada tutuksuz yargılanan sunucu Ela Rümeysa Cebeci adliyeye geldi. 10 yıldan az olmamak üzere hapis cezası istenen davanın ikinci duruşmasına katılma zorunluluğu kaldırılan Saran gelmedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
+   "zaman": "2026-11-04T14:26:00+03:00",
+   "kelimeler": [
+    "cebec",
+    "celse",
+    "davas",
+    "ela",
+    "hakim",
+    "ikinc",
+    "karsi",
+    "rumey",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "373675ea85a1": {
+   "id": "373675ea85a1",
+   "kaynak": "NTV",
+   "baslik": "Esenyurt'ta metrobüs kazası. Yaralılar var",
+   "ozet": "İstanbul'un Esenyurt ilçesinde Haramidere Sanayi Durağı'nda yolcu alan metrobüse arkadan gelen metrobüs çarptı. Kazada 6 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-esenyurtta-metrobus-kazasi-yaralilar-var-1749374",
+   "zaman": "2026-11-04T14:27:13+03:00",
+   "kelimeler": [
+    "eseny",
+    "kazas",
+    "metro",
+    "ta",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8f20ffe53443"
+  },
+  "78cbc4b6f018": {
+   "id": "78cbc4b6f018",
+   "kaynak": "AA",
+   "baslik": "Antalya Kültür Yolu Festivali çeşitli etkinliklerle sürüyor",
+   "ozet": "Kültür ve Turizm Bakanlığınca düzenlenen Antalya Kültür Yolu Festivali, dördüncü gününde sergiler, geleneksel sanat atölyeleri, söyleşiler, konser ve çocuklara yönelik etkinliklerle devam etti.",
+   "link": "https://www.aa.com.tr/tr/kultur/antalya-kultur-yolu-festivali-cesitli-etkinliklerle-suruyor/4111435",
+   "zaman": "2026-11-04T14:27:20+03:00",
+   "kelimeler": [
+    "antal",
+    "cesit",
+    "etkin",
+    "festi",
+    "kultu",
+    "suruy",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "10f48c07cb7c": {
+   "id": "10f48c07cb7c",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'u kara bulutlar kapladı, gündüz geceye döndü. İstanbullulara saat 16.00 uyarısı",
+   "ozet": "Rusya üzerinden gelen Sibirya soğukları, İstanbul'da sıcaklığı sert düşürdü. Gece boyunca etkili olan kuvvetli sağanaklar saat 16.00-22.00 arasında şiddetini artıracak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-kara-bulutlar-kapladi-gunduz-geceye-dondu-istanbullulara-saat-1600-uyarisi-1749375",
+   "zaman": "2026-11-04T14:30:14+03:00",
+   "kelimeler": [
+    "00",
+    "16",
+    "bulut",
+    "dondu",
+    "gecey",
+    "gundu",
+    "istan",
+    "kapla",
+    "kara",
+    "saat",
+    "uyari"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 14:31:26  8 yeni haber",
   "04.11 14:17:22  9 yeni haber",
   "04.11 14:01:43  4 yeni haber",
   "04.11 13:49:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Acil durum bildirimi ekipleri harekete geçirdi, yanan araçta iş insanı",
@@ -29566,8 +29674,7 @@
   "02.11 14:16:49  9 yeni haber",
   "02.11 14:01:33  3 yeni haber",
   "02.11 13:55:56  4 yeni haber",
-  "02.11 13:47:31  12 yeni haber",
-  "02.11 13:31:21  1 yeni haber"
+  "02.11 13:47:31  12 yeni haber"
  ],
  "otomatik": false
 }
