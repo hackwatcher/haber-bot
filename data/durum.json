@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "1d7fdd3ea507": {
-   "id": "1d7fdd3ea507",
-   "kaynak": "Hürriyet",
-   "baslik": "İmamdan izin alıp tabutun başına geçti: 20 yıllık arkadaşına vedası yürek burktu",
-   "ozet": "Sivas'ta kalp yetmezliği sonucu 27 yaşında yaşamını yitiren diyaliz hastası Ahmet Esat Angi son yolculuğuna uğurlanırken, 20 yıllık çocukluk arkadaşı Kadir Karabulut'un imamdan izin alarak tabut başında gözyaşlarıyla yaptığı veda konuşması sosyal medyada milyonlarca izlenmeye…",
-   "link": "https://www.hurriyet.com.tr/gundem/imamdan-izin-alip-tabutun-basina-gecti-20-yillik-arkadasina-vedasi-yurek-burktu-43362227",
-   "zaman": "2026-11-01T10:52:35+03:00",
-   "kelimeler": [
-    "20",
-    "alip",
-    "arkad",
-    "basin",
-    "burkt",
-    "gecti",
-    "imamd",
-    "izin",
-    "tabut",
-    "vedas",
-    "yilli",
-    "yurek"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "76437b7f4a72": {
-   "id": "76437b7f4a72",
-   "kaynak": "TRT Haber",
-   "baslik": "Diyarbakır Havalimanı'na yeni aletli iniş sistemi kuruldu",
-   "ozet": "Diyarbakır Havalimanı'nda ana pistin bakım ve onarım nedeniyle kapatılmasının ardından hizmete alınan paralel piste yeni Aletli İniş Sistemi ILS kuruldu. Sistem, kontrollerin ardından hizmete alınacak.",
-   "link": "https://www.trthaber.com/haber/turkiye/diyarbakir-havalimanina-yeni-aletli-inis-sistemi-kuruldu-961861.html",
-   "zaman": "2026-11-01T10:54:00+03:00",
-   "kelimeler": [
-    "aletl",
-    "diyar",
-    "haval",
-    "inis",
-    "kurul",
-    "na",
-    "siste",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "dd17aa5f3edd": {
-   "id": "dd17aa5f3edd",
-   "kaynak": "AA",
-   "baslik": "Göztepe, Süper Lig'de 4 haftadır kazanıyor",
-   "ozet": "Bu sezon 10 maçta 4 galibiyet, 3 beraberlik, 3 de mağlubiyet yaşayan sarı-kırmızılı ekip, 15 puana ulaştı.",
-   "link": "https://www.aa.com.tr/tr/spor/goztepe-super-ligde-4-haftadir-kazaniyor/4107781",
-   "zaman": "2026-11-01T11:01:00+03:00",
-   "kelimeler": [
-    "gozte",
-    "hafta",
-    "kazan",
-    "lig",
-    "super"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "2b400dbf226b": {
-   "id": "2b400dbf226b",
-   "kaynak": "AA",
-   "baslik": "Türkiye'nin \"kritik teknoloji\" ihracatı 9 ayda 86,4 milyar doları buldu",
-   "ozet": "Türkiye'nin orta-yüksek ve yüksek teknoloji sınıfındaki ürünlerden oluşan \"kritik teknoloji\" ihracatı, ocak-eylül döneminde 86,4 milyar dolara ulaştı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kritik-teknoloji-ihracati-9-ayda-86-4-milyar-dolari-buldu/4107782",
-   "zaman": "2026-11-01T11:01:15+03:00",
-   "kelimeler": [
-    "86",
-    "ayda",
-    "buldu",
-    "dolar",
-    "ihrac",
-    "kriti",
-    "milya",
-    "nin",
-    "tekno",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "767906d5d1cb": {
    "id": "767906d5d1cb",
    "kaynak": "BBC Türkçe",
@@ -292,27 +206,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c45b48b778d2"
-  },
-  "e6804a6a3fcd": {
-   "id": "e6804a6a3fcd",
-   "kaynak": "AA",
-   "baslik": "Diyarbakır Havalimanı'na yeni aletli iniş sistemi kuruldu",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Çalışmalarımız neticesinde Diyarbakır Havalimanı'nda hizmete aldığımız alternatif piste yeni ILS'nin kurulumunu tamamladık.\" ifadesini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyarbakir-havalimanina-yeni-aletli-inis-sistemi-kuruldu/4107776",
-   "zaman": "2026-11-01T10:52:51+03:00",
-   "kelimeler": [
-    "aletl",
-    "diyar",
-    "haval",
-    "inis",
-    "kurul",
-    "na",
-    "siste",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "76437b7f4a72"
   },
   "ffabdf7410b0": {
    "id": "ffabdf7410b0",
@@ -16349,7 +16242,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "69213e1380de": {
@@ -24952,7 +24846,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "5348cf1f446a": {
@@ -28278,7 +28173,8 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1a54639174bd": {
    "id": "1a54639174bd",
@@ -28687,7 +28583,10 @@
     "siyas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "98a6c732d96d": {
    "id": "98a6c732d96d",
@@ -28802,7 +28701,11 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "Sözcü"
+   ]
   },
   "16c4ba698efa": {
    "id": "16c4ba698efa",
@@ -28826,7 +28729,10 @@
     "yunus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "200b03de520b": {
    "id": "200b03de520b",
@@ -28864,9 +28770,214 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b3d1a064ad8c": {
+   "id": "b3d1a064ad8c",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump seçim sonuçlarından dolayı Fox News'i de suçladı",
+   "ozet": "ABD Başkanı Donald Trump, Demokratların önde götürdüğü Kongre ara seçimlerinin sonuçları açıklanmaya devam ederken Demokrat partiye yayınlarında \"sürekli\" yer verdiği gerekçesiyle Fox News kanalının \"kayıplardan sorumlu olduğunu\" öne sürdü.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-secim-sonuclarindan-dolayi-fox-newsi-de-sucladi-962186.html",
+   "zaman": "2026-11-04T10:05:00+03:00",
+   "kelimeler": [
+    "dolay",
+    "fox",
+    "news",
+    "secim",
+    "sonuc",
+    "sucla",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9b8da2662313"
+  },
+  "1641f7ec9309": {
+   "id": "1641f7ec9309",
+   "kaynak": "TRT Haber",
+   "baslik": "Demokrat aday Abdul elSayed, ABD Senatosuna seçilen ilk Müslüman senatör oldu",
+   "ozet": "ABD'deki ara seçimlerde Michigan eyaletinde, Mısır asıllı Müslüman aday Abdul elSayed, Cumhuriyetçi rakibi Mike Rogers'a üstünlük sağlayarak ABD Senatosuna seçilen ilk Müslüman oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/demokrat-aday-abdul-el-sayed-abd-senatosuna-secilen-ilk-musluman-senator-oldu-962189.html",
+   "zaman": "2026-11-04T10:19:00+03:00",
+   "kelimeler": [
+    "abd",
+    "abdul",
+    "aday",
+    "demok",
+    "elsay",
+    "ilk",
+    "muslu",
+    "secil",
+    "senat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "070b5cc9003d": {
+   "id": "070b5cc9003d",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan Güney Kore temaslarını tamamladı",
+   "ozet": "Cumhurbaşkanı Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine gittiği Seul'deki resmi temaslarını tamamlayarak Türkiye'ye hareket etti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-kore-temaslarini-tamamladi-962193.html",
+   "zaman": "2026-11-04T10:37:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "guney",
+    "kore",
+    "tamam",
+    "temas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a631614639de"
+  },
+  "a384da78fd01": {
+   "id": "a384da78fd01",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi",
+   "ozet": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından Barack Obama, Bernie Sanders gibi siyasetin önemli isimlerinden açıklamalar geldi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html",
+   "zaman": "2026-11-04T10:41:00+03:00",
+   "kelimeler": [
+    "abd",
+    "acikl",
+    "ara",
+    "ardin",
+    "geldi",
+    "ilk",
+    "isiml",
+    "oneml",
+    "secim",
+    "siyas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "941e606e6a24"
+  },
+  "4a47b8817fed": {
+   "id": "4a47b8817fed",
+   "kaynak": "AA",
+   "baslik": "2026 ABD ara seçimlerinde sandıktan zaferle çıkan Sayed, ABD'nin ilk Müslüman senatörü oldu",
+   "ozet": "ABD'deki ara seçimlerde Michigan eyaletinde, Mısır asıllı Müslüman aday Abdul el-Sayed, Cumhuriyetçi rakibi Mike Rogers'a üstünlük sağlayarak ABD Senatosuna seçilen ilk Müslüman oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/2026-abd-ara-secimlerinde-sandiktan-zaferle-cikan-sayed-abdnin-ilk-musluman-senatoru-oldu/4111085",
+   "zaman": "2026-11-04T10:43:30+03:00",
+   "kelimeler": [
+    "2026",
+    "abd",
+    "ara",
+    "cikan",
+    "ilk",
+    "muslu",
+    "nin",
+    "sandi",
+    "sayed",
+    "secim",
+    "senat",
+    "zafer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0913b8a01f3e"
+  },
+  "4b68fbb02b9f": {
+   "id": "4b68fbb02b9f",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan Seul'de Yunus Emre Enstitüsünü açtı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Yunus Emre Enstitüsünün YEE Seul'deki kültür merkezinin resmi açılışını gerçekleştirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-seulde-yunus-emre-enstitusunu-acti-962196.html",
+   "zaman": "2026-11-04T10:44:00+03:00",
+   "kelimeler": [
+    "acti",
+    "emine",
+    "emre",
+    "ensti",
+    "erdog",
+    "seul",
+    "yunus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "16c4ba698efa"
+  },
+  "cda850513ba7": {
+   "id": "cda850513ba7",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiyenin nüfusu 86 milyon 502 bin oldu",
+   "ozet": "Türkiyenin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu. Nüfusun yüzde 50,02'sini erkekler, yüzde 49,98'ini ise kadınlar oluşturdu. En kalabalık yaş grubu 6 milyon 668 bin 482 kişiyle 2529 yaş grubu oldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/turkiyenin-nufusu-86-milyon-502-bin-oldu-962195.html",
+   "zaman": "2026-11-04T10:44:00+03:00",
+   "kelimeler": [
+    "502",
+    "86",
+    "bin",
+    "milyo",
+    "nufus",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd54157a21b8"
+  },
+  "f24eea013a77": {
+   "id": "f24eea013a77",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Güney Kore ziyaretini tamamladı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle gerçekleştirdiği resmi ziyaretin ardından başkent Seul'den İstanbul'a hareket etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-guney-kore-ziyaretini-tamamladi-43365417",
+   "zaman": "2026-11-04T10:49:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "guney",
+    "kore",
+    "tamam",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a631614639de"
+  },
+  "a52bb56cfa2a": {
+   "id": "a52bb56cfa2a",
+   "kaynak": "NTV",
+   "baslik": "Kasım ara tatili ne zaman başlayacak? 2026-2027 ilk ara tatil başlangıç tarihi",
+   "ozet": "İlkokul, ortaokul ve liselerde eğitim gören milyonlarca öğrenci, eylül ayında başlayan yoğun ders maratonunun ardından ilk dinlenme molası olan kasım ara tatilini bekliyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kasim-ara-tatili-ne-zaman-baslayacak-2026-2027-ilk-ara-tatil-baslangic-tarihi-1749337",
+   "zaman": "2026-11-04T10:49:05+03:00",
+   "kelimeler": [
+    "2026",
+    "2027",
+    "ara",
+    "basla",
+    "ilk",
+    "kasim",
+    "tarih",
+    "tatil",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e14b03971f5c": {
+   "id": "e14b03971f5c",
+   "kaynak": "Sözcü",
+   "baslik": "Türkiye'nin nüfusu açıklandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/turkiye-nin-nufusu-aciklandi-p375892",
+   "zaman": "2026-11-04T10:49:08+03:00",
+   "kelimeler": [
+    "acikl",
+    "nin",
+    "nufus",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd54157a21b8"
   }
  },
  "kayit": [
+  "04.11 11:01:26  2 yeni haber",
   "04.11 10:48:42  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bakan Çiftçi, deprem konutları ve iş yerlerindeki peşin ödeme indiriml",
   "04.11 10:46:04  12 yeni haber",
   "04.11 10:31:12  7 yeni haber",
@@ -29065,8 +29176,7 @@
   "02.11 10:31:10  7 yeni haber",
   "02.11 10:16:15  8 yeni haber",
   "02.11 10:01:24  5 yeni haber",
-  "02.11 09:45:56  9 yeni haber",
-  "02.11 09:31:09  5 yeni haber"
+  "02.11 09:45:56  9 yeni haber"
  ],
  "otomatik": false
 }
