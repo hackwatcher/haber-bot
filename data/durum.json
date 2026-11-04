@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "a4dfbe40c933": {
-   "id": "a4dfbe40c933",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Florida'da özel uçak yerleşim bölgesine düştü: 9 kişi hayatını kaybetti",
-   "ozet": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo",
-   "zaman": "2026-11-02T01:18:53+03:00",
-   "kelimeler": [
-    "bolge",
-    "dustu",
-    "flori",
-    "hayat",
-    "kaybe",
-    "kisi",
-    "ozel",
-    "ucak",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "fcfe69e03b1f": {
    "id": "fcfe69e03b1f",
    "kaynak": "XHABER",
@@ -31125,9 +31101,30 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "fa0a7f79933f"
+  },
+  "6d044706f7e3": {
+   "id": "6d044706f7e3",
+   "kaynak": "TRT Haber",
+   "baslik": "Hatay'da sağanak: Bazı ev ve iş yerlerini su bastı",
+   "ozet": "Hatay'ın Dörtyol ilçesinde etkili olan sağanak nedeniyle bazı ev ve iş yerlerini su bastı, tarım arazileri su altında kaldı, park halindeki bazı araçlar sel sularına kapılarak sürüklendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/hatayda-saganak-bazi-ev-ve-is-yerlerini-su-basti-962274.html",
+   "zaman": "2026-11-05T01:17:00+03:00",
+   "kelimeler": [
+    "basti",
+    "bazi",
+    "ev",
+    "hatay",
+    "is",
+    "sagan",
+    "su",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 01:31:17  1 yeni haber",
   "05.11 01:16:35  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Atakan Özyurt ve Selen Özyurt çifti, ikinci çocukları Latife'nin suda ",
   "05.11 01:02:15  2 yeni haber",
   "05.11 00:46:07  2 yeni haber",
@@ -31326,8 +31323,7 @@
   "03.11 00:31:12  2 yeni haber",
   "03.11 00:16:33  5 yeni haber",
   "03.11 00:02:41  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Vestel’in sahibi Ahmet Nazif Zorlu hayatını kaybetti.",
-  "03.11 00:01:25  3 yeni haber",
-  "02.11 23:47:14  1 yeni haber"
+  "03.11 00:01:25  3 yeni haber"
  ],
  "otomatik": false
 }
