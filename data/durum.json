@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "88d64d273cd2": {
-   "id": "88d64d273cd2",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'de maç sonrası stadyum yakınındaki silahlı saldırıda bir kişi öldü, 8 kişi yaralandı",
-   "ozet": "ABD'nin Alabama eyaletinde futbol maçı sonrası stadyum yakınındaki bir caddede yaşanan silahlı saldırıda bir kişi hayatını kaybetti, 8 kişi ise yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
-   "zaman": "2026-11-01T16:40:00+03:00",
-   "kelimeler": [
-    "abd",
-    "kisi",
-    "mac",
-    "saldi",
-    "silah",
-    "sonra",
-    "stady",
-    "yakin",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "387dd6ce4431"
-  },
   "5595e345f9a5": {
    "id": "5595e345f9a5",
    "kaynak": "AA",
@@ -12151,7 +12129,10 @@
     "yurt"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6d566e137f97": {
    "id": "6d566e137f97",
@@ -29897,9 +29878,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "63f5d0233b53": {
+   "id": "63f5d0233b53",
+   "kaynak": "AA",
+   "baslik": "ABD seçimlerinin resmi olmayan sonuçları İran'da farklı yorumlandı: Trump endişesi ve Demokratlara umut",
+   "ozet": "ABD ara seçimlerinde Demokratların resmi olmayan sonuçlara göre Senato ve Temsilciler Meclisinde çoğunluğu elde etmesi, Washington'ın İran politikasında değişiklik olup olmayacağına ilişkin tartışmaları beraberinde getirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-secimlerinin-resmi-olmayan-sonuclari-iranda-farkli-yorumlandi-trump-endisesi-ve-demokratlara-umut-/4111551",
+   "zaman": "2026-11-04T16:02:24+03:00",
+   "kelimeler": [
+    "abd",
+    "demok",
+    "endis",
+    "farkl",
+    "iran",
+    "olmay",
+    "resmi",
+    "secim",
+    "sonuc",
+    "trump",
+    "umut",
+    "yorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cbee6634bca2": {
+   "id": "cbee6634bca2",
+   "kaynak": "TRT Haber",
+   "baslik": "Meteoroloji'den kuvvetli yağış ve kar uyarısı",
+   "ozet": "Güneydoğu Anadolunun doğusunda bu akşamdan, Orta ve Doğu Karadeniz kıyılarında ise yarın sabahtan itibaren kuvvetli yağış; bölgenin yüksek kesimlerinde ise yoğun kar bekleniyor.",
+   "link": "https://www.trthaber.com/haber/gundem/meteorolojiden-kuvvetli-yagis-ve-kar-uyarisi-962242.html",
+   "zaman": "2026-11-04T16:23:00+03:00",
+   "kelimeler": [
+    "den",
+    "kar",
+    "kuvve",
+    "meteo",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "593f89a6425f"
+  },
+  "6b2ba4bc273e": {
+   "id": "6b2ba4bc273e",
+   "kaynak": "AA",
+   "baslik": "Ziraat Türkiye Kupası'nda dördüncü eleme turu kuraları çekildi",
+   "ozet": "Futbolda Ziraat Türkiye Kupası'nın 4. eleme turu kura çekimi gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-dorduncu-eleme-turu-kuralari-cekildi/4111591",
+   "zaman": "2026-11-04T16:32:41+03:00",
+   "kelimeler": [
+    "cekil",
+    "dordu",
+    "eleme",
+    "kupas",
+    "kural",
+    "nda",
+    "turki",
+    "turu",
+    "ziraa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "04.11 16:46:06  2 yeni haber",
   "04.11 16:31:14  4 yeni haber",
   "04.11 16:16:04  3 yeni haber",
   "04.11 16:01:25  4 yeni haber",
@@ -30098,8 +30144,7 @@
   "02.11 16:31:11  4 yeni haber",
   "02.11 16:16:18  2 yeni haber",
   "02.11 16:01:31  5 yeni haber",
-  "02.11 15:46:16  4 yeni haber",
-  "02.11 15:31:26  6 yeni haber"
+  "02.11 15:46:16  4 yeni haber"
  ],
  "otomatik": false
 }
