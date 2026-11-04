@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "149dddc07d19": {
-   "id": "149dddc07d19",
-   "kaynak": "NTV",
-   "baslik": "Fon soruşturması. Dünya gazetesinin ortaklarından Umut Güner gözaltına alındı",
-   "ozet": "",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-ortaklarindan-umut-guner-gozaltina-alindi-1748880",
-   "zaman": "2026-11-01T15:50:45+03:00",
-   "kelimeler": [
-    "alind",
-    "dunya",
-    "fon",
-    "gazet",
-    "gozal",
-    "guner",
-    "ortak",
-    "sorus",
-    "umut"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7c899e409f20"
-  },
-  "c78293bcd907": {
-   "id": "c78293bcd907",
-   "kaynak": "Hürriyet",
-   "baslik": "Anadolu Otoyolu'nda zincirleme kaza",
-   "ozet": "Düzce'de TIR, hafif ticari araç ve otomobilin karıştığı zincirleme kazada 3 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/anadolu-otoyolunda-zincirleme-kaza-43362529",
-   "zaman": "2026-11-01T15:52:56+03:00",
-   "kelimeler": [
-    "anado",
-    "kaza",
-    "nda",
-    "otoyo",
-    "zinci"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "79bee94f487a": {
-   "id": "79bee94f487a",
-   "kaynak": "AA",
-   "baslik": "Anadolu Ajansı Spor Kulübü, İstanbul Maratonu'nda yer aldı",
-   "ozet": "Anadolu Ajansı Genel Yayın Yönetmeni Yusuf Özhan, \"Uluslararası turizm açısından, İstanbul'un tanıtımı açısından, Türkiye'mizin tanıtımı açısından İstanbul Maratonu, önemli bir değer.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-ajansi-spor-kulubu-istanbul-maratonunda-yer-aldi/4108011",
-   "zaman": "2026-11-01T15:53:42+03:00",
-   "kelimeler": [
-    "ajans",
-    "aldi",
-    "anado",
-    "istan",
-    "kulub",
-    "marat",
-    "nda",
-    "spor",
-    "yer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "338c1f58f436": {
    "id": "338c1f58f436",
    "kaynak": "TRT Haber",
@@ -29074,7 +29014,8 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5430315c8204": {
    "id": "5430315c8204",
@@ -29758,9 +29699,114 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0c6f8c7496fc": {
+   "id": "0c6f8c7496fc",
+   "kaynak": "AA",
+   "baslik": "Samsunspor, Süper Lig'de çıkış peşinde",
+   "ozet": "Samsunspor Kulübü Basın Sözcüsü Suat Çakır, Trendyol Süper Lig'in 11. haftasında TÜMOSAN Konyaspor ile yapacakları maçı kazanarak çıkışa geçmek istediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-cikis-pesinde/4111431",
+   "zaman": "2026-11-04T14:22:21+03:00",
+   "kelimeler": [
+    "cikis",
+    "lig",
+    "pesin",
+    "samsu",
+    "super"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f99aad8a088b": {
+   "id": "f99aad8a088b",
+   "kaynak": "TRT Haber",
+   "baslik": "Yapay zeka destekli yerli uydu GEZGİN1 için hedef 2028",
+   "ozet": "Türkiye, milli uydu teknolojileri alanındaki çalışmalarına GEZGİN1 ile devam ediyor. 75 kilogramın altında olması hedeflenen yerli mikro uydu, yüksek çözünürlüklü görüntüleme ve yapay zeka destekli analiz yetenekleriyle 2028'in son çeyreğinde uzaya gönderilecek.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/yapay-zeka-destekli-yerli-uydu-gezgin-1-icin-hedef-2028-962230.html",
+   "zaman": "2026-11-04T14:31:00+03:00",
+   "kelimeler": [
+    "2028",
+    "deste",
+    "gezgi",
+    "hedef",
+    "uydu",
+    "yapay",
+    "yerli",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6613e46c4c6e": {
+   "id": "6613e46c4c6e",
+   "kaynak": "TRT Haber",
+   "baslik": "TürkiyeGüney Kore stratejik iş birlikleri uluslararası basında",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 8 yıl aradan sonra Güney Kore'ye 3 günlük resmi ziyaret gerçekleştirdi. Ziyaret ve yeni iş birlikleri uluslararası basına da yansıdı.Haberlerde, Türkiye ve Güney Kore'nin stratejik alanlarda iş birliklerini derinleştirdikleri vurgusu öne çıktı.",
+   "link": "https://www.trthaber.com/haber/dunya/turkiye-guney-kore-stratejik-is-birlikleri-uluslararasi-basinda-962238.html",
+   "zaman": "2026-11-04T15:50:00+03:00",
+   "kelimeler": [
+    "basin",
+    "birli",
+    "is",
+    "kore",
+    "strat",
+    "turki",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "907d85f72019": {
+   "id": "907d85f72019",
+   "kaynak": "AA",
+   "baslik": "Türk Telekomlu basketbolcu Tim Schneider'in sağ el bileğinde kırık tespit edildi",
+   "ozet": "Türk Telekom Basketbol Takımı'nın Alman oyuncusu Tim Schneider'in sağ el bileğinde kırık tespit edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/turk-telekomlu-basketbolcu-tim-schneiderin-sag-el-bileginde-kirik-tespit-edildi/4111541",
+   "zaman": "2026-11-04T15:52:40+03:00",
+   "kelimeler": [
+    "baske",
+    "bileg",
+    "edild",
+    "el",
+    "in",
+    "kirik",
+    "sag",
+    "schne",
+    "telek",
+    "tespi",
+    "tim",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1333d20525dc": {
+   "id": "1333d20525dc",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'u kara bulutlar kapladı, gündüz geceye döndü. Uyarıların ardından yollar göle döndü",
+   "ozet": "Türkiye'de Sibirya'dan gelen yağışlı ve soğuk sistem etkili oluyor. Megakentte saat 15.00'ten itibaren yağış şiddetini arttırdı ve yollar göle döndü. Sağanağın saat 22.00'ye kadar sürmesi bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-kara-bulutlar-kapladi-gunduz-geceye-dondu-uyarilarin-ardindan-yollar-gole-dondu-1749375",
+   "zaman": "2026-11-04T15:57:34+03:00",
+   "kelimeler": [
+    "ardin",
+    "bulut",
+    "dondu",
+    "gecey",
+    "gole",
+    "gundu",
+    "istan",
+    "kapla",
+    "kara",
+    "uyari",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "10f48c07cb7c"
   }
  },
  "kayit": [
+  "04.11 16:01:25  4 yeni haber",
   "04.11 15:46:28  6 yeni haber",
   "04.11 15:33:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Duraktaki metrobüsler çarpıştı: Yaralılar var",
   "04.11 15:31:38  6 yeni haber",
@@ -29959,8 +30005,7 @@
   "02.11 15:46:16  4 yeni haber",
   "02.11 15:31:26  6 yeni haber",
   "02.11 15:16:15  6 yeni haber",
-  "02.11 15:03:21  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu",
-  "02.11 15:01:21  5 yeni haber"
+  "02.11 15:03:21  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu"
  ],
  "otomatik": false
 }
