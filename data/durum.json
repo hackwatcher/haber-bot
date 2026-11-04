@@ -23276,7 +23276,10 @@
     "zekan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "e856ef7e07f8": {
    "id": "e856ef7e07f8",
@@ -30537,9 +30540,111 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f0084a581c4b"
+  },
+  "e3a4901fd986": {
+   "id": "e3a4901fd986",
+   "kaynak": "Hürriyet",
+   "baslik": "CHP Sözcüsü Sarı, Türk Devletleri Teşkilatı’nı her zaman destekliyoruz",
+   "ozet": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, Türk Devletleri Teşkilatı'na ilişkin, \"Soydaşlarımızla kardeş ülkelerimizle tarihi ve kültürel bağların, iktisadi ve enerji bağlarıyla daha da birbirine bağlanmasının derinleşmesinin önemli olduğunu söylüyoruz, bunu…",
+   "link": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-sari-turk-devletleri-teskilatini-her-zaman-destekliyoruz-43366159",
+   "zaman": "2026-11-04T18:27:36+03:00",
+   "kelimeler": [
+    "chp",
+    "deste",
+    "devle",
+    "her",
+    "ni",
+    "sari",
+    "sozcu",
+    "teski",
+    "turk",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "94f75d645b3e": {
+   "id": "94f75d645b3e",
+   "kaynak": "AA",
+   "baslik": "Bağcılar'da asayiş uygulamalarında gözaltına alınan 14 zanlı tutuklandı",
+   "ozet": "Bağcılar'da, 1-30 Ekim'de yapılan asayiş uygulamalarında gözaltına alınan 28 şüpheliden 14'ü adli makamlarca tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bagcilarda-asayis-uygulamalarinda-gozaltina-alinan-14-zanli-tutuklandi/4111751",
+   "zaman": "2026-11-04T18:30:04+03:00",
+   "kelimeler": [
+    "14",
+    "alina",
+    "asayi",
+    "bagci",
+    "gozal",
+    "tutuk",
+    "uygul",
+    "zanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8d254c222f4c": {
+   "id": "8d254c222f4c",
+   "kaynak": "Hürriyet",
+   "baslik": "ABD ara seçimleri sonrasında Borsa İstanbul'da yükseliş",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 4,12 değer kazanarak 11.478,13 puandan tamamladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/abd-ara-secimleri-sonrasinda-borsada-yukselis-43366168",
+   "zaman": "2026-11-04T18:35:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "borsa",
+    "istan",
+    "secim",
+    "sonra",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9c067679ea1f": {
+   "id": "9c067679ea1f",
+   "kaynak": "AA",
+   "baslik": "Borsa günü yükselişle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 4,12 değer kazanarak 11.478,13 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4111764",
+   "zaman": "2026-11-04T18:36:23+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0c95ff697b42": {
+   "id": "0c95ff697b42",
+   "kaynak": "AA",
+   "baslik": "Nobel ödüllü bilim insanı Hinton: Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi",
+   "ozet": "Nobel ödüllü bilim insanı Geoffrey Hinton, yapay zeka teknolojisinin kontrolsüz gelişiminin insanlık için ciddi tehditler oluşturabileceğini belirterek, \"Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nobel-odullu-bilim-insani-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi/4111771",
+   "zaman": "2026-11-04T18:40:36+03:00",
+   "kelimeler": [
+    "bilim",
+    "gelis",
+    "hic",
+    "hinto",
+    "insan",
+    "iyi",
+    "nobel",
+    "odull",
+    "olabi",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d29d4c1636db"
   }
  },
  "kayit": [
+  "04.11 18:46:02  4 yeni haber",
   "04.11 18:31:28  2 yeni haber",
   "04.11 18:01:39  5 yeni haber",
   "04.11 17:46:01  5 yeni haber",
@@ -30738,8 +30843,7 @@
   "02.11 18:16:02  1 yeni haber",
   "02.11 18:01:35  4 yeni haber",
   "02.11 17:46:04  5 yeni haber",
-  "02.11 17:31:27  6 yeni haber",
-  "02.11 17:16:14  2 yeni haber"
+  "02.11 17:31:27  6 yeni haber"
  ],
  "otomatik": false
 }
