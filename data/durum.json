@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "bd20620fabec": {
-   "id": "bd20620fabec",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Bir zamanlar gökyüzüne hükmeden, insan avlayan dev kartallar",
-   "ozet": "Dinozorların sonunu getiren asteroit çarptıktan sonra, dev kuşlar onlarca milyon yıl boyunca en üst düzey yırtıcılar haline geldi ve insanlar da avları arasındaydı.",
-   "link": "https://www.bbc.com/turkce/articles/c679p4qlr359o",
-   "zaman": "2026-11-02T03:18:01+03:00",
-   "kelimeler": [
-    "avlay",
-    "dev",
-    "gokyu",
-    "hukme",
-    "insan",
-    "karta",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "eab70bf0d1c9": {
    "id": "eab70bf0d1c9",
    "kaynak": "AA",
@@ -31072,9 +31053,27 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5b02cb47c86c"
+  },
+  "b02e44df9cea": {
+   "id": "b02e44df9cea",
+   "kaynak": "TRT Haber",
+   "baslik": "Manisa'da otomobil şarampole devrildi: 5 yaralı",
+   "ozet": "Manisa'nın Kırkağaç ilçesinde otomobilin şarampole devrildiği kazada 2'si çocuk 5 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/manisada-otomobil-sarampole-devrildi-5-yarali-962276.html",
+   "zaman": "2026-11-05T02:35:00+03:00",
+   "kelimeler": [
+    "devri",
+    "manis",
+    "otomo",
+    "saram",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "05.11 03:31:39  1 yeni haber",
   "05.11 02:01:31  1 yeni haber",
   "05.11 01:31:17  1 yeni haber",
   "05.11 01:16:35  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · Atakan Özyurt ve Selen Özyurt çifti, ikinci çocukları Latife'nin suda ",
@@ -31273,8 +31272,7 @@
   "03.11 00:46:01  1 yeni haber",
   "03.11 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi ",
   "03.11 00:31:12  2 yeni haber",
-  "03.11 00:16:33  5 yeni haber",
-  "03.11 00:02:41  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Vestel’in sahibi Ahmet Nazif Zorlu hayatını kaybetti."
+  "03.11 00:16:33  5 yeni haber"
  ],
  "otomatik": false
 }
