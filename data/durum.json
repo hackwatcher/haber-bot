@@ -1,88 +1,5 @@
 {
  "haberler": {
-  "37bd25df3bb0": {
-   "id": "37bd25df3bb0",
-   "kaynak": "TRT Haber",
-   "baslik": "YEKA RES2026 yarışmalarından 75,5 milyon euroluk katkı",
-   "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, 1500 megavatlık rüzgar enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları YEKA RES2026 yarışmaları sonucunda KDV dahil toplam 75,5 milyon euro katkı bedeli ortaya çıktığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/yeka-res-2026-yarismalarindan-755-milyon-euroluk-katki-961971.html",
-   "zaman": "2026-11-02T15:32:00+03:00",
-   "kelimeler": [
-    "75",
-    "eurol",
-    "katki",
-    "milyo",
-    "res20",
-    "yaris",
-    "yeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7606f23c823b": {
-   "id": "7606f23c823b",
-   "kaynak": "AA",
-   "baslik": "Husilerin Lahic'te sağlık merkezine düzenlediği saldırıda en az 20 sivil öldü veya yaralandı",
-   "ozet": "Yemen'de İran destekli Husilerin ülkenin güneybatısındaki Lahic vilayetinde bir sağlık merkezine düzenlediği füze saldırısında en az 20 sivilin hayatını kaybettiği veya yaralandığını bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/husilerin-lahicte-saglik-merkezine-duzenledigi-saldirida-en-az-20-sivil-oldu-veya-yaralandi/4108793",
-   "zaman": "2026-11-02T15:42:11+03:00",
-   "kelimeler": [
-    "20",
-    "az",
-    "duzen",
-    "husil",
-    "lahic",
-    "merke",
-    "sagli",
-    "saldi",
-    "sivil",
-    "te",
-    "veya",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "26ee142c28e4": {
-   "id": "26ee142c28e4",
-   "kaynak": "AA",
-   "baslik": "Ümit Milli Futbol Takımı'nın Çekya maçı ücretsiz izlenebilecek",
-   "ozet": "Ümit Milli Futbol Takımı'nın 2027 UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri'nde 13 Kasım Cuma günü Rize'de Çekya ile yapacağı play-off turu ilk maçı ücretsiz izlenebilecek.",
-   "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-cekya-maci-ucretsiz-izlenebilecek/4108795",
-   "zaman": "2026-11-02T15:43:05+03:00",
-   "kelimeler": [
-    "cekya",
-    "futbo",
-    "izlen",
-    "maci",
-    "milli",
-    "nin",
-    "takim",
-    "ucret",
-    "umit"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "06a20096699f": {
-   "id": "06a20096699f",
-   "kaynak": "NTV",
-   "baslik": "Bakırköy'de yol verme kavgası: Önce küfrettiler, ardından saldırdılar",
-   "ozet": "Bakırköy'de sürücüler arasında yol verme meselesi yüzünden çıkan tartışma, arbedeye dönüştü. Aynı araçta bulunan anne, baba ve oğulları, tartıştıkları gence küfrederek saldırdı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-bakirkoyde-yol-verme-kavgasi-once-kufrettiler-ardindan-saldirdilar-1749063",
-   "zaman": "2026-11-02T15:45:06+03:00",
-   "kelimeler": [
-    "ardin",
-    "bakir",
-    "kavga",
-    "kufre",
-    "saldi",
-    "verme",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "52a90006e0f1": {
    "id": "52a90006e0f1",
    "kaynak": "Hürriyet",
@@ -30449,7 +30366,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "75670f68ab10": {
    "id": "75670f68ab10",
@@ -31553,7 +31473,10 @@
     "takim"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "6a5d9b1385d3": {
    "id": "6a5d9b1385d3",
@@ -32077,8 +32000,17 @@
     "puan",
     "yuzde"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-05T15:48:09.771893+03:00",
+   "ig_id": "18050778038821244",
+   "reels_id": "17933315706165693",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "4511221509090578",
+   "slayt": 4,
+   "kanca": "BEKLENTİYE PARALEL KARAR"
   },
   "bc3705dc845f": {
    "id": "bc3705dc845f",
@@ -32224,9 +32156,97 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9c70c6856a1f": {
+   "id": "9c70c6856a1f",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Husilerin Medinei Münevvere'ye balistik füze saldırısı önlendi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Husilerin Medinei Münevvere'ye gönderdiği bir balistik füzenin engellenerek düşürüldüğünü duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-husilerin-medine-i-munevvereye-balistik-fuze-saldirisi-onlendi-962334.html",
+   "zaman": "2026-11-05T13:19:00+03:00",
+   "kelimeler": [
+    "arap",
+    "balis",
+    "fuze",
+    "husil",
+    "koali",
+    "medin",
+    "munev",
+    "onlen",
+    "saldi",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f9cd916083e2": {
+   "id": "f9cd916083e2",
+   "kaynak": "AA",
+   "baslik": "Avrupa'da bomba ihbarları nedeniyle en az 16 uçak acil iniş yaptı",
+   "ozet": "Avrupa'da İtalya, Fransa, Belçika, Çekya ve Bulgaristan dahil birçok ülkede bomba ihbarları nedeniyle en az 16 yolcu uçağı acil iniş yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/avrupada-bomba-ihbarlari-nedeniyle-en-az-16-ucak-acil-inis-yapti/4112824",
+   "zaman": "2026-11-05T14:02:03+03:00",
+   "kelimeler": [
+    "16",
+    "avrup",
+    "az",
+    "bomba",
+    "ihbar",
+    "inis",
+    "neden",
+    "ucak",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "96a557cf84f2"
+  },
+  "357b0a4af077": {
+   "id": "357b0a4af077",
+   "kaynak": "AA",
+   "baslik": "Cristiano Ronaldo, Portekiz Milli Takımı'nı bıraktığını açıkladı",
+   "ozet": "Portekizli yıldız futbolcu Cristiano Ronaldo, milli takım kariyerini sona erdirdiğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/spor/cristiano-ronaldo-portekiz-milli-takimini-biraktigini-acikladi/4112902",
+   "zaman": "2026-11-05T14:47:21+03:00",
+   "kelimeler": [
+    "birak",
+    "crist",
+    "milli",
+    "ni",
+    "porte",
+    "ronal",
+    "takim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "906e5e1bb3f1"
+  },
+  "2eab99ffa828": {
+   "id": "2eab99ffa828",
+   "kaynak": "AA",
+   "baslik": "Çorum FK Teknik Direktörü Burak Yılmaz, Fenerbahçe karşısında galibiyet hedefliyor",
+   "ozet": "Arca Çorum FK, Trendyol Süper Lig'in 11. haftasında 8 Kasım Pazar günü sahasında Fenerbahçe ile oynayacağı karşılaşmanın hazırlıklarına devam etti.",
+   "link": "https://www.aa.com.tr/tr/spor/corum-fk-teknik-direktoru-burak-yilmaz-fenerbahce-karsisinda-galibiyet-hedefliyor/4112927",
+   "zaman": "2026-11-05T14:58:20+03:00",
+   "kelimeler": [
+    "burak",
+    "corum",
+    "direk",
+    "fener",
+    "fk",
+    "galib",
+    "hedef",
+    "karsi",
+    "tekni",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 15:48:09  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · İngiltere Merkez Bankası politika faizini 25 baz puan artırarak yüzde ",
+  "05.11 15:46:10  2 yeni haber",
   "05.11 15:31:17  3 yeni haber",
   "05.11 15:16:00  10 yeni haber",
   "05.11 15:01:33  2 yeni haber",
@@ -32424,9 +32444,7 @@
   "03.11 13:46:00  4 yeni haber",
   "03.11 13:33:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaldırımda bekleyen kadına tokat attı: \"Kolum çarptı\" savunması tutmad",
   "03.11 13:31:13  4 yeni haber",
-  "03.11 13:16:06  8 yeni haber",
-  "03.11 13:01:43  7 yeni haber",
-  "03.11 12:46:00  2 yeni haber"
+  "03.11 13:16:06  8 yeni haber"
  ],
  "otomatik": false
 }
