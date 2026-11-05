@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "24dfc0dfaa80": {
-   "id": "24dfc0dfaa80",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İş insanı Ahmet Nazif Zorlu 82 yaşında hayatını kaybetti",
-   "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, 82 yaşında tedavi gördüğü hastanede hayatını kaybetti.",
-   "link": "https://www.bbc.com/turkce/articles/ckjrwvl8p054o",
-   "zaman": "2026-11-03T00:53:32+03:00",
-   "kelimeler": [
-    "82",
-    "ahmet",
-    "hayat",
-    "insan",
-    "is",
-    "kaybe",
-    "nazif",
-    "yasin",
-    "zorlu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2f9c5f8c8405"
-  },
   "a17080e0eeeb": {
    "id": "a17080e0eeeb",
    "kaynak": "Hürriyet",
@@ -21174,7 +21152,10 @@
     "tekni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "d22b1392f9e7": {
    "id": "d22b1392f9e7",
@@ -32314,9 +32295,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "eed83504dc2a": {
+   "id": "eed83504dc2a",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş, UEFA Avrupa Ligi'nde Celtic'e mağlup oldu",
+   "ozet": "UEFA Avrupa Ligi'nin 4. haftasında Beşiktaş, Celtic'e 3-2 mağlup oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-celtice-maglup-oldu/4113470",
+   "zaman": "2026-11-05T23:53:07+03:00",
+   "kelimeler": [
+    "avrup",
+    "besik",
+    "celti",
+    "ligi",
+    "maglu",
+    "nde",
+    "uefa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5edac21b6a1c": {
+   "id": "5edac21b6a1c",
+   "kaynak": "XHABER",
+   "baslik": "MS | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic 3 - 2 Beşiktaş 🇹🇷",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30542",
+   "zaman": "2026-11-06T00:54:35+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Celtic 3 - 2 Beşiktaş 🇹🇷",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/l4P9nakv_-tPu4h6m2g_t3PhZjgtnbDhTxrR0RZqSys1YqkLZWfBo3b10EQtfA56BDYpGmzSKitfG6nNt0RuDx6BAcIUutsJuBc49WcbyysXiN7RuR2_8Ejsl56bexcgXBzzgGnRmy0-d1IC5MAWhFhwvGZFWysokMnv4kr9Rg6TaEAiOHpkN2crqEdCR8x6aIX7V3_7bqmAAXp3-7sGIc4LL7vuR5Sen-gBqkb3fXEuABprUjss5vaZm-qlYf1GCgTX-qbRjVvpQx5rVsnb6UNTb-Pvh44wBQse95QKO3LLTM2-ZYNjaQFWQPzKmwJUkB82kwWrx_cvKeQ0_sYlFg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "besik",
+    "celti",
+    "ms"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "37067b1511c3"
   }
  },
  "kayit": [
+  "06.11 01:01:33  1 yeni haber",
   "06.11 00:48:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fatma Betül Sayan Kaya, tutuklama talebiyle mahkemeye sev",
   "06.11 00:46:06  5 yeni haber",
   "06.11 00:16:07  1 yeni haber",
@@ -32515,8 +32536,7 @@
   "03.11 21:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 20:56:37  6 yeni haber",
   "03.11 20:31:28  1 yeni haber",
-  "03.11 20:16:19  6 yeni haber",
-  "03.11 20:01:44  1 yeni haber"
+  "03.11 20:16:19  6 yeni haber"
  ],
  "otomatik": false
 }
