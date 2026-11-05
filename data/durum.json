@@ -22651,7 +22651,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "ebacd1608209": {
@@ -32362,9 +32363,95 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "854e3d6faa57": {
+   "id": "854e3d6faa57",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da \"3. Medya ve Dijital Habercilik Akademisi\"nin lansmanı yapıldı",
+   "ozet": "Türkiye İlahiyatlılar Derneği (TÜİD), Albayrak Medya ve MİM Akademi işbirliğiyle \"3. Medya ve Dijital Habercilik Akademisi Lansman Programı\" düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-3-medya-ve-dijital-habercilik-akademisinin-lansmani-yapildi/4113366",
+   "zaman": "2026-11-05T21:30:34+03:00",
+   "kelimeler": [
+    "akade",
+    "dijit",
+    "haber",
+    "istan",
+    "lansm",
+    "medya",
+    "nin",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5d0b17178f54": {
+   "id": "5d0b17178f54",
+   "kaynak": "Hürriyet",
+   "baslik": "Bolu'da kar yağışı etkili oldu",
+   "ozet": "Bolu'nun Gerede ilçesinde kar yağışı etkili oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/boluda-kar-yagisi-etkili-oldu-43367628",
+   "zaman": "2026-11-05T22:12:30+03:00",
+   "kelimeler": [
+    "bolu",
+    "etkil",
+    "kar",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "911c65ec31e5"
+  },
+  "c769456f0510": {
+   "id": "c769456f0510",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 5 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1749572",
+   "zaman": "2026-11-05T22:21:56+03:00",
+   "kelimeler": [
+    "2026",
+    "belli",
+    "cekil",
+    "ekran",
+    "kasim",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "28999ae2285a": {
+   "id": "28999ae2285a",
+   "kaynak": "AA",
+   "baslik": "Bakırköy Cumhuriyet Başsavcılığından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmayla ilgili açıklama",
+   "ozet": "Bakırköy Cumhuriyet Başsavcılığı, eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmanın elde edilen tüm deliller ve Adli Tıp Kurumunun bilimsel değerlendirmeleri doğrultusunda titizlikle sürdürüldüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-cumhuriyet-bassavciligindan-arif-ahmet-denizolgunun-olumune-iliskin-sorusturmayla-ilgili-aciklama/4113409",
+   "zaman": "2026-11-05T22:23:58+03:00",
+   "kelimeler": [
+    "acikl",
+    "ahmet",
+    "arif",
+    "bakir",
+    "bassa",
+    "cumhu",
+    "deniz",
+    "ilgil",
+    "ilisk",
+    "olumu",
+    "sorus",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 22:31:21  3 yeni haber",
   "05.11 22:16:52  5 yeni haber",
   "05.11 22:16:52  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "05.11 22:02:40  5 yeni haber",
@@ -32563,8 +32650,7 @@
   "03.11 19:02:40  5 yeni haber",
   "03.11 18:46:07  4 yeni haber",
   "03.11 18:31:39  8 yeni haber",
-  "03.11 18:16:26  2 yeni haber",
-  "03.11 18:16:26  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "03.11 18:16:26  2 yeni haber"
  ],
  "otomatik": false
 }
