@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "1317e5d2cdbf": {
-   "id": "1317e5d2cdbf",
-   "kaynak": "TRT Haber",
-   "baslik": "Ukrayna ve Rusya heyetleri ABD ara buluculuğunda bir araya gelecek",
-   "ozet": "Rusya ve Ukrayna arasında yeni bir müzakere turu başlıyor. ABD Özel Temsilcisi Steve Witkoff, tarafların ABD ara buluculuğunda 1011 Kasım'da Abu Dabi'de bir araya geleceğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-ve-rusya-heyetleri-abd-ara-buluculugunda-bir-araya-gelecek-962006.html",
-   "zaman": "2026-11-03T02:42:00+03:00",
-   "kelimeler": [
-    "abd",
-    "ara",
-    "araya",
-    "buluc",
-    "gelec",
-    "heyet",
-    "rusya",
-    "ukray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "18f90e8d035e": {
    "id": "18f90e8d035e",
    "kaynak": "AA",
@@ -31123,7 +31103,10 @@
     "tum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "fd6cbfd1720d": {
    "id": "fd6cbfd1720d",
@@ -32311,9 +32294,54 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f0084a581c4b"
+  },
+  "e3698e80ff1e": {
+   "id": "e3698e80ff1e",
+   "kaynak": "AA",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Yapılacak artışın emeklilerimizin yaş ve prim ödeme gün sayısına göre farklılaşmasının doğru olacağını düşünüyoruz. Çünkü bu daha adaletli bir yaklaşım olur. Seyyanen olsa da bu husus gözetilecek.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak/4113546",
+   "zaman": "2026-11-06T02:13:08+03:00",
+   "kelimeler": [
+    "bakan",
+    "duzen",
+    "emekl",
+    "hazin",
+    "kapsa",
+    "maliy",
+    "simse",
+    "tum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0398fbb87553"
+  },
+  "c14da914a3d4": {
+   "id": "c14da914a3d4",
+   "kaynak": "AA",
+   "baslik": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
+   "ozet": "ABD Başkanı Donald Trump, Vietnam Savaşı'nda binlerce ABD askerinin kaybedildiğini hatırlatarak, kendi yönetiminin ise sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-sadece-18-kayipla-hurmuz-bogazinda-kontrolu-saglayabildigini-one-surdu/4113552",
+   "zaman": "2026-11-06T02:33:12+03:00",
+   "kelimeler": [
+    "18",
+    "bogaz",
+    "hurmu",
+    "kayip",
+    "kontr",
+    "nda",
+    "one",
+    "sadec",
+    "sagla",
+    "surdu",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 02:46:07  1 yeni haber",
   "06.11 01:48:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Kahve Dünyası, Efsane Kasım'a özel 1 alana 1 bedava kampanyası başlatt",
   "06.11 01:46:09  2 yeni haber",
   "06.11 01:16:53  1 yeni haber",
@@ -32512,8 +32540,7 @@
   "03.11 22:16:27  1 yeni haber",
   "03.11 21:46:42  3 yeni haber",
   "03.11 21:31:47  2 yeni haber",
-  "03.11 21:20:16  8 yeni haber",
-  "03.11 21:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "03.11 21:20:16  8 yeni haber"
  ],
  "otomatik": false
 }
