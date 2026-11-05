@@ -377,27 +377,6 @@
    "oncelikli": true,
    "tekrar_of": "c3f1e4e2f488"
   },
-  "377cf8648fc2": {
-   "id": "377cf8648fc2",
-   "kaynak": "TRT Haber",
-   "baslik": "RusyaUkrayna savaşı Karadeniz'de 120 bin yunusun ölümüne yol açtı",
-   "ozet": "Uzmanlar, Rusya'nın 2022'de Ukrayna'yı işgalinden bu yana Karadeniz'de 120 binden fazla yunusun öldüğünü tahmin ediyor. Patlamalar, askeri sonar sistemleri ve deniz kirliliği, yunusların yön bulma ve avlanma yeteneklerini olumsuz etkiliyor.",
-   "link": "https://www.trthaber.com/haber/dunya/rusya-ukrayna-savasi-karadenizde-120-bin-yunusun-olumune-yol-acti-961910.html",
-   "zaman": "2026-11-02T06:28:00+03:00",
-   "kelimeler": [
-    "120",
-    "acti",
-    "bin",
-    "karad",
-    "olumu",
-    "rusya",
-    "savas",
-    "yol",
-    "yunus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6eb7f6222f2e": {
    "id": "6eb7f6222f2e",
    "kaynak": "TRT Haber",
@@ -30715,7 +30694,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ebc7f9f4a44b": {
    "id": "ebc7f9f4a44b",
@@ -31252,9 +31234,60 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e826cdc49d22"
+  },
+  "91f98f5c5bc4": {
+   "id": "91f98f5c5bc4",
+   "kaynak": "TRT Haber",
+   "baslik": "Jerusalem Post: Son 10 günde gerçekleştirilen 4 seçimin sonuçları İsrail'in diplomatik konumunu zayıflatıyor",
+   "ozet": "İsrailin \"Jerusalem Post\" gazetesi, son 10 günde gerçekleştirilen 4 seçimin sonuçlarının İsrail'in diplomatik konumunu zayıflattığını, ülke için hayati önemdeki ittifakları tehdit ettiğini ve siyasi geleceğine ilişkin soru işaretleri yarattığını yazdı.",
+   "link": "https://www.trthaber.com/haber/dunya/jerusalem-post-son-10-gunde-gerceklestirilen-4-secimin-sonuclari-israilin-diplomatik-konumunu-zayiflatiyor-962279.html",
+   "zaman": "2026-11-05T06:12:00+03:00",
+   "kelimeler": [
+    "10",
+    "diplo",
+    "gerce",
+    "gunde",
+    "in",
+    "israi",
+    "jerus",
+    "konum",
+    "post",
+    "secim",
+    "sonuc",
+    "zayif"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "13102383393f": {
+   "id": "13102383393f",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail devlet televizyonu: ABD, envanterindeki iki casus uçağından birini Orta Doğu'ya gönderdi",
+   "ozet": "ABD Hava Kuvvetleri envanterinde yalnızca iki adet bulunan stratejik casus uçaktan birinin son 24 saat içinde Orta Doğu'ya doğru yola çıktığı bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi-962280.html",
+   "zaman": "2026-11-05T06:15:00+03:00",
+   "kelimeler": [
+    "abd",
+    "birin",
+    "casus",
+    "devle",
+    "dogu",
+    "envan",
+    "gonde",
+    "iki",
+    "israi",
+    "orta",
+    "telev",
+    "ucagi",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "08207549e1a8"
   }
  },
  "kayit": [
+  "05.11 06:31:22  1 yeni haber",
   "05.11 05:16:05  1 yeni haber",
   "05.11 03:46:09  2 yeni haber",
   "05.11 03:31:39  1 yeni haber",
@@ -31453,8 +31486,7 @@
   "03.11 02:01:23  2 yeni haber",
   "03.11 01:03:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
   "03.11 01:01:17  2 yeni haber",
-  "03.11 00:46:01  1 yeni haber",
-  "03.11 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi "
+  "03.11 00:46:01  1 yeni haber"
  ],
  "otomatik": false
 }
