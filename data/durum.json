@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "0e62736dc179": {
-   "id": "0e62736dc179",
-   "kaynak": "BBC Türkçe",
-   "baslik": "DEM Parti'nin belediye meclis üyeliği kararı: İBB'de dengeler değişecek mi?",
-   "ozet": "DEM Parti yönetimi, 2024 yerel seçimlerinde \"kent uzlaşısı\" kapsamında CHP listelerinden seçilen belediye meclis üyelerinin bundan böyle DEM Parti çatısı altında görev yapacağını açıkladı.",
-   "link": "https://www.bbc.com/turkce/articles/c6gm0k14138wo",
-   "zaman": "2026-11-02T20:20:10+03:00",
-   "kelimeler": [
-    "beled",
-    "degis",
-    "dem",
-    "denge",
-    "ibb",
-    "karar",
-    "mecli",
-    "nin",
-    "parti",
-    "uyeli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8b39028e320f": {
-   "id": "8b39028e320f",
-   "kaynak": "Hürriyet",
-   "baslik": "TBMM Dışişleri Komisyonu Başkanı Oktay: Avrupa, Türkiye’yi stratejik bir ortağı olarak görmelidir",
-   "ozet": "Türkiye Büyük Millet Meclisi (TBMM) Dışişleri Komisyonu Başkanı ve AK Parti Ankara Milletvekili Fuat Oktay, \"Avrupa, Türkiye’yi bir tampon bölge olarak değil hayati, stratejik bir Avrupa ortağı olarak görmelidir.\" çağrısında bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/tbmm-disisleri-komisyonu-baskani-oktay-avrupa-turkiyeyi-stratejik-bir-ortagi-olarak-gormelidir-43363711",
-   "zaman": "2026-11-02T20:20:42+03:00",
-   "kelimeler": [
-    "avrup",
-    "baska",
-    "disis",
-    "gorme",
-    "komis",
-    "oktay",
-    "ortag",
-    "strat",
-    "tbmm",
-    "turki",
-    "yi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8db74329b983": {
-   "id": "8db74329b983",
-   "kaynak": "NTV",
-   "baslik": "Akdeniz'de Muğla açıklarında 5.1 büyüklüğünde deprem",
-   "ozet": "Akdeniz'de Muğla'nın Datça ilçesine 253 kilometre uzaklıkta 5,1 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/akdenizde-mugla-aciklarinda-51-buyuklugunde-deprem-1749087",
-   "zaman": "2026-11-02T20:23:45+03:00",
-   "kelimeler": [
-    "acikl",
-    "akden",
-    "buyuk",
-    "depre",
-    "mugla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "55ff35338296"
-  },
-  "c98346c25795": {
-   "id": "c98346c25795",
-   "kaynak": "Hürriyet",
-   "baslik": "Kara para aklama soruşturmasında 4 şüpheli tutuklandı",
-   "ozet": "İSTANBUL'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturmada gözaltına alınan 11 şüpheli adliyeye sevk edildi. Şüphelilerden 4'ü tutuklanırken, 7 kişi adli kontrol şartıyla serbest bırakıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasinda-4-supheli-tutuklandi-43363715",
-   "zaman": "2026-11-02T20:26:10+03:00",
-   "kelimeler": [
-    "aklam",
-    "kara",
-    "para",
-    "sorus",
-    "suphe",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "467564badfa3"
-  },
   "992dcfd42e7f": {
    "id": "992dcfd42e7f",
    "kaynak": "XHABER",
@@ -32094,7 +32012,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "273c89d7d7c5": {
    "id": "273c89d7d7c5",
@@ -32213,9 +32134,128 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "273c89d7d7c5"
+  },
+  "623af99deeb5": {
+   "id": "623af99deeb5",
+   "kaynak": "AA",
+   "baslik": "Emniyet Genel Müdürlüğünden COP31 açıklaması: 25 bin 739 personel sahada aktif olarak görevlendirildi",
+   "ozet": "Emniyet Genel Müdürlüğü (EGM), 9-20 Kasım'da Antalya'da düzenlenecek COP31 kapsamında, toplam 25 bin 739 personelin sahada aktif olarak görevlendirildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/emniyet-genel-mudurlugunden-cop31-aciklamasi-25-bin-739-personel-sahada-aktif-olarak-gorevlendirildi/4113290",
+   "zaman": "2026-11-05T20:08:18+03:00",
+   "kelimeler": [
+    "25",
+    "739",
+    "acikl",
+    "aktif",
+    "bin",
+    "cop31",
+    "emniy",
+    "genel",
+    "gorev",
+    "mudur",
+    "perso",
+    "sahad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6a5faae8b165"
+  },
+  "1a9fde260549": {
+   "id": "1a9fde260549",
+   "kaynak": "AA",
+   "baslik": "Fitch, ABD'de veri merkezi projelerinin giderek artan zorluklarla karşı karşıya olduğuna işaret etti",
+   "ozet": "Fitch Ratings, ABD'deki yapay zeka veri merkezi projelerinin olası eyalet düzenlemeleri ve elektrik tedarikindeki gecikmeler nedeniyle giderek daha fazla zorlukla karşılaştığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abdde-veri-merkezi-projelerinin-giderek-artan-zorluklarla-karsi-karsiya-olduguna-isaret-etti/4113296",
+   "zaman": "2026-11-05T20:17:44+03:00",
+   "kelimeler": [
+    "abd",
+    "artan",
+    "etti",
+    "fitch",
+    "gider",
+    "isare",
+    "karsi",
+    "merke",
+    "oldug",
+    "proje",
+    "veri",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "50db06a9fb38": {
+   "id": "50db06a9fb38",
+   "kaynak": "TRT Haber",
+   "baslik": "Pizzaya ananas koymayan şef işinden oldu",
+   "ozet": "Avustralyanın Queensland eyaletindeki lüks bir İtalyan restoranında baş aşçılık yapan Davide Tamburella, pizzaya ananas koymayı reddettiği için işten çıkarıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/pizzaya-ananas-koymayan-sef-isinden-oldu-962365.html",
+   "zaman": "2026-11-05T20:18:00+03:00",
+   "kelimeler": [
+    "anana",
+    "isind",
+    "koyma",
+    "pizza",
+    "sef"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "405e9a6ade9c": {
+   "id": "405e9a6ade9c",
+   "kaynak": "AA",
+   "baslik": "İngiliz The Independent gazetesi: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
+   "ozet": "ABD Dışişleri Bakanı Marco Rubio'nun 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiliz-the-independent-gazetesi-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek/4113300",
+   "zaman": "2026-11-05T20:21:57+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "baska",
+    "disis",
+    "edece",
+    "gazet",
+    "indep",
+    "ingil",
+    "istif",
+    "rubio",
+    "the",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "3540cfadaf20": {
+   "id": "3540cfadaf20",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiliz The Independent gazetesi: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
+   "ozet": "ABD Dışişleri Bakanı Marco Rubio'nun, 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiliz-the-independent-gazetesi-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek-962366.html",
+   "zaman": "2026-11-05T20:22:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "baska",
+    "disis",
+    "edece",
+    "gazet",
+    "indep",
+    "ingil",
+    "istif",
+    "rubio",
+    "the",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "405e9a6ade9c"
   }
  },
  "kayit": [
+  "05.11 20:31:57  3 yeni haber",
   "05.11 20:03:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Sancaktepe Belediye Meclisinde 4 CHP'li üye partilerinden istifa etti",
   "05.11 20:01:31  5 yeni haber",
   "05.11 19:32:18  1 yeni haber",
@@ -32414,8 +32454,7 @@
   "03.11 17:20:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fenerbahçe'de teknik sorumlu Kuyt: İyi bir performansla reaksiyon göst",
   "03.11 17:16:25  6 yeni haber",
   "03.11 17:01:34  8 yeni haber",
-  "03.11 16:46:02  5 yeni haber",
-  "03.11 16:31:21  4 yeni haber"
+  "03.11 16:46:02  5 yeni haber"
  ],
  "otomatik": false
 }
