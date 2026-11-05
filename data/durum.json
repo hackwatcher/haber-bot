@@ -31217,8 +31217,17 @@
     "ye",
     "yeni"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-05T08:03:41.842232+03:00",
+   "ig_id": "17910231921327130",
+   "reels_id": "17994829073855728",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1320155150182989",
+   "slayt": 6,
+   "kanca": "İSTANBUL İÇİN İŞBİRLİĞİ ÇAĞRISI"
   },
   "b56be4a96b23": {
    "id": "b56be4a96b23",
@@ -31554,9 +31563,27 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "89044b348e96": {
+   "id": "89044b348e96",
+   "kaynak": "NTV",
+   "baslik": "Afyonkarahisar'da 4.1 büyüklüğünde deprem",
+   "ozet": "Afyonkarahisar'ın Dinar ilçesinde 4.1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-1749432",
+   "zaman": "2026-11-05T07:59:12+03:00",
+   "kelimeler": [
+    "afyon",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a51b359a6c07"
   }
  },
  "kayit": [
+  "05.11 08:03:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · CHP’den YENİ Parti’ye İstanbul çağrısı",
+  "05.11 08:01:47  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "05.11 07:31:19  1 yeni haber",
   "05.11 07:16:51  14 yeni haber",
   "05.11 07:03:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Fenerbahçe Liverpool'u ezdi geçti!",
@@ -31754,9 +31781,7 @@
   "03.11 06:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 04:46:54  1 yeni haber",
   "03.11 04:01:46  1 yeni haber",
-  "03.11 03:46:07  1 yeni haber",
-  "03.11 03:16:09  1 yeni haber",
-  "03.11 03:01:46  2 yeni haber"
+  "03.11 03:46:07  1 yeni haber"
  ],
  "otomatik": false
 }
