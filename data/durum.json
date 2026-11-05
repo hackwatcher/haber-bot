@@ -1,101 +1,5 @@
 {
  "haberler": {
-  "abc1f148f32d": {
-   "id": "abc1f148f32d",
-   "kaynak": "AA",
-   "baslik": "Borsa günü yükselişle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968",
-   "zaman": "2026-11-02T18:20:12+03:00",
-   "kelimeler": [
-    "borsa",
-    "gunu",
-    "tamam",
-    "yukse"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ],
-   "paylasildi": "2026-11-02T19:34:22.883153+03:00",
-   "ig_id": "18137054530671646",
-   "reels_id": "18098686457422396",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1734419660995417",
-   "slayt": 1,
-   "kanca": "Ekonomi"
-  },
-  "96544d6088a0": {
-   "id": "96544d6088a0",
-   "kaynak": "Hürriyet",
-   "baslik": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/abd-iran-anlasmasina-yonelik-adimlar-piyasalari-olumlu-etkiledi-borsa-gunu-yukselisle-tamamladi-43363655",
-   "zaman": "2026-11-02T18:22:45+03:00",
-   "kelimeler": [
-    "abd",
-    "adiml",
-    "anlas",
-    "borsa",
-    "etkil",
-    "gunu",
-    "iran",
-    "oluml",
-    "piyas",
-    "tamam",
-    "yonel",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "abc1f148f32d"
-  },
-  "d5a3650574d2": {
-   "id": "d5a3650574d2",
-   "kaynak": "NTV",
-   "baslik": "\"Mumya ceset\" cinayetinde 19 yıl sonra itiraf. Buzdolabına sığmayınca parçalamışlar",
-   "ozet": "Mersin'de 2007 yılında kamuoyunda \"Mumya ceset\" olarak bilinen cinayetle ilgili 19 yıl sonra yeni ayrıntılar ortaya çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-mumya-ceset-cinayetinde-19-yil-sonra-itiraf-buzdolabina-sigmayinca-parcalamislar-1749078",
-   "zaman": "2026-11-02T18:22:55+03:00",
-   "kelimeler": [
-    "19",
-    "buzdo",
-    "ceset",
-    "cinay",
-    "itira",
-    "mumya",
-    "parca",
-    "sigma",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f7b825d9dff6": {
-   "id": "f7b825d9dff6",
-   "kaynak": "Sözcü",
-   "baslik": "Fon soruşturmasında İnan Altınbaş'tan 680 milyon TL'lik iade!",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/fon-sorusturmasi-inan-altinbas-ne-kadar-iade-etti-p375316",
-   "zaman": "2026-11-02T18:23:01+03:00",
-   "kelimeler": [
-    "680",
-    "altin",
-    "fon",
-    "iade",
-    "inan",
-    "lik",
-    "milyo",
-    "sorus",
-    "tan",
-    "tl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "fa0f2a6ba8c2": {
    "id": "fa0f2a6ba8c2",
    "kaynak": "Hürriyet",
@@ -22226,7 +22130,8 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "0c95ff697b42": {
    "id": "0c95ff697b42",
@@ -32313,9 +32218,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "34c0904cc0f9": {
+   "id": "34c0904cc0f9",
+   "kaynak": "AA",
+   "baslik": "Afyonkarahisar'da silahla vurulan 7 kişi hayatını kaybetti, 1 kişi yaralandı",
+   "ozet": "Afyonkarahisar'ın İhsaniye ilçesinde silahla vurulan 7 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-7-kisi-hayatini-kaybetti-1-kisi-yaralandi/4113099",
+   "zaman": "2026-11-05T17:04:33+03:00",
+   "kelimeler": [
+    "afyon",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "silah",
+    "vurul",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ea240d2ee476": {
+   "id": "ea240d2ee476",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: Önümüzdeki ay ilk 1071 kiralık konutumuzu teslim edeceğiz",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"İnşallah önümüzdeki ay ilk 1071 kiralık konutumuzun anahtarlarını hak sahibi kardeşlerimize 10 bin liradan başlayan kiralarla teslim edeceğiz. 12 ilçemizde toplamda 15 bin konutu kiralayacağız.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-onumuzdeki-ay-ilk-1071-kiralik-konutumuzu-teslim-edecegiz-962360.html",
+   "zaman": "2026-11-05T18:14:00+03:00",
+   "kelimeler": [
+    "1071",
+    "ay",
+    "bakan",
+    "edece",
+    "ilk",
+    "kiral",
+    "konut",
+    "kurum",
+    "onumu",
+    "tesli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6581f58ae48a": {
+   "id": "6581f58ae48a",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,26 değer kaybederek 11.333,27 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197",
+   "zaman": "2026-11-05T18:28:17+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9c067679ea1f"
   }
  },
  "kayit": [
+  "05.11 18:31:22  2 yeni haber",
   "05.11 18:16:20  1 yeni haber",
   "05.11 18:01:57  4 yeni haber",
   "05.11 17:33:57  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · BoE Başkanı Bailey, faiz patikasına ilişkin Orta Doğu'daki gelişmelere",
@@ -32514,8 +32478,7 @@
   "03.11 16:01:25  8 yeni haber",
   "03.11 15:46:09  2 yeni haber",
   "03.11 15:31:14  1 yeni haber",
-  "03.11 15:19:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara'da motosikletin çarptığı 6 aylık hamile kadın bebeğini kaybetti",
-  "03.11 15:16:23  8 yeni haber"
+  "03.11 15:19:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara'da motosikletin çarptığı 6 aylık hamile kadın bebeğini kaybetti"
  ],
  "otomatik": false
 }
