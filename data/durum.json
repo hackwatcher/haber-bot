@@ -1,56 +1,5 @@
 {
  "haberler": {
-  "d4fa84368172": {
-   "id": "d4fa84368172",
-   "kaynak": "NTV",
-   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 2 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1749104",
-   "zaman": "2026-11-02T23:38:37+03:00",
-   "kelimeler": [
-    "2026",
-    "acikl",
-    "bilet",
-    "buldu",
-    "cilgi",
-    "dev",
-    "ekran",
-    "ikram",
-    "kasim",
-    "loto",
-    "mpi",
-    "sahib",
-    "sayis",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "engelli",
-   "oncelikli": false
-  },
-  "95759c16db45": {
-   "id": "95759c16db45",
-   "kaynak": "TRT Haber",
-   "baslik": "Ukrayna: Rusya'nın Komişuvaha köyüne düzenlediği saldırılarda 24 kişi hayatını kaybetti",
-   "ozet": "Rus ordusunun, Ukrayna'nın Zaporijya bölgesindeki Komişuvaha köyüne yönelik gerçekleştirdiği hava saldırılarında 24 kişi yaşamını yitirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-saldirilarda-24-kisi-hayatini-kaybetti-961997.html",
-   "zaman": "2026-11-02T23:38:00+03:00",
-   "kelimeler": [
-    "24",
-    "duzen",
-    "hayat",
-    "kaybe",
-    "kisi",
-    "komis",
-    "koyun",
-    "nin",
-    "rusya",
-    "saldi",
-    "ukray"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3c8b2a767357"
-  },
   "6c496c732d1f": {
    "id": "6c496c732d1f",
    "kaynak": "AA",
@@ -32303,7 +32252,10 @@
     "yildi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9fbd620e0604": {
    "id": "9fbd620e0604",
@@ -32321,7 +32273,10 @@
     "gordu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "21d663613f10": {
    "id": "21d663613f10",
@@ -32367,9 +32322,97 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "27bfd5df8c74"
+  },
+  "44cf02f0c324": {
+   "id": "44cf02f0c324",
+   "kaynak": "AA",
+   "baslik": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya'ya tutuklama talebi",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya tutuklama talebiyle hakimliğe sevk edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kayaya-tutuklama-talebi/4113433",
+   "zaman": "2026-11-05T22:48:50+03:00",
+   "kelimeler": [
+    "betul",
+    "fatma",
+    "fon",
+    "kapsa",
+    "kaya",
+    "sayan",
+    "sorus",
+    "taleb",
+    "tutuk",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f0084a581c4b"
+  },
+  "dfe309538bf1": {
+   "id": "dfe309538bf1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bitcoin 76 bin doların altını gördü",
+   "ozet": "Bitcoin'in fiyatı, ABD borsalarında teknoloji hisseleri öncülüğünde yaşanan sert satış dalgasının kripto para piyasasına da yayılmasıyla gün içinde 76 bin doların altını gördü.",
+   "link": "https://www.trthaber.com/haber/dunya/bitcoin-76-bin-dolarin-altini-gordu-962373.html",
+   "zaman": "2026-11-05T23:24:00+03:00",
+   "kelimeler": [
+    "76",
+    "altin",
+    "bin",
+    "bitco",
+    "dolar",
+    "gordu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9fbd620e0604"
+  },
+  "9b6a382ab2d4": {
+   "id": "9b6a382ab2d4",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail Cumhurbaşkanı: Trump'ın İsrail'e yardımı durdurması beni yıldırım çarpmışa çevirdi",
+   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, ABD Başkanı Donald Trump'ın İsrail'e yönelik 4 milyar dolarlık yardımın durdurulması kararından önceden haberdar olmadığını belirterek, \"Bu durum beni adeta yıldırım çarpmışa çevirdi.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/israil-cumhurbaskani-trumpin-israile-yardimi-durdurmasi-beni-yildirim-carpmisa-cevirdi-962374.html",
+   "zaman": "2026-11-05T23:26:00+03:00",
+   "kelimeler": [
+    "beni",
+    "carpm",
+    "cevir",
+    "cumhu",
+    "durdu",
+    "in",
+    "israi",
+    "trump",
+    "yardi",
+    "yildi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7b6110b07e48"
+  },
+  "695a22594afe": {
+   "id": "695a22594afe",
+   "kaynak": "Hürriyet",
+   "baslik": "Kütahya Şehir Hastanesi'nde 70 personel gıda zehirlenme şüphesiyle rahatsızlandı",
+   "ozet": "Kütahya Şehir Hastanesi'nde 70 personel, gıda zehirlenmesi şüphesiyle acil servise başvurdu. 60 personelin taburcu edildiği, 10 personelin ise tedavisinin sürdüğü öğrenildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kutahya-sehir-hastanesinde-70-personel-gida-zehirlenme-suphesiyle-rahatsizlandi-43367670",
+   "zaman": "2026-11-05T23:26:03+03:00",
+   "kelimeler": [
+    "70",
+    "gida",
+    "hasta",
+    "kutah",
+    "nde",
+    "perso",
+    "rahat",
+    "sehir",
+    "suphe",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 23:46:01  1 yeni haber",
   "05.11 23:31:26  6 yeni haber",
   "05.11 23:01:24  1 yeni haber",
   "05.11 22:46:00  3 yeni haber",
@@ -32568,8 +32611,7 @@
   "03.11 19:48:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 19 yıllık 'mumya ceset' cinayetinde yeni gelişme: 3 kişi tutuklandı",
   "03.11 19:46:11  2 yeni haber",
   "03.11 19:31:29  4 yeni haber",
-  "03.11 19:16:01  5 yeni haber",
-  "03.11 19:02:40  5 yeni haber"
+  "03.11 19:16:01  5 yeni haber"
  ],
  "otomatik": false
 }
