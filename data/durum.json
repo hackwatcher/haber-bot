@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "ca3adcd88556": {
-   "id": "ca3adcd88556",
-   "kaynak": "Hürriyet",
-   "baslik": "Vaka sayısı 10 bini, can kaybı 5 bini aştı! Kırmızı alarm verildi... Artık tüm ülkeler risk altında",
-   "ozet": "Kongo Demokratik Cumhuriyeti'nde patlak veren ve tarihin en büyük ikinci krizine dönüşen sinsi virüs salgını, coğrafi sınırları aşarak Avrupa ve diğer kıtalara sessizce sızmaya başladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/vaka-sayisi-10-bini-can-kaybi-5-bini-asti-kirmizi-alarm-verildi-artik-tum-ulkeler-risk-altinda-43360253",
-   "zaman": "2026-11-02T06:44:15+03:00",
-   "kelimeler": [
-    "10",
-    "alarm",
-    "altin",
-    "artik",
-    "asti",
-    "bini",
-    "can",
-    "kaybi",
-    "kirmi",
-    "risk",
-    "sayis",
-    "tum",
-    "ulkel",
-    "vaka",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "733fb7ac816f": {
-   "id": "733fb7ac816f",
-   "kaynak": "Hürriyet",
-   "baslik": "Dolandırıcıların yeni yöntemi: ‘El emeği’ tuzağı! Sosyal medyadaki yeni oyunun perde arkası | ‘Üç farklı tehlike söz konusu’",
-   "ozet": "Dolandırıcılar kimi zaman sahte yatırım vaatleriyle, kimi zaman gerçek dışı yardım kampanyalarıyla insanların karşısına çıkıyor. Şimdi ise sosyal medyanın başka bir alanı gündemde: el emeği. Peki, sosyal medyada karşımıza çıkan bu satışların ardında nasıl bir gerçek saklı?",
-   "link": "https://www.hurriyet.com.tr/gundem/dolandiricilarin-yeni-yontemi-el-emegi-tuzagi-sosyal-medyadaki-yeni-oyunun-perde-arkasi-uc-farkli-tehlike-soz-konusu-43356466",
-   "zaman": "2026-11-02T06:45:21+03:00",
-   "kelimeler": [
-    "arkas",
-    "dolan",
-    "el",
-    "emegi",
-    "farkl",
-    "konus",
-    "medya",
-    "oyunu",
-    "perde",
-    "sosya",
-    "soz",
-    "tehli",
-    "tuzag",
-    "uc",
-    "yeni",
-    "yonte"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "dc83c05f34a8": {
    "id": "dc83c05f34a8",
    "kaynak": "AA",
@@ -30847,7 +30792,10 @@
     "macta"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7ed94e7da2fa": {
    "id": "7ed94e7da2fa",
@@ -31284,9 +31232,72 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "08207549e1a8"
+  },
+  "d45cac6f4558": {
+   "id": "d45cac6f4558",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de seçim sonuçları: Demokratlar neler yapabilir, neler yapamaz?",
+   "ozet": "Seçim gecesi Demokratlar için adeta büyük bir heyecan kasırgasıydı; ancak ocak ayında gerçeklerle yüzleşilecek. Salı gecesi kutlama yapmak için haklı sebepleri vardı; tarihi bir zaferin ardından önümüzdeki yıl Kongre'nin her iki kanadının da kontrolünü ele geçirecekler.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-secim-sonuclari-demokratlar-neler-yapabilir-neler-yapamaz-962281.html",
+   "zaman": "2026-11-05T06:22:00+03:00",
+   "kelimeler": [
+    "abd",
+    "demok",
+    "neler",
+    "secim",
+    "sonuc",
+    "yapab",
+    "yapam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "13c0a8f6e917": {
+   "id": "13c0a8f6e917",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da kan bankası soğutucularına siber saldırı: Sıcaklık ayarlarıyla oynandı",
+   "ozet": "Fransa'da kan bankalarındaki soğutucu sistemlerin siber korsanlarca hedef alınması ve sıcaklık değerlerinin yükseltilmesi sağlık sektöründe alarm verirken, personelin hızlı müdahalesiyle olası bir skandalın önüne geçildi; uzmanlar küresel saldırı dalgasının arkasındaki faillerin…",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-kan-bankasi-sogutucularina-siber-saldiri-sicaklik-ayarlariyla-oynandi-962282.html",
+   "zaman": "2026-11-05T06:26:00+03:00",
+   "kelimeler": [
+    "ayarl",
+    "banka",
+    "frans",
+    "kan",
+    "oynan",
+    "saldi",
+    "siber",
+    "sicak",
+    "sogut"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "25388c788817": {
+   "id": "25388c788817",
+   "kaynak": "TRT Haber",
+   "baslik": "Brezilya'daki maçta dünya rekoru: 51 kırmızı kart gösterildi",
+   "ozet": "Brezilya'da 20 yaş altı liginde oynanan olaylı karşılaşmada 51 kırmızı kart gösterilerek dünya rekoru kırıldı. Minas Gerais 20 Yaş Altı Şampiyonası yarı final ilk maçında Uberlandia ile Mamore karşı karşıya geldi.",
+   "link": "https://www.trthaber.com/haber/dunya/brezilyadaki-macta-dunya-rekoru-51-kirmizi-kart-gosterildi-962283.html",
+   "zaman": "2026-11-05T06:29:00+03:00",
+   "kelimeler": [
+    "51",
+    "brezi",
+    "daki",
+    "dunya",
+    "goste",
+    "kart",
+    "kirmi",
+    "macta",
+    "rekor"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "86e2d9411df8"
   }
  },
  "kayit": [
+  "05.11 06:46:07  2 yeni haber",
   "05.11 06:31:22  1 yeni haber",
   "05.11 05:16:05  1 yeni haber",
   "05.11 03:46:09  2 yeni haber",
@@ -31485,8 +31496,7 @@
   "03.11 02:15:59  1 yeni haber",
   "03.11 02:01:23  2 yeni haber",
   "03.11 01:03:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
-  "03.11 01:01:17  2 yeni haber",
-  "03.11 00:46:01  1 yeni haber"
+  "03.11 01:01:17  2 yeni haber"
  ],
  "otomatik": false
 }
