@@ -1,130 +1,5 @@
 {
  "haberler": {
-  "fcb93d6b119b": {
-   "id": "fcb93d6b119b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Ukrayna'nın başkenti Kiev'de sahte radyasyon alarmı uyarısıyla korku",
-   "ozet": "Ukrayna'da hava saldırılarına karşı uyarı amacıyla telefonlarda bulunan uygulama dün gece saatlerinde radyasyon alarmı uyarısı yaptı.",
-   "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o",
-   "zaman": "2026-11-02T14:46:27+03:00",
-   "kelimeler": [
-    "alarm",
-    "baske",
-    "kiev",
-    "korku",
-    "nin",
-    "radya",
-    "sahte",
-    "ukray",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e24f1ccbd9c9": {
-   "id": "e24f1ccbd9c9",
-   "kaynak": "AA",
-   "baslik": "DMM, Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı iddialarını yalanladı",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yansıtmadığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-orman-varligini-korumadigi-ve-ormansizlasmayi-artirdigi-iddialarini-yalanladi/4108743",
-   "zaman": "2026-11-02T14:47:42+03:00",
-   "kelimeler": [
-    "artir",
-    "dmm",
-    "iddia",
-    "korum",
-    "nin",
-    "orman",
-    "turki",
-    "varli",
-    "yalan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "e668344e0a53": {
-   "id": "e668344e0a53",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Kacır yeni İMECE uyduları için tarih verdi",
-   "ozet": "Sanayi ve Teknoloji Bakanı Kacır, TÜRKSAT 7A uydusu için çalışmalara başladıklarını, yer gözlem uydu takımının üyeleri İMECE2'nin 2027'de, İMECE3'ün ise 2028'de uzaya gönderileceğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-yeni-imece-uydulari-icin-tarih-verdi-961961.html",
-   "zaman": "2026-11-02T14:50:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "imece",
-    "kacir",
-    "tarih",
-    "uydul",
-    "verdi",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f9f2bcf75e8b": {
-   "id": "f9f2bcf75e8b",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'nin orman varlığını korumadığı iddialarına yalanlama",
-   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yansıtmadığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-orman-varligini-korumadigi-iddialarina-yalanlama-961962.html",
-   "zaman": "2026-11-02T14:51:00+03:00",
-   "kelimeler": [
-    "iddia",
-    "korum",
-    "nin",
-    "orman",
-    "turki",
-    "varli",
-    "yalan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e24f1ccbd9c9"
-  },
-  "052e8fc87011": {
-   "id": "052e8fc87011",
-   "kaynak": "NTV",
-   "baslik": "Fon soruşturması. 37 kişinin iade ettiği tutar 18 milyar lirayı geçti",
-   "ozet": "120 ismin tutuklandığı fon soruşturmasında 1,5 ay geride kaldı. Fonlardan sağlanan haksız kazançların iadesi de sürüyor. İade edilen miktar 20 milyar liraya yaklaştı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-37-kisinin-iade-ettigi-tutar-18-milyar-lirayi-gecti-1749053",
-   "zaman": "2026-11-02T14:53:04+03:00",
-   "kelimeler": [
-    "18",
-    "37",
-    "ettig",
-    "fon",
-    "gecti",
-    "iade",
-    "kisin",
-    "liray",
-    "milya",
-    "sorus",
-    "tutar"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "788e903b18ca": {
-   "id": "788e903b18ca",
-   "kaynak": "TRT Haber",
-   "baslik": "SİPER2'nin seri üretimi 2027'de başlayacak",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Çelik Kubbe hava savunma mimarisinde yer alan Uzun Menzilli Hava Savunma Sistemi SİPER2'nin seri üretimine 2027'de başlanacağını açıkladı.",
-   "link": "https://www.trthaber.com/haber/savunma/siper-2nin-seri-uretimi-2027de-baslayacak-961963.html",
-   "zaman": "2026-11-02T14:56:00+03:00",
-   "kelimeler": [
-    "2027",
-    "basla",
-    "nin",
-    "seri",
-    "siper",
-    "ureti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9410ebf77309": {
    "id": "9410ebf77309",
    "kaynak": "Hürriyet",
@@ -271,24 +146,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c3f1e4e2f488"
-  },
-  "b59260335a16": {
-   "id": "b59260335a16",
-   "kaynak": "AA",
-   "baslik": "Muşlu besicilerin sıcak bölgelere yolculuğu sürüyor",
-   "ozet": "Muş'ta havaların soğumasıyla besicilerin sürüleriyle sıcak bölgelere yolculuğu devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/muslu-besicilerin-sicak-bolgelere-yolculugu-suruyor/4108741",
-   "zaman": "2026-11-02T14:47:01+03:00",
-   "kelimeler": [
-    "besic",
-    "bolge",
-    "muslu",
-    "sicak",
-    "suruy",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "f1d9cbab56d9": {
    "id": "f1d9cbab56d9",
@@ -16903,7 +16760,10 @@
     "opera"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "bf55e3dc6327": {
    "id": "bf55e3dc6327",
@@ -29492,7 +29352,10 @@
     "veril"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3dcc14fc9ce5": {
    "id": "3dcc14fc9ce5",
@@ -29654,7 +29517,10 @@
     "milya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "13ad7232d88c": {
    "id": "13ad7232d88c",
@@ -32033,7 +31899,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "NTV"
    ]
   },
   "70b94361391d": {
@@ -32305,9 +32172,136 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b0b491be4d17": {
+   "id": "b0b491be4d17",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara'nın ihracatı 10 ayda 15,7 milyar dolara yükseldi",
+   "ozet": "Ankara'dan bu yılın 10 aylık döneminde yapılan ihracat, geçen yılın aynı dönemine göre yüzde 21,2 artarak, 15 milyar 727 milyon 188 bin dolara yükseldi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ankaranin-ihracati-10-ayda-157-milyar-dolara-yukseldi-962348.html",
+   "zaman": "2026-11-05T14:40:00+03:00",
+   "kelimeler": [
+    "10",
+    "15",
+    "ankar",
+    "ayda",
+    "dolar",
+    "ihrac",
+    "milya",
+    "nin",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a4f4c23eaff7"
+  },
+  "37bdae0e1c97": {
+   "id": "37bdae0e1c97",
+   "kaynak": "NTV",
+   "baslik": "Fenerbahçe-Liverpool maçı öncesi karaborsa bilet operasyonu",
+   "ozet": "Fenerbahçe-Liverpool maçı öncesinde sosyal medyada karaborsa bilet sattıkları belirlenen 9 şüpheli gözaltına alındı. Şüphelilerden 4'ü hakkında adli kontrol kararı verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/fenerbahce-liverpool-maci-oncesi-karaborsa-bilet-operasyonu-1749531",
+   "zaman": "2026-11-05T14:47:57+03:00",
+   "kelimeler": [
+    "bilet",
+    "fener",
+    "karab",
+    "liver",
+    "maci",
+    "onces",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ddc5f50d5a4f"
+  },
+  "16c0ec0949c5": {
+   "id": "16c0ec0949c5",
+   "kaynak": "NTV",
+   "baslik": "Türkiye genelinde sahte alkol operasyonu, 121 şüpheliye işlem",
+   "ozet": "Türkiye genelinde kaçak ve sahte alkollü içki üretimine yönelik düzenlenen operasyonlarda 121 şüpheli hakkında adli işlem yapıldı. 9 yasa dışı imalathane deşifre edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiye-genelinde-sahte-alkol-operasyonu-121-supheliye-islem-1749534",
+   "zaman": "2026-11-05T14:48:49+03:00",
+   "kelimeler": [
+    "121",
+    "alkol",
+    "genel",
+    "islem",
+    "opera",
+    "sahte",
+    "suphe",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7275a2141ee8"
+  },
+  "5b5a4e218752": {
+   "id": "5b5a4e218752",
+   "kaynak": "TRT Haber",
+   "baslik": "Girişimcilik ekosistemine 604 milyon lira hibe verilecek",
+   "ozet": "ENHANCER PRO Ortak Kullanım Tesisleri Hibe Programı ile 17 ildeki 58 kuruma yaklaşık 604 milyon lira destek sağlanacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/girisimcilik-ekosistemine-604-milyon-lira-hibe-verilecek-962349.html",
+   "zaman": "2026-11-05T14:49:00+03:00",
+   "kelimeler": [
+    "604",
+    "ekosi",
+    "giris",
+    "hibe",
+    "lira",
+    "milyo",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "654fb7864a32"
+  },
+  "72a797df0323": {
+   "id": "72a797df0323",
+   "kaynak": "AA",
+   "baslik": "\"İbrahim Zaman'a Saygı\" sergisi izlenime sunuldu",
+   "ozet": "Fotoğraf sanatının usta isimlerinden İbrahim Zaman'a adanan \"İbrahim Zaman'a Saygı\" sergisi, Türkiye Fotoğraf Vakfı'nda açıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/ibrahim-zamana-saygi-sergisi-izlenime-sunuldu/4112906",
+   "zaman": "2026-11-05T14:50:18+03:00",
+   "kelimeler": [
+    "ibrah",
+    "izlen",
+    "saygi",
+    "sergi",
+    "sunul",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "86677f833ba5": {
+   "id": "86677f833ba5",
+   "kaynak": "NTV",
+   "baslik": "Bebeğiyle kanlar içinde kalmıştı: Türkiye'nin konuştuğu olayda son sözü Adli Tıp Kurumu söyleyecek",
+   "ozet": "Yalova'da Muhammet Baca isimli adamın bebeğiyle birlikte saldırıya uğradığı olayda dosya Adli Tıp Kurumu'na gönderildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bebegiyle-kanlar-icinde-kalmisti-turkiyenin-konustugu-olayda-son-sozu-adli-tip-kurumu-soyleyecek-1749543",
+   "zaman": "2026-11-05T14:50:41+03:00",
+   "kelimeler": [
+    "adli",
+    "bebeg",
+    "icind",
+    "kalmi",
+    "kanla",
+    "konus",
+    "kurum",
+    "nin",
+    "olayd",
+    "soyle",
+    "sozu",
+    "tip",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 15:01:33  2 yeni haber",
   "05.11 14:46:02  5 yeni haber",
   "05.11 14:31:13  7 yeni haber",
   "05.11 14:18:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Düğününe bir hafta kala kazada ölen Safiye Kaymakçı toprağa verildi: T",
@@ -32506,8 +32500,7 @@
   "03.11 13:01:43  7 yeni haber",
   "03.11 12:46:00  2 yeni haber",
   "03.11 12:31:15  8 yeni haber",
-  "03.11 12:16:01  5 yeni haber",
-  "03.11 12:05:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Fiyatlamalar küresel merkez bankalarının yılı \"şahin\" adımlarla tamaml"
+  "03.11 12:16:01  5 yeni haber"
  ],
  "otomatik": false
 }
