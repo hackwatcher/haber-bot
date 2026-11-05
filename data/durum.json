@@ -31085,7 +31085,12 @@
     "depre"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "TRT Haber",
+    "NTV"
+   ]
   },
   "d93879374e2a": {
    "id": "d93879374e2a",
@@ -31099,6 +31104,77 @@
     "2026",
     "afad",
     "afyon",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "29602010749a"
+  },
+  "f30a1314371b": {
+   "id": "f30a1314371b",
+   "kaynak": "Hürriyet",
+   "baslik": "Afyonkarahisar’da 4.1 büyüklüğünde deprem",
+   "ozet": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem-43366408",
+   "zaman": "2026-11-05T03:47:00+03:00",
+   "kelimeler": [
+    "afyon",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a51b359a6c07"
+  },
+  "1815d074c102": {
+   "id": "1815d074c102",
+   "kaynak": "TRT Haber",
+   "baslik": "Afyonkarahisar'da 4,1 büyüklüğünde deprem",
+   "ozet": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-962277.html",
+   "zaman": "2026-11-05T03:49:00+03:00",
+   "kelimeler": [
+    "afyon",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a51b359a6c07"
+  },
+  "0360ffb5105e": {
+   "id": "0360ffb5105e",
+   "kaynak": "NTV",
+   "baslik": "Dinar'da 4.1 büyüklüğünde deprem",
+   "ozet": "Afyonkarahisar'ın Dinar ilçesinde 4.1 büyüklüğünde sarsıntı kaydedildi.",
+   "link": "https://www.ntv.com.tr/turkiye/dinarda-41-buyuklugunde-deprem-1749432",
+   "zaman": "2026-11-05T03:50:36+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "dinar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a51b359a6c07"
+  },
+  "1a4f3d6da3cf": {
+   "id": "1a4f3d6da3cf",
+   "kaynak": "NTV",
+   "baslik": "Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 05 Kasım 2026",
+   "ozet": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 05 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-05-kasim-2026-1749433",
+   "zaman": "2026-11-05T04:00:00+03:00",
+   "kelimeler": [
+    "05",
+    "2026",
+    "adana",
+    "afad",
     "az",
     "depre",
     "kandi",
