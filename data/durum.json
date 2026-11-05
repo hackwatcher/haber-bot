@@ -31684,8 +31684,17 @@
     "kasim",
     "ozel"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-06T01:48:20.840606+03:00",
+   "ig_id": "17909995155583619",
+   "reels_id": null,
+   "story_id": "17892417630460462",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122114173545472027",
+   "fb_reels_id": null,
+   "slayt": 5,
+   "kanca": "İKİNCİ ÜRÜN 1 TL"
   },
   "7b6110b07e48": {
    "id": "7b6110b07e48",
@@ -32295,9 +32304,46 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "eed83504dc2a"
+  },
+  "a44aaf66e9e7": {
+   "id": "a44aaf66e9e7",
+   "kaynak": "TRT Haber",
+   "baslik": "Beşiktaş, Avrupa'da ilk yenilgisini yaşadı",
+   "ozet": "Avrupa Ligi'nin 4. haftasında İskoçya'nın Celtic takımına konuk olan Beşiktaş, rakibine 32 yenilerek lig aşamasındaki ilk mağlubiyetini aldı.",
+   "link": "https://www.trthaber.com/haber/spor/besiktas-avrupada-ilk-yenilgisini-yasadi-962380.html",
+   "zaman": "2026-11-06T01:15:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "besik",
+    "ilk",
+    "yasad",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b4c1b6d0a16f": {
+   "id": "b4c1b6d0a16f",
+   "kaynak": "TRT Haber",
+   "baslik": "SGK'ya 100 denetmen yardımcısı alınacak",
+   "ozet": "Sosyal Güvenlik Kurumu SGK, 100 sosyal güvenlik denetmen yardımcısı alacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/sgkya-100-denetmen-yardimcisi-alinacak-962381.html",
+   "zaman": "2026-11-06T01:38:00+03:00",
+   "kelimeler": [
+    "100",
+    "alina",
+    "denet",
+    "sgk",
+    "ya",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 01:48:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Kahve Dünyası, Efsane Kasım'a özel 1 alana 1 bedava kampanyası başlatt",
+  "06.11 01:46:09  2 yeni haber",
   "06.11 01:16:53  1 yeni haber",
   "06.11 01:01:33  1 yeni haber",
   "06.11 00:48:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fatma Betül Sayan Kaya, tutuklama talebiyle mahkemeye sev",
@@ -32495,9 +32541,7 @@
   "03.11 21:46:42  3 yeni haber",
   "03.11 21:31:47  2 yeni haber",
   "03.11 21:20:16  8 yeni haber",
-  "03.11 21:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "03.11 20:56:37  6 yeni haber",
-  "03.11 20:31:28  1 yeni haber"
+  "03.11 21:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
