@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "f6432134da9b": {
-   "id": "f6432134da9b",
-   "kaynak": "TRT Haber",
-   "baslik": "Cadılar Bayramı partisinde beş genç bıçaklandı",
-   "ozet": "İngiltere'de polis, bir Cadılar Bayramı partisinde bıçaklanan beş gencin ağır yaralandığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/cadilar-bayrami-partisinde-bes-genc-bicaklandi-961914.html",
-   "zaman": "2026-11-02T08:17:00+03:00",
-   "kelimeler": [
-    "bayra",
-    "bes",
-    "bicak",
-    "cadil",
-    "genc",
-    "parti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "274c817e45d8": {
-   "id": "274c817e45d8",
-   "kaynak": "TRT Haber",
-   "baslik": "Çin devlet televizyonu Mbappe'nin şakası üzerine Real Madrid maçını yayından kaldırdı",
-   "ozet": "Çin devlet televizyonu CCTV, kulübün yıldız golcüsü Kylian Mbappe'nin eski Çin lideri Mao Zedong hakkındaki sözleri için özür dilemesine rağmen pazar günü Real Madrid maçını yayınlamadı.",
-   "link": "https://www.trthaber.com/haber/dunya/cin-devlet-televizyonu-mbappenin-sakasi-uzerine-real-madrid-macini-yayindan-kaldirdi-961915.html",
-   "zaman": "2026-11-02T08:21:00+03:00",
-   "kelimeler": [
-    "cin",
-    "devle",
-    "kaldi",
-    "macin",
-    "madri",
-    "mbapp",
-    "nin",
-    "real",
-    "sakas",
-    "telev",
-    "uzeri",
-    "yayin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1ef302410920": {
-   "id": "1ef302410920",
-   "kaynak": "TRT Haber",
-   "baslik": "Bilim insanları uyardı: Küresel ısınma 1,5 dereceyi aşarsa kriyosfer kalıcı hasar görecek",
-   "ozet": "Birleşmiş Milletler destekli rapor, Paris Antlaşması hedefinin geçici olarak aşılmasının bile buzullara ve kutup buz örtülerine zarar verebileceğini ortaya koydu.",
-   "link": "https://www.trthaber.com/haber/dunya/bilim-insanlari-uyardi-kuresel-isinma-15-dereceyi-asarsa-kriyosfer-kalici-hasar-gorecek-961916.html",
-   "zaman": "2026-11-02T08:28:00+03:00",
-   "kelimeler": [
-    "asars",
-    "bilim",
-    "derec",
-    "gorec",
-    "hasar",
-    "insan",
-    "isinm",
-    "kalic",
-    "kriyo",
-    "kures",
-    "uyard"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6a487661fa5f": {
    "id": "6a487661fa5f",
    "kaynak": "TRT Haber",
@@ -31488,9 +31423,32 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "a51b359a6c07"
+  },
+  "caae25df704a": {
+   "id": "caae25df704a",
+   "kaynak": "NTV",
+   "baslik": "Şehit polis Şeyda Yılmaz'ın katil zanlısına verilen ceza onandı",
+   "ozet": "İstanbul'da polis memuru Şeyda Yılmaz'ı şehit eden Yunus Emre Geçti hakkında verilen ağırlaştırılmış müebbet hapis cezası Yargıtay tarafından onandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sehit-polis-seyda-yilmazin-katil-zanlisina-verilen-ceza-onandi-1749445",
+   "zaman": "2026-11-05T08:28:36+03:00",
+   "kelimeler": [
+    "ceza",
+    "in",
+    "katil",
+    "onand",
+    "polis",
+    "sehit",
+    "seyda",
+    "veril",
+    "yilma",
+    "zanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 08:31:26  1 yeni haber",
   "05.11 08:03:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · CHP’den YENİ Parti’ye İstanbul çağrısı",
   "05.11 08:01:47  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "05.11 07:31:19  1 yeni haber",
@@ -31689,8 +31647,7 @@
   "03.11 06:01:32  1 yeni haber",
   "03.11 06:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 04:46:54  1 yeni haber",
-  "03.11 04:01:46  1 yeni haber",
-  "03.11 03:46:07  1 yeni haber"
+  "03.11 04:01:46  1 yeni haber"
  ],
  "otomatik": false
 }
