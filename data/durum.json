@@ -1,95 +1,5 @@
 {
  "haberler": {
-  "7ecd3d089d4b": {
-   "id": "7ecd3d089d4b",
-   "kaynak": "AA",
-   "baslik": "Kazakistan'da ikinci Amur kaplanı doğaya salındı",
-   "ozet": "Kazakistan'da 70 yılı aşkın süre önce yok olan kaplanları yeniden bozkırlara kazandırmak amacıyla yürütülen program kapsamında ikinci Amur kaplanı doğal yaşam alanına bırakıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/kazakistanda-ikinci-amur-kaplani-dogaya-salindi/4108674",
-   "zaman": "2026-11-02T14:01:54+03:00",
-   "kelimeler": [
-    "amur",
-    "dogay",
-    "ikinc",
-    "kapla",
-    "kazak",
-    "salin"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "889ee32d0686": {
-   "id": "889ee32d0686",
-   "kaynak": "AA",
-   "baslik": "Çin Merkez Bankası, borsadaki düşüşe karşı 15 milyar dolarlık takas aracını devreye sokuyor",
-   "ozet": "Çin Merkez Bankası (PBoC), hisse senedi piyasalarındaki düşüşün ardından yatırımlar için likiditeyi artırmak amacıyla bir takas aracını devreye sokacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cin-merkez-bankasi-borsadaki-dususe-karsi-15-milyar-dolarlik-takas-aracini-devreye-sokuyor/4108682",
-   "zaman": "2026-11-02T14:07:50+03:00",
-   "kelimeler": [
-    "15",
-    "araci",
-    "banka",
-    "borsa",
-    "cin",
-    "devre",
-    "dolar",
-    "dusus",
-    "karsi",
-    "merke",
-    "milya",
-    "sokuy",
-    "takas"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "09b1543aa3f0": {
-   "id": "09b1543aa3f0",
-   "kaynak": "AA",
-   "baslik": "Bakan Yumaklı: Türkiye ile AB arasında tarım alanındaki işbirliği her zamankinden daha önemli hale gelmiştir",
-   "ozet": "Tarım ve Orman Bakanı Yumaklı, \"Böylesine kritik bir konjonktürde, aday ülke ve stratejik ortak Türkiye ile AB arasında tarım alanındaki işbirliği her zamankinden daha önemli hale gelmiştir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-turkiye-ile-ab-arasinda-tarim-alanindaki-isbirligi-her-zamankinden-daha-onemli-hale-gelmistir/4108683",
-   "zaman": "2026-11-02T14:10:31+03:00",
-   "kelimeler": [
-    "ab",
-    "alani",
-    "arasi",
-    "bakan",
-    "gelmi",
-    "hale",
-    "her",
-    "isbir",
-    "oneml",
-    "tarim",
-    "turki",
-    "yumak",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6b9b44a250f1": {
-   "id": "6b9b44a250f1",
-   "kaynak": "TRT Haber",
-   "baslik": "Çukur ve yol bozukluklarının yol açtığı hasarda tazminat mümkün",
-   "ozet": "Yollardaki bozulmalar ve çukurlar nedeniyle meydana gelebilecek tek taraflı kazalarda sürücüler, ispatlamaları halinde zararlarını kasko poliçesi kapsamında sigorta şirketlerinden karşılayabilir, kasko poliçesi bulunmayan sürücüler ise sorumlu idari kuruma dava açarak tazmin…",
-   "link": "https://www.trthaber.com/haber/turkiye/cukur-ve-yol-bozukluklarinin-yol-actigi-hasarda-tazminat-mumkun-961957.html",
-   "zaman": "2026-11-02T14:14:00+03:00",
-   "kelimeler": [
-    "actig",
-    "bozuk",
-    "cukur",
-    "hasar",
-    "mumku",
-    "tazmi",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "cd7891955a95": {
    "id": "cd7891955a95",
    "kaynak": "AA",
@@ -29601,7 +29511,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3aec4ef4972b": {
    "id": "3aec4ef4972b",
@@ -30765,7 +30678,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "93431d8e22f9": {
    "id": "93431d8e22f9",
@@ -31596,7 +31512,8 @@
     "topra"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5c097eb3bdab": {
    "id": "5c097eb3bdab",
@@ -31660,8 +31577,17 @@
     "topra",
     "veril"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-05T14:18:03.366140+03:00",
+   "ig_id": "18076456262764780",
+   "reels_id": "18359161411270404",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1114127431398345",
+   "slayt": 5,
+   "kanca": "TABUTUNA DUVAK SERİLDİ"
   },
   "acdb415a6121": {
    "id": "acdb415a6121",
@@ -32028,9 +31954,177 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bc8e0019e2bb": {
+   "id": "bc8e0019e2bb",
+   "kaynak": "TRT Haber",
+   "baslik": "Fethiye'de ehliyetsiz drifte 496 bin lira ceza",
+   "ozet": "Muğla'nın Fethiye ilçesinde drift yapan ve ehliyetsiz olduğu belirlenen sürücüye 496 bin 908 lira idari para cezası uygulandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/fethiyede-ehliyetsiz-drifte-496-bin-lira-ceza-962307.html",
+   "zaman": "2026-11-05T10:18:00+03:00",
+   "kelimeler": [
+    "496",
+    "bin",
+    "ceza",
+    "drift",
+    "ehliy",
+    "fethi",
+    "lira"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc676b6faf4a": {
+   "id": "dc676b6faf4a",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da inşaatta göçük meydana geldi",
+   "ozet": "Bahçelievler'de inşaatta meydana gelen toprak kayması nedeniyle göçük altında kalan 2 işçiden 1'i kurtarıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-insaatta-gocuk-meydana-geldi/4112762",
+   "zaman": "2026-11-05T13:18:26+03:00",
+   "kelimeler": [
+    "geldi",
+    "gocuk",
+    "insaa",
+    "istan",
+    "meyda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f48b3d2b4839"
+  },
+  "67b20f9cb512": {
+   "id": "67b20f9cb512",
+   "kaynak": "AA",
+   "baslik": "Eğitim bakanları COP31'de bir araya gelecek",
+   "ozet": "Milli Eğitim Bakanlığı (MEB), Türkiye'nin ev sahipliğinde 9-20 Kasım'da Antalya'da düzenlenecek COP31 kapsamında farklı ülkelerin eğitim bakanlarının katılımıyla üst düzey oturumların gerçekleştirileceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/egitim-bakanlari-cop31de-bir-araya-gelecek/4112812",
+   "zaman": "2026-11-05T13:54:07+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "cop31",
+    "egiti",
+    "gelec"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1e14a5ccb695"
+  },
+  "17913f514a33": {
+   "id": "17913f514a33",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: Terörsüz Türkiye müreffeh bir gelecek için yeni açılmış bir penceredir",
+   "ozet": "İletişim Başkanı Burhanettin Duran, Terörsüz Türkiye süreciyle ilgili, \"Ülkemiz için her şeyden önce bulunmaz bir imkandır. Gündelik hayat, ekonomik kalkınma, turizm, eğitim ve müreffeh bir gelecek için yeni açılmış bir penceredir\" diye konuştu.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-terorsuz-turkiye-mureffeh-bir-gelecek-icin-yeni-acilmis-bir-penceredir-962340.html",
+   "zaman": "2026-11-05T13:58:00+03:00",
+   "kelimeler": [
+    "acilm",
+    "baska",
+    "duran",
+    "gelec",
+    "ileti",
+    "muref",
+    "pence",
+    "teror",
+    "turki",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17f1ed8164e9": {
+   "id": "17f1ed8164e9",
+   "kaynak": "AA",
+   "baslik": "Avrupa'da bomba ihbarları nedeniyle 10'dan fazla yolcu uçağı acil iniş yaptı",
+   "ozet": "Avrupa'da İtalya, Fransa, Belçika, Çekya ve Bulgaristan dahil birçok ülkede bomba ihbarları nedeniyle 10'dan fazla yolcu uçağı acil iniş yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/avrupada-bomba-ihbarlari-nedeniyle-10dan-fazla-yolcu-ucagi-acil-inis-yapti/4112824",
+   "zaman": "2026-11-05T14:02:03+03:00",
+   "kelimeler": [
+    "10",
+    "avrup",
+    "bomba",
+    "dan",
+    "fazla",
+    "ihbar",
+    "inis",
+    "neden",
+    "ucagi",
+    "yapti",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "73a057955cfd": {
+   "id": "73a057955cfd",
+   "kaynak": "AA",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Ayan'dan COP31 değerlendirmesi",
+   "ozet": "AK Parti Genel Başkan Yardımcısı Ayan, Türkiye'nin ev sahipliğinde gerçekleşecek COP31 Zirvesi'nin yeşil alanında açacakları özel pavilyonda, yurt içi ve yurt dışından birçok paydaşı ağırlayacaklarını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-ayandan-cop31-degerlendirmesi/4112827",
+   "zaman": "2026-11-05T14:04:12+03:00",
+   "kelimeler": [
+    "ak",
+    "ayan",
+    "baska",
+    "cop31",
+    "dan",
+    "deger",
+    "genel",
+    "parti",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d0e0014103aa": {
+   "id": "d0e0014103aa",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş: Terör bütün unsurlarıyla Türkiye'nin gündeminden kalkacak",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye de hiç mübalağasız söylüyorum, Türkiye'nin ilk asrının en büyük projesidir. İnşallah bunu gerçekleştireceğiz, sonuç alacağız ve artık terör bütün unsurlarıyla Türkiye’nin gündeminden kalkacaktır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-teror-butun-unsurlariyla-turkiyenin-gundeminden-kalkacak/4112834",
+   "zaman": "2026-11-05T14:06:47+03:00",
+   "kelimeler": [
+    "baska",
+    "butun",
+    "gunde",
+    "kalka",
+    "kurtu",
+    "nin",
+    "tbmm",
+    "teror",
+    "turki",
+    "unsur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f500e29d5269"
+  },
+  "b524b1a4ca1d": {
+   "id": "b524b1a4ca1d",
+   "kaynak": "AA",
+   "baslik": "Rusya, ABD'deki ara seçimlerin sonuçlarından köklü bir etki beklemiyor",
+   "ozet": "Rusya Güvenlik Konseyi Başkan Yardımcısı Dmitriy Medvedev, ABD Başkanı Donald Trump'ın Kongre ara seçimlerinde yenilgiye uğramasının Rusya'nın çıkarlarını köklü biçimde etkilemeyeceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-abddeki-ara-secimlerin-sonuclarindan-koklu-bir-etki-beklemiyor/4112839",
+   "zaman": "2026-11-05T14:10:47+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "bekle",
+    "deki",
+    "etki",
+    "koklu",
+    "rusya",
+    "secim",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c6f606baa3c0"
   }
  },
  "kayit": [
+  "05.11 14:18:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Düğününe bir hafta kala kazada ölen Safiye Kaymakçı toprağa verildi: T",
+  "05.11 14:16:00  4 yeni haber",
   "05.11 14:01:26  10 yeni haber",
   "05.11 13:46:06  4 yeni haber",
   "05.11 13:31:10  7 yeni haber",
@@ -32228,9 +32322,7 @@
   "03.11 12:16:01  5 yeni haber",
   "03.11 12:05:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Fiyatlamalar küresel merkez bankalarının yılı \"şahin\" adımlarla tamaml",
   "03.11 12:02:06  8 yeni haber",
-  "03.11 11:47:22  12 yeni haber",
-  "03.11 11:31:20  7 yeni haber",
-  "03.11 11:16:12  18 yeni haber"
+  "03.11 11:47:22  12 yeni haber"
  ],
  "otomatik": false
 }
