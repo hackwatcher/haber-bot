@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "6a487661fa5f": {
-   "id": "6a487661fa5f",
-   "kaynak": "TRT Haber",
-   "baslik": "ChatGPT'nin yanlış yönlendirmesi sonucu nöbet geçirerek ölen kadının ebeveynleri OpenAI'a dava açtı",
-   "ozet": "Bir sohbet botundan tehlikeli tavsiyeler aldıktan sonra epilepsi nöbeti geçirerek hayatını kaybeden kadının ebeveynleri, bu hafta başlarında OpenAI'a dava açtı.",
-   "link": "https://www.trthaber.com/haber/dunya/chatgptnin-yanlis-yonlendirmesi-sonucu-nobet-gecirerek-olen-kadinin-ebeveynleri-openaia-dava-acti-961917.html",
-   "zaman": "2026-11-02T08:32:00+03:00",
-   "kelimeler": [
-    "acti",
-    "chatg",
-    "dava",
-    "ebeve",
-    "gecir",
-    "kadin",
-    "nin",
-    "nobet",
-    "olen",
-    "opena",
-    "sonuc",
-    "yanli",
-    "yonle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "d89e21e7d2a6": {
-   "id": "d89e21e7d2a6",
-   "kaynak": "NTV",
-   "baslik": "Kasım ara tatili başlangıç ve bitiş tarihi. Okullar ne zaman kapanacak?",
-   "ozet": "Milli Eğitim Bakanlığı tarafından sene başında yayımlanan 2026-2027 çalışma takvimiyle birlikte kasım ara tatili tarihi belli olmuştu. Kasım ayına girilmesiyle birlikte ise öğrencilerin gözü ilk ara tatilin başlayacağı tarihe çevrildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kasim-ara-tatili-baslangic-ve-bitis-tarihi-okullar-ne-zaman-kapanacak-1748978",
-   "zaman": "2026-11-02T08:37:57+03:00",
-   "kelimeler": [
-    "ara",
-    "basla",
-    "bitis",
-    "kapan",
-    "kasim",
-    "okull",
-    "tarih",
-    "tatil",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d6566ace9aab": {
    "id": "d6566ace9aab",
    "kaynak": "AA",
@@ -66,32 +19,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "eb6a3a841dcc": {
-   "id": "eb6a3a841dcc",
-   "kaynak": "TRT Haber",
-   "baslik": "ChatGPT'nin yanlış yönlendirmesi sonucu nöbet geçirerek ölen kadının ebeveynleri OpenAI'a dava açtı",
-   "ozet": "Bir sohbet botundan tehlikeli tavsiyeler aldıktan sonra epilepsi nöbeti geçirerek hayatını kaybeden kadının ebeveynleri, bu hafta başlarında OpenAI'a dava açtı.",
-   "link": "https://www.trthaber.com/haber/guncel/chatgptnin-yanlis-yonlendirmesi-sonucu-nobet-gecirerek-olen-kadinin-ebeveynleri-openaia-dava-acti-961917.html",
-   "zaman": "2026-11-02T08:32:00+03:00",
-   "kelimeler": [
-    "acti",
-    "chatg",
-    "dava",
-    "ebeve",
-    "gecir",
-    "kadin",
-    "nin",
-    "nobet",
-    "olen",
-    "opena",
-    "sonuc",
-    "yanli",
-    "yonle"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6a487661fa5f"
   },
   "dd901e7bb03b": {
    "id": "dd901e7bb03b",
@@ -30737,7 +30664,10 @@
     "zayif"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "13102383393f": {
    "id": "13102383393f",
@@ -31445,9 +31375,186 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "442e9a2e615d": {
+   "id": "442e9a2e615d",
+   "kaynak": "AA",
+   "baslik": "ABD'deki seçimlerde Demokratlar, Senato ve Temsilciler Meclisinde çoğunluğu elde etti",
+   "ozet": "ABD Kongre ara seçimlerinde Demokratlar, resmi olmayan sonuçlara göre Senatoda çoğunluğu elde ederek 54 sandalyeye ulaştı. Temsilciler Meclisi için yapılan yarışta ise Demokratlar 228, Cumhuriyetçiler 139 sandalye kazandı.",
+   "link": "https://www.aa.com.tr/tr/live-blog/abddeki-secimlerde-demokratlar-senato-ve-temsilciler-meclisinde-cogunlugu-elde-etti/7124",
+   "zaman": "2026-11-04T06:13:40+03:00",
+   "kelimeler": [
+    "abd",
+    "cogun",
+    "deki",
+    "demok",
+    "elde",
+    "etti",
+    "mecli",
+    "secim",
+    "senat",
+    "temsi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "4455f84c917f": {
+   "id": "4455f84c917f",
+   "kaynak": "AA",
+   "baslik": "Jerusalem Post: Son 10 günde gerçekleştirilen 4 seçimin sonuçları İsrail'in diplomatik konumunu zayıflatıyor",
+   "ozet": "İsrail’in \"Jerusalem Post\" gazetesi, 10 günde gerçekleştirilen 4 seçimin sonuçlarının İsrail'in diplomatik konumunu zayıflattığını, ülke için hayati önemdeki ittifakları tehdit ettiğini ve siyasi geleceğine ilişkin soru işaretleri yarattığını yazdı.",
+   "link": "https://www.aa.com.tr/tr/dunya/jerusalem-post-son-10-gunde-gerceklestirilen-4-secimin-sonuclari-israilin-diplomatik-konumunu-zayiflatiyor/4112136",
+   "zaman": "2026-11-05T04:31:19+03:00",
+   "kelimeler": [
+    "10",
+    "diplo",
+    "gerce",
+    "gunde",
+    "in",
+    "israi",
+    "jerus",
+    "konum",
+    "post",
+    "secim",
+    "sonuc",
+    "zayif"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "91f98f5c5bc4"
+  },
+  "84f712c61d2d": {
+   "id": "84f712c61d2d",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunun Gazze Şeridi'ndeki bir çadıra düzenlediği hava saldırısında 1 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun Gazze Şeridi’nde yerinden edilmiş Filistinlilerin sığındığı bir çadıra düzenlediği hava saldırısında 1 kişi yaşamını yitirdi, 1 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazze-seridindeki-bir-cadira-duzenledigi-hava-saldirisinda-1-kisi-hayatini-kaybetti/4112142",
+   "zaman": "2026-11-05T06:11:24+03:00",
+   "kelimeler": [
+    "cadir",
+    "duzen",
+    "gazze",
+    "hava",
+    "hayat",
+    "israi",
+    "kaybe",
+    "kisi",
+    "ndeki",
+    "ordus",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b36232b29143"
+  },
+  "c013b31452de": {
+   "id": "c013b31452de",
+   "kaynak": "Hürriyet",
+   "baslik": "Doğadaki sürpriz dostluk: Tilkiyle sohbet edip elleriyle besledi",
+   "ozet": "Erzincan'da doğada karşılaştığı tilkiyi yanına çağırarak çerez veren bir vatandaşın hayvanla kurduğu diyalog renkli anlara sahne oldu. Elinden yiyecek alarak karnını doyuran tilki ve vatandaşın görüntüleri çevredekiler tarafından kaydedildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dogadaki-surpriz-dostluk-tilkiyle-sohbet-edip-elleriyle-besledi-43366432",
+   "zaman": "2026-11-05T08:22:00+03:00",
+   "kelimeler": [
+    "besle",
+    "dogad",
+    "dostl",
+    "edip",
+    "eller",
+    "sohbe",
+    "surpr",
+    "tilki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2be8bbfcabf5": {
+   "id": "2be8bbfcabf5",
+   "kaynak": "TRT Haber",
+   "baslik": "Tayvan: Çin savaş uçakları Ada çevresinde 21 uçuş yaptı",
+   "ozet": "Çin'in savaş uçakları, egemenlik ihtilafı içinde olduğu Tayvan'ın çevresinde 21 uçuş yaptı.",
+   "link": "https://www.trthaber.com/haber/dunya/tayvan-cin-savas-ucaklari-ada-cevresinde-21-ucus-yapti-962291.html",
+   "zaman": "2026-11-05T08:27:00+03:00",
+   "kelimeler": [
+    "21",
+    "ada",
+    "cevre",
+    "cin",
+    "savas",
+    "tayva",
+    "ucakl",
+    "ucus",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "43e933fd8b56": {
+   "id": "43e933fd8b56",
+   "kaynak": "AA",
+   "baslik": "Michiganlı seçmenler ABD’nin ilk Müslüman senatörü Sayed’in seçilmesinden memnun",
+   "ozet": "ABD’nin Michigan eyaletindeki Kongre seçimlerini Mısır asıllı Müslüman Abdul el-Sayed’in kazanması, eyaletteki çeşitli kesimlerden vatandaşlar tarafından memnuniyetle karşılandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/michiganli-secmenler-abd-nin-ilk-musluman-senatoru-sayed-in-secilmesinden-memnun/4112159",
+   "zaman": "2026-11-05T08:33:47+03:00",
+   "kelimeler": [
+    "abd",
+    "ilk",
+    "in",
+    "memnu",
+    "michi",
+    "muslu",
+    "nin",
+    "sayed",
+    "secil",
+    "secme",
+    "senat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0913b8a01f3e"
+  },
+  "ab283bcae9e8": {
+   "id": "ab283bcae9e8",
+   "kaynak": "TRT Haber",
+   "baslik": "Michiganlı seçmenler, ABDnin ilk Müslüman senatörü Sayedin seçilmesinden memnun",
+   "ozet": "ABDnin Michigan eyaletindeki Kongre seçimlerini Mısır asıllı Müslüman Abdul elSayedin kazanması, eyaletteki çeşitli kesimlerden vatandaşlar tarafından memnuniyetle karşılandı.",
+   "link": "https://www.trthaber.com/haber/dunya/michiganli-secmenler-abdnin-ilk-musluman-senatoru-sayedin-secilmesinden-memnun-962290.html",
+   "zaman": "2026-11-05T08:34:00+03:00",
+   "kelimeler": [
+    "abdni",
+    "ilk",
+    "memnu",
+    "michi",
+    "muslu",
+    "sayed",
+    "secil",
+    "secme",
+    "senat"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b6f93e01e2c2": {
+   "id": "b6f93e01e2c2",
+   "kaynak": "NTV",
+   "baslik": "Sıcaklık 8 derece düştü. Fırtına ve kar geliyor",
+   "ozet": "Sibirya soğukları hava sıcaklığını 8 derece düşürdü. Bugün İstanbul'da sağanak ve kuvvetli poyraz etkili oluyor. Birçok ilde kar yağışı bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sicaklik-8-derece-dustu-firtina-ve-kar-geliyor-1749447",
+   "zaman": "2026-11-05T08:41:45+03:00",
+   "kelimeler": [
+    "derec",
+    "dustu",
+    "firti",
+    "geliy",
+    "kar",
+    "sicak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 08:46:25  5 yeni haber",
   "05.11 08:31:26  1 yeni haber",
   "05.11 08:03:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · CHP’den YENİ Parti’ye İstanbul çağrısı",
   "05.11 08:01:47  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -31646,8 +31753,7 @@
   "03.11 06:31:25  1 yeni haber",
   "03.11 06:01:32  1 yeni haber",
   "03.11 06:01:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "03.11 04:46:54  1 yeni haber",
-  "03.11 04:01:46  1 yeni haber"
+  "03.11 04:46:54  1 yeni haber"
  ],
  "otomatik": false
 }
