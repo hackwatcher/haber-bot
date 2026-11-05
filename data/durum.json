@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "a17080e0eeeb": {
-   "id": "a17080e0eeeb",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan MHP lideri Bahçeli'ye başsağlığı mesajı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Prof. Dr. Serpil Bahçeli'nin vefatı nedeniyle başsağlığı mesajı yayımladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-mhp-lideri-bahceliye-bassagligi-mesaji-43363853",
-   "zaman": "2026-11-03T01:03:20+03:00",
-   "kelimeler": [
-    "bahce",
-    "bassa",
-    "cumhu",
-    "dan",
-    "erdog",
-    "lider",
-    "mesaj",
-    "mhp",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6b88d30aefd6"
-  },
   "efe63b39aa0b": {
    "id": "efe63b39aa0b",
    "kaynak": "BBC Türkçe",
@@ -32334,9 +32312,30 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "37067b1511c3"
+  },
+  "2353856a225f": {
+   "id": "2353856a225f",
+   "kaynak": "TRT Haber",
+   "baslik": "Golden Global Yatırım Bankası'nın faaliyet izni kaldırıldı",
+   "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu BDDK, Golden Global Yatırım Bankası AŞ'nin faaliyet izninin kaldırılmasına karar verdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/golden-global-yatirim-bankasinin-faaliyet-izni-kaldirildi-962379.html",
+   "zaman": "2026-11-06T01:05:00+03:00",
+   "kelimeler": [
+    "banka",
+    "faali",
+    "globa",
+    "golde",
+    "izni",
+    "kaldi",
+    "nin",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 01:16:53  1 yeni haber",
   "06.11 01:01:33  1 yeni haber",
   "06.11 00:48:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fatma Betül Sayan Kaya, tutuklama talebiyle mahkemeye sev",
   "06.11 00:46:06  5 yeni haber",
@@ -32535,8 +32534,7 @@
   "03.11 21:20:16  8 yeni haber",
   "03.11 21:01:44  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "03.11 20:56:37  6 yeni haber",
-  "03.11 20:31:28  1 yeni haber",
-  "03.11 20:16:19  6 yeni haber"
+  "03.11 20:31:28  1 yeni haber"
  ],
  "otomatik": false
 }
