@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "4b1dd59b3de7": {
-   "id": "4b1dd59b3de7",
-   "kaynak": "AA",
-   "baslik": "Kayseri'de iş yerinde çıkan yangına müdahale ediliyor",
-   "ozet": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangına müdahale ediliyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangina-mudahale-ediliyor/4109019",
-   "zaman": "2026-11-02T19:27:22+03:00",
-   "kelimeler": [
-    "cikan",
-    "edili",
-    "is",
-    "kayse",
-    "mudah",
-    "yangi",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "08e591f80052": {
    "id": "08e591f80052",
    "kaynak": "TRT Haber",
@@ -1164,25 +1142,6 @@
    "fb_reels_id": "1452358740169563",
    "slayt": 1,
    "kanca": "AHMET NAZİF ZORLU"
-  },
-  "6dfcbdfa3fae": {
-   "id": "6dfcbdfa3fae",
-   "kaynak": "AA",
-   "baslik": "Kayseri'de iş yerinde çıkan yangın söndürüldü",
-   "ozet": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangın söndürüldü.",
-   "link": "https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangin-sonduruldu/4109019",
-   "zaman": "2026-11-02T19:27:22+03:00",
-   "kelimeler": [
-    "cikan",
-    "is",
-    "kayse",
-    "sondu",
-    "yangi",
-    "yerin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4b1dd59b3de7"
   },
   "aae3cfca1f8c": {
    "id": "aae3cfca1f8c",
@@ -31990,7 +31949,8 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ea240d2ee476": {
    "id": "ea240d2ee476",
@@ -32084,7 +32044,10 @@
     "uc"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "daf035c5db69": {
    "id": "daf035c5db69",
@@ -32302,9 +32265,110 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "52dbdac5990a"
+  },
+  "5af0fdc288e3": {
+   "id": "5af0fdc288e3",
+   "kaynak": "AA",
+   "baslik": "Afyonkarahisar'da silahla vurulan 8 kişi hayatını kaybetti",
+   "ozet": "Afyonkarahisar'ın İhsaniye ilçesinde silahla vurulan 8 kişi hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-8-kisi-hayatini-kaybetti/4113099",
+   "zaman": "2026-11-05T17:04:33+03:00",
+   "kelimeler": [
+    "afyon",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "silah",
+    "vurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "34c0904cc0f9"
+  },
+  "1b0ce5099e13": {
+   "id": "1b0ce5099e13",
+   "kaynak": "TRT Haber",
+   "baslik": "Afyonkarahisar'da silahlı saldırı: 8 ölü",
+   "ozet": "Afyonkarahisar'ın İhsaniye ilçesinde silahla vurulan 8 kişi hayatını kaybetti.",
+   "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-silahli-saldiri-8-olu-962362.html",
+   "zaman": "2026-11-05T19:07:00+03:00",
+   "kelimeler": [
+    "afyon",
+    "olu",
+    "saldi",
+    "silah"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "13cb4b279f49"
+  },
+  "dc5d36c39477": {
+   "id": "dc5d36c39477",
+   "kaynak": "Hürriyet",
+   "baslik": "Muğla Çocuk İklim Risk Haritası Hayata Geçiyor!",
+   "ozet": "Muğla Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü öncülüğünde Sigi Universe tarafından geliştirilen “Çocukların Gözünden İklim Riski – Muğla Çocuk İklim Risk Haritası” projesi hayata geçiyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/mugla-cocuk-iklim-risk-haritasi-hayata-geciyor-43367509",
+   "zaman": "2026-11-05T19:18:03+03:00",
+   "kelimeler": [
+    "cocuk",
+    "geciy",
+    "harit",
+    "hayat",
+    "iklim",
+    "mugla",
+    "risk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a767561eaf0": {
+   "id": "1a767561eaf0",
+   "kaynak": "TRT Haber",
+   "baslik": "Avrupa'da bomba ihbarları nedeniyle en az 17 uçak acil iniş yaptı",
+   "ozet": "Avrupa'da İtalya, Fransa, Belçika, Çekya ve Bulgaristan dahil birçok ülkede bomba ihbarları nedeniyle en az 17 yolcu uçağı acil iniş yaptı.",
+   "link": "https://www.trthaber.com/haber/dunya/avrupada-bomba-ihbarlari-nedeniyle-en-az-17-ucak-acil-inis-yapti-962363.html",
+   "zaman": "2026-11-05T19:24:00+03:00",
+   "kelimeler": [
+    "17",
+    "avrup",
+    "az",
+    "bomba",
+    "ihbar",
+    "inis",
+    "neden",
+    "ucak",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "96a557cf84f2"
+  },
+  "550a3f3e9876": {
+   "id": "550a3f3e9876",
+   "kaynak": "AA",
+   "baslik": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
+   "ozet": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturma kapsamında, Adli Tıp Kurumunca veriler üzerinde yapılan incelemede ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği belirlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti/4113260",
+   "zaman": "2026-11-05T19:26:46+03:00",
+   "kelimeler": [
+    "adli",
+    "ahmet",
+    "arif",
+    "cikti",
+    "deniz",
+    "ilisk",
+    "olumu",
+    "rapor",
+    "tip",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aabe2293a132"
   }
  },
  "kayit": [
+  "05.11 19:32:18  1 yeni haber",
   "05.11 19:16:06  5 yeni haber",
   "05.11 18:46:10  4 yeni haber",
   "05.11 18:31:22  2 yeni haber",
@@ -32503,8 +32567,7 @@
   "03.11 16:46:02  5 yeni haber",
   "03.11 16:31:21  4 yeni haber",
   "03.11 16:16:38  7 yeni haber",
-  "03.11 16:01:25  8 yeni haber",
-  "03.11 15:46:09  2 yeni haber"
+  "03.11 16:01:25  8 yeni haber"
  ],
  "otomatik": false
 }
