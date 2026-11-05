@@ -22383,7 +22383,8 @@
     "uzman"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "bcba1554078e": {
    "id": "bcba1554078e",
@@ -32264,9 +32265,58 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "caf50956cbaa"
+  },
+  "876b8014cfca": {
+   "id": "876b8014cfca",
+   "kaynak": "AA",
+   "baslik": "İranlı uzmanlara göre Trump'ın Kongre'de çoğunluğu kaybetmesi, İran'a saldırı ihtimalini ortadan kaldırmadı",
+   "ozet": "İranlı uzmanlar, Demokratların ABD seçimlerinde Kongre'nin iki kanadında da çoğunluğu elde etmesinin Trump'ın İran'a yönelik olası saldırılarının siyasi maliyetini artıracağını, ancak sınırlı bir askeri saldırı ihtimalinin sürdüğünü belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/iranli-uzmanlara-gore-trumpin-kongrede-cogunlugu-kaybetmesi-irana-saldiri-ihtimalini-ortadan-kaldirmadi/4113153",
+   "zaman": "2026-11-05T17:49:17+03:00",
+   "kelimeler": [
+    "cogun",
+    "gore",
+    "ihtim",
+    "in",
+    "iran",
+    "iranl",
+    "kaldi",
+    "kaybe",
+    "kongr",
+    "ortad",
+    "saldi",
+    "trump",
+    "uzman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "419a98622b01"
+  },
+  "38a4f2e223b5": {
+   "id": "38a4f2e223b5",
+   "kaynak": "AA",
+   "baslik": "İsveç iç güvenlik tehdidi nedeniyle 6 ay geçici sınır kontrolleri uygulayacak",
+   "ozet": "İsveç hükümeti, kamu düzeni ve iç güvenliğe yönelik ciddi tehdit gerekçesiyle 6 ay süreyle geçici sınır kontrolü uygulama kararı aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/isvec-ic-guvenlik-tehdidi-nedeniyle-6-ay-gecici-sinir-kontrolleri-uygulayacak/4113173",
+   "zaman": "2026-11-05T18:11:18+03:00",
+   "kelimeler": [
+    "ay",
+    "gecic",
+    "guven",
+    "ic",
+    "isvec",
+    "kontr",
+    "neden",
+    "sinir",
+    "tehdi",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 18:16:20  1 yeni haber",
   "05.11 18:01:57  4 yeni haber",
   "05.11 17:33:57  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · BoE Başkanı Bailey, faiz patikasına ilişkin Orta Doğu'daki gelişmelere",
   "05.11 17:32:02  5 yeni haber",
@@ -32465,8 +32515,7 @@
   "03.11 15:46:09  2 yeni haber",
   "03.11 15:31:14  1 yeni haber",
   "03.11 15:19:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara'da motosikletin çarptığı 6 aylık hamile kadın bebeğini kaybetti",
-  "03.11 15:16:23  8 yeni haber",
-  "03.11 15:01:30  5 yeni haber"
+  "03.11 15:16:23  8 yeni haber"
  ],
  "otomatik": false
 }
