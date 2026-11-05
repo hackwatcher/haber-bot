@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "eab70bf0d1c9": {
-   "id": "eab70bf0d1c9",
-   "kaynak": "AA",
-   "baslik": "Yemen'den Husilerin alıkoyduğu BM çalışanının ölümüne ilişkin bağımsız soruşturma talebi",
-   "ozet": "Yemen Dışişleri Bakanı Efrah ez-Zube, Husilerin 6 Haziran 2024 yılından bu yana alıkoyduğu BM çalışanının ölümüne ilişkin uluslararası ve bağımsız bir soruşturma yürütülmesi ile diğer tutukluların serbest bırakılması çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemenden-husilerin-alikoydugu-bm-calisaninin-olumune-iliskin-bagimsiz-sorusturma-talebi/4108251",
-   "zaman": "2026-11-02T03:40:36+03:00",
-   "kelimeler": [
-    "aliko",
-    "bagim",
-    "bm",
-    "calis",
-    "den",
-    "husil",
-    "ilisk",
-    "olumu",
-    "sorus",
-    "taleb",
-    "yemen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ca3adcd88556": {
    "id": "ca3adcd88556",
    "kaynak": "Hürriyet",
@@ -30840,7 +30817,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "f39eb13d12de": {
    "id": "f39eb13d12de",
@@ -31070,9 +31048,71 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "c20a8b0baf11": {
+   "id": "c20a8b0baf11",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Fenerbahçe'nin Liverpool galibiyeti Ada basınında: 'Premier Lig maçı havası vardı'",
+   "ozet": "İngiltere basınında Fenerbahçe maçını yerinde izleyen spor yazarları, Liverpool'un savunma hatalarına ve sarı-lacıvertlilerin Premier Lig kökenli kadrosuna dikkat çekiyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmwy7zwxw7k2o",
+   "zaman": "2026-11-05T03:31:15+03:00",
+   "kelimeler": [
+    "ada",
+    "basin",
+    "fener",
+    "galib",
+    "havas",
+    "lig",
+    "liver",
+    "maci",
+    "nin",
+    "premi",
+    "vardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a51b359a6c07": {
+   "id": "a51b359a6c07",
+   "kaynak": "AA",
+   "baslik": "Afyonkarahisar'da 4,1 büyüklüğünde deprem",
+   "ozet": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem/4112132",
+   "zaman": "2026-11-05T03:33:39+03:00",
+   "kelimeler": [
+    "afyon",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d93879374e2a": {
+   "id": "d93879374e2a",
+   "kaynak": "NTV",
+   "baslik": "Afyonkarahisar'da deprem mi oldu? Az önce deprem Afyonkarahisar'da nerede oldu? Afyonkarahisar deprem Kandilli ve AFAD son depremler listesi 05 Kasım 2026",
+   "ozet": "Son dakika Afyonkarahisar deprem haberleri.. Afyonkarahisar'da deprem mi oldu? Az önce deprem Afyonkarahisar'da nerede oldu? Afyonkarahisar Kandilli ve AFAD son depremler.. 05 Kasım 2026 Afyonkarahisar deprem son dakika haberleri haberin detayında...",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-afyonkarahisarda-deprem-mi-oldu-az-once-deprem-afyonkarahisarda-nerede-oldu-afyonkarahisar-deprem-kandilli-ve-afad-son-depremler-listesi-05-kasim-2026-1749431",
+   "zaman": "2026-11-05T03:40:00+03:00",
+   "kelimeler": [
+    "05",
+    "2026",
+    "afad",
+    "afyon",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "29602010749a"
   }
  },
  "kayit": [
+  "05.11 03:46:09  2 yeni haber",
   "05.11 03:31:39  1 yeni haber",
   "05.11 02:01:31  1 yeni haber",
   "05.11 01:31:17  1 yeni haber",
@@ -31271,8 +31311,7 @@
   "03.11 01:01:17  2 yeni haber",
   "03.11 00:46:01  1 yeni haber",
   "03.11 00:33:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi ",
-  "03.11 00:31:12  2 yeni haber",
-  "03.11 00:16:33  5 yeni haber"
+  "03.11 00:31:12  2 yeni haber"
  ],
  "otomatik": false
 }
