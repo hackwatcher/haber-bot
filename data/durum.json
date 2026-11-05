@@ -1,40 +1,5 @@
 {
  "haberler": {
-  "282458b30c6b": {
-   "id": "282458b30c6b",
-   "kaynak": "AA",
-   "baslik": "Van'da rahatsızlanan asker şehit oldu",
-   "ozet": "Milli Savunma Bakanlığı (MSB), Van'da görev esnasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in kaldırıldığı hastanede şehit olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanda-rahatsizlanan-asker-sehit-oldu/4109130",
-   "zaman": "2026-11-02T22:09:21+03:00",
-   "kelimeler": [
-    "asker",
-    "rahat",
-    "sehit",
-    "van"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7be5692f6c9b"
-  },
-  "ec91e3abcf7f": {
-   "id": "ec91e3abcf7f",
-   "kaynak": "Hürriyet",
-   "baslik": "MSB açıkladı... Van'da rahatsızlanan asker şehit oldu",
-   "ozet": "Milli Savunma Bakanlığı (MSB), Van'da görev esnasında rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin'in kaldırıldığı hastanede şehit olduğunu bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/vanda-rahatsizlanan-asker-sehit-oldu-43363776",
-   "zaman": "2026-11-02T22:15:00+03:00",
-   "kelimeler": [
-    "asker",
-    "msb",
-    "rahat",
-    "sehit",
-    "van"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7be5692f6c9b"
-  },
   "ef02f57bd728": {
    "id": "ef02f57bd728",
    "kaynak": "Hürriyet",
@@ -32288,9 +32253,120 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fd6cbfd1720d": {
+   "id": "fd6cbfd1720d",
+   "kaynak": "AA",
+   "baslik": "İngilizlere göre, İsrail ve ABD dünya barışı için Çin ve Kuzey Kore'den daha büyük tehdit",
+   "ozet": "İngiltere'de yapılan bir araştırmaya katılanların yüzde 78'i İsrail'i, 74'ü de ABD'yi dünya barışı için Çin ve Kuzey Kore'den daha büyük bir tehdit olarak gördüğünü belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilizlere-gore-israil-ve-abd-dunya-barisi-icin-cin-ve-kuzey-koreden-daha-buyuk-tehdit-/4113383",
+   "zaman": "2026-11-05T21:56:31+03:00",
+   "kelimeler": [
+    "abd",
+    "baris",
+    "buyuk",
+    "cin",
+    "den",
+    "dunya",
+    "gore",
+    "ingil",
+    "israi",
+    "kore",
+    "kuzey",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3864fe21db72": {
+   "id": "3864fe21db72",
+   "kaynak": "AA",
+   "baslik": "Hollanda'da Batı Nil virüsünden hayatını kaybedenlerin sayısı 12'ye yükseldi",
+   "ozet": "Hollanda Ulusal Halk Sağlığı ve Çevre Enstitüsü (RIVM), bu yıl Batı Nil virüsü nedeniyle hayatını kaybedenlerin sayısının 12'ye, toplam vaka sayısının 77'ye yükseldiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/hollandada-bati-nil-virusunden-hayatini-kaybedenlerin-sayisi-12ye-yukseldi/4113391",
+   "zaman": "2026-11-05T22:01:39+03:00",
+   "kelimeler": [
+    "12",
+    "bati",
+    "hayat",
+    "holla",
+    "kaybe",
+    "nil",
+    "sayis",
+    "virus",
+    "ye",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7d9bad6a4711": {
+   "id": "7d9bad6a4711",
+   "kaynak": "TRT Haber",
+   "baslik": "Paraguay Devlet Başkanı Santiago Pena, görevinden istifa etti",
+   "ozet": "Paraguay Devlet Başkanı Santiago Pena, partisinin destek verdiği azil sürecinin ardından görevinden istifa ettiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/paraguay-devlet-baskani-santiago-pena-gorevinden-istifa-etti-962370.html",
+   "zaman": "2026-11-05T22:05:00+03:00",
+   "kelimeler": [
+    "baska",
+    "devle",
+    "etti",
+    "gorev",
+    "istif",
+    "parag",
+    "pena",
+    "santi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "468209236d9f": {
+   "id": "468209236d9f",
+   "kaynak": "AA",
+   "baslik": "Google, ABD'nin Wyoming eyaletinde 17 milyar dolarlık veri merkezi yatırımı yapacak",
+   "ozet": "Google, ABD'nin Wyoming eyaletinde inşa edeceği ilk veri merkezi kapsamında eyalete uzun vadeli 17 milyar dolarlık yatırım yapacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/google-abdnin-wyoming-eyaletinde-17-milyar-dolarlik-veri-merkezi-yatirimi-yapacak/4113395",
+   "zaman": "2026-11-05T22:09:19+03:00",
+   "kelimeler": [
+    "17",
+    "abd",
+    "dolar",
+    "eyale",
+    "googl",
+    "merke",
+    "milya",
+    "nin",
+    "veri",
+    "wyomi",
+    "yapac",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f3500a29398d": {
+   "id": "f3500a29398d",
+   "kaynak": "Sözcü",
+   "baslik": "Özgür Özel adaylığını duyurdu ve 17 maddelik programlarını açıkladı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/ozel-17-baslikli-programini-acikladi-hedef-cumhurbaskanligi-ve-meclis-cogunlugu-p376447",
+   "zaman": "2026-11-05T22:12:44+03:00",
+   "kelimeler": [
+    "17",
+    "adayl",
+    "duyur",
+    "madde",
+    "ozel",
+    "ozgur",
+    "progr"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 22:16:52  5 yeni haber",
+  "05.11 22:16:52  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "05.11 22:02:40  5 yeni haber",
   "05.11 21:31:18  1 yeni haber",
   "05.11 21:16:05  2 yeni haber",
@@ -32488,9 +32564,7 @@
   "03.11 18:46:07  4 yeni haber",
   "03.11 18:31:39  8 yeni haber",
   "03.11 18:16:26  2 yeni haber",
-  "03.11 18:16:26  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "03.11 18:01:28  6 yeni haber",
-  "03.11 17:47:27  6 yeni haber"
+  "03.11 18:16:26  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
