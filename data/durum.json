@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "77cd50ea665f": {
-   "id": "77cd50ea665f",
-   "kaynak": "TRT Haber",
-   "baslik": "Osmaniye'de 4,2 büyüklüğünde deprem",
-   "ozet": "Osmaniye'nin Sumbas ilçesinde 4,2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/osmaniyede-42-buyuklugunde-deprem-961989.html",
-   "zaman": "2026-11-02T21:05:00+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "osman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6dd905c61909"
-  },
-  "613ce1ed6c83": {
-   "id": "613ce1ed6c83",
-   "kaynak": "Sözcü",
-   "baslik": "AFAD duyurdu: Osmaniye'de 4,2 büyüklüğünde deprem",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/osmaniye-deprem-2-kasim-2026-p375343",
-   "zaman": "2026-11-02T21:07:33+03:00",
-   "kelimeler": [
-    "afad",
-    "buyuk",
-    "depre",
-    "duyur",
-    "osman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6dd905c61909"
-  },
-  "79329d9fad7c": {
-   "id": "79329d9fad7c",
-   "kaynak": "AA",
-   "baslik": "Osmaniye'de 4,2 büyüklüğünde deprem",
-   "ozet": "Osmaniye'nin Sumbas ilçesinde saat 20.58'de 4,2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/osmaniyede-4-2-buyuklugunde-deprem/4109093",
-   "zaman": "2026-11-02T21:10:49+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "osman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6dd905c61909"
-  },
-  "14de814aa902": {
-   "id": "14de814aa902",
-   "kaynak": "NTV",
-   "baslik": "Osmaniye'de 4,2 büyüklüğünde deprem",
-   "ozet": "Osmaniye'de 4,2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/osmaniyede-42-buyuklugunde-deprem-1749090",
-   "zaman": "2026-11-02T21:11:12+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "osman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "6dd905c61909"
-  },
   "e2b0ce4a83fb": {
    "id": "e2b0ce4a83fb",
    "kaynak": "XHABER",
@@ -228,21 +162,6 @@
     "hakan",
     "killa",
     "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b0e452aed475": {
-   "id": "b0e452aed475",
-   "kaynak": "AA",
-   "baslik": "Gençlerbirliği, Alanyaspor'u 5-0 yendi",
-   "ozet": "Gençlerbirliği, Trendyol Süper Lig'in 10. haftasında sahasında Corendon Alanyaspor'u 5-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-alanyasporu-5-0-yendi/4109097",
-   "zaman": "2026-11-02T21:14:49+03:00",
-   "kelimeler": [
-    "alany",
-    "gencl",
-    "yendi"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -32225,7 +32144,10 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ca9a031a8f16": {
    "id": "ca9a031a8f16",
@@ -32246,9 +32168,101 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0e3eb5fa17e3": {
+   "id": "0e3eb5fa17e3",
+   "kaynak": "TRT Haber",
+   "baslik": "İranlı yetkili, ABD'nin doğrudan müzakere önerisini Tahran'ın kabul etmediğini söyledi",
+   "ozet": "İran Yüksek Siber Uzay Konseyi Üyesi İzzetullah Zergami, Rusya Devlet Başkanı Vladimir Putin'in, Tahran ile Washington arasında doğrudan müzakerelerin başlatılması için arabuluculuk talebinde bulunduğunu ancak İran'ın bu öneriyi kabul etmediğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iranli-yetkili-abdnin-dogrudan-muzakere-onerisini-tahranin-kabul-etmedigini-soyledi-962367.html",
+   "zaman": "2026-11-05T20:57:00+03:00",
+   "kelimeler": [
+    "abd",
+    "dogru",
+    "etmed",
+    "in",
+    "iranl",
+    "kabul",
+    "muzak",
+    "nin",
+    "oneri",
+    "soyle",
+    "tahra",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b7de3a9e2d6d"
+  },
+  "d4cf3cc92780": {
+   "id": "d4cf3cc92780",
+   "kaynak": "AA",
+   "baslik": "NATO, İHA karşıtı teknolojilerin tedarikini hızlandırmak için yeni pazar yeri oluşturdu",
+   "ozet": "NATO, Ankara Zirvesi'nde kabul ettiği \"Drone Edge\" programı kapsamında insansız hava araçlarına (İHA) karşı geliştirilen teknolojilerin tedarikini hızlandırmak amacıyla İHA karşıtı sistemler için yeni bir pazar yeri oluşturduğunu duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-iha-karsiti-teknolojilerin-tedarikini-hizlandirmak-icin-yeni-pazar-yeri-olusturdu/4113348",
+   "zaman": "2026-11-05T21:09:17+03:00",
+   "kelimeler": [
+    "hizla",
+    "iha",
+    "karsi",
+    "nato",
+    "olust",
+    "pazar",
+    "tedar",
+    "tekno",
+    "yeni",
+    "yeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "133ab9c80b9f": {
+   "id": "133ab9c80b9f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Afyon'da en az 8 kişiyi öldüren saldırgan yakalandı",
+   "ozet": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo",
+   "zaman": "2026-11-05T21:13:34+03:00",
+   "kelimeler": [
+    "afyon",
+    "az",
+    "kisiy",
+    "oldur",
+    "saldi",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
+  },
+  "903bbccb80ba": {
+   "id": "903bbccb80ba",
+   "kaynak": "XHABER",
+   "baslik": "Afyonkarahisar'da 8 kişiyi öldüren zanlının yakalandığı anlar.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30535",
+   "zaman": "2026-11-05T21:14:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "SON DAKİKA | Afyonkarahisar'da 8 kişiyi öldüren zanlının yakalandığı anlar.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/TcxUySQOV9IhWeET57PobSizWFr7fURQn0LVAULymMt9_5BsXszvYHf2FxHpmAbKeB_0V9iDeitp7YAhRfYrbtfGNGoUf6bzHh7rs_UqhR2vGCd4UgN6_R7v3N9Qc3nIw2uMKySVGZU0ruX0XqYBIyO612JsbfgbW2rR7Q_y6ih19y1PICBkP4-0hrO972EkM2FEvV3f55AXOh1MAHMTf4jAHcpUOwgZ2g1dwnV5HnLmd2wvPbBTplCuK74GrM2_XfaTA8_uiAZiEZxxB4UBthAiLAPr9p8joK0wOhnt96HHR0x2rBO9ARZOwqYLB4NKm0Q6nDz3B0HUZnXyV9patA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/6183e110a3.mp4?token=Nm410tZw-Fvr49nnCyf_amk4pnRuiDnK71MyXN5pbzRwaQwXuCYynBkfZ89wqkoXb4Ye3hDcAxxCxV4fTGPbYMTVR3vd8NqA_qegAcm8i132tN2Bvp5CTyV8DZcdWV2W-qcML4n7Q7N_znRnhSETPdggUrGRoDd4k7ccRIu3MMwH4HGqqJjzia7sTf35PkP0tjtxGc0mybawTT-YEgSJkJsg7_J-L-tAM8sZfH_zIjwTUcfltEEx06Vvapb5p7CAAd2Tuw0r-Z6yIcRMn_Jm8Ja7cXS5fcGo5gK6Ga4tQEanEGYrVUgxONqKDFUt0_pWeSJ5PvzobaCScmU71VDXiQ",
+   "kelimeler": [
+    "afyon",
+    "anlar",
+    "kisiy",
+    "oldur",
+    "yakal",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "133ab9c80b9f"
   }
  },
  "kayit": [
+  "05.11 21:16:05  2 yeni haber",
   "05.11 21:01:41  1 yeni haber",
   "05.11 20:59:23  4 yeni haber",
   "05.11 20:31:57  3 yeni haber",
@@ -32447,8 +32461,7 @@
   "03.11 18:01:28  6 yeni haber",
   "03.11 17:47:27  6 yeni haber",
   "03.11 17:31:28  4 yeni haber",
-  "03.11 17:20:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fenerbahçe'de teknik sorumlu Kuyt: İyi bir performansla reaksiyon göst",
-  "03.11 17:16:25  6 yeni haber"
+  "03.11 17:20:22  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fenerbahçe'de teknik sorumlu Kuyt: İyi bir performansla reaksiyon göst"
  ],
  "otomatik": false
 }
