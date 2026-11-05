@@ -31209,7 +31209,10 @@
     "saldi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "95d064bf4245": {
    "id": "95d064bf4245",
@@ -31226,6 +31229,29 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "a51b359a6c07"
+  },
+  "365d4176caf0": {
+   "id": "365d4176caf0",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunun Gazze Şeridi'ndeki bir çadıra düzenlediği hava saldırısında 1 kişi öldü",
+   "ozet": "İsrail ordusunun Gazze Şeridi’nde yerinden edilmiş Filistinlilerin sığındığı bir çadıra düzenlediği hava saldırısında 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazze-seridindeki-bir-cadira-duzenledigi-hava-saldirisinda-1-kisi-oldu/4112142",
+   "zaman": "2026-11-05T06:11:24+03:00",
+   "kelimeler": [
+    "cadir",
+    "duzen",
+    "gazze",
+    "hava",
+    "israi",
+    "kisi",
+    "ndeki",
+    "ordus",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e826cdc49d22"
   }
  },
  "kayit": [
