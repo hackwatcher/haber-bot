@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "1015a921c80d": {
-   "id": "1015a921c80d",
-   "kaynak": "XHABER",
-   "baslik": "Merkez Bankası Kulesi'nin tepesine yıldırım düştü.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30494",
-   "zaman": "2026-11-02T22:49:11+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Merkez Bankası Kulesi'nin tepesine yıldırım düştü.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/NSxhnwWTk1SVtnO5pdhm_lopb2GmhTeWq-5BpJZ8iElHpA_DOysccG6MuWWGOLBsFRFxTonoA8GH2wmPCPWPDUXnp--wSEgt3bVdTrKGE3-tRuZCv6H8HeeZAkbNdO70M8aFp9TUXogo2nquCOiCAxiHgKno2kcM0nDi3d2EngYX7xY7niZSj0QxU--rYNDzBUTrtbabRtaBSIcWAhgGzWFbRZ8PzSTHP6bdGapFiMx-yKUCYsF9ahekR9p8ZtgJvLjGTrrxQ7Sa_vXk7WPL-orumc34ckyov7TD8COUX0bxdqj3XIQYCW_-xfO7lucncE_nz63vu_eyhVKUfDisVw",
-   "tg_video_url": "https://cdn4.telesco.pe/file/ed6821e124.mp4?token=jP0yV5nRgmO1yuzpzOhfF_mqA6LCnqWB6ovsvSNNry7N_he7Z7GJpn5FjtBwqspqsPKytw-a88Q17IuqxSo09laVdNH1woPAnaYDaXjbJHqYMnHEjxzWOyXlW-fpPLSI-EAUeZyaGgCJH3JdzTh6g6HfkRCx6Q9wwsESF2w3qeEVWtvyGve_rCsH8a08AZai5_IRKyjlsPL1z9J-loaI0_xaEF1Aqnq4Txcys4JIfcQY6P0Cvkf-pPWjQMBamG3i67gXBsgXNipXk_Abiot8auKitG4rFFvimQju57XjBr4XtArFSsOr0m_CRxUPpj07LmhJQIAi2IGmyc7DM17Asw",
-   "kelimeler": [
-    "banka",
-    "dustu",
-    "kules",
-    "merke",
-    "nin",
-    "tepes",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a90251a171cc": {
-   "id": "a90251a171cc",
-   "kaynak": "NTV",
-   "baslik": "Van'da rahatsızlanan asker şehit oldu",
-   "ozet": "Van'da rahatsızlanan Piyade Uzman Çavuş Oğuz Şahin şehit oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/vanda-rahatsizlanan-asker-sehit-oldu-1749099",
-   "zaman": "2026-11-02T23:00:59+03:00",
-   "kelimeler": [
-    "asker",
-    "rahat",
-    "sehit",
-    "van"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7be5692f6c9b"
-  },
   "2f9c5f8c8405": {
    "id": "2f9c5f8c8405",
    "kaynak": "XHABER",
@@ -32352,10 +32312,57 @@
     "tutuk"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "8bb21567e101": {
+   "id": "8bb21567e101",
+   "kaynak": "TRT Haber",
+   "baslik": "Fatma Betül Sayan Kaya tutuklama talebiyle hakimliğe sevk edildi",
+   "ozet": "Fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya, \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklama talebiyle hakimliğe sevk edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-tutuklama-talebiyle-hakimlige-sevk-edildi-962372.html",
+   "zaman": "2026-11-05T22:51:00+03:00",
+   "kelimeler": [
+    "betul",
+    "edild",
+    "fatma",
+    "hakim",
+    "kaya",
+    "sayan",
+    "sevk",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "27bfd5df8c74"
+  },
+  "25c68f83407c": {
+   "id": "25c68f83407c",
+   "kaynak": "AA",
+   "baslik": "AB ve IEA, petrol stoklarının kullanıma yönelik adımları koordine ediyor",
+   "ozet": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol ile G7'nin üzerinde uzlaştığı petrol stoklarının kullanıma sunulmasına yönelik adımları koordine ettiklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-ve-iea-petrol-stoklarinin-kullanima-yonelik-adimlari-koordine-ediyor/4113440",
+   "zaman": "2026-11-05T22:59:00+03:00",
+   "kelimeler": [
+    "ab",
+    "adiml",
+    "ediyo",
+    "iea",
+    "koord",
+    "kulla",
+    "petro",
+    "stokl",
+    "yonel"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "05.11 23:01:24  1 yeni haber",
   "05.11 22:46:00  3 yeni haber",
   "05.11 22:31:21  3 yeni haber",
   "05.11 22:16:52  5 yeni haber",
@@ -32554,8 +32561,7 @@
   "03.11 19:31:29  4 yeni haber",
   "03.11 19:16:01  5 yeni haber",
   "03.11 19:02:40  5 yeni haber",
-  "03.11 18:46:07  4 yeni haber",
-  "03.11 18:31:39  8 yeni haber"
+  "03.11 18:46:07  4 yeni haber"
  ],
  "otomatik": false
 }
