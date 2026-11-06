@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "e259c8cf0abc": {
-   "id": "e259c8cf0abc",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil İsrail askerlerinin saldırılarında 2 Filistinli yaralandı",
-   "ozet": "Katil İsrail askerlerinin işgal altındaki Batı Şerianın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israil-askerlerinin-saldirilarinda-2-filistinli-yaralandi-962010.html",
-   "zaman": "2026-11-03T05:49:00+03:00",
-   "kelimeler": [
-    "asker",
-    "filis",
-    "israi",
-    "katil",
-    "saldi",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "bb2d54a5063b": {
    "id": "bb2d54a5063b",
    "kaynak": "TRT Haber",
@@ -32235,7 +32217,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d0c265be7163": {
    "id": "d0c265be7163",
@@ -32298,9 +32283,45 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "249ffb874ede": {
+   "id": "249ffb874ede",
+   "kaynak": "TRT Haber",
+   "baslik": "Kayseri'de çelik fabrikasında yangın",
+   "ozet": "Kayseri'nin Melikgazi ilçesinde çelik fabrikasında çıkan yangın söndürüldü, dumandan etkilenen 3 işçi hastanede tedavi altına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kayseride-celik-fabrikasinda-yangin-962383.html",
+   "zaman": "2026-11-06T02:54:00+03:00",
+   "kelimeler": [
+    "celik",
+    "fabri",
+    "kayse",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "35961061ffc2": {
+   "id": "35961061ffc2",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
+   "ozet": "Katil İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da çiftçilere yönelik saldırılarında 4 Filistinli yaralandı, onlarca zeytin ağacı yakıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-4-filistinliyi-yaraladi-962384.html",
+   "zaman": "2026-11-06T04:04:00+03:00",
+   "kelimeler": [
+    "bati",
+    "filis",
+    "isgal",
+    "israi",
+    "seria",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2a66fa539559"
   }
  },
  "kayit": [
+  "06.11 06:01:35  1 yeni haber",
   "06.11 05:16:01  1 yeni haber",
   "06.11 05:01:26  1 yeni haber",
   "06.11 03:31:15  2 yeni haber",
@@ -32499,8 +32520,7 @@
   "03.11 23:31:33  2 yeni haber",
   "03.11 23:16:30  5 yeni haber",
   "03.11 23:01:42  3 yeni haber",
-  "03.11 22:46:19  3 yeni haber",
-  "03.11 22:32:22  3 yeni haber"
+  "03.11 22:46:19  3 yeni haber"
  ],
  "otomatik": false
 }
