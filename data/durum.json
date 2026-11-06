@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "54e324cfae19": {
-   "id": "54e324cfae19",
-   "kaynak": "TRT Haber",
-   "baslik": "Valilikten Ankaralılara soğuk hava ve zirai don uyarısı",
-   "ozet": "Ankara'da yarından itibaren hava sıcaklıkları hissedilir derecede azalacak. Valilik, 410 Kasım tarihleri arasında sıcaklığın 0 dereceye kadar düşmesinin beklendiğini ve yerel ölçekte zirai don riski bulunduğunu açıkladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/valilikten-ankaralilara-soguk-hava-ve-zirai-don-uyarisi-962131.html",
-   "zaman": "2026-11-03T20:41:00+03:00",
-   "kelimeler": [
-    "ankar",
-    "don",
-    "hava",
-    "soguk",
-    "uyari",
-    "valil",
-    "zirai"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b36232b29143": {
-   "id": "b36232b29143",
-   "kaynak": "AA",
-   "baslik": "Gazze'de biri komiser, biri çocuk 3 kişi İsrail saldırısı sonucu hayatını kaybetti",
-   "ozet": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda biri polis komiseri, bir çocuk olmak üzere 3 Filistinli yaşamını yitirdi, 11 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-biri-komiser-biri-cocuk-3-kisi-israil-saldirisi-sonucu-hayatini-kaybetti/4110404",
-   "zaman": "2026-11-03T20:42:42+03:00",
-   "kelimeler": [
-    "biri",
-    "cocuk",
-    "gazze",
-    "hayat",
-    "israi",
-    "kaybe",
-    "kisi",
-    "komis",
-    "saldi",
-    "sonuc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "91025eadf6fd": {
    "id": "91025eadf6fd",
    "kaynak": "Hürriyet",
@@ -19605,7 +19561,8 @@
    "diger_kaynaklar": [
     "AA",
     "NTV",
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "2e37f8705585": {
@@ -29616,7 +29573,10 @@
     "yakla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "fc597d8ffa3e": {
    "id": "fc597d8ffa3e",
@@ -30197,9 +30157,126 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c74cf4b64305": {
+   "id": "c74cf4b64305",
+   "kaynak": "AA",
+   "baslik": "Bakan Bayraktar: \"Milli Enerji 2040\", 108 bin doğrudan, 250 bin kişiye dolaylı istihdam sağlayacak bir kalkınma hamlesi",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Türkiye'nin enerjideki yeni yol haritası \"Milli Enerji 2040\"a ilişkin \"Yaklaşık 108 bin doğrudan, yaklaşık 250 bin kişiye de dolaylı iş sağlayacak çok önemli bir kalkınma hamlesinden bahsediyorum\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-milli-enerji-2040-108-bin-dogrudan-250-bin-kisiye-dolayli-istihdam-saglayacak-bir-kalkinma-hamlesi/4114617",
+   "zaman": "2026-11-06T20:01:55+03:00",
+   "kelimeler": [
+    "108",
+    "2040",
+    "250",
+    "bakan",
+    "bayra",
+    "bin",
+    "dogru",
+    "dolay",
+    "enerj",
+    "hamle",
+    "istih",
+    "kalki",
+    "kisiy",
+    "milli",
+    "sagla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5bc4b88e089a"
+  },
+  "87f3fa7a3f5c": {
+   "id": "87f3fa7a3f5c",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’un yanı başı… Valilik saat vererek uyardı... Kar kalınlığı 20 santimetreyi bulacak",
+   "ozet": "Bolu Valiliği, yarın başlayarak pazar gününe kadar kent genelinde etkili olması beklenen kuvvetli karla karışık yağmur ve kar yağışına karşı vatandaşları uyardı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulun-yani-basi-valilik-saat-vererek-uyardi-kar-kalinligi-20-santimetreyi-bulacak-43368863",
+   "zaman": "2026-11-06T20:29:00+03:00",
+   "kelimeler": [
+    "20",
+    "basi",
+    "bulac",
+    "istan",
+    "kalin",
+    "kar",
+    "saat",
+    "santi",
+    "un",
+    "uyard",
+    "valil",
+    "verer",
+    "yani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b57af5386c3": {
+   "id": "2b57af5386c3",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz'dan fon tasfiye süreciyle ilgili açıklama",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"13 Kasım'da önemli miktarda ödeme yapma konusunda hazırlık içindeyiz. En düşük yatırımcıdan en yükseğe doğru ödemeleri yaptırıyoruz\" açıklamasını yaptı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-fon-tasfiye-sureciyle-ilgili-aciklama-962464.html",
+   "zaman": "2026-11-06T20:30:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "dan",
+    "fon",
+    "ilgil",
+    "surec",
+    "tasfi",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "562e0f540c3a"
+  },
+  "35eb3098c468": {
+   "id": "35eb3098c468",
+   "kaynak": "AA",
+   "baslik": "İtalya Başbakanı Meloni, siber saldırılardan ve uçaklara yönelik bomba ihbarlarından endişeli",
+   "ozet": "İtalya Başbakanı Giorgia Meloni, son günlerde Avrupa'da gıda soğutma sistemlerine yönelik siber saldırılar ile sivil uçuşlara yönelik bomba ihbarlarının artmasının endişe verici olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/italya-basbakani-meloni-siber-saldirilardan-ve-ucaklara-yonelik-bomba-ihbarlarindan-endiseli/4114633",
+   "zaman": "2026-11-06T20:34:59+03:00",
+   "kelimeler": [
+    "basba",
+    "bomba",
+    "endis",
+    "ihbar",
+    "italy",
+    "melon",
+    "saldi",
+    "siber",
+    "ucakl",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "46c3ba12c741": {
+   "id": "46c3ba12c741",
+   "kaynak": "AA",
+   "baslik": "Fransa'daki gösterilerde polis şiddeti yargıya taşınacak",
+   "ozet": "Fransa'daki gösterilerde polis şiddetine maruz kaldıklarını savunan göstericiler, siyasetçiler ve gazeteciler şikayetçi olacak.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-gosterilerde-polis-siddeti-yargiya-tasinacak/4114636",
+   "zaman": "2026-11-06T20:38:32+03:00",
+   "kelimeler": [
+    "daki",
+    "frans",
+    "goste",
+    "polis",
+    "sidde",
+    "tasin",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 20:46:09  3 yeni haber",
   "06.11 20:31:25  5 yeni haber",
   "06.11 20:16:04  2 yeni haber",
   "06.11 20:02:11  6 yeni haber",
@@ -30398,8 +30475,7 @@
   "04.11 15:01:27  5 yeni haber",
   "04.11 14:46:11  3 yeni haber",
   "04.11 14:31:26  8 yeni haber",
-  "04.11 14:17:22  9 yeni haber",
-  "04.11 14:01:43  4 yeni haber"
+  "04.11 14:17:22  9 yeni haber"
  ],
  "otomatik": false
 }
