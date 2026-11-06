@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "ff6c7e08ec27": {
-   "id": "ff6c7e08ec27",
-   "kaynak": "AA",
-   "baslik": "UKMTO: Umman açıklarında bir tankere bilinmeyen 2 mühimmat isabet etti",
-   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman'ın Lima bölgesinin 14 deniz mili kuzeydoğusunda bir tankere bilinmeyen 2 cismin isabet ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tankere-bilinmeyen-2-muhimmat-isabet-etti/4110581",
-   "zaman": "2026-11-04T00:16:50+03:00",
-   "kelimeler": [
-    "acikl",
-    "bilin",
-    "etti",
-    "isabe",
-    "muhim",
-    "tanke",
-    "ukmto",
-    "umman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "21b499350256": {
    "id": "21b499350256",
    "kaynak": "TRT Haber",
@@ -30426,9 +30406,112 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "fbe2c4573562"
+  },
+  "4d222048744c": {
+   "id": "4d222048744c",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Riyad bölgesinde bir İHA imha edildi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, başkent Riyad bölgesinde bir insansız hava aracının (İHA) engellenerek imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-riyad-bolgesinde-bir-iha-imha-edildi/4114791",
+   "zaman": "2026-11-07T00:07:27+03:00",
+   "kelimeler": [
+    "arap",
+    "bolge",
+    "edild",
+    "iha",
+    "imha",
+    "koali",
+    "riyad"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "05c588257158": {
+   "id": "05c588257158",
+   "kaynak": "TRT Haber",
+   "baslik": "11 üniversiteye rektör ataması",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 üniversiteye rektör ataması yaptı. Karar, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/11-universiteye-rektor-atamasi-962479.html",
+   "zaman": "2026-11-07T00:13:00+03:00",
+   "kelimeler": [
+    "11",
+    "atama",
+    "rekto",
+    "unive"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "NTV"
+   ],
+   "paylasildi": "2026-11-07T00:33:25.851741+03:00",
+   "ig_id": "18472080238191783",
+   "reels_id": "18049607999691391",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2424849828321500",
+   "slayt": 5,
+   "kanca": "11 ÜNİVERSİTEYE REKTÖR"
+  },
+  "245d983b27c5": {
+   "id": "245d983b27c5",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa’da kullanılmayan tekstil fabrikasında yangın",
+   "ozet": "Bursa’nın Osmangazi ilçesinde kullanılmayan tekstil fabrikasında çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Yangında can kaybı ve yaralanma yaşanmazken fabrika kullanılamaz hale geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-kullanilmayan-tekstil-fabrikasinda-yangin-43368998",
+   "zaman": "2026-11-07T00:20:00+03:00",
+   "kelimeler": [
+    "bursa",
+    "fabri",
+    "kulla",
+    "tekst",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ecad690b2a1": {
+   "id": "3ecad690b2a1",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, 11 üniversiteye rektör atadı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 üniversiteye rektör ataması yaptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801",
+   "zaman": "2026-11-07T00:25:21+03:00",
+   "kelimeler": [
+    "11",
+    "atadi",
+    "cumhu",
+    "erdog",
+    "rekto",
+    "unive"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "05c588257158"
+  },
+  "e5322c11f0af": {
+   "id": "e5322c11f0af",
+   "kaynak": "NTV",
+   "baslik": "11 üniversiteye rektör atandı",
+   "ozet": "Resmi Gazete'de yayımlanan kararla 11 üniversiteye rektör ataması yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/11-universiteye-rektor-atandi-1749733",
+   "zaman": "2026-11-07T00:31:06+03:00",
+   "kelimeler": [
+    "11",
+    "atand",
+    "rekto",
+    "unive"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "05c588257158"
   }
  },
  "kayit": [
+  "07.11 00:33:25  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 11 üniversiteye rektör ataması",
+  "07.11 00:31:20  3 yeni haber",
   "07.11 00:03:40  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 34 ilde yasa dışı bahis operasyonu: 90 şüpheli tutuklandı",
   "07.11 00:01:32  2 yeni haber",
   "06.11 23:46:00  3 yeni haber",
@@ -30626,9 +30709,7 @@
   "04.11 17:46:01  5 yeni haber",
   "04.11 17:31:22  9 yeni haber",
   "04.11 17:18:05  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bakan Gürlek'ten yasa dışı bahis operasyonlarına ilişkin açıklama: 9 a",
-  "04.11 17:16:01  5 yeni haber",
-  "04.11 17:01:22  6 yeni haber",
-  "04.11 16:46:06  2 yeni haber"
+  "04.11 17:16:01  5 yeni haber"
  ],
  "otomatik": false
 }
