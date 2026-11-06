@@ -31865,7 +31865,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "5edac21b6a1c": {
    "id": "5edac21b6a1c",
@@ -32092,7 +32094,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "25275296f0bb": {
    "id": "25275296f0bb",
@@ -32257,9 +32262,140 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2a66fa539559"
+  },
+  "f631cb327362": {
+   "id": "f631cb327362",
+   "kaynak": "TRT Haber",
+   "baslik": "10. TRT World Forum Merkezsiz Dünya temasıyla İstanbul'da toplanacak",
+   "ozet": "Küresel güç dengelerinin ve yeni dünya düzeninin tartışılacağı 10. TRT World Forum, bugün İstanbul Kongre Merkezi'nde kapılarını açıyor. Açılışına Cumhurbaşkanı Recep Tayyip Erdoğan'ın da katılması beklenen forum, 'Merkezsiz Dünya' temasıyla uluslararası krizlere çözüm arayacak.",
+   "link": "https://www.trthaber.com/haber/gundem/10-trt-world-forum-merkezsiz-dunya-temasiyla-istanbulda-toplanacak-962386.html",
+   "zaman": "2026-11-06T06:10:00+03:00",
+   "kelimeler": [
+    "10",
+    "dunya",
+    "forum",
+    "istan",
+    "merke",
+    "temas",
+    "topla",
+    "trt",
+    "world"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1d788e0a02e": {
+   "id": "f1d788e0a02e",
+   "kaynak": "Sözcü",
+   "baslik": "Beşiktaş, Avrupa’da kayıp! Siyah-beyazlılar Celtic’e mağlup oldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/besiktas-avrupa-da-kayip-siyah-beyazlilar-celtic-e-maglup-oldu-p376425",
+   "zaman": "2026-11-06T06:17:28+03:00",
+   "kelimeler": [
+    "avrup",
+    "besik",
+    "beyaz",
+    "celti",
+    "kayip",
+    "maglu",
+    "siyah"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eed83504dc2a"
+  },
+  "8f5efc93f24e": {
+   "id": "8f5efc93f24e",
+   "kaynak": "TRT Haber",
+   "baslik": "16 il için sarı uyarı: Kuvvetli yağışa dikkat",
+   "ozet": "Yurdun güneydoğu kesimlerinde beklenen kuvvetli yağışlar nedeniyle 16 il için \"sarı\" kodlu uyarıda bulunuldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/16-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-962389.html",
+   "zaman": "2026-11-06T06:19:00+03:00",
+   "kelimeler": [
+    "16",
+    "dikka",
+    "il",
+    "kuvve",
+    "sari",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc89562c4d59": {
+   "id": "dc89562c4d59",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin İsrail Büyükelçisi, İsrail'e yardımın ne zaman durdurulacağına ilişkin netlik bulunmadığını savundu",
+   "ozet": "ABD'nin İsrail Büyükelçisi Mike Huckabee, ABD Başkanı Donald Trump'ın İsrail'e 4 milyar dolarlık yardımın durdurulacağı yönündeki açıklamasının ardından, yardımın ne zaman durdurulacağına ilişkin netlik bulunmadığını savundu.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-israil-buyukelcisi-israile-yardimin-ne-zaman-durdurulacagina-iliskin-netlik-bulunmadigini-savundu-962387.html",
+   "zaman": "2026-11-06T06:19:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bulun",
+    "buyuk",
+    "durdu",
+    "ilisk",
+    "israi",
+    "netli",
+    "nin",
+    "savun",
+    "yardi",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "18e7aeead035": {
+   "id": "18e7aeead035",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
+   "ozet": "ABD Başkanı Donald Trump, Vietnam Savaşı'nda binlerce ABD askerinin kaybedildiğini hatırlatarak, kendi yönetiminin ise sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini iddia etti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-sadece-18-kayipla-hurmuz-bogazinda-kontrolu-saglayabildigini-one-surdu-962388.html",
+   "zaman": "2026-11-06T06:21:00+03:00",
+   "kelimeler": [
+    "18",
+    "bogaz",
+    "hurmu",
+    "kayip",
+    "kontr",
+    "nda",
+    "one",
+    "sadec",
+    "sagla",
+    "surdu",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c14da914a3d4"
+  },
+  "afd78cd1a616": {
+   "id": "afd78cd1a616",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail Cumhurbaşkanı Herzog, hükümet kurma görevini vereceği ismi pazar günü açıklayacak",
+   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, hükümeti kurma görevini vereceği ismi pazar günü açıklayacağını söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/israil-cumhurbaskani-herzog-hukumet-kurma-gorevini-verecegi-ismi-pazar-gunu-aciklayacak-962390.html",
+   "zaman": "2026-11-06T06:22:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "gorev",
+    "gunu",
+    "herzo",
+    "hukum",
+    "ismi",
+    "israi",
+    "kurma",
+    "pazar",
+    "verec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 06:29:49  4 yeni haber",
   "06.11 06:01:35  1 yeni haber",
   "06.11 05:16:01  1 yeni haber",
   "06.11 05:01:26  1 yeni haber",
@@ -32458,8 +32594,7 @@
   "03.11 23:46:21  3 yeni haber",
   "03.11 23:31:33  2 yeni haber",
   "03.11 23:16:30  5 yeni haber",
-  "03.11 23:01:42  3 yeni haber",
-  "03.11 22:46:19  3 yeni haber"
+  "03.11 23:01:42  3 yeni haber"
  ],
  "otomatik": false
 }
