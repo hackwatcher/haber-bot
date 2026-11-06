@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "304f0d842253": {
-   "id": "304f0d842253",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye, COP31 zirvesine hazır: İklim diplomasisinin kalbi Antalya'da atacak",
-   "ozet": "Türkiye, 920 Kasım 2026'da Antalya'da düzenlenecek COP31 İklim Zirvesi ile dünyaya ev sahipliği yapacak.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-cop31-zirvesine-hazir-iklim-diplomasisinin-kalbi-antalyada-atacak-962015.html",
-   "zaman": "2026-11-03T06:30:00+03:00",
-   "kelimeler": [
-    "antal",
-    "ataca",
-    "cop31",
-    "diplo",
-    "hazir",
-    "iklim",
-    "kalbi",
-    "turki",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "82e73ef5f30f": {
-   "id": "82e73ef5f30f",
-   "kaynak": "TRT Haber",
-   "baslik": "Meksika'da küçük uçak düştü: 2 kişi hayatını kaybetti",
-   "ozet": "Meksika'nın Hidalgo eyaletinde yerleşim yerine küçük bir uçağın düşmesi sonucu 2 kişinin yaşamını yitirdiği bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/meksikada-kucuk-ucak-dustu-2-kisi-hayatini-kaybetti-962014.html",
-   "zaman": "2026-11-03T06:32:00+03:00",
-   "kelimeler": [
-    "dustu",
-    "hayat",
-    "kaybe",
-    "kisi",
-    "kucuk",
-    "meksi",
-    "ucak"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a4dfbe40c933"
-  },
   "dccd441a4a08": {
    "id": "dccd441a4a08",
    "kaynak": "Hürriyet",
@@ -22811,7 +22769,10 @@
     "sicak"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3d43f3aff6ae": {
    "id": "3d43f3aff6ae",
@@ -32392,9 +32353,78 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8af0ac40ad76": {
+   "id": "8af0ac40ad76",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump'ın, ABD Savunma Bakanı Hegseth'in yerine geçebilecek isimleri değerlendirdiği iddiası",
+   "ozet": "ABD Başkanı Donald Trump'ın, Savunma Bakanı Pete Hegseth'in yerine geçebilecek yeni kişileri değerlendirdiği iddia edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/trumpin-abd-savunma-bakani-hegsethin-yerine-gecebilecek-isimleri-degerlendirdigi-iddiasi-962391.html",
+   "zaman": "2026-11-06T06:23:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "deger",
+    "geceb",
+    "hegse",
+    "iddia",
+    "in",
+    "isiml",
+    "savun",
+    "trump",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b4d39397d3e2": {
+   "id": "b4d39397d3e2",
+   "kaynak": "TRT Haber",
+   "baslik": "Hafta sonu kış havası yaşanacak: Sıcaklıklar sert düşüyor, kar ve fırtına geliyor",
+   "ozet": "Hafta sonu yurt genelinde hava sıcaklıklarının hissedilir derecede düşeceği, Karadeniz ve Güneydoğu'da kuvvetli yağış, Doğu Anadolu'da kar, kıyı ve iç kesimlerde ise fırtınanın etkili olması bekleniyor.",
+   "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-kis-havasi-yasanacak-sicakliklar-sert-dusuyor-kar-ve-firtina-geliyor-962392.html",
+   "zaman": "2026-11-06T06:27:00+03:00",
+   "kelimeler": [
+    "dusuy",
+    "firti",
+    "geliy",
+    "hafta",
+    "havas",
+    "kar",
+    "kis",
+    "sert",
+    "sicak",
+    "sonu",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b6f93e01e2c2"
+  },
+  "8a6a0199184e": {
+   "id": "8a6a0199184e",
+   "kaynak": "TRT Haber",
+   "baslik": "Yatmadan önce canınız abur cubur mu çekiyor? İşte nedenleri ve neler yapabileceğiniz",
+   "ozet": "Akşam yemeğinin ardından gelen atıştırma isteği, birçok insanın karşılaştığı yaygın bir durum olarak öne çıkıyor. Yapılan araştırmalar, insanların yaklaşık üçte birinin akşam yemeğinden sonra gece saatlerinde atıştırdığını gösteriyor.",
+   "link": "https://www.trthaber.com/haber/dunya/yatmadan-once-caniniz-abur-cubur-mu-cekiyor-iste-nedenleri-ve-neler-yapabileceginiz-962393.html",
+   "zaman": "2026-11-06T06:34:00+03:00",
+   "kelimeler": [
+    "abur",
+    "canin",
+    "cekiy",
+    "cubur",
+    "iste",
+    "neden",
+    "neler",
+    "yapab",
+    "yatma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 06:45:59  2 yeni haber",
   "06.11 06:29:49  4 yeni haber",
   "06.11 06:01:35  1 yeni haber",
   "06.11 05:16:01  1 yeni haber",
@@ -32593,8 +32623,7 @@
   "04.11 00:04:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Galatasaray, Stuttgart'ı iki golle geçti",
   "03.11 23:46:21  3 yeni haber",
   "03.11 23:31:33  2 yeni haber",
-  "03.11 23:16:30  5 yeni haber",
-  "03.11 23:01:42  3 yeni haber"
+  "03.11 23:16:30  5 yeni haber"
  ],
  "otomatik": false
 }
