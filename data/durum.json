@@ -1,78 +1,5 @@
 {
  "haberler": {
-  "44d0dd0186f8": {
-   "id": "44d0dd0186f8",
-   "kaynak": "Hürriyet",
-   "baslik": "Kılıçdaroğlu’ndan Mekke diplomasisi",
-   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, TBMM Genel Kurulu’nda bugün görüşülecek Mekke Anlaşması’yla ilgili kaygılarını gidermek için Yemenli yetkililerle görüştüğünü açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-mekke-diplomasisi-43365189",
-   "zaman": "2026-11-04T01:20:33+03:00",
-   "kelimeler": [
-    "diplo",
-    "kilic",
-    "mekke",
-    "ndan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "65cf6ead46ff": {
-   "id": "65cf6ead46ff",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusunun Batı Şeria'da düzenlediği baskınlarında 2 Filistinli yaralandı",
-   "ozet": "İsrail ordusunun, işgal altındaki Batı Şeria'da düzenlediği baskınlarda 2 Filistinlinin yaralandığı ve 6 kişinin gözaltına alındığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-seriada-duzenledigi-baskinlarinda-2-filistinli-yaralandi/4110623",
-   "zaman": "2026-11-04T01:23:44+03:00",
-   "kelimeler": [
-    "baski",
-    "bati",
-    "duzen",
-    "filis",
-    "israi",
-    "ordus",
-    "seria",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a124ef17edd3"
-  },
-  "cc94c1f0ba38": {
-   "id": "cc94c1f0ba38",
-   "kaynak": "Hürriyet",
-   "baslik": "Bahçeli: Siyasette arınma ertelenemez",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, “Siyasette arınma ve aklanma ertelenemez bir gereklilik” dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bahceli-siyasette-arinma-ertelenemez-43365191",
-   "zaman": "2026-11-04T01:24:19+03:00",
-   "kelimeler": [
-    "arinm",
-    "bahce",
-    "ertel",
-    "siyas"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0ac36b7e4ef3": {
-   "id": "0ac36b7e4ef3",
-   "kaynak": "Hürriyet",
-   "baslik": "Şanlıurfa'da dehşet anları! Cinnet getirdi, anne ve ablasını öldürdü",
-   "ozet": "Şanlıurfa'da cinnet getiren genç, anne ve ablasını silahla vurarak öldürdü, 11 yaşındaki kız kardeşini ise ağır yaraladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sanliurfada-dehset-anlari-cinnet-getirdi-anne-ve-ablasini-oldurdu-43365192",
-   "zaman": "2026-11-04T01:25:00+03:00",
-   "kelimeler": [
-    "ablas",
-    "anlar",
-    "anne",
-    "cinne",
-    "dehse",
-    "getir",
-    "oldur",
-    "sanli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "456c3c475138": {
    "id": "456c3c475138",
    "kaynak": "BBC Türkçe",
@@ -25190,7 +25117,8 @@
     "uygul"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c9b3dca3722c": {
    "id": "c9b3dca3722c",
@@ -30310,7 +30238,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA",
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ],
    "paylasildi": "2026-11-07T00:33:25.851741+03:00",
    "ig_id": "18472080238191783",
@@ -30534,9 +30463,111 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c6c9f0bb52ce": {
+   "id": "c6c9f0bb52ce",
+   "kaynak": "AA",
+   "baslik": "Palamudun lezzeti salamurayla yaz sofralarına taşınıyor",
+   "ozet": "Karadeniz'de bu sezon yaşanan palamut bolluğu, Ordu'daki balıkçıları geleneksel salamura mesaisine yönlendirirken, palamudun lezzeti sezon sonrasına taşınıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/palamudun-lezzeti-salamurayla-yaz-sofralarina-tasiniyor/4114816",
+   "zaman": "2026-11-07T01:03:18+03:00",
+   "kelimeler": [
+    "lezze",
+    "palam",
+    "salam",
+    "sofra",
+    "tasin",
+    "yaz"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "83fde30ebb09": {
+   "id": "83fde30ebb09",
+   "kaynak": "Hürriyet",
+   "baslik": "11 üniversiteye Rektör ataması Resmi Gazete'de",
+   "ozet": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama kararları kapsamında 11 üniversiteye rektör atandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/11-universiteye-rektor-atamasi-resmi-gazetede-43369020",
+   "zaman": "2026-11-07T01:08:00+03:00",
+   "kelimeler": [
+    "11",
+    "atama",
+    "gazet",
+    "rekto",
+    "resmi",
+    "unive"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "05c588257158"
+  },
+  "b9f6014a99b8": {
+   "id": "b9f6014a99b8",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan'dan KKTC'ye ziyaretine ilişkin paylaşım",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, garantör ülke olarak Kuzey Kıbrıs Türk Cumhuriyeti'ne (KKTC) desteği sürdürdüklerini belirterek, \"Kıbrıs meselesinde en gerçekçi çözümün, Ada'daki iki devletin yan yana var olmasından geçtiğine inanıyoruz.\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidandan-kktcye-ziyaretine-iliskin-paylasim-43369022",
+   "zaman": "2026-11-07T01:16:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "disis",
+    "fidan",
+    "hakan",
+    "ilisk",
+    "kktc",
+    "payla",
+    "ye",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1697734f9042": {
+   "id": "1697734f9042",
+   "kaynak": "AA",
+   "baslik": "Katar, ABD ile İran arasında anlaşmaya varılamadığı yönündeki iddiaları yalanladı",
+   "ozet": "Katar, Başbakan ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani'nin ABD ile İran arasında anlaşmaya varılamadığı yönünde açıklama yaptığına ilişkin iddiaların gerçeği yansıtmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-abd-ile-iran-arasinda-anlasmaya-varilamadigi-yonundeki-iddialari-yalanladi-/4114822",
+   "zaman": "2026-11-07T01:16:56+03:00",
+   "kelimeler": [
+    "abd",
+    "anlas",
+    "arasi",
+    "iddia",
+    "iran",
+    "katar",
+    "varil",
+    "yalan",
+    "yonun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aa928bad6e3a"
+  },
+  "f468d6275905": {
+   "id": "f468d6275905",
+   "kaynak": "NTV",
+   "baslik": "SPK’dan 88 kişi hakkında suç duyurusu kararı",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), 3 şirketin pay piyasasındaki işlemleri nedeniyle 88 kişi hakkında suç duyurusunda bulunulmasına ve 2 yıl süreyle işlem yasağı uygulanmasına karar verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/spkdan-88-kisi-hakkinda-suc-duyurusu-karari-1749734",
+   "zaman": "2026-11-07T01:21:36+03:00",
+   "kelimeler": [
+    "88",
+    "dan",
+    "duyur",
+    "hakki",
+    "karar",
+    "kisi",
+    "spk",
+    "suc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 01:31:13  3 yeni haber",
   "07.11 01:16:02  4 yeni haber",
   "07.11 01:03:59  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Aziz Sancarın izinde: Küçük Talha Einstein Olimpiyatları'nda dünya şam",
   "07.11 01:01:40  1 yeni haber",
@@ -30735,8 +30766,7 @@
   "04.11 19:15:58  2 yeni haber",
   "04.11 19:01:32  4 yeni haber",
   "04.11 18:46:02  4 yeni haber",
-  "04.11 18:31:28  2 yeni haber",
-  "04.11 18:01:39  5 yeni haber"
+  "04.11 18:31:28  2 yeni haber"
  ],
  "otomatik": false
 }
