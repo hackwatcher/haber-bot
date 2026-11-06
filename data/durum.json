@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "de1df92cb7ea": {
-   "id": "de1df92cb7ea",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı",
-   "ozet": "İSTANBUL'da düzenlenen 19'uncu Milli İrade Buluşması programında konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye ihracatını arttırmaya devam ediyor. 25.9 milyar dolarla ekim ayları için tarihi bir rekor ihracat gerçekleştirmişiz.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiyenin-ekim-ayi-ihracati-rekor-kirdi-43365117",
-   "zaman": "2026-11-03T22:47:28+03:00",
-   "kelimeler": [
-    "ayi",
-    "cumhu",
-    "ekim",
-    "ihrac",
-    "kirdi",
-    "nin",
-    "rekor",
-    "turki",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "53a55d495815": {
-   "id": "53a55d495815",
-   "kaynak": "AA",
-   "baslik": "Fransa'da liselilerin eylemleri, üniversite öğrencilerinin desteğiyle devam ediyor",
-   "ozet": "Fransa'da hükümetin eğitim alanındaki taahhütlerini yeterli bulmayan liselilerin eylemleri, üniversite öğrencilerinin desteğiyle devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-liselilerin-eylemleri-universite-ogrencilerinin-destegiyle-devam-ediyor/4110502",
-   "zaman": "2026-11-03T22:54:46+03:00",
-   "kelimeler": [
-    "deste",
-    "devam",
-    "ediyo",
-    "eylem",
-    "frans",
-    "lisel",
-    "ogren",
-    "unive"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5021a28acbca": {
    "id": "5021a28acbca",
    "kaynak": "AA",
@@ -29805,7 +29763,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "53583cacaca2": {
    "id": "53583cacaca2",
@@ -30287,7 +30247,10 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "815577c8fbd4": {
    "id": "815577c8fbd4",
@@ -30474,9 +30437,153 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ef147334212a"
+  },
+  "ff5b3fd2385b": {
+   "id": "ff5b3fd2385b",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanlığı'ndan Fransız gemisinin Doğu Akdeniz'deki araştırma girişimine ilişkin açıklama",
+   "ozet": "Dışişleri Bakanlığı, Fransız bayraklı bir geminin Doğu Akdeniz'de Türkiye'nin kıta sahanlığında izinsiz deniz bilimsel araştırma faaliyeti gerçekleştirme niyetinde olduğunu ve faaliyet için gerekli izin sürecinin henüz tamamlanmadığını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-fransiz-gemisinin-dogu-akdenizdeki-arastirma-girisimine-iliskin-aciklama-43368934",
+   "zaman": "2026-11-06T22:19:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "akden",
+    "arast",
+    "bakan",
+    "deki",
+    "disis",
+    "dogu",
+    "frans",
+    "gemis",
+    "giris",
+    "ilisk",
+    "ndan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fe800ab685fd": {
+   "id": "fe800ab685fd",
+   "kaynak": "Hürriyet",
+   "baslik": "Yasa dışı bahis operasyonlarında yakalanan 119 zanlıdan 90'ı tutuklandı",
+   "ozet": "Nevşehir merkezli 34 ildeki yasa dışı bahis operasyonlarında gözaltına alınan 119 şüpheliden 90'ı tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-operasyonlarinda-yakalanan-119-zanlidan-90i-tutuklandi-43368941",
+   "zaman": "2026-11-06T22:33:44+03:00",
+   "kelimeler": [
+    "119",
+    "90",
+    "bahis",
+    "disi",
+    "opera",
+    "tutuk",
+    "yakal",
+    "yasa",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "725089b8c89e"
+  },
+  "5b85f7491686": {
+   "id": "5b85f7491686",
+   "kaynak": "AA",
+   "baslik": "Dışişlerinden \"Fransız bayraklı geminin Türk kıta sahanlığındaki izinsiz araştırma girişimine\" ilişkin açıklama",
+   "ozet": "Dışişleri Bakanlığı, Fransız gemisinin Doğu Akdeniz'deki Türk kıta sahanlığında yapmayı planladığı bilimsel araştırma için Türkiye'den alması gereken hukuki iznin henüz onaylanmadığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disislerinden-fransiz-bayrakli-geminin-turk-kita-sahanligindaki-izinsiz-arastirma-girisimine-iliskin-aciklama/4114711",
+   "zaman": "2026-11-06T22:37:55+03:00",
+   "kelimeler": [
+    "acikl",
+    "arast",
+    "bayra",
+    "disis",
+    "frans",
+    "gemin",
+    "giris",
+    "ilisk",
+    "izins",
+    "kita",
+    "sahan",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "f42aa1e3ccdc": {
+   "id": "f42aa1e3ccdc",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri'nden Fransız bayraklı geminin Türk kıta sahanlığındaki izinsiz araştırma girişimine tepki",
+   "ozet": "Dışişleri Bakanlığı, Fransız bayraklı geminin, Türk kıta sahanlığında \"gayrihukuki deniz bilimsel araştırma faaliyeti\" gerçekleştirme niyetine ilişkin, kıta sahanlığı sınırları dahilinde kalan kısmı için uluslararası deniz hukukunun yerleşik hükümleri uyarınca Türkiye'den…",
+   "link": "https://www.trthaber.com/haber/gundem/disislerinden-fransiz-bayrakli-geminin-turk-kita-sahanligindaki-izinsiz-arastirma-girisimine-tepki-962472.html",
+   "zaman": "2026-11-06T22:38:00+03:00",
+   "kelimeler": [
+    "arast",
+    "bayra",
+    "disis",
+    "frans",
+    "gemin",
+    "giris",
+    "izins",
+    "kita",
+    "nden",
+    "sahan",
+    "tepki",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5b85f7491686"
+  },
+  "f9adbfe28f15": {
+   "id": "f9adbfe28f15",
+   "kaynak": "TRT Haber",
+   "baslik": "TRT World Forum 2026'da 'Uluslararası Sistemde Amerikan Paradoksu' değerlendirildi",
+   "ozet": "TRT World Forum 2026'da ABD'de ara seçim sonuçlarının dış politikaya olası etkileri, küresel liderlik tartışmaları, transatlantik ilişkiler ile Washington'ın müttefikleri ve rakiplerine yönelik stratejileri değerlendirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/trt-world-forum-2026da-uluslararasi-sistemde-amerikan-paradoksu-degerlendirildi-962473.html",
+   "zaman": "2026-11-06T22:49:00+03:00",
+   "kelimeler": [
+    "2026",
+    "ameri",
+    "deger",
+    "forum",
+    "parad",
+    "siste",
+    "trt",
+    "ulusl",
+    "world"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6f9f1c89b75b": {
+   "id": "6f9f1c89b75b",
+   "kaynak": "TRT Haber",
+   "baslik": "TRT World Forum 2026'da 'Türkiye: Bölgesel Güçten Bölgeler Arası Bir Aktöre' paneli düzenlendi",
+   "ozet": "İstanbul'da düzenlenen TRT World Forum 2026 kapsamında \"Türkiye: Bölgesel Güçten Bölgeler Arası Bir Aktöre\" adlı panel düzenlendi.",
+   "link": "https://www.trthaber.com/haber/gundem/trt-world-forum-2026da-turkiye-bolgesel-gucten-bolgeler-arasi-bir-aktore-paneli-duzenlendi-962474.html",
+   "zaman": "2026-11-06T22:52:00+03:00",
+   "kelimeler": [
+    "2026",
+    "aktor",
+    "arasi",
+    "bolge",
+    "duzen",
+    "forum",
+    "gucte",
+    "panel",
+    "trt",
+    "turki",
+    "world"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e1cb4d30c81c"
   }
  },
  "kayit": [
+  "06.11 23:01:42  3 yeni haber",
   "06.11 22:46:04  3 yeni haber",
   "06.11 22:31:17  14 yeni haber",
   "06.11 21:46:00  1 yeni haber",
@@ -30675,8 +30782,7 @@
   "04.11 16:31:14  4 yeni haber",
   "04.11 16:16:04  3 yeni haber",
   "04.11 16:01:25  4 yeni haber",
-  "04.11 15:46:28  6 yeni haber",
-  "04.11 15:33:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Duraktaki metrobüsler çarpıştı: Yaralılar var"
+  "04.11 15:46:28  6 yeni haber"
  ],
  "otomatik": false
 }
