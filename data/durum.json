@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "df9ffa14f3a5": {
-   "id": "df9ffa14f3a5",
-   "kaynak": "AA",
-   "baslik": "AB, vatandaşlar için acil durumlara hazırlık rehberi yayımladı",
-   "ozet": "Avrupa Birliği (AB) Komisyonu, vatandaşların kriz durumunda ilk 3 gün boyunca temel ihtiyaçlarını kendileri karşılamaları, hazırlıklılık eğitimi ve güvenilir bilgi alınmasının sağlanması gibi tavsiyeleri içeren yeni acil durum rehberi yayımladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-vatandaslar-icin-acil-durumlara-hazirlik-rehberi-yayimladi/4110549",
-   "zaman": "2026-11-03T23:39:53+03:00",
-   "kelimeler": [
-    "ab",
-    "durum",
-    "hazir",
-    "rehbe",
-    "vatan",
-    "yayim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "39bc584e9976": {
-   "id": "39bc584e9976",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Emre Belözoğlu: Fenerbahçe'nin ikinci kez teknik direktörlük görevine getirdiği eski kaptanı",
-   "ozet": "Emre Belözoğlu, daha önce 2020-2021 sezonunun son 10 haftasında Fenerbahçe'nin başında teknik direktör olarak görev almıştı. Belözoğlu'nun Pazar günü oynanacak Çorumspor maçında takımın başında yer alması bekleniyor.",
-   "link": "https://www.bbc.com/turkce/articles/cmy93wr2w2p0o",
-   "zaman": "2026-11-03T23:45:40+03:00",
-   "kelimeler": [
-    "beloz",
-    "direk",
-    "emre",
-    "eski",
-    "fener",
-    "getir",
-    "gorev",
-    "ikinc",
-    "kapta",
-    "kez",
-    "nin",
-    "tekni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e342af46091f"
-  },
   "900f0ee07282": {
    "id": "900f0ee07282",
    "kaynak": "NTV",
@@ -27625,7 +27582,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "62d2d9814246": {
@@ -30523,9 +30481,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6453dedc496b": {
+   "id": "6453dedc496b",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail, Filistin topraklarında yetiştirdiği hurmaları kendi ürünü olarak satıyor",
+   "ozet": "İşgal altındaki Batı Şeria'daki yetiştirilen milyonlarca dolarlık organik hurmanın, son 8 yılda Avustralya'ya \"İsrail ürünü\" etiketiyle gönderildiği ortaya çıktı. İncelenen 132 tarım ürünü sevkiyatının 85'inin yasa dışı yerleşimlerden geldiği belirlendi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-filistin-topraklarinda-yetistirdigi-hurmalari-kendi-urunu-olarak-satiyor-962476.html",
+   "zaman": "2026-11-06T23:21:00+03:00",
+   "kelimeler": [
+    "filis",
+    "hurma",
+    "isgal",
+    "israi",
+    "kendi",
+    "satiy",
+    "topra",
+    "urunu",
+    "yetis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9f70b58e67d4": {
+   "id": "9f70b58e67d4",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti/4114762",
+   "zaman": "2026-11-06T23:27:29+03:00",
+   "kelimeler": [
+    "basba",
+    "cumhu",
+    "erdog",
+    "etti",
+    "hamid",
+    "kabul",
+    "malez",
+    "yardi",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a30c7f6d38a2"
+  },
+  "b6cf0563acd8": {
+   "id": "b6cf0563acd8",
+   "kaynak": "AA",
+   "baslik": "Üsküp'teki Osmanlı mirası Taşköprü dekoratif ve mimari aydınlatmaya kavuştu",
+   "ozet": "Kuzey Makedonya'nın başkenti Üsküp'ün simge yapılarından tarihi Taşköprü'de Esenler Belediyesi ile Halkbank'ın destekleriyle gerçekleştirilen aydınlatma çalışmalarının tamamlanması vesilesiyle tören düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/kultur/uskupteki-osmanli-mirasi-taskopru-dekoratif-ve-mimari-aydinlatmaya-kavustu/4114764",
+   "zaman": "2026-11-06T23:29:32+03:00",
+   "kelimeler": [
+    "aydin",
+    "dekor",
+    "kavus",
+    "mimar",
+    "miras",
+    "osman",
+    "tasko",
+    "teki",
+    "uskup"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "239e0ee0f745": {
+   "id": "239e0ee0f745",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İsrail'de koalisyon görüşmeleri: Gadi Eisenkot'tan 'önemli ilerlemeler kaydettik' açıklaması",
+   "ozet": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimleri sonrası, muhalefet partileri olası bir koalisyon noktasında ilerleme kaydedildiğini duyurdu.",
+   "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo",
+   "zaman": "2026-11-06T23:44:50+03:00",
+   "kelimeler": [
+    "acikl",
+    "eisen",
+    "gadi",
+    "gorus",
+    "ilerl",
+    "israi",
+    "kayde",
+    "koali",
+    "oneml",
+    "tan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "06.11 23:46:00  3 yeni haber",
   "06.11 23:31:20  6 yeni haber",
   "06.11 23:01:42  3 yeni haber",
   "06.11 22:46:04  3 yeni haber",
@@ -30724,8 +30769,7 @@
   "04.11 17:01:22  6 yeni haber",
   "04.11 16:46:06  2 yeni haber",
   "04.11 16:31:14  4 yeni haber",
-  "04.11 16:16:04  3 yeni haber",
-  "04.11 16:01:25  4 yeni haber"
+  "04.11 16:16:04  3 yeni haber"
  ],
  "otomatik": false
 }
