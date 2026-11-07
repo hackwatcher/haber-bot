@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "24d695f6728c": {
-   "id": "24d695f6728c",
-   "kaynak": "Hürriyet",
-   "baslik": "Nişanlısına ulaşamayınca apartmanın 3'üncü katına tırmandı",
-   "ozet": "Bursa'nın İnegöl ilçesinde nişanlısına ulaşamayan genç, 3 katlı apartmanın dış cephesinden daireye tırmanmaya çalışınca mahallede hareketli dakikalar yaşandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/nisanlisina-ulasamayinca-apartmanin-3uncu-katina-tirmandi-43365221",
-   "zaman": "2026-11-04T02:36:41+03:00",
-   "kelimeler": [
-    "apart",
-    "katin",
-    "nisan",
-    "tirma",
-    "ulasa",
-    "uncu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2d0199cc7277": {
-   "id": "2d0199cc7277",
-   "kaynak": "Sözcü",
-   "baslik": "ABD seçim heyecanı! İlk sandıklar kapandı, işte ilk sonuçlar",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/abd-secim-heyecani-ilk-sandiklar-kapandi-p375788",
-   "zaman": "2026-11-04T02:41:05+03:00",
-   "kelimeler": [
-    "abd",
-    "heyec",
-    "ilk",
-    "iste",
-    "kapan",
-    "sandi",
-    "secim",
-    "sonuc"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3ecc3a145ad2"
-  },
-  "4e1ce820614b": {
-   "id": "4e1ce820614b",
-   "kaynak": "XHABER",
-   "baslik": "Ekonomist Murat Muratoğlu :",
-   "ozet": "“Fon krizi” deyip işi hafifletmeyin! Bu bir piyasa kazası değil! Organize bir vurgun, düpedüz HIRSIZLIK! Adını doğru koyun: FON DOLANDIRICILIĞI!",
-   "link": "https://t.me/sahinozkan000/30519",
-   "zaman": "2026-11-04T02:49:59+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Ekonomist Murat Muratoğlu :\n“Fon krizi” deyip işi hafifletmeyin!\nBu bir piyasa kazası değil!\nOrganize bir vurgun, düpedüz HIRSIZLIK!\nAdını doğru koyun:\nFON DOLANDIRICILIĞI!",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/hhVSvVxvRiaeSoAxxqGLK3eTbMZ2M5hYi2dufmVBLkzi5MKd1miBSvA1r8zZRMy3vXihsaRqrA0cGDyg3XDU250vqK7vObgWZOX7FttjzJjmgxSWdwRBleuKwkvktH_GXS6TSB2kZfUAWbOfKQEbjBp-GpoY5K6Ke9hdsgdsLKh-u3UiIzkP1sKHWjKv3CaIyZtEE03EmacfTXuHhqsUWWf_eoWrKfOEoyRuTzRs3Ndb8isRNiTZZIlVzBitB5vl8RtPnTk6dGimD2YPCGJewRmNE7j_RblZ7vQfUlHMQVxSRVjHW6EIjcrYXJn6GqrKz9Z70OVp-DxzM4_0lUy8kw.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "ekono",
-    "murat"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-04T07:04:04.088167+03:00",
-   "ig_id": "17895891618681850",
-   "reels_id": "18112013585231831",
-   "story_id": "18253935385309635",
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2037997566908854",
-   "slayt": 5,
-   "kanca": "ORGANİZE VURGUN VE HIRSIZLIK"
-  },
   "de5d982d68b1": {
    "id": "de5d982d68b1",
    "kaynak": "AA",
@@ -109,26 +43,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "d97179335e8d": {
-   "id": "d97179335e8d",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump: İran'ı derhal vurma planımız yok",
-   "ozet": "Trump, yakın zamanda İran'a saldırı düzenlemeyi planlamadıklarını söyledi. Ancak gerektiğinde askeri harekata hazır olduklarını da vurguladı.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html",
-   "zaman": "2026-11-04T02:53:00+03:00",
-   "kelimeler": [
-    "derha",
-    "iran",
-    "plani",
-    "trump",
-    "vurma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
   },
   "d4100e9e0a6b": {
    "id": "d4100e9e0a6b",
@@ -30133,7 +30047,10 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "0d633fde8643": {
    "id": "0d633fde8643",
@@ -30217,7 +30134,10 @@
     "sesle"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c6c9f0bb52ce": {
    "id": "c6c9f0bb52ce",
@@ -30531,9 +30451,216 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8fb8690c6f42"
+  },
+  "f687b5a7d344": {
+   "id": "f687b5a7d344",
+   "kaynak": "AA",
+   "baslik": "Gazze'de şiddetli yağışlar nedeniyle yerinden edilen Filistinlilerin çadırlarını su bastı",
+   "ozet": "İsrail ordusunun soykırıma varan saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'nde etkili olan şiddetli yağışlar, yerinden edilen Filistinlilerin çadırlarını sular altında bıraktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-siddetli-yagislar-nedeniyle-yerinden-edilen-filistinlilerin-cadirlarini-su-basti/4114827",
+   "zaman": "2026-11-07T02:05:06+03:00",
+   "kelimeler": [
+    "basti",
+    "cadir",
+    "edile",
+    "filis",
+    "gazze",
+    "neden",
+    "sidde",
+    "su",
+    "yagis",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c7bb40423c04": {
+   "id": "c7bb40423c04",
+   "kaynak": "TRT Haber",
+   "baslik": "İran basını: Keşm Adası'nda patlama sesleri duyuldu",
+   "ozet": "ABDİran hattında tansiyon yüksek. İran basını, Keşm Adası'na iki füzenin isabet ettiğini, patlama sesleri duyulduğunu bildirdi. İran ordusu, ada üzerinde ABD'ye ait bir insansız hava aracını düşürdüklerini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-basini-kesm-adasinda-patlama-sesleri-duyuldu-962483.html",
+   "zaman": "2026-11-07T02:12:00+03:00",
+   "kelimeler": [
+    "adasi",
+    "basin",
+    "duyul",
+    "iran",
+    "kesm",
+    "nda",
+    "patla",
+    "sesle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6e1d99482b0e"
+  },
+  "09ab762e124b": {
+   "id": "09ab762e124b",
+   "kaynak": "NTV",
+   "baslik": "Birçok şehirde yılın ilk karı yağdı",
+   "ozet": "Meteorolojinin kar ve sağanak uyarılarının ardından birçok ile yılın ilk karı yağdı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bircok-sehirde-yilin-ilk-kari-yagdi-1749736",
+   "zaman": "2026-11-07T02:19:10+03:00",
+   "kelimeler": [
+    "birco",
+    "ilk",
+    "kari",
+    "sehir",
+    "yagdi",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "990d4c18f49f": {
+   "id": "990d4c18f49f",
+   "kaynak": "AA",
+   "baslik": "ABD'de Trump'ı \"öldürmekle tehdit ettiği\" gerekçesiyle Beyaz Saray yakınlarında 1 şüpheli gözaltına alındı",
+   "ozet": "ABD'de Beyaz Saray yakınlarında, Başkan Donald Trump'ı \"öldürmekle tehdit ettiği\" gerekçesiyle 1 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-trumpi-oldurmekle-tehdit-ettigi-gerekcesiyle-beyaz-saray-yakinlarinda-1-supheli-gozaltina-alindi/4114829",
+   "zaman": "2026-11-07T02:27:34+03:00",
+   "kelimeler": [
+    "abd",
+    "alind",
+    "beyaz",
+    "ettig",
+    "gerek",
+    "gozal",
+    "oldur",
+    "saray",
+    "suphe",
+    "tehdi",
+    "trump",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5212636da28a": {
+   "id": "5212636da28a",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusunun Batı Şeria baskınlarına ilişkin Filistin güvenlik güçlerini bilgilendirmeyi durdurduğu belirtildi",
+   "ozet": "İsrail ordusu komuta kademesinin, işgal altındaki Batı Şeria'daki baskın ve saldırılara ilişkin Filistin güvenlik güçlerinin önceden bilgilendirilmesi uygulamasına son verdiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-seria-baskinlarina-iliskin-filistin-guvenlik-guclerini-bilgilendirmeyi-durdurdugu-belirtildi/4114830",
+   "zaman": "2026-11-07T02:33:37+03:00",
+   "kelimeler": [
+    "baski",
+    "bati",
+    "belir",
+    "bilgi",
+    "durdu",
+    "filis",
+    "gucle",
+    "guven",
+    "ilisk",
+    "israi",
+    "ordus",
+    "seria"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2a66fa539559"
+  },
+  "22ad9e7c41fa": {
+   "id": "22ad9e7c41fa",
+   "kaynak": "NTV",
+   "baslik": "Sonbahar bitmeden kış geldi. İstanbul'da kar soğuğu, Karadeniz ve Doğu Anadolu'da kar yağışı var",
+   "ozet": "Uzmanlara göre bu yıl kış erken geldi, daha sonbahar bitmeden Türkiye genelinde soğuk hava etkili olmaya başladı. Bazı iller beyaza bürünürken, İstanbul'da hafta sonu sıcaklık 6 dereceye düşecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sonbahar-bitmeden-kis-geldi-istanbulda-kar-sogugu-karadeniz-ve-dogu-anadoluda-kar-yagisi-var-1749737",
+   "zaman": "2026-11-07T02:44:31+03:00",
+   "kelimeler": [
+    "anado",
+    "bitme",
+    "dogu",
+    "geldi",
+    "istan",
+    "kar",
+    "karad",
+    "kis",
+    "sogug",
+    "sonba",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e8c9ac79be2": {
+   "id": "5e8c9ac79be2",
+   "kaynak": "Hürriyet",
+   "baslik": "Faizsiz kredi, müstehcenlik ve yasa dışı bahis operasyonu: 17 tutuklama",
+   "ozet": "KAYSERİ’de ‘faizsiz kredi dolandırıcılığı’, ‘çevrimiçi müstehcenlik’ ve ‘yasa dışı bahis’ suçlarına yönelik düzenlenen operasyonda gözaltına alınan 26 şüpheliden 17’si tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/faizsiz-kredi-mustehcenlik-ve-yasa-disi-bahis-operasyonu-17-tutuklama-43369055",
+   "zaman": "2026-11-07T02:45:14+03:00",
+   "kelimeler": [
+    "17",
+    "bahis",
+    "disi",
+    "faizs",
+    "kredi",
+    "muste",
+    "opera",
+    "tutuk",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2b3df76efb80": {
+   "id": "2b3df76efb80",
+   "kaynak": "AA",
+   "baslik": "SPK'den 3 şirketin pay piyasasındaki işlemlere ilişkin suç duyurusu kararı",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), pay piyasalarında gerçekleştirilen işlemler nedeniyle 88 kişi hakkında suç duyurusunda bulunulmasına karar verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832",
+   "zaman": "2026-11-07T02:47:36+03:00",
+   "kelimeler": [
+    "den",
+    "duyur",
+    "ilisk",
+    "islem",
+    "karar",
+    "pay",
+    "piyas",
+    "sirke",
+    "spk",
+    "suc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c254c86bf8b": {
+   "id": "6c254c86bf8b",
+   "kaynak": "Hürriyet",
+   "baslik": "İçişleri Bakanı Çiftçi’den fon soruşturmasına ilişkin açıklama: Şu ana kadar 433 şüpheli şahıstan 112'si tutuklanmış durumda",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturmasına ilişkin, \"Şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda. 186'sı da adli kontrol kaydıyla serbest bırakılmış durumda. 38 firari hakkında da yakalama kararı çıkarılmış durumda.",
+   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftciden-fon-sorusturmasina-iliskin-aciklama-su-ana-kadar-433-supheli-sahistan-112si-tutuklanmis-durumda-43369056",
+   "zaman": "2026-11-07T02:50:00+03:00",
+   "kelimeler": [
+    "112",
+    "433",
+    "acikl",
+    "ana",
+    "bakan",
+    "ciftc",
+    "den",
+    "durum",
+    "fon",
+    "icisl",
+    "ilisk",
+    "sahis",
+    "si",
+    "sorus",
+    "su",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ad3e59b5a166"
   }
  },
  "kayit": [
+  "07.11 03:01:26  6 yeni haber",
   "07.11 02:16:11  1 yeni haber",
   "07.11 02:01:23  7 yeni haber",
   "07.11 01:31:13  3 yeni haber",
@@ -30732,8 +30859,7 @@
   "04.11 19:46:06  3 yeni haber",
   "04.11 19:34:11  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Netanyahu, İsrail seçimlerinde 'resmen' çoğunluğu kaybetti.",
   "04.11 19:32:05  2 yeni haber",
-  "04.11 19:15:58  2 yeni haber",
-  "04.11 19:01:32  4 yeni haber"
+  "04.11 19:15:58  2 yeni haber"
  ],
  "otomatik": false
 }
