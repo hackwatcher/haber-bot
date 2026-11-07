@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "4a999d6fb938": {
-   "id": "4a999d6fb938",
-   "kaynak": "TRT Haber",
-   "baslik": "Kekova Batığı Guinness Rekorlar Kitabı'nda",
-   "ozet": "Antalya'nın Kekova Adası yakınlarında su altı kazılarında ortaya çıkarılan gemi batığı, Guinness Rekorlar Kitabı'na dünyanın en eski batığı olarak girdi.",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/kekova-batigi-guinness-rekorlar-kitabinda-962213.html",
-   "zaman": "2026-11-04T12:24:00+03:00",
-   "kelimeler": [
-    "batig",
-    "guinn",
-    "kekov",
-    "kitab",
-    "nda",
-    "rekor"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "180ac719d101": {
-   "id": "180ac719d101",
-   "kaynak": "Hürriyet",
-   "baslik": "\"İmamoğlu davası\"nda 104. duruşma başladı: Gizli tanıklar dinleniyor",
-   "ozet": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 104. duruşması başladı. Duruşma, gizli tanıkların dinlenmesiyle devam ediyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/imamoglu-davasinda-104-durusma-basladi-gizli-taniklar-dinleniyor-43365602",
-   "zaman": "2026-11-04T12:28:00+03:00",
-   "kelimeler": [
-    "104",
-    "basla",
-    "davas",
-    "dinle",
-    "durus",
-    "gizli",
-    "imamo",
-    "nda",
-    "tanik"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "6bd0bfc0bd48": {
    "id": "6bd0bfc0bd48",
    "kaynak": "NTV",
@@ -1320,30 +1277,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "5430315c8204": {
-   "id": "5430315c8204",
-   "kaynak": "AA",
-   "baslik": "İsrailli milletvekili, \"asıl düşmanımız Netanyahu ve çetesi\" diyerek Eisenkot'a hükümet kurma çağrısı yaptı",
-   "ozet": "İsrail'de Ortak Liste Milletvekili Ofer Cassif, Yashar Partisi lideri Gadi Eisenkot'un bölge için en büyük tehdidin Netanyahu ve ortakları olduğunu anlayacağını belirterek, hükümeti kurması için Cumhurbaşkanına Eisenkot'u önereceklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-milletvekili-asil-dusmanimiz-netanyahu-ve-cetesi-diyerek-eisenkota-hukumet-kurma-cagrisi-yapti/4111274",
-   "zaman": "2026-11-04T12:31:07+03:00",
-   "kelimeler": [
-    "asil",
-    "cagri",
-    "cetes",
-    "diyer",
-    "dusma",
-    "eisen",
-    "hukum",
-    "israi",
-    "kurma",
-    "mille",
-    "netan",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "c10a6e7cbb6e": {
    "id": "c10a6e7cbb6e",
@@ -26279,7 +26212,8 @@
     "zelan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "9687e062a328": {
    "id": "9687e062a328",
@@ -29264,7 +29198,10 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f5ad5af22a44": {
    "id": "f5ad5af22a44",
@@ -29390,9 +29327,127 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6c996a46f557": {
+   "id": "6c996a46f557",
+   "kaynak": "AA",
+   "baslik": "Kocaelispor, 18 yıl sonra milli takıma kaleci gönderdi",
+   "ozet": "Kocaelispor'un genç file bekçisi Serhat Öztaşdelen, 18 yıl aradan sonra yeşil-siyahlı kulüpten A Milli Futbol Takımı'na davet edilen ilk oyuncu oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-18-yil-sonra-milli-takima-kaleci-gonderdi/4114971",
+   "zaman": "2026-11-07T11:17:15+03:00",
+   "kelimeler": [
+    "18",
+    "gonde",
+    "kalec",
+    "kocae",
+    "milli",
+    "takim",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "99c76bd0caef": {
+   "id": "99c76bd0caef",
+   "kaynak": "AA",
+   "baslik": "Sosyal medya kentlerin deneyimlenme biçimini değiştirirken yerel kimliklerini de gölgeliyor",
+   "ozet": "Bir zamanlar sokaklarında yürünerek keşfedilen, yerel mekanları ve kendine özgü mimarisiyle hafızalara kazınan kentlerin artık daha çok dijital ekranlar üzerinden tanınması, şehirlerin yerel kimliklerinin arka planda kalmasına yol açabiliyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/sosyal-medya-kentlerin-deneyimlenme-bicimini-degistirirken-yerel-kimliklerini-de-golgeliyor/4114981",
+   "zaman": "2026-11-07T11:24:31+03:00",
+   "kelimeler": [
+    "bicim",
+    "degis",
+    "deney",
+    "golge",
+    "kentl",
+    "kimli",
+    "medya",
+    "sosya",
+    "yerel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15e10e386723": {
+   "id": "15e10e386723",
+   "kaynak": "TRT Haber",
+   "baslik": "Ege Denizi için fırtına uyarısı",
+   "ozet": "Meteoroloji Genel Müdürlüğü, Ege Denizi için fırtına uyarısında bulundu.",
+   "link": "https://www.trthaber.com/haber/turkiye/ege-denizi-icin-firtina-uyarisi-962521.html",
+   "zaman": "2026-11-07T12:16:00+03:00",
+   "kelimeler": [
+    "deniz",
+    "ege",
+    "firti",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c96f1b2483c9": {
+   "id": "c96f1b2483c9",
+   "kaynak": "AA",
+   "baslik": "Aydın'da mobilya fabrikasında çıkan yangına müdahale ediliyor",
+   "ozet": "Aydın'ın Kuşadası ilçesinde mobilya fabrikasının deposunda çıkan yangını itfaiye ekipleri söndürmeye çalışıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/aydinda-mobilya-fabrikasinda-cikan-yangina-mudahale-ediliyor/4115027",
+   "zaman": "2026-11-07T12:17:24+03:00",
+   "kelimeler": [
+    "aydin",
+    "cikan",
+    "edili",
+    "fabri",
+    "mobil",
+    "mudah",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "205948927d77"
+  },
+  "aedb9fab1a4a": {
+   "id": "aedb9fab1a4a",
+   "kaynak": "AA",
+   "baslik": "Türk Telekom'un patent başvurularındaki başarısı ödüllendirildi",
+   "ozet": "Türk Telekom, 2025 yılında yerli patent ve faydalı model başvurularında firmalar kategorisinde elde ettiği birincilik dolayısıyla Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından ödüllendirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-patent-basvurularindaki-basarisi-odullendirildi/4115035",
+   "zaman": "2026-11-07T12:24:05+03:00",
+   "kelimeler": [
+    "basar",
+    "basvu",
+    "odull",
+    "paten",
+    "telek",
+    "turk",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "75d249c8246c": {
+   "id": "75d249c8246c",
+   "kaynak": "AA",
+   "baslik": "Yeni Zelanda'daki genel seçimlerde oy sayım işlemi sürüyor",
+   "ozet": "Okyanusya ülkesi Yeni Zelanda'da yeni hükümeti belirlemek üzere düzenlenen genel seçimlerde oy sayım işleminin sürdüğü belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yeni-zelandadaki-genel-secimlerde-oy-sayim-islemi-suruyor/4115038",
+   "zaman": "2026-11-07T12:26:36+03:00",
+   "kelimeler": [
+    "daki",
+    "genel",
+    "islem",
+    "oy",
+    "sayim",
+    "secim",
+    "suruy",
+    "yeni",
+    "zelan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "800f336b378c"
   }
  },
  "kayit": [
+  "07.11 12:31:23  4 yeni haber",
   "07.11 12:21:08  2 yeni haber",
   "07.11 12:19:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında eski SPK yöneticileri tutuklandı",
   "07.11 12:16:06  8 yeni haber",
@@ -29591,8 +29646,7 @@
   "05.11 06:46:07  2 yeni haber",
   "05.11 06:31:22  1 yeni haber",
   "05.11 05:16:05  1 yeni haber",
-  "05.11 03:46:09  2 yeni haber",
-  "05.11 03:31:39  1 yeni haber"
+  "05.11 03:46:09  2 yeni haber"
  ],
  "otomatik": false
 }
