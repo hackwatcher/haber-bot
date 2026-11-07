@@ -1,93 +1,5 @@
 {
  "haberler": {
-  "066169a3cf58": {
-   "id": "066169a3cf58",
-   "kaynak": "Hürriyet",
-   "baslik": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
-   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219",
-   "zaman": "2026-11-04T19:32:08+03:00",
-   "kelimeler": [
-    "ayi",
-    "ekim",
-    "fiyat",
-    "gelis",
-    "nu",
-    "rapor",
-    "tcmb",
-    "yayim"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f92cd306ffc8"
-  },
-  "40f1d88e310d": {
-   "id": "40f1d88e310d",
-   "kaynak": "AA",
-   "baslik": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle 97 doların altına geriledi",
-   "ozet": "Brent petrolün ocak vadeli varil fiyatı, ABD'deki ara seçimlerin etkisiyle yaklaşık yüzde 6 düşüşle 97 doların altına geriledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829",
-   "zaman": "2026-11-04T19:38:00+03:00",
-   "kelimeler": [
-    "97",
-    "abd",
-    "altin",
-    "ara",
-    "brent",
-    "deki",
-    "dolar",
-    "etkis",
-    "fiyat",
-    "geril",
-    "petro",
-    "secim",
-    "varil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "TRT Haber"
-   ]
-  },
-  "306664489295": {
-   "id": "306664489295",
-   "kaynak": "TRT Haber",
-   "baslik": "Şişli'deki alt geçidi su bastı",
-   "ozet": "İstanbul'un Şişli ilçesinde kuvvetli sağanak nedeniyle alt geçitte su baskını meydana geldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/sislideki-alt-gecidi-su-basti-962255.html",
-   "zaman": "2026-11-04T19:34:00+03:00",
-   "kelimeler": [
-    "alt",
-    "basti",
-    "deki",
-    "gecid",
-    "sisli",
-    "su"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d4c75660573c": {
-   "id": "d4c75660573c",
-   "kaynak": "Hürriyet",
-   "baslik": "\"MİT görevlisiyiz\" yalanıyla 3,5 milyon liralık vurgun! Suçüstü yakalandılar",
-   "ozet": "Antalya'da kendilerini Milli İstihbarat Teşkilatı (MİT) görevlisi olarak tanıtarak bir kişiyi yaklaşık 218 bin lira dolandıran ve arsasını 3 milyon 500 bin liraya sattırmaya çalışan 2 şüpheli suçüstü yakalandı. Şüphelilerden biri tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/mit-gorevlisiyiz-yalaniyla-3-5-milyon-liralik-vurgun-sucustu-yakalandilar-43366223",
-   "zaman": "2026-11-04T19:44:00+03:00",
-   "kelimeler": [
-    "gorev",
-    "liral",
-    "milyo",
-    "mit",
-    "sucus",
-    "vurgu",
-    "yakal",
-    "yalan"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "b4adb76a5d06": {
    "id": "b4adb76a5d06",
    "kaynak": "AA",
@@ -19183,7 +19095,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "9e62fba67a64": {
@@ -28146,7 +28059,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c1179575e890": {
    "id": "c1179575e890",
@@ -28172,7 +28088,8 @@
     "ulkel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "663e666be7bf": {
    "id": "663e666be7bf",
@@ -28195,9 +28112,166 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "df96c7ab78e8": {
+   "id": "df96c7ab78e8",
+   "kaynak": "AA",
+   "baslik": "Bakan Şimşek: Körfez'deki savaşın bölgeyi temelden değiştireceğini düşünüyorum",
+   "ozet": "Bakanı Şimşek, Körfez'deki savaşın bölgeyi temelden değiştireceğini, bölgesel aktörler arasında rekabetin azalacağı ve işbirliğinin artacağını belirterek, \"Türkiye'nin de bütün bu gelişmelerden önemli ölçüde fayda sağlaması oldukça muhtemel.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-korfezdeki-savasin-bolgeyi-temelden-degistirecegini-dusunuyorum/4115344",
+   "zaman": "2026-11-07T19:05:45+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolge",
+    "degis",
+    "deki",
+    "dusun",
+    "korfe",
+    "savas",
+    "simse",
+    "temel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c1179575e890"
+  },
+  "0db4ca766c38": {
+   "id": "0db4ca766c38",
+   "kaynak": "TRT Haber",
+   "baslik": "TRT World Forum 2026 sona erdi",
+   "ozet": "TRT tarafından bu yıl 10'uncusu düzenlenen TRT World Forum sona erdi. Dünyanın dört bir yanından siyasetçiler, akademisyenler ve uzmanlar İstanbul'daki forumda bir araya geldi. Küresel güç dengelerinden yapay zekaya kadar pek çok konu iki gün boyunca ele alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/trt-world-forum-2026-sona-erdi-962550.html",
+   "zaman": "2026-11-07T19:18:00+03:00",
+   "kelimeler": [
+    "2026",
+    "erdi",
+    "forum",
+    "sona",
+    "trt",
+    "world"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3a7e079be0b"
+  },
+  "ae808966366f": {
+   "id": "ae808966366f",
+   "kaynak": "AA",
+   "baslik": "Yazılım deneyimi olmayan gençler, \"Zero to Product\" ile fikirlerini dijital ürüne dönüştürebilecek",
+   "ozet": "Bilkent Üniversitesi öğrenci topluluğu NextGen Builders tarafından düzenlenen \"Zero to Product\", 9 Kasım'da başlayacak.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yazilim-deneyimi-olmayan-gencler-zero-to-product-ile-fikirlerini-dijital-urune-donusturebilecek/4115353",
+   "zaman": "2026-11-07T19:18:51+03:00",
+   "kelimeler": [
+    "deney",
+    "dijit",
+    "donus",
+    "fikir",
+    "gencl",
+    "olmay",
+    "produ",
+    "to",
+    "urune",
+    "yazil",
+    "zero"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "07f8a5eba29c": {
+   "id": "07f8a5eba29c",
+   "kaynak": "TRT Haber",
+   "baslik": "Krakov'daki silahlı saldırıda 5 kişi öldü, 10'dan fazla kişi yaralandı",
+   "ozet": "Polonya'nın Krakov kentinin merkezinde düzenlenen silahlı saldırıda 5 kişi hayatını kaybetti, 10'dan fazla kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/krakovdaki-silahli-saldirida-5-kisi-oldu-10dan-fazla-kisi-yaralandi-962551.html",
+   "zaman": "2026-11-07T19:21:00+03:00",
+   "kelimeler": [
+    "10",
+    "daki",
+    "dan",
+    "fazla",
+    "kisi",
+    "krako",
+    "saldi",
+    "silah",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e184f7784896"
+  },
+  "825b00041c53": {
+   "id": "825b00041c53",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: TRT ve Anadolu Ajansı dezenformasyonla mücadelede yorulmadan çalışıyor",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dijital dünyanın geleceğini hiçbir zaman yalnızca birkaç güçlü aktörün eline bırakamayacağımıza yürekten inanıyorum.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-trt-ve-anadolu-ajansi-dezenformasyonla-mucadelede-yorulmadan-calisiyor-962552.html",
+   "zaman": "2026-11-07T19:25:00+03:00",
+   "kelimeler": [
+    "ajans",
+    "anado",
+    "baska",
+    "calis",
+    "dezen",
+    "duran",
+    "ileti",
+    "mucad",
+    "trt",
+    "yorul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "99ea5faf3e60": {
+   "id": "99ea5faf3e60",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran: Dijital dünyanın geleceğini birkaç güçlü aktörün eline bırakamayacağımıza inanıyorum",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dijital dünyanın geleceğini hiçbir zaman yalnızca birkaç güçlü aktörün eline bırakamayacağımıza yürekten inanıyorum. Türkiye açısından bu mesele aynı zamanda bir dijital egemenlik meselesidir.",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-dijital-dunyanin-gelecegini-birkac-guclu-aktorun-eline-birakamayacagimiza-inaniyorum-43369843",
+   "zaman": "2026-11-07T19:36:19+03:00",
+   "kelimeler": [
+    "aktor",
+    "baska",
+    "birak",
+    "birka",
+    "dijit",
+    "dunya",
+    "duran",
+    "eline",
+    "gelec",
+    "guclu",
+    "ileti",
+    "inani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "511c434d74c3": {
+   "id": "511c434d74c3",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturması. Bulls Yatırım Yönetim Kurulu Başkanı ve Takasbank Genel Müdürü yeniden gözaltında",
+   "ozet": "Fon soruşturmasında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ve Takasbank Genel Müdürü Yunus Arıncı yeniden gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-ve-takasbank-genel-muduru-yeniden-gozaltinda-1749863",
+   "zaman": "2026-11-07T19:42:53+03:00",
+   "kelimeler": [
+    "baska",
+    "bulls",
+    "fon",
+    "genel",
+    "gozal",
+    "kurul",
+    "mudur",
+    "sorus",
+    "takas",
+    "yatir",
+    "yenid",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 19:46:06  4 yeni haber",
   "07.11 19:31:15  2 yeni haber",
   "07.11 19:16:02  3 yeni haber",
   "07.11 19:01:25  3 yeni haber",
@@ -28396,8 +28470,7 @@
   "05.11 13:46:06  4 yeni haber",
   "05.11 13:31:10  7 yeni haber",
   "05.11 13:16:09  5 yeni haber",
-  "05.11 13:04:56  1 yeni haber",
-  "05.11 13:01:30  8 yeni haber"
+  "05.11 13:04:56  1 yeni haber"
  ],
  "otomatik": false
 }
