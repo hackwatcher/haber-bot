@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "4eb7da4a9cb4": {
-   "id": "4eb7da4a9cb4",
-   "kaynak": "NTV",
-   "baslik": "Bakan Kacır duyurdu. Selden etkilenen işletmelere 1 milyon lira destek",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira kredi imkanı sunulacağını bildirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-kacir-duyurdu-selden-etkilenen-isletmelere-1-milyon-lira-destek-1749286",
-   "zaman": "2026-11-04T03:48:23+03:00",
-   "kelimeler": [
-    "bakan",
-    "deste",
-    "duyur",
-    "etkil",
-    "islet",
-    "kacir",
-    "lira",
-    "milyo",
-    "selde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6be4a2c32906"
-  },
-  "996ed5ce0c44": {
-   "id": "996ed5ce0c44",
-   "kaynak": "Sözcü",
-   "baslik": "Gece yarısı aile katliamı: Anne ve kızı öldü, 1 kızı yaralı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/gece-yarisi-aile-katliami-anne-ve-kizi-oldu-1-kizi-yarali-p375790",
-   "zaman": "2026-11-04T03:51:27+03:00",
-   "kelimeler": [
-    "aile",
-    "anne",
-    "gece",
-    "katli",
-    "kizi",
-    "yaral",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "06aa12ba2c17": {
-   "id": "06aa12ba2c17",
-   "kaynak": "Sözcü",
-   "baslik": "İspanya'da 69 kişinin öldüğü tren kazasının ardından bakan istifa etti",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/ispanyada-69-kisinin-oldugu-tren-kazasinin-ardindan-bakan-istifa-etti-p375789",
-   "zaman": "2026-11-04T03:55:29+03:00",
-   "kelimeler": [
-    "69",
-    "ardin",
-    "bakan",
-    "etti",
-    "ispan",
-    "istif",
-    "kazas",
-    "kisin",
-    "oldug",
-    "tren"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "e11bd1d8cdd1"
-  },
-  "11adbaf739d9": {
-   "id": "11adbaf739d9",
-   "kaynak": "TRT Haber",
-   "baslik": "Riyad'da erken uyarı sistemi devreye alındı",
-   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad'da erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/riyadda-erken-uyari-sistemi-devreye-alindi-962152.html",
-   "zaman": "2026-11-04T03:48:00+03:00",
-   "kelimeler": [
-    "alind",
-    "devre",
-    "erken",
-    "riyad",
-    "siste",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "56943feb20a1": {
    "id": "56943feb20a1",
    "kaynak": "TRT Haber",
@@ -19113,7 +19031,10 @@
    "fb_id": null,
    "fb_reels_id": "1132508489471926",
    "slayt": 6,
-   "kanca": "AZİL SÜRECİ VE İSTİFA"
+   "kanca": "AZİL SÜRECİ VE İSTİFA",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "468209236d9f": {
    "id": "468209236d9f",
@@ -30664,6 +30585,30 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "02c8996eb3f0"
+  },
+  "71982c9852ce": {
+   "id": "71982c9852ce",
+   "kaynak": "AA",
+   "baslik": "\"Görevi kötüye kullanmak suçundan\" azledilen Paraguay Devlet Başkanı Pena gözaltına alındı",
+   "ozet": "Sunduğu istifanın Kongre tarafından reddedilmesinin ardından Paraguay Senatosu tarafından \"görevi kötüye kullanmak\" suçundan azledilen Devlet Başkanı Santiago Pena gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gorevi-kotuye-kullanmak-sucundan-azledilen-paraguay-devlet-baskani-pena-gozaltina-alindi/4114841",
+   "zaman": "2026-11-07T03:56:19+03:00",
+   "kelimeler": [
+    "alind",
+    "azled",
+    "baska",
+    "devle",
+    "gorev",
+    "gozal",
+    "kotuy",
+    "kulla",
+    "parag",
+    "pena",
+    "sucun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7d9bad6a4711"
   }
  },
  "kayit": [
