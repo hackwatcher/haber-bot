@@ -1,63 +1,5 @@
 {
  "haberler": {
-  "b1f3063943df": {
-   "id": "b1f3063943df",
-   "kaynak": "AA",
-   "baslik": "Meteorolojiden 2 il için turuncu, 17 il için sarı kodlu uyarı",
-   "ozet": "Meteoroloji Genel Müdürlüğü, yarın beklenen kuvvetli yağış nedeniyle 2 il için turuncu, 17 il için sarı kodlu uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-2-il-icin-turuncu-17-il-icin-sari-kodlu-uyari/4111574",
-   "zaman": "2026-11-04T16:17:59+03:00",
-   "kelimeler": [
-    "17",
-    "il",
-    "kodlu",
-    "meteo",
-    "sari",
-    "turun",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ec6fbbe203e2": {
-   "id": "ec6fbbe203e2",
-   "kaynak": "AA",
-   "baslik": "İTO Yönetim Kurulu Başkanlığına Şekib Avdagiç yeniden seçildi",
-   "ozet": "İstanbul Ticaret Odası'nın (İTO) Yönetim Kurulu Başkanlığına yeniden Şekib Avdagiç seçildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ito-yonetim-kurulu-baskanligina-sekib-avdagic-yeniden-secildi/4111575",
-   "zaman": "2026-11-04T16:18:19+03:00",
-   "kelimeler": [
-    "avdag",
-    "baska",
-    "ito",
-    "kurul",
-    "secil",
-    "sekib",
-    "yenid",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cbee6634bca2": {
-   "id": "cbee6634bca2",
-   "kaynak": "TRT Haber",
-   "baslik": "Meteoroloji'den kuvvetli yağış ve kar uyarısı",
-   "ozet": "Güneydoğu Anadolunun doğusunda bu akşamdan, Orta ve Doğu Karadeniz kıyılarında ise yarın sabahtan itibaren kuvvetli yağış; bölgenin yüksek kesimlerinde ise yoğun kar bekleniyor.",
-   "link": "https://www.trthaber.com/haber/gundem/meteorolojiden-kuvvetli-yagis-ve-kar-uyarisi-962242.html",
-   "zaman": "2026-11-04T16:23:00+03:00",
-   "kelimeler": [
-    "den",
-    "kar",
-    "kuvve",
-    "meteo",
-    "uyari",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "593f89a6425f"
-  },
   "6b2ba4bc273e": {
    "id": "6b2ba4bc273e",
    "kaynak": "AA",
@@ -721,30 +663,6 @@
    "fb_reels_id": "3954968641308243",
    "slayt": 4,
    "kanca": "İFADEYE ÇAĞRILDILAR"
-  },
-  "1bef63e220b9": {
-   "id": "1bef63e220b9",
-   "kaynak": "AA",
-   "baslik": "Vakanüvis Ahmed Lütfi Efendi'nin tarihçiliği sempozyumda farklı yönleriyle ele alınıyor",
-   "ozet": "Osmanlı tarih yazıcılığının önemli isimlerinden vakanüvis Ahmed Lütfi Efendi'nin hayatı, eserleri ve tarihçilik anlayışının ele alındığı \"Dört Padişah Bir Tarihçi: Vak'anüvis Ahmed Lütfi Efendi Sempozyumu\" devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/vakanuvis-ahmed-lutfi-efendinin-tarihciligi-sempozyumda-farkli-yonleriyle-ele-aliniyor/4111577",
-   "zaman": "2026-11-04T16:18:36+03:00",
-   "kelimeler": [
-    "ahmed",
-    "alini",
-    "efend",
-    "ele",
-    "farkl",
-    "lutfi",
-    "nin",
-    "sempo",
-    "tarih",
-    "vakan",
-    "yonle"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "bc497b4167d0"
   },
   "9502d830bcd9": {
    "id": "9502d830bcd9",
@@ -25238,7 +25156,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "XHABER"
    ]
   },
   "7e6d6e1d6e3b": {
@@ -28590,9 +28509,157 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8aa5f1f9d239": {
+   "id": "8aa5f1f9d239",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Yayman: Türkiye'yi dünyanın en gelişmiş 10 ülkesinden birisi haline getireceğiz",
+   "ozet": "AK Parti Genel Başkan Yardımcısı Hüseyin Yayman, \"Türkiye'yi dünyanın ilk 10 ülkesi haline getireceksek bu Anayasa'yla bizim yol yürümemiz çok zordur. Sivil, demokrat yeni bir anayasaya ihtiyacımız vardır.\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-yayman-turkiyeyi-dunyanin-en-gelismis-10-ulkesinden-birisi-haline-getirecegiz-43369667",
+   "zaman": "2026-11-07T16:13:29+03:00",
+   "kelimeler": [
+    "10",
+    "ak",
+    "baska",
+    "biris",
+    "dunya",
+    "gelis",
+    "genel",
+    "getir",
+    "halin",
+    "parti",
+    "turki",
+    "ulkes",
+    "yardi",
+    "yayma",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7e4374505f0": {
+   "id": "f7e4374505f0",
+   "kaynak": "AA",
+   "baslik": "YÖK üniversitelerin öne çıkan çalışmalarını paylaştı",
+   "ozet": "Yükseköğretim Kurulu (YÖK), üniversitelerin sağlık, teknoloji, tarım ve kültürel mirasın korunması gibi alanlarda yürüttüğü çalışmaları paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerin-one-cikan-calismalarini-paylasti/4115214",
+   "zaman": "2026-11-07T16:14:21+03:00",
+   "kelimeler": [
+    "calis",
+    "cikan",
+    "one",
+    "payla",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d08efef8439b": {
+   "id": "d08efef8439b",
+   "kaynak": "AA",
+   "baslik": "Bodrum FK'de 4 futbolcuya milli davet",
+   "ozet": "Trendyol 1. Lig ekiplerinden Bodrum FK'de forma giyen 4 futbolcu, ülkelerinin milli takım kadrolarına davet edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/bodrum-fkde-4-futbolcuya-milli-davet/4115218",
+   "zaman": "2026-11-07T16:16:17+03:00",
+   "kelimeler": [
+    "bodru",
+    "davet",
+    "fk",
+    "futbo",
+    "milli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8b7e93dd0bab": {
+   "id": "8b7e93dd0bab",
+   "kaynak": "XHABER",
+   "baslik": "ABD, İran'ın nükleer programı hakkında bilgi verenlere 20 milyon dolara kadar ödül vadetti.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30552",
+   "zaman": "2026-11-07T16:17:11+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "ABD, İran'ın nükleer programı hakkında bilgi verenlere 20 milyon dolara kadar ödül vadetti.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/qfYNqGo6-RNdMcTpvoVcV9W4LTR1-KymOQlE4ix1wpC0yEOUNyKpmnWHg0njphsdj4lWfTUYBy9OpVJPNIlrGX8JLn9juuwr0wduTVBQRb1vMaJNLB7vCQkfI26VPnt46Ajqfk4Jg-8_XBirEPSVjMuHNOFXQRWMF0sMfdn0MxAZSO9DmSZzDmD6wmthFyz2eNKM9ti4ZyA5yVTb0OqSkuEaJzvnXMLhAAVs_Fx9GD3O3QBG5F-IKZ2pahR8vbOZ6NCvNQLXld8EW8cv-kQrqxRTsOBnRJErICFnJssjq_uB3r3GZ3roUK0tHNWVA_6RoLMfvobjtulUO-rzjdtTXg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "20",
+    "abd",
+    "bilgi",
+    "dolar",
+    "hakki",
+    "in",
+    "iran",
+    "milyo",
+    "nukle",
+    "odul",
+    "progr",
+    "vadet",
+    "veren"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "725b45f8b278"
+  },
+  "00f825096fbf": {
+   "id": "00f825096fbf",
+   "kaynak": "XHABER",
+   "baslik": "Şafak Sezer: (Bülent Ersoy'un zombi makyajı hk.)",
+   "ozet": "\"Bülent Ersoy'un normal makyajı 8.5 saat sürdü, zombi makyajı 15 dakikada bitti.\"",
+   "link": "https://t.me/sahinozkan000/30553",
+   "zaman": "2026-11-07T16:19:34+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Şafak Sezer: (Bülent Ersoy'un zombi makyajı hk.)\n\"Bülent Ersoy'un normal makyajı 8.5 saat sürdü, zombi makyajı 15 dakikada bitti.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/YsXHLXtdgmeTNGDA-tTu3JFOXmzirs-VYc6DKQWsWQING6xEycL4ghfZ8AMQXQnlQ3IB9CBYJZoPzUkb_17Xn-S-Owg94xB6bpAl5M3lpk9fSTfI3GLxuTWv6sV15ouBLB379PAuZtMRII547cVqG1uPtC0EHdJ9hcIhRb_myToCQSlTLvSWrgatjt1BkgeLGidDpFQOCHcX7ZSoMoORsYd6QySLju2pf1U08RUCJggcNEaNOokEFZMCwZn570xkqIFjawGQd-VkqTY8J517xLXC01taaFNE_tZeVTAqh-tLV4rYe7a0DKZ8iDWFhhiw7L-MbNhdL51EGVHOs8zaiw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "bulen",
+    "ersoy",
+    "hk",
+    "makya",
+    "safak",
+    "sezer",
+    "un",
+    "zombi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "049955a1e6e2": {
+   "id": "049955a1e6e2",
+   "kaynak": "XHABER",
+   "baslik": "Fon kriziyle ilgili vaaz veren imamın sözleri: - \"Borsalarla, fonlarla, şunlarla, bunlarla hırsızlar peydah oldu aziz kardeşlerim.\" - \"Milyarlarca...",
+   "ozet": "Fon kriziyle ilgili vaaz veren imamın sözleri: - \"Borsalarla, fonlarla, şunlarla, bunlarla hırsızlar peydah oldu aziz kardeşlerim.\" - \"Milyarlarca lirayı alıp götürüyorlar.\" - \"O paraları dürüm yapsalar, sadece para yeseler bir ömür bitiremezler.\" - \"Camilerdeler…",
+   "link": "https://t.me/sahinozkan000/30555",
+   "zaman": "2026-11-07T16:22:21+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Fon kriziyle ilgili vaaz veren imamın sözleri: - \"Borsalarla, fonlarla, şunlarla, bunlarla hırsızlar peydah oldu aziz kardeşlerim.\" - \"Milyarlarca lirayı alıp götürüyorlar.\" - \"O paraları dürüm yapsalar, sadece para yeseler bir ömür bitiremezler.\" - \"Camilerdeler…",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "aziz",
+    "borsa",
+    "bunla",
+    "fon",
+    "fonla",
+    "hirsi",
+    "ilgil",
+    "imami",
+    "karde",
+    "krizi",
+    "milya",
+    "peyda",
+    "sozle",
+    "sunla",
+    "vaaz",
+    "veren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 16:31:19  5 yeni haber",
   "07.11 16:16:02  4 yeni haber",
   "07.11 16:01:38  6 yeni haber",
   "07.11 15:46:00  1 yeni haber",
@@ -28791,8 +28858,7 @@
   "05.11 11:01:26  4 yeni haber",
   "05.11 10:45:59  4 yeni haber",
   "05.11 10:31:11  6 yeni haber",
-  "05.11 10:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · İş insanlarını tehdit eden çeteye operasyonda altı tutuklama",
-  "05.11 10:16:11  13 yeni haber"
+  "05.11 10:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · İş insanlarını tehdit eden çeteye operasyonda altı tutuklama"
  ],
  "otomatik": false
 }
