@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "bd66b05a6bc5": {
-   "id": "bd66b05a6bc5",
-   "kaynak": "TRT Haber",
-   "baslik": "NASA'nın Swift Gözlemevi Dünya'ya düşüyor",
-   "ozet": "ABD Havacılık ve Uzay Ajansının NASA Neil Gehrels Swift Gözlemevi'nin göreve başlamasından 22 yıl sonra kontrolsüz bir şekilde Dünya'ya doğru düşmeye başladığı bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/nasanin-swift-gozlemevi-dunyaya-dusuyor-962275.html",
-   "zaman": "2026-11-05T02:25:00+03:00",
-   "kelimeler": [
-    "dunya",
-    "dusuy",
-    "gozle",
-    "nasa",
-    "nin",
-    "swift",
-    "ya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5b02cb47c86c"
-  },
   "b02e44df9cea": {
    "id": "b02e44df9cea",
    "kaynak": "TRT Haber",
@@ -28416,7 +28396,27 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "fec63e23ba5c": {
+   "id": "fec63e23ba5c",
+   "kaynak": "NTV",
+   "baslik": "Ankara'da kar yağışı etkili oldu",
+   "ozet": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-kar-yagisi-etkili-oldu-1749884",
+   "zaman": "2026-11-08T02:23:37+03:00",
+   "kelimeler": [
+    "ankar",
+    "etkil",
+    "kar",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "27cd629d5b07"
   }
  },
  "kayit": [
