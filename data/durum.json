@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "8d254c222f4c": {
-   "id": "8d254c222f4c",
-   "kaynak": "Hürriyet",
-   "baslik": "ABD ara seçimleri sonrasında Borsa İstanbul'da yükseliş",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 4,12 değer kazanarak 11.478,13 puandan tamamladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/abd-ara-secimleri-sonrasinda-borsada-yukselis-43366168",
-   "zaman": "2026-11-04T18:35:00+03:00",
-   "kelimeler": [
-    "abd",
-    "ara",
-    "borsa",
-    "istan",
-    "secim",
-    "sonra",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "9c067679ea1f": {
-   "id": "9c067679ea1f",
-   "kaynak": "AA",
-   "baslik": "Borsa günü yükselişle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 4,12 değer kazanarak 11.478,13 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4111764",
-   "zaman": "2026-11-04T18:36:23+03:00",
-   "kelimeler": [
-    "borsa",
-    "gunu",
-    "tamam",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
-  "0c95ff697b42": {
-   "id": "0c95ff697b42",
-   "kaynak": "AA",
-   "baslik": "Nobel ödüllü bilim insanı Hinton: Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi",
-   "ozet": "Nobel ödüllü bilim insanı Geoffrey Hinton, yapay zeka teknolojisinin kontrolsüz gelişiminin insanlık için ciddi tehditler oluşturabileceğini belirterek, \"Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nobel-odullu-bilim-insani-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi/4111771",
-   "zaman": "2026-11-04T18:40:36+03:00",
-   "kelimeler": [
-    "bilim",
-    "gelis",
-    "hic",
-    "hinto",
-    "insan",
-    "iyi",
-    "nobel",
-    "odull",
-    "olabi",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d29d4c1636db"
-  },
   "02cc4dc15841": {
    "id": "02cc4dc15841",
    "kaynak": "Hürriyet",
@@ -28204,9 +28144,106 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "812cba881db7": {
+   "id": "812cba881db7",
+   "kaynak": "TRT Haber",
+   "baslik": "TRT World Forum'da enerji krizleri ve güvenliği ele alındı",
+   "ozet": "İstanbul'da TRT World Forum kapsamında \"Enerji Krizlerinin Artçı Sarsıntıları: Baskı Altındaki Kurumlar\" başlıklı panel düzenlendi.",
+   "link": "https://www.trthaber.com/haber/gundem/trt-world-forumda-enerji-krizleri-ve-guvenligi-ele-alindi-962548.html",
+   "zaman": "2026-11-07T18:31:00+03:00",
+   "kelimeler": [
+    "alind",
+    "ele",
+    "enerj",
+    "forum",
+    "guven",
+    "krizl",
+    "trt",
+    "world"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "879654e05950"
+  },
+  "0a87a17d960d": {
+   "id": "0a87a17d960d",
+   "kaynak": "AA",
+   "baslik": "İsrail saldırılarında ölen Filistinli spor camiası mensuplarının sayısı 1016'ya yükseldi",
+   "ozet": "İsrail askerlerinin Gazze Şeridi'nin güneyinde açtığı ateş sonucu 15 yaşındaki Muhammed Nidal Berbah'ın hayatını kaybetmesiyle, İsrail saldırılarında yaşamını yitiren spor camiası mensuplarının sayısı 1016'ya çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-olen-filistinli-spor-camiasi-mensuplarinin-sayisi-1016ya-yukseldi/4115318",
+   "zaman": "2026-11-07T18:34:35+03:00",
+   "kelimeler": [
+    "1016",
+    "camia",
+    "filis",
+    "israi",
+    "mensu",
+    "olen",
+    "saldi",
+    "sayis",
+    "spor",
+    "ya",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "75d47c2465e9": {
+   "id": "75d47c2465e9",
+   "kaynak": "Hürriyet",
+   "baslik": "ABD, İran’ın kara sınırları ve Hazar Denizi’ndeki askeri sevkiyatlarına karşı \"Demir Kapı Görev Gücü\"nü kurdu",
+   "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın gelişmiş silah sistemleri ve yaptırımlara tabi diğer malzemeleri kara güzergahları ve Hazar Denizi üzerinden sevk etmesini engellemeye yönelik çalışmalar kapsamında \"Demir Kapı Görev Gücü\"nün kurulduğunu açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/abd-iranin-kara-sinirlari-ve-hazar-denizindeki-askeri-sevkiyatlarina-karsi-demir-kapi-gorev-gucunu-kurdu-43369800",
+   "zaman": "2026-11-07T18:35:05+03:00",
+   "kelimeler": [
+    "abd",
+    "asker",
+    "demir",
+    "deniz",
+    "gorev",
+    "gucu",
+    "hazar",
+    "in",
+    "iran",
+    "kapi",
+    "kara",
+    "karsi",
+    "kurdu",
+    "ndeki",
+    "nu",
+    "sevki",
+    "sinir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b0f8b85e27b5": {
+   "id": "b0f8b85e27b5",
+   "kaynak": "Hürriyet",
+   "baslik": "Afyonkarahisar'daki saldırıdan kurtulan öğretmen dehşet anları anlattı: 'Yapma' diye bağırdım",
+   "ozet": "AFYONKARAHİSAR'da biçerdöver alışverişi sonrası borç alacak anlaşmazlığı nedeniyle 3 kişiyi öldürdükten sonra kaçış güzergahında kendisine aracını vermek istemeyen 5 kişiyi öldüren Arif Sefa Özdemir'in (28) saldırısından sağ kurtulan beden eğitimi öğretmeni Sultan Sema Gökçe…",
+   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-saldiridan-kurtulan-ogretmen-dehset-anlari-anlatti-yapma-diye-bagirdim-43369806",
+   "zaman": "2026-11-07T18:41:17+03:00",
+   "kelimeler": [
+    "afyon",
+    "anlar",
+    "anlat",
+    "bagir",
+    "daki",
+    "dehse",
+    "diye",
+    "kurtu",
+    "ogret",
+    "saldi",
+    "yapma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 18:46:01  3 yeni haber",
   "07.11 18:31:11  1 yeni haber",
   "07.11 18:16:16  6 yeni haber",
   "07.11 18:01:27  2 yeni haber",
@@ -28405,8 +28442,7 @@
   "05.11 12:48:47  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Bakan Kurum: Türkiye'nin dirençli şehirler vizyonu, COP31'de dünyaya i",
   "05.11 12:46:04  8 yeni haber",
   "05.11 12:31:18  9 yeni haber",
-  "05.11 12:16:02  8 yeni haber",
-  "05.11 12:01:31  8 yeni haber"
+  "05.11 12:16:02  8 yeni haber"
  ],
  "otomatik": false
 }
