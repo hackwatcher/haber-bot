@@ -1,93 +1,5 @@
 {
  "haberler": {
-  "3645484523d8": {
-   "id": "3645484523d8",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Fenerbahçe Kadıköy'de Liverpool'u ağırlıyor",
-   "ozet": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool ile Kadıköy'de karşılaşıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do",
-   "zaman": "2026-11-04T20:23:09+03:00",
-   "kelimeler": [
-    "agirl",
-    "fener",
-    "kadik",
-    "liver"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "c592cdc46a7a"
-  },
-  "5cc62f77bf33": {
-   "id": "5cc62f77bf33",
-   "kaynak": "Sözcü",
-   "baslik": "Emir Sarıgül tahliye edildi!",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/emir-sarigul-tahliye-edildi-iddiasi-p376062",
-   "zaman": "2026-11-04T20:24:19+03:00",
-   "kelimeler": [
-    "edild",
-    "emir",
-    "sarig",
-    "tahli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "Hürriyet",
-    "AA"
-   ]
-  },
-  "9a872d3e1a72": {
-   "id": "9a872d3e1a72",
-   "kaynak": "AA",
-   "baslik": "ABD Senatosu Azınlık Lideri Demokrat Schumer: İran'la savaşı sona erdireceğiz",
-   "ozet": "Demokratların Kongre'de üstünlüğü sağladığı ara seçimleri değerlendiren Senato Azınlık Lideri Chuck Schumer, Amerikan halkının İran'da ne uğruna savaşıldığını bilmediğini ve bu savaşı bitireceklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-iranla-savasi-sona-erdirecegiz/4111873",
-   "zaman": "2026-11-04T20:23:59+03:00",
-   "kelimeler": [
-    "abd",
-    "azinl",
-    "demok",
-    "erdir",
-    "iran",
-    "la",
-    "lider",
-    "savas",
-    "schum",
-    "senat",
-    "sona"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "0d4b06841401": {
-   "id": "0d4b06841401",
-   "kaynak": "TRT Haber",
-   "baslik": "BM İnsan Hakları Yüksek Komiseri Türk: Hesap sorulabilirliği mümkün kılan kurumları savunmalıyız",
-   "ozet": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, Uluslararası Ceza Mahkemesinin UCM uluslararası insan hakları ekosisteminin vazgeçilmez bir parçası olduğunu belirterek, hesap sorulabilirliği mümkün kılan kurumların savunulması gerektiğini vurguladı.",
-   "link": "https://www.trthaber.com/haber/dunya/bm-insan-haklari-yuksek-komiseri-turk-hesap-sorulabilirligi-mumkun-kilan-kurumlari-savunmaliyiz-962257.html",
-   "zaman": "2026-11-04T20:29:00+03:00",
-   "kelimeler": [
-    "bm",
-    "hakla",
-    "hesap",
-    "insan",
-    "kilan",
-    "komis",
-    "kurum",
-    "mumku",
-    "savun",
-    "sorul",
-    "turk",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "11dc8bcb2f99": {
    "id": "11dc8bcb2f99",
    "kaynak": "NTV",
@@ -107,50 +19,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5cc62f77bf33"
-  },
-  "2915831c04b2": {
-   "id": "2915831c04b2",
-   "kaynak": "Hürriyet",
-   "baslik": "Emir Sarıgül ‘Ev hapsi’ şartıyla tahliye edildi",
-   "ozet": "Sarıgül ailesine yönelik ‘kara para aklama’ ve ‘cinsel saldırı’ iddiasıyla yürütülen soruşturma kapsamında, 21 Ekim’de tutuklanan Emir Sarıgül ‘ev hapsi’ şeklindeki adli kontrolle tahliye edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-emir-sarigul-icin-ev-hapsi-karari-43366247",
-   "zaman": "2026-11-04T20:29:00+03:00",
-   "kelimeler": [
-    "edild",
-    "emir",
-    "ev",
-    "hapsi",
-    "sarig",
-    "sarti",
-    "tahli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5cc62f77bf33"
-  },
-  "e5526d3e8045": {
-   "id": "e5526d3e8045",
-   "kaynak": "TRT Haber",
-   "baslik": "Nobel ödüllü bilim insanı Hinton: Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi",
-   "ozet": "Nobel ödüllü bilim insanı Geoffrey Hinton, yapay zeka teknolojisinin kontrolsüz gelişiminin insanlık için ciddi tehditler oluşturabileceğini belirterek, \"Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi\" dedi.",
-   "link": "https://www.trthaber.com/haber/dunya/nobel-odullu-bilim-insani-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi-962258.html",
-   "zaman": "2026-11-04T20:30:00+03:00",
-   "kelimeler": [
-    "bilim",
-    "gelis",
-    "hic",
-    "hinto",
-    "insan",
-    "iyi",
-    "nobel",
-    "odull",
-    "olabi",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d29d4c1636db"
   },
   "69b1aad3f4fb": {
    "id": "69b1aad3f4fb",
@@ -28460,9 +28328,28 @@
    "fb_reels_id": "888440097629233",
    "slayt": 5,
    "kanca": "MARC MARQUEZ KAZANDI"
+  },
+  "5bbd7bd2f442": {
+   "id": "5bbd7bd2f442",
+   "kaynak": "AA",
+   "baslik": "Milli basketbolcu Cedi Osman, ameliyat edildi",
+   "ozet": "A Milli Erkek Basketbol Takımı kaptanı Cedi Osman, ameliyat edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-cedi-osman-ameliyat-edildi/4115384",
+   "zaman": "2026-11-07T20:22:55+03:00",
+   "kelimeler": [
+    "ameli",
+    "baske",
+    "cedi",
+    "edild",
+    "milli",
+    "osman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 20:31:14  1 yeni haber",
   "07.11 20:18:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
   "07.11 20:16:02  3 yeni haber",
   "07.11 20:01:40  3 yeni haber",
@@ -28661,8 +28548,7 @@
   "05.11 14:31:13  7 yeni haber",
   "05.11 14:18:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Düğününe bir hafta kala kazada ölen Safiye Kaymakçı toprağa verildi: T",
   "05.11 14:16:00  4 yeni haber",
-  "05.11 14:01:26  10 yeni haber",
-  "05.11 13:46:06  4 yeni haber"
+  "05.11 14:01:26  10 yeni haber"
  ],
  "otomatik": false
 }
