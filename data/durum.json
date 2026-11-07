@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "eddcfb7b9550": {
-   "id": "eddcfb7b9550",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan, LG Electronics heyetini kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyaret kapsamında bulunduğu Güney Kore'nin başkenti Seul'de LG Electronics'in CEO'su Lyu Jaecheol ve beraberindeki heyeti kabul etti.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-lg-electronics-heyetini-kabul-etti-962170.html",
-   "zaman": "2026-11-04T08:09:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "elect",
-    "erdog",
-    "etti",
-    "heyet",
-    "kabul",
-    "lg"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5e25887ea6a4": {
    "id": "5e25887ea6a4",
    "kaynak": "Hürriyet",
@@ -83,30 +64,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "867360e7dea1": {
-   "id": "867360e7dea1",
-   "kaynak": "TRT Haber",
-   "baslik": "Erdoğan, Güney Kore'de küresel şirketlerin üst yöneticilerini kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi temaslarda bulunmak üzere gittiği Güney Kore'nin başkenti Seul'de, ülkenin önde gelen küresel teknoloji ve sanayi şirketlerinin üst yöneticileriyle CEO bir araya geldi.",
-   "link": "https://www.trthaber.com/haber/gundem/erdogan-guney-korede-kuresel-sirketlerin-ust-yoneticilerini-kabul-etti-962170.html",
-   "zaman": "2026-11-04T08:09:00+03:00",
-   "kelimeler": [
-    "erdog",
-    "etti",
-    "guney",
-    "kabul",
-    "kore",
-    "kures",
-    "sirke",
-    "ust",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
   },
   "7e7f0c9d3500": {
    "id": "7e7f0c9d3500",
@@ -30164,9 +30121,41 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "fa395c92307f"
+  },
+  "71d29a3d6fc1": {
+   "id": "71d29a3d6fc1",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa’da aynı yöne giden otomobiller çarpıştı: Kaza anı kamerada",
+   "ozet": "Bursa’da sağa dönmek için sürücüsünün ani manevra yaptığı otomobil, aynı yönde ilerleyen başka bir otomobile çarptı. Kaza anı, araç içi kamerasına yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-ayni-yone-giden-otomobiller-carpisti-kaza-ani-kamerada-43369071",
+   "zaman": "2026-11-07T08:07:51+03:00",
+   "kelimeler": [
+    "ani",
+    "ayni",
+    "bursa",
+    "carpi",
+    "giden",
+    "kamer",
+    "kaza",
+    "otomo",
+    "yone"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-07T08:19:18.412789+03:00",
+   "ig_id": "18186724954424525",
+   "reels_id": "18100655252207169",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "28815086114850768",
+   "slayt": 4,
+   "kanca": "ANİ MANEVRA KAZASI"
   }
  },
  "kayit": [
+  "07.11 08:19:18  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa’da aynı yöne giden otomobiller çarpıştı: Kaza anı kamerada",
+  "07.11 08:15:59  1 yeni haber",
   "07.11 07:46:01  1 yeni haber",
   "07.11 07:31:10  2 yeni haber",
   "07.11 07:16:07  10 yeni haber",
@@ -30364,9 +30353,7 @@
   "04.11 22:01:27  1 yeni haber",
   "04.11 21:46:05  2 yeni haber",
   "04.11 21:31:15  1 yeni haber",
-  "04.11 21:15:58  1 yeni haber",
-  "04.11 20:47:23  1 yeni haber",
-  "04.11 20:38:33  3 yeni haber"
+  "04.11 21:15:58  1 yeni haber"
  ],
  "otomatik": false
 }
