@@ -1,78 +1,5 @@
 {
  "haberler": {
-  "b4adb76a5d06": {
-   "id": "b4adb76a5d06",
-   "kaynak": "AA",
-   "baslik": "Rusya, Odessa Limanı'nda askeri yük taşıyan gemiyi vurduğunu açıkladı",
-   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa Limanı'nda askeri yük taşıyan bir gemiyi vurduklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-odessa-limaninda-askeri-yuk-tasiyan-gemiyi-vurdugunu-acikladi/4111833",
-   "zaman": "2026-11-04T19:46:14+03:00",
-   "kelimeler": [
-    "asker",
-    "gemiy",
-    "liman",
-    "nda",
-    "odess",
-    "rusya",
-    "tasiy",
-    "vurdu",
-    "yuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "264969e9bc60": {
-   "id": "264969e9bc60",
-   "kaynak": "AA",
-   "baslik": "Bakan Kurum, COP31 alanına kurulan Konya Tropikal Kelebek Bahçesi'ni paylaştı",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 alanına kurulan Konya Tropikal Kelebek Bahçesi'nden görüntüler paylaştı.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-alanina-kurulan-konya-tropikal-kelebek-bahcesini-paylasti/4111834",
-   "zaman": "2026-11-04T19:46:25+03:00",
-   "kelimeler": [
-    "alani",
-    "bahce",
-    "bakan",
-    "cop31",
-    "keleb",
-    "konya",
-    "kurul",
-    "kurum",
-    "ni",
-    "payla",
-    "tropi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3c75530383f9": {
-   "id": "3c75530383f9",
-   "kaynak": "AA",
-   "baslik": "ABD Başkan Yardımcısı JD Vance, Cumhuriyetçilerin seçimi kaybetme nedeni olarak İran savaşına işaret etti",
-   "ozet": "ABD Başkan Yardımcısı JD Vance, Kongre ara seçimlerini Cumhuriyetçi Partinin kaybetmesinin nedenini İran'la savaş ve İsrail'le ilişkilere bağladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-jd-vance-cumhuriyetcilerin-secimi-kaybetme-nedeni-olarak-iran-savasina-isaret-etti/4111849",
-   "zaman": "2026-11-04T19:57:12+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "cumhu",
-    "etti",
-    "iran",
-    "isare",
-    "jd",
-    "kaybe",
-    "neden",
-    "savas",
-    "secim",
-    "vance",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "BBC Türkçe"
-   ]
-  },
   "37c75c29d3be": {
    "id": "37c75c29d3be",
    "kaynak": "Hürriyet",
@@ -28061,7 +27988,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA",
+    "BBC Türkçe"
    ]
   },
   "c1179575e890": {
@@ -28243,7 +28172,10 @@
     "inani"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "511c434d74c3": {
    "id": "511c434d74c3",
@@ -28268,9 +28200,167 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9be64a13db52": {
+   "id": "9be64a13db52",
+   "kaynak": "AA",
+   "baslik": "TRT World Forum 2026 sona erdi",
+   "ozet": "İstanbul'da \"Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?\" temasıyla düzenlenen TRT World Forum, oturumların tamamlanmasıyla sona erdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/trt-world-forum-2026-sona-erdi/4115346",
+   "zaman": "2026-11-07T19:08:26+03:00",
+   "kelimeler": [
+    "2026",
+    "erdi",
+    "forum",
+    "sona",
+    "trt",
+    "world"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3a7e079be0b"
+  },
+  "4672f5255f58": {
+   "id": "4672f5255f58",
+   "kaynak": "AA",
+   "baslik": "Polonya'nın Krakov kentinde düzenlenen silahlı saldırıda 5 kişi öldü, 10'dan fazla kişi yaralandı",
+   "ozet": "Polonya'nın Krakov kentinin merkezinde düzenlenen silahlı saldırıda 5 kişi hayatını kaybetti, 10'dan fazla kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/polonyanin-krakov-kentinde-duzenlenen-silahli-saldirida-5-kisi-oldu-10dan-fazla-kisi-yaralandi/4115349",
+   "zaman": "2026-11-07T19:14:27+03:00",
+   "kelimeler": [
+    "10",
+    "dan",
+    "duzen",
+    "fazla",
+    "kenti",
+    "kisi",
+    "krako",
+    "nin",
+    "polon",
+    "saldi",
+    "silah",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e184f7784896"
+  },
+  "3a6eacafd41e": {
+   "id": "3a6eacafd41e",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran: Dijital dünyanın geleceğini birkaç güçlü aktörün eline bırakamayacağımıza yürekten inanıyorum",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Duran, \"Dijital dünyanın geleceğini hiçbir zaman yalnızca birkaç güçlü aktörün eline bırakamayacağımıza yürekten inanıyorum. Türkiye açısından bu mesele aynı zamanda bir dijital egemenlik meselesidir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-dijital-dunyanin-gelecegini-birkac-guclu-aktorun-eline-birakamayacagimiza-yurekten-inaniyorum/4115363",
+   "zaman": "2026-11-07T19:29:35+03:00",
+   "kelimeler": [
+    "aktor",
+    "baska",
+    "birak",
+    "birka",
+    "dijit",
+    "dunya",
+    "duran",
+    "eline",
+    "gelec",
+    "guclu",
+    "ileti",
+    "inani",
+    "yurek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "99ea5faf3e60"
+  },
+  "59ca282b0271": {
+   "id": "59ca282b0271",
+   "kaynak": "Hürriyet",
+   "baslik": "İran sınırında 8 düzensiz göçmenin cansız bedeni bulundu",
+   "ozet": "Van'ın Özalp ilçesine bağlı Yukarıtulgalı Mahallesi’nde, İran sınır hattına yaklaşık 3 kilometre mesafedeki yol kenarında 8 erkek cesedi bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/iran-sinirinda-8-duzensiz-gocmenin-cansiz-bedeni-bulundu-43369845",
+   "zaman": "2026-11-07T19:47:00+03:00",
+   "kelimeler": [
+    "beden",
+    "bulun",
+    "cansi",
+    "duzen",
+    "gocme",
+    "iran",
+    "sinir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "55eab4b63563": {
+   "id": "55eab4b63563",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Polonya'nın Krakow kentinde silahlı saldırı: Beş ölü, en az 10 yaralı",
+   "ozet": "Polonya'nın Krakow kentinin başlıca meydanında gerçekleşen silahlı saldırıda en az beş kişi hayatını kaybetti, en az 10 kişi ise yaralandı. Polis, saldırganın kentin ana meydanına gelip, bir araçtan ateş açtığını söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego",
+   "zaman": "2026-11-07T19:50:21+03:00",
+   "kelimeler": [
+    "10",
+    "az",
+    "bes",
+    "kenti",
+    "krako",
+    "nin",
+    "olu",
+    "polon",
+    "saldi",
+    "silah",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e184f7784896"
+  },
+  "2681b86b3b9c": {
+   "id": "2681b86b3b9c",
+   "kaynak": "AA",
+   "baslik": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda 25 kişi öldü",
+   "ozet": "Yemen ordusu, Husilere yönelik düzenlenen 875 operasyonda 130 milisi etkisiz hale getirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-25-kisi-oldu/4115375",
+   "zaman": "2026-11-07T19:56:02+03:00",
+   "kelimeler": [
+    "25",
+    "arabi",
+    "deki",
+    "duzen",
+    "husil",
+    "in",
+    "kisi",
+    "saldi",
+    "sana",
+    "suudi",
+    "ya",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8fc4e114e097": {
+   "id": "8fc4e114e097",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında Kemal Akkaya ve Yunus Arıncı gözaltına alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-kemal-akkaya-ve-yunus-arinci-gozaltina-alindi-p376998",
+   "zaman": "2026-11-07T19:59:31+03:00",
+   "kelimeler": [
+    "akkay",
+    "alind",
+    "arinc",
+    "fon",
+    "gozal",
+    "kemal",
+    "sorus",
+    "yunus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 20:01:40  3 yeni haber",
   "07.11 19:46:06  4 yeni haber",
   "07.11 19:31:15  2 yeni haber",
   "07.11 19:16:02  3 yeni haber",
@@ -28469,8 +28559,7 @@
   "05.11 14:01:26  10 yeni haber",
   "05.11 13:46:06  4 yeni haber",
   "05.11 13:31:10  7 yeni haber",
-  "05.11 13:16:09  5 yeni haber",
-  "05.11 13:04:56  1 yeni haber"
+  "05.11 13:16:09  5 yeni haber"
  ],
  "otomatik": false
 }
