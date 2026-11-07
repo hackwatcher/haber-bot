@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "6d044706f7e3": {
-   "id": "6d044706f7e3",
-   "kaynak": "TRT Haber",
-   "baslik": "Hatay'da sağanak: Bazı ev ve iş yerlerini su bastı",
-   "ozet": "Hatay'ın Dörtyol ilçesinde etkili olan sağanak nedeniyle bazı ev ve iş yerlerini su bastı, tarım arazileri su altında kaldı, park halindeki bazı araçlar sel sularına kapılarak sürüklendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/hatayda-saganak-bazi-ev-ve-is-yerlerini-su-basti-962274.html",
-   "zaman": "2026-11-05T01:17:00+03:00",
-   "kelimeler": [
-    "basti",
-    "bazi",
-    "ev",
-    "hatay",
-    "is",
-    "sagan",
-    "su",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c72f5304531b": {
    "id": "c72f5304531b",
    "kaynak": "AA",
@@ -28221,7 +28201,29 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "61ce39170638": {
+   "id": "61ce39170638",
+   "kaynak": "Hürriyet",
+   "baslik": "Anadolu Otoyolu’nda zincirleme kaza: 6 yaralı",
+   "ozet": "Anadolu Otoyolu’nun Bolu geçişinde kar yağışı nedeniyle kayganlaşan yolda 6 otomobil ve 1 tırın karıştığı zincirleme kazada 6 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/anadolu-otoyolunda-zincirleme-kaza-6-yarali-43370039",
+   "zaman": "2026-11-08T01:17:00+03:00",
+   "kelimeler": [
+    "anado",
+    "kaza",
+    "nda",
+    "otoyo",
+    "yaral",
+    "zinci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cbd4821a27d7"
   }
  },
  "kayit": [
