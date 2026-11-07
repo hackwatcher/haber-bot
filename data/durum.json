@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "0127a53e4215": {
-   "id": "0127a53e4215",
-   "kaynak": "AA",
-   "baslik": "İsrailli aşırı sağcı Bakan Ben-Gvir, seçim sonuçlarına karşı çıkacağını açıkladı",
-   "ozet": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, İsrail vatandaşı Filistinlileri temsil eden partilerin rekor oyla çıktığı seçimlerde \"hile\" yapıldığını öne sürerek seçim sonuçlarının onaylanmasına karşı çıkacağını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-asiri-sagci-bakan-ben-gvir-secim-sonuclarina-karsi-cikacagini-acikladi/4111249",
-   "zaman": "2026-11-04T12:16:53+03:00",
-   "kelimeler": [
-    "asiri",
-    "bakan",
-    "ben",
-    "cikac",
-    "gvir",
-    "israi",
-    "karsi",
-    "sagci",
-    "secim",
-    "sonuc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4a999d6fb938": {
    "id": "4a999d6fb938",
    "kaynak": "TRT Haber",
@@ -23127,7 +23105,10 @@
     "world"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "9e62fba67a64": {
    "id": "9e62fba67a64",
@@ -27069,7 +27050,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "439a936b52ef": {
    "id": "439a936b52ef",
@@ -29322,9 +29306,94 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0d4b26d1ec04": {
+   "id": "0d4b26d1ec04",
+   "kaynak": "AA",
+   "baslik": "TRT World Forum 2026 devam ediyor",
+   "ozet": "TRT World Forum, 10. yılında \"Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?\" temasıyla son gününde devam ediyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/trt-world-forum-2026-devam-ediyor/4114983",
+   "zaman": "2026-11-07T11:26:47+03:00",
+   "kelimeler": [
+    "2026",
+    "devam",
+    "ediyo",
+    "forum",
+    "trt",
+    "world"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3a7e079be0b"
+  },
+  "130ce0fa75bf": {
+   "id": "130ce0fa75bf",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Paraguay'da bankacılık krizi: Devlet Başkanı görevden alındı ve ev hapsine konuldu",
+   "ozet": "Santiago Peña, milyonlarca insanın parasına erişememesine yol açan bir bankacılık krizi nedeniyle görevden uzaklaştırıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cqy0rr0kn81no",
+   "zaman": "2026-11-07T12:16:41+03:00",
+   "kelimeler": [
+    "alind",
+    "banka",
+    "baska",
+    "devle",
+    "ev",
+    "gorev",
+    "hapsi",
+    "konul",
+    "krizi",
+    "parag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3017379ab244": {
+   "id": "3017379ab244",
+   "kaynak": "AA",
+   "baslik": "Meteorolojiden 19 il için sarı kodlu uyarı",
+   "ozet": "Meteoroloji Genel Müdürlüğü, beklenen kuvvetli yağış nedeniyle bugün 19, yarın 9 il için sarı kodlu uyarıda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-19-il-icin-sari-kodlu-uyari/4115029",
+   "zaman": "2026-11-07T12:19:47+03:00",
+   "kelimeler": [
+    "19",
+    "il",
+    "kodlu",
+    "meteo",
+    "sari",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "acda3259babb"
+  },
+  "a89cbe38db8d": {
+   "id": "a89cbe38db8d",
+   "kaynak": "NTV",
+   "baslik": "Sabah mesaiye başlayıp, gece 03.00'e kadar topluyorlar. Kilosu 80 lira, bu yıl bolluk var",
+   "ozet": "Kastamonu'da bu yıl mantar bolluğu yaşanıyor. Sabah saatlerinde mantar toplamaya çıkanların mesaisi bazı günler gece 03.00'e kadar sürüyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sabah-mesaiye-baslayip-gece-0300e-kadar-topluyorlar-kilosu-80-lira-bu-yil-bolluk-var-1749806",
+   "zaman": "2026-11-07T12:20:25+03:00",
+   "kelimeler": [
+    "00",
+    "03",
+    "80",
+    "basla",
+    "bollu",
+    "gece",
+    "kilos",
+    "lira",
+    "mesai",
+    "sabah",
+    "toplu",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 12:21:08  2 yeni haber",
   "07.11 12:19:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında eski SPK yöneticileri tutuklandı",
   "07.11 12:16:06  8 yeni haber",
   "07.11 12:01:26  11 yeni haber",
@@ -29523,8 +29592,7 @@
   "05.11 06:31:22  1 yeni haber",
   "05.11 05:16:05  1 yeni haber",
   "05.11 03:46:09  2 yeni haber",
-  "05.11 03:31:39  1 yeni haber",
-  "05.11 02:01:31  1 yeni haber"
+  "05.11 03:31:39  1 yeni haber"
  ],
  "otomatik": false
 }
