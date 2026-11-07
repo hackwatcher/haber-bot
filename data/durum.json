@@ -1,94 +1,5 @@
 {
  "haberler": {
-  "d0547d71706a": {
-   "id": "d0547d71706a",
-   "kaynak": "Hürriyet",
-   "baslik": "Serin ve yağışlı hava geliyor! Meteoroloji'den İstanbul dahil birçok il için sağanak ve fırtına uyarısı: Kar yağışı için tarih verildi",
-   "ozet": "Yurt genelinde hava sıcaklıkları hissedilir derecede düşerken dondurucu soğuklar kapıya dayandı. Meteoroloji Genel Müdürlüğü İstanbul, Muğla ve Osmaniye'nin de aralarında bulunduğu bazı iller için kuvvetli yağış ve fırtına uyarısı yaparken kar yağışı için de tarih verdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/serin-ve-yagisli-hava-geliyor-meteorolojiden-istanbul-dahil-bircok-il-icin-saganak-ve-firtina-uyarisi-kar-yagisi-icin-tarih-verildi-43365226",
-   "zaman": "2026-11-04T07:38:00+03:00",
-   "kelimeler": [
-    "birco",
-    "dahil",
-    "den",
-    "firti",
-    "geliy",
-    "hava",
-    "il",
-    "istan",
-    "kar",
-    "meteo",
-    "sagan",
-    "serin",
-    "tarih",
-    "uyari",
-    "veril",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "44abf7424422"
-  },
-  "7cfd8c49bf2e": {
-   "id": "7cfd8c49bf2e",
-   "kaynak": "TRT Haber",
-   "baslik": "Fenerbahçe, Şampiyonlar Ligi'nde Liverpool'u ağırlıyor",
-   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 4. haftasında bugün İngiltere'nin Liverpool takımını konuk edecek.",
-   "link": "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html",
-   "zaman": "2026-11-04T07:39:00+03:00",
-   "kelimeler": [
-    "agirl",
-    "fener",
-    "ligi",
-    "liver",
-    "nde",
-    "sampi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "c592cdc46a7a"
-  },
-  "9e3364eee34d": {
-   "id": "9e3364eee34d",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD ara seçimleri: Demokratlar, Senato'da 51 sandalyeye ulaştı",
-   "ozet": "ABD Kongre ara seçimlerinde Demokratlar, resmi olmayan sonuçlara göre Senato'da çoğunluğu elde ederek 51 sandalyeye ulaştı",
-   "link": "https://www.trthaber.com/haber/dunya/abd-ara-secimleri-demokratlar-senatoda-51-sandalyeye-ulasti-962168.html",
-   "zaman": "2026-11-04T07:40:00+03:00",
-   "kelimeler": [
-    "51",
-    "abd",
-    "ara",
-    "demok",
-    "sanda",
-    "secim",
-    "senat",
-    "ulast"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4a4892cd6565"
-  },
-  "a0a76dded713": {
-   "id": "a0a76dded713",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da hava soğuyor! Valilik uyardı, bu saatlere dikkat",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbul-da-hava-soguyor-valilik-uyardi-bu-saatlere-dikkat-p375795",
-   "zaman": "2026-11-04T07:45:31+03:00",
-   "kelimeler": [
-    "dikka",
-    "hava",
-    "istan",
-    "saatl",
-    "soguy",
-    "uyard",
-    "valil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b1a9aefaacab"
-  },
   "91ca6c0fbf26": {
    "id": "91ca6c0fbf26",
    "kaynak": "Sözcü",
@@ -30251,9 +30162,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "acda3259babb": {
+   "id": "acda3259babb",
+   "kaynak": "TRT Haber",
+   "baslik": "19 il için 'sarı' kodlu uyarı: Sağanak ve fırtına bekleniyor",
+   "ozet": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. Meteoroloji 19 il için 'sarı' kodlu uyarıda bulundu. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-kodlu-uyari-saganak-ve-firtina-bekleniyor-962489.html",
+   "zaman": "2026-11-07T07:17:00+03:00",
+   "kelimeler": [
+    "19",
+    "bekle",
+    "firti",
+    "il",
+    "kodlu",
+    "sagan",
+    "sari",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 07:46:01  1 yeni haber",
   "07.11 07:31:10  2 yeni haber",
   "07.11 07:16:07  10 yeni haber",
   "07.11 07:03:06  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İçişleri Bakanı Mustafa Çiftçi: “Ruhsatlı silahı olana çelik kasa mecb",
@@ -30452,8 +30384,7 @@
   "04.11 21:31:15  1 yeni haber",
   "04.11 21:15:58  1 yeni haber",
   "04.11 20:47:23  1 yeni haber",
-  "04.11 20:38:33  3 yeni haber",
-  "04.11 20:38:33  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "04.11 20:38:33  3 yeni haber"
  ],
  "otomatik": false
 }
