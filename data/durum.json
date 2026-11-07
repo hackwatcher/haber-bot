@@ -1,85 +1,5 @@
 {
  "haberler": {
-  "f24eea013a77": {
-   "id": "f24eea013a77",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan, Güney Kore ziyaretini tamamladı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle gerçekleştirdiği resmi ziyaretin ardından başkent Seul'den İstanbul'a hareket etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-guney-kore-ziyaretini-tamamladi-43365417",
-   "zaman": "2026-11-04T10:49:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "guney",
-    "kore",
-    "tamam",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a631614639de"
-  },
-  "a52bb56cfa2a": {
-   "id": "a52bb56cfa2a",
-   "kaynak": "NTV",
-   "baslik": "Kasım ara tatili ne zaman başlayacak? 2026-2027 ilk ara tatil başlangıç tarihi",
-   "ozet": "İlkokul, ortaokul ve liselerde eğitim gören milyonlarca öğrenci, eylül ayında başlayan yoğun ders maratonunun ardından ilk dinlenme molası olan kasım ara tatilini bekliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kasim-ara-tatili-ne-zaman-baslayacak-2026-2027-ilk-ara-tatil-baslangic-tarihi-1749337",
-   "zaman": "2026-11-04T10:49:05+03:00",
-   "kelimeler": [
-    "2026",
-    "2027",
-    "ara",
-    "basla",
-    "ilk",
-    "kasim",
-    "tarih",
-    "tatil",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e14b03971f5c": {
-   "id": "e14b03971f5c",
-   "kaynak": "Sözcü",
-   "baslik": "Türkiye'nin nüfusu açıklandı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/turkiye-nin-nufusu-aciklandi-p375892",
-   "zaman": "2026-11-04T10:49:08+03:00",
-   "kelimeler": [
-    "acikl",
-    "nin",
-    "nufus",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fd54157a21b8"
-  },
-  "27ec74b4fddc": {
-   "id": "27ec74b4fddc",
-   "kaynak": "AA",
-   "baslik": "Togg T10X otomobil pazarındaki liderliğini üçüncü aya taşıdı",
-   "ozet": "Togg T10X, geçen ay toplam otomobil satışlarında en çok tercih edilen model olurken, pazar liderliğini üst üste üçüncü aya taşıdı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/togg-t10x-otomobil-pazarindaki-liderligini-ucuncu-aya-tasidi/4111113",
-   "zaman": "2026-11-04T11:01:05+03:00",
-   "kelimeler": [
-    "aya",
-    "lider",
-    "otomo",
-    "pazar",
-    "t10x",
-    "tasid",
-    "togg",
-    "ucunc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "324d07d10c8e": {
    "id": "324d07d10c8e",
    "kaynak": "TRT Haber",
@@ -855,22 +775,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "1865795533a0": {
-   "id": "1865795533a0",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31 Türkiyeye ne kazandıracak?",
-   "ozet": "920 Kasım'da Antalya'da düzenlenecek COP31 için geri sayım başladı. Küresel zirvede iklim değişikliğiyle mücadele kapsamında enerji dönüşümünden sıfır atığa kadar pek çok konu ele alınacak.",
-   "link": "https://www.trthaber.com/haber/cevre/cop31-turkiyeye-ne-kazandiracak-962197.html",
-   "zaman": "2026-11-04T10:49:00+03:00",
-   "kelimeler": [
-    "cop31",
-    "kazan",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "304f0d842253"
   },
   "a5f36a12973a": {
    "id": "a5f36a12973a",
@@ -19315,7 +19219,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3650b46265de": {
    "id": "3650b46265de",
@@ -29241,8 +29146,20 @@
     "resmi",
     "yonet"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ],
+   "paylasildi": "2026-11-07T11:04:08.322162+03:00",
+   "ig_id": "18061153913555492",
+   "reels_id": "18089612507699687",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1104142382501766",
+   "slayt": 6,
+   "kanca": "TEK BAŞINA MERKEZ"
   },
   "d68397535fee": {
    "id": "d68397535fee",
@@ -29406,9 +29323,259 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "5e0647aaf3e3": {
+   "id": "5e0647aaf3e3",
+   "kaynak": "TRT Haber",
+   "baslik": "Savunmada seri üretim gücü: MKE'den rekor teslimat",
+   "ozet": "Makine ve Kimya Endüstrisi MKE, son bir ayda Türk Silahlı Kuvvetleri, emniyet güçleri ve müttefik ülkelere yönelik mühimmattan ağır silah sistemlerine kadar geniş bir yelpazede yüklü miktarda teslimat gerçekleştirdi.",
+   "link": "https://www.trthaber.com/haber/savunma/savunmada-seri-uretim-gucu-mkeden-rekor-teslimat-962504.html",
+   "zaman": "2026-11-07T10:34:00+03:00",
+   "kelimeler": [
+    "den",
+    "gucu",
+    "mke",
+    "rekor",
+    "savun",
+    "seri",
+    "tesli",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b3edc78694ac": {
+   "id": "b3edc78694ac",
+   "kaynak": "AA",
+   "baslik": "Kiev Belediye Başkanı Kliçko, kentteki Kuzey Köprüsü ve enerji tesislerinin hedef alındığını belirtti",
+   "ozet": "Ukrayna'nın başkenti Kiev'in Belediye Başkanı Vitaliy Kliçko, Rus ordusunun kentte Dinyeper Nehri üzerindeki Kuzey Köprüsü ve enerji altyapısına yönelik saldırı düzenlediğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kiev-belediye-baskani-klicko-kentteki-kuzey-koprusu-ve-enerji-tesislerinin-hedef-alindigini-belirtti/4114929",
+   "zaman": "2026-11-07T10:42:19+03:00",
+   "kelimeler": [
+    "alind",
+    "baska",
+    "beled",
+    "belir",
+    "enerj",
+    "hedef",
+    "kentt",
+    "kiev",
+    "klick",
+    "kopru",
+    "kuzey",
+    "tesis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6beb858109c6": {
+   "id": "6beb858109c6",
+   "kaynak": "AA",
+   "baslik": "Çaykur Rizespor, Süper Lig'de yarın Erzurumspor FK'yi konuk edecek",
+   "ozet": "Çaykur Rizespor, Trendyol Süper Lig'in 11. haftasında yarın sahasında Erzurumspor FK ile karşılaşacak.",
+   "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-super-ligde-yarin-erzurumspor-fkyi-konuk-edecek/4114931",
+   "zaman": "2026-11-07T10:45:20+03:00",
+   "kelimeler": [
+    "cayku",
+    "edece",
+    "erzur",
+    "fk",
+    "konuk",
+    "lig",
+    "rizes",
+    "super",
+    "yarin",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aa038a907e3b"
+  },
+  "37d0774a9429": {
+   "id": "37d0774a9429",
+   "kaynak": "TRT Haber",
+   "baslik": "5 ilde zehir tacirlerine operasyon: 82 zanlı tutuklandı",
+   "ozet": "İstanbul merkezli 5 ilde sokak satıcılarına yönelik düzenlenen uyuşturucu operasyonunda gözaltına alınan 88 şüpheliden 82'si tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/5-ilde-zehir-tacirlerine-operasyon-82-zanli-tutuklandi-962505.html",
+   "zaman": "2026-11-07T10:47:00+03:00",
+   "kelimeler": [
+    "82",
+    "ilde",
+    "opera",
+    "tacir",
+    "tutuk",
+    "zanli",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "005c134d0e5b": {
+   "id": "005c134d0e5b",
+   "kaynak": "NTV",
+   "baslik": "Dorukhan Büyükışık davasında 22 saat süren duruşma: 12 tahliye kararı",
+   "ozet": "İzmir'de sekiz yıl önce inşaat şantiyesinde cesedi bulunan Dorukhan Büyükışık'ın ölümüne ilişkin 22 saat süren duruşma sonunda 12 sanığın tahliyesine karar verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-dorukhan-buyukisik-davasinda-22-saat-suren-durusma-12-tahliye-karari-1749780",
+   "zaman": "2026-11-07T10:47:16+03:00",
+   "kelimeler": [
+    "12",
+    "22",
+    "buyuk",
+    "davas",
+    "doruk",
+    "durus",
+    "karar",
+    "saat",
+    "suren",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ce3ce5cf88fe": {
+   "id": "ce3ce5cf88fe",
+   "kaynak": "TRT Haber",
+   "baslik": "Aile Danışma Merkezleri Yönetmeliği Resmi Gazete'de",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Aile danışmanlarına tek başına da merkez açabilme imkanı tanıyor, yüzde 3'ü oranında ücretsiz hizmet sunma şartı getirerek erişimi kolaylaştırıyor, denetim mekanizmalarını daha etkin hale getiriyoruz\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/aile-danisma-merkezleri-yonetmeligi-resmi-gazetede-962506.html",
+   "zaman": "2026-11-07T10:48:00+03:00",
+   "kelimeler": [
+    "aile",
+    "danis",
+    "gazet",
+    "merke",
+    "resmi",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d5557cee6f4b"
+  },
+  "db1f8c472b3d": {
+   "id": "db1f8c472b3d",
+   "kaynak": "NTV",
+   "baslik": "Hava yolu ulaşımında 10 ayda 216,8 milyon yolcu",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yılın ilk 10 ayında havalimanlarında 216,8 milyon yolcuya hizmet verildiğini açıkladı. Yolcu trafiği geçen yıla göre yüzde 2,5 arttı.",
+   "link": "https://www.ntv.com.tr/turkiye/hava-yolu-ulasiminda-10-ayda-2168-milyon-yolcu-1749781",
+   "zaman": "2026-11-07T10:48:03+03:00",
+   "kelimeler": [
+    "10",
+    "216",
+    "ayda",
+    "hava",
+    "milyo",
+    "ulasi",
+    "yolcu",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8c2bd636e15c": {
+   "id": "8c2bd636e15c",
+   "kaynak": "AA",
+   "baslik": "Yurdun bazı kesimlerinde kar etkisini sürdürüyor",
+   "ozet": "Ardahan, Kars ve D-100 kara yolunun Bolu Dağı kesiminde kar yağışı etkisini sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-bazi-kesimlerinde-kar-etkisini-surduruyor-/4114937",
+   "zaman": "2026-11-07T10:49:54+03:00",
+   "kelimeler": [
+    "bazi",
+    "etkis",
+    "kar",
+    "kesim",
+    "surdu",
+    "yurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e7e90dca1365": {
+   "id": "e7e90dca1365",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan: Dayanışma ruhu hünerli ellerde yaşamaya devam ediyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 81 ilden kadın zanaatkarların eserlerinin yer aldığı \"ÖZGÜBize Özgü\" sergisine ilişkin, \"Anadoluda kadınlar yalnızca sanatlarını değil; birbirlerinin emeğini, sabrını ve zamanını da paylaşarak nice eserler meydana…",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-dayanisma-ruhu-hunerli-ellerde-yasamaya-devam-ediyor-962508.html",
+   "zaman": "2026-11-07T10:50:00+03:00",
+   "kelimeler": [
+    "dayan",
+    "devam",
+    "ediyo",
+    "eller",
+    "emine",
+    "erdog",
+    "huner",
+    "ruhu",
+    "yasam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "282910a6e860": {
+   "id": "282910a6e860",
+   "kaynak": "TRT Haber",
+   "baslik": "Kırımızı bültenle aranan uyuşturucu kaçakçısı yakalandı",
+   "ozet": "Interpol tarafından kırmızı bültenle aranan uyuşturucu kaçakçısı Mersin'de yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kirimizi-bultenle-aranan-uyusturucu-kacakcisi-yakalandi-962507.html",
+   "zaman": "2026-11-07T10:51:00+03:00",
+   "kelimeler": [
+    "arana",
+    "bulte",
+    "kacak",
+    "kirim",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e6d0bf0ed6f7": {
+   "id": "e6d0bf0ed6f7",
+   "kaynak": "Hürriyet",
+   "baslik": "Kepengin uzaktan kumanda şifresini kopyalayıp kuyumcuya girdi! Çaldığı 200 yüzük sahte çıktı",
+   "ozet": "İstanbul Kartal’da kepenk sisteminin kumanda şifresini kopyalayarak girdiği kuyumcudan hırsızlık yapan Moldova uyruklu N.M., Sabiha Gökçen Havalimanı'ndan yurt dışına çıkmaya çalışırken gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kepengin-uzaktan-kumanda-sifresini-kopyalayip-kuyumcuya-girdi-caldigi-200-yuzuk-sahte-cikti-43369177",
+   "zaman": "2026-11-07T10:53:22+03:00",
+   "kelimeler": [
+    "200",
+    "caldi",
+    "cikti",
+    "girdi",
+    "kepen",
+    "kopya",
+    "kuman",
+    "kuyum",
+    "sahte",
+    "sifre",
+    "uzakt",
+    "yuzuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a1f4c5f3dfff": {
+   "id": "a1f4c5f3dfff",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum, COP31 için hazırlanan \"The Yörüks\" belgeselini paylaştı",
+   "ozet": "Türkiye'nin ev sahipliğinde gerçekleştirilecek BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) için \"The Yörüks-Yörükler\" isimli belgesel hazırlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-icin-hazirlanan-the-yoruks-belgeselini-paylasti/4114943",
+   "zaman": "2026-11-07T10:58:18+03:00",
+   "kelimeler": [
+    "bakan",
+    "belge",
+    "cop31",
+    "hazir",
+    "kurum",
+    "payla",
+    "the",
+    "yoruk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 11:04:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Aile Danışma Merkezleri Yönetmeliği Resmi Gazete'de",
+  "07.11 11:01:29  10 yeni haber",
   "07.11 10:46:23  5 yeni haber",
   "07.11 10:31:13  4 yeni haber",
   "07.11 10:16:07  3 yeni haber",
@@ -29606,9 +29773,7 @@
   "05.11 01:02:15  2 yeni haber",
   "05.11 00:46:07  2 yeni haber",
   "05.11 00:18:18  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fon soruşturmasında Fatma Betül Sayan Kaya, İlyas Kaya ve",
-  "05.11 00:02:15  Otomatik paylaşım başarısız: Media download has failed. The media URI doesn't meet our requirements. The media could not be fetched from this URI: https://raw.githubusercontent.com/hackwatcher/haber-bot/3aa90965fab06d662c789031efbc9b47810d1692/02.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating (kod 9004/2207052)",
-  "05.11 00:01:24  5 yeni haber",
-  "04.11 23:46:09  3 yeni haber"
+  "05.11 00:02:15  Otomatik paylaşım başarısız: Media download has failed. The media URI doesn't meet our requirements. The media could not be fetched from this URI: https://raw.githubusercontent.com/hackwatcher/haber-bot/3aa90965fab06d662c789031efbc9b47810d1692/02.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating (kod 9004/2207052)"
  ],
  "otomatik": false
 }
