@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "37c75c29d3be": {
-   "id": "37c75c29d3be",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Çiftçi, eski bakan ve emekli valilerle bir araya geldi",
-   "ozet": "İÇİŞLERİ Bakanı Mustafa Çiftçi, eski bakan Murat Başesgioğlu ve emekli Vali Osman Derya Kadıoğlu'nu Bakanlıkta ağırladı. Çiftçi, emekli Mülkiye Başmüfettişi Yakup Güneri ile emekli Vali Fikret Güven'i de ziyaret etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-eski-bakan-ve-emekli-valilerle-bir-araya-geldi-43366240",
-   "zaman": "2026-11-04T20:09:33+03:00",
-   "kelimeler": [
-    "araya",
-    "bakan",
-    "ciftc",
-    "emekl",
-    "eski",
-    "geldi",
-    "valil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü"
-   ]
-  },
-  "af0decf27de7": {
-   "id": "af0decf27de7",
-   "kaynak": "Hürriyet",
-   "baslik": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
-   "ozet": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242",
-   "zaman": "2026-11-04T20:12:00+03:00",
-   "kelimeler": [
-    "94",
-    "brent",
-    "dolar",
-    "fiyat",
-    "geril",
-    "petro",
-    "seviy",
-    "varil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "40f1d88e310d"
-  },
-  "0b7d913049cc": {
-   "id": "0b7d913049cc",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu ve istihbarat birimlerinin 7 Ekim öncesi kritik istihbaratları görmezden geldiği ortaya çıktı",
-   "ozet": "İsrail ordusu ve istihbarat birimlerinin 7 Ekim 2023'ten bir gece önce Gazze Şeridi'ndeki hareketliliğe ilişkin çok sayıda kritik istihbarat almasına rağmen durumu \"rutin\" olarak değerlendirdiği ortaya çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-istihbarat-birimlerinin-7-ekim-oncesi-kritik-istihbaratlari-gormezden-geldigi-ortaya-cikti/4111869",
-   "zaman": "2026-11-04T20:14:48+03:00",
-   "kelimeler": [
-    "birim",
-    "cikti",
-    "ekim",
-    "geldi",
-    "gorme",
-    "israi",
-    "istih",
-    "kriti",
-    "onces",
-    "ordus",
-    "ortay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3645484523d8": {
    "id": "3645484523d8",
    "kaynak": "BBC Türkçe",
@@ -103,29 +37,6 @@
     "Hürriyet",
     "AA"
    ]
-  },
-  "2fc19c8f7e37": {
-   "id": "2fc19c8f7e37",
-   "kaynak": "TRT Haber",
-   "baslik": "AB Komisyonu üyesi Kos, Karadağ, Arnavutluk, Moldova ve Ukrayna için üyelik yol haritalarını açıkladı",
-   "ozet": "Avrupa Birliği AB Komisyonunun Genişlemeden Sorumlu Üyesi Marta Kos, Karadağ'ın katılım antlaşması imzalanana kadar atması gereken adımları ve Arnavutluk, Moldova ile Ukraynanın üyelik müzakerelerinde gelecek bir yıl içerisinde ulaşmaları öngörülen hedefleri belirleyen yol…",
-   "link": "https://www.trthaber.com/haber/dunya/ab-komisyonu-uyesi-kos-karadag-arnavutluk-moldova-ve-ukrayna-icin-uyelik-yol-haritalarini-acikladi-962256.html",
-   "zaman": "2026-11-04T20:14:00+03:00",
-   "kelimeler": [
-    "ab",
-    "arnav",
-    "harit",
-    "karad",
-    "komis",
-    "kos",
-    "moldo",
-    "ukray",
-    "uyeli",
-    "uyesi",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "9a872d3e1a72": {
    "id": "9a872d3e1a72",
@@ -13066,7 +12977,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "Sözcü"
+    "Sözcü",
+    "TRT Haber"
    ]
   },
   "9a1a69a09daa": {
@@ -27802,7 +27714,10 @@
     "yapma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "2b409721995e": {
    "id": "2b409721995e",
@@ -28357,9 +28272,199 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6687c68ebbfd": {
+   "id": "6687c68ebbfd",
+   "kaynak": "AA",
+   "baslik": "TRT World Forum'da enerji krizleri ve güvenliği ele alındı",
+   "ozet": "Milli İstihbarat Akademisi Başkanı Köse, finansal, savunma, diplomatik ve arabuluculuk kabiliyetleriyle Türkiye'nin Orta Doğu, Orta Asya ve Hazar ülkelerinde enerji merkezi olma hedefini ortaya koyduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/trt-world-forumda-enerji-krizleri-ve-guvenligi-ele-alindi/4115317",
+   "zaman": "2026-11-07T18:33:13+03:00",
+   "kelimeler": [
+    "alind",
+    "ele",
+    "enerj",
+    "forum",
+    "guven",
+    "krizl",
+    "trt",
+    "world"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "879654e05950"
+  },
+  "6f06c3e3b9b6": {
+   "id": "6f06c3e3b9b6",
+   "kaynak": "AA",
+   "baslik": "Bakan Şimşek: Körfez'deki savaşın bölgeyi temelden değiştireceğini düşünüyorum",
+   "ozet": "Bakanı Şimşek, Körfez'deki savaşın bölgeyi temelden değiştireceğini, bölgesel aktörler arasında rekabetin azalacağı ve işbirliğinin artacağını belirterek, \"Türkiye'nin de bütün bu gelişmelerden önemli ölçüde fayda sağlaması oldukça muhtemel.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-simsek-korfezdeki-savasin-bolgeyi-temelden-degistirecegini-dusunuyorum/4115344",
+   "zaman": "2026-11-07T19:05:45+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolge",
+    "degis",
+    "deki",
+    "dusun",
+    "korfe",
+    "savas",
+    "simse",
+    "temel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c1179575e890"
+  },
+  "097a119cdfec": {
+   "id": "097a119cdfec",
+   "kaynak": "Hürriyet",
+   "baslik": "Eyyüp Kadir İnan: AK Parti’nin yolunda kimsenin torpili, ayrıcalığı yoktur",
+   "ozet": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, \"AK Parti'nin yolunda kimsenin torpili, kimsenin ayrıcalığı yoktur.",
+   "link": "https://www.hurriyet.com.tr/gundem/eyyup-kadir-inan-ak-partinin-yolunda-kimsenin-torpili-ayricaligi-yoktur-43369848",
+   "zaman": "2026-11-07T19:58:00+03:00",
+   "kelimeler": [
+    "ak",
+    "ayric",
+    "eyyup",
+    "inan",
+    "kadir",
+    "kimse",
+    "nin",
+    "parti",
+    "torpi",
+    "yoktu",
+    "yolun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2ea74ed02897": {
+   "id": "2ea74ed02897",
+   "kaynak": "AA",
+   "baslik": "DMM'nin \"Bir Kare Gerçek\" Kısa Film Yarışması'na başvurular başladı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Duran, Dezenformasyonla Mücadele Merkezi (DMM) tarafından düzenlenen \"Bir Kare Gerçek\" Kısa Film Yarışması başvurularının başladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/dmmnin-bir-kare-gercek-kisa-film-yarismasina-basvurular-basladi/4115377",
+   "zaman": "2026-11-07T20:02:46+03:00",
+   "kelimeler": [
+    "basla",
+    "basvu",
+    "dmm",
+    "film",
+    "gerce",
+    "kare",
+    "kisa",
+    "na",
+    "nin",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "fc5a29367acc": {
+   "id": "fc5a29367acc",
+   "kaynak": "TRT Haber",
+   "baslik": "DMM'nin 'Bir Kare Gerçek' Kısa Film Yarışması'na başvurular başladı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Dezenformasyonla Mücadele Merkezi tarafından düzenlenen \"Bir Kare Gerçek\" Kısa Film Yarışması başvurularının başladığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/dmmnin-bir-kare-gercek-kisa-film-yarismasina-basvurular-basladi-962554.html",
+   "zaman": "2026-11-07T20:03:00+03:00",
+   "kelimeler": [
+    "basla",
+    "basvu",
+    "dmm",
+    "film",
+    "gerce",
+    "kare",
+    "kisa",
+    "na",
+    "nin",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2ea74ed02897"
+  },
+  "99d1a1284603": {
+   "id": "99d1a1284603",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında yeni gelişme: 2 kişi gözaltına alındı",
+   "ozet": "Fon soruşturmasında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ve eski Takasbank Genel Müdürü Yunus Arıncı yeniden gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-2-kisi-gozaltina-alindi-962555.html",
+   "zaman": "2026-11-07T20:05:00+03:00",
+   "kelimeler": [
+    "alind",
+    "fon",
+    "gelis",
+    "gozal",
+    "kisi",
+    "sorus",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b70e7b354c3"
+  },
+  "c823aec54687": {
+   "id": "c823aec54687",
+   "kaynak": "NTV",
+   "baslik": "Afyonkarahisar'da 8 kişinin öldüğü katliamdan böyle kurtulmuş. Öğretmen dehşet anlarını anlattı",
+   "ozet": "Afyonkarahisar'da 8 kişinin öldürüldüğü olaydan sağ kurtulan öğretmen Sultan Sema Gökçe'nin ifadesi ortaya çıktı. İfadesinde Gökçe, dehşet anlarını anlattı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisinin-oldugu-katliamdan-boyle-kurtulmus-ogretmen-dehset-anlarini-anlatti-1749862",
+   "zaman": "2026-11-07T20:10:34+03:00",
+   "kelimeler": [
+    "afyon",
+    "anlar",
+    "anlat",
+    "boyle",
+    "dehse",
+    "katli",
+    "kisin",
+    "kurtu",
+    "ogret",
+    "oldug"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0f8b85e27b5"
+  },
+  "98c3b24feaf3": {
+   "id": "98c3b24feaf3",
+   "kaynak": "AA",
+   "baslik": "MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
+   "ozet": "MotoGP Dünya Şampiyonası'nda sezonun 20. etabı olan Katar Grand Prix'sinin sprint yarışını Ducati Lenovo takımından İspanyol Marc Marquez kazandı.",
+   "link": "https://www.aa.com.tr/tr/dunyadan-spor/motogp-katar-grand-prixsinde-sprint-yarisini-marc-marquez-kazandi/4115378",
+   "zaman": "2026-11-07T20:12:08+03:00",
+   "kelimeler": [
+    "grand",
+    "katar",
+    "kazan",
+    "marc",
+    "marqu",
+    "motog",
+    "prix",
+    "sinde",
+    "sprin",
+    "yaris"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-07T20:18:57.135856+03:00",
+   "ig_id": "18194609014405586",
+   "reels_id": "18096389222174736",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "888440097629233",
+   "slayt": 5,
+   "kanca": "MARC MARQUEZ KAZANDI"
   }
  },
  "kayit": [
+  "07.11 20:18:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
+  "07.11 20:16:02  3 yeni haber",
   "07.11 20:01:40  3 yeni haber",
   "07.11 19:46:06  4 yeni haber",
   "07.11 19:31:15  2 yeni haber",
@@ -28557,9 +28662,7 @@
   "05.11 14:18:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Düğününe bir hafta kala kazada ölen Safiye Kaymakçı toprağa verildi: T",
   "05.11 14:16:00  4 yeni haber",
   "05.11 14:01:26  10 yeni haber",
-  "05.11 13:46:06  4 yeni haber",
-  "05.11 13:31:10  7 yeni haber",
-  "05.11 13:16:09  5 yeni haber"
+  "05.11 13:46:06  4 yeni haber"
  ],
  "otomatik": false
 }
