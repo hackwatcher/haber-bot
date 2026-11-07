@@ -29955,7 +29955,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ad3e59b5a166": {
    "id": "ad3e59b5a166",
@@ -30613,6 +30616,54 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "7ff3e6c60356"
+  },
+  "762768238372": {
+   "id": "762768238372",
+   "kaynak": "AA",
+   "baslik": "İran Ordusu: Keşm Adası'nda ABD'ye ait MQ-9 tipi İHA düşürüldü",
+   "ozet": "İran Ordusu, ülkenin güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası üzerinde, ABD'ye ait MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemlerince düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-kesm-adasinda-abdye-ait-mq-9-tipi-iha-dusuruldu/4114819",
+   "zaman": "2026-11-07T01:05:36+03:00",
+   "kelimeler": [
+    "abd",
+    "adasi",
+    "ait",
+    "dusur",
+    "iha",
+    "iran",
+    "kesm",
+    "mq",
+    "nda",
+    "ordus",
+    "tipi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "102f04d56ace"
+  },
+  "417f7cf0a9df": {
+   "id": "417f7cf0a9df",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin BM Genel Sekreter adayı Sinirlioğlu: Tarafsız ve bağımsız bir genel sekreter olacağım",
+   "ozet": "Türkiye'nin Birleşmiş Milletler BM Genel Sekreterliği için aday gösterdiği Feridun Sinirlioğlu, seçilmesi durumunda \"tarafsız ve bağımsız bir genel sekreter olacağını\" söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-bm-genel-sekreter-adayi-sinirlioglu-tarafsiz-ve-bagimsiz-bir-genel-sekreter-olacagim-962484.html",
+   "zaman": "2026-11-07T03:33:00+03:00",
+   "kelimeler": [
+    "adayi",
+    "bagim",
+    "bm",
+    "genel",
+    "nin",
+    "olaca",
+    "sekre",
+    "sinir",
+    "taraf",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "02c8996eb3f0"
   }
  },
  "kayit": [
