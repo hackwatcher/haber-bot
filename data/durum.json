@@ -1,56 +1,5 @@
 {
  "haberler": {
-  "dc637d1b3acf": {
-   "id": "dc637d1b3acf",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD ara seçiminde Texas şoku: Demokrat parti zafer kazandı",
-   "ozet": "Demokrat Parti Temsilcisi James Talarico, Texas eyaletinde yapılan ABD Senatosu yarışında Cumhuriyetçi rakibi Ken Paxton'ı mağlup etti.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-ara-seciminde-texas-soku-demokrat-parti-zafer-kazandi-962166.html",
-   "zaman": "2026-11-04T07:03:00+03:00",
-   "kelimeler": [
-    "abd",
-    "ara",
-    "demok",
-    "kazan",
-    "parti",
-    "secim",
-    "soku",
-    "texas",
-    "zafer"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-04T08:18:06.746434+03:00",
-   "ig_id": "17952808977318042",
-   "reels_id": "18098318654405775",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2153910818826901",
-   "slayt": 5,
-   "kanca": "38 YIL SONRA İLK",
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "72004c6d5e5d": {
-   "id": "72004c6d5e5d",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Türkiye-Azerbaycan hattında gerginliğin nedenleri neler?",
-   "ozet": "Ankara-Bakü hattında başörtüsü tartışması ile başlayan gerilim, Cumhurbaşkanı İlham Aliyev'in Türkiye'de düzenlenen Türk Devletleri Teşkilatı zirvesine katılmamasıyla gündemde. Peki \"tek millet iki devlet\" ilkesini benimseyen stratejik ortakların arası nasıl açıldı?",
-   "link": "https://www.bbc.com/turkce/articles/c8kgev55zxywo",
-   "zaman": "2026-11-04T07:06:11+03:00",
-   "kelimeler": [
-    "azerb",
-    "gergi",
-    "hatti",
-    "neden",
-    "neler",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "acba35f34706": {
    "id": "acba35f34706",
    "kaynak": "AA",
@@ -23737,7 +23686,8 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "771d1939e6e3": {
    "id": "771d1939e6e3",
@@ -25172,7 +25122,8 @@
     "ulusl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3859487a4c0e": {
    "id": "3859487a4c0e",
@@ -27128,7 +27079,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "bf77f0be346c": {
@@ -27807,7 +27759,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "0c3706ba1cbd": {
    "id": "0c3706ba1cbd",
@@ -29999,9 +29954,296 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "57ce62d06362": {
+   "id": "57ce62d06362",
+   "kaynak": "Hürriyet",
+   "baslik": "Seçil Erzan’a 212 yıl istendi",
+   "ozet": "KAMUOYUNDA ‘yüksek kârlı gizli fon’ olarak bilinen, aralarında Fatih Terim, Arda Turan ve Fernando Muslera gibi futbol dünyasının ünlü isimlerinin de bulunduğu birçok kişiyi dolandırmaktan 102 yıl 4 ay hapis cezasına çarptırılan Seçil Erzan’ın dosyası İstinaf’tan ‘usulden’…",
+   "link": "https://www.hurriyet.com.tr/gundem/secil-erzana-212-yil-istendi-43369010",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "212",
+    "erzan",
+    "isten",
+    "secil",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c8d8c1c95046"
+  },
+  "095c271b38f1": {
+   "id": "095c271b38f1",
+   "kaynak": "Hürriyet",
+   "baslik": "Tarihi geçmiş ilaçları piyasaya süren 21 şüpheli tutuklandı",
+   "ozet": "Bakırköy Cumhuriyet Başsavcılığı tarafından hastanelerden ve eczanelerden temin edilen son kullanma tarihi geçmiş kanser ilaçlarının yeni ambalaj ve prospektüslerle tarihi geçmemiş gibi gösterilerek yurt içinde ve yurt dışında satışını gerçekleştirdikleri tespit edilen şahıslara…",
+   "link": "https://www.hurriyet.com.tr/gundem/tarihi-gecmis-ilaclari-piyasaya-suren-21-supheli-tutuklandi-43369012",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "21",
+    "gecmi",
+    "ilacl",
+    "piyas",
+    "suphe",
+    "suren",
+    "tarih",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "73d8ef37b51f"
+  },
+  "209b1144c613": {
+   "id": "209b1144c613",
+   "kaynak": "Hürriyet",
+   "baslik": "Haraç çetelerine operasyon",
+   "ozet": "YENİ nesil suç örgütlerine yönelik çalışmalarını sürdüren İstanbul Emniyet Müdürlüğü Organize Suçlarla Mücadele ve İstihbarat Şube Müdürlüğü ekipleri, işyerlerine yönelik kurşunlama, kundaklama ve tehdit olaylarıyla ilgili çalışma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/harac-cetelerine-operasyon-43369014",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "cetel",
+    "harac",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a154ad8994e0": {
+   "id": "a154ad8994e0",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül soruşturması okula sıçradı… Yönetime kayyum atandı",
+   "ozet": "SARIGÜL Ailesi’ne yönelik ‘kara para aklama’ ve ‘cinsel saldırı’ iddiasıyla yürütülen soruşturma devam ediyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigul-sorusturmasi-okula-sicradi-yonetime-kayyum-atandi-43369015",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "atand",
+    "kayyu",
+    "okula",
+    "sarig",
+    "sicra",
+    "sorus",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "647645b4a210": {
+   "id": "647645b4a210",
+   "kaynak": "Hürriyet",
+   "baslik": "Cinayeti tüm detaylarıyla anlattı: Annem ve sevgilisi beni zorladı",
+   "ozet": "EMLAK zengini Ramazan Arıkan’ın halk arasında ‘dana deviren’ olarak bilinen bir ilaçla öldürüldüğü iddia edilmişti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cinayeti-tum-detaylariyla-anlatti-annem-ve-sevgilisi-beni-zorladi-43369016",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "anlat",
+    "annem",
+    "beni",
+    "cinay",
+    "detay",
+    "sevgi",
+    "tum",
+    "zorla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1a1ddaa6f6f": {
+   "id": "f1a1ddaa6f6f",
+   "kaynak": "Hürriyet",
+   "baslik": "Denizolgun’un ölümü... Başsavcılık ek rapor istedi",
+   "ozet": "BAKIRKÖY Cumhuriyet Başsavcılığı, eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un (61) ölümüne ilişkin İstanbul Adli Tıp Kurumu 1’inci İhtisas Kurulu Başkanlığı’ndan ek rapor istedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/denizolgunun-olumu-bassavcilik-ek-rapor-istedi-43369024",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "bassa",
+    "deniz",
+    "ek",
+    "isted",
+    "olumu",
+    "rapor",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "379ad4f2fcb7": {
+   "id": "379ad4f2fcb7",
+   "kaynak": "Hürriyet",
+   "baslik": "Hakan Bahçetepe’ye ev hapsiyle tahliye",
+   "ozet": "GAZİOSMANPAŞA Belediyesi’ne yönelik ‘yolsuzluk’ iddiasıyla görülen davada Belediye Başkanı Hakan Bahçetepe ‘Rüşvet’ suçundan 6 yıl 3 ay hapis cezasına çarptırıldı ve ‘ev hapsi’ şeklinde adli kontrol tedbiri ile tahliyesine karar verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/hakan-bahcetepeye-ev-hapsiyle-tahliye-43369026",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "ev",
+    "hakan",
+    "hapsi",
+    "tahli",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f82cdbce6798"
+  },
+  "405f06770935": {
+   "id": "405f06770935",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçdaroğlu’ndan adaylık açıklaması",
+   "ozet": "CHP Genel Başkanı Kılıçdaroğlu, erken seçim teklifine destek vereceklerini söyleyerek, “Bir muhalefet partisinin seçimden kaçma gibi bir lüksü olamaz” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-adaylik-aciklamasi-43369027",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "adayl",
+    "kilic",
+    "ndan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c5055826aefc"
+  },
+  "304e412cdc1f": {
+   "id": "304e412cdc1f",
+   "kaynak": "Hürriyet",
+   "baslik": "Kurtulmuş: Hayati bir mesele",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, “İki asır evvel dağılmaya başlayan geniş coğrafyamızın halklarını bir araya getiriyor, derliyor, toparlıyor ve ortak bir hedefe doğru yöneltmek için var gücümüzle mücadele ediyoruz. Bu mesele sadece bir yasa çıkarma meselesi hiç değildir.",
+   "link": "https://www.hurriyet.com.tr/gundem/kurtulmus-hayati-bir-mesele-43369030",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "hayat",
+    "kurtu",
+    "mesel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "209402e371fe": {
+   "id": "209402e371fe",
+   "kaynak": "Hürriyet",
+   "baslik": "YENİ Parti yarın sandığa gidiyor... Genel Başkanlık için ön seçim",
+   "ozet": "81 ilde kurulacak 3 bin sandıkta, YENİ Parti üyeleri genel başkan adaylarını belirleyecek. Adaylar 14-15 Kasım’daki kurultayda yarışacak. Genel Başkan Özgür Özel kurultay öncesi vaatlerini 17 başlıkta açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-parti-yarin-sandiga-gidiyor-genel-baskanlik-icin-on-secim-43369031",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "baska",
+    "genel",
+    "gidiy",
+    "on",
+    "parti",
+    "sandi",
+    "secim",
+    "yarin",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "982ed3015280": {
+   "id": "982ed3015280",
+   "kaynak": "Hürriyet",
+   "baslik": "Tutuklama gerekçesi: Tasfiyeyi bilerek işlem yaptı para aynı gün yattı",
+   "ozet": "Fatma Betül Sayan Kaya ve eşi adliyeye el ele girdi. Avukat ve vatandaş girişi olan C kapısından adliyeye giren çift, ardından vatandaş asansörüyle savcılık katına çıktı. Adliyeye güneş gözlüğüyle giren Kaya, içeride de gözlüğünü çıkarmadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/tutuklama-gerekcesi-tasfiyeyi-bilerek-islem-yapti-para-ayni-gun-yatti-43369033",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "ayni",
+    "biler",
+    "gerek",
+    "gun",
+    "islem",
+    "para",
+    "tasfi",
+    "tutuk",
+    "yapti",
+    "yatti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f13092718e5": {
+   "id": "3f13092718e5",
+   "kaynak": "Hürriyet",
+   "baslik": "TEDMEM’DEN ‘Yeşil Eğitim’ önerileri",
+   "ozet": "Türk Eğitim Derneği’nin düşünce kuruluşu TEDMEM, ‘Yeşil Eğitim: Türkiye’de İklim Dirençli Bir Eğitim Sistemi İçin Değerlendirme ve Öneriler’ başlıklı raporunu paylaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/tedmemden-yesil-egitim-onerileri-43369041",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "egiti",
+    "oneri",
+    "tedme",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8922ad711efe": {
+   "id": "8922ad711efe",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan: Uluslararası sistem iflas bayrağı çekti",
+   "ozet": "Cumhurbaşkanı Erdoğan, “Güç rekabetinin giderek sertleştiği, kuralların yok sayıldığı, değerlerin adeta toprak kaymasına uğradığı sancılı bir dönemden geçiyoruz.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-uluslararasi-sistem-iflas-bayragi-cekti-43369044",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "bayra",
+    "cekti",
+    "cumhu",
+    "erdog",
+    "iflas",
+    "siste",
+    "ulusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "77e3bb8c429f"
+  },
+  "13a9d8ed58cd": {
+   "id": "13a9d8ed58cd",
+   "kaynak": "Hürriyet",
+   "baslik": "Doluluk oranı yüzde 61’e çıktı... Son 10 yılın rekoru",
+   "ozet": "İSTANBUL’a su sağlayan barajlardaki ortalama doluluk oranı, geçen ay başlayan rekor miktardaki yağışların etkisiyle son 10 yılın aynı dönemine göre en yüksek seviyeye çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/doluluk-orani-yuzde-61e-cikti-son-10-yilin-rekoru-43369050",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "10",
+    "61",
+    "cikti",
+    "dolul",
+    "orani",
+    "rekor",
+    "yilin",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "582b0b7bb4b2": {
+   "id": "582b0b7bb4b2",
+   "kaynak": "Hürriyet",
+   "baslik": "Katliamı biçerdöver yüzünden yapmış… İşte caninin kanlı rotası... Hürriyet olay yerinde",
+   "ozet": "Önceki gün bir caninin 45 dakika içinde 8 kişiyi acımasızca öldürdüğü Afyonkarahisar’a gittik ve katliam rotasını çizdik... Arif Sefa Özdemir’in ilk 3 kişiyi biçerdöver borcu yüzünden husumet yaşadığı için, diğer 5 kişiyi ise araçlarını gasp etmek için öldürdüğü ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/katliami-bicerdover-yuzunden-yapmis-iste-caninin-kanli-rotasi-hurriyet-olay-yerinde-43369052",
+   "zaman": "2026-11-07T07:00:00+03:00",
+   "kelimeler": [
+    "bicer",
+    "canin",
+    "hurri",
+    "iste",
+    "kanli",
+    "katli",
+    "olay",
+    "rotas",
+    "yapmi",
+    "yerin",
+    "yuzun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 07:16:07  10 yeni haber",
   "07.11 07:03:06  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İçişleri Bakanı Mustafa Çiftçi: “Ruhsatlı silahı olana çelik kasa mecb",
   "07.11 06:01:31  1 yeni haber",
   "07.11 04:46:02  1 yeni haber",
@@ -30200,8 +30442,7 @@
   "04.11 20:47:23  1 yeni haber",
   "04.11 20:38:33  3 yeni haber",
   "04.11 20:38:33  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "04.11 20:31:20  3 yeni haber",
-  "04.11 20:16:01  5 yeni haber"
+  "04.11 20:31:20  3 yeni haber"
  ],
  "otomatik": false
 }
