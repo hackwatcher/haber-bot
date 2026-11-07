@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "acba35f34706": {
-   "id": "acba35f34706",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ-9 tipi İHA düşürüldü",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843",
-   "zaman": "2026-11-04T07:20:49+03:00",
-   "kelimeler": [
-    "abd",
-    "bogaz",
-    "devri",
-    "dusur",
-    "hurmu",
-    "iha",
-    "iran",
-    "mq",
-    "muhaf",
-    "nda",
-    "tipi",
-    "yapim"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6ce8ee1e16c3"
-  },
   "d0547d71706a": {
    "id": "d0547d71706a",
    "kaynak": "Hürriyet",
@@ -30240,9 +30215,46 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "39072f53fef0": {
+   "id": "39072f53fef0",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Ersoy: Türkiye, istikrar adası olmayı başardı",
+   "ozet": "RusyaUkrayna Savaşı ve İran'daki çatışmaların sektörde belirsizlik oluşturduğunu, buna rağmen Türkiye'nin istikrarlı konumuyla öne çıktığını ifade eden Kültür ve Turizm Bakanı Ersoy, \"Türkiye, bunca olumsuzluğa rağmen ateş çemberinin ortasında bir istikrar adası olmayı başardı\"…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ersoy-turkiye-istikrar-adasi-olmayi-basardi-962488.html",
+   "zaman": "2026-11-07T05:52:00+03:00",
+   "kelimeler": [
+    "adasi",
+    "bakan",
+    "basar",
+    "ersoy",
+    "istik",
+    "olmay",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c30b8bb20586": {
+   "id": "c30b8bb20586",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa’da eğlence mekanına tüfekli saldırı",
+   "ozet": "Bursa’nın Nilüfer ilçesindeki bir eğlence mekanına kimliği belirsiz 2 şüpheli tarafından tüfekle ateş açıldı. Olayda ölen ya da yaralanan olmazken, polis ekipleri kaçan şüphelileri yakalamak için çalışma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-eglence-mekanina-tufekli-saldiri-43369065",
+   "zaman": "2026-11-07T07:14:33+03:00",
+   "kelimeler": [
+    "bursa",
+    "eglen",
+    "mekan",
+    "saldi",
+    "tufek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 07:31:10  2 yeni haber",
   "07.11 07:16:07  10 yeni haber",
   "07.11 07:03:06  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İçişleri Bakanı Mustafa Çiftçi: “Ruhsatlı silahı olana çelik kasa mecb",
   "07.11 06:01:31  1 yeni haber",
@@ -30441,8 +30453,7 @@
   "04.11 21:15:58  1 yeni haber",
   "04.11 20:47:23  1 yeni haber",
   "04.11 20:38:33  3 yeni haber",
-  "04.11 20:38:33  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "04.11 20:31:20  3 yeni haber"
+  "04.11 20:38:33  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
