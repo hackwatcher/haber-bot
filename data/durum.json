@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "808c6e5ddf73": {
-   "id": "808c6e5ddf73",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, Güney Kore'deki temaslarının ardından yurda döndü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle resmi ziyaret gerçekleştirdiği Seul'deki temaslarını tamamlayarak yurda döndü.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-temaslarinin-ardindan-yurda-dondu/4111939",
-   "zaman": "2026-11-04T21:37:31+03:00",
-   "kelimeler": [
-    "ardin",
-    "cumhu",
-    "deki",
-    "dondu",
-    "erdog",
-    "guney",
-    "kore",
-    "temas",
-    "yurda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "736f3b5da2e3": {
-   "id": "736f3b5da2e3",
-   "kaynak": "Hürriyet",
-   "baslik": "İBB'ye yönelik 'Yolsuzluk' davasında duruşma 5 Kasım'a ertelendi",
-   "ozet": "İBB’ye yönelik 'Yolsuzluk' davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 46’sı tutuklu 436 sanık, 104’üncü duruşmada hakim karşısına çıktı. Duruşma, yarın görülmeye devam edecek.",
-   "link": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-durusma-5-kasima-ertelendi-43366283",
-   "zaman": "2026-11-04T21:39:40+03:00",
-   "kelimeler": [
-    "davas",
-    "durus",
-    "ertel",
-    "ibb",
-    "kasim",
-    "ye",
-    "yolsu",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a92f00e1514c"
-  },
-  "bb7f6084c3f1": {
-   "id": "bb7f6084c3f1",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan yurda döndü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle resmi ziyaret gerçekleştirdiği Seul'deki temaslarını tamamlayarak yurda döndü.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yurda-dondu-962266.html",
-   "zaman": "2026-11-04T21:38:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "dondu",
-    "erdog",
-    "yurda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "808c6e5ddf73"
-  },
   "667cb53e0819": {
    "id": "667cb53e0819",
    "kaynak": "AA",
@@ -170,24 +108,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "e9e81b19d890": {
-   "id": "e9e81b19d890",
-   "kaynak": "AA",
-   "baslik": "ABD'deki seçimlere dünyadan tepkiler",
-   "ozet": "ABD'de resmi olmayan sonuçlara göre Demokratların Senato ve Temsilciler Meclisinde üstünlük sağladığı ara seçimlere ilişkin birçok ülkeden açıklama geldi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abddeki-secimlere-dunyadan-tepkiler/4111945",
-   "zaman": "2026-11-04T21:44:55+03:00",
-   "kelimeler": [
-    "abd",
-    "deki",
-    "dunya",
-    "secim",
-    "tepki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f8cf7ab3c274"
-  },
   "34a33489ac61": {
    "id": "34a33489ac61",
    "kaynak": "AA",
@@ -210,26 +130,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "cd07b68b91e6": {
-   "id": "cd07b68b91e6",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Liverpool'u yendi",
-   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin dördüncü haftasında Liverpool'u 3-2 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-uefa-sampiyonlar-liginde-liverpoolu-yendi/4111940",
-   "zaman": "2026-11-04T21:38:18+03:00",
-   "kelimeler": [
-    "fener",
-    "ligi",
-    "liver",
-    "nde",
-    "sampi",
-    "uefa",
-    "yendi"
-   ],
-   "durum": "hata",
-   "oncelikli": true,
-   "hata": "Media download has failed. The media URI doesn't meet our requirements. The media could not be fetched from this URI: https://raw.githubusercontent.com/hackwatcher/haber-bot/3aa90965fab06d662c789031efbc9b47810d1692/02.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating (kod 9004/2207052)"
   },
   "b1d51ab79209": {
    "id": "b1d51ab79209",
@@ -369,24 +269,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "a3ea2494d794": {
-   "id": "a3ea2494d794",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe \"İngiliz devi\" Liverpool'u \"devirdi\"",
-   "ozet": "UEFA Şampiyonlar Ligi'nin 4. haftasında İngiltere'nin Liverpool ekibini konuk eden Fenerbahçe, sahadan 3-2'lik galibiyetle ayrıldı.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ingiliz-devi-liverpoolu-devirdi/4111940",
-   "zaman": "2026-11-04T21:38:18+03:00",
-   "kelimeler": [
-    "devi",
-    "devir",
-    "fener",
-    "ingil",
-    "liver"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "0db746590187"
   },
   "aabe2293a132": {
    "id": "aabe2293a132",
@@ -28225,7 +28107,10 @@
     "gidec"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "a503780fec16": {
    "id": "a503780fec16",
@@ -28385,9 +28270,84 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8bbcf2cb333d": {
+   "id": "8bbcf2cb333d",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459",
+   "zaman": "2026-11-07T21:18:18+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gidec",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
+  },
+  "037f017ed400": {
+   "id": "037f017ed400",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum: COP31 gündeminde 10 önemli madde var",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, gündeme ilişkin soruları yanıtlıyor. Bakan Kurum, \"COP31 gündeminde 10 önemli madde var. Atıkların yüzde 50 azaltılması hedefte\" ifadelerini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-cop31-gundeminde-10-onemli-madde-var-43369896",
+   "zaman": "2026-11-07T21:28:00+03:00",
+   "kelimeler": [
+    "10",
+    "bakan",
+    "cop31",
+    "gunde",
+    "kurum",
+    "madde",
+    "oneml"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f49e7f90b485": {
+   "id": "f49e7f90b485",
+   "kaynak": "Sözcü",
+   "baslik": "Erdoğan, Azerbaycan kararını verdi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/erdogan-azerbaycan-kararini-verdi-p377008",
+   "zaman": "2026-11-07T21:34:51+03:00",
+   "kelimeler": [
+    "azerb",
+    "erdog",
+    "karar",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd9d1d22a745": {
+   "id": "bd9d1d22a745",
+   "kaynak": "AA",
+   "baslik": "Trump, Demokratların üst düzey birçok Cumhuriyetçiyi tehdit ettiğini savundu",
+   "ozet": "ABD Başkanı Donald Trump, Demokratların, Cumhuriyetçi bağışçılar dahil partiden birçok üst düzey kişiyi \"azil\" ve diğer ceza türleriyle tehdit ettiğini ileri sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-demokratlarin-ust-duzey-bircok-cumhuriyetciyi-tehdit-ettigini-savundu/4115469",
+   "zaman": "2026-11-07T21:39:58+03:00",
+   "kelimeler": [
+    "birco",
+    "cumhu",
+    "demok",
+    "duzey",
+    "ettig",
+    "savun",
+    "tehdi",
+    "trump",
+    "ust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 21:46:02  3 yeni haber",
   "07.11 21:31:21  3 yeni haber",
   "07.11 21:16:17  2 yeni haber",
   "07.11 21:01:39  7 yeni haber",
@@ -28586,8 +28546,7 @@
   "05.11 15:46:10  2 yeni haber",
   "05.11 15:31:17  3 yeni haber",
   "05.11 15:16:00  10 yeni haber",
-  "05.11 15:01:33  2 yeni haber",
-  "05.11 14:46:02  5 yeni haber"
+  "05.11 15:01:33  2 yeni haber"
  ],
  "otomatik": false
 }
