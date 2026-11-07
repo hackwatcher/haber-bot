@@ -26086,7 +26086,8 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "812cba881db7": {
    "id": "812cba881db7",
@@ -28352,9 +28353,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "915e931f8d6e": {
+   "id": "915e931f8d6e",
+   "kaynak": "AA",
+   "baslik": "\"6. Korkut Ata Türk Dünyası Film Festivali\" ödül töreniyle sona erdi",
+   "ozet": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\" kapanış ve ödül töreni, Atatürk Kültür Merkezi'nde (AKM) gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-odul-toreniyle-sona-erdi/4115558",
+   "zaman": "2026-11-08T00:01:23+03:00",
+   "kelimeler": [
+    "ata",
+    "dunya",
+    "erdi",
+    "festi",
+    "film",
+    "korku",
+    "odul",
+    "sona",
+    "toren",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7fdee23263ac"
+  },
+  "a0081295172e": {
+   "id": "a0081295172e",
+   "kaynak": "AA",
+   "baslik": "Arda Güler'in gol attığı maçta Real Madrid, Valencia'yı 3-0 yendi",
+   "ozet": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler'in 1 gol attığı maçta Valencia'yı 3-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/arda-gulerin-gol-attigi-macta-real-madrid-valenciayi-3-0-yendi/4115597",
+   "zaman": "2026-11-08T01:20:50+03:00",
+   "kelimeler": [
+    "arda",
+    "attig",
+    "gol",
+    "guler",
+    "in",
+    "macta",
+    "madri",
+    "real",
+    "valen",
+    "yendi",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "27cd629d5b07": {
+   "id": "27cd629d5b07",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da gece saatlerinde kar yağışı etkili oldu",
+   "ozet": "Ankara'da gece saatlerinde başlayan kar yağışı, kentin bazı noktalarında etkili oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-gece-saatlerinde-kar-yagisi-etkili-oldu-43370055",
+   "zaman": "2026-11-08T02:01:21+03:00",
+   "kelimeler": [
+    "ankar",
+    "etkil",
+    "gece",
+    "kar",
+    "saatl",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 02:16:02  2 yeni haber",
   "08.11 02:00:47  2 yeni haber",
   "08.11 01:46:00  3 yeni haber",
   "08.11 01:02:45  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Galatasaray, Amed SF'yi 4-3 mağlup etti.",
@@ -28553,8 +28619,7 @@
   "05.11 19:32:18  1 yeni haber",
   "05.11 19:16:06  5 yeni haber",
   "05.11 18:46:10  4 yeni haber",
-  "05.11 18:31:22  2 yeni haber",
-  "05.11 18:16:20  1 yeni haber"
+  "05.11 18:31:22  2 yeni haber"
  ],
  "otomatik": false
 }
