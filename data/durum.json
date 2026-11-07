@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "b02e44df9cea": {
-   "id": "b02e44df9cea",
-   "kaynak": "TRT Haber",
-   "baslik": "Manisa'da otomobil şarampole devrildi: 5 yaralı",
-   "ozet": "Manisa'nın Kırkağaç ilçesinde otomobilin şarampole devrildiği kazada 2'si çocuk 5 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/manisada-otomobil-sarampole-devrildi-5-yarali-962276.html",
-   "zaman": "2026-11-05T02:35:00+03:00",
-   "kelimeler": [
-    "devri",
-    "manis",
-    "otomo",
-    "saram",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
   "c20a8b0baf11": {
    "id": "c20a8b0baf11",
    "kaynak": "BBC Türkçe",
@@ -28417,9 +28399,112 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "27cd629d5b07"
+  },
+  "13e8e87e7d77": {
+   "id": "13e8e87e7d77",
+   "kaynak": "AA",
+   "baslik": "Mısır, bölgesel gerilimlerin ekonomik etkilerine karşı kamu harcamalarını kısıtlamaya hazırlanıyor",
+   "ozet": "Mısır hükümeti, bölgesel gerilimlerin ülke ekonomisi üzerindeki olası etkilerini sınırlandırmak amacıyla elektrik ve yakıt tüketiminin azaltılması, kamu harcamalarının kısıtlanması ve bazı yatırımların ertelenmesini öngören tasarruf planını onayladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/misir-bolgesel-gerilimlerin-ekonomik-etkilerine-karsi-kamu-harcamalarini-kisitlamaya-hazirlaniyor/4115604",
+   "zaman": "2026-11-08T02:17:26+03:00",
+   "kelimeler": [
+    "bolge",
+    "ekono",
+    "etkil",
+    "geril",
+    "harca",
+    "hazir",
+    "kamu",
+    "karsi",
+    "kisit",
+    "misir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "698580c4298d": {
+   "id": "698580c4298d",
+   "kaynak": "AA",
+   "baslik": "Anadolu Isuzu Özbekistan yatırımıyla Orta Asya ve Afrika pazarlarında büyümeyi amaçlıyor",
+   "ozet": "Anadolu Isuzu, Özbekistan merkezli ticari araç üreticilerinden SamAuto'nun yüzde 75,2 hissesini devralmasıyla başlattığı yurt dışı üretim tesisi yatırımıyla Orta Asya ve Afrika pazarlarında büyümeyi hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anadolu-isuzu-ozbekistan-yatirimiyla-orta-asya-ve-afrika-pazarlarinda-buyumeyi-amacliyor/4115605",
+   "zaman": "2026-11-08T02:18:00+03:00",
+   "kelimeler": [
+    "afrik",
+    "amacl",
+    "anado",
+    "asya",
+    "buyum",
+    "isuzu",
+    "orta",
+    "ozbek",
+    "pazar",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "65ee2f9c7029": {
+   "id": "65ee2f9c7029",
+   "kaynak": "AA",
+   "baslik": "Mısır ve Trabzon arasındaki işbirliğinde Muhammed Salah etkisi",
+   "ozet": "Türkiye'nin Kahire Büyükelçisi Salih Mutlu Şen, gelecek dönemde Mısır'dan, Muhammed Salah'ın yarattığı alaka ve cazibe sayesinde güzel Trabzon'a yalnızca charter değil, doğrudan tarifeli uçak seferleri başlatmayı hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/misir-ve-trabzon-arasindaki-isbirliginde-muhammed-salah-etkisi/4115606",
+   "zaman": "2026-11-08T02:18:21+03:00",
+   "kelimeler": [
+    "arasi",
+    "etkis",
+    "isbir",
+    "misir",
+    "muham",
+    "salah",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d1b1c5f96275": {
+   "id": "d1b1c5f96275",
+   "kaynak": "AA",
+   "baslik": "Manavgat susamının hasadı yağışlarla uzadı",
+   "ozet": "Antalya'nın Manavgat ilçesinde coğrafi işaret tescilli susamın hasadı, yağışların erken başlaması nedeniyle kasıma sarktı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/manavgat-susaminin-hasadi-yagislarla-uzadi/4115607",
+   "zaman": "2026-11-08T02:18:52+03:00",
+   "kelimeler": [
+    "hasad",
+    "manav",
+    "susam",
+    "uzadi",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "607ef5670909": {
+   "id": "607ef5670909",
+   "kaynak": "AA",
+   "baslik": "Milli sürat patenci Furkan Akar'ın başarı yolculuğu devam ediyor",
+   "ozet": "Avrupa ve dünya şampiyonalarında kazandığı madalyalarla Türk sürat pateninde ilkleri başaran milli sporcu Furkan Akar, ISU Kısa Kulvar Sürat Pateni Dünya Turu'nun Kanada'daki ilk etabında elde ettiği bronz madalyayla başarı yolculuğunu sürdürdü.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-surat-patenci-furkan-akarin-basari-yolculugu-devam-ediyor/4115608",
+   "zaman": "2026-11-08T02:19:12+03:00",
+   "kelimeler": [
+    "akar",
+    "basar",
+    "devam",
+    "ediyo",
+    "furka",
+    "in",
+    "milli",
+    "paten",
+    "surat",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "08.11 02:46:10  5 yeni haber",
   "08.11 02:16:02  2 yeni haber",
   "08.11 02:00:47  2 yeni haber",
   "08.11 01:46:00  3 yeni haber",
@@ -28618,8 +28703,7 @@
   "05.11 20:01:31  5 yeni haber",
   "05.11 19:32:18  1 yeni haber",
   "05.11 19:16:06  5 yeni haber",
-  "05.11 18:46:10  4 yeni haber",
-  "05.11 18:31:22  2 yeni haber"
+  "05.11 18:46:10  4 yeni haber"
  ],
  "otomatik": false
 }
