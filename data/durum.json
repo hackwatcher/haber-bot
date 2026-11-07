@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "34a33489ac61": {
-   "id": "34a33489ac61",
-   "kaynak": "AA",
-   "baslik": "ABD'den İran'ın petrol taşımacılığına destek veren denizcilik ağına yaptırım",
-   "ozet": "ABD Hazine Bakanlığı, İran'a yaptırımları aşarak petrol taşımacılığı yapmasına yardımcı olan Hindistan merkezli denizcilik ağını yaptırım listesine ekledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-iranin-petrol-tasimaciligina-destek-veren-denizcilik-agina-yaptirim/4111999",
-   "zaman": "2026-11-04T22:20:25+03:00",
-   "kelimeler": [
-    "abd",
-    "agina",
-    "den",
-    "deniz",
-    "deste",
-    "in",
-    "iran",
-    "petro",
-    "tasim",
-    "veren",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b1d51ab79209": {
-   "id": "b1d51ab79209",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi: İtalya ile güvenlik alanındaki iş birliğimizi daha ileri taşımayı hedefliyoruz",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, İtalya İçişleri Bakanı Matteo Piantedosi ile bir araya geldi. Çiftçi, \"NATO müttefikimiz ve stratejik ortağımız İtalya ile güvenlik alanındaki iş birliğimizi somut adımlarla daha ileri taşımayı hedefliyoruz\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-italya-ile-guvenlik-alanindaki-is-birligimizi-daha-ileri-tasimayi-hedefliyoruz-962267.html",
-   "zaman": "2026-11-04T22:18:00+03:00",
-   "kelimeler": [
-    "alani",
-    "bakan",
-    "birli",
-    "ciftc",
-    "guven",
-    "hedef",
-    "ileri",
-    "is",
-    "italy",
-    "tasim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9a037737fda9": {
-   "id": "9a037737fda9",
-   "kaynak": "AA",
-   "baslik": "ABD'de Cumhuriyetçilerin ara seçim yenilgisinde İsrail'e destek ve İran'la savaşın etkisi tartışılıyor",
-   "ozet": "ABD'de ara seçimlerde Cumhuriyetçilerin yaşadığı büyük oy kaybını değerlendiren uzmanlar, bu sonuçta Washington yönetiminin İran'a yönelik saldırılarının ve İsrail'le yakın ilişkilerinin etkili olduğuna işaret etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-cumhuriyetcilerin-ara-secim-yenilgisinde-israile-destek-ve-iranla-savasin-etkisi-tartisiliyor/4112004",
-   "zaman": "2026-11-04T22:27:58+03:00",
-   "kelimeler": [
-    "abd",
-    "ara",
-    "cumhu",
-    "deste",
-    "etkis",
-    "iran",
-    "israi",
-    "la",
-    "savas",
-    "secim",
-    "tarti",
-    "yenil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0db746590187": {
    "id": "0db746590187",
    "kaynak": "TRT Haber",
@@ -28144,7 +28075,8 @@
     "trt"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c3c1bda98a0c": {
    "id": "c3c1bda98a0c",
@@ -28336,9 +28268,73 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "27983108bd70"
+  },
+  "ee3211b4a4e1": {
+   "id": "ee3211b4a4e1",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturması kapsamında 4 şüpheli gözaltına alındı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında; Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkan Yardımcısı Muhammet Erişen, Ruzy Madencilik Yönetim Kurulu Başkanı Nureddin Çevik, Takasbank eski Genel Müdürü Yunus Arıncı ve…",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-kapsaminda-4-supheli-gozaltina-alindi-43369874",
+   "zaman": "2026-11-07T20:48:00+03:00",
+   "kelimeler": [
+    "alind",
+    "fon",
+    "gozal",
+    "kapsa",
+    "sorus",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8fc4e114e097"
+  },
+  "751f8d8f9ce7": {
+   "id": "751f8d8f9ce7",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Murat Kurum: COP31de Sıfır Atık tecrübemizi tüm dünyaya aktaracağız",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TRT Haberde gündeme ilişkin soruları yanıtladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-murat-kurum-cop31de-sifir-atik-tecrubemizi-tum-dunyaya-aktaracagiz-962556.html",
+   "zaman": "2026-11-07T21:10:00+03:00",
+   "kelimeler": [
+    "aktar",
+    "atik",
+    "bakan",
+    "cop31",
+    "dunya",
+    "kurum",
+    "murat",
+    "sifir",
+    "tecru",
+    "tum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9de767bee5ea"
+  },
+  "29624b88ade2": {
+   "id": "29624b88ade2",
+   "kaynak": "AA",
+   "baslik": "AA Kürek Yarışı'nda birinciliği Kürek Tasarımcıları takımı elde etti",
+   "ozet": "Anadolu Ajansı Spor Kulübü (AASK) tarafından, Anadolu Ajansı çalışanlarının katılımıyla kürek yarışması düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/spor/aa-kurek-yarisinda-birinciligi-kurek-tasarimcilari-takimi-elde-etti/4115473",
+   "zaman": "2026-11-07T21:47:42+03:00",
+   "kelimeler": [
+    "aa",
+    "birin",
+    "elde",
+    "etti",
+    "kurek",
+    "nda",
+    "takim",
+    "tasar",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "07.11 22:31:15  1 yeni haber",
   "07.11 22:16:03  2 yeni haber",
   "07.11 22:01:23  1 yeni haber",
   "07.11 21:46:02  3 yeni haber",
@@ -28537,8 +28533,7 @@
   "05.11 16:16:02  6 yeni haber",
   "05.11 16:01:28  4 yeni haber",
   "05.11 15:48:09  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · İngiltere Merkez Bankası politika faizini 25 baz puan artırarak yüzde ",
-  "05.11 15:46:10  2 yeni haber",
-  "05.11 15:31:17  3 yeni haber"
+  "05.11 15:46:10  2 yeni haber"
  ],
  "otomatik": false
 }
