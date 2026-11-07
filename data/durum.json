@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "5e25887ea6a4": {
-   "id": "5e25887ea6a4",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan LG CEO'su Lyu Jae-cheol ile görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, LG Electronics (LG)CEO'su Lyu Jae-cheol'uyu kabul etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-lg-ceosu-lyu-jae-cheol-ile-gorustu-43365245",
-   "zaman": "2026-11-04T08:17:00+03:00",
-   "kelimeler": [
-    "ceo",
-    "cheol",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "jae",
-    "lg",
-    "lyu",
-    "su"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7db068f659d2": {
-   "id": "7db068f659d2",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD Başkanı Donald Trump İran konusunda aldığı kararı savundu",
-   "ozet": "ABD Başkanı Donald Trump, Demokratların önde götürdüğü Kongre ara seçimlerinin sonuçlarını değerlendirirken, \"İran konusunda aldığı kararın kesinlikle doğru olduğuna emin olduğunu\" söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-donald-trump-iran-konusunda-aldigi-karari-savundu-962171.html",
-   "zaman": "2026-11-04T08:28:00+03:00",
-   "kelimeler": [
-    "abd",
-    "aldig",
-    "baska",
-    "donal",
-    "iran",
-    "karar",
-    "konus",
-    "savun",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8f1c240a672e": {
    "id": "8f1c240a672e",
    "kaynak": "NTV",
@@ -23413,7 +23371,10 @@
     "perso"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1cdcbd6522e5": {
    "id": "1cdcbd6522e5",
@@ -30151,6 +30112,26 @@
    "fb_reels_id": "28815086114850768",
    "slayt": 4,
    "kanca": "ANİ MANEVRA KAZASI"
+  },
+  "5bb92703da17": {
+   "id": "5bb92703da17",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'da COP31 için 28 bine yakın personel görevlendirildi",
+   "ozet": "920 Kasım'da düzenlenecek Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 kapsamında Antalya'da 27 bin 957 personel görev yapacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-cop31-icin-28-bine-yakin-personel-gorevlendirildi-962490.html",
+   "zaman": "2026-11-07T08:05:00+03:00",
+   "kelimeler": [
+    "28",
+    "antal",
+    "bine",
+    "cop31",
+    "gorev",
+    "perso",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4e63c7313628"
   }
  },
  "kayit": [
