@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "c15559196e25": {
-   "id": "c15559196e25",
-   "kaynak": "AA",
-   "baslik": "Filistin: Gazze Barış Planı, İsrail işgalinin sona erdirilmesi için temel oluşturuyor",
-   "ozet": "Filistin Dışişleri Bakanlığı, ABD Başkanı Donald Trump'ın sunduğu Barış Planı'nın, İsrail'in Gazze Şeridi'ndeki işgalinin sona erdirilmesinde temel teşkil ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-gazze-baris-plani-israil-isgalinin-sona-erdirilmesi-icin-temel-olusturuyor/4113486",
-   "zaman": "2026-11-06T00:03:12+03:00",
-   "kelimeler": [
-    "baris",
-    "erdir",
-    "filis",
-    "gazze",
-    "isgal",
-    "israi",
-    "olust",
-    "plani",
-    "sona",
-    "temel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "222819b6f7c0": {
-   "id": "222819b6f7c0",
-   "kaynak": "TRT Haber",
-   "baslik": "Bavullardan çoraplara sarılmış 3 bin tarantula çıktı",
-   "ozet": "Peru'daki Jorge Chvez Uluslararası Havalimanı'nda yolcuların çoraplarına gizlenmiş 3 binden fazla tarantula ele geçirilirken, aralarında henüz bilim dünyasınca tanımlanmamış türlerin de bulunduğu bu canlıları kaçırmaya çalışan üç kişi gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/dunya/bavullardan-coraplara-sarilmis-3-bin-tarantula-cikti-962376.html",
-   "zaman": "2026-11-06T00:05:00+03:00",
-   "kelimeler": [
-    "bavul",
-    "bin",
-    "cikti",
-    "corap",
-    "saril",
-    "taran"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b792f90d6d9a": {
-   "id": "b792f90d6d9a",
-   "kaynak": "TRT Haber",
-   "baslik": "Mikroplastikten oluşan çöp yığınları okyanusun rengini değiştiriyor olabilir",
-   "ozet": "Kuzey Pasifik Okyanusu'nda devasa bir alana yayılan plastik atık yığınındaki yoğun mikroplastikler, uydulardan tespit edilebilen benzersiz bir optik değişime yol açarak okyanusun rengini değiştirdiğine işaret ediyor.",
-   "link": "https://www.trthaber.com/haber/dunya/mikroplastikten-olusan-cop-yiginlari-okyanusun-rengini-degistiriyor-olabilir-962377.html",
-   "zaman": "2026-11-06T00:09:00+03:00",
-   "kelimeler": [
-    "cop",
-    "degis",
-    "mikro",
-    "okyan",
-    "olabi",
-    "olusa",
-    "rengi",
-    "yigin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "38dedffdfced": {
    "id": "38dedffdfced",
    "kaynak": "BBC Türkçe",
@@ -23948,7 +23888,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1298f6832942": {
    "id": "1298f6832942",
@@ -24951,7 +24894,10 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "405d98e40563": {
    "id": "405d98e40563",
@@ -24998,9 +24944,64 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "5bdcac3d06dc": {
+   "id": "5bdcac3d06dc",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa RusyaUkrayna müzakerelerinde masada olacak",
+   "ozet": "Fransa Dışişleri Bakanı JeanNoel Barrot, 1011 Kasım'da Birleşik Arap Emirlikleri'nin BAE başkenti Abu Dabi'de Ukrayna ile Rusya arasında ABD arabuluculuğunda yapılacak müzakerelerde Avrupa'nın da masada olacağını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/fransa-rusya-ukrayna-muzakerelerinde-masada-olacak-962619.html",
+   "zaman": "2026-11-08T23:56:00+03:00",
+   "kelimeler": [
+    "frans",
+    "masad",
+    "muzak",
+    "olaca",
+    "rusya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8e2b722983dc"
+  },
+  "d000f52a3209": {
+   "id": "d000f52a3209",
+   "kaynak": "TRT Haber",
+   "baslik": "Trabzon'da eğitime kar engeli",
+   "ozet": "Trabzon'un Tonya ve Şalpazarı ilçelerinde olumsuz hava koşulları nedeniyle taşımalı eğitime yarın ara verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/trabzonda-egitime-kar-engeli-962620.html",
+   "zaman": "2026-11-08T23:59:00+03:00",
+   "kelimeler": [
+    "egiti",
+    "engel",
+    "kar",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9996a778da82": {
+   "id": "9996a778da82",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor",
+   "ozet": "Türkiye'nin ilk kez ev sahipliği yapacağı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31, Antalya COP31 Alanı'nda bugün başlıyor.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipligindeki-cop31-bugun-basliyor-962621.html",
+   "zaman": "2026-11-09T00:04:00+03:00",
+   "kelimeler": [
+    "basli",
+    "bugun",
+    "cop31",
+    "ev",
+    "nin",
+    "sahip",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "28d99edd8ee8"
   }
  },
  "kayit": [
+  "09.11 00:16:02  1 yeni haber",
   "09.11 00:03:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Tarihçi Prof. Dr. Engin Deniz Akarlı vefat etti",
   "09.11 00:01:29  2 yeni haber",
   "08.11 23:46:02  1 yeni haber",
@@ -25199,8 +25200,7 @@
   "06.11 16:31:17  5 yeni haber",
   "06.11 16:16:03  6 yeni haber",
   "06.11 16:01:39  8 yeni haber",
-  "06.11 15:46:21  3 yeni haber",
-  "06.11 15:31:14  6 yeni haber"
+  "06.11 15:46:21  3 yeni haber"
  ],
  "otomatik": false
 }
