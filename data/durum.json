@@ -1,124 +1,5 @@
 {
  "haberler": {
-  "1a9fde260549": {
-   "id": "1a9fde260549",
-   "kaynak": "AA",
-   "baslik": "Fitch, ABD'de veri merkezi projelerinin giderek artan zorluklarla karşı karşıya olduğuna işaret etti",
-   "ozet": "Fitch Ratings, ABD'deki yapay zeka veri merkezi projelerinin olası eyalet düzenlemeleri ve elektrik tedarikindeki gecikmeler nedeniyle giderek daha fazla zorlukla karşılaştığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abdde-veri-merkezi-projelerinin-giderek-artan-zorluklarla-karsi-karsiya-olduguna-isaret-etti/4113296",
-   "zaman": "2026-11-05T20:17:44+03:00",
-   "kelimeler": [
-    "abd",
-    "artan",
-    "etti",
-    "fitch",
-    "gider",
-    "isare",
-    "karsi",
-    "merke",
-    "oldug",
-    "proje",
-    "veri",
-    "zorlu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "50db06a9fb38": {
-   "id": "50db06a9fb38",
-   "kaynak": "TRT Haber",
-   "baslik": "Pizzaya ananas koymayan şef işinden oldu",
-   "ozet": "Avustralyanın Queensland eyaletindeki lüks bir İtalyan restoranında baş aşçılık yapan Davide Tamburella, pizzaya ananas koymayı reddettiği için işten çıkarıldı.",
-   "link": "https://www.trthaber.com/haber/dunya/pizzaya-ananas-koymayan-sef-isinden-oldu-962365.html",
-   "zaman": "2026-11-05T20:18:00+03:00",
-   "kelimeler": [
-    "anana",
-    "isind",
-    "koyma",
-    "pizza",
-    "sef"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "405e9a6ade9c": {
-   "id": "405e9a6ade9c",
-   "kaynak": "AA",
-   "baslik": "İngiliz The Independent gazetesi: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
-   "ozet": "ABD Dışişleri Bakanı Marco Rubio'nun 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiliz-the-independent-gazetesi-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek/4113300",
-   "zaman": "2026-11-05T20:21:57+03:00",
-   "kelimeler": [
-    "abd",
-    "bakan",
-    "baska",
-    "disis",
-    "edece",
-    "gazet",
-    "indep",
-    "ingil",
-    "istif",
-    "rubio",
-    "the",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ]
-  },
-  "3540cfadaf20": {
-   "id": "3540cfadaf20",
-   "kaynak": "TRT Haber",
-   "baslik": "İngiliz The Independent gazetesi: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
-   "ozet": "ABD Dışişleri Bakanı Marco Rubio'nun, 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
-   "link": "https://www.trthaber.com/haber/dunya/ingiliz-the-independent-gazetesi-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek-962366.html",
-   "zaman": "2026-11-05T20:22:00+03:00",
-   "kelimeler": [
-    "abd",
-    "bakan",
-    "baska",
-    "disis",
-    "edece",
-    "gazet",
-    "indep",
-    "ingil",
-    "istif",
-    "rubio",
-    "the",
-    "yaris"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "405e9a6ade9c"
-  },
-  "0f23a7fdb0ee": {
-   "id": "0f23a7fdb0ee",
-   "kaynak": "AA",
-   "baslik": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste, Eisenkot'un hükümet kurmakla görevlendirilmesini önerdi",
-   "ozet": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste, Cumhurbaşkanı Isaac Herzog'a hükümet kurma yetkisini muhalefet lideri Gadi Eisenkot'a vermesini önerdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-ortak-liste-eisenkotun-hukumet-kurmakla-gorevlendirilmesini-onerdi/4113303",
-   "zaman": "2026-11-05T20:28:03+03:00",
-   "kelimeler": [
-    "eden",
-    "eisen",
-    "filis",
-    "gorev",
-    "hukum",
-    "israi",
-    "kurma",
-    "liste",
-    "onerd",
-    "ortak",
-    "temsi",
-    "un",
-    "vatan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7dbe6a3fcf73": {
    "id": "7dbe6a3fcf73",
    "kaynak": "AA",
@@ -25523,9 +25404,81 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "bed4203e54b3"
+  },
+  "9b643c47bf7c": {
+   "id": "9b643c47bf7c",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in Gazze'ye saldırısında 2 Filistinli hayatını kaybetti",
+   "ozet": "Katil İsrail ordusunun Gazze Şeridi'nin güneyindeki Han Yunus kentine düzenlediği İHA saldırısında biri kadın, 2 kişi yaşamını yitirdi, çok sayıda kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirisinda-2-filistinli-hayatini-kaybetti-962614.html",
+   "zaman": "2026-11-08T20:14:00+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "katil",
+    "kaybe",
+    "saldi",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "f157ac784e17": {
+   "id": "f157ac784e17",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'ye düzenlediği İHA saldırısında biri kadın, 2 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun, Gazze Şeridi'nin güneyindeki Han Yunus kentine düzenlediği İHA saldırısında biri kadın, 2 kişi yaşamını yitirdi, çok sayıda kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-iha-saldirisinda-biri-kadin-2-filistinli-hayatini-kaybetti/4116243",
+   "zaman": "2026-11-08T20:14:04+03:00",
+   "kelimeler": [
+    "biri",
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "iha",
+    "in",
+    "israi",
+    "kadin",
+    "kaybe",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9b643c47bf7c"
+  },
+  "b5339bc4f967": {
+   "id": "b5339bc4f967",
+   "kaynak": "AA",
+   "baslik": "İran Dışişleri Bakanı Erakçi: Şimdi seçim yapma sırası Beyaz Saray'da",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD yönetimine, Tahran'ın \"2 günlük teklifini\" kabul etme çağrısında bulunarak, aksi halde İran'ın savaş seçeneğine karşılık vereceği mesajını gönderdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-simdi-secim-yapma-sirasi-beyaz-sarayda/4116251",
+   "zaman": "2026-11-08T20:26:23+03:00",
+   "kelimeler": [
+    "bakan",
+    "beyaz",
+    "disis",
+    "erakc",
+    "iran",
+    "saray",
+    "secim",
+    "simdi",
+    "siras",
+    "yapma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 20:31:19  2 yeni haber",
   "08.11 20:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye SKIL Enduro ve ATV Şampiyonası'nın Rize ayağı, karlı havada ta",
   "08.11 20:01:27  2 yeni haber",
   "08.11 19:46:00  2 yeni haber",
@@ -25724,8 +25677,7 @@
   "06.11 14:01:28  5 yeni haber",
   "06.11 13:46:11  7 yeni haber",
   "06.11 13:33:09  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · ABD'deki ara seçimlerin ardından gözler ekonomi ve ticaret politikalar",
-  "06.11 13:31:16  1 yeni haber",
-  "06.11 13:16:08  2 yeni haber"
+  "06.11 13:31:16  1 yeni haber"
  ],
  "otomatik": false
 }
