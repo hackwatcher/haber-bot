@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "b1e806fabe28": {
-   "id": "b1e806fabe28",
-   "kaynak": "AA",
-   "baslik": "Interpol tarafından aranan firari hükümlü Mersin'de yakalandı",
-   "ozet": "Interpol tarafından aranan ve hakkında 9 yıl 7 ay hapis cezası olan firari hükümlü Mersin'deki Çukurova Uluslararası Havalimanı'nda yakalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/interpol-tarafindan-aranan-firari-hukumlu-mersinde-yakalandi-/4113215",
-   "zaman": "2026-11-05T18:48:50+03:00",
-   "kelimeler": [
-    "arana",
-    "firar",
-    "hukum",
-    "inter",
-    "mersi",
-    "taraf",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "bfb961ae41f8": {
-   "id": "bfb961ae41f8",
-   "kaynak": "AA",
-   "baslik": "Gazze Sivil Savunma Müdürlüğü, çadırlarda kalan Filistinlileri şiddetli yağış ve rüzgara karşı uyardı",
-   "ozet": "Gazze Sivil Savunma Müdürlüğü, cuma günü beklenen şiddetli yağış ve rüzgarlara karşı uyarıda bulunarak, bu durumun İsrail saldırıları nedeniyle çadırlarda kalan Filistinlileri tehdit ettiğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazze-sivil-savunma-mudurlugu-cadirlarda-kalan-filistinlileri-siddetli-yagis-ve-ruzgara-karsi-uyardi/4113221",
-   "zaman": "2026-11-05T18:52:47+03:00",
-   "kelimeler": [
-    "cadir",
-    "filis",
-    "gazze",
-    "kalan",
-    "karsi",
-    "mudur",
-    "ruzga",
-    "savun",
-    "sidde",
-    "sivil",
-    "uyard",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a79d0bb7c9cc": {
-   "id": "a79d0bb7c9cc",
-   "kaynak": "AA",
-   "baslik": "KKTC Dışişleri Bakanlığından \"Avrupa Komisyonu 2026 Türkiye Raporu\"na tepki",
-   "ozet": "KKTC Dışişleri Bakanlığı, Avrupa Komisyonunun 2026 Türkiye Raporu'nda KKTC ve Kıbrıs Türk halkının meşru haklarına yönelik ithamları \"taraflı, gerçeklerden kopuk ve haksız\" olarak nitelendirerek reddetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/kktc-disisleri-bakanligindan-avrupa-komisyonu-2026-turkiye-raporuna-tepki/4113226",
-   "zaman": "2026-11-05T18:57:28+03:00",
-   "kelimeler": [
-    "2026",
-    "avrup",
-    "bakan",
-    "disis",
-    "kktc",
-    "komis",
-    "na",
-    "rapor",
-    "tepki",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "330634b5fb08"
-  },
   "42556d8a2ea1": {
    "id": "42556d8a2ea1",
    "kaynak": "AA",
@@ -17659,7 +17593,10 @@
     "tatbi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "10da4d911360": {
    "id": "10da4d911360",
@@ -19397,7 +19334,10 @@
    "fb_id": "1276642895542042_122114847387472027",
    "fb_reels_id": null,
    "slayt": 4,
-   "kanca": "GÖREV EISENKOT'A VERİLDİ"
+   "kanca": "GÖREV EISENKOT'A VERİLDİ",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b078c12fb3e0": {
    "id": "b078c12fb3e0",
@@ -19545,7 +19485,8 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "dfe0bd38aca3": {
    "id": "dfe0bd38aca3",
@@ -25656,6 +25597,72 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c6d593f1ae20": {
+   "id": "c6d593f1ae20",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail'de hükümeti kurma görevi Eisenkot'a verildi",
+   "ozet": "İsrail'de 27 Ekim'de yapılan genel seçimlerin ardından Cumhurbaşkanı Isaac Herzog, hükümeti kurma görevini resmen muhalefetteki Yashar Partisi lideri Gadi Eisenkot'a verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/israilde-hukumeti-kurma-gorevi-eisenkota-verildi-962613.html",
+   "zaman": "2026-11-08T18:51:00+03:00",
+   "kelimeler": [
+    "eisen",
+    "gorev",
+    "hukum",
+    "israi",
+    "kurma",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bed4203e54b3"
+  },
+  "9fec8467ced6": {
+   "id": "9fec8467ced6",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB: Dostluk Denizi-2026 Tatbikatı, Mısır'ın ev sahipliğinde İskenderiye'de yapıldı",
+   "ozet": "Milli Savunma Bakanlığı (MSB), ‘Dostluk Denizi-2026 Tatbikatı’nın Mısır ev sahipliğinde İskenderiye’de gerçekleştirildiğini bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/msb-dostluk-denizi-2026-tatbikati-misirin-ev-sahipliginde-iskenderiyede-yapildi-43370732",
+   "zaman": "2026-11-08T18:51:00+03:00",
+   "kelimeler": [
+    "2026",
+    "deniz",
+    "dostl",
+    "ev",
+    "in",
+    "isken",
+    "misir",
+    "msb",
+    "sahip",
+    "tatbi",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8348f297a3f2"
+  },
+  "edd051d5a77f": {
+   "id": "edd051d5a77f",
+   "kaynak": "AA",
+   "baslik": "İsrail Cumhurbaşkanı Herzog, hükümeti kurma görevini muhalefet lideri Eisenkot'a verdi",
+   "ozet": "İsrail'de 27 Ekim'de yapılan genel seçimlerin ardından Cumhurbaşkanı Isaac Herzog, hükümeti kurma görevini resmen muhalefetteki Yashar Partisi lideri Gadi Eisenkot'a verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzog-hukumeti-kurma-gorevini-muhalefet-lideri-eisenkota-verdi/4116189",
+   "zaman": "2026-11-08T18:53:58+03:00",
+   "kelimeler": [
+    "cumhu",
+    "eisen",
+    "gorev",
+    "herzo",
+    "hukum",
+    "israi",
+    "kurma",
+    "lider",
+    "muhal",
+    "verdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c78df2864d08"
   }
  },
  "kayit": [
