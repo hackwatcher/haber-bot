@@ -25620,7 +25620,10 @@
     "topla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "53b249613308": {
    "id": "53b249613308",
@@ -25662,7 +25665,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "78feee72c7d8": {
    "id": "78feee72c7d8",
@@ -25702,9 +25708,110 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "b7d5bb8ccae4"
+  },
+  "3986efe1ea33": {
+   "id": "3986efe1ea33",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızlarından Hürmüz Boğazı uyarısı: Mayınlar bekliyor",
+   "ozet": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediği\" uyarısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlarindan-hurmuz-bogazi-uyarisi-mayinlar-bekliyor-962600.html",
+   "zaman": "2026-11-08T15:20:00+03:00",
+   "kelimeler": [
+    "bekli",
+    "bogaz",
+    "devri",
+    "hurmu",
+    "iran",
+    "mayin",
+    "muhaf",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "daad85305020"
+  },
+  "44955be7548c": {
+   "id": "44955be7548c",
+   "kaynak": "AA",
+   "baslik": "Mobil Dünya Kongresi (MWC Doha 2026) Katar'da başladı",
+   "ozet": "Türkiye pavilyonunun da yer aldığı etkinlikte yapay zeka, yeni nesil iletişim teknolojileri ve dijital dönüşüm alanındaki gelişmeler ele alınıyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/mobil-dunya-kongresi-mwc-doha-2026-katarda-basladi/4116027",
+   "zaman": "2026-11-08T15:31:40+03:00",
+   "kelimeler": [
+    "2026",
+    "basla",
+    "doha",
+    "dunya",
+    "katar",
+    "kongr",
+    "mobil",
+    "mwc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "277da2107395": {
+   "id": "277da2107395",
+   "kaynak": "AA",
+   "baslik": "Türk Telekom COP31'in teknoloji altyapısının sorumluluğunu üstlendi",
+   "ozet": "Türk Telekom, COP31'in teknoloji altyapısını uçtan uca üstlenerek ulusal ve uluslararası katılımcılar, ülke delegasyonları, basın mensupları ve ziyaretçilerin iletişim ihtiyaçlarını karşılayacak kapsamlı bir dijital altyapı kurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-cop31in-teknoloji-altyapisinin-sorumlulugunu-ustlendi/4116032",
+   "zaman": "2026-11-08T15:39:59+03:00",
+   "kelimeler": [
+    "altya",
+    "cop31",
+    "in",
+    "sorum",
+    "tekno",
+    "telek",
+    "turk",
+    "ustle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "25a004430362": {
+   "id": "25a004430362",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Erdoğan Azerbaycan'da: Aliyev ile ortak basın toplantısında 'birlik' mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın başkenti Bakü'ye bir ziyarette bulunarak Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir araya geldi.",
+   "link": "https://www.bbc.com/turkce/articles/cw1m4dj30e05o",
+   "zaman": "2026-11-08T15:41:11+03:00",
+   "kelimeler": [
+    "aliye",
+    "azerb",
+    "basin",
+    "birli",
+    "erdog",
+    "mesaj",
+    "ortak",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee4c25694b0c"
+  },
+  "bb17be1c6087": {
+   "id": "bb17be1c6087",
+   "kaynak": "Sözcü",
+   "baslik": "COP31 yarın başlıyor: 1.5 milyon ziyaretçi bekleniyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/antalyada-cop31-yarin-basliyor-90-lider-bir-araya-gelecek-p377232",
+   "zaman": "2026-11-08T15:41:30+03:00",
+   "kelimeler": [
+    "basli",
+    "bekle",
+    "cop31",
+    "milyo",
+    "yarin",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 15:46:00  3 yeni haber",
   "08.11 15:31:18  2 yeni haber",
   "08.11 15:16:15  2 yeni haber",
   "08.11 15:01:25  6 yeni haber",
@@ -25903,8 +26010,7 @@
   "06.11 10:16:00  4 yeni haber",
   "06.11 10:01:30  14 yeni haber",
   "06.11 09:33:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 253, Cumhur",
-  "06.11 09:31:19  5 yeni haber",
-  "06.11 09:16:00  6 yeni haber"
+  "06.11 09:31:19  5 yeni haber"
  ],
  "otomatik": false
 }
