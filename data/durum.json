@@ -1,21 +1,5 @@
 {
  "haberler": {
-  "89044b348e96": {
-   "id": "89044b348e96",
-   "kaynak": "NTV",
-   "baslik": "Afyonkarahisar'da 4.1 büyüklüğünde deprem",
-   "ozet": "Afyonkarahisar'ın Dinar ilçesinde 4.1 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-1749432",
-   "zaman": "2026-11-05T07:59:12+03:00",
-   "kelimeler": [
-    "afyon",
-    "buyuk",
-    "depre"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a51b359a6c07"
-  },
   "caae25df704a": {
    "id": "caae25df704a",
    "kaynak": "NTV",
@@ -28125,9 +28109,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "be7a4dd8bbfe": {
+   "id": "be7a4dd8bbfe",
+   "kaynak": "TRT Haber",
+   "baslik": "Hakkari'de 63 düzensiz göçmen yakalandı",
+   "ozet": "Hakkari'de, yurda yasa dışı yollarla girmeye çalışan 63 düzensiz göçmen ve göçmenlerin geçişini sağlamaya çalışan 1 şüpheli yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/hakkaride-63-duzensiz-gocmen-yakalandi-962568.html",
+   "zaman": "2026-11-08T05:49:00+03:00",
+   "kelimeler": [
+    "63",
+    "duzen",
+    "gocme",
+    "hakka",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7375c2d1bf72": {
+   "id": "7375c2d1bf72",
+   "kaynak": "Hürriyet",
+   "baslik": "8 yıllık firar başkentte bitti: Suç örgütü elebaşına nefes kesen operasyon",
+   "ozet": "Hakkındaki 26 yıllık kesinleşmiş hapis cezasıyla 8 yıldır izini kaybettirmeye çalışan suç örgütü lideri F.D., Ankara polisinin takibi sonucu kıskıvrak yakalandı. Adana'da rehin alma, kaçırma ve yağma eylemlerine karışan firari hükümlü, adli makamlara teslim edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/8-yillik-firar-baskentte-bitti-suc-orgutu-elebasina-nefes-kesen-operasyon-43370084",
+   "zaman": "2026-11-08T07:45:31+03:00",
+   "kelimeler": [
+    "baske",
+    "bitti",
+    "eleba",
+    "firar",
+    "kesen",
+    "nefes",
+    "opera",
+    "orgut",
+    "suc",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 08:01:39  2 yeni haber",
   "08.11 07:46:09  1 yeni haber",
   "08.11 07:16:04  12 yeni haber",
   "08.11 07:02:50  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Galatasaray’ın resmi mağazacılık hesabı GSStore, Barış Alper Yılmaz’ın",
@@ -28326,8 +28350,7 @@
   "05.11 22:16:52  5 yeni haber",
   "05.11 22:16:52  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "05.11 22:02:40  5 yeni haber",
-  "05.11 21:31:18  1 yeni haber",
-  "05.11 21:16:05  2 yeni haber"
+  "05.11 21:31:18  1 yeni haber"
  ],
  "otomatik": false
 }
