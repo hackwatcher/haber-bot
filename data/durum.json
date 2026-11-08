@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "e3698e80ff1e": {
-   "id": "e3698e80ff1e",
-   "kaynak": "AA",
-   "baslik": "Hazine ve Maliye Bakanı Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
-   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Yapılacak artışın emeklilerimizin yaş ve prim ödeme gün sayısına göre farklılaşmasının doğru olacağını düşünüyoruz. Çünkü bu daha adaletli bir yaklaşım olur. Seyyanen olsa da bu husus gözetilecek.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak/4113546",
-   "zaman": "2026-11-06T02:13:08+03:00",
-   "kelimeler": [
-    "bakan",
-    "duzen",
-    "emekl",
-    "hazin",
-    "kapsa",
-    "maliy",
-    "simse",
-    "tum"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0398fbb87553"
-  },
   "c14da914a3d4": {
    "id": "c14da914a3d4",
    "kaynak": "AA",
@@ -24639,7 +24618,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "f6b0acc1e538": {
    "id": "f6b0acc1e538",
@@ -24979,6 +24961,67 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f53f0d0eb8ef"
+  },
+  "e8f805aa48aa": {
+   "id": "e8f805aa48aa",
+   "kaynak": "TRT Haber",
+   "baslik": "Kütahya'da minibüsle otomobil çarpıştı: 1 ölü",
+   "ozet": "Kütahya'da minibüs, ara sokaktan çıkan otomobile ve park halindeki 2 araca çarptı. Kazada otomobil sürücüsü hayatını kaybederken, 4 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kutahyada-minibusle-otomobil-carpisti-1-olu-962622.html",
+   "zaman": "2026-11-09T01:56:00+03:00",
+   "kelimeler": [
+    "carpi",
+    "kutah",
+    "minib",
+    "olu",
+    "otomo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "27983108bd70"
+  },
+  "9524b92be85c": {
+   "id": "9524b92be85c",
+   "kaynak": "Hürriyet",
+   "baslik": "Minibüsle, otomobil çarpıştı; 1 ölü, 4 yaralı",
+   "ozet": "Kütahya’da minibüs, ara sokaktan çıkan otomobile ve park halindeki 2 araca çarptı. Kazada otomobil sürücüsü Bahadır Gülmez hayatını kaybederken, 4 kişi de yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/minibusle-otomobil-carpisti-1-olu-4-yarali-43370934",
+   "zaman": "2026-11-09T01:58:20+03:00",
+   "kelimeler": [
+    "carpi",
+    "minib",
+    "olu",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "27983108bd70"
+  },
+  "00f88f89e8ea": {
+   "id": "00f88f89e8ea",
+   "kaynak": "Hürriyet",
+   "baslik": "YENİ Parti'de genel başkanlık ön seçimi tamamlandı: Özgür Özel, geçerli oyların tamamını aldı",
+   "ozet": "YENİ Parti'de 639 bin 454 üyenin oy kullandığı genel başkanlık ön seçimi tamamlandı. Seçimde Genel Başkan Özgür Özel, geçerli oyların tamamını aldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-partide-genel-baskanlik-on-secimi-tamamlandi-ozgur-ozel-gecerli-oylarin-tamamini-aldi-43370936",
+   "zaman": "2026-11-09T02:02:16+03:00",
+   "kelimeler": [
+    "aldi",
+    "baska",
+    "gecer",
+    "genel",
+    "on",
+    "oylar",
+    "ozel",
+    "ozgur",
+    "parti",
+    "secim",
+    "tamam",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8a72125d9e04"
   }
  },
  "kayit": [
