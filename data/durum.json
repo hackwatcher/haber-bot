@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "38a4f2e223b5": {
-   "id": "38a4f2e223b5",
-   "kaynak": "AA",
-   "baslik": "İsveç iç güvenlik tehdidi nedeniyle 6 ay geçici sınır kontrolleri uygulayacak",
-   "ozet": "İsveç hükümeti, kamu düzeni ve iç güvenliğe yönelik ciddi tehdit gerekçesiyle 6 ay süreyle geçici sınır kontrolü uygulama kararı aldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/isvec-ic-guvenlik-tehdidi-nedeniyle-6-ay-gecici-sinir-kontrolleri-uygulayacak/4113173",
-   "zaman": "2026-11-05T18:11:18+03:00",
-   "kelimeler": [
-    "ay",
-    "gecic",
-    "guven",
-    "ic",
-    "isvec",
-    "kontr",
-    "neden",
-    "sinir",
-    "tehdi",
-    "uygul"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ea240d2ee476": {
-   "id": "ea240d2ee476",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Kurum: Önümüzdeki ay ilk 1071 kiralık konutumuzu teslim edeceğiz",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"İnşallah önümüzdeki ay ilk 1071 kiralık konutumuzun anahtarlarını hak sahibi kardeşlerimize 10 bin liradan başlayan kiralarla teslim edeceğiz. 12 ilçemizde toplamda 15 bin konutu kiralayacağız.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-onumuzdeki-ay-ilk-1071-kiralik-konutumuzu-teslim-edecegiz-962360.html",
-   "zaman": "2026-11-05T18:14:00+03:00",
-   "kelimeler": [
-    "1071",
-    "ay",
-    "bakan",
-    "edece",
-    "ilk",
-    "kiral",
-    "konut",
-    "kurum",
-    "onumu",
-    "tesli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6581f58ae48a": {
    "id": "6581f58ae48a",
    "kaynak": "AA",
@@ -24896,7 +24852,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "98e130ef2e4c": {
    "id": "98e130ef2e4c",
@@ -25528,9 +25487,150 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e0547b6bd99f"
+  },
+  "34ba27ba1412": {
+   "id": "34ba27ba1412",
+   "kaynak": "AA",
+   "baslik": "Mısır'daki tren kazasında 4 kişi öldü, 88 kişi yaralandı",
+   "ozet": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 4 kişi öldü, 88 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tren-kazasinda-4-kisi-oldu-88-kisi-yaralandi/4116058",
+   "zaman": "2026-11-08T16:19:48+03:00",
+   "kelimeler": [
+    "88",
+    "daki",
+    "kazas",
+    "kisi",
+    "misir",
+    "tren",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3a49f47ad1a9"
+  },
+  "aa231083e5ca": {
+   "id": "aa231083e5ca",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe, deplasmandan 3 puanla ayrıldı",
+   "ozet": "Trendyol Süper Lig'in 11. haftasında Fenerbahçe, deplasmanda Arca Çorum FK'yi 5-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/-fenerbahce-deplasmandan-3-puanla-ayrildi/4116086",
+   "zaman": "2026-11-08T17:05:54+03:00",
+   "kelimeler": [
+    "ayril",
+    "depla",
+    "fener",
+    "puanl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7e893c174c5c": {
+   "id": "7e893c174c5c",
+   "kaynak": "TRT Haber",
+   "baslik": "Mısır'da meydana gelen tren kazasında en az 64 kişi yaralandı",
+   "ozet": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında ilk belirlemelere göre 64 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/misirda-meydana-gelen-tren-kazasinda-en-az-64-kisi-yaralandi-962608.html",
+   "zaman": "2026-11-08T17:30:00+03:00",
+   "kelimeler": [
+    "64",
+    "az",
+    "gelen",
+    "kazas",
+    "kisi",
+    "meyda",
+    "misir",
+    "tren",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3a49f47ad1a9"
+  },
+  "6a59d72115e6": {
+   "id": "6a59d72115e6",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'da bazı güzergahlarda motosiklet ve bisiklet kısıtlamasına gidildi",
+   "ozet": "Antalya'da yarın başlayacak Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 kapsamında bazı güzergahlarda motosiklet ve bisiklet kısıtlaması getirildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-bazi-guzergahlarda-motosiklet-ve-bisiklet-kisitlamasina-gidildi-962610.html",
+   "zaman": "2026-11-08T17:54:00+03:00",
+   "kelimeler": [
+    "antal",
+    "bazi",
+    "bisik",
+    "gidil",
+    "guzer",
+    "kisit",
+    "motos"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5334c9c4e623": {
+   "id": "5334c9c4e623",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ve Irak'tan ortak açıklama",
+   "ozet": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi konusundaki ortak irade teyit edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-ortak-aciklama-962611.html",
+   "zaman": "2026-11-08T18:03:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "irak",
+    "ortak",
+    "tan",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "NTV"
+   ]
+  },
+  "df7c5651d682": {
+   "id": "df7c5651d682",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye ve Irak'tan Terörsüz Türkiye açıklaması",
+   "ozet": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi konusundaki ortak irade teyit edildi",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-ve-iraktan-terorsuz-turkiye-aciklamasi-43370697",
+   "zaman": "2026-11-08T18:10:03+03:00",
+   "kelimeler": [
+    "acikl",
+    "irak",
+    "tan",
+    "teror",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5334c9c4e623"
+  },
+  "10a21f4b56b2": {
+   "id": "10a21f4b56b2",
+   "kaynak": "NTV",
+   "baslik": "Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''",
+   "ozet": "Türkiye ve Irak'ın ortak açıklamasında Türkiye'nin Başika-Zilikan askeri yerleşkesini Irak hükümetine kademeli olarak devretmek üzere adım atmaya başlayacağı bildirildi.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996",
+   "zaman": "2026-11-08T18:10:24+03:00",
+   "kelimeler": [
+    "acikl",
+    "adim",
+    "atila",
+    "basik",
+    "devri",
+    "in",
+    "irak",
+    "ortak",
+    "tan",
+    "turki",
+    "zilik"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5334c9c4e623"
   }
  },
  "kayit": [
+  "08.11 18:16:08  3 yeni haber",
   "08.11 18:01:54  5 yeni haber",
   "08.11 17:48:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın el",
   "08.11 17:46:14  4 yeni haber",
@@ -25729,8 +25829,7 @@
   "06.11 12:31:45  6 yeni haber",
   "06.11 12:16:11  9 yeni haber",
   "06.11 12:04:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 34 ilde göçmen kaçakçılarına operasyon: 63 organizatör tutuklandı",
-  "06.11 12:01:28  4 yeni haber",
-  "06.11 11:46:06  11 yeni haber"
+  "06.11 12:01:28  4 yeni haber"
  ],
  "otomatik": false
 }
