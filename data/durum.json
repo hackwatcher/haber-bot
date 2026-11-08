@@ -25279,7 +25279,10 @@
    "fb_id": null,
    "fb_reels_id": "2631042064078810",
    "slayt": 4,
-   "kanca": "BİLAL SOYSAL TUTUKLANDI"
+   "kanca": "BİLAL SOYSAL TUTUKLANDI",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "49008ff53b2b": {
    "id": "49008ff53b2b",
@@ -25618,9 +25621,91 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "53b249613308": {
+   "id": "53b249613308",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: Azerbaycan'la gönül birliğimiz sönmez bir meşaledir",
+   "ozet": "Cumhurbaşkanı Erdoğan, \"'Bir millet, iki devlet' şiarıyla tarif ettiğimiz bu gönül birliği, müşterek mazimizden aldığı kuvvetle yarınlarımıza ışık tutan sönmez bir meşaledir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycanla-gonul-birligimiz-sonmez-bir-mesaledir/4115865",
+   "zaman": "2026-11-08T13:45:28+03:00",
+   "kelimeler": [
+    "azerb",
+    "birli",
+    "cumhu",
+    "erdog",
+    "gonul",
+    "la",
+    "mesal",
+    "sonme"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
+  },
+  "daad85305020": {
+   "id": "daad85305020",
+   "kaynak": "AA",
+   "baslik": "İran Devrim Muhafızlarından Hürmüz Boğazı'nda mayınlar bekliyor uyarısı",
+   "ozet": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediği\" uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlarindan-hurmuz-bogazinda-mayinlar-bekliyor-uyarisi/4115879",
+   "zaman": "2026-11-08T14:08:46+03:00",
+   "kelimeler": [
+    "bekli",
+    "bogaz",
+    "devri",
+    "hurmu",
+    "iran",
+    "mayin",
+    "muhaf",
+    "nda",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "78feee72c7d8": {
+   "id": "78feee72c7d8",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: Kardeşliğimizi zayıflatmak isteyenler emellerine asla ulaşamayacak",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"15 Haziran 2021 günü Şuşa'da imzaladığımız beyanname ile müttefiklik bağıyla tahkim ettiğimiz bu kardeşliğimizi zayıflatmak isteyenler; dün olduğu gibi bugün de, yarın da emellerine asla ulaşamayacaktır\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kardesligimizi-zayiflatmak-isteyenler-emellerine-asla-ulasamayacak-962590.html",
+   "zaman": "2026-11-08T14:56:00+03:00",
+   "kelimeler": [
+    "asla",
+    "cumhu",
+    "emell",
+    "erdog",
+    "istey",
+    "karde",
+    "ulasa",
+    "zayif"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "53077e0e89b4": {
+   "id": "53077e0e89b4",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında BDDK daire başkanı tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon\" soruşturması kapsamında, Bankacılık Düzenleme ve Denetleme Kurumu BDDK daire başkanlarından Bilal Soysal tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-bddk-daire-baskani-tutuklandi-962599.html",
+   "zaman": "2026-11-08T15:19:00+03:00",
+   "kelimeler": [
+    "baska",
+    "bddk",
+    "daire",
+    "fon",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b7d5bb8ccae4"
   }
  },
  "kayit": [
+  "08.11 15:31:18  2 yeni haber",
   "08.11 15:16:15  2 yeni haber",
   "08.11 15:01:25  6 yeni haber",
   "08.11 14:46:00  4 yeni haber",
@@ -25819,8 +25904,7 @@
   "06.11 10:01:30  14 yeni haber",
   "06.11 09:33:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 253, Cumhur",
   "06.11 09:31:19  5 yeni haber",
-  "06.11 09:16:00  6 yeni haber",
-  "06.11 09:01:25  7 yeni haber"
+  "06.11 09:16:00  6 yeni haber"
  ],
  "otomatik": false
 }
