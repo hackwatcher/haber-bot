@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "38dedffdfced": {
-   "id": "38dedffdfced",
-   "kaynak": "BBC Türkçe",
-   "baslik": "TBMM'de kabul edildi: Beş soruda Mekke Anlaşması",
-   "ozet": "Türkiye, Suudi Arabistan ve Pakistan'ı askeri bir ittifakta bir araya getiren Mekke Ortak Savunma Anlaşması TBMM'de onaylandı. Böylece üç ülke de anlaşmanın yürürlüğe girmesi için gerekli iç onay süreçlerini tamamlamış oldu.",
-   "link": "https://www.bbc.com/turkce/articles/crq8njjvyg4vo",
-   "zaman": "2026-11-06T00:18:32+03:00",
-   "kelimeler": [
-    "anlas",
-    "bes",
-    "edild",
-    "kabul",
-    "mekke",
-    "sorud",
-    "tbmm"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "769f9c754601"
-  },
-  "bfe60c2ff3f3": {
-   "id": "bfe60c2ff3f3",
-   "kaynak": "AA",
-   "baslik": "Rusya'nın petrol ve gaz gelirleri ekimde iki katından fazla arttı",
-   "ozet": "Rusya'nın petrol ve doğal gaz gelirleri, ekimde bir önceki aya göre iki katından fazla artarak​​​​​​​ 971,2 milyar rubleye (yaklaşık 11,9 milyar dolar) yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/rusyanin-petrol-ve-gaz-gelirleri-ekimde-iki-katindan-fazla-artti/4113497",
-   "zaman": "2026-11-06T00:27:47+03:00",
-   "kelimeler": [
-    "artti",
-    "ekimd",
-    "fazla",
-    "gaz",
-    "gelir",
-    "iki",
-    "katin",
-    "nin",
-    "petro",
-    "rusya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ebe7f58102e2": {
    "id": "ebe7f58102e2",
    "kaynak": "AA",
@@ -24527,8 +24485,17 @@
     "prix",
     "sini"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-09T00:33:40.041404+03:00",
+   "ig_id": "18041407919850152",
+   "reels_id": "18118380089015354",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1128392216441636",
+   "slayt": 5,
+   "kanca": "MERCEDES ŞAMPİYONLUĞUNU İLAN ETTİ"
   },
   "ef94fbb8935c": {
    "id": "ef94fbb8935c",
@@ -24977,7 +24944,8 @@
     "trabz"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "9996a778da82": {
    "id": "9996a778da82",
@@ -24998,9 +24966,27 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "28d99edd8ee8"
+  },
+  "857e2cf49102": {
+   "id": "857e2cf49102",
+   "kaynak": "TRT Haber",
+   "baslik": "2 ilde eğitime kar engeli",
+   "ozet": "Yurdun bazı illerinde kar yağışı, don ve buzlanma etkisini sürdürüyor. İşte olumsuz hava koşulları nedeniyle eğitime ara verilen iller...",
+   "link": "https://www.trthaber.com/haber/turkiye/2-ilde-egitime-kar-engeli-962620.html",
+   "zaman": "2026-11-08T23:59:00+03:00",
+   "kelimeler": [
+    "egiti",
+    "engel",
+    "ilde",
+    "kar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d000f52a3209"
   }
  },
  "kayit": [
+  "09.11 00:33:40  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Formula 1 Brezilya Grand Prix'sini Lando Norris kazandı",
   "09.11 00:16:02  1 yeni haber",
   "09.11 00:03:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Tarihçi Prof. Dr. Engin Deniz Akarlı vefat etti",
   "09.11 00:01:29  2 yeni haber",
@@ -25199,8 +25185,7 @@
   "06.11 16:46:02  7 yeni haber",
   "06.11 16:31:17  5 yeni haber",
   "06.11 16:16:03  6 yeni haber",
-  "06.11 16:01:39  8 yeni haber",
-  "06.11 15:46:21  3 yeni haber"
+  "06.11 16:01:39  8 yeni haber"
  ],
  "otomatik": false
 }
