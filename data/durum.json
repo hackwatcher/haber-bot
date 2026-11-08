@@ -24590,8 +24590,17 @@
     "ode",
     "ozel"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-09T01:32:56.878459+03:00",
+   "ig_id": "18221754469343200",
+   "reels_id": null,
+   "story_id": "18138325816679104",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122115217239472027",
+   "fb_reels_id": null,
+   "slayt": 5,
+   "kanca": "3 AL 2 ÖDE"
   },
   "fdedf4db4717": {
    "id": "fdedf4db4717",
@@ -24948,9 +24957,55 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3bdd7d0ff122": {
+   "id": "3bdd7d0ff122",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, COP31'de yeşil yatırımların hızlandırılmasına odaklanacak",
+   "ozet": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, 31. Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında yeşil yatırımlar, sürdürülebilir finansman ve uluslararası yatırım işbirliklerine odaklanan kapsamlı bir program gerçekleştireceğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-yatirim-ve-finans-ofisi-cop31de-yesil-yatirimlarin-hizlandirilmasina-odaklanacak/4116351",
+   "zaman": "2026-11-09T00:09:11+03:00",
+   "kelimeler": [
+    "cop31",
+    "cumhu",
+    "finan",
+    "hizla",
+    "odakl",
+    "ofisi",
+    "yatir",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "13cdf58e0466": {
+   "id": "13cdf58e0466",
+   "kaynak": "AA",
+   "baslik": "İsrail'de seçim yenilgisi sonrası Ultra-Ortodoks Şas Partisi liderinden milletvekilliğini devretme kararı",
+   "ozet": "İsrail'de 27 Ekim'deki genel seçimlerde milletvekili sayısı 11'den 6'ya düşen Ultra-Ortodoks (Haredi) Şas Partisinin lideri Aryeh Deri, İsrail Meclisi açılmadan milletvekilliği görevini partisinden bir başka isme devredeceğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-yenilgisi-sonrasi-ultra-ortodoks-sas-partisi-liderinden-milletvekilligini-devretme-karari/4116381",
+   "zaman": "2026-11-09T01:14:05+03:00",
+   "kelimeler": [
+    "devre",
+    "israi",
+    "karar",
+    "lider",
+    "mille",
+    "ortod",
+    "parti",
+    "sas",
+    "secim",
+    "sonra",
+    "ultra",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 01:32:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Bargello, Büyük Kasım indirimlerine özel 3 al, 2 öde kampanyası başlat",
+  "09.11 01:31:25  2 yeni haber",
   "09.11 01:16:07  1 yeni haber",
   "09.11 01:01:25  1 yeni haber",
   "09.11 00:46:05  1 yeni haber",
@@ -25148,9 +25203,7 @@
   "06.11 18:31:28  6 yeni haber",
   "06.11 18:01:47  9 yeni haber",
   "06.11 17:33:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD Başkanı Trump, \"süper zekayı\" desteklediğini söyledi",
-  "06.11 17:31:18  8 yeni haber",
-  "06.11 17:01:31  2 yeni haber",
-  "06.11 16:46:02  7 yeni haber"
+  "06.11 17:31:18  8 yeni haber"
  ],
  "otomatik": false
 }
