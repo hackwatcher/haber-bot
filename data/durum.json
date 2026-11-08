@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "7b6110b07e48": {
-   "id": "7b6110b07e48",
-   "kaynak": "AA",
-   "baslik": "İsrail Cumhurbaşkanı, Trump'ın İsrail'e yardımı durdurmasının kendisini \"yıldırım çarpmışa çevirdiğini\" söyledi",
-   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, ABD Başkanı Donald Trump'ın İsrail'e yönelik 4 milyar dolarlık yardımın durdurulması kararından önceden haberdar olmadığını belirterek, \"Bu durum beni adeta yıldırım çarpmışa çevirdi.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-trumpin-israile-yardimi-durdurmasinin-kendisini-yildirim-carpmisa-cevirdigini-soyledi/4113450",
-   "zaman": "2026-11-05T23:16:25+03:00",
-   "kelimeler": [
-    "carpm",
-    "cevir",
-    "cumhu",
-    "durdu",
-    "in",
-    "israi",
-    "kendi",
-    "soyle",
-    "trump",
-    "yardi",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "9fbd620e0604": {
-   "id": "9fbd620e0604",
-   "kaynak": "AA",
-   "baslik": "Bitcoin 76 bin doların altını gördü",
-   "ozet": "Bitcoin'in fiyatı, ABD borsalarında teknoloji hisseleri öncülüğünde yaşanan sert satış dalgasının kripto para piyasasına da yayılmasıyla gün içinde 76 bin doların altını gördü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-76-bin-dolarin-altini-gordu/4113454",
-   "zaman": "2026-11-05T23:19:24+03:00",
-   "kelimeler": [
-    "76",
-    "altin",
-    "bin",
-    "bitco",
-    "dolar",
-    "gordu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "21d663613f10": {
-   "id": "21d663613f10",
-   "kaynak": "Sözcü",
-   "baslik": "Bitcoin'de büyük düşüş yaşanıyor",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/bitcoin-de-buyuk-dusus-yasaniyor-p376462",
-   "zaman": "2026-11-05T23:26:21+03:00",
-   "kelimeler": [
-    "bitco",
-    "buyuk",
-    "dusus",
-    "yasan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5d9dcae0cd89": {
    "id": "5d9dcae0cd89",
    "kaynak": "XHABER",
@@ -91,70 +28,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "27bfd5df8c74"
-  },
-  "dfe309538bf1": {
-   "id": "dfe309538bf1",
-   "kaynak": "TRT Haber",
-   "baslik": "Bitcoin 76 bin doların altını gördü",
-   "ozet": "Bitcoin'in fiyatı, ABD borsalarında teknoloji hisseleri öncülüğünde yaşanan sert satış dalgasının kripto para piyasasına da yayılmasıyla gün içinde 76 bin doların altını gördü.",
-   "link": "https://www.trthaber.com/haber/dunya/bitcoin-76-bin-dolarin-altini-gordu-962373.html",
-   "zaman": "2026-11-05T23:24:00+03:00",
-   "kelimeler": [
-    "76",
-    "altin",
-    "bin",
-    "bitco",
-    "dolar",
-    "gordu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9fbd620e0604"
-  },
-  "9b6a382ab2d4": {
-   "id": "9b6a382ab2d4",
-   "kaynak": "TRT Haber",
-   "baslik": "İsrail Cumhurbaşkanı: Trump'ın İsrail'e yardımı durdurması beni yıldırım çarpmışa çevirdi",
-   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, ABD Başkanı Donald Trump'ın İsrail'e yönelik 4 milyar dolarlık yardımın durdurulması kararından önceden haberdar olmadığını belirterek, \"Bu durum beni adeta yıldırım çarpmışa çevirdi.\" dedi.",
-   "link": "https://www.trthaber.com/haber/dunya/israil-cumhurbaskani-trumpin-israile-yardimi-durdurmasi-beni-yildirim-carpmisa-cevirdi-962374.html",
-   "zaman": "2026-11-05T23:26:00+03:00",
-   "kelimeler": [
-    "beni",
-    "carpm",
-    "cevir",
-    "cumhu",
-    "durdu",
-    "in",
-    "israi",
-    "trump",
-    "yardi",
-    "yildi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7b6110b07e48"
-  },
-  "695a22594afe": {
-   "id": "695a22594afe",
-   "kaynak": "Hürriyet",
-   "baslik": "Kütahya Şehir Hastanesi'nde 70 personel gıda zehirlenme şüphesiyle rahatsızlandı",
-   "ozet": "Kütahya Şehir Hastanesi'nde 70 personel, gıda zehirlenmesi şüphesiyle acil servise başvurdu. 60 personelin taburcu edildiği, 10 personelin ise tedavisinin sürdüğü öğrenildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kutahya-sehir-hastanesinde-70-personel-gida-zehirlenme-suphesiyle-rahatsizlandi-43367670",
-   "zaman": "2026-11-05T23:26:03+03:00",
-   "kelimeler": [
-    "70",
-    "gida",
-    "hasta",
-    "kutah",
-    "nde",
-    "perso",
-    "rahat",
-    "sehir",
-    "suphe",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "102f04d56ace": {
    "id": "102f04d56ace",
@@ -24907,7 +24780,10 @@
     "temmu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "cfe6155d691a": {
    "id": "cfe6155d691a",
@@ -25155,9 +25031,112 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fdedf4db4717": {
+   "id": "fdedf4db4717",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkanı Trump'tan ''38 köprüyü vururuz'' açıklaması",
+   "ozet": "ABD Başkanı Donald Trump, İran ile nükleer program ve Hürmüz Boğazının açılması konusundaki müzakerelerde ilerleme kaydedildiği sürece ABDnin İrana tekrar saldırmasının \"son derece düşük bir ihtimal\" olduğunu söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-38-kopruyu-vururuz-aciklamasi-962618.html",
+   "zaman": "2026-11-08T23:02:00+03:00",
+   "kelimeler": [
+    "38",
+    "abd",
+    "acikl",
+    "baska",
+    "kopru",
+    "tan",
+    "trump",
+    "vurur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a5cda8fbfc4a": {
+   "id": "a5cda8fbfc4a",
+   "kaynak": "AA",
+   "baslik": "Trendyol Süper Lig'de görünüm",
+   "ozet": "Trendyol Süper Lig'de 11. hafta mücadelesi tamamlandı.",
+   "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-gorunum/4116322",
+   "zaman": "2026-11-08T23:15:32+03:00",
+   "kelimeler": [
+    "gorun",
+    "lig",
+    "super",
+    "trend"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1dd620151a06": {
+   "id": "1dd620151a06",
+   "kaynak": "AA",
+   "baslik": "15 Temmuz Şehitler Köprüsü Azerbaycan bayrağının renkleriyle ışıklandırıldı",
+   "ozet": "Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan \"8 Kasım Zafer Günü\"nde Galata Kulesi ve 15 Temmuz Şehitler Köprüsü özel ışıklandırmayla bu ülkenin bayrağının renklerine büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-isiklandirildi/4116323",
+   "zaman": "2026-11-08T23:15:57+03:00",
+   "kelimeler": [
+    "15",
+    "azerb",
+    "bayra",
+    "isikl",
+    "kopru",
+    "renkl",
+    "sehit",
+    "temmu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4b03d50a5887"
+  },
+  "8a72125d9e04": {
+   "id": "8a72125d9e04",
+   "kaynak": "NTV",
+   "baslik": "Yeni Parti'nin genel başkanlık ön seçiminde Özgür Özel geçerli oyların tamamını aldı",
+   "ozet": "",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-partinin-genel-baskanlik-on-seciminde-ozgur-ozel-gecerli-oylarin-tamamini-aldi-1750012",
+   "zaman": "2026-11-08T23:17:36+03:00",
+   "kelimeler": [
+    "aldi",
+    "baska",
+    "gecer",
+    "genel",
+    "nin",
+    "on",
+    "oylar",
+    "ozel",
+    "ozgur",
+    "parti",
+    "secim",
+    "tamam",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f6b0acc1e538": {
+   "id": "f6b0acc1e538",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan’dan Azerbaycan ziyaretine ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan temaslarına ilişkin sanal medya hesabından paylaşımda bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-azerbaycan-ziyaretine-iliskin-paylasim-1750014",
+   "zaman": "2026-11-08T23:22:03+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "dan",
+    "erdog",
+    "ilisk",
+    "payla",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
   }
  },
  "kayit": [
+  "08.11 23:26:21  3 yeni haber",
   "08.11 23:16:17  5 yeni haber",
   "08.11 23:01:29  3 yeni haber",
   "08.11 22:46:00  2 yeni haber",
@@ -25356,8 +25335,7 @@
   "06.11 15:31:14  6 yeni haber",
   "06.11 15:20:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Küresel piyasalarda yapay zeka depremi: Teknoloji devleri trilyonlarca",
   "06.11 15:16:48  7 yeni haber",
-  "06.11 15:01:33  5 yeni haber",
-  "06.11 14:47:10  9 yeni haber"
+  "06.11 15:01:33  5 yeni haber"
  ],
  "otomatik": false
 }
