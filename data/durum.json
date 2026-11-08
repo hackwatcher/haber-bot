@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "7def8391a174": {
-   "id": "7def8391a174",
-   "kaynak": "Hürriyet",
-   "baslik": "Niğde'de iki tır kafa kafaya çarpıştı: 2 ölü",
-   "ozet": "NİĞDE'nin Ulukışla ilçesinde 2 tırın çarpıştığı kazada şoförler Hacı Ömer Coşkun (24) ve Cemil Demir (42) hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/nigdede-iki-tir-kafa-kafaya-carpisti-2-olu-43367610",
-   "zaman": "2026-11-05T21:35:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "iki",
-    "kafa",
-    "kafay",
-    "nigde",
-    "olu",
-    "tir"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "f8d9d2d86a21": {
-   "id": "f8d9d2d86a21",
-   "kaynak": "Hürriyet",
-   "baslik": "Yeni Parti Genel Başkanı Özel, Olağan Kurultay tarihini açıkladı",
-   "ozet": "Yeni Parti Genel Başkanı Özgür Özel, \"14-15 Kasım'da 1. Olağan Kurultayımızı yapacağız. Bu kurultay, yeni nesil siyasetin ilk kurultayıdır. Siyasi kuruluşumuz kurultayımızla tamamlanacak\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozel-olagan-kurultay-tarihini-acikladi-43367612",
-   "zaman": "2026-11-05T21:39:10+03:00",
-   "kelimeler": [
-    "baska",
-    "genel",
-    "kurul",
-    "olaga",
-    "ozel",
-    "parti",
-    "tarih",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4e41ac23e612": {
-   "id": "4e41ac23e612",
-   "kaynak": "TRT Haber",
-   "baslik": "Bolu'da kar yağışı",
-   "ozet": "Bolu'nun Gerede ilçesinde kar yağışı etkili oldu.",
-   "link": "https://www.trthaber.com/haber/turkiye/boluda-kar-yagisi-962368.html",
-   "zaman": "2026-11-05T21:41:00+03:00",
-   "kelimeler": [
-    "bolu",
-    "kar",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "911c65ec31e5"
-  },
   "0c3ef4615863": {
    "id": "0c3ef4615863",
    "kaynak": "AA",
@@ -284,22 +229,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "44260608f92e": {
-   "id": "44260608f92e",
-   "kaynak": "AA",
-   "baslik": "Trabzonspor, Freiburg'a yenildi",
-   "ozet": "Trabzonspor, UEFA Konferans Ligi'nde Freiburg'a 1-0 yenildi.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-freiburga-yenildi/4113374",
-   "zaman": "2026-11-05T21:41:50+03:00",
-   "kelimeler": [
-    "freib",
-    "trabz",
-    "yenil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a6b6557e1d64"
-  },
   "91c49288d9f2": {
    "id": "91c49288d9f2",
    "kaynak": "AA",
@@ -439,25 +368,6 @@
     "petro",
     "stokl",
     "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4b645ec13e6c": {
-   "id": "4b645ec13e6c",
-   "kaynak": "AA",
-   "baslik": "Trabzonspor, Thomas Reis yönetiminde ilk yenilgisini aldı",
-   "ozet": "UEFA Konferans Ligi'nin 3. haftasında Almanya'nın Freiburg takımına 1-0 mağlup olan Trabzonspor, teknik direktör Thomas Reis yönetiminde ilk yenilgisini aldı.",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-ilk-yenilgisini-aldi/4113374",
-   "zaman": "2026-11-05T21:41:50+03:00",
-   "kelimeler": [
-    "aldi",
-    "ilk",
-    "reis",
-    "thoma",
-    "trabz",
-    "yenil",
-    "yonet"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -25331,7 +25241,10 @@
     "yardi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0567315a7aa3": {
    "id": "0567315a7aa3",
@@ -25348,9 +25261,101 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "ac12d0fb128b"
+  },
+  "cbdcdd4b2a41": {
+   "id": "cbdcdd4b2a41",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddiası",
+   "ozet": "ABD yönetiminin, İran'la savaşı sona erdirmek amacıyla Çin'den Tahran üzerindeki nüfuzunu kullanmasını istediği öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddiasi-962616.html",
+   "zaman": "2026-11-08T21:21:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bitir",
+    "cin",
+    "den",
+    "iddia",
+    "iran",
+    "isted",
+    "la",
+    "nin",
+    "savas",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cd5e1e886f1e"
+  },
+  "5d1e8b84ce5c": {
+   "id": "5d1e8b84ce5c",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Azerbaycan'dan yurda döndü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'daki temaslarının ardından yurda döndü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycandan-yurda-dondu/4116274",
+   "zaman": "2026-11-08T21:28:42+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "dan",
+    "dondu",
+    "erdog",
+    "yurda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
+  },
+  "58ffb901c25f": {
+   "id": "58ffb901c25f",
+   "kaynak": "AA",
+   "baslik": "Trump, müzakereler sürdükçe ABD'nin İran'a yeniden saldırma ihtimalinin \"son derece düşük\" olduğunu söyledi",
+   "ozet": "ABD Başkanı Donald Trump, İran ile nükleer program ve Hürmüz Boğazı’nın açılması konusundaki müzakerelerde ilerleme kaydedildiği sürece ABD’nin İran’a tekrar saldırmasının “son derece düşük bir ihtimal” olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-muzakereler-surdukce-abdnin-irana-yeniden-saldirma-ihtimalinin-son-derece-dusuk-oldugunu-soyledi/4116276",
+   "zaman": "2026-11-08T21:40:46+03:00",
+   "kelimeler": [
+    "abd",
+    "derec",
+    "dusuk",
+    "ihtim",
+    "iran",
+    "muzak",
+    "nin",
+    "oldug",
+    "saldi",
+    "soyle",
+    "surdu",
+    "trump",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a82bdd91466": {
+   "id": "1a82bdd91466",
+   "kaynak": "AA",
+   "baslik": "Ukrayna: Zaporijya Nükleer Santrali dış elektrik kaynağını bu yıl 16. kez kaybetti",
+   "ozet": "Ukrayna Dışişleri Bakanı Andrii Sybiha, ülkesinde Rusya'nın kontrolündeki Zaporijya Nükleer Güç Santrali'nin (NGS) yılın başından bu yana 16. kez tüm dış kaynaklı elektriğini kaybettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-zaporijya-nukleer-santrali-dis-elektrik-kaynagini-bu-yil-16-kez-kaybetti-/4116277",
+   "zaman": "2026-11-08T21:42:47+03:00",
+   "kelimeler": [
+    "16",
+    "dis",
+    "elekt",
+    "kaybe",
+    "kayna",
+    "kez",
+    "nukle",
+    "santr",
+    "ukray",
+    "yil",
+    "zapor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 21:46:13  2 yeni haber",
   "08.11 21:16:02  1 yeni haber",
   "08.11 20:46:03  2 yeni haber",
   "08.11 20:31:19  2 yeni haber",
@@ -25549,8 +25554,7 @@
   "06.11 14:21:09  3 yeni haber",
   "06.11 14:21:09  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "06.11 14:16:03  6 yeni haber",
-  "06.11 14:01:28  5 yeni haber",
-  "06.11 13:46:11  7 yeni haber"
+  "06.11 14:01:28  5 yeni haber"
  ],
  "otomatik": false
 }
