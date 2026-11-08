@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "594620a6c42e": {
-   "id": "594620a6c42e",
-   "kaynak": "TRT Haber",
-   "baslik": "Trabzonspor Freiburg'a kaybetti",
-   "ozet": "Trabzonspor, UEFA Konferans Ligi'nde Freiburg'a 10 yenildi.",
-   "link": "https://www.trthaber.com/haber/gundem/trabzonspor-freiburga-kaybetti-962371.html",
-   "zaman": "2026-11-05T22:38:00+03:00",
-   "kelimeler": [
-    "freib",
-    "kaybe",
-    "trabz"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3168b0d36070"
-  },
-  "27bfd5df8c74": {
-   "id": "27bfd5df8c74",
-   "kaynak": "XHABER",
-   "baslik": "#SONDAKİKA | Fatma Betül Sayan Kaya, tutuklama talebiyle mahkemeye sevk edildi.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30539",
-   "zaman": "2026-11-05T22:41:45+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "#SONDAKİKA | Fatma Betül Sayan Kaya, tutuklama talebiyle mahkemeye sevk edildi.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/cpslxJPbwfvMvSpRxhx0_RW7lg-p5dF9cWitCcwFW6cgwnp-VSl03RwXtN5NFVyoHYtprjwUKdQ-N50TszNvRKVw62gJcGzQlpt7HwlZEtH2WigdTYfYBqJjm7Pb2dRFW0uTMRYksDA7z7JHRImmn6B6N6DplnMUr3VFd1T6zFidafeY3sllD_2XTL1IXUspaZ5Y_7ZoCX7ZyzQT4Q_MTGImtYqKUS59OtayMPVx6GnsZZmIcrokq1hXiByozdECfrk3IVXkj-_YU2lKqqSHTClzsaSi6iemZyagKbthsBJdW6pnliaT3ImQwkQGbDkUrONArxUuk2rEIn6tSub3jQ.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "betul",
-    "edild",
-    "fatma",
-    "kaya",
-    "mahke",
-    "sayan",
-    "sevk",
-    "sonda",
-    "taleb",
-    "tutuk"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Sözcü"
-   ],
-   "paylasildi": "2026-11-06T00:48:19.438449+03:00",
-   "ig_id": "17883099672631030",
-   "reels_id": "18036803351853354",
-   "story_id": "17900330910396540",
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2742405029495209",
-   "slayt": 4,
-   "kanca": "TUTUKLAMA TALEBİ"
-  },
   "8bb21567e101": {
    "id": "8bb21567e101",
    "kaynak": "TRT Haber",
@@ -25191,9 +25136,47 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "03475126aed9": {
+   "id": "03475126aed9",
+   "kaynak": "TRT Haber",
+   "baslik": "Aydın'da cip devrildi: 1 ölü, 5 yaralı",
+   "ozet": "Aydın'ın Nazilli ilçesinde devrilen cipteki 1 kişi hayatını kaybetti, 5 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/aydinda-cip-devrildi-1-olu-5-yarali-962617.html",
+   "zaman": "2026-11-08T22:28:00+03:00",
+   "kelimeler": [
+    "aydin",
+    "cip",
+    "devri",
+    "olu",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5a972947ae69": {
+   "id": "5a972947ae69",
+   "kaynak": "AA",
+   "baslik": "Formula 1 Brezilya Grand Prix'sini Lando Norris kazandı",
+   "ozet": "Mercedes, bitime 3 yarış kala takımlar şampiyonluğunu garantiledi.",
+   "link": "https://www.aa.com.tr/tr/spor/formula-1-brezilya-grand-prixsini-lando-norris-kazandi/4116299",
+   "zaman": "2026-11-08T22:37:48+03:00",
+   "kelimeler": [
+    "brezi",
+    "formu",
+    "grand",
+    "kazan",
+    "lando",
+    "norri",
+    "prix",
+    "sini"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "08.11 22:46:00  2 yeni haber",
   "08.11 22:31:18  1 yeni haber",
   "08.11 22:01:38  3 yeni haber",
   "08.11 21:46:13  2 yeni haber",
@@ -25392,8 +25375,7 @@
   "06.11 15:01:33  5 yeni haber",
   "06.11 14:47:10  9 yeni haber",
   "06.11 14:31:16  3 yeni haber",
-  "06.11 14:21:09  3 yeni haber",
-  "06.11 14:21:09  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "06.11 14:21:09  3 yeni haber"
  ],
  "otomatik": false
 }
