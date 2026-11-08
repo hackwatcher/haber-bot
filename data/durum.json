@@ -1,76 +1,5 @@
 {
  "haberler": {
-  "f30a1314371b": {
-   "id": "f30a1314371b",
-   "kaynak": "Hürriyet",
-   "baslik": "Afyonkarahisar’da 4.1 büyüklüğünde deprem",
-   "ozet": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem-43366408",
-   "zaman": "2026-11-05T03:47:00+03:00",
-   "kelimeler": [
-    "afyon",
-    "buyuk",
-    "depre"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a51b359a6c07"
-  },
-  "1815d074c102": {
-   "id": "1815d074c102",
-   "kaynak": "TRT Haber",
-   "baslik": "Afyonkarahisar'da 4,1 büyüklüğünde deprem",
-   "ozet": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-962277.html",
-   "zaman": "2026-11-05T03:49:00+03:00",
-   "kelimeler": [
-    "afyon",
-    "buyuk",
-    "depre"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a51b359a6c07"
-  },
-  "0360ffb5105e": {
-   "id": "0360ffb5105e",
-   "kaynak": "NTV",
-   "baslik": "Dinar'da 4.1 büyüklüğünde deprem",
-   "ozet": "Afyonkarahisar'ın Dinar ilçesinde 4.1 büyüklüğünde sarsıntı kaydedildi.",
-   "link": "https://www.ntv.com.tr/turkiye/dinarda-41-buyuklugunde-deprem-1749432",
-   "zaman": "2026-11-05T03:50:36+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "dinar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a51b359a6c07"
-  },
-  "1a4f3d6da3cf": {
-   "id": "1a4f3d6da3cf",
-   "kaynak": "NTV",
-   "baslik": "Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 05 Kasım 2026",
-   "ozet": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 05 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-05-kasim-2026-1749433",
-   "zaman": "2026-11-05T04:00:00+03:00",
-   "kelimeler": [
-    "05",
-    "2026",
-    "adana",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "29602010749a"
-  },
   "cb7d4b422ebd": {
    "id": "cb7d4b422ebd",
    "kaynak": "Sözcü",
@@ -28524,9 +28453,54 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "86fad91abafd": {
+   "id": "86fad91abafd",
+   "kaynak": "AA",
+   "baslik": "İsrail'den Batı Şeria’da 15 dönümlük araziyi hedef alan 4 askeri emir",
+   "ozet": "Filistin Kurtuluş Örgütü'ne bağlı Ayrım (Utanç) Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Heyeti, İsrail makamlarının Batı Şeria'nın Beytüllahim kentinde yaklaşık 15 dönümlük araziye el konulmasını öngören 4 askeri emir çıkardığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilden-bati-seria-da-15-donumluk-araziyi-hedef-alan-4-askeri-emir/4115583",
+   "zaman": "2026-11-08T00:13:46+03:00",
+   "kelimeler": [
+    "15",
+    "alan",
+    "arazi",
+    "asker",
+    "bati",
+    "den",
+    "donum",
+    "emir",
+    "hedef",
+    "israi",
+    "seria"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5517ed66d2a7": {
+   "id": "5517ed66d2a7",
+   "kaynak": "AA",
+   "baslik": "Paraguay'da azledilen eski Devlet Başkanı Pena hakkında tutuklama kararı",
+   "ozet": "Paraguay'da finansal skandal iddialarının ardından görevinden alınan eski Devlet Başkanı Santiago Pena hakkında tutuklama kararı verildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/paraguayda-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-karari/4115613",
+   "zaman": "2026-11-08T03:41:39+03:00",
+   "kelimeler": [
+    "azled",
+    "baska",
+    "devle",
+    "eski",
+    "hakki",
+    "karar",
+    "parag",
+    "pena",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 04:01:34  2 yeni haber",
   "08.11 03:16:12  3 yeni haber",
   "08.11 03:01:29  1 yeni haber",
   "08.11 02:46:10  5 yeni haber",
@@ -28725,8 +28699,7 @@
   "05.11 20:59:23  4 yeni haber",
   "05.11 20:31:57  3 yeni haber",
   "05.11 20:03:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Sancaktepe Belediye Meclisinde 4 CHP'li üye partilerinden istifa etti",
-  "05.11 20:01:31  5 yeni haber",
-  "05.11 19:32:18  1 yeni haber"
+  "05.11 20:01:31  5 yeni haber"
  ],
  "otomatik": false
 }
