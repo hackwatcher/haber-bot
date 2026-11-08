@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "b4c1b6d0a16f": {
-   "id": "b4c1b6d0a16f",
-   "kaynak": "TRT Haber",
-   "baslik": "SGK'ya 100 denetmen yardımcısı alınacak",
-   "ozet": "Sosyal Güvenlik Kurumu SGK, 100 sosyal güvenlik denetmen yardımcısı alacak.",
-   "link": "https://www.trthaber.com/haber/ekonomi/sgkya-100-denetmen-yardimcisi-alinacak-962381.html",
-   "zaman": "2026-11-06T01:38:00+03:00",
-   "kelimeler": [
-    "100",
-    "alina",
-    "denet",
-    "sgk",
-    "ya",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e1657f1c1aa0": {
    "id": "e1657f1c1aa0",
    "kaynak": "XHABER",
@@ -22475,7 +22457,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "ae6b5ad9dd85": {
@@ -25001,6 +24984,27 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5607c4ae2dc4": {
+   "id": "5607c4ae2dc4",
+   "kaynak": "AA",
+   "baslik": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarına devam ettiklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352",
+   "zaman": "2026-11-09T00:14:42+03:00",
+   "kelimeler": [
+    "247",
+    "akill",
+    "ankar",
+    "kilom",
+    "korid",
+    "kurul",
+    "ulasi",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f53f0d0eb8ef"
   }
  },
  "kayit": [
