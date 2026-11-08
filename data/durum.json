@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "723da15e96e3": {
-   "id": "723da15e96e3",
-   "kaynak": "Hürriyet",
-   "baslik": "Sonbahar bitmeden kış başladı: Kar geliyor! Uzman isim tarih vererek açıkladı… Hangi bölgelerde sıcaklık eksiye inecek?",
-   "ozet": "Yurt genelinde sıcaklıkların hızla düşmesiyle birlikte kışın ilk ciddi habercisi kapıya dayandı. Kuzeyden gelecek soğuk hava dalgası için tarih veren Meteoroloji Mühendisi Dr. Öğr. Üyesi Güven Özdemir, bazı bölgelerde kar ihtimaline dikkat çekti.",
-   "link": "https://www.hurriyet.com.tr/gundem/sonbahar-bitmeden-kis-basladi-kar-geliyor-uzman-isim-tarih-vererek-acikladi-hangi-bolgelerde-sicaklik-eksiye-inecek-43365700",
-   "zaman": "2026-11-05T07:21:40+03:00",
-   "kelimeler": [
-    "basla",
-    "bitme",
-    "bolge",
-    "eksiy",
-    "geliy",
-    "hangi",
-    "inece",
-    "isim",
-    "kar",
-    "kis",
-    "sicak",
-    "sonba",
-    "tarih",
-    "uzman",
-    "verer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "89044b348e96": {
    "id": "89044b348e96",
    "kaynak": "NTV",
@@ -19682,7 +19655,8 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "990d4c18f49f": {
    "id": "990d4c18f49f",
@@ -28093,6 +28067,25 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "35db2e707247": {
+   "id": "35db2e707247",
+   "kaynak": "NTV",
+   "baslik": "Ankara ve Kayseri'de yılın ilk karı yağdı",
+   "ozet": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu. Hava sıcaklığının hissedilir derecede düştüğü Kayseri'ye de yılın ilk karı yağdı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankara-ve-kayseride-yilin-ilk-kari-yagdi-1749884",
+   "zaman": "2026-11-08T07:17:22+03:00",
+   "kelimeler": [
+    "ankar",
+    "ilk",
+    "kari",
+    "kayse",
+    "yagdi",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "09ab762e124b"
   }
  },
  "kayit": [
