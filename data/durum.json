@@ -28086,9 +28086,49 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "09ab762e124b"
+  },
+  "9f1ed66b9791": {
+   "id": "9f1ed66b9791",
+   "kaynak": "TRT Haber",
+   "baslik": "18 il için 'sarı' kodlu uyarı",
+   "ozet": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
+   "zaman": "2026-11-08T07:27:00+03:00",
+   "kelimeler": [
+    "18",
+    "il",
+    "kodlu",
+    "sari",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "acda3259babb"
+  },
+  "78cf99767fcc": {
+   "id": "78cf99767fcc",
+   "kaynak": "Hürriyet",
+   "baslik": "Gece yarısı alevler çatıyı sardı: 5 katlı binada can pazarı",
+   "ozet": "Bursa, Osmangazi Doktor Sadık Ahmet Caddesi'nde saat 04.30 sıralarında yükselen alevler itfaiyeyi harekete geçirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/gece-yarisi-alevler-catiyi-sardi-5-katli-binada-can-pazari-43370083",
+   "zaman": "2026-11-08T07:40:45+03:00",
+   "kelimeler": [
+    "alevl",
+    "binad",
+    "can",
+    "catiy",
+    "gece",
+    "katli",
+    "pazar",
+    "sardi",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 07:46:09  1 yeni haber",
   "08.11 07:16:04  12 yeni haber",
   "08.11 07:02:50  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Galatasaray’ın resmi mağazacılık hesabı GSStore, Barış Alper Yılmaz’ın",
   "08.11 07:01:27  1 yeni haber",
@@ -28287,8 +28327,7 @@
   "05.11 22:16:52  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "05.11 22:02:40  5 yeni haber",
   "05.11 21:31:18  1 yeni haber",
-  "05.11 21:16:05  2 yeni haber",
-  "05.11 21:01:41  1 yeni haber"
+  "05.11 21:16:05  2 yeni haber"
  ],
  "otomatik": false
 }
