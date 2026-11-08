@@ -1,102 +1,5 @@
 {
  "haberler": {
-  "6581f58ae48a": {
-   "id": "6581f58ae48a",
-   "kaynak": "AA",
-   "baslik": "Borsa günü düşüşle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,26 değer kaybederek 11.333,27 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197",
-   "zaman": "2026-11-05T18:28:17+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "tamam"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9c067679ea1f"
-  },
-  "87e940a7beac": {
-   "id": "87e940a7beac",
-   "kaynak": "TRT Haber",
-   "baslik": "Altın fiyatlarında son durum",
-   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 642 bin liraya çıktı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962361.html",
-   "zaman": "2026-11-05T18:29:00+03:00",
-   "kelimeler": [
-    "altin",
-    "durum",
-    "fiyat"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "40f1d88e310d"
-  },
-  "350de2819f31": {
-   "id": "350de2819f31",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakanlıktan giyilmiş çoraplarla bağış paylaşımına suç duyurusu",
-   "ozet": "AİLE ve Sosyal Hizmetler Bakanlığı, sanal medya ünlüsü E.D.'nin, bir futbol müsabakasında giydiği çorapları satışa çıkarıp, elde edeceği gelirleri devlet koruması altındaki çocuklara bağışlayacağı yönündeki açıklaması ile ilgili 'Türkiye Cumhuriyeti Devleti'ni alenen aşağılama'…",
-   "link": "https://www.hurriyet.com.tr/gundem/bakanliktan-giyilmis-coraplarla-bagis-paylasimina-suc-duyurusu-43367469",
-   "zaman": "2026-11-05T18:29:32+03:00",
-   "kelimeler": [
-    "bagis",
-    "bakan",
-    "corap",
-    "duyur",
-    "giyil",
-    "payla",
-    "suc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "13cb4b279f49": {
-   "id": "13cb4b279f49",
-   "kaynak": "NTV",
-   "baslik": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
-   "ozet": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559",
-   "zaman": "2026-11-05T18:31:31+03:00",
-   "kelimeler": [
-    "afyon",
-    "ayri",
-    "bulun",
-    "ceset",
-    "nokta",
-    "saldi",
-    "silah",
-    "uc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "daf035c5db69": {
-   "id": "daf035c5db69",
-   "kaynak": "AA",
-   "baslik": "Dünya Bankası: Gelişmekte olan ülkelerin dış borcu 9,4 trilyon dolarla rekor kırdı",
-   "ozet": "Dünya Bankası, gelişmekte olan ülkelerin dış borcunun 2025'te yüzde 5,5 artarak 9,4 trilyon dolarla rekor seviyeye ulaştığını, bu artışın 2021'den bu yana en hızlı yükseliş olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-gelismekte-olan-ulkelerin-dis-borcu-9-4-trilyon-dolarla-rekor-kirdi/4113202",
-   "zaman": "2026-11-05T18:31:38+03:00",
-   "kelimeler": [
-    "banka",
-    "borcu",
-    "dis",
-    "dolar",
-    "dunya",
-    "gelis",
-    "kirdi",
-    "rekor",
-    "trily",
-    "ulkel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7a01a1bb694d": {
    "id": "7a01a1bb694d",
    "kaynak": "Hürriyet",
@@ -24056,7 +23959,8 @@
    "slayt": 4,
    "kanca": "BİLAL SOYSAL TUTUKLANDI",
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "49008ff53b2b": {
@@ -25447,7 +25351,10 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2d64fb37f0ec": {
    "id": "2d64fb37f0ec",
@@ -25583,7 +25490,9 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Hürriyet",
-    "NTV"
+    "NTV",
+    "AA",
+    "Sözcü"
    ]
   },
   "df7c5651d682": {
@@ -25627,9 +25536,155 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5334c9c4e623"
+  },
+  "7f3941e87e5c": {
+   "id": "7f3941e87e5c",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ve Irak'tan güvenlik mutabakatı",
+   "ozet": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi konusundaki ortak irade teyit edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-guvenlik-mutabakati-962611.html",
+   "zaman": "2026-11-08T18:03:00+03:00",
+   "kelimeler": [
+    "guven",
+    "irak",
+    "mutab",
+    "tan",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5334c9c4e623"
+  },
+  "37712c5aeb57": {
+   "id": "37712c5aeb57",
+   "kaynak": "AA",
+   "baslik": "Türkiye-Irak ortak basın açıklaması yayımlandı",
+   "ozet": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların sürdürülmesi konusundaki ortak irade teyit edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-irak-ortak-basin-aciklamasi-yayimlandi/4116132",
+   "zaman": "2026-11-08T18:07:32+03:00",
+   "kelimeler": [
+    "acikl",
+    "basin",
+    "irak",
+    "ortak",
+    "turki",
+    "yayim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5334c9c4e623"
+  },
+  "50a07972a86e": {
+   "id": "50a07972a86e",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanlığı COP31'de küresel iklim gündemini uluslararası diyaloğun merkezine taşıyor",
+   "ozet": "İletişim Başkanlığı, COP31 kapsamında uluslararası iklim diplomasisinin güçlendirilmesi, bölgesel iş birliği imkanlarının geliştirilmesi ve iklim değişikliğiyle mücadelede ortak çözüm önerilerinin ele alınması amacıyla Antalyada bir dizi etkinlik gerçekleştirecek.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-cop31de-kuresel-iklim-gundemini-uluslararasi-diyalogun-merkezine-tasiyor-962612.html",
+   "zaman": "2026-11-08T18:15:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "diyal",
+    "gunde",
+    "iklim",
+    "ileti",
+    "kures",
+    "merke",
+    "tasiy",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba6041c2d6f0": {
+   "id": "ba6041c2d6f0",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı",
+   "ozet": "Fon soruşturması kapsamında Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) 3. Daire Başkanı Bilal Soysal tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973",
+   "zaman": "2026-11-08T18:18:00+03:00",
+   "kelimeler": [
+    "baska",
+    "bddk",
+    "bilal",
+    "daire",
+    "fon",
+    "gelis",
+    "sorus",
+    "soysa",
+    "tutuk",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b7d5bb8ccae4"
+  },
+  "730e986e15df": {
+   "id": "730e986e15df",
+   "kaynak": "Sözcü",
+   "baslik": "Türkiye ve Irak'tan Başika-Zilikan kararı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/turkiye-ve-irak-tan-basika-zilikan-karari-p377274",
+   "zaman": "2026-11-08T18:18:20+03:00",
+   "kelimeler": [
+    "basik",
+    "irak",
+    "karar",
+    "tan",
+    "turki",
+    "zilik"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5334c9c4e623"
+  },
+  "ff11a6287ed1": {
+   "id": "ff11a6287ed1",
+   "kaynak": "AA",
+   "baslik": "Türkiye SKIL Enduro ve ATV Şampiyonası'nın Rize ayağı, karlı havada tamamlandı",
+   "ozet": "Türkiye SKIL Enduro ve ATV Şampiyonası'nın Rize ayağı, Çayeli ilçesindeki Senoz Vadisi'nde gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-skil-enduro-ve-atv-sampiyonasinin-rize-ayagi-karli-havada-tamamlandi/4116157",
+   "zaman": "2026-11-08T18:20:00+03:00",
+   "kelimeler": [
+    "atv",
+    "ayagi",
+    "endur",
+    "havad",
+    "karli",
+    "nin",
+    "rize",
+    "sampi",
+    "skil",
+    "tamam",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d7972abe9368": {
+   "id": "d7972abe9368",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı'nı ziyaret etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'na ziyarette bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-hocali-soykirim-anitini-ziyaret-etti-43370711",
+   "zaman": "2026-11-08T18:26:50+03:00",
+   "kelimeler": [
+    "aniti",
+    "cumhu",
+    "erdog",
+    "etti",
+    "hocal",
+    "ni",
+    "soyki",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b946b7d3acac"
   }
  },
  "kayit": [
+  "08.11 18:31:44  2 yeni haber",
   "08.11 18:16:08  3 yeni haber",
   "08.11 18:01:54  5 yeni haber",
   "08.11 17:48:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın el",
@@ -25828,8 +25883,7 @@
   "06.11 12:46:06  6 yeni haber",
   "06.11 12:31:45  6 yeni haber",
   "06.11 12:16:11  9 yeni haber",
-  "06.11 12:04:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 34 ilde göçmen kaçakçılarına operasyon: 63 organizatör tutuklandı",
-  "06.11 12:01:28  4 yeni haber"
+  "06.11 12:04:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 34 ilde göçmen kaçakçılarına operasyon: 63 organizatör tutuklandı"
  ],
  "otomatik": false
 }
