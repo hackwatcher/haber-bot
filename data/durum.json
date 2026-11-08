@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "bbd1485de987": {
-   "id": "bbd1485de987",
-   "kaynak": "AA",
-   "baslik": "İran: UAEA Başkanı Grossi, düşmanımızın bir unsuru haline geldi",
-   "ozet": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli veya hassas bilgileri İran'ın düşmanlarıyla paylaşmakla ve \"düşmanın bir unsuru haline gelmekle\" suçladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-uaea-baskani-grossi-dusmanimizin-bir-unsuru-haline-geldi/4113283",
-   "zaman": "2026-11-05T19:57:03+03:00",
-   "kelimeler": [
-    "baska",
-    "dusma",
-    "geldi",
-    "gross",
-    "halin",
-    "iran",
-    "uaea",
-    "unsur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b191864378e9": {
-   "id": "b191864378e9",
-   "kaynak": "NTV",
-   "baslik": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
-   "ozet": "Eski Bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmada, Adli Tıp Kurumu incelemesinde ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği bildirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti-1749569",
-   "zaman": "2026-11-05T20:00:24+03:00",
-   "kelimeler": [
-    "adli",
-    "ahmet",
-    "arif",
-    "cikti",
-    "deniz",
-    "ilisk",
-    "olumu",
-    "rapor",
-    "tip",
-    "un"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "aabe2293a132"
-  },
-  "2abda61ecfc2": {
-   "id": "2abda61ecfc2",
-   "kaynak": "TRT Haber",
-   "baslik": "Arif Ahmet Denizolgun'un ölümüyle ilgili Adli Tıp raporu çıktı",
-   "ozet": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturma kapsamında, Adli Tıp Kurumunca veriler üzerinde yapılan incelemede ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği belirlendi.",
-   "link": "https://www.trthaber.com/haber/gundem/arif-ahmet-denizolgunun-olumuyle-ilgili-adli-tip-raporu-cikti-962364.html",
-   "zaman": "2026-11-05T19:58:00+03:00",
-   "kelimeler": [
-    "adli",
-    "ahmet",
-    "arif",
-    "cikti",
-    "deniz",
-    "ilgil",
-    "olumu",
-    "rapor",
-    "tip",
-    "un"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "273c89d7d7c5"
-  },
   "623af99deeb5": {
    "id": "623af99deeb5",
    "kaynak": "AA",
@@ -19075,7 +19009,8 @@
    "slayt": 4,
    "kanca": "GÖREV EISENKOT'A VERİLDİ",
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "b078c12fb3e0": {
@@ -24365,7 +24300,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "BBC Türkçe"
    ]
   },
   "98e130ef2e4c": {
@@ -25266,8 +25202,17 @@
     "tamam",
     "turki"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-08T20:03:48.475940+03:00",
+   "ig_id": "18115735430138635",
+   "reels_id": "18161066407506986",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1113703874779068",
+   "slayt": 5,
+   "kanca": "SENOZ VADİSİNDE ZORLU YARIŞ"
   },
   "d7972abe9368": {
    "id": "d7972abe9368",
@@ -25520,9 +25465,116 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7c5955c61b8f": {
+   "id": "7c5955c61b8f",
+   "kaynak": "AA",
+   "baslik": "Mısır'daki tren kazasında 7 kişi öldü, 112 kişi yaralandı",
+   "ozet": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 7 kişi öldü, 112 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tren-kazasinda-7-kisi-oldu-112-kisi-yaralandi/4116058",
+   "zaman": "2026-11-08T16:19:48+03:00",
+   "kelimeler": [
+    "112",
+    "daki",
+    "kazas",
+    "kisi",
+    "misir",
+    "tren",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3a49f47ad1a9"
+  },
+  "746395089848": {
+   "id": "746395089848",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran'dan COP31'e ilişkin paylaşım",
+   "ozet": "İletişim Başkanı Duran, \"İnanıyorum ki COP31, ülkeler arasındaki işbirliğini güçlendiren, ortak sorumluluk bilincini geliştiren ve iklim eylemini somut sonuçlara taşıyan önemli bir zirve olacaktır.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31e-iliskin-paylasim/4116217",
+   "zaman": "2026-11-08T19:41:54+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "dan",
+    "duran",
+    "ileti",
+    "ilisk",
+    "payla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d5e3b24ca304": {
+   "id": "d5e3b24ca304",
+   "kaynak": "AA",
+   "baslik": "Suriye Sağlık Bakanlığı, Deyrizor'da iki çocukta çocuk felci virüsü tespit edildiğini duyurdu",
+   "ozet": "Suriye Sağlık Bakanı Musab el-Ali, \"İlk kampanya kapsamında, aralarında daha önce hiç aşılanmamış çocukların da bulunduğu 5 yaş altı 34 binden fazla çocuk aşılandı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-saglik-bakanligi-deyrizorda-iki-cocukta-cocuk-felci-virusu-tespit-edildigini-duyurdu/4116220",
+   "zaman": "2026-11-08T19:46:54+03:00",
+   "kelimeler": [
+    "bakan",
+    "cocuk",
+    "deyri",
+    "duyur",
+    "edild",
+    "felci",
+    "iki",
+    "sagli",
+    "suriy",
+    "tespi",
+    "virus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "237d17709e4c": {
+   "id": "237d17709e4c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Mısır'da tren kazası: En az yedi kişi öldü, onlarca kişi yaralı",
+   "ozet": "Mısır'da iki yolcu treninin çarpışması sonucu en az yedi kişi hayatını kaybetti, onlarca kişi yaralandı. Ölenler arasında bir trenin makinisti de bulunuyor. Kazanın nedeni henüz bilinmiyor ancak kazanın yaşandığı bölge geçmişteki ölümcül tren kazalarıyla biliniyor.",
+   "link": "https://www.bbc.com/turkce/articles/c6lyekwgg18jo",
+   "zaman": "2026-11-08T19:54:41+03:00",
+   "kelimeler": [
+    "az",
+    "kazas",
+    "kisi",
+    "misir",
+    "onlar",
+    "tren",
+    "yaral",
+    "yedi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3a49f47ad1a9"
+  },
+  "6f4450265b23": {
+   "id": "6f4450265b23",
+   "kaynak": "Hürriyet",
+   "baslik": "Herzog, hükümeti kurma görevini Netanyahu'nun rakibi Eisenkot'a verdi",
+   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, ülkedeki genel seçimlerin ardından milletvekillerinin çoğunluğunun desteğini alan Yashar Partisi lideri Gadi Eisenkot’a hükümeti kurma görevini resmen verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/herzog-hukumeti-kurma-gorevini-netanyahunun-rakibi-eisenkota-verdi-43370771",
+   "zaman": "2026-11-08T19:55:00+03:00",
+   "kelimeler": [
+    "eisen",
+    "gorev",
+    "herzo",
+    "hukum",
+    "kurma",
+    "netan",
+    "nun",
+    "rakib",
+    "verdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bed4203e54b3"
   }
  },
  "kayit": [
+  "08.11 20:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye SKIL Enduro ve ATV Şampiyonası'nın Rize ayağı, karlı havada ta",
+  "08.11 20:01:27  2 yeni haber",
   "08.11 19:46:00  2 yeni haber",
   "08.11 19:31:39  2 yeni haber",
   "08.11 18:46:04  1 yeni haber",
@@ -25720,9 +25772,7 @@
   "06.11 13:46:11  7 yeni haber",
   "06.11 13:33:09  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · ABD'deki ara seçimlerin ardından gözler ekonomi ve ticaret politikalar",
   "06.11 13:31:16  1 yeni haber",
-  "06.11 13:16:08  2 yeni haber",
-  "06.11 13:01:30  4 yeni haber",
-  "06.11 12:46:06  6 yeni haber"
+  "06.11 13:16:08  2 yeni haber"
  ],
  "otomatik": false
 }
