@@ -1,116 +1,5 @@
 {
  "haberler": {
-  "054b442ab6ed": {
-   "id": "054b442ab6ed",
-   "kaynak": "Hürriyet",
-   "baslik": "Emine Erdoğan'dan Güney Kore ziyaretine ilişkin paylaşım",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Güney Kore ziyaretine ilişkin sosyal medya hesabından paylaşımda bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-guney-kore-ziyaretine-iliskin-paylasim-43366620",
-   "zaman": "2026-11-05T10:35:49+03:00",
-   "kelimeler": [
-    "dan",
-    "emine",
-    "erdog",
-    "guney",
-    "ilisk",
-    "kore",
-    "payla",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ccb99b7718f"
-  },
-  "f60f2ff9a378": {
-   "id": "f60f2ff9a378",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransa'da yüz binlerce insanın sokağa çıkacağı genel grev öncesi hükümet teyakkuzda",
-   "ozet": "Fransa'da akaryakıt fiyatlarındaki artış, hayat pahalılığı ve eğitim sektöründeki yetersizlikleri protesto etmek amacıyla toplumun farklı kesimlerinden yüz binlerce kişinin katılması beklenen gösteriler öncesinde İçişleri Bakanlığı güvenlik önlemlerini artırdı.",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-yuz-binlerce-insanin-sokaga-cikacagi-genel-grev-oncesi-hukumet-teyakkuzda-962309.html",
-   "zaman": "2026-11-05T10:37:00+03:00",
-   "kelimeler": [
-    "binle",
-    "cikac",
-    "frans",
-    "genel",
-    "grev",
-    "hukum",
-    "insan",
-    "onces",
-    "sokag",
-    "teyak",
-    "yuz"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "342846e658a7"
-  },
-  "4106c2d07c82": {
-   "id": "4106c2d07c82",
-   "kaynak": "TRT Haber",
-   "baslik": "Kuzey Kore hava savunma füze sistemi denemesi yaptı",
-   "ozet": "Kuzey Kore, gelişmiş hava savunma füze sistemi denemesi yaptığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/kuzey-kore-hava-savunma-fuze-sistemi-denemesi-yapti-962310.html",
-   "zaman": "2026-11-05T10:38:00+03:00",
-   "kelimeler": [
-    "denem",
-    "fuze",
-    "hava",
-    "kore",
-    "kuzey",
-    "savun",
-    "siste",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b9251423c1e9": {
-   "id": "b9251423c1e9",
-   "kaynak": "AA",
-   "baslik": "Kırmızı bültenle aranan \"Daltonlar\" suç örgütü üyesi Şahin, Gürcistan'dan Türkiye'ye iade edildi",
-   "ozet": "İçişleri Bakanlığı, kırmızı bültenle aranan \"Daltonlar\" organize suç örgütü üyesi Gökhan Şahin'in Gürcistan'dan Türkiye'ye iade edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kirmizi-bultenle-aranan-daltonlar-suc-orgutu-uyesi-sahin-gurcistandan-turkiyeye-iade-edildi/4112262",
-   "zaman": "2026-11-05T10:38:30+03:00",
-   "kelimeler": [
-    "arana",
-    "bulte",
-    "dalto",
-    "dan",
-    "edild",
-    "gurci",
-    "iade",
-    "kirmi",
-    "orgut",
-    "sahin",
-    "suc",
-    "turki",
-    "uyesi",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "12575edde728"
-  },
-  "c7fd308544fc": {
-   "id": "c7fd308544fc",
-   "kaynak": "TRT Haber",
-   "baslik": "Emine Erdoğan'dan Güney Kore teşekkürü",
-   "ozet": "Cumhurbaşkanı Erdoğan ile Güney Kore'yi ziyaret eden Emine Erdoğan, sosyal medya hesabından yaptığı paylaşımla ev sahibi Devlet Başkanı ve eşine teşekkür etti.",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-guney-kore-tesekkuru-962311.html",
-   "zaman": "2026-11-05T10:37:00+03:00",
-   "kelimeler": [
-    "dan",
-    "emine",
-    "erdog",
-    "guney",
-    "kore",
-    "tesek"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ccb99b7718f"
-  },
   "f40188c9105d": {
    "id": "f40188c9105d",
    "kaynak": "AA",
@@ -24081,7 +23970,8 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "8fc4e114e097": {
    "id": "8fc4e114e097",
@@ -24547,7 +24437,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "a503780fec16": {
@@ -26942,8 +26833,17 @@
     "ten",
     "van"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-08T10:48:35.888685+03:00",
+   "ig_id": "18179539444450526",
+   "reels_id": "17897886747455118",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1640298031224708",
+   "slayt": 4,
+   "kanca": "VAN'DA TRAFİK KAZASI"
   },
   "03d04a434ec1": {
    "id": "03d04a434ec1",
@@ -27073,9 +26973,219 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "247df5d806e0": {
+   "id": "247df5d806e0",
+   "kaynak": "AA",
+   "baslik": "Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda 33 kişi hayatını kaybetti",
+   "ozet": "Yemen'deki İran destekli Husiler, Suudi Arabistan öncülüğündeki koalisyon güçlerinin Sana'ya bağlı el-Şariye köyüne düzenlediği hava saldırılarında 33 kişinin yaşamını yitirdiğini, 39 kişinin yaralandığını öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-33-kisi-hayatini-kaybetti/4115641",
+   "zaman": "2026-11-08T08:32:16+03:00",
+   "kelimeler": [
+    "33",
+    "arabi",
+    "duzen",
+    "hayat",
+    "husil",
+    "in",
+    "kaybe",
+    "kisi",
+    "saldi",
+    "sana",
+    "suudi",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2681b86b3b9c"
+  },
+  "3f8b0af7b6a6": {
+   "id": "3f8b0af7b6a6",
+   "kaynak": "AA",
+   "baslik": "Türk savunma sanayisi Münih'te nitelikli insan kaynağıyla buluştu",
+   "ozet": "SSB'nin Milli Yetkinlik Hamlesi kapsamındaki \"Teknoloji ve Yetkinlik Buluşmaları\", Almanya'da yaşayan Türk öğrenci, mühendis ve akademisyenlerin katılımıyla Savunma Sanayii Akademi koordinasyonunda Münih'te düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisi-munihte-nitelikli-insan-kaynagiyla-bulustu/4115688",
+   "zaman": "2026-11-08T10:09:30+03:00",
+   "kelimeler": [
+    "bulus",
+    "insan",
+    "kayna",
+    "munih",
+    "nitel",
+    "sanay",
+    "savun",
+    "te",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "832ca695367b": {
+   "id": "832ca695367b",
+   "kaynak": "AA",
+   "baslik": "Yurdun bazı bölgelerinde kar etkili oluyor",
+   "ozet": "Yurdun bazı bölgelerinde kar yağışı etkili oluyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/yurdun-bazi-bolgelerinde-kar-etkili-oluyor/4115689",
+   "zaman": "2026-11-08T10:15:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "bolge",
+    "etkil",
+    "kar",
+    "oluyo",
+    "yurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2fd56ff5560c": {
+   "id": "2fd56ff5560c",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünya iklim gündemi için Antalya'da buluşuyor: COP31 yarın başlıyor",
+   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31, yarın devlet ve hükümet temsilcileri, bakanlar, akademisyenler ve sivil toplum kuruluşlarının katılımıyla başlayacak.",
+   "link": "https://www.trthaber.com/haber/gundem/dunya-iklim-gundemi-icin-antalyada-bulusuyor-cop31-yarin-basliyor-962576.html",
+   "zaman": "2026-11-08T10:21:00+03:00",
+   "kelimeler": [
+    "antal",
+    "basli",
+    "bulus",
+    "cop31",
+    "dunya",
+    "gunde",
+    "iklim",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c6be6e3c8a7": {
+   "id": "2c6be6e3c8a7",
+   "kaynak": "AA",
+   "baslik": "Aile ve Sosyal Hizmetler Bakanı Göktaş'tan COP31 kapsamında düzenlenecek etkinliklere davet",
+   "ozet": "Bakan Göktaş, \"Bakanlık olarak, çocuklara güçlü bir söz hakkı tanıyan, kadınların fikirlerini yeşil dönüşümün merkezine taşıyan ve toplumsal farkındalığı artıran etkinliklerimizi uluslararası katılımcılarla buluşturuyoruz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktastan-cop31-kapsaminda-duzenlenecek-etkinliklere-davet/4115697",
+   "zaman": "2026-11-08T10:23:08+03:00",
+   "kelimeler": [
+    "aile",
+    "bakan",
+    "cop31",
+    "davet",
+    "duzen",
+    "etkin",
+    "gokta",
+    "hizme",
+    "kapsa",
+    "sosya",
+    "tan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "340ff9081a22": {
+   "id": "340ff9081a22",
+   "kaynak": "Hürriyet",
+   "baslik": "Karabağ Zaferi'nin 6. yılı | Cumhurbaşkanı Erdoğan Azerbaycan’a gitti",
+   "ozet": "Cumhurbaşkanı Erdoğan, programı kapsamında Azerbaycan’ı ziyaret etmek üzere Türkiye’den ayrıldı. Erdoğan’a ziyarette eşi Emine Erdoğan da eşlik etti. Azerbaycan, Karabağ'da 30 yıllık Ermenistan işgaline son veren 2. Karabağ Savaşı’nın 6. yıl dönümünü bugün kutlayacak.",
+   "link": "https://www.hurriyet.com.tr/gundem/karabag-zaferi-cumhurbaskani-erdogan-azerbaycana-gitti-43370174",
+   "zaman": "2026-11-08T10:28:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gitti",
+    "karab",
+    "nin",
+    "yili",
+    "zafer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
+  },
+  "97e75ab843c1": {
+   "id": "97e75ab843c1",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan Azerbaycan'a gidiyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, programı kapsamında Azerbaycan'ı ziyaret etmek üzere hareket etti. Cumhurbaşkanı Erdoğan'a eşi Emine Erdoğan eşlik etti. Erdoğan ziyaret kapsamında, mevkidaşı İlham Aliyev ile de bir araya gelecek.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycana-gidiyor-962577.html",
+   "zaman": "2026-11-08T10:36:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gidiy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
+  },
+  "f65a3221b713": {
+   "id": "f65a3221b713",
+   "kaynak": "AA",
+   "baslik": "NBA'de Rockets, Alperen Şengün'ün 15 sayı attığı maçta Suns'a yenildi",
+   "ozet": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli oyuncu Alperen Şengün'ün 15 sayıyla oynadığı maçta Phoenix Suns'a 102-99 yenildi.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-15-sayi-attigi-macta-sunsa-yenildi/4115706",
+   "zaman": "2026-11-08T10:38:58+03:00",
+   "kelimeler": [
+    "15",
+    "alper",
+    "attig",
+    "macta",
+    "nba",
+    "rocke",
+    "sayi",
+    "sengu",
+    "suns",
+    "un",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "54c244ddaa35": {
+   "id": "54c244ddaa35",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan Azerbaycan'a gitti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetine icabetle Karabağ'a gitti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycana-gitti/4115708",
+   "zaman": "2026-11-08T10:40:01+03:00",
+   "kelimeler": [
+    "azerb",
+    "cumhu",
+    "erdog",
+    "gitti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e0547b6bd99f"
+  },
+  "2f1633c66d91": {
+   "id": "2f1633c66d91",
+   "kaynak": "Sözcü",
+   "baslik": "Bahçeli’nin 19 il, 78 ilçe önerisi: Üç büyükşehir için sınır tartışması",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/bahcelinin-19-il-78-ilce-onerisi-uc-buyuksehir-icin-sinir-tartismasi-p377140",
+   "zaman": "2026-11-08T10:43:18+03:00",
+   "kelimeler": [
+    "19",
+    "78",
+    "bahce",
+    "buyuk",
+    "il",
+    "ilce",
+    "nin",
+    "oneri",
+    "sinir",
+    "tarti",
+    "uc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 10:48:35  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Parti Sözcüsü Çelik'ten Van'da hayatını kaybedenler için başsağlığı",
+  "08.11 10:46:20  6 yeni haber",
   "08.11 10:31:14  5 yeni haber",
   "08.11 10:16:20  2 yeni haber",
   "08.11 10:01:58  2 yeni haber",
@@ -27273,9 +27383,7 @@
   "06.11 01:16:53  1 yeni haber",
   "06.11 01:01:33  1 yeni haber",
   "06.11 00:48:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA | Fatma Betül Sayan Kaya, tutuklama talebiyle mahkemeye sev",
-  "06.11 00:46:06  5 yeni haber",
-  "06.11 00:16:07  1 yeni haber",
-  "06.11 00:03:16  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Paraguay Devlet Başkanı Santiago Pena, görevinden istifa etti"
+  "06.11 00:46:06  5 yeni haber"
  ],
  "otomatik": false
 }
