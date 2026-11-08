@@ -1,57 +1,5 @@
 {
  "haberler": {
-  "7dbe6a3fcf73": {
-   "id": "7dbe6a3fcf73",
-   "kaynak": "AA",
-   "baslik": "Japonya Ulusal Polis Teşkilatı ve Google, Çinli şirketin arka kapı yazılımını devre dışı bıraktı",
-   "ozet": "Japonya Ulusal Polis Teşkilatı (NPA) ve Google, Çin merkezli Videostrong şirketinin 1 milyondan fazla internet bağlantılı cihazı proxy sunucusuna dönüştüren arka kapı yazılımını devre dışı bıraktığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/japonya-ulusal-polis-teskilati-ve-google-cinli-sirketin-arka-kapi-yazilimini-devre-disi-birakti/4113308",
-   "zaman": "2026-11-05T20:32:07+03:00",
-   "kelimeler": [
-    "arka",
-    "birak",
-    "cinli",
-    "devre",
-    "disi",
-    "googl",
-    "japon",
-    "kapi",
-    "polis",
-    "sirke",
-    "teski",
-    "ulusa",
-    "yazil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "64b13dc0df77": {
-   "id": "64b13dc0df77",
-   "kaynak": "Hürriyet",
-   "baslik": "İngiliz The Independent gazetesinden çarpıcı iddia: ABD Dışişleri Bakanı Rubio, başkanlık yarışı için istifa edecek",
-   "ozet": "ABD Dışişleri Bakanı Marco Rubio'nun, 2028'de ABD başkanlık seçimlerinde aday olmak için görevinden istifa edeceği iddia edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ingiliz-the-independent-gazetesinden-carpici-iddia-abd-disisleri-bakani-rubio-baskanlik-yarisi-icin-istifa-edecek-43367566",
-   "zaman": "2026-11-05T20:35:56+03:00",
-   "kelimeler": [
-    "abd",
-    "bakan",
-    "baska",
-    "carpi",
-    "disis",
-    "edece",
-    "gazet",
-    "iddia",
-    "indep",
-    "ingil",
-    "istif",
-    "rubio",
-    "the",
-    "yaris"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "405e9a6ade9c"
-  },
   "35fc68f7e69b": {
    "id": "35fc68f7e69b",
    "kaynak": "AA",
@@ -25337,7 +25285,10 @@
     "payla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "d5e3b24ca304": {
    "id": "d5e3b24ca304",
@@ -25474,10 +25425,127 @@
     "yapma"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "ed6645446d43": {
+   "id": "ed6645446d43",
+   "kaynak": "AA",
+   "baslik": "Filistin Sağlık Bakanı: 1 milyar 300 doları aşan borcumuz sağlık hizmetlerini tehdit ediyor",
+   "ozet": "Filistin Sağlık Bakanı Macid Ebu Ramazan, bakanlığının borcunun 1 milyar 300 milyon doları aştığını belirterek, bu durumun artan tıbbi ve insani ihtiyaçların karşılanmasını tehdit ettiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-saglik-bakani-1-milyar-300-dolari-asan-borcumuz-saglik-hizmetlerini-tehdit-ediyor/4116252",
+   "zaman": "2026-11-08T20:27:14+03:00",
+   "kelimeler": [
+    "300",
+    "asan",
+    "bakan",
+    "borcu",
+    "dolar",
+    "ediyo",
+    "filis",
+    "hizme",
+    "milya",
+    "sagli",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "68b7ff3e9b9a": {
+   "id": "68b7ff3e9b9a",
+   "kaynak": "AA",
+   "baslik": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri mayına çarparak alev aldı",
+   "ozet": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda, izin verilmeyen bölgede hareket ettiği belirtilen bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carparak-alev-aldi/4116254",
+   "zaman": "2026-11-08T20:32:28+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "bogaz",
+    "carpa",
+    "hurmu",
+    "iran",
+    "mayin",
+    "nda",
+    "ordus",
+    "petro",
+    "tanke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7075cd25189f"
+  },
+  "3e18922e206f": {
+   "id": "3e18922e206f",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Dışişleri Bakanı Erakçi: Şimdi seçim yapma sırası Beyaz Saray'da",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD yönetimine, Tahran'ın \"2 günlük teklifini\" kabul etme çağrısında bulunarak, aksi halde İran'ın savaş seçeneğine karşılık vereceği mesajını gönderdi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-erakci-simdi-secim-yapma-sirasi-beyaz-sarayda-962615.html",
+   "zaman": "2026-11-08T20:34:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "beyaz",
+    "disis",
+    "erakc",
+    "iran",
+    "saray",
+    "secim",
+    "simdi",
+    "siras",
+    "yapma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b5339bc4f967"
+  },
+  "d255ef718f9f": {
+   "id": "d255ef718f9f",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran'dan COP31'e ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31.",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-cop31e-iliskin-paylasim-43370787",
+   "zaman": "2026-11-08T20:35:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "dan",
+    "duran",
+    "ileti",
+    "ilisk",
+    "payla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "746395089848"
+  },
+  "fa84c3781c5a": {
+   "id": "fa84c3781c5a",
+   "kaynak": "AA",
+   "baslik": "İsrail hapishanelerindeki Filistinli esirlerin yaklaşık yüzde 80'i uyuz hastalığından şikayet ediyor",
+   "ozet": "İsrail hapishanelerinde tutulan 9 bini aşkın Filistinli esirin yaklaşık yüzde 80'inin uyuz hastalığına yakalandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-hapishanelerindeki-filistinli-esirlerin-yaklasik-yuzde-80i-uyuz-hastaligindan-sikayet-ediyor/4116255",
+   "zaman": "2026-11-08T20:35:15+03:00",
+   "kelimeler": [
+    "80",
+    "ediyo",
+    "esirl",
+    "filis",
+    "hapis",
+    "hasta",
+    "israi",
+    "sikay",
+    "uyuz",
+    "yakla",
+    "yuzde"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "08.11 20:46:03  2 yeni haber",
   "08.11 20:31:19  2 yeni haber",
   "08.11 20:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye SKIL Enduro ve ATV Şampiyonası'nın Rize ayağı, karlı havada ta",
   "08.11 20:01:27  2 yeni haber",
@@ -25676,8 +25744,7 @@
   "06.11 14:16:03  6 yeni haber",
   "06.11 14:01:28  5 yeni haber",
   "06.11 13:46:11  7 yeni haber",
-  "06.11 13:33:09  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · ABD'deki ara seçimlerin ardından gözler ekonomi ve ticaret politikalar",
-  "06.11 13:31:16  1 yeni haber"
+  "06.11 13:33:09  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · ABD'deki ara seçimlerin ardından gözler ekonomi ve ticaret politikalar"
  ],
  "otomatik": false
 }
