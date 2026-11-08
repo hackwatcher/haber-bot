@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "c14da914a3d4": {
-   "id": "c14da914a3d4",
-   "kaynak": "AA",
-   "baslik": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
-   "ozet": "ABD Başkanı Donald Trump, Vietnam Savaşı'nda binlerce ABD askerinin kaybedildiğini hatırlatarak, kendi yönetiminin ise sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-sadece-18-kayipla-hurmuz-bogazinda-kontrolu-saglayabildigini-one-surdu/4113552",
-   "zaman": "2026-11-06T02:33:12+03:00",
-   "kelimeler": [
-    "18",
-    "bogaz",
-    "hurmu",
-    "kayip",
-    "kontr",
-    "nda",
-    "one",
-    "sadec",
-    "sagla",
-    "surdu",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "25275296f0bb": {
-   "id": "25275296f0bb",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Şimşek: Gelir, kurumlar ve katma değer vergisi oranlarında bir artış gündemde yok",
-   "ozet": "Hazine ve Maliye Bakanı Şimşek, \"2027 yılında gelir vergisi, kurumlar vergisi ve katma değer vergisi genel oranlarında bir artış gündemimizde yoktur\" açıklamasını yaptı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-gelir-kurumlar-ve-katma-deger-vergisi-oranlarinda-bir-artis-gundemde-yok-962382.html",
-   "zaman": "2026-11-06T02:36:00+03:00",
-   "kelimeler": [
-    "artis",
-    "bakan",
-    "deger",
-    "gelir",
-    "gunde",
-    "katma",
-    "kurum",
-    "oranl",
-    "simse",
-    "vergi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "61b5364d4c75": {
    "id": "61b5364d4c75",
    "kaynak": "BBC Türkçe",
@@ -25022,9 +24974,35 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8a72125d9e04"
+  },
+  "a91031b42b57": {
+   "id": "a91031b42b57",
+   "kaynak": "XHABER",
+   "baslik": "Gazi Mustafa Kemal Atatürk hakkında 9 Kasım 1938'de hazırlanan rapor:",
+   "ozet": "\"Dün geceyi koma halinde geçirdiler. Vaziyetteki ciddiyet daha artmıştır.\"",
+   "link": "https://t.me/sahinozkan000/30572",
+   "zaman": "2026-11-09T02:41:13+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Gazi Mustafa Kemal Atatürk hakkında 9 Kasım 1938'de hazırlanan rapor:\n\"Dün geceyi koma halinde geçirdiler. Vaziyetteki ciddiyet daha artmıştır.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/cgcfuEOXDcbiFcMsfo5XJIh92lGd1DAWk_7zOl78ZIk9Yqw6CBIWP6yFTZrM4MbhLgkojft5HWxDVI1Q2D17-8NWb02RqFfOpH2_Ee_AkC9iFAia5iZQ-An7S5pyxr2gPNLI0PxD4zrHgYsASteJIih9KxXAmZjhbn34XGJTkU35FVdsOZt7Oks34MwliJ0J0WQhev4q8bhqpTTSFeanz6Ww0J2o4DGytx9Pr8RhCaZy-cS6h4teYD3MNju_ZrEOjvi4pre-Kl2wFe6Q45MzGGJ0_M8rujj-7V_HN0uh4DUW0srWDNRPb9KB8SHji83uRybK-SpQ2PkQPEavkC45pQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "1938",
+    "atatu",
+    "gazi",
+    "hakki",
+    "hazir",
+    "kasim",
+    "kemal",
+    "musta",
+    "rapor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 02:46:01  1 yeni haber",
   "09.11 02:31:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "09.11 01:32:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Bargello, Büyük Kasım indirimlerine özel 3 al, 2 öde kampanyası başlat",
   "09.11 01:31:25  2 yeni haber",
@@ -25223,8 +25201,7 @@
   "06.11 19:01:35  5 yeni haber",
   "06.11 18:46:00  5 yeni haber",
   "06.11 18:31:28  6 yeni haber",
-  "06.11 18:01:47  9 yeni haber",
-  "06.11 17:33:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD Başkanı Trump, \"süper zekayı\" desteklediğini söyledi"
+  "06.11 18:01:47  9 yeni haber"
  ],
  "otomatik": false
 }
