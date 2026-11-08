@@ -27873,7 +27873,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "20a1fa058659": {
    "id": "20a1fa058659",
@@ -28434,7 +28437,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d54b0ae638a5": {
    "id": "d54b0ae638a5",
@@ -28454,6 +28460,72 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7f2bb41cec00": {
+   "id": "7f2bb41cec00",
+   "kaynak": "TRT Haber",
+   "baslik": "Filistin'den Gazze'deki insani felaketin önlenmesi için uluslararası topluma çağrı",
+   "ozet": "Filistin, Gazze Şeridi'nde etkili olan şiddetli yağış ve fırtına nedeniyle derinleşen insani felaketin önlenmesi için uluslararası topluma acilen harekete geçme çağrısında bulunarak, İsrail'den tüm sınır kapılarını açmasını istedi.",
+   "link": "https://www.trthaber.com/haber/dunya/filistinden-gazzedeki-insani-felaketin-onlenmesi-icin-uluslararasi-topluma-cagri-962566.html",
+   "zaman": "2026-11-08T03:44:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "deki",
+    "den",
+    "felak",
+    "filis",
+    "gazze",
+    "insan",
+    "onlen",
+    "toplu",
+    "ulusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "60c3690f6e9b"
+  },
+  "1c75c76f52cc": {
+   "id": "1c75c76f52cc",
+   "kaynak": "TRT Haber",
+   "baslik": "Suudi Arabistan'ın 3 kentinde erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sisteminin tehlike alarmı verdiğini, daha sonra tehlikenin geçtiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-3-kentinde-erken-uyari-sistemi-devreye-alindi-962567.html",
+   "zaman": "2026-11-08T05:29:00+03:00",
+   "kelimeler": [
+    "alind",
+    "arabi",
+    "devre",
+    "erken",
+    "in",
+    "kenti",
+    "siste",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d8e767f393b3"
+  },
+  "e48a1117aa6d": {
+   "id": "e48a1117aa6d",
+   "kaynak": "NTV",
+   "baslik": "Yeni Parti'de bugün genel başkanlık ön seçimi yapılacak",
+   "ozet": "Yeni Parti'de kurultay öncesinde bugün genel başkanlık ön seçimi yapılacak. Partinin il ve ilçe başkanlıklarında sandıklarda parti üyesi olan herkes oy kullanabilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/yeni-partide-bugun-genel-baskanlik-on-secimi-yapilacak-1749890",
+   "zaman": "2026-11-08T05:53:24+03:00",
+   "kelimeler": [
+    "baska",
+    "bugun",
+    "genel",
+    "on",
+    "parti",
+    "secim",
+    "yapil",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "209402e371fe"
   }
  },
  "kayit": [
