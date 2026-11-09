@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "c856926f101a": {
-   "id": "c856926f101a",
-   "kaynak": "TRT Haber",
-   "baslik": "Dört ülkeden Husilerin Medine'ye füze saldırısı girişimine kınama",
-   "ozet": "Kuveyt, Katar, Bahreyn ve Ürdün, Yemen'deki İran destekli Husilerin Suudi Arabistan'ın Medine kentine balistik füzeyle saldırı girişimini kınayarak, Riyad yönetimiyle dayanışma içinde olduklarını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/dort-ulkeden-husilerin-medineye-fuze-saldirisi-girisimine-kinama-962385.html",
-   "zaman": "2026-11-06T04:48:00+03:00",
-   "kelimeler": [
-    "dort",
-    "fuze",
-    "giris",
-    "husil",
-    "kinam",
-    "medin",
-    "saldi",
-    "ulked",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7ad8ca3c7fe1": {
-   "id": "7ad8ca3c7fe1",
-   "kaynak": "Hürriyet",
-   "baslik": "E5'te otomobil alev topuna döndü",
-   "ozet": "İstanbul Küçükçekmece'de seyir halindeki otomobil bilinmeyen bir nedenle alev alev yandı. Yangın itfaiye ekiplerince söndürülürken, araç kullanılamaz hale geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/e5te-otomobil-alev-topuna-dondu-43367756",
-   "zaman": "2026-11-06T04:54:39+03:00",
-   "kelimeler": [
-    "alev",
-    "dondu",
-    "e5",
-    "otomo",
-    "te",
-    "topun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
   "f631cb327362": {
    "id": "f631cb327362",
    "kaynak": "TRT Haber",
@@ -25049,9 +25007,31 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f1326436ec15": {
+   "id": "f1326436ec15",
+   "kaynak": "TRT Haber",
+   "baslik": "Hamas: Gazze'de çadırların göçük altına kalmasında sorumluluk İsrail'e ait",
+   "ozet": "Hamas, Gazze'nin Deyr elBelah kentinde yerinden edilen Filistinlilerin çadırlarının üzerine yağış sonrası kum ve kaya kütlesinin çökmesi sonucu 5 kişinin hayatını kaybetmesinde tüm sorumluluğun işgalci İsrail'e ait olduğunu duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/hamas-gazzede-cadirlarin-gocuk-altina-kalmasinda-sorumluluk-israile-ait-962625.html",
+   "zaman": "2026-11-09T04:28:00+03:00",
+   "kelimeler": [
+    "ait",
+    "altin",
+    "cadir",
+    "gazze",
+    "gocuk",
+    "hamas",
+    "israi",
+    "kalma",
+    "sorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 05:01:38  1 yeni haber",
   "09.11 04:31:24  1 yeni haber",
   "09.11 03:46:08  2 yeni haber",
   "09.11 03:46:08  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -25250,8 +25230,7 @@
   "06.11 20:16:04  2 yeni haber",
   "06.11 20:02:11  6 yeni haber",
   "06.11 19:48:16  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Son kullanma tarihi geçmiş ilaçları piyasaya süren 21 şüpheli tutuklan",
-  "06.11 19:46:09  5 yeni haber",
-  "06.11 19:46:09  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
+  "06.11 19:46:09  5 yeni haber"
  ],
  "otomatik": false
 }
