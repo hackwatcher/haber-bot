@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "1697734f9042": {
-   "id": "1697734f9042",
-   "kaynak": "AA",
-   "baslik": "Katar, ABD ile İran arasında anlaşmaya varılamadığı yönündeki iddiaları yalanladı",
-   "ozet": "Katar, Başbakan ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani'nin ABD ile İran arasında anlaşmaya varılamadığı yönünde açıklama yaptığına ilişkin iddiaların gerçeği yansıtmadığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/katar-abd-ile-iran-arasinda-anlasmaya-varilamadigi-yonundeki-iddialari-yalanladi-/4114822",
-   "zaman": "2026-11-07T01:16:56+03:00",
-   "kelimeler": [
-    "abd",
-    "anlas",
-    "arasi",
-    "iddia",
-    "iran",
-    "katar",
-    "varil",
-    "yalan",
-    "yonun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "aa928bad6e3a"
-  },
-  "f468d6275905": {
-   "id": "f468d6275905",
-   "kaynak": "NTV",
-   "baslik": "SPK’dan 88 kişi hakkında suç duyurusu kararı",
-   "ozet": "Sermaye Piyasası Kurulu (SPK), 3 şirketin pay piyasasındaki işlemleri nedeniyle 88 kişi hakkında suç duyurusunda bulunulmasına ve 2 yıl süreyle işlem yasağı uygulanmasına karar verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/spkdan-88-kisi-hakkinda-suc-duyurusu-karari-1749734",
-   "zaman": "2026-11-07T01:21:36+03:00",
-   "kelimeler": [
-    "88",
-    "dan",
-    "duyur",
-    "hakki",
-    "karar",
-    "kisi",
-    "spk",
-    "suc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "8fb8690c6f42": {
-   "id": "8fb8690c6f42",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'den Kanadalı 8 şirkete yaptırım",
-   "ozet": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
-   "link": "https://www.trthaber.com/haber/dunya/abdden-kanadali-8-sirkete-yaptirim-962482.html",
-   "zaman": "2026-11-07T01:28:00+03:00",
-   "kelimeler": [
-    "abd",
-    "den",
-    "kanad",
-    "sirke",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "0e70bd1bf16a": {
    "id": "0e70bd1bf16a",
    "kaynak": "BBC Türkçe",
@@ -17811,7 +17746,8 @@
     "ten"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "d0d10e252e1b": {
    "id": "d0d10e252e1b",
@@ -18772,7 +18708,10 @@
     "yili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c3e0391f0b08": {
    "id": "c3e0391f0b08",
@@ -25385,6 +25324,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "661ad21acae5": {
+   "id": "661ad21acae5",
+   "kaynak": "Hürriyet",
+   "baslik": "Adalet Bakanı Gürlek, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
+   "ozet": "Adalet Bakanı Akın Gürlek, \"Terörsüz Türkiye\" hedefine ilişkin, \"Yol haritamız bellidir. Terör unsurlarının içeride ve dışarıda silah bırakması, ülkemizin huzurunu ve güvenliğini tehdit eden şartların ortadan kalkması ve bunun ilgili devlet kurumlarınca teyit edilmesi esastır.",
+   "link": "https://www.hurriyet.com.tr/gundem/adalet-bakani-gurlek-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi-43372191",
+   "zaman": "2026-11-10T01:14:54+03:00",
+   "kelimeler": [
+    "adale",
+    "bakan",
+    "butce",
+    "gurle",
+    "komis",
+    "plan",
+    "sorul",
+    "tbmm",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f20b5339de5b"
+  },
+  "15b9de603150": {
+   "id": "15b9de603150",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek'ten Adalet Bakanlığı bütçesinin kabulüne ilişkin açıklama",
+   "ozet": "Adalet Bakanı Akın Gürlek, TBMM Genel Kurulunda kabul edilen Adalet Bakanlığı bütçesinin hayırlı olmasını diledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-adalet-bakanligi-butcesinin-kabulune-iliskin-aciklama-43372192",
+   "zaman": "2026-11-10T01:18:44+03:00",
+   "kelimeler": [
+    "acikl",
+    "adale",
+    "bakan",
+    "butce",
+    "gurle",
+    "ilisk",
+    "kabul",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d3212af5b582"
   }
  },
  "kayit": [
