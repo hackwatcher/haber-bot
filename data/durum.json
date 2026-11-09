@@ -1,100 +1,5 @@
 {
  "haberler": {
-  "c13df3d94f36": {
-   "id": "c13df3d94f36",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: 1 milyon vatandaşın daha sigara bırakma tedavisine erişmesini sağlayacağız",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Önümüzdeki dönemde 1 milyon vatandaşımızın daha ücretsiz sigara bırakma tedavisine erişmesini sağlayacağız. \" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-1-milyon-vatandasin-daha-sigara-birakma-tedavisine-erismesini-saglayacagiz/4113869",
-   "zaman": "2026-11-06T13:17:23+03:00",
-   "kelimeler": [
-    "birak",
-    "cumhu",
-    "erism",
-    "milyo",
-    "sagla",
-    "sigar",
-    "tedav",
-    "vatan",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "562e0f540c3a"
-  },
-  "28bdd2d121bc": {
-   "id": "28bdd2d121bc",
-   "kaynak": "Hürriyet",
-   "baslik": "Afyonkarahisar'daki vahşet! Yürek burkan detay: Ayşe Sena Öğretmenin annesi, korkunç olayı televizyondan öğrenmiş",
-   "ozet": "Afyonkarahisar'ın İhsaniye ilçesinde 30 yaşındaki Arif Sefa Özdemir tarafından yapılan silahlı saldırıda 8 kişi hayatını kaybetmişti.",
-   "link": "https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-vahsette-yurek-burkan-detay-ayse-sena-ogretmenin-annesi-korkunc-olayi-televizyondan-ogrendi-43368272",
-   "zaman": "2026-11-06T13:20:00+03:00",
-   "kelimeler": [
-    "afyon",
-    "annes",
-    "ayse",
-    "burka",
-    "daki",
-    "detay",
-    "korku",
-    "ogren",
-    "ogret",
-    "olayi",
-    "sena",
-    "telev",
-    "vahse",
-    "yurek"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "38e221383acd": {
-   "id": "38e221383acd",
-   "kaynak": "TRT Haber",
-   "baslik": "OpenAI, kamuoyundan tepki gören veri merkezlerine ilişkin yeni taahhütlerini açıkladı",
-   "ozet": "ABD merkezli yapay zeka şirketi OpenAI, veri merkezlerine ilişkin kamu görevlileriyle \"gizlilik sözleşmeleri\" yapılmaması ve kaynakların verimli kullanılması gibi konuları içeren bir dizi taahhüt sundu.",
-   "link": "https://www.trthaber.com/haber/dunya/openai-kamuoyundan-tepki-goren-veri-merkezlerine-iliskin-yeni-taahhutlerini-acikladi-962436.html",
-   "zaman": "2026-11-06T13:22:00+03:00",
-   "kelimeler": [
-    "goren",
-    "ilisk",
-    "kamuo",
-    "merke",
-    "opena",
-    "taahh",
-    "tepki",
-    "veri",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "c8d8c1c95046": {
-   "id": "c8d8c1c95046",
-   "kaynak": "Hürriyet",
-   "baslik": "Seçil Erzan’ın 211 yıl 9 aya kadar hapsi talep edildi",
-   "ozet": "Yüksek karlı gizli fon vaadiyle dolandırıcılık suçundan yargılanan Seçil Erzan hakkındaki mütalaa açıklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/secil-erzanin-211-yil-9-aya-kadar-hapsi-talep-edildi-43368310",
-   "zaman": "2026-11-06T13:30:28+03:00",
-   "kelimeler": [
-    "211",
-    "aya",
-    "edild",
-    "erzan",
-    "hapsi",
-    "in",
-    "secil",
-    "talep",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "771d1939e6e3": {
    "id": "771d1939e6e3",
    "kaynak": "AA",
@@ -23928,7 +23833,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "5e0ee8d61cbe": {
@@ -24500,7 +24406,10 @@
     "uzeri"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "69fcfb731509": {
    "id": "69fcfb731509",
@@ -24677,9 +24586,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "99edfabb42aa": {
+   "id": "99edfabb42aa",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de sanayi tesisinde patlama",
+   "ozet": "İzmir'de sanayi tesisinde patlama olduğu ihbarı üzerine bölgeye sağlık ve itfaiye ekipleri sevk edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-sanayi-tesisinde-patlama-962677.html",
+   "zaman": "2026-11-09T12:41:00+03:00",
+   "kelimeler": [
+    "izmir",
+    "patla",
+    "sanay",
+    "tesis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4d15a40186ff"
+  },
+  "3bfab0d2ca5e": {
+   "id": "3bfab0d2ca5e",
+   "kaynak": "AA",
+   "baslik": "Bakan Kacır: Çinli dostlarımızla, yüksek teknoloji ve katma değer odaklı projeleri hayata geçirmeye hazırız",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Çin markalarının yeşil teknolojilerdeki başarılarını takdir ettiklerini belirterek, \"Çinli dostlarımızla, yüksek teknoloji ve katma değer odaklı projeleri hayata geçirmeye hazırız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-cinli-dostlarimizla-yuksek-teknoloji-ve-katma-deger-odakli-projeleri-hayata-gecirmeye-haziriz/4116877",
+   "zaman": "2026-11-09T12:54:55+03:00",
+   "kelimeler": [
+    "bakan",
+    "cinli",
+    "deger",
+    "dostl",
+    "gecir",
+    "hayat",
+    "hazir",
+    "kacir",
+    "katma",
+    "odakl",
+    "proje",
+    "tekno",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "451cccca80d9": {
+   "id": "451cccca80d9",
+   "kaynak": "TRT Haber",
+   "baslik": "Çin, Nvidia'nın CEO'su Huang ile ilgili casusluk iddiasını reddetti",
+   "ozet": "Pekin yönetimi, ABD'li mikroçip üreticisi Nvidia şirketinin kurucusu ve Üst Yöneticisi CEO Jensen Huang'ın Çin adına istihbarat topladığı değerlendirilen Çinli iş insanı Alice Huang'la ilişkisi olduğuna ilişkin ABD medyasına yansıyan iddiaları reddetti.",
+   "link": "https://www.trthaber.com/haber/dunya/cin-nvidianin-ceosu-huang-ile-ilgili-casusluk-iddiasini-reddetti-962681.html",
+   "zaman": "2026-11-09T13:08:00+03:00",
+   "kelimeler": [
+    "casus",
+    "ceo",
+    "cin",
+    "huang",
+    "iddia",
+    "ilgil",
+    "nin",
+    "nvidi",
+    "redde",
+    "su"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed7bfa73a9d3": {
+   "id": "ed7bfa73a9d3",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Yumaklı: Hiçbir ülke bu sınamaları tek başına aşamaz",
+   "ozet": "Antalyada düzenlenen COP31 kapsamında konuşan Tarım ve Orman Bakanı İbrahim Yumaklı, iklim krizleri, kuraklık ve su kıtlığının küresel gıda sistemlerini tehdit ettiğini belirterek, hiçbir ülkenin bu sınamaları tek başına aşamayacağını vurguladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-yumakli-hicbir-ulke-bu-sinamalari-tek-basina-asamaz-962683.html",
+   "zaman": "2026-11-09T13:17:00+03:00",
+   "kelimeler": [
+    "asama",
+    "bakan",
+    "basin",
+    "hicbi",
+    "sinam",
+    "tek",
+    "ulke",
+    "yumak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba456460caf5": {
+   "id": "ba456460caf5",
+   "kaynak": "TRT Haber",
+   "baslik": "COP31 katılımcılarına müze ve ören yerleri ücretsiz",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya'nın ev sahipliği yapacağı COP31 için sürdürülebilir turizmden kültürel mirasa, sanat etkinliklerinden iklim okuryazarlığına uzanan kapsamlı program hazırladıklarını açıkladı.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/cop31-katilimcilarina-muze-ve-oren-yerleri-ucretsiz-962682.html",
+   "zaman": "2026-11-09T13:18:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "katil",
+    "muze",
+    "oren",
+    "ucret",
+    "yerle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9c431afc48a"
+  },
+  "89165ead3b58": {
+   "id": "89165ead3b58",
+   "kaynak": "Hürriyet",
+   "baslik": "Kaş'ta aile faciası: Anne ve babasını vurduktan sonra intihar etti",
+   "ozet": "Antalya'nın Kaş ilçesinde yaşanan olayda, anne ve babasına silahla ateş açan kişi daha sonra aynı silahla intihar etti. Üç kişinin yaşamını yitirdiği olayla ilgili jandarmanın incelemesi sürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/kasta-aile-faciasi-anne-ve-babasini-vurduktan-sonra-intihar-etti-43371463",
+   "zaman": "2026-11-09T13:24:08+03:00",
+   "kelimeler": [
+    "aile",
+    "anne",
+    "babas",
+    "etti",
+    "facia",
+    "intih",
+    "kas",
+    "ta",
+    "vurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 13:32:14  4 yeni haber",
   "09.11 13:16:11  6 yeni haber",
   "09.11 13:01:34  7 yeni haber",
   "09.11 12:48:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TMSF'den gönüllü iade işlemlerine ilişkin duyuru",
@@ -24878,8 +24912,7 @@
   "07.11 09:46:02  4 yeni haber",
   "07.11 09:31:18  1 yeni haber",
   "07.11 09:01:41  4 yeni haber",
-  "07.11 08:46:02  2 yeni haber",
-  "07.11 08:19:18  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa’da aynı yöne giden otomobiller çarpıştı: Kaza anı kamerada"
+  "07.11 08:46:02  2 yeni haber"
  ],
  "otomatik": false
 }
