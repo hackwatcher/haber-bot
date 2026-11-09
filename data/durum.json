@@ -1,58 +1,5 @@
 {
  "haberler": {
-  "245d983b27c5": {
-   "id": "245d983b27c5",
-   "kaynak": "Hürriyet",
-   "baslik": "Bursa’da kullanılmayan tekstil fabrikasında yangın",
-   "ozet": "Bursa’nın Osmangazi ilçesinde kullanılmayan tekstil fabrikasında çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Yangında can kaybı ve yaralanma yaşanmazken fabrika kullanılamaz hale geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bursada-kullanilmayan-tekstil-fabrikasinda-yangin-43368998",
-   "zaman": "2026-11-07T00:20:00+03:00",
-   "kelimeler": [
-    "bursa",
-    "fabri",
-    "kulla",
-    "tekst",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3ecad690b2a1": {
-   "id": "3ecad690b2a1",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, 11 üniversiteye rektör atadı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 üniversiteye rektör ataması yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801",
-   "zaman": "2026-11-07T00:25:21+03:00",
-   "kelimeler": [
-    "11",
-    "atadi",
-    "cumhu",
-    "erdog",
-    "rekto",
-    "unive"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "05c588257158"
-  },
-  "e5322c11f0af": {
-   "id": "e5322c11f0af",
-   "kaynak": "NTV",
-   "baslik": "11 üniversiteye rektör atandı",
-   "ozet": "Resmi Gazete'de yayımlanan kararla 11 üniversiteye rektör ataması yaptı.",
-   "link": "https://www.ntv.com.tr/turkiye/11-universiteye-rektor-atandi-1749733",
-   "zaman": "2026-11-07T00:31:06+03:00",
-   "kelimeler": [
-    "11",
-    "atand",
-    "rekto",
-    "unive"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "05c588257158"
-  },
   "02c8996eb3f0": {
    "id": "02c8996eb3f0",
    "kaynak": "AA",
@@ -15451,7 +15398,8 @@
    "fb_id": "1276642895542042_122115300753472027",
    "fb_reels_id": null,
    "slayt": 4,
-   "kanca": "KOMA HALİNDE"
+   "kanca": "KOMA HALİNDE",
+   "diger_kaynaklar": []
   },
   "74f3f4d70bf8": {
    "id": "74f3f4d70bf8",
@@ -25542,9 +25490,59 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "1bdf9c409177"
+  },
+  "8c03ab9a6b85": {
+   "id": "8c03ab9a6b85",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: Barışın olmadığı yerde iklim adaleti de olmaz",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Liderler Zirvesi'ne İsrail hükümetini davet etmediklerini belirterek, \"Barışın hakim olmadığı bir yerde iklim adaleti de olmaz\" değerlendirmesinde bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-barisin-olmadigi-yerde-iklim-adaleti-de-olmaz-962728.html",
+   "zaman": "2026-11-10T00:05:00+03:00",
+   "kelimeler": [
+    "adale",
+    "bakan",
+    "baris",
+    "iklim",
+    "kurum",
+    "olmad",
+    "olmaz",
+    "yerde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82d05973c26f": {
+   "id": "82d05973c26f",
+   "kaynak": "XHABER",
+   "baslik": "10 Kasım 1938 | Gazi Mustafa Kemal Atatürk'ün sadece bedenen aramızdan ayrılması...",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30598",
+   "zaman": "2026-11-10T00:16:11+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "10 Kasım 1938 | Gazi Mustafa Kemal Atatürk'ün sadece bedenen aramızdan ayrılması...",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/sUTTXjgvaBeXWhi2purEhXBxRfrFbwvlKSV9NQsD13MheXvKsQ_yAd_o2Xq1gD74rJX6xuen8cp40p5wKO5gTQeDjVOAEL9Xu7pcUIgKiWdp6EZve-EKBovzMB1xG-tQshbLu17tYw50YJgbXYSPK2Fk7Nx1eLyIspLFh5pyEGXHj1wWdzsZnzXobotsJ9J3t-xOH0kz29gL9bHQfodoZ0ZWG2Vs5o_XwVHkNQHF3KK0qRSGrqyDtUKGAKQM-ernltGOP7mStPPlZlW1LymjfxiT5Mp9Kv5VwPUCS3h1VKPRdftXxT1G61UlSyD4lTZgML45Ik_JP8Eo8lTyz1hHgg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "10",
+    "1938",
+    "arami",
+    "atatu",
+    "ayril",
+    "beden",
+    "gazi",
+    "kasim",
+    "kemal",
+    "musta",
+    "sadec",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a91031b42b57"
   }
  },
  "kayit": [
+  "10.11 00:31:15  1 yeni haber",
   "10.11 00:04:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Haluk Bilginer: \"Türkiye sineması diyelim mi ona?",
   "10.11 00:01:36  2 yeni haber",
   "09.11 23:46:02  4 yeni haber",
@@ -25743,8 +25741,7 @@
   "07.11 19:31:15  2 yeni haber",
   "07.11 19:16:02  3 yeni haber",
   "07.11 19:01:25  3 yeni haber",
-  "07.11 18:48:31  1 yeni haber",
-  "07.11 18:46:01  3 yeni haber"
+  "07.11 18:48:31  1 yeni haber"
  ],
  "otomatik": false
 }
