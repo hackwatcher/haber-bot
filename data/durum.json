@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "ec671652cc8e": {
-   "id": "ec671652cc8e",
-   "kaynak": "AA",
-   "baslik": "Halkbank Genel Müdürü Özdil, bankanın finansal sonuçlarını değerlendirdi",
-   "ozet": "Halkbank Genel Müdürü Recep Süleyman Özdil, bankanın konsolide olmayan net karının ocak-eylül döneminde 26,3 milyar lira olarak gerçekleştiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/halkbank-genel-muduru-ozdil-bankanin-finansal-sonuclarini-degerlendirdi/4114694",
-   "zaman": "2026-11-06T22:02:49+03:00",
-   "kelimeler": [
-    "banka",
-    "deger",
-    "finan",
-    "genel",
-    "halkb",
-    "mudur",
-    "ozdil",
-    "sonuc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cead604c7cb7": {
-   "id": "cead604c7cb7",
-   "kaynak": "AA",
-   "baslik": "Buz Hokeyi Erkekler Süper Ligi'nde 2026-2027 sezonu heyecanı yarın başlayacak",
-   "ozet": "Ligde ilk hafta maçları, yarın ve 8 Kasım Pazar günü oynanacak.",
-   "link": "https://www.aa.com.tr/tr/spor/buz-hokeyi-erkekler-super-liginde-2026-2027-sezonu-heyecani-yarin-baslayacak/4114695",
-   "zaman": "2026-11-06T22:02:52+03:00",
-   "kelimeler": [
-    "2026",
-    "2027",
-    "basla",
-    "buz",
-    "erkek",
-    "heyec",
-    "hokey",
-    "ligi",
-    "nde",
-    "sezon",
-    "super",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5327be379da9": {
-   "id": "5327be379da9",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan: Garantör ülke olarak KKTC'ye desteğimizi sürdürüyoruz",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, garantör ülke olarak Kuzey Kıbrıs Türk Cumhuriyeti'ne desteği sürdürdüklerini belirterek, \"Kıbrıs meselesinde en gerçekçi çözümün, Ada'daki iki devletin yan yana var olmasından geçtiğine inanıyoruz.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-garantor-ulke-olarak-kktcye-destegimizi-surduruyoruz-962468.html",
-   "zaman": "2026-11-06T22:11:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "deste",
-    "fidan",
-    "garan",
-    "kktc",
-    "surdu",
-    "ulke",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c41970726441": {
-   "id": "c41970726441",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş, Zalgiris'e 83-67 yenildi",
-   "ozet": "Basketbol Avrupa Ligi'nin 10. haftasında Beşiktaş, sahasında Litvanya temsilcisi Zalgiris'e 83-67 yenildi.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-zalgirise-83-67-yenildi/4114701",
-   "zaman": "2026-11-06T22:13:44+03:00",
-   "kelimeler": [
-    "67",
-    "83",
-    "besik",
-    "yenil",
-    "zalgi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "725089b8c89e": {
    "id": "725089b8c89e",
    "kaynak": "TRT Haber",
@@ -24418,7 +24337,10 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "4933e0838205": {
    "id": "4933e0838205",
@@ -24459,7 +24381,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ce790cf8aef3": {
    "id": "ce790cf8aef3",
@@ -25447,9 +25372,97 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d897be880f4b"
+  },
+  "99aa6e42fbfd": {
+   "id": "99aa6e42fbfd",
+   "kaynak": "TRT Haber",
+   "baslik": "Yemen'de hükümet güçleri ile Husiler arasındaki çatışmalar 6 vilayette tırmanıyor",
+   "ozet": "Yemen'de ordu ile İran destekli Husiler arasında 6 vilayette devam eden çatışma ve hava saldırılarında, çok sayıda kişi hayatını kaybetti veya yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/yemende-hukumet-gucleri-ile-husiler-arasindaki-catismalar-6-vilayette-tirmaniyor-962718.html",
+   "zaman": "2026-11-09T21:59:00+03:00",
+   "kelimeler": [
+    "arasi",
+    "catis",
+    "gucle",
+    "hukum",
+    "husil",
+    "tirma",
+    "vilay",
+    "yemen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "67f282f88882"
+  },
+  "0e01a7b8e03f": {
+   "id": "0e01a7b8e03f",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, ABD'nin mevcut seçim sistemiyle ara seçimleri kazanmanın imkansız olduğunu belirtti",
+   "ozet": "ABD Başkanı Donald Trump, Kongre ara seçimlerinde uygulanan seçim sistemini eleştirerek, bu şekilde seçim kazanmanın \"imkansız\" olduğunu ifade etti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-abdnin-mevcut-secim-sistemiyle-ara-secimleri-kazanmanin-imkansiz-oldugunu-belirtti-962720.html",
+   "zaman": "2026-11-09T22:09:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "belir",
+    "imkan",
+    "kazan",
+    "mevcu",
+    "nin",
+    "oldug",
+    "secim",
+    "siste",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "eb63df5bde2c"
+  },
+  "7e834b26af33": {
+   "id": "7e834b26af33",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Işıkhan, İzmir'deki fabrika patlamasının nedenini açıkladı",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, İzmir'de yaşanan demir çelik fabrikasındaki patlamayla ilgili, \"İlk incelemelere göre devam eden bakım çalışmaları sırasında malzeme düşmesi sonucunda doğal gaz ve oksijen borularının kopmasından kaynaklı bir patlama meydana…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-isikhan-izmirdeki-fabrika-patlamasinin-nedenini-acikladi-962719.html",
+   "zaman": "2026-11-09T22:09:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "deki",
+    "fabri",
+    "isikh",
+    "izmir",
+    "neden",
+    "patla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62c86f7e329f": {
+   "id": "62c86f7e329f",
+   "kaynak": "NTV",
+   "baslik": "Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 09 Kasım 2026",
+   "ozet": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 09 Kasım 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-09-kasim-2026-1750163",
+   "zaman": "2026-11-09T22:10:00+03:00",
+   "kelimeler": [
+    "09",
+    "2026",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1bdf9c409177"
   }
  },
  "kayit": [
+  "09.11 22:17:20  1 yeni haber",
   "09.11 21:46:39  4 yeni haber",
   "09.11 21:31:54  7 yeni haber",
   "09.11 21:31:54  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
@@ -25648,8 +25661,7 @@
   "07.11 18:01:27  2 yeni haber",
   "07.11 17:46:24  5 yeni haber",
   "07.11 17:19:12  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'den istifa ett",
-  "07.11 17:16:04  4 yeni haber",
-  "07.11 17:01:23  1 yeni haber"
+  "07.11 17:16:04  4 yeni haber"
  ],
  "otomatik": false
 }
