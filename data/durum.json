@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "de9e1389d83c": {
-   "id": "de9e1389d83c",
-   "kaynak": "AA",
-   "baslik": "ABD'de işsizlik oranı yüzde 4,1'e geriledi",
-   "ozet": "ABD'de tarım dışı istihdam ekimde 165 bin kişi artarak beklentilerin üzerinde gerçekleşirken, işsizlik oranı yüzde 4,1'e geriledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-issizlik-orani-yuzde-4-1e-geriledi/4114371",
-   "zaman": "2026-11-06T16:32:57+03:00",
-   "kelimeler": [
-    "abd",
-    "geril",
-    "issiz",
-    "orani",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "16575c46f15d": {
-   "id": "16575c46f15d",
-   "kaynak": "AA",
-   "baslik": "Güçlü El Nino nedeniyle karbon emisyonları 2027'de \"olağan dışı\" ölçüde artabilir",
-   "ozet": "Karbon emisyonu konsantrasyonunun 2027'de bu yıla kıyasla 3,51 ppm artarak 432,2 ppm ile yeni bir zirveye ulaşabileceği öngörülüyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/guclu-el-nino-nedeniyle-karbon-emisyonlari-2027de-olagan-disi-olcude-artabilir/4114377",
-   "zaman": "2026-11-06T16:36:26+03:00",
-   "kelimeler": [
-    "2027",
-    "artab",
-    "disi",
-    "el",
-    "emisy",
-    "guclu",
-    "karbo",
-    "neden",
-    "nino",
-    "olaga",
-    "olcud"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "51a3e796f676": {
-   "id": "51a3e796f676",
-   "kaynak": "AA",
-   "baslik": "İngiltere'de Palestine Action'ın yasaklanmasına oy veren bazı milletvekilleri kararlarından pişman",
-   "ozet": "İngiltere'de İsrail'le iş yapan şirketleri hedef alan eylemler yapan Palestine Action grubunun yasaklanmasına oy veren bazı milletvekilleri, kararın protesto hakkını olumsuz etkilediği gerekçesiyle pişmanlıklarını dile getirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-palestine-actionin-yasaklanmasina-oy-veren-bazi-milletvekilleri-kararlarindan-pisman/4114389",
-   "zaman": "2026-11-06T16:43:30+03:00",
-   "kelimeler": [
-    "actio",
-    "bazi",
-    "in",
-    "ingil",
-    "karar",
-    "mille",
-    "oy",
-    "pales",
-    "pisma",
-    "veren",
-    "yasak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a1e75c4ce19a": {
    "id": "a1e75c4ce19a",
    "kaynak": "TRT Haber",
@@ -99,26 +36,6 @@
     "herna",
     "ispan",
     "pablo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "09bc9e4665fc": {
-   "id": "09bc9e4665fc",
-   "kaynak": "AA",
-   "baslik": "ABD'de tarım dışı istihdam ekimde beklentilerin üzerine çıktı",
-   "ozet": "ABD'de tarım dışı istihdam ekimde 165 bin kişi artarak beklentilerin üzerinde gerçekleşirken, işsizlik oranı yüzde 4,1'e geriledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-tarim-disi-istihdam-ekimde-beklentilerin-uzerine-cikti/4114371",
-   "zaman": "2026-11-06T16:32:57+03:00",
-   "kelimeler": [
-    "abd",
-    "bekle",
-    "cikti",
-    "disi",
-    "ekimd",
-    "istih",
-    "tarim",
-    "uzeri"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -274,23 +191,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f500e29d5269"
-  },
-  "c1767c0361bb": {
-   "id": "c1767c0361bb",
-   "kaynak": "AA",
-   "baslik": "Meteorolojiden zirai don uyarısı",
-   "ozet": "Meteoroloji Genel Müdürlüğü, yurdun bazı kesimleri için zirai don uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-zirai-don-uyarisi/4114390",
-   "zaman": "2026-11-06T16:44:45+03:00",
-   "kelimeler": [
-    "don",
-    "meteo",
-    "uyari",
-    "zirai"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fa395c92307f"
   },
   "082b89f61d3d": {
    "id": "082b89f61d3d",
@@ -21354,7 +21254,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "572b3a0167c3": {
@@ -22802,7 +22703,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "8ee15e505131": {
    "id": "8ee15e505131",
@@ -25132,9 +25036,313 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "968a576bb21e": {
+   "id": "968a576bb21e",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş, İTO Başkanı Avdagiç'i kabul etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, İstanbul Ticaret Odası (İTO) Başkanı Şekip Avdagiç ve beraberindeki yönetim kurulu üyelerini kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-ito-baskani-avdagici-kabul-etti/4117375",
+   "zaman": "2026-11-09T16:24:27+03:00",
+   "kelimeler": [
+    "avdag",
+    "baska",
+    "etti",
+    "ito",
+    "kabul",
+    "kurtu",
+    "tbmm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b50bc6888df4": {
+   "id": "b50bc6888df4",
+   "kaynak": "AA",
+   "baslik": "Rusya: Zaporijya bölgesinde Vasilkovoye yerleşim birimini ele geçirdik",
+   "ozet": "Rusya Savunma Bakanlığı, Zaporijya bölgesinde Vasilkovoye yerleşim yerini ele geçirdiklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-zaporijya-bolgesinde-vasilkovoye-yerlesim-birimini-ele-gecirdik/4117385",
+   "zaman": "2026-11-09T16:29:45+03:00",
+   "kelimeler": [
+    "birim",
+    "bolge",
+    "ele",
+    "gecir",
+    "rusya",
+    "vasil",
+    "yerle",
+    "zapor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b55d993a94d": {
+   "id": "2b55d993a94d",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturması kapsamında Enver Çevik yeniden gözaltına alındı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında daha önce mal varlıklarına tedbir kararı verilen Lydia Holding Yönetim Kurulu Başkanı Enver Çevik gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasi-kapsaminda-enver-cevik-yeniden-gozaltina-alindi-962700.html",
+   "zaman": "2026-11-09T16:32:00+03:00",
+   "kelimeler": [
+    "alind",
+    "cevik",
+    "enver",
+    "fon",
+    "gozal",
+    "kapsa",
+    "sorus",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
+  },
+  "81e4235f5670": {
+   "id": "81e4235f5670",
+   "kaynak": "XHABER",
+   "baslik": "Recep İvedik ve ninesinin ikonik sahnesi yapay zeka ile çizgi karakterlere uyarlandı.",
+   "ozet": "Görüntüler sosyal medyada beğeni topladı.",
+   "link": "https://t.me/sahinozkan000/30581",
+   "zaman": "2026-11-09T16:32:53+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Recep İvedik ve ninesinin ikonik sahnesi yapay zeka ile çizgi karakterlere uyarlandı.\nGörüntüler sosyal medyada beğeni topladı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/dUCG92Ib0nFW2ErIWyWxIkJYioL5X12UrwPYeo9jktfYjIjvZ1HZReuO-0tnBXHreJLRFJccZPQprq2y_NgJhS2ZSsQBbzN9A2ZUBti5VfJMyGep-7yLuiBb0pL3HziiFJBSTNBqHFN-MgPEJKAPLzucey262rpIjA1CKcy0idyEtTkIBgwBQChokHfRrDR9RiLiJLqkIf5YSSV-YtAL4M7cXKsUV6hkEXqLhyf8KlNaa5AovJTEBx9uY71LyrTd1HT3KULA2J1S0lLSiDCTgDw4zSprY5XrO6V7ArRGGLm2wKSfQKo39DHSasIonKt41kE2DL2-TM8tfunWxMv7aw",
+   "tg_video_url": "https://cdn4.telesco.pe/file/4d94fb5bc1.mp4?token=daQiFpXCzwZd7kmvF-OUVWM-hQVeRuHRwQX36Ws8cLvFG4QFmZWFniZnAu-YAtlM2cEBHZtL-VYN4-awa7PzK44Xx5mTWnJXtYWzDSMSZgQcynza5gCiZr-lcEaOmTzLMgj1sWiEOs4qoOfyKbyw5tbB4TbYLnNFrmqRhjtpMYFXVVofn8o-QI46-JYsl7dU1C1G6KKfi8tKQzjBjhldFeNu25-X34kxcbmG4gqW9gW0GnqYOl576RfK4ihZyO-s4bwLWSmD0nXKxQoWym42OgJQuWDDVuz79EaoPhbZHvANGo5oRIKLybMKpMwQHU-5ve89aLVkWEdnBU7c40SEvA",
+   "kelimeler": [
+    "cizgi",
+    "ikoni",
+    "ivedi",
+    "karak",
+    "nines",
+    "recep",
+    "sahne",
+    "uyarl",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9fe7f1789dfa": {
+   "id": "9fe7f1789dfa",
+   "kaynak": "AA",
+   "baslik": "Bakan Yumaklı, iklim kriziyle mücadelenin milli ve küresel güvenlik meselesi olduğunu bildirdi",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"İklim kriziyle mücadele konusu sınırları aşan konudur ve topyekun bir dayanışmayı zorunlu kılmaktadır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-iklim-kriziyle-mucadelenin-milli-ve-kuresel-guvenlik-meselesi-oldugunu-bildirdi/4117391",
+   "zaman": "2026-11-09T16:34:41+03:00",
+   "kelimeler": [
+    "bakan",
+    "bildi",
+    "guven",
+    "iklim",
+    "krizi",
+    "kures",
+    "mesel",
+    "milli",
+    "mucad",
+    "oldug",
+    "yumak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bbc7bdeb4ada": {
+   "id": "bbc7bdeb4ada",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Türkiye-Azerbaycan arasındaki buzlar eridi mi?",
+   "ozet": "Türkiye ile Azerbaycan arasında son iki aydır yaşanan gerilim, Cumhurbaşkanı Recep Tayyip Erdoğan ile Azerbaycan Devlet Başkanı İlham Aliyev'in 8 Kasım'da Şuşa'da yaptıkları görüşme sonunda yatışmış görünüyor.",
+   "link": "https://www.bbc.com/turkce/articles/c83vqvw35g4yo",
+   "zaman": "2026-11-09T16:35:18+03:00",
+   "kelimeler": [
+    "arasi",
+    "azerb",
+    "buzla",
+    "eridi",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d3db3487d533"
+  },
+  "70a04c294373": {
+   "id": "70a04c294373",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum, Sertab Erener'in COP31 için hazırladığı \"One Home-Tek Ev\" şarkısını paylaştı",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Sertab Erener’in COP31 için hazırladığı “One Home-Tek Ev” şarkısını paylaşarak sanatçıya desteği için teşekkür etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-sertab-erenerin-cop31-icin-hazirladigi-one-home-tek-ev-sarkisini-paylasti-43371785",
+   "zaman": "2026-11-09T16:38:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "erene",
+    "ev",
+    "hazir",
+    "home",
+    "in",
+    "kurum",
+    "one",
+    "payla",
+    "sarki",
+    "serta",
+    "tek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6ed9262697a6"
+  },
+  "49489d0454e3": {
+   "id": "49489d0454e3",
+   "kaynak": "XHABER",
+   "baslik": "Şanlıurfa'da 25 yıl görev yapan mahalle muhtarı:",
+   "ozet": "— Muhtarlar oturduğu yerden maaş alıyor, muhtarlıklar kaldırılsın. — Muhtarlık maaşları kalksa devletimiz her ay 2 tane uçak alır. Kaldırın muhtarlıkları.",
+   "link": "https://t.me/sahinozkan000/30582",
+   "zaman": "2026-11-09T16:39:03+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Şanlıurfa'da 25 yıl görev yapan mahalle muhtarı:\n— Muhtarlar oturduğu yerden maaş alıyor, muhtarlıklar kaldırılsın.\n— Muhtarlık maaşları kalksa devletimiz her ay 2 tane uçak alır. Kaldırın muhtarlıkları.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/JwA9b0HyGhhcZYUITwneYY5AZW4N2Hhog_68QbEpD7PFw32Q9oC1QUCjmnaZIDYVDOVJMTfLxOeT4lNiWiccEFsqzDZ69hqonN8N8Kvkp2Nlz6-OBrDE0SaekkTIQkiIEg1cEMP6_ftH7cqKkyQSaGnUCO68Fe-RacPji6mZjU9_Y9_GLT7RU2FFk3w_jAGPA289aFZZKehrF4ygHKh4_fZvauVpY6Oh4RGLkadpFWby_EJOl6dP-012ESi2LcILo43OKEYBVumnBrKePH9qtolYLDWfuoC7MEzgj4geh2qrE3ybfKJSYWtIQn6uKrbzFCgbP6xRmD35bWiBAIbfCw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "25",
+    "gorev",
+    "mahal",
+    "muhta",
+    "sanli",
+    "yapan",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f42b0fcc16f1": {
+   "id": "f42b0fcc16f1",
+   "kaynak": "XHABER",
+   "baslik": "Diyarbakır'da bir grup, Galatasaray formalarını önce yere serip üzerlerine bastı, ardından ateşe verip yaktı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30584",
+   "zaman": "2026-11-09T16:40:53+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Diyarbakır'da bir grup, Galatasaray formalarını önce yere serip üzerlerine bastı, ardından ateşe verip yaktı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/jLKskHhdS8I8cOLDc5o2cjoMwqVxneGyio9VfbYbAan3LgvrS2FJFfyDKCSVOupmvqMsULM8pSwURmAoxZWttxb8GR_Q437cbiUFl6ErwoXqlRPp-MgsTNsXW0KjKfSeW8-lW9KZH_7arR5yEKxjo6u0YAAT0cd6kR61Bkc88milAPKsNn_eDGIPr7o31y2ccsWKsjHiW87LQiyUTDf5TelwPj_nU8Ta1wcKOQAgxzjL11GvS_3y-BDW4Mey3rZF65y1QEP85F7fgjpXw2KlfLphExrXpLoQeK9Qx2xtRhfLU9wpqp7rn_6CHU7EJ6T6wivoWuBBefloKIaTjsRCAA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/9921b6b739.mp4?token=GUH12PJxbhk5cUciVBMqiBQJhv8qVQIMBJch1u_sB24lRqBJ0BKB5eqo6JEGTM_Jkz7OkW9MmhkH2zjtjvKNSPu8hE8VLDQ_DnkYLjGMuvmiTtQOZ9H3YSbmAlHVHhRJ_89Lz1Z84h3n9leo0vbrO2PxEtrLsrhRLxVquVwg2j2bikUqB_KIVC7NbrS2zv9RNoA3vamAA5RkMNWVc3butwwiIPWeyoS6MV4d6t931foqF4W2tn68c9jpC-AEkRmA97TpPDSj_TklL9Vf_K26QY5qiZHGm5KVQJWRnvdZvgctLMOn-ycR9grZIdxFoOcKM5eoCa6h0b1wVg605yLoPQ",
+   "kelimeler": [
+    "ardin",
+    "atese",
+    "basti",
+    "diyar",
+    "forma",
+    "galat",
+    "grup",
+    "serip",
+    "uzerl",
+    "verip",
+    "yakti",
+    "yere"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f1ab98d6ef3": {
+   "id": "5f1ab98d6ef3",
+   "kaynak": "AA",
+   "baslik": "Türkiye'deki limanlarda yılın 10 ayında 457,4 milyon ton yük elleçlendi",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, limanlarda yılın 10 ayında 457,4 milyon ton yükün elleçlendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyedeki-limanlarda-yilin-10-ayinda-457-4-milyon-ton-yuk-elleclendi/4117403",
+   "zaman": "2026-11-09T16:41:42+03:00",
+   "kelimeler": [
+    "10",
+    "457",
+    "ayind",
+    "deki",
+    "ellec",
+    "liman",
+    "milyo",
+    "ton",
+    "turki",
+    "yilin",
+    "yuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f44562c75809": {
+   "id": "f44562c75809",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanlığından Mısır'daki tren kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Mısır'ın Giza vilayetindeki tren kazasında hayatını kaybedenler için taziye mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/disisleri-bakanligindan-misirdaki-tren-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4117407",
+   "zaman": "2026-11-09T16:42:35+03:00",
+   "kelimeler": [
+    "bakan",
+    "daki",
+    "disis",
+    "hayat",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "misir",
+    "taziy",
+    "tren"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": []
+  },
+  "243d33d60393": {
+   "id": "243d33d60393",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanlığından Mısır'daki tren kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Mısır'ın Giza vilayetindeki tren kazasında hayatını kaybedenler için taziye mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-misirdaki-tren-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4117409",
+   "zaman": "2026-11-09T16:42:47+03:00",
+   "kelimeler": [
+    "bakan",
+    "daki",
+    "disis",
+    "hayat",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "misir",
+    "taziy",
+    "tren"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f44562c75809"
+  },
+  "87e1ae3ce081": {
+   "id": "87e1ae3ce081",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Lydia Holding Yönetim Kurulu Başkanı Enver Çevik yeniden gözaltına alındı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30585",
+   "zaman": "2026-11-09T16:44:53+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Lydia Holding Yönetim Kurulu Başkanı Enver Çevik yeniden gözaltına alındı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/sBEUb9WF7e8NR3LvxGmAtkXRC2w_tEdqmXlYFk1ju3Dyin2yWeN_BivUWVxWNQ_QzIS70qH11S72z_3bjyPXGbMRY78DYLoNyycJ_678ny7J_TGud48vWA119plH0aVTpHN0zYBJMU5wbMS-BgHOMDMISEVKu81buFPR-peprFxH_kIEC8a3YzxNgG4EgdBApjV-DMtD_yRODivYY-qvm_Dg41WNMjjx8vjUyRswVd6fCWjzNmbLSTBNv6Etlh2PkDjIEqjchL5l3f_CZzP26FRdEwabxGfBtVNzpy5_GH94jkDtWLC1_WgijQ-1CK3xgqAdRPJMv_i_Lr65L1_q0w.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "alind",
+    "baska",
+    "cevik",
+    "enver",
+    "gozal",
+    "holdi",
+    "kurul",
+    "lydia",
+    "sonda",
+    "yenid",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2b55d993a94d"
   }
  },
  "kayit": [
+  "09.11 16:46:07  9 yeni haber",
   "09.11 16:31:23  6 yeni haber",
   "09.11 16:16:13  4 yeni haber",
   "09.11 16:01:44  3 yeni haber",
@@ -25333,8 +25541,7 @@
   "07.11 12:46:00  3 yeni haber",
   "07.11 12:31:23  4 yeni haber",
   "07.11 12:21:08  2 yeni haber",
-  "07.11 12:19:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında eski SPK yöneticileri tutuklandı",
-  "07.11 12:16:06  8 yeni haber"
+  "07.11 12:19:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında eski SPK yöneticileri tutuklandı"
  ],
  "otomatik": false
 }
