@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "64f87659c7c1": {
-   "id": "64f87659c7c1",
-   "kaynak": "Hürriyet",
-   "baslik": "Karadeniz açıklarında İHA saldırısına uğrayan tankerin geçişi nedeniyle İstanbul Boğazı gemi trafiğine kapatıldı",
-   "ozet": "İstanbul Boğazı'nda gemi trafiği Karadeniz açıklarında insansız hava aracı (İHA) saldırısına uğrayan Barbados bayraklı 'TARYN EVE' isimli tankerin geçişi nedeniyle askıya alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/karadeniz-aciklarinda-iha-saldirisina-ugrayan-tankerin-gecisi-nedeniyle-gemi-trafigine-kapatildi-43368577",
-   "zaman": "2026-11-06T16:19:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "bogaz",
-    "gecis",
-    "gemi",
-    "iha",
-    "istan",
-    "kapat",
-    "karad",
-    "neden",
-    "saldi",
-    "tanke",
-    "trafi",
-    "ugray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "92b25549aee9": {
-   "id": "92b25549aee9",
-   "kaynak": "AA",
-   "baslik": "TRT Genel Müdürü Sobacı: Bir yayıncının elindeki en güçlü sermaye güvendir",
-   "ozet": "TRT Genel Müdürü Mehmet Zahid Sobacı, bir yayıncının elindeki en güçlü sermayenin güven olduğunu belirterek, \"TRT olarak biz bu güveni Sayın Cumhurbaşkanımızın liderliğindeki ilkesel duruşundan alıyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/trt-genel-muduru-sobaci-bir-yayincinin-elindeki-en-guclu-sermaye-guvendir/4114349",
-   "zaman": "2026-11-06T16:17:50+03:00",
-   "kelimeler": [
-    "elind",
-    "genel",
-    "guclu",
-    "guven",
-    "mudur",
-    "serma",
-    "sobac",
-    "trt",
-    "yayin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fb624a5927b1": {
-   "id": "fb624a5927b1",
-   "kaynak": "AA",
-   "baslik": "Grup Gündoğarken ve Neco, müzikte kuşaklar arası buluşmayı sahneye taşıyor",
-   "ozet": "Müzik dünyasında 44 yılı geride bırakan Grup Gündoğarken ile 60 yıllık sanat yaşamında pop müziğe damga vuran Neco, yıllara dayanan dostluklarını ortak konserlerle sahneye taşıyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/grup-gundogarken-ve-neco-muzikte-kusaklar-arasi-bulusmayi-sahneye-tasiyor/4114361",
-   "zaman": "2026-11-06T16:27:04+03:00",
-   "kelimeler": [
-    "arasi",
-    "bulus",
-    "grup",
-    "gundo",
-    "kusak",
-    "muzik",
-    "neco",
-    "sahne",
-    "tasiy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "de9e1389d83c": {
    "id": "de9e1389d83c",
    "kaynak": "AA",
@@ -169,26 +102,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "63e93a159422": {
-   "id": "63e93a159422",
-   "kaynak": "AA",
-   "baslik": "60 saniyede ekonomide bugün (06 Kasım 2026)",
-   "ozet": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-06-kasim-2026/4114357",
-   "zaman": "2026-11-06T16:26:06+03:00",
-   "kelimeler": [
-    "06",
-    "2026",
-    "60",
-    "bugun",
-    "ekono",
-    "kasim",
-    "saniy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ecc71b569ef0"
   },
   "09bc9e4665fc": {
    "id": "09bc9e4665fc",
@@ -24898,7 +24811,11 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "XHABER"
+   ]
   },
   "1ccdee4c071e": {
    "id": "1ccdee4c071e",
@@ -24943,7 +24860,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "Hürriyet"
    ]
   },
   "8039793d3580": {
@@ -24965,9 +24883,259 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ce3b42a2a9e1"
+  },
+  "fe689ff29452": {
+   "id": "fe689ff29452",
+   "kaynak": "TRT Haber",
+   "baslik": "Otobüs firmalarında ara tatil hareketliliği",
+   "ozet": "Yaklaşan ara tatil öncesi otobüs biletlerinin yarısı tükendi, kalanların ise birkaç gün içinde bitmesi bekleniyor. Sefer sayılarının 27 bine kadar çıkacağı tatil dönemi için seyahat edeceklere biletlerini erkenden alma ve emniyet kemeri kuralına uyma uyarısı yapıldı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/otobus-firmalarinda-ara-tatil-hareketliligi-962696.html",
+   "zaman": "2026-11-09T15:43:00+03:00",
+   "kelimeler": [
+    "ara",
+    "firma",
+    "harek",
+    "otobu",
+    "tatil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f37c66713c91"
+  },
+  "c1e25503d8ed": {
+   "id": "c1e25503d8ed",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Tim Cook'u kabul etti",
+   "ozet": "Cumhurbaşkanı Erdoğan, Tim Cook'u Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-tim-cooku-kabul-etti-43371737",
+   "zaman": "2026-11-09T16:11:00+03:00",
+   "kelimeler": [
+    "cook",
+    "cumhu",
+    "erdog",
+    "etti",
+    "kabul",
+    "tim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3bad6181831f"
+  },
+  "c9d92aa3e0ca": {
+   "id": "c9d92aa3e0ca",
+   "kaynak": "Hürriyet",
+   "baslik": "Sınır kapısında dikkat çeken yöntem: Ayakkabısından 2 bin 600 uyuşturucu hap çıktı",
+   "ozet": "Gümrük Muhafaza ekiplerinin narkotik köpeği desteğiyle yaptığı aramada, Türkiye’ye giriş yapmak isteyen bir kişinin ayakkabı tabanlarında 2 bin 600 captagon hap bulundu. Şüpheli hakkında işlem başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sinir-kapisinda-dikkat-ceken-yontem-ayakkabisindan-2-bin-600-uyusturucu-hap-cikti-43371735",
+   "zaman": "2026-11-09T16:11:16+03:00",
+   "kelimeler": [
+    "600",
+    "ayakk",
+    "bin",
+    "ceken",
+    "cikti",
+    "dikka",
+    "hap",
+    "kapis",
+    "sinir",
+    "uyust",
+    "yonte"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c8e1b28cda0": {
+   "id": "3c8e1b28cda0",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'de 2,1 milyon kişi kış boyunca korunmaya ve insani yardıma ihtiyaç duyuyor",
+   "ozet": "Filistin Sosyal Kalkınma Bakanı Semah Hamed, İsrail'in saldırıları ve ablukası nedeniyle ağır insani krizin yaşandığı Gazze Şeridi'nde 2,1 milyon kişinin kış boyunca korunmaya ve insani yardıma ihtiyaç duyduğunu bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-21-milyon-kisi-kis-boyunca-korunmaya-ve-insani-yardima-ihtiyac-duyuyor-962699.html",
+   "zaman": "2026-11-09T16:15:00+03:00",
+   "kelimeler": [
+    "boyun",
+    "duyuy",
+    "gazze",
+    "ihtiy",
+    "insan",
+    "kis",
+    "kisi",
+    "korun",
+    "milyo",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "38db288264c4": {
+   "id": "38db288264c4",
+   "kaynak": "AA",
+   "baslik": "Gazze'de 2,1 milyon kişi kış boyunca korunmaya ve insani yardıma ihtiyaç duyuyor",
+   "ozet": "Filistin Sosyal Kalkınma Bakanı Semah Hamed, İsrail'in saldırıları ve ablukası nedeniyle ağır insani krizin yaşandığı Gazze Şeridi'nde 2,1 milyon kişinin kış boyunca korunmaya ve insani yardıma ihtiyaç duyduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-2-1-milyon-kisi-kis-boyunca-korunmaya-ve-insani-yardima-ihtiyac-duyuyor/4117362",
+   "zaman": "2026-11-09T16:16:22+03:00",
+   "kelimeler": [
+    "boyun",
+    "duyuy",
+    "gazze",
+    "ihtiy",
+    "insan",
+    "kis",
+    "kisi",
+    "korun",
+    "milyo",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c8e1b28cda0"
+  },
+  "df500363a698": {
+   "id": "df500363a698",
+   "kaynak": "Hürriyet",
+   "baslik": "Mustafa Sarıgül'ün dosyası 'Ankara'ya gönderildi",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı'ndan yapılan açıklamaya göre Mustafa Sarıgül hakkında yürütülen soruşturmada tahkikat dosyası yetkisizlik kararı verilerek Ankara Cumhuriyet Başsavcılığı'na gönderildi",
+   "link": "https://www.hurriyet.com.tr/gundem/mustafa-sarigulun-dosyasi-ankaraya-gonderildi-43371742",
+   "zaman": "2026-11-09T16:17:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "dosya",
+    "gonde",
+    "musta",
+    "sarig",
+    "un",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ce3b42a2a9e1"
+  },
+  "1e335a0d965d": {
+   "id": "1e335a0d965d",
+   "kaynak": "AA",
+   "baslik": "Blinken, ABD siyasetinde İsrail'e desteğin azaldığı konusunda Netanyahu'yu uyardığını söyledi",
+   "ozet": "Eski ABD Dışişleri Bakanı Antony Blinken, İsrail'in ABD'deki Demokrat Parti içinde desteğinin azaldığı, genç Cumhuriyetçiler ve genç evanjelikleri de kaybetme riskiyle karşı karşıya olduğu konusunda İsrail Başbakanı Netanyahu'yu uyardığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/blinken-abd-siyasetinde-israile-destegin-azaldigi-konusunda-netanyahuyu-uyardigini-soyledi/4117371",
+   "zaman": "2026-11-09T16:22:26+03:00",
+   "kelimeler": [
+    "abd",
+    "azald",
+    "blink",
+    "deste",
+    "israi",
+    "konus",
+    "netan",
+    "siyas",
+    "soyle",
+    "uyard",
+    "yu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0ade33569579": {
+   "id": "0ade33569579",
+   "kaynak": "AA",
+   "baslik": "Yapay zekayı durdurma çağrısı yapan PauseAI Başkanı'ndan bankalar ve iletişim ağlarına siber saldırı uyarısı",
+   "ozet": "Yapay zeka geliştirmenin duraklatılması için kampanya yürüten PauseAI'ın Başkanı Maxime Fournes, bankaların ve iletişim ağlarının aylar içinde yapay zeka kaynaklı siber saldırılara hedef olabileceği uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/yapay-zekayi-durdurma-cagrisi-yapan-pauseai-baskanindan-bankalar-ve-iletisim-aglarina-siber-saldiri-uyarisi/4117376",
+   "zaman": "2026-11-09T16:24:54+03:00",
+   "kelimeler": [
+    "aglar",
+    "banka",
+    "baska",
+    "cagri",
+    "durdu",
+    "ileti",
+    "ndan",
+    "pause",
+    "saldi",
+    "siber",
+    "uyari",
+    "yapan",
+    "yapay",
+    "zekay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c76a19e25b20": {
+   "id": "c76a19e25b20",
+   "kaynak": "XHABER",
+   "baslik": "CB Erdoğan, Apple Yönetim Kurulu Üyesi Tim Cook'u Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30579",
+   "zaman": "2026-11-09T16:25:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "CB Erdoğan, Apple Yönetim Kurulu Üyesi Tim Cook'u Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/b4_v6YoPirBGbyScfQ4UanXLasXpk3hFGL2dnKfMUqu9MT3fv28Ibzj3jddbvbeZSV9swT-9E3fGIsd6L-PAFYbazf26Gq0sphkzM1NeTRFLRXqhGPUuzLYyMGUHGyezBEeFk3cdVN1KspfAhsV5ewZX1vOu7a7mJHrDE6gsL-fTbvsKKKkO1J-HzNq1LH9OT86lc3yfcs0Fqa2dzwQjHVotsEsgGfwnE3hLeC2-03T6ydV30N-QryQdi4CXFUDx8qrK8V_WbffBT7XIzBI_cwFMD45dUromxgc0_IVWo9RJLQW_iWOMr7ybB2mVydjAIuZr_i5vd9kWloU0vpbv0Q.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "apple",
+    "cb",
+    "cook",
+    "cumhu",
+    "erdog",
+    "etti",
+    "kabul",
+    "kulli",
+    "kurul",
+    "nde",
+    "tim",
+    "uyesi",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3bad6181831f"
+  },
+  "3e0055704c23": {
+   "id": "3e0055704c23",
+   "kaynak": "Hürriyet",
+   "baslik": "Tarık ağabeye veda... 'Son ana kadar gazeteci olarak kaldı'",
+   "ozet": "Hürriyet Gazetesi Yazı İşleri Müdürü Tarık Devrim (69) Üsküdar'daki Şakirin Camii'nde kılınan cenaze namazının ardından son yolculuğuna uğurlandı. Gazeteci Süleyman Arat, \"Son güne kadar hep yanındaydım. İşler geliyor geçiyor, hayat geliyor geçiyor, dostluklar unutulmuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/tarik-agabeye-veda-son-ana-kadar-gazeteci-olarak-kaldi-43371751",
+   "zaman": "2026-11-09T16:26:58+03:00",
+   "kelimeler": [
+    "agabe",
+    "ana",
+    "gazet",
+    "kaldi",
+    "tarik",
+    "veda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2155c6762216": {
+   "id": "2155c6762216",
+   "kaynak": "XHABER",
+   "baslik": "Afrika'da ilkel bir yöntemle maden kazan insanlar kameraya yansıdı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30580",
+   "zaman": "2026-11-09T16:27:04+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Afrika'da ilkel bir yöntemle maden kazan insanlar kameraya yansıdı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/dZ3kRCEj-7wOM_KiIKqnievKYZ8mlRn-GUf98a7cDGUIka3i1v6DQtMpuRmdeD84qjmmmFaM4tfOg-o5ojpA_xCGa_7gommi-_0La4DjBpNQ7aqKrkHmcX5M2mQKgiKtdQczuTyrK6owvNptUKD389XLoRN5Km77Ff779tus08gKYn_RjpfYrBzYLctr9Jj6BTndQ5aZNcocberq6hedFoXDsC0odZlBAoZAtI-bsVSQIeZl41KQtIiy9owrxcivy8_1-C5sAYlW0iraRCs3DtO3tTecBG1Z3C8K7TppoJVQz5V1FzfGQ4qbJ_Bk3-JAto8y8dvMhENP5orBo45h8Q",
+   "tg_video_url": "https://cdn4.telesco.pe/file/f6f97d58e5.mp4?token=G3-U4R9FlBXlPzmx7ZpGans-RATv1uunqxFrZ40G6Bc7YiHvNERCOqbwvdd3iPc_AX5fMZnf_9l_SuWTC6gk6q-17BT_W83ipFJKDVtSFRp2W9D5aLhszRLdbLf8S1UBEI8LVQiTmP9WVREYSCiwzYvq7y-pVkoaQcLOIUxQixQbFIje6JJGsEsfsATNhRnvo5-kimf4UGzQjJY807sZUU8OZYQdqD9-Iu3g8hwIXEuXPa9iDLK25qMHOJyfDuMpk81NpzVOeDvJfnytPTcISJ_kIZUuAO8Jdpojodtiwup-6bzx8lQEuI-Tmpho5kaTdEdL2U-VdJixwVoS0FMfDQ",
+   "kelimeler": [
+    "afrik",
+    "ilkel",
+    "insan",
+    "kamer",
+    "kazan",
+    "maden",
+    "yansi",
+    "yonte"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "09.11 16:31:23  6 yeni haber",
   "09.11 16:16:13  4 yeni haber",
   "09.11 16:01:44  3 yeni haber",
   "09.11 15:48:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Bir anne tüm dünyayı değiştirebilir: \"Oğlum kazanmadan gelme\"",
@@ -25166,8 +25334,7 @@
   "07.11 12:31:23  4 yeni haber",
   "07.11 12:21:08  2 yeni haber",
   "07.11 12:19:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında eski SPK yöneticileri tutuklandı",
-  "07.11 12:16:06  8 yeni haber",
-  "07.11 12:01:26  11 yeni haber"
+  "07.11 12:16:06  8 yeni haber"
  ],
  "otomatik": false
 }
