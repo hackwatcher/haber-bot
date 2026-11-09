@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "fc597d8ffa3e": {
-   "id": "fc597d8ffa3e",
-   "kaynak": "AA",
-   "baslik": "TBMM Başkanı Kurtulmuş: Terör, tamamıyla gündemimizden kalkacak, ülkenin her ilinde köyünde barış hakim olacak",
-   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye süreci emin adımlarla ilerlemektedir. Terör, tamamıyla gündemimizden kalkacak, ülkenin her ilinde, kasabasında, köyünde barış ve kardeşlik hakim olacak\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-teror-tamamiyla-gundemimizden-kalkacak-ulkenin-her-ilinde-koyunde-baris-hakim-olacak/4114585",
-   "zaman": "2026-11-06T19:18:19+03:00",
-   "kelimeler": [
-    "baris",
-    "baska",
-    "gunde",
-    "hakim",
-    "her",
-    "ilind",
-    "kalka",
-    "koyun",
-    "kurtu",
-    "olaca",
-    "tamam",
-    "tbmm",
-    "teror",
-    "ulken"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f500e29d5269"
-  },
-  "9994772920fd": {
-   "id": "9994772920fd",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan açıklamalar",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, katıldığı bir televizyon programında gündemdeki konulara ilişkin önemli açıklamalarda bulunuyor...",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-cevdet-yilmazdan-aciklamalar-43368810",
-   "zaman": "2026-11-06T19:19:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "cevde",
-    "cumhu",
-    "dan",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "562e0f540c3a"
-  },
-  "1dbe9850c705": {
-   "id": "1dbe9850c705",
-   "kaynak": "AA",
-   "baslik": "Galatasaray'da Osimhen, Amed Sportif Faaliyetler maçının kadrosunda yok",
-   "ozet": "Sarı-kırmızılı kulüp, golcü futbolcuya \"artroskopik diz cerrahisi planlandığını\" açıkladı.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasarayda-osimhen-amed-sportif-faaliyetler-macinin-kadrosunda-yok/4114588",
-   "zaman": "2026-11-06T19:22:46+03:00",
-   "kelimeler": [
-    "amed",
-    "faali",
-    "galat",
-    "kadro",
-    "macin",
-    "osimh",
-    "sport"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4526bede3d17": {
-   "id": "4526bede3d17",
-   "kaynak": "AA",
-   "baslik": "Almanya'da küçük uçağın otoyola düşmesi sonucu 2 kişi hayatını kaybetti",
-   "ozet": "Olayda otoyolda seyreden herhangi bir araç zarar görmedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-kucuk-ucagin-otoyola-dusmesi-sonucu-2-kisi-hayatini-kaybetti/4114596",
-   "zaman": "2026-11-06T19:27:48+03:00",
-   "kelimeler": [
-    "alman",
-    "dusme",
-    "hayat",
-    "kaybe",
-    "kisi",
-    "kucuk",
-    "otoyo",
-    "sonuc",
-    "ucagi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6c01ea1736e5": {
    "id": "6c01ea1736e5",
    "kaynak": "AA",
@@ -153,30 +67,6 @@
     "AA",
     "Hürriyet"
    ]
-  },
-  "f15e262a4307": {
-   "id": "f15e262a4307",
-   "kaynak": "AA",
-   "baslik": "SPK'den tasfiye kapsamı dışındaki kapalı fonların yeniden açılma sürecine ilişkin açıklama",
-   "ozet": "SPK, A1 Capital, Bulls ve Pardus portföy yönetim şirketlerinin tasfiye kapsamında bulunmayan ancak alım satıma kapalı olan fonlarının yeniden işleme açılabilmesi için ilgili şirketlerin Ziraat Bankası'na başvurması gerektiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surecine-iliskin-aciklama/4114597",
-   "zaman": "2026-11-06T19:29:26+03:00",
-   "kelimeler": [
-    "acikl",
-    "acilm",
-    "den",
-    "disin",
-    "fonla",
-    "ilisk",
-    "kapal",
-    "kapsa",
-    "spk",
-    "surec",
-    "tasfi",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "bbafb11b69db": {
    "id": "bbafb11b69db",
@@ -25026,7 +24916,10 @@
     "sendi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "516610ee465c": {
    "id": "516610ee465c",
@@ -25425,9 +25318,115 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8be0a599482a": {
+   "id": "8be0a599482a",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da işçi sendikalarından 17 Kasım'da genel grev çağrısı",
+   "ozet": "Fransa'da Sarı Yeleklilerin yer yer sokağa çıktığı protestoların yanı sıra farklı şehirlerde öğrenci eylemleri haftalardır sürerken, ülkenin önde gelen sendikaları 17 Kasım'da genel grev ve eylem çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-isci-sendikalarindan-17-kasimda-genel-grev-cagrisi-962707.html",
+   "zaman": "2026-11-09T18:37:00+03:00",
+   "kelimeler": [
+    "17",
+    "cagri",
+    "frans",
+    "genel",
+    "grev",
+    "isci",
+    "kasim",
+    "sendi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7cd71692f7cf"
+  },
+  "6567f1374f4f": {
+   "id": "6567f1374f4f",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan önemli mesajlar",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında gerçekleştirilen Kabine Toplantısı sona erdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-mesajlar-43371986",
+   "zaman": "2026-11-09T19:04:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "erdog",
+    "mesaj",
+    "oneml"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "102acf789a1a"
+  },
+  "84045caccafc": {
+   "id": "84045caccafc",
+   "kaynak": "AA",
+   "baslik": "Gazze Sağlık Bakanlığı: Sessiz soykırım yaşanan Gazze'de yaklaşık 2 bin bina her an çökebilir",
+   "ozet": "Gazze Sağlık Bakanlığı Genel Müdürü Münir el-Burş, İsrail saldırılarında hasar gören yaklaşık 2 bin binanın her an çökebileceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazze-saglik-bakanligi-sessiz-soykirim-yasanan-gazzede-yaklasik-2-bin-bina-her-an-cokebilir/4117585",
+   "zaman": "2026-11-09T19:08:00+03:00",
+   "kelimeler": [
+    "an",
+    "bakan",
+    "bin",
+    "bina",
+    "cokeb",
+    "gazze",
+    "her",
+    "sagli",
+    "sessi",
+    "soyki",
+    "yakla",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba9547f81970": {
+   "id": "ba9547f81970",
+   "kaynak": "AA",
+   "baslik": "Avro Bölgesi savunmada ortak alımları artırmayı planlıyor",
+   "ozet": "Avro Grubu Başkanı Kiryakos Pierrakakis, Avrupa'nın artan savunma harcamalarını sürdürülebilir biçimde finanse edebilmesi için ortak alımları artırması ve daha fazla özel sermayeyi harekete geçirmesi gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesi-savunmada-ortak-alimlari-artirmayi-planliyor/4117600",
+   "zaman": "2026-11-09T19:14:20+03:00",
+   "kelimeler": [
+    "aliml",
+    "artir",
+    "avro",
+    "bolge",
+    "ortak",
+    "planl",
+    "savun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3abfc8922cf7": {
+   "id": "3abfc8922cf7",
+   "kaynak": "AA",
+   "baslik": "Çin, ABD'ye misilleme olarak getirdiği yüzde 24 ek tarifeyi 2 ay daha erteleyecek",
+   "ozet": "Çin, ABD'ye misilleme olarak getirdiği yüzde 24'lük ek gümrük vergisini 2 ay daha erteleyeceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdye-misilleme-olarak-getirdigi-yuzde-24-ek-tarifeyi-2-ay-daha-erteleyecek/4117615",
+   "zaman": "2026-11-09T19:19:26+03:00",
+   "kelimeler": [
+    "24",
+    "abd",
+    "ay",
+    "cin",
+    "ek",
+    "ertel",
+    "getir",
+    "misil",
+    "tarif",
+    "ye",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 19:31:24  3 yeni haber",
   "09.11 19:16:00  2 yeni haber",
   "09.11 19:01:30  1 yeni haber",
   "09.11 18:46:02  9 yeni haber",
@@ -25626,8 +25625,7 @@
   "07.11 15:16:03  2 yeni haber",
   "07.11 15:01:23  3 yeni haber",
   "07.11 14:46:02  4 yeni haber",
-  "07.11 14:46:02  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "07.11 14:31:12  2 yeni haber"
+  "07.11 14:46:02  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
