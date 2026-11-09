@@ -1,89 +1,5 @@
 {
  "haberler": {
-  "8a6a0199184e": {
-   "id": "8a6a0199184e",
-   "kaynak": "TRT Haber",
-   "baslik": "Yatmadan önce canınız abur cubur mu çekiyor? İşte nedenleri ve neler yapabileceğiniz",
-   "ozet": "Akşam yemeğinin ardından gelen atıştırma isteği, birçok insanın karşılaştığı yaygın bir durum olarak öne çıkıyor. Yapılan araştırmalar, insanların yaklaşık üçte birinin akşam yemeğinden sonra gece saatlerinde atıştırdığını gösteriyor.",
-   "link": "https://www.trthaber.com/haber/dunya/yatmadan-once-caniniz-abur-cubur-mu-cekiyor-iste-nedenleri-ve-neler-yapabileceginiz-962393.html",
-   "zaman": "2026-11-06T06:34:00+03:00",
-   "kelimeler": [
-    "abur",
-    "canin",
-    "cekiy",
-    "cubur",
-    "iste",
-    "neden",
-    "neler",
-    "yapab",
-    "yatma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "95fae399bbf0": {
-   "id": "95fae399bbf0",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31 pazartesi günü başlıyor: İklim diplomasisinin kalbi Türkiye'de atacak",
-   "ozet": "COP31 İklim Zirvesi, pazartesi günü Antalya'da kapılarını açacak. Dünya liderlerinden bilim insanlarına on binlerce katılımcıyı ağırlayacak dev zirvede, gezegenin geleceğine yön verecek kritik kararlar alınacak ve Türkiye'nin öncülük ettiği \"Sıfır Atık\" vizyonu küresel ölçekte…",
-   "link": "https://www.trthaber.com/haber/gundem/cop31-pazartesi-gunu-basliyor-iklim-diplomasisinin-kalbi-turkiyede-atacak-962396.html",
-   "zaman": "2026-11-06T06:39:00+03:00",
-   "kelimeler": [
-    "ataca",
-    "basli",
-    "cop31",
-    "diplo",
-    "gunu",
-    "iklim",
-    "kalbi",
-    "pazar",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "28b759fb37d0": {
-   "id": "28b759fb37d0",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD seçimleri küresel teknoloji hisselerinde sert düşüşe yol açtı",
-   "ozet": "ABD'de düzenlenen ara seçimlerin yapay zeka gelişiminde yavaşlama endişelerini tetiklemesinin ardından, ABD ve Asya'daki büyük teknoloji şirketlerinin piyasa değerinden yüz milyarlarca dolar silindi.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-secimleri-kuresel-teknoloji-hisselerinde-sert-dususe-yol-acti-962394.html",
-   "zaman": "2026-11-06T06:39:00+03:00",
-   "kelimeler": [
-    "abd",
-    "acti",
-    "dusus",
-    "hisse",
-    "kures",
-    "secim",
-    "sert",
-    "tekno",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2b35e9c0c927": {
-   "id": "2b35e9c0c927",
-   "kaynak": "TRT Haber",
-   "baslik": "Dünyanın en küçük otomobili 60 bin sterline açık artırmaya çıkarılıyor",
-   "ozet": "Guinness Rekorlar Kitabı tarafından resmi olarak dünyanın en küçük seri üretim otomobili ilan edilen zeytin yeşili Peel P50, 14 Kasım tarihinde açık artırmaya sunuluyor.",
-   "link": "https://www.trthaber.com/haber/dunya/dunyanin-en-kucuk-otomobili-60-bin-sterline-acik-artirmaya-cikariliyor-962395.html",
-   "zaman": "2026-11-06T06:43:00+03:00",
-   "kelimeler": [
-    "60",
-    "acik",
-    "artir",
-    "bin",
-    "cikar",
-    "dunya",
-    "kucuk",
-    "otomo",
-    "sterl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "36827030f199": {
    "id": "36827030f199",
    "kaynak": "TRT Haber",
@@ -22692,7 +22608,8 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "73c82b6aee71": {
    "id": "73c82b6aee71",
@@ -24885,6 +24802,25 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "aac1fd5fc535": {
+   "id": "aac1fd5fc535",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeni haftada hava durumu nasıl olacak?",
+   "ozet": "Türkiye yeni haftaya soğuk ve yağışlı havanın etkisi altında girecek. Bazı bölgelerde sağanak görülürken, yüksek kesimlerde karla karışık yağmur ve kar bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-durumu-nasil-olacak-962628.html",
+   "zaman": "2026-11-09T06:10:00+03:00",
+   "kelimeler": [
+    "durum",
+    "hafta",
+    "hava",
+    "nasil",
+    "olaca",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5853f8bf0c5d"
   }
  },
  "kayit": [
