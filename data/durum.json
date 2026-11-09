@@ -1,116 +1,5 @@
 {
  "haberler": {
-  "7e4427a521a3": {
-   "id": "7e4427a521a3",
-   "kaynak": "AA",
-   "baslik": "Türk somonu ekim ayında 95 milyon dolarlık ihracatla zirveye çıktı",
-   "ozet": "Türkiye'nin ekim ayı somon ihracatı, geçen yılın aynı dönemine göre yüzde 54 artarak 61 milyon 880 bin dolardan 95 milyon 71 bin dolara yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turk-somonu-ekim-ayinda-95-milyon-dolarlik-ihracatla-zirveye-cikti/4113632",
-   "zaman": "2026-11-06T10:21:10+03:00",
-   "kelimeler": [
-    "95",
-    "ayind",
-    "cikti",
-    "dolar",
-    "ekim",
-    "ihrac",
-    "milyo",
-    "somon",
-    "turk",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b9b11918b58d": {
-   "id": "b9b11918b58d",
-   "kaynak": "TRT Haber",
-   "baslik": "Suudi Arabistan'ın güneyindeki Necran'da tehlike uyarısı yapıldı",
-   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, Yemen sınırındaki Necran vilayeti için erken uyarı sisteminin devreye alındığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-guneyindeki-necranda-tehlike-uyarisi-yapildi-962416.html",
-   "zaman": "2026-11-06T10:23:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "guney",
-    "in",
-    "necra",
-    "suudi",
-    "tehli",
-    "uyari",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "94d078e95929": {
-   "id": "94d078e95929",
-   "kaynak": "AA",
-   "baslik": "ABD Başkanı Trump Oval Ofis'i ulusal anıt ilan etti",
-   "ozet": "ABD Başkanı Donald Trump, Beyaz Saray kompleksindeki Oval Ofis'i \"ulusal anıt\" olarak tanıyan bir bildiriye imza atarak, ofiste gelecekte yapılacak değişikliklerin Kongre onayına sunulmasının önünü açtı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-oval-ofisi-ulusal-anit-ilan-etti/4113636",
-   "zaman": "2026-11-06T10:26:24+03:00",
-   "kelimeler": [
-    "abd",
-    "anit",
-    "baska",
-    "etti",
-    "ilan",
-    "ofis",
-    "oval",
-    "trump",
-    "ulusa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "93ea7025d539": {
-   "id": "93ea7025d539",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD Başkanı Trump Oval Ofis'i ulusal anıt ilan etti",
-   "ozet": "ABD Başkanı Donald Trump, Beyaz Saray kompleksindeki Oval Ofis'i \"ulusal anıt\" olarak tanıyan bir bildiriye imza atarak, ofiste gelecekte yapılacak değişikliklerin Kongre onayına sunulmasının önünü açtı.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-oval-ofisi-ulusal-anit-ilan-etti-962417.html",
-   "zaman": "2026-11-06T10:27:00+03:00",
-   "kelimeler": [
-    "abd",
-    "anit",
-    "baska",
-    "etti",
-    "ilan",
-    "ofis",
-    "oval",
-    "trump",
-    "ulusa"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "94d078e95929"
-  },
-  "93deccdca322": {
-   "id": "93deccdca322",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'de yapay zekayla dolandırıcılık yaptığı iddia edilen 3 kişi kimlik hırsızlığıyla suçlandı",
-   "ozet": "ABD'de yapay zeka teknolojisini kullanarak şirket yöneticileri ve avukatların kimliğine büründükleri ve bu yolla yaklaşık 129 milyon dolar dolandırıcılık yaptıkları öne sürülen 3 kişi hakkında elektronik dolandırıcılık ve kimlik hırsızlığı suçlamalarıyla iddianame hazırlandı.",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-yapay-zekayla-dolandiricilik-yaptigi-iddia-edilen-3-kisi-kimlik-hirsizligiyla-suclandi-962418.html",
-   "zaman": "2026-11-06T10:31:00+03:00",
-   "kelimeler": [
-    "abd",
-    "dolan",
-    "edile",
-    "hirsi",
-    "iddia",
-    "kimli",
-    "kisi",
-    "sucla",
-    "yapay",
-    "yapti",
-    "zekay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e674487ce05d": {
    "id": "e674487ce05d",
    "kaynak": "NTV",
@@ -23379,7 +23268,10 @@
     "isted"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "a10abcd100f8": {
    "id": "a10abcd100f8",
@@ -24321,9 +24213,211 @@
    "fb_reels_id": "1671752477875142",
    "slayt": 5,
    "kanca": "BDDK BAŞKAN YARDIMCISI TUTUKLANDI"
+  },
+  "cec9cbd6af92": {
+   "id": "cec9cbd6af92",
+   "kaynak": "Hürriyet",
+   "baslik": "Önce kaza dediler, sonra yenge itiraf etti: 13 yaşındaki Melek'in ölümünde dayı ve yenge cezaevinde",
+   "ozet": "Adana, Ceyhan'da zeytin hasadı dönüşü evde vurulan 13 yaşındaki Melek Göçer'in şüpheli ölümündeki yalanlar polisin titiz sorgusuyla çöktü.",
+   "link": "https://www.hurriyet.com.tr/gundem/once-kaza-dediler-sonra-yenge-itiraf-etti-13-yasindaki-melekin-olumunde-dayi-ve-yenge-cezaevinde-43371054",
+   "zaman": "2026-11-09T10:07:40+03:00",
+   "kelimeler": [
+    "13",
+    "cezae",
+    "dayi",
+    "dedil",
+    "etti",
+    "in",
+    "itira",
+    "kaza",
+    "melek",
+    "olumu",
+    "yasin",
+    "yenge"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b45e0f5a306c": {
+   "id": "b45e0f5a306c",
+   "kaynak": "TRT Haber",
+   "baslik": "İŞKUR, 10 ayda yaklaşık 1,2 milyon işe yerleştirmeye aracılık etti",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Türkiye İş Kurumunun İŞKUR yılın 10 ayında 1 milyon 258 bin 507 işe yerleştirmeye aracılık ettiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/iskur-10-ayda-yaklasik-12-milyon-ise-yerlestirmeye-aracilik-etti-962647.html",
+   "zaman": "2026-11-09T10:12:00+03:00",
+   "kelimeler": [
+    "10",
+    "araci",
+    "ayda",
+    "etti",
+    "ise",
+    "iskur",
+    "milyo",
+    "yakla",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ef0084613aba": {
+   "id": "ef0084613aba",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da akılalmaz olay: Çocukların 'oyunu' araçları yaktı, 550 bin lira zarar oluştu",
+   "ozet": "İstanbul Kağıthane'de 11 yaşındaki iki çocuk kapısı açık olan ticari araca girerek çakmakla oynayıp şakalaştı. Bu sırada araçta yangın çıktı. Alevlerin büyümesiyle yangın yanındaki bir araca da sıçradı. Aracında yaklaşık 500 bin liralık zarar oluştuğunu belirten Veli G.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-akilalmaz-olay-cocuklarin-oyunu-araclari-yakti-550-bin-lira-zarar-olustu-43371071",
+   "zaman": "2026-11-09T10:17:00+03:00",
+   "kelimeler": [
+    "550",
+    "akila",
+    "aracl",
+    "bin",
+    "cocuk",
+    "istan",
+    "lira",
+    "olay",
+    "olust",
+    "oyunu",
+    "yakti",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f43ef55ce7f9": {
+   "id": "f43ef55ce7f9",
+   "kaynak": "AA",
+   "baslik": "Trump, seçim yenilgisinden \"İsrail'e yönelik hoşnutsuzluk\" ve İran'a saldırıları sorumlu tuttu",
+   "ozet": "ABD Başkanı Donald Trump, 3 Kasım'da düzenlenen ara seçimlerdeki sonuçlardan, halkın İsrail'e yönelik \"hoşnutsuzluğu\" ve İran'a saldırıların ekonomiye etkisinin neden olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-secim-yenilgisinden-israile-yonelik-hosnutsuzluk-ve-irana-saldirilari-sorumlu-tuttu/4116481",
+   "zaman": "2026-11-09T10:17:37+03:00",
+   "kelimeler": [
+    "hosnu",
+    "iran",
+    "israi",
+    "saldi",
+    "secim",
+    "sorum",
+    "trump",
+    "tuttu",
+    "yenil",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ddd2c134e79a": {
+   "id": "ddd2c134e79a",
+   "kaynak": "AA",
+   "baslik": "Ekimde en yüksek aylık reel getiri mevduat faizinde oldu",
+   "ozet": "Tüketici fiyat endeksi (TÜFE) ile indirgendiğinde ekimde en yüksek aylık reel getiri, yüzde 0,39 ile mevduat faizinde (brüt) gerçekleşti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ekimde-en-yuksek-aylik-reel-getiri-mevduat-faizinde-oldu/4116486",
+   "zaman": "2026-11-09T10:21:31+03:00",
+   "kelimeler": [
+    "aylik",
+    "ekimd",
+    "faizi",
+    "getir",
+    "mevdu",
+    "reel",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0e9ed442aa89": {
+   "id": "0e9ed442aa89",
+   "kaynak": "Hürriyet",
+   "baslik": "Müzekart ile 350’den fazla müze ve ören yerini gezmek sadece 300 TL!",
+   "ozet": "Kültür ve Turizm Bakanlığı, Türk vatandaşlarının bütçesini koruyan Müzekart uygulamasıyla Türkiye’nin dört bir yanındaki 350’den fazla müze ve ören yerini bir yıl boyunca 300 TL’ye gezme imkanı sunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/muzekart-ile-350den-fazla-muze-ve-oren-yerini-gezmek-sadece-300-tl-43371086",
+   "zaman": "2026-11-09T10:23:30+03:00",
+   "kelimeler": [
+    "300",
+    "350",
+    "den",
+    "fazla",
+    "gezme",
+    "muze",
+    "muzek",
+    "oren",
+    "sadec",
+    "tl",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7adef420bc61": {
+   "id": "7adef420bc61",
+   "kaynak": "AA",
+   "baslik": "ABD Dışişleri Bakanı Rubio, İran ile diplomatik anlaşmaya varılmasının \"mümkün olmayabileceğini\" belirtti",
+   "ozet": "ABD Dışişleri Bakanı Marco Rubio, İran ile kaydedilen ilerlemenin \"çok verimli olmadığını\" belirterek, Tahran yönetimiyle diplomatik anlaşmaya varılmasının \"mümkün olmayabileceğini\" söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-iran-ile-diplomatik-anlasmaya-varilmasinin-mumkun-olmayabilecegini-belirtti/4116496",
+   "zaman": "2026-11-09T10:25:48+03:00",
+   "kelimeler": [
+    "abd",
+    "anlas",
+    "bakan",
+    "belir",
+    "diplo",
+    "disis",
+    "iran",
+    "mumku",
+    "olmay",
+    "rubio",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8d68a04cc73a": {
+   "id": "8d68a04cc73a",
+   "kaynak": "NTV",
+   "baslik": "Yargıtay’dan çalışan anneler için emsal karar: Doğum izni sonrası ayrımcılığa tazminat",
+   "ozet": "Doğum izni dönüşü uzmanlık alanı dışındaki bir göreve getirilerek düşük zam alan kadın bankacının başlattığı hukuk mücadelesinde Yargıtay emsal bir karara imza attı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-yargitaydan-calisan-anneler-icin-emsal-karar-dogum-izni-sonrasi-ayrimciliga-tazminat-1750071",
+   "zaman": "2026-11-09T10:26:26+03:00",
+   "kelimeler": [
+    "annel",
+    "ayrim",
+    "calis",
+    "dan",
+    "dogum",
+    "emsal",
+    "izni",
+    "karar",
+    "sonra",
+    "tazmi",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4673d40cc7a7": {
+   "id": "4673d40cc7a7",
+   "kaynak": "NTV",
+   "baslik": "Fatma Betül Sayan Kaya'nın ifadesinden: \"Bir miktar birikimi değerlendirdim\"",
+   "ozet": "Tutuklu Fatma Betül Sayan Kaya'nın, ifadesinde \"Bir miktar birikimi değerlendirdiğini\" belirterek, ekonomi bilmesine rağmen siyasi kimliği nedeniyle borsadan uzak durduğunu ileri sürdüğü anlaşıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-fatma-betul-sayan-kayanin-ifadesinden-bir-miktar-birikimi-degerlendirdim-1750065",
+   "zaman": "2026-11-09T10:29:56+03:00",
+   "kelimeler": [
+    "betul",
+    "birik",
+    "deger",
+    "fatma",
+    "ifade",
+    "kaya",
+    "mikta",
+    "nin",
+    "sayan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "add81ecd39ae"
   }
  },
  "kayit": [
+  "09.11 10:31:14  8 yeni haber",
   "09.11 10:19:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. BDDK Başkan Yardımcısı Erişen ve Adil Katılım Bankas",
   "09.11 10:16:09  7 yeni haber",
   "09.11 10:01:29  2 yeni haber",
@@ -24522,8 +24616,7 @@
   "07.11 02:16:11  1 yeni haber",
   "07.11 02:01:23  7 yeni haber",
   "07.11 01:31:13  3 yeni haber",
-  "07.11 01:16:02  4 yeni haber",
-  "07.11 01:03:59  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Aziz Sancarın izinde: Küçük Talha Einstein Olimpiyatları'nda dünya şam"
+  "07.11 01:16:02  4 yeni haber"
  ],
  "otomatik": false
 }
