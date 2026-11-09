@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "62d2d9814246": {
-   "id": "62d2d9814246",
-   "kaynak": "AA",
-   "baslik": "İngiliz yayın kuruluşu Sky da saldırı tehdidi aldığını duyurdu",
-   "ozet": "İngiliz yayın kuruluşu Sky, binasını tahliye eden İrlanda kamu yayıncısı RTE gibi saldırı tehdidi aldığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiliz-yayin-kurulusu-sky-da-saldiri-tehdidi-aldigini-duyurdu/4114429",
-   "zaman": "2026-11-06T17:10:46+03:00",
-   "kelimeler": [
-    "aldig",
-    "duyur",
-    "ingil",
-    "kurul",
-    "saldi",
-    "sky",
-    "tehdi",
-    "yayin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4f364d44b9ac": {
    "id": "4f364d44b9ac",
    "kaynak": "AA",
@@ -16327,7 +16307,8 @@
     "saniy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e984521aa18c": {
    "id": "e984521aa18c",
@@ -25576,9 +25557,153 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3713cf6456bc": {
+   "id": "3713cf6456bc",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (09 Kasım 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-09-kasim-2026/4117334",
+   "zaman": "2026-11-09T15:47:06+03:00",
+   "kelimeler": [
+    "09",
+    "2026",
+    "60",
+    "bugun",
+    "kasim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba5f0c7ced06"
+  },
+  "d03b236c8e9e": {
+   "id": "d03b236c8e9e",
+   "kaynak": "AA",
+   "baslik": "60 saniyede ekonomide bugün (09 Kasım 2026)",
+   "ozet": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-09-kasim-2026/4117335",
+   "zaman": "2026-11-09T15:48:00+03:00",
+   "kelimeler": [
+    "09",
+    "2026",
+    "60",
+    "bugun",
+    "ekono",
+    "kasim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba5f0c7ced06"
+  },
+  "ae0859bcc408": {
+   "id": "ae0859bcc408",
+   "kaynak": "AA",
+   "baslik": "Elektrik dağıtım şebekelerine 2040'a kadar 80 milyar dolarlık yatırım öngörülüyor",
+   "ozet": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Genel Sekreteri Erdoğan, elektrik dağıtım şebekelerine 2040'a kadar yapılması öngörülen 80 milyar dolarlık yatırımın Türkiye'nin enerji ithalat faturasının azaltılmasına katkı sağlayacağını söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350",
+   "zaman": "2026-11-09T16:06:58+03:00",
+   "kelimeler": [
+    "2040",
+    "80",
+    "dagit",
+    "dolar",
+    "elekt",
+    "milya",
+    "ongor",
+    "sebek",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "460725c65c58": {
+   "id": "460725c65c58",
+   "kaynak": "AA",
+   "baslik": "Suriye'nin Humus ilinde hayvan otlatan 3 çocuk mayın patlaması sonucu hayatını kaybetti",
+   "ozet": "Suriye'nin Humus ili kırsalında hayvan otlatılan bölgede meydana gelen mayın patlamasında 3 çocuğun hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-humus-ilinde-hayvan-otlatan-3-cocuk-mayin-patlamasi-sonucu-hayatini-kaybetti/4117434",
+   "zaman": "2026-11-09T16:55:10+03:00",
+   "kelimeler": [
+    "cocuk",
+    "hayat",
+    "hayva",
+    "humus",
+    "ilind",
+    "kaybe",
+    "mayin",
+    "nin",
+    "otlat",
+    "patla",
+    "sonuc",
+    "suriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dd3dfd62fe69": {
+   "id": "dd3dfd62fe69",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İBB davasında söz alan Murat Çalık: 'Yaşam hakkımın korunmasını istiyorum'",
+   "ozet": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasının üçüncü celsesi devam ediyor. Celsenin beşinci gününde, Beylikdüzü Belediye Başkanı iken tutuklanan Murat Çalık söz alarak tahliyesini talep etti.",
+   "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no",
+   "zaman": "2026-11-09T17:01:31+03:00",
+   "kelimeler": [
+    "alan",
+    "calik",
+    "davas",
+    "hakki",
+    "ibb",
+    "istiy",
+    "korun",
+    "murat",
+    "soz",
+    "yasam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b3c0c4f6aa52": {
+   "id": "b3c0c4f6aa52",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçlı yemin töreni yapan 5 teğmene iftira davası",
+   "ozet": "Kara Harp Okulu mezuniyet töreninin ardından kılıçlı yemin etmeleri nedeniyle Türk Silahlı Kuvvetleri'nden (TSK) ihraç edilen 5 teğmen hakkında, Yüksek Disiplin Kurulu üyelerine baskı yapılarak oylarının değiştirildiği iddiasıyla yaptıkları suç duyurusu sonrası 'iftira' suçundan…",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicli-yemin-toreni-yapan-5-tegmene-iftira-davasi-43371842",
+   "zaman": "2026-11-09T17:02:48+03:00",
+   "kelimeler": [
+    "davas",
+    "iftir",
+    "kilic",
+    "tegme",
+    "toren",
+    "yapan",
+    "yemin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22b868f4207c": {
+   "id": "22b868f4207c",
+   "kaynak": "NTV",
+   "baslik": "İzmir'de fabrikada patlama. Fotoğraflarla patlama bölgesinde son durum",
+   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 10 kişi hayatını kaybetti, dördü ağır 15 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-izmirde-fabrikada-patlama-fotograflarla-patlama-bolgesinde-son-durum-1750150",
+   "zaman": "2026-11-09T17:03:08+03:00",
+   "kelimeler": [
+    "bolge",
+    "durum",
+    "fabri",
+    "fotog",
+    "izmir",
+    "patla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 17:16:03  5 yeni haber",
   "09.11 17:01:40  8 yeni haber",
   "09.11 16:46:07  9 yeni haber",
   "09.11 16:31:23  6 yeni haber",
@@ -25777,8 +25902,7 @@
   "07.11 13:16:01  3 yeni haber",
   "07.11 13:01:27  3 yeni haber",
   "07.11 12:46:00  3 yeni haber",
-  "07.11 12:31:23  4 yeni haber",
-  "07.11 12:21:08  2 yeni haber"
+  "07.11 12:31:23  4 yeni haber"
  ],
  "otomatik": false
 }
