@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "65242126639f": {
-   "id": "65242126639f",
-   "kaynak": "AA",
-   "baslik": "BM kuruluşları: Sudan'da dünyanın en büyük yerinden edilme krizi sürüyor",
-   "ozet": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (BMMYK) ve Uluslararası Göç Örgütü (IOM), Sudan'da çatışmaların 3,5 yılı aşkın süredir sürdüğünü ve bu ülkenin dünyanın en büyük yerinden edilme krizi olmaya devam ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-kuruluslari-sudanda-dunyanin-en-buyuk-yerinden-edilme-krizi-suruyor/4114031",
-   "zaman": "2026-11-06T15:18:15+03:00",
-   "kelimeler": [
-    "bm",
-    "buyuk",
-    "dunya",
-    "edilm",
-    "krizi",
-    "kurul",
-    "sudan",
-    "suruy",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cc375fc3945b": {
-   "id": "cc375fc3945b",
-   "kaynak": "AA",
-   "baslik": "Rusya'dan \"Starlink ve OneWeb'in siyasi istikrarı tehdit ettiği\" uyarısı",
-   "ozet": "Rusya Güvenlik Konseyi, Starlink ve OneWeb uydu iletişim sistemlerinin egemen ülkelerde toplumsal ve siyasi istikrar açısından risk oluşturduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusyadan-starlink-ve-onewebin-siyasi-istikrari-tehdit-ettigi-uyarisi/4114045",
-   "zaman": "2026-11-06T15:27:33+03:00",
-   "kelimeler": [
-    "dan",
-    "ettig",
-    "in",
-    "istik",
-    "onewe",
-    "rusya",
-    "siyas",
-    "starl",
-    "tehdi",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6344112f30e9": {
-   "id": "6344112f30e9",
-   "kaynak": "AA",
-   "baslik": "Belçika Kralı Philippe, Başbakan De Wever'in istifasını kabul etmedi",
-   "ozet": "Belçika Kralı Philippe, Başbakan Bart De Wever'in istifasını kabul etmedi ve sonuçsuz kalan bütçe müzakerelerine derhal yeniden başlamasını istedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/belcika-krali-philippe-basbakan-de-weverin-istifasini-kabul-etmedi/4114049",
-   "zaman": "2026-11-06T15:29:57+03:00",
-   "kelimeler": [
-    "basba",
-    "belci",
-    "etmed",
-    "in",
-    "istif",
-    "kabul",
-    "krali",
-    "phili",
-    "wever"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "3597eb912df8": {
-   "id": "3597eb912df8",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde TRT World Forum 2026 etkinliğinde konuşuyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43368371",
-   "zaman": "2026-11-06T15:28:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "cumhu",
-    "dan",
-    "erdog",
-    "oneml"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "067c16e6aeac"
-  },
   "b0a030a68d97": {
    "id": "b0a030a68d97",
    "kaynak": "TRT Haber",
@@ -141,28 +59,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "77e3bb8c429f": {
-   "id": "77e3bb8c429f",
-   "kaynak": "Hürriyet",
-   "baslik": "'İsrail'e iltimas geçiliyor' Cumhurbaşkanı Erdoğan: Uluslararası sistem iflas etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde TRT World Forum 2026 etkinliğinde konuştu. Cumhurbaşkanı Erdoğan \"Bizim de imzalanmasına katkı verdiğimiz Gazze Barış Anlaşması ne yazık ki uygulanmıyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/israile-iltimas-geciliyor-cumhurbaskani-erdogan-uluslararasi-sistem-iflas-etti-43368371",
-   "zaman": "2026-11-06T15:28:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "etti",
-    "gecil",
-    "iflas",
-    "iltim",
-    "israi",
-    "siste",
-    "ulusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "3859487a4c0e": {
    "id": "3859487a4c0e",
@@ -24981,9 +24877,53 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "650a96eea384"
+  },
+  "213b56c743ce": {
+   "id": "213b56c743ce",
+   "kaynak": "AA",
+   "baslik": "İsrail, işgal altındaki Batı Şeria'da bir Filistinlinin evini yıktı",
+   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyindeki El Halil kentinde bir Filistinlinin evini ve su kuyusunu yıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-bir-filistinlinin-evini-yikti/4117298",
+   "zaman": "2026-11-09T15:13:27+03:00",
+   "kelimeler": [
+    "altin",
+    "bati",
+    "evini",
+    "filis",
+    "isgal",
+    "israi",
+    "seria",
+    "yikti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0868148f2714": {
+   "id": "0868148f2714",
+   "kaynak": "AA",
+   "baslik": "AB, doğal gaz depolarındaki düşük seviyeye rağmen arz güvenliği sorunu beklemiyor",
+   "ozet": "Avrupa Birliği (AB) Komisyonu, üye ülkelerdeki doğal gaz depolarının doluluk oranlarının tarihsel ortalamanın altında bulunmasına rağmen enerji arz güvenliğini tehdit eden bir durum olmadığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-dogal-gaz-depolarindaki-dusuk-seviyeye-ragmen-arz-guvenligi-sorunu-beklemiyor/4117308",
+   "zaman": "2026-11-09T15:19:47+03:00",
+   "kelimeler": [
+    "ab",
+    "arz",
+    "bekle",
+    "depol",
+    "dogal",
+    "dusuk",
+    "gaz",
+    "guven",
+    "ragme",
+    "seviy",
+    "sorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 15:31:22  2 yeni haber",
   "09.11 15:16:05  5 yeni haber",
   "09.11 15:01:41  3 yeni haber",
   "09.11 14:53:55  3 yeni haber",
@@ -25182,8 +25122,7 @@
   "07.11 11:45:57  7 yeni haber",
   "07.11 11:31:20  11 yeni haber",
   "07.11 11:15:58  7 yeni haber",
-  "07.11 11:04:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Aile Danışma Merkezleri Yönetmeliği Resmi Gazete'de",
-  "07.11 11:01:29  10 yeni haber"
+  "07.11 11:04:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Aile Danışma Merkezleri Yönetmeliği Resmi Gazete'de"
  ],
  "otomatik": false
 }
