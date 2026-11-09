@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "88126136d4fc": {
-   "id": "88126136d4fc",
-   "kaynak": "TRT Haber",
-   "baslik": "Turizmde 50 milyar liralık ara tatil hareketliliği bekleniyor",
-   "ozet": "Öğrencilerin 1620 Kasım'daki ara tatil döneminde yaklaşık 1,5 milyon kişinin seyahat etmesi, bu hareketliliğin 50 milyar liralık ekonomik hacim oluşturması bekleniyor.",
-   "link": "https://www.trthaber.com/haber/ekonomi/turizmde-50-milyar-liralik-ara-tatil-hareketliligi-bekleniyor-962434.html",
-   "zaman": "2026-11-06T12:10:00+03:00",
-   "kelimeler": [
-    "50",
-    "ara",
-    "bekle",
-    "harek",
-    "liral",
-    "milya",
-    "tatil",
-    "turiz"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dfb4d4dc2080"
-  },
-  "5e82298ff62a": {
-   "id": "5e82298ff62a",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da barajlardaki su seviyesi yükseldi! İSKİ doluluk oranlarını duyurdu: Son 10 yılın en yüksek seviyesi",
-   "ozet": "İstanbul'a su sağlayan barajlardaki ortalama doluluk oranı, geçen ay başlayan rekor miktardaki yağışların etkisiyle son 10 yılın aynı dönemine göre en yüksek seviyeyi görerek yüzde 61,5'e çıktı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-barajlardaki-su-seviyesi-yukseldi-iski-doluluk-oranlarini-duyurdu-son-10-yilin-en-yuksek-seviyesi-43368163",
-   "zaman": "2026-11-06T12:10:35+03:00",
-   "kelimeler": [
-    "10",
-    "baraj",
-    "dolul",
-    "duyur",
-    "iski",
-    "istan",
-    "oranl",
-    "seviy",
-    "su",
-    "yilin",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8f37819ab4f1": {
    "id": "8f37819ab4f1",
    "kaynak": "Hürriyet",
@@ -457,31 +413,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "2f339a356747": {
-   "id": "2f339a356747",
-   "kaynak": "AA",
-   "baslik": "Tarım ve Orman Bakanı Yumaklı: Gıda güvenilirliği bizim her zaman kırmızı çizgimiz olmuştur",
-   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, gıda güvenilirliğinin kırmızı çizgileri olduğunu belirterek, \"Hiç kimsenin size sunmuş olduğu ürünü belirttiğinden farklı bir şekilde satması makul karşılanamaz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakani-yumakli-gida-guvenilirligi-bizim-her-zaman-kirmizi-cizgimiz-olmustur/4113795",
-   "zaman": "2026-11-06T12:10:24+03:00",
-   "kelimeler": [
-    "bakan",
-    "bizim",
-    "cizgi",
-    "gida",
-    "guven",
-    "her",
-    "kirmi",
-    "olmus",
-    "orman",
-    "tarim",
-    "yumak",
-    "zaman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "acdda2da3713"
   },
   "4e63c7313628": {
    "id": "4e63c7313628",
@@ -21356,7 +21287,10 @@
     "sorum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c68fb25ad620": {
    "id": "c68fb25ad620",
@@ -22665,7 +22599,10 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7adef420bc61": {
    "id": "7adef420bc61",
@@ -23467,7 +23404,8 @@
     "zongu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4c9522ce9a7c": {
    "id": "4c9522ce9a7c",
@@ -24081,9 +24019,273 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "3f8164b02a2a"
+  },
+  "bcc468dd5336": {
+   "id": "bcc468dd5336",
+   "kaynak": "AA",
+   "baslik": "Zonguldak'ta kışladan dönüştürülen okul, mesleki eğitim geleneğini yaşatıyor",
+   "ozet": "Zonguldak'ta 1924 yılında \"Yüksek Maden Mühendisliği Mektebi\" adıyla eğitim hayatına başlayan Zonguldak Mesleki ve Teknik Anadolu Lisesi, bir asrı aşan köklü geçmişiyle mesleki eğitim geleneğini sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/dosya-haber/zonguldakta-kisladan-donusturulen-okul-mesleki-egitim-gelenegini-yasatiyor/4116552",
+   "zaman": "2026-11-09T11:04:25+03:00",
+   "kelimeler": [
+    "donus",
+    "egiti",
+    "gelen",
+    "kisla",
+    "mesle",
+    "okul",
+    "ta",
+    "yasat",
+    "zongu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3ab44b84141b"
+  },
+  "ed914663a891": {
+   "id": "ed914663a891",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünya liderleri COP31'de fidan dikecek",
+   "ozet": "11 Kasım Milli Ağaçlandırma Günü kapsamında Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31.",
+   "link": "https://www.trthaber.com/haber/gundem/dunya-liderleri-cop31de-fidan-dikecek-962667.html",
+   "zaman": "2026-11-09T11:47:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "dikec",
+    "dunya",
+    "fidan",
+    "lider"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "488eaabb546e": {
+   "id": "488eaabb546e",
+   "kaynak": "TRT Haber",
+   "baslik": "Müzekart, 350'den fazla müze ve ören yerini 300 liraya gezme imkanı sunuyor",
+   "ozet": "Kültür ve Turizm Bakanlığı, Türk vatandaşlarının bütçesini koruyan Müzekart uygulamasıyla Türkiye'nin dört bir yanındaki 350'den fazla müze ve ören yerini bir yıl boyunca 300 liraya gezme imkanı sunuyor.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/muzekart-350den-fazla-muze-ve-oren-yerini-300-liraya-gezme-imkani-sunuyor-962668.html",
+   "zaman": "2026-11-09T11:55:00+03:00",
+   "kelimeler": [
+    "300",
+    "350",
+    "den",
+    "fazla",
+    "gezme",
+    "imkan",
+    "liray",
+    "muze",
+    "muzek",
+    "oren",
+    "sunuy",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0e9ed442aa89"
+  },
+  "1ce168d1df0e": {
+   "id": "1ce168d1df0e",
+   "kaynak": "TRT Haber",
+   "baslik": "COP31'de 7/24 sağlık hizmeti sunulacak",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31.",
+   "link": "https://www.trthaber.com/haber/gundem/cop31de-724-saglik-hizmeti-sunulacak-962669.html",
+   "zaman": "2026-11-09T11:59:00+03:00",
+   "kelimeler": [
+    "24",
+    "cop31",
+    "hizme",
+    "sagli",
+    "sunul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7180f73bb5fa": {
+   "id": "7180f73bb5fa",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş'ın golcüsü Dusan Vlahovic, Vincenzo Italiano ile yeniden çıkışa geçti",
+   "ozet": "Italiano'nun çalıştırdığı Fiorentina'da gösterdiği başarılı performansın ardından Juventus'ta umduğunu bulamayan Sırp santrfor, bu sezon Süper Lig'de forma giydiği 9 maçta 9 kez ağları havalandırdı.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktasin-golcusu-dusan-vlahovic-vincenzo-italiano-ile-yeniden-cikisa-gecti/4116640",
+   "zaman": "2026-11-09T12:00:33+03:00",
+   "kelimeler": [
+    "besik",
+    "cikis",
+    "dusan",
+    "gecti",
+    "golcu",
+    "in",
+    "itali",
+    "vince",
+    "vlaho",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9e5ceec70c7a": {
+   "id": "9e5ceec70c7a",
+   "kaynak": "Hürriyet",
+   "baslik": "İçişleri Bakanlığı duyurdu | 23 ilde siber suç operasyonu: 367 tutuklama",
+   "ozet": "İçişleri Bakanlığı, son 5 günde siber suçlara yönelik 23 il merkezli düzenlenen operasyonlarda 521 şüphelinin yakalandığını açıkladı. Şüphelilerden 367’si tutuklanırken, 114'ü hakkında adli kontrol kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-23-ilde-siber-suc-operasyonu-367-tutuklama-43371323",
+   "zaman": "2026-11-09T12:04:00+03:00",
+   "kelimeler": [
+    "23",
+    "367",
+    "bakan",
+    "duyur",
+    "icisl",
+    "ilde",
+    "opera",
+    "siber",
+    "suc",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c1896d2a279": {
+   "id": "4c1896d2a279",
+   "kaynak": "Hürriyet",
+   "baslik": "Mustafa Sarıgül'ün korumasının ek ifadesi ortaya çıktı! Oğul Sarıgül hakkında çarpıcı iddia!",
+   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturmada Mustafa Sarıgül'e yönelik cinsel saldırı iddiası gündem olmuştu. Sarıgül'ün eski koruması B.Ö.D.'nin ek ifadesi ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mustafa-sarigulun-korumasinin-ek-ifadesi-ortaya-cikti-43371293",
+   "zaman": "2026-11-09T12:05:10+03:00",
+   "kelimeler": [
+    "carpi",
+    "cikti",
+    "ek",
+    "hakki",
+    "iddia",
+    "ifade",
+    "korum",
+    "musta",
+    "ogul",
+    "ortay",
+    "sarig",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f0fde9b74a62": {
+   "id": "f0fde9b74a62",
+   "kaynak": "TRT Haber",
+   "baslik": "Tasfiye edilen fonlarda 31,6 milyar liralık 'gönüllü iade'",
+   "ozet": "Tasarruf Mevduatı Sigorta Fonu TMSF, tasfiye edilen yatırım fonları ve bu fonların yönlendirildiği hisse senetlerindeki şüpheli işlemlerden elde edilen fahiş kazançlara yönelik yürütülen süreçte, şu ana kadar 31,6 milyar liranın gönüllü iade yoluyla tahsil edildiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/tasfiye-edilen-fonlarda-316-milyar-liralik-gonullu-iade-962670.html",
+   "zaman": "2026-11-09T12:07:00+03:00",
+   "kelimeler": [
+    "31",
+    "edile",
+    "fonla",
+    "gonul",
+    "iade",
+    "liral",
+    "milya",
+    "tasfi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "39c0b718b863": {
+   "id": "39c0b718b863",
+   "kaynak": "Hürriyet",
+   "baslik": "Şantiyede can pazarı: Kamyonla duvar arasına sıkışan işçi hayatını kaybetti",
+   "ozet": "İstanbul’da meydana gelen kazada, inşaat sahasındaki kamyonun sıkıştırdığı işçi Kenan Özkan ağır yaralandı. Olay yerindeki ilk müdahalenin ardından hastaneye ulaştırılan talihsiz işçi doktorların tüm çabasına rağmen vefat etti; şüpheli şoför hakkında adli işlem başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/santiyede-can-pazari-kamyonla-duvar-arasina-sikisan-isci-hayatini-kaybetti-43371329",
+   "zaman": "2026-11-09T12:08:36+03:00",
+   "kelimeler": [
+    "arasi",
+    "can",
+    "duvar",
+    "hayat",
+    "isci",
+    "kamyo",
+    "kaybe",
+    "pazar",
+    "santi",
+    "sikis"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b89df23e70db": {
+   "id": "b89df23e70db",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'deki hükümet: Çadırların göçük altında kalması, İsrail soykırımı ve ablukasının kaçınılmaz sonucu",
+   "ozet": "Gazze'deki hükümet, Deyr elBelah kentinde yerinden edilmiş Filistinlilerin kaldığı çadırların üzerine kum ve kaya kütlelerinin çökmesi sonucu yaşanan can kayıplarının, İsrail'in sürdürdüğü soykırım ve uyguladığı ağır ablukanın \"kaçınılmaz sonucu\" olduğunu belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzedeki-hukumet-cadirlarin-gocuk-altinda-kalmasi-israil-soykirimi-ve-ablukasinin-kacinilmaz-sonucu-962671.html",
+   "zaman": "2026-11-09T12:12:00+03:00",
+   "kelimeler": [
+    "abluk",
+    "altin",
+    "cadir",
+    "deki",
+    "gazze",
+    "gocuk",
+    "hukum",
+    "israi",
+    "kacin",
+    "kalma",
+    "sonuc",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1326436ec15"
+  },
+  "dda7bb73932d": {
+   "id": "dda7bb73932d",
+   "kaynak": "AA",
+   "baslik": "Gazze'deki hükümet: Çadırların göçük altında kalması, İsrail soykırımı ve ablukasının kaçınılmaz sonucu",
+   "ozet": "Gazze'deki hükümet, Deyr el-Belah'ta yerinden edilmiş Filistinlilerin kaldığı çadırların üzerine kum ve kaya kütlelerinin çökmesi sonucu yaşanan can kayıplarını, İsrail'in soykırım ve ağır ablukasının \"kaçınılmaz sonucu\" olarak nitelendirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-hukumet-cadirlarin-gocuk-altinda-kalmasi-israil-soykirimi-ve-ablukasinin-kacinilmaz-sonucu/4116663",
+   "zaman": "2026-11-09T12:12:11+03:00",
+   "kelimeler": [
+    "abluk",
+    "altin",
+    "cadir",
+    "deki",
+    "gazze",
+    "gocuk",
+    "hukum",
+    "israi",
+    "kacin",
+    "kalma",
+    "sonuc",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1326436ec15"
+  },
+  "b93e622504f1": {
+   "id": "b93e622504f1",
+   "kaynak": "NTV",
+   "baslik": "COP31 Antalya'da başladı. Bakan Kurum: \"Bugüne hazırlanmak için büyük mücadele verdik\"",
+   "ozet": "COP31 İklim Zirvesi Antalya'da başladı. Genel Kurul açılışında konuşan Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"Krizlerin birbirini büyüttüğü çağda çözüm sağlamalıyız.\" mesajını verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/cop31-antalyada-basladi-bakan-kurum-bugune-hazirlanmak-icin-buyuk-mucadele-verdik-1750093",
+   "zaman": "2026-11-09T12:14:34+03:00",
+   "kelimeler": [
+    "antal",
+    "bakan",
+    "basla",
+    "bugun",
+    "buyuk",
+    "cop31",
+    "hazir",
+    "kurum",
+    "mucad",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 12:16:50  8 yeni haber",
   "09.11 12:01:38  10 yeni haber",
   "09.11 11:46:09  10 yeni haber",
   "09.11 11:33:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Ekimde en yüksek aylık reel getiri mevduat faizinde oldu",
@@ -24282,8 +24484,7 @@
   "07.11 07:46:01  1 yeni haber",
   "07.11 07:31:10  2 yeni haber",
   "07.11 07:16:07  10 yeni haber",
-  "07.11 07:03:06  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İçişleri Bakanı Mustafa Çiftçi: “Ruhsatlı silahı olana çelik kasa mecb",
-  "07.11 06:01:31  1 yeni haber"
+  "07.11 07:03:06  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İçişleri Bakanı Mustafa Çiftçi: “Ruhsatlı silahı olana çelik kasa mecb"
  ],
  "otomatik": false
 }
