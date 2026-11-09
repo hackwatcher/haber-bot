@@ -1,79 +1,5 @@
 {
  "haberler": {
-  "fd00d66f07c7": {
-   "id": "fd00d66f07c7",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti-43368709",
-   "zaman": "2026-11-06T17:35:00+03:00",
-   "kelimeler": [
-    "basba",
-    "cumhu",
-    "erdog",
-    "etti",
-    "hamid",
-    "kabul",
-    "malez",
-    "yardi",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a30c7f6d38a2"
-  },
-  "2513e3f695af": {
-   "id": "2513e3f695af",
-   "kaynak": "AA",
-   "baslik": "COP31 alanı ve yapıları Antalya'nın marka değerini güçlendirecek",
-   "ozet": "Türkiye'nin ev sahipliğinde gerçekleştirilecek COP31 için hazırlanan alan, yapılar ve ulaşım ağlarının, 12 günlük organizasyon sonrası Antalya'nın marka değerine katkı sunmaya devam edeceği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-alani-ve-yapilari-antalyanin-marka-degerini-guclendirecek/4114462",
-   "zaman": "2026-11-06T17:39:17+03:00",
-   "kelimeler": [
-    "alani",
-    "antal",
-    "cop31",
-    "deger",
-    "gucle",
-    "marka",
-    "nin",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "29daedaf8c9c": {
-   "id": "29daedaf8c9c",
-   "kaynak": "TRT Haber",
-   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'ndaki Keşm Adası'nda ABD'ye ait MQ1 tipi İHA düşürüldü",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndaki Keşm Adası üzerinde uçan ABD'ye ait MQ1 tipi insansız hava aracının İHA hava savunma sistemleri tarafından düşürüldüğünü iddia etti.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazindaki-kesm-adasinda-abdye-ait-mq-1-tipi-iha-dusuruldu-962455.html",
-   "zaman": "2026-11-06T17:47:00+03:00",
-   "kelimeler": [
-    "abd",
-    "adasi",
-    "ait",
-    "bogaz",
-    "devri",
-    "dusur",
-    "hurmu",
-    "iha",
-    "iran",
-    "kesm",
-    "mq1",
-    "muhaf",
-    "nda",
-    "ndaki",
-    "tipi",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "102f04d56ace"
-  },
   "a644988e1cc6": {
    "id": "a644988e1cc6",
    "kaynak": "AA",
@@ -250,26 +176,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "9d001438f79d": {
-   "id": "9d001438f79d",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanı Fidan, KKTC Dışişleri Bakanı Ertuğruloğlu ile Lefkoşa'da görüştü",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Dışişleri Bakanı Tahsin Ertuğruloğlu ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-kktc-disisleri-bakani-ertugruloglu-ile-lefkosada-gorustu/4114463",
-   "zaman": "2026-11-06T17:39:28+03:00",
-   "kelimeler": [
-    "bakan",
-    "disis",
-    "ertug",
-    "fidan",
-    "gorus",
-    "kktc",
-    "lefko"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "93dc11b6ce4f"
   },
   "02bac6979322": {
    "id": "02bac6979322",
@@ -17858,7 +17764,10 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "ed9569ed4921": {
    "id": "ed9569ed4921",
@@ -25730,9 +25639,103 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3bad6181831f"
+  },
+  "155a766ac2ac": {
+   "id": "155a766ac2ac",
+   "kaynak": "AA",
+   "baslik": "DSİ'nin Agropi Io Yapay Zeka Destekli Sulama Otomasyonu Sistemi COP31'de tanıtıldı",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ev sahipliğinde Antalya'da düzenlenen COP31'de, Devlet Su İşleri Genel Müdürlüğünün (DSİ) Agropi Io Yapay Zeka Destekli Sulama Otomasyonu Sistemi tanıtıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/dsinin-agropi-io-yapay-zeka-destekli-sulama-otomasyonu-sistemi-cop31de-tanitildi/4117476",
+   "zaman": "2026-11-09T17:21:44+03:00",
+   "kelimeler": [
+    "agrop",
+    "cop31",
+    "deste",
+    "dsi",
+    "io",
+    "nin",
+    "otoma",
+    "siste",
+    "sulam",
+    "tanit",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f5209482b8f": {
+   "id": "5f5209482b8f",
+   "kaynak": "AA",
+   "baslik": "BM: 2025'te fırtına, sel ve diğer afetler nedeniyle yaklaşık 29,9 milyon kişi yerinden edildi",
+   "ozet": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), 2025'te fırtına, sel ve diğer afetler nedeniyle yaklaşık 29,9 milyon yerinden edilmenin kaydedildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-2025te-firtina-sel-ve-diger-afetler-nedeniyle-yaklasik-29-9-milyon-kisi-yerinden-edildi/4117477",
+   "zaman": "2026-11-09T17:22:17+03:00",
+   "kelimeler": [
+    "2025",
+    "29",
+    "afetl",
+    "bm",
+    "diger",
+    "edild",
+    "firti",
+    "kisi",
+    "milyo",
+    "neden",
+    "sel",
+    "te",
+    "yakla",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62ef4b825474": {
+   "id": "62ef4b825474",
+   "kaynak": "Hürriyet",
+   "baslik": "Konya Tropikal Kelebek Bahçesi, COP31’de dünyaya tanıtılıyor",
+   "ozet": "Selçuklu Belediyesi, Türkiye’nin ev sahipliğinde Antalya’da gerçekleştirilen COP31 İklim Zirvesi’nde Konya’nın en önemli turizm değerlerinden olan ve aynısı Antalya’da zirve alanında hazırlanan Konya Tropikal Kelebek Bahçesi’ni dünyaya tanıtıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/konya-tropikal-kelebek-bahcesi-cop31de-dunyaya-tanitiliyor-43371875",
+   "zaman": "2026-11-09T17:26:46+03:00",
+   "kelimeler": [
+    "bahce",
+    "cop31",
+    "dunya",
+    "keleb",
+    "konya",
+    "tanit",
+    "tropi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0862c4cd96f5"
+  },
+  "0ba1b5230ae0": {
+   "id": "0ba1b5230ae0",
+   "kaynak": "AA",
+   "baslik": "İsrail askerleri, Suriye'nin Kuneytra ilinde gazetecilere ateş açtı, 1 kişi yaralandı",
+   "ozet": "İsrail askerlerinin Suriye'nin güneyindeki Kuneytra ilinin kırsalında baskını görüntüleyen bir grup gazeteciye ateş açtığı, 1 kişinin yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-suriyenin-kuneytra-ilinde-gazetecilere-ates-acti-1-kisi-yaralandi/4117497",
+   "zaman": "2026-11-09T17:34:47+03:00",
+   "kelimeler": [
+    "acti",
+    "asker",
+    "ates",
+    "gazet",
+    "ilind",
+    "israi",
+    "kisi",
+    "kuney",
+    "nin",
+    "suriy",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 17:48:46  3 yeni haber",
   "09.11 17:35:22  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Afrika'da ilkel bir yöntemle maden kazan insanlar kameraya yansıdı.",
   "09.11 17:31:58  2 yeni haber",
   "09.11 17:16:03  5 yeni haber",
@@ -25931,8 +25934,7 @@
   "07.11 13:48:51  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Cemal Enginyurt :",
   "07.11 13:46:10  3 yeni haber",
   "07.11 13:32:01  6 yeni haber",
-  "07.11 13:16:01  3 yeni haber",
-  "07.11 13:01:27  3 yeni haber"
+  "07.11 13:16:01  3 yeni haber"
  ],
  "otomatik": false
 }
