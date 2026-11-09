@@ -1,94 +1,5 @@
 {
  "haberler": {
-  "2695144351ba": {
-   "id": "2695144351ba",
-   "kaynak": "AA",
-   "baslik": "ABD Başkanı Trump, İran'la görüşmelerin sürdüğünü belirtti",
-   "ozet": "ABD Başkanı Donald Trump, İran'la görüşmelerin sürdüğünü belirterek, \"İran konusunda çok iyi gidiyoruz. İran ile görüşüyoruz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-gorusmelerin-surdugunu-belirtti/4114761",
-   "zaman": "2026-11-06T23:25:09+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "belir",
-    "gorus",
-    "iran",
-    "la",
-    "surdu",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet",
-    "NTV"
-   ]
-  },
-  "6453dedc496b": {
-   "id": "6453dedc496b",
-   "kaynak": "TRT Haber",
-   "baslik": "İşgalci İsrail, Filistin topraklarında yetiştirdiği hurmaları kendi ürünü olarak satıyor",
-   "ozet": "İşgal altındaki Batı Şeria'daki yetiştirilen milyonlarca dolarlık organik hurmanın, son 8 yılda Avustralya'ya \"İsrail ürünü\" etiketiyle gönderildiği ortaya çıktı. İncelenen 132 tarım ürünü sevkiyatının 85'inin yasa dışı yerleşimlerden geldiği belirlendi.",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-filistin-topraklarinda-yetistirdigi-hurmalari-kendi-urunu-olarak-satiyor-962476.html",
-   "zaman": "2026-11-06T23:21:00+03:00",
-   "kelimeler": [
-    "filis",
-    "hurma",
-    "isgal",
-    "israi",
-    "kendi",
-    "satiy",
-    "topra",
-    "urunu",
-    "yetis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9f70b58e67d4": {
-   "id": "9f70b58e67d4",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti/4114762",
-   "zaman": "2026-11-06T23:27:29+03:00",
-   "kelimeler": [
-    "basba",
-    "cumhu",
-    "erdog",
-    "etti",
-    "hamid",
-    "kabul",
-    "malez",
-    "yardi",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a30c7f6d38a2"
-  },
-  "b6cf0563acd8": {
-   "id": "b6cf0563acd8",
-   "kaynak": "AA",
-   "baslik": "Üsküp'teki Osmanlı mirası Taşköprü dekoratif ve mimari aydınlatmaya kavuştu",
-   "ozet": "Kuzey Makedonya'nın başkenti Üsküp'ün simge yapılarından tarihi Taşköprü'de Esenler Belediyesi ile Halkbank'ın destekleriyle gerçekleştirilen aydınlatma çalışmalarının tamamlanması vesilesiyle tören düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/kultur/uskupteki-osmanli-mirasi-taskopru-dekoratif-ve-mimari-aydinlatmaya-kavustu/4114764",
-   "zaman": "2026-11-06T23:29:32+03:00",
-   "kelimeler": [
-    "aydin",
-    "dekor",
-    "kavus",
-    "mimar",
-    "miras",
-    "osman",
-    "tasko",
-    "teki",
-    "uskup"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "239e0ee0f745": {
    "id": "239e0ee0f745",
    "kaynak": "BBC Türkçe",
@@ -14880,7 +14791,8 @@
     "super"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "4b03d50a5887": {
    "id": "4b03d50a5887",
@@ -24146,7 +24058,10 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1799027b6448": {
    "id": "1799027b6448",
@@ -24494,7 +24409,10 @@
     "yi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d2a80afbe2bf": {
    "id": "d2a80afbe2bf",
@@ -24519,7 +24437,10 @@
     "sorum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "329d9cdc3be5": {
    "id": "329d9cdc3be5",
@@ -25388,9 +25309,182 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "746395089848"
+  },
+  "344d147eafea": {
+   "id": "344d147eafea",
+   "kaynak": "AA",
+   "baslik": "Sağlık Bakanı Memişoğlu, COP31'de \"Üst Düzey Yuvarlak Masa Toplantısı\"na katıldı",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında düzenlenen Üst Düzey Yuvarlak Masa Toplantısı'na katıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cop31de-ust-duzey-yuvarlak-masa-toplantisina-katildi/4117540",
+   "zaman": "2026-11-09T18:16:58+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "duzey",
+    "katil",
+    "masa",
+    "memis",
+    "na",
+    "sagli",
+    "topla",
+    "ust",
+    "yuvar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19609f61c50a": {
+   "id": "19609f61c50a",
+   "kaynak": "TRT Haber",
+   "baslik": "Suudi Arabistan: DoğuBatı Petrol Boru Hattı'nın hedef alınması sonucu yangın çıktı",
+   "ozet": "Suudi Arabistan Enerji Bakanlığı, Medine bölgesinde DoğuBatı Petrol Boru Hattı'nın hedef alınması sonucu çıkan yangının kontrol altına alınarak söndürüldüğünü, olayda ölen ya da yaralanan olmadığını ve hattın operasyonel faaliyetlerinin kesintiye uğramadığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-dogu-bati-petrol-boru-hattinin-hedef-alinmasi-sonucu-yangin-cikti-962724.html",
+   "zaman": "2026-11-09T23:08:00+03:00",
+   "kelimeler": [
+    "alinm",
+    "arabi",
+    "boru",
+    "cikti",
+    "dogub",
+    "hatti",
+    "hedef",
+    "nin",
+    "petro",
+    "sonuc",
+    "suudi",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3b67c0d241ac"
+  },
+  "15feae97c94f": {
+   "id": "15feae97c94f",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Meclis Başkanı: İsrail, ABD'yi İran'la sonu olmayan bir savaşa sürüklemeye çalışıyor",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, İsrail'in ABD'yi İran ile sonu gelmeyen bir savaşa çekmeye çalıştığını belirterek, Washington yönetimine \"İsrail önce gelir\" politikasını terk etme çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-israil-abdyi-iranla-sonu-olmayan-bir-savasa-suruklemeye-calisiyor-962725.html",
+   "zaman": "2026-11-09T23:14:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "calis",
+    "iran",
+    "israi",
+    "la",
+    "mecli",
+    "olmay",
+    "savas",
+    "sonu",
+    "suruk",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8ae5a56898b9"
+  },
+  "6f6f7eec930e": {
+   "id": "6f6f7eec930e",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa: Marketlere düzenlenen siber saldırının sorumluluğu İran Devrim Muhafızları'na ait",
+   "ozet": "Fransa Dışişleri Bakanı JeanNoel Barrot, ekimde Fransa'da yüzlerce market zincirini hedef alan siber saldırının sorumlusunun İran Devrim Muhafızları Ordusu olduğunu söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/fransa-marketlere-duzenlenen-siber-saldirinin-sorumlulugu-iran-devrim-muhafizlarina-ait-962726.html",
+   "zaman": "2026-11-09T23:18:00+03:00",
+   "kelimeler": [
+    "ait",
+    "devri",
+    "duzen",
+    "frans",
+    "iran",
+    "marke",
+    "muhaf",
+    "na",
+    "saldi",
+    "siber",
+    "sorum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d2a80afbe2bf"
+  },
+  "b168441c6331": {
+   "id": "b168441c6331",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 9 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1750166",
+   "zaman": "2026-11-09T23:18:10+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "f41cc62abe4e": {
+   "id": "f41cc62abe4e",
+   "kaynak": "AA",
+   "baslik": "AB, Ukrayna Askeri Yardım Misyonu'nun görev süresini 2 yıl uzattı",
+   "ozet": "Avrupa Birliği (AB) ülkeleri, Ukraynalı askerlere eğitim ve danışmanlık sağlayan AB Ukrayna Askeri Yardım Misyonu'nun (EUMAM Ukrayna) görev süresini 2 yıl uzatma kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-askeri-yardim-misyonunun-gorev-suresini-2-yil-uzatti/4117978",
+   "zaman": "2026-11-09T23:18:42+03:00",
+   "kelimeler": [
+    "ab",
+    "asker",
+    "gorev",
+    "misyo",
+    "nun",
+    "sures",
+    "ukray",
+    "uzatt",
+    "yardi",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba45dc4ee70d": {
+   "id": "ba45dc4ee70d",
+   "kaynak": "NTV",
+   "baslik": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 9 Kasım 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
+   "ozet": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1750167",
+   "zaman": "2026-11-09T23:19:44+03:00",
+   "kelimeler": [
+    "2026",
+    "bilet",
+    "buyuk",
+    "cikti",
+    "ekran",
+    "ikram",
+    "kasim",
+    "kazan",
+    "mpi",
+    "numar",
+    "on",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2aec6aaaceb5"
   }
  },
  "kayit": [
+  "09.11 23:31:29  3 yeni haber",
   "09.11 23:16:05  2 yeni haber",
   "09.11 22:46:09  7 yeni haber",
   "09.11 22:17:20  1 yeni haber",
@@ -25589,8 +25683,7 @@
   "07.11 18:46:01  3 yeni haber",
   "07.11 18:31:11  1 yeni haber",
   "07.11 18:16:16  6 yeni haber",
-  "07.11 18:01:27  2 yeni haber",
-  "07.11 17:46:24  5 yeni haber"
+  "07.11 18:01:27  2 yeni haber"
  ],
  "otomatik": false
 }
