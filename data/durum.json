@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "09ab762e124b": {
-   "id": "09ab762e124b",
-   "kaynak": "NTV",
-   "baslik": "Birçok şehirde yılın ilk karı yağdı",
-   "ozet": "Meteorolojinin kar ve sağanak uyarılarının ardından birçok ile yılın ilk karı yağdı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bircok-sehirde-yilin-ilk-kari-yagdi-1749736",
-   "zaman": "2026-11-07T02:19:10+03:00",
-   "kelimeler": [
-    "birco",
-    "ilk",
-    "kari",
-    "sehir",
-    "yagdi",
-    "yilin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "990d4c18f49f": {
-   "id": "990d4c18f49f",
-   "kaynak": "AA",
-   "baslik": "ABD'de Trump'ı \"öldürmekle tehdit ettiği\" gerekçesiyle Beyaz Saray yakınlarında 1 şüpheli gözaltına alındı",
-   "ozet": "ABD'de Beyaz Saray yakınlarında, Başkan Donald Trump'ı \"öldürmekle tehdit ettiği\" gerekçesiyle 1 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-trumpi-oldurmekle-tehdit-ettigi-gerekcesiyle-beyaz-saray-yakinlarinda-1-supheli-gozaltina-alindi/4114829",
-   "zaman": "2026-11-07T02:27:34+03:00",
-   "kelimeler": [
-    "abd",
-    "alind",
-    "beyaz",
-    "ettig",
-    "gerek",
-    "gozal",
-    "oldur",
-    "saray",
-    "suphe",
-    "tehdi",
-    "trump",
-    "yakin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5212636da28a": {
    "id": "5212636da28a",
    "kaynak": "AA",
@@ -25278,7 +25235,8 @@
     "ulke"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "a415667d6502": {
    "id": "a415667d6502",
@@ -25339,9 +25297,50 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d5380eb23a66": {
+   "id": "d5380eb23a66",
+   "kaynak": "AA",
+   "baslik": "\"Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke Tecrübeleri\" paneli düzenlendi",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlıkta adalet, insanın en çaresiz anında da hakkını korumayı gerektirir. Gazze'de bir çocuğun temiz suya, bir yaralının ilaca ve tedaviye erişmesi için hepimize görev düşüyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenlendi/4118026",
+   "zaman": "2026-11-10T00:31:10+03:00",
+   "kelimeler": [
+    "dayan",
+    "dinam",
+    "duzen",
+    "panel",
+    "sagli",
+    "siste",
+    "tecru",
+    "ulke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a148fa06e220"
+  },
+  "8f82eee4fb3d": {
+   "id": "8f82eee4fb3d",
+   "kaynak": "NTV",
+   "baslik": "ABD Başkanı Trump: Savaşın bitişine dair olumluyuz",
+   "ozet": "ABD Başkanı Donald Trump, Katar başbakanı El Sani ile görüştü. \"Görüşme mükemmel geçti, çatışmanın sona ermesine dair olumlu bir ivme görüyoruz.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-1750175",
+   "zaman": "2026-11-10T02:21:47+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "bitis",
+    "dair",
+    "oluml",
+    "savas",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 02:31:13  1 yeni haber",
   "10.11 02:15:59  2 yeni haber",
   "10.11 02:01:27  3 yeni haber",
   "10.11 01:16:17  1 yeni haber",
@@ -25540,8 +25539,7 @@
   "07.11 21:01:39  7 yeni haber",
   "07.11 20:46:13  2 yeni haber",
   "07.11 20:31:14  1 yeni haber",
-  "07.11 20:18:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
-  "07.11 20:16:02  3 yeni haber"
+  "07.11 20:18:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı"
  ],
  "otomatik": false
 }
