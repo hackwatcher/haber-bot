@@ -1,98 +1,5 @@
 {
  "haberler": {
-  "9a273eb4175d": {
-   "id": "9a273eb4175d",
-   "kaynak": "AA",
-   "baslik": "Tek mimari, altı bölge: Küresel İslamofobi'nin yapısal bir değerlendirmesi",
-   "ozet": "2025 yılında zihinlerdeki örtük İslamofobi ile açık şiddet arasındaki mesafe ortadan kalktı, tetikleyici bir olayın toplu cezalandırmaya dönüşmesi artık anlık işliyor.",
-   "link": "https://www.aa.com.tr/tr/analiz/tek-mimari-alti-bolge-kuresel-islamofobinin-yapisal-bir-degerlendirmesi/4113983",
-   "zaman": "2026-11-06T14:50:25+03:00",
-   "kelimeler": [
-    "alti",
-    "bolge",
-    "deger",
-    "islam",
-    "kures",
-    "mimar",
-    "nin",
-    "tek",
-    "yapis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5540cc8be50e": {
-   "id": "5540cc8be50e",
-   "kaynak": "AA",
-   "baslik": "Hindistan'ın Himalayalar bölgesindeki çığ felaketinde yaşamını yitirenlerin sayısı 7'ye çıktı",
-   "ozet": "Hindistan'ın Uttarakhand eyaletine bağlı Himalayalar bölgesinde meydana gelen çığ felaketinde yaşamını yitirenlerin sayısı 7'ye yükseldi, kayıp 1 kişi için arama kurtarma çalışmalarına devam ediliyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/hindistanin-himalayalar-bolgesindeki-cig-felaketinde-yasamini-yitirenlerin-sayisi-7ye-cikti/4113986",
-   "zaman": "2026-11-06T14:51:54+03:00",
-   "kelimeler": [
-    "bolge",
-    "cig",
-    "cikti",
-    "felak",
-    "himal",
-    "hindi",
-    "in",
-    "sayis",
-    "yasam",
-    "ye",
-    "yitir"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0f215ba35245"
-  },
-  "9154d774c703": {
-   "id": "9154d774c703",
-   "kaynak": "TRT Haber",
-   "baslik": "İrlanda'da epostayla bombalı saldırı tehdidi alan 4 medya şirketinden 3'ü binalarını boşalttı",
-   "ozet": "İrlanda'da epostayla bombalı saldırı tehdidi alan, aralarında kamu yayıncısı RTE'nin de bulunduğu 4 medya şirketinden 3'ü binalarını tahliye etti.",
-   "link": "https://www.trthaber.com/haber/dunya/irlandada-e-postayla-bombali-saldiri-tehdidi-alan-4-medya-sirketinden-3u-binalarini-bosaltti-962443.html",
-   "zaman": "2026-11-06T14:52:00+03:00",
-   "kelimeler": [
-    "alan",
-    "binal",
-    "bomba",
-    "bosal",
-    "epost",
-    "irlan",
-    "medya",
-    "saldi",
-    "sirke",
-    "tehdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "020d708be8f0": {
-   "id": "020d708be8f0",
-   "kaynak": "AA",
-   "baslik": "İrlanda'da e-postayla bombalı saldırı tehdidi alan 4 medya şirketinden 3'ü binalarını boşalttı",
-   "ozet": "İrlanda'da e-postayla bombalı saldırı tehdidi alan, aralarında kamu yayıncısı RTE'nin de bulunduğu 4 medya şirketinden 3'ü binalarını tahliye etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/irlandada-e-postayla-bombali-saldiri-tehdidi-alan-4-medya-sirketinden-3u-binalarini-bosaltti/4113989",
-   "zaman": "2026-11-06T14:53:06+03:00",
-   "kelimeler": [
-    "alan",
-    "binal",
-    "bomba",
-    "bosal",
-    "irlan",
-    "medya",
-    "posta",
-    "saldi",
-    "sirke",
-    "tehdi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9154d774c703"
-  },
   "c8c12c0c3004": {
    "id": "c8c12c0c3004",
    "kaynak": "TRT Haber",
@@ -13810,7 +13717,8 @@
    "fb_id": null,
    "fb_reels_id": "1640298031224708",
    "slayt": 4,
-   "kanca": "VAN'DA TRAFİK KAZASI"
+   "kanca": "VAN'DA TRAFİK KAZASI",
+   "diger_kaynaklar": []
   },
   "03d04a434ec1": {
    "id": "03d04a434ec1",
@@ -24398,7 +24306,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "5826c9bfddea": {
@@ -24834,9 +24743,145 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4f97968d2327"
+  },
+  "65f1f206bfb2": {
+   "id": "65f1f206bfb2",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de demir çelik fabrikasında patlama: 6 ölü, 13 yaralı",
+   "ozet": "İzmirin sanayi merkezlerinden Aliağa ilçesinde faaliyet gösteren bir demir çelik fabrikasında henüz belirlenemeyen bir nedenle şiddetli bir patlama meydana geldi. Patlamada 6 kişi hayatını kaybetti, 13 kişi de yaralandı. Enkaz altında kalan 8 kişiyi arama çalışmaları sürüyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-demir-celik-fabrikasinda-patlama-6-olu-13-yarali-962677.html",
+   "zaman": "2026-11-09T12:41:00+03:00",
+   "kelimeler": [
+    "13",
+    "celik",
+    "demir",
+    "fabri",
+    "izmir",
+    "olu",
+    "patla",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f97968d2327"
+  },
+  "dc72c40ab4bb": {
+   "id": "dc72c40ab4bb",
+   "kaynak": "AA",
+   "baslik": "Anadolu Ajansı, COP31 kapsamında \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" paneli düzenleyecek",
+   "ozet": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" başlıklı panel, 14 Kasım Cumartesi günü Antalya'da düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/anadolu-ajansi-cop31-kapsaminda-iklim-nesli-genclik-egitim-ve-medyanin-gucu-paneli-duzenleyecek/4117187",
+   "zaman": "2026-11-09T13:53:42+03:00",
+   "kelimeler": [
+    "ajans",
+    "anado",
+    "cop31",
+    "duzen",
+    "egiti",
+    "gencl",
+    "gucu",
+    "iklim",
+    "kapsa",
+    "medya",
+    "nesli",
+    "panel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63b5a7d99d15": {
+   "id": "63b5a7d99d15",
+   "kaynak": "Hürriyet",
+   "baslik": "111. Dönem Kaymakamlar Kurası Töreni | Cumhurbaşkanı Erdoğan’dan önemli açıklamalar",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 111. Dönem Kaymakamlar Kurası Töreni'nde açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/111-donem-kaymakamlar-kurasi-toreni-cumhurbaskani-erdogandan-onemli-aciklamalar-43371450",
+   "zaman": "2026-11-09T14:33:00+03:00",
+   "kelimeler": [
+    "111",
+    "acikl",
+    "cumhu",
+    "dan",
+    "donem",
+    "erdog",
+    "kayma",
+    "kuras",
+    "oneml",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb249c8fdd87": {
+   "id": "eb249c8fdd87",
+   "kaynak": "Hürriyet",
+   "baslik": "Yasa dışı bahis sitelerine banka hesabı temin eden 25 şüpheliye operasyon",
+   "ozet": "Beykoz Cumhuriyet Başsavcılığınca yasa dışı bahis sitelerine banka hesabı temin ederek para transferine aracılık ettikleri belirlenen 25 zanlının yakalanmasına yönelik operasyon yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-sitelerine-banka-hesabi-temin-eden-25-supheliye-operasyon-43371575",
+   "zaman": "2026-11-09T14:35:23+03:00",
+   "kelimeler": [
+    "25",
+    "bahis",
+    "banka",
+    "disi",
+    "eden",
+    "hesab",
+    "opera",
+    "sitel",
+    "suphe",
+    "temin",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cb27767300c5"
+  },
+  "a546e9284dbf": {
+   "id": "a546e9284dbf",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Sözcüsü Çelik'ten, İzmir'deki patlamada hayatını kaybedenler için başsağlığı mesajı",
+   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, İzmir'in Aliağa ilçesinde bir fabrikada meydana gelen patlamada hayatını kaybedenlere Allah'tan rahmet, yaralılara şifa diledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-izmirdeki-patlamada-hayatini-kaybedenler-icin-bassagligi-mesaji-43371581",
+   "zaman": "2026-11-09T14:40:53+03:00",
+   "kelimeler": [
+    "ak",
+    "bassa",
+    "celik",
+    "deki",
+    "hayat",
+    "izmir",
+    "kaybe",
+    "mesaj",
+    "parti",
+    "patla",
+    "sozcu",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2771c50fa328"
+  },
+  "3bc7dcd94ec4": {
+   "id": "3bc7dcd94ec4",
+   "kaynak": "NTV",
+   "baslik": "Bir anne tüm dünyayı değiştirebilir: \"Oğlum kazanmadan gelme\"",
+   "ozet": "Zübeyde Hanım, oğlundan haber alamadığı ve onu cepheye uğurladığı günlerde büyük endişeler yaşadı. Zübeyde Hanım’ın Atatürk’le kurduğu özel anne-oğul bağı ve yaşam öyküsü...",
+   "link": "https://www.ntv.com.tr/turkiye/video-bir-anne-tum-dunyayi-degistirebilir-oglum-kazanmadan-gelme-1750123",
+   "zaman": "2026-11-09T14:49:23+03:00",
+   "kelimeler": [
+    "anne",
+    "degis",
+    "dunya",
+    "gelme",
+    "kazan",
+    "oglum",
+    "tum"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "09.11 14:53:55  3 yeni haber",
   "09.11 14:46:03  3 yeni haber",
   "09.11 14:31:26  5 yeni haber",
   "09.11 14:17:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Öldürdüğü oğlu için \"terör örgütüne katıldı\" ihbarı yapmış",
@@ -25035,8 +25080,7 @@
   "07.11 11:04:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Aile Danışma Merkezleri Yönetmeliği Resmi Gazete'de",
   "07.11 11:01:29  10 yeni haber",
   "07.11 10:46:23  5 yeni haber",
-  "07.11 10:31:13  4 yeni haber",
-  "07.11 10:16:07  3 yeni haber"
+  "07.11 10:31:13  4 yeni haber"
  ],
  "otomatik": false
 }
