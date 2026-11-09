@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "0c3706ba1cbd": {
-   "id": "0c3706ba1cbd",
-   "kaynak": "NTV",
-   "baslik": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
-   "ozet": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1749723",
-   "zaman": "2026-11-06T21:02:36+03:00",
-   "kelimeler": [
-    "2026",
-    "28",
-    "agust",
-    "bilet",
-    "buyuk",
-    "cikti",
-    "ekran",
-    "ikram",
-    "kazan",
-    "mpi",
-    "numar",
-    "on",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "engelli",
-   "oncelikli": true
-  },
-  "815e93f0fbe9": {
-   "id": "815e93f0fbe9",
-   "kaynak": "Hürriyet",
-   "baslik": "Küresel Yol Başarı Ödülleri'nde Türkiye’ye 2 ödül",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Amerika Birleşik Devletleri’nde düzenlenen Küresel Yol Başarı Ödülleri Töreni'nde Türkiye’ye verilen iki ödülü teslim aldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kuresel-yol-basari-odullerinde-turkiyeye-2-odul-43368885",
-   "zaman": "2026-11-06T21:11:00+03:00",
-   "kelimeler": [
-    "basar",
-    "kures",
-    "nde",
-    "odul",
-    "odull",
-    "turki",
-    "ye",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c71eefc6a64e": {
    "id": "c71eefc6a64e",
    "kaynak": "AA",
@@ -90,23 +44,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "8e63e9b19350"
-  },
-  "514404448824": {
-   "id": "514404448824",
-   "kaynak": "AA",
-   "baslik": "Kasımpaşa, deplasmandan 3 puanla ayrıldı",
-   "ozet": "Trendyol Süper Lig'in 11. haftasında Kasımpaşa, deplasmanda Gaziantep FK'yi 2-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/-kasimpasa-deplasmandan-3-puanla-ayrildi/4114663",
-   "zaman": "2026-11-06T21:02:20+03:00",
-   "kelimeler": [
-    "ayril",
-    "depla",
-    "kasim",
-    "puanl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "7ca8f5b0faf9": {
    "id": "7ca8f5b0faf9",
@@ -812,25 +749,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e1cb4d30c81c"
-  },
-  "fc87c16ee2c2": {
-   "id": "fc87c16ee2c2",
-   "kaynak": "AA",
-   "baslik": "Hakan Bahçetepe ve 8 sanığın yargılandığı davada karar",
-   "ozet": "Tutuklanmasının ardından Gaziosmanpaşa Belediye Başkanlığı görevinden uzaklaştırılan Hakan Bahçetepe ile 8 sanığın yargılandığı dava karara bağlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/hakan-bahcetepe-ve-8-sanigin-yargilandigi-davada-karar/4114668",
-   "zaman": "2026-11-06T21:18:47+03:00",
-   "kelimeler": [
-    "bahce",
-    "davad",
-    "hakan",
-    "karar",
-    "sanig",
-    "yargi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f82cdbce6798"
   },
   "aefebafcc9b6": {
    "id": "aefebafcc9b6",
@@ -24621,7 +24539,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8be0a599482a": {
    "id": "8be0a599482a",
@@ -25361,7 +25282,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "22f442e80a56": {
@@ -25450,9 +25372,197 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f1a289435174": {
+   "id": "f1a289435174",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: Gabar'da iki yeni sahada daha petrol keşfettik",
+   "ozet": "Cumhurbaşkanı Erdoğan, Gabar'da iki yeni sahada petrol keşfedildiğini belirterek \"2027 yılının ikinci yarısında bölgedeki günlük üretimimiz 100 bin varil barajını aşacak. Bugünkü karşılığı ekonomimize yılda 4,4 milyar dolarlık bir katkı demek\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-gabarda-iki-yeni-sahada-daha-petrol-kesfettik/4117359",
+   "zaman": "2026-11-09T16:14:35+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gabar",
+    "iki",
+    "kesfe",
+    "petro",
+    "sahad",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0e4aa6d4c202": {
+   "id": "0e4aa6d4c202",
+   "kaynak": "AA",
+   "baslik": "Von der Leyen, Romanya, Bulgaristan ve Türkiye'nin artan işbirliğini memnuniyetle karşıladığını belirtti",
+   "ozet": "AB Komisyonu Başkanı Ursula von der Leyen, Karadeniz'de artan gerginliğe dikkati çekerek, \"Romanya, Bulgaristan ve Türkiye arasındaki deniz güvenliği alanında artan işbirliğini memnuniyetle karşılıyorum.\" açıklamasında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/von-der-leyen-romanya-bulgaristan-ve-turkiyenin-artan-isbirligini-memnuniyetle-karsiladigini-belirtti/4117797",
+   "zaman": "2026-11-09T20:11:44+03:00",
+   "kelimeler": [
+    "artan",
+    "belir",
+    "bulga",
+    "der",
+    "isbir",
+    "karsi",
+    "leyen",
+    "memnu",
+    "nin",
+    "roman",
+    "turki",
+    "von"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3425e0e5da54": {
+   "id": "3425e0e5da54",
+   "kaynak": "AA",
+   "baslik": "Koç Holding'den 2026'nın 9 ayında 2,7 milyar dolarlık kombine bazda yatırım",
+   "ozet": "Koç Holding, 2026 yılının 9 ayında kombine bazda 2,7 milyar dolar yatırım gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/-koc-holdingden-2026nin-9-ayinda-2-7-milyar-dolarlik-kombine-bazda-yatirim/4117810",
+   "zaman": "2026-11-09T20:27:15+03:00",
+   "kelimeler": [
+    "2026",
+    "ayind",
+    "bazda",
+    "den",
+    "dolar",
+    "holdi",
+    "koc",
+    "kombi",
+    "milya",
+    "nin",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "419f60faa001": {
+   "id": "419f60faa001",
+   "kaynak": "TRT Haber",
+   "baslik": "Meta, Instagram'da gençlere yönelik hesap korumalarını genişletiyor",
+   "ozet": "ABD'li teknoloji şirketi Meta, yapay zeka destekli yaş tahmin teknolojisini küresel çapta genişleterek milyonlarca genci daha Instagram'daki \"Genç Hesabı\" korumalarına dahil edeceğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/meta-instagramda-genclere-yonelik-hesap-korumalarini-genisletiyor-962714.html",
+   "zaman": "2026-11-09T20:54:00+03:00",
+   "kelimeler": [
+    "gencl",
+    "genis",
+    "hesap",
+    "insta",
+    "korum",
+    "meta",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab89b563fc77"
+  },
+  "b29fc8d4a41b": {
+   "id": "b29fc8d4a41b",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Nijer Cumhurbaşkanı ile görüştü",
+   "ozet": "Cumhurbaşkanı Erdoğan, Nijer Cumhurbaşkanı Tchiani ile telefonda görüştü. Görüşmede, Türkiye-Nijer ikili ilişkileri ile bölgesel konular ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-ile-gorustu-43372062",
+   "zaman": "2026-11-09T20:55:12+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gorus",
+    "nijer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "489385858d01"
+  },
+  "db4b2d0a04cc": {
+   "id": "db4b2d0a04cc",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31 Yeşil Bölge’de sürdürülebilirlik başarıları ödüllendirildi",
+   "ozet": "Sıfır Atık Vakfı Başkanı ve COP31 Yüksek Düzeyli İklim Şampiyonu Samed Ağırbaş, Inbusiness Dergisi tarafından COP31 Yeşil Bölge’de düzenlenen 4. Sürdürülebilirlik Liderleri Ödül Töreni’ne katıldı. Ağırbaş, törende ödüle layık görülen isimlere ödüllerini takdim etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31-yesil-bolgede-surdurulebilirlik-basarilari-odullendirildi-43372060",
+   "zaman": "2026-11-09T20:56:00+03:00",
+   "kelimeler": [
+    "basar",
+    "bolge",
+    "cop31",
+    "odull",
+    "surdu",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "39a3da359a22": {
+   "id": "39a3da359a22",
+   "kaynak": "AA",
+   "baslik": "Alaattin Köseler'in de aralarında bulunduğu 40 sanığın yargılandığı davada ara karar",
+   "ozet": "Görevden uzaklaştırılan Beykoz Belediye Başkanı Köseler'in de aralarında bulunduğu 5'i tutuklu toplam 40 sanığın yargılandığı davada tutuklu sanıklardan Veli Gümüş'ün \"ev hapsi\" şeklinde adli kontrolle tahliyesine karar verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/alaattin-koselerin-de-aralarinda-bulundugu-40-sanigin-yargilandigi-davada-ara-karar/4117849",
+   "zaman": "2026-11-09T21:07:52+03:00",
+   "kelimeler": [
+    "40",
+    "alaat",
+    "ara",
+    "arala",
+    "bulun",
+    "davad",
+    "in",
+    "karar",
+    "kosel",
+    "sanig",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "25b856b416bb": {
+   "id": "25b856b416bb",
+   "kaynak": "AA",
+   "baslik": "Gazze Barış Kurulu'ndan Gazze'de insani acil durum uyarısı",
+   "ozet": "Gazze Barış Kurulu, bölgede yaşanan şiddetli sel felaketi ve yaklaşan kış koşullarına ilişkin \"acil durum\" uyarısında bulunarak, İsrail'i gerekli yardım malzemelerinin Gazze'ye girişine izin vermeye çağırdı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazze-baris-kurulundan-gazzede-insani-acil-durum-uyarisi/4117862",
+   "zaman": "2026-11-09T21:19:31+03:00",
+   "kelimeler": [
+    "baris",
+    "durum",
+    "gazze",
+    "insan",
+    "kurul",
+    "ndan",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c24284515e2": {
+   "id": "3c24284515e2",
+   "kaynak": "Hürriyet",
+   "baslik": "Fransa marketleri hedef alan saldırıdan İran'ı sorumlu tuttu: Karşılıksız kalmayacak",
+   "ozet": "Adı açıklanmayan iki Fransız yetkili, geçtiğimiz ay Fransa’da süpermarketlerdeki buzdolapları ile dondurucuları hedef alan siber saldırının arkasında İran devletinin desteklediği bilgisayar korsanlarının olduğundan şüphelenildiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fransa-marketleri-hedef-alan-saldiridan-irani-sorumlu-tuttu-karsiliksiz-kalmayacak-43372076",
+   "zaman": "2026-11-09T21:19:34+03:00",
+   "kelimeler": [
+    "alan",
+    "frans",
+    "hedef",
+    "iran",
+    "kalma",
+    "karsi",
+    "marke",
+    "saldi",
+    "sorum",
+    "tuttu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 21:31:54  7 yeni haber",
+  "09.11 21:31:54  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "09.11 21:01:35  9 yeni haber",
   "09.11 20:46:13  3 yeni haber",
   "09.11 20:46:13  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -25650,9 +25760,7 @@
   "07.11 17:19:12  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'den istifa ett",
   "07.11 17:16:04  4 yeni haber",
   "07.11 17:01:23  1 yeni haber",
-  "07.11 16:46:07  3 yeni haber",
-  "07.11 16:31:19  5 yeni haber",
-  "07.11 16:16:02  4 yeni haber"
+  "07.11 16:46:07  3 yeni haber"
  ],
  "otomatik": false
 }
