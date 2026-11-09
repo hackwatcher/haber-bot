@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "2a66fa539559": {
-   "id": "2a66fa539559",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
-   "ozet": "İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da çiftçilere yönelik saldırılarında 4 Filistinli yaralandı, onlarca zeytin ağacı yakıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-4-filistinliyi-yaraladi/4113555",
-   "zaman": "2026-11-06T03:25:35+03:00",
-   "kelimeler": [
-    "bati",
-    "filis",
-    "gasbe",
-    "israi",
-    "ordus",
-    "seria",
-    "topra",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "d0c265be7163": {
    "id": "d0c265be7163",
    "kaynak": "NTV",
@@ -17631,7 +17608,8 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "cbd4821a27d7": {
    "id": "cbd4821a27d7",
@@ -25008,9 +24986,56 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2681b86b3b9c"
+  },
+  "41ed7e23d4da": {
+   "id": "41ed7e23d4da",
+   "kaynak": "AA",
+   "baslik": "İsrail askerleri, Batı Şeria'daki baskın sırasında 13 yaşındaki bir çocuğu göğsünden yaraladı",
+   "ozet": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Cenin kentinde 13 yaşındaki bir çocuğu göğsünden vurduğu belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-baskin-sirasinda-13-yasindaki-bir-cocugu-gogsunden-yaraladi/4116368",
+   "zaman": "2026-11-09T00:30:03+03:00",
+   "kelimeler": [
+    "13",
+    "asker",
+    "baski",
+    "bati",
+    "cocug",
+    "daki",
+    "gogsu",
+    "israi",
+    "seria",
+    "siras",
+    "yaral",
+    "yasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "20a1fa058659"
+  },
+  "0977d878b4cb": {
+   "id": "0977d878b4cb",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu Lübnan'ın güneyinde evleri yıkmayı ve bombardımanı sürdürüyor",
+   "ozet": "İsrail ordusu, Lübnan'ın güneyindeki beldelerde topçu atışlarını ve ev yıkımlarını sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyinde-evleri-yikmayi-ve-bombardimani-surduruyor/4116387",
+   "zaman": "2026-11-09T02:14:45+03:00",
+   "kelimeler": [
+    "bomba",
+    "evler",
+    "guney",
+    "in",
+    "israi",
+    "lubna",
+    "ordus",
+    "surdu",
+    "yikma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 03:31:33  1 yeni haber",
   "09.11 03:16:02  1 yeni haber",
   "09.11 02:46:01  1 yeni haber",
   "09.11 02:31:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -25209,8 +25234,7 @@
   "06.11 19:46:09  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "06.11 19:31:16  7 yeni haber",
   "06.11 19:01:35  5 yeni haber",
-  "06.11 18:46:00  5 yeni haber",
-  "06.11 18:31:28  6 yeni haber"
+  "06.11 18:46:00  5 yeni haber"
  ],
  "otomatik": false
 }
