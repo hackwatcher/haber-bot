@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "8f37819ab4f1": {
-   "id": "8f37819ab4f1",
-   "kaynak": "Hürriyet",
-   "baslik": "Yasa dışı bahis ağlarına çifte darbe: Milyarlarca liralık kara para trafiği deşifre edildi",
-   "ozet": "Siber suçlarla mücadele ekiplerinin Aydın ve Batman merkezli yürüttüğü teknik takipler, yasa dışı bahsin devasa mali boyutunu gözler önüne serdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-aglarina-cifte-darbe-milyarlarca-liralik-kara-para-trafigi-desifre-edildi-43368172",
-   "zaman": "2026-11-06T12:25:00+03:00",
-   "kelimeler": [
-    "aglar",
-    "bahis",
-    "cifte",
-    "darbe",
-    "desif",
-    "disi",
-    "edild",
-    "kara",
-    "liral",
-    "milya",
-    "para",
-    "trafi",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6fc7244b7f4b": {
-   "id": "6fc7244b7f4b",
-   "kaynak": "AA",
-   "baslik": "Pakistan Cemaat-i İslami liderinden Mekke Paktı için \"ortak fikir ve hareket fırsatı\" nitelendirmesi",
-   "ozet": "Pakistan Cemaat-i İslami Partisi Lideri Hafiz Naeem ur Rehman, Mekke Ortak Savunma Anlaşması'nın, bölgedeki İslam ülkeleri arasında \"iç müzakere, ortak fikir ve hareket fırsatı sunabilecek\" bir mekanizma niteliğinde olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/pakistan-cemaat-i-islami-liderinden-mekke-pakti-icin-ortak-fikir-ve-hareket-firsati-nitelendirmesi/4113815",
-   "zaman": "2026-11-06T12:26:40+03:00",
-   "kelimeler": [
-    "cemaa",
-    "fikir",
-    "firsa",
-    "harek",
-    "islam",
-    "lider",
-    "mekke",
-    "nitel",
-    "ortak",
-    "pakis",
-    "pakti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0a63cf17ee23": {
-   "id": "0a63cf17ee23",
-   "kaynak": "Hürriyet",
-   "baslik": "Varank’tan 'fon' mesajı: Millet karşısında hiçbir güç dokunulmaz değildir",
-   "ozet": "TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu Başkanı ve AK Parti Bursa Milletvekili Mustafa Varank, fon soruşturmasıyla ilgili yaptığı açıklamada, \"Milletimizin hakkı karşısında hiçbir makam, hiçbir güç, hiçbir çıkar odağı dokunulmaz değildir\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/varanktan-fon-mesaji-millet-karsisinda-hicbir-guc-dokunulmaz-degildir-43368208",
-   "zaman": "2026-11-06T12:30:00+03:00",
-   "kelimeler": [
-    "degil",
-    "dokun",
-    "fon",
-    "guc",
-    "hicbi",
-    "karsi",
-    "mesaj",
-    "mille",
-    "tan",
-    "varan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "71b76be807e3": {
    "id": "71b76be807e3",
    "kaynak": "Hürriyet",
@@ -23659,7 +23589,10 @@
     "serta"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "572b3a0167c3": {
    "id": "572b3a0167c3",
@@ -23675,7 +23608,10 @@
     "kutla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "cb6f247aa26e": {
    "id": "cb6f247aa26e",
@@ -24282,9 +24218,258 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4ed3f62733de": {
+   "id": "4ed3f62733de",
+   "kaynak": "AA",
+   "baslik": "Azerbaycan'da Bayrak Günü kutlanıyor",
+   "ozet": "Azerbaycanlılar, üç renkli ulusal bayrağın kabul edildiği gün olan Devlet Bayrak Günü'nü kutluyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/azerbaycanda-bayrak-gunu-kutlaniyor/4116583",
+   "zaman": "2026-11-09T11:24:26+03:00",
+   "kelimeler": [
+    "azerb",
+    "bayra",
+    "gunu",
+    "kutla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "572b3a0167c3"
+  },
+  "6ca284929d7d": {
+   "id": "6ca284929d7d",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum, Sertab Erener'in COP31 için hazırladığı \"One Home-Tek Ev\" şarkısını paylaştı",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, Sertab Erener'in COP31 için hazırladığı \"One Home-Tek Ev\" şarkısını paylaşarak, \"Toroslar’ın eteklerinden küresel iklim diplomasisinin zirvesine güçlü bir soluk taşıyoruz.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-sertab-erenerin-cop31-icin-hazirladigi-one-home-tek-ev-sarkisini-paylasti/4116607",
+   "zaman": "2026-11-09T11:39:40+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "erene",
+    "ev",
+    "hazir",
+    "home",
+    "in",
+    "kurum",
+    "one",
+    "payla",
+    "sarki",
+    "serta",
+    "tek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6ed9262697a6"
+  },
+  "35ddad0c1d89": {
+   "id": "35ddad0c1d89",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum: İklim politikası insanın geleceğini koruma politikasıdır",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Kurum, \"Bugünün dünyasında artık söz tükendi. İklim politikası aynı zamanda kalkınma, gıda, enerji ve şehir politikasıdır. Her şeyden önce insanın geleceğini koruma politikasıdır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-iklim-politikasi-insanin-gelecegini-koruma-politikasidir/4116647",
+   "zaman": "2026-11-09T12:07:10+03:00",
+   "kelimeler": [
+    "bakan",
+    "gelec",
+    "iklim",
+    "insan",
+    "korum",
+    "kurum",
+    "polit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7126d7daa9bd": {
+   "id": "7126d7daa9bd",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: Dünya bize çok açık bir şey söylüyor; sıfır noktasındayız",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, \"Bir ülkede azalan su, başka toplumların ekonomisine, göç hareketlerine ve güvenliğine kadar uzanan sonuçlar doğuruyor. Dünya bize çok açık bir şey söylüyor; sıfır noktasındayız\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-dunya-bize-cok-acik-bir-sey-soyluyor-sifir-noktasindayiz-962672.html",
+   "zaman": "2026-11-09T12:14:00+03:00",
+   "kelimeler": [
+    "acik",
+    "bakan",
+    "bize",
+    "dunya",
+    "kurum",
+    "nokta",
+    "sey",
+    "sifir",
+    "soylu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f9c431afc48a": {
+   "id": "f9c431afc48a",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31 katılımcılarına Antalya’da müze ve ören yerleri ücretsiz",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya’nın ev sahipliği yapacağı COP31 için sürdürülebilir turizmden kültürel mirasa, sanat etkinliklerinden iklim okuryazarlığına uzanan kapsamlı bir program hazırladıklarını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsiz-43371334",
+   "zaman": "2026-11-09T12:15:37+03:00",
+   "kelimeler": [
+    "antal",
+    "cop31",
+    "katil",
+    "muze",
+    "oren",
+    "ucret",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "5e0ee8d61cbe": {
+   "id": "5e0ee8d61cbe",
+   "kaynak": "AA",
+   "baslik": "Madrid İber-Amerika Zirvesi: Yeni(den) bir başlangıç",
+   "ozet": "Madrid, Latin Amerika ile Avrupa arasında siyasi, ekonomik ve diplomatik bağlantılar kurarak hem AB içerisindeki etkisini artırmayı hem de küresel ölçekte daha geniş bir hareket alanı kazanmayı amaçlıyor.",
+   "link": "https://www.aa.com.tr/tr/analiz/madrid-iber-amerika-zirvesi-yeniden-bir-baslangic/4116682",
+   "zaman": "2026-11-09T12:15:55+03:00",
+   "kelimeler": [
+    "ameri",
+    "basla",
+    "den",
+    "iber",
+    "madri",
+    "yeni",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "fab810da5fe1": {
+   "id": "fab810da5fe1",
+   "kaynak": "TRT Haber",
+   "baslik": "Belçika, Soğuk Savaş'ın ardından dağıtılan hava savunma birliğinin yeniden kurulacağını duyurdu",
+   "ozet": "Belçika Savunma Bakanı Theo Francken, artan tehditlere karşı Soğuk Savaş'ın ardından dağıtılan 51. Filo hava savunma birliğinin yeniden kurulacağını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/belcika-soguk-savasin-ardindan-dagitilan-hava-savunma-birliginin-yeniden-kurulacagini-duyurdu-962673.html",
+   "zaman": "2026-11-09T12:16:00+03:00",
+   "kelimeler": [
+    "ardin",
+    "belci",
+    "birli",
+    "dagit",
+    "duyur",
+    "hava",
+    "in",
+    "kurul",
+    "savas",
+    "savun",
+    "soguk",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3a368276f9c1": {
+   "id": "3a368276f9c1",
+   "kaynak": "TRT Haber",
+   "baslik": "23 ilde siber operasyon: 521 şüpheli yakalandı",
+   "ozet": "İçişleri Bakanlığı, son 5 gün içerisinde 23 il merkezli gerçekleştirilen siber suç operasyonlarında 521 şüphelinin yakalandığını, zanlılardan 367'sinin tutuklandığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/23-ilde-siber-operasyon-521-supheli-yakalandi-962675.html",
+   "zaman": "2026-11-09T12:17:00+03:00",
+   "kelimeler": [
+    "23",
+    "521",
+    "ilde",
+    "opera",
+    "siber",
+    "suphe",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0f4d3cc9d132": {
+   "id": "0f4d3cc9d132",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Ukrayna ve Avrupa savaşı sürdürmek için hazırlık yapıyor",
+   "ozet": "Rusya Güvenlik Konseyi Sekreteri Sergey Şoygu, Ukrayna ve Avrupa ülkelerinin savaşı sürdürmek için hazırlık yaptığını belirterek, \"Kiev, kalıcı barışın sağlanmasını mümkün kılacak uzun vadeli çözümleri görüşmeye hazır değil.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukrayna-ve-avrupa-savasi-surdurmek-icin-hazirlik-yapiyor-962674.html",
+   "zaman": "2026-11-09T12:18:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "hazir",
+    "rusya",
+    "savas",
+    "surdu",
+    "ukray",
+    "yapiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c1582d66585c": {
+   "id": "c1582d66585c",
+   "kaynak": "AA",
+   "baslik": "Karabağ Zaferi'nin altıncı yılı: Türkiye-Azerbaycan ilişkilerinde tarihi mesajlar",
+   "ozet": "Türkiye ve Azerbaycan'ın Karabağ Zaferi'nin altıncı yıldönümü münasebetiyle bir araya gelmesi, iki devletin yönetimleri ve toplumları üzerinde kardeşliği pekiştirici, hiçbir soru işaretine yer bırakmayacak kadar sarih ve güçlü bir etki bırakmıştır.",
+   "link": "https://www.aa.com.tr/tr/analiz/karabag-zaferinin-altinci-yili-turkiye-azerbaycan-iliskilerinde-tarihi-mesajlar/4116697",
+   "zaman": "2026-11-09T12:18:25+03:00",
+   "kelimeler": [
+    "altin",
+    "azerb",
+    "ilisk",
+    "karab",
+    "mesaj",
+    "nin",
+    "tarih",
+    "turki",
+    "yili",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a6397190a5c1": {
+   "id": "a6397190a5c1",
+   "kaynak": "AA",
+   "baslik": "AA'nın Makedonca yayını 11 yaşında",
+   "ozet": "Anadolu Ajansının (AA) 100. yıl vizyonu kapsamında 9 Kasım 2015'te hayata geçirdiği Makedonca yayını, 11. yılını geride bıraktı.",
+   "link": "https://www.aa.com.tr/tr/kurumsal-haberler/aanin-makedonca-yayini-11-yasinda/4116706",
+   "zaman": "2026-11-09T12:20:45+03:00",
+   "kelimeler": [
+    "11",
+    "aa",
+    "maked",
+    "nin",
+    "yasin",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d22346986aa4": {
+   "id": "d22346986aa4",
+   "kaynak": "NTV",
+   "baslik": "COP31 katılımcılarına Antalya'daki müze ve ören yerleri ücretsiz olacak",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, COP31'e katılacak resmi heyetlerin konferans süresince Antalya'daki Bakanlığa bağlı müze ve ören yerlerini ücretsiz gezebileceğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-cop31-katilimcilarina-antalyadaki-muze-ve-oren-yerleri-ucretsiz-olacak-1750096",
+   "zaman": "2026-11-09T12:29:40+03:00",
+   "kelimeler": [
+    "antal",
+    "cop31",
+    "daki",
+    "katil",
+    "muze",
+    "olaca",
+    "oren",
+    "ucret",
+    "yerle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f9c431afc48a"
   }
  },
  "kayit": [
+  "09.11 12:31:57  9 yeni haber",
   "09.11 12:16:50  8 yeni haber",
   "09.11 12:01:38  10 yeni haber",
   "09.11 11:46:09  10 yeni haber",
@@ -24483,8 +24668,7 @@
   "07.11 08:15:59  1 yeni haber",
   "07.11 07:46:01  1 yeni haber",
   "07.11 07:31:10  2 yeni haber",
-  "07.11 07:16:07  10 yeni haber",
-  "07.11 07:03:06  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İçişleri Bakanı Mustafa Çiftçi: “Ruhsatlı silahı olana çelik kasa mecb"
+  "07.11 07:16:07  10 yeni haber"
  ],
  "otomatik": false
 }
