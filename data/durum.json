@@ -1,112 +1,5 @@
 {
  "haberler": {
-  "a1e75c4ce19a": {
-   "id": "a1e75c4ce19a",
-   "kaynak": "TRT Haber",
-   "baslik": "Altının kilogram fiyatı 6 milyon 563 bin liraya geriledi",
-   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 563 bin liraya geriledi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/altinin-kilogram-fiyati-6-milyon-563-bin-liraya-geriledi-962452.html",
-   "zaman": "2026-11-06T16:51:00+03:00",
-   "kelimeler": [
-    "563",
-    "altin",
-    "bin",
-    "fiyat",
-    "geril",
-    "kilog",
-    "liray",
-    "milyo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "16142d7e1cdf": {
-   "id": "16142d7e1cdf",
-   "kaynak": "AA",
-   "baslik": "İspanya, ECB başkanlığı için Pablo Hernandez de Cos'u aday gösterdi",
-   "ozet": "İspanya hükümeti, Avrupa Merkez Bankası (ECB) başkanlığı için eski İspanya Merkez Bankası Başkanı ve şu anki Uluslararası Ödemeler Bankası (BIS) Genel Müdürü Pablo Hernandez de Cos'u aday gösterdiğini resmen duyurdu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ispanya-ecb-baskanligi-icin-pablo-hernandez-de-cosu-aday-gosterdi/4114394",
-   "zaman": "2026-11-06T16:51:33+03:00",
-   "kelimeler": [
-    "aday",
-    "baska",
-    "cos",
-    "ecb",
-    "goste",
-    "herna",
-    "ispan",
-    "pablo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "16d35645d30f": {
-   "id": "16d35645d30f",
-   "kaynak": "Hürriyet",
-   "baslik": "20 yıllık faili meçhulde ezber bozan tanık: Ölmedi, Manisa'da karşılaştık",
-   "ozet": "Eskişehir'in Günyüzü ilçesinde 2006 yılında kendilerine jandarma süsü veren kişilerce kaçırılan ve cinayete kurban gittiği değerlendirilen Hamdi Karakuş davasının ikinci duruşması görüldü.",
-   "link": "https://www.hurriyet.com.tr/gundem/20-yillik-faili-mechulde-ezber-bozan-tanik-olmedi-manisada-karsilastik-43368636",
-   "zaman": "2026-11-06T16:59:00+03:00",
-   "kelimeler": [
-    "20",
-    "bozan",
-    "ezber",
-    "faili",
-    "karsi",
-    "manis",
-    "mechu",
-    "olmed",
-    "tanik",
-    "yilli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "799c560ddb7a": {
-   "id": "799c560ddb7a",
-   "kaynak": "AA",
-   "baslik": "Ümit Milli Futbol Takımı'nın aday kadrosu açıklandı",
-   "ozet": "Ay-yıldızlı ekip, 2027 Avrupa Şampiyonası play-off turunda 13 ve 17 Kasım'da Çekya ile karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-aday-kadrosu-aciklandi/4114410",
-   "zaman": "2026-11-06T16:59:26+03:00",
-   "kelimeler": [
-    "acikl",
-    "aday",
-    "futbo",
-    "kadro",
-    "milli",
-    "nin",
-    "takim",
-    "umit"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "3db60567bb44"
-  },
-  "a30c7f6d38a2": {
-   "id": "a30c7f6d38a2",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan Malezya Başbakan Yardımcısı'nı kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisini-kabul-etti-962453.html",
-   "zaman": "2026-11-06T17:00:00+03:00",
-   "kelimeler": [
-    "basba",
-    "cumhu",
-    "erdog",
-    "etti",
-    "kabul",
-    "malez",
-    "ni",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "AA"
-   ]
-  },
   "62d2d9814246": {
    "id": "62d2d9814246",
    "kaynak": "AA",
@@ -15711,7 +15604,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "AA"
    ]
   },
   "53b249613308": {
@@ -19723,7 +19617,8 @@
     "fiyat"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5eb3ed35b8a6": {
    "id": "5eb3ed35b8a6",
@@ -25096,7 +24991,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "Hürriyet"
    ]
   },
   "81e4235f5670": {
@@ -25339,9 +25235,351 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2b55d993a94d"
+  },
+  "00774de435f3": {
+   "id": "00774de435f3",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda patlama: Hayatını kaybedenlerin sayısı 10'a yükseldi",
+   "ozet": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda patlama meydana geldi. Şiddetli patlamanın ardından çıkan yangına itfaiye ekipleri müdahale ediyor. Bölgeye sağlık ekipleri de sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/live-izmirde-aliaga-habas-demir-celik-fabrikasinda-patlama-hayatini-kaybedenlerin-sayisi-10a-yukseldi-43371390",
+   "zaman": "2026-11-09T12:38:00+03:00",
+   "kelimeler": [
+    "10",
+    "aliag",
+    "celik",
+    "demir",
+    "fabri",
+    "habas",
+    "hayat",
+    "izmir",
+    "kaybe",
+    "nda",
+    "patla",
+    "sayis",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f97968d2327"
+  },
+  "b9fcf172ff29": {
+   "id": "b9fcf172ff29",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de demir çelik fabrikasında patlama: 10 ölü, 15 yaralı",
+   "ozet": "İzmir'de 10 kişinin hayatını kaybettiği, 15 kişinin yaralandığı patlamanın meydana geldiği demir çelik fabrikasında arama kurtarma çalışmaları sürüyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-demir-celik-fabrikasinda-patlama-10-olu-15-yarali-962677.html",
+   "zaman": "2026-11-09T12:41:00+03:00",
+   "kelimeler": [
+    "10",
+    "15",
+    "celik",
+    "demir",
+    "fabri",
+    "izmir",
+    "olu",
+    "patla",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f97968d2327"
+  },
+  "f3e141b48170": {
+   "id": "f3e141b48170",
+   "kaynak": "AA",
+   "baslik": "Türk Telekom ve SANKO'dan COP31'de \"yeşil sanayileşme\" için önemli adım",
+   "ozet": "Türk Telekom'un SANKO ile gerçekleştirdiği işbirliği ile COP31 Eylem Gündemi'nin yeşil sanayileşme başlığı için sahada somut adım atıldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-ve-sankodan-cop31de-yesil-sanayilesme-icin-onemli-adim/4117332",
+   "zaman": "2026-11-09T15:43:37+03:00",
+   "kelimeler": [
+    "adim",
+    "cop31",
+    "dan",
+    "oneml",
+    "sanay",
+    "sanko",
+    "telek",
+    "turk",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "893eb49a6c16": {
+   "id": "893eb49a6c16",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, İzmir'deki fabrika kazasına ilişkin bilgi aldı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İzmir'in Aliağa ilçesinde demir çelik fabrikasında meydana gelen kazaya ilişkin İçişleri Bakanı Mustafa Çiftçi ile Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'dan bilgi aldı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-izmirdeki-fabrika-kazasina-iliskin-bilgi-aldi-962701.html",
+   "zaman": "2026-11-09T16:38:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "bilgi",
+    "cumhu",
+    "deki",
+    "erdog",
+    "fabri",
+    "ilisk",
+    "izmir",
+    "kazas"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ed9319fd7ecf": {
+   "id": "ed9319fd7ecf",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında son durum",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 640 bin liraya çıktı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962702.html",
+   "zaman": "2026-11-09T16:42:00+03:00",
+   "kelimeler": [
+    "altin",
+    "durum",
+    "fiyat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d0b305bbe716"
+  },
+  "389be2a7f5ce": {
+   "id": "389be2a7f5ce",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı Kabinesi toplandı",
+   "ozet": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4117406",
+   "zaman": "2026-11-09T16:42:22+03:00",
+   "kelimeler": [
+    "cumhu",
+    "kabin",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee4c25694b0c"
+  },
+  "427502a6ec75": {
+   "id": "427502a6ec75",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanlığından Mısır'daki tren kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Mısır'ın Giza vilayetindeki tren kazasında hayatını kaybedenler için taziye mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-misirdaki-tren-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4117407",
+   "zaman": "2026-11-09T16:42:35+03:00",
+   "kelimeler": [
+    "bakan",
+    "daki",
+    "disis",
+    "hayat",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "misir",
+    "taziy",
+    "tren"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f44562c75809"
+  },
+  "616a690b542c": {
+   "id": "616a690b542c",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Fon\" soruşturmasında Enver Çevik gözaltına alındı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Lydia Holding Yönetim Kurulu Başkanı Enver Çevik gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-enver-cevik-gozaltina-alindi-43371801",
+   "zaman": "2026-11-09T16:43:00+03:00",
+   "kelimeler": [
+    "alind",
+    "cevik",
+    "enver",
+    "fon",
+    "gozal",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2b55d993a94d"
+  },
+  "5993e617b6ab": {
+   "id": "5993e617b6ab",
+   "kaynak": "Hürriyet",
+   "baslik": "Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı",
+   "ozet": "Son dakika… Kabine, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında toplandı",
+   "link": "https://www.hurriyet.com.tr/gundem/kabine-cumhurbaskani-erdogan-baskanliginda-toplandi-43371807",
+   "zaman": "2026-11-09T16:44:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cumhu",
+    "erdog",
+    "kabin",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ee4c25694b0c"
+  },
+  "8c64752806df": {
+   "id": "8c64752806df",
+   "kaynak": "AA",
+   "baslik": "Irak Başbakanı Zeydi ile IKBY Başbakanı Barzani, petrol ve bütçe meselesini görüştü",
+   "ozet": "Irak Başbakanı Ali ez-Zeydi, IKBY Başbakanı Mesrur Barzani ve beraberindeki heyetle Erbil ile merkezi hükümet arasında uzun süredir gündemde olan petrol, bütçe ve memur maaşları başta olmak üzere çözüm bekleyen konuları ele aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydi-ile-ikby-basbakani-barzani-petrol-ve-butce-meselesini-gorustu/4117412",
+   "zaman": "2026-11-09T16:44:54+03:00",
+   "kelimeler": [
+    "barza",
+    "basba",
+    "butce",
+    "gorus",
+    "ikby",
+    "irak",
+    "mesel",
+    "petro",
+    "zeydi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c4deac7d5219": {
+   "id": "c4deac7d5219",
+   "kaynak": "NTV",
+   "baslik": "Adana'da korkutan deprem",
+   "ozet": "Adana'nın Kozan ilçesinde saat 15.28'de 4.6 büyüklüğünde bir deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-adanada-korkutan-deprem-1750152",
+   "zaman": "2026-11-09T16:45:29+03:00",
+   "kelimeler": [
+    "adana",
+    "depre",
+    "korku"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "a5d9ebcc473d": {
+   "id": "a5d9ebcc473d",
+   "kaynak": "XHABER",
+   "baslik": "SOLOTÜRK'ün efsane pilotlarından Yarbay Murat Bakıcı, son uçuşunu 10 Kasım'da Anıtkabir'de icra ederek, görevini Hava Pilot Yarbay M.",
+   "ozet": "Erhan Aydemir'e devredecek.",
+   "link": "https://t.me/sahinozkan000/30586",
+   "zaman": "2026-11-09T16:51:11+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "SOLOTÜRK'ün efsane pilotlarından Yarbay Murat Bakıcı, son uçuşunu 10 Kasım'da Anıtkabir'de icra ederek, görevini Hava Pilot Yarbay M. Erhan Aydemir'e devredecek.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/XeLHk1ZhlS6dly_y8_E248Spq8hIVQPo--fqWKNICiVJFJotMnkZM39xVGsXqRT2lvohVikU8ajWXdpgH009BNPH9MVshmTy1K0yQ_tQvuQHVyNrGu0GbwX8t27Idm7-mU55hpHLe4H2mM1sdIg51wfK40fh25U-PszREJ0ad1VDKsyDKUdzBPMRYWa8WwfnCCyG3eSZUGbBuEc3h0L4dB7mQe4S3Uh762MvKIz3EHpGmzD7AfAzI6IbuLKQqsyPNYwod1KmJT9onpgv7BYmUvmOxRQaP8T2rCOh7pdcXXAjeNH8Rfzevn12--1wA9LKAyFAos7gIVgTfemMY_AXwA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/2189b5a148.mp4?token=vu28gc368ud2cx9hwWdpjbpbb8gbstLFN_2f4J9nVGDYV6O8sdl5_q_P9rsk3UF6zWOyLijkZNNvRyfrv9zGs_wN_B_BfeP6M8rby3_k0fUH_61RK3LJ_l-e9zSmS9uJUxRCdFYEJTtTvLXlklkLyQV-3Fgu_xfSITLlhz9p2I03A1vWh8XU39yKIBvxwn8UUqm68dSRQRpHz0muBOmtC2KldNh3mPPgcqwdUIcXFByCPD71URLy1ptaVXjZsgKPN8OMLXWhU40YWtvLAgvZrLMCfzElaHkZKSWQK8ubsjVs8ralSwW4ZnZqLAZZffwAsd5Ix-PkCA9Fc0D__bwimw",
+   "kelimeler": [
+    "10",
+    "anitk",
+    "bakic",
+    "edere",
+    "efsan",
+    "gorev",
+    "hava",
+    "icra",
+    "kasim",
+    "murat",
+    "pilot",
+    "solot",
+    "ucusu",
+    "un",
+    "yarba"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9006bc4aa25f": {
+   "id": "9006bc4aa25f",
+   "kaynak": "Sözcü",
+   "baslik": "İzmir'de Habaş Demir Çelik Fabrikası'nda patlama: Can kaybı 10'a yükseldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-veya-izmir-de-habas-demir-celik-fabrikasi-nda-patlama-can-kaybi-10-a-yukseldi-p379510",
+   "zaman": "2026-11-09T16:52:44+03:00",
+   "kelimeler": [
+    "10",
+    "can",
+    "celik",
+    "demir",
+    "fabri",
+    "habas",
+    "izmir",
+    "kaybi",
+    "nda",
+    "patla",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f97968d2327"
+  },
+  "3c197506632c": {
+   "id": "3c197506632c",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Memişoğlu: 1.500’ü aşkın hastanemiz ve 1,5 milyon sağlık çalışanımızla milletimize hizmet veriyoruz",
+   "ozet": "Sağlık Bakanı Prof. Dr. Kemal Memişoğlu COP31 Sağlık Günü kapsamında, İzlanda'nın eski Başbakanı ve Dünya Sağlık Örgütü (DSÖ) Pan-Avrupa İklim ve Sağlık Komisyonu Başkanı Katrin Jakobsdottir'in moderatörlüğünde düzenlenen \"Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-1-500u-askin-hastanemiz-ve-1-5-milyon-saglik-calisanimizla-milletimize-hizmet-veriyoruz-43371826",
+   "zaman": "2026-11-09T16:56:00+03:00",
+   "kelimeler": [
+    "500",
+    "askin",
+    "bakan",
+    "calis",
+    "hasta",
+    "hizme",
+    "memis",
+    "mille",
+    "milyo",
+    "sagli",
+    "veriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "963815bd3487": {
+   "id": "963815bd3487",
+   "kaynak": "AA",
+   "baslik": "Almanya'da Hristiyan Demokrat Birlik Partisi, Ilse Aigner'i resmen cumhurbaşkanı adayı gösterdi",
+   "ozet": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, Bavyera Eyalet Meclisi Başkanı Ilse Aigner’i, resmen cumhurbaşkanı adayı gösterdiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-hristiyan-demokrat-birlik-partisi-ilse-aigneri-resmen-cumhurbaskani-adayi-gosterdi/4117436",
+   "zaman": "2026-11-09T16:56:11+03:00",
+   "kelimeler": [
+    "adayi",
+    "aigne",
+    "alman",
+    "birli",
+    "cumhu",
+    "demok",
+    "goste",
+    "hrist",
+    "ilse",
+    "parti",
+    "resme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3d9dd9302882": {
+   "id": "3d9dd9302882",
+   "kaynak": "Sözcü",
+   "baslik": "Özgür Özel'in işaret ettiği Enver Çevik tekrar gözaltına alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-in-isaret-ettigi-enver-cevik-tekrar-gozaltina-alindi-p379610",
+   "zaman": "2026-11-09T16:58:09+03:00",
+   "kelimeler": [
+    "alind",
+    "cevik",
+    "enver",
+    "ettig",
+    "gozal",
+    "in",
+    "isare",
+    "ozel",
+    "ozgur",
+    "tekra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "09.11 17:01:40  8 yeni haber",
   "09.11 16:46:07  9 yeni haber",
   "09.11 16:31:23  6 yeni haber",
   "09.11 16:16:13  4 yeni haber",
@@ -25540,8 +25778,7 @@
   "07.11 13:01:27  3 yeni haber",
   "07.11 12:46:00  3 yeni haber",
   "07.11 12:31:23  4 yeni haber",
-  "07.11 12:21:08  2 yeni haber",
-  "07.11 12:19:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturmasında eski SPK yöneticileri tutuklandı"
+  "07.11 12:21:08  2 yeni haber"
  ],
  "otomatik": false
 }
