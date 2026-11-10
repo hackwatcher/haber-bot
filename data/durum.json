@@ -1,128 +1,5 @@
 {
  "haberler": {
-  "814f41b8a2ef": {
-   "id": "814f41b8a2ef",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-trump-ile-gorustu-43369866",
-   "zaman": "2026-11-07T20:35:00+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2695144351ba"
-  },
-  "d424aeb855f8": {
-   "id": "d424aeb855f8",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-   "ozet": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede ikili gelişmeler ile bölgesel ve küresel gelişmeler ele alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1749866",
-   "zaman": "2026-11-07T20:36:50+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2695144351ba"
-  },
-  "bbcf6ef15030": {
-   "id": "bbcf6ef15030",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/4115395",
-   "zaman": "2026-11-07T20:37:44+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "telef",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "a7f575a744d3": {
-   "id": "a7f575a744d3",
-   "kaynak": "Sözcü",
-   "baslik": "Cumhurbaşkanı Erdoğan, Trump ile görüştü: İran gerilimi ve Ukrayna gündemde",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/erdogan-trump-ile-gorustu-iran-gerilimi-ve-ukrayna-gundemde-p377003",
-   "zaman": "2026-11-07T20:37:47+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "geril",
-    "gorus",
-    "gunde",
-    "iran",
-    "trump",
-    "ukray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "06e948ab12b2": {
-   "id": "06e948ab12b2",
-   "kaynak": "TRT Haber",
-   "baslik": "Güvenli sanılan plastik kimyasalı bebeklerin daha küçük doğmasına yol açabilir",
-   "ozet": "Plastik gıda ambalajlarında kullanılan ve güvenli olduğu iddia edilen yeni nesil kimyasallara maruz kalmanın, düşük doğum ağırlığı ve fetüsün gelişiminde sorunlarla bağlantılı olduğu ortaya çıktı.",
-   "link": "https://www.trthaber.com/haber/dunya/guvenli-sanilan-plastik-kimyasali-bebeklerin-daha-kucuk-dogmasina-yol-acabilir-962559.html",
-   "zaman": "2026-11-07T20:39:00+03:00",
-   "kelimeler": [
-    "acabi",
-    "bebek",
-    "dogma",
-    "guven",
-    "kimya",
-    "kucuk",
-    "plast",
-    "sanil",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "27983108bd70": {
-   "id": "27983108bd70",
-   "kaynak": "Hürriyet",
-   "baslik": "Van'da tır minibüsle çarpıştı: 7 ölü, 7 yaralı",
-   "ozet": "Van-Özalp karayolunda tır ile minibüsün çarpışması sonucu meydana gelen trafik kazasında 7 kişi hayatını kaybetti, 7 kişi de yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/vanda-tir-minibusle-carpisti-7-olu-7-yarali-43369872",
-   "zaman": "2026-11-07T20:42:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "minib",
-    "olu",
-    "tir",
-    "van",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "AA",
-    "TRT Haber"
-   ]
-  },
   "ee4c1ffe2cf6": {
    "id": "ee4c1ffe2cf6",
    "kaynak": "Hürriyet",
@@ -29198,7 +29075,10 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "627227a11455": {
    "id": "627227a11455",
@@ -29387,7 +29267,10 @@
     "takim"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "1394f89c353a": {
    "id": "1394f89c353a",
@@ -29476,7 +29359,10 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "e392573d204e": {
    "id": "e392573d204e",
@@ -29561,9 +29447,117 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c07654806e01": {
+   "id": "c07654806e01",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, COP31 kapsamında ikili görüşmeler gerçekleştirdi",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 kapsamında Etiyopya Başbakanı Abiy Ahmed, Suudi Arabistan Enerji Bakanı Al Saud ve Brezilya Devlet Başkanı Luiz Inacio Lula da Silva ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-cop31-kapsaminda-ikili-gorusmeler-gerceklestirdi/4119171",
+   "zaman": "2026-11-10T18:13:10+03:00",
+   "kelimeler": [
+    "cop31",
+    "cumhu",
+    "erdog",
+    "gerce",
+    "gorus",
+    "ikili",
+    "kapsa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f625a268de60"
+  },
+  "eb800989f91e": {
+   "id": "eb800989f91e",
+   "kaynak": "AA",
+   "baslik": "Başkentte çeşitli suçlardan aranan 181 hükümlü yakalandı",
+   "ozet": "Ankara'da jandarma ekiplerince düzenlenen operasyonlarda çeşitli suçlardan aranan 181 hükümlü yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/baskentte-cesitli-suclardan-aranan-181-hukumlu-yakalandi/4119277",
+   "zaman": "2026-11-10T19:25:42+03:00",
+   "kelimeler": [
+    "181",
+    "arana",
+    "baske",
+    "cesit",
+    "hukum",
+    "sucla",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1eb76b55a7fc"
+  },
+  "afe4810872c3": {
+   "id": "afe4810872c3",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: ABD'nin şartlarımıza yanıtı aldatıcı, Hürmüz Boğazı 7 şart yerine getirilene kadar açılmayacak",
+   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin İran'ın şartlarına ilişkin yanıtının \"aldatıcı\" olduğunu belirterek, Hürmüz Boğazı'nın Tahran yönetiminin öne sürdüğü 7 şart yerine getirilene kadar açılmayacağını yineledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-sartlarimiza-yaniti-aldatici-hurmuz-bogazi-7-sart-yerine-getirilene-kadar-acilmayacak-962851.html",
+   "zaman": "2026-11-10T20:28:00+03:00",
+   "kelimeler": [
+    "abd",
+    "acilm",
+    "aldat",
+    "bogaz",
+    "getir",
+    "hurmu",
+    "iran",
+    "nin",
+    "sart",
+    "sartl",
+    "yanit",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3d5a480b5967"
+  },
+  "f137b54abab1": {
+   "id": "f137b54abab1",
+   "kaynak": "AA",
+   "baslik": "BM, Yemen'de bir haftada yaklaşık 16 bin kişinin daha yerinden edildiğini bildirdi",
+   "ozet": "BM Uluslararası Göç Örgütü Sözcüsü Brennan, Yemen'de bir haftada yaklaşık 16 bin kişinin daha yerinden edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-bir-haftada-yaklasik-16-bin-kisinin-daha-yerinden-edildigini-bildirdi/4119390",
+   "zaman": "2026-11-10T20:33:22+03:00",
+   "kelimeler": [
+    "16",
+    "bildi",
+    "bin",
+    "bm",
+    "edild",
+    "hafta",
+    "kisin",
+    "yakla",
+    "yemen",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4a48235e0703": {
+   "id": "4a48235e0703",
+   "kaynak": "Sözcü",
+   "baslik": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-p380031",
+   "zaman": "2026-11-10T20:34:40+03:00",
+   "kelimeler": [
+    "edild",
+    "fener",
+    "iddia",
+    "kabul",
+    "otobu",
+    "saldi",
+    "takim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "17def3c7ad50"
   }
  },
  "kayit": [
+  "10.11 20:46:07  1 yeni haber",
   "10.11 20:31:26  2 yeni haber",
   "10.11 20:16:21  2 yeni haber",
   "10.11 20:01:56  4 yeni haber",
@@ -29762,8 +29756,7 @@
   "08.11 16:31:16  4 yeni haber",
   "08.11 16:15:59  4 yeni haber",
   "08.11 16:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Direksiyon hakimiyetini kaybetti, takla attı",
-  "08.11 16:01:25  2 yeni haber",
-  "08.11 15:46:00  3 yeni haber"
+  "08.11 16:01:25  2 yeni haber"
  ],
  "otomatik": false
 }
