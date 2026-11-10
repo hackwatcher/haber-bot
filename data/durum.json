@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "48643941d367": {
-   "id": "48643941d367",
-   "kaynak": "AA",
-   "baslik": "Türk Telekom, Biotekno Körfez Basket'i 94-82 yendi",
-   "ozet": "Türkiye Sigorta Basketbol Süper Ligi'nin 7. haftasında Türk Telekom, sahasında Biotekno Körfez Basket'i 94-82 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/turk-telekom-biotekno-korfez-basketi-94-82-yendi/4115301",
-   "zaman": "2026-11-07T18:08:12+03:00",
-   "kelimeler": [
-    "82",
-    "94",
-    "baske",
-    "biote",
-    "korfe",
-    "telek",
-    "turk",
-    "yendi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "72191c40f528": {
    "id": "72191c40f528",
    "kaynak": "NTV",
@@ -29189,7 +29169,11 @@
     "uclu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "NTV"
+   ]
   },
   "28d294a4b11b": {
    "id": "28d294a4b11b",
@@ -29256,9 +29240,207 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "96b90541f97e": {
+   "id": "96b90541f97e",
+   "kaynak": "AA",
+   "baslik": "Hazine ve Maliye Bakanlığı 18,5 milyar lira tutarında kira sertifikası ihraç etti",
+   "ozet": "Hazine ve Maliye Bakanlığı, 18,5 milyar lira tutarında kira sertifikasının ihracını gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligi-18-5-milyar-lira-tutarinda-kira-sertifikasi-ihrac-etti/4119115",
+   "zaman": "2026-11-10T17:41:12+03:00",
+   "kelimeler": [
+    "18",
+    "bakan",
+    "etti",
+    "hazin",
+    "ihrac",
+    "kira",
+    "lira",
+    "maliy",
+    "milya",
+    "serti",
+    "tutar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d55939c9997f": {
+   "id": "d55939c9997f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD Savunma Bakanı Hegseth azil tartışmalarının ardından konuştu: 'Bu bir sabotaj'",
+   "ozet": "ABD Savunma Bakanı Hegseth hakkında yapılan azil başvurusunun ardından yaptığı açıklamada suçlamaları reddetti, başvurunun \"sabotaj\" olduğunu söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o",
+   "zaman": "2026-11-10T17:43:38+03:00",
+   "kelimeler": [
+    "abd",
+    "ardin",
+    "azil",
+    "bakan",
+    "hegse",
+    "konus",
+    "sabot",
+    "savun",
+    "tarti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "18e6a3093546": {
+   "id": "18e6a3093546",
+   "kaynak": "AA",
+   "baslik": "Bakan Şimşek, COP31 kapsamında OPEC Fonu Başkanı Alkhalifa ile görüştü",
+   "ozet": "Hazine ve Maliye Bakanı Şimşek, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 kapsamında OPEC Uluslararası Kalkınma Fonu (OPEC Fund) Genel Direktörü ve İcra Kurulu Başkanı Abdulhamid Alkhalifa ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-cop31-kapsaminda-opec-fonu-baskani-alkhalifa-ile-gorustu/4119131",
+   "zaman": "2026-11-10T17:49:07+03:00",
+   "kelimeler": [
+    "alkha",
+    "bakan",
+    "baska",
+    "cop31",
+    "fonu",
+    "gorus",
+    "kapsa",
+    "opec",
+    "simse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1441a2830d56": {
+   "id": "1441a2830d56",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Sözcüsü Keçeli'den Kıbrıs'ta BM öncülüğündeki üçlü görüşmeye ilişkin açıklama",
+   "ozet": "Keçeli, KKTC Cumhurbaşkanı Erhürman ve GKRY lideri Hristodulidis ile yapılan üçlü görüşmede, Türk tarafının hassasiyetle üzerinde durduğu iki taraf arasında güvenin tesisine yönelik işbirliği alanlarının ele alınmasının olumlu bulunduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-sozcusu-keceliden-kibrista-bm-onculugundeki-uclu-gorusmeye-iliskin-aciklama/4119132",
+   "zaman": "2026-11-10T17:50:44+03:00",
+   "kelimeler": [
+    "acikl",
+    "bm",
+    "den",
+    "disis",
+    "gorus",
+    "ilisk",
+    "kecel",
+    "kibri",
+    "oncul",
+    "sozcu",
+    "ta",
+    "uclu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a77ff289574a"
+  },
+  "557e8eaab316": {
+   "id": "557e8eaab316",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz",
+   "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Avrupa'nın Ukrayna'da ateşkesin sağlanmasıyla ilgili talebini kabul etmeyeceklerini belirterek, \"Bu, Ukrayna'ya zaman kazandırmak ve kayıpları telafi etmek için yapılıyor.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz-962841.html",
+   "zaman": "2026-11-10T17:59:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "avrup",
+    "etmey",
+    "kabul",
+    "nin",
+    "rusya",
+    "taleb",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "58583b1ed938": {
+   "id": "58583b1ed938",
+   "kaynak": "AA",
+   "baslik": "Rusya: Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz",
+   "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Avrupa'nın Ukrayna'da ateşkesin sağlanmasıyla ilgili talebini kabul etmeyeceklerini belirterek, \"Bu, Ukrayna'ya zaman kazandırmak ve kayıpları telafi etmek için yapılıyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz/4119150",
+   "zaman": "2026-11-10T18:01:30+03:00",
+   "kelimeler": [
+    "atesk",
+    "avrup",
+    "etmey",
+    "kabul",
+    "nin",
+    "rusya",
+    "taleb",
+    "ukray"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "557e8eaab316"
+  },
+  "6f047b594bc4": {
+   "id": "6f047b594bc4",
+   "kaynak": "AA",
+   "baslik": "BM Genel Sekreteri Guterres'ten fosil yakıtlardan uzaklaşmanın hayata geçirilmesi çağrısı",
+   "ozet": "BM Genel Sekreteri Guterres, fosil yakıtlardan uzaklaşmanın tabu olmadığını belirterek, \"Şu an burada, COP31'de geçiş sürecini tartışmaktan öteye geçip, bu süreci organize etmeye, finanse etmeye ve hayata geçirmeye başlamalıyız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-fosil-yakitlardan-uzaklasmanin-hayata-gecirilmesi-cagrisi/4119161",
+   "zaman": "2026-11-10T18:04:37+03:00",
+   "kelimeler": [
+    "bm",
+    "cagri",
+    "fosil",
+    "gecir",
+    "genel",
+    "guter",
+    "hayat",
+    "sekre",
+    "ten",
+    "uzakl",
+    "yakit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82072da1adcc": {
+   "id": "82072da1adcc",
+   "kaynak": "NTV",
+   "baslik": "Dışişleri'nden Kıbrıs'taki üçlü görüşmeye ilişkin açıklama",
+   "ozet": "Dışişleri Bakanlığı, Kıbrıs'ta BM öncülüğünde yapılan üçlü görüşmede güven artırıcı işbirliği alanlarının ele alınmasını olumlu karşıladı.",
+   "link": "https://www.ntv.com.tr/turkiye/disislerinden-kibristaki-uclu-gorusmeye-iliskin-aciklama-1750316",
+   "zaman": "2026-11-10T18:05:57+03:00",
+   "kelimeler": [
+    "acikl",
+    "disis",
+    "gorus",
+    "ilisk",
+    "kibri",
+    "nden",
+    "taki",
+    "uclu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a77ff289574a"
+  },
+  "d010bddef1bd": {
+   "id": "d010bddef1bd",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul’da bu güzergah 2 gün boyunca kapalı: Bu saatlere dikkat",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbul-da-bu-guzergah-2-gun-boyunca-kapali-bu-saatlere-dikkat-p380008",
+   "zaman": "2026-11-10T18:14:48+03:00",
+   "kelimeler": [
+    "boyun",
+    "dikka",
+    "gun",
+    "guzer",
+    "istan",
+    "kapal",
+    "saatl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 18:16:14  6 yeni haber",
   "10.11 18:01:30  6 yeni haber",
   "10.11 17:36:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Cezaevinden istifasını sundu: Tutuklu Genel Sekreter Cansel Tuncer kol",
   "10.11 17:34:38  2 yeni haber",
@@ -29457,8 +29639,7 @@
   "08.11 14:16:09  4 yeni haber",
   "08.11 14:01:26  3 yeni haber",
   "08.11 13:46:10  5 yeni haber",
-  "08.11 13:31:22  1 yeni haber",
-  "08.11 13:18:25  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İstanbul'da Hezarfen Havalimanı'nda eğitim uçağı pistten çıktı"
+  "08.11 13:31:22  1 yeni haber"
  ],
  "otomatik": false
 }
