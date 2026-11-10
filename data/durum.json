@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "d68397535fee": {
-   "id": "d68397535fee",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'nin eski İsrail Büyükelçisi Shapiro: Netanyahu, Washington'da zehirli bir figüre dönüştü",
-   "ozet": "ABD'nin eski Tel Aviv Büyükelçisi Dan Shapiro, İsrail Başbakanı Binyamin Netanyahu'nun Washington'da siyaseten \"toksik zehirli\" bir figür haline geldiğini belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/abdnin-eski-israil-buyukelcisi-shapiro-netanyahu-washingtonda-zehirli-bir-figure-donustu-962499.html",
-   "zaman": "2026-11-07T10:22:00+03:00",
-   "kelimeler": [
-    "abd",
-    "buyuk",
-    "donus",
-    "eski",
-    "figur",
-    "israi",
-    "netan",
-    "nin",
-    "shapi",
-    "washi",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "49810ac3e6cd": {
-   "id": "49810ac3e6cd",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 4 kişi daha tutuklandı",
-   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen \"fon soruşturması\" kapsamında aralarında eski SPK Başkanvekili Enver Usca'nın da bulunduğu 4 kişi daha tutuklandı.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-4-kisi-daha-tutuklandi-962502.html",
-   "zaman": "2026-11-07T10:31:00+03:00",
-   "kelimeler": [
-    "fon",
-    "kisi",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "ad3e59b5a166"
-  },
   "d9a5616924ae": {
    "id": "d9a5616924ae",
    "kaynak": "AA",
@@ -25117,7 +25077,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Hürriyet",
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "6c2de36573a9": {
@@ -26411,9 +26372,263 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e81f01dbcc1c": {
+   "id": "e81f01dbcc1c",
+   "kaynak": "AA",
+   "baslik": "Çam ormanlarıyla çevrili Dumanlı Tabiat Parkı karla kaplandı",
+   "ozet": "Erzincan'ın Refahiye ilçesinde bulunan çam ormanlarıyla çevrili Dumanlı Tabiat Parkı karla kaplandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cam-ormanlariyla-cevrili-dumanli-tabiat-parki-karla-kaplandi/4118181",
+   "zaman": "2026-11-10T09:46:05+03:00",
+   "kelimeler": [
+    "cam",
+    "cevri",
+    "duman",
+    "kapla",
+    "karla",
+    "orman",
+    "parki",
+    "tabia"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bcfa7cc755b3": {
+   "id": "bcfa7cc755b3",
+   "kaynak": "Hürriyet",
+   "baslik": "Gece sokakta gözcülük, emniyette \"Tanımıyorum\" oyunu: Komşu çocuklarını hırsızlığa sürükledi",
+   "ozet": "Adana'nın Çukurova ilçesinde 19 yaşındaki Fatih G., yönlendirdiği komşusunun çocukları R.B. (16) ve D.K. (15) ile birlikte bir apartmandaki kilitli motosikleti çaldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gece-sokakta-gozculuk-emniyette-tanimiyorum-oyunu-komsu-cocuklarini-hirsizliga-surukledi-43372366",
+   "zaman": "2026-11-10T10:06:33+03:00",
+   "kelimeler": [
+    "cocuk",
+    "emniy",
+    "gece",
+    "gozcu",
+    "hirsi",
+    "komsu",
+    "oyunu",
+    "sokak",
+    "suruk",
+    "tanim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dffb120dfe5d": {
+   "id": "dffb120dfe5d",
+   "kaynak": "AA",
+   "baslik": "A Milli Kadın Basketbol Takımı, yarın Karadağ'ı konuk edecek",
+   "ozet": "Milliler, 2027 Avrupa Şampiyonası Elemeleri 2. Tur I Grubu ilk maçında yarın Karadağ ile karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-yarin-karadagi-konuk-edecek/4118216",
+   "zaman": "2026-11-10T10:16:31+03:00",
+   "kelimeler": [
+    "baske",
+    "edece",
+    "kadin",
+    "karad",
+    "konuk",
+    "milli",
+    "takim",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "41fe755558f1": {
+   "id": "41fe755558f1",
+   "kaynak": "AA",
+   "baslik": "NBA'de Rockets, Alperen Şengün'ün \"double-double\" yaptığı maçı kazandı",
+   "ozet": "Milli basketbolcu Alperen Şengün, Houston Rockets'ın Denver Nuggets'ı 110-100 yendiği karşılaşmada 20 sayı, 11 ribaunt, 8 asistle oynadı.",
+   "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi/4118222",
+   "zaman": "2026-11-10T10:18:47+03:00",
+   "kelimeler": [
+    "alper",
+    "doubl",
+    "kazan",
+    "maci",
+    "nba",
+    "rocke",
+    "sengu",
+    "un",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "254d8467e123": {
+   "id": "254d8467e123",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji-962767.html",
+   "zaman": "2026-11-10T10:19:00+03:00",
+   "kelimeler": [
+    "10",
+    "anma",
+    "atatu",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "71720ec060f9"
+  },
+  "8d6b52561d66": {
+   "id": "8d6b52561d66",
+   "kaynak": "TRT Haber",
+   "baslik": "İnşaat maliyet endeksi eylülde arttı",
+   "ozet": "İnşaat maliyet endeksi, eylülde aylık bazda yüzde 1,81, yıllık yüzde 30,8 artış gösterdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-eylulde-artti-962766.html",
+   "zaman": "2026-11-10T10:19:00+03:00",
+   "kelimeler": [
+    "artti",
+    "endek",
+    "eylul",
+    "insaa",
+    "maliy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "3dfce1ecd4c3": {
+   "id": "3dfce1ecd4c3",
+   "kaynak": "AA",
+   "baslik": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji/4118226",
+   "zaman": "2026-11-10T10:20:31+03:00",
+   "kelimeler": [
+    "10",
+    "anma",
+    "atatu",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "71720ec060f9"
+  },
+  "0e42d4971b5d": {
+   "id": "0e42d4971b5d",
+   "kaynak": "TRT Haber",
+   "baslik": "Sanayi üretim endeksi eylülde yıllık yüzde 2,6 arttı",
+   "ozet": "Sanayi üretim endeksi, eylülde aylık bazda yüzde 2,1, yıllık bazda yüzde 2,6 artış gösterdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-26-artti-962769.html",
+   "zaman": "2026-11-10T10:22:00+03:00",
+   "kelimeler": [
+    "artti",
+    "endek",
+    "eylul",
+    "sanay",
+    "ureti",
+    "yilli",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d6b52561d66"
+  },
+  "85c8c0585e36": {
+   "id": "85c8c0585e36",
+   "kaynak": "NTV",
+   "baslik": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+   "ozet": "Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
+   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji-1750233",
+   "zaman": "2026-11-10T10:22:19+03:00",
+   "kelimeler": [
+    "10",
+    "anma",
+    "atatu",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "71720ec060f9"
+  },
+  "288d8c8a5ce4": {
+   "id": "288d8c8a5ce4",
+   "kaynak": "NTV",
+   "baslik": "Siyasilerden 10 Kasım anma mesajları. \"Bıraktığı mirası inançla geleceğe taşıyacağız\"",
+   "ozet": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılında siyasi isimler peş peşe anma mesajları yayımladı.",
+   "link": "https://www.ntv.com.tr/turkiye/siyasilerden-10-kasim-anma-mesajlari-biraktigi-mirasi-inancla-gelecege-tasiyacagiz-1750223",
+   "zaman": "2026-11-10T10:22:35+03:00",
+   "kelimeler": [
+    "10",
+    "anma",
+    "birak",
+    "gelec",
+    "inanc",
+    "kasim",
+    "mesaj",
+    "miras",
+    "siyas",
+    "tasiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3152840e50b8": {
+   "id": "3152840e50b8",
+   "kaynak": "Hürriyet",
+   "baslik": "Tunceli’de feci kaza: Özel harekat polisi Ahmet Sefa Beyarslan kurtarılamadı",
+   "ozet": "Tunceli'de akşam saatlerinde viyadük üzerinde kaldırıma çarparak savrulan otomobilden yola fırlayan polis memuru Ahmet Sefa Beyarslan'dan acı haber geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/tuncelide-feci-kaza-ozel-harekat-polisi-ahmet-sefa-beyarslan-kurtarilamadi-43372414",
+   "zaman": "2026-11-10T10:23:43+03:00",
+   "kelimeler": [
+    "ahmet",
+    "beyar",
+    "feci",
+    "harek",
+    "kaza",
+    "kurta",
+    "ozel",
+    "polis",
+    "sefa",
+    "tunce"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e3f161b3d99c": {
+   "id": "e3f161b3d99c",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla mesaj yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji-43372412",
+   "zaman": "2026-11-10T10:24:16+03:00",
+   "kelimeler": [
+    "10",
+    "anma",
+    "atatu",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "71720ec060f9"
   }
  },
  "kayit": [
+  "10.11 10:31:15  7 yeni haber",
   "10.11 10:18:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Yeşil Mutabakat Eylem Planı'na ilişkin Cumhurbaşkanlığı Genelgesi Resm",
   "10.11 10:16:00  3 yeni haber",
   "10.11 10:01:26  9 yeni haber",
@@ -26612,8 +26827,7 @@
   "08.11 05:16:09  2 yeni haber",
   "08.11 04:01:34  2 yeni haber",
   "08.11 03:16:12  3 yeni haber",
-  "08.11 03:01:29  1 yeni haber",
-  "08.11 02:46:10  5 yeni haber"
+  "08.11 03:01:29  1 yeni haber"
  ],
  "otomatik": false
 }
