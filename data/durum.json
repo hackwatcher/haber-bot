@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "c3c1bda98a0c": {
-   "id": "c3c1bda98a0c",
-   "kaynak": "Hürriyet",
-   "baslik": "Korkut Ata’da ödüller sahiplerini buldu: En iyi film “Kanto”",
-   "ozet": "Türk dünyasının ortak kültürel mirasını sinemayla buluşturan 6. Korkut Ata Türk Dünyası Film Festivali, İstanbul’da düzenlenen ödül töreniyle sona erdi. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, En İyi Film Ödülü’nü “Kanto” filminin yönetmeni Ensar Altay’a takdim etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/korkut-atada-oduller-sahiplerini-buldu-en-iyi-film-kanto-43369892",
-   "zaman": "2026-11-07T21:19:41+03:00",
-   "kelimeler": [
-    "ata",
-    "buldu",
-    "film",
-    "iyi",
-    "kanto",
-    "korku",
-    "odull",
-    "sahip"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8bbcf2cb333d": {
-   "id": "8bbcf2cb333d",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459",
-   "zaman": "2026-11-07T21:18:18+03:00",
-   "kelimeler": [
-    "azerb",
-    "cumhu",
-    "erdog",
-    "gidec",
-    "yarin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e0547b6bd99f"
-  },
-  "037f017ed400": {
-   "id": "037f017ed400",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum: COP31 gündeminde 10 önemli madde var",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, gündeme ilişkin soruları yanıtlıyor. Bakan Kurum, \"COP31 gündeminde 10 önemli madde var. Atıkların yüzde 50 azaltılması hedefte\" ifadelerini kullandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-cop31-gundeminde-10-onemli-madde-var-43369896",
-   "zaman": "2026-11-07T21:28:00+03:00",
-   "kelimeler": [
-    "10",
-    "bakan",
-    "cop31",
-    "gunde",
-    "kurum",
-    "madde",
-    "oneml"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f49e7f90b485": {
    "id": "f49e7f90b485",
    "kaynak": "Sözcü",
@@ -552,24 +495,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "fbe2c4573562"
-  },
-  "f6148d771a67": {
-   "id": "f6148d771a67",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, bugün Azerbaycan'a gidecek",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, bugün Azerbaycan'a gidecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek/4115459",
-   "zaman": "2026-11-07T21:18:18+03:00",
-   "kelimeler": [
-    "azerb",
-    "bugun",
-    "cumhu",
-    "erdog",
-    "gidec"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e0547b6bd99f"
   },
   "0ec2d6724eda": {
    "id": "0ec2d6724eda",
@@ -29486,9 +29411,157 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8db8e8693f5f"
+  },
+  "f4bc831972d7": {
+   "id": "f4bc831972d7",
+   "kaynak": "AA",
+   "baslik": "COP31'de \"35'e 35\" hedefi kapsamında ilk Küresel Elektrifikasyon Forumu düzenlendi",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakan Yardımcısı Demircan \"Emisyonların azaltılması ve elektrifikasyon gündemini ilerletmeye, daha güvenli, uygun maliyetli ve sürdürülebilir bir enerji geleceğine yönelik küresel çabalara katkıda bulunmaya kararlıyız\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-35e-35-hedefi-kapsaminda-ilk-kuresel-elektrifikasyon-forumu-duzenlendi/4119183",
+   "zaman": "2026-11-10T18:28:11+03:00",
+   "kelimeler": [
+    "35",
+    "cop31",
+    "duzen",
+    "elekt",
+    "forum",
+    "hedef",
+    "ilk",
+    "kapsa",
+    "kures"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3b00208135b4": {
+   "id": "3b00208135b4",
+   "kaynak": "AA",
+   "baslik": "İzmir'de fabrikadaki patlamada hayatını kaybedenler son yolculuğuna uğurlanıyor",
+   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasındaki patlamada hayatını kaybeden işçilerden İlker Sığırtmaçoğlu, Hüsnü Ersoy, Özcan Efe ve Mustafa Sert'in cenazeleri toprağa verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamada-hayatini-kaybedenler-son-yolculuguna-ugurlaniyor/4119234",
+   "zaman": "2026-11-10T19:03:21+03:00",
+   "kelimeler": [
+    "fabri",
+    "hayat",
+    "izmir",
+    "kaybe",
+    "patla",
+    "ugurl",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "612841a23ce5"
+  },
+  "2dbebceaabad": {
+   "id": "2dbebceaabad",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda bugün üçüncü petrol tankeri deniz mayınına çarparak patladı",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda bugün öğleden sonra izin verilmeyen güzergahı kullanan 3'üncü petrol tankerinin deniz mayınına çarparak patladığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bugun-ucuncu-petrol-tankeri-deniz-mayinina-carparak-patladi-962853.html",
+   "zaman": "2026-11-10T21:19:00+03:00",
+   "kelimeler": [
+    "bogaz",
+    "bugun",
+    "carpa",
+    "deniz",
+    "devri",
+    "hurmu",
+    "iran",
+    "mayin",
+    "muhaf",
+    "nda",
+    "patla",
+    "petro",
+    "tanke",
+    "ucunc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "da87d3f9e7f6"
+  },
+  "208adebddea0": {
+   "id": "208adebddea0",
+   "kaynak": "Hürriyet",
+   "baslik": "30 yıl hapisle aranıyordu, Eskişehir’de yakalandı",
+   "ozet": "Eskişehir’de hakkında kesinleşmiş 30 yıl hapis cezası bulunan hükümlü, jandarma ekiplerince yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/30-yil-hapisle-araniyordu-eskisehirde-yakalandi-43373493",
+   "zaman": "2026-11-10T21:21:03+03:00",
+   "kelimeler": [
+    "30",
+    "arani",
+    "eskis",
+    "hapis",
+    "yakal",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4ec15630ecf2": {
+   "id": "4ec15630ecf2",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da kaçakçılık operasyonu: 21 gözaltı",
+   "ozet": "Ankara'da kaçakçılık operasyonunda yakalanan 21 şüpheli hakkında işlem başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-kacakcilik-operasyonu-21-gozalti-43373495",
+   "zaman": "2026-11-10T21:22:00+03:00",
+   "kelimeler": [
+    "21",
+    "ankar",
+    "gozal",
+    "kacak",
+    "opera"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "645dbece3c25": {
+   "id": "645dbece3c25",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da uyuşturucu operasyonu: 16 gözaltı",
+   "ozet": "Ankara'da jandarma ekiplerinin düzenlediği uyuşturucu operasyonlarında 16 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-uyusturucu-operasyonu-16-gozalti-43373497",
+   "zaman": "2026-11-10T21:23:00+03:00",
+   "kelimeler": [
+    "16",
+    "ankar",
+    "gozal",
+    "opera",
+    "uyust"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4ec15630ecf2"
+  },
+  "7e1b9b25773c": {
+   "id": "7e1b9b25773c",
+   "kaynak": "AA",
+   "baslik": "ABD'de benzin fiyatları temmuzdan bu yana ilk kez galon başına 4 doların altına düştü",
+   "ozet": "ABD genelinde benzinin ortalama fiyatı galon başına 3,98 dolara gerileyerek, temmuzdan bu yana ilk kez 4 doların altına indi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-benzin-fiyatlari-temmuzdan-bu-yana-ilk-kez-galon-basina-4-dolarin-altina-dustu/4119437",
+   "zaman": "2026-11-10T21:26:56+03:00",
+   "kelimeler": [
+    "abd",
+    "altin",
+    "basin",
+    "benzi",
+    "dolar",
+    "dustu",
+    "fiyat",
+    "galon",
+    "ilk",
+    "kez",
+    "temmu",
+    "yana"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d0b305bbe716"
   }
  },
  "kayit": [
+  "10.11 21:31:22  3 yeni haber",
   "10.11 21:16:11  2 yeni haber",
   "10.11 21:01:56  2 yeni haber",
   "10.11 20:46:07  1 yeni haber",
@@ -29687,8 +29760,7 @@
   "08.11 17:46:14  4 yeni haber",
   "08.11 17:16:20  6 yeni haber",
   "08.11 16:46:11  5 yeni haber",
-  "08.11 16:31:16  4 yeni haber",
-  "08.11 16:15:59  4 yeni haber"
+  "08.11 16:31:16  4 yeni haber"
  ],
  "otomatik": false
 }
