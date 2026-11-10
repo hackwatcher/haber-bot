@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "316c7df53744": {
-   "id": "316c7df53744",
-   "kaynak": "NTV",
-   "baslik": "\"İçi boş\" deyip tetiğe bastı. Erzurum'da acı olay",
-   "ozet": "Erzurum'da esnaf komşusu tarafından pompalı tüfekle vurulan kişi hayatını kaybetti. Şüpheli, şakalaşma sırasında vurduğunu öne sürdü.",
-   "link": "https://www.ntv.com.tr/turkiye/ici-bos-deyip-tetige-basti-erzurumda-aci-olay-1749857",
-   "zaman": "2026-11-07T17:40:56+03:00",
-   "kelimeler": [
-    "aci",
-    "basti",
-    "bos",
-    "deyip",
-    "erzur",
-    "ici",
-    "olay",
-    "tetig"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "bc38fc2a569a": {
-   "id": "bc38fc2a569a",
-   "kaynak": "Sözcü",
-   "baslik": "Komşusundan aldı, pişirip yedikten saatler sonra hayatını kaybetti",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/komsusundan-aldi-pisirip-yedikten-saatler-sonra-hayatini-kaybetti-p376984",
-   "zaman": "2026-11-07T17:43:36+03:00",
-   "kelimeler": [
-    "aldi",
-    "hayat",
-    "kaybe",
-    "komsu",
-    "pisir",
-    "saatl",
-    "yedik"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2d6627bbc69f": {
-   "id": "2d6627bbc69f",
-   "kaynak": "AA",
-   "baslik": "İsveç'te yüzlerce kişi İsrail'in Filistin ve Lübnan'a yönelik saldırılarını protesto etti",
-   "ozet": "İsveç'in başkenti Stockholm'de toplanan yüzlerce kişi, İsrail'in Filistin ve Lübnan'a yönelik saldırılarına tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/isvecte-yuzlerce-kisi-israilin-filistin-ve-lubnana-yonelik-saldirilarini-protesto-etti/4115291",
-   "zaman": "2026-11-07T17:45:55+03:00",
-   "kelimeler": [
-    "etti",
-    "filis",
-    "in",
-    "israi",
-    "isvec",
-    "kisi",
-    "lubna",
-    "prote",
-    "saldi",
-    "te",
-    "yonel",
-    "yuzle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0f0fa0038d6d": {
    "id": "0f0fa0038d6d",
    "kaynak": "TRT Haber",
@@ -28863,7 +28800,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "ba5c1ff103ba": {
@@ -29173,6 +29111,29 @@
    "ozet": "Emine Erdoğan, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres'e daha adil ve yaşanabilir bir dünya için yürüttüğü değerli çalışmalar ve kıymetli destekleri dolayısıyla teşekkür etti.",
    "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-bm-genel-sekreteri-guterres-ile-gorusmelerine-iliskin-paylasim/4119105",
    "zaman": "2026-11-10T17:32:30+03:00",
+   "kelimeler": [
+    "bm",
+    "dan",
+    "emine",
+    "erdog",
+    "genel",
+    "gorus",
+    "guter",
+    "ilisk",
+    "payla",
+    "sekre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "22fc3327c24c"
+  },
+  "d1d8fd541ec6": {
+   "id": "d1d8fd541ec6",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan'dan BM Genel Sekreteri Guterres ile görüşmelerine ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler BM Genel Sekreteri Antonio Guterres'e daha adil ve yaşanabilir bir dünya için yürüttüğü değerli çalışmalar ve kıymetli destekleri dolayısıyla teşekkür etti.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-bm-genel-sekreteri-guterres-ile-gorusmelerine-iliskin-paylasim-962836.html",
+   "zaman": "2026-11-10T17:34:00+03:00",
    "kelimeler": [
     "bm",
     "dan",
