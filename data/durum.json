@@ -16946,7 +16946,10 @@
     "tl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "d3212af5b582": {
    "id": "d3212af5b582",
@@ -18221,7 +18224,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ]
   },
   "8ee15e505131": {
@@ -19940,7 +19944,10 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a14e63df8cf1": {
    "id": "a14e63df8cf1",
@@ -21090,7 +21097,10 @@
     "korku"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a5d9ebcc473d": {
    "id": "a5d9ebcc473d",
@@ -21338,7 +21348,8 @@
     "yemin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "22b868f4207c": {
    "id": "22b868f4207c",
@@ -22349,7 +22360,10 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "bdc7d4b445f8": {
    "id": "bdc7d4b445f8",
@@ -25020,7 +25034,10 @@
     "yatir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "a5339bf0048c": {
    "id": "a5339bf0048c",
@@ -25067,9 +25084,542 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f3ac37803b57": {
+   "id": "f3ac37803b57",
+   "kaynak": "TRT Haber",
+   "baslik": "Rızai'den Trump'a İran'ın 7 şartına teslim olma çağrısı",
+   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD Başkanı Donald Trump'a İran'ın defalarca dile getirdiği \"7 şarta\" teslim olma çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/rizaiden-trumpa-iranin-7-sartina-teslim-olma-cagrisi-962741.html",
+   "zaman": "2026-11-10T06:52:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "den",
+    "in",
+    "iran",
+    "olma",
+    "rizai",
+    "sarti",
+    "tesli",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "99a0143744f4": {
+   "id": "99a0143744f4",
+   "kaynak": "Hürriyet",
+   "baslik": "Adana'da 3.5 büyüklüğünde deprem",
+   "ozet": "Adana Kozan'da saat 06.42 sularında 3.5 büyüklüğünde bir deprem meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-adanada-3-5-buyuklugunde-deprem-43372207",
+   "zaman": "2026-11-10T06:57:00+03:00",
+   "kelimeler": [
+    "adana",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c4deac7d5219"
+  },
+  "2fb1db928170": {
+   "id": "2fb1db928170",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump: RusyaUkrayna savaşının sona erdirilmesi yönünde güçlü eğilim görüyoruz",
+   "ozet": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında bir anlaşma zemini aranan Abu Dabi görüşmelerinin çok olumlu ilerlediğini belirterek, \"Rusya ile Ukrayna arasındaki çatışmayı sona erdirme yönünde çok güçlü bir eğilim görüyoruz.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ukrayna-savasinin-sona-erdirilmesi-yonunde-guclu-egilim-goruyoruz-962742.html",
+   "zaman": "2026-11-10T06:58:00+03:00",
+   "kelimeler": [
+    "egili",
+    "erdir",
+    "goruy",
+    "guclu",
+    "rusya",
+    "savas",
+    "sona",
+    "trump",
+    "yonun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "33d754e8efd4": {
+   "id": "33d754e8efd4",
+   "kaynak": "TRT Haber",
+   "baslik": "Kanada ABD'ye yönelik tarifelerindeki muafiyetleri genişletti",
+   "ozet": "Kanada, ABD'nin uyguladığı gümrük vergilerine karşı yürürlüğe koyduğu ek tarifelerdeki muafiyetlerin kapsamını genişletti.",
+   "link": "https://www.trthaber.com/haber/dunya/kanada-abdye-yonelik-tarifelerindeki-muafiyetleri-genisletti-962743.html",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "abd",
+    "genis",
+    "kanad",
+    "muafi",
+    "tarif",
+    "ye",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "686466c0b32c": {
+   "id": "686466c0b32c",
+   "kaynak": "Hürriyet",
+   "baslik": "96 yıl önce Amerikalılara ‘dünya barışı’ çağrısı",
+   "ozet": "Atatürk’ün 11 Kasım 1930’da Amerikan halkına seslendiği tarihi görüntüler, 96 yıl sonra farklı arşiv kayıtları ve dönem fotoğraflarının birleştirilmesiyle yeniden yayımlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/96-yil-once-amerikalilara-dunya-barisi-cagrisi-43372130",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "96",
+    "ameri",
+    "baris",
+    "cagri",
+    "dunya",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9f98042830a4": {
+   "id": "9f98042830a4",
+   "kaynak": "Hürriyet",
+   "baslik": "Apple yöneticisi Anıtkabir’de",
+   "ozet": "Apple CEO'su Tim Cook, 10 Kasım öncesinde Anıtkabir'i ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/apple-yoneticisi-anitkabirde-43372137",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "anitk",
+    "apple",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a40d15152eb8"
+  },
+  "b9c5ade0587e": {
+   "id": "b9c5ade0587e",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan açıkladı... Gabar’da 2 yeni petrol sahası",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, Gabar’da 2 yeni sahada petrol keşfedildiğini söyleyerek, “Ekim ayı itibarıyla üretim başladı. Bu 2 yeni sahada ilk değerlendirmelerimize göre 135 milyon varil petrol potansiyeli bulunuyor” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-acikladi-gabarda-2-yeni-petrol-sahasi-43372157",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "erdog",
+    "gabar",
+    "petro",
+    "sahas",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dad29d4922ec"
+  },
+  "cd63befc8226": {
+   "id": "cd63befc8226",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan’dan Azerbaycan dönüşü önemli mesajlar... Kardeşliğimize kimse gölge düşüremez",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, “Türkiye ile Azerbaycan arasında ayrılık arayanlar beyhude bir çabanın içerisindedir. Bizim aramıza mesafe koymaya çalışanlar milletlerimizin birbirine olan muhabbetini, tarihi bağlarını ve sarsılmaz iradesini hesaba katmıyor” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogandan-azerbaycan-donusu-onemli-mesajlar-kardesligimize-kimse-golge-dusuremez-43372159",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "dan",
+    "donus",
+    "dusur",
+    "erdog",
+    "golge",
+    "karde",
+    "kimse",
+    "mesaj",
+    "oneml"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d3db3487d533"
+  },
+  "16309dc5a285": {
+   "id": "16309dc5a285",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan’dan kaymakam adaylarına sosyal medya uyarısı",
+   "ozet": "Kaymakam adaylarına seslenen Cumhurbaşkanı Tayyip Erdoğan, “Benim gözümde kaymakamın mesaisi olmaz. Gecesi gündüzü, tatili olmaz” dedi, “İletişim adına teşhircilik tuzağına düşülmesi”ne karşı uyarıda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogandan-kaymakam-adaylarina-sosyal-medya-uyarisi-43372163",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "adayl",
+    "dan",
+    "erdog",
+    "kayma",
+    "medya",
+    "sosya",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "28e751d452c2": {
+   "id": "28e751d452c2",
+   "kaynak": "Hürriyet",
+   "baslik": "Köyde bilim ve sanat",
+   "ozet": "Köy okullarındaki öğrencileri bilim, teknoloji ve sanat etkinlikleriyle buluşturmayı amaçlayan proje kapsamında İstanbul’daki Gaziosmanpaşa Bilim ve Sanat Merkezi’nin (BİLSEM) öğretmenleri, Çatalca’daki Kabakça İlk ve Ortaokulu’nda öğrencilerin bilimi kendi çevrelerinden…",
+   "link": "https://www.hurriyet.com.tr/gundem/koyde-bilim-ve-sanat-43372175",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "bilim",
+    "koyde",
+    "sanat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4ddfdd52de3": {
+   "id": "f4ddfdd52de3",
+   "kaynak": "Hürriyet",
+   "baslik": "38 milyonluk kültür köprüsü",
+   "ozet": "TÜRKİYE'de müzeciliğin geliştirilmesi ve müze ziyaretlerinin yaygınlaştırılması amacıyla 2008 yılında hayata geçirilen uygulama kapsamında, 37 milyon 979 bin 749 Müzekart kullanıcılarına ulaştırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/38-milyonluk-kultur-koprusu-43372176",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "38",
+    "kopru",
+    "kultu",
+    "milyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f935e93d14ec": {
+   "id": "f935e93d14ec",
+   "kaynak": "Hürriyet",
+   "baslik": "Savaşçı hücreler şifa olacak",
+   "ozet": "52’nci Ulusal Hematoloji Kongresi’nde konuşan uzmanlar, kan kanseri tedavisinde CAR-T yöntemine dikkat çekti.",
+   "link": "https://www.hurriyet.com.tr/gundem/savasci-hucreler-sifa-olacak-43372177",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "hucre",
+    "olaca",
+    "savas",
+    "sifa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "86cc448d670b": {
+   "id": "86cc448d670b",
+   "kaynak": "Hürriyet",
+   "baslik": "Neriman’ın katiline en ağır ceza",
+   "ozet": "ADANA’nın Seyhan ilçesindeki metro altgeçidinde 7 Mayıs 2025’te, kumar bağımlısı olduğu öne sürülen Mehmet Ali Nayki (59), olaydan 6 ay önce boşandığı, 2 çocuğunun annesi Neriman Onur’u iş çıkışında servisten indiği noktada beklemeye başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/nerimanin-katiline-en-agir-ceza-43372181",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "agir",
+    "ceza",
+    "in",
+    "katil",
+    "nerim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "588e9328f2ae": {
+   "id": "588e9328f2ae",
+   "kaynak": "Hürriyet",
+   "baslik": "Engelli oğlunu öldürüp kayıp başvurusu yapmış",
+   "ozet": "BATMAN’ın Kozluk ilçesinde 2014 yılında R.B., 3 çocuk babası olan zihinsel engelli oğlu Ekrem Bakar’ın (33) terör örgütüne katıldığını iddia ederek kolluk kuvvetlerine kayıp müracaatında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/engelli-oglunu-oldurup-kayip-basvurusu-yapmis-43372183",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "basvu",
+    "engel",
+    "kayip",
+    "oglun",
+    "oldur",
+    "yapmi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0ee3d4211adb": {
+   "id": "0ee3d4211adb",
+   "kaynak": "Hürriyet",
+   "baslik": "Fabrikada patlama: 17 ölü, 1’i ağır 13 yaralı",
+   "ozet": "İzmir Aliağa’da faaliyet gösteren HABAŞ’a ait demir çelik fabrikasında bakım sırasında tavan vincinin koparak doğalgaz hattına düşmesi sonucu patlama meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fabrikada-patlama-17-olu-1i-agir-13-yarali-43372185",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "13",
+    "17",
+    "agir",
+    "fabri",
+    "olu",
+    "patla",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0be2a7354078": {
+   "id": "0be2a7354078",
+   "kaynak": "Hürriyet",
+   "baslik": "Özel’den Aliyev’e ‘Zafer Günü’ kutlaması",
+   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, Karabağ Zaferi’nin 6’ncı yıldönümü nedeniyle Azerbaycan Cumhurbaşkanı İlham Aliyev’i telefonla aradı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozelden-aliyeve-zafer-gunu-kutlamasi-43372197",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "aliye",
+    "den",
+    "gunu",
+    "kutla",
+    "ozel",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1b91cb7710ae": {
+   "id": "1b91cb7710ae",
+   "kaynak": "Hürriyet",
+   "baslik": "YENİ Parti'den Candan Yüceer açıklaması: ‘Muhtemelen AK Parti’ye geçecek’",
+   "ozet": "YENİ Parti Sözcüsü Zeynel Emre, sürpriz bir kararla partilerinden istifa eden Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer’in AK Parti’ye geçebileceğini söyledi. Emre, “Bir hazırlık olduğu görülüyordu” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-partiden-candan-yuceer-aciklamasi-muhtemelen-ak-partiye-gececek-43372198",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ak",
+    "canda",
+    "den",
+    "gecec",
+    "muhte",
+    "parti",
+    "ye",
+    "yeni",
+    "yucee"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f4f4d6cb177f": {
+   "id": "f4f4d6cb177f",
+   "kaynak": "Hürriyet",
+   "baslik": "Bahçeli’den Atatürk mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, “Atatürk’e sevgi, saygı ve büyük bir duyguyla bağlı olan kuşaklara düşen görev, onu anarken anlayıp geriye bıraktığı bu büyük mirası sonsuza kadar yaşatmaktır” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bahceliden-ataturk-mesaji-43372199",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "atatu",
+    "bahce",
+    "den",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2c2630334272"
+  },
+  "793f6248835c": {
+   "id": "793f6248835c",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül’ün dosyası Ankara’da",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı, Erzincan Milletvekili Mustafa Sarıgül hakkında ‘cinsel saldırı’, ‘suçtan kaynaklanan malvarlığı değerlerini aklama’, ‘suç örgütü kurma’ ve ‘çocuğun cinsel istismarı’ iddiasıyla yürüttüğü soruşturma dosyasına ‘yetkisizlik’ kararı verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigulun-dosyasi-ankarada-43372200",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "dosya",
+    "sarig",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ce3b42a2a9e1"
+  },
+  "cea1bf373cdd": {
+   "id": "cea1bf373cdd",
+   "kaynak": "Hürriyet",
+   "baslik": "Gazeteci arkadaşımız Tarık Devrim’i uğurladık",
+   "ozet": "İSTANBUL’da önceki gün tedavi gördüğü hastanede 69 yaşında hayatını kaybeden deneyimli gazeteci Tarık Devrim, dün İstanbul Üsküdar’da son yolculuğuna uğurlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gazeteci-arkadasimiz-tarik-devrimi-ugurladik-43372201",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "arkad",
+    "devri",
+    "gazet",
+    "tarik",
+    "ugurl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9f668f044909": {
+   "id": "9f668f044909",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek’ten fon açıklaması: Gönüllü iade 31.5 milyar TL",
+   "ozet": "Fon soruşturmasında yaklaşık 31.5 milyar TL değerinde para, taşınmaz ve hisse senedinin iade edildiğini açıklayan Bakan Gürlek, firari 40 şüphelinin arandığını söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-fon-aciklamasi-gonullu-iade-31-5-milyar-tl-43372202",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "31",
+    "acikl",
+    "bakan",
+    "fon",
+    "gonul",
+    "gurle",
+    "iade",
+    "milya",
+    "ten",
+    "tl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41a48effe033"
+  },
+  "7bb180eee52a": {
+   "id": "7bb180eee52a",
+   "kaynak": "Hürriyet",
+   "baslik": "İhraç teğmenlere ‘iftira’ davası",
+   "ozet": "KARA Harp Okulu’ndaki mezuniyet töreninde kılıçlı yemin etmeleri nedeniyle TSK’dan ihraç edilen 5 teğmen hakkında “iftira” suçundan 4 yıla kadar hapis cezası talebiyle dava açıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ihrac-tegmenlere-iftira-davasi-43372203",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "davas",
+    "iftir",
+    "ihrac",
+    "tegme"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b3c0c4f6aa52"
+  },
+  "86e7c959bb1f": {
+   "id": "86e7c959bb1f",
+   "kaynak": "Hürriyet",
+   "baslik": "Fonda 2 kritik tutuklama",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nca yürütülen ‘fon soruşturması’ kapsamında BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası Genel Müdürü Murat Yönaç tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fonda-2-kritik-tutuklama-43372204",
+   "zaman": "2026-11-10T07:00:00+03:00",
+   "kelimeler": [
+    "fonda",
+    "kriti",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "18e1a5f548e5": {
+   "id": "18e1a5f548e5",
+   "kaynak": "AA",
+   "baslik": "Nvidia ve CEO'su Huang'a yatırımcıları yanılttıkları iddiasıyla dava açıldı",
+   "ozet": "Nvidia ve Üst Yöneticisi Jensen Huang'a, Çin adına istihbarat topladığı öne sürülen Singapur merkezli Megaspeed'in eski yöneticisi Alice Huang ile ilişkilerini açıklamayarak yatırımcıları yanılttıkları iddiasıyla dava açıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi/4118112",
+   "zaman": "2026-11-10T07:00:13+03:00",
+   "kelimeler": [
+    "acild",
+    "ceo",
+    "dava",
+    "huang",
+    "iddia",
+    "nvidi",
+    "su",
+    "yanil",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b79a93bbcdb3"
+  },
+  "e3304b739ddc": {
+   "id": "e3304b739ddc",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail, hapishanede açlıktan ölen Filistinli çocuğun cenazesini 1,5 yıl sonra ailesine verecek",
+   "ozet": "İsrail yönetimi, Megiddo Hapishanesi'nde Mart 2025'te yetersiz beslenme nedeniyle yaşamını yitiren 17 yaşındaki Filistinli çocuk Velid Ahmed'in cenazesini, aradan geçen 1,5 yılın ardından ailesine teslim etmeyi kabul etti.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-hapishanede-acliktan-olen-filistinli-cocugun-cenazesini-15-yil-sonra-ailesine-verecek-962744.html",
+   "zaman": "2026-11-10T07:02:00+03:00",
+   "kelimeler": [
+    "aclik",
+    "ailes",
+    "cenaz",
+    "cocug",
+    "filis",
+    "hapis",
+    "israi",
+    "katil",
+    "olen",
+    "verec",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4bde583e1094": {
+   "id": "4bde583e1094",
+   "kaynak": "TRT Haber",
+   "baslik": "Hamas: 'Barış Kurulu' Gazze'deki felaket gerçekliğini çarpıtıyor ve İsrailin sorumluluğu görmezden geliyor",
+   "ozet": "Hamas, Barış Kurulu'nun Gazze Şeridi'ndeki sel felaketinin nedenlerine ilişkin \"çarpıtılmış bir anlatı\" sunduğunu belirterek, konseyin ABD Başkanı Donald Trump'ın planının uygulanmasını engelleyen ve yardımların girişini kısıtlayan katil İsrail'in sorumluluğunu görmezden…",
+   "link": "https://www.trthaber.com/haber/dunya/hamas-baris-kurulu-gazzedeki-felaket-gercekligini-carpitiyor-ve-israilin-sorumlulugu-gormezden-geliyor-962745.html",
+   "zaman": "2026-11-10T07:03:00+03:00",
+   "kelimeler": [
+    "baris",
+    "carpi",
+    "deki",
+    "felak",
+    "gazze",
+    "geliy",
+    "gerce",
+    "gorme",
+    "hamas",
+    "israi",
+    "kurul",
+    "sorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3d4c76bf8d5f": {
+   "id": "3d4c76bf8d5f",
+   "kaynak": "NTV",
+   "baslik": "İzmir'de demir çelik fabrikasında patlama. 17 kişi hayatını kaybetti",
+   "ozet": "İzmir Aliağa'da bir demir çelik fabrikasında şiddetli patlamanın ardından yangın çıktı. Çökmeler meydana gelen fabrikada 17 kişi hayatını kaybetti. Soruşturma kapsamında 6 kişi gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/izmirde-demir-celik-fabrikasinda-patlama-17-kisi-hayatini-kaybetti-1750183",
+   "zaman": "2026-11-10T07:06:12+03:00",
+   "kelimeler": [
+    "17",
+    "celik",
+    "demir",
+    "fabri",
+    "hayat",
+    "izmir",
+    "kaybe",
+    "kisi",
+    "patla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f97968d2327"
+  },
+  "895c9383810c": {
+   "id": "895c9383810c",
+   "kaynak": "NTV",
+   "baslik": "Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 10 Kasım 2026",
+   "ozet": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 10 Kasım 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adana son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-adanada-deprem-mi-oldu-az-once-deprem-adanada-nerede-oldu-adana-deprem-kandilli-ve-afad-son-depremler-listesi-10-kasim-2026-1750190",
+   "zaman": "2026-11-10T07:10:00+03:00",
+   "kelimeler": [
+    "10",
+    "2026",
+    "adana",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1bdf9c409177"
   }
  },
  "kayit": [
+  "10.11 07:13:50  17 yeni haber",
   "10.11 07:03:50  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Google, 10 Kasım'da Atatürk'ü siyah kurdele ile andı.",
   "10.11 07:02:16  3 yeni haber",
   "10.11 05:32:32  1 yeni haber",
@@ -25268,8 +25818,7 @@
   "08.11 00:01:25  4 yeni haber",
   "07.11 23:31:17  4 yeni haber",
   "07.11 22:42:56  2 yeni haber",
-  "07.11 22:31:15  1 yeni haber",
-  "07.11 22:16:03  2 yeni haber"
+  "07.11 22:31:15  1 yeni haber"
  ],
  "otomatik": false
 }
