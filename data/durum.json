@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "34fc2b73353d": {
-   "id": "34fc2b73353d",
-   "kaynak": "Sözcü",
-   "baslik": "Eda Ece haberi alır almaz hastaneye koştu",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/eda-ece-haberi-alir-almaz-hastaneye-kostu-p377029",
-   "zaman": "2026-11-08T00:26:40+03:00",
-   "kelimeler": [
-    "alir",
-    "almaz",
-    "ece",
-    "eda",
-    "hasta",
-    "kostu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "cbd4821a27d7": {
    "id": "cbd4821a27d7",
    "kaynak": "Sözcü",
@@ -29248,8 +29230,17 @@
     "ucuru",
     "yuvar"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-11T00:34:09.839075+03:00",
+   "ig_id": "17916793305554253",
+   "reels_id": "18075170000766031",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1845211010166962",
+   "slayt": 5,
+   "kanca": "50 METRELİK UÇURUM"
   },
   "d8c8faf27170": {
    "id": "d8c8faf27170",
@@ -29785,10 +29776,83 @@
     "tan"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "ab130697684d": {
+   "id": "ab130697684d",
+   "kaynak": "AA",
+   "baslik": "Yemen'de Dali ve Marib'de çatışmalar sürerken Sana'ya hava saldırısı düzenlendi",
+   "ozet": "Yemen'de hükümet güçleri ile Husiler arasında Dali ve Marib illerindeki çatışmaların yanı sıra başkent Sana'ya düzenlenen hava saldırılarında ölü ve yaralıların olduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-dali-ve-maribde-catismalar-surerken-sanaya-hava-saldirisi-duzenlendi/4119440",
+   "zaman": "2026-11-10T21:31:51+03:00",
+   "kelimeler": [
+    "catis",
+    "dali",
+    "duzen",
+    "hava",
+    "marib",
+    "saldi",
+    "sana",
+    "surer",
+    "ya",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3396a15aa687": {
+   "id": "3396a15aa687",
+   "kaynak": "AA",
+   "baslik": "İsrail'de Eisenkot'tan Netanyahu'nun partisi Likud ile müzakereleri iptal etme talimatı",
+   "ozet": "Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun İsrail Meclisinin açılışında yaptığı \"bölücü\" konuşma nedeniyle Yashar ve Likud partileri arasında gerçekleştirilecek müzakere toplantısını iptal etme talimatı verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati/4119545",
+   "zaman": "2026-11-10T23:59:38+03:00",
+   "kelimeler": [
+    "eisen",
+    "etme",
+    "iptal",
+    "israi",
+    "likud",
+    "muzak",
+    "netan",
+    "nun",
+    "parti",
+    "talim",
+    "tan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f4c77697dbb2"
+  },
+  "7b72c8448aa0": {
+   "id": "7b72c8448aa0",
+   "kaynak": "AA",
+   "baslik": "İtalya hükümeti F-35 programına 7,3 milyar avro ek harcama için parlamentoya başvurdu",
+   "ozet": "İtalya'da sağ koalisyon hükümeti, F-35 savaş uçağı programı için yaklaşık 7,3 milyar avroluk ek harcama yapmak üzere parlamentoya başvurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/italya-hukumeti-f-35-programina-7-3-milyar-avro-ek-harcama-icin-parlamentoya-basvurdu/4119546",
+   "zaman": "2026-11-10T23:59:51+03:00",
+   "kelimeler": [
+    "35",
+    "avro",
+    "basvu",
+    "ek",
+    "harca",
+    "hukum",
+    "italy",
+    "milya",
+    "parla",
+    "progr"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 00:34:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 50 metrelik uçuruma yuvarlanan otomobilden sağ kurtuldular",
+  "11.11 00:32:05  2 yeni haber",
   "11.11 00:16:03  2 yeni haber",
   "11.11 00:04:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ölen kadının telefonu çaldı, açan kişinin boğazı düğümlendi! Kaza yeri",
   "11.11 00:01:32  2 yeni haber",
@@ -29986,9 +30050,7 @@
   "08.11 22:01:38  3 yeni haber",
   "08.11 21:46:13  2 yeni haber",
   "08.11 21:16:02  1 yeni haber",
-  "08.11 20:46:03  2 yeni haber",
-  "08.11 20:31:19  2 yeni haber",
-  "08.11 20:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye SKIL Enduro ve ATV Şampiyonası'nın Rize ayağı, karlı havada ta"
+  "08.11 20:46:03  2 yeni haber"
  ],
  "otomatik": false
 }
