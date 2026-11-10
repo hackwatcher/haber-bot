@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "bb3d74beca35": {
-   "id": "bb3d74beca35",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanı Fidan: Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemeli",
-   "ozet": "Bakan Fidan, \"Rotalar korunmalı, çatışmalar kısıtlanmalıdır. Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemelidir. Türkiye sürdürülebilir diplomasi sağlamaya, bölgesel sahipliği korumaya çalışıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-politik-anlasmazliklar-global-ekonomileri-surduren-sistemleri-paralize-etmemeli/4115057",
-   "zaman": "2026-11-07T12:52:24+03:00",
-   "kelimeler": [
-    "anlas",
-    "bakan",
-    "disis",
-    "ekono",
-    "etmem",
-    "fidan",
-    "globa",
-    "paral",
-    "polit",
-    "siste",
-    "surdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "14412a2a6da5": {
-   "id": "14412a2a6da5",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan: Türkiye, bölgesel sahipliği korumaya çalışıyor",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, \"Rotalar korunmalıdır. Çatışmalar kısıtlanmalıdır. Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemelidir. Bu yüzden Türkiye bu enstrümanları kullanıyor.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiye-bolgesel-sahipligi-korumaya-calisiyor-962524.html",
-   "zaman": "2026-11-07T12:56:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "bolge",
-    "calis",
-    "fidan",
-    "korum",
-    "sahip",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a2a4b55cfa9d": {
-   "id": "a2a4b55cfa9d",
-   "kaynak": "Hürriyet",
-   "baslik": "Üniversitelerde 4 yıllık eğitim süresi düşüyor mu? YÖK Başkanı Özvar'dan yeni açıklama",
-   "ozet": "YÖK Başkanı Prof. Dr. Erol Özvar, CNN TÜRK'te Hakan Çelik'in sorularını cevapladı. YÖK Başkanı Prof. Dr. Erol Özvar, üniversitelerdeki müfredat hakkında konuşurken, \"Eğitim programlarında müfredat sadeleştirilmeli. Ders sayıları azaltılmalı.",
-   "link": "https://www.hurriyet.com.tr/gundem/universitelerde-4-yillik-egitim-suresi-dusuyor-mu-yok-baskani-ozvardan-yeni-aciklama-43369429",
-   "zaman": "2026-11-07T12:56:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "baska",
-    "dan",
-    "dusuy",
-    "egiti",
-    "ozvar",
-    "sures",
-    "unive",
-    "yeni",
-    "yilli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e1294dcffec6": {
    "id": "e1294dcffec6",
    "kaynak": "Hürriyet",
@@ -27270,7 +27206,10 @@
     "yol"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6e9f139ff0ef": {
    "id": "6e9f139ff0ef",
@@ -27318,7 +27257,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ddf91e80eee0": {
    "id": "ddf91e80eee0",
@@ -27453,9 +27395,216 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "697f7f2e3599": {
+   "id": "697f7f2e3599",
+   "kaynak": "AA",
+   "baslik": "Türk şirketten 30'dan fazla ülkeye dron ihracatı başarısı",
+   "ozet": "Türk savunma sanayisi bünyesinde Skydagger tarafından geliştirilen kamikaze insansız hava araçları (İHA/dron) 30'dan fazla ülkeye ihracat başarısı yakaladı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-sirketten-30dan-fazla-ulkeye-dron-ihracati-basarisi/4118517",
+   "zaman": "2026-11-10T12:29:15+03:00",
+   "kelimeler": [
+    "30",
+    "basar",
+    "dan",
+    "dron",
+    "fazla",
+    "ihrac",
+    "sirke",
+    "turk",
+    "ulkey"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e1f124bc3ba": {
+   "id": "5e1f124bc3ba",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin COP ev sahipliği BM Genel Sekreteri Guterres'i etkiledi",
+   "ozet": "BM Genel Sekreteri Antonio Guterres, Türkiye'nin COP organizasyonunun yüksek kalitesinden etkilendiğini belirterek ev sahipliğine övgüde bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/turkiyenin-cop-ev-sahipligi-bm-genel-sekreteri-guterresi-etkiledi-962796.html",
+   "zaman": "2026-11-10T12:41:00+03:00",
+   "kelimeler": [
+    "bm",
+    "cop",
+    "etkil",
+    "ev",
+    "genel",
+    "guter",
+    "nin",
+    "sahip",
+    "sekre",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3400e81602ef"
+  },
+  "2085074ebf48": {
+   "id": "2085074ebf48",
+   "kaynak": "AA",
+   "baslik": "ABD, İran'ı Hürmüz'ün yanı sıra karadan ve Hazar Denizi'nden de ablukaya almak istiyor",
+   "ozet": "Washington ile Tahran arasındaki gerilim sürerken, ABD, deniz ablukasının ardından İran'ın ticaret ve askeri tedarik kanallarını kara sınırları ve Hazar Denizi üzerinden de kontrol altına almak amacıyla \"Demir Kapı\" adını verdiği girişimi duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-irani-hurmuzun-yani-sira-karadan-ve-hazar-denizinden-de-ablukaya-almak-istiyor/4118574",
+   "zaman": "2026-11-10T12:44:17+03:00",
+   "kelimeler": [
+    "abd",
+    "abluk",
+    "almak",
+    "deniz",
+    "hazar",
+    "hurmu",
+    "iran",
+    "istiy",
+    "karad",
+    "nden",
+    "sira",
+    "un",
+    "yani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "03591c816ec4": {
+   "id": "03591c816ec4",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeşil Mutabakat Eylem Planı ile 41 hedef için yol haritası çizildi",
+   "ozet": "Türkiye'nin yeşil dönüşüm sürecine yön veren temel politika belgelerinden biri olan 20262030 dönemine ilişkin yeni Yeşil Mutabakat Eylem Planı'nda 11 ana başlık, 41 hedef ve 142 eylem yer alıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/yesil-mutabakat-eylem-plani-ile-41-hedef-icin-yol-haritasi-cizildi-962797.html",
+   "zaman": "2026-11-10T12:45:00+03:00",
+   "kelimeler": [
+    "41",
+    "cizil",
+    "eylem",
+    "harit",
+    "hedef",
+    "mutab",
+    "plani",
+    "yesil",
+    "yol"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a89849afe176"
+  },
+  "261302ced2a5": {
+   "id": "261302ced2a5",
+   "kaynak": "AA",
+   "baslik": "Bakan Bayraktar Türkiye'nin enerji dönüşümü için 2040'a kadar 300 milyar dolar yatırım öngördüklerini bildirdi",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin enerji dönüşümü için 2040'a kadar yaklaşık 300 milyar dolarlık yatırım öngördüklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiyenin-enerji-donusumu-icin-2040a-kadar-300-milyar-dolar-yatirim-ongorduklerini-bildirdi/4118588",
+   "zaman": "2026-11-10T12:48:08+03:00",
+   "kelimeler": [
+    "2040",
+    "300",
+    "bakan",
+    "bayra",
+    "bildi",
+    "dolar",
+    "donus",
+    "enerj",
+    "milya",
+    "nin",
+    "ongor",
+    "turki",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2436778d170e": {
+   "id": "2436778d170e",
+   "kaynak": "Hürriyet",
+   "baslik": "Son iki haftada dev bilanço: 76 ilde 1204 uyuşturucu satıcısı cezaevine gönderildi",
+   "ozet": "İçişleri Bakanlığı, narkotik ekiplerinin hava araçları ve dedektör köpeklerle 76 ilde yürüttüğü kapsamlı operasyonun sonuçlarını paylaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-iki-haftada-dev-bilanco-76-ilde-1204-uyusturucu-saticisi-cezaevine-gonderildi-43372803",
+   "zaman": "2026-11-10T12:49:22+03:00",
+   "kelimeler": [
+    "1204",
+    "76",
+    "bilan",
+    "cezae",
+    "dev",
+    "gonde",
+    "hafta",
+    "iki",
+    "ilde",
+    "satic",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b90505a05697": {
+   "id": "b90505a05697",
+   "kaynak": "AA",
+   "baslik": "ABD'de senatör seçilen Filistin asıllı Kawas'a göre, İsrail'e askeri yardımın kesilmesi \"halkın zaferi\"",
+   "ozet": "ABD'de düzenlenen ara seçimlerde New York eyalet senatörü seçilen Filistin asıllı Aber Kawas, Başkan Donald Trump'ın İsrail'e askeri yardımı sonlandıracağına ilişkin açıklamasını \"halkın zaferi\" olarak nitelendirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-senator-secilen-filistin-asilli-kawasa-gore-israile-askeri-yardimin-kesilmesi-halkin-zaferi/4118597",
+   "zaman": "2026-11-10T12:51:34+03:00",
+   "kelimeler": [
+    "abd",
+    "asill",
+    "asker",
+    "filis",
+    "gore",
+    "halki",
+    "israi",
+    "kawas",
+    "kesil",
+    "secil",
+    "senat",
+    "yardi",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "24139ed4df2b": {
+   "id": "24139ed4df2b",
+   "kaynak": "AA",
+   "baslik": "ABD Senatosu Azınlık Lideri Demokrat Schumer ara seçim sonuçlarını Trump'ı eleştirerek değerlendirdi",
+   "ozet": "ABD'de İsrail'e desteğiyle bilinen Senato Azınlık Lideri Chuck Schumer, ABD'lilerin ara seçimlerde Başkan Donald Trump yönetiminin İran ile savaşına ve tarifelerine son verme konusundaki istekliliğini ortaya koyduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-ara-secim-sonuclarini-trumpi-elestirerek-degerlendirdi/4118601",
+   "zaman": "2026-11-10T12:52:10+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "azinl",
+    "deger",
+    "demok",
+    "elest",
+    "lider",
+    "schum",
+    "secim",
+    "senat",
+    "sonuc",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ea253d0a2c4e": {
+   "id": "ea253d0a2c4e",
+   "kaynak": "Sözcü",
+   "baslik": "Antalya Büyükşehir'de dört yönetici görevden alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/antalya-buyuksehirde-dort-yonetici-gorevden-alindi-p379895",
+   "zaman": "2026-11-10T12:57:28+03:00",
+   "kelimeler": [
+    "alind",
+    "antal",
+    "buyuk",
+    "dort",
+    "gorev",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 13:01:56  7 yeni haber",
   "10.11 12:53:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · 76 ildeki uyuşturucu operasyonlarında 1204 şüpheli tutuklandı",
   "10.11 12:50:24  12 yeni haber",
   "10.11 12:31:27  13 yeni haber",
@@ -27654,8 +27803,7 @@
   "08.11 09:48:33  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Japonya'da 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı",
   "08.11 09:46:01  2 yeni haber",
   "08.11 09:31:10  5 yeni haber",
-  "08.11 09:01:22  2 yeni haber",
-  "08.11 08:48:39  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Galatasaray, Amedspor müsabakasına ısınmaya Mustafa Kemal Atatürk tişö"
+  "08.11 09:01:22  2 yeni haber"
  ],
  "otomatik": false
 }
