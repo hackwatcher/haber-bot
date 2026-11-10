@@ -1,42 +1,5 @@
 {
  "haberler": {
-  "5bbd7bd2f442": {
-   "id": "5bbd7bd2f442",
-   "kaynak": "AA",
-   "baslik": "Milli basketbolcu Cedi Osman, ameliyat edildi",
-   "ozet": "A Milli Erkek Basketbol Takımı kaptanı Cedi Osman, ameliyat edildi.",
-   "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-cedi-osman-ameliyat-edildi/4115384",
-   "zaman": "2026-11-07T20:22:55+03:00",
-   "kelimeler": [
-    "ameli",
-    "baske",
-    "cedi",
-    "edild",
-    "milli",
-    "osman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "66acaed8d0e6": {
-   "id": "66acaed8d0e6",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile görüştü. Liderler, TürkiyeABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html",
-   "zaman": "2026-11-07T20:30:00+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2695144351ba"
-  },
   "814f41b8a2ef": {
    "id": "814f41b8a2ef",
    "kaynak": "Hürriyet",
@@ -713,25 +676,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6e1d99482b0e"
-  },
-  "deebc2c75868": {
-   "id": "deebc2c75868",
-   "kaynak": "AA",
-   "baslik": "Kastamonu merkezli uyuşturucu operasyonunda 25 şüpheli tutuklandı",
-   "ozet": "Kastamonu merkezli 3 ilde düzenlenen uyuşturucu operasyonunda gözaltına alınan 35 şüpheliden 25'i tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/kastamonu-merkezli-uyusturucu-operasyonunda-25-supheli-tutuklandi-/4115387",
-   "zaman": "2026-11-07T20:26:15+03:00",
-   "kelimeler": [
-    "25",
-    "kasta",
-    "merke",
-    "opera",
-    "suphe",
-    "tutuk",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "28c6947dbcc8": {
    "id": "28c6947dbcc8",
@@ -29505,7 +29449,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3d5a480b5967": {
    "id": "3d5a480b5967",
@@ -29550,9 +29497,74 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "28d294a4b11b"
+  },
+  "84e5511b7c69": {
+   "id": "84e5511b7c69",
+   "kaynak": "AA",
+   "baslik": "\"Türkiye İklim Okulu\", COP31 kapsamında uluslararası etkinliklere ev sahipliği yaptı",
+   "ozet": "Milli Eğitim Bakanlığınca, COP31 kapsamında oluşturulan \"Türkiye İklim Okulu\"nda iklim değişikliğiyle mücadelede eğitimin rolü, gençlerin iklim politikalarına katılımı ve uluslararası işbirliği imkanları ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti/4119227",
+   "zaman": "2026-11-10T18:53:11+03:00",
+   "kelimeler": [
+    "cop31",
+    "etkin",
+    "ev",
+    "iklim",
+    "kapsa",
+    "okulu",
+    "sahip",
+    "turki",
+    "ulusl",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3450db4fa403"
+  },
+  "b40939cdd771": {
+   "id": "b40939cdd771",
+   "kaynak": "AA",
+   "baslik": "\"Akdeniz'de enerji işbirliğini güçlendirmek için yeni ortaklıklar\" oturumu düzenlendi",
+   "ozet": "COP31 kapsamında TeraMed girişimi, Fas merkezli IMAL ve İtalyan iklim düşünce kuruluşu ECCO tarafından Akdeniz ülkeleri arasında enerji işbirliğini güçlendirmeye yönelik ortaklıkların ele alındığı oturum düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/akdenizde-enerji-isbirligini-guclendirmek-icin-yeni-ortakliklar-oturumu-duzenlendi/4119350",
+   "zaman": "2026-11-10T20:18:19+03:00",
+   "kelimeler": [
+    "akden",
+    "duzen",
+    "enerj",
+    "gucle",
+    "isbir",
+    "ortak",
+    "oturu",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b834417953ea": {
+   "id": "b834417953ea",
+   "kaynak": "TRT Haber",
+   "baslik": "Ziraat ve Halk katılım bankalarının Türkiye Varlık Fonuna devri tamamlandı",
+   "ozet": "Türkiye Varlık Fonu'nun TVF yüzde 100 iştiraki TVF Katılım Finans Yatırımları AŞ, Ziraat Katılım ve Halk Katılım'ın paylarının tamamını devraldı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ziraat-ve-halk-katilim-bankalarinin-turkiye-varlik-fonuna-devri-tamamlandi-962850.html",
+   "zaman": "2026-11-10T20:22:00+03:00",
+   "kelimeler": [
+    "banka",
+    "devri",
+    "fonun",
+    "halk",
+    "katil",
+    "tamam",
+    "turki",
+    "varli",
+    "ziraa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 20:31:26  2 yeni haber",
   "10.11 20:16:21  2 yeni haber",
   "10.11 20:01:56  4 yeni haber",
   "10.11 19:48:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Rusya: Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz",
@@ -29751,8 +29763,7 @@
   "08.11 16:15:59  4 yeni haber",
   "08.11 16:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Direksiyon hakimiyetini kaybetti, takla attı",
   "08.11 16:01:25  2 yeni haber",
-  "08.11 15:46:00  3 yeni haber",
-  "08.11 15:31:18  2 yeni haber"
+  "08.11 15:46:00  3 yeni haber"
  ],
  "otomatik": false
 }
