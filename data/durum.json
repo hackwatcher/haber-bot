@@ -1,82 +1,5 @@
 {
  "haberler": {
-  "d207052c2737": {
-   "id": "d207052c2737",
-   "kaynak": "TRT Haber",
-   "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliği'nde değişikliğe gidildi",
-   "ozet": "Çevresel Etki Değerlendirmesi ÇED Yönetmeliği'nde Değişiklik Yapılmasına Dair Yönetmelik, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/cevresel-etki-degerlendirmesi-yonetmeliginde-degisiklige-gidildi-962527.html",
-   "zaman": "2026-11-07T13:36:00+03:00",
-   "kelimeler": [
-    "cevre",
-    "deger",
-    "degis",
-    "etki",
-    "gidil",
-    "nde",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "569de531c487": {
-   "id": "569de531c487",
-   "kaynak": "NTV",
-   "baslik": "Bursa'da mantar can aldı",
-   "ozet": "Bursa'da bir kadın komşularından aldığı mantarı evinde pişirerek tükettikten sonra yaşamını yitirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/bursada-mantar-can-aldi-1749822",
-   "zaman": "2026-11-07T13:45:03+03:00",
-   "kelimeler": [
-    "aldi",
-    "bursa",
-    "can",
-    "manta"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "09f3d57d56f2": {
-   "id": "09f3d57d56f2",
-   "kaynak": "TRT Haber",
-   "baslik": "Aydın'da mobilya deposunda çıkan yangın kontrol altına alındı",
-   "ozet": "Aydın'ın Kuşadası ilçesinde mobilya deposunda çıkan yangın kontrol altına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/aydinda-mobilya-deposunda-cikan-yangin-kontrol-altina-alindi-962528.html",
-   "zaman": "2026-11-07T13:41:00+03:00",
-   "kelimeler": [
-    "alind",
-    "altin",
-    "aydin",
-    "cikan",
-    "depos",
-    "kontr",
-    "mobil",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "73387bbb36a3"
-  },
-  "4a4a6df63079": {
-   "id": "4a4a6df63079",
-   "kaynak": "AA",
-   "baslik": "Rusya'da siber saldırı nedeniyle bazı ekonomik verilerin yayımlanması gecikiyor",
-   "ozet": "Rusya Federal İstatistik Kurumu (Rosstat), bilişim sistemlerine yönelik siber saldırının ardından bazı ekonomik verilerin açıklanmasında gecikmeler yaşanabileceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusyada-siber-saldiri-nedeniyle-bazi-ekonomik-verilerin-yayimlanmasi-gecikiyor/4115096",
-   "zaman": "2026-11-07T13:45:41+03:00",
-   "kelimeler": [
-    "bazi",
-    "ekono",
-    "gecik",
-    "neden",
-    "rusya",
-    "saldi",
-    "siber",
-    "veril",
-    "yayim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9a2997c99666": {
    "id": "9a2997c99666",
    "kaynak": "TRT Haber",
@@ -14090,7 +14013,8 @@
     "yayim"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b4b428922056": {
    "id": "b4b428922056",
@@ -27640,7 +27564,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "0343f9aa39a8": {
    "id": "0343f9aa39a8",
@@ -27859,9 +27786,251 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "23daa68f922e": {
+   "id": "23daa68f922e",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa, süpermarket saldırıları ile ilgili İran'a karşı tüm seçenekleri masada tutuyor",
+   "ozet": "Fransa Dışişleri Bakanı Jean Noel Barrot, 700den fazla süpermarketin soğutma sistemlerini hedef alan siber saldırının arkasında olduğunu duyurduğu İran Devrim Muhafızları Ordusuna karşı uygulanacak yaptırımlarda, hiçbir seçeneği göz ardı etmeyeceklerini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/fransa-supermarket-saldirilari-ile-ilgili-irana-karsi-tum-secenekleri-masada-tutuyor-962790.html",
+   "zaman": "2026-11-10T12:04:00+03:00",
+   "kelimeler": [
+    "frans",
+    "ilgil",
+    "iran",
+    "karsi",
+    "masad",
+    "saldi",
+    "secen",
+    "super",
+    "tum",
+    "tutuy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "39b5eb690051": {
+   "id": "39b5eb690051",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail'in poligonları Filistinlileri tehdit ediyor",
+   "ozet": "Filistin Duvar ve Yerleşimle Mücadele Komisyonu, İsrail makamlarının işgal altındaki Batı Şeria'da 31 yerleşim noktasında atış poligonları kurulmasına imkan tanıyan planı onaylamasının Filistinlilerin güvenliğini tehdit ettiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-poligonlari-filistinlileri-tehdit-ediyor-962791.html",
+   "zaman": "2026-11-10T12:07:00+03:00",
+   "kelimeler": [
+    "ediyo",
+    "filis",
+    "in",
+    "isgal",
+    "israi",
+    "polig",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "08a84078ac22": {
+   "id": "08a84078ac22",
+   "kaynak": "TRT Haber",
+   "baslik": "Çevrim içi istismara yapay zeka takibi",
+   "ozet": "Güney Kore, çocuklara yönelik çevrim içi cinsel istismar içeriklerinin tespit edilip kaldırılması amacıyla yapay zeka destekli sistem kullandığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/cevrim-ici-istismara-yapay-zeka-takibi-962792.html",
+   "zaman": "2026-11-10T12:12:00+03:00",
+   "kelimeler": [
+    "cevri",
+    "ici",
+    "istis",
+    "takib",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "87ea67a3ff3d": {
+   "id": "87ea67a3ff3d",
+   "kaynak": "AA",
+   "baslik": "Sanayinin yeşil dönüşümünde özel sektör finansmanı önem taşıyor",
+   "ozet": "Birleşmiş Milletler Sınai Kalkınma Örgütü (UNIDO) İklim ve Teknoloji Ortaklıkları Bölümü Şefi Petra Schwager, sanayinin sürdürülebilir dönüşümü için kamu kaynaklarının yanı sıra özel sektör yatırımlarına da ihtiyaç duyulduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sanayinin-yesil-donusumunde-ozel-sektor-finansmani-onem-tasiyor-/4118573",
+   "zaman": "2026-11-10T12:44:12+03:00",
+   "kelimeler": [
+    "donus",
+    "finan",
+    "onem",
+    "ozel",
+    "sanay",
+    "sekto",
+    "tasiy",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f410b94125df": {
+   "id": "f410b94125df",
+   "kaynak": "TRT Haber",
+   "baslik": "Bulgaristan'da yaklaşık 70 aracın karıştığı iki zincirleme trafik kazasında en az 10 kişi öldü",
+   "ozet": "Bulgaristan'da Sofya'yı Burgaz'a bağlayan Trakya Otoyolu'nda yoğun sis nedeniyle meydana gelen iki ayrı zincirleme trafik kazasında 10'dan fazla kişi yaşamını yitirdi, 16 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-iki-zincirleme-trafik-kazasinda-en-az-10-kisi-oldu-962801.html",
+   "zaman": "2026-11-10T12:59:00+03:00",
+   "kelimeler": [
+    "10",
+    "70",
+    "araci",
+    "az",
+    "bulga",
+    "iki",
+    "karis",
+    "kazas",
+    "kisi",
+    "trafi",
+    "yakla",
+    "zinci"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "f69345c94fdf": {
+   "id": "f69345c94fdf",
+   "kaynak": "TRT Haber",
+   "baslik": "Cevdet Yılmaz: Sıfır Atık, küresel markaya dönüşmüş bir hareket",
+   "ozet": "Cumhurbaşkanı Yardımcısı Yılmaz,\" Sıfır Atık hareketi de buna vesile olan bir hareket olarak, dediğim gibi ülkemizden çıkmış, küresel bir markaya dönüşmüş durumda.",
+   "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-sifir-atik-kuresel-markaya-donusmus-bir-hareket-962802.html",
+   "zaman": "2026-11-10T13:18:00+03:00",
+   "kelimeler": [
+    "atik",
+    "cevde",
+    "donus",
+    "harek",
+    "kures",
+    "marka",
+    "sifir",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f80ba6f23b97": {
+   "id": "f80ba6f23b97",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgüller soruşturmasında yeni gelişme: 11 kişi serbest bırakıldı",
+   "ozet": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçuna ilişkin yürütülen soruşturma kapsamında gözaltına alınan 11 şüpheli, adli kontrol tedbiriyle serbest bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sariguller-sorusturmasinda-yeni-gelisme-11-kisi-serbest-birakildi-43372886",
+   "zaman": "2026-11-10T13:32:00+03:00",
+   "kelimeler": [
+    "11",
+    "birak",
+    "gelis",
+    "kisi",
+    "sarig",
+    "serbe",
+    "sorus",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0138a4bac009"
+  },
+  "c671ba27a5f3": {
+   "id": "c671ba27a5f3",
+   "kaynak": "AA",
+   "baslik": "Başakşehir'de milli futbolcu Yusuf Sarı, sol dizinden operasyon geçirdi",
+   "ozet": "İstanbul Başakşehir'de milli futbolcu Yusuf Sarı, sol dizinden ameliyat edildi.",
+   "link": "https://www.aa.com.tr/tr/spor/basaksehirde-milli-futbolcu-yusuf-sari-sol-dizinden-operasyon-gecirdi/4118680",
+   "zaman": "2026-11-10T13:34:42+03:00",
+   "kelimeler": [
+    "basak",
+    "dizin",
+    "futbo",
+    "gecir",
+    "milli",
+    "opera",
+    "sari",
+    "sol",
+    "yusuf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3985a3aa5c41": {
+   "id": "3985a3aa5c41",
+   "kaynak": "AA",
+   "baslik": "MEB'in Maarif Çocuk Dergisi COP31 özel sayısıyla yayımlandı",
+   "ozet": "Milli Eğitim Bakanlığınca (MEB) çocukların iklim değişikliği, çevre ve sürdürülebilir yaşam konularındaki farkındalıklarını artırmak amacıyla hazırlanan Maarif Çocuk Dergisinin COP31 özel sayısı, Türkçe ve İngilizce olarak yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/mebin-maarif-cocuk-dergisi-cop31-ozel-sayisiyla-yayimlandi/4118681",
+   "zaman": "2026-11-10T13:35:36+03:00",
+   "kelimeler": [
+    "cocuk",
+    "cop31",
+    "dergi",
+    "in",
+    "maari",
+    "meb",
+    "ozel",
+    "sayis",
+    "yayim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aa301ade90cc"
+  },
+  "2c5845b3eea7": {
+   "id": "2c5845b3eea7",
+   "kaynak": "AA",
+   "baslik": "Bulgaristan'da yaklaşık 70 aracın karıştığı zincirleme trafik kazalarında 10 kişi hayatını kaybetti",
+   "ozet": "Bulgaristan'da Sofya'yı Burgaz'a bağlayan Trakya Otoyolu'nda yoğun sis nedeniyle meydana gelen iki ayrı zincirleme trafik kazasında 10'dan fazla kişi yaşamını yitirdi, 16 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-zincirleme-trafik-kazalarinda-10-kisi-hayatini-kaybetti/4118689",
+   "zaman": "2026-11-10T13:42:48+03:00",
+   "kelimeler": [
+    "10",
+    "70",
+    "araci",
+    "bulga",
+    "hayat",
+    "karis",
+    "kaybe",
+    "kazal",
+    "kisi",
+    "trafi",
+    "yakla",
+    "zinci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f410b94125df"
+  },
+  "c7c6474bfff5": {
+   "id": "c7c6474bfff5",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'deki saldırılarında İngiltere'nin rolünün araştırılması için 100 binden fazla imza toplandı",
+   "ozet": "İsrail'in Ekim 2023'ten bu yana Gazze'ye düzenlediği saldırılarda İngiltere'nin rolünün araştırılması talebiyle başlatılan imza kampanyasında 100 bin imza eşiği aşıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzedeki-saldirilarinda-ingilterenin-rolunun-arastirilmasi-icin-100-binden-fazla-imza-toplandi/4118690",
+   "zaman": "2026-11-10T13:43:21+03:00",
+   "kelimeler": [
+    "100",
+    "arast",
+    "binde",
+    "deki",
+    "fazla",
+    "gazze",
+    "imza",
+    "in",
+    "ingil",
+    "israi",
+    "nin",
+    "rolun",
+    "saldi",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 13:46:06  8 yeni haber",
   "10.11 13:31:20  9 yeni haber",
   "10.11 13:16:11  6 yeni haber",
   "10.11 13:01:56  7 yeni haber",
@@ -28060,8 +28229,7 @@
   "08.11 10:31:14  5 yeni haber",
   "08.11 10:16:20  2 yeni haber",
   "08.11 10:01:58  2 yeni haber",
-  "08.11 09:48:33  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Japonya'da 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı",
-  "08.11 09:46:01  2 yeni haber"
+  "08.11 09:48:33  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Japonya'da 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı"
  ],
  "otomatik": false
 }
