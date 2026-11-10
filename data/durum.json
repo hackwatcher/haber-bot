@@ -1,35 +1,5 @@
 {
  "haberler": {
-  "439a936b52ef": {
-   "id": "439a936b52ef",
-   "kaynak": "Hürriyet",
-   "baslik": "Türkiye Sibirya soğuklarının etkisinde: Sıcaklıklar düşüyor! Meteoroloji'den uyarı üstüne uyarı: Sağanak yağış, kar, zirai don ve fırtına alarmı",
-   "ozet": "Türkiye genelinde Sibirya kökenli soğuk hava dalgası etkisini göstermeye başlarken, Afet Koordinasyon Merkezi (AKOM) ve Meteoroloji Genel Müdürlüğü’nden peş peşe kritik uyarılar geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/turkiye-sibirya-soguklarinin-etkisinde-sicakliklar-dusuyor-meteorolojiden-uyari-ustune-uyari-saganak-yagis-kar-zirai-don-ve-43369067",
-   "zaman": "2026-11-07T07:50:17+03:00",
-   "kelimeler": [
-    "alarm",
-    "den",
-    "don",
-    "dusuy",
-    "etkis",
-    "firti",
-    "kar",
-    "meteo",
-    "sagan",
-    "sibir",
-    "sicak",
-    "soguk",
-    "turki",
-    "ustun",
-    "uyari",
-    "yagis",
-    "zirai"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fa395c92307f"
-  },
   "71d29a3d6fc1": {
    "id": "71d29a3d6fc1",
    "kaynak": "Hürriyet",
@@ -25459,8 +25429,17 @@
     "kriti",
     "tutuk"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-10T08:04:02.080436+03:00",
+   "ig_id": "18099490232109568",
+   "reels_id": "18128019161472595",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1516095117246003",
+   "slayt": 5,
+   "kanca": "BDDK BAŞKAN YARDIMCISI TUTUKLANDI"
   },
   "18e1a5f548e5": {
    "id": "18e1a5f548e5",
@@ -25697,9 +25676,80 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "07a8fd135fcf": {
+   "id": "07a8fd135fcf",
+   "kaynak": "Hürriyet",
+   "baslik": "Hava sıcaklığı yükseliyor! Sağanak yağış geri geliyor! Meteoroloji tarih verdi: İstanbul dahil birçok ilde yağış ve fırtına uyarısı",
+   "ozet": "Yurt genelinde soğuk ve yağışlı havanın baskısını artırmasıyla birlikte dondurucu günler başladı. Alçak kesimlerde sağanak geçişleri yaşanırken, yüksek rakımlı bölgelerde ise karla karışık yağmur ve kar etkisini göstermeye başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/hava-sicakligi-yukseliyor-saganak-yagis-geri-geliyor-meteoroloji-tarih-verdi-istanbul-dahil-bircok-ilde-yagis-ve-firtina-uyarisi-43372210",
+   "zaman": "2026-11-10T07:44:50+03:00",
+   "kelimeler": [
+    "birco",
+    "dahil",
+    "firti",
+    "geliy",
+    "geri",
+    "hava",
+    "ilde",
+    "istan",
+    "meteo",
+    "sagan",
+    "sicak",
+    "tarih",
+    "uyari",
+    "verdi",
+    "yagis",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5ccece44c466": {
+   "id": "5ccece44c466",
+   "kaynak": "TRT Haber",
+   "baslik": "Eşine işe gittiğini söyleyip Taylandda başka bir kadınla evlendi",
+   "ozet": "İngiltere'de 16 yıllık eşine işe gideceğini söyleyerek evden ayrılan 56 yaşındaki adam, Tayland'a giderek kendisinden 21 yaş küçük bir kadınla evlendi. İkinci evliliğini düğün davetiyeleriyle öğrenen eşi polise başvurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/esine-ise-gittigini-soyleyip-taylandda-baska-bir-kadinla-evlendi-962747.html",
+   "zaman": "2026-11-10T07:45:00+03:00",
+   "kelimeler": [
+    "baska",
+    "esine",
+    "evlen",
+    "gitti",
+    "ise",
+    "kadin",
+    "soyle",
+    "tayla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e6465972f51a": {
+   "id": "e6465972f51a",
+   "kaynak": "TRT Haber",
+   "baslik": "İtalya: Avrupa'da kaos yaratmaya çalışanlara güçlü bir mesaj göndermek için birleşmeliyiz",
+   "ozet": "İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani, siber saldırılar ve uçaklara yönelik asılsız bomba ihbarları gibi hibrit savaş yöntemleriyle Avrupa'da kaos yaratmaya çalışanlara karşı birlik içinde kalarak güçlü bir mesaj vermenin önemli olduğunu söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/italya-avrupada-kaos-yaratmaya-calisanlara-guclu-bir-mesaj-gondermek-icin-birlesmeliyiz-962748.html",
+   "zaman": "2026-11-10T07:50:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "birle",
+    "calis",
+    "gonde",
+    "guclu",
+    "italy",
+    "kaos",
+    "mesaj",
+    "yarat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 08:04:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fonda 2 kritik tutuklama",
+  "10.11 08:01:48  3 yeni haber",
   "10.11 07:47:28  2 yeni haber",
   "10.11 07:13:50  17 yeni haber",
   "10.11 07:03:50  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Google, 10 Kasım'da Atatürk'ü siyah kurdele ile andı.",
@@ -25897,9 +25947,7 @@
   "08.11 00:46:05  2 yeni haber",
   "08.11 00:31:30  2 yeni haber",
   "08.11 00:02:51  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | İsrail'de hükümeti kurma görevi Netanyahu'nun rakibi Eise",
-  "08.11 00:01:25  4 yeni haber",
-  "07.11 23:31:17  4 yeni haber",
-  "07.11 22:42:56  2 yeni haber"
+  "08.11 00:01:25  4 yeni haber"
  ],
  "otomatik": false
 }
