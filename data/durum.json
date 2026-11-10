@@ -25151,7 +25151,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d5380eb23a66": {
    "id": "d5380eb23a66",
@@ -25312,6 +25315,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ff04bcb78295": {
+   "id": "ff04bcb78295",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump: İran'a askeri harekat düzenlemek pek gerekli bir şey gibi görünmüyor",
+   "ozet": "ABD Başkanı Donald Trump, şu anda İran'a yönelik yeni bir askeri harekata gerek olduğunu düşünmediğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-irana-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunmuyor-962735.html",
+   "zaman": "2026-11-10T03:07:00+03:00",
+   "kelimeler": [
+    "asker",
+    "duzen",
+    "gerek",
+    "gorun",
+    "harek",
+    "iran",
+    "pek",
+    "sey",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3dfa1a00125d"
   }
  },
  "kayit": [
