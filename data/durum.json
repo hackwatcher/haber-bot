@@ -1,55 +1,5 @@
 {
  "haberler": {
-  "8d2ef9c8adbf": {
-   "id": "8d2ef9c8adbf",
-   "kaynak": "AA",
-   "baslik": "Trump, UFC Başkanı Dana White'a Beyaz Saray basın sözcülüğü görevini teklif etti",
-   "ozet": "ABD Başkanı Donald Trump, Ultimate Fighting Championship (UFC) Başkanı ve Üst Yöneticisi (CEO) Dana White'a, Beyaz Saray basın sözcülüğü görevini teklif ettiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-ufc-baskani-dana-whitea-beyaz-saray-basin-sozculugu-gorevini-teklif-etti/4115533",
-   "zaman": "2026-11-07T23:17:52+03:00",
-   "kelimeler": [
-    "basin",
-    "baska",
-    "beyaz",
-    "dana",
-    "etti",
-    "gorev",
-    "saray",
-    "sozcu",
-    "tekli",
-    "trump",
-    "ufc",
-    "white"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "c78df2864d08": {
-   "id": "c78df2864d08",
-   "kaynak": "AA",
-   "baslik": "İsrail Cumhurbaşkanı Herzog'un, hükümet kurma yetkisini muhalefet lideri Eisenkot'a vereceği bildirildi",
-   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog'un, 27 Ekim seçimlerinin ardından partilerle yaptığı istişare görüşmeleri sonrasında, hükümet kurma yetkisini Yashar Partisi lideri Gadi Eisenkot'a verme kararı aldığı açıklandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzogun-hukumet-kurma-yetkisini-muhalefet-lideri-eisenkota-verecegi-bildirildi-/4115536",
-   "zaman": "2026-11-07T23:23:33+03:00",
-   "kelimeler": [
-    "bildi",
-    "cumhu",
-    "eisen",
-    "herzo",
-    "hukum",
-    "israi",
-    "kurma",
-    "lider",
-    "muhal",
-    "un",
-    "verec",
-    "yetki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "1e7e970b2bb4": {
    "id": "1e7e970b2bb4",
    "kaynak": "Sözcü",
@@ -10596,7 +10546,10 @@
     "lider"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "488eaabb546e": {
    "id": "488eaabb546e",
@@ -29892,9 +29845,77 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "aab536e12ec9": {
+   "id": "aab536e12ec9",
+   "kaynak": "AA",
+   "baslik": "UNIFIL: Lübnan'ın güneyinde barış gücü askerlerine ateş açıldı",
+   "ozet": "Birleşmiş Milletler Lübnan Geçici Barış Gücü (UNIFIL), Lübnan'ın güneyindeki Vadi Cilo beldesi yakınlarında devriye görevi yapan askerlerine ateş açıldığını, olayda yaralanan olmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/unifil-lubnanin-guneyinde-baris-gucu-askerlerine-ates-acildi/4119519",
+   "zaman": "2026-11-10T23:15:25+03:00",
+   "kelimeler": [
+    "acild",
+    "asker",
+    "ates",
+    "baris",
+    "gucu",
+    "guney",
+    "in",
+    "lubna",
+    "unifi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "666fdb79037a": {
+   "id": "666fdb79037a",
+   "kaynak": "AA",
+   "baslik": "İsrail, yasa dışı E1 yerleşim projesindeki 2 bin 167 konut için yeni ihale tarihini açıkladı",
+   "ozet": "İsrail'de Başbakan Binyamin Netanyahu'nun hükümet​​​​​​i, işgal altındaki Doğu Kudüs'ün doğusundaki yasa dışı \"E1\" yerleşim projesi kapsamındaki 2 bin 167 konut için yeni ihale teklif verme sürecinin 1 Aralık'ta başlatılmasına karar verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-yasa-disi-e1-yerlesim-projesindeki-2-bin-167-konut-icin-yeni-ihale-tarihini-acikladi/4119520",
+   "zaman": "2026-11-10T23:18:39+03:00",
+   "kelimeler": [
+    "167",
+    "bin",
+    "disi",
+    "e1",
+    "ihale",
+    "israi",
+    "konut",
+    "proje",
+    "tarih",
+    "yasa",
+    "yeni",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9d886b6b0b55": {
+   "id": "9d886b6b0b55",
+   "kaynak": "AA",
+   "baslik": "Antalya'da COP31 Dünya Liderler Zirvesi kapsamında trafik tedbirleri uygulanacak",
+   "ozet": "Antalya'da 11-12 Kasım'da gerçekleştirilecek COP31 Dünya Liderler Zirvesi dolayısıyla kent genelinde üst düzey güvenlik ve ulaşım tedbirleri alınacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/antalyada-cop31-dunya-liderler-zirvesi-kapsaminda-trafik-tedbirleri-uygulanacak/4119522",
+   "zaman": "2026-11-10T23:23:00+03:00",
+   "kelimeler": [
+    "antal",
+    "cop31",
+    "dunya",
+    "kapsa",
+    "lider",
+    "tedbi",
+    "trafi",
+    "uygul",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ed914663a891"
   }
  },
  "kayit": [
+  "10.11 23:31:36  2 yeni haber",
   "10.11 23:16:08  2 yeni haber",
   "10.11 23:01:33  4 yeni haber",
   "10.11 22:46:04  2 yeni haber",
@@ -30093,8 +30114,7 @@
   "08.11 20:01:27  2 yeni haber",
   "08.11 19:46:00  2 yeni haber",
   "08.11 19:31:39  2 yeni haber",
-  "08.11 18:46:04  1 yeni haber",
-  "08.11 18:31:44  2 yeni haber"
+  "08.11 18:46:04  1 yeni haber"
  ],
  "otomatik": false
 }
