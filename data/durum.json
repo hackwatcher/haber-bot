@@ -1,34 +1,5 @@
 {
  "haberler": {
-  "bd2c8e5b52a7": {
-   "id": "bd2c8e5b52a7",
-   "kaynak": "XHABER",
-   "baslik": "#HASSAS | Ankara'da yolda gördüğü kadınlara cinsel organını göstererek taciz eden şahıs gözaltına alındı.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30556",
-   "zaman": "2026-11-07T16:38:03+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "#HASSAS | Ankara'da yolda gördüğü kadınlara cinsel organını göstererek taciz eden şahıs gözaltına alındı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/kt016Q_oGI17ig_S2_VyNqll_ncDfwKvhSa-u3sQaTjj5Vbse1bniMY5XeVnKulPMZjR9on0xsly8apeByOnYaRbWc4iMFZliQs5y4ot80dY3eBZJkhv7L-Nfq64TJ44_7PZ-H29Sns9UySxZ1uHGs9Q91BImHii7wSYwo-g9NwBBgiY-bJyjtv_AbpCU0VuydzAcqCj0gPKsESdik7_V4oKhwucvp2Xaeb4bpys7D5wn3WlLK1r3JDid2oZ48bCyZkVxuzmvff0Kh1Zc8JKkT2C2lm1fUdOSts0nqF7Lgq8o5D0Vd8NBF4Kzon_NqYVuVd0s4jOCldgdE3bgDknuA",
-   "tg_video_url": "https://cdn4.telesco.pe/file/021e4149c8.mp4?token=s4n3EertQfbL8B-PlzlE3w5_x9TpMgR0Rw41bz13JOALuteeHsk9jZFKI7v2mCz_3iOJ7byrFTizu5DqY6CsUtUlH84F-U0T6moDzUrAS2SDuzrOh1NnlYN8kdWGtO0ETmGM9n1kUhK4ojToIPO0zD6PdhHGDMRbhXCSExX7W2G1tevsedpFI1g98u3rdLOtqtkjc8EwrNUJokYmES2KOrZu628w6hWv5DabBTNfpUv2B4NL5JpDRE5IVhor2IlquLbL1F1GG3YX-2eQg9QHBHavkl_NIIhUsvZ8sfLxw_DHiMvd7CwTMoxM2jBQXN_QBOtT9MIg9-tL7XUkNXb5iw",
-   "kelimeler": [
-    "alind",
-    "ankar",
-    "cinse",
-    "eden",
-    "gordu",
-    "goste",
-    "gozal",
-    "hassa",
-    "kadin",
-    "organ",
-    "sahis",
-    "taciz",
-    "yolda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9fd1184c5b80": {
    "id": "9fd1184c5b80",
    "kaynak": "TRT Haber",
@@ -28984,7 +28955,8 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c4a4fad4008b": {
    "id": "c4a4fad4008b",
@@ -29146,9 +29118,176 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "62e64165b3d1": {
+   "id": "62e64165b3d1",
+   "kaynak": "AA",
+   "baslik": "İngiltere Lordlar Kamarası Üyesi Scotland'dan COP31'in önemine vurgu",
+   "ozet": "İngiltere Lordlar Kamarası Üyesi ve eski İngiliz Milletler Topluluğu Genel Sekreteri Patricia Scotland, Türkiye'nin COP31 sürecine Avustralya ile öncülük etmesinin küresel tehditlere çözüm bulunması açısından sevindirici olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ingiltere-lordlar-kamarasi-uyesi-scotlanddan-cop31in-onemine-vurgu/4118939",
+   "zaman": "2026-11-10T16:21:56+03:00",
+   "kelimeler": [
+    "cop31",
+    "dan",
+    "in",
+    "ingil",
+    "kamar",
+    "lordl",
+    "onemi",
+    "scotl",
+    "uyesi",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e19a18465ff7": {
+   "id": "e19a18465ff7",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan Guterres'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, BM Genel Sekreteri Guterres ile Antalya'da bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guterresi-kabul-etti-962831.html",
+   "zaman": "2026-11-10T16:23:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "etti",
+    "guter",
+    "kabul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3bad6181831f"
+  },
+  "d9b296ae22df": {
+   "id": "d9b296ae22df",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Genelkurmay Başkanı: Gelecekteki savaşta sürprizler ardı ardına ortaya çıkacak",
+   "ozet": "İran Genelkurmay Başkanı Tümgeneral Ali Abdullahi, ABD ve İsrail'le savaşın yeniden alevlenmesi halinde \"birçok sürprizin ardı ardına ortaya çıkacağını\" söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-genelkurmay-baskani-gelecekteki-savasta-surprizler-ardi-ardina-ortaya-cikacak-962832.html",
+   "zaman": "2026-11-10T16:24:00+03:00",
+   "kelimeler": [
+    "ardi",
+    "ardin",
+    "baska",
+    "cikac",
+    "gelec",
+    "genel",
+    "iran",
+    "ortay",
+    "savas",
+    "surpr"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5dd172e96d5b": {
+   "id": "5dd172e96d5b",
+   "kaynak": "Hürriyet",
+   "baslik": "Cezaevinden istifasını sundu: Tutuklu Genel Sekreter Cansel Tuncer koltuğu bıraktı",
+   "ozet": "Antalya Büyükşehir Belediyesi iştiraki ANSET'e yönelik soruşturma kapsamında 6 Mayıs'ta tutuklanan Genel Sekreter Cansel Tuncer, görevinden istifa etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cezaevinden-istifasini-sundu-tutuklu-genel-sekreter-cansel-tuncer-koltugu-birakti-43373205",
+   "zaman": "2026-11-10T16:31:11+03:00",
+   "kelimeler": [
+    "birak",
+    "canse",
+    "cezae",
+    "genel",
+    "istif",
+    "koltu",
+    "sekre",
+    "sundu",
+    "tunce",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b19099c3a904": {
+   "id": "b19099c3a904",
+   "kaynak": "AA",
+   "baslik": "Rusya-Çin yakınlaşması küresel askeri güç dengelerini etkileyebilir mi?",
+   "ozet": "Moskova-Pekin yakınlaşmasının önemi, askeri güçlerini artırmanın yanı sıra Asya'dan Afrika'ya uzanan stratejik ilişkileriyle ABD'nin farklı coğrafyalardaki güvenlik hesaplarını eş zamanlı etkileyebilecek bir kapasite oluşturmalarında yatmaktadır.",
+   "link": "https://www.aa.com.tr/tr/analiz/rusya-cin-yakinlasmasi-kuresel-askeri-guc-dengelerini-etkileyebilir-mi/4118958",
+   "zaman": "2026-11-10T16:31:43+03:00",
+   "kelimeler": [
+    "asker",
+    "cin",
+    "denge",
+    "etkil",
+    "guc",
+    "kures",
+    "rusya",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "07d8676f6303": {
+   "id": "07d8676f6303",
+   "kaynak": "AA",
+   "baslik": "ABD'de enflasyon ekimde beklentilerin üzerinde arttı",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-ekimde-beklentilerin-uzerinde-artti/4118964",
+   "zaman": "2026-11-10T16:34:20+03:00",
+   "kelimeler": [
+    "abd",
+    "artti",
+    "bekle",
+    "ekimd",
+    "enfla",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e078db5d5c01": {
+   "id": "e078db5d5c01",
+   "kaynak": "NTV",
+   "baslik": "Ali Koç COP31'de NTV'ye konuştu. \"İklim hassasiyeti artık tercih değil mecburiyet\"",
+   "ozet": "COP31 Küresel İklim Zirvesi'ne katılan Koç Holding Yönetim Kurulu Başkanvekili Ali Koç, iklim hassasiyetinin artık bir tercih değil mecburiyet haline geldiğini söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/ali-koc-cop31de-ntvye-konustu-iklim-hassasiyeti-artik-tercih-degil-mecburiyet-1750305",
+   "zaman": "2026-11-10T16:38:33+03:00",
+   "kelimeler": [
+    "ali",
+    "artik",
+    "cop31",
+    "degil",
+    "hassa",
+    "iklim",
+    "koc",
+    "konus",
+    "mecbu",
+    "ntv",
+    "terci",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fb3013f0657b"
+  },
+  "22fc3327c24c": {
+   "id": "22fc3327c24c",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, BM Genel Sekreteri Guterres ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında Antalya'da BM Genel Sekreteri Antonio Guterres ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu/4118988",
+   "zaman": "2026-11-10T16:43:04+03:00",
+   "kelimeler": [
+    "bm",
+    "cumhu",
+    "erdog",
+    "genel",
+    "gorus",
+    "guter",
+    "sekre"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 16:46:11  6 yeni haber",
   "10.11 16:31:16  17 yeni haber",
   "10.11 16:01:53  7 yeni haber",
   "10.11 15:47:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın ",
@@ -29347,8 +29486,7 @@
   "08.11 13:01:21  7 yeni haber",
   "08.11 12:46:04  6 yeni haber",
   "08.11 12:31:25  4 yeni haber",
-  "08.11 12:16:11  7 yeni haber",
-  "08.11 12:03:53  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tasfiyelik araç ve eşyalar eİhale ile ekonomiye kazandırılıyor: 5,7 mi"
+  "08.11 12:16:11  7 yeni haber"
  ],
  "otomatik": false
 }
