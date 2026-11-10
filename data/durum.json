@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "1f03accf23bb": {
-   "id": "1f03accf23bb",
-   "kaynak": "TRT Haber",
-   "baslik": "Yol verme tartışmasında aracı yumruklayan kadına 180 bin lira ceza",
-   "ozet": "Zeytinburnu'nda yol verme meselesi yüzünden tartıştığı sürücünün aracının camını yumruklayan kadın sürücüye 180 bin lira idari para cezası uygulandı, aracı 60 gün süreyle trafikten menedildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/yol-verme-tartismasinda-araci-yumruklayan-kadina-180-bin-lira-ceza-962538.html",
-   "zaman": "2026-11-07T15:46:00+03:00",
-   "kelimeler": [
-    "180",
-    "araci",
-    "bin",
-    "ceza",
-    "kadin",
-    "lira",
-    "tarti",
-    "verme",
-    "yol",
-    "yumru"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ea3f8026dc5b": {
    "id": "ea3f8026dc5b",
    "kaynak": "AA",
@@ -18015,7 +17993,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "bddc971da437": {
    "id": "bddc971da437",
@@ -27617,11 +27598,20 @@
     "tanke",
     "yangi"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-11-10T15:47:47.136225+03:00",
+   "ig_id": "17962095417266460",
+   "reels_id": "18132243310888375",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1174918735046694",
+   "slayt": 5,
+   "kanca": "İKİ TANKER DEVRE DIŞI"
   },
   "3880b0f17a51": {
    "id": "3880b0f17a51",
@@ -28751,9 +28741,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "62821b74fa68": {
+   "id": "62821b74fa68",
+   "kaynak": "TRT Haber",
+   "baslik": "Emekli Yunan Korgeneral: Yunanistan 7 senede 9 kez Türkiye karşısında geri adım attı",
+   "ozet": "Yunanistan muhalefetinden Zafer Partisinin milli savunma grubu başkanı, emekli Korgeneral Yannis İnces, Türkiye ve Libya arasında 2019'da imzalanan deniz yetki alanlarına ilişkin mutabakat muhtırasının ardından Yunanistan'ın son 7 yılda 9 kez Türkiye'ye karşı geri adım attığını…",
+   "link": "https://www.trthaber.com/haber/dunya/emekli-yunan-korgeneral-yunanistan-7-senede-9-kez-turkiye-karsisinda-geri-adim-atti-962820.html",
+   "zaman": "2026-11-10T15:34:00+03:00",
+   "kelimeler": [
+    "adim",
+    "atti",
+    "emekl",
+    "geri",
+    "karsi",
+    "kez",
+    "korge",
+    "sened",
+    "turki",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62adbf50a7a2": {
+   "id": "62adbf50a7a2",
+   "kaynak": "Hürriyet",
+   "baslik": "Antalya Valiliği açıkladı: 7 ilçedeki kamu personeline 2 gün idari izin verildi",
+   "ozet": "Antalya Valiliği, COP31 kapsamında 7 ilçedeki kamu personeline, 11-12 Kasım tarihlerinde idari izin verildiğini duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/antalya-valiligi-acikladi-7-ilcedeki-kamu-personeline-2-gun-idari-izin-verildi-43373091",
+   "zaman": "2026-11-10T15:34:34+03:00",
+   "kelimeler": [
+    "antal",
+    "gun",
+    "idari",
+    "ilced",
+    "izin",
+    "kamu",
+    "perso",
+    "valil",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bf7b761c11b4": {
+   "id": "bf7b761c11b4",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Kıbrıs'ta iki yeni sınır kapısı açılacak",
+   "ozet": "Kıbrıs'ın kuzeyindeki Türk yönetiminin lideri Tufan Erhürman ve Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulides 9 Kasım'da yaptıkları görüşmede adada iki geçiş kapısı daha açılması kararı aldı.",
+   "link": "https://www.bbc.com/turkce/articles/c69vzv2ykpvro",
+   "zaman": "2026-11-10T15:36:13+03:00",
+   "kelimeler": [
+    "acila",
+    "iki",
+    "kapis",
+    "kibri",
+    "sinir",
+    "ta",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2c48eede8906"
+  },
+  "66401c4218ce": {
+   "id": "66401c4218ce",
+   "kaynak": "AA",
+   "baslik": "Türkiye, Azerbaycan, Bulgaristan ve Gürcistan temiz enerjide stratejik ortaklık anlaşması imzaladı",
+   "ozet": "Türkiye, Azerbaycan, Bulgaristan ve Gürcistan, temiz enerji başta olmak üzere enerji sektöründeki işbirliğini güçlendirmek ve bölgesel enerji bağlantısallığını geliştirmek amacıyla stratejik ortaklık anlaşması imzaladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-azerbaycan-bulgaristan-ve-gurcistan-temiz-enerjide-stratejik-ortaklik-anlasmasi-imzaladi/4118873",
+   "zaman": "2026-11-10T15:42:07+03:00",
+   "kelimeler": [
+    "anlas",
+    "azerb",
+    "bulga",
+    "enerj",
+    "gurci",
+    "imzal",
+    "ortak",
+    "strat",
+    "temiz",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 15:47:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın ",
+  "10.11 15:46:01  3 yeni haber",
   "10.11 15:39:05  13 yeni haber",
   "10.11 15:16:07  15 yeni haber",
   "10.11 14:46:09  3 yeni haber",
@@ -28951,9 +29028,7 @@
   "08.11 12:16:11  7 yeni haber",
   "08.11 12:03:53  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tasfiyelik araç ve eşyalar eİhale ile ekonomiye kazandırılıyor: 5,7 mi",
   "08.11 12:01:20  7 yeni haber",
-  "08.11 11:46:04  12 yeni haber",
-  "08.11 11:31:15  8 yeni haber",
-  "08.11 11:16:03  7 yeni haber"
+  "08.11 11:46:04  12 yeni haber"
  ],
  "otomatik": false
 }
