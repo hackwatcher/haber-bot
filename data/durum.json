@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "2ddb7a777960": {
-   "id": "2ddb7a777960",
-   "kaynak": "Hürriyet",
-   "baslik": "Kırmızı bültenle aranıyordu: Uyuşturucu baronu Mersin'de yakalandı",
-   "ozet": "Mersin Cumhuriyet Başsavcılığı koordinesinde narkotik polisinin yaptığı çalışmada kırmızı bültenle aranan Özbekistan uyruklu uyuşturucu baronu yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-araniyordu-uyusturucu-baronu-mersinde-yakalandi-43369078",
-   "zaman": "2026-11-07T08:47:01+03:00",
-   "kelimeler": [
-    "arani",
-    "baron",
-    "bulte",
-    "kirmi",
-    "mersi",
-    "uyust",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "a6ec2b20b8a5": {
-   "id": "a6ec2b20b8a5",
-   "kaynak": "AA",
-   "baslik": "Suudi Arabistan öncülüğündeki Arap Koalisyonu: Riyad bölgesine fırlatılan seyir füzesi engellendi",
-   "ozet": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, başkent Riyad bölgesine fırlatılan bir seyir füzesinin imha edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistan-onculugundeki-arap-koalisyonu-riyad-bolgesine-firlatilan-seyir-fuzesi-engellendi/4114865",
-   "zaman": "2026-11-07T08:52:27+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "bolge",
-    "engel",
-    "firla",
-    "fuzes",
-    "koali",
-    "oncul",
-    "riyad",
-    "seyir",
-    "suudi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ed4e1f6eb6f7": {
-   "id": "ed4e1f6eb6f7",
-   "kaynak": "NTV",
-   "baslik": "Valilik duyurdu. 7 ilçede iki gün uzaktan eğitime geçilecek",
-   "ozet": "Antalya'da düzenlenecek COP31 Liderler Zirvesi nedeniyle 7 ilçede iki gün uzaktan eğitime geçilecek. Kamuda çalışan anneler de idari izinli sayılacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-valilik-duyurdu-7-ilcede-iki-gun-uzaktan-egitime-gecilecek-1749758",
-   "zaman": "2026-11-07T08:53:55+03:00",
-   "kelimeler": [
-    "duyur",
-    "egiti",
-    "gecil",
-    "gun",
-    "iki",
-    "ilced",
-    "uzakt",
-    "valil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2e6ea031b2fa": {
    "id": "2e6ea031b2fa",
    "kaynak": "NTV",
@@ -25686,7 +25621,10 @@
     "tbmm"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "6c2de36573a9": {
    "id": "6c2de36573a9",
@@ -25821,9 +25759,183 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "d19bd40bb46c": {
+   "id": "d19bd40bb46c",
+   "kaynak": "TRT Haber",
+   "baslik": "Sahte pasaportla Kanada'ya 16 kez giriş çıkış yapan kişiye 2 yıl hapis cezası",
+   "ozet": "Kanada'da sahte pasaport kullanarak 16 kez ülkeye giriş ve çıkış yaptığı tespit edilen Gana vatandaşı Jefferson Zormelo, vatandaşlık dolandırıcılığı suçundan 2 yıl hapis cezasına çarptırıldı. 22 yaşındaki Zormelo, Kanada Vatandaşlık Yasası'nı ihlal etmekten suçlu bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/sahte-pasaportla-kanadaya-16-kez-giris-cikis-yapan-kisiye-2-yil-hapis-cezasi-962753.html",
+   "zaman": "2026-11-10T08:38:00+03:00",
+   "kelimeler": [
+    "16",
+    "cezas",
+    "cikis",
+    "giris",
+    "hapis",
+    "kanad",
+    "kez",
+    "kisiy",
+    "pasap",
+    "sahte",
+    "ya",
+    "yapan",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "068d4f53af0e": {
+   "id": "068d4f53af0e",
+   "kaynak": "Hürriyet",
+   "baslik": "Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı: Siyasilerden peş peşe anma mesajları",
+   "ozet": "Türkiye Cumhuriyeti'ni kuran Büyük Önder Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin üzerinden 88 yıl geçti. Siyasiler, 10 Kasım Atatürk'ü Anma Günü dolayısıyla mesaj yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mustafa-kemal-ataturkun-ebediyete-intikalinin-88-yili-siyasilerden-pes-pese-anma-mesajlari-43372232",
+   "zaman": "2026-11-10T08:47:00+03:00",
+   "kelimeler": [
+    "88",
+    "anma",
+    "atatu",
+    "ebedi",
+    "intik",
+    "kemal",
+    "mesaj",
+    "musta",
+    "pes",
+    "pese",
+    "siyas",
+    "un",
+    "yili"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ddc3c94ebdc1": {
+   "id": "ddc3c94ebdc1",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 165 sandalyeye ulaştı",
+   "ozet": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 165 sandalye kazandı.",
+   "link": "https://www.trthaber.com/haber/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti-962754.html",
+   "zaman": "2026-11-10T08:48:00+03:00",
+   "kelimeler": [
+    "165",
+    "254",
+    "abd",
+    "ara",
+    "cumhu",
+    "deki",
+    "demok",
+    "mecli",
+    "sanda",
+    "secim",
+    "temsi",
+    "ulast"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ],
+   "paylasildi": "2026-11-10T09:03:46.646806+03:00",
+   "ig_id": "18093373322293833",
+   "reels_id": "18102336239413686",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "981408535040511",
+   "slayt": 5,
+   "kanca": "DEMOKRATLAR ÇOĞUNLUĞU ALDI"
+  },
+  "f1a15961e8a0": {
+   "id": "f1a15961e8a0",
+   "kaynak": "Hürriyet",
+   "baslik": "10 Kasım Atatürk'ü Anma Günü | Devlet erkanı Anıtkabir’de",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve beraberindeki devlet erkanı, 10 Kasım Atatürk'ü Anma Günü dolayısıyla Anıtkabir'i ziyaret ediyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/10-kasim-ataturku-anma-gunu-devlet-erkani-anitkabirde-43372225",
+   "zaman": "2026-11-10T08:48:00+03:00",
+   "kelimeler": [
+    "10",
+    "anitk",
+    "anma",
+    "atatu",
+    "devle",
+    "erkan",
+    "gunu",
+    "kasim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "71720ec060f9"
+  },
+  "2d6df9019a91": {
+   "id": "2d6df9019a91",
+   "kaynak": "AA",
+   "baslik": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 165 sandalyeye ulaştı",
+   "ozet": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 165 sandalye kazandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti/4118119",
+   "zaman": "2026-11-10T08:48:09+03:00",
+   "kelimeler": [
+    "165",
+    "254",
+    "abd",
+    "ara",
+    "cumhu",
+    "deki",
+    "demok",
+    "mecli",
+    "sanda",
+    "secim",
+    "temsi",
+    "ulast"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ddc3c94ebdc1"
+  },
+  "96910dc73dc6": {
+   "id": "96910dc73dc6",
+   "kaynak": "NTV",
+   "baslik": "Tarih belli oldu, yalancı bahar başlıyor: İstanbul'da hava sıcaklığı 22 derece olacak",
+   "ozet": "Sibirya soğukları, yerini yalancı bahara bırakacak. İstanbul'da bugün en yüksek 12 derece olması beklenen hava sıcaklığı 22 dereceye kadar yükselecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-tarih-belli-oldu-yalanci-bahar-basliyor-istanbulda-hava-sicakligi-22-derece-olacak-1750203",
+   "zaman": "2026-11-10T08:51:11+03:00",
+   "kelimeler": [
+    "22",
+    "bahar",
+    "basli",
+    "belli",
+    "derec",
+    "hava",
+    "istan",
+    "olaca",
+    "sicak",
+    "tarih",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c05a76701b29": {
+   "id": "c05a76701b29",
+   "kaynak": "NTV",
+   "baslik": "Devlet erkanı Ata'nın huzurunda",
+   "ozet": "Türkiye Cumhuriyeti'nin kurucusu ulu önder Gazi Mustafa Kemal Atatürk, ebediyete intikalinin 87'nci yılında Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığındaki devlet erkanı Anıtkabir'i ziyaret ediyor.",
+   "link": "https://www.ntv.com.tr/turkiye/devlet-erkani-atanin-huzurunda-1750194",
+   "zaman": "2026-11-10T09:00:43+03:00",
+   "kelimeler": [
+    "ata",
+    "devle",
+    "erkan",
+    "huzur",
+    "nin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 09:03:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 254, Cumhur",
+  "10.11 09:01:35  5 yeni haber",
   "10.11 08:46:30  2 yeni haber",
   "10.11 08:32:09  6 yeni haber",
   "10.11 08:04:02  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fonda 2 kritik tutuklama",
@@ -26021,9 +26133,7 @@
   "08.11 02:00:47  2 yeni haber",
   "08.11 01:46:00  3 yeni haber",
   "08.11 01:02:45  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Galatasaray, Amed SF'yi 4-3 mağlup etti.",
-  "08.11 01:01:21  3 yeni haber",
-  "08.11 00:46:05  2 yeni haber",
-  "08.11 00:31:30  2 yeni haber"
+  "08.11 01:01:21  3 yeni haber"
  ],
  "otomatik": false
 }
