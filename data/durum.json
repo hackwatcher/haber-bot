@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "af6942520ca5": {
-   "id": "af6942520ca5",
-   "kaynak": "TRT Haber",
-   "baslik": "İşgalci İsrail destekçisi Jeffries'e karşı imza kampanyası sürüyor",
-   "ozet": "ABD'de soykırımcı İsrail destekçisi Hakeem Jeffries'in Temsilciler Meclisi Başkanı seçilmesine karşı çevrim içi kampanyaya 1 milyondan fazla kişi imza attı.",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-destekcisi-jeffriese-karsi-imza-kampanyasi-suruyor-962562.html",
-   "zaman": "2026-11-07T22:22:00+03:00",
-   "kelimeler": [
-    "deste",
-    "imza",
-    "isgal",
-    "israi",
-    "jeffr",
-    "kampa",
-    "karsi",
-    "suruy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "40c5c82cdcc7"
-  },
-  "40d98149752c": {
-   "id": "40d98149752c",
-   "kaynak": "AA",
-   "baslik": "Fransa'da uçaklara yönelik sahte bomba ihbarlarının \"yabancı güçlerle bağlantısı\" soruşturuluyor",
-   "ozet": "Fransa'da savcılığın, uçaklara yönelik sahte bomba ihbarlarının yabancı güçlerle olası bağlantısını soruşturduğu öğrenildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-ucaklara-yonelik-sahte-bomba-ihbarlarinin-yabanci-guclerle-baglantisi-sorusturuluyor/4115500",
-   "zaman": "2026-11-07T22:30:05+03:00",
-   "kelimeler": [
-    "bagla",
-    "bomba",
-    "frans",
-    "gucle",
-    "ihbar",
-    "sahte",
-    "sorus",
-    "ucakl",
-    "yaban",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "bed4203e54b3": {
    "id": "bed4203e54b3",
    "kaynak": "XHABER",
@@ -25333,7 +25290,10 @@
     "sucla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "fea1e397dfdd": {
    "id": "fea1e397dfdd",
@@ -29690,10 +29650,116 @@
     "yukse"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "a7db999d481e": {
+   "id": "a7db999d481e",
+   "kaynak": "AA",
+   "baslik": "AB Siber Güvenlik Ajansı: AB'ye yönelik siber tehdit seviyesi yüksek kalmaya devam ediyor",
+   "ozet": "Avrupa Birliği Siber Güvenlik Ajansı (ENISA), birlik genelinde siber güvenlik kapasitesinde iyileşme kaydedilmesine rağmen AB'ye yönelik siber tehdit seviyesinin yüksek kalmaya devam ettiği konusunda uyardı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ab-siber-guvenlik-ajansi-abye-yonelik-siber-tehdit-seviyesi-yuksek-kalmaya-devam-ediyor/4119487",
+   "zaman": "2026-11-10T22:13:29+03:00",
+   "kelimeler": [
+    "ab",
+    "ajans",
+    "devam",
+    "ediyo",
+    "guven",
+    "kalma",
+    "seviy",
+    "siber",
+    "tehdi",
+    "ye",
+    "yonel",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d61054080dea"
+  },
+  "edf24e9a3dec": {
+   "id": "edf24e9a3dec",
+   "kaynak": "TRT Haber",
+   "baslik": "AB Siber Güvenlik Ajansı: AB'ye yönelik siber tehdit seviyesi yüksek kalmaya devam ediyor",
+   "ozet": "Avrupa Birliği Siber Güvenlik Ajansı ENISA, birlik genelinde siber güvenlik kapasitesinde iyileşme kaydedilmesine rağmen AB'ye yönelik siber tehdit seviyesinin yüksek kalmaya devam ettiği konusunda uyardı.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-siber-guvenlik-ajansi-abye-yonelik-siber-tehdit-seviyesi-yuksek-kalmaya-devam-ediyor-962856.html",
+   "zaman": "2026-11-10T22:14:00+03:00",
+   "kelimeler": [
+    "ab",
+    "ajans",
+    "devam",
+    "ediyo",
+    "guven",
+    "kalma",
+    "seviy",
+    "siber",
+    "tehdi",
+    "ye",
+    "yonel",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d61054080dea"
+  },
+  "881adeffaf4d": {
+   "id": "881adeffaf4d",
+   "kaynak": "AA",
+   "baslik": "Türkiye ve Özbekistan gümrük idareleri arasında anlaşmalar imzalandı",
+   "ozet": "Türkiye-Özbekistan Ortak Gümrük Konseyi (OGK) 6. Toplantısı, Ticaret Bakan Yardımcısı Sezai Uçarmak ve Özbekistan Gümrük İdaresi Başkanı Akmalkhuja Mavlonov'un eş başkanlıklarında dün İstanbul'da gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-ozbekistan-gumruk-idareleri-arasinda-anlasmalar-imzalandi/4119488",
+   "zaman": "2026-11-10T22:21:11+03:00",
+   "kelimeler": [
+    "anlas",
+    "arasi",
+    "gumru",
+    "idare",
+    "imzal",
+    "ozbek",
+    "turki"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "8b2e40b081b0": {
+   "id": "8b2e40b081b0",
+   "kaynak": "XHABER",
+   "baslik": "Demokratik Kongo Cumhuriyeti'nde çatışmalar sırasında korkarak mevzilerini terk etmekle suçlanan 66 asker, idama mahkum edildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30609",
+   "zaman": "2026-11-10T22:30:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Demokratik Kongo Cumhuriyeti'nde çatışmalar sırasında korkarak mevzilerini terk etmekle suçlanan 66 asker, idama mahkum edildi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/IZ5d6O3z-a_aZ-CeSgLtpmLoFEYM6xJQ1AoOoBtsQ9zbmSn6mktvSPWO6WxumNgZaJLti0I34RNuKOKrUN35gtyXh3YS7L7z1fYbMErMwq3pS47ulLOXd5BwT2XuH-K2tO9ijqCib2B87B_uElDp1cQWYR9J1OrbF75x-vwyDg4SvNK5AdiwUQlh1HJL9DrXDjjbtRt8Zx7fJ0TaJHCQWfokLJNnD1Qrc7iJuwh6lhDeFzEa2Tf7WVJB20wUqrgHiIL3c6QdYTG4KdX9zZpXnJgDec2CE5OgkSSn9zemoQAkZcBpxajw6rl_Ddoxu94nwzg8ieOW06v0oROlT_TroQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "66",
+    "asker",
+    "catis",
+    "cumhu",
+    "demok",
+    "edild",
+    "etmek",
+    "idama",
+    "kongo",
+    "korka",
+    "mahku",
+    "mevzi",
+    "nde",
+    "siras",
+    "sucla",
+    "terk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ae94daab5cf6"
   }
  },
  "kayit": [
+  "10.11 22:31:21  1 yeni haber",
   "10.11 22:16:30  4 yeni haber",
   "10.11 21:59:03  4 yeni haber",
   "10.11 21:46:33  4 yeni haber",
@@ -29892,8 +29958,7 @@
   "08.11 18:31:44  2 yeni haber",
   "08.11 18:16:08  3 yeni haber",
   "08.11 18:01:54  5 yeni haber",
-  "08.11 17:48:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın el",
-  "08.11 17:46:14  4 yeni haber"
+  "08.11 17:48:46  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın el"
  ],
  "otomatik": false
 }
