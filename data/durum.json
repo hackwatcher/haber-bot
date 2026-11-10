@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "2872a87d4638": {
-   "id": "2872a87d4638",
-   "kaynak": "TRT Haber",
-   "baslik": "Van'da tır ile minibüs çarpıştı: 9 kişi öldü, 5 kişi yaralandı",
-   "ozet": "Van'ın Özalp ilçesinde tır ile minibüsün çarpışması sonucu 9 kişi hayatını kaybetti, 5 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/vanda-tir-ile-minibus-carpisti-9-kisi-oldu-5-kisi-yaralandi-962563.html",
-   "zaman": "2026-11-07T22:55:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "kisi",
-    "minib",
-    "tir",
-    "van",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "27983108bd70"
-  },
   "84aaadd80c33": {
    "id": "84aaadd80c33",
    "kaynak": "AA",
@@ -40,25 +21,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "6e1d99482b0e"
-  },
-  "28c6947dbcc8": {
-   "id": "28c6947dbcc8",
-   "kaynak": "AA",
-   "baslik": "Kars'ta kar yağışıyla ayılar mahalleye indi",
-   "ozet": "Kars'ın Sarıkamış ilçesinde bozayılar, yavrularıyla geldikleri mahallede çöp konteynerlerinde beslenmeye çalıştı.",
-   "link": "https://www.aa.com.tr/tr/gundem/karsta-kar-yagisiyla-ayilar-mahalleye-indi-/4115511",
-   "zaman": "2026-11-07T22:48:27+03:00",
-   "kelimeler": [
-    "ayila",
-    "indi",
-    "kar",
-    "kars",
-    "mahal",
-    "ta",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "8d2ef9c8adbf": {
    "id": "8d2ef9c8adbf",
@@ -27463,7 +27425,8 @@
    "diger_kaynaklar": [
     "Sözcü",
     "Hürriyet",
-    "NTV"
+    "NTV",
+    "BBC Türkçe"
    ]
   },
   "2ca93ad5d7de": {
@@ -29761,9 +29724,151 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "270cb90a264f": {
+   "id": "270cb90a264f",
+   "kaynak": "AA",
+   "baslik": "BM: Gazze'de hafta sonu yağan yağmurlardan yaklaşık 200 binden fazla kişi etkilendi",
+   "ozet": "Birleşmiş Milletler (BM), Gazze'de hafta sonu yağan yağmurlardan 40 binden fazla ailenin barınağında ve Gazze'deki 9 sağlık tesisinde hasar yaşandığını belirterek, ilk tahminlere göre 200 binden fazla kişinin etkilenmiş olabileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-gazzede-hafta-sonu-yagan-yagmurlardan-yaklasik-200-binden-fazla-kisi-etkilendi/4119499",
+   "zaman": "2026-11-10T22:33:47+03:00",
+   "kelimeler": [
+    "200",
+    "binde",
+    "bm",
+    "etkil",
+    "fazla",
+    "gazze",
+    "hafta",
+    "kisi",
+    "sonu",
+    "yagan",
+    "yagmu",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "692fdbf7e5f3": {
+   "id": "692fdbf7e5f3",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da trafikte kavga eden iki sürücüye 562 bin lira ceza",
+   "ozet": "İstanbul Pendik'te trafikte tartıştıktan sonra araçlarından inerek birbirlerine saldıran otomobil ve motosiklet sürücülerine toplam 562 bin 719 lira idari para cezası kesildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-trafikte-kavga-eden-iki-surucuye-562-bin-lira-ceza-962858.html",
+   "zaman": "2026-11-10T22:43:00+03:00",
+   "kelimeler": [
+    "562",
+    "bin",
+    "ceza",
+    "eden",
+    "iki",
+    "istan",
+    "kavga",
+    "lira",
+    "suruc",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8a288fdc0ede": {
+   "id": "8a288fdc0ede",
+   "kaynak": "TRT Haber",
+   "baslik": "BM: Gazze'de hafta sonu yağan yağmurlardan yaklaşık 200 binden fazla kişi etkilendi",
+   "ozet": "Birleşmiş Milletler BM, Gazze'de hafta sonu yağan yağmurlardan 40 binden fazla ailenin barınağında ve Gazze'deki 9 sağlık tesisinde hasar yaşandığını belirterek, ilk tahminlere göre 200 binden fazla kişinin etkilenmiş olabileceğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-hafta-sonu-yagan-yagmurlardan-yaklasik-200-binden-fazla-kisi-etkilendi-962859.html",
+   "zaman": "2026-11-10T22:50:00+03:00",
+   "kelimeler": [
+    "200",
+    "binde",
+    "bm",
+    "etkil",
+    "fazla",
+    "gazze",
+    "hafta",
+    "kisi",
+    "sonu",
+    "yagan",
+    "yagmu",
+    "yakla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "270cb90a264f"
+  },
+  "073fef0c1ef4": {
+   "id": "073fef0c1ef4",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Başsavcılık, Adli Tıp'ın Kaşif Kozinoğlu raporuna itiraz etti",
+   "ozet": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin soruşturmada başsavcılık, Adli Tıp Kurumu'nun raporuna itiraz etti.",
+   "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o",
+   "zaman": "2026-11-10T22:50:07+03:00",
+   "kelimeler": [
+    "adli",
+    "bassa",
+    "etti",
+    "in",
+    "itira",
+    "kasif",
+    "kozin",
+    "rapor",
+    "tip"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "28d294a4b11b"
+  },
+  "1a4e26081d0f": {
+   "id": "1a4e26081d0f",
+   "kaynak": "Hürriyet",
+   "baslik": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 107. duruşması sona erdi",
+   "ozet": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 107. duruşmasında, bazı tutuklu sanıkların tahliyeye ilişkin beyanları alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-107-durusmasi-sona-erdi-43373538",
+   "zaman": "2026-11-10T22:59:02+03:00",
+   "kelimeler": [
+    "107",
+    "amacl",
+    "cikar",
+    "davas",
+    "durus",
+    "erdi",
+    "imamo",
+    "orgut",
+    "sona",
+    "suc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d386b55e2fa8": {
+   "id": "d386b55e2fa8",
+   "kaynak": "XHABER",
+   "baslik": "Bursa'da poligona giden bir kişi, intihar girişiminde bulundu.",
+   "ozet": "Hızla müdahale edilerek silahın ateşlenmesi engellendi.",
+   "link": "https://t.me/sahinozkan000/30610",
+   "zaman": "2026-11-10T23:00:31+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Bursa'da poligona giden bir kişi, intihar girişiminde bulundu.\nHızla müdahale edilerek silahın ateşlenmesi engellendi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/fONGKDEW014roj7b52OPCbaa4YWCJs8PD8bZQnJVXK1ShZvswEzCNojgoJ9T44a33dkWk3uUl-146cvhO3YmX9nu0tNREF9hd3icXBXd9bm4pRVCQz_fDY1RzGzxO-22rmksZt8xhDmtfU_SxzuxK-v41Ec5DzQHPwKN_7Eik0Un2IhubxTvT4IgHKL3pb-aws4NjaMY8-xyvOkGwwJYaOGh-gUs1fakOEcqZFy230uc_TkKP8z3sY2iqBrL3v2AbS8HcpDq4SQ-g5aeygj2-GKtc_GpJqeiU7UIXksFlgknCwF6bd7N9gTwf__mWgpgKi_9QgUbYBNNcNwe7cCpBA",
+   "tg_video_url": "",
+   "kelimeler": [
+    "bulun",
+    "bursa",
+    "giden",
+    "giris",
+    "intih",
+    "kisi",
+    "polig"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 23:01:33  4 yeni haber",
   "10.11 22:46:04  2 yeni haber",
   "10.11 22:31:21  1 yeni haber",
   "10.11 22:16:30  4 yeni haber",
@@ -29962,8 +30067,7 @@
   "08.11 19:31:39  2 yeni haber",
   "08.11 18:46:04  1 yeni haber",
   "08.11 18:31:44  2 yeni haber",
-  "08.11 18:16:08  3 yeni haber",
-  "08.11 18:01:54  5 yeni haber"
+  "08.11 18:16:08  3 yeni haber"
  ],
  "otomatik": false
 }
