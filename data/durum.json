@@ -26344,7 +26344,10 @@
     "zekan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "906c9e954b2b": {
    "id": "906c9e954b2b",
@@ -29625,6 +29628,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b0963e8cc09d": {
+   "id": "b0963e8cc09d",
+   "kaynak": "AA",
+   "baslik": "Almanya’da yapay zekanın 15 yılda 800 bin işi değiştirmesi bekleniyor",
+   "ozet": "Almanya Federal İş Ajansı (BA) Başkanı Andrea Nahles, yapay zekanın gelecek 15 yıl içinde ülkede yaklaşık 800 bin iş kaybına yol açacağını ancak benzer sayıda yeni istihdam oluşturacağını belirtti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanya-da-yapay-zekanin-15-yilda-800-bin-isi-degistirmesi-bekleniyor/4119470",
+   "zaman": "2026-11-10T21:49:07+03:00",
+   "kelimeler": [
+    "15",
+    "800",
+    "alman",
+    "bekle",
+    "bin",
+    "degis",
+    "isi",
+    "yapay",
+    "yilda",
+    "zekan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8c296a9aa78c"
   }
  },
  "kayit": [
