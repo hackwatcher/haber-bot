@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "9de767bee5ea": {
-   "id": "9de767bee5ea",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Murat Kurum TRT Haberde",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TRT Haberde gündeme ilişkin soruları yanıtlıyor.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-murat-kurum-trt-haberde-962556.html",
-   "zaman": "2026-11-07T21:10:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "haber",
-    "kurum",
-    "murat",
-    "trt"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "c3c1bda98a0c": {
    "id": "c3c1bda98a0c",
    "kaynak": "Hürriyet",
@@ -211,29 +193,6 @@
    "oncelikli": false,
    "tekrar_of": "27983108bd70"
   },
-  "751f8d8f9ce7": {
-   "id": "751f8d8f9ce7",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Murat Kurum: COP31de Sıfır Atık tecrübemizi tüm dünyaya aktaracağız",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TRT Haberde gündeme ilişkin soruları yanıtladı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-murat-kurum-cop31de-sifir-atik-tecrubemizi-tum-dunyaya-aktaracagiz-962556.html",
-   "zaman": "2026-11-07T21:10:00+03:00",
-   "kelimeler": [
-    "aktar",
-    "atik",
-    "bakan",
-    "cop31",
-    "dunya",
-    "kurum",
-    "murat",
-    "sifir",
-    "tecru",
-    "tum"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9de767bee5ea"
-  },
   "29624b88ade2": {
    "id": "29624b88ade2",
    "kaynak": "AA",
@@ -254,29 +213,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "69d783197e4e": {
-   "id": "69d783197e4e",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Murat Kurum: COP31'de Antalyadan tüm dünyaya ortak bir çağrı yapacağız",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, TRT Haberde gündeme ilişkin soruları yanıtladı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-murat-kurum-cop31de-antalyadan-tum-dunyaya-ortak-bir-cagri-yapacagiz-962556.html",
-   "zaman": "2026-11-07T21:10:00+03:00",
-   "kelimeler": [
-    "antal",
-    "bakan",
-    "cagri",
-    "cop31",
-    "dunya",
-    "kurum",
-    "murat",
-    "ortak",
-    "tum",
-    "yapac"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9de767bee5ea"
   },
   "af6942520ca5": {
    "id": "af6942520ca5",
@@ -23053,7 +22989,8 @@
     "sulta"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5682f14b9735": {
    "id": "5682f14b9735",
@@ -28317,7 +28254,10 @@
     "yayim"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c8098c5fc3e9": {
    "id": "c8098c5fc3e9",
@@ -29443,10 +29383,113 @@
     "yasa"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "fcde9774e38b": {
+   "id": "fcde9774e38b",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanlığından iklim sözlüğünün ikinci baskısı",
+   "ozet": "İletişim Başkanlığınca hazırlanan \"İklim Değişikliği ile Mücadele Kavramları Sözlüğü\", Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 kapsamında güncellenerek genişletilmiş ikinci baskısıyla yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligindan-iklim-sozlugunun-ikinci-baskisi-962852.html",
+   "zaman": "2026-11-10T20:57:00+03:00",
+   "kelimeler": [
+    "baska",
+    "baski",
+    "ikinc",
+    "iklim",
+    "ileti",
+    "sozlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0054e7a730a4"
+  },
+  "b58d9455fd25": {
+   "id": "b58d9455fd25",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan lider eşleri ile bir araya geldi",
+   "ozet": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31'inci Taraflar Konferansı (COP31) kapsamında görüşmeler gerçekleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-lider-esleri-ile-bir-araya-geldi-43373482",
+   "zaman": "2026-11-10T20:57:29+03:00",
+   "kelimeler": [
+    "araya",
+    "emine",
+    "erdog",
+    "esler",
+    "geldi",
+    "lider"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "60c7de9a99f0": {
+   "id": "60c7de9a99f0",
+   "kaynak": "AA",
+   "baslik": "İstinaf genç kızın öldüğü motosiklet kazası kararını bozdu",
+   "ozet": "İstanbul Bölge Adliye Mahkemesi, Sultanbeyli'de, erkek arkadaşının kullandığı motosikletin otomobille çarpışması sonucu meydana gelen kazada Yiğit'in hayatını kaybetmesine ilişkin Mert ile Bayramoğlu için hükmedilen cezaları hukuka uygun bulmadı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istinaf-genc-kizin-oldugu-motosiklet-kazasi-kararini-bozdu/4119416",
+   "zaman": "2026-11-10T20:59:30+03:00",
+   "kelimeler": [
+    "bozdu",
+    "genc",
+    "istin",
+    "karar",
+    "kazas",
+    "kizin",
+    "motos",
+    "oldug"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "aff2ab401c88": {
+   "id": "aff2ab401c88",
+   "kaynak": "AA",
+   "baslik": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada nüshasının bilinmeyen özellikleri ortaya çıkarıldı",
+   "ozet": "İstanbul Üniversitesinde yürütülen araştırmada, Fatih Sultan Mehmet'in kütüphanesindeki 260 yapraklık İlyada el yazmasının İstanbul'daki bir yazım atölyesinde kopyalanmış olabileceğine ilişkin bulgulara ulaşıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/fatih-sultan-mehmetin-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-ozellikleri-ortaya-cikarildi/4119424",
+   "zaman": "2026-11-10T21:02:15+03:00",
+   "kelimeler": [
+    "bilin",
+    "cikar",
+    "fatih",
+    "ilyad",
+    "in",
+    "kutup",
+    "mehme",
+    "nusha",
+    "ortay",
+    "ozell",
+    "sulta"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "311efc1563c9"
+  },
+  "7b45da0983e3": {
+   "id": "7b45da0983e3",
+   "kaynak": "Hürriyet",
+   "baslik": "400 internet sitesi erişime kapatıldı",
+   "ozet": "ANKARA'da jandarma ekiplerinin sanal devriyesi kapsamında tespit edilen yasa dışı bahis ve müstehcen içerikli 400 internet sitesi erişime kapatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/400-internet-sitesi-erisime-kapatildi-43373486",
+   "zaman": "2026-11-10T21:04:08+03:00",
+   "kelimeler": [
+    "400",
+    "erisi",
+    "inter",
+    "kapat",
+    "sites"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8db8e8693f5f"
   }
  },
  "kayit": [
+  "10.11 21:16:11  2 yeni haber",
   "10.11 21:01:56  2 yeni haber",
   "10.11 20:46:07  1 yeni haber",
   "10.11 20:31:26  2 yeni haber",
@@ -29645,8 +29688,7 @@
   "08.11 17:16:20  6 yeni haber",
   "08.11 16:46:11  5 yeni haber",
   "08.11 16:31:16  4 yeni haber",
-  "08.11 16:15:59  4 yeni haber",
-  "08.11 16:03:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Direksiyon hakimiyetini kaybetti, takla attı"
+  "08.11 16:15:59  4 yeni haber"
  ],
  "otomatik": false
 }
