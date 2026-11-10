@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "61ce39170638": {
-   "id": "61ce39170638",
-   "kaynak": "Hürriyet",
-   "baslik": "Anadolu Otoyolu’nda zincirleme kaza: 6 yaralı",
-   "ozet": "Anadolu Otoyolu’nun Bolu geçişinde kar yağışı nedeniyle kayganlaşan yolda 6 otomobil ve 1 tırın karıştığı zincirleme kazada 6 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/anadolu-otoyolunda-zincirleme-kaza-6-yarali-43370039",
-   "zaman": "2026-11-08T01:17:00+03:00",
-   "kelimeler": [
-    "anado",
-    "kaza",
-    "nda",
-    "otoyo",
-    "yaral",
-    "zinci"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "cbd4821a27d7"
-  },
-  "311e4ef6d217": {
-   "id": "311e4ef6d217",
-   "kaynak": "AA",
-   "baslik": "UKMTO: Umman Körfezi'nde yük gemisi ile askeri güçler arasında bir olay rapor edildi",
-   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman Körfezi açıklarında yük gemisi ile askeri güçlerin karıştığı bir olayın rapor edildiğini açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-korfezinde-yuk-gemisi-ile-askeri-gucler-arasinda-bir-olay-rapor-edildi/4115598",
-   "zaman": "2026-11-08T01:24:30+03:00",
-   "kelimeler": [
-    "arasi",
-    "asker",
-    "edild",
-    "gemis",
-    "gucle",
-    "korfe",
-    "nde",
-    "olay",
-    "rapor",
-    "ukmto",
-    "umman",
-    "yuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8ab6266c5f35": {
-   "id": "8ab6266c5f35",
-   "kaynak": "TRT Haber",
-   "baslik": "Devrim Muhafızları: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarptı",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda 2 tankerin mayına çarptığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carpti-962564.html",
-   "zaman": "2026-11-08T01:29:00+03:00",
-   "kelimeler": [
-    "bogaz",
-    "carpt",
-    "devri",
-    "hurmu",
-    "mayin",
-    "muhaf",
-    "nda",
-    "petro",
-    "tanke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7075cd25189f"
-  },
   "7cc9bde74028": {
    "id": "7cc9bde74028",
    "kaynak": "TRT Haber",
@@ -103,29 +38,6 @@
     "ulusa",
     "yetki",
     "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a0081295172e": {
-   "id": "a0081295172e",
-   "kaynak": "AA",
-   "baslik": "Arda Güler'in gol attığı maçta Real Madrid, Valencia'yı 3-0 yendi",
-   "ozet": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler'in 1 gol attığı maçta Valencia'yı 3-0 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/arda-gulerin-gol-attigi-macta-real-madrid-valenciayi-3-0-yendi/4115597",
-   "zaman": "2026-11-08T01:20:50+03:00",
-   "kelimeler": [
-    "arda",
-    "attig",
-    "gol",
-    "guler",
-    "in",
-    "macta",
-    "madri",
-    "real",
-    "valen",
-    "yendi",
-    "yi"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -25034,7 +24946,10 @@
     "zam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "f28383bab842": {
    "id": "f28383bab842",
@@ -30053,8 +29968,17 @@
     "milli",
     "ucunc"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-11T01:33:31.823962+03:00",
+   "ig_id": "18220556884359381",
+   "reels_id": "18056030435815341",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2748260042273164",
+   "slayt": 5,
+   "kanca": "HEDEF ALTIN MADALYA"
   },
   "fdda78f5e274": {
    "id": "fdda78f5e274",
@@ -30129,9 +30053,93 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "34650e965cb8": {
+   "id": "34650e965cb8",
+   "kaynak": "AA",
+   "baslik": "Türkiye-Nijerya ilişkilerinin kökleri 16. yüzyıla uzanıyor",
+   "ozet": "Türkiye'nin Abuja Büyükelçisi Mehmet Poroy, Türkiye ile Nijerya arasındaki ilişkilerin karşılıklı saygı, dostluk ve ortak çıkarlar temelinde geliştiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiye-nijerya-iliskilerinin-kokleri-16-yuzyila-uzaniyor/4119554",
+   "zaman": "2026-11-11T00:07:24+03:00",
+   "kelimeler": [
+    "16",
+    "ilisk",
+    "kokle",
+    "nijer",
+    "turki",
+    "uzani",
+    "yuzyi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb5b745e91ae": {
+   "id": "eb5b745e91ae",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: Türkiye'nin COP31 yaklaşımının temelinde diyalog, uzlaşı ve somut eylem bulunuyor",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye'nin COP31 yaklaşımının temelinde diyalog, uzlaşı ve somut eylem bulunuyor\" dedi. Duran, \"İklim değişikliğiyle mücadelede verilen taahhütlerin uygulamaya geçirilmesini destekliyoruz\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-turkiyenin-cop31-yaklasiminin-temelinde-diyalog-uzlasi-ve-somut-eylem-bulunuyor-962865.html",
+   "zaman": "2026-11-11T01:11:00+03:00",
+   "kelimeler": [
+    "baska",
+    "bulun",
+    "cop31",
+    "diyal",
+    "duran",
+    "eylem",
+    "ileti",
+    "nin",
+    "somut",
+    "temel",
+    "turki",
+    "uzlas",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "02483e5e85ab": {
+   "id": "02483e5e85ab",
+   "kaynak": "Sözcü",
+   "baslik": "Sigara ve alkole büyük zam geliyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/sigara-ve-alkole-buyuk-zam-geliyor-p380092",
+   "zaman": "2026-11-11T01:20:19+03:00",
+   "kelimeler": [
+    "alkol",
+    "buyuk",
+    "geliy",
+    "sigar",
+    "zam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "74a289cdd7a4"
+  },
+  "9cb814e791d5": {
+   "id": "9cb814e791d5",
+   "kaynak": "AA",
+   "baslik": "ABD Temsilciler Meclisindeki Cumhuriyetçilerin yeni lideri Jim Jordan oldu",
+   "ozet": "ABD'de 3 Kasım'da yapılan Kongre ara seçimlerinin ardından yeni döneme hazırlanan Cumhuriyetçiler, Temsilciler Meclisi için Jim Jordan'ı liderliğe seçerken, Senato'da ise John Thune koltuğunu korudu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisindeki-cumhuriyetcilerin-yeni-lideri-jim-jordan-oldu/4119590",
+   "zaman": "2026-11-11T01:29:14+03:00",
+   "kelimeler": [
+    "abd",
+    "cumhu",
+    "jim",
+    "jorda",
+    "lider",
+    "mecli",
+    "temsi",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 01:33:31  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Avrupa üçüncüsü milli boksör, gözünü altın madalyaya dikti",
+  "11.11 01:31:15  3 yeni haber",
   "11.11 01:16:32  4 yeni haber",
   "11.11 01:03:58  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Merkez Bankası iki elektronik para kuruluşunun faaliyet iznini iptal e",
   "11.11 01:01:33  8 yeni haber",
@@ -30329,9 +30337,7 @@
   "08.11 23:46:02  1 yeni haber",
   "08.11 23:26:21  3 yeni haber",
   "08.11 23:16:17  5 yeni haber",
-  "08.11 23:01:29  3 yeni haber",
-  "08.11 22:46:00  2 yeni haber",
-  "08.11 22:31:18  1 yeni haber"
+  "08.11 23:01:29  3 yeni haber"
  ],
  "otomatik": false
 }
