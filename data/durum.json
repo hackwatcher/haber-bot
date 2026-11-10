@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "acda3259babb": {
-   "id": "acda3259babb",
-   "kaynak": "TRT Haber",
-   "baslik": "19 il için 'sarı' kodlu uyarı: Sağanak ve fırtına bekleniyor",
-   "ozet": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. Meteoroloji 19 il için 'sarı' kodlu uyarıda bulundu. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-kodlu-uyari-saganak-ve-firtina-bekleniyor-962489.html",
-   "zaman": "2026-11-07T07:17:00+03:00",
-   "kelimeler": [
-    "19",
-    "bekle",
-    "firti",
-    "il",
-    "kodlu",
-    "sagan",
-    "sari",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ]
-  },
   "439a936b52ef": {
    "id": "439a936b52ef",
    "kaynak": "Hürriyet",
@@ -25599,9 +25575,132 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "1bdf9c409177"
+  },
+  "d9bbdb437d80": {
+   "id": "d9bbdb437d80",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da huzur uygulamasında 445 şüpheliye gözaltı",
+   "ozet": "İstanbul'da dün yapılan huzur uygulaması kapsamında toplam 445 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-huzur-uygulamasinda-445-supheliye-gozalti-962746.html",
+   "zaman": "2026-11-10T07:08:00+03:00",
+   "kelimeler": [
+    "445",
+    "gozal",
+    "huzur",
+    "istan",
+    "suphe",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "NTV",
+    "AA"
+   ]
+  },
+  "0eb1bd835562": {
+   "id": "0eb1bd835562",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da huzur uygulaması: 445 kişi gözaltına alındı",
+   "ozet": "İstanbul'da dün yapılan huzur uygulaması kapsamında toplam 445 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-43372209",
+   "zaman": "2026-11-10T07:12:40+03:00",
+   "kelimeler": [
+    "445",
+    "alind",
+    "gozal",
+    "huzur",
+    "istan",
+    "kisi",
+    "uygul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d9bbdb437d80"
+  },
+  "931c2034bf8b": {
+   "id": "931c2034bf8b",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da huzur uygulaması. 445 kişi gözaltına alındı",
+   "ozet": "İstanbul'da dün yapılan huzur uygulaması kapsamında toplam 445 şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-1750191",
+   "zaman": "2026-11-10T07:16:34+03:00",
+   "kelimeler": [
+    "445",
+    "alind",
+    "gozal",
+    "huzur",
+    "istan",
+    "kisi",
+    "uygul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d9bbdb437d80"
+  },
+  "3c1223cefb16": {
+   "id": "3c1223cefb16",
+   "kaynak": "AA",
+   "baslik": "İstanbul'daki huzur uygulamasında 445 zanlı gözaltına alındı",
+   "ozet": "İstanbul'da dün yapılan huzur uygulaması kapsamında toplam 445 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-huzur-uygulamasinda-445-zanli-gozaltina-alindi/4118114",
+   "zaman": "2026-11-10T07:36:46+03:00",
+   "kelimeler": [
+    "445",
+    "alind",
+    "daki",
+    "gozal",
+    "huzur",
+    "istan",
+    "uygul",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d9bbdb437d80"
+  },
+  "3ad22bce7ecd": {
+   "id": "3ad22bce7ecd",
+   "kaynak": "NTV",
+   "baslik": "Adana'da 3,5 büyüklüğünde deprem",
+   "ozet": "Adana'nın Kozan ilçesinde saat 06.42'de 3.5 büyüklüğünde bir deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/adanada-35-buyuklugunde-deprem-1750192",
+   "zaman": "2026-11-10T07:39:22+03:00",
+   "kelimeler": [
+    "adana",
+    "buyuk",
+    "depre"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c4deac7d5219"
+  },
+  "5f1b62c01942": {
+   "id": "5f1b62c01942",
+   "kaynak": "AA",
+   "baslik": "Bazı ülkeler ve teknoloji şirketleri yapay zeka güvenliğine ilişkin bildiri imzaladı",
+   "ozet": "Aralarında Kanada, Fransa ve Norveç'in bulunduğu ülkeler ile Anthropic, Microsoft ve OpenAI gibi teknoloji şirketleri, yapay zeka güvenliği ve emniyetinin sağlanmasına yönelik ortak bildiriye imza attı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bazi-ulkeler-ve-teknoloji-sirketleri-yapay-zeka-guvenligine-iliskin-bildiri-imzaladi/4118115",
+   "zaman": "2026-11-10T07:42:44+03:00",
+   "kelimeler": [
+    "bazi",
+    "bildi",
+    "guven",
+    "ilisk",
+    "imzal",
+    "sirke",
+    "tekno",
+    "ulkel",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 07:47:28  2 yeni haber",
   "10.11 07:13:50  17 yeni haber",
   "10.11 07:03:50  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Google, 10 Kasım'da Atatürk'ü siyah kurdele ile andı.",
   "10.11 07:02:16  3 yeni haber",
@@ -25800,8 +25899,7 @@
   "08.11 00:02:51  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | İsrail'de hükümeti kurma görevi Netanyahu'nun rakibi Eise",
   "08.11 00:01:25  4 yeni haber",
   "07.11 23:31:17  4 yeni haber",
-  "07.11 22:42:56  2 yeni haber",
-  "07.11 22:31:15  1 yeni haber"
+  "07.11 22:42:56  2 yeni haber"
  ],
  "otomatik": false
 }
