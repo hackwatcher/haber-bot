@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "84aaadd80c33": {
-   "id": "84aaadd80c33",
-   "kaynak": "AA",
-   "baslik": "İran basını: Keşm Adası'nda iki patlama sesi duyuldu",
-   "ozet": "Hürmüz Boğazı'na yakın Keşm Adası'nda iki patlama sesinin duyulduğu bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-iki-patlama-sesi-duyuldu/4115519",
-   "zaman": "2026-11-07T23:06:27+03:00",
-   "kelimeler": [
-    "adasi",
-    "basin",
-    "duyul",
-    "iki",
-    "iran",
-    "kesm",
-    "nda",
-    "patla",
-    "sesi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6e1d99482b0e"
-  },
   "8d2ef9c8adbf": {
    "id": "8d2ef9c8adbf",
    "kaynak": "AA",
@@ -195,30 +173,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "fbe2c4573562"
-  },
-  "0ec2d6724eda": {
-   "id": "0ec2d6724eda",
-   "kaynak": "AA",
-   "baslik": "İran basını: Keşm Adası'nda duyulan patlama sesleri Hürmüz Boğazı ile ilgili",
-   "ozet": "İran'ın güneyindeki Keşm Adası'nda duyulan iki patlama sesinin Hürmüz Boğazı ile ilgili olduğu ve adaya herhangi bir saldırı düzenlenmediği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-duyulan-patlama-sesleri-hurmuz-bogazi-ile-ilgili/4115519",
-   "zaman": "2026-11-07T23:06:27+03:00",
-   "kelimeler": [
-    "adasi",
-    "basin",
-    "bogaz",
-    "duyul",
-    "hurmu",
-    "ilgil",
-    "iran",
-    "kesm",
-    "nda",
-    "patla",
-    "sesle"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6e1d99482b0e"
   },
   "15ef5be306c1": {
    "id": "15ef5be306c1",
@@ -27426,7 +27380,8 @@
     "Sözcü",
     "Hürriyet",
     "NTV",
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "AA"
    ]
   },
   "2ca93ad5d7de": {
@@ -29865,9 +29820,82 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0cb0a68893d7": {
+   "id": "0cb0a68893d7",
+   "kaynak": "AA",
+   "baslik": "Gençlik ve Spor Bakanı Osman Aşkın Bak: 3 milyon gencimize önümüzdeki 2,5 ile 3 yıl içerisinde istihdam sağlayacağız",
+   "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2,5 ile 3 yıl içinde 3 milyon gence istihdam sağlamayı hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-osman-askin-bak-3-milyon-gencimize-onumuzdeki-2-5-ile-3-yil-icerisinde-istihdam-saglayacagiz/4119503",
+   "zaman": "2026-11-10T22:39:02+03:00",
+   "kelimeler": [
+    "askin",
+    "bak",
+    "bakan",
+    "genci",
+    "gencl",
+    "iceri",
+    "istih",
+    "milyo",
+    "onumu",
+    "osman",
+    "sagla",
+    "spor",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a01f23660738": {
+   "id": "a01f23660738",
+   "kaynak": "AA",
+   "baslik": "Silivri Başsavcılığı Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz etti",
+   "ozet": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu'nun ölüm nedenine ilişkin hazırlanan Adli Tıp raporuna itirazda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/silivri-bassavciligi-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-etti/4119512",
+   "zaman": "2026-11-10T23:02:18+03:00",
+   "kelimeler": [
+    "adli",
+    "bassa",
+    "etti",
+    "ilisk",
+    "itira",
+    "kozin",
+    "nun",
+    "olumu",
+    "rapor",
+    "siliv",
+    "tip"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "28d294a4b11b"
+  },
+  "f285c0dffafd": {
+   "id": "f285c0dffafd",
+   "kaynak": "AA",
+   "baslik": "100'den fazla sivil toplum kuruluşundan AP'ye \"İslamofobi ve ırkçılık\" tepkisi",
+   "ozet": "104 sivil toplum kuruluşu, Avrupa Parlamentosunda (AP) 7 Ekim'de düzenlenen \"İslamcı sızma ve Müslüman Kardeşler\" konulu oturumda bazı milletvekillerinin kullandığı ırkçı ve İslamofobik söylemlere tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/100den-fazla-sivil-toplum-kurulusundan-apye-islamofobi-ve-irkcilik-tepkisi/4119515",
+   "zaman": "2026-11-10T23:06:39+03:00",
+   "kelimeler": [
+    "100",
+    "ap",
+    "den",
+    "fazla",
+    "irkci",
+    "islam",
+    "kurul",
+    "sivil",
+    "tepki",
+    "toplu",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "10.11 23:16:08  2 yeni haber",
   "10.11 23:01:33  4 yeni haber",
   "10.11 22:46:04  2 yeni haber",
   "10.11 22:31:21  1 yeni haber",
@@ -30066,8 +30094,7 @@
   "08.11 19:46:00  2 yeni haber",
   "08.11 19:31:39  2 yeni haber",
   "08.11 18:46:04  1 yeni haber",
-  "08.11 18:31:44  2 yeni haber",
-  "08.11 18:16:08  3 yeni haber"
+  "08.11 18:31:44  2 yeni haber"
  ],
  "otomatik": false
 }
