@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "a8bd4fdeb805": {
-   "id": "a8bd4fdeb805",
-   "kaynak": "TRT Haber",
-   "baslik": "8 yıldır aranan firari yakalandı",
-   "ozet": "Ankarada polis ekipleri, hakkında \"kasten öldürme\" suçundan 26 yıl 3 ay kesinleşmiş hapis cezası bulunan ve 8 yıldır aranan firari hükümlüyü düzenlenen operasyonla yakaladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/8-yildir-aranan-firari-yakalandi-962572.html",
-   "zaman": "2026-11-08T08:17:00+03:00",
-   "kelimeler": [
-    "arana",
-    "firar",
-    "yakal",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "099c40a0c512": {
-   "id": "099c40a0c512",
-   "kaynak": "Hürriyet",
-   "baslik": "Meteoroloji'den 18 il için 'sarı' kodlu uyarı: Sağanak, fırtına ve kar geliyor",
-   "ozet": "Meteoroloji Genel Müdürlüğü, soğuk ve yağışlı havanın etkisini artırdığı yurt genelinde aralarında Adana, Antalya, Trabzon ve Rize'nin de bulunduğu 18 il için \"sarı\" kodlu uyarı yayımladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/meteorolojiden-18-il-icin-sari-kodlu-uyari-saganak-firtina-ve-kar-geliyor-43370092",
-   "zaman": "2026-11-08T08:26:00+03:00",
-   "kelimeler": [
-    "18",
-    "den",
-    "firti",
-    "geliy",
-    "il",
-    "kar",
-    "kodlu",
-    "meteo",
-    "sagan",
-    "sari",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "acda3259babb"
-  },
   "26e5d4d6af50": {
    "id": "26e5d4d6af50",
    "kaynak": "AA",
@@ -26982,7 +26942,10 @@
     "sayma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "0ec95051bd1d": {
    "id": "0ec95051bd1d",
@@ -30627,9 +30590,103 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "bb848992c1fe"
+  },
+  "d08063df4795": {
+   "id": "d08063df4795",
+   "kaynak": "Hürriyet",
+   "baslik": "Anneye yemek sürprizi alevlere dönüştü: İki kardeşin can havliyle 112'yi aradığı anlar kamerada",
+   "ozet": "50. Yıl Mahallesi'nde okuldan dönüp annesi için mutfağa giren 10 yaşındaki kız çocuğu, ocakta kızgın yağı unutunca daire duman ve alevlerle doldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/anneye-yemek-surprizi-alevlere-donustu-iki-kardesin-can-havliyle-112yi-aradigi-anlar-kamerada-43373639",
+   "zaman": "2026-11-11T08:11:00+03:00",
+   "kelimeler": [
+    "112",
+    "alevl",
+    "anlar",
+    "anney",
+    "aradi",
+    "can",
+    "donus",
+    "havli",
+    "iki",
+    "kamer",
+    "karde",
+    "surpr",
+    "yemek",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4d1323ada151": {
+   "id": "4d1323ada151",
+   "kaynak": "NTV",
+   "baslik": "KYK yurtlarına sosyal medya düzenlemesi. İzinsiz görüntü paylaşan yurttan çıkarılacak",
+   "ozet": "KYK yurtlarında öğrencilerin görüntülerini paylaşanlar uzaklaştırma cezası alacak. Yurda giriş yapmayan öğrencinin velisine bildirim gidecek.",
+   "link": "https://www.ntv.com.tr/turkiye/kyk-yurtlarina-sosyal-medya-duzenlemesi-izinsiz-goruntu-paylasan-yurttan-cikarilacak-1750354",
+   "zaman": "2026-11-11T08:19:18+03:00",
+   "kelimeler": [
+    "cikar",
+    "duzen",
+    "gorun",
+    "izins",
+    "kyk",
+    "medya",
+    "payla",
+    "sosya",
+    "yurtl",
+    "yurtt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "67ee1bc74b13": {
+   "id": "67ee1bc74b13",
+   "kaynak": "NTV",
+   "baslik": "11 Kasım 2026 tarihli Resmi Gazete yayımlandı. Bugün hangi kararlar ve atamalar var?",
+   "ozet": "Cumhurbaşkanlığı İdari İşler Başkanlığı tarafından hazırlanan 11 Kasım 2026 tarihli Resmi Gazete yayımlanarak yürürlüğe girdi. İşte 11 Kasım tarihli Resmi Gazete kararları.",
+   "link": "https://www.ntv.com.tr/turkiye/11-kasim-2026-tarihli-resmi-gazete-yayimlandi-bugun-hangi-kararlar-ve-atamalar-var-1750358",
+   "zaman": "2026-11-11T08:29:53+03:00",
+   "kelimeler": [
+    "11",
+    "2026",
+    "atama",
+    "bugun",
+    "gazet",
+    "hangi",
+    "karar",
+    "kasim",
+    "resmi",
+    "tarih",
+    "yayim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "45587e21fd11"
+  },
+  "2bc00a0ffc6d": {
+   "id": "2bc00a0ffc6d",
+   "kaynak": "NTV",
+   "baslik": "Gazeteci İsmail Saymaz'ın ev hapsi kararı kaldırıldı",
+   "ozet": "Fon soruşturmasında \"halka yanıltıcı bilgi yaymak\" ile suçlanan gazeteci İsmail Saymaz'ın ev hapsi kaldırıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/gazeteci-ismail-saymazin-ev-hapsi-karari-kaldirildi-1750355",
+   "zaman": "2026-11-11T08:29:56+03:00",
+   "kelimeler": [
+    "ev",
+    "gazet",
+    "hapsi",
+    "in",
+    "ismai",
+    "kaldi",
+    "karar",
+    "sayma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c4d4668a6303"
   }
  },
  "kayit": [
+  "11.11 08:31:47  2 yeni haber",
   "11.11 08:19:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türkiye ATA’sını saygı, özlem ve minnetle andı",
   "11.11 08:01:28  1 yeni haber",
   "11.11 07:46:23  2 yeni haber",
@@ -30828,8 +30885,7 @@
   "09.11 07:01:43  1 yeni haber",
   "09.11 06:31:15  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "09.11 06:01:29  1 yeni haber",
-  "09.11 05:31:13  1 yeni haber",
-  "09.11 05:01:38  1 yeni haber"
+  "09.11 05:31:13  1 yeni haber"
  ],
  "otomatik": false
 }
