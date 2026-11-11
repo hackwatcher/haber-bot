@@ -18714,7 +18714,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "cf286077092c": {
    "id": "cf286077092c",
@@ -19811,7 +19813,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "f2164c383ab8": {
    "id": "f2164c383ab8",
@@ -21793,7 +21798,8 @@
     "olmay"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "925ee586f463": {
    "id": "925ee586f463",
@@ -23181,7 +23187,10 @@
     "yilma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "f80ba6f23b97": {
    "id": "f80ba6f23b97",
@@ -25919,7 +25928,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "a7c568fd51a4": {
    "id": "a7c568fd51a4",
@@ -26335,7 +26346,10 @@
     "yakit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "82072da1adcc": {
    "id": "82072da1adcc",
@@ -30150,9 +30164,369 @@
    ],
    "durum": "engelli",
    "oncelikli": false
+  },
+  "d3e7518a0aba": {
+   "id": "d3e7518a0aba",
+   "kaynak": "TRT Haber",
+   "baslik": "Kedilerin insanlara miyavlama nedeni belli oldu",
+   "ozet": "Brezilya'daki Sao Paulo Üniversitesinden bilim insanları, evcil kedilerin insanlarla iletişim kurma yöntemlerine dair dikkat çeken bir araştırma yürüttü. Araştırma sonuçları, kedilerin miyavlayarak yaşadıkları sorunların insanlar tarafından çözülmesini hedeflediğini ortaya koydu.",
+   "link": "https://www.trthaber.com/haber/dunya/kedilerin-insanlara-miyavlama-nedeni-belli-oldu-962878.html",
+   "zaman": "2026-11-11T06:56:00+03:00",
+   "kelimeler": [
+    "belli",
+    "insan",
+    "kedil",
+    "miyav",
+    "neden"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8dfe32ac4e20": {
+   "id": "8dfe32ac4e20",
+   "kaynak": "Hürriyet",
+   "baslik": "Atatürk bağımsızlık meşalesini ateşlemiştir",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, “Mustafa Kemal, İzmir rıhtımının düşman çizmeleriyle kirlendiği günlerde İstanbul’dan Anadolu’ya geçmiş ve bağımsızlık meşalesini ateşlemiştir” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ataturk-bagimsizlik-mesalesini-ateslemistir-43373559",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "atatu",
+    "atesl",
+    "bagim",
+    "mesal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "59c9aa64be58"
+  },
+  "92975267e48d": {
+   "id": "92975267e48d",
+   "kaynak": "Hürriyet",
+   "baslik": "Atatürk’ün huzurunda Anıtkabir’de devlet töreni",
+   "ozet": "10 Kasım Atatürk’ü Anma Günü’nde Cumhurbaşkanı Tayyip Erdoğan, muhalefet liderleri, TBMM Başkanı, bakanlar ve komutanların da yer aldığı heyet birlikte Anıtkabir’deydi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ataturkun-huzurunda-anitkabirde-devlet-toreni-43373560",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "anitk",
+    "atatu",
+    "devle",
+    "huzur",
+    "toren",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "24a328439c71"
+  },
+  "a9f5a930fc0f": {
+   "id": "a9f5a930fc0f",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye de Brezilya da barışı öne çıkarıyor",
+   "ozet": "Cumhurbaşkanı Erdoğan, Ankara’daki programının ardından Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında Liderler Zirvesi’ne katılmak üzere Antalya’ya gitti.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-de-brezilya-da-barisi-one-cikariyor-43373561",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "baris",
+    "brezi",
+    "cikar",
+    "one",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bbf77a6026d0": {
+   "id": "bbf77a6026d0",
+   "kaynak": "Hürriyet",
+   "baslik": "Antalya’dan dünyaya ‘ürküten’ uyarı: El Nino yeni rekorlar kıracak",
+   "ozet": "Dünya Meteoroloji Örgütü, El Nino’nun 2027’ye kadar aşırı sıcaklık, kuraklık ve şiddetli yağışları artıracağı uyarısında bulundu. Güney yarım kürede sıcaklık kaynaklı ölümlerin artması beklenirken, deniz seviyesindeki yükselme nedeniyle 900 milyon insan risk altında.",
+   "link": "https://www.hurriyet.com.tr/gundem/antalyadan-dunyaya-urkuten-uyari-el-nino-yeni-rekorlar-kiracak-43373564",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "antal",
+    "dan",
+    "dunya",
+    "el",
+    "kirac",
+    "nino",
+    "rekor",
+    "urkut",
+    "uyari",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "acd0908fd021": {
+   "id": "acd0908fd021",
+   "kaynak": "Hürriyet",
+   "baslik": "Guterres’ten temiz enerji çağrısı",
+   "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, Türkiye’nin ev sahipliğinde ilk kez düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31.",
+   "link": "https://www.hurriyet.com.tr/gundem/guterresten-temiz-enerji-cagrisi-43373567",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "enerj",
+    "guter",
+    "temiz",
+    "ten"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6f047b594bc4"
+  },
+  "6d2949f4f76d": {
+   "id": "6d2949f4f76d",
+   "kaynak": "Hürriyet",
+   "baslik": "Kerry: Enerjide dönüşüm şart",
+   "ozet": "Antalya’da düzenlenen COP31’de konuşan eski ABD Dışişleri Bakanı John Kerry, elektrik kullanımının yaygınlaştırılması kadar temiz kaynaklardan üretilmesinin de önemli olduğunu söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kerry-enerjide-donusum-sart-43373568",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "donus",
+    "enerj",
+    "kerry",
+    "sart"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0c067e3e7688": {
+   "id": "0c067e3e7688",
+   "kaynak": "Hürriyet",
+   "baslik": "Yılmaz’dan COP31’de diplomasi trafiği",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, COP31 kapsamında Antalya’da Mali Başbakanı Abdoulaye Maiga, Filistin Başbakanı Muhammed Mustafa, Fildişi Sahili Cumhurbaşkanı Yardımcısı Tiemoko Meyliet ve BM 81. Genel Kurul Başkanı Halilur Rahman ile ayrı ayrı görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/yilmazdan-cop31de-diplomasi-trafigi-43373569",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "dan",
+    "diplo",
+    "trafi",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "74feea835134": {
+   "id": "74feea835134",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Küresel Sıfır Atık İttifakı’ tanıtılacak",
+   "ozet": "CUMHURBAŞKANI Tayyip Erdoğan’ın eşi Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi’nin 31. Taraflar Konferansı (COP31) kapsamında, BM Habitat İcra Direktörü Anaclaudia Rossbach ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kuresel-sifir-atik-ittifaki-tanitilacak-43373588",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "atik",
+    "ittif",
+    "kures",
+    "sifir",
+    "tanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f69345c94fdf"
+  },
+  "3ece6202058b": {
+   "id": "3ece6202058b",
+   "kaynak": "Hürriyet",
+   "baslik": "Konferans alanı dışındaki Antalya... COP31 yolu",
+   "ozet": "Dünyanın gözü Antalya’daki COP31’de. Yaklaşık 1 milyon 100 bin metrekarelik konferans alanında iklim konuşulurken, ben rotamı organizasyonun şehir hayatına nasıl yansıdığını görmek için konferans alanının dışına çevirdim.",
+   "link": "https://www.hurriyet.com.tr/gundem/konferans-alani-disindaki-antalya-cop31-yolu-43373589",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "alani",
+    "antal",
+    "cop31",
+    "disin",
+    "konfe",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "de9d70627d6e": {
+   "id": "de9d70627d6e",
+   "kaynak": "Hürriyet",
+   "baslik": "Dünya basını COP31’de 190 ülkeden 4 bin gazeteci",
+   "ozet": "Antalya’da başlayan COP 31’e dünya medyası yoğun ilgi gösterdi. Mavi Bölge’de kurulan COP31 Medya Merkezi, 190’dan fazla ülkeden 4 bine yakın basın mensubunu ağırlıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/dunya-basini-cop31de-190-ulkeden-4-bin-gazeteci-43373591",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "190",
+    "basin",
+    "bin",
+    "cop31",
+    "dunya",
+    "gazet",
+    "ulked"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b8e9a5b86d9": {
+   "id": "2b8e9a5b86d9",
+   "kaynak": "Hürriyet",
+   "baslik": "Genel Kurul’da Ata’ya saygı",
+   "ozet": "Türkiye Cumhuriyeti’nin kurucusu Ulu Önder Gazi Mustafa Kemal Atatürk’ün ebediyete irtihalinin 88’inci yıl dönümü dolayısıyla TBMM Genel Kurulu’nda saygı duruşunda bulunuldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/genel-kurulda-ataya-saygi-43373594",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "ata",
+    "genel",
+    "kurul",
+    "saygi",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3fcc5850c29"
+  },
+  "dda755a04458": {
+   "id": "dda755a04458",
+   "kaynak": "Hürriyet",
+   "baslik": "Fonda YEDİ şüpheli adliyede",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nca, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin fon soruşturması devam ediyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/fonda-yedi-supheli-adliyede-43373595",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "adliy",
+    "fonda",
+    "suphe",
+    "yedi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c0e103462a76": {
+   "id": "c0e103462a76",
+   "kaynak": "Hürriyet",
+   "baslik": "Ahmet Şık’ın eşine ‘casusluk’ suçlaması",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, TİP Milletvekili Ahmet Şık’ın eşi Yonca Verdioğlu Şık, polis eşliğinde mevcutlu olarak adliyeye götürüldü, daha sonra bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ahmet-sikin-esine-casusluk-suclamasi-43373597",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "ahmet",
+    "casus",
+    "esine",
+    "in",
+    "sik",
+    "sucla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "49a2be66985e": {
+   "id": "49a2be66985e",
+   "kaynak": "Hürriyet",
+   "baslik": "Cafer Mahiroğlu soruşturmasında 2’nci dalga",
+   "ozet": "Halk TV’nin sahibi Cafer Mahiroğlu hakkında yürütülen soruşturmada ikinci dalga operasyon yapıldı. 7 şüpheli gözaltına alındı, 1 şüpheli aranıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/cafer-mahiroglu-sorusturmasinda-2nci-dalga-43373598",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "cafer",
+    "dalga",
+    "mahir",
+    "nci",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e63511a4e5c0"
+  },
+  "7ab9d18dbab2": {
+   "id": "7ab9d18dbab2",
+   "kaynak": "Hürriyet",
+   "baslik": "Komisyon turu",
+   "ozet": "Meclis Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecinde PKK’nın tasfiyesini izleyecek parlamento komisyonunun yapısı ve çalışma ilkeleriyle ilgili fikir alışverişi için liderler turuna çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/komisyon-turu-43373599",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "komis",
+    "turu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1b38390e7df9": {
+   "id": "1b38390e7df9",
+   "kaynak": "Hürriyet",
+   "baslik": "O vasiyetin yazıldığı köşkteyiz",
+   "ozet": "10 Haziran 1937. Doğu vilayetlerinin durumunu görmek üzere son kez Trabzon’a gelerek Soğuksu’daki köşkte kalan Atatürk, tarihi bir ana imza atar. “Mal ve mülk bana ağırlık veriyor, bunları milletime vermekle ferahlık duyuyorum” der ve malvarlığını Türk milletine bağışlar...",
+   "link": "https://www.hurriyet.com.tr/gundem/o-vasiyetin-yazildigi-koskteyiz-43373612",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "koskt",
+    "vasiy",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6cdb820ec4f9": {
+   "id": "6cdb820ec4f9",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye ATA’sını saygı, özlem ve minnetle andı",
+   "ozet": "Türkiye Cumhuriyeti’nin kurucusu Gazi Mustafa Kemal Atatürk, vefatının 88’inci yıldönümünde yurdun dört bir yanında düzenlenen tören ve etkinliklerle anıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-atasini-saygi-ozlem-ve-minnetle-andi-43373615",
+   "zaman": "2026-11-11T07:00:00+03:00",
+   "kelimeler": [
+    "andi",
+    "ata",
+    "minne",
+    "ozlem",
+    "saygi",
+    "sini",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "903a6eae9f62": {
+   "id": "903a6eae9f62",
+   "kaynak": "NTV",
+   "baslik": "Antalya'da COP31 Liderler Zirvesi için trafik düzenlemesi",
+   "ozet": "Antalya'da COP31 Dünya Liderler Zirvesi dolayısıyla kent genelinde üst düzey güvenlik ve ulaşım tedbirleri alınacak.",
+   "link": "https://www.ntv.com.tr/turkiye/antalyada-cop31-liderler-zirvesi-icin-trafik-duzenlemesi-1750349",
+   "zaman": "2026-11-11T07:05:34+03:00",
+   "kelimeler": [
+    "antal",
+    "cop31",
+    "duzen",
+    "lider",
+    "trafi",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "441e51a62b61"
+  },
+  "0152a578994f": {
+   "id": "0152a578994f",
+   "kaynak": "AA",
+   "baslik": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir tankerin karıştığı olay rapor edildi",
+   "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda bir tankerin karıştığı olayla ilgili rapor aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-tankerin-karistigi-olay-rapor-edildi/4119613",
+   "zaman": "2026-11-11T07:05:45+03:00",
+   "kelimeler": [
+    "bogaz",
+    "deniz",
+    "edild",
+    "hurmu",
+    "ingil",
+    "karis",
+    "nda",
+    "olay",
+    "opera",
+    "rapor",
+    "tanke",
+    "ticar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 07:16:14  13 yeni haber",
   "11.11 07:02:51  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · ABD ordusunun üst düzey askerlerinden biri, Rusya adına casusluk yaptı",
   "11.11 07:01:23  5 yeni haber",
   "11.11 06:46:09  2 yeni haber",
@@ -30351,8 +30725,7 @@
   "09.11 04:31:24  1 yeni haber",
   "09.11 03:46:08  2 yeni haber",
   "09.11 03:46:08  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 03:31:33  1 yeni haber",
-  "09.11 03:16:02  1 yeni haber"
+  "09.11 03:31:33  1 yeni haber"
  ],
  "otomatik": false
 }
