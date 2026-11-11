@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "53077e0e89b4": {
-   "id": "53077e0e89b4",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında BDDK daire başkanı tutuklandı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon\" soruşturması kapsamında, Bankacılık Düzenleme ve Denetleme Kurumu BDDK daire başkanlarından Bilal Soysal tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-bddk-daire-baskani-tutuklandi-962599.html",
-   "zaman": "2026-11-08T15:19:00+03:00",
-   "kelimeler": [
-    "baska",
-    "bddk",
-    "daire",
-    "fon",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "b7d5bb8ccae4"
-  },
-  "3986efe1ea33": {
-   "id": "3986efe1ea33",
-   "kaynak": "TRT Haber",
-   "baslik": "İran Devrim Muhafızlarından Hürmüz Boğazı uyarısı: Mayınlar bekliyor",
-   "ozet": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediği\" uyarısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlarindan-hurmuz-bogazi-uyarisi-mayinlar-bekliyor-962600.html",
-   "zaman": "2026-11-08T15:20:00+03:00",
-   "kelimeler": [
-    "bekli",
-    "bogaz",
-    "devri",
-    "hurmu",
-    "iran",
-    "mayin",
-    "muhaf",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "daad85305020"
-  },
   "44955be7548c": {
    "id": "44955be7548c",
    "kaynak": "AA",
@@ -20357,7 +20317,8 @@
     "un"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ce88ea5f44c9": {
    "id": "ce88ea5f44c9",
@@ -30874,7 +30835,10 @@
     "yesil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f809ab1421ad": {
    "id": "f809ab1421ad",
@@ -33173,7 +33137,10 @@
     "yoluy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "97614e35b0ed": {
    "id": "97614e35b0ed",
@@ -33418,9 +33385,180 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "772e12154d89": {
+   "id": "772e12154d89",
+   "kaynak": "AA",
+   "baslik": "\"Sigorta Evi\" etkinliği başladı",
+   "ozet": "Hazine ve Maliye Bakan Yardımcısı Kutluhan Taşkın, \"Bu süreçte sigortacılık sektörü yalnızca finansal koruma sağlayan bir aktör olmanın ötesine geçmeli diye düşünüyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-evi-etkinligi-basladi/4120124",
+   "zaman": "2026-11-11T13:41:21+03:00",
+   "kelimeler": [
+    "basla",
+    "etkin",
+    "evi",
+    "sigor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "294937a0d11e": {
+   "id": "294937a0d11e",
+   "kaynak": "TRT Haber",
+   "baslik": "İsveç İklim Elçisi'nden Türkiye'ye COP31 övgüsü",
+   "ozet": "İsveç İklim Elçisi Mattias Frumerie, Türkiye'nin COP31 kapsamında iklim eylemlerine ve ülkeler arası işbirliğine verdiği önemi memnuniyetle karşıladıklarını belirterek, iki ülke arasındaki güçlü ilişkilerin enerji dönüşümünde de sürmesini istediklerini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/isvec-iklim-elcisinden-turkiyeye-cop31-ovgusu-962944.html",
+   "zaman": "2026-11-11T14:50:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "elcis",
+    "iklim",
+    "isvec",
+    "nden",
+    "ovgus",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed6f1c36f7d5": {
+   "id": "ed6f1c36f7d5",
+   "kaynak": "TRT Haber",
+   "baslik": "İtalyada 300 okula yönelik bomba ihbarı",
+   "ozet": "İtalyada, ülke genelindeki 300 okul, eposta yoluyla gönderilen bomba ihbarlarının ardından güvenlik gerekçesiyle tahliye edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/italyada-300-okula-yonelik-bomba-ihbari-962946.html",
+   "zaman": "2026-11-11T15:04:00+03:00",
+   "kelimeler": [
+    "300",
+    "bomba",
+    "ihbar",
+    "italy",
+    "okula",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f497f706db6b"
+  },
+  "b5e51bb08c28": {
+   "id": "b5e51bb08c28",
+   "kaynak": "TRT Haber",
+   "baslik": "EBRD'den Türkiye'nin yeşil dönüşümüne 14 milyar euroluk katkı",
+   "ozet": "Avrupa İmar ve Kalkınma Bankası EBRD Başkanı Odile RenaudBasso, Türkiye'ye yaptıkları yatırımların yarısından fazlasına karşılık gelen 14 milyar euroyu yeşil enerjiye ayırdıklarını belirterek, Türkiye'nin yenilenebilir enerji potansiyelinin yüksek olduğunu aktardı.",
+   "link": "https://www.trthaber.com/haber/gundem/ebrdden-turkiyenin-yesil-donusumune-14-milyar-euroluk-katki-962945.html",
+   "zaman": "2026-11-11T15:06:00+03:00",
+   "kelimeler": [
+    "14",
+    "den",
+    "donus",
+    "ebrd",
+    "eurol",
+    "katki",
+    "milya",
+    "nin",
+    "turki",
+    "yesil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f33ed94a3c5e"
+  },
+  "cdc148c7e1dc": {
+   "id": "cdc148c7e1dc",
+   "kaynak": "TRT Haber",
+   "baslik": "Kuş gribi nedeniyle bir türün nesli tükenebilir",
+   "ozet": "Bilim insanları, en az 40 kuş türünün virüs nedeniyle tehdit altında olduğunu belirterek salgının bazı türleri yok olmanın eşiğine getirebileceği uyarısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/kus-gribi-nedeniyle-bir-turun-nesli-tukenebilir-962947.html",
+   "zaman": "2026-11-11T15:14:00+03:00",
+   "kelimeler": [
+    "gribi",
+    "kus",
+    "neden",
+    "nesli",
+    "tuken",
+    "turun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1cb43b198df4": {
+   "id": "1cb43b198df4",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Çin Devlet Başkan Yardımcısı Han Zheng'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında Antalya'da, Çin Devlet Başkan Yardımcısı Han Zheng'i kabul etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-cin-devlet-baskan-yardimcisi-han-zhengi-kabul-etti-43374376",
+   "zaman": "2026-11-11T15:19:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cin",
+    "cumhu",
+    "devle",
+    "erdog",
+    "etti",
+    "han",
+    "kabul",
+    "yardi",
+    "zheng"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "d28ffd6042c7": {
+   "id": "d28ffd6042c7",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Çin Devlet Başkan Yardımcısı Han Zheng'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Çin Devlet Başkan Yardımcısı Han Zheng ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-cin-devlet-baskan-yardimcisi-han-zhengi-kabul-etti/4120651",
+   "zaman": "2026-11-11T15:24:35+03:00",
+   "kelimeler": [
+    "baska",
+    "cin",
+    "cumhu",
+    "devle",
+    "erdog",
+    "etti",
+    "han",
+    "kabul",
+    "yardi",
+    "zheng"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1cb43b198df4"
+  },
+  "5b0c6c3f32b3": {
+   "id": "5b0c6c3f32b3",
+   "kaynak": "NTV",
+   "baslik": "Meclis'te terörsüz Türkiye mesaisi. TBMM Başkanı Kurtulmuş AK Parti'yi ziyaret etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye süreci kapsamında kurulacak İzleme Komisyonu'na ilişkin AK Parti grubuna bir ziyarette bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/mecliste-terorsuz-turkiye-mesaisi-tbmm-baskani-kurtulmus-ak-partiyi-ziyaret-etti-1750441",
+   "zaman": "2026-11-11T15:27:37+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "etti",
+    "kurtu",
+    "mecli",
+    "mesai",
+    "parti",
+    "tbmm",
+    "te",
+    "teror",
+    "turki",
+    "yi",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e9d57de228e8"
   }
  },
  "kayit": [
+  "11.11 15:31:16  4 yeni haber",
   "11.11 15:16:14  2 yeni haber",
   "11.11 15:01:30  7 yeni haber",
   "11.11 14:46:14  5 yeni haber",
@@ -33619,8 +33757,7 @@
   "09.11 13:32:14  4 yeni haber",
   "09.11 13:16:11  6 yeni haber",
   "09.11 13:01:34  7 yeni haber",
-  "09.11 12:48:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TMSF'den gönüllü iade işlemlerine ilişkin duyuru",
-  "09.11 12:46:05  8 yeni haber"
+  "09.11 12:48:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TMSF'den gönüllü iade işlemlerine ilişkin duyuru"
  ],
  "otomatik": false
 }
