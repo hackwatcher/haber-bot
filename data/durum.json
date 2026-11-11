@@ -1,42 +1,5 @@
 {
  "haberler": {
-  "35db2e707247": {
-   "id": "35db2e707247",
-   "kaynak": "NTV",
-   "baslik": "Ankara ve Kayseri'de yılın ilk karı yağdı",
-   "ozet": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu. Hava sıcaklığının hissedilir derecede düştüğü Kayseri'ye de yılın ilk karı yağdı.",
-   "link": "https://www.ntv.com.tr/turkiye/ankara-ve-kayseride-yilin-ilk-kari-yagdi-1749884",
-   "zaman": "2026-11-08T07:17:22+03:00",
-   "kelimeler": [
-    "ankar",
-    "ilk",
-    "kari",
-    "kayse",
-    "yagdi",
-    "yilin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "09ab762e124b"
-  },
-  "9f1ed66b9791": {
-   "id": "9f1ed66b9791",
-   "kaynak": "TRT Haber",
-   "baslik": "18 il için 'sarı' kodlu uyarı",
-   "ozet": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
-   "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
-   "zaman": "2026-11-08T07:27:00+03:00",
-   "kelimeler": [
-    "18",
-    "il",
-    "kodlu",
-    "sari",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "acda3259babb"
-  },
   "78cf99767fcc": {
    "id": "78cf99767fcc",
    "kaynak": "Hürriyet",
@@ -30523,9 +30486,90 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a799801161cf": {
+   "id": "a799801161cf",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünya liderleri iklim diplomasisi için Antalya'da buluşuyor",
+   "ozet": "Dünyanın iklim geleceğinin şekillendirileceği BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansının COP31 üçüncü gününde, Liderler Zirvesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde bugün Antalya'da başlıyor.",
+   "link": "https://www.trthaber.com/haber/gundem/dunya-liderleri-iklim-diplomasisi-icin-antalyada-bulusuyor-962880.html",
+   "zaman": "2026-11-11T06:54:00+03:00",
+   "kelimeler": [
+    "antal",
+    "bulus",
+    "diplo",
+    "dunya",
+    "iklim",
+    "lider"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ff0800dc6f20": {
+   "id": "ff0800dc6f20",
+   "kaynak": "TRT Haber",
+   "baslik": "Reuters anketi: Amerikalıların yüzde 71'i İran ile savaşa son verilmesini istiyor",
+   "ozet": "Amerikalıların büyük kısmı, Demokratların çoğunluğu elde ettiği yeni ABD Kongresi'nden İran ile savaşı sona erdirecek ve ABD Başkanı Donald Trump'ın uyguladığı gümrük vergilerini kaldıracak adımlar bekliyor.",
+   "link": "https://www.trthaber.com/haber/dunya/reuters-anketi-amerikalilarin-yuzde-71i-iran-ile-savasa-son-verilmesini-istiyor-962879.html",
+   "zaman": "2026-11-11T07:07:00+03:00",
+   "kelimeler": [
+    "71",
+    "ameri",
+    "anket",
+    "iran",
+    "istiy",
+    "reute",
+    "savas",
+    "veril",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aeb7a966dbf3": {
+   "id": "aeb7a966dbf3",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump'ın Biden'a yazdığı ve dört yıl gizli kalan sürpriz mektup ortaya çıktı",
+   "ozet": "Donald Trump'ın 20 Ocak 2021'deki devir teslim gününde halefi Joe Biden'a bıraktığı mektubun tüm içeriği, Biden'ın 17 Kasım'da çıkacak \"Promise Me, America\" adlı yeni kitabıyla gün yüzüne çıktı.",
+   "link": "https://www.trthaber.com/haber/dunya/trumpin-bidena-yazdigi-ve-dort-yil-gizli-kalan-surpriz-mektup-ortaya-cikti-962881.html",
+   "zaman": "2026-11-11T07:10:00+03:00",
+   "kelimeler": [
+    "biden",
+    "cikti",
+    "dort",
+    "gizli",
+    "in",
+    "kalan",
+    "mektu",
+    "ortay",
+    "surpr",
+    "trump",
+    "yazdi",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "39aefbabbe03": {
+   "id": "39aefbabbe03",
+   "kaynak": "TRT Haber",
+   "baslik": "Yılın son enflasyon raporu yarın açıklanacak",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası TCMB Başkanı Fatih Karahan yılın son Enflasyon Raporu'nu yarın İstanbul'da açıklayacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/yilin-son-enflasyon-raporu-yarin-aciklanacak-962882.html",
+   "zaman": "2026-11-11T07:13:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "enfla",
+    "rapor",
+    "yarin",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 07:31:29  4 yeni haber",
   "11.11 07:16:14  13 yeni haber",
   "11.11 07:02:51  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · ABD ordusunun üst düzey askerlerinden biri, Rusya adına casusluk yaptı",
   "11.11 07:01:23  5 yeni haber",
@@ -30724,8 +30768,7 @@
   "09.11 05:01:38  1 yeni haber",
   "09.11 04:31:24  1 yeni haber",
   "09.11 03:46:08  2 yeni haber",
-  "09.11 03:46:08  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 03:31:33  1 yeni haber"
+  "09.11 03:46:08  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
