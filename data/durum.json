@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "cbdcdd4b2a41": {
-   "id": "cbdcdd4b2a41",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddiası",
-   "ozet": "ABD yönetiminin, İran'la savaşı sona erdirmek amacıyla Çin'den Tahran üzerindeki nüfuzunu kullanmasını istediği öne sürüldü.",
-   "link": "https://www.trthaber.com/haber/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddiasi-962616.html",
-   "zaman": "2026-11-08T21:21:00+03:00",
-   "kelimeler": [
-    "abd",
-    "bitir",
-    "cin",
-    "den",
-    "iddia",
-    "iran",
-    "isted",
-    "la",
-    "nin",
-    "savas",
-    "yardi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "cd5e1e886f1e"
-  },
-  "5d1e8b84ce5c": {
-   "id": "5d1e8b84ce5c",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, Azerbaycan'dan yurda döndü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'daki temaslarının ardından yurda döndü.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycandan-yurda-dondu/4116274",
-   "zaman": "2026-11-08T21:28:42+03:00",
-   "kelimeler": [
-    "azerb",
-    "cumhu",
-    "dan",
-    "dondu",
-    "erdog",
-    "yurda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e0547b6bd99f"
-  },
   "58ffb901c25f": {
    "id": "58ffb901c25f",
    "kaynak": "AA",
@@ -14080,7 +14037,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "41fe755558f1": {
    "id": "41fe755558f1",
@@ -34515,7 +34473,10 @@
     "sajid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7547b2406d0c": {
    "id": "7547b2406d0c",
@@ -34711,9 +34672,189 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "01d0ba5455ff": {
+   "id": "01d0ba5455ff",
+   "kaynak": "AA",
+   "baslik": "Portekiz'de şiddetli yağış ve fırtına yaşamı felç etti",
+   "ozet": "Portekiz'i etkisi altına alan \"Charles\" adı verilen tropikal kasırga, ülkede yaşamı felç etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/portekizde-siddetli-yagis-ve-firtina-yasami-felc-etti/4121231",
+   "zaman": "2026-11-11T20:12:05+03:00",
+   "kelimeler": [
+    "etti",
+    "felc",
+    "firti",
+    "porte",
+    "sidde",
+    "yagis",
+    "yasam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "23edee556504": {
+   "id": "23edee556504",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum: Hiçbir ülke iklim krizinin karşında tek başına duramaz",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, COP31'de konuştu. Bakan Kurum, \"Hiçbir ülke iklim krizinin karşında tek başına duramaz. Tarihte bugün hiç olmadığımız kadar birbirimize ihtiyaç duyuyoruz.\" ifadelerini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-tarihte-bugun-hic-olmadigimiz-kadar-birbirimize-ihtiyac-duyuyoruz-43374881",
+   "zaman": "2026-11-11T21:09:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "basin",
+    "duram",
+    "hicbi",
+    "iklim",
+    "karsi",
+    "krizi",
+    "kurum",
+    "tek",
+    "ulke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "b588b7eb1f99": {
+   "id": "b588b7eb1f99",
+   "kaynak": "AA",
+   "baslik": "A Milli Kadın Basketbol Takımı, Karadağ’ı 79-62 mağlup etti",
+   "ozet": "A Milli Kadın Basketbol Takımı, 2027 Avrupa Şampiyonası elemeleri 2. tur I Grubu ilk maçında konuk ettiği Karadağ'ı 79-62 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-karadag-i-79-62-maglup-etti/4121328",
+   "zaman": "2026-11-11T21:11:24+03:00",
+   "kelimeler": [
+    "62",
+    "79",
+    "baske",
+    "etti",
+    "kadin",
+    "karad",
+    "maglu",
+    "milli",
+    "takim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "dffb120dfe5d"
+  },
+  "c638d263ea1a": {
+   "id": "c638d263ea1a",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan, Maldivler Cumhurbaşkanının eşi Sajidha Mohamed ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Maldivler Cumhurbaşkanı Muhammed Muizzu'nun eşi Sajidha Mohamed ile bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-maldivler-cumhurbaskaninin-esi-sajidha-mohamed-ile-gorustu-962966.html",
+   "zaman": "2026-11-11T21:14:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "emine",
+    "erdog",
+    "esi",
+    "gorus",
+    "maldi",
+    "moham",
+    "sajid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fc0bf5761eac"
+  },
+  "898edebc7846": {
+   "id": "898edebc7846",
+   "kaynak": "AA",
+   "baslik": "Rusya'dan İsrail'e \"Gazze'ye insani yardımın ulaştırılması için acilen önlem alma\" çağrısı\"",
+   "ozet": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, İsrail’e Gazze'deki durumun daha da kötüleşmesini önlemek ve insani yardım üzerindeki engelleri kaldırmak için acilen önlemler alma çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyadan-israile-gazzeye-insani-yardimin-ulastirilmasi-icin-acilen-onlem-alma-cagrisi/4121331",
+   "zaman": "2026-11-11T21:15:08+03:00",
+   "kelimeler": [
+    "acile",
+    "alma",
+    "cagri",
+    "dan",
+    "gazze",
+    "insan",
+    "israi",
+    "onlem",
+    "rusya",
+    "ulast",
+    "yardi",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "02dacccc8e9d": {
+   "id": "02dacccc8e9d",
+   "kaynak": "NTV",
+   "baslik": "Bakan Kurum: İklim krizine karşı güvende değiliz",
+   "ozet": "Bakan Kurum, COP31'de yaptığı konuşmada hiçbir ülkenin ne kadar güçlü olursa olsun iklim krizinin karşısında duramayacağı mesajını verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-iklim-krizine-karsi-guvende-degiliz-1750472",
+   "zaman": "2026-11-11T21:18:21+03:00",
+   "kelimeler": [
+    "bakan",
+    "degil",
+    "guven",
+    "iklim",
+    "karsi",
+    "krizi",
+    "kurum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "23edee556504"
+  },
+  "dedc1e4986c3": {
+   "id": "dedc1e4986c3",
+   "kaynak": "NTV",
+   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 11 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1750473",
+   "zaman": "2026-11-11T21:20:38+03:00",
+   "kelimeler": [
+    "11",
+    "bilet",
+    "ekran",
+    "hizli",
+    "kasim",
+    "mpi",
+    "sans",
+    "sonuc",
+    "sorgu",
+    "tikla",
+    "topu"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "dbd169cf1896": {
+   "id": "dbd169cf1896",
+   "kaynak": "AA",
+   "baslik": "Netanyahu'nun ofisi, ABD'nin İsrail'e 4 milyar dolarlık yardımını kademeli olarak azaltacağını öne sürdü",
+   "ozet": "İsrail'in geçici Başbakanı Binyamin Netanyahu'nun ofisi, ABD Başkanı Donald Trump'ın İsrail'e 4 milyar dolarlık yardımın durdurulacağı yönündeki açıklamasının aksine, yardımların kademeli olarak azaltılacağını savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/netanyahunun-ofisi-abdnin-israile-4-milyar-dolarlik-yardimini-kademeli-olarak-azaltacagini-one-surdu/4121336",
+   "zaman": "2026-11-11T21:21:55+03:00",
+   "kelimeler": [
+    "abd",
+    "azalt",
+    "dolar",
+    "israi",
+    "kadem",
+    "milya",
+    "netan",
+    "nin",
+    "nun",
+    "ofisi",
+    "one",
+    "surdu",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 21:31:23  5 yeni haber",
   "11.11 21:16:25  2 yeni haber",
   "11.11 21:01:30  2 yeni haber",
   "11.11 20:46:16  5 yeni haber",
@@ -34912,8 +35053,7 @@
   "09.11 16:16:13  4 yeni haber",
   "09.11 16:01:44  3 yeni haber",
   "09.11 15:48:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Bir anne tüm dünyayı değiştirebilir: \"Oğlum kazanmadan gelme\"",
-  "09.11 15:46:06  7 yeni haber",
-  "09.11 15:31:22  2 yeni haber"
+  "09.11 15:46:06  7 yeni haber"
  ],
  "otomatik": false
 }
