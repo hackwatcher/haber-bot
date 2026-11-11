@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "9996a778da82": {
-   "id": "9996a778da82",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor",
-   "ozet": "Türkiye'nin ilk kez ev sahipliği yapacağı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31, Antalya COP31 Alanı'nda bugün başlıyor.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipligindeki-cop31-bugun-basliyor-962621.html",
-   "zaman": "2026-11-09T00:04:00+03:00",
-   "kelimeler": [
-    "basli",
-    "bugun",
-    "cop31",
-    "ev",
-    "nin",
-    "sahip",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "28d99edd8ee8"
-  },
   "30e49188d54e": {
    "id": "30e49188d54e",
    "kaynak": "BBC Türkçe",
@@ -67,26 +47,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "3bdd7d0ff122": {
-   "id": "3bdd7d0ff122",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, COP31'de yeşil yatırımların hızlandırılmasına odaklanacak",
-   "ozet": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, 31. Birleşmiş Milletler İklim Değişikliği Konferansı kapsamında yeşil yatırımlar, sürdürülebilir finansman ve uluslararası yatırım işbirliklerine odaklanan kapsamlı bir program gerçekleştireceğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-yatirim-ve-finans-ofisi-cop31de-yesil-yatirimlarin-hizlandirilmasina-odaklanacak/4116351",
-   "zaman": "2026-11-09T00:09:11+03:00",
-   "kelimeler": [
-    "cop31",
-    "cumhu",
-    "finan",
-    "hizla",
-    "odakl",
-    "ofisi",
-    "yatir",
-    "yesil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "13cdf58e0466": {
    "id": "13cdf58e0466",
    "kaynak": "AA",
@@ -110,27 +70,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "5607c4ae2dc4": {
-   "id": "5607c4ae2dc4",
-   "kaynak": "AA",
-   "baslik": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
-   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarına devam ettiklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352",
-   "zaman": "2026-11-09T00:14:42+03:00",
-   "kelimeler": [
-    "247",
-    "akill",
-    "ankar",
-    "kilom",
-    "korid",
-    "kurul",
-    "ulasi",
-    "ya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f53f0d0eb8ef"
   },
   "e8f805aa48aa": {
    "id": "e8f805aa48aa",
@@ -19096,7 +19035,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2375c406ac50": {
    "id": "2375c406ac50",
@@ -35142,9 +35083,47 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f408b328674f"
+  },
+  "f080652128d6": {
+   "id": "f080652128d6",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere Kralı 3. Charles, Cumhurbaşkanı Erdoğan'a teşekkür etti",
+   "ozet": "İngiltere Kralı 3. Charles, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiltere-krali-3-charles-cumhurbaskani-erdogana-tesekkur-etti-962978.html",
+   "zaman": "2026-11-11T23:58:00+03:00",
+   "kelimeler": [
+    "charl",
+    "cumhu",
+    "erdog",
+    "etti",
+    "ingil",
+    "krali",
+    "tesek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72e0323fcd25": {
+   "id": "72e0323fcd25",
+   "kaynak": "TRT Haber",
+   "baslik": "A Milli Futbol Takımımızın konuğu Belçika",
+   "ozet": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup'taki beşinci maçında bugün İzmir'de Belçika ile karşı karşıya gelecek. Gürsel Aksel Stadı'nda oynanacak karşılaşma saat 20.00'de başlayacak.",
+   "link": "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimizin-konugu-belcika-962979.html",
+   "zaman": "2026-11-12T00:00:00+03:00",
+   "kelimeler": [
+    "belci",
+    "futbo",
+    "konug",
+    "milli",
+    "takim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d5d3cb1de280"
   }
  },
  "kayit": [
+  "12.11 00:16:06  1 yeni haber",
   "12.11 00:04:03  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Merkez Bankası kredi büyüme sınırlarını yükseltti",
   "12.11 00:01:42  8 yeni haber",
   "11.11 23:16:17  1 yeni haber",
@@ -35343,8 +35322,7 @@
   "09.11 18:16:04  2 yeni haber",
   "09.11 18:16:04  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "09.11 18:01:38  5 yeni haber",
-  "09.11 17:48:46  3 yeni haber",
-  "09.11 17:35:22  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Afrika'da ilkel bir yöntemle maden kazan insanlar kameraya yansıdı."
+  "09.11 17:48:46  3 yeni haber"
  ],
  "otomatik": false
 }
