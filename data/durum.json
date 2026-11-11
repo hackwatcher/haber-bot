@@ -1,64 +1,5 @@
 {
  "haberler": {
-  "dce0c546960f": {
-   "id": "dce0c546960f",
-   "kaynak": "AA",
-   "baslik": "Galatasaray'dan Leao'nun sağlık durumu hakkında açıklama",
-   "ozet": "Galatasaray'ın Portekizli futbolcusu Rafael Leao'nun sağ üst adale grubunda zorlanma ve kanama tespit edildi.",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaraydan-leaonun-saglik-durumu-hakkinda-aciklama/4115818",
-   "zaman": "2026-11-08T12:49:05+03:00",
-   "kelimeler": [
-    "acikl",
-    "dan",
-    "durum",
-    "galat",
-    "hakki",
-    "leao",
-    "nun",
-    "sagli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "af9a1a6cbe77": {
-   "id": "af9a1a6cbe77",
-   "kaynak": "AA",
-   "baslik": "Üniversitelerin yenilenebilir enerji yatırımları Türkiye'nin yeşil dönüşümüne katkı sunuyor",
-   "ozet": "YÖK Başkanı Prof. Dr. Erol Özvar, üniversitelerin yenilenebilir enerji yatırımlarının Türkiye'nin yeşil dönüşümüne ve COP31 sürecine önemli katkı sağladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/universitelerin-yenilenebilir-enerji-yatirimlari-turkiyenin-yesil-donusumune-katki-sunuyor/4115821",
-   "zaman": "2026-11-08T12:53:15+03:00",
-   "kelimeler": [
-    "donus",
-    "enerj",
-    "katki",
-    "nin",
-    "sunuy",
-    "turki",
-    "unive",
-    "yatir",
-    "yenil",
-    "yesil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8b488a4ecb6a": {
-   "id": "8b488a4ecb6a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Beslenmeniz cildinizin yaşlanmasına neden olabilir mi?",
-   "ozet": "Yediğiniz yiyecekler cildinizin yaşlanmasına neden olabilir mi? Uzmanlar, şeker, alkol ve aşırı işlenmiş gıdaların kırışıklıkları nasıl etkileyebileceğini ve daha sağlıklı görünen bir cildi destekleyebilecek basit beslenme alışkanlıklarını açıklıyor.",
-   "link": "https://www.bbc.com/turkce/articles/c6073l3xld51o",
-   "zaman": "2026-11-08T12:57:38+03:00",
-   "kelimeler": [
-    "besle",
-    "cildi",
-    "neden",
-    "olabi",
-    "yasla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "54783aff238f": {
    "id": "54783aff238f",
    "kaynak": "AA",
@@ -108,31 +49,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e0547b6bd99f"
-  },
-  "947e40b5fd37": {
-   "id": "947e40b5fd37",
-   "kaynak": "AA",
-   "baslik": "İzmir merkezli 17 ilde yasa dışı bahis operasyonunda yakalanan 35 zanlı tutuklandı",
-   "ozet": "İzmir merkezli 17 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 35 şüpheli tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-17-ilde-yasa-disi-bahis-operasyonunda-yakalanan-35-zanli-tutuklandi/4115816",
-   "zaman": "2026-11-08T12:48:38+03:00",
-   "kelimeler": [
-    "17",
-    "35",
-    "bahis",
-    "disi",
-    "ilde",
-    "izmir",
-    "merke",
-    "opera",
-    "tutuk",
-    "yakal",
-    "yasa",
-    "zanli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5e8c9ac79be2"
   },
   "31a4e609e958": {
    "id": "31a4e609e958",
@@ -15590,7 +15506,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "5ccece44c466": {
@@ -30135,7 +30052,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "NTV"
    ]
   },
   "7a8357ee0bed": {
@@ -32430,7 +32348,10 @@
     "yilma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3dd502cdad1d": {
    "id": "3dd502cdad1d",
@@ -32455,9 +32376,249 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2a0a71630aa7"
+  },
+  "6986b58354aa": {
+   "id": "6986b58354aa",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, KKTC Başbakanı Üstel ile görüştü",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, KKTC Başbakanı Ünal Üstel, Başbakan Yardımcısı Fikri Ataoğlu ve Dışişleri Bakanı Tahsin Ertuğruloğlu ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kktc-basbakani-ustel-ile-gorustu/4119969",
+   "zaman": "2026-11-11T12:26:10+03:00",
+   "kelimeler": [
+    "basba",
+    "cumhu",
+    "gorus",
+    "kktc",
+    "ustel",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e4ab40fa7628"
+  },
+  "32390e0889dc": {
+   "id": "32390e0889dc",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: Her fidan daha yaşanabilir bir dünyaya nefes olacak",
+   "ozet": "İletişim Başkanı Burhanettin Duran, 11 Kasım Milli Ağaçlandırma Günü dolayısıyla yayımladığı mesajda, toprakla buluşan her fidanın dünyaya nefes olacağını belirterek, bu yılki seferberliğin Türkiye'nin ev sahipliğinde düzenlenen COP31 sürecine de ayrı bir anlam kattığını…",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-her-fidan-daha-yasanabilir-bir-dunyaya-nefes-olacak-962928.html",
+   "zaman": "2026-11-11T12:35:00+03:00",
+   "kelimeler": [
+    "baska",
+    "dunya",
+    "duran",
+    "fidan",
+    "her",
+    "ileti",
+    "nefes",
+    "olaca",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d810e2cb9255": {
+   "id": "d810e2cb9255",
+   "kaynak": "TRT Haber",
+   "baslik": "Marmara için fırtına uyarısı",
+   "ozet": "Marmara'da rüzgarın yarın öğle saatlerden itibaren, cuma günü ise sabah saatlerinden itibaren fırtına şeklinde esmesi bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/marmara-icin-firtina-uyarisi-962929.html",
+   "zaman": "2026-11-11T12:42:00+03:00",
+   "kelimeler": [
+    "firti",
+    "marma",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "07a8fd135fcf"
+  },
+  "53aead960c6e": {
+   "id": "53aead960c6e",
+   "kaynak": "Hürriyet",
+   "baslik": "Uyuşturucu parasını aile fertleri adına taşınmaza yatırmışlar: MASAK raporuyla 17 mülke el konuldu",
+   "ozet": "Üç ülkeye uzanan kara para aklama ağı İstanbul polisinin operasyonuyla çökertildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/uyusturucu-parasini-aile-fertleri-adina-tasinmaza-yatirmislar-masak-raporuyla-17-mulke-el-konuldu-43374064",
+   "zaman": "2026-11-11T12:46:05+03:00",
+   "kelimeler": [
+    "17",
+    "adina",
+    "aile",
+    "el",
+    "fertl",
+    "konul",
+    "masak",
+    "mulke",
+    "paras",
+    "rapor",
+    "tasin",
+    "uyust",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d1c228a0edb5": {
+   "id": "d1c228a0edb5",
+   "kaynak": "AA",
+   "baslik": "\"Mike Hammer\" rolüyle tanınan aktör Stacy Keach hayatını kaybetti",
+   "ozet": "\"Mike Hammer\" rolüyle tanınan 85 yaşındaki aktör Stacy Keach'in hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/mike-hammer-roluyle-taninan-aktor-stacy-keach-hayatini-kaybetti/4120005",
+   "zaman": "2026-11-11T12:46:55+03:00",
+   "kelimeler": [
+    "aktor",
+    "hamme",
+    "hayat",
+    "kaybe",
+    "keach",
+    "mike",
+    "roluy",
+    "stacy",
+    "tanin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8442c592ad85": {
+   "id": "8442c592ad85",
+   "kaynak": "AA",
+   "baslik": "Süper Lig'den 9 kulüp PFDK'ye sevk edildi",
+   "ozet": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligden-9-kulup-pfdkye-sevk-edildi/4120008",
+   "zaman": "2026-11-11T12:48:04+03:00",
+   "kelimeler": [
+    "den",
+    "edild",
+    "kulup",
+    "lig",
+    "pfdk",
+    "sevk",
+    "super",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "49eb89624515": {
+   "id": "49eb89624515",
+   "kaynak": "AA",
+   "baslik": "YÖK Başkanı Özvar'dan diş hekimliği ve eczacılık öğrencilerine mühendislikte çift ana dal imkanına ilişkin açıklama",
+   "ozet": "Yükseköğretim Kurulu (YÖK) Başkanı Prof. Dr. Erol Özvar, diş hekimliği ve eczacılık öğrencilerinin mühendislik programlarında çift ana dal yapabilme imkanına ilişkin, \"Önümüzdeki seneye bu teşviki yetiştirmeye çalışacağız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/yok-baskani-ozvardan-dis-hekimligi-ve-eczacilik-ogrencilerine-muhendislikte-cift-ana-dal-imkanina-iliskin-aciklama/4120010",
+   "zaman": "2026-11-11T12:49:28+03:00",
+   "kelimeler": [
+    "acikl",
+    "ana",
+    "baska",
+    "cift",
+    "dal",
+    "dan",
+    "dis",
+    "eczac",
+    "hekim",
+    "ilisk",
+    "imkan",
+    "muhen",
+    "ogren",
+    "ozvar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "895e0b452890": {
+   "id": "895e0b452890",
+   "kaynak": "AA",
+   "baslik": "Küllerinden doğan mahalle \"Sıfır Atık Köyü\" ilan edildi",
+   "ozet": "Antalya'nın Manavgat ilçesinde 5 yıl önce orman yangınında 80 konutun büyük hasar görmesinin ardından TOKİ tarafından yenilenen Demirciler Mahallesi, \"Sıfır Atık Köyü\"ne dönüştürülüyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/kullerinden-dogan-mahalle-sifir-atik-koyu-ilan-edildi/4120020",
+   "zaman": "2026-11-11T12:54:08+03:00",
+   "kelimeler": [
+    "atik",
+    "dogan",
+    "edild",
+    "ilan",
+    "koyu",
+    "kulle",
+    "mahal",
+    "sifir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a178f1938aa7": {
+   "id": "a178f1938aa7",
+   "kaynak": "NTV",
+   "baslik": "2027 Diyanet umre turu kayıtları başladı. Ramazan ve şevval ayı umre turu kayıtları nasıl yapılır?",
+   "ozet": "Diyanet İşleri Başkanlığı Hac ve Umre Hizmetleri Genel Müdürlüğü, 2026-2027 umre organizasyonu kapsamında kutsal topraklara gitmek isteyen binlerce vatandaşın beklediği müjdeli haberi duyurdu. Peki, Ramazan ve şevval ayı umre turu kayıtları nasıl yapılır, ücret ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-2027-diyanet-umre-turu-kayitlari-basladi-ramazan-ve-sevval-ayi-umre-turu-kayitlari-nasil-yapilir-1750417",
+   "zaman": "2026-11-11T12:56:14+03:00",
+   "kelimeler": [
+    "2027",
+    "ayi",
+    "basla",
+    "diyan",
+    "kayit",
+    "nasil",
+    "ramaz",
+    "sevva",
+    "turu",
+    "umre",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "05f8e1ec1bf8"
+  },
+  "eb24c86e228c": {
+   "id": "eb24c86e228c",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı İletişim Başkanı Duran'dan \"Milli Ağaçlandırma Günü\" paylaşımı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"İklim değişikliğiyle mücadelenin yalnızca uluslararası toplantılarda alınan kararlarla değil, doğayı koruyan ve yaşatan somut adımlarla mümkün olduğunun bilincindeyiz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-durandan-milli-agaclandirma-gunu-paylasimi/4120028",
+   "zaman": "2026-11-11T12:56:56+03:00",
+   "kelimeler": [
+    "agacl",
+    "baska",
+    "cumhu",
+    "dan",
+    "duran",
+    "gunu",
+    "ileti",
+    "milli",
+    "payla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8b41b1fe0669": {
+   "id": "8b41b1fe0669",
+   "kaynak": "AA",
+   "baslik": "Ukrayna-Rusya Savaşı'nı sona erdirmek için BAE'deki üçlü müzakerelerin ikinci günü başladı",
+   "ozet": "Ukrayna-Rusya Savaşı'nı sona erdirmek için Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Rusya, ABD ve Ukrayna arasındaki üçlü müzakerelerin ikinci günü başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-savasini-sona-erdirmek-icin-baedeki-uclu-muzakerelerin-ikinci-gunu-basladi/4120031",
+   "zaman": "2026-11-11T12:57:16+03:00",
+   "kelimeler": [
+    "bae",
+    "basla",
+    "deki",
+    "erdir",
+    "gunu",
+    "ikinc",
+    "muzak",
+    "ni",
+    "rusya",
+    "savas",
+    "sona",
+    "uclu",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 13:01:24  8 yeni haber",
   "11.11 12:47:59  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bakan Şimşek: Türkiye'nin mali duruşu oldukça güçlü",
   "11.11 12:46:00  3 yeni haber",
   "11.11 12:31:27  7 yeni haber",
@@ -32656,8 +32817,7 @@
   "09.11 11:01:28  6 yeni haber",
   "09.11 10:46:04  3 yeni haber",
   "09.11 10:31:14  8 yeni haber",
-  "09.11 10:19:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. BDDK Başkan Yardımcısı Erişen ve Adil Katılım Bankas",
-  "09.11 10:16:09  7 yeni haber"
+  "09.11 10:19:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. BDDK Başkan Yardımcısı Erişen ve Adil Katılım Bankas"
  ],
  "otomatik": false
 }
