@@ -29720,7 +29720,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "105b0e39c3a5": {
    "id": "105b0e39c3a5",
@@ -30195,9 +30198,77 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "abf9c2f8dd52"
+  },
+  "b172af091b60": {
+   "id": "b172af091b60",
+   "kaynak": "TRT Haber",
+   "baslik": "Nvidia'dan casusluk iddiası soruşturması: ABD'li büyük hukuk firması görevlendirildi",
+   "ozet": "Nvidia, kurucu ortağı ve Üst Yöneticisi CEO Jensen Huang ile Çin ajanı olduğu iddia edilen bir kadın arasındaki ilişkiyi soruşturmak üzere ABD'nin önde gelen hukuk firmalarından biriyle anlaştı.",
+   "link": "https://www.trthaber.com/haber/dunya/nvidiadan-casusluk-iddiasi-sorusturmasi-abdli-buyuk-hukuk-firmasi-gorevlendirildi-962871.html",
+   "zaman": "2026-11-11T06:22:00+03:00",
+   "kelimeler": [
+    "abd",
+    "buyuk",
+    "casus",
+    "dan",
+    "firma",
+    "gorev",
+    "hukuk",
+    "iddia",
+    "li",
+    "nvidi",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dbe269fd6420": {
+   "id": "dbe269fd6420",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere'de Rusya adına casuslukla suçlanan ABD askeri gözaltına alındı",
+   "ozet": "ABD ordusunda görevli 41 yaşındaki bir asker, Rusya adına casusluk yaptığı şüphesiyle İngiltere'de terörle mücadele polisi tarafından gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/dunya/ingilterede-rusya-adina-casuslukla-suclanan-abd-askeri-gozaltina-alindi-962872.html",
+   "zaman": "2026-11-11T06:27:00+03:00",
+   "kelimeler": [
+    "abd",
+    "adina",
+    "alind",
+    "asker",
+    "casus",
+    "gozal",
+    "ingil",
+    "rusya",
+    "sucla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d967ae6a117"
+  },
+  "ab8b88435c18": {
+   "id": "ab8b88435c18",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa Cumhurbaşkanı Macron ve eşinden aşırı sağcı podcast yayıncısına tazminat davası",
+   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron ve eşi Brigitte Macron, hakkındaki cinsiyet ve kimlik hırsızlığı iddialarını sürdüren aşırı sağcı Amerikalı yayıncı Candace Owens'a karşı ABD'nin Tennessee eyaletinde yeni bir hakaret davası açtı.",
+   "link": "https://www.trthaber.com/haber/dunya/fransa-cumhurbaskani-macron-ve-esinden-asiri-sagci-podcast-yayincisina-tazminat-davasi-962873.html",
+   "zaman": "2026-11-11T06:28:00+03:00",
+   "kelimeler": [
+    "asiri",
+    "cumhu",
+    "davas",
+    "esind",
+    "frans",
+    "macro",
+    "podca",
+    "sagci",
+    "tazmi",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 06:46:09  2 yeni haber",
   "11.11 06:30:26  1 yeni haber",
   "11.11 05:46:06  1 yeni haber",
   "11.11 05:16:23  2 yeni haber",
@@ -30396,8 +30467,7 @@
   "09.11 03:31:33  1 yeni haber",
   "09.11 03:16:02  1 yeni haber",
   "09.11 02:46:01  1 yeni haber",
-  "09.11 02:31:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 01:32:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Bargello, Büyük Kasım indirimlerine özel 3 al, 2 öde kampanyası başlat"
+  "09.11 02:31:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
