@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "30e49188d54e": {
-   "id": "30e49188d54e",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Nvidia şirketi, CEO'sunun casus olduğundan şüphelenilen Çinli biriyle ilişkisini soruşturuyor",
-   "ozet": "ABD'li teknoloji devi Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlattı. Huang'la ilgili geçtiğimiz günlerde, casus olduğundan şüphelenilen Çinli biriyle ilişkisi olduğuna dair haberler çıkmıştı.",
-   "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o",
-   "zaman": "2026-11-09T00:53:45+03:00",
-   "kelimeler": [
-    "biriy",
-    "casus",
-    "ceo",
-    "cinli",
-    "ilisk",
-    "nvidi",
-    "oldug",
-    "sirke",
-    "sorus",
-    "sunun",
-    "suphe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "13cdf58e0466": {
    "id": "13cdf58e0466",
    "kaynak": "AA",
@@ -30469,11 +30446,20 @@
     "uzeri",
     "yoluy"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-11-12T01:03:55.621305+03:00",
+   "ig_id": "17868367338680144",
+   "reels_id": null,
+   "story_id": "17916085728554211",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122116154655472027",
+   "fb_reels_id": null,
+   "slayt": 4,
+   "kanca": "300 OKUL TAHLİYE EDİLDİ"
   },
   "97614e35b0ed": {
    "id": "97614e35b0ed",
@@ -35197,9 +35183,33 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a05d98067701": {
+   "id": "a05d98067701",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Herkes İçin Erken Uyarı Sistemleri\" Oturumu'nda konuştu",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye'nin meteoroloji, afet yönetimi ve erken uyarı alanlarındaki tecrübesini eğitim, teknik işbirliği ve veri paylaşımı yoluyla kırılgan ülkelerle paylaşmaya hazır olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-oturumunda-konustu/4121147",
+   "zaman": "2026-11-11T19:27:54+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erken",
+    "herke",
+    "konus",
+    "nda",
+    "oturu",
+    "siste",
+    "uyari",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 01:03:55  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · İtalya’da e-posta yoluyla gelen bomba ihbarları üzerine en az 300 okul",
+  "12.11 01:02:31  1 yeni haber",
   "12.11 00:46:14  2 yeni haber",
   "12.11 00:31:21  1 yeni haber",
   "12.11 00:16:06  1 yeni haber",
@@ -35397,9 +35407,7 @@
   "09.11 19:31:24  3 yeni haber",
   "09.11 19:16:00  2 yeni haber",
   "09.11 19:01:30  1 yeni haber",
-  "09.11 18:46:02  9 yeni haber",
-  "09.11 18:16:04  2 yeni haber",
-  "09.11 18:16:04  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "09.11 18:46:02  9 yeni haber"
  ],
  "otomatik": false
 }
