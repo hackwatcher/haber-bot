@@ -30130,9 +30130,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4e152a3ad7ca": {
+   "id": "4e152a3ad7ca",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara'da EGO otobüsü devrildi",
+   "ozet": "Ankara'nın Gölbaşı ilçesinde EGO otobüsünün devrildiği kazada otobüs şoförü yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-ego-otobusu-devrildi-962866.html",
+   "zaman": "2026-11-11T03:16:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "devri",
+    "ego",
+    "otobu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "68e53c56bd6f": {
+   "id": "68e53c56bd6f",
+   "kaynak": "NTV",
+   "baslik": "Ankara'da EGO otobüsü devrildi, şoför yaralandı",
+   "ozet": "Ankara'nın Gölbaşı ilçesinde EGO otobüsünün devrildiği kazada otobüs şoförü yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-ego-otobusu-devrildi-sofor-yaralandi-1750336",
+   "zaman": "2026-11-11T03:22:37+03:00",
+   "kelimeler": [
+    "ankar",
+    "devri",
+    "ego",
+    "otobu",
+    "sofor",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "4e152a3ad7ca"
+  },
+  "8a696955453c": {
+   "id": "8a696955453c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Epstein mağduru: 'Hâlâ modellik ajansı yöneten arkadaşı beni tehlikenin içine attı'",
+   "ozet": "Jeffrey Epstein'in tecavüzüne uğrayan bir kadın, bağlı bulunduğu modellik ajansının sahibinin, Epstein'in Florida sahilindeki evinde yapılan iki fotoğraf çekimine göndererek kendisini tehlikeye attığını söylüyor.",
+   "link": "https://www.bbc.com/turkce/articles/cqn494rx2le4o",
+   "zaman": "2026-11-11T03:23:45+03:00",
+   "kelimeler": [
+    "ajans",
+    "arkad",
+    "atti",
+    "beni",
+    "epste",
+    "hala",
+    "icine",
+    "magdu",
+    "model",
+    "tehli",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 03:31:27  2 yeni haber",
   "11.11 03:16:21  1 yeni haber",
   "11.11 02:31:24  1 yeni haber",
   "11.11 02:16:12  1 yeni haber",
@@ -30331,8 +30393,7 @@
   "09.11 01:01:25  1 yeni haber",
   "09.11 00:46:05  1 yeni haber",
   "09.11 00:33:40  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Formula 1 Brezilya Grand Prix'sini Lando Norris kazandı",
-  "09.11 00:16:02  1 yeni haber",
-  "09.11 00:03:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Tarihçi Prof. Dr. Engin Deniz Akarlı vefat etti"
+  "09.11 00:16:02  1 yeni haber"
  ],
  "otomatik": false
 }
