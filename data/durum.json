@@ -34044,7 +34044,10 @@
     "rusya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "e7315b5ef061": {
    "id": "e7315b5ef061",
@@ -35323,9 +35326,54 @@
    "fb_reels_id": "1151473251163752",
    "slayt": 5,
    "kanca": "YENİ PARTİ'YE KATILDI"
+  },
+  "76d050f0a475": {
+   "id": "76d050f0a475",
+   "kaynak": "AA",
+   "baslik": "Rusya'nın Washington Büyükelçisi Darçiyev hayatını kaybetti",
+   "ozet": "Rusya'nın Washington Büyükelçisi Aleksandr Darçiyev'in 66 yaşında hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-washington-buyukelcisi-darciyev-hayatini-kaybetti/4121519",
+   "zaman": "2026-11-12T01:23:41+03:00",
+   "kelimeler": [
+    "buyuk",
+    "darci",
+    "hayat",
+    "kaybe",
+    "nin",
+    "rusya",
+    "washi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7ef21b541ea7"
+  },
+  "f92f8a8c22a7": {
+   "id": "f92f8a8c22a7",
+   "kaynak": "AA",
+   "baslik": "New York'ta çöken binanın enkazı altında kalan en az bir kişi hayatını kaybetti",
+   "ozet": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişinin öldüğü, bazı apartman sakinlerinin yaralandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/new-yorkta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-kaybetti/4121532",
+   "zaman": "2026-11-12T01:37:15+03:00",
+   "kelimeler": [
+    "altin",
+    "az",
+    "binan",
+    "coken",
+    "enkaz",
+    "hayat",
+    "kalan",
+    "kaybe",
+    "kisi",
+    "new",
+    "ta",
+    "york"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 01:46:07  1 yeni haber",
   "12.11 01:35:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · CHP'den istifa eden Saniye Barut'un yeni partisi belli oldu",
   "12.11 01:32:22  3 yeni haber",
   "12.11 01:16:14  3 yeni haber",
@@ -35524,8 +35572,7 @@
   "09.11 20:16:21  5 yeni haber",
   "09.11 20:01:33  3 yeni haber",
   "09.11 19:50:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · MHP lideri Bahçeli'den 10 Kasım mesajı",
-  "09.11 19:46:34  6 yeni haber",
-  "09.11 19:31:24  3 yeni haber"
+  "09.11 19:46:34  6 yeni haber"
  ],
  "otomatik": false
 }
