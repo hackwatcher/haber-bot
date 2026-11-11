@@ -24710,7 +24710,8 @@
     "ustun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e1a3a0cc1f01": {
    "id": "e1a3a0cc1f01",
@@ -30168,6 +30169,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d0e338831856": {
+   "id": "d0e338831856",
+   "kaynak": "AA",
+   "baslik": "\"Elisa\" filmi, 14. Boğaziçi Film Festivali'nde sinemaseverlerle buluştu",
+   "ozet": "Boğaziçi Kültür Sanat Vakfı tarafından Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle düzenlenen ve Anadolu Ajansının (AA) Global İletişim Ortağı olduğu 14. Boğaziçi Film Festivali'nde \"Elisa\" filmi, izleyiciyle buluştu.",
+   "link": "https://www.aa.com.tr/tr/kultur/elisa-filmi-14-bogazici-film-festivalinde-sinemaseverlerle-bulustu/4119607",
+   "zaman": "2026-11-11T04:19:04+03:00",
+   "kelimeler": [
+    "14",
+    "bogaz",
+    "bulus",
+    "elisa",
+    "festi",
+    "film",
+    "filmi",
+    "nde",
+    "sinem"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cb61a10b1278"
   }
  },
  "kayit": [
