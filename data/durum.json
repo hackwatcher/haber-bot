@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "cfe6155d691a": {
-   "id": "cfe6155d691a",
-   "kaynak": "AA",
-   "baslik": "Batı Şeria'da gözaltına alınan İtalyanlar, İsrail güvenlik güçlerinden kötü muamele gördüklerini açıkladı",
-   "ozet": "Filistin toprağı Batı Şeria'da zeytin hasadına katıldıkları sırada İsrail güvenlik güçlerince yasa dışı şekilde gözaltına alınıp, bu sabah sınır dışı edilen İtalyan aktivistler kötü muamele gördüklerini belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-gozaltina-alinan-italyanlar-israil-guvenlik-guclerinden-kotu-muamele-gorduklerini-acikladi/4116292",
-   "zaman": "2026-11-08T22:08:59+03:00",
-   "kelimeler": [
-    "alina",
-    "bati",
-    "gordu",
-    "gozal",
-    "gucle",
-    "guven",
-    "israi",
-    "italy",
-    "kotu",
-    "muame",
-    "seria"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "03475126aed9": {
    "id": "03475126aed9",
    "kaynak": "TRT Haber",
@@ -23557,7 +23534,8 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b31c7ec01b38": {
    "id": "b31c7ec01b38",
@@ -34906,9 +34884,112 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b76b1cf46b23"
+  },
+  "5aa7882dd67f": {
+   "id": "5aa7882dd67f",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan COP31'e ilişkin videolu paylaşım",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) ilişkin videolu paylaşım yaptı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-cop31e-iliskin-videolu-paylasim/4121370",
+   "zaman": "2026-11-11T21:55:08+03:00",
+   "kelimeler": [
+    "cop31",
+    "cumhu",
+    "dan",
+    "erdog",
+    "ilisk",
+    "payla",
+    "video"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f625a268de60"
+  },
+  "eccf93d4f7f1": {
+   "id": "eccf93d4f7f1",
+   "kaynak": "Hürriyet",
+   "baslik": "İran Meclis Başkanı Galibaf: Ne savaş ne de barış durumunu devam ettirmeyeceğiz",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD-İran arasında mevcut gerilimin sonlandırılmasına yönelik müzakere sürecine ilişkin, \"Top Amerika’nın sahasında, karar vermesi ve açıklama yapması gereken taraf onlar. ‘Ne savaş ne de barış’ durumunu devam ettirmeyeceğiz\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/iran-meclis-baskani-galibaf-ne-savas-ne-de-baris-durumunu-devam-ettirmeyecegiz-43374907",
+   "zaman": "2026-11-11T21:57:00+03:00",
+   "kelimeler": [
+    "baris",
+    "baska",
+    "devam",
+    "durum",
+    "ettir",
+    "galib",
+    "iran",
+    "mecli",
+    "savas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "002f3c6d9b24": {
+   "id": "002f3c6d9b24",
+   "kaynak": "AA",
+   "baslik": "Brezilya Yüksek Seçim Mahkemesinden Meta'ya 1,34 milyon dolar ceza",
+   "ozet": "Brezilya Yüksek Seçim Mahkemesi, ABD'li teknoloji şirketi Meta'ya, seçim kampanyası döneminde siyasi içeriklerin dağıtımına ilişkin iddialar konusunda eksik bilgi sunduğu gerekçesiyle 7,5 milyon real (yaklaşık 1,34 milyon dolar) para cezası verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/brezilya-yuksek-secim-mahkemesinden-metaya-1-34-milyon-dolar-ceza/4121373",
+   "zaman": "2026-11-11T22:00:22+03:00",
+   "kelimeler": [
+    "34",
+    "brezi",
+    "ceza",
+    "dolar",
+    "mahke",
+    "meta",
+    "milyo",
+    "secim",
+    "ya",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b2c4fcf874a": {
+   "id": "2b2c4fcf874a",
+   "kaynak": "AA",
+   "baslik": "Lewis Hamilton'dan Gazze'ye insani yardım çağrısı",
+   "ozet": "Formula 1 ekibi Ferrari'nin Büyük Britanyalı pilotu Lewis Hamilton, Gazze'ye insani yardım ulaştırılmasına yönelik çağrıda bulundu.",
+   "link": "https://www.aa.com.tr/tr/spor/lewis-hamiltondan-gazzeye-insani-yardim-cagrisi/4121375",
+   "zaman": "2026-11-11T22:09:14+03:00",
+   "kelimeler": [
+    "cagri",
+    "dan",
+    "gazze",
+    "hamil",
+    "insan",
+    "lewis",
+    "yardi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b7135b270361"
+  },
+  "dd87af5b2b97": {
+   "id": "dd87af5b2b97",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanlığı'ndan İsrail'e sert tepki",
+   "ozet": "Dışişleri Bakanlığı, İsrail Dışişleri Bakanlığı tarafından yapılan ve Cumhurbaşkanı Erdoğan'ı hedef alan açıklamalarına tepki gösterdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-israile-sert-tepki-43374925",
+   "zaman": "2026-11-11T22:13:40+03:00",
+   "kelimeler": [
+    "bakan",
+    "disis",
+    "israi",
+    "ndan",
+    "sert",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 22:16:23  3 yeni haber",
   "11.11 22:01:25  1 yeni haber",
   "11.11 21:46:12  2 yeni haber",
   "11.11 21:31:23  5 yeni haber",
@@ -35107,8 +35188,7 @@
   "09.11 17:01:40  8 yeni haber",
   "09.11 16:46:07  9 yeni haber",
   "09.11 16:31:23  6 yeni haber",
-  "09.11 16:16:13  4 yeni haber",
-  "09.11 16:01:44  3 yeni haber"
+  "09.11 16:16:13  4 yeni haber"
  ],
  "otomatik": false
 }
