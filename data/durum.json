@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "03475126aed9": {
-   "id": "03475126aed9",
-   "kaynak": "TRT Haber",
-   "baslik": "Aydın'da cip devrildi: 1 ölü, 5 yaralı",
-   "ozet": "Aydın'ın Nazilli ilçesinde devrilen cipteki 1 kişi hayatını kaybetti, 5 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/aydinda-cip-devrildi-1-olu-5-yarali-962617.html",
-   "zaman": "2026-11-08T22:28:00+03:00",
-   "kelimeler": [
-    "aydin",
-    "cip",
-    "devri",
-    "olu",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5a972947ae69": {
    "id": "5a972947ae69",
    "kaynak": "AA",
@@ -34985,10 +34968,98 @@
     "tepki"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "9143df4c9bee": {
+   "id": "9143df4c9bee",
+   "kaynak": "AA",
+   "baslik": "Yüksek Düzeyli Bölüm'de iklim kriziyle mücadelede hız ve finansman vurgusu",
+   "ozet": "COP31 Liderler Zirvesi'nin Yüksek Düzeyli Bölümü'nde, iklim kriziyle mücadelede hızın önemi, temiz enerji dönüşümü, iklim finansmanının artırılması ve küresel işbirliğinin güçlendirilmesi konuları ele alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yuksek-duzeyli-bolumde-iklim-kriziyle-mucadelede-hiz-ve-finansman-vurgusu/4120820",
+   "zaman": "2026-11-11T17:12:28+03:00",
+   "kelimeler": [
+    "bolum",
+    "duzey",
+    "finan",
+    "hiz",
+    "iklim",
+    "krizi",
+    "mucad",
+    "vurgu",
+    "yukse"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "28bb3e4b2131": {
+   "id": "28bb3e4b2131",
+   "kaynak": "AA",
+   "baslik": "İçişleri Bakanı Çiftçi, COP31 Kriz Merkezi'ni ziyaret etti",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında Antalya'da oluşturulan COP31 Kriz Merkezi'ni ziyaret etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-cop31-kriz-merkezini-ziyaret-etti/4121072",
+   "zaman": "2026-11-11T18:48:35+03:00",
+   "kelimeler": [
+    "bakan",
+    "ciftc",
+    "cop31",
+    "etti",
+    "icisl",
+    "kriz",
+    "merke",
+    "ni",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "047eb4179ff5": {
+   "id": "047eb4179ff5",
+   "kaynak": "AA",
+   "baslik": "Sigorta Evi kapsamında düzenlenen \"COP31 Küresel Sigorta ve Dayanıklılık Zirvesi\"nin ilk günü sona erdi",
+   "ozet": "İklim zirvesi COP31 kapsamında, Türkiye Sigorta Birliğinin (TSB) bir otelde gerçekleştirdiği Sigorta Evi etkinliğinin ilk zirvesi olan \"COP31 Küresel Sigorta ve Dayanıklılık Zirvesi\"nin ilk günü konuşma ve panellerle sona erdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-evi-kapsaminda-duzenlenen-cop31-kuresel-sigorta-ve-dayaniklilik-zirvesinin-ilk-gunu-sona-erdi/4121122",
+   "zaman": "2026-11-11T19:03:21+03:00",
+   "kelimeler": [
+    "cop31",
+    "dayan",
+    "duzen",
+    "erdi",
+    "evi",
+    "gunu",
+    "ilk",
+    "kapsa",
+    "kures",
+    "nin",
+    "sigor",
+    "sona",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2bac2c070c0e": {
+   "id": "2bac2c070c0e",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri'nden İsrail'e tepki",
+   "ozet": "Dışişleri Bakanlığı, yaptığı açıklamada, \"İsrail Dışişleri Bakanlığının Sayın Cumhurbaşkanımıza yönelik alçakça ve hadsiz iftiraları, İsrailli yöneticilerin gerçekleri gizlemeye dönük nafile çabalarının yeni bir örneğini teşkil etmiştir.\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/disislerinden-israile-tepki-962969.html",
+   "zaman": "2026-11-11T22:10:00+03:00",
+   "kelimeler": [
+    "disis",
+    "israi",
+    "nden",
+    "tepki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dd87af5b2b97"
   }
  },
  "kayit": [
+  "11.11 22:31:13  3 yeni haber",
   "11.11 22:16:23  3 yeni haber",
   "11.11 22:01:25  1 yeni haber",
   "11.11 21:46:12  2 yeni haber",
@@ -35187,8 +35258,7 @@
   "09.11 17:16:03  5 yeni haber",
   "09.11 17:01:40  8 yeni haber",
   "09.11 16:46:07  9 yeni haber",
-  "09.11 16:31:23  6 yeni haber",
-  "09.11 16:16:13  4 yeni haber"
+  "09.11 16:31:23  6 yeni haber"
  ],
  "otomatik": false
 }
