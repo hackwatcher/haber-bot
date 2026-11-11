@@ -1,41 +1,5 @@
 {
  "haberler": {
-  "e8f805aa48aa": {
-   "id": "e8f805aa48aa",
-   "kaynak": "TRT Haber",
-   "baslik": "Kütahya'da minibüsle otomobil çarpıştı: 1 ölü",
-   "ozet": "Kütahya'da minibüs, ara sokaktan çıkan otomobile ve park halindeki 2 araca çarptı. Kazada otomobil sürücüsü hayatını kaybederken, 4 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/kutahyada-minibusle-otomobil-carpisti-1-olu-962622.html",
-   "zaman": "2026-11-09T01:56:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "kutah",
-    "minib",
-    "olu",
-    "otomo"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "27983108bd70"
-  },
-  "9524b92be85c": {
-   "id": "9524b92be85c",
-   "kaynak": "Hürriyet",
-   "baslik": "Minibüsle, otomobil çarpıştı; 1 ölü, 4 yaralı",
-   "ozet": "Kütahya’da minibüs, ara sokaktan çıkan otomobile ve park halindeki 2 araca çarptı. Kazada otomobil sürücüsü Bahadır Gülmez hayatını kaybederken, 4 kişi de yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/minibusle-otomobil-carpisti-1-olu-4-yarali-43370934",
-   "zaman": "2026-11-09T01:58:20+03:00",
-   "kelimeler": [
-    "carpi",
-    "minib",
-    "olu",
-    "otomo",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "27983108bd70"
-  },
   "00f88f89e8ea": {
    "id": "00f88f89e8ea",
    "kaynak": "Hürriyet",
@@ -35370,9 +35334,73 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ee7ef3f53d51": {
+   "id": "ee7ef3f53d51",
+   "kaynak": "AA",
+   "baslik": "ACWA Türkiye'deki yenilenebilir enerji yatırımlarını artırmayı hedefliyor",
+   "ozet": "Suudi Arabistanlı küresel enerji şirketi ACWA, Türkiye'nin yenilenebilir enerji hedefleri doğrultusunda güneş enerjisi, elektrik iletim altyapısı ve batarya depolama alanlarındaki yatırımlarını artırmayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/acwa-turkiyedeki-yenilenebilir-enerji-yatirimlarini-artirmayi-hedefliyor/4121505",
+   "zaman": "2026-11-12T01:18:43+03:00",
+   "kelimeler": [
+    "acwa",
+    "artir",
+    "deki",
+    "enerj",
+    "hedef",
+    "turki",
+    "yatir",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "05491eec88ef": {
+   "id": "05491eec88ef",
+   "kaynak": "AA",
+   "baslik": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
+   "ozet": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi/4121524",
+   "zaman": "2026-11-12T01:25:49+03:00",
+   "kelimeler": [
+    "abd",
+    "azil",
+    "bakan",
+    "engel",
+    "giris",
+    "hegse",
+    "mecli",
+    "savun",
+    "temsi",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cbe517b45497": {
+   "id": "cbe517b45497",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan ve eşi Emine Erdoğan, liderler onuruna verilen yemeğe katıldı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve eşi Emine Erdoğan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında liderler onuruna verilen yemeğe katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ve-esi-emine-erdogan-liderler-onuruna-verilen-yemege-katildi-43375005",
+   "zaman": "2026-11-12T01:43:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "emine",
+    "erdog",
+    "esi",
+    "katil",
+    "lider",
+    "onuru",
+    "veril",
+    "yemeg"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 02:01:50  3 yeni haber",
   "12.11 01:46:07  1 yeni haber",
   "12.11 01:35:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · CHP'den istifa eden Saniye Barut'un yeni partisi belli oldu",
   "12.11 01:32:22  3 yeni haber",
@@ -35571,8 +35599,7 @@
   "09.11 20:31:16  2 yeni haber",
   "09.11 20:16:21  5 yeni haber",
   "09.11 20:01:33  3 yeni haber",
-  "09.11 19:50:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · MHP lideri Bahçeli'den 10 Kasım mesajı",
-  "09.11 19:46:34  6 yeni haber"
+  "09.11 19:50:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · MHP lideri Bahçeli'den 10 Kasım mesajı"
  ],
  "otomatik": false
 }
