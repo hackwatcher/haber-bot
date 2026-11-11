@@ -16979,7 +16979,8 @@
     "temsi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "661ad21acae5": {
    "id": "661ad21acae5",
@@ -30153,9 +30154,51 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "33c7e29cc869": {
+   "id": "33c7e29cc869",
+   "kaynak": "TRT Haber",
+   "baslik": "Kış havası, yerini pastırma sıcaklarına bırakıyor",
+   "ozet": "Kasım ayının ilk günlerinde etkili olan ve yer yer kar yağışıyla birlikte dondurucu günlerin yaşanmasına yol açan soğuk hava dalgası yurdu terk ediyor.",
+   "link": "https://www.trthaber.com/haber/gundem/kis-havasi-yerini-pastirma-sicaklarina-birakiyor-962870.html",
+   "zaman": "2026-11-11T06:05:00+03:00",
+   "kelimeler": [
+    "birak",
+    "havas",
+    "kis",
+    "pasti",
+    "sicak",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1bbe0cfb9860": {
+   "id": "1bbe0cfb9860",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
+   "ozet": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi-962869.html",
+   "zaman": "2026-11-11T06:14:00+03:00",
+   "kelimeler": [
+    "abd",
+    "azil",
+    "bakan",
+    "engel",
+    "giris",
+    "hegse",
+    "mecli",
+    "savun",
+    "temsi",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "abf9c2f8dd52"
   }
  },
  "kayit": [
+  "11.11 06:30:26  1 yeni haber",
   "11.11 05:46:06  1 yeni haber",
   "11.11 05:16:23  2 yeni haber",
   "11.11 04:46:11  1 yeni haber",
@@ -30354,8 +30397,7 @@
   "09.11 03:16:02  1 yeni haber",
   "09.11 02:46:01  1 yeni haber",
   "09.11 02:31:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 01:32:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Bargello, Büyük Kasım indirimlerine özel 3 al, 2 öde kampanyası başlat",
-  "09.11 01:31:25  2 yeni haber"
+  "09.11 01:32:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Bargello, Büyük Kasım indirimlerine özel 3 al, 2 öde kampanyası başlat"
  ],
  "otomatik": false
 }
