@@ -1,77 +1,5 @@
 {
  "haberler": {
-  "f7ea222e18a8": {
-   "id": "f7ea222e18a8",
-   "kaynak": "AA",
-   "baslik": "Amsterdam’da dördüncü “Kırmızı Çizgi” gösterisine 200 binden fazla kişi katıldı",
-   "ozet": "Hollanda’nın başkenti Amsterdam’da Gazze’ye destek amacıyla düzenlenen dördüncü “Kırmızı Çizgi” gösterisinde toplanan 200 binden fazla kişi, hükümetin İsrail yanlısı politikasına tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/amsterdam-da-dorduncu-kirmizi-cizgi-gosterisine-200-binden-fazla-kisi-katildi/4116280",
-   "zaman": "2026-11-08T21:53:19+03:00",
-   "kelimeler": [
-    "200",
-    "amste",
-    "binde",
-    "cizgi",
-    "dordu",
-    "fazla",
-    "goste",
-    "katil",
-    "kirmi",
-    "kisi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2aec6aaaceb5": {
-   "id": "2aec6aaaceb5",
-   "kaynak": "NTV",
-   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 8 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1750008",
-   "zaman": "2026-11-08T21:54:34+03:00",
-   "kelimeler": [
-    "2026",
-    "belli",
-    "cekil",
-    "ekran",
-    "kasim",
-    "kazan",
-    "loto",
-    "mpi",
-    "numar",
-    "sonuc",
-    "sorgu",
-    "super"
-   ],
-   "durum": "engelli",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
-  "4b03d50a5887": {
-   "id": "4b03d50a5887",
-   "kaynak": "Hürriyet",
-   "baslik": "Galata Kulesi ve 15 Temmuz Şehitler Köprüsü, Azerbaycan bayrağının renkleriyle aydınlatıldı",
-   "ozet": "Galata Kulesi ve 15 Temmuz Şehitler Köprüsü, Karabağ Zaferi'nin 6'ncı yıl dönümü nedeniyle Azerbaycan bayrağının renkleri ile aydınlatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/galata-kulesi-ve-15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-aydinlatildi-43370827",
-   "zaman": "2026-11-08T21:55:38+03:00",
-   "kelimeler": [
-    "15",
-    "aydin",
-    "azerb",
-    "bayra",
-    "galat",
-    "kopru",
-    "kules",
-    "renkl",
-    "sehit",
-    "temmu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "cfe6155d691a": {
    "id": "cfe6155d691a",
    "kaynak": "AA",
@@ -140,23 +68,6 @@
    "fb_reels_id": "1128392216441636",
    "slayt": 5,
    "kanca": "MERCEDES ŞAMPİYONLUĞUNU İLAN ETTİ"
-  },
-  "ef94fbb8935c": {
-   "id": "ef94fbb8935c",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş, sahasından galibiyetle ayrıldı",
-   "ozet": "Beşiktaş, Trendyol Süper Lig'in 11. haftasında konuk ettiği Gençlerbirliği'ni 3-0 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-sahasindan-galibiyetle-ayrildi/4116284",
-   "zaman": "2026-11-08T21:57:36+03:00",
-   "kelimeler": [
-    "ayril",
-    "besik",
-    "galib",
-    "sahas"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f4270bf93f22"
   },
   "19fb60d06888": {
    "id": "19fb60d06888",
@@ -29797,7 +29708,8 @@
     "vgm"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e9dfacdc387b": {
    "id": "e9dfacdc387b",
@@ -34847,7 +34759,10 @@
     "takdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "945c09cc0262": {
    "id": "945c09cc0262",
@@ -34892,9 +34807,109 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f625a268de60"
+  },
+  "56f7ddc7e693": {
+   "id": "56f7ddc7e693",
+   "kaynak": "AA",
+   "baslik": "WAiFF İstanbul'da yapay zeka destekli ödül alan filmler, 2027'de Cannes'da Türkiye'yi temsil edecek",
+   "ozet": "Ay Yapım'ın yapay zeka iştiraki AI Yapım'ın ev sahipliğinde düzenlenen \"World AI Film Festival\" (WAiFF) İstanbul, sinema, sanat, müzik ve teknoloji dünyasından isimleri bir araya getirdi.",
+   "link": "https://www.aa.com.tr/tr/kultur/waiff-istanbulda-yapay-zeka-destekli-odul-alan-filmler-2027de-cannesda-turkiyeyi-temsil-edecek/4121317",
+   "zaman": "2026-11-11T21:00:14+03:00",
+   "kelimeler": [
+    "2027",
+    "alan",
+    "canne",
+    "deste",
+    "edece",
+    "filml",
+    "istan",
+    "odul",
+    "temsi",
+    "turki",
+    "waiff",
+    "yapay",
+    "yi",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "51d3c1429ab6": {
+   "id": "51d3c1429ab6",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran: COP31 için harcanan emek tüm liderler tarafından takdir görüyor",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Bütün liderler tarafından, COP31'in önemli bir yatırım gerçekleştirilerek, çok emek sarf edilerek gerçekleştirildiği fark ediliyor ve takdir görüyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-cop31-icin-harcanan-emek-tum-liderler-tarafindan-takdir-goruyor/4121340",
+   "zaman": "2026-11-11T21:30:05+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "duran",
+    "emek",
+    "goruy",
+    "harca",
+    "ileti",
+    "lider",
+    "takdi",
+    "taraf",
+    "tum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7315b5ef061"
+  },
+  "f8400f848884": {
+   "id": "f8400f848884",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan COP31'e ilişkin videolu paylaşım",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) ilişkin videolu paylaşım yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-cop31e-iliskin-videolu-paylasim-43374897",
+   "zaman": "2026-11-11T21:45:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "cumhu",
+    "dan",
+    "erdog",
+    "ilisk",
+    "payla",
+    "video"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f625a268de60"
+  },
+  "99c228ede5df": {
+   "id": "99c228ede5df",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 11 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1750476",
+   "zaman": "2026-11-11T21:55:06+03:00",
+   "kelimeler": [
+    "11",
+    "2026",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b76b1cf46b23"
   }
  },
  "kayit": [
+  "11.11 22:01:25  1 yeni haber",
   "11.11 21:46:12  2 yeni haber",
   "11.11 21:31:23  5 yeni haber",
   "11.11 21:16:25  2 yeni haber",
@@ -35093,8 +35108,7 @@
   "09.11 16:46:07  9 yeni haber",
   "09.11 16:31:23  6 yeni haber",
   "09.11 16:16:13  4 yeni haber",
-  "09.11 16:01:44  3 yeni haber",
-  "09.11 15:48:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Bir anne tüm dünyayı değiştirebilir: \"Oğlum kazanmadan gelme\""
+  "09.11 16:01:44  3 yeni haber"
  ],
  "otomatik": false
 }
