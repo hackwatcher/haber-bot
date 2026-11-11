@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "cd5e1e886f1e": {
-   "id": "cd5e1e886f1e",
-   "kaynak": "AA",
-   "baslik": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddia edildi",
-   "ozet": "ABD yönetiminin, İran'la savaşı sona erdirmek amacıyla Çin'den Tahran üzerindeki nüfuzunu kullanmasını istediği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddia-edildi/4116267",
-   "zaman": "2026-11-08T21:03:34+03:00",
-   "kelimeler": [
-    "abd",
-    "bitir",
-    "cin",
-    "den",
-    "edild",
-    "iddia",
-    "iran",
-    "isted",
-    "la",
-    "nin",
-    "savas",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "0567315a7aa3": {
-   "id": "0567315a7aa3",
-   "kaynak": "Hürriyet",
-   "baslik": "Kayseri’de 3.2 büyüklüğünde deprem",
-   "ozet": "Kayseri’nin Yahyalı ilçesinde 3.2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kayseride-3-2-buyuklugunde-deprem-43370804",
-   "zaman": "2026-11-08T21:07:09+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "kayse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "ac12d0fb128b"
-  },
   "cbdcdd4b2a41": {
    "id": "cbdcdd4b2a41",
    "kaynak": "TRT Haber",
@@ -34711,9 +34668,53 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "764bc9c86e26": {
+   "id": "764bc9c86e26",
+   "kaynak": "AA",
+   "baslik": "Trump, İran ile savaşın yakında sona ereceğini ve \"tam bir zafer\" kazanmayı hedeflediklerini söyledi",
+   "ozet": "ABD Başkanı Donald Trump, Gaziler Günü (Veterans Day) töreninde, İran'ın nükleer silah edinmesini engellediklerini savunarak, İran ile savaşın yakında sona ereceğini ve Washington'ın \"tam zafer\" kazanmayı hedeflediğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iran-ile-savasin-yakinda-sona-erecegini-ve-tam-bir-zafer-kazanmayi-hedeflediklerini-soyledi/4121318",
+   "zaman": "2026-11-11T21:00:33+03:00",
+   "kelimeler": [
+    "erece",
+    "hedef",
+    "iran",
+    "kazan",
+    "savas",
+    "sona",
+    "soyle",
+    "tam",
+    "trump",
+    "yakin",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d58f52fa946a": {
+   "id": "d58f52fa946a",
+   "kaynak": "AA",
+   "baslik": "ABD'de milyar dolarlık orman yangınlarının sıklığı ve maliyeti arttı",
+   "ozet": "ABD'de en az 1 milyar dolar zarara yol açan orman yangınlarının sıklığının son 20 yılda 5 katına çıktığı, maliyetinin ise 10 kat arttığı belirlendi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-milyar-dolarlik-orman-yanginlarinin-sikligi-ve-maliyeti-artti/4121322",
+   "zaman": "2026-11-11T21:05:36+03:00",
+   "kelimeler": [
+    "abd",
+    "artti",
+    "dolar",
+    "maliy",
+    "milya",
+    "orman",
+    "sikli",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 21:16:25  2 yeni haber",
   "11.11 21:01:30  2 yeni haber",
   "11.11 20:46:16  5 yeni haber",
   "11.11 20:31:17  2 yeni haber",
@@ -34912,8 +34913,7 @@
   "09.11 16:01:44  3 yeni haber",
   "09.11 15:48:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Bir anne tüm dünyayı değiştirebilir: \"Oğlum kazanmadan gelme\"",
   "09.11 15:46:06  7 yeni haber",
-  "09.11 15:31:22  2 yeni haber",
-  "09.11 15:16:05  5 yeni haber"
+  "09.11 15:31:22  2 yeni haber"
  ],
  "otomatik": false
 }
