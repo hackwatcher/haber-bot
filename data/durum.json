@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "88a7488a354b": {
-   "id": "88a7488a354b",
-   "kaynak": "Hürriyet",
-   "baslik": "17 ilde yasa dışı bahis ağına darbe: 35 şüpheli cezaevine gönderildi",
-   "ozet": "İzmir merkezli yürütülen yasa dışı bahis soruşturmasında gözaltına alınan zanlıların büyük bölümü tutuklandı. Operasyon kapsamında hakkında işlem yapılan şüphelilerden 9'unun ise halen arandığı öğrenildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/17-ilde-yasa-disi-bahis-agina-darbe-35-supheli-cezaevine-gonderildi-43370475",
-   "zaman": "2026-11-08T14:20:46+03:00",
-   "kelimeler": [
-    "17",
-    "35",
-    "agina",
-    "bahis",
-    "cezae",
-    "darbe",
-    "disi",
-    "gonde",
-    "ilde",
-    "suphe",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
   "b7d5bb8ccae4": {
    "id": "b7d5bb8ccae4",
    "kaynak": "Sözcü",
@@ -29134,7 +29110,10 @@
     "prote"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "45158e0edfd3": {
    "id": "45158e0edfd3",
@@ -33138,9 +33117,54 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "882efced5a47": {
+   "id": "882efced5a47",
+   "kaynak": "TRT Haber",
+   "baslik": "İrlanda'da, eski ABD Başkanı Biden'a Filistin protestosu",
+   "ozet": "Eski ABD Başkanı Joe Biden, İrlanda'da bir üniversitede katıldığı etkinlik sırasında, Filistin yanlısı eylemciler tarafından protesto edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/irlandada-eski-abd-baskani-bidena-filistin-protestosu-962940.html",
+   "zaman": "2026-11-11T14:11:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "biden",
+    "eski",
+    "filis",
+    "irlan",
+    "prote"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f36448f63373"
+  },
+  "a7758fbd163b": {
+   "id": "a7758fbd163b",
+   "kaynak": "AA",
+   "baslik": "Gazze'deki hükümet: İsrail \"kış hazırlıklarına katkı sağladığı\" yönündeki açıklamalarıyla kamuoyunu yanıltıyor",
+   "ozet": "Gazze'deki hükümet, İsrail'in \"bölgede kış mevsimine yönelik hazırlık planına katkı sağladığı\" yönündeki açıklamalarıyla dünya kamuoyunu yanıltmaya çalıştığını ve ihtiyaç duyulan malzemelerin bölgeye girişini engellemeyi sürdürdüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-hukumet-israil-kis-hazirliklarina-katki-sagladigi-yonundeki-aciklamalariyla-kamuoyunu-yaniltiyor/4120365",
+   "zaman": "2026-11-11T14:15:19+03:00",
+   "kelimeler": [
+    "acikl",
+    "deki",
+    "gazze",
+    "hazir",
+    "hukum",
+    "israi",
+    "kamuo",
+    "katki",
+    "kis",
+    "sagla",
+    "yanil",
+    "yonun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 14:21:11  1 yeni haber",
   "11.11 14:16:00  7 yeni haber",
   "11.11 14:01:36  7 yeni haber",
   "11.11 13:46:09  12 yeni haber",
@@ -33339,8 +33363,7 @@
   "09.11 12:16:50  8 yeni haber",
   "09.11 12:01:38  10 yeni haber",
   "09.11 11:46:09  10 yeni haber",
-  "09.11 11:33:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Ekimde en yüksek aylık reel getiri mevduat faizinde oldu",
-  "09.11 11:31:27  7 yeni haber"
+  "09.11 11:33:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Ekimde en yüksek aylık reel getiri mevduat faizinde oldu"
  ],
  "otomatik": false
 }
