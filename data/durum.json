@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "190226be4df5": {
-   "id": "190226be4df5",
-   "kaynak": "AA",
-   "baslik": "Bitkiler üniversitedeki merkezde ileri teknolojiyle değer kazanıyor",
-   "ozet": "Necmettin Erbakan Üniversitesi Tıbbi ve Kozmetik Bitkiler Uygulama ve Araştırma Merkezi'nde, bitkilerden gıda takviyesi ve kozmetik ürünleri geliştiriliyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bitkiler-universitedeki-merkezde-ileri-teknolojiyle-deger-kazaniyor/4115867",
-   "zaman": "2026-11-08T13:50:42+03:00",
-   "kelimeler": [
-    "bitki",
-    "deger",
-    "ileri",
-    "kazan",
-    "merke",
-    "tekno",
-    "unive"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "7865256bfdb2": {
-   "id": "7865256bfdb2",
-   "kaynak": "TRT Haber",
-   "baslik": "RTÜK'ün medya alanındaki çelik kubbesi Via olacak",
-   "ozet": "RTÜK'ün yüzde 90 oranında tamamlanan yeni denetim sistemi Via, ses ve görüntü içeriklerindeki mevzuat ihlallerini tespit ederek raporlayabilecek. Sistem ayrıca 300 milyondan fazla görüntü karesini inceleyebilecek.",
-   "link": "https://www.trthaber.com/haber/gundem/rtukun-medya-alanindaki-celik-kubbesi-via-olacak-962592.html",
-   "zaman": "2026-11-08T13:54:00+03:00",
-   "kelimeler": [
-    "alani",
-    "celik",
-    "kubbe",
-    "medya",
-    "olaca",
-    "rtuk",
-    "un",
-    "via"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6686c67d5dc5": {
-   "id": "6686c67d5dc5",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan Karabağ Zaferi'nin 6. yıl dönümünü kutladı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan 8 Kasım Zafer Günü'nü tebrik etti.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-karabag-zaferinin-6-yil-donumunu-kutladi-1749963",
-   "zaman": "2026-11-08T13:59:15+03:00",
-   "kelimeler": [
-    "cumhu",
-    "donum",
-    "erdog",
-    "karab",
-    "kutla",
-    "nin",
-    "yil",
-    "zafer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ab79fe17d00a"
-  },
-  "102acf789a1a": {
-   "id": "102acf789a1a",
-   "kaynak": "Hürriyet",
-   "baslik": "Karabağ'ın yıl dönümü: Cumhurbaşkanı Erdoğan'dan tebrik mesajı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Karabağ Zaferi'nin 6. yıl dönümü dolayısıyla mesaj yayımladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/karabagin-yil-donumu-cumhurbaskani-erdogandan-tebrik-mesaji-43370449",
-   "zaman": "2026-11-08T13:53:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "dan",
-    "donum",
-    "erdog",
-    "in",
-    "karab",
-    "mesaj",
-    "tebri",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "TRT Haber"
-   ]
-  },
-  "29703c8120ef": {
-   "id": "29703c8120ef",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan Azerbaycan'ın Zafer Günü mesajı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Karabağ'ın 30 yıllık işgalden kurtarılmasının 6'ncı yıl dönümü dolayısıyla Azerbaycan'ın Zafer Günü'nü kutladı, şehitleri rahmetle andı.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-azerbaycanin-zafer-gunu-mesaji-962593.html",
-   "zaman": "2026-11-08T13:56:00+03:00",
-   "kelimeler": [
-    "azerb",
-    "cumhu",
-    "dan",
-    "erdog",
-    "gunu",
-    "in",
-    "mesaj",
-    "zafer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e0547b6bd99f"
-  },
   "0be4306d05a8": {
    "id": "0be4306d05a8",
    "kaynak": "AA",
@@ -32331,7 +32225,8 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b3593829969b": {
    "id": "b3593829969b",
@@ -32565,7 +32460,10 @@
     "yurdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "84913c8e2075": {
    "id": "84913c8e2075",
@@ -32689,7 +32587,8 @@
     "topra"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "32abd73ed11c": {
    "id": "32abd73ed11c",
@@ -33119,9 +33018,234 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "77ee8f8a0d73": {
+   "id": "77ee8f8a0d73",
+   "kaynak": "AA",
+   "baslik": "İspanya'da sendikalar konut krizine çözüm ve maaş artışı talebiyle genel greve gitti",
+   "ozet": "İspanya'da işçi sendikaları ve kiracılar sendikaları konut krizine çözüm ve maaş artışı talebiyle 24 saatlik genel grev düzenliyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-sendikalar-konut-krizine-cozum-ve-maas-artisi-talebiyle-genel-greve-gitti/4119716",
+   "zaman": "2026-11-11T10:17:52+03:00",
+   "kelimeler": [
+    "artis",
+    "cozum",
+    "genel",
+    "gitti",
+    "greve",
+    "ispan",
+    "konut",
+    "krizi",
+    "maas",
+    "sendi",
+    "taleb"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "acde10bbcb84": {
+   "id": "acde10bbcb84",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: İnsanlık tarihinin en derin varoluş krizlerinden birini yaşıyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bizim başka bir gökyüzümüz, başka bir yeryüzümüz, denizlerimiz, okyanuslarımız, ormanlarımız yoktur. Ancak bugün insanlık aşırı tüketim hırsının da etkisiyle belki de tarihinin en derin varoluş krizlerinden birini yaşıyor\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-insanlik-tarihinin-en-derin-varolus-krizlerinden-birini-yasiyor-962923.html",
+   "zaman": "2026-11-11T12:07:00+03:00",
+   "kelimeler": [
+    "birin",
+    "cumhu",
+    "derin",
+    "erdog",
+    "insan",
+    "krizl",
+    "tarih",
+    "varol",
+    "yasiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8b173b35d263": {
+   "id": "8b173b35d263",
+   "kaynak": "AA",
+   "baslik": "Ukrayna-Rusya Savaşı'nı sona erdirmek için BAE'deki üçlü müzakereler sona erdi",
+   "ozet": "Ukrayna-Rusya Savaşı'nı sona erdirmek için Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'deki üçlü müzakereler sona erdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-savasini-sona-erdirmek-icin-baedeki-uclu-muzakereler-sona-erdi/4120031",
+   "zaman": "2026-11-11T12:57:16+03:00",
+   "kelimeler": [
+    "bae",
+    "deki",
+    "erdi",
+    "erdir",
+    "muzak",
+    "ni",
+    "rusya",
+    "savas",
+    "sona",
+    "uclu",
+    "ukray"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8b41b1fe0669"
+  },
+  "6477fe9224f4": {
+   "id": "6477fe9224f4",
+   "kaynak": "AA",
+   "baslik": "Milli Ağaçlandırma Günü'nde milyonlarca fidan toprakla buluşturuluyor",
+   "ozet": "11 Kasım Milli Ağaçlandırma Günü dolayısıyla \"Geleceğe Nefes, Dünyaya Barış\" sloganıyla düzenlenen etkinliklerde milyonlarca fidan toprakla buluşturuldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-agaclandirma-gununde-milyonlarca-fidan-toprakla-bulusturuluyor/4120059",
+   "zaman": "2026-11-11T13:06:37+03:00",
+   "kelimeler": [
+    "agacl",
+    "bulus",
+    "fidan",
+    "gunu",
+    "milli",
+    "milyo",
+    "nde",
+    "topra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "675ff8a718f8"
+  },
+  "e6cbac7a0ebd": {
+   "id": "e6cbac7a0ebd",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul Havalimanı'nın 4. pistiyle uçuşlarda yüzde 25 yakıt tasarrufu",
+   "ozet": "İstanbul Havalimanı'nın eylülde hizmete alınan 4. pisti sayesinde doğu yönlü uçuşlarda yüzde 25 yakıt tasarrufu sağlandığı ve 2 ayda karbon emisyonunun 2 bin ton azaltıldığı öğrenildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-havalimaninin-4-pistiyle-ucuslarda-yuzde-25-yakit-tasarrufu-962939.html",
+   "zaman": "2026-11-11T13:43:00+03:00",
+   "kelimeler": [
+    "25",
+    "haval",
+    "istan",
+    "nin",
+    "pisti",
+    "tasar",
+    "ucusl",
+    "yakit",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4efb5e65bf4": {
+   "id": "f4efb5e65bf4",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul Recep Tayyip Erdoğan Anadolu İmam Hatip Lisesi Öğrenci Yurdu açıldı",
+   "ozet": "İstanbul Recep Tayyip Erdoğan Anadolu İmam Hatip Lisesi öğrencileri için inşa edilen yeni yurt binası törenle hizmete açıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-recep-tayyip-erdogan-anadolu-imam-hatip-lisesi-ogrenci-yurdu-acildi-43374189",
+   "zaman": "2026-11-11T13:45:09+03:00",
+   "kelimeler": [
+    "acild",
+    "anado",
+    "erdog",
+    "hatip",
+    "imam",
+    "istan",
+    "lises",
+    "ogren",
+    "recep",
+    "tayyi",
+    "yurdu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c1de0055f424"
+  },
+  "fc0e069bf8d8": {
+   "id": "fc0e069bf8d8",
+   "kaynak": "NTV",
+   "baslik": "Güllü'nün ölümünde yalan tanıklık davası. Sultan Nur Ulu: Tuğyan beni tehdit edip baskıladı",
+   "ozet": "Şarkıcı Güllü'nün ölümüne ilişkin yalan tanıklık suçlamasıyla hakkında 4 yıla kadar hapis cezası istenen Sultan Nur Ulu'nun yargılanmasına başlandı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumunde-yalan-taniklik-davasi-sultan-nur-ulu-tugyan-beni-tehdit-edip-baskiladi-1750422",
+   "zaman": "2026-11-11T13:47:32+03:00",
+   "kelimeler": [
+    "baski",
+    "beni",
+    "davas",
+    "edip",
+    "gullu",
+    "nun",
+    "nur",
+    "olumu",
+    "sulta",
+    "tanik",
+    "tehdi",
+    "tugya",
+    "ulu",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dd64b8989b5c": {
+   "id": "dd64b8989b5c",
+   "kaynak": "AA",
+   "baslik": "Adana merkezli silahlı suç örgütü operasyonunda 61 şüpheli gözaltına alındı",
+   "ozet": "Adana merkezli 4 ilde silahlı suç örgütüne yönelik düzenlenen operasyonda 61 şüpheli gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/adana-merkezli-silahli-suc-orgutu-operasyonunda-61-supheli-gozaltina-alindi/4120136",
+   "zaman": "2026-11-11T13:47:33+03:00",
+   "kelimeler": [
+    "61",
+    "adana",
+    "alind",
+    "gozal",
+    "merke",
+    "opera",
+    "orgut",
+    "silah",
+    "suc",
+    "suphe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cd379ecb8dc0": {
+   "id": "cd379ecb8dc0",
+   "kaynak": "NTV",
+   "baslik": "SOLOTÜRK'te görev değişimi",
+   "ozet": "Türk Hava Kuvvetleri'nin akrobasi timi SOLOTÜRK'te kol komutanı olarak görev yapan Yarbay Murat Bakıcı, görevini Hava Pilot Yarbay M. Erhan Aydemir'e teslim etti.",
+   "link": "https://www.ntv.com.tr/turkiye/soloturkte-gorev-degisimi-1750426",
+   "zaman": "2026-11-11T13:47:35+03:00",
+   "kelimeler": [
+    "degis",
+    "gorev",
+    "solot",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9e0edcfa8e2a": {
+   "id": "9e0edcfa8e2a",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Real Madrid'li Vinicius Jr'dan Sudan'daki savaşta bacaklarını kaybeden çocuğa sürpriz mesaj",
+   "ozet": "İki bacağı da ampute edilmiş olan Zaher, geçen yıl BBC Dünya Servisi'ne en sevdiği futbolcudan ve tekrar yürüyebilme hayalinden bahsetmişti. Real Madrid'in yıldız oyuncusu Vinicius Jr ise küçük çocuğa bir video mesajıyla seslendi ve maçına davet etti.",
+   "link": "https://www.bbc.com/turkce/articles/c60qjenvxzqko",
+   "zaman": "2026-11-11T13:55:18+03:00",
+   "kelimeler": [
+    "bacak",
+    "cocug",
+    "daki",
+    "dan",
+    "jr",
+    "kaybe",
+    "li",
+    "madri",
+    "mesaj",
+    "real",
+    "savas",
+    "sudan",
+    "surpr",
+    "vinic"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 14:01:36  7 yeni haber",
   "11.11 13:46:09  12 yeni haber",
   "11.11 13:31:14  8 yeni haber",
   "11.11 13:16:03  12 yeni haber",
@@ -33320,8 +33444,7 @@
   "09.11 11:46:09  10 yeni haber",
   "09.11 11:33:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Ekimde en yüksek aylık reel getiri mevduat faizinde oldu",
   "09.11 11:31:27  7 yeni haber",
-  "09.11 11:16:00  13 yeni haber",
-  "09.11 11:01:28  6 yeni haber"
+  "09.11 11:16:00  13 yeni haber"
  ],
  "otomatik": false
 }
