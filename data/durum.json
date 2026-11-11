@@ -1,112 +1,5 @@
 {
  "haberler": {
-  "ec723d8ae50a": {
-   "id": "ec723d8ae50a",
-   "kaynak": "TRT Haber",
-   "baslik": "Emine Erdoğan'dan 8 Kasım Azerbaycan Günü paylaşımı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 8 Kasım Azerbaycan Zafer Günü dolayısıyla yazılı açıklama yaptı.",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-8-kasim-azerbaycan-gunu-paylasimi-962595.html",
-   "zaman": "2026-11-08T14:37:00+03:00",
-   "kelimeler": [
-    "azerb",
-    "dan",
-    "emine",
-    "erdog",
-    "gunu",
-    "kasim",
-    "payla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9c6e2db08bc8": {
-   "id": "9c6e2db08bc8",
-   "kaynak": "AA",
-   "baslik": "İsrail Savunma Bakanı Katz, İran'a saldırı tehdidini yineledi",
-   "ozet": "İsrail Savunma Bakanı Yisrael Katz, Tahran yönetimiyle işlerinin henüz bitmediğini söyleyerek İran'ı yeni saldırılarla hedef alacakları tehdidini yineledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-katz-irana-saldiri-tehdidini-yineledi/4115907",
-   "zaman": "2026-11-08T14:38:34+03:00",
-   "kelimeler": [
-    "bakan",
-    "iran",
-    "israi",
-    "katz",
-    "saldi",
-    "savun",
-    "tehdi",
-    "yinel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c45972a2bebb": {
-   "id": "c45972a2bebb",
-   "kaynak": "TRT Haber",
-   "baslik": "Rusya: Ukrayna'da trafo merkezi ile silah taşıyan gemiyi vurduk",
-   "ozet": "Rusya Savunma Bakanlığı, Ukrayna'da trafo merkezi ile bir gemiyi vurduklarını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-trafo-merkezi-ile-silah-tasiyan-gemiyi-vurduk-962596.html",
-   "zaman": "2026-11-08T14:38:00+03:00",
-   "kelimeler": [
-    "gemiy",
-    "merke",
-    "rusya",
-    "silah",
-    "tasiy",
-    "trafo",
-    "ukray",
-    "vurdu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e15fd2b702bc"
-  },
-  "22481e54fc5a": {
-   "id": "22481e54fc5a",
-   "kaynak": "Hürriyet",
-   "baslik": "Ormanda ölümcül hata: Sese doğru ateş açtı, vurduğu kişi amcasının oğlu çıktı",
-   "ozet": "Akağaç köyü Göcü mevkisinde domuz avı için ayrılan iki kuzenin ormandaki takibi acı bitti. Çalılıklardan gelen hışırtıyı hedef sanarak tetiğe basan İ.Y., kanlar içinde kalan amcaoğlu Muhittin Yaygun'u görünce jandarmaya haber verdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ormanda-olumcul-hata-sese-dogru-ates-acti-vurdugu-kisi-amcasinin-oglu-cikti-43370500",
-   "zaman": "2026-11-08T14:42:00+03:00",
-   "kelimeler": [
-    "acti",
-    "amcas",
-    "ates",
-    "cikti",
-    "dogru",
-    "hata",
-    "kisi",
-    "oglu",
-    "olumc",
-    "orman",
-    "sese",
-    "vurdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f662c4627621": {
-   "id": "f662c4627621",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31 boyunca Antalya'da trafik denetimleri üst seviyeye çıkarılacak",
-   "ozet": "Antalya'da gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na COP31 katılan çok sayıda devlet ve hükümet başkanı ile üst düzey konuğun güvenli ve hızlı ulaşımını sağlamak amacıyla trafik denetimleri üst seviyede olacak.",
-   "link": "https://www.trthaber.com/haber/turkiye/cop31-boyunca-antalyada-trafik-denetimleri-ust-seviyeye-cikarilacak-962597.html",
-   "zaman": "2026-11-08T14:45:00+03:00",
-   "kelimeler": [
-    "antal",
-    "boyun",
-    "cikar",
-    "cop31",
-    "denet",
-    "seviy",
-    "trafi",
-    "ust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "7289c733c854": {
    "id": "7289c733c854",
    "kaynak": "AA",
@@ -18567,7 +18460,8 @@
     "yenid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "59c9aa64be58": {
    "id": "59c9aa64be58",
@@ -31509,7 +31403,10 @@
     "yaygi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "659d4e3909ee": {
    "id": "659d4e3909ee",
@@ -31789,7 +31686,10 @@
     "sifir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a178f1938aa7": {
    "id": "a178f1938aa7",
@@ -32842,7 +32742,10 @@
     "suphe"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "cd379ecb8dc0": {
    "id": "cd379ecb8dc0",
@@ -33163,9 +33066,289 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b6a8384e3bed": {
+   "id": "b6a8384e3bed",
+   "kaynak": "AA",
+   "baslik": "İtalya'da 100'den fazla okulda bomba alarmı verildi",
+   "ozet": "İtalya'da 100'den fazla okula gönderilen bomba tehdidi içeren anonim bir e-postanın, endişeye ve okulların tahliye edilmesine neden olduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-100den-fazla-okulda-bomba-alarmi-verildi/4120149",
+   "zaman": "2026-11-11T13:53:02+03:00",
+   "kelimeler": [
+    "100",
+    "alarm",
+    "bomba",
+    "den",
+    "fazla",
+    "italy",
+    "okuld",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f484dee2c5e7": {
+   "id": "f484dee2c5e7",
+   "kaynak": "TRT Haber",
+   "baslik": "Küllerinden doğan mahalle Sıfır Atık Köyüne dönüşüyor",
+   "ozet": "Antalya'nın Manavgat ilçesinde 2021'deki orman yangınında ağır hasar gören ve TOKİ tarafından yeniden inşa edilen Demirciler Mahallesi, COP31 kapsamında \"Sıfır Atık Köyü\"ne dönüştürülüyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/kullerinden-dogan-mahalle-sifir-atik-koyune-donusuyor-962941.html",
+   "zaman": "2026-11-11T14:24:00+03:00",
+   "kelimeler": [
+    "atik",
+    "dogan",
+    "donus",
+    "koyun",
+    "kulle",
+    "mahal",
+    "sifir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "895e0b452890"
+  },
+  "584df53f4a84": {
+   "id": "584df53f4a84",
+   "kaynak": "Hürriyet",
+   "baslik": "Adana merkezli 4 ilde \"Şirinler\" suç örgütüne operasyon: 61 şüpheliye gözaltı",
+   "ozet": "Adana merkezli 4 ilde \"Şirinler\" olarak bilinen suç örgütüne yönelik operasyonda 61 şüpheliye işlem yapıldı; silahlar ve polis yelekleri ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/adana-merkezli-4-ilde-sirinler-suc-orgutune-operasyon-61-supheliye-gozalti-43374268",
+   "zaman": "2026-11-11T14:28:00+03:00",
+   "kelimeler": [
+    "61",
+    "adana",
+    "gozal",
+    "ilde",
+    "merke",
+    "opera",
+    "orgut",
+    "sirin",
+    "suc",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dd64b8989b5c"
+  },
+  "aa29d1befe77": {
+   "id": "aa29d1befe77",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: Milyonlarca tohumu ve fidanı toprakla buluşturuyoruz",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milli Ağaçlandırma Günü mesajında, \"İklim krizine karşı küresel dayanışmamızı artırıyor, diğer taraftan ülkemiz genelinde milyonlarca tohumu ve fidanı \"Geleceğe Nefes, Dünyaya Barış\" diyerek toprakla buluşturuyoruz\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-milyonlarca-tohumu-ve-fidani-toprakla-bulusturuyoruz-962942.html",
+   "zaman": "2026-11-11T14:30:00+03:00",
+   "kelimeler": [
+    "bulus",
+    "cumhu",
+    "erdog",
+    "fidan",
+    "milyo",
+    "tohum",
+    "topra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c56c0dcd5276"
+  },
+  "beff6e43a9fd": {
+   "id": "beff6e43a9fd",
+   "kaynak": "AA",
+   "baslik": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+   "ozet": "Emine Erdoğan, 11 Kasım Milli Ağaçlandırma Günü'nü kutladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi/4120547",
+   "zaman": "2026-11-11T14:31:51+03:00",
+   "kelimeler": [
+    "11",
+    "agacl",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "milli",
+    "payla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ]
+  },
+  "d6536e787446": {
+   "id": "d6536e787446",
+   "kaynak": "NTV",
+   "baslik": "Bakan Göktaş duyurdu. Kreşler için ilk kez teşvik paketi geliyor",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kreşlerin yaygınlaşması için ilk kez bir teşvik paketini devreye alacaklarını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-goktas-duyurdu-kresler-icin-ilk-kez-tesvik-paketi-geliyor-1750432",
+   "zaman": "2026-11-11T14:34:32+03:00",
+   "kelimeler": [
+    "bakan",
+    "duyur",
+    "geliy",
+    "gokta",
+    "ilk",
+    "kez",
+    "kresl",
+    "paket",
+    "tesvi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "af5ad1879f1b"
+  },
+  "28d3146819ff": {
+   "id": "28d3146819ff",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"11 Kasım Milli Ağaçlandırma Günü kutlu olsun. Bir fidanı toprakla buluşturmak, yıllar sonra da varlığını sürdürecek bir iyiliğe vesile olmaktır\" paylaşımında bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi-962943.html",
+   "zaman": "2026-11-11T14:35:00+03:00",
+   "kelimeler": [
+    "11",
+    "agacl",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "milli",
+    "payla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "beff6e43a9fd"
+  },
+  "07ce92353e57": {
+   "id": "07ce92353e57",
+   "kaynak": "NTV",
+   "baslik": "CHP kurultay davası 18 Kasım'a ertelendi",
+   "ozet": "CHP’nin 38’inci Olağan Kurultayı’nda usulsüzlük yapıldığı suçlamasıyla aralarında Ekrem İmamoğlu’nun da bulunduğu 12 sanığın yargılandığı dava, 18 Kasım'a ertelendi.",
+   "link": "https://www.ntv.com.tr/turkiye/chp-kurultay-davasi-18-kasima-ertelendi-1750435",
+   "zaman": "2026-11-11T14:37:33+03:00",
+   "kelimeler": [
+    "18",
+    "chp",
+    "davas",
+    "ertel",
+    "kasim",
+    "kurul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "Sözcü"
+   ]
+  },
+  "e5317df5f9dd": {
+   "id": "e5317df5f9dd",
+   "kaynak": "Hürriyet",
+   "baslik": "CHP'nin kurultay davası ertelendi",
+   "ozet": "CHP’nin 38’inci Olağan Kurultayı’nda usulsüzlük yapıldığı suçlamasıyla, aralarında İstanbul Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 12 sanığın yargılandığı dava, 18 Kasım'a ertelendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/chpnin-kurultay-davasi-ertelendi-43374290",
+   "zaman": "2026-11-11T14:38:43+03:00",
+   "kelimeler": [
+    "chp",
+    "davas",
+    "ertel",
+    "kurul",
+    "nin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "07ce92353e57"
+  },
+  "7e63ab7a9415": {
+   "id": "7e63ab7a9415",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İspanya'da 14 yıl sonra ilk genel grev",
+   "ozet": "İspanya'da işçiler 14 yıl sonra ilk kez genel greve çıktı. Ülkenin en büyük iki sendikasının desteklediği grevin nedeni konut krizi ve hayat pahalılığı. İşçiler konut fiyatları ve kiraların düşmesini ve maaşların artmasını talep ediyor.",
+   "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o",
+   "zaman": "2026-11-11T14:40:00+03:00",
+   "kelimeler": [
+    "14",
+    "genel",
+    "grev",
+    "ilk",
+    "ispan",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "87d93f279226": {
+   "id": "87d93f279226",
+   "kaynak": "NTV",
+   "baslik": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 11 Kasım Milli Ağaçlandırma Günü'nü kutladı.",
+   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi-1750434",
+   "zaman": "2026-11-11T14:40:09+03:00",
+   "kelimeler": [
+    "11",
+    "agacl",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kasim",
+    "milli",
+    "payla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "beff6e43a9fd"
+  },
+  "9ebd90b59088": {
+   "id": "9ebd90b59088",
+   "kaynak": "Sözcü",
+   "baslik": "CHP Kurultay davası 18 Kasım'a ertelendi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-chp-kurultay-davasi-18-kasima-ertelendi-p380304",
+   "zaman": "2026-11-11T14:40:52+03:00",
+   "kelimeler": [
+    "18",
+    "chp",
+    "davas",
+    "ertel",
+    "kasim",
+    "kurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "07ce92353e57"
+  },
+  "f497f706db6b": {
+   "id": "f497f706db6b",
+   "kaynak": "XHABER",
+   "baslik": "İtalya’da e-posta yoluyla gelen bomba ihbarları üzerine en az 300 okul tahliye edildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30637",
+   "zaman": "2026-11-11T14:43:53+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İtalya’da e-posta yoluyla gelen bomba ihbarları üzerine en az 300 okul tahliye edildi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/EmmWvlR8rHW7xfiCKkBDWja9ul80CJ4HffZsh6d5xzy0Zkwhu6KJuVGIREgvhsXx_zOLBKXkRSNQTd6YxYNc6TTS3-Vgsc1ZfSKiNiOZrmNyDXnmnSKOqNK51u6k9sLcNxeu-cAozWrBATrj8CIftl4XReH6EkiJpvr6T9YlTqkc9NtR889Lt7hqvWuwcprNFz3RTnFk6uFDHeJIhKr9fdztmbVIs0nOKE0mNOc5KPRHqzqjKj4_lPajLc5qafCkF5Pnv5AOFVVvf-kczukSrPgn1CpB6DNWRJwHIARSw66lAfDzldD102QcWOiwPiJuUH6zzWA8U3ycNB-RfmvFIQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "300",
+    "az",
+    "bomba",
+    "edild",
+    "gelen",
+    "ihbar",
+    "italy",
+    "okul",
+    "posta",
+    "tahli",
+    "uzeri",
+    "yoluy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 14:46:14  5 yeni haber",
   "11.11 14:33:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD'de ara seçimleri kazanan Demokratların İsrail destekçisi kanadının",
   "11.11 14:31:15  4 yeni haber",
   "11.11 14:21:11  1 yeni haber",
@@ -33364,8 +33547,7 @@
   "09.11 12:48:29  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · TMSF'den gönüllü iade işlemlerine ilişkin duyuru",
   "09.11 12:46:05  8 yeni haber",
   "09.11 12:31:57  9 yeni haber",
-  "09.11 12:16:50  8 yeni haber",
-  "09.11 12:01:38  10 yeni haber"
+  "09.11 12:16:50  8 yeni haber"
  ],
  "otomatik": false
 }
