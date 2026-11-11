@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "594ef7d71e83": {
-   "id": "594ef7d71e83",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara'daki savunma sanayii üssü büyüyor: 70 yeni firma, 40 bin istihdam hedefi",
-   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığının SSB vizyonuyla 12 yıl önce kurulan Ankara Uzay ve Havacılık İhtisas Organize Sanayi Bölgesi HAB, yeni yatırımlarla büyümesini sürdürüyor. Bölgeye 70 yeni firmanın kazandırılması, istihdamın ise 40 bine çıkarılması hedefleniyor.",
-   "link": "https://www.trthaber.com/haber/savunma/ankaradaki-savunma-sanayii-ussu-buyuyor-70-yeni-firma-40-bin-istihdam-hedefi-962602.html",
-   "zaman": "2026-11-08T16:32:00+03:00",
-   "kelimeler": [
-    "40",
-    "70",
-    "ankar",
-    "bin",
-    "buyuy",
-    "daki",
-    "firma",
-    "hedef",
-    "istih",
-    "sanay",
-    "savun",
-    "ussu",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "0f59fc6c9762": {
-   "id": "0f59fc6c9762",
-   "kaynak": "Hürriyet",
-   "baslik": "İçişleri Bakanı Çiftçi Çorum'da \"Terörsüz Türkiye\" stratejisini açıkladı: Sahada 3T formülü devrede",
-   "ozet": "Çorum Hitit Üniversitesi'nde düzenlenen \"Terörsüz Türkiye Konferansı\"nda konuşan İçişleri Bakanı Mustafa Çiftçi, terörle mücadelenin tespit, takip ve tasfiyeden oluşan \"3T\" güvenlik anlayışıyla yürütüldüğünü açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftci-corumda-terorsuz-turkiye-stratejisini-acikladi-sahada-3t-formulu-devrede-43370595",
-   "zaman": "2026-11-08T16:34:30+03:00",
-   "kelimeler": [
-    "3t",
-    "bakan",
-    "ciftc",
-    "corum",
-    "devre",
-    "formu",
-    "icisl",
-    "sahad",
-    "strat",
-    "teror",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "356b927bd30e": {
-   "id": "356b927bd30e",
-   "kaynak": "BBC Türkçe",
-   "baslik": "'Annem ve babam birlikte ötenaziyi seçti, onların yasını yalnız başıma tutuyorum'",
-   "ozet": "Hollandalı çift Jan ve Els, 50 yıllık mutlu evliliklerinin ardından hayatlarını sonlandırmaya karar verdi. Oğulları Bas, bu kararı aldıkları süreci, onları ötenaziye götürmesini ve sonrasında yaşadıkları anlatıyor.",
-   "link": "https://www.bbc.com/turkce/articles/cvn06dke5pz0o",
-   "zaman": "2026-11-08T16:36:56+03:00",
-   "kelimeler": [
-    "annem",
-    "babam",
-    "basim",
-    "birli",
-    "onlar",
-    "otena",
-    "secti",
-    "tutuy",
-    "yalni",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2c0bc208c988": {
    "id": "2c0bc208c988",
    "kaynak": "TRT Haber",
@@ -231,24 +161,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e0547b6bd99f"
-  },
-  "153473a227ec": {
-   "id": "153473a227ec",
-   "kaynak": "AA",
-   "baslik": "Bakan Kurum'dan Solak Köyü paylaşımı",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 için Antalya'ya gelenleri Sıfır Atık Köyü'ne dönüştürülen Solak Köyü'ne davet etti.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-solak-koyu-paylasimi/4116076",
-   "zaman": "2026-11-08T16:44:35+03:00",
-   "kelimeler": [
-    "bakan",
-    "dan",
-    "koyu",
-    "kurum",
-    "payla",
-    "solak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "3207a3ac157c": {
    "id": "3207a3ac157c",
@@ -33051,7 +32963,11 @@
     "yapiy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "TRT Haber"
+   ]
   },
   "5722fed01d45": {
    "id": "5722fed01d45",
@@ -33563,9 +33479,183 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "af317799b71f": {
+   "id": "af317799b71f",
+   "kaynak": "AA",
+   "baslik": "İçişleri Bakanı Çiftçi'den COP31 kapsamında alınan güvenlik tedbirlerine ilişkin açıklama",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Antalya merkez ve kuşak illerde toplamda 58 bin personelimiz görev yapıyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-cop31-kapsaminda-alinan-guvenlik-tedbirlerine-iliskin-aciklama/4120672",
+   "zaman": "2026-11-11T15:39:39+03:00",
+   "kelimeler": [
+    "acikl",
+    "alina",
+    "bakan",
+    "ciftc",
+    "cop31",
+    "den",
+    "guven",
+    "icisl",
+    "ilisk",
+    "kapsa",
+    "tedbi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fbd26c122144"
+  },
+  "82f540a5f15e": {
+   "id": "82f540a5f15e",
+   "kaynak": "AA",
+   "baslik": "COP31'de enerji dönüşümünün geleceği için yenilenebilir enerjinin stratejik rolü öne çıktı",
+   "ozet": "Küresel enerji dönüşümünde yenilenebilir enerjinin rolü, rüzgar enerjisinin geleceği ve sektörün büyümesini destekleyecek hedefler ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-enerji-donusumunun-gelecegi-icin-yenilenebilir-enerjinin-stratejik-rolu-one-cikti/4120745",
+   "zaman": "2026-11-11T16:20:18+03:00",
+   "kelimeler": [
+    "cikti",
+    "cop31",
+    "donus",
+    "enerj",
+    "gelec",
+    "one",
+    "rolu",
+    "strat",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "693560113b9f": {
+   "id": "693560113b9f",
+   "kaynak": "Hürriyet",
+   "baslik": "Adana'da korkunç olay! Tartıştığı kişiyi boğazından bıçakla yaralayıp, kendini eve kilitledi",
+   "ozet": "Adana’nın Seyhan ilçesinde 25 yaşındaki Dilvan Ö., evde tartıştığı Burak Y.’yi boğazından bıçaklayarak yaraladı. Olayın ardından kendisini eve kilitleyen Dilvan Ö., Özel Harekat polislerinin kapıyı kırarak eve girmesiyle gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-tartistigi-kisiyi-bogazindan-bicakla-yaralayip-kendini-eve-kilitledi-43374521",
+   "zaman": "2026-11-11T16:24:26+03:00",
+   "kelimeler": [
+    "adana",
+    "bicak",
+    "bogaz",
+    "eve",
+    "kendi",
+    "kilit",
+    "kisiy",
+    "korku",
+    "olay",
+    "tarti",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d7a5d28768c6": {
+   "id": "d7a5d28768c6",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'daki COP31 zirvesi için 58 bin personelle güvenlik önlemi",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, COP31 kapsamında Antalya merkez ve çevresindeki kuşak illerde toplam 58 bin personelin görev yaptığını belirterek, güvenlik tedbirlerinin kara, hava ve denizde kapsamlı şekilde planlandığını söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/antalyadaki-cop31-zirvesi-icin-58-bin-personelle-guvenlik-onlemi-962952.html",
+   "zaman": "2026-11-11T16:26:00+03:00",
+   "kelimeler": [
+    "58",
+    "antal",
+    "bin",
+    "cop31",
+    "daki",
+    "guven",
+    "onlem",
+    "perso",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fbd26c122144"
+  },
+  "915dda1a384b": {
+   "id": "915dda1a384b",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçdaroğlu'ndan Cafer Mahiroğlu hakkında suç duyurusu",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, iş insanı Cafer Mahiroğlu hakkında, sosyal medya paylaşımında kendisine yönelik \"hakaret, iftira ve halkı yanıltıcı bilgiyi alenen yayma\" suçlarını işlediği gerekçesiyle suç duyurusunda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-cafer-mahiroglu-hakkinda-suc-duyurusu-43374533",
+   "zaman": "2026-11-11T16:28:26+03:00",
+   "kelimeler": [
+    "cafer",
+    "duyur",
+    "hakki",
+    "kilic",
+    "mahir",
+    "ndan",
+    "suc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b5d878523bca": {
+   "id": "b5d878523bca",
+   "kaynak": "Hürriyet",
+   "baslik": "Silahı aniden başına doğrulttu: Bursa’da poligonda dehşet anları kamerada",
+   "ozet": "Bursa Nilüfer'de bir atış poligonunda silahı başına doğrultan kişiye atış eğitmeni müdahale etti. Hayat kurtaran o anlar güvenlik kamerasına yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/silahi-aniden-basina-dogrulttu-bursada-poligonda-dehset-anlari-kamerada-43374535",
+   "zaman": "2026-11-11T16:28:48+03:00",
+   "kelimeler": [
+    "anide",
+    "anlar",
+    "basin",
+    "bursa",
+    "dehse",
+    "dogru",
+    "kamer",
+    "polig",
+    "silah"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "948307bc0b64": {
+   "id": "948307bc0b64",
+   "kaynak": "AA",
+   "baslik": "Engelli Kamu Personeli Seçme Sınavı'nın branş bazında sıralamaları yayımlandı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca 2026 Engelli Kamu Personeli Seçme Sınavı'nın (2026-EKPSS) sonuçlarına göre adayların branş bazında sıralamaları yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/engelli-kamu-personeli-secme-sinavinin-brans-bazinda-siralamalari-yayimlandi/4120773",
+   "zaman": "2026-11-11T16:36:22+03:00",
+   "kelimeler": [
+    "bazin",
+    "brans",
+    "engel",
+    "kamu",
+    "nin",
+    "perso",
+    "secme",
+    "sinav",
+    "siral",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ec7e8adb048b": {
+   "id": "ec7e8adb048b",
+   "kaynak": "AA",
+   "baslik": "AB'den internet alışverişlerinde tüketicileri daha sıkı koruyacak düzenleme teklifi",
+   "ozet": "AB Komisyonu, internet alışverişlerinde tüketicileri yanıltan uygulamaların yasaklanmasını ve tüketici haklarını ihlal eden şirketlere küresel cirolarının yüzde 6'sına kadar para cezası verilmesini öngören yeni düzenleme teklifinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abden-internet-alisverislerinde-tuketicileri-daha-siki-koruyacak-duzenleme-teklifi/4120775",
+   "zaman": "2026-11-11T16:37:22+03:00",
+   "kelimeler": [
+    "ab",
+    "alisv",
+    "den",
+    "duzen",
+    "inter",
+    "koruy",
+    "siki",
+    "tekli",
+    "tuket"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 16:46:05  6 yeni haber",
   "11.11 16:35:00  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Filistinliler, vefatının 22. yılında Filistin davasının sembol ismi Ar",
   "11.11 16:31:58  7 yeni haber",
   "11.11 16:16:10  3 yeni haber",
@@ -33764,8 +33854,7 @@
   "09.11 14:46:03  3 yeni haber",
   "09.11 14:31:26  5 yeni haber",
   "09.11 14:17:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Öldürdüğü oğlu için \"terör örgütüne katıldı\" ihbarı yapmış",
-  "09.11 14:15:59  7 yeni haber",
-  "09.11 14:02:17  5 yeni haber"
+  "09.11 14:15:59  7 yeni haber"
  ],
  "otomatik": false
 }
