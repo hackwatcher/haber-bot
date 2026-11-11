@@ -34289,7 +34289,10 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1721ecd735bf": {
    "id": "1721ecd735bf",
@@ -34312,7 +34315,10 @@
     "yanit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2ff1f0799825": {
    "id": "2ff1f0799825",
@@ -34375,7 +34381,10 @@
     "sorum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "eb8a74062a28": {
    "id": "eb8a74062a28",
@@ -34507,7 +34516,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "1fdd5e4fc8ca": {
@@ -34549,9 +34559,162 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7547b2406d0c": {
+   "id": "7547b2406d0c",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran: İklim eyleminin ülkeler arasındaki mevcut eşitsizlikleri derinleştirmemesini sağlamalıyız",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, iklim diplomasisinin dış politikanın vazgeçilmez bir parçası, aynı zamanda küresel adalet meselesi haline geldiğini belirterek, \"En iyi iklim politikaları dahi toplum tarafından anlaşılmadan ve benimsenmeden başarıya ulaşamaz.",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-iklim-eyleminin-ulkeler-arasindaki-mevcut-esitsizlikleri-derinlestirmemesini-saglamaliyiz-43374851",
+   "zaman": "2026-11-11T20:37:46+03:00",
+   "kelimeler": [
+    "arasi",
+    "baska",
+    "derin",
+    "duran",
+    "esits",
+    "eylem",
+    "iklim",
+    "ileti",
+    "mevcu",
+    "sagla",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b4599114e388": {
+   "id": "b4599114e388",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Meclis Başkanı Kalibaf: ABD şu ana kadar İranın mesajına yanıt vermedi",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin yasal taleplerini içeren cevabını ABD tarafına açık ve net bir şekilde ilettiğini vurgulayarak, \"ABD şu ana kadar İranın mesajına yanıt vermedi.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-abd-su-ana-kadar-iranin-mesajina-yanit-vermedi-962964.html",
+   "zaman": "2026-11-11T20:41:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ana",
+    "baska",
+    "iran",
+    "irani",
+    "kalib",
+    "mecli",
+    "mesaj",
+    "su",
+    "verme",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1721ecd735bf"
+  },
+  "7189ca3b3f73": {
+   "id": "7189ca3b3f73",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'de yerinden edilmiş aileler çok az koruma ve şiddetli soğuklarla karşı karşıya",
+   "ozet": "Uluslararası Kızılhaç ve Kızılay Dernekleri Federasyonu IFRC, Gazze'de yerinden edilmiş ailelerin şiddetli soğuklarla karşı karşıya bulunduğunu belirterek, Filistinlilerin tek barınakları olan çadırların şiddetli yağmur, sel ve rüzgarlar nedeniyle yok olduğunu ifade etti.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-yerinden-edilmis-aileler-cok-az-koruma-ve-siddetli-soguklarla-karsi-karsiya-962965.html",
+   "zaman": "2026-11-11T20:43:00+03:00",
+   "kelimeler": [
+    "ailel",
+    "az",
+    "edilm",
+    "gazze",
+    "karsi",
+    "korum",
+    "sidde",
+    "soguk",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c183d74389eb"
+  },
+  "e4973e27b903": {
+   "id": "e4973e27b903",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan, Maldivler Cumhurbaşkanının eşi Mohamed ile bir araya geldi",
+   "ozet": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Maldivler Cumhurbaşkanının eşi Sajidha Mohamed ile görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-maldivler-cumhurbaskaninin-esi-mohamed-ile-bir-araya-geldi-43374865",
+   "zaman": "2026-11-11T20:50:11+03:00",
+   "kelimeler": [
+    "araya",
+    "cumhu",
+    "emine",
+    "erdog",
+    "esi",
+    "geldi",
+    "maldi",
+    "moham"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b58d9455fd25"
+  },
+  "c3dcd918a4bf": {
+   "id": "c3dcd918a4bf",
+   "kaynak": "NTV",
+   "baslik": "Emine Erdoğan'dan Küresel Sıfır Atık İttifakı açıklaması",
+   "ozet": "Cumhurbaşkanı Erdoğan'ın eşi Emine Erdoğan, tanıtımı yapılan Küresel Sıfır Atık İttifakı'nın, ortak sorumluluğu kalıcı işbirliklerine dönüştürme iradelerinin bir ifadesi olduğunu söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-kuresel-sifir-atik-ittifaki-aciklamasi-1750470",
+   "zaman": "2026-11-11T20:53:10+03:00",
+   "kelimeler": [
+    "acikl",
+    "atik",
+    "dan",
+    "emine",
+    "erdog",
+    "ittif",
+    "kures",
+    "sifir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a0e0a35eb4d8"
+  },
+  "e0a7d16a0d86": {
+   "id": "e0a7d16a0d86",
+   "kaynak": "Hürriyet",
+   "baslik": "MİT Başkanı Kalın, IKBY Başkanı Neçirvan Barzani ile görüştü",
+   "ozet": "ANKARA (AA) - Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Irak Kürt Bölgesel Yönetimi (IKBY) Başkanı Neçirvan Barzani ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mit-baskani-kalin-ikby-baskani-necirvan-barzani-ile-gorustu-43374870",
+   "zaman": "2026-11-11T20:53:33+03:00",
+   "kelimeler": [
+    "barza",
+    "baska",
+    "gorus",
+    "ikby",
+    "kalin",
+    "mit",
+    "necir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "55ae3d9125b0"
+  },
+  "6bead55fd93a": {
+   "id": "6bead55fd93a",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum'dan Sıfır Atık Mutfağı'na ilişkin paylaşım",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"COP31'de bugün Sıfır Atık günü. 7 Bölge 7 Mutfak'ta israfa yer yok, her malzemeye yeniden hayat var.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurumdan-sifir-atik-mutfagina-iliskin-paylasim-43374874",
+   "zaman": "2026-11-11T20:56:52+03:00",
+   "kelimeler": [
+    "atik",
+    "bakan",
+    "dan",
+    "ilisk",
+    "kurum",
+    "mutfa",
+    "na",
+    "payla",
+    "sifir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 21:01:30  2 yeni haber",
   "11.11 20:46:16  5 yeni haber",
   "11.11 20:31:17  2 yeni haber",
   "11.11 20:17:22  5 yeni haber",
@@ -34750,8 +34913,7 @@
   "09.11 15:48:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Bir anne tüm dünyayı değiştirebilir: \"Oğlum kazanmadan gelme\"",
   "09.11 15:46:06  7 yeni haber",
   "09.11 15:31:22  2 yeni haber",
-  "09.11 15:16:05  5 yeni haber",
-  "09.11 15:01:41  3 yeni haber"
+  "09.11 15:16:05  5 yeni haber"
  ],
  "otomatik": false
 }
