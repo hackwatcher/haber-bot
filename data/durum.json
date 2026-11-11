@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "d8e767f393b3": {
-   "id": "d8e767f393b3",
-   "kaynak": "AA",
-   "baslik": "Suudi Arabistan'ın Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sistemi devreye alındı",
-   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sisteminin tehlike alarmı verdiğini, daha sonra tehlikenin geçtiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-dammam-ahsa-ve-bukayk-kentlerinde-erken-uyari-sistemi-devreye-alindi/4115621",
-   "zaman": "2026-11-08T05:12:31+03:00",
-   "kelimeler": [
-    "ahsa",
-    "alind",
-    "arabi",
-    "bukay",
-    "damma",
-    "devre",
-    "erken",
-    "in",
-    "kentl",
-    "siste",
-    "suudi",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "d54b0ae638a5": {
-   "id": "d54b0ae638a5",
-   "kaynak": "NTV",
-   "baslik": "21 il için kar ve fırtına uyarısı. Yoğun kar yağışı var",
-   "ozet": "Ülkeye kış bu yıl her zamankinden daha erken geldi. Bazı noktalarda dün başlayan yoğun kar yağışı bugün de birçok ilde devam ediyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-21-il-icin-kar-ve-firtina-uyarisi-yogun-kar-yagisi-var-1749889",
-   "zaman": "2026-11-08T05:15:56+03:00",
-   "kelimeler": [
-    "21",
-    "firti",
-    "il",
-    "kar",
-    "uyari",
-    "yagis",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1c75c76f52cc": {
    "id": "1c75c76f52cc",
    "kaynak": "TRT Haber",
@@ -30207,9 +30161,45 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9eb9eb20cbd5": {
+   "id": "9eb9eb20cbd5",
+   "kaynak": "NTV",
+   "baslik": "Eyüpsultan'da gecekonduda yangın. Bir kişi hayatını kaybetti",
+   "ozet": "Eyüpsultan'da tek katlı metruk gecekonduda çıkan yangında 1 kişi hayatını kaybetti.",
+   "link": "https://www.ntv.com.tr/turkiye/eyupsultanda-gecekonduda-yangin-bir-kisi-hayatini-kaybetti-1750342",
+   "zaman": "2026-11-11T05:06:01+03:00",
+   "kelimeler": [
+    "eyups",
+    "gecek",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "317f282e38fd": {
+   "id": "317f282e38fd",
+   "kaynak": "Hürriyet",
+   "baslik": "Eyüpsultan’da gecekondu alev alev yandı: 1 ölü",
+   "ozet": "Eyüpsultan’da, gecekonduda çıkan yangın itfaiye ekipleri tarafından söndürüldü. Yangında 1 kişi hayatını kaybederken, çatısı çöken gecekondu kullanılamaz hale geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/eyupsultanda-gecekondu-alev-alev-yandi-1-olu-43373627",
+   "zaman": "2026-11-11T05:07:04+03:00",
+   "kelimeler": [
+    "alev",
+    "eyups",
+    "gecek",
+    "olu",
+    "yandi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 05:16:23  2 yeni haber",
   "11.11 04:46:11  1 yeni haber",
   "11.11 04:46:11  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "11.11 03:46:07  1 yeni haber",
@@ -30408,8 +30398,7 @@
   "09.11 02:31:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "09.11 01:32:56  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Bargello, Büyük Kasım indirimlerine özel 3 al, 2 öde kampanyası başlat",
   "09.11 01:31:25  2 yeni haber",
-  "09.11 01:16:07  1 yeni haber",
-  "09.11 01:01:25  1 yeni haber"
+  "09.11 01:16:07  1 yeni haber"
  ],
  "otomatik": false
 }
