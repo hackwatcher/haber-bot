@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "1b96a0a73045": {
-   "id": "1b96a0a73045",
-   "kaynak": "NTV",
-   "baslik": "Gümrüklerde 10 ayda 54 ton uyuşturucuya el konuldu",
-   "ozet": "Ticaret Bakanlığı gümrük muhafaza ekipleri tarafından ocak-ekim döneminde düzenlenen operasyonlarda, yaklaşık 54,5 ton uyuşturucu madde ele geçirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919",
-   "zaman": "2026-11-08T09:40:01+03:00",
-   "kelimeler": [
-    "10",
-    "54",
-    "ayda",
-    "el",
-    "gumru",
-    "konul",
-    "ton",
-    "uyust"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "76a7fb66f61b"
-  },
-  "01a98f901bf3": {
-   "id": "01a98f901bf3",
-   "kaynak": "TRT Haber",
-   "baslik": "Ekipler 54 ton uyuşturucunun yurda girişini engelledi",
-   "ozet": "Ticaret Bakanlığı Gümrük Muhafaza ekiplerince ocakekim döneminde düzenlenen operasyonlarda 54 ton 480 kilogram uyuşturucunun yanı sıra milyonlarca kaçak ürün ele geçirildi.",
-   "link": "https://www.trthaber.com/haber/gundem/ekipler-54-ton-uyusturucunun-yurda-girisini-engelledi-962574.html",
-   "zaman": "2026-11-08T09:42:00+03:00",
-   "kelimeler": [
-    "54",
-    "ekipl",
-    "engel",
-    "giris",
-    "ton",
-    "uyust",
-    "yurda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "348e82cb69d0": {
-   "id": "348e82cb69d0",
-   "kaynak": "AA",
-   "baslik": "Kırklareli Üniversitesi öğrencileri iklim projeleriyle COP31'de yer alacak",
-   "ozet": "Kırklareli Üniversitesi (KLÜ) öğrencileri, iklim krizi, sürdürülebilirlik ve çevre farkındalığı konularında hazırladıkları projelerle Antalya'da düzenlenecek COP31'de yer alacak.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kirklareli-universitesi-ogrencileri-iklim-projeleriyle-cop31de-yer-alacak/4115679",
-   "zaman": "2026-11-08T09:45:05+03:00",
-   "kelimeler": [
-    "alaca",
-    "cop31",
-    "iklim",
-    "kirkl",
-    "ogren",
-    "proje",
-    "unive",
-    "yer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0ee7fc4823a6": {
    "id": "0ee7fc4823a6",
    "kaynak": "TRT Haber",
@@ -15852,7 +15792,8 @@
     "sorgu"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "f41cc62abe4e": {
    "id": "f41cc62abe4e",
@@ -28872,7 +28813,10 @@
    "fb_id": null,
    "fb_reels_id": "2331950090953575",
    "slayt": 5,
-   "kanca": "Ekonomi"
+   "kanca": "Ekonomi",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "9517fe367d05": {
    "id": "9517fe367d05",
@@ -30708,8 +30652,20 @@
     "uc",
     "yunus"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ],
+   "paylasildi": "2026-11-11T09:48:27.928873+03:00",
+   "ig_id": "18126361594906224",
+   "reels_id": "18067313762791550",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1598823115600302",
+   "slayt": 5,
+   "kanca": "ÜÇ ÜST DÜZEY TUTUKLAMA"
   },
   "4b45c20b87d8": {
    "id": "4b45c20b87d8",
@@ -30754,7 +30710,10 @@
     "ta"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "5a25bb917094": {
    "id": "5a25bb917094",
@@ -30844,9 +30803,243 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "da998d3744b5": {
+   "id": "da998d3744b5",
+   "kaynak": "TRT Haber",
+   "baslik": "İki ödeme kuruluşunun faaliyet izni iptal edildi",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası TCMB, A Ödeme ve Elektronik Para Hizmetleri AŞ ile Ozan Elektronik Para AŞ'nin faaliyet iznini iptal etti.",
+   "link": "https://www.trthaber.com/haber/ekonomi/iki-odeme-kurulusunun-faaliyet-izni-iptal-edildi-962889.html",
+   "zaman": "2026-11-11T09:08:00+03:00",
+   "kelimeler": [
+    "edild",
+    "faali",
+    "iki",
+    "iptal",
+    "izni",
+    "kurul",
+    "odeme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "10277ed486f7": {
+   "id": "10277ed486f7",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında yeni gelişme: 3 kişi tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 7 şüpheliden 3'ü tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-3-kisi-tutuklandi-43373679",
+   "zaman": "2026-11-11T09:20:00+03:00",
+   "kelimeler": [
+    "fon",
+    "gelis",
+    "kisi",
+    "sorus",
+    "tutuk",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2936083e5276"
+  },
+  "1c4e3b11259a": {
+   "id": "1c4e3b11259a",
+   "kaynak": "Hürriyet",
+   "baslik": "Kripto hesaplar, araçlar ve konutlar: 15 ildeki yasa dışı bahis ağına kıskaç",
+   "ozet": "Adana merkezli yasa dışı bahis operasyonunda 12 milyar liralık devasa para trafiği deşifre edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kripto-hesaplar-araclar-ve-konutlar-15-ildeki-yasa-disi-bahis-agina-kiskac-43373678",
+   "zaman": "2026-11-11T09:21:21+03:00",
+   "kelimeler": [
+    "15",
+    "agina",
+    "aracl",
+    "bahis",
+    "disi",
+    "hesap",
+    "ildek",
+    "kiska",
+    "konut",
+    "kript",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a4911efc55a": {
+   "id": "1a4911efc55a",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere'de 1000 gün içinde savaşa hazır olma uyarısı",
+   "ozet": "İngiltere Lordlar Kamarası Sanayi ve Düzenleyiciler Komitesi tarafından yayımlanan raporda, hükümetin ülkeyi 1000 gün içinde olası bir savaşa hazır hale getirmek için savunma tedarik süreçlerini hızlandırması ve özel sektörle olan ilişkisini yeniden yapılandırması gerektiği…",
+   "link": "https://www.trthaber.com/haber/dunya/ingilterede-1000-gun-icinde-savasa-hazir-olma-uyarisi-962890.html",
+   "zaman": "2026-11-11T09:27:00+03:00",
+   "kelimeler": [
+    "1000",
+    "gun",
+    "hazir",
+    "icind",
+    "ingil",
+    "olma",
+    "savas",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a8860028bf23": {
+   "id": "a8860028bf23",
+   "kaynak": "AA",
+   "baslik": "Los Angeles'ta aracın kalabalığın arasına dalması sonucu 3 kişi hayatını kaybetti",
+   "ozet": "ABD'nin Los Angeles kentinin North Hollywood semtinde metro girişi yakınında aracın sokak satıcıları ve yayaların bulunduğu kalabalığın arasına dalması sonucu ilk belirlemelere göre 3 kişi hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/los-angelesta-aracin-kalabaligin-arasina-dalmasi-sonucu-3-kisi-hayatini-kaybetti/4119656",
+   "zaman": "2026-11-11T09:29:41+03:00",
+   "kelimeler": [
+    "angel",
+    "araci",
+    "arasi",
+    "dalma",
+    "hayat",
+    "kalab",
+    "kaybe",
+    "kisi",
+    "los",
+    "sonuc",
+    "ta"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "905fd01ec465"
+  },
+  "d4546d34946a": {
+   "id": "d4546d34946a",
+   "kaynak": "TRT Haber",
+   "baslik": "15 ilde yasa dışı bahis operasyonu: 38 zanlı tutuklandı",
+   "ozet": "Adana merkezli 15 ilde yasa dışı bahis ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarına yönelik soruşturma kapsamında gözaltına alınan 48 zanlıdan 38'i tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/15-ilde-yasa-disi-bahis-operasyonu-38-zanli-tutuklandi-962891.html",
+   "zaman": "2026-11-11T09:31:00+03:00",
+   "kelimeler": [
+    "15",
+    "38",
+    "bahis",
+    "disi",
+    "ilde",
+    "opera",
+    "tutuk",
+    "yasa",
+    "zanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d0daca26f6c4": {
+   "id": "d0daca26f6c4",
+   "kaynak": "AA",
+   "baslik": "TCMB, iki ödeme kuruluşunun faaliyet iznini iptal etti",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), A Ödeme ve Elektronik Para Hizmetleri AŞ ile Ozan Elektronik Para AŞ'nin faaliyet iznini iptal etti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-iki-odeme-kurulusunun-faaliyet-iznini-iptal-etti/4119659",
+   "zaman": "2026-11-11T09:33:40+03:00",
+   "kelimeler": [
+    "etti",
+    "faali",
+    "iki",
+    "iptal",
+    "iznin",
+    "kurul",
+    "odeme",
+    "tcmb"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "42162f1ef3f2"
+  },
+  "aaca74723086": {
+   "id": "aaca74723086",
+   "kaynak": "AA",
+   "baslik": "ABD'de Trump'ın BBC'ye açtığı 10 milyar dolarlık tazminat davasının devamına karar verildi",
+   "ozet": "ABD'de federal yargıç, Başkan Trump'ın, 2021 Kongre baskınına ilişkin konuşmasını bağlamından kopararak belgeselinde kullandığı ve eyalet yasalarını ihlal ettiği gerekçesiyle BBC'ye açtığı 10 milyar dolarlık tazminat davasının devamına hükmetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-trumpin-bbcye-actigi-10-milyar-dolarlik-tazminat-davasinin-devamina-karar-verildi/4119661",
+   "zaman": "2026-11-11T09:34:26+03:00",
+   "kelimeler": [
+    "10",
+    "abd",
+    "actig",
+    "bbc",
+    "davas",
+    "devam",
+    "dolar",
+    "in",
+    "karar",
+    "milya",
+    "tazmi",
+    "trump",
+    "veril",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7d5e43414956": {
+   "id": "7d5e43414956",
+   "kaynak": "NTV",
+   "baslik": "Ankara'dan Fransız araştırma gemisine izin çıktı",
+   "ozet": "Türkiye, Doğu Akdeniz'de elektrik hattı için çalışacak Fransız araştırma gemisine izin verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/ankaradan-fransiz-arastirma-gemisine-izin-cikti-1750383",
+   "zaman": "2026-11-11T09:43:47+03:00",
+   "kelimeler": [
+    "ankar",
+    "arast",
+    "cikti",
+    "dan",
+    "frans",
+    "gemis",
+    "izin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f2b2373a2fde": {
+   "id": "f2b2373a2fde",
+   "kaynak": "NTV",
+   "baslik": "VGM burs sonuçları sorgulama ekranı 2026. VGM yükseköğretim burs sonuçları açıklandı mı?",
+   "ozet": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü (VGM) tarafından üniversite öğrencilerine sağlanan 2026-2027 eğitim-öğretim yılı yükseköğretim burs başvuru değerlendirme sürecinde geri sayım başladı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-vgm-burs-sonuclari-sorgulama-ekrani-2026-vgm-yuksekogretim-burs-sonuclari-aciklandi-mi-1750380",
+   "zaman": "2026-11-11T09:43:50+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "burs",
+    "ekran",
+    "sonuc",
+    "sorgu",
+    "vgm",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b168441c6331"
+  },
+  "e83366c1450c": {
+   "id": "e83366c1450c",
+   "kaynak": "NTV",
+   "baslik": "Gökdelenin üzerinde tehlikeli anlar: Canını hiçe saydı",
+   "ozet": "İstanbul'da bir içerik üreticisi, Bağcılar'daki gökdelenin çatısında hiçbir güvenlik önlemi olmadan en uç noktaya kadar ilerleyerek video çekti.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-gokdelenin-uzerinde-tehlikeli-anlar-canini-hice-saydi-1750379",
+   "zaman": "2026-11-11T09:44:04+03:00",
+   "kelimeler": [
+    "anlar",
+    "canin",
+    "gokde",
+    "hice",
+    "saydi",
+    "tehli",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 09:48:27  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. Eski Takasbank Genel Müdürü Yunus Arıncı dahil üç ki",
+  "11.11 09:46:09  7 yeni haber",
   "11.11 09:31:19  4 yeni haber",
   "11.11 09:16:14  5 yeni haber",
   "11.11 09:01:48  3 yeni haber",
@@ -31044,9 +31237,7 @@
   "09.11 08:01:43  2 yeni haber",
   "09.11 07:45:58  2 yeni haber",
   "09.11 07:31:21  1 yeni haber",
-  "09.11 07:16:00  7 yeni haber",
-  "09.11 07:04:47  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Atatürk'ün Amerikan Halkına Hitabının tam hali yayınlandı.",
-  "09.11 07:01:43  1 yeni haber"
+  "09.11 07:16:00  7 yeni haber"
  ],
  "otomatik": false
 }
