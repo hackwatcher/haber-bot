@@ -216,31 +216,6 @@
    "oncelikli": false,
    "tekrar_of": "2681b86b3b9c"
   },
-  "41ed7e23d4da": {
-   "id": "41ed7e23d4da",
-   "kaynak": "AA",
-   "baslik": "İsrail askerleri, Batı Şeria'daki baskın sırasında 13 yaşındaki bir çocuğu göğsünden yaraladı",
-   "ozet": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Cenin kentinde 13 yaşındaki bir çocuğu göğsünden vurduğu belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-baskin-sirasinda-13-yasindaki-bir-cocugu-gogsunden-yaraladi/4116368",
-   "zaman": "2026-11-09T00:30:03+03:00",
-   "kelimeler": [
-    "13",
-    "asker",
-    "baski",
-    "bati",
-    "cocug",
-    "daki",
-    "gogsu",
-    "israi",
-    "seria",
-    "siras",
-    "yaral",
-    "yasin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "20a1fa058659"
-  },
   "0977d878b4cb": {
    "id": "0977d878b4cb",
    "kaynak": "AA",
@@ -18466,7 +18441,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "AA"
+    "AA",
+    "NTV"
    ]
   },
   "00e95f03685c": {
@@ -34993,7 +34969,8 @@
     "yenen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "89e99469e4ee": {
    "id": "89e99469e4ee",
@@ -35120,9 +35097,90 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d5d3cb1de280"
+  },
+  "dd166ce69b7b": {
+   "id": "dd166ce69b7b",
+   "kaynak": "XHABER",
+   "baslik": "Khabib'in kuzeni ve MMA dövüşçüsü Usman Nurmagomedov, kardeşini yenen UFC dövüşçüsü Merab Dvalishvili'ye saldırdı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30655",
+   "zaman": "2026-11-12T00:17:30+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Khabib'in kuzeni ve MMA dövüşçüsü Usman Nurmagomedov, kardeşini yenen UFC dövüşçüsü Merab Dvalishvili'ye saldırdı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/FWNAPrEJE3zuKgH6mszZLCugPh6C3d2_HYoS5JYO3HqiRUl0qLQRgRy-H2B-Wks94lvYckxCb3BGOuwZ5zmYVvHavugGKCag_mNuZ6r1sRJ2L1xliiP6vRkYJ4rcr2HDahGRfvgLtr8GTY9tifJUiEwIw7m-6DtR8cncPy35rjC3PtwQsKxIZWT-81hepZJctTjym8sGv4Aao0kKyaSDoSiq7eNkeH9yzQP8vdG7Zo3fYvPq8nLmc6enU_h0g2o_221Ej7NWckhqKL695PpCSlg-_O-V9qKRXrySgd1mUUm2Zj7cowAA9YPeTVrS1znKQwgxgi-51XekL-zhgBpCfA",
+   "tg_video_url": "",
+   "kelimeler": [
+    "dovus",
+    "dvali",
+    "in",
+    "karde",
+    "khabi",
+    "kuzen",
+    "merab",
+    "mma",
+    "nurma",
+    "saldi",
+    "ufc",
+    "usman",
+    "ye",
+    "yenen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fa421881e6e5"
+  },
+  "16e025e8c148": {
+   "id": "16e025e8c148",
+   "kaynak": "TRT Haber",
+   "baslik": "BM: 150 binden fazla çadır Gazze dışında sevk edilmeye hazır durumda bekletiliyor",
+   "ozet": "Birleşmiş Milletler BM, 6 Kasım'dan bu yana etkili olan yağış nedeniyle on binlerce çadırın sular altında kaldığı Gazze için temin edilen 150 binden fazla çadırın Gazze dışında sevk edilmeye hazır halde bekletildiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-150-binden-fazla-cadir-gazze-disinda-sevk-edilmeye-hazir-durumda-bekletiliyor-962980.html",
+   "zaman": "2026-11-12T00:21:00+03:00",
+   "kelimeler": [
+    "150",
+    "bekle",
+    "binde",
+    "bm",
+    "cadir",
+    "disin",
+    "durum",
+    "edilm",
+    "fazla",
+    "gazze",
+    "hazir",
+    "sevk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15143746a3e9": {
+   "id": "15143746a3e9",
+   "kaynak": "NTV",
+   "baslik": "İngiltere Kralı 3. Charles'tan COP31 mesajı. Cumhurbaşkanı Erdoğan ve Türk halkıan teşekkür etti",
+   "ozet": "İngiltere Kralı 3. Charles, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne mesaj gönderdi.",
+   "link": "https://www.ntv.com.tr/turkiye/ingiltere-krali-3-charlestan-cop31-mesaji-cumhurbaskani-erdogan-ve-turk-halkian-tesekkur-etti-1750485",
+   "zaman": "2026-11-12T00:29:57+03:00",
+   "kelimeler": [
+    "charl",
+    "cop31",
+    "cumhu",
+    "erdog",
+    "etti",
+    "halki",
+    "ingil",
+    "krali",
+    "mesaj",
+    "tan",
+    "tesek",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f625a268de60"
   }
  },
  "kayit": [
+  "12.11 00:31:21  1 yeni haber",
   "12.11 00:16:06  1 yeni haber",
   "12.11 00:04:03  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Merkez Bankası kredi büyüme sınırlarını yükseltti",
   "12.11 00:01:42  8 yeni haber",
@@ -35321,8 +35379,7 @@
   "09.11 18:46:02  9 yeni haber",
   "09.11 18:16:04  2 yeni haber",
   "09.11 18:16:04  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 18:01:38  5 yeni haber",
-  "09.11 17:48:46  3 yeni haber"
+  "09.11 18:01:38  5 yeni haber"
  ],
  "otomatik": false
 }
