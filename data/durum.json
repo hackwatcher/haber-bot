@@ -18179,7 +18179,8 @@
     "veris"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e63511a4e5c0": {
    "id": "e63511a4e5c0",
@@ -30690,10 +30691,168 @@
     "york"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "10b12b801a9d": {
+   "id": "10b12b801a9d",
+   "kaynak": "Hürriyet",
+   "baslik": "Yasak bölgeden toplamışlardı: Sahilde bulunan 3,5 ton kum şırlanı yeniden denize döküldü",
+   "ozet": "Bursa’da kaçak su ürünleri avcılarına yönelik ortak denetim gerçekleştirildi. Kıyıda sahipsiz halde ele geçirilen 3,5 tonluk canlı kum şırlanı, ekiplerin hummalı çalışmasıyla doğal yaşam alanına geri kazandırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yasak-bolgeden-toplamislardi-sahilde-bulunan-3-5-ton-kum-sirlani-yeniden-denize-dokuldu-43373651",
+   "zaman": "2026-11-11T08:57:36+03:00",
+   "kelimeler": [
+    "bolge",
+    "bulun",
+    "deniz",
+    "dokul",
+    "kum",
+    "sahil",
+    "sirla",
+    "ton",
+    "topla",
+    "yasak",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f2bac61c7b2b": {
+   "id": "f2bac61c7b2b",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da suç örgütüne yönelik operasyon: 23 şüpheli yakalandı",
+   "ozet": "İstanbul'da düzenlenen suç örgütü operasyonunda, alıkoyma ve tehdit suçlarını işledikleri iddiasıyla 23 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-suc-orgutune-yonelik-operasyon-23-supheli-yakalandi-43373655",
+   "zaman": "2026-11-11T08:59:53+03:00",
+   "kelimeler": [
+    "23",
+    "istan",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe",
+    "yakal",
+    "yonel"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "709b96c36774": {
+   "id": "709b96c36774",
+   "kaynak": "TRT Haber",
+   "baslik": "New York Times: ABD Hazine Bakanı Bessent, İran tehdidi nedeniyle askeri üsse taşındı",
+   "ozet": "ABD Hazine Bakanı Scott Bessent'in, İran'dan gelen tehditler nedeniyle başkent Washington'daki evinden bir askeri üsse taşındığı öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html",
+   "zaman": "2026-11-11T09:02:00+03:00",
+   "kelimeler": [
+    "abd",
+    "asker",
+    "bakan",
+    "besse",
+    "hazin",
+    "iran",
+    "neden",
+    "new",
+    "tasin",
+    "tehdi",
+    "times",
+    "usse",
+    "york"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7892cba8578"
+  },
+  "87dd0b9fcc8a": {
+   "id": "87dd0b9fcc8a",
+   "kaynak": "AA",
+   "baslik": "Sürdürülebilir yatırım finansmanında bankaların rolü artıyor",
+   "ozet": "QNB Türkiye Genel Müdürü Ömür Tan, bankaların iklim finansmanının önemli aktörlerinden olduğunu belirterek, \"Enerji dönüşümünün başarıya ulaşması için finans kuruluşlarının yatırım süreçlerinde aktif rol alması gerekiyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/surdurulebilir-yatirim-finansmaninda-bankalarin-rolu-artiyor/4119638",
+   "zaman": "2026-11-11T09:04:41+03:00",
+   "kelimeler": [
+    "artiy",
+    "banka",
+    "finan",
+    "rolu",
+    "surdu",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b682295287bd": {
+   "id": "b682295287bd",
+   "kaynak": "NTV",
+   "baslik": "İBB'den D-100 uyarısı: Kilit kavşakta sol şeritler kapanacak",
+   "ozet": "İstanbul'da D-100 Karayolu'nda Göztepe Köprülü Kavşağı'nda yapılacak çalışmalar nedeniyle trafik düzenlemesine gidilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-ibbden-d-100-uyarisi-kilit-kavsakta-sol-seritler-kapanacak-1750374",
+   "zaman": "2026-11-11T09:07:53+03:00",
+   "kelimeler": [
+    "100",
+    "den",
+    "ibb",
+    "kapan",
+    "kavsa",
+    "kilit",
+    "serit",
+    "sol",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cc01b601f8b2": {
+   "id": "cc01b601f8b2",
+   "kaynak": "AA",
+   "baslik": "Küresel piyasalar ABD'de açıklanan enflasyon verisi sonrası karışık seyrediyor",
+   "ozet": "Küresel piyasalar, teknoloji şirketlerine ilişkin iyimserliğe karşın ABD'de beklentilerin üzerinde gelen enflasyon verisinin ABD Merkez Bankasının (Fed) gelecek ay faiz artıracağı yönündeki beklentileri güçlendirmesiyle karışık seyrediyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abdde-aciklanan-enflasyon-verisi-sonrasi-karisik-seyrediyor/4119645",
+   "zaman": "2026-11-11T09:11:48+03:00",
+   "kelimeler": [
+    "abd",
+    "acikl",
+    "enfla",
+    "karis",
+    "kures",
+    "piyas",
+    "seyre",
+    "sonra",
+    "veris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "da5ad1299eb9"
+  },
+  "2936083e5276": {
+   "id": "2936083e5276",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturması. Eski Takasbank Genel Müdürü Yunus Arıncı dahil üç kişi tutuklandı",
+   "ozet": "Fon soruşturmasında eski Takasbank Genel Müdürü Yunus Arıncı, OMG Capital Advisors Yönetim Kurulu Başkanı Murat Ömer Gülkan, Adil Katılım Bankası Kurucu Ortağı Ali Paslı tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-eski-takasbank-genel-muduru-yunus-arinci-dahil-uc-kisi-tutuklandi-1750376",
+   "zaman": "2026-11-11T09:14:21+03:00",
+   "kelimeler": [
+    "arinc",
+    "dahil",
+    "eski",
+    "fon",
+    "genel",
+    "kisi",
+    "mudur",
+    "sorus",
+    "takas",
+    "tutuk",
+    "uc",
+    "yunus"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "11.11 09:16:14  5 yeni haber",
   "11.11 09:01:48  3 yeni haber",
   "11.11 08:31:47  2 yeni haber",
   "11.11 08:19:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türkiye ATA’sını saygı, özlem ve minnetle andı",
@@ -30892,8 +31051,7 @@
   "09.11 07:16:00  7 yeni haber",
   "09.11 07:04:47  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Atatürk'ün Amerikan Halkına Hitabının tam hali yayınlandı.",
   "09.11 07:01:43  1 yeni haber",
-  "09.11 06:31:15  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 06:01:29  1 yeni haber"
+  "09.11 06:31:15  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
