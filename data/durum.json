@@ -1,58 +1,5 @@
 {
  "haberler": {
-  "0ee7fc4823a6": {
-   "id": "0ee7fc4823a6",
-   "kaynak": "TRT Haber",
-   "baslik": "Japonya'da 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı",
-   "ozet": "Japonya'nın orta kesimlerinde meydana gelen 5,7 büyüklüğündeki depremde Aiçi ve Şizuoka eyaletlerinde 20'den fazla kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/japonyada-57-buyuklugundeki-depremde-20den-fazla-kisi-yaralandi-962575.html",
-   "zaman": "2026-11-08T09:48:00+03:00",
-   "kelimeler": [
-    "20",
-    "buyuk",
-    "den",
-    "depre",
-    "fazla",
-    "japon",
-    "kisi",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "ac12d0fb128b"
-  },
-  "2771c50fa328": {
-   "id": "2771c50fa328",
-   "kaynak": "Hürriyet",
-   "baslik": "AK Parti Sözcüsü Çelik'ten Van'da hayatını kaybedenler için başsağlığı mesajı",
-   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Van'da tır ile minibüsün çarpıştığı kazada hayatını kaybedenlere Allah'tan rahmet, yakınlarına başsağlığı ve yaralılara acil şifa diledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-vanda-hayatini-kaybedenler-icin-bassagligi-mesaji-43370144",
-   "zaman": "2026-11-08T10:01:00+03:00",
-   "kelimeler": [
-    "ak",
-    "bassa",
-    "celik",
-    "hayat",
-    "kaybe",
-    "mesaj",
-    "parti",
-    "sozcu",
-    "ten",
-    "van"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-08T10:48:35.888685+03:00",
-   "ig_id": "18179539444450526",
-   "reels_id": "17897886747455118",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1640298031224708",
-   "slayt": 4,
-   "kanca": "VAN'DA TRAFİK KAZASI",
-   "diger_kaynaklar": []
-  },
   "03d04a434ec1": {
    "id": "03d04a434ec1",
    "kaynak": "NTV",
@@ -30975,7 +30922,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7d5e43414956": {
    "id": "7d5e43414956",
@@ -31035,9 +30985,233 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d690218ba0f7": {
+   "id": "d690218ba0f7",
+   "kaynak": "AA",
+   "baslik": "Aqua Florya Sailing Cup 5. kez yelken açtı",
+   "ozet": "Aqua Florya Alışveriş Merkezi (AVM) tarafından bu yıl 5'incisi düzenlenen Aqua Florya Sailing Cup yelken yarışı, İstanbul'da gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/spor/aqua-florya-sailing-cup-5-kez-yelken-acti/4119472",
+   "zaman": "2026-11-10T21:49:23+03:00",
+   "kelimeler": [
+    "acti",
+    "aqua",
+    "cup",
+    "flory",
+    "kez",
+    "saili",
+    "yelke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e38e72ddf19f": {
+   "id": "e38e72ddf19f",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de Trump'ın BBC'ye açtığı 10 milyar dolarlık tazminat davasının devamına karar verildi",
+   "ozet": "ABD'de federal yargıç, Başkan Donald Trump'ın, 2021 Kongre baskınına ilişkin konuşmasını bağlamından kopararak belgeselinde kullandığı ve eyalet yasalarını ihlal ettiği gerekçesiyle BBC'ye açtığı 10 milyar dolarlık tazminat davasının devam etmesine hükmetti.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-trumpin-bbcye-actigi-10-milyar-dolarlik-tazminat-davasinin-devamina-karar-verildi-962896.html",
+   "zaman": "2026-11-11T09:22:00+03:00",
+   "kelimeler": [
+    "10",
+    "abd",
+    "actig",
+    "bbc",
+    "davas",
+    "devam",
+    "dolar",
+    "in",
+    "karar",
+    "milya",
+    "tazmi",
+    "trump",
+    "veril",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "aaca74723086"
+  },
+  "9db8b1dc5f6a": {
+   "id": "9db8b1dc5f6a",
+   "kaynak": "TRT Haber",
+   "baslik": "Güney Kore'de otobüsün 32 araca çarptığı kazada en az 48 kişi yaralandı",
+   "ozet": "Güney Kore'nin başkenti Seul'ün güneyindeki Seongnam bölgesinde bir otobüsün 32 araca çarpması sonucu en az 48 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/guney-korede-otobusun-32-araca-carptigi-kazada-en-az-48-kisi-yaralandi-962892.html",
+   "zaman": "2026-11-11T09:28:00+03:00",
+   "kelimeler": [
+    "32",
+    "48",
+    "araca",
+    "az",
+    "carpt",
+    "guney",
+    "kazad",
+    "kisi",
+    "kore",
+    "otobu",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6083c33bcb9d": {
+   "id": "6083c33bcb9d",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında yükseliş: Gram altın 6 bin 651 lira oldu",
+   "ozet": "Gram altın, dün yüzde 2,58 değer kaybederek 6 bin 509 liradan kapanmasının ardından yeni güne yükselişle başladı. Gram altın saat 09.35 itibarıyla yüzde 0,60 artışla 6 bin 651 liradan işlem görürken, çeyrek altın 10 bin 791 liradan, Cumhuriyet altını 42 bin 955 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-yukselis-gram-altin-6-bin-651-lira-oldu-962893.html",
+   "zaman": "2026-11-11T09:43:00+03:00",
+   "kelimeler": [
+    "651",
+    "altin",
+    "bin",
+    "fiyat",
+    "gram",
+    "lira",
+    "yukse"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "9083eb477a36": {
+   "id": "9083eb477a36",
+   "kaynak": "TRT Haber",
+   "baslik": "Brent petrolün varili 92,58 dolardan işlem görüyor",
+   "ozet": "Brent petrolün varili, uluslararası vadeli piyasalarda 92,58 dolardan işlem görüyor.",
+   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9258-dolardan-islem-goruyor-962894.html",
+   "zaman": "2026-11-11T09:46:00+03:00",
+   "kelimeler": [
+    "58",
+    "92",
+    "brent",
+    "dolar",
+    "goruy",
+    "islem",
+    "petro",
+    "varil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "414402b45ff6": {
+   "id": "414402b45ff6",
+   "kaynak": "AA",
+   "baslik": "ABD'nin ilk Müslüman senatörü seçilen Sayed'den Savunma Bakanı Hegseth'e istifa çağrısı",
+   "ozet": "ABD'de 3 Kasım'da yapılan ara seçimlerde ülke tarihinin ilk Müslüman senatörü seçilen Mısır kökenli Abdul el-Sayed, Savunma Bakanı Pete Hegseth'in İran'la savaşı kötü yönettiğini belirterek, Hegseth'e görevinden istifa etmesi çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-savunma-bakani-hegsethe-istifa-cagrisi/4119675",
+   "zaman": "2026-11-11T09:47:29+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "cagri",
+    "den",
+    "hegse",
+    "ilk",
+    "istif",
+    "muslu",
+    "nin",
+    "savun",
+    "sayed",
+    "secil",
+    "senat"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "e6fc0adb9725": {
+   "id": "e6fc0adb9725",
+   "kaynak": "NTV",
+   "baslik": "İklim Sözlüğü NTV'de",
+   "ozet": "İklim değişikliği ve küresel ısınma gibi önemli konular, NTV ekranlarında yayınlanacak İklim Sözlüğü'nde ele alınacak.",
+   "link": "https://www.ntv.com.tr/turkiye/iklim-sozlugu-ntvde-1750382",
+   "zaman": "2026-11-11T09:48:55+03:00",
+   "kelimeler": [
+    "iklim",
+    "ntv",
+    "sozlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fb3013f0657b"
+  },
+  "c9d1a6e32015": {
+   "id": "c9d1a6e32015",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin ilk Müslüman senatörü seçilen Sayed'den Savunma Bakanı Hegseth'e istifa çağrısı",
+   "ozet": "ABD'de 3 Kasım'da yapılan ara seçimlerde ülke tarihinin ilk Müslüman senatörü seçilen Mısır kökenli Abdul elSayed, Savunma Bakanı Pete Hegseth'in İran'la savaşı kötü yönettiğini belirterek, Hegseth'e görevinden istifa etmesi çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-savunma-bakani-hegsethe-istifa-cagrisi-962895.html",
+   "zaman": "2026-11-11T09:51:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bakan",
+    "cagri",
+    "den",
+    "hegse",
+    "ilk",
+    "istif",
+    "muslu",
+    "nin",
+    "savun",
+    "sayed",
+    "secil",
+    "senat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "414402b45ff6"
+  },
+  "6397cade3ad9": {
+   "id": "6397cade3ad9",
+   "kaynak": "AA",
+   "baslik": "Türkiye-AB ticaretinde elektronik imzaların karşılıklı tanınması için niyet beyanı",
+   "ozet": "Ticaret Bakanlığı, Türkiye ile Avrupa Birliği (AB) arasında ekonomik ve ticari ilişkilerin dijital altyapısının güçlendirilmesi amacıyla elektronik imza ve mühürlerin karşılıklı tanınmasına yönelik işbirliğinde yeni bir sürecin başladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ab-ticaretinde-elektronik-imzalarin-karsilikli-taninmasi-icin-niyet-beyani-/4119683",
+   "zaman": "2026-11-11T09:54:52+03:00",
+   "kelimeler": [
+    "ab",
+    "beyan",
+    "elekt",
+    "imzal",
+    "karsi",
+    "niyet",
+    "tanin",
+    "ticar",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cfb9a4e1a9ce": {
+   "id": "cfb9a4e1a9ce",
+   "kaynak": "Hürriyet",
+   "baslik": "Uçurumun kenarında bulduğu domatesi \"gerçek hazine\" ilan etti: İştah kabartan o anlar kamerada",
+   "ozet": "Hatay'da dağ yürüyüşüne çıkan Musa Başar, kayalıkların arasında kendiliğinden yetişen domatesi görünce gözlerine inanamadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ucurumun-kenarinda-buldugu-domatesi-gercek-hazine-ilan-etti-istah-kabartan-o-anlar-kamerada-43373740",
+   "zaman": "2026-11-11T09:56:42+03:00",
+   "kelimeler": [
+    "anlar",
+    "buldu",
+    "domat",
+    "etti",
+    "gerce",
+    "hazin",
+    "ilan",
+    "istah",
+    "kabar",
+    "kamer",
+    "kenar",
+    "ucuru"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "11.11 10:01:33  7 yeni haber",
   "11.11 09:48:27  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Fon soruşturması. Eski Takasbank Genel Müdürü Yunus Arıncı dahil üç ki",
   "11.11 09:46:09  7 yeni haber",
   "11.11 09:31:19  4 yeni haber",
@@ -31236,8 +31410,7 @@
   "09.11 08:16:18  4 yeni haber",
   "09.11 08:01:43  2 yeni haber",
   "09.11 07:45:58  2 yeni haber",
-  "09.11 07:31:21  1 yeni haber",
-  "09.11 07:16:00  7 yeni haber"
+  "09.11 07:31:21  1 yeni haber"
  ],
  "otomatik": false
 }
