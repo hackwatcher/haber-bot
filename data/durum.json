@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "8f82eee4fb3d": {
-   "id": "8f82eee4fb3d",
-   "kaynak": "NTV",
-   "baslik": "ABD Başkanı Trump: Savaşın bitişine dair olumluyuz",
-   "ozet": "ABD Başkanı Donald Trump, Katar başbakanı El Sani ile görüştü. \"Görüşme mükemmel geçti, çatışmanın sona ermesine dair olumlu bir ivme görüyoruz.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-1750175",
-   "zaman": "2026-11-10T02:21:47+03:00",
-   "kelimeler": [
-    "abd",
-    "baska",
-    "bitis",
-    "dair",
-    "oluml",
-    "savas",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4b418842ba40": {
    "id": "4b418842ba40",
    "kaynak": "XHABER",
@@ -20289,7 +20270,10 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3f47b2935445": {
    "id": "3f47b2935445",
@@ -37459,9 +37443,54 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "dfd6eed44f14"
+  },
+  "5bb3bb95d693": {
+   "id": "5bb3bb95d693",
+   "kaynak": "AA",
+   "baslik": "Uzmanından \"mevzuata uygun tasarlansa da yapıya müdahalelerde yıkım kaçınılmaz\" uyarısı",
+   "ozet": "Düzce Üniversitesi Deprem Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Mehmet Emin Arslan, mevzuata uygun inşa edilse de yapıların depremlerde yıkılmasının nedenlerinden birinin kolon kesilmesi gibi müdahaleler olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uzmanindan-mevzuata-uygun-tasarlansa-da-yapiya-mudahalelerde-yikim-kacinilmaz-uyarisi/4123482",
+   "zaman": "2026-11-12T23:59:43+03:00",
+   "kelimeler": [
+    "kacin",
+    "mevzu",
+    "mudah",
+    "tasar",
+    "uyari",
+    "uygun",
+    "uzman",
+    "yapiy",
+    "yikim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2e1142c1a6db": {
+   "id": "2e1142c1a6db",
+   "kaynak": "AA",
+   "baslik": "Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını söyledi",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını kaydetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyayla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagini-soyledi/4123552",
+   "zaman": "2026-11-13T02:14:31+03:00",
+   "kelimeler": [
+    "buyuk",
+    "esir",
+    "kadar",
+    "rusya",
+    "simdi",
+    "soyle",
+    "takas",
+    "yapil",
+    "yla",
+    "zelen"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1049d1952ad1"
   }
  },
  "kayit": [
+  "13.11 02:31:56  1 yeni haber",
   "13.11 02:16:08  4 yeni haber",
   "13.11 02:01:48  2 yeni haber",
   "13.11 01:46:22  1 yeni haber",
@@ -37660,8 +37689,7 @@
   "11.11 01:01:33  8 yeni haber",
   "11.11 00:46:01  1 yeni haber",
   "11.11 00:34:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 50 metrelik uçuruma yuvarlanan otomobilden sağ kurtuldular",
-  "11.11 00:32:05  2 yeni haber",
-  "11.11 00:16:03  2 yeni haber"
+  "11.11 00:32:05  2 yeni haber"
  ],
  "otomatik": false
 }
