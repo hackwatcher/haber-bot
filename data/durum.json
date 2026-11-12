@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "dd3dfd62fe69": {
-   "id": "dd3dfd62fe69",
-   "kaynak": "BBC Türkçe",
-   "baslik": "İBB davasında söz alan Murat Çalık: 'Yaşam hakkımın korunmasını istiyorum'",
-   "ozet": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasının üçüncü celsesi devam ediyor. Celsenin beşinci gününde, Beylikdüzü Belediye Başkanı iken tutuklanan Murat Çalık söz alarak tahliyesini talep etti.",
-   "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no",
-   "zaman": "2026-11-09T17:01:31+03:00",
-   "kelimeler": [
-    "alan",
-    "calik",
-    "davas",
-    "hakki",
-    "ibb",
-    "istiy",
-    "korun",
-    "murat",
-    "soz",
-    "yasam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b3c0c4f6aa52": {
-   "id": "b3c0c4f6aa52",
-   "kaynak": "Hürriyet",
-   "baslik": "Kılıçlı yemin töreni yapan 5 teğmene iftira davası",
-   "ozet": "Kara Harp Okulu mezuniyet töreninin ardından kılıçlı yemin etmeleri nedeniyle Türk Silahlı Kuvvetleri'nden (TSK) ihraç edilen 5 teğmen hakkında, Yüksek Disiplin Kurulu üyelerine baskı yapılarak oylarının değiştirildiği iddiasıyla yaptıkları suç duyurusu sonrası 'iftira' suçundan…",
-   "link": "https://www.hurriyet.com.tr/gundem/kilicli-yemin-toreni-yapan-5-tegmene-iftira-davasi-43371842",
-   "zaman": "2026-11-09T17:02:48+03:00",
-   "kelimeler": [
-    "davas",
-    "iftir",
-    "kilic",
-    "tegme",
-    "toren",
-    "yapan",
-    "yemin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "22b868f4207c": {
-   "id": "22b868f4207c",
-   "kaynak": "NTV",
-   "baslik": "İzmir'de fabrikada patlama. Fotoğraflarla patlama bölgesinde son durum",
-   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 10 kişi hayatını kaybetti, dördü ağır 15 kişi yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-izmirde-fabrikada-patlama-fotograflarla-patlama-bolgesinde-son-durum-1750150",
-   "zaman": "2026-11-09T17:03:08+03:00",
-   "kelimeler": [
-    "bolge",
-    "durum",
-    "fabri",
-    "fotog",
-    "izmir",
-    "patla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c2b6cfc88c93": {
    "id": "c2b6cfc88c93",
    "kaynak": "AA",
@@ -30161,7 +30101,10 @@
    "fb_id": null,
    "fb_reels_id": "1680072520151658",
    "slayt": 4,
-   "kanca": "RESMİ GAZETE YAYIMLANDI"
+   "kanca": "RESMİ GAZETE YAYIMLANDI",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "128cfd8b5e76": {
    "id": "128cfd8b5e76",
@@ -36493,9 +36436,230 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e2afbd78e988": {
+   "id": "e2afbd78e988",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (12 Kasım 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-12-kasim-2026/4122538",
+   "zaman": "2026-11-12T15:36:36+03:00",
+   "kelimeler": [
+    "12",
+    "2026",
+    "60",
+    "bugun",
+    "kasim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b5defde17518"
+  },
+  "075b42f00849": {
+   "id": "075b42f00849",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, Zimbabve Devlet Başkan Yardımcısı Chiwenga ile görüştü",
+   "ozet": "Cumhurbaşkanı Yardımcısı Yılmaz, Antalya'da düzenlenen COP31 kapsamında Zimbabve Devlet Başkan Yardımcısı Chiwenga ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-zimbabve-devlet-baskan-yardimcisi-chiwenga-ile-gorustu/4122642",
+   "zaman": "2026-11-12T16:31:04+03:00",
+   "kelimeler": [
+    "baska",
+    "chiwe",
+    "cumhu",
+    "devle",
+    "gorus",
+    "yardi",
+    "yilma",
+    "zimba"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "187dce66f62b": {
+   "id": "187dce66f62b",
+   "kaynak": "AA",
+   "baslik": "Bakan Kacır, Brezilyalı ve Bangladeşli bakanlarla görüştü",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) için bulunduğu Antalya'da Brezilyalı ve Bangladeşli bakanlarla bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-brezilyali-ve-bangladesli-bakanlarla-gorustu/4122706",
+   "zaman": "2026-11-12T16:48:10+03:00",
+   "kelimeler": [
+    "bakan",
+    "bangl",
+    "brezi",
+    "gorus",
+    "kacir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d916fa896809": {
+   "id": "d916fa896809",
+   "kaynak": "TRT Haber",
+   "baslik": "Hac organizasyonları dolayısıyla Diyanet İşleri Başkanlığı'na ödül verildi",
+   "ozet": "Diyanet İşleri Başkanlığı, 2027 hac organizasyonu hazırlıkları kapsamında yürüttüğü çalışmalardan dolayı ödüle layık görüldü.",
+   "link": "https://www.trthaber.com/haber/gundem/hac-organizasyonlari-dolayisiyla-diyanet-isleri-baskanligina-odul-verildi-963086.html",
+   "zaman": "2026-11-12T16:51:00+03:00",
+   "kelimeler": [
+    "baska",
+    "diyan",
+    "dolay",
+    "hac",
+    "isler",
+    "na",
+    "odul",
+    "organ",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0c60ba8357d4": {
+   "id": "0c60ba8357d4",
+   "kaynak": "Hürriyet",
+   "baslik": "İçişleri Bakan Yardımcısı Yiğitbaşı İGEF'26'da konuştu: Türkiye teknolojiyi ithal eden değil ihraç eden bir yapıya geçti",
+   "ozet": "Ankara ATO Congresium'da düzenlenen 3. Uluslararası İç Güvenlik Ekipmanları Fuarı'nın açılışında konuşan İçişleri Bakan Yardımcısı Kübra Güran Yiğitbaşı, Türkiye'nin son 20 yılda savunma sanayisi ve teknoloji altyapısında kapsamlı bir ilerleme kaydettiğini belirtti.",
+   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakan-yardimcisi-yigitbasi-igef26da-konustu-turkiye-teknolojiyi-ithal-eden-degil-ihrac-eden-bir-yapiya-gecti-43376004",
+   "zaman": "2026-11-12T16:54:16+03:00",
+   "kelimeler": [
+    "26",
+    "bakan",
+    "degil",
+    "eden",
+    "gecti",
+    "icisl",
+    "igef",
+    "ihrac",
+    "ithal",
+    "konus",
+    "tekno",
+    "turki",
+    "yapiy",
+    "yardi",
+    "yigit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "84e19df0e866": {
+   "id": "84e19df0e866",
+   "kaynak": "TRT Haber",
+   "baslik": "Jensen Huang Nvidia CEO'luğundan istifa etti",
+   "ozet": "Nvidia CEO'su Jensen Huang, hakkındaki skandalın ardından görevinden ayrıldı. Şirketin CFO'su Colette Kress, geçici CEO olarak görevlendirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/jensen-huang-nvidia-ceolugundan-istifa-etti-963087.html",
+   "zaman": "2026-11-12T17:00:00+03:00",
+   "kelimeler": [
+    "ceo",
+    "etti",
+    "huang",
+    "istif",
+    "jense",
+    "lugun",
+    "nvidi"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-12T17:18:49.768616+03:00",
+   "ig_id": "18188775295421854",
+   "reels_id": "18072805994782135",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1612695270871245",
+   "slayt": 4,
+   "kanca": "NVIDIA CEO'SU İSTİFA ETTİ"
+  },
+  "cbaf958526d7": {
+   "id": "cbaf958526d7",
+   "kaynak": "Hürriyet",
+   "baslik": "Kara yolunda korku dolu anlar: Seyir halindeki otobüs alev alev yandı",
+   "ozet": "Zonguldak'ın Devrek ilçesinde seyir halindeyken alev alan yolcu otobüsü kullanılamaz hale geldi. Otobüste bulunan yolcuların yangın büyümeden tahliye edildiği öğrenidli.",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-yolunda-korku-dolu-anlar-seyir-halindeki-otobus-alev-alev-yandi-43376017",
+   "zaman": "2026-11-12T17:01:00+03:00",
+   "kelimeler": [
+    "alev",
+    "anlar",
+    "dolu",
+    "halin",
+    "kara",
+    "korku",
+    "otobu",
+    "seyir",
+    "yandi",
+    "yolun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8615c85e17dc": {
+   "id": "8615c85e17dc",
+   "kaynak": "AA",
+   "baslik": "Özbekistan'ın Ankara Büyükelçisi Haydarov, Türk şirketleriyle işbirliğini geliştirmek istediklerini söyledi",
+   "ozet": "Özbekistan'ın Ankara Büyükelçisi Haydarov, 2030'a kadar yenilenebilir enerjinin payını yüzde 54'e çıkarmayı ve 22 bin megavat kapasite oluşturmayı, Türk şirketleriyle işbirliğini geliştirmeyi hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ozbekistanin-ankara-buyukelcisi-haydarov-turk-sirketleriyle-isbirligini-gelistirmek-istediklerini-soyledi/4122780",
+   "zaman": "2026-11-12T17:01:43+03:00",
+   "kelimeler": [
+    "ankar",
+    "buyuk",
+    "gelis",
+    "hayda",
+    "in",
+    "isbir",
+    "isted",
+    "ozbek",
+    "sirke",
+    "soyle",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "048c0cba544e": {
+   "id": "048c0cba544e",
+   "kaynak": "AA",
+   "baslik": "Ankara'da \"Kadınlar İçin Yapay Zeka ve Dijital Güçlenme Eğitimleri\" programı düzenlendi",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, Turkcell ve Kadın ve Demokrasi Vakfı (KADEM) iş birliğinde \"Kadınlar İçin Yapay Zekâ ve Dijital Güçlenme Eğitimleri\" programı düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-kadinlar-icin-yapay-zeka-ve-dijital-guclenme-egitimleri-programi-duzenlendi/4122786",
+   "zaman": "2026-11-12T17:04:15+03:00",
+   "kelimeler": [
+    "ankar",
+    "dijit",
+    "duzen",
+    "egiti",
+    "gucle",
+    "kadin",
+    "progr",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "38d2fe8fe326": {
+   "id": "38d2fe8fe326",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'da yapılacak Etnospor Kültür Festivali için geri sayım başladı",
+   "ozet": "Dünya Etnospor Birliği tarafından düzenlenen Etnospor Kültür Festivali, \"Riyadh Season\" kapsamında 19-28 Kasım tarihlerinde Suudi Arabistan'ın başkenti Riyad'da yapılacak.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-yapilacak-etnospor-kultur-festivali-icin-geri-sayim-basladi-/4122790",
+   "zaman": "2026-11-12T17:09:43+03:00",
+   "kelimeler": [
+    "arabi",
+    "basla",
+    "etnos",
+    "festi",
+    "geri",
+    "kultu",
+    "sayim",
+    "suudi",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 17:18:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Jensen Huang Nvidia CEO'luğundan istifa etti",
+  "12.11 17:16:02  9 yeni haber",
   "12.11 17:01:28  4 yeni haber",
   "12.11 16:46:20  8 yeni haber",
   "12.11 16:31:33  7 yeni haber",
@@ -36693,9 +36857,7 @@
   "10.11 15:16:07  15 yeni haber",
   "10.11 14:46:09  3 yeni haber",
   "10.11 14:38:58  9 yeni haber",
-  "10.11 14:16:05  1 yeni haber",
-  "10.11 14:11:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şarkıcı Güllü davasında 21 sayfalık istinaf itirazı: 3.53 promil alkol",
-  "10.11 14:08:59  7 yeni haber"
+  "10.11 14:16:05  1 yeni haber"
  ],
  "otomatik": false
 }
