@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "9c857b124863": {
-   "id": "9c857b124863",
-   "kaynak": "AA",
-   "baslik": "BM, İsrail'in Lübnan'ın güneyinde kalıcı varlığa yönelik altyapı faaliyetlerine dikkati çekti",
-   "ozet": "Birleşmiş Milletler (BM), İsrail'in Lübnan'a yönelik saldırılarını sürdürürken ülkenin güneyinde kalıcı olma amacı taşıyan altyapı faaliyetlerinde bulunduğuna dikkati çekti.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-israilin-lubnanin-guneyinde-kalici-varliga-yonelik-altyapi-faaliyetlerine-dikkati-cekti/4118007",
-   "zaman": "2026-11-09T23:52:24+03:00",
-   "kelimeler": [
-    "altya",
-    "bm",
-    "cekti",
-    "dikka",
-    "faali",
-    "guney",
-    "in",
-    "israi",
-    "kalic",
-    "lubna",
-    "varli",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d6c0d7c2e3de": {
-   "id": "d6c0d7c2e3de",
-   "kaynak": "Sözcü",
-   "baslik": "ÖNDERİMİZ ATATÜRK’Ü SAYGI, SEVGİ VE ÖZLEMLE ANIYORUZ…",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/onderimiz-ataturk-u-saygi-sevgi-ve-ozlemle-aniyoruz-p379630",
-   "zaman": "2026-11-09T23:55:23+03:00",
-   "kelimeler": [
-    "aniyo",
-    "atatu",
-    "onder",
-    "ozlem",
-    "saygi",
-    "sevgi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "eafb2d733494": {
-   "id": "eafb2d733494",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-10-kasim-2026-1750169",
-   "zaman": "2026-11-10T00:00:00+03:00",
-   "kelimeler": [
-    "10",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "il",
-    "istan",
-    "izmir",
-    "kasim",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "1bdf9c409177"
-  },
   "8c03ab9a6b85": {
    "id": "8c03ab9a6b85",
    "kaynak": "TRT Haber",
@@ -22918,7 +22852,8 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "f41996ea5b41": {
    "id": "f41996ea5b41",
@@ -34497,7 +34432,8 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "80d37e289ddc": {
    "id": "80d37e289ddc",
@@ -36648,8 +36584,17 @@
     "takla",
     "yone"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-13T00:04:06.010633+03:00",
+   "ig_id": "18110464655340353",
+   "reels_id": "18128455375910049",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2163993067579169",
+   "slayt": 5,
+   "kanca": "ŞARAMPOLE DEVRİLDİ"
   },
   "dd3dfd62fe69": {
    "id": "dd3dfd62fe69",
@@ -37122,9 +37067,129 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "89322ed44519": {
+   "id": "89322ed44519",
+   "kaynak": "AA",
+   "baslik": "Kanadalı AtkinsRealis, Sinop'ta reaktör fizibilite çalışmasını Mayıs 2027'ye kadar tamamlamayı hedefliyor",
+   "ozet": "AtkinsRealis, Türkiye Nükleer Enerji AŞ (TÜNAŞ) ile imzalanan anlaşma kapsamında, Sinop'ta kurulması planlanan nükleer güç santralinde CANDU reaktörlerinin kullanımına ilişkin fizibilite çalışmasını Mayıs 2027'ye kadar tamamlamayı hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kanadali-atkinsrealis-sinopta-reaktor-fizibilite-calismasini-mayis-2027ye-kadar-tamamlamayi-hedefliyor/4122692",
+   "zaman": "2026-11-12T16:45:34+03:00",
+   "kelimeler": [
+    "2027",
+    "atkin",
+    "calis",
+    "fizib",
+    "hedef",
+    "kanad",
+    "mayis",
+    "reakt",
+    "sinop",
+    "ta",
+    "tamam",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b5db1759ac3a"
+  },
+  "564294738688": {
+   "id": "564294738688",
+   "kaynak": "AA",
+   "baslik": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut'ta Lübnanlı siyasilerle görüştü",
+   "ozet": "Bilal Erdoğan ve beraberindeki Türk heyeti, başkent Beyrut'ta Lübnan Meclis Başkanı Nebih Berri, Müstakbel Hareketi Başkan Yardımcısı Behiye el-Hariri ve Dürzi lider, eski İlerici Sosyalist Parti Başkanı Velid Canbolat ile görüştü.",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-lubnanli-siyasilerle-gorustu/4123348",
+   "zaman": "2026-11-12T21:29:11+03:00",
+   "kelimeler": [
+    "baska",
+    "beyru",
+    "bilal",
+    "erdog",
+    "gorus",
+    "heyet",
+    "ilim",
+    "lubna",
+    "mutev",
+    "siyas",
+    "ta",
+    "vakfi",
+    "yayma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "53709a2c49ff"
+  },
+  "b3e00e75cf8c": {
+   "id": "b3e00e75cf8c",
+   "kaynak": "AA",
+   "baslik": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın: Mücadeleden memnunuz",
+   "ozet": "UEFA Uluslar A Ligi 1. Grup beşinci maçında konuk ettiği Belçika'ya 2-1 yenilen A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, kaybetmelerine rağmen oyuncularının mücadelesinden memnun olduğunu söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-mucadeleden-memnunuz/4123474",
+   "zaman": "2026-11-12T23:48:34+03:00",
+   "kelimeler": [
+    "direk",
+    "futbo",
+    "memnu",
+    "milli",
+    "mucad",
+    "serge",
+    "takim",
+    "tekni",
+    "yalci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9b87493d8e15"
+  },
+  "3706e0964783": {
+   "id": "3706e0964783",
+   "kaynak": "Sözcü",
+   "baslik": "Kadınlar arasındaki kavgada ortalık karıştı! Polis bile zor zapt etti",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/kadinlar-arasindaki-kavgada-ortalik-karisti-polis-bile-zor-zaptetti-p380814",
+   "zaman": "2026-11-12T23:57:03+03:00",
+   "kelimeler": [
+    "arasi",
+    "bile",
+    "etti",
+    "kadin",
+    "karis",
+    "kavga",
+    "ortal",
+    "polis",
+    "zapt",
+    "zor"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ea0c9927475": {
+   "id": "3ea0c9927475",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-13-kasim-2026-1750626",
+   "zaman": "2026-11-13T00:00:01+03:00",
+   "kelimeler": [
+    "13",
+    "2026",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "il",
+    "istan",
+    "izmir",
+    "kasim",
+    "nered"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "13.11 00:04:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Aksaray’da feci kaza… Otomobil karşı yöne geçip takla attı: 2 ölü",
+  "13.11 00:01:32  2 yeni haber",
   "12.11 23:45:59  2 yeni haber",
   "12.11 23:16:20  1 yeni haber",
   "12.11 23:01:47  8 yeni haber",
@@ -37322,9 +37387,7 @@
   "10.11 22:16:30  4 yeni haber",
   "10.11 21:59:03  4 yeni haber",
   "10.11 21:46:33  4 yeni haber",
-  "10.11 21:31:22  3 yeni haber",
-  "10.11 21:16:11  2 yeni haber",
-  "10.11 21:01:56  2 yeni haber"
+  "10.11 21:31:22  3 yeni haber"
  ],
  "otomatik": false
 }
