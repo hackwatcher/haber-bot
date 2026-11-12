@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "0e2404cade78": {
-   "id": "0e2404cade78",
-   "kaynak": "Sözcü",
-   "baslik": "Ömer Murat Gülkan, fon soruşturması kapsamında gözaltına alındı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641",
-   "zaman": "2026-11-09T18:51:20+03:00",
-   "kelimeler": [
-    "alind",
-    "fon",
-    "gozal",
-    "gulka",
-    "kapsa",
-    "murat",
-    "omer",
-    "sorus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2b55d993a94d"
-  },
-  "5113cbda0d3f": {
-   "id": "5113cbda0d3f",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cooku-kabul-etti-1750158",
-   "zaman": "2026-11-09T18:57:47+03:00",
-   "kelimeler": [
-    "apple",
-    "baska",
-    "cook",
-    "cumhu",
-    "erdog",
-    "etti",
-    "kabul",
-    "kurul",
-    "tim",
-    "yonet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3bad6181831f"
-  },
   "aedf8fddc878": {
    "id": "aedf8fddc878",
    "kaynak": "TRT Haber",
@@ -34058,7 +34014,8 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0802f487d908": {
    "id": "0802f487d908",
@@ -36759,9 +36716,171 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "17385dd8c4c8": {
+   "id": "17385dd8c4c8",
+   "kaynak": "AA",
+   "baslik": "Cambridge Merkez Camisi, çevreci uygulamaları dolayısıyla COP31 kapsamında ödüle layık görüldü",
+   "ozet": "İngiltere'deki Cambridge Merkez Camisi, sürdürülebilir mimarisi ve çevre dostu uygulamaları dolayısıyla COP31 kapsamında düzenlenen yarışmada ödüle layık görüldü.",
+   "link": "https://www.aa.com.tr/tr/gundem/cambridge-merkez-camisi-cevreci-uygulamalari-dolayisiyla-cop31-kapsaminda-odule-layik-goruldu/4123047",
+   "zaman": "2026-11-12T18:28:53+03:00",
+   "kelimeler": [
+    "cambr",
+    "camis",
+    "cevre",
+    "cop31",
+    "dolay",
+    "gorul",
+    "kapsa",
+    "layik",
+    "merke",
+    "odule",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9714a78d8130": {
+   "id": "9714a78d8130",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran: Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turkiye-iklim-adaletini-konusurken-insani-degerleri-ve-vicdani-da-masaya-koydu/4123057",
+   "zaman": "2026-11-12T18:37:26+03:00",
+   "kelimeler": [
+    "adale",
+    "baska",
+    "deger",
+    "duran",
+    "iklim",
+    "ileti",
+    "insan",
+    "konus",
+    "koydu",
+    "masay",
+    "turki",
+    "vicda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "941859ff3b30": {
+   "id": "941859ff3b30",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran: En kıymetli miras daha yeşil ve daha adil bir dünya",
+   "ozet": "İletişim Başkanı Burhanettin Duran, \"Gelecek nesillere bırakacağımız en kıymetli miras, daha temiz, daha yeşil ve daha adil bir dünya olacaktır\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-en-kiymetli-miras-daha-yesil-ve-daha-adil-bir-dunya-963098.html",
+   "zaman": "2026-11-12T18:40:00+03:00",
+   "kelimeler": [
+    "adil",
+    "baska",
+    "dunya",
+    "duran",
+    "ileti",
+    "kiyme",
+    "miras",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b2e9fdad119b": {
+   "id": "b2e9fdad119b",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran: Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu.\" ifadesini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-turkiye-iklim-adaletini-konusurken-insani-degerleri-ve-vicdani-da-masaya-koydu-43376138",
+   "zaman": "2026-11-12T18:44:00+03:00",
+   "kelimeler": [
+    "adale",
+    "baska",
+    "deger",
+    "duran",
+    "iklim",
+    "ileti",
+    "insan",
+    "konus",
+    "koydu",
+    "masay",
+    "turki",
+    "vicda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9714a78d8130"
+  },
+  "1cb2e0d277a1": {
+   "id": "1cb2e0d277a1",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan, lider eşlerini Anadolu'nun lezzetleriyle ağırladı",
+   "ozet": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, COP31 kapsamında lider eşlerini Anadolu'nun geleneksel lezzetleriyle ağırladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-lider-eslerini-anadolunun-lezzetleriyle-agirladi-43376145",
+   "zaman": "2026-11-12T18:47:20+03:00",
+   "kelimeler": [
+    "agirl",
+    "anado",
+    "emine",
+    "erdog",
+    "esler",
+    "lezze",
+    "lider",
+    "nun"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "712081a0517b": {
+   "id": "712081a0517b",
+   "kaynak": "AA",
+   "baslik": "Suç örgütü elebaşı Mehmet Recep Demir'in Azerbaycan'dan iadesi için talepname",
+   "ozet": "Azerbaycan’da tutuklanan \"Barış Boyun Suç Örgütü\" elebaşı Mehmet Recep Demir'in Türkiye'ye iadesi için İstanbul Cumhuriyet Başsavcılığınca talepname düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/suc-orgutu-elebasi-mehmet-recep-demirin-azerbaycandan-iadesi-icin-talepname/4123071",
+   "zaman": "2026-11-12T18:51:36+03:00",
+   "kelimeler": [
+    "azerb",
+    "dan",
+    "demir",
+    "eleba",
+    "iades",
+    "in",
+    "mehme",
+    "orgut",
+    "recep",
+    "suc",
+    "talep"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0cd62ae53596": {
+   "id": "0cd62ae53596",
+   "kaynak": "AA",
+   "baslik": "AB, Rusya'ya yönelik 22. yaptırım paketinin yakında sunulacağını bildirdi",
+   "ozet": "Avrupa Birliği (AB), Rusya'ya yönelik 22. yaptırım paketinin yakın zamanda sunulacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-rusyaya-yonelik-22-yaptirim-paketinin-yakinda-sunulacagini-bildirdi/4123078",
+   "zaman": "2026-11-12T18:58:20+03:00",
+   "kelimeler": [
+    "22",
+    "ab",
+    "bildi",
+    "paket",
+    "rusya",
+    "sunul",
+    "ya",
+    "yakin",
+    "yapti",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41083e9be215"
   }
  },
  "kayit": [
+  "12.11 19:01:25  5 yeni haber",
   "12.11 18:47:06  4 yeni haber",
   "12.11 18:31:23  4 yeni haber",
   "12.11 18:16:07  2 yeni haber",
@@ -36960,8 +37079,7 @@
   "10.11 17:01:40  1 yeni haber",
   "10.11 16:46:11  6 yeni haber",
   "10.11 16:31:16  17 yeni haber",
-  "10.11 16:01:53  7 yeni haber",
-  "10.11 15:47:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın "
+  "10.11 16:01:53  7 yeni haber"
  ],
  "otomatik": false
 }
