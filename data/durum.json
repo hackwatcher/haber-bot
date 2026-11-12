@@ -20568,7 +20568,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "10a914bf494d": {
    "id": "10a914bf494d",
@@ -35464,9 +35466,50 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "1d00a9134ccb"
+  },
+  "178bb6b09e6f": {
+   "id": "178bb6b09e6f",
+   "kaynak": "AA",
+   "baslik": "Gazze'de öldürülen Filistinli genç kaleci, İsrail soykırımının son sporcu kurbanı oldu",
+   "ozet": "İsrail'in Gazze Şeridi'ne yönelik soykırımında hayatını kaybeden Filistinli sporcuların sayısı, Gazze Spor Kulübü kalecisi Mahmud Kemal Abdulmalik'in yaşamını yitirmesiyle 1017'ye yükseldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-oldurulen-filistinli-genc-kaleci-israil-soykiriminin-son-sporcu-kurbani-oldu/4121523",
+   "zaman": "2026-11-12T01:24:48+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "genc",
+    "israi",
+    "kalec",
+    "kurba",
+    "oldur",
+    "soyki",
+    "sporc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "81f915596b42": {
+   "id": "81f915596b42",
+   "kaynak": "AA",
+   "baslik": "İzmir'de fabrikadaki patlamaya ilişkin 9 şüpheli tutuklandı",
+   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında 18 kişinin hayatını kaybettiği patlamaya ilişkin gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi/4121551",
+   "zaman": "2026-11-12T03:20:58+03:00",
+   "kelimeler": [
+    "fabri",
+    "ilisk",
+    "izmir",
+    "patla",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "fe47d6f21020"
   }
  },
  "kayit": [
+  "12.11 03:31:14  1 yeni haber",
   "12.11 03:16:48  1 yeni haber",
   "12.11 03:01:28  3 yeni haber",
   "12.11 02:16:11  2 yeni haber",
@@ -35665,8 +35708,7 @@
   "09.11 21:31:54  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
   "09.11 21:01:35  9 yeni haber",
   "09.11 20:46:13  3 yeni haber",
-  "09.11 20:46:13  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 20:31:16  2 yeni haber"
+  "09.11 20:46:13  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
