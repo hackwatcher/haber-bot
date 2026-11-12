@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "0868148f2714": {
-   "id": "0868148f2714",
-   "kaynak": "AA",
-   "baslik": "AB, doğal gaz depolarındaki düşük seviyeye rağmen arz güvenliği sorunu beklemiyor",
-   "ozet": "Avrupa Birliği (AB) Komisyonu, üye ülkelerdeki doğal gaz depolarının doluluk oranlarının tarihsel ortalamanın altında bulunmasına rağmen enerji arz güvenliğini tehdit eden bir durum olmadığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-dogal-gaz-depolarindaki-dusuk-seviyeye-ragmen-arz-guvenligi-sorunu-beklemiyor/4117308",
-   "zaman": "2026-11-09T15:19:47+03:00",
-   "kelimeler": [
-    "ab",
-    "arz",
-    "bekle",
-    "depol",
-    "dogal",
-    "dusuk",
-    "gaz",
-    "guven",
-    "ragme",
-    "seviy",
-    "sorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b44b6e31cb77": {
-   "id": "b44b6e31cb77",
-   "kaynak": "TRT Haber",
-   "baslik": "Filistinli bakandan Gazze'deki çocuklar yetersiz beslenmenin etkilerini yıllarca yaşayacak uyarısı",
-   "ozet": "Filistin Dışişleri Bakanı Farsin Ağabekyan Şahin, Gazze'deki çocukların yetersiz beslenmenin yanı sıra maruz kaldıkları fiziksel ve psikolojik sorunların etkilerini yıllarca yaşayabileceği uyarısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/filistinli-bakandan-gazzedeki-cocuklar-yetersiz-beslenmenin-etkilerini-yillarca-yasayacak-uyarisi-962692.html",
-   "zaman": "2026-11-09T15:23:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "besle",
-    "cocuk",
-    "deki",
-    "etkil",
-    "filis",
-    "gazze",
-    "uyari",
-    "yasay",
-    "yeter",
-    "yilla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5e97a3a5bc23": {
-   "id": "5e97a3a5bc23",
-   "kaynak": "AA",
-   "baslik": "Paris'te eylem yapan liselilere polis müdahalesi",
-   "ozet": "Fransa'nın başkenti Paris'te eylem yapan bir grup liseliye polis göz yaşartıcı gazla müdahale etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/pariste-eylem-yapan-liselilere-polis-mudahalesi/4117319",
-   "zaman": "2026-11-09T15:31:21+03:00",
-   "kelimeler": [
-    "eylem",
-    "lisel",
-    "mudah",
-    "paris",
-    "polis",
-    "te",
-    "yapan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5ebfdee312ab": {
    "id": "5ebfdee312ab",
    "kaynak": "TRT Haber",
@@ -36843,9 +36778,174 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ed509ae51139": {
+   "id": "ed509ae51139",
+   "kaynak": "Hürriyet",
+   "baslik": "Kırmızı bültenle aranan organize suç örgütü elebaşı Sercan Sayal Yunanistan'dan getirildi",
+   "ozet": "İçişleri Bakanlığı, 116 ayrı suçtan aranma kaydı bulunan ve hakkında kırmızı bülten çıkarılan suç örgütü elebaşı Sercan Sayal'ın Yunanistan'dan Türkiye'ye getirildiğini duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-aranan-organize-suc-orgutu-elebasi-sercan-sayal-yunanistandan-getirildi-43375521",
+   "zaman": "2026-11-12T12:36:00+03:00",
+   "kelimeler": [
+    "arana",
+    "bulte",
+    "dan",
+    "eleba",
+    "getir",
+    "kirmi",
+    "organ",
+    "orgut",
+    "sayal",
+    "serca",
+    "suc",
+    "yunan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "16f520805337"
+  },
+  "2542491f567b": {
+   "id": "2542491f567b",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş, MHP lideri Bahçeli'yi ziyaret etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, 'Terörsüz Türkiye' süreci kapsamında kurulacak İzleme Komisyonu'na ilişkin MHP Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-mhp-lideri-bahceliyi-ziyaret-etti-43375690",
+   "zaman": "2026-11-12T14:09:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "etti",
+    "kurtu",
+    "lider",
+    "mhp",
+    "tbmm",
+    "yi",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9855b4ebacf5"
+  },
+  "50f14309d05e": {
+   "id": "50f14309d05e",
+   "kaynak": "TRT Haber",
+   "baslik": "Avrupa Parlamentosu'ndan yapay zeka kullanımına denetim çağrısı",
+   "ozet": "Avrupa Parlamentosu AP, yapay zekanın demokratik süreçlerde ve kamu yönetiminde kullanımının insan denetimine tabi tutulması, siyasi sorumluluğun yerini almaması ve Avrupa Birliği'nin AB siyasi değerleriyle uyumlu olması çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/avrupa-parlamentosundan-yapay-zeka-kullanimina-denetim-cagrisi-963072.html",
+   "zaman": "2026-11-12T15:14:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "cagri",
+    "denet",
+    "kulla",
+    "ndan",
+    "parla",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a30e672cf999": {
+   "id": "a30e672cf999",
+   "kaynak": "AA",
+   "baslik": "Oxfam: Dünya genelinde sel kaynaklı ölümler 2013'ten bu yana en yüksek seviyeye ulaştı",
+   "ozet": "Uluslararası yardım kuruluşu Oxfam, dünya genelinde bu yıl seller nedeniyle en az 8 bin kişinin hayatını kaybettiğini ve sel kaynaklı ölümlerin 2013'ten bu yana \"en yüksek seviyeye\" çıktığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/oxfam-dunya-genelinde-sel-kaynakli-olumler-2013ten-bu-yana-en-yuksek-seviyeye-ulasti/4122489",
+   "zaman": "2026-11-12T15:17:46+03:00",
+   "kelimeler": [
+    "2013",
+    "dunya",
+    "genel",
+    "kayna",
+    "oluml",
+    "oxfam",
+    "sel",
+    "seviy",
+    "ten",
+    "ulast",
+    "yana",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e4d9d822256d": {
+   "id": "e4d9d822256d",
+   "kaynak": "AA",
+   "baslik": "Macron'un Slovakya Cumhurbaşkanı Pellegrini’yi karşılama töreninde 2 Elysee Sarayı muhafızı bayıldı",
+   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron’un Slovakya Cumhurbaşkanı Peter Pellegrini’yi Elysee Sarayı’ndaki karşılama töreninde 2 muhafız yere yığıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/macronun-slovakya-cumhurbaskani-pellegrini-yi-karsilama-toreninde-2-elysee-sarayi-muhafizi-bayildi/4122512",
+   "zaman": "2026-11-12T15:23:48+03:00",
+   "kelimeler": [
+    "bayil",
+    "cumhu",
+    "elyse",
+    "karsi",
+    "macro",
+    "muhaf",
+    "pelle",
+    "saray",
+    "slova",
+    "toren",
+    "un",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fc5a7e139bc3": {
+   "id": "fc5a7e139bc3",
+   "kaynak": "Sözcü",
+   "baslik": "Genel Sağlık Sigortası borçlarının silinmesi için kanun teklifi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-gss-borclarinin-silinmesi-icin-kanun-teklifi-p380674",
+   "zaman": "2026-11-12T15:26:03+03:00",
+   "kelimeler": [
+    "borcl",
+    "genel",
+    "kanun",
+    "sagli",
+    "sigor",
+    "silin",
+    "tekli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "87c2b04d903c": {
+   "id": "87c2b04d903c",
+   "kaynak": "XHABER",
+   "baslik": "ABD'de kavga ayırmaya gelen öğretmenin yediği yumruk sonrası kavgaya dahil olduğu anlar sosyal medyada gündem oldu.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30660",
+   "zaman": "2026-11-12T15:26:27+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "ABD'de kavga ayırmaya gelen öğretmenin yediği yumruk sonrası kavgaya dahil olduğu anlar sosyal medyada gündem oldu.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/mnSiggIqTk38sou2VjkIFEZUhkHLyjgERbICEK9T3lJQsV7nBH1tug6MzE2xBdy1DX5RoGJxOh8eVBIlLfEXr34V8zuaOdCelC9C43kXWsN0cbwXn5p3WU_R93qglUNTIV0iFrG8qPhVT-I8mqVKQxj-vxuvyN63Vxb8vviej6AqodQ4DWALvG6goaNHguLtsV9epeZTvyh6bo4tKkPAlREb9XJbJz0XbkR37bOdYH4tMMlN9s-tta2yIIEZBBZ3UEtGyv27YAQyT8pKnOLSpAQSjuv8BZDFKYzz5Bj9Gf6NYxwEuPUHLNodV45GrqEtOotDUt3ZHVz59XZ1OKn2xQ",
+   "tg_video_url": "https://cdn4.telesco.pe/file/797cf90f86.mp4?token=VIE-kCUVXEMFkekIiTvqnq2KbHU6K0g6X3Kzs54x_cn7Cd_o6O7V2PW-lIdPU6MfsPhTGd-zzdAk9eArzXZZo4QaUMHnhe12L53fKJ7Mxbn4fR_Ui08xf5OWu9VCW2OKuUsXa2lcWYgoYgp_qUexNKJ-WWNiNV5BPCXGsgrMFVP5LW2bg8ctfY4ZRb9IlfiWC7eXxOcu22iLg3F1UUZxxYBeQTHec3Jl6kOqBnXvhLKHVtRLbn3XzClgmnOUJ5I-p9oN_dlVI8L-BJLaaVJCMdMZdr7VnfPcegrqSKKkAZWXoHpUSLsBIyakDGtVXW0e0bbe4fHNzUptyx27dgErO4sbBO4VZ0RG8CCwaOsQwciB65Gmm4p5Bt_T_NYpPiCfnSJCxqFkLj7sAd8ip7B4sR5PjrNgEnuBDEidi-TfcMvLeDG2RIdq3pZiNjSPdD1tVr6Gi1KvHxl-6gzzXV9WRaEfPARj86-7chV6vzdx8_ia20q_tFugm95LaouDHpjJEJ-Q_E8IO9SbmFX_88sMIMPqBSp8v26O1UpgLTXRwkSt-fHpomN5pSj38-ohj6D3c_LomBtFKEygl6Ic5SMyv3kSJ36sFUhCq6FWyU0Cffw0pZzfow2e8HoIi9IbP_RtLs5LRuBFMGjslM6kA_COBnRX-xop0ahjIPICE9mwck4",
+   "kelimeler": [
+    "abd",
+    "anlar",
+    "ayirm",
+    "dahil",
+    "gelen",
+    "gunde",
+    "kavga",
+    "medya",
+    "ogret",
+    "oldug",
+    "sonra",
+    "sosya",
+    "yedig",
+    "yumru"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 15:31:23  5 yeni haber",
   "12.11 15:17:57  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Kazakistan Ekoloji ve Doğal Kaynaklar Bakanı Kuantyrov'dan Türkiye ile",
   "12.11 15:16:01  13 yeni haber",
   "12.11 15:01:40  12 yeni haber",
@@ -37044,8 +37144,7 @@
   "10.11 13:16:11  6 yeni haber",
   "10.11 13:01:56  7 yeni haber",
   "10.11 12:53:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · 76 ildeki uyuşturucu operasyonlarında 1204 şüpheli tutuklandı",
-  "10.11 12:50:24  12 yeni haber",
-  "10.11 12:31:27  13 yeni haber"
+  "10.11 12:50:24  12 yeni haber"
  ],
  "otomatik": false
 }
