@@ -36426,7 +36426,10 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "52e55dd8c52e": {
    "id": "52e55dd8c52e",
@@ -37172,7 +37175,10 @@
     "uygul"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "e7a2fbb93bd5": {
    "id": "e7a2fbb93bd5",
@@ -37277,9 +37283,80 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e6f3aca9ec8c": {
+   "id": "e6f3aca9ec8c",
+   "kaynak": "AA",
+   "baslik": "AB: Kendi güvenliğimizin Ukrayna'nın güvenliğinden geçtiği açıktır",
+   "ozet": "Avrupa Birliği (AB) Konseyi Başkanı Antonio Costa, AB'nin Rusya-Ukrayna müzakerelerinde önceliğinin ateşkes, Karadeniz'de seyrüsefer serbestisi ve barış anlaşması için gerekli koşulların sağlanması olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-kendi-guvenligimizin-ukraynanin-guvenliginden-gectigi-aciktir/4123497",
+   "zaman": "2026-11-13T00:10:58+03:00",
+   "kelimeler": [
+    "ab",
+    "acikt",
+    "gecti",
+    "guven",
+    "kendi",
+    "nin",
+    "ukray"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b7dd33702b0f"
+  },
+  "6487c21657a6": {
+   "id": "6487c21657a6",
+   "kaynak": "AA",
+   "baslik": "COP31 kapsamında Antalya-Serik istikametinde gidiş-geliş şeklinde sürdürülen trafik uygulaması sona erdi",
+   "ozet": "Antalya Valiliği, COP31 Zirvesi kapsamında D-400 kara yolunun Antalya-Serik istikametinde dubalama sistemiyle gidiş-geliş şeklinde sürdürülen trafik uygulamasının, 13 Kasım saat 00.00 itibarıyla sona erdirildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalya-serik-istikametinde-gidis-gelis-seklinde-surdurulen-trafik-uygulamasi-sona-erdi/4123530",
+   "zaman": "2026-11-13T01:11:24+03:00",
+   "kelimeler": [
+    "antal",
+    "cop31",
+    "erdi",
+    "gelis",
+    "gidis",
+    "istik",
+    "kapsa",
+    "sekli",
+    "serik",
+    "sona",
+    "surdu",
+    "trafi",
+    "uygul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "28fd1cb01bd6"
+  },
+  "f8dada625063": {
+   "id": "f8dada625063",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum: Mısır’ın küresel iklim diplomasisindeki tecrübesini COP31’in eylem gücüyle buluşturacağız",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya'da devam eden COP31 Zirvesi kapsamında diplomatik görüşmelerine devam ediyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-misirin-kuresel-iklim-diplomasisindeki-tecrubesini-cop31in-eylem-gucuyle-bulusturacagiz-43376426",
+   "zaman": "2026-11-13T01:22:41+03:00",
+   "kelimeler": [
+    "bakan",
+    "bulus",
+    "cop31",
+    "diplo",
+    "eylem",
+    "gucuy",
+    "iklim",
+    "in",
+    "kures",
+    "kurum",
+    "misir",
+    "tecru"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 01:46:22  1 yeni haber",
   "13.11 01:32:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Diyaliz Merkezleri Hakkında Yönetmelik Resmî Gazete’de yayımlandı",
   "13.11 01:29:36  3 yeni haber",
   "13.11 01:16:04  5 yeni haber",
@@ -37478,8 +37555,7 @@
   "11.11 00:32:05  2 yeni haber",
   "11.11 00:16:03  2 yeni haber",
   "11.11 00:04:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ölen kadının telefonu çaldı, açan kişinin boğazı düğümlendi! Kaza yeri",
-  "11.11 00:01:32  2 yeni haber",
-  "10.11 23:46:02  3 yeni haber"
+  "11.11 00:01:32  2 yeni haber"
  ],
  "otomatik": false
 }
