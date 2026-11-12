@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "197997220346": {
-   "id": "197997220346",
-   "kaynak": "AA",
-   "baslik": "Rusya'da Kinef rafinerisi bölgesinde İHA saldırısının ardından yangın çıktı",
-   "ozet": "Rusya’nın Leningrad bölgesindeki Kirişi şehrinde, ülkenin en büyük petrol rafinerilerinden Kinef’in bulunduğu sanayi bölgesine yönelik insansız hava aracı (İHA) saldırısının ardından yangın çıktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/rusyada-kinef-rafinerisi-bolgesinde-iha-saldirisinin-ardindan-yangin-cikti/4116426",
-   "zaman": "2026-11-09T08:59:11+03:00",
-   "kelimeler": [
-    "ardin",
-    "bolge",
-    "cikti",
-    "iha",
-    "kinef",
-    "rafin",
-    "rusya",
-    "saldi",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "16d0b1bd9489": {
    "id": "16d0b1bd9489",
    "kaynak": "AA",
@@ -36393,7 +36372,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b2afde256e3b": {
    "id": "b2afde256e3b",
@@ -36415,9 +36397,56 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "67015c8b9302"
+  },
+  "e5b50a8d9791": {
+   "id": "e5b50a8d9791",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Şimşek, uluslararası finans kuruluşlarının üst düzey yöneticileriyle görüştü",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, COP31 kapsamında Dünya Bankası, EBRD ve UNDP başkanlarıyla bir araya gelerek Türkiye'nin iklim eylemini hızlandırmayı amaçlayan İklim Uygulama Köprüsü BRIDGE girişimini ve uluslararası iş birliği imkanlarını görüştü.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu-963001.html",
+   "zaman": "2026-11-12T08:44:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "duzey",
+    "finan",
+    "gorus",
+    "kurul",
+    "simse",
+    "ulusl",
+    "ust",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4b5aac4d6456"
+  },
+  "909c5a97acdd": {
+   "id": "909c5a97acdd",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze'deki Sağlık Bakanlığı: Nasır Hastanesi'nin hedef alınması uluslararası hukukun ihlalidir",
+   "ozet": "Gazze'deki Sağlık Bakanlığı, İsrail ordusunun Nasır Hastanesi'ne düzenlediği saldırıyı kınayarak uluslararası topluma hastanelerin, sağlık çalışanlarının ve hastaların korunması için acil müdahale çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/gazzedeki-saglik-bakanligi-nasir-hastanesinin-hedef-alinmasi-uluslararasi-hukukun-ihlalidir-963002.html",
+   "zaman": "2026-11-12T08:53:00+03:00",
+   "kelimeler": [
+    "alinm",
+    "bakan",
+    "deki",
+    "gazze",
+    "hasta",
+    "hedef",
+    "hukuk",
+    "ihlal",
+    "nasir",
+    "nin",
+    "sagli",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 09:01:37  1 yeni haber",
   "12.11 08:46:03  3 yeni haber",
   "12.11 08:31:27  1 yeni haber",
   "12.11 08:18:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD'de faiz artışı beklentileri gayrimenkul hisselerini baskıladı",
@@ -36616,8 +36645,7 @@
   "10.11 03:46:01  1 yeni haber",
   "10.11 03:16:04  2 yeni haber",
   "10.11 03:01:28  2 yeni haber",
-  "10.11 02:46:00  1 yeni haber",
-  "10.11 02:31:13  1 yeni haber"
+  "10.11 02:46:00  1 yeni haber"
  ],
  "otomatik": false
 }
