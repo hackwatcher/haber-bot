@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "15b9de603150": {
-   "id": "15b9de603150",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Gürlek'ten Adalet Bakanlığı bütçesinin kabulüne ilişkin açıklama",
-   "ozet": "Adalet Bakanı Akın Gürlek, TBMM Genel Kurulunda kabul edilen Adalet Bakanlığı bütçesinin hayırlı olmasını diledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-adalet-bakanligi-butcesinin-kabulune-iliskin-aciklama-43372192",
-   "zaman": "2026-11-10T01:18:44+03:00",
-   "kelimeler": [
-    "acikl",
-    "adale",
-    "bakan",
-    "butce",
-    "gurle",
-    "ilisk",
-    "kabul",
-    "ten"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d3212af5b582"
-  },
   "a415667d6502": {
    "id": "a415667d6502",
    "kaynak": "NTV",
@@ -29298,7 +29277,8 @@
     "soyki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "53486787585b": {
    "id": "53486787585b",
@@ -30537,7 +30517,8 @@
     "yili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4e6758531080": {
    "id": "4e6758531080",
@@ -36988,8 +36969,17 @@
     "yayim",
     "yonet"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-13T01:32:13.532478+03:00",
+   "ig_id": "18120816230084945",
+   "reels_id": "18139388686643617",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1849744209558288",
+   "slayt": 5,
+   "kanca": "80 CİHAZ SINIRI"
   },
   "a2fac18716ea": {
    "id": "a2fac18716ea",
@@ -37163,9 +37153,135 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "28fd1cb01bd6": {
+   "id": "28fd1cb01bd6",
+   "kaynak": "TRT Haber",
+   "baslik": "COP31 kapsamında AntalyaSerik istikametindeki trafik uygulaması sona erdi",
+   "ozet": "Antalya Valiliği, COP31 kapsamında D400 kara yolunun AntalyaSerik istikametinde dubalama sistemiyle gidişgeliş şeklinde sürdürülen trafik uygulamasının, 13 Kasım saat 00.00 itibarıyla sona erdirildiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/turkiye/cop31-kapsaminda-antalya-serik-istikametindeki-trafik-uygulamasi-sona-erdi-963118.html",
+   "zaman": "2026-11-13T01:07:00+03:00",
+   "kelimeler": [
+    "antal",
+    "cop31",
+    "erdi",
+    "istik",
+    "kapsa",
+    "sona",
+    "trafi",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e7a2fbb93bd5": {
+   "id": "e7a2fbb93bd5",
+   "kaynak": "AA",
+   "baslik": "Milli Eğitim Bakanı Tekin, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
+   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, Yeni Parti İstanbul Milletvekili Suat Özçağdaş'ın \"Sayıştay'ın Milli Eğitim Bakanlığının mal alımında yolsuzluk tespit etmesine rağmen gereğini yapmadığı\" iddiasına ilişkin açıklamalarda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi/4123534",
+   "zaman": "2026-11-13T01:16:37+03:00",
+   "kelimeler": [
+    "bakan",
+    "butce",
+    "egiti",
+    "komis",
+    "milli",
+    "plan",
+    "sorul",
+    "tbmm",
+    "tekin",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "16a184de71b1"
+  },
+  "b4504b3739db": {
+   "id": "b4504b3739db",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri Bakanlığı: İsrail'in hastane saldırısı uluslararası hukukun vahim bir ihlali",
+   "ozet": "Dışişleri Bakanlığı, \"İsrail tarafından Han Yunus'taki Nasır Hastanesi'ne düzenlenen ve aralarında sağlık personelinin de bulunduğu çok sayıda Filistinli kardeşimizin şehit edildiği saldırıyı kınıyoruz.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanligi-israilin-hastane-saldirisi-uluslararasi-hukukun-vahim-bir-ihlali-963119.html",
+   "zaman": "2026-11-13T01:19:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "disis",
+    "hasta",
+    "hukuk",
+    "ihlal",
+    "in",
+    "israi",
+    "saldi",
+    "ulusl",
+    "vahim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c2585c7c1a46": {
+   "id": "c2585c7c1a46",
+   "kaynak": "Hürriyet",
+   "baslik": "BUDO'nun 10 seferi iptal edildi",
+   "ozet": "BUDO'nun 10 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/budonun-10-seferi-iptal-edildi-43376425",
+   "zaman": "2026-11-13T01:19:51+03:00",
+   "kelimeler": [
+    "10",
+    "budo",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "837e8a41e260"
+  },
+  "1fda06cf4afc": {
+   "id": "1fda06cf4afc",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanlığı, İsrail'in Gazze'deki hastaneye saldırısını kınadı",
+   "ozet": "Dışişleri Bakanlığı, İsrail'in Gazze Şeridi'nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'ne düzenlediği saldırıyı kınadı.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537",
+   "zaman": "2026-11-13T01:20:01+03:00",
+   "kelimeler": [
+    "bakan",
+    "deki",
+    "disis",
+    "gazze",
+    "hasta",
+    "in",
+    "israi",
+    "kinad",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8f430b6f34cd"
+  },
+  "0b8f41f8ec0b": {
+   "id": "0b8f41f8ec0b",
+   "kaynak": "Sözcü",
+   "baslik": "Gazeteciden Hakan Fidan'ı gülümseten ilginç soru",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/gazeteciden-hakan-fidan-i-gulumseten-ilginc-soru-p380837",
+   "zaman": "2026-11-13T01:25:36+03:00",
+   "kelimeler": [
+    "fidan",
+    "gazet",
+    "gulum",
+    "hakan",
+    "ilgin",
+    "soru"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 01:32:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Diyaliz Merkezleri Hakkında Yönetmelik Resmî Gazete’de yayımlandı",
+  "13.11 01:29:36  3 yeni haber",
   "13.11 01:16:04  5 yeni haber",
   "13.11 01:04:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara, İzmir, Hatay, Kayseri... Şehitlerin acı haber babaevine ulaştı",
   "13.11 01:01:38  3 yeni haber",
@@ -37363,9 +37479,7 @@
   "11.11 00:16:03  2 yeni haber",
   "11.11 00:04:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ölen kadının telefonu çaldı, açan kişinin boğazı düğümlendi! Kaza yeri",
   "11.11 00:01:32  2 yeni haber",
-  "10.11 23:46:02  3 yeni haber",
-  "10.11 23:31:36  2 yeni haber",
-  "10.11 23:16:08  2 yeni haber"
+  "10.11 23:46:02  3 yeni haber"
  ],
  "otomatik": false
 }
