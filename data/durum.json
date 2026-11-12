@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "661ad21acae5": {
-   "id": "661ad21acae5",
-   "kaynak": "Hürriyet",
-   "baslik": "Adalet Bakanı Gürlek, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
-   "ozet": "Adalet Bakanı Akın Gürlek, \"Terörsüz Türkiye\" hedefine ilişkin, \"Yol haritamız bellidir. Terör unsurlarının içeride ve dışarıda silah bırakması, ülkemizin huzurunu ve güvenliğini tehdit eden şartların ortadan kalkması ve bunun ilgili devlet kurumlarınca teyit edilmesi esastır.",
-   "link": "https://www.hurriyet.com.tr/gundem/adalet-bakani-gurlek-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi-43372191",
-   "zaman": "2026-11-10T01:14:54+03:00",
-   "kelimeler": [
-    "adale",
-    "bakan",
-    "butce",
-    "gurle",
-    "komis",
-    "plan",
-    "sorul",
-    "tbmm",
-    "yanit"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f20b5339de5b"
-  },
   "15b9de603150": {
    "id": "15b9de603150",
    "kaynak": "Hürriyet",
@@ -37040,7 +37018,8 @@
    "fb_id": null,
    "fb_reels_id": "1133242222969996",
    "slayt": 5,
-   "kanca": "AİLELERE ŞEHADET HABERİ VERİLDİ"
+   "kanca": "AİLELERE ŞEHADET HABERİ VERİLDİ",
+   "diger_kaynaklar": []
   },
   "5ea97ae2d6ac": {
    "id": "5ea97ae2d6ac",
@@ -37060,9 +37039,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c1af9566ad30": {
+   "id": "c1af9566ad30",
+   "kaynak": "AA",
+   "baslik": "İsrail, Batı Şeria'da 37 dönümlük arazideki ağaçların sökülmesi emrini verdi",
+   "ozet": "İsrail makamları, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine bağlı Dura ve Terkumya beldelerinde, 37 dönümü aşkın tarım arazisindeki badem ağaçlarının ve bitki örtüsünün sökülmesi yönünde askeri emir çıkardı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-37-donumluk-arazideki-agaclarin-sokulmesi-emrini-verdi/4123506",
+   "zaman": "2026-11-13T00:23:15+03:00",
+   "kelimeler": [
+    "37",
+    "agacl",
+    "arazi",
+    "bati",
+    "donum",
+    "emrin",
+    "israi",
+    "seria",
+    "sokul",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1c127c3a1859": {
+   "id": "1c127c3a1859",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara, İzmir, Hatay, Kayseri... Şehitlerin acı haberi ailelerine verildi",
+   "ozet": "Malatya'da kaza kırıma uğrayan helikopterde şehit olan 4 askerin acı haberleri baba ocağına düştü. Babaevine giden askeri yetkililer ve mülki idare amirleri, ailelere şehadet haberlerini iletti. Acı haberin ardından şehitlerin babaevine Türk bayrakları asıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankara-izmir-hatay-kayseri-sehitlerin-aci-haberi-ailelerine-verildi-43376404",
+   "zaman": "2026-11-13T00:47:00+03:00",
+   "kelimeler": [
+    "aci",
+    "ailel",
+    "ankar",
+    "hatay",
+    "izmir",
+    "kayse",
+    "sehit",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a2fac18716ea"
+  },
+  "2bb5e50029fa": {
+   "id": "2bb5e50029fa",
+   "kaynak": "Hürriyet",
+   "baslik": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasında 8 sanığa tahliye",
+   "ozet": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 109. duruşmasında, 8 sanığın tahliyesine karar verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-8-saniga-tahliye-43376409",
+   "zaman": "2026-11-13T00:53:02+03:00",
+   "kelimeler": [
+    "amacl",
+    "cikar",
+    "davas",
+    "imamo",
+    "orgut",
+    "sanig",
+    "suc",
+    "tahli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8d62cba6f303": {
+   "id": "8d62cba6f303",
+   "kaynak": "AA",
+   "baslik": "İngiltere, UEFA Uluslar Ligi'nde Hırvatistan'ı iki golle geçti",
+   "ozet": "UEFA Uluslar A Ligi 3. Grup'ta oynanan maçta İngiltere, sahasında Hırvatistan'ı 2-1 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/ingiltere-uefa-uluslar-liginde-hirvatistani-iki-golle-gecti-/4123518",
+   "zaman": "2026-11-13T00:53:27+03:00",
+   "kelimeler": [
+    "gecti",
+    "golle",
+    "hirva",
+    "iki",
+    "ingil",
+    "ligi",
+    "nde",
+    "uefa",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c0185913e31": {
+   "id": "4c0185913e31",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump: Bu iş bittiğinde İsrail'e gidip başbakan olabilirim",
+   "ozet": "ABD Başkanı Donald Trump, İsrail'e desteğinin tam olduğunu vurgulayarak, \"İsrail'de destek oranım yüzde 99, oradaki en popüler kişiyim. Bu iş bittiğinde İsrail'e gidip başbakan olabilirim.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-bu-is-bittiginde-israile-gidip-basbakan-olabilirim/4123519",
+   "zaman": "2026-11-13T00:53:31+03:00",
+   "kelimeler": [
+    "abd",
+    "basba",
+    "baska",
+    "bitti",
+    "gidip",
+    "is",
+    "israi",
+    "olabi",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0d4e0ace1187": {
+   "id": "0d4e0ace1187",
+   "kaynak": "AA",
+   "baslik": "UEFA Uluslar Ligi'nin 5. haftası 8 maçla başladı",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasi-8-macla-basladi/4123521",
+   "zaman": "2026-11-13T00:53:35+03:00",
+   "kelimeler": [
+    "basla",
+    "hafta",
+    "ligi",
+    "macla",
+    "nin",
+    "uefa",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 01:16:04  5 yeni haber",
   "13.11 01:04:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara, İzmir, Hatay, Kayseri... Şehitlerin acı haber babaevine ulaştı",
   "13.11 01:01:38  3 yeni haber",
   "13.11 00:46:05  4 yeni haber",
@@ -37261,8 +37365,7 @@
   "11.11 00:01:32  2 yeni haber",
   "10.11 23:46:02  3 yeni haber",
   "10.11 23:31:36  2 yeni haber",
-  "10.11 23:16:08  2 yeni haber",
-  "10.11 23:01:33  4 yeni haber"
+  "10.11 23:16:08  2 yeni haber"
  ],
  "otomatik": false
 }
