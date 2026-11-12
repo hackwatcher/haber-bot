@@ -1,56 +1,5 @@
 {
  "haberler": {
-  "21a1ac0670c2": {
-   "id": "21a1ac0670c2",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıyordum'",
-   "ozet": "Spencer Ali, okuldayken bir poşet dilimlenmiş elma yemektense üç öğle arasından vazgeçti. Şimdi 23 yaşındaki otizmli birey, yiyeceklerle ilişkisini anlatırken, uzmanlar duruma nasıl yaklaşılması gerektiği konusunda tavsiyeler veriyor.",
-   "link": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o",
-   "zaman": "2026-11-09T03:33:31+03:00",
-   "kelimeler": [
-    "bebek",
-    "birey",
-    "ilisk",
-    "otizm",
-    "yemek",
-    "zorla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4ecc5218f26d": {
-   "id": "4ecc5218f26d",
-   "kaynak": "XHABER",
-   "baslik": "Atatürk'ün Amerikan Halkına Hitabının tam hali yayınlandı.",
-   "ozet": "(11 Kasım 1930 / Atatürk Orman Çiftliği)",
-   "link": "https://t.me/sahinozkan000/30574",
-   "zaman": "2026-11-09T03:34:19+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Atatürk'ün Amerikan Halkına Hitabının tam hali yayınlandı.\n(11 Kasım 1930 / Atatürk Orman Çiftliği)",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/JVYxDHDW4nezpCYPRd5DU4indGT-tq8PUj-3MFU2OI0EIYyPXR9TavvYfS1H-bUfaQp_6OGrRMmWo-EpY5KOYrOqe5R6HYrFrJtdkbiS7UujAPsLyElqgqrSyexKy-P6iDRq8J82FIzHXk7SXTeKbMBnFrPQu6PC4tSZF19Ch3lb3lElyPlQV2voR5j_YyxVZRnLSfRAQh3hQdfWXM63xSWgxLTd7dwB4WV_bODhAzNZtXZ5DPFo4vjZ9tosR59jrvmEkeWcH9hNaLcNng7CRUOI7sNOjOQBkQtid1ckZYkh-NNxdMJXHpvBheyXRQHw-wS4l__58SOEdoECuvyirg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "ameri",
-    "atatu",
-    "hali",
-    "halki",
-    "hitab",
-    "tam",
-    "un",
-    "yayin"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-11-09T07:04:47.106716+03:00",
-   "ig_id": "17927646045441143",
-   "reels_id": null,
-   "story_id": "18357369388173607",
-   "yorum_id": null,
-   "fb_id": "1276642895542042_122115276171472027",
-   "fb_reels_id": null,
-   "slayt": 4,
-   "kanca": "1930 TARİHLİ KAYIT"
-  },
   "a497745e4414": {
    "id": "a497745e4414",
    "kaynak": "TRT Haber",
@@ -35314,7 +35263,10 @@
     "yapan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "7671ebdf55b1": {
    "id": "7671ebdf55b1",
@@ -35506,9 +35458,73 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "fe47d6f21020"
+  },
+  "0b99b6dd06a8": {
+   "id": "0b99b6dd06a8",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD Savunma Bakanı Hegseth'e nöbetçi askerden sert uyarı",
+   "ozet": "ABD Savunma Bakanı Pete Hegseth ve birlikte bulunduğu danışmanlardan oluşan bir grup, çarşamba günü Arlington Ulusal Mezarlığı'ndaki Meçhul Asker Mezarı'nda bir nöbetçi asker tarafından sert şekilde uyarıldı.",
+   "link": "https://www.bbc.com/turkce/articles/cmwy43jnqg9zo",
+   "zaman": "2026-11-12T03:28:39+03:00",
+   "kelimeler": [
+    "abd",
+    "asker",
+    "bakan",
+    "hegse",
+    "nobet",
+    "savun",
+    "sert",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "68ca2b74a867"
+  },
+  "eda5075448fb": {
+   "id": "eda5075448fb",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Beyaz ailenin büyüttüğü siyah kız çocuğu: 'Bana gerçeği neden söylemediniz?'",
+   "ozet": "Lacey Tezino, Teksas'ta ırkçılığın kol gezdiği bir kasabada beyaz bir aile tarafından büyütüldü. Babası Ronnie ile mutlu bir çocukluk geçirdi. Öldüğü söylenen annesinin izini sürdüğünde ise hakikatle yüzleşti.",
+   "link": "https://www.bbc.com/turkce/articles/ckz6qx8841zjo",
+   "zaman": "2026-11-12T03:29:30+03:00",
+   "kelimeler": [
+    "ailen",
+    "bana",
+    "beyaz",
+    "buyut",
+    "cocug",
+    "gerce",
+    "kiz",
+    "neden",
+    "siyah",
+    "soyle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d02645cceae7": {
+   "id": "d02645cceae7",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Dokunulmazlık dosyaları için üç senaryo: Sarıgül dosyası 'koçbaşı' olur mu?",
+   "ozet": "Bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında cinsel istismar ve nitelikli cinsel saldırı iddialarının da yer aldığı soruşturma dosyasının Ankara Cumhuriyet Başsavcılığı'na gönderilmesi, milletvekili dokunulmazlıklarının kaldırılması tartışmasını yeniden gündeme…",
+   "link": "https://www.bbc.com/turkce/articles/cv1j6lk0x3xwo",
+   "zaman": "2026-11-12T03:29:49+03:00",
+   "kelimeler": [
+    "dokun",
+    "dosya",
+    "kocba",
+    "olur",
+    "sarig",
+    "senar",
+    "uc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 03:46:53  2 yeni haber",
+  "12.11 03:46:53  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "12.11 03:31:14  1 yeni haber",
   "12.11 03:16:48  1 yeni haber",
   "12.11 03:01:28  3 yeni haber",
@@ -35706,9 +35722,7 @@
   "09.11 21:46:39  4 yeni haber",
   "09.11 21:31:54  7 yeni haber",
   "09.11 21:31:54  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "09.11 21:01:35  9 yeni haber",
-  "09.11 20:46:13  3 yeni haber",
-  "09.11 20:46:13  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "09.11 21:01:35  9 yeni haber"
  ],
  "otomatik": false
 }
