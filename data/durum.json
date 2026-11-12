@@ -20567,7 +20567,8 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "10a914bf494d": {
    "id": "10a914bf494d",
@@ -35398,10 +35399,75 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "53fd054f00aa": {
+   "id": "53fd054f00aa",
+   "kaynak": "AA",
+   "baslik": "BM Acil Yardım Koordinatörü Fletcher’dan, Gazze'de \"toplu cezalandırmanın durması\" çağrısı",
+   "ozet": "Birleşmiş Milletler (BM) Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Tom Fletcher, Gazze'ye \"tüm geçiş noktalarının açılması\" ve \"toplu cezalandırmanın durması\" çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-acil-yardim-koordinatoru-fletcher-dan-gazzede-toplu-cezalandirmanin-durmasi-cagrisi/4121522",
+   "zaman": "2026-11-12T01:24:32+03:00",
+   "kelimeler": [
+    "bm",
+    "cagri",
+    "cezal",
+    "dan",
+    "durma",
+    "fletc",
+    "gazze",
+    "koord",
+    "toplu",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3457a2f7144b": {
+   "id": "3457a2f7144b",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de fabrikadaki patlamaya ilişkin 9 şüpheli tutuklandı",
+   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında 18 kişinin hayatını kaybettiği patlamaya ilişkin gözaltına alınan 11 şüpheliden 9'u tutuklandı, şirketin yönetim kurulu başkanının da aralarında olduğu 2 şüpheli ev hapsi şeklinde adli kontrol şartı uygulanarak serbest bırakıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi-962981.html",
+   "zaman": "2026-11-12T02:46:00+03:00",
+   "kelimeler": [
+    "fabri",
+    "ilisk",
+    "izmir",
+    "patla",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "fe47d6f21020"
+  },
+  "fb9702d67586": {
+   "id": "fb9702d67586",
+   "kaynak": "Hürriyet",
+   "baslik": "Aliağa’daki 18 kişinin öldüğü patlamada 9 tutuklama",
+   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında 18 kişinin hayatını kaybettiği patlamaya ilişkin gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/aliagadaki-18-kisinin-oldugu-patlamada-9-tutuklama-43375014",
+   "zaman": "2026-11-12T02:58:00+03:00",
+   "kelimeler": [
+    "18",
+    "aliag",
+    "daki",
+    "kisin",
+    "oldug",
+    "patla",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1d00a9134ccb"
   }
  },
  "kayit": [
+  "12.11 03:16:48  1 yeni haber",
   "12.11 03:01:28  3 yeni haber",
   "12.11 02:16:11  2 yeni haber",
   "12.11 02:01:50  3 yeni haber",
@@ -35600,8 +35666,7 @@
   "09.11 21:01:35  9 yeni haber",
   "09.11 20:46:13  3 yeni haber",
   "09.11 20:46:13  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "09.11 20:31:16  2 yeni haber",
-  "09.11 20:16:21  5 yeni haber"
+  "09.11 20:31:16  2 yeni haber"
  ],
  "otomatik": false
 }
