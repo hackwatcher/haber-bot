@@ -185,26 +185,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "c248f8b541e3": {
-   "id": "c248f8b541e3",
-   "kaynak": "AA",
-   "baslik": "Türkiye ile Nijerya arasındaki diplomatik ilişkilerin 66. yılı kutlandı",
-   "ozet": "Türkiye'nin Abuja Büyükelçisi Mehmet Poroy, Türkiye ile Nijerya arasındaki ilişkilerin 66 yıllık diplomatik geçmişe dayandığını belirterek, Nijerya'yı stratejik ortak olarak gördüklerini ve ilişkileri her alanda geliştirmeyi önemsediklerini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-ile-nijerya-arasindaki-diplomatik-iliskilerin-66-yili-kutlandi/4117754",
-   "zaman": "2026-11-09T19:46:57+03:00",
-   "kelimeler": [
-    "66",
-    "arasi",
-    "diplo",
-    "ilisk",
-    "kutla",
-    "nijer",
-    "turki",
-    "yili"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a3ba0926b4c6": {
    "id": "a3ba0926b4c6",
    "kaynak": "TRT Haber",
@@ -36785,6 +36765,24 @@
    ],
    "durum": "tekrar",
    "oncelikli": false,
+   "tekrar_of": "a4c6b1160926"
+  },
+  "15e32a99e126": {
+   "id": "15e32a99e126",
+   "kaynak": "TRT Haber",
+   "baslik": "Malatya'da helikopter düştü: 4 askerimiz şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı MSB, Malatya'da S70 tipi helikopterin henüz bilinmeyen bir nedenle kaza kırıma uğradığını açıkladı. Düşen askeri helikopterde 4 askerimiz şehit oldu.",
+   "link": "https://www.trthaber.com/haber/gundem/malatyada-helikopter-dustu-4-askerimiz-sehit-oldu-963100.html",
+   "zaman": "2026-11-12T19:20:00+03:00",
+   "kelimeler": [
+    "asker",
+    "dustu",
+    "helik",
+    "malat",
+    "sehit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
    "tekrar_of": "a4c6b1160926"
   }
  },
