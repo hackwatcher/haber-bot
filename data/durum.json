@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "cfd8a4d1a1b1": {
-   "id": "cfd8a4d1a1b1",
-   "kaynak": "AA",
-   "baslik": "Son kullanma tarihi geçmiş kanser ilaçlarını piyasaya süren 15 şüpheliye operasyon",
-   "ozet": "Son kullanma tarihi geçmiş kanser ilaçlarının yeniden ambalajlanarak satışa sunulmasına ilişkin soruşturma kapsamında tespit edilen 15 şüphelinin yakalanması için operasyon düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-15-supheliye-operasyon-/4116413",
-   "zaman": "2026-11-09T08:33:32+03:00",
-   "kelimeler": [
-    "15",
-    "gecmi",
-    "ilacl",
-    "kanse",
-    "kulla",
-    "opera",
-    "piyas",
-    "suphe",
-    "suren",
-    "tarih"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6fe0110eac32"
-  },
-  "4034413fba62": {
-   "id": "4034413fba62",
-   "kaynak": "NTV",
-   "baslik": "Okullarda ilk ara tatil ne zaman başlayacak? 2026-2027 MEB kasım ara tatili tarihleri",
-   "ozet": "Okullarda kasım ara tatilinin ne zaman başlayacağı, Milli Eğitim Bakanlığı’na (MEB) bağlı ilk ve ortaöğretim kurumlarında eğitim gören milyonlarca öğrenci, veli ve öğretmen tarafından merakla araştırılıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-okullarda-ilk-ara-tatil-ne-zaman-baslayacak-2026-2027-meb-kasim-ara-tatili-tarihleri-1750046",
-   "zaman": "2026-11-09T08:34:10+03:00",
-   "kelimeler": [
-    "2026",
-    "2027",
-    "ara",
-    "basla",
-    "ilk",
-    "kasim",
-    "meb",
-    "okull",
-    "tarih",
-    "tatil",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "197997220346": {
    "id": "197997220346",
    "kaynak": "AA",
@@ -28349,7 +28302,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "743ea9d90d99": {
    "id": "743ea9d90d99",
@@ -36372,9 +36328,97 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b5e174758208": {
+   "id": "b5e174758208",
+   "kaynak": "Hürriyet",
+   "baslik": "Uşak'ta evinde hareketsiz bulunan 24 yaşındaki genç hastanede yaşamını yitirdi",
+   "ozet": "Uşak’ın Banaz ilçesinde kardeşi tarafından evde hareketsiz halde bulunarak hastaneye kaldırılan 24 yaşındaki Hasan Can S., doktorların müdahalesine rağmen kurtarılamadı. Yapılan ilk incelemelerde gencin kanında yüksek seviyede karbonmonoksit tespit edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/usakta-evinde-hareketsiz-bulunan-24-yasindaki-genc-hastanede-yasamini-yitirdi-43375057",
+   "zaman": "2026-11-12T08:24:06+03:00",
+   "kelimeler": [
+    "24",
+    "bulun",
+    "evind",
+    "genc",
+    "harek",
+    "hasta",
+    "ta",
+    "usak",
+    "yasam",
+    "yasin",
+    "yitir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7ca4767a6974": {
+   "id": "7ca4767a6974",
+   "kaynak": "Hürriyet",
+   "baslik": "Kardeşini ararken acı gerçekle karşılaştı: Boş arazideki aracında ölü bulundu",
+   "ozet": "Denizli'nin Pamukkale ilçesinde dün geceden beri haber alınamayan 36 yaşındaki makine mühendisi Arif Oruç, ağabeyi tarafından arazideki aracında ölü bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kardesini-ararken-aci-gercekle-karsilasti-bos-arazideki-aracinda-olu-bulundu-43375066",
+   "zaman": "2026-11-12T08:36:33+03:00",
+   "kelimeler": [
+    "aci",
+    "araci",
+    "arark",
+    "arazi",
+    "bos",
+    "bulun",
+    "gerce",
+    "karde",
+    "karsi",
+    "olu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b5aac4d6456": {
+   "id": "4b5aac4d6456",
+   "kaynak": "AA",
+   "baslik": "Bakan Şimşek, uluslararası finans kuruluşlarının üst düzey yöneticileriyle görüştü",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, Dünya Bankası, Avrupa İmar ve Kalkınma Bankası (EBRD) ve Birleşmiş Milletler Kalkınma Programının başkanlarıyla görüşerek Türkiye'nin COP31'deki öncü girişimi \"İklim Uygulama Köprüsü\"nü de gündeme taşıdı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu/4121651",
+   "zaman": "2026-11-12T08:39:06+03:00",
+   "kelimeler": [
+    "bakan",
+    "duzey",
+    "finan",
+    "gorus",
+    "kurul",
+    "simse",
+    "ulusl",
+    "ust",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b2afde256e3b": {
+   "id": "b2afde256e3b",
+   "kaynak": "NTV",
+   "baslik": "İstanbul için fırtına alarmı. Rüzgar 90 kilometre hızla esecek",
+   "ozet": "Türkiye'de sıcaklıklar yükseliyor ancak Marmara'da 3 gün etkili olacak lodosun hızının saatte 90 kilometreye kadar çıkması bekleniyor. İstanbul'un da aralarında olduğu 11 il için sarı kod verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-firtina-alarmi-ruzgar-90-kilometre-hizla-esecek-1750498",
+   "zaman": "2026-11-12T08:39:32+03:00",
+   "kelimeler": [
+    "90",
+    "alarm",
+    "esece",
+    "firti",
+    "hizla",
+    "istan",
+    "kilom",
+    "ruzga"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "67015c8b9302"
   }
  },
  "kayit": [
+  "12.11 08:46:03  3 yeni haber",
   "12.11 08:31:27  1 yeni haber",
   "12.11 08:18:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD'de faiz artışı beklentileri gayrimenkul hisselerini baskıladı",
   "12.11 08:16:12  2 yeni haber",
@@ -36573,8 +36617,7 @@
   "10.11 03:16:04  2 yeni haber",
   "10.11 03:01:28  2 yeni haber",
   "10.11 02:46:00  1 yeni haber",
-  "10.11 02:31:13  1 yeni haber",
-  "10.11 02:15:59  2 yeni haber"
+  "10.11 02:31:13  1 yeni haber"
  ],
  "otomatik": false
 }
