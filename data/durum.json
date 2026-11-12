@@ -1,64 +1,5 @@
 {
  "haberler": {
-  "f196991b4ad6": {
-   "id": "f196991b4ad6",
-   "kaynak": "AA",
-   "baslik": "Fitch, Binance saldırısının bitcoin piyasasının dayanıklılığına işaret ettiğini açıkladı",
-   "ozet": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, kripto para borsası Binance'e yönelik siber saldırının ardından bitcoin fiyatında görülen sınırlı düşüşün, daha dayanıklı bir kripto piyasasına işaret ettiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-binance-saldirisinin-bitcoin-piyasasinin-dayanikliligina-isaret-ettigini-acikladi/4117814",
-   "zaman": "2026-11-09T20:33:33+03:00",
-   "kelimeler": [
-    "binan",
-    "bitco",
-    "dayan",
-    "ettig",
-    "fitch",
-    "isare",
-    "piyas",
-    "saldi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "87159944f1d5": {
-   "id": "87159944f1d5",
-   "kaynak": "TRT Haber",
-   "baslik": "SPK'dan dolandırıcılık uyarısı",
-   "ozet": "Fon yatırımcılarına yönelik ödemeler sürerken Sermaye Piyasası Kurulu'ndan önemli açıklama geldi. Dolandırıcılık girişimlerine karşı fon yatırımcıları \"Fonlara ilişkin ödeme süreçleri, yalnızca yetkili kurumlar tarafından yürütülmektedir\" uyarısı yapıldı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/spkdan-dolandiricilik-uyarisi-962711.html",
-   "zaman": "2026-11-09T20:42:00+03:00",
-   "kelimeler": [
-    "dan",
-    "dolan",
-    "spk",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "516610ee465c"
-  },
-  "bc654935e33e": {
-   "id": "bc654935e33e",
-   "kaynak": "Hürriyet",
-   "baslik": "Savunma Sanayii Başkanı Görgün’den 41'inci yıl dönümü paylaşımı",
-   "ozet": "Savunma Sanayii Başkan Prof. Dr. Haluk Görgün, Savunma Sanayii Başkanlığı’nın kuruluşunun 41’inci yıl dönümü vesilesiyle mesai arkadaşlarıyla bir araya geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/savunma-sanayii-baskani-gorgunden-41inci-yil-donumu-paylasimi-43372056",
-   "zaman": "2026-11-09T20:45:04+03:00",
-   "kelimeler": [
-    "41",
-    "baska",
-    "den",
-    "donum",
-    "gorgu",
-    "inci",
-    "payla",
-    "sanay",
-    "savun",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "489385858d01": {
    "id": "489385858d01",
    "kaynak": "TRT Haber",
@@ -36863,7 +36804,10 @@
     "tahli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3ae75c69339d": {
    "id": "3ae75c69339d",
@@ -36929,9 +36873,98 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "689557284d43": {
+   "id": "689557284d43",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Şimşek: Yeşil dönüşüm ekonomi programımızın merkezinde yer alıyor",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Karbon salımınızı azaltmazsanız, bazı ürünlerinizi uluslararası pazarlarda rekabetçi şekilde satamazsınız. Bu nedenle yeşil dönüşüm, ekonomi programımızın tam merkezinde yer alıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-yesil-donusum-ekonomi-programimizin-merkezinde-yer-aliyor-963104.html",
+   "zaman": "2026-11-12T20:26:00+03:00",
+   "kelimeler": [
+    "aliyo",
+    "bakan",
+    "donus",
+    "ekono",
+    "merke",
+    "progr",
+    "simse",
+    "yer",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "20696901b443": {
+   "id": "20696901b443",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanı Fidan'dan COP31 Liderler Zirvesi'ne dair paylaşım",
+   "ozet": "Dışişleri Bakanı Fidan, Türkiye'nin iklim değişikliğiyle mücadelede uluslararası işbirliğini güçlendirmek ve somut sonuçlar elde etmek amacıyla çalışmalarını sürdüreceğini ifade etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidandan-cop31-liderler-zirvesine-dair-paylasim/4123289",
+   "zaman": "2026-11-12T20:29:23+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "dair",
+    "dan",
+    "disis",
+    "fidan",
+    "lider",
+    "payla",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d636771612c9"
+  },
+  "8dc1381026a3": {
+   "id": "8dc1381026a3",
+   "kaynak": "AA",
+   "baslik": "Fransa'da farklı kentlerdeki okullar bomba ihbarı nedeniyle tahliye edildi",
+   "ozet": "Fransa'da farklı kentlerdeki okulların bomba ihbarı nedeniyle tahliye edildiği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-farkli-kentlerdeki-okullar-bomba-ihbari-nedeniyle-tahliye-edildi/4123293",
+   "zaman": "2026-11-12T20:32:07+03:00",
+   "kelimeler": [
+    "bomba",
+    "edild",
+    "farkl",
+    "frans",
+    "ihbar",
+    "kentl",
+    "neden",
+    "okull",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "00c250608243"
+  },
+  "bf70e630927a": {
+   "id": "bf70e630927a",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan: COP31 toplantısının Liderler Zirvesi bölümü tamamlandı",
+   "ozet": "DIŞİŞLERİ Bakanı Hakan Fidan, \"Ülkemizin başkanlığı ve ev sahipliğinde gerçekleştirilen COP31 toplantısının Liderler Zirvesi bölümü tamamlandı\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-cop31-toplantisinin-liderler-zirvesi-bolumu-tamamlandi-43376251",
+   "zaman": "2026-11-12T20:35:27+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolum",
+    "cop31",
+    "disis",
+    "fidan",
+    "hakan",
+    "lider",
+    "tamam",
+    "topla",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d636771612c9"
   }
  },
  "kayit": [
+  "12.11 20:46:02  1 yeni haber",
   "12.11 20:31:24  5 yeni haber",
   "12.11 20:16:13  3 yeni haber",
   "12.11 20:01:23  5 yeni haber",
@@ -37130,8 +37163,7 @@
   "10.11 19:16:12  5 yeni haber",
   "10.11 19:01:40  3 yeni haber",
   "10.11 18:46:41  6 yeni haber",
-  "10.11 18:31:17  2 yeni haber",
-  "10.11 18:16:14  6 yeni haber"
+  "10.11 18:31:17  2 yeni haber"
  ],
  "otomatik": false
 }
