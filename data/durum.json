@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "74f3f4d70bf8": {
-   "id": "74f3f4d70bf8",
-   "kaynak": "TRT Haber",
-   "baslik": "Hollanda Dışişleri Bakanı: Bağımsız bir Filistin devleti için çaba göstereceğiz",
-   "ozet": "Hollanda Dışişleri Bakanı Berendsen, insanların Filistin toprakları ve İsrail'deki duruma dair endişelerinin ve hissettikleri çaresizliğin anlaşılır olduğunu belirterek hükümetin bağımsız bir Filistin devleti için çabalarını sürdüreceğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/hollanda-disisleri-bakani-bagimsiz-bir-filistin-devleti-icin-caba-gosterecegiz-962623.html",
-   "zaman": "2026-11-09T02:55:00+03:00",
-   "kelimeler": [
-    "bagim",
-    "bakan",
-    "caba",
-    "devle",
-    "disis",
-    "filis",
-    "goste",
-    "holla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "322ecf086556": {
-   "id": "322ecf086556",
-   "kaynak": "AA",
-   "baslik": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda ölü sayısı 44’e yükseldi",
-   "ozet": "Yemen'de İran destekli Husiler, ülkenin başkenti Sana'ya Suudi Arabistan'ın düzenlediği saldırılarda ölü sayısının 44’e, yaralı sayısının 40’a yükseldiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389",
-   "zaman": "2026-11-09T03:01:12+03:00",
-   "kelimeler": [
-    "44",
-    "arabi",
-    "deki",
-    "duzen",
-    "husil",
-    "in",
-    "olu",
-    "saldi",
-    "sana",
-    "sayis",
-    "suudi",
-    "ya",
-    "yemen",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2681b86b3b9c"
-  },
   "21a1ac0670c2": {
    "id": "21a1ac0670c2",
    "kaynak": "BBC Türkçe",
@@ -34662,7 +34615,10 @@
     "yaris"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "14da0a78d2ee": {
    "id": "14da0a78d2ee",
@@ -35356,9 +35312,97 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7671ebdf55b1": {
+   "id": "7671ebdf55b1",
+   "kaynak": "AA",
+   "baslik": "United Airlines müşteri verilerinin güvenliği için yapay zeka ajanlarının erişimini kısıtlıyor",
+   "ozet": "ABD'li hava yolu şirketi United Airlines, müşteri verilerini ve hesaplarını korumak amacıyla yetkisiz üçüncü taraf yapay zeka ajanlarının ve asistanlarının dijital platformlarına erişimini kısıtlayacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/united-airlines-musteri-verilerinin-guvenligi-icin-yapay-zeka-ajanlarinin-erisimini-kisitliyor/4121511",
+   "zaman": "2026-11-12T01:22:04+03:00",
+   "kelimeler": [
+    "airli",
+    "ajanl",
+    "erisi",
+    "guven",
+    "kisit",
+    "muste",
+    "unite",
+    "veril",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "837e8a41e260": {
+   "id": "837e8a41e260",
+   "kaynak": "AA",
+   "baslik": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4121512",
+   "zaman": "2026-11-12T01:22:08+03:00",
+   "kelimeler": [
+    "budo",
+    "edild",
+    "hava",
+    "iptal",
+    "kosul",
+    "neden",
+    "nun",
+    "olums",
+    "sefer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6d4a3ff0d8eb": {
+   "id": "6d4a3ff0d8eb",
+   "kaynak": "AA",
+   "baslik": "Anket: Trump'ın MAGA destekçilerinin neredeyse yarısı, hareketin ara seçimlerde kaybettiğini düşünüyor",
+   "ozet": "ABD'de yapılan yeni anket, Başkan Donald Trump'ın kurucusu olduğu Amerika'yı Yeniden Büyük Yap (MAGA) destekçilerinin \"neredeyse yarısının\", hareketin Kongre ara seçimlerinde kaybettiğini düşündüğünü ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/dunya/anket-trumpin-maga-destekcilerinin-neredeyse-yarisi-hareketin-ara-secimlerde-kaybettigini-dusunuyor/4121516",
+   "zaman": "2026-11-12T01:22:55+03:00",
+   "kelimeler": [
+    "anket",
+    "ara",
+    "deste",
+    "dusun",
+    "harek",
+    "in",
+    "kaybe",
+    "maga",
+    "nered",
+    "secim",
+    "trump",
+    "yaris"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "515744850a09"
+  },
+  "1d00a9134ccb": {
+   "id": "1d00a9134ccb",
+   "kaynak": "TRT Haber",
+   "baslik": "Aliağa'daki fabrika patlamasına ilişkin 9 şüpheli tutuklandı",
+   "ozet": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında 18 kişinin hayatını kaybettiği patlamaya ilişkin gözaltına alınan 11 şüpheliden 9'u tutuklandı, 2 kişi için ev hapsi kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/aliagadaki-fabrika-patlamasina-iliskin-9-supheli-tutuklandi-962981.html",
+   "zaman": "2026-11-12T02:46:00+03:00",
+   "kelimeler": [
+    "aliag",
+    "daki",
+    "fabri",
+    "ilisk",
+    "patla",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "12.11 03:01:28  3 yeni haber",
   "12.11 02:16:11  2 yeni haber",
   "12.11 02:01:50  3 yeni haber",
   "12.11 01:46:07  1 yeni haber",
@@ -35557,8 +35601,7 @@
   "09.11 20:46:13  3 yeni haber",
   "09.11 20:46:13  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "09.11 20:31:16  2 yeni haber",
-  "09.11 20:16:21  5 yeni haber",
-  "09.11 20:01:33  3 yeni haber"
+  "09.11 20:16:21  5 yeni haber"
  ],
  "otomatik": false
 }
