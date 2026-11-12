@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "f8afb8c62789": {
-   "id": "f8afb8c62789",
-   "kaynak": "TRT Haber",
-   "baslik": "Gazze'deki Sağlık Bakanlığından dünyaya kış koşullarındaki Filistinliler için yardım çağrısı",
-   "ozet": "Gazze'deki Sağlık Bakanlığı Genel Müdürü Münir elBurş, 350 bin yerinden edilmiş Filistinlinin yoğun yağış nedeniyle çadırları su altında kaldığı için geceyi dışarıda geçirdiğini ve çocukların donma tehlikesiyle karşı karşıya olduğunu açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/gazzedeki-saglik-bakanligindan-dunyaya-kis-kosullarindaki-filistinliler-icin-yardim-cagrisi-962629.html",
-   "zaman": "2026-11-09T07:10:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "cagri",
-    "deki",
-    "dunya",
-    "filis",
-    "gazze",
-    "kis",
-    "kosul",
-    "sagli",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "39a3d18a516b": {
    "id": "39a3d18a516b",
    "kaynak": "TRT Haber",
@@ -23767,7 +23745,10 @@
     "lider"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "ff0800dc6f20": {
    "id": "ff0800dc6f20",
@@ -28547,7 +28528,10 @@
     "verec"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "46d26a714d6d": {
    "id": "46d26a714d6d",
@@ -29401,7 +29385,8 @@
     "yaris"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "cbb1464aae4a": {
    "id": "cbb1464aae4a",
@@ -36121,9 +36106,464 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2d401b8a02ec": {
+   "id": "2d401b8a02ec",
+   "kaynak": "AA",
+   "baslik": "Filistin mücadelesinin sembol ismi Arafat'ın ölümü, üzerinden geçen 22 yıla rağmen gizemini koruyor",
+   "ozet": "İsrail'in Filistin topraklarını işgaline karşı verdiği mücadeleyi \"Elimde bir zeytin dalı ile bir özgürlük savaşçısının silahını taşıyorum\" şeklinde tanımlayan Filistin'in efsane lideri Yasir Arafat'ın vefatının üzerinden 22 yıl geçti.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-mucadelesinin-sembol-ismi-arafatin-olumu-uzerinden-gecen-22-yila-ragmen-gizemini-koruyor/4121581",
+   "zaman": "2026-11-12T06:28:17+03:00",
+   "kelimeler": [
+    "22",
+    "arafa",
+    "filis",
+    "gecen",
+    "gizem",
+    "in",
+    "ismi",
+    "koruy",
+    "mucad",
+    "olumu",
+    "ragme",
+    "sembo",
+    "uzeri",
+    "yila"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "bff2187049e2": {
+   "id": "bff2187049e2",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünya küresel sıcaklık eşiklerinin geri döndürülemez şekilde aşılmasına doğru ilerliyor",
+   "ozet": "Yapılan bir analize göre dünya, hükümetlerin gezegeni ısıtan emisyonları azaltma konusunda çok uzun süre oyalanması nedeniyle milyarlarca insanı yıkıcı iklim etkilerinin içine sürükleyecek küresel sıcaklık eşiklerinin \"geri döndürülemez şekilde aşılmasına\" doğru ilerliyor.",
+   "link": "https://www.trthaber.com/haber/dunya/dunya-kuresel-sicaklik-esiklerinin-geri-dondurulemez-sekilde-asilmasina-dogru-ilerliyor-962995.html",
+   "zaman": "2026-11-12T06:55:00+03:00",
+   "kelimeler": [
+    "asilm",
+    "dogru",
+    "dondu",
+    "dunya",
+    "esikl",
+    "geri",
+    "ilerl",
+    "kures",
+    "sekil",
+    "sicak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1617a2566572": {
+   "id": "1617a2566572",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD, güvenlik endişeleri nedeniyle Katar'daki 17 Yaş Altı Dünya Kupası'ndan çekildi",
+   "ozet": "ABD erkek milli futbol takımı, bir haftadan biraz fazla bir süre içinde Katar'da başlayacak olan FIFA 17 Yaş Altı Dünya Kupası'ndan çekildi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-guvenlik-endiseleri-nedeniyle-katardaki-17-yas-alti-dunya-kupasindan-cekildi-962996.html",
+   "zaman": "2026-11-12T06:58:00+03:00",
+   "kelimeler": [
+    "17",
+    "abd",
+    "alti",
+    "cekil",
+    "daki",
+    "dunya",
+    "endis",
+    "guven",
+    "katar",
+    "kupas",
+    "ndan",
+    "neden",
+    "yas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a714a14849ba": {
+   "id": "a714a14849ba",
+   "kaynak": "Hürriyet",
+   "baslik": "Orman yangınlarına uluslararası plan",
+   "ozet": "COP31'de Türkiye öncülüğünde orman yangınlarıyla mücadelede uluslararası işbirliğini güçlendirecek Entegre Yangın Yönetimi Antalya Eylem Planı başlatıldı. Tarım Bakanı Yumaklı, tüm ülkeleri plana katılmaya davet etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/orman-yanginlarina-uluslararasi-plan-43374980",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "orman",
+    "plan",
+    "ulusl",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a68a840c3e7a": {
+   "id": "a68a840c3e7a",
+   "kaynak": "Hürriyet",
+   "baslik": "15 milyon TL’lik telefon tuzağı",
+   "ozet": "İstanbul Beşiktaş’ta yalnız yaşayan 78 yaşındaki emekli kimyager Emine Gönül Haska, kendilerini telefonda polis ve savcı olarak tanıtan dolandırıcıların tuzağına düştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/15-milyon-tllik-telefon-tuzagi-43374981",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "lik",
+    "milyo",
+    "telef",
+    "tl",
+    "tuzag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "aeca0871ceba": {
+   "id": "aeca0871ceba",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da çete temizliği",
+   "ozet": "İstanbul’da emniyet ekipleri, yakalanan çete üyelerinin kurdukları bağlantılar üzerinden kentte korku saçan yeni nesil suç örgütlerinin ağına büyük darbe indirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-cete-temizligi-43374983",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "cete",
+    "istan",
+    "temiz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9820697cc71c": {
+   "id": "9820697cc71c",
+   "kaynak": "Hürriyet",
+   "baslik": "Balkondan düşen doktor yaşamını yitirdi",
+   "ozet": "İSTANBUL Gaziosmanpaşa’da bulunan 8’inci kattaki evinin balkonundan düşen Doktor Pelin Pınar hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/balkondan-dusen-doktor-yasamini-yitirdi-43374985",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "balko",
+    "dokto",
+    "dusen",
+    "yasam",
+    "yitir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b917f300599": {
+   "id": "4b917f300599",
+   "kaynak": "Hürriyet",
+   "baslik": "Patronun ilk vukuatı değil... Hastaneden acı haber: ölü sayısı 18’e çıktı",
+   "ozet": "HABAŞ Demir Çelik fabrikasında meydana gelen patlamada ölü sayısı 18’e çıktı. Gözaltına alınan fabrika patronu Mehmet Rüştü Başaran’ın, Kocaeli’de 2017 yılında 1 kişinin öldüğü LPG patlaması davasında 4 yıl, 10 ay hapis ve 1 yıl 9 ay süreyle meslekten men cezası aldığı ortaya…",
+   "link": "https://www.hurriyet.com.tr/gundem/patronun-ilk-vukuati-degil-hastaneden-aci-haber-olu-sayisi-18e-cikti-43374988",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "18",
+    "aci",
+    "cikti",
+    "degil",
+    "hasta",
+    "ilk",
+    "olu",
+    "patro",
+    "sayis",
+    "vukua"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0548c7767356": {
+   "id": "0548c7767356",
+   "kaynak": "Hürriyet",
+   "baslik": "Trafik nefes aldı",
+   "ozet": "COP31’in Antalya’daki ilk günlerinde konferans alanına ulaşım, organizasyonun en çok konuşulan sorunlarından biri haline gelmişti.",
+   "link": "https://www.hurriyet.com.tr/gundem/trafik-nefes-aldi-43375017",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "nefes",
+    "trafi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "03c5dc0a8c5d"
+  },
+  "9c2b9d347d0c": {
+   "id": "9c2b9d347d0c",
+   "kaynak": "Hürriyet",
+   "baslik": "Dünyanın renkleri Antalya’da buluştu",
+   "ozet": "Türkiye’nin ev sahipliğinde düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), dün üçüncü gününde Antalya EXPO’da devam etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/dunyanin-renkleri-antalyada-bulustu-43375018",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "antal",
+    "bulus",
+    "dunya",
+    "renkl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a799801161cf"
+  },
+  "3b35e0b4e6b4": {
+   "id": "3b35e0b4e6b4",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31'de ünlülerden dünya liderlerine çağrı: Artık söz değil eylem zamanı",
+   "ozet": "COP31’de bir araya gelen sanat ve spor dünyasının ünlü isimleri, dünya liderlerine iklim kriziyle mücadelede somut adımlar atılması çağrısında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31de-unlulerden-dunya-liderlerine-cagri-artik-soz-degil-eylem-zamani-43375020",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "artik",
+    "cagri",
+    "cop31",
+    "degil",
+    "dunya",
+    "eylem",
+    "lider",
+    "soz",
+    "unlul",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fc1601d2ed01": {
+   "id": "fc1601d2ed01",
+   "kaynak": "Hürriyet",
+   "baslik": "Aile Bakanı Göktaş açıkladı: Risk altındaki 15 bin 374 çocuk yakın takipte",
+   "ozet": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Plan ve Bütçe Komisyonu’nda kadına yönelik yeni şiddet türlerini araştırmaya başladıklarını belirterek, “Risk altındaki 15 bin 374 çocuğu takip ediyoruz. 3 bin 306 zararlı içeriğe müdahale ettik” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/aile-bakani-goktas-acikladi-risk-altindaki-15-bin-374-cocuk-yakin-takipte-43375023",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "374",
+    "aile",
+    "altin",
+    "bakan",
+    "bin",
+    "cocuk",
+    "gokta",
+    "risk",
+    "takip",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d2bd22d060e9": {
+   "id": "d2bd22d060e9",
+   "kaynak": "Hürriyet",
+   "baslik": "Kurultay davasında karar 18 Kasım’da",
+   "ozet": "CHP’nin 38. Olağan Kurultayı’nda usulsüzlük yapıldığı iddiasıyla açılan davada kararın 18 Kasım’da verilmesi bekleniyor. Mahkeme, avukatlara bir kez daha mazeret kabul edilmeyeceğini, yokluklarında karar verileceğini ihtar etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/kurultay-davasinda-karar-18-kasimda-43375024",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "18",
+    "davas",
+    "karar",
+    "kasim",
+    "kurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "07ce92353e57"
+  },
+  "0c36852b4447": {
+   "id": "0c36852b4447",
+   "kaynak": "Hürriyet",
+   "baslik": "Emir Sarıgül’den 4’üncü ifade",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı’nca Sarıgül ailesine yönelik ‘kara para aklama’ iddiasıyla yürütülen soruşturmada Emir Sarıgül, 4’üncü kez savcılığa ifade verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/emir-sarigulden-4uncu-ifade-43375025",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "emir",
+    "ifade",
+    "sarig",
+    "uncu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "84913c8e2075"
+  },
+  "33268f132cf3": {
+   "id": "33268f132cf3",
+   "kaynak": "Hürriyet",
+   "baslik": "Komisyonun adı tamam… Toplumsal Bütünleşmeyi İzleme Komisyonu",
+   "ozet": "Terörsüz Türkiye sürecinde PKK’nın tasfiye sürecini takip edecek yasama mekanizmasının adı, “Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair İzleme Komisyonu” oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/komisyonun-adi-tamam-toplumsal-butunlesmeyi-izleme-komisyonu-43375026",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "adi",
+    "butun",
+    "izlem",
+    "komis",
+    "tamam",
+    "toplu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "30502bbb2db3": {
+   "id": "30502bbb2db3",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan: Uyarıların ötesine geçmeliyiz",
+   "ozet": "CUMHURBAŞKANI Tayyip Erdoğan’ın eşi, BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, ‘Küresel Sıfır Atık İttifakı Lider Eşleri Yüksek Düzeyli Toplantısı’nda konuştu.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-uyarilarin-otesine-gecmeliyiz-43375027",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "emine",
+    "erdog",
+    "gecme",
+    "otesi",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "747a39388e13": {
+   "id": "747a39388e13",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Anadolu’da buluştular",
+   "ozet": "COP31 Liderler Zirvesi dün Antalya’da dünyanın dört bir yanından katılımlarla başladı. Cumhurbaşkanı Erdoğan ve BM Sekreteri Guterres’in karşıladığı ülke liderleri, zirve alanındaki Anadolu Salonu’nda bir araya gelerek iklimi ve dünyanın geleceğini konuştu.",
+   "link": "https://www.hurriyet.com.tr/gundem/anadoluda-bulustular-43375028",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "anado",
+    "bulus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7492aa3606cf": {
+   "id": "7492aa3606cf",
+   "kaynak": "Hürriyet",
+   "baslik": "Dünyanın kalbi Antalya’da atıyor… Erdoğan: Böyle gelmiş böyle gitmez",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, COP31 Zirvesi’nde başta iklim olmak üzere dünyanın yüz yüze olduğu sorunlara işaret ederek “Şu gerçeğin hepimiz bilincindeyiz: Böyle gelmiş, böyle gider diyemeyiz.",
+   "link": "https://www.hurriyet.com.tr/gundem/dunyanin-kalbi-antalyada-atiyor-erdogan-boyle-gelmis-boyle-gitmez-43375029",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "antal",
+    "atiyo",
+    "boyle",
+    "dunya",
+    "erdog",
+    "gelmi",
+    "gitme",
+    "kalbi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "880b2aeb323b": {
+   "id": "880b2aeb323b",
+   "kaynak": "Hürriyet",
+   "baslik": "Guterres: Ya başaracağız ya da yanacağız",
+   "ozet": "BİRLEŞMİŞ Milletler (BM) Genel Sekreteri Antonio Guterres, COP31 Liderler Zirvesi’nin açılışında yaptığı konuşmada, iklim krizine karşı mücadelenin hızlandırılması çağrısında bulunarak, “Gezegenimiz ısınıyor. Zaman daralıyor. Ya başaracağız ya da yanacağız” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/guterres-ya-basaracagiz-ya-da-yanacagiz-43375033",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "basar",
+    "guter",
+    "ya",
+    "yanac"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f2c61278f3ba": {
+   "id": "f2c61278f3ba",
+   "kaynak": "Hürriyet",
+   "baslik": "Murat Kurum’dan Kanuni örneği",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Liderler Zirvesi Yüksek Düzeyli Bölüm Açılışı’nda yaptığı konuşmada, 16.",
+   "link": "https://www.hurriyet.com.tr/gundem/murat-kurumdan-kanuni-ornegi-43375034",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "dan",
+    "kanun",
+    "kurum",
+    "murat",
+    "orneg"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8f981c25d099": {
+   "id": "8f981c25d099",
+   "kaynak": "Hürriyet",
+   "baslik": "Yılmaz’dan temas trafiği",
+   "ozet": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, COP31 temasları kapsamında çeşitli görüşmeler yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yilmazdan-temas-trafigi-43375035",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "dan",
+    "temas",
+    "trafi",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0c067e3e7688"
+  },
+  "fd5645fad5d8": {
+   "id": "fd5645fad5d8",
+   "kaynak": "Hürriyet",
+   "baslik": "Çiftçi: 58 bin personel görev başında",
+   "ozet": "İÇİŞLERİ Bakanı Mustafa Çiftçi, Antalya’da düzenlenen COP31 kapsamında güvenlik tedbirlerine ilişkin açıklamalarda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/ciftci-58-bin-personel-43375036",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "58",
+    "basin",
+    "bin",
+    "ciftc",
+    "gorev",
+    "perso"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fbd26c122144"
+  },
+  "f41418533b60": {
+   "id": "f41418533b60",
+   "kaynak": "Hürriyet",
+   "baslik": "Brezilya Lideri Lula’dan Hürriyet’e özel açıklamalar… Burası bir dönüm noktası",
+   "ozet": "Brezilya Devlet Başkanı Luiz Inácio Lula da Silva, “Artık söylemlerin ötesine geçerek etkili adımlar atmamız gerekiyor. Çünkü bunu başaramazsak, toplumlarımız çok taraflılığa da olan inançlarını kaybedecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/brezilya-lideri-luladan-hurriyete-ozel-aciklamalar-burasi-bir-donum-noktasi-43375037",
+   "zaman": "2026-11-12T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "brezi",
+    "buras",
+    "dan",
+    "donum",
+    "hurri",
+    "lider",
+    "lula",
+    "nokta",
+    "ozel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cb40260f73c8": {
+   "id": "cb40260f73c8",
+   "kaynak": "TRT Haber",
+   "baslik": "Kentsel dönüşüm yıkımında bitişikteki bina zarar gördü",
+   "ozet": "İstanbul Bayrampaşada, kentsel dönüşüm nedeniyle bir binanın yapılan yıkım çalışması sırasında bitişiğindeki 4 katlı bina hasar gördü. Hasar gören binada yaşayanlar tahliye edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/kentsel-donusum-yikiminda-bitisikteki-bina-zarar-gordu-962997.html",
+   "zaman": "2026-11-12T07:02:00+03:00",
+   "kelimeler": [
+    "bina",
+    "bitis",
+    "donus",
+    "gordu",
+    "kents",
+    "yikim",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 07:15:58  18 yeni haber",
   "12.11 07:03:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Depremde göç veren Düzce, yapılaşma ve kalkınma modelleriyle tercih ed",
   "12.11 07:01:24  7 yeni haber",
   "12.11 06:46:36  8 yeni haber",
@@ -36322,8 +36762,7 @@
   "10.11 01:16:17  1 yeni haber",
   "10.11 01:03:00  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · 'Harry Potter' dizisinin yeni afişleri yayınlandı.",
   "10.11 01:01:26  1 yeni haber",
-  "10.11 00:41:50  4 yeni haber",
-  "10.11 00:31:15  1 yeni haber"
+  "10.11 00:41:50  4 yeni haber"
  ],
  "otomatik": false
 }
