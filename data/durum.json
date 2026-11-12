@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "fa4ecedea0c3": {
-   "id": "fa4ecedea0c3",
-   "kaynak": "AA",
-   "baslik": "Lübnan-Suriye arasındaki Abbudiyye-Debbusiye kapısı, 2 yıl aradan sonra yeniden açıldı",
-   "ozet": "İsrail saldırısının ardından Kasım 2024'te kapatılan Lübnan ile Suriye arasındaki Abbudiyye-Debbusiye Sınır Kapısı, düzenlenen törenle yeniden açıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/lubnan-suriye-arasindaki-abbudiyye-debbusiye-kapisi-2-yil-aradan-sonra-yeniden-acildi/4117561",
-   "zaman": "2026-11-09T18:33:27+03:00",
-   "kelimeler": [
-    "abbud",
-    "acild",
-    "arada",
-    "arasi",
-    "debbu",
-    "kapis",
-    "lubna",
-    "suriy",
-    "yenid",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "31071e6f6acb": {
-   "id": "31071e6f6acb",
-   "kaynak": "Hürriyet",
-   "baslik": "Fon soruşturmasında Ömer Murat Gülkan gözaltına alındı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında OMG Capital Advisors Yönetim Kurulu Başkanı Ömer Murat Gülkan gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-omer-murat-gulkan-gozaltina-alindi-43371965",
-   "zaman": "2026-11-09T18:33:33+03:00",
-   "kelimeler": [
-    "alind",
-    "fon",
-    "gozal",
-    "gulka",
-    "murat",
-    "omer",
-    "sorus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e90c66e89ef0": {
-   "id": "e90c66e89ef0",
-   "kaynak": "Hürriyet",
-   "baslik": "SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı",
-   "ozet": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarıda bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari-43371973",
-   "zaman": "2026-11-09T18:41:18+03:00",
-   "kelimeler": [
-    "amacl",
-    "den",
-    "dolan",
-    "fon",
-    "giris",
-    "ilisk",
-    "spk",
-    "uyari",
-    "yatir",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "516610ee465c"
-  },
-  "fce9476aa79b": {
-   "id": "fce9476aa79b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Hayali arkadaşlar zihni nasıl geliştirebilir?",
-   "ozet": "Hangi biçimde olursa olsun, hayali arkadaşların faydaları yetişkinliğe kadar sürebiliyor ve gerçek hayattaki zorlu durumların üstesinden gelmemize yardımcı olabiliyor.",
-   "link": "https://www.bbc.com/turkce/articles/c9y7llpjndd4o",
-   "zaman": "2026-11-09T18:43:30+03:00",
-   "kelimeler": [
-    "arkad",
-    "gelis",
-    "hayal",
-    "nasil",
-    "zihni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0e2404cade78": {
    "id": "0e2404cade78",
    "kaynak": "Sözcü",
@@ -181,27 +100,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "8be0a599482a": {
-   "id": "8be0a599482a",
-   "kaynak": "TRT Haber",
-   "baslik": "Fransa'da işçi sendikalarından 17 Kasım'da genel grev çağrısı",
-   "ozet": "Fransa'da Sarı Yeleklilerin yer yer sokağa çıktığı protestoların yanı sıra farklı şehirlerde öğrenci eylemleri haftalardır sürerken, ülkenin önde gelen sendikaları 17 Kasım'da genel grev ve eylem çağrısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-isci-sendikalarindan-17-kasimda-genel-grev-cagrisi-962707.html",
-   "zaman": "2026-11-09T18:37:00+03:00",
-   "kelimeler": [
-    "17",
-    "cagri",
-    "frans",
-    "genel",
-    "grev",
-    "isci",
-    "kasim",
-    "sendi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7cd71692f7cf"
   },
   "6567f1374f4f": {
    "id": "6567f1374f4f",
@@ -30096,7 +29994,10 @@
     "puand"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "021e704f2963": {
    "id": "021e704f2963",
@@ -36728,9 +36629,140 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "524e342f5c41": {
+   "id": "524e342f5c41",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Göktaş: İklim değişikliği 216 milyon kişiyi yerinden edebilir",
+   "ozet": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Dünya Bankası'nın öngörülerine göre 2050 yılına kadar 216 milyon kişinin iklim değişikliği nedeniyle kendi ülkesi içinde yer değiştirmek zorunda kalabileceğini belirterek, “Bu hareketlilik, kırsal nüfusun azalmasından…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-goktas-iklim-degisikligi-216-milyon-kisiyi-yerinden-edebilir-43376117",
+   "zaman": "2026-11-12T18:23:19+03:00",
+   "kelimeler": [
+    "216",
+    "bakan",
+    "degis",
+    "edebi",
+    "gokta",
+    "iklim",
+    "kisiy",
+    "milyo",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7b979d9cbf28": {
+   "id": "7b979d9cbf28",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin de aralarında bulunduğu 53 ülkeden Gazze çağrısı",
+   "ozet": "Türkiye'nin aralarında olduğu 53 ülke ve kuruluş, Gazze'ye insani yardımın erişimine derhal izin verilmesi ve İsrail saldırılarından hesap sorulması çağrısı yaptı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-de-aralarinda-bulundugu-53-ulkeden-gazze-cagrisi-963096.html",
+   "zaman": "2026-11-12T18:25:00+03:00",
+   "kelimeler": [
+    "53",
+    "arala",
+    "bulun",
+    "cagri",
+    "gazze",
+    "nin",
+    "turki",
+    "ulked"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "bce66b3e95b2": {
+   "id": "bce66b3e95b2",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin de aralarında bulunduğu 53 ülke ve kuruluştan Gazze çağrısı",
+   "ozet": "Türkiye'nin aralarında olduğu 53 ülke ve kuruluş, Gazze'ye insani yardımın erişimine derhal izin verilmesi ve İsrail saldırılarından hesap sorulması çağrısı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-de-aralarinda-bulundugu-53-ulke-ve-kurulustan-gazze-cagrisi/4123039",
+   "zaman": "2026-11-12T18:25:58+03:00",
+   "kelimeler": [
+    "53",
+    "arala",
+    "bulun",
+    "cagri",
+    "gazze",
+    "kurul",
+    "nin",
+    "turki",
+    "ulke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7b979d9cbf28"
+  },
+  "496d69824710": {
+   "id": "496d69824710",
+   "kaynak": "Hürriyet",
+   "baslik": "BIST 100 endeksinde güçlü kapanış",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 11.811,19 puandan tamamladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bist-100-endeksinde-guclu-kapanis-43376123",
+   "zaman": "2026-11-12T18:26:57+03:00",
+   "kelimeler": [
+    "100",
+    "bist",
+    "endek",
+    "guclu",
+    "kapan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2b21f71543ff"
+  },
+  "e65249dd8944": {
+   "id": "e65249dd8944",
+   "kaynak": "Hürriyet",
+   "baslik": "Cevdet Yılmaz: 1 milyar insan, zarar veren pişirme yöntemlerine bağımlıdır",
+   "ozet": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, \"Afrika’da yaklaşık bir milyar insan, yemeklerini hazırlamak için hala sağlığa ve çevreye zarar veren geleneksel yakıtlara ve pişirme yöntemlerine bağımlıdır\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cevdet-yilmaz-1-milyar-insan-zarar-veren-pisirme-yontemlerine-bagimlidir-43376127",
+   "zaman": "2026-11-12T18:35:29+03:00",
+   "kelimeler": [
+    "bagim",
+    "cevde",
+    "insan",
+    "milya",
+    "pisir",
+    "veren",
+    "yilma",
+    "yonte",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "58f57fe708bb": {
+   "id": "58f57fe708bb",
+   "kaynak": "TRT Haber",
+   "baslik": "ABİsrail Ortaklık Anlaşması'nın askıya alınması için toplanan 1 milyondan fazla imza AB'ye sunuldu",
+   "ozet": "Avrupa Birliği AB ile İsrail arasındaki Ortaklık Anlaşması'nın askıya alınmasını talep eden Avrupa Vatandaş Girişimi ECI kapsamında toplanan 1 milyondan fazla doğrulanmış imza, AB Komisyonu'na sunuldu.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-israil-ortaklik-anlasmasinin-askiya-alinmasi-icin-toplanan-1-milyondan-fazla-imza-abye-sunuldu-963097.html",
+   "zaman": "2026-11-12T18:36:00+03:00",
+   "kelimeler": [
+    "ab",
+    "abisr",
+    "alinm",
+    "anlas",
+    "askiy",
+    "fazla",
+    "imza",
+    "milyo",
+    "nin",
+    "ortak",
+    "sunul",
+    "topla",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 18:47:06  4 yeni haber",
   "12.11 18:31:23  4 yeni haber",
   "12.11 18:16:07  2 yeni haber",
   "12.11 18:01:23  5 yeni haber",
@@ -36929,8 +36961,7 @@
   "10.11 16:46:11  6 yeni haber",
   "10.11 16:31:16  17 yeni haber",
   "10.11 16:01:53  7 yeni haber",
-  "10.11 15:47:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın ",
-  "10.11 15:46:01  3 yeni haber"
+  "10.11 15:47:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın "
  ],
  "otomatik": false
 }
