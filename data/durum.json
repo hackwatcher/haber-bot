@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "a415667d6502": {
-   "id": "a415667d6502",
-   "kaynak": "NTV",
-   "baslik": "COP31 alanında binlerce dronla gösteri",
-   "ozet": "Türkiye’nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi’nin 31’inci Taraflar Konferansı (COP31) için binlerce dronla gösteri düzenlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-cop31-alaninda-binlerce-dronla-gosteri-1750174",
-   "zaman": "2026-11-10T01:58:36+03:00",
-   "kelimeler": [
-    "alani",
-    "binle",
-    "cop31",
-    "dronl",
-    "goste"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3dfa1a00125d": {
    "id": "3dfa1a00125d",
    "kaynak": "AA",
@@ -37353,9 +37336,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c608a4b8d4c5": {
+   "id": "c608a4b8d4c5",
+   "kaynak": "AA",
+   "baslik": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
+   "ozet": "Almanya merkezli insansız hava aracı (İHA) üreticisi Quantum Systems'in şirket ağına siber saldırı düzenlendiği ve güncelleme sunucusuna zararlı yazılım yerleştirildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/-alman-iha-ureticisi-quantum-systemse-siber-saldiri/4123545",
+   "zaman": "2026-11-13T01:45:03+03:00",
+   "kelimeler": [
+    "alman",
+    "iha",
+    "quant",
+    "saldi",
+    "siber",
+    "syste",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f5ceb45622d1": {
+   "id": "f5ceb45622d1",
+   "kaynak": "AA",
+   "baslik": "BUDO'nun 10 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin (BUDO) 10 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-10-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4123546",
+   "zaman": "2026-11-13T01:45:18+03:00",
+   "kelimeler": [
+    "10",
+    "budo",
+    "edild",
+    "hava",
+    "iptal",
+    "kosul",
+    "neden",
+    "nun",
+    "olums",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "837e8a41e260"
+  },
+  "a17fea9fecb4": {
+   "id": "a17fea9fecb4",
+   "kaynak": "AA",
+   "baslik": "ABD'de kargo gemisinin Tacony-Palmyra Köprüsü'ne çarpması trafiği felç etti",
+   "ozet": "ABD'de büyük bir kargo gemisinin Pennsylvania ve New Jersey'yi birbirine bağlayan Tacony-Palmyra Köprüsü'ne çarpması sonucu eyaletler arası çevre yolunda uzun kuyruklar oluştu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-kargo-gemisinin-tacony-palmyra-koprusune-carpmasi-trafigi-felc-etti/4123547",
+   "zaman": "2026-11-13T01:45:26+03:00",
+   "kelimeler": [
+    "abd",
+    "carpm",
+    "etti",
+    "felc",
+    "gemis",
+    "kargo",
+    "kopru",
+    "palmy",
+    "tacon",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 02:01:48  2 yeni haber",
   "13.11 01:46:22  1 yeni haber",
   "13.11 01:32:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Diyaliz Merkezleri Hakkında Yönetmelik Resmî Gazete’de yayımlandı",
   "13.11 01:29:36  3 yeni haber",
@@ -37554,8 +37602,7 @@
   "11.11 00:34:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 50 metrelik uçuruma yuvarlanan otomobilden sağ kurtuldular",
   "11.11 00:32:05  2 yeni haber",
   "11.11 00:16:03  2 yeni haber",
-  "11.11 00:04:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ölen kadının telefonu çaldı, açan kişinin boğazı düğümlendi! Kaza yeri",
-  "11.11 00:01:32  2 yeni haber"
+  "11.11 00:04:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Ölen kadının telefonu çaldı, açan kişinin boğazı düğümlendi! Kaza yeri"
  ],
  "otomatik": false
 }
