@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "5eb3ed35b8a6": {
-   "id": "5eb3ed35b8a6",
-   "kaynak": "AA",
-   "baslik": "NBA'de Pistons'ı yenen Lakers, üst üste 5. galibiyetini aldı",
-   "ozet": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers, deplasmanda Detroit Pistons'ı 121-116 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/nbade-pistonsi-yenen-lakers-ust-uste-5-galibiyetini-aldi/4116451",
-   "zaman": "2026-11-09T09:40:36+03:00",
-   "kelimeler": [
-    "aldi",
-    "galib",
-    "laker",
-    "nba",
-    "pisto",
-    "ust",
-    "uste",
-    "yenen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6865a02c867d": {
-   "id": "6865a02c867d",
-   "kaynak": "AA",
-   "baslik": "Trump, UFC Başkanı White'a Beyaz Saray basın sözcülüğü teklifinin şaka olduğunu söyledi",
-   "ozet": "ABD Başkanı Donald Trump, Ultimate Fighting Championship (UFC) Başkanı ve Üst Yöneticisi (CEO) Dana White'a Beyaz Saray basın sözcülüğü görevini teklif ettiğine ilişkin açıklamasının şaka olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-ufc-baskani-whitea-beyaz-saray-basin-sozculugu-teklifinin-saka-oldugunu-soyledi/4116452",
-   "zaman": "2026-11-09T09:42:41+03:00",
-   "kelimeler": [
-    "basin",
-    "baska",
-    "beyaz",
-    "oldug",
-    "saka",
-    "saray",
-    "soyle",
-    "sozcu",
-    "tekli",
-    "trump",
-    "ufc",
-    "white"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8d2ef9c8adbf"
-  },
   "bc132c326829": {
    "id": "bc132c326829",
    "kaynak": "TRT Haber",
@@ -35823,7 +35778,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "747a39388e13": {
    "id": "747a39388e13",
@@ -36375,7 +36333,10 @@
     "tekno"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "288dde3af29f": {
    "id": "288dde3af29f",
@@ -36525,7 +36486,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "392a201ea82e": {
@@ -36550,9 +36512,164 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "8aae5e0716f6"
+  },
+  "69af49332185": {
+   "id": "69af49332185",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin Mississippi eyaletinde 1874'ten bu yana ilk kez bir siyahi senatör seçildi",
+   "ozet": "ABD'de 3 Kasım'da yapılan ara seçimlerde Mississippi'deki Senato yarışını kazanan Demokrat Scott Colom, eyalette 152 yıl sonra seçilen ilk siyahi senatör oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-mississippi-eyaletinde-1874ten-bu-yana-ilk-kez-bir-siyahi-senator-secildi-963010.html",
+   "zaman": "2026-11-12T09:15:00+03:00",
+   "kelimeler": [
+    "1874",
+    "abd",
+    "eyale",
+    "ilk",
+    "kez",
+    "missi",
+    "nin",
+    "secil",
+    "senat",
+    "siyah",
+    "ten",
+    "yana"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "671176869212": {
+   "id": "671176869212",
+   "kaynak": "TRT Haber",
+   "baslik": "AK Parti Sözcüsü Çelik: Katliam şebekesi, suçlarını bu yalanlarla gizleyemez",
+   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Soykırım şebekesinin üyelerinin Sayın Cumhurbaşkanımızı hedef alan hadsiz açıklamaları, işledikleri insanlık suçlarını ve katliamları örtbas edemeyecektir.",
+   "link": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-katliam-sebekesi-suclarini-bu-yalanlarla-gizleyemez-963008.html",
+   "zaman": "2026-11-12T09:21:00+03:00",
+   "kelimeler": [
+    "ak",
+    "celik",
+    "gizle",
+    "katli",
+    "parti",
+    "sebek",
+    "sozcu",
+    "sucla",
+    "yalan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8aae5e0716f6"
+  },
+  "456d7a24e148": {
+   "id": "456d7a24e148",
+   "kaynak": "TRT Haber",
+   "baslik": "Küresel piyasalarda Nvidia şoku",
+   "ozet": "Küresel piyasalar, ABD'li çip üreticisi Nvidia'nın Üst Yöneticisi CEO Jensen Huang'ın görevden alınabileceği iddialarının yapay zeka hisselerinde satış baskısını artırmasıyla karışık seyrediyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-nvidia-soku-963011.html",
+   "zaman": "2026-11-12T09:24:00+03:00",
+   "kelimeler": [
+    "kures",
+    "nvidi",
+    "piyas",
+    "soku"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "128cfd8b5e76"
+  },
+  "825faa89f457": {
+   "id": "825faa89f457",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan: İklim değişikliğiyle mücadele, teknik tedbirlerin ötesinde bir zihniyet dönüşümünü gerektiriyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, Birleşmiş Milletler BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, COP31 Liderler Zirvesi kapsamında düzenlenen \"Sıfır Atık, Döngüsellik ve MetanLiderler Yuvarlak Masa Toplantısı\"na ilişkin paylaşımda…",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-iklim-degisikligiyle-mucadele-teknik-tedbirlerin-otesinde-bir-zihniyet-donusumunu-gerektiriyor-963009.html",
+   "zaman": "2026-11-12T09:25:00+03:00",
+   "kelimeler": [
+    "degis",
+    "donus",
+    "emine",
+    "erdog",
+    "gerek",
+    "iklim",
+    "mucad",
+    "otesi",
+    "tedbi",
+    "tekni",
+    "zihni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "30502bbb2db3"
+  },
+  "7a3de62234d9": {
+   "id": "7a3de62234d9",
+   "kaynak": "Hürriyet",
+   "baslik": "Edirne ve Kırklareli'nde 17 düzensiz göçmen yakalandı, 1 organizatör gözaltına alındı",
+   "ozet": "Edirne ve Kırklareli'nde 17 düzensiz göçmen yakalandı. Göçmen kaçakçılığı yaptığı iddiasıyla bir şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/edirne-ve-kirklarelinde-17-duzensiz-gocmen-yakalandi-1-organizator-gozaltina-alindi-43375108",
+   "zaman": "2026-11-12T09:25:59+03:00",
+   "kelimeler": [
+    "17",
+    "alind",
+    "duzen",
+    "edirn",
+    "gocme",
+    "gozal",
+    "kirkl",
+    "nde",
+    "organ",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba2a6b0c211b": {
+   "id": "ba2a6b0c211b",
+   "kaynak": "AA",
+   "baslik": "\"Gayda Yolu\" 14. Boğaziçi Film Festivali'nde izleyicilerle buluştu",
+   "ozet": "Yönetmenliğini Bişar Bektaş'ın üstlendiği \"Gayda Yolu\", 14. Boğaziçi Film Festivali'nde beğeniye sunuldu.",
+   "link": "https://www.aa.com.tr/tr/kultur/gayda-yolu-14-bogazici-film-festivalinde-izleyicilerle-bulustu/4121686",
+   "zaman": "2026-11-12T09:27:48+03:00",
+   "kelimeler": [
+    "14",
+    "bogaz",
+    "bulus",
+    "festi",
+    "film",
+    "gayda",
+    "izley",
+    "nde",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bc40a753370b": {
+   "id": "bc40a753370b",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan'dan COP31 mesajı: Teknik tedbirlerin ötesinde zihniyet dönüşümü şart",
+   "ozet": "COP31 Liderler Zirvesi'nde BM Genel Sekreteri Guterres ve hükümet başkanlarıyla bir araya gelen Emine Erdoğan, gıda kayıplarından metan emisyonlarına kadar uzanan küresel başlıkların ele alındığı toplantıya ilişkin mesaj paylaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-cop31-mesaji-teknik-tedbirlerin-otesinde-zihniyet-donusumu-sart-43375120",
+   "zaman": "2026-11-12T09:37:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "dan",
+    "donus",
+    "emine",
+    "erdog",
+    "mesaj",
+    "otesi",
+    "sart",
+    "tedbi",
+    "tekni",
+    "zihni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "30502bbb2db3"
   }
  },
  "kayit": [
+  "12.11 09:46:04  3 yeni haber",
   "12.11 09:34:34  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Resmi Gazete'de bugün neler var? (12 Kasım 2026 Resmi Gazete kararları",
   "12.11 09:31:54  5 yeni haber",
   "12.11 09:16:06  6 yeni haber",
@@ -36751,8 +36868,7 @@
   "10.11 07:03:50  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Google, 10 Kasım'da Atatürk'ü siyah kurdele ile andı.",
   "10.11 07:02:16  3 yeni haber",
   "10.11 05:32:32  1 yeni haber",
-  "10.11 05:01:27  1 yeni haber",
-  "10.11 03:46:01  1 yeni haber"
+  "10.11 05:01:27  1 yeni haber"
  ],
  "otomatik": false
 }
