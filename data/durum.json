@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "0ba1b5230ae0": {
-   "id": "0ba1b5230ae0",
-   "kaynak": "AA",
-   "baslik": "İsrail askerleri, Suriye'nin Kuneytra ilinde gazetecilere ateş açtı, 1 kişi yaralandı",
-   "ozet": "İsrail askerlerinin Suriye'nin güneyindeki Kuneytra ilinin kırsalında baskını görüntüleyen bir grup gazeteciye ateş açtığı, 1 kişinin yaralandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-suriyenin-kuneytra-ilinde-gazetecilere-ates-acti-1-kisi-yaralandi/4117497",
-   "zaman": "2026-11-09T17:34:47+03:00",
-   "kelimeler": [
-    "acti",
-    "asker",
-    "ates",
-    "gazet",
-    "ilind",
-    "israi",
-    "kisi",
-    "kuney",
-    "nin",
-    "suriy",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2c2630334272": {
-   "id": "2c2630334272",
-   "kaynak": "Hürriyet",
-   "baslik": "MHP lideri Bahçeli'den 10 Kasım mesajı",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Gazi Mustafa Kemal Atatürk'ün vefatının 88. yıl dönümü dolayısıyla mesajı yayımladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-10-kasim-mesaji-43371915",
-   "zaman": "2026-11-09T17:45:00+03:00",
-   "kelimeler": [
-    "10",
-    "bahce",
-    "den",
-    "kasim",
-    "lider",
-    "mesaj",
-    "mhp"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "NTV"
-   ],
-   "paylasildi": "2026-11-09T19:50:10.280607+03:00",
-   "ig_id": "18124715576317027",
-   "reels_id": "18003301787813553",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2923147078062074",
-   "slayt": 6,
-   "kanca": "88. YIL MESAJI"
-  },
   "2d6f0c5259cc": {
    "id": "2d6f0c5259cc",
    "kaynak": "AA",
@@ -36631,7 +36576,10 @@
     "sona"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c6e34393518f": {
    "id": "c6e34393518f",
@@ -36678,7 +36626,10 @@
     "yedek"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b897aaeb2bcd": {
    "id": "b897aaeb2bcd",
@@ -36699,9 +36650,130 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f412c3847bb1"
+  },
+  "53709a2c49ff": {
+   "id": "53709a2c49ff",
+   "kaynak": "AA",
+   "baslik": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut Yunus Emre Enstitüsünü ziyaret etti",
+   "ozet": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmettin Bilal Erdoğan, Beyrut'taki Yunus Emre Enstitüsünü (YEE) ziyaret ederek Geleneksel Türk Okçuluğu Sergisi'nin açılışını yaptı.",
+   "link": "https://www.aa.com.tr/tr/kultur/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrut-yunus-emre-enstitusunu-ziyaret-etti/4122605",
+   "zaman": "2026-11-12T16:13:23+03:00",
+   "kelimeler": [
+    "baska",
+    "beyru",
+    "bilal",
+    "emre",
+    "ensti",
+    "erdog",
+    "etti",
+    "heyet",
+    "ilim",
+    "mutev",
+    "vakfi",
+    "yayma",
+    "yunus",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "815cdaefa927": {
+   "id": "815cdaefa927",
+   "kaynak": "TRT Haber",
+   "baslik": "AB: Gelecek haftalar Rusya'nın savaşı sona erdirme istekliliği için belirleyici olacak",
+   "ozet": "AB Konseyi Başkanı Costa, önümüzdeki haftaların Moskova'nın RusyaUkrayna Savaşı'nı sona erdirme konusundaki istekliliğini ortaya koyacağını söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-gelecek-haftalar-rusyanin-savasi-sona-erdirme-istekliligi-icin-belirleyici-olacak-963090.html",
+   "zaman": "2026-11-12T17:20:00+03:00",
+   "kelimeler": [
+    "ab",
+    "belir",
+    "erdir",
+    "gelec",
+    "hafta",
+    "istek",
+    "nin",
+    "olaca",
+    "rusya",
+    "savas",
+    "sona"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ff8389f010ff"
+  },
+  "eaf688db5d49": {
+   "id": "eaf688db5d49",
+   "kaynak": "TRT Haber",
+   "baslik": "AB Komisyonu üyesinden işgalci İsrail'in hastane saldırısına soruşturma çağrısı",
+   "ozet": "AB Komisyonu üyesi Lahbib, işgalci İsrail'in Gazze'deki Nasır Hastanesi'ne saldırısına ilişkin bağımsız ve tarafsız soruşturma çağrısı yaptı.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-komisyonu-uyesinden-isgalci-israilin-hastane-saldirisina-sorusturma-cagrisi-963091.html",
+   "zaman": "2026-11-12T17:26:00+03:00",
+   "kelimeler": [
+    "ab",
+    "cagri",
+    "hasta",
+    "in",
+    "isgal",
+    "israi",
+    "komis",
+    "saldi",
+    "sorus",
+    "uyesi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "884ded8d2919": {
+   "id": "884ded8d2919",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de F35 uçaklarına ait yaklaşık 17 bin yedek parçanın Pentagon sisteminde kayıtlı olmadığı belirtildi",
+   "ozet": "ABD'de Hükümet Hesap Verebilirlik Ofisi GAO, ABD Savunma Bakanlığının Pentagon, F35 savaş uçaklarına ait yedek parçaların takibi ve envanter kayıtlarının tutulmasında sorun yaşamaya devam ettiğini ve yaklaşık 17 bin parçanın sistemde kayıtlı olmadığını belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-f-35-ucaklarina-ait-yaklasik-17-bin-yedek-parcanin-pentagon-sisteminde-kayitli-olmadigi-belirtildi-963092.html",
+   "zaman": "2026-11-12T17:28:00+03:00",
+   "kelimeler": [
+    "17",
+    "abd",
+    "ait",
+    "belir",
+    "bin",
+    "f35",
+    "kayit",
+    "olmad",
+    "parca",
+    "penta",
+    "siste",
+    "ucakl",
+    "yakla",
+    "yedek"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c2cc2519d5aa"
+  },
+  "66655a9cf916": {
+   "id": "66655a9cf916",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Memişoğlu: Sağlığın korunması ülkelerin sınırlarını aşan ortak bir sorumluluktur",
+   "ozet": "Sağlık Bakanı Prof. Dr. Kemal Memişoğlu, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-sagligin-korunmasi-ulkelerin-sinirlarini-asan-ortak-bir-sorumluluktur-43376070",
+   "zaman": "2026-11-12T17:40:11+03:00",
+   "kelimeler": [
+    "asan",
+    "bakan",
+    "korun",
+    "memis",
+    "ortak",
+    "sagli",
+    "sinir",
+    "sorum",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "12.11 17:46:16  3 yeni haber",
   "12.11 17:31:45  6 yeni haber",
   "12.11 17:18:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Jensen Huang Nvidia CEO'luğundan istifa etti",
   "12.11 17:16:02  9 yeni haber",
@@ -36900,8 +36972,7 @@
   "10.11 15:46:01  3 yeni haber",
   "10.11 15:39:05  13 yeni haber",
   "10.11 15:16:07  15 yeni haber",
-  "10.11 14:46:09  3 yeni haber",
-  "10.11 14:38:58  9 yeni haber"
+  "10.11 14:46:09  3 yeni haber"
  ],
  "otomatik": false
 }
