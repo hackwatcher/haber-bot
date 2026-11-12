@@ -1,21 +1,5 @@
 {
  "haberler": {
-  "eade0bb15a70": {
-   "id": "eade0bb15a70",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanlığı Kabinesi bugün toplanacak",
-   "ozet": "Kabine, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında toplanacak. Toplantıda, fon soruşturmasındaki gelişmeler, Terörsüz Türkiye sürecinde gelinen aşama ile Antalya'da yapılacak ve 197 ülkeden 100 bin misafirin ağırlanacağı COP31 İklim Zirvesi'yle ilgili değerlendirmeler…",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kabinesi-bugun-toplanacak-962627.html",
-   "zaman": "2026-11-09T05:34:00+03:00",
-   "kelimeler": [
-    "bugun",
-    "cumhu",
-    "kabin",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "aac1fd5fc535": {
    "id": "aac1fd5fc535",
    "kaynak": "TRT Haber",
@@ -35098,7 +35082,10 @@
     "york"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ee7ef3f53d51": {
    "id": "ee7ef3f53d51",
@@ -35685,9 +35672,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d7430ed78cc0": {
+   "id": "d7430ed78cc0",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe Tarfin, Paris Basketbol'a 111-109 mağlup oldu",
+   "ozet": "Avrupa Ligi'nin 11. haftasında Fenerbahçe Tarfin, konuk olduğu Fransa ekibi Paris Basketbol'a uzatmada 111-109 yenildi.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-paris-basketbola-111-109-maglup-oldu/4121529",
+   "zaman": "2026-11-12T01:31:57+03:00",
+   "kelimeler": [
+    "109",
+    "111",
+    "baske",
+    "fener",
+    "maglu",
+    "paris",
+    "tarfi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6014b13b1d50": {
+   "id": "6014b13b1d50",
+   "kaynak": "AA",
+   "baslik": "İngiltere Dışişleri Bakanı Miliband, fosil yakıtlara bağımlılığın ulusal güvenliği zayıflattığını söyledi",
+   "ozet": "İngiltere Dışişleri Bakanı Ed Miliband, fosil yakıtlara bağımlılığın jeopolitik çatışmaların yol açtığı ekonomik etkiler nedeniyle ulusal güvenliği zayıflattığını belirterek, temiz enerjiye geçişin hızlandırılması çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-disisleri-bakani-miliband-fosil-yakitlara-bagimliligin-ulusal-guvenligi-zayiflattigini-soyledi/4121548",
+   "zaman": "2026-11-12T02:41:12+03:00",
+   "kelimeler": [
+    "bagim",
+    "bakan",
+    "disis",
+    "fosil",
+    "guven",
+    "ingil",
+    "milib",
+    "soyle",
+    "ulusa",
+    "yakit",
+    "zayif"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "78a08fb2f2f1": {
+   "id": "78a08fb2f2f1",
+   "kaynak": "TRT Haber",
+   "baslik": "New York'ta bina çöktü",
+   "ozet": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişi öldü, bazı apartman sakinleri yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/new-yorkta-bina-coktu-962982.html",
+   "zaman": "2026-11-12T05:22:00+03:00",
+   "kelimeler": [
+    "bina",
+    "coktu",
+    "new",
+    "ta",
+    "york"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f92f8a8c22a7"
   }
  },
  "kayit": [
+  "12.11 05:46:06  2 yeni haber",
   "12.11 05:31:22  2 yeni haber",
   "12.11 05:16:14  2 yeni haber",
   "12.11 05:01:32  2 yeni haber",
@@ -35886,8 +35934,7 @@
   "09.11 23:46:02  4 yeni haber",
   "09.11 23:31:29  3 yeni haber",
   "09.11 23:16:05  2 yeni haber",
-  "09.11 22:46:09  7 yeni haber",
-  "09.11 22:17:20  1 yeni haber"
+  "09.11 22:46:09  7 yeni haber"
  ],
  "otomatik": false
 }
