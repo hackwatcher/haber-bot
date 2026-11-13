@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "a5339bf0048c": {
-   "id": "a5339bf0048c",
-   "kaynak": "TRT Haber",
-   "baslik": "Arap Koalisyonu: Suudi Arabistan'ın güneyi ile Riyad'a fırlatılan balistik füzeler engellendi",
-   "ozet": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tuğgeneral Turki elMaliki, ülkenin güneyi ile başkent Riyad'a fırlatılan balistik füzelerin imha edildiğini bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-guneyi-ile-riyada-firlatilan-balistik-fuzeler-engellendi-962738.html",
-   "zaman": "2026-11-10T06:43:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "arap",
-    "balis",
-    "engel",
-    "firla",
-    "fuzel",
-    "guney",
-    "in",
-    "koali",
-    "riyad",
-    "suudi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1fe7513001df"
-  },
   "ffd0c1a4ae8b": {
    "id": "ffd0c1a4ae8b",
    "kaynak": "TRT Haber",
@@ -36742,7 +36718,10 @@
     "yasan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c1af9566ad30": {
    "id": "c1af9566ad30",
@@ -37845,9 +37824,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7069297e6ba8": {
+   "id": "7069297e6ba8",
+   "kaynak": "TRT Haber",
+   "baslik": "Microsoft'ta küresel kesinti: Outlook ve Teams hizmetlerinde erişim sorunu yaşanıyor",
+   "ozet": "Microsoft; ABD, Japonya, Singapur, Birleşik Krallık ve Avustralya dahil dünya genelinde on binlerce kullanıcıyı etkileyen büyük çaplı bir küresel kesintiyi gidermeye çalışıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/microsoftta-kuresel-kesinti-outlook-ve-teams-hizmetlerinde-erisim-sorunu-yasaniyor-963125.html",
+   "zaman": "2026-11-13T06:23:00+03:00",
+   "kelimeler": [
+    "erisi",
+    "hizme",
+    "kesin",
+    "kures",
+    "micro",
+    "outlo",
+    "sorun",
+    "ta",
+    "teams",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5ea97ae2d6ac"
+  },
+  "e8c31af51c48": {
+   "id": "e8c31af51c48",
+   "kaynak": "TRT Haber",
+   "baslik": "İtalya'da bomba ihbarları okullarda yeni tahliyelere yol açtı",
+   "ozet": "İtalya genelindeki okullar üst üste ikinci gün bomba tehdidi aldı ve tahliyelere yol açtı.",
+   "link": "https://www.trthaber.com/haber/dunya/italyada-bomba-ihbarlari-okullarda-yeni-tahliyelere-yol-acti-963126.html",
+   "zaman": "2026-11-13T06:25:00+03:00",
+   "kelimeler": [
+    "acti",
+    "bomba",
+    "ihbar",
+    "italy",
+    "okull",
+    "tahli",
+    "yeni",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b2295c764ec9": {
+   "id": "b2295c764ec9",
+   "kaynak": "Sözcü",
+   "baslik": "2027'de geçerli olacak trafik cezaları belli oldu: Bu hataları yapan yandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/2027de-gecerli-olacak-trafik-cezalari-belli-oldu-bu-hatalari-yapan-yandi-p380853",
+   "zaman": "2026-11-13T06:30:38+03:00",
+   "kelimeler": [
+    "2027",
+    "belli",
+    "cezal",
+    "gecer",
+    "hatal",
+    "olaca",
+    "trafi",
+    "yandi",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 06:46:10  2 yeni haber",
   "13.11 06:31:24  2 yeni haber",
   "13.11 06:16:08  1 yeni haber",
   "13.11 06:01:31  2 yeni haber",
@@ -38046,8 +38090,7 @@
   "11.11 03:46:07  1 yeni haber",
   "11.11 03:31:27  2 yeni haber",
   "11.11 03:16:21  1 yeni haber",
-  "11.11 02:31:24  1 yeni haber",
-  "11.11 02:16:12  1 yeni haber"
+  "11.11 02:31:24  1 yeni haber"
  ],
  "otomatik": false
 }
