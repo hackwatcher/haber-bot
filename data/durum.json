@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "ba54dc382661": {
-   "id": "ba54dc382661",
-   "kaynak": "Hürriyet",
-   "baslik": "Sonbaharın renkleri arasında anlamlı anma: Zirvede Atatürk için saygı duruşu",
-   "ozet": "Osmaniye’nin Düziçi ilçesindeki Dumanlı Yaylası, 10 Kasım'da yüzlerce doğaseverin katıldığı anlamlı bir buluşmaya sahne oldu.",
-   "link": "https://www.hurriyet.com.tr/gundem/sonbaharin-renkleri-arasinda-anlamli-anma-zirvede-ataturk-icin-saygi-durusu-43372228",
-   "zaman": "2026-11-10T08:21:57+03:00",
-   "kelimeler": [
-    "anlam",
-    "anma",
-    "arasi",
-    "atatu",
-    "durus",
-    "renkl",
-    "saygi",
-    "sonba",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "717480a80afc": {
-   "id": "717480a80afc",
-   "kaynak": "NTV",
-   "baslik": "Kapadokya'da balonlar Türk bayrakları ve Atatürk posteri ile uçtu",
-   "ozet": "Kapadokya'da bazı sıcak hava balonları, \"10 Kasım Atatürk'ü Anma Günü\" dolayısıyla Türk bayrağı ve Atatürk posterleriyle uçtu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-balonlar-turk-bayraklari-ve-ataturk-posteri-ile-uctu-1750197",
-   "zaman": "2026-11-10T08:26:09+03:00",
-   "kelimeler": [
-    "atatu",
-    "balon",
-    "bayra",
-    "kapad",
-    "poste",
-    "turk",
-    "uctu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "17ac6a71d7e4"
-  },
   "adc43031a64d": {
    "id": "adc43031a64d",
    "kaynak": "NTV",
@@ -58,26 +17,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "904bc3314a8b": {
-   "id": "904bc3314a8b",
-   "kaynak": "TRT Haber",
-   "baslik": "Kapadokya'da balonlar Türk bayrağı ve Atatürk posteriyle uçtu",
-   "ozet": "Kapadokya'da bazı sıcak hava balonları, \"10 Kasım Atatürk'ü Anma Günü\" dolayısıyla Türk bayrağı ve Atatürk posterleriyle uçtu.",
-   "link": "https://www.trthaber.com/haber/turkiye/kapadokyada-balonlar-turk-bayragi-ve-ataturk-posteriyle-uctu-962752.html",
-   "zaman": "2026-11-10T08:23:00+03:00",
-   "kelimeler": [
-    "atatu",
-    "balon",
-    "bayra",
-    "kapad",
-    "poste",
-    "turk",
-    "uctu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "17ac6a71d7e4"
   },
   "8f4a1716dec0": {
    "id": "8f4a1716dec0",
@@ -35758,7 +35697,8 @@
     "sefer"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "dfd6eed44f14": {
    "id": "dfd6eed44f14",
@@ -37763,10 +37703,169 @@
     "yerin"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "9821306a89a1": {
+   "id": "9821306a89a1",
+   "kaynak": "Sözcü",
+   "baslik": "Mustafa Sarıgül'ün diğer oğlu daha etkin pişmanlığa başvuracak",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mustafa-sarigul-un-diger-oglu-daha-etkin-pismanliga-basvuracak-p380815",
+   "zaman": "2026-11-13T07:42:22+03:00",
+   "kelimeler": [
+    "basvu",
+    "diger",
+    "etkin",
+    "musta",
+    "oglu",
+    "pisma",
+    "sarig",
+    "un"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "c062adf783cf": {
+   "id": "c062adf783cf",
+   "kaynak": "TRT Haber",
+   "baslik": "BM: Yemen'de ağustostan bu yana 333 binden fazla kişi yerinden edildi",
+   "ozet": "Birleşmiş Milletler BM, Yemen'de devam eden çatışmalar nedeniyle ağustos ayının başından bu yana yerinden edilenlerin sayısının 333 bini aştığını, bunların 24 binden fazlasının yalnızca geçen hafta evlerini terk etmek zorunda kaldığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-yemende-agustostan-bu-yana-333-binden-fazla-kisi-yerinden-edildi-963141.html",
+   "zaman": "2026-11-13T08:11:00+03:00",
+   "kelimeler": [
+    "333",
+    "agust",
+    "binde",
+    "bm",
+    "edild",
+    "fazla",
+    "kisi",
+    "yana",
+    "yemen",
+    "yerin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "81a276cc0408"
+  },
+  "a381b634cf80": {
+   "id": "a381b634cf80",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da İş yeri ve araçları kurşunlayan suç örgütüne operasyon: 22 gözaltı",
+   "ozet": "İstanbul’da nitelikli yağma, kasten öldürmeye teşebbüs ve iş yeri ile araç kurşunlama olaylarının da aralarında bulunduğu 15 ayrı eyleme karıştıkları belirlenen silahlı suç örgütüne yönelik operasyon düzenlendi. Eş zamanlı yapılan operasyonda 22 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-is-yeri-ve-araclari-kursunlayan-suc-orgutune-operasyon-22-gozalti-43376475",
+   "zaman": "2026-11-13T08:15:06+03:00",
+   "kelimeler": [
+    "22",
+    "aracl",
+    "gozal",
+    "is",
+    "istan",
+    "kursu",
+    "opera",
+    "orgut",
+    "suc",
+    "yeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b9cf028d0e4b": {
+   "id": "b9cf028d0e4b",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul ve Kocaeli'de sürücü kurslarına 'joker' operasyonu: Şüpheliler adliyeye sevk edildi",
+   "ozet": "İstanbul ve Kocaeli’de sürücü kursları üzerinden Motorlu Taşıt Sürücü Kursiyerleri (MTSK) sınavlarına joker sokulduğu ve kopya düzeneği kurdukları belirlenen kişilere operasyonda gözaltına alınan 23 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-ve-kocaelide-surucu-kurslarina-joker-operasyonu-supheliler-adliyeye-sevk-edildi-43376478",
+   "zaman": "2026-11-13T08:21:51+03:00",
+   "kelimeler": [
+    "adliy",
+    "edild",
+    "istan",
+    "joker",
+    "kocae",
+    "kursl",
+    "opera",
+    "sevk",
+    "suphe",
+    "suruc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df4ac4c70112": {
+   "id": "df4ac4c70112",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da lodos fırtınası. Şehir Hatları, İDO ve BUDO seferleri iptal edildi",
+   "ozet": "Marmara Bölgesi'nde etkili olan lodos, bu sabah saatlerinden itibaren etkisini daha da artırdı. Fırtına nedeniyle deniz ulaşımında aksamalar yaşanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-lodos-firtinasi-sehir-hatlari-ido-ve-budo-seferleri-iptal-edildi-1750652",
+   "zaman": "2026-11-13T08:25:14+03:00",
+   "kelimeler": [
+    "budo",
+    "edild",
+    "firti",
+    "hatla",
+    "ido",
+    "iptal",
+    "istan",
+    "lodos",
+    "sefer",
+    "sehir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06523c700447"
+  },
+  "bd479764c42f": {
+   "id": "bd479764c42f",
+   "kaynak": "NTV",
+   "baslik": "Sarıgül soruşturmasında yeni operasyon: 19 gözaltı kararı",
+   "ozet": "Sarıgül ailesiyle ilgili kara para aklama iddialarıyla başlatılan soruşturmada 19 kişi hakkında gözaltı kararı verildi. Şüphelilerden 17'si gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-yeni-operasyon-19-gozalti-karari-1750654",
+   "zaman": "2026-11-13T08:27:12+03:00",
+   "kelimeler": [
+    "19",
+    "gozal",
+    "karar",
+    "opera",
+    "sarig",
+    "sorus",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
+  },
+  "9767726c2fc7": {
+   "id": "9767726c2fc7",
+   "kaynak": "Sözcü",
+   "baslik": "Mustafa Sarıgül soruşturmasında yeni gelişme! 19 şüpheli hakkında daha gözaltı kararı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-sorusturmasi-19-supheli-hakkinda-gozalti-karari-p380880",
+   "zaman": "2026-11-13T08:28:48+03:00",
+   "kelimeler": [
+    "19",
+    "gelis",
+    "gozal",
+    "hakki",
+    "karar",
+    "musta",
+    "sarig",
+    "sorus",
+    "suphe",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bd479764c42f"
   }
  },
  "kayit": [
+  "13.11 08:31:11  4 yeni haber",
   "13.11 08:16:01  1 yeni haber",
   "13.11 08:01:23  4 yeni haber",
   "13.11 07:46:30  3 yeni haber",
@@ -37965,8 +38064,7 @@
   "11.11 07:02:51  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · ABD ordusunun üst düzey askerlerinden biri, Rusya adına casusluk yaptı",
   "11.11 07:01:23  5 yeni haber",
   "11.11 06:46:09  2 yeni haber",
-  "11.11 06:30:26  1 yeni haber",
-  "11.11 05:46:06  1 yeni haber"
+  "11.11 06:30:26  1 yeni haber"
  ],
  "otomatik": false
 }
