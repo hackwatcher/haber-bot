@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "f137b54abab1": {
-   "id": "f137b54abab1",
-   "kaynak": "AA",
-   "baslik": "BM, Yemen'de bir haftada yaklaşık 16 bin kişinin daha yerinden edildiğini bildirdi",
-   "ozet": "BM Uluslararası Göç Örgütü Sözcüsü Brennan, Yemen'de bir haftada yaklaşık 16 bin kişinin daha yerinden edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-bir-haftada-yaklasik-16-bin-kisinin-daha-yerinden-edildigini-bildirdi/4119390",
-   "zaman": "2026-11-10T20:33:22+03:00",
-   "kelimeler": [
-    "16",
-    "bildi",
-    "bin",
-    "bm",
-    "edild",
-    "hafta",
-    "kisin",
-    "yakla",
-    "yemen",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4a48235e0703": {
-   "id": "4a48235e0703",
-   "kaynak": "Sözcü",
-   "baslik": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-p380031",
-   "zaman": "2026-11-10T20:34:40+03:00",
-   "kelimeler": [
-    "edild",
-    "fener",
-    "iddia",
-    "kabul",
-    "otobu",
-    "saldi",
-    "takim"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "17def3c7ad50"
-  },
   "8db8e8693f5f": {
    "id": "8db8e8693f5f",
    "kaynak": "AA",
@@ -35289,7 +35247,10 @@
     "yurut"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "457495a03268": {
    "id": "457495a03268",
@@ -35329,9 +35290,73 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7de87f583680": {
+   "id": "7de87f583680",
+   "kaynak": "TRT Haber",
+   "baslik": "Eisenkot: Netanyahu Arap vatandaşlara karşı ırkçı kampanya yürütüyor",
+   "ozet": "İsrail'de 27 Ekim seçimlerinin ardından hükümet kurma yetkisi verilen Yashar Partisi lideri Eisenkot, geçici Başbakan Netanyahu'nun seçim süreci boyunca İsrail vatandaşı Filistinlilere karşı \"ırkçı\" bir kampanya yürüttüğünü belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/eisenkot-netanyahu-arap-vatandaslara-karsi-irkci-kampanya-yurutuyor-963215.html",
+   "zaman": "2026-11-13T20:14:00+03:00",
+   "kelimeler": [
+    "arap",
+    "eisen",
+    "irkci",
+    "kampa",
+    "karsi",
+    "netan",
+    "vatan",
+    "yurut"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6dd652e2d5c0"
+  },
+  "7f0fd2315479": {
+   "id": "7f0fd2315479",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail Gazze'ye düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+   "ozet": "Soykırımcı İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin orta kesimindeki Deyr elBelah kentinde bir eve düzenlediği saldırıda 3 Filistinlinin yaşamını yitirdiği, 20 kişinin yaralandığı belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-gazzeye-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-963216.html",
+   "zaman": "2026-11-13T20:25:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "israi",
+    "kaybe",
+    "saldi",
+    "soyki",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "deed9c8cebcf"
+  },
+  "2cc9d4fe68db": {
+   "id": "2cc9d4fe68db",
+   "kaynak": "AA",
+   "baslik": "Microsoft, sorun yaşanan hizmetlerinde geniş çaplı iyileşme sağlandığını açıkladı",
+   "ozet": "ABD merkezli teknoloji şirketi Microsoft, bazı hizmetlerinde yaşanan erişim sorununun ardından hizmetlerinin genelinde geniş çaplı iyileşme ve istikrar sağlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigini-acikladi/4124635",
+   "zaman": "2026-11-13T20:34:09+03:00",
+   "kelimeler": [
+    "capli",
+    "genis",
+    "hizme",
+    "iyile",
+    "micro",
+    "sagla",
+    "sorun",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 20:44:37  1 yeni haber",
   "13.11 20:31:44  3 yeni haber",
   "13.11 20:16:57  5 yeni haber",
   "13.11 20:01:29  1 yeni haber",
@@ -35530,8 +35555,7 @@
   "11.11 22:16:23  3 yeni haber",
   "11.11 22:01:25  1 yeni haber",
   "11.11 21:46:12  2 yeni haber",
-  "11.11 21:31:23  5 yeni haber",
-  "11.11 21:16:25  2 yeni haber"
+  "11.11 21:31:23  5 yeni haber"
  ],
  "otomatik": false
 }
