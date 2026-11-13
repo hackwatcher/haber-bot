@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "e6465972f51a": {
-   "id": "e6465972f51a",
-   "kaynak": "TRT Haber",
-   "baslik": "İtalya: Avrupa'da kaos yaratmaya çalışanlara güçlü bir mesaj göndermek için birleşmeliyiz",
-   "ozet": "İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani, siber saldırılar ve uçaklara yönelik asılsız bomba ihbarları gibi hibrit savaş yöntemleriyle Avrupa'da kaos yaratmaya çalışanlara karşı birlik içinde kalarak güçlü bir mesaj vermenin önemli olduğunu söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/italya-avrupada-kaos-yaratmaya-calisanlara-guclu-bir-mesaj-gondermek-icin-birlesmeliyiz-962748.html",
-   "zaman": "2026-11-10T07:50:00+03:00",
-   "kelimeler": [
-    "avrup",
-    "birle",
-    "calis",
-    "gonde",
-    "guclu",
-    "italy",
-    "kaos",
-    "mesaj",
-    "yarat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2a5ca3f9b059": {
    "id": "2a5ca3f9b059",
    "kaynak": "TRT Haber",
@@ -37699,7 +37678,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "AA",
+    "Hürriyet"
    ]
   },
   "05ac83b531be": {
@@ -37723,9 +37704,170 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ea78aae9f12d"
+  },
+  "c55a1905fa36": {
+   "id": "c55a1905fa36",
+   "kaynak": "TRT Haber",
+   "baslik": "Kişisel verileri ele geçirenlere 42 ilde operasyon",
+   "ozet": "Kişisel verileri yasa dışı yollarla ele geçiren şüphelilere İstanbul merkezli 42 ilde operasyon düzenlendi. Yapay zeka destekli AVCI Projesi'nin kullanıldığı operasyonlar kapsamında çok sayıda şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/kisisel-verileri-ele-gecirenlere-42-ilde-operasyon-963137.html",
+   "zaman": "2026-11-13T07:35:00+03:00",
+   "kelimeler": [
+    "42",
+    "ele",
+    "gecir",
+    "ilde",
+    "kisis",
+    "opera",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea78aae9f12d"
+  },
+  "bf827116d092": {
+   "id": "bf827116d092",
+   "kaynak": "Hürriyet",
+   "baslik": "Fırtına ve sağanak kapıda! Aralarında İstanbul da var: 11 ilde alarm | Yağışlı hava tüm yurda yayılıyor: Hava bir anda değişecek",
+   "ozet": "Türkiye'nin kuzey ve doğu bölgelerinde sıcaklıklar artışa geçerken, batı kesimler hafta sonuyla birlikte şiddetli yağışların etkisi altına giriyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/firtina-ve-saganak-kapida-aralarinda-istanbul-da-var-11-ilde-alarm-yagisli-hava-tum-yurda-yayiliyor-hava-bir-anda-degisecek-43376454",
+   "zaman": "2026-11-13T07:40:00+03:00",
+   "kelimeler": [
+    "11",
+    "alarm",
+    "anda",
+    "arala",
+    "degis",
+    "firti",
+    "hava",
+    "ilde",
+    "istan",
+    "kapid",
+    "sagan",
+    "tum",
+    "yagis",
+    "yayil",
+    "yurda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c901b2d7af8d": {
+   "id": "c901b2d7af8d",
+   "kaynak": "TRT Haber",
+   "baslik": "FBI, ABD'nin Binance'ten çalınan 1,2 milyar dolar değerindeki kripto paraya el koyduğunu açıkladı",
+   "ozet": "ABD Federal Soruşturma Bürosu FBI, perşembe günü yaptığı açıklamada, dünyanın en büyük kripto para borsası Binance'ten geçen ay çalındığı bildirilen 1,2 milyar dolardan fazla kripto paraya el koyduğunu duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/fbi-abdnin-binanceten-calinan-12-milyar-dolar-degerindeki-kripto-paraya-el-koydugunu-acikladi-963138.html",
+   "zaman": "2026-11-13T07:41:00+03:00",
+   "kelimeler": [
+    "abd",
+    "binan",
+    "calin",
+    "deger",
+    "dolar",
+    "el",
+    "fbi",
+    "koydu",
+    "kript",
+    "milya",
+    "nin",
+    "paray",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba722f2348be": {
+   "id": "ba722f2348be",
+   "kaynak": "TRT Haber",
+   "baslik": "Apple'dan 99 ülkedeki kullanıcılara casus yazılım uyarısı",
+   "ozet": "Taylandlı yetkililer, 99 ülkedeki kullanıcıları kapsayan küresel bir uyarı kapsamında siyasetçilerin ve diğer kişilerin casus yazılım saldırılarının hedefi olmuş olabileceğine dair bildirimler almasının ardından Apple yöneticileriyle bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/dunya/appledan-99-ulkedeki-kullanicilara-casus-yazilim-uyarisi-963139.html",
+   "zaman": "2026-11-13T07:44:00+03:00",
+   "kelimeler": [
+    "99",
+    "apple",
+    "casus",
+    "dan",
+    "kulla",
+    "ulked",
+    "uyari",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f12961d9b16c": {
+   "id": "f12961d9b16c",
+   "kaynak": "AA",
+   "baslik": "İstanbul merkezli 42 ilde \"kişisel verileri\" ele geçirenlere operasyon",
+   "ozet": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyon düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-operasyon/4123576",
+   "zaman": "2026-11-13T07:46:16+03:00",
+   "kelimeler": [
+    "42",
+    "ele",
+    "gecir",
+    "ilde",
+    "istan",
+    "kisis",
+    "merke",
+    "opera",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea78aae9f12d"
+  },
+  "5b6f74610018": {
+   "id": "5b6f74610018",
+   "kaynak": "TRT Haber",
+   "baslik": "SpaceX ve Tesla arasında 3,7 trilyon dolarlık tarihi birleşme hazırlığı",
+   "ozet": "SpaceX ve Tesla arasında birleşme yönünde yürütülen görüşmelerin önemli ilerleme kaydetmesiyle birlikte, dünya tarihinin en büyük şirket birleşmesi hayata geçme yoluna girdi.",
+   "link": "https://www.trthaber.com/haber/dunya/spacex-ve-tesla-arasinda-37-trilyon-dolarlik-tarihi-birlesme-hazirligi-963140.html",
+   "zaman": "2026-11-13T07:50:00+03:00",
+   "kelimeler": [
+    "arasi",
+    "birle",
+    "dolar",
+    "hazir",
+    "space",
+    "tarih",
+    "tesla",
+    "trily"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f8b2f8624074": {
+   "id": "f8b2f8624074",
+   "kaynak": "Hürriyet",
+   "baslik": "42 ilde dev siber operasyon: Kişisel verileri ele geçirip tehdit ve şantaj yaptılar! Gözaltılar var",
+   "ozet": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyon düzenlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/42-ilde-dev-siber-operasyon-kisisel-verileri-ele-gecirip-tehdit-ve-santaj-yaptilar-gozaltilar-var-43376461",
+   "zaman": "2026-11-13T07:51:31+03:00",
+   "kelimeler": [
+    "42",
+    "dev",
+    "ele",
+    "gecir",
+    "gozal",
+    "ilde",
+    "kisis",
+    "opera",
+    "santa",
+    "siber",
+    "tehdi",
+    "veril",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea78aae9f12d"
   }
  },
  "kayit": [
+  "13.11 08:01:23  4 yeni haber",
   "13.11 07:46:30  3 yeni haber",
   "13.11 07:31:34  1 yeni haber",
   "13.11 07:17:02  15 yeni haber",
@@ -37924,8 +38066,7 @@
   "11.11 06:46:09  2 yeni haber",
   "11.11 06:30:26  1 yeni haber",
   "11.11 05:46:06  1 yeni haber",
-  "11.11 05:16:23  2 yeni haber",
-  "11.11 04:46:11  1 yeni haber"
+  "11.11 05:16:23  2 yeni haber"
  ],
  "otomatik": false
 }
