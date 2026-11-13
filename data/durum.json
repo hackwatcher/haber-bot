@@ -1,77 +1,5 @@
 {
  "haberler": {
-  "3450db4fa403": {
-   "id": "3450db4fa403",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye İklim Okulu, COP31 kapsamında uluslararası etkinliklere ev sahipliği yaptı",
-   "ozet": "Milli Eğitim Bakanlığınca, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31.",
-   "link": "https://www.trthaber.com/haber/egitim/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti-962849.html",
-   "zaman": "2026-11-10T20:04:00+03:00",
-   "kelimeler": [
-    "cop31",
-    "etkin",
-    "ev",
-    "iklim",
-    "kapsa",
-    "okulu",
-    "sahip",
-    "turki",
-    "ulusl",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "3d5a480b5967": {
-   "id": "3d5a480b5967",
-   "kaynak": "AA",
-   "baslik": "İran: ABD'nin şartlarımıza yanıtı aldatıcı, Hürmüz Boğazı 7 şart yerine getirilene kadar açılmayacak",
-   "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin İran'ın şartlarına ilişkin yanıtının \"aldatıcı\" olduğunu belirterek, Hürmüz Boğazı'nın Tahran yönetiminin öne sürdüğü 7 şart yerine getirilene kadar açılmayacağını yineledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-abdnin-sartlarimiza-yaniti-aldatici-hurmuz-bogazi-7-sart-yerine-getirilene-kadar-acilmayacak/4119341",
-   "zaman": "2026-11-10T20:06:59+03:00",
-   "kelimeler": [
-    "abd",
-    "acilm",
-    "aldat",
-    "bogaz",
-    "getir",
-    "hurmu",
-    "iran",
-    "nin",
-    "sart",
-    "sartl",
-    "yanit",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "e392573d204e": {
-   "id": "e392573d204e",
-   "kaynak": "NTV",
-   "baslik": "Kozinoğlu soruşturması. Savcılıktan adli tıp raporuna itiraz",
-   "ozet": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu’nun ölümüne ilişkin adli tıp raporuna itiraz etti.",
-   "link": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasi-savciliktan-adli-tip-raporuna-itiraz-1750321",
-   "zaman": "2026-11-10T20:10:42+03:00",
-   "kelimeler": [
-    "adli",
-    "itira",
-    "kozin",
-    "rapor",
-    "savci",
-    "sorus",
-    "tip"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "28d294a4b11b"
-  },
   "b40939cdd771": {
    "id": "b40939cdd771",
    "kaynak": "AA",
@@ -24182,7 +24110,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "XHABER",
-    "Hürriyet"
+    "Hürriyet",
+    "Sözcü"
    ]
   },
   "07b3048acad2": {
@@ -34158,7 +34087,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "a845cca9034c": {
@@ -35197,9 +35127,210 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "83793b8be5c9": {
+   "id": "83793b8be5c9",
+   "kaynak": "AA",
+   "baslik": "BM: İsrail, Ekim 2023'ten bu yana işgal altındaki Batı Şeria'da 245 çocuğu öldürdü",
+   "ozet": "Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiseri Volker Türk, İsrail'in Ekim 2023'ten bu yana işgal altındaki Batı Şeria'da 245 çocuğu öldürdüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-israil-ekim-2023ten-bu-yana-isgal-altindaki-bati-seriada-245-cocugu-oldurdu/4124606",
+   "zaman": "2026-11-13T19:36:37+03:00",
+   "kelimeler": [
+    "2023",
+    "245",
+    "altin",
+    "bati",
+    "bm",
+    "cocug",
+    "ekim",
+    "isgal",
+    "israi",
+    "oldur",
+    "seria",
+    "ten",
+    "yana"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "e4c31cd3bcf5": {
+   "id": "e4c31cd3bcf5",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Uraloğlu, AKINCI ve Bayraktar TB2'nin kara yoluna iniş-kalkış yapmasına ilişkin paylaşım",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Manisa-Balıkesir kara yolunda AKINCI ve Bayraktar TB2 insansız hava araçlarının acil durum senaryoları kapsamında iniş ve yeniden kalkış gerçekleştirmesine ilişkin, \"Baykar'ın milli teknoloji birikimiyle geliştirilen bu…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-uraloglu-akinci-ve-bayraktar-tb2nin-kara-yoluna-inis-kalkis-yapmasina-iliskin-paylasim-43377569",
+   "zaman": "2026-11-13T19:58:11+03:00",
+   "kelimeler": [
+    "akinc",
+    "bakan",
+    "bayra",
+    "ilisk",
+    "inis",
+    "kalki",
+    "kara",
+    "nin",
+    "payla",
+    "tb2",
+    "uralo",
+    "yapma",
+    "yolun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "00c12976d3f9"
+  },
+  "1884bb71fdd2": {
+   "id": "1884bb71fdd2",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Erkek kısırlaştırılması vazektomi ne demek, veriler Türkiye için ne gösteriyor?",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, 1990'lı yıllarda \"SGK eliyle erkeklerin kısırlaştırıldığını\" iddia etmesi TBMM komisyonunda tartışmaya sebep oldu. Peki 1990'larda ne yaşandı?",
+   "link": "https://www.bbc.com/turkce/articles/ckm2m4r69ynjo",
+   "zaman": "2026-11-13T19:59:52+03:00",
+   "kelimeler": [
+    "demek",
+    "erkek",
+    "goste",
+    "kisir",
+    "turki",
+    "vazek",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a7ca1430a8af": {
+   "id": "a7ca1430a8af",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Uraloğlu: Ulaşım altyapımızın acil durumlarda üstlenebileceği rolü de ortaya koydu",
+   "ozet": "Bakan Uraloğlu, ManisaBalıkesir kara yolunda AKINCI ve Bayraktar TB2'nin acil durum senaryoları kapsamında iniş ve yeniden kalkış gerçekleştirmesine ilişkin, \"Baykar'ın milli teknoloji birikimiyle geliştirilen bu platformların kara yolumuzu pist olarak kullanabilmesi, ulaşım…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglu-ulasim-altyapimizin-acil-durumlarda-ustlenebilecegi-rolu-de-ortaya-koydu-963212.html",
+   "zaman": "2026-11-13T20:00:00+03:00",
+   "kelimeler": [
+    "altya",
+    "bakan",
+    "durum",
+    "koydu",
+    "ortay",
+    "rolu",
+    "ulasi",
+    "uralo",
+    "ustle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b79d8f12598": {
+   "id": "4b79d8f12598",
+   "kaynak": "TRT Haber",
+   "baslik": "BM açıkladı: Soykırımcı İsrail 245 çocuğu öldürdü",
+   "ozet": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, soykırımcı İsrail'in Ekim 2023'ten bu yana işgal altındaki Batı Şeria'da 245 çocuğu öldürdüğünü bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-acikladi-soykirimci-israil-245-cocugu-oldurdu-963213.html",
+   "zaman": "2026-11-13T20:01:00+03:00",
+   "kelimeler": [
+    "245",
+    "bm",
+    "cocug",
+    "israi",
+    "oldur",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "83793b8be5c9"
+  },
+  "01deb78e0939": {
+   "id": "01deb78e0939",
+   "kaynak": "AA",
+   "baslik": "Dışişleri Bakanlığından BAE'deki trafik kazasında hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Birleşik Arap Emirlikleri'nde (BAE) meydana gelen zincirleme trafik kazasında hayatını kaybedenler için derin üzüntü duyulduğunu belirterek, ölenlerin yakınlarına ve BAE halkına başsağlığı dileğinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-baedeki-trafik-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4124618",
+   "zaman": "2026-11-13T20:07:43+03:00",
+   "kelimeler": [
+    "bae",
+    "bakan",
+    "deki",
+    "disis",
+    "hayat",
+    "kaybe",
+    "kazas",
+    "mesaj",
+    "taziy",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "d03c91d74b8d": {
+   "id": "d03c91d74b8d",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanlığından BAE'deki kazada hayatını kaybedenler için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, Birleşik Arap Emirlikleri'nde (BAE) meydana gelen zincirleme trafik kazasında hayatını kaybedenler için derin üzüntü duyulduğunu belirterek, ölenlerin yakınlarına ve BAE halkına başsağlığı dileğinde bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-baedeki-kazada-hayatini-kaybedenler-icin-taziye-mesaji-43377585",
+   "zaman": "2026-11-13T20:10:22+03:00",
+   "kelimeler": [
+    "bae",
+    "bakan",
+    "deki",
+    "disis",
+    "hayat",
+    "kaybe",
+    "kazad",
+    "mesaj",
+    "taziy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "01deb78e0939"
+  },
+  "9e098a22f223": {
+   "id": "9e098a22f223",
+   "kaynak": "Sözcü",
+   "baslik": "Helikopter kazasında şehit olan dört askerin cenaze programları belli oldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/helikopter-kazasinda-sehit-olan-dort-askerin-cenaze-programlari-belli-oldu-p381126",
+   "zaman": "2026-11-13T20:12:34+03:00",
+   "kelimeler": [
+    "asker",
+    "belli",
+    "cenaz",
+    "dort",
+    "helik",
+    "kazas",
+    "progr",
+    "sehit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b0d7338febfa"
+  },
+  "f38a8211d3cd": {
+   "id": "f38a8211d3cd",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu-43377590",
+   "zaman": "2026-11-13T20:13:21+03:00",
+   "kelimeler": [
+    "bakan",
+    "bm",
+    "genel",
+    "gorus",
+    "guter",
+    "kurum",
+    "sekre"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 20:16:57  5 yeni haber",
   "13.11 20:01:29  1 yeni haber",
   "13.11 19:48:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Altın, dolar, borsa… İşte haftanın en çok kazandıran yatırım aracı",
   "13.11 19:46:04  1 yeni haber",
@@ -35398,8 +35529,7 @@
   "11.11 21:46:12  2 yeni haber",
   "11.11 21:31:23  5 yeni haber",
   "11.11 21:16:25  2 yeni haber",
-  "11.11 21:01:30  2 yeni haber",
-  "11.11 20:46:16  5 yeni haber"
+  "11.11 21:01:30  2 yeni haber"
  ],
  "otomatik": false
 }
