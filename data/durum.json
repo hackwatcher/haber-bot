@@ -1,117 +1,5 @@
 {
  "haberler": {
-  "3c1223cefb16": {
-   "id": "3c1223cefb16",
-   "kaynak": "AA",
-   "baslik": "İstanbul'daki huzur uygulamasında 445 zanlı gözaltına alındı",
-   "ozet": "İstanbul'da dün yapılan huzur uygulaması kapsamında toplam 445 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-huzur-uygulamasinda-445-zanli-gozaltina-alindi/4118114",
-   "zaman": "2026-11-10T07:36:46+03:00",
-   "kelimeler": [
-    "445",
-    "alind",
-    "daki",
-    "gozal",
-    "huzur",
-    "istan",
-    "uygul",
-    "zanli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d9bbdb437d80"
-  },
-  "3ad22bce7ecd": {
-   "id": "3ad22bce7ecd",
-   "kaynak": "NTV",
-   "baslik": "Adana'da 3,5 büyüklüğünde deprem",
-   "ozet": "Adana'nın Kozan ilçesinde saat 06.42'de 3.5 büyüklüğünde bir deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/adanada-35-buyuklugunde-deprem-1750192",
-   "zaman": "2026-11-10T07:39:22+03:00",
-   "kelimeler": [
-    "adana",
-    "buyuk",
-    "depre"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "c4deac7d5219"
-  },
-  "5f1b62c01942": {
-   "id": "5f1b62c01942",
-   "kaynak": "AA",
-   "baslik": "Bazı ülkeler ve teknoloji şirketleri yapay zeka güvenliğine ilişkin bildiri imzaladı",
-   "ozet": "Aralarında Kanada, Fransa ve Norveç'in bulunduğu ülkeler ile Anthropic, Microsoft ve OpenAI gibi teknoloji şirketleri, yapay zeka güvenliği ve emniyetinin sağlanmasına yönelik ortak bildiriye imza attı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bazi-ulkeler-ve-teknoloji-sirketleri-yapay-zeka-guvenligine-iliskin-bildiri-imzaladi/4118115",
-   "zaman": "2026-11-10T07:42:44+03:00",
-   "kelimeler": [
-    "bazi",
-    "bildi",
-    "guven",
-    "ilisk",
-    "imzal",
-    "sirke",
-    "tekno",
-    "ulkel",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "07a8fd135fcf": {
-   "id": "07a8fd135fcf",
-   "kaynak": "Hürriyet",
-   "baslik": "Hava sıcaklığı yükseliyor! Sağanak yağış geri geliyor! Meteoroloji tarih verdi: İstanbul dahil birçok ilde yağış ve fırtına uyarısı",
-   "ozet": "Yurt genelinde soğuk ve yağışlı havanın baskısını artırmasıyla birlikte dondurucu günler başladı. Alçak kesimlerde sağanak geçişleri yaşanırken, yüksek rakımlı bölgelerde ise karla karışık yağmur ve kar etkisini göstermeye başladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/hava-sicakligi-yukseliyor-saganak-yagis-geri-geliyor-meteoroloji-tarih-verdi-istanbul-dahil-bircok-ilde-yagis-ve-firtina-uyarisi-43372210",
-   "zaman": "2026-11-10T07:44:50+03:00",
-   "kelimeler": [
-    "birco",
-    "dahil",
-    "firti",
-    "geliy",
-    "geri",
-    "hava",
-    "ilde",
-    "istan",
-    "meteo",
-    "sagan",
-    "sicak",
-    "tarih",
-    "uyari",
-    "verdi",
-    "yagis",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "TRT Haber",
-    "Sözcü"
-   ]
-  },
-  "5ccece44c466": {
-   "id": "5ccece44c466",
-   "kaynak": "TRT Haber",
-   "baslik": "Eşine işe gittiğini söyleyip Taylandda başka bir kadınla evlendi",
-   "ozet": "İngiltere'de 16 yıllık eşine işe gideceğini söyleyerek evden ayrılan 56 yaşındaki adam, Tayland'a giderek kendisinden 21 yaş küçük bir kadınla evlendi. İkinci evliliğini düğün davetiyeleriyle öğrenen eşi polise başvurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/esine-ise-gittigini-soyleyip-taylandda-baska-bir-kadinla-evlendi-962747.html",
-   "zaman": "2026-11-10T07:45:00+03:00",
-   "kelimeler": [
-    "baska",
-    "esine",
-    "evlen",
-    "gitti",
-    "ise",
-    "kadin",
-    "soyle",
-    "tayla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e6465972f51a": {
    "id": "e6465972f51a",
    "kaynak": "TRT Haber",
@@ -37749,9 +37637,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fb5182ad7727": {
+   "id": "fb5182ad7727",
+   "kaynak": "TRT Haber",
+   "baslik": "Neyi hatırlayacağımıza nasıl karar veriyoruz? Bilim insanları keşfetti",
+   "ozet": "Bilim insanları, en çok duyguları işlemesiyle bilinen küçük bir beyin bölgesinin, hangi deneyimlerin kalıcı anılara dönüşeceğini belirlemede şaşırtıcı derecede geniş bir rol oynadığını keşfetti.",
+   "link": "https://www.trthaber.com/haber/dunya/neyi-hatirlayacagimiza-nasil-karar-veriyoruz-bilim-insanlari-kesfetti-963135.html",
+   "zaman": "2026-11-13T07:23:00+03:00",
+   "kelimeler": [
+    "bilim",
+    "hatir",
+    "insan",
+    "karar",
+    "kesfe",
+    "nasil",
+    "neyi",
+    "veriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2807f324d4b3": {
+   "id": "2807f324d4b3",
+   "kaynak": "TRT Haber",
+   "baslik": "Bilim insanları B12 vitaminiyle çalışan çığır açıcı bir şarj edilebilir pil geliştirdi",
+   "ozet": "Günlük gıdalarda bulunan B12 vitaminini kullanan deneysel bir çinkohava pilinin 250'ye kadar şarj döngüsünü tamamlamasının ardından, bu vitaminin gelecekte yenilenebilir kaynaklardan elde edilen fazla elektriğin depolanmasına yardımcı olabileceği belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/bilim-insanlari-b12-vitaminiyle-calisan-cigir-acici-bir-sarj-edilebilir-pil-gelistirdi-963136.html",
+   "zaman": "2026-11-13T07:26:00+03:00",
+   "kelimeler": [
+    "acici",
+    "b12",
+    "bilim",
+    "calis",
+    "cigir",
+    "edile",
+    "gelis",
+    "insan",
+    "pil",
+    "sarj",
+    "vitam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ea78aae9f12d": {
+   "id": "ea78aae9f12d",
+   "kaynak": "TRT Haber",
+   "baslik": "43 ilde kişisel verileri satanlara operasyon",
+   "ozet": "Kişisel verileri satanlara operasyon düzenlendi. İstanbul merkezli 42 ilde düzenlenen eş zamanlı operasyon kapsamında çok sayıda şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/43-ilde-kisisel-verileri-satanlara-operasyon-963137.html",
+   "zaman": "2026-11-13T07:35:00+03:00",
+   "kelimeler": [
+    "43",
+    "ilde",
+    "kisis",
+    "opera",
+    "satan",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
+  },
+  "05ac83b531be": {
+   "id": "05ac83b531be",
+   "kaynak": "Sözcü",
+   "baslik": "43 ilde kişisel veri operasyonu: 101 kişi gözaltına alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/43-ilde-kisisel-veri-operasyonu-101-kisi-gozaltina-alindi-p380867",
+   "zaman": "2026-11-13T07:43:02+03:00",
+   "kelimeler": [
+    "101",
+    "43",
+    "alind",
+    "gozal",
+    "ilde",
+    "kisi",
+    "kisis",
+    "opera",
+    "veri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea78aae9f12d"
   }
  },
  "kayit": [
+  "13.11 07:46:30  3 yeni haber",
   "13.11 07:31:34  1 yeni haber",
   "13.11 07:17:02  15 yeni haber",
   "13.11 07:03:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ankara’da 153 yıl hapis cezası bulunan firari yakalandı",
@@ -37950,8 +37925,7 @@
   "11.11 06:30:26  1 yeni haber",
   "11.11 05:46:06  1 yeni haber",
   "11.11 05:16:23  2 yeni haber",
-  "11.11 04:46:11  1 yeni haber",
-  "11.11 04:46:11  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "11.11 04:46:11  1 yeni haber"
  ],
  "otomatik": false
 }
