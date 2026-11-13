@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "479b76910a47": {
-   "id": "479b76910a47",
-   "kaynak": "AA",
-   "baslik": "Borsa güne yükselişle başladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,39 yükselişle 11.758,85 puandan başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4118205",
-   "zaman": "2026-11-10T10:01:40+03:00",
-   "kelimeler": [
-    "basla",
-    "borsa",
-    "gune",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1e18caf465cf"
-  },
-  "d22c26ad5830": {
-   "id": "d22c26ad5830",
-   "kaynak": "AA",
-   "baslik": "COP31'e, 190'dan fazla ülkeden 4 bine yakın basın mensubu akredite oldu",
-   "ozet": "Türkiye'nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na (COP31), 190'dan fazla ülkeden 4 bine yakın basın mensubu akredite oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31e-190dan-fazla-ulkeden-4-bine-yakin-basin-mensubu-akredite-oldu/4118209",
-   "zaman": "2026-11-10T10:03:34+03:00",
-   "kelimeler": [
-    "190",
-    "akred",
-    "basin",
-    "bine",
-    "cop31",
-    "dan",
-    "fazla",
-    "mensu",
-    "ulked",
-    "yakin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "bcfa7cc755b3": {
-   "id": "bcfa7cc755b3",
-   "kaynak": "Hürriyet",
-   "baslik": "Gece sokakta gözcülük, emniyette \"Tanımıyorum\" oyunu: Komşu çocuklarını hırsızlığa sürükledi",
-   "ozet": "Adana'nın Çukurova ilçesinde 19 yaşındaki Fatih G., yönlendirdiği komşusunun çocukları R.B. (16) ve D.K. (15) ile birlikte bir apartmandaki kilitli motosikleti çaldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gece-sokakta-gozculuk-emniyette-tanimiyorum-oyunu-komsu-cocuklarini-hirsizliga-surukledi-43372366",
-   "zaman": "2026-11-10T10:06:33+03:00",
-   "kelimeler": [
-    "cocuk",
-    "emniy",
-    "gece",
-    "gozcu",
-    "hirsi",
-    "komsu",
-    "oyunu",
-    "sokak",
-    "suruk",
-    "tanim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "dffb120dfe5d": {
    "id": "dffb120dfe5d",
    "kaynak": "AA",
@@ -32128,7 +32064,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "NTV",
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "a4c6b1160926": {
@@ -32419,7 +32356,10 @@
     "sifir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "1792092f666f": {
    "id": "1792092f666f",
@@ -37395,7 +37335,10 @@
     "tamam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "369890a7e55a": {
    "id": "369890a7e55a",
@@ -37455,7 +37398,10 @@
     "serid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "065fdff38d6a": {
    "id": "065fdff38d6a",
@@ -37520,9 +37466,216 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7dc3ae5e72a3": {
+   "id": "7dc3ae5e72a3",
+   "kaynak": "AA",
+   "baslik": "İzmir merkezli 14 ildeki FETÖ operasyonunda 29 şüpheli yakalandı",
+   "ozet": "İzmir merkezli 14 ilde Fetullahçı Terör Örgütü'nün (FETÖ) \"güncel kadın eğitim yapılanması\"na yönelik operasyonda 29 zanlı gözaltına alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-14-ildeki-feto-operasyonunda-29-supheli-yakalandi/4123591",
+   "zaman": "2026-11-13T08:55:33+03:00",
+   "kelimeler": [
+    "14",
+    "29",
+    "feto",
+    "ildek",
+    "izmir",
+    "merke",
+    "opera",
+    "suphe",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b632fc7a562b"
+  },
+  "37af0292bc30": {
+   "id": "37af0292bc30",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan COP31'de yoğun diplomasi trafiği",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi kapsamında BM Genel Sekreteri Antonio Guterres'in de aralarında bulunduğu çok sayıda devlet ve hükümet başkanıyla bir araya gelerek ikili işbirliği ile bölgesel ve küresel sorunların diplomasi yoluyla çözümüne yönelik…",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-yogun-diplomasi-trafigi-963155.html",
+   "zaman": "2026-11-13T09:44:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "cumhu",
+    "dan",
+    "diplo",
+    "erdog",
+    "trafi",
+    "yogun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd202b4242cf"
+  },
+  "705ae1b7a79d": {
+   "id": "705ae1b7a79d",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan COP31 Liderler Zirvesi'nde yoğun diplomasi trafiği",
+   "ozet": "Cumhurbaşkanı Erdoğan, COP31 Liderler Zirvesi'nde Birleşmiş Milletler Genel Sekreteri Antonio Guterres, Brezilya Devlet Başkanı Lula da Silva, İran Cumhurbaşkanı Mesud Pezeşkiyan'ın aralarında bulunduğu liderlerle ikili görüşmeler gerçekleştirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-cop31-liderler-zirvesinde-yogun-diplomasi-trafigi/4123640",
+   "zaman": "2026-11-13T09:45:32+03:00",
+   "kelimeler": [
+    "cop31",
+    "cumhu",
+    "dan",
+    "diplo",
+    "erdog",
+    "lider",
+    "nde",
+    "trafi",
+    "yogun",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd202b4242cf"
+  },
+  "2124c05e1c5b": {
+   "id": "2124c05e1c5b",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne saldırılarında 3 Filistinli hayatını kaybetti",
+   "ozet": "Gazze Şeridi'nde, İsrail ordusunun ateşkese rağmen düzenlediği saldırılarda 3 Filistinlinin yaşamını yitirdiği, 8 kişinin yaralandığı bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusunun-ateskese-ragmen-gazze-seridine-saldirilarinda-3-filistinli-hayatini-kaybetti-963154.html",
+   "zaman": "2026-11-13T09:56:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "filis",
+    "gazze",
+    "hayat",
+    "israi",
+    "katil",
+    "kaybe",
+    "ordus",
+    "ragme",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "deed9c8cebcf"
+  },
+  "9ac3d5109fa3": {
+   "id": "9ac3d5109fa3",
+   "kaynak": "Hürriyet",
+   "baslik": "Etiler'deki evde akşam yemeği... Sarıgül dosyasında yeni ifade: Defalarca aradı, 149 bin lira gönderdi",
+   "ozet": "Mustafa Sarıgül ve ailesi hakkında başlatılan, kara para aklama iddialarının ardından cinsel saldırı ve istismar suçlamalarıyla genişleyen soruşturmada yeni bir ifade ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigul-dosyasinda-yeni-ifade-gozaltindan-sonra-beni-defalarca-aradi-149-bin-lira-gonderdi-43376570",
+   "zaman": "2026-11-13T09:59:00+03:00",
+   "kelimeler": [
+    "149",
+    "aksam",
+    "aradi",
+    "bin",
+    "defal",
+    "deki",
+    "dosya",
+    "etile",
+    "evde",
+    "gonde",
+    "ifade",
+    "lira",
+    "sarig",
+    "yemeg",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "86740037458b": {
+   "id": "86740037458b",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan, COP31 alanındaki Sıfır Atık Müzesi'ni açtı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-cop31-alanindaki-sifir-atik-muzesini-acti-43376588",
+   "zaman": "2026-11-13T10:02:00+03:00",
+   "kelimeler": [
+    "acti",
+    "alani",
+    "atik",
+    "cop31",
+    "emine",
+    "erdog",
+    "muzes",
+    "ni",
+    "sifir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d3a2bfa0f8f3"
+  },
+  "998123f62d88": {
+   "id": "998123f62d88",
+   "kaynak": "AA",
+   "baslik": "CENTCOM: İsrail basınının ABD'nin İran'a saldırılarının süreceği iddiaları tamamen spekülasyon",
+   "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İsrail'in, ABD'nin İran'a yönelik saldırıları sürdürmek için hazırlık yaptığı iddialarını \"tamamen spekülasyon\" olarak nitelendirerek reddetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/centcom-israil-basininin-abdnin-irana-saldirilarinin-surecegi-iddialari-tamamen-spekulasyon/4123656",
+   "zaman": "2026-11-13T10:05:13+03:00",
+   "kelimeler": [
+    "abd",
+    "basin",
+    "centc",
+    "iddia",
+    "iran",
+    "israi",
+    "nin",
+    "saldi",
+    "speku",
+    "surec",
+    "tamam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "274b71647c7e"
+  },
+  "e780ac57862b": {
+   "id": "e780ac57862b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Microsoft uygulamalarında küresel kesinti: Outlook ve Teams neden çalışmıyor?",
+   "ozet": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo",
+   "zaman": "2026-11-13T10:07:23+03:00",
+   "kelimeler": [
+    "calis",
+    "kesin",
+    "kures",
+    "micro",
+    "neden",
+    "outlo",
+    "teams",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7761067524b2": {
+   "id": "7761067524b2",
+   "kaynak": "AA",
+   "baslik": "Cunningham'ın 52 sayıyla kariyer rekoru kırdığı maçta Pistons, uzatmalarda Wizards'ı yendi",
+   "ozet": "Amerikan Basketbol Ligi'nde (NBA) Detroit Pistons, Cade Cunningham'ın 52 sayıyla oynadığı maçta Washington Wizards'ı uzatmalarda 144-140 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/cunninghamin-52-sayiyla-kariyer-rekoru-kirdigi-macta-pistons-uzatmalarda-wizardsi-yendi/4123662",
+   "zaman": "2026-11-13T10:12:30+03:00",
+   "kelimeler": [
+    "52",
+    "cunni",
+    "in",
+    "kariy",
+    "kirdi",
+    "macta",
+    "pisto",
+    "rekor",
+    "sayiy",
+    "uzatm",
+    "wizar",
+    "yendi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 10:16:04  3 yeni haber",
   "13.11 10:01:31  7 yeni haber",
   "13.11 09:46:04  5 yeni haber",
   "13.11 09:31:16  6 yeni haber",
@@ -37721,8 +37874,7 @@
   "11.11 09:01:48  3 yeni haber",
   "11.11 08:31:47  2 yeni haber",
   "11.11 08:19:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türkiye ATA’sını saygı, özlem ve minnetle andı",
-  "11.11 08:01:28  1 yeni haber",
-  "11.11 07:46:23  2 yeni haber"
+  "11.11 08:01:28  1 yeni haber"
  ],
  "otomatik": false
 }
