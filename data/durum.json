@@ -1,91 +1,5 @@
 {
  "haberler": {
-  "de4ff38b4cb5": {
-   "id": "de4ff38b4cb5",
-   "kaynak": "AA",
-   "baslik": "Yurdun büyük kesiminde hava parçalı ve az bulutlu olacak",
-   "ozet": "Yurdun büyük bir bölümünde hafta boyunca parçalı ve az bulutlu hava hakim olacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/yurdun-buyuk-kesiminde-hava-parcali-ve-az-bulutlu-olacak/4119002",
-   "zaman": "2026-11-10T16:48:23+03:00",
-   "kelimeler": [
-    "az",
-    "bulut",
-    "buyuk",
-    "hava",
-    "kesim",
-    "olaca",
-    "parca",
-    "yurdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "4a131673a492": {
-   "id": "4a131673a492",
-   "kaynak": "TRT Haber",
-   "baslik": "Yurdun bazı bölgelerinde sağanak ve parçalı bulutlu hava hakim olacak",
-   "ozet": "Yurdun büyük bir bölümünde hafta boyunca parçalı ve az bulutlu hava hakim olacak. Kırklareli, Tekirdağ, İç Ege, Bursa, Yalova, Kocaeli, Sakarya, Zonguldak, Bartın ve Düzce çevrelerinde sağanak etkili olacak.",
-   "link": "https://www.trthaber.com/haber/turkiye/yurdun-bazi-bolgelerinde-saganak-ve-parcali-bulutlu-hava-hakim-olacak-962833.html",
-   "zaman": "2026-11-10T16:54:00+03:00",
-   "kelimeler": [
-    "bazi",
-    "bolge",
-    "bulut",
-    "hakim",
-    "hava",
-    "olaca",
-    "parca",
-    "sagan",
-    "yurdu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "de4ff38b4cb5"
-  },
-  "a82acb8765ad": {
-   "id": "a82acb8765ad",
-   "kaynak": "AA",
-   "baslik": "İsrail'de muhalefet bloğunda Arap partilerinin koalisyonda yer almasına ilişkin anlaşmazlık sürüyor",
-   "ozet": "İsrail'de seçimlerin ardından hükümet kurmakla görevlendirilen Gadi Eisenkot liderliğindeki \"Değişim Bloğu\"nda İsrail vatandaşı Filistinlileri temsil eden Arap partilerinin koalisyona dahil edilmesine ilişkin anlaşmazlık devam ediyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-blogunda-arap-partilerinin-koalisyonda-yer-almasina-iliskin-anlasmazlik-suruyor/4119014",
-   "zaman": "2026-11-10T16:58:08+03:00",
-   "kelimeler": [
-    "almas",
-    "anlas",
-    "arap",
-    "blogu",
-    "ilisk",
-    "israi",
-    "koali",
-    "muhal",
-    "parti",
-    "suruy",
-    "yer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9ed23d7ad946": {
-   "id": "9ed23d7ad946",
-   "kaynak": "AA",
-   "baslik": "Süper Lig ve 1. Lig'de \"Çoklu Top Sistemi\" uygulanacak",
-   "ozet": "Türkiye Futbol Federasyonu (TFF), Trendyol Süper Lig ve Trendyol 1. Lig'de \"Çoklu Top Sistemi\" uygulanacağını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/super-lig-ve-1-ligde-coklu-top-sistemi-uygulanacak/4119018",
-   "zaman": "2026-11-10T16:59:24+03:00",
-   "kelimeler": [
-    "coklu",
-    "lig",
-    "siste",
-    "super",
-    "top",
-    "uygul"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f0c9042da929": {
    "id": "f0c9042da929",
    "kaynak": "AA",
@@ -35460,7 +35374,11 @@
     "sani"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "Hürriyet"
+   ]
   },
   "a6308fe35dc5": {
    "id": "a6308fe35dc5",
@@ -35486,7 +35404,8 @@
     "yatir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3664b9f50744": {
    "id": "3664b9f50744",
@@ -35571,9 +35490,169 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "8a2722a1032c": {
+   "id": "8a2722a1032c",
+   "kaynak": "AA",
+   "baslik": "QNB Türkiye, 5 uluslararası kalkınma finansmanı kuruluşuyla işbirliğine imza attı",
+   "ozet": "QNB Türkiye, Asya Kalkınma Bankası, Asya Altyapı Yatırım Bankası, Avrupa İmar ve Kalkınma Bankası, Hollanda Kalkınma Bankası ve Uluslararası Finans Kurumu olmak üzere beş uluslararası kalkınma kuruluşuyla (DFI) finansman mutabakatı imzaladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/qnb-turkiye-5-uluslararasi-kalkinma-finansmani-kurulusuyla-isbirligine-imza-atti/4124155",
+   "zaman": "2026-11-13T16:19:05+03:00",
+   "kelimeler": [
+    "atti",
+    "finan",
+    "imza",
+    "isbir",
+    "kalki",
+    "kurul",
+    "qnb",
+    "turki",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e62b9bda2283": {
+   "id": "e62b9bda2283",
+   "kaynak": "AA",
+   "baslik": "BM Genel Sekreteri Guterres: (İklim değişikliği) Yapmamız gereken bu sıcaklık aşımını olabildiğince küçük ve kısa tutmak",
+   "ozet": "BM Genel Sekreteri Guterres \"Sıcaklık konusunda 1,5 derecenin üzerine çıkmaya doğru ilerliyoruz ve çok fazla lider erteleme yolunu seçiyor. Dolayısıyla şimdi yapmamız gereken bu aşımı olabildiğince küçük ve kısa tutmak\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-iklim-degisikligi-yapmamiz-gereken-bu-sicaklik-asimini-olabildigince-kucuk-ve-kisa-tutmak/4124170",
+   "zaman": "2026-11-13T16:30:24+03:00",
+   "kelimeler": [
+    "asimi",
+    "bm",
+    "degis",
+    "genel",
+    "gerek",
+    "guter",
+    "iklim",
+    "kisa",
+    "kucuk",
+    "olabi",
+    "sekre",
+    "sicak",
+    "tutma",
+    "yapma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "982c845ddcea": {
+   "id": "982c845ddcea",
+   "kaynak": "Hürriyet",
+   "baslik": "10. Fon Koordinasyon Kurulu Toplantısı yapıldı | 333.493 kişi net yatırım tutarının tamamını aldı",
+   "ozet": "İletişim Başkanlığı'ndan yapılan açıklamaya göre 10. Fon Koordinasyon Kurulu Toplantısı gerçekleşti. 333.493 tekil yatırımcının ara ödeme olarak net yatırım tutarının tamamını aldığı açıklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/10-fon-koordinasyon-kurulu-toplantisi-yapildi-333-493-kisi-net-yatirim-tutarinin-tamamini-aldi-43377297",
+   "zaman": "2026-11-13T16:33:00+03:00",
+   "kelimeler": [
+    "10",
+    "333",
+    "493",
+    "aldi",
+    "fon",
+    "kisi",
+    "koord",
+    "kurul",
+    "net",
+    "tamam",
+    "topla",
+    "tutar",
+    "yapil",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a6308fe35dc5"
+  },
+  "4486d2958c09": {
+   "id": "4486d2958c09",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan'ın, Katar Emiri Al Sani ile görüşüyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüşmesi başladı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdoganin-katar-emiri-al-sani-ile-gorusuyor-963198.html",
+   "zaman": "2026-11-13T16:40:00+03:00",
+   "kelimeler": [
+    "al",
+    "cumhu",
+    "emiri",
+    "erdog",
+    "gorus",
+    "in",
+    "katar",
+    "sani"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "640542aae065"
+  },
+  "64c887c97484": {
+   "id": "64c887c97484",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran'dan Cumhurbaşkanı Erdoğan'ın COP31 temaslarına ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Duran,\"Türkiye bir yandan bölgesinde barış ve istikrarın sağlanması için diplomatik girişimlerini sürdürürken diğer yandan farklı coğrafyalarla siyasi, ekonomik ve stratejik ilişkilerini geliştirmeye devam ediyor.\"",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cumhurbaskani-erdoganin-cop31-temaslarina-iliskin-paylasim/4124210",
+   "zaman": "2026-11-13T16:47:02+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "cumhu",
+    "dan",
+    "duran",
+    "erdog",
+    "ileti",
+    "ilisk",
+    "in",
+    "payla",
+    "temas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0ce85c07955d"
+  },
+  "6eb5b718e46b": {
+   "id": "6eb5b718e46b",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüşüyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüşmesi başladı. Görüşme Dolmabahçe'deki Cumhurbaşkanlığı ofisinde gerçekleşiyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorusuyor-43377329",
+   "zaman": "2026-11-13T16:50:00+03:00",
+   "kelimeler": [
+    "al",
+    "cumhu",
+    "emiri",
+    "erdog",
+    "gorus",
+    "katar",
+    "sani"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "640542aae065"
+  },
+  "28bbf48e293d": {
+   "id": "28bbf48e293d",
+   "kaynak": "NTV",
+   "baslik": "Malatya'nın deprem sonrası dönüşümü COP31'de gündeme geldi",
+   "ozet": "125 bin bağımsız bölüm inşla edildi, su güvenliği için Fırat Havzası Projesi hazırlanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/malatyanin-deprem-sonrasi-donusumu-cop31de-gundeme-geldi-1750747",
+   "zaman": "2026-11-13T16:55:06+03:00",
+   "kelimeler": [
+    "cop31",
+    "depre",
+    "donus",
+    "geldi",
+    "gunde",
+    "malat",
+    "nin",
+    "sonra"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "13.11 17:01:28  3 yeni haber",
   "13.11 16:46:14  9 yeni haber",
   "13.11 16:16:04  2 yeni haber",
   "13.11 16:01:51  7 yeni haber",
@@ -35772,8 +35851,7 @@
   "11.11 15:31:16  4 yeni haber",
   "11.11 15:16:14  2 yeni haber",
   "11.11 15:01:30  7 yeni haber",
-  "11.11 14:46:14  5 yeni haber",
-  "11.11 14:33:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD'de ara seçimleri kazanan Demokratların İsrail destekçisi kanadının"
+  "11.11 14:46:14  5 yeni haber"
  ],
  "otomatik": false
 }
