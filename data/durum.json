@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "aff2ab401c88": {
-   "id": "aff2ab401c88",
-   "kaynak": "AA",
-   "baslik": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada nüshasının bilinmeyen özellikleri ortaya çıkarıldı",
-   "ozet": "İstanbul Üniversitesinde yürütülen araştırmada, Fatih Sultan Mehmet'in kütüphanesindeki 260 yapraklık İlyada el yazmasının İstanbul'daki bir yazım atölyesinde kopyalanmış olabileceğine ilişkin bulgulara ulaşıldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/fatih-sultan-mehmetin-kutuphanesindeki-ilyada-nushasinin-bilinmeyen-ozellikleri-ortaya-cikarildi/4119424",
-   "zaman": "2026-11-10T21:02:15+03:00",
-   "kelimeler": [
-    "bilin",
-    "cikar",
-    "fatih",
-    "ilyad",
-    "in",
-    "kutup",
-    "mehme",
-    "nusha",
-    "ortay",
-    "ozell",
-    "sulta"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "311efc1563c9"
-  },
-  "7b45da0983e3": {
-   "id": "7b45da0983e3",
-   "kaynak": "Hürriyet",
-   "baslik": "400 internet sitesi erişime kapatıldı",
-   "ozet": "ANKARA'da jandarma ekiplerinin sanal devriyesi kapsamında tespit edilen yasa dışı bahis ve müstehcen içerikli 400 internet sitesi erişime kapatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/400-internet-sitesi-erisime-kapatildi-43373486",
-   "zaman": "2026-11-10T21:04:08+03:00",
-   "kelimeler": [
-    "400",
-    "erisi",
-    "inter",
-    "kapat",
-    "sites"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8db8e8693f5f"
-  },
   "2dbebceaabad": {
    "id": "2dbebceaabad",
    "kaynak": "TRT Haber",
@@ -35315,9 +35273,66 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "53fa94623d7a": {
+   "id": "53fa94623d7a",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye Sigorta fon kazancını TMSF'ye iade etti",
+   "ozet": "Türkiye Sigorta AŞ, 1 milyar 599 milyon 887 bin 908 TL'nin iade edilecek kazanç olarak belirlendiğini ve iade tutarının bugün Tasarruf Mevduatı Sigorta Fonu (TMSF) hesabına yatırıldığını bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-sigorta-fon-kazancini-tmsfye-iade-etti-43377623",
+   "zaman": "2026-11-13T21:00:47+03:00",
+   "kelimeler": [
+    "etti",
+    "fon",
+    "iade",
+    "kazan",
+    "sigor",
+    "tmsf",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7e90bc41b7aa": {
+   "id": "7e90bc41b7aa",
+   "kaynak": "Hürriyet",
+   "baslik": "Peru’da 5.9 büyüklüğünde deprem",
+   "ozet": "Peru Jeofizik Enstitüsü, ülkenin San Juan de Marcona kenti açıklarında 5.9 büyüklüğünde deprem meydana geldiğini bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/peruda-5-9-buyuklugunde-deprem-43377626",
+   "zaman": "2026-11-13T21:06:47+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "peru"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2cac070cf007": {
+   "id": "2cac070cf007",
+   "kaynak": "NTV",
+   "baslik": "Londra Belediye Başkanı Sadık Han İstanbul'da. \"Birbirimizden öğrenebileceğimiz çok şey var\"",
+   "ozet": "Londra Belediye Başkanı Sadık Han, COP31 için bulunduğu Antalya'dan sonra İstanbul'a geldi. Han, Londra ve İstanbul arasındaki benzerliklere dikkat çekti. Haber: Derya Acemoğlu",
+   "link": "https://www.ntv.com.tr/turkiye/londra-belediye-baskani-sadik-han-istanbulda-birbirimizden-ogrenmemiz-gereken-seyler-var-1750761",
+   "zaman": "2026-11-13T21:15:48+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "birbi",
+    "han",
+    "istan",
+    "londr",
+    "ogren",
+    "sadik",
+    "sey"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 21:16:11  3 yeni haber",
   "13.11 21:01:41  1 yeni haber",
   "13.11 20:44:37  1 yeni haber",
   "13.11 20:31:44  3 yeni haber",
@@ -35516,8 +35531,7 @@
   "11.11 22:46:20  7 yeni haber",
   "11.11 22:31:13  3 yeni haber",
   "11.11 22:16:23  3 yeni haber",
-  "11.11 22:01:25  1 yeni haber",
-  "11.11 21:46:12  2 yeni haber"
+  "11.11 22:01:25  1 yeni haber"
  ],
  "otomatik": false
 }
