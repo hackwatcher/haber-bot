@@ -36111,7 +36111,10 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b7dd33702b0f": {
    "id": "b7dd33702b0f",
@@ -37079,7 +37082,10 @@
     "ureti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f5ceb45622d1": {
    "id": "f5ceb45622d1",
@@ -37752,9 +37758,97 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7176f0695bae": {
+   "id": "7176f0695bae",
+   "kaynak": "TRT Haber",
+   "baslik": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
+   "ozet": "Almanya merkezli insansız hava aracı İHA üreticisi Quantum Systems'in şirket ağına siber saldırı düzenlendiği ve güncelleme sunucusuna zararlı yazılım yerleştirildiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/alman-iha-ureticisi-quantum-systemse-siber-saldiri-963121.html",
+   "zaman": "2026-11-13T06:07:00+03:00",
+   "kelimeler": [
+    "alman",
+    "iha",
+    "quant",
+    "saldi",
+    "siber",
+    "syste",
+    "ureti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c608a4b8d4c5"
+  },
+  "e8d5e9d447c8": {
+   "id": "e8d5e9d447c8",
+   "kaynak": "TRT Haber",
+   "baslik": "UNRWA, bu yıl 250 milyon dolarlık bütçe açığıyla karşı karşıya olduğunu belirtti",
+   "ozet": "Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Bayındırlık Ajansı UNRWA Genel Komiser Vekili Christian Saunders, kurumun 2026 yılı bütçe açığının 250 milyon dolara ulaştığını belirterek, acil finansman sağlanmaması halinde milyonlarca Filistinli mülteciye…",
+   "link": "https://www.trthaber.com/haber/dunya/unrwa-bu-yil-250-milyon-dolarlik-butce-acigiyla-karsi-karsiya-oldugunu-belirtti-963122.html",
+   "zaman": "2026-11-13T06:09:00+03:00",
+   "kelimeler": [
+    "250",
+    "acigi",
+    "belir",
+    "butce",
+    "dolar",
+    "karsi",
+    "milyo",
+    "oldug",
+    "unrwa",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6499bffd6dce"
+  },
+  "dbac395ffdc9": {
+   "id": "dbac395ffdc9",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrailli haham, Arap partileriyle iş birliği yapan Yahudi siyasetçilerin öldürülmesine fetva verdi",
+   "ozet": "İsrail'de aşırı sağcı haham Gedalya Axelrod, 27 Ekim'de yapılan seçimlerin ardından koalisyon tartışmaları sürerken İsrail vatandaşı Filistinlileri temsil eden Arap partileriyle iş birliği yapan Yahudi siyasetçilerin öldürülmesine fetva verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/israilli-haham-arap-partileriyle-is-birligi-yapan-yahudi-siyasetcilerin-oldurulmesine-fetva-verdi-963123.html",
+   "zaman": "2026-11-13T06:10:00+03:00",
+   "kelimeler": [
+    "arap",
+    "birli",
+    "fetva",
+    "haham",
+    "is",
+    "israi",
+    "oldur",
+    "parti",
+    "siyas",
+    "verdi",
+    "yahud",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c8afcb9ab88": {
+   "id": "6c8afcb9ab88",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin en büyük eyaleti hala seçim sonuçlarını bekliyor",
+   "ozet": "ABD'nin en büyük eyaleti Alaska'da zorlu coğrafi koşullar ve posta gecikmeleri nedeniyle ara seçim oylarının sayımı uzadı. Kara yolu ulaşımının bulunmadığı eyalet başkenti Juneau'ya deniz uçakları ve teknelerle taşınan pusulaların sayımının 18 Kasım'da tamamlanması bekleniyor.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-en-buyuk-eyaleti-hala-secim-sonuclarini-bekliyor-963124.html",
+   "zaman": "2026-11-13T06:19:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bekli",
+    "buyuk",
+    "eyale",
+    "hala",
+    "nin",
+    "secim",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "13.11 06:31:24  2 yeni haber",
   "13.11 06:16:08  1 yeni haber",
   "13.11 06:01:31  2 yeni haber",
   "13.11 05:02:46  2 yeni haber",
@@ -37953,8 +38047,7 @@
   "11.11 03:31:27  2 yeni haber",
   "11.11 03:16:21  1 yeni haber",
   "11.11 02:31:24  1 yeni haber",
-  "11.11 02:16:12  1 yeni haber",
-  "11.11 02:01:43  4 yeni haber"
+  "11.11 02:16:12  1 yeni haber"
  ],
  "otomatik": false
 }
