@@ -1,58 +1,5 @@
 {
  "haberler": {
-  "b31c7ec01b38": {
-   "id": "b31c7ec01b38",
-   "kaynak": "AA",
-   "baslik": "BBC araştırması, Epstein'in cinsel istismar ağına uzanan model ajansı bağlantılarını ortaya koydu",
-   "ozet": "BBC'nin araştırması, reşit olmayan kız çocuklarına yönelik fuhuş ağı kurduğu iddiasıyla yargılanırken 2019'da hapishanede ölü bulunan Jeffrey Epstein'in model ajansları aracılığıyla genç kadınlara ulaştığına ilişkin yeni belgeleri ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/dunya/bbc-arastirmasi-epsteinin-cinsel-istismar-agina-uzanan-model-ajansi-baglantilarini-ortaya-koydu/4119570",
-   "zaman": "2026-11-11T00:36:14+03:00",
-   "kelimeler": [
-    "agina",
-    "ajans",
-    "arast",
-    "bagla",
-    "bbc",
-    "cinse",
-    "epste",
-    "in",
-    "istis",
-    "koydu",
-    "model",
-    "ortay",
-    "uzana"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "dc4c37d8cd21": {
-   "id": "dc4c37d8cd21",
-   "kaynak": "AA",
-   "baslik": "İran Dışişleri Bakanı Erakçi, BM'den ABD'nin İran'ın nükleer programına yönelik ödül kararını kınamasını istedi",
-   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD Dışişleri Bakanlığının İran'ın nükleer programına ilişkin bilgi sağlayanlara 20 milyon dolara kadar ödül verileceğini açıklamasına tepki gösterdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-bmden-abdnin-iranin-nukleer-programina-yonelik-odul-kararini-kinamasini-istedi/4119571",
-   "zaman": "2026-11-11T00:36:57+03:00",
-   "kelimeler": [
-    "abd",
-    "bakan",
-    "bm",
-    "den",
-    "disis",
-    "erakc",
-    "in",
-    "iran",
-    "isted",
-    "karar",
-    "kinam",
-    "nin",
-    "nukle",
-    "odul",
-    "progr",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "fb1b005916aa": {
    "id": "fb1b005916aa",
    "kaynak": "Hürriyet",
@@ -143,31 +90,6 @@
    "diger_kaynaklar": [
     "AA"
    ]
-  },
-  "fdda78f5e274": {
-   "id": "fdda78f5e274",
-   "kaynak": "AA",
-   "baslik": "12 Demokrat senatör, ABD-İsrail savunma ilişkilerini genişleten 3 NDAA maddesinin çıkarılmasını talep etti",
-   "ozet": "12 ABD'li Demokrat senatör, ABD ile İsrail arasındaki savunma işbirliğini ve istihbarat paylaşımını derinleştirecek 2027 Mali Yılı Ulusal Savunma Yetki Yasası (NDAA) tasarısındaki 3 maddenin çıkarılması çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/12-demokrat-senator-abd-israil-savunma-iliskilerini-genisleten-3-ndaa-maddesinin-cikarilmasini-talep-etti/4119573",
-   "zaman": "2026-11-11T00:37:35+03:00",
-   "kelimeler": [
-    "12",
-    "abd",
-    "cikar",
-    "demok",
-    "etti",
-    "genis",
-    "ilisk",
-    "israi",
-    "madde",
-    "ndaa",
-    "savun",
-    "senat",
-    "talep"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "3c24d0992427": {
    "id": "3c24d0992427",
@@ -35018,7 +34940,10 @@
     "yolcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d1518d5d75f9": {
    "id": "d1518d5d75f9",
@@ -35113,10 +35038,137 @@
     "ucusl"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "48e11283dbf3": {
+   "id": "48e11283dbf3",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de Mississippi Nehri'nde tanker yolcu gemisine çarptı",
+   "ozet": "ABD'nin Louisiana eyaletinde Mississippi Nehri'nde tanker, 129 kişinin bulunduğu ve kıyıda bekleyen büyük yolcu gemisine çarptı.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-mississippi-nehrinde-tanker-yolcu-gemisine-carpti-963231.html",
+   "zaman": "2026-11-14T00:21:00+03:00",
+   "kelimeler": [
+    "abd",
+    "carpt",
+    "gemis",
+    "missi",
+    "nde",
+    "nehri",
+    "tanke",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "486e7d7aa43a"
+  },
+  "a8082d1715cb": {
+   "id": "a8082d1715cb",
+   "kaynak": "TRT Haber",
+   "baslik": "ABDde tüm uçuşlar durduruldu",
+   "ozet": "ABD Ulaştırma Bakanı Duffy, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu yaşandığını açıkladı..",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html",
+   "zaman": "2026-11-14T00:26:00+03:00",
+   "kelimeler": [
+    "abdde",
+    "durdu",
+    "tum",
+    "ucusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "74d4bdb04cd4"
+  },
+  "c423840969f2": {
+   "id": "c423840969f2",
+   "kaynak": "AA",
+   "baslik": "ABD Federal Havacılık İdaresi, ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı",
+   "ozet": "ABD Federal Havacılık İdaresi, Hava Yolu Trafik Kontrol Merkezlerini etkileyen iletişim sorununun ardından ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucuslarin-durdurulmasi-karari-aldi/4124785",
+   "zaman": "2026-11-14T00:39:40+03:00",
+   "kelimeler": [
+    "abd",
+    "aldi",
+    "durdu",
+    "feder",
+    "genel",
+    "havac",
+    "haval",
+    "idare",
+    "karar",
+    "tum",
+    "ucusl"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "c95e13b6e51e": {
+   "id": "c95e13b6e51e",
+   "kaynak": "AA",
+   "baslik": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
+   "zaman": "2026-11-14T00:42:50+03:00",
+   "kelimeler": [
+    "budo",
+    "edild",
+    "hava",
+    "iptal",
+    "kosul",
+    "neden",
+    "nun",
+    "olums",
+    "sefer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c4f771c2fae": {
+   "id": "4c4f771c2fae",
+   "kaynak": "BBC Türkçe",
+   "baslik": "ABD'de yük gemisi ile çarpışan kruz gemisi yan yattı",
+   "ozet": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
+   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o",
+   "zaman": "2026-11-14T00:43:28+03:00",
+   "kelimeler": [
+    "abd",
+    "carpi",
+    "gemis",
+    "kruz",
+    "yan",
+    "yatti",
+    "yuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5f5a3dbedcac": {
+   "id": "5f5a3dbedcac",
+   "kaynak": "AA",
+   "baslik": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
+   "ozet": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
+   "zaman": "2026-11-14T00:43:49+03:00",
+   "kelimeler": [
+    "adil",
+    "eylem",
+    "gazet",
+    "gecis",
+    "genel",
+    "konul",
+    "plani",
+    "resmi",
+    "strat",
+    "ulusa"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "14.11 00:46:11  4 yeni haber",
   "14.11 00:33:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Mekke Savunma Anlaşması yürürlüğe girdi",
   "14.11 00:31:16  7 yeni haber",
   "14.11 00:16:08  3 yeni haber",
@@ -35315,8 +35367,7 @@
   "12.11 02:01:50  3 yeni haber",
   "12.11 01:46:07  1 yeni haber",
   "12.11 01:35:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · CHP'den istifa eden Saniye Barut'un yeni partisi belli oldu",
-  "12.11 01:32:22  3 yeni haber",
-  "12.11 01:16:14  3 yeni haber"
+  "12.11 01:32:22  3 yeni haber"
  ],
  "otomatik": false
 }
