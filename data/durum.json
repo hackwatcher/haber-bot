@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "f92f8a8c22a7": {
-   "id": "f92f8a8c22a7",
-   "kaynak": "AA",
-   "baslik": "New York'ta çöken binanın enkazı altında kalan en az bir kişi hayatını kaybetti",
-   "ozet": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişinin öldüğü, bazı apartman sakinlerinin yaralandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/new-yorkta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-kaybetti/4121532",
-   "zaman": "2026-11-12T01:37:15+03:00",
-   "kelimeler": [
-    "altin",
-    "az",
-    "binan",
-    "coken",
-    "enkaz",
-    "hayat",
-    "kalan",
-    "kaybe",
-    "kisi",
-    "new",
-    "ta",
-    "york"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "cbe517b45497": {
-   "id": "cbe517b45497",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan ve eşi Emine Erdoğan, liderler onuruna verilen yemeğe katıldı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan ve eşi Emine Erdoğan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında liderler onuruna verilen yemeğe katıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ve-esi-emine-erdogan-liderler-onuruna-verilen-yemege-katildi-43375005",
-   "zaman": "2026-11-12T01:43:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "emine",
-    "erdog",
-    "esi",
-    "katil",
-    "lider",
-    "onuru",
-    "veril",
-    "yemeg"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3f77f5ec957f": {
    "id": "3f77f5ec957f",
    "kaynak": "AA",
@@ -315,25 +267,6 @@
     "in",
     "koali",
     "suudi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d7430ed78cc0": {
-   "id": "d7430ed78cc0",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe Tarfin, Paris Basketbol'a 111-109 mağlup oldu",
-   "ozet": "Avrupa Ligi'nin 11. haftasında Fenerbahçe Tarfin, konuk olduğu Fransa ekibi Paris Basketbol'a uzatmada 111-109 yenildi.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-paris-basketbola-111-109-maglup-oldu/4121529",
-   "zaman": "2026-11-12T01:31:57+03:00",
-   "kelimeler": [
-    "109",
-    "111",
-    "baske",
-    "fener",
-    "maglu",
-    "paris",
-    "tarfi"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -18189,7 +18122,8 @@
     "yuzde"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "069586aad7f1": {
    "id": "069586aad7f1",
@@ -30977,6 +30911,28 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f4b368ac67ce"
+  },
+  "17acff91a7c9": {
+   "id": "17acff91a7c9",
+   "kaynak": "AA",
+   "baslik": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
+   "ozet": "COP31 kapsamında düzenlenen panelde, küresel elektrik kullanımının payının 2035'e kadar yüzde 35'e, 2050'ye kadar yüzde 50'ye çıkarılması hedefi ve bu doğrultuda atılması gereken adımlar ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyonun-2035e-kadar-yuzde-35e-cikarilmasi-hedefi-ele-alindi/4125315",
+   "zaman": "2026-11-14T19:21:03+03:00",
+   "kelimeler": [
+    "2035",
+    "35",
+    "alind",
+    "cikar",
+    "cop31",
+    "ele",
+    "elekt",
+    "hedef",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d3858d593ea"
   }
  },
  "kayit": [
