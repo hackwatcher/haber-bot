@@ -1,83 +1,5 @@
 {
  "haberler": {
-  "2b2c4fcf874a": {
-   "id": "2b2c4fcf874a",
-   "kaynak": "AA",
-   "baslik": "Lewis Hamilton'dan Gazze'ye insani yardım çağrısı",
-   "ozet": "Formula 1 ekibi Ferrari'nin Büyük Britanyalı pilotu Lewis Hamilton, Gazze'ye insani yardım ulaştırılmasına yönelik çağrıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/spor/lewis-hamiltondan-gazzeye-insani-yardim-cagrisi/4121375",
-   "zaman": "2026-11-11T22:09:14+03:00",
-   "kelimeler": [
-    "cagri",
-    "dan",
-    "gazze",
-    "hamil",
-    "insan",
-    "lewis",
-    "yardi",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b7135b270361"
-  },
-  "dd87af5b2b97": {
-   "id": "dd87af5b2b97",
-   "kaynak": "Hürriyet",
-   "baslik": "Dışişleri Bakanlığı'ndan İsrail'e sert tepki",
-   "ozet": "Dışişleri Bakanlığı, İsrail Dışişleri Bakanlığı tarafından yapılan ve Cumhurbaşkanı Erdoğan'ı hedef alan açıklamalarına tepki gösterdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-israile-sert-tepki-43374925",
-   "zaman": "2026-11-11T22:13:40+03:00",
-   "kelimeler": [
-    "bakan",
-    "disis",
-    "israi",
-    "ndan",
-    "sert",
-    "tepki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "AA"
-   ]
-  },
-  "2bac2c070c0e": {
-   "id": "2bac2c070c0e",
-   "kaynak": "TRT Haber",
-   "baslik": "Dışişleri'nden İsrail'e tepki",
-   "ozet": "Dışişleri Bakanlığı, yaptığı açıklamada, \"İsrail Dışişleri Bakanlığının Sayın Cumhurbaşkanımıza yönelik alçakça ve hadsiz iftiraları, İsrailli yöneticilerin gerçekleri gizlemeye dönük nafile çabalarının yeni bir örneğini teşkil etmiştir.\" ifadelerini kullandı.",
-   "link": "https://www.trthaber.com/haber/gundem/disislerinden-israile-tepki-962969.html",
-   "zaman": "2026-11-11T22:10:00+03:00",
-   "kelimeler": [
-    "disis",
-    "israi",
-    "nden",
-    "tepki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dd87af5b2b97"
-  },
-  "4110443d2c12": {
-   "id": "4110443d2c12",
-   "kaynak": "AA",
-   "baslik": "Türk Yıldızları, Girne'de gösteri uçuşu yapacak",
-   "ozet": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43. kuruluş yıl dönümü kutlamalarında Girne'de gösteri uçuşu yapacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-girnede-gosteri-ucusu-yapacak/4121374",
-   "zaman": "2026-11-11T22:08:53+03:00",
-   "kelimeler": [
-    "girne",
-    "goste",
-    "turk",
-    "ucusu",
-    "yapac",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "752a542571bb": {
    "id": "752a542571bb",
    "kaynak": "Hürriyet",
@@ -238,23 +160,6 @@
     "sekil",
     "siber",
     "uygul"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b0e918acf85c": {
-   "id": "b0e918acf85c",
-   "kaynak": "AA",
-   "baslik": "Bakan Kurum: Kaderlerimiz birbirine bağlıdır",
-   "ozet": "Bakan Kurum, \"Hiçbir sınır, yükselen denizleri durduramaz. Hiçbir duvar, kuraklığın önüne geçemez. Hiçbir bayrak, fırtınanın yönünü değiştiremez. İklim değişikliği bize çok önemli bir gerçeği hatırlatıyor. Kaderlerimiz birbirine bağlıdır.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-kaderlerimiz-birbirine-baglidir/4121376",
-   "zaman": "2026-11-11T22:09:43+03:00",
-   "kelimeler": [
-    "bagli",
-    "bakan",
-    "birbi",
-    "kader",
-    "kurum"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -31352,9 +31257,29 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "45ddac36b3d8"
+  },
+  "098e0c823d3e": {
+   "id": "098e0c823d3e",
+   "kaynak": "TRT Haber",
+   "baslik": "İran'da işçi servisi devrildi, 5 kişi öldü, 17 kişi yaralandı",
+   "ozet": "İran'ın İlam eyaletinde işçileri taşıyan bir otobüsün devrilmesi sonucu 5 kişi hayatını kaybetti, 17 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/iranda-isci-servisi-devrildi-5-kisi-oldu-17-kisi-yaralandi-963305.html",
+   "zaman": "2026-11-14T21:47:00+03:00",
+   "kelimeler": [
+    "17",
+    "devri",
+    "iran",
+    "isci",
+    "kisi",
+    "servi",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "14.11 22:16:08  1 yeni haber",
   "14.11 22:02:01  2 yeni haber",
   "14.11 21:46:17  4 yeni haber",
   "14.11 21:31:17  1 yeni haber",
@@ -31553,8 +31478,7 @@
   "12.11 20:01:23  5 yeni haber",
   "12.11 20:01:23  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "12.11 19:47:50  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · MSB: Bir S-70 tipi helikopterimiz Malatya'da henüz bilinmeyen nedenle ",
-  "12.11 19:46:28  1 yeni haber",
-  "12.11 19:31:16  3 yeni haber"
+  "12.11 19:46:28  1 yeni haber"
  ],
  "otomatik": false
 }
