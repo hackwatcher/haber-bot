@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "40b33c322535": {
-   "id": "40b33c322535",
-   "kaynak": "NTV",
-   "baslik": "Meteoroloji'den aralarında İstanbul'un da olduğu 11 il için sarı kodlu uyarı",
-   "ozet": "Meteoroloji Genel Müdürlüğü, yarın beklenen kuvvetli yağış nedeniyle İstanbul'un da aralarında bulunduğu 11 il için sarı kodlu uyarı yayımladı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-meteorolojiden-aralarinda-istanbulun-da-oldugu-11-il-icin-sari-kodlu-uyari-1750463",
-   "zaman": "2026-11-11T19:12:54+03:00",
-   "kelimeler": [
-    "11",
-    "arala",
-    "den",
-    "il",
-    "istan",
-    "kodlu",
-    "meteo",
-    "oldug",
-    "sari",
-    "un",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6020ee1492de"
-  },
-  "45c0acdb82bb": {
-   "id": "45c0acdb82bb",
-   "kaynak": "AA",
-   "baslik": "AB: Rusya ciddi şekilde müzakereye hazır olduğuna dair hiçbir işaret göstermiyor",
-   "ozet": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Rusya'nın Ukrayna ile savaşı sona erdirmek için ciddi şekilde müzakere etmeye hazır olduğuna dair hiçbir işaret göstermediğini öne sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-rusya-ciddi-sekilde-muzakereye-hazir-olduguna-dair-hicbir-isaret-gostermiyor/4121131",
-   "zaman": "2026-11-11T19:13:07+03:00",
-   "kelimeler": [
-    "ab",
-    "ciddi",
-    "dair",
-    "goste",
-    "hazir",
-    "hicbi",
-    "isare",
-    "muzak",
-    "oldug",
-    "rusya",
-    "sekil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9b87493d8e15": {
    "id": "9b87493d8e15",
    "kaynak": "AA",
@@ -31471,7 +31424,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "be0dfd2fd21e": {
@@ -31719,9 +31673,76 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "17ad8e3d9799": {
+   "id": "17ad8e3d9799",
+   "kaynak": "TRT Haber",
+   "baslik": "MHP Genel Başkanı Bahçeli'den KKTC'nin kuruluş yıl dönümü mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Kıbrıs Türk Devleti'nin yaşatılması, egemenliğinin güçlendirilmesi ve uluslararası alanda hak ettiği konuma ulaşması, milli davamızın vazgeçilmez hedefidir.\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/guncel/mhp-genel-baskani-bahceliden-kktcnin-kurulus-yil-donumu-mesaji-963297.html",
+   "zaman": "2026-11-14T18:24:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "den",
+    "donum",
+    "genel",
+    "kktc",
+    "kurul",
+    "mesaj",
+    "mhp",
+    "nin",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ec0a9e5cc919"
+  },
+  "b34bd1d18838": {
+   "id": "b34bd1d18838",
+   "kaynak": "AA",
+   "baslik": "Şarkıcı Mustafa Ceceli'den dolandırıcılara karşı videolu uyarı",
+   "ozet": "Iğdır'ın kurtuluş yıl dönümü etkinlikleri kapsamında kente gelen şarkıcı Mustafa Ceceli, polis memurlarıyla çektiği videoda vatandaşları dolandırıcılara karşı uyardı.",
+   "link": "https://www.aa.com.tr/tr/kultur/sarkici-mustafa-ceceliden-dolandiricilara-karsi-videolu-uyari/4125306",
+   "zaman": "2026-11-14T18:52:52+03:00",
+   "kelimeler": [
+    "cecel",
+    "den",
+    "dolan",
+    "karsi",
+    "musta",
+    "sarki",
+    "uyari",
+    "video"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9d6c237d6ed4": {
+   "id": "9d6c237d6ed4",
+   "kaynak": "AA",
+   "baslik": "Şehit Jandarma Binbaşı Arslan Kulaksız'ın faillerinden biri yakalandı",
+   "ozet": "Muş'un Malazgirt ilçesinde 11 yıl önce PKK'lı teröristlerin silahlı saldırısında şehit olan İlçe Jandarma Komutanı Binbaşı Arslan Kulaksız'ın faillerinden biri ile ona yardım ve yataklık eden 2 kişi yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sehit-jandarma-binbasi-arslan-kulaksizin-faillerinden-biri-yakalandi/4125313",
+   "zaman": "2026-11-14T19:13:03+03:00",
+   "kelimeler": [
+    "arsla",
+    "binba",
+    "biri",
+    "faill",
+    "in",
+    "janda",
+    "kulak",
+    "sehit",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8810e2065688"
   }
  },
  "kayit": [
+  "14.11 19:16:13  1 yeni haber",
   "14.11 19:06:12  3 yeni haber",
   "14.11 19:01:20  5 yeni haber",
   "14.11 18:46:22  5 yeni haber",
@@ -31920,8 +31941,7 @@
   "12.11 17:01:28  4 yeni haber",
   "12.11 16:46:20  8 yeni haber",
   "12.11 16:31:33  7 yeni haber",
-  "12.11 16:16:03  2 yeni haber",
-  "12.11 16:01:36  7 yeni haber"
+  "12.11 16:16:03  2 yeni haber"
  ],
  "otomatik": false
 }
