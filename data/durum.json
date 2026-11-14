@@ -1,97 +1,5 @@
 {
  "haberler": {
-  "6338da794727": {
-   "id": "6338da794727",
-   "kaynak": "Hürriyet",
-   "baslik": "Sağlık camiasını yasa boğan şüpheli ölüm: Dr. Pelin Pınar 8'inci kattaki balkondan düştü",
-   "ozet": "İstanbul'da görev yapan kadın doğum asistanı Dr. Pelin Pınar, ikamet ettiği binanın 8'inci katından düşerek olay yerinde hayatını kaybetti. Cenazesi Adli Tıp Kurumu morguna kaldırılan genç doktorun ölümüne ilişkin inceleme çok yönlü olarak sürdürülüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/saglik-camiasini-yasa-bogan-supheli-olum-dr-pelin-pinar-8inci-kattaki-balkondan-dustu-43374671",
-   "zaman": "2026-11-11T17:31:33+03:00",
-   "kelimeler": [
-    "balko",
-    "bogan",
-    "camia",
-    "dr",
-    "dustu",
-    "inci",
-    "katta",
-    "olum",
-    "pelin",
-    "pinar",
-    "sagli",
-    "suphe",
-    "yasa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9126896be0e2": {
-   "id": "9126896be0e2",
-   "kaynak": "AA",
-   "baslik": "Arap Koalisyonu: Husilerin Riyad'a fırlattığı 3 seyir füzesi imha edildi",
-   "ozet": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, Yemen'deki İran destekli Husilerin başkent Riyad'a fırlattığı 3 seyir füzesinin imha edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyada-firlattigi-3-seyir-fuzesi-imha-edildi/4120883",
-   "zaman": "2026-11-11T17:32:35+03:00",
-   "kelimeler": [
-    "arap",
-    "edild",
-    "firla",
-    "fuzes",
-    "husil",
-    "imha",
-    "koali",
-    "riyad",
-    "seyir"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "86277c280a62"
-  },
-  "f0c93a2bb7c9": {
-   "id": "f0c93a2bb7c9",
-   "kaynak": "Sözcü",
-   "baslik": "'İşte onları silmen lazım sadece orayı' sözleri Güllü'nün oğlunu harekete geçirdi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/gullunun-oglundan-istinaf-basvurusu-gorusme-kayitlari-arastirilsin-p380368",
-   "zaman": "2026-11-11T17:38:32+03:00",
-   "kelimeler": [
-    "gecir",
-    "gullu",
-    "harek",
-    "iste",
-    "lazim",
-    "nun",
-    "oglun",
-    "onlar",
-    "orayi",
-    "sadec",
-    "silme",
-    "sozle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "577d3d6d2b96": {
-   "id": "577d3d6d2b96",
-   "kaynak": "Hürriyet",
-   "baslik": "AK Parti, \"çalışanların maaşlarının fon hesaplarında değerlendirildiği\" iddiasını yalanladı",
-   "ozet": "AK Parti Genel Başkan Yardımcısı Ahmet Baha Öğütken, AK Parti Genel Merkezi'ndeki çalışanların maaşlarının fon hesaplarında değerlendirildiği yönündeki iddiaların gerçeği yansıtmadığını, parti çalışanlarının maaşlarının düzenli ve eksiksiz olarak banka hesaplarına yatırıldığını…",
-   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-calisanlarin-maaslarinin-fon-hesaplarinda-degerlendirildigi-iddiasini-yalanladi-43374685",
-   "zaman": "2026-11-11T17:40:00+03:00",
-   "kelimeler": [
-    "ak",
-    "calis",
-    "deger",
-    "fon",
-    "hesap",
-    "iddia",
-    "maasl",
-    "parti",
-    "yalan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c17bebfb3c5c": {
    "id": "c17bebfb3c5c",
    "kaynak": "XHABER",
@@ -19652,7 +19560,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2377da709cb7": {
    "id": "2377da709cb7",
@@ -31706,7 +31617,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "65fa2ac10412": {
    "id": "65fa2ac10412",
@@ -31849,10 +31763,162 @@
     "yenid"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "600126bea85a": {
+   "id": "600126bea85a",
+   "kaynak": "AA",
+   "baslik": "COP31'de gençlik, eğitim ve medyanın iklim mücadelesindeki rolü ele alındı",
+   "ozet": "COP31 kapsamında AA tarafından düzenlenen \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" panelinde, iklim değişikliğiyle mücadelede gençlerin aktif rol alması, iklim eğitiminin yaygınlaştırılması ve medyanın doğru bilgi verme sorumluluğu ele alındı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-genclik-egitim-ve-medyanin-iklim-mucadelesindeki-rolu-ele-alindi/4125220",
+   "zaman": "2026-11-14T16:46:05+03:00",
+   "kelimeler": [
+    "alind",
+    "cop31",
+    "egiti",
+    "ele",
+    "gencl",
+    "iklim",
+    "medya",
+    "mucad",
+    "rolu"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "5f97bebb3d4d": {
+   "id": "5f97bebb3d4d",
+   "kaynak": "AA",
+   "baslik": "COP31 Müzakereler Başkanı Bowen: COP31'in ilk haftasında bir dizi konuda iyi ilerleme kaydettik",
+   "ozet": "COP31 Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, \"COP31'in ilk haftasında bir dizi konuda iyi ilerleme kaydettik.\" diyerek görüşmelerin çok yapıcı bir şekilde sürdüğünü kaydetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-muzakereler-baskani-bowen-cop31in-ilk-haftasinda-bir-dizi-konuda-iyi-ilerleme-kaydettik/4125227",
+   "zaman": "2026-11-14T16:53:19+03:00",
+   "kelimeler": [
+    "baska",
+    "bowen",
+    "cop31",
+    "dizi",
+    "hafta",
+    "ilerl",
+    "ilk",
+    "in",
+    "iyi",
+    "kayde",
+    "konud",
+    "muzak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "295fccd23e4d": {
+   "id": "295fccd23e4d",
+   "kaynak": "Hürriyet",
+   "baslik": "Çorum'da haber alınamayan çift, evlerinde ölü bulundu",
+   "ozet": "Çorum’un Laçin ilçesinde bir süredir kendilerinden haber alınamayan 75 yaşındaki Zeliha ve 74 yaşındaki Mehmet Gökdere çifti, evlerinde ölü bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/corumda-haber-alinamayan-cift-evlerinde-olu-bulundu-43378423",
+   "zaman": "2026-11-14T17:10:47+03:00",
+   "kelimeler": [
+    "alina",
+    "bulun",
+    "cift",
+    "corum",
+    "evler",
+    "olu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd6048952da4": {
+   "id": "fd6048952da4",
+   "kaynak": "TRT Haber",
+   "baslik": "İtalya Verileri Koruma Kurumu, Meta'ya 805 milyon avro ceza kesti",
+   "ozet": "İtalya Verileri Koruma Kurumu Garante della Privacy, Meta şirketine \"Facebook\" isimli sosyal medya platformunun, Android kullanıcılarının galerilerindeki fotoğraf ve videolara özel izin almadan eriştiği gerekçesiyle 805 milyon avro para cezası verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/italya-verileri-koruma-kurumu-metaya-805-milyon-avro-ceza-kesti-963293.html",
+   "zaman": "2026-11-14T17:22:00+03:00",
+   "kelimeler": [
+    "805",
+    "avro",
+    "ceza",
+    "italy",
+    "kesti",
+    "korum",
+    "kurum",
+    "meta",
+    "milyo",
+    "veril",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0472f9646336"
+  },
+  "fb1ecf0a44fb": {
+   "id": "fb1ecf0a44fb",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum, Gazzeli Saly'nin hikayesini paylaştı",
+   "ozet": "COP31 Başkanı Kurum, İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybeden Gazzeli Saly'nin hikayesini paylaşarak \"COP31'de çocuk temasını işlediğimiz bu günde 196 ülkeye Saly ve Gazze'nin dramını hatırlatıyoruz\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-gazzeli-salynin-hikayesini-paylasti/4125242",
+   "zaman": "2026-11-14T17:25:17+03:00",
+   "kelimeler": [
+    "bakan",
+    "gazze",
+    "hikay",
+    "kurum",
+    "nin",
+    "payla",
+    "saly"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "73a4a111215a": {
+   "id": "73a4a111215a",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin en büyük kuantum bilgisayarı 2027'de devreye alınacak",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin Milli Teknoloji Hamlesi vizyonu doğrultusunda, ülkenin en büyük kuantum bilgisayarını TÜBİTAK bünyesinde kurmak üzere önemli bir projeye imza attıklarını açıkladı.",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-en-buyuk-kuantum-bilgisayari-2027de-devreye-alinacak-963295.html",
+   "zaman": "2026-11-14T17:30:00+03:00",
+   "kelimeler": [
+    "2027",
+    "alina",
+    "bilgi",
+    "buyuk",
+    "devre",
+    "kuant",
+    "nin",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2fe12c9e2d7b"
+  },
+  "23f595382054": {
+   "id": "23f595382054",
+   "kaynak": "TRT Haber",
+   "baslik": "Yeni Parti'de Özgür Özel yeniden genel başkan seçildi",
+   "ozet": "Yeni Parti 1. Olağan Kurultayında 1202 delegeden 1157si oy kullandı. Geçerli sayılan 1154 oyun tamamını alan Özgür Özel, yeniden genel başkan seçildi.",
+   "link": "https://www.trthaber.com/haber/gundem/yeni-partide-ozgur-ozel-yeniden-genel-baskan-secildi-963294.html",
+   "zaman": "2026-11-14T17:32:00+03:00",
+   "kelimeler": [
+    "baska",
+    "genel",
+    "ozel",
+    "ozgur",
+    "parti",
+    "secil",
+    "yeni",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8b68677b0fc8"
   }
  },
  "kayit": [
+  "14.11 17:46:03  4 yeni haber",
   "14.11 17:31:32  1 yeni haber",
   "14.11 17:31:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "14.11 17:16:04  4 yeni haber",
@@ -32051,8 +32117,7 @@
   "12.11 15:16:01  13 yeni haber",
   "12.11 15:01:40  12 yeni haber",
   "12.11 14:46:17  1 yeni haber",
-  "12.11 14:31:49  10 yeni haber",
-  "12.11 14:16:02  7 yeni haber"
+  "12.11 14:31:49  10 yeni haber"
  ],
  "otomatik": false
 }
