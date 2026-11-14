@@ -1,97 +1,5 @@
 {
  "haberler": {
-  "99c228ede5df": {
-   "id": "99c228ede5df",
-   "kaynak": "NTV",
-   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 11 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1750476",
-   "zaman": "2026-11-11T21:55:06+03:00",
-   "kelimeler": [
-    "11",
-    "2026",
-    "acikl",
-    "bilet",
-    "buldu",
-    "cilgi",
-    "dev",
-    "ekran",
-    "ikram",
-    "kasim",
-    "loto",
-    "mpi",
-    "sahib",
-    "sayis",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b76b1cf46b23"
-  },
-  "5aa7882dd67f": {
-   "id": "5aa7882dd67f",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan COP31'e ilişkin videolu paylaşım",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na (COP31) ilişkin videolu paylaşım yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-cop31e-iliskin-videolu-paylasim/4121370",
-   "zaman": "2026-11-11T21:55:08+03:00",
-   "kelimeler": [
-    "cop31",
-    "cumhu",
-    "dan",
-    "erdog",
-    "ilisk",
-    "payla",
-    "video"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f625a268de60"
-  },
-  "eccf93d4f7f1": {
-   "id": "eccf93d4f7f1",
-   "kaynak": "Hürriyet",
-   "baslik": "İran Meclis Başkanı Galibaf: Ne savaş ne de barış durumunu devam ettirmeyeceğiz",
-   "ozet": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD-İran arasında mevcut gerilimin sonlandırılmasına yönelik müzakere sürecine ilişkin, \"Top Amerika’nın sahasında, karar vermesi ve açıklama yapması gereken taraf onlar. ‘Ne savaş ne de barış’ durumunu devam ettirmeyeceğiz\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/iran-meclis-baskani-galibaf-ne-savas-ne-de-baris-durumunu-devam-ettirmeyecegiz-43374907",
-   "zaman": "2026-11-11T21:57:00+03:00",
-   "kelimeler": [
-    "baris",
-    "baska",
-    "devam",
-    "durum",
-    "ettir",
-    "galib",
-    "iran",
-    "mecli",
-    "savas"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "002f3c6d9b24": {
-   "id": "002f3c6d9b24",
-   "kaynak": "AA",
-   "baslik": "Brezilya Yüksek Seçim Mahkemesinden Meta'ya 1,34 milyon dolar ceza",
-   "ozet": "Brezilya Yüksek Seçim Mahkemesi, ABD'li teknoloji şirketi Meta'ya, seçim kampanyası döneminde siyasi içeriklerin dağıtımına ilişkin iddialar konusunda eksik bilgi sunduğu gerekçesiyle 7,5 milyon real (yaklaşık 1,34 milyon dolar) para cezası verdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/brezilya-yuksek-secim-mahkemesinden-metaya-1-34-milyon-dolar-ceza/4121373",
-   "zaman": "2026-11-11T22:00:22+03:00",
-   "kelimeler": [
-    "34",
-    "brezi",
-    "ceza",
-    "dolar",
-    "mahke",
-    "meta",
-    "milyo",
-    "secim",
-    "ya",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2b2c4fcf874a": {
    "id": "2b2c4fcf874a",
    "kaynak": "AA",
@@ -31321,7 +31229,10 @@
     "yoluy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7e72425d0c21": {
    "id": "7e72425d0c21",
@@ -31373,9 +31284,78 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "82c2164fb084": {
+   "id": "82c2164fb084",
+   "kaynak": "Hürriyet",
+   "baslik": "Feci kaza…. İş makinasına çarpan otomobildeki çift öldü, 2 çocuk yaralandı",
+   "ozet": "ŞANLIURFA’nın Birecik ilçesinde otomobilin kepçeye arkadan çarpması sonucu meydana gelen trafik kazasında Abdullah Polat (37) ile eşi Seher Polat (33) hayatını kaybederken, araçta bulunan 2 çocuk yaralandı. Kaza anı kameraya yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/feci-kaza-is-makinasina-carpan-otomobildeki-cift-oldu-2-cocuk-yaralandi-43378634",
+   "zaman": "2026-11-14T21:35:00+03:00",
+   "kelimeler": [
+    "carpa",
+    "cift",
+    "cocuk",
+    "feci",
+    "is",
+    "kaza",
+    "makin",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "ac3275639b9f": {
+   "id": "ac3275639b9f",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine karadan ve havadan saldırılarını sürdürdü",
+   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyine karadan ve havadan saldırılar düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-karadan-ve-havadan-saldirilarini-surdurdu/4125382",
+   "zaman": "2026-11-14T21:37:39+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "havad",
+    "in",
+    "israi",
+    "karad",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "surdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7996bbbcc2e2": {
+   "id": "7996bbbcc2e2",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: ABD Dışişleri Bakanı abluka yoluyla İran halkını aç bırakmakla tehdit ediyor",
+   "ozet": "İran Dışişleri Sözcüsü Bekayi, Rubionun \"Nihayetinde yemek yemek zorundasınız\" sözlerini eleştirerek ABDnin abluka yoluyla İran halkını aç bırakmakla tehdit ettiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-abd-disisleri-bakani-abluka-yoluyla-iran-halkini-ac-birakmakla-tehdit-ediyor-963304.html",
+   "zaman": "2026-11-14T21:41:00+03:00",
+   "kelimeler": [
+    "abd",
+    "abluk",
+    "ac",
+    "bakan",
+    "birak",
+    "disis",
+    "ediyo",
+    "halki",
+    "iran",
+    "tehdi",
+    "yoluy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "45ddac36b3d8"
   }
  },
  "kayit": [
+  "14.11 22:02:01  2 yeni haber",
   "14.11 21:46:17  4 yeni haber",
   "14.11 21:31:17  1 yeni haber",
   "14.11 21:16:09  4 yeni haber",
@@ -31574,8 +31554,7 @@
   "12.11 20:01:23  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "12.11 19:47:50  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): AA · MSB: Bir S-70 tipi helikopterimiz Malatya'da henüz bilinmeyen nedenle ",
   "12.11 19:46:28  1 yeni haber",
-  "12.11 19:31:16  3 yeni haber",
-  "12.11 19:17:05  5 yeni haber"
+  "12.11 19:31:16  3 yeni haber"
  ],
  "otomatik": false
 }
