@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "d810e2cb9255": {
-   "id": "d810e2cb9255",
-   "kaynak": "TRT Haber",
-   "baslik": "Marmara için fırtına uyarısı",
-   "ozet": "Marmara'da rüzgarın yarın öğle saatlerden itibaren, cuma günü ise sabah saatlerinden itibaren fırtına şeklinde esmesi bekleniyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/marmara-icin-firtina-uyarisi-962929.html",
-   "zaman": "2026-11-11T12:42:00+03:00",
-   "kelimeler": [
-    "firti",
-    "marma",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "07a8fd135fcf"
-  },
-  "53aead960c6e": {
-   "id": "53aead960c6e",
-   "kaynak": "Hürriyet",
-   "baslik": "Uyuşturucu parasını aile fertleri adına taşınmaza yatırmışlar: MASAK raporuyla 17 mülke el konuldu",
-   "ozet": "Üç ülkeye uzanan kara para aklama ağı İstanbul polisinin operasyonuyla çökertildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/uyusturucu-parasini-aile-fertleri-adina-tasinmaza-yatirmislar-masak-raporuyla-17-mulke-el-konuldu-43374064",
-   "zaman": "2026-11-11T12:46:05+03:00",
-   "kelimeler": [
-    "17",
-    "adina",
-    "aile",
-    "el",
-    "fertl",
-    "konul",
-    "masak",
-    "mulke",
-    "paras",
-    "rapor",
-    "tasin",
-    "uyust",
-    "yatir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d1c228a0edb5": {
    "id": "d1c228a0edb5",
    "kaynak": "AA",
@@ -623,26 +582,6 @@
     "soguk",
     "vaazl",
     "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "50f5c00db1e1": {
-   "id": "50f5c00db1e1",
-   "kaynak": "AA",
-   "baslik": "COP31'e katılan ünlülerden iklim kriziyle mücadeleye destek mesajı",
-   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31'e katılan sanatçılar ve sporcular, iklim kriziyle mücadelede herkesin sorumluluk üstlenmesi ve gelecek nesiller için harekete geçilmesi gerektiğini vurguladı.",
-   "link": "https://www.aa.com.tr/tr/kultur/cop31e-katilan-unlulerden-iklim-kriziyle-mucadeleye-destek-mesaji/4119987",
-   "zaman": "2026-11-11T12:36:23+03:00",
-   "kelimeler": [
-    "cop31",
-    "deste",
-    "iklim",
-    "katil",
-    "krizi",
-    "mesaj",
-    "mucad",
-    "unlul"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -25501,7 +25440,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "NTV"
    ]
   },
   "5a48dc4cd091": {
@@ -32638,9 +32578,132 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c48ae2f624ab"
+  },
+  "054724203ef2": {
+   "id": "054724203ef2",
+   "kaynak": "AA",
+   "baslik": "Atıklardan hidrojen üretimi ve Van Gölü'nün çevresel sorunları COP31'e taşındı",
+   "ozet": "Bitlis Eren Üniversitesi (BEÜ) akademisyenleri ve öğrencileri, organik atıklardan hidrojen üretimi ve Van Gölü Havzası'ndaki çevresel sorunlara dikkati çekmek amacıyla hazırladıkları projeleri, COP31'de tanıttı.",
+   "link": "https://www.aa.com.tr/tr/gundem/atiklardan-hidrojen-uretimi-ve-van-golunun-cevresel-sorunlari-cop31e-tasindi/4124912",
+   "zaman": "2026-11-14T11:02:11+03:00",
+   "kelimeler": [
+    "atikl",
+    "cevre",
+    "cop31",
+    "golu",
+    "hidro",
+    "nun",
+    "sorun",
+    "tasin",
+    "ureti",
+    "van"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ff5f40fe5107": {
+   "id": "ff5f40fe5107",
+   "kaynak": "AA",
+   "baslik": "Akkuyu NGS'nin ilk ünitesini çalıştıracak ve yönetecek ekipte 5 Türk operatör yer alacak",
+   "ozet": "Akkuyu Nükleer AŞ Yönetim Kurulu Başkanı Anton Dedusenko, Türkiye'nin ilk nükleer enerji santrali Akkuyu Nükleer Güç Santrali'nin (NGS) ilk ünitesinde göreve başlayacak 18 operatörden 5'inin Türk vatandaşı olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/akkuyu-ngsnin-ilk-unitesini-calistiracak-ve-yonetecek-ekipte-5-turk-operator-yer-alacak/4124943",
+   "zaman": "2026-11-14T11:18:22+03:00",
+   "kelimeler": [
+    "akkuy",
+    "alaca",
+    "calis",
+    "ekipt",
+    "ilk",
+    "ngs",
+    "nin",
+    "opera",
+    "turk",
+    "unite",
+    "yer",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d3c136b90931": {
+   "id": "d3c136b90931",
+   "kaynak": "AA",
+   "baslik": "COP31'de sanat ve spor dünyasından isimler Türkiye Pavilyonu ve COPArt'ı gezdi",
+   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'na (COP31) katılan sanat ve spor dünyasından isimler, Türkiye Pavilyonu ile COPArt sergisini ziyaret etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-sanat-ve-spor-dunyasindan-isimler-turkiye-pavilyonu-ve-coparti-gezdi/4124974",
+   "zaman": "2026-11-14T11:43:56+03:00",
+   "kelimeler": [
+    "cop31",
+    "copar",
+    "dunya",
+    "gezdi",
+    "isiml",
+    "pavil",
+    "sanat",
+    "spor",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "260b36f2564c": {
+   "id": "260b36f2564c",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ile Singapur arasında JETCO Protokolü imzalandı",
+   "ozet": "Ticaret Bakanı Ömer Bolat ve Singapurlu mevkidaşı Grace Fu tarafından imzalanan JETCO Protokolü ile iki ülkenin birbirini tamamlayıcı özelliklerinden yararlanılarak ticaret, yatırım ve üçüncü ülkelerde ortak proje işbirliklerinin daha ileri taşınması hedefleniyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-singapur-arasinda-jetco-protokolu-imzalandi-963262.html",
+   "zaman": "2026-11-14T12:28:00+03:00",
+   "kelimeler": [
+    "arasi",
+    "imzal",
+    "jetco",
+    "proto",
+    "singa",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17ef40850c69": {
+   "id": "17ef40850c69",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara merkezli uyuşturucu gelirini aklama operasyonu: 6 gözaltı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığınca yürütülen uyuşturucu ticaretinden elde edilen gelirin aklanması suçuna yönelik soruşturmada 6 şüpheli yakalandı.",
+   "link": "https://www.trthaber.com/haber/gundem/ankara-merkezli-uyusturucu-gelirini-aklama-operasyonu-6-gozalti-963263.html",
+   "zaman": "2026-11-14T12:30:00+03:00",
+   "kelimeler": [
+    "aklam",
+    "ankar",
+    "gelir",
+    "gozal",
+    "merke",
+    "opera",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c69ae638f34": {
+   "id": "6c69ae638f34",
+   "kaynak": "NTV",
+   "baslik": "Yeni Parti ilk kurultayını yapıyor",
+   "ozet": "Yeni Parti'nin ilk olağan kurultayı yapılıyor. Özgür Özel, genel başkanlık için tek aday olarak seçime giriyor. Parti Meclisi'nde (PM) üye sayısının yükseltilmesi dikkati çekiyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yeni-parti-ilk-kurultayini-yapiyor-1750828",
+   "zaman": "2026-11-14T12:42:17+03:00",
+   "kelimeler": [
+    "ilk",
+    "kurul",
+    "parti",
+    "yapiy",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fb9a9213923d"
   }
  },
  "kayit": [
+  "14.11 12:46:20  5 yeni haber",
   "14.11 12:35:52  2 yeni haber",
   "14.11 12:31:22  6 yeni haber",
   "14.11 12:16:29  8 yeni haber",
@@ -32839,8 +32902,7 @@
   "12.11 10:31:10  11 yeni haber",
   "12.11 10:16:11  8 yeni haber",
   "12.11 10:01:37  5 yeni haber",
-  "12.11 09:46:04  3 yeni haber",
-  "12.11 09:34:34  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Resmi Gazete'de bugün neler var? (12 Kasım 2026 Resmi Gazete kararları"
+  "12.11 09:46:04  3 yeni haber"
  ],
  "otomatik": false
 }
