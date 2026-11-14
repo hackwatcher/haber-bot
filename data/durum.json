@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "e642c159d953": {
-   "id": "e642c159d953",
-   "kaynak": "AA",
-   "baslik": "Eisenkot'tan Netanyahu'ya acil olmayan askeri eylemlere kalkışmama uyarısı",
-   "ozet": "İsrail'de hükümet kurma yetkisi alan Eisenkot, geçici Başbakan Netanyahu'ya acil olmayan askeri saldırılara kalkışmama uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/eisenkottan-netanyahuya-acil-olmayan-askeri-eylemlere-kalkismama-uyarisi/4121445",
-   "zaman": "2026-11-11T23:37:57+03:00",
-   "kelimeler": [
-    "asker",
-    "eisen",
-    "eylem",
-    "kalki",
-    "netan",
-    "olmay",
-    "tan",
-    "uyari",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "fa421881e6e5": {
    "id": "fa421881e6e5",
    "kaynak": "XHABER",
@@ -29983,7 +29959,8 @@
     "yapil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5749e71d3425": {
    "id": "5749e71d3425",
@@ -31200,9 +31177,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c19c142a0a8c": {
+   "id": "c19c142a0a8c",
+   "kaynak": "AA",
+   "baslik": "\"Türkiye İklim Okulu\" açıldı",
+   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Milli Eğitim Bakanlığınca hazırlanan Türkiye İklim Okulu açıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulu-acildi/4125268",
+   "zaman": "2026-11-14T17:52:38+03:00",
+   "kelimeler": [
+    "acild",
+    "iklim",
+    "okulu",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b55130f5c3fb"
+  },
+  "99f7f3f9e212": {
+   "id": "99f7f3f9e212",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Adli ve yargı kurumlarımız fon soruşturması sürecinde üzerlerine düşeni yapıyorlar",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturması hakkında, \"İstanbul Cumhuriyet Başsavcılığımız başta olmak üzere adli ve yargı kurumlarımız bu süreçte çok etkin bir şekilde üzerlerine düşeni yapıyorlar.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-adli-ve-yargi-kurumlarimiz-fon-sorusturmasi-surecinde-uzerlerine-duseni-yapiyorlar/4125421",
+   "zaman": "2026-11-14T23:28:20+03:00",
+   "kelimeler": [
+    "adli",
+    "cumhu",
+    "dusen",
+    "fon",
+    "kurum",
+    "sorus",
+    "surec",
+    "uzerl",
+    "yapiy",
+    "yardi",
+    "yargi",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "61c038a96e70"
+  },
+  "9050fca0f887": {
+   "id": "9050fca0f887",
+   "kaynak": "TRT Haber",
+   "baslik": "Şanlıurfa'da otomobil ile kepçe çarpıştı: 2 ölü, 2 yaralı",
+   "ozet": "Şanlıurfa'nın Birecik ilçesinde kepçe ile otomobilin çarpışması sonucu 2 kişi öldü, 2 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-otomobil-ile-kepce-carpisti-2-olu-2-yarali-963308.html",
+   "zaman": "2026-11-14T23:35:00+03:00",
+   "kelimeler": [
+    "carpi",
+    "kepce",
+    "olu",
+    "otomo",
+    "sanli",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "14.11 23:41:02  1 yeni haber",
   "14.11 23:33:26  1 yeni haber",
   "14.11 23:16:08  4 yeni haber",
   "14.11 23:01:47  1 yeni haber",
@@ -31401,8 +31439,7 @@
   "12.11 21:31:20  2 yeni haber",
   "12.11 21:16:18  6 yeni haber",
   "12.11 21:01:51  4 yeni haber",
-  "12.11 20:46:02  1 yeni haber",
-  "12.11 20:31:24  5 yeni haber"
+  "12.11 20:46:02  1 yeni haber"
  ],
  "otomatik": false
 }
