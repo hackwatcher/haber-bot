@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "33c7e29cc869": {
-   "id": "33c7e29cc869",
-   "kaynak": "TRT Haber",
-   "baslik": "Kış havası, yerini pastırma sıcaklarına bırakıyor",
-   "ozet": "Kasım ayının ilk günlerinde etkili olan ve yer yer kar yağışıyla birlikte dondurucu günlerin yaşanmasına yol açan soğuk hava dalgası yurdu terk ediyor.",
-   "link": "https://www.trthaber.com/haber/gundem/kis-havasi-yerini-pastirma-sicaklarina-birakiyor-962870.html",
-   "zaman": "2026-11-11T06:05:00+03:00",
-   "kelimeler": [
-    "birak",
-    "havas",
-    "kis",
-    "pasti",
-    "sicak",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1bbe0cfb9860": {
-   "id": "1bbe0cfb9860",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
-   "ozet": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi-962869.html",
-   "zaman": "2026-11-11T06:14:00+03:00",
-   "kelimeler": [
-    "abd",
-    "azil",
-    "bakan",
-    "engel",
-    "giris",
-    "hegse",
-    "mecli",
-    "savun",
-    "temsi",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "abf9c2f8dd52"
-  },
   "b172af091b60": {
    "id": "b172af091b60",
    "kaynak": "TRT Haber",
@@ -34200,7 +34159,10 @@
     "ulke"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "486e7d7aa43a": {
    "id": "486e7d7aa43a",
@@ -35095,6 +35057,26 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a6b85c145972"
+  },
+  "599fd4929db0": {
+   "id": "599fd4929db0",
+   "kaynak": "AA",
+   "baslik": "ABD'de ülke genelinde uçuşları durdurma kararı kaldırıldı",
+   "ozet": "ABD Ulaştırma Bakanı Sean Duffy, ülke genelinde uçuşları durdurma kararının Türkiye saatiyle 04.15 itibarıyla kaldırıldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ulke-genelinde-ucuslari-durdurma-karari-kaldirildi/4124785",
+   "zaman": "2026-11-14T00:39:40+03:00",
+   "kelimeler": [
+    "abd",
+    "durdu",
+    "genel",
+    "kaldi",
+    "karar",
+    "ucusl",
+    "ulke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "263b647a52df"
   }
  },
  "kayit": [
