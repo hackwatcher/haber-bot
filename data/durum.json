@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "68e53c56bd6f": {
-   "id": "68e53c56bd6f",
-   "kaynak": "NTV",
-   "baslik": "Ankara'da EGO otobüsü devrildi, şoför yaralandı",
-   "ozet": "Ankara'nın Gölbaşı ilçesinde EGO otobüsünün devrildiği kazada otobüs şoförü yaralandı.",
-   "link": "https://www.ntv.com.tr/turkiye/ankarada-ego-otobusu-devrildi-sofor-yaralandi-1750336",
-   "zaman": "2026-11-11T03:22:37+03:00",
-   "kelimeler": [
-    "ankar",
-    "devri",
-    "ego",
-    "otobu",
-    "sofor",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "4e152a3ad7ca"
-  },
-  "8a696955453c": {
-   "id": "8a696955453c",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Epstein mağduru: 'Hâlâ modellik ajansı yöneten arkadaşı beni tehlikenin içine attı'",
-   "ozet": "Jeffrey Epstein'in tecavüzüne uğrayan bir kadın, bağlı bulunduğu modellik ajansının sahibinin, Epstein'in Florida sahilindeki evinde yapılan iki fotoğraf çekimine göndererek kendisini tehlikeye attığını söylüyor.",
-   "link": "https://www.bbc.com/turkce/articles/cqn494rx2le4o",
-   "zaman": "2026-11-11T03:23:45+03:00",
-   "kelimeler": [
-    "ajans",
-    "arkad",
-    "atti",
-    "beni",
-    "epste",
-    "hala",
-    "icine",
-    "magdu",
-    "model",
-    "tehli",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ee49398f1864": {
    "id": "ee49398f1864",
    "kaynak": "BBC Türkçe",
@@ -34663,7 +34621,8 @@
    "durum": "hata",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ],
    "hata": "Instagram görseli işleyemedi (ERROR)"
   },
@@ -34825,9 +34784,78 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "53709a2c49ff"
+  },
+  "d6f753cb32a5": {
+   "id": "d6f753cb32a5",
+   "kaynak": "AA",
+   "baslik": "BM Güvenlik Konseyi'ndeki toplantıda ABD ile İran birbirini suçladı",
+   "ozet": "Orta Doğu'daki durumu ele almak için toplanan Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) ABD, İran'ı \"uluslararası deniz güvenliğini baltalamakla\" suçlarken İran da ABD'yi \"yasa dışı bir saldırganlık savaşı başlatmakla\" suçladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813",
+   "zaman": "2026-11-14T02:17:45+03:00",
+   "kelimeler": [
+    "abd",
+    "birbi",
+    "bm",
+    "guven",
+    "iran",
+    "konse",
+    "ndeki",
+    "sucla",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d2789da593d5": {
+   "id": "d2789da593d5",
+   "kaynak": "AA",
+   "baslik": "ABD'de Demokrat aday Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Boebert'i mağlup etti",
+   "ozet": "ABD ara seçimlerinde Colorado eyaletinin 4. Kongre Bölgesi’nde yarışan Demokrat aday Eileen Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Lauren Boebert'i mağlup ederek seçimi kazandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-boeberti-maglup-etti/4124815",
+   "zaman": "2026-11-14T02:18:11+03:00",
+   "kelimeler": [
+    "abd",
+    "aday",
+    "boebe",
+    "cumhu",
+    "demok",
+    "etti",
+    "lauba",
+    "maglu",
+    "mecli",
+    "temsi",
+    "uyesi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f0627ee38def": {
+   "id": "f0627ee38def",
+   "kaynak": "Hürriyet",
+   "baslik": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı'na ilişkin genelge Resmi Gazete'de",
+   "ozet": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın imzasıyla Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) hakkında genelge, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-planina-iliskin-genelge-resmi-gazetede-43377728",
+   "zaman": "2026-11-14T03:17:32+03:00",
+   "kelimeler": [
+    "adil",
+    "eylem",
+    "gazet",
+    "gecis",
+    "genel",
+    "ilisk",
+    "na",
+    "plani",
+    "resmi",
+    "strat",
+    "ulusa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5f5a3dbedcac"
   }
  },
  "kayit": [
+  "14.11 03:31:33  2 yeni haber",
   "14.11 01:34:10  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kız Kulesi önünde fotoğraf çektirmek isteyen 3 genç dalgaya kapıldı.",
   "14.11 01:03:48  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "14.11 01:01:57  1 yeni haber",
@@ -35026,8 +35054,7 @@
   "12.11 03:31:14  1 yeni haber",
   "12.11 03:16:48  1 yeni haber",
   "12.11 03:01:28  3 yeni haber",
-  "12.11 02:16:11  2 yeni haber",
-  "12.11 02:01:50  3 yeni haber"
+  "12.11 02:16:11  2 yeni haber"
  ],
  "otomatik": false
 }
