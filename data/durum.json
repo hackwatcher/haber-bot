@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "fddce4829411": {
-   "id": "fddce4829411",
-   "kaynak": "Hürriyet",
-   "baslik": "Kütahya'da sokak ortasında 15 yaşındaki çocuğa bıçaklı saldırı! 8 bıçak darbesiyle yaralandı",
-   "ozet": "Kütahya’da tartıştığı kişiler tarafından 8 bıçak darbesiyle yaralanan 15 yaşındaki A.A., hastanede tedaviye alındı. Polis, şüphelileri yakalamak için çalışma başlattı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kutahyada-sokak-ortasinda-15-yasindaki-cocuga-bicakli-saldiri-8-bicak-darbesiyle-yaralandi-43374346",
-   "zaman": "2026-11-11T15:05:14+03:00",
-   "kelimeler": [
-    "15",
-    "bicak",
-    "cocug",
-    "darbe",
-    "kutah",
-    "ortas",
-    "saldi",
-    "sokak",
-    "yaral",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ed6f1c36f7d5": {
-   "id": "ed6f1c36f7d5",
-   "kaynak": "TRT Haber",
-   "baslik": "İtalyada 300 okula yönelik bomba ihbarı",
-   "ozet": "İtalyada, ülke genelindeki 300 okul, eposta yoluyla gönderilen bomba ihbarlarının ardından güvenlik gerekçesiyle tahliye edildi.",
-   "link": "https://www.trthaber.com/haber/dunya/italyada-300-okula-yonelik-bomba-ihbari-962946.html",
-   "zaman": "2026-11-11T15:04:00+03:00",
-   "kelimeler": [
-    "300",
-    "bomba",
-    "ihbar",
-    "italy",
-    "okula",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f497f706db6b"
-  },
-  "b5e51bb08c28": {
-   "id": "b5e51bb08c28",
-   "kaynak": "TRT Haber",
-   "baslik": "EBRD'den Türkiye'nin yeşil dönüşümüne 14 milyar euroluk katkı",
-   "ozet": "Avrupa İmar ve Kalkınma Bankası EBRD Başkanı Odile RenaudBasso, Türkiye'ye yaptıkları yatırımların yarısından fazlasına karşılık gelen 14 milyar euroyu yeşil enerjiye ayırdıklarını belirterek, Türkiye'nin yenilenebilir enerji potansiyelinin yüksek olduğunu aktardı.",
-   "link": "https://www.trthaber.com/haber/gundem/ebrdden-turkiyenin-yesil-donusumune-14-milyar-euroluk-katki-962945.html",
-   "zaman": "2026-11-11T15:06:00+03:00",
-   "kelimeler": [
-    "14",
-    "den",
-    "donus",
-    "ebrd",
-    "eurol",
-    "katki",
-    "milya",
-    "nin",
-    "turki",
-    "yesil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f33ed94a3c5e"
-  },
-  "cdc148c7e1dc": {
-   "id": "cdc148c7e1dc",
-   "kaynak": "TRT Haber",
-   "baslik": "Kuş gribi nedeniyle bir türün nesli tükenebilir",
-   "ozet": "Bilim insanları, en az 40 kuş türünün virüs nedeniyle tehdit altında olduğunu belirterek salgının bazı türleri yok olmanın eşiğine getirebileceği uyarısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/kus-gribi-nedeniyle-bir-turun-nesli-tukenebilir-962947.html",
-   "zaman": "2026-11-11T15:14:00+03:00",
-   "kelimeler": [
-    "gribi",
-    "kus",
-    "neden",
-    "nesli",
-    "tuken",
-    "turun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1cb43b198df4": {
    "id": "1cb43b198df4",
    "kaynak": "Hürriyet",
@@ -817,25 +735,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "27f41c6aa5d0": {
-   "id": "27f41c6aa5d0",
-   "kaynak": "TRT Haber",
-   "baslik": "İtalya'da binlerce okulda bomba alarmı verildi",
-   "ozet": "İtalya'da yaklaşık 6 bin okula gönderilen bomba tehdidi içeren anonim bir epostanın, endişeye ve okulların tahliye edilmesine neden olduğu bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/italyada-binlerce-okulda-bomba-alarmi-verildi-962946.html",
-   "zaman": "2026-11-11T15:04:00+03:00",
-   "kelimeler": [
-    "alarm",
-    "binle",
-    "bomba",
-    "italy",
-    "okuld",
-    "veril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b6a8384e3bed"
   },
   "2747a147761e": {
    "id": "2747a147761e",
@@ -19056,7 +18955,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f6f237069dc8": {
    "id": "f6f237069dc8",
@@ -31812,7 +31714,10 @@
     "perei"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d6a917a31da9": {
    "id": "d6a917a31da9",
@@ -31998,9 +31903,188 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d2b5c6522071": {
+   "id": "d2b5c6522071",
+   "kaynak": "AA",
+   "baslik": "Meteorolojiden Doğu Karadeniz ve Kuzey Ege için sağanak uyarısı",
+   "ozet": "Doğu Karadeniz ve Kuzey Ege'nin kuzeyinde denizlerde gök gürültülü sağanak ve fırtına bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-dogu-karadeniz-ve-kuzey-ege-icin-saganak-uyarisi/4124972",
+   "zaman": "2026-11-14T11:42:02+03:00",
+   "kelimeler": [
+    "dogu",
+    "ege",
+    "karad",
+    "kuzey",
+    "meteo",
+    "sagan",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "02841da7df5e"
+  },
+  "414614ab7620": {
+   "id": "414614ab7620",
+   "kaynak": "AA",
+   "baslik": "Genç mühendis adayları COP31'de nükleer enerjinin denizcilikteki potansiyelini tanıtıyor",
+   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) genç mühendis adayları, denizcilik sektörüne yönelik nükleer enerji çözümlerini uluslararası katılımcılara tanıtıyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/genc-muhendis-adaylari-cop31de-nukleer-enerjinin-denizcilikteki-potansiyelini-tanitiyor/4125015",
+   "zaman": "2026-11-14T12:54:40+03:00",
+   "kelimeler": [
+    "adayl",
+    "cop31",
+    "deniz",
+    "enerj",
+    "genc",
+    "muhen",
+    "nukle",
+    "potan",
+    "tanit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "97cfc227cb00": {
+   "id": "97cfc227cb00",
+   "kaynak": "AA",
+   "baslik": "Türkiye Sigorta Birliği, UNEP'in iki sürdürülebilir sigortacılık girişiminin destekçisi oldu",
+   "ozet": "Türkiye Sigorta Birliği (TSB), Birleşmiş Milletler Çevre Programı (UNEP) Sürdürülebilir Sigortacılık İlkeleri (PSI) ile Sigorta Dönüşüm Forumu'nun (FIT) destekçisi oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-birligi-unepin-iki-surdurulebilir-sigortacilik-girisiminin-destekcisi-oldu/4125056",
+   "zaman": "2026-11-14T13:50:34+03:00",
+   "kelimeler": [
+    "birli",
+    "deste",
+    "giris",
+    "iki",
+    "in",
+    "sigor",
+    "surdu",
+    "turki",
+    "unep"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eea9e14f1938": {
+   "id": "eea9e14f1938",
+   "kaynak": "Hürriyet",
+   "baslik": "Çankırı'da feci kaza! Hafif ticari araç bariyere çarptı: 2 ölü, 1 yaralı",
+   "ozet": "Çankırı'nın Kurşunlu ilçesinde hafif ticari araçların bariyerlere çarpması neticesinde meydana gelen kazada sürücü ve kızı ölürken, eşi ise yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cankirida-feci-kaza-hafif-ticari-arac-bariyere-carpti-2-olu-1-yarali-43378243",
+   "zaman": "2026-11-14T14:55:19+03:00",
+   "kelimeler": [
+    "arac",
+    "bariy",
+    "canki",
+    "carpt",
+    "feci",
+    "hafif",
+    "kaza",
+    "olu",
+    "ticar",
+    "yaral"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-14T15:18:15.360082+03:00",
+   "ig_id": "18026511179939190",
+   "reels_id": "18012409919778974",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2994402620904393",
+   "slayt": 5,
+   "kanca": "BARİYERE ÇARPAN ARAÇ"
+  },
+  "cfa2d03bc6da": {
+   "id": "cfa2d03bc6da",
+   "kaynak": "NTV",
+   "baslik": "Bakan Tekin'den COP31'de çağrı. \"Okullar savaşın hedefi olmaktan korunmalı\"",
+   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, COP31'de yaptığı konuşmada savaş nedeniyle eğitimden uzak kalan milyonlarca çocuğa dikkat çekerek okulların ve öğretmenlerin korunması çağrısında bulundu.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-tekinden-cop31de-cagri-okullar-savasin-hedefi-olmaktan-korunmali-1750862",
+   "zaman": "2026-11-14T15:04:16+03:00",
+   "kelimeler": [
+    "bakan",
+    "cagri",
+    "cop31",
+    "den",
+    "hedef",
+    "korun",
+    "okull",
+    "olmak",
+    "savas",
+    "tekin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "55aa3ee6c195": {
+   "id": "55aa3ee6c195",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bolivya-cumhurbaskani-rodrigo-paz-pereira-ile-gorustu/4125107",
+   "zaman": "2026-11-14T15:05:01+03:00",
+   "kelimeler": [
+    "boliv",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "paz",
+    "perei",
+    "rodri"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5d48ca4fd6b7"
+  },
+  "703e40ce83e0": {
+   "id": "703e40ce83e0",
+   "kaynak": "AA",
+   "baslik": "Erdemir'den çelik sektöründe yeşil dönüşüm için \"ekosistem\" vurgusu",
+   "ozet": "Erdemir Yönetim Kurulu Üyesi ve Murahhas Azası İsmail Doğan, demir çelik sektöründe yeşil dönüşümün tek bir başlık altında ve tek bir paydaşla gerçekleştirilemeyeceğini, sürecin farklı boyutlarıyla ekosistem olarak ele alınması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/erdemirden-celik-sektorunde-yesil-donusum-icin-ekosistem-vurgusu/4125108",
+   "zaman": "2026-11-14T15:05:05+03:00",
+   "kelimeler": [
+    "celik",
+    "den",
+    "donus",
+    "ekosi",
+    "erdem",
+    "sekto",
+    "vurgu",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bb034106105b": {
+   "id": "bb034106105b",
+   "kaynak": "AA",
+   "baslik": "Antalya'da düzenlenen Uluslararası Enerji Ekonomisi Birliği COP2026 Sempozyumu sona erdi",
+   "ozet": "Uluslararası Enerji Ekonomisi Birliğince (IAEE) Antalya'da düzenlenen IAEE COP 2026 Sempozyumu'nda enerji ekonomisi, karbon piyasaları ve iklim değişikliğiyle mücadelede finansman konuları ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/antalyada-duzenlenen-uluslararasi-enerji-ekonomisi-birligi-cop2026-sempozyumu-sona-erdi/4125112",
+   "zaman": "2026-11-14T15:11:26+03:00",
+   "kelimeler": [
+    "antal",
+    "birli",
+    "cop20",
+    "duzen",
+    "ekono",
+    "enerj",
+    "erdi",
+    "sempo",
+    "sona",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "14.11 15:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Çankırı'da feci kaza! Hafif ticari araç bariyere çarptı: 2 ölü, 1 yara",
+  "14.11 15:16:04  6 yeni haber",
   "14.11 15:01:29  7 yeni haber",
   "14.11 14:46:12  4 yeni haber",
   "14.11 14:31:14  4 yeni haber",
@@ -32198,9 +32282,7 @@
   "12.11 13:01:33  6 yeni haber",
   "12.11 12:46:12  7 yeni haber",
   "12.11 12:31:13  6 yeni haber",
-  "12.11 12:16:17  8 yeni haber",
-  "12.11 12:03:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · 11 kişi can vermişti. Kuzey Marmara Otoyolu'ndaki katliam gibi kazada ",
-  "12.11 12:01:24  11 yeni haber"
+  "12.11 12:16:17  8 yeni haber"
  ],
  "otomatik": false
 }
