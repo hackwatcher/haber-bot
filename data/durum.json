@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "330802feac07": {
-   "id": "330802feac07",
-   "kaynak": "TRT Haber",
-   "baslik": "Kennedy ailesinden Trump'ın zafer takı projesine dava",
-   "ozet": "ABD'nin en köklü siyasi ailelerinden Kennedy ailesi, Başkan Donald Trump'ın Arlington Ulusal Mezarlığı yakınında inşa ettirmek istediği yaklaşık 76 metre yüksekliğindeki zafer takı projesini engellemek amacıyla federal mahkemede dava açtı.",
-   "link": "https://www.trthaber.com/haber/dunya/kennedy-ailesinden-trumpin-zafer-taki-projesine-dava-962874.html",
-   "zaman": "2026-11-11T06:40:00+03:00",
-   "kelimeler": [
-    "ailes",
-    "dava",
-    "in",
-    "kenne",
-    "proje",
-    "taki",
-    "trump",
-    "zafer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "bf0bcb48ec54": {
-   "id": "bf0bcb48ec54",
-   "kaynak": "TRT Haber",
-   "baslik": "Anthropic dev halka arzda 1,4 trilyon dolar değerleme hedefliyor",
-   "ozet": "Yapay zeka asistanı Claude'un geliştiricisi Anthropic, ilk halka arzı için hisse başına fiyat aralığını 70 ila 78 dolar olarak belirledi.",
-   "link": "https://www.trthaber.com/haber/dunya/anthropic-dev-halka-arzda-14-trilyon-dolar-degerleme-hedefliyor-962875.html",
-   "zaman": "2026-11-11T06:42:00+03:00",
-   "kelimeler": [
-    "anthr",
-    "arzda",
-    "deger",
-    "dev",
-    "dolar",
-    "halka",
-    "hedef",
-    "trily"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c773be79e4df": {
-   "id": "c773be79e4df",
-   "kaynak": "TRT Haber",
-   "baslik": "İsrail'de yeni Meclis yemin etti: Eisenkot, Netanyahu'nun politikalarını geri çevirme sözü verdi",
-   "ozet": "Hükümeti kurmakla görevlendirilen eski Genelkurmay Başkanı ve Yashar Partisi Lideri Gadi Eisenkot, yeni Meclis'in Knesset yemin töreninde Başbakan Binyamin Netanyahu'nun politikalarını geri çevirme sözü verdi.",
-   "link": "https://www.trthaber.com/haber/dunya/israilde-yeni-meclis-yemin-etti-eisenkot-netanyahunun-politikalarini-geri-cevirme-sozu-verdi-962876.html",
-   "zaman": "2026-11-11T06:46:00+03:00",
-   "kelimeler": [
-    "cevir",
-    "eisen",
-    "etti",
-    "geri",
-    "israi",
-    "mecli",
-    "netan",
-    "nun",
-    "polit",
-    "sozu",
-    "verdi",
-    "yemin",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2149380d2e40": {
    "id": "2149380d2e40",
    "kaynak": "TRT Haber",
@@ -31718,7 +31650,10 @@
     "verdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "dbd1c3bb2926": {
    "id": "dbd1c3bb2926",
@@ -35010,6 +34945,23 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "263b647a52df"
+  },
+  "a11279b8b7df": {
+   "id": "a11279b8b7df",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31’de sanatla iklim mesajı",
+   "ozet": "RS Sanat Alanı, Birleşmiş Milletler İklim Değişikliği 31. Taraflar Konferansı (COP31) kapsamında Antalya’da düzenlenen COPArt’ta altı sanatçının eserlerini sanatseverlerle buluşturuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31de-sanatla-iklim-mesaji-43377740",
+   "zaman": "2026-11-14T06:40:27+03:00",
+   "kelimeler": [
+    "cop31",
+    "iklim",
+    "mesaj",
+    "sanat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "82917ed22dd5"
   }
  },
  "kayit": [
