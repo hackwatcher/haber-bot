@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "d0e338831856": {
-   "id": "d0e338831856",
-   "kaynak": "AA",
-   "baslik": "\"Elisa\" filmi, 14. Boğaziçi Film Festivali'nde sinemaseverlerle buluştu",
-   "ozet": "Boğaziçi Kültür Sanat Vakfı tarafından Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle düzenlenen ve Anadolu Ajansının (AA) Global İletişim Ortağı olduğu 14. Boğaziçi Film Festivali'nde \"Elisa\" filmi, izleyiciyle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/elisa-filmi-14-bogazici-film-festivalinde-sinemaseverlerle-bulustu/4119607",
-   "zaman": "2026-11-11T04:19:04+03:00",
-   "kelimeler": [
-    "14",
-    "bogaz",
-    "bulus",
-    "elisa",
-    "festi",
-    "film",
-    "filmi",
-    "nde",
-    "sinem"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "cb61a10b1278"
-  },
   "24dd68760610": {
    "id": "24dd68760610",
    "kaynak": "NTV",
@@ -35085,7 +35063,10 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b9c3ce451f45": {
    "id": "b9c3ce451f45",
@@ -35109,9 +35090,134 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "3ea0c9927475"
+  },
+  "a7a3a7d2248e": {
+   "id": "a7a3a7d2248e",
+   "kaynak": "AA",
+   "baslik": "COP31'de enerji dönüşümü gündemi Türkiye-Almanya işbirliğine yeni fırsatlar sunuyor",
+   "ozet": "Almanya Enerji Ajansı (dena) Genel Müdürü Kristina Haverkamp, Türkiye ile Almanya arasında batarya depolama, kritik ham maddeler ve yeşil hidrojen alanlarında geliştirilebilecek işbirliklerinin önemli fırsatlar sunduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-enerji-donusumu-gundemi-turkiye-almanya-isbirligine-yeni-firsatlar-sunuyor/4123723",
+   "zaman": "2026-11-13T11:02:13+03:00",
+   "kelimeler": [
+    "alman",
+    "cop31",
+    "donus",
+    "enerj",
+    "firsa",
+    "gunde",
+    "isbir",
+    "sunuy",
+    "turki",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17dc9e51bf5b": {
+   "id": "17dc9e51bf5b",
+   "kaynak": "AA",
+   "baslik": "Güneş enerjisiyle deniz suyundan tatlı su ve hidrojen üretimi projesi COP31'de tanıtılacak",
+   "ozet": "Van Yüzüncü Yıl Üniversitesi (YYÜ) öncülüğünde, Türkiye ve Libya'daki üniversitelerin işbirliğiyle hazırlanan projeyle güneş enerjisinden yararlanılarak deniz suyundan tatlı su elde edilmesi ve hidrojen üretilmesi hedefleniyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gunes-enerjisiyle-deniz-suyundan-tatli-su-ve-hidrojen-uretimi-projesi-cop31de-tanitilacak/4123760",
+   "zaman": "2026-11-13T11:17:22+03:00",
+   "kelimeler": [
+    "cop31",
+    "deniz",
+    "enerj",
+    "gunes",
+    "hidro",
+    "proje",
+    "su",
+    "suyun",
+    "tanit",
+    "tatli",
+    "ureti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22c0358c1f0e": {
+   "id": "22c0358c1f0e",
+   "kaynak": "AA",
+   "baslik": "Sigorta Evi kapsamında \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\" başladı",
+   "ozet": "Türkiye Sigorta Birliğinin Birleşmiş Milletler (BM) COP31 kapsamındaki Sigorta Evi etkinliğinde BM Çevre Programı Finans Girişimi (UNEP FI) işbirliğinde düzenlenen \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\" başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-evi-kapsaminda-cop31-kuresel-surdurulebilir-sigortacilik-zirvesi-basladi/4123922",
+   "zaman": "2026-11-13T13:21:25+03:00",
+   "kelimeler": [
+    "basla",
+    "cop31",
+    "evi",
+    "kapsa",
+    "kures",
+    "sigor",
+    "surdu",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca74b1b90f28": {
+   "id": "ca74b1b90f28",
+   "kaynak": "AA",
+   "baslik": "Elektrifikasyonun verimlilik kazanımlarının davranışsal dönüşümle desteklenmesi gerekiyor",
+   "ozet": "Enerji Verimliliği Derneği Başkanı Ahmet Erdem, enerji tasarrufunun kalıcı hale gelmesi için davranışsal düzeyde de verimliliğin önceliklendirilmesi gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/elektrifikasyonun-verimlilik-kazanimlarinin-davranissal-donusumle-desteklenmesi-gerekiyor/4124075",
+   "zaman": "2026-11-13T15:14:38+03:00",
+   "kelimeler": [
+    "davra",
+    "deste",
+    "donus",
+    "elekt",
+    "gerek",
+    "kazan",
+    "verim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "c9132e81cb2e": {
+   "id": "c9132e81cb2e",
+   "kaynak": "AA",
+   "baslik": "UNESCO Yeşil Eğitim Ortaklığı Çalışma Grubu Toplantısı yapıldı",
+   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, UNESCO Yeşil Eğitim Ortaklığının (GEP) 4. Dönem Çalışma Grubu Toplantısı gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/unesco-yesil-egitim-ortakligi-calisma-grubu-toplantisi-yapildi/4124577",
+   "zaman": "2026-11-13T18:57:57+03:00",
+   "kelimeler": [
+    "calis",
+    "egiti",
+    "grubu",
+    "ortak",
+    "topla",
+    "unesc",
+    "yapil",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "088c7e1d71d2": {
+   "id": "088c7e1d71d2",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, Şi ve Putin'le üçlü görüşme gerçekleştirecek",
+   "ozet": "ABD Başkanı Donald Trump'ın gelecek hafta Filipinler ve Çin'e bir gezi düzenleyeceği, ziyaretin ikinci ayağında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile üçlü bir görüşme gerçekleştireceği açıklandı.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-963234.html",
+   "zaman": "2026-11-14T04:03:00+03:00",
+   "kelimeler": [
+    "gerce",
+    "gorus",
+    "le",
+    "putin",
+    "si",
+    "trump",
+    "uclu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a6b85c145972"
   }
  },
  "kayit": [
+  "14.11 04:31:30  5 yeni haber",
   "14.11 04:16:24  3 yeni haber",
   "14.11 04:01:46  2 yeni haber",
   "14.11 03:46:09  7 yeni haber",
@@ -35310,8 +35416,7 @@
   "12.11 05:01:32  2 yeni haber",
   "12.11 04:31:29  1 yeni haber",
   "12.11 03:46:53  2 yeni haber",
-  "12.11 03:46:53  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "12.11 03:31:14  1 yeni haber"
+  "12.11 03:46:53  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
