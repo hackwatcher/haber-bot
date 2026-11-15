@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "28fd1cb01bd6": {
-   "id": "28fd1cb01bd6",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31 kapsamında AntalyaSerik istikametindeki trafik uygulaması sona erdi",
-   "ozet": "Antalya Valiliği, COP31 kapsamında D400 kara yolunun AntalyaSerik istikametinde dubalama sistemiyle gidişgeliş şeklinde sürdürülen trafik uygulamasının, 13 Kasım saat 00.00 itibarıyla sona erdirildiğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/turkiye/cop31-kapsaminda-antalya-serik-istikametindeki-trafik-uygulamasi-sona-erdi-963118.html",
-   "zaman": "2026-11-13T01:07:00+03:00",
-   "kelimeler": [
-    "antal",
-    "cop31",
-    "erdi",
-    "istik",
-    "kapsa",
-    "sona",
-    "trafi",
-    "uygul"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "e7a2fbb93bd5": {
    "id": "e7a2fbb93bd5",
    "kaynak": "AA",
@@ -126,32 +103,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "6487c21657a6": {
-   "id": "6487c21657a6",
-   "kaynak": "AA",
-   "baslik": "COP31 kapsamında Antalya-Serik istikametinde gidiş-geliş şeklinde sürdürülen trafik uygulaması sona erdi",
-   "ozet": "Antalya Valiliği, COP31 Zirvesi kapsamında D-400 kara yolunun Antalya-Serik istikametinde dubalama sistemiyle gidiş-geliş şeklinde sürdürülen trafik uygulamasının, 13 Kasım saat 00.00 itibarıyla sona erdirildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalya-serik-istikametinde-gidis-gelis-seklinde-surdurulen-trafik-uygulamasi-sona-erdi/4123530",
-   "zaman": "2026-11-13T01:11:24+03:00",
-   "kelimeler": [
-    "antal",
-    "cop31",
-    "erdi",
-    "gelis",
-    "gidis",
-    "istik",
-    "kapsa",
-    "sekli",
-    "serik",
-    "sona",
-    "surdu",
-    "trafi",
-    "uygul"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "28fd1cb01bd6"
   },
   "f8dada625063": {
    "id": "f8dada625063",
@@ -25542,9 +25493,52 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d2a4412b340f"
+  },
+  "c9e358ea73d2": {
+   "id": "c9e358ea73d2",
+   "kaynak": "AA",
+   "baslik": "Türkiye, UEFA Uluslar Ligi'ni puansız tamamladı",
+   "ozet": "UEFA Uluslar A Ligi 1. Grup altıncı ve son maçında Fransa'ya 2-1 mağlup olan A Milli Futbol Takımı, grubu puansız son sırada bitirdi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-ligini-puansiz-tamamladi/4126057",
+   "zaman": "2026-11-16T00:39:22+03:00",
+   "kelimeler": [
+    "ligi",
+    "ni",
+    "puans",
+    "tamam",
+    "turki",
+    "uefa",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "6ca4fdda8757": {
+   "id": "6ca4fdda8757",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye UEFA Uluslar A Ligi'ni puansız tamamladı",
+   "ozet": "UEFA Uluslar A Ligi 1. Grup 6. maçında Fransa'ya 21 mağlup olan A Milli Futbol Takımımız, grup aşamasını puansız tamamladı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-uefa-uluslar-a-ligini-puansiz-tamamladi-963366.html",
+   "zaman": "2026-11-16T00:40:00+03:00",
+   "kelimeler": [
+    "ligi",
+    "ni",
+    "puans",
+    "tamam",
+    "turki",
+    "uefa",
+    "ulusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c9e358ea73d2"
   }
  },
  "kayit": [
+  "16.11 01:16:08  1 yeni haber",
   "16.11 01:03:16  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · GOOOOLLL | 🇫🇷 Fransa 1-1 Türkiye 🇹🇷",
   "16.11 00:04:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Eskişehir'de izinsiz kazı yapan 6 şüpheli tutuklandı",
   "16.11 00:01:32  1 yeni haber",
@@ -25743,8 +25737,7 @@
   "13.11 20:16:57  5 yeni haber",
   "13.11 20:01:29  1 yeni haber",
   "13.11 19:48:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Altın, dolar, borsa… İşte haftanın en çok kazandıran yatırım aracı",
-  "13.11 19:46:04  1 yeni haber",
-  "13.11 19:31:28  4 yeni haber"
+  "13.11 19:46:04  1 yeni haber"
  ],
  "otomatik": false
 }
