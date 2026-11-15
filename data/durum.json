@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "528a0209263b": {
-   "id": "528a0209263b",
-   "kaynak": "TRT Haber",
-   "baslik": "Okullarda birinci ara tatil yarın başlıyor",
-   "ozet": "Milyonlarca öğrenci için birinci dönem birinci ara tatil yarın başlıyor. Öğrenciler hafta sonlarıyla birlikte derslere 9 günlük mola verecek. Uzmanlar, tatil süresince öğrencilerin dinlenirken konu tekrarlarını aksatmaması gerektiğini söylüyor.",
-   "link": "https://www.trthaber.com/haber/gundem/okullarda-birinci-ara-tatil-yarin-basliyor-963000.html",
-   "zaman": "2026-11-12T08:02:00+03:00",
-   "kelimeler": [
-    "ara",
-    "basli",
-    "birin",
-    "okull",
-    "tatil",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "206586aa19ff": {
-   "id": "206586aa19ff",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul dahil 11 ile sarı kodlu alarm! Fırtınanın ardından sağanak geliyor: Kuvvetli esecek | Hafta sonu plan yapanlar dikkat",
-   "ozet": "Meteoroloji Genel Müdürlüğü ve İstanbul Valiliği'nden peş peşe kritik uyarılar geldi. İç ve batı kesimlerde sıcaklıkların 3 ila 5 derece artması beklenirken; İstanbul dahil 11 il için sarı kodlu yağış uyarısı yapıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbul-dahil-11-ile-sari-kodlu-alarm-firtinanin-ardindan-saganak-geliyor-kuvvetli-esecek-hafta-sonu-plan-yapanlar-dikkat-43375042",
-   "zaman": "2026-11-12T08:03:48+03:00",
-   "kelimeler": [
-    "11",
-    "alarm",
-    "ardin",
-    "dahil",
-    "dikka",
-    "esece",
-    "firti",
-    "geliy",
-    "hafta",
-    "istan",
-    "kodlu",
-    "kuvve",
-    "plan",
-    "sagan",
-    "sari",
-    "sonu",
-    "yapan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9ed2167710ca": {
    "id": "9ed2167710ca",
    "kaynak": "NTV",
@@ -30101,8 +30053,17 @@
     "senli",
     "unesc"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-15T08:18:42.102002+03:00",
+   "ig_id": "18156762568546167",
+   "reels_id": "18136813333676422",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1431612311972676",
+   "slayt": 6,
+   "kanca": "UNESCO ÖDÜLÜ ÖRAV'IN"
   },
   "6b39dbac909a": {
    "id": "6b39dbac909a",
@@ -30146,9 +30107,31 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a543352dd4e9": {
+   "id": "a543352dd4e9",
+   "kaynak": "Hürriyet",
+   "baslik": "5 kente sarı kodlu sağanak alarmı: İstanbul için de gün verildi",
+   "ozet": "Hava tahmin raporunu yayımlayan Meteoroloji, Doğu Karadeniz kıyısındaki 5 il için yerel kuvvetli yağış uyarısında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/5-kente-sari-kodlu-saganak-alarmi-istanbul-icin-de-gun-verildi-43378755",
+   "zaman": "2026-11-15T08:12:12+03:00",
+   "kelimeler": [
+    "alarm",
+    "gun",
+    "istan",
+    "kente",
+    "kodlu",
+    "sagan",
+    "sari",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "15.11 08:18:42  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · ‘Eğitim şenliği’ne UNESCO ödülü",
+  "15.11 08:15:59  1 yeni haber",
   "15.11 08:01:52  1 yeni haber",
   "15.11 07:16:29  10 yeni haber",
   "15.11 07:03:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza mahalline dalan otomobil 1'i polisi 5 kişiyi yaraladı",
@@ -30346,9 +30329,7 @@
   "13.11 02:31:56  1 yeni haber",
   "13.11 02:16:08  4 yeni haber",
   "13.11 02:01:48  2 yeni haber",
-  "13.11 01:46:22  1 yeni haber",
-  "13.11 01:32:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Diyaliz Merkezleri Hakkında Yönetmelik Resmî Gazete’de yayımlandı",
-  "13.11 01:29:36  3 yeni haber"
+  "13.11 01:46:22  1 yeni haber"
  ],
  "otomatik": false
 }
