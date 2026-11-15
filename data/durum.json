@@ -1,34 +1,5 @@
 {
  "haberler": {
-  "6676934fcdaf": {
-   "id": "6676934fcdaf",
-   "kaynak": "AA",
-   "baslik": "AK Parti Genel Başkanvekili Ala'dan Cumhurbaşkanı Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşım",
-   "ozet": "AK Parti Genel Başkanvekili Efkan Ala, Cumhurbaşkanı Recep Tayyip Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşımda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cumhurbaskani-erdoganin-cop31-liderler-zirvesindeki-gorusmelerine-iliskin-paylasim/4123462",
-   "zaman": "2026-11-12T23:30:26+03:00",
-   "kelimeler": [
-    "ak",
-    "ala",
-    "baska",
-    "cop31",
-    "cumhu",
-    "dan",
-    "erdog",
-    "genel",
-    "gorus",
-    "ilisk",
-    "in",
-    "lider",
-    "ndeki",
-    "parti",
-    "payla",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fd202b4242cf"
-  },
   "8d121504b271": {
    "id": "8d121504b271",
    "kaynak": "AA",
@@ -24084,7 +24055,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6a2c7e8dfed4": {
    "id": "6a2c7e8dfed4",
@@ -25672,7 +25646,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "99186a2d36f7": {
@@ -25938,9 +25913,72 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "872861c97574": {
+   "id": "872861c97574",
+   "kaynak": "TRT Haber",
+   "baslik": "Demir atlarımızı Gazze'ye sürüyoruz sloganıyla İstanbul'da dayanışma sürüşü",
+   "ozet": "İstanbul'da \"Demir atlarımızı Gazze'ye sürüyoruz\" sloganıyla düzenlenen dayanışma etkinliğine katılan çok sayıda motosikletli Beylikdüzü'nden Pendik'e uzanan güzergahta kortej halinde sürüş gerçekleştirirken, içlerinden 5'i İstanbul'dan Gazze'ye gitmek üzere yola çıkacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/demir-atlarimizi-gazzeye-suruyoruz-sloganiyla-istanbulda-dayanisma-surusu-963361.html",
+   "zaman": "2026-11-15T23:07:00+03:00",
+   "kelimeler": [
+    "atlar",
+    "dayan",
+    "demir",
+    "gazze",
+    "istan",
+    "sloga",
+    "surus",
+    "suruy",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b0119147e823"
+  },
+  "fad69ca2e07b": {
+   "id": "fad69ca2e07b",
+   "kaynak": "TRT Haber",
+   "baslik": "Galata Kulesine KKTC bayrağı yansıtıldı",
+   "ozet": "Kuzey Kıbrıs Türk Cumhuriyetinin 43üncü kuruluş yıl dönümü nedeniyle Galata Kulesine KKTC bayrağı yansıtıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/galata-kulesine-kktc-bayragi-yansitildi-963362.html",
+   "zaman": "2026-11-15T23:13:00+03:00",
+   "kelimeler": [
+    "bayra",
+    "galat",
+    "kktc",
+    "kules",
+    "yansi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "558971c76247": {
+   "id": "558971c76247",
+   "kaynak": "TRT Haber",
+   "baslik": "Bursa'nın İnegöl ilçesinde 3 ev yandı: 10 kişi dumandan etkilendi",
+   "ozet": "Bursa'nın İnegöl ilçesinde kırsal mahallede çıkan yangında kullanılamaz hale gelen 4 ev, güvenlik gerekçesiyle belediye ekiplerince yıkıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bursanin-inegol-ilcesinde-3-ev-yandi-10-kisi-dumandan-etkilendi-963363.html",
+   "zaman": "2026-11-15T23:15:00+03:00",
+   "kelimeler": [
+    "10",
+    "bursa",
+    "duman",
+    "etkil",
+    "ev",
+    "ilces",
+    "inego",
+    "kisi",
+    "nin",
+    "yandi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e3c27826ffed"
   }
  },
  "kayit": [
+  "15.11 23:31:44  1 yeni haber",
   "15.11 23:16:13  2 yeni haber",
   "15.11 23:01:34  1 yeni haber",
   "15.11 22:52:44  1 yeni haber",
@@ -26139,8 +26177,7 @@
   "13.11 19:16:12  3 yeni haber",
   "13.11 19:01:35  7 yeni haber",
   "13.11 18:46:12  3 yeni haber",
-  "13.11 18:31:48  2 yeni haber",
-  "13.11 18:16:11  3 yeni haber"
+  "13.11 18:31:48  2 yeni haber"
  ],
  "otomatik": false
 }
