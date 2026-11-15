@@ -30229,7 +30229,8 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e7cbb919aba4": {
    "id": "e7cbb919aba4",
@@ -30787,6 +30788,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2f6181f74745": {
+   "id": "2f6181f74745",
+   "kaynak": "TRT Haber",
+   "baslik": "Muğlada otomobil elektrik direğine çarpıp alev aldı: Ölü ve yaralılar var",
+   "ozet": "Muğla'nın Fethiye ilçesinde elektrik direğine çarpan ve alev alan otomobildeki 2 kişi hayatını kaybetti, 5 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/muglada-otomobil-elektrik-diregine-carpip-alev-aldi-olu-ve-yaralilar-var-963313.html",
+   "zaman": "2026-11-15T03:25:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "carpi",
+    "direg",
+    "elekt",
+    "mugla",
+    "olu",
+    "otomo",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9050fca0f887"
   }
  },
  "kayit": [
