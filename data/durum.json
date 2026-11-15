@@ -25077,7 +25077,9 @@
    ],
    "durum": "paylasildi",
    "oncelikli": false,
-   "diger_kaynaklar": [],
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ],
    "paylasildi": "2026-11-16T01:03:16.045661+03:00",
    "ig_id": "18144833272716336",
    "reels_id": null,
@@ -25452,9 +25454,53 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e93044054621"
+  },
+  "b868a880c113": {
+   "id": "b868a880c113",
+   "kaynak": "AA",
+   "baslik": "Husiler, Yemen'in Aden kentindeki askeri kampı balistik füzelerle hedef aldı",
+   "ozet": "Yemen'de İran destekli Husilerin, geçici başkent Aden'deki El-Kava Askeri Kampı'na balistik füzelerle saldırı düzenlediği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/husiler-yemenin-aden-kentindeki-askeri-kampi-balistik-fuzelerle-hedef-aldi/4126069",
+   "zaman": "2026-11-16T01:37:43+03:00",
+   "kelimeler": [
+    "aden",
+    "aldi",
+    "asker",
+    "balis",
+    "fuzel",
+    "hedef",
+    "husil",
+    "in",
+    "kampi",
+    "kenti",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4270e584479d": {
+   "id": "4270e584479d",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Türkiye, Uluslar Ligi'nde Fransa’ya 2-1 yenildi",
+   "ozet": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'taki altıncı maçından da puansız ayrıldı. Deplasmanda Fransa’ya 2-1 yenildi.",
+   "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo",
+   "zaman": "2026-11-16T02:13:45+03:00",
+   "kelimeler": [
+    "frans",
+    "ligi",
+    "nde",
+    "turki",
+    "ulusl",
+    "ya",
+    "yenil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eaaed00a6f97"
   }
  },
  "kayit": [
+  "16.11 02:31:21  1 yeni haber",
   "16.11 02:16:18  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "16.11 02:01:45  3 yeni haber",
   "16.11 01:46:08  1 yeni haber",
@@ -25653,8 +25699,7 @@
   "13.11 21:31:18  1 yeni haber",
   "13.11 21:16:11  3 yeni haber",
   "13.11 21:01:41  1 yeni haber",
-  "13.11 20:44:37  1 yeni haber",
-  "13.11 20:31:44  3 yeni haber"
+  "13.11 20:44:37  1 yeni haber"
  ],
  "otomatik": false
 }
