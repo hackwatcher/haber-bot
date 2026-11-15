@@ -1,84 +1,5 @@
 {
  "haberler": {
-  "08ea715abeed": {
-   "id": "08ea715abeed",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan konuşuyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 İş Forumu'na katılıyor.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-963099.html",
-   "zaman": "2026-11-12T19:02:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "konus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "60262f2a66fb"
-  },
-  "fd202b4242cf": {
-   "id": "fd202b4242cf",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
-   "ozet": "Son dakika haberi... Cumhurbaşkanı Erdoğan, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Regnum Carya Belek'te düzenlenen COP31 İş Forumu'nda açıklamalarda bulunuyor...",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-43376160",
-   "zaman": "2026-11-12T19:02:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "cumhu",
-    "dan",
-    "erdog",
-    "oneml"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "NTV",
-    "AA",
-    "TRT Haber"
-   ]
-  },
-  "a4c6b1160926": {
-   "id": "a4c6b1160926",
-   "kaynak": "NTV",
-   "baslik": "İHA: Malatya'da helikopter düştü",
-   "ozet": "Malatya'nın Yeşilyurt ilçesinde helikopter düştü.",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-iha-malatyada-helikopter-dustu-1750611",
-   "zaman": "2026-11-12T19:11:34+03:00",
-   "kelimeler": [
-    "dustu",
-    "helik",
-    "iha",
-    "malat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "TRT Haber",
-    "BBC Türkçe"
-   ]
-  },
-  "e246b4a55d86": {
-   "id": "e246b4a55d86",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan: Yeşil kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yeşil kalkınma yolculuğumuzu kararlılıkla sürdürüyoruz. Enerjiden sanayiye, ulaştırmadan tarıma ve binalara tüm sektörlerimizi yeniden yapılandırıyoruz\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yesil-kalkinma-yolculugumuzu-kararlilikla-surduruyoruz-963099.html",
-   "zaman": "2026-11-12T19:02:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "kalki",
-    "karar",
-    "surdu",
-    "yesil",
-    "yolcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e81791ab9fce"
-  },
   "52bf41e1c8a8": {
    "id": "52bf41e1c8a8",
    "kaynak": "Hürriyet",
@@ -159,29 +80,6 @@
     "guven",
     "istik",
     "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9fa3f71ddbff": {
-   "id": "9fa3f71ddbff",
-   "kaynak": "AA",
-   "baslik": "Bakan Kacır elektrikli ve hibrit araç sayısını 16 milyona çıkarmayı hedeflediklerini belirtti",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'de elektrikli ve hibrit araç sayısını 2040 yılına kadar 16 milyona, güneş ve rüzgar enerjisinin toplam kurulu gücünü ise 175 gigavata çıkarmayı hedeflediklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-elektrikli-ve-hibrit-arac-sayisini-16-milyona-cikarmayi-hedeflediklerini-belirtti/4123111",
-   "zaman": "2026-11-12T19:13:01+03:00",
-   "kelimeler": [
-    "16",
-    "arac",
-    "bakan",
-    "belir",
-    "cikar",
-    "elekt",
-    "hedef",
-    "hibri",
-    "kacir",
-    "milyo",
-    "sayis"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -1043,26 +941,6 @@
    "kelimeler": [
     "ozat",
     "umit"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b08d1214c5a2": {
-   "id": "b08d1214c5a2",
-   "kaynak": "AA",
-   "baslik": "Bakan Göktaş: Aile politikalarımızı geleceğin ihtiyaçlarına göre şekillendireceğiz",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Aile ve Nüfus On Yılı'nda, değişen nüfus yapısını dikkate alarak aile politikalarımızı geleceğin ihtiyaçlarına göre şekillendireceğiz.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-aile-politikalarimizi-gelecegin-ihtiyaclarina-gore-sekillendirecegiz/4123112",
-   "zaman": "2026-11-12T19:13:07+03:00",
-   "kelimeler": [
-    "aile",
-    "bakan",
-    "gelec",
-    "gokta",
-    "gore",
-    "ihtiy",
-    "polit",
-    "sekil"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -21103,7 +20981,8 @@
     "zeyti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1cd5c1674874": {
    "id": "1cd5c1674874",
@@ -26653,7 +26532,10 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "142fb61eae06": {
    "id": "142fb61eae06",
@@ -26676,9 +26558,147 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d3867cc8e905": {
+   "id": "d3867cc8e905",
+   "kaynak": "AA",
+   "baslik": "Bakan Işıkhan \"Dönüş Umudu: El-Avde - Zeytin Ağacı Hikayesi\" sergisini gezdi",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Siyonist ve katil İsrail'in bir an evvel bu eylemlerine son vermesini, ateşkesin gerekli koşullarını yerine getirmesini istiyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/kultur/bakan-isikhan-donus-umudu-el-avde-zeytin-agaci-hikayesi-sergisini-gezdi/4125888",
+   "zaman": "2026-11-15T18:00:48+03:00",
+   "kelimeler": [
+    "agaci",
+    "avde",
+    "bakan",
+    "donus",
+    "el",
+    "gezdi",
+    "hikay",
+    "isikh",
+    "sergi",
+    "umudu",
+    "zeyti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9832b5f7a20b"
+  },
+  "1ca6d2412c81": {
+   "id": "1ca6d2412c81",
+   "kaynak": "AA",
+   "baslik": "Türkiye Ralli Şampiyonası'nda Kerem Kazaz, üst üste 3. kez mutlu sona ulaştı",
+   "ozet": "Petrol Ofisi Maxima Türkiye Ralli Şampiyonası'nda Team Petrol Ofisi pilotu Red Bull sporcusu Kerem Kazaz, şampiyonluğa ulaşarak üst üste 3. kez zirveye çıktı.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-ralli-sampiyonasinda-kerem-kazaz-ust-uste-3-kez-mutlu-sona-ulasti/4125909",
+   "zaman": "2026-11-15T18:35:38+03:00",
+   "kelimeler": [
+    "kazaz",
+    "kerem",
+    "kez",
+    "mutlu",
+    "nda",
+    "ralli",
+    "sampi",
+    "sona",
+    "turki",
+    "ulast",
+    "ust",
+    "uste"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "755261d3006c": {
+   "id": "755261d3006c",
+   "kaynak": "NTV",
+   "baslik": "SPK'dan olağanüstü tasfiye açıklaması: Amaç yatırımcıyı korumak",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), olağanüstü tasfiye kararı verilen yatırım fonlarının portföylerindeki payların halka açık şirketler tarafından geri alınmasına ilişkin açıklama yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/spkdan-olaganustu-tasfiye-aciklamasi-amac-yatirimciyi-korumak-1751021",
+   "zaman": "2026-11-15T19:02:43+03:00",
+   "kelimeler": [
+    "acikl",
+    "amac",
+    "dan",
+    "korum",
+    "olaga",
+    "spk",
+    "tasfi",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "57fa07c505fe": {
+   "id": "57fa07c505fe",
+   "kaynak": "AA",
+   "baslik": "Yemen ordusundan Zubab ve Babulmendeb birliklerini Aden ve çevresinde yeniden konuşlandırma kararı",
+   "ozet": "Yemen ordusuna bağlı Güney Silahlı Kuvvetleri, Taiz vilayetinin batısındaki Zubab Havalimanı ve Babulmendeb bölgesinde bulunan birliklerini Aden ve komşu vilayetlerinde yeniden konuşlandırmaya ilişkin karar aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusundan-zubab-ve-babulmendeb-birliklerini-aden-ve-cevresinde-yeniden-konuslandirma-karari/4125926",
+   "zaman": "2026-11-15T19:04:51+03:00",
+   "kelimeler": [
+    "aden",
+    "babul",
+    "birli",
+    "cevre",
+    "karar",
+    "konus",
+    "ordus",
+    "yemen",
+    "yenid",
+    "zubab"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f0713fd07c3f": {
+   "id": "f0713fd07c3f",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31'de enerji ve ulaşımda yapay zeka kaynaklı risklere karşı işbirliği çağrısı",
+   "ozet": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında yapay zekanın enerji ve ulaşım altyapılarının dijital dönüşümündeki rolü ile bu teknolojilerin iklim hedeflerine katkısı ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31de-enerji-ve-ulasimda-yapay-zeka-kaynakli-risklere-karsi-isbirligi-cagrisi-43379395",
+   "zaman": "2026-11-15T19:06:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "cop31",
+    "enerj",
+    "isbir",
+    "karsi",
+    "kayna",
+    "riskl",
+    "ulasi",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "05084a04dc01"
+  },
+  "64c7d38a6f80": {
+   "id": "64c7d38a6f80",
+   "kaynak": "AA",
+   "baslik": "Elon Musk ve teknoloji liderleri, Jensen Huang’ın görevine iade edilmesi için imza topladı",
+   "ozet": "Tesla ve SpaceX'in Üst Yöneticisi (CEO) Elon Musk ve birçok teknoloji yöneticisi, Nvidia’nın kurucu ortağı Jensen Huang’ın görevine iadesini talep eden dilekçeye imza attı.",
+   "link": "https://www.aa.com.tr/tr/dunya/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmesi-icin-imza-topladi/4125929",
+   "zaman": "2026-11-15T19:13:57+03:00",
+   "kelimeler": [
+    "edilm",
+    "elon",
+    "gorev",
+    "huang",
+    "iade",
+    "imza",
+    "in",
+    "jense",
+    "lider",
+    "musk",
+    "tekno",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "15.11 19:16:04  4 yeni haber",
   "15.11 19:04:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Denizli’de kargo aracı traktör römorkuna çarptı: 1 ölü, 5 yaralı",
   "15.11 19:01:48  4 yeni haber",
   "15.11 18:45:56  1 yeni haber",
@@ -26877,8 +26897,7 @@
   "13.11 15:31:29  6 yeni haber",
   "13.11 15:19:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · KKTC'deki yolcu gemisi kazasında VDR kayıtlarının incelenmesi tamamlan",
   "13.11 15:16:17  2 yeni haber",
-  "13.11 15:02:18  3 yeni haber",
-  "13.11 14:46:07  11 yeni haber"
+  "13.11 15:02:18  3 yeni haber"
  ],
  "otomatik": false
 }
