@@ -1,72 +1,5 @@
 {
  "haberler": {
-  "36754b2febe8": {
-   "id": "36754b2febe8",
-   "kaynak": "NTV",
-   "baslik": "Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler geleceklerinden endişeli''",
-   "ozet": "UNICEF Türkiye Temsilcisi Paolo Marchi ve UNICEF İyi Niyet Elçisi Tuba Büyüküstün, NTV'ye yaptıkları açıklamalarda iklim değişikliğinin çocuklar üzerindeki etkilerine dikkat çekti.",
-   "link": "https://www.ntv.com.tr/turkiye/tuba-buyukustunden-iklim-krizi-uyarisi-gencler-geleceklerinden-endiseli-1750621",
-   "zaman": "2026-11-12T22:53:19+03:00",
-   "kelimeler": [
-    "buyuk",
-    "den",
-    "endis",
-    "gelec",
-    "gencl",
-    "iklim",
-    "krizi",
-    "tuba",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "56be7d1233e2": {
-   "id": "56be7d1233e2",
-   "kaynak": "Hürriyet",
-   "baslik": "Ticaret Bakanlığından ‘Kabe örtüsü kokusu' reklamlarını durdurma kararı",
-   "ozet": "TİCARET Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, e-ticaret platformlarında 'Kabe örtüsü kokusu' ve 'Mescid-i Aksa kokusu' gibi ifadelerle yapılan reklamların durdurulmasına karar verildiğini açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ticaret-bakanligindan-kabe-ortusu-kokusu-reklamlarini-durdurma-karari-43376342",
-   "zaman": "2026-11-12T22:54:38+03:00",
-   "kelimeler": [
-    "bakan",
-    "durdu",
-    "kabe",
-    "karar",
-    "kokus",
-    "ortus",
-    "rekla",
-    "ticar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "301a912324e4": {
-   "id": "301a912324e4",
-   "kaynak": "AA",
-   "baslik": "ABD'li senatörlerden bütçe anlaşmasında Trump'ın İran'a yönelik saldırılarını fonlamayı engelleyecekleri sözü",
-   "ozet": "ABD Senatosundaki 4 senatör, ABD Başkanı Donald Trump'ın İran'a saldırıları sürdürme imkanını kısıtlamayan yıl sonu bütçe anlaşmasını kabul etmeyeceklerini açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdli-senatorlerden-butce-anlasmasinda-trumpin-irana-yonelik-saldirilarini-fonlamayi-engelleyecekleri-sozu/4123437",
-   "zaman": "2026-11-12T22:58:44+03:00",
-   "kelimeler": [
-    "abd",
-    "anlas",
-    "butce",
-    "engel",
-    "fonla",
-    "in",
-    "iran",
-    "li",
-    "saldi",
-    "senat",
-    "sozu",
-    "trump",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "14b6e1634a31"
-  },
   "6b28ee476192": {
    "id": "6b28ee476192",
    "kaynak": "Sözcü",
@@ -13970,7 +13903,8 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "920920f00ca3": {
    "id": "920920f00ca3",
@@ -25889,7 +25823,10 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "89ef1735e30a": {
    "id": "89ef1735e30a",
@@ -25908,9 +25845,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "267a49428b32": {
+   "id": "267a49428b32",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye İklim Okulu gastronomi ve sıfır atık etkinlikleriyle COP31'de ilgi odağı oldu",
+   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen TRT'nin ev sahibi yayıncı kuruluş olduğu Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31.",
+   "link": "https://www.trthaber.com/haber/turkiye/turkiye-iklim-okulu-gastronomi-ve-sifir-atik-etkinlikleriyle-cop31de-ilgi-odagi-oldu-963359.html",
+   "zaman": "2026-11-15T22:07:00+03:00",
+   "kelimeler": [
+    "atik",
+    "cop31",
+    "etkin",
+    "gastr",
+    "iklim",
+    "ilgi",
+    "odagi",
+    "okulu",
+    "sifir",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "99618a49f537"
+  },
+  "e2818bb3d217": {
+   "id": "e2818bb3d217",
+   "kaynak": "TRT Haber",
+   "baslik": "Eskişehir'de izinsiz kazı yapan 6 şüpheli tutuklandı",
+   "ozet": "Eskişehir'in Sivrihisar ilçesinde izinsiz kazı yaptıkları iddiasıyla gözaltına alınan 7 zanlıdan 6'sı tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/eskisehirde-izinsiz-kazi-yapan-6-supheli-tutuklandi-963360.html",
+   "zaman": "2026-11-15T22:53:00+03:00",
+   "kelimeler": [
+    "eskis",
+    "izins",
+    "kazi",
+    "suphe",
+    "tutuk",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f23356c5ef89": {
+   "id": "f23356c5ef89",
+   "kaynak": "AA",
+   "baslik": "Sağlık Bakanı Memişoğlu, KKTC'nin kuruluşunun 43. yıl dönümünü kutladı",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43. kuruluş yıl dönümünü kutladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-kktcnin-kurulusunun-43-yil-donumunu-kutladi/4126016",
+   "zaman": "2026-11-15T22:57:42+03:00",
+   "kelimeler": [
+    "43",
+    "bakan",
+    "donum",
+    "kktc",
+    "kurul",
+    "kutla",
+    "memis",
+    "nin",
+    "sagli",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "42b981a5f1b9"
   }
  },
  "kayit": [
+  "15.11 23:01:34  1 yeni haber",
   "15.11 22:52:44  1 yeni haber",
   "15.11 22:46:20  1 yeni haber",
   "15.11 22:31:19  1 yeni haber",
@@ -26109,8 +26111,7 @@
   "13.11 18:46:12  3 yeni haber",
   "13.11 18:31:48  2 yeni haber",
   "13.11 18:16:11  3 yeni haber",
-  "13.11 18:01:45  5 yeni haber",
-  "13.11 17:46:01  6 yeni haber"
+  "13.11 18:01:45  5 yeni haber"
  ],
  "otomatik": false
 }
