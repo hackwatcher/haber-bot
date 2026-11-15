@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "6b28ee476192": {
-   "id": "6b28ee476192",
-   "kaynak": "Sözcü",
-   "baslik": "Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü ve yaralılar var",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/pompali-dehseti-kaldirimda-yuruyenlere-kursun-yagdirdi-olu-ve-yaralilar-var-p380806",
-   "zaman": "2026-11-12T23:13:33+03:00",
-   "kelimeler": [
-    "dehse",
-    "kaldi",
-    "kursu",
-    "olu",
-    "pompa",
-    "yagdi",
-    "yaral",
-    "yuruy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6676934fcdaf": {
    "id": "6676934fcdaf",
    "kaynak": "AA",
@@ -25909,9 +25889,59 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "42b981a5f1b9"
+  },
+  "eae5ac46bc27": {
+   "id": "eae5ac46bc27",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 15 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1751037",
+   "zaman": "2026-11-15T23:06:21+03:00",
+   "kelimeler": [
+    "15",
+    "2026",
+    "belli",
+    "cekil",
+    "ekran",
+    "kasim",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "4494fa772f43": {
+   "id": "4494fa772f43",
+   "kaynak": "AA",
+   "baslik": "Batılı 4 ülke, İsrail'e Gazze'ye insani yardımların girişine izin vermesi çağrısı yaptı",
+   "ozet": "Avustralya, Kanada, İtalya ve İngiltere, kış koşullarının Gazze'deki insani krizi ağırlaştırdığına dikkati çekerek, İsrail'e Gazze'ye insani yardımların girişine izin vermesi çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/batili-4-ulke-israile-gazzeye-insani-yardimlarin-girisine-izin-vermesi-cagrisi-yapti/4126017",
+   "zaman": "2026-11-15T23:09:01+03:00",
+   "kelimeler": [
+    "batil",
+    "cagri",
+    "gazze",
+    "giris",
+    "insan",
+    "israi",
+    "izin",
+    "ulke",
+    "verme",
+    "yapti",
+    "yardi",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "15.11 23:16:13  2 yeni haber",
   "15.11 23:01:34  1 yeni haber",
   "15.11 22:52:44  1 yeni haber",
   "15.11 22:46:20  1 yeni haber",
@@ -26110,8 +26140,7 @@
   "13.11 19:01:35  7 yeni haber",
   "13.11 18:46:12  3 yeni haber",
   "13.11 18:31:48  2 yeni haber",
-  "13.11 18:16:11  3 yeni haber",
-  "13.11 18:01:45  5 yeni haber"
+  "13.11 18:16:11  3 yeni haber"
  ],
  "otomatik": false
 }
