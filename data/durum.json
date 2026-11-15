@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "6bbfcc5ce94a": {
-   "id": "6bbfcc5ce94a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Malatya'da Skorsky tipi askeri helikopter düştü",
-   "ozet": "Milli Savunma Bakanlığı, Malatya'da Skorsky tipi bir helikopterin düştüğünü duyurdu.",
-   "link": "https://www.bbc.com/turkce/articles/cj4gn99v0693o",
-   "zaman": "2026-11-12T19:34:40+03:00",
-   "kelimeler": [
-    "asker",
-    "dustu",
-    "helik",
-    "malat",
-    "skors",
-    "tipi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a4c6b1160926"
-  },
-  "d3a2bfa0f8f3": {
-   "id": "d3a2bfa0f8f3",
-   "kaynak": "AA",
-   "baslik": "Emine Erdoğan, COP31 alanındaki Sıfır Atık Müzesi'ni açtı",
-   "ozet": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, Sıfır Atık Müzesi'nin açılışını yaptı.",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-cop31-alanindaki-sifir-atik-muzesini-acti/4123221",
-   "zaman": "2026-11-12T19:44:10+03:00",
-   "kelimeler": [
-    "acti",
-    "alani",
-    "atik",
-    "cop31",
-    "emine",
-    "erdog",
-    "muzes",
-    "ni",
-    "sifir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "1792092f666f": {
    "id": "1792092f666f",
    "kaynak": "AA",
@@ -427,27 +384,6 @@
    "oncelikli": false,
    "tekrar_of": "d636771612c9"
   },
-  "b6996d16e566": {
-   "id": "b6996d16e566",
-   "kaynak": "AA",
-   "baslik": "Türkiye'nin yeşil dönüşümünde uluslararası yatırımcılarla işbirliği vurgusu",
-   "ozet": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi Başkanı Dağlıoğlu, Türkiye'nin 2022-2025 döneminde 94 iklim dostu yatırım projesini desteklediğini, ülkeye daha fazla yatırım çekmek için uluslararası yatırımcılarla işbirliğini sürdüreceklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yesil-donusumunde-uluslararasi-yatirimcilarla-isbirligi-vurgusu/4123216",
-   "zaman": "2026-11-12T19:37:53+03:00",
-   "kelimeler": [
-    "donus",
-    "isbir",
-    "nin",
-    "turki",
-    "ulusl",
-    "vurgu",
-    "yatir",
-    "yesil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f33ed94a3c5e"
-  },
   "8d1a718629f5": {
    "id": "8d1a718629f5",
    "kaynak": "TRT Haber",
@@ -617,28 +553,6 @@
     "gorus",
     "kalki",
     "progr"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4e990b419d43": {
-   "id": "4e990b419d43",
-   "kaynak": "AA",
-   "baslik": "\"Eşyaların Dilinden Asr-ı Saadet\" sergisi Hz. Peygamber dönemine ışık tutuyor",
-   "ozet": "Merhum Mahmut Karakış'ın kaleme aldığı eser ile Hz. Muhammed döneminde kullanılan 425 eşyanın incelendiği sergi, düzenlenen vefa programıyla sanat ve ilim dünyasının beğenisine sunuldu.",
-   "link": "https://www.aa.com.tr/tr/kultur/esyalarin-dilinden-asr-i-saadet-sergisi-hz-peygamber-donemine-isik-tutuyor/4123218",
-   "zaman": "2026-11-12T19:40:01+03:00",
-   "kelimeler": [
-    "asr",
-    "dilin",
-    "donem",
-    "esyal",
-    "hz",
-    "isik",
-    "peyga",
-    "saade",
-    "sergi",
-    "tutuy"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -26256,7 +26170,10 @@
     "spk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "b0f820b66c48": {
    "id": "b0f820b66c48",
@@ -26625,9 +26542,121 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "fa3b739c3c61"
+  },
+  "8edb9f16a95a": {
+   "id": "8edb9f16a95a",
+   "kaynak": "AA",
+   "baslik": "Rize'de heyelan meydana geldi",
+   "ozet": "Rize'nin Çayeli ilçesinde sağanağın ardından bazı noktalarda heyelan meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/rizede-heyelan-meydana-geldi/4125845",
+   "zaman": "2026-11-15T17:14:25+03:00",
+   "kelimeler": [
+    "geldi",
+    "heyel",
+    "meyda",
+    "rize"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f8619b5dd275": {
+   "id": "f8619b5dd275",
+   "kaynak": "TRT Haber",
+   "baslik": "Beşiktaş'taki cinayetin şüphelileri Beyoğlu'nda bulunan cesetle bağlantılı çıktı",
+   "ozet": "Beşiktaş'ta 1 kişinin hayatını kaybettiği saldırıya ilişkin bir zanlı daha gözaltına alınırken, şüphelilerin Beyoğlu'nda halıya sarılı halde bulunan erkek cesediyle de bağlantılı olduğu belirlendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/besiktastaki-cinayetin-suphelileri-beyoglunda-bulunan-cesetle-baglantili-cikti-963354.html",
+   "zaman": "2026-11-15T18:26:00+03:00",
+   "kelimeler": [
+    "bagla",
+    "besik",
+    "beyog",
+    "bulun",
+    "ceset",
+    "cikti",
+    "cinay",
+    "nda",
+    "suphe",
+    "taki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "455168544435": {
+   "id": "455168544435",
+   "kaynak": "AA",
+   "baslik": "Bakan Bak: Önümüzdeki temmuz ayında Türk Dünyası Üniversite Spor Oyunları Erzurum ve Bayburt'ta yapılacak",
+   "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Türk Dünyası Üniversite Spor Oyunları'nın Temmuz 2027'de Erzurum ve Bayburt'ta yapılacağını söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-bak-onumuzdeki-temmuz-ayinda-turk-dunyasi-universite-spor-oyunlari-erzurum-ve-bayburtta-yapilacak/4125927",
+   "zaman": "2026-11-15T19:08:43+03:00",
+   "kelimeler": [
+    "ayind",
+    "bak",
+    "bakan",
+    "baybu",
+    "dunya",
+    "erzur",
+    "onumu",
+    "oyunl",
+    "spor",
+    "ta",
+    "temmu",
+    "turk",
+    "unive",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5d0fff21e506": {
+   "id": "5d0fff21e506",
+   "kaynak": "AA",
+   "baslik": "Trump'tan hava trafik kontrol sisteminin yenilenmesi konusunda Kongreye çağrı",
+   "ozet": "ABD Başkanı Donald Trump, tüm ülkede uçuşları bir süreliğine durduran sorunun ardından, hava trafik kontrol sisteminin kapsamlı bir şekilde yenilenmesi için gerekli fonu hızla onaylaması için Kongreye çağrı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumptan-hava-trafik-kontrol-sisteminin-yenilenmesi-konusunda-kongreye-cagri/4125939",
+   "zaman": "2026-11-15T19:31:32+03:00",
+   "kelimeler": [
+    "cagri",
+    "hava",
+    "kongr",
+    "kontr",
+    "konus",
+    "siste",
+    "tan",
+    "trafi",
+    "trump",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d61e4ba89b28": {
+   "id": "d61e4ba89b28",
+   "kaynak": "AA",
+   "baslik": "SPK'den \"Olağanüstü Tasfiyede Halka Açık Ortaklıkların Geri Aldığı Paylara İlişkin\" açıklama",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), olağanüstü tasfiyede halka açık ortaklıkların geri aldığı paylara ilişkin açıklamada bulundu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-olaganustu-tasfiyede-halka-acik-ortakliklarin-geri-aldigi-paylara-iliskin-aciklama/4125941",
+   "zaman": "2026-11-15T19:39:54+03:00",
+   "kelimeler": [
+    "acik",
+    "acikl",
+    "aldig",
+    "den",
+    "geri",
+    "halka",
+    "ilisk",
+    "olaga",
+    "ortak",
+    "payla",
+    "spk",
+    "tasfi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "80bea5accf65"
   }
  },
  "kayit": [
+  "15.11 19:46:05  4 yeni haber",
   "15.11 19:31:45  1 yeni haber",
   "15.11 19:16:04  4 yeni haber",
   "15.11 19:04:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Denizli’de kargo aracı traktör römorkuna çarptı: 1 ölü, 5 yaralı",
@@ -26826,8 +26855,7 @@
   "13.11 16:01:51  7 yeni haber",
   "13.11 15:46:21  3 yeni haber",
   "13.11 15:31:29  6 yeni haber",
-  "13.11 15:19:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · KKTC'deki yolcu gemisi kazasında VDR kayıtlarının incelenmesi tamamlan",
-  "13.11 15:16:17  2 yeni haber"
+  "13.11 15:19:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · KKTC'deki yolcu gemisi kazasında VDR kayıtlarının incelenmesi tamamlan"
  ],
  "otomatik": false
 }
