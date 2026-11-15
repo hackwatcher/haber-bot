@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "6467bda2e6c4": {
-   "id": "6467bda2e6c4",
-   "kaynak": "AA",
-   "baslik": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlandı",
-   "ozet": "\"Diyaliz Merkezleri Hakkında Yönetmelik\" Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/diyaliz-merkezleri-hakkinda-yonetmelik-resmi-gazetede-yayimlandi/4123551",
-   "zaman": "2026-11-13T02:10:45+03:00",
-   "kelimeler": [
-    "diyal",
-    "gazet",
-    "hakki",
-    "merke",
-    "resmi",
-    "yayim",
-    "yonet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "dfd6eed44f14"
-  },
-  "2e1142c1a6db": {
-   "id": "2e1142c1a6db",
-   "kaynak": "AA",
-   "baslik": "Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını söyledi",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını kaydetti.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyayla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagini-soyledi/4123552",
-   "zaman": "2026-11-13T02:14:31+03:00",
-   "kelimeler": [
-    "buyuk",
-    "esir",
-    "kadar",
-    "rusya",
-    "simdi",
-    "soyle",
-    "takas",
-    "yapil",
-    "yla",
-    "zelen"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1049d1952ad1"
-  },
   "df239093f912": {
    "id": "df239093f912",
    "kaynak": "BBC Türkçe",
@@ -25428,7 +25385,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "91aacdd35be4": {
    "id": "91aacdd35be4",
@@ -25470,9 +25428,34 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f9a291e67190": {
+   "id": "f9a291e67190",
+   "kaynak": "AA",
+   "baslik": "Hatay Mustafa Kemal Üniversitesi iklim krizine karşı geliştirdiği 8 projeyi COP31'de sunacak",
+   "ozet": "Hatay Mustafa Kemal Üniversitesi küresel iklim değişikliğiyle mücadele ve yeşil dönüşüm alanlarında geliştirdiği 8 projeyi, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda uluslararası kamuoyuna sunacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/hatay-mustafa-kemal-universitesi-iklim-krizine-karsi-gelistirdigi-8-projeyi-cop31de-sunacak/4126055",
+   "zaman": "2026-11-16T00:35:03+03:00",
+   "kelimeler": [
+    "cop31",
+    "gelis",
+    "hatay",
+    "iklim",
+    "karsi",
+    "kemal",
+    "krizi",
+    "musta",
+    "proje",
+    "sunac",
+    "unive"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e93044054621"
   }
  },
  "kayit": [
+  "16.11 02:16:18  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "16.11 02:01:45  3 yeni haber",
   "16.11 01:46:08  1 yeni haber",
   "16.11 01:31:50  1 yeni haber",
@@ -25671,8 +25654,7 @@
   "13.11 21:16:11  3 yeni haber",
   "13.11 21:01:41  1 yeni haber",
   "13.11 20:44:37  1 yeni haber",
-  "13.11 20:31:44  3 yeni haber",
-  "13.11 20:16:57  5 yeni haber"
+  "13.11 20:31:44  3 yeni haber"
  ],
  "otomatik": false
 }
