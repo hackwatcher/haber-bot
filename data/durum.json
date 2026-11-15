@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "392a201ea82e": {
-   "id": "392a201ea82e",
-   "kaynak": "NTV",
-   "baslik": "Ömer Çelik'ten İsrail'e tepki. \"Katliam şebekesi, suçlarını bu yalanlarla gizleyemez\"",
-   "ozet": "AK Parti Sözcüsü Ömer Çelik \"İsrail'in Cumhurbaşkanımızı hedef alan hadsiz açıklamaları, katliamları örtbas edemez.\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/omer-celikten-israile-tepki-katliam-sebekesi-suclarini-bu-yalanlarla-gizleyemez-1750513",
-   "zaman": "2026-11-12T09:31:35+03:00",
-   "kelimeler": [
-    "celik",
-    "gizle",
-    "israi",
-    "katli",
-    "omer",
-    "sebek",
-    "sucla",
-    "ten",
-    "tepki",
-    "yalan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8aae5e0716f6"
-  },
-  "bc40a753370b": {
-   "id": "bc40a753370b",
-   "kaynak": "Hürriyet",
-   "baslik": "Emine Erdoğan'dan COP31 mesajı: Teknik tedbirlerin ötesinde zihniyet dönüşümü şart",
-   "ozet": "COP31 Liderler Zirvesi'nde BM Genel Sekreteri Guterres ve hükümet başkanlarıyla bir araya gelen Emine Erdoğan, gıda kayıplarından metan emisyonlarına kadar uzanan küresel başlıkların ele alındığı toplantıya ilişkin mesaj paylaştı.",
-   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-cop31-mesaji-teknik-tedbirlerin-otesinde-zihniyet-donusumu-sart-43375120",
-   "zaman": "2026-11-12T09:37:00+03:00",
-   "kelimeler": [
-    "cop31",
-    "dan",
-    "donus",
-    "emine",
-    "erdog",
-    "mesaj",
-    "otesi",
-    "sart",
-    "tedbi",
-    "tekni",
-    "zihni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "30502bbb2db3"
-  },
   "d0cdf24113dc": {
    "id": "d0cdf24113dc",
    "kaynak": "AA",
@@ -2982,27 +2935,6 @@
    ],
    "durum": "yeni",
    "oncelikli": true
-  },
-  "2f163c029ad0": {
-   "id": "2f163c029ad0",
-   "kaynak": "TRT Haber",
-   "baslik": "Brent petrolün varili 92,70 dolardan işlem görüyor",
-   "ozet": "Dün 94,73 dolara kadar yükselen Brent petrolün ocak vadeli varil fiyatı, günü 92,76 dolardan tamamladı.",
-   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9270-dolardan-islem-goruyor-963012.html",
-   "zaman": "2026-11-12T09:38:00+03:00",
-   "kelimeler": [
-    "70",
-    "92",
-    "brent",
-    "dolar",
-    "goruy",
-    "islem",
-    "petro",
-    "varil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9083eb477a36"
   },
   "5573f62584e5": {
    "id": "5573f62584e5",
@@ -28709,7 +28641,10 @@
     "yi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f4b368ac67ce": {
    "id": "f4b368ac67ce",
@@ -29742,9 +29677,78 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "231da39499de": {
+   "id": "231da39499de",
+   "kaynak": "TRT Haber",
+   "baslik": "Eskişehir'de kazaya müdahale eden trafik polisine otomobil çarptı: 5 yaralı",
+   "ozet": "Eskişehir bir araç, yağış nedeniyle su birikintisine kapılarak kontrolünü kaybetti. Kazaya müdahale eden trafik polisi ile 4 kişi, kaza mahalline dalan başka bir otomobilin çarpmasıyla yaralanırken, kaza nedeniyle çevre yolu bir süre trafiğe kapatıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/eskisehirde-kazaya-mudahale-eden-trafik-polisine-otomobil-carpti-5-yarali-963318.html",
+   "zaman": "2026-11-15T09:22:00+03:00",
+   "kelimeler": [
+    "carpt",
+    "eden",
+    "eskis",
+    "kazay",
+    "mudah",
+    "otomo",
+    "polis",
+    "trafi",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b8845f1064bc": {
+   "id": "b8845f1064bc",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri Bakanlığı: Bağımsız Filistin Devleti'nin kurulması vazgeçilmez gayemiz",
+   "ozet": "Dışişleri Bakanlığı, Filistin Devleti'nin kuruluşunun 38. yıl dönümü dolayısıyla yayımladığı mesajda, Türkiye'nin Filistin halkının maruz kaldığı haksızlık ve zulme karşı durmayı sürdüreceğini aktardı.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanligi-bagimsiz-filistin-devletinin-kurulmasi-vazgecilmez-gayemiz-963319.html",
+   "zaman": "2026-11-15T09:37:00+03:00",
+   "kelimeler": [
+    "bagim",
+    "bakan",
+    "devle",
+    "disis",
+    "filis",
+    "gayem",
+    "kurul",
+    "nin",
+    "vazge"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "784a5dd4a73c": {
+   "id": "784a5dd4a73c",
+   "kaynak": "AA",
+   "baslik": "AK Parti Sözcüsü Çelik'ten İzmir Milletvekili Çankırı'yı hedef alan akademisyene tepki",
+   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Kadınlara, alın terine, ülkemizin belli bir bölümüne dönük bu nefret söylemini kökten reddediyoruz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celikten-izmir-milletvekili-cankiriyi-hedef-alan-akademisyene-tepki/4125521",
+   "zaman": "2026-11-15T09:41:44+03:00",
+   "kelimeler": [
+    "ak",
+    "akade",
+    "alan",
+    "canki",
+    "celik",
+    "hedef",
+    "izmir",
+    "mille",
+    "parti",
+    "sozcu",
+    "ten",
+    "tepki",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0223623df856"
   }
  },
  "kayit": [
+  "15.11 09:46:16  2 yeni haber",
   "15.11 09:33:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fethiye'de gece yarısı feci kaza: Çarptığı direğin altında alev aldı: ",
   "15.11 09:31:13  3 yeni haber",
   "15.11 09:16:05  3 yeni haber",
@@ -29943,8 +29947,7 @@
   "13.11 05:02:46  2 yeni haber",
   "13.11 04:46:31  4 yeni haber",
   "13.11 04:31:22  2 yeni haber",
-  "13.11 04:16:01  3 yeni haber",
-  "13.11 04:02:10  2 yeni haber"
+  "13.11 04:16:01  3 yeni haber"
  ],
  "otomatik": false
 }
