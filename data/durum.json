@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "7254dd1b595d": {
-   "id": "7254dd1b595d",
-   "kaynak": "TRT Haber",
-   "baslik": "İsrail ateşkese rağmen Lübnan'ın güneyine karadan ve havadan saldırılarını sürdürüyor",
-   "ozet": "Soykırımcı İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyine karadan ve havadan saldırılar düzenledi.",
-   "link": "https://www.trthaber.com/haber/dunya/israil-ateskese-ragmen-lubnanin-guneyine-karadan-ve-havadan-saldirilarini-surduruyor-963095.html",
-   "zaman": "2026-11-12T18:06:00+03:00",
-   "kelimeler": [
-    "atesk",
-    "guney",
-    "havad",
-    "in",
-    "israi",
-    "karad",
-    "lubna",
-    "ragme",
-    "saldi",
-    "surdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "f6add07079ef": {
-   "id": "f6add07079ef",
-   "kaynak": "Hürriyet",
-   "baslik": "DMM'den iklim endeksine ilişkin dezenformasyon uyarısı",
-   "ozet": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), bazı basın yayın organlarında ve sanal medya mecralarında yer alan 'Türkiye iklim endeksinde geriledi' iddiasının gerçeği yansıtmadığını açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/dmmden-iklim-endeksine-iliskin-dezenformasyon-uyarisi-43376113",
-   "zaman": "2026-11-12T18:08:12+03:00",
-   "kelimeler": [
-    "den",
-    "dezen",
-    "dmm",
-    "endek",
-    "iklim",
-    "ilisk",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "dd84c2f1dcda": {
    "id": "dd84c2f1dcda",
    "kaynak": "AA",
@@ -882,31 +838,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "857eeeacceb4": {
-   "id": "857eeeacceb4",
-   "kaynak": "AA",
-   "baslik": "Cevdet Yılmaz: İklim değişikliğiyle mücadele ile insan odaklı sürdürülebilir kalkınma birbirini tamamlayan hedefler",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, iklim değişikliğiyle mücadele ve sürdürülebilir kalkınmanın birbirini tamamladığını, temiz pişirmenin COP31 Başkanlığının diyalog, uzlaşı ve aksiyon yaklaşımını yansıttığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cevdet-yilmaz-iklim-degisikligiyle-mucadele-ile-insan-odakli-surdurulebilir-kalkinma-birbirini-tamamlayan-hedefler/4123007",
-   "zaman": "2026-11-12T18:05:13+03:00",
-   "kelimeler": [
-    "birbi",
-    "cevde",
-    "degis",
-    "hedef",
-    "iklim",
-    "insan",
-    "kalki",
-    "mucad",
-    "odakl",
-    "surdu",
-    "tamam",
-    "yilma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b5d80902c5ca"
-  },
   "7065904048b7": {
    "id": "7065904048b7",
    "kaynak": "AA",
@@ -1265,27 +1196,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d636771612c9"
-  },
-  "ebb6f8a2a473": {
-   "id": "ebb6f8a2a473",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, barış ve çevre diplomasilerinin önemine dikkati çekti",
-   "ozet": "Cumhurbaşkanı Yardımcısı Yılmaz, barış diplomasisiyle çevre diplomasisinin örtüşmek durumunda olduğunu belirterek, \"Savaşlar yerine diplomasinin, insani ölçütlerin ön plana çıkması önemli.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-baris-ve-cevre-diplomasilerinin-onemine-dikkati-cekti/4123025",
-   "zaman": "2026-11-12T18:14:05+03:00",
-   "kelimeler": [
-    "baris",
-    "cekti",
-    "cevre",
-    "cumhu",
-    "dikka",
-    "diplo",
-    "onemi",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "b6996d16e566": {
    "id": "b6996d16e566",
@@ -20940,7 +20850,10 @@
     "surdu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7996bbbcc2e2": {
    "id": "7996bbbcc2e2",
@@ -27136,9 +27049,73 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b0b47de2899d": {
+   "id": "b0b47de2899d",
+   "kaynak": "AA",
+   "baslik": "Uluslararası Ormancılık Eğitim Merkezi'ni 45 ülkeden katılımcı ziyaret etti",
+   "ozet": "COP31 dolayısıyla Antalya'ya gelen, aralarında yabancı ülkelerden bakanların da olduğu 45 katılımcı, Orman Genel Müdürlüğünün (OGM) Uluslararası Ormancılık Eğitim Merkezi'ni gezdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-ormancilik-egitim-merkezini-45-ulkeden-katilimci-ziyaret-etti/4125871",
+   "zaman": "2026-11-15T17:40:25+03:00",
+   "kelimeler": [
+    "45",
+    "egiti",
+    "etti",
+    "katil",
+    "merke",
+    "ni",
+    "orman",
+    "ulked",
+    "ulusl",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7d41deb814dc": {
+   "id": "7d41deb814dc",
+   "kaynak": "AA",
+   "baslik": "İsrail, ateşkese rağmen Lübnan'ın güneyine saldırdı",
+   "ozet": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyindeki Kantara beldesi kırsalına hava saldırısı düzenlediği, Hadese beldesinde ise patlayıcılarla yıkım gerçekleştirdiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ateskese-ragmen-lubnanin-guneyine-saldirdi/4125891",
+   "zaman": "2026-11-15T18:02:36+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "in",
+    "israi",
+    "lubna",
+    "ragme",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac3275639b9f"
+  },
+  "d2e4045848cd": {
+   "id": "d2e4045848cd",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail, ateşkese rağmen Lübnan'ın güneyine saldırdı",
+   "ozet": "İşgalci İsrail ordusunun ateşkese rağmen Lübnan'ın güneyindeki Kantara beldesi kırsalına hava saldırısı düzenlediği, Hadese beldesinde ise patlayıcılarla yıkım gerçekleştirdiği duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ateskese-ragmen-lubnanin-guneyine-saldirdi-963353.html",
+   "zaman": "2026-11-15T18:05:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "in",
+    "isgal",
+    "israi",
+    "lubna",
+    "ragme",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac3275639b9f"
   }
  },
  "kayit": [
+  "15.11 18:16:04  1 yeni haber",
   "15.11 18:01:51  5 yeni haber",
   "15.11 17:46:05  5 yeni haber",
   "15.11 17:31:37  1 yeni haber",
@@ -27337,8 +27314,7 @@
   "13.11 14:31:52  5 yeni haber",
   "13.11 14:16:08  6 yeni haber",
   "13.11 14:01:59  9 yeni haber",
-  "13.11 13:46:05  5 yeni haber",
-  "13.11 13:34:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Sırbistan'da Öğrenci Listesi temsilcisi Ubovic, İsrail ile silah ticar"
+  "13.11 13:46:05  5 yeni haber"
  ],
  "otomatik": false
 }
