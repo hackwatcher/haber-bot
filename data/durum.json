@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "4dd4b271af2e": {
-   "id": "4dd4b271af2e",
-   "kaynak": "NTV",
-   "baslik": "Türkiye Sigorta fon kazancını TMSF'ye iade etti",
-   "ozet": "Türkiye Sigorta AŞ, 1 milyar 599 milyon 887 bin 908 TL'nin iade edilecek kazanç olarak belirlendiğini ve iade tutarının bugün Tasarruf Mevduatı Sigorta Fonu (TMSF) hesabına yatırıldığını bildirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/turkiye-sigorta-fon-kazancini-tmsfye-iade-etti-1750763",
-   "zaman": "2026-11-13T21:28:48+03:00",
-   "kelimeler": [
-    "etti",
-    "fon",
-    "iade",
-    "kazan",
-    "sigor",
-    "tmsf",
-    "turki",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "53fa94623d7a"
-  },
-  "7ebc34366787": {
-   "id": "7ebc34366787",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler BM Genel Sekreteri Antonio Guterres ile görüştü.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu-963218.html",
-   "zaman": "2026-11-13T21:24:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "bm",
-    "genel",
-    "gorus",
-    "guter",
-    "kurum",
-    "sekre"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f38a8211d3cd"
-  },
-  "b570f911c9a4": {
-   "id": "b570f911c9a4",
-   "kaynak": "AA",
-   "baslik": "Gazze'deki insani yardım kuruluşları: İsrail politikaları nedeniyle yağmurların yol açtığı yıkım önlenemedi",
-   "ozet": "Filistin Toprakları İnsani Yardım Ekibi, Gazze'de etkili olan son yağışların yol açtığı can kayıpları ve barınma alanlarındaki yıkımın önlenebilir olduğunu ancak İsrail'in hayati insani yardımların bölgeye ulaştırılmasını engellediğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-insani-yardim-kuruluslari-israil-politikalari-nedeniyle-yagmurlarin-yol-actigi-yikim-onlenemedi/4124675",
-   "zaman": "2026-11-13T21:28:46+03:00",
-   "kelimeler": [
-    "actig",
-    "deki",
-    "gazze",
-    "insan",
-    "israi",
-    "kurul",
-    "neden",
-    "onlen",
-    "polit",
-    "yagmu",
-    "yardi",
-    "yikim",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "adda4a5dc63a": {
    "id": "adda4a5dc63a",
    "kaynak": "Sözcü",
@@ -19921,7 +19852,10 @@
     "yukun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "81c61a2946f5": {
    "id": "81c61a2946f5",
@@ -25189,9 +25123,50 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9f5a43976f3f": {
+   "id": "9f5a43976f3f",
+   "kaynak": "AA",
+   "baslik": "COP31'de Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı yapıldı",
+   "ozet": "Antalya'daki Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yapay-zeka-destekli-temiz-teknolojiler-girisimi-lansmani-yapildi/4126954",
+   "zaman": "2026-11-16T19:25:32+03:00",
+   "kelimeler": [
+    "cop31",
+    "deste",
+    "giris",
+    "lansm",
+    "tekno",
+    "temiz",
+    "yapay",
+    "yapil",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2e934d7f6164": {
+   "id": "2e934d7f6164",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum: Dönüşümün faydasını paylaşırken maliyetini de paylaşmalıyız",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Adil geçişin tek bir reçetesi olamaz. Ortak fakat farklılaştırılmış sorumluluklar ve göreli kabiliyetler ilkesi bize önemli bir çerçeve sunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-donusumun-faydasini-paylasirken-maliyetini-de-paylasmaliyiz-43380606",
+   "zaman": "2026-11-16T21:14:55+03:00",
+   "kelimeler": [
+    "bakan",
+    "donus",
+    "fayda",
+    "kurum",
+    "maliy",
+    "payla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7ceac7ef05ec"
   }
  },
  "kayit": [
+  "16.11 21:31:48  1 yeni haber",
   "16.11 21:17:18  2 yeni haber",
   "16.11 21:01:50  6 yeni haber",
   "16.11 20:31:15  1 yeni haber",
@@ -25390,8 +25365,7 @@
   "14.11 18:31:14  3 yeni haber",
   "14.11 18:16:59  Paylaşıldı (otomatik, tek kart + Story + Facebook): XHABER · ABD'de ülke genelindeki tüm uçuş kalkışları durduruldu.",
   "14.11 18:16:26  2 yeni haber",
-  "14.11 18:01:29  1 yeni haber",
-  "14.11 17:46:03  4 yeni haber"
+  "14.11 18:01:29  1 yeni haber"
  ],
  "otomatik": false
 }
