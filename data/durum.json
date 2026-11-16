@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "dbf3f8def80f": {
-   "id": "dbf3f8def80f",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 13 Kasım 2026",
-   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 13 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-13-kasim-2026-1750633",
-   "zaman": "2026-11-13T03:50:00+03:00",
-   "kelimeler": [
-    "13",
-    "2026",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "mugla",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "3ea0c9927475"
-  },
   "bb82d333fb0a": {
    "id": "bb82d333fb0a",
    "kaynak": "Hürriyet",
@@ -25608,9 +25585,29 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "07a67d561a9b"
+  },
+  "1978f86d2e7f": {
+   "id": "1978f86d2e7f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Yemen hükümet güçleri Babülmendep Boğazı civarından çekiliyor",
+   "ozet": "Yemen hükümet güçleri, Aden'deki ana üslerini savunmaya odaklanmak amacıyla Babülmendep Boğazı çevresindeki bölgelerden çekildiklerini açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/cm4gnznnnxvxo",
+   "zaman": "2026-11-16T03:48:13+03:00",
+   "kelimeler": [
+    "babul",
+    "bogaz",
+    "cekil",
+    "civar",
+    "gucle",
+    "hukum",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "16.11 04:01:56  1 yeni haber",
   "16.11 03:46:13  1 yeni haber",
   "16.11 03:16:27  1 yeni haber",
   "16.11 03:01:33  3 yeni haber",
@@ -25809,8 +25806,7 @@
   "13.11 22:31:23  3 yeni haber",
   "13.11 22:16:24  2 yeni haber",
   "13.11 22:01:42  3 yeni haber",
-  "13.11 21:46:13  3 yeni haber",
-  "13.11 21:31:18  1 yeni haber"
+  "13.11 21:46:13  3 yeni haber"
  ],
  "otomatik": false
 }
