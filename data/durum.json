@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "3745a54bf095": {
-   "id": "3745a54bf095",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-   "ozet": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması, TBMM Genel Kurulu'nda kabul edilmesinin ardından 14 Kasım'da Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-   "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o",
-   "zaman": "2026-11-14T01:59:46+03:00",
-   "kelimeler": [
-    "anlas",
-    "gazet",
-    "girdi",
-    "mekke",
-    "resmi",
-    "yayim",
-    "yurur"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "c485b943c31b"
-  },
   "d6f753cb32a5": {
    "id": "d6f753cb32a5",
    "kaynak": "AA",
@@ -23842,7 +23822,10 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2e934d7f6164": {
    "id": "2e934d7f6164",
@@ -24875,6 +24858,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7b3d51f6f425": {
+   "id": "7b3d51f6f425",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kacır: COP31'de Yapay Zeka Destekli Temiz Teknoloji Girişimi'ni başlatıyoruz",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, COP31'de Yapay Zeka Destekli Temiz Teknolojiler Girişimi'ni başlattıklarını belirterek, girişimin yenilikçi yapay zeka destekli temiz teknolojilerini pratik uygulamaya geçirmek ve bunların sektörlerle ekonomiler genelinde…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-cop31de-yapay-zeka-destekli-temiz-teknoloji-girisimini-baslatiyoruz-963468.html",
+   "zaman": "2026-11-17T01:37:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "basla",
+    "cop31",
+    "deste",
+    "giris",
+    "kacir",
+    "ni",
+    "tekno",
+    "temiz",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9f5a43976f3f"
   }
  },
  "kayit": [
