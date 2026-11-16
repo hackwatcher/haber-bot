@@ -1,34 +1,5 @@
 {
  "haberler": {
-  "33fc2cd94e2b": {
-   "id": "33fc2cd94e2b",
-   "kaynak": "Hürriyet",
-   "baslik": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu",
-   "ozet": "Türkiye ile Katar arasında düzenlenen 12. Yüksek Stratejik Komite Toplantısı ortak bildirisinde, iki ülke arasında birçok alanda süren işbirliklerine ve anlaşmalara işaret edilerek, bölgesel istikrar ve güvenliğe yönelik çağrılarda bulunuldu.",
-   "link": "https://www.hurriyet.com.tr/gundem/turkiye-katar-yuksek-stratejik-komite-12-toplantisi-ortak-bildirisi-yayimlandi-terorle-mucadele-ve-isbirlikleri-vurgusu-43377680",
-   "zaman": "2026-11-13T23:28:51+03:00",
-   "kelimeler": [
-    "12",
-    "bildi",
-    "isbir",
-    "katar",
-    "komit",
-    "mucad",
-    "ortak",
-    "strat",
-    "teror",
-    "topla",
-    "turki",
-    "vurgu",
-    "yayim",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "87381441cccb": {
    "id": "87381441cccb",
    "kaynak": "TRT Haber",
@@ -25201,7 +25172,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "Sözcü"
    ]
   },
   "d6f646f93c0e": {
@@ -25301,9 +25273,52 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d6f646f93c0e"
+  },
+  "20052a1d8b62": {
+   "id": "20052a1d8b62",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum, Belçika Federal Hareketlilik, İklim ve Ekolojik Dönüşüm Bakanı Crucke ile görüştü",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 kapsamında Belçika Federal Hareketlilik, İklim ve Ekolojik Dönüşüm Bakanı Jean-Luc Crucke ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-belcika-federal-hareketlilik-iklim-ve-ekolojik-donusum-bakani-crucke-ile-gorustu-43380653",
+   "zaman": "2026-11-16T23:21:44+03:00",
+   "kelimeler": [
+    "bakan",
+    "belci",
+    "cruck",
+    "donus",
+    "ekolo",
+    "feder",
+    "gorus",
+    "harek",
+    "iklim",
+    "kurum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ecf78796c9cd": {
+   "id": "ecf78796c9cd",
+   "kaynak": "Sözcü",
+   "baslik": "Doğadan toplayıp yediler... 3'ü çocuk 5 kişi hastaneye kaldırıldı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/dogadan-toplayip-yediler-3u-cocuk-5-kisi-hastaneye-kaldirildi-p382029",
+   "zaman": "2026-11-16T23:27:44+03:00",
+   "kelimeler": [
+    "cocuk",
+    "dogad",
+    "hasta",
+    "kaldi",
+    "kisi",
+    "topla",
+    "yedil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "45f2d7de3926"
   }
  },
  "kayit": [
+  "16.11 23:31:42  1 yeni haber",
   "16.11 23:26:56  4 yeni haber",
   "16.11 23:16:25  3 yeni haber",
   "16.11 23:02:08  4 yeni haber",
@@ -25502,8 +25517,7 @@
   "14.11 20:01:50  1 yeni haber",
   "14.11 20:01:50  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "14.11 19:46:18  1 yeni haber",
-  "14.11 19:31:19  4 yeni haber",
-  "14.11 19:16:13  1 yeni haber"
+  "14.11 19:31:19  4 yeni haber"
  ],
  "otomatik": false
 }
