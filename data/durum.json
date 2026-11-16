@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "5b6f74610018": {
-   "id": "5b6f74610018",
-   "kaynak": "TRT Haber",
-   "baslik": "SpaceX ve Tesla arasında 3,7 trilyon dolarlık tarihi birleşme hazırlığı",
-   "ozet": "SpaceX ve Tesla arasında birleşme yönünde yürütülen görüşmelerin önemli ilerleme kaydetmesiyle birlikte, dünya tarihinin en büyük şirket birleşmesi hayata geçme yoluna girdi.",
-   "link": "https://www.trthaber.com/haber/dunya/spacex-ve-tesla-arasinda-37-trilyon-dolarlik-tarihi-birlesme-hazirligi-963140.html",
-   "zaman": "2026-11-13T07:50:00+03:00",
-   "kelimeler": [
-    "arasi",
-    "birle",
-    "dolar",
-    "hazir",
-    "space",
-    "tarih",
-    "tesla",
-    "trily"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f8b2f8624074": {
-   "id": "f8b2f8624074",
-   "kaynak": "Hürriyet",
-   "baslik": "42 ilde dev siber operasyon: Kişisel verileri ele geçirip tehdit ve şantaj yaptılar! Gözaltılar var",
-   "ozet": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyon düzenlendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/42-ilde-dev-siber-operasyon-kisisel-verileri-ele-gecirip-tehdit-ve-santaj-yaptilar-gozaltilar-var-43376461",
-   "zaman": "2026-11-13T07:51:31+03:00",
-   "kelimeler": [
-    "42",
-    "dev",
-    "ele",
-    "gecir",
-    "gozal",
-    "ilde",
-    "kisis",
-    "opera",
-    "santa",
-    "siber",
-    "tehdi",
-    "veril",
-    "yapti"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea78aae9f12d"
-  },
   "81a276cc0408": {
    "id": "81a276cc0408",
    "kaynak": "AA",
@@ -25003,8 +24957,17 @@
     "perde",
     "sir"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-16T08:05:29.912632+03:00",
+   "ig_id": "18020546672744938",
+   "reels_id": "18046026401836462",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2616405058843789",
+   "slayt": 5,
+   "kanca": "DİŞTEKİ İŞLEM ELE VERDİ"
   },
   "49aa93202a20": {
    "id": "49aa93202a20",
@@ -25097,9 +25060,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "08d86090dec1": {
+   "id": "08d86090dec1",
+   "kaynak": "TRT Haber",
+   "baslik": "Estonya, Rusya sınırındaki tüm geçiş noktalarını kapatıyor",
+   "ozet": "Estonya, Rus askeri istihbarat servisi GRU'nun talimatıyla düzenlendiği öne sürülen insansız hava aracı üreticisine yönelik sabotaj girişiminin ardından Rusya ile tüm sınır kapılarını 1 Aralık'tan itibaren kapatma kararı aldı.",
+   "link": "https://www.trthaber.com/haber/dunya/estonya-rusya-sinirindaki-tum-gecis-noktalarini-kapatiyor-963373.html",
+   "zaman": "2026-11-16T07:31:00+03:00",
+   "kelimeler": [
+    "eston",
+    "gecis",
+    "kapat",
+    "nokta",
+    "rusya",
+    "sinir",
+    "tum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "16.11 08:05:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Külden çıkan iz sır perdesini araladı",
+  "16.11 08:01:51  1 yeni haber",
   "16.11 07:46:37  1 yeni haber",
   "16.11 07:16:37  10 yeni haber",
   "16.11 07:03:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Erzurum'da 3,6 büyüklüğünde deprem",
@@ -25297,9 +25281,7 @@
   "14.11 00:46:11  4 yeni haber",
   "14.11 00:33:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Mekke Savunma Anlaşması yürürlüğe girdi",
   "14.11 00:31:16  7 yeni haber",
-  "14.11 00:16:08  3 yeni haber",
-  "14.11 00:04:12  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye 2027 yılında işitme engellilerin 4 dünya şampiyonasına ev sahi",
-  "14.11 00:01:26  4 yeni haber"
+  "14.11 00:16:08  3 yeni haber"
  ],
  "otomatik": false
 }
