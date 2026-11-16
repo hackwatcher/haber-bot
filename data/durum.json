@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "d6f753cb32a5": {
-   "id": "d6f753cb32a5",
-   "kaynak": "AA",
-   "baslik": "BM Güvenlik Konseyi'ndeki toplantıda ABD ile İran birbirini suçladı",
-   "ozet": "Orta Doğu'daki durumu ele almak için toplanan Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) ABD, İran'ı \"uluslararası deniz güvenliğini baltalamakla\" suçlarken İran da ABD'yi \"yasa dışı bir saldırganlık savaşı başlatmakla\" suçladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813",
-   "zaman": "2026-11-14T02:17:45+03:00",
-   "kelimeler": [
-    "abd",
-    "birbi",
-    "bm",
-    "guven",
-    "iran",
-    "konse",
-    "ndeki",
-    "sucla",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d2789da593d5": {
-   "id": "d2789da593d5",
-   "kaynak": "AA",
-   "baslik": "ABD'de Demokrat aday Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Boebert'i mağlup etti",
-   "ozet": "ABD ara seçimlerinde Colorado eyaletinin 4. Kongre Bölgesi’nde yarışan Demokrat aday Eileen Laubacher, Cumhuriyetçi Temsilciler Meclisi Üyesi Lauren Boebert'i mağlup ederek seçimi kazandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokrat-aday-laubacher-cumhuriyetci-temsilciler-meclisi-uyesi-boeberti-maglup-etti/4124815",
-   "zaman": "2026-11-14T02:18:11+03:00",
-   "kelimeler": [
-    "abd",
-    "aday",
-    "boebe",
-    "cumhu",
-    "demok",
-    "etti",
-    "lauba",
-    "maglu",
-    "mecli",
-    "temsi",
-    "uyesi"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "f0627ee38def": {
    "id": "f0627ee38def",
    "kaynak": "Hürriyet",
@@ -67,28 +23,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5f5a3dbedcac"
-  },
-  "430e123126d1": {
-   "id": "430e123126d1",
-   "kaynak": "AA",
-   "baslik": "Prof. Dr. Gürkan Kumbaroğlu'ndan ihracatta \"karbon ayak izi\" uyarısı",
-   "ozet": "Boğaziçi Üniversitesi Öğretim Üyesi ve Enerji Ekonomisi Derneği Başkanı Prof. Dr. Gürkan Kumbaroğlu, \"Türkiye'de üretilen ürünlerin karbon ayak izlerine bakmak durumundayız çünkü bu oran yüksekse ihracatta ek bir maliyet söz konusu oluyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/prof-dr-gurkan-kumbaroglundan-ihracatta-karbon-ayak-izi-uyarisi/4124814",
-   "zaman": "2026-11-14T02:18:01+03:00",
-   "kelimeler": [
-    "ayak",
-    "dr",
-    "gurka",
-    "ihrac",
-    "izi",
-    "karbo",
-    "kumba",
-    "ndan",
-    "prof",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "29f032bd702f": {
    "id": "29f032bd702f",
@@ -15543,7 +15477,10 @@
    "fb_id": null,
    "fb_reels_id": "1005445488631491",
    "slayt": 4,
-   "kanca": "YERİN 7 KM DERİNLİĞİNDE"
+   "kanca": "YERİN 7 KM DERİNLİĞİNDE",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bd96ed47d663": {
    "id": "bd96ed47d663",
@@ -24936,9 +24873,45 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6d0fde47f780": {
+   "id": "6d0fde47f780",
+   "kaynak": "TRT Haber",
+   "baslik": "Çorum'da polisten kaçan ehliyetsiz sürücü 4 araca çarptı",
+   "ozet": "Çorum'da polisin \"dur\" ihtarına uymayarak kaçan ehliyetsiz sürücü, aralarında bir polis aracının da bulunduğu 4 araca çarptı. Kazada 4 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/corumda-polisten-kacan-ehliyetsiz-surucu-4-araca-carpti-963469.html",
+   "zaman": "2026-11-17T01:55:00+03:00",
+   "kelimeler": [
+    "araca",
+    "carpt",
+    "corum",
+    "ehliy",
+    "kacan",
+    "polis",
+    "suruc"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "734481a2ab46": {
+   "id": "734481a2ab46",
+   "kaynak": "TRT Haber",
+   "baslik": "Endonezya'da 6,6 büyüklüğünde deprem",
+   "ozet": "Endonezya'da 6,6 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.trthaber.com/haber/dunya/endonezyada-66-buyuklugunde-deprem-963470.html",
+   "zaman": "2026-11-17T02:14:00+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "endon"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "95a2ed96f7df"
   }
  },
  "kayit": [
+  "17.11 02:31:33  1 yeni haber",
   "17.11 02:16:07  1 yeni haber",
   "17.11 01:16:12  1 yeni haber",
   "17.11 01:03:48  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Sarıgül ailesi soruşturması: Dokuz kişi daha tutuklandı",
@@ -25137,8 +25110,7 @@
   "14.11 22:31:25  3 yeni haber",
   "14.11 22:16:08  1 yeni haber",
   "14.11 22:02:01  2 yeni haber",
-  "14.11 21:46:17  4 yeni haber",
-  "14.11 21:31:17  1 yeni haber"
+  "14.11 21:46:17  4 yeni haber"
  ],
  "otomatik": false
 }
