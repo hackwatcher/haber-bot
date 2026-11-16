@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "ef71f814cee5": {
-   "id": "ef71f814cee5",
-   "kaynak": "AA",
-   "baslik": "Borsa günü yükselişle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,27 değer kazanarak 11.842,82 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4124427",
-   "zaman": "2026-11-13T18:24:55+03:00",
-   "kelimeler": [
-    "borsa",
-    "gunu",
-    "tamam",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "3ad3eabbf1bd": {
-   "id": "3ad3eabbf1bd",
-   "kaynak": "AA",
-   "baslik": "İzmir'de fabrikadaki patlamada hayatını kaybedenlerin sayısı 19'a yükseldi",
-   "ozet": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamanın ardından aranan işçi Barış Güney'in cenazesine ulaşılmasıyla hayatını kaybedenlerin sayısı 19'a yükseldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamada-hayatini-kaybedenlerin-sayisi-19a-yukseldi/4124450",
-   "zaman": "2026-11-13T18:27:26+03:00",
-   "kelimeler": [
-    "19",
-    "fabri",
-    "hayat",
-    "izmir",
-    "kaybe",
-    "patla",
-    "sayis",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a017d239cc8b"
-  },
-  "da76a5381f25": {
-   "id": "da76a5381f25",
-   "kaynak": "Hürriyet",
-   "baslik": "Tarihi mozaik bulunan alanda kazı yaptılar… Bir şüpheli gözaltında",
-   "ozet": "ANKARA'nın Beypazarı ilçesinde boş arazide tarihi eser niteliğinde olduğu değerlendirilen zemin mozaiğinin bulunduğu alanda kazı yapan şüpheli gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/tarihi-mozaik-bulunan-alanda-kazi-yaptilar-bir-supheli-gozaltinda-43377482",
-   "zaman": "2026-11-13T18:28:43+03:00",
-   "kelimeler": [
-    "aland",
-    "bulun",
-    "gozal",
-    "kazi",
-    "mozai",
-    "suphe",
-    "tarih",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "63d9370838ef": {
    "id": "63d9370838ef",
    "kaynak": "Hürriyet",
@@ -122,26 +65,6 @@
    "fb_reels_id": "1774853183584066",
    "slayt": 5,
    "kanca": "GRAM ALTIN GERİLEDİ"
-  },
-  "6149c8273a84": {
-   "id": "6149c8273a84",
-   "kaynak": "TRT Haber",
-   "baslik": "BM: Yemen'de yerinden edilenlerin sayısı 340 bini aştı",
-   "ozet": "Birleşmiş Milletler BM Uluslararası Göç Örgütü IOM, çatışmaların yaşandığı Yemen'de 340 binden fazla kişinin yerinden edilmek zorunda kaldığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/bm-yemende-yerinden-edilenlerin-sayisi-340-bini-asti-963205.html",
-   "zaman": "2026-11-13T18:22:00+03:00",
-   "kelimeler": [
-    "340",
-    "asti",
-    "bini",
-    "bm",
-    "edile",
-    "sayis",
-    "yemen",
-    "yerin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "e25c881adcbc": {
    "id": "e25c881adcbc",
@@ -22071,7 +21994,8 @@
     "istan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "428dcf10dee4": {
    "id": "428dcf10dee4",
@@ -25299,7 +25223,8 @@
     "talep"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "0070d5824de3": {
    "id": "0070d5824de3",
@@ -25324,9 +25249,72 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e41623ea7389": {
+   "id": "e41623ea7389",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakırköy Belediyesi soruşturmasında dosyalar ayrıldı... “İcbar suretiyle irtikap” iddiasıyla kamu davası açıldı",
+   "ozet": "Bakırköy Belediyesi'ne yönelik yürütülen soruşturmada, “İcbar suretiyle irtikap” suçlamalarına ilişkin dosya ihaleye fesat karıştırma soruşturmasından ayrıldı. 2 ayrı işyerinden baskı yoluyla para talep edildiği iddialarına ilişkin Bakırköy 24.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesi-sorusturmasinda-dosyalar-ayrildi-icbar-suretiyle-irtikap-iddiasiyla-kamu-davasi-acildi-43380482",
+   "zaman": "2026-11-16T18:10:00+03:00",
+   "kelimeler": [
+    "acild",
+    "ayril",
+    "bakir",
+    "beled",
+    "davas",
+    "dosya",
+    "icbar",
+    "iddia",
+    "irtik",
+    "kamu",
+    "sorus",
+    "suret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cdb02b61a917"
+  },
+  "08df085a851f": {
+   "id": "08df085a851f",
+   "kaynak": "AA",
+   "baslik": "Bu hafta birçok ülkede kültür sanat etkinliği gerçekleştirilecek",
+   "ozet": "Dünyada bu hafta festivallerden fuarlara, tiyatro gösterilerinden söyleşilere ve sergilerden konserlere birçok etkinlik düzenlenecek.",
+   "link": "https://www.aa.com.tr/tr/kultur/bu-hafta-bircok-ulkede-kultur-sanat-etkinligi-gerceklestirilecek/4126913",
+   "zaman": "2026-11-16T18:17:51+03:00",
+   "kelimeler": [
+    "birco",
+    "etkin",
+    "gerce",
+    "hafta",
+    "kultu",
+    "sanat",
+    "ulked"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "82721aebb887"
+  },
+  "0344fc2fb71c": {
+   "id": "0344fc2fb71c",
+   "kaynak": "AA",
+   "baslik": "Borsa günü yatay seyirle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.841,81 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4126916",
+   "zaman": "2026-11-16T18:23:49+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "seyir",
+    "tamam",
+    "yatay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "16.11 18:32:20  1 yeni haber",
   "16.11 18:20:13  2 yeni haber",
   "16.11 18:02:30  6 yeni haber",
   "16.11 17:48:36  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Cumhurbaşkanı Erdoğan, Sezai Karakoç'u andı",
@@ -25525,8 +25513,7 @@
   "14.11 16:01:31  2 yeni haber",
   "14.11 15:46:01  3 yeni haber",
   "14.11 15:18:15  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Çankırı'da feci kaza! Hafif ticari araç bariyere çarptı: 2 ölü, 1 yara",
-  "14.11 15:16:04  6 yeni haber",
-  "14.11 15:01:29  7 yeni haber"
+  "14.11 15:16:04  6 yeni haber"
  ],
  "otomatik": false
 }
