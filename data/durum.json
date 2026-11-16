@@ -1,168 +1,5 @@
 {
  "haberler": {
-  "ea78aae9f12d": {
-   "id": "ea78aae9f12d",
-   "kaynak": "TRT Haber",
-   "baslik": "43 ilde kişisel verileri satanlara operasyon",
-   "ozet": "Kişisel verileri satanlara operasyon düzenlendi. İstanbul merkezli 42 ilde düzenlenen eş zamanlı operasyon kapsamında çok sayıda şüpheli gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/43-ilde-kisisel-verileri-satanlara-operasyon-963137.html",
-   "zaman": "2026-11-13T07:35:00+03:00",
-   "kelimeler": [
-    "43",
-    "ilde",
-    "kisis",
-    "opera",
-    "satan",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü",
-    "AA",
-    "Hürriyet",
-    "NTV"
-   ]
-  },
-  "05ac83b531be": {
-   "id": "05ac83b531be",
-   "kaynak": "Sözcü",
-   "baslik": "43 ilde kişisel veri operasyonu: 101 kişi gözaltına alındı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/43-ilde-kisisel-veri-operasyonu-101-kisi-gozaltina-alindi-p380867",
-   "zaman": "2026-11-13T07:43:02+03:00",
-   "kelimeler": [
-    "101",
-    "43",
-    "alind",
-    "gozal",
-    "ilde",
-    "kisi",
-    "kisis",
-    "opera",
-    "veri"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea78aae9f12d"
-  },
-  "c55a1905fa36": {
-   "id": "c55a1905fa36",
-   "kaynak": "TRT Haber",
-   "baslik": "Kişisel verileri ele geçirenlere 42 ilde operasyon",
-   "ozet": "Kişisel verileri yasa dışı yollarla ele geçiren şüphelilere İstanbul merkezli 42 ilde operasyon düzenlendi. Yapay zeka destekli AVCI Projesi'nin kullanıldığı operasyonlar kapsamında çok sayıda şüpheli gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/kisisel-verileri-ele-gecirenlere-42-ilde-operasyon-963137.html",
-   "zaman": "2026-11-13T07:35:00+03:00",
-   "kelimeler": [
-    "42",
-    "ele",
-    "gecir",
-    "ilde",
-    "kisis",
-    "opera",
-    "veril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea78aae9f12d"
-  },
-  "bf827116d092": {
-   "id": "bf827116d092",
-   "kaynak": "Hürriyet",
-   "baslik": "Fırtına ve sağanak kapıda! Aralarında İstanbul da var: 11 ilde alarm | Yağışlı hava tüm yurda yayılıyor: Hava bir anda değişecek",
-   "ozet": "Türkiye'nin kuzey ve doğu bölgelerinde sıcaklıklar artışa geçerken, batı kesimler hafta sonuyla birlikte şiddetli yağışların etkisi altına giriyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/firtina-ve-saganak-kapida-aralarinda-istanbul-da-var-11-ilde-alarm-yagisli-hava-tum-yurda-yayiliyor-hava-bir-anda-degisecek-43376454",
-   "zaman": "2026-11-13T07:40:00+03:00",
-   "kelimeler": [
-    "11",
-    "alarm",
-    "anda",
-    "arala",
-    "degis",
-    "firti",
-    "hava",
-    "ilde",
-    "istan",
-    "kapid",
-    "sagan",
-    "tum",
-    "yagis",
-    "yayil",
-    "yurda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c901b2d7af8d": {
-   "id": "c901b2d7af8d",
-   "kaynak": "TRT Haber",
-   "baslik": "FBI, ABD'nin Binance'ten çalınan 1,2 milyar dolar değerindeki kripto paraya el koyduğunu açıkladı",
-   "ozet": "ABD Federal Soruşturma Bürosu FBI, perşembe günü yaptığı açıklamada, dünyanın en büyük kripto para borsası Binance'ten geçen ay çalındığı bildirilen 1,2 milyar dolardan fazla kripto paraya el koyduğunu duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/fbi-abdnin-binanceten-calinan-12-milyar-dolar-degerindeki-kripto-paraya-el-koydugunu-acikladi-963138.html",
-   "zaman": "2026-11-13T07:41:00+03:00",
-   "kelimeler": [
-    "abd",
-    "binan",
-    "calin",
-    "deger",
-    "dolar",
-    "el",
-    "fbi",
-    "koydu",
-    "kript",
-    "milya",
-    "nin",
-    "paray",
-    "ten"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "ba722f2348be": {
-   "id": "ba722f2348be",
-   "kaynak": "TRT Haber",
-   "baslik": "Apple'dan 99 ülkedeki kullanıcılara casus yazılım uyarısı",
-   "ozet": "Taylandlı yetkililer, 99 ülkedeki kullanıcıları kapsayan küresel bir uyarı kapsamında siyasetçilerin ve diğer kişilerin casus yazılım saldırılarının hedefi olmuş olabileceğine dair bildirimler almasının ardından Apple yöneticileriyle bir araya geldi.",
-   "link": "https://www.trthaber.com/haber/dunya/appledan-99-ulkedeki-kullanicilara-casus-yazilim-uyarisi-963139.html",
-   "zaman": "2026-11-13T07:44:00+03:00",
-   "kelimeler": [
-    "99",
-    "apple",
-    "casus",
-    "dan",
-    "kulla",
-    "ulked",
-    "uyari",
-    "yazil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f12961d9b16c": {
-   "id": "f12961d9b16c",
-   "kaynak": "AA",
-   "baslik": "İstanbul merkezli 42 ilde \"kişisel verileri\" ele geçirenlere operasyon",
-   "ozet": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyon düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-operasyon/4123576",
-   "zaman": "2026-11-13T07:46:16+03:00",
-   "kelimeler": [
-    "42",
-    "ele",
-    "gecir",
-    "ilde",
-    "istan",
-    "kisis",
-    "merke",
-    "opera",
-    "veril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea78aae9f12d"
-  },
   "5b6f74610018": {
    "id": "5b6f74610018",
    "kaynak": "TRT Haber",
@@ -233,26 +70,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "9821306a89a1": {
-   "id": "9821306a89a1",
-   "kaynak": "Sözcü",
-   "baslik": "Mustafa Sarıgül'ün diğer oğlu daha etkin pişmanlığa başvuracak",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/mustafa-sarigul-un-diger-oglu-daha-etkin-pismanliga-basvuracak-p380815",
-   "zaman": "2026-11-13T07:42:22+03:00",
-   "kelimeler": [
-    "basvu",
-    "diger",
-    "etkin",
-    "musta",
-    "oglu",
-    "pisma",
-    "sarig",
-    "un"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "c062adf783cf": {
    "id": "c062adf783cf",
@@ -500,32 +317,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b632fc7a562b"
-  },
-  "f9befee49977": {
-   "id": "f9befee49977",
-   "kaynak": "AA",
-   "baslik": "İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik operasyonda 79 zanlı gözaltında",
-   "ozet": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyonda 79 şüpheli gözaltına alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-42-ilde-kisisel-verileri-ele-gecirenlere-yonelik-operasyonda-79-zanli-gozaltinda/4123576",
-   "zaman": "2026-11-13T07:46:16+03:00",
-   "kelimeler": [
-    "42",
-    "79",
-    "ele",
-    "gecir",
-    "gozal",
-    "ilde",
-    "istan",
-    "kisis",
-    "merke",
-    "opera",
-    "veril",
-    "yonel",
-    "zanli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea78aae9f12d"
   },
   "dbcdf595e6c0": {
    "id": "dbcdf595e6c0",
@@ -25284,9 +25075,32 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "496b12f0ba43": {
+   "id": "496b12f0ba43",
+   "kaynak": "TRT Haber",
+   "baslik": "Kenya'da tarikat liderine 191 kişinin ölümünden 200 yıl hapis cezası",
+   "ozet": "Kenya'da müritlerini aç bırakarak cennete ulaşabileceklerine inandıran tarikat lideri Paul Mackenzie, 191 kişinin ölümünden dolayı 200 yıl hapis cezasına çarptırıldı. Hayatını kaybedenlerin 190'ının çocuk olduğu davada, kurbanların büyük bölümünün açlıktan öldüğü belirlendi.",
+   "link": "https://www.trthaber.com/haber/dunya/kenyada-tarikat-liderine-191-kisinin-olumunden-200-yil-hapis-cezasi-963372.html",
+   "zaman": "2026-11-16T07:28:00+03:00",
+   "kelimeler": [
+    "191",
+    "200",
+    "cezas",
+    "hapis",
+    "kenya",
+    "kisin",
+    "lider",
+    "olumu",
+    "tarik",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "16.11 07:46:37  1 yeni haber",
   "16.11 07:16:37  10 yeni haber",
   "16.11 07:03:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Erzurum'da 3,6 büyüklüğünde deprem",
   "16.11 07:01:24  1 yeni haber",
@@ -25485,8 +25299,7 @@
   "14.11 00:31:16  7 yeni haber",
   "14.11 00:16:08  3 yeni haber",
   "14.11 00:04:12  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye 2027 yılında işitme engellilerin 4 dünya şampiyonasına ev sahi",
-  "14.11 00:01:26  4 yeni haber",
-  "13.11 23:46:06  1 yeni haber"
+  "14.11 00:01:26  4 yeni haber"
  ],
  "otomatik": false
 }
