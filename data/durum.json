@@ -46,35 +46,6 @@
    "oncelikli": false,
    "tekrar_of": "dd87af5b2b97"
   },
-  "dcb818c092a5": {
-   "id": "dcb818c092a5",
-   "kaynak": "AA",
-   "baslik": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, \"Lübnan-Türkiye Stratejik Liderlik Diyaloğu\" toplantısına katıldı",
-   "ozet": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan, Suriye ve komşu ülkelerin istikrarının Türkiye'nin doğrudan çıkarına olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-turkiye-stratejik-liderlik-diyalogu-toplantisina-katildi/4123556",
-   "zaman": "2026-11-13T03:40:11+03:00",
-   "kelimeler": [
-    "baska",
-    "diyal",
-    "erdog",
-    "heyet",
-    "ilim",
-    "katil",
-    "lider",
-    "lubna",
-    "mutev",
-    "strat",
-    "topla",
-    "turki",
-    "vakfi",
-    "yayma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "79764303d63b": {
    "id": "79764303d63b",
    "kaynak": "Hürriyet",
@@ -15925,7 +15896,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "dbe74c30146e": {
@@ -23778,7 +23750,8 @@
    "fb_id": null,
    "fb_reels_id": "1666702975048774",
    "slayt": 5,
-   "kanca": "RÖMORKA ÇARPTI"
+   "kanca": "RÖMORKA ÇARPTI",
+   "diger_kaynaklar": []
   },
   "eb0993969051": {
    "id": "eb0993969051",
@@ -25016,7 +24989,10 @@
     "yolcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "eaaed00a6f97": {
    "id": "eaaed00a6f97",
@@ -25552,9 +25528,90 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c6f1112441de": {
+   "id": "c6f1112441de",
+   "kaynak": "Hürriyet",
+   "baslik": "Denizli’de otomobil traktöre çarptı: 2 ölü, 4 yaralı",
+   "ozet": "Denizli’nin Honaz ilçesinde, otomobilin önünde giden traktörün römorkuna çarptığı kazada traktör sürücüsü Mehmet Yenitürk (48) ile eşi Nurcan Yenitürk (45) hayatını kaybetti, 4 kişi de yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/denizlide-otomobil-traktore-carpti-2-olu-4-yarali-43379384",
+   "zaman": "2026-11-15T18:43:00+03:00",
+   "kelimeler": [
+    "carpt",
+    "deniz",
+    "olu",
+    "otomo",
+    "trakt",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "feb76fa2730f"
+  },
+  "227a3caa59cb": {
+   "id": "227a3caa59cb",
+   "kaynak": "Hürriyet",
+   "baslik": "Muş’ta jandarmadan ruhsatsız silah operasyonu",
+   "ozet": "Muş’un Varto ilçesinde jandarma ekiplerince 4 şüphelinin evinde yapılan aramalarda 4 ruhsatsız tabanca, 3 av tüfeği ve çok sayıda mühimmat ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/musta-jandarmadan-ruhsatsiz-silah-operasyonu-43379606",
+   "zaman": "2026-11-16T03:30:10+03:00",
+   "kelimeler": [
+    "janda",
+    "mus",
+    "opera",
+    "ruhsa",
+    "silah",
+    "ta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6abd22737a32": {
+   "id": "6abd22737a32",
+   "kaynak": "Hürriyet",
+   "baslik": "KKTC’nin 43. kuruluş yıl dönümünde Cumhurbaşkanlığı’nda resepsiyon düzenlendi",
+   "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) kuruluşunun 43. yıl dönümü dolayısıyla Cumhurbaşkanlığı'nda resepsiyon düzenlendi. Cumhurbaşkanı Tufan Erhürman, \"El eleyiz, yürek yüreğiz, gönül gönüleyiz. Hep de böyle olacak. Buna güvenimiz sonsuz.",
+   "link": "https://www.hurriyet.com.tr/gundem/kktcnin-43-kurulus-yil-donumunde-cumhurbaskanliginda-resepsiyon-duzenlendi-43379607",
+   "zaman": "2026-11-16T03:31:39+03:00",
+   "kelimeler": [
+    "43",
+    "cumhu",
+    "donum",
+    "duzen",
+    "kktc",
+    "kurul",
+    "nda",
+    "nin",
+    "resep",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ec0a9e5cc919"
+  },
+  "7956a6e8f6c9": {
+   "id": "7956a6e8f6c9",
+   "kaynak": "Hürriyet",
+   "baslik": "Nevşehir’de yolcu otobüsü ata çarptı: 1 ölü, 2 yaralı",
+   "ozet": "Nevşehir’de yolcu otobüsünün aniden yola çıkan ata çarpması sonucu meydana gelen kazada yedek şoför hayatını kaybederken, otobüs şoförü ve 1 yolcu yaralandı. Kazada at da telef oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/nevsehirde-yolcu-otobusu-ata-carpti-1-olu-2-yarali-43379610",
+   "zaman": "2026-11-16T03:34:48+03:00",
+   "kelimeler": [
+    "ata",
+    "carpt",
+    "nevse",
+    "olu",
+    "otobu",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "07a67d561a9b"
   }
  },
  "kayit": [
+  "16.11 03:46:13  1 yeni haber",
   "16.11 03:16:27  1 yeni haber",
   "16.11 03:01:33  3 yeni haber",
   "16.11 02:31:21  1 yeni haber",
@@ -25753,8 +25810,7 @@
   "13.11 22:16:24  2 yeni haber",
   "13.11 22:01:42  3 yeni haber",
   "13.11 21:46:13  3 yeni haber",
-  "13.11 21:31:18  1 yeni haber",
-  "13.11 21:16:11  3 yeni haber"
+  "13.11 21:31:18  1 yeni haber"
  ],
  "otomatik": false
 }
