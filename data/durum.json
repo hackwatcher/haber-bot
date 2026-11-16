@@ -24,28 +24,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "3f37027ab0c9": {
-   "id": "3f37027ab0c9",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Memişoğlu duyurdu: Diyaliz hastalarımızın tedavi süreçlerinde kolaylık dönemini başlatıyoruz",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"Bugün Resmi Gazete'de yayımlanarak yürürlüğe giren 'Diyaliz Merkezleri Hakkında Yönetmelik' ile diyaliz hastalarımızın tedavi süreçlerinde yepyeni bir kolaylık dönemini başlatıyoruz\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-duyurdu-diyaliz-hastalarimizin-tedavi-sureclerinde-kolaylik-donemini-baslatiyoruz-43377032",
-   "zaman": "2026-11-13T14:04:22+03:00",
-   "kelimeler": [
-    "bakan",
-    "basla",
-    "diyal",
-    "donem",
-    "duyur",
-    "hasta",
-    "kolay",
-    "memis",
-    "surec",
-    "tedav"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "2921a821be9e": {
    "id": "2921a821be9e",
    "kaynak": "Hürriyet",
@@ -23035,7 +23013,10 @@
     "rekor"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "b26cdcb841d8": {
    "id": "b26cdcb841d8",
@@ -25043,6 +25024,32 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cfeb1ebec8c2": {
+   "id": "cfeb1ebec8c2",
+   "kaynak": "AA",
+   "baslik": "Türk Telekom'un dijital altyapısını üstlendiği COP31'de eş zamanlı bağlı cihaz rekoru kırıldı",
+   "ozet": "Türk Telekom'un \"Küresel Dijital Dönüşüm ve Teknoloji Destekçisi\" olarak yer aldığı COP31'de, Mavi Bölge'de eş zamanlı bağlı cihaz sayısı 27 bin 794'e ulaşarak, COP organizasyonları tarihindeki en yüksek seviyeye çıktı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-dijital-altyapisini-ustlendigi-cop31de-es-zamanli-bagli-cihaz-rekoru-kirildi/4126498",
+   "zaman": "2026-11-16T13:59:25+03:00",
+   "kelimeler": [
+    "altya",
+    "bagli",
+    "cihaz",
+    "cop31",
+    "dijit",
+    "es",
+    "kiril",
+    "rekor",
+    "telek",
+    "turk",
+    "un",
+    "ustle",
+    "zaman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "92fb3e2eaaaf"
   }
  },
  "kayit": [
