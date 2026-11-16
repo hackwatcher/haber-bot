@@ -1,76 +1,5 @@
 {
  "haberler": {
-  "4c19ac1d85c1": {
-   "id": "4c19ac1d85c1",
-   "kaynak": "AA",
-   "baslik": "Anadolu Efes, Virtus Bologna'yı 103-91 yendi",
-   "ozet": "Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında Anadolu Efes, sahasında İtalya ekibi Virtus Bologna'yı 103-91 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-virtus-bolognayi-103-91-yendi/4124720",
-   "zaman": "2026-11-13T22:52:02+03:00",
-   "kelimeler": [
-    "103",
-    "91",
-    "anado",
-    "bolog",
-    "efes",
-    "virtu",
-    "yendi",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "52750d6ba3dd"
-  },
-  "1e72ef2dc7c9": {
-   "id": "1e72ef2dc7c9",
-   "kaynak": "TRT Haber",
-   "baslik": "AB, Ukrayna müzakereleri için Avrupa'yı temsil edecek ekibi belirledi",
-   "ozet": "Avrupa Birliği AB Konseyi Başkanı Antonio Costa, liderlerin Ukrayna'da barış müzakerelerinde Avrupa'yı temsil edecek ekibin AB kurumları ile Almanya, Polonya, Fransa, İtalya ve İngiltere'nin yer aldığı E5 grubundan oluşması konusunda anlaştığını bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/ab-ukrayna-muzakereleri-icin-avrupayi-temsil-edecek-ekibi-belirledi-963225.html",
-   "zaman": "2026-11-13T22:50:00+03:00",
-   "kelimeler": [
-    "ab",
-    "avrup",
-    "belir",
-    "edece",
-    "ekibi",
-    "muzak",
-    "temsi",
-    "ukray",
-    "yi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "b06a1a44b78b": {
-   "id": "b06a1a44b78b",
-   "kaynak": "AA",
-   "baslik": "AB, Ukrayna müzakerelerinde Avrupa'yı temsil edecek 5 ülke ve AB kurumlarından oluşan ekip üzerinde anlaştı",
-   "ozet": "AB Konseyi Başkanı Antonio Costa, liderlerin Ukrayna'da barış müzakerelerinde Avrupa'yı temsil edecek ekibin AB kurumları ile Almanya, Polonya, Fransa, İtalya ve İngiltere'nin yer aldığı E5 grubundan oluşması konusunda anlaştığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-muzakerelerinde-avrupayi-temsil-edecek-5-ulke-ve-ab-kurumlarindan-olusan-ekip-uzerinde-anlasti/4124715",
-   "zaman": "2026-11-13T22:48:17+03:00",
-   "kelimeler": [
-    "ab",
-    "anlas",
-    "avrup",
-    "edece",
-    "ekip",
-    "kurum",
-    "muzak",
-    "olusa",
-    "temsi",
-    "ukray",
-    "ulke",
-    "uzeri",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1e72ef2dc7c9"
-  },
   "aea5e48b0b43": {
    "id": "aea5e48b0b43",
    "kaynak": "Sözcü",
@@ -24070,7 +23999,10 @@
     "usuls"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "98a0ea7e6e4e": {
    "id": "98a0ea7e6e4e",
@@ -25043,10 +24975,174 @@
     "ye"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "5ac1d79a9bbd": {
+   "id": "5ac1d79a9bbd",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri: ITU Konsey üyeliği, Türkiye'ye bilim ve teknolojide duyulan güvenin teyididir",
+   "ozet": "Dışişleri Bakanlığı, Türkiye'nin üst üste 7. kez Uluslararası Telekomünikasyon Birliği ITU konsey üyeliğine seçilmesinin, ülkeye uluslararası düzeyde duyulan güvenin güçlü bir teyidi olduğunu vurguladı.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-itu-konsey-uyeligi-turkiyeye-bilim-ve-teknolojide-duyulan-guvenin-teyididir-963455.html",
+   "zaman": "2026-11-16T22:22:00+03:00",
+   "kelimeler": [
+    "bilim",
+    "disis",
+    "duyul",
+    "guven",
+    "itu",
+    "konse",
+    "tekno",
+    "teyid",
+    "turki",
+    "uyeli",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b35791640b59"
+  },
+  "404a220c1232": {
+   "id": "404a220c1232",
+   "kaynak": "TRT Haber",
+   "baslik": "Araştırma: ABD'deki 403 veri merkezinin yıllık karbondioksit salımı küçük bir Avrupa ülkesinden fazla",
+   "ozet": "ABD merkezli araştırmada, ülkedeki en büyük 403 veri merkezinin bir yıllık karbondioksit salımının, küçük bir Avrupa ülkesinin toplam yıllık salımını aştığı ortaya kondu.",
+   "link": "https://www.trthaber.com/haber/dunya/arastirma-abddeki-403-veri-merkezinin-yillik-karbondioksit-salimi-kucuk-bir-avrupa-ulkesinden-fazla-963456.html",
+   "zaman": "2026-11-16T22:26:00+03:00",
+   "kelimeler": [
+    "403",
+    "abd",
+    "arast",
+    "avrup",
+    "deki",
+    "fazla",
+    "karbo",
+    "kucuk",
+    "merke",
+    "salim",
+    "ulkes",
+    "veri",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15af255117e5": {
+   "id": "15af255117e5",
+   "kaynak": "AA",
+   "baslik": "ABD'li bazı bankaların çevrim içi hizmetlerinde kesintiler yaşandığı bildirildi",
+   "ozet": "Chase, Bank of America ve Wells Fargo'nun da aralarında bulunduğu bazı ABD'li bankaların müşterilerinin çevrim içi olarak hesaplarına erişmekte sorunlar yaşadığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-bildirildi/4127070",
+   "zaman": "2026-11-16T22:26:43+03:00",
+   "kelimeler": [
+    "abd",
+    "banka",
+    "bazi",
+    "bildi",
+    "cevri",
+    "hizme",
+    "ici",
+    "kesin",
+    "li",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "9477415b2cb7": {
+   "id": "9477415b2cb7",
+   "kaynak": "Hürriyet",
+   "baslik": "Minguzzi'nin ölümüne ilişkin tehdit paylaşımları yapan şüpheli tutuklandı",
+   "ozet": "KADIKÖY’de uğradığı bıçaklı saldırı sonucu hayatını kaybeden Ahmet Mattia Minguzzi'nin ölümüne ilişkin sanal medyadan tehdit içerikli paylaşımlarda bulunduğu belirlenen Müslüm Ayberk Doğan, gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/minguzzinin-olumune-iliskin-tehdit-paylasimlari-yapan-supheli-tutuklandi-43380631",
+   "zaman": "2026-11-16T22:27:12+03:00",
+   "kelimeler": [
+    "ilisk",
+    "mingu",
+    "nin",
+    "olumu",
+    "payla",
+    "suphe",
+    "tehdi",
+    "tutuk",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "880ea5ce0076": {
+   "id": "880ea5ce0076",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'li bazı bankaların çevrim içi hizmetlerinde kesintiler yaşandığı duyuruldu",
+   "ozet": "Chase, Bank of America ve Wells Fargo'nun da aralarında bulunduğu bazı ABD'li bankaların müşterilerinin çevrim içi olarak hesaplarına erişmekte sorunlar yaşadığı duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-duyuruldu-963458.html",
+   "zaman": "2026-11-16T22:31:00+03:00",
+   "kelimeler": [
+    "abd",
+    "banka",
+    "bazi",
+    "cevri",
+    "duyur",
+    "hizme",
+    "ici",
+    "kesin",
+    "li",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "15af255117e5"
+  },
+  "17edea9e3345": {
+   "id": "17edea9e3345",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakırköy Belediyesi'ne yönelik irtikap soruşturmasında 9 şüpheli hakkında iddianame",
+   "ozet": "Bakırköy Belediyesinde ruhsat ve tadilat işlemleri karşılığında para istendiği iddialarına ilişkin soruşturma tamamlandı. Aralarında belediye başkan yardımcılarının da bulunduğu 9 şüpheli hakkında iddianame hazırlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bakirkoy-belediyesine-yonelik-irtikap-sorusturmasinda-9-supheli-hakkinda-iddianame-963457.html",
+   "zaman": "2026-11-16T22:31:00+03:00",
+   "kelimeler": [
+    "bakir",
+    "beled",
+    "hakki",
+    "iddia",
+    "irtik",
+    "sorus",
+    "suphe",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "36f17af636c0"
+  },
+  "22e17454a7e0": {
+   "id": "22e17454a7e0",
+   "kaynak": "TRT Haber",
+   "baslik": "İran ordusu: Hürmüz Boğazı'nda MQ1 tipi İHA düşürüldü",
+   "ozet": "İran ordusu, Hürmüz Boğazı üzerinde tespit edilen MQ1 tipi insansız hava aracının İHA hava savunma sistemleri tarafından düşürüldüğünü duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-963459.html",
+   "zaman": "2026-11-16T22:54:00+03:00",
+   "kelimeler": [
+    "bogaz",
+    "dusur",
+    "hurmu",
+    "iha",
+    "iran",
+    "mq1",
+    "nda",
+    "ordus",
+    "tipi"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "16.11 23:02:08  4 yeni haber",
   "16.11 22:31:22  1 yeni haber",
   "16.11 22:17:15  6 yeni haber",
   "16.11 21:58:38  2 yeni haber",
@@ -25245,8 +25341,7 @@
   "14.11 19:31:19  4 yeni haber",
   "14.11 19:16:13  1 yeni haber",
   "14.11 19:06:12  3 yeni haber",
-  "14.11 19:01:20  5 yeni haber",
-  "14.11 18:46:22  5 yeni haber"
+  "14.11 19:01:20  5 yeni haber"
  ],
  "otomatik": false
 }
