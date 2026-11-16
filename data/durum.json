@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "095b66b8d397": {
-   "id": "095b66b8d397",
-   "kaynak": "AA",
-   "baslik": "Adalet Bakanı Gürlek, 3 faili meçhul cinayetin daha aydınlatıldığını duyurdu",
-   "ozet": "Adalet Bakanı Akın Gürlek, Bursa ve Bitlis'te 14, 16 ve 20 yıldır aydınlatılamayan 3 faili meçhul cinayetin aydınlatıldığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-3-faili-mechul-cinayetin-daha-aydinlatildigini-duyurdu/4124605",
-   "zaman": "2026-11-13T19:36:09+03:00",
-   "kelimeler": [
-    "adale",
-    "aydin",
-    "bakan",
-    "cinay",
-    "duyur",
-    "faili",
-    "gurle",
-    "mechu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b823fac26392": {
    "id": "b823fac26392",
    "kaynak": "AA",
@@ -43,34 +23,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "83793b8be5c9": {
-   "id": "83793b8be5c9",
-   "kaynak": "AA",
-   "baslik": "BM: İsrail, Ekim 2023'ten bu yana işgal altındaki Batı Şeria'da 245 çocuğu öldürdü",
-   "ozet": "Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiseri Volker Türk, İsrail'in Ekim 2023'ten bu yana işgal altındaki Batı Şeria'da 245 çocuğu öldürdüğünü bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-israil-ekim-2023ten-bu-yana-isgal-altindaki-bati-seriada-245-cocugu-oldurdu/4124606",
-   "zaman": "2026-11-13T19:36:37+03:00",
-   "kelimeler": [
-    "2023",
-    "245",
-    "altin",
-    "bati",
-    "bm",
-    "cocug",
-    "ekim",
-    "isgal",
-    "israi",
-    "oldur",
-    "seria",
-    "ten",
-    "yana"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
   },
   "e4c31cd3bcf5": {
    "id": "e4c31cd3bcf5",
@@ -24517,7 +24469,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "f2f6badcc609": {
@@ -25255,9 +25208,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c52912e8ba2e": {
+   "id": "c52912e8ba2e",
+   "kaynak": "TRT Haber",
+   "baslik": "Çelik: Fon meselesinde ihmali, kusuru ve kastı olanlar muhakkak surette hesap verecek",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"İhmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir. Bu mesele hiçbir şekilde faili meçhul kalmayacaktır. Bütün boyutlarıyla bu dolandırıcılık, bu suçlar, bu suçlular ortaya çıkacaktır\" açıklamasını yaptı.",
+   "link": "https://www.trthaber.com/haber/gundem/celik-fon-meselesinde-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-verecek-963447.html",
+   "zaman": "2026-11-16T19:18:00+03:00",
+   "kelimeler": [
+    "celik",
+    "fon",
+    "hesap",
+    "ihmal",
+    "kasti",
+    "kusur",
+    "mesel",
+    "muhak",
+    "olanl",
+    "suret",
+    "verec"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "85bf0b9fb88b"
+  },
+  "23290abfe4e8": {
+   "id": "23290abfe4e8",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçdaroğlu, Arıkan ile bir araya geldi",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Saadet Partisi Genel Başkanı Mahmut Arıkan ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglu-arikan-ile-bir-araya-geldi-43380540",
+   "zaman": "2026-11-16T19:30:00+03:00",
+   "kelimeler": [
+    "araya",
+    "arika",
+    "geldi",
+    "kilic"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2036a541465d": {
+   "id": "2036a541465d",
+   "kaynak": "AA",
+   "baslik": "Kastamonu'da yağışlarla debisi artan Ilıca Şelalesi'nde güzel görüntüler oluştu",
+   "ozet": "Kastamonu'nun Pınarbaşı ilçesindeki Ilıca Şelalesi'nde su seviyesinin yükselmesiyle sonbahar renkleri arasında güzel görüntüler ortaya çıktı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kastamonuda-yagislarla-debisi-artan-ilica-selalesinde-guzel-goruntuler-olustu/4126959",
+   "zaman": "2026-11-16T19:31:15+03:00",
+   "kelimeler": [
+    "artan",
+    "debis",
+    "gorun",
+    "guzel",
+    "ilica",
+    "kasta",
+    "nde",
+    "olust",
+    "selal",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2bbe4c5ddff0": {
+   "id": "2bbe4c5ddff0",
+   "kaynak": "AA",
+   "baslik": "Trump, Çin ziyaretinde \"İran, nükleer silahsızlanma ve Ukrayna\" konularını görüşecek",
+   "ozet": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapacağı görüşmede, \"İran, nükleer silahsızlanma, Rusya-Ukrayna Savaşı ile ekonomi ve ticaret başlıklarını ele alacaklarını\" bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-cin-ziyaretinde-iran-nukleer-silahsizlanma-ve-ukrayna-konularini-gorusecek/4126961",
+   "zaman": "2026-11-16T19:31:59+03:00",
+   "kelimeler": [
+    "cin",
+    "gorus",
+    "iran",
+    "konul",
+    "nukle",
+    "silah",
+    "trump",
+    "ukray",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8d31ca27104": {
+   "id": "b8d31ca27104",
+   "kaynak": "Hürriyet",
+   "baslik": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, yarın Türkiye'ye gelecek",
+   "ozet": "Suriye Dışişleri Bakanı Esad Hasan Şeybani ve Suriyeli diğer yetkililerden oluşan heyet, yarın Türkiye'ye çalışma ziyareti gerçekleştirecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/suriye-disisleri-bakani-esad-hasan-seybani-yarin-turkiyeye-gelecek-43380542",
+   "zaman": "2026-11-16T19:33:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "disis",
+    "esad",
+    "gelec",
+    "hasan",
+    "seyba",
+    "suriy",
+    "turki",
+    "yarin",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6dec8f7a2ba9": {
+   "id": "6dec8f7a2ba9",
+   "kaynak": "Hürriyet",
+   "baslik": "Trump’tan Çin'e yapacağı ziyaret öncesi açıklama",
+   "ozet": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapacağı görüşmede, \"İran, nükleer silahsızlanma, Rusya-Ukrayna Savaşı ile ekonomi ve ticaret başlıklarını ele alacaklarını\" bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/trumptan-cine-yapacagi-ziyaret-oncesi-aciklama-43380545",
+   "zaman": "2026-11-16T19:40:04+03:00",
+   "kelimeler": [
+    "acikl",
+    "cin",
+    "onces",
+    "tan",
+    "trump",
+    "yapac",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "16.11 19:46:39  5 yeni haber",
   "16.11 19:32:08  2 yeni haber",
   "16.11 19:16:26  5 yeni haber",
   "16.11 19:01:38  4 yeni haber",
@@ -25456,8 +25534,7 @@
   "14.11 17:16:04  4 yeni haber",
   "14.11 17:01:36  1 yeni haber",
   "14.11 16:46:20  2 yeni haber",
-  "14.11 16:31:32  3 yeni haber",
-  "14.11 16:15:57  9 yeni haber"
+  "14.11 16:31:32  3 yeni haber"
  ],
  "otomatik": false
 }
