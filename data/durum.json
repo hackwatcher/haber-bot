@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "fb59f6a48682": {
-   "id": "fb59f6a48682",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Şimşek: Cari açığın OVP tahminlerinin altında olacağını öngörüyoruz",
-   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"2025 yılında yüzde 1,9 olan cari işlemler açığının milli gelire oranının, bu yıl savaşa rağmen, sınırlı artışla OVP tahminimizin altında ve üçüncü çeyrek gerçekleşme tahmini olan yüzde 2,2 seviyelerinde olacağını öngörüyoruz\" dedi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-cari-acigin-ovp-tahminlerinin-altinda-olacagini-ongoruyoruz-963179.html",
-   "zaman": "2026-11-13T13:34:00+03:00",
-   "kelimeler": [
-    "acigi",
-    "altin",
-    "bakan",
-    "cari",
-    "olaca",
-    "ongor",
-    "ovp",
-    "simse",
-    "tahmi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "009b2e95cbcb": {
    "id": "009b2e95cbcb",
    "kaynak": "BBC Türkçe",
@@ -25091,7 +25070,10 @@
     "yesil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "eae7c8aa4a5d": {
    "id": "eae7c8aa4a5d",
@@ -25136,9 +25118,57 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6ab12e8dc1dd": {
+   "id": "6ab12e8dc1dd",
+   "kaynak": "AA",
+   "baslik": "COP31 Zirvesi'nde Mavi Bölge'ye kayıt olanların sayısı 102 bini aştı",
+   "ozet": "COP31'de devlet başkanları ve bakanlar, ulusal delegasyonlar, akredite gözlemciler, uluslararası kuruluşların yer aldığı Mavi Bölge'ye ilk 7 günde 102 bin 610 kişi kayıt oldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-zirvesinde-mavi-bolgeye-kayit-olanlarin-sayisi-102-bini-asti/4126453",
+   "zaman": "2026-11-16T13:28:18+03:00",
+   "kelimeler": [
+    "102",
+    "asti",
+    "bini",
+    "bolge",
+    "cop31",
+    "kayit",
+    "mavi",
+    "nde",
+    "olanl",
+    "sayis",
+    "ye",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d30948c54855": {
+   "id": "d30948c54855",
+   "kaynak": "AA",
+   "baslik": "ASELSAN, Yeşil Dönüşüm Merkezi Belgesi alan ilk savunma sanayisi şirketi oldu",
+   "ozet": "Yüksek teknoloji üretimini çevresel sürdürülebilirlik hedefleriyle birleştiren ASELSAN, yeşil dönüşüm alanındaki çalışmalarına bir yenisini daha ekledi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-yesil-donusum-merkezi-belgesi-alan-ilk-savunma-sanayisi-sirketi-oldu/4126462",
+   "zaman": "2026-11-16T13:31:46+03:00",
+   "kelimeler": [
+    "alan",
+    "asels",
+    "belge",
+    "donus",
+    "ilk",
+    "merke",
+    "sanay",
+    "savun",
+    "sirke",
+    "yesil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8c68b4d2bc27"
   }
  },
  "kayit": [
+  "16.11 13:34:42  1 yeni haber",
   "16.11 13:31:34  9 yeni haber",
   "16.11 13:04:27  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Altının ons fiyatı enflasyon ve faiz beklentileriyle Ekim 2025'ten bu ",
   "16.11 13:01:56  3 yeni haber",
@@ -25337,8 +25367,7 @@
   "14.11 11:16:02  8 yeni haber",
   "14.11 11:01:39  4 yeni haber",
   "14.11 10:48:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Yönetmeliğinde değişiklik",
-  "14.11 10:46:06  5 yeni haber",
-  "14.11 10:31:25  4 yeni haber"
+  "14.11 10:46:06  5 yeni haber"
  ],
  "otomatik": false
 }
