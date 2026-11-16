@@ -24692,7 +24692,10 @@
     "sorus"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "563d59a4db81": {
    "id": "563d59a4db81",
@@ -24882,9 +24885,61 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9f5a43976f3f"
+  },
+  "2363377d9566": {
+   "id": "2363377d9566",
+   "kaynak": "Hürriyet",
+   "baslik": "Sermaye piyasası işlemlerine ilişkin \"fon\" soruşturmasında 21 şirkete TMSF kayyum olarak atandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında 21 şirkete TMSF'nin kayyum olarak atanmasına karar verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-islemlerine-iliskin-fon-sorusturmasinda-21-sirkete-tmsf-kayyum-olarak-atandi-43380718",
+   "zaman": "2026-11-17T01:57:00+03:00",
+   "kelimeler": [
+    "21",
+    "atand",
+    "fon",
+    "ilisk",
+    "islem",
+    "kayyu",
+    "piyas",
+    "serma",
+    "sirke",
+    "sorus",
+    "tmsf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ed1971bdb45e"
+  },
+  "0234635cbcbc": {
+   "id": "0234635cbcbc",
+   "kaynak": "XHABER",
+   "baslik": "Kim Milyoner Olmak İster yarışmasında sorulan 50 bin TL'lik soru.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30709",
+   "zaman": "2026-11-17T02:06:07+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Kim Milyoner Olmak İster yarışmasında sorulan 50 bin TL'lik soru.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/lj5vzLrmiHUIGy5QZyKgrRlcydaeHDWVUTg-dlnowPaQRzmtjg5XhXDc48gSTJKT29w-f8s13bEujdCQaEWGeguBt14ErfgAL-_Dx2CyZqaevG_4USalZRfgIwqJYRKxpoSjUI9i56p3FfBIbygF3H5jMhZ0-MaRlTYm7TQAtmT1c0VHQlu_WJQLE79zV7CrhMA2QP0g6BQ0Gslu84tySSYaqDYNF3gyR0WpgKsk07qdtqrF9reSlaf8xEYumZzQ8kPHqVoqsnl8I5sAaHdvQaJxpht6iUVOfzgFXyP8iHhSoVtKhhmSws30Y9_pgUkDbg11zKmX9pOTc4ModTzesg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "50",
+    "bin",
+    "ister",
+    "kim",
+    "lik",
+    "milyo",
+    "olmak",
+    "soru",
+    "sorul",
+    "tl",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 02:16:07  1 yeni haber",
   "17.11 01:16:12  1 yeni haber",
   "17.11 01:03:48  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Sarıgül ailesi soruşturması: Dokuz kişi daha tutuklandı",
   "17.11 01:01:55  2 yeni haber",
@@ -25083,8 +25138,7 @@
   "14.11 22:16:08  1 yeni haber",
   "14.11 22:02:01  2 yeni haber",
   "14.11 21:46:17  4 yeni haber",
-  "14.11 21:31:17  1 yeni haber",
-  "14.11 21:16:09  4 yeni haber"
+  "14.11 21:31:17  1 yeni haber"
  ],
  "otomatik": false
 }
