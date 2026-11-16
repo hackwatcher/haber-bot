@@ -1,117 +1,5 @@
 {
  "haberler": {
-  "c423840969f2": {
-   "id": "c423840969f2",
-   "kaynak": "AA",
-   "baslik": "ABD Federal Havacılık İdaresi, ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı",
-   "ozet": "ABD Federal Havacılık İdaresi, Hava Yolu Trafik Kontrol Merkezlerini etkileyen iletişim sorununun ardından ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucuslarin-durdurulmasi-karari-aldi/4124785",
-   "zaman": "2026-11-14T00:39:40+03:00",
-   "kelimeler": [
-    "abd",
-    "aldi",
-    "durdu",
-    "feder",
-    "genel",
-    "havac",
-    "haval",
-    "idare",
-    "karar",
-    "tum",
-    "ucusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "c95e13b6e51e": {
-   "id": "c95e13b6e51e",
-   "kaynak": "AA",
-   "baslik": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
-   "zaman": "2026-11-14T00:42:50+03:00",
-   "kelimeler": [
-    "budo",
-    "edild",
-    "hava",
-    "iptal",
-    "kosul",
-    "neden",
-    "nun",
-    "olums",
-    "sefer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4c4f771c2fae": {
-   "id": "4c4f771c2fae",
-   "kaynak": "BBC Türkçe",
-   "baslik": "ABD'de yük gemisi ile çarpışan kruz gemisi yan yattı",
-   "ozet": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
-   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o",
-   "zaman": "2026-11-14T00:43:28+03:00",
-   "kelimeler": [
-    "abd",
-    "carpi",
-    "gemis",
-    "kruz",
-    "yan",
-    "yatti",
-    "yuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5f5a3dbedcac": {
-   "id": "5f5a3dbedcac",
-   "kaynak": "AA",
-   "baslik": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
-   "ozet": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
-   "zaman": "2026-11-14T00:43:49+03:00",
-   "kelimeler": [
-    "adil",
-    "eylem",
-    "gazet",
-    "gecis",
-    "genel",
-    "konul",
-    "plani",
-    "resmi",
-    "strat",
-    "ulusa"
-   ],
-   "durum": "hata",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ],
-   "hata": "Instagram görseli işleyemedi (ERROR)"
-  },
-  "e72b7f2ecab5": {
-   "id": "e72b7f2ecab5",
-   "kaynak": "TRT Haber",
-   "baslik": "'Ulusal Adil Geçiş Stratejisi ve Eylem Planı' Resmi Gazetede",
-   "ozet": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı 20272029 konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
-   "link": "https://www.trthaber.com/haber/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazetede-963233.html",
-   "zaman": "2026-11-14T00:46:00+03:00",
-   "kelimeler": [
-    "adil",
-    "eylem",
-    "gazet",
-    "gecis",
-    "plani",
-    "resmi",
-    "strat",
-    "ulusa"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5f5a3dbedcac"
-  },
   "98a8f0f3adc6": {
    "id": "98a8f0f3adc6",
    "kaynak": "Sözcü",
@@ -135,29 +23,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "9763b4f43ab0": {
-   "id": "9763b4f43ab0",
-   "kaynak": "AA",
-   "baslik": "ABD Federal Havacılık İdaresi ülke genelinde uçuşları durdurma kararı aldı",
-   "ozet": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-ulke-genelinde-ucuslari-durdurma-karari-aldi/4124785",
-   "zaman": "2026-11-14T00:39:40+03:00",
-   "kelimeler": [
-    "abd",
-    "aldi",
-    "durdu",
-    "feder",
-    "genel",
-    "havac",
-    "idare",
-    "karar",
-    "ucusl",
-    "ulke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c423840969f2"
   },
   "e33ee8005504": {
    "id": "e33ee8005504",
@@ -560,26 +425,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a6b85c145972"
-  },
-  "599fd4929db0": {
-   "id": "599fd4929db0",
-   "kaynak": "AA",
-   "baslik": "ABD'de ülke genelinde uçuşları durdurma kararı kaldırıldı",
-   "ozet": "ABD Ulaştırma Bakanı Sean Duffy, ülke genelinde uçuşları durdurma kararının Türkiye saatiyle 04.15 itibarıyla kaldırıldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-ulke-genelinde-ucuslari-durdurma-karari-kaldirildi/4124785",
-   "zaman": "2026-11-14T00:39:40+03:00",
-   "kelimeler": [
-    "abd",
-    "durdu",
-    "genel",
-    "kaldi",
-    "karar",
-    "ucusl",
-    "ulke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "263b647a52df"
   },
   "a11279b8b7df": {
    "id": "a11279b8b7df",
@@ -24929,7 +24774,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "36f221d4ff85": {
    "id": "36f221d4ff85",
@@ -25095,9 +24943,51 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "706632e6a64f"
+  },
+  "8cc23314dd8c": {
+   "id": "8cc23314dd8c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Adli tıp uzmanı: Otopsi fotoğrafları Epstein'in öldürüldüğünü gösteriyor",
+   "ozet": "Profesör Michael Freeman, BBC Newsnight'a verdiği demeçte, cinsel suçtan hüküm giymiş Epstein'in vücudundaki izlerin cinayetle tutarlı olduğuna inandığını söyledi.",
+   "link": "https://www.bbc.com/turkce/articles/cjy5x3q1er9xo",
+   "zaman": "2026-11-17T00:30:06+03:00",
+   "kelimeler": [
+    "adli",
+    "epste",
+    "fotog",
+    "goste",
+    "in",
+    "oldur",
+    "otops",
+    "tip",
+    "uzman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d9a9f598efa1": {
+   "id": "d9a9f598efa1",
+   "kaynak": "NTV",
+   "baslik": "Tanınmamak için estetik yaptırdı, kız arkadaşı yüzünden yakalandı",
+   "ozet": "Mersin'de tanınmamak için estetik operasyon geçirdiği belirlenen kişi, kız arkadaşının polisler tarafından takibe alınması sonucu yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/taninmamak-icin-estetik-yaptirdi-kiz-arkadasi-yuzunden-yakalandi-1751189",
+   "zaman": "2026-11-17T00:36:12+03:00",
+   "kelimeler": [
+    "arkad",
+    "estet",
+    "kiz",
+    "tanin",
+    "yakal",
+    "yapti",
+    "yuzun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c4dfc9ecc44c"
   }
  },
  "kayit": [
+  "17.11 00:46:46  1 yeni haber",
   "17.11 00:34:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İstanbul merkezli silahlı suç örgütü soruşturmasında 13 kişi tutukland",
   "17.11 00:16:06  3 yeni haber",
   "17.11 00:03:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Minguzzi'nin ölümüne ilişkin tehdit paylaşımları yapan şüpheli tutukla",
@@ -25296,8 +25186,7 @@
   "14.11 21:16:09  4 yeni haber",
   "14.11 21:01:51  5 yeni haber",
   "14.11 20:46:20  4 yeni haber",
-  "14.11 20:34:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Fenerbahçe Teknik Direktörü Emre Belözoğlu'nun hedefi güçlü oyun",
-  "14.11 20:31:16  2 yeni haber"
+  "14.11 20:34:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Fenerbahçe Teknik Direktörü Emre Belözoğlu'nun hedefi güçlü oyun"
  ],
  "otomatik": false
 }
