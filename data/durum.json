@@ -1,113 +1,5 @@
 {
  "haberler": {
-  "76620d319b66": {
-   "id": "76620d319b66",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe Tarfin, Gabonlu basketbolcu Chris Silva ile yollarını ayırdı",
-   "ozet": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Gabonlu oyuncu Chris Silva ile yolların ayrıldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-gabonlu-basketbolcu-chris-silva-ile-yollarini-ayirdi/4123798",
-   "zaman": "2026-11-13T11:51:12+03:00",
-   "kelimeler": [
-    "ayird",
-    "baske",
-    "chris",
-    "fener",
-    "gabon",
-    "silva",
-    "tarfi",
-    "yolla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1fb9423ae86d": {
-   "id": "1fb9423ae86d",
-   "kaynak": "Hürriyet",
-   "baslik": "Amasra'da maden ocağına kendilerini kapatan işçilerin eylemi sürüyor",
-   "ozet": "Bartın'ın Amasra ilçesinde özel bir maden ocağında çalışan işçiler, 2 aydır maaş ve ikramiyelerini alamadıkları gerekçesiyle dün saat 16.00 itibaren yer altında başlattıkları eylemlerini sürdürüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/amasrada-maden-ocagina-kendilerini-kapatan-iscilerin-eylemi-suruyor-43376787",
-   "zaman": "2026-11-13T11:50:00+03:00",
-   "kelimeler": [
-    "amasr",
-    "eylem",
-    "iscil",
-    "kapat",
-    "kendi",
-    "maden",
-    "ocagi",
-    "suruy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "101c5265b7f5": {
-   "id": "101c5265b7f5",
-   "kaynak": "Hürriyet",
-   "baslik": "Kaymakamlıkta insanlık dersi! Müdür beyi etkileyen görüntü... Fark edince kayıtsız kalamadı",
-   "ozet": "Balıkesir'in Havran ilçesinde kaymakamlıktaki işini halletmek için kırsal bölgeden gelen bir vatandaş, çamurlu çizmelerini çıkarıp binaya çorapla girdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kaymakamlikta-insanlik-dersi-veren-goruntu-ciftcinin-inceligine-daire-muduru-kayitsiz-kalamadi-43376807",
-   "zaman": "2026-11-13T11:51:00+03:00",
-   "kelimeler": [
-    "beyi",
-    "dersi",
-    "edinc",
-    "etkil",
-    "fark",
-    "gorun",
-    "insan",
-    "kalam",
-    "kayit",
-    "kayma",
-    "mudur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b0e274b6980a": {
-   "id": "b0e274b6980a",
-   "kaynak": "TRT Haber",
-   "baslik": "Tüketici hakem heyetlerine 10 ayda 842 bin başvuru",
-   "ozet": "Tüketici hakem heyetlerine, yılın 10 ayında 15,6 milyar lira değerinde, 842 bin 695 başvuru gerçekleştirildi. Söz konusu sürede 776 bin 822 uyuşmazlık, tüketici hakem heyetleri tarafından karara bağlandı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/tuketici-hakem-heyetlerine-10-ayda-842-bin-basvuru-963170.html",
-   "zaman": "2026-11-13T11:57:00+03:00",
-   "kelimeler": [
-    "10",
-    "842",
-    "ayda",
-    "basvu",
-    "bin",
-    "hakem",
-    "heyet",
-    "tuket"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0113181ec04f"
-  },
-  "b54d73452178": {
-   "id": "b54d73452178",
-   "kaynak": "Hürriyet",
-   "baslik": "“Ailem Güvende” soruşturmaları kapsamında 21 şüpheli hakkında iddianame: 6 derneğin feshi talep edildi",
-   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nın “Ailem Güvende” soruşturmaları kapsamında 21 şüpheli hakkında “Dernekler Kanunu’na Muhalefet” suçundan 3 yıla kadar hapis istemiyle iddianame düzenlendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ailem-guvende-sorusturmalari-kapsaminda-21-supheli-hakkinda-iddianame-6-dernegin-feshi-talep-edildi-43376825",
-   "zaman": "2026-11-13T11:59:00+03:00",
-   "kelimeler": [
-    "21",
-    "ailem",
-    "derne",
-    "edild",
-    "feshi",
-    "guven",
-    "hakki",
-    "iddia",
-    "kapsa",
-    "sorus",
-    "suphe",
-    "talep"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "70b14a58a409": {
    "id": "70b14a58a409",
    "kaynak": "AA",
@@ -22897,7 +22789,10 @@
     "yazil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "ef2d51d818a6": {
    "id": "ef2d51d818a6",
@@ -23208,7 +23103,10 @@
     "yukum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "4dba7006ed7b": {
    "id": "4dba7006ed7b",
@@ -24734,7 +24632,10 @@
     "yana"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "fccba4650d56": {
    "id": "fccba4650d56",
@@ -24793,10 +24694,360 @@
     "yeni"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "eb7786417f08": {
+   "id": "eb7786417f08",
+   "kaynak": "AA",
+   "baslik": "COP31'in Yeşil Bölgesi ara tatilde çocukların buluşma noktası oldu",
+   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) halka açık Yeşil Bölgesi, ara tatilde çocukların ve ailelerin uğrak noktası oldu.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31in-yesil-bolgesi-ara-tatilde-cocuklarin-bulusma-noktasi-oldu/4126227",
+   "zaman": "2026-11-16T11:03:33+03:00",
+   "kelimeler": [
+    "ara",
+    "bolge",
+    "bulus",
+    "cocuk",
+    "cop31",
+    "in",
+    "nokta",
+    "tatil",
+    "yesil"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "965e8909c096": {
+   "id": "965e8909c096",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin yenilenebilir enerji potansiyeli küresel elektrifikasyon hedeflerini destekliyor",
+   "ozet": "Londra merkezli uluslararası enerji düşünce kuruluşu Ember'in enerji analisti Gümüş, Türkiye'nin rüzgar ve güneş enerjisi potansiyeliyle güçlü hidroelektrik kapasitesinin elektrifikasyon hedeflerine ulaşılmasında önemli avantajlar sunduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yenilenebilir-enerji-potansiyeli-kuresel-elektrifikasyon-hedeflerini-destekliyor/4126252",
+   "zaman": "2026-11-16T11:12:22+03:00",
+   "kelimeler": [
+    "deste",
+    "elekt",
+    "enerj",
+    "hedef",
+    "kures",
+    "nin",
+    "potan",
+    "turki",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "adfac03b5872": {
+   "id": "adfac03b5872",
+   "kaynak": "AA",
+   "baslik": "FAO'dan tarımda kadın ve gençlerin katılımının artırılması çağrısı",
+   "ozet": "Birleşmiş Milletler (BM) Gıda ve Tarım Örgütü (FAO) Türkiye Temsilci Yardımcısı Dr. Ayşegül Selışık, COP31'de tarım ve gıda sistemlerinde kadınların ve gençlerin daha etkin rol alması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/faodan-tarimda-kadin-ve-genclerin-katiliminin-artirilmasi-cagrisi/4126263",
+   "zaman": "2026-11-16T11:15:52+03:00",
+   "kelimeler": [
+    "artir",
+    "cagri",
+    "dan",
+    "fao",
+    "gencl",
+    "kadin",
+    "katil",
+    "tarim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5cd61a30ba2a": {
+   "id": "5cd61a30ba2a",
+   "kaynak": "AA",
+   "baslik": "Koruyucu ailelere kasımda 228 milyon 334 bin lira destek ödemesi yapıldı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, koruyucu aileler için bu ay toplam 228 milyon 334 bin lira destek ödemesinin yapıldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/koruyucu-ailelere-kasimda-228-milyon-334-bin-lira-destek-odemesi-yapildi/4126265",
+   "zaman": "2026-11-16T11:17:06+03:00",
+   "kelimeler": [
+    "228",
+    "334",
+    "ailel",
+    "bin",
+    "deste",
+    "kasim",
+    "koruy",
+    "lira",
+    "milyo",
+    "odeme",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0efc05339ca4": {
+   "id": "0efc05339ca4",
+   "kaynak": "AA",
+   "baslik": "COP31'de çocuklar denge bisikletiyle hem trafiği hem iklimi öğreniyor",
+   "ozet": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Türkiye Bisiklet Federasyonu tarafından Gençlik ve Spor Bakanlığının katkılarıyla kurulan parkta, çocuklara denge bisikletiyle trafik ve çevre eğitimi veriliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-cocuklar-denge-bisikletiyle-hem-trafigi-hem-iklimi-ogreniyor/4126277",
+   "zaman": "2026-11-16T11:23:53+03:00",
+   "kelimeler": [
+    "bisik",
+    "cocuk",
+    "cop31",
+    "denge",
+    "hem",
+    "iklim",
+    "ogren",
+    "trafi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "af9d7b728be5": {
+   "id": "af9d7b728be5",
+   "kaynak": "AA",
+   "baslik": "Karayolları Genel Müdürlüğüne karla mücadele için yeni 577 makine ve ekipman",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yol bakım ve karla mücadele faaliyetlerinde önem taşıyan 263 makine ve 314 ekipman olmak üzere toplam 577 aracı Karayollarına kazandırdıklarını belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/karayollari-genel-mudurlugune-karla-mucadele-icin-yeni-577-makine-ve-ekipman/4126281",
+   "zaman": "2026-11-16T11:26:28+03:00",
+   "kelimeler": [
+    "577",
+    "ekipm",
+    "genel",
+    "karay",
+    "karla",
+    "makin",
+    "mucad",
+    "mudur",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1fbd032aa05b"
+  },
+  "1eb145040e64": {
+   "id": "1eb145040e64",
+   "kaynak": "TRT Haber",
+   "baslik": "ASELSAN ve ROKETSAN'dan 1,28 milyar euroluk dev anlaşma",
+   "ozet": "ASELSAN ile ROKETSAN arasında Füze Veri Bağı ve Arayıcı Başlık Sistemlerinin tedariki kapsamında toplam tutarı 1,28 milyar euro olan sözleşmeler imzalandı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/aselsan-ve-roketsandan-128-milyar-euroluk-dev-anlasma-963408.html",
+   "zaman": "2026-11-16T11:44:00+03:00",
+   "kelimeler": [
+    "28",
+    "anlas",
+    "asels",
+    "dan",
+    "dev",
+    "eurol",
+    "milya",
+    "roket"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "80901755342f": {
+   "id": "80901755342f",
+   "kaynak": "TRT Haber",
+   "baslik": "Ukrayna, Kırım Köprüsü'ne saldırdı",
+   "ozet": "Rusya'nın yasa dışı ilhak ettiği Kırım'ın sözde yönetim başkanı Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne saldırı düzenlediğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/ukrayna-kirim-koprusune-saldirdi-963407.html",
+   "zaman": "2026-11-16T11:44:00+03:00",
+   "kelimeler": [
+    "kirim",
+    "kopru",
+    "saldi",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "053ffecb9274": {
+   "id": "053ffecb9274",
+   "kaynak": "AA",
+   "baslik": "Anadolu Üniversitesi Açıköğretim Fakültesinde mikro yeterlilik dönemi başladı",
+   "ozet": "Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF) öğrencilerine yönelik yapay zeka odaklı Mikro Yeterlilik Programları hayata geçirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/anadolu-universitesi-acikogretim-fakultesinde-mikro-yeterlilik-donemi-basladi/4126310",
+   "zaman": "2026-11-16T11:48:37+03:00",
+   "kelimeler": [
+    "aciko",
+    "anado",
+    "basla",
+    "donem",
+    "fakul",
+    "mikro",
+    "unive",
+    "yeter"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c1b53fed849c": {
+   "id": "c1b53fed849c",
+   "kaynak": "TRT Haber",
+   "baslik": "Altının ons fiyatı Ekim 2025'ten bu yana en düşük seviyesinde",
+   "ozet": "Küresel piyasalarda altının ons fiyatı, artan enflasyon ve önde gelen merkez bankalarının faiz oranlarını yükselteceği beklentisinin yarattığı baskıyla Ekim 2025'ten bu yana en düşük seviyesine geriledi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altinin-ons-fiyati-ekim-2025ten-bu-yana-en-dusuk-seviyesinde-963409.html",
+   "zaman": "2026-11-16T11:49:00+03:00",
+   "kelimeler": [
+    "2025",
+    "altin",
+    "dusuk",
+    "ekim",
+    "fiyat",
+    "ons",
+    "seviy",
+    "ten",
+    "yana"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0f78be18d072"
+  },
+  "183a3a74793f": {
+   "id": "183a3a74793f",
+   "kaynak": "NTV",
+   "baslik": "Bakan Kurum: Gerçek sınav COP31'den sonra",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin COP31 Başkanlığı'nı diyalog, uzlaşı ve aksiyon üzerine kurduğunu söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-gercek-sinav-cop31den-sonra-1751113",
+   "zaman": "2026-11-16T11:51:50+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "den",
+    "gerce",
+    "kurum",
+    "sinav"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "84daf1931877": {
+   "id": "84daf1931877",
+   "kaynak": "Hürriyet",
+   "baslik": "Kimlik ve ehliyet sahiplerini yoğun dönem bekliyor: 59 milyona yakın belge yenilenecek",
+   "ozet": "Türkiye genelinde önümüzdeki 5 yılda yaklaşık 59 milyon kimlik kartı ve sürücü belgesinin geçerlilik süresi sona erecek. En fazla yenileme ihtiyacının 16,4 milyonu aşkın belgeyle 2029 yılında ortaya çıkacağı bildirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kimlik-ve-ehliyet-sahiplerini-yogun-donem-bekliyor-59-milyona-yakin-belge-yenilenecek-43379936",
+   "zaman": "2026-11-16T11:52:29+03:00",
+   "kelimeler": [
+    "59",
+    "bekli",
+    "belge",
+    "donem",
+    "ehliy",
+    "kimli",
+    "milyo",
+    "sahip",
+    "yakin",
+    "yenil",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "462724d6d064": {
+   "id": "462724d6d064",
+   "kaynak": "AA",
+   "baslik": "ABD ve Nijerya'dan yola çıkan 2 LNG gemisi 22 Kasım'a kadar Türkiye'ye gelecek",
+   "ozet": "ABD ve Nijerya'dan yola çıkan LNG Sokoto ve Umm Heesh adlı sıvılaştırılmış doğal gaz (LNG) gemilerinin 22 Kasım'a kadar Türkiye'de olması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ve-nijeryadan-yola-cikan-2-lng-gemisi-22-kasima-kadar-turkiyeye-gelecek/4126313",
+   "zaman": "2026-11-16T11:54:05+03:00",
+   "kelimeler": [
+    "22",
+    "abd",
+    "cikan",
+    "dan",
+    "gelec",
+    "gemis",
+    "kasim",
+    "lng",
+    "nijer",
+    "turki",
+    "ye",
+    "yola"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "400c6aeaa393": {
+   "id": "400c6aeaa393",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş: Hiçbir ülkenin, uluslararası yükümlülükten kaçınması kabul edilemez",
+   "ozet": "Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında Antalya'nın Belek turizm merkezinde düzenlenen 'COP31 Parlamenter Toplantısı'nda, iklim değişikliğiyle mücadelede parlamentoların sorumlulukları ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-43379945",
+   "zaman": "2026-11-16T11:54:28+03:00",
+   "kelimeler": [
+    "baska",
+    "edile",
+    "hicbi",
+    "kabul",
+    "kacin",
+    "kurtu",
+    "tbmm",
+    "ulken",
+    "ulusl",
+    "yukum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5facf7de7974"
+  },
+  "c5cb2b2bdce7": {
+   "id": "c5cb2b2bdce7",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'ye saldırılarında 1 kişi hayatını kaybetti, biri çocuk 4 kişi yaralandı",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyi ve güneyine düzenlediği saldırılarda 1 kişi hayatını kaybetti, biri çocuk, biri kadın olmak üzere 4 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-1-kisi-hayatini-kaybetti-biri-cocuk-4-kisi-yaralandi/4126318",
+   "zaman": "2026-11-16T11:57:35+03:00",
+   "kelimeler": [
+    "biri",
+    "cocuk",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "saldi",
+    "yaral",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3bf873a98f1d"
+  },
+  "80604dcd4b7e": {
+   "id": "80604dcd4b7e",
+   "kaynak": "XHABER",
+   "baslik": "Kuzey Marmara Otoyolu'ndaki tünellerde hız sınırını aşan sürücülere yüksek cezalar uygulanıyor.",
+   "ozet": "- Gebze-İzmit arasındaki 5 tünelde hız sınırı 90 km/s. - 2026'nın ilk 4 ayında hız sınırını aşan 10.975 araca ceza kesildi. - Tünellerden 140 km/s hızla geçen sürücülere 15.000 TL, 141 km/s hızla geçenlere ise 20.000 TL ceza uygulanabiliyor.",
+   "link": "https://t.me/sahinozkan000/30697",
+   "zaman": "2026-11-16T12:00:39+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Kuzey Marmara Otoyolu'ndaki tünellerde hız sınırını aşan sürücülere yüksek cezalar uygulanıyor. (NTV)\n- Gebze-İzmit arasındaki 5 tünelde hız sınırı 90 km/s.\n- 2026'nın ilk 4 ayında hız sınırını aşan 10.975 araca ceza kesildi.\n- Tünellerden 140 km/s hızla geçen sürücülere 15.000 TL, 141 km/s hızla geçenlere ise 20.000 TL ceza uygulanabiliyor.\n- Birden fazla noktada hız ihlali yapan sürücüler, ayrı ayrı trafik cezalarıyla karşılaşabiliyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/poHbftG89V5bJOeO1JOxzvipPHmFXz_ZbOawMhrx3nlOBClzj8rnasRwiaFSq94p57sVOelrOEv2CbdofKDetsH_PaFNUSr4N8J6w4xF1tu7CKFP87IwApTKQHmCNmDo7iwE63gYKU86fPk4nDl5gbl_2kd3QNYAQLRyTYaJwyVJz_5XlKnCJnfMm1O4fdR15jRVoZXiWD3ncV6OeE3lYBPokGbFDh87WUBSF_hJ0ilGhDS1LW7lcydj1JXmLrDnnLBQcMyd4BbRbQn7SW-rczoCpxOctYZKxke4DdeTJ3pC7LWOiUxYLz818uY4ixFYGlCdKSNN9Oa1BlYtL-S3ew.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "asan",
+    "cezal",
+    "hiz",
+    "kuzey",
+    "marma",
+    "ndaki",
+    "otoyo",
+    "sinir",
+    "suruc",
+    "tunel",
+    "uygul",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "eca6d6d066f9"
   }
  },
  "kayit": [
+  "16.11 12:01:50  11 yeni haber",
   "16.11 11:46:37  7 yeni haber",
   "16.11 11:41:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Bitcoin 65 bin doların altına geriledi",
   "16.11 11:38:01  17 yeni haber",
@@ -24995,8 +25246,7 @@
   "14.11 10:01:45  4 yeni haber",
   "14.11 09:46:16  1 yeni haber",
   "14.11 09:33:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa'da kontrolden çıkan taksi kamyonete çarptı",
-  "14.11 09:16:22  4 yeni haber",
-  "14.11 08:46:23  2 yeni haber"
+  "14.11 09:16:22  4 yeni haber"
  ],
  "otomatik": false
 }
