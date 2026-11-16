@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "70b14a58a409": {
-   "id": "70b14a58a409",
-   "kaynak": "AA",
-   "baslik": "Küresel petrol arzı ekimde günlük 2,3 milyon varil arttı",
-   "ozet": "Uluslararası Enerji Ajansı (IEA), Körfez ülkelerinin yüksek ihracatının etkisiyle küresel petrol arzının ekimde önceki aya göre günlük 2 milyon 300 bin varil artarak 105 milyon 360 bin varile yükseldiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-petrol-arzi-ekimde-gunluk-2-3-milyon-varil-artti/4123813",
-   "zaman": "2026-11-13T12:03:29+03:00",
-   "kelimeler": [
-    "artti",
-    "arzi",
-    "ekimd",
-    "gunlu",
-    "kures",
-    "milyo",
-    "petro",
-    "varil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "6f65e9e23dd2": {
-   "id": "6f65e9e23dd2",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Ersoy Sultanahmet Meydanı'nda turistlerle sohbet etti",
-   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, İstanbul’un tarihî yarımadasındaki Sultanahmet Meydanı’nı yürüyerek gezdi. Ersoy, meydanda sohbet ettiği turistlere İstanbul’u nasıl bulduklarını ve Türkiye’ye kaçıncı gelişleri olduğunu sordu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-ersoy-sultanahmet-meydaninda-turistlerle-sohbet-etti-43376832",
-   "zaman": "2026-11-13T12:07:46+03:00",
-   "kelimeler": [
-    "bakan",
-    "ersoy",
-    "etti",
-    "meyda",
-    "nda",
-    "sohbe",
-    "sulta",
-    "turis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7e9a9f309a63": {
-   "id": "7e9a9f309a63",
-   "kaynak": "AA",
-   "baslik": "Cari denge üst üste üçüncü ayda fazla verdi",
-   "ozet": "Türkiye'nin cari işlemler hesabı, eylülde 2 milyar 720 milyon dolar fazla vererek art arda üçüncü ayda pozitif seyrini sürdürdü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cari-denge-ust-uste-ucuncu-ayda-fazla-verdi/4123819",
-   "zaman": "2026-11-13T12:10:12+03:00",
-   "kelimeler": [
-    "ayda",
-    "cari",
-    "denge",
-    "fazla",
-    "ucunc",
-    "ust",
-    "uste",
-    "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "b08ec7e80a12": {
-   "id": "b08ec7e80a12",
-   "kaynak": "AA",
-   "baslik": "Aile ve Sosyal Hizmetler Bakanlığından çocukları silah kullanımına özendiren paylaşımlara ilişkin açıklama",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, çocukları silah kullanımına özendiren ve şiddeti normalleştiren içeriklere karşı mücadelenin kararlılıkla sürdürüleceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-cocuklari-silah-kullanimina-ozendiren-paylasimlara-iliskin-aciklama/4123820",
-   "zaman": "2026-11-13T12:10:56+03:00",
-   "kelimeler": [
-    "acikl",
-    "aile",
-    "bakan",
-    "cocuk",
-    "hizme",
-    "ilisk",
-    "kulla",
-    "ozend",
-    "payla",
-    "silah",
-    "sosya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e76c24bc7920"
-  },
-  "0c7e62b0e1b9": {
-   "id": "0c7e62b0e1b9",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel petrol arzı ekimde arttı",
-   "ozet": "Uluslararası Enerji Ajansı IEA, Körfez ülkelerinin yüksek ihracatının etkisiyle küresel petrol arzının ekimde önceki aya göre günlük 2 milyon 300 bin varil artarak 105 milyon 360 bin varile yükseldiğini bildirdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-petrol-arzi-ekimde-artti-963171.html",
-   "zaman": "2026-11-13T12:09:00+03:00",
-   "kelimeler": [
-    "artti",
-    "arzi",
-    "ekimd",
-    "kures",
-    "petro"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "70b14a58a409"
-  },
   "c189fc6caa4f": {
    "id": "c189fc6caa4f",
    "kaynak": "TRT Haber",
@@ -23105,7 +22999,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "NTV"
    ]
   },
   "4dba7006ed7b": {
@@ -24587,7 +24482,10 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "493ea3e4d1f8": {
    "id": "493ea3e4d1f8",
@@ -25044,9 +24942,304 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "eca6d6d066f9"
+  },
+  "8f95c9f5a132": {
+   "id": "8f95c9f5a132",
+   "kaynak": "AA",
+   "baslik": "Yapı Kredi'den 2030'a kadar 1,5 trilyon liralık sürdürülebilir finansman sağlama hedefi",
+   "ozet": "Yapı Kredi, 2030'a kadar toplam 1,5 trilyon lira tutarında sürdürülebilir finansman sağlamayı hedeflediğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yapi-krediden-2030a-kadar-1-5-trilyon-liralik-surdurulebilir-finansman-saglama-hedefi/4126194",
+   "zaman": "2026-11-16T10:34:59+03:00",
+   "kelimeler": [
+    "2030",
+    "den",
+    "finan",
+    "hedef",
+    "kredi",
+    "liral",
+    "sagla",
+    "surdu",
+    "trily",
+    "yapi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0bd97a32fe04": {
+   "id": "0bd97a32fe04",
+   "kaynak": "AA",
+   "baslik": "Liderler Zirvesi'nin \"Yeşil Yoluna\" dünyadan işbirliği teklifleri geliyor",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Çevre Yönetimi Genel Müdürü Turan, COP31 Liderler Zirvesi öncesinde liderlerin karşılandığı bölgede uygulanan \"Düşük Karbonlu Yeşil Yol Projesi\"ne birçok ülkeden işbirliği teklifi geldiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/liderler-zirvesinin-yesil-yoluna-dunyadan-isbirligi-teklifleri-geliyor/4126251",
+   "zaman": "2026-11-16T11:12:06+03:00",
+   "kelimeler": [
+    "dunya",
+    "geliy",
+    "isbir",
+    "lider",
+    "nin",
+    "tekli",
+    "yesil",
+    "yolun",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "75401d3a56f9": {
+   "id": "75401d3a56f9",
+   "kaynak": "AA",
+   "baslik": "Çöp kutuları ve yağ tenekeleri COP31'de ritim aletine dönüştü",
+   "ozet": "Antalya'da Güzel Sanatlar Lisesi öğrencileri, kullanılmayan atıkları enstrümana dönüştürerek oluşturdukları perküsyon grubuyla İklim Zirvesi COP31'e renk kattı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop-kutulari-ve-yag-tenekeleri-cop31de-ritim-aletine-donustu/4126254",
+   "zaman": "2026-11-16T11:12:39+03:00",
+   "kelimeler": [
+    "aleti",
+    "cop",
+    "cop31",
+    "donus",
+    "kutul",
+    "ritim",
+    "tenek",
+    "yag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c0b9ea8fc49": {
+   "id": "4c0b9ea8fc49",
+   "kaynak": "AA",
+   "baslik": "Sada’dan Sana’ya: Husilerin iktidara yükselişi",
+   "ozet": "Husilerin bölgedeki gücü ve başarısı, Yemen’in kendi içerisindeki parçalanmışlığı, bölgesel gerilimler ve küresel kaos düzleminde sürdürülen bir çatışma döngüsüne bağlıdır.",
+   "link": "https://www.aa.com.tr/tr/analiz/sada-dan-sana-ya-husilerin-iktidara-yukselisi/4126262",
+   "zaman": "2026-11-16T11:15:25+03:00",
+   "kelimeler": [
+    "dan",
+    "husil",
+    "iktid",
+    "sada",
+    "sana",
+    "ya",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "982b74dad87b": {
+   "id": "982b74dad87b",
+   "kaynak": "AA",
+   "baslik": "Fransa'nın başkenti Paris'te bazı okulların çevresinde eylem yasağı",
+   "ozet": "Fransa'nın başkenti Paris'te bazı lise ve üniversitelerin etrafında toplanmak ve eylem yapmak yasaklandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransanin-baskenti-pariste-bazi-okullarin-cevresinde-eylem-yasagi/4126321",
+   "zaman": "2026-11-16T11:58:25+03:00",
+   "kelimeler": [
+    "baske",
+    "bazi",
+    "cevre",
+    "eylem",
+    "frans",
+    "nin",
+    "okull",
+    "paris",
+    "te",
+    "yasag"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ac8a93f6ea8c": {
+   "id": "ac8a93f6ea8c",
+   "kaynak": "TRT Haber",
+   "baslik": "Numan Kurtulmuş: Hiçbir ülkenin uluslararası yükümlülükten kaçması kabul edilemez",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Hiçbir ülkenin, başta Paris İklim Şartı olmak üzere hiçbir uluslararası yükümlülükten kaçınması kabul edilemez\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacmasi-kabul-edilemez-963411.html",
+   "zaman": "2026-11-16T11:59:00+03:00",
+   "kelimeler": [
+    "edile",
+    "hicbi",
+    "kabul",
+    "kacma",
+    "kurtu",
+    "numan",
+    "ulken",
+    "ulusl",
+    "yukum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "410eca15e34b": {
+   "id": "410eca15e34b",
+   "kaynak": "Hürriyet",
+   "baslik": "Anadolu yakasına 'çöken' şebekeye darbe! Polis, elebaşını balkonda sigara içerken fark etti",
+   "ozet": "İstanbul Anadolu yakasında çeşitli suçlara karışan suç örgütünün elebaşı A.K. film gibi bir operasyonla yakalandı. Şebekenin izini süren ekipler Gebze'de bir siteyi radarına aldı. Balkonda sigara içen kişilerden şüphelenerek sitenin çevresini sardı.",
+   "link": "https://www.hurriyet.com.tr/gundem/polis-balkonda-sigara-icerken-fark-etti-site-otoparkinda-gozaltina-aldi-43379928",
+   "zaman": "2026-11-16T12:01:00+03:00",
+   "kelimeler": [
+    "anado",
+    "balko",
+    "coken",
+    "darbe",
+    "eleba",
+    "etti",
+    "fark",
+    "icerk",
+    "polis",
+    "sebek",
+    "sigar",
+    "yakas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8b98e3b2d397": {
+   "id": "8b98e3b2d397",
+   "kaynak": "TRT Haber",
+   "baslik": "Bütçe uygulama sonuçları açıklandı",
+   "ozet": "Türkiye'nin merkezi yönetim bütçe gelirleri ekimde 1 trilyon 298,3 milyar lira, giderleri 1 trilyon 779,4 milyar lira olarak belirlendi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/butce-uygulama-sonuclari-aciklandi-963412.html",
+   "zaman": "2026-11-16T12:03:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "butce",
+    "sonuc",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "355d3c270d03": {
+   "id": "355d3c270d03",
+   "kaynak": "Hürriyet",
+   "baslik": "MEB duyurdu: Ortak Yazılı Sınav Sistemi'nde 'Analiz ve Raporlama' modülü erişime açıldı",
+   "ozet": "Milli Eğitim Bakanlığı tarafından geliştirilen Ortak Yazılı Sınav Sistemi (OYSS) kapsamında, okul geneli ortak yazılı sınav sonuçlarının ayrıntılı olarak incelenmesine imkan sağlayan 'Analiz ve Raporlama' modülü erişime açıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/meb-duyurdu-ortak-yazili-sinav-sisteminde-analiz-ve-raporlama-modulu-erisime-acildi-43379957",
+   "zaman": "2026-11-16T12:03:53+03:00",
+   "kelimeler": [
+    "acild",
+    "anali",
+    "duyur",
+    "erisi",
+    "meb",
+    "modul",
+    "nde",
+    "ortak",
+    "rapor",
+    "sinav",
+    "siste",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "252b5bca22bd": {
+   "id": "252b5bca22bd",
+   "kaynak": "NTV",
+   "baslik": "Kurtulmuş: Hiçbir ülkenin, uluslararası yükümlülükten kaçınması kabul edilemez",
+   "ozet": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş \"Hiçbir ülkenin, başta Paris İklim Şartı olmak üzere hiçbir uluslararası yükümlülükten kaçınması kabul edilemez.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-1751116",
+   "zaman": "2026-11-16T12:05:02+03:00",
+   "kelimeler": [
+    "edile",
+    "hicbi",
+    "kabul",
+    "kacin",
+    "kurtu",
+    "ulken",
+    "ulusl",
+    "yukum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5facf7de7974"
+  },
+  "1d94af1a46bf": {
+   "id": "1d94af1a46bf",
+   "kaynak": "AA",
+   "baslik": "ASELSAN ile ROKETSAN 1,3 milyar avroluk sözleşme imzaladı",
+   "ozet": "ASELSAN ile ROKETSAN arasında füze veri bağı ve arayıcı başlık sistemlerinin tedariki kapsamında toplam tutarı 1,3 milyar avro olan sözleşme imzalandı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-ile-roketsan-1-3-milyar-avroluk-sozlesme-imzaladi/4126329",
+   "zaman": "2026-11-16T12:05:07+03:00",
+   "kelimeler": [
+    "asels",
+    "avrol",
+    "imzal",
+    "milya",
+    "roket",
+    "sozle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ee0cbfc0ffe": {
+   "id": "3ee0cbfc0ffe",
+   "kaynak": "AA",
+   "baslik": "Guterres'ten çatışmaların sona erdirilmesi ve iklim eyleminin hızlandırılması çağrısı",
+   "ozet": "BM Genel Sekreteri Antonio Guterres, dünyanın farklı bölgelerinde devam eden çatışmaların sona erdirilmesi, insani yardımların ihtiyaç sahiplerine ulaştırılması ve iklim değişikliğiyle mücadele için daha hızlı adımlar atılması çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/guterresten-catismalarin-sona-erdirilmesi-ve-iklim-eyleminin-hizlandirilmasi-cagrisi/4126330",
+   "zaman": "2026-11-16T12:05:17+03:00",
+   "kelimeler": [
+    "cagri",
+    "catis",
+    "erdir",
+    "eylem",
+    "guter",
+    "hizla",
+    "iklim",
+    "sona",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "80a82767090f": {
+   "id": "80a82767090f",
+   "kaynak": "Hürriyet",
+   "baslik": "12 il merkezli siber suç operasyonlarında 32 şüpheli tutuklandı",
+   "ozet": "İçişleri Bakanlığı, 'Siber suçlarla mücadele' kapsamında son 5 günde 12 il merkezli düzenlenen operasyonlarda 167 şüphelinin yakalandığını ve 32'sinin tutuklandığını duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/12-il-merkezli-siber-suc-operasyonlarinda-32-supheli-tutuklandi-43379969",
+   "zaman": "2026-11-16T12:06:18+03:00",
+   "kelimeler": [
+    "12",
+    "32",
+    "il",
+    "merke",
+    "opera",
+    "siber",
+    "suc",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a8b31155fd2f"
+  },
+  "bfcb6ccac274": {
+   "id": "bfcb6ccac274",
+   "kaynak": "Hürriyet",
+   "baslik": "Antalya'da iğrenç olay! Tamirat için geldiği dairenin banyosuna görüntü kaydetmek için telefon yerleştirdi",
+   "ozet": "Antalya'nın Manavgat ilçesinde tamirat için geldiği dairenin banyosunda asma tavana delik açıp, görüntü kaydı yapan cep telefonu yerleştirdiği iddiasıyla gözaltına alınan tesisat ustası 40 yaşındaki A.K. tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/antalyada-igrenc-olay-tamirat-icin-geldigi-dairenin-banyosuna-goruntu-kaydetmek-icin-telefon-yerlestirdi-43379974",
+   "zaman": "2026-11-16T12:11:09+03:00",
+   "kelimeler": [
+    "antal",
+    "banyo",
+    "daire",
+    "geldi",
+    "gorun",
+    "igren",
+    "kayde",
+    "olay",
+    "tamir",
+    "telef",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "16.11 12:16:08  12 yeni haber",
   "16.11 12:01:50  11 yeni haber",
   "16.11 11:46:37  7 yeni haber",
   "16.11 11:41:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Bitcoin 65 bin doların altına geriledi",
@@ -25245,8 +25438,7 @@
   "14.11 10:16:02  5 yeni haber",
   "14.11 10:01:45  4 yeni haber",
   "14.11 09:46:16  1 yeni haber",
-  "14.11 09:33:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa'da kontrolden çıkan taksi kamyonete çarptı",
-  "14.11 09:16:22  4 yeni haber"
+  "14.11 09:33:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Bursa'da kontrolden çıkan taksi kamyonete çarptı"
  ],
  "otomatik": false
 }
