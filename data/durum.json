@@ -1,88 +1,5 @@
 {
  "haberler": {
-  "4f6399eb09e3": {
-   "id": "4f6399eb09e3",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Trump hükümetinin COP31'e katılmaması iklim diplomasisi için ne anlama geliyor?",
-   "ozet": "ABD, Paris Anlaşması'ndan ikinci kez çekilmesinin ardından Antalya'da düzenlenen COP31'e federal hükümet düzeyinde katılmıyor. ABD'nin yokluğunun en görünür etkisi iklim finansmanında hissediliyor.",
-   "link": "https://www.bbc.com/turkce/articles/cvlyj8yl7d49o",
-   "zaman": "2026-11-13T17:11:22+03:00",
-   "kelimeler": [
-    "anlam",
-    "cop31",
-    "diplo",
-    "geliy",
-    "hukum",
-    "iklim",
-    "katil",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f949726ed1e4": {
-   "id": "f949726ed1e4",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüşüyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüşmesi başladı.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorusuyor-1750748",
-   "zaman": "2026-11-13T17:14:36+03:00",
-   "kelimeler": [
-    "al",
-    "cumhu",
-    "emiri",
-    "erdog",
-    "gorus",
-    "katar",
-    "sani"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "640542aae065"
-  },
-  "6bd94ad87997": {
-   "id": "6bd94ad87997",
-   "kaynak": "TRT Haber",
-   "baslik": "Beylikdüzü'nde zincirleme kazada 2 kişi yaralandı",
-   "ozet": "Beylikdüzü'nde İETT otobüsü, tır ve otomobilin karıştığı zincirleme kazada 2 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/beylikduzunde-zincirleme-kazada-2-kisi-yaralandi-963199.html",
-   "zaman": "2026-11-13T17:08:00+03:00",
-   "kelimeler": [
-    "beyli",
-    "kazad",
-    "kisi",
-    "nde",
-    "yaral",
-    "zinci"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "00c12976d3f9": {
-   "id": "00c12976d3f9",
-   "kaynak": "AA",
-   "baslik": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı",
-   "ozet": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir kara yoluna başarıyla iniş ve kalkış gerçekleştirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akinci-ve-bayraktar-tb2-den-kara-yoluna-basarili-inis-ve-kalkis/4124283",
-   "zaman": "2026-11-13T17:09:45+03:00",
-   "kelimeler": [
-    "akinc",
-    "bayra",
-    "inis",
-    "kalki",
-    "kara",
-    "tb2",
-    "yapti",
-    "yolun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "Hürriyet",
-    "TRT Haber"
-   ]
-  },
   "a845cca9034c": {
    "id": "a845cca9034c",
    "kaynak": "TRT Haber",
@@ -98,27 +15,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "09afff82b606": {
-   "id": "09afff82b606",
-   "kaynak": "AA",
-   "baslik": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı",
-   "ozet": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir kara yoluna başarıyla iniş ve kalkış gerçekleştirdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti/4124283",
-   "zaman": "2026-11-13T17:09:45+03:00",
-   "kelimeler": [
-    "akinc",
-    "bayra",
-    "inis",
-    "kalki",
-    "kara",
-    "tb2",
-    "yapti",
-    "yolun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "00c12976d3f9"
   },
   "82917ed22dd5": {
    "id": "82917ed22dd5",
@@ -25378,9 +25274,133 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cbfff854b179": {
+   "id": "cbfff854b179",
+   "kaynak": "AA",
+   "baslik": "Sanayide düşük karbonlu projeleri destekleyecek ITA Türkiye Proje Hızlandırma Programı başlatıldı",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, ITA Türkiye Proje Hızlandırma Programı'nın, emisyon azaltımı sağlama potansiyeline sahip, erken aşamadaki ve ticari ölçekli projeleri destekleyeceğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/sanayide-dusuk-karbonlu-projeleri-destekleyecek-ita-turkiye-proje-hizlandirma-programi-baslatildi/4126821",
+   "zaman": "2026-11-16T17:03:00+03:00",
+   "kelimeler": [
+    "basla",
+    "deste",
+    "dusuk",
+    "hizla",
+    "ita",
+    "karbo",
+    "progr",
+    "proje",
+    "sanay",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "159243f48aa3": {
+   "id": "159243f48aa3",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Sözcüsü Ömer Çelik'ten önemli açıklamalar",
+   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, parti genel merkezinde Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan başkanlığında gerçekleştirilen Merkez Yürütme Kurulu (MYK) toplantısına ilişkin açıklamalarda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celikten-onemli-aciklamalar-43380391",
+   "zaman": "2026-11-16T17:04:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ak",
+    "celik",
+    "omer",
+    "oneml",
+    "parti",
+    "sozcu",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "353f5294b874": {
+   "id": "353f5294b874",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Sezai Karakoç'u andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 16 Kasım 2021'de vefat eden şair, yazar ve fikir insanı Sezai Karakoç'u andı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-sezai-karakocu-andi-963440.html",
+   "zaman": "2026-11-16T17:06:00+03:00",
+   "kelimeler": [
+    "andi",
+    "cumhu",
+    "erdog",
+    "karak",
+    "sezai"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "Hürriyet"
+   ]
+  },
+  "bcdb4b7b079d": {
+   "id": "bcdb4b7b079d",
+   "kaynak": "Hürriyet",
+   "baslik": "Müşterisinin tartışması taksiciye patladı: Hem camı hem parmağı kırıldı",
+   "ozet": "Zeytinburnu'nda Aksaray'dan getirdiği yolcusunu bekleyen taksi şoförü Servet O., kadının fiyat anlaşmazlığı yaşadığı kişilerden S.K.'nın taşlı saldırısına uğradı.",
+   "link": "https://www.hurriyet.com.tr/gundem/musterisinin-tartismasi-taksiciye-patladi-hem-cami-hem-parmagi-kirildi-43380408",
+   "zaman": "2026-11-16T17:09:36+03:00",
+   "kelimeler": [
+    "cami",
+    "hem",
+    "kiril",
+    "muste",
+    "parma",
+    "patla",
+    "taksi",
+    "tarti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "87ccc6ab870a": {
+   "id": "87ccc6ab870a",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Sezai Karakoç'u andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, şair, yazar ve düşünür Sezai Karakoç'u vefatının 5. yılında andı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi/4126829",
+   "zaman": "2026-11-16T17:11:37+03:00",
+   "kelimeler": [
+    "andi",
+    "cumhu",
+    "erdog",
+    "karak",
+    "sezai",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "353f5294b874"
+  },
+  "fe107dbba7d5": {
+   "id": "fe107dbba7d5",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Sezai Karakoç'u andı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, şair, yazar ve düşünür Sezai Karakoç'u vefatının 5. yılında andı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi-43380425",
+   "zaman": "2026-11-16T17:13:01+03:00",
+   "kelimeler": [
+    "andi",
+    "cumhu",
+    "erdog",
+    "karak",
+    "sezai",
+    "vefat",
+    "yilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "353f5294b874"
   }
  },
  "kayit": [
+  "16.11 17:16:20  4 yeni haber",
   "16.11 17:02:02  5 yeni haber",
   "16.11 16:46:18  7 yeni haber",
   "16.11 16:31:59  5 yeni haber",
@@ -25579,8 +25599,7 @@
   "14.11 14:46:12  4 yeni haber",
   "14.11 14:31:14  4 yeni haber",
   "14.11 14:16:14  6 yeni haber",
-  "14.11 14:01:22  4 yeni haber",
-  "14.11 13:46:02  1 yeni haber"
+  "14.11 14:01:22  4 yeni haber"
  ],
  "otomatik": false
 }
