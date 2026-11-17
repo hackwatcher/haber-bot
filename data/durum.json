@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "4c4e8b0c12a7": {
-   "id": "4c4e8b0c12a7",
-   "kaynak": "AA",
-   "baslik": "İsrail, işgal altındaki Batı Şeria'da 895 yeni konut inşa etmeyi planlıyor",
-   "ozet": "Filistin yönetimine bağlı Ayrım (Utanç) Duvarı ve Yasadışı Yerleşim Birimleriyle Mücadele Konseyi, İsrail işgal altındaki Batı Şeria'da 895 yeni konut inşa etmeyi planladığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-895-yeni-konut-insa-etmeyi-planliyor/4125344",
-   "zaman": "2026-11-14T20:04:09+03:00",
-   "kelimeler": [
-    "895",
-    "altin",
-    "bati",
-    "etmey",
-    "insa",
-    "isgal",
-    "israi",
-    "konut",
-    "planl",
-    "seria",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "fe97d20010b1": {
    "id": "fe97d20010b1",
    "kaynak": "NTV",
@@ -422,28 +399,6 @@
    "diger_kaynaklar": [
     "AA"
    ]
-  },
-  "75ebb940840b": {
-   "id": "75ebb940840b",
-   "kaynak": "AA",
-   "baslik": "Kremlin: Putin, Şi ve Trump, 19 Kasım'da üçlü görüşme yapacak",
-   "ozet": "Kremlin Sözcüsü Dmitriy Peskov, Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump'ın 19 Kasım'da üçlü görüşme yapacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-si-ve-trump-19-kasimda-uclu-gorusme-yapacak/4125351",
-   "zaman": "2026-11-14T20:10:31+03:00",
-   "kelimeler": [
-    "19",
-    "gorus",
-    "kasim",
-    "kreml",
-    "putin",
-    "si",
-    "trump",
-    "uclu",
-    "yapac"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a6b85c145972"
   },
   "d033a3abf850": {
    "id": "d033a3abf850",
@@ -23614,7 +23569,8 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c4a5ca261238": {
    "id": "c4a5ca261238",
@@ -27358,7 +27314,8 @@
     "yarat"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "9893bc14a569": {
    "id": "9893bc14a569",
@@ -28312,9 +28269,149 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "2a66c396caf0": {
+   "id": "2a66c396caf0",
+   "kaynak": "AA",
+   "baslik": "Bakan Fidan: Mekke İttifakı'na yakın ilgi, çalışmalarımızın yaratabileceği olumlu etkinin açık göstergesidir",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Mekke Savunma İttifakı'na gösterilen yakın ilginin barış odaklı çalışmalarının bölgede yaratabileceği olumlu etkinin açık bir göstergesi olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-mekke-ittifakina-yakin-ilgi-calismalarimizin-yaratabilecegi-olumlu-etkinin-acik-gostergesidir/4127975",
+   "zaman": "2026-11-17T17:31:08+03:00",
+   "kelimeler": [
+    "acik",
+    "bakan",
+    "calis",
+    "etkin",
+    "fidan",
+    "goste",
+    "ilgi",
+    "ittif",
+    "mekke",
+    "na",
+    "oluml",
+    "yakin",
+    "yarat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8c13db93a4e4"
+  },
+  "c5cbf5ea8609": {
+   "id": "c5cbf5ea8609",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan: Entegrasyon süreci Suriye'nin toprak bütünlüğünü tahkim edecek şekilde olmalı",
+   "ozet": "Bakan Fidan, Suriye'nin kuzeydoğusundaki entegrasyon sürecinde tutumlarının net olduğunu ve bu olumlu süreci desteklediklerini söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-entegrasyon-sureci-suriyenin-toprak-butunlugunu-tahkim-edecek-sekilde-olmali-963590.html",
+   "zaman": "2026-11-17T18:12:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "butun",
+    "edece",
+    "enteg",
+    "fidan",
+    "nin",
+    "olmal",
+    "sekil",
+    "surec",
+    "suriy",
+    "tahki",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "74baf8b718cc": {
+   "id": "74baf8b718cc",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir'de 20 bin 500 sentetik ecza ele geçirildi, 1 gözaltı",
+   "ozet": "İzmir'in Kemalpaşa ilçesinde bir eve polis tarafından yapılan operasyonda 20 bin 500 sentetik ecza ele geçirildi. Gözaltına alınan B.E.'nin işlemlerinin sürdüğü bildirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/izmirde-20-bin-500-sentetik-ecza-ele-gecirildi-1-gozalti-43381713",
+   "zaman": "2026-11-17T19:54:00+03:00",
+   "kelimeler": [
+    "20",
+    "500",
+    "bin",
+    "ecza",
+    "ele",
+    "gecir",
+    "gozal",
+    "izmir",
+    "sente"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "94cfe11ade86": {
+   "id": "94cfe11ade86",
+   "kaynak": "Hürriyet",
+   "baslik": "Ticaret Bakanlığı, 2 çocuk mayosu için toplatma kararı aldı",
+   "ozet": "TİCARET Bakanlığı, yapılan denetimlerde boğulma ve yaralanma riski taşıdığı belirlenen Türkiye'de üretilmiş 2 farklı çocuk mayosunun piyasaya arzının yasaklanmasına ve toplatılmasına karar verildiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ticaret-bakanligi-2-cocuk-mayosu-icin-toplatma-karari-aldi-43381714",
+   "zaman": "2026-11-17T19:57:20+03:00",
+   "kelimeler": [
+    "aldi",
+    "bakan",
+    "cocuk",
+    "karar",
+    "mayos",
+    "ticar",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "05ff437ee97a": {
+   "id": "05ff437ee97a",
+   "kaynak": "AA",
+   "baslik": "İngiltere Başbakanı Burnham'dan Johnson'a Brexit eleştirisi",
+   "ozet": "İngiltere Başbakanı Andy Burnham, \"Kendisi bu konuda otorite değil. Bize, Britanya'nın kazandığından çoğunu kaybettiği kötü bir Brexit anlaşması bıraktı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnhamdan-johnsona-brexit-elestirisi/4128213",
+   "zaman": "2026-11-17T20:07:56+03:00",
+   "kelimeler": [
+    "basba",
+    "brexi",
+    "burnh",
+    "dan",
+    "elest",
+    "ingil",
+    "johns"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "33a84e997738": {
+   "id": "33a84e997738",
+   "kaynak": "XHABER",
+   "baslik": "Sözcü TV sunucusu Özlem Gürses, YouTube yayınında Sözcü TV'ye kayyum atanmasını değerlendirirken gözyaşlarını tutamadı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30733",
+   "zaman": "2026-11-17T20:13:07+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Sözcü TV sunucusu Özlem Gürses, YouTube yayınında Sözcü TV'ye kayyum atanmasını değerlendirirken gözyaşlarını tutamadı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/ikD2VX6NofhuLKR0ONz2RtPaEKo0NIcbDEJQkQn7DwNqDfZOWAqDYbuEJylBrvYaKwHbauCMX9kC3ur9DnTHFnI7BVJ6T6zFh1qZiS_ukial2iiYoDDhf_avBDr48BuEdlLUAu_rkbNhrLQ1iH8as9pwwpnWb14gICXjNaTzo58_3xRnotJQkA1DJTOwnuKgfdYoFu_mN89qDn8hEHM0yvzYfuY2nkhNQOEeEkKmEL_gB1aKzqPrxro7xa_T7YvAN0aKWiuDUaWUX19Cxiog2y3O4EuSQlBb2hW3plXVRyRBHj4-AanOtq2MLL2fEYozVq4JhTHZPzYDMuQnoWzLGg",
+   "tg_video_url": "https://cdn4.telesco.pe/file/ce53356bf6.mp4?token=INfKLSU2wxl17XyRsmnKiKEzqzndExgwji8Y3S_FpQFTHfb9TvEGoWBEqyboaKLvWhzOKXFiykm4MfZB0oaLGmMvCfvYIRsUTnOd7z1XNKjtiRMpAWw7E1A76Wzlxw-ZMhU1wHp_Savfip-I86nkAvg-q5M73MvZSVyCg22jU_AK6G2fnwi8RYTPKc_cubHevjlC1lH43I8MXDp70h6TjjFxuTUQgllNun-lbh7JUqgjtHLwfSwyc8Qoqvb8ks3Y9G2H5ggl0G4MRRrTpXrxmf-CPE0p-0TS08Xlmbvi7UNSnptjNT905E1XCxj42M2GeQC5hg3IHMYL8jHn0-ybLQ",
+   "kelimeler": [
+    "atanm",
+    "deger",
+    "gozya",
+    "gurse",
+    "kayyu",
+    "ozlem",
+    "sozcu",
+    "sunuc",
+    "tutam",
+    "tv",
+    "yayin",
+    "ye",
+    "youtu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c2ad84b138c5"
   }
  },
  "kayit": [
+  "17.11 20:16:53  4 yeni haber",
   "17.11 20:02:17  2 yeni haber",
   "17.11 19:46:05  2 yeni haber",
   "17.11 19:34:09  Paylaşıldı (otomatik, 7 slaytlık karusel + Reels + Facebook_reels): NTV · Melis Sandal'a ait 4,3 milyar TL geri kazanım hesaplarına aktarıldı",
@@ -28513,8 +28610,7 @@
   "15.11 18:31:18  3 yeni haber",
   "15.11 18:16:04  1 yeni haber",
   "15.11 18:01:51  5 yeni haber",
-  "15.11 17:46:05  5 yeni haber",
-  "15.11 17:31:37  1 yeni haber"
+  "15.11 17:46:05  5 yeni haber"
  ],
  "otomatik": false
 }
