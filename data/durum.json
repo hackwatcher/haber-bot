@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "2b790a1e947b": {
-   "id": "2b790a1e947b",
-   "kaynak": "TRT Haber",
-   "baslik": "Sürgünden ölüme: Ahıska Türkleri",
-   "ozet": "Takvimler 14 Kasım 1944'ü gösteriyordu... Bir kış gecesinde, Ahıska Türkleri hayvan vagonlarına konularak yokluğa sürüldü. Bilinmezliğe giden o yolculukta binlerce Ahıska Türkü hayatını kaybetti. İnsanlık tarihinin kara lekesi Ahıska Sürgünü'nün 82. yılı...",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/surgunden-olume-ahiska-turkleri-963235.html",
-   "zaman": "2026-11-14T10:00:00+03:00",
-   "kelimeler": [
-    "ahisk",
-    "olume",
-    "surgu",
-    "turkl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "64a070d8779d": {
-   "id": "64a070d8779d",
-   "kaynak": "AA",
-   "baslik": "Gümrükler Muhafaza ekipleri 193 bin elektronik sigara ve aksamını ele geçirdi",
-   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, 193 bin adet elektronik sigara ve aksamı başta olmak üzere çok sayıda kaçak ticari eşyaya el koydu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/gumrukler-muhafaza-ekipleri-193-bin-elektronik-sigara-ve-aksamini-ele-gecirdi/4124880",
-   "zaman": "2026-11-14T09:53:27+03:00",
-   "kelimeler": [
-    "193",
-    "aksam",
-    "bin",
-    "ekipl",
-    "ele",
-    "elekt",
-    "gecir",
-    "gumru",
-    "muhaf",
-    "sigar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b5665e5235ce": {
-   "id": "b5665e5235ce",
-   "kaynak": "Hürriyet",
-   "baslik": "10 yaşında yaşadığı olay hayatını değiştirdi: 'Uzun zamandır bu duruma alıştım'",
-   "ozet": "Hatay'da 10 yaşındayken oyun oynadığı sırada elektrik akımına kapılan Mehmet Güven'in 2 kolunda hasar oluştu. Hayata küsmeyerek mücadelesini sürdüren 5 çocuk babası Güven, girdiği sınavlarda imamlık görevine hak kazandı ve 4 yıldır Karabatak Camii'nde imamlık yapıyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/10-yasinda-yasadigi-olay-hayatini-degistirdi-uzun-zamandir-bu-duruma-alistim-43377815",
-   "zaman": "2026-11-14T09:58:44+03:00",
-   "kelimeler": [
-    "10",
-    "alist",
-    "degis",
-    "durum",
-    "hayat",
-    "olay",
-    "uzun",
-    "yasad",
-    "yasin",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "0c0954383e35": {
    "id": "0c0954383e35",
    "kaynak": "TRT Haber",
@@ -284,24 +221,6 @@
    "fb_reels_id": "2175049986427908",
    "slayt": 5,
    "kanca": "DENİZDE ASKERİ DÜZENLEME"
-  },
-  "92726c15a944": {
-   "id": "92726c15a944",
-   "kaynak": "TRT Haber",
-   "baslik": "Şanlıurfa'da 176 kilogram uyuşturucu ele geçirildi",
-   "ozet": "Şanlıurfa'da düzenlenen operasyonda 176 kilogram esrar ele geçirildi, 5 şüpheli gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-176-kilogram-uyusturucu-ele-gecirildi-963245.html",
-   "zaman": "2026-11-14T09:52:00+03:00",
-   "kelimeler": [
-    "176",
-    "ele",
-    "gecir",
-    "kilog",
-    "sanli",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "3d143df4eedb": {
    "id": "3d143df4eedb",
@@ -15942,7 +15861,8 @@
     "varil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "81716138a28e": {
    "id": "81716138a28e",
@@ -16042,7 +15962,8 @@
     "gune"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "86bd5b8bde2f": {
    "id": "86bd5b8bde2f",
@@ -23881,7 +23802,10 @@
     "uzman"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d9a9f598efa1": {
    "id": "d9a9f598efa1",
@@ -26348,7 +26272,10 @@
     "yakin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "55fe227759a4": {
    "id": "55fe227759a4",
@@ -26387,7 +26314,10 @@
     "sanat"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "20fe1c1955a9": {
    "id": "20fe1c1955a9",
@@ -26409,7 +26339,10 @@
     "zilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bd1d0762aa9e": {
    "id": "bd1d0762aa9e",
@@ -26430,9 +26363,255 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c6678d7e2632": {
+   "id": "c6678d7e2632",
+   "kaynak": "AA",
+   "baslik": "ABD'de Büyük Kanyon yakınlarında küçük uçağın düşmesi sonucu 3 kişi hayatını kaybetti",
+   "ozet": "ABD'nin Arizona eyaletinin kuzeyindeki Büyük Kanyon yakınlarında küçük uçağın düşmesi sonucu 3 kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-buyuk-kanyon-yakinlarinda-kucuk-ucagin-dusmesi-sonucu-3-kisi-hayatini-kaybetti/4127264",
+   "zaman": "2026-11-17T09:31:50+03:00",
+   "kelimeler": [
+    "abd",
+    "buyuk",
+    "dusme",
+    "hayat",
+    "kanyo",
+    "kaybe",
+    "kisi",
+    "kucuk",
+    "sonuc",
+    "ucagi",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "686d974f0014"
+  },
+  "ad1154ffecff": {
+   "id": "ad1154ffecff",
+   "kaynak": "TRT Haber",
+   "baslik": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu",
+   "ozet": "ABD'li şarkıcı Beyonce, 7 Şubat 2027'de düzenlenecek 69. Grammy Ödülleri'nde aldığı adaylıkla bu ödüle 100 kez aday gösterilen ilk sanatçı oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
+   "zaman": "2026-11-17T09:32:00+03:00",
+   "kelimeler": [
+    "100",
+    "aday",
+    "beyon",
+    "goste",
+    "gramm",
+    "ilk",
+    "kez",
+    "odulu",
+    "sanat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c0a42681d676"
+  },
+  "ddb5dc3fc21d": {
+   "id": "ddb5dc3fc21d",
+   "kaynak": "TRT Haber",
+   "baslik": "Filistinli çocuk, ders zilini beklerken katil İsrail'in ateşiyle vuruldu",
+   "ozet": "Gazze Şeridi'nin güneyindeki Han Yunus kentinde 12 yaşındaki Filistinli çocuk Tamer elAhras, sığındıkları elMevasi bölgesindeki okulunda ders zilinin çalmasını beklediği sırada İsrail askerlerinin açtığı ateşin hedefi oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/filistinli-cocuk-ders-zilini-beklerken-katil-israilin-atesiyle-vuruldu-963514.html",
+   "zaman": "2026-11-17T09:39:00+03:00",
+   "kelimeler": [
+    "atesi",
+    "bekle",
+    "cocuk",
+    "ders",
+    "filis",
+    "in",
+    "israi",
+    "katil",
+    "vurul",
+    "zilin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "20fe1c1955a9"
+  },
+  "2873050a736a": {
+   "id": "2873050a736a",
+   "kaynak": "Hürriyet",
+   "baslik": "Adana’da yasa dışı bahis çetesi çökertildi: 24 şüpheli tutuklandı! Hesabını kullandıranlara aylık 85 bin lira ödemişler",
+   "ozet": "Adana’da yasa dışı bahis oynattığı belirlenen çeteye yönelik operasyonda 24 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/adanada-yasa-disi-bahis-cetesi-cokertildi-24-supheli-tutuklandi-hesabini-kullandiranlara-aylik-85-bin-lira-odemisler-43380818",
+   "zaman": "2026-11-17T09:40:00+03:00",
+   "kelimeler": [
+    "24",
+    "85",
+    "adana",
+    "aylik",
+    "bahis",
+    "bin",
+    "cetes",
+    "coker",
+    "disi",
+    "hesab",
+    "kulla",
+    "lira",
+    "odemi",
+    "suphe",
+    "tutuk",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3f9cc145a420": {
+   "id": "3f9cc145a420",
+   "kaynak": "TRT Haber",
+   "baslik": "Brent petrolün varili 92,05 dolardan işlem görüyor",
+   "ozet": "Cuma günü 96,77 dolara kadar yükselen Brent petrolün ocak vadeli varil fiyatı, günü 92,44 dolardan tamamladı.",
+   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9205-dolardan-islem-goruyor-963515.html",
+   "zaman": "2026-11-17T09:44:00+03:00",
+   "kelimeler": [
+    "05",
+    "92",
+    "brent",
+    "dolar",
+    "goruy",
+    "islem",
+    "petro",
+    "varil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0c650f0aeb33"
+  },
+  "41fb678dc7ed": {
+   "id": "41fb678dc7ed",
+   "kaynak": "Hürriyet",
+   "baslik": "Roma dönemine ait 1354 sikke ve 2 tarihi obje ele geçirildi",
+   "ozet": "Siirt’in Kurtalan ilçesinde jandarma ekiplerince düzenlenen operasyonda, Roma dönemine ait olduğu değerlendirilen 1354 bronz sikke ile 2 tarihi obje ele geçirildi, 1 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/roma-donemine-ait-1354-sikke-ve-2-tarihi-obje-ele-gecirildi-43380834",
+   "zaman": "2026-11-17T09:48:14+03:00",
+   "kelimeler": [
+    "1354",
+    "ait",
+    "donem",
+    "ele",
+    "gecir",
+    "obje",
+    "roma",
+    "sikke",
+    "tarih"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc96eea14dfd": {
+   "id": "dc96eea14dfd",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Sözcü TV ve internet sitesine kayyum atandı",
+   "ozet": "Sözcü TV ve internet sitesine düzenlenen operasyonda bazı yöneticiler gözaltına alındı ve Sözcü TV ile internet sitesine kayyum atandı.",
+   "link": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o",
+   "zaman": "2026-11-17T09:48:32+03:00",
+   "kelimeler": [
+    "atand",
+    "inter",
+    "kayyu",
+    "sites",
+    "sozcu",
+    "tv"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a35666425209": {
+   "id": "a35666425209",
+   "kaynak": "NTV",
+   "baslik": "Eylem Tok'un başvurusuna Oğuz Murat Aci'nin ailesinden tepki: \"Bu iş parayla çözülemez\"",
+   "ozet": "Oğuz Murat Aci'nin ölümüne neden olan trafik kazasının ardından yurt dışına kaçan Eylem Tok'un avukatlarının yakalama kararının kaldırılmasına ilişkin başvurusu, Aci ailesinin tepkisine neden oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/eylem-tokun-basvurusuna-oguz-murat-acinin-ailesinden-tepki-bu-is-parayla-cozulemez-1751222",
+   "zaman": "2026-11-17T09:49:02+03:00",
+   "kelimeler": [
+    "aci",
+    "ailes",
+    "basvu",
+    "cozul",
+    "eylem",
+    "is",
+    "murat",
+    "nin",
+    "oguz",
+    "paray",
+    "tepki",
+    "tok",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "28ff81fc2856": {
+   "id": "28ff81fc2856",
+   "kaynak": "Hürriyet",
+   "baslik": "Cezayı yedi, tutanakla poz verdi: Bir fotoğraf 10 bin TL'ye geldi",
+   "ozet": "Bursa'da polis ekiplerinin uygulamasına takılan iki modifiye otomobilin sürücüsüne, mevzuata aykırı teknik değişiklikler nedeniyle toplam 20 bin lira ceza uygulandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cezayi-yedi-tutanakla-poz-verdi-bir-fotograf-10-bin-tlye-geldi-43380826",
+   "zaman": "2026-11-17T09:49:08+03:00",
+   "kelimeler": [
+    "10",
+    "bin",
+    "cezay",
+    "fotog",
+    "geldi",
+    "poz",
+    "tl",
+    "tutan",
+    "verdi",
+    "ye",
+    "yedi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c8826ca320be": {
+   "id": "c8826ca320be",
+   "kaynak": "AA",
+   "baslik": "ABD'de adli tıp uzmanı, Jeffrey Epstein'in öldürüldüğünü iddia etti",
+   "ozet": "ABD'de 2019'da cezaevinde ölü bulunan Jeffrey Epstein'in otopsi raporunu inceleyen adli tıp uzmanı Prof. Dr. Michael Freeman, Epstein'in intihar etmediğini, boğularak öldürüldüğünü öne sürdü.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-adli-tip-uzmani-jeffrey-epsteinin-olduruldugunu-iddia-etti/4127281",
+   "zaman": "2026-11-17T09:53:48+03:00",
+   "kelimeler": [
+    "abd",
+    "adli",
+    "epste",
+    "etti",
+    "iddia",
+    "in",
+    "jeffr",
+    "oldur",
+    "tip",
+    "uzman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8cc23314dd8c"
+  },
+  "c8db6834447a": {
+   "id": "c8db6834447a",
+   "kaynak": "AA",
+   "baslik": "Borsa güne düşüşle başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,12 düşüşle 11.827,83 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4127289",
+   "zaman": "2026-11-17T10:00:03+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "dusus",
+    "gune"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "08e838a24380"
   }
  },
  "kayit": [
+  "17.11 10:01:54  5 yeni haber",
   "17.11 09:46:25  8 yeni haber",
   "17.11 09:34:37  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İbrahim Seten: \"Şampiyonlar Ligi maçları TRT’de yayınlandığında diğer ",
   "17.11 09:31:59  4 yeni haber",
@@ -26631,8 +26810,7 @@
   "15.11 08:18:42  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · ‘Eğitim şenliği’ne UNESCO ödülü",
   "15.11 08:15:59  1 yeni haber",
   "15.11 08:01:52  1 yeni haber",
-  "15.11 07:16:29  10 yeni haber",
-  "15.11 07:03:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza mahalline dalan otomobil 1'i polisi 5 kişiyi yaraladı"
+  "15.11 07:16:29  10 yeni haber"
  ],
  "otomatik": false
 }
