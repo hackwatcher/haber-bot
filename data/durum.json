@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "54e1dd3bfa69": {
-   "id": "54e1dd3bfa69",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 14 Kasım 2026",
-   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 14 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-14-kasim-2026-1750783",
-   "zaman": "2026-11-14T07:40:00+03:00",
-   "kelimeler": [
-    "14",
-    "2026",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "mugla",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "3ea0c9927475"
-  },
   "801a86fbd637": {
    "id": "801a86fbd637",
    "kaynak": "Hürriyet",
@@ -19302,7 +19279,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c6c8ab764abb": {
    "id": "c6c8ab764abb",
@@ -22352,7 +22332,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "680c972f0990": {
    "id": "680c972f0990",
@@ -25711,9 +25694,77 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ee37a0e8d64b": {
+   "id": "ee37a0e8d64b",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD istihbaratı: İran'ın Washington'da kirli bomba saldırısı planladığı öne sürüldü",
+   "ozet": "ABD istihbaratına göre İran, Washington'da üst düzey Trump yönetimi yetkililerini kirli bomba veya kimyasal silahla hedef alabilecek planlar yapıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-istihbarati-iranin-washingtonda-kirli-bomba-saldirisi-planladigi-one-suruldu-963487.html",
+   "zaman": "2026-11-17T07:22:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bomba",
+    "in",
+    "iran",
+    "istih",
+    "kirli",
+    "one",
+    "planl",
+    "saldi",
+    "surul",
+    "washi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4a218666f8f4": {
+   "id": "4a218666f8f4",
+   "kaynak": "Hürriyet",
+   "baslik": "Meteoroloji'den İstanbul dahil 13 il için sarı kodlu uyarı! Kuvvetli yağış etkili olacak",
+   "ozet": "Meteoroloji Genel Müdürlüğü, bugün beklenen kuvvetli yağış nedeniyle 13 il için sarı kodlu uyarıda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/meteorolojiden-istanbul-dahil-13-il-icin-sari-kodlu-uyari-kuvvetli-yagis-etkili-olacak-43380744",
+   "zaman": "2026-11-17T07:29:35+03:00",
+   "kelimeler": [
+    "13",
+    "dahil",
+    "den",
+    "etkil",
+    "il",
+    "istan",
+    "kodlu",
+    "kuvve",
+    "meteo",
+    "olaca",
+    "sari",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ff6a1b3e420f"
+  },
+  "18f1a2a15e70": {
+   "id": "18f1a2a15e70",
+   "kaynak": "TRT Haber",
+   "baslik": "Robert Pattinson yeni James Bond oldu",
+   "ozet": "İngiliz oyuncu Robert Pattinson, Amazon MGM Studios'un yeni James Bond filminde \"007\" karakterini canlandıracak.",
+   "link": "https://www.trthaber.com/haber/dunya/robert-pattinson-yeni-james-bond-oldu-963488.html",
+   "zaman": "2026-11-17T07:33:00+03:00",
+   "kelimeler": [
+    "bond",
+    "james",
+    "patti",
+    "rober",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d5792d85c3d5"
   }
  },
  "kayit": [
+  "17.11 07:46:17  1 yeni haber",
   "17.11 07:31:57  3 yeni haber",
   "17.11 07:16:11  17 yeni haber",
   "17.11 07:04:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | Fon soruşturması kapsamında 21 şirkete kayyum atandı.",
@@ -25912,8 +25963,7 @@
   "15.11 02:01:33  2 yeni haber",
   "15.11 01:34:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · A Milli Kadın Basketbol Takımı, İsrail'i 76-67 mağlup etti",
   "15.11 01:31:15  2 yeni haber",
-  "15.11 01:16:25  1 yeni haber",
-  "15.11 01:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Milli kick boksçularımız Avrupa Şampiyonası'nda 53 madalya kazandı"
+  "15.11 01:16:25  1 yeni haber"
  ],
  "otomatik": false
 }
