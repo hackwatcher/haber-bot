@@ -1,55 +1,5 @@
 {
  "haberler": {
-  "40080e5505ea": {
-   "id": "40080e5505ea",
-   "kaynak": "Hürriyet",
-   "baslik": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan: Türkiye, Lübnan'ın refahını, istikrarını ve barışını istiyor",
-   "ozet": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, Lübnan'ın Trablusşam kentinde Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı (TİKA) tarafından restore edilen Mevlevihane'yi ziyaret ederek Türkiye ile Lübnan arasındaki tarihi ve kültürel bağların…",
-   "link": "https://www.hurriyet.com.tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-turkiye-lubnanin-refahini-istikrarini-ve-barisini-istiyor-43378281",
-   "zaman": "2026-11-14T15:22:24+03:00",
-   "kelimeler": [
-    "baris",
-    "baska",
-    "bilal",
-    "erdog",
-    "heyet",
-    "ilim",
-    "in",
-    "istik",
-    "istiy",
-    "lubna",
-    "mutev",
-    "refah",
-    "turki",
-    "vakfi",
-    "yayma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dcb818c092a5"
-  },
-  "1ff76d5339c6": {
-   "id": "1ff76d5339c6",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Hürmüz Boğazı'nda bir tanker daha mayına çarparak alev aldı",
-   "ozet": "İran ordusu, Hürmüz Boğazının doğusunda bir petrol tankerinin daha deniz mayınına çarparak alev aldığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-bir-tanker-daha-mayina-carparak-alev-aldi-963277.html",
-   "zaman": "2026-11-14T15:31:00+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "bogaz",
-    "carpa",
-    "hurmu",
-    "iran",
-    "mayin",
-    "nda",
-    "tanke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8055e24bdc1b"
-  },
   "dcc397b1368b": {
    "id": "dcc397b1368b",
    "kaynak": "AA",
@@ -18532,7 +18482,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c52b36782437": {
    "id": "c52b36782437",
@@ -18946,7 +18897,10 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "4561f159b1c5": {
    "id": "4561f159b1c5",
@@ -21406,7 +21360,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "e7a255e16bfc": {
    "id": "e7a255e16bfc",
@@ -27639,9 +27596,220 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f9cf5ece66e8": {
+   "id": "f9cf5ece66e8",
+   "kaynak": "AA",
+   "baslik": "COP31'de \"Mavi Gezegeni Korumak: Sıfır Atık Yaklaşımıyla Su Kirliliğine Son Veren Çözümler\" paneli düzenlendi",
+   "ozet": "COP31 kapsamında, AK Parti Genel Merkez Kadın Kolları Başkanlığınca \"Mavi Gezegeni Korumak: Sıfır Atık Yaklaşımıyla Su Kirliliğine Son Veren Çözümler\" paneli gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-mavi-gezegeni-korumak-sifir-atik-yaklasimiyla-su-kirliligine-son-veren-cozumler-paneli-duzenlendi/4127572",
+   "zaman": "2026-11-17T12:53:46+03:00",
+   "kelimeler": [
+    "atik",
+    "cop31",
+    "cozum",
+    "duzen",
+    "gezeg",
+    "kirli",
+    "korum",
+    "mavi",
+    "panel",
+    "sifir",
+    "su",
+    "veren",
+    "yakla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a2ee9a457146"
+  },
+  "352e6ed26a9a": {
+   "id": "352e6ed26a9a",
+   "kaynak": "AA",
+   "baslik": "MHP Genel Başkanı Bahçeli: Geleceğe daha güçlü bir Türkiye bırakmak düşüncesi bizim temel gayemizdir",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Terörsüz Türkiye\" sürecine ilişkin, \"Geleceğe daha güçlü bir Türkiye bırakmak düşüncesi bizim temel gayemizdir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-gelecege-daha-guclu-bir-turkiye-birakmak-dusuncesi-bizim-temel-gayemizdir/4127610",
+   "zaman": "2026-11-17T13:21:04+03:00",
+   "kelimeler": [
+    "bahce",
+    "baska",
+    "birak",
+    "bizim",
+    "dusun",
+    "gayem",
+    "gelec",
+    "genel",
+    "guclu",
+    "mhp",
+    "temel",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "20d457455ed9": {
+   "id": "20d457455ed9",
+   "kaynak": "NTV",
+   "baslik": "“COP31 alanını dijitalleştirdik”",
+   "ozet": "COP31’de dijital altyapı da gündemde. Türk Telekom Network Genel Müdür Yardımcısı Zafer Orhan, zirve için hazırlanan dijital altyapının detaylarını anlattı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-cop31-alanini-dijitallestirdik-1751305",
+   "zaman": "2026-11-17T15:16:00+03:00",
+   "kelimeler": [
+    "alani",
+    "cop31",
+    "dijit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d7a26a630fd7"
+  },
+  "b241338f64c3": {
+   "id": "b241338f64c3",
+   "kaynak": "AA",
+   "baslik": "Sızdırılan 15 milyondan fazla belge Deutsche Bank'taki usulsüzlükleri ve riskli ilişkileri ortaya çıkardı",
+   "ozet": "Almanya'nın en büyük bankası Deutsche Bank'a ait 15 milyondan fazla sızdırılmış belge, bankanın geçmişteki tartışmalı iş uygulamalarını ve denetim zafiyetlerini ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sizdirilan-15-milyondan-fazla-belge-deutsche-banktaki-usulsuzlukleri-ve-riskli-iliskileri-ortaya-cikardi/4127778",
+   "zaman": "2026-11-17T15:17:33+03:00",
+   "kelimeler": [
+    "15",
+    "bank",
+    "belge",
+    "cikar",
+    "deuts",
+    "fazla",
+    "ilisk",
+    "milyo",
+    "ortay",
+    "riskl",
+    "sizdi",
+    "taki",
+    "usuls"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "db64308b5767": {
+   "id": "db64308b5767",
+   "kaynak": "Hürriyet",
+   "baslik": "Üst kat komşusunun balkonu çöktü, saniyelerle kurtuldu! 'Sürekli sesler geliyor korkarak yatıyorum'",
+   "ozet": "İstanbul Büyükçekmece'de 3 katlı binanın 2'nci katındaki bir dairenin balkonu çöktü. Olayda saniyelerle yara almadan kurtulan Fatma Yener, \"Dışarı çıktım balkondan ayrıldıktan 2 saniye sonra arkamdan düştü\" ifadelerini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ust-kat-komsusunun-balkonu-coktu-saniyelerle-kurtuldu-surekli-sesler-geliyor-korkarak-yatiyorum-43381420",
+   "zaman": "2026-11-17T15:18:05+03:00",
+   "kelimeler": [
+    "balko",
+    "coktu",
+    "geliy",
+    "kat",
+    "komsu",
+    "korka",
+    "kurtu",
+    "saniy",
+    "sesle",
+    "surek",
+    "ust",
+    "yatiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c01b405a8b7a": {
+   "id": "c01b405a8b7a",
+   "kaynak": "NTV",
+   "baslik": "İstanbullular dikkat, sarı kod verildi fırtına geri dönüyor",
+   "ozet": "Yurdun batı bölgesinde hafta sonuna kadar şiddetli lodos etkili olacak. Yarın İstanbul için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbullular-dikkat-sari-kod-verildi-firtina-geri-donuyor-1751302",
+   "zaman": "2026-11-17T15:24:42+03:00",
+   "kelimeler": [
+    "dikka",
+    "donuy",
+    "firti",
+    "geri",
+    "istan",
+    "kod",
+    "sari",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b29c9361125c": {
+   "id": "b29c9361125c",
+   "kaynak": "Hürriyet",
+   "baslik": "Her biri Anadolu'dan çıkan hazine: İlk kez Külliye'de sergileniyorlar | Bakan Ersoy, Haydarpaşa ve Sirkeci'nin yeni kimliğini açıkladı",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz’ın da katılımıyla Cumhurbaşkanlığı Millet Kütüphanesinde düzenlenen Türkiye Uluslararası Müzecilik Kongresi’nde, Geleceğe Miras Projesi kapsamında bu yıl 67 ilde 261 kazı alanında çalışmalar…",
+   "link": "https://www.hurriyet.com.tr/gundem/gelecege-miras-ile-67-ilde-261-kazi-alaninda-calisma-43381391",
+   "zaman": "2026-11-17T15:28:12+03:00",
+   "kelimeler": [
+    "anado",
+    "bakan",
+    "biri",
+    "cikan",
+    "dan",
+    "ersoy",
+    "hayda",
+    "hazin",
+    "her",
+    "ilk",
+    "kez",
+    "kimli",
+    "kulli",
+    "nin",
+    "sergi",
+    "sirke",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0c7e2972395c": {
+   "id": "0c7e2972395c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Yeni Parti'den ikinci fon dosyası: Özlale'nin iddiaları ve POLSAN hakkında bilinenler",
+   "ozet": "Yeni Parti İzmir Milletvekili Ümit Özlale, partisinin hazırladığı sekiz dosyalık fon soruşturması çalışmasının ikincisini bugün TBMM'de düzenlediği basın toplantısıyla açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/crq5vlxqp96wo",
+   "zaman": "2026-11-17T15:28:24+03:00",
+   "kelimeler": [
+    "bilin",
+    "den",
+    "dosya",
+    "fon",
+    "hakki",
+    "iddia",
+    "ikinc",
+    "nin",
+    "ozlal",
+    "parti",
+    "polsa",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "81107c0c42c4"
+  },
+  "5da8ecbb38d6": {
+   "id": "5da8ecbb38d6",
+   "kaynak": "NTV",
+   "baslik": "TBMM Başkanı Kurtulmuş İYİ Parti'yi ziyaret etti",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, bugünkü siyasi parti turlarına İYİ Parti ile devam etti. Kurtulmuş, Genel Başkan Müsavat Dervişoğlu görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmus-iyi-partiyi-ziyaret-etti-1751218",
+   "zaman": "2026-11-17T15:30:22+03:00",
+   "kelimeler": [
+    "baska",
+    "etti",
+    "iyi",
+    "kurtu",
+    "parti",
+    "tbmm",
+    "yi",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d7a26a630fd7"
   }
  },
  "kayit": [
+  "17.11 15:31:40  5 yeni haber",
   "17.11 15:16:46  3 yeni haber",
   "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope",
   "17.11 15:10:05  6 yeni haber",
@@ -27840,8 +28008,7 @@
   "15.11 13:46:00  2 yeni haber",
   "15.11 13:31:43  4 yeni haber",
   "15.11 13:16:10  5 yeni haber",
-  "15.11 13:01:48  8 yeni haber",
-  "15.11 12:46:09  4 yeni haber"
+  "15.11 13:01:48  8 yeni haber"
  ],
  "otomatik": false
 }
