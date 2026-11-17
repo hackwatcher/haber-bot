@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "2d227f4702fe": {
-   "id": "2d227f4702fe",
-   "kaynak": "AA",
-   "baslik": "32. Proje Yönetim Zirvesi'nde savunma sanayisinde proje yönetiminin değişen dinamikleri konuşuldu",
-   "ozet": "Project Management Institute (Proje Yönetim Enstitüsü-PMI) Türkiye tarafından düzenlenen ve proje yönetimi dünyasını bir araya getiren 32. Proje Yönetim Zirvesi kapsamında savunma sanayisinde proje yönetiminin değişen dinamikleri ele alındı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/32-proje-yonetim-zirvesinde-savunma-sanayisinde-proje-yonetiminin-degisen-dinamikleri-konusuldu/4125088",
-   "zaman": "2026-11-14T14:46:10+03:00",
-   "kelimeler": [
-    "32",
-    "degis",
-    "dinam",
-    "konus",
-    "nde",
-    "proje",
-    "sanay",
-    "savun",
-    "yonet",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1ee8c1e9ed97": {
    "id": "1ee8c1e9ed97",
    "kaynak": "Hürriyet",
@@ -26925,7 +26903,10 @@
     "zanli"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "57e471a9d268": {
    "id": "57e471a9d268",
@@ -26990,7 +26971,10 @@
     "zaman"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "4f2288fc437e": {
    "id": "4f2288fc437e",
@@ -27211,9 +27195,116 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "82a10cd80d11": {
+   "id": "82a10cd80d11",
+   "kaynak": "AA",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Zorlu, \"Şefika Gaspıralı Uluslararası Sempozyumu\"nun açılışında konuştu",
+   "ozet": "Zorlu, TDT Devlet Başkanları Konseyi 13. Zirvesi'nin \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" ana temasıyla düzenlendiğini belirterek, \"Şefika Gaspıralı da 'Dilde, Fikirde ve İşte Birlik' şiarının ilk öncü uygulayıcılarından biri olmuştur.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-sefika-gaspirali-uluslararasi-sempozyumunun-acilisinda-konustu/4127582",
+   "zaman": "2026-11-17T12:59:25+03:00",
+   "kelimeler": [
+    "acili",
+    "ak",
+    "baska",
+    "gaspi",
+    "genel",
+    "konus",
+    "nun",
+    "parti",
+    "sefik",
+    "sempo",
+    "ulusl",
+    "yardi",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f63d687cd0af": {
+   "id": "f63d687cd0af",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de otobüse çarpan tramvay raydan çıktı",
+   "ozet": "İzmir'in Konak ilçesinde belediye otobüsüne çarpan tramvay raydan çıktı.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-otobuse-carpan-tramvay-raydan-cikti-963552.html",
+   "zaman": "2026-11-17T14:08:00+03:00",
+   "kelimeler": [
+    "carpa",
+    "cikti",
+    "izmir",
+    "otobu",
+    "rayda",
+    "tramv"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc8182406bf8": {
+   "id": "dc8182406bf8",
+   "kaynak": "TRT Haber",
+   "baslik": "12 ilde yasa dışı bahis operasyonu: 22 gözaltı",
+   "ozet": "Denizli merkezli 12 ilde düzenlenen yasa dışı bahis operasyonunda 22 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/12-ilde-yasa-disi-bahis-operasyonu-22-gozalti-963553.html",
+   "zaman": "2026-11-17T14:34:00+03:00",
+   "kelimeler": [
+    "12",
+    "22",
+    "bahis",
+    "disi",
+    "gozal",
+    "ilde",
+    "opera",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c6cacecf12a9"
+  },
+  "19bf226ab0d6": {
+   "id": "19bf226ab0d6",
+   "kaynak": "TRT Haber",
+   "baslik": "Kişisel verileri ele geçirenlere 42 ilde operasyon: 14 gözaltı",
+   "ozet": "İstanbul merkezli 42 ilde yetkisiz erişim yoluyla kişisel bilgileri ele geçirenlere yönelik operasyonda gözaltına alınan 14 zanlı tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kisisel-verileri-ele-gecirenlere-42-ilde-operasyon-14-gozalti-963554.html",
+   "zaman": "2026-11-17T14:37:00+03:00",
+   "kelimeler": [
+    "14",
+    "42",
+    "ele",
+    "gecir",
+    "gozal",
+    "ilde",
+    "kisis",
+    "opera",
+    "veril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "810e0bb9a6eb"
+  },
+  "d346343f4699": {
+   "id": "d346343f4699",
+   "kaynak": "AA",
+   "baslik": "Küresel internet sitelerine siber saldırıyla zararlı kod yerleştirildi",
+   "ozet": "Siber güvenlik araştırmacıları, siber saldırganların kripto para ve kredi kartı bilgilerini çalmak amacıyla dünyanın en çok ziyaret edilen internet sitelerinden bazılarını manipüle ettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kuresel-internet-sitelerine-siber-saldiriyla-zararli-kod-yerlestirildi/4127728",
+   "zaman": "2026-11-17T14:44:09+03:00",
+   "kelimeler": [
+    "inter",
+    "kod",
+    "kures",
+    "saldi",
+    "siber",
+    "sitel",
+    "yerle",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 14:46:35  3 yeni haber",
   "17.11 14:32:00  6 yeni haber",
   "17.11 14:16:43  9 yeni haber",
   "17.11 14:02:05  9 yeni haber",
@@ -27412,8 +27503,7 @@
   "15.11 12:33:39  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Lise öğrencileri, kutup buzullarındaki kırılmaları tespit etmeyi amaçl",
   "15.11 12:31:20  6 yeni haber",
   "15.11 12:31:20  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss",
-  "15.11 12:16:23  10 yeni haber",
-  "15.11 12:01:36  7 yeni haber"
+  "15.11 12:16:23  10 yeni haber"
  ],
  "otomatik": false
 }
