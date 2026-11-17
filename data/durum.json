@@ -15454,7 +15454,8 @@
    "slayt": 4,
    "kanca": "YERİN 7 KM DERİNLİĞİNDE",
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "AA"
    ]
   },
   "bd96ed47d663": {
@@ -23465,7 +23466,10 @@
     "uygul"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "fc5f917fd0cc": {
    "id": "fc5f917fd0cc",
@@ -24960,9 +24964,114 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3f7dae9e8512": {
+   "id": "3f7dae9e8512",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu, Gazze Şeridi'ne kahve ve sigara paketleriyle birlikte provokatif broşürler attı",
+   "ozet": "İsrail ordusu, abluka altında tuttuğu Gazze Şeridi'ndeki Filistinlilerin üzerine kahve ve sigara paketleriyle birlikte provokatif mesajlar içeren broşürler bıraktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridine-kahve-ve-sigara-paketleriyle-birlikte-provokatif-brosurler-atti/4127181",
+   "zaman": "2026-11-17T02:22:56+03:00",
+   "kelimeler": [
+    "atti",
+    "birli",
+    "brosu",
+    "gazze",
+    "israi",
+    "kahve",
+    "ordus",
+    "paket",
+    "provo",
+    "serid",
+    "sigar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "080deecef3a0": {
+   "id": "080deecef3a0",
+   "kaynak": "AA",
+   "baslik": "A Milli Futbol Takımı, UEFA Uluslar B Ligi'ne düştü",
+   "ozet": "A Milli Futbol Takımı, Yunanistan'ın Sırbistan'ı 1-0 mağlup etmesiyle UEFA Uluslar B Ligi'ne düştü.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-uefa-uluslar-b-ligine-dustu/4127184",
+   "zaman": "2026-11-17T02:26:53+03:00",
+   "kelimeler": [
+    "dustu",
+    "futbo",
+    "ligi",
+    "milli",
+    "takim",
+    "uefa",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "229046678077": {
+   "id": "229046678077",
+   "kaynak": "AA",
+   "baslik": "ABD'li United Airlines, uçuşlarını etkileyen sistem sorununu giderdi",
+   "ozet": "ABD'li hava yolu şirketi United Airlines, bazı uçuşların kalkışını etkileyen sistem sorununun giderildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-united-airlines-ucuslarini-etkileyen-sistem-sorununu-giderdi/4127185",
+   "zaman": "2026-11-17T02:27:10+03:00",
+   "kelimeler": [
+    "abd",
+    "airli",
+    "etkil",
+    "gider",
+    "li",
+    "siste",
+    "sorun",
+    "ucusl",
+    "unite"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d51f64c2ae3": {
+   "id": "2d51f64c2ae3",
+   "kaynak": "AA",
+   "baslik": "Endonezya'da 6,6 büyüklüğünde deprem",
+   "ozet": "Endonezya'da 6,6 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/endonezyada-6-6-buyuklugunde-deprem/4127186",
+   "zaman": "2026-11-17T02:27:13+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "endon"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "95a2ed96f7df"
+  },
+  "4f87b7e0d6fc": {
+   "id": "4f87b7e0d6fc",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye İklim Okulu'nda iklim değişikliğine karşı eğitimde iyi uygulama örnekleri ele alındı",
+   "ozet": "Milli Eğitim Bakanlığınca MEB Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında oluşturulan Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine ve afet risklerine karşı eğitimde iyi uygulama örnekleri ele alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-iklim-okulunda-iklim-degisikligine-karsi-egitimde-iyi-uygulama-ornekleri-ele-alindi-963472.html",
+   "zaman": "2026-11-17T02:58:00+03:00",
+   "kelimeler": [
+    "alind",
+    "degis",
+    "egiti",
+    "ele",
+    "iklim",
+    "iyi",
+    "karsi",
+    "nda",
+    "okulu",
+    "ornek",
+    "turki",
+    "uygul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d54d6c1f4bd"
   }
  },
  "kayit": [
+  "17.11 03:16:40  3 yeni haber",
   "17.11 03:02:16  2 yeni haber",
   "17.11 02:46:43  1 yeni haber",
   "17.11 02:31:33  1 yeni haber",
@@ -25161,8 +25270,7 @@
   "14.11 23:16:08  4 yeni haber",
   "14.11 23:01:47  1 yeni haber",
   "14.11 22:46:07  1 yeni haber",
-  "14.11 22:31:25  3 yeni haber",
-  "14.11 22:16:08  1 yeni haber"
+  "14.11 22:31:25  3 yeni haber"
  ],
  "otomatik": false
 }
