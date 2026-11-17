@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "cfa2d03bc6da": {
-   "id": "cfa2d03bc6da",
-   "kaynak": "NTV",
-   "baslik": "Bakan Tekin'den COP31'de çağrı. \"Okullar savaşın hedefi olmaktan korunmalı\"",
-   "ozet": "Milli Eğitim Bakanı Yusuf Tekin, COP31'de yaptığı konuşmada savaş nedeniyle eğitimden uzak kalan milyonlarca çocuğa dikkat çekerek okulların ve öğretmenlerin korunması çağrısında bulundu.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-tekinden-cop31de-cagri-okullar-savasin-hedefi-olmaktan-korunmali-1750862",
-   "zaman": "2026-11-14T15:04:16+03:00",
-   "kelimeler": [
-    "bakan",
-    "cagri",
-    "cop31",
-    "den",
-    "hedef",
-    "korun",
-    "okull",
-    "olmak",
-    "savas",
-    "tekin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "55aa3ee6c195": {
-   "id": "55aa3ee6c195",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bolivya Cumhurbaşkanı Rodrigo Paz Pereira ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bolivya-cumhurbaskani-rodrigo-paz-pereira-ile-gorustu/4125107",
-   "zaman": "2026-11-14T15:05:01+03:00",
-   "kelimeler": [
-    "boliv",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "paz",
-    "perei",
-    "rodri"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5d48ca4fd6b7"
-  },
-  "703e40ce83e0": {
-   "id": "703e40ce83e0",
-   "kaynak": "AA",
-   "baslik": "Erdemir'den çelik sektöründe yeşil dönüşüm için \"ekosistem\" vurgusu",
-   "ozet": "Erdemir Yönetim Kurulu Üyesi ve Murahhas Azası İsmail Doğan, demir çelik sektöründe yeşil dönüşümün tek bir başlık altında ve tek bir paydaşla gerçekleştirilemeyeceğini, sürecin farklı boyutlarıyla ekosistem olarak ele alınması gerektiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/erdemirden-celik-sektorunde-yesil-donusum-icin-ekosistem-vurgusu/4125108",
-   "zaman": "2026-11-14T15:05:05+03:00",
-   "kelimeler": [
-    "celik",
-    "den",
-    "donus",
-    "ekosi",
-    "erdem",
-    "sekto",
-    "vurgu",
-    "yesil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "bb034106105b": {
    "id": "bb034106105b",
    "kaynak": "AA",
@@ -26809,11 +26747,20 @@
     "yonel",
     "zanli"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-11-17T15:13:41.832531+03:00",
+   "ig_id": "18150473119561139",
+   "reels_id": "17891258016478421",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1045178715276894",
+   "slayt": 6,
+   "kanca": "Son dakika"
   },
   "57e471a9d268": {
    "id": "57e471a9d268",
@@ -27439,7 +27386,10 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "2dfcc70ee1df": {
    "id": "2dfcc70ee1df",
@@ -27485,9 +27435,151 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d2d128522832": {
+   "id": "d2d128522832",
+   "kaynak": "TRT Haber",
+   "baslik": "Marmara Gölü'nün eski misafirleri geri döndü",
+   "ozet": "Manisa'da bu yılın başında etkili olan yağışlarla yeniden su tutmaya başlayan Marmara Gölü'nde flamingo hareketliliği yaşanıyor.",
+   "link": "https://www.trthaber.com/haber/yasam/marmara-golunun-eski-misafirleri-geri-dondu-963557.html",
+   "zaman": "2026-11-17T14:57:00+03:00",
+   "kelimeler": [
+    "dondu",
+    "eski",
+    "geri",
+    "golu",
+    "marma",
+    "misaf",
+    "nun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3609492e6972": {
+   "id": "3609492e6972",
+   "kaynak": "AA",
+   "baslik": "COP31'de enerji tasarrufu çocuklara Enerji Dedektifleri serisi ile anlatılıyor",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakanlığının \"Enerjine Verim Kat\" projesi kapsamında hazırlanan, çocuklarda enerji verimliliği bilinci oluşturmanın amaçlandığı \"Enerji Dedektifleri\" kitap serisi, COP31'de tanıtıldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-enerji-tasarrufu-cocuklara-enerji-dedektifleri-serisi-ile-anlatiliyor/4127744",
+   "zaman": "2026-11-17T14:57:24+03:00",
+   "kelimeler": [
+    "anlat",
+    "cocuk",
+    "cop31",
+    "dedek",
+    "enerj",
+    "seris",
+    "tasar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a2a9eb2e60ee": {
+   "id": "a2a9eb2e60ee",
+   "kaynak": "AA",
+   "baslik": "Trump, Quad ülkelerinin bölgesel güvenlik ve yapay zeka alanında işbirliğini artıracağını belirtti",
+   "ozet": "ABD Başkanı Donald Trump, Dörtlü Güvenlik Diyaloğu (Quad) ülkelerinin bölgesel güvenlik, yapay zeka ve kritik mineraller alanlarında işbirliğini güçlendireceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-quad-ulkelerinin-bolgesel-guvenlik-ve-yapay-zeka-alaninda-isbirligini-artiracagini-belirtti/4127745",
+   "zaman": "2026-11-17T14:58:04+03:00",
+   "kelimeler": [
+    "alani",
+    "artir",
+    "belir",
+    "bolge",
+    "guven",
+    "isbir",
+    "quad",
+    "trump",
+    "ulkel",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c8ea6cb43443"
+  },
+  "73aaa9b76aa7": {
+   "id": "73aaa9b76aa7",
+   "kaynak": "TRT Haber",
+   "baslik": "Katar: İran heyetiyle yapılacak görüşmede ABD ile anlaşmazlıkların giderilmesi hedefleniyor",
+   "ozet": "Katar, ABD ile İran arasındaki krizin çözümüne yönelik arabuluculuk çabaları kapsamında bugün İran heyetiyle yapılacak görüşmede, taraflar arasındaki anlaşmazlıkların giderilmesinin hedeflendiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/katar-iran-heyetiyle-yapilacak-gorusmede-abd-ile-anlasmazliklarin-giderilmesi-hedefleniyor-963558.html",
+   "zaman": "2026-11-17T14:59:00+03:00",
+   "kelimeler": [
+    "abd",
+    "anlas",
+    "gider",
+    "gorus",
+    "hedef",
+    "heyet",
+    "iran",
+    "katar",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "700c9c9e6d31": {
+   "id": "700c9c9e6d31",
+   "kaynak": "AA",
+   "baslik": "Ticaret Bakanı Bolat TESK heyetiyle bir araya geldi",
+   "ozet": "Ticaret Bakanı Ömer Bolat, Türkiye Esnaf ve Sanatkarları Konfederasyonu (TESK) Genel Başkanı Mehmet Yiğiner ve beraberindeki heyeti ağırladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-tesk-heyetiyle-bir-araya-geldi/4127751",
+   "zaman": "2026-11-17T15:00:02+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "bolat",
+    "geldi",
+    "heyet",
+    "tesk",
+    "ticar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3e5164422193": {
+   "id": "3e5164422193",
+   "kaynak": "TRT Haber",
+   "baslik": "Şanlıurfa'da 3 kişi sobadan zehirlendi",
+   "ozet": "Şanlıurfa'nın Birecik ilçesinde sobadan sızan karbonmonoksit gazından zehirlenen aynı aileden 3 kişi hastaneye kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-3-kisi-sobadan-zehirlendi-963560.html",
+   "zaman": "2026-11-17T15:04:00+03:00",
+   "kelimeler": [
+    "kisi",
+    "sanli",
+    "sobad",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c35ebcf88c4a": {
+   "id": "c35ebcf88c4a",
+   "kaynak": "TRT Haber",
+   "baslik": "AB'den COP31'in 35'te 35 Küresel Elektrifikasyon Hedefine destek",
+   "ozet": "vrupa Birliği AB Komisyonu, Türkiye'nin Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31.",
+   "link": "https://www.trthaber.com/haber/dunya/abden-cop31in-35te-35-kuresel-elektrifikasyon-hedefine-destek-963561.html",
+   "zaman": "2026-11-17T15:05:00+03:00",
+   "kelimeler": [
+    "35",
+    "ab",
+    "cop31",
+    "den",
+    "deste",
+    "elekt",
+    "hedef",
+    "in",
+    "kures",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope",
+  "17.11 15:10:05  6 yeni haber",
   "17.11 15:01:32  11 yeni haber",
   "17.11 14:46:35  3 yeni haber",
   "17.11 14:32:00  6 yeni haber",
@@ -27685,9 +27777,7 @@
   "15.11 13:16:10  5 yeni haber",
   "15.11 13:01:48  8 yeni haber",
   "15.11 12:46:09  4 yeni haber",
-  "15.11 12:33:39  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Lise öğrencileri, kutup buzullarındaki kırılmaları tespit etmeyi amaçl",
-  "15.11 12:31:20  6 yeni haber",
-  "15.11 12:31:20  Akış okunamadı: NTV: 403 Client Error: Forbidden for url: https://www.ntv.com.tr/gundem.rss"
+  "15.11 12:33:39  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Lise öğrencileri, kutup buzullarındaki kırılmaları tespit etmeyi amaçl"
  ],
  "otomatik": false
 }
