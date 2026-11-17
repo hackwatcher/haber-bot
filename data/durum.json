@@ -16393,7 +16393,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1285c0ef2f69": {
    "id": "1285c0ef2f69",
@@ -24955,7 +24956,8 @@
     "yorum"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "dff221684412": {
    "id": "dff221684412",
@@ -25179,6 +25181,50 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "57a05a348d8a": {
+   "id": "57a05a348d8a",
+   "kaynak": "AA",
+   "baslik": "İngiltere Başbakanı Burnham, Brexit için \"Kazandığımızdan çoğunu kaybettik\" yorumunu yaptı",
+   "ozet": "İngiltere Başbakanı Andy Burnham, İngiltere'nin Avrupa Birliği'nden (AB) ayrılması üzerinden geçen 10 yılın değerlendirmesini yaparak, \"Son 10 yılda kazandığımızdan daha fazlasını kaybettik. Bize sunulan sert Brexit, Britanya için iyi olmadı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-brexit-icin-kazandigimizdan-cogunu-kaybettik-yorumunu-yapti/4127187",
+   "zaman": "2026-11-17T02:27:41+03:00",
+   "kelimeler": [
+    "basba",
+    "brexi",
+    "burnh",
+    "cogun",
+    "ingil",
+    "kaybe",
+    "kazan",
+    "yapti",
+    "yorum"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "91fa6af573da"
+  },
+  "7cbf78f5edc0": {
+   "id": "7cbf78f5edc0",
+   "kaynak": "NTV",
+   "baslik": "İstanbullular dikkat. Bugün kuvvetli yağış yarın fırtına var. Sabah saatlerine dikkat",
+   "ozet": "Türkiye'nin batısında gök gürültülü sağanak, güneyinde sel ve hortum tehlikesi, doğusunda ise kar bekleniyor. Marmara ve Ege'de kuvvetli yağışlar nedeniyle 13 il için sarı kodlu uyarı yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbullular-dikkat-bugun-kuvvetli-yagis-yarin-firtina-var-sabah-saatlerine-dikkat-1751199",
+   "zaman": "2026-11-17T05:14:09+03:00",
+   "kelimeler": [
+    "bugun",
+    "dikka",
+    "firti",
+    "istan",
+    "kuvve",
+    "saatl",
+    "sabah",
+    "yagis",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "93552f1d8b23"
   }
  },
  "kayit": [
