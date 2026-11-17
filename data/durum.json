@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "a11279b8b7df": {
-   "id": "a11279b8b7df",
-   "kaynak": "Hürriyet",
-   "baslik": "COP31’de sanatla iklim mesajı",
-   "ozet": "RS Sanat Alanı, Birleşmiş Milletler İklim Değişikliği 31. Taraflar Konferansı (COP31) kapsamında Antalya’da düzenlenen COPArt’ta altı sanatçının eserlerini sanatseverlerle buluşturuyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/cop31de-sanatla-iklim-mesaji-43377740",
-   "zaman": "2026-11-14T06:40:27+03:00",
-   "kelimeler": [
-    "cop31",
-    "iklim",
-    "mesaj",
-    "sanat"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "82917ed22dd5"
-  },
   "28e33759f66d": {
    "id": "28e33759f66d",
    "kaynak": "Sözcü",
@@ -25359,7 +25342,10 @@
     "yuklu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "facfc88c4861": {
    "id": "facfc88c4861",
@@ -25403,6 +25389,74 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0b9e01a9be6a"
+  },
+  "1f511ac77527": {
+   "id": "1f511ac77527",
+   "kaynak": "TRT Haber",
+   "baslik": "Kampanya tarihleri belirtilmeyen 'Yüzde 80 indirim' reklamına ceza",
+   "ozet": "Reklam Kurulu, bir mağazanın \"Yüzde 80 indirim\" başlığıyla yaptığı tanıtımlarda kampanyanın başlangıç ve bitiş tarihlerine yer vermediğini tespit etti. Kurul, ilgili işletmeye idari para cezası uygulanmasına ve reklamların durdurulmasına karar verdi.",
+   "link": "https://www.trthaber.com/haber/guncel/kampanya-tarihleri-belirtilmeyen-yuzde-80-indirim-reklamina-ceza-963473.html",
+   "zaman": "2026-11-17T05:06:00+03:00",
+   "kelimeler": [
+    "80",
+    "belir",
+    "ceza",
+    "indir",
+    "kampa",
+    "rekla",
+    "tarih",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b8b2564fc60e"
+  },
+  "7414a932e72e": {
+   "id": "7414a932e72e",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail ordusu Gazze Şeridi'nde patlayıcı yüklü kutularla yeni bir yıkım yöntemi kullanıyor",
+   "ozet": "Ateşkese rağmen Gazze Şeridi'ne yönelik saldırılarını sürdüren katil İsrail ordusunun, son günlerde bölgenin farklı noktalarında Filistinlilere ait ev ve binaları yıkmak amacıyla patlayıcı yüklü kutular kullandığı belirtiliyor.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusu-gazze-seridinde-patlayici-yuklu-kutularla-yeni-bir-yikim-yontemi-kullaniyor-963475.html",
+   "zaman": "2026-11-17T06:09:00+03:00",
+   "kelimeler": [
+    "gazze",
+    "israi",
+    "katil",
+    "kulla",
+    "kutul",
+    "nde",
+    "ordus",
+    "patla",
+    "serid",
+    "yeni",
+    "yikim",
+    "yonte",
+    "yuklu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e2e3e596d128"
+  },
+  "6171d35e7540": {
+   "id": "6171d35e7540",
+   "kaynak": "TRT Haber",
+   "baslik": "'Yüzde 80 indirim kampanyasında tarih detayı cezayla sonuçlandı",
+   "ozet": "Ticaret Bakanlığı Reklam Kurulu, yüzde 80 indirim başlığıyla yapılan tanıtımlarda kampanyanın başlangıç ve bitiş tarihlerinin belirtilmemesi nedeniyle ilgili işletmeye idari para cezası uygulanmasına ve reklamların durdurulmasına karar verdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/yuzde-80-indirim-kampanyasinda-tarih-detayi-cezayla-sonuclandi-963476.html",
+   "zaman": "2026-11-17T06:27:00+03:00",
+   "kelimeler": [
+    "80",
+    "cezay",
+    "detay",
+    "indir",
+    "kampa",
+    "sonuc",
+    "tarih",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b8b2564fc60e"
   }
  },
  "kayit": [
