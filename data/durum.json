@@ -1,89 +1,5 @@
 {
  "haberler": {
-  "791f225cd48f": {
-   "id": "791f225cd48f",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Tekin'den Demirören Medya Lisesi’nin COP31 standına ziyaret",
-   "ozet": "MİLLİ Eğitim Bakanı Yusuf Tekin, COP31 kapsamında girişimcilere ayrılan özel alanda (Startup Zone) Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi öğrencilerinin hazırladığı iklim değişikliğine yönelik projeleri inceledi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-tekinden-demiroren-medya-lisesinin-cop31-standina-ziyaret-43378564",
-   "zaman": "2026-11-14T19:21:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "cop31",
-    "demir",
-    "den",
-    "lises",
-    "medya",
-    "nin",
-    "stand",
-    "tekin",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3221a779de6a": {
-   "id": "3221a779de6a",
-   "kaynak": "Sözcü",
-   "baslik": "Doğadan toplayıp yedi, hayatını kaybetti",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/dogadan-toplayip-yedi-hayatini-kaybetti-p381353",
-   "zaman": "2026-11-14T19:26:53+03:00",
-   "kelimeler": [
-    "dogad",
-    "hayat",
-    "kaybe",
-    "topla",
-    "yedi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "88eb779db9ea"
-  },
-  "cf578925c09d": {
-   "id": "cf578925c09d",
-   "kaynak": "AA",
-   "baslik": "KKTC'nin kuruluş yıl dönümüne özel yayınlar TRT ekranlarında izleyiciyle buluşacak",
-   "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti'nin 43. kuruluş yıl dönümü dolayısıyla TRT, özel yayınlarla izleyici karşısına çıkacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/kktcnin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciyle-bulusacak/4125318",
-   "zaman": "2026-11-14T19:27:00+03:00",
-   "kelimeler": [
-    "bulus",
-    "donum",
-    "ekran",
-    "izley",
-    "kktc",
-    "kurul",
-    "nin",
-    "ozel",
-    "trt",
-    "yayin",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1e57ad625124": {
-   "id": "1e57ad625124",
-   "kaynak": "AA",
-   "baslik": "Başkentte \"Ahıska Türkleri - Kayıp Sürgünün İzinde\" sergisi açıldı",
-   "ozet": "Ahıska Türklerinin 1944'te yaşadığı sürgünü ve sonrasında verdikleri mücadeleyi konu alan \"Ahıska Türkleri - Kayıp Sürgünün İzinde\" sergisi, Ankara Tren Garı'nda ziyaretçilerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/baskentte-ahiska-turkleri-kayip-surgunun-izinde-sergisi-acildi/4125314",
-   "zaman": "2026-11-14T19:17:04+03:00",
-   "kelimeler": [
-    "acild",
-    "ahisk",
-    "baske",
-    "izind",
-    "kayip",
-    "sergi",
-    "surgu",
-    "turkl"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2b790a1e947b"
-  },
   "117587b0b61a": {
    "id": "117587b0b61a",
    "kaynak": "BBC Türkçe",
@@ -1629,28 +1545,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f4b368ac67ce"
-  },
-  "17acff91a7c9": {
-   "id": "17acff91a7c9",
-   "kaynak": "AA",
-   "baslik": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
-   "ozet": "COP31 kapsamında düzenlenen panelde, küresel elektrik kullanımının payının 2035'e kadar yüzde 35'e, 2050'ye kadar yüzde 50'ye çıkarılması hedefi ve bu doğrultuda atılması gereken adımlar ele alındı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyonun-2035e-kadar-yuzde-35e-cikarilmasi-hedefi-ele-alindi/4125315",
-   "zaman": "2026-11-14T19:21:03+03:00",
-   "kelimeler": [
-    "2035",
-    "35",
-    "alind",
-    "cikar",
-    "cop31",
-    "ele",
-    "elekt",
-    "hedef",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8d3858d593ea"
   },
   "b2d748145db5": {
    "id": "b2d748145db5",
@@ -16273,7 +16167,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA",
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "8b7285f1b546": {
@@ -18249,7 +18144,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "5be3d1635c72": {
    "id": "5be3d1635c72",
@@ -27309,11 +27205,20 @@
     "sanda",
     "tl"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "XHABER"
-   ]
+   ],
+   "paylasildi": "2026-11-17T19:34:09.384494+03:00",
+   "ig_id": "18646633561018014",
+   "reels_id": "18108982523343842",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1837437400829018",
+   "slayt": 7,
+   "kanca": "Son dakika"
   },
   "0cab6522b8a3": {
    "id": "0cab6522b8a3",
@@ -28170,9 +28075,229 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9d617f515c61"
+  },
+  "691ad53a3dcf": {
+   "id": "691ad53a3dcf",
+   "kaynak": "Hürriyet",
+   "baslik": "'Kirpi Ahmet cinayeti' sanığının eski eşiden kan donduran ifadeler: 'Adam yaktım, küllerini bulamadılar’ diyordu",
+   "ozet": "Zonguldak’ta 2008 yılında kaybolan ve 2 yıl sonra Ulutan Barajı’nda kemikleri bulunan ‘Kirpi’ lakaplı Ahmet Yılmaz’ın öldürülmesiyle ilgili 16 yıl sonra açılan davada tutuklu sanıklar Tarık Yolcu, Köksal Aktaş ve başka suçtan tutuklu İlker Eren savunma yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kirpi-ahmet-cinayeti-saniginin-eski-esiden-kan-donduran-ifadeler-adam-yaktim-kullerini-bulamadilar-diyordu-43381668",
+   "zaman": "2026-11-17T19:04:00+03:00",
+   "kelimeler": [
+    "adam",
+    "ahmet",
+    "bulam",
+    "cinay",
+    "diyor",
+    "dondu",
+    "eside",
+    "eski",
+    "ifade",
+    "kan",
+    "kirpi",
+    "kulle",
+    "sanig",
+    "yakti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "61cf8875df52": {
+   "id": "61cf8875df52",
+   "kaynak": "TRT Haber",
+   "baslik": "Van'da 4,3 büyüklüğünde deprem",
+   "ozet": "AFAD verilerine göre, Van'ın Gevaş ilçesi merkezli 4,3 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/vanda-43-buyuklugunde-deprem-963593.html",
+   "zaman": "2026-11-17T19:09:00+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9d617f515c61"
+  },
+  "a761c218cf4b": {
+   "id": "a761c218cf4b",
+   "kaynak": "Hürriyet",
+   "baslik": "Van'da 4.3 büyüklüğünde deprem",
+   "ozet": "Son dakika haberi... Van'ın Gevaş ilçesinde 4.3 büyüklüğünde bir deprem meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-vanda-4-3-buyuklugunde-deprem-43381673",
+   "zaman": "2026-11-17T19:10:57+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9d617f515c61"
+  },
+  "72175be220c0": {
+   "id": "72175be220c0",
+   "kaynak": "AA",
+   "baslik": "Nvidia, ulusal güvenlik ve ihracat kontrolü için yeni denetim komitesi kurdu",
+   "ozet": "ABD'li çip üreticisi Nvidia, şirketin ulusal güvenlik politikalarının, ihracat kontrollerine uyumunun ve küresel ticaret risklerinin yönetiminin denetiminden sorumlu yeni bir komite kurduğunu duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/nvidia-ulusal-guvenlik-ve-ihracat-kontrolu-icin-yeni-denetim-komitesi-kurdu/4128159",
+   "zaman": "2026-11-17T19:15:34+03:00",
+   "kelimeler": [
+    "denet",
+    "guven",
+    "ihrac",
+    "komit",
+    "kontr",
+    "kurdu",
+    "nvidi",
+    "ulusa",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "945b5bdef184": {
+   "id": "945b5bdef184",
+   "kaynak": "AA",
+   "baslik": "İran Dışişleri Bakanı Erakçi, Umman’da Katar heyeti ile bölgesel konular hakkında görüştü",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, İran ile ABD arasında arabuluculuk görevi yürüten Katar heyeti ile Umman’ın başkenti Maskat’ta bölgesel konular hakkında görüş alışverişinde bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-umman-da-katar-heyeti-ile-bolgesel-konular-hakkinda-gorustu/4128161",
+   "zaman": "2026-11-17T19:17:23+03:00",
+   "kelimeler": [
+    "bakan",
+    "bolge",
+    "disis",
+    "erakc",
+    "gorus",
+    "hakki",
+    "heyet",
+    "iran",
+    "katar",
+    "konul",
+    "umman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c58bb8842a1f": {
+   "id": "c58bb8842a1f",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum: Antalya'dan 2030 öncesi eylemi hızlandıran bir anlayışla ayrılmayı temenni ediyorum",
+   "ozet": "COP31 İklim Zirvesi Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 2030 Öncesi Hedeflerin Yükseltilmesine İlişkin Üst Düzey Bakanlar Yuvarlak Masa Toplantısı’nda konuştu.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-antalyadan-2030-oncesi-eylemi-hizlandiran-bir-anlayisla-ayrilmayi-temenni-ediyorum-43381680",
+   "zaman": "2026-11-17T19:17:46+03:00",
+   "kelimeler": [
+    "2030",
+    "anlay",
+    "antal",
+    "ayril",
+    "bakan",
+    "dan",
+    "ediyo",
+    "eylem",
+    "hizla",
+    "kurum",
+    "onces",
+    "temen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1f78785f0391": {
+   "id": "1f78785f0391",
+   "kaynak": "NTV",
+   "baslik": "Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 17 Kasım 2026",
+   "ozet": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 17 Kasım 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-17-kasim-2026-1751340",
+   "zaman": "2026-11-17T19:20:01+03:00",
+   "kelimeler": [
+    "17",
+    "2026",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "49ae7bd5116b"
+  },
+  "f310497f2834": {
+   "id": "f310497f2834",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Sözcü TV nasıl kuruldu, yayın sürecinde neler yaşandı?",
+   "ozet": "Sözcü TV ve sozcu.com.tr'nin yayınları günün ilk saatlerinde düzenlenen operasyonun ardından durduruldu. İki yayın organının bağlı bulunduğu Mega Ajans ve Reklamcılık Ticaret AŞ'ye, TMSF bugün kayyum olarak atandı.",
+   "link": "https://www.bbc.com/turkce/articles/cmp3vz0z4zrno",
+   "zaman": "2026-11-17T19:20:46+03:00",
+   "kelimeler": [
+    "kurul",
+    "nasil",
+    "neler",
+    "sozcu",
+    "surec",
+    "tv",
+    "yasan",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "143f2b5481c7": {
+   "id": "143f2b5481c7",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti’den saha çalışması… 81 il ve 973 ilçeden topladığı talepler Cumhurbaşkanı Erdoğan'a sunulacak",
+   "ozet": "AK Parti'nin 'Türkiye Yüzyılı Buluşmaları' kapsamında 81 il ve 973 ilçede gerçekleştirdiği saha çalışmalarında vatandaşlardan gelen talep, beklenti ve öneriler raporlaştırılıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-partiden-saha-calismasi-81-il-ve-973-ilceden-topladigi-talepler-cumhurbaskani-erdogana-sunulacak-43381686",
+   "zaman": "2026-11-17T19:22:01+03:00",
+   "kelimeler": [
+    "81",
+    "973",
+    "ak",
+    "calis",
+    "cumhu",
+    "den",
+    "erdog",
+    "il",
+    "ilced",
+    "parti",
+    "saha",
+    "sunul",
+    "talep",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3e4014f68e9d"
+  },
+  "e479516eb43d": {
+   "id": "e479516eb43d",
+   "kaynak": "NTV",
+   "baslik": "Polis Sandığı'nın parası fonlarda battı mı? İçişleri Bakanı sandığın zararı olmadığını açıkladı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, POLSAN'ın varlığının fonda battığına yönelik iddiaları için, zarar olmadığı, ihtimal varsa da gerekli işlemlerin yapılacağı açıklamasını yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/polis-sandiginin-parasi-fonlarda-batti-mi-icisleri-bakani-sandigin-zarari-olmadigini-acikladi-1751335",
+   "zaman": "2026-11-17T19:28:34+03:00",
+   "kelimeler": [
+    "bakan",
+    "batti",
+    "fonla",
+    "icisl",
+    "nin",
+    "olmad",
+    "paras",
+    "polis",
+    "sandi",
+    "zarar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 19:34:09  Paylaşıldı (otomatik, 7 slaytlık karusel + Reels + Facebook_reels): NTV · Melis Sandal'a ait 4,3 milyar TL geri kazanım hesaplarına aktarıldı",
+  "17.11 19:31:32  6 yeni haber",
   "17.11 19:16:15  3 yeni haber",
   "17.11 19:02:05  3 yeni haber",
   "17.11 18:46:02  5 yeni haber",
@@ -28370,9 +28495,7 @@
   "15.11 17:46:05  5 yeni haber",
   "15.11 17:31:37  1 yeni haber",
   "15.11 17:25:21  3 yeni haber",
-  "15.11 17:01:29  3 yeni haber",
-  "15.11 16:46:00  1 yeni haber",
-  "15.11 16:31:15  4 yeni haber"
+  "15.11 17:01:29  3 yeni haber"
  ],
  "otomatik": false
 }
