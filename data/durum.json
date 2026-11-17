@@ -1,97 +1,5 @@
 {
  "haberler": {
-  "8810e2065688": {
-   "id": "8810e2065688",
-   "kaynak": "TRT Haber",
-   "baslik": "Şehit Binbaşı Kulaksız'ın faili Bitlis'te yakalandı",
-   "ozet": "İçişleri Bakanlığı, 2015'te Jandarma Binbaşı Arslan Kulaksızın şehit edilmesi olayının firari şüphelisi İ.Y.'nin Bitliste yakalandığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/sehit-binbasi-kulaksizin-faili-bitliste-yakalandi-963299.html",
-   "zaman": "2026-11-14T18:34:00+03:00",
-   "kelimeler": [
-    "binba",
-    "bitli",
-    "faili",
-    "in",
-    "kulak",
-    "sehit",
-    "te",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "AA"
-   ]
-  },
-  "be0dfd2fd21e": {
-   "id": "be0dfd2fd21e",
-   "kaynak": "AA",
-   "baslik": "AK Parti Genel Başkan Yardımcısı İleri, panelde konuştu",
-   "ozet": "AK Parti Genel Başkan Yardımcısı Ömer İleri, dijital teknolojilerde yaşanan dönüşümün hükümetleri, toplumsal düzeni ve egemenlik anlayışını etkilediğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-ileri-panelde-konustu/4125299",
-   "zaman": "2026-11-14T18:40:30+03:00",
-   "kelimeler": [
-    "ak",
-    "baska",
-    "genel",
-    "ileri",
-    "konus",
-    "panel",
-    "parti",
-    "yardi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7976f66e11bb"
-  },
-  "884891d75f6c": {
-   "id": "884891d75f6c",
-   "kaynak": "NTV",
-   "baslik": "Binbaşı Arslan Kulaksız'ı şehit eden zanlı yakalandı",
-   "ozet": "2015 yılında Muş'un Malazgirt ilçesinde Binbaşı Arslan Kulaksız'ı ailesinin yanında şehit eden zanlılardan biri yakalandı. Firari zanlıya yardım ve yataklık eden iki kişi daha yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/binbasi-arslan-kulaksizi-sehit-eden-zanli-yakalandi-1750886",
-   "zaman": "2026-11-14T18:41:29+03:00",
-   "kelimeler": [
-    "arsla",
-    "binba",
-    "eden",
-    "kulak",
-    "sehit",
-    "yakal",
-    "zanli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7522a97b5440": {
-   "id": "7522a97b5440",
-   "kaynak": "Hürriyet",
-   "baslik": "İçişleri Bakanlığından açıklama... Binbaşı Kulaksız’ın şehit eden faillerden biri ile yardım ve yataklık eden iki şahıs yakalandı",
-   "ozet": "İçişleri Bakanlığından yapılan açıklaya göre 2015'te Jandarma Binbaşı Arslan Kulaksız’ın şehit edilmesi olayının firari şüphelisi İ.Y., ve yardım yataklık yapan 2 kişi yakalandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-icisleri-bakanligindan-aciklama-binbasi-kulaksizin-sehit-eden-faillerden-biri-ile-yardim-ve-yataklik-eden-iki-sahis-yakalandi-43378540",
-   "zaman": "2026-11-14T18:40:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "bakan",
-    "binba",
-    "biri",
-    "eden",
-    "faill",
-    "icisl",
-    "iki",
-    "in",
-    "kulak",
-    "sahis",
-    "sehit",
-    "yakal",
-    "yardi",
-    "yatak"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8810e2065688"
-  },
   "f8267c0c45b9": {
    "id": "f8267c0c45b9",
    "kaynak": "Sözcü",
@@ -164,26 +72,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "19be3e0f0d84": {
-   "id": "19be3e0f0d84",
-   "kaynak": "AA",
-   "baslik": "Sultangazi’de 2 İETT otobüsünün çarpıştığı kazada 1 kişi yaralandı",
-   "ozet": "Sultangazi’de 2 İETT otobüsünün çarpışması sonucu 1 kişi hafif yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sultangazi-de-2-iett-otobusunun-carpistigi-kazada-1-kisi-yaralandi/4125298",
-   "zaman": "2026-11-14T18:40:07+03:00",
-   "kelimeler": [
-    "carpi",
-    "iett",
-    "kazad",
-    "kisi",
-    "otobu",
-    "sulta",
-    "yaral"
-   ],
-   "durum": "hata",
-   "oncelikli": true,
-   "hata": "Instagram görseli işleyemedi (ERROR)"
   },
   "56fd9f9fa39b": {
    "id": "56fd9f9fa39b",
@@ -16767,7 +16655,8 @@
     "yatay"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d8cc2e9a7aa9": {
    "id": "d8cc2e9a7aa9",
@@ -25013,7 +24902,8 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "015d83fa7563": {
    "id": "015d83fa7563",
@@ -28090,9 +27980,144 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c73ef7fff4de": {
+   "id": "c73ef7fff4de",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,53 değer kaybederek 11.661,00 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4128092",
+   "zaman": "2026-11-17T18:26:00+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0344fc2fb71c"
+  },
+  "6f727c7a4106": {
+   "id": "6f727c7a4106",
+   "kaynak": "AA",
+   "baslik": "Kulüpler Birliği Vakfı toplantısı yapıldı",
+   "ozet": "Vakıf başkanı Ertuğrul Doğan, \"Kulüplerimizin beklentisi, daha önce Sayın Göksel Gümüşdağ zamanında gelen 500 milyon dolar seviyesine yeniden gelmek.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-toplantisi-yapildi/4128094",
+   "zaman": "2026-11-17T18:28:03+03:00",
+   "kelimeler": [
+    "birli",
+    "kulup",
+    "topla",
+    "vakfi",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9b7b3f27c61c"
+  },
+  "633863f68240": {
+   "id": "633863f68240",
+   "kaynak": "Sözcü",
+   "baslik": "İstanbul'da yoğun trafik, araçlar güçlükle ilerliyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/istanbulda-yogun-trafik-araclar-guclukle-ilerliyor-p382232",
+   "zaman": "2026-11-17T18:31:12+03:00",
+   "kelimeler": [
+    "aracl",
+    "guclu",
+    "ilerl",
+    "istan",
+    "trafi",
+    "yogun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8c942590e6d": {
+   "id": "b8c942590e6d",
+   "kaynak": "Hürriyet",
+   "baslik": "95 milyon liralık \"yapay zeka\" dolandırıcılığına operasyon: 16 gözaltı",
+   "ozet": "Mardin merkezli 11 ilde düzenlenen nitelikli dolandırıcılık operasyonunda 16 şüpheli gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/95-milyon-liralik-yapay-zeka-dolandiriciligina-operasyon-16-gozalti-43381653",
+   "zaman": "2026-11-17T18:39:04+03:00",
+   "kelimeler": [
+    "16",
+    "95",
+    "dolan",
+    "gozal",
+    "liral",
+    "milyo",
+    "opera",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "68e9f64c78c1": {
+   "id": "68e9f64c78c1",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Bolat, Uluslararası Demokratlar Birliği heyeti ile görüştü",
+   "ozet": "TİCARET Bakanı Ömer Bolat, Uluslararası Demokratlar Birliği (UID) Genel Başkanı Kenan Aslan ve heyetini kabul etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-bolat-uluslararasi-demokratlar-birligi-heyeti-ile-gorustu-43381654",
+   "zaman": "2026-11-17T18:41:24+03:00",
+   "kelimeler": [
+    "bakan",
+    "birli",
+    "bolat",
+    "demok",
+    "gorus",
+    "heyet",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6884bc1d0518": {
+   "id": "6884bc1d0518",
+   "kaynak": "AA",
+   "baslik": "Avustralya'daki Christmas Adası'nda milyonlarca kırmızı yengeç yıllık göçüne başladı",
+   "ozet": "Avustralya'nın Christmas Adası'nda yaşayan milyonlarca kırmızı yengeç, yıllık göçleri için harekete geçti.",
+   "link": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
+   "zaman": "2026-11-17T18:42:46+03:00",
+   "kelimeler": [
+    "adasi",
+    "avust",
+    "basla",
+    "chris",
+    "daki",
+    "gocun",
+    "kirmi",
+    "milyo",
+    "nda",
+    "yenge",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "965e4c8fe96c": {
+   "id": "965e4c8fe96c",
+   "kaynak": "Sözcü",
+   "baslik": "Rusya'da askeri uçak düştü: Çok sayıda ölü var",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/rusya-da-askeri-ucak-dustu-p382234",
+   "zaman": "2026-11-17T18:44:01+03:00",
+   "kelimeler": [
+    "asker",
+    "dustu",
+    "olu",
+    "rusya",
+    "sayid",
+    "ucak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 18:46:02  5 yeni haber",
   "17.11 18:32:09  1 yeni haber",
   "17.11 18:16:24  2 yeni haber",
   "17.11 18:02:26  5 yeni haber",
@@ -28291,8 +28316,7 @@
   "15.11 16:46:00  1 yeni haber",
   "15.11 16:31:15  4 yeni haber",
   "15.11 16:19:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Tünel içinde araçlar çarpıştı: Çok sayıda ekip sevk edildi, 6 kişi has",
-  "15.11 16:16:05  1 yeni haber",
-  "15.11 16:01:32  4 yeni haber"
+  "15.11 16:16:05  1 yeni haber"
  ],
  "otomatik": false
 }
