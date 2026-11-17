@@ -40,26 +40,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "22edc89489a4": {
-   "id": "22edc89489a4",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'de kalkış yasağı kaldırıldı: ABD uçuşları neden durduruldu ve sırada ne var?",
-   "ozet": "ABD Federal Havacılık İdaresi FAA, ülke genelinde 14 bin 700'den fazla uçuşun aksamasına yol açan telekomünikasyon kaynaklı ülke çapındaki kalkış yasağının kaldırıldığını duyurdu. Peki, ülke çapındaki kalkış yasağına ne sebep oldu, bundan sonra ne olacak?",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-kalkis-yasagi-kaldirildi-abd-ucuslari-neden-durduruldu-ve-sirada-ne-var-963241.html",
-   "zaman": "2026-11-14T09:25:00+03:00",
-   "kelimeler": [
-    "abd",
-    "durdu",
-    "kaldi",
-    "kalki",
-    "neden",
-    "sirad",
-    "ucusl",
-    "yasag"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "cf62199f2a11": {
    "id": "cf62199f2a11",
    "kaynak": "Hürriyet",
@@ -25487,7 +25467,10 @@
     "washi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "4a218666f8f4": {
    "id": "4a218666f8f4",
@@ -26082,7 +26065,10 @@
     "tekno"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b90e2783aca8": {
    "id": "b90e2783aca8",
@@ -26106,9 +26092,195 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0b9e01a9be6a"
+  },
+  "62c321cde672": {
+   "id": "62c321cde672",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkan Yardımcısı Vance, Trump'ın İran'la savaşın sonsuza kadar sürmesine izin vereceğini düşünmüyor",
+   "ozet": "ABD'de Başkan Yardımcısı JD Vance, Başkan Donald Trump'ın İran'la savaşı sona erdirmek istediğini söyleyerek \"Trump Bunun sonsuz bir savaş haline gelmesine izin vermeyecek.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-vance-trumpin-iranla-savasin-sonsuza-kadar-surmesine-izin-verecegini-dusunmuyor-963506.html",
+   "zaman": "2026-11-17T09:12:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "dusun",
+    "in",
+    "iran",
+    "izin",
+    "la",
+    "savas",
+    "sonsu",
+    "surme",
+    "trump",
+    "vance",
+    "verec",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "85b7e3557a27": {
+   "id": "85b7e3557a27",
+   "kaynak": "AA",
+   "baslik": "ABD Başkan Yardımcısı Vance, Trump'ın İran'la savaşın sonsuza kadar sürmesine izin vereceğini düşünmüyor",
+   "ozet": "ABD'de Başkan Yardımcısı JD Vance, Başkan Donald Trump'ın İran'la savaşı sona erdirmek istediğini söyleyerek \"(Trump) Bunun sonsuz bir savaş haline gelmesine izin vermeyecek.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-trumpin-iranla-savasin-sonsuza-kadar-surmesine-izin-verecegini-dusunmuyor/4127247",
+   "zaman": "2026-11-17T09:12:17+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "dusun",
+    "in",
+    "iran",
+    "izin",
+    "la",
+    "savas",
+    "sonsu",
+    "surme",
+    "trump",
+    "vance",
+    "verec",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "62c321cde672"
+  },
+  "484043ec10f1": {
+   "id": "484043ec10f1",
+   "kaynak": "TRT Haber",
+   "baslik": "Küresel piyasalarda gözler Nvidia'da",
+   "ozet": "Küresel piyasalarda teknoloji hisselerinde süregelen satış baskısı nedeniyle negatif bir seyir izlenirken, gözler Nvidia'nın açıklayacağı finansal sonuçlara çevrildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-nvidiada-963508.html",
+   "zaman": "2026-11-17T09:14:00+03:00",
+   "kelimeler": [
+    "gozle",
+    "kures",
+    "nvidi",
+    "piyas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "70d071ccd47f"
+  },
+  "e9cc30114d05": {
+   "id": "e9cc30114d05",
+   "kaynak": "XHABER",
+   "baslik": "HGS ve otoyol cezalarına isyan: “Hiç mi Allah’tan utanmazsınız?”",
+   "ozet": "🗣️ YENİ Parti Grup Başkanvekili Gökhan Günaydın: — Ben Meclis’in bana tahsis ettiği araçla Kuzey Marmara Otoyolu’na ya da Niğde Otoyolu’na gidiyorum. Arabanın önünde ışık yanıyorsa bariyer hemen açılıyor. Işık yanmıyorsa açılmıyor. — ‘Niye açmıyorsun?’ diyoruz.",
+   "link": "https://t.me/sahinozkan000/30718",
+   "zaman": "2026-11-17T09:17:33+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "HGS ve otoyol cezalarına isyan: “Hiç mi Allah’tan utanmazsınız?”\n🗣️ YENİ Parti Grup Başkanvekili Gökhan Günaydın:\n— Ben Meclis’in bana tahsis ettiği araçla Kuzey Marmara Otoyolu’na ya da Niğde Otoyolu’na gidiyorum. Arabanın önünde ışık yanıyorsa bariyer hemen açılıyor. Işık yanmıyorsa açılmıyor.\n— ‘Niye açmıyorsun?’ diyoruz. ‘Plakayı okuyamadı’ diyorlar. Aynı plaka. Işık yanarken okuyor da ışık yanmazken neden okuyamıyor?\n— Ben artık bunu deniyorum. Işık yanmıyor ve sistem plakayı okumuyor.\n— Ne yapmaya çalışıyorlar biliyor musunuz? Plakayı arkadan yazıyorlar. Sonra 15 gün size tebligat gelmiyor. 15 gün içinde ödeme yapılmazsa ceza iki katına çıkıyor. Sonra dört katına çıkıyor.\n— Bakın, bir vatandaşın bana gönderdiği tabloyu söylüyorum:\n— Geçiş ücreti 2.465 lira. Ödenecek toplam tutar 26.495 lira.\n— Yani yaklaşık 2.500 liralık geçiş ücreti için binlerce lira ceza yazıyorsunuz.\n— Bir de zengin edeceğiniz avukatlar var. O da bir dosyadan 20 bin lira kazanıyor.\n— Hiç mi Allah’tan utanmazsınız? Hiç mi kuldan korkmazsınız?",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/iNd6o6uZA_MhaaFNOIATNTVuWHJO0DiIdsP45K7VWWV9VnjUWV8eMI7duylB5YTHfYj4a_UuPazqiuSxfAUEXl2EEqakfPvUor_Oaj5vYG5lQT1ozklD87YIz1lIXUQAaj_p5QnjW6XvbANOKAV8aaPKcjVwVo6myIdujAeLU5uokTVuvq8XUTZ4hnSgcSbcEpFBTe8dewafFEvruQnTRpczZoTyBI-UTYRjJza11_MKnxq4HqqEMIvNu3CttVD4amqbPNyHHXPWkIsv0bEto9gFK45zLZamU25eR_TMs3QlTP_2TEmETIZGD_A5QfoXOyAlR2IoZ3SzNTNRSnb5ZA",
+   "tg_video_url": "",
+   "kelimeler": [
+    "allah",
+    "cezal",
+    "hgs",
+    "hic",
+    "isyan",
+    "otoyo",
+    "tan",
+    "utanm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f984eac83cc0": {
+   "id": "f984eac83cc0",
+   "kaynak": "XHABER",
+   "baslik": "İbrahim Seten: \"Şampiyonlar Ligi maçları TRT’de yayınlandığında diğer kanalların dizileri izlenmiyor.",
+   "ozet": "Bu nedenle TRT’nin Avrupa maçları yayın ihalesine girmesini istemediler.\"",
+   "link": "https://t.me/sahinozkan000/30719",
+   "zaman": "2026-11-17T09:19:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İbrahim Seten: \"Şampiyonlar Ligi maçları TRT’de yayınlandığında diğer kanalların dizileri izlenmiyor.\nBu nedenle TRT’nin Avrupa maçları yayın ihalesine girmesini istemediler.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/FVd3L7cpjRRDflrT7KgEdIwGpklVPkrHp_F5LGlFaJ5OwmU5Lgi2ZXYrwatdIaOl8j7mN2m1cbI7vIgxo_OSJRdvvqq2cxdtAL42gCJRo_s2K95FFa7XcClKLLLIXaGcTLmSLBdz0xz7orJQ6lAgDKAAcUyNmwtJmOcpzTD1ptHpFSku20BeswnHZa1KHQk3geYzg_obBGHu5ESJi1d8CqZi9Yd2UT1SckVLC_EJ1ZzqVyfdtrtvH_Zokm4zesUBFMaFXWW7-mRV9jKVMQRzn7WOUiYjDRWUXxUz1Wv_9xME6SVgjrb0-hxgJwTtuIJi2hfa9vB3dTiKgzPXoHJkZQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "diger",
+    "dizil",
+    "ibrah",
+    "izlen",
+    "kanal",
+    "ligi",
+    "macla",
+    "sampi",
+    "seten",
+    "trt",
+    "yayin"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-17T09:34:37.540554+03:00",
+   "ig_id": "17916866325556584",
+   "reels_id": "18193132291371854",
+   "story_id": "17904553524378018",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1772246728234538",
+   "slayt": 5,
+   "kanca": "TRT YAYIN İHALESİ"
+  },
+  "a67e7a4d722b": {
+   "id": "a67e7a4d722b",
+   "kaynak": "AA",
+   "baslik": "Kalibaf, ABD basınında İran'daki barajların \"çift kullanımlı\" iddiasıyla hedef gösterilmesine yanıt verdi:",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD basınındaki barajların füze tesisleriyle bağlantılı olabileceği haberine ilişkin, ABD ve İsrail'in İran'daki sivil altyapıya saldırması halinde aynı şekilde karşılık vereceklerini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kalibaf-abd-basininda-irandaki-barajlarin-cift-kullanimli-iddiasiyla-hedef-gosterilmesine-yanit-verdi-/4127251",
+   "zaman": "2026-11-17T09:22:21+03:00",
+   "kelimeler": [
+    "abd",
+    "baraj",
+    "basin",
+    "cift",
+    "daki",
+    "goste",
+    "hedef",
+    "iddia",
+    "iran",
+    "kalib",
+    "kulla",
+    "verdi",
+    "yanit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "95a4711e2be6": {
+   "id": "95a4711e2be6",
+   "kaynak": "AA",
+   "baslik": "CNN: ABD istihbaratı, İran'ın Washington'da kirli bombayla saldırı planları geliştirdiğini öne sürdü",
+   "ozet": "ABD istihbaratının, İran'ın Washington'da Başkan Donald Trump yönetiminin üst düzey yetkililerini hedef almak amacıyla kirli bomba veya kimyasal silah kullanmaya yönelik planlar geliştirdiğine ilişkin yeni bilgiler edindiği öne sürüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/cnn-abd-istihbarati-iranin-washingtonda-kirli-bombayla-saldiri-planlari-gelistirdigini-one-surdu/4127254",
+   "zaman": "2026-11-17T09:26:40+03:00",
+   "kelimeler": [
+    "abd",
+    "bomba",
+    "cnn",
+    "gelis",
+    "in",
+    "iran",
+    "istih",
+    "kirli",
+    "one",
+    "planl",
+    "saldi",
+    "surdu",
+    "washi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee37a0e8d64b"
   }
  },
  "kayit": [
+  "17.11 09:34:37  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İbrahim Seten: \"Şampiyonlar Ligi maçları TRT’de yayınlandığında diğer ",
+  "17.11 09:31:59  4 yeni haber",
   "17.11 09:16:19  4 yeni haber",
   "17.11 09:01:53  4 yeni haber",
   "17.11 08:46:33  5 yeni haber",
@@ -26306,9 +26478,7 @@
   "15.11 08:01:52  1 yeni haber",
   "15.11 07:16:29  10 yeni haber",
   "15.11 07:03:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza mahalline dalan otomobil 1'i polisi 5 kişiyi yaraladı",
-  "15.11 07:01:28  2 yeni haber",
-  "15.11 05:31:18  1 yeni haber",
-  "15.11 05:16:09  1 yeni haber"
+  "15.11 07:01:28  2 yeni haber"
  ],
  "otomatik": false
 }
