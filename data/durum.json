@@ -16489,7 +16489,8 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "7429121f6977": {
    "id": "7429121f6977",
@@ -28504,9 +28505,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cb1499726094": {
+   "id": "cb1499726094",
+   "kaynak": "AA",
+   "baslik": "Rusya'nın Kemerovo bölgesinde düşen askeri nakliye uçağında 19 kişi öldü",
+   "ozet": "Rusya'nın Kemerovo bölgesinde düşen \"An-12\" tipi askeri nakliye uçağında 19 kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kemerovo-bolgesinde-dusen-askeri-nakliye-ucaginda-19-kisi-oldu/4128108",
+   "zaman": "2026-11-17T18:34:12+03:00",
+   "kelimeler": [
+    "19",
+    "asker",
+    "bolge",
+    "dusen",
+    "kemer",
+    "kisi",
+    "nakli",
+    "nin",
+    "rusya",
+    "ucagi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b521f692bcc9": {
+   "id": "b521f692bcc9",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında 7 kişi daha tutuklandı",
+   "ozet": "Fon soruşturması kapsamında bugün adliyeye sevk edilen 7 şüpheli tutuklandı. 10 kişi hakkında ise adli kontrol kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-7-kisi-daha-tutuklandi-963604.html",
+   "zaman": "2026-11-17T22:20:00+03:00",
+   "kelimeler": [
+    "fon",
+    "kisi",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "3424b7897c29"
   }
  },
  "kayit": [
+  "17.11 22:31:44  1 yeni haber",
   "17.11 22:16:20  3 yeni haber",
   "17.11 22:01:52  4 yeni haber",
   "17.11 21:46:46  4 yeni haber",
@@ -28705,8 +28746,7 @@
   "15.11 20:31:25  3 yeni haber",
   "15.11 20:16:33  3 yeni haber",
   "15.11 20:01:31  1 yeni haber",
-  "15.11 19:46:05  4 yeni haber",
-  "15.11 19:31:45  1 yeni haber"
+  "15.11 19:46:05  4 yeni haber"
  ],
  "otomatik": false
 }
