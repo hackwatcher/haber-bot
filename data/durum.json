@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "a1774e6121c2": {
-   "id": "a1774e6121c2",
-   "kaynak": "Hürriyet",
-   "baslik": "Bursa'da kontrolden çıkan taksi kamyonete çarptı",
-   "ozet": "Bursa'nın Yıldırım ilçesinde şoförünün kontrolünden çıkan taksi, park halindeki kamyonete çarptı. Taksi şoförünün hafif yaralandığı kaza çevredeki iş yerinin güvenlik kamerasına yansıdı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bursada-kontrolden-cikan-taksi-kamyonete-carpti-43377760",
-   "zaman": "2026-11-14T08:38:40+03:00",
-   "kelimeler": [
-    "bursa",
-    "carpt",
-    "cikan",
-    "kamyo",
-    "kontr",
-    "taksi"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-14T09:33:33.426521+03:00",
-   "ig_id": "18069986867790462",
-   "reels_id": "18124423894940245",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1105946048911300",
-   "slayt": 4,
-   "kanca": "TAKSİ KAMYONETE ÇARPTI"
-  },
-  "9cade8bcf130": {
-   "id": "9cade8bcf130",
-   "kaynak": "NTV",
-   "baslik": "İstanbul için kritik saat belli oldu: Öğlen bahar havası, akşam kış soğuğu",
-   "ozet": "İstanbul'da lodos fırtınası yerini gök gürültülü sağanak yağmura bırakacak. Öğle saatlerinde 20 dereceye ulaşacak hava sıcaklığı, saatler içinde 10 dereceye kadar gerileyecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-kritik-saat-belli-oldu-oglen-bahar-havasi-aksam-kis-sogugu-1750786",
-   "zaman": "2026-11-14T08:43:48+03:00",
-   "kelimeler": [
-    "aksam",
-    "bahar",
-    "belli",
-    "havas",
-    "istan",
-    "kis",
-    "kriti",
-    "oglen",
-    "saat",
-    "sogug"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "fb7bb6a9a941": {
    "id": "fb7bb6a9a941",
    "kaynak": "TRT Haber",
@@ -24815,7 +24766,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "Hürriyet"
+    "Hürriyet",
+    "XHABER"
    ]
   },
   "b8b2564fc60e": {
@@ -25853,9 +25805,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a36a56ad99a3": {
+   "id": "a36a56ad99a3",
+   "kaynak": "TRT Haber",
+   "baslik": "California, Hugging Face saldırısı nedeniyle OpenAI'a dava açtı",
+   "ozet": "California Başsavcısı Rob Bonta, ChatGPT'nin geliştiricisi OpenAI'a pazartesi günü dava açtı. Bonta, şirketin yeterli güvenlik önlemleri almadan yapay zeka modelleri geliştirerek kamuoyunu yanılttığını ve tehlikeye attığını öne sürdü.",
+   "link": "https://www.trthaber.com/haber/guncel/california-hugging-face-saldirisi-nedeniyle-openaia-dava-acti-963495.html",
+   "zaman": "2026-11-17T08:23:00+03:00",
+   "kelimeler": [
+    "acti",
+    "calif",
+    "dava",
+    "face",
+    "huggi",
+    "neden",
+    "opena",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "051d83c86ba9": {
+   "id": "051d83c86ba9",
+   "kaynak": "TRT Haber",
+   "baslik": "Adli tıp uzmanından Epstein iddiası: New York'taki hücresinde öldürülmüş olabilir",
+   "ozet": "Önde gelen bir adli tıp uzmanı, Jeffrey Epstein'in intihar etmediğine ve New York'taki cezaevinde öldürüldüğüne inandığını söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/adli-tip-uzmanindan-epstein-iddiasi-new-yorktaki-hucresinde-oldurulmus-olabilir-963496.html",
+   "zaman": "2026-11-17T08:28:00+03:00",
+   "kelimeler": [
+    "adli",
+    "epste",
+    "hucre",
+    "iddia",
+    "new",
+    "olabi",
+    "oldur",
+    "taki",
+    "tip",
+    "uzman",
+    "york"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9c9ba38adec1": {
+   "id": "9c9ba38adec1",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiliz turistler Litvanya'daki kiliseden çaldıkları altın İsa heykelini parçaladı",
+   "ozet": "Polis, Litvanya'daki bir kiliseden çalınan altın İsa heykelini parçalayan iki turistle ilgili soruşturma yürütüyor.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiliz-turistler-litvanyadaki-kiliseden-caldiklari-altin-isa-heykelini-parcaladi-963498.html",
+   "zaman": "2026-11-17T08:30:00+03:00",
+   "kelimeler": [
+    "altin",
+    "caldi",
+    "daki",
+    "heyke",
+    "ingil",
+    "isa",
+    "kilis",
+    "litva",
+    "parca",
+    "turis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d07b494db4bd": {
+   "id": "d07b494db4bd",
+   "kaynak": "TRT Haber",
+   "baslik": "Sözcü TV ve Gazetesi'ne FETÖ soruşturması",
+   "ozet": "Burak Akbay'a yönelik FETÖ/PDY soruşturması kapsamında, Sözcü TV ve Sözcü Gazetesi binasında arama yapıldı. Şirket yöneticisi ve yetkilisi olduğu belirlenen 4 kişi hakkında gözaltı kararı verilirken, Mega Ajans ve Reklamcılık Ticaret AŞ'nin yönetimine TMSF görevlendirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/sozcu-tv-ve-gazetesine-feto-sorusturmasi-963497.html",
+   "zaman": "2026-11-17T08:31:00+03:00",
+   "kelimeler": [
+    "feto",
+    "gazet",
+    "sorus",
+    "sozcu",
+    "tv"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6a64273860d4": {
+   "id": "6a64273860d4",
+   "kaynak": "TRT Haber",
+   "baslik": "Microsoft'taki küresel kesintinin nedeni ortaya çıktı",
+   "ozet": "Microsoft, geçen hafta Outlook, Exchange ve diğer birçok kritik ofis yazılımını kullanılamaz hale getiren küresel kesintinin temel nedenlerini belirledi.",
+   "link": "https://www.trthaber.com/haber/dunya/microsofttaki-kuresel-kesintinin-nedeni-ortaya-cikti-963499.html",
+   "zaman": "2026-11-17T08:35:00+03:00",
+   "kelimeler": [
+    "cikti",
+    "kesin",
+    "kures",
+    "micro",
+    "neden",
+    "ortay",
+    "taki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1c84f7c0578b": {
+   "id": "1c84f7c0578b",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | SÖZCÜ TV’YE KAYYUM ATANDI.",
+   "ozet": "— Sözcü TV binasına çıkan yollar kapatıldı. — Operasyon yapılıyor. Televizyon binasına polisler geldi, içeride arama yapılıyor. — Yönetim Kurulu Başkanı Funda Tuncer Sıdalı gözaltında. — TMSF tarafından kanala kayyum atandı.",
+   "link": "https://t.me/sahinozkan000/30712",
+   "zaman": "2026-11-17T08:43:52+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | SÖZCÜ TV’YE KAYYUM ATANDI.\n— Sözcü TV binasına çıkan yollar kapatıldı.\n— Operasyon yapılıyor. Televizyon binasına polisler geldi, içeride arama yapılıyor.\n— Yönetim Kurulu Başkanı Funda Tuncer Sıdalı gözaltında.\n— TMSF tarafından kanala kayyum atandı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/G2xraTC6XjM_iCSWmFjNYJp0wPidIY1moHeVtwbQUO7_cqOhXnrjEVQOmBWWaexkQArlKdCPpU6UksBNpuvJq21bO8pqMVVnaPUlAFBVs2RthAfSTTeoBlaCv5hai-3GfgZWJXCcwX9tINTaP7no2K2YMcVz0eCbbfWTGL7PFMJ0eil7h7N-QPLFGUPOqnlAeKEYdRTcB29dOuvj1Oa7BIhgAKOhxbMe_4ZBbHgUg4YnFVlbdORJVFAlGw0bzUHwahtrszRNPPWiaVXgDC7kq3TbECiJd08SfRDpG5Wvqm9KjlraBEKEh9Ev7H36b7vcEjIM37rTIHyD5qkYcWJSYA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/7a9bbcf505.mp4?token=oz1RNAG5D-abTfaOoAj-aBHUJdjFZc20bneL-6SJMyrg2wFZBfJc1XwVvXeGwvX2N6oPCiRe_VrvJoi7Iy4OMBX6PbtCLxIv42_1c4hid9fx4vx6Hmn24LcPIRaZb7tTTgXSKYPAXhVaBaidbWzl9yX_R9VzXTDT9TiNOe-mplt7geFckka8GaKsc2gYoO24pCofe4ruamFdGRxDbEJoAj9lQByKbXumTOjTUWbrCrezlntvk0HR_6fuzcYAKABuSIFwq9TyH99Tf1ogi5ZRGEGy_RZvB9ISipaQzI9ufXLYZnnVAP7y7pakzqoNZNB2W5Kuuov-iDBq-Gyi-7GXLg",
+   "kelimeler": [
+    "atand",
+    "kayyu",
+    "sonda",
+    "sozcu",
+    "tv",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0b9e01a9be6a"
   }
  },
  "kayit": [
+  "17.11 08:46:33  5 yeni haber",
   "17.11 08:31:40  3 yeni haber",
   "17.11 08:18:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Cinayete yardımdan beraat etti tehditten tutuklandı",
   "17.11 08:16:09  2 yeni haber",
@@ -26054,8 +26131,7 @@
   "15.11 05:31:18  1 yeni haber",
   "15.11 05:16:09  1 yeni haber",
   "15.11 05:01:26  1 yeni haber",
-  "15.11 04:16:10  1 yeni haber",
-  "15.11 02:31:46  1 yeni haber"
+  "15.11 04:16:10  1 yeni haber"
  ],
  "otomatik": false
 }
