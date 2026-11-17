@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "117587b0b61a": {
-   "id": "117587b0b61a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Bir Başkadır'ın ikinci sezonu bize ne anlatıyor?",
-   "ozet": "Bir Başkadır dizisi, altı yıl sonra dört bölümlük ikinci sezonla geri döndü. Dizi bu sezonda da yine Türkiye'nin farklı sosyo-ekonomik sınıflarından karakterleri, günlük hayatın akışı içinde biraraya getiriyor.",
-   "link": "https://www.bbc.com/turkce/articles/c6jeq0vy4vz0o",
-   "zaman": "2026-11-14T19:53:52+03:00",
-   "kelimeler": [
-    "anlat",
-    "baska",
-    "bize",
-    "ikinc",
-    "in",
-    "sezon"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "219df0e6ad64": {
-   "id": "219df0e6ad64",
-   "kaynak": "AA",
-   "baslik": "KKTC Başbakanı Ünal Üstel, Rumların bayrak yakma eylemlerine tepki gösterdi",
-   "ozet": "KKTC Başbakanı Ünal Üstel, Güney Kıbrıs Rum Yönetimi'nde (GKRY) yapılan protestolarda Türkiye ve KKTC bayraklarının Rum gençler tarafından yakılmasına tepki göstererek, \"Bu kabul edilemez ve affedilemez bir konudur.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/kktc-basbakani-unal-ustel-rumlarin-bayrak-yakma-eylemlerine-tepki-gosterdi/4125339",
-   "zaman": "2026-11-14T19:57:57+03:00",
-   "kelimeler": [
-    "basba",
-    "bayra",
-    "eylem",
-    "goste",
-    "kktc",
-    "rumla",
-    "tepki",
-    "unal",
-    "ustel",
-    "yakma"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4c4e8b0c12a7": {
    "id": "4c4e8b0c12a7",
    "kaynak": "AA",
@@ -28273,9 +28233,89 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8cb6fe7f3158": {
+   "id": "8cb6fe7f3158",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Gürlek: Fon soruşturmasında 129 şüpheli tutuklu bulunmaktadır",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Bugün itibarıyla 498 şüpheli bulunmaktadır. 129 şüpheli tutuklu, 289 şüpheli hakkında adli kontrol tedbir kararı bulunmaktadır.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-963595.html",
+   "zaman": "2026-11-17T19:42:00+03:00",
+   "kelimeler": [
+    "129",
+    "bakan",
+    "bulun",
+    "fon",
+    "gurle",
+    "sorus",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d6f646f93c0e"
+  },
+  "2c4f24a37000": {
+   "id": "2c4f24a37000",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Gürlek'ten fon soruşturmasına ilişkin açıklama",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarının elde edilen yeni deliller doğrultusunda derinleştirildiğini belirterek “İyi niyetli yatırımcılarımızın haklarını ilgilendiren bu süreci yakından takip ediyoruz.” ifadelerini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama-43381705",
+   "zaman": "2026-11-17T19:46:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "fon",
+    "gurle",
+    "ilisk",
+    "sorus",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8c821ab44cac": {
+   "id": "8c821ab44cac",
+   "kaynak": "NTV",
+   "baslik": "Bakan Gürlek: Fon soruşturmasında 129 tutuklu var",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmaları kapsamında 498 şüpheli bulunduğunu, bunlardan 129'unun tutuklu olduğunu açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-fon-sorusturmasinda-129-tutuklu-var-1751341",
+   "zaman": "2026-11-17T19:49:46+03:00",
+   "kelimeler": [
+    "129",
+    "bakan",
+    "fon",
+    "gurle",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d6f646f93c0e"
+  },
+  "94294fb54fd0": {
+   "id": "94294fb54fd0",
+   "kaynak": "Hürriyet",
+   "baslik": "Osmaniye’de işçileri taşıyan iki otomobil çarpıştı: 10 yaralı",
+   "ozet": "Osmaniye’nin Düziçi ilçesinde zeytin hasadından dönen işçilerin bulunduğu iki otomobilin çarpışması sonucu meydana gelen trafik kazasında 10 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/osmaniyede-iscileri-tasiyan-iki-otomobil-carpisti-10-yarali-43381710",
+   "zaman": "2026-11-17T19:53:00+03:00",
+   "kelimeler": [
+    "10",
+    "carpi",
+    "iki",
+    "iscil",
+    "osman",
+    "otomo",
+    "tasiy",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "17.11 20:02:17  2 yeni haber",
   "17.11 19:46:05  2 yeni haber",
   "17.11 19:34:09  Paylaşıldı (otomatik, 7 slaytlık karusel + Reels + Facebook_reels): NTV · Melis Sandal'a ait 4,3 milyar TL geri kazanım hesaplarına aktarıldı",
   "17.11 19:31:32  6 yeni haber",
@@ -28474,8 +28514,7 @@
   "15.11 18:16:04  1 yeni haber",
   "15.11 18:01:51  5 yeni haber",
   "15.11 17:46:05  5 yeni haber",
-  "15.11 17:31:37  1 yeni haber",
-  "15.11 17:25:21  3 yeni haber"
+  "15.11 17:31:37  1 yeni haber"
  ],
  "otomatik": false
 }
