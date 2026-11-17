@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "c997466d370e": {
-   "id": "c997466d370e",
-   "kaynak": "AA",
-   "baslik": "İsrail basını, İran'ın Trump'ı İHA saldırısıyla hedef almayı planladığını iddia etti",
-   "ozet": "İsrail basını, İsrail dış istihbarat servisi Mossad'ın, İran'ın ABD Başkanı Donald Trump ve Washington yönetiminin üst düzey isimlerini insansız hava aracı (İHA) saldırısıyla hedef almayı planladığı yönünde istihbarat paylaştığını iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-iranin-trumpi-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti/4125449",
-   "zaman": "2026-11-15T00:47:23+03:00",
-   "kelimeler": [
-    "almay",
-    "basin",
-    "etti",
-    "hedef",
-    "iddia",
-    "iha",
-    "in",
-    "iran",
-    "israi",
-    "planl",
-    "saldi",
-    "trump"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6130a67f2469"
-  },
   "b4213beb99d9": {
    "id": "b4213beb99d9",
    "kaynak": "Sözcü",
@@ -27690,7 +27665,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "26645bdb86e3": {
    "id": "26645bdb86e3",
@@ -28132,8 +28108,17 @@
     "yesil",
     "yi"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-18T01:04:00.610888+03:00",
+   "ig_id": "17922547425530343",
+   "reels_id": null,
+   "story_id": "18100477673122135",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122118053733472027",
+   "fb_reels_id": null,
+   "slayt": 5,
+   "kanca": "GTA 6 TÜRKÇE DUBLAJ"
   },
   "cf64feea9450": {
    "id": "cf64feea9450",
@@ -28484,9 +28469,55 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "12eda6dbce8d": {
+   "id": "12eda6dbce8d",
+   "kaynak": "AA",
+   "baslik": "BUDO'nun bugünkü 12 seferi iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-12-seferi-iptal-edildi/4128283",
+   "zaman": "2026-11-17T21:34:48+03:00",
+   "kelimeler": [
+    "12",
+    "budo",
+    "bugun",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3408db6ee7f4"
+  },
+  "51cd3c4d0d48": {
+   "id": "51cd3c4d0d48",
+   "kaynak": "AA",
+   "baslik": "Kuveyt ordusu: Hava savunma sistemlerimiz \"düşman İHA saldırılarını\" engellemek üzere devreye girdi",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/dunya/kuveyt-ordusu-hava-savunma-sistemlerimiz-dusman-iha-saldirilarini-engellemek-uzere-devreye-girdi/4128444",
+   "zaman": "2026-11-18T00:59:01+03:00",
+   "kelimeler": [
+    "devre",
+    "dusma",
+    "engel",
+    "girdi",
+    "hava",
+    "iha",
+    "kuvey",
+    "ordus",
+    "saldi",
+    "savun",
+    "siste",
+    "uzere"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 01:04:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Tamer Yeşildağ, geliştirdiği sistem ile karakterlerin ses ve duyguları",
+  "18.11 01:01:53  1 yeni haber",
   "18.11 00:46:31  2 yeni haber",
   "18.11 00:31:24  3 yeni haber",
   "18.11 00:16:03  1 yeni haber",
@@ -28684,9 +28715,7 @@
   "16.11 00:01:32  1 yeni haber",
   "15.11 23:46:11  2 yeni haber",
   "15.11 23:31:44  1 yeni haber",
-  "15.11 23:16:13  2 yeni haber",
-  "15.11 23:01:34  1 yeni haber",
-  "15.11 22:52:44  1 yeni haber"
+  "15.11 23:16:13  2 yeni haber"
  ],
  "otomatik": false
 }
