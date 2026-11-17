@@ -25245,7 +25245,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "b8b2564fc60e": {
    "id": "b8b2564fc60e",
@@ -25377,6 +25380,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c86e1663cc1e": {
+   "id": "c86e1663cc1e",
+   "kaynak": "NTV",
+   "baslik": "Sözcü TV'ye operasyon. Kayyum atandı, polis binada arama yapıyor",
+   "ozet": "Sözcü TV binasına sabah saatlerinde polis tarafından operasyon yapıldı. Kayyum atandığı ve gözaltılar olduğunu belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
+   "zaman": "2026-11-17T06:29:52+03:00",
+   "kelimeler": [
+    "arama",
+    "atand",
+    "binad",
+    "kayyu",
+    "opera",
+    "polis",
+    "sozcu",
+    "tv",
+    "yapiy",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0b9e01a9be6a"
   }
  },
  "kayit": [
