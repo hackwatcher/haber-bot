@@ -19,63 +19,6 @@
     "AA"
    ]
   },
-  "941e8118cc29": {
-   "id": "941e8118cc29",
-   "kaynak": "AA",
-   "baslik": "Trump'ın İran'a saldırıları \"şimdilik\" yeniden başlatmak istemediği iddiası",
-   "ozet": "ABD Başkanı Donald Trump'ın, İran'a saldırıları \"şimdilik\" yeniden başlatmak istemediği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/trumpin-irana-saldirilari-simdilik-yeniden-baslatmak-istemedigi-iddiasi/4124875",
-   "zaman": "2026-11-14T09:43:15+03:00",
-   "kelimeler": [
-    "basla",
-    "iddia",
-    "in",
-    "iran",
-    "istem",
-    "saldi",
-    "simdi",
-    "trump",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "cf62199f2a11": {
-   "id": "cf62199f2a11",
-   "kaynak": "Hürriyet",
-   "baslik": "5 gündür haber alınamayan öğretmenden acı haber! Arkadaşının minibüsünde ölü bulundu",
-   "ozet": "İstanbul Esenyurt'ta 5 gündür haber alınamayan 61 yaşındaki tarih öğretmeni Harun Ülger, Avcılar'da arkadaşı D.A.Y.'ye ait minibüste ölü bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/5-gundur-haber-alinamayan-ogretmenden-aci-haber-arkadasinin-minibusunde-olu-bulundu-43377790",
-   "zaman": "2026-11-14T09:43:00+03:00",
-   "kelimeler": [
-    "aci",
-    "alina",
-    "arkad",
-    "bulun",
-    "gundu",
-    "minib",
-    "ogret",
-    "olu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d5ec977ea954": {
-   "id": "d5ec977ea954",
-   "kaynak": "NTV",
-   "baslik": "Harun öğretmenin şüpheli ölümü",
-   "ozet": "İstanbul'da beş gündür haber alınamayan tarih öğretmeni Harun Ülger, arkadaşına ait minibüste ölü bulundu. Şüpheli bulunan ölümle ilgili soruşturma başlatıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-harun-ogretmenin-supheli-olumu-1750804",
-   "zaman": "2026-11-14T09:46:23+03:00",
-   "kelimeler": [
-    "harun",
-    "ogret",
-    "olumu",
-    "suphe"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "64a070d8779d": {
    "id": "64a070d8779d",
    "kaynak": "AA",
@@ -26249,7 +26192,8 @@
     "yanit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "95a4711e2be6": {
    "id": "95a4711e2be6",
@@ -26276,9 +26220,220 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ee37a0e8d64b"
+  },
+  "afa0f2216a48": {
+   "id": "afa0f2216a48",
+   "kaynak": "TRT Haber",
+   "baslik": "NASA'nın Curiosity keşif aracından sürpriz keşif",
+   "ozet": "NASA'nın Curiosity keşif aracı, Mars'ta üzerinden geçtiği bir kayayı kırınca milyarlarca yıldır korunduğu düşünülen saf kükürt kristalleriyle karşılaştı.",
+   "link": "https://www.trthaber.com/haber/dunya/nasanin-curiosity-kesif-aracindan-surpriz-kesif-963507.html",
+   "zaman": "2026-11-17T09:06:00+03:00",
+   "kelimeler": [
+    "araci",
+    "curio",
+    "kesif",
+    "nasa",
+    "nin",
+    "surpr"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8cfe26acac85": {
+   "id": "8cfe26acac85",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere'de yüzlerce çocuğa zayıflama iğnesi reçete edildi",
+   "ozet": "İngiltere'de 18 yaşından küçük yüzlerce çocuğa, aralarında 12 yaşından küçüklerin de bulunduğu, kilo verme amacıyla kullanılan GLP1 grubu ilaçların reçete edildiği ortaya çıktı.",
+   "link": "https://www.trthaber.com/haber/dunya/ingilterede-yuzlerce-cocuga-zayiflama-ignesi-recete-edildi-963509.html",
+   "zaman": "2026-11-17T09:21:00+03:00",
+   "kelimeler": [
+    "cocug",
+    "edild",
+    "ignes",
+    "ingil",
+    "recet",
+    "yuzle",
+    "zayif"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "336c544e028f": {
+   "id": "336c544e028f",
+   "kaynak": "AA",
+   "baslik": "Kalibaf, ABD basınında İran'daki barajların \"çift kullanımlı\" olduğu iddiasıyla hedef gösterilmesine yanıt verdi",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD basınındaki barajların füze tesisleriyle bağlantılı olabileceği haberine ilişkin, ABD ve İsrail'in İran'daki sivil altyapıya saldırması halinde aynı şekilde karşılık vereceklerini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kalibaf-abd-basininda-irandaki-barajlarin-cift-kullanimli-oldugu-iddiasiyla-hedef-gosterilmesine-yanit-verdi/4127251",
+   "zaman": "2026-11-17T09:22:21+03:00",
+   "kelimeler": [
+    "abd",
+    "baraj",
+    "basin",
+    "cift",
+    "daki",
+    "goste",
+    "hedef",
+    "iddia",
+    "iran",
+    "kalib",
+    "kulla",
+    "oldug",
+    "verdi",
+    "yanit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a67e7a4d722b"
+  },
+  "4a96cb12b8f6": {
+   "id": "4a96cb12b8f6",
+   "kaynak": "TRT Haber",
+   "baslik": "CNN: ABD istihbaratı, İranın Washingtonda kirli bomba planladığını iddia etti",
+   "ozet": "ABD ile İran arasındaki gerilim sürerken, isimleri açıklanmayan 7 ABD'li yetkili, ABD istihbaratının İran kaynaklı olduğunu öne sürdüğü bulguları CNN ile paylaştı.",
+   "link": "https://www.trthaber.com/haber/guncel/cnn-abd-istihbarati-iranin-washingtonda-kirli-bomba-planladigini-iddia-etti-963510.html",
+   "zaman": "2026-11-17T09:29:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bomba",
+    "cnn",
+    "etti",
+    "iddia",
+    "irani",
+    "istih",
+    "kirli",
+    "planl",
+    "washi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee37a0e8d64b"
+  },
+  "b618270c3283": {
+   "id": "b618270c3283",
+   "kaynak": "Hürriyet",
+   "baslik": "Direksiyon başındakilere kamyon arkası yazıları aratmayan ikazlar",
+   "ozet": "Trafik denetimlerini aralıksız sürdüren Emniyet Genel Müdürlüğü, uzun yola çıkan ve direksiyon başına geçen sürücüler için 250 özlü slogan yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/direksiyon-basindakilere-kamyon-arkasi-yazilari-aratmayan-ikazlar-43380791",
+   "zaman": "2026-11-17T09:30:12+03:00",
+   "kelimeler": [
+    "aratm",
+    "arkas",
+    "basin",
+    "direk",
+    "ikazl",
+    "kamyo",
+    "yazil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "686d974f0014": {
+   "id": "686d974f0014",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de Büyük Kanyon yakınlarında küçük uçağın düşmesi sonucu 3 kişi hayatını kaybetti",
+   "ozet": "ABD'nin Arizona eyaletinin kuzeyindeki Büyük Kanyon yakınlarında küçük uçağın düşmesi sonucu 3 kişinin hayatını kaybettiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-buyuk-kanyon-yakinlarinda-kucuk-ucagin-dusmesi-sonucu-3-kisi-hayatini-kaybetti-963511.html",
+   "zaman": "2026-11-17T09:32:00+03:00",
+   "kelimeler": [
+    "abd",
+    "buyuk",
+    "dusme",
+    "hayat",
+    "kanyo",
+    "kaybe",
+    "kisi",
+    "kucuk",
+    "sonuc",
+    "ucagi",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "55fe227759a4": {
+   "id": "55fe227759a4",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında son durum: Güne yükselişle başladı",
+   "ozet": "Gram altın güne yükselişle başlamasının ardından 6 bin 280 liradan işlem görüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-gune-yukselisle-basladi-963513.html",
+   "zaman": "2026-11-17T09:33:00+03:00",
+   "kelimeler": [
+    "altin",
+    "basla",
+    "durum",
+    "fiyat",
+    "gune",
+    "yukse"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
+  },
+  "c0a42681d676": {
+   "id": "c0a42681d676",
+   "kaynak": "AA",
+   "baslik": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu",
+   "ozet": "ABD'li şarkıcı Beyonce, 7 Şubat 2027'de düzenlenecek 69. Grammy Ödülleri'nde aldığı adaylıkla bu ödüle 100 kez aday gösterilen ilk sanatçı oldu.",
+   "link": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
+   "zaman": "2026-11-17T09:34:27+03:00",
+   "kelimeler": [
+    "100",
+    "aday",
+    "beyon",
+    "goste",
+    "gramm",
+    "ilk",
+    "kez",
+    "odull",
+    "sanat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "20fe1c1955a9": {
+   "id": "20fe1c1955a9",
+   "kaynak": "AA",
+   "baslik": "Gazze'de Filistinli çocuk, ders zilini beklerken İsrail ordusunun ateşiyle vuruldu",
+   "ozet": "Gazze Şeridi'nin güneyindeki Han Yunus kentinde 12 yaşındaki Filistinli çocuk Tamer el-Ahras, sığındıkları el-Mevasi bölgesindeki okulunda ders zilinin çalmasını beklediği sırada İsrail askerlerinin açtığı ateşin hedefi oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-filistinli-cocuk-ders-zilini-beklerken-israil-ordusunun-atesiyle-vuruldu/4127272",
+   "zaman": "2026-11-17T09:40:00+03:00",
+   "kelimeler": [
+    "atesi",
+    "bekle",
+    "cocuk",
+    "ders",
+    "filis",
+    "gazze",
+    "israi",
+    "ordus",
+    "vurul",
+    "zilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd1d0762aa9e": {
+   "id": "bd1d0762aa9e",
+   "kaynak": "NTV",
+   "baslik": "TBMM Başkanı Kurtulmuş İYİ Parti'yi ziyaret edecek",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, siyasi parti turlarını sürdürüyor. Kurtulmuş bugün İYİ Parti'yi ziyaret edecek.",
+   "link": "https://www.ntv.com.tr/turkiye/tbmm-baskani-kurtulmus-iyi-partiyi-ziyaret-edecek-1751218",
+   "zaman": "2026-11-17T09:41:24+03:00",
+   "kelimeler": [
+    "baska",
+    "edece",
+    "iyi",
+    "kurtu",
+    "parti",
+    "tbmm",
+    "yi",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 09:46:25  8 yeni haber",
   "17.11 09:34:37  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · İbrahim Seten: \"Şampiyonlar Ligi maçları TRT’de yayınlandığında diğer ",
   "17.11 09:31:59  4 yeni haber",
   "17.11 09:16:19  4 yeni haber",
@@ -26477,8 +26632,7 @@
   "15.11 08:15:59  1 yeni haber",
   "15.11 08:01:52  1 yeni haber",
   "15.11 07:16:29  10 yeni haber",
-  "15.11 07:03:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza mahalline dalan otomobil 1'i polisi 5 kişiyi yaraladı",
-  "15.11 07:01:28  2 yeni haber"
+  "15.11 07:03:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza mahalline dalan otomobil 1'i polisi 5 kişiyi yaraladı"
  ],
  "otomatik": false
 }
