@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "bb034106105b": {
-   "id": "bb034106105b",
-   "kaynak": "AA",
-   "baslik": "Antalya'da düzenlenen Uluslararası Enerji Ekonomisi Birliği COP2026 Sempozyumu sona erdi",
-   "ozet": "Uluslararası Enerji Ekonomisi Birliğince (IAEE) Antalya'da düzenlenen IAEE COP 2026 Sempozyumu'nda enerji ekonomisi, karbon piyasaları ve iklim değişikliğiyle mücadelede finansman konuları ele alındı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/antalyada-duzenlenen-uluslararasi-enerji-ekonomisi-birligi-cop2026-sempozyumu-sona-erdi/4125112",
-   "zaman": "2026-11-14T15:11:26+03:00",
-   "kelimeler": [
-    "antal",
-    "birli",
-    "cop20",
-    "duzen",
-    "ekono",
-    "enerj",
-    "erdi",
-    "sempo",
-    "sona",
-    "ulusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "40080e5505ea": {
    "id": "40080e5505ea",
    "kaynak": "Hürriyet",
@@ -25242,7 +25220,10 @@
     "yolcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dba04dcb798a": {
    "id": "dba04dcb798a",
@@ -27575,9 +27556,93 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "abf82a8a4626": {
+   "id": "abf82a8a4626",
+   "kaynak": "TRT Haber",
+   "baslik": "Prag'da iki yolcu treni çarpıştı: 4'ü ağır 46 yaralı",
+   "ozet": "Çekya'nın başkenti Prag'da iki yolcu treninin kafa kafaya çarpışması sonucu 4'ü ağır 46 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/pragda-iki-yolcu-treni-carpisti-4u-agir-46-yarali-963559.html",
+   "zaman": "2026-11-17T14:40:00+03:00",
+   "kelimeler": [
+    "46",
+    "agir",
+    "carpi",
+    "iki",
+    "prag",
+    "treni",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e71f8aec80e2"
+  },
+  "ffdea7f0c894": {
+   "id": "ffdea7f0c894",
+   "kaynak": "AA",
+   "baslik": "COP31'de iklim krizine tarım ve ileri malzeme teknolojileriyle çözüm anlatıldı",
+   "ozet": "COP31 kapsamında düzenlenen panelde, iklim kriziyle mücadelede yapay zeka destekli tarım uygulamaları, atıklardan aktif karbon üretimi ve toprak biyoteknolojisi alanındaki teknolojik çözümler ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-iklim-krizine-tarim-ve-ileri-malzeme-teknolojileriyle-cozum-anlatildi/4127752",
+   "zaman": "2026-11-17T15:00:27+03:00",
+   "kelimeler": [
+    "anlat",
+    "cop31",
+    "cozum",
+    "iklim",
+    "ileri",
+    "krizi",
+    "malze",
+    "tarim",
+    "tekno"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b498cc815e39": {
+   "id": "b498cc815e39",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da sahte çağrı merkezine operasyon: 28 gözaltı",
+   "ozet": "İstanbul'da çağrı merkezi kurarak vatandaşları, internetten sipariş ettikleri ürünleri teslim almadıkları gerekçesiyle cezai işlem uygulanacağı yalanıyla dolandırdığı belirlenen 28 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-sahte-cagri-merkezine-operasyon-28-gozalti-963562.html",
+   "zaman": "2026-11-17T15:06:00+03:00",
+   "kelimeler": [
+    "28",
+    "cagri",
+    "gozal",
+    "istan",
+    "merke",
+    "opera",
+    "sahte"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd2eda9d9b4d": {
+   "id": "bd2eda9d9b4d",
+   "kaynak": "AA",
+   "baslik": "BM kuruluşları: Gazze'de yaklaşık 2 milyon kişi barınma yardımına ihtiyaç duyuyor",
+   "ozet": "BM Uluslararası Göç Örgütü (IOM) ve Dünya Gıda Programı (WFP), Gazze'de 1,7 milyondan fazla kişinin yerinden edildiğini, 1,4 milyon kişinin şiddetli açlıkla karşı karşıya olduğunu ve 1,98 milyon kişinin barınma yardımına ihtiyaç duyduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-kuruluslari-gazzede-yaklasik-2-milyon-kisi-barinma-yardimina-ihtiyac-duyuyor/4127764",
+   "zaman": "2026-11-17T15:07:37+03:00",
+   "kelimeler": [
+    "barin",
+    "bm",
+    "duyuy",
+    "gazze",
+    "ihtiy",
+    "kisi",
+    "kurul",
+    "milyo",
+    "yakla",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 15:16:46  3 yeni haber",
   "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope",
   "17.11 15:10:05  6 yeni haber",
   "17.11 15:01:32  11 yeni haber",
@@ -27776,8 +27841,7 @@
   "15.11 13:31:43  4 yeni haber",
   "15.11 13:16:10  5 yeni haber",
   "15.11 13:01:48  8 yeni haber",
-  "15.11 12:46:09  4 yeni haber",
-  "15.11 12:33:39  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Lise öğrencileri, kutup buzullarındaki kırılmaları tespit etmeyi amaçl"
+  "15.11 12:46:09  4 yeni haber"
  ],
  "otomatik": false
 }
