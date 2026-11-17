@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "a865a985e85b": {
-   "id": "a865a985e85b",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanlığı, sürgüne gönderilmelerinin 82. yılında Ahıska Türklerini andı",
-   "ozet": "Dışişleri Bakanlığı, ana vatanları Ahıska'dan sürgüne gönderilmelerinin 82. yıl dönümü dolayısıyla Ahıska Türklerini andı.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-surgune-gonderilmelerinin-82-yilinda-ahiska-turklerini-andi/4124903",
-   "zaman": "2026-11-14T10:33:56+03:00",
-   "kelimeler": [
-    "82",
-    "ahisk",
-    "andi",
-    "bakan",
-    "disis",
-    "gonde",
-    "surgu",
-    "turkl",
-    "yilin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2b790a1e947b"
-  },
-  "d9e29248b843": {
-   "id": "d9e29248b843",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Hürmüz Boğazı'nda bir tanker mayına çarparak alev aldı",
-   "ozet": "İran ordusu, Hürmüz Boğazının doğusunda bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-bir-tanker-mayina-carparak-alev-aldi-963247.html",
-   "zaman": "2026-11-14T10:37:00+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "bogaz",
-    "carpa",
-    "hurmu",
-    "iran",
-    "mayin",
-    "nda",
-    "tanke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8055e24bdc1b"
-  },
-  "b820f7d65706": {
-   "id": "b820f7d65706",
-   "kaynak": "AA",
-   "baslik": "Basketbol Süper Ligi'nde Fenerbahçe ile Anadolu Efes yarın derbide karşılaşacak",
-   "ozet": "Türkiye Sigorta Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin ile Anadolu Efes yarın derbide karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/basketbol-super-liginde-fenerbahce-ile-anadolu-efes-yarin-derbide-karsilasacak/4124904",
-   "zaman": "2026-11-14T10:39:14+03:00",
-   "kelimeler": [
-    "anado",
-    "baske",
-    "derbi",
-    "efes",
-    "fener",
-    "karsi",
-    "ligi",
-    "nde",
-    "super",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4b238ebcef1c": {
-   "id": "4b238ebcef1c",
-   "kaynak": "NTV",
-   "baslik": "MEB'den ölçme ve değerlendirmede yeni düzenleme, ilkokullarda sınav yapılamayacak",
-   "ozet": "Milli Eğitim Bakanlığının yeni düzenlemesine göre okul öncesi ve ilkokullarda sınav yapılamayacak. Ölçme ve değerlendirme sonuçları öğrencileri veya okulları karşılaştırmak için kullanılamayacak.",
-   "link": "https://www.ntv.com.tr/turkiye/mebden-olcme-ve-degerlendirmede-yeni-duzenleme-ilkokullarda-sinav-yapilamayacak-1750808",
-   "zaman": "2026-11-14T10:43:49+03:00",
-   "kelimeler": [
-    "deger",
-    "den",
-    "duzen",
-    "ilkok",
-    "meb",
-    "olcme",
-    "sinav",
-    "yapil",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a997d5ccb8aa": {
    "id": "a997d5ccb8aa",
    "kaynak": "NTV",
@@ -26473,8 +26386,17 @@
     "tutuk",
     "zanli"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-17T10:48:44.180288+03:00",
+   "ig_id": "18102337979530557",
+   "reels_id": "18192091132406695",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2235833843954573",
+   "slayt": 5,
+   "kanca": "11 ZANLI TUTUKLANDI"
   },
   "9e1c6aab7d89": {
    "id": "9e1c6aab7d89",
@@ -26723,9 +26645,285 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ab88cc1ab51e": {
+   "id": "ab88cc1ab51e",
+   "kaynak": "TRT Haber",
+   "baslik": "The Guardian: İsrail ordusu, Filistinlileri takip etmek için milyonlarca fotoğrafı Amazon'a yükledi",
+   "ozet": "The Guardian gazetesi, İsrail ordusunun, Gazze ve işgal altındaki Batı Şeria'da yaşayan Filistinlileri yüz tanıma teknolojisiyle takip etmek amacıyla milyonlarca fotoğrafı ABD merkezli teknoloji şirketi Amazon'un bulut sistemine yüklediğini tespit etti.",
+   "link": "https://www.trthaber.com/haber/dunya/the-guardian-israil-ordusu-filistinlileri-takip-etmek-icin-milyonlarca-fotografi-amazona-yukledi-963521.html",
+   "zaman": "2026-11-17T10:24:00+03:00",
+   "kelimeler": [
+    "amazo",
+    "etmek",
+    "filis",
+    "fotog",
+    "guard",
+    "israi",
+    "milyo",
+    "ordus",
+    "takip",
+    "the",
+    "yukle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "915b33a5a3bf": {
+   "id": "915b33a5a3bf",
+   "kaynak": "TRT Haber",
+   "baslik": "Ekim ayı konut satış istatistikleri açıklandı",
+   "ozet": "Türkiye genelinde ekimde 131 bin 72 konut satıldı. Konut satışları geçen yılın aynı ayına göre yüzde 23,3 azalırken, ocakekim döneminde toplam satış sayısı 1 milyon 223 bin 991 oldu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ekim-ayi-konut-satis-istatistikleri-aciklandi-963520.html",
+   "zaman": "2026-11-17T10:24:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ayi",
+    "ekim",
+    "istat",
+    "konut",
+    "satis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "88bc539cde5c": {
+   "id": "88bc539cde5c",
+   "kaynak": "AA",
+   "baslik": "The Guardian: İsrail ordusu, Filistinlileri takip etmek için milyonlarca fotoğrafı Amazon'a yükledi",
+   "ozet": "The Guardian gazetesi, İsrail ordusunun, Gazze ve işgal altındaki Batı Şeria'da yaşayan Filistinlileri yüz tanıma teknolojisiyle takip etmek için milyonlarca fotoğrafı ABD merkezli teknoloji şirketi Amazon'un bulut sistemine yüklediğini tespit etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/the-guardian-israil-ordusu-filistinlileri-takip-etmek-icin-milyonlarca-fotografi-amazona-yukledi/4127312",
+   "zaman": "2026-11-17T10:24:48+03:00",
+   "kelimeler": [
+    "amazo",
+    "etmek",
+    "filis",
+    "fotog",
+    "guard",
+    "israi",
+    "milyo",
+    "ordus",
+    "takip",
+    "the",
+    "yukle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab88cc1ab51e"
+  },
+  "3bdf66b3b4b1": {
+   "id": "3bdf66b3b4b1",
+   "kaynak": "Hürriyet",
+   "baslik": "MHP Grup Toplantısı | Devlet Bahçeli’den önemli açıklamalar",
+   "ozet": "MHP lideri Devlet Bahçeli partisinin TBMM’deki grup toplantısında açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/mhp-grup-toplantisi-devlet-bahceliden-onemli-aciklamalar-43380865",
+   "zaman": "2026-11-17T10:32:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bahce",
+    "den",
+    "devle",
+    "grup",
+    "mhp",
+    "oneml",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f0330eaf1e09": {
+   "id": "f0330eaf1e09",
+   "kaynak": "AA",
+   "baslik": "Rapor: Trump'ın 2024'teki seçmenlerinin yüzde 35'i ara seçimlerde oy kullanmadı",
+   "ozet": "ABD Başkanı Donald Trump'a 2024 başkanlık seçimlerinde oy veren seçmenlerin yüzde 35'inin, 3 Kasım'da düzenlenen ara seçimlerde sandığa gitmediği belirlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rapor-trumpin-2024teki-secmenlerinin-yuzde-35i-ara-secimlerde-oy-kullanmadi/4127333",
+   "zaman": "2026-11-17T10:32:22+03:00",
+   "kelimeler": [
+    "2024",
+    "35",
+    "ara",
+    "in",
+    "kulla",
+    "oy",
+    "rapor",
+    "secim",
+    "secme",
+    "teki",
+    "trump",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "654ac51e8d87": {
+   "id": "654ac51e8d87",
+   "kaynak": "AA",
+   "baslik": "İran, hava sahası ihlallerine karşılık Bahreyn'deki üste bulunan ABD radar sistemini hedef aldığını duyurdu",
+   "ozet": "İran Devrim Muhafızları Ordusu, ülke hava sahasının ABD'ye ait insansız hava araçları (İHA) tarafından ihlal edilmesine karşılık olarak, Bahreyn'de bulunan Şeyh İsa Hava Üssü'ndeki ABD radar sisteminin hedef alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hava-sahasi-ihlallerine-karsilik-bahreyndeki-uste-bulunan-abd-radar-sistemini-hedef-aldigini-duyurdu/4127342",
+   "zaman": "2026-11-17T10:35:12+03:00",
+   "kelimeler": [
+    "abd",
+    "aldig",
+    "bahre",
+    "bulun",
+    "deki",
+    "duyur",
+    "hava",
+    "hedef",
+    "ihlal",
+    "iran",
+    "karsi",
+    "radar",
+    "sahas",
+    "siste",
+    "uste"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "abdcc3506c4f": {
+   "id": "abdcc3506c4f",
+   "kaynak": "NTV",
+   "baslik": "AKP MYK toplantısında ana gündem fon soruşturmaları oldu, yeni SPK düzenlemesi de görüşüldü",
+   "ozet": "AK Parti MYK toplantısında fon soruşturmaları ana gündem maddesi oldu. Cumhurbaşkanı Erdoğan, sürecin yılbaşına kadar tamamlanması talimatını verdi. Yeni SPK düzenlemesi de ele alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/akp-myk-toplantisinda-ana-gundem-fon-sorusturmalari-oldu-yeni-spk-duzenlemesi-de-gorusuldu-1751232",
+   "zaman": "2026-11-17T10:35:20+03:00",
+   "kelimeler": [
+    "akp",
+    "ana",
+    "duzen",
+    "fon",
+    "gorus",
+    "gunde",
+    "myk",
+    "sorus",
+    "spk",
+    "topla",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4bd8e7003d4": {
+   "id": "f4bd8e7003d4",
+   "kaynak": "TRT Haber",
+   "baslik": "İran, hava sahası ihlallerine karşılık Bahreyn'deki üste bulunan ABD radar sistemini hedef aldığını duyurdu",
+   "ozet": "İran Devrim Muhafızları Ordusu, ülke hava sahasının ABD'ye ait insansız hava araçları İHA tarafından ihlal edilmesine karşılık olarak, Bahreyn'de bulunan Şeyh İsa Hava Üssü'ndeki ABD radar sisteminin hedef alındığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-hava-sahasi-ihlallerine-karsilik-bahreyndeki-uste-bulunan-abd-radar-sistemini-hedef-aldigini-duyurdu-963524.html",
+   "zaman": "2026-11-17T10:37:00+03:00",
+   "kelimeler": [
+    "abd",
+    "aldig",
+    "bahre",
+    "bulun",
+    "deki",
+    "duyur",
+    "hava",
+    "hedef",
+    "ihlal",
+    "iran",
+    "karsi",
+    "radar",
+    "sahas",
+    "siste",
+    "uste"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "654ac51e8d87"
+  },
+  "299bec5692d3": {
+   "id": "299bec5692d3",
+   "kaynak": "NTV",
+   "baslik": "Modifiye aracın sürücüsü cezayı yedi, tutanakla fotoğraf çektirdi",
+   "ozet": "Bursa’da uygulama sırasında durdurulan, alçak süspansiyon ve uygunsuz egzoz donanımına sahip 2 otomobilin sürücüsüne toplam 20 bin lira ceza kesildi.",
+   "link": "https://www.ntv.com.tr/turkiye/video-modifiye-aracin-surucusu-cezayi-yedi-tutanakla-fotograf-cektirdi-1751240",
+   "zaman": "2026-11-17T10:37:42+03:00",
+   "kelimeler": [
+    "araci",
+    "cekti",
+    "cezay",
+    "fotog",
+    "modif",
+    "suruc",
+    "tutan",
+    "yedi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4d42b6c3b5d4": {
+   "id": "4d42b6c3b5d4",
+   "kaynak": "NTV",
+   "baslik": "Ehliyet ve kimlikte süre doluyor 112 bin kartın yenilenmesi gerekli",
+   "ozet": "2016 yılında başlayan yeni tip kimlik ve ehliyet belgeleri 10 yılın sonunda geçerliliğini yitiriyor. Yıl sonuna kadar binlerce kimlik kartı ile sürücü belgesi geçersiz olacak.",
+   "link": "https://www.ntv.com.tr/turkiye/ehliyet-ve-kimlikte-sure-doluyor-112-bin-kartin-yenilenmesi-gerekli-1751236",
+   "zaman": "2026-11-17T10:42:09+03:00",
+   "kelimeler": [
+    "112",
+    "bin",
+    "doluy",
+    "ehliy",
+    "gerek",
+    "karti",
+    "kimli",
+    "sure",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c9dbfc5bc75f": {
+   "id": "c9dbfc5bc75f",
+   "kaynak": "NTV",
+   "baslik": "2 haftada yüzde 7 yükseldi, barajlar coştu. İstanbul barajlarında son durum ne?",
+   "ozet": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, İstanbul'da barajların doluluk oranı son 2 haftada yüzde 7 yükseliş yaşadı. İşte baraj doluluk oranlarında son durum.",
+   "link": "https://www.ntv.com.tr/turkiye/2-haftada-yuzde-7-yukseldi-barajlar-costu-istanbul-barajlarinda-son-durum-ne-1751237",
+   "zaman": "2026-11-17T10:42:56+03:00",
+   "kelimeler": [
+    "baraj",
+    "costu",
+    "durum",
+    "hafta",
+    "istan",
+    "yukse",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e001ed9e3a67": {
+   "id": "e001ed9e3a67",
+   "kaynak": "NTV",
+   "baslik": "Denizin altında sessiz tehlike. Müsilaj Marmara'ya geri döndü",
+   "ozet": "Marmara'daki deniz yaşamını geçtiğimiz yıllarda tehdit eden müsilaj yeniden görülmeye başlandı. Gemlik ve Erdek Körfezi'ni kaplayan müsilaj tehlikesi dalgıçların su altı kameralarıyla görüntülendi.",
+   "link": "https://www.ntv.com.tr/turkiye/denizin-altinda-sessiz-tehlike-musilaj-marmaraya-geri-dondu-1751235",
+   "zaman": "2026-11-17T10:43:49+03:00",
+   "kelimeler": [
+    "altin",
+    "deniz",
+    "dondu",
+    "geri",
+    "marma",
+    "musil",
+    "sessi",
+    "tehli",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 10:48:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Diyarbakır merkezli rüşvet soruşturmasında 11 zanlı tutuklandı",
+  "17.11 10:46:04  10 yeni haber",
   "17.11 10:31:26  6 yeni haber",
   "17.11 10:17:10  9 yeni haber",
   "17.11 10:01:54  5 yeni haber",
@@ -26923,9 +27121,7 @@
   "15.11 09:16:05  3 yeni haber",
   "15.11 09:01:22  1 yeni haber",
   "15.11 08:46:08  1 yeni haber",
-  "15.11 08:31:30  1 yeni haber",
-  "15.11 08:18:42  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · ‘Eğitim şenliği’ne UNESCO ödülü",
-  "15.11 08:15:59  1 yeni haber"
+  "15.11 08:31:30  1 yeni haber"
  ],
  "otomatik": false
 }
