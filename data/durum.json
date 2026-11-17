@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "6c3fa2e0b6c2": {
-   "id": "6c3fa2e0b6c2",
-   "kaynak": "NTV",
-   "baslik": "Bahçeli: Kıbrıs Türk Devleti'nin yaşatılması milli davamızın vazgeçilmez hedefi",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Kuzey Kıbrıs Türk Cumhuriyeti'nin yaşatılması, egemenliğinin güçlendirilmesi ve hak ettiği konuma ulaşmasının milli davanın vazgeçilmez bir hedefi olduğunu söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/bahceli-kibris-turk-devletinin-yasatilmasi-milli-davamizin-vazgecilmez-hedefi-1750881",
-   "zaman": "2026-11-14T16:50:07+03:00",
-   "kelimeler": [
-    "bahce",
-    "davam",
-    "devle",
-    "hedef",
-    "kibri",
-    "milli",
-    "nin",
-    "turk",
-    "vazge",
-    "yasat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ac186e74f9f2": {
-   "id": "ac186e74f9f2",
-   "kaynak": "TRT Haber",
-   "baslik": "Bahçeli: Kıbrıs Türk halkının haklı mücadelesi kararlılıkla sürecek",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Kıbrıs Türk halkının haklı mücadelesinin kararlılıkla süreceğini belirterek, \"Kıbrıs'ta iki ayrı halkın ve iki ayrı egemen devletin varlığı, adil ve kalıcı bir çözümün temelini teşkil edecektir.\" ifadesini kullandı.",
-   "link": "https://www.trthaber.com/haber/gundem/bahceli-kibris-turk-halkinin-hakli-mucadelesi-kararlilikla-surecek-963289.html",
-   "zaman": "2026-11-14T17:00:00+03:00",
-   "kelimeler": [
-    "bahce",
-    "hakli",
-    "halki",
-    "karar",
-    "kibri",
-    "mucad",
-    "surec",
-    "turk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0472f9646336": {
-   "id": "0472f9646336",
-   "kaynak": "AA",
-   "baslik": "İtalya Verileri Koruma Kurumu, Meta'ya 805 milyon avro ceza kesti",
-   "ozet": "İtalya Verileri Koruma Kurumu (Garante della Privacy), Meta şirketine \"Facebook\"un, Android kullanıcılarının galerilerindeki fotoğraf ve videolara özel izin almadan eriştiği gerekçesiyle 805 milyon avro para cezası verdi.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/italya-verileri-koruma-kurumu-metaya-805-milyon-avro-ceza-kesti/4125231",
-   "zaman": "2026-11-14T17:01:02+03:00",
-   "kelimeler": [
-    "805",
-    "avro",
-    "ceza",
-    "italy",
-    "kesti",
-    "korum",
-    "kurum",
-    "meta",
-    "milyo",
-    "veril",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "65fa2ac10412": {
    "id": "65fa2ac10412",
    "kaynak": "Sözcü",
@@ -213,30 +145,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "5f97bebb3d4d": {
-   "id": "5f97bebb3d4d",
-   "kaynak": "AA",
-   "baslik": "COP31 Müzakereler Başkanı Bowen: COP31'in ilk haftasında bir dizi konuda iyi ilerleme kaydettik",
-   "ozet": "COP31 Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, \"COP31'in ilk haftasında bir dizi konuda iyi ilerleme kaydettik.\" diyerek görüşmelerin çok yapıcı bir şekilde sürdüğünü kaydetti.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-muzakereler-baskani-bowen-cop31in-ilk-haftasinda-bir-dizi-konuda-iyi-ilerleme-kaydettik/4125227",
-   "zaman": "2026-11-14T16:53:19+03:00",
-   "kelimeler": [
-    "baska",
-    "bowen",
-    "cop31",
-    "dizi",
-    "hafta",
-    "ilerl",
-    "ilk",
-    "in",
-    "iyi",
-    "kayde",
-    "konud",
-    "muzak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "295fccd23e4d": {
    "id": "295fccd23e4d",
@@ -17268,7 +17176,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "NTV"
    ]
   },
   "9ed1bbf6669c": {
@@ -19400,7 +19309,8 @@
    "durum": "paylasildi",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ],
    "paylasildi": "2026-11-17T07:04:51.577494+03:00",
    "ig_id": "18126696871932793",
@@ -27042,11 +26952,20 @@
     "mutab",
     "yayim"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA"
-   ]
+   ],
+   "paylasildi": "2026-11-17T17:04:17.246940+03:00",
+   "ig_id": "18418283335093916",
+   "reels_id": "18097701863677800",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2729674807434803",
+   "slayt": 6,
+   "kanca": "ANTALYA OKYANUS MUTABAKATI"
   },
   "df44b1355c90": {
    "id": "df44b1355c90",
@@ -27876,9 +27795,274 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "46a8f555021f": {
+   "id": "46a8f555021f",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında 8 şüpheliye tutuklama talebi",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 17 şüpheliden 8'i tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-8-supheliye-tutuklama-talebi-963545.html",
+   "zaman": "2026-11-17T12:45:00+03:00",
+   "kelimeler": [
+    "fon",
+    "sorus",
+    "suphe",
+    "taleb",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d6f646f93c0e"
+  },
+  "fb6882c61fc9": {
+   "id": "fb6882c61fc9",
+   "kaynak": "AA",
+   "baslik": "Milli sporcu Şahika Ercümen, COP31'de okyanuslar ve denizler için su altında nefesini tuttu",
+   "ozet": "Dünya rekortmeni serbest dalış sporcusu Şahika Ercümen, \"Denizler gerçekten nefes alamıyor, boğuluyor, sessiz bir çığlık var suyun altında.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-sahika-ercumen-cop31de-okyanuslar-ve-denizler-icin-su-altinda-nefesini-tuttu/4127822",
+   "zaman": "2026-11-17T16:00:55+03:00",
+   "kelimeler": [
+    "altin",
+    "cop31",
+    "deniz",
+    "ercum",
+    "milli",
+    "nefes",
+    "okyan",
+    "sahik",
+    "sporc",
+    "su",
+    "tuttu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0c0a0d3adccc": {
+   "id": "0c0a0d3adccc",
+   "kaynak": "TRT Haber",
+   "baslik": "Meteoroloji'den uyarı: Yurdun büyük bölümünde yağış bekleniyor",
+   "ozet": "Meteoroloji verilerine göre, yurdun büyük bir bölümünde yağışlı hava hakim olacak. Yağışların yarın ve perşembe günü yurdun büyük bölümünde, cuma günü ise Marmara, Karadeniz, Doğu Anadolu ve Güneydoğu Anadolu'da etkili olması bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-uyari-yurdun-buyuk-bolumunde-yagis-bekleniyor-963578.html",
+   "zaman": "2026-11-17T16:39:00+03:00",
+   "kelimeler": [
+    "bekle",
+    "bolum",
+    "buyuk",
+    "den",
+    "meteo",
+    "uyari",
+    "yagis",
+    "yurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2692c1164fb5": {
+   "id": "2692c1164fb5",
+   "kaynak": "AA",
+   "baslik": "COP31'de ziyaretçiler 1926 ve 2100'ün havasını soluyor",
+   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), kurulan Karbon Deneyim Alanındaki iki ayrı kabinde 1926 ve 2100'ün atmosfer koşulları oluşturuluyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-ziyaretciler-1926-ve-2100un-havasini-soluyor/4127887",
+   "zaman": "2026-11-17T16:39:45+03:00",
+   "kelimeler": [
+    "1926",
+    "2100",
+    "cop31",
+    "havas",
+    "soluy",
+    "un",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a056bfc63cb7": {
+   "id": "a056bfc63cb7",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturması kapsamında 4 şirkete kayyum atandı",
+   "ozet": "Tasarruf Mevduatı Sigorta Fonu TMSF, İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında, Adil Katılım Bankası AŞ'nin de aralarında bulunduğu 4 şirkete kayyum olarak atandı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasi-kapsaminda-4-sirkete-kayyum-atandi-963579.html",
+   "zaman": "2026-11-17T16:41:00+03:00",
+   "kelimeler": [
+    "atand",
+    "fon",
+    "kapsa",
+    "kayyu",
+    "sirke",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ed1971bdb45e"
+  },
+  "fc98948c86e3": {
+   "id": "fc98948c86e3",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında son durum",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 314 bin lira oldu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-963580.html",
+   "zaman": "2026-11-17T16:42:00+03:00",
+   "kelimeler": [
+    "altin",
+    "durum",
+    "fiyat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f78be18d072"
+  },
+  "e4e1f3087009": {
+   "id": "e4e1f3087009",
+   "kaynak": "TRT Haber",
+   "baslik": "İran medyası: Hürmüz Boğazı'ndaki Keşm Adası'nda patlama sesi duyuldu",
+   "ozet": "İran'ın güneyinde, Hürmüz Boğazı'nda bulunan Keşm Adası'nda patlama meydana geldiği duyuruldu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-medyasi-hurmuz-bogazindaki-kesm-adasinda-patlama-sesi-duyuldu-963581.html",
+   "zaman": "2026-11-17T16:44:00+03:00",
+   "kelimeler": [
+    "adasi",
+    "bogaz",
+    "duyul",
+    "hurmu",
+    "iran",
+    "kesm",
+    "medya",
+    "nda",
+    "ndaki",
+    "patla",
+    "sesi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1704357c15e9": {
+   "id": "1704357c15e9",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da dehşet dolu anlar | Otomobile silahlı saldırı: 1 ölü",
+   "ozet": "Eyüpsultan Alibeyköy'de otomobildeki kişiye silahlı saldırı yapıldı. Saldırıda ağır yaralanan F.Y. hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-dehset-dolu-anlar-otomobile-silahli-saldiri-1-olu-43381553",
+   "zaman": "2026-11-17T16:46:00+03:00",
+   "kelimeler": [
+    "anlar",
+    "dehse",
+    "dolu",
+    "istan",
+    "olu",
+    "otomo",
+    "saldi",
+    "silah"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c7d1c927cc13": {
+   "id": "c7d1c927cc13",
+   "kaynak": "AA",
+   "baslik": "Macaristan, Rusya'nın saldırısı nedeniyle Ukrayna'ya tren seferlerini kısıtladı",
+   "ozet": "Macaristan, Rusya'nın Ukrayna'nın batısındaki Transkarpatya bölgesine düzenlediği insansız hava aracı (İHA) saldırısının ardından, Ukrayna'ya tren seferlerini 2 günlüğüne sınırlandırma kararı aldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/macaristan-rusyanin-saldirisi-nedeniyle-ukraynaya-tren-seferlerini-kisitladi/4127899",
+   "zaman": "2026-11-17T16:46:40+03:00",
+   "kelimeler": [
+    "kisit",
+    "macar",
+    "neden",
+    "nin",
+    "rusya",
+    "saldi",
+    "sefer",
+    "tren",
+    "ukray",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c7fd7c499944": {
+   "id": "c7fd7c499944",
+   "kaynak": "AA",
+   "baslik": "30. Uluslararası Ankara Caz Festivali, \"Caz evrenseldir\" temasıyla başladı",
+   "ozet": "Caz Derneğince düzenlenen 30. Uluslararası Ankara Caz Festivali, \"Serkan Alagök Quartet & Meltem Ege\" konseriyle başladı.",
+   "link": "https://www.aa.com.tr/tr/kultur/30-uluslararasi-ankara-caz-festivali-caz-evrenseldir-temasiyla-basladi/4127908",
+   "zaman": "2026-11-17T16:49:24+03:00",
+   "kelimeler": [
+    "30",
+    "ankar",
+    "basla",
+    "caz",
+    "evren",
+    "festi",
+    "temas",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e4bd48a9da16": {
+   "id": "e4bd48a9da16",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi'den POLSAN iddiasına yalanlama",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Polis Bakım ve Yardım Sandığındaki POLSAN birikimin, fon soruşturması kapsamında tasfiyesine karar verilen bazı fonlarda kullanıldığı\" iddiasının gerçeği yansıtmadığını belirtti.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftciden-polsan-iddiasina-yalanlama-963582.html",
+   "zaman": "2026-11-17T16:52:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "ciftc",
+    "den",
+    "iddia",
+    "polsa",
+    "yalan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dce9cdcb8513": {
+   "id": "dce9cdcb8513",
+   "kaynak": "AA",
+   "baslik": "\"Davutpaşa Divanı\" buluşmalarının ilk konuğu Prof. Dr. Sadettin Ökten oldu",
+   "ozet": "Fatih Belediyesinin hayata geçirdiği \"Davutpaşa Divanı\" buluşmalarının ilk konuğu medeniyet düşüncesi üzerine çalışmalarıyla tanınan Prof. Dr. Sadettin Ökten oldu.",
+   "link": "https://www.aa.com.tr/tr/kultur/davutpasa-divani-bulusmalarinin-ilk-konugu-prof-dr-sadettin-okten-oldu/4127923",
+   "zaman": "2026-11-17T16:56:52+03:00",
+   "kelimeler": [
+    "bulus",
+    "davut",
+    "divan",
+    "dr",
+    "ilk",
+    "konug",
+    "okten",
+    "prof",
+    "sadet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b928c7c9fc0c": {
+   "id": "b928c7c9fc0c",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasında yeni gelişme. Altınbaş Holding ve bağlı bazı şirketlere kayyum atandı",
+   "ozet": "Fon soruşturmasında Altınbaş Holding, Alnus Yatırım Menkul Değerler, Altınbaş Kuyumculuk, Altınhas Holding, Altınhas Yatırım Holding şirketlerine kayyum atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-ve-bagli-bazi-sirketlere-kayyum-atandi-1751328",
+   "zaman": "2026-11-17T16:58:09+03:00",
+   "kelimeler": [
+    "altin",
+    "atand",
+    "bagli",
+    "bazi",
+    "fon",
+    "gelis",
+    "holdi",
+    "kayyu",
+    "sirke",
+    "sorus",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4e8321c2d6d3"
   }
  },
  "kayit": [
+  "17.11 17:04:17  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İklim eylemine hız kazandıracak Antalya Mutabakatı yayımlandı",
+  "17.11 17:02:15  9 yeni haber",
   "17.11 16:46:34  7 yeni haber",
   "17.11 16:31:16  8 yeni haber",
   "17.11 16:16:43  4 yeni haber",
@@ -28076,9 +28260,7 @@
   "15.11 15:16:01  4 yeni haber",
   "15.11 15:01:41  4 yeni haber",
   "15.11 14:46:36  8 yeni haber",
-  "15.11 14:31:39  7 yeni haber",
-  "15.11 14:18:37  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kavşakta TIR'a çarpan hafif ticari araçtaki üniversiteli Sudenaz kurta",
-  "15.11 14:16:20  6 yeni haber"
+  "15.11 14:31:39  7 yeni haber"
  ],
  "otomatik": false
 }
