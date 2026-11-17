@@ -23890,7 +23890,10 @@
     "yilli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "15af255117e5": {
    "id": "15af255117e5",
@@ -25111,9 +25114,75 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d70307e106cf": {
+   "id": "d70307e106cf",
+   "kaynak": "AA",
+   "baslik": "Suriye Dışişleri Bakanı Şeybani, bugün Türkiye'yi ziyaret edecek",
+   "ozet": "Suriye Dışişleri Bakanı Esad Hasan Şeybani ve beraberindeki heyet, çalışma ziyareti gerçekleştirmek üzere bugün Türkiye'ye gelecek.",
+   "link": "https://www.aa.com.tr/tr/gundem/suriye-disisleri-bakani-seybani-bugun-turkiyeyi-ziyaret-edecek/4127200",
+   "zaman": "2026-11-17T04:05:54+03:00",
+   "kelimeler": [
+    "bakan",
+    "bugun",
+    "disis",
+    "edece",
+    "seyba",
+    "suriy",
+    "turki",
+    "yi",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4116f1ea220": {
+   "id": "f4116f1ea220",
+   "kaynak": "AA",
+   "baslik": "Araştırma: ABD'deki 403 veri merkezinin yıllık karbondioksit salımı küçük bir Avrupa ülkesinden fazla",
+   "ozet": "ABD merkezli araştırmada, ülkedeki en büyük 403 veri merkezinin bir yıllık karbondioksit salımının, küçük bir Avrupa ülkesinin toplam yıllık salımını aştığı ortaya kondu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arastirma-abddeki-403-veri-merkezinin-yillik-karbondioksit-salimi-kucuk-bir-avrupa-ulkesinden-fazla/4127201",
+   "zaman": "2026-11-17T04:08:04+03:00",
+   "kelimeler": [
+    "403",
+    "abd",
+    "arast",
+    "avrup",
+    "deki",
+    "fazla",
+    "karbo",
+    "kucuk",
+    "merke",
+    "salim",
+    "ulkes",
+    "veri",
+    "yilli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "404a220c1232"
+  },
+  "c1e4666e2a2e": {
+   "id": "c1e4666e2a2e",
+   "kaynak": "AA",
+   "baslik": "Fitch: Kuzey Amerika için kredi görünümü kötüleşiyor",
+   "ozet": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'de bölünmüş yönetimden kaynaklanan önemli mali riskler nedeniyle Kuzey Amerika ülkelerinin kredi görünümünün kötüleştiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-kuzey-amerika-icin-kredi-gorunumu-kotulesiyor/4127202",
+   "zaman": "2026-11-17T04:10:45+03:00",
+   "kelimeler": [
+    "ameri",
+    "fitch",
+    "gorun",
+    "kotul",
+    "kredi",
+    "kuzey"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 05:01:42  2 yeni haber",
   "17.11 04:46:02  3 yeni haber",
   "17.11 04:17:04  1 yeni haber",
   "17.11 03:46:34  1 yeni haber",
@@ -25312,8 +25381,7 @@
   "15.11 00:31:15  2 yeni haber",
   "15.11 00:16:12  4 yeni haber",
   "15.11 00:04:18  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Malatya'daki helikopter kazasında şehit olan Astsubay Hüseyin Zehir’in",
-  "15.11 00:02:12  1 yeni haber",
-  "14.11 23:41:02  1 yeni haber"
+  "15.11 00:02:12  1 yeni haber"
  ],
  "otomatik": false
 }
