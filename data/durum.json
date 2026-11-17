@@ -1,42 +1,5 @@
 {
  "haberler": {
-  "098e0c823d3e": {
-   "id": "098e0c823d3e",
-   "kaynak": "TRT Haber",
-   "baslik": "İran'da işçi servisi devrildi, 5 kişi öldü, 17 kişi yaralandı",
-   "ozet": "İran'ın İlam eyaletinde işçileri taşıyan bir otobüsün devrilmesi sonucu 5 kişi hayatını kaybetti, 17 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/iranda-isci-servisi-devrildi-5-kisi-oldu-17-kisi-yaralandi-963305.html",
-   "zaman": "2026-11-14T21:47:00+03:00",
-   "kelimeler": [
-    "17",
-    "devri",
-    "iran",
-    "isci",
-    "kisi",
-    "servi",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "e167d521f582": {
-   "id": "e167d521f582",
-   "kaynak": "AA",
-   "baslik": "Anadolu Ateşi COP31'de sahne aldı",
-   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Anadolu Ateşi dans topluluğu gösteri sundu.",
-   "link": "https://www.aa.com.tr/tr/kultur/anadolu-atesi-cop31de-sahne-aldi-/4125397",
-   "zaman": "2026-11-14T21:54:12+03:00",
-   "kelimeler": [
-    "aldi",
-    "anado",
-    "atesi",
-    "cop31",
-    "sahne"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1a3882750830": {
    "id": "1a3882750830",
    "kaynak": "TRT Haber",
@@ -173,27 +136,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "61c038a96e70"
-  },
-  "0699b5d6fa38": {
-   "id": "0699b5d6fa38",
-   "kaynak": "TRT Haber",
-   "baslik": "İran'da işçi servisi devrildi, 10 kişi öldü, 12 kişi yaralandı",
-   "ozet": "İran'ın İlam eyaletinde işçileri taşıyan bir otobüsün devrilmesi sonucu 10 kişi hayatını kaybetti, 12 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/iranda-isci-servisi-devrildi-10-kisi-oldu-12-kisi-yaralandi-963305.html",
-   "zaman": "2026-11-14T21:47:00+03:00",
-   "kelimeler": [
-    "10",
-    "12",
-    "devri",
-    "iran",
-    "isci",
-    "kisi",
-    "servi",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "098e0c823d3e"
   },
   "72c4978d5271": {
    "id": "72c4978d5271",
@@ -27093,7 +27035,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "01cef5d1e304": {
    "id": "01cef5d1e304",
@@ -27258,7 +27202,10 @@
     "yakti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "61cf8875df52": {
    "id": "61cf8875df52",
@@ -28362,9 +28309,140 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "bd1d0762aa9e"
+  },
+  "547b008fc157": {
+   "id": "547b008fc157",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk F16'larının MogadişuBandırma arasındaki intikali 55 saatte tamamlandı",
+   "ozet": "Milli Savunma Bakanlığı, Somali Türk Görev Kuvveti Hava Unsur Komutanlığı bünyesinde görev yapan F16 savaş uçaklarının, bakım faaliyetleri kapsamında Mogadişu ile Bandırma arasındaki intikalini tamamladığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/turk-f-16larinin-mogadisu-bandirma-arasindaki-intikali-55-saatte-tamamlandi-963602.html",
+   "zaman": "2026-11-17T21:26:00+03:00",
+   "kelimeler": [
+    "55",
+    "arasi",
+    "f16",
+    "intik",
+    "larin",
+    "mogad",
+    "saatt",
+    "tamam",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2bbbff0528f0": {
+   "id": "2bbbff0528f0",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
+   "ozet": "Dünya Bankası, Antalya'da gerçekleştirilen Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31.",
+   "link": "https://www.trthaber.com/haber/ekonomi/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu-963603.html",
+   "zaman": "2026-11-17T21:42:00+03:00",
+   "kelimeler": [
+    "banka",
+    "cop31",
+    "dunya",
+    "iklim",
+    "istih",
+    "koydu",
+    "merke",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e11868e5ccf1"
+  },
+  "7a55e755ed41": {
+   "id": "7a55e755ed41",
+   "kaynak": "Hürriyet",
+   "baslik": "\"Fon soruşturması\" kapsamında Şamil Tayyar ifade verdi",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında eski AK Parti Milletvekili Şamil Tayyar \"şüpheli\" sıfatıyla ifade verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-kapsaminda-samil-tayyar-ifade-verdi-43381766",
+   "zaman": "2026-11-17T21:45:11+03:00",
+   "kelimeler": [
+    "fon",
+    "ifade",
+    "kapsa",
+    "samil",
+    "sorus",
+    "tayya",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7ac411b333c": {
+   "id": "f7ac411b333c",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 17 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1751350",
+   "zaman": "2026-11-17T21:48:04+03:00",
+   "kelimeler": [
+    "17",
+    "2026",
+    "belli",
+    "cekil",
+    "ekran",
+    "kasim",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "3f43e0924cf7": {
+   "id": "3f43e0924cf7",
+   "kaynak": "AA",
+   "baslik": "Ukrayna Savunma Bakanı Khmara, müttefik ülkelerden hava savunma füzeleri istedi",
+   "ozet": "Ukrayna Savunma Bakanı Yevgeni Khmara, müttefik ülkelerin mevcut stoklarındaki hava savunma füzelerini Ukrayna'ya vermelerini, karşılığında ise ülkesinin gelecek yıllar için sözleşmeye bağladığı füzeleri almalarını önerdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-savunma-bakani-khmara-muttefik-ulkelerden-hava-savunma-fuzeleri-istedi/4128290",
+   "zaman": "2026-11-17T21:50:01+03:00",
+   "kelimeler": [
+    "bakan",
+    "fuzel",
+    "hava",
+    "isted",
+    "khmar",
+    "mutte",
+    "savun",
+    "ukray",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60a35c8a8edf": {
+   "id": "60a35c8a8edf",
+   "kaynak": "NTV",
+   "baslik": "Kirpi Ahmet cinayetinde sanıklar savunma yaptı. \"Adam yaktım, küllerini bulamadılar\"",
+   "ozet": "Zonguldak'ta 16 yıl sonra yeniden açılan \"Kirpi Ahmet\" cinayetinde tutuklu sanıkların savunması alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/kirpi-ahmet-cinayetinde-saniklar-savunma-yapti-adam-yaktim-kullerini-bulamadilar-1751351",
+   "zaman": "2026-11-17T21:57:46+03:00",
+   "kelimeler": [
+    "adam",
+    "ahmet",
+    "bulam",
+    "cinay",
+    "kirpi",
+    "kulle",
+    "sanik",
+    "savun",
+    "yakti",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "691ad53a3dcf"
   }
  },
  "kayit": [
+  "17.11 22:01:52  4 yeni haber",
   "17.11 21:46:46  4 yeni haber",
   "17.11 21:31:30  5 yeni haber",
   "17.11 21:16:08  2 yeni haber",
@@ -28563,8 +28641,7 @@
   "15.11 20:01:31  1 yeni haber",
   "15.11 19:46:05  4 yeni haber",
   "15.11 19:31:45  1 yeni haber",
-  "15.11 19:16:04  4 yeni haber",
-  "15.11 19:04:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Denizli’de kargo aracı traktör römorkuna çarptı: 1 ölü, 5 yaralı"
+  "15.11 19:16:04  4 yeni haber"
  ],
  "otomatik": false
 }
