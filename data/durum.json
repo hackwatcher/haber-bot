@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "45eee7580cf7": {
-   "id": "45eee7580cf7",
-   "kaynak": "TRT Haber",
-   "baslik": "TÜRKSAT, altyapı bulunmayan bölgelere kesintisiz internet sağlayacak",
-   "ozet": "TÜRKSAT AŞ, karasal haberleşme hatlarının ve elektrik şebekesinin ulaşamadığı bölgelere kesintisiz internet erişimi sağlamak amacıyla \"Güneş Enerjili Uydu Destekli Kamusal WiFi Sistemi\"ni geliştirdi.",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/turksat-altyapi-bulunmayan-bolgelere-kesintisiz-internet-saglayacak-963268.html",
-   "zaman": "2026-11-14T13:17:00+03:00",
-   "kelimeler": [
-    "altya",
-    "bolge",
-    "bulun",
-    "inter",
-    "kesin",
-    "sagla",
-    "turks"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "5c09cae6de98": {
    "id": "5c09cae6de98",
    "kaynak": "TRT Haber",
@@ -25858,11 +25836,20 @@
     "orgut",
     "suc"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA"
-   ]
+   ],
+   "paylasildi": "2026-11-17T13:33:34.274263+03:00",
+   "ig_id": "17927530881445559",
+   "reels_id": "18079178573761947",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2894477734260968",
+   "slayt": 6,
+   "kanca": "669 SUÇ ÖRGÜTÜ ÇÖKERTİLDİ"
   },
   "cbfdcf8edeb9": {
    "id": "cbfdcf8edeb9",
@@ -26735,7 +26722,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "aec50c1dcb33": {
    "id": "aec50c1dcb33",
@@ -26820,9 +26810,169 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "852a472d23a7": {
+   "id": "852a472d23a7",
+   "kaynak": "AA",
+   "baslik": "NATO İletişim ve Bilgi Ajansı Genel Müdürü Browne'a göre krizlere karşı \"İttifak'ın sınavı\" var",
+   "ozet": "NATO İletişim ve Bilgi Ajansı (NCIA) Genel Müdürü Dr. Dylan Browne, İttifak'ın \"tek bir vizyon, tek bir mücadeleye\" sahip olduğunu kaydederek, muhtemel krizlere karşı İttifak'ın sınavları olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-iletisim-ve-bilgi-ajansi-genel-muduru-brownea-gore-krizlere-karsi-ittifakin-sinavi-var/4127559",
+   "zaman": "2026-11-17T12:45:19+03:00",
+   "kelimeler": [
+    "ajans",
+    "bilgi",
+    "brown",
+    "genel",
+    "gore",
+    "ileti",
+    "in",
+    "ittif",
+    "karsi",
+    "krizl",
+    "mudur",
+    "nato",
+    "sinav"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4c77cdfb4f0b": {
+   "id": "4c77cdfb4f0b",
+   "kaynak": "TRT Haber",
+   "baslik": "Haluk Görgün: Türkiye, gelişmiş savunma sanayii ile NATO'nun güçlü bir müttefiki",
+   "ozet": "Savunma Sanayii Başkanı Haluk Görgün, Türkiye'nin sadece gelişmiş ve güçlü ordusuyla değil, aynı zamanda gelişmiş savunma sanayisiyle de NATO'nun güçlü bir müttefiki olduğunu her vesileyle gösterdiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/gundem/haluk-gorgun-turkiye-gelismis-savunma-sanayii-ile-natonun-guclu-bir-muttefiki-963549.html",
+   "zaman": "2026-11-17T13:15:00+03:00",
+   "kelimeler": [
+    "gelis",
+    "gorgu",
+    "guclu",
+    "haluk",
+    "mutte",
+    "nato",
+    "nun",
+    "sanay",
+    "savun",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "85cf5a25199b"
+  },
+  "11ec050d2b54": {
+   "id": "11ec050d2b54",
+   "kaynak": "Hürriyet",
+   "baslik": "Doğum gününde toprağa verilen motokuryenin 4 günlük motosikleti",
+   "ozet": "Yakıt masrafını azaltmak için 4 gün önce aldığı motosikletiyle kuryelik yapan Soner Çınar, Bursa'da hafif ticari aracın çarpmasıyla hayatını kaybetti. Kaza kameraya yansırken, sürücü Enes A. tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/dogum-gununde-topraga-verilen-motokuryenin-4-gunluk-motosikleti-43381212",
+   "zaman": "2026-11-17T13:16:05+03:00",
+   "kelimeler": [
+    "dogum",
+    "gunlu",
+    "gunun",
+    "motok",
+    "motos",
+    "topra",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "071ebeea9e18": {
+   "id": "071ebeea9e18",
+   "kaynak": "AA",
+   "baslik": "IEA, küresel yenilenebilir enerji kapasitesinde 2030 hedefinin gerisinde kalınabileceğini öngörüyor",
+   "ozet": "IEA Başkan Yardımcısı Warlick, küresel yenilenebilir enerji kapasitesinin 2026-2031 döneminde yaklaşık 4 bin 800 gigavat artmasının beklendiğini ancak mevcut politikalarla 2030'a kadar kapasiteyi üç katına çıkarma hedefine ulaşılamayacağını belirtti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/iea-kuresel-yenilenebilir-enerji-kapasitesinde-2030-hedefinin-gerisinde-kalinabilecegini-ongoruyor/4127604",
+   "zaman": "2026-11-17T13:16:48+03:00",
+   "kelimeler": [
+    "2030",
+    "enerj",
+    "geris",
+    "hedef",
+    "iea",
+    "kalin",
+    "kapas",
+    "kures",
+    "ongor",
+    "yenil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "42e9cc2e06c8": {
+   "id": "42e9cc2e06c8",
+   "kaynak": "AA",
+   "baslik": "Irak, Türkiye’ye \"eski boru hattı üzerinden ham petrol sevkiyatının yeniden başladığını\" duyurdu",
+   "ozet": "Irak Petrol Bakanı Basim Muhammed Hudayyır, Irak-Türkiye arasındaki \"eski boru hattı üzerinden ham petrol sevkiyatına yeniden başlandığını\" açıkladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/irak-turkiye-ye-eski-boru-hatti-uzerinden-ham-petrol-sevkiyatinin-yeniden-basladigini-duyurdu/4127611",
+   "zaman": "2026-11-17T13:21:58+03:00",
+   "kelimeler": [
+    "basla",
+    "boru",
+    "duyur",
+    "eski",
+    "ham",
+    "hatti",
+    "irak",
+    "petro",
+    "sevki",
+    "turki",
+    "uzeri",
+    "ye",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "870c67d47b14": {
+   "id": "870c67d47b14",
+   "kaynak": "NTV",
+   "baslik": "Bakan Gürlek Devlet Bahçeli ile görüşüyor",
+   "ozet": "Adalet Bakanı Akın Gürlek, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli ile Meclis'te bir görüşme gerçekleştiriyor.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
+   "zaman": "2026-11-17T13:26:12+03:00",
+   "kelimeler": [
+    "bahce",
+    "bakan",
+    "devle",
+    "gorus",
+    "gurle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "33d8059df770": {
+   "id": "33d8059df770",
+   "kaynak": "XHABER",
+   "baslik": "Çin'de düğün fotoğrafı çekimi sırasında ürken at, üzerindeki gelinle birlikte kaçtı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30724",
+   "zaman": "2026-11-17T13:31:40+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Çin'de düğün fotoğrafı çekimi sırasında ürken at, üzerindeki gelinle birlikte kaçtı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/TcMSVt0iFwyTpBm95az6Xd62cPUxrZNrPAEIUM8RkaX9PeRITq4jzEti8gBsAhp8elsVblSckqQ6R5R6_yBaql-7MX0uoTd-VwXBWmOOc1Xsaov0UA2ewMSzbruQdDDlZq2rrt2N7LCYTIz5ZpjvLc3WF_jNm46wU7XSjdIRN930rqlJ8XZTRMAxUaV8w54CUFGA2GhaLpH7zNoosZtAPbl-dl7p-3jRBwQG98dsXQRtYSnX_O9QaKj3c8QMyOxGGBvDt1vPhzYk2xz6clgbA5zZtoHhcBXVpX7HWZiQYo9_PApSTBfdBeadSN1fIxZxp3xGIsli3Uqe0at2DAZ5pA",
+   "tg_video_url": "https://cdn4.telesco.pe/file/5b6e53ac6e.mp4?token=cd3OeH2_E-UzZGOKKJefEXmuFkAp-U3zIqVDwpjZS3qAklLSllcOZm0DCeU-TKCmtFZNsaLhwbP7mmtBytsTRBfLNIPuLUWIMyXcmVY4BOzRCQ1l63zzsQcr0Q1XzpysKNnTEEx8hmB5oyrtuhLivg10b4HwQ4Ue1hbWIbkP9OZnqtm37J2Ja3htixrE2nscrZmiI0F3tojeMBmk6JRnkhVU4YUqcEkJ5OPpSSimEtjBzQDYCGYTXj-tjqd1b9G-zf5PB-yG0Jy_OzA4WNm4IxOFnyWv0sOjn8NTTfoYuiNo3mNngObj9xOW001cvKarkzyQmslbgmlABX6bYm9yHA",
+   "kelimeler": [
+    "at",
+    "birli",
+    "cekim",
+    "cin",
+    "dugun",
+    "fotog",
+    "gelin",
+    "kacti",
+    "siras",
+    "urken",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 13:33:34  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik",
+  "17.11 13:31:43  6 yeni haber",
   "17.11 13:16:08  8 yeni haber",
   "17.11 13:02:12  6 yeni haber",
   "17.11 12:46:06  4 yeni haber",
@@ -27020,9 +27170,7 @@
   "15.11 11:46:02  7 yeni haber",
   "15.11 11:31:21  7 yeni haber",
   "15.11 11:16:12  11 yeni haber",
-  "15.11 11:04:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Türkiye iklim okulu açıldı: Çocuklara çevre bilinci kazandırılması hed",
-  "15.11 11:01:40  3 yeni haber",
-  "15.11 10:46:08  3 yeni haber"
+  "15.11 11:04:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): NTV · Türkiye iklim okulu açıldı: Çocuklara çevre bilinci kazandırılması hed"
  ],
  "otomatik": false
 }
