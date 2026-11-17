@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "fb7bb6a9a941": {
-   "id": "fb7bb6a9a941",
-   "kaynak": "TRT Haber",
-   "baslik": "11 il için sarı uyarı: Sağanak ve fırtınaya dikkat",
-   "ozet": "Marmara'da beklenen kuvvetli rüzgar ve sağanak nedeniyle 11 il için \"sarı\" kodlu uyarıda bulunuldu.",
-   "link": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-saganak-ve-firtinaya-dikkat-963237.html",
-   "zaman": "2026-11-14T08:54:00+03:00",
-   "kelimeler": [
-    "11",
-    "dikka",
-    "firti",
-    "il",
-    "sagan",
-    "sari",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "269ab1d269b2": {
    "id": "269ab1d269b2",
    "kaynak": "NTV",
@@ -25886,7 +25867,8 @@
     "tv"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "6a64273860d4": {
    "id": "6a64273860d4",
@@ -25929,9 +25911,178 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0b9e01a9be6a"
+  },
+  "d94e5793285c": {
+   "id": "d94e5793285c",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında 7 şüpheli tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 26 şüpheliden 7'si tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-7-supheli-tutuklandi-43380648",
+   "zaman": "2026-11-17T08:30:00+03:00",
+   "kelimeler": [
+    "fon",
+    "sorus",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d6f646f93c0e"
+  },
+  "01023a9c2c87": {
+   "id": "01023a9c2c87",
+   "kaynak": "TRT Haber",
+   "baslik": "Sözcü TV'nin yayın grubu sahibine FETÖ soruşturması: 4 gözaltı kararı",
+   "ozet": "Burak Akbay'a yönelik FETÖ/PDY soruşturması kapsamında, Sözcü TV ve Sözcü Gazetesi binasında arama yapıldı. Şirket yöneticisi ve yetkilisi olduğu belirlenen 4 kişi hakkında gözaltı kararı verilirken, Mega Ajans ve Reklamcılık Ticaret AŞ'nin yönetimine TMSF görevlendirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/sozcu-tvnin-yayin-grubu-sahibine-feto-sorusturmasi-4-gozalti-karari-963497.html",
+   "zaman": "2026-11-17T08:31:00+03:00",
+   "kelimeler": [
+    "feto",
+    "gozal",
+    "grubu",
+    "karar",
+    "nin",
+    "sahib",
+    "sorus",
+    "sozcu",
+    "tv",
+    "yayin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d07b494db4bd"
+  },
+  "aefd6abd1d92": {
+   "id": "aefd6abd1d92",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Başkanı Donald Trump, Şi ve Putin ile görüşmesi öncesinde Asya'ya gidiyor",
+   "ozet": "ABD Başkanı Donald Trump'ın, yarın Çin'e geçmeden önce Güneydoğu Asya ülkeleri zirvesine katılmak üzere bugün Filipinler'in başkentine inmesi bekleniyor.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-donald-trump-si-ve-putin-ile-gorusmesi-oncesinde-asyaya-gidiyor-963500.html",
+   "zaman": "2026-11-17T08:44:00+03:00",
+   "kelimeler": [
+    "abd",
+    "asya",
+    "baska",
+    "donal",
+    "gidiy",
+    "gorus",
+    "onces",
+    "putin",
+    "si",
+    "trump",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6b2c876ff900": {
+   "id": "6b2c876ff900",
+   "kaynak": "TRT Haber",
+   "baslik": "Meta, hizmetlerini Kanada'dan çekmeyi değerlendiriyor",
+   "ozet": "Meta temsilcileri, Kanada'da görüşülen yasal erişim tasarısının ek değişiklik yapılmadan yasalaşması halinde şifreleme hizmetlerini ülkeden çekmeyi değerlendireceklerini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/meta-hizmetlerini-kanadadan-cekmeyi-degerlendiriyor-963501.html",
+   "zaman": "2026-11-17T08:48:00+03:00",
+   "kelimeler": [
+    "cekme",
+    "dan",
+    "deger",
+    "hizme",
+    "kanad",
+    "meta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "66d4bf91cf8c": {
+   "id": "66d4bf91cf8c",
+   "kaynak": "TRT Haber",
+   "baslik": "Harvard araştırması: ABD'deki veri merkezleri bir yılda Danimarka'dan fazla karbon salımına yol açtı",
+   "ozet": "Pazartesi günü yayımlanan Harvard Üniversitesi araştırmasına göre, ABD'deki en büyük 400 veri merkezi bir yılda atmosfere Danimarka'nın tamamından daha fazla ısı tutucu gaz saldı.",
+   "link": "https://www.trthaber.com/haber/dunya/harvard-arastirmasi-abddeki-veri-merkezleri-bir-yilda-danimarkadan-fazla-karbon-salimina-yol-acti-963502.html",
+   "zaman": "2026-11-17T08:50:00+03:00",
+   "kelimeler": [
+    "abd",
+    "acti",
+    "arast",
+    "dan",
+    "danim",
+    "deki",
+    "fazla",
+    "harva",
+    "karbo",
+    "merke",
+    "salim",
+    "veri",
+    "yilda",
+    "yol"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "404a220c1232"
+  },
+  "fcc6cdac7c42": {
+   "id": "fcc6cdac7c42",
+   "kaynak": "TRT Haber",
+   "baslik": "136 kilogramlık 120 yıllık kilise çanı çalındı",
+   "ozet": "Kanada'nın Manitoba eyaletindeki Winnipeg kentinin yaklaşık 80 kilometre kuzeyinde, Fraserwood yakınlarında bulunan İsa'nın Kutsal Kalbi Ukrayna Katolik Kilisesinin ahşap çan kulesinden yaklaşık 136 kilogram ağırlığında olduğu tahmin edilen çan söküldü.",
+   "link": "https://www.trthaber.com/haber/dunya/136-kilogramlik-120-yillik-kilise-cani-calindi-963503.html",
+   "zaman": "2026-11-17T08:52:00+03:00",
+   "kelimeler": [
+    "120",
+    "136",
+    "calin",
+    "cani",
+    "kilis",
+    "kilog",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a8edb8296da7": {
+   "id": "a8edb8296da7",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | SÖZCÜ TV’YE KAYYUM ATANDI.",
+   "ozet": "— Sözcü TV binasına çıkan yollar kapatıldı. — Operasyon yapılıyor. Televizyon binasına polisler geldi, içeride arama yapılıyor. — Yönetim Kurulu Başkanı Funda Tuncer Sıdalı gözaltında. — TMSF tarafından kanala kayyum…",
+   "link": "https://t.me/sahinozkan000/30715",
+   "zaman": "2026-11-17T08:55:49+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | SÖZCÜ TV’YE KAYYUM ATANDI. — Sözcü TV binasına çıkan yollar kapatıldı. — Operasyon yapılıyor. Televizyon binasına polisler geldi, içeride arama yapılıyor. — Yönetim Kurulu Başkanı Funda Tuncer Sıdalı gözaltında. — TMSF tarafından kanala kayyum…",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/m1ZGs9XUHP9u9cAFK6OcJiIbvXoIquRLGgSOvFIZPaa_dB9pu8SRU2GZMC0195ZZwKgGlSOuaDH6KPRLRlapCRFOz0vV8on5iQzFKB_Lu_-AotQCjoD2bGJGpeQ4E9AilCUvwLyweQ3rpNiSmAjI6B5r2-Cxzurf-uvIpTFqFPPtoHIMRzcA7tmUj3_1V5V6ZjUjLLnzl63APyEbztcXfV1lekOvNoGc48IezhmDUDO0BEQXCUNV6kGB3tFyCujaQ5x8dAvguqTQ5Ftw1wGYdG3_Wid9wNSxyFpkECbBGOm_rbCZNmgtb4UQT-Xxt3Hh4f5wovfzkLBSxiBksiJO_A.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "atand",
+    "kayyu",
+    "sonda",
+    "sozcu",
+    "tv",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0b9e01a9be6a"
+  },
+  "c454e2c01e9a": {
+   "id": "c454e2c01e9a",
+   "kaynak": "XHABER",
+   "baslik": "İsmail Küçükkaya :",
+   "ozet": "\"17 Kasım 2026 Salı. ‘Günaydın Türkiyem’ diyemiyorum. Sözcü TV’ye kayyum atandı. Her zamanki gibi erkenden kanalıma gittim. İçeri alınmadım. ‘Yayınınız yok’ denildi. Üzüntülüyüm. Çok üzgünüm. Ülkem için kaygılıyım.\"",
+   "link": "https://t.me/sahinozkan000/30716",
+   "zaman": "2026-11-17T08:59:38+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İsmail Küçükkaya :\n\"17 Kasım 2026 Salı.\n‘Günaydın Türkiyem’ diyemiyorum.\nSözcü TV’ye kayyum atandı.\nHer zamanki gibi erkenden kanalıma gittim. İçeri alınmadım. ‘Yayınınız yok’ denildi. Üzüntülüyüm. Çok üzgünüm. Ülkem için kaygılıyım.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/LScZme4ppdWKntZatB3PrdnOBJdbjma7uELx7-UIHm0VLnwsezUFp-IpNq3otUQ_s34vDL4AfB1WtUsfFCOEnG4O83m1M0r6HqG2uXLN5HvQCzp8ygyyNgHOlx9yZn6nS7t8V8dt9A-vXkHt4AZOFQlW7EFjofCickMy4HjRmXIelePJf7PB9IkWfq6SYyJObOieavTDuY30epQdTWkBEV29mEK_LFeI1UKA-bHTiAygrzy9km555YvfZIJM8JWB5Gvb7K5VHfYCtMBtS-HmvNZZOgZ7XpApchkierwyJPxHkOFIb7Yxj85_ZL08JhrBTHSCulSsrZzW4PXI4PofdQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "ismai",
+    "kucuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 09:01:53  4 yeni haber",
   "17.11 08:46:33  5 yeni haber",
   "17.11 08:31:40  3 yeni haber",
   "17.11 08:18:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Cinayete yardımdan beraat etti tehditten tutuklandı",
@@ -26130,8 +26281,7 @@
   "15.11 07:01:28  2 yeni haber",
   "15.11 05:31:18  1 yeni haber",
   "15.11 05:16:09  1 yeni haber",
-  "15.11 05:01:26  1 yeni haber",
-  "15.11 04:16:10  1 yeni haber"
+  "15.11 05:01:26  1 yeni haber"
  ],
  "otomatik": false
 }
