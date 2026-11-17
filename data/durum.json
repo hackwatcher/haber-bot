@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "6c69ae638f34": {
-   "id": "6c69ae638f34",
-   "kaynak": "NTV",
-   "baslik": "Yeni Parti ilk kurultayını yapıyor",
-   "ozet": "Yeni Parti'nin ilk olağan kurultayı yapılıyor. Özgür Özel, genel başkanlık için tek aday olarak seçime giriyor. Parti Meclisi'nde (PM) üye sayısının yükseltilmesi dikkati çekiyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-yeni-parti-ilk-kurultayini-yapiyor-1750828",
-   "zaman": "2026-11-14T12:42:17+03:00",
-   "kelimeler": [
-    "ilk",
-    "kurul",
-    "parti",
-    "yapiy",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fb9a9213923d"
-  },
   "8592f9135c82": {
    "id": "8592f9135c82",
    "kaynak": "AA",
@@ -15632,7 +15614,8 @@
     "ukray"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "053ffecb9274": {
    "id": "053ffecb9274",
@@ -26644,9 +26627,116 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "714ba5b8062e": {
+   "id": "714ba5b8062e",
+   "kaynak": "Hürriyet",
+   "baslik": "Ormanda bekleyip lastik bota bindiler, denizde yakalandılar: 6 tutuklama",
+   "ozet": "Bodrum'da 11-12 Kasım tarihlerinde adım adım takip edilen göçmen kaçakçılığı organizasyonu, Sahil Güvenlik botunun müdahalesiyle durduruldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/ormanda-bekleyip-lastik-bota-bindiler-denizde-yakalandilar-6-tutuklama-43381072",
+   "zaman": "2026-11-17T12:21:00+03:00",
+   "kelimeler": [
+    "bekle",
+    "bindi",
+    "bota",
+    "deniz",
+    "lasti",
+    "orman",
+    "tutuk",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ecdedd0ccbc9": {
+   "id": "ecdedd0ccbc9",
+   "kaynak": "Hürriyet",
+   "baslik": "Hesaplarında 1 milyar liralık hareketlilik tespit edilmişti: Bahis operasyonunda 7 tutuklama",
+   "ozet": "Yurt dışı bağlantılı yasa dışı bahis sitelerinin finans ayağını yönettikleri iddiasıyla Diyarbakır ve Şanlıurfa'da gözaltına alınan 21 şüphelinin emniyetteki işlemleri tamamlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/hesaplarinda-1-milyar-liralik-hareketlilik-tespit-edilmisti-bahis-operasyonunda-7-tutuklama-43381113",
+   "zaman": "2026-11-17T12:26:15+03:00",
+   "kelimeler": [
+    "bahis",
+    "edilm",
+    "harek",
+    "hesap",
+    "liral",
+    "milya",
+    "opera",
+    "tespi",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "374cfb3fc616": {
+   "id": "374cfb3fc616",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum: COP31 Antalya-Gazze İklim Hattı adı altında somut ve acil bir çalışma başlatmayı öneriyorum",
+   "ozet": "Bakan Kurum, \"D-8 ülkeleriyle birlikte COP31 Antalya-Gazze İklim Hattı adı altında somut ve acil bir çalışma başlatmayı öneriyorum. Güneş enerjisi ve bataryayla çalışan mobil su arıtma sistemleri sağlayabiliriz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-cop31-antalya-gazze-iklim-hatti-adi-altinda-somut-ve-acil-bir-calisma-baslatmayi-oneriyorum/4127536",
+   "zaman": "2026-11-17T12:26:42+03:00",
+   "kelimeler": [
+    "adi",
+    "altin",
+    "antal",
+    "bakan",
+    "basla",
+    "calis",
+    "cop31",
+    "gazze",
+    "hatti",
+    "iklim",
+    "kurum",
+    "oneri",
+    "somut"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f2222083cd3a": {
+   "id": "f2222083cd3a",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Ukrayna yeniden Kırım Köprüsü'ne saldırı düzenledi",
+   "ozet": "Rusya'nın yasa dışı ilhak ettiği Kırım'ın sözde yönetim başkanı Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne yeniden saldırı düzenlediğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukrayna-yeniden-kirim-koprusune-saldiri-duzenledi-963542.html",
+   "zaman": "2026-11-17T12:28:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "kirim",
+    "kopru",
+    "rusya",
+    "saldi",
+    "ukray",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "80901755342f"
+  },
+  "ae04049bce0c": {
+   "id": "ae04049bce0c",
+   "kaynak": "AA",
+   "baslik": "Belçika'dan sığınmacıların barınma hakkını kısıtlayan yeni adım",
+   "ozet": "Belçika federal hükümeti, daha önce başka bir Avrupa Birliği (AB) üyesi ülkede uluslararası koruma başvurusunda bulunan sığınmacıların ülkede barınma hizmetlerinden yararlanmasını engellemeyi öngören yasa tasarısını onayladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikadan-siginmacilarin-barinma-hakkini-kisitlayan-yeni-adim/4127549",
+   "zaman": "2026-11-17T12:37:09+03:00",
+   "kelimeler": [
+    "adim",
+    "barin",
+    "belci",
+    "dan",
+    "hakki",
+    "kisit",
+    "sigin",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 12:46:06  4 yeni haber",
   "17.11 12:31:18  11 yeni haber",
   "17.11 12:16:09  6 yeni haber",
   "17.11 12:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İzmir merkezli FETÖ operasyonunda yakalanan 11 şüpheli tutuklandı",
@@ -26845,8 +26935,7 @@
   "15.11 11:01:40  3 yeni haber",
   "15.11 10:46:08  3 yeni haber",
   "15.11 10:31:08  2 yeni haber",
-  "15.11 10:17:25  1 yeni haber",
-  "15.11 10:01:26  3 yeni haber"
+  "15.11 10:17:25  1 yeni haber"
  ],
  "otomatik": false
 }
