@@ -1,21 +1,5 @@
 {
  "haberler": {
-  "1a3882750830": {
-   "id": "1a3882750830",
-   "kaynak": "TRT Haber",
-   "baslik": "Potanın Perileri İsrail'i devirdi",
-   "ozet": "A Milli Kadın Basketbol Takımı, 2027 Avrupa Şampiyonası Elemeleri I Grubu'ndaki ikinci maçında İsrail'i 7667 yenerek 2'de 2 yaptı.",
-   "link": "https://www.trthaber.com/haber/gundem/potanin-perileri-israili-devirdi-963306.html",
-   "zaman": "2026-11-14T22:42:00+03:00",
-   "kelimeler": [
-    "devir",
-    "israi",
-    "peril",
-    "potan"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "a7be2732cd95": {
    "id": "a7be2732cd95",
    "kaynak": "AA",
@@ -25583,7 +25567,10 @@
     "suriy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "5131805fb0f4": {
    "id": "5131805fb0f4",
@@ -28544,9 +28531,51 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "3424b7897c29"
+  },
+  "20192418d734": {
+   "id": "20192418d734",
+   "kaynak": "AA",
+   "baslik": "COP31'de \"5 Yönetmen 5 Yeşil Film\" projesi kapsamında film gösterimleri ve söyleşiler yapıldı",
+   "ozet": "COP31 kapsamında hayata geçirilen \"5 Yönetmen 5 Yeşil Film\" projesi kapsamında izleyiciler beş filmi izledi ve film ekipleriyle söyleşilere katıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/cop31de-5-yonetmen-5-yesil-film-projesi-kapsaminda-film-gosterimleri-ve-soylesiler-yapildi/4128219",
+   "zaman": "2026-11-17T20:19:58+03:00",
+   "kelimeler": [
+    "cop31",
+    "film",
+    "goste",
+    "kapsa",
+    "proje",
+    "soyle",
+    "yapil",
+    "yesil",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f34b94a17adc": {
+   "id": "f34b94a17adc",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakanlar Güler ve Fidan, Suriyeli mevkidaşlarıyla bir araya geldi",
+   "ozet": "MİLLİ Savunma Bakanı Yaşar Güler ile Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ve Savunma Bakanı Murhef Ebu Kasra ile Ankara'da bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakanlar-guler-ve-fidan-suriyeli-mevkidaslariyla-bir-araya-geldi-43381798",
+   "zaman": "2026-11-17T22:34:36+03:00",
+   "kelimeler": [
+    "araya",
+    "bakan",
+    "fidan",
+    "geldi",
+    "guler",
+    "mevki",
+    "suriy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "60ffb29101cf"
   }
  },
  "kayit": [
+  "17.11 22:46:44  1 yeni haber",
   "17.11 22:31:44  1 yeni haber",
   "17.11 22:16:20  3 yeni haber",
   "17.11 22:01:52  4 yeni haber",
@@ -28745,8 +28774,7 @@
   "15.11 20:46:05  3 yeni haber",
   "15.11 20:31:25  3 yeni haber",
   "15.11 20:16:33  3 yeni haber",
-  "15.11 20:01:31  1 yeni haber",
-  "15.11 19:46:05  4 yeni haber"
+  "15.11 20:01:31  1 yeni haber"
  ],
  "otomatik": false
 }
