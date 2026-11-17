@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "d2a11e01844b": {
-   "id": "d2a11e01844b",
-   "kaynak": "TRT Haber",
-   "baslik": "Uyuşturucu gelirini aklama operasyonunda 4 şüpheli yakalandı",
-   "ozet": "Ankara Cumhuriyet Başsavcılığınca yürütülen uyuşturucu ticaretinden elde edilen gelirin aklanması suçuna yönelik soruşturmada 4 şüpheli yakalandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/uyusturucu-gelirini-aklama-operasyonunda-4-supheli-yakalandi-963236.html",
-   "zaman": "2026-11-14T08:08:00+03:00",
-   "kelimeler": [
-    "aklam",
-    "gelir",
-    "opera",
-    "suphe",
-    "uyust",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4bd72e898c3c"
-  },
   "02e3acf06dbb": {
    "id": "02e3acf06dbb",
    "kaynak": "NTV",
@@ -24927,7 +24908,8 @@
     "pazar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "f5b39f9a0f07": {
    "id": "f5b39f9a0f07",
@@ -25373,8 +25355,17 @@
     "tutuk",
     "yardi"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-17T08:18:19.727397+03:00",
+   "ig_id": "18016450826986713",
+   "reels_id": "18030966284935880",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1462198829313757",
+   "slayt": 4,
+   "kanca": "BERAAT VE TUTUKLAMA"
   },
   "f62d3a0fdf95": {
    "id": "f62d3a0fdf95",
@@ -25748,9 +25739,73 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ee804f357380": {
+   "id": "ee804f357380",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya'nın saldırısında Kiev'deki iki büyük köprü vuruldu",
+   "ozet": "Rusya'nın Ukrayna'nın başkenti Kiev'e düzenlediği balistik füze saldırısında Dinyeper Nehri üzerindeki iki büyük köprünün vurulduğu açıklandı.",
+   "link": "https://www.trthaber.com/haber/dunya/rusyanin-saldirisinda-kievdeki-iki-buyuk-kopru-vuruldu-963490.html",
+   "zaman": "2026-11-17T07:55:00+03:00",
+   "kelimeler": [
+    "buyuk",
+    "deki",
+    "iki",
+    "kiev",
+    "kopru",
+    "nin",
+    "rusya",
+    "saldi",
+    "vurul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ad6df03909b2": {
+   "id": "ad6df03909b2",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa'da 7 katlı binada yangın paniği! Mahsur kalanlar kurtarıldı",
+   "ozet": "Bursa'nın merkez Yıldırım ilçesinde 7 katlı binanın 3’üncü katında yangın çıktı. Binayı saran dumandan etkilenen 8 kişi, itfaiye ekiplerinin müdahalesiyle kurtarıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-7-katli-binada-yangin-panigi-mahsur-kalanlar-kurtarildi-43380754",
+   "zaman": "2026-11-17T07:58:14+03:00",
+   "kelimeler": [
+    "binad",
+    "bursa",
+    "kalan",
+    "katli",
+    "kurta",
+    "mahsu",
+    "panig",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c6f7a94c3ad1"
+  },
+  "03d18a6c2410": {
+   "id": "03d18a6c2410",
+   "kaynak": "TRT Haber",
+   "baslik": "Meteoroloji, İstanbul ve 12 ili kuvvetli yağışa karşı uyardı",
+   "ozet": "Meteoroloji, aralarında İstanbul'un da olduğu 13 il için kuvvetli yağış nedeniyle \"sarı\" kodlu uyarı yayımladı. Yağışlı havanın hafta ortasına kadar etkisini sürdürmesi, çarşamba günü bazı bölgelerde rüzgarın saatte 70 kilometreye ulaşması bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/meteoroloji-istanbul-ve-12-ili-kuvvetli-yagisa-karsi-uyardi-963491.html",
+   "zaman": "2026-11-17T08:03:00+03:00",
+   "kelimeler": [
+    "12",
+    "ili",
+    "istan",
+    "karsi",
+    "kuvve",
+    "meteo",
+    "uyard",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 08:18:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Cinayete yardımdan beraat etti tehditten tutuklandı",
+  "17.11 08:16:09  2 yeni haber",
   "17.11 08:01:43  1 yeni haber",
   "17.11 07:46:17  1 yeni haber",
   "17.11 07:31:57  3 yeni haber",
@@ -25948,9 +26003,7 @@
   "15.11 05:01:26  1 yeni haber",
   "15.11 04:16:10  1 yeni haber",
   "15.11 02:31:46  1 yeni haber",
-  "15.11 02:01:33  2 yeni haber",
-  "15.11 01:34:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · A Milli Kadın Basketbol Takımı, İsrail'i 76-67 mağlup etti",
-  "15.11 01:31:15  2 yeni haber"
+  "15.11 02:01:33  2 yeni haber"
  ],
  "otomatik": false
 }
