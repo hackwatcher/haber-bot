@@ -17647,7 +17647,8 @@
     "yil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "7fde8c9e6a0f": {
    "id": "7fde8c9e6a0f",
@@ -22068,7 +22069,8 @@
     "taviz"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "892a472d65b9": {
    "id": "892a472d65b9",
@@ -24676,7 +24678,10 @@
     "zeka"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "39e3bb22ed9b": {
    "id": "39e3bb22ed9b",
@@ -25194,9 +25199,404 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0b9e01a9be6a"
+  },
+  "3d6956ce832a": {
+   "id": "3d6956ce832a",
+   "kaynak": "TRT Haber",
+   "baslik": "Papa 14. Leo'nun Peru ziyareti sırasında yüzüne cisim isabet etti",
+   "ozet": "Vatikan Devlet Başkanı Papa 14. Leo'nun, başkent Lima'daki Las Palmas Hava Üssü'nde özel araçtan halkı selamladığı sırada fırlatılan bir cisim yüzüne çarptı.",
+   "link": "https://www.trthaber.com/haber/dunya/papa-14-leonun-peru-ziyareti-sirasinda-yuzune-cisim-isabet-etti-963480.html",
+   "zaman": "2026-11-17T06:41:00+03:00",
+   "kelimeler": [
+    "14",
+    "cisim",
+    "etti",
+    "isabe",
+    "leo",
+    "nun",
+    "papa",
+    "peru",
+    "siras",
+    "yuzun",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62f8b6e9aef7": {
+   "id": "62f8b6e9aef7",
+   "kaynak": "Hürriyet",
+   "baslik": "Çelik: Fon meselesi faili meçhul kalmayacak",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, “İhmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir. Bu mesele hiçbir şekilde faili meçhul kalmayacaktır” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/celik-fon-meselesi-faili-mechul-kalmayacak-43380671",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "celik",
+    "faili",
+    "fon",
+    "kalma",
+    "mechu",
+    "mesel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "30561a0669f6"
+  },
+  "5c59c1b6543e": {
+   "id": "5c59c1b6543e",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan: Çok farklı bir döneme giriyoruz",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, gençlere “Ülkemizin her şeyden önce yeni kapıların açıldığı, Türkiye’nin tarih sahnesinde hem de çok güçlü biçimde yerini aldığı bir sürece adım atıyoruz.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-cok-farkli-bir-doneme-giriyoruz-43380672",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "donem",
+    "erdog",
+    "farkl",
+    "giriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "81107c0c42c4": {
+   "id": "81107c0c42c4",
+   "kaynak": "Hürriyet",
+   "baslik": "YENİ Parti’den fon iddiaları",
+   "ozet": "YENİ Parti İzmir Milletvekili Ümit Özlale, AK Parti Samsun Milletvekili Çiğdem Karaaslan’ın kardeşi ve eşinin, yargılanırken yurtdışına kaçan eski THK Üniversitesi Rektörü Ünsal Ban ve TERA yöneticisiyle Londra’da ortak şirket kurduğunu ileri sürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-partiden-fon-iddialari-43380680",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "fon",
+    "iddia",
+    "parti",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e7a255e16bfc": {
+   "id": "e7a255e16bfc",
+   "kaynak": "Hürriyet",
+   "baslik": "Kurtulmuş’tan iklim mesajları: Hiçbir ülke sorumluluktan kaçamaz",
+   "ozet": "BİRLEŞMİŞ Milletler İklim Değişikliği Konferansı (COP31) kapsamında Antalya'nın Belek turizm merkezinde düzenlenen 'COP31 Parlamenter Toplantısı'nda, iklim değişikliğiyle mücadelede parlamentoların sorumlulukları ele alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kurtulmustan-iklim-mesajlari-hicbir-ulke-sorumluluktan-kacamaz-43380682",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "hicbi",
+    "iklim",
+    "kacam",
+    "kurtu",
+    "mesaj",
+    "sorum",
+    "tan",
+    "ulke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bdb6e1974a2f": {
+   "id": "bdb6e1974a2f",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakırköy Belediyesi’nde 9 kişiye 17.5 yıla kadar hapis istemi",
+   "ozet": "Bakırköy Belediyesi’ne yönelik ‘icbar suretiyle irtikap’ (baskı yoluyla haksız menfaat sağlama) soruşturması kapsamında 9 kişi hakkında hazırlanan iddianame Bakırköy 24’üncü Ağır Ceza Mahkemesi tarafından kabul edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesinde-9-kisiye-17-5-yila-kadar-hapis-istemi-43380685",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "17",
+    "bakir",
+    "beled",
+    "hapis",
+    "istem",
+    "kisiy",
+    "nde",
+    "yila"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "16ff3ee378f6": {
+   "id": "16ff3ee378f6",
+   "kaynak": "Hürriyet",
+   "baslik": "Ömer Sarıgül ek ifade verdi",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı tarafından Sarıgül Ailesi’ne yönelik ‘kara para aklama’ iddiasıyla yürütülen soruşturmada Mustafa Sarıgül’ün eski eşi Aylin Kotil, oğlu Ömer Sarıgül, gazeteci Murat Ağırel, işinsanı Sofu Altınbaş’ın arasında olduğu 27 kişi tutuklanmıştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/omer-sarigul-ek-ifade-verdi-43380686",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "ek",
+    "ifade",
+    "omer",
+    "sarig",
+    "verdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea0ea79cd61f"
+  },
+  "16d0b156d527": {
+   "id": "16d0b156d527",
+   "kaynak": "Hürriyet",
+   "baslik": "10 soruda LGS hazırlığı… Sorular değişebilir",
+   "ozet": "LGS bu yıl 8’inci sınıflarda uygulanan mevcut öğretim programına göre düzenlenecek. Ancak Anadolu Üniversitesi Eğitim Fakültesi öğretim üyesi Prof. Dr. Abdulkadir Erdoğan, “Öğretim programları değişti. Elbette sınav sorularında da belli bir değişiklik beklenmeli” diyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/10-soruda-lgs-hazirligi-sorular-degisebilir-43380688",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "10",
+    "degis",
+    "hazir",
+    "lgs",
+    "sorud",
+    "sorul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5b8717257b5f": {
+   "id": "5b8717257b5f",
+   "kaynak": "Hürriyet",
+   "baslik": "Örgüt lideri ‘sigara’dan yakalandı",
+   "ozet": "İstanbul Emniyet Müdürlüğü Organize Suçlarla Mücadele Şube Müdürlüğü ekipleri, Anadolu Cumhuriyet Başsavcılığı koordinesinde İstanbul Anadolu Yakası’nda faaliyet gösteren suç örgütüne yönelik çalışma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/orgut-lideri-sigaradan-yakalandi-43380692",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "dan",
+    "lider",
+    "orgut",
+    "sigar",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bce1a86bc450": {
+   "id": "bce1a86bc450",
+   "kaynak": "Hürriyet",
+   "baslik": "Kıskançlık vahşetine 13 yıl hapis",
+   "ozet": "Kıskançlık bahanesiyle Gözde Yılmaz’ın üzerine yanıcı madde dökerek ateşe veren doktor asistanı Sibel Arya Geriş, ‘kadına karşı tasarlayarak canavarca hisle veya eziyet çektirerek kasten öldürmeye teşebbüs’ suçundan takdiri indirimle 13 yıl 4 ay hapis cezasına çarptırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kiskanclik-vahsetine-13-yil-hapis-43380694",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "13",
+    "hapis",
+    "kiska",
+    "vahse",
+    "yil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9995336fae56"
+  },
+  "1c2d6215a6ab": {
+   "id": "1c2d6215a6ab",
+   "kaynak": "Hürriyet",
+   "baslik": "Kız arkadaşının ifadesi ortaya çıktı",
+   "ozet": "Ölü bulunan işinsanı Ali Emre Ballı’nın kız arkadaşı Şeyma Solak’ın şüpheli olarak alınan ifadesi ortaya çıktı. Solak ifadesinde, Ballı’yla aralarındaki ticari ve duygusal ilişkiyi anlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kiz-arkadasinin-ifadesi-ortaya-cikti-43380695",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "arkad",
+    "cikti",
+    "ifade",
+    "kiz",
+    "ortay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "33eb33c99da3": {
+   "id": "33eb33c99da3",
+   "kaynak": "Hürriyet",
+   "baslik": "Cinayete yardımdan beraat etti tehditten tutuklandı",
+   "ozet": "İSTANBUL Kadıköy’de 24 Ocak 2025’te alışveriş yapmak için gittiği bit pazarında uğradığı bıçaklı saldırı sonucu, İtalyan şef Andrea Minguzzi ile çellist Yasemin Akıncılar Minguzzi’nin oğlu Mattia Ahmet Minguzzi (15) 9 Şubat 2025’te hayatını kaybetmişti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cinayete-yardimdan-beraat-etti-tehditten-tutuklandi-43380696",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "beraa",
+    "cinay",
+    "etti",
+    "tehdi",
+    "tutuk",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f62d3a0fdf95": {
+   "id": "f62d3a0fdf95",
+   "kaynak": "Hürriyet",
+   "baslik": "Iğdır’ın havası ‘çok sağlıksız’",
+   "ozet": "Iğdır’da dağlarla çevrili coğrafi yapının hava sirkülasyonunu kısıtlaması ve ısınmada kullanılan kalitesiz yakıtın etkisiyle hava kirliliği, henüz kış mevsimi başlamadan ‘çok sağlıksız’ seviyeye ulaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/igdirin-havasi-cok-sagliksiz-43380700",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "havas",
+    "igdir",
+    "in",
+    "sagli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba84443f7117": {
+   "id": "ba84443f7117",
+   "kaynak": "Hürriyet",
+   "baslik": "20 metrekarelik iyilik atölyesi... 10 yılda 800 engelli hayvan için yürüteç yaptı",
+   "ozet": "KOCAELİ’nin Dilovası ilçesinde fabrikada makine ve torna tezgâhlarında çalışırken çektiği fotoğraf ve videoları sanal medya grubunda paylaşan Abdulmenaf Çelik (40), dernek üyelerinden engelli hayvanlar için yürüteç ihtiyacı bulunduğu ve bu ürünlerin yüksek maliyetli olduğunu…",
+   "link": "https://www.hurriyet.com.tr/gundem/20-metrekarelik-iyilik-atolyesi-10-yilda-800-engelli-hayvan-icin-yurutec-yapti-43380702",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "10",
+    "20",
+    "800",
+    "atoly",
+    "engel",
+    "hayva",
+    "iyili",
+    "metre",
+    "yapti",
+    "yilda",
+    "yurut"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19889a402276": {
+   "id": "19889a402276",
+   "kaynak": "Hürriyet",
+   "baslik": "Alkışlar Zehra'ya",
+   "ozet": "ANKARA’da yüzmeye 9 yaşında başlayan Ada Zehra Anlatıcı (19), 12 yaşında milli takıma seçildi. 2018-2025 yılları arasında katıldığı ulusal ve uluslararası yarışmalarda önemli başarılara imza atan Anlatıcı, Türkiye şampiyonalarında 37 altın madalya kazandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/alkislar-zehraya-43380703",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "alkis",
+    "ya",
+    "zehra"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e8eea1caff7e": {
+   "id": "e8eea1caff7e",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Memişoğlu açıkladı: Organ bağışında 188 bin dijital vasiyet",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, bugüne kadar 188 bin 539 kişinin organ bağışına dair dijital vasiyetini oluşturduğunu açıkladı. Memişoğlu hastane randevularından, bebek ölüm hızına ve kanser tedavilerindeki gelişmelere kadar çok sayıda konuda da önemli bilgiler verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-acikladi-organ-bagisinda-188-bin-dijital-vasiyet-43380704",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "188",
+    "bagis",
+    "bakan",
+    "bin",
+    "dijit",
+    "memis",
+    "organ",
+    "vasiy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6d52f43a7ef1": {
+   "id": "6d52f43a7ef1",
+   "kaynak": "Hürriyet",
+   "baslik": "En verimli tatil etkinliği: COP31",
+   "ozet": "Antalya'da düzenlenen COP31 İklim Zirvesi, 7'den 70'e her yaştan ziyaretçiyi ağırlıyor. Havanın da güneşli olmasını fırsat bilen binlerce kişi COP31 alanını ziyaret etti. 528 bin metrekarelik alanda hareketlilik gün boyunca sürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/en-verimli-tatil-etkinligi-cop31-43380705",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "etkin",
+    "tatil",
+    "verim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dfb98e964629": {
+   "id": "dfb98e964629",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Işıkhan’dan Demirören MTAL standına ziyaret",
+   "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, COP31 kapsamında girişimcilere ayrılan özel alanda (Startup Zone) Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi öğrencilerinin hazırladığı iklim değişikliğine yönelik projeleri inceledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-isikhandan-demiroren-mtal-standina-ziyaret-43380708",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "demir",
+    "isikh",
+    "mtal",
+    "stand",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0e69dad9d9e1": {
+   "id": "0e69dad9d9e1",
+   "kaynak": "Hürriyet",
+   "baslik": "Katilin planı ifşa oldu... Filistinli partilere Netanyahu’dan kumpas",
+   "ozet": "İsrail’de seçimleri kaybeden Netanyahu’nun, sandıklar kurulmadan 12 gün önce Filistinli Arap partilere yönelik kumpas kurduğu belirtildi. Olaya ilişkin soruşturma başlatılırken, muhalefetten ise tepki yağdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/katilin-plani-ifsa-oldu-filistinli-partilere-netanyahudan-kumpas-43380717",
+   "zaman": "2026-11-17T07:00:00+03:00",
+   "kelimeler": [
+    "dan",
+    "filis",
+    "ifsa",
+    "katil",
+    "kumpa",
+    "netan",
+    "parti",
+    "plani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2d5ef29ba97f": {
+   "id": "2d5ef29ba97f",
+   "kaynak": "TRT Haber",
+   "baslik": "OpenAI'a yapay zeka modellerinin geliştirme sürecindeki güvenlik eksiklikleri nedeniyle dava açıldı",
+   "ozet": "ABD'nin California eyaletinde, yapay zeka modellerini yeterli güvenlik önlemleri ve denetim mekanizmaları olmadan geliştirdiği ve test ettiği, bu süreçte kamu güvenliğini tehlikeye attığı iddiasıyla OpenAI'a dava açıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/openaia-yapay-zeka-modellerinin-gelistirme-surecindeki-guvenlik-eksiklikleri-nedeniyle-dava-acildi-963481.html",
+   "zaman": "2026-11-17T07:02:00+03:00",
+   "kelimeler": [
+    "acild",
+    "dava",
+    "eksik",
+    "gelis",
+    "guven",
+    "model",
+    "neden",
+    "opena",
+    "surec",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "63c576c70e69"
+  },
+  "451ab1a2e823": {
+   "id": "451ab1a2e823",
+   "kaynak": "TRT Haber",
+   "baslik": "Bursa'da alevler 7 katlı binayı sardı, mahsur kalanlar kurtarıldı",
+   "ozet": "Bursa'nın Yıldırım ilçesinde 7 katlı binanın 3'üncü katında çıkan yangında binayı saran dumandan etkilenen 8 kişi, itfaiye ekipleri tarafından kurtarılarak hastaneye kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/bursada-alevler-7-katli-binayi-sardi-mahsur-kalanlar-kurtarildi-963479.html",
+   "zaman": "2026-11-17T07:02:00+03:00",
+   "kelimeler": [
+    "alevl",
+    "binay",
+    "bursa",
+    "kalan",
+    "katli",
+    "kurta",
+    "mahsu",
+    "sardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 07:16:11  17 yeni haber",
   "17.11 07:04:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | Fon soruşturması kapsamında 21 şirkete kayyum atandı.",
   "17.11 06:23:28  1 yeni haber",
   "17.11 06:16:00  1 yeni haber",
@@ -25395,8 +25795,7 @@
   "15.11 01:31:15  2 yeni haber",
   "15.11 01:16:25  1 yeni haber",
   "15.11 01:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Milli kick boksçularımız Avrupa Şampiyonası'nda 53 madalya kazandı",
-  "15.11 01:01:47  3 yeni haber",
-  "15.11 00:46:06  4 yeni haber"
+  "15.11 01:01:47  3 yeni haber"
  ],
  "otomatik": false
 }
