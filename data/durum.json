@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "f93548f470f8": {
-   "id": "f93548f470f8",
-   "kaynak": "XHABER",
-   "baslik": "Ali Koç, ‘Turkey’ diyen Bloomberg sunucusuna:",
-   "ozet": "İngilizce'de ‘Türkiye’ dememiz gerekiyor, ‘Turkey’ değil.”",
-   "link": "https://t.me/sahinozkan000/30671",
-   "zaman": "2026-11-14T19:04:31+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Ali Koç, ‘Turkey’ diyen Bloomberg sunucusuna:\nİngilizce'de ‘Türkiye’ dememiz gerekiyor, ‘Turkey’ değil.”",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/AbwuYqan892M9dOwplWTy47D5OkLt1KPu_gsYYo8t12vTS311vn6q6h0wMXgBsBvGAVpoBjmlPEVfGrjdPsXOUMj4dsiSi7ShhhwdiFhIchByvcoAr9lkdMj-snegUOMDzng0sERoBoxP3RkIiV3F7yAMSiuszqzeEROAVYGlp9bv958tuovQvTiCvMXYZKyx41o1Cth_4QjLmT5CaB8wAYX7w98b-Te0vvUEPCbTQ9NIzlKfsVSwh8_ieA54t2Z7gqJrrUkefoVAJqZJIZa9p5BT3Wc0ODnQn0Cmqs4j16PAivqf6LLm4gfQeaCXkF-DCKdbWTmIxrN-8t-UX56DQ",
-   "tg_video_url": "https://cdn4.telesco.pe/file/d4c6ecbbe6.mp4?token=JPO6MYCuCDbq3COU47MxX05J1djq4YYg8oUtnHz-qLGCNvJJExpNvMGgWqCbvIoVpf2ExIz7Y_xNtOFLG9Cnn7qlsbB8ifNxKrmatBMIfj8Jvm5hzIMZxh_19JjKGGhBacGdFM4PvYBIe8ZE8weeFV3jhGy3GV6pG1aYAJIddBk5RxeZYzgVWG1H72wAfI06krmPYxq89FqvzX1IWVJkGhnfdzEghBmVjDwfTsAKwdkRRDr_uv_mnnFZyF6IwtWQ3e04UpLEpq0nEPuBWkzCv39X7PEMnVVyHH_OgUAl9gcRKM0jbPLRNV7XfrfM5y2HJFJ2cQ3BlgX3mZXIKoUJkA",
-   "kelimeler": [
-    "ali",
-    "bloom",
-    "diyen",
-    "koc",
-    "sunuc",
-    "turke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9d6c237d6ed4": {
-   "id": "9d6c237d6ed4",
-   "kaynak": "AA",
-   "baslik": "Şehit Jandarma Binbaşı Arslan Kulaksız'ın faillerinden biri yakalandı",
-   "ozet": "Muş'un Malazgirt ilçesinde 11 yıl önce PKK'lı teröristlerin silahlı saldırısında şehit olan İlçe Jandarma Komutanı Binbaşı Arslan Kulaksız'ın faillerinden biri ile ona yardım ve yataklık eden 2 kişi yakalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/sehit-jandarma-binbasi-arslan-kulaksizin-faillerinden-biri-yakalandi/4125313",
-   "zaman": "2026-11-14T19:13:03+03:00",
-   "kelimeler": [
-    "arsla",
-    "binba",
-    "biri",
-    "faill",
-    "in",
-    "janda",
-    "kulak",
-    "sehit",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8810e2065688"
-  },
   "791f225cd48f": {
    "id": "791f225cd48f",
    "kaynak": "Hürriyet",
@@ -16314,7 +16270,11 @@
     "van"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "NTV"
+   ]
   },
   "8b7285f1b546": {
    "id": "8b7285f1b546",
@@ -26018,7 +25978,10 @@
     "tepki"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "6a03ff55f997": {
    "id": "6a03ff55f997",
@@ -28066,10 +28029,151 @@
     "yatir"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "01cef5d1e304": {
+   "id": "01cef5d1e304",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: Antalya'da geleceğimiz adına önemli kararlar alalım istiyoruz",
+   "ozet": "Bakan Kurum, \"Eylem Gündemini ilerletebilmek, bugün geldiğimiz noktayı daha yukarıya taşıyabilmek amacıyla bir Örtü Karar alacağımızı ifade etmiştik. Buna ilişkin ilk taslak metni yayınladık, geri dönüşleri aldık. İkinci taslak metni de yarın paylaşacağız.",
+   "link": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
+   "zaman": "2026-11-17T18:47:00+03:00",
+   "kelimeler": [
+    "adina",
+    "alali",
+    "antal",
+    "bakan",
+    "gelec",
+    "istiy",
+    "karar",
+    "kurum",
+    "oneml"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "a659964c9310": {
+   "id": "a659964c9310",
+   "kaynak": "AA",
+   "baslik": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
+   "ozet": "Dünya Bankası, COP31 kapsamında, kalkınma önceliklerini desteklemenin ve dayanıklılığı artırmanın yanı sıra, istihdamı güçlendirmeyi amaçlayan 6,9 milyar dolarlık yatırımı tanıttı.",
+   "link": "https://www.aa.com.tr/tr/cop31/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128143",
+   "zaman": "2026-11-17T18:59:33+03:00",
+   "kelimeler": [
+    "banka",
+    "cop31",
+    "dunya",
+    "iklim",
+    "istih",
+    "koydu",
+    "merke",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e11868e5ccf1"
+  },
+  "070d3e21ea52": {
+   "id": "070d3e21ea52",
+   "kaynak": "AA",
+   "baslik": "İran Meclis Başkanı Kalibaf'tan ABD basınındaki \"kirli bomba\" haberine tepki",
+   "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, CNN'in, İran'ın Washington'da \"kirli bomba\" veya kimyasal silah kullanarak ABD Başkanı Trump yönetiminin üst düzey yetkililerini hedef almaya yönelik planlar geliştirdiği iddiasına sert tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki/4128146",
+   "zaman": "2026-11-17T19:03:45+03:00",
+   "kelimeler": [
+    "abd",
+    "basin",
+    "baska",
+    "bomba",
+    "haber",
+    "iran",
+    "kalib",
+    "kirli",
+    "mecli",
+    "tan",
+    "tepki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "df44b1355c90"
+  },
+  "83395038410d": {
+   "id": "83395038410d",
+   "kaynak": "AA",
+   "baslik": "AK Parti \"Türkiye Yüzyılı Buluşmaları\" kapsamında ülke genelinde gerçekleştirdiği saha çalışmalarını raporlaştıracak",
+   "ozet": "AK Parti, \"Türkiye Yüzyılı Buluşmaları\" kapsamında 81 ilde gerçekleştirdiği çalışmalar doğrultusunda hazırlayacağı raporu, Cumhurbaşkanı Recep Tayyip Erdoğan'a sunacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gerceklestirdigi-saha-calismalarini-raporlastiracak/4128148",
+   "zaman": "2026-11-17T19:05:17+03:00",
+   "kelimeler": [
+    "ak",
+    "bulus",
+    "calis",
+    "genel",
+    "gerce",
+    "kapsa",
+    "parti",
+    "rapor",
+    "saha",
+    "turki",
+    "ulke",
+    "yuzyi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a95f6a512b5a": {
+   "id": "a95f6a512b5a",
+   "kaynak": "AA",
+   "baslik": "Van'da 4,3 büyüklüğünde deprem",
+   "ozet": "Van'ın Gevaş ilçesinde saat 18.57'de 4,3 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanda-4-3-buyuklugunde-deprem/4128156",
+   "zaman": "2026-11-17T19:13:24+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9d617f515c61"
+  },
+  "20544992d39f": {
+   "id": "20544992d39f",
+   "kaynak": "Sözcü",
+   "baslik": "Van Gölü'nde 4,3 büyüklüğünde deprem!",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/van-golu-deprem-17-kasim-2026-p382239",
+   "zaman": "2026-11-17T19:13:36+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "golu",
+    "nde",
+    "van"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7aefeb102a0b": {
+   "id": "7aefeb102a0b",
+   "kaynak": "NTV",
+   "baslik": "Van'da 4,3 büyüklüğünde deprem",
+   "ozet": "Van'ın Gevaş ilçesinde 4,3 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/vanda-43-buyuklugunde-deprem-1751338",
+   "zaman": "2026-11-17T19:15:44+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9d617f515c61"
   }
  },
  "kayit": [
+  "17.11 19:16:15  3 yeni haber",
   "17.11 19:02:05  3 yeni haber",
   "17.11 18:46:02  5 yeni haber",
   "17.11 18:32:09  1 yeni haber",
@@ -28268,8 +28372,7 @@
   "15.11 17:25:21  3 yeni haber",
   "15.11 17:01:29  3 yeni haber",
   "15.11 16:46:00  1 yeni haber",
-  "15.11 16:31:15  4 yeni haber",
-  "15.11 16:19:11  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Tünel içinde araçlar çarpıştı: Çok sayıda ekip sevk edildi, 6 kişi has"
+  "15.11 16:31:15  4 yeni haber"
  ],
  "otomatik": false
 }
