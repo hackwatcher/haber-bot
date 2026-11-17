@@ -1,109 +1,5 @@
 {
  "haberler": {
-  "dcc397b1368b": {
-   "id": "dcc397b1368b",
-   "kaynak": "AA",
-   "baslik": "Bakan Kacır, yeşil sanayileşmeye ilişkin üst düzey diyaloğa katıldı",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin COP31 Başkanlığı kapsamında öncülük ettiği girişimlerle, yeşil sanayileşmenin sunduğu fırsatların tüm ekonomiler için kalkınma imkanına dönüşmesine katkı sunmayı sürdüreceklerini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-yesil-sanayilesmeye-iliskin-ust-duzey-diyaloga-katildi/4125146",
-   "zaman": "2026-11-14T15:36:53+03:00",
-   "kelimeler": [
-    "bakan",
-    "diyal",
-    "duzey",
-    "ilisk",
-    "kacir",
-    "katil",
-    "sanay",
-    "ust",
-    "yesil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a25b8c8fc775": {
-   "id": "a25b8c8fc775",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan, Bolivya Cumhurbaşkanı Pereira ile görüştü",
-   "ozet": "Cumhurbaşkanı Erdoğan, Bolivya Cumhurbaşkanı Pereira'yı İstanbul'daki Dolmabahçe Ofisi'nde resmi törenle karşıladı. İki lider, heyetler arası görüşme gerçekleştirdi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bolivya-cumhurbaskani-pereira-ile-gorustu-1750865",
-   "zaman": "2026-11-14T15:38:55+03:00",
-   "kelimeler": [
-    "boliv",
-    "cumhu",
-    "erdog",
-    "gorus",
-    "perei"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "640542aae065"
-  },
-  "d25a5e141918": {
-   "id": "d25a5e141918",
-   "kaynak": "NTV",
-   "baslik": "İşlek cadde bir anda çöktü, yolun ortasında altı metre derinlikte obruk oluştu",
-   "ozet": "Adıyaman'da yolun çökmesi sonucu altı metre derinlikte obruk oluştu.",
-   "link": "https://www.ntv.com.tr/turkiye/islek-cadde-bir-anda-coktu-yolun-ortasinda-alti-metre-derinlikte-obruk-olustu-1750872",
-   "zaman": "2026-11-14T15:42:28+03:00",
-   "kelimeler": [
-    "alti",
-    "anda",
-    "cadde",
-    "coktu",
-    "derin",
-    "islek",
-    "metre",
-    "obruk",
-    "olust",
-    "ortas",
-    "yolun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0d261bc71b86": {
-   "id": "0d261bc71b86",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Dünya dışı yaşamın arandığı alışılmadık yerler",
-   "ozet": "Dünya'dan başka yerlerde yaşam varsa, bu yaşam Dünya benzeri yerlerde olmayabilir. İşte bilim insanlarının yaşam aradığı sıra dışı yerlerden bazıları.",
-   "link": "https://www.bbc.com/turkce/articles/cmjrede2p3vro",
-   "zaman": "2026-11-14T15:43:28+03:00",
-   "kelimeler": [
-    "alisi",
-    "arand",
-    "disi",
-    "dunya",
-    "yasam",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "603754bec9ea": {
-   "id": "603754bec9ea",
-   "kaynak": "AA",
-   "baslik": "\"Ölü Arının İğnesi\" ve \"Bir Anne Hakkında\" filmleri, Boğaziçi Film Festivali'nde izleyicilerle buluştu",
-   "ozet": "Boğaziçi Kültür Sanat Vakfı tarafından düzenlenen \"14. Boğaziçi Film Festivali\", ulusal ve uluslararası yarışmalardan filmleri izleyicilerle buluşturuyor.",
-   "link": "https://www.aa.com.tr/tr/kultur/olu-arinin-ignesi-ve-bir-anne-hakkinda-filmleri-bogazici-film-festivalinde-izleyicilerle-bulustu/4125140",
-   "zaman": "2026-11-14T15:35:54+03:00",
-   "kelimeler": [
-    "anne",
-    "arini",
-    "bogaz",
-    "bulus",
-    "festi",
-    "film",
-    "filml",
-    "hakki",
-    "ignes",
-    "izley",
-    "nde",
-    "olu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b9a85eb08b8d": {
    "id": "b9a85eb08b8d",
    "kaynak": "TRT Haber",
@@ -27455,7 +27351,10 @@
     "yapil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "700c9c9e6d31": {
    "id": "700c9c9e6d31",
@@ -27806,9 +27705,193 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d7a26a630fd7"
+  },
+  "a9c08e3c13d1": {
+   "id": "a9c08e3c13d1",
+   "kaynak": "TRT Haber",
+   "baslik": "İklim eylemine hız kazandıracak Antalya Mutabakatı yayımlandı",
+   "ozet": "COP31de açıklanan \"Antalya Okyanus ve Denizler Mutabakatı\", güçlü ortaklıklar ve finansmana erişimle okyanus temelli iklim eylemlerini destekliyor.",
+   "link": "https://www.trthaber.com/haber/gundem/iklim-eylemine-hiz-kazandiracak-antalya-mutabakati-yayimlandi-963564.html",
+   "zaman": "2026-11-17T15:16:00+03:00",
+   "kelimeler": [
+    "antal",
+    "eylem",
+    "hiz",
+    "iklim",
+    "kazan",
+    "mutab",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "df44b1355c90": {
+   "id": "df44b1355c90",
+   "kaynak": "TRT Haber",
+   "baslik": "İran'dan ABD basınındaki kirli bomba ve barajlarla ilgili haberlere tepki:",
+   "ozet": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, Tahran'ın Washington'da \"kirli bomba\" planları yaptığı ve barajları askeri amaçlarla da kullandığına dair ABD basınında ortaya atılan iddiaları reddederek, bu haberlerin gelecekteki saldırganlığa \"meşruiyet\" kazandırmak amacıyla…",
+   "link": "https://www.trthaber.com/haber/dunya/irandan-abd-basinindaki-kirli-bomba-ve-barajlarla-ilgili-haberlere-tepki-963563.html",
+   "zaman": "2026-11-17T15:25:00+03:00",
+   "kelimeler": [
+    "abd",
+    "baraj",
+    "basin",
+    "bomba",
+    "dan",
+    "haber",
+    "ilgil",
+    "iran",
+    "kirli",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6a03ff55f997": {
+   "id": "6a03ff55f997",
+   "kaynak": "TRT Haber",
+   "baslik": "Apple, iPhone'larda planlı eskitme uyguladığı iddiasıyla Fransa'da yargılanacak",
+   "ozet": "Fransa'da, ABDli teknoloji devi Apple bazı iPhone modellerinde planlı eskitme uyguladığı iddiasıyla yargılanacak.",
+   "link": "https://www.trthaber.com/haber/dunya/apple-iphonelarda-planli-eskitme-uyguladigi-iddiasiyla-fransada-yargilanacak-963565.html",
+   "zaman": "2026-11-17T15:27:00+03:00",
+   "kelimeler": [
+    "apple",
+    "eskit",
+    "frans",
+    "iddia",
+    "iphon",
+    "larda",
+    "planl",
+    "uygul",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "ded742cff385": {
+   "id": "ded742cff385",
+   "kaynak": "TRT Haber",
+   "baslik": "AB'den Temu'ya yasa dışı ürünlerin satışını önlemede yetersiz kalma suçlaması",
+   "ozet": "Avrupa Birliği AB, çevrim içi alışveriş platformu Temu'yu yasa dışı ürünlerin satışını önlemek için yeterli tedbir almayarak dijital kuralları ihlal etmekle suçladı.",
+   "link": "https://www.trthaber.com/haber/dunya/abden-temuya-yasa-disi-urunlerin-satisini-onlemede-yetersiz-kalma-suclamasi-963567.html",
+   "zaman": "2026-11-17T15:28:00+03:00",
+   "kelimeler": [
+    "ab",
+    "den",
+    "disi",
+    "kalma",
+    "onlem",
+    "satis",
+    "sucla",
+    "temu",
+    "urunl",
+    "ya",
+    "yasa",
+    "yeter"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "ee4142a2d802": {
+   "id": "ee4142a2d802",
+   "kaynak": "AA",
+   "baslik": "Apple, iPhone'larda planlı eskitme uyguladığı iddiasıyla Fransa'da yargılanacak",
+   "ozet": "Fransa'da, ABD’li teknoloji devi Apple bazı iPhone modellerinde planlı eskitme uyguladığı iddiasıyla yargılanacak.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-iphonelarda-planli-eskitme-uyguladigi-iddiasiyla-fransada-yargilanacak/4127796",
+   "zaman": "2026-11-17T15:30:52+03:00",
+   "kelimeler": [
+    "apple",
+    "eskit",
+    "frans",
+    "iddia",
+    "iphon",
+    "larda",
+    "planl",
+    "uygul",
+    "yargi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6a03ff55f997"
+  },
+  "ed2a92e963ae": {
+   "id": "ed2a92e963ae",
+   "kaynak": "AA",
+   "baslik": "Katar: İran heyetiyle yapılacak görüşmede ABD ile anlaşmazlıkların giderilmesi hedefleniyor",
+   "ozet": "Katar, ABD ile İran arasındaki krizin çözümüne yönelik arabuluculuk çabaları kapsamında bugün İran heyetiyle yapılacak görüşmede, taraflar arasındaki anlaşmazlıkların giderilmesinin hedeflendiğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-iran-heyetiyle-yapilacak-gorusmede-abd-ile-anlasmazliklarin-giderilmesi-hedefleniyor/4127799",
+   "zaman": "2026-11-17T15:31:29+03:00",
+   "kelimeler": [
+    "abd",
+    "anlas",
+    "gider",
+    "gorus",
+    "hedef",
+    "heyet",
+    "iran",
+    "katar",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "73aaa9b76aa7"
+  },
+  "35c5f463546f": {
+   "id": "35c5f463546f",
+   "kaynak": "AA",
+   "baslik": "AB'den Temu'ya \"yasa dışı ürünlerin satışını önlemede yetersiz kalma\" suçlaması",
+   "ozet": "Avrupa Birliği (AB), çevrim içi alışveriş platformu Temu'yu yasa dışı ürünlerin satışını önlemek için yeterli tedbir almayarak dijital kuralları ihlal etmekle suçladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abden-temuya-yasa-disi-urunlerin-satisini-onlemede-yetersiz-kalma-suclamasi/4127806",
+   "zaman": "2026-11-17T15:35:30+03:00",
+   "kelimeler": [
+    "ab",
+    "den",
+    "disi",
+    "kalma",
+    "onlem",
+    "satis",
+    "sucla",
+    "temu",
+    "urunl",
+    "ya",
+    "yasa",
+    "yeter"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ded742cff385"
+  },
+  "c7fb5ed31776": {
+   "id": "c7fb5ed31776",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine topçu saldırılarını sürdürdü",
+   "ozet": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan’ın güneyindeki bölgelere topçu saldırıları düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilarini-surdurdu/4127812",
+   "zaman": "2026-11-17T15:43:55+03:00",
+   "kelimeler": [
+    "atesk",
+    "guney",
+    "in",
+    "israi",
+    "lubna",
+    "ordus",
+    "ragme",
+    "saldi",
+    "surdu",
+    "topcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 15:46:31  5 yeni haber",
   "17.11 15:31:40  5 yeni haber",
   "17.11 15:16:46  3 yeni haber",
   "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope",
@@ -28007,8 +28090,7 @@
   "15.11 14:01:22  5 yeni haber",
   "15.11 13:46:00  2 yeni haber",
   "15.11 13:31:43  4 yeni haber",
-  "15.11 13:16:10  5 yeni haber",
-  "15.11 13:01:48  8 yeni haber"
+  "15.11 13:16:10  5 yeni haber"
  ],
  "otomatik": false
 }
