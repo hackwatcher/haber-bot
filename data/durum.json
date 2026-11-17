@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "1cd5c1674874": {
-   "id": "1cd5c1674874",
-   "kaynak": "Hürriyet",
-   "baslik": "Ankara'da silahlı bıçaklı kavga! 1'i ağır, 11 yaralı",
-   "ozet": "Ankara'nın Mamak ilçesinde iki aile arasında çıkan silahlı ve bıçaklı kavgada 1'i ağır, 11 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ankarada-silahli-bicakli-kavga-1i-agir-11-yarali-43378726",
-   "zaman": "2026-11-15T01:23:19+03:00",
-   "kelimeler": [
-    "11",
-    "agir",
-    "ankar",
-    "bicak",
-    "kavga",
-    "silah",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f4b368ac67ce"
-  },
-  "b2d748145db5": {
-   "id": "b2d748145db5",
-   "kaynak": "AA",
-   "baslik": "Berlin’de sosyal harcama kesintileri ve zorunlu askerlik planı protestosuna polisten sert müdahale",
-   "ozet": "Almanya’nın başkenti Berlin’de sosyal harcamalardaki kesintilere ve hükümetin zorunlu askerlik planına karşı düzenlenen eylemde polis göstericilere sert müdahale etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/berlin-de-sosyal-harcama-kesintileri-ve-zorunlu-askerlik-plani-protestosuna-polisten-sert-mudahale/4125455",
-   "zaman": "2026-11-15T01:24:52+03:00",
-   "kelimeler": [
-    "asker",
-    "berli",
-    "harca",
-    "kesin",
-    "mudah",
-    "plani",
-    "polis",
-    "prote",
-    "sert",
-    "sosya",
-    "zorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "740aa6416f16": {
-   "id": "740aa6416f16",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Murat Kurum’dan dünyaya çağrı: Geleceği hep birlikte koruyalım",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, “Antalya’dan dünyaya çağrımız açık. Gelin güveni büyütelim. Bilimi ve teknolojiyi insanlığın ortak yararına sunalım. Gelecek nesillerin hakkını hep birlikte koruyalım” dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-murat-kurumdan-dunyaya-cagri-gelecegi-hep-birlikte-koruyalim-43378728",
-   "zaman": "2026-11-15T01:34:57+03:00",
-   "kelimeler": [
-    "bakan",
-    "birli",
-    "cagri",
-    "dan",
-    "dunya",
-    "gelec",
-    "hep",
-    "koruy",
-    "kurum",
-    "murat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "78d440979ba9": {
    "id": "78d440979ba9",
    "kaynak": "AA",
@@ -25366,7 +25301,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "dce9cdcb8513": {
@@ -28533,8 +28469,17 @@
     "otomo",
     "tirin"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-18T01:49:11.024600+03:00",
+   "ig_id": "18110190365248712",
+   "reels_id": "17978324133160291",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1844966523483895",
+   "slayt": 4,
+   "kanca": "OTOMOBİL TIRIN ALTINDA"
   },
   "82df9d272352": {
    "id": "82df9d272352",
@@ -28578,9 +28523,157 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "dce86026f933": {
+   "id": "dce86026f933",
+   "kaynak": "AA",
+   "baslik": "COP31'de küresel elektrifikasyon ve enerji verimliliği hedeflerinde uzlaşı bekleniyor",
+   "ozet": "COP31'de, elektriğin küresel nihai enerji tüketimindeki payının 2035'e kadar yüzde 35'e çıkarılması ve binalarda enerji verimliliğinin artırılmasına yönelik hedeflerde ülkeler arasında uzlaşı sağlanması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-kuresel-elektrifikasyon-ve-enerji-verimliligi-hedeflerinde-uzlasi-bekleniyor/4127564",
+   "zaman": "2026-11-17T12:50:39+03:00",
+   "kelimeler": [
+    "bekle",
+    "cop31",
+    "elekt",
+    "enerj",
+    "hedef",
+    "kures",
+    "uzlas",
+    "verim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c42388e18c02": {
+   "id": "c42388e18c02",
+   "kaynak": "AA",
+   "baslik": "Küresel çelik endüstrisinin yeşil dönüşüm önerileri ele alındı",
+   "ozet": "TÇÜD Yönetim Kurulu Başkanı Fuat Tosyalı, karbon bağımlılığını azaltırken ham madde bağımlılığına yakalanmamak gerektiğini belirterek, \"Temiz üretim, rekabetçi maliyet ve tedarik güvenliğini aynı stratejinin parçası yapmalıyız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-celik-endustrisinin-yesil-donusum-onerileri-ele-alindi/4127638",
+   "zaman": "2026-11-17T13:39:20+03:00",
+   "kelimeler": [
+    "alind",
+    "celik",
+    "donus",
+    "ele",
+    "endus",
+    "kures",
+    "oneri",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f8fc6b34edf3": {
+   "id": "f8fc6b34edf3",
+   "kaynak": "AA",
+   "baslik": "COP31'de su verimliliği ve atık suyun yeniden kullanımı ele alındı",
+   "ozet": "Su Yönetimi Genel Müdürü Afire Sever:, \"Su miktarını nüfusa böldüğün zaman 1000'in üzerindeysen su stresi altındasın. 1000'in altına düştüğün zaman da su fakiri, hele 500'ün altında artık su kıtlığı yaşıyorsun.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-su-verimliligi-ve-atik-suyun-yeniden-kullanimi-ele-alindi-/4127820",
+   "zaman": "2026-11-17T15:58:54+03:00",
+   "kelimeler": [
+    "alind",
+    "atik",
+    "cop31",
+    "ele",
+    "kulla",
+    "su",
+    "suyun",
+    "verim",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a88e9214d262": {
+   "id": "a88e9214d262",
+   "kaynak": "AA",
+   "baslik": "COP31'de fosil yakıtlardan uzaklaşma sürecinde elektrifikasyonun rolü tartışıldı",
+   "ozet": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, elektrifikasyonun fosil yakıtlardan uzaklaşma sürecindeki rolü ve ülkelerin enerji dönüşümünü hızlandırmak için atması gereken adımlar ele alındı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-fosil-yakitlardan-uzaklasma-surecinde-elektrifikasyonun-rolu-tartisildi/4127915",
+   "zaman": "2026-11-17T16:52:27+03:00",
+   "kelimeler": [
+    "cop31",
+    "elekt",
+    "fosil",
+    "rolu",
+    "surec",
+    "tarti",
+    "uzakl",
+    "yakit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "141457958db9": {
+   "id": "141457958db9",
+   "kaynak": "AA",
+   "baslik": "Kongo Havzası için 1 milyon hektarlık orman koruma programı tanıtıldı",
+   "ozet": "COP31'de, Green Gold Foundation tarafından Demokratik Kongo Cumhuriyeti Pavilyonu'nda \"Stratejik Vizyon ve Demokratik Kongo Cumhuriyeti Fırsatı\" paneli düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/kongo-havzasi-icin-1-milyon-hektarlik-orman-koruma-programi-tanitildi/4128139",
+   "zaman": "2026-11-17T18:56:23+03:00",
+   "kelimeler": [
+    "havza",
+    "hekta",
+    "kongo",
+    "korum",
+    "milyo",
+    "orman",
+    "progr",
+    "tanit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8606cdc489f1": {
+   "id": "8606cdc489f1",
+   "kaynak": "AA",
+   "baslik": "İçişleri Bakanı Çiftçi: (POLSAN'a yönelik iddialar) Bu işlemlerden kaynaklanan herhangi bir zarar bulunmamaktadır",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"POLSAN'daki birikimin, fon soruşturması kapsamında tasfiyesine karar verilen bazı fonlarda kullanıldığı\" iddialarına ilişkin, \"Bu işlemlerden kaynaklanan herhangi bir zarar bulunmamaktadır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-polsana-yonelik-iddialar-bu-islemlerden-kaynaklanan-herhangi-bir-zarar-bulunmamaktadir/4128399",
+   "zaman": "2026-11-18T00:04:34+03:00",
+   "kelimeler": [
+    "bakan",
+    "bulun",
+    "ciftc",
+    "herha",
+    "icisl",
+    "iddia",
+    "islem",
+    "kayna",
+    "polsa",
+    "yonel",
+    "zarar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e4bd48a9da16"
+  },
+  "1862a0d53d8f": {
+   "id": "1862a0d53d8f",
+   "kaynak": "AA",
+   "baslik": "Evlerdeki teknolojik cihazların elektromanyetik etkilerine karşı bilinçli kullanım uyarısı",
+   "ozet": "Prof. Dr. Süleyman Daşdağ, cep telefonu, tablet, televizyon ve saç kurutma makinesi gibi günlük yaşamda sık kullanılan birçok cihazın elektromanyetik alan etkisi oluşturduğunu belirterek, bu cihazların bilinçli kullanılması uyarısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/evlerdeki-teknolojik-cihazlarin-elektromanyetik-etkilerine-karsi-bilincli-kullanim-uyarisi/4128410",
+   "zaman": "2026-11-18T00:10:54+03:00",
+   "kelimeler": [
+    "bilin",
+    "cihaz",
+    "elekt",
+    "etkil",
+    "evler",
+    "karsi",
+    "kulla",
+    "tekno",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 01:49:11  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Düzce'de feci kaza: Otomobil tırın altına girdi",
+  "18.11 01:46:14  6 yeni haber",
   "18.11 01:16:09  4 yeni haber",
   "18.11 01:04:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · Tamer Yeşildağ, geliştirdiği sistem ile karakterlerin ses ve duyguları",
   "18.11 01:01:53  1 yeni haber",
@@ -28778,9 +28871,7 @@
   "16.11 01:16:08  1 yeni haber",
   "16.11 01:03:16  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · GOOOOLLL | 🇫🇷 Fransa 1-1 Türkiye 🇹🇷",
   "16.11 00:04:36  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Eskişehir'de izinsiz kazı yapan 6 şüpheli tutuklandı",
-  "16.11 00:01:32  1 yeni haber",
-  "15.11 23:46:11  2 yeni haber",
-  "15.11 23:31:44  1 yeni haber"
+  "16.11 00:01:32  1 yeni haber"
  ],
  "otomatik": false
 }
