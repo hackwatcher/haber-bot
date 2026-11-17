@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "02e3acf06dbb": {
-   "id": "02e3acf06dbb",
-   "kaynak": "NTV",
-   "baslik": "BEDAŞ elektrik kesintilerini duyurdu. Bir saat sonra başlıyor. Akşam 17.00'ye kadar sürecek",
-   "ozet": "İstanbul'un 13 ilçesinde bugün elektrik kesintisi yaşanacak. Saat 09.00'da başlayacak olan elektrik kesintisi akşam 17.00'ye kadar sürecek. İşte ilçe ilçe elektrik kesintisi programı…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bedas-elektrik-kesintilerini-duyurdu-bir-saat-sonra-basliyor-aksam-1700ye-kadar-surecek-1750784",
-   "zaman": "2026-11-14T08:19:18+03:00",
-   "kelimeler": [
-    "00",
-    "17",
-    "aksam",
-    "basli",
-    "bedas",
-    "duyur",
-    "elekt",
-    "kesin",
-    "saat",
-    "surec",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "a1774e6121c2": {
    "id": "a1774e6121c2",
    "kaynak": "Hürriyet",
@@ -23716,7 +23692,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Sözcü",
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "84ebc044bf27": {
@@ -25801,9 +25778,85 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "19822d091922": {
+   "id": "19822d091922",
+   "kaynak": "TRT Haber",
+   "baslik": "IMF, Ukrayna ile 1,6 milyar dolarlık anlaşma yönünde ilerleme kaydedildiğini belirtti",
+   "ozet": "Uluslararası Para Fonu IMF, Ukrayna'ya yönelik kredi programının ikinci ve üçüncü gözden geçirmelerine ilişkin finansman güvencelerinin sağlanması durumunda 1,6 milyar dolarlık bir anlaşmaya varılması için önemli ilerleme kaydedildiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/imf-ukrayna-ile-16-milyar-dolarlik-anlasma-yonunde-ilerleme-kaydedildigini-belirtti-963492.html",
+   "zaman": "2026-11-17T08:15:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "belir",
+    "dolar",
+    "ilerl",
+    "imf",
+    "kayde",
+    "milya",
+    "ukray",
+    "yonun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c91f76bfc0e3": {
+   "id": "c91f76bfc0e3",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de bu kez de bankacılık sistemleri çöktü",
+   "ozet": "JP Morgan Chase, Wells Fargo ve Bank of America gibi ABD'nin önde gelen bankalarının binlerce müşterisi, bankacılık hizmetlerine erişimde sorun yaşadığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-bu-kez-de-bankacilik-sistemleri-coktu-963493.html",
+   "zaman": "2026-11-17T08:21:00+03:00",
+   "kelimeler": [
+    "abd",
+    "banka",
+    "coktu",
+    "kez",
+    "siste"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bf58e3eeaf8a": {
+   "id": "bf58e3eeaf8a",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında 7 şüpheli daha tutuklandı",
+   "ozet": "Fon soruşturması kapsamında gözaltına alınan 26 şüpheliden 7'si tutuklandı, 19 şüpheli için adli kontrol kararı verildi.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-7-supheli-daha-tutuklandi-963494.html",
+   "zaman": "2026-11-17T08:22:00+03:00",
+   "kelimeler": [
+    "fon",
+    "sorus",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d6f646f93c0e"
+  },
+  "1c6f412322b4": {
+   "id": "1c6f412322b4",
+   "kaynak": "Hürriyet",
+   "baslik": "Erzincan’da soğuk hava mesaisi: Araç camları buz tuttu",
+   "ozet": "Erzincan’da sıcaklığın yer yer eksi 5 dereceye düşmesiyle araç camları ve dere kenarları buz tuttu. Sabah mesaisine buz temizliğiyle başlayan kent için Meteoroloji’den don ve buzlanma uyarısı yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/erzincanda-soguk-hava-mesaisi-arac-camlari-buz-tuttu-43380762",
+   "zaman": "2026-11-17T08:24:29+03:00",
+   "kelimeler": [
+    "arac",
+    "buz",
+    "camla",
+    "erzin",
+    "hava",
+    "mesai",
+    "soguk",
+    "tuttu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 08:31:40  3 yeni haber",
   "17.11 08:18:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Cinayete yardımdan beraat etti tehditten tutuklandı",
   "17.11 08:16:09  2 yeni haber",
   "17.11 08:01:43  1 yeni haber",
@@ -26002,8 +26055,7 @@
   "15.11 05:16:09  1 yeni haber",
   "15.11 05:01:26  1 yeni haber",
   "15.11 04:16:10  1 yeni haber",
-  "15.11 02:31:46  1 yeni haber",
-  "15.11 02:01:33  2 yeni haber"
+  "15.11 02:31:46  1 yeni haber"
  ],
  "otomatik": false
 }
