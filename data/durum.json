@@ -1,85 +1,5 @@
 {
  "haberler": {
-  "269ab1d269b2": {
-   "id": "269ab1d269b2",
-   "kaynak": "NTV",
-   "baslik": "İstanbul'da trafiği kilitleyen çalışma ne zaman bitecek?",
-   "ozet": "İstanbul'da trafiğin en yoğun olduğu noktalardan İncirli'deki üst geçit güçlendirme çalışması sürüyor. Çalışma nedeniyle Ankara yönünde trafik yoğunluğu yaşanıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-trafigi-kilitleyen-calisma-ne-zaman-bitecek-1750790",
-   "zaman": "2026-11-14T09:02:07+03:00",
-   "kelimeler": [
-    "bitec",
-    "calis",
-    "istan",
-    "kilit",
-    "trafi",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3d7f55182bf8": {
-   "id": "3d7f55182bf8",
-   "kaynak": "TRT Haber",
-   "baslik": "Hamzabeyli'de 558,6 milyon lira değerinde kaçak eşya ele geçirildi",
-   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza ekiplerince Edirne'deki Hamzabeyli Gümrük Sahası'nda düzenlenen operasyonda 558 milyon 594 bin lira değerinde kaçak ticari eşya yakalandı.",
-   "link": "https://www.trthaber.com/haber/gundem/hamzabeylide-5586-milyon-lira-degerinde-kacak-esya-ele-gecirildi-963239.html",
-   "zaman": "2026-11-14T09:04:00+03:00",
-   "kelimeler": [
-    "558",
-    "deger",
-    "ele",
-    "esya",
-    "gecir",
-    "hamza",
-    "kacak",
-    "lira",
-    "milyo"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4d07eb90a0f8": {
-   "id": "4d07eb90a0f8",
-   "kaynak": "TRT Haber",
-   "baslik": "Zorunlu kış lastiği uygulaması yarın başlıyor",
-   "ozet": "Ticari araçlarda zorunlu kış lastiği uygulaması yarın başlıyor. Özel otomobiller için ise yasal zorunluluk olmasa da kış lastiği kullanımı öneriliyor.",
-   "link": "https://www.trthaber.com/haber/ekonomi/zorunlu-kis-lastigi-uygulamasi-yarin-basliyor-963238.html",
-   "zaman": "2026-11-14T09:05:00+03:00",
-   "kelimeler": [
-    "basli",
-    "kis",
-    "lasti",
-    "uygul",
-    "yarin",
-    "zorun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4f0672febec9"
-  },
-  "beb5ef662404": {
-   "id": "beb5ef662404",
-   "kaynak": "NTV",
-   "baslik": "BEDAŞ elektrik kesintilerini duyurdu. Akşam 17.00'ye kadar sürecek",
-   "ozet": "İstanbul'un 13 ilçesinde bugün elektrik kesintisi yaşanıyor. Saat 09.00'da başlayan elektrik kesintisi akşam 17.00'ye kadar sürecek. İşte ilçe ilçe elektrik kesintisi programı…",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-bedas-elektrik-kesintilerini-duyurdu-aksam-1700ye-kadar-surecek-1750784",
-   "zaman": "2026-11-14T09:10:41+03:00",
-   "kelimeler": [
-    "00",
-    "17",
-    "aksam",
-    "bedas",
-    "duyur",
-    "elekt",
-    "kesin",
-    "surec",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "02e3acf06dbb"
-  },
   "2b790a1e947b": {
    "id": "2b790a1e947b",
    "kaynak": "TRT Haber",
@@ -98,23 +18,6 @@
    "diger_kaynaklar": [
     "AA"
    ]
-  },
-  "be66a99ce110": {
-   "id": "be66a99ce110",
-   "kaynak": "TRT Haber",
-   "baslik": "Yeni Parti'de kurultay günü",
-   "ozet": "Yeni Parti'de gözler birinci olağan kurultaya çevrildi. Bugün Ankara Spor Salonu'nda yaklaşık bin 200 delegenin katılımıyla gerçekleştirilecek kurultayda, tek genel başkan adayı ise Özgür Özel.",
-   "link": "https://www.trthaber.com/haber/gundem/yeni-partide-kurultay-gunu-963240.html",
-   "zaman": "2026-11-14T09:12:00+03:00",
-   "kelimeler": [
-    "gunu",
-    "kurul",
-    "parti",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "fb9a9213923d"
   },
   "941e8118cc29": {
    "id": "941e8118cc29",
@@ -26079,9 +25982,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "880e62138dcb": {
+   "id": "880e62138dcb",
+   "kaynak": "TRT Haber",
+   "baslik": "Sözcü medya grubu sahibi Burak Akbay'a FETÖ soruşturması: 4 gözaltı kararı",
+   "ozet": "Burak Akbay'a yönelik FETÖ/PDY soruşturması kapsamında, Sözcü TV ve Sözcü Gazetesi binasında arama yapıldı. Şirket yöneticisi ve yetkilisi olduğu belirlenen 4 kişi hakkında gözaltı kararı verilirken, Mega Ajans ve Reklamcılık Ticaret AŞ'nin yönetimine TMSF görevlendirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/sozcu-medya-grubu-sahibi-burak-akbaya-feto-sorusturmasi-4-gozalti-karari-963497.html",
+   "zaman": "2026-11-17T08:31:00+03:00",
+   "kelimeler": [
+    "akbay",
+    "burak",
+    "feto",
+    "gozal",
+    "grubu",
+    "karar",
+    "medya",
+    "sahib",
+    "sorus",
+    "sozcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d07b494db4bd"
+  },
+  "b25b52ffef03": {
+   "id": "b25b52ffef03",
+   "kaynak": "TRT Haber",
+   "baslik": "2027 Grammy Ödülleri adayları açıklandı",
+   "ozet": "2027 Grammy Ödülleri'nin adayları açıklandı. Pazartesi günü duyurulan adaylar arasında Olivia Dean, Bruno Mars, Ella Langley, Madonna, Olivia Rodrigo, Raye, Rosalia ve Taylor Swift gibi müzik sanatçıları yer aldı.",
+   "link": "https://www.trthaber.com/haber/dunya/2027-grammy-odulleri-adaylari-aciklandi-963504.html",
+   "zaman": "2026-11-17T08:58:00+03:00",
+   "kelimeler": [
+    "2027",
+    "acikl",
+    "adayl",
+    "gramm",
+    "odull"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0d9069e732b9": {
+   "id": "0d9069e732b9",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa’da otomobil devrildi: 18 yaşındaki sürücü öldü, 3 kişi yaralandı",
+   "ozet": "Bursa’nın Yenişehir ilçesinde devrilen otomobilin 18 yaşındaki sürücüsü Ceylin U. hastanede kurtarılamadı. Kazada yaralanan 3 kişiden 15 yaşındaki Ceren U’nun hayati tehlikesinin sürdüğü öğrenildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-otomobil-devrildi-18-yasindaki-surucu-oldu-3-kisi-yaralandi-43380773",
+   "zaman": "2026-11-17T09:00:44+03:00",
+   "kelimeler": [
+    "18",
+    "bursa",
+    "devri",
+    "kisi",
+    "otomo",
+    "suruc",
+    "yaral",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0b1dc351083c": {
+   "id": "0b1dc351083c",
+   "kaynak": "TRT Haber",
+   "baslik": "Voyager 1 yarın Dünya'dan 1 ışık günü uzaklığa ulaşacak",
+   "ozet": "Tüm beklentileri aşan bir yolculuk sürdüren Voyager 1 uzay aracı, yeni ve büyük bir dönüm noktasına ulaşmak üzere.",
+   "link": "https://www.trthaber.com/haber/dunya/voyager-1-yarin-dunyadan-1-isik-gunu-uzakliga-ulasacak-963505.html",
+   "zaman": "2026-11-17T09:01:00+03:00",
+   "kelimeler": [
+    "dan",
+    "dunya",
+    "gunu",
+    "isik",
+    "ulasa",
+    "uzakl",
+    "voyag",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70d071ccd47f": {
+   "id": "70d071ccd47f",
+   "kaynak": "AA",
+   "baslik": "Küresel piyasalarda teknoloji baskısı sürerken gözler Nvidia'nın bilançosunda",
+   "ozet": "Küresel piyasalarda teknoloji hisselerinde süregelen satış baskısı nedeniyle negatif bir seyir izlenirken, gözler Nvidia'nın açıklayacağı finansal sonuçlara çevrildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-baskisi-surerken-gozler-nvidianin-bilancosunda/4127244",
+   "zaman": "2026-11-17T09:08:27+03:00",
+   "kelimeler": [
+    "baski",
+    "bilan",
+    "gozle",
+    "kures",
+    "nin",
+    "nvidi",
+    "piyas",
+    "surer",
+    "tekno"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b90e2783aca8": {
+   "id": "b90e2783aca8",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | SÖZCÜ TV’YE KAYYUM ATANDI.",
+   "ozet": "— Sözcü TV binasına çıkan yollar kapatıldı. — Operasyon yapılıyor. Televizyon binasına polisler geldi, içeride arama yapılıyor. — Yönetim Kurulu Başkanı Funda Tuncer Sıdalı gözaltında. — TMSF tarafından kanala kayyum…",
+   "link": "https://t.me/sahinozkan000/30717",
+   "zaman": "2026-11-17T09:13:48+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | SÖZCÜ TV’YE KAYYUM ATANDI. — Sözcü TV binasına çıkan yollar kapatıldı. — Operasyon yapılıyor. Televizyon binasına polisler geldi, içeride arama yapılıyor. — Yönetim Kurulu Başkanı Funda Tuncer Sıdalı gözaltında. — TMSF tarafından kanala kayyum…",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/XJZlwccHE6tAzEg0wKRx7sbG-B6A_QztQECuQaILpcMz4oGL3kiTpH_sb3gy-Fv8vCpJ5qKAxoqPbrKZkL35U2gLuIhDXoPcGTNLwFjt5XiVt9ntZfOy56fWE1h8uHyQKaGZWTTqcJPvU9PoWZZtfZBzpyggfjuThJFFoa52i7mqOz-3w8UpQX47TKFvV0PC_rjnE1bMoLz3nICfYlWq7d1C1nCUYDFfkYUSNYLOjgPkhjtNfDsa9v8BUxk-5Wpiswra8HLxn1aQIQOJWJ3384zsqiz3T-z1qDFfCxWmzcvGXZmeHw5ufQl1xLn_8H2cKLIxpg-58TVIcVtgPWFjOw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "atand",
+    "kayyu",
+    "sonda",
+    "sozcu",
+    "tv",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0b9e01a9be6a"
   }
  },
  "kayit": [
+  "17.11 09:16:19  4 yeni haber",
   "17.11 09:01:53  4 yeni haber",
   "17.11 08:46:33  5 yeni haber",
   "17.11 08:31:40  3 yeni haber",
@@ -26280,8 +26308,7 @@
   "15.11 07:03:20  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kaza mahalline dalan otomobil 1'i polisi 5 kişiyi yaraladı",
   "15.11 07:01:28  2 yeni haber",
   "15.11 05:31:18  1 yeni haber",
-  "15.11 05:16:09  1 yeni haber",
-  "15.11 05:01:26  1 yeni haber"
+  "15.11 05:16:09  1 yeni haber"
  ],
  "otomatik": false
 }
