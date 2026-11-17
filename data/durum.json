@@ -24545,7 +24545,10 @@
     "unite"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2d51f64c2ae3": {
    "id": "2d51f64c2ae3",
@@ -24608,7 +24611,9 @@
    ],
    "durum": "yeni",
    "oncelikli": true,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dff221684412": {
    "id": "dff221684412",
@@ -25593,9 +25598,123 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "225ea7fca5ec": {
+   "id": "225ea7fca5ec",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere Başbakanı Burnham: Brexit'te kazandığımızdan çoğunu kaybettik",
+   "ozet": "İngiltere Başbakanı Andy Burnham, İngiltere'nin Avrupa Birliği'nden AB ayrılması üzerinden geçen 10 yılın değerlendirmesini yaparak, \"Son 10 yılda kazandığımızdan daha fazlasını kaybettik. Bize sunulan sert Brexit, Britanya için iyi olmadı.\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-burnham-brexitte-kazandigimizdan-cogunu-kaybettik-963482.html",
+   "zaman": "2026-11-17T07:05:00+03:00",
+   "kelimeler": [
+    "basba",
+    "brexi",
+    "burnh",
+    "cogun",
+    "ingil",
+    "kaybe",
+    "kazan",
+    "te"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "91fa6af573da"
+  },
+  "98c8219b5786": {
+   "id": "98c8219b5786",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'li United Airlines, uçuşlarını etkileyen sistem sorununu giderdi",
+   "ozet": "ABD'li hava yolu şirketi United Airlines, bazı uçuşların kalkışını etkileyen sistem sorununun giderildiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdli-united-airlines-ucuslarini-etkileyen-sistem-sorununu-giderdi-963483.html",
+   "zaman": "2026-11-17T07:09:00+03:00",
+   "kelimeler": [
+    "abd",
+    "airli",
+    "etkil",
+    "gider",
+    "li",
+    "siste",
+    "sorun",
+    "ucusl",
+    "unite"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "229046678077"
+  },
+  "f7256584b290": {
+   "id": "f7256584b290",
+   "kaynak": "TRT Haber",
+   "baslik": "DSÖ Genel Direktörü Ghebreyesus: Hiçbir çocuk soğuktan ölmemeli",
+   "ozet": "Dünya Sağlık Örgütü DSÖ Genel Direktörü Tedros Adhanom Ghebreyesus, Gazze'de geçen hafta 8 aylık bir bebeğin soğuktan öldüğünü anımsatarak, \"Hiçbir çocuk soğuktan ölmemeli. Üstelik kış henüz yeni başlıyor.\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/dunya/dso-genel-direktoru-ghebreyesus-hicbir-cocuk-soguktan-olmemeli-963484.html",
+   "zaman": "2026-11-17T07:10:00+03:00",
+   "kelimeler": [
+    "cocuk",
+    "direk",
+    "dso",
+    "genel",
+    "ghebr",
+    "hicbi",
+    "olmem",
+    "soguk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a67582835e1": {
+   "id": "1a67582835e1",
+   "kaynak": "TRT Haber",
+   "baslik": "OpenAI, çocukların çevrim içi istismarını tespit etmek için yeni yapay zeka aracı geliştirdi",
+   "ozet": "Yapay zeka şirketi OpenAI, çocukların istismarına ilişkin çevrim içi görüntüleri, yapay zeka tarafından üretilenler de dahil olmak üzere, tespit edebilen \"yeni bir sınıflandırma aracı\" geliştirdiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/openai-cocuklarin-cevrim-ici-istismarini-tespit-etmek-icin-yeni-yapay-zeka-araci-gelistirdi-963485.html",
+   "zaman": "2026-11-17T07:17:00+03:00",
+   "kelimeler": [
+    "araci",
+    "cevri",
+    "cocuk",
+    "etmek",
+    "gelis",
+    "ici",
+    "istis",
+    "opena",
+    "tespi",
+    "yapay",
+    "yeni",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f44802998491": {
+   "id": "f44802998491",
+   "kaynak": "TRT Haber",
+   "baslik": "BM'den İsrail'in Gazze'deki yerleşim bölgelerini hedef alan saldırılarının devam ettiği uyarısı",
+   "ozet": "Birleşmiş Milletler BM, İsrail'in Gazze'deki yerleşim bölgelerini hedef alan saldırılarının sürdüğü uyarısında bulunarak, bu saldırıların yardım çalışanları da dahil olmak üzere sivillerin hayatını tehlikeye atmaya devam ettiğini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/bmden-israilin-gazzedeki-yerlesim-bolgelerini-hedef-alan-saldirilarinin-devam-ettigi-uyarisi-963486.html",
+   "zaman": "2026-11-17T07:18:00+03:00",
+   "kelimeler": [
+    "alan",
+    "bm",
+    "bolge",
+    "deki",
+    "den",
+    "devam",
+    "ettig",
+    "gazze",
+    "hedef",
+    "in",
+    "israi",
+    "saldi",
+    "uyari",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 07:31:57  3 yeni haber",
   "17.11 07:16:11  17 yeni haber",
   "17.11 07:04:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | Fon soruşturması kapsamında 21 şirkete kayyum atandı.",
   "17.11 06:23:28  1 yeni haber",
@@ -25794,8 +25913,7 @@
   "15.11 01:34:10  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · A Milli Kadın Basketbol Takımı, İsrail'i 76-67 mağlup etti",
   "15.11 01:31:15  2 yeni haber",
   "15.11 01:16:25  1 yeni haber",
-  "15.11 01:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Milli kick boksçularımız Avrupa Şampiyonası'nda 53 madalya kazandı",
-  "15.11 01:01:47  3 yeni haber"
+  "15.11 01:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Milli kick boksçularımız Avrupa Şampiyonası'nda 53 madalya kazandı"
  ],
  "otomatik": false
 }
