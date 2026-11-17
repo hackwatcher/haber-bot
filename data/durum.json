@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "78d440979ba9": {
-   "id": "78d440979ba9",
-   "kaynak": "AA",
-   "baslik": "Demokrat Peltola, Alaska'daki Senato yarışında farkı biraz daha açtı",
-   "ozet": "ABD'de 3 Kasım'da yapılan Kongre ara seçimlerinden yaklaşık iki hafta sonra oy sayımının devam ettiği Alaska eyaletinde Demokrat aday Mary Peltola, Cumhuriyetçi rakibi karşısındaki oy farkını biraz daha açtı.",
-   "link": "https://www.aa.com.tr/tr/dunya/demokrat-peltola-alaskadaki-senato-yarisinda-farki-biraz-daha-acti/4125460",
-   "zaman": "2026-11-15T02:17:45+03:00",
-   "kelimeler": [
-    "acti",
-    "alask",
-    "biraz",
-    "daki",
-    "demok",
-    "farki",
-    "pelto",
-    "senat",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2f6181f74745": {
    "id": "2f6181f74745",
    "kaynak": "TRT Haber",
@@ -24947,7 +24926,10 @@
     "seria"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f86521537fb7": {
    "id": "f86521537fb7",
@@ -28753,9 +28735,105 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e6c7e79c10e4": {
+   "id": "e6c7e79c10e4",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye İklim Okulunda iklim değişikliğiyle mücadelede gelecek nesillerin rolü ele alındı",
+   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı COP31 kapsamında Milli Eğitim Bakanlığınca oluşturulan Türkiye İklim Okulunda düzenlenen panellerde, iklim değişikliğiyle mücadelede eğitimin önemi, çocukların ve gençlerin iklim politikalarına katılımı ile…",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-iklim-okulunda-iklim-degisikligiyle-mucadelede-gelecek-nesillerin-rolu-ele-alindi-963615.html",
+   "zaman": "2026-11-18T01:57:00+03:00",
+   "kelimeler": [
+    "alind",
+    "degis",
+    "ele",
+    "gelec",
+    "iklim",
+    "mucad",
+    "nesil",
+    "okulu",
+    "rolu",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d54d6c1f4bd"
+  },
+  "9df8b59a7ef7": {
+   "id": "9df8b59a7ef7",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu, Batı Şeria'da iki kampta Filistinlilerin mülklerine açtığı yolları askeri bölge ilan etti",
+   "ozet": "İsrail ordusunun, Batı Şeria'nın kuzeyinde yer alan Tulkerim ve Nur Şems mülteci kamplarına Ocak 2025'te başlattığı saldırılar sırasında yıktığı evlerin yerine açtığı yolları kalıcı askeri alana dönüştürerek el koyma kararı aldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-iki-kampta-filistinlilerin-mulklerine-actigi-yollari-askeri-bolge-ilan-etti/4128470",
+   "zaman": "2026-11-18T02:12:31+03:00",
+   "kelimeler": [
+    "actig",
+    "asker",
+    "bati",
+    "bolge",
+    "etti",
+    "filis",
+    "iki",
+    "ilan",
+    "israi",
+    "kampt",
+    "mulkl",
+    "ordus",
+    "seria",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8bc3bf396e54"
+  },
+  "ae7fa0081113": {
+   "id": "ae7fa0081113",
+   "kaynak": "AA",
+   "baslik": "Nvidia Yönetim Kurulu, Jensen Huang'ı yeniden CEO'luk görevine getirmeyi düşünmediklerini açıkladı",
+   "ozet": "Nvidia Yönetim Kurulu Başkanı Harvey Jones, şirketin eski Üst Yöneticisi (CEO) Jensen Huang'ı yeniden CEO'luk görevine getirmeyi düşünmediklerini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/nvidia-yonetim-kurulu-jensen-huangi-yeniden-ceoluk-gorevine-getirmeyi-dusunmediklerini-acikladi/4128473",
+   "zaman": "2026-11-18T02:18:10+03:00",
+   "kelimeler": [
+    "ceo",
+    "dusun",
+    "getir",
+    "gorev",
+    "huang",
+    "jense",
+    "kurul",
+    "luk",
+    "nvidi",
+    "yenid",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cd497bad58f8": {
+   "id": "cd497bad58f8",
+   "kaynak": "NTV",
+   "baslik": "Yabancı yatırımcılara ikamet iznine düzenleme. 150 bin dolarla 3 yıl, 200 bin dolarla 5 yıl",
+   "ozet": "Türkiye’de yatırım yapacak yabancılara verilecek ikamet izinleri için yeni tutarlar belirlendi. Resmi Gazete'de yayımlanan karara göre, yatırım tutarına göre 3 veya 5 yıllık ikamet izni verilecek.",
+   "link": "https://www.ntv.com.tr/turkiye/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-200-bin-dolarla-5-yil-1751361",
+   "zaman": "2026-11-18T02:39:36+03:00",
+   "kelimeler": [
+    "150",
+    "200",
+    "bin",
+    "dolar",
+    "duzen",
+    "ikame",
+    "iznin",
+    "yaban",
+    "yatir",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "18.11 02:46:02  2 yeni haber",
   "18.11 02:16:18  1 yeni haber",
   "18.11 02:01:41  3 yeni haber",
   "18.11 01:49:11  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Düzce'de feci kaza: Otomobil tırın altına girdi",
@@ -28954,8 +29032,7 @@
   "16.11 02:01:45  3 yeni haber",
   "16.11 01:46:08  1 yeni haber",
   "16.11 01:31:50  1 yeni haber",
-  "16.11 01:16:08  1 yeni haber",
-  "16.11 01:03:16  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · GOOOOLLL | 🇫🇷 Fransa 1-1 Türkiye 🇹🇷"
+  "16.11 01:16:08  1 yeni haber"
  ],
  "otomatik": false
 }
