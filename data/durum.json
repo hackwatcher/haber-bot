@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "6fc7b70368bc": {
-   "id": "6fc7b70368bc",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon tasfiyesinde devlet bütçesinden bir lira kullanılmadı",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fonların tasfiyesi için devlet bütçesinden bir lira bile kullanılmasını belirtirken, \"Bugüne kadar 444 bin 987 tekil yatırımcıya ödeme yapıldı\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiyesinde-devlet-butcesinden-bir-lira-kullanilmadi-1750897",
-   "zaman": "2026-11-14T23:09:18+03:00",
-   "kelimeler": [
-    "butce",
-    "cumhu",
-    "devle",
-    "fon",
-    "kulla",
-    "lira",
-    "tasfi",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "61c038a96e70"
-  },
   "72c4978d5271": {
    "id": "72c4978d5271",
    "kaynak": "AA",
@@ -28564,9 +28542,61 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1c77b1f6fb30": {
+   "id": "1c77b1f6fb30",
+   "kaynak": "TRT Haber",
+   "baslik": "FBI'dan yapay zeka destekli siber saldırı uyarısı",
+   "ozet": "ABD Federal Soruşturma Bürosu FBI, siber suçluların ve devlet destekli bilgisayar korsanlarının yapay zeka destekli bir aracı kullanarak dünya genelindeki kurumlara yönelik saldırıları otomatikleştirdiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/fbidan-yapay-zeka-destekli-siber-saldiri-uyarisi-963606.html",
+   "zaman": "2026-11-17T23:01:00+03:00",
+   "kelimeler": [
+    "dan",
+    "deste",
+    "fbi",
+    "saldi",
+    "siber",
+    "uyari",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b88bf1ea4d0": {
+   "id": "0b88bf1ea4d0",
+   "kaynak": "XHABER",
+   "baslik": "Tamer Yeşildağ, geliştirdiği sistem ile karakterlerin ses ve duygularını koruyarak GTA 6'yı Türkçe dublajla oynayacağını duyurdu ve GTA 5 üzerinde...",
+   "ozet": "\"Jason'ın sesi Jason, Lucia'nın sesi Lucia olarak Türkçe konuşacaklar ve tüm NPC'lerin sesleri kendilerine özel olacak.\"",
+   "link": "https://t.me/sahinozkan000/30734",
+   "zaman": "2026-11-17T23:17:02+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Tamer Yeşildağ, geliştirdiği sistem ile karakterlerin ses ve duygularını koruyarak GTA 6'yı Türkçe dublajla oynayacağını duyurdu ve GTA 5 üzerinde gösterdi.\n\"Jason'ın sesi Jason, Lucia'nın sesi Lucia olarak Türkçe konuşacaklar ve tüm NPC'lerin sesleri kendilerine özel olacak.\"",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/X5S5qO_K9rHmtWH9REr51Q5ph3fAF-Pi2gW2GOH1RMrQmIBLct0sTX1sw_87busaoL54G06oxbelx2np5VLxJmgQ-O_YWl5fBzSKyR763PUb_pAu6PVwgs8gCpATW27Yw7xiYmgijxSc6LuT5JfjELXCRq2WEjqEX5Puc1fbznpfL_fJX-8iKlIInLNSJRMdhwt602E4LcBis3XMUGNifLLFsNjqLFSePSV_f6SRYHsf5jloJAqoz9qzSdT58SSmZ3Cc-1C6SsL4KmH6k2EkOYbcGZ7JYFIQ8Cb-BcdJmzoVWJHlgggE6PGHUWAgTvp7y-ikTkKNc-oSg3lSiN0upQ",
+   "tg_video_url": "",
+   "kelimeler": [
+    "dubla",
+    "duygu",
+    "duyur",
+    "gelis",
+    "gta",
+    "karak",
+    "koruy",
+    "oynay",
+    "ses",
+    "siste",
+    "tamer",
+    "turkc",
+    "uzeri",
+    "yesil",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 23:17:05  2 yeni haber",
   "17.11 23:02:06  3 yeni haber",
   "17.11 22:46:44  1 yeni haber",
   "17.11 22:31:44  1 yeni haber",
@@ -28765,8 +28795,7 @@
   "15.11 21:31:26  4 yeni haber",
   "15.11 21:01:45  1 yeni haber",
   "15.11 20:46:05  3 yeni haber",
-  "15.11 20:31:25  3 yeni haber",
-  "15.11 20:16:33  3 yeni haber"
+  "15.11 20:31:25  3 yeni haber"
  ],
  "otomatik": false
 }
