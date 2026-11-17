@@ -14942,7 +14942,8 @@
     "ulusl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3db6623eb950": {
    "id": "3db6623eb950",
@@ -25070,9 +25071,57 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d1c994ae7781": {
+   "id": "d1c994ae7781",
+   "kaynak": "AA",
+   "baslik": "UEFA Uluslar Ligi'nin 6. haftasına 10 maçla devam edildi",
+   "ozet": "UEFA Uluslar Ligi'nin 6. haftasına 10 maçla devam edildi. Almanya, sahasında ağırladığı Hollanda'yı 5-0 mağlup etti.",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-6-haftasina-10-macla-devam-edildi/4127188",
+   "zaman": "2026-11-17T02:28:25+03:00",
+   "kelimeler": [
+    "10",
+    "devam",
+    "edild",
+    "hafta",
+    "ligi",
+    "macla",
+    "nin",
+    "uefa",
+    "ulusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c35777fc1d2d"
+  },
+  "63c576c70e69": {
+   "id": "63c576c70e69",
+   "kaynak": "AA",
+   "baslik": "OpenAI'ye yapay zeka modellerinin geliştirme sürecindeki güvenlik eksiklikleri nedeniyle dava açıldı",
+   "ozet": "ABD'nin California eyaletinde, yapay zeka modellerini yeterli güvenlik önlemleri ve denetim mekanizmaları olmadan geliştirdiği ve test ettiği, bu süreçte kamu güvenliğini tehlikeye attığı iddiasıyla OpenAI'ye dava açıldı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openaiye-yapay-zeka-modellerinin-gelistirme-surecindeki-guvenlik-eksiklikleri-nedeniyle-dava-acildi/4127189",
+   "zaman": "2026-11-17T02:28:45+03:00",
+   "kelimeler": [
+    "acild",
+    "dava",
+    "eksik",
+    "gelis",
+    "guven",
+    "model",
+    "neden",
+    "opena",
+    "surec",
+    "yapay",
+    "ye",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "17.11 03:46:34  1 yeni haber",
+  "17.11 03:46:34  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "17.11 03:31:37  2 yeni haber",
   "17.11 03:16:40  3 yeni haber",
   "17.11 03:02:16  2 yeni haber",
@@ -25270,9 +25319,7 @@
   "15.11 00:02:12  1 yeni haber",
   "14.11 23:41:02  1 yeni haber",
   "14.11 23:33:26  1 yeni haber",
-  "14.11 23:16:08  4 yeni haber",
-  "14.11 23:01:47  1 yeni haber",
-  "14.11 22:46:07  1 yeni haber"
+  "14.11 23:16:08  4 yeni haber"
  ],
  "otomatik": false
 }
