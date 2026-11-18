@@ -32574,7 +32574,10 @@
     "tekli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "910b3c2ea9f8": {
    "id": "910b3c2ea9f8",
@@ -32716,9 +32719,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fbac895aa6ad": {
+   "id": "fbac895aa6ad",
+   "kaynak": "TRT Haber",
+   "baslik": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri içeren kanun teklifi, Komisyonda kabul edildi",
+   "ozet": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonunda kabul edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi-963736.html",
+   "zaman": "2026-11-19T01:42:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "edild",
+    "enerj",
+    "guven",
+    "icere",
+    "ilisk",
+    "kabul",
+    "kanun",
+    "komis",
+    "sosya",
+    "tekli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2446d9f66697"
+  },
+  "c5821a8fac10": {
+   "id": "c5821a8fac10",
+   "kaynak": "TRT Haber",
+   "baslik": "Sakarya'da abart egzoz denetimi: 226 bin lira ceza kesildi",
+   "ozet": "Sakarya'nın Hendek ilçesinde trafik ekiplerince gerçekleştirilen denetimlerde abartı egzoz kullanarak çevreye rahatsızlık verdiği tespit edilen araçlar 30 gün süreyle trafikten men edildi, sürücülerine ise toplam 226 bin lira idari para cezası kesildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/sakaryada-abart-egzoz-denetimi-226-bin-lira-ceza-kesildi-963737.html",
+   "zaman": "2026-11-19T02:10:00+03:00",
+   "kelimeler": [
+    "226",
+    "abart",
+    "bin",
+    "ceza",
+    "denet",
+    "egzoz",
+    "kesil",
+    "lira",
+    "sakar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d612c1fcc585": {
+   "id": "d612c1fcc585",
+   "kaynak": "AA",
+   "baslik": "Moody's ABD'ye yönelik periyodik incelemesini tamamladı",
+   "ozet": "Uluslararası kredi derecelendirme kuruluşu Moody's, ABD'nin kredi notlarına yönelik periyodik incelemesini tamamladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/moodys-abdye-yonelik-periyodik-incelemesini-tamamladi/4129902",
+   "zaman": "2026-11-19T02:11:10+03:00",
+   "kelimeler": [
+    "abd",
+    "incel",
+    "moody",
+    "periy",
+    "tamam",
+    "ye",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 02:31:20  2 yeni haber",
   "19.11 02:16:42  4 yeni haber",
   "19.11 01:45:59  2 yeni haber",
   "19.11 01:34:04  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tokat'ta 2 otomobilin çarpıştığı kazada 2 yaşındaki çocuk öldü",
@@ -32917,8 +32985,7 @@
   "16.11 18:02:30  6 yeni haber",
   "16.11 17:48:36  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Cumhurbaşkanı Erdoğan, Sezai Karakoç'u andı",
   "16.11 17:46:52  6 yeni haber",
-  "16.11 17:16:20  4 yeni haber",
-  "16.11 17:02:02  5 yeni haber"
+  "16.11 17:16:20  4 yeni haber"
  ],
  "otomatik": false
 }
