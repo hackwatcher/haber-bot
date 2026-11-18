@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "36e41db0052f": {
-   "id": "36e41db0052f",
-   "kaynak": "Hürriyet",
-   "baslik": "Uyuşturucuyu konserve kutusuna saklamışlar: İstanbul Havalimanı'nda 2 yolcuya gözaltı",
-   "ozet": "İstanbul Havalimanı'nda alınan ihbar üzerine harekete geçen narkotik ekipleri, Tunus uyruklu iki şahsın taşıdığı konserve kutularında 13 kilo 512 gram esrar buldu. Yakalanan zanlıların üzerindeki nakit paraya ve cep telefonlarına incelenmek üzere el konuldu.",
-   "link": "https://www.hurriyet.com.tr/gundem/uyusturucuyu-konserve-kutusuna-saklamislar-istanbul-havalimaninda-2-yolcuya-gozalti-43378761",
-   "zaman": "2026-11-15T08:28:27+03:00",
-   "kelimeler": [
-    "gozal",
-    "haval",
-    "istan",
-    "konse",
-    "kutus",
-    "nda",
-    "sakla",
-    "uyust",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "320f9bc2a006": {
    "id": "320f9bc2a006",
    "kaynak": "NTV",
@@ -28472,7 +28451,10 @@
     "veril"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "1d856189dde2": {
    "id": "1d856189dde2",
@@ -29315,9 +29297,112 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0aced334e50f": {
+   "id": "0aced334e50f",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de ülke çapında televizyon ve radyo yayınları bir dakika kesildi",
+   "ozet": "Federal Acil Durum Yönetim Ajansı FEMA ve Federal İletişim Komisyonu FCC, 17 Kasım 2026 Salı günü Acil Durum Uyarı Sistemi'nin EAS ülke çapında testini gerçekleştirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-ulke-capinda-televizyon-ve-radyo-yayinlari-bir-dakika-kesildi-963635.html",
+   "zaman": "2026-11-18T08:04:00+03:00",
+   "kelimeler": [
+    "abd",
+    "capin",
+    "kesil",
+    "radyo",
+    "telev",
+    "ulke",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "51048236b2a6": {
+   "id": "51048236b2a6",
+   "kaynak": "Hürriyet",
+   "baslik": "Meteoroloji saat vererek uyardı: 12 ilde fırtına ve sağanak alarmı | İstanbul'u 'koç fırtınası' vuracak: Hızı 80 kilometreyi bulacak",
+   "ozet": "Meteoroloji Genel Müdürlüğü, yurt genelinde etkili olması beklenen kuvvetli yağış ve fırtına nedeniyle 12 il için \"sarı\" kodlu uyarıda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/meteoroloji-saat-vererek-uyardi-12-ilde-firtina-ve-saganak-alarmi-istanbulu-koc-firtinasi-vuracak-hizi-80-kilometreyi-bulacak-43381911",
+   "zaman": "2026-11-18T08:14:00+03:00",
+   "kelimeler": [
+    "12",
+    "80",
+    "alarm",
+    "bulac",
+    "firti",
+    "hizi",
+    "ilde",
+    "istan",
+    "kilom",
+    "koc",
+    "meteo",
+    "saat",
+    "sagan",
+    "uyard",
+    "verer",
+    "vurac"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee3b6daf6120"
+  },
+  "d601d7b12e6c": {
+   "id": "d601d7b12e6c",
+   "kaynak": "Hürriyet",
+   "baslik": "Yağış uyarısı üzerine çiftçiler hızlandı: Erzincan'da gece boyu pancar hasadı",
+   "ozet": "Beklenen yağışlar öncesinde hasadı tamamlamak isteyen Çayırlı ilçesindeki üreticiler, şeker pancarı mesaisini gece saatlerine taşıdı. Tarlalardan sökülen pancarlar, işlenmek üzere traktör ve kamyonlarla Erzincan Şeker Fabrikası'na taşınıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/yagis-uyarisi-uzerine-ciftciler-hizlandi-erzincanda-gece-boyu-pancar-hasadi-43381937",
+   "zaman": "2026-11-18T08:16:22+03:00",
+   "kelimeler": [
+    "boyu",
+    "ciftc",
+    "erzin",
+    "gece",
+    "hasad",
+    "hizla",
+    "panca",
+    "uyari",
+    "uzeri",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "afba76f1aa51": {
+   "id": "afba76f1aa51",
+   "kaynak": "Hürriyet",
+   "baslik": "Diyarbakır'da tır ile otomobil çarpıştı: 24 yaşındaki Hüseyin Özbek yaşamını yitirdi",
+   "ozet": "Çınar ilçesi Şükürlü Mahallesi'nde tır ile otomobilin çarpıştığı kazada ağır yaralanan B.B. (22) hastaneye kaldırılırken, Hüseyin Özbek'in cenazesi morga sevk edildi. Olay yerine sağlık, itfaiye ve jandarma ekipleri yönlendirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-tir-ile-otomobil-carpisti-24-yasindaki-huseyin-ozbek-yasamini-yitirdi-43381943",
+   "zaman": "2026-11-18T08:27:53+03:00",
+   "kelimeler": [
+    "24",
+    "carpi",
+    "diyar",
+    "husey",
+    "otomo",
+    "ozbek",
+    "tir",
+    "yasam",
+    "yasin",
+    "yitir"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-18T08:33:13.649271+03:00",
+   "ig_id": "18127103299934102",
+   "reels_id": "18417722392086094",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1882986199719103",
+   "slayt": 5,
+   "kanca": "TIR VE OTOMOBİL ÇARPIŞTI"
   }
  },
  "kayit": [
+  "18.11 08:33:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Diyarbakır'da tır ile otomobil çarpıştı: 24 yaşındaki Hüseyin Özbek ya",
+  "18.11 08:31:16  3 yeni haber",
   "18.11 08:16:05  2 yeni haber",
   "18.11 08:01:30  3 yeni haber",
   "18.11 07:19:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Olası Marmara depreminde 58 ilden destek gelecek",
@@ -29515,9 +29600,7 @@
   "16.11 07:46:37  1 yeni haber",
   "16.11 07:16:37  10 yeni haber",
   "16.11 07:03:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Erzurum'da 3,6 büyüklüğünde deprem",
-  "16.11 07:01:24  1 yeni haber",
-  "16.11 06:46:14  1 yeni haber",
-  "16.11 06:31:30  2 yeni haber"
+  "16.11 07:01:24  1 yeni haber"
  ],
  "otomatik": false
 }
