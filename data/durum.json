@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "a543352dd4e9": {
-   "id": "a543352dd4e9",
-   "kaynak": "Hürriyet",
-   "baslik": "5 kente sarı kodlu sağanak alarmı: İstanbul için de gün verildi",
-   "ozet": "Hava tahmin raporunu yayımlayan Meteoroloji, Doğu Karadeniz kıyısındaki 5 il için yerel kuvvetli yağış uyarısında bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/5-kente-sari-kodlu-saganak-alarmi-istanbul-icin-de-gun-verildi-43378755",
-   "zaman": "2026-11-15T08:12:12+03:00",
-   "kelimeler": [
-    "alarm",
-    "gun",
-    "istan",
-    "kente",
-    "kodlu",
-    "sagan",
-    "sari",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "36e41db0052f": {
    "id": "36e41db0052f",
    "kaynak": "Hürriyet",
@@ -29301,9 +29278,47 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "a2d468b2179c": {
+   "id": "a2d468b2179c",
+   "kaynak": "TRT Haber",
+   "baslik": "Meteorolojiden 12 ile sarı kodlu uyarı",
+   "ozet": "Yurt genelinde bugün sağanak yağış ve kuvvetli rüzgar bekleniyor. Meteoroloji 12 il için sarı kodlu uyarı yaptı. Marmarada fırtına, Hatay, Kahramanmaraş ve Osmaniyede kuvvetli yağış bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-12-ile-sari-kodlu-uyari-963634.html",
+   "zaman": "2026-11-18T08:06:00+03:00",
+   "kelimeler": [
+    "12",
+    "kodlu",
+    "meteo",
+    "sari",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "95891eab8530": {
+   "id": "95891eab8530",
+   "kaynak": "NTV",
+   "baslik": "Marmara'da fırtına. BUDO, İDO ve Şehir Hatları seferleri iptal",
+   "ozet": "Marmara Denizi'nde kuvvetli lodos nedeniyle Bursa Deniz Otobüsleri (BUDO), İstanbul Deniz Otobüsleri (İDO) ve Şehir Hatları'nın bazı seferleri iptal edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budo-ido-ve-sehir-hatlari-seferleri-iptal-1751364",
+   "zaman": "2026-11-18T08:08:27+03:00",
+   "kelimeler": [
+    "budo",
+    "firti",
+    "hatla",
+    "ido",
+    "iptal",
+    "marma",
+    "sefer",
+    "sehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 08:16:05  2 yeni haber",
   "18.11 08:01:30  3 yeni haber",
   "18.11 07:19:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Olası Marmara depreminde 58 ilden destek gelecek",
   "18.11 07:09:31  18 yeni haber",
@@ -29502,8 +29517,7 @@
   "16.11 07:03:33  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Erzurum'da 3,6 büyüklüğünde deprem",
   "16.11 07:01:24  1 yeni haber",
   "16.11 06:46:14  1 yeni haber",
-  "16.11 06:31:30  2 yeni haber",
-  "16.11 04:31:24  2 yeni haber"
+  "16.11 06:31:30  2 yeni haber"
  ],
  "otomatik": false
 }
