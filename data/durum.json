@@ -28672,7 +28672,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cd497bad58f8": {
    "id": "cd497bad58f8",
@@ -28921,7 +28924,10 @@
     "verdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "72b93985413a": {
    "id": "72b93985413a",
@@ -28964,9 +28970,98 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "b2a174a97428": {
+   "id": "b2a174a97428",
+   "kaynak": "TRT Haber",
+   "baslik": "Polisten kaçan alkollü sürücüye 200 bin lira ceza",
+   "ozet": "Kayseri'nin Melikgazi ilçesinde polisin \"dur\" ihtarına uymayarak kaçan ve 0,17 promil alkollü olduğu belirlenen sürücüye 200 bin lira idari para cezası verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/polisten-kacan-alkollu-surucuye-200-bin-lira-ceza-963620.html",
+   "zaman": "2026-11-18T06:16:00+03:00",
+   "kelimeler": [
+    "200",
+    "alkol",
+    "bin",
+    "ceza",
+    "kacan",
+    "lira",
+    "polis",
+    "suruc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cf3942ea99f1": {
+   "id": "cf3942ea99f1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bahreyn: Hava savunma sistemlerimiz İran'ın hava saldırılarına karşılık verdi",
+   "ozet": "Bahreyn hava savunma sistemlerinin, İran tarafından düzenlendiği belirtilen \"bir dizi hava saldırısına\" karşı koyduğu bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/bahreyn-hava-savunma-sistemlerimiz-iranin-hava-saldirilarina-karsilik-verdi-963621.html",
+   "zaman": "2026-11-18T06:18:00+03:00",
+   "kelimeler": [
+    "bahre",
+    "hava",
+    "in",
+    "iran",
+    "karsi",
+    "saldi",
+    "savun",
+    "siste",
+    "verdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4fa7ed1b0099"
+  },
+  "3f2c5711e827": {
+   "id": "3f2c5711e827",
+   "kaynak": "TRT Haber",
+   "baslik": "Nvidia Yönetim Kurulu, Jensen Huang'ı yeniden CEO'luk görevine getirmeyi düşünmediklerini açıkladı",
+   "ozet": "Nvidia Yönetim Kurulu Başkanı Harvey Jones, şirketin eski Üst Yöneticisi CEO Jensen Huang'ı yeniden CEO'luk görevine getirmeyi düşünmediklerini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/nvidia-yonetim-kurulu-jensen-huangi-yeniden-ceoluk-gorevine-getirmeyi-dusunmediklerini-acikladi-963622.html",
+   "zaman": "2026-11-18T06:20:00+03:00",
+   "kelimeler": [
+    "ceo",
+    "dusun",
+    "getir",
+    "gorev",
+    "huang",
+    "jense",
+    "kurul",
+    "luk",
+    "nvidi",
+    "yenid",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ae7fa0081113"
+  },
+  "bc831e2d9dbe": {
+   "id": "bc831e2d9dbe",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze Barış Kurulundan, ateşkese tam uyulmadığı takdirde anlaşmanın çökeceği uyarısı",
+   "ozet": "ABD arabuluculuğuyla Gazze'de sağlanan ateşkesi denetleyen kurum olan Gazze Barış Kurulu'nun Birleşmiş Milletler Güvenlik Konseyi'ne BMGK sunduğu raporda, ateşkes şartlarına tam uyulmadığı takdirde anlaşmanın çökeceği uyarısında bulunulduğu belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/gazze-baris-kurulundan-ateskese-tam-uyulmadigi-takdirde-anlasmanin-cokecegi-uyarisi-963623.html",
+   "zaman": "2026-11-18T06:21:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "atesk",
+    "baris",
+    "cokec",
+    "gazze",
+    "kurul",
+    "takdi",
+    "tam",
+    "uyari",
+    "uyulm"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 06:31:20  2 yeni haber",
   "18.11 06:17:02  1 yeni haber",
   "18.11 05:46:05  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "18.11 05:16:44  1 yeni haber",
@@ -29165,8 +29260,7 @@
   "16.11 04:31:24  2 yeni haber",
   "16.11 04:01:56  1 yeni haber",
   "16.11 03:46:13  1 yeni haber",
-  "16.11 03:16:27  1 yeni haber",
-  "16.11 03:01:33  3 yeni haber"
+  "16.11 03:16:27  1 yeni haber"
  ],
  "otomatik": false
 }
