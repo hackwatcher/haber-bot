@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "36ee90ada7ae": {
-   "id": "36ee90ada7ae",
-   "kaynak": "AA",
-   "baslik": "NATO: Bir sonraki zirve Arnavutluk'ta düzenlenecek, henüz tarihi belli değil",
-   "ozet": "NATO, bir sonraki liderler zirvesinin Arnavutluk'ta düzenleneceğini, ancak zirvenin tarihinin henüz belirlenmediğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/nato-bir-sonraki-zirve-arnavutlukta-duzenlenecek-henuz-tarihi-belli-degil-/4126035",
-   "zaman": "2026-11-15T23:35:39+03:00",
-   "kelimeler": [
-    "arnav",
-    "belli",
-    "degil",
-    "duzen",
-    "henuz",
-    "nato",
-    "sonra",
-    "ta",
-    "tarih",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "07a67d561a9b": {
-   "id": "07a67d561a9b",
-   "kaynak": "TRT Haber",
-   "baslik": "Nevşehir'de ata çarpan yolcu otobüsünde bir kişi öldü, 2 kişi yaralandı",
-   "ozet": "Nevşehir'de kara yoluna çıkan ata çarpan yolcu otobüsünün sürücüsü ile bir yolcu yaralandı, yedek sürücünün hayatını kaybetti.",
-   "link": "https://www.trthaber.com/haber/turkiye/nevsehirde-ata-carpan-yolcu-otobusunde-bir-kisi-oldu-2-kisi-yaralandi-963364.html",
-   "zaman": "2026-11-15T23:36:00+03:00",
-   "kelimeler": [
-    "ata",
-    "carpa",
-    "kisi",
-    "nevse",
-    "otobu",
-    "yaral",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "eaaed00a6f97": {
    "id": "eaaed00a6f97",
    "kaynak": "XHABER",
@@ -32328,7 +32281,10 @@
     "yasin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "088b88d9b14a": {
    "id": "088b88d9b14a",
@@ -32432,10 +32388,144 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "f23252ebb0e1": {
+   "id": "f23252ebb0e1",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum: Ortak zemini büyütelim ve mümkün olanı somutlaştıralım",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"COP31'in son günlerine yaklaşırken Divan'ın ruhunu burada yaşatalım, birbirimizi duyalım, ortak zemini büyütelim ve mümkün olanı somutlaştıralım diyorum.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-ortak-zemini-buyutelim-ve-mumkun-olani-somutlastiralim/4129583",
+   "zaman": "2026-11-18T18:43:09+03:00",
+   "kelimeler": [
+    "bakan",
+    "buyut",
+    "kurum",
+    "mumku",
+    "olani",
+    "ortak",
+    "somut",
+    "zemin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bc542debfd1f": {
+   "id": "bc542debfd1f",
+   "kaynak": "AA",
+   "baslik": "NYT: Trump, Vance'in \"seçimleri İran savaşı yüzünden kaybettikleri\" açıklamasından rahatsız",
+   "ozet": "ABD medyası, Başkan Donald Trump'ın, Başkan Yardımcısı JD Vance'in \"3 Kasım'daki seçimleri, İran'la savaş yüzünden kaybettikleri\" yönündeki açıklamasından rahatsız olduğunu iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/nyt-trump-vancein-secimleri-iran-savasi-yuzunden-kaybettikleri-aciklamasindan-rahatsiz/4129810",
+   "zaman": "2026-11-18T23:22:43+03:00",
+   "kelimeler": [
+    "acikl",
+    "in",
+    "iran",
+    "kaybe",
+    "nyt",
+    "rahat",
+    "savas",
+    "secim",
+    "trump",
+    "vance",
+    "yuzun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f2668ba2a73b": {
+   "id": "f2668ba2a73b",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: Antalya'da güçlü bir mutabakat ortaya koymakta kararlıyız",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Biz, süreci izleyen değil, yön veren, uzlaşıyı bekleyen değil, uzlaşının zeminini inşa eden bir başkanlık anlayışıyla hareket ettik. Son güne kadar da böyle olacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-kurum-antalyada-guclu-bir-mutabakat-ortaya-koymakta-kararliyiz-963730.html",
+   "zaman": "2026-11-18T23:26:00+03:00",
+   "kelimeler": [
+    "antal",
+    "bakan",
+    "guclu",
+    "karar",
+    "koyma",
+    "kurum",
+    "mutab",
+    "ortay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17bfcd063995": {
+   "id": "17bfcd063995",
+   "kaynak": "Hürriyet",
+   "baslik": "Tokat'ta korkunç kaza: 2 yaşındaki çocuk öldü, 6 yaralı",
+   "ozet": "Tokat'ın Niksar ilçesinde iki otomobilin çarpıştığı kazada 2 yaşındaki Zehra Erva Ablak hayatını kaybetti, 2’si çocuk 6 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/tokatta-korkunc-kaza-2-yasindaki-cocuk-oldu-6-yarali-43383120",
+   "zaman": "2026-11-18T23:36:08+03:00",
+   "kelimeler": [
+    "cocuk",
+    "kaza",
+    "korku",
+    "ta",
+    "tokat",
+    "yaral",
+    "yasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8a08e502f86a"
+  },
+  "d32eb0582740": {
+   "id": "d32eb0582740",
+   "kaynak": "AA",
+   "baslik": "İran ordusu: Hürmüz Boğazı'nın doğusunda 3 petrol tankeri mayına çarparak alev aldı",
+   "ozet": "İran ordusu, Hürmüz Boğazı'nın doğusunda, seyrüsefer sistemlerini kapatarak izin verilmeyen bölgede ilerleyen 3 petrol tankerinin deniz mayınlarına çarparak alev aldığını ve seyrinin durduğunu duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-3-petrol-tankeri-mayina-carparak-alev-aldi/4129823",
+   "zaman": "2026-11-18T23:39:46+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "bogaz",
+    "carpa",
+    "dogus",
+    "hurmu",
+    "iran",
+    "mayin",
+    "nin",
+    "ordus",
+    "petro",
+    "tanke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab1fc37c841e": {
+   "id": "ab1fc37c841e",
+   "kaynak": "NTV",
+   "baslik": "Fed tutanakları yetkililerin neredeyse tamamının ilave faiz artışı beklediğini gösterdi",
+   "ozet": "Fed'in ekim ayı toplantı tutanakları, enflasyon endişelerinin sürdüğünü gösterdi. Yetkililerin büyük çoğunluğu, önümüzdeki aylarda ilave faiz artırımlarının uygun olabileceğini değerlendirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi-1751516",
+   "zaman": "2026-11-18T23:41:07+03:00",
+   "kelimeler": [
+    "artis",
+    "bekle",
+    "faiz",
+    "fed",
+    "goste",
+    "ilave",
+    "nered",
+    "tamam",
+    "tutan",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f2bdb64180f8"
   }
  },
  "kayit": [
+  "18.11 23:46:00  4 yeni haber",
   "18.11 23:16:17  2 yeni haber",
   "18.11 23:01:25  9 yeni haber",
   "18.11 22:01:26  7 yeni haber",
@@ -32634,8 +32724,7 @@
   "16.11 16:16:01  6 yeni haber",
   "16.11 16:05:38  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Trafikte kazası yapan Kadın sürücü çarptığı motora çarpmadığını belirt",
   "16.11 16:02:12  2 yeni haber",
-  "16.11 15:46:06  10 yeni haber",
-  "16.11 15:31:24  4 yeni haber"
+  "16.11 15:46:06  10 yeni haber"
  ],
  "otomatik": false
 }
