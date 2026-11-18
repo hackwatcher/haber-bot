@@ -27545,7 +27545,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "26645bdb86e3": {
    "id": "26645bdb86e3",
@@ -28914,9 +28916,48 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1d856189dde2": {
+   "id": "1d856189dde2",
+   "kaynak": "TRT Haber",
+   "baslik": "Kayseri'de zincirleme trafik kazası: 2 yaralı",
+   "ozet": "Kayseri'nin Melikgazi ilçesinde 4 aracın karıştığı zincirleme trafik kazasında 2 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kayseride-zincirleme-trafik-kazasi-2-yarali-963617.html",
+   "zaman": "2026-11-18T03:44:00+03:00",
+   "kelimeler": [
+    "kayse",
+    "kazas",
+    "trafi",
+    "yaral",
+    "zinci"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "bccf76a80fa5": {
+   "id": "bccf76a80fa5",
+   "kaynak": "NTV",
+   "baslik": "Marmara'da fırtına. BUDO'nun 12 seferi iptal edildi",
+   "ozet": "Bursa Deniz Otobüsleri (BUDO) işletmesinden yapılan bilgilendirmede olumsuz hava koşulları sebebiyle 12 seferin iptal edildiği belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budonun-12-seferi-iptal-edildi-1751364",
+   "zaman": "2026-11-18T04:00:21+03:00",
+   "kelimeler": [
+    "12",
+    "budo",
+    "edild",
+    "firti",
+    "iptal",
+    "marma",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3408db6ee7f4"
   }
  },
  "kayit": [
+  "18.11 04:01:22  1 yeni haber",
   "18.11 03:46:06  4 yeni haber",
   "18.11 02:46:02  2 yeni haber",
   "18.11 02:16:18  1 yeni haber",
@@ -29115,8 +29156,7 @@
   "16.11 02:31:21  1 yeni haber",
   "16.11 02:16:18  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "16.11 02:01:45  3 yeni haber",
-  "16.11 01:46:08  1 yeni haber",
-  "16.11 01:31:50  1 yeni haber"
+  "16.11 01:46:08  1 yeni haber"
  ],
  "otomatik": false
 }
