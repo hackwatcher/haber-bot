@@ -27546,7 +27546,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "26645bdb86e3": {
@@ -28954,9 +28955,72 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3408db6ee7f4"
+  },
+  "b07f8d517848": {
+   "id": "b07f8d517848",
+   "kaynak": "AA",
+   "baslik": "Bahreyn: Hava savunma sistemlerimiz İran hava saldırılarına karşılık verdi",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/dunya/bahreyn-hava-savunma-sistemlerimiz-iran-hava-saldirilarina-karsilik-verdi/4128444",
+   "zaman": "2026-11-18T00:59:01+03:00",
+   "kelimeler": [
+    "bahre",
+    "hava",
+    "iran",
+    "karsi",
+    "saldi",
+    "savun",
+    "siste",
+    "verdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "654ac51e8d87"
+  },
+  "d2a5d633566f": {
+   "id": "d2a5d633566f",
+   "kaynak": "TRT Haber",
+   "baslik": "BUDO'nun 12 seferi iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin BUDO bugün gerçekleştirilecek 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/budonun-12-seferi-iptal-edildi-963618.html",
+   "zaman": "2026-11-18T03:51:00+03:00",
+   "kelimeler": [
+    "12",
+    "budo",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3408db6ee7f4"
+  },
+  "de714d7daa23": {
+   "id": "de714d7daa23",
+   "kaynak": "Hürriyet",
+   "baslik": "Düzce’de'de feci kaza! Otomobil, kırmızı ışıkta duran TIR’a çarptı: 1 ölü",
+   "ozet": "Düzce’de, D-100 kara yolunda kırmızı ışıkta duran TIR’a arkadan çarpan otomobilin sürücü Ahmet Gülbahar hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/duzcedede-feci-kaza-otomobil-kirmizi-isikta-duran-tira-carpti-1-olu-43381904",
+   "zaman": "2026-11-18T04:10:51+03:00",
+   "kelimeler": [
+    "carpt",
+    "duran",
+    "duzce",
+    "feci",
+    "isikt",
+    "kaza",
+    "kirmi",
+    "olu",
+    "otomo",
+    "tir"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "18.11 04:16:08  1 yeni haber",
   "18.11 04:01:22  1 yeni haber",
   "18.11 03:46:06  4 yeni haber",
   "18.11 02:46:02  2 yeni haber",
@@ -29155,8 +29219,7 @@
   "16.11 03:01:33  3 yeni haber",
   "16.11 02:31:21  1 yeni haber",
   "16.11 02:16:18  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "16.11 02:01:45  3 yeni haber",
-  "16.11 01:46:08  1 yeni haber"
+  "16.11 02:01:45  3 yeni haber"
  ],
  "otomatik": false
 }
