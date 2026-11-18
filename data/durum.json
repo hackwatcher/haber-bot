@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "76ca2743345b": {
-   "id": "76ca2743345b",
-   "kaynak": "Sözcü",
-   "baslik": "5 araç birbirine girdi! Çok sayıda yaralı var",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/5-arac-birbirine-girdi-cok-sayida-yarali-var-p381657",
-   "zaman": "2026-11-15T22:15:21+03:00",
-   "kelimeler": [
-    "arac",
-    "birbi",
-    "girdi",
-    "sayid",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "89ef1735e30a": {
    "id": "89ef1735e30a",
    "kaynak": "AA",
@@ -34,29 +17,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "267a49428b32": {
-   "id": "267a49428b32",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye İklim Okulu gastronomi ve sıfır atık etkinlikleriyle COP31'de ilgi odağı oldu",
-   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen TRT'nin ev sahibi yayıncı kuruluş olduğu Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31.",
-   "link": "https://www.trthaber.com/haber/turkiye/turkiye-iklim-okulu-gastronomi-ve-sifir-atik-etkinlikleriyle-cop31de-ilgi-odagi-oldu-963359.html",
-   "zaman": "2026-11-15T22:07:00+03:00",
-   "kelimeler": [
-    "atik",
-    "cop31",
-    "etkin",
-    "gastr",
-    "iklim",
-    "ilgi",
-    "odagi",
-    "okulu",
-    "sifir",
-    "turki"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "99618a49f537"
   },
   "e2818bb3d217": {
    "id": "e2818bb3d217",
@@ -32168,7 +32128,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "AA",
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "0b4c79714ffc": {
@@ -32315,6 +32276,26 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bd3e20ce9d61": {
+   "id": "bd3e20ce9d61",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan, BAE'li ve Azerbaycanlı mevkidaşlarıyla görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, BAE Başbakan Yardımcısı ve Dışişleri Bakanı Şeyh Abdullah bin Zayid Al Nahyan ve Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile görüşme gerçekleştirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-baeli-ve-azerbaycanli-mevkidaslariyla-gorustu-963726.html",
+   "zaman": "2026-11-18T21:32:00+03:00",
+   "kelimeler": [
+    "azerb",
+    "bae",
+    "bakan",
+    "fidan",
+    "gorus",
+    "li",
+    "mevki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a7b5c20fd8f5"
   }
  },
  "kayit": [
