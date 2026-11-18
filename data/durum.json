@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "5faac3106950": {
-   "id": "5faac3106950",
-   "kaynak": "NTV",
-   "baslik": "Otobüs ata çarptı. Yedek şoför hayatını kaybetti",
-   "ozet": "Nevşehir'de karayoluna çıkan ata çarpan şehirlerarası yolcu otobüsünün sürücüsü ile bir yolcu yaralandı, yedek sürücü hayatını kaybetti.",
-   "link": "https://www.ntv.com.tr/turkiye/otobus-ata-carpti-yedek-sofor-hayatini-kaybetti-1751047",
-   "zaman": "2026-11-16T02:00:39+03:00",
-   "kelimeler": [
-    "ata",
-    "carpt",
-    "hayat",
-    "kaybe",
-    "otobu",
-    "sofor",
-    "yedek"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4270e584479d": {
-   "id": "4270e584479d",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Türkiye, Uluslar Ligi'nde Fransa’ya 2-1 yenildi",
-   "ozet": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'taki altıncı maçından da puansız ayrıldı. Deplasmanda Fransa’ya 2-1 yenildi.",
-   "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo",
-   "zaman": "2026-11-16T02:13:45+03:00",
-   "kelimeler": [
-    "frans",
-    "ligi",
-    "nde",
-    "turki",
-    "ulusl",
-    "ya",
-    "yenil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "eaaed00a6f97"
-  },
   "3badb63f5df9": {
    "id": "3badb63f5df9",
    "kaynak": "XHABER",
@@ -20443,7 +20404,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "26645bdb86e3": {
@@ -32655,9 +32617,109 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d9687ad2f2fe": {
+   "id": "d9687ad2f2fe",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu, Gazze'nin orta kesiminde işgalini \"Sarı Hat\"ın ötesine taşıdığını açıkladı",
+   "ozet": "İsrail ordusu, Gazze Şeridi'nin orta kesiminde işgalini ateşkesle belirlenen \"Sarı Hat\"ın ötesine taşıdığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzenin-orta-kesiminde-isgalini-sari-hatin-otesine-tasidigini-acikladi/4129847",
+   "zaman": "2026-11-19T00:08:54+03:00",
+   "kelimeler": [
+    "gazze",
+    "hat",
+    "in",
+    "isgal",
+    "israi",
+    "kesim",
+    "nin",
+    "ordus",
+    "orta",
+    "otesi",
+    "sari",
+    "tasid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "046e9cd688d5": {
+   "id": "046e9cd688d5",
+   "kaynak": "AA",
+   "baslik": "Zelenskiy, Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da düzenleneceğini belirtti",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Ukrayna konusundaki Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da düzenleneceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-gonulluler-koalisyonu-toplantisinin-19-kasimda-almanyada-duzenlenecegini-belirtti-/4129850",
+   "zaman": "2026-11-19T00:10:45+03:00",
+   "kelimeler": [
+    "19",
+    "alman",
+    "belir",
+    "duzen",
+    "gonul",
+    "kasim",
+    "koali",
+    "topla",
+    "zelen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e3becfa05365": {
+   "id": "e3becfa05365",
+   "kaynak": "Hürriyet",
+   "baslik": "Pilot Lisans Yönetmeliği'nde değişiklik",
+   "ozet": "Pilot Lisans Yönetmeliği'nde yapılan değişiklik kapsamında, pilot lisansı için başvuru yapacak adayların, 'göçmen kaçaklığı ve insan ticareti', 'cinsel dokunulmazlığa karşı' suçlar, 'uyuşturucu veya uyarıcı madde imal ve ticareti' gibi suçlardan hüküm giymemiş olması gerekecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/pilot-lisans-yonetmeliginde-degisiklik-43383174",
+   "zaman": "2026-11-19T01:45:04+03:00",
+   "kelimeler": [
+    "degis",
+    "lisan",
+    "nde",
+    "pilot",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c7129712881b": {
+   "id": "c7129712881b",
+   "kaynak": "Hürriyet",
+   "baslik": "BUDO'nun 12 seferi iptal edildi",
+   "ozet": "BUDO'nun 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/budonun-12-seferi-iptal-edildi-43383175",
+   "zaman": "2026-11-19T01:47:32+03:00",
+   "kelimeler": [
+    "12",
+    "budo",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3408db6ee7f4"
+  },
+  "d86880a40bca": {
+   "id": "d86880a40bca",
+   "kaynak": "AA",
+   "baslik": "UKMTO: Umman açıklarında bir tanker saldırıya uğradı",
+   "ozet": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 6 deniz mili kuzeyinde bir tanker gemisinin saldırıya uğradığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi/4129894",
+   "zaman": "2026-11-19T01:51:45+03:00",
+   "kelimeler": [
+    "acikl",
+    "saldi",
+    "tanke",
+    "ugrad",
+    "ukmto",
+    "umman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 02:16:42  4 yeni haber",
   "19.11 01:45:59  2 yeni haber",
   "19.11 01:34:04  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tokat'ta 2 otomobilin çarpıştığı kazada 2 yaşındaki çocuk öldü",
   "19.11 01:31:17  4 yeni haber",
@@ -32856,8 +32918,7 @@
   "16.11 17:48:36  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Cumhurbaşkanı Erdoğan, Sezai Karakoç'u andı",
   "16.11 17:46:52  6 yeni haber",
   "16.11 17:16:20  4 yeni haber",
-  "16.11 17:02:02  5 yeni haber",
-  "16.11 16:46:18  7 yeni haber"
+  "16.11 17:02:02  5 yeni haber"
  ],
  "otomatik": false
 }
