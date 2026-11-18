@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "7ec30cebe636": {
-   "id": "7ec30cebe636",
-   "kaynak": "AA",
-   "baslik": "Bakan Kurum, \"The COP31 Bike Ride\" ekibiyle bir araya geldi",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, mayıs ayında Brezilya'dan yola çıkarak bisikletle Antalya'ya ulaşan \"The COP31 Bike Ride\" ekibiyle buluştu.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-the-cop31-bike-ride-ekibiyle-bir-araya-geldi/4125701",
-   "zaman": "2026-11-15T13:37:16+03:00",
-   "kelimeler": [
-    "araya",
-    "bakan",
-    "bike",
-    "cop31",
-    "ekibi",
-    "geldi",
-    "kurum",
-    "ride",
-    "the"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6fbae53c1997"
-  },
-  "b35ddbbeddac": {
-   "id": "b35ddbbeddac",
-   "kaynak": "Hürriyet",
-   "baslik": "Sabaha karşı köy yolunda operasyon: 11 kaçak göçmen yakalandı, organizatör gözaltında",
-   "ozet": "Edirne Uzunköprü'de jandarmanın takibi sonucu durdurulan araçta 5 farklı ülkeye mensup 11 yabancı uyruklu şahıs yakalandı. Kaçak geçişi organize eden sürücüye hem 211 bin liralık idari para cezası kesildi hem de hakkında adli işlem başlatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sabaha-karsi-koy-yolunda-operasyon-11-kacak-gocmen-yakalandi-organizator-gozaltinda-43379107",
-   "zaman": "2026-11-15T13:38:00+03:00",
-   "kelimeler": [
-    "11",
-    "gocme",
-    "gozal",
-    "kacak",
-    "karsi",
-    "koy",
-    "opera",
-    "organ",
-    "sabah",
-    "yakal",
-    "yolun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "adb90e78ef8b": {
    "id": "adb90e78ef8b",
    "kaynak": "TRT Haber",
@@ -30662,7 +30617,10 @@
     "yapar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "6d0e1a96ee58": {
    "id": "6d0e1a96ee58",
@@ -31057,9 +31015,125 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "233e3a31f7f3": {
+   "id": "233e3a31f7f3",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan: Fon süreci şeffaf yönetiliyor! Geri ödemelerde bir kuruş kamu kaynağı kullanılmadı",
+   "ozet": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin TBMM Grup toplantısında açıklamalarda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-fon-sureci-seffaf-yonetiliyor-geri-odemelerde-bir-kurus-kamu-kaynagi-kullanilmadi-43382215",
+   "zaman": "2026-11-18T12:35:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "fon",
+    "geri",
+    "kamu",
+    "kayna",
+    "kulla",
+    "kurus",
+    "odeme",
+    "seffa",
+    "surec",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110c48f84b98"
+  },
+  "88aebcae6c3c": {
+   "id": "88aebcae6c3c",
+   "kaynak": "AA",
+   "baslik": "Geleneksel Türk hat sanatı COP31'de uluslararası ziyaretçilere tanıtılıyor",
+   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında açılan \"Yaşayan Miras Hüsni Hat\" sergisi, geleneksel Türk hat sanatının inceliklerini uluslararası ziyaretçilere tanıtıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/geleneksel-turk-hat-sanati-cop31de-uluslararasi-ziyaretcilere-tanitiliyor/4128977",
+   "zaman": "2026-11-18T13:15:54+03:00",
+   "kelimeler": [
+    "cop31",
+    "gelen",
+    "hat",
+    "sanat",
+    "tanit",
+    "turk",
+    "ulusl",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "05fdcc2547d2": {
+   "id": "05fdcc2547d2",
+   "kaynak": "AA",
+   "baslik": "BM raportörleri: İsrail Batı Şeria'da etnik temizlik yaparken insan hakları savunucularını hedef alıyor",
+   "ozet": "Birleşmiş Milletler (BM) raportörleri, İsrail'in işgal altındaki Batı Şeria'da etnik temizlik yaparken insan hakları savunucularını da hedef aldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-raportorleri-israil-bati-seriada-etnik-temizlik-yaparken-insan-haklari-savunucularini-hedef-aliyor/4129009",
+   "zaman": "2026-11-18T13:21:33+03:00",
+   "kelimeler": [
+    "aliyo",
+    "bati",
+    "bm",
+    "etnik",
+    "hakla",
+    "hedef",
+    "insan",
+    "israi",
+    "rapor",
+    "savun",
+    "seria",
+    "temiz",
+    "yapar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5bce58b14b1c"
+  },
+  "8356da65cbf0": {
+   "id": "8356da65cbf0",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İtalya Parlamentosu'ndan geçen 'Antisemitizmle mücadele' yasası neden tartışma yarattı?",
+   "ozet": "İtalya Parlamentosu tartışmalı bir antisemitizm karşıtı yasayı onayladı. Muhalefet ve hak örgütleri İsrail hükümetini eleştirmenin de yasaklanacağı gerekçesiyle yasaya karşı çıkıyordu.",
+   "link": "https://www.bbc.com/turkce/articles/cmpw4xqgwqg1o",
+   "zaman": "2026-11-18T13:32:34+03:00",
+   "kelimeler": [
+    "antis",
+    "gecen",
+    "italy",
+    "mucad",
+    "ndan",
+    "neden",
+    "parla",
+    "tarti",
+    "yarat",
+    "yasas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0bf9f6413d1d": {
+   "id": "0bf9f6413d1d",
+   "kaynak": "Hürriyet",
+   "baslik": "Eşiyle şifreli plan yaptı, çalınan telefonunu satan şüpheliyi AVM’de yakalattı",
+   "ozet": "Merkezefendi’de telefonu çalınan Şahin Aktaş, yaklaşık iki gün önce sosyal medyada anakartsız olarak satışa çıkarılan cihazın kendi telefonuna ait olduğunu üzerindeki darbe izinden anladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/esiyle-sifreli-plan-yapti-calinan-telefonunu-satan-supheliyi-avmde-yakalatti-43382457",
+   "zaman": "2026-11-18T13:32:52+03:00",
+   "kelimeler": [
+    "avm",
+    "calin",
+    "esiyl",
+    "plan",
+    "satan",
+    "sifre",
+    "suphe",
+    "telef",
+    "yakal",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 13:42:43  3 yeni haber",
   "18.11 13:31:32  11 yeni haber",
   "18.11 13:16:07  11 yeni haber",
   "18.11 12:48:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türk bayrağını selamlarken hastanelik oldu",
@@ -31258,8 +31332,7 @@
   "16.11 11:01:44  8 yeni haber",
   "16.11 10:46:08  7 yeni haber",
   "16.11 10:34:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İstanbul'da korkunç ölüm: Otomobil çarptı, servis aracı üzerinden geçt",
-  "16.11 10:31:48  6 yeni haber",
-  "16.11 10:16:07  5 yeni haber"
+  "16.11 10:31:48  6 yeni haber"
  ],
  "otomatik": false
 }
