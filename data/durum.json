@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "fd7f198dbce1": {
-   "id": "fd7f198dbce1",
-   "kaynak": "NTV",
-   "baslik": "Önce sağanak sonra fırtına. Hava bir anda değişecek, sıcaklık 20 dereceye yükselecek",
-   "ozet": "Bugün Doğu Karadeniz'de şiddetli yağış ve fırtına bekleniyor. Soğuk havanın hakim olduğu İstanbul'a salı günü şiddetli yağış geliyor. Hafta ortasından itibaren ise hava bir anda değişecek.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-once-saganak-sonra-firtina-hava-bir-anda-degisecek-sicaklik-20-dereceye-yukselecek-1750930",
-   "zaman": "2026-11-15T10:19:27+03:00",
-   "kelimeler": [
-    "20",
-    "anda",
-    "degis",
-    "derec",
-    "firti",
-    "hava",
-    "sagan",
-    "sicak",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "30feec3c686e": {
-   "id": "30feec3c686e",
-   "kaynak": "Hürriyet",
-   "baslik": "Koltuk yerine sandalye koyup yola çıktılar: Sanayi sitesindeki ilginç anlar kamerada",
-   "ozet": "Antakya'da tamir aşamasındaki kamyonetin sökülen koltuğunun yerine konulan sandalye üzerinde yapılan yolculuk çevredekilerin dikkatini çekti. Şasisi üzerinde trafikte ilerleyen araçtaki o anlar kaydedildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/koltuk-yerine-sandalye-koyup-yola-ciktilar-sanayi-sitesindeki-ilginc-anlar-kamerada-43378859",
-   "zaman": "2026-11-15T10:25:28+03:00",
-   "kelimeler": [
-    "anlar",
-    "cikti",
-    "ilgin",
-    "kamer",
-    "koltu",
-    "koyup",
-    "sanay",
-    "sanda",
-    "sites",
-    "yerin",
-    "yola"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fbe389f643ef": {
-   "id": "fbe389f643ef",
-   "kaynak": "AA",
-   "baslik": "Zorunlu kış lastiği uygulaması başladı",
-   "ozet": "Şehirler arası yollarda yolcu ve eşya taşımacılığı yapan tüm ticari araçlar için kış lastiği kullanma zorunluluğu başladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/zorunlu-kis-lastigi-uygulamasi-basladi/4125545",
-   "zaman": "2026-11-15T10:29:35+03:00",
-   "kelimeler": [
-    "basla",
-    "kis",
-    "lasti",
-    "uygul",
-    "zorun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4f0672febec9"
-  },
   "fe3201f5330c": {
    "id": "fe3201f5330c",
    "kaynak": "AA",
@@ -29658,7 +29596,10 @@
     "kurul"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "c9eaf27975de": {
    "id": "c9eaf27975de",
@@ -30107,10 +30048,311 @@
     "uyari"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ]
+  },
+  "3006ad140a90": {
+   "id": "3006ad140a90",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin COP31'deki küresel elektrifikasyonu yüzde 35'e çıkarma hedefine 75 ülke desteğini açıkladı",
+   "ozet": "Türkiye'nin COP31 Başkanlığı kapsamında açıkladığı küresel elektrifikasyon oranını 2035'e kadar yüzde 35'e çıkarma hedefine şu ana kadar 75 ülke desteğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/cop31/turkiyenin-cop31deki-kuresel-elektrifikasyonu-yuzde-35e-cikarma-hedefine-75-ulke-destegini-acikladi/4128554",
+   "zaman": "2026-11-18T09:46:38+03:00",
+   "kelimeler": [
+    "35",
+    "75",
+    "cikar",
+    "cop31",
+    "deki",
+    "deste",
+    "elekt",
+    "hedef",
+    "kures",
+    "nin",
+    "turki",
+    "ulke",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "09fd3263c0c2"
+  },
+  "8071bcd2bd29": {
+   "id": "8071bcd2bd29",
+   "kaynak": "TRT Haber",
+   "baslik": "Üçüncü çeyrek işsizlik rakamları açıklandı",
+   "ozet": "Türkiye'de işsizlik oranı, yılın üçüncü çeyreğinde ikinci çeyreğe göre 0,1 puan artışla yüzde 8,1 oldu. Söz konusu dönemde işsiz sayısı 2 milyon 870 bin kişiye yükseldi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ucuncu-ceyrek-issizlik-rakamlari-aciklandi-963653.html",
+   "zaman": "2026-11-18T10:07:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ceyre",
+    "issiz",
+    "rakam",
+    "ucunc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "47c5246d806f": {
+   "id": "47c5246d806f",
+   "kaynak": "TRT Haber",
+   "baslik": "Brent petrolün varili 91,71 dolardan işlem görüyor",
+   "ozet": "Brent petrolün varili, uluslararası vadeli piyasalarda 91,71 dolardan işlem görüyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/brent-petrolun-varili-9171-dolardan-islem-goruyor-963654.html",
+   "zaman": "2026-11-18T10:12:00+03:00",
+   "kelimeler": [
+    "71",
+    "91",
+    "brent",
+    "dolar",
+    "goruy",
+    "islem",
+    "petro",
+    "varil"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "bb9fa38d718c": {
+   "id": "bb9fa38d718c",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul için lodos uyarısı",
+   "ozet": "İstanbul Büyükşehir Belediyesi İBB Afet Koordinasyon Merkezi AKOM, kentte bugünden itibaren etkisini artırması beklenen rüzgarın cuma günü saatte 85 kilometre hıza ulaşabileceğini bildirerek, vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-lodos-uyarisi-963655.html",
+   "zaman": "2026-11-18T10:13:00+03:00",
+   "kelimeler": [
+    "istan",
+    "lodos",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dab1e5bc98b2"
+  },
+  "0fad940483ac": {
+   "id": "0fad940483ac",
+   "kaynak": "Hürriyet",
+   "baslik": "10,3 milyar liralık aklama soruşturmasında firari lider B.Ç. yakalandı",
+   "ozet": "Uyuşturucu ticaretinden elde edilen gelirleri şirket faaliyetleri ve finansal işlemlerle akladıkları belirlenen \"Çobanlar Grubu\"na yönelik soruşturmada firari lider B.Ç., gece saatlerinde 2 kişiyle birlikte yakalanarak gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/10-3-milyar-liralik-aklama-sorusturmasinda-firari-lider-b-c-yakalandi-43382088",
+   "zaman": "2026-11-18T10:16:00+03:00",
+   "kelimeler": [
+    "10",
+    "aklam",
+    "firar",
+    "lider",
+    "liral",
+    "milya",
+    "sorus",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ad1a9ac962c3": {
+   "id": "ad1a9ac962c3",
+   "kaynak": "Hürriyet",
+   "baslik": "146 makas darbesiyle Arzu'yu katletmişti: Caninin ifadesinde şoke eden sözler",
+   "ozet": "Bursa'da geçtiğimiz yıl tüyler ürperten bir kadın cinayeti yaşanmıştı. Salican Mehmet isimli kişi, iki çocuğunun annesi olan 20 yaşındaki Arzu Khalılova'yı 146 bıçak darbesiyle katletmişti. Mehmet'in emniyette verdiği ifade ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/146-makas-darbesiyle-arzuyu-katletmisti-caninin-ifadesinde-soke-eden-sozler-43382036",
+   "zaman": "2026-11-18T10:18:00+03:00",
+   "kelimeler": [
+    "146",
+    "arzu",
+    "canin",
+    "darbe",
+    "eden",
+    "ifade",
+    "katle",
+    "makas",
+    "soke",
+    "sozle",
+    "yu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b66d5354fa67": {
+   "id": "b66d5354fa67",
+   "kaynak": "AA",
+   "baslik": "İşsizlik rakamları açıklandı",
+   "ozet": "Türkiye'de işsizlik oranı, bu yılın üçüncü çeyreğinde bir önceki çeyreğe göre 0,1 puan artışla yüzde 8,1 oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/issizlik-rakamlari-aciklandi/4128600",
+   "zaman": "2026-11-18T10:18:57+03:00",
+   "kelimeler": [
+    "acikl",
+    "issiz",
+    "rakam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8071bcd2bd29"
+  },
+  "90ab6c3f28fc": {
+   "id": "90ab6c3f28fc",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin geri dönüşüm modeli DOA, COP31'de örnek gösteriliyor",
+   "ozet": "Türkiye'nin 81 ilde uyguladığı Depozito Yönetim Sistemi kapsamında bugüne kadar 775 milyon ambalaj toplandı. COP31'in Antalya'daki etkinlik alanlarında ise bir haftada 10 bin 100 ambalaj geri dönüşüme kazandırıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-geri-donusum-modeli-doa-cop31de-ornek-gosteriliyor-963658.html",
+   "zaman": "2026-11-18T10:19:00+03:00",
+   "kelimeler": [
+    "cop31",
+    "doa",
+    "donus",
+    "geri",
+    "goste",
+    "model",
+    "nin",
+    "ornek",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "310540753635": {
+   "id": "310540753635",
+   "kaynak": "AA",
+   "baslik": "BAE'nin ulusal petrol şirketi ADNOC, bir gemisinin Hürmüz Boğazı'nda saldırıya uğradığını duyurdu",
+   "ozet": "Birleşik Arap Emirlikleri'nin (BAE) ulusal petrol şirketi ADNOC'a ait bir geminin, Hürmüz Boğazı'ndan geçişi sırasında saldırıya uğradığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/baenin-ulusal-petrol-sirketi-adnoc-bir-gemisinin-hurmuz-bogazinda-saldiriya-ugradigini-duyurdu/4128602",
+   "zaman": "2026-11-18T10:19:11+03:00",
+   "kelimeler": [
+    "adnoc",
+    "bae",
+    "bogaz",
+    "duyur",
+    "gemis",
+    "hurmu",
+    "nda",
+    "nin",
+    "petro",
+    "saldi",
+    "sirke",
+    "ugrad",
+    "ulusa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "16a635f00312": {
+   "id": "16a635f00312",
+   "kaynak": "TRT Haber",
+   "baslik": "Avustralya'dan Batı Şeria'daki yasa dışı yerleşim faaliyetlerine katılan kişi ve kuruluşlara yaptırım",
+   "ozet": "Avustralya, işgal altındaki Batı Şeria'da yasa dışı yerleşimlerin genişletilmesine ve Filistinlilere yönelik insan hakları ihlallerine karıştıkları gerekçesiyle 3 kişi ve 4 kuruluşa yaptırım uygulama kararı aldı.",
+   "link": "https://www.trthaber.com/haber/dunya/avustralyadan-bati-seriadaki-yasa-disi-yerlesim-faaliyetlerine-katilan-kisi-ve-kuruluslara-yaptirim-963657.html",
+   "zaman": "2026-11-18T10:20:00+03:00",
+   "kelimeler": [
+    "avust",
+    "bati",
+    "daki",
+    "dan",
+    "disi",
+    "faali",
+    "katil",
+    "kisi",
+    "kurul",
+    "seria",
+    "yapti",
+    "yasa",
+    "yerle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "173a2c6a5925": {
+   "id": "173a2c6a5925",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Ersoy’dan Mustafa Kutlu’ya özel kitap ve tiyatro vefası",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türk edebiyatının usta kalemlerinden Mustafa Kutlu’yu İstanbul’daki evinde ziyaret etti. Prof. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ersoydan-mustafa-kutluya-ozel-kitap-ve-tiyatro-vefasi-43382094",
+   "zaman": "2026-11-18T10:21:22+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "ersoy",
+    "kitap",
+    "kutlu",
+    "musta",
+    "ozel",
+    "tiyat",
+    "vefas",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c73d5243d179": {
+   "id": "c73d5243d179",
+   "kaynak": "BBC Türkçe",
+   "baslik": "CHP kurultayı davasında bugün karar açıklanması bekleniyor",
+   "ozet": "CHP'nin 38'inci Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla aralarında Ekrem İmamoğlu'nun da bulunduğu 12 sanığın yargılandığı davada bugün karar çıkması bekleniyor.",
+   "link": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo",
+   "zaman": "2026-11-18T10:26:01+03:00",
+   "kelimeler": [
+    "acikl",
+    "bekle",
+    "bugun",
+    "chp",
+    "davas",
+    "karar",
+    "kurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cf9db4f37e85"
+  },
+  "d2bcf867deb0": {
+   "id": "d2bcf867deb0",
+   "kaynak": "AA",
+   "baslik": "Ankara merkezli uyuşturucu gelirini aklama soruşturmasında \"Çobanlar Grubu\" elebaşı B.Ç. yakalandı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığınca, uyuşturucu ticaretinden elde edilen gelirin aklanması suçuna yönelik yürütülen soruşturmada \"Çobanlar Grubu\" olarak bilinen yapılanmanın elebaşı olduğu belirlenen B.Ç. ve beraberindeki 2 şüpheli yakalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/-ankara-merkezli-uyusturucu-gelirini-aklama-sorusturmasinda-cobanlar-grubu-elebasi-bc-yakalandi/4128617",
+   "zaman": "2026-11-18T10:27:24+03:00",
+   "kelimeler": [
+    "aklam",
+    "ankar",
+    "coban",
+    "eleba",
+    "gelir",
+    "grubu",
+    "merke",
+    "sorus",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fdff423ec70e": {
+   "id": "fdff423ec70e",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da lodos alarmı. Tahminler değişti, rüzgar uçuracak",
+   "ozet": "Kuvvetli lodosun etkili olduğu İstanbul'da rüzgarın hızı öğle saatlerinden itibaren 75 kilometreye çıkacak. Lodosun yarın şiddetini artırması ve 85 kilometreye çıkması bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/istanbulda-lodos-alarmi-tahminler-degisti-ruzgar-ucuracak-1751410",
+   "zaman": "2026-11-18T10:30:57+03:00",
+   "kelimeler": [
+    "alarm",
+    "degis",
+    "istan",
+    "lodos",
+    "ruzga",
+    "tahmi",
+    "ucura"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dab1e5bc98b2"
   }
  },
  "kayit": [
+  "18.11 10:31:23  9 yeni haber",
   "18.11 10:16:05  9 yeni haber",
   "18.11 10:04:54  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'de Demokratlar, Alaskayı da kazanarak Senatoda Cumhuriyetçilerden ",
   "18.11 10:01:29  16 yeni haber",
@@ -30309,8 +30551,7 @@
   "16.11 09:01:25  2 yeni haber",
   "16.11 08:31:29  1 yeni haber",
   "16.11 08:16:30  4 yeni haber",
-  "16.11 08:05:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Külden çıkan iz sır perdesini araladı",
-  "16.11 08:01:51  1 yeni haber"
+  "16.11 08:05:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Külden çıkan iz sır perdesini araladı"
  ],
  "otomatik": false
 }
