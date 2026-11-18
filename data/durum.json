@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "218e1fa3fbf6": {
-   "id": "218e1fa3fbf6",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 15 Kasım 2026",
-   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 15 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-15-kasim-2026-1750906",
-   "zaman": "2026-11-15T06:10:00+03:00",
-   "kelimeler": [
-    "15",
-    "2026",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "mugla",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "e7cbb919aba4"
-  },
   "6f508d6c41e0": {
    "id": "6f508d6c41e0",
    "kaynak": "AA",
@@ -28968,9 +28945,29 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "49ae7bd5116b"
+  },
+  "648988ba9c8f": {
+   "id": "648988ba9c8f",
+   "kaynak": "TRT Haber",
+   "baslik": "Tokat'ta ambulans ve minibüs çarpıştı: 20 yaralı",
+   "ozet": "Tokatın Reşadiye ilçesinde ambulans ve minibüs çarpıştı. Yaşanan trafik kazasında 3ü sağlık personeli 20 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/tokatta-ambulans-ve-minibus-carpisti-20-yarali-963619.html",
+   "zaman": "2026-11-18T06:07:00+03:00",
+   "kelimeler": [
+    "20",
+    "ambul",
+    "carpi",
+    "minib",
+    "ta",
+    "tokat",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "18.11 06:17:02  1 yeni haber",
   "18.11 05:46:05  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "18.11 05:16:44  1 yeni haber",
   "18.11 04:16:08  1 yeni haber",
@@ -29169,8 +29166,7 @@
   "16.11 04:01:56  1 yeni haber",
   "16.11 03:46:13  1 yeni haber",
   "16.11 03:16:27  1 yeni haber",
-  "16.11 03:01:33  3 yeni haber",
-  "16.11 02:31:21  1 yeni haber"
+  "16.11 03:01:33  3 yeni haber"
  ],
  "otomatik": false
 }
