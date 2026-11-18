@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "89ef1735e30a": {
-   "id": "89ef1735e30a",
-   "kaynak": "AA",
-   "baslik": "COP31'de \"Kökler ve Ateş\" gösterisi izleyiciyle buluştu",
-   "ozet": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Anadolu'nun kültürel mirasını müzik ve dansla buluşturan \"Kökler ve Ateş\" sahne gösterisi gerçekleştirildi.",
-   "link": "https://www.aa.com.tr/tr/kultur/cop31de-kokler-ve-ates-gosterisi-izleyiciyle-bulustu/4126008",
-   "zaman": "2026-11-15T22:42:10+03:00",
-   "kelimeler": [
-    "ates",
-    "bulus",
-    "cop31",
-    "goste",
-    "izley",
-    "kokle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e2818bb3d217": {
-   "id": "e2818bb3d217",
-   "kaynak": "TRT Haber",
-   "baslik": "Eskişehir'de izinsiz kazı yapan 6 şüpheli tutuklandı",
-   "ozet": "Eskişehir'in Sivrihisar ilçesinde izinsiz kazı yaptıkları iddiasıyla gözaltına alınan 7 zanlıdan 6'sı tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/eskisehirde-izinsiz-kazi-yapan-6-supheli-tutuklandi-963360.html",
-   "zaman": "2026-11-15T22:53:00+03:00",
-   "kelimeler": [
-    "eskis",
-    "izins",
-    "kazi",
-    "suphe",
-    "tutuk",
-    "yapan"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-16T00:04:36.388988+03:00",
-   "ig_id": "18102896036417495",
-   "reels_id": "17981312804924773",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1779761506470157",
-   "slayt": 5,
-   "kanca": "İZİNSİZ KAZI OPERASYONU"
-  },
-  "f23356c5ef89": {
-   "id": "f23356c5ef89",
-   "kaynak": "AA",
-   "baslik": "Sağlık Bakanı Memişoğlu, KKTC'nin kuruluşunun 43. yıl dönümünü kutladı",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43. kuruluş yıl dönümünü kutladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-kktcnin-kurulusunun-43-yil-donumunu-kutladi/4126016",
-   "zaman": "2026-11-15T22:57:42+03:00",
-   "kelimeler": [
-    "43",
-    "bakan",
-    "donum",
-    "kktc",
-    "kurul",
-    "kutla",
-    "memis",
-    "nin",
-    "sagli",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "42b981a5f1b9"
-  },
   "eae5ac46bc27": {
    "id": "eae5ac46bc27",
    "kaynak": "NTV",
@@ -32209,7 +32141,10 @@
     "nahya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "06e835ad5d4f": {
    "id": "06e835ad5d4f",
@@ -32296,9 +32231,281 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a7b5c20fd8f5"
+  },
+  "96a4571e17a4": {
+   "id": "96a4571e17a4",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Ortak hareket kabiliyeti yüksek bir Türk iş ekosistemi inşa etmeliyiz",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bireysel başarı hikayelerinin ötesine geçerek, Özbekistan'da birbirini besleyen, ölçek ekonomisi oluşturan ve ortak hareket kabiliyeti yüksek bir Türk iş ekosistemi inşa etmemiz gerekmektedir.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-ortak-hareket-kabiliyeti-yuksek-bir-turk-is-ekosistemi-insa-etmeliyiz/4129696",
+   "zaman": "2026-11-18T20:46:53+03:00",
+   "kelimeler": [
+    "cumhu",
+    "ekosi",
+    "etmel",
+    "harek",
+    "insa",
+    "is",
+    "kabil",
+    "ortak",
+    "turk",
+    "yardi",
+    "yilma",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea09f29585fc"
+  },
+  "9cd857092a78": {
+   "id": "9cd857092a78",
+   "kaynak": "TRT Haber",
+   "baslik": "Mısır'da yüzlerce tabutun ve altın eserin bulunduğu antik mezarlık keşfedildi",
+   "ozet": "Mısır'ın kuzeyindeki Menufiye vilayetinde yürütülen arkeolojik kazılarda, yüzlerce tabutun ve altın eserin yer aldığı antik bir mezarlık gün yüzüne çıkarıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/misirda-yuzlerce-tabutun-ve-altin-eserin-bulundugu-antik-mezarlik-kesfedildi-963728.html",
+   "zaman": "2026-11-18T22:08:00+03:00",
+   "kelimeler": [
+    "altin",
+    "antik",
+    "bulun",
+    "eseri",
+    "kesfe",
+    "mezar",
+    "misir",
+    "tabut",
+    "yuzle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e5f6737625ea": {
+   "id": "e5f6737625ea",
+   "kaynak": "TRT Haber",
+   "baslik": "KAAN'ın teslimat takvimi belli oldu",
+   "ozet": "Milli Savunma Bakanı Güler, \"2030 yılı sonuna kadar Hava Kuvvetleri Komutanlığımıza 20 adet uçağın teslim edilmesi, 2035 yılı sonuna kadar ise bu sayının 100'e ulaşması öngörülmektedir.\" dedi.",
+   "link": "https://www.trthaber.com/haber/savunma/kaanin-teslimat-takvimi-belli-oldu-963727.html",
+   "zaman": "2026-11-18T22:10:00+03:00",
+   "kelimeler": [
+    "belli",
+    "in",
+    "kaan",
+    "takvi",
+    "tesli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19060347e9cb": {
+   "id": "19060347e9cb",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Fidan, BAE'li mevkidaşı Al Nahyan ile telefonda görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, BAE Dışişleri Bakanı Şeyh Abdullah Bin Zayed Al Nahyan ile telefon görüşmesi gerçekleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-fidan-baeli-mevkidasi-al-nahyan-ile-telefonda-gorustu-43383076",
+   "zaman": "2026-11-18T22:16:00+03:00",
+   "kelimeler": [
+    "al",
+    "bae",
+    "bakan",
+    "fidan",
+    "gorus",
+    "li",
+    "mevki",
+    "nahya",
+    "telef"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2e175dac7048"
+  },
+  "4ff1a5007209": {
+   "id": "4ff1a5007209",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturması: Taha Çakmak ve Emre Tezmen ek ifade verdi",
+   "ozet": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında tutuklanan Taha Çakmak ve Emre Tezmen ek ifade vermek için adliyeye getirildi. İfade işlemleri tamamlanan Çakmak ve Tezmen cezaevine götürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-taha-cakmak-ve-emre-tezmen-ek-ifade-verdi-43383074",
+   "zaman": "2026-11-18T22:16:08+03:00",
+   "kelimeler": [
+    "cakma",
+    "ek",
+    "emre",
+    "fon",
+    "ifade",
+    "sorus",
+    "taha",
+    "tezme",
+    "verdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fe7d6582748d": {
+   "id": "fe7d6582748d",
+   "kaynak": "AA",
+   "baslik": "Karadeniz için fırtına uyarısı",
+   "ozet": "Karadeniz'de yarın fırtına bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/karadeniz-icin-firtina-uyarisi/4129765",
+   "zaman": "2026-11-18T22:21:34+03:00",
+   "kelimeler": [
+    "firti",
+    "karad",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d281d1cf69c1"
+  },
+  "e2335d1ac669": {
+   "id": "e2335d1ac669",
+   "kaynak": "NTV",
+   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 18 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1751512",
+   "zaman": "2026-11-18T22:27:19+03:00",
+   "kelimeler": [
+    "18",
+    "bilet",
+    "ekran",
+    "hizli",
+    "kasim",
+    "mpi",
+    "sans",
+    "sonuc",
+    "sorgu",
+    "tikla",
+    "topu"
+   ],
+   "durum": "engelli",
+   "oncelikli": true,
+   "diger_kaynaklar": []
+  },
+  "74d88d00ec05": {
+   "id": "74d88d00ec05",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 18 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1751513",
+   "zaman": "2026-11-18T22:30:16+03:00",
+   "kelimeler": [
+    "18",
+    "2026",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e2335d1ac669"
+  },
+  "527ee43c3abd": {
+   "id": "527ee43c3abd",
+   "kaynak": "AA",
+   "baslik": "Kumluca açıklarında balina görüntülendi",
+   "ozet": "Antalya'nın Kumluca ilçesi açıklarında balina görüntülendi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kumluca-aciklarinda-balina-goruntulendi/4129774",
+   "zaman": "2026-11-18T22:38:33+03:00",
+   "kelimeler": [
+    "acikl",
+    "balin",
+    "gorun",
+    "kumlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8a08e502f86a": {
+   "id": "8a08e502f86a",
+   "kaynak": "TRT Haber",
+   "baslik": "Tokat'ta 2 otomobilin çarpıştığı kazada 2 yaşındaki çocuk öldü",
+   "ozet": "Tokat'ın Niksar ilçesinde iki otomobilin çarpışması sonucu 2 yaşındaki çocuk öldü, 6 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/tokatta-2-otomobilin-carpistigi-kazada-2-yasindaki-cocuk-oldu-963729.html",
+   "zaman": "2026-11-18T22:40:00+03:00",
+   "kelimeler": [
+    "carpi",
+    "cocuk",
+    "kazad",
+    "otomo",
+    "ta",
+    "tokat",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "088b88d9b14a": {
+   "id": "088b88d9b14a",
+   "kaynak": "NTV",
+   "baslik": "Bakan Güler: 2030'da 20 adet KAAN teslim edilecek",
+   "ozet": "Milli Savunma Bakanı Yaşar Güler, 2030 yılı sonuna kadar Hava Kuvvetleri Komutanlığı'na 20 adet uçağın teslim edileceğini, 2035 yılı sonunda ise bu sayının 100’e ulaşağını belirtti.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-guler-2030da-20-adet-kaan-teslim-edilecek-1751514",
+   "zaman": "2026-11-18T22:47:04+03:00",
+   "kelimeler": [
+    "20",
+    "2030",
+    "adet",
+    "bakan",
+    "edile",
+    "guler",
+    "kaan",
+    "tesli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f67fab649a2f": {
+   "id": "f67fab649a2f",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da suya her ay zam yüzde 2 sınırıyla sürecek",
+   "ozet": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Kurulu'nda, Tüketici Fiyat Endeksi (TÜFE) ile Yurt İçi Üretici Fiyat Endeksi'nin (Yİ-ÜFE) toplanıp ikiye bölünmesiyle çıkan sonuca göre suya her ay zam yapılması teklifi, 2027 yılında zam oranının yüzde 2'yi geçmemesi şartıyla…",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-suya-her-ay-zam-yuzde-2-siniriyla-surecek-43383082",
+   "zaman": "2026-11-18T22:48:00+03:00",
+   "kelimeler": [
+    "ay",
+    "her",
+    "istan",
+    "sinir",
+    "surec",
+    "suya",
+    "yuzde",
+    "zam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "74569c85bf0f": {
+   "id": "74569c85bf0f",
+   "kaynak": "AA",
+   "baslik": "İsrail askerleri, Gazze’de ateşkes kapsamında çekildikleri bölgelere yeniden girdi",
+   "ozet": "İsrail askerleri, Gazze Şeridi’nin orta kesiminde Sarı Hattın batısında, ateşkes anlaşması kapsamında daha önce çekildikleri bölgelere girerek saldırı başlattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-gazze-de-ateskes-kapsaminda-cekildikleri-bolgelere-yeniden-girdi/4129792",
+   "zaman": "2026-11-18T22:48:10+03:00",
+   "kelimeler": [
+    "asker",
+    "atesk",
+    "bolge",
+    "cekil",
+    "gazze",
+    "girdi",
+    "israi",
+    "kapsa",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 23:01:25  9 yeni haber",
   "18.11 22:01:26  7 yeni haber",
   "18.11 21:01:26  1 yeni haber",
   "18.11 20:49:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Antalya Büyükşehir Belediye Başkan Vekili Özdemir, CHP’den istifa etti",
@@ -32497,8 +32704,7 @@
   "16.11 16:02:12  2 yeni haber",
   "16.11 15:46:06  10 yeni haber",
   "16.11 15:31:24  4 yeni haber",
-  "16.11 15:16:49  11 yeni haber",
-  "16.11 15:01:31  3 yeni haber"
+  "16.11 15:16:49  11 yeni haber"
  ],
  "otomatik": false
 }
