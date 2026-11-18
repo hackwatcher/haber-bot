@@ -1,94 +1,5 @@
 {
  "haberler": {
-  "f875cd1127d9": {
-   "id": "f875cd1127d9",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanlığından KKTC'nin kuruluşunun 43. yıl dönümü için kutlama mesajı",
-   "ozet": "Dışişleri Bakanlığı, KKTC'nin kuruluşunun 43. yıl dönümünü kutlayarak, KKTC'nin, büyük Türk milletinin ayrılmaz parçası Kıbrıslı Türklerin egemenliklerinden ve özgürlüklerinden asla vazgeçmediklerinin ve vazgeçmeyeceklerinin kanıtı olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-kktcnin-kurulusunun-43-yil-donumu-icin-kutlama-mesaji/4125537",
-   "zaman": "2026-11-15T10:02:52+03:00",
-   "kelimeler": [
-    "43",
-    "bakan",
-    "disis",
-    "donum",
-    "kktc",
-    "kurul",
-    "kutla",
-    "mesaj",
-    "nin",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ef0e0b1d853"
-  },
-  "1cf634c94540": {
-   "id": "1cf634c94540",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanlığından Filistin Devleti'nin kuruluşunun 38. yıl dönümü için kutlama mesajı",
-   "ozet": "Bakanlık, Filistin Devleti'nin kuruluşunun 38. yıl dönümünü kutlayarak, \"1967 sınırları temelinde, başkenti Doğu Kudüs olan, bağımsız, egemen ve coğrafi bütünlüğe sahip bir Filistin Devleti'nin kurulmasının\" vazgeçilmez gaye olduğunu bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-filistin-devletinin-kurulusunun-38-yil-donumu-icin-kutlama-mesaji/4125539",
-   "zaman": "2026-11-15T10:05:16+03:00",
-   "kelimeler": [
-    "38",
-    "bakan",
-    "devle",
-    "disis",
-    "donum",
-    "filis",
-    "kurul",
-    "kutla",
-    "mesaj",
-    "nin",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b8845f1064bc"
-  },
-  "8e60075ef2c8": {
-   "id": "8e60075ef2c8",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'den KKTC'nin kuruluş yıl dönümüne kutlama mesajı",
-   "ozet": "Dışişleri Bakanlığı, Kuzey Kıbrıs Türk Cumhuriyeti'nin KKTC kuruluşunun 43. yıl dönümünü kutlayarak, KKTC'nin, büyük Türk milletinin ayrılmaz parçası Kıbrıslı Türklerin egemenliklerinden ve özgürlüklerinden asla vazgeçmediklerinin ve vazgeçmeyeceklerinin kanıtı olduğunu belirtti.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-kktcnin-kurulus-yil-donumune-kutlama-mesaji-963322.html",
-   "zaman": "2026-11-15T10:15:00+03:00",
-   "kelimeler": [
-    "den",
-    "donum",
-    "kktc",
-    "kurul",
-    "kutla",
-    "mesaj",
-    "nin",
-    "turki",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ef0e0b1d853"
-  },
-  "72d657cabfdf": {
-   "id": "72d657cabfdf",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da tedirgin eden renk değişimi! 'Zararlı olduğunu düşünüyoruz!",
-   "ozet": "İstanbubul Sultangazi'deki Alibeyköy Barajın'a akan mavi renkli su bölgedeki vatandaşları tedirgin etti. Çevre sakinlerinden Ahmet Tahirçeoğulları, \"Alibeyköy Barajı'nda balıklar yaşıyor. Biz burada senelerdir balık tutuyoruz ve bu su bütün İstanbul için de kullanılıyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-tedirgin-eden-goruntu-bu-su-butun-istanbul-icin-kullaniliyor-43378846",
-   "zaman": "2026-11-15T10:16:00+03:00",
-   "kelimeler": [
-    "degis",
-    "dusun",
-    "eden",
-    "istan",
-    "oldug",
-    "renk",
-    "tedir",
-    "zarar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "fd7f198dbce1": {
    "id": "fd7f198dbce1",
    "kaynak": "NTV",
@@ -16185,7 +16096,8 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "56f3335eb6de": {
    "id": "56f3335eb6de",
@@ -24801,7 +24713,10 @@
     "serbe"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "a34d73fad805": {
    "id": "a34d73fad805",
@@ -27436,7 +27351,8 @@
     "temas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5e62d77f8fc0": {
    "id": "5e62d77f8fc0",
@@ -29921,9 +29837,281 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b15143104d9f": {
+   "id": "b15143104d9f",
+   "kaynak": "AA",
+   "baslik": "Ardahan ve Ağrı'da kar etkili oluyor",
+   "ozet": "Ardahan ve Ağrı'da etkili olan kar yağışı kent merkezi ile dağları yeniden beyaza bürüdü.",
+   "link": "https://www.aa.com.tr/tr/gundem/ardahan-ve-agrida-kar-etkili-oluyor/4128547",
+   "zaman": "2026-11-18T09:42:49+03:00",
+   "kelimeler": [
+    "agri",
+    "ardah",
+    "etkil",
+    "kar",
+    "oluyo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "02884b9b1e0d": {
+   "id": "02884b9b1e0d",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin COP31'deki küresel elektrifikasyonu yüzde 35'e çıkarma hedefine 75 ülke desteğini açıkladı",
+   "ozet": "Türkiye'nin COP31 Başkanlığı kapsamında açıkladığı küresel elektrifikasyon oranını 2035'e kadar yüzde 35'e çıkarma hedefine şu ana kadar 75 ülke desteğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-cop31deki-kuresel-elektrifikasyonu-yuzde-35e-cikarma-hedefine-75-ulke-destegini-acikladi/4128554",
+   "zaman": "2026-11-18T09:46:38+03:00",
+   "kelimeler": [
+    "35",
+    "75",
+    "cikar",
+    "cop31",
+    "deki",
+    "deste",
+    "elekt",
+    "hedef",
+    "kures",
+    "nin",
+    "turki",
+    "ulke",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "09fd3263c0c2"
+  },
+  "2525ea1268e8": {
+   "id": "2525ea1268e8",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husiler tarafından atılan bir seyir füzesi Riyad bölgesinde imha edildi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilere ait bir seyir füzesinin Suudi Arabistan'ın başkenti Riyad bölgesinde tespit edilerek düşürüldüğünü duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husiler-tarafindan-atilan-bir-seyir-fuzesi-riyad-bolgesinde-imha-edildi/4128567",
+   "zaman": "2026-11-18T09:55:57+03:00",
+   "kelimeler": [
+    "arap",
+    "atila",
+    "bolge",
+    "edild",
+    "fuzes",
+    "husil",
+    "imha",
+    "koali",
+    "riyad",
+    "seyir",
+    "taraf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c749e0427476": {
+   "id": "c749e0427476",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum'dan \"insani ve sosyal kalkınma\" teması paylaşımı",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, zirvenin \"insani ve sosyal kalkınma\" teması gününde Down sendromlu Robert Cem Osborn'u paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-insani-ve-sosyal-kalkinma-temasi-paylasimi/4128570",
+   "zaman": "2026-11-18T09:57:35+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "insan",
+    "kalki",
+    "kurum",
+    "payla",
+    "sosya",
+    "temas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "da3d68a1764b"
+  },
+  "6dbf734c8fbd": {
+   "id": "6dbf734c8fbd",
+   "kaynak": "TRT Haber",
+   "baslik": "Gülşah Deniz Atalar CHP'den istifa etti",
+   "ozet": "Cumhuriyet Halk Partisi Yüksek Disiplin Kurulu Üyesi Gülşah Deniz Atalar, görevinden ve parti üyeliğinden istifa ettiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/gulsah-deniz-atalar-chpden-istifa-etti-963652.html",
+   "zaman": "2026-11-18T09:58:00+03:00",
+   "kelimeler": [
+    "atala",
+    "chp",
+    "den",
+    "deniz",
+    "etti",
+    "gulsa",
+    "istif"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "35508481638d": {
+   "id": "35508481638d",
+   "kaynak": "AA",
+   "baslik": "Borsa güne yatay başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,04 düşüşle 11.656,67 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yatay-basladi/4128572",
+   "zaman": "2026-11-18T09:59:35+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "gune",
+    "yatay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "92d195b7a5f6": {
+   "id": "92d195b7a5f6",
+   "kaynak": "Hürriyet",
+   "baslik": "4 ilde 'Şirinler' suç örgütüne operasyon: 33 tutuklama! 50 milyon liralık ziynet eşyasına el konuldu",
+   "ozet": "Adana merkezli 4 ilde suç örgütü Şirinler’e yönelik operasyonda gözaltına alınan, aralarında cezaevindekilerin de olduğu 33 şüpheli tutuklandı, 25 kişi adli kontrol şartı, 5 kişi ise savcılık talimatıyla serbest bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/4-ilde-sirinler-suc-orgutune-operasyon-33-tutuklama-50-milyon-liralik-ziynet-esyasina-el-konuldu-43382042",
+   "zaman": "2026-11-18T10:01:10+03:00",
+   "kelimeler": [
+    "33",
+    "50",
+    "el",
+    "esyas",
+    "ilde",
+    "konul",
+    "liral",
+    "milyo",
+    "opera",
+    "orgut",
+    "sirin",
+    "suc",
+    "tutuk",
+    "ziyne"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "83266d5bf5d3": {
+   "id": "83266d5bf5d3",
+   "kaynak": "Hürriyet",
+   "baslik": "Bursa’da trafiği kesip araçların kaportasına vurdu, o anlar kamerada",
+   "ozet": "Yıldırım ilçesi Duaçınarı Mahallesi’nde yola çıkarak trafiği durduran bir kadın, ilerleyen araçların yanına gidip kaportaya vurarak tekme attı. Çevredekilerin durumu polise bildirmesinin ardından olay yerinden ayrılan kadının yakalanması için çalışma başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bursada-trafigi-kesip-araclarin-kaportasina-vurdu-o-anlar-kamerada-43382047",
+   "zaman": "2026-11-18T10:01:30+03:00",
+   "kelimeler": [
+    "anlar",
+    "aracl",
+    "bursa",
+    "kamer",
+    "kapor",
+    "kesip",
+    "trafi",
+    "vurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ec873e25bc11": {
+   "id": "ec873e25bc11",
+   "kaynak": "NTV",
+   "baslik": "AİHM'den Can Atalay kararı",
+   "ozet": "Avrupa İnsan Hakları Mahkemesi (AİHM), Can Atalay için hak ihlali kararı verdi. Kararda, Atalay'ın serbest bırakılması ve milletvekilliği görevine döndürülmesi gerektiği belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/aihmden-can-atalay-karari-1751399",
+   "zaman": "2026-11-18T10:02:26+03:00",
+   "kelimeler": [
+    "aihm",
+    "atala",
+    "can",
+    "den",
+    "karar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "76e4dafa781a"
+  },
+  "e93373cf1b10": {
+   "id": "e93373cf1b10",
+   "kaynak": "TRT Haber",
+   "baslik": "Borsa güne 11.656,67 puandan başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,04 düşüşle 11.656,67 puandan başladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/borsa-gune-1165667-puandan-basladi-963651.html",
+   "zaman": "2026-11-18T10:03:00+03:00",
+   "kelimeler": [
+    "11",
+    "656",
+    "67",
+    "basla",
+    "borsa",
+    "gune",
+    "puand"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "35508481638d"
+  },
+  "72e68b95d538": {
+   "id": "72e68b95d538",
+   "kaynak": "XHABER",
+   "baslik": "Thomas Reis, Trabzon'da tahta araba kullandı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30742",
+   "zaman": "2026-11-18T10:04:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Thomas Reis, Trabzon'da tahta araba kullandı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/sVFWgPOruzSrFOkQV5aN2m-5xcpT3LNEJnBTfn1G6XahiPWBhffvKBr3K0BKMYI4y5xOJzauUGi7bV4kolaxJxlU728vvTCj3TnclqvGHAU3u6xAXKO1XgycQzIvk6krrjt9OmUQMGdirJfiXmlXVtjfy63bpudVjiGxbKTdYI8TRtibY0gCIi95nVKjmrvLkucoghomamykz4sY0EYihQDSKAL-u2QsME08fz5varyVB3V_KG7_laITmzfXbxZqkNpzClIKXE2ijvgT8p5soj58WLjlKYJIreKCVxuKelBvyCToztsS8bq29KLSRqaBersDSPzh6zvaarCEw-OHbg",
+   "tg_video_url": "https://cdn4.telesco.pe/file/d3d96960c4.mp4?token=vVlLUYYoBECjxBUpBh2JBBqOrZpofw3PSeUnzFleR_FwC-PUmIecIu9f7hbBJkvkRH71X6nCzhrnvaTwTqs2Y8W9ye8sWBcGlzsXxBpmORHECKLLzrnThxJTaFo0unpgVBmmzScZcBQuH_lHjn2wRQXtegLQpFOctyUg0Sz-n3C3uLV1Ve-eBGv5ap4mgozxDGCwO3HGtbU21yEgOFRABBGX4JjinbH16m-PYSMiwuZKyrFvIgZ42Q2_UOakrVJ3EAJWHLd_OJl3dGreviBNbdPtjDXOTNT8YcSQNZIIL6nWGaaodHBy52khJH3FIEbm-fosScFCLBHTg8QSGuHVmwNcv7Om3alGCz9omYr3TDasXiJKE_6o0AJ2UIbF0T1nrWbE-YEuA0jUPhVe72RxXZrmM2W85_xCkonWIS-P3QyYVSe7XJsRw-NbqUAfH5kefoR9fLi-fgUgYr9MkbJ3LrBhazfsmfL_elmDX3Rp3vhNI1kFwuSAIQN9Q48B00vkbiYj4V6zNrDIQQu0wWecBFstSeL_hmWgJHYhFsFSdRsgp-OAfSKNKeuRLu5aiT7lxpVFIdSARnMgjRjB1uOGQZuj_IriTg5zQtQs1uONAvWjZgkF8xfA66gzyls6rdM7wAamtZy_fiKgYPcubxMrJ785kK7v9zob1P6MqoCGGZc",
+   "kelimeler": [
+    "araba",
+    "kulla",
+    "reis",
+    "tahta",
+    "thoma",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a90234fd939": {
+   "id": "2a90234fd939",
+   "kaynak": "Hürriyet",
+   "baslik": "İmar değişikliği sonrası arsasından yol geçince bu çözümü buldu: Evinin duvarlarını yıkıp tünel oluşturdu",
+   "ozet": "Aksaray'da belediye tarafından yapılan imar değişikliği sonrası 2 katlı evinin bir kısımdan yol geçen gurbetçi, geçici çözüm üretti. Ev sahibi, evin alt katının duvarlarını kırıp, tünel oluşturarak yolun kullanılmasını sağladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/imar-degisikligi-sonrasi-arsasindan-yol-gecince-bu-cozumu-buldu-evinin-duvarlarini-yikip-tunel-olusturdu-43382051",
+   "zaman": "2026-11-18T10:07:23+03:00",
+   "kelimeler": [
+    "arsas",
+    "buldu",
+    "cozum",
+    "degis",
+    "duvar",
+    "evini",
+    "gecin",
+    "imar",
+    "olust",
+    "sonra",
+    "tunel",
+    "yikip",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dab1e5bc98b2": {
+   "id": "dab1e5bc98b2",
+   "kaynak": "AA",
+   "baslik": "İstanbul için lodos uyarısı",
+   "ozet": "İBB Afet Koordinasyon Merkezi (AKOM), kentte bugünden itibaren etkisini artırması beklenen rüzgarın cuma günü saatte 85 kilometre hıza ulaşabileceğini bildirerek, vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-icin-lodos-uyarisi/4128590",
+   "zaman": "2026-11-18T10:11:27+03:00",
+   "kelimeler": [
+    "istan",
+    "lodos",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 10:16:05  9 yeni haber",
   "18.11 10:04:54  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'de Demokratlar, Alaskayı da kazanarak Senatoda Cumhuriyetçilerden ",
   "18.11 10:01:29  16 yeni haber",
   "18.11 09:38:59  17 yeni haber",
@@ -30122,8 +30310,7 @@
   "16.11 08:31:29  1 yeni haber",
   "16.11 08:16:30  4 yeni haber",
   "16.11 08:05:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Külden çıkan iz sır perdesini araladı",
-  "16.11 08:01:51  1 yeni haber",
-  "16.11 07:46:37  1 yeni haber"
+  "16.11 08:01:51  1 yeni haber"
  ],
  "otomatik": false
 }
