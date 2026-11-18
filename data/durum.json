@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "a8e6ed7518c5": {
-   "id": "a8e6ed7518c5",
-   "kaynak": "Hürriyet",
-   "baslik": "Yeni Parti'nin 1'inci Olağan Kurultayı'nda PM ve YDK seçimi başladı",
-   "ozet": "Yeni Parti'nin 1'inci Olağan Kurultayı'nda, Parti Meclisi (PM) ve Yüksek Disiplin Kurulu (YDK) seçimleri için oy verme işlemi başladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/yeni-partinin-1inci-olagan-kurultayinda-pm-ve-ydk-secimi-basladi-43379210",
-   "zaman": "2026-11-15T15:18:00+03:00",
-   "kelimeler": [
-    "basla",
-    "inci",
-    "kurul",
-    "nda",
-    "nin",
-    "olaga",
-    "parti",
-    "pm",
-    "secim",
-    "ydk",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "dc5d713941d0": {
-   "id": "dc5d713941d0",
-   "kaynak": "AA",
-   "baslik": "Sanatçı Artem Martis, COP31 için 31 tonluk cam heykel hazırladı",
-   "ozet": "Çağdaş sanatçı Artem Martis, 26 ton endüstriyel atık cam ve 5 ton paslanmaz çelik kullanarak, iklim krizinin görünmeyen etkilerine dikkati çeken 6 metre yüksekliğinde \"What We Don't See\" (Görmediklerimiz) adlı enstalasyon hazırladı.",
-   "link": "https://www.aa.com.tr/tr/kultur/sanatci-artem-martis-cop31-icin-31-tonluk-cam-heykel-hazirladi/4125779",
-   "zaman": "2026-11-15T15:27:30+03:00",
-   "kelimeler": [
-    "31",
-    "artem",
-    "cam",
-    "cop31",
-    "hazir",
-    "heyke",
-    "marti",
-    "sanat",
-    "tonlu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c3aa71787494": {
-   "id": "c3aa71787494",
-   "kaynak": "AA",
-   "baslik": "Haaretz: İsrail, Suriye'de işgali gerekçelendirmek için operasyonlar uyduruyor",
-   "ozet": "İsrail basınına göre, işgal altındaki Suriye topraklarında görev yapan İsrail askerleri, gerçek tehdit bulunmayan bölgelerde işgali gerekçelendirmek için sözde \"önleyici operasyonlar\" uydurulduğunu itiraf etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/haaretz-israil-suriyede-isgali-gerekcelendirmek-icin-operasyonlar-uyduruyor/4125780",
-   "zaman": "2026-11-15T15:27:40+03:00",
-   "kelimeler": [
-    "gerek",
-    "haare",
-    "isgal",
-    "israi",
-    "opera",
-    "suriy",
-    "uydur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "75f7c1c5de03": {
    "id": "75f7c1c5de03",
    "kaynak": "AA",
@@ -31281,7 +31217,10 @@
     "nin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b9df412d8135": {
    "id": "b9df412d8135",
@@ -31439,9 +31378,77 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a032c434a37a"
+  },
+  "824a77b71779": {
+   "id": "824a77b71779",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Göktaş'tan çocuklara yönelik şiddetle mücadelede küresel iş birliği çağrısı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocuklara yönelik şiddetle mücadelenin uluslararası işbirliğini gerektirdiğini belirterek, dijital ortamlardaki yeni riskler ile göç ve insani krizlerin ülkelerin birlikte hareket etmesini daha da önemli hale getirdiğini…",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-goktastan-cocuklara-yonelik-siddetle-mucadelede-kuresel-is-birligi-cagrisi-963695.html",
+   "zaman": "2026-11-18T15:17:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "birli",
+    "cagri",
+    "cocuk",
+    "gokta",
+    "is",
+    "kures",
+    "mucad",
+    "sidde",
+    "tan",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17cbb44330cd": {
+   "id": "17cbb44330cd",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan ABD'nin Ankara Büyükelçisi Barrack'ı kabul etti",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, ABD'nin Ankara Büyükelçisi ve Suriye ile Irak Özel Temsilcisi Tom Barrack'ı Ankara'da kabul etti.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-abdnin-ankara-buyukelcisi-barracki-kabul-etti-963694.html",
+   "zaman": "2026-11-18T15:18:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ankar",
+    "bakan",
+    "barra",
+    "buyuk",
+    "etti",
+    "fidan",
+    "kabul",
+    "nin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e594403c6b78"
+  },
+  "d7e6110abc01": {
+   "id": "d7e6110abc01",
+   "kaynak": "NTV",
+   "baslik": "Suç örgütü elebaşlarının da aralarında bulunduğu 6 firari Türkiye'ye iade edildi",
+   "ozet": "Aralarında kırmızı bültenle aranan suç örgütü elebaşı Ahmet Dinç ile Yusuf Namlı’nın da bulunduğu toplam 6 firari Türkiye'ye iade edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/suc-orgutu-elebaslarinin-da-aralarinda-bulundugu-6-firari-turkiyeye-iade-edildi-1751482",
+   "zaman": "2026-11-18T15:28:36+03:00",
+   "kelimeler": [
+    "arala",
+    "bulun",
+    "edild",
+    "eleba",
+    "firar",
+    "iade",
+    "orgut",
+    "suc",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "18.11 15:31:15  2 yeni haber",
   "18.11 15:16:23  9 yeni haber",
   "18.11 15:01:36  12 yeni haber",
   "18.11 14:38:55  9 yeni haber",
@@ -31640,8 +31647,7 @@
   "16.11 12:45:16  17 yeni haber",
   "16.11 12:16:08  12 yeni haber",
   "16.11 12:01:50  11 yeni haber",
-  "16.11 11:46:37  7 yeni haber",
-  "16.11 11:41:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Bitcoin 65 bin doların altına geriledi"
+  "16.11 11:46:37  7 yeni haber"
  ],
  "otomatik": false
 }
