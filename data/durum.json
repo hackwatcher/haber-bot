@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "73ddb2ac3585": {
-   "id": "73ddb2ac3585",
-   "kaynak": "TRT Haber",
-   "baslik": "İsrail basını: Netanyahu seçimler çalındı kampanyası için istihbarat ve polisi kullandı",
-   "ozet": "İsrail basını, ülkede 27 Ekim'de yapılan seçimlerin ardından geçici Başbakan Binyamin Netanyahu'nun, İsrail vatandaşı Filistinlileri temsil eden partilerin yüksek oy almasına işaret ederek \"seçimler çalındı\" iddiasını ispatlamak için iç istihbarat servisi ŞinBet Şabak ve polisi…",
-   "link": "https://www.trthaber.com/haber/dunya/israil-basini-netanyahu-secimler-calindi-kampanyasi-icin-istihbarat-ve-polisi-kullandi-963375.html",
-   "zaman": "2026-11-16T07:58:00+03:00",
-   "kelimeler": [
-    "basin",
-    "calin",
-    "israi",
-    "istih",
-    "kampa",
-    "kulla",
-    "netan",
-    "polis",
-    "secim"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "dffe0dcfc384"
-  },
-  "76d8d9363372": {
-   "id": "76d8d9363372",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak infilak etti",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda ABD ordusunun yönlendirmesi ve savaş uçaklarının desteğiyle boğazın güneyindeki güzergahı kullanmaya çalışan 2 petrol tankerinin deniz mayınına çarparak infilak ettiğini ileri sürdü.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-infilak-etti-963376.html",
-   "zaman": "2026-11-16T08:00:00+03:00",
-   "kelimeler": [
-    "bogaz",
-    "carpa",
-    "etti",
-    "hurmu",
-    "infil",
-    "iran",
-    "mayin",
-    "nda",
-    "petro",
-    "tanke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "841339dce45e": {
    "id": "841339dce45e",
    "kaynak": "AA",
@@ -27834,7 +27787,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "TRT Haber"
+    "TRT Haber",
+    "Sözcü"
    ]
   },
   "41ba0f58b013": {
@@ -28381,7 +28335,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3ed171f16284": {
    "id": "3ed171f16284",
@@ -33138,6 +33095,46 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b3cce78afff8"
+  },
+  "361fae84e6c0": {
+   "id": "361fae84e6c0",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında kritik adım: Mustafa Yazıcı'ya adli kontrol talebi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/7-saat-ifade-verdi-mustafa-yazici-ya-fon-sorusturmasi-nda-adli-kontrol-talebi-p382592",
+   "zaman": "2026-11-19T07:52:58+03:00",
+   "kelimeler": [
+    "adim",
+    "adli",
+    "fon",
+    "kontr",
+    "kriti",
+    "musta",
+    "sorus",
+    "taleb",
+    "ya",
+    "yazic"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "34a645dd0fd4"
+  },
+  "72e5f640e95a": {
+   "id": "72e5f640e95a",
+   "kaynak": "AA",
+   "baslik": "Trump ve Putin, Çin'de görüştü",
+   "ozet": "ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin, Çin'in Şıncın kentinde düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi kapsamında bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-ve-putin-cinde-gorustu/4129945",
+   "zaman": "2026-11-19T07:53:20+03:00",
+   "kelimeler": [
+    "cin",
+    "gorus",
+    "putin",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "247ccc3a01e8"
   }
  },
  "kayit": [
