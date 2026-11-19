@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "98abb6219408": {
-   "id": "98abb6219408",
-   "kaynak": "AA",
-   "baslik": "Lübnanlı sanatçı Ragheb Alama, İstanbul'da ilk kez müzikseverlerle bir araya geldi",
-   "ozet": "Arap müziğinin ve Orta Doğu popunun önde gelen isimlerinden biri olan Lübnanlı şarkıcı ve besteci Ragheb Alama, İstanbul'da ilk kez müzikseverlerle buluştu.",
-   "link": "https://www.aa.com.tr/tr/kultur/lubnanli-sanatci-ragheb-alama-istanbulda-ilk-kez-muzikseverlerle-bir-araya-geldi/4126146",
-   "zaman": "2026-11-16T09:53:15+03:00",
-   "kelimeler": [
-    "alama",
-    "araya",
-    "geldi",
-    "ilk",
-    "istan",
-    "kez",
-    "lubna",
-    "muzik",
-    "raghe",
-    "sanat"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "08e838a24380": {
-   "id": "08e838a24380",
-   "kaynak": "AA",
-   "baslik": "Borsa güne düşüşle başladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,29 düşüşle 11.808,77 puandan başladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4126152",
-   "zaman": "2026-11-16T09:59:06+03:00",
-   "kelimeler": [
-    "basla",
-    "borsa",
-    "dusus",
-    "gune"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "7dced913c2e3": {
    "id": "7dced913c2e3",
    "kaynak": "XHABER",
@@ -29910,7 +29871,10 @@
     "suphe"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "c979a351f598": {
    "id": "c979a351f598",
@@ -32544,11 +32508,20 @@
     "yon",
     "zeka"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber"
-   ]
+   ],
+   "paylasildi": "2026-11-19T10:05:26.191472+03:00",
+   "ig_id": "17880937035566346",
+   "reels_id": "18471035653185078",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1672954787770346",
+   "slayt": 6,
+   "kanca": "REKOR HALKA ARZ"
   },
   "bd6497dce01d": {
    "id": "bd6497dce01d",
@@ -32650,7 +32623,10 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "45a8b1ffb446": {
    "id": "45a8b1ffb446",
@@ -32732,9 +32708,192 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6f96fafad884": {
+   "id": "6f96fafad884",
+   "kaynak": "AA",
+   "baslik": "Trump, APEC Zirvesi kapsamında Şi ve Putin ile ayrı ayrı görüştü",
+   "ozet": "ABD Başkanı Donald Trump, Çin'de düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi kapsamında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-apec-zirvesi-kapsaminda-si-ve-putin-ile-ayri-ayri-gorustu/4129945",
+   "zaman": "2026-11-19T07:53:20+03:00",
+   "kelimeler": [
+    "apec",
+    "ayri",
+    "gorus",
+    "kapsa",
+    "putin",
+    "si",
+    "trump",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15536ebc34c7": {
+   "id": "15536ebc34c7",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistanın güneyine gönderdiği 4 balistik füzeyi imha ettik",
+   "ozet": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, hava savunma sistemlerinin Husilerin ülkenin güneyine gönderdiği 4 balistik füzeyi önleyerek imha ettiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guneyine-gonderdigi-4-balistik-fuzeyi-imha-ettik-963770.html",
+   "zaman": "2026-11-19T09:48:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "balis",
+    "ettik",
+    "fuzey",
+    "gonde",
+    "guney",
+    "husil",
+    "imha",
+    "koali",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7babda958df7"
+  },
+  "a5814bdd49ef": {
+   "id": "a5814bdd49ef",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, Şi ile görüşmesi öncesinde açıklamalarda bulundu",
+   "ozet": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile görüşmesi öncesinde, her iki ülkenin de Hürmüz Boğazı'ndan enerji akışını ve İran'ın nükleer silah sahibi olamamasını sağlamakla ilgilendiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-si-ile-gorusmesi-oncesinde-aciklamalarda-bulundu-963769.html",
+   "zaman": "2026-11-19T09:50:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bulun",
+    "gorus",
+    "onces",
+    "si",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a498cd4fbcd6": {
+   "id": "a498cd4fbcd6",
+   "kaynak": "AA",
+   "baslik": "İstanbul Photo Awards 2026 Sergisi ABD'nin başkenti Washington'da açıldı",
+   "ozet": "Anadolu Ajansının (AA) düzenlediği İstanbul Photo Awards 2026'nın üçüncü sergisi ABD'nin başkenti Washington'da açıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/istanbul-photo-awards-2026-sergisi-abdnin-baskenti-washingtonda-acildi/4130020",
+   "zaman": "2026-11-19T09:52:14+03:00",
+   "kelimeler": [
+    "2026",
+    "abd",
+    "acild",
+    "award",
+    "baske",
+    "istan",
+    "nin",
+    "photo",
+    "sergi",
+    "washi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62ff2ba9a928": {
+   "id": "62ff2ba9a928",
+   "kaynak": "Hürriyet",
+   "baslik": "7 ilde dolandırıcılık operasyonu: 10 şüpheli tutuklandı",
+   "ozet": "Gaziantep merkezli 7 ilde düzenlenen dolandırıcılık operasyonunda gözaltına alınan 12 şüpheliden 10'u tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/7-ilde-dolandiricilik-operasyonu-10-supheli-tutuklandi-43383303",
+   "zaman": "2026-11-19T09:52:49+03:00",
+   "kelimeler": [
+    "10",
+    "dolan",
+    "ilde",
+    "opera",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "715bd0323d40": {
+   "id": "715bd0323d40",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın güne nasıl başladı? İşte fiyatlar...",
+   "ozet": "Gram altın, güne yükselişle başlamasının ardından 6 bin 62 liradan işlem görüyor. Çeyrek altın 10 bin 115 liradan, Cumhuriyet altını 41 bin 295 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-nasil-basladi-iste-fiyatlar-963772.html",
+   "zaman": "2026-11-19T09:54:00+03:00",
+   "kelimeler": [
+    "altin",
+    "basla",
+    "fiyat",
+    "gune",
+    "iste",
+    "nasil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "68649607bbaa": {
+   "id": "68649607bbaa",
+   "kaynak": "Hürriyet",
+   "baslik": "Doktor Pelin'in sır ölümünde yeni gelişme: Son görüntüsü ortaya çıktı!",
+   "ozet": "İstanbul Gaziosmanpaşa'da asistan doktor Pelin Pınar, 8. kattaki evinin balkonundan düşerek hayatını kaybetmiş ve genç kadının ölümünün şüpheli bulunması üzerine sevgilisi gözaltına alınmıştı. Doktor Pelin'in ölmeden önceki son görüntüleri ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/doktor-pelinin-sir-olumunde-yeni-gelisme-son-goruntusu-ortaya-cikti-43383291",
+   "zaman": "2026-11-19T09:54:07+03:00",
+   "kelimeler": [
+    "cikti",
+    "dokto",
+    "gelis",
+    "gorun",
+    "in",
+    "olumu",
+    "ortay",
+    "pelin",
+    "sir",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a116cb42cc15"
+  },
+  "53cb5cc90424": {
+   "id": "53cb5cc90424",
+   "kaynak": "NTV",
+   "baslik": "Doktor Pelin Pınar'ın şüpheli ölümünde yeni görüntü",
+   "ozet": "İstanbul'da sekizinci kattaki evin balkonundan düşerek yaşamını yitiren doktor Pelin Pınar'ın ölümüyle ilgili soruşturmada yeni bir görüntüye ulaşıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/doktor-pelin-pinarin-supheli-olumunde-yeni-goruntu-1751555",
+   "zaman": "2026-11-19T10:00:46+03:00",
+   "kelimeler": [
+    "dokto",
+    "gorun",
+    "in",
+    "olumu",
+    "pelin",
+    "pinar",
+    "suphe",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a116cb42cc15"
+  },
+  "9d79aec9f150": {
+   "id": "9d79aec9f150",
+   "kaynak": "AA",
+   "baslik": "Borsa güne yükselişle başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,32 yükselişle 11.513,90 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4130030",
+   "zaman": "2026-11-19T10:01:23+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "gune",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "35508481638d"
   }
  },
  "kayit": [
+  "19.11 10:05:26  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Küresel piyasalar şahin Fed ve yapay zeka belirsizliği gölgesinde yön ",
+  "19.11 10:02:49  5 yeni haber",
   "19.11 09:52:02  5 yeni haber",
   "19.11 09:16:03  3 yeni haber",
   "19.11 09:01:19  1 yeni haber",
@@ -32932,9 +33091,7 @@
   "16.11 23:31:42  1 yeni haber",
   "16.11 23:26:56  4 yeni haber",
   "16.11 23:16:25  3 yeni haber",
-  "16.11 23:02:08  4 yeni haber",
-  "16.11 22:31:22  1 yeni haber",
-  "16.11 22:17:15  6 yeni haber"
+  "16.11 23:02:08  4 yeni haber"
  ],
  "otomatik": false
 }
