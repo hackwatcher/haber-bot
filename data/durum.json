@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "7b3d51f6f425": {
-   "id": "7b3d51f6f425",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Kacır: COP31'de Yapay Zeka Destekli Temiz Teknoloji Girişimi'ni başlatıyoruz",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, COP31'de Yapay Zeka Destekli Temiz Teknolojiler Girişimi'ni başlattıklarını belirterek, girişimin yenilikçi yapay zeka destekli temiz teknolojilerini pratik uygulamaya geçirmek ve bunların sektörlerle ekonomiler genelinde…",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-cop31de-yapay-zeka-destekli-temiz-teknoloji-girisimini-baslatiyoruz-963468.html",
-   "zaman": "2026-11-17T01:37:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "basla",
-    "cop31",
-    "deste",
-    "giris",
-    "kacir",
-    "ni",
-    "tekno",
-    "temiz",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9f5a43976f3f"
-  },
   "2363377d9566": {
    "id": "2363377d9566",
    "kaynak": "Hürriyet",
@@ -31494,7 +31470,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "1db38d7d63b6": {
    "id": "1db38d7d63b6",
@@ -34472,9 +34450,140 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b84dffb8c4ca": {
+   "id": "b84dffb8c4ca",
+   "kaynak": "AA",
+   "baslik": "Fransa'da kolluk kuvvetlerine meşru müdafaa \"zırhı\" sağlayan tasarı protesto edildi",
+   "ozet": "Fransa'da polis ve jandarmanın silah kullanımına ilişkin meşru müdafaa \"zırhı\" sağlayan yasa tasarısına karşı başkent Paris'te Senato'nun önünde gösteri düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi/4131590",
+   "zaman": "2026-11-20T00:19:08+03:00",
+   "kelimeler": [
+    "edild",
+    "frans",
+    "kollu",
+    "kuvve",
+    "mesru",
+    "mudaf",
+    "prote",
+    "sagla",
+    "tasar",
+    "zirhi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2e39dde7b85e": {
+   "id": "2e39dde7b85e",
+   "kaynak": "AA",
+   "baslik": "ABD Senatosu, Trump'ın İran'a saldırmasını engelleyen savaş yetkileri tasarısını reddetti",
+   "ozet": "ABD Senatosundaki Cumhuriyetçiler, Başkan Donald Trump'ın İran'a saldırı düzenlemesinin engellenmesini öngören savaş yetkileri tasarısını reddetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-trumpin-irana-saldirmasini-engelleyen-savas-yetkileri-tasarisini-reddetti/4131591",
+   "zaman": "2026-11-20T00:19:13+03:00",
+   "kelimeler": [
+    "abd",
+    "engel",
+    "in",
+    "iran",
+    "redde",
+    "saldi",
+    "savas",
+    "senat",
+    "tasar",
+    "trump",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0f8a1ac20735": {
+   "id": "0f8a1ac20735",
+   "kaynak": "AA",
+   "baslik": "ABD Temsilciler Meclisi, Çin'e yapay zeka çipi ihracatına yönelik lisans bilgilerini yayımladı",
+   "ozet": "ABD Temsilciler Meclisi Dış İlişkiler Komitesi Başkanı Brian Mast, Çin'deki şirketlere 879 binden fazla Nvidia ve Advanced Micro Devices (AMD) yapay zeka çipinin ihracatına onay verildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-temsilciler-meclisi-cine-yapay-zeka-cipi-ihracatina-yonelik-lisans-bilgilerini-yayimladi/4131612",
+   "zaman": "2026-11-20T00:48:23+03:00",
+   "kelimeler": [
+    "abd",
+    "bilgi",
+    "cin",
+    "cipi",
+    "ihrac",
+    "lisan",
+    "mecli",
+    "temsi",
+    "yapay",
+    "yayim",
+    "yonel",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fc5fb7000617": {
+   "id": "fc5fb7000617",
+   "kaynak": "AA",
+   "baslik": "BUDO'nun bugünkü 10 seferi iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 10 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-10-seferi-iptal-edildi/4131613",
+   "zaman": "2026-11-20T00:48:26+03:00",
+   "kelimeler": [
+    "10",
+    "budo",
+    "bugun",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "29c8fbe5dd34": {
+   "id": "29c8fbe5dd34",
+   "kaynak": "TRT Haber",
+   "baslik": "BUDO'nun bazı seferleri iptal edildi",
+   "ozet": "Bursa Deniz Otobüslerinin BUDO bugün gerçekleştirilecek 10 seferi olumsuz hava şartları nedeniyle iptal edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/budonun-bazi-seferleri-iptal-edildi-963884.html",
+   "zaman": "2026-11-20T01:12:00+03:00",
+   "kelimeler": [
+    "bazi",
+    "budo",
+    "edild",
+    "iptal",
+    "nun",
+    "sefer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fc5fb7000617"
+  },
+  "ac1a06523803": {
+   "id": "ac1a06523803",
+   "kaynak": "AA",
+   "baslik": "Türkiye, UAD'nin Myanmar kararını memnuniyetle karşıladı",
+   "ozet": "Türkiye, UAD'ın, Myanmar'ın 2017'de Arakan Eyaleti'nin kuzeyinde Arakanlı Müslümanlara (Rohingya) karşı soykırım işlediğine ve soykırımı önleme ile cezalandırma yükümlülüklerini ihlal ettiğine hükmeden kararını memnuniyetle karşıladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-uadnin-myanmar-kararini-memnuniyetle-karsiladi/4131618",
+   "zaman": "2026-11-20T01:15:48+03:00",
+   "kelimeler": [
+    "karar",
+    "karsi",
+    "memnu",
+    "myanm",
+    "nin",
+    "turki",
+    "uad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "493e22eb2298"
   }
  },
  "kayit": [
+  "20.11 01:39:10  4 yeni haber",
   "20.11 01:19:08  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Parti'li Çelik'ten, Prof. Dr. Sevim Aydın için taziye mesajı",
   "20.11 01:15:54  1 yeni haber",
   "20.11 01:01:25  1 yeni haber",
@@ -34673,8 +34782,7 @@
   "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope",
   "17.11 15:10:05  6 yeni haber",
   "17.11 15:01:32  11 yeni haber",
-  "17.11 14:46:35  3 yeni haber",
-  "17.11 14:32:00  6 yeni haber"
+  "17.11 14:46:35  3 yeni haber"
  ],
  "otomatik": false
 }
