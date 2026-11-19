@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "8cc23314dd8c": {
-   "id": "8cc23314dd8c",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Adli tıp uzmanı: Otopsi fotoğrafları Epstein'in öldürüldüğünü gösteriyor",
-   "ozet": "Profesör Michael Freeman, BBC Newsnight'a verdiği demeçte, cinsel suçtan hüküm giymiş Epstein'in vücudundaki izlerin cinayetle tutarlı olduğuna inandığını söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/cjy5x3q1er9xo",
-   "zaman": "2026-11-17T00:30:06+03:00",
-   "kelimeler": [
-    "adli",
-    "epste",
-    "fotog",
-    "goste",
-    "in",
-    "oldur",
-    "otops",
-    "tip",
-    "uzman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "d9a9f598efa1": {
-   "id": "d9a9f598efa1",
-   "kaynak": "NTV",
-   "baslik": "Tanınmamak için estetik yaptırdı, kız arkadaşı yüzünden yakalandı",
-   "ozet": "Mersin'de tanınmamak için estetik operasyon geçirdiği belirlenen kişi, kız arkadaşının polisler tarafından takibe alınması sonucu yakalandı.",
-   "link": "https://www.ntv.com.tr/turkiye/taninmamak-icin-estetik-yaptirdi-kiz-arkadasi-yuzunden-yakalandi-1751189",
-   "zaman": "2026-11-17T00:36:12+03:00",
-   "kelimeler": [
-    "arkad",
-    "estet",
-    "kiz",
-    "tanin",
-    "yakal",
-    "yapti",
-    "yuzun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c4dfc9ecc44c"
-  },
   "2b039b4ba93f": {
    "id": "2b039b4ba93f",
    "kaynak": "TRT Haber",
@@ -28399,7 +28355,10 @@
     "yilma"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "ecf086066717": {
    "id": "ecf086066717",
@@ -34349,9 +34308,152 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3d5a91881222": {
+   "id": "3d5a91881222",
+   "kaynak": "TRT Haber",
+   "baslik": "Dünyanın bir milyar yılı aşkın jeolojik geçmişi kayıp",
+   "ozet": "Gezegenin tarihindeki devasa kaya katmanı boşluklarını inceleyen araştırmacılar, Dünyanın manto tabakasındaki hareketlerin kıtaları yükseltip aşındırarak yüz milyonlarca yıllık kayıtları sildiğini ortaya koydu.",
+   "link": "https://www.trthaber.com/haber/dunya/dunyanin-bir-milyar-yili-askin-jeolojik-gecmisi-kayip-963879.html",
+   "zaman": "2026-11-20T00:03:00+03:00",
+   "kelimeler": [
+    "askin",
+    "dunya",
+    "gecmi",
+    "jeolo",
+    "kayip",
+    "milya",
+    "yili"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c5cf39ab0085": {
+   "id": "c5cf39ab0085",
+   "kaynak": "TRT Haber",
+   "baslik": "İklim değişikliği insanlığın en eski mağara sanatını siliyor",
+   "ozet": "Endonezya'nın ücra mağaralarında bulunan ve tarihi 67 bin 800 yıl öncesine uzanan dünyanın bilinen en eski kaya resimleri, iklim değişikliğinin hızlandırdığı tuz kristalleşmesi nedeniyle dökülerek yok olma tehlikesiyle karşı karşıya.",
+   "link": "https://www.trthaber.com/haber/dunya/iklim-degisikligi-insanligin-en-eski-magara-sanatini-siliyor-963880.html",
+   "zaman": "2026-11-20T00:08:00+03:00",
+   "kelimeler": [
+    "degis",
+    "eski",
+    "iklim",
+    "insan",
+    "magar",
+    "sanat",
+    "siliy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6149368a2b15": {
+   "id": "6149368a2b15",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz'dan KIZILELMA'nın envantere girmesine ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bayraktar Kızılelma insansız savaş uçağımız Türk Silahlı Kuvvetlerimizin envanterinde. Daha güçlü, müreffeh ve güvenli bir gelecek yolunda KIZILELMA'mız hayırlı uğurlu olsun.\" ifadelerini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-kizilelmanin-envantere-girmesine-iliskin-paylasim-43384441",
+   "zaman": "2026-11-20T00:09:34+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "envan",
+    "girme",
+    "ilisk",
+    "kizil",
+    "nin",
+    "payla",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "01485a7c6420"
+  },
+  "564640d5b181": {
+   "id": "564640d5b181",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Acil Durum Yönetim Ajansı'nda tahtakurusu alarmı: Binlerce çalışan evden çalışacak",
+   "ozet": "ABD Acil Durum Yönetim Ajansı'nın Washington'daki genel merkezinde görülen tahtakurusu istilası nedeniyle bina ilaçlamaya alınırken binden fazla personel evden çalışmaya yönlendirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-acil-durum-yonetim-ajansinda-tahtakurusu-alarmi-binlerce-calisan-evden-calisacak-963881.html",
+   "zaman": "2026-11-20T00:13:00+03:00",
+   "kelimeler": [
+    "abd",
+    "ajans",
+    "alarm",
+    "binle",
+    "calis",
+    "durum",
+    "evden",
+    "nda",
+    "tahta",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd59c5175f96": {
+   "id": "bd59c5175f96",
+   "kaynak": "TRT Haber",
+   "baslik": "Bilim insanları kütleçekimini kullanarak duvarın arkasından mesaj gönderdi",
+   "ozet": "Avustralyalı fizikçiler, 1950'lerden kalma bir asansör ve hassas bir ölçüm cihazı kullanarak kalın bir tuğla duvarın arkasından engellenemez bir kablosuz mesaj iletmeyi başardı.",
+   "link": "https://www.trthaber.com/haber/dunya/bilim-insanlari-kutlecekimini-kullanarak-duvarin-arkasindan-mesaj-gonderdi-963882.html",
+   "zaman": "2026-11-20T00:21:00+03:00",
+   "kelimeler": [
+    "arkas",
+    "bilim",
+    "duvar",
+    "gonde",
+    "insan",
+    "kulla",
+    "kutle",
+    "mesaj"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ad6acd440362": {
+   "id": "ad6acd440362",
+   "kaynak": "NTV",
+   "baslik": "Diyarbakır'da sağanak sonrası beton köprü çöktü",
+   "ozet": "Diyarbakır'da sağanak yağış nedeniyle debisi yükselen derenin üzerindeki beton köprü çöktü.",
+   "link": "https://www.ntv.com.tr/turkiye/video-diyarbakirda-saganak-sonrasi-beton-kopru-coktu-1751685",
+   "zaman": "2026-11-20T00:26:22+03:00",
+   "kelimeler": [
+    "beton",
+    "coktu",
+    "diyar",
+    "kopru",
+    "sagan",
+    "sonra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "0d0712504b70": {
+   "id": "0d0712504b70",
+   "kaynak": "NTV",
+   "baslik": "Sağanak sonrası beton köprü çöktü. O anlar kamerada",
+   "ozet": "Diyarbakır'da sağanak yağış nedeniyle debisi yükselen derenin üzerindeki beton köptü çöktü.",
+   "link": "https://www.ntv.com.tr/turkiye/saganak-sonrasi-beton-kopru-coktu-o-anlar-kamerada-1751684",
+   "zaman": "2026-11-20T00:33:48+03:00",
+   "kelimeler": [
+    "anlar",
+    "beton",
+    "coktu",
+    "kamer",
+    "kopru",
+    "sagan",
+    "sonra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ad6acd440362"
   }
  },
  "kayit": [
+  "20.11 00:40:30  5 yeni haber",
   "20.11 00:15:58  1 yeni haber",
   "20.11 00:04:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Ankara'da \"Çobanlar Grubu\"na yönelik kara para aklama soruşturmasında ",
   "20.11 00:01:30  1 yeni haber",
@@ -34550,8 +34652,7 @@
   "17.11 14:16:43  9 yeni haber",
   "17.11 14:02:05  9 yeni haber",
   "17.11 13:46:29  2 yeni haber",
-  "17.11 13:33:34  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik",
-  "17.11 13:31:43  6 yeni haber"
+  "17.11 13:33:34  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik"
  ],
  "otomatik": false
 }
