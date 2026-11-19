@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "227a3caa59cb": {
-   "id": "227a3caa59cb",
-   "kaynak": "Hürriyet",
-   "baslik": "Muş’ta jandarmadan ruhsatsız silah operasyonu",
-   "ozet": "Muş’un Varto ilçesinde jandarma ekiplerince 4 şüphelinin evinde yapılan aramalarda 4 ruhsatsız tabanca, 3 av tüfeği ve çok sayıda mühimmat ele geçirildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/musta-jandarmadan-ruhsatsiz-silah-operasyonu-43379606",
-   "zaman": "2026-11-16T03:30:10+03:00",
-   "kelimeler": [
-    "janda",
-    "mus",
-    "opera",
-    "ruhsa",
-    "silah",
-    "ta"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6abd22737a32": {
    "id": "6abd22737a32",
    "kaynak": "Hürriyet",
@@ -32770,9 +32752,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "10694092a42f": {
+   "id": "10694092a42f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer niteliğinde'",
+   "ozet": "Perşembe günü Vladimir Putin, Donald Trump ve Şi Cinping arasında gerçekleşecek olan mini zirve, Kremlin için şimdiden bir zafer gibi görünüyor. Sonuç ne olursa olsun.",
+   "link": "https://www.bbc.com/turkce/articles/cqd01jmdez00o",
+   "zaman": "2026-11-19T03:22:46+03:00",
+   "kelimeler": [
+    "gorus",
+    "nitel",
+    "putin",
+    "si",
+    "tarih",
+    "trump",
+    "yapti",
+    "zafer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 03:31:16  1 yeni haber",
   "19.11 03:16:27  3 yeni haber",
   "19.11 03:16:27  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 02:46:08  1 yeni haber",
@@ -32971,8 +32974,7 @@
   "16.11 19:01:38  4 yeni haber",
   "16.11 18:46:29  4 yeni haber",
   "16.11 18:32:20  1 yeni haber",
-  "16.11 18:20:13  2 yeni haber",
-  "16.11 18:02:30  6 yeni haber"
+  "16.11 18:20:13  2 yeni haber"
  ],
  "otomatik": false
 }
