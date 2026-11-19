@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "fe6324f87afb": {
-   "id": "fe6324f87afb",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 21 şirketin yönetimi TMSF'ye devredildi",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında 21 şirketin yönetiminin TMSF'ye devredilmesine karar verildi.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-21-sirketin-yonetimi-tmsfye-devredildi-963466.html",
-   "zaman": "2026-11-17T00:49:00+03:00",
-   "kelimeler": [
-    "21",
-    "devre",
-    "fon",
-    "sirke",
-    "sorus",
-    "tmsf",
-    "ye",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2759f40ceb31": {
    "id": "2759f40ceb31",
    "kaynak": "Sözcü",
@@ -31529,7 +31509,8 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1db38d7d63b6": {
    "id": "1db38d7d63b6",
@@ -34435,9 +34416,53 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ad6acd440362"
+  },
+  "61ca172b09c7": {
+   "id": "61ca172b09c7",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ilk gün sona erdi",
+   "ozet": "Türkiye dışında ilk kez Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ilk gün sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenen-etnospor-kultur-festivalinde-ilk-gun-sona-erdi/4131415",
+   "zaman": "2026-11-19T21:07:27+03:00",
+   "kelimeler": [
+    "arabi",
+    "duzen",
+    "erdi",
+    "etnos",
+    "festi",
+    "gun",
+    "ilk",
+    "kultu",
+    "nde",
+    "sona",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d633a601ff09": {
+   "id": "d633a601ff09",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, UAD'nin Myanmar kararını memnuniyetle karşıladı",
+   "ozet": "Dışişleri Bakanlığının açıklamasında, Uluslararası Adalet Divanının UAD, Myanmarın Rohingalara karşı soykırım işlediğine hükmeden kararının memnuniyetle karşılandığı ve kararın, Rohinga Müslümanlarının maruz kaldıkları sistematik zulmün tescili, adaletin temini ve hesap…",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-uadnin-myanmar-kararini-memnuniyetle-karsiladi-963883.html",
+   "zaman": "2026-11-20T00:35:00+03:00",
+   "kelimeler": [
+    "karar",
+    "karsi",
+    "memnu",
+    "myanm",
+    "nin",
+    "turki",
+    "uad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "493e22eb2298"
   }
  },
  "kayit": [
+  "20.11 01:01:25  1 yeni haber",
   "20.11 00:48:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · Sağlık Bilimleri Üniversitesi Rektörü Prof. Dr. Aydın'ın eşi kazada ha",
   "20.11 00:40:30  5 yeni haber",
   "20.11 00:15:58  1 yeni haber",
@@ -34636,8 +34661,7 @@
   "17.11 14:46:35  3 yeni haber",
   "17.11 14:32:00  6 yeni haber",
   "17.11 14:16:43  9 yeni haber",
-  "17.11 14:02:05  9 yeni haber",
-  "17.11 13:46:29  2 yeni haber"
+  "17.11 14:02:05  9 yeni haber"
  ],
  "otomatik": false
 }
