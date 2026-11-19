@@ -1,89 +1,5 @@
 {
  "haberler": {
-  "c54992371694": {
-   "id": "c54992371694",
-   "kaynak": "BBC Türkçe",
-   "baslik": "AKP milletvekili Karaaslan'dan fon iddialarına yanıt",
-   "ozet": "YENİ Parti İzmir Milletvekili Ümit Özlale, fon krizine dair TBMM'de düzenlediği basın toplantısında, AKP Samsun milletvekili Çiğdem Karaaslan'ın eşi ve kardeşi ile ilgili iddialarda bulundu. Karaaslan iddiaları yalanladı.",
-   "link": "https://www.bbc.com/turkce/articles/cwgklxd3274po",
-   "zaman": "2026-11-16T16:49:18+03:00",
-   "kelimeler": [
-    "akp",
-    "dan",
-    "fon",
-    "iddia",
-    "karaa",
-    "mille",
-    "yanit"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6f981204a6f3": {
-   "id": "6f981204a6f3",
-   "kaynak": "AA",
-   "baslik": "İngiltere Dışişleri Bakanı Miliband, Brexit anlaşmasının ekonomiye zarar verdiğini belirtti",
-   "ozet": "İngiltere Dışişleri Bakanı Ed Miliband, ülkesinin Avrupa Birliği'nden (AB) ayrılmasının (Brexit) ekonomik açıdan beklenen faydaları sağlamadığını belirterek, mevcut Brexit anlaşmasının iyi bir anlaşma olmadığını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-disisleri-bakani-miliband-brexit-anlasmasinin-ekonomiye-zarar-verdigini-belirtti/4126792",
-   "zaman": "2026-11-16T16:49:43+03:00",
-   "kelimeler": [
-    "anlas",
-    "bakan",
-    "belir",
-    "brexi",
-    "disis",
-    "ekono",
-    "ingil",
-    "milib",
-    "verdi",
-    "zarar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3c4dbb066f7e": {
-   "id": "3c4dbb066f7e",
-   "kaynak": "Hürriyet",
-   "baslik": "Sağlık Bakanı Memişoğlu 2027 yılı bütçesini TBMM plan ve bütçe komisyonuna sundu",
-   "ozet": "Sağlık Bakanı Prof. Dr. Kemal Memişoğlu, 16 Kasım 2026 Pazartesi günü, “Sağlık Bakanlığı 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi ve 2025 Yılı Merkezi Yönetim Kesin Hesap Kanunu Teklifi”nin görüşüldüğü TBMM Plan ve Bütçe Komisyonunda sunum yaptı.",
-   "link": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-2027-yili-butcesini-tbmm-plan-ve-butce-komisyonuna-sundu-43380374",
-   "zaman": "2026-11-16T16:52:25+03:00",
-   "kelimeler": [
-    "2027",
-    "bakan",
-    "butce",
-    "komis",
-    "memis",
-    "plan",
-    "sagli",
-    "sundu",
-    "tbmm",
-    "yili"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2c24a15e5740"
-  },
-  "5edd4ed25d94": {
-   "id": "5edd4ed25d94",
-   "kaynak": "AA",
-   "baslik": "\"İsrail'in İki Yüzü: Katliam ve Dezenformasyon\" paneli düzenlendi",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığınca \"İsrail'in İki Yüzü: Katliam ve Dezenformasyon\" paneli düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/israilin-iki-yuzu-katliam-ve-dezenformasyon-paneli-duzenlendi/4126803",
-   "zaman": "2026-11-16T16:56:08+03:00",
-   "kelimeler": [
-    "dezen",
-    "duzen",
-    "iki",
-    "in",
-    "israi",
-    "katli",
-    "panel",
-    "yuzu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "cbfff854b179": {
    "id": "cbfff854b179",
    "kaynak": "AA",
@@ -27634,7 +27550,8 @@
     "nasil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "68649607bbaa": {
    "id": "68649607bbaa",
@@ -31808,7 +31725,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "BBC Türkçe"
    ]
   },
   "d9d1cee5351f": {
@@ -33441,9 +33359,205 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b33cb62d4b29": {
+   "id": "b33cb62d4b29",
+   "kaynak": "AA",
+   "baslik": "Emine Erdoğan, Türkiye Çocuk Hakları Danışma Kurulu'nu kabul etti",
+   "ozet": "Emine Erdoğan, 20 Kasım Dünya Çocuk Hakları Günü kapsamında çocuklarla bir araya geldi. Çocuklar, Emine Erdoğan'a \"27. Uluslararası Çocuk Forumu Bildirgesi\"ni takdim etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-turkiye-cocuk-haklari-danisma-kurulunu-kabul-etti/4131009",
+   "zaman": "2026-11-19T16:24:37+03:00",
+   "kelimeler": [
+    "cocuk",
+    "danis",
+    "emine",
+    "erdog",
+    "etti",
+    "hakla",
+    "kabul",
+    "kurul",
+    "nu",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "db4c85a1e0ee": {
+   "id": "db4c85a1e0ee",
+   "kaynak": "AA",
+   "baslik": "51Talk öğrencileri COP31'de iklim için dünyaya seslendi",
+   "ozet": "Global çevrim içi bire bir İngilizce eğitim platformu 51Talk'un Türkiye'den iki öğrencisi, COP31'de dünyanın geleceğine ilişkin düşüncelerini İngilizce olarak uluslararası katılımcılarla paylaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/51talk-ogrencileri-cop31de-iklim-icin-dunyaya-seslendi/4131021",
+   "zaman": "2026-11-19T16:32:47+03:00",
+   "kelimeler": [
+    "51tal",
+    "cop31",
+    "dunya",
+    "iklim",
+    "ogren",
+    "sesle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "81610bd1c27f": {
+   "id": "81610bd1c27f",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan, Türkiye Çocuk Hakları Danışma Kurulu'nu kabul etti",
+   "ozet": "Emine Erdoğan, 20 Kasım Dünya Çocuk Hakları Günü kapsamında çocuklarla bir araya geldi. Çocuklar, Emine Erdoğan'a \"27. Uluslararası Çocuk Forumu Bildirgesi\"ni takdim etti.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-turkiye-cocuk-haklari-danisma-kurulunu-kabul-etti-963843.html",
+   "zaman": "2026-11-19T16:43:00+03:00",
+   "kelimeler": [
+    "cocuk",
+    "danis",
+    "emine",
+    "erdog",
+    "etti",
+    "hakla",
+    "kabul",
+    "kurul",
+    "nu",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b33cb62d4b29"
+  },
+  "2a9b46a7c816": {
+   "id": "2a9b46a7c816",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında son durum",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 120 bin lira oldu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-963842.html",
+   "zaman": "2026-11-19T16:45:00+03:00",
+   "kelimeler": [
+    "altin",
+    "durum",
+    "fiyat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "715bd0323d40"
+  },
+  "abf63f877b96": {
+   "id": "abf63f877b96",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Uluslararası Adalet Divanı'ndan 'Myanmar Arakanlı Müslümanlara soykırım yaptı' kararı",
+   "ozet": "Uluslararası Adalet Divanı, Myanmar'ın Arakanlı Müslüman azınlığa karşı soykırım yaptığına hükmetti. 1946 yılında kurulan mahkeme böylece tarihinde ilk kez bir devleti, soykırım suçundan mahkum etmiş oldu.",
+   "link": "https://www.bbc.com/turkce/articles/cj20q4p1g3p7o",
+   "zaman": "2026-11-19T16:45:35+03:00",
+   "kelimeler": [
+    "adale",
+    "araka",
+    "divan",
+    "karar",
+    "muslu",
+    "myanm",
+    "ndan",
+    "soyki",
+    "ulusl",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "22aa94e142cd"
+  },
+  "e37ca162b595": {
+   "id": "e37ca162b595",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan’dan Dünya Çocuk Hakları Günü kabulü: 20 maddelik bildirge takdim edildi",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Dünya Çocuk Hakları Günü kapsamında Cumhurbaşkanlığı Külliyesi’nde 20 çocuğu kabul etti. Çocuklar, 20 maddelik 27. Uluslararası Çocuk Forumu Bildirgesi’ni sundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-dunya-cocuk-haklari-gunu-kabulu-20-maddelik-bildirge-takdim-edildi-43384084",
+   "zaman": "2026-11-19T16:46:12+03:00",
+   "kelimeler": [
+    "20",
+    "bildi",
+    "cocuk",
+    "dan",
+    "dunya",
+    "edild",
+    "emine",
+    "erdog",
+    "gunu",
+    "hakla",
+    "kabul",
+    "madde",
+    "takdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "01cd398e0d47": {
+   "id": "01cd398e0d47",
+   "kaynak": "AA",
+   "baslik": "Gazprom: Avrupa'daki doğal gaz depolarında doluluk rekor düşük seviyede",
+   "ozet": "Rus enerji şirketi Gazprom, Avrupa'daki yer altı doğal gaz depolama tesislerinin doluluk oranının yüzde 70'in altına gerileyerek kasım ortası için tarihin en düşük seviyesine indiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazprom-avrupadaki-dogal-gaz-depolarinda-doluluk-rekor-dusuk-seviyede/4131061",
+   "zaman": "2026-11-19T16:48:48+03:00",
+   "kelimeler": [
+    "avrup",
+    "daki",
+    "depol",
+    "dogal",
+    "dolul",
+    "dusuk",
+    "gaz",
+    "gazpr",
+    "rekor",
+    "seviy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e950a9a5f78d": {
+   "id": "e950a9a5f78d",
+   "kaynak": "AA",
+   "baslik": "Kabatepe-Gökçeada hattındaki iki feribot seferi yarın yapılamayacak",
+   "ozet": "GESTAŞ, Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada hattında yarın yapılacak iki feribot seferini iptal etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/kabatepe-gokceada-hattindaki-iki-feribot-seferi-yarin-yapilamayacak/4131071",
+   "zaman": "2026-11-19T16:50:27+03:00",
+   "kelimeler": [
+    "ferib",
+    "gokce",
+    "hatti",
+    "iki",
+    "kabat",
+    "sefer",
+    "yapil",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "da1befa9dcde": {
+   "id": "da1befa9dcde",
+   "kaynak": "AA",
+   "baslik": "AB, İsrail'in Gazze'de ateşkes ihlalinin ardından \"tüm taraflara\" çağrı yaptı",
+   "ozet": "Avrupa Birliği (AB), İsrail'in Gazze'nin orta kesiminde başlattığı saldırılarla gerçekleştirdiği ateşkes ihlaline ilişkin, \"tüm taraflara\" ateşkese bağlı kalınması çağrısı yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-israilin-gazzede-ateskes-ihlalinin-ardindan-tum-taraflara-cagri-yapti/4131078",
+   "zaman": "2026-11-19T16:54:39+03:00",
+   "kelimeler": [
+    "ab",
+    "ardin",
+    "atesk",
+    "cagri",
+    "gazze",
+    "ihlal",
+    "in",
+    "israi",
+    "taraf",
+    "tum",
+    "yapti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 17:01:23  6 yeni haber",
   "19.11 16:46:01  6 yeni haber",
   "19.11 16:31:12  9 yeni haber",
   "19.11 16:18:00  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Tekirdağ ve Antalya ile 7 ilçe belediyesi AKP'ye geçti",
@@ -33642,8 +33756,7 @@
   "17.11 07:16:11  17 yeni haber",
   "17.11 07:04:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | Fon soruşturması kapsamında 21 şirkete kayyum atandı.",
   "17.11 06:23:28  1 yeni haber",
-  "17.11 06:16:00  1 yeni haber",
-  "17.11 06:02:03  3 yeni haber"
+  "17.11 06:16:00  1 yeni haber"
  ],
  "otomatik": false
 }
