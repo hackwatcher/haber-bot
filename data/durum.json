@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "36f17af636c0": {
-   "id": "36f17af636c0",
-   "kaynak": "NTV",
-   "baslik": "Bakırköy Belediyesi'nde ihale usulsüzlüğü soruşturması. 9 şüpheli için iddianame hazırlandı",
-   "ozet": "Bakırköy Belediyesi’ne yönelik ihale dosyalarında usulsüzlük soruşturmasında 9 şüpheliye yönelik iddianame hazırlandı.",
-   "link": "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesinde-ihale-usulsuzlugu-sorusturmasi-9-supheli-icin-iddianame-hazirlandi-1751169",
-   "zaman": "2026-11-16T18:58:53+03:00",
-   "kelimeler": [
-    "bakir",
-    "beled",
-    "hazir",
-    "iddia",
-    "ihale",
-    "nde",
-    "sorus",
-    "suphe",
-    "usuls"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "67f34376378a": {
-   "id": "67f34376378a",
-   "kaynak": "Hürriyet",
-   "baslik": "Büyükçekmece Belediyesi’ne yönelik davada 1 sanığa tahliye",
-   "ozet": "Görevinden uzaklaştırılan Büyükçekmece Belediye Başkanı Hasan Akgün ile 30 sanığın yargılandığı Büyükçekmece Belediyesi’ne yönelik “yolsuzluk” davasında duruşma görüldü.",
-   "link": "https://www.hurriyet.com.tr/gundem/buyukcekmece-belediyesine-yonelik-davada-1-saniga-tahliye-43380513",
-   "zaman": "2026-11-16T19:00:32+03:00",
-   "kelimeler": [
-    "beled",
-    "buyuk",
-    "davad",
-    "sanig",
-    "tahli",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "acd066724574": {
    "id": "acd066724574",
    "kaynak": "Hürriyet",
@@ -33677,7 +33635,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "52db30d3c841": {
@@ -33919,6 +33878,27 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "dab3492e7d12"
+  },
+  "83a3b1f23eda": {
+   "id": "83a3b1f23eda",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiyenin ilk insansız savaş uçağı KIZILELMA envantere girdi",
+   "ozet": "Türkiyenin ilk insansız savaş uçağı KIZILELMA, başarıyla tamamlanan kabul testlerinin ardından güvenlik güçlerinin envanterine girdi. Kabul testlerini başarıyla tamamlayan ilk 3 KIZILELMA güvenlik güçlerine teslim edildi.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-963857.html",
+   "zaman": "2026-11-19T18:49:00+03:00",
+   "kelimeler": [
+    "envan",
+    "girdi",
+    "ilk",
+    "insan",
+    "kizil",
+    "savas",
+    "turki",
+    "ucagi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "46c157753bd2"
   }
  },
  "kayit": [
