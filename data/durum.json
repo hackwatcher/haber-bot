@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "6abd22737a32": {
-   "id": "6abd22737a32",
-   "kaynak": "Hürriyet",
-   "baslik": "KKTC’nin 43. kuruluş yıl dönümünde Cumhurbaşkanlığı’nda resepsiyon düzenlendi",
-   "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) kuruluşunun 43. yıl dönümü dolayısıyla Cumhurbaşkanlığı'nda resepsiyon düzenlendi. Cumhurbaşkanı Tufan Erhürman, \"El eleyiz, yürek yüreğiz, gönül gönüleyiz. Hep de böyle olacak. Buna güvenimiz sonsuz.",
-   "link": "https://www.hurriyet.com.tr/gundem/kktcnin-43-kurulus-yil-donumunde-cumhurbaskanliginda-resepsiyon-duzenlendi-43379607",
-   "zaman": "2026-11-16T03:31:39+03:00",
-   "kelimeler": [
-    "43",
-    "cumhu",
-    "donum",
-    "duzen",
-    "kktc",
-    "kurul",
-    "nda",
-    "nin",
-    "resep",
-    "yil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ec0a9e5cc919"
-  },
-  "7956a6e8f6c9": {
-   "id": "7956a6e8f6c9",
-   "kaynak": "Hürriyet",
-   "baslik": "Nevşehir’de yolcu otobüsü ata çarptı: 1 ölü, 2 yaralı",
-   "ozet": "Nevşehir’de yolcu otobüsünün aniden yola çıkan ata çarpması sonucu meydana gelen kazada yedek şoför hayatını kaybederken, otobüs şoförü ve 1 yolcu yaralandı. Kazada at da telef oldu.",
-   "link": "https://www.hurriyet.com.tr/gundem/nevsehirde-yolcu-otobusu-ata-carpti-1-olu-2-yarali-43379610",
-   "zaman": "2026-11-16T03:34:48+03:00",
-   "kelimeler": [
-    "ata",
-    "carpt",
-    "nevse",
-    "olu",
-    "otobu",
-    "yaral",
-    "yolcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "07a67d561a9b"
-  },
   "1978f86d2e7f": {
    "id": "1978f86d2e7f",
    "kaynak": "BBC Türkçe",
@@ -32772,9 +32729,53 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "559d93fa8e69": {
+   "id": "559d93fa8e69",
+   "kaynak": "AA",
+   "baslik": "ABD'nin ilk Müslüman senatörü seçilen Sayed'den Trump'a \"herkes için sağlık sistemi\" önerisi",
+   "ozet": "ABD'de 3 Kasım'da yapılan ara seçimlerde ülkenin ilk Müslüman senatörü seçilen Mısır kökenli Abdul el-Sayed, ABD Başkanı Donald Trump'a \"habibi (canım)\" diye seslenerek herkes için sağlık hizmeti sunulması için birlikte çalışmayı önerdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-trumpa-herkes-icin-saglik-sistemi-onerisi/4129909",
+   "zaman": "2026-11-19T02:45:30+03:00",
+   "kelimeler": [
+    "abd",
+    "den",
+    "herke",
+    "ilk",
+    "muslu",
+    "nin",
+    "oneri",
+    "sagli",
+    "sayed",
+    "secil",
+    "senat",
+    "siste",
+    "trump"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "12545bcf17c7": {
+   "id": "12545bcf17c7",
+   "kaynak": "AA",
+   "baslik": "Rusya: Ukrayna, Kırım Köprüsü'ne yeniden saldırdı",
+   "ozet": "Rusya'nın yasa dışı ilhak ettiği Kırım'ın sözde yönetim başkanı Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne yeniden saldırı düzenlediğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-kirim-koprusune-yeniden-saldirdi/4129912",
+   "zaman": "2026-11-19T02:56:37+03:00",
+   "kelimeler": [
+    "kirim",
+    "kopru",
+    "rusya",
+    "saldi",
+    "ukray",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 03:46:20  2 yeni haber",
   "19.11 03:31:16  1 yeni haber",
   "19.11 03:16:27  3 yeni haber",
   "19.11 03:16:27  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -32973,8 +32974,7 @@
   "16.11 19:16:26  5 yeni haber",
   "16.11 19:01:38  4 yeni haber",
   "16.11 18:46:29  4 yeni haber",
-  "16.11 18:32:20  1 yeni haber",
-  "16.11 18:20:13  2 yeni haber"
+  "16.11 18:32:20  1 yeni haber"
  ],
  "otomatik": false
 }
