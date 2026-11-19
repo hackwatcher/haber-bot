@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "2f35db3941d1": {
-   "id": "2f35db3941d1",
-   "kaynak": "NTV",
-   "baslik": "COP31’de AFAD parkuru yoğun ilgi görüyor",
-   "ozet": "Antalya'da düzenlenen COP31'e çok sayıda kamu kurumu destek sağlıyor. AFAD da parkurunda afet risklerinin azaltılması ve iklim değişikliğine uyum konularında çeşitli etkinlikler düzenliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/video-cop31de-afad-parkuru-yogun-ilgi-goruyor-1751063",
-   "zaman": "2026-11-16T08:28:00+03:00",
-   "kelimeler": [
-    "afad",
-    "cop31",
-    "goruy",
-    "ilgi",
-    "parku",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7f0b2e07392a": {
    "id": "7f0b2e07392a",
    "kaynak": "TRT Haber",
@@ -33088,9 +33070,31 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ee3b6daf6120"
+  },
+  "1b6d916bec5f": {
+   "id": "1b6d916bec5f",
+   "kaynak": "NTV",
+   "baslik": "Bahçeli \"Yağmur Stratejisi\"ni açıkladı. Yedi çözüm önerisi sıraladı",
+   "ozet": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, Türkiye'de yaşanan sorunlara karşı oluşturduğu \"Yağmur Stratejisi\"nin ayrıntılarını açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/bahceli-yagmur-stratejisini-acikladi-yedi-cozum-onerisi-siraladi-1751536",
+   "zaman": "2026-11-19T08:23:34+03:00",
+   "kelimeler": [
+    "bahce",
+    "cozum",
+    "ni",
+    "oneri",
+    "siral",
+    "strat",
+    "yagmu",
+    "yedi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 08:31:07  1 yeni haber",
+  "19.11 08:31:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 07:46:00  2 yeni haber",
   "19.11 07:31:15  4 yeni haber",
   "19.11 07:15:55  10 yeni haber",
@@ -33288,9 +33292,7 @@
   "16.11 21:46:54  1 yeni haber",
   "16.11 21:31:48  1 yeni haber",
   "16.11 21:17:18  2 yeni haber",
-  "16.11 21:01:50  6 yeni haber",
-  "16.11 20:31:15  1 yeni haber",
-  "16.11 20:16:59  1 yeni haber"
+  "16.11 21:01:50  6 yeni haber"
  ],
  "otomatik": false
 }
