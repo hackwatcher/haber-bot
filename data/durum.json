@@ -1,41 +1,5 @@
 {
  "haberler": {
-  "260f9f515cf2": {
-   "id": "260f9f515cf2",
-   "kaynak": "Hürriyet",
-   "baslik": "Endonezya'da 6,6 büyüklüğünde deprem",
-   "ozet": "Endonezya'da 6,6 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/endonezyada-6-6-buyuklugunde-deprem-43380720",
-   "zaman": "2026-11-17T02:32:52+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "endon"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "95a2ed96f7df"
-  },
-  "ce0faf792acb": {
-   "id": "ce0faf792acb",
-   "kaynak": "NTV",
-   "baslik": "16 yaşındaki ehliyetsiz sürücü, ortalığı savaş alanına çevirdi",
-   "ozet": "Çorum'da polisten kaçan 16 yaşındaki ehliyetsiz sürücü, kovalamaca sırasında biri ekip otosu olmak üzere 4 araca çarparak 4 kişinin yaralanmasına sebep oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/16-yasindaki-ehliyetsiz-surucu-ortaligi-savas-alanina-cevirdi-1751193",
-   "zaman": "2026-11-17T02:36:10+03:00",
-   "kelimeler": [
-    "16",
-    "alani",
-    "cevir",
-    "ehliy",
-    "ortal",
-    "savas",
-    "suruc",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4f87b7e0d6fc": {
    "id": "4f87b7e0d6fc",
    "kaynak": "TRT Haber",
@@ -34449,9 +34413,90 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7841dd3d8636": {
+   "id": "7841dd3d8636",
+   "kaynak": "AA",
+   "baslik": "Beton atıkları iklime dirençli kent altyapılarında kullanılacak",
+   "ozet": "Sakarya Üniversitesi (SAÜ) öncülüğünde yürütülen projeyle, kentsel dönüşüm sonrası ortaya çıkan beton atıklarının geri dönüştürülerek iklime dirençli kent altyapılarında kullanılması ve böylece sürdürülebilir geleceğe katkı sağlanması amaçlanıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/beton-atiklari-iklime-direncli-kent-altyapilarinda-kullanilacak/4131580",
+   "zaman": "2026-11-20T00:10:01+03:00",
+   "kelimeler": [
+    "altya",
+    "atikl",
+    "beton",
+    "diren",
+    "iklim",
+    "kent",
+    "kulla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72c3a163b9ab": {
+   "id": "72c3a163b9ab",
+   "kaynak": "AA",
+   "baslik": "\"COP31\" adlı caretta caretta 175 kilometre mesafe katetti",
+   "ozet": "Deniz Kaplumbağaları Araştırma, Kurtarma ve Rehabilitasyon Merkezi (DEKAMER) ekibince 29 Ekim'de uydu takip cihazı takılarak denize bırakılan \"COP31\" adlı caretta caretta, bugüne kadar 175 kilometre mesafe katetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-adli-caretta-caretta-175-kilometre-mesafe-katetti/4131584",
+   "zaman": "2026-11-20T00:13:43+03:00",
+   "kelimeler": [
+    "175",
+    "adli",
+    "caret",
+    "cop31",
+    "katet",
+    "kilom",
+    "mesaf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "571d31ece0d6": {
+   "id": "571d31ece0d6",
+   "kaynak": "AA",
+   "baslik": "Küresel sigorta primlerinde gelecek 2 yılda reel artış bekleniyor",
+   "ozet": "Dünyanın önde gelen reasürans şirketlerinden Swiss Re, reel bazda küresel hayat dışı sigorta primlerinin 2027'de yüzde 1, 2028'de yüzde 2, hayat sigortası primlerinin ise 2027-2028 döneminde yıllık ortalama yüzde 2,1 artış kaydedeceğini öngördü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-sigorta-primlerinde-gelecek-2-yilda-reel-artis-bekleniyor/4131587",
+   "zaman": "2026-11-20T00:15:00+03:00",
+   "kelimeler": [
+    "artis",
+    "bekle",
+    "gelec",
+    "kures",
+    "priml",
+    "reel",
+    "sigor",
+    "yilda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6b2b04b784dc": {
+   "id": "6b2b04b784dc",
+   "kaynak": "AA",
+   "baslik": "Yenilikçi ahşap kompozit levhayla yapılarda yüzde 30 enerji tasarrufu sağlanabilecek",
+   "ozet": "Karadeniz Teknik Üniversitesi (KTÜ) Orman Fakültesince TÜBİTAK desteğiyle, yapılarda enerji tasarrufunu artırmak amacıyla \"Binalarda Enerji Depolama için Lignoselüloz Matrisli Biyobazlı Faz Değişim Malzemeleri Projesi\" hayata geçirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yenilikci-ahsap-kompozit-levhayla-yapilarda-yuzde-30-enerji-tasarrufu-saglanabilecek/4131594",
+   "zaman": "2026-11-20T00:21:21+03:00",
+   "kelimeler": [
+    "30",
+    "ahsap",
+    "enerj",
+    "kompo",
+    "levha",
+    "sagla",
+    "tasar",
+    "yapil",
+    "yenil",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 02:45:58  4 yeni haber",
   "20.11 02:31:10  2 yeni haber",
   "20.11 02:23:27  3 yeni haber",
   "20.11 02:01:27  2 yeni haber",
@@ -34650,8 +34695,7 @@
   "17.11 16:02:04  1 yeni haber",
   "17.11 15:46:31  5 yeni haber",
   "17.11 15:31:40  5 yeni haber",
-  "17.11 15:16:46  3 yeni haber",
-  "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope"
+  "17.11 15:16:46  3 yeni haber"
  ],
  "otomatik": false
 }
