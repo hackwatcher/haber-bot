@@ -1,21 +1,5 @@
 {
  "haberler": {
-  "2759f40ceb31": {
-   "id": "2759f40ceb31",
-   "kaynak": "Sözcü",
-   "baslik": "Yavuz Bingöl hastaneye kaldırıldı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/yavuz-bingol-hastaneye-kaldirildi-p382052",
-   "zaman": "2026-11-17T01:09:45+03:00",
-   "kelimeler": [
-    "bingo",
-    "hasta",
-    "kaldi",
-    "yavuz"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7b3d51f6f425": {
    "id": "7b3d51f6f425",
    "kaynak": "TRT Haber",
@@ -33929,8 +33913,17 @@
     "taziy",
     "ten"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-20T01:19:08.649392+03:00",
+   "ig_id": "17928508683201616",
+   "reels_id": "18139471486679291",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1021045370258722",
+   "slayt": 4,
+   "kanca": "TRAFİK KAZASINDA VEFAT"
   },
   "099ef56464b6": {
    "id": "099ef56464b6",
@@ -34459,9 +34452,31 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "493e22eb2298"
+  },
+  "2195bb576e5c": {
+   "id": "2195bb576e5c",
+   "kaynak": "AA",
+   "baslik": "Anthropic'in hisseleri ilk işlem gününü yükselişle tamamladı",
+   "ozet": "Claude yapay zeka modellerinin geliştiricisi Anthropic'in hisseleri, Nasdaq'taki ilk işlem gününde yükseliş kaydetti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anthropicin-hisseleri-ilk-islem-gununu-yukselisle-tamamladi/4131617",
+   "zaman": "2026-11-20T01:13:39+03:00",
+   "kelimeler": [
+    "anthr",
+    "gunun",
+    "hisse",
+    "ilk",
+    "in",
+    "islem",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 01:19:08  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Parti'li Çelik'ten, Prof. Dr. Sevim Aydın için taziye mesajı",
+  "20.11 01:15:54  1 yeni haber",
   "20.11 01:01:25  1 yeni haber",
   "20.11 00:48:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · Sağlık Bilimleri Üniversitesi Rektörü Prof. Dr. Aydın'ın eşi kazada ha",
   "20.11 00:40:30  5 yeni haber",
@@ -34659,9 +34674,7 @@
   "17.11 15:10:05  6 yeni haber",
   "17.11 15:01:32  11 yeni haber",
   "17.11 14:46:35  3 yeni haber",
-  "17.11 14:32:00  6 yeni haber",
-  "17.11 14:16:43  9 yeni haber",
-  "17.11 14:02:05  9 yeni haber"
+  "17.11 14:32:00  6 yeni haber"
  ],
  "otomatik": false
 }
