@@ -1,66 +1,5 @@
 {
  "haberler": {
-  "f96154bb4550": {
-   "id": "f96154bb4550",
-   "kaynak": "AA",
-   "baslik": "Yemen'de Husilerin Aden'e yaklaşması Taiz ve Babulmendeb cephelerindeki dengeleri değiştirdi",
-   "ozet": "Yemen'de İran destekli Husilerin eylül ayından bu yana ülkenin batı kıyısı ve güneyindeki ilerleyişi, Taiz, Babulmendeb ve Aden çevresindeki cephelerde askeri dengeleri değiştirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-adene-yaklasmasi-taiz-ve-babulmendeb-cephelerindeki-dengeleri-degistirdi/4126526",
-   "zaman": "2026-11-16T14:26:46+03:00",
-   "kelimeler": [
-    "aden",
-    "babul",
-    "cephe",
-    "degis",
-    "denge",
-    "husil",
-    "taiz",
-    "yakla",
-    "yemen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "27e6facfb7e0": {
-   "id": "27e6facfb7e0",
-   "kaynak": "TRT Haber",
-   "baslik": "Şanlıurfa ve Hakkari'de 566 kilo uyuşturucu ele geçirildi",
-   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamada Şanlıurfa ve Hakkari'de jandarma ekiplerince düzenlenen operasyonlarda 566 kilogram uyuşturucu madde ele geçirildiği belirtildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/sanliurfa-ve-hakkaride-566-kilo-uyusturucu-ele-gecirildi-963425.html",
-   "zaman": "2026-11-16T14:21:00+03:00",
-   "kelimeler": [
-    "566",
-    "ele",
-    "gecir",
-    "hakka",
-    "kilo",
-    "sanli",
-    "uyust"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5da7f1267f36"
-  },
-  "ed2bc9eda537": {
-   "id": "ed2bc9eda537",
-   "kaynak": "Sözcü",
-   "baslik": "Tutuklu Ömer Sarıgül ek ifade için adliyeye getirildi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/tutuklu-omer-sarigul-ek-ifade-icin-adliyeye-getirildi-p381880",
-   "zaman": "2026-11-16T14:30:28+03:00",
-   "kelimeler": [
-    "adliy",
-    "ek",
-    "getir",
-    "ifade",
-    "omer",
-    "sarig",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea0ea79cd61f"
-  },
   "2be07f9b6b51": {
    "id": "2be07f9b6b51",
    "kaynak": "AA",
@@ -33346,7 +33285,10 @@
     "ulusl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d9d1cee5351f": {
    "id": "d9d1cee5351f",
@@ -33383,9 +33325,95 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8ce513d65871": {
+   "id": "8ce513d65871",
+   "kaynak": "TRT Haber",
+   "baslik": "UAD, Myanmar'ın Arakanlı Müslümanlara karşı soykırım işlediğine hükmetti",
+   "ozet": "Lahey'deki Uluslararası Adalet Divanı yargıçları, Myanmar güçlerinin Arakanlı Müslümanlara mensup binlerce kişiyi öldürdüğüne ve yaygın cinsel şiddet uyguladığına, Arakanlı Müslümanlara karşı soykırım işlediğine hükmetti",
+   "link": "https://www.trthaber.com/haber/dunya/uad-myanmarin-arakanli-muslumanlara-karsi-soykirim-isledigine-hukmetti-963808.html",
+   "zaman": "2026-11-19T13:38:00+03:00",
+   "kelimeler": [
+    "araka",
+    "hukme",
+    "in",
+    "isled",
+    "karsi",
+    "muslu",
+    "myanm",
+    "soyki",
+    "uad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "22aa94e142cd"
+  },
+  "3646ad40c0da": {
+   "id": "3646ad40c0da",
+   "kaynak": "AA",
+   "baslik": "ABD, Çin ve Rusya liderleri, Şıncın'daki zirvenin ardından \"barış deklarasyonu\" yayımladı",
+   "ozet": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin, Çin'in Şıncın kentinde yaptıkları üçlü zirvenin ardından \"barışa yönelik deklarasyon\" başlığıyla ortak açıklama yayımladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-cin-ve-rusya-liderleri-sincindaki-zirvenin-ardindan-baris-deklarasyonu-yayimladi/4130573",
+   "zaman": "2026-11-19T14:13:26+03:00",
+   "kelimeler": [
+    "abd",
+    "ardin",
+    "baris",
+    "cin",
+    "daki",
+    "dekla",
+    "lider",
+    "rusya",
+    "sinci",
+    "yayim",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "db207ac6be16": {
+   "id": "db207ac6be16",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan: Fitnecilere karşı uyanık olacağız",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Eleştiri maskesi altında hakareti asla kabullenemeyiz. İddia ile iftiranın aynı havanda dövüldüğünü görüyoruz.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-fitnecilere-karsi-uyanik-olacagiz-1751630",
+   "zaman": "2026-11-19T14:26:08+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "fitne",
+    "karsi",
+    "olaca",
+    "uyani"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110c48f84b98"
+  },
+  "8c7b3939d0f8": {
+   "id": "8c7b3939d0f8",
+   "kaynak": "XHABER",
+   "baslik": "GTA 6'da bir timsahın karakteri avladığı anlar.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30769",
+   "zaman": "2026-11-19T14:31:09+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "GTA 6'da bir timsahın karakteri avladığı anlar.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/P5rRg4mTacopbLIBlsj_U5beFzYXYHTmc8cQcEC5-8b5ciQesrA8hHouMBsuRSizFS7DIkhTUEOttQZ_85vKCZyBqOD6U0NB5QmoawDjh9yjApLA1pnalRiiT4mNpPjP_i8asjY2cTZLp_oAYIHe9e3Sj-wwTh2T4CSdZh5P0priCYrSozd7Ry9V_HLTVDYzUnCsGaq-BbUJAprN6OoDnnMw46fran3hUnHTfi9J8p88nZ9vBwZJsMQFsQVC6cuSM3-Wo_6P27AXJsmDBggf_A_Y_qdqQaC25NuQI59vJJa3xMqZl5z7hSuI3wPKWw-razsXOME3JrowRZpoyVWVDw",
+   "tg_video_url": "https://cdn4.telesco.pe/file/4bd5a9117d.mp4?token=ClV3EEo3iZ9LenW_aLFfwUw5cNHqmJp5KIyn8OFf5H4rZ3eDmq8bj3ftgERSzRTUcuRwARiG59FPq0aVbBHbJhvprucTMMsB4lkPwOTHnDojR7b2M4tfYvGSPkHUKgLpDUilez3V0frKl3euo2QINMPB8wt8DTYlttuvQziG6EJlddeJpPkoM3SjuaHkksjpqmhmgkIvmm4ujBDHpJRTw5wOyTcDwzDm3HtH_8Nc1WdApaXPkb0dQe4Qe9ImWNpYu36o-I1PPEd6aFp-HJwLXpGIvuAXvp-boVPq6P5AA-bC_tU4Sc-3o9rGICrgSEZrrlPkaSZucm_TjGb8qbAFpRFMuhIzVz0X0g7TVNM--fdwrbVjtoZYDEW7RQh_PF2vhqhYEbW2jux5MQkWTAaiaGxdw9Bn67dwl-idMkvYEo-YRr6RfBPmwEFUWI1PDtWsQJczWfFIyJnAg1f8eMFPbXvjE0Fe0lmDtWA9vzRN97H76yHRfIPzRR0xUg-ggcj1WHs-IeJIYsRiqKcU_FDbXUBb0adGLn21dDS-mi7bwDEzX0525FpkblPiFjeupEOiNIYr2IsKIT3Uor1Y9OE2l3Pq81JG6bAj6TWkipdiw09btYUZ6y9q6myqZw71lCbdLw7Bm-onrYLeDwNFfwYLPAN2HxOwswJvAZbHmlvW6xU",
+   "kelimeler": [
+    "anlar",
+    "avlad",
+    "gta",
+    "karak",
+    "timsa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 14:31:16  2 yeni haber",
   "19.11 14:20:08  15 yeni haber",
   "19.11 14:01:21  18 yeni haber",
   "19.11 13:35:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kocasını ağzına böcek ilacı sıkarak öldürdü! Adli Tıp raporu yalanını ",
@@ -33584,8 +33612,7 @@
   "17.11 03:46:34  1 yeni haber",
   "17.11 03:46:34  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "17.11 03:31:37  2 yeni haber",
-  "17.11 03:16:40  3 yeni haber",
-  "17.11 03:02:16  2 yeni haber"
+  "17.11 03:16:40  3 yeni haber"
  ],
  "otomatik": false
 }
