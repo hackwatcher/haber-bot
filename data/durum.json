@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "680c972f0990": {
-   "id": "680c972f0990",
-   "kaynak": "Hürriyet",
-   "baslik": "Sahte pasaportlu 'joker' mirasçılarla dolandırıcılık operasyonu: 5 tutuklama",
-   "ozet": "İSTANBUL merkezli 3 ilde, yurt dışında hayatını kaybeden veya hakkında gaiplik kararı verilen Türk vatandaşlarının miraslarını sahte belgelerle ele geçirmeye çalışan şüphelilere yönelik operasyon düzenlendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/sahte-pasaportlu-joker-mirascilarla-dolandiricilik-operasyonu-5-tutuklama-43380500",
-   "zaman": "2026-11-16T18:36:15+03:00",
-   "kelimeler": [
-    "dolan",
-    "joker",
-    "miras",
-    "opera",
-    "pasap",
-    "sahte",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ef19c1261a28": {
-   "id": "ef19c1261a28",
-   "kaynak": "AA",
-   "baslik": "Kuzey Atlantik buzul balinasının popülasyonu yaklaşık yüzde 2 azalarak 382'ye geriledi",
-   "ozet": "Dünyanın nesli en fazla tehlike altındaki balina türlerinden biri olan Kuzey Atlantik buzul balinasının popülasyonu yaklaşık yüzde 2 azalarak 382'ye düştü.",
-   "link": "https://www.aa.com.tr/tr/dunya/kuzey-atlantik-buzul-balinasinin-populasyonu-yaklasik-yuzde-2-azalarak-382ye-geriledi/4126932",
-   "zaman": "2026-11-16T18:43:10+03:00",
-   "kelimeler": [
-    "382",
-    "atlan",
-    "azala",
-    "balin",
-    "buzul",
-    "geril",
-    "kuzey",
-    "popul",
-    "yakla",
-    "ye",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c52b36782437": {
-   "id": "c52b36782437",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31'de 'Sıfır Atık' damgası",
-   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da devam eden COP31 İklim Zirvesi'nde ilk kez sıfır atık özelinde tematik bir gün düzenlendi.",
-   "link": "https://www.trthaber.com/haber/cevre/cop31de-sifir-atik-damgasi-963445.html",
-   "zaman": "2026-11-16T18:43:00+03:00",
-   "kelimeler": [
-    "atik",
-    "cop31",
-    "damga",
-    "sifir"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "510566b7beb1"
-  },
-  "4fc662616c46": {
-   "id": "4fc662616c46",
-   "kaynak": "AA",
-   "baslik": "Almanya'da vatandaşların dijital kamu hesaplarına yönelik büyük ölçekli siber saldırı girişimi",
-   "ozet": "Almanya'da bilgisayar korsanları, federal hükümetin vatandaşlara dijital kamu hizmetleri sunduğu merkezi kimlik doğrulama sistemi \"BundID\" hesaplarına yönelik büyük ölçekli siber saldırı girişiminde bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933",
-   "zaman": "2026-11-16T18:48:03+03:00",
-   "kelimeler": [
-    "alman",
-    "buyuk",
-    "dijit",
-    "giris",
-    "hesap",
-    "kamu",
-    "olcek",
-    "saldi",
-    "siber",
-    "vatan",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "03520308369f": {
-   "id": "03520308369f",
-   "kaynak": "AA",
-   "baslik": "ABD, gelişmiş yapay zeka çiplerine uzaktan erişimi engellemeye yönelik düzenleme yayımladı",
-   "ozet": "ABD Ticaret Bakanlığı, gelişmiş yapay zeka çiplerine ve sunucularına uzaktan erişim yoluyla mevcut ihracat kısıtlamalarının aşılmasını önlemek amacıyla düzenleme yaptı.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-gelismis-yapay-zeka-ciplerine-uzaktan-erisimi-engellemeye-yonelik-duzenleme-yayimladi-/4126935",
-   "zaman": "2026-11-16T18:50:27+03:00",
-   "kelimeler": [
-    "abd",
-    "ciple",
-    "duzen",
-    "engel",
-    "erisi",
-    "gelis",
-    "uzakt",
-    "yapay",
-    "yayim",
-    "yonel",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "36f17af636c0": {
    "id": "36f17af636c0",
    "kaynak": "NTV",
@@ -129,52 +23,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "09ea79d5b768": {
-   "id": "09ea79d5b768",
-   "kaynak": "AA",
-   "baslik": "Almanya'da vatandaşların dijital kamu hesaplarına yönelik büyük ölçekli siber saldırı girişimi",
-   "ozet": "Almanya'da bilgisayar korsanları, federal hükümetin vatandaşlara dijital kamu hizmetleri sunduğu merkezi kimlik doğrulama sistemi \"BundID\" hesaplarına yönelik büyük ölçekli siber saldırı girişiminde bulundu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933",
-   "zaman": "2026-11-16T18:48:03+03:00",
-   "kelimeler": [
-    "alman",
-    "buyuk",
-    "dijit",
-    "giris",
-    "hesap",
-    "kamu",
-    "olcek",
-    "saldi",
-    "siber",
-    "vatan",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4fc662616c46"
-  },
-  "8becd4f04045": {
-   "id": "8becd4f04045",
-   "kaynak": "AA",
-   "baslik": "Çin, APEC Zirvesi'nde bölgesel serbest ticaret anlaşmasını ilerletme arayışında",
-   "ozet": "Çin, ev sahipliğini yaptığı Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi'nde, daha önce gündeme gelen bölgesel serbest ticaret anlaşması fikrini ilerletmek üzere eylem planları önerecek.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cin-apec-zirvesinde-bolgesel-serbest-ticaret-anlasmasini-ilerletme-arayisinda/4126938",
-   "zaman": "2026-11-16T18:51:40+03:00",
-   "kelimeler": [
-    "anlas",
-    "apec",
-    "arayi",
-    "bolge",
-    "cin",
-    "ilerl",
-    "nde",
-    "serbe",
-    "ticar",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "67f34376378a": {
    "id": "67f34376378a",
@@ -33675,7 +33523,11 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "NTV"
+   ]
   },
   "7a32044846fd": {
    "id": "7a32044846fd",
@@ -33823,7 +33675,10 @@
     "ucagi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "52db30d3c841": {
    "id": "52db30d3c841",
@@ -33884,9 +33739,191 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6da4f4e1f671": {
+   "id": "6da4f4e1f671",
+   "kaynak": "AA",
+   "baslik": "COP31 Müzakereler Başkanı Bowen ve UNFCCC İcra Sekreteri Stiell ortak basın toplantısında konuştu",
+   "ozet": "COP31 Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, \"Dünyaya güçlü bir mesaj veren bir uzlaşıya ulaştığımız netleşene kadar istişare ve müzakere etmeye devam edeceğiz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-muzakereler-baskani-bowen-ve-unfccc-icra-sekreteri-stiell-ortak-basin-toplantisinda-konustu/4131165",
+   "zaman": "2026-11-19T17:49:55+03:00",
+   "kelimeler": [
+    "basin",
+    "baska",
+    "bowen",
+    "cop31",
+    "icra",
+    "konus",
+    "muzak",
+    "ortak",
+    "sekre",
+    "stiel",
+    "topla",
+    "unfcc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d55079b31f41": {
+   "id": "d55079b31f41",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın başkenti Riyad'daki Finans Merkezi'ne saldırı düzenlendi",
+   "ozet": "Suudi Arabistan Sivil Savunma Genel Müdürlüğü, başkent Riyad'daki Finans Merkezi kulelerinden birine Husiler tarafından saldırı düzenlendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyaddaki-finans-merkezine-saldiri-duzenlendi/4131221",
+   "zaman": "2026-11-19T18:31:06+03:00",
+   "kelimeler": [
+    "arabi",
+    "baske",
+    "daki",
+    "duzen",
+    "finan",
+    "in",
+    "merke",
+    "riyad",
+    "saldi",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e7cf26ede58d": {
+   "id": "e7cf26ede58d",
+   "kaynak": "NTV",
+   "baslik": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA envantere girdi",
+   "ozet": "Baykar tarafından milli ve özgün olarak geliştirilen Türkiye’nin ilk insansız savaş uçağı KIZILELMA, başarıyla tamamlanan kabul testlerinin ardından güvenlik güçlerinin envanterine girdi.",
+   "link": "https://www.ntv.com.tr/turkiye/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-1751663",
+   "zaman": "2026-11-19T18:36:22+03:00",
+   "kelimeler": [
+    "envan",
+    "girdi",
+    "ilk",
+    "insan",
+    "kizil",
+    "nin",
+    "savas",
+    "turki",
+    "ucagi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "46c157753bd2"
+  },
+  "eab938033185": {
+   "id": "eab938033185",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Devrim Muhafızları Ordusu: ABD'nin olası kara saldırısına hazırız",
+   "ozet": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, ABD'nin olası kara saldırısına karşı hazırlıklarının hava ve deniz savunmasına kıyasla çok daha ileri düzeyde olduğunu belirterek, \"Kara alanında mücadeleye hazırlığımız, hava ve deniz alanlarındaki hazırlığımızdan çok daha…",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-abdnin-olasi-kara-saldirisina-haziriz-963856.html",
+   "zaman": "2026-11-19T18:37:00+03:00",
+   "kelimeler": [
+    "abd",
+    "devri",
+    "hazir",
+    "iran",
+    "kara",
+    "muhaf",
+    "nin",
+    "olasi",
+    "ordus",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d449aacab481": {
+   "id": "d449aacab481",
+   "kaynak": "XHABER",
+   "baslik": "Gram altın 5.979 TL'ye düştü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30774",
+   "zaman": "2026-11-19T18:38:25+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Gram altın 5.979 TL'ye düştü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/bA26Eh6KemM9V_yXpBARv5iRLaGpoAzU28FwDX4GEYFcRbW2c7nn0ep08MTBNXjXCQd47hBvzwHlUEkiu0Qo8rbr6UuXWm5qVzn0UaL2gpRFuhxC-m-sMcaIQRnpCnNQw-Nn4fpRYQdeq00m6CBLUTDdH4bzqCD6X7eEVO6htjWV-E7al3m0zS80FtnKtQrN5tuzUctPX9FUyUIdjImncb6io-mOyzpC2JZ4ucDIrigS6KPVYxVLRttA1-SFl0s93fHVB_8n9IvxLN6LAxcbSiQbgDQkHFus-4RZ2VKH4IRZtS97WBl_e5YZiqesaGjmbXMSgc2PBmIDfgDcE2pTmg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "979",
+    "altin",
+    "dustu",
+    "gram",
+    "tl",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8754fc1f110d": {
+   "id": "8754fc1f110d",
+   "kaynak": "AA",
+   "baslik": "Kırmızı bültenle aranan 2 kişi Bulgaristan'dan Türkiye'ye iade edildi",
+   "ozet": "İçişleri Bakanlığı, 60 farklı suça karışan ve kırmızı bültenle aranan \"yeni nesil organize suç örgütü\" yöneticisi Emre Yalvan ile kırmızı bültenle aranan Murat Saydam'ın Bulgaristan'dan Türkiye'ye iade edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi/4131228",
+   "zaman": "2026-11-19T18:38:38+03:00",
+   "kelimeler": [
+    "arana",
+    "bulga",
+    "bulte",
+    "dan",
+    "edild",
+    "iade",
+    "kirmi",
+    "kisi",
+    "turki",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dab3492e7d12"
+  },
+  "63bcd9cb6b27": {
+   "id": "63bcd9cb6b27",
+   "kaynak": "AA",
+   "baslik": "Almanya'nın AB bütçesinde Ukrayna'ya destek şartına itirazlar artıyor",
+   "ozet": "Almanya'nın Avrupa Birliğinin (AB) 2028-2034 bütçesine ilişkin uzlaşmayı tüm üye ülkelerin Ukrayna'nın finansmanına katılması şartına bağlayan yaklaşımına yönelik Birlik içerisinden itirazlar artıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyanin-ab-butcesinde-ukraynaya-destek-sartina-itirazlar-artiyor/4131234",
+   "zaman": "2026-11-19T18:45:49+03:00",
+   "kelimeler": [
+    "ab",
+    "alman",
+    "artiy",
+    "butce",
+    "deste",
+    "itira",
+    "nin",
+    "sarti",
+    "ukray",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d5346f25cceb": {
+   "id": "d5346f25cceb",
+   "kaynak": "NTV",
+   "baslik": "Kırmızı bültenle aranan 2 kişi Bulgaristan'dan Türkiye'ye iade edildi",
+   "ozet": "İçişleri Bakanlığı, kırmızı bültenle uluslararası seviyede aranan Emre Yalvan ve Murat Saydam'ın Bulgaristan'dan Türkiye'ye iadesinin sağlandığını duyurdu.",
+   "link": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664",
+   "zaman": "2026-11-19T18:53:02+03:00",
+   "kelimeler": [
+    "arana",
+    "bulga",
+    "bulte",
+    "dan",
+    "edild",
+    "iade",
+    "kirmi",
+    "kisi",
+    "turki",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dab3492e7d12"
   }
  },
  "kayit": [
+  "19.11 18:54:30  5 yeni haber",
+  "19.11 18:54:30  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 18:36:12  3 yeni haber",
   "19.11 18:23:36  7 yeni haber",
   "19.11 18:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Mahalleli deprem oluyor zannetti: \"Geldiğimde ortalık savaş alanı gibi",
@@ -34084,9 +34121,7 @@
   "17.11 09:16:19  4 yeni haber",
   "17.11 09:01:53  4 yeni haber",
   "17.11 08:46:33  5 yeni haber",
-  "17.11 08:31:40  3 yeni haber",
-  "17.11 08:18:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Cinayete yardımdan beraat etti tehditten tutuklandı",
-  "17.11 08:16:09  2 yeni haber"
+  "17.11 08:31:40  3 yeni haber"
  ],
  "otomatik": false
 }
