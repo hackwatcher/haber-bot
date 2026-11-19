@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "acd066724574": {
-   "id": "acd066724574",
-   "kaynak": "Hürriyet",
-   "baslik": "Otomobille çarpışan minibüs devrildi: 19 yaralı",
-   "ozet": "Kocaeli’nin Gebze ilçesinde otomobille çarpışan yolcu minibüsünün devrildiği kazada 19 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/otomobille-carpisan-minibus-devrildi-19-yarali-43380521",
-   "zaman": "2026-11-16T19:04:16+03:00",
-   "kelimeler": [
-    "19",
-    "carpi",
-    "devri",
-    "minib",
-    "otomo",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "3a6ef2e1706b": {
-   "id": "3a6ef2e1706b",
-   "kaynak": "Hürriyet",
-   "baslik": "Dünyanın geleceği Antalya'da şekilleniyor... COP31'de ilk karar taslağı açıklandı",
-   "ozet": "ANTALYA'da devam eden Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında, ülkeler arasında müzakere edilecek ilk genel karar taslağı yayımlandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/dunyanin-gelecegi-antalyada-sekilleniyor-cop31de-ilk-karar-taslagi-aciklandi-43380520",
-   "zaman": "2026-11-16T19:04:39+03:00",
-   "kelimeler": [
-    "acikl",
-    "antal",
-    "cop31",
-    "dunya",
-    "gelec",
-    "ilk",
-    "karar",
-    "sekil",
-    "tasla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9cfa0942877a": {
-   "id": "9cfa0942877a",
-   "kaynak": "AA",
-   "baslik": "AB, Suriye ile Ortaklık Anlaşması'nın imzalanması için ilerleme kararı aldı",
-   "ozet": "Avrupa Birliği (AB) Yüksek Temsilcisi Kaja Kallas, AB dışişleri bakanlarının Suriye ile Ortaklık Anlaşması'nın imzalanması yönünde ilerlemeyi desteklediğini belirterek, teknik ve hukuki hazırlıkların üye ülkelerle birlikte yürütüleceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-suriye-ile-ortaklik-anlasmasinin-imzalanmasi-icin-ilerleme-karari-aldi/4126951",
-   "zaman": "2026-11-16T19:15:37+03:00",
-   "kelimeler": [
-    "ab",
-    "aldi",
-    "anlas",
-    "ilerl",
-    "imzal",
-    "karar",
-    "nin",
-    "ortak",
-    "suriy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "76db6513b742": {
    "id": "76db6513b742",
    "kaynak": "XHABER",
@@ -20443,7 +20380,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "ffff206f305d": {
    "id": "ffff206f305d",
@@ -33899,9 +33839,156 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "46c157753bd2"
+  },
+  "93bf6af3a7fa": {
+   "id": "93bf6af3a7fa",
+   "kaynak": "AA",
+   "baslik": "COP31'de Elektrifikasyon Uygulama Paketi taraf ülkelere sunuldu",
+   "ozet": "AB'nin yanı sıra 150'den fazla ülke, 37 şehir ve 260'tan fazla şirketin temiz enerjiye geçiş çalışmalarını bir araya getiren paket, küresel elektrifikasyonun hızlandırılmasını hedefliyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyon-uygulama-paketi-taraf-ulkelere-sunuldu/4131053",
+   "zaman": "2026-11-19T16:46:49+03:00",
+   "kelimeler": [
+    "cop31",
+    "elekt",
+    "paket",
+    "sunul",
+    "taraf",
+    "ulkel",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cd44ae06611f": {
+   "id": "cd44ae06611f",
+   "kaynak": "Hürriyet",
+   "baslik": "Birleşik Krallık Savunma Bakanı Pollard, TUSAŞ'ı ziyaret etti",
+   "ozet": "Savunma Sanayii Başkanı Haluk Görgün, Birleşik Krallık Savunma Hazırlığı ve Sanayiden Sorumlu Devlet Bakanı Luke Pollard ile beraberindeki heyeti Türk Havacılık ve Uzay Sanayii AŞ'de (TUSAŞ) ağırladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/birlesik-krallik-savunma-bakani-pollard-tusasi-ziyaret-etti-43384222",
+   "zaman": "2026-11-19T18:55:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "birle",
+    "etti",
+    "krall",
+    "polla",
+    "savun",
+    "tusas",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "481f5ddf5f40": {
+   "id": "481f5ddf5f40",
+   "kaynak": "Hürriyet",
+   "baslik": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
+   "ozet": "Çanakkale’nin Gökçeada ve Bozcaada ilçelerine yarın yapılması planlanan bazı feribot seferleri iptal edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-43384223",
+   "zaman": "2026-11-19T18:57:00+03:00",
+   "kelimeler": [
+    "bozca",
+    "engel",
+    "ferib",
+    "firti",
+    "gokce",
+    "sefer"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5d96ec1509f1": {
+   "id": "5d96ec1509f1",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye-Birleşik Krallık Savunma Sanayii Konseyi 2. Toplantısı Ankara'da gerçekleştirildi",
+   "ozet": "Türkiye ile Birleşik Krallık arasındaki savunma sanayisi işbirliğinin geliştirilmesi, derinleştirilmesi ve yeni işbirliği alanlarının oluşturulması amacıyla tesis edilen Türkiye-Birleşik Krallık Savunma Sanayii Konseyi'nin (TUDIC) 2.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-birlesik-krallik-savunma-sanayii-konseyi-2-toplantisi-ankarada-gerceklestirildi-43384225",
+   "zaman": "2026-11-19T19:01:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "birle",
+    "gerce",
+    "konse",
+    "krall",
+    "sanay",
+    "savun",
+    "topla",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b50a41301029": {
+   "id": "b50a41301029",
+   "kaynak": "AA",
+   "baslik": "Rutte: Nükleer silahlara sahip ülkelerin liderlerinin de bir araya gelmesi önemli",
+   "ozet": "NATO Genel Sekreteri Mark Rutte, Çin, Rusya ve ABD liderleri arasındaki üçlü zirve hakkında \"Nükleer silahlara sahip ülkelerin liderlerinin de bir araya gelmesi önemli.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rutte-nukleer-silahlara-sahip-ulkelerin-liderlerinin-de-bir-araya-gelmesi-onemli/4131253",
+   "zaman": "2026-11-19T19:04:06+03:00",
+   "kelimeler": [
+    "araya",
+    "gelme",
+    "lider",
+    "nukle",
+    "oneml",
+    "rutte",
+    "sahip",
+    "silah",
+    "ulkel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a92582aa098c": {
+   "id": "a92582aa098c",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Sözcüsü Ömer Çelik'ten KIZILELMA'nın envantere girmesine ilişkin açıklama",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, milli insansız savaş uçağı KIZILELMA'nın 3 adetinin güvenlik güçlerinin envanterine girdiğini belirterek, Türkiye'nin insansız savaş uçağını envanterine kazandıran ilk ülke olduğunu söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celikten-kizilelmanin-envantere-girmesine-iliskin-aciklama-43384227",
+   "zaman": "2026-11-19T19:07:59+03:00",
+   "kelimeler": [
+    "acikl",
+    "ak",
+    "celik",
+    "envan",
+    "girme",
+    "ilisk",
+    "kizil",
+    "nin",
+    "omer",
+    "parti",
+    "sozcu",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d3742357f552": {
+   "id": "d3742357f552",
+   "kaynak": "AA",
+   "baslik": "Rusya'nın Ukrayna'ya yönelik hava saldırılarında 2 kişi öldü, 21 kişi yaralandı",
+   "ozet": "Ukrayna Devlet Acil Durum Servisi (DSNS), Rus ordusunun ülkenin farklı bölgelerine düzenlediği hava saldırılarında 2 kişinin hayatını kaybettiğini, 21 kişinin yaralandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-ukraynaya-yonelik-hava-saldirilarinda-2-kisi-oldu-21-kisi-yaralandi/4131261",
+   "zaman": "2026-11-19T19:10:29+03:00",
+   "kelimeler": [
+    "21",
+    "hava",
+    "kisi",
+    "nin",
+    "rusya",
+    "saldi",
+    "ukray",
+    "ya",
+    "yaral",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06d439eace47"
   }
  },
  "kayit": [
+  "19.11 19:16:16  6 yeni haber",
   "19.11 18:54:30  5 yeni haber",
   "19.11 18:54:30  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 18:36:12  3 yeni haber",
@@ -34100,8 +34187,7 @@
   "17.11 09:31:59  4 yeni haber",
   "17.11 09:16:19  4 yeni haber",
   "17.11 09:01:53  4 yeni haber",
-  "17.11 08:46:33  5 yeni haber",
-  "17.11 08:31:40  3 yeni haber"
+  "17.11 08:46:33  5 yeni haber"
  ],
  "otomatik": false
 }
