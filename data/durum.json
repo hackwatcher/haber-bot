@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "0234635cbcbc": {
-   "id": "0234635cbcbc",
-   "kaynak": "XHABER",
-   "baslik": "Kim Milyoner Olmak İster yarışmasında sorulan 50 bin TL'lik soru.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30709",
-   "zaman": "2026-11-17T02:06:07+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Kim Milyoner Olmak İster yarışmasında sorulan 50 bin TL'lik soru.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/lj5vzLrmiHUIGy5QZyKgrRlcydaeHDWVUTg-dlnowPaQRzmtjg5XhXDc48gSTJKT29w-f8s13bEujdCQaEWGeguBt14ErfgAL-_Dx2CyZqaevG_4USalZRfgIwqJYRKxpoSjUI9i56p3FfBIbygF3H5jMhZ0-MaRlTYm7TQAtmT1c0VHQlu_WJQLE79zV7CrhMA2QP0g6BQ0Gslu84tySSYaqDYNF3gyR0WpgKsk07qdtqrF9reSlaf8xEYumZzQ8kPHqVoqsnl8I5sAaHdvQaJxpht6iUVOfzgFXyP8iHhSoVtKhhmSws30Y9_pgUkDbg11zKmX9pOTc4ModTzesg.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "50",
-    "bin",
-    "ister",
-    "kim",
-    "lik",
-    "milyo",
-    "olmak",
-    "soru",
-    "sorul",
-    "tl",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "734481a2ab46": {
-   "id": "734481a2ab46",
-   "kaynak": "TRT Haber",
-   "baslik": "Endonezya'da 6,6 büyüklüğünde deprem",
-   "ozet": "Endonezya'da 6,6 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.trthaber.com/haber/dunya/endonezyada-66-buyuklugunde-deprem-963470.html",
-   "zaman": "2026-11-17T02:14:00+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "endon"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "95a2ed96f7df"
-  },
   "260f9f515cf2": {
    "id": "260f9f515cf2",
    "kaynak": "Hürriyet",
@@ -79,24 +36,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "56d13334b653": {
-   "id": "56d13334b653",
-   "kaynak": "AA",
-   "baslik": "Intel'e yatırımcıları yanılttığı iddiasıyla dava açıldı",
-   "ozet": "ABD'li çip üreticisi Intel'e, kişisel bilgisayar (PC) pazarındaki yavaşlamanın ve tedarik sorunlarının şirketin gelirleri üzerindeki etkisini yatırımcılardan gizleyerek yanıltıcı açıklamalarda bulunduğu iddiasıyla toplu dava açıldı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/intele-yatirimcilari-yanilttigi-iddiasiyla-dava-acildi/4127180",
-   "zaman": "2026-11-17T02:22:28+03:00",
-   "kelimeler": [
-    "acild",
-    "dava",
-    "iddia",
-    "intel",
-    "yanil",
-    "yatir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b430e906f47a": {
    "id": "b430e906f47a",
    "kaynak": "AA",
@@ -116,29 +55,6 @@
     "tanke",
     "ukmto",
     "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3f7dae9e8512": {
-   "id": "3f7dae9e8512",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu, Gazze Şeridi'ne kahve ve sigara paketleriyle birlikte provokatif broşürler attı",
-   "ozet": "İsrail ordusu, abluka altında tuttuğu Gazze Şeridi'ndeki Filistinlilerin üzerine kahve ve sigara paketleriyle birlikte provokatif mesajlar içeren broşürler bıraktı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazze-seridine-kahve-ve-sigara-paketleriyle-birlikte-provokatif-brosurler-atti/4127181",
-   "zaman": "2026-11-17T02:22:56+03:00",
-   "kelimeler": [
-    "atti",
-    "birli",
-    "brosu",
-    "gazze",
-    "israi",
-    "kahve",
-    "ordus",
-    "paket",
-    "provo",
-    "serid",
-    "sigar"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -34366,7 +34282,10 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d633a601ff09": {
    "id": "d633a601ff09",
@@ -34584,9 +34503,95 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "83daaa57a788": {
+   "id": "83daaa57a788",
+   "kaynak": "AA",
+   "baslik": "Sanatçı Mehmet Ünal, doğa ve insan arasındaki bağı COP31'de sanatla anlatıyor",
+   "ozet": "Deneysel besteci Mehmet Ünal, atomların ışık spektrumlarını sese dönüştürdüğü çalışmasıyla yer aldığı COP31'de, insanların doğayla ortak kökenlerine farklı bir açıdan bakmasını amaçladığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/kultur/sanatci-mehmet-unal-doga-ve-insan-arasindaki-bagi-cop31de-sanatla-anlatiyor/4131582",
+   "zaman": "2026-11-20T00:11:39+03:00",
+   "kelimeler": [
+    "anlat",
+    "arasi",
+    "bagi",
+    "cop31",
+    "doga",
+    "insan",
+    "mehme",
+    "sanat",
+    "unal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7a77d0308a8b": {
+   "id": "7a77d0308a8b",
+   "kaynak": "AA",
+   "baslik": "Katar'dan Hürmüz Boğazı krizine karşı uluslararası ortak hareket çağrısı",
+   "ozet": "Katar Dışişleri Bakanlığı Sözcüsü Macid el-Ensari, Hürmüz Boğazı'nın kapanmasının enerji güvenliğini, tedarik zincirlerini ve küresel ekonomiyi olumsuz etkilediğini belirterek, uluslararası düzeyde ortak hareket edilmesi çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/katardan-hurmuz-bogazi-krizine-karsi-uluslararasi-ortak-hareket-cagrisi/4131592",
+   "zaman": "2026-11-20T00:19:25+03:00",
+   "kelimeler": [
+    "bogaz",
+    "cagri",
+    "dan",
+    "harek",
+    "hurmu",
+    "karsi",
+    "katar",
+    "krizi",
+    "ortak",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9056d449d27e": {
+   "id": "9056d449d27e",
+   "kaynak": "TRT Haber",
+   "baslik": "Etnospor Kültür Festivali'nde ilk gün sona erdi",
+   "ozet": "Türkiye dışında ilk kez Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ilk gün sona erdi. Dünya Etnospor Birliği tarafından \"Dünyanın Gelenekleri Riyad'da\" mottosuyla düzenlenen festival, 28 Kasım'a kadar devam edecek",
+   "link": "https://www.trthaber.com/haber/dunya/etnospor-kultur-festivalinde-ilk-gun-sona-erdi-963885.html",
+   "zaman": "2026-11-20T01:25:00+03:00",
+   "kelimeler": [
+    "erdi",
+    "etnos",
+    "festi",
+    "gun",
+    "ilk",
+    "kultu",
+    "nde",
+    "sona"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "61ca172b09c7"
+  },
+  "e859a09303a6": {
+   "id": "e859a09303a6",
+   "kaynak": "AA",
+   "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/belediye-meclisi-calisma-yonetmeliginde-degisiklik-yapilmasina-dair-yonetmelik-resmi-gazetede/4131620",
+   "zaman": "2026-11-20T02:05:02+03:00",
+   "kelimeler": [
+    "beled",
+    "calis",
+    "dair",
+    "degis",
+    "gazet",
+    "mecli",
+    "resmi",
+    "yapil",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "20.11 02:23:27  3 yeni haber",
   "20.11 02:01:27  2 yeni haber",
   "20.11 01:39:10  4 yeni haber",
   "20.11 01:19:08  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Parti'li Çelik'ten, Prof. Dr. Sevim Aydın için taziye mesajı",
@@ -34785,8 +34790,7 @@
   "17.11 15:31:40  5 yeni haber",
   "17.11 15:16:46  3 yeni haber",
   "17.11 15:13:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İstanbul merkezli 42 ilde kişisel verileri ele geçirenlere yönelik ope",
-  "17.11 15:10:05  6 yeni haber",
-  "17.11 15:01:32  11 yeni haber"
+  "17.11 15:10:05  6 yeni haber"
  ],
  "otomatik": false
 }
