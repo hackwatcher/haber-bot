@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "bd96ed47d663": {
-   "id": "bd96ed47d663",
-   "kaynak": "NTV",
-   "baslik": "Erzurum'da deprem mi oldu? Az önce deprem Erzurum'da nerede oldu? Erzurum deprem Kandilli ve AFAD son depremler listesi 16 Kasım 2026",
-   "ozet": "Son dakika Erzurum deprem haberleri.. Erzurum'da deprem mi oldu? Az önce deprem Erzurum'da nerede oldu? Erzurum Kandilli ve AFAD son depremler.. 16 Kasım 2026 Erzurum deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Erzurum'da?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-erzurumda-deprem-mi-oldu-az-once-deprem-erzurumda-nerede-oldu-erzurum-deprem-kandilli-ve-afad-son-depremler-listesi-16-kasim-2026-1751054",
-   "zaman": "2026-11-16T06:20:00+03:00",
-   "kelimeler": [
-    "16",
-    "2026",
-    "afad",
-    "az",
-    "depre",
-    "erzur",
-    "kandi",
-    "kasim",
-    "liste",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "e7cbb919aba4"
-  },
   "f11768da1930": {
    "id": "f11768da1930",
    "kaynak": "TRT Haber",
@@ -32241,7 +32218,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6bfebeb60590": {
    "id": "6bfebeb60590",
@@ -32376,7 +32356,10 @@
     "tasid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "046e9cd688d5": {
    "id": "046e9cd688d5",
@@ -32645,7 +32628,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "12545bcf17c7": {
    "id": "12545bcf17c7",
@@ -32663,7 +32649,10 @@
     "yenid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "53d3814c238c": {
    "id": "53d3814c238c",
@@ -32683,7 +32672,10 @@
     "hisse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "183ce2d34fb0": {
    "id": "183ce2d34fb0",
@@ -32778,6 +32770,137 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e068684f526d"
+  },
+  "5f5b81c9643f": {
+   "id": "5f5b81c9643f",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da lodos denizi kabarttı, dev dalgalar oluştu",
+   "ozet": "İstanbul'da hızı yer yer 60 kilometreye çıkan şiddetli rüzgarla birlikte oluşan dev dalgalar, sahil bandını aştı. Fırtınanın bugün öğle saatlerine kadar etkisini sürdürmesi bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-lodos-denizi-kabartti-dev-dalgalar-olustu-963744.html",
+   "zaman": "2026-11-19T06:11:00+03:00",
+   "kelimeler": [
+    "dalga",
+    "deniz",
+    "dev",
+    "istan",
+    "kabar",
+    "lodos",
+    "olust"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dab1e5bc98b2"
+  },
+  "d787b2be245e": {
+   "id": "d787b2be245e",
+   "kaynak": "TRT Haber",
+   "baslik": "Suudi Arabistan'ın başkenti Riyad'da erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistan'ın başkenti Riyad'da Ulusal Acil Durum Erken Uyarı Platformu üzerinden tehlike uyarısı verildi.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskenti-riyadda-erken-uyari-sistemi-devreye-alindi-963740.html",
+   "zaman": "2026-11-19T06:16:00+03:00",
+   "kelimeler": [
+    "alind",
+    "arabi",
+    "baske",
+    "devre",
+    "erken",
+    "in",
+    "riyad",
+    "siste",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "29bd5b7a6fe3"
+  },
+  "4f051751a3c6": {
+   "id": "4f051751a3c6",
+   "kaynak": "TRT Haber",
+   "baslik": "Anthropic halka arzında hisse fiyatını 83 dolar olarak belirledi",
+   "ozet": "Claude yapay zeka modellerinin geliştiricisi Anthropic, halka arzını hisse başına 83 dolardan fiyatlandırdı.",
+   "link": "https://www.trthaber.com/haber/dunya/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi-963741.html",
+   "zaman": "2026-11-19T06:17:00+03:00",
+   "kelimeler": [
+    "83",
+    "anthr",
+    "arzin",
+    "belir",
+    "dolar",
+    "fiyat",
+    "halka",
+    "hisse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "53d3814c238c"
+  },
+  "e05080e47ea7": {
+   "id": "e05080e47ea7",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Ukrayna, Kırım Köprüsü'ne yeniden saldırdı",
+   "ozet": "Rusya'nın yasa dışı ilhak ettiği Kırım'ın sözde yönetim başkanı Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne yeniden saldırı düzenlediğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukrayna-kirim-koprusune-yeniden-saldirdi-963742.html",
+   "zaman": "2026-11-19T06:19:00+03:00",
+   "kelimeler": [
+    "kirim",
+    "kopru",
+    "rusya",
+    "saldi",
+    "ukray",
+    "yenid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "12545bcf17c7"
+  },
+  "367f3ac844de": {
+   "id": "367f3ac844de",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'nin ilk Müslüman senatörü seçilen Sayed'den Trump'a herkes için sağlık sistemi önerisi",
+   "ozet": "ABD'de 3 Kasım'da yapılan ara seçimlerde ülkenin ilk Müslüman senatörü seçilen Mısır kökenli Abdul elSayed, ABD Başkanı Donald Trump'a \"habibi canım\" diye seslenerek herkes için sağlık hizmeti sunulması için birlikte çalışmayı önerdi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-trumpa-herkes-icin-saglik-sistemi-onerisi-963743.html",
+   "zaman": "2026-11-19T06:20:00+03:00",
+   "kelimeler": [
+    "abd",
+    "den",
+    "herke",
+    "ilk",
+    "muslu",
+    "nin",
+    "oneri",
+    "sagli",
+    "sayed",
+    "secil",
+    "senat",
+    "siste",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "559d93fa8e69"
+  },
+  "99c7bed91974": {
+   "id": "99c7bed91974",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail ordusu, Gazze işgalini Sarı Hatın ötesine taşıdığını açıkladı",
+   "ozet": "İşgalci İsrail ordusu, Gazze Şeridi'nin orta kesiminde işgalini ateşkesle belirlenen \"Sarı Hat\"ın ötesine taşıdığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-gazze-isgalini-sari-hatin-otesine-tasidigini-acikladi-963745.html",
+   "zaman": "2026-11-19T06:21:00+03:00",
+   "kelimeler": [
+    "gazze",
+    "hatin",
+    "isgal",
+    "israi",
+    "ordus",
+    "otesi",
+    "sari",
+    "soyki",
+    "tasid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d9687ad2f2fe"
   }
  },
  "kayit": [
