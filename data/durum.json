@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "3d8a08177294": {
-   "id": "3d8a08177294",
-   "kaynak": "TRT Haber",
-   "baslik": "Yurt genelinde yağış sürecek, hava sıcaklıklar artacak",
-   "ozet": "Yeni haftada yurdun büyük bölümünde yağmur ve sağanak, Doğu Karadeniz ile Doğu Anadolu'nun yüksek kesimlerinde ise kar yağışı etkili olacak. Hafta ortasından itibaren artışa geçecek hava sıcaklıklarının kuzey, iç ve batı kesimlerde mevsim normallerinin üzerine çıkması bekleniyor.",
-   "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-yagis-surecek-hava-sicakliklar-artacak-963367.html",
-   "zaman": "2026-11-16T06:06:00+03:00",
-   "kelimeler": [
-    "artac",
-    "genel",
-    "hava",
-    "sicak",
-    "surec",
-    "yagis",
-    "yurt"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "95a2ed96f7df": {
-   "id": "95a2ed96f7df",
-   "kaynak": "Hürriyet",
-   "baslik": "Erzurum'da 3,6 büyüklüğünde deprem",
-   "ozet": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde deprem meydana geldi",
-   "link": "https://www.hurriyet.com.tr/gundem/erzurumda-3-6-buyuklugunde-deprem-43379612",
-   "zaman": "2026-11-16T06:10:54+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "erzur"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-16T07:03:33.777497+03:00",
-   "ig_id": "18287403634291941",
-   "reels_id": "18437437180147204",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1005445488631491",
-   "slayt": 4,
-   "kanca": "YERİN 7 KM DERİNLİĞİNDE",
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "AA"
-   ]
-  },
   "bd96ed47d663": {
    "id": "bd96ed47d663",
    "kaynak": "NTV",
@@ -1273,26 +1225,6 @@
    "diger_kaynaklar": [
     "XHABER"
    ]
-  },
-  "ef2d51d818a6": {
-   "id": "ef2d51d818a6",
-   "kaynak": "TRT Haber",
-   "baslik": "Yurt genelinde yağış sürecek, hava sıcaklıkları artacak",
-   "ozet": "Yeni haftada yurdun büyük bölümünde yağmur ve sağanak, Doğu Karadeniz ile Doğu Anadolu'nun yüksek kesimlerinde ise kar yağışı etkili olacak. Hafta ortasından itibaren artışa geçecek hava sıcaklıklarının kuzey, iç ve batı kesimlerde mevsim normallerinin üzerine çıkması bekleniyor.",
-   "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-yagis-surecek-hava-sicakliklari-artacak-963367.html",
-   "zaman": "2026-11-16T06:06:00+03:00",
-   "kelimeler": [
-    "artac",
-    "genel",
-    "hava",
-    "sicak",
-    "surec",
-    "yagis",
-    "yurt"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3d8a08177294"
   },
   "1bbc6a65e9b1": {
    "id": "1bbc6a65e9b1",
@@ -25345,7 +25277,10 @@
     "zaman"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "fb55acdad186": {
    "id": "fb55acdad186",
@@ -32786,7 +32721,63 @@
     "sonuc"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "AA"
+   ]
+  },
+  "b6c3eb9f11ea": {
+   "id": "b6c3eb9f11ea",
+   "kaynak": "Hürriyet",
+   "baslik": "KPSS ortaöğretim sonuçları açıklandı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), Kamu Personeli Seçme Sınavı (2026-KPSS) ortaöğretim sonuçlarını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kpss-ortaogretim-sonuclari-aciklandi-43383187",
+   "zaman": "2026-11-19T05:58:44+03:00",
+   "kelimeler": [
+    "acikl",
+    "kpss",
+    "ortao",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e068684f526d"
+  },
+  "5cb2d37eb0bf": {
+   "id": "5cb2d37eb0bf",
+   "kaynak": "Sözcü",
+   "baslik": "2026 KPSS ortaöğretim sonuçları açıklandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/2026-kpss-ortaogretim-sonuclari-aciklandi-p382582",
+   "zaman": "2026-11-19T06:07:49+03:00",
+   "kelimeler": [
+    "2026",
+    "acikl",
+    "kpss",
+    "ortao",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9c4ffc4d81c8"
+  },
+  "eb11fa2387af": {
+   "id": "eb11fa2387af",
+   "kaynak": "AA",
+   "baslik": "KPSS ortaöğretim sonuçları açıklandı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), Kamu Personeli Seçme Sınavı (2026-KPSS) ortaöğretim sonuçlarını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kpss-ortaogretim-sonuclari-aciklandi/4129935",
+   "zaman": "2026-11-19T06:13:18+03:00",
+   "kelimeler": [
+    "acikl",
+    "kpss",
+    "ortao",
+    "sonuc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e068684f526d"
   }
  },
  "kayit": [
