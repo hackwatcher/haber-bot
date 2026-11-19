@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "7f0b2e07392a": {
-   "id": "7f0b2e07392a",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan, Brüksel'de AB toplantısına katılacak",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Avrupa Birliği AB Dış İlişkiler Konseyi kapsamında bugün Brükselde gerçekleştirilecek Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısına katılacak.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-brukselde-ab-toplantisina-katilacak-963377.html",
-   "zaman": "2026-11-16T08:33:00+03:00",
-   "kelimeler": [
-    "ab",
-    "bakan",
-    "bruks",
-    "fidan",
-    "katil",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7fcb9a5438ae"
-  },
-  "39128cd3e713": {
-   "id": "39128cd3e713",
-   "kaynak": "TRT Haber",
-   "baslik": "Sınavda birinci olan kişi yapay zeka ile kopya çektiğini itiraf etti",
-   "ozet": "Güney Kore'de bu yıl vergi muhasebecisi adaylarına yönelik düzenlenen ulusal sınavda birinci olan kişinin aldığı puanlar gerçek olamayacak kadar yüksek görünüyordu.",
-   "link": "https://www.trthaber.com/haber/dunya/sinavda-birinci-olan-kisi-yapay-zeka-ile-kopya-cektigini-itiraf-etti-963378.html",
-   "zaman": "2026-11-16T08:38:00+03:00",
-   "kelimeler": [
-    "birin",
-    "cekti",
-    "etti",
-    "itira",
-    "kisi",
-    "kopya",
-    "sinav",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "780c1ab21c91": {
    "id": "780c1ab21c91",
    "kaynak": "XHABER",
@@ -73,38 +33,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "53fdd1ec05e6": {
-   "id": "53fdd1ec05e6",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31'de 5 günde toplanan 100 ton katı atık ayrıştırıldı",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ev sahipliğinde Antalya'da düzenlenen COP31 İklim Zirvesi'nin ilk 5 gününde toplanan yaklaşık 100 ton atığın yüzde 80'i geri dönüşüme kazandırılırken, atık yağlar jeneratörler için biyodizel yakıta, yemek artıkları ise gübre ve…",
-   "link": "https://www.trthaber.com/haber/gundem/cop31de-5-gunde-toplanan-100-ton-kati-atik-ayristirildi-963380.html",
-   "zaman": "2026-11-16T08:40:00+03:00",
-   "kelimeler": [
-    "100",
-    "atik",
-    "ayris",
-    "cop31",
-    "gunde",
-    "kati",
-    "ton",
-    "topla"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-16T09:18:55.480403+03:00",
-   "ig_id": "18222450424346743",
-   "reels_id": "17898951369413786",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2924324797939753",
-   "slayt": 6,
-   "kanca": "100 TON ATIK AYRIŞTIRILDI",
-   "diger_kaynaklar": [
-    "AA"
-   ]
   },
   "2554ae053362": {
    "id": "2554ae053362",
@@ -28700,7 +28628,8 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "8091249c78b5": {
    "id": "8091249c78b5",
@@ -31586,8 +31515,17 @@
     "yazic",
     "yurt"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-19T08:47:53.301643+03:00",
+   "ig_id": "18651456130057917",
+   "reels_id": null,
+   "story_id": "18110732240227297",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122118440253472027",
+   "fb_reels_id": null,
+   "slayt": 4,
+   "kanca": "ADLİ KONTROL TALEBİ"
   },
   "463484509cf0": {
    "id": "463484509cf0",
@@ -33090,9 +33028,101 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "5638a24aaeba": {
+   "id": "5638a24aaeba",
+   "kaynak": "TRT Haber",
+   "baslik": "Meteorolojiden 32 il için kuvvetli yağış ve rüzgar uyarısı",
+   "ozet": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 32 il için sarı kodlu uyarı yaptı.",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-32-il-icin-kuvvetli-yagis-ve-ruzgar-uyarisi-963760.html",
+   "zaman": "2026-11-19T08:19:00+03:00",
+   "kelimeler": [
+    "32",
+    "il",
+    "kuvve",
+    "meteo",
+    "ruzga",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0735397745ed"
+  },
+  "5781cb01aef6": {
+   "id": "5781cb01aef6",
+   "kaynak": "AA",
+   "baslik": "Trump, İran savaşının bitirilmesi için Çin ya da Rusya'dan yardım istemeyeceklerini söyledi",
+   "ozet": "ABD Başkanı Donald Trump, İran'daki savaşın sona erdirilmesi konusunda Çin ya da Rusya'dan yardım talep etmeyeceklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iran-savasinin-bitirilmesi-icin-cin-ya-da-rusyadan-yardim-istemeyeceklerini-soyledi/4129949",
+   "zaman": "2026-11-19T08:33:31+03:00",
+   "kelimeler": [
+    "bitir",
+    "cin",
+    "dan",
+    "iran",
+    "istem",
+    "rusya",
+    "savas",
+    "soyle",
+    "trump",
+    "ya",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "11dc4fc0c3fc": {
+   "id": "11dc4fc0c3fc",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, İran savaşının bitirilmesi için Çin ya da Rusya'dan yardım istemeyeceklerini söyledi:",
+   "ozet": "ABD Başkanı Donald Trump, İran'daki savaşın sona erdirilmesi konusunda Çin ya da Rusya'dan yardım talep etmeyeceklerini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-iran-savasinin-bitirilmesi-icin-cin-ya-da-rusyadan-yardim-istemeyeceklerini-soyledi-963761.html",
+   "zaman": "2026-11-19T08:37:00+03:00",
+   "kelimeler": [
+    "bitir",
+    "cin",
+    "dan",
+    "iran",
+    "istem",
+    "rusya",
+    "savas",
+    "soyle",
+    "trump",
+    "ya",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5781cb01aef6"
+  },
+  "a126d52697fd": {
+   "id": "a126d52697fd",
+   "kaynak": "NTV",
+   "baslik": "HGS'de icra takibi sona erecek. Yeni sistem kurulacak",
+   "ozet": "HGS ile ilgili artan ihlalli geçiş şikayetleri sonrası, otoyol işletmecisi şirketlerin ödemeleri anlık takip edebileceği bir entegrasyon sistemi kurulmasına karar verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/hgsde-icra-takibi-sona-erecek-yeni-sistem-kurulacak-1751539",
+   "zaman": "2026-11-19T08:40:39+03:00",
+   "kelimeler": [
+    "erece",
+    "hgs",
+    "icra",
+    "kurul",
+    "siste",
+    "sona",
+    "takib",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 08:47:53  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · #SONDAKİKA | AKP’li Hayati Yazıcı’nın oğlu Mustafa Yazıcı, yurt dışına",
+  "19.11 08:46:23  2 yeni haber",
   "19.11 08:31:07  1 yeni haber",
   "19.11 08:31:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 07:46:00  2 yeni haber",
@@ -33290,9 +33320,7 @@
   "16.11 22:17:15  6 yeni haber",
   "16.11 21:58:38  2 yeni haber",
   "16.11 21:46:54  1 yeni haber",
-  "16.11 21:31:48  1 yeni haber",
-  "16.11 21:17:18  2 yeni haber",
-  "16.11 21:01:50  6 yeni haber"
+  "16.11 21:31:48  1 yeni haber"
  ],
  "otomatik": false
 }
