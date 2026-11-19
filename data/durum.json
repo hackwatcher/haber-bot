@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "6dec8f7a2ba9": {
-   "id": "6dec8f7a2ba9",
-   "kaynak": "Hürriyet",
-   "baslik": "Trump’tan Çin'e yapacağı ziyaret öncesi açıklama",
-   "ozet": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapacağı görüşmede, \"İran, nükleer silahsızlanma, Rusya-Ukrayna Savaşı ile ekonomi ve ticaret başlıklarını ele alacaklarını\" bildirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/trumptan-cine-yapacagi-ziyaret-oncesi-aciklama-43380545",
-   "zaman": "2026-11-16T19:40:04+03:00",
-   "kelimeler": [
-    "acikl",
-    "cin",
-    "onces",
-    "tan",
-    "trump",
-    "yapac",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "4561f159b1c5": {
    "id": "4561f159b1c5",
    "kaynak": "AA",
@@ -33706,7 +33687,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "b50a41301029": {
    "id": "b50a41301029",
@@ -33934,6 +33918,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7f91a2e53004": {
+   "id": "7f91a2e53004",
+   "kaynak": "AA",
+   "baslik": "Türkiye-Birleşik Krallık Savunma Sanayii Konseyi 2. Toplantısı Ankara'da gerçekleştirildi",
+   "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün, \"Misafirlerimiz, Türk havacılık sanayisinin tasarımdan üretime uzanan kabiliyetlerine yakından şahit oldu. İki ülke arasındaki işbirliğimizi güçlendirmeye devam edeceğiz.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-birlesik-krallik-savunma-sanayii-konseyi-2-toplantisi-ankarada-gerceklestirildi/4131246",
+   "zaman": "2026-11-19T18:58:12+03:00",
+   "kelimeler": [
+    "ankar",
+    "birle",
+    "gerce",
+    "konse",
+    "krall",
+    "sanay",
+    "savun",
+    "topla",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5d96ec1509f1"
   }
  },
  "kayit": [
