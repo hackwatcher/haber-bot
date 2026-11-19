@@ -34022,7 +34022,10 @@
     "yasam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c68aedbebd8e": {
    "id": "c68aedbebd8e",
@@ -34128,9 +34131,125 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e281e70d93e2": {
+   "id": "e281e70d93e2",
+   "kaynak": "AA",
+   "baslik": "Çin Devlet Başkanı Şi'den ABD ve Rusya'ya \"barış içinde bir arada yaşama\" mesajı",
+   "ozet": "Çin Devlet Başkanı Şi, ABD Başkanı Trump ve Rusya Devlet Başkanı Putin ile yaptığı üçlü görüşmede, üç ülkenin kendi aralarında çatışma ve cepheleşmeden kaçınarak, \"barış içinde bir arada yaşama\" ilkesine bağlı kalması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cin-devlet-baskani-siden-abd-ve-rusyaya-baris-icinde-bir-arada-yasama-mesaji/4131344",
+   "zaman": "2026-11-19T20:23:35+03:00",
+   "kelimeler": [
+    "abd",
+    "arada",
+    "baris",
+    "baska",
+    "cin",
+    "den",
+    "devle",
+    "icind",
+    "mesaj",
+    "rusya",
+    "si",
+    "ya",
+    "yasam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ac7485ccaa65"
+  },
+  "bad1efd70281": {
+   "id": "bad1efd70281",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: Bugün bir büyük hayalin gerçeğe dönüştüğü tarihi bir gün",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bayraktar Kızılelma insansız savaş uçağımız; yıllar süren çalışmaların, büyük emeklerin sonunda Türk Silahlı Kuvvetlerimizin envanterine alındı.\" dedi",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html",
+   "zaman": "2026-11-19T20:25:00+03:00",
+   "kelimeler": [
+    "bugun",
+    "buyuk",
+    "cumhu",
+    "donus",
+    "erdog",
+    "gerce",
+    "gun",
+    "hayal",
+    "tarih"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110c48f84b98"
+  },
+  "092e21d84476": {
+   "id": "092e21d84476",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan 'Kızılelma' paylaşımı",
+   "ozet": "Cumhurbaşkanı Erdoğan, Bayraktar Kızılelma insansız savaş uçağının Türk Silahlı Kuvvetlerinin envanterine alındığını belirterek gelişmenin hayırlı olmasını diledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-kizilelma-paylasimi-43384293",
+   "zaman": "2026-11-19T20:26:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "erdog",
+    "kizil",
+    "payla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110c48f84b98"
+  },
+  "f7e279ed25c0": {
+   "id": "f7e279ed25c0",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: Bayraktar Kızılelma insansız savaş uçağımız Türk Silahlı Kuvvetlerimizin envanterine alındı",
+   "ozet": "Cumhurbaşkanı Erdoğan, \"Bayraktar Kızılelma insansız savaş uçağımız, yıllar süren çalışmaların, büyük emeklerin sonunda Türk Silahlı Kuvvetlerimizin envanterine alındı.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bayraktar-kizilelma-insansiz-savas-ucagimiz-turk-silahli-kuvvetlerimizin-envanterine-alindi/4131347",
+   "zaman": "2026-11-19T20:27:06+03:00",
+   "kelimeler": [
+    "alind",
+    "bayra",
+    "cumhu",
+    "envan",
+    "erdog",
+    "insan",
+    "kizil",
+    "kuvve",
+    "savas",
+    "silah",
+    "turk",
+    "ucagi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "110c48f84b98"
+  },
+  "84637f66fc05": {
+   "id": "84637f66fc05",
+   "kaynak": "AA",
+   "baslik": "Yaklaşık 300 bin Kanadalı, ABD Büyükelçisi Hoekstra'nın görevden alınması için imza attı",
+   "ozet": "ABD'nin Kanada Büyükelçisi Pete Hoekstra'nın, Başkan Donald Trump'ın Kanada'nın \"51. eyalet olması gerektiği\" yönündeki görüşünü destekleyen açıklamaları sonrasında görevinden alınması için yaklaşık 300 bin Kanadalı dilekçe imzaladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/yaklasik-300-bin-kanadali-abd-buyukelcisi-hoekstranin-gorevden-alinmasi-icin-imza-atti/4131352",
+   "zaman": "2026-11-19T20:28:27+03:00",
+   "kelimeler": [
+    "300",
+    "abd",
+    "alinm",
+    "atti",
+    "bin",
+    "buyuk",
+    "gorev",
+    "hoeks",
+    "imza",
+    "kanad",
+    "nin",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 20:39:14  1 yeni haber",
   "19.11 20:31:11  2 yeni haber",
   "19.11 20:16:10  1 yeni haber",
   "19.11 20:10:46  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · AK Parti Sözcüsü Ömer Çelik'ten KIZILELMA'nın envantere girmesine iliş",
@@ -34329,8 +34448,7 @@
   "17.11 10:46:04  10 yeni haber",
   "17.11 10:31:26  6 yeni haber",
   "17.11 10:17:10  9 yeni haber",
-  "17.11 10:01:54  5 yeni haber",
-  "17.11 09:46:25  8 yeni haber"
+  "17.11 10:01:54  5 yeni haber"
  ],
  "otomatik": false
 }
