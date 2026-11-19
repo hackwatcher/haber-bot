@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "f5996a814918": {
-   "id": "f5996a814918",
-   "kaynak": "Hürriyet",
-   "baslik": "İletişim Başkanı Duran: Filistinli kardeşlerimizin bağımsızlık mücadelesine desteğimizi kararlılıkla sürdüreceğiz",
-   "ozet": "İletişim Başkanı Burhanettin Duran, \"Filistinli kardeşlerimizin özgürlük, adalet ve bağımsızlık mücadelesine desteğimizi kararlılıkla sürdüreceğiz\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-filistinli-kardeslerimizin-bagimsizlik-mucadelesine-destegimizi-kararlilikla-surdurecegiz-43380042",
-   "zaman": "2026-11-16T13:08:30+03:00",
-   "kelimeler": [
-    "bagim",
-    "baska",
-    "deste",
-    "duran",
-    "filis",
-    "ileti",
-    "karar",
-    "karde",
-    "mucad",
-    "surdu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d3ff7f5d2c70": {
-   "id": "d3ff7f5d2c70",
-   "kaynak": "AA",
-   "baslik": "Türk tiyatro sahnesinde iz bırakan usta oyuncu: Yıldız Kenter",
-   "ozet": "Yaşamını tiyatroya adayan, sahnedeki güçlü yorumunun yanı sıra oyuncu yetiştirme, yönetmenlik ve tiyatro kuruculuğuyla da Türk sanat hayatında iz bırakan Yıldız Kenter'in vefatının ardından 7 yıl geçti.",
-   "link": "https://www.aa.com.tr/tr/kultur/turk-tiyatro-sahnesinde-iz-birakan-usta-oyuncu-yildiz-kenter/4126424",
-   "zaman": "2026-11-16T13:14:24+03:00",
-   "kelimeler": [
-    "birak",
-    "iz",
-    "kente",
-    "oyunc",
-    "sahne",
-    "tiyat",
-    "turk",
-    "usta",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "8c68b4d2bc27": {
    "id": "8c68b4d2bc27",
    "kaynak": "TRT Haber",
@@ -843,27 +800,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "52711a9cb627"
-  },
-  "062e3cd1c478": {
-   "id": "062e3cd1c478",
-   "kaynak": "AA",
-   "baslik": "PAB Başkanı Dick, \"COP31 Parlamenter Toplantısı\"nın açılışında konuştu:",
-   "ozet": "Parlamentolar Arası Birlik (PAB) ve Avustralya Temsilciler Meclisi Başkanı Milton Dick, \"Türkiye'nin konferansa ev sahipliği ve Avustralya'nın müzakere başkanlığı görevi, bölgeler arası işbirliğinin önemli bir örneği.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/pab-baskani-dick-cop31-parlamenter-toplantisinin-acilisinda-konustu/4126423",
-   "zaman": "2026-11-16T13:13:44+03:00",
-   "kelimeler": [
-    "acili",
-    "baska",
-    "cop31",
-    "dick",
-    "konus",
-    "nin",
-    "pab",
-    "parla",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "ee83f9c75ef4": {
    "id": "ee83f9c75ef4",
@@ -31147,7 +31083,8 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "52049ecb9efe": {
    "id": "52049ecb9efe",
@@ -32862,9 +32799,124 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "591dbb7b306f": {
+   "id": "591dbb7b306f",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara’da gözler saat 14.00’te: AK Parti’ye bugün en az 10 belediye başkanının katılması bekleniyor",
+   "ozet": "AK Parti'de bugün gerçekleşecek Genişletilmiş İl Başkanları Toplantısı öncesi kulisler hareketlendi. AK Parti'ye belediye başkanları düzeyinde katılımların olacağı belirtiliyor. Rozetlerini de bizzat Cumhurbaşkanı Erdoğan’ın takacağı konuşulanlar arasında.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-gozler-saat-14-00te-ak-partiye-bugun-en-az-10-belediye-baskaninin-katilmasi-bekleniyor-43383482",
+   "zaman": "2026-11-19T11:17:00+03:00",
+   "kelimeler": [
+    "00",
+    "10",
+    "14",
+    "ak",
+    "ankar",
+    "az",
+    "baska",
+    "bekle",
+    "beled",
+    "bugun",
+    "gozle",
+    "katil",
+    "parti",
+    "saat",
+    "te",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2762fd6d016a"
+  },
+  "788bb5cdfb26": {
+   "id": "788bb5cdfb26",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'nin COP31 Tecrübesi ve Uygulama Başkanlığı kitabı yayımlandı",
+   "ozet": "İletişim Başkanlığı, \"Türkiye'nin COP31 Tecrübesi ve Uygulama Başkanlığı: Küresel İklim Yönetişiminde Yeni Bir Başkanlık Modeli\" kitabının yayımlandığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-cop31-tecrubesi-ve-uygulama-baskanligi-kitabi-yayimlandi-963812.html",
+   "zaman": "2026-11-19T13:01:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "kitab",
+    "nin",
+    "tecru",
+    "turki",
+    "uygul",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "60437054c6c7": {
+   "id": "60437054c6c7",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Tutuklu gazeteci İsmail Arı'ya ilk duruşmada tahliye",
+   "ozet": "Eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine soruşturma açılan ve tutuklanan BirGün muhabiri İsmail Arı'nın ilk duruşmada tahliyesine karar verildi.",
+   "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo",
+   "zaman": "2026-11-19T13:06:37+03:00",
+   "kelimeler": [
+    "ari",
+    "durus",
+    "gazet",
+    "ilk",
+    "ismai",
+    "tahli",
+    "tutuk",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0260fbef6574": {
+   "id": "0260fbef6574",
+   "kaynak": "AA",
+   "baslik": "AB Komisyonuna düzenlenen siber saldırıda çalışanların kişisel verilerinin ele geçirilmiş olabileceği bildirildi",
+   "ozet": "Avrupa Birliği (AB) Komisyonunun geniş çaplı bir siber saldırıya uğradığı, çalışanlarının kişisel verilerinin ele geçirilmiş olabileceği ve bazı kurum içi sistemlerinde 10 günü aşkın süredir aksaklıklar yaşandığı belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonuna-duzenlenen-siber-saldirida-calisanlarin-kisisel-verilerinin-ele-gecirilmis-olabilecegi-bildirildi/4130462",
+   "zaman": "2026-11-19T13:08:41+03:00",
+   "kelimeler": [
+    "ab",
+    "bildi",
+    "calis",
+    "duzen",
+    "ele",
+    "gecir",
+    "kisis",
+    "komis",
+    "olabi",
+    "saldi",
+    "siber",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "072e604076f0": {
+   "id": "072e604076f0",
+   "kaynak": "NTV",
+   "baslik": "Gaziosmanpaşa'da akılalmaz olay: 'Yemek siparişiniz var' yalanıyla evine girip gasbettiler",
+   "ozet": "Gaziosmanpaşa’da 'Yemek siparişiniz var' diyerek kapıyı açtıran 2 şüpheli, ev sahibini darbedip silahla tehdit ederek 430 bin liralık gasp yaptı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-gaziosmanpasada-akilalmaz-olay-yemek-siparisiniz-var-yalaniyla-evine-girip-gasbettiler-1751609",
+   "zaman": "2026-11-19T13:13:31+03:00",
+   "kelimeler": [
+    "akila",
+    "evine",
+    "gasbe",
+    "gazio",
+    "girip",
+    "olay",
+    "sipar",
+    "yalan",
+    "yemek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 13:16:00  4 yeni haber",
   "19.11 13:01:32  4 yeni haber",
   "19.11 12:46:34  18 yeni haber",
   "19.11 12:19:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): NTV · Malatya'daki helikopter kazası | MSB: Kaza kırım incelemesi devam ediy",
@@ -33063,8 +33115,7 @@
   "17.11 02:46:43  1 yeni haber",
   "17.11 02:31:33  1 yeni haber",
   "17.11 02:16:07  1 yeni haber",
-  "17.11 01:16:12  1 yeni haber",
-  "17.11 01:03:48  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Sarıgül ailesi soruşturması: Dokuz kişi daha tutuklandı"
+  "17.11 01:16:12  1 yeni haber"
  ],
  "otomatik": false
 }
