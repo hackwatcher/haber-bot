@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "f11768da1930": {
-   "id": "f11768da1930",
-   "kaynak": "TRT Haber",
-   "baslik": "Milletvekili Tıybi, Netanyahu hakkında seçimlere müdahale soruşturması istedi",
-   "ozet": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste bileşenlerinden Taal Partisi lideri ve milletvekili Ahmed Tıybi, \"seçimlere müdahale\" şüphesiyle geçici hükümetin Başbakanı Binyamin Netanyahu ve ofisindeki yetkililer hakkında soruşturma açılmasını talep etti.",
-   "link": "https://www.trthaber.com/haber/dunya/milletvekili-tiybi-netanyahu-hakkinda-secimlere-mudahale-sorusturmasi-istedi-963368.html",
-   "zaman": "2026-11-16T06:36:00+03:00",
-   "kelimeler": [
-    "hakki",
-    "isted",
-    "mille",
-    "mudah",
-    "netan",
-    "secim",
-    "sorus",
-    "tiybi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f462f9ee540f": {
-   "id": "f462f9ee540f",
-   "kaynak": "TRT Haber",
-   "baslik": "Dijital Konaklama Platformları düzenlemesi Meclis Genel Kurulu'nda",
-   "ozet": "Yabancı dijital konaklama platformlarının Türkiye'deki elektronik ticaret faaliyetlerine ilişkin usul ve esasları belirleyen kanun teklifi, bu hafta TBMM Genel Kurulu'nda görüşülecek.",
-   "link": "https://www.trthaber.com/haber/ekonomi/dijital-konaklama-platformlari-duzenlemesi-meclis-genel-kurulunda-963369.html",
-   "zaman": "2026-11-16T06:41:00+03:00",
-   "kelimeler": [
-    "dijit",
-    "duzen",
-    "genel",
-    "konak",
-    "kurul",
-    "mecli",
-    "nda",
-    "platf"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "40310f11243f": {
-   "id": "40310f11243f",
-   "kaynak": "TRT Haber",
-   "baslik": "Eisenkot, Netanyahu görevde olduğu sürece İsrail'de adil seçim yapılamayacağını belirtti",
-   "ozet": "İsrail'de hükümet kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun İsrail demokrasisi üzerinde somut, doğrudan ve acil bir tehdit oluşturduğunu belirterek, \"O görevde olduğu sürece İsrail'de adil ve meşru seçimler artık…",
-   "link": "https://www.trthaber.com/haber/dunya/eisenkot-netanyahu-gorevde-oldugu-surece-israilde-adil-secim-yapilamayacagini-belirtti-963370.html",
-   "zaman": "2026-11-16T06:40:00+03:00",
-   "kelimeler": [
-    "adil",
-    "belir",
-    "eisen",
-    "gorev",
-    "israi",
-    "netan",
-    "oldug",
-    "secim",
-    "surec",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "cb1483499d58"
-  },
   "b3b0e483afbd": {
    "id": "b3b0e483afbd",
    "kaynak": "Hürriyet",
@@ -24737,7 +24674,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6ecad61da96f": {
    "id": "6ecad61da96f",
@@ -32901,9 +32841,81 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "d9687ad2f2fe"
+  },
+  "525413c8a1c0": {
+   "id": "525413c8a1c0",
+   "kaynak": "TRT Haber",
+   "baslik": "Arakanlı Müslümanlara yönelik soykırım davasında karar bugün açıklanacak",
+   "ozet": "Uluslararası Adalet Divanı UAD, Gambiya'nın Myanmar aleyhine açtığı soykırım davasındaki kararını bugün açıklayacak.",
+   "link": "https://www.trthaber.com/haber/dunya/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-bugun-aciklanacak-963746.html",
+   "zaman": "2026-11-19T06:24:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "araka",
+    "bugun",
+    "davas",
+    "karar",
+    "muslu",
+    "soyki",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d53ad9bebce4"
+  },
+  "0b9599468e22": {
+   "id": "0b9599468e22",
+   "kaynak": "TRT Haber",
+   "baslik": "Yapay zeka devi Anthropic, borsa çıkışı öncesinde 1,5 trilyon dolara kadar değerlemeye ulaştı",
+   "ozet": "Anthropic, hisselerinin perşembe günü borsada işlem görmeye başlamasıyla birlikte 1,5 trilyon dolara kadar bir piyasa değerine ulaşmaya hazırlanıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-devi-anthropic-borsa-cikisi-oncesinde-15-trilyon-dolara-kadar-degerlemeye-ulasti-963747.html",
+   "zaman": "2026-11-19T06:34:00+03:00",
+   "kelimeler": [
+    "anthr",
+    "borsa",
+    "cikis",
+    "deger",
+    "devi",
+    "dolar",
+    "onces",
+    "trily",
+    "ulast",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "adc3e8993bab": {
+   "id": "adc3e8993bab",
+   "kaynak": "TRT Haber",
+   "baslik": "Van Gogh tablosu, Nazi dönemi geçmişine ilişkin tartışmanın ardından 190,4 milyon dolarla rekor fiyata satıldı",
+   "ozet": "Müzayede evi Sotheby's, Vincent van Gogh'a ait bir tabloyu 190,4 milyon dolara rekor fiyata sattı.",
+   "link": "https://www.trthaber.com/haber/dunya/van-gogh-tablosu-nazi-donemi-gecmisine-iliskin-tartismanin-ardindan-1904-milyon-dolarla-rekor-fiyata-satildi-963748.html",
+   "zaman": "2026-11-19T06:35:00+03:00",
+   "kelimeler": [
+    "190",
+    "ardin",
+    "dolar",
+    "donem",
+    "fiyat",
+    "gecmi",
+    "gogh",
+    "ilisk",
+    "milyo",
+    "nazi",
+    "rekor",
+    "satil",
+    "tablo",
+    "tarti",
+    "van"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 06:45:55  2 yeni haber",
   "19.11 06:01:18  1 yeni haber",
   "19.11 04:01:33  1 yeni haber",
   "19.11 03:46:20  2 yeni haber",
@@ -33102,8 +33114,7 @@
   "16.11 20:02:15  2 yeni haber",
   "16.11 19:46:39  5 yeni haber",
   "16.11 19:32:08  2 yeni haber",
-  "16.11 19:16:26  5 yeni haber",
-  "16.11 19:01:38  4 yeni haber"
+  "16.11 19:16:26  5 yeni haber"
  ],
  "otomatik": false
 }
