@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "c4d0580a31e5": {
-   "id": "c4d0580a31e5",
-   "kaynak": "TRT Haber",
-   "baslik": "ABDde uçuş krizi sürüyor: Binlerce sefer iptal edildi veya gecikti",
-   "ozet": "ABDde hava trafik kontrol sisteminde yaşanan teknik arızanın üzerinden iki gün geçmesine rağmen uçuşlardaki aksama devam ediyor. Pazar günü 8 bin 800den fazla uçuş gecikirken, 2 bin 400 sefer iptal edildi.",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-ucus-krizi-suruyor-binlerce-sefer-iptal-edildi-veya-gecikti-963371.html",
-   "zaman": "2026-11-16T07:02:00+03:00",
-   "kelimeler": [
-    "abdde",
-    "binle",
-    "edild",
-    "gecik",
-    "iptal",
-    "krizi",
-    "sefer",
-    "suruy",
-    "ucus",
-    "veya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "496b12f0ba43": {
    "id": "496b12f0ba43",
    "kaynak": "TRT Haber",
@@ -23009,7 +22987,10 @@
     "zanli"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "aee7c244b1bb": {
    "id": "aee7c244b1bb",
@@ -28438,7 +28419,8 @@
     "ziyar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "247ccc3a01e8": {
    "id": "247ccc3a01e8",
@@ -28550,7 +28532,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ]
   },
   "cb15a874ba94": {
@@ -30921,7 +30904,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a116cb42cc15": {
    "id": "a116cb42cc15",
@@ -32795,9 +32781,270 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "26e727753c9f": {
+   "id": "26e727753c9f",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni Parti’den komisyona üye yok",
+   "ozet": "Terörsüz Türkiye sürecinde yasada öngörülen İzleme Komisyonu’na İYİ Parti’nin ardından YENİ Parti de üye vermeyeceğini açıkladı. YENİ Parti Genel Başkanı Özgür Özel, son dönemdeki kayyum uygulamalarını eleştirdi, “Biz bu işin içerisinde yokuz” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-partiden-komisyona-uye-yok-43383101",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "komis",
+    "parti",
+    "uye",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f395343de0e8"
+  },
+  "da86eeeb14a8": {
+   "id": "da86eeeb14a8",
+   "kaynak": "Hürriyet",
+   "baslik": "Kılıçdaroğlu’ndan Dedetaş’a ziyaret",
+   "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Üsküdar Belediyesi’nde yapı ve iskân ruhsatı işlemlerinde usulsüzlük yapıldığı iddiasına ilişkin soruşturmada tutuklanıp belediye başkanlığı görevinden uzaklaştırılan ve ‘konutu terk etmeme’ şeklindeki adli kontrol tedbiriyle tahliye edilen…",
+   "link": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-dedetasa-ziyaret-43383102",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "dedet",
+    "kilic",
+    "ndan",
+    "ziyar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1f5fb6d5e9fc"
+  },
+  "ddf8f0dfabb3": {
+   "id": "ddf8f0dfabb3",
+   "kaynak": "Hürriyet",
+   "baslik": "Dervişoğlu: Kaynak mı arıyorsunuz",
+   "ozet": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, fon soruşturmasına yönelik eleştirilerde bulunarak, “Vatandaşa ödeme yapacak kaynak mı arıyorsunuz? Kaynak o listedeki hortumculardır” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dervisoglu-kaynak-mi-ariyorsunuz-43383103",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "ariyo",
+    "dervi",
+    "kayna"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3fd6ae8c7b62": {
+   "id": "3fd6ae8c7b62",
+   "kaynak": "Hürriyet",
+   "baslik": "Küçük ve Sarıkaya hakkında iddianame",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü soruşturma kapsamında, 31 Temmuz 2026’da tutuklanan gazeteci Cem Küçük ile 4 Ağustos 2026’da tutuklanan gazeteci Tahir Sarıkaya hakkında, ‘halkı yanıltıcı bilgiyi alenen yaymak’ iddiasıyla 1 yıl 3 aydan 5 yıl 3 aya kadar hapis…",
+   "link": "https://www.hurriyet.com.tr/gundem/kucuk-ve-sarikaya-hakkinda-iddianame-43383104",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "hakki",
+    "iddia",
+    "kucuk",
+    "sarik"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a6daa2504bbf"
+  },
+  "128f794deffa": {
+   "id": "128f794deffa",
+   "kaynak": "Hürriyet",
+   "baslik": "COP tarihinde bir ilk... İklim değişti akdeniz oldu",
+   "ozet": "COP tarihinde ilk kez Antalya’da yeni girişimcilerin projelerini tanıttığı Startup Zone kuruldu. 207 yeni girişimcinin yer aldığı alanda iklim değişikliğine yönelik projeler yarıştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop-tarihinde-bir-ilk-iklim-degisti-akdeniz-oldu-43383151",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "akden",
+    "cop",
+    "degis",
+    "iklim",
+    "ilk",
+    "tarih"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed10c6a50b3f": {
+   "id": "ed10c6a50b3f",
+   "kaynak": "Hürriyet",
+   "baslik": "Savcı ‘canavar’ dedi",
+   "ozet": "2 çocuğunun annesi Arzu Khalılova’yı, 72’si tek başına ölümcül olmak üzere 146 makas darbesiyle öldüren Salican Mehmet’in yargılandığı davada, Cumhuriyet savcısı mütalaasını verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/savci-canavar-dedi-43383158",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "canav",
+    "savci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cca0a1b6e123": {
+   "id": "cca0a1b6e123",
+   "kaynak": "Hürriyet",
+   "baslik": "33 ‘şirin’ tutuklandı",
+   "ozet": "ADANA İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şubesi ekipleri, Adana Cumhuriyet Başsavcılığı’nın koordinasyonunda, elebaşılığını Mehmet Şirin Aksoy’un yaptığı, kentte ‘Şirinler’ olarak bilinen suç örgütüne yönelik çalışma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/33-sirin-tutuklandi-43383160",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "33",
+    "sirin",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c9eaf27975de"
+  },
+  "aa2ac31f1cf3": {
+   "id": "aa2ac31f1cf3",
+   "kaynak": "Hürriyet",
+   "baslik": "Kuş değil moloz cenneti",
+   "ozet": "Hatay’ın Samandağ ilçesindeki Milleyha Kuş Cenneti, sahip olduğu biyolojik çeşitlilik ve doğal yaşam alanlarıyla Türkiye’nin önemli kuş göç ve gözlem noktaları arasında yer alıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/kus-degil-moloz-cenneti-43383162",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "cenne",
+    "degil",
+    "kus",
+    "moloz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b258258c480": {
+   "id": "4b258258c480",
+   "kaynak": "Hürriyet",
+   "baslik": "Tutuklu polisten ‘tuzak’ savunması",
+   "ozet": "TUNCELİ’de 5 Ocak 2020’den bu yana kayıp olan üniversite öğrencisi Gülistan Doku’ya ilişkin yürütülen cinayet soruşturmasında tutuklanan polis memuru Abdulvahit Pusat’ın ifadesi ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/tutuklu-polisten-tuzak-savunmasi-43383163",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "polis",
+    "savun",
+    "tutuk",
+    "tuzak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "51a0abcdd0d0": {
+   "id": "51a0abcdd0d0",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan: Organize kötülüğün hesabı tek tek soruluyor",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan fon kriziyle ilgili, “Şundan milletimiz ve yatırımcılarımız emin olsun: Türkiye ekonomisine ve sermaye piyasalarımıza bu organize kötülüğü yapanlardan işledikleri cürümlerin hesabı tek tek sorulmaktadır.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-organize-kotulugun-hesabi-tek-tek-soruluyor-43383169",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "erdog",
+    "hesab",
+    "kotul",
+    "organ",
+    "sorul",
+    "tek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3effd0d08af8": {
+   "id": "3effd0d08af8",
+   "kaynak": "Hürriyet",
+   "baslik": "Mavi Vatan’da 45 ikaz",
+   "ozet": "MİLLİ Savunma Bakanı Yaşar Güler, Türkiye’nin Ege ve Doğu Akdeniz’de deniz yetki alanlarındaki haklarını korumak amacıyla yürüttüğü faaliyetlere ilişkin dikkat çeken rakamlar açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mavi-vatanda-45-ikaz-43383173",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "45",
+    "ikaz",
+    "mavi",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "08ad950196f2": {
+   "id": "08ad950196f2",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi’den ‘Mersin’ açıklaması: Özel hayat genelgesi gönderdik",
+   "ozet": "Mersin Büyükşehir Belediyesi’ne yönelik operasyonda mahrem görüntülerin sızdırılmasıyla ilgili konuşan Çiftçi, “Benzer olayların tekrar yaşanmaması, soruşturma gizliliği ilkesine riayet edilmesi amacıyla ilgili birimlere gerekli uyarı ve talimatlar içeren genelge gönderildi”…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-mersin-aciklamasi-ozel-hayat-genelgesi-gonderdik-43383178",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "ciftc",
+    "den",
+    "genel",
+    "gonde",
+    "hayat",
+    "mersi",
+    "ozel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3981db42a801": {
+   "id": "3981db42a801",
+   "kaynak": "Hürriyet",
+   "baslik": "İmamoğlu’na siyasi yasak",
+   "ozet": "CHP’nin 338. Olağan Kurultayı’nda “oylamaya hile karıştırıldığı” iddiasıyla açılan davada karar çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/imamogluna-siyasi-yasak-43383181",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "imamo",
+    "na",
+    "siyas",
+    "yasak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7cb755236b77": {
+   "id": "7cb755236b77",
+   "kaynak": "Hürriyet",
+   "baslik": "Özlale’den yeni iddia",
+   "ozet": "YENİ Parti İzmir Milletvekili Ümit Özlale, yatırım fonlarında yaşanan mağduriyetler sonrası Pasifik Grubu ile bazı fonlar arasında milyarlarca liralık işlem yapıldığını öne sürdü:",
+   "link": "https://www.hurriyet.com.tr/gundem/ozlaleden-yeni-iddia-43383182",
+   "zaman": "2026-11-19T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "iddia",
+    "ozlal",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06e835ad5d4f"
+  },
+  "e753a7b70ecf": {
+   "id": "e753a7b70ecf",
+   "kaynak": "AA",
+   "baslik": "Trump, Çin'deki APEC Zirvesi'nde yapay zekaya yönelik \"küreselci düzenlemeye\" karşı çıktı",
+   "ozet": "ABD Başkanı Donald Trump, yapay zekanın \"bazı kötü unsurları\" olduğunu ancak \"neredeyse tamamen iyi\" olduğunu belirterek, yapay zekanın kontrol edilmesine veya kısıtlanmasına yönelik her türlü \"küreselci düzenlemeye\" karşı olduklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-cindeki-apec-zirvesinde-yapay-zekaya-yonelik-kureselci-duzenlemeye-karsi-cikti/4129940",
+   "zaman": "2026-11-19T07:06:25+03:00",
+   "kelimeler": [
+    "apec",
+    "cikti",
+    "cin",
+    "deki",
+    "duzen",
+    "karsi",
+    "kures",
+    "nde",
+    "trump",
+    "yapay",
+    "yonel",
+    "zekay",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 07:15:55  10 yeni haber",
   "19.11 07:04:48  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Zonguldak’ta arkadaşlarıyla körebe oynarken 8 metre yüksekliğindeki is",
   "19.11 07:01:27  5 yeni haber",
   "19.11 06:45:55  2 yeni haber",
@@ -32996,8 +33243,7 @@
   "16.11 20:31:15  1 yeni haber",
   "16.11 20:16:59  1 yeni haber",
   "16.11 20:04:46  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Beyoğlu Belediyesi Başkanvekili CHP'den istifa etti",
-  "16.11 20:02:15  2 yeni haber",
-  "16.11 19:46:39  5 yeni haber"
+  "16.11 20:02:15  2 yeni haber"
  ],
  "otomatik": false
 }
