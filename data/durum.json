@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "5706e933085d": {
-   "id": "5706e933085d",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kacır: Teknoloji geliştiricileri yatırımcıyla buluşacak",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Yapay Zeka Destekli Temiz Teknolojiler Girişimi'nin yenilikçi yapay zeka destekli temiz teknolojilerini pratik uygulamaya geçirmek ve bunların sektörlerle ekonomiler genelinde benimsenmesini hızlandırmak için uluslararası bir…",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kacir-teknoloji-gelistiricileri-yatirimciyla-bulusacak-43380610",
-   "zaman": "2026-11-16T21:23:43+03:00",
-   "kelimeler": [
-    "bakan",
-    "bulus",
-    "gelis",
-    "kacir",
-    "tekno",
-    "yatir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9bc9356a21e2": {
    "id": "9bc9356a21e2",
    "kaynak": "Hürriyet",
@@ -16021,7 +16003,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "461c1c6edf58": {
    "id": "461c1c6edf58",
@@ -32959,7 +32944,10 @@
     "yardi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5d4a6b8d2d2c": {
    "id": "5d4a6b8d2d2c",
@@ -34237,9 +34225,75 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "aa0b7ae9a81c": {
+   "id": "aa0b7ae9a81c",
+   "kaynak": "TRT Haber",
+   "baslik": "Etnospor Kültür Festivali Suudi Arabistan'da başladı",
+   "ozet": "Türkiye dışında ilk kez düzenlenen Etnospor Kültür Festivali, Suudi Arabistan'ın başkenti Riyad'da başladı.",
+   "link": "https://www.trthaber.com/haber/gundem/etnospor-kultur-festivali-suudi-arabistanda-basladi-963865.html",
+   "zaman": "2026-11-19T21:12:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "basla",
+    "etnos",
+    "festi",
+    "kultu",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "574dcd8ccedd"
+  },
+  "c6383b124a3e": {
+   "id": "c6383b124a3e",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakanlıktan sahte yardım mesajlarına karşı uyarı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, Bakanlığın ve sosyal yardımlaşma ve dayanışma vakıflarının adı kullanılarak sosyal yardım vaadiyle gerçekleştirilen dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakanliktan-sahte-yardim-mesajlarina-karsi-uyari-963866.html",
+   "zaman": "2026-11-19T21:16:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "karsi",
+    "mesaj",
+    "sahte",
+    "uyari",
+    "yardi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f85a52276e2d"
+  },
+  "db801a33be90": {
+   "id": "db801a33be90",
+   "kaynak": "XHABER",
+   "baslik": "Ankara'da \"Çobanlar Grubu\"na yönelik kara para aklama soruşturmasında 7 kişi tutuklandı.",
+   "ozet": "Uyuşturucu ticaretinden elde edildiği değerlendirilen gelirlerle bağlantılı, yaklaşık 1 trilyon 550 milyar TL değerindeki mal varlığına el konuldu. (TRT Haber)",
+   "link": "https://t.me/sahinozkan000/30779",
+   "zaman": "2026-11-19T21:20:11+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Ankara'da \"Çobanlar Grubu\"na yönelik kara para aklama soruşturmasında 7 kişi tutuklandı. Uyuşturucu ticaretinden elde edildiği değerlendirilen gelirlerle bağlantılı, yaklaşık 1 trilyon 550 milyar TL değerindeki mal varlığına el konuldu. (TRT Haber)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/JDfRRkRswZWct1XwATBiNGco_Ik2xrh-lNl6nUg9Qj0FMZ8S6AiLok0UDD6pl9fNntNecsgV1SrCAm8yUxBp6CiSJ5T2tiPc5NM1PZf-whck_noQkeECwCW8mUagZ8FVZB9aOHS6emIYC3Y9YGCs4LPa4mGX2c-wh-p7dar8QMYGTaI2RW5ydZq9xBa3Y11hJn_j6mnBGi9ky17fD_8Qq0ajyCxKlTdzitHrn8J9GTrbEzN5VEto8DKVe8E57xs2n86IiiH3OIDeL22ey5b91uSoa3cumbUtki8BddnxhNnjmvto3K2epCpU2oNWc9IBD85a_2pE246Si-swK8bYeA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "aklam",
+    "ankar",
+    "coban",
+    "grubu",
+    "kara",
+    "kisi",
+    "na",
+    "para",
+    "sorus",
+    "tutuk",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "19.11 21:31:27  1 yeni haber",
   "19.11 21:15:57  2 yeni haber",
   "19.11 21:02:38  1 yeni haber",
   "19.11 20:45:58  1 yeni haber",
@@ -34438,8 +34492,7 @@
   "17.11 11:31:46  13 yeni haber",
   "17.11 11:16:15  4 yeni haber",
   "17.11 11:01:26  8 yeni haber",
-  "17.11 10:48:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Diyarbakır merkezli rüşvet soruşturmasında 11 zanlı tutuklandı",
-  "17.11 10:46:04  10 yeni haber"
+  "17.11 10:48:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Diyarbakır merkezli rüşvet soruşturmasında 11 zanlı tutuklandı"
  ],
  "otomatik": false
 }
