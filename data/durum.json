@@ -32373,7 +32373,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "910b3c2ea9f8": {
@@ -32748,9 +32749,48 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "183ce2d34fb0": {
+   "id": "183ce2d34fb0",
+   "kaynak": "Hürriyet",
+   "baslik": "Enerjiye ilişkin düzenlemeleri içeren kanun teklifi, komisyonda kabul edildi",
+   "ozet": "TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu'nda, enerjiye ilişkin düzenlemeleri de içeren, 'Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun' ile 'Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun…",
+   "link": "https://www.hurriyet.com.tr/gundem/enerjiye-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi-43383185",
+   "zaman": "2026-11-19T05:49:48+03:00",
+   "kelimeler": [
+    "duzen",
+    "edild",
+    "enerj",
+    "icere",
+    "ilisk",
+    "kabul",
+    "kanun",
+    "komis",
+    "tekli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2446d9f66697"
+  },
+  "e068684f526d": {
+   "id": "e068684f526d",
+   "kaynak": "TRT Haber",
+   "baslik": "KPSS ortaöğretim sonuçları açıklandı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM, Kamu Personeli Seçme Sınavı 2026KPSS ortaöğretim sonuçlarını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/kpss-ortaogretim-sonuclari-aciklandi-963739.html",
+   "zaman": "2026-11-19T05:51:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "kpss",
+    "ortao",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 06:01:18  1 yeni haber",
   "19.11 04:01:33  1 yeni haber",
   "19.11 03:46:20  2 yeni haber",
   "19.11 03:31:16  1 yeni haber",
@@ -32949,8 +32989,7 @@
   "16.11 19:46:39  5 yeni haber",
   "16.11 19:32:08  2 yeni haber",
   "16.11 19:16:26  5 yeni haber",
-  "16.11 19:01:38  4 yeni haber",
-  "16.11 18:46:29  4 yeni haber"
+  "16.11 19:01:38  4 yeni haber"
  ],
  "otomatik": false
 }
