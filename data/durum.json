@@ -1,117 +1,5 @@
 {
  "haberler": {
-  "35c1cac76e5a": {
-   "id": "35c1cac76e5a",
-   "kaynak": "AA",
-   "baslik": "Bakan Fidan, Türkiye'nin Kafkaslar, Avrupa ve Orta Asya bağlantısallığındaki merkezi rolünü vurguladı",
-   "ozet": "Bakan Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından tabii ki takdir ediliyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-kafkaslar-avrupa-ve-orta-asya-baglantisalligindaki-merkezi-rolunu-vurguladi/4127062",
-   "zaman": "2026-11-16T22:04:48+03:00",
-   "kelimeler": [
-    "asya",
-    "avrup",
-    "bagla",
-    "bakan",
-    "fidan",
-    "kafka",
-    "merke",
-    "nin",
-    "orta",
-    "rolun",
-    "turki",
-    "vurgu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2ad894bf0c10": {
-   "id": "2ad894bf0c10",
-   "kaynak": "AA",
-   "baslik": "Fed Başkanı Warsh, yapay zekanın ekonomi üzerindeki etkisinin önemini vurguladı",
-   "ozet": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, yapay zekanın yaygın biçimde benimsenmesinin ekonomi üzerinde çok önemli etkisi olacağını ve para politikası açısından önemli sonuçlar doğuracağını kabul etmenin bankanın sorumluluğu olduğunu belirtti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-yapay-zekanin-ekonomi-uzerindeki-etkisinin-onemini-vurguladi/4127063",
-   "zaman": "2026-11-16T22:06:41+03:00",
-   "kelimeler": [
-    "baska",
-    "ekono",
-    "etkis",
-    "fed",
-    "onemi",
-    "uzeri",
-    "vurgu",
-    "warsh",
-    "yapay",
-    "zekan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5d7412c2f56a": {
-   "id": "5d7412c2f56a",
-   "kaynak": "NTV",
-   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 16 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1751181",
-   "zaman": "2026-11-16T22:07:45+03:00",
-   "kelimeler": [
-    "16",
-    "2026",
-    "acikl",
-    "bilet",
-    "buldu",
-    "cilgi",
-    "dev",
-    "ekran",
-    "ikram",
-    "kasim",
-    "loto",
-    "mpi",
-    "sahib",
-    "sayis",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "engelli",
-   "oncelikli": false
-  },
-  "df3fe138d0d1": {
-   "id": "df3fe138d0d1",
-   "kaynak": "Sözcü",
-   "baslik": "ABD'de ikinci kriz! Bu defa bankalar; erişim sorunu yaşanıyor",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/abd-de-dev-bankalarda-erisim-krizi-p382012",
-   "zaman": "2026-11-16T22:10:11+03:00",
-   "kelimeler": [
-    "abd",
-    "banka",
-    "defa",
-    "erisi",
-    "ikinc",
-    "kriz",
-    "sorun",
-    "yasan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b822630dcd42": {
-   "id": "b822630dcd42",
-   "kaynak": "Sözcü",
-   "baslik": "Emekliyi yıkan kulis! 'Refah payı' sürprizi",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/emekliyi-yikan-kulis-refah-payi-surprizi-p382011",
-   "zaman": "2026-11-16T22:10:31+03:00",
-   "kelimeler": [
-    "emekl",
-    "kulis",
-    "payi",
-    "refah",
-    "surpr",
-    "yikan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b35791640b59": {
    "id": "b35791640b59",
    "kaynak": "Hürriyet",
@@ -32929,7 +32817,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "NTV",
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "52db30d3c841": {
@@ -34288,7 +34177,10 @@
     "ucakl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "25c5e7f7bc5d": {
    "id": "25c5e7f7bc5d",
@@ -34333,9 +34225,236 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "ff2946c4170d": {
+   "id": "ff2946c4170d",
+   "kaynak": "AA",
+   "baslik": "Türkiye dışında ilk kez düzenlenen Etnospor Kültür Festivali, Riyad'da başladı",
+   "ozet": "Dünya Etnospor Birliği Başkanı Necmeddin Bilal Erdoğan, \"Türkiye ile Suudi Arabistan arasındaki kardeşlik, ortak inancımıza, ortak tarihimize ve halklarımız arasındaki güçlü bağlara dayanıyor. \" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-disinda-ilk-kez-duzenlenen-etnospor-kultur-festivali-riyadda-basladi/4131415",
+   "zaman": "2026-11-19T21:07:27+03:00",
+   "kelimeler": [
+    "basla",
+    "disin",
+    "duzen",
+    "etnos",
+    "festi",
+    "ilk",
+    "kez",
+    "kultu",
+    "riyad",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dace8ede0d3a": {
+   "id": "dace8ede0d3a",
+   "kaynak": "Hürriyet",
+   "baslik": "Sanayi ve Teknoloji Bakanı Kacır, Özbekistan temaslarını değerlendirdi",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye-Özbekistan İş Forumu'ndaki temaslarını değerlendirerek, \"Saygıdeğer Cumhurbaşkanlarımızın ortaya koyduğu güçlü işbirliği iradesini, sanayi ve teknolojide yeni ortaklıklara dönüştürmekte kararlıyız.\" ifadesini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sanayi-ve-teknoloji-bakani-kacir-ozbekistan-temaslarini-degerlendirdi-43384350",
+   "zaman": "2026-11-19T21:52:06+03:00",
+   "kelimeler": [
+    "bakan",
+    "deger",
+    "kacir",
+    "ozbek",
+    "sanay",
+    "tekno",
+    "temas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "94689bf5b464": {
+   "id": "94689bf5b464",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kacır'dan KIZILELMA paylaşımı: Dünyada ilk kez bir insansız savaş uçağı envantere kazanılmış oldu",
+   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, dünyada ilk kez bir insansız savaş uçağının envantere kazandırıldığını belirterek, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın sağlam iradesiyle Türkiye, savunma sanayiinde eşsiz başarılara imza atıyor.\" ifadesini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-kizilelma-paylasimi-dunyada-ilk-kez-bir-insansiz-savas-ucagi-envantere-kazanilmis-oldu-43384353",
+   "zaman": "2026-11-19T21:53:57+03:00",
+   "kelimeler": [
+    "bakan",
+    "dan",
+    "dunya",
+    "envan",
+    "ilk",
+    "insan",
+    "kacir",
+    "kazan",
+    "kez",
+    "kizil",
+    "payla",
+    "savas",
+    "ucagi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "46c157753bd2"
+  },
+  "c77ed11c26ef": {
+   "id": "c77ed11c26ef",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye dahil 15 ülkeden işgalci İsrail'e yönelik yaptırımlara destek",
+   "ozet": "Türkiye ve 14 ülkenin dışişleri bakanları, İngiltere ve Avustralya hükümetlerinin işgal altındaki Filistin topraklarında yürütülen yasa dışı İsrail yerleşim faaliyetlerine karşı, yerleşim inşasında rol alan şirketleri hedef alan tedbirler de dahil olmak üzere, yaptırım uygulama…",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-dahil-15-ulkeden-isgalci-israile-yonelik-yaptirimlara-destek-963869.html",
+   "zaman": "2026-11-19T21:55:00+03:00",
+   "kelimeler": [
+    "15",
+    "dahil",
+    "deste",
+    "isgal",
+    "israi",
+    "turki",
+    "ulked",
+    "yapti",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "601aae2fc710": {
+   "id": "601aae2fc710",
+   "kaynak": "AA",
+   "baslik": "Türkiye dahil 15 ülkeden İsrail'in yasa dışı yerleşim faaliyetlerine yönelik yaptırımlara destek",
+   "ozet": "Türkiye ve 14 ülkenin dışişleri bakanları, İngiltere ve Avustralya hükümetlerinin işgal altındaki Filistin topraklarında yürütülen yasa dışı İsrail yerleşim faaliyetlerine karşı yaptırımlarını memnuniyetle karşıladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-dahil-15-ulkeden-israilin-yasa-disi-yerlesim-faaliyetlerine-yonelik-yaptirimlara-destek/4131457",
+   "zaman": "2026-11-19T21:55:01+03:00",
+   "kelimeler": [
+    "15",
+    "dahil",
+    "deste",
+    "disi",
+    "faali",
+    "in",
+    "israi",
+    "turki",
+    "ulked",
+    "yapti",
+    "yasa",
+    "yerle",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c77ed11c26ef"
+  },
+  "1451d11eb132": {
+   "id": "1451d11eb132",
+   "kaynak": "TRT Haber",
+   "baslik": "AB, müzakere masasına oturana kadar Rusya'ya baskıyı sürdürecek",
+   "ozet": "Avrupa Birliği AB Komisyonu Başkanı Ursula von der Leyen, Rusya müzakere masasına oturmayı kabul edene kadar Moskova üzerindeki baskıyı artırmaya devam edeceklerini vurguladı.",
+   "link": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
+   "zaman": "2026-11-19T21:57:00+03:00",
+   "kelimeler": [
+    "ab",
+    "baski",
+    "masas",
+    "muzak",
+    "otura",
+    "rusya",
+    "surdu",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3e7e8fe48bdf": {
+   "id": "3e7e8fe48bdf",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail savaş uçakları Lübnan'ın doğusuna hava saldırıları düzenledi",
+   "ozet": "İsrail ordusu, yürürlükteki ateşkes ve çerçeve anlaşmasına rağmen Lübnan'ın doğusundaki Baalbek kentine hava saldırıları düzenledi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-savas-ucaklari-lubnanin-dogusuna-hava-saldirilari-duzenledi-963870.html",
+   "zaman": "2026-11-19T21:59:00+03:00",
+   "kelimeler": [
+    "dogus",
+    "duzen",
+    "hava",
+    "in",
+    "isgal",
+    "israi",
+    "lubna",
+    "saldi",
+    "savas",
+    "ucakl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6829da3b209b"
+  },
+  "65cd70c9efa2": {
+   "id": "65cd70c9efa2",
+   "kaynak": "AA",
+   "baslik": "Rusya'nın Kiev'e saldırılarında Avusturya ve Hollanda büyükelçilikleri hasar gördü",
+   "ozet": "Rusya'nın Ukrayna'nın başkenti Kiev'e düzenlediği insansız hava aracı (İHA) saldırılarında, Avusturya ve Hollanda büyükelçiliklerinin binaları hasar gördü.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-kieve-saldirilarinda-avusturya-ve-hollanda-buyukelcilikleri-hasar-gordu/4131466",
+   "zaman": "2026-11-19T22:03:16+03:00",
+   "kelimeler": [
+    "avust",
+    "buyuk",
+    "gordu",
+    "hasar",
+    "holla",
+    "kiev",
+    "nin",
+    "rusya",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8d14fb146e00": {
+   "id": "8d14fb146e00",
+   "kaynak": "AA",
+   "baslik": "Zelenskiy, savaşı sona erdirmeye yönelik görüşmelerin gündeminin ortak hazırlanmasını istedi",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşı sona erdirmeye yönelik bir sonraki görüşmenin gündeminin tüm taraflarca birlikte hazırlanması ve onaylanması gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-savasi-sona-erdirmeye-yonelik-gorusmelerin-gundeminin-ortak-hazirlanmasini-istedi/4131467",
+   "zaman": "2026-11-19T22:04:26+03:00",
+   "kelimeler": [
+    "erdir",
+    "gorus",
+    "gunde",
+    "hazir",
+    "isted",
+    "ortak",
+    "savas",
+    "sona",
+    "yonel",
+    "zelen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b4b679451d56": {
+   "id": "b4b679451d56",
+   "kaynak": "AA",
+   "baslik": "Fransa'dan Ukrayna'nın NATO üyeliği konusunun yeniden ele alınması çağrısı",
+   "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, kısa vadede önceliklerinin Ukrayna'yı desteklemek olduğunu belirterek, bu ülkenin NATO'ya üyeliği konusunu yeniden ele almak gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadan-ukraynanin-nato-uyeligi-konusunun-yeniden-ele-alinmasi-cagrisi/4131480",
+   "zaman": "2026-11-19T22:11:11+03:00",
+   "kelimeler": [
+    "alinm",
+    "cagri",
+    "dan",
+    "ele",
+    "frans",
+    "konus",
+    "nato",
+    "nin",
+    "ukray",
+    "uyeli",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 22:15:57  7 yeni haber",
   "19.11 22:01:38  2 yeni haber",
   "19.11 21:46:05  3 yeni haber",
   "19.11 21:31:27  1 yeni haber",
@@ -34534,8 +34653,7 @@
   "17.11 12:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · İzmir merkezli FETÖ operasyonunda yakalanan 11 şüpheli tutuklandı",
   "17.11 12:01:43  12 yeni haber",
   "17.11 11:46:30  11 yeni haber",
-  "17.11 11:31:46  13 yeni haber",
-  "17.11 11:16:15  4 yeni haber"
+  "17.11 11:31:46  13 yeni haber"
  ],
  "otomatik": false
 }
