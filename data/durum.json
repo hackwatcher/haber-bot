@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "dfd4cdba4610": {
-   "id": "dfd4cdba4610",
-   "kaynak": "Sözcü",
-   "baslik": "Ankara'da 2 ilçe ve çok sayıda mahallede su kesintisi olacak",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/ankarada-2-ilce-ve-cok-sayida-mahallede-su-kesintisi-olacak-p382001",
-   "zaman": "2026-11-16T21:03:40+03:00",
-   "kelimeler": [
-    "ankar",
-    "ilce",
-    "kesin",
-    "mahal",
-    "olaca",
-    "sayid",
-    "su"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8e6c5d9cd890": {
-   "id": "8e6c5d9cd890",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Fidan, İkinci Bakanlar Toplantısı’ndan paylaşım yaptı",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, “AB üyesi ülkeler ile Karadeniz, Güney Kafkasya ve Orta Asya ülkelerinden temsilcileri bir araya getiren Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısı’nı bugün Brüksel’de gerçekleştirdik” açıklamasında bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-fidan-ikinci-bakanlar-toplantisindan-paylasim-yapti-43380599",
-   "zaman": "2026-11-16T21:03:41+03:00",
-   "kelimeler": [
-    "bakan",
-    "fidan",
-    "ikinc",
-    "ndan",
-    "payla",
-    "topla",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2e934d7f6164": {
-   "id": "2e934d7f6164",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum: Dönüşümün faydasını paylaşırken maliyetini de paylaşmalıyız",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Adil geçişin tek bir reçetesi olamaz. Ortak fakat farklılaştırılmış sorumluluklar ve göreli kabiliyetler ilkesi bize önemli bir çerçeve sunuyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-donusumun-faydasini-paylasirken-maliyetini-de-paylasmaliyiz-43380606",
-   "zaman": "2026-11-16T21:14:55+03:00",
-   "kelimeler": [
-    "bakan",
-    "donus",
-    "fayda",
-    "kurum",
-    "maliy",
-    "payla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7ceac7ef05ec"
-  },
   "5706e933085d": {
    "id": "5706e933085d",
    "kaynak": "Hürriyet",
@@ -6873,25 +6816,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "08e60d6ef92e": {
-   "id": "08e60d6ef92e",
-   "kaynak": "AA",
-   "baslik": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı",
-   "ozet": "Türk sinemasının usta oyuncusu Türkan Şoray, \"Doğa bizim yaşamımızın bir parçası, vazgeçilmezimizdir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
-   "zaman": "2026-11-16T21:13:55+03:00",
-   "kelimeler": [
-    "anlat",
-    "cop31",
-    "sinem",
-    "soray",
-    "turka",
-    "yesil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a49d639aa3fb"
   },
   "986838aed692": {
    "id": "986838aed692",
@@ -32712,7 +32636,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "f3c49af2b386": {
@@ -33936,7 +33861,10 @@
     "zinci"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ce7995b85c32": {
    "id": "ce7995b85c32",
@@ -34225,9 +34153,94 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "110c48f84b98"
+  },
+  "ab683af58198": {
+   "id": "ab683af58198",
+   "kaynak": "TRT Haber",
+   "baslik": "TEM Otoyolu'nda zincirleme trafik kazası: 18 yaralı",
+   "ozet": "İstanbul'da Bağcılar TEM Otoyolu'nda 1'i midibüs 3 aracın karıştığı zincirleme kaza meydana geldi. Kazada yaralanan 18 kişi ambulansla hastaneye kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/tem-otoyolunda-zincirleme-trafik-kazasi-18-yarali-963862.html",
+   "zaman": "2026-11-19T20:18:00+03:00",
+   "kelimeler": [
+    "18",
+    "kazas",
+    "nda",
+    "otoyo",
+    "tem",
+    "trafi",
+    "yaral",
+    "zinci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c68aedbebd8e"
+  },
+  "c81ed17f6d42": {
+   "id": "c81ed17f6d42",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan, Sağlık Bakanı Memişoğlu ile görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Sağlık Bakanı Kemal Memişoğlu ile görüştü.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-saglik-bakani-memisoglu-ile-gorustu-963864.html",
+   "zaman": "2026-11-19T21:05:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "emine",
+    "erdog",
+    "gorus",
+    "memis",
+    "sagli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "82efd4bb42b3"
+  },
+  "b5b5deb9d570": {
+   "id": "b5b5deb9d570",
+   "kaynak": "AA",
+   "baslik": "Anthropic'in hisseleri Nasdaq'ta işlem görmeye başladı",
+   "ozet": "Claude yapay zeka modellerinin geliştiricisi Anthropic’in hisseleri Nasdaq borsasında işlem görmeye başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anthropicin-hisseleri-nasdaqta-islem-gormeye-basladi/4131421",
+   "zaman": "2026-11-19T21:09:23+03:00",
+   "kelimeler": [
+    "anthr",
+    "basla",
+    "gorme",
+    "hisse",
+    "in",
+    "islem",
+    "nasda",
+    "ta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5ad134638542": {
+   "id": "5ad134638542",
+   "kaynak": "AA",
+   "baslik": "Filistin Esirler Cemiyeti: Dr. Ebu Safiyye'nin tutukluluk süresinin uzatılması hayatına kastetmektir",
+   "ozet": "Filistin Esirler Cemiyeti, Gazze Şeridi'nden alıkonulan ve kendisine herhangi bir suçlama yöneltilmeyen Dr. Hüsam Ebu Safiyye'nin tutukluluk süresinin 6 ay daha uzatılmasının \"hayatına kastetmek\" anlamına geldiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-esirler-cemiyeti-dr-ebu-safiyyenin-tutukluluk-suresinin-uzatilmasi-hayatina-kastetmektir/4131423",
+   "zaman": "2026-11-19T21:09:44+03:00",
+   "kelimeler": [
+    "cemiy",
+    "dr",
+    "ebu",
+    "esirl",
+    "filis",
+    "hayat",
+    "kaste",
+    "nin",
+    "safiy",
+    "sures",
+    "tutuk",
+    "uzati"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "19.11 21:15:57  2 yeni haber",
   "19.11 21:02:38  1 yeni haber",
   "19.11 20:45:58  1 yeni haber",
   "19.11 20:39:14  1 yeni haber",
@@ -34426,8 +34439,7 @@
   "17.11 11:16:15  4 yeni haber",
   "17.11 11:01:26  8 yeni haber",
   "17.11 10:48:44  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Diyarbakır merkezli rüşvet soruşturmasında 11 zanlı tutuklandı",
-  "17.11 10:46:04  10 yeni haber",
-  "17.11 10:31:26  6 yeni haber"
+  "17.11 10:46:04  10 yeni haber"
  ],
  "otomatik": false
 }
