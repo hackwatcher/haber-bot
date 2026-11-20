@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "9e34498a4924": {
-   "id": "9e34498a4924",
-   "kaynak": "AA",
-   "baslik": "ABD Ulusal Güvenlik Ajansının gizli iç iletişim ağının çalışmadığı öne sürüldü",
-   "ozet": "ABD Ulusal Güvenlik Ajansının (NSA) iç iletişim için kullandığı çok gizli ağın devre dışı kaldığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ulusal-guvenlik-ajansinin-gizli-ic-iletisim-aginin-calismadigi-one-suruldu/4128262",
-   "zaman": "2026-11-17T21:05:43+03:00",
-   "kelimeler": [
-    "abd",
-    "agini",
-    "ajans",
-    "calis",
-    "gizli",
-    "guven",
-    "ic",
-    "ileti",
-    "one",
-    "surul",
-    "ulusa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "de42fcf75527": {
-   "id": "de42fcf75527",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'de Demokratlar, durdurulan uçuşlar hakkında yönetimden net açıklama bekliyor",
-   "ozet": "ABD Senatosundaki Demokratlar, geçen cuma günü ülke genelinde uçuşların bir süre durdurulmasına tam olarak neyin neden olduğu ve bundan sonra hangi tedbirlerin alınacağı konusunda Trump yönetiminden daha net açıklama beklediklerini belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-demokratlar-durdurulan-ucuslar-hakkinda-yonetimden-net-aciklama-bekliyor-963600.html",
-   "zaman": "2026-11-17T21:06:00+03:00",
-   "kelimeler": [
-    "abd",
-    "acikl",
-    "bekli",
-    "demok",
-    "durdu",
-    "hakki",
-    "net",
-    "ucusl",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c9cff0c8eb16": {
    "id": "c9cff0c8eb16",
    "kaynak": "AA",
@@ -32897,7 +32850,10 @@
     "trump"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "aa1a86712470": {
    "id": "aa1a86712470",
@@ -32959,9 +32915,56 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "13a4c7a456e0": {
+   "id": "13a4c7a456e0",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Özlale'nin Albayrak Grubu'ndan Bakan Bolat'a uzanan yeni iddiaları neler, bunlara yanıtlar ne oldu?",
+   "ozet": "20 Kasım Cuma günü TBMM'de düzenlediği basın toplantısında, dosya serisinin beşincisini açıklayan Özlale, Albayrak Grubu şirketlerinden Ticaret Bakanı Ömer Bolat'a uzanan geniş kapsamlı iddialarda bulundu.",
+   "link": "https://www.bbc.com/turkce/articles/cm702wv2144go",
+   "zaman": "2026-11-20T21:00:25+03:00",
+   "kelimeler": [
+    "albay",
+    "bakan",
+    "bolat",
+    "bunla",
+    "grubu",
+    "iddia",
+    "ndan",
+    "neler",
+    "nin",
+    "ozlal",
+    "uzana",
+    "yanit",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "23754730a14a": {
+   "id": "23754730a14a",
+   "kaynak": "Sözcü",
+   "baslik": "Trump: İran anlaşma istiyor ama şartlarımı kabul etmiyor",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/trump-iran-aciklamasi-20-kasim-2026-p383114",
+   "zaman": "2026-11-20T21:06:03+03:00",
+   "kelimeler": [
+    "ama",
+    "anlas",
+    "etmiy",
+    "iran",
+    "istiy",
+    "kabul",
+    "sartl",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "958adfa2e23d"
   }
  },
  "kayit": [
+  "20.11 21:16:25  1 yeni haber",
   "20.11 21:01:29  3 yeni haber",
   "20.11 20:46:48  1 yeni haber",
   "20.11 20:32:12  1 yeni haber",
@@ -33160,8 +33163,7 @@
   "18.11 12:48:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türk bayrağını selamlarken hastanelik oldu",
   "18.11 12:46:08  15 yeni haber",
   "18.11 12:16:16  11 yeni haber",
-  "18.11 12:01:28  41 yeni haber",
-  "18.11 11:18:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türk sinemasında yeni bir anlatım dilinin öncüsü: Ömer Lütfi Akad"
+  "18.11 12:01:28  41 yeni haber"
  ],
  "otomatik": false
 }
