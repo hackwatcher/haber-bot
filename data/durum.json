@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "cd497bad58f8": {
-   "id": "cd497bad58f8",
-   "kaynak": "NTV",
-   "baslik": "Yabancı yatırımcılara ikamet iznine düzenleme. 150 bin dolarla 3 yıl, 200 bin dolarla 5 yıl",
-   "ozet": "Türkiye’de yatırım yapacak yabancılara verilecek ikamet izinleri için yeni tutarlar belirlendi. Resmi Gazete'de yayımlanan karara göre, yatırım tutarına göre 3 veya 5 yıllık ikamet izni verilecek.",
-   "link": "https://www.ntv.com.tr/turkiye/yabanci-yatirimcilara-ikamet-iznine-duzenleme-150-bin-dolarla-3-yil-200-bin-dolarla-5-yil-1751361",
-   "zaman": "2026-11-18T02:39:36+03:00",
-   "kelimeler": [
-    "150",
-    "200",
-    "bin",
-    "dolar",
-    "duzen",
-    "ikame",
-    "iznin",
-    "yaban",
-    "yatir",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "d0c12fb0570a": {
-   "id": "d0c12fb0570a",
-   "kaynak": "TRT Haber",
-   "baslik": "Eskişehir'de polisten kaçan aday sürücünün ehliyeti iptal edildi",
-   "ozet": "Eskişehir'in Odunpazarı ilçesinde polisin \"dur\" ikazına uymayıp kaçan alkollü aday sürücünün ehliyeti iptal edildi. Ayrıca sürücüye 431 bin lira idari para cezası kesildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/eskisehirde-polisten-kacan-aday-surucunun-ehliyeti-iptal-edildi-963616.html",
-   "zaman": "2026-11-18T02:42:00+03:00",
-   "kelimeler": [
-    "aday",
-    "edild",
-    "ehliy",
-    "eskis",
-    "iptal",
-    "kacan",
-    "polis",
-    "suruc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "61c2d00cc3ce": {
    "id": "61c2d00cc3ce",
    "kaynak": "NTV",
@@ -30042,7 +30000,10 @@
     "yatir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "19ac8b84483a": {
    "id": "19ac8b84483a",
@@ -32838,9 +32799,73 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "08ba04b5489b"
+  },
+  "b4c4eabb0dec": {
+   "id": "b4c4eabb0dec",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan: Kadınları desteklemek, doğrudan ülkenin geleceğine yatırım yapmaktır",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Kimi zaman, kadın girişimciliğinin desteklenmesi, sosyal sorumluluk projeleri kapsamında ele alınıyor.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-kadinlari-desteklemek-dogrudan-ulkenin-gelecegine-yatirim-yapmaktir-964021.html",
+   "zaman": "2026-11-21T01:36:00+03:00",
+   "kelimeler": [
+    "deste",
+    "dogru",
+    "emine",
+    "erdog",
+    "gelec",
+    "kadin",
+    "ulken",
+    "yapma",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d630651016d0"
+  },
+  "b109d4822485": {
+   "id": "b109d4822485",
+   "kaynak": "AA",
+   "baslik": "BEÜ'lü akademisyen COP31'de iklim kaygısının toplumsal güvene etkisine dikkati çekti",
+   "ozet": "Bitlis Eren Üniversitesi (BEÜ) Turizm Uygulama ve Araştırma Merkezi Müdürü Doç. Dr. Berfin Göksoy Sevinçli, iklim krizinin toplumsal güven ve insanların geleceğe ilişkin beklentileri üzerinde de etkili olduğunu Antalya'da düzenlenen COP31'de anlattı.",
+   "link": "https://www.aa.com.tr/tr/gundem/beulu-akademisyen-cop31de-iklim-kaygisinin-toplumsal-guvene-etkisine-dikkati-cekti/4132638",
+   "zaman": "2026-11-21T01:47:58+03:00",
+   "kelimeler": [
+    "akade",
+    "beu",
+    "cekti",
+    "cop31",
+    "dikka",
+    "etkis",
+    "guven",
+    "iklim",
+    "kaygi",
+    "lu",
+    "toplu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "00662df3e932": {
+   "id": "00662df3e932",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanlığı: Türkiye, ICAO Konseyine seçildi",
+   "ozet": "Dışişleri Bakanlığı, Türkiye'nin Uluslararası Sivil Havacılık Teşkilatı (ICAO) Konsey üyeliğine seçildiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligi-turkiye-icao-konseyine-secildi-43385701",
+   "zaman": "2026-11-21T02:31:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "disis",
+    "icao",
+    "konse",
+    "secil",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 02:46:10  2 yeni haber",
   "21.11 02:01:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "21.11 01:33:12  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Bitcoin, 60 bin dolara düştü.",
   "21.11 01:31:56  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -33039,8 +33064,7 @@
   "18.11 19:46:10  5 yeni haber",
   "18.11 19:31:17  5 yeni haber",
   "18.11 19:01:27  2 yeni haber",
-  "18.11 18:31:35  15 yeni haber",
-  "18.11 17:49:04  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli sporcular Ebru Acer ve Abdullah Öztürk, tekler kategorisinde fin"
+  "18.11 18:31:35  15 yeni haber"
  ],
  "otomatik": false
 }
