@@ -1,92 +1,5 @@
 {
  "haberler": {
-  "3408db6ee7f4": {
-   "id": "3408db6ee7f4",
-   "kaynak": "AA",
-   "baslik": "BUDO'nun yarınki 12 seferi iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin (BUDO) yarınki 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-yarinki-12-seferi-iptal-edildi/4128283",
-   "zaman": "2026-11-17T21:34:48+03:00",
-   "kelimeler": [
-    "12",
-    "budo",
-    "edild",
-    "iptal",
-    "nun",
-    "sefer",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "TRT Haber",
-    "Hürriyet"
-   ]
-  },
-  "26645bdb86e3": {
-   "id": "26645bdb86e3",
-   "kaynak": "Hürriyet",
-   "baslik": "TBMM Başkanı Kurtulmuş, İYİ Parti Genel Başkanı Dervişoğlu'nu ziyaret etti",
-   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye\" hedefi kapsamında kurulacak olan İzleme Komisyonu'na ilişkin İYİ Parti Genel Başkanı Müsavat Dervişoğlu'nu ziyaret etti.",
-   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-iyi-parti-genel-baskani-dervisoglunu-ziyaret-etti-43381761",
-   "zaman": "2026-11-17T21:38:38+03:00",
-   "kelimeler": [
-    "baska",
-    "dervi",
-    "etti",
-    "genel",
-    "iyi",
-    "kurtu",
-    "nu",
-    "parti",
-    "tbmm",
-    "ziyar"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "bd1d0762aa9e"
-  },
-  "2bbbff0528f0": {
-   "id": "2bbbff0528f0",
-   "kaynak": "TRT Haber",
-   "baslik": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
-   "ozet": "Dünya Bankası, Antalya'da gerçekleştirilen Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31.",
-   "link": "https://www.trthaber.com/haber/ekonomi/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu-963603.html",
-   "zaman": "2026-11-17T21:42:00+03:00",
-   "kelimeler": [
-    "banka",
-    "cop31",
-    "dunya",
-    "iklim",
-    "istih",
-    "koydu",
-    "merke",
-    "yatir"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e11868e5ccf1"
-  },
-  "7a55e755ed41": {
-   "id": "7a55e755ed41",
-   "kaynak": "Hürriyet",
-   "baslik": "\"Fon soruşturması\" kapsamında Şamil Tayyar ifade verdi",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında eski AK Parti Milletvekili Şamil Tayyar \"şüpheli\" sıfatıyla ifade verdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-kapsaminda-samil-tayyar-ifade-verdi-43381766",
-   "zaman": "2026-11-17T21:45:11+03:00",
-   "kelimeler": [
-    "fon",
-    "ifade",
-    "kapsa",
-    "samil",
-    "sorus",
-    "tayya",
-    "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f7ac411b333c": {
    "id": "f7ac411b333c",
    "kaynak": "NTV",
@@ -741,26 +654,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "12eda6dbce8d": {
-   "id": "12eda6dbce8d",
-   "kaynak": "AA",
-   "baslik": "BUDO'nun bugünkü 12 seferi iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-12-seferi-iptal-edildi/4128283",
-   "zaman": "2026-11-17T21:34:48+03:00",
-   "kelimeler": [
-    "12",
-    "budo",
-    "bugun",
-    "edild",
-    "iptal",
-    "nun",
-    "sefer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3408db6ee7f4"
   },
   "51cd3c4d0d48": {
    "id": "51cd3c4d0d48",
@@ -32824,9 +32717,31 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "e65933d4dd1e": {
+   "id": "e65933d4dd1e",
+   "kaynak": "TRT Haber",
+   "baslik": "'Fiyat hatası' gerekçesiyle iptal edilen siparişe 1 milyon TL ceza",
+   "ozet": "Ticaret Bakanlığı Reklam Kurulu, bir eticaret platformu üzerinden verilen siparişleri \"fiyat hatası\" gerekçesiyle iptal eden şirkete 1 milyon 83 bin 706 lira idari para cezası uyguladı, söz konusu reklamların durdurulmasına karar verdi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/fiyat-hatasi-gerekcesiyle-iptal-edilen-siparise-1-milyon-tl-ceza-964004.html",
+   "zaman": "2026-11-20T21:37:00+03:00",
+   "kelimeler": [
+    "ceza",
+    "edile",
+    "fiyat",
+    "gerek",
+    "hatas",
+    "iptal",
+    "milyo",
+    "sipar",
+    "tl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 21:46:03  1 yeni haber",
   "20.11 21:31:43  1 yeni haber",
   "20.11 21:16:25  1 yeni haber",
   "20.11 21:01:29  3 yeni haber",
@@ -33025,8 +32940,7 @@
   "18.11 13:31:32  11 yeni haber",
   "18.11 13:16:07  11 yeni haber",
   "18.11 12:48:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türk bayrağını selamlarken hastanelik oldu",
-  "18.11 12:46:08  15 yeni haber",
-  "18.11 12:16:16  11 yeni haber"
+  "18.11 12:46:08  15 yeni haber"
  ],
  "otomatik": false
 }
