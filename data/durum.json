@@ -32802,7 +32802,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "Sözcü",
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ],
    "paylasildi": "2026-11-21T00:34:20.926041+03:00",
    "ig_id": "17993301846064113",
@@ -32871,6 +32872,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "8a5dfc279a07": {
+   "id": "8a5dfc279a07",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ikinci gün sona erdi",
+   "ozet": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ikinci gün etkinlikleri sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenen-etnospor-kultur-festivalinde-ikinci-gun-sona-erdi/4132605",
+   "zaman": "2026-11-21T00:31:08+03:00",
+   "kelimeler": [
+    "arabi",
+    "duzen",
+    "erdi",
+    "etnos",
+    "festi",
+    "gun",
+    "ikinc",
+    "kultu",
+    "nde",
+    "sona",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "61ca172b09c7"
+  },
+  "bc925f8b8582": {
+   "id": "bc925f8b8582",
+   "kaynak": "Hürriyet",
+   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmi Gazete’de yayımlanan atama kararları kapsamında, çeşitli bakanlık ve kamu kurumlarında 4 isim görevden alınırken, 3 isim yeni görevlere atandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-43385654",
+   "zaman": "2026-11-21T00:35:13+03:00",
+   "kelimeler": [
+    "alma",
+    "atama",
+    "gazet",
+    "gorev",
+    "karar",
+    "resmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c4875e55571f"
   }
  },
  "kayit": [
