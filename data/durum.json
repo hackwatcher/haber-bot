@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "980c0b896bd6": {
-   "id": "980c0b896bd6",
-   "kaynak": "Sözcü",
-   "baslik": "İçişleri'nden sağanak ve fırtına uyarısı",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/icislerinden-saganak-ve-firtina-uyarisi-p382255",
-   "zaman": "2026-11-17T20:44:57+03:00",
-   "kelimeler": [
-    "firti",
-    "icisl",
-    "nden",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "85ca0ad5034c": {
-   "id": "85ca0ad5034c",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD yönetimi, hava trafik sisteminin modernizasyonu için Kongre'den finansman talep etti",
-   "ozet": "ABD Başkanı Donald Trump yönetimi, 50,1 milyar dolarlık yatırımla hava trafik kontrol sistemlerinin modernizasyonunu finanse etmesi için Kongre'ye çağrıda bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-yonetimi-hava-trafik-sisteminin-modernizasyonu-icin-kongreden-finansman-talep-etti-963598.html",
-   "zaman": "2026-11-17T20:39:00+03:00",
-   "kelimeler": [
-    "abd",
-    "den",
-    "etti",
-    "finan",
-    "hava",
-    "kongr",
-    "moder",
-    "siste",
-    "talep",
-    "trafi",
-    "yonet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c8c2c5bc56a4"
-  },
-  "8f11a1f92ff7": {
-   "id": "8f11a1f92ff7",
-   "kaynak": "Hürriyet",
-   "baslik": "İçişleri Bakanlığı'ndan 'sağanak ve fırtına' uyarısı",
-   "ozet": "İçişleri Bakanlığı, yarın birçok ilde etkili olması beklenen sağanak nedeniyle sel ve su baskınına karşı uyarıda bulundu.",
-   "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligindan-saganak-ve-firtina-uyarisi-43381737",
-   "zaman": "2026-11-17T20:44:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "firti",
-    "icisl",
-    "ndan",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "980c0b896bd6"
-  },
   "e68d94b8ded3": {
    "id": "e68d94b8ded3",
    "kaynak": "AA",
@@ -32201,7 +32138,8 @@
     "serid"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "cae7a2a69dc3": {
    "id": "cae7a2a69dc3",
@@ -32838,7 +32776,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "e20392a4109f": {
@@ -32918,9 +32857,93 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b2b9cef334e9": {
+   "id": "b2b9cef334e9",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze Şeridi'ndeki saldırılarında 7 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkes anlaşmasına rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği hava ve kara saldırılarında 7 Filistinli yaşamını yitirdi, en az 13 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-seridindeki-saldirilarinda-7-filistinli-hayatini-kaybetti/4132376",
+   "zaman": "2026-11-20T18:12:28+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "ndeki",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3b5fc7f7daba"
+  },
+  "404ab6ba66b0": {
+   "id": "404ab6ba66b0",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in Gazze Şeridi'ndeki saldırılarında 7 Filistinli hayatını kaybetti",
+   "ozet": "Katil İsrail ordusunun ateşkes anlaşmasına rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği hava ve kara saldırılarında 7 Filistinli yaşamını yitirdi, en az 13 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-saldirilarinda-7-filistinli-hayatini-kaybetti-963990.html",
+   "zaman": "2026-11-20T18:17:00+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "katil",
+    "kaybe",
+    "ndeki",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3160c9f44afe"
+  },
+  "212630c88213": {
+   "id": "212630c88213",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Kadim Dostlar Buluşması'na katıldı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Kadim Dostlar Buluşması'na katıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasina-katildi-963999.html",
+   "zaman": "2026-11-20T20:02:00+03:00",
+   "kelimeler": [
+    "bulus",
+    "cumhu",
+    "dostl",
+    "erdog",
+    "kadim",
+    "katil",
+    "na"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "308d485f9f13"
+  },
+  "d6bf7a4c0651": {
+   "id": "d6bf7a4c0651",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara merkezli dolandırıcılık operasyonunda 12 tutuklama",
+   "ozet": "Ankara merkezli 5 ilde düzenlenen dolandırıcılık operasyonunda gözaltına alınan 15 şüpheliden 12'si tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-dolandiricilik-operasyonunda-12-tutuklama-964001.html",
+   "zaman": "2026-11-20T20:39:00+03:00",
+   "kelimeler": [
+    "12",
+    "ankar",
+    "dolan",
+    "merke",
+    "opera",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "20.11 20:46:48  1 yeni haber",
   "20.11 20:32:12  1 yeni haber",
   "20.11 20:20:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yeni nesil suç örgütlerine operasyon… İş insanlarına 15 silahlı eylem ",
   "20.11 20:17:32  6 yeni haber",
@@ -33119,8 +33142,7 @@
   "18.11 12:16:16  11 yeni haber",
   "18.11 12:01:28  41 yeni haber",
   "18.11 11:18:20  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türk sinemasında yeni bir anlatım dilinin öncüsü: Ömer Lütfi Akad",
-  "18.11 11:16:10  12 yeni haber",
-  "18.11 10:54:11  7 yeni haber"
+  "18.11 11:16:10  12 yeni haber"
  ],
  "otomatik": false
 }
