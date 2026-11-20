@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "f34b94a17adc": {
-   "id": "f34b94a17adc",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakanlar Güler ve Fidan, Suriyeli mevkidaşlarıyla bir araya geldi",
-   "ozet": "MİLLİ Savunma Bakanı Yaşar Güler ile Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ve Savunma Bakanı Murhef Ebu Kasra ile Ankara'da bir araya geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakanlar-guler-ve-fidan-suriyeli-mevkidaslariyla-bir-araya-geldi-43381798",
-   "zaman": "2026-11-17T22:34:36+03:00",
-   "kelimeler": [
-    "araya",
-    "bakan",
-    "fidan",
-    "geldi",
-    "guler",
-    "mevki",
-    "suriy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "60ffb29101cf"
-  },
-  "5c093801978f": {
-   "id": "5c093801978f",
-   "kaynak": "TRT Haber",
-   "baslik": "Yeşil dönüşüm için verilecek 3 milyar liralık destek paketinde son başvuru tarihi belli oldu",
-   "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Kacır, Yeşil Sanayi Programı kapsamında KOBİ'lere sağlanacak 3 milyar liralık yeni desteğe yönelik son başvuru tarihinin 31 Ocak 2027 olduğunu açıkladı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/yesil-donusum-icin-verilecek-3-milyar-liralik-destek-paketinde-son-basvuru-tarihi-belli-oldu-963605.html",
-   "zaman": "2026-11-17T22:42:00+03:00",
-   "kelimeler": [
-    "basvu",
-    "belli",
-    "deste",
-    "donus",
-    "liral",
-    "milya",
-    "paket",
-    "tarih",
-    "veril",
-    "yesil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "572f8d31e56f": {
-   "id": "572f8d31e56f",
-   "kaynak": "Hürriyet",
-   "baslik": "MSB: F-16 pilotları 55 saatte 11 bin 38 kilometre yol katett",
-   "ozet": "Milli Savunma Bakanlığı (MSB), Somali Türk Görev Kuvveti Hava Unsur Komutanlığı bünyesinde görev yapan F-16 pilotlarının, bakım zamanı gelen uçakların rotasyon faaliyetini tamamladığını açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/msb-f-16-pilotlari-55-saatte-11-bin-38-kilometre-yol-katett-43381808",
-   "zaman": "2026-11-17T22:45:33+03:00",
-   "kelimeler": [
-    "11",
-    "16",
-    "38",
-    "55",
-    "bin",
-    "katet",
-    "kilom",
-    "msb",
-    "pilot",
-    "saatt",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f55bf1bcd0ed": {
    "id": "f55bf1bcd0ed",
    "kaynak": "Hürriyet",
@@ -31521,7 +31456,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "3065e0e5d215": {
@@ -32765,7 +32701,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Sözcü"
    ]
   },
   "dcc49d863e6f": {
@@ -32852,9 +32789,89 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "58bf0d520533"
+  },
+  "7cbfb1b84acf": {
+   "id": "7cbfb1b84acf",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiliz Parlamentosundan yapay zeka yasası çağrısı",
+   "ozet": "İngiltere Parlamentosunun İnsan Hakları Ortak Komitesi, hükümeti insan hakları risklerini ortadan kaldırmak amacıyla yapay zeka yasası çıkarmaya ve bu alanda çalışan bağımsız bir düzenleme kurumu oluşturmaya çağırdı.",
+   "link": "https://www.trthaber.com/haber/dunya/ingiliz-parlamentosundan-yapay-zeka-yasasi-cagrisi-964005.html",
+   "zaman": "2026-11-20T22:16:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "ingil",
+    "parla",
+    "yapay",
+    "yasas",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7129697adee4": {
+   "id": "7129697adee4",
+   "kaynak": "TRT Haber",
+   "baslik": "Bitcoin 60 bin doların altına geriledi",
+   "ozet": "ABD'de faiz oranlarının yüksek kalacağı ve artabileceği beklentileri ile ABD teknoloji hisselerindeki sert satışların oluşturduğu baskıyla bitcoinin fiyatı 60 bin dolarlık kritik seviyenin de altına düştü.",
+   "link": "https://www.trthaber.com/haber/dunya/bitcoin-60-bin-dolarin-altina-geriledi-964007.html",
+   "zaman": "2026-11-20T22:21:00+03:00",
+   "kelimeler": [
+    "60",
+    "altin",
+    "bin",
+    "bitco",
+    "dolar",
+    "geril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b5ff1678c4f5"
+  },
+  "79890d9e2a8b": {
+   "id": "79890d9e2a8b",
+   "kaynak": "AA",
+   "baslik": "COP31 Başkanı Kurum: Dünyanın umudu bu salonda, uzlaşıp burada bir şeyleri değiştirebiliriz",
+   "ozet": "Bakan Kurum, COP31 Genel Kurul Kapanış Oturumu'nda yaptığı konuşmada, \"Dünyanın umudu bu salonda. Hala bu salondan çok güzel mesajlar verebiliriz. Uzlaşıp burada bir şeyleri değiştirebiliriz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-baskani-kurum-dunyanin-umudu-bu-salonda-uzlasip-burada-bir-seyleri-degistirebiliriz/4132540",
+   "zaman": "2026-11-20T22:33:03+03:00",
+   "kelimeler": [
+    "baska",
+    "burad",
+    "cop31",
+    "degis",
+    "dunya",
+    "kurum",
+    "salon",
+    "seyle",
+    "umudu",
+    "uzlas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e1eb78678ea2": {
+   "id": "e1eb78678ea2",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında aranan Serdar Altınbaş, Çekya'da yakalandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/serdar-altinbas-cekyada-yakalandi-p383120",
+   "zaman": "2026-11-20T22:41:04+03:00",
+   "kelimeler": [
+    "altin",
+    "arana",
+    "cekya",
+    "fon",
+    "serda",
+    "sorus",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5e8b874a8b8c"
   }
  },
  "kayit": [
+  "20.11 22:45:57  2 yeni haber",
   "20.11 22:31:06  4 yeni haber",
   "20.11 22:01:44  2 yeni haber",
   "20.11 21:46:03  1 yeni haber",
@@ -33053,8 +33070,7 @@
   "18.11 14:16:23  10 yeni haber",
   "18.11 14:01:40  6 yeni haber",
   "18.11 13:42:43  3 yeni haber",
-  "18.11 13:31:32  11 yeni haber",
-  "18.11 13:16:07  11 yeni haber"
+  "18.11 13:31:32  11 yeni haber"
  ],
  "otomatik": false
 }
