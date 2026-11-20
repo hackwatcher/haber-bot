@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "7cbf78f5edc0": {
-   "id": "7cbf78f5edc0",
-   "kaynak": "NTV",
-   "baslik": "İstanbullular dikkat. Bugün kuvvetli yağış yarın fırtına var. Sabah saatlerine dikkat",
-   "ozet": "Türkiye'nin batısında gök gürültülü sağanak, güneyinde sel ve hortum tehlikesi, doğusunda ise kar bekleniyor. Marmara ve Ege'de kuvvetli yağışlar nedeniyle 13 il için sarı kodlu uyarı yapıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbullular-dikkat-bugun-kuvvetli-yagis-yarin-firtina-var-sabah-saatlerine-dikkat-1751199",
-   "zaman": "2026-11-17T05:14:09+03:00",
-   "kelimeler": [
-    "bugun",
-    "dikka",
-    "firti",
-    "istan",
-    "kuvve",
-    "saatl",
-    "sabah",
-    "yagis",
-    "yarin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "93552f1d8b23"
-  },
   "0b9e01a9be6a": {
    "id": "0b9e01a9be6a",
    "kaynak": "Sözcü",
@@ -46,29 +24,6 @@
     "NTV",
     "Hürriyet",
     "XHABER"
-   ]
-  },
-  "b8b2564fc60e": {
-   "id": "b8b2564fc60e",
-   "kaynak": "TRT Haber",
-   "baslik": "Kampanya tarihleri belirtilmeyen 'Yüzde 80 indirim' reklamına ceza",
-   "ozet": "Reklam Kurulu, bir mağazanın \"Yüzde 80 indirim\" başlığıyla yaptığı tanıtımlarda kampanyanın başlangıç ve bitiş tarihlerine yer vermediğini tespit etti. Kurul, ilgili işletmeye idari para cezası uygulanmasına ve reklamların durdurulmasına karar verdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kampanya-tarihleri-belirtilmeyen-yuzde-80-indirim-reklamina-ceza-963473.html",
-   "zaman": "2026-11-17T05:06:00+03:00",
-   "kelimeler": [
-    "80",
-    "belir",
-    "ceza",
-    "indir",
-    "kampa",
-    "rekla",
-    "tarih",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
    ]
   },
   "3f4df82354de": {
@@ -208,27 +163,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0b9e01a9be6a"
-  },
-  "1f511ac77527": {
-   "id": "1f511ac77527",
-   "kaynak": "TRT Haber",
-   "baslik": "Kampanya tarihleri belirtilmeyen 'Yüzde 80 indirim' reklamına ceza",
-   "ozet": "Reklam Kurulu, bir mağazanın \"Yüzde 80 indirim\" başlığıyla yaptığı tanıtımlarda kampanyanın başlangıç ve bitiş tarihlerine yer vermediğini tespit etti. Kurul, ilgili işletmeye idari para cezası uygulanmasına ve reklamların durdurulmasına karar verdi.",
-   "link": "https://www.trthaber.com/haber/guncel/kampanya-tarihleri-belirtilmeyen-yuzde-80-indirim-reklamina-ceza-963473.html",
-   "zaman": "2026-11-17T05:06:00+03:00",
-   "kelimeler": [
-    "80",
-    "belir",
-    "ceza",
-    "indir",
-    "kampa",
-    "rekla",
-    "tarih",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b8b2564fc60e"
   },
   "7414a932e72e": {
    "id": "7414a932e72e",
@@ -22049,7 +21983,8 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b6c278930a7a": {
    "id": "b6c278930a7a",
@@ -34511,6 +34446,24 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c68aedbebd8e"
+  },
+  "d46c770b23bb": {
+   "id": "d46c770b23bb",
+   "kaynak": "TRT Haber",
+   "baslik": "Gaziosmanpaşa'da 5 katlı binada yangın çıktı",
+   "ozet": "İstanbul Gaziosmanpaşa'da 5 katlı binada çıkan yangında dumandan etkilenen 6 kişi hastaneye kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/gaziosmanpasada-5-katli-binada-yangin-cikti-963886.html",
+   "zaman": "2026-11-20T02:14:00+03:00",
+   "kelimeler": [
+    "binad",
+    "cikti",
+    "gazio",
+    "katli",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab1125bbaef9"
   }
  },
  "kayit": [
