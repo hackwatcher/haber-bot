@@ -1,79 +1,5 @@
 {
  "haberler": {
-  "340e28893b33": {
-   "id": "340e28893b33",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum, Alman mevkidaşı Schneider ile görüştü",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Almanya Federal Çevre, İklim Eylemi, Doğa Koruma ve Nükleer Güvenlik Bakanı Carsten Schneider ile bir araya geldi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-alman-mevkidasi-schneider-ile-gorustu-43381643",
-   "zaman": "2026-11-17T18:26:10+03:00",
-   "kelimeler": [
-    "alman",
-    "bakan",
-    "gorus",
-    "kurum",
-    "mevki",
-    "schne"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "c73ef7fff4de": {
-   "id": "c73ef7fff4de",
-   "kaynak": "AA",
-   "baslik": "Borsa günü düşüşle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,53 değer kaybederek 11.661,00 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4128092",
-   "zaman": "2026-11-17T18:26:00+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "tamam"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0344fc2fb71c"
-  },
-  "6f727c7a4106": {
-   "id": "6f727c7a4106",
-   "kaynak": "AA",
-   "baslik": "Kulüpler Birliği Vakfı toplantısı yapıldı",
-   "ozet": "Vakıf başkanı Ertuğrul Doğan, \"Kulüplerimizin beklentisi, daha önce Sayın Göksel Gümüşdağ zamanında gelen 500 milyon dolar seviyesine yeniden gelmek.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-toplantisi-yapildi/4128094",
-   "zaman": "2026-11-17T18:28:03+03:00",
-   "kelimeler": [
-    "birli",
-    "kulup",
-    "topla",
-    "vakfi",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "9b7b3f27c61c"
-  },
-  "633863f68240": {
-   "id": "633863f68240",
-   "kaynak": "Sözcü",
-   "baslik": "İstanbul'da yoğun trafik, araçlar güçlükle ilerliyor",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/istanbulda-yogun-trafik-araclar-guclukle-ilerliyor-p382232",
-   "zaman": "2026-11-17T18:31:12+03:00",
-   "kelimeler": [
-    "aracl",
-    "guclu",
-    "ilerl",
-    "istan",
-    "trafi",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b8c942590e6d": {
    "id": "b8c942590e6d",
    "kaynak": "Hürriyet",
@@ -27236,7 +27162,10 @@
     "veya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "53765cb4985b": {
    "id": "53765cb4985b",
@@ -33096,9 +33025,110 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "54acc94b4e83"
+  },
+  "9be8866171fd": {
+   "id": "9be8866171fd",
+   "kaynak": "TRT Haber",
+   "baslik": "Pankreas kanserine karşı geliştirilen hap tümörleri küçülttü",
+   "ozet": "Pankreas kanserine karşı geliştirilen daraxonrasib adlı ilaç, klinik araştırmada hastaların yüzde 90'ında tümör büyümesini durdururken, yüzde 8'inde kanserin görüntüleme testlerinde tespit edilememesini sağladı.",
+   "link": "https://www.trthaber.com/haber/dunya/pankreas-kanserine-karsi-gelistirilen-hap-tumorleri-kuculttu-963985.html",
+   "zaman": "2026-11-20T17:48:00+03:00",
+   "kelimeler": [
+    "gelis",
+    "hap",
+    "kanse",
+    "karsi",
+    "kucul",
+    "pankr",
+    "tumor"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "31145e349de5"
+  },
+  "9b2853a5658c": {
+   "id": "9b2853a5658c",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in Gazze Şeridi'ndeki saldırılarında 3 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkes anlaşmasına rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği hava ve kara saldırılarında 3 Filistinli yaşamını yitirdi, 13 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-saldirilarinda-3-filistinli-hayatini-kaybetti-963990.html",
+   "zaman": "2026-11-20T18:17:00+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "katil",
+    "kaybe",
+    "ndeki",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3160c9f44afe"
+  },
+  "b8b44e47d8fa": {
+   "id": "b8b44e47d8fa",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,36 değer kaybederek 11.131,32 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4132381",
+   "zaman": "2026-11-20T18:19:30+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "04f69a474967": {
+   "id": "04f69a474967",
+   "kaynak": "Hürriyet",
+   "baslik": "Depremde 21 kişiye mezar olmuştu... Kırçuval Otel davasında 8 sanığa hapis cezası",
+   "ozet": "KAHRAMANMARAŞ merkezli 6 Şubat depremlerinde Malatya’da 21 kişinin hayatını kaybettiği Kırçuval Oteli’nin yıkılmasına ilişkin davada tutuksuz yargılanan 11 sanıktan 8'i 8 yıl 4 ay ile 14 yıl 2 ay ay arasında değişen hapis cezalarına çarptırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/depremde-21-kisiye-mezar-olmustu-kircuval-otel-davasinda-8-saniga-hapis-cezasi-43385445",
+   "zaman": "2026-11-20T18:24:43+03:00",
+   "kelimeler": [
+    "21",
+    "cezas",
+    "davas",
+    "depre",
+    "hapis",
+    "kircu",
+    "kisiy",
+    "mezar",
+    "olmus",
+    "otel",
+    "sanig"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3c345371dc69": {
+   "id": "3c345371dc69",
+   "kaynak": "Hürriyet",
+   "baslik": "Hatay'da arazöz uçuruma yuvarlandı: 1 işçi öldü, 5 işçi yaralandı",
+   "ozet": "Hatay'ın Samandağ ilçesinde arazözün uçuruma yuvarlanması sonucu 1 işçi öldü, 5 işçi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/hatayda-arazoz-ucuruma-yuvarlandi-1-isci-oldu-5-isci-yaralandi-43385451",
+   "zaman": "2026-11-20T18:30:00+03:00",
+   "kelimeler": [
+    "arazo",
+    "hatay",
+    "isci",
+    "ucuru",
+    "yaral",
+    "yuvar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 18:32:30  3 yeni haber",
   "20.11 18:16:41  4 yeni haber",
   "20.11 18:04:28  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · THY, \"APEX 5 Yıldızlı Global Havayolu\" ödülünü yedinci kez kazandı",
   "20.11 18:01:32  8 yeni haber",
@@ -33297,8 +33327,7 @@
   "18.11 08:33:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Diyarbakır'da tır ile otomobil çarpıştı: 24 yaşındaki Hüseyin Özbek ya",
   "18.11 08:31:16  3 yeni haber",
   "18.11 08:16:05  2 yeni haber",
-  "18.11 08:01:30  3 yeni haber",
-  "18.11 07:19:29  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Olası Marmara depreminde 58 ilden destek gelecek"
+  "18.11 08:01:30  3 yeni haber"
  ],
  "otomatik": false
 }
