@@ -1,191 +1,5 @@
 {
  "haberler": {
-  "2d5ef29ba97f": {
-   "id": "2d5ef29ba97f",
-   "kaynak": "TRT Haber",
-   "baslik": "OpenAI'a yapay zeka modellerinin geliştirme sürecindeki güvenlik eksiklikleri nedeniyle dava açıldı",
-   "ozet": "ABD'nin California eyaletinde, yapay zeka modellerini yeterli güvenlik önlemleri ve denetim mekanizmaları olmadan geliştirdiği ve test ettiği, bu süreçte kamu güvenliğini tehlikeye attığı iddiasıyla OpenAI'a dava açıldı.",
-   "link": "https://www.trthaber.com/haber/dunya/openaia-yapay-zeka-modellerinin-gelistirme-surecindeki-guvenlik-eksiklikleri-nedeniyle-dava-acildi-963481.html",
-   "zaman": "2026-11-17T07:02:00+03:00",
-   "kelimeler": [
-    "acild",
-    "dava",
-    "eksik",
-    "gelis",
-    "guven",
-    "model",
-    "neden",
-    "opena",
-    "surec",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "63c576c70e69"
-  },
-  "451ab1a2e823": {
-   "id": "451ab1a2e823",
-   "kaynak": "TRT Haber",
-   "baslik": "Bursa'da alevler 7 katlı binayı sardı, mahsur kalanlar kurtarıldı",
-   "ozet": "Bursa'nın Yıldırım ilçesinde 7 katlı binanın 3'üncü katında çıkan yangında binayı saran dumandan etkilenen 8 kişi, itfaiye ekipleri tarafından kurtarılarak hastaneye kaldırıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/bursada-alevler-7-katli-binayi-sardi-mahsur-kalanlar-kurtarildi-963479.html",
-   "zaman": "2026-11-17T07:02:00+03:00",
-   "kelimeler": [
-    "alevl",
-    "binay",
-    "bursa",
-    "kalan",
-    "katli",
-    "kurta",
-    "mahsu",
-    "sardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "225ea7fca5ec": {
-   "id": "225ea7fca5ec",
-   "kaynak": "TRT Haber",
-   "baslik": "İngiltere Başbakanı Burnham: Brexit'te kazandığımızdan çoğunu kaybettik",
-   "ozet": "İngiltere Başbakanı Andy Burnham, İngiltere'nin Avrupa Birliği'nden AB ayrılması üzerinden geçen 10 yılın değerlendirmesini yaparak, \"Son 10 yılda kazandığımızdan daha fazlasını kaybettik. Bize sunulan sert Brexit, Britanya için iyi olmadı.\" ifadelerini kullandı.",
-   "link": "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-burnham-brexitte-kazandigimizdan-cogunu-kaybettik-963482.html",
-   "zaman": "2026-11-17T07:05:00+03:00",
-   "kelimeler": [
-    "basba",
-    "brexi",
-    "burnh",
-    "cogun",
-    "ingil",
-    "kaybe",
-    "kazan",
-    "te"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "91fa6af573da"
-  },
-  "98c8219b5786": {
-   "id": "98c8219b5786",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'li United Airlines, uçuşlarını etkileyen sistem sorununu giderdi",
-   "ozet": "ABD'li hava yolu şirketi United Airlines, bazı uçuşların kalkışını etkileyen sistem sorununun giderildiğini bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/abdli-united-airlines-ucuslarini-etkileyen-sistem-sorununu-giderdi-963483.html",
-   "zaman": "2026-11-17T07:09:00+03:00",
-   "kelimeler": [
-    "abd",
-    "airli",
-    "etkil",
-    "gider",
-    "li",
-    "siste",
-    "sorun",
-    "ucusl",
-    "unite"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "229046678077"
-  },
-  "f7256584b290": {
-   "id": "f7256584b290",
-   "kaynak": "TRT Haber",
-   "baslik": "DSÖ Genel Direktörü Ghebreyesus: Hiçbir çocuk soğuktan ölmemeli",
-   "ozet": "Dünya Sağlık Örgütü DSÖ Genel Direktörü Tedros Adhanom Ghebreyesus, Gazze'de geçen hafta 8 aylık bir bebeğin soğuktan öldüğünü anımsatarak, \"Hiçbir çocuk soğuktan ölmemeli. Üstelik kış henüz yeni başlıyor.\" ifadelerini kullandı.",
-   "link": "https://www.trthaber.com/haber/dunya/dso-genel-direktoru-ghebreyesus-hicbir-cocuk-soguktan-olmemeli-963484.html",
-   "zaman": "2026-11-17T07:10:00+03:00",
-   "kelimeler": [
-    "cocuk",
-    "direk",
-    "dso",
-    "genel",
-    "ghebr",
-    "hicbi",
-    "olmem",
-    "soguk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1a67582835e1": {
-   "id": "1a67582835e1",
-   "kaynak": "TRT Haber",
-   "baslik": "OpenAI, çocukların çevrim içi istismarını tespit etmek için yeni yapay zeka aracı geliştirdi",
-   "ozet": "Yapay zeka şirketi OpenAI, çocukların istismarına ilişkin çevrim içi görüntüleri, yapay zeka tarafından üretilenler de dahil olmak üzere, tespit edebilen \"yeni bir sınıflandırma aracı\" geliştirdiğini duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/openai-cocuklarin-cevrim-ici-istismarini-tespit-etmek-icin-yeni-yapay-zeka-araci-gelistirdi-963485.html",
-   "zaman": "2026-11-17T07:17:00+03:00",
-   "kelimeler": [
-    "araci",
-    "cevri",
-    "cocuk",
-    "etmek",
-    "gelis",
-    "ici",
-    "istis",
-    "opena",
-    "tespi",
-    "yapay",
-    "yeni",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "f44802998491": {
-   "id": "f44802998491",
-   "kaynak": "TRT Haber",
-   "baslik": "BM'den İsrail'in Gazze'deki yerleşim bölgelerini hedef alan saldırılarının devam ettiği uyarısı",
-   "ozet": "Birleşmiş Milletler BM, İsrail'in Gazze'deki yerleşim bölgelerini hedef alan saldırılarının sürdüğü uyarısında bulunarak, bu saldırıların yardım çalışanları da dahil olmak üzere sivillerin hayatını tehlikeye atmaya devam ettiğini belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/bmden-israilin-gazzedeki-yerlesim-bolgelerini-hedef-alan-saldirilarinin-devam-ettigi-uyarisi-963486.html",
-   "zaman": "2026-11-17T07:18:00+03:00",
-   "kelimeler": [
-    "alan",
-    "bm",
-    "bolge",
-    "deki",
-    "den",
-    "devam",
-    "ettig",
-    "gazze",
-    "hedef",
-    "in",
-    "israi",
-    "saldi",
-    "uyari",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ee37a0e8d64b": {
-   "id": "ee37a0e8d64b",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD istihbaratı: İran'ın Washington'da kirli bomba saldırısı planladığı öne sürüldü",
-   "ozet": "ABD istihbaratına göre İran, Washington'da üst düzey Trump yönetimi yetkililerini kirli bomba veya kimyasal silahla hedef alabilecek planlar yapıyor.",
-   "link": "https://www.trthaber.com/haber/dunya/abd-istihbarati-iranin-washingtonda-kirli-bomba-saldirisi-planladigi-one-suruldu-963487.html",
-   "zaman": "2026-11-17T07:22:00+03:00",
-   "kelimeler": [
-    "abd",
-    "bomba",
-    "in",
-    "iran",
-    "istih",
-    "kirli",
-    "one",
-    "planl",
-    "saldi",
-    "surul",
-    "washi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "4a218666f8f4": {
    "id": "4a218666f8f4",
    "kaynak": "Hürriyet",
@@ -26456,7 +26270,8 @@
     "tbmm"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d1a94df2f42d": {
    "id": "d1a94df2f42d",
@@ -26670,7 +26485,10 @@
     "nun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "9a80f7945353": {
    "id": "9a80f7945353",
@@ -26860,7 +26678,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "0260fbef6574": {
@@ -32849,7 +32668,10 @@
     "yapti"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "885725c65317": {
    "id": "885725c65317",
@@ -33571,7 +33393,10 @@
     "mesaf"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "571d31ece0d6": {
    "id": "571d31ece0d6",
@@ -34222,9 +34047,398 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "45f8f7ea1fa9": {
+   "id": "45f8f7ea1fa9",
+   "kaynak": "TRT Haber",
+   "baslik": "Formula 1 tarihinde ilk kez tam zamanlı yarış komiserleri görevlendirilecek",
+   "ozet": "Formula 1'in yönetim organı, 2027 sezonundan itibaren geçerli olmak üzere sporun tarihinde ilk kez tam zamanlı hakemler görevlendireceğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/formula-1-tarihinde-ilk-kez-tam-zamanli-yaris-komiserleri-gorevlendirilecek-963908.html",
+   "zaman": "2026-11-20T06:54:00+03:00",
+   "kelimeler": [
+    "formu",
+    "gorev",
+    "ilk",
+    "kez",
+    "komis",
+    "tam",
+    "tarih",
+    "yaris",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "04975be6ff9b": {
+   "id": "04975be6ff9b",
+   "kaynak": "Hürriyet",
+   "baslik": "Menzilinde dikkat çeken ayrıntı: KARA ATMACA! Hangi kabiliyetlere sahip? Radarları nasıl aşıyor?",
+   "ozet": "Türkiye’nin geliştirdiği KARA ATMACA, sahip olduğu özelliklerle savunma sanayiinin dikkat çeken projeleri arasında yer alıyor. Peki, bu füze hangi kabiliyetleriyle öne çıkıyor, menzili konusunda hangi detaylar dikkat çekiyor ve olası tehditlere karşı nasıl bir rol üstleniyor?",
+   "link": "https://www.hurriyet.com.tr/gundem/kara-atmaca-fuzesi-43383669",
+   "zaman": "2026-11-20T06:54:00+03:00",
+   "kelimeler": [
+    "asiyo",
+    "atmac",
+    "ayrin",
+    "ceken",
+    "dikka",
+    "hangi",
+    "kabil",
+    "kara",
+    "menzi",
+    "nasil",
+    "radar",
+    "sahip"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dd1ad14042cf": {
+   "id": "dd1ad14042cf",
+   "kaynak": "Hürriyet",
+   "baslik": "Kas yap uzun yaşa",
+   "ozet": "Sağlıklı ve uzun yaşamın sırrının vücudumuzdaki kaslarda saklı olduğunu belirten uzmanlar, kas kütlesi kadar güç, denge ve hareket kabiliyetinin de önemini vurguluyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/kas-yap-uzun-yasa-43384383",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "kas",
+    "uzun",
+    "yap",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c67fb82a787": {
+   "id": "2c67fb82a787",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Hesapçı’ vurgunu",
+   "ozet": "105 milyon liralık dolandırıcılık örgütünün, sahte kredi ve yatırım reklamlarıyla vatandaşlardan aldığı paraları farklı banka hesaplarına aktararak nakde çevirdiği ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/hesapci-vurgunu-43384392",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "hesap",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f42c28d48ed3": {
+   "id": "f42c28d48ed3",
+   "kaynak": "Hürriyet",
+   "baslik": "Komşu cinayetine indirimli ceza",
+   "ozet": "DİYARBAKIR’ın Bağlar ilçesinde 12 Eylül 2025’te Erkan Ceylan (40), evinin önündeki aracına bindiği sırada yanına gelen komşusu Yusuf Dağkıran (40) tarafından çocuklarının yanında bıçaklandı. Göğüs ve kolundan bıçaklanan Ceylan, kurtarılamadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/komsu-cinayetine-indirimli-ceza-43384395",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "ceza",
+    "cinay",
+    "indir",
+    "komsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3e84d222a733": {
+   "id": "3e84d222a733",
+   "kaynak": "Hürriyet",
+   "baslik": "Evin’den acı haber",
+   "ozet": "AYDIN’ın İncirliova ilçesinde önceki gün 22.00 sıralarında, Gülseri Ç.’nin (22) kullandığı 09 DK 875 plakalı otomobil, yolun karşısına geçmeye çalışan Evin Şirip’e (17) çarptı. Şirip, savrularak yere düştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/evinden-aci-haber-43384396",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "aci",
+    "den",
+    "evin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca3cf320d51d": {
+   "id": "ca3cf320d51d",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Yağmacılar’ Türkiye’ye iade edildi",
+   "ozet": "Kırmızı bültenle aranan, kamuoyunda ‘Karacellatlar’ olarak bilinen silahlı suç örgütünün firari yöneticisi Emre Yalvan ile uyuşturucu ticareti suçundan aranan Murat Saydam, Adalet Bakanlığı’nın girişimleri ve Interpol işbirliği sonucunda Bulgaristan’dan iade edilerek Türkiye’ye…",
+   "link": "https://www.hurriyet.com.tr/gundem/yagmacilar-turkiyeye-iade-edildi-43384398",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "edild",
+    "iade",
+    "turki",
+    "yagma",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "dab3492e7d12"
+  },
+  "be495dcbc163": {
+   "id": "be495dcbc163",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan: Sırça köşklere müsaade etmeyiz",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, AK Parti teşkilatına “Bizim sokakla, çarşı pazarla bağımız hiçbir zaman kopmadı. Biz buraya gökten zembille inmedik. Milletin sinesinden çıktık. Biz sırça köşkleri yıktık. Onların tekrar inşa edilmesine müsaade etmeyiz” diye seslendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-sirca-kosklere-musaade-etmeyiz-43384411",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "erdog",
+    "etmey",
+    "koskl",
+    "musaa",
+    "sirca"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8a76234dc31d": {
+   "id": "8a76234dc31d",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye’nin ilk insansız savaş uçağı Kızılelma envanterde",
+   "ozet": "BAYKAR tarafından milli imkânlarla geliştirilen Türkiye’nin ilk insansız savaş uçağı KIZILELMA’nın kabul testleri tamamlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envanterde-43384425",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "envan",
+    "ilk",
+    "insan",
+    "kizil",
+    "nin",
+    "savas",
+    "turki",
+    "ucagi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "46c157753bd2"
+  },
+  "c7c776de6ec7": {
+   "id": "c7c776de6ec7",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31 caretta 175 km yaptı",
+   "ozet": "DENİZ Kaplumbağaları Araştırma, Kurtarma ve Rehabilitasyon Merkezi (DEKAMER) ekibince 29 Ekim’de uydu takip cihazı takılarak denize bırakılan ‘COP31’ adlı caretta caretta, bugüne kadar 175 kilometre mesafe katetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31-caretta-175-km-yapti-43384426",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "175",
+    "caret",
+    "cop31",
+    "km",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72c3a163b9ab"
+  },
+  "1bbef09cbc33": {
+   "id": "1bbef09cbc33",
+   "kaynak": "Hürriyet",
+   "baslik": "Kurtulmuş’tan son çağrı",
+   "ozet": "Terörsüz Türkiye sürecini izleyecek parlamento komisyonu için parti turlarını tamamlayan TBMM Başkanı Numan Kurtulmuş, üye vermeyeceğini açıklayan Yeni Parti ve İYİ Parti yönetimlerine yeniden çağrıda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/kurtulmustan-son-cagri-43384433",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "kurtu",
+    "tan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bf6d34207326"
+  },
+  "507a0d8fcbc1": {
+   "id": "507a0d8fcbc1",
+   "kaynak": "Hürriyet",
+   "baslik": "İmamoğlu’nun diploma iptali kesinleşti",
+   "ozet": "Danıştay 8. Dairesi, tutuklu eski İBB Başkanı Ekrem İmamoğlu’nun avukatlarının diploma davasının temyiz başvurusunu reddetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/imamoglunun-diploma-iptali-kesinlesti-43384434",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "diplo",
+    "imamo",
+    "iptal",
+    "kesin",
+    "nun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7fbb3f29d031"
+  },
+  "7ec43fe85905": {
+   "id": "7ec43fe85905",
+   "kaynak": "Hürriyet",
+   "baslik": "Özlale’den 6 milyar TL’lik yeni iddia",
+   "ozet": "YENİ Parti İzmir Milletvekili Ümit Özlale, eski AK Parti milletvekili Vahit Kiler’in yönetim kurulu başkanvekili olduğu Kiler Holding’in soruşturmadaki şirketlerden Bulls Yatırım aracılığıyla 6 milyar liradan fazla kazanç sağladığını ileri sürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozlaleden-6-milyar-tllik-yeni-iddia-43384435",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "iddia",
+    "lik",
+    "milya",
+    "ozlal",
+    "tl",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0d3037bece8b": {
+   "id": "0d3037bece8b",
+   "kaynak": "Hürriyet",
+   "baslik": "Şahap Kavcıoğlu’na yurtdışına çıkış yasağı",
+   "ozet": "‘Fon soruşturması’ kapsamında hakkında soruşturma izni talep edilen eski BDDK Başkanı Şahap Kavcıoğlu’na yurtdışı çıkış yasağı getirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/sahap-kavciogluna-yurtdisina-cikis-yasagi-43384437",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "cikis",
+    "kavci",
+    "na",
+    "sahap",
+    "yasag",
+    "yurtd"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "50caac366c8f": {
+   "id": "50caac366c8f",
+   "kaynak": "Hürriyet",
+   "baslik": "Gazeteci Arı için tahliye ve beraat",
+   "ozet": "‘HALKI yanıltıcı bilgiyi alenen yayma’ ve ‘hakaret’ suçlamalarıyla tutuklu yargılanan gazeteci İsmail Arı’nın, her iki suçtan da beraatına ve tahliyesine karar verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/gazeteci-ari-icin-tahliye-ve-beraat-43384439",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "ari",
+    "beraa",
+    "gazet",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "60437054c6c7"
+  },
+  "d7a5ea552ae5": {
+   "id": "d7a5ea552ae5",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Anemonlar’ okurlarla buluştu",
+   "ozet": "Yazar Zeynep Kesler Özdoğan, ikinci romanı ‘Anemonlar’ın imza gününde edebiyatseverlerle bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/anemonlar-okurlarla-bulustu-43384442",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "anemo",
+    "bulus",
+    "okurl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7b3ec2840647": {
+   "id": "7b3ec2840647",
+   "kaynak": "Hürriyet",
+   "baslik": "Kleopatra Koyu’ndaki işgal bitecek",
+   "ozet": "MUĞLA’nın Dalaman ilçesindeki tarihi Hamam (Kleopatra) Koyu’nda, birinci derece arkeolojik sit alanında yapılan izinsiz yapı ve uygulamaların kaldırılmasına karar verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kleopatra-koyundaki-isgal-bitecek-43384444",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "bitec",
+    "isgal",
+    "kleop",
+    "koyu",
+    "ndaki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "55907c69a936": {
+   "id": "55907c69a936",
+   "kaynak": "Hürriyet",
+   "baslik": "Atlara 2 yıllık saygı eğitimi",
+   "ozet": "Gazi Mustafa Kemal Atatürk’ün ebediyete irtihalinin 88’inci yıldönümünde Türk bayrağı ve Atatürk posterinin önünde atlarıyla saygı duruşunda bulunmalarıyla gündeme gelen atlı polislerin, atlarını 10 Kasım’daki saygı duruşu için 2 yıl çalıştırdığı öğrenildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/atlara-2-yillik-saygi-egitimi-43384445",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "atlar",
+    "egiti",
+    "saygi",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dffe6284bc68": {
+   "id": "dffe6284bc68",
+   "kaynak": "Hürriyet",
+   "baslik": "Rektörün makam aracı kaza yaptı eşi öldü",
+   "ozet": "Konya’da makam aracıyla Sağlık Bilimleri Üniversitesi (SBÜ) Rektörü Prof. Dr. Kemalettin Aydın ve şoförü Mehmet Uzunoğlu yaralandı, akademisyen eşi Prof. Dr. Sevim Aydın hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/rektorun-makam-araci-kaza-yapti-esi-oldu-43384450",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "araci",
+    "esi",
+    "kaza",
+    "makam",
+    "rekto",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9f5b4eb9c143"
+  },
+  "b87365cdd0f2": {
+   "id": "b87365cdd0f2",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Fidan’dan AB’yle ilişkilerde 4 öncelik",
+   "ozet": "DIŞİŞLERİ Bakanı Hakan Fidan, Türkiye’nin önümüzdeki dönemde Avrupa Birliği (AB) ile ilişkilerde önceliklerini sıraladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-fidandan-abyle-iliskilerde-4-oncelik-43384463",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "ab",
+    "bakan",
+    "dan",
+    "fidan",
+    "ilisk",
+    "oncel",
+    "yle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e31848a17157": {
+   "id": "e31848a17157",
+   "kaynak": "Hürriyet",
+   "baslik": "Kızılay’dan savcılara madalya",
+   "ozet": "BAKIRKÖY Adliyesi’nde kan bağışı kampanyası düzenleyen Kızılay yetkilileri tarafından, kan bağışı yüksek olan bir başsavcıvekili ve savcıya madalya ve plaket takdim edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kizilaydan-savcilara-madalya-43384466",
+   "zaman": "2026-11-20T07:00:00+03:00",
+   "kelimeler": [
+    "dan",
+    "kizil",
+    "madal",
+    "savci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2006f5a3ca19": {
+   "id": "2006f5a3ca19",
+   "kaynak": "TRT Haber",
+   "baslik": "Anthropic çalışanlarının neredeyse tamamı artık milyoner",
+   "ozet": "Popüler yapay zeka modeli Claude'un geliştiricisi ve Dario Amodei'nin Üst Yöneticisi CEO olduğu Anthropic'in borsaya açılması, genç teknoloji girişiminin çalışanlarının büyük çoğunluğunu bir gecede milyoner yaptı.",
+   "link": "https://www.trthaber.com/haber/dunya/anthropic-calisanlarinin-neredeyse-tamami-artik-milyoner-963909.html",
+   "zaman": "2026-11-20T07:07:00+03:00",
+   "kelimeler": [
+    "anthr",
+    "artik",
+    "calis",
+    "milyo",
+    "nered",
+    "tamam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 07:24:25  15 yeni haber",
   "20.11 07:04:45  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Hull City'nin stadyumuna maç izlemeye giden Acun Ilıcalı, Aziz Yıldırı",
   "20.11 07:01:38  5 yeni haber",
   "20.11 06:46:03  4 yeni haber",
@@ -34423,8 +34637,7 @@
   "17.11 18:02:26  5 yeni haber",
   "17.11 17:46:54  6 yeni haber",
   "17.11 17:31:18  5 yeni haber",
-  "17.11 17:16:59  4 yeni haber",
-  "17.11 17:04:17  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İklim eylemine hız kazandıracak Antalya Mutabakatı yayımlandı"
+  "17.11 17:16:59  4 yeni haber"
  ],
  "otomatik": false
 }
