@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "c86e1663cc1e": {
-   "id": "c86e1663cc1e",
-   "kaynak": "NTV",
-   "baslik": "Sözcü TV'ye operasyon. Kayyum atandı, polis binada arama yapıyor",
-   "ozet": "Sözcü TV binasına sabah saatlerinde polis tarafından operasyon yapıldı. Kayyum atandığı ve gözaltılar olduğunu belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
-   "zaman": "2026-11-17T06:29:52+03:00",
-   "kelimeler": [
-    "arama",
-    "atand",
-    "binad",
-    "kayyu",
-    "opera",
-    "polis",
-    "sozcu",
-    "tv",
-    "yapiy",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0b9e01a9be6a"
-  },
-  "6171d35e7540": {
-   "id": "6171d35e7540",
-   "kaynak": "TRT Haber",
-   "baslik": "'Yüzde 80 indirim kampanyasında tarih detayı cezayla sonuçlandı",
-   "ozet": "Ticaret Bakanlığı Reklam Kurulu, yüzde 80 indirim başlığıyla yapılan tanıtımlarda kampanyanın başlangıç ve bitiş tarihlerinin belirtilmemesi nedeniyle ilgili işletmeye idari para cezası uygulanmasına ve reklamların durdurulmasına karar verdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/yuzde-80-indirim-kampanyasinda-tarih-detayi-cezayla-sonuclandi-963476.html",
-   "zaman": "2026-11-17T06:27:00+03:00",
-   "kelimeler": [
-    "80",
-    "cezay",
-    "detay",
-    "indir",
-    "kampa",
-    "sonuc",
-    "tarih",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b8b2564fc60e"
-  },
-  "ed6e992d2336": {
-   "id": "ed6e992d2336",
-   "kaynak": "TRT Haber",
-   "baslik": "Filistin topraklarını gasbeden İsraillilerin saldırısında 1 kişi öldü, 10 kişi yaralandı",
-   "ozet": "Filistin topraklarını gasbeden İsraillilerin işgal altındaki Batı Şeria'nın Eriha kentinde düzenlediği silahlı saldırıda 1 kadının yaşamını yitirdiği, 10 Filistinlinin de yaralandığı bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/filistin-topraklarini-gasbeden-israillilerin-saldirisinda-1-kisi-oldu-10-kisi-yaralandi-963477.html",
-   "zaman": "2026-11-17T06:27:00+03:00",
-   "kelimeler": [
-    "10",
-    "filis",
-    "gasbe",
-    "israi",
-    "kisi",
-    "saldi",
-    "topra",
-    "yaral"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3f4df82354de"
-  },
   "6ebf16c3b4a2": {
    "id": "6ebf16c3b4a2",
    "kaynak": "TRT Haber",
@@ -29118,7 +29053,8 @@
     "uadni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "cf10b72f2c3d": {
    "id": "cf10b72f2c3d",
@@ -33706,7 +33642,10 @@
     "zirhi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2e39dde7b85e": {
    "id": "2e39dde7b85e",
@@ -33729,7 +33668,10 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0f8a1ac20735": {
    "id": "0f8a1ac20735",
@@ -34371,9 +34313,121 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2195bb576e5c"
+  },
+  "fe798dfc14ab": {
+   "id": "fe798dfc14ab",
+   "kaynak": "TRT Haber",
+   "baslik": "Kontrolden çıkan araç bariyerlere çarptı: 1 ölü, 2 yaralı",
+   "ozet": "Kayseri'nin Melikgazi ilçesinde kontrolden çıkarak bariyerlere çarpan araçtaki 1 kişi hayatını kaybetti, 2 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kontrolden-cikan-arac-bariyerlere-carpti-1-olu-2-yarali-963893.html",
+   "zaman": "2026-11-20T06:12:00+03:00",
+   "kelimeler": [
+    "arac",
+    "bariy",
+    "carpt",
+    "cikan",
+    "kontr",
+    "olu",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8a6f9e272099": {
+   "id": "8a6f9e272099",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da kolluk kuvvetlerine meşru müdafaa zırhı sağlayan tasarı protesto edildi",
+   "ozet": "Fransa'da polis ve jandarmanın silah kullanımına ilişkin meşru müdafaa \"zırhı\" sağlayan yasa tasarısına karşı başkent Paris'te Senato'nun önünde gösteri düzenlendi.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi-963894.html",
+   "zaman": "2026-11-20T06:15:00+03:00",
+   "kelimeler": [
+    "edild",
+    "frans",
+    "kollu",
+    "kuvve",
+    "mesru",
+    "mudaf",
+    "prote",
+    "sagla",
+    "tasar",
+    "zirhi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b84dffb8c4ca"
+  },
+  "7d692ed938f7": {
+   "id": "7d692ed938f7",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD Senatosu, Trump'ın İran'a saldırmasını engelleyen savaş yetkileri tasarısını reddetti",
+   "ozet": "ABD Senatosundaki Cumhuriyetçiler, Başkan Donald Trump'ın İran'a saldırı düzenlemesinin engellenmesini öngören savaş yetkileri tasarısını reddetti.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-senatosu-trumpin-irana-saldirmasini-engelleyen-savas-yetkileri-tasarisini-reddetti-963895.html",
+   "zaman": "2026-11-20T06:16:00+03:00",
+   "kelimeler": [
+    "abd",
+    "engel",
+    "in",
+    "iran",
+    "redde",
+    "saldi",
+    "savas",
+    "senat",
+    "tasar",
+    "trump",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2e39dde7b85e"
+  },
+  "18e5e1c9978a": {
+   "id": "18e5e1c9978a",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail'de panik: Myanmar kararının soykırım davasına emsal oluşturmasından endişe ediliyor",
+   "ozet": "İsrail basını, Uluslararası Adalet Divanının UAD Myanmar'ın Arakanlı Müslümanlara Rohingya karşı soykırım suçu işlediğine hükmetmesinin, Gazze Şeridi'nde soykırım işleyen İsrail'e karşı açılan davada emsal teşkil edebileceği endişesini gündeme taşıdı.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilde-panik-myanmar-kararinin-soykirim-davasina-emsal-olusturmasindan-endise-ediliyor-963897.html",
+   "zaman": "2026-11-20T06:18:00+03:00",
+   "kelimeler": [
+    "davas",
+    "edili",
+    "emsal",
+    "endis",
+    "israi",
+    "karar",
+    "myanm",
+    "olust",
+    "panik",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "17ceaf4c0843"
+  },
+  "9ea0c4f2aa38": {
+   "id": "9ea0c4f2aa38",
+   "kaynak": "TRT Haber",
+   "baslik": "Hatay'da sağanak taşkın getirdi: Evleri su bastı, köprü korkulukları koptu",
+   "ozet": "Hatay'ın Dörtyol ilçesinde taşkın nedeniyle bazı yollar su altında kalırken, Karakese Mahallesi'nde köprü korkulukları koptu, çay kenarında toprak kaymaları yaşandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/hatayda-saganak-taskin-getirdi-evleri-su-basti-kopru-korkuluklari-koptu-963896.html",
+   "zaman": "2026-11-20T06:21:00+03:00",
+   "kelimeler": [
+    "basti",
+    "evler",
+    "getir",
+    "hatay",
+    "kopru",
+    "koptu",
+    "korku",
+    "sagan",
+    "su",
+    "taski"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 06:31:22  2 yeni haber",
   "20.11 06:20:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "20.11 03:31:11  2 yeni haber",
   "20.11 03:06:50  1 yeni haber",
@@ -34572,8 +34626,7 @@
   "17.11 17:04:17  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İklim eylemine hız kazandıracak Antalya Mutabakatı yayımlandı",
   "17.11 17:02:15  9 yeni haber",
   "17.11 16:46:34  7 yeni haber",
-  "17.11 16:31:16  8 yeni haber",
-  "17.11 16:16:43  4 yeni haber"
+  "17.11 16:31:16  8 yeni haber"
  ],
  "otomatik": false
 }
