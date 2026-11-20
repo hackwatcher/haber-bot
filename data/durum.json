@@ -32675,7 +32675,8 @@
    "diger_kaynaklar": [
     "Sözcü",
     "NTV",
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ],
    "paylasildi": "2026-11-21T00:34:20.926041+03:00",
    "ig_id": "17993301846064113",
@@ -32743,7 +32744,10 @@
     "uyeli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8a5dfc279a07": {
    "id": "8a5dfc279a07",
@@ -32855,6 +32859,46 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4f08ee153b7b": {
+   "id": "4f08ee153b7b",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye, Uluslararası Sivil Havacılık Örgütü Konsey üyeliğine seçildi",
+   "ozet": "Türkiye, Uluslararası Sivil Havacılık Örgütü ICAO Konsey üyeliğine 158 oyun 133'ünü alarak 7 yıl aradan sonra yeniden seçildi.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-uluslararasi-sivil-havacilik-orgutu-konsey-uyeligine-secildi-964018.html",
+   "zaman": "2026-11-21T00:20:00+03:00",
+   "kelimeler": [
+    "havac",
+    "konse",
+    "orgut",
+    "secil",
+    "sivil",
+    "turki",
+    "ulusl",
+    "uyeli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bf919e0710fd"
+  },
+  "89dec6e8fa06": {
+   "id": "89dec6e8fa06",
+   "kaynak": "TRT Haber",
+   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "ozet": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları, Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-964020.html",
+   "zaman": "2026-11-21T01:08:00+03:00",
+   "kelimeler": [
+    "alma",
+    "atama",
+    "gazet",
+    "gorev",
+    "karar",
+    "resmi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c4875e55571f"
   }
  },
  "kayit": [
