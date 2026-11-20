@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "facfc88c4861": {
-   "id": "facfc88c4861",
-   "kaynak": "TRT Haber",
-   "baslik": "Estetik operasyonla izini kaybettirmeye çalışan firari hükümlü yakalandı",
-   "ozet": "Mersin'de hırsızlık ve dolandırıcılık suçlarından 15 yıl 9 ay kesinleşmiş hapis cezasıyla aranan ve tanınmamak için estetik operasyon geçirdiği belirlenen firari hükümlü, arkadaşının evinde yakalandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/estetik-operasyonla-izini-kaybettirmeye-calisan-firari-hukumlu-yakalandi-963474.html",
-   "zaman": "2026-11-17T06:11:00+03:00",
-   "kelimeler": [
-    "calis",
-    "estet",
-    "firar",
-    "hukum",
-    "izini",
-    "kaybe",
-    "opera",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c86e1663cc1e": {
    "id": "c86e1663cc1e",
    "kaynak": "NTV",
@@ -42,32 +22,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0b9e01a9be6a"
-  },
-  "7414a932e72e": {
-   "id": "7414a932e72e",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil İsrail ordusu Gazze Şeridi'nde patlayıcı yüklü kutularla yeni bir yıkım yöntemi kullanıyor",
-   "ozet": "Ateşkese rağmen Gazze Şeridi'ne yönelik saldırılarını sürdüren katil İsrail ordusunun, son günlerde bölgenin farklı noktalarında Filistinlilere ait ev ve binaları yıkmak amacıyla patlayıcı yüklü kutular kullandığı belirtiliyor.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusu-gazze-seridinde-patlayici-yuklu-kutularla-yeni-bir-yikim-yontemi-kullaniyor-963475.html",
-   "zaman": "2026-11-17T06:09:00+03:00",
-   "kelimeler": [
-    "gazze",
-    "israi",
-    "katil",
-    "kulla",
-    "kutul",
-    "nde",
-    "ordus",
-    "patla",
-    "serid",
-    "yeni",
-    "yikim",
-    "yonte",
-    "yuklu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e2e3e596d128"
   },
   "6171d35e7540": {
    "id": "6171d35e7540",
@@ -33727,7 +33681,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "b84dffb8c4ca": {
    "id": "b84dffb8c4ca",
@@ -34157,7 +34114,10 @@
     "sozcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d3fd585f8b2d": {
    "id": "d3fd585f8b2d",
@@ -34343,9 +34303,78 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ab1125bbaef9"
+  },
+  "0368e9f95a1c": {
+   "id": "0368e9f95a1c",
+   "kaynak": "TRT Haber",
+   "baslik": "Suudi Arabistan'ın Cizan bölgesinde erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneybatısındaki Cizan bölgesi için erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-cizan-bolgesinde-erken-uyari-sistemi-devreye-alindi-963890.html",
+   "zaman": "2026-11-20T06:12:00+03:00",
+   "kelimeler": [
+    "alind",
+    "arabi",
+    "bolge",
+    "cizan",
+    "devre",
+    "erken",
+    "in",
+    "siste",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "29bd5b7a6fe3"
+  },
+  "7082ddfbabc9": {
+   "id": "7082ddfbabc9",
+   "kaynak": "TRT Haber",
+   "baslik": "İranlı sözcü, ABD'nin biyolojik silah haberlerini Irak işgalindeki iddialara benzetti",
+   "ozet": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD'li yetkililerin İran'ın biyolojik veya kimyasal silah geliştirdiğine ilişkin iddialarını, 2003'te Irak'ın işgaline gerekçe gösterilen kitle imha silahları iddialarına benzetti.",
+   "link": "https://www.trthaber.com/haber/dunya/iranli-sozcu-abdnin-biyolojik-silah-haberlerini-irak-isgalindeki-iddialara-benzetti-963891.html",
+   "zaman": "2026-11-20T06:13:00+03:00",
+   "kelimeler": [
+    "abd",
+    "benze",
+    "biyol",
+    "haber",
+    "iddia",
+    "irak",
+    "iranl",
+    "isgal",
+    "nin",
+    "silah",
+    "sozcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "92b35c2d2886"
+  },
+  "3a5131226f2d": {
+   "id": "3a5131226f2d",
+   "kaynak": "TRT Haber",
+   "baslik": "Anthropic'in hisseleri ilk işlem gününü yükselişle tamamladı",
+   "ozet": "Claude yapay zeka modellerinin geliştiricisi Anthropic'in hisseleri, Nasdaq'taki ilk işlem gününde yükseliş kaydetti.",
+   "link": "https://www.trthaber.com/haber/dunya/anthropicin-hisseleri-ilk-islem-gununu-yukselisle-tamamladi-963892.html",
+   "zaman": "2026-11-20T06:14:00+03:00",
+   "kelimeler": [
+    "anthr",
+    "gunun",
+    "hisse",
+    "ilk",
+    "in",
+    "islem",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2195bb576e5c"
   }
  },
  "kayit": [
+  "20.11 06:20:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "20.11 03:31:11  2 yeni haber",
   "20.11 03:06:50  1 yeni haber",
   "20.11 02:48:33  2 yeni haber",
@@ -34544,8 +34573,7 @@
   "17.11 17:02:15  9 yeni haber",
   "17.11 16:46:34  7 yeni haber",
   "17.11 16:31:16  8 yeni haber",
-  "17.11 16:16:43  4 yeni haber",
-  "17.11 16:02:04  1 yeni haber"
+  "17.11 16:16:43  4 yeni haber"
  ],
  "otomatik": false
 }
