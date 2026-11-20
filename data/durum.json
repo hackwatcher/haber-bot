@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "dff221684412": {
-   "id": "dff221684412",
-   "kaynak": "XHABER",
-   "baslik": "7 hakem, TFF Başkanı Hacıosmanoğlu hakkında 4 ayrı suçlamayla şikayetçi oldu.",
-   "ozet": "- İftira - Hakaret - Görevi kötüye kullanma - Yargı görevini yapanı etkilemeye teşebbüs",
-   "link": "https://t.me/sahinozkan000/30710",
-   "zaman": "2026-11-17T03:18:20+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "7 hakem, TFF Başkanı Hacıosmanoğlu hakkında 4 ayrı suçlamayla şikayetçi oldu. (Burak Doğan)\n- İftira\n- Hakaret\n- Görevi kötüye kullanma\n- Yargı görevini yapanı etkilemeye teşebbüs",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/VBtIMowBmIYYFJiPrYtbej0Lvlnp09fTyk7RJqXe0jOxDuAqujM9FLkZYVZ8nbq4YtBhCTVXmNSBy8UOq5uoyN08ABetWePeK5EGsdt_1j-agzRvLhrc-YfLMOcIf8eXyxqOQO9ho7mhNBLvT_dzlKdqf4URUGGdr2C5uYXLNeZdjI7Ftu2XT4NYMtx3eTWMcYBX-Hy5p2G16JcZHPjjUXYY_5hi8uHijNu_8WV_Ts-aq1-1_KYPz_vd0aCZQSLsutcQ0a2hvq2mQS1ne-XX-wSCkO5wxztvfiejqBz3FZtm6OW2igP0ap8-Wjkn3Vb7f6igtN0lhjO3Vhv6xTGUBA.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "ayri",
-    "baska",
-    "hacio",
-    "hakem",
-    "hakki",
-    "sikay",
-    "sucla",
-    "tff"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "39e3bb22ed9b": {
    "id": "39e3bb22ed9b",
    "kaynak": "NTV",
@@ -34390,7 +34366,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7841dd3d8636": {
    "id": "7841dd3d8636",
@@ -34558,9 +34537,75 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "e859a09303a6"
+  },
+  "4a7b2400d514": {
+   "id": "4a7b2400d514",
+   "kaynak": "TRT Haber",
+   "baslik": "Belediye başkanı ve başkan vekili seçimlerine ilişkin yeni düzenleme Resmi Gazete'de",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/belediye-baskani-ve-baskan-vekili-secimlerine-iliskin-yeni-duzenleme-resmi-gazetede-963887.html",
+   "zaman": "2026-11-20T02:20:00+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "duzen",
+    "gazet",
+    "ilisk",
+    "resmi",
+    "secim",
+    "vekil",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a4a3453a586c"
+  },
+  "720e223a3586": {
+   "id": "720e223a3586",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Yeni Parti'nin komisyona katılmama kararı süreç ve siyasi dengeleri nasıl etkileyebilir?",
+   "ozet": "Yeni Parti Genel Başkanı Özgür Özel'in, çözüm süreci kapsamında Meclis'te kurulacak İzleme Komisyonu'na üye vermeme kararı, parti içinden destek görürken siyasi kulislerde yeni tartışmaları da beraberinde getirdi.",
+   "link": "https://www.bbc.com/turkce/articles/c6j9m2e1gvndo",
+   "zaman": "2026-11-20T03:22:26+03:00",
+   "kelimeler": [
+    "denge",
+    "etkil",
+    "karar",
+    "katil",
+    "komis",
+    "nasil",
+    "nin",
+    "parti",
+    "siyas",
+    "surec",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b71195ab603b": {
+   "id": "b71195ab603b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Elektrifikasyon neden tartışılıyor, Türkiye yüzde 35 hedefini tutturabilir mi?",
+   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31'in başkanlığının bu yılki en önemli gündem maddelerinden biri de elektrifikasyon taahhüdü.",
+   "link": "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
+   "zaman": "2026-11-20T03:27:29+03:00",
+   "kelimeler": [
+    "35",
+    "elekt",
+    "hedef",
+    "neden",
+    "tarti",
+    "turki",
+    "tuttu",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 03:31:11  2 yeni haber",
   "20.11 03:06:50  1 yeni haber",
   "20.11 02:48:33  2 yeni haber",
   "20.11 02:45:58  4 yeni haber",
@@ -34759,8 +34804,7 @@
   "17.11 16:46:34  7 yeni haber",
   "17.11 16:31:16  8 yeni haber",
   "17.11 16:16:43  4 yeni haber",
-  "17.11 16:02:04  1 yeni haber",
-  "17.11 15:46:31  5 yeni haber"
+  "17.11 16:02:04  1 yeni haber"
  ],
  "otomatik": false
 }
