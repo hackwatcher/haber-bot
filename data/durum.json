@@ -24717,7 +24717,8 @@
     "sagan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ffd5b19807ba": {
    "id": "ffd5b19807ba",
@@ -33402,7 +33403,10 @@
     "ulasi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cc208e54086e": {
    "id": "cc208e54086e",
@@ -34602,6 +34606,48 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4e18b0ad0759": {
+   "id": "4e18b0ad0759",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye'den Suudi Arabistan ve Singapur ile hava ulaşımında mutabakat",
+   "ozet": "Ulaştırma ve Altyapı Bakanlığınca Türkiye ile Suudi Arabistan ve Singapur arasındaki hava ulaşımı bağlantılarını güçlendirecek mutabakatlara imza atıldı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-suudi-arabistan-ve-singapur-ile-hava-ulasiminda-mutabakat-963888.html",
+   "zaman": "2026-11-20T03:15:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "den",
+    "hava",
+    "mutab",
+    "singa",
+    "suudi",
+    "turki",
+    "ulasi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "11f99427e65e"
+  },
+  "368cac645f56": {
+   "id": "368cac645f56",
+   "kaynak": "AA",
+   "baslik": "Hatay'ın Dörtyol ilçesinde sağanak hayatı olumsuz etkiledi",
+   "ozet": "Hatay'ın Dörtyol ilçesinde etkili olan sağanak nedeniyle çaylar taştı, cadde ve sokaklarda su birikintileri oluştu.",
+   "link": "https://www.aa.com.tr/tr/gundem/hatayin-dortyol-ilcesinde-saganak-hayati-olumsuz-etkiledi/4131635",
+   "zaman": "2026-11-20T03:37:54+03:00",
+   "kelimeler": [
+    "dorty",
+    "etkil",
+    "hatay",
+    "hayat",
+    "ilces",
+    "in",
+    "olums",
+    "sagan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "704af76a7809"
   }
  },
  "kayit": [
