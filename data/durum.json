@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "b521f692bcc9": {
-   "id": "b521f692bcc9",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 7 kişi daha tutuklandı",
-   "ozet": "Fon soruşturması kapsamında bugün adliyeye sevk edilen 7 şüpheli tutuklandı. 10 kişi hakkında ise adli kontrol kararı verildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-7-kisi-daha-tutuklandi-963604.html",
-   "zaman": "2026-11-17T22:20:00+03:00",
-   "kelimeler": [
-    "fon",
-    "kisi",
-    "sorus",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "3424b7897c29"
-  },
   "f34b94a17adc": {
    "id": "f34b94a17adc",
    "kaynak": "Hürriyet",
@@ -31536,7 +31519,10 @@
     "dustu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "3065e0e5d215": {
    "id": "3065e0e5d215",
@@ -32625,7 +32611,10 @@
     "tl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2d1fc1995a5c": {
    "id": "2d1fc1995a5c",
@@ -32693,9 +32682,180 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "6682f0d8d16d": {
+   "id": "6682f0d8d16d",
+   "kaynak": "AA",
+   "baslik": "Gazze'de yüzlerce çocuk, düzenlenen yüzme etkinliğiyle savaşın etkilerinden uzaklaşmaya çalıştı",
+   "ozet": "Gazze'de yüzlerce çocuk, 20 Kasım Dünya Çocuk Hakları Günü münasebetiyle Han Yunus sahilinde düzenlenen yüzme etkinliğinde savaşın acılarını unutmaya çalıştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-yuzlerce-cocuk-duzenlenen-yuzme-etkinligiyle-savasin-etkilerinden-uzaklasmaya-calisti-/4132526",
+   "zaman": "2026-11-20T21:54:36+03:00",
+   "kelimeler": [
+    "calis",
+    "cocuk",
+    "duzen",
+    "etkil",
+    "etkin",
+    "gazze",
+    "savas",
+    "uzakl",
+    "yuzle",
+    "yuzme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "50268e49207c": {
+   "id": "50268e49207c",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31 Başkanı Kurum: Adaletli bir sistem kurmak zorundayız",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 196 ülkeyle birlikte karar almak zorunda olduklarını belirterek, \"Herkesin önceliklerini dikkate almak zorundasınız. Adaletli bir sistem kurmak zorundayız. Tüm bunlarla birlikte çalışıyoruz.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31-baskani-kurum-adaletli-bir-sistem-kurmak-zorundayiz-43385587",
+   "zaman": "2026-11-20T22:07:08+03:00",
+   "kelimeler": [
+    "adale",
+    "baska",
+    "cop31",
+    "kurma",
+    "kurum",
+    "siste",
+    "zorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "15aec038d3e4": {
+   "id": "15aec038d3e4",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Fiyat hatası’ diyerek iptal edilen siparişe 1 milyon TL ceza",
+   "ozet": "TİCARET Bakanlığı Reklam Kurulu, bir e-ticaret platformu üzerinden satın alınan siparişlerin ‘fiyat hatası’ gerekçesiyle iptal edilmesine ilişkin ilgili şirkete 1 milyon 83 bin 706 TL idari para cezası uygulandığını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fiyat-hatasi-diyerek-iptal-edilen-siparise-1-milyon-tl-ceza-43385593",
+   "zaman": "2026-11-20T22:16:41+03:00",
+   "kelimeler": [
+    "ceza",
+    "diyer",
+    "edile",
+    "fiyat",
+    "hatas",
+    "iptal",
+    "milyo",
+    "sipar",
+    "tl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e65933d4dd1e"
+  },
+  "5e8b874a8b8c": {
+   "id": "5e8b874a8b8c",
+   "kaynak": "TRT Haber",
+   "baslik": "Uluslararası seviyede aranan Serdar Altınbaş Çekya'da yakalandı",
+   "ozet": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanunu'na muhalefet\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyon mesajıyla uluslararası seviyede aranan Serdar Altınbaş'ın, Çekya'da yakalandığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi-964006.html",
+   "zaman": "2026-11-20T22:19:00+03:00",
+   "kelimeler": [
+    "altin",
+    "arana",
+    "cekya",
+    "serda",
+    "seviy",
+    "ulusl",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "dcc49d863e6f": {
+   "id": "dcc49d863e6f",
+   "kaynak": "AA",
+   "baslik": "Bitcoin 60 bin doların altına geriledi",
+   "ozet": "ABD'de faiz oranlarının yüksek kalacağı ve artabileceği beklentileri ile ABD teknoloji hisselerindeki sert satışların oluşturduğu baskıyla bitcoinin fiyatı 60 bin dolarlık kritik seviyenin de altına düştü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-60-bin-dolarin-altina-geriledi/4132534",
+   "zaman": "2026-11-20T22:20:43+03:00",
+   "kelimeler": [
+    "60",
+    "altin",
+    "bin",
+    "bitco",
+    "dolar",
+    "geril"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b5ff1678c4f5"
+  },
+  "65238eb71749": {
+   "id": "65238eb71749",
+   "kaynak": "AA",
+   "baslik": "Uluslararası seviyede aranan Serdar Altınbaş Çekya'da yakaladı",
+   "ozet": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanuna muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyonla, uluslararası seviyede aranan Serdar Altınbaş'ın Çekya'da yakaladığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakaladi/4132536",
+   "zaman": "2026-11-20T22:22:23+03:00",
+   "kelimeler": [
+    "altin",
+    "arana",
+    "cekya",
+    "serda",
+    "seviy",
+    "ulusl",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5e8b874a8b8c"
+  },
+  "58bf0d520533": {
+   "id": "58bf0d520533",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasında yeni gelişme. Serdar Altınbaş Çekya'da yakalandı",
+   "ozet": "Fon soruşturmasında hakkında yakalama kararı bulunan Serdar Altınbaş, Çekya'da yakalandı.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824",
+   "zaman": "2026-11-20T22:26:46+03:00",
+   "kelimeler": [
+    "altin",
+    "cekya",
+    "fon",
+    "gelis",
+    "serda",
+    "sorus",
+    "yakal",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "31542278e24e": {
+   "id": "31542278e24e",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakanlık duyurdu! Fon soruşturmasında önemli gelişme: Serdar Altınbaş Çekya’da yakalandı",
+   "ozet": "İçişleri Bakanlığı \"'Sermaye Piyasası Kanuna Muhalefet ve Suçtan Kaynaklanan Mal Varlığı Değerlerini Aklama' suçlarından difüzyonla uluslararası seviyede aranan Serdar Altınbaş isimli şahsın, Çekya’da yakalanması sağlandı.\" açıklamasında bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakanlik-duyurdu-fon-sorusturmasinda-onemli-gelisme-serdar-altinbas-cekyada-yakalandi-43385596",
+   "zaman": "2026-11-20T22:27:29+03:00",
+   "kelimeler": [
+    "altin",
+    "bakan",
+    "cekya",
+    "duyur",
+    "fon",
+    "gelis",
+    "oneml",
+    "serda",
+    "sorus",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "58bf0d520533"
   }
  },
  "kayit": [
+  "20.11 22:31:06  4 yeni haber",
   "20.11 22:01:44  2 yeni haber",
   "20.11 21:46:03  1 yeni haber",
   "20.11 21:31:43  1 yeni haber",
@@ -32894,8 +33054,7 @@
   "18.11 14:01:40  6 yeni haber",
   "18.11 13:42:43  3 yeni haber",
   "18.11 13:31:32  11 yeni haber",
-  "18.11 13:16:07  11 yeni haber",
-  "18.11 12:48:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Türk bayrağını selamlarken hastanelik oldu"
+  "18.11 13:16:07  11 yeni haber"
  ],
  "otomatik": false
 }
