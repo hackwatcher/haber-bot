@@ -34349,7 +34349,10 @@
     "yonet"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dad9813d8918": {
    "id": "dad9813d8918",
@@ -34533,6 +34536,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "877e053b17c8": {
+   "id": "877e053b17c8",
+   "kaynak": "TRT Haber",
+   "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/belediye-meclisi-calisma-yonetmeliginde-degisiklik-yapilmasina-dair-yonetmelik-resmi-gazetede-963887.html",
+   "zaman": "2026-11-20T02:20:00+03:00",
+   "kelimeler": [
+    "beled",
+    "calis",
+    "dair",
+    "degis",
+    "gazet",
+    "mecli",
+    "resmi",
+    "yapil",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e859a09303a6"
   }
  },
  "kayit": [
