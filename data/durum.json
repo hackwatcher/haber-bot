@@ -1,120 +1,5 @@
 {
  "haberler": {
-  "7bc4856a02d2": {
-   "id": "7bc4856a02d2",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Çin yapay zeka harikalar diyarında liderleri ağırlayacak: Gözden uzak sorunlar",
-   "ozet": "Shenzhen'in teknolojiyle donanmış gökdelenlerinden uzaklaştığınızda, Devlet Başkanı Şi Cinping'in Çin'inin karşı karşıya olduğu zorluklarla karşılaşırsınız.",
-   "link": "https://www.bbc.com/turkce/articles/c539g07nrm9ro",
-   "zaman": "2026-11-17T10:48:47+03:00",
-   "kelimeler": [
-    "agirl",
-    "cin",
-    "diyar",
-    "gozde",
-    "harik",
-    "lider",
-    "sorun",
-    "uzak",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "75be937d1755": {
-   "id": "75be937d1755",
-   "kaynak": "AA",
-   "baslik": "İzmir merkezli FETÖ operasyonunda yakalanan 11 şüpheli tutuklandı",
-   "ozet": "İzmir merkezli 14 ilde Fetullahçı Terör Örgütü'nün (FETÖ) \"güncel kadın eğitim yapılanması\"na yönelik operasyonda gözaltına alınan 29 zanlıdan 11'i tutuklandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-feto-operasyonunda-yakalanan-11-supheli-tutuklandi/4127367",
-   "zaman": "2026-11-17T10:52:34+03:00",
-   "kelimeler": [
-    "11",
-    "feto",
-    "izmir",
-    "merke",
-    "opera",
-    "suphe",
-    "tutuk",
-    "yakal"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ],
-   "paylasildi": "2026-11-17T12:03:35.453522+03:00",
-   "ig_id": "18160839403508442",
-   "reels_id": "18148712899600609",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1144090351652724",
-   "slayt": 5,
-   "kanca": "14 İLDE OPERASYON"
-  },
-  "b1d22a4891b6": {
-   "id": "b1d22a4891b6",
-   "kaynak": "NTV",
-   "baslik": "Bahçeli: Türkiye dengeli dış politika yürütmek zorunda",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Türkiye'nin bölgesindeki savaş ve çatışmalar nedeniyle dengeli bir dış politika yürütmek zorunda olduğunu söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-dengeli-dis-politika-yurutmek-zorunda-1751242",
-   "zaman": "2026-11-17T10:53:04+03:00",
-   "kelimeler": [
-    "bahce",
-    "denge",
-    "dis",
-    "polit",
-    "turki",
-    "yurut",
-    "zorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "4adef836b491": {
-   "id": "4adef836b491",
-   "kaynak": "AA",
-   "baslik": "Konut Fiyat Endeksi ekimde yüzde 0,7 arttı",
-   "ozet": "Konut Fiyat Endeksi (KFE), ekimde aylık bazda yüzde 0,7, yıllık bazda ise yüzde 21,1 arttı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-ekimde-yuzde-0-7-artti/4127369",
-   "zaman": "2026-11-17T10:54:23+03:00",
-   "kelimeler": [
-    "artti",
-    "ekimd",
-    "endek",
-    "fiyat",
-    "konut",
-    "yuzde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2d7ac8ef58b9"
-  },
-  "e84321d643f9": {
-   "id": "e84321d643f9",
-   "kaynak": "TRT Haber",
-   "baslik": "İzmir merkezli FETÖ operasyonunda 11 tutuklama",
-   "ozet": "İzmir merkezli 14 ilde Fetullahçı Terör Örgütü'nün FETÖ \"güncel kadın eğitim yapılanması\"na yönelik operasyonda gözaltına alınan 29 zanlıdan 11'i tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/izmir-merkezli-feto-operasyonunda-11-tutuklama-963527.html",
-   "zaman": "2026-11-17T10:57:00+03:00",
-   "kelimeler": [
-    "11",
-    "feto",
-    "izmir",
-    "merke",
-    "opera",
-    "tutuk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "75be937d1755"
-  },
   "9f47dafa55d7": {
    "id": "9f47dafa55d7",
    "kaynak": "AA",
@@ -206,47 +91,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "e1a91510e420": {
-   "id": "e1a91510e420",
-   "kaynak": "AA",
-   "baslik": "Bayburt'ta kar ve sis güzel görüntüler oluşturdu",
-   "ozet": "Bayburt'un Aydıntepe ilçesinin çevresinde sıralanan dağlardaki kar ve sis dronla görüntülendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bayburtta-kar-ve-sis-guzel-goruntuler-olusturdu/4127357",
-   "zaman": "2026-11-17T10:46:40+03:00",
-   "kelimeler": [
-    "baybu",
-    "gorun",
-    "guzel",
-    "kar",
-    "olust",
-    "sis",
-    "ta"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a7916191e896": {
-   "id": "a7916191e896",
-   "kaynak": "AA",
-   "baslik": "Atıl tarım arazileri ve su yüzeyleri yenilenebilir enerji üretimi için kullanılacak",
-   "ozet": "Türkiye'nin yeni Yeşil Mutabakat Eylem Planı'na göre, atıl haldeki tarım arazileri ve su yüzeyleri yenilenebilir enerji üretimi için kullanılacak.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/atil-tarim-arazileri-ve-su-yuzeyleri-yenilenebilir-enerji-uretimi-icin-kullanilacak/4127377",
-   "zaman": "2026-11-17T11:01:19+03:00",
-   "kelimeler": [
-    "arazi",
-    "atil",
-    "enerj",
-    "kulla",
-    "su",
-    "tarim",
-    "ureti",
-    "yenil",
-    "yuzey"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8d9a13058263"
   },
   "a18ef935b63d": {
    "id": "a18ef935b63d",
@@ -551,25 +395,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "0df874627ee1": {
-   "id": "0df874627ee1",
-   "kaynak": "AA",
-   "baslik": "Düzce'nin Karadeniz kıyısında sonbahar güzelliği hakim",
-   "ozet": "Düzce'nin Akçakoca ilçesinde sonbaharın renk tonları, kıyı kesiminde güzel görüntü oluşturdu.",
-   "link": "https://www.aa.com.tr/tr/gundem/duzcenin-karadeniz-kiyisinda-sonbahar-guzelligi-hakim/4127376",
-   "zaman": "2026-11-17T11:00:43+03:00",
-   "kelimeler": [
-    "duzce",
-    "guzel",
-    "hakim",
-    "karad",
-    "kiyis",
-    "nin",
-    "sonba"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "ca3d6d9922f0": {
    "id": "ca3d6d9922f0",
@@ -25777,7 +25602,10 @@
     "yerin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "7d4967d06ff7": {
    "id": "7d4967d06ff7",
@@ -33714,7 +33542,10 @@
     "yatir"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "49916e66a55c": {
    "id": "49916e66a55c",
@@ -33990,9 +33821,159 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a65c46ccbb37"
+  },
+  "8a28788babda": {
+   "id": "8a28788babda",
+   "kaynak": "TRT Haber",
+   "baslik": "Üçüncü çeyreğe ilişkin uluslararası yatırım pozisyonu verileri açıklandı",
+   "ozet": "Türkiye'nin net Uluslararası Yatırım Pozisyonu UYP, üçüncü çeyrek itibarıyla eksi 320,4 milyar dolar oldu.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ucuncu-ceyrege-iliskin-uluslararasi-yatirim-pozisyonu-verileri-aciklandi-963935.html",
+   "zaman": "2026-11-20T10:39:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "ceyre",
+    "ilisk",
+    "pozis",
+    "ucunc",
+    "ulusl",
+    "veril",
+    "yatir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "92e372ef2a63"
+  },
+  "d86ba8404afd": {
+   "id": "d86ba8404afd",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'deki saldırısında 60 yaşındaki Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun Gazze Şeridi'nin orta kesimindeki Nusayrat Mülteci Kampı'na düzenlediği insansız hava aracı (İHA) saldırısında 60 yaşındaki bir Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzedeki-saldirisinda-60-yasindaki-filistinli-hayatini-kaybetti-/4131761",
+   "zaman": "2026-11-20T10:46:08+03:00",
+   "kelimeler": [
+    "60",
+    "deki",
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "saldi",
+    "yasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3160c9f44afe"
+  },
+  "0bc024b47c7e": {
+   "id": "0bc024b47c7e",
+   "kaynak": "AA",
+   "baslik": "Merkez Bankası 2026 yılı güz dönemine ilişkin Yatırım Eğilimi İstatistikleri'ni yayımladı",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Yatırım Eğilimi İstatistikleri'ne göre, imalat sanayisinde 2026'da yapılan ve yılın son döneminde planlanan yatırımların geçen yıla göre artacağı değerlendirmeleri, bahar dönemine kıyasla zayıflayarak sürdü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-2026-yili-guz-donemine-iliskin-yatirim-egilimi-istatistiklerini-yayimladi/4131771",
+   "zaman": "2026-11-20T10:51:23+03:00",
+   "kelimeler": [
+    "2026",
+    "banka",
+    "donem",
+    "egili",
+    "guz",
+    "ilisk",
+    "istat",
+    "merke",
+    "ni",
+    "yatir",
+    "yayim",
+    "yili"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a3c843e5b9c4": {
+   "id": "a3c843e5b9c4",
+   "kaynak": "AA",
+   "baslik": "Türkiye'de çocukların yüzde 92,7'si internet kullanıyor",
+   "ozet": "Türkiye'de çocuklarda internet kullanımı bu yıl yüzde 92,7 olarak belirlenirken, bu oran 6-10 yaş grubu çocuklarda yüzde 86,6, 11-17 yaş grubu çocuklarda ise yüzde 96,9 olarak kayıtlara geçti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyede-cocuklarin-yuzde-92-7si-internet-kullaniyor-/4131772",
+   "zaman": "2026-11-20T10:51:38+03:00",
+   "kelimeler": [
+    "92",
+    "cocuk",
+    "inter",
+    "kulla",
+    "si",
+    "turki",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5fe268d4bb48": {
+   "id": "5fe268d4bb48",
+   "kaynak": "Hürriyet",
+   "baslik": "Sahte polis tuzağında su faturası detayı: 2 milyon TL'lik vurguna 3 tutuklama",
+   "ozet": "Adana'da aradıkları kadından altınların ve su faturasının fotoğrafını isteyen şüpheliler, adrese kılık değiştirerek giden Tuğba G. aracılığıyla 6 bilezik, 2 yüzük, küpe ve bin 800 doları alıp kaçtı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sahte-polis-tuzaginda-su-faturasi-detayi-2-milyon-tllik-vurguna-3-tutuklama-43384691",
+   "zaman": "2026-11-20T10:51:39+03:00",
+   "kelimeler": [
+    "detay",
+    "fatur",
+    "lik",
+    "milyo",
+    "polis",
+    "sahte",
+    "su",
+    "tl",
+    "tutuk",
+    "tuzag",
+    "vurgu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2aa75cbd0f30": {
+   "id": "2aa75cbd0f30",
+   "kaynak": "NTV",
+   "baslik": "TÜİK çocukların internet ve telefonu kullanım alışkanlıklarını açıkladı. 10 çocuktan 9'u kullanıyor",
+   "ozet": "TÜİK'in araştırmasına göre 6-17 yaş grubundaki çocukların yüzde 92,7'si internet, yüzde 80,1'i cep telefonu kullanıyor. İnternet kullanım amaçları arasında video izlemek ilk sırada yer alıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/tuik-cocuklarin-internet-ve-telefonu-kullanim-aliskanliklarini-acikladi-10-cocuktan-9u-kullaniyor-1751736",
+   "zaman": "2026-11-20T10:54:42+03:00",
+   "kelimeler": [
+    "10",
+    "alisk",
+    "cocuk",
+    "inter",
+    "kulla",
+    "telef",
+    "tuik"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "16eda37e09d5": {
+   "id": "16eda37e09d5",
+   "kaynak": "AA",
+   "baslik": "Ekimde elektrikli araçlara 3,1 milyonun üzerinde şarj işlemi yapıldı",
+   "ozet": "Türkiye'de ekimde elektrikli araçlara 3 milyon 122 bin 317 şarj işlemi gerçekleştirilirken şarj hizmeti piyasasındaki toplam elektrik tüketimi 84 bin 548 megavatsaat oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ekimde-elektrikli-araclara-3-1-milyonun-uzerinde-sarj-islemi-yapildi/4131778",
+   "zaman": "2026-11-20T10:57:43+03:00",
+   "kelimeler": [
+    "aracl",
+    "ekimd",
+    "elekt",
+    "islem",
+    "milyo",
+    "sarj",
+    "uzeri",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "20.11 11:01:48  5 yeni haber",
   "20.11 10:46:12  7 yeni haber",
   "20.11 10:31:28  8 yeni haber",
   "20.11 10:16:13  6 yeni haber",
@@ -34191,8 +34172,7 @@
   "17.11 21:46:46  4 yeni haber",
   "17.11 21:31:30  5 yeni haber",
   "17.11 21:16:08  2 yeni haber",
-  "17.11 21:03:05  3 yeni haber",
-  "17.11 20:46:36  2 yeni haber"
+  "17.11 21:03:05  3 yeni haber"
  ],
  "otomatik": false
 }
