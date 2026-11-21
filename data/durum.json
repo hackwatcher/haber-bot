@@ -1,61 +1,5 @@
 {
  "haberler": {
-  "86e9204f8e9d": {
-   "id": "86e9204f8e9d",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum, COP31'de ülke temsilcileri ile ikili görüşmeler yaptı",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya'da devam eden COP31 Zirvesi’nin 10'uncu gününde de ülke temsilcileriyle ikili görüşmeler yaptı.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-cop31de-ulke-temsilcileri-ile-ikili-gorusmeler-yapti-43382963",
-   "zaman": "2026-11-18T18:21:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "cop31",
-    "gorus",
-    "ikili",
-    "kurum",
-    "temsi",
-    "ulke",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7bd4ff95cebf": {
-   "id": "7bd4ff95cebf",
-   "kaynak": "AA",
-   "baslik": "Borsa günü düşüşle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,57 değer kaybederek 11.477,41 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4129551",
-   "zaman": "2026-11-18T18:22:33+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "tamam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "63f7d1f47115": {
-   "id": "63f7d1f47115",
-   "kaynak": "TRT Haber",
-   "baslik": "Borsa günü düşüşle kapattı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,57 değer kaybederek 11.477,41 puandan tamamladı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-dususle-kapatti-963717.html",
-   "zaman": "2026-11-18T18:23:00+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "kapat"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7bd4ff95cebf"
-  },
   "406d5675e577": {
    "id": "406d5675e577",
    "kaynak": "BBC Türkçe",
@@ -274,27 +218,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "34a645dd0fd4"
-  },
-  "7c03593f3fbe": {
-   "id": "7c03593f3fbe",
-   "kaynak": "AA",
-   "baslik": "COP31'de iklim değişikliğine karşı azaltım ve uyum çabalarının hızlandırılması çağrısı",
-   "ozet": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), sera gazı emisyonlarının azaltılmasına yönelik çabaların hızlandırılması ve iklim değişikliğinin etkilerine karşı toplumsal dirençliliğin artırılması çağrısı yapıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-degisikligine-karsi-azaltim-ve-uyum-cabalarinin-hizlandirilmasi-cagrisi/4129543",
-   "zaman": "2026-11-18T18:16:14+03:00",
-   "kelimeler": [
-    "azalt",
-    "cabal",
-    "cagri",
-    "cop31",
-    "degis",
-    "hizla",
-    "iklim",
-    "karsi",
-    "uyum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "1606acf28775": {
    "id": "1606acf28775",
@@ -29368,9 +29291,90 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ea061819ed2f"
+  },
+  "83114e03f8b5": {
+   "id": "83114e03f8b5",
+   "kaynak": "AA",
+   "baslik": "Galatasaray, Samsunspor'u yenerek liderliğini sürdürdü",
+   "ozet": "Galatasaray, Trendyol Süper Lig'in 12. haftasında konuk ettiği Samsunspor'u 2-1 yenerek liderliğini sürdürdü.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-samsunsporu-yenerek-liderligini-surdurdu/4133011",
+   "zaman": "2026-11-21T17:02:19+03:00",
+   "kelimeler": [
+    "galat",
+    "lider",
+    "samsu",
+    "surdu",
+    "yener"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba1589f47e58"
+  },
+  "b2ef1136db89": {
+   "id": "b2ef1136db89",
+   "kaynak": "AA",
+   "baslik": "Çaykur Rizespor, Amed Sportif Faaliyetler'i 2-0 yendi",
+   "ozet": "Trendyol Süper Lig'in 12. haftasında Çaykur Rizespor, deplasmanda Amed Sportif Faaliyetler'i 2-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-amed-sportif-faaliyetleri-2-0-yendi/4133012",
+   "zaman": "2026-11-21T17:02:23+03:00",
+   "kelimeler": [
+    "amed",
+    "cayku",
+    "faali",
+    "rizes",
+    "sport",
+    "yendi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1e42f2b16154"
+  },
+  "675b6ca210ef": {
+   "id": "675b6ca210ef",
+   "kaynak": "TRT Haber",
+   "baslik": "Güngören'de inşaatta toprak kayması: Göçük altında kalan işçi kurtarıldı",
+   "ozet": "İstanbul Güngören'de bir inşaatın temel çalışmaları sırasında toprak altında kalan işçi kurtarılarak hastaneye kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/gungorende-insaatta-toprak-kaymasi-gocuk-altinda-kalan-isci-kurtarildi-964080.html",
+   "zaman": "2026-11-21T18:15:00+03:00",
+   "kelimeler": [
+    "altin",
+    "gocuk",
+    "gungo",
+    "insaa",
+    "isci",
+    "kalan",
+    "kayma",
+    "kurta",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "e1d59eb04582": {
+   "id": "e1d59eb04582",
+   "kaynak": "Hürriyet",
+   "baslik": "Güngören'de toprak altında kalan işçi kurtarıldı",
+   "ozet": "Güngören'de bir inşaatın temel çalışmaları sırasında toprak altında kalan işçi kurtarılarak hastaneye kaldırıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gungorende-toprak-altinda-kalan-isci-kurtarildi-43386399",
+   "zaman": "2026-11-21T18:24:21+03:00",
+   "kelimeler": [
+    "altin",
+    "gungo",
+    "isci",
+    "kalan",
+    "kurta",
+    "topra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "675b6ca210ef"
   }
  },
  "kayit": [
+  "21.11 18:31:10  1 yeni haber",
   "21.11 18:15:58  3 yeni haber",
   "21.11 18:01:24  1 yeni haber",
   "21.11 17:45:55  6 yeni haber",
@@ -29569,8 +29573,7 @@
   "19.11 16:31:12  9 yeni haber",
   "19.11 16:18:00  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Tekirdağ ve Antalya ile 7 ilçe belediyesi AKP'ye geçti",
   "19.11 16:15:58  9 yeni haber",
-  "19.11 15:46:00  10 yeni haber",
-  "19.11 15:16:16  10 yeni haber"
+  "19.11 15:46:00  10 yeni haber"
  ],
  "otomatik": false
 }
