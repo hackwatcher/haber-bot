@@ -1,60 +1,5 @@
 {
  "haberler": {
-  "d8f49a4eb0bc": {
-   "id": "d8f49a4eb0bc",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da selden etkilenenlerin su faturalarına erteleme ve taksit imkanı getirildi",
-   "ozet": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Kurulu'nda, kentte 13-18 Ekim tarihlerindeki yoğun yağıştan etkilenen vatandaşların ekim ayı su faturalarının 4 ay ertelenmesi veya 6 eşit taksitle ödenmesi kararlaştırıldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-selden-etkilenenlerin-su-faturalarina-erteleme-ve-taksit-imkani-getirildi/4129797",
-   "zaman": "2026-11-18T23:05:20+03:00",
-   "kelimeler": [
-    "ertel",
-    "etkil",
-    "fatur",
-    "getir",
-    "imkan",
-    "istan",
-    "selde",
-    "su",
-    "taksi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f2bdb64180f8": {
-   "id": "f2bdb64180f8",
-   "kaynak": "AA",
-   "baslik": "Fed tutanakları yetkililerin neredeyse tamamının ilave faiz artışı beklediğini gösterdi",
-   "ozet": "Fed'in son toplantısına ilişkin tutanakları, Fed yetkililerinin neredeyse tamamının, enflasyonun zamanında hedefe dönmesini sağlamak için politika faizini artırmaya yönelik ilave adımların muhtemelen uygun olacağını düşündüğünü ortaya koydu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi/4129801",
-   "zaman": "2026-11-18T23:11:50+03:00",
-   "kelimeler": [
-    "artis",
-    "bekle",
-    "faiz",
-    "fed",
-    "goste",
-    "ilave",
-    "nered",
-    "tamam",
-    "tutan",
-    "yetki"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "NTV"
-   ],
-   "paylasildi": "2026-11-19T01:03:42.527832+03:00",
-   "ig_id": "18137393878658560",
-   "reels_id": "18029448113874989",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2939795773065709",
-   "slayt": 6,
-   "kanca": "İLAVE FAİZ ARTIŞI"
-  },
   "bc542debfd1f": {
    "id": "bc542debfd1f",
    "kaynak": "AA",
@@ -167,34 +112,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f2bdb64180f8"
-  },
-  "05b2484173bb": {
-   "id": "05b2484173bb",
-   "kaynak": "TRT Haber",
-   "baslik": "İşgalci İsrail'den Batı Şeria'da Filistinlilere ait 26 bin 727 dönümlük araziye el koyma kararı",
-   "ozet": "İsrail, işgal altındaki Batı Şeria'nın kuzeyindeki Tulkerim ve Dhanaba bölgelerinde 26 bin 727 dönüm araziye \"askeri amaçlar\" gerekçesiyle el koyma kararı aldı.",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilden-bati-seriada-filistinlilere-ait-26-bin-727-donumluk-araziye-el-koyma-karari-963731.html",
-   "zaman": "2026-11-18T23:14:00+03:00",
-   "kelimeler": [
-    "26",
-    "727",
-    "ait",
-    "arazi",
-    "bati",
-    "bin",
-    "den",
-    "donum",
-    "el",
-    "filis",
-    "isgal",
-    "israi",
-    "karar",
-    "koyma",
-    "seria"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "8bc3bf396e54"
   },
   "ab1125bbaef9": {
    "id": "ab1125bbaef9",
@@ -22707,7 +22624,8 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "35c714f2dbf5": {
    "id": "35c714f2dbf5",
@@ -25416,7 +25334,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "3f7aff34a028": {
@@ -29489,9 +29408,74 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3ca27eb774ee": {
+   "id": "3ca27eb774ee",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın başkenti Riyad'a yönelik İHA saldırısı engellendi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin Suudi Arabistan'ın başkenti Riyad'a insansız hava aracı (İHA) ile düzenlediği saldırının engellendiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-baskenti-riyada-yonelik-iha-saldirisi-engellendi/4133206",
+   "zaman": "2026-11-21T22:37:55+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "baske",
+    "engel",
+    "husil",
+    "iha",
+    "in",
+    "koali",
+    "riyad",
+    "saldi",
+    "suudi",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "addb188adf47"
+  },
+  "226bf6b730a6": {
+   "id": "226bf6b730a6",
+   "kaynak": "Hürriyet",
+   "baslik": "Taşan derede sürüklenen koyunları çoban kurtardı",
+   "ozet": "Trabzon’un Araklı ilçesinde etkili yoğun yağış nedeniyle su seviyesi ve debisi yükselen derede sürüklenen koyunlar, çobanın uzun uğraşları sonucu kurtarıldı. O anlar cep telefonu kamerasına yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/tasan-derede-suruklenen-koyunlari-coban-kurtardi-43386540",
+   "zaman": "2026-11-21T23:04:11+03:00",
+   "kelimeler": [
+    "coban",
+    "dered",
+    "koyun",
+    "kurta",
+    "suruk",
+    "tasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "665a1044e0fe": {
+   "id": "665a1044e0fe",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan, Irak Devlet Bakanı Ağaoğlu ile görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Irak Devlet Bakanı ve Irak Türkmen Cephesi Başkanı Mehmet Seman Ağaoğlu ile bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-irak-devlet-bakani-agaoglu-ile-gorustu-43386546",
+   "zaman": "2026-11-21T23:10:47+03:00",
+   "kelimeler": [
+    "agaog",
+    "bakan",
+    "devle",
+    "disis",
+    "fidan",
+    "gorus",
+    "hakan",
+    "irak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f1038c1d1aa0"
   }
  },
  "kayit": [
+  "21.11 23:16:16  1 yeni haber",
   "21.11 23:01:24  6 yeni haber",
   "21.11 22:46:09  1 yeni haber",
   "21.11 22:31:18  1 yeni haber",
@@ -29690,8 +29674,7 @@
   "19.11 21:02:38  1 yeni haber",
   "19.11 20:45:58  1 yeni haber",
   "19.11 20:39:14  1 yeni haber",
-  "19.11 20:31:11  2 yeni haber",
-  "19.11 20:16:10  1 yeni haber"
+  "19.11 20:31:11  2 yeni haber"
  ],
  "otomatik": false
 }
