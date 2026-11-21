@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "bcec8fa3b796": {
-   "id": "bcec8fa3b796",
-   "kaynak": "TRT Haber",
-   "baslik": "Türk Kızılay Kanunu Teklifi Genel Kurul'da kabul edildi",
-   "ozet": "Türk Kızılay Kanunu Teklifi, Türkiye Büyük Millet Meclisi TBMM Genel Kurulunda kabul edildi.",
-   "link": "https://www.trthaber.com/haber/gundem/turk-kizilay-kanunu-teklifi-genel-kurulda-kabul-edildi-963722.html",
-   "zaman": "2026-11-18T19:53:00+03:00",
-   "kelimeler": [
-    "edild",
-    "genel",
-    "kabul",
-    "kanun",
-    "kizil",
-    "kurul",
-    "tekli",
-    "turk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "63caabf0b1d5"
-  },
   "f7f054ca015a": {
    "id": "f7f054ca015a",
    "kaynak": "Hürriyet",
@@ -29137,7 +29116,10 @@
     "yonun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3a12ceba7e62": {
    "id": "3a12ceba7e62",
@@ -29176,9 +29158,72 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a162db644b71"
+  },
+  "83e8c56ac8ab": {
+   "id": "83e8c56ac8ab",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan, Abdülhamid Dibeybe ile bir araya geldi",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Libya Milli Birlik Hükümeti Başbakanı Abdülhamid Dibeybe ile bugün İstanbulda bir araya geldi.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-abdulhamid-dibeybe-ile-bir-araya-geldi-964084.html",
+   "zaman": "2026-11-21T19:40:00+03:00",
+   "kelimeler": [
+    "abdul",
+    "araya",
+    "bakan",
+    "dibey",
+    "fidan",
+    "geldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c59e87f122e": {
+   "id": "2c59e87f122e",
+   "kaynak": "AA",
+   "baslik": "Genç milli judocular, Dünya Şampiyonası'nın 3. gününde 2'si altın 3 madalya kazandı",
+   "ozet": "Milli sporcular, Özbekistan'da düzenlenen Dünya Gençler Judo Şampiyonası'nda 2'si altın olmak üzere 3 madalya kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/genc-milli-judocular-dunya-sampiyonasinin-3-gununde-2si-altin-3-madalya-kazandi/4133121",
+   "zaman": "2026-11-21T19:47:46+03:00",
+   "kelimeler": [
+    "altin",
+    "dunya",
+    "genc",
+    "gunun",
+    "judoc",
+    "kazan",
+    "madal",
+    "milli",
+    "nin",
+    "sampi",
+    "si"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "1732544814b7": {
+   "id": "1732544814b7",
+   "kaynak": "TRT Haber",
+   "baslik": "DMM'den Türkiye'de eğitimde eşitsizlik derinleşiyor iddialarına yalanlama",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, bazı basın yayın organlarında ve sosyal medya hesaplarında yer alan \"Türkiye'de eğitimde eşitsizlik derinleşiyor\" yönündeki iddiaların gerçeği yansıtmadığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/dmmden-turkiyede-egitimde-esitsizlik-derinlesiyor-iddialarina-yalanlama-964085.html",
+   "zaman": "2026-11-21T19:48:00+03:00",
+   "kelimeler": [
+    "den",
+    "derin",
+    "dmm",
+    "egiti",
+    "esits",
+    "iddia",
+    "turki",
+    "yalan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e36853955bef"
   }
  },
  "kayit": [
+  "21.11 20:01:28  2 yeni haber",
   "21.11 19:46:16  1 yeni haber",
   "21.11 19:33:37  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bakan Çiftçi: Bölgemiz terörden arındıkça turizm canlanıyor, yatırımla",
   "21.11 19:31:15  3 yeni haber",
@@ -29377,8 +29422,7 @@
   "19.11 18:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Mahalleli deprem oluyor zannetti: \"Geldiğimde ortalık savaş alanı gibi",
   "19.11 18:01:41  4 yeni haber",
   "19.11 17:45:59  8 yeni haber",
-  "19.11 17:31:16  6 yeni haber",
-  "19.11 17:16:06  6 yeni haber"
+  "19.11 17:31:16  6 yeni haber"
  ],
  "otomatik": false
 }
