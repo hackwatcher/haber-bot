@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "61c2d00cc3ce": {
-   "id": "61c2d00cc3ce",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 18 Kasım 2026",
-   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 18 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-18-kasim-2026-1751362",
-   "zaman": "2026-11-18T03:00:00+03:00",
-   "kelimeler": [
-    "18",
-    "2026",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "mugla",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "49ae7bd5116b"
-  },
   "4df008dd928c": {
    "id": "4df008dd928c",
    "kaynak": "BBC Türkçe",
@@ -30249,7 +30226,10 @@
     "yurut"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9e081ccefc89": {
    "id": "9e081ccefc89",
@@ -32862,9 +32842,99 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "addb188adf47": {
+   "id": "addb188adf47",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın başkenti Riyad'a fırlattığı 3 balistik füze imha edildi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husiler tarafından Suudi Arabistan'ın başkenti Riyad'a fırlatılan 3 balistik füzenin imha edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-baskenti-riyada-firlattigi-3-balistik-fuze-imha-edildi/4132542",
+   "zaman": "2026-11-20T22:37:24+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "balis",
+    "baske",
+    "edild",
+    "firla",
+    "fuze",
+    "husil",
+    "imha",
+    "in",
+    "koali",
+    "riyad",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "35c714f2dbf5": {
+   "id": "35c714f2dbf5",
+   "kaynak": "AA",
+   "baslik": "Myanmarlı aktivist Zarni'ye göre Arakanlı Müslümanlar konusu uluslararası gündemin parçası olmalı",
+   "ozet": "Myanmarlı aktivist Maung Zarni, Myanmar, Arakanlı Müslümanlara soykırım yaparken İsrail'in bu ülkeye silah sattığını belirterek, Arakanlı Müslümanların hayatının ancak bu mesele uluslararası gündemin bir parçası olursa değişeceğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/myanmarli-aktivist-zarniye-gore-arakanli-muslumanlar-konusu-uluslararasi-gundemin-parcasi-olmali/4132642",
+   "zaman": "2026-11-21T02:01:45+03:00",
+   "kelimeler": [
+    "aktiv",
+    "araka",
+    "gore",
+    "gunde",
+    "konus",
+    "muslu",
+    "myanm",
+    "olmal",
+    "parca",
+    "ulusl",
+    "ye",
+    "zarni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "97959196cd21": {
+   "id": "97959196cd21",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Göktaş: 1300'ü aşkın kadın kooperatifinin kurulmasına öncülük ettik",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Ticaret ile Tarım ve Orman Bakanlıklarımızla iş birliği içinde kadınlara kooperatif kurma süreçlerinde rehberlik ediyoruz.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-1300u-askin-kadin-kooperatifinin-kurulmasina-onculuk-ettik-964022.html",
+   "zaman": "2026-11-21T02:37:00+03:00",
+   "kelimeler": [
+    "1300",
+    "askin",
+    "bakan",
+    "ettik",
+    "gokta",
+    "kadin",
+    "koope",
+    "kurul",
+    "oncul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0d4b307fc6d3"
+  },
+  "0586e64a8d0d": {
+   "id": "0586e64a8d0d",
+   "kaynak": "BBC Türkçe",
+   "baslik": "COP31 uzadı, nihai anlaşma için müzakereler sürüyor",
+   "ozet": "Antalya'da 20 Kasım'da sona ermesi planlanan BM'nin iklim konferansı COP31'de ülkeler nihai bir anlaşmaya varamadı. Delegeler bir karar metninde uzlaşmak için müzakerelerini sürdürüyor.",
+   "link": "https://www.bbc.com/turkce/articles/cq8j40d29kneo",
+   "zaman": "2026-11-21T02:51:34+03:00",
+   "kelimeler": [
+    "anlas",
+    "cop31",
+    "muzak",
+    "nihai",
+    "suruy",
+    "uzadi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 03:01:27  3 yeni haber",
   "21.11 02:46:10  2 yeni haber",
   "21.11 02:01:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "21.11 01:33:12  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Bitcoin, 60 bin dolara düştü.",
@@ -33063,8 +33133,7 @@
   "18.11 20:46:12  6 yeni haber",
   "18.11 19:46:10  5 yeni haber",
   "18.11 19:31:17  5 yeni haber",
-  "18.11 19:01:27  2 yeni haber",
-  "18.11 18:31:35  15 yeni haber"
+  "18.11 19:01:27  2 yeni haber"
  ],
  "otomatik": false
 }
