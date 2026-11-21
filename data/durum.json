@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "ffea1e4647a2": {
-   "id": "ffea1e4647a2",
-   "kaynak": "Hürriyet",
-   "baslik": "COP31'de 100'e yakın bakanın katılımıyla 'Divan' toplantısı gerçekleştirildi",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 100’den fazla ülkeden bakanın katıldığı Divan Toplantısı’na ev sahipliği yaptı. 4 saat süren toplantıda konuşan Kurum, \"Bizim arzumuz geleceğe ilişkin güzel bir miras bırakmak.",
-   "link": "https://www.hurriyet.com.tr/gundem/cop31de-100e-yakin-bakanin-katilimiyla-divan-toplantisi-gerceklestirildi-43383140",
-   "zaman": "2026-11-19T00:06:52+03:00",
-   "kelimeler": [
-    "100",
-    "bakan",
-    "cop31",
-    "divan",
-    "gerce",
-    "katil",
-    "topla",
-    "yakin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e178c75121e1": {
    "id": "e178c75121e1",
    "kaynak": "AA",
@@ -401,54 +381,6 @@
     "tekra",
     "ukray",
     "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d9687ad2f2fe": {
-   "id": "d9687ad2f2fe",
-   "kaynak": "AA",
-   "baslik": "İsrail ordusu, Gazze'nin orta kesiminde işgalini \"Sarı Hat\"ın ötesine taşıdığını açıkladı",
-   "ozet": "İsrail ordusu, Gazze Şeridi'nin orta kesiminde işgalini ateşkesle belirlenen \"Sarı Hat\"ın ötesine taşıdığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzenin-orta-kesiminde-isgalini-sari-hatin-otesine-tasidigini-acikladi/4129847",
-   "zaman": "2026-11-19T00:08:54+03:00",
-   "kelimeler": [
-    "gazze",
-    "hat",
-    "in",
-    "isgal",
-    "israi",
-    "kesim",
-    "nin",
-    "ordus",
-    "orta",
-    "otesi",
-    "sari",
-    "tasid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "046e9cd688d5": {
-   "id": "046e9cd688d5",
-   "kaynak": "AA",
-   "baslik": "Zelenskiy, Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da düzenleneceğini belirtti",
-   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Ukrayna konusundaki Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da düzenleneceğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-gonulluler-koalisyonu-toplantisinin-19-kasimda-almanyada-duzenlenecegini-belirtti-/4129850",
-   "zaman": "2026-11-19T00:10:45+03:00",
-   "kelimeler": [
-    "19",
-    "alman",
-    "belir",
-    "duzen",
-    "gonul",
-    "kasim",
-    "koali",
-    "topla",
-    "zelen"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -29113,7 +29045,10 @@
     "ussun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "61a6f367bfd8": {
    "id": "61a6f367bfd8",
@@ -29447,9 +29382,71 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9a1090d76bc9"
+  },
+  "45aa698849ec": {
+   "id": "45aa698849ec",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: Bahreyn'deki iki ABD üssünün radarlarını hedef aldık",
+   "ozet": "İran Devrim Muhafızları Ordusu, Bahreyn'deki 2 ABD üssünde bulunan Patriot hava savunma sistemlerine ait 2 radarın insansız hava araçları İHA ve füzelerle hedef alındığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-bahreyndeki-iki-abd-ussunun-radarlarini-hedef-aldik-964099.html",
+   "zaman": "2026-11-21T23:52:00+03:00",
+   "kelimeler": [
+    "abd",
+    "aldik",
+    "bahre",
+    "deki",
+    "hedef",
+    "iki",
+    "iran",
+    "radar",
+    "ussun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4417071fdac6"
+  },
+  "608a824904ce": {
+   "id": "608a824904ce",
+   "kaynak": "TRT Haber",
+   "baslik": "Bahreyn'de ikinci kez güvenlik alarmı verildi",
+   "ozet": "Bahreyn İçişleri Bakanlığı, bir kez daha \"mevcut bir tehlike uyarısı\" kapsamında vatandaşlara \"en yakın güvenli yere gitmeleri\" çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/bahreynde-ikinci-kez-guvenlik-alarmi-verildi-964100.html",
+   "zaman": "2026-11-21T23:56:00+03:00",
+   "kelimeler": [
+    "alarm",
+    "bahre",
+    "guven",
+    "ikinc",
+    "kez",
+    "veril"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "de4ab4e1ea1b": {
+   "id": "de4ab4e1ea1b",
+   "kaynak": "NTV",
+   "baslik": "Bahçeli'den Özgür Özel'e tepki. \"CHP'yi böldünüz, Türkiye'yi böldürmeyiz\"",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Yeni Parti'nin Meclis'teki süreç izleme komisyonuna üye vermeme kararına tepki gösterdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bahceliden-ozgur-ozele-tepki-chpyi-boldunuz-turkiyeyi-boldurmeyiz-1751971",
+   "zaman": "2026-11-22T00:14:52+03:00",
+   "kelimeler": [
+    "bahce",
+    "boldu",
+    "chp",
+    "den",
+    "ozel",
+    "ozgur",
+    "tepki",
+    "turki",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 00:15:54  2 yeni haber",
   "22.11 00:03:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'de seçim galibi Demokratların önceliği İran savaşını bitirmek",
   "21.11 23:31:25  4 yeni haber",
   "21.11 23:16:16  1 yeni haber",
@@ -29648,8 +29645,7 @@
   "19.11 21:46:05  3 yeni haber",
   "19.11 21:31:27  1 yeni haber",
   "19.11 21:15:57  2 yeni haber",
-  "19.11 21:02:38  1 yeni haber",
-  "19.11 20:45:58  1 yeni haber"
+  "19.11 21:02:38  1 yeni haber"
  ],
  "otomatik": false
 }
