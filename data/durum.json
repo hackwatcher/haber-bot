@@ -26976,7 +26976,10 @@
     "yakla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "8b6ef5938544": {
    "id": "8b6ef5938544",
@@ -32931,6 +32934,31 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "bf79d5efbc1e": {
+   "id": "bf79d5efbc1e",
+   "kaynak": "AA",
+   "baslik": "ABD denetim kuruluşu: Pentagon yaklaşık 31 milyar dolarlık F-35 parçasının akıbetini açıklamıyor",
+   "ozet": "ABD'de Hükümet Hesap Verebilirlik Ofisi yetkilisi, ABD Savunma Bakanlığının (Pentagon) yaklaşık 31 milyar dolar değerindeki 26 milyon F-35 parçasının akıbetine dair güvenilir bir açıklama yapmamayı sürdürmesini eleştirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-denetim-kurulusu-pentagon-yaklasik-31-milyar-dolarlik-f-35-parcasinin-akibetini-aciklamiyor/4132639",
+   "zaman": "2026-11-21T01:48:31+03:00",
+   "kelimeler": [
+    "31",
+    "35",
+    "abd",
+    "acikl",
+    "akibe",
+    "denet",
+    "dolar",
+    "kurul",
+    "milya",
+    "parca",
+    "penta",
+    "yakla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "14852f76b03a"
   }
  },
  "kayit": [
