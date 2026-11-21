@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "62a06583659e": {
-   "id": "62a06583659e",
-   "kaynak": "AA",
-   "baslik": "Venezuela ve ABD, 2005'te Chavez döneminde kesilen askeri işbirliğini yeniden başlattı",
-   "ozet": "ABD Savunma Bakanı Pete Hegseth'in Venezuela ziyaretinde, iki ülke arasında eski Venezuela Devlet Başkanı Hugo Chavez tarafından 2005'te kesilen teknik ve askeri işbirliği yeniden başlatıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/venezuela-ve-abd-2005te-chavez-doneminde-kesilen-askeri-isbirligini-yeniden-baslatti/4129876",
-   "zaman": "2026-11-19T00:49:03+03:00",
-   "kelimeler": [
-    "2005",
-    "abd",
-    "asker",
-    "basla",
-    "chave",
-    "donem",
-    "isbir",
-    "kesil",
-    "te",
-    "venez",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8cedfa4ed026": {
-   "id": "8cedfa4ed026",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-kasim-2026-1751517",
-   "zaman": "2026-11-19T01:00:00+03:00",
-   "kelimeler": [
-    "19",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "il",
-    "istan",
-    "izmir",
-    "kasim",
-    "nered"
-   ],
-   "durum": "engelli",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
   "2446d9f66697": {
    "id": "2446d9f66697",
    "kaynak": "AA",
@@ -29248,8 +29201,13 @@
     "silah",
     "yaral"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "hata",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "Hürriyet"
+   ],
+   "hata": "Instagram görseli işleyemedi (ERROR)"
   },
   "94eaaf47276b": {
    "id": "94eaaf47276b",
@@ -29298,9 +29256,74 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "b5ff1678c4f5"
+  },
+  "a0f8c5bf5f37": {
+   "id": "a0f8c5bf5f37",
+   "kaynak": "AA",
+   "baslik": "Şırnak'ta silah kazası sonucu bir asker şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Şırnak Şenoba'da silah kazası sonucu İstihbarat Astsubay Çavuş Yalın Gergün'ün şehit olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272",
+   "zaman": "2026-11-22T00:43:03+03:00",
+   "kelimeler": [
+    "asker",
+    "kazas",
+    "sehit",
+    "silah",
+    "sirna",
+    "sonuc",
+    "ta"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b5ffaeee2d95"
+  },
+  "7c1784676524": {
+   "id": "7c1784676524",
+   "kaynak": "NTV",
+   "baslik": "Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 22 Kasım 2026",
+   "ozet": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 22 Kasım 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-22-kasim-2026-1751975",
+   "zaman": "2026-11-22T00:50:01+03:00",
+   "kelimeler": [
+    "2026",
+    "22",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9a1090d76bc9"
+  },
+  "3fe0c52b6463": {
+   "id": "3fe0c52b6463",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB acı haberi duyurdu… Silah kazasında yaralanan Astsubay şehit oldu",
+   "ozet": "MİLLİ Savunma Bakanlığı (MSB), Şırnak'ın Şenoba bölgesindeki 48'inci Hudut Tugay Komutanlığında meydana gelen silah kazasında yaralanan İstihbarat Astsubay Çavuş Yalın Gergün'ün kaldırıldığı hastanede şehit olduğunu duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/msb-aci-haberi-duyurdu-silah-kazasinda-yaralanan-astsubay-sehit-oldu-43386584",
+   "zaman": "2026-11-22T00:50:02+03:00",
+   "kelimeler": [
+    "aci",
+    "astsu",
+    "duyur",
+    "kazas",
+    "msb",
+    "sehit",
+    "silah",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "b5ffaeee2d95"
   }
  },
  "kayit": [
+  "22.11 01:02:52  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "22.11 00:45:54  1 yeni haber",
   "22.11 00:33:46  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fren yerine gaza basan vale ciple restorana girdi",
   "22.11 00:31:05  1 yeni haber",
@@ -29499,8 +29522,7 @@
   "19.11 22:46:02  2 yeni haber",
   "19.11 22:31:21  2 yeni haber",
   "19.11 22:15:57  7 yeni haber",
-  "19.11 22:01:38  2 yeni haber",
-  "19.11 21:46:05  3 yeni haber"
+  "19.11 22:01:38  2 yeni haber"
  ],
  "otomatik": false
 }
