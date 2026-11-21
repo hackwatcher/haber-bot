@@ -24282,7 +24282,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "144b182f9d5d": {
    "id": "144b182f9d5d",
@@ -32609,9 +32610,80 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "302b101ce1ea": {
+   "id": "302b101ce1ea",
+   "kaynak": "TRT Haber",
+   "baslik": "Nevşehir'de kaza sonrası şoför karmaşası",
+   "ozet": "Nevşehir'de kazaya karışan alkollü sürücünün yerine önce bir arkadaşı geldi. Aracı kendisinin kullandığını öne süren kişi, kamera kayıtlarının inceleneceğinin söylenmesi üzerine başka bir isim çağırdı.",
+   "link": "https://www.trthaber.com/haber/turkiye/nevsehirde-kaza-sonrasi-sofor-karmasasi-964026.html",
+   "zaman": "2026-11-21T04:23:00+03:00",
+   "kelimeler": [
+    "karma",
+    "kaza",
+    "nevse",
+    "sofor",
+    "sonra"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "848b5e3f18b2": {
+   "id": "848b5e3f18b2",
+   "kaynak": "AA",
+   "baslik": "Başkentte sağanak etkili oluyor",
+   "ozet": "Ankara'da gece saatlerinde başlayan sağanak yağış etkisini sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/baskentte-saganak-etkili-oluyor/4132665",
+   "zaman": "2026-11-21T08:09:24+03:00",
+   "kelimeler": [
+    "baske",
+    "etkil",
+    "oluyo",
+    "sagan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2430df00bd7e": {
+   "id": "2430df00bd7e",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş, Süper Lig'de yarın Konyaspor ile karşılaşacak",
+   "ozet": "Beşiktaş, Trendyol Süper Lig'in 12. haftasında yarın deplasmanda TÜMOSAN Konyaspor ile mücadele edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-konyaspor-ile-karsilasacak/4132679",
+   "zaman": "2026-11-21T08:51:38+03:00",
+   "kelimeler": [
+    "besik",
+    "karsi",
+    "konya",
+    "lig",
+    "super",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1e42f2b16154"
+  },
+  "3d5c09d319b0": {
+   "id": "3d5c09d319b0",
+   "kaynak": "NTV",
+   "baslik": "Benzine indirim, 70 liranın altına indi",
+   "ozet": "Benzinin litre fiyatına bugünden itibaren 2.95 lira indirim yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/benzine-indirim-70-liranin-altina-indi-1751848",
+   "zaman": "2026-11-21T08:54:45+03:00",
+   "kelimeler": [
+    "70",
+    "altin",
+    "benzi",
+    "indi",
+    "indir",
+    "liran"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 09:01:16  3 yeni haber",
   "21.11 08:48:27  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Diyarbakır'da uyuşturucu operasyonu: 20 şüpheli tutuklandı",
   "21.11 08:46:21  2 yeni haber",
   "21.11 08:31:19  1 yeni haber",
@@ -32810,8 +32882,7 @@
   "19.11 03:16:27  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 02:46:08  1 yeni haber",
   "19.11 02:31:20  2 yeni haber",
-  "19.11 02:16:42  4 yeni haber",
-  "19.11 01:45:59  2 yeni haber"
+  "19.11 02:16:42  4 yeni haber"
  ],
  "otomatik": false
 }
