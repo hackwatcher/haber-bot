@@ -27,27 +27,6 @@
     "Hürriyet"
    ]
   },
-  "96a87b36646f": {
-   "id": "96a87b36646f",
-   "kaynak": "AA",
-   "baslik": "Prens Harry, Ukrayna ziyaretinin ardından tekrar orduya katılabileceğini söyledi",
-   "ozet": "İngiltere Kralı 3. Charles'ın oğlu Sussex Dükü Prens Harry, Ukrayna ziyaretinin ardından ihtiyaç halinde tekrar orduya katılabileceğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/prens-harry-ukrayna-ziyaretinin-ardindan-tekrar-orduya-katilabilecegini-soyledi/4129885",
-   "zaman": "2026-11-19T01:04:54+03:00",
-   "kelimeler": [
-    "ardin",
-    "harry",
-    "katil",
-    "orduy",
-    "prens",
-    "soyle",
-    "tekra",
-    "ukray",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e3becfa05365": {
    "id": "e3becfa05365",
    "kaynak": "Hürriyet",
@@ -28727,8 +28706,17 @@
     "sanli",
     "yaral"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-22T01:18:32.627815+03:00",
+   "ig_id": "18092440952503191",
+   "reels_id": "18083522060373357",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1948496513048266",
+   "slayt": 5,
+   "kanca": "İKİ OTOMOBİL ÇARPIŞTI"
   },
   "e6f4eba7abc0": {
    "id": "e6f4eba7abc0",
@@ -29320,9 +29308,34 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "b5ffaeee2d95"
+  },
+  "eb55dc23833b": {
+   "id": "eb55dc23833b",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'daki Etnospor Kültür Festivali'nin üçüncü günü sona erdi",
+   "ozet": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nin üçüncü gününde geleneksel güreş, Türk el sanatları ve atlı okçuluk ziyaretçilerin en çok ilgi gösterdiği etkinlikler oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistandaki-etnospor-kultur-festivalinin-ucuncu-gunu-sona-erdi/4133257",
+   "zaman": "2026-11-22T00:28:33+03:00",
+   "kelimeler": [
+    "arabi",
+    "daki",
+    "erdi",
+    "etnos",
+    "festi",
+    "gunu",
+    "kultu",
+    "nin",
+    "sona",
+    "suudi",
+    "ucunc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 01:18:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şanlıurfa'da feci kaza: 2 kişi öldü, 5 kişi yaralandı",
+  "22.11 01:15:59  1 yeni haber",
   "22.11 01:02:52  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "22.11 00:45:54  1 yeni haber",
   "22.11 00:33:46  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fren yerine gaza basan vale ciple restorana girdi",
@@ -29520,9 +29533,7 @@
   "19.11 23:16:18  3 yeni haber",
   "19.11 23:01:15  5 yeni haber",
   "19.11 22:46:02  2 yeni haber",
-  "19.11 22:31:21  2 yeni haber",
-  "19.11 22:15:57  7 yeni haber",
-  "19.11 22:01:38  2 yeni haber"
+  "19.11 22:31:21  2 yeni haber"
  ],
  "otomatik": false
 }
