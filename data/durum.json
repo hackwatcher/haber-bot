@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "bc542debfd1f": {
-   "id": "bc542debfd1f",
-   "kaynak": "AA",
-   "baslik": "NYT: Trump, Vance'in \"seçimleri İran savaşı yüzünden kaybettikleri\" açıklamasından rahatsız",
-   "ozet": "ABD medyası, Başkan Donald Trump'ın, Başkan Yardımcısı JD Vance'in \"3 Kasım'daki seçimleri, İran'la savaş yüzünden kaybettikleri\" yönündeki açıklamasından rahatsız olduğunu iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/nyt-trump-vancein-secimleri-iran-savasi-yuzunden-kaybettikleri-aciklamasindan-rahatsiz/4129810",
-   "zaman": "2026-11-18T23:22:43+03:00",
-   "kelimeler": [
-    "acikl",
-    "in",
-    "iran",
-    "kaybe",
-    "nyt",
-    "rahat",
-    "savas",
-    "secim",
-    "trump",
-    "vance",
-    "yuzun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f2668ba2a73b": {
-   "id": "f2668ba2a73b",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Kurum: Antalya'da güçlü bir mutabakat ortaya koymakta kararlıyız",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Biz, süreci izleyen değil, yön veren, uzlaşıyı bekleyen değil, uzlaşının zeminini inşa eden bir başkanlık anlayışıyla hareket ettik. Son güne kadar da böyle olacak.",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-kurum-antalyada-guclu-bir-mutabakat-ortaya-koymakta-kararliyiz-963730.html",
-   "zaman": "2026-11-18T23:26:00+03:00",
-   "kelimeler": [
-    "antal",
-    "bakan",
-    "guclu",
-    "karar",
-    "koyma",
-    "kurum",
-    "mutab",
-    "ortay"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "17bfcd063995": {
    "id": "17bfcd063995",
    "kaynak": "Hürriyet",
@@ -29387,7 +29344,10 @@
     "secim"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "0798e1d668c5": {
    "id": "0798e1d668c5",
@@ -29472,9 +29432,146 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f1038c1d1aa0"
+  },
+  "a4e001fa1753": {
+   "id": "a4e001fa1753",
+   "kaynak": "AA",
+   "baslik": "NATO Genel Sekreteri Rutte: NATO, Polonya topraklarının her santimetresini savunacak",
+   "ozet": "NATO Genel Sekreteri Mark Rutte, Polonya hava sahasının ihlal edilmesini \"tehlikeli\" olarak nitelendirerek, \"NATO, Polonya topraklarının her santimetresini savunacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-genel-sekreteri-rutte-nato-polonya-topraklarinin-her-santimetresini-savunacak/4133215",
+   "zaman": "2026-11-21T23:10:16+03:00",
+   "kelimeler": [
+    "genel",
+    "her",
+    "nato",
+    "polon",
+    "rutte",
+    "santi",
+    "savun",
+    "sekre",
+    "topra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0ce883c26e3b": {
+   "id": "0ce883c26e3b",
+   "kaynak": "AA",
+   "baslik": "ABD'de 3 Kasım'daki ara seçimlerin galibi Demokratlar, İran ile savaşın bitirilmesini öncelikli görüyor",
+   "ozet": "ABD'de 3 Kasım'daki ara seçimlerde Temsilciler Meclisi'nde çoğunluğu kazanan Demokratların Meclis Başkanlığı adayı Hakeem Jeffries, İran'la savaşı sona erdirmek için kararlılıkla hareket edeceklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-3-kasimdaki-ara-secimlerin-galibi-demokratlar-iran-ile-savasin-bitirilmesini-oncelikli-goruyor/4133216",
+   "zaman": "2026-11-21T23:10:54+03:00",
+   "kelimeler": [
+    "abd",
+    "ara",
+    "bitir",
+    "daki",
+    "demok",
+    "galib",
+    "goruy",
+    "iran",
+    "kasim",
+    "oncel",
+    "savas",
+    "secim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "0cacb3a10972"
+  },
+  "d35910cc510d": {
+   "id": "d35910cc510d",
+   "kaynak": "NTV",
+   "baslik": "Bakan Fidan'dan vize açıklaması: Birkaç konu Meclis'ten geçmesi gerekiyor",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968",
+   "zaman": "2026-11-21T23:20:44+03:00",
+   "kelimeler": [
+    "acikl",
+    "bakan",
+    "birka",
+    "dan",
+    "fidan",
+    "gecme",
+    "gerek",
+    "konu",
+    "mecli",
+    "ten",
+    "vize"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f10dd6c0654": {
+   "id": "2f10dd6c0654",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı İletişim Başkanı Duran'dan COP31 paylaşımı",
+   "ozet": "İletişim Başkanı Duran, \"Zirve boyunca yürüttüğümüz stratejik iletişim ve kamu diplomasisi faaliyetleri ile Türkiye'nin iklim vizyonunu uluslararası kamuoyuna aktarmaya, küresel farkındalığın güçlendirilmesine katkı sunduk.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-durandan-cop31-paylasimi/4133223",
+   "zaman": "2026-11-21T23:21:50+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "cumhu",
+    "dan",
+    "duran",
+    "ileti",
+    "payla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "0290e11e5154": {
+   "id": "0290e11e5154",
+   "kaynak": "Hürriyet",
+   "baslik": "Fren yerine gaza basan vale ciple restorana girdi",
+   "ozet": "İstanbul Başakşehir'de iddiaya göre vale, müşteriye ait cipi park etmeye çalışırken, fren yerine gaza basması sonucu restoranın içerisine girdi. Kazada şans eseri ölen ya da yaralanan olmazken, vale gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fren-yerine-gaza-basan-vale-ciple-restorana-girdi-43386556",
+   "zaman": "2026-11-21T23:23:36+03:00",
+   "kelimeler": [
+    "basan",
+    "ciple",
+    "fren",
+    "gaza",
+    "girdi",
+    "resto",
+    "vale",
+    "yerin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "62b348b39c4d": {
+   "id": "62b348b39c4d",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanlığı İletişim Başkanı Duran'dan COP31 paylaşımı: Küresel farkındalığın güçlendirilmesine katkı sunduk",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"İletişim Başkanlığı olarak biz de zirve boyunca yürüttüğümüz stratejik iletişim ve kamu diplomasisi faaliyetlerinin yanı sıra düzenlediğimiz paneller ve toplantılar ile Türkiye'nin iklim vizyonunu uluslararası kamuoyuna…",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskanligi-iletisim-baskani-durandan-cop31-paylasimi-kuresel-farkindaligin-guclendirilmesine-katki-sunduk-43386558",
+   "zaman": "2026-11-21T23:24:57+03:00",
+   "kelimeler": [
+    "baska",
+    "cop31",
+    "cumhu",
+    "dan",
+    "duran",
+    "farki",
+    "gucle",
+    "ileti",
+    "katki",
+    "kures",
+    "payla",
+    "sundu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2f10dd6c0654"
   }
  },
  "kayit": [
+  "21.11 23:31:25  4 yeni haber",
   "21.11 23:16:16  1 yeni haber",
   "21.11 23:01:24  6 yeni haber",
   "21.11 22:46:09  1 yeni haber",
@@ -29673,8 +29770,7 @@
   "19.11 21:15:57  2 yeni haber",
   "19.11 21:02:38  1 yeni haber",
   "19.11 20:45:58  1 yeni haber",
-  "19.11 20:39:14  1 yeni haber",
-  "19.11 20:31:11  2 yeni haber"
+  "19.11 20:39:14  1 yeni haber"
  ],
  "otomatik": false
 }
