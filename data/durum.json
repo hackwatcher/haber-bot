@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "e3becfa05365": {
-   "id": "e3becfa05365",
-   "kaynak": "Hürriyet",
-   "baslik": "Pilot Lisans Yönetmeliği'nde değişiklik",
-   "ozet": "Pilot Lisans Yönetmeliği'nde yapılan değişiklik kapsamında, pilot lisansı için başvuru yapacak adayların, 'göçmen kaçaklığı ve insan ticareti', 'cinsel dokunulmazlığa karşı' suçlar, 'uyuşturucu veya uyarıcı madde imal ve ticareti' gibi suçlardan hüküm giymemiş olması gerekecek.",
-   "link": "https://www.hurriyet.com.tr/gundem/pilot-lisans-yonetmeliginde-degisiklik-43383174",
-   "zaman": "2026-11-19T01:45:04+03:00",
-   "kelimeler": [
-    "degis",
-    "lisan",
-    "nde",
-    "pilot",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "c7129712881b": {
    "id": "c7129712881b",
    "kaynak": "Hürriyet",
@@ -53,30 +36,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "fbac895aa6ad": {
-   "id": "fbac895aa6ad",
-   "kaynak": "TRT Haber",
-   "baslik": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri içeren kanun teklifi, Komisyonda kabul edildi",
-   "ozet": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonunda kabul edildi.",
-   "link": "https://www.trthaber.com/haber/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi-963736.html",
-   "zaman": "2026-11-19T01:42:00+03:00",
-   "kelimeler": [
-    "duzen",
-    "edild",
-    "enerj",
-    "guven",
-    "icere",
-    "ilisk",
-    "kabul",
-    "kanun",
-    "komis",
-    "sosya",
-    "tekli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2446d9f66697"
   },
   "c5821a8fac10": {
    "id": "c5821a8fac10",
@@ -29348,9 +29307,37 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3b92194949f3": {
+   "id": "3b92194949f3",
+   "kaynak": "Sözcü",
+   "baslik": "Türkiye-İran sınırında korkutan deprem",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
+   "zaman": "2026-11-22T01:39:50+03:00",
+   "kelimeler": [
+    "depre",
+    "iran",
+    "korku",
+    "sinir",
+    "turki"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-22T01:48:10.904771+03:00",
+   "ig_id": "18234358462333539",
+   "reels_id": "18112464088922556",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1460531816215488",
+   "slayt": 5,
+   "kanca": "VAN SINIRINDA SARSINTI"
   }
  },
  "kayit": [
+  "22.11 01:48:10  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Türkiye-İran sınırında korkutan deprem",
+  "22.11 01:46:10  1 yeni haber",
   "22.11 01:31:12  1 yeni haber",
   "22.11 01:18:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şanlıurfa'da feci kaza: 2 kişi öldü, 5 kişi yaralandı",
   "22.11 01:15:59  1 yeni haber",
@@ -29548,9 +29535,7 @@
   "20.11 00:01:30  1 yeni haber",
   "19.11 23:46:01  4 yeni haber",
   "19.11 23:31:19  1 yeni haber",
-  "19.11 23:16:18  3 yeni haber",
-  "19.11 23:01:15  5 yeni haber",
-  "19.11 22:46:02  2 yeni haber"
+  "19.11 23:16:18  3 yeni haber"
  ],
  "otomatik": false
 }
