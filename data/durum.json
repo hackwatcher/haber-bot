@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "527ee43c3abd": {
-   "id": "527ee43c3abd",
-   "kaynak": "AA",
-   "baslik": "Kumluca açıklarında balina görüntülendi",
-   "ozet": "Antalya'nın Kumluca ilçesi açıklarında balina görüntülendi.",
-   "link": "https://www.aa.com.tr/tr/gundem/kumluca-aciklarinda-balina-goruntulendi/4129774",
-   "zaman": "2026-11-18T22:38:33+03:00",
-   "kelimeler": [
-    "acikl",
-    "balin",
-    "gorun",
-    "kumlu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8a08e502f86a": {
-   "id": "8a08e502f86a",
-   "kaynak": "TRT Haber",
-   "baslik": "Tokat'ta 2 otomobilin çarpıştığı kazada 2 yaşındaki çocuk öldü",
-   "ozet": "Tokat'ın Niksar ilçesinde iki otomobilin çarpışması sonucu 2 yaşındaki çocuk öldü, 6 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/tokatta-2-otomobilin-carpistigi-kazada-2-yasindaki-cocuk-oldu-963729.html",
-   "zaman": "2026-11-18T22:40:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "cocuk",
-    "kazad",
-    "otomo",
-    "ta",
-    "tokat",
-    "yasin"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ],
-   "paylasildi": "2026-11-19T01:34:04.875856+03:00",
-   "ig_id": "18097614611168305",
-   "reels_id": "18104524052548852",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1584152940062719",
-   "slayt": 5,
-   "kanca": "NİKSAR'DA OTOMOBİL ÇARPIŞMASI"
-  },
   "088b88d9b14a": {
    "id": "088b88d9b14a",
    "kaynak": "NTV",
@@ -29267,7 +29220,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "5c3439d8720c": {
@@ -29386,9 +29340,102 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f55ef369422d"
+  },
+  "231ff40f50ce": {
+   "id": "231ff40f50ce",
+   "kaynak": "Hürriyet",
+   "baslik": "Denizli’de mantardan 5 kişi hastanelik oldu, 1’i hayatını kaybetti",
+   "ozet": "DENİZLİ’nin Çivril ilçesinde ormandan topladıkları mantarı yiyen 5 kişiden Ali Çiğdem (71) kaldırıldığı hastanede hayatını kaybetti. Diğer 4 kişiden birinin durumunun ağır olduğu 3 kişinin ise tedbir amacıyla gözlem altında tutulduğu belirtildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/denizlide-mantardan-5-kisi-hastanelik-oldu-1i-hayatini-kaybetti-43386524",
+   "zaman": "2026-11-21T22:29:39+03:00",
+   "kelimeler": [
+    "deniz",
+    "hasta",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "manta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "349f8221cfb3": {
+   "id": "349f8221cfb3",
+   "kaynak": "Hürriyet",
+   "baslik": "'Hep Ucuz' reklamı pahalıya patladı…. Zincir markete rekor ceza kesildi",
+   "ozet": "TİCARET Bakanlığı Reklam Kurulu, 'Hep Ucuz' sloganıyla yayımladığı reklamların tüketicileri yanılttığı belirlenen bir zincir markete 1 milyon 83 bin 706 lira idari para cezası uygulanmasına ve reklamların durdurulmasına karar verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/hep-ucuz-reklami-pahaliya-patladi-zincir-markete-rekor-ceza-kesildi-43386525",
+   "zaman": "2026-11-21T22:32:05+03:00",
+   "kelimeler": [
+    "ceza",
+    "hep",
+    "kesil",
+    "marke",
+    "pahal",
+    "patla",
+    "rekla",
+    "rekor",
+    "ucuz",
+    "zinci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f55ef369422d"
+  },
+  "39d3faf7612d": {
+   "id": "39d3faf7612d",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Bolu Belediye Başkanı Tanju Özcan, adli kontrol şartıyla tahliye edildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30822",
+   "zaman": "2026-11-21T22:37:10+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Bolu Belediye Başkanı Tanju Özcan, adli kontrol şartıyla tahliye edildi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/ZyANrovfnXm8LYDRd5fag4vdgIFV_TwxbE_is6f4a3ISCNcV8Q2_2ViJkgGsJOD4Ax37JEVEXP1mhJf0Dc1EqOtwAmjsHMLB2GR1SFSYdnrKU1Qo604V7zAK7qjzTnKe0pW4eVva7V8MBa6rpA-lvHspNA7Pz1fye1azbbcUgw3j_FwxcOLSsxgbeqiZC3UjpzDPqwNZfz5yidGsLfT_XTrVZLZpo3R8hqe6kpr3OnDbwyAPezmWFgsVfxiBgM-mY_058IIt3abweBDYh2eYim6zgzpVLoZchQYl9QI6vp2j6zCsWdZIt8xExZWQ9rJxkzt_UuiOvhsUtnpZO8ngCA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "adli",
+    "baska",
+    "beled",
+    "bolu",
+    "edild",
+    "kontr",
+    "ozcan",
+    "sarti",
+    "sonda",
+    "tahli",
+    "tanju"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72d3b4afdfec"
+  },
+  "c3f1f42b9a47": {
+   "id": "c3f1f42b9a47",
+   "kaynak": "NTV",
+   "baslik": "Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 21 Kasım 2026",
+   "ozet": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 21 Kasım 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-21-kasim-2026-1751966",
+   "zaman": "2026-11-21T22:40:00+03:00",
+   "kelimeler": [
+    "2026",
+    "21",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9a1090d76bc9"
   }
  },
  "kayit": [
+  "21.11 22:46:09  1 yeni haber",
   "21.11 22:31:18  1 yeni haber",
   "21.11 22:15:55  3 yeni haber",
   "21.11 22:01:15  3 yeni haber",
@@ -29587,8 +29634,7 @@
   "19.11 20:39:14  1 yeni haber",
   "19.11 20:31:11  2 yeni haber",
   "19.11 20:16:10  1 yeni haber",
-  "19.11 20:10:46  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · AK Parti Sözcüsü Ömer Çelik'ten KIZILELMA'nın envantere girmesine iliş",
-  "19.11 20:09:42  9 yeni haber"
+  "19.11 20:10:46  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · AK Parti Sözcüsü Ömer Çelik'ten KIZILELMA'nın envantere girmesine iliş"
  ],
  "otomatik": false
 }
