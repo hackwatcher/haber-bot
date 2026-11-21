@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "06ecd9a9be06": {
-   "id": "06ecd9a9be06",
-   "kaynak": "NTV",
-   "baslik": "Altay bebeğin zehirlenerek ölümünde iki sanığa hapis cezası",
-   "ozet": "İzmir'de 1 yaşındaki Altay Toprak'ın ilaçlama sonrası ölümüne ilişkin davada şirket sahibi ve ilaçlamaya yardımcı olan kişiye hapis cezası verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/altay-bebegin-zehirlenerek-olumunde-iki-saniga-hapis-cezasi-1751507",
-   "zaman": "2026-11-18T20:58:44+03:00",
-   "kelimeler": [
-    "altay",
-    "bebeg",
-    "cezas",
-    "hapis",
-    "iki",
-    "olumu",
-    "sanig",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a7b5c20fd8f5": {
    "id": "a7b5c20fd8f5",
    "kaynak": "Hürriyet",
@@ -218,31 +198,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a7b5c20fd8f5"
-  },
-  "96a4571e17a4": {
-   "id": "96a4571e17a4",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: Ortak hareket kabiliyeti yüksek bir Türk iş ekosistemi inşa etmeliyiz",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bireysel başarı hikayelerinin ötesine geçerek, Özbekistan'da birbirini besleyen, ölçek ekonomisi oluşturan ve ortak hareket kabiliyeti yüksek bir Türk iş ekosistemi inşa etmemiz gerekmektedir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-ortak-hareket-kabiliyeti-yuksek-bir-turk-is-ekosistemi-insa-etmeliyiz/4129696",
-   "zaman": "2026-11-18T20:46:53+03:00",
-   "kelimeler": [
-    "cumhu",
-    "ekosi",
-    "etmel",
-    "harek",
-    "insa",
-    "is",
-    "kabil",
-    "ortak",
-    "turk",
-    "yardi",
-    "yilma",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea09f29585fc"
   },
   "9cd857092a78": {
    "id": "9cd857092a78",
@@ -14669,7 +14624,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "6abb406280a7": {
    "id": "6abb406280a7",
@@ -29180,9 +29138,79 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "72d3b4afdfec": {
+   "id": "72d3b4afdfec",
+   "kaynak": "Sözcü",
+   "baslik": "Tanju Özcan'a adli kontrol şartı ile tahliye",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/tanju-ozcan-a-adli-kontrol-sarti-ile-tahliye-p383301",
+   "zaman": "2026-11-21T20:48:30+03:00",
+   "kelimeler": [
+    "adli",
+    "kontr",
+    "ozcan",
+    "sarti",
+    "tahli",
+    "tanju"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
+  },
+  "dca6983004cc": {
+   "id": "dca6983004cc",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Bolu Belediye Başkanı Tanju Özcan, adli kontrol şartıyla tahliye edildi.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30820",
+   "zaman": "2026-11-21T20:50:04+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Bolu Belediye Başkanı Tanju Özcan, adli kontrol şartıyla tahliye edildi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/mlIKqbyIAD57oGT8Pu-T0l9v4x179EQV8MBu5KBMLEDQqdJVgCN_NJG1BcvyLHIDyApXZ5yNMgdLNfRqhnE7kHsltUiM_1ma7Tbo8Y-ZIn-SaheNzjGHlSilO-ERK-ZNKKgCV6IOBJz_9RlSw5EXvtePpOArMD1gt4t06cDyGiqxjomtChJa3t-1VTeGcw6cGH4C5w97vyEEBzVMm_vpLJKTcAaF4UIStINkK-oR5UQHLF6gzteKcIOqHvO6e23b0WerFC9p4TbBhKl1ltonzk0rNSbNkA_L2pyozK5-KcDGe9vpvTWCjaYvE5k1DvGV47EgSxbYFPBRWNqM4yaBSw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "adli",
+    "baska",
+    "beled",
+    "bolu",
+    "edild",
+    "kontr",
+    "ozcan",
+    "sarti",
+    "sonda",
+    "tahli",
+    "tanju"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72d3b4afdfec"
+  },
+  "c55cada876e4": {
+   "id": "c55cada876e4",
+   "kaynak": "XHABER",
+   "baslik": "MS | Kocaelispor 2 - 2 Fenerbahçe",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30821",
+   "zaman": "2026-11-21T20:55:39+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "MS | Kocaelispor 2 - 2 Fenerbahçe",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/BkiJ265Nw9FQh4Pe4ixlglakqVnGTGkZUaze5gS6NXJlvGQpB7DKDeLg0V_b51zLN0I8nVTL_Im5bE5rh7VPH44Z9x7okMdJVaJndGxXGREhHGgnzWimGkquqJiesy_KQ-t_rxtOvQIc57ZFRTEQHkGrMRgbSfgmU29mv50lVGRAjntpzDEQ7BEKfoYirqEyrU3Jm_IStRyw_8wIbiKkZ96zWJXzOvxY6aYMF6XdjiaGkoW9-HRk6oowsSzla7ZZq7jmqQAG9LTlKz7o9szHuluOoRzbbvmNMOSxJ768QhBLbhvNkQE5TPbzyMiszR9a5rDShL_-Ukc-qVRgWRvqSg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "fener",
+    "kocae",
+    "ms"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c1baafbe2acd"
   }
  },
  "kayit": [
+  "21.11 21:01:15  1 yeni haber",
   "21.11 20:45:56  2 yeni haber",
   "21.11 20:31:11  1 yeni haber",
   "21.11 20:15:59  3 yeni haber",
@@ -29381,8 +29409,7 @@
   "19.11 18:54:30  5 yeni haber",
   "19.11 18:54:30  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "19.11 18:36:12  3 yeni haber",
-  "19.11 18:23:36  7 yeni haber",
-  "19.11 18:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Mahalleli deprem oluyor zannetti: \"Geldiğimde ortalık savaş alanı gibi"
+  "19.11 18:23:36  7 yeni haber"
  ],
  "otomatik": false
 }
