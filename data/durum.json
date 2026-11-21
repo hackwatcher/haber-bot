@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "ee3b6daf6120": {
-   "id": "ee3b6daf6120",
-   "kaynak": "NTV",
-   "baslik": "İstanbul'da fırtına alarmı. Saat verildi, hızı 60 kilometreye kadar çıkacak",
-   "ozet": "Yurdun batı bölgesinde şiddetli lodos etkili. Bugün İstanbul dahil 12 il için sarı kod verilirken lodosun hızının saatte 60 kilometre hıza çıkması bekleniyor.",
-   "link": "https://www.ntv.com.tr/turkiye/istanbulda-firtina-alarmi-hizi-60-kilometreye-kadar-cikacak-1751363",
-   "zaman": "2026-11-18T03:39:30+03:00",
-   "kelimeler": [
-    "60",
-    "alarm",
-    "cikac",
-    "firti",
-    "hizi",
-    "istan",
-    "kilom",
-    "saat",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "1d856189dde2": {
-   "id": "1d856189dde2",
-   "kaynak": "TRT Haber",
-   "baslik": "Kayseri'de zincirleme trafik kazası: 2 yaralı",
-   "ozet": "Kayseri'nin Melikgazi ilçesinde 4 aracın karıştığı zincirleme trafik kazasında 2 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/kayseride-zincirleme-trafik-kazasi-2-yarali-963617.html",
-   "zaman": "2026-11-18T03:44:00+03:00",
-   "kelimeler": [
-    "kayse",
-    "kazas",
-    "trafi",
-    "yaral",
-    "zinci"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "bccf76a80fa5": {
    "id": "bccf76a80fa5",
    "kaynak": "NTV",
@@ -33004,9 +32963,32 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "1865d72bb4a2"
+  },
+  "3184c5aeeb3e": {
+   "id": "3184c5aeeb3e",
+   "kaynak": "AA",
+   "baslik": "Almanya'da hükümet politikalarını protesto eden göstericilerle polis arasında arbede çıktı",
+   "ozet": "Almanya'da hükümetin zorunlu askerlik planlarının ve sosyal harcamalardaki kesintilerin protesto edildiği gösterilerde polisle göstericiler arasında arbede yaşandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-hukumet-politikalarini-protesto-eden-gostericilerle-polis-arasinda-arbede-cikti/4132649",
+   "zaman": "2026-11-21T03:38:44+03:00",
+   "kelimeler": [
+    "alman",
+    "arasi",
+    "arbed",
+    "cikti",
+    "eden",
+    "goste",
+    "hukum",
+    "polis",
+    "polit",
+    "prote"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 03:46:15  1 yeni haber",
   "21.11 03:31:31  3 yeni haber",
   "21.11 03:01:27  3 yeni haber",
   "21.11 02:46:10  2 yeni haber",
@@ -33205,8 +33187,7 @@
   "18.11 21:01:26  1 yeni haber",
   "18.11 20:49:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Antalya Büyükşehir Belediye Başkan Vekili Özdemir, CHP’den istifa etti",
   "18.11 20:46:12  6 yeni haber",
-  "18.11 19:46:10  5 yeni haber",
-  "18.11 19:31:17  5 yeni haber"
+  "18.11 19:46:10  5 yeni haber"
  ],
  "otomatik": false
 }
