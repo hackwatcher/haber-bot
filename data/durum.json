@@ -23372,7 +23372,10 @@
     "peru"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "11134131514a": {
    "id": "11134131514a",
@@ -29290,9 +29293,73 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "801f8f0d1e58"
+  },
+  "bf30d99854b2": {
+   "id": "bf30d99854b2",
+   "kaynak": "AA",
+   "baslik": "MotoGP Portekiz Grand Prix'sinde sprint yarışını Marco Bezzecchi kazandı",
+   "ozet": "MotoGP Dünya Şampiyonası'nda sezonun 21. etabı olan Portekiz Grand Prix'sinin sprint yarışını Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
+   "link": "https://www.aa.com.tr/tr/spor/motogp-portekiz-grand-prixsinde-sprint-yarisini-marco-bezzecchi-kazandi/4133093",
+   "zaman": "2026-11-21T19:14:06+03:00",
+   "kelimeler": [
+    "bezze",
+    "grand",
+    "kazan",
+    "marco",
+    "motog",
+    "porte",
+    "prix",
+    "sinde",
+    "sprin",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "d1b194a4b2db": {
+   "id": "d1b194a4b2db",
+   "kaynak": "TRT Haber",
+   "baslik": "Peru'da meydana gelen 6,7 büyüklüğündeki depremde 15 kişi yaralandı",
+   "ozet": "Peru'nun And Dağları'ndaki Junin bölgesinde meydana gelen 6,7 büyüklüğündeki depremde 15 kişi yaralandı, pek çok konutta hasar oluştu.",
+   "link": "https://www.trthaber.com/haber/dunya/peruda-meydana-gelen-67-buyuklugundeki-depremde-15-kisi-yaralandi-964090.html",
+   "zaman": "2026-11-21T21:10:00+03:00",
+   "kelimeler": [
+    "15",
+    "buyuk",
+    "depre",
+    "gelen",
+    "kisi",
+    "meyda",
+    "peru",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6a7762f445d5"
+  },
+  "874fd58513a4": {
+   "id": "874fd58513a4",
+   "kaynak": "TRT Haber",
+   "baslik": "İETT otobüsünde bıçakla yolcuları tehdit eden zanlı yakalandı",
+   "ozet": "Beykoz'da seyir halindeki İETT otobüsünde bıçakla yolcuları tehdit eden şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/iett-otobusunde-bicakla-yolculari-tehdit-eden-zanli-yakalandi-964089.html",
+   "zaman": "2026-11-21T21:13:00+03:00",
+   "kelimeler": [
+    "bicak",
+    "eden",
+    "iett",
+    "otobu",
+    "tehdi",
+    "yakal",
+    "yolcu",
+    "zanli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 21:31:07  2 yeni haber",
   "21.11 21:15:57  3 yeni haber",
   "21.11 21:01:15  1 yeni haber",
   "21.11 20:45:56  2 yeni haber",
@@ -29491,8 +29558,7 @@
   "19.11 19:36:48  4 yeni haber",
   "19.11 19:16:16  6 yeni haber",
   "19.11 18:54:30  5 yeni haber",
-  "19.11 18:54:30  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "19.11 18:36:12  3 yeni haber"
+  "19.11 18:54:30  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
