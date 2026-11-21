@@ -1,144 +1,5 @@
 {
  "haberler": {
-  "3f4d449870a8": {
-   "id": "3f4d449870a8",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel piyasalar Fed'e odaklandı",
-   "ozet": "Küresel piyasalar, ABD'li çip devi Nvidia'nın beklentileri aşan finansal sonuçları ve gelecek döneme ilişkin iyimser öngörülerinin desteğiyle toparlanma eğilimine girerken, ABD Merkez Bankasının Fed bugün açıklanacak toplantı tutanakları yatırımcıların odağına yerleşti.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-fede-odaklandi-963639.html",
-   "zaman": "2026-11-18T09:21:00+03:00",
-   "kelimeler": [
-    "fed",
-    "kures",
-    "odakl",
-    "piyas"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d1410e0c3837"
-  },
-  "6a2132a1ce31": {
-   "id": "6a2132a1ce31",
-   "kaynak": "Hürriyet",
-   "baslik": "12 ilde 2,5 milyar TL’lik yasa dışı bahis operasyonu: 22 gözaltı",
-   "ozet": "Denizli’den 12 ile uzanan yasa dışı bahis soruşturmasında, internet üzerinden kumar oynatıp suç geliri akladığı iddia edilen 25 şüpheli tespit edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/12-ilde-2-5-milyar-tllik-yasa-disi-bahis-operasyonu-22-gozalti-43381974",
-   "zaman": "2026-11-18T09:22:35+03:00",
-   "kelimeler": [
-    "12",
-    "22",
-    "bahis",
-    "disi",
-    "gozal",
-    "ilde",
-    "lik",
-    "milya",
-    "opera",
-    "tl",
-    "yasa"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c6cacecf12a9"
-  },
-  "a49baa85483c": {
-   "id": "a49baa85483c",
-   "kaynak": "TRT Haber",
-   "baslik": "İran ordusu: Kuveyt'teki hava üssünde bulunan ABD'ye ait patriot sistemlerini vurduk",
-   "ozet": "İran ordusu, Kuveyt'teki Ali esSalim Hava Üssü'ne insansız hava aracı İHA saldırısı düzenlediğini ve burada bulunan ABD'ye ait patriot sistemleri ile İHA fırlatma rampalarının hedef alındığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-kuveytteki-hava-ussunde-bulunan-abdye-ait-patriot-sistemlerini-vurduk-963640.html",
-   "zaman": "2026-11-18T09:23:00+03:00",
-   "kelimeler": [
-    "abd",
-    "ait",
-    "bulun",
-    "hava",
-    "iran",
-    "kuvey",
-    "ordus",
-    "patri",
-    "siste",
-    "teki",
-    "ussun",
-    "vurdu",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4801c2c1156e"
-  },
-  "e64ae0756d4b": {
-   "id": "e64ae0756d4b",
-   "kaynak": "AA",
-   "baslik": "Rubio, ABD'deki teknik aksaklıkların siber saldırılarla bağlantılı olduğuna dair kanıt bulunmadığını söyledi",
-   "ozet": "ABD Dışişleri Bakanı Rubio, Microsoft sistemleri, Federal Havacılık İdaresi (FAA) ve bankalarda yaşanan teknik aksaklıkların birbiriyle bağlantılı olduğuna veya siber saldırılardan kaynaklandığına ilişkin bir kanıt bulunmadığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/rubio-abddeki-teknik-aksakliklarin-siber-saldirilarla-baglantili-olduguna-dair-kanit-bulunmadigini-soyledi/4128536",
-   "zaman": "2026-11-18T09:26:23+03:00",
-   "kelimeler": [
-    "abd",
-    "aksak",
-    "bagla",
-    "bulun",
-    "dair",
-    "deki",
-    "kanit",
-    "oldug",
-    "rubio",
-    "saldi",
-    "siber",
-    "soyle",
-    "tekni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "9ae81c3ea9db": {
-   "id": "9ae81c3ea9db",
-   "kaynak": "Hürriyet",
-   "baslik": "Ticaret Bakanlığı açıkladı: Kapıkule’de 140 kilo 970 gram kokain ele geçirildi",
-   "ozet": "Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, Edirne Kapıkule’de piyasa değeri yaklaşık 550 milyon TL olan 140 kilo 970 gram kokain ele geçirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/ticaret-bakanligi-acikladi-kapikulede-140-kilo-970-gram-kokain-ele-gecirildi-43381990",
-   "zaman": "2026-11-18T09:29:11+03:00",
-   "kelimeler": [
-    "140",
-    "970",
-    "bakan",
-    "ele",
-    "gecir",
-    "gram",
-    "kapik",
-    "kilo",
-    "kokai",
-    "ticar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "40344a82e4b1": {
-   "id": "40344a82e4b1",
-   "kaynak": "AA",
-   "baslik": "Yapay zeka yardımıyla Java yazılımında ciddi güvenlik açığı tespit edildi",
-   "ozet": "ABD merkezli siber güvenlik şirketi Calif, yapay zeka yardımıyla dünya genelinde yaygın olarak kullanılan Java programlama dilinde ciddi güvenlik açığı tespit ettiğini duyurdu.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zeka-yardimiyla-java-yaziliminda-ciddi-guvenlik-acigi-tespit-edildi/4128540",
-   "zaman": "2026-11-18T09:31:02+03:00",
-   "kelimeler": [
-    "acigi",
-    "ciddi",
-    "edild",
-    "guven",
-    "java",
-    "tespi",
-    "yapay",
-    "yardi",
-    "yazil",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e355a4d47bab": {
    "id": "e355a4d47bab",
    "kaynak": "XHABER",
@@ -165,53 +26,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "787c1d12330e": {
-   "id": "787c1d12330e",
-   "kaynak": "TRT Haber",
-   "baslik": "Çocuklara insani yardımın engellenmesi 10 yılda 16 kat arttı",
-   "ozet": "Save the Children'a göre, çatışma bölgelerinde çocuklara insani yardımın engellenmesi 10 yılda 16 kat artarken, vakaların çoğu İsraili'in soykırım uyguladığı Filistin'de kaydedildi.",
-   "link": "https://www.trthaber.com/haber/dunya/cocuklara-insani-yardimin-engellenmesi-10-yilda-16-kat-artti-963645.html",
-   "zaman": "2026-11-18T09:27:00+03:00",
-   "kelimeler": [
-    "10",
-    "16",
-    "artti",
-    "cocuk",
-    "engel",
-    "insan",
-    "kat",
-    "yardi",
-    "yilda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "23157add436d": {
-   "id": "23157add436d",
-   "kaynak": "TRT Haber",
-   "baslik": "Rubio, ABD'deki teknik aksaklıkların siber saldırılarla bağlantılı olduğuna dair kanıt bulunmadığını söyledi",
-   "ozet": "ABD Dışişleri Bakanı Marco Rubio, son günlerde Microsoft sistemleri, Federal Havacılık İdaresi FAA ve bankalarda yaşanan teknik aksaklıkların birbiriyle bağlantılı olduğuna veya siber saldırılardan kaynaklandığına ilişkin herhangi bir kanıt bulunmadığını belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/rubio-abddeki-teknik-aksakliklarin-siber-saldirilarla-baglantili-olduguna-dair-kanit-bulunmadigini-soyledi-963641.html",
-   "zaman": "2026-11-18T09:30:00+03:00",
-   "kelimeler": [
-    "abd",
-    "aksak",
-    "bagla",
-    "bulun",
-    "dair",
-    "deki",
-    "kanit",
-    "oldug",
-    "rubio",
-    "saldi",
-    "siber",
-    "soyle",
-    "tekni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e64ae0756d4b"
   },
   "62f3c2331add": {
    "id": "62f3c2331add",
@@ -32508,10 +32322,58 @@
     "yonel"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "f29adb07f967": {
+   "id": "f29adb07f967",
+   "kaynak": "TRT Haber",
+   "baslik": "21 il için sarı uyarı: Kuvvetli yağışa dikkat",
+   "ozet": "Doğu Akdeniz ile doğu bölgelerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
+   "link": "https://www.trthaber.com/haber/gundem/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-964030.html",
+   "zaman": "2026-11-21T09:09:00+03:00",
+   "kelimeler": [
+    "21",
+    "dikka",
+    "il",
+    "kuvve",
+    "sari",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "00400964310a": {
+   "id": "00400964310a",
+   "kaynak": "TRT Haber",
+   "baslik": "CNN: FBI, Ulusal Suç Bilgi Merkezi veritabanına yönelik olası güvenlik ihlalini soruşturuyor",
+   "ozet": "ABD Federal Soruşturma Bürosunun FBI, federal, eyalet ve yerel kolluk kuvvetleri arasında önemli bir bağlantı görevi gören suç bilgileri veritabanında meydana gelen bir güvenlik ihlalini soruşturduğu öne sürüldü.",
+   "link": "https://www.trthaber.com/haber/dunya/cnn-fbi-ulusal-suc-bilgi-merkezi-veritabanina-yonelik-olasi-guvenlik-ihlalini-sorusturuyor-964031.html",
+   "zaman": "2026-11-21T09:15:00+03:00",
+   "kelimeler": [
+    "bilgi",
+    "cnn",
+    "fbi",
+    "guven",
+    "ihlal",
+    "merke",
+    "olasi",
+    "sorus",
+    "suc",
+    "ulusa",
+    "verit",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a6d0d79c099f"
   }
  },
  "kayit": [
+  "21.11 09:31:08  1 yeni haber",
   "21.11 09:16:05  2 yeni haber",
   "21.11 09:01:16  3 yeni haber",
   "21.11 08:48:27  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Diyarbakır'da uyuşturucu operasyonu: 20 şüpheli tutuklandı",
@@ -32710,8 +32572,7 @@
   "19.11 03:31:16  1 yeni haber",
   "19.11 03:16:27  3 yeni haber",
   "19.11 03:16:27  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "19.11 02:46:08  1 yeni haber",
-  "19.11 02:31:20  2 yeni haber"
+  "19.11 02:46:08  1 yeni haber"
  ],
  "otomatik": false
 }
