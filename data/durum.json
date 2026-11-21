@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "2446d9f66697": {
-   "id": "2446d9f66697",
-   "kaynak": "AA",
-   "baslik": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi, Komisyonda kabul edildi",
-   "ozet": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonunda kabul edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi/4129887",
-   "zaman": "2026-11-19T01:20:58+03:00",
-   "kelimeler": [
-    "duzen",
-    "edild",
-    "enerj",
-    "guven",
-    "icere",
-    "ilisk",
-    "kabul",
-    "kanun",
-    "komis",
-    "sosya",
-    "tekli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "Hürriyet"
-   ]
-  },
   "e3becfa05365": {
    "id": "e3becfa05365",
    "kaynak": "Hürriyet",
@@ -16963,7 +16936,8 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "de73e2cfbcf8": {
    "id": "de73e2cfbcf8",
@@ -29331,6 +29305,23 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "510f92a0a3f8": {
+   "id": "510f92a0a3f8",
+   "kaynak": "AA",
+   "baslik": "Bazı illerde sağanak etkili oldu",
+   "ozet": "Bilecik, Erzurum, Ardahan ve Trabzon'un bazı ilçelerinde sağanak yaşamı olumsuz etkiledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-etkili-oldu/4133261",
+   "zaman": "2026-11-22T00:29:09+03:00",
+   "kelimeler": [
+    "bazi",
+    "etkil",
+    "iller",
+    "sagan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d6a3ea2b8871"
   }
  },
  "kayit": [
