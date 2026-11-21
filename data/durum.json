@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "bccf76a80fa5": {
-   "id": "bccf76a80fa5",
-   "kaynak": "NTV",
-   "baslik": "Marmara'da fırtına. BUDO'nun 12 seferi iptal edildi",
-   "ozet": "Bursa Deniz Otobüsleri (BUDO) işletmesinden yapılan bilgilendirmede olumsuz hava koşulları sebebiyle 12 seferin iptal edildiği belirtildi.",
-   "link": "https://www.ntv.com.tr/turkiye/marmarada-firtina-budonun-12-seferi-iptal-edildi-1751364",
-   "zaman": "2026-11-18T04:00:21+03:00",
-   "kelimeler": [
-    "12",
-    "budo",
-    "edild",
-    "firti",
-    "iptal",
-    "marma",
-    "nun",
-    "sefer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3408db6ee7f4"
-  },
-  "d2a5d633566f": {
-   "id": "d2a5d633566f",
-   "kaynak": "TRT Haber",
-   "baslik": "BUDO'nun 12 seferi iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin BUDO bugün gerçekleştirilecek 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/budonun-12-seferi-iptal-edildi-963618.html",
-   "zaman": "2026-11-18T03:51:00+03:00",
-   "kelimeler": [
-    "12",
-    "budo",
-    "edild",
-    "iptal",
-    "nun",
-    "sefer"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3408db6ee7f4"
-  },
   "de714d7daa23": {
    "id": "de714d7daa23",
    "kaynak": "Hürriyet",
@@ -25781,7 +25741,10 @@
     "nin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "040d38631625": {
    "id": "040d38631625",
@@ -32985,9 +32948,46 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "419147bb7b17": {
+   "id": "419147bb7b17",
+   "kaynak": "TRT Haber",
+   "baslik": "Kütahya'da otomobil yol kenarında bekleyen tıra çarptı: 4 yaralı",
+   "ozet": "Kütahya'da yol kenarında bekleyen mermer yüklü tıra çarpan otomobildeki 4 kişi yaralandı. Yaralılardan 2'sinin hayati tehlikesinin bulunduğu öğrenildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/kutahyada-otomobil-yol-kenarinda-bekleyen-tira-carpti-4-yarali-964024.html",
+   "zaman": "2026-11-21T03:22:00+03:00",
+   "kelimeler": [
+    "bekle",
+    "carpt",
+    "kenar",
+    "kutah",
+    "otomo",
+    "tira",
+    "yaral",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6e920bd8b437": {
+   "id": "6e920bd8b437",
+   "kaynak": "AA",
+   "baslik": "Peru'da 6,7 büyüklüğünde deprem",
+   "ozet": "Peru'nun Junin bölgesinde 6,7 büyüklüğünde deprem meydana geldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/peruda-6-7-buyuklugunde-deprem/4132654",
+   "zaman": "2026-11-21T03:57:06+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "peru"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c28c006a32a4"
   }
  },
  "kayit": [
+  "21.11 04:01:20  1 yeni haber",
   "21.11 03:46:15  1 yeni haber",
   "21.11 03:31:31  3 yeni haber",
   "21.11 03:01:27  3 yeni haber",
@@ -33186,8 +33186,7 @@
   "18.11 22:01:26  7 yeni haber",
   "18.11 21:01:26  1 yeni haber",
   "18.11 20:49:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Antalya Büyükşehir Belediye Başkan Vekili Özdemir, CHP’den istifa etti",
-  "18.11 20:46:12  6 yeni haber",
-  "18.11 19:46:10  5 yeni haber"
+  "18.11 20:46:12  6 yeni haber"
  ],
  "otomatik": false
 }
