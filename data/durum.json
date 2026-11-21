@@ -1,117 +1,5 @@
 {
  "haberler": {
-  "19060347e9cb": {
-   "id": "19060347e9cb",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Fidan, BAE'li mevkidaşı Al Nahyan ile telefonda görüştü",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, BAE Dışişleri Bakanı Şeyh Abdullah Bin Zayed Al Nahyan ile telefon görüşmesi gerçekleştirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-fidan-baeli-mevkidasi-al-nahyan-ile-telefonda-gorustu-43383076",
-   "zaman": "2026-11-18T22:16:00+03:00",
-   "kelimeler": [
-    "al",
-    "bae",
-    "bakan",
-    "fidan",
-    "gorus",
-    "li",
-    "mevki",
-    "nahya",
-    "telef"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2e175dac7048"
-  },
-  "4ff1a5007209": {
-   "id": "4ff1a5007209",
-   "kaynak": "Hürriyet",
-   "baslik": "Fon soruşturması: Taha Çakmak ve Emre Tezmen ek ifade verdi",
-   "ozet": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında tutuklanan Taha Çakmak ve Emre Tezmen ek ifade vermek için adliyeye getirildi. İfade işlemleri tamamlanan Çakmak ve Tezmen cezaevine götürüldü.",
-   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-taha-cakmak-ve-emre-tezmen-ek-ifade-verdi-43383074",
-   "zaman": "2026-11-18T22:16:08+03:00",
-   "kelimeler": [
-    "cakma",
-    "ek",
-    "emre",
-    "fon",
-    "ifade",
-    "sorus",
-    "taha",
-    "tezme",
-    "verdi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fe7d6582748d": {
-   "id": "fe7d6582748d",
-   "kaynak": "AA",
-   "baslik": "Karadeniz için fırtına uyarısı",
-   "ozet": "Karadeniz'de yarın fırtına bekleniyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/karadeniz-icin-firtina-uyarisi/4129765",
-   "zaman": "2026-11-18T22:21:34+03:00",
-   "kelimeler": [
-    "firti",
-    "karad",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d281d1cf69c1"
-  },
-  "e2335d1ac669": {
-   "id": "e2335d1ac669",
-   "kaynak": "NTV",
-   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 18 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1751512",
-   "zaman": "2026-11-18T22:27:19+03:00",
-   "kelimeler": [
-    "18",
-    "bilet",
-    "ekran",
-    "hizli",
-    "kasim",
-    "mpi",
-    "sans",
-    "sonuc",
-    "sorgu",
-    "tikla",
-    "topu"
-   ],
-   "durum": "engelli",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
-  "74d88d00ec05": {
-   "id": "74d88d00ec05",
-   "kaynak": "NTV",
-   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 18 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1751513",
-   "zaman": "2026-11-18T22:30:16+03:00",
-   "kelimeler": [
-    "18",
-    "2026",
-    "acikl",
-    "bilet",
-    "buldu",
-    "cilgi",
-    "dev",
-    "ekran",
-    "ikram",
-    "kasim",
-    "loto",
-    "mpi",
-    "sahib",
-    "sayis",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e2335d1ac669"
-  },
   "527ee43c3abd": {
    "id": "527ee43c3abd",
    "kaynak": "AA",
@@ -29377,7 +29265,10 @@
     "zinci"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "5c3439d8720c": {
    "id": "5c3439d8720c",
@@ -29421,9 +29312,84 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d7d61e924571": {
+   "id": "d7d61e924571",
+   "kaynak": "AA",
+   "baslik": "AK Parti Genel Sekreteri İnan, partisinin Karşıyaka Genişletilmiş İlçe Danışma Meclisi Toplantısı'nda konuştu",
+   "ozet": "AK Parti Genel Sekreteri İnan, \"Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddialarına karşısında hesap vermek yerine korkakça dokunulmazlık zırhının arkasına saklanıyorlar.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-sekreteri-inan-partisinin-karsiyaka-genisletilmis-ilce-danisma-meclisi-toplantisinda-konustu/4133105",
+   "zaman": "2026-11-21T19:40:07+03:00",
+   "kelimeler": [
+    "ak",
+    "danis",
+    "genel",
+    "genis",
+    "ilce",
+    "inan",
+    "karsi",
+    "konus",
+    "mecli",
+    "nda",
+    "parti",
+    "sekre",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3cf31999b613": {
+   "id": "3cf31999b613",
+   "kaynak": "NTV",
+   "baslik": "İETT otobüsünde yolcuları bıçakla tehdit etti: Alkollü yolcu gözaltına alındı",
+   "ozet": "Beykoz'da seyir halindeki İETT otobüsünde bıçakla yolcuları tehdit eden şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/iett-otobusunde-yolculari-bicakla-tehdit-etti-alkollu-yolcu-gozaltina-alindi-1751962",
+   "zaman": "2026-11-21T22:17:44+03:00",
+   "kelimeler": [
+    "alind",
+    "alkol",
+    "bicak",
+    "etti",
+    "gozal",
+    "iett",
+    "otobu",
+    "tehdi",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "874fd58513a4"
+  },
+  "92982c280020": {
+   "id": "92982c280020",
+   "kaynak": "NTV",
+   "baslik": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
+   "ozet": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi.",
+   "link": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
+   "zaman": "2026-11-21T22:28:33+03:00",
+   "kelimeler": [
+    "83",
+    "bakan",
+    "bin",
+    "ceza",
+    "dogru",
+    "hep",
+    "iddia",
+    "lira",
+    "milyo",
+    "ndan",
+    "rekla",
+    "ticar",
+    "ucuz",
+    "yanil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f55ef369422d"
   }
  },
  "kayit": [
+  "21.11 22:31:18  1 yeni haber",
   "21.11 22:15:55  3 yeni haber",
   "21.11 22:01:15  3 yeni haber",
   "21.11 21:46:01  2 yeni haber",
@@ -29622,8 +29588,7 @@
   "19.11 20:31:11  2 yeni haber",
   "19.11 20:16:10  1 yeni haber",
   "19.11 20:10:46  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · AK Parti Sözcüsü Ömer Çelik'ten KIZILELMA'nın envantere girmesine iliş",
-  "19.11 20:09:42  9 yeni haber",
-  "19.11 19:36:48  4 yeni haber"
+  "19.11 20:09:42  9 yeni haber"
  ],
  "otomatik": false
 }
