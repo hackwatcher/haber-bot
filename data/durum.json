@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "d3e9736d8fb8": {
-   "id": "d3e9736d8fb8",
-   "kaynak": "TRT Haber",
-   "baslik": "Eli kanlı İsrail askerleri, Gazzede ateşkes kapsamında çekildikleri bölgelere yeniden girdi",
-   "ozet": "Katil İsrail askerleri, Gazze Şeridinin orta kesiminde Sarı Hattın batısında, ateşkes anlaşması kapsamında daha önce çekildikleri bölgelere girerek saldırı başlattı.",
-   "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israil-askerleri-gazzede-ateskes-kapsaminda-cekildikleri-bolgelere-yeniden-girdi-963733.html",
-   "zaman": "2026-11-18T23:49:00+03:00",
-   "kelimeler": [
-    "asker",
-    "atesk",
-    "bolge",
-    "cekil",
-    "eli",
-    "gazze",
-    "girdi",
-    "israi",
-    "kanli",
-    "kapsa",
-    "yenid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "74569c85bf0f"
-  },
-  "e37a3aa1498a": {
-   "id": "e37a3aa1498a",
-   "kaynak": "AA",
-   "baslik": "Bakan Güler: F-16, F-35, Eurofighter ve C-130J tedarik çalışmalarımız planlı şekilde sürdürülmektedir",
-   "ozet": "Bakan Güler, \"Yerli imkan ve kabiliyetlerimiz ihtiyaç duyulan seviyeye ve miktara ulaşıncaya kadar mevcut hava gücümüzün korunması amacıyla F-16, F-35, Eurofighter ve C-130J tedarik çalışmalarımız planlı şekilde sürdürülmektedir.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-guler-f-16-f-35-eurofighter-ve-c-130j-tedarik-calismalarimiz-planli-sekilde-surdurulmektedir/4129837",
-   "zaman": "2026-11-18T23:52:21+03:00",
-   "kelimeler": [
-    "130j",
-    "16",
-    "35",
-    "bakan",
-    "calis",
-    "eurof",
-    "guler",
-    "planl",
-    "sekil",
-    "surdu",
-    "tedar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ffea1e4647a2": {
    "id": "ffea1e4647a2",
    "kaynak": "Hürriyet",
@@ -29236,11 +29189,20 @@
     "savas",
     "secim"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA"
-   ]
+   ],
+   "paylasildi": "2026-11-22T00:03:41.265740+03:00",
+   "ig_id": "18096328901701775",
+   "reels_id": "18104200625181608",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1158500523301778",
+   "slayt": 6,
+   "kanca": "İRAN SAVAŞINI BİTİRMEK"
   },
   "0798e1d668c5": {
    "id": "0798e1d668c5",
@@ -29461,9 +29423,34 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2f10dd6c0654"
+  },
+  "7f175d6d920f": {
+   "id": "7f175d6d920f",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
+   "zaman": "2026-11-22T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "22",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "il",
+    "istan",
+    "izmir",
+    "kasim",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "9a1090d76bc9"
   }
  },
  "kayit": [
+  "22.11 00:03:41  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · ABD'de seçim galibi Demokratların önceliği İran savaşını bitirmek",
   "21.11 23:31:25  4 yeni haber",
   "21.11 23:16:16  1 yeni haber",
   "21.11 23:01:24  6 yeni haber",
@@ -29662,8 +29649,7 @@
   "19.11 21:31:27  1 yeni haber",
   "19.11 21:15:57  2 yeni haber",
   "19.11 21:02:38  1 yeni haber",
-  "19.11 20:45:58  1 yeni haber",
-  "19.11 20:39:14  1 yeni haber"
+  "19.11 20:45:58  1 yeni haber"
  ],
  "otomatik": false
 }
