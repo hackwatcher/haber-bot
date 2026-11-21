@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "db06070beb20": {
-   "id": "db06070beb20",
-   "kaynak": "TRT Haber",
-   "baslik": "Gazze'deki hükümet: İsrail'in yeni saldırıları on binlerce Filistinliyi yeniden göçe zorluyor",
-   "ozet": "Gazze'deki Filistin Sosyal Kalkınma Bakanlığı, İsrail ordusunun Gazze Şeridi'nin orta kesiminde ateşkes anlaşmasıyla belirlenen \"Sarı Hat\"ın ötesine geçerek düzenlediği saldırıların, binlerce yerinden edilmiş Filistinlinin hayatını ve barınma imkanlarını tehdit ettiği uyarısında…",
-   "link": "https://www.trthaber.com/haber/dunya/gazzedeki-hukumet-israilin-yeni-saldirilari-on-binlerce-filistinliyi-yeniden-goce-zorluyor-963718.html",
-   "zaman": "2026-11-18T19:04:00+03:00",
-   "kelimeler": [
-    "binle",
-    "deki",
-    "filis",
-    "gazze",
-    "goce",
-    "hukum",
-    "in",
-    "israi",
-    "on",
-    "saldi",
-    "yeni",
-    "yenid",
-    "zorlu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "00ec18a81a2f": {
-   "id": "00ec18a81a2f",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Bolat: Yurt dışından emekli vatandaşlarımızın taşıtlarının kalış süresini 4 yıla uzattık",
-   "ozet": "Ticaret Bakanı Ömer Bolat, yurt dışından emekli vatandaşların taşıtları için Türkiye'de kalış süresinin 2+2 yıl olmak üzere toplam 4 yıla uzatıldığını belirtti.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-bolat-yurt-disindan-emekli-vatandaslarimizin-tasitlarinin-kalis-suresini-4-yila-uzattik-43382993",
-   "zaman": "2026-11-18T19:09:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "bolat",
-    "disin",
-    "emekl",
-    "kalis",
-    "sures",
-    "tasit",
-    "uzatt",
-    "vatan",
-    "yila",
-    "yurt"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b34900c92a96": {
    "id": "b34900c92a96",
    "kaynak": "AA",
@@ -87,26 +39,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "34a645dd0fd4"
-  },
-  "1606acf28775": {
-   "id": "1606acf28775",
-   "kaynak": "AA",
-   "baslik": "COP31'de ikinci küresel iklim değerlendirmesi için yol haritası çiziliyor",
-   "ozet": "COP31 Müzakereler Başkanı, Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, \"Geçen yıl temiz enerji yatırımlarına 2,2 trilyon dolar aktarıldı. Bu miktar, fosil yakıtlara yapılan yatırımların neredeyse iki katına ulaştı.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-ikinci-kuresel-iklim-degerlendirmesi-icin-yol-haritasi-ciziliyor/4129601",
-   "zaman": "2026-11-18T19:10:34+03:00",
-   "kelimeler": [
-    "cizil",
-    "cop31",
-    "deger",
-    "harit",
-    "ikinc",
-    "iklim",
-    "kures",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "1ee993ab5e75": {
    "id": "1ee993ab5e75",
@@ -29236,8 +29168,9 @@
     "eyale",
     "in"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "hata",
+   "oncelikli": true,
+   "hata": "Instagram görseli işleyemedi (ERROR)"
   },
   "73e4e7c20307": {
    "id": "73e4e7c20307",
@@ -29301,6 +29234,7 @@
   }
  },
  "kayit": [
+  "21.11 19:17:44  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "21.11 19:01:25  2 yeni haber",
   "21.11 18:45:56  2 yeni haber",
   "21.11 18:31:10  1 yeni haber",
@@ -29499,8 +29433,7 @@
   "19.11 17:16:06  6 yeni haber",
   "19.11 17:01:23  6 yeni haber",
   "19.11 16:46:01  6 yeni haber",
-  "19.11 16:31:12  9 yeni haber",
-  "19.11 16:18:00  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): BBC Türkçe · Tekirdağ ve Antalya ile 7 ilçe belediyesi AKP'ye geçti"
+  "19.11 16:31:12  9 yeni haber"
  ],
  "otomatik": false
 }
