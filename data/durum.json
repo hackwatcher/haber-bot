@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "088b88d9b14a": {
-   "id": "088b88d9b14a",
-   "kaynak": "NTV",
-   "baslik": "Bakan Güler: 2030'da 20 adet KAAN teslim edilecek",
-   "ozet": "Milli Savunma Bakanı Yaşar Güler, 2030 yılı sonuna kadar Hava Kuvvetleri Komutanlığı'na 20 adet uçağın teslim edileceğini, 2035 yılı sonunda ise bu sayının 100’e ulaşağını belirtti.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-guler-2030da-20-adet-kaan-teslim-edilecek-1751514",
-   "zaman": "2026-11-18T22:47:04+03:00",
-   "kelimeler": [
-    "20",
-    "2030",
-    "adet",
-    "bakan",
-    "edile",
-    "guler",
-    "kaan",
-    "tesli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f67fab649a2f": {
-   "id": "f67fab649a2f",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da suya her ay zam yüzde 2 sınırıyla sürecek",
-   "ozet": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Kurulu'nda, Tüketici Fiyat Endeksi (TÜFE) ile Yurt İçi Üretici Fiyat Endeksi'nin (Yİ-ÜFE) toplanıp ikiye bölünmesiyle çıkan sonuca göre suya her ay zam yapılması teklifi, 2027 yılında zam oranının yüzde 2'yi geçmemesi şartıyla…",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-suya-her-ay-zam-yuzde-2-siniriyla-surecek-43383082",
-   "zaman": "2026-11-18T22:48:00+03:00",
-   "kelimeler": [
-    "ay",
-    "her",
-    "istan",
-    "sinir",
-    "surec",
-    "suya",
-    "yuzde",
-    "zam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "74569c85bf0f": {
-   "id": "74569c85bf0f",
-   "kaynak": "AA",
-   "baslik": "İsrail askerleri, Gazze’de ateşkes kapsamında çekildikleri bölgelere yeniden girdi",
-   "ozet": "İsrail askerleri, Gazze Şeridi’nin orta kesiminde Sarı Hattın batısında, ateşkes anlaşması kapsamında daha önce çekildikleri bölgelere girerek saldırı başlattı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-gazze-de-ateskes-kapsaminda-cekildikleri-bolgelere-yeniden-girdi/4129792",
-   "zaman": "2026-11-18T22:48:10+03:00",
-   "kelimeler": [
-    "asker",
-    "atesk",
-    "bolge",
-    "cekil",
-    "gazze",
-    "girdi",
-    "israi",
-    "kapsa",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "d8f49a4eb0bc": {
    "id": "d8f49a4eb0bc",
    "kaynak": "AA",
@@ -29432,9 +29368,131 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "9a1090d76bc9"
+  },
+  "4417071fdac6": {
+   "id": "4417071fdac6",
+   "kaynak": "AA",
+   "baslik": "İran basını: Devrim Muhafızları Ordusu Bahreyn'deki iki ABD üssünü hedef aldı",
+   "ozet": "İran Devrim Muhafızları Ordusu'nun Bahreyn'deki iki ABD üssünü vurduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-devrim-muhafizlari-ordusu-bahreyndeki-iki-abd-ussunu-hedef-aldi/4133201",
+   "zaman": "2026-11-21T22:35:46+03:00",
+   "kelimeler": [
+    "abd",
+    "aldi",
+    "bahre",
+    "basin",
+    "deki",
+    "devri",
+    "hedef",
+    "iki",
+    "iran",
+    "muhaf",
+    "ordus",
+    "ussun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "61a6f367bfd8": {
+   "id": "61a6f367bfd8",
+   "kaynak": "Hürriyet",
+   "baslik": "Şanlıurfa'da feci kaza: 2 kişi öldü, 5 kişi yaralandı",
+   "ozet": "Şanlıurfa'nın Ceylanpınar ilçesinde iki otomobilin çarpıştığı kazada 2 kişi öldü, 5 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sanliurfada-feci-kaza-2-kisi-oldu-5-kisi-yaralandi-43386529",
+   "zaman": "2026-11-21T22:36:48+03:00",
+   "kelimeler": [
+    "feci",
+    "kaza",
+    "kisi",
+    "sanli",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e6f4eba7abc0": {
+   "id": "e6f4eba7abc0",
+   "kaynak": "TRT Haber",
+   "baslik": "Antalya'da silahla eşini öldüren kişi daha sonra intihar etti",
+   "ozet": "Antalya'nın Gazipaşa ilçesinde eşini silahla öldüren kişi daha sonra intihar etti.",
+   "link": "https://www.trthaber.com/haber/turkiye/antalyada-silahla-esini-olduren-kisi-daha-sonra-intihar-etti-964095.html",
+   "zaman": "2026-11-21T22:41:00+03:00",
+   "kelimeler": [
+    "antal",
+    "esini",
+    "etti",
+    "intih",
+    "kisi",
+    "oldur",
+    "silah"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4f60f511e213": {
+   "id": "4f60f511e213",
+   "kaynak": "TRT Haber",
+   "baslik": "Gürbulak'ta 13 kilo 780 gram uyuşturucu ele geçirildi",
+   "ozet": "Ağrı'nın Doğubayazıt ilçesindeki Gürbulak Gümrük Kapısı'nda valizlerin içerisinde 13 kilo 780 gram uyuşturucu ele geçirildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/gurbulakta-13-kilo-780-gram-uyusturucu-ele-gecirildi-964096.html",
+   "zaman": "2026-11-21T22:43:00+03:00",
+   "kelimeler": [
+    "13",
+    "780",
+    "ele",
+    "gecir",
+    "gram",
+    "gurbu",
+    "kilo",
+    "ta",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0cacb3a10972": {
+   "id": "0cacb3a10972",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de seçim galibi Demokratların önceliği İran savaşını bitirmek",
+   "ozet": "ABD'de ara seçimlerde Temsilciler Meclisi'nde çoğunluğu kazanan Demokratların Meclis Başkanlığı adayı Jeffries, Meclisin kontrolünü devralmalarının ardından İran'la savaşı sona erdirmek için kararlılıkla hareket edeceklerini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-secim-galibi-demokratlarin-onceligi-iran-savasini-bitirmek-964097.html",
+   "zaman": "2026-11-21T22:46:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bitir",
+    "demok",
+    "galib",
+    "iran",
+    "oncel",
+    "savas",
+    "secim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0798e1d668c5": {
+   "id": "0798e1d668c5",
+   "kaynak": "TRT Haber",
+   "baslik": "Duran: Türkiye, COP31 ile küresel iklim diplomasisinin buluşma noktası oldu",
+   "ozet": "İletişim Başkanı Burhanettin Duran, \"Türkiye, başkanlığını ve ev sahipliğini üstlendiği COP31 ile küresel iklim diplomasisinin buluşma noktası oldu.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/duran-turkiye-cop31-ile-kuresel-iklim-diplomasisinin-bulusma-noktasi-oldu-964098.html",
+   "zaman": "2026-11-21T22:54:00+03:00",
+   "kelimeler": [
+    "bulus",
+    "cop31",
+    "diplo",
+    "duran",
+    "iklim",
+    "kures",
+    "nokta",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 23:01:24  6 yeni haber",
   "21.11 22:46:09  1 yeni haber",
   "21.11 22:31:18  1 yeni haber",
   "21.11 22:15:55  3 yeni haber",
@@ -29633,8 +29691,7 @@
   "19.11 20:45:58  1 yeni haber",
   "19.11 20:39:14  1 yeni haber",
   "19.11 20:31:11  2 yeni haber",
-  "19.11 20:16:10  1 yeni haber",
-  "19.11 20:10:46  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · AK Parti Sözcüsü Ömer Çelik'ten KIZILELMA'nın envantere girmesine iliş"
+  "19.11 20:16:10  1 yeni haber"
  ],
  "otomatik": false
 }
