@@ -1,95 +1,5 @@
 {
  "haberler": {
-  "f7f054ca015a": {
-   "id": "f7f054ca015a",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz, Özbekistan’da Dünya Türk İş Konseyi Toplantısı’na katıldı",
-   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Özbekistan’ın başkenti Taşkent’te 'Dünya Türk İş Konseyi Toplantısı’na (DTİK) katıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-ozbekistanda-dunya-turk-is-konseyi-toplantisina-katildi-43383025",
-   "zaman": "2026-11-18T20:02:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "dunya",
-    "is",
-    "katil",
-    "konse",
-    "na",
-    "ozbek",
-    "topla",
-    "turk",
-    "yardi",
-    "yilma"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea09f29585fc"
-  },
-  "438bcb11dc49": {
-   "id": "438bcb11dc49",
-   "kaynak": "AA",
-   "baslik": "Türk Kızılay Kanunu Teklifi TBMM Genel Kurulunda kabul edildi",
-   "ozet": "Türk Kızılay Kanunu Teklifi, TBMM Genel Kurulunda kabul edildi. Kanunla, Türk Kızılay Derneğinin görev alanına giren faaliyetleri daha etkin bir yapıda yürütebilmesi için görev ve yetkileriyle hak ve muafiyetleri düzenleniyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-kizilay-kanunu-teklifi-tbmm-genel-kurulunda-kabul-edildi/4129652",
-   "zaman": "2026-11-18T20:08:42+03:00",
-   "kelimeler": [
-    "edild",
-    "genel",
-    "kabul",
-    "kanun",
-    "kizil",
-    "kurul",
-    "tbmm",
-    "tekli",
-    "turk"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "63caabf0b1d5"
-  },
-  "5dba95825608": {
-   "id": "5dba95825608",
-   "kaynak": "AA",
-   "baslik": "Mısır: Türkiye ile ticaret hacmi 2025'te 6,8 milyar dolara yükseldi",
-   "ozet": "Mısır'da kurulan 1869 Türk şirketinin toplam yatırım tutarı 921,5 milyon dolara, sağladığı istihdam yaklaşık 43 bin 900 kişiye ulaştı.",
-   "link": "https://www.aa.com.tr/tr/dunya/misir-turkiye-ile-ticaret-hacmi-2025te-6-8-milyar-dolara-yukseldi/4129655",
-   "zaman": "2026-11-18T20:10:02+03:00",
-   "kelimeler": [
-    "2025",
-    "dolar",
-    "hacmi",
-    "milya",
-    "misir",
-    "te",
-    "ticar",
-    "turki",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "dd3de399cde7": {
-   "id": "dd3de399cde7",
-   "kaynak": "NTV",
-   "baslik": "Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir, CHP’den istifa etti.",
-   "ozet": "",
-   "link": "https://www.ntv.com.tr/turkiye/antalya-buyuksehir-belediye-baskanvekili-busra-ozdemir-chpden-istifa-etti-1751505",
-   "zaman": "2026-11-18T20:10:56+03:00",
-   "kelimeler": [
-    "antal",
-    "baska",
-    "beled",
-    "busra",
-    "buyuk",
-    "chp",
-    "den",
-    "etti",
-    "istif",
-    "ozdem"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a0fc5e176791"
-  },
   "09961a6a2818": {
    "id": "09961a6a2818",
    "kaynak": "TRT Haber",
@@ -858,24 +768,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "f2bdb64180f8"
-  },
-  "7efce5564e69": {
-   "id": "7efce5564e69",
-   "kaynak": "TRT Haber",
-   "baslik": "Komşular arasındaki 'kedi' kavgası cinayetle bitti",
-   "ozet": "İstanbul'un Esenyurt ilçesinde, kedi nedeniyle çıkan tartışmada komşusu tarafından silahla vurulan kişi hayatını kaybetti, şüpheli gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/komsular-arasindaki-kedi-kavgasi-cinayetle-bitti-963723.html",
-   "zaman": "2026-11-18T20:05:00+03:00",
-   "kelimeler": [
-    "arasi",
-    "bitti",
-    "cinay",
-    "kavga",
-    "kedi",
-    "komsu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "05b2484173bb": {
    "id": "05b2484173bb",
@@ -28565,7 +28457,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "a039c046ec9b": {
    "id": "a039c046ec9b",
@@ -29220,9 +29114,90 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "e36853955bef"
+  },
+  "f7d48e90bc20": {
+   "id": "f7d48e90bc20",
+   "kaynak": "Hürriyet",
+   "baslik": "Kadıköy'de denizde ceset bulundu",
+   "ozet": "KADIKÖY İskelesi’nde denizde bir kişinin cesedi bulundu. Ekipler tarafından sudan çıkarılan kişinin 20 yaşındaki Cenk Kula olduğu belirlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kadikoyde-denizde-ceset-bulundu-43386457",
+   "zaman": "2026-11-21T19:52:25+03:00",
+   "kelimeler": [
+    "bulun",
+    "ceset",
+    "deniz",
+    "kadik"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e5bb7c8e6223": {
+   "id": "e5bb7c8e6223",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da yollar beyaza büründü",
+   "ozet": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
+   "link": "https://www.ntv.com.tr/turkiye/video-istanbulda-yollar-beyaza-burundu-1751954",
+   "zaman": "2026-11-21T20:05:37+03:00",
+   "kelimeler": [
+    "beyaz",
+    "burun",
+    "istan",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "49ba902b950c": {
+   "id": "49ba902b950c",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Fidan ve MİT Başkanı Kalın, Libya Milli Birlik Hükümeti Başbakanı Dibeybe ile görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan ve MİT Başkanı İbrahim Kalın, Libya Milli Birlik Hükümeti Başbakanı Abdülhamid Dibeybe ile İstanbul’da görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-fidan-ve-mit-baskani-kalin-libya-milli-birlik-hukumeti-basbakani-dibeybe-ile-gorustu-43386466",
+   "zaman": "2026-11-21T20:06:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "basba",
+    "baska",
+    "birli",
+    "dibey",
+    "disis",
+    "fidan",
+    "gorus",
+    "hukum",
+    "kalin",
+    "libya",
+    "milli",
+    "mit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "01fa20b214fe": {
+   "id": "01fa20b214fe",
+   "kaynak": "AA",
+   "baslik": "Güngören'de inşaatın temel kazısı sırasında toprak altında kalan işçi hastanede öldü",
+   "ozet": "Güngören'de bir inşaatın temel çalışmaları sırasında toprak altında kalan işçi, kaldırıldığı hastanede hayatını kaybetti.",
+   "link": "https://www.aa.com.tr/tr/gundem/gungorende-insaatin-temel-kazisi-sirasinda-toprak-altinda-kalan-isci-hastanede-oldu/4133144",
+   "zaman": "2026-11-21T20:11:37+03:00",
+   "kelimeler": [
+    "altin",
+    "gungo",
+    "hasta",
+    "insaa",
+    "isci",
+    "kalan",
+    "kazis",
+    "siras",
+    "temel",
+    "topra"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ea061819ed2f"
   }
  },
  "kayit": [
+  "21.11 20:15:59  3 yeni haber",
   "21.11 20:01:28  2 yeni haber",
   "21.11 19:46:16  1 yeni haber",
   "21.11 19:33:37  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Bakan Çiftçi: Bölgemiz terörden arındıkça turizm canlanıyor, yatırımla",
@@ -29421,8 +29396,7 @@
   "19.11 18:23:36  7 yeni haber",
   "19.11 18:03:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Mahalleli deprem oluyor zannetti: \"Geldiğimde ortalık savaş alanı gibi",
   "19.11 18:01:41  4 yeni haber",
-  "19.11 17:45:59  8 yeni haber",
-  "19.11 17:31:16  6 yeni haber"
+  "19.11 17:45:59  8 yeni haber"
  ],
  "otomatik": false
 }
