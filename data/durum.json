@@ -1,113 +1,5 @@
 {
  "haberler": {
-  "2dc70e1ff377": {
-   "id": "2dc70e1ff377",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Gürlek'ten fon soruşturması açıklaması: 'Gönüllü iade hesabına cezavinden başvurular var'",
-   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasında sürecin işlemeye devam ettiğini ve TMSF'nin açıkladığı gönüllü iade hesabına cezaevinden de başvuru olduğunu söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/cq4gnzmn5vl3o",
-   "zaman": "2026-11-18T14:35:10+03:00",
-   "kelimeler": [
-    "acikl",
-    "basvu",
-    "cezav",
-    "fon",
-    "gonul",
-    "gurle",
-    "hesab",
-    "iade",
-    "sorus",
-    "ten"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2c4f24a37000"
-  },
-  "98b750e4c040": {
-   "id": "98b750e4c040",
-   "kaynak": "TRT Haber",
-   "baslik": "İran, Hürmüz Boğazı'nın doğusunda ABD'ye ait İHA düşürdüğünü duyurdu",
-   "ozet": "İran, Hürmüz Boğazı'nın doğusunda ABD'ye ait bir MQ9 Reaper tipi insansız hava aracını İHA düşürdüğünü bildirdi.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinin-dogusunda-abdye-ait-iha-dusurdugunu-duyurdu-963690.html",
-   "zaman": "2026-11-18T14:32:00+03:00",
-   "kelimeler": [
-    "abd",
-    "ait",
-    "bogaz",
-    "dogus",
-    "dusur",
-    "duyur",
-    "hurmu",
-    "iha",
-    "iran",
-    "nin",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ea3c783dbca8": {
-   "id": "ea3c783dbca8",
-   "kaynak": "AA",
-   "baslik": "Katar’da 15. Uluslararası Polis Akademileri Birliği Konferansı düzenlendi",
-   "ozet": "Türkiye’den Polis Akademisi Başkanı Prof. Dr. Murat Balcı’nın da katıldığı konferansta, polis eğitiminin geliştirilmesi ve güvenlik alanında uluslararası işbirliğinin güçlendirilmesi ele alındı.",
-   "link": "https://www.aa.com.tr/tr/gundem/katar-da-15-uluslararasi-polis-akademileri-birligi-konferansi-duzenlendi/4129235",
-   "zaman": "2026-11-18T14:41:51+03:00",
-   "kelimeler": [
-    "15",
-    "akade",
-    "birli",
-    "duzen",
-    "katar",
-    "konfe",
-    "polis",
-    "ulusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9d0c5e37b193": {
-   "id": "9d0c5e37b193",
-   "kaynak": "Hürriyet",
-   "baslik": "Beyoğlu'nda binada yangın: Ekipler müdahale ediyor",
-   "ozet": "Beyoğlu Kasımpaşa'da bir binada yangın çıktı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/beyoglunda-binada-yangin-ekipler-mudahale-ediyor-43382597",
-   "zaman": "2026-11-18T14:45:47+03:00",
-   "kelimeler": [
-    "beyog",
-    "binad",
-    "ediyo",
-    "ekipl",
-    "mudah",
-    "nda",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a032c434a37a": {
-   "id": "a032c434a37a",
-   "kaynak": "TRT Haber",
-   "baslik": "FETÖ iltisaklı 1072 hesaba erişim engeli",
-   "ozet": "İletişim Başkanı Burhanettin Duran, dijital izleme ve analiz çalışmaları sonucu 1072 sosyal medya hesabının FETÖ ile bağlantılı olduğunun tespit edildiğini, terör propagandası yapan ve dezenformasyon üreten hesaplara erişimin engellendiğini bildirdi.",
-   "link": "https://www.trthaber.com/haber/gundem/feto-iltisakli-1072-hesaba-erisim-engeli-963692.html",
-   "zaman": "2026-11-18T14:46:00+03:00",
-   "kelimeler": [
-    "1072",
-    "engel",
-    "erisi",
-    "feto",
-    "hesab",
-    "iltis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet",
-    "NTV"
-   ]
-  },
   "dcf9de24dfce": {
    "id": "dcf9de24dfce",
    "kaynak": "BBC Türkçe",
@@ -15535,7 +15427,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "efb422a67ca7": {
    "id": "efb422a67ca7",
@@ -20849,7 +20744,10 @@
     "yureg"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1dbc1218632e": {
    "id": "1dbc1218632e",
@@ -30164,8 +30062,17 @@
     "yaral",
     "zinci"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-21T14:48:24.616002+03:00",
+   "ig_id": "18046041281829675",
+   "reels_id": "18124282324989685",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "29845758141698278",
+   "slayt": 5,
+   "kanca": "15 ARAÇ BİRBİRİNE GİRDİ"
   },
   "1b10620abec7": {
    "id": "1b10620abec7",
@@ -30210,9 +30117,164 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "90ea8a716928": {
+   "id": "90ea8a716928",
+   "kaynak": "AA",
+   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Erdoğan, İstanbul'da \"Gaziosmanpaşa Adalet Sarayı Açılış Töreni\"nde konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4132721",
+   "zaman": "2026-11-21T10:41:40+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0d975fc135fc"
+  },
+  "faf14e00f239": {
+   "id": "faf14e00f239",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Gaziosmanpaşa Adalet Sarayı Açılış Töreni'nde konuşuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-964054.html",
+   "zaman": "2026-11-21T13:25:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d94e761f95de"
+  },
+  "698cf6b77eb1": {
+   "id": "698cf6b77eb1",
+   "kaynak": "AA",
+   "baslik": "AYM ile TİHEK arasında işbirliği protokolü imzalandı",
+   "ozet": "Anayasa Mahkemesi (AYM) ile Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK) arasında insan haklarının korunması ve geliştirilmesi amacıyla işbirliği protokolü imzalandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/aym-ile-tihek-arasinda-isbirligi-protokolu-imzalandi/4132887",
+   "zaman": "2026-11-21T14:30:18+03:00",
+   "kelimeler": [
+    "arasi",
+    "aym",
+    "imzal",
+    "isbir",
+    "proto",
+    "tihek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0749240d0056": {
+   "id": "0749240d0056",
+   "kaynak": "AA",
+   "baslik": "Brezilya'da ele geçirilen 3 ton uyuşturucunun alıcısı İstanbul'da yakalandı",
+   "ozet": "İçişleri Bakanlığı, Brezilya'da ele geçirilen 3 ton uyuşturucunun alıcısı olduğu belirlenen ve çeşitli suçlardan kırmızı bültenle aranan Nusret Skrıjelj'in, İstanbul'da yakalandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/brezilyada-ele-gecirilen-3-ton-uyusturucunun-alicisi-istanbulda-yakalandi/4132889",
+   "zaman": "2026-11-21T14:32:52+03:00",
+   "kelimeler": [
+    "alici",
+    "brezi",
+    "ele",
+    "gecir",
+    "istan",
+    "ton",
+    "uyust",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0ba47c5ea835": {
+   "id": "0ba47c5ea835",
+   "kaynak": "AA",
+   "baslik": "Gazze'de 350 bin aile kış koşullarında barınma mücadelesi veriyor",
+   "ozet": "Gazze'deki Bayındırlık ve İskan Bakanlığı, İsrail'in ateşkese rağmen saldırılarını sürdürdüğü Gazze Şeridi'nde kış koşullarının barınma krizini daha da ağırlaştırdığını, 350 bin ailenin acil barınma ihtiyacı bulunduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-350-bin-aile-kis-kosullarinda-barinma-mucadelesi-veriyor/4132890",
+   "zaman": "2026-11-21T14:38:02+03:00",
+   "kelimeler": [
+    "350",
+    "aile",
+    "barin",
+    "bin",
+    "gazze",
+    "kis",
+    "kosul",
+    "mucad",
+    "veriy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "762c49414662": {
+   "id": "762c49414662",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'un 3 ilçesi birbirine bağlanacak. 13 kilometrelik mesafe 21 dakikaya düşecek",
+   "ozet": "İstanbul'da M12 Ümraniye-Ataşehir-Göztepe Metro Hattı 19 Aralık'ta açılacak. Yeni hatla Ümraniye-Göztepe arasındaki ulaşım 21 dakikaya inecek.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-3-ilcesi-birbirine-baglanacak-13-kilometrelik-mesafe-21-dakikaya-dusecek-1751919",
+   "zaman": "2026-11-21T14:38:32+03:00",
+   "kelimeler": [
+    "13",
+    "21",
+    "bagla",
+    "birbi",
+    "dakik",
+    "dusec",
+    "ilces",
+    "istan",
+    "kilom",
+    "mesaf",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fb618e5eb6a5": {
+   "id": "fb618e5eb6a5",
+   "kaynak": "AA",
+   "baslik": "Oruç Reis, Pakistan açıklarında sismik araştırma çalışmalarına başladı",
+   "ozet": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Pakistan'ın Karaçi Limanı'nın yaklaşık 120 kilometre açığında bulunan İndus-C Bloku'nda üç boyutlu sismik araştırma çalışmalarına başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/oruc-reis-pakistan-aciklarinda-sismik-arastirma-calismalarina-basladi/4132892",
+   "zaman": "2026-11-21T14:42:13+03:00",
+   "kelimeler": [
+    "acikl",
+    "arast",
+    "basla",
+    "calis",
+    "oruc",
+    "pakis",
+    "reis",
+    "sismi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e2a1be6575fe": {
+   "id": "e2a1be6575fe",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, toplumları güçlü kılan şeyin adalet olduğunu söyledi. Erdoğan, \"Kanunların hakkaniyetle uygulanmadığı bir düzende huzur sağlanamaz.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-1751923",
+   "zaman": "2026-11-21T14:45:14+03:00",
+   "kelimeler": [
+    "adale",
+    "cumhu",
+    "erdog",
+    "guclu",
+    "kilan",
+    "toplu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "21.11 14:48:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Sakarya'da zincirleme kaza: 15 araç birbirine girdi, yaralılar var",
+  "21.11 14:46:23  6 yeni haber",
+  "21.11 14:46:23  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "21.11 14:31:43  4 yeni haber",
   "21.11 14:16:10  5 yeni haber",
   "21.11 14:01:34  9 yeni haber",
@@ -30409,10 +30471,7 @@
   "19.11 11:54:00  14 yeni haber",
   "19.11 11:32:45  12 yeni haber",
   "19.11 11:16:19  9 yeni haber",
-  "19.11 11:09:08  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Japonya'da 5,7 büyüklüğündeki depremde 2 kişi yaralandı",
-  "19.11 11:06:44  9 yeni haber",
-  "19.11 10:47:45  9 yeni haber",
-  "19.11 10:31:16  9 yeni haber"
+  "19.11 11:09:08  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Japonya'da 5,7 büyüklüğündeki depremde 2 kişi yaralandı"
  ],
  "otomatik": false
 }
