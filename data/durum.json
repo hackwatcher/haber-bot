@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "de714d7daa23": {
-   "id": "de714d7daa23",
-   "kaynak": "Hürriyet",
-   "baslik": "Düzce’de'de feci kaza! Otomobil, kırmızı ışıkta duran TIR’a çarptı: 1 ölü",
-   "ozet": "Düzce’de, D-100 kara yolunda kırmızı ışıkta duran TIR’a arkadan çarpan otomobilin sürücü Ahmet Gülbahar hayatını kaybetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/duzcedede-feci-kaza-otomobil-kirmizi-isikta-duran-tira-carpti-1-olu-43381904",
-   "zaman": "2026-11-18T04:10:51+03:00",
-   "kelimeler": [
-    "carpt",
-    "duran",
-    "duzce",
-    "feci",
-    "isikt",
-    "kaza",
-    "kirmi",
-    "olu",
-    "otomo",
-    "tir"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "72b93985413a": {
    "id": "72b93985413a",
    "kaynak": "NTV",
@@ -20596,7 +20574,8 @@
     "ilica"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "e281e70d93e2": {
    "id": "e281e70d93e2",
@@ -32984,9 +32963,67 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c28c006a32a4"
+  },
+  "b516c403484b": {
+   "id": "b516c403484b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Ekrem İmamoğlu'ndan süreç mektubu: 'İktidarı desteklemiyorum ama barışı destekliyorum\"",
+   "ozet": "Ekrem İmamoğlu, Silivri'de tutulduğu hapishaneden yazdığı mektupta, çözüm sürecine destek verirken \"Ben iktidarı desteklemiyorum ama evet barışı ve huzuru destekliyorum\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cqm2lnlxz7d3o",
+   "zaman": "2026-11-21T04:05:18+03:00",
+   "kelimeler": [
+    "ama",
+    "baris",
+    "deste",
+    "ekrem",
+    "iktid",
+    "imamo",
+    "mektu",
+    "ndan",
+    "surec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "832ce948f24c": {
+   "id": "832ce948f24c",
+   "kaynak": "XHABER",
+   "baslik": "Acun Ilıcalı:",
+   "ozet": "— Beni normal bir insan gibi düşünmeyin. Haftada en az üç kez arkadaşlarımla gece 2'de ayak tenisi oynuyorum. Her gün sabah 6'da uyuyorum. — Uçak benim için yatak gibi. Biner binmez uyuyorum. — Alperen Şengün çok yakın arkadaşım.",
+   "link": "https://t.me/sahinozkan000/30795",
+   "zaman": "2026-11-21T04:06:54+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Acun Ilıcalı:\n— Beni normal bir insan gibi düşünmeyin. Haftada en az üç kez arkadaşlarımla gece 2'de ayak tenisi oynuyorum. Her gün sabah 6'da uyuyorum.\n— Uçak benim için yatak gibi. Biner binmez uyuyorum.\n— Alperen Şengün çok yakın arkadaşım. Houston'ın maçları Türkiye saatiyle sabaha karşı 4'te başlıyor.\n— Biz de saat 02.00'de ayak tenisi oynayıp ardından Alperen'in maçını izliyoruz.\n— Gece yarısından sonra ofisimde çok sayıda iş toplantısı da yapıyorum. Herkes bu düzenimi biliyor.\n— Bu yaşam tarzı Türkiye'de de normal değil. Türkler de benim gibi yaşamıyor.\n— Ben biraz farklıyım ama yapım böyle. Ne yapabilirim?",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/L-KbJqVbtn6dCGRgyYRT5k5UDvQzQOgrJ2vdE64hQ2IG2YsQ6re9VFzbElEZj-Wr9uUHXOaCTMIxfy0iCPJWpTT3-FDO17TVad7D0z2WsPoLprJXA-jvwrr3XcfEunds8hoh7QfdrJLgJZEmu4AYiSAxzA45X40zwjwYdlvGvnN6X2iC0CjCqXbn8dXMupgjbylwAufm58evxqTaphxkGUCgRGa2aeHoBGV5Coy1R-R9BlwmCDqYeOflcsDEy-4s1pszRa7_rE7dWqGq_xMJiJWIbj6hbzUhb-8fwFt7aB-K6EV3hE6h-hPjE6n1X3ClhCc6c9K5xFz9kmWHOSSoUw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "acun",
+    "ilica"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4ec0aa4b67d2"
+  },
+  "6a7762f445d5": {
+   "id": "6a7762f445d5",
+   "kaynak": "Sözcü",
+   "baslik": "Peru'da 6,7 büyüklüğünde deprem meydana geldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/peruda-67-buyuklugunde-deprem-meydana-geldi-p383138",
+   "zaman": "2026-11-21T04:13:35+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "geldi",
+    "meyda",
+    "peru"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "21.11 04:16:36  2 yeni haber",
   "21.11 04:01:20  1 yeni haber",
   "21.11 03:46:15  1 yeni haber",
   "21.11 03:31:31  3 yeni haber",
@@ -33185,8 +33222,7 @@
   "18.11 23:01:25  9 yeni haber",
   "18.11 22:01:26  7 yeni haber",
   "18.11 21:01:26  1 yeni haber",
-  "18.11 20:49:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Antalya Büyükşehir Belediye Başkan Vekili Özdemir, CHP’den istifa etti",
-  "18.11 20:46:12  6 yeni haber"
+  "18.11 20:49:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Antalya Büyükşehir Belediye Başkan Vekili Özdemir, CHP’den istifa etti"
  ],
  "otomatik": false
 }
