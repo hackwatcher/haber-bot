@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "4df008dd928c": {
-   "id": "4df008dd928c",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Londra'da anlatılıyor",
-   "ozet": "Londra'daki V&A Müzesi'nde açılan \"Konstantinopolis'ten İstanbul'a: Bir Şehir İki İmparatorluk\" sergisi, İstanbul'un Bizans ve Osmanlı imparatorluklarına başkentlik yaptığı yaklaşık 1.600 yıllık dönemin hikayesini anlatıyor. Sergiyi küratörü Tim Stanley ile gezdik.",
-   "link": "https://www.bbc.com/turkce/articles/c39w9l1vk99vo",
-   "zaman": "2026-11-18T03:18:04+03:00",
-   "kelimeler": [
-    "600",
-    "anlat",
-    "bizan",
-    "hikay",
-    "istan",
-    "londr",
-    "osman",
-    "tan",
-    "un",
-    "ya",
-    "yilli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "976a697ed269": {
-   "id": "976a697ed269",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Rooney: Manchester United'dayken intihar etmeyi düşündüm",
-   "ozet": "Wayne Rooney, Manchester United'da oynadığı dönemde \"intiharı düşündüğünü\" ve \"neler olup bittiğini anlamaya çalışmak için bir terapistle görüştüğünü\" söyledi.",
-   "link": "https://www.bbc.com/turkce/articles/cw23jv30jejlo",
-   "zaman": "2026-11-18T03:22:31+03:00",
-   "kelimeler": [
-    "dayke",
-    "dusun",
-    "etmey",
-    "intih",
-    "manch",
-    "roone",
-    "unite"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ee3b6daf6120": {
    "id": "ee3b6daf6120",
    "kaynak": "NTV",
@@ -30135,7 +30093,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "bf7a5a769fac": {
    "id": "bf7a5a769fac",
@@ -32959,9 +32920,94 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "14852f76b03a"
+  },
+  "2d20376eae0f": {
+   "id": "2d20376eae0f",
+   "kaynak": "AA",
+   "baslik": "Milli kick boksçu Ezelnur, Dünya Şampiyonası'nda kazandığı altın madalyayla gururlandı",
+   "ozet": "Dünya Gençler Kick Boks Şampiyonası'nda kürsünün zirvesinde yer alan Ezelnur Karalar, altın madalya kazanmanın gururunu yaşıyor.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscu-ezelnur-dunya-sampiyonasinda-kazandigi-altin-madalyayla-gururlandi/4132634",
+   "zaman": "2026-11-21T01:45:43+03:00",
+   "kelimeler": [
+    "altin",
+    "boksc",
+    "dunya",
+    "ezeln",
+    "gurur",
+    "kazan",
+    "kick",
+    "madal",
+    "milli",
+    "nda",
+    "sampi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3408e8798a12": {
+   "id": "3408e8798a12",
+   "kaynak": "AA",
+   "baslik": "Çocuklarda ilk diş muayenesinin bir yaşına kadar yapılması öneriliyor",
+   "ozet": "Çocuklarda ağız ve diş sağlığı sorunlarının erken dönemde önlenebilmesi için ilk süt dişinin çıkmasıyla ağız bakımına başlanması, diş hekimi muayenesinin ise en geç bir yaşında gerçekleştirilmesi öneriliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/cocuklarda-ilk-dis-muayenesinin-bir-yasina-kadar-yapilmasi-oneriliyor/4132635",
+   "zaman": "2026-11-21T01:46:26+03:00",
+   "kelimeler": [
+    "cocuk",
+    "dis",
+    "ilk",
+    "muaye",
+    "oneri",
+    "yapil",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca18d98a5242": {
+   "id": "ca18d98a5242",
+   "kaynak": "AA",
+   "baslik": "İtfaiyecilerde prostat kanseri görülme sıklığı yüzde 21 daha yüksek",
+   "ozet": "Erkeklerde en sık görülen kanser türlerinden biri olan prostat kanseriyle ilgili araştırmalarda, itfaiyecilerde hastalığın görülme sıklığının yüzde 21, petrol endüstrisi çalışanlarında ise yüzde 13 daha yüksek hesaplandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/itfaiyecilerde-prostat-kanseri-gorulme-sikligi-yuzde-21-daha-yuksek/4132637",
+   "zaman": "2026-11-21T01:47:29+03:00",
+   "kelimeler": [
+    "21",
+    "gorul",
+    "itfai",
+    "kanse",
+    "prost",
+    "sikli",
+    "yukse",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e910873208e9": {
+   "id": "e910873208e9",
+   "kaynak": "TRT Haber",
+   "baslik": "Ticaret Bakanı Bolat: Kadın kooperatiflerine yeni pazar imkanları açıyoruz",
+   "ozet": "Ticaret Bakanı Ömer Bolat, \"Kadın kooperatiflerinin en ciddi sıkıntılarından biri olan pazarlama ve yeni satış mecraları bulma konusunda da gerek eticaret firmaları gerekse marketler ve büyük mağazalarla yapılan protokollerle onlara yeni pazar imkanları açıyoruz.",
+   "link": "https://www.trthaber.com/haber/ekonomi/ticaret-bakani-bolat-kadin-kooperatiflerine-yeni-pazar-imkanlari-aciyoruz-964023.html",
+   "zaman": "2026-11-21T02:56:00+03:00",
+   "kelimeler": [
+    "aciyo",
+    "bakan",
+    "bolat",
+    "imkan",
+    "kadin",
+    "koope",
+    "pazar",
+    "ticar",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1865d72bb4a2"
   }
  },
  "kayit": [
+  "21.11 03:31:31  3 yeni haber",
   "21.11 03:01:27  3 yeni haber",
   "21.11 02:46:10  2 yeni haber",
   "21.11 02:01:16  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -33160,8 +33206,7 @@
   "18.11 20:49:34  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Antalya Büyükşehir Belediye Başkan Vekili Özdemir, CHP’den istifa etti",
   "18.11 20:46:12  6 yeni haber",
   "18.11 19:46:10  5 yeni haber",
-  "18.11 19:31:17  5 yeni haber",
-  "18.11 19:01:27  2 yeni haber"
+  "18.11 19:31:17  5 yeni haber"
  ],
  "otomatik": false
 }
