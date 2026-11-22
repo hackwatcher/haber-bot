@@ -1,98 +1,5 @@
 {
  "haberler": {
-  "354b83e40116": {
-   "id": "354b83e40116",
-   "kaynak": "TRT Haber",
-   "baslik": "ABD'den Orta Doğu'daki vatandaşlarına yüksek teyakkuz uyarısı",
-   "ozet": "ABD, İran ile Yemen'deki Husilerin bölge ülkelerindeki ABD unsurları ile sivil altyapılara yönelik artan saldırıları nedeniyle Orta Doğu'daki ABD vatandaşlarına \"yüksek teyakkuzda\" olma çağrısı yaptı.",
-   "link": "https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-yuksek-teyakkuz-uyarisi-963874.html",
-   "zaman": "2026-11-19T23:24:00+03:00",
-   "kelimeler": [
-    "abd",
-    "daki",
-    "den",
-    "dogu",
-    "orta",
-    "teyak",
-    "uyari",
-    "vatan",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "cd00d79fb3af": {
-   "id": "cd00d79fb3af",
-   "kaynak": "TRT Haber",
-   "baslik": "Almanya, Fransa, İngiltere ve Ukrayna liderlerinden Rusya'ya kış boyunca enerji ateşkesi çağrısı",
-   "ozet": "Almanya, Fransa, İngiltere ve Ukrayna liderleri, çatışmaların sona erdirilmesine yönelik ilk adım olarak Rusya'ya kış boyunca geçerli olacak bir \"enerji ateşkesi\" kabul etmesi çağrısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusyaya-kis-boyunca-enerji-ateskesi-cagrisi-963875.html",
-   "zaman": "2026-11-19T23:26:00+03:00",
-   "kelimeler": [
-    "alman",
-    "atesk",
-    "boyun",
-    "cagri",
-    "enerj",
-    "frans",
-    "ingil",
-    "kis",
-    "lider",
-    "rusya",
-    "ukray",
-    "ya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b48fbe87bf07"
-  },
-  "c582f8e178d8": {
-   "id": "c582f8e178d8",
-   "kaynak": "AA",
-   "baslik": "ABD'den Orta Doğu'daki vatandaşlarına \"yüksek teyakkuz\" uyarısı",
-   "ozet": "ABD, İran ile Yemen'deki Husilerin bölge ülkelerindeki ABD unsurları ile sivil altyapılara yönelik artan saldırıları nedeniyle Orta Doğu'daki ABD vatandaşlarına \"yüksek teyakkuzda\" olma çağrısı yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-yuksek-teyakkuz-uyarisi/4131540",
-   "zaman": "2026-11-19T23:28:13+03:00",
-   "kelimeler": [
-    "abd",
-    "daki",
-    "den",
-    "dogu",
-    "orta",
-    "teyak",
-    "uyari",
-    "vatan",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "354b83e40116"
-  },
-  "9f5b4eb9c143": {
-   "id": "9f5b4eb9c143",
-   "kaynak": "NTV",
-   "baslik": "Rektörün aracı kaza yaptı, eşi hayatını kaybetti",
-   "ozet": "Sağlık Bilimleri Üniversitesi Rektörü Profesör Doktor Kemalettin Aydın, Konya'da trafik kazası geçirdi. Kazada Aydın'ın eşi Profesör Doktor Sevim Aydın hayatını kaybetti.",
-   "link": "https://www.ntv.com.tr/turkiye/rektorun-araci-kaza-yapti-esi-hayatini-kaybetti-1751679",
-   "zaman": "2026-11-19T23:30:30+03:00",
-   "kelimeler": [
-    "araci",
-    "esi",
-    "hayat",
-    "kaybe",
-    "kaza",
-    "rekto",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "885725c65317": {
    "id": "885725c65317",
    "kaynak": "AA",
@@ -24401,7 +24308,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "586a53d5fe33": {
    "id": "586a53d5fe33",
@@ -24537,9 +24447,115 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f90d1dc8ee26"
+  },
+  "7bbccf1470b5": {
+   "id": "7bbccf1470b5",
+   "kaynak": "TRT Haber",
+   "baslik": "Sarıyerde aslan alarmı: Yakalama çalışması başladı",
+   "ozet": "İstanbul Sarıyer'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde aslan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sariyerde-aslan-alarmi-yakalama-calismasi-basladi-964155.html",
+   "zaman": "2026-11-22T23:11:00+03:00",
+   "kelimeler": [
+    "alarm",
+    "aslan",
+    "basla",
+    "calis",
+    "sariy",
+    "yakal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "31e1031e1886": {
+   "id": "31e1031e1886",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Kurum: Tıkanan müzakereleri ve süreçleri tüm dünyanın ve insanlığın takdirine bırakıyorum",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Türkiye olarak Antalya'da uzlaşının bütün imkanlarını zorladık.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-tikanan-muzakereleri-ve-surecleri-tum-dunyanin-ve-insanligin-takdirine-birakiyorum-43387411",
+   "zaman": "2026-11-22T23:11:06+03:00",
+   "kelimeler": [
+    "bakan",
+    "birak",
+    "dunya",
+    "insan",
+    "kurum",
+    "muzak",
+    "surec",
+    "takdi",
+    "tikan",
+    "tum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c003f2cef795": {
+   "id": "c003f2cef795",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump, İran'a saldırıların yeni yıldan sonra yeniden başlayabileceği uyarısında bulundu",
+   "ozet": "ABD Başkanı Donald Trump, İran ile anlaşmaya varılamaması halinde 1 Ocak'tan sonra bu ülkeye yönelik askeri saldırı emri verebileceğini belirtti.",
+   "link": "https://www.trthaber.com/haber/dunya/trump-irana-saldirilarin-yeni-yildan-sonra-yeniden-baslayabilecegi-uyarisinda-bulundu-964156.html",
+   "zaman": "2026-11-22T23:16:00+03:00",
+   "kelimeler": [
+    "basla",
+    "bulun",
+    "iran",
+    "saldi",
+    "trump",
+    "uyari",
+    "yeni",
+    "yenid",
+    "yilda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5186455db1e0"
+  },
+  "4a9bd50c9bed": {
+   "id": "4a9bd50c9bed",
+   "kaynak": "AA",
+   "baslik": "THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı",
+   "ozet": "Türkiye Hava Sporları Federasyonu (THSF) tarafından düzenlenen THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası sona erdi.",
+   "link": "https://www.aa.com.tr/tr/spor/thsf-2026-fpv-drone-yesilay-turkiye-sampiyonasi-tamamlandi/4133846",
+   "zaman": "2026-11-22T23:19:09+03:00",
+   "kelimeler": [
+    "2026",
+    "drone",
+    "fpv",
+    "sampi",
+    "tamam",
+    "thsf",
+    "turki",
+    "yesil"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7402e96c3683": {
+   "id": "7402e96c3683",
+   "kaynak": "AA",
+   "baslik": "ABD'de Demokratlar, 1992'den bu yana Temsilciler Meclisindeki en yüksek sandalye sayısına ulaştı",
+   "ozet": "ABD'de Demokratlar, 3 Kasım'da düzenlenen Kongre ara seçimlerinde Temsilciler Meclisinde 258 sandalye kazanarak 1992'den bu yana elde edilen en yüksek sandalye sayısına ulaştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokratlar-1992den-bu-yana-temsilciler-meclisindeki-en-yuksek-sandalye-sayisina-ulasti/4133847",
+   "zaman": "2026-11-22T23:19:32+03:00",
+   "kelimeler": [
+    "1992",
+    "abd",
+    "demok",
+    "den",
+    "mecli",
+    "sanda",
+    "sayis",
+    "temsi",
+    "ulast",
+    "yana",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "22.11 23:31:16  4 yeni haber",
   "22.11 23:01:15  2 yeni haber",
   "22.11 22:46:17  4 yeni haber",
   "22.11 22:31:10  1 yeni haber",
@@ -24738,8 +24754,7 @@
   "20.11 19:18:36  3 yeni haber",
   "20.11 19:02:53  5 yeni haber",
   "20.11 18:46:24  4 yeni haber",
-  "20.11 18:32:30  3 yeni haber",
-  "20.11 18:16:41  4 yeni haber"
+  "20.11 18:32:30  3 yeni haber"
  ],
  "otomatik": false
 }
