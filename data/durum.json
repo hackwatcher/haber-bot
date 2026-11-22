@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "cd981a7675e3": {
-   "id": "cd981a7675e3",
-   "kaynak": "NTV",
-   "baslik": "HGS'de icrasız çözüm aranıyor. Yeni sistem kurulacak",
-   "ozet": "HGS ile ilgili artan ihlalli geçiş şikayetleri sonrası, otoyol işletmecisi şirketlerin ödemeleri anlık takip edebileceği bir entegrasyon sistemi kurulmasına karar verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/hgsde-icrasiz-cozum-araniyor-yeni-sistem-kurulacak-1751539",
-   "zaman": "2026-11-19T09:10:22+03:00",
-   "kelimeler": [
-    "arani",
-    "cozum",
-    "hgs",
-    "icras",
-    "kurul",
-    "siste",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "86a7ce368336": {
-   "id": "86a7ce368336",
-   "kaynak": "AA",
-   "baslik": "Küresel piyasalar şahin Fed ve yapay zeka belirsizliği gölgesinde yön arayışında",
-   "ozet": "Küresel piyasalar, ABD Merkez Bankasının (Fed) toplantı tutanaklarından alınan ilave faiz artışı sinyalleri ve yapay zeka yatırımlarına ilişkin soru işaretlerinin varlığını korumasıyla karışık bir seyir izliyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-sahin-fed-ve-yapay-zeka-belirsizligi-golgesinde-yon-arayisinda/4129968",
-   "zaman": "2026-11-19T09:13:48+03:00",
-   "kelimeler": [
-    "arayi",
-    "belir",
-    "fed",
-    "golge",
-    "kures",
-    "piyas",
-    "sahin",
-    "yapay",
-    "yon",
-    "zeka"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ],
-   "paylasildi": "2026-11-19T10:05:26.191472+03:00",
-   "ig_id": "17880937035566346",
-   "reels_id": "18471035653185078",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1672954787770346",
-   "slayt": 6,
-   "kanca": "REKOR HALKA ARZ"
-  },
-  "e6c1a398d34f": {
-   "id": "e6c1a398d34f",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel piyasalar yön arayışında",
-   "ozet": "Küresel piyasalar, ABD Merkez Bankasının Fed toplantı tutanaklarından alınan ilave faiz artışı sinyalleri ve yapay zeka yatırımlarına ilişkin soru işaretlerinin varlığını korumasıyla karışık bir seyir izliyor.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yon-arayisinda-963765.html",
-   "zaman": "2026-11-19T09:12:00+03:00",
-   "kelimeler": [
-    "arayi",
-    "kures",
-    "piyas",
-    "yon"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "86a7ce368336"
-  },
   "6454c8014593": {
    "id": "6454c8014593",
    "kaynak": "TRT Haber",
@@ -4085,22 +4015,6 @@
    "oncelikli": false,
    "tekrar_of": "7f9b472957ad"
   },
-  "dfdb496e1271": {
-   "id": "dfdb496e1271",
-   "kaynak": "AA",
-   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde Genişletilmiş İl Başkanları Toplantısı’nda konuşuyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4129966",
-   "zaman": "2026-11-19T09:09:20+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "konus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "110c48f84b98"
-  },
   "8924894bd9be": {
    "id": "8924894bd9be",
    "kaynak": "AA",
@@ -4619,28 +4533,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "d780e60115f6": {
-   "id": "d780e60115f6",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan: Başkaları ne derse desin biz sadece işimize odaklanacağız",
-   "ozet": "Cumhurbaşkanı Erdoğan, \"Başkaları ne derse desin biz sadece işimize odaklanacağız. Başkaları ne yaparsa yapsın biz sadece millete hizmet için koşturacağız.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-baskalari-ne-derse-desin-biz-sadece-isimize-odaklanacagiz/4129966",
-   "zaman": "2026-11-19T09:09:20+03:00",
-   "kelimeler": [
-    "baska",
-    "biz",
-    "cumhu",
-    "derse",
-    "desin",
-    "erdog",
-    "isimi",
-    "odakl",
-    "sadec"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "110c48f84b98"
   },
   "b6f6219bd09b": {
    "id": "b6f6219bd09b",
@@ -25814,8 +25706,17 @@
     "terim",
     "yenil"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-22T09:17:40.456627+03:00",
+   "ig_id": "18117389638847546",
+   "reels_id": null,
+   "story_id": "18134829028772679",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122119268559472027",
+   "fb_reels_id": null,
+   "slayt": 4,
+   "kanca": "YENİ İÇ SAHA REKORU"
   },
   "da96104cf279": {
    "id": "da96104cf279",
@@ -28654,9 +28555,51 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "874fd58513a4"
+  },
+  "9ae0d6c203eb": {
+   "id": "9ae0d6c203eb",
+   "kaynak": "AA",
+   "baslik": "Terörsüz Türkiye hedefi milli barışı tahkim etmektir",
+   "ozet": "Terörsüz Türkiye hedefinin kalıcı başarısı, devletin kararlılığına bağlı olarak yüksek temsil gücüne sahip devlet erki olan Meclisin güçlü kurumsal ve yasama katkısıyla ve milletimizin ortak iradesiyle mümkün olacaktır.",
+   "link": "https://www.aa.com.tr/tr/analiz/terorsuz-turkiye-hedefi-milli-barisi-tahkim-etmektir/4133304",
+   "zaman": "2026-11-22T09:01:22+03:00",
+   "kelimeler": [
+    "baris",
+    "etmek",
+    "hedef",
+    "milli",
+    "tahki",
+    "teror",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "91fea7964d86": {
+   "id": "91fea7964d86",
+   "kaynak": "AA",
+   "baslik": "Okullarda ara tatil sonrası ilk ders zili yarın çalacak",
+   "ozet": "Milli Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci ve 1,2 milyon öğretmen, eğitim öğretim yılının ilk ara tatilinin ardından yarın dersbaşı yapacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/okullarda-ara-tatil-sonrasi-ilk-ders-zili-yarin-calacak/4133306",
+   "zaman": "2026-11-22T09:05:14+03:00",
+   "kelimeler": [
+    "ara",
+    "calac",
+    "ders",
+    "ilk",
+    "okull",
+    "sonra",
+    "tatil",
+    "yarin",
+    "zili"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 09:17:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Okan Buruk, Fatih Terim'in 41 maçlık iç saha yenilmezlik rekorunu kırd",
+  "22.11 09:16:11  2 yeni haber",
   "22.11 09:01:48  1 yeni haber",
   "22.11 08:16:27  1 yeni haber",
   "22.11 08:01:47  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -28854,9 +28797,7 @@
   "20.11 03:31:11  2 yeni haber",
   "20.11 03:06:50  1 yeni haber",
   "20.11 02:48:33  2 yeni haber",
-  "20.11 02:45:58  4 yeni haber",
-  "20.11 02:31:10  2 yeni haber",
-  "20.11 02:23:27  3 yeni haber"
+  "20.11 02:45:58  4 yeni haber"
  ],
  "otomatik": false
 }
