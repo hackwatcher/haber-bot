@@ -23971,7 +23971,8 @@
     "yangi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c169634c2ac5": {
    "id": "c169634c2ac5",
@@ -28738,9 +28739,48 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1e8431a17519": {
+   "id": "1e8431a17519",
+   "kaynak": "Hürriyet",
+   "baslik": "Malatya'da yangında mahsur kalan yatalak yaşlı adam hayatını kaybetti",
+   "ozet": "Battalgazi ilçesi Fırat Mahallesi'ndeki apartmanda çıkan yangını dairedeki bir kadın çocuğunun uyandırmasıyla fark etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/malatyada-yanginda-mahsur-kalan-yatalak-yasli-adam-hayatini-kaybetti-43386637",
+   "zaman": "2026-11-22T07:47:40+03:00",
+   "kelimeler": [
+    "adam",
+    "hayat",
+    "kalan",
+    "kaybe",
+    "mahsu",
+    "malat",
+    "yangi",
+    "yasli",
+    "yatal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "40283a12c9e5": {
+   "id": "40283a12c9e5",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da 5 katlı binada yangın",
+   "ozet": "İstanbul Küçükçekmece’de 5 katlı bir binanın bodrum katında yangın çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-5-katli-binada-yangin-43386645",
+   "zaman": "2026-11-22T07:59:00+03:00",
+   "kelimeler": [
+    "binad",
+    "istan",
+    "katli",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c2dd974d2d83"
   }
  },
  "kayit": [
+  "22.11 08:16:27  1 yeni haber",
   "22.11 08:01:47  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "22.11 07:15:54  7 yeni haber",
   "22.11 07:02:31  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA",
@@ -28939,8 +28979,7 @@
   "20.11 02:45:58  4 yeni haber",
   "20.11 02:31:10  2 yeni haber",
   "20.11 02:23:27  3 yeni haber",
-  "20.11 02:01:27  2 yeni haber",
-  "20.11 01:39:10  4 yeni haber"
+  "20.11 02:01:27  2 yeni haber"
  ],
  "otomatik": false
 }
