@@ -1,84 +1,5 @@
 {
  "haberler": {
-  "fbc09e766db3": {
-   "id": "fbc09e766db3",
-   "kaynak": "AA",
-   "baslik": "Sudan'da HDK komutanı, emrindeki askerlerle ordu saflarına katıldı",
-   "ozet": "Sudan'da Hızlı Destek Kuvvetleri (HDK) komutanlarından Mişal Abdurrahman'ın, emrindeki subay ve askerlerle Sudan ordusuna katıldığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/sudanda-hdk-komutani-emrindeki-askerlerle-ordu-saflarina-katildi/4130032",
-   "zaman": "2026-11-19T10:05:16+03:00",
-   "kelimeler": [
-    "asker",
-    "emrin",
-    "hdk",
-    "katil",
-    "komut",
-    "ordu",
-    "safla",
-    "sudan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d0456452196d": {
-   "id": "d0456452196d",
-   "kaynak": "AA",
-   "baslik": "İslam Ülkeleri Akademisyen ve Yazarlar Birliği, Lübnan'ın Trablusşam kentinde üniversitelerle protokoller imzaladı",
-   "ozet": "İslam Ülkeleri Akademisyen ve Yazarlar Birliği (AYBİR) Başkanı Prof. Dr. Ebubekir Ceylan başkanlığındaki heyet, akademik işbirliği imkanlarını görüşmek üzere geldiği Lübnan'ın Trablusşam kentindeki üniversitelerle işbirliği protokolleri imzaladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/islam-ulkeleri-akademisyen-ve-yazarlar-birligi-lubnanin-trablussam-kentinde-universitelerle-protokoller-imzaladi/4130033",
-   "zaman": "2026-11-19T10:07:19+03:00",
-   "kelimeler": [
-    "akade",
-    "birli",
-    "imzal",
-    "in",
-    "islam",
-    "kenti",
-    "lubna",
-    "proto",
-    "trabl",
-    "ulkel",
-    "unive",
-    "yazar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "704af76a7809": {
-   "id": "704af76a7809",
-   "kaynak": "AA",
-   "baslik": "Hatay'da sağanak hayatı olumsuz etkiledi",
-   "ozet": "Hatay'ın merkez Antakya ilçesinde sağanak nedeniyle cadde ve sokaklarda su birikintileri oluştu, bazı araçlar yollarda mahsur kaldı.",
-   "link": "https://www.aa.com.tr/tr/gundem/hatayda-saganak-hayati-olumsuz-etkiledi/4130035",
-   "zaman": "2026-11-19T10:10:03+03:00",
-   "kelimeler": [
-    "etkil",
-    "hatay",
-    "hayat",
-    "olums",
-    "sagan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "e0a8d73b7f4b": {
-   "id": "e0a8d73b7f4b",
-   "kaynak": "TRT Haber",
-   "baslik": "Borsa güne yükselişle başladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,32 yükselişle 11.513,90 puandan başladı.",
-   "link": "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-963774.html",
-   "zaman": "2026-11-19T10:02:00+03:00",
-   "kelimeler": [
-    "basla",
-    "borsa",
-    "gune",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "35508481638d"
-  },
   "116bf7a77ab8": {
    "id": "116bf7a77ab8",
    "kaynak": "TRT Haber",
@@ -28528,9 +28449,52 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "222dd5095c68"
+  },
+  "8930b171e226": {
+   "id": "8930b171e226",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da acı olay: 12 yaşındaki futbolcu Ömer Ege hayatını kaybetti",
+   "ozet": "İstanbul Gaziosmanpaşa'da gece saatlerinde kabus dolu anlar yaşandı. 5 katlı binada çıkan yangında 3'ü çocuk 6 kişi dumandan etkilenerek hastaneye kaldırılmıştı. Olayda acı haber geldi. Hastaneye kaldırılan çocuklardan 12 yaşındaki futbolcu Ömer Ege Özyurt hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-aci-olay-12-yasindaki-futbolcu-omer-ege-hayatini-kaybetti-43386689",
+   "zaman": "2026-11-22T09:54:00+03:00",
+   "kelimeler": [
+    "12",
+    "aci",
+    "ege",
+    "futbo",
+    "hayat",
+    "istan",
+    "kaybe",
+    "olay",
+    "omer",
+    "yasin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9c8a45e13c80": {
+   "id": "9c8a45e13c80",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da züccaciye mağazası açılışında izdiham: Ezilme tehlikesi geçirdiler",
+   "ozet": "Şirinevler'de açılışa özel indirimler nedeniyle binlerce kişi mağaza önünde toplandı. Kapıların açılmasıyla yaşanan yoğunlukta bazı vatandaşlar yere düşerek ezilme tehlikesi geçirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-zuccaciye-magazasi-acilisinda-izdiham-ezilme-tehlikesi-gecirdiler-43386713",
+   "zaman": "2026-11-22T10:09:17+03:00",
+   "kelimeler": [
+    "acili",
+    "ezilm",
+    "gecir",
+    "istan",
+    "izdih",
+    "magaz",
+    "tehli",
+    "zucca"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 10:16:03  2 yeni haber",
   "22.11 10:01:28  5 yeni haber",
   "22.11 09:45:55  4 yeni haber",
   "22.11 09:31:09  1 yeni haber",
@@ -28729,8 +28693,7 @@
   "20.11 07:01:38  5 yeni haber",
   "20.11 06:46:03  4 yeni haber",
   "20.11 06:31:22  2 yeni haber",
-  "20.11 06:20:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "20.11 03:31:11  2 yeni haber"
+  "20.11 06:20:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
  ],
  "otomatik": false
 }
