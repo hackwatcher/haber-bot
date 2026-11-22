@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "05298bb07b01": {
-   "id": "05298bb07b01",
-   "kaynak": "NTV",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan KIZILELMA açıklaması. \"Tarihi bir gün\"",
-   "ozet": "Cumhurbaşkanı Erdoğan, KIZILELMA'nın envantere girmesiyle ilgili, \"Bugün bir büyük hayalin gerçeğe dönüştüğü tarihi bir gün\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-kizilelma-aciklamasi-tarihi-bir-gun-1751673",
-   "zaman": "2026-11-19T20:59:54+03:00",
-   "kelimeler": [
-    "acikl",
-    "cumhu",
-    "dan",
-    "erdog",
-    "gun",
-    "kizil",
-    "tarih"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "110c48f84b98"
-  },
   "c81ed17f6d42": {
    "id": "c81ed17f6d42",
    "kaynak": "TRT Haber",
@@ -24881,9 +24861,52 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0de8b3a0a5c5": {
+   "id": "0de8b3a0a5c5",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum: Türkiye olarak Antalya'da uzlaşının bütün imkanlarını zorladık",
+   "ozet": "Bakan Kurum, \"Türkiye olarak Antalya'da uzlaşının bütün imkanlarını zorladık. Ortaya koyduğumuz eylem gündemi, geliştirdiğimiz işbirlikleri ve kurduğumuz uluslararası ortaklıklar bu emeğin kalıcı kazanımlarıdır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-turkiye-olarak-antalyada-uzlasinin-butun-imkanlarini-zorladik/4133765",
+   "zaman": "2026-11-22T20:41:57+03:00",
+   "kelimeler": [
+    "antal",
+    "bakan",
+    "butun",
+    "imkan",
+    "kurum",
+    "turki",
+    "uzlas",
+    "zorla"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "c431ee37bec3": {
+   "id": "c431ee37bec3",
+   "kaynak": "Hürriyet",
+   "baslik": "7’nci Uluslararası Kadın ve Adalet Zirvesi’nin sonuç bildirisi yayımlandı",
+   "ozet": "Kadın ve Demokrasi Vakfı (KADEM) tarafından ‘Kurgulanmış Güzellikler’ temasıyla düzenlenen 7’nci Uluslararası Kadın ve Adalet Zirvesi, ikinci gününde gerçekleştirilen panellerle devam etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/7nci-uluslararasi-kadin-ve-adalet-zirvesinin-sonuc-bildirisi-yayimlandi-43387336",
+   "zaman": "2026-11-22T20:57:11+03:00",
+   "kelimeler": [
+    "adale",
+    "bildi",
+    "kadin",
+    "nci",
+    "nin",
+    "sonuc",
+    "ulusl",
+    "yayim",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1904d3061f84"
   }
  },
  "kayit": [
+  "22.11 21:01:45  1 yeni haber",
   "22.11 20:46:14  3 yeni haber",
   "22.11 20:35:38  2 yeni haber",
   "22.11 20:31:17  2 yeni haber",
@@ -25082,8 +25105,7 @@
   "20.11 17:38:28  5 yeni haber",
   "20.11 17:16:22  5 yeni haber",
   "20.11 17:01:25  3 yeni haber",
-  "20.11 16:45:55  3 yeni haber",
-  "20.11 16:36:47  3 yeni haber"
+  "20.11 16:45:55  3 yeni haber"
  ],
  "otomatik": false
 }
