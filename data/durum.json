@@ -24152,7 +24152,10 @@
     "te"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "73b515c2aacf": {
    "id": "73b515c2aacf",
@@ -24355,6 +24358,30 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e18d0ae5919b": {
+   "id": "e18d0ae5919b",
+   "kaynak": "TRT Haber",
+   "baslik": "Gazze Sağlık Bakanlığı: Gazze'de 2025'te ölenlerin sayısı 2022'dekilerin 4 katından fazla",
+   "ozet": "Gazze'deki Sağlık Bakanlığı Genel Müdürü Münir elBurş, Gazze'de 2025'te İsrail saldırıları ve hastalık gibi sebeplerden ölümlerin 2022 yılındaki sayının 4 katından fazla olduğunu açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/gazze-saglik-bakanligi-gazzede-2025te-olenlerin-sayisi-2022dekilerin-4-katindan-fazla-964158.html",
+   "zaman": "2026-11-23T00:39:00+03:00",
+   "kelimeler": [
+    "2022",
+    "2025",
+    "bakan",
+    "dekil",
+    "fazla",
+    "gazze",
+    "katin",
+    "olenl",
+    "sagli",
+    "sayis",
+    "te"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "13a4107fd5c4"
   }
  },
  "kayit": [
