@@ -1,86 +1,5 @@
 {
  "haberler": {
-  "12486e6fbeef": {
-   "id": "12486e6fbeef",
-   "kaynak": "AA",
-   "baslik": "ABD'den Güneydoğu Asya'daki siber dolandırıcılık ağlarına yaptırım",
-   "ozet": "ABD Hazine Bakanlığı, Güneydoğu Asya'da siber dolandırıcılık merkezlerini işlettikleri ve bu faaliyetlere destek sağladıkları gerekçesiyle 3 kişiyle bağlantılı 2 şirkete yaptırım uyguladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdden-guneydogu-asyadaki-siber-dolandiricilik-aglarina-yaptirim/4131448",
-   "zaman": "2026-11-19T21:33:11+03:00",
-   "kelimeler": [
-    "abd",
-    "aglar",
-    "asya",
-    "daki",
-    "den",
-    "dolan",
-    "guney",
-    "siber",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0121aead5328": {
-   "id": "0121aead5328",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul’da gökyüzü kızıla boyandı",
-   "ozet": "İstanbul’da gün batımında gökyüzünde oluşan kızıllık, kentin siluetiyle birleşerek kartpostallık görüntüler oluşturdu. Gökyüzünün kırmızı renge büründüğü anlarda ortaya çıkan eşsiz manzara havadan görüntülendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-gokyuzu-kizila-boyandi-43384344",
-   "zaman": "2026-11-19T21:37:23+03:00",
-   "kelimeler": [
-    "boyan",
-    "gokyu",
-    "istan",
-    "kizil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6829da3b209b": {
-   "id": "6829da3b209b",
-   "kaynak": "AA",
-   "baslik": "İsrail savaş uçakları Lübnan'ın doğusuna hava saldırıları düzenledi",
-   "ozet": "İsrail ordusu, yürürlükteki ateşkes ve çerçeve anlaşmasına rağmen Lübnan'ın doğusundaki Baalbek kentine hava saldırıları düzenledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-savas-ucaklari-lubnanin-dogusuna-hava-saldirilari-duzenledi/4131451",
-   "zaman": "2026-11-19T21:42:04+03:00",
-   "kelimeler": [
-    "dogus",
-    "duzen",
-    "hava",
-    "in",
-    "israi",
-    "lubna",
-    "saldi",
-    "savas",
-    "ucakl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "25c5e7f7bc5d": {
-   "id": "25c5e7f7bc5d",
-   "kaynak": "TRT Haber",
-   "baslik": "Tokat'ta kamyonet ile tır çarpıştı: 2 ölü, 3 yaralı",
-   "ozet": "Tokat'ın Zile ilçesinde kamyonetle tırın çarpışması sonucu 2 kişi öldü, 3 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/tokatta-kamyonet-ile-tir-carpisti-2-olu-3-yarali-963867.html",
-   "zaman": "2026-11-19T21:38:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "kamyo",
-    "olu",
-    "ta",
-    "tir",
-    "tokat",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "56c1fba067c8": {
    "id": "56c1fba067c8",
    "kaynak": "NTV",
@@ -23396,7 +23315,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Sözcü"
+    "Sözcü",
+    "BBC Türkçe"
    ]
   },
   "32f6dcf7f5f7": {
@@ -24850,10 +24770,126 @@
     "yanik"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "c83d2cbe6e04": {
+   "id": "c83d2cbe6e04",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, Eyüpspor'u tek golle yendi",
+   "ozet": "Trendyol Süper Lig'in 12. haftasında Trabzonspor, Eyüpspor'u 1-0 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-eyupsporu-tek-golle-yendi/4133729",
+   "zaman": "2026-11-22T19:57:26+03:00",
+   "kelimeler": [
+    "eyups",
+    "golle",
+    "tek",
+    "trabz",
+    "yendi"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "4684587fd933": {
+   "id": "4684587fd933",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi: Toplam 111 bin 904 ton insani yardım malzemesi Gazze'ye ulaştırıldı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 7 Ekim 2023'ten bugüne kadar toplam 111 bin 904 ton insani yardım malzemesinin Gazze'ye ulaştırıldığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-toplam-111-bin-904-ton-insani-yardim-malzemesi-gazzeye-ulastirildi-964152.html",
+   "zaman": "2026-11-22T21:26:00+03:00",
+   "kelimeler": [
+    "111",
+    "904",
+    "bakan",
+    "bin",
+    "ciftc",
+    "gazze",
+    "insan",
+    "malze",
+    "ton",
+    "topla",
+    "ulast",
+    "yardi",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "04001a914bf9": {
+   "id": "04001a914bf9",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran, Prof. Dr. Medaim Yanık Sempozyumunda konuştu",
+   "ozet": "İletişim Başkanı Burhanettin Duran, İbn Haldun Üniversitesi Öğretim Üyesi Prof. Dr.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-prof-dr-medaim-yanik-sempozyumunda-konustu-964153.html",
+   "zaman": "2026-11-22T21:34:00+03:00",
+   "kelimeler": [
+    "baska",
+    "dr",
+    "duran",
+    "ileti",
+    "konus",
+    "medai",
+    "prof",
+    "sempo",
+    "yanik"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1dee570d8fc6"
+  },
+  "1e5a52ee1450": {
+   "id": "1e5a52ee1450",
+   "kaynak": "NTV",
+   "baslik": "Bakan Çiftçi: 111 bin 904 ton insani yardım malzemesi Gazze'ye ulaştırıldı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 7 Ekim 2023'ten bugüne kadar toplam 111 bin 904 ton insani yardım malzemesinin Gazze'ye ulaştırıldığını bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/bakan-ciftci-111-bin-904-ton-insani-yardim-malzemesi-gazzeye-ulastirildi-1752101",
+   "zaman": "2026-11-22T21:37:39+03:00",
+   "kelimeler": [
+    "111",
+    "904",
+    "bakan",
+    "bin",
+    "ciftc",
+    "gazze",
+    "insan",
+    "malze",
+    "ton",
+    "ulast",
+    "yardi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4684587fd933"
+  },
+  "47eb55e70fdf": {
+   "id": "47eb55e70fdf",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Bakan Gürlek: HGS'yle ilgili soruşturma başlatıldı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Hızlı Geçiş Sistemi (HGS) üzerinden haksız kazanç elde edildiği yönündeki iddialar ve şikayetler üzerine soruşturma başlatıldığını açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo",
+   "zaman": "2026-11-22T21:39:43+03:00",
+   "kelimeler": [
+    "bakan",
+    "basla",
+    "gurle",
+    "hgs",
+    "ilgil",
+    "sorus",
+    "yle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e3bb16a395f4"
   }
  },
  "kayit": [
+  "22.11 21:46:06  2 yeni haber",
   "22.11 21:31:12  3 yeni haber",
   "22.11 21:16:06  1 yeni haber",
   "22.11 21:01:45  1 yeni haber",
@@ -25052,8 +25088,7 @@
   "20.11 18:04:28  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · THY, \"APEX 5 Yıldızlı Global Havayolu\" ödülünü yedinci kez kazandı",
   "20.11 18:01:32  8 yeni haber",
   "20.11 17:46:19  2 yeni haber",
-  "20.11 17:38:28  5 yeni haber",
-  "20.11 17:16:22  5 yeni haber"
+  "20.11 17:38:28  5 yeni haber"
  ],
  "otomatik": false
 }
