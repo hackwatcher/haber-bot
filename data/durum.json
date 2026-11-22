@@ -1,55 +1,5 @@
 {
  "haberler": {
-  "fc24edefb46a": {
-   "id": "fc24edefb46a",
-   "kaynak": "AA",
-   "baslik": "Pentagon yetkilisi Miller, İran'la savaşın maliyetinin 48,3 milyar dolara ulaştığını açıkladı",
-   "ozet": "ABD Savunma Bakanlığı (Pentagon) yetkilisi Arthur Miller, ABD'nin İran'la savaşının maliyetinin 13 Kasım itibarıyla 48,3 milyar dolara ulaştığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/pentagon-yetkilisi-miller-iranla-savasin-maliyetinin-48-3-milyar-dolara-ulastigini-acikladi/4131521",
-   "zaman": "2026-11-19T23:10:27+03:00",
-   "kelimeler": [
-    "48",
-    "dolar",
-    "iran",
-    "la",
-    "maliy",
-    "mille",
-    "milya",
-    "penta",
-    "savas",
-    "ulast",
-    "yetki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b48fbe87bf07": {
-   "id": "b48fbe87bf07",
-   "kaynak": "AA",
-   "baslik": "Almanya, Fransa, İngiltere ve Ukrayna liderlerinden \"Rusya'ya kış boyunca enerji ateşkesi\" çağrısı",
-   "ozet": "Almanya, Fransa, İngiltere ve Ukrayna liderleri, çatışmaların sona erdirilmesine yönelik ilk adım olarak Rusya'ya kış boyunca geçerli olacak bir \"enerji ateşkesi\" kabul etmesi çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusyaya-kis-boyunca-enerji-ateskesi-cagrisi/4131523",
-   "zaman": "2026-11-19T23:13:31+03:00",
-   "kelimeler": [
-    "alman",
-    "atesk",
-    "boyun",
-    "cagri",
-    "enerj",
-    "frans",
-    "ingil",
-    "kis",
-    "lider",
-    "rusya",
-    "ukray",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "354b83e40116": {
    "id": "354b83e40116",
    "kaynak": "TRT Haber",
@@ -24543,7 +24493,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2105880c118e": {
    "id": "2105880c118e",
@@ -24560,6 +24512,27 @@
     "gordu",
     "ihbar",
     "sariy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f90d1dc8ee26"
+  },
+  "fa0c1af03ea3": {
+   "id": "fa0c1af03ea3",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıyer'de 'aslan gördüm' ihbarı yapıldı; ekipler çalışma başlattı",
+   "ozet": "SARIYER'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sariyerde-aslan-gordum-ihbari-yapildi-ekipler-calisma-baslatti-43387403",
+   "zaman": "2026-11-22T22:59:00+03:00",
+   "kelimeler": [
+    "aslan",
+    "basla",
+    "calis",
+    "ekipl",
+    "gordu",
+    "ihbar",
+    "sariy",
+    "yapil"
    ],
    "durum": "tekrar",
    "oncelikli": false,
