@@ -1,89 +1,5 @@
 {
  "haberler": {
-  "d65931c29458": {
-   "id": "d65931c29458",
-   "kaynak": "Hürriyet",
-   "baslik": "Takip, çarpma ve kavga… Ayırmaya çalışan 64 yaşındaki adam kalp krizinden öldü",
-   "ozet": "Tokat, Ebaa ilçe merkezinde başlayan tartışmanın ardından otomobiliyle Y.A.’nın aracını takip edip Koçak Mahallesi’nde arkadan çarpan Taha Furkan B., nişanlısı Elif A. ile Y.A.’yı darbetti.",
-   "link": "https://www.hurriyet.com.tr/gundem/takip-carpma-ve-kavga-ayirmaya-calisan-64-yasindaki-adam-kalp-krizinden-oldu-43383727",
-   "zaman": "2026-11-19T13:23:00+03:00",
-   "kelimeler": [
-    "64",
-    "adam",
-    "ayirm",
-    "calis",
-    "carpm",
-    "kalp",
-    "kavga",
-    "krizi",
-    "takip",
-    "yasin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e3c689cba36f": {
-   "id": "e3c689cba36f",
-   "kaynak": "NTV",
-   "baslik": "Gazeteci İsmail Arı hakkında ilk duruşmada beraat ve tahliye kararı",
-   "ozet": "Eski RTÜK Başkanı'nın şikayeti üzerine başlatılan soruşturmada tutuklanan gazeteci İsmail Arı, ilk duruşmada beraat etti. Arı'nın tahliyesine karar verildi.",
-   "link": "https://www.ntv.com.tr/turkiye/gazeteci-ismail-ari-hakkinda-ilk-durusmada-beraat-ve-tahliye-karari-1751620",
-   "zaman": "2026-11-19T13:28:46+03:00",
-   "kelimeler": [
-    "ari",
-    "beraa",
-    "durus",
-    "gazet",
-    "hakki",
-    "ilk",
-    "ismai",
-    "karar",
-    "tahli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "60437054c6c7"
-  },
-  "729cf6ed62ec": {
-   "id": "729cf6ed62ec",
-   "kaynak": "AA",
-   "baslik": "\"Aşk Tesadüfleri Sever 3\" izleyiciyle buluşacak",
-   "ozet": "Mehmet Günsür ve Devrim Özkan'ın başrollerini paylaştığı \"Aşk Tesadüfleri Sever 3\" izleyiciyle buluşacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/ask-tesadufleri-sever-3-izleyiciyle-bulusacak/4130484",
-   "zaman": "2026-11-19T13:25:18+03:00",
-   "kelimeler": [
-    "ask",
-    "bulus",
-    "izley",
-    "sever",
-    "tesad"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fcaa15b95eb8": {
-   "id": "fcaa15b95eb8",
-   "kaynak": "Hürriyet",
-   "baslik": "Dünyada çok nadir rastlanıyor! Hastanın yumurtalıklarından kalbine ulaşan 32 santimlik tümör çıkarıldı",
-   "ozet": "Balıkesir'de yaşayan 39 yaşındaki Filiz İnal'ın, yumurtalıklarından toplardamarlar yoluyla kalbine kadar ulaşan 32 santimetre uzunluğundaki nadir tümör, Bursa Şehir Hastanesi'nde yapılan operasyonla 6 parça halinde çıkarılarak temizlendi. Kalp Damar Cerrahi Uzmanı Prof. Dr.",
-   "link": "https://www.hurriyet.com.tr/gundem/dunyada-cok-nadir-rastlaniyor-hastanin-yumurtaliklarindan-kalbine-ulasan-32-santimlik-tumor-cikarildi-43383734",
-   "zaman": "2026-11-19T13:27:00+03:00",
-   "kelimeler": [
-    "32",
-    "cikar",
-    "dunya",
-    "hasta",
-    "kalbi",
-    "nadir",
-    "rastl",
-    "santi",
-    "tumor",
-    "ulasa",
-    "yumur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5021d8ca54c8": {
    "id": "5021d8ca54c8",
    "kaynak": "TRT Haber",
@@ -25859,7 +25775,8 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "2a0b42c093f7": {
    "id": "2a0b42c093f7",
@@ -26820,7 +26737,10 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f41d7fadc348": {
    "id": "f41d7fadc348",
@@ -26902,8 +26822,17 @@
     "turnu",
     "ulast"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-22T13:33:35.861336+03:00",
+   "ig_id": "18107508482376909",
+   "reels_id": "18649965811044170",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1459143276308105",
+   "slayt": 5,
+   "kanca": "TAYLAND'DA ŞAMPİYONLUK KUPASI"
   },
   "701fcbd64a3d": {
    "id": "701fcbd64a3d",
@@ -27094,9 +27023,152 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9cbe8d6f36aa": {
+   "id": "9cbe8d6f36aa",
+   "kaynak": "TRT Haber",
+   "baslik": "Evdeki hangi davranışlar çocuğu zorbalığa itiyor?",
+   "ozet": "\"Sana vurana sen de vur\", \"Kendini ezdirme\"... Çocukları korumak amacıyla söylenen bu sözler, farkında olmadan şiddeti bir sorun çözme yöntemi olarak öğretebiliyor. Peki çocukların okulda başkalarına zorbalık yapmasında aile ortamının nasıl bir etkisi var?",
+   "link": "https://www.trthaber.com/haber/cocuk/evdeki-hangi-davranislar-cocugu-zorbaliga-itiyor-964128.html",
+   "zaman": "2026-11-21T17:17:00+03:00",
+   "kelimeler": [
+    "cocug",
+    "davra",
+    "evdek",
+    "hangi",
+    "itiyo",
+    "zorba"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "da78b95b94bc": {
+   "id": "da78b95b94bc",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 6 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 6 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-6-kisi-hayatini-kaybetti/4133389",
+   "zaman": "2026-11-22T11:20:03+03:00",
+   "kelimeler": [
+    "24",
+    "atesk",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "ragme",
+    "saatt",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d7834113833"
+  },
+  "d21082e40b34": {
+   "id": "d21082e40b34",
+   "kaynak": "TRT Haber",
+   "baslik": "Şırnak'ta şehidimiz için tören düzenlendi",
+   "ozet": "Şırnak'ın Uludere ilçesine bağlı Şenoba beldesinde silah kazası sonucu şehit olan İstihbarat Astsubay Çavuş Yalın Gergün'ün naaşı düzenlenen törenin ardından Samsun'a uğurlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sirnakta-sehidimiz-icin-toren-duzenlendi-964118.html",
+   "zaman": "2026-11-22T11:36:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "sehid",
+    "sirna",
+    "ta",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "44a0c81beb37": {
+   "id": "44a0c81beb37",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiyenin diplomasi rotası belgesel oldu",
+   "ozet": "İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğanın son beş ayda NATO, Birleşmiş Milletler, Türk Devletleri Teşkilatı ve COP31 zirvelerinde yürüttüğü diplomasi trafiğinin belgesel haline getirildiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-diplomasi-rotasi-belgesel-oldu-964127.html",
+   "zaman": "2026-11-22T12:46:00+03:00",
+   "kelimeler": [
+    "belge",
+    "diplo",
+    "rotas",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e99b0667dda5": {
+   "id": "e99b0667dda5",
+   "kaynak": "AA",
+   "baslik": "Türk Kızılay'dan Gazze'ye yaklaşık 25 bin kişilik gıda yardımı",
+   "ozet": "Türk Kızılay, yaklaşık 25 bin kişilik gıda yardımını Gazze'deki ihtiyaç sahiplerine ulaştırdı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-kizilaydan-gazzeye-yaklasik-25-bin-kisilik-gida-yardimi/4133446",
+   "zaman": "2026-11-22T12:46:11+03:00",
+   "kelimeler": [
+    "25",
+    "bin",
+    "dan",
+    "gazze",
+    "gida",
+    "kisil",
+    "kizil",
+    "turk",
+    "yakla",
+    "yardi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "caf6655a57bd"
+  },
+  "5b0f8eebd504": {
+   "id": "5b0f8eebd504",
+   "kaynak": "TRT Haber",
+   "baslik": "Pendik'te doğal gaz zehirlenmesi: 16 kişi hastaneye kaldırıldı",
+   "ozet": "İstanbul Pendik'te, 9 katlı binada oturan 16 kişi doğal gaz zehirlenmesi şüphesiyle hastanede tedavi altına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/pendikte-dogal-gaz-zehirlenmesi-16-kisi-hastaneye-kaldirildi-964129.html",
+   "zaman": "2026-11-22T13:13:00+03:00",
+   "kelimeler": [
+    "16",
+    "dogal",
+    "gaz",
+    "hasta",
+    "kaldi",
+    "kisi",
+    "pendi",
+    "te",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "492b8295dcd4": {
+   "id": "492b8295dcd4",
+   "kaynak": "AA",
+   "baslik": "Yabancı Dil Bilgisi Seviye Tespit Sınavı yapıldı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca Yabancı Dil Bilgisi Seviye Tespit Sınavı (2026-YDS/2) yapıldı. Sınavın sonuçları 10 Aralık'ta duyurulacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/yabanci-dil-bilgisi-seviye-tespit-sinavi-yapildi/4133478",
+   "zaman": "2026-11-22T13:24:20+03:00",
+   "kelimeler": [
+    "bilgi",
+    "dil",
+    "seviy",
+    "sinav",
+    "tespi",
+    "yaban",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 13:33:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyonluğa ulaştı",
+  "22.11 13:31:15  5 yeni haber",
   "22.11 13:16:03  5 yeni haber",
   "22.11 13:01:19  1 yeni haber",
   "22.11 12:58:35  7 yeni haber",
@@ -27294,9 +27366,7 @@
   "20.11 10:46:12  7 yeni haber",
   "20.11 10:31:28  8 yeni haber",
   "20.11 10:16:13  6 yeni haber",
-  "20.11 10:03:28  10 yeni haber",
-  "20.11 09:46:07  4 yeni haber",
-  "20.11 09:37:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Tur otobüsü makas atan tıra çarptı: 3'ü ağır 20 yaralı"
+  "20.11 10:03:28  10 yeni haber"
  ],
  "otomatik": false
 }
