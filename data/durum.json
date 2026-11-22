@@ -23,52 +23,6 @@
     "TRT Haber"
    ]
   },
-  "0f8a1ac20735": {
-   "id": "0f8a1ac20735",
-   "kaynak": "AA",
-   "baslik": "ABD Temsilciler Meclisi, Çin'e yapay zeka çipi ihracatına yönelik lisans bilgilerini yayımladı",
-   "ozet": "ABD Temsilciler Meclisi Dış İlişkiler Komitesi Başkanı Brian Mast, Çin'deki şirketlere 879 binden fazla Nvidia ve Advanced Micro Devices (AMD) yapay zeka çipinin ihracatına onay verildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-temsilciler-meclisi-cine-yapay-zeka-cipi-ihracatina-yonelik-lisans-bilgilerini-yayimladi/4131612",
-   "zaman": "2026-11-20T00:48:23+03:00",
-   "kelimeler": [
-    "abd",
-    "bilgi",
-    "cin",
-    "cipi",
-    "ihrac",
-    "lisan",
-    "mecli",
-    "temsi",
-    "yapay",
-    "yayim",
-    "yonel",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fc5fb7000617": {
-   "id": "fc5fb7000617",
-   "kaynak": "AA",
-   "baslik": "BUDO'nun bugünkü 10 seferi iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 10 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-10-seferi-iptal-edildi/4131613",
-   "zaman": "2026-11-20T00:48:26+03:00",
-   "kelimeler": [
-    "10",
-    "budo",
-    "bugun",
-    "edild",
-    "iptal",
-    "nun",
-    "sefer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "29c8fbe5dd34": {
    "id": "29c8fbe5dd34",
    "kaynak": "TRT Haber",
@@ -23815,7 +23769,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "XHABER"
    ]
   },
   "2105880c118e": {
@@ -23938,8 +23893,17 @@
     "turki",
     "yesil"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-23T01:04:01.963797+03:00",
+   "ig_id": "18098253749152910",
+   "reels_id": "18124840838472573",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1115104711330964",
+   "slayt": 5,
+   "kanca": "DRONE MİLLİ TAKIMI BELİRLENDİ"
   },
   "7402e96c3683": {
    "id": "7402e96c3683",
@@ -24314,9 +24278,117 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3bedec468037": {
+   "id": "3bedec468037",
+   "kaynak": "AA",
+   "baslik": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
+   "ozet": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
+   "zaman": "2026-11-22T23:39:42+03:00",
+   "kelimeler": [
+    "ara",
+    "egiti",
+    "ilces",
+    "in",
+    "kar",
+    "neden",
+    "van",
+    "veril",
+    "yagis",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "592c8ce9faf7"
+  },
+  "d426b194f9c7": {
+   "id": "d426b194f9c7",
+   "kaynak": "TRT Haber",
+   "baslik": "Van'ın 4 ilçesinde eğitime kar engeli",
+   "ozet": "Van'ın Çaldıran, Muradiye, Saray ve Özalp ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/vanin-4-ilcesinde-egitime-kar-engeli-964157.html",
+   "zaman": "2026-11-23T00:06:00+03:00",
+   "kelimeler": [
+    "egiti",
+    "engel",
+    "ilces",
+    "in",
+    "kar",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "592c8ce9faf7"
+  },
+  "d4ef7835a09d": {
+   "id": "d4ef7835a09d",
+   "kaynak": "XHABER",
+   "baslik": "İstanbul Sarıyer'de yollarda dolaşan dişi bir aslan görüldüğü ihbar edildi.",
+   "ozet": "Doğa Koruma ve Milli Parklar ekipleri, veteriner hekimler eşliğinde aslanı yakalama çalışması başlattı.",
+   "link": "https://t.me/sahinozkan000/30844",
+   "zaman": "2026-11-23T00:46:03+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İstanbul Sarıyer'de yollarda dolaşan dişi bir aslan görüldüğü ihbar edildi.\nDoğa Koruma ve Milli Parklar ekipleri, veteriner hekimler eşliğinde aslanı yakalama çalışması başlattı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/d7D8dJ4xJj6wasTcepd28VEE_AUE2JoqOjrMsn4nKPvYybpuX_THhijFSHqdvCZBY85skjcEUmw1kqcyLvg8eWVGOwLDw_SAx8HVRJ98fLTeNY250qn4KotkeMOpFfbFHdZ3F-JzFzd7dSDitfP5GY2u7fsvdGMKzGyA_5XRlPwI6cAst0kGX7a6V61Gewq69ndSoPHSh7-0a4vbnVy69_rZGYALrDG5krDGtEZsCh7QI5jlpeY1B_B-Vk-UtPPCCN0YRE2_2fbgLqUUp_oNPlbJImMiMDZMXq0q9EIDGoK15QWiWA4XqYo6Mcb7a1-5GfdSu_PIcdoQ1iCg5Fzl3Q",
+   "tg_video_url": "https://cdn4.telesco.pe/file/cae44307ac.mp4?token=obpqGvJQGuL0n7HKClG18ZLQ1fhYdT32QA-z8vZeZLOGHXdZC-l47rnoIZzgyNzZR46XTLkHTaYYrKWp0YSQLA76S4k_dIWBLOmOF1Sb2W4K5u5J1ZOkHV_Ubw4haI4XmuGaoXquJYILPO66Hm73sEyXGfBu9MY-xp7-WzPrlSTPAF92RJe1Q7G54R_tK6uC89Q7-qjURyS7yofYT-wsdXg0f6rblNzzAPPZiDHmrS0oXKF--iIx6t06ipEQjQJwbmI3nrollAZQDUe2Jvcw31_2Fy7TI6TnUNESjJlxiJgTwS2TrC18GdCdfnLSez2LQf4cQbCoU_mF7MTLYRiORQ",
+   "kelimeler": [
+    "aslan",
+    "disi",
+    "dolas",
+    "edild",
+    "gorul",
+    "ihbar",
+    "istan",
+    "sariy",
+    "yolla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f90d1dc8ee26"
+  },
+  "f24f24dc39f5": {
+   "id": "f24f24dc39f5",
+   "kaynak": "AA",
+   "baslik": "Bakan Kurum'dan, \"COP31\" paylaşımı",
+   "ozet": "Bakan Kurum, \"Her müzakere aynı noktada sonuçlanmayabilir. Her beklenti karşılık bulmayabilir. Ancak ortak evimiz dünya için konuşmaktan, dinlemekten ve çözüm aramaktan vazgeçmeyeceğiz.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-cop31-paylasimi/4133878",
+   "zaman": "2026-11-23T00:46:59+03:00",
+   "kelimeler": [
+    "bakan",
+    "cop31",
+    "dan",
+    "kurum",
+    "payla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2f10dd6c0654"
+  },
+  "a33eaf98b8df": {
+   "id": "a33eaf98b8df",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Kurum: Ortak evimiz dünya için çözüm aramaktan vazgeçmeyeceğiz",
+   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Her müzakere aynı noktada sonuçlanmayabilir. Her beklenti karşılık bulmayabilir. Ancak ortak evimiz dünya için konuşmaktan, dinlemekten ve çözüm aramaktan vazgeçmeyeceğiz\" ifadelerini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-ortak-evimiz-dunya-icin-cozum-aramaktan-vazgecmeyecegiz-964159.html",
+   "zaman": "2026-11-23T00:51:00+03:00",
+   "kelimeler": [
+    "arama",
+    "bakan",
+    "cozum",
+    "dunya",
+    "evimi",
+    "kurum",
+    "ortak",
+    "vazge"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 01:04:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı",
+  "23.11 01:01:18  1 yeni haber",
   "23.11 00:45:52  3 yeni haber",
   "23.11 00:33:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli badmintoncular, Ankara'daki uluslararası turnuvada 12 madalya el",
   "23.11 00:31:07  4 yeni haber",
@@ -24514,9 +24586,7 @@
   "20.11 21:01:29  3 yeni haber",
   "20.11 20:46:48  1 yeni haber",
   "20.11 20:32:12  1 yeni haber",
-  "20.11 20:20:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yeni nesil suç örgütlerine operasyon… İş insanlarına 15 silahlı eylem ",
-  "20.11 20:17:32  6 yeni haber",
-  "20.11 20:02:57  3 yeni haber"
+  "20.11 20:20:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Yeni nesil suç örgütlerine operasyon… İş insanlarına 15 silahlı eylem "
  ],
  "otomatik": false
 }
