@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "e859a09303a6": {
-   "id": "e859a09303a6",
-   "kaynak": "AA",
-   "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de yayımlandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/belediye-meclisi-calisma-yonetmeliginde-degisiklik-yapilmasina-dair-yonetmelik-resmi-gazetede/4131620",
-   "zaman": "2026-11-20T02:05:02+03:00",
-   "kelimeler": [
-    "beled",
-    "calis",
-    "dair",
-    "degis",
-    "gazet",
-    "mecli",
-    "resmi",
-    "yapil",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "a4a3453a586c": {
    "id": "a4a3453a586c",
    "kaynak": "Hürriyet",
@@ -237,24 +213,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "c68aedbebd8e"
-  },
-  "d46c770b23bb": {
-   "id": "d46c770b23bb",
-   "kaynak": "TRT Haber",
-   "baslik": "Gaziosmanpaşa'da 5 katlı binada yangın çıktı",
-   "ozet": "İstanbul Gaziosmanpaşa'da 5 katlı binada çıkan yangında dumandan etkilenen 6 kişi hastaneye kaldırıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/gaziosmanpasada-5-katli-binada-yangin-cikti-963886.html",
-   "zaman": "2026-11-20T02:14:00+03:00",
-   "kelimeler": [
-    "binad",
-    "cikti",
-    "gazio",
-    "katli",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ab1125bbaef9"
   },
   "0368e9f95a1c": {
    "id": "0368e9f95a1c",
@@ -24382,9 +24340,59 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "13a4107fd5c4"
+  },
+  "541d9f668b0a": {
+   "id": "541d9f668b0a",
+   "kaynak": "AA",
+   "baslik": "Husiler, Suudi Arabistan'ın Yemen'de düzenlediği saldırılarda 2'si çocuk 4 kişinin öldüğünü duyurdu",
+   "ozet": "Yemen’deki İran destekli Husiler, Suudi Arabistan tarafından Saada ve Taiz kentlerine düzenlenen saldırılarda 2'si çocuk 4 kişinin hayatını kaybettiğini, 22 kişinin yaralandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistanin-yemende-duzenledigi-saldirilarda-2si-cocuk-4-kisinin-oldugunu-duyurdu/4133761",
+   "zaman": "2026-11-22T20:24:21+03:00",
+   "kelimeler": [
+    "arabi",
+    "cocuk",
+    "duyur",
+    "duzen",
+    "husil",
+    "in",
+    "kisin",
+    "oldug",
+    "saldi",
+    "si",
+    "suudi",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2b2c2d95a82f": {
+   "id": "2b2c2d95a82f",
+   "kaynak": "AA",
+   "baslik": "Netanyahu’nun Trump'ı \"en kısa sürede\" İran'a yeni saldırı başlatması için ikna etmeye çalıştığı bildirildi",
+   "ozet": "İsrail geçici Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'ı \"mümkün olan en kısa süre içinde\" İran'a yeni saldırı talimatı vermesi için ikna etmeye çalıştığı aktarıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-nun-trumpi-en-kisa-surede-irana-yeni-saldiri-baslatmasi-icin-ikna-etmeye-calistigi-bildirildi/4133887",
+   "zaman": "2026-11-23T02:13:21+03:00",
+   "kelimeler": [
+    "basla",
+    "bildi",
+    "calis",
+    "etmey",
+    "ikna",
+    "iran",
+    "kisa",
+    "netan",
+    "nun",
+    "saldi",
+    "sured",
+    "trump",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 02:15:54  2 yeni haber",
   "23.11 01:16:18  2 yeni haber",
   "23.11 01:04:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı",
   "23.11 01:01:18  1 yeni haber",
@@ -24583,8 +24591,7 @@
   "20.11 21:31:43  1 yeni haber",
   "20.11 21:16:25  1 yeni haber",
   "20.11 21:01:29  3 yeni haber",
-  "20.11 20:46:48  1 yeni haber",
-  "20.11 20:32:12  1 yeni haber"
+  "20.11 20:46:48  1 yeni haber"
  ],
  "otomatik": false
 }
