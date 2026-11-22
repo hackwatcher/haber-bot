@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "026ac48e8531": {
-   "id": "026ac48e8531",
-   "kaynak": "TRT Haber",
-   "baslik": "Brent petrolün varili 92,15 dolardan işlem görüyor",
-   "ozet": "Brent petrolün varili, uluslararası vadeli piyasalarda 92,15 dolardan işlem görüyor.",
-   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9215-dolardan-islem-goruyor-963768.html",
-   "zaman": "2026-11-19T09:36:00+03:00",
-   "kelimeler": [
-    "15",
-    "92",
-    "brent",
-    "dolar",
-    "goruy",
-    "islem",
-    "petro",
-    "varil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "47c5246d806f"
-  },
-  "8ae56f4c8d95": {
-   "id": "8ae56f4c8d95",
-   "kaynak": "NTV",
-   "baslik": "GTA çılgınlığı gece dinlemedi: \"13 yıl beklemek uzun bir süreydi\"",
-   "ozet": "Hatay’da GTA’nın son sürümünü oynayabilmek için gece saatlerinde oyun salonunun yolunu tutan vatandaşlar, ilerleyen saate rağmen zevklerinden vazgeçmedi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-gta-cilginligi-gece-dinlemedi-13-yil-beklemek-uzun-bir-sureydi-1751548",
-   "zaman": "2026-11-19T09:39:26+03:00",
-   "kelimeler": [
-    "13",
-    "bekle",
-    "cilgi",
-    "dinle",
-    "gece",
-    "gta",
-    "surey",
-    "uzun",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3e426c05dfac": {
-   "id": "3e426c05dfac",
-   "kaynak": "Hürriyet",
-   "baslik": "Çocuklar parkta buldu; güvenlik kamerasına gösterip ekiplere teslim etti",
-   "ozet": "Bursa'da 15 yaşındaki Umut Can Şen ve Ayberk Bilgili, gittikleri parkta bir cüzden buldu. İki arkadaş, daha sonra buldukları bu cüzdanı çevredeki güvenlik kamerasına göstererek zabıta memurlarına teslim etti. Çocukların bu davranışı takdir topladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/cocuklar-parkta-buldu-guvenlik-kamerasina-gosterip-ekiplere-teslim-etti-43383228",
-   "zaman": "2026-11-19T09:44:53+03:00",
-   "kelimeler": [
-    "buldu",
-    "cocuk",
-    "ekipl",
-    "etti",
-    "goste",
-    "guven",
-    "kamer",
-    "parkt",
-    "tesli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "15536ebc34c7": {
    "id": "15536ebc34c7",
    "kaynak": "TRT Haber",
@@ -28528,7 +28465,10 @@
     "zili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "5aaaa793a962": {
    "id": "5aaaa793a962",
@@ -28550,9 +28490,122 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "0719740350a6": {
+   "id": "0719740350a6",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail, Batı Şeria'daki Yahudi işgal birimlerine 895 yeni konut için 11 plan açıkladı",
+   "ozet": "İşgalci İsrail makamlarının, Batı Şeria'da bulunan Yahudi işgal birimlerine 895 yeni konutun inşasını da içeren 11 plan duyurduğu bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriadaki-yahudi-isgal-birimlerine-895-yeni-konut-icin-11-plan-acikladi-964110.html",
+   "zaman": "2026-11-22T09:17:00+03:00",
+   "kelimeler": [
+    "11",
+    "895",
+    "bati",
+    "birim",
+    "daki",
+    "isgal",
+    "israi",
+    "konut",
+    "plan",
+    "seria",
+    "yahud",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b23be4e225f3": {
+   "id": "b23be4e225f3",
+   "kaynak": "TRT Haber",
+   "baslik": "Ara tatil sonrası ilk ders zili yarın çalacak",
+   "ozet": "Milli Eğitim Bakanlığına MEB bağlı ilk ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 1,2 milyon öğretmenle eğitim öğretim yılının ilk ara tatilinin ardından yarın dersbaşı yapacak.",
+   "link": "https://www.trthaber.com/haber/egitim/ara-tatil-sonrasi-ilk-ders-zili-yarin-calacak-964109.html",
+   "zaman": "2026-11-22T09:23:00+03:00",
+   "kelimeler": [
+    "ara",
+    "calac",
+    "ders",
+    "ilk",
+    "sonra",
+    "tatil",
+    "yarin",
+    "zili"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "91fea7964d86"
+  },
+  "16bf67cddf80": {
+   "id": "16bf67cddf80",
+   "kaynak": "NTV",
+   "baslik": "Yarıyıl tatili ne zaman, hangi ayda başlıyor? 2026-2027 MEB yarıyıl tatili takvimi",
+   "ozet": "Millî Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarında eğitim gören milyonlarca öğrenci kasım ara tatilini tamamlarken, eğitim-öğretim yılının en uzun kış tatili olan yarıyıl tatili araştırmaları başladı. Peki, 2026-2027 yarıyıl tatili ne zaman, hangi ayda başlıyor?",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-yariyil-tatili-ne-zaman-hangi-ayda-basliyor-2026-2027-meb-yariyil-tatili-takvimi-1752008",
+   "zaman": "2026-11-22T09:34:05+03:00",
+   "kelimeler": [
+    "2026",
+    "2027",
+    "ayda",
+    "basli",
+    "hangi",
+    "meb",
+    "takvi",
+    "tatil",
+    "yariy",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "39a6f9af1a72": {
+   "id": "39a6f9af1a72",
+   "kaynak": "AA",
+   "baslik": "ABD'nin Washington Valisi Ferguson, \"ICE'ın feshedilmesi\" çağrısında bulundu",
+   "ozet": "ABD'nin Washington eyaletinin Valisi Bob Ferguson, Seattle'daki havalimanında maskeli Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) yetkililerinin 2 kişiyi gözaltına almasına tepki göstererek, bu birimin feshedilmesini talep etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-washington-valisi-ferguson-icein-feshedilmesi-cagrisinda-bulundu/4133314",
+   "zaman": "2026-11-22T09:35:58+03:00",
+   "kelimeler": [
+    "abd",
+    "bulun",
+    "cagri",
+    "fergu",
+    "feshe",
+    "ice",
+    "in",
+    "nin",
+    "valis",
+    "washi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ab982da00d9b": {
+   "id": "ab982da00d9b",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'a kış geliyor. Sıcaklık 11 derece birden düşecek, yeni hafta üşütecek",
+   "ozet": "Balkanlar üzerinden gelecek soğuk hava dalgasının etkisiyle İstanbul'a sıcaklık 11 derece birden düşecek. Sağanak yağışların da görüleceği megakentte yeni haftada hava buz gibi olacak.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbula-kis-geliyor-sicaklik-11-derece-birden-dusecek-yeni-hafta-usutecek-1752001",
+   "zaman": "2026-11-22T09:38:58+03:00",
+   "kelimeler": [
+    "11",
+    "birde",
+    "derec",
+    "dusec",
+    "geliy",
+    "hafta",
+    "istan",
+    "kis",
+    "sicak",
+    "usute",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 09:45:55  4 yeni haber",
   "22.11 09:31:09  1 yeni haber",
   "22.11 09:17:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Okan Buruk, Fatih Terim'in 41 maçlık iç saha yenilmezlik rekorunu kırd",
   "22.11 09:16:11  2 yeni haber",
@@ -28751,8 +28804,7 @@
   "20.11 06:31:22  2 yeni haber",
   "20.11 06:20:32  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "20.11 03:31:11  2 yeni haber",
-  "20.11 03:06:50  1 yeni haber",
-  "20.11 02:48:33  2 yeni haber"
+  "20.11 03:06:50  1 yeni haber"
  ],
  "otomatik": false
 }
