@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "e753a7b70ecf": {
-   "id": "e753a7b70ecf",
-   "kaynak": "AA",
-   "baslik": "Trump, Çin'deki APEC Zirvesi'nde yapay zekaya yönelik \"küreselci düzenlemeye\" karşı çıktı",
-   "ozet": "ABD Başkanı Donald Trump, yapay zekanın \"bazı kötü unsurları\" olduğunu ancak \"neredeyse tamamen iyi\" olduğunu belirterek, yapay zekanın kontrol edilmesine veya kısıtlanmasına yönelik her türlü \"küreselci düzenlemeye\" karşı olduklarını söyledi.",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-cindeki-apec-zirvesinde-yapay-zekaya-yonelik-kureselci-duzenlemeye-karsi-cikti/4129940",
-   "zaman": "2026-11-19T07:06:25+03:00",
-   "kelimeler": [
-    "apec",
-    "cikti",
-    "cin",
-    "deki",
-    "duzen",
-    "karsi",
-    "kures",
-    "nde",
-    "trump",
-    "yapay",
-    "yonel",
-    "zekay",
-    "zirve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "99fc3f59970f": {
-   "id": "99fc3f59970f",
-   "kaynak": "TRT Haber",
-   "baslik": "Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaşarak rekor kırdı",
-   "ozet": "NASA'nın ünlü derin uzay sondası Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaşarak insan yapımı başka hiçbir nesnenin başaramadığı tarihi bir dönüm noktasına imza attı.",
-   "link": "https://www.trthaber.com/haber/dunya/voyager-1-dunyadan-bir-isik-gunu-uzakliga-ulasarak-rekor-kirdi-963755.html",
-   "zaman": "2026-11-19T07:05:00+03:00",
-   "kelimeler": [
-    "dan",
-    "dunya",
-    "gunu",
-    "isik",
-    "kirdi",
-    "rekor",
-    "ulasa",
-    "uzakl",
-    "voyag"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d251b74e8af8": {
-   "id": "d251b74e8af8",
-   "kaynak": "TRT Haber",
-   "baslik": "Yapay zeka cips paketini silah sanınca, öğrenciler kuşatıldı",
-   "ozet": "Bir grup siyahi genç, açtıkları davada, yapay zeka gözetim sisteminin bir paket patates cipsini silah sanmasının ardından liselerinin dışında Baltimore polis memurları tarafından kelepçelenip arandıklarını belirtti",
-   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-cips-paketini-silah-saninca-ogrenciler-kusatildi-963756.html",
-   "zaman": "2026-11-19T07:13:00+03:00",
-   "kelimeler": [
-    "cips",
-    "kusat",
-    "ogren",
-    "paket",
-    "sanin",
-    "silah",
-    "yapay",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "620dc4e0bdef": {
    "id": "620dc4e0bdef",
    "kaynak": "TRT Haber",
@@ -24769,7 +24703,8 @@
    "fb_id": null,
    "fb_reels_id": "29845758141698278",
    "slayt": 5,
-   "kanca": "15 ARAÇ BİRBİRİNE GİRDİ"
+   "kanca": "15 ARAÇ BİRBİRİNE GİRDİ",
+   "diger_kaynaklar": []
   },
   "1b10620abec7": {
    "id": "1b10620abec7",
@@ -25702,7 +25637,10 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "b518f2c64521": {
    "id": "b518f2c64521",
@@ -28810,9 +28748,210 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e62790706d66": {
+   "id": "e62790706d66",
+   "kaynak": "Hürriyet",
+   "baslik": "4 dakikada 4 milyon TL’lik soygun",
+   "ozet": "Maskeli hırsızlar, bir bilgisayar mağazasının kepengini keserek 4 dakikada 4 milyon liralık soygun yaptı. Şüpheliler, polisin adım adım takibiyle Esenyurt’ta bir depoda düzenlenen operasyonla yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/4-dakikada-4-milyon-tllik-soygun-43386547",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "dakik",
+    "lik",
+    "milyo",
+    "soygu",
+    "tl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4f26b96e13e6": {
+   "id": "4f26b96e13e6",
+   "kaynak": "Hürriyet",
+   "baslik": "Çiğdem Batur’a soruşturma açıldı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı, oyuncu Çiğdem Batur hakkında, Sultanahmet Camisi’nde çektiği ve sosyal medya hesabından yayınladığı video nedeniyle ‘halkın bir kesimini ve dini değerleri alenen aşağılama’ iddiasıyla resen soruşturma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cigdem-batura-sorusturma-acildi-43386551",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "acild",
+    "batur",
+    "cigde",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c910a1bd5507"
+  },
+  "905c96f0f4c6": {
+   "id": "905c96f0f4c6",
+   "kaynak": "Hürriyet",
+   "baslik": "Oğlunu öldürdü",
+   "ozet": "Bursa Mudanya’da dün saat 02.00 sıralarında, Serkan Bayraktar (51) ile oğlu Süleyman Bayraktar (24) arasında çıkan tartışma kısa sürede kavgaya dönüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/oglunu-oldurdu-43386554",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "oglun",
+    "oldur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "508869d09037": {
+   "id": "508869d09037",
+   "kaynak": "Hürriyet",
+   "baslik": "Cani koca komşusuna cinayeti itiraf etmiş: Bedriye’yi aşağı attım",
+   "ozet": "Bedriye Naz’ın 5’inci kattan düşerek hayatını kaybettiği davada tutuklu koca suçlamaları reddetti. Duruşmada dinlenen komşusu, sanığın olayın hemen ardından “Gelmenize gerek yok, onu aşağı attım” dediğini öne sürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/cani-koca-komsusuna-cinayeti-itiraf-etmis-bedriyeyi-asagi-attim-43386565",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "asagi",
+    "attim",
+    "bedri",
+    "cani",
+    "cinay",
+    "etmis",
+    "itira",
+    "koca",
+    "komsu",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c6e56b758b0": {
+   "id": "2c6e56b758b0",
+   "kaynak": "Hürriyet",
+   "baslik": "Uyuşturucu baronuna diz çöktürüldü",
+   "ozet": "Brezilya adli makamlarınca uluslararası seviyede kırmızı bültenle aranan Karadağ uyruklu Nusret Skrıjelj (62), Milli İstihbarat Teşkilatı (MİT) ve İstanbul Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şube Müdürlüğü ekipleri tarafından, Bakırköy’de saklandığı adreste yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/uyusturucu-baronuna-diz-cokturuldu-43386566",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "baron",
+    "coktu",
+    "diz",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1b97cf05a410": {
+   "id": "1b97cf05a410",
+   "kaynak": "Hürriyet",
+   "baslik": "Zincirleme kaza: 15 yaralı",
+   "ozet": "Anadolu Otoyolu'nun Sakarya geçişinde şehirler arası yolcu otobüsleri, otomobiller, tırlar, kamyonlar ve panelvanların da aralarında bulunduğu 14 aracın karıştığı zincirleme trafik kazasında 15 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/zincirleme-kaza-15-yarali-43386585",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "kaza",
+    "yaral",
+    "zinci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2b27eb3a1341"
+  },
+  "ea97d75bc16c": {
+   "id": "ea97d75bc16c",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan: Devletleri güçlü kılan adalettir",
+   "ozet": "Gaziosmanpaşa Adalet Sarayı Açılış Töreni’ne katılan Cumhurbaşkanı Erdoğan, “Sizlerin de gayet iyi bildiği şu gerçeği bugün tekrar ifade etmek isterim: Toplumları ve devletleri güçlü kılan her şeyden önce adalettir.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-devletleri-guclu-kilan-adalettir-43386624",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "adale",
+    "cumhu",
+    "devle",
+    "erdog",
+    "guclu",
+    "kilan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e2a1be6575fe"
+  },
+  "427ce1580020": {
+   "id": "427ce1580020",
+   "kaynak": "Hürriyet",
+   "baslik": "Antalya’dan bir COP geçti… İlklerin ve rekorların zirvesi oldu",
+   "ozet": "Antalya’da düzenlenen COP31, birçok ilke imza attı. En çok ziyaretçi sayısıyla da Guinness rekorunu kırdı. İşte en renkli anlarıyla 12 günden geriye kalanlar...",
+   "link": "https://www.hurriyet.com.tr/gundem/antalyadan-bir-cop-gecti-ilklerin-ve-rekorlarin-zirvesi-oldu-43386625",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "antal",
+    "cop",
+    "dan",
+    "gecti",
+    "ilkle",
+    "rekor",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0909002e0825": {
+   "id": "0909002e0825",
+   "kaynak": "Hürriyet",
+   "baslik": "Kadın ve adalet zirvesi",
+   "ozet": "KADIN ve Demokrasi Vakfı (KADEM) ile Aile ve Sosyal Hizmetler Bakanlığı işbirliğinde düzenlenen 7’nci Uluslararası Kadın ve Adalet Zirvesi başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kadin-ve-adalet-zirvesi-43386626",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "adale",
+    "kadin",
+    "zirve"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1904d3061f84"
+  },
+  "9e69075a9536": {
+   "id": "9e69075a9536",
+   "kaynak": "Hürriyet",
+   "baslik": "DEM Parti’den hasta mahkûm çıkışı: Adil değerlendirme sürece katkı sağlar",
+   "ozet": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, yakınlarının tahliyesi talebiyle Adalet Bakanlığı önünde eylem yapan hasta mahkûm ailelere destek ziyaretinde bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/dem-partiden-hasta-mahkum-cikisi-adil-degerlendirme-surece-katki-saglar-43386627",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "adil",
+    "cikis",
+    "deger",
+    "dem",
+    "den",
+    "hasta",
+    "katki",
+    "mahk",
+    "parti",
+    "sagla",
+    "surec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b43760f6ade8": {
+   "id": "b43760f6ade8",
+   "kaynak": "Hürriyet",
+   "baslik": "17 milyon öğrenci okula dönüyor… 9 günlük tatil bitti",
+   "ozet": "Eğitim öğretim yılının ilk ara tatili yarın okullarda ders zilinin çalmasıyla sona eriyor. 17 milyon öğrenci ve 1 milyon 200 bin öğretmen yeniden okullarına dönüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/17-milyon-ogrenci-okula-donuyor-9-gunluk-tatil-bitti-43386629",
+   "zaman": "2026-11-22T07:00:00+03:00",
+   "kelimeler": [
+    "17",
+    "bitti",
+    "donuy",
+    "gunlu",
+    "milyo",
+    "ogren",
+    "okula",
+    "tatil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 07:15:54  7 yeni haber",
   "22.11 07:02:31  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA",
   "22.11 07:01:14  1 yeni haber",
   "22.11 05:01:24  2 yeni haber",
@@ -29011,8 +29150,7 @@
   "20.11 02:23:27  3 yeni haber",
   "20.11 02:01:27  2 yeni haber",
   "20.11 01:39:10  4 yeni haber",
-  "20.11 01:19:08  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Parti'li Çelik'ten, Prof. Dr. Sevim Aydın için taziye mesajı",
-  "20.11 01:15:54  1 yeni haber"
+  "20.11 01:19:08  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · AK Parti'li Çelik'ten, Prof. Dr. Sevim Aydın için taziye mesajı"
  ],
  "otomatik": false
 }
