@@ -1,28 +1,5 @@
 {
  "haberler": {
-  "10694092a42f": {
-   "id": "10694092a42f",
-   "kaynak": "BBC Türkçe",
-   "baslik": "'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer niteliğinde'",
-   "ozet": "Perşembe günü Vladimir Putin, Donald Trump ve Şi Cinping arasında gerçekleşecek olan mini zirve, Kremlin için şimdiden bir zafer gibi görünüyor. Sonuç ne olursa olsun.",
-   "link": "https://www.bbc.com/turkce/articles/cqd01jmdez00o",
-   "zaman": "2026-11-19T03:22:46+03:00",
-   "kelimeler": [
-    "gorus",
-    "nitel",
-    "putin",
-    "si",
-    "tarih",
-    "trump",
-    "yapti",
-    "zafer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "53d3814c238c": {
    "id": "53d3814c238c",
    "kaynak": "AA",
@@ -29272,9 +29249,66 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "e9b20e0825a1": {
+   "id": "e9b20e0825a1",
+   "kaynak": "AA",
+   "baslik": "Milli bocceciler yeni şampiyonluklar için birlikte çalışıyor",
+   "ozet": "Milli bocceciler Dilçin Oğuz ile Selamet Keşli, yeni şampiyonluklar için birlikte çalışıyor.",
+   "link": "https://www.aa.com.tr/tr/spor/milli-bocceciler-yeni-sampiyonluklar-icin-birlikte-calisiyor/4133264",
+   "zaman": "2026-11-22T00:31:21+03:00",
+   "kelimeler": [
+    "birli",
+    "bocce",
+    "calis",
+    "milli",
+    "sampi",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "53f478579a2b": {
+   "id": "53f478579a2b",
+   "kaynak": "AA",
+   "baslik": "Akademisyenler PKU hastalığının teşhisi için sardunya yaprakları kullanarak biyosensör geliştirdi",
+   "ozet": "Doç. Dr. Merve Keskin liderliğindeki ekip, kalıcı zeka geriliği ve beyin hasarına yol açabilen bir çeşit kalıtsal hastalık olan fenilketonürinin (PKU) teşhisi için sardunya bitkisinin yapraklarından yararlanarak biyosensör oluşturdu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akademisyenler-pku-hastaliginin-teshisi-icin-sardunya-yapraklari-kullanarak-biyosensor-gelistirdi/4133265",
+   "zaman": "2026-11-22T00:32:00+03:00",
+   "kelimeler": [
+    "akade",
+    "biyos",
+    "gelis",
+    "hasta",
+    "kulla",
+    "pku",
+    "sardu",
+    "teshi",
+    "yapra"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e86f219c9334": {
+   "id": "e86f219c9334",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA",
+   "ozet": "İzmir ve çevre illerde hissedilen bir deprem oldu.",
+   "link": "https://t.me/sahinozkan000/30823",
+   "zaman": "2026-11-22T03:18:59+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA\nİzmir ve çevre illerde hissedilen bir deprem oldu.",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "sonda"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "22.11 03:31:52  3 yeni haber",
   "22.11 02:31:33  2 yeni haber",
   "22.11 02:15:55  2 yeni haber",
   "22.11 02:01:31  2 yeni haber",
@@ -29473,8 +29507,7 @@
   "20.11 00:48:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · Sağlık Bilimleri Üniversitesi Rektörü Prof. Dr. Aydın'ın eşi kazada ha",
   "20.11 00:40:30  5 yeni haber",
   "20.11 00:15:58  1 yeni haber",
-  "20.11 00:04:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Ankara'da \"Çobanlar Grubu\"na yönelik kara para aklama soruşturmasında ",
-  "20.11 00:01:30  1 yeni haber"
+  "20.11 00:04:50  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Ankara'da \"Çobanlar Grubu\"na yönelik kara para aklama soruşturmasında "
  ],
  "otomatik": false
 }
