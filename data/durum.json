@@ -1,51 +1,5 @@
 {
  "haberler": {
-  "efb422a67ca7": {
-   "id": "efb422a67ca7",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-kasim-2026-1751682",
-   "zaman": "2026-11-20T00:00:00+03:00",
-   "kelimeler": [
-    "20",
-    "2026",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "il",
-    "istan",
-    "izmir",
-    "kasim",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "8cedfa4ed026"
-  },
-  "bb9615d3c2ad": {
-   "id": "bb9615d3c2ad",
-   "kaynak": "TRT Haber",
-   "baslik": "Rusya'nın Kiev'e saldırılarında Avusturya ve Hollanda büyükelçilikleri hasar gördü",
-   "ozet": "Rusya'nın Ukrayna'nın başkenti Kiev'e düzenlediği insansız hava aracı İHA saldırılarında, Avusturya ve Hollanda büyükelçiliklerinin binaları hasar gördü.",
-   "link": "https://www.trthaber.com/haber/dunya/rusyanin-kieve-saldirilarinda-avusturya-ve-hollanda-buyukelcilikleri-hasar-gordu-963878.html",
-   "zaman": "2026-11-20T00:00:00+03:00",
-   "kelimeler": [
-    "avust",
-    "buyuk",
-    "gordu",
-    "hasar",
-    "holla",
-    "kiev",
-    "nin",
-    "rusya",
-    "saldi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "65cd70c9efa2"
-  },
   "0f774c056bd1": {
    "id": "0f774c056bd1",
    "kaynak": "BBC Türkçe",
@@ -24454,8 +24408,17 @@
     "yana",
     "yukse"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-23T00:04:19.656818+03:00",
+   "ig_id": "18133901144478474",
+   "reels_id": "17899823214417064",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2216568712257936",
+   "slayt": 5,
+   "kanca": "258 SANDALYE KAZANDILAR"
   },
   "592c8ce9faf7": {
    "id": "592c8ce9faf7",
@@ -24477,10 +24440,79 @@
     "yarin"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "71779dfb3be6": {
+   "id": "71779dfb3be6",
+   "kaynak": "AA",
+   "baslik": "Japonya, yıllık 2 milyon tona kadar karbondioksit depolamayı hedefliyor",
+   "ozet": "Japan CCS Uluslararası İlişkiler Genel Müdürü ve Kurumsal Danışmanı Sawada Yoshihiro, \"Hedef, 2050'ye kadar yıllık 120 ila 240 milyon metrik ton karbondioksit depolayarak emisyonların azaltılmasına katkıda bulunmak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/japonya-yillik-2-milyon-tona-kadar-karbondioksit-depolamayi-hedefliyor/4133390",
+   "zaman": "2026-11-22T11:20:07+03:00",
+   "kelimeler": [
+    "depol",
+    "hedef",
+    "japon",
+    "karbo",
+    "milyo",
+    "tona",
+    "yilli"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "cef554d03110": {
+   "id": "cef554d03110",
+   "kaynak": "Hürriyet",
+   "baslik": "Van'ın 2 ilçesinde kar yağışı nedeniyle eğitime ara verildi",
+   "ozet": "Van'ın Çaldıran ve Muradiye ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/vanin-2-ilcesinde-kar-yagisi-nedeniyle-egitime-ara-verildi-43387424",
+   "zaman": "2026-11-22T23:34:51+03:00",
+   "kelimeler": [
+    "ara",
+    "egiti",
+    "ilces",
+    "in",
+    "kar",
+    "neden",
+    "van",
+    "veril",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "592c8ce9faf7"
+  },
+  "019f9cbabd94": {
+   "id": "019f9cbabd94",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
+   "zaman": "2026-11-23T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "23",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "il",
+    "istan",
+    "izmir",
+    "kasim",
+    "nered"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "23.11 00:04:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD'de Demokratlar, 1992'den bu yana Temsilciler Meclisindeki en yükse",
+  "23.11 00:01:21  2 yeni haber",
   "22.11 23:45:58  1 yeni haber",
   "22.11 23:31:16  4 yeni haber",
   "22.11 23:01:15  2 yeni haber",
@@ -24678,9 +24710,7 @@
   "20.11 20:02:57  3 yeni haber",
   "20.11 19:46:54  4 yeni haber",
   "20.11 19:31:34  5 yeni haber",
-  "20.11 19:18:36  3 yeni haber",
-  "20.11 19:02:53  5 yeni haber",
-  "20.11 18:46:24  4 yeni haber"
+  "20.11 19:18:36  3 yeni haber"
  ],
  "otomatik": false
 }
