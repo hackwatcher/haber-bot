@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "cf10b72f2c3d": {
-   "id": "cf10b72f2c3d",
-   "kaynak": "AA",
-   "baslik": "COP31'de Anadolu mutfağının lezzetleri ve sıfır atık yaklaşımı buluştu",
-   "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansında (COP31) Sıfır Atık Vakfının ilk kez Sıfır Atık Mutfağı da ilgi görüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-anadolu-mutfaginin-lezzetleri-ve-sifir-atik-yaklasimi-bulustu/4130911",
-   "zaman": "2026-11-19T15:24:25+03:00",
-   "kelimeler": [
-    "anado",
-    "atik",
-    "bulus",
-    "cop31",
-    "lezze",
-    "mutfa",
-    "sifir",
-    "yakla"
-   ],
-   "durum": "engelli",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "0b1d0465a6ac": {
-   "id": "0b1d0465a6ac",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Anthropic'in halka arzında 81 milyar dolarlık rekor yatırım",
-   "ozet": "Popüler sohbet robotu Claude'un üreticisi Anthropic, halka arzında rekor kırdı ve 81 milyar dolar yatırım topladı. Böylece şirket dünyanın en değerli kuruluşlarından biri haline geldi.",
-   "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o",
-   "zaman": "2026-11-19T15:27:00+03:00",
-   "kelimeler": [
-    "81",
-    "anthr",
-    "arzin",
-    "dolar",
-    "halka",
-    "in",
-    "milya",
-    "rekor",
-    "yatir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a20c84c5c8d8": {
    "id": "a20c84c5c8d8",
    "kaynak": "TRT Haber",
@@ -25537,7 +25495,10 @@
     "yapiy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "1e9f7b6fde91": {
    "id": "1e9f7b6fde91",
@@ -26502,9 +26463,96 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3934983b0e70"
+  },
+  "180d175a3822": {
+   "id": "180d175a3822",
+   "kaynak": "TRT Haber",
+   "baslik": "Oruç Reis 50 kişilik ekibiyle Pakistan açıklarında görevde",
+   "ozet": "Oruç Reis Sismik Araştırma Gemisi, Somali'deki ilk kıtalararası görevinde de yer alan 50 kişilik mürettebatıyla ikinci yurt dışı görevi kapsamında Pakistan açıklarında sismik araştırma çalışmalarına başladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/oruc-reis-50-kisilik-ekibiyle-pakistan-aciklarinda-gorevde-964138.html",
+   "zaman": "2026-11-22T14:58:00+03:00",
+   "kelimeler": [
+    "50",
+    "acikl",
+    "ekibi",
+    "gorev",
+    "kisil",
+    "oruc",
+    "pakis",
+    "reis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a83e5f7fbc83"
+  },
+  "ff423fe0509a": {
+   "id": "ff423fe0509a",
+   "kaynak": "AA",
+   "baslik": "Yusufeli Barajı'ndan Türkiye ekonomisine 16,7 milyar lirayı aşan katkı",
+   "ozet": "Tarım ve Orman Bakanı Yumaklı, \"Yusufeli, 275 metre gövde yüksekliği, ürettiği 5,6 milyar kilovatsaat elektrik ve ekonomimize sağladığı 16,7 milyar lirayı aşan katkıyla ülkemizin gururu olmaya devam ediyor.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yusufeli-barajindan-turkiye-ekonomisine-16-7-milyar-lirayi-asan-katki/4133562",
+   "zaman": "2026-11-22T15:11:37+03:00",
+   "kelimeler": [
+    "16",
+    "asan",
+    "baraj",
+    "ekono",
+    "katki",
+    "liray",
+    "milya",
+    "ndan",
+    "turki",
+    "yusuf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f9d3ea6f17e": {
+   "id": "3f9d3ea6f17e",
+   "kaynak": "Hürriyet",
+   "baslik": "Adana'da karşı şeride geçen cip otomobille çarpıştı: Kaza anı kamerada",
+   "ozet": "TAG Otoyolu’nda yol yapım çalışması nedeniyle tek şeride düşen yolda kontrolden çıkan cip, karşı şeride geçerek otomobille çarpıştı. Yaklaşık 3 kilometrelik kuyruğa yol açan kaza, başka bir aracın kamerasına yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/adanada-karsi-seride-gecen-cip-otomobille-carpisti-kaza-ani-kamerada-43387061",
+   "zaman": "2026-11-22T15:12:00+03:00",
+   "kelimeler": [
+    "adana",
+    "ani",
+    "carpi",
+    "cip",
+    "gecen",
+    "kamer",
+    "karsi",
+    "kaza",
+    "otomo",
+    "serid"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "72784738706e": {
+   "id": "72784738706e",
+   "kaynak": "AA",
+   "baslik": "A Milli Erkek Basketbol Takımı'nda Yavuz ve Yiğitcan kadrodan çıkarıldı",
+   "ozet": "FIBA 2027 Basketbol Dünya Kupası Elemeleri İkinci Tur J Grubu'nda İtalya ve İzlanda ile karşılaşacak A Milli Erkek Basketbol Takımı'nda Yavuz Gültekin ve Yiğitcan Saybir'in kadrodan çıkarıldığı duyuruldu.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takiminda-yavuz-ve-yigitcan-kadrodan-cikarildi/4133567",
+   "zaman": "2026-11-22T15:20:38+03:00",
+   "kelimeler": [
+    "baske",
+    "cikar",
+    "erkek",
+    "kadro",
+    "milli",
+    "nda",
+    "takim",
+    "yavuz",
+    "yigit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "22.11 15:31:06  3 yeni haber",
   "22.11 15:18:24  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Güntekin Onay:",
   "22.11 15:16:03  2 yeni haber",
   "22.11 15:01:36  4 yeni haber",
@@ -26703,8 +26751,7 @@
   "20.11 12:46:34  7 yeni haber",
   "20.11 12:31:11  8 yeni haber",
   "20.11 12:16:15  3 yeni haber",
-  "20.11 12:01:24  8 yeni haber",
-  "20.11 11:48:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Formula 1'de sıradaki durak Las Vegas"
+  "20.11 12:01:24  8 yeni haber"
  ],
  "otomatik": false
 }
