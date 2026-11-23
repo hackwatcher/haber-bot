@@ -1,43 +1,5 @@
 {
  "haberler": {
-  "d6bf7a4c0651": {
-   "id": "d6bf7a4c0651",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara merkezli dolandırıcılık operasyonunda 12 tutuklama",
-   "ozet": "Ankara merkezli 5 ilde düzenlenen dolandırıcılık operasyonunda gözaltına alınan 15 şüpheliden 12'si tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-dolandiricilik-operasyonunda-12-tutuklama-964001.html",
-   "zaman": "2026-11-20T20:39:00+03:00",
-   "kelimeler": [
-    "12",
-    "ankar",
-    "dolan",
-    "merke",
-    "opera",
-    "tutuk"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "958adfa2e23d": {
-   "id": "958adfa2e23d",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump: İranla gerçek anlaşma istiyorum",
-   "ozet": "ABD Başkanı Donald Trump, Xi ve Putinle yaptığı üçlü zirvenin ardından Beyaz Sarayda düzenlediği basın toplantısında, petrol fiyatlarının İranla anlaşmaya da bağlı olduğunu söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-iranla-gercek-anlasma-istiyorum-964002.html",
-   "zaman": "2026-11-20T20:41:00+03:00",
-   "kelimeler": [
-    "anlas",
-    "gerce",
-    "iranl",
-    "istiy",
-    "trump"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü"
-   ]
-  },
   "aa1a86712470": {
    "id": "aa1a86712470",
    "kaynak": "TRT Haber",
@@ -15730,7 +15692,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA",
-    "Hürriyet"
+    "Hürriyet",
+    "Sözcü"
    ]
   },
   "e11eeab75b7f": {
@@ -23369,9 +23332,88 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d39fe499b1f6": {
+   "id": "d39fe499b1f6",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da hava ulaşımına 'Kümülonimbus' bulutu engeli",
+   "ozet": "İstanbul'da kötü hava koşulları ve yıldırımlara neden olan 'Kümülonimbus' bulutu sebebiyle uçaklar havada tur atıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-hava-ulasimina-kumulonimbus-bulutu-engeli-43388497",
+   "zaman": "2026-11-23T20:33:56+03:00",
+   "kelimeler": [
+    "bulut",
+    "engel",
+    "hava",
+    "istan",
+    "kumul",
+    "ulasi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a2d3ffbbab0": {
+   "id": "1a2d3ffbbab0",
+   "kaynak": "Sözcü",
+   "baslik": "Erzurum'da 3,9 büyüklüğünde deprem",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/erzurum-deprem-23-kasim-2026-p383818",
+   "zaman": "2026-11-23T20:39:58+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "erzur"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7890136a38fd"
+  },
+  "052fa74ccd73": {
+   "id": "052fa74ccd73",
+   "kaynak": "NTV",
+   "baslik": "Erzurum'da deprem mi oldu? Az önce deprem Erzurum'da nerede oldu? Erzurum deprem Kandilli ve AFAD son depremler listesi 23 Kasım 2026",
+   "ozet": "Son dakika Erzurum deprem haberleri.. Erzurum'da deprem mi oldu? Az önce deprem Erzurum'da nerede oldu? Erzurum Kandilli ve AFAD son depremler.. 23 Kasım 2026 Erzurum deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Erzurum'da?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-erzurumda-deprem-mi-oldu-az-once-deprem-erzurumda-nerede-oldu-erzurum-deprem-kandilli-ve-afad-son-depremler-listesi-23-kasim-2026-1752257",
+   "zaman": "2026-11-23T20:40:00+03:00",
+   "kelimeler": [
+    "2026",
+    "23",
+    "afad",
+    "az",
+    "depre",
+    "erzur",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "019f9cbabd94"
+  },
+  "c2d42fd15b06": {
+   "id": "c2d42fd15b06",
+   "kaynak": "AA",
+   "baslik": "Amazon, Decart'ın yapay zeka optimizasyon teknolojisini satın alıyor",
+   "ozet": "ABD'li teknoloji devi Amazon, yapay zeka girişimi Decart AI ile şirketin optimizasyon teknolojisini satın almak ve kurucularını yapay zeka araştırmacıları ve mühendislik ekipleriyle bünyesine katmak amacıyla anlaşmaya vardığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/amazon-decartin-yapay-zeka-optimizasyon-teknolojisini-satin-aliyor/4135029",
+   "zaman": "2026-11-23T20:43:29+03:00",
+   "kelimeler": [
+    "aliyo",
+    "amazo",
+    "decar",
+    "in",
+    "optim",
+    "satin",
+    "tekno",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 20:46:17  2 yeni haber",
   "23.11 20:31:21  5 yeni haber",
   "23.11 20:16:12  2 yeni haber",
   "23.11 20:02:34  5 yeni haber",
@@ -23570,8 +23612,7 @@
   "21.11 14:48:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Sakarya'da zincirleme kaza: 15 araç birbirine girdi, yaralılar var",
   "21.11 14:46:23  6 yeni haber",
   "21.11 14:46:23  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "21.11 14:31:43  4 yeni haber",
-  "21.11 14:16:10  5 yeni haber"
+  "21.11 14:31:43  4 yeni haber"
  ],
  "otomatik": false
 }
