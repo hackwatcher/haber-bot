@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "bc925f8b8582": {
-   "id": "bc925f8b8582",
-   "kaynak": "Hürriyet",
-   "baslik": "Atama ve görevden alma kararları Resmi Gazete'de",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmi Gazete’de yayımlanan atama kararları kapsamında, çeşitli bakanlık ve kamu kurumlarında 4 isim görevden alınırken, 3 isim yeni görevlere atandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-43385654",
-   "zaman": "2026-11-21T00:35:13+03:00",
-   "kelimeler": [
-    "alma",
-    "atama",
-    "gazet",
-    "gorev",
-    "karar",
-    "resmi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "c4875e55571f"
-  },
   "08ba04b5489b": {
    "id": "08ba04b5489b",
    "kaynak": "TRT Haber",
@@ -16077,7 +16058,8 @@
     "sani"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "1bdf0f173847": {
    "id": "1bdf0f173847",
@@ -23301,9 +23283,54 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "1cf23db0fe4f"
+  },
+  "177bad90f288": {
+   "id": "177bad90f288",
+   "kaynak": "AA",
+   "baslik": "Katar Başbakanı ve Dışişleri Bakanı Al Sani: Orta Doğu yeni bir ABD-İran gerilimini kaldıramaz",
+   "ozet": "Katar Başbakanı ve Dışişleri Bakanı Şeyh Muhammed bin Abdurrahman Al Sani, Orta Doğu’nun ABD ile İran arasında yeni bir gerilimi kaldıramayacağını belirterek, iki ülkeyle de müzakere sürecini yeniden canlandırmak için çalıştıklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-basbakani-ve-disisleri-bakani-al-sani-orta-dogu-yeni-bir-abd-iran-gerilimini-kaldiramaz/4135177",
+   "zaman": "2026-11-24T00:31:47+03:00",
+   "kelimeler": [
+    "abd",
+    "al",
+    "bakan",
+    "basba",
+    "disis",
+    "dogu",
+    "geril",
+    "iran",
+    "kaldi",
+    "katar",
+    "orta",
+    "sani",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "931fc6b3e590"
+  },
+  "bc3225d4fe8b": {
+   "id": "bc3225d4fe8b",
+   "kaynak": "Hürriyet",
+   "baslik": "Acılı aileye musallat oldular… Bir can yetmedi",
+   "ozet": "Dükkânda otururken başından vurulan Nurmuhammed Musaoğlu’nun hastanedeki yaşam mücadelesi 37 gündür sürüyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/acili-aileye-musallat-oldular-bir-can-yetmedi-43388616",
+   "zaman": "2026-11-24T00:33:34+03:00",
+   "kelimeler": [
+    "acili",
+    "ailey",
+    "can",
+    "musal",
+    "oldul",
+    "yetme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 00:46:03  1 yeni haber",
   "24.11 00:33:08  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Resmi Gazete'de yayımlandı... Yeniden değerleme oranı belirlendi",
   "24.11 00:31:12  3 yeni haber",
   "24.11 00:16:03  3 yeni haber",
@@ -23502,8 +23529,7 @@
   "21.11 18:45:56  2 yeni haber",
   "21.11 18:31:10  1 yeni haber",
   "21.11 18:15:58  3 yeni haber",
-  "21.11 18:01:24  1 yeni haber",
-  "21.11 17:45:55  6 yeni haber"
+  "21.11 18:01:24  1 yeni haber"
  ],
  "otomatik": false
 }
