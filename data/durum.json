@@ -23880,7 +23880,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "AA"
    ]
   },
   "b8974b326089": {
@@ -23945,9 +23946,48 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "4563331f8dd2"
+  },
+  "bf17a0332eee": {
+   "id": "bf17a0332eee",
+   "kaynak": "TRT Haber",
+   "baslik": "Endonezya'da yangın faciası: 24 ölü, onlarca kayıp",
+   "ozet": "Endonezya'nın Banten bölgesinde şekerleme üretim fabrikasında çıkan yangında ölü sayısı 24'e yükseldi. Kurtarma ekipleri, halen kayıp olan yaklaşık 30 kişiyi aramak için yanmış enkazdaki çökme tehlikesi taşıyan yapılara rağmen çalışmalarını sürdürüyor.",
+   "link": "https://www.trthaber.com/haber/dunya/endonezyada-yangin-faciasi-24-olu-onlarca-kayip-964170.html",
+   "zaman": "2026-11-23T07:41:00+03:00",
+   "kelimeler": [
+    "24",
+    "endon",
+    "facia",
+    "kayip",
+    "olu",
+    "onlar",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "714e568e8362": {
+   "id": "714e568e8362",
+   "kaynak": "AA",
+   "baslik": "Jandarma 9 bin uzman erbaş alımı yapacak",
+   "ozet": "Jandarma ve Sahil Güvenlik Akademisi Başkanlığı, Jandarma Genel Komutanlığına 9 bin uzman erbaş alımı yapılacağını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/gundem/jandarma-9-bin-uzman-erbas-alimi-yapacak/4133916",
+   "zaman": "2026-11-23T07:54:27+03:00",
+   "kelimeler": [
+    "alimi",
+    "bin",
+    "erbas",
+    "janda",
+    "uzman",
+    "yapac"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4563331f8dd2"
   }
  },
  "kayit": [
+  "23.11 08:01:30  1 yeni haber",
   "23.11 07:46:08  1 yeni haber",
   "23.11 07:31:16  9 yeni haber",
   "23.11 07:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -24146,8 +24186,7 @@
   "21.11 00:15:57  2 yeni haber",
   "21.11 00:04:40  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Dehşete düşüren olay… Cinayetten sonra evlenmişler",
   "21.11 00:01:30  6 yeni haber",
-  "20.11 23:31:07  1 yeni haber",
-  "20.11 23:16:02  3 yeni haber"
+  "20.11 23:31:07  1 yeni haber"
  ],
  "otomatik": false
 }
