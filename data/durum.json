@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "6f74e60bfc7c": {
-   "id": "6f74e60bfc7c",
-   "kaynak": "NTV",
-   "baslik": "İkinci el araçta fiyat oyunu. İlanda düşük telefonda yüksek",
-   "ozet": "İkinci el otomobillerin, güncel fiyatının üzerinde satılması yasak. Bu yasağı delmeye çalışan satıcılar, ilanda düşük fiyat gösterirken, görüşmelerde alıcıdan yüksek bedel talep ediliyor.",
-   "link": "https://www.ntv.com.tr/turkiye/ikinci-el-aracta-fiyat-oyunu-ilanda-dusuk-telefonda-yuksek-1751820",
-   "zaman": "2026-11-20T20:22:34+03:00",
-   "kelimeler": [
-    "aract",
-    "dusuk",
-    "el",
-    "fiyat",
-    "ikinc",
-    "iland",
-    "oyunu",
-    "telef",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d6bf7a4c0651": {
    "id": "d6bf7a4c0651",
    "kaynak": "TRT Haber",
@@ -23266,9 +23245,134 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "574272f01713": {
+   "id": "574272f01713",
+   "kaynak": "TRT Haber",
+   "baslik": "Milli kamikaze dron ALKAN FPV envantere girdi",
+   "ozet": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ STM tarafından modern muharebe sahasının ihtiyaçları doğrultusunda geliştirilen milli kamikaze dron STM ALKAN FPV, kabul testlerini başarıyla tamamlayarak Türk güvenlik güçlerine teslim edildi.",
+   "link": "https://www.trthaber.com/haber/savunma/milli-kamikaze-dron-alkan-fpv-envantere-girdi-964182.html",
+   "zaman": "2026-11-23T10:24:00+03:00",
+   "kelimeler": [
+    "alkan",
+    "dron",
+    "envan",
+    "fpv",
+    "girdi",
+    "kamik",
+    "milli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "50e7ddab6130"
+  },
+  "5fddb7eac25f": {
+   "id": "5fddb7eac25f",
+   "kaynak": "TRT Haber",
+   "baslik": "Çorum semalarında çok katmanlı mercek bulutu",
+   "ozet": "Çorum'un Dodurga ilçesinde oluşan çok katmanlı mercek bulutu, gökyüzünde ilginç görüntüler oluşturdu. Birçok noktadan görülebilen bulut, yaklaşık yarım saat sonra kayboldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/corum-semalarinda-cok-katmanli-mercek-bulutu-964228.html",
+   "zaman": "2026-11-23T20:08:00+03:00",
+   "kelimeler": [
+    "bulut",
+    "corum",
+    "katma",
+    "merce",
+    "semal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "234677a57501": {
+   "id": "234677a57501",
+   "kaynak": "AA",
+   "baslik": "Trump, Huang'ı CEO'luk görevine döndürmek için Nvidia'yı ikna ettiğini söyledi",
+   "ozet": "ABD Başkanı Donald Trump, Nvidia Yönetim Kurulu ile görüştüğünü ve Jensen Huang'ı yeniden üst yöneticilik (CEO) görevine getirmelerine ikna ettiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-ettigini-soyledi/4135007",
+   "zaman": "2026-11-23T20:10:15+03:00",
+   "kelimeler": [
+    "ceo",
+    "dondu",
+    "ettig",
+    "gorev",
+    "huang",
+    "ikna",
+    "luk",
+    "nvidi",
+    "soyle",
+    "trump",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4137a46f8443": {
+   "id": "4137a46f8443",
+   "kaynak": "Hürriyet",
+   "baslik": "Bu ne öfke! Arabasına sürten küçük kızın bisikletini yerden yere vurdular",
+   "ozet": "Kocaeli'nin İzmit ilçesinde bisikletiyle park halindeki otomobile sürten 7 yaşındaki kız çocuğuna gösterilen tepki ve bisikletinin defalarca yere vurulması güvenlik kamerasına yansıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bu-ne-ofke-arabasina-surten-kucuk-kizin-bisikletini-yerden-yere-vurdular-43388483",
+   "zaman": "2026-11-23T20:13:00+03:00",
+   "kelimeler": [
+    "araba",
+    "bisik",
+    "kizin",
+    "kucuk",
+    "ofke",
+    "surte",
+    "vurdu",
+    "yerde",
+    "yere"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e7a73eddbd61": {
+   "id": "e7a73eddbd61",
+   "kaynak": "AA",
+   "baslik": "Danimarka'da 2027-2028 eğitim öğretim yılında okullarda cep telefonu kullanımına izin verilmeyecek",
+   "ozet": "Danimarka, 2027-2028 eğitim öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu kullanımına izin verilmeyeceğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/danimarkada-2027-2028-egitim-ogretim-yilinda-okullarda-cep-telefonu-kullanimina-izin-verilmeyecek/4135017",
+   "zaman": "2026-11-23T20:16:12+03:00",
+   "kelimeler": [
+    "2027",
+    "2028",
+    "cep",
+    "danim",
+    "egiti",
+    "izin",
+    "kulla",
+    "ogret",
+    "okull",
+    "telef",
+    "veril",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "51d55c93685d": {
+   "id": "51d55c93685d",
+   "kaynak": "TRT Haber",
+   "baslik": "THY iştiraki TGS'den yeni yolcu rekoru",
+   "ozet": "Türk Hava Yolları'nın THY yer hizmetleri iştiraki Turkish Ground Services TGS, yılın 10 ayında 116,6 milyon yolcuya hizmet vererek yeni bir rekora imza attı.",
+   "link": "https://www.trthaber.com/haber/turkiye/thy-istiraki-tgsden-yeni-yolcu-rekoru-964229.html",
+   "zaman": "2026-11-23T20:21:00+03:00",
+   "kelimeler": [
+    "den",
+    "istir",
+    "rekor",
+    "tgs",
+    "thy",
+    "yeni",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 20:31:21  5 yeni haber",
   "23.11 20:16:12  2 yeni haber",
   "23.11 20:02:34  5 yeni haber",
   "23.11 19:49:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kuzey Marmara Otoyolu'nda feci kaza: Kamyon ile otomobil çarpıştı, 3 a",
@@ -23467,8 +23571,7 @@
   "21.11 14:46:23  6 yeni haber",
   "21.11 14:46:23  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "21.11 14:31:43  4 yeni haber",
-  "21.11 14:16:10  5 yeni haber",
-  "21.11 14:01:34  9 yeni haber"
+  "21.11 14:16:10  5 yeni haber"
  ],
  "otomatik": false
 }
