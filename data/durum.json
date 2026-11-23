@@ -43,27 +43,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "4e18b0ad0759": {
-   "id": "4e18b0ad0759",
-   "kaynak": "TRT Haber",
-   "baslik": "Türkiye'den Suudi Arabistan ve Singapur ile hava ulaşımında mutabakat",
-   "ozet": "Ulaştırma ve Altyapı Bakanlığınca Türkiye ile Suudi Arabistan ve Singapur arasındaki hava ulaşımı bağlantılarını güçlendirecek mutabakatlara imza atıldı.",
-   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-suudi-arabistan-ve-singapur-ile-hava-ulasiminda-mutabakat-963888.html",
-   "zaman": "2026-11-20T03:15:00+03:00",
-   "kelimeler": [
-    "arabi",
-    "den",
-    "hava",
-    "mutab",
-    "singa",
-    "suudi",
-    "turki",
-    "ulasi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "11f99427e65e"
-  },
   "368cac645f56": {
    "id": "368cac645f56",
    "kaynak": "AA",
@@ -23790,7 +23769,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "9a4b86e45067": {
    "id": "9a4b86e45067",
@@ -24343,9 +24323,87 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ab982da00d9b"
+  },
+  "7890136a38fd": {
+   "id": "7890136a38fd",
+   "kaynak": "TRT Haber",
+   "baslik": "Ege Denizi'nde 4,2 büyüklüğünde deprem",
+   "ozet": "Ege Denizi'nde saat 02.42'de 4,2 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/ege-denizinde-42-buyuklugunde-deprem-964162.html",
+   "zaman": "2026-11-23T03:01:00+03:00",
+   "kelimeler": [
+    "buyuk",
+    "deniz",
+    "depre",
+    "ege",
+    "nde"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "e11eeab75b7f": {
+   "id": "e11eeab75b7f",
+   "kaynak": "AA",
+   "baslik": "Ege Denizi'nde 4,2 büyüklüğünde deprem",
+   "ozet": "Ege Denizi'nde saat 02.42'de 4,2 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ege-denizinde-4-2-buyuklugunde-deprem/4133893",
+   "zaman": "2026-11-23T03:04:40+03:00",
+   "kelimeler": [
+    "buyuk",
+    "deniz",
+    "depre",
+    "ege",
+    "nde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7890136a38fd"
+  },
+  "e66d5044c8f4": {
+   "id": "e66d5044c8f4",
+   "kaynak": "NTV",
+   "baslik": "Muğla açıklarında 4,2 büyüklüğünde deprem",
+   "ozet": "Ege Denizi'nde Muğla açıklarında 4,2 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/mugla-aciklarinda-42-buyuklugunde-deprem-1752118",
+   "zaman": "2026-11-23T03:06:08+03:00",
+   "kelimeler": [
+    "acikl",
+    "buyuk",
+    "depre",
+    "mugla"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f2018803d570": {
+   "id": "f2018803d570",
+   "kaynak": "NTV",
+   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 23 Kasım 2026",
+   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 23 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-23-kasim-2026-1752119",
+   "zaman": "2026-11-23T03:10:00+03:00",
+   "kelimeler": [
+    "2026",
+    "23",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "mugla",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "019f9cbabd94"
   }
  },
  "kayit": [
+  "23.11 03:16:04  2 yeni haber",
   "23.11 02:31:18  1 yeni haber",
   "23.11 02:15:54  2 yeni haber",
   "23.11 01:16:18  2 yeni haber",
@@ -24544,8 +24602,7 @@
   "20.11 22:01:44  2 yeni haber",
   "20.11 21:46:03  1 yeni haber",
   "20.11 21:31:43  1 yeni haber",
-  "20.11 21:16:25  1 yeni haber",
-  "20.11 21:01:29  3 yeni haber"
+  "20.11 21:16:25  1 yeni haber"
  ],
  "otomatik": false
 }
