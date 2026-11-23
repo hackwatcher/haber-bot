@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "00662df3e932": {
-   "id": "00662df3e932",
-   "kaynak": "Hürriyet",
-   "baslik": "Dışişleri Bakanlığı: Türkiye, ICAO Konseyine seçildi",
-   "ozet": "Dışişleri Bakanlığı, Türkiye'nin Uluslararası Sivil Havacılık Teşkilatı (ICAO) Konsey üyeliğine seçildiğini açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligi-turkiye-icao-konseyine-secildi-43385701",
-   "zaman": "2026-11-21T02:31:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "disis",
-    "icao",
-    "konse",
-    "secil",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "97959196cd21": {
    "id": "97959196cd21",
    "kaynak": "TRT Haber",
@@ -23235,9 +23217,56 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "49824876df27"
+  },
+  "e56d62054473": {
+   "id": "e56d62054473",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrailin Gazze Şeridine düzenlediği saldırılarda 2 Filistinli hayatını kaybetti",
+   "ozet": "İşgalci İsrail ordusunun ateşkese rağmen Gazze Şeridinde insansız hava araçlarıyla düzenlediği saldırılarda 2 Filistinli yaşamını yitirdi, 8 Filistinli yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-gazze-seridine-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti-964243.html",
+   "zaman": "2026-11-24T02:15:00+03:00",
+   "kelimeler": [
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "isgal",
+    "israi",
+    "kaybe",
+    "saldi",
+    "serid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "726d9c5d31f5": {
+   "id": "726d9c5d31f5",
+   "kaynak": "AA",
+   "baslik": "İsrail’in Gazze Şeridi’ne düzenlediği saldırılarda 2 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi’nde insansız hava araçlarıyla (İHA) düzenlediği saldırılarda 2 Filistinli yaşamını yitirdi, 8 Filistinli yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-in-gazze-seridi-ne-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti/4135195",
+   "zaman": "2026-11-24T02:24:34+03:00",
+   "kelimeler": [
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "saldi",
+    "serid"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e56d62054473"
   }
  },
  "kayit": [
+  "24.11 02:31:08  1 yeni haber",
   "24.11 01:32:32  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Seda Sayan: \"YouTube'da biraz daha sansürsüzüm.",
   "24.11 01:01:22  1 yeni haber",
   "24.11 00:46:03  1 yeni haber",
@@ -23436,8 +23465,7 @@
   "21.11 19:31:15  3 yeni haber",
   "21.11 19:17:44  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "21.11 19:01:25  2 yeni haber",
-  "21.11 18:45:56  2 yeni haber",
-  "21.11 18:31:10  1 yeni haber"
+  "21.11 18:45:56  2 yeni haber"
  ],
  "otomatik": false
 }
