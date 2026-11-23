@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "08ba04b5489b": {
-   "id": "08ba04b5489b",
-   "kaynak": "TRT Haber",
-   "baslik": "Fon soruşturmasında 108 kişinin mal varlığı işlemlerine ilişkin ilgili kurumlardan bildirim talebi",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında, 108 kişinin mal varlığı üzerinde işlem yapmaları halinde ilgili kurumlardan başsavcılığa bildirimde bulunulması istendi.",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-108-kisinin-mal-varligi-islemlerine-iliskin-ilgili-kurumlardan-bildirim-talebi-964019.html",
-   "zaman": "2026-11-21T00:48:00+03:00",
-   "kelimeler": [
-    "108",
-    "bildi",
-    "fon",
-    "ilgil",
-    "ilisk",
-    "islem",
-    "kisin",
-    "kurum",
-    "mal",
-    "sorus",
-    "taleb",
-    "varli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "f633a81b4753": {
-   "id": "f633a81b4753",
-   "kaynak": "AA",
-   "baslik": "Moody's, Türkiye'deki fon gelişmelerinin sistemik bir risk oluşturmadığını belirtti",
-   "ozet": "Moody's Sovereign Risk Kıdemli Başkan Yardımcısı Alexander Perjessy, Türkiye'de tasfiye sürecinde olan fonlarla ilgili gelişmelerin sistemik bir risk oluşturmasını beklemediklerini, bu durumun kredi notunu etkilemesinin olası görünmediğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/moodys-turkiyedeki-fon-gelismelerinin-sistemik-bir-risk-olusturmadigini-belirtti/4132611",
-   "zaman": "2026-11-21T00:55:13+03:00",
-   "kelimeler": [
-    "belir",
-    "deki",
-    "fon",
-    "gelis",
-    "moody",
-    "olust",
-    "risk",
-    "siste",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "89dec6e8fa06": {
    "id": "89dec6e8fa06",
    "kaynak": "TRT Haber",
@@ -23234,7 +23186,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6512dace9e94": {
    "id": "6512dace9e94",
@@ -23327,9 +23282,103 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "49ef3ca80254": {
+   "id": "49ef3ca80254",
+   "kaynak": "TRT Haber",
+   "baslik": "Suudi Arabistan'ın Cazan ve Abha kentlerinde erken uyarı sistemi devreye alındı",
+   "ozet": "Suudi Arabistanın güneyindeki Cazan ve Abha kentlerinde saldırı tehdidine karşı erken uyarı sistemi devreye alındı.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-cazan-ve-abha-kentlerinde-erken-uyari-sistemi-devreye-alindi-964241.html",
+   "zaman": "2026-11-24T00:43:00+03:00",
+   "kelimeler": [
+    "abha",
+    "alind",
+    "arabi",
+    "cazan",
+    "devre",
+    "erken",
+    "in",
+    "kentl",
+    "siste",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "25bd4f0f16b5"
+  },
+  "caed54f1bb07": {
+   "id": "caed54f1bb07",
+   "kaynak": "Hürriyet",
+   "baslik": "MHP Genel Başkanı Devlet Bahçeli'den 24 Kasım Öğretmenler Günü mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Bütün öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü kutluyor, kendilerine en içten sevgi ve saygılarımı sunuyorum.\" ifadesini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/mhp-genel-baskani-devlet-bahceliden-24-kasim-ogretmenler-gunu-mesaji-43388630",
+   "zaman": "2026-11-24T00:44:04+03:00",
+   "kelimeler": [
+    "24",
+    "bahce",
+    "baska",
+    "den",
+    "devle",
+    "genel",
+    "gunu",
+    "kasim",
+    "mesaj",
+    "mhp",
+    "ogret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "49824876df27"
+  },
+  "75cc4c744550": {
+   "id": "75cc4c744550",
+   "kaynak": "TRT Haber",
+   "baslik": "Devlet Bahçeli'den 24 Kasım Öğretmenler Günü mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Bütün öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü kutluyor, kendilerine en içten sevgi ve saygılarımı sunuyorum\" ifadesini kullandı.",
+   "link": "https://www.trthaber.com/haber/gundem/devlet-bahceliden-24-kasim-ogretmenler-gunu-mesaji-964242.html",
+   "zaman": "2026-11-24T00:47:00+03:00",
+   "kelimeler": [
+    "24",
+    "bahce",
+    "den",
+    "devle",
+    "gunu",
+    "kasim",
+    "mesaj",
+    "ogret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "49824876df27"
+  },
+  "38999696d2cf": {
+   "id": "38999696d2cf",
+   "kaynak": "AA",
+   "baslik": "Jensen Huang'ın Nvidia'ya dönüşü sonrası küresel piyasalarda satış baskısı hafifledi",
+   "ozet": "Çip üreticisi Nvidia'nın kurucusu Jensen Huang'ın Üst Yönetici (CEO) olarak görevine geri dönmesi, geçen hafta sert satışların yaşandığı küresel piyasalarda baskıyı hafifletti.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/jensen-huangin-nvidiaya-donusu-sonrasi-kuresel-piyasalarda-satis-baskisi-hafifledi/4135185",
+   "zaman": "2026-11-24T00:50:04+03:00",
+   "kelimeler": [
+    "baski",
+    "donus",
+    "hafif",
+    "huang",
+    "in",
+    "jense",
+    "kures",
+    "nvidi",
+    "piyas",
+    "satis",
+    "sonra",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 01:01:22  1 yeni haber",
   "24.11 00:46:03  1 yeni haber",
   "24.11 00:33:08  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Resmi Gazete'de yayımlandı... Yeniden değerleme oranı belirlendi",
   "24.11 00:31:12  3 yeni haber",
@@ -23528,8 +23577,7 @@
   "21.11 19:01:25  2 yeni haber",
   "21.11 18:45:56  2 yeni haber",
   "21.11 18:31:10  1 yeni haber",
-  "21.11 18:15:58  3 yeni haber",
-  "21.11 18:01:24  1 yeni haber"
+  "21.11 18:15:58  3 yeni haber"
  ],
  "otomatik": false
 }
