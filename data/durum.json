@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "a82ee9f1784c": {
-   "id": "a82ee9f1784c",
-   "kaynak": "TRT Haber",
-   "baslik": "Meteorolojiden sarı kod uyarısı: 17 ilde kuvvetli yağış ve rüzgar bekleniyor",
-   "ozet": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 17 il için sarı kodlu uyarı yaptı. Yetkililer, ani sel, su baskını ve fırtınanın oluşturabileceği risklere karşı vatandaşların tedbirli olmasını istedi.",
-   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekleniyor-963911.html",
-   "zaman": "2026-11-20T07:24:00+03:00",
-   "kelimeler": [
-    "17",
-    "bekle",
-    "ilde",
-    "kod",
-    "kuvve",
-    "meteo",
-    "ruzga",
-    "sari",
-    "uyari",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6fc61a82ac0f": {
-   "id": "6fc61a82ac0f",
-   "kaynak": "TRT Haber",
-   "baslik": "Gazze'de 9 aylık bebek hipotermi nedeniyle hayatını kaybetti",
-   "ozet": "Han Yunus'ta derme çatma bir çadırda ailesiyle yaşayan 9 aylık bebek hipotermi nedeniyle hayatını kaybetti. Birleşmiş Milletler yetkilileri, yeterli barınak ve kışlık malzeme sağlanamaması halinde yeni ölümlerin yaşanacağı uyarısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/gazzede-9-aylik-bebek-hipotermi-nedeniyle-hayatini-kaybetti-963910.html",
-   "zaman": "2026-11-20T07:27:00+03:00",
-   "kelimeler": [
-    "aylik",
-    "bebek",
-    "gazze",
-    "hayat",
-    "hipot",
-    "kaybe",
-    "neden"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "b8da7434b9cf": {
    "id": "b8da7434b9cf",
    "kaynak": "TRT Haber",
@@ -19168,7 +19127,10 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "fe632218659c": {
    "id": "fe632218659c",
@@ -19504,7 +19466,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "28429bf13deb": {
    "id": "28429bf13deb",
@@ -19573,7 +19538,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "1e9f7b6fde91": {
@@ -21459,7 +21425,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "a45a3279b24e": {
@@ -23683,9 +23650,258 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "10df2f6fb847": {
+   "id": "10df2f6fb847",
+   "kaynak": "AA",
+   "baslik": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime ara verildi",
+   "ozet": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-ara-verildi/4133858",
+   "zaman": "2026-11-22T23:39:42+03:00",
+   "kelimeler": [
+    "ara",
+    "egiti",
+    "ilces",
+    "in",
+    "kar",
+    "neden",
+    "van",
+    "veril",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "592c8ce9faf7"
+  },
+  "7f8359137b33": {
+   "id": "7f8359137b33",
+   "kaynak": "Hürriyet",
+   "baslik": "Kabine’de gözler emeklilere refahta",
+   "ozet": "Kabine bugün Cumhurbaşkanı Tayyip Erdoğan başkanlığında toplanacak. Toplantının ana gündemi emeklilere yönelik refah payı düzenlemesi ve fon soruşturması. Terörsüz Türkiye süreci, ABD-İran gerilimi ve COP31’in sonuçları da değerlendirilecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/kabinede-gozler-emeklilere-refahta-43387413",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "emekl",
+    "gozle",
+    "kabin",
+    "refah"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "701fcbd64a3d"
+  },
+  "48289a9126f9": {
+   "id": "48289a9126f9",
+   "kaynak": "Hürriyet",
+   "baslik": "5 ayda 4 zirve",
+   "ozet": "İletişim Başkanlığı, son 5 ayda 3'ü Türkiye'de gerçekleştirilen 4 önemli diplomatik zirveye ilişkin, 'Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi' belgeselini hazırladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/5-ayda-4-zirve-43387415",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "ayda",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1eb53e90512a": {
+   "id": "1eb53e90512a",
+   "kaynak": "Hürriyet",
+   "baslik": "Oruç Reis Pakistan görevinde",
+   "ozet": "Yerli ve milli imkânlarla geliştirilen Oruç Reis Sismik Araştırma Gemisi, Somali’de ilk kıtalararası görevin ardından şimdi de aynı mürettebat ile ikinci yurtdışı operasyonunu gerçekleştireceği Pakistan’da göreve başladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/oruc-reis-pakistan-gorevinde-43387416",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "gorev",
+    "oruc",
+    "pakis",
+    "reis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a83e5f7fbc83"
+  },
+  "d68b39945ecc": {
+   "id": "d68b39945ecc",
+   "kaynak": "Hürriyet",
+   "baslik": "Kadına yönelik şiddetle mücadele... Yeni dönem vizyonu 25 Kasım’da",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan ile Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın katılımıyla 25 Kasım'da Beştepe Millet Kongre ve Kültür Merkezi'nde düzenlenecek Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü Programı kapsamında kadına yönelik şiddetle…",
+   "link": "https://www.hurriyet.com.tr/gundem/kadina-yonelik-siddetle-mucadele-yeni-donem-vizyonu-25-kasimda-43387417",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "25",
+    "donem",
+    "kadin",
+    "kasim",
+    "mucad",
+    "sidde",
+    "vizyo",
+    "yeni",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c75fc5055bea"
+  },
+  "3bc456abd5aa": {
+   "id": "3bc456abd5aa",
+   "kaynak": "Hürriyet",
+   "baslik": "Yargıda ‘Rita’ tartışması",
+   "ozet": "Av sırasında vurularak ağır yaralanan ‘Rita’ için açılan davada mahkeme, hayvanı “malvarlığı” kapsamında değerlendirerek sadece maddi tazminata hükmetti, manevi tazminat taleplerini reddetti. İstinaf mahkemesi kararı oyçokluğuyla onadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yargida-rita-tartismasi-43387418",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "rita",
+    "tarti",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "20fc9724f20e": {
+   "id": "20fc9724f20e",
+   "kaynak": "Hürriyet",
+   "baslik": "Hem sağanak hem fırtına",
+   "ozet": "Marmara ve Ege bölgeleri için sağanak uyarısı yapılırken bugün İstanbul’da da fırtına bekleniyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/hem-saganak-hem-firtina-43387421",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "firti",
+    "hem",
+    "sagan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2289c18d2778": {
+   "id": "2289c18d2778",
+   "kaynak": "Hürriyet",
+   "baslik": "85 kişiden 44.58 milyar TL tahsil edildi",
+   "ozet": "Adalet Bakanı Akın Gürlek fon soruşturmasında gönüllü iade ve geri kazanım kapsamında 85 kişiden toplam 44.58 milyar lira tahsil edildiğini belirterek “Hiç kimse, suçtan kaynaklandığı tespit edilen malvarlıklarını farklı hesaplara, şirketlere veya yurtdışına aktararak adaletten…",
+   "link": "https://www.hurriyet.com.tr/gundem/85-kisiden-44-58-milyar-tl-tahsil-edildi-43387422",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "44",
+    "58",
+    "85",
+    "edild",
+    "kisid",
+    "milya",
+    "tahsi",
+    "tl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5d3bbd2430e0"
+  },
+  "eaeb32c6a780": {
+   "id": "eaeb32c6a780",
+   "kaynak": "Hürriyet",
+   "baslik": "YENİ Partililer gazeteciler için yürüdü",
+   "ozet": "YENİ Parti İstanbul İl Örgütü’nün çağrısıyla ‘Düşünceye, Basına, Gazetecilere Özgürlük’ yürüyüşü düzenlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-partililer-gazeteciler-icin-yurudu-43387423",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "gazet",
+    "parti",
+    "yeni",
+    "yurud"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a47d372c4946": {
+   "id": "a47d372c4946",
+   "kaynak": "Hürriyet",
+   "baslik": "Aile şikâyetçi oldu",
+   "ozet": "İSTANBUL Güngören’de 21 Kasım’da kentsel dönüşüm yapılan bir inşaatın temel kazma çalışması esnasında göçük oldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/aile-sikayetci-oldu-43387461",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "aile",
+    "sikay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79a7a70df207": {
+   "id": "79a7a70df207",
+   "kaynak": "Hürriyet",
+   "baslik": "Neva bebeği ihmal mi öldürdü",
+   "ozet": "Mide bulantısı ve yüksek ateş şikâyetiyle ailesi tarafından özel bir hastaneye götürülen 1.5 yaşındaki bebek Neva Ögtem, 2 gün içerisinde 2 kez muayene edilip eve gönderildi. Gece saatlerinde tekrar fenalaşan Neva bebek, kaldırıldığı hastanede hayatını kaybetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/neva-bebegi-ihmal-mi-oldurdu-43387462",
+   "zaman": "2026-11-23T07:00:00+03:00",
+   "kelimeler": [
+    "bebeg",
+    "ihmal",
+    "neva",
+    "oldur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "472deede93a3": {
+   "id": "472deede93a3",
+   "kaynak": "TRT Haber",
+   "baslik": "Merkür'ün yörüngesine giren ikinci uzay aracında itici sorunu",
+   "ozet": "AvrupaJaponya ortak yapımı BepiColombo uzay aracı, sekiz yıllık yolculuğunun ardından Merkürün yörüngesine giren ikinci araç oldu; ancak iticilerinde bir aksaklık yaşandığı bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/merkurun-yorungesine-giren-ikinci-uzay-aracinda-itici-sorunu-964166.html",
+   "zaman": "2026-11-23T07:07:00+03:00",
+   "kelimeler": [
+    "araci",
+    "giren",
+    "ikinc",
+    "itici",
+    "merku",
+    "sorun",
+    "un",
+    "uzay",
+    "yorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "372b449c0c72": {
+   "id": "372b449c0c72",
+   "kaynak": "TRT Haber",
+   "baslik": "GTA VI, ilk gün satışları rekorları altüst etti",
+   "ozet": "\"Grand Theft Auto VI\" ilk gününde 3,79 milyar dolarlık hasılat ile dünyanın bugüne kadarki en büyük eğlence sektörü çıkışına imza attı. Oyun, hem selefi GTA V'in rekorunu hem de tüm zamanların en çok kazandıran filmi \"Avengers: Endgame\"in gişe gelirini geride bıraktı.",
+   "link": "https://www.trthaber.com/haber/dunya/gta-vi-ilk-gun-satislari-rekorlari-altust-etti-964167.html",
+   "zaman": "2026-11-23T07:17:00+03:00",
+   "kelimeler": [
+    "altus",
+    "etti",
+    "gta",
+    "gun",
+    "ilk",
+    "rekor",
+    "satis",
+    "vi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "4563331f8dd2": {
+   "id": "4563331f8dd2",
+   "kaynak": "TRT Haber",
+   "baslik": "Jandarma 9 bin uzman erbaş alımı yapacak",
+   "ozet": "Jandarma ve Sahil Güvenlik Akademisi Başkanlığı, Jandarma Genel Komutanlığına 9 bin uzman erbaş alımı yapılacağını duyurdu.",
+   "link": "https://www.trthaber.com/haber/turkiye/jandarma-9-bin-uzman-erbas-alimi-yapacak-964168.html",
+   "zaman": "2026-11-23T07:20:00+03:00",
+   "kelimeler": [
+    "alimi",
+    "bin",
+    "erbas",
+    "janda",
+    "uzman",
+    "yapac"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 07:31:16  9 yeni haber",
   "23.11 07:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "23.11 07:03:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Günümüzde Konya'da giyim mağazası işleten ve vatan uğruna iki bacağını",
   "23.11 07:01:47  1 yeni haber",
@@ -23884,8 +24100,7 @@
   "21.11 00:01:30  6 yeni haber",
   "20.11 23:31:07  1 yeni haber",
   "20.11 23:16:02  3 yeni haber",
-  "20.11 23:01:21  4 yeni haber",
-  "20.11 22:45:57  2 yeni haber"
+  "20.11 23:01:21  4 yeni haber"
  ],
  "otomatik": false
 }
