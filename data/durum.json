@@ -1,48 +1,5 @@
 {
  "haberler": {
-  "720e223a3586": {
-   "id": "720e223a3586",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Yeni Parti'nin komisyona katılmama kararı süreç ve siyasi dengeleri nasıl etkileyebilir?",
-   "ozet": "Yeni Parti Genel Başkanı Özgür Özel'in, çözüm süreci kapsamında Meclis'te kurulacak İzleme Komisyonu'na üye vermeme kararı, parti içinden destek görürken siyasi kulislerde yeni tartışmaları da beraberinde getirdi.",
-   "link": "https://www.bbc.com/turkce/articles/c6j9m2e1gvndo",
-   "zaman": "2026-11-20T03:22:26+03:00",
-   "kelimeler": [
-    "denge",
-    "etkil",
-    "karar",
-    "katil",
-    "komis",
-    "nasil",
-    "nin",
-    "parti",
-    "siyas",
-    "surec",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "b71195ab603b": {
-   "id": "b71195ab603b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Elektrifikasyon neden tartışılıyor, Türkiye yüzde 35 hedefini tutturabilir mi?",
-   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31'in başkanlığının bu yılki en önemli gündem maddelerinden biri de elektrifikasyon taahhüdü.",
-   "link": "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
-   "zaman": "2026-11-20T03:27:29+03:00",
-   "kelimeler": [
-    "35",
-    "elekt",
-    "hedef",
-    "neden",
-    "tarti",
-    "turki",
-    "tuttu",
-    "yuzde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "368cac645f56": {
    "id": "368cac645f56",
    "kaynak": "AA",
@@ -23678,7 +23635,10 @@
    "fb_id": null,
    "fb_reels_id": "2216568712257936",
    "slayt": 5,
-   "kanca": "258 SANDALYE KAZANDILAR"
+   "kanca": "258 SANDALYE KAZANDILAR",
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "592c8ce9faf7": {
    "id": "592c8ce9faf7",
@@ -24400,9 +24360,55 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "019f9cbabd94"
+  },
+  "89e695bbfabf": {
+   "id": "89e695bbfabf",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Demokratlar, 1992'den bu yana ABD Temsilciler Meclisi'ndeki en fazla sandalyeye ulaştı",
+   "ozet": "Demokratlar ara seçimlerde en az 258 sandalye kazanırken Cumhuriyetçiler en az 173 sandalye elde etti. Henüz açıklanmayan dört yer var.",
+   "link": "https://www.bbc.com/turkce/articles/c50mdr0mp04ro",
+   "zaman": "2026-11-23T03:18:59+03:00",
+   "kelimeler": [
+    "1992",
+    "abd",
+    "demok",
+    "den",
+    "fazla",
+    "mecli",
+    "ndeki",
+    "sanda",
+    "temsi",
+    "ulast",
+    "yana"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7402e96c3683"
+  },
+  "385e032f88a8": {
+   "id": "385e032f88a8",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin önemli bir aşamasıdır?",
+   "ozet": "Çocuğunuzun ilk yalanları sizi kaygılandırabilir. Ancak bu, zihinsel gelişimlerinde önemli bir aşamayı temsil ediyor. Doğruyu söyleme ve açık olma alışkanlığının nasıl geliştirilebileceği üzerine düşünmek gerekiyor.",
+   "link": "https://www.bbc.com/turkce/articles/c5742kxe9pexo",
+   "zaman": "2026-11-23T03:20:04+03:00",
+   "kelimeler": [
+    "asama",
+    "cocug",
+    "gelis",
+    "neden",
+    "oneml",
+    "size",
+    "soyle",
+    "yalan",
+    "zihin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 03:31:41  1 yeni haber",
   "23.11 03:16:04  2 yeni haber",
   "23.11 02:31:18  1 yeni haber",
   "23.11 02:15:54  2 yeni haber",
@@ -24601,8 +24607,7 @@
   "20.11 22:31:06  4 yeni haber",
   "20.11 22:01:44  2 yeni haber",
   "20.11 21:46:03  1 yeni haber",
-  "20.11 21:31:43  1 yeni haber",
-  "20.11 21:16:25  1 yeni haber"
+  "20.11 21:31:43  1 yeni haber"
  ],
  "otomatik": false
 }
