@@ -16444,7 +16444,8 @@
    "diger_kaynaklar": [
     "AA",
     "NTV",
-    "Hürriyet"
+    "Hürriyet",
+    "BBC Türkçe"
    ]
   },
   "f21f671c391e": {
@@ -22455,8 +22456,17 @@
     "seda",
     "youtu"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-24T01:32:32.557246+03:00",
+   "ig_id": "18354300922271702",
+   "reels_id": null,
+   "story_id": "18224926441355219",
+   "yorum_id": null,
+   "fb_id": "1276642895542042_122119748535472027",
+   "fb_reels_id": null,
+   "slayt": 4,
+   "kanca": "YOUTUBE'DA DAHA SANSÜRSÜZ"
   },
   "5eb021977ff7": {
    "id": "5eb021977ff7",
@@ -23356,9 +23366,29 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a2480067a21b": {
+   "id": "a2480067a21b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Öğretmenler Günü neden 24 Kasım'da kutlanıyor?",
+   "ozet": "24 Kasım Öğretmenler Günü'nün ortaya çıkışını, dünyadaki diğer öğretmen günlerini ve bu yıl Türkiye'deki meslek örgütlerinin taleplerini inceledik.",
+   "link": "https://www.bbc.com/turkce/articles/cqe979y7eq7o",
+   "zaman": "2026-11-24T01:16:40+03:00",
+   "kelimeler": [
+    "24",
+    "gunu",
+    "kasim",
+    "kutla",
+    "neden",
+    "ogret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "49824876df27"
   }
  },
  "kayit": [
+  "24.11 01:32:32  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Seda Sayan: \"YouTube'da biraz daha sansürsüzüm.",
   "24.11 01:01:22  1 yeni haber",
   "24.11 00:46:03  1 yeni haber",
   "24.11 00:33:08  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Resmi Gazete'de yayımlandı... Yeniden değerleme oranı belirlendi",
@@ -23557,8 +23587,7 @@
   "21.11 19:17:44  Otomatik paylaşım başarısız: Instagram görseli işleyemedi (ERROR)",
   "21.11 19:01:25  2 yeni haber",
   "21.11 18:45:56  2 yeni haber",
-  "21.11 18:31:10  1 yeni haber",
-  "21.11 18:15:58  3 yeni haber"
+  "21.11 18:31:10  1 yeni haber"
  ],
  "otomatik": false
 }
