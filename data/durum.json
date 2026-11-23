@@ -1,56 +1,5 @@
 {
  "haberler": {
-  "19e8df56abb2": {
-   "id": "19e8df56abb2",
-   "kaynak": "Hürriyet",
-   "baslik": "Kendini jandarma ve MİT mensubu olarak tanıtan dolandırıcılara operasyon: 6 şüpheli yakalandı",
-   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamada \"Şanlıurfa'da kendini Jandarma ve MİT mensubu olarak tanıtarak vatandaşlarımızı dolandıran şahıslara yönelik JASAT’ımız tarafından düzenlenen operasyonda 6 şüpheli yakalandı. Şüphelilerden 5'i tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kendini-jandarma-ve-mit-mensubu-olarak-tanitan-dolandiricilara-operasyon-6-supheli-yakalandi-43385239",
-   "zaman": "2026-11-20T16:03:00+03:00",
-   "kelimeler": [
-    "dolan",
-    "janda",
-    "kendi",
-    "mensu",
-    "mit",
-    "opera",
-    "suphe",
-    "tanit",
-    "yakal"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-20T16:19:57.822916+03:00",
-   "ig_id": "18121710034786638",
-   "reels_id": "18103481486641187",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1156995826700682",
-   "slayt": 6,
-   "kanca": "SAHTE MİT KİMLİĞİ"
-  },
-  "cdebfaad0ddd": {
-   "id": "cdebfaad0ddd",
-   "kaynak": "Hürriyet",
-   "baslik": "Hastanede cenaze tartışması bıçaklı saldırıyla bitti: 2 güvenlik görevlisi yaralı",
-   "ozet": "Bağcılar Devlet Hastanesi'nde sabah saatlerinde hayatını kaybeden hastanın cenazesini görmek isteyen yakınları, izin vermeyen güvenlik görevlilerine bıçakla saldırdı. Olayın ardından 4 şüpheli gözaltına alınırken, İstanbul İl Sağlık Müdürü Doç. Dr.",
-   "link": "https://www.hurriyet.com.tr/gundem/hastanede-cenaze-tartismasi-bicakli-saldiriyla-bitti-2-guvenlik-gorevlisi-yarali-43385252",
-   "zaman": "2026-11-20T16:09:32+03:00",
-   "kelimeler": [
-    "bicak",
-    "bitti",
-    "cenaz",
-    "gorev",
-    "guven",
-    "hasta",
-    "saldi",
-    "tarti",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "86e1b725480c": {
    "id": "86e1b725480c",
    "kaynak": "XHABER",
@@ -395,22 +344,6 @@
     "TRT Haber",
     "XHABER"
    ]
-  },
-  "87b113f3d7b9": {
-   "id": "87b113f3d7b9",
-   "kaynak": "AA",
-   "baslik": "TRT, 4 uluslararası ödülün sahibi oldu",
-   "ozet": "TRT, Asya-Pasifik Yayın Birliği (ABU) ve Avrupa Yayın Birliği (EBU) tarafından düzenlenen iki farklı organizasyonda 4 ödül aldı.",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-4-uluslararasi-odulun-sahibi-oldu/4132187",
-   "zaman": "2026-11-20T16:14:22+03:00",
-   "kelimeler": [
-    "odulu",
-    "sahib",
-    "trt",
-    "ulusl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "205dc4218525": {
    "id": "205dc4218525",
@@ -20048,7 +19981,10 @@
     "yer"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "6881b4bd8686": {
    "id": "6881b4bd8686",
@@ -23940,9 +23876,81 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f9e36acf0c28"
+  },
+  "e0c676e16c7c": {
+   "id": "e0c676e16c7c",
+   "kaynak": "AA",
+   "baslik": "DSÖ: KDC'nin doğusunda artan saldırılar, Ebola salgınına karşı müdahale çalışmalarını etkiledi",
+   "ozet": "DSÖ Genel Direktörü Ghebreyesus, Kongo Demokratik Cumhuriyeti'nin (KDC) doğusunda, ekimin sonundan bu yana saldırıların sıklığının arttığını ve bu durumun Ebola salgınına karşı yürütülen müdahale çalışmalarını ağır şekilde etkilediğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/dso-kdcnin-dogusunda-artan-saldirilar-ebola-salginina-karsi-mudahale-calismalarini-etkiledi/4134643",
+   "zaman": "2026-11-23T16:01:42+03:00",
+   "kelimeler": [
+    "artan",
+    "calis",
+    "dogus",
+    "dso",
+    "ebola",
+    "etkil",
+    "karsi",
+    "kdc",
+    "mudah",
+    "nin",
+    "saldi",
+    "salgi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b8b180283f71": {
+   "id": "b8b180283f71",
+   "kaynak": "AA",
+   "baslik": "Eski Mossad Direktörü, İsrail'in İran yönetimini devirmek için saldırılar başlatması gerektiğini söyledi",
+   "ozet": "İsrail dış istihbarat servisi Mossad'ın eski direktörü David Barnea, \"tüm koşullar elverir vermez\" İsrail'in İran'a yeni saldırılar başlatarak Tahran yönetimini devirmesi gerektiğini savundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/eski-mossad-direktoru-israilin-iran-yonetimini-devirmek-icin-saldirilar-baslatmasi-gerektigini-soyledi/4134659",
+   "zaman": "2026-11-23T16:11:06+03:00",
+   "kelimeler": [
+    "basla",
+    "devir",
+    "direk",
+    "eski",
+    "gerek",
+    "in",
+    "iran",
+    "israi",
+    "mossa",
+    "saldi",
+    "soyle",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7262876e651c": {
+   "id": "7262876e651c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Ermenistan, Dağlık Karabağ'ın yer almadığı yeni anayasa taslağını tartışıyor",
+   "ozet": "Ermenistan Başbakanı Nikol Paşinyan'ın hükümeti, yeni anayasa taslağını yayımladı. Taslakta Dağlık Karabağ'ın Ermenistan ile birleşmesine dair bildiriye atıfta bulunulmaması dikkat çekti.",
+   "link": "https://www.bbc.com/turkce/articles/c3rrg7qd9898o",
+   "zaman": "2026-11-23T16:14:15+03:00",
+   "kelimeler": [
+    "almad",
+    "anaya",
+    "dagli",
+    "ermen",
+    "in",
+    "karab",
+    "tarti",
+    "tasla",
+    "yeni",
+    "yer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "35eda6544566"
   }
  },
  "kayit": [
+  "23.11 16:16:02  2 yeni haber",
   "23.11 16:01:43  5 yeni haber",
   "23.11 15:45:59  9 yeni haber",
   "23.11 15:31:16  3 yeni haber",
@@ -24141,8 +24149,7 @@
   "21.11 12:01:47  3 yeni haber",
   "21.11 11:46:22  14 yeni haber",
   "21.11 11:33:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Amasya'da midibüsün devrildiği kazada 31 kişi yaralandı",
-  "21.11 11:31:14  9 yeni haber",
-  "21.11 11:15:54  8 yeni haber"
+  "21.11 11:31:14  9 yeni haber"
  ],
  "otomatik": false
 }
