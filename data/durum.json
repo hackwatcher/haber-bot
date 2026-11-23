@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "b8da7434b9cf": {
-   "id": "b8da7434b9cf",
-   "kaynak": "TRT Haber",
-   "baslik": "Yeni anestezi adayı farelerde uyutmadan ağrı tepkilerini azalttı",
-   "ozet": "Hayvan deneylerinde yüksek dozlarda uyutucu etki gösteren nidradin, düşük dozlarda uygulandığında deneklerin uyanık kalmasına rağmen ağrı hissini baskılamayı başardı.",
-   "link": "https://www.trthaber.com/haber/dunya/yeni-anestezi-adayi-farelerde-uyutmadan-agri-tepkilerini-azaltti-963912.html",
-   "zaman": "2026-11-20T07:37:00+03:00",
-   "kelimeler": [
-    "adayi",
-    "agri",
-    "anest",
-    "azalt",
-    "farel",
-    "tepki",
-    "uyutm",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "73ca22ff1ad9": {
    "id": "73ca22ff1ad9",
    "kaynak": "TRT Haber",
@@ -22653,7 +22633,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "Hürriyet"
    ]
   },
   "31e1031e1886": {
@@ -23897,10 +23878,77 @@
     "yapac"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "b8974b326089": {
+   "id": "b8974b326089",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıyer'de 'aslan' alarmı! Çalışmalar havadan görüntülendi: Vatandaşa 'evinizden çıkmayın' uyarısı",
+   "ozet": "Sarıyer'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sariyerde-aslan-alarmi-calismalar-havadan-goruntulendi-vatandasa-evinizden-cikmayin-uyarisi-43387403",
+   "zaman": "2026-11-23T07:02:00+03:00",
+   "kelimeler": [
+    "alarm",
+    "aslan",
+    "calis",
+    "cikma",
+    "evini",
+    "gorun",
+    "havad",
+    "sariy",
+    "uyari",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7bbccf1470b5"
+  },
+  "780e5e75a528": {
+   "id": "780e5e75a528",
+   "kaynak": "TRT Haber",
+   "baslik": "OpenAI'dan yapay zekanın gelişimine ortak sınır önerisi",
+   "ozet": "OpenAI Başbilimcisi Jakub Pachocki, hızla gelişen yapay zeka modellerinin oluşturduğu risklere karşı sektörde \"perplexity model zekası\" ölçütüne dayalı ortak sınırlar belirlenmesini önerdi.",
+   "link": "https://www.trthaber.com/haber/dunya/openaidan-yapay-zekanin-gelisimine-ortak-sinir-onerisi-964169.html",
+   "zaman": "2026-11-23T07:23:00+03:00",
+   "kelimeler": [
+    "dan",
+    "gelis",
+    "oneri",
+    "opena",
+    "ortak",
+    "sinir",
+    "yapay",
+    "zekan"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "6063d2a5ade5": {
+   "id": "6063d2a5ade5",
+   "kaynak": "NTV",
+   "baslik": "Jandarma Genel Komutanlığına 9 bin uzman erbaş alınacak",
+   "ozet": "Jandarma Genel Komutanlığına 9 bin uzman erbaş alımı yapılacağı belirtildi.",
+   "link": "https://www.ntv.com.tr/turkiye/jandarma-genel-komutanligina-9-bin-uzman-erbas-alinacak-1752127",
+   "zaman": "2026-11-23T07:38:03+03:00",
+   "kelimeler": [
+    "alina",
+    "bin",
+    "erbas",
+    "genel",
+    "janda",
+    "komut",
+    "uzman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4563331f8dd2"
   }
  },
  "kayit": [
+  "23.11 07:46:08  1 yeni haber",
   "23.11 07:31:16  9 yeni haber",
   "23.11 07:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "23.11 07:03:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Günümüzde Konya'da giyim mağazası işleten ve vatan uğruna iki bacağını",
@@ -24099,8 +24147,7 @@
   "21.11 00:04:40  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Dehşete düşüren olay… Cinayetten sonra evlenmişler",
   "21.11 00:01:30  6 yeni haber",
   "20.11 23:31:07  1 yeni haber",
-  "20.11 23:16:02  3 yeni haber",
-  "20.11 23:01:21  4 yeni haber"
+  "20.11 23:16:02  3 yeni haber"
  ],
  "otomatik": false
 }
