@@ -1,101 +1,5 @@
 {
  "haberler": {
-  "ae91f56d687a": {
-   "id": "ae91f56d687a",
-   "kaynak": "AA",
-   "baslik": "Meteorolojiden İstanbul dahil 24 il için sarı kodlu uyarı",
-   "ozet": "Meteoroloji Genel Müdürlüğü, yarın beklenen gök gürültülü sağanak ve kuvvetli yağış nedeniyle İstanbul'un da aralarında bulunduğu 24 il için sarı kodlu uyarıda bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-istanbul-dahil-24-il-icin-sari-kodlu-uyari/4132063",
-   "zaman": "2026-11-20T14:22:10+03:00",
-   "kelimeler": [
-    "24",
-    "dahil",
-    "il",
-    "istan",
-    "kodlu",
-    "meteo",
-    "sari",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "506cf2caeda2": {
-   "id": "506cf2caeda2",
-   "kaynak": "TRT Haber",
-   "baslik": "MEBİ Bireysel Öğrenme Platformu yenilendi",
-   "ozet": "Milli Eğitim Bakanlığınca öğrencilerin okul derslerine ve sınavlara hazırlık süreçlerini desteklemek amacıyla hayata geçirilen MEBİ Bireysel Öğrenme Platformu, yenilenen web arayüzü ve mobil uygulamasıyla kullanıma sunuldu.",
-   "link": "https://www.trthaber.com/haber/egitim/mebi-bireysel-ogrenme-platformu-yenilendi-963968.html",
-   "zaman": "2026-11-20T14:27:00+03:00",
-   "kelimeler": [
-    "birey",
-    "mebi",
-    "ogren",
-    "platf",
-    "yenil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "0202c77d1d27": {
-   "id": "0202c77d1d27",
-   "kaynak": "AA",
-   "baslik": "Bakan Şimşek, Türkiye'nin dış borç verilerini değerlendirdi",
-   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, cari dengede sağlanan iyileşme sonucunda Türkiye'nin dış yükümlülüğünün gerilediğini belirtti.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-turkiyenin-dis-borc-verilerini-degerlendirdi/4132068",
-   "zaman": "2026-11-20T14:27:23+03:00",
-   "kelimeler": [
-    "bakan",
-    "borc",
-    "deger",
-    "dis",
-    "nin",
-    "simse",
-    "turki",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8c07f4618184": {
-   "id": "8c07f4618184",
-   "kaynak": "AA",
-   "baslik": "Bakan Çiftçi \"Terörsüz Türkiye\" gündemiyle 8 il valisi ile Tunceli'de görüşecek",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, yarın Tunceli'de \"Terörsüz Türkiye\" gündemiyle 8 ilin valisi ve güvenlik birimlerinin yöneticileriyle bir araya gelecek.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-terorsuz-turkiye-gundemiyle-8-il-valisi-ile-tuncelide-gorusecek/4132072",
-   "zaman": "2026-11-20T14:29:38+03:00",
-   "kelimeler": [
-    "bakan",
-    "ciftc",
-    "gorus",
-    "gunde",
-    "il",
-    "teror",
-    "tunce",
-    "turki",
-    "valis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fbaf0b5f47d7": {
-   "id": "fbaf0b5f47d7",
-   "kaynak": "AA",
-   "baslik": "AJet, üçüncü kez APEX ödülü aldı",
-   "ozet": "AJet, Havayolu Yolcu Deneyimi Derneği (APEX) tarafından üçüncü kez \"Dört Yıldızlı Düşük Maliyetli Havayolu\" ödülüne layık görüldü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ajet-ucuncu-kez-apex-odulu-aldi/4132073",
-   "zaman": "2026-11-20T14:30:41+03:00",
-   "kelimeler": [
-    "ajet",
-    "aldi",
-    "apex",
-    "kez",
-    "odulu",
-    "ucunc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "347b622ca6f9": {
    "id": "347b622ca6f9",
    "kaynak": "Hürriyet",
@@ -15237,7 +15141,10 @@
     "sehit"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "262e2f98317f": {
    "id": "262e2f98317f",
@@ -21901,7 +21808,10 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "419828ec64cd": {
    "id": "419828ec64cd",
@@ -23694,9 +23604,193 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b4d4f30ae2e7": {
+   "id": "b4d4f30ae2e7",
+   "kaynak": "Hürriyet",
+   "baslik": "5 milyar 100 milyon TL'lik para hareketliliği tespit edildi | Bakanlık duyurdu: 131 şüpheli gözaltında",
+   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamaya göre; tefecilik, dolandırıcılık ve yasa dışı bahis suçlarına yönelik 9 il merkezli düzenlenen operasyonlarda 131 şüpheli yakalandı. Şebekenin 5 Milyar 100 Milyon TL para hareketliliği tespit edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/5-milyar-100-milyon-tllik-para-hareketliligi-tespit-edildi-bakanlik-duyurdu-131-supheli-gozaltinda-43388034",
+   "zaman": "2026-11-23T14:08:00+03:00",
+   "kelimeler": [
+    "100",
+    "131",
+    "bakan",
+    "duyur",
+    "edild",
+    "gozal",
+    "harek",
+    "lik",
+    "milya",
+    "milyo",
+    "para",
+    "suphe",
+    "tespi",
+    "tl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e62790706d66"
+  },
+  "d458f41cafe3": {
+   "id": "d458f41cafe3",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 4 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 4 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-4-kisi-hayatini-kaybetti/4134411",
+   "zaman": "2026-11-23T14:08:10+03:00",
+   "kelimeler": [
+    "24",
+    "atesk",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "ragme",
+    "saatt",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8d7834113833"
+  },
+  "d80d0990ab2d": {
+   "id": "d80d0990ab2d",
+   "kaynak": "AA",
+   "baslik": "Şehit Astsubay Çavuş Yalın Gergün, memleketi Samsun'da toprağa verildi",
+   "ozet": "Şırnak'ın Uludere ilçesinde, silah kazasında şehit olan İstihbarat Astsubay Çavuş Yalın Gergün (22), memleketi Samsun'da son yolculuğuna uğurlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/sehit-astsubay-cavus-yalin-gergun-memleketi-samsunda-topraga-verildi/4134421",
+   "zaman": "2026-11-23T14:09:54+03:00",
+   "kelimeler": [
+    "astsu",
+    "cavus",
+    "gergu",
+    "memle",
+    "samsu",
+    "sehit",
+    "topra",
+    "veril",
+    "yalin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7e3c133b3d51"
+  },
+  "120ed7ed0250": {
+   "id": "120ed7ed0250",
+   "kaynak": "TRT Haber",
+   "baslik": "Silah kazasında şehit olan askerimiz son yolculuğuna uğurlandı",
+   "ozet": "Şırnak'ın Uludere ilçesinde, silah kazasında şehit olan İstihbarat Astsubay Çavuş Yalın Gergün, memleketi Samsun'da son yolculuğuna uğurlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/silah-kazasinda-sehit-olan-askerimiz-son-yolculuguna-ugurlandi-964206.html",
+   "zaman": "2026-11-23T14:11:00+03:00",
+   "kelimeler": [
+    "asker",
+    "kazas",
+    "sehit",
+    "silah",
+    "ugurl",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8b29a780b432": {
+   "id": "8b29a780b432",
+   "kaynak": "AA",
+   "baslik": "AB'den Coca-Cola'nın şişeleme şirketine rekabet soruşturması",
+   "ozet": "Avrupa Birliği (AB) Komisyonu, Coca-Cola markalı içeceklerin Avrupa'daki en büyük iki şişeleme şirketinden biri olan Coca-Cola Europacific Partners'a (CCEP) yönelik rekabet soruşturması başlattı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abden-coca-colanin-siseleme-sirketine-rekabet-sorusturmasi/4134441",
+   "zaman": "2026-11-23T14:12:51+03:00",
+   "kelimeler": [
+    "ab",
+    "coca",
+    "cola",
+    "den",
+    "nin",
+    "rekab",
+    "sirke",
+    "sisel",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "526e3a978041": {
+   "id": "526e3a978041",
+   "kaynak": "TRT Haber",
+   "baslik": "9 ilde Tefecilik, Nitelikli Dolandırıcılık ve Yasa Dışı Bahis operasyonu: 131 gözaltı",
+   "ozet": "İçişleri Bakanlığı'ndan yapılan açıklamada 9 il merkezli 'Tefecilik, Nitelikli Dolandırıcılık ve Yasa Dışı Bahis' suçlarına yönelik düzenlenen operasyonlarda 131 şüpheli yakalandı. Şüphelilerden 51'i tutuklandı. 36'sı hakkında adli kontrol kararı uygulandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/9-ilde-tefecilik-nitelikli-dolandiricilik-ve-yasa-disi-bahis-operasyonu-131-gozalti-964205.html",
+   "zaman": "2026-11-23T14:17:00+03:00",
+   "kelimeler": [
+    "131",
+    "bahis",
+    "disi",
+    "dolan",
+    "gozal",
+    "ilde",
+    "nitel",
+    "opera",
+    "tefec",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "ca7d99a05ed4"
+  },
+  "38890b457eb8": {
+   "id": "38890b457eb8",
+   "kaynak": "AA",
+   "baslik": "Çin'den Şıncın'daki üçlü zirvenin ardından \"etki alanı arayışında değiliz\" açıklaması",
+   "ozet": "Çin Dışişleri Bakanlığı Sözcüsü Guo Ciakun, APEC Zirvesi'nde Çin, ABD ve Rusya liderlerini bir araya getiren üçlü toplantıya ilişkin, Pekin yönetiminin çok taraflılığa bağlı olduğunu ve etki alanı arayışında olmadığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/cinden-sincindaki-uclu-zirvenin-ardindan-etki-alani-arayisinda-degiliz-aciklamasi/4134477",
+   "zaman": "2026-11-23T14:21:32+03:00",
+   "kelimeler": [
+    "acikl",
+    "alani",
+    "arayi",
+    "ardin",
+    "cin",
+    "daki",
+    "degil",
+    "den",
+    "etki",
+    "sinci",
+    "uclu",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "19e05def2a4d": {
+   "id": "19e05def2a4d",
+   "kaynak": "NTV",
+   "baslik": "Kayseri'de mantar şeklindeki kayanın üzerinde 2 bin yıllık Roma mezarı bulundu",
+   "ozet": "Kayseri'de rüzgarın aşındırmasıyla mantar şeklini alan kayanın üzerinde Roma dönemine ait olduğu değerlendirilen mezar bulundu. Tarihi yapının korunması ve incelenmesi için başvuru yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-kayseride-mantar-seklindeki-kayanin-uzerinde-2-bin-yillik-roma-mezari-bulundu-1752215",
+   "zaman": "2026-11-23T14:22:58+03:00",
+   "kelimeler": [
+    "bin",
+    "bulun",
+    "kayan",
+    "kayse",
+    "manta",
+    "mezar",
+    "roma",
+    "sekli",
+    "uzeri",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 14:31:09  4 yeni haber",
   "23.11 14:16:09  3 yeni haber",
   "23.11 14:01:23  3 yeni haber",
   "23.11 13:49:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · Shakhtar Donetsk-Fenerbahçe maçını İngiliz hakem Michael Oliver yönete",
@@ -23895,8 +23989,7 @@
   "21.11 10:03:39  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Milletlerarası anlaşmalar Resmi Gazete'de",
   "21.11 10:01:33  4 yeni haber",
   "21.11 09:45:55  3 yeni haber",
-  "21.11 09:31:08  1 yeni haber",
-  "21.11 09:16:05  2 yeni haber"
+  "21.11 09:31:08  1 yeni haber"
  ],
  "otomatik": false
 }
