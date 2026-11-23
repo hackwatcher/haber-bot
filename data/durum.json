@@ -24263,7 +24263,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "e11eeab75b7f": {
@@ -24367,6 +24368,24 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9ea7c632f67b": {
+   "id": "9ea7c632f67b",
+   "kaynak": "Hürriyet",
+   "baslik": "Ege Denizi'nde 4.2 büyüklüğünde deprem",
+   "ozet": "Ege Denizi'nde Bodrum’da 66 kilometre mesafede Richter ölçeğine göre 4,2 büyüklüğünde deprem meydana geldi. Depremde herhangi bir olumsuzluk yaşanmadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ege-denizinde-4-2-buyuklugunde-deprem-43387485",
+   "zaman": "2026-11-23T04:27:00+03:00",
+   "kelimeler": [
+    "buyuk",
+    "deniz",
+    "depre",
+    "ege",
+    "nde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7890136a38fd"
   }
  },
  "kayit": [
