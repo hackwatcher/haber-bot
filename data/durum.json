@@ -1,108 +1,5 @@
 {
  "haberler": {
-  "50268e49207c": {
-   "id": "50268e49207c",
-   "kaynak": "Hürriyet",
-   "baslik": "COP31 Başkanı Kurum: Adaletli bir sistem kurmak zorundayız",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 196 ülkeyle birlikte karar almak zorunda olduklarını belirterek, \"Herkesin önceliklerini dikkate almak zorundasınız. Adaletli bir sistem kurmak zorundayız. Tüm bunlarla birlikte çalışıyoruz.",
-   "link": "https://www.hurriyet.com.tr/gundem/cop31-baskani-kurum-adaletli-bir-sistem-kurmak-zorundayiz-43385587",
-   "zaman": "2026-11-20T22:07:08+03:00",
-   "kelimeler": [
-    "adale",
-    "baska",
-    "cop31",
-    "kurma",
-    "kurum",
-    "siste",
-    "zorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "15aec038d3e4": {
-   "id": "15aec038d3e4",
-   "kaynak": "Hürriyet",
-   "baslik": "‘Fiyat hatası’ diyerek iptal edilen siparişe 1 milyon TL ceza",
-   "ozet": "TİCARET Bakanlığı Reklam Kurulu, bir e-ticaret platformu üzerinden satın alınan siparişlerin ‘fiyat hatası’ gerekçesiyle iptal edilmesine ilişkin ilgili şirkete 1 milyon 83 bin 706 TL idari para cezası uygulandığını açıkladı.",
-   "link": "https://www.hurriyet.com.tr/gundem/fiyat-hatasi-diyerek-iptal-edilen-siparise-1-milyon-tl-ceza-43385593",
-   "zaman": "2026-11-20T22:16:41+03:00",
-   "kelimeler": [
-    "ceza",
-    "diyer",
-    "edile",
-    "fiyat",
-    "hatas",
-    "iptal",
-    "milyo",
-    "sipar",
-    "tl"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e65933d4dd1e"
-  },
-  "5e8b874a8b8c": {
-   "id": "5e8b874a8b8c",
-   "kaynak": "TRT Haber",
-   "baslik": "Uluslararası seviyede aranan Serdar Altınbaş Çekya'da yakalandı",
-   "ozet": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanunu'na muhalefet\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyon mesajıyla uluslararası seviyede aranan Serdar Altınbaş'ın, Çekya'da yakalandığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi-964006.html",
-   "zaman": "2026-11-20T22:19:00+03:00",
-   "kelimeler": [
-    "altin",
-    "arana",
-    "cekya",
-    "serda",
-    "seviy",
-    "ulusl",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "Sözcü"
-   ]
-  },
-  "dcc49d863e6f": {
-   "id": "dcc49d863e6f",
-   "kaynak": "AA",
-   "baslik": "Bitcoin 60 bin doların altına geriledi",
-   "ozet": "ABD'de faiz oranlarının yüksek kalacağı ve artabileceği beklentileri ile ABD teknoloji hisselerindeki sert satışların oluşturduğu baskıyla bitcoinin fiyatı 60 bin dolarlık kritik seviyenin de altına düştü.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-60-bin-dolarin-altina-geriledi/4132534",
-   "zaman": "2026-11-20T22:20:43+03:00",
-   "kelimeler": [
-    "60",
-    "altin",
-    "bin",
-    "bitco",
-    "dolar",
-    "geril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "b5ff1678c4f5"
-  },
-  "65238eb71749": {
-   "id": "65238eb71749",
-   "kaynak": "AA",
-   "baslik": "Uluslararası seviyede aranan Serdar Altınbaş Çekya'da yakaladı",
-   "ozet": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanuna muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyonla, uluslararası seviyede aranan Serdar Altınbaş'ın Çekya'da yakaladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakaladi/4132536",
-   "zaman": "2026-11-20T22:22:23+03:00",
-   "kelimeler": [
-    "altin",
-    "arana",
-    "cekya",
-    "serda",
-    "seviy",
-    "ulusl",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5e8b874a8b8c"
-  },
   "58bf0d520533": {
    "id": "58bf0d520533",
    "kaynak": "NTV",
@@ -149,43 +46,6 @@
    "oncelikli": false,
    "tekrar_of": "58bf0d520533"
   },
-  "7cbfb1b84acf": {
-   "id": "7cbfb1b84acf",
-   "kaynak": "TRT Haber",
-   "baslik": "İngiliz Parlamentosundan yapay zeka yasası çağrısı",
-   "ozet": "İngiltere Parlamentosunun İnsan Hakları Ortak Komitesi, hükümeti insan hakları risklerini ortadan kaldırmak amacıyla yapay zeka yasası çıkarmaya ve bu alanda çalışan bağımsız bir düzenleme kurumu oluşturmaya çağırdı.",
-   "link": "https://www.trthaber.com/haber/dunya/ingiliz-parlamentosundan-yapay-zeka-yasasi-cagrisi-964005.html",
-   "zaman": "2026-11-20T22:16:00+03:00",
-   "kelimeler": [
-    "cagri",
-    "ingil",
-    "parla",
-    "yapay",
-    "yasas",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7129697adee4": {
-   "id": "7129697adee4",
-   "kaynak": "TRT Haber",
-   "baslik": "Bitcoin 60 bin doların altına geriledi",
-   "ozet": "ABD'de faiz oranlarının yüksek kalacağı ve artabileceği beklentileri ile ABD teknoloji hisselerindeki sert satışların oluşturduğu baskıyla bitcoinin fiyatı 60 bin dolarlık kritik seviyenin de altına düştü.",
-   "link": "https://www.trthaber.com/haber/dunya/bitcoin-60-bin-dolarin-altina-geriledi-964007.html",
-   "zaman": "2026-11-20T22:21:00+03:00",
-   "kelimeler": [
-    "60",
-    "altin",
-    "bin",
-    "bitco",
-    "dolar",
-    "geril"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "b5ff1678c4f5"
-  },
   "79890d9e2a8b": {
    "id": "79890d9e2a8b",
    "kaynak": "AA",
@@ -222,26 +82,6 @@
     "fon",
     "serda",
     "sorus",
-    "yakal"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5e8b874a8b8c"
-  },
-  "c46b1dfdac8b": {
-   "id": "c46b1dfdac8b",
-   "kaynak": "AA",
-   "baslik": "Uluslararası seviyede aranan Serdar Altınbaş, Çekya'da yakalandı",
-   "ozet": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanuna muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyonla, uluslararası seviyede aranan Serdar Altınbaş'ın Çekya'da yakaladığını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi/4132536",
-   "zaman": "2026-11-20T22:22:23+03:00",
-   "kelimeler": [
-    "altin",
-    "arana",
-    "cekya",
-    "serda",
-    "seviy",
-    "ulusl",
     "yakal"
    ],
    "durum": "tekrar",
@@ -23067,7 +22907,10 @@
     "yilin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "51d55c93685d": {
    "id": "51d55c93685d",
@@ -23517,9 +23360,90 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ac6c75b08ffe": {
+   "id": "ac6c75b08ffe",
+   "kaynak": "TRT Haber",
+   "baslik": "Danimarka'da okullarda cep telefonu kullanımı yasaklanıyor",
+   "ozet": "Danimarka, 20272028 eğitim öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu kullanımına izin verilmeyeceğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/dunya/danimarkada-okullarda-cep-telefonu-kullanimi-yasaklaniyor-964234.html",
+   "zaman": "2026-11-23T22:08:00+03:00",
+   "kelimeler": [
+    "cep",
+    "danim",
+    "kulla",
+    "okull",
+    "telef",
+    "yasak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e7a73eddbd61"
+  },
+  "d09956bd6783": {
+   "id": "d09956bd6783",
+   "kaynak": "Hürriyet",
+   "baslik": "Kuvvetli yağış yurda giriş yaptı... Bazı illerde yollar göle döndü, evleri ve iş yerlerini su bastı",
+   "ozet": "İstanbul dahil 22 il için meteorolojik sarı kodlu uyarı verilmesinin ardından beklenen yağış etkisini göstermeye başladı. İstanbul, Edremit, Bursa, Balıkesir’de etkili olan yağışlar nedeniyle sokaklar ve caddeler göle döndü, iş yerlerini su bastı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kuvvetli-yagis-yurda-giris-yapti-bazi-illerde-yollar-gole-dondu-evleri-ve-is-yerlerini-su-basti-43388545",
+   "zaman": "2026-11-23T22:08:48+03:00",
+   "kelimeler": [
+    "basti",
+    "bazi",
+    "dondu",
+    "evler",
+    "giris",
+    "gole",
+    "iller",
+    "is",
+    "kuvve",
+    "su",
+    "yagis",
+    "yapti",
+    "yerle",
+    "yolla",
+    "yurda"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "59f1e2cabfc7": {
+   "id": "59f1e2cabfc7",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Sarıyer'de aslan görüldüğü ihbarı üzerine başlatılan aramalarda şu ana kadar hayvana ait iz veya bulguya rastlanmadığı bildirildi.",
+   "ozet": "Aramaların beş ayrı noktada dronlarla sürdürüldüğünü açıklandı.",
+   "link": "https://t.me/sahinozkan000/30882",
+   "zaman": "2026-11-23T22:21:13+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Sarıyer'de aslan görüldüğü ihbarı üzerine başlatılan aramalarda şu ana kadar hayvana ait iz veya bulguya rastlanmadığı bildirildi.\nAramaların beş ayrı noktada dronlarla sürdürüldüğünü açıklandı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/kKseYiFkOBfTyqW2QgH_W77mk2DXJwVzX9L9RJkY1RhhATfpYlx79kARrzhtMilOxJDtkQcF3InmQGZ_dQ9sDoQYkxcjjCh2rzeF8fuM4Xdxa-y0AU8JHrLCAjXsVDwFvIj84-O6fVXLpgf-ML8XS8jcB8LTGM6HzfiWnO3pJ3aDWXdVJopbNMmoO0OCeSk2sYFzJKAfmOa3Oc33KTrrgVYrn3pu9-IMFShp8ROZtSld3WAyaZ_q4TlMamuaEQoJKjWqn53EQ32HWJ9HC7oOttEJYBV7PTrWlcJmfotGKKUFF_Y2v6WvuubcE5r8VwxzqFz97XRiKjXQbbkqu_D15A.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "ait",
+    "ana",
+    "arama",
+    "aslan",
+    "basla",
+    "bildi",
+    "bulgu",
+    "gorul",
+    "hayva",
+    "ihbar",
+    "iz",
+    "rastl",
+    "sariy",
+    "sonda",
+    "su",
+    "uzeri",
+    "veya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f90d1dc8ee26"
   }
  },
  "kayit": [
+  "23.11 22:23:23  1 yeni haber",
   "23.11 22:01:27  5 yeni haber",
   "23.11 21:45:59  4 yeni haber",
   "23.11 21:31:33  2 yeni haber",
@@ -23718,8 +23642,7 @@
   "21.11 16:01:17  2 yeni haber",
   "21.11 16:01:17  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "21.11 15:45:59  2 yeni haber",
-  "21.11 15:31:23  3 yeni haber",
-  "21.11 15:15:55  7 yeni haber"
+  "21.11 15:31:23  3 yeni haber"
  ],
  "otomatik": false
 }
