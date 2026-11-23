@@ -1,85 +1,5 @@
 {
  "haberler": {
-  "9b2853a5658c": {
-   "id": "9b2853a5658c",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil İsrail'in Gazze Şeridi'ndeki saldırılarında 3 Filistinli hayatını kaybetti",
-   "ozet": "İsrail ordusunun ateşkes anlaşmasına rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği hava ve kara saldırılarında 3 Filistinli yaşamını yitirdi, 13 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-saldirilarinda-3-filistinli-hayatini-kaybetti-963990.html",
-   "zaman": "2026-11-20T18:17:00+03:00",
-   "kelimeler": [
-    "filis",
-    "gazze",
-    "hayat",
-    "in",
-    "israi",
-    "katil",
-    "kaybe",
-    "ndeki",
-    "saldi",
-    "serid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3160c9f44afe"
-  },
-  "b8b44e47d8fa": {
-   "id": "b8b44e47d8fa",
-   "kaynak": "AA",
-   "baslik": "Borsa günü düşüşle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,36 değer kaybederek 11.131,32 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4132381",
-   "zaman": "2026-11-20T18:19:30+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "tamam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "04f69a474967": {
-   "id": "04f69a474967",
-   "kaynak": "Hürriyet",
-   "baslik": "Depremde 21 kişiye mezar olmuştu... Kırçuval Otel davasında 8 sanığa hapis cezası",
-   "ozet": "KAHRAMANMARAŞ merkezli 6 Şubat depremlerinde Malatya’da 21 kişinin hayatını kaybettiği Kırçuval Oteli’nin yıkılmasına ilişkin davada tutuksuz yargılanan 11 sanıktan 8'i 8 yıl 4 ay ile 14 yıl 2 ay ay arasında değişen hapis cezalarına çarptırıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/depremde-21-kisiye-mezar-olmustu-kircuval-otel-davasinda-8-saniga-hapis-cezasi-43385445",
-   "zaman": "2026-11-20T18:24:43+03:00",
-   "kelimeler": [
-    "21",
-    "cezas",
-    "davas",
-    "depre",
-    "hapis",
-    "kircu",
-    "kisiy",
-    "mezar",
-    "olmus",
-    "otel",
-    "sanig"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "3c345371dc69": {
-   "id": "3c345371dc69",
-   "kaynak": "Hürriyet",
-   "baslik": "Hatay'da arazöz uçuruma yuvarlandı: 1 işçi öldü, 5 işçi yaralandı",
-   "ozet": "Hatay'ın Samandağ ilçesinde arazözün uçuruma yuvarlanması sonucu 1 işçi öldü, 5 işçi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/hatayda-arazoz-ucuruma-yuvarlandi-1-isci-oldu-5-isci-yaralandi-43385451",
-   "zaman": "2026-11-20T18:30:00+03:00",
-   "kelimeler": [
-    "arazo",
-    "hatay",
-    "isci",
-    "ucuru",
-    "yaral",
-    "yuvar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "14309a69f098": {
    "id": "14309a69f098",
    "kaynak": "TRT Haber",
@@ -878,29 +798,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "404ab6ba66b0": {
-   "id": "404ab6ba66b0",
-   "kaynak": "TRT Haber",
-   "baslik": "Katil İsrail'in Gazze Şeridi'ndeki saldırılarında 7 Filistinli hayatını kaybetti",
-   "ozet": "Katil İsrail ordusunun ateşkes anlaşmasına rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği hava ve kara saldırılarında 7 Filistinli yaşamını yitirdi, en az 13 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-saldirilarinda-7-filistinli-hayatini-kaybetti-963990.html",
-   "zaman": "2026-11-20T18:17:00+03:00",
-   "kelimeler": [
-    "filis",
-    "gazze",
-    "hayat",
-    "in",
-    "israi",
-    "katil",
-    "kaybe",
-    "ndeki",
-    "saldi",
-    "serid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3160c9f44afe"
   },
   "212630c88213": {
    "id": "212630c88213",
@@ -12638,7 +12535,11 @@
     "zirve"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "TRT Haber"
+   ]
   },
   "3f8ef65104bd": {
    "id": "3f8ef65104bd",
@@ -17528,7 +17429,10 @@
     "yogun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "f583445ee0c1": {
    "id": "f583445ee0c1",
@@ -18102,7 +18006,10 @@
     "yagmu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "26e39b198890": {
    "id": "26e39b198890",
@@ -23708,9 +23615,104 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "812eef6a62f8": {
+   "id": "812eef6a62f8",
+   "kaynak": "AA",
+   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'nın ardından açıklamalarda bulunuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4134700",
+   "zaman": "2026-11-23T16:42:12+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "610c7dbbf16f"
+  },
+  "deb555708ac5": {
+   "id": "deb555708ac5",
+   "kaynak": "AA",
+   "baslik": "Ukrayna: Güvenlik garantisi açısından ülkenin NATO'ya kabul edilmesi daha etkili olabilir",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinin NATO üyesi olmasının Ukrayna'nın güvenlik garantisi açısından daha etkili olabileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-guvenlik-garantisi-acisindan-ulkenin-natoya-kabul-edilmesi-daha-etkili-olabilir/4134781",
+   "zaman": "2026-11-23T17:50:41+03:00",
+   "kelimeler": [
+    "acisi",
+    "edilm",
+    "etkil",
+    "garan",
+    "guven",
+    "kabul",
+    "nato",
+    "olabi",
+    "ukray",
+    "ulken",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "59e07e68292d": {
+   "id": "59e07e68292d",
+   "kaynak": "AA",
+   "baslik": "İstanbul Valiliğinden soğuk hava uyarısı",
+   "ozet": "İstanbul Valiliği, kentte hava sıcaklıklarının yarından itibaren hissedilir derecede azalarak mevsim normallerinin 6 ila 8 derece altında seyretmesinin beklendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valiliginden-soguk-hava-uyarisi/4134809",
+   "zaman": "2026-11-23T18:14:18+03:00",
+   "kelimeler": [
+    "hava",
+    "istan",
+    "soguk",
+    "uyari",
+    "valil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "405f88d2cd5e"
+  },
+  "fb3552511982": {
+   "id": "fb3552511982",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine toplantısının ardından gündeme ilişkin açıklamalarda bulunuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-964225.html",
+   "zaman": "2026-11-23T18:17:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "610c7dbbf16f"
+  },
+  "e8710153fa5d": {
+   "id": "e8710153fa5d",
+   "kaynak": "NTV",
+   "baslik": "Kabine toplantısı sona erdi. Cumhurbaşkanı Erdoğan açıklama yapıyor",
+   "ozet": "Cumhurbaşkanı Erdoğan, kabine toplantısı sonrası açıklama yapıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
+   "zaman": "2026-11-23T18:23:48+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "erdi",
+    "erdog",
+    "kabin",
+    "sona",
+    "topla",
+    "yapiy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "960f8bef2319"
   }
  },
  "kayit": [
+  "23.11 18:32:22  1 yeni haber",
   "23.11 18:16:15  9 yeni haber",
   "23.11 17:31:15  3 yeni haber",
   "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev",
@@ -23909,8 +23911,7 @@
   "21.11 13:31:14  1 yeni haber",
   "21.11 13:23:23  1 yeni haber",
   "21.11 13:16:31  4 yeni haber",
-  "21.11 13:04:10  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · MEDİNE'NİN TESLİM OLMAYAN MUHAFIZI: ÇÖL KAPLANI FAHREDDİN PAŞA",
-  "21.11 13:01:22  4 yeni haber"
+  "21.11 13:04:10  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · MEDİNE'NİN TESLİM OLMAYAN MUHAFIZI: ÇÖL KAPLANI FAHREDDİN PAŞA"
  ],
  "otomatik": false
 }
