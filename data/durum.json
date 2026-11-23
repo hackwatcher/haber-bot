@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "d3fd585f8b2d": {
-   "id": "d3fd585f8b2d",
-   "kaynak": "BBC Türkçe",
-   "baslik": "'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkış hikayesi",
-   "ozet": "Orijinal Grand Theft Auto, 1997 yılında İskoçya'nın Dundee şehrinde, sonraki oyunların standartlarına göre nispeten küçük bir ekip olan DMA Design tarafından piyasaya sürüldü.",
-   "link": "https://www.bbc.com/turkce/articles/ck3wg1d87zy6o",
-   "zaman": "2026-11-20T02:52:00+03:00",
-   "kelimeler": [
-    "adami",
-    "cikis",
-    "eglen",
-    "gta",
-    "hikay",
-    "kotu",
-    "nin",
-    "ortay",
-    "oynam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "720e223a3586": {
    "id": "720e223a3586",
    "kaynak": "BBC Türkçe",
@@ -18472,7 +18451,8 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c496a7ffc0d1": {
    "id": "c496a7ffc0d1",
@@ -24319,6 +24299,50 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "3d4cc8a64b28": {
+   "id": "3d4cc8a64b28",
+   "kaynak": "TRT Haber",
+   "baslik": "Ara tatil bitti, ders zili bugün yeniden çalacak",
+   "ozet": "Milli Eğitim Bakanlığına MEB bağlı ilk ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 1,2 milyon öğretmenle eğitim öğretim yılının ilk ara tatilinin ardından bugün dersbaşı yapacak.",
+   "link": "https://www.trthaber.com/haber/egitim/ara-tatil-bitti-ders-zili-bugun-yeniden-calacak-964161.html",
+   "zaman": "2026-11-23T02:28:00+03:00",
+   "kelimeler": [
+    "ara",
+    "bitti",
+    "bugun",
+    "calac",
+    "ders",
+    "tatil",
+    "yenid",
+    "zili"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "91fea7964d86"
+  },
+  "d151f262672e": {
+   "id": "d151f262672e",
+   "kaynak": "NTV",
+   "baslik": "İstanbul'da bugün fırtına yarın kış. Sıcaklık 12 derece birden düşecek",
+   "ozet": "İstanbul bugün fırtınalı ve kuvvetli yağışlı bir havanın etkisine giriyor. Yarın ise sıcaklıklar 12 derece birden düşecek. Yağışların, yüksek yerlerde sulu kar şeklinde görülmesi bekleniyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-1752117",
+   "zaman": "2026-11-23T03:00:43+03:00",
+   "kelimeler": [
+    "12",
+    "birde",
+    "bugun",
+    "derec",
+    "dusec",
+    "firti",
+    "istan",
+    "kis",
+    "sicak",
+    "yarin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ab982da00d9b"
   }
  },
  "kayit": [
