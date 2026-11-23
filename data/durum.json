@@ -1,116 +1,5 @@
 {
  "haberler": {
-  "be4ac6961b1f": {
-   "id": "be4ac6961b1f",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Malezya, 10 bin Arakanlı Müslüman göçmeni Türkiye'ye yerleştirmeyi planlıyor",
-   "ozet": "Malezya hükümeti, 10 bin Arakanlı Müslüman göçmeni Türkiye'ye yerleştirmeyi hedeflediğini açıkladı. Türk yetkililerden henüz konuyla ilgili bir açıklama yapılmadı.",
-   "link": "https://www.bbc.com/turkce/articles/cmn4k8g9xg1no",
-   "zaman": "2026-11-20T15:34:40+03:00",
-   "kelimeler": [
-    "10",
-    "araka",
-    "bin",
-    "gocme",
-    "malez",
-    "muslu",
-    "planl",
-    "turki",
-    "ye",
-    "yerle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
-   ]
-  },
-  "87c9fe0de891": {
-   "id": "87c9fe0de891",
-   "kaynak": "AA",
-   "baslik": "AB Komisyonu çalışanlarından siber saldırıya ilişkin bilgilendirme yapılmamasına tepki",
-   "ozet": "Avrupa Birliği (AB) Komisyonu bünyesinde faaliyet gösteren sendika, kuruma yönelik siber saldırının ardından çalışanların bilgilendirilmemesine tepki göstererek, kişisel verilerin etkilenip etkilenmediğinin açıklanmasını talep etti.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ab-komisyonu-calisanlarindan-siber-saldiriya-iliskin-bilgilendirme-yapilmamasina-tepki/4132145",
-   "zaman": "2026-11-20T15:35:29+03:00",
-   "kelimeler": [
-    "ab",
-    "bilgi",
-    "calis",
-    "ilisk",
-    "komis",
-    "saldi",
-    "siber",
-    "tepki",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e77e77f383d8": {
-   "id": "e77e77f383d8",
-   "kaynak": "Sözcü",
-   "baslik": "Kredi kartlarında asgari ödeme oranlarında değişiklik",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/son-dakika-kredi-kartlarinda-asgari-odeme-oranlarinda-degisiklik-p383076",
-   "zaman": "2026-11-20T15:44:46+03:00",
-   "kelimeler": [
-    "asgar",
-    "degis",
-    "kartl",
-    "kredi",
-    "odeme",
-    "oranl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "2a27c237548a": {
-   "id": "2a27c237548a",
-   "kaynak": "AA",
-   "baslik": "Füzyon enerjisi küresel enerji rekabetinde stratejik alan olarak öne çıkıyor",
-   "ozet": "Dünyada artan elektrik talebi, enerji arz güvenliğine ilişkin kaygılar ve düşük karbonlu kaynaklara yönelim, nükleer füzyonu öne çıkarırken, bu alandaki gelişmeler ülkeler arasındaki bilimsel ve endüstriyel rekabete yeni boyut kazandırıyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fuzyon-enerjisi-kuresel-enerji-rekabetinde-stratejik-alan-olarak-one-cikiyor/4132155",
-   "zaman": "2026-11-20T15:42:49+03:00",
-   "kelimeler": [
-    "alan",
-    "cikiy",
-    "enerj",
-    "fuzyo",
-    "kures",
-    "one",
-    "rekab",
-    "strat"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "3dbf970b0ce1": {
-   "id": "3dbf970b0ce1",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan, Avrupa Komisyonu Başkan Yardımcısı Fitto ile Ankara'da görüştü",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Avrupa Komisyonu'nun Uyum ve Reformlardan Sorumlu Başkan Yardımcısı Raffaele Fitto ile Ankara'daki görüşmesinde, \"TürkiyeAvrupa Birliği AB ilişkilerinin geleceğinin Güney Kıbrıs Rum Yönetimi GKRY tarafından rehin alınmasına izin verilmesinin\" doğru…",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-avrupa-komisyonu-baskan-yardimcisi-fitto-ile-ankarada-gorustu-963975.html",
-   "zaman": "2026-11-20T15:45:00+03:00",
-   "kelimeler": [
-    "ankar",
-    "avrup",
-    "bakan",
-    "baska",
-    "fidan",
-    "fitto",
-    "gorus",
-    "komis",
-    "yardi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "7eaf4d7aba4f": {
    "id": "7eaf4d7aba4f",
    "kaynak": "TRT Haber",
@@ -12886,7 +12775,8 @@
     "yeral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "2c0652362563": {
    "id": "2c0652362563",
@@ -14144,7 +14034,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "28429bf13deb": {
@@ -23698,9 +23589,262 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3bdc529d2c5a": {
+   "id": "3bdc529d2c5a",
+   "kaynak": "AA",
+   "baslik": "Dijital ortamda zorunlu tutulan gizlilik politikaları ve çerezlerin görünmeyen bedeli mahremiyet yorgunluğu",
+   "ozet": "İngiliz araştırmacı Dr. Karen Renaud, \"Her seferinde 'Hayır. Çerezleri istemiyorum.' demek ya da tüm tercihlerinizi belirtmek enerjinizi alıyor.\" ifadesini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/dijital-ortamda-zorunlu-tutulan-gizlilik-politikalari-ve-cerezlerin-gorunmeyen-bedeli-mahremiyet-yorgunlugu/4134092",
+   "zaman": "2026-11-23T11:05:26+03:00",
+   "kelimeler": [
+    "bedel",
+    "cerez",
+    "dijit",
+    "gizli",
+    "gorun",
+    "mahre",
+    "ortam",
+    "polit",
+    "tutul",
+    "yorgu",
+    "zorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba3fac3ec896": {
+   "id": "ba3fac3ec896",
+   "kaynak": "AA",
+   "baslik": "Soğukçeşme Sokağı Sarnıcı, İstanbul'un su uygarlığı tarihine ışık tutuyor",
+   "ozet": "İstanbul'da 5. ve 6. yüzyıllara tarihlenen Soğukçeşme Sokağı Sarnıcı, kentin \"su uygarlığı\" geçmişine ışık tutan tarihi yapılar arasında yer alıyor.",
+   "link": "https://www.aa.com.tr/tr/kultur/sogukcesme-sokagi-sarnici-istanbulun-su-uygarligi-tarihine-isik-tutuyor/4134114",
+   "zaman": "2026-11-23T11:14:34+03:00",
+   "kelimeler": [
+    "isik",
+    "istan",
+    "sarni",
+    "soguk",
+    "sokag",
+    "su",
+    "tarih",
+    "tutuy",
+    "un",
+    "uygar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a08ec4151b08"
+  },
+  "f8cb010e7c26": {
+   "id": "f8cb010e7c26",
+   "kaynak": "AA",
+   "baslik": "Kasımpaşa CEO'su Ceyhun Kazancı, teknik direktör değişimini ve kulübün yeni vizyonunu anlattı",
+   "ozet": "Kasımpaşa Kulübü Üst Yöneticisi (CEO) Ceyhun Kazancı, lacivert-beyazlı takımın yeni teknik direktörü Alfred Schreuder'ın oyuncuların gelişimine büyük önem verdiğini belirterek \"Türkiye Ligi'nde çok iyi işler yapabileceğini düşünüyorum.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ceosu-ceyhun-kazanci-teknik-direktor-degisimini-ve-kulubun-yeni-vizyonunu-anlatti/4134226",
+   "zaman": "2026-11-23T12:40:24+03:00",
+   "kelimeler": [
+    "anlat",
+    "ceo",
+    "ceyhu",
+    "degis",
+    "direk",
+    "kasim",
+    "kazan",
+    "kulub",
+    "su",
+    "tekni",
+    "vizyo",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "5b1238eaff57": {
+   "id": "5b1238eaff57",
+   "kaynak": "AA",
+   "baslik": "Almanya, Danimarka ve İspanya'da bomba tehdidi",
+   "ozet": "Almanya ve Danimarka'da okullara e-posta yoluyla bomba tehdidinde bulunulduğu bildirildi. Öte yandan İspanya'nın güneyindeki Malaga kentindeki havalimanına yapılan bomba ihbarı asılsız çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanya-danimarka-ve-ispanyada-bomba-tehdidi/4134447",
+   "zaman": "2026-11-23T14:13:40+03:00",
+   "kelimeler": [
+    "alman",
+    "bomba",
+    "danim",
+    "ispan",
+    "tehdi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "32046e6f597c"
+  },
+  "794183af88e5": {
+   "id": "794183af88e5",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk dünyasının tarihi coğrafyası dijital ortama taşındı",
+   "ozet": "Hoca Ahmet Yesevi Uluslararası TürkKazak Üniversitesi Avrasya Araştırma Enstitüsü tarafından yürütülen \"Orta Asya'nın Tarihi Coğrafyası\" projesi kapsamında Türkistan bölgesinin 11. ve 19. yüzyıllar arasındaki tarihi ve siyasi haritaları ilk kez dijital ortama aktarıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/turk-dunyasinin-tarihi-cografyasi-dijital-ortama-tasindi-964212.html",
+   "zaman": "2026-11-23T15:13:00+03:00",
+   "kelimeler": [
+    "cogra",
+    "dijit",
+    "dunya",
+    "ortam",
+    "tarih",
+    "tasin",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "35a6d772b2af": {
+   "id": "35a6d772b2af",
+   "kaynak": "Hürriyet",
+   "baslik": "Kayıp aslanı arama çalışmasında ilginç anlar: Dikkatleri üzerine çekti",
+   "ozet": "İstanbul Sarıyer'de aslan görüldüğü ihbarının ardından ekipler teyakkuza geçti. Arama çalışmaları devam ederken bu ilginç olay kimilerince mizah malzemesi de yapıldı. Ekiplerin bulunduğu bölgeye aslan kostümü giyerek gelen Yusuf Yalçın isimli bir vatandaş dikkat çekti.",
+   "link": "https://www.hurriyet.com.tr/gundem/kayip-aslani-arama-calismasinda-ilginc-anlar-dikkatleri-uzerine-cekti-43388166",
+   "zaman": "2026-11-23T15:31:35+03:00",
+   "kelimeler": [
+    "anlar",
+    "arama",
+    "aslan",
+    "calis",
+    "cekti",
+    "dikka",
+    "ilgin",
+    "kayip",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "526676d95570": {
+   "id": "526676d95570",
+   "kaynak": "BBC Türkçe",
+   "baslik": "COP31: Antalya'da anlaşmasız sona eren iklim konferansının beş kritik sonucu",
+   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) iklim konferansı COP31,iklim değişikliğine dair kanıtların hiç olmadığı kadar açık görüldüğü ancak jeopolitik bölünmelerin de hiç olmadığı kadar derinleştiği bir dönemde düzenlendi.",
+   "link": "https://www.bbc.com/turkce/articles/cqwy4nnvx323o",
+   "zaman": "2026-11-23T15:33:09+03:00",
+   "kelimeler": [
+    "anlas",
+    "antal",
+    "bes",
+    "cop31",
+    "eren",
+    "iklim",
+    "konfe",
+    "kriti",
+    "sona",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9e304b063107": {
+   "id": "9e304b063107",
+   "kaynak": "AA",
+   "baslik": "TRT, Öğretmenler Günü’ne özel yayınlarla izleyici karşısına çıkacak",
+   "ozet": "TRT, 24 Kasım Öğretmenler Günü dolayısıyla televizyon ve radyo kanallarında özel program, belgesel ve konserleri izleyici ve dinleyicilerle buluşturacak.",
+   "link": "https://www.aa.com.tr/tr/kultur/trt-ogretmenler-gunu-ne-ozel-yayinlarla-izleyici-karsisina-cikacak/4134589",
+   "zaman": "2026-11-23T15:34:15+03:00",
+   "kelimeler": [
+    "cikac",
+    "gunu",
+    "izley",
+    "karsi",
+    "ogret",
+    "ozel",
+    "trt",
+    "yayin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c2aa4e65b900": {
+   "id": "c2aa4e65b900",
+   "kaynak": "AA",
+   "baslik": "Yapay zeka endişeleri küresel piyasalardaki korkuyu canlı tutuyor",
+   "ozet": "Piyasalarda \"korku endeksi\" olarak bilinen ve S&P 500 Endeksi'ndeki dalgalanmayı gösteren VIX Endeksi, yapay zeka büyümesine ilişkin soru işaretlerinin dünya geneline yayılmasıyla yeniden 30 puanın üzerinde seyretmeye başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yapay-zeka-endiseleri-kuresel-piyasalardaki-korkuyu-canli-tutuyor/4134593",
+   "zaman": "2026-11-23T15:37:32+03:00",
+   "kelimeler": [
+    "endis",
+    "korku",
+    "kures",
+    "piyas",
+    "tutuy",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df6acd3894d5": {
+   "id": "df6acd3894d5",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı Kabinesi toplandı",
+   "ozet": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4134598",
+   "zaman": "2026-11-23T15:41:09+03:00",
+   "kelimeler": [
+    "cumhu",
+    "kabin",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "701fcbd64a3d"
+  },
+  "e02868ffb82a": {
+   "id": "e02868ffb82a",
+   "kaynak": "AA",
+   "baslik": "Rutte: Türkiye, NATO'nun hem güney kanadında hem de Asya ile ilişkilerinde önemli bir rol üstleniyor",
+   "ozet": "NATO Genel Sekreteri Mark Rutte, Türkiye'nin İttifak'ın hem güney kanadında hem de Asya ile ilişkilerinde önemli bir rol üstlendiğini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/rutte-turkiye-natonun-hem-guney-kanadinda-hem-de-asya-ile-iliskilerinde-onemli-bir-rol-ustleniyor/4134605",
+   "zaman": "2026-11-23T15:42:12+03:00",
+   "kelimeler": [
+    "asya",
+    "guney",
+    "hem",
+    "ilisk",
+    "kanad",
+    "nato",
+    "nun",
+    "oneml",
+    "rol",
+    "rutte",
+    "turki",
+    "ustle"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4eab9efa906": {
+   "id": "f4eab9efa906",
+   "kaynak": "XHABER",
+   "baslik": "Sarıyer'de 'aslan kostümlü' bir vatandaş aslan arama çalışmalarına katıldı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30865",
+   "zaman": "2026-11-23T15:43:14+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Sarıyer'de 'aslan kostümlü' bir vatandaş aslan arama çalışmalarına katıldı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/dQqkUi-5iTeBEP2b4ioGCytdKEw4r_MLmqW1a6spYsX2kFVGjmj6PWbLR5XV-6yX1jIwW1f1-oKLs-eUzNdbZmrOHRNFJ0Ue4SYh1Saslgi75obPGLlvy4tdzwNlL3b6Tq94HiIPsl4MrgWQVEIERrhjphsqm3aYQU6FcOtY8cA8azqp8zidMUkKJOGGDVOtE6o317NZ64GxuTV87djXYbR9Jfp3_YKBxyQvpPbasxEgbwna4RY6P4lFYCCBW064KWx04df82mYEnEHk3LKjLNx3ga0nHMSZ5q-2CyH5vtwzHgvJhc9k8QGZhT_2XSyH99DUSz1WQHUbx_aB4Y63RQ",
+   "tg_video_url": "https://cdn4.telesco.pe/file/469897b37d.mp4?token=IsXzPW4Sz6OSby9k-JmWebIHTdL4ehmU24hVZ4EZh9uKdi__NCitWb5na5R6-27lwRxW5Qklews68E6il2cQwdqgRuulWHJRAe56uZ4EWEYSR6i1TQXACu_5f3yR518m9T_aAe--bHVge6z9DbNe76YgpIFaPCRmUa_pHiVNM4q3MSRkMleFmG56sTarpFzbq5ER32JrH-kZEoKQXukzkL3YwcveFCYAAkPHKk2lV3dfBi2o97CJFcMljm3NE-2aF8ZqRo2_hTmBg83l00TC3bXexLqJS5Aj8fNu0LZVjpLJWEwBG6rGwzykDvJ1HEs1Fywd7-kC9CE0izfitZhMzA2rGDh-EBziw6rAFSbJL9Vt15I7fcGwjTkc081fWyxX7Zl2vF2hautK9H38iLiiMF9_q_prTQ7b-_G_1xZ23q745TuxgPusJH_pqs13LxLlnN5movRuZ79TBzpBbMNSZ6g4roY2X2pftsKduNKjsjM8IMmuCQPelEzyM4evn2zHgMqiAD7UtDlY03LE35XdiUD4GUo9-DgLjGi-F1qQ82M6Cu-Lkwkx9SeyhIfVOryFeAEYAkSyMPkgXHv6Me4PRHAaPqN5QDPEFYbhC8SAdH17YoHXY2kEW0o4A7SwJpUmPKB9Mpfl9Ccd9s_XhxX6I8ciB83piIM86OELqYYCUtc",
+   "kelimeler": [
+    "arama",
+    "aslan",
+    "calis",
+    "katil",
+    "kostu",
+    "sariy",
+    "vatan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "23.11 15:45:59  9 yeni haber",
   "23.11 15:31:16  3 yeni haber",
   "23.11 15:19:45  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fahreddin Paşa, vefatının 78. yıl dönümünde Boğaziçi Üniversitesi'nde ",
   "23.11 15:16:35  4 yeni haber",
@@ -23899,8 +24043,7 @@
   "21.11 11:33:21  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Amasya'da midibüsün devrildiği kazada 31 kişi yaralandı",
   "21.11 11:31:14  9 yeni haber",
   "21.11 11:15:54  8 yeni haber",
-  "21.11 10:46:13  3 yeni haber",
-  "21.11 10:31:05  5 yeni haber"
+  "21.11 10:46:13  3 yeni haber"
  ],
  "otomatik": false
 }
