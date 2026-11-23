@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "e65933d4dd1e": {
-   "id": "e65933d4dd1e",
-   "kaynak": "TRT Haber",
-   "baslik": "'Fiyat hatası' gerekçesiyle iptal edilen siparişe 1 milyon TL ceza",
-   "ozet": "Ticaret Bakanlığı Reklam Kurulu, bir eticaret platformu üzerinden verilen siparişleri \"fiyat hatası\" gerekçesiyle iptal eden şirkete 1 milyon 83 bin 706 lira idari para cezası uyguladı, söz konusu reklamların durdurulmasına karar verdi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/fiyat-hatasi-gerekcesiyle-iptal-edilen-siparise-1-milyon-tl-ceza-964004.html",
-   "zaman": "2026-11-20T21:37:00+03:00",
-   "kelimeler": [
-    "ceza",
-    "edile",
-    "fiyat",
-    "gerek",
-    "hatas",
-    "iptal",
-    "milyo",
-    "sipar",
-    "tl"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "2d1fc1995a5c": {
-   "id": "2d1fc1995a5c",
-   "kaynak": "AA",
-   "baslik": "Pendikspor Teknik Direktörü Murat Şahin'den Sergen Yalçın'a destek",
-   "ozet": "Pendikspor Teknik Direktörü Murat Şahin, A Milli Futbol Takımı'nın çalıştırıcısı Sergen Yalçın'a destek verilmesi gerektiğini söyledi.",
-   "link": "https://www.aa.com.tr/tr/spor/pendikspor-teknik-direktoru-murat-sahinden-sergen-yalcina-destek/4132520",
-   "zaman": "2026-11-20T21:44:20+03:00",
-   "kelimeler": [
-    "den",
-    "deste",
-    "direk",
-    "murat",
-    "pendi",
-    "sahin",
-    "serge",
-    "tekni",
-    "yalci"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3e3a70fbe9e3": {
-   "id": "3e3a70fbe9e3",
-   "kaynak": "AA",
-   "baslik": "Dünya Para Masa Tenisi Şampiyonası'nda madalya kazanan milli sporcular yurda döndü",
-   "ozet": "Tayland'da düzenlenen Dünya Para Masa Tenisi Şampiyonası'nda 3'er altın ve bronz madalya kazanan milli sporcular, yurda döndü.",
-   "link": "https://www.aa.com.tr/tr/spor/dunya-para-masa-tenisi-sampiyonasinda-madalya-kazanan-milli-sporcular-yurda-dondu/4132522",
-   "zaman": "2026-11-20T21:45:29+03:00",
-   "kelimeler": [
-    "dondu",
-    "dunya",
-    "kazan",
-    "madal",
-    "masa",
-    "milli",
-    "nda",
-    "para",
-    "sampi",
-    "sporc",
-    "tenis",
-    "yurda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "a20c84c5c8d8"
-  },
   "e546562b0351": {
    "id": "e546562b0351",
    "kaynak": "Hürriyet",
@@ -19081,7 +19011,8 @@
     "yukse"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "6fc796b3b452": {
    "id": "6fc796b3b452",
@@ -23377,9 +23308,129 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4e57f439d15c": {
+   "id": "4e57f439d15c",
+   "kaynak": "Hürriyet",
+   "baslik": "Tekirdağ Belediye Başkanı Yüceer, AK Parti’ye katılma kararının gerekçesini açıkladı",
+   "ozet": "AK Parti Tekirdağ İl Başkanlığınca haftalık olağan İl Yürütme ve İl Yönetim Kurulu toplantısı düzenlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/tekirdag-belediye-baskani-yuceer-ak-partiye-katilma-kararinin-gerekcesini-acikladi-43388524",
+   "zaman": "2026-11-23T21:28:05+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "beled",
+    "gerek",
+    "karar",
+    "katil",
+    "parti",
+    "tekir",
+    "ye",
+    "yucee"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2c17f07e3a8d": {
+   "id": "2c17f07e3a8d",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul'da sağanak etkili oluyor",
+   "ozet": "İstanbul'da lodosun ardından sağanak etkili oluyor. Kısa sürede şiddetini artıran yağışa hazırlıksız yakalananlar zor anlar yaşadı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-saganak-etkili-oluyor-43388527",
+   "zaman": "2026-11-23T21:30:00+03:00",
+   "kelimeler": [
+    "etkil",
+    "istan",
+    "oluyo",
+    "sagan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7084536eba7": {
+   "id": "f7084536eba7",
+   "kaynak": "XHABER",
+   "baslik": "İstanbul'daki firari aslanın yeni termal kamera görüntüleri ortaya çıktı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30876",
+   "zaman": "2026-11-23T21:41:20+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İstanbul'daki firari aslanın yeni termal kamera görüntüleri ortaya çıktı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/WRXekMoGUvNuFlJ3JzZF9Wiaa_FdJ8MqK26LR9c3Aj2_nWmgBUi94wJSRQDpaTDmqx7nOPphZt00I110eRDam9S7NImb5rc5HWY9BUt9vnR4QBfg7ER27OOcyT0V4texOj7Sk1SDnBVY0HLaLqq7vGrVAwnes8KTC8Hsw4qqblLXa5Bh_gEGP_ixnnQCRlRD8_sYBXo7PKrvcbbmeey2srTthX4U_BSpQlN8PtngEqFpDJ0II2izeMa5jYVXa-nlSWIqpMaf9rkQvFWo5wa3fMQ6BJdZpZoLFvMGBDe7u4nyNkWVHyGDjk8kGYYa-sE5_pXQG0DwadEEwjJvH10cHg",
+   "tg_video_url": "https://cdn4.telesco.pe/file/725c8dafaa.mp4?token=DrmwgUibW-pZ-AIT4F2qAM2ENa_0VWewOFFUEBJOfX_8-EkXvtMd-x6_AzKRjBg8G64JS7-CWvw-_8uK7vGlv-F5qWfoOfwdaKQPkPDKJHlcegcfZzAHrohaiGfAtoWg1hUx9r7Q98raHjLDJkxnOra3hwLHI6CBJWYeXaxlJzmWPcKKa2RhjWOtdxTFGZ7UHqbb1CL4snQDxRSZfUf0t3t1mLtbk8uAAYJdKzaknXbomsDw9OriqICIoa-prrF8s4GDtP6gfGo1W_M1DcJP5DYkO7nSez2Zypo0ldDm1-pQzKpXISv8eFGLpr-uZDy4DYdAp3wzufbvo79LiytoyQ",
+   "kelimeler": [
+    "aslan",
+    "cikti",
+    "daki",
+    "firar",
+    "gorun",
+    "istan",
+    "kamer",
+    "ortay",
+    "terma",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4a9858541bcb": {
+   "id": "4a9858541bcb",
+   "kaynak": "NTV",
+   "baslik": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 23 Kasım 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
+   "ozet": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1752258",
+   "zaman": "2026-11-23T21:42:07+03:00",
+   "kelimeler": [
+    "2026",
+    "23",
+    "bilet",
+    "buyuk",
+    "cikti",
+    "ekran",
+    "ikram",
+    "kasim",
+    "kazan",
+    "mpi",
+    "numar",
+    "on",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "48f24b267e73": {
+   "id": "48f24b267e73",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 23 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752260",
+   "zaman": "2026-11-23T21:43:32+03:00",
+   "kelimeler": [
+    "2026",
+    "23",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5bbaa8e8ad25"
   }
  },
  "kayit": [
+  "23.11 21:45:59  4 yeni haber",
   "23.11 21:31:33  2 yeni haber",
   "23.11 21:16:01  2 yeni haber",
   "23.11 21:01:30  1 yeni haber",
@@ -23578,8 +23629,7 @@
   "21.11 15:45:59  2 yeni haber",
   "21.11 15:31:23  3 yeni haber",
   "21.11 15:15:55  7 yeni haber",
-  "21.11 15:01:32  9 yeni haber",
-  "21.11 14:48:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Sakarya'da zincirleme kaza: 15 araç birbirine girdi, yaralılar var"
+  "21.11 15:01:32  9 yeni haber"
  ],
  "otomatik": false
 }
