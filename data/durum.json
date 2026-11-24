@@ -1,38 +1,5 @@
 {
  "haberler": {
-  "e9963321bd69": {
-   "id": "e9963321bd69",
-   "kaynak": "Hürriyet",
-   "baslik": "Tüm yurtta etkili olacak: Hava bir anda değişecek | Meteoroloji ve AKOM tarih vererek uyardı: 21 ilde sarı alarm! İstanbul’da sağanak ve lodos fırtınası",
-   "ozet": "Yurtta hafta sonu ve yeni haftada sağanak yağış, kuvvetli rüzgar ve sıcaklık düşüşü bekleniyor; 21 il için sarı kodlu uyarı yapıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/tum-yurtta-etkili-olacak-hava-bir-anda-degisecek-meteoroloji-ve-akom-tarih-vererek-uyardi-21-ilde-sari-alarm-istanbulda-saganak-ve-43385712",
-   "zaman": "2026-11-21T08:11:00+03:00",
-   "kelimeler": [
-    "21",
-    "akom",
-    "alarm",
-    "anda",
-    "degis",
-    "etkil",
-    "firti",
-    "hava",
-    "ilde",
-    "istan",
-    "lodos",
-    "meteo",
-    "olaca",
-    "sagan",
-    "sari",
-    "tarih",
-    "tum",
-    "uyard",
-    "verer",
-    "yurtt"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "612932b95d44"
-  },
   "6658c126e15b": {
    "id": "6658c126e15b",
    "kaynak": "NTV",
@@ -109,23 +76,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "848b5e3f18b2": {
-   "id": "848b5e3f18b2",
-   "kaynak": "AA",
-   "baslik": "Başkentte sağanak etkili oluyor",
-   "ozet": "Ankara'da gece saatlerinde başlayan sağanak yağış etkisini sürdürüyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/baskentte-saganak-etkili-oluyor/4132665",
-   "zaman": "2026-11-21T08:09:24+03:00",
-   "kelimeler": [
-    "baske",
-    "etkil",
-    "oluyo",
-    "sagan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "2430df00bd7e": {
    "id": "2430df00bd7e",
@@ -534,22 +484,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "0a99f7ea355e": {
-   "id": "0a99f7ea355e",
-   "kaynak": "AA",
-   "baslik": "Başkentte sağanak etkili oldu",
-   "ozet": "Ankara'da gece saatlerinde başlayan sağanak yağış etkisini sürdürdü.",
-   "link": "https://www.aa.com.tr/tr/gundem/baskentte-saganak-etkili-oldu/4132665",
-   "zaman": "2026-11-21T08:09:24+03:00",
-   "kelimeler": [
-    "baske",
-    "etkil",
-    "sagan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "848b5e3f18b2"
   },
   "375902db0fd2": {
    "id": "375902db0fd2",
@@ -23318,9 +23252,30 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "20fc9724f20e"
+  },
+  "057fc4ac0229": {
+   "id": "057fc4ac0229",
+   "kaynak": "Hürriyet",
+   "baslik": "Eber Gölü'nde sazlık yangını: Rüzgarın etkisiyle büyüdü",
+   "ozet": "Afyonkarahisar’daki Eber Gölü'nde sazlık yangını çıktı. Gölün yapısı nedeniyle müdahalenin güçlükle yapıldığı yangın rüzgarın etkisiyle büyüyüp geniş bir alana yayıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/eber-golunde-sazlik-yangini-ruzgarin-etkisiyle-buyudu-43388676",
+   "zaman": "2026-11-24T08:07:33+03:00",
+   "kelimeler": [
+    "buyud",
+    "eber",
+    "etkis",
+    "golu",
+    "nde",
+    "ruzga",
+    "sazli",
+    "yangi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 08:16:09  1 yeni haber",
   "24.11 07:47:11  1 yeni haber",
   "24.11 07:15:59  10 yeni haber",
   "24.11 07:03:50  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Öğretmenler Günü 46 yıldır coşkuyla kutlanıyor",
@@ -23519,8 +23474,7 @@
   "21.11 21:46:01  2 yeni haber",
   "21.11 21:31:07  2 yeni haber",
   "21.11 21:15:57  3 yeni haber",
-  "21.11 21:01:15  1 yeni haber",
-  "21.11 20:45:56  2 yeni haber"
+  "21.11 21:01:15  1 yeni haber"
  ],
  "otomatik": false
 }
