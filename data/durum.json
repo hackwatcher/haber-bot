@@ -24,28 +24,6 @@
    "oncelikli": true,
    "tekrar_of": "9a1090d76bc9"
   },
-  "45aa698849ec": {
-   "id": "45aa698849ec",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Bahreyn'deki iki ABD üssünün radarlarını hedef aldık",
-   "ozet": "İran Devrim Muhafızları Ordusu, Bahreyn'deki 2 ABD üssünde bulunan Patriot hava savunma sistemlerine ait 2 radarın insansız hava araçları İHA ve füzelerle hedef alındığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-bahreyndeki-iki-abd-ussunun-radarlarini-hedef-aldik-964099.html",
-   "zaman": "2026-11-21T23:52:00+03:00",
-   "kelimeler": [
-    "abd",
-    "aldik",
-    "bahre",
-    "deki",
-    "hedef",
-    "iki",
-    "iran",
-    "radar",
-    "ussun"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "4417071fdac6"
-  },
   "608a824904ce": {
    "id": "608a824904ce",
    "kaynak": "TRT Haber",
@@ -25764,7 +25742,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9d590cfce960": {
    "id": "9d590cfce960",
@@ -26791,7 +26772,10 @@
     "uyust"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "0481af737fd1": {
    "id": "0481af737fd1",
@@ -26854,9 +26838,115 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2d867e1a69e2"
+  },
+  "c8729518c2c3": {
+   "id": "c8729518c2c3",
+   "kaynak": "TRT Haber",
+   "baslik": "Voyager 1 tarihi dönüm noktasına ulaşırken yeniden iletişim arızası yaşadı",
+   "ozet": "Dünya'dan bir ışık günü uzaklığa ulaşan ilk insan yapımı nesne olma başarısını yakalayan NASA'nın emektar uzay aracı Voyager 1, bu tarihi rekorun hemen öncesinde bilim ve mühendislik verisi göndermeyi durdurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/voyager-1-tarihi-donum-noktasina-ulasirken-yeniden-iletisim-arizasi-yasadi-964372.html",
+   "zaman": "2026-11-24T23:38:00+03:00",
+   "kelimeler": [
+    "ariza",
+    "donum",
+    "ileti",
+    "nokta",
+    "tarih",
+    "ulasi",
+    "voyag",
+    "yasad",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3400ee7b7239": {
+   "id": "3400ee7b7239",
+   "kaynak": "TRT Haber",
+   "baslik": "Polonya, hava sahası ihlali nedeniyle Rusya'ya nota verdi",
+   "ozet": "Polonya Dışişleri Bakanlığı, Rusya'nın Ukrayna'ya yönelik saldırısı sırasında Rusya'ya ait 3 seyir füzesinin Polonya hava sahasını ihlal ederek ülke topraklarına düşmesi nedeniyle Rusya'ya nota verdi.",
+   "link": "https://www.trthaber.com/haber/dunya/polonya-hava-sahasi-ihlali-nedeniyle-rusyaya-nota-verdi-964373.html",
+   "zaman": "2026-11-24T23:43:00+03:00",
+   "kelimeler": [
+    "hava",
+    "ihlal",
+    "neden",
+    "nota",
+    "polon",
+    "rusya",
+    "sahas",
+    "verdi",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2cbee365ea89"
+  },
+  "45d8f20cd34e": {
+   "id": "45d8f20cd34e",
+   "kaynak": "AA",
+   "baslik": "AB, hibrit tehditlere karşı doğu sınırlarındaki güvenlik tedbirlerini artıracak",
+   "ozet": "Avrupa Birliği (AB), Rusya ve Belarus kaynaklı hibrit tehditlere karşı doğu sınırlarındaki güvenlik tedbirlerini güçlendirmeye, dronlarla mücadele kapasitesini artırmaya ve yeni vize kısıtlamaları getirmeye hazırlanıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-hibrit-tehditlere-karsi-dogu-sinirlarindaki-guvenlik-tedbirlerini-artiracak/4136459",
+   "zaman": "2026-11-24T23:45:20+03:00",
+   "kelimeler": [
+    "ab",
+    "artir",
+    "dogu",
+    "guven",
+    "hibri",
+    "karsi",
+    "sinir",
+    "tedbi",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "706bf81eda88": {
+   "id": "706bf81eda88",
+   "kaynak": "AA",
+   "baslik": "Bazı illerde kar yağışı etkili oluyor",
+   "ozet": "Bazı illerde kar yağışı etkili olurken, ekipler buzla mücadele çalışması yaparak yolları açık tutmaya çalışıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-kar-yagisi-etkili-oluyor/4136461",
+   "zaman": "2026-11-24T23:45:33+03:00",
+   "kelimeler": [
+    "bazi",
+    "etkil",
+    "iller",
+    "kar",
+    "oluyo",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "29dda6e9f950": {
+   "id": "29dda6e9f950",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında 35 zanlı için gözaltı kararı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı, ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında 35 şüpheli hakkında gözaltı kararı verildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-35-zanli-icin-gozalti-karari/4136467",
+   "zaman": "2026-11-24T23:51:44+03:00",
+   "kelimeler": [
+    "35",
+    "fuhus",
+    "gozal",
+    "istan",
+    "karar",
+    "sorus",
+    "unlul",
+    "uyust",
+    "yonel",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2e02f635597b"
   }
  },
  "kayit": [
+  "24.11 23:55:17  3 yeni haber",
   "24.11 23:46:06  2 yeni haber",
   "24.11 23:31:12  2 yeni haber",
   "24.11 23:16:30  5 yeni haber",
@@ -27055,8 +27145,7 @@
   "22.11 17:16:24  4 yeni haber",
   "22.11 17:01:19  2 yeni haber",
   "22.11 16:45:57  1 yeni haber",
-  "22.11 16:31:22  1 yeni haber",
-  "22.11 16:15:58  4 yeni haber"
+  "22.11 16:31:22  1 yeni haber"
  ],
  "otomatik": false
 }
