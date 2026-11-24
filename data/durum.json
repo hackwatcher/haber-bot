@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "e26a8eec791d": {
-   "id": "e26a8eec791d",
-   "kaynak": "AA",
-   "baslik": "Türkiye'nin Tiflis Büyükelçisi Arı, Türkiye-Gürcistan ilişkilerini değerlendirdi",
-   "ozet": "Türkiye'nin Tiflis Büyükelçisi Mustafa Türker Arı, Türkiye ile Gürcistan arasındaki üst düzey ziyaretlerin süreceğini belirterek iki ülke halklarının liderler diplomasisiyle gelişen stratejik ortaklıktan memnuniyet duyduğunu söyledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-tiflis-buyukelcisi-ari-turkiye-gurcistan-iliskilerini-degerlendirdi/4132964",
-   "zaman": "2026-11-21T15:55:55+03:00",
-   "kelimeler": [
-    "ari",
-    "buyuk",
-    "deger",
-    "gurci",
-    "ilisk",
-    "nin",
-    "tifli",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2590bc7ef987": {
    "id": "2590bc7ef987",
    "kaynak": "AA",
@@ -114,25 +94,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "ffcd4a5a1889": {
-   "id": "ffcd4a5a1889",
-   "kaynak": "AA",
-   "baslik": "60 saniyede bugün (21 Kasım 2026)",
-   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-21-kasim-2026-/4132961",
-   "zaman": "2026-11-21T15:51:38+03:00",
-   "kelimeler": [
-    "2026",
-    "21",
-    "60",
-    "bugun",
-    "kasim",
-    "saniy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d316a302dc15"
   },
   "88ba0972f95e": {
    "id": "88ba0972f95e",
@@ -22712,7 +22673,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "f782b6adff35": {
@@ -24914,8 +24876,17 @@
     "kemal",
     "kilic"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-24T16:04:07.205055+03:00",
+   "ig_id": "18131522989879500",
+   "reels_id": "18122799635041769",
+   "story_id": "17914956315596018",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2692033687905828",
+   "slayt": 5,
+   "kanca": "YOLSUZLUĞUN KADINI ERKEĞİ YOK"
   },
   "21b56c5da5bf": {
    "id": "21b56c5da5bf",
@@ -25299,9 +25270,146 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1e3f255d5830": {
+   "id": "1e3f255d5830",
+   "kaynak": "TRT Haber",
+   "baslik": "Eminönü Balık Ekmek coğrafi işaretle tescillendi",
+   "ozet": "İstanbul'un simge lezzetlerinden Eminönü balık ekmeğinin lezzeti ve sunumu tescillendi. Eminönü Meydanı'nda düzenlenen ve 19. yüzyıl tezgah denetimlerinin canlandırıldığı törende, vatandaşlara ve turistlere balık ekmek ikram edildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/eminonu-balik-ekmek-cografi-isaretle-tescillendi-964329.html",
+   "zaman": "2026-11-24T15:42:00+03:00",
+   "kelimeler": [
+    "balik",
+    "cogra",
+    "ekmek",
+    "emino",
+    "isare",
+    "tesci"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e72763ba33d3": {
+   "id": "e72763ba33d3",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Papa Francesco 'şeytanı üç kez gördüğünü' günlüğüne yazmış",
+   "ozet": "Geçtiğimiz yıl hayatını kaybeden Papa Francesco, özel günlüğünden kamuoyuna yansıyan yeni bölümlerde, hayatı boyunca üç kez şeytanı gördüğünü yazıyor.",
+   "link": "https://www.bbc.com/turkce/articles/ck1wr3w05qd2o",
+   "zaman": "2026-11-24T15:45:56+03:00",
+   "kelimeler": [
+    "franc",
+    "gordu",
+    "gunlu",
+    "kez",
+    "papa",
+    "seyta",
+    "uc",
+    "yazmi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "856c02b821da": {
+   "id": "856c02b821da",
+   "kaynak": "Hürriyet",
+   "baslik": "Şehit öğretmen Şenay Aybüke Yalçın, Öğretmenler Günü'nde mezarı başında anıldı",
+   "ozet": "Batman'ın Kozluk ilçesinde 9 Haziran 2017'de terör örgütü PKK'nın saldırısında şehit olan 7 aylık müzik öğretmeni Şenay Aybüke Yalçın, '24 Kasım Öğretmenler Günü'nde mezarı başında anıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sehit-ogretmen-senay-aybuke-yalcin-ogretmenler-gununde-mezari-basinda-anildi-43389537",
+   "zaman": "2026-11-24T15:51:46+03:00",
+   "kelimeler": [
+    "anild",
+    "aybuk",
+    "basin",
+    "gunu",
+    "mezar",
+    "nde",
+    "ogret",
+    "sehit",
+    "senay",
+    "yalci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4d2268037033"
+  },
+  "b2ccc2f046a0": {
+   "id": "b2ccc2f046a0",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankarada AVM otoparkında yol çöktü, kamyonet içine düştü",
+   "ozet": "Ankarada, bir alışveriş merkezinin açık otoparkındaki yol çökmesi, aracıyla birlikte çukura düşen hafriyat kamyonu sürücüsünün mahsur kalmasına neden oldu.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-avm-otoparkinda-yol-coktu-kamyonet-icine-dustu-964330.html",
+   "zaman": "2026-11-24T15:52:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "avm",
+    "coktu",
+    "dustu",
+    "icine",
+    "kamyo",
+    "otopa",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d4c96fa25e4f": {
+   "id": "d4c96fa25e4f",
+   "kaynak": "XHABER",
+   "baslik": "İsrail, tribünlerde Filistin'e destek için açılan pankartları gerekçe göstererek Galatasaray'ı UEFA'ya şikayet etti.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30896",
+   "zaman": "2026-11-24T15:58:00+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İsrail, tribünlerde Filistin'e destek için açılan pankartları gerekçe göstererek Galatasaray'ı UEFA'ya şikayet etti.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/hA1WCErbHwijZluSXxeXZnnENqzEpY33J-Slxbb9zWchaLpwVa79sQ1iNHRd5bxN7vJfJCGQeDhJGTVwmXEbrhpt1tjsvgfjZjR_yQ--Fkfa5lT9MCRc1CzzxCEGz78WjpuTVg0S4OpXq5UeleaoWJL0XscfxKigdGk0hiAwkCWCOgdDtkACSlhRIzR9-i0Ov7dLlOo9doPoczFLoCMgocDDnO-yQI2SEr7cGm1kVaLAQh_ValCyyvMDicATOi_6v4x0VMSc5E320_ggQF1n6_k0YR-jM7Q-SkBfczp8cu9-rG_ir2T--gOT8tT_OGTJYHW08hkw9l8El9EVRtYkHg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "acila",
+    "deste",
+    "etti",
+    "filis",
+    "galat",
+    "gerek",
+    "goste",
+    "israi",
+    "panka",
+    "sikay",
+    "tribu",
+    "uefa",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9dc4db0ef4c5": {
+   "id": "9dc4db0ef4c5",
+   "kaynak": "AA",
+   "baslik": "Pezeşkiyan'dan ABD'nin İran'daki hedeflerine karşı ulusal birliğin güçlendirilmesi gerektiği mesajı",
+   "ozet": "İran Cumhurbaşkanı Mesud Pezeşkiyan, halkın ekonomik koşullarının iyileştirilmesi gerektiğini belirterek, ABD'nin İran'da \"kargaşa ve istikrarsızlık oluşturma hedeflerine\" karşı ulusal birlik ve dayanışmanın güçlendirilmesi gerektiğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/pezeskiyandan-abdnin-irandaki-hedeflerine-karsi-ulusal-birligin-guclendirilmesi-gerektigi-mesaji/4135869",
+   "zaman": "2026-11-24T15:58:56+03:00",
+   "kelimeler": [
+    "abd",
+    "birli",
+    "daki",
+    "dan",
+    "gerek",
+    "gucle",
+    "hedef",
+    "iran",
+    "karsi",
+    "mesaj",
+    "nin",
+    "pezes",
+    "ulusa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 16:04:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kemal Kılıçdaroğlu:",
+  "24.11 16:01:32  5 yeni haber",
   "24.11 15:45:54  2 yeni haber",
   "24.11 15:31:19  9 yeni haber",
   "24.11 15:16:07  2 yeni haber",
@@ -25499,9 +25607,7 @@
   "22.11 09:45:55  4 yeni haber",
   "22.11 09:31:09  1 yeni haber",
   "22.11 09:17:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Okan Buruk, Fatih Terim'in 41 maçlık iç saha yenilmezlik rekorunu kırd",
-  "22.11 09:16:11  2 yeni haber",
-  "22.11 09:01:48  1 yeni haber",
-  "22.11 08:16:27  1 yeni haber"
+  "22.11 09:16:11  2 yeni haber"
  ],
  "otomatik": false
 }
