@@ -24902,7 +24902,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "850b7dec75ec": {
    "id": "850b7dec75ec",
@@ -25493,9 +25496,148 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b1f81afc8b8b": {
+   "id": "b1f81afc8b8b",
+   "kaynak": "TRT Haber",
+   "baslik": "İran'da ABD yaptırımları sonrası dolar serbest piyasada tarihinin en yüksek seviyesine çıktı",
+   "ozet": "İran'da doların serbest piyasadaki satış kuru, ABD yaptırımları sonrası tarihinin en yüksek seviyesine çıkarak 284 bin tümen sınırını gördü.",
+   "link": "https://www.trthaber.com/haber/ekonomi/iranda-abd-yaptirimlari-sonrasi-dolar-serbest-piyasada-tarihinin-en-yuksek-seviyesine-cikti-964331.html",
+   "zaman": "2026-11-24T15:46:00+03:00",
+   "kelimeler": [
+    "abd",
+    "cikti",
+    "dolar",
+    "iran",
+    "piyas",
+    "serbe",
+    "seviy",
+    "sonra",
+    "tarih",
+    "yapti",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2a63ad469e53"
+  },
+  "8fbf6570d6e0": {
+   "id": "8fbf6570d6e0",
+   "kaynak": "TRT Haber",
+   "baslik": "Suudi Arabistanın başkentindeki Finans Merkezi saldırıya uğradı",
+   "ozet": "Arap Koalisyonu: Suudi Arabistanın başkenti Riyaddaki Finans Merkezinde yer alan kulelerden biri saldırıya hedef oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskentindeki-finans-merkezi-saldiriya-ugradi-964332.html",
+   "zaman": "2026-11-24T16:11:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "baske",
+    "finan",
+    "merke",
+    "saldi",
+    "suudi",
+    "ugrad"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "1ff4e29f0a8e": {
+   "id": "1ff4e29f0a8e",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Suudi Arabistan'daki Finans Merkezi’nde yer alan kulelerden biri saldırıya hedef oldu",
+   "ozet": "Arap Koalisyonu, Suudi Arabistan’ın başkenti Riyad’daki Finans Merkezi’nde yer alan kulelerden birinin saldırıya hedef olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistandaki-finans-merkezi-nde-yer-alan-kulelerden-biri-saldiriya-hedef-oldu/4135894",
+   "zaman": "2026-11-24T16:12:29+03:00",
+   "kelimeler": [
+    "alan",
+    "arabi",
+    "arap",
+    "biri",
+    "daki",
+    "finan",
+    "hedef",
+    "koali",
+    "kulel",
+    "merke",
+    "nde",
+    "saldi",
+    "suudi",
+    "yer"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8fbf6570d6e0"
+  },
+  "665eb8973f50": {
+   "id": "665eb8973f50",
+   "kaynak": "Hürriyet",
+   "baslik": "Balıkesir'de yolcu otobüsüyle otomobil çarpıştı: 1 can kaybı, 2 ağır yaralı",
+   "ozet": "Balıkesir'in Ayvalık ilçesinde yolcu otobüsü ile otomobilin çarpıştığı kazada 1 kişi hayatını kaybetti, 2 kişi ağır yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/balikesirde-yolcu-otobusuyle-otomobil-carpisti-1-can-kaybi-2-agir-yarali-43389595",
+   "zaman": "2026-11-24T16:16:47+03:00",
+   "kelimeler": [
+    "agir",
+    "balik",
+    "can",
+    "carpi",
+    "kaybi",
+    "otobu",
+    "otomo",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "786b277d0ae6": {
+   "id": "786b277d0ae6",
+   "kaynak": "Hürriyet",
+   "baslik": "Balıkesir'de selin izleri gün ağarınca ortaya çıktı: Otomobil ağaçta asılı kaldı",
+   "ozet": "Balıkesir’in Havran ilçesinde sağanağın ardından Havran Çayı’nın debisi yükseldi ve sel meydana geldi. Gün ağarınca hasar ortaya çıkarken, İnönü Mahallesi’nde sel sularının sürüklediği bir otomobilin ağaçta asılı kaldığı görüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/balikesirde-selin-izleri-gun-agarinca-ortaya-cikti-otomobil-agacta-asili-kaldi-43389594",
+   "zaman": "2026-11-24T16:17:30+03:00",
+   "kelimeler": [
+    "agact",
+    "agari",
+    "asili",
+    "balik",
+    "cikti",
+    "gun",
+    "izler",
+    "kaldi",
+    "ortay",
+    "otomo",
+    "selin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a61eb6405ea8": {
+   "id": "a61eb6405ea8",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan’dan Kafkasya Kongresi’ne Zengezur ve kalıcı barış mesajı",
+   "ozet": "Iğdır’daki Uluslararası Kafkasya Kongresi’ne mesaj gönderen Cumhurbaşkanı Erdoğan, Şuşa, Fuzuli ve Laçın’da dalgalanan Azerbaycan bayrağının Türkiye’nin de iftiharı olduğunu kaydetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-kafkasya-kongresine-zengezur-ve-kalici-baris-mesaji-43389606",
+   "zaman": "2026-11-24T16:22:00+03:00",
+   "kelimeler": [
+    "baris",
+    "cumhu",
+    "dan",
+    "erdog",
+    "kafka",
+    "kalic",
+    "kongr",
+    "mesaj",
+    "zenge"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 16:31:43  4 yeni haber",
   "24.11 16:15:53  6 yeni haber",
   "24.11 16:04:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kemal Kılıçdaroğlu:",
   "24.11 16:01:32  5 yeni haber",
@@ -25694,8 +25836,7 @@
   "22.11 10:16:03  2 yeni haber",
   "22.11 10:01:28  5 yeni haber",
   "22.11 09:45:55  4 yeni haber",
-  "22.11 09:31:09  1 yeni haber",
-  "22.11 09:17:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Okan Buruk, Fatih Terim'in 41 maçlık iç saha yenilmezlik rekorunu kırd"
+  "22.11 09:31:09  1 yeni haber"
  ],
  "otomatik": false
 }
