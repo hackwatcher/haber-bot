@@ -15878,7 +15878,8 @@
     "sorgu"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "48f24b267e73": {
    "id": "48f24b267e73",
@@ -26343,9 +26344,139 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5f6520a7fcaf"
+  },
+  "4d761d9335dd": {
+   "id": "4d761d9335dd",
+   "kaynak": "AA",
+   "baslik": "Türkiye ile Suriye, ortak tarihi ve kültürel mirasın korunması için atılabilecek adımları görüştü",
+   "ozet": "Türkiye'nin Şam Büyükelçisi Nuh Yılmaz, Suriye Kültür Bakanı Muhammed Yasin el-Salih ile iki ülkenin ortak tarihi ve kültürel mirasının korunmasına yönelik işbirliği imkanlarını ele aldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-suriye-ortak-tarihi-ve-kulturel-mirasin-korunmasi-icin-atilabilecek-adimlari-gorustu/4136303",
+   "zaman": "2026-11-24T21:08:44+03:00",
+   "kelimeler": [
+    "adiml",
+    "atila",
+    "gorus",
+    "korun",
+    "kultu",
+    "miras",
+    "ortak",
+    "suriy",
+    "tarih",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e02a712c01da": {
+   "id": "e02a712c01da",
+   "kaynak": "TRT Haber",
+   "baslik": "Axios: Anthropic ve OpenAI, henüz yayımlamadıkları çok daha gelişmiş yapay zeka sistemlerine sahip",
+   "ozet": "ABD merkezli yapay zeka şirketleri Anthropic ve OpenAI'ın, kurum içinde geliştirilen ancak henüz kamuoyuna sunulmayan çok daha gelişmiş yapay zeka modellerine sahip olduğu iddia edildi.",
+   "link": "https://www.trthaber.com/haber/dunya/axios-anthropic-ve-openai-henuz-yayimlamadiklari-cok-daha-gelismis-yapay-zeka-sistemlerine-sahip-964357.html",
+   "zaman": "2026-11-24T21:22:00+03:00",
+   "kelimeler": [
+    "anthr",
+    "axios",
+    "gelis",
+    "henuz",
+    "opena",
+    "sahip",
+    "siste",
+    "yapay",
+    "yayim",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "da429b847c6f": {
+   "id": "da429b847c6f",
+   "kaynak": "Hürriyet",
+   "baslik": "Helikopter kazasındaki şehitler için siyasilerden başsağlığı mesajları",
+   "ozet": "Eskişehir'de kaza kırıma uğrayan helikopterde 5 asker şehit oldu. Siyasiler, helikopter kazasındaki şehitler için başsağlığı mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/helikopter-kazasindaki-sehitler-icin-siyasilerden-bas-sagligi-mesajlari-43389894",
+   "zaman": "2026-11-24T21:34:00+03:00",
+   "kelimeler": [
+    "bassa",
+    "helik",
+    "kazas",
+    "mesaj",
+    "sehit",
+    "siyas"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "2cbee365ea89": {
+   "id": "2cbee365ea89",
+   "kaynak": "AA",
+   "baslik": "Polonya, hava sahası ihlali nedeniyle Rusya'ya nota verdi",
+   "ozet": "Polonya Dışişleri Bakanlığı, Rusya'nın Ukrayna'ya yönelik saldırısı sırasında Rusya'ya ait 3 seyir füzesinin Polonya hava sahasını ihlal ederek ülke topraklarına düşmesi nedeniyle Rusya'ya nota verdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/polonya-hava-sahasi-ihlali-nedeniyle-rusyaya-nota-verdi/4136327",
+   "zaman": "2026-11-24T21:38:37+03:00",
+   "kelimeler": [
+    "hava",
+    "ihlal",
+    "neden",
+    "nota",
+    "polon",
+    "rusya",
+    "sahas",
+    "verdi",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9d590cfce960": {
+   "id": "9d590cfce960",
+   "kaynak": "AA",
+   "baslik": "SpaceX, ABD Uzay Kuvvetleri için USSF-266 görevini gerçekleştirdi",
+   "ozet": "ABD merkezli uzay şirketi SpaceX'in, ABD Uzay Kuvvetleri için USSF-266 görevini Falcon 9 roketiyle gerçekleştirdiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-abd-uzay-kuvvetleri-icin-ussf-266-gorevini-gerceklestirdi/4136331",
+   "zaman": "2026-11-24T21:41:45+03:00",
+   "kelimeler": [
+    "266",
+    "abd",
+    "gerce",
+    "gorev",
+    "kuvve",
+    "space",
+    "ussf",
+    "uzay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f60226855102": {
+   "id": "f60226855102",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 24 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1752427",
+   "zaman": "2026-11-24T21:42:06+03:00",
+   "kelimeler": [
+    "2026",
+    "24",
+    "belli",
+    "cekil",
+    "ekran",
+    "kasim",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "4a9858541bcb"
   }
  },
  "kayit": [
+  "24.11 21:46:15  5 yeni haber",
   "24.11 21:31:08  2 yeni haber",
   "24.11 21:01:48  3 yeni haber",
   "24.11 20:46:37  2 yeni haber",
@@ -26544,8 +26675,7 @@
   "22.11 15:01:36  4 yeni haber",
   "22.11 14:46:08  3 yeni haber",
   "22.11 14:31:17  2 yeni haber",
-  "22.11 14:15:54  4 yeni haber",
-  "22.11 14:01:23  5 yeni haber"
+  "22.11 14:15:54  4 yeni haber"
  ],
  "otomatik": false
 }
