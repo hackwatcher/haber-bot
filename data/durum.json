@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "3184c5aeeb3e": {
-   "id": "3184c5aeeb3e",
-   "kaynak": "AA",
-   "baslik": "Almanya'da hükümet politikalarını protesto eden göstericilerle polis arasında arbede çıktı",
-   "ozet": "Almanya'da hükümetin zorunlu askerlik planlarının ve sosyal harcamalardaki kesintilerin protesto edildiği gösterilerde polisle göstericiler arasında arbede yaşandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-hukumet-politikalarini-protesto-eden-gostericilerle-polis-arasinda-arbede-cikti/4132649",
-   "zaman": "2026-11-21T03:38:44+03:00",
-   "kelimeler": [
-    "alman",
-    "arasi",
-    "arbed",
-    "cikti",
-    "eden",
-    "goste",
-    "hukum",
-    "polis",
-    "polit",
-    "prote"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "6e920bd8b437": {
    "id": "6e920bd8b437",
    "kaynak": "AA",
@@ -23216,7 +23194,10 @@
     "sites"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "3712f184457f": {
    "id": "3712f184457f",
@@ -23259,6 +23240,24 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1a8c283c8b91": {
+   "id": "1a8c283c8b91",
+   "kaynak": "NTV",
+   "baslik": "407 internet sitesine erişim engellendi",
+   "ozet": "Yasa dışı bahis, dolandırıcılık ve müstehcen içerikli paylaşım yaptığı belirlenen 407 internet sitesine erişim engellendi.",
+   "link": "https://www.ntv.com.tr/turkiye/407-internet-sitesine-erisim-engellendi-1752273",
+   "zaman": "2026-11-24T03:35:21+03:00",
+   "kelimeler": [
+    "407",
+    "engel",
+    "erisi",
+    "inter",
+    "sites"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3afa7d7fe23a"
   }
  },
  "kayit": [
