@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "83e8c56ac8ab": {
-   "id": "83e8c56ac8ab",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Fidan, Abdülhamid Dibeybe ile bir araya geldi",
-   "ozet": "Dışişleri Bakanı Hakan Fidan, Libya Milli Birlik Hükümeti Başbakanı Abdülhamid Dibeybe ile bugün İstanbulda bir araya geldi.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-abdulhamid-dibeybe-ile-bir-araya-geldi-964084.html",
-   "zaman": "2026-11-21T19:40:00+03:00",
-   "kelimeler": [
-    "abdul",
-    "araya",
-    "bakan",
-    "dibey",
-    "fidan",
-    "geldi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2c59e87f122e": {
    "id": "2c59e87f122e",
    "kaynak": "AA",
@@ -721,31 +703,6 @@
     "sizle",
     "turki",
     "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "d7d61e924571": {
-   "id": "d7d61e924571",
-   "kaynak": "AA",
-   "baslik": "AK Parti Genel Sekreteri İnan, partisinin Karşıyaka Genişletilmiş İlçe Danışma Meclisi Toplantısı'nda konuştu",
-   "ozet": "AK Parti Genel Sekreteri İnan, \"Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddialarına karşısında hesap vermek yerine korkakça dokunulmazlık zırhının arkasına saklanıyorlar.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-sekreteri-inan-partisinin-karsiyaka-genisletilmis-ilce-danisma-meclisi-toplantisinda-konustu/4133105",
-   "zaman": "2026-11-21T19:40:07+03:00",
-   "kelimeler": [
-    "ak",
-    "danis",
-    "genel",
-    "genis",
-    "ilce",
-    "inan",
-    "karsi",
-    "konus",
-    "mecli",
-    "nda",
-    "parti",
-    "sekre",
-    "topla"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -21460,7 +21417,10 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "49815aa6e59f": {
    "id": "49815aa6e59f",
@@ -25840,9 +25800,57 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "523376a6dfad": {
+   "id": "523376a6dfad",
+   "kaynak": "Hürriyet",
+   "baslik": "Yasa dışı bahse darbe... Bakan Gürlek: 5 soruşturmada 245 şüpheli yakalandı",
+   "ozet": "Adalet Bakanı Akın Gürlek, Denizli, Sakarya, Afyonkarahisar ve Sakarya'da yürütülen 5 ayrı soruşturmada 245 şüphelinin yakalandığını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahse-darbe-bakan-gurlek-5-sorusturmada-245-supheli-yakalandi-43389807",
+   "zaman": "2026-11-24T19:35:58+03:00",
+   "kelimeler": [
+    "245",
+    "bahse",
+    "bakan",
+    "darbe",
+    "disi",
+    "gurle",
+    "sorus",
+    "suphe",
+    "yakal",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2d9b7b74485b"
+  },
+  "a2cc0609fd32": {
+   "id": "a2cc0609fd32",
+   "kaynak": "AA",
+   "baslik": "BM Genel Sekreteri Guterres'ten ölümcül otonom silah sistemlerine yönelik düzenleme çağrısı",
+   "ozet": "BM Genel Sekreteri Guterres, yapay zekanın insan kontrolü olmadan askeri alanda kullanılmasının kabul edilemez olduğunu belirterek, ölümcül otonom silah sistemleri konusunda yasal olarak bağlayıcı düzenleme çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreteri-guterresten-olumcul-otonom-silah-sistemlerine-yonelik-duzenleme-cagrisi/4136157",
+   "zaman": "2026-11-24T19:41:44+03:00",
+   "kelimeler": [
+    "bm",
+    "cagri",
+    "duzen",
+    "genel",
+    "guter",
+    "olumc",
+    "otono",
+    "sekre",
+    "silah",
+    "siste",
+    "ten",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 19:46:03  1 yeni haber",
   "24.11 19:31:41  2 yeni haber",
   "24.11 19:16:07  3 yeni haber",
   "24.11 19:01:22  1 yeni haber",
@@ -26041,8 +26049,7 @@
   "22.11 13:16:03  5 yeni haber",
   "22.11 13:01:19  1 yeni haber",
   "22.11 12:58:35  7 yeni haber",
-  "22.11 12:45:56  7 yeni haber",
-  "22.11 12:31:35  7 yeni haber"
+  "22.11 12:45:56  7 yeni haber"
  ],
  "otomatik": false
 }
