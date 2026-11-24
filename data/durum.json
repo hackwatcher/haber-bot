@@ -1,61 +1,5 @@
 {
  "haberler": {
-  "2430df00bd7e": {
-   "id": "2430df00bd7e",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş, Süper Lig'de yarın Konyaspor ile karşılaşacak",
-   "ozet": "Beşiktaş, Trendyol Süper Lig'in 12. haftasında yarın deplasmanda TÜMOSAN Konyaspor ile mücadele edecek.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-konyaspor-ile-karsilasacak/4132679",
-   "zaman": "2026-11-21T08:51:38+03:00",
-   "kelimeler": [
-    "besik",
-    "karsi",
-    "konya",
-    "lig",
-    "super",
-    "yarin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1e42f2b16154"
-  },
-  "3d5c09d319b0": {
-   "id": "3d5c09d319b0",
-   "kaynak": "NTV",
-   "baslik": "Benzine indirim, 70 liranın altına indi",
-   "ozet": "Benzinin litre fiyatına bugünden itibaren 2.95 lira indirim yapıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/benzine-indirim-70-liranin-altina-indi-1751848",
-   "zaman": "2026-11-21T08:54:45+03:00",
-   "kelimeler": [
-    "70",
-    "altin",
-    "benzi",
-    "indi",
-    "indir",
-    "liran"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "9390ac445c43": {
-   "id": "9390ac445c43",
-   "kaynak": "Hürriyet",
-   "baslik": "Diyarbakır'da uyuşturucu operasyonu: 20 şüpheli tutuklandı",
-   "ozet": "Diyarbakır'da düzenlenen uyuşturucu operasyonlarında yakalanan 161 şüpheliden 20'si tutuklandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-uyusturucu-operasyonu-20-supheli-tutuklandi-43385721",
-   "zaman": "2026-11-21T08:59:29+03:00",
-   "kelimeler": [
-    "20",
-    "diyar",
-    "opera",
-    "suphe",
-    "tutuk",
-    "uyust"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "606e86085529"
-  },
   "381756094733": {
    "id": "381756094733",
    "kaynak": "XHABER",
@@ -17506,7 +17450,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Sözcü"
    ]
   },
   "d23ffe12385b": {
@@ -21547,8 +21492,17 @@
     "kizi",
     "zeyne"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-24T09:05:09.791220+03:00",
+   "ig_id": "17958613833324113",
+   "reels_id": "18120587444099324",
+   "story_id": "18002037768020481",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1133300762912902",
+   "slayt": 5,
+   "kanca": "ASLANA BİR ŞEY YAPMASINLAR"
   },
   "65bd5d280873": {
    "id": "65bd5d280873",
@@ -21999,7 +21953,8 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b79f57117929": {
    "id": "b79f57117929",
@@ -23343,9 +23298,108 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "25bd4f0f16b5"
+  },
+  "0711c70afc12": {
+   "id": "0711c70afc12",
+   "kaynak": "AA",
+   "baslik": "Siyasilerden \"24 Kasım Öğretmenler Günü\" mesajları",
+   "ozet": "Siyasiler, 24 Kasım Öğretmenler Günü dolayısıyla kutlama mesajları paylaştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/siyasilerden-24-kasim-ogretmenler-gunu-mesajlari/4135180",
+   "zaman": "2026-11-24T00:37:05+03:00",
+   "kelimeler": [
+    "24",
+    "gunu",
+    "kasim",
+    "mesaj",
+    "ogret",
+    "siyas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "49824876df27"
+  },
+  "ad63dbf05905": {
+   "id": "ad63dbf05905",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında gözaltına alınan 4 şüpheli tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 7 şüpheliden 4'ü tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gozaltina-alinan-4-supheli-tutuklandi-43388693",
+   "zaman": "2026-11-24T08:45:35+03:00",
+   "kelimeler": [
+    "alina",
+    "fon",
+    "gozal",
+    "sorus",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "78d0c05448c0"
+  },
+  "971c85410b27": {
+   "id": "971c85410b27",
+   "kaynak": "Sözcü",
+   "baslik": "Fon soruşturmasında 4 yeni tutuklama",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-4-yeni-tutuklama-p383903",
+   "zaman": "2026-11-24T08:45:46+03:00",
+   "kelimeler": [
+    "fon",
+    "sorus",
+    "tutuk",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c5d170bcebff"
+  },
+  "b9aa84026767": {
+   "id": "b9aa84026767",
+   "kaynak": "AA",
+   "baslik": "İstanbul'da yüksek katlı binalara yıldırım düşmesi görüntülendi",
+   "ozet": "İstanbul'da etkili olan yağış sırasında Çamlıca Kulesi ile yüksek katlı bir binaya düşen yıldırım cep telefonu kamerasıyla kaydedildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yuksek-katli-binalara-yildirim-dusmesi-goruntulendi/4135224",
+   "zaman": "2026-11-24T08:49:31+03:00",
+   "kelimeler": [
+    "binal",
+    "dusme",
+    "gorun",
+    "istan",
+    "katli",
+    "yildi",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a19e3f014b98": {
+   "id": "a19e3f014b98",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'ye düzenlediği İHA saldırısında 3 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun Gazze Şeridi'nin güneyindeki Han Yunus kentine insansız hava aracıyla (İHA) düzenlediği saldırıda 3 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-iha-saldirisinda-3-filistinli-hayatini-kaybetti/4135231",
+   "zaman": "2026-11-24T08:57:05+03:00",
+   "kelimeler": [
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "iha",
+    "in",
+    "israi",
+    "kaybe",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e56d62054473"
   }
  },
  "kayit": [
+  "24.11 09:05:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Hamdi Alkan'ın kızı Zeynep Alkan:",
+  "24.11 09:01:33  1 yeni haber",
   "24.11 08:31:11  1 yeni haber",
   "24.11 08:16:09  1 yeni haber",
   "24.11 07:47:11  1 yeni haber",
@@ -23543,9 +23597,7 @@
   "21.11 22:31:18  1 yeni haber",
   "21.11 22:15:55  3 yeni haber",
   "21.11 22:01:15  3 yeni haber",
-  "21.11 21:46:01  2 yeni haber",
-  "21.11 21:31:07  2 yeni haber",
-  "21.11 21:15:57  3 yeni haber"
+  "21.11 21:46:01  2 yeni haber"
  ],
  "otomatik": false
 }
