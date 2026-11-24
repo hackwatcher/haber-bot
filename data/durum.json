@@ -26591,7 +26591,8 @@
     "yayim"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "06ecfc2bf63e": {
    "id": "06ecfc2bf63e",
@@ -26949,6 +26950,28 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "977443723c1d": {
+   "id": "977443723c1d",
+   "kaynak": "Hürriyet",
+   "baslik": "Valiler kararnamesi Resmi Gazete'de yayımlandı! 41 ilin valisi değişti",
+   "ozet": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze çekildi, 41 ilin valisi değişti. Ağrı Valisi Önder Bozkurt, AFAD Başkanlığı görevine getirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/valiler-kararnamesi-resmi-gazetede-yayimlandi-41-ilin-valisi-degisti-43390018",
+   "zaman": "2026-11-25T00:13:00+03:00",
+   "kelimeler": [
+    "41",
+    "degis",
+    "gazet",
+    "ilin",
+    "karar",
+    "resmi",
+    "valil",
+    "valis",
+    "yayim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6ca30373464e"
   }
  },
  "kayit": [
