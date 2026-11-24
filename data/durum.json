@@ -1,66 +1,5 @@
 {
  "haberler": {
-  "2c59e87f122e": {
-   "id": "2c59e87f122e",
-   "kaynak": "AA",
-   "baslik": "Genç milli judocular, Dünya Şampiyonası'nın 3. gününde 2'si altın 3 madalya kazandı",
-   "ozet": "Milli sporcular, Özbekistan'da düzenlenen Dünya Gençler Judo Şampiyonası'nda 2'si altın olmak üzere 3 madalya kazandı.",
-   "link": "https://www.aa.com.tr/tr/spor/genc-milli-judocular-dunya-sampiyonasinin-3-gununde-2si-altin-3-madalya-kazandi/4133121",
-   "zaman": "2026-11-21T19:47:46+03:00",
-   "kelimeler": [
-    "altin",
-    "dunya",
-    "genc",
-    "gunun",
-    "judoc",
-    "kazan",
-    "madal",
-    "milli",
-    "nin",
-    "sampi",
-    "si"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
-  "1732544814b7": {
-   "id": "1732544814b7",
-   "kaynak": "TRT Haber",
-   "baslik": "DMM'den Türkiye'de eğitimde eşitsizlik derinleşiyor iddialarına yalanlama",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, bazı basın yayın organlarında ve sosyal medya hesaplarında yer alan \"Türkiye'de eğitimde eşitsizlik derinleşiyor\" yönündeki iddiaların gerçeği yansıtmadığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/dmmden-turkiyede-egitimde-esitsizlik-derinlesiyor-iddialarina-yalanlama-964085.html",
-   "zaman": "2026-11-21T19:48:00+03:00",
-   "kelimeler": [
-    "den",
-    "derin",
-    "dmm",
-    "egiti",
-    "esits",
-    "iddia",
-    "turki",
-    "yalan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e36853955bef"
-  },
-  "f7d48e90bc20": {
-   "id": "f7d48e90bc20",
-   "kaynak": "Hürriyet",
-   "baslik": "Kadıköy'de denizde ceset bulundu",
-   "ozet": "KADIKÖY İskelesi’nde denizde bir kişinin cesedi bulundu. Ekipler tarafından sudan çıkarılan kişinin 20 yaşındaki Cenk Kula olduğu belirlendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/kadikoyde-denizde-ceset-bulundu-43386457",
-   "zaman": "2026-11-21T19:52:25+03:00",
-   "kelimeler": [
-    "bulun",
-    "ceset",
-    "deniz",
-    "kadik"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e5bb7c8e6223": {
    "id": "e5bb7c8e6223",
    "kaynak": "NTV",
@@ -489,22 +428,6 @@
    "diger_kaynaklar": [
     "NTV"
    ]
-  },
-  "bb944e04478b": {
-   "id": "bb944e04478b",
-   "kaynak": "AA",
-   "baslik": "Kocaelispor ile Fenerbahçe berabere kaldı",
-   "ozet": "Trendyol Süper Lig'in 12. haftasında oynanan Kocaelispor-Fenerbahçe karşılaşması 2-2'lik beraberlikle tamamlandı.",
-   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-ile-fenerbahce-berabere-kaldi/4133132",
-   "zaman": "2026-11-21T19:53:34+03:00",
-   "kelimeler": [
-    "berab",
-    "fener",
-    "kaldi",
-    "kocae"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "e24dd5486720": {
    "id": "e24dd5486720",
@@ -12562,7 +12485,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "9cfcd66ea5f2": {
@@ -25114,7 +25038,8 @@
     "XHABER",
     "NTV",
     "BBC Türkçe",
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "5c23d245361d": {
@@ -25477,7 +25402,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "fca3ca7cb4ae": {
    "id": "fca3ca7cb4ae",
@@ -25597,14 +25524,23 @@
     "korku",
     "mugla"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "TRT Haber",
     "AA",
     "Sözcü",
     "NTV"
-   ]
+   ],
+   "paylasildi": "2026-11-24T20:03:28.399964+03:00",
+   "ig_id": "18116585450182025",
+   "reels_id": "18098943425154131",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1930942754554897",
+   "slayt": 1,
+   "kanca": "Dikkat"
   },
   "3aa48884f79c": {
    "id": "3aa48884f79c",
@@ -25847,9 +25783,246 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c534e759f5b9": {
+   "id": "c534e759f5b9",
+   "kaynak": "AA",
+   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde \"Öğretmenlere Saygı Gecesi\" programında konuşuyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4135893",
+   "zaman": "2026-11-24T16:12:21+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "04c131c8da02"
+  },
+  "56dc236c9c60": {
+   "id": "56dc236c9c60",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Recep Tayyip Erdoğan konuşuyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde \"Öğretmenlere Saygı Gecesi\" programına katılıyor.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-recep-tayyip-erdogan-konusuyor-964348.html",
+   "zaman": "2026-11-24T18:57:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "konus",
+    "recep",
+    "tayyi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c367d87f2006": {
+   "id": "c367d87f2006",
+   "kaynak": "AA",
+   "baslik": "Öğrenci ve veliler CİMER'den öğretmenlere teşekkür etti",
+   "ozet": "Cumhurbaşkanlığı İletişim Merkezi (CİMER), kasım ayında en yoğun başvuruyu 24 Kasım Öğretmenler Günü kutlamaları dolayısıyla aldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ogrenci-ve-veliler-cimerden-ogretmenlere-tesekkur-etti/4136156",
+   "zaman": "2026-11-24T19:39:03+03:00",
+   "kelimeler": [
+    "cimer",
+    "den",
+    "etti",
+    "ogren",
+    "ogret",
+    "tesek",
+    "velil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d1f820b3421f": {
+   "id": "d1f820b3421f",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Memişoğlu: Tüm büyük hastanelerimizde 24 saat anaokulu hizmeti vereceğiz",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş ile birlikte Ankara'da 'Sağlık Yuvam Yenimahalle Kreş ve Anaokulu'nun açılışını yaptı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-tum-buyuk-hastanelerimizde-24-saat-anaokulu-hizmeti-verecegiz-43389809",
+   "zaman": "2026-11-24T19:41:00+03:00",
+   "kelimeler": [
+    "24",
+    "anaok",
+    "bakan",
+    "buyuk",
+    "hasta",
+    "hizme",
+    "memis",
+    "saat",
+    "tum",
+    "verec"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "db0ad65e53e0"
+  },
+  "9dc59e4b17a9": {
+   "id": "9dc59e4b17a9",
+   "kaynak": "Hürriyet",
+   "baslik": "Araçları çamura saplanınca yardım çağırmaya gitti, 3 gün sora ölü bulundu",
+   "ozet": "Karaman’ın Ermenek ilçesinde araçları çamura saplanınca yardım çağırmaya giden ve 3 gündür kayıp olarak aranan Mehmet Ali Göksu, ölü olarak bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/araclari-camura-saplaninca-yardim-cagirmaya-gitti-3-gun-sora-olu-bulundu-43389810",
+   "zaman": "2026-11-24T19:42:11+03:00",
+   "kelimeler": [
+    "aracl",
+    "bulun",
+    "cagir",
+    "camur",
+    "gitti",
+    "gun",
+    "olu",
+    "sapla",
+    "sora",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7a5e464f80b": {
+   "id": "f7a5e464f80b",
+   "kaynak": "AA",
+   "baslik": "\"Yaşayan İnsan Hazinesi\" listesinde yer alan Kazım Keçik son yolculuğuna uğurlandı",
+   "ozet": "Kültür ve Turizm Bakanlığının \"Yaşayan İnsan Hazinesi\" listesinde yer alan ve 86 yaşında hayatını kaybeden demir ustası Kazım Keçik, son yolculuğuna uğurlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/yasayan-insan-hazinesi-listesinde-yer-alan-kazim-kecik-son-yolculuguna-ugurlandi/4136159",
+   "zaman": "2026-11-24T19:45:37+03:00",
+   "kelimeler": [
+    "alan",
+    "hazin",
+    "insan",
+    "kazim",
+    "kecik",
+    "liste",
+    "ugurl",
+    "yasay",
+    "yer",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d49831cc8383": {
+   "id": "d49831cc8383",
+   "kaynak": "Hürriyet",
+   "baslik": "Çorum'da kan donduran olay… Boşanma aşamasındaki eşini 3 çocuğunun gözü önünde öldürüldü, kendini eve kilitledi",
+   "ozet": "Çorum'da bir kadın boşanma aşamasındaki eşi tarafından silahla öldürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/corumda-kan-donduran-olay-bosanma-asamasindaki-esini-olduruldu-43389814",
+   "zaman": "2026-11-24T19:47:00+03:00",
+   "kelimeler": [
+    "asama",
+    "bosan",
+    "cocug",
+    "corum",
+    "dondu",
+    "esini",
+    "eve",
+    "gozu",
+    "kan",
+    "kendi",
+    "kilit",
+    "olay",
+    "oldur",
+    "onund"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f4dd605eca66": {
+   "id": "f4dd605eca66",
+   "kaynak": "XHABER",
+   "baslik": "Fenerbahçe’de 2011 yılından beri görev yapan personelin işine Ali Koç’a yakınlığı sebebiyle son verildi.",
+   "ozet": "— Karara üzülen Ali Koç, çalışanı Koç Holding’de işe aldı. (Sercan Hamzaoğlu)",
+   "link": "https://t.me/sahinozkan000/30899",
+   "zaman": "2026-11-24T19:52:37+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Fenerbahçe’de 2011 yılından beri görev yapan personelin işine Ali Koç’a yakınlığı sebebiyle son verildi.\n— Karara üzülen Ali Koç, çalışanı Koç Holding’de işe aldı.\n(Sercan Hamzaoğlu)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/asoCwc_jLVk4JOifZX9XZVpPy7Jvw-g-jKRw4tw0IskjXw5FI4IXqEm6EEdl7lKvTN92skdhOhxyLlbNNR7u-Fmjm5upDNY97dQr45Lo3aXjI60--e-7oeZ9V50EelVnuqIhxheAFCH_xerfCV1paJZP2hg0vlxvtdZXhCf2pV_PeRisp7iksmVM7A27mx03BIF8c7LGoNn0qlxl4Hx5BF8OamXq5Q68MIaQIhf7WDtnJMfQPNz_VIQRYsBpkXc2k11LEs6N-LvQgPyEM52O3gyT3ArJabEaHbo_OM3YD0DC2nTszb6IcTCm2SGueepU3n3eMBJYPCtU7RVmEyPHBA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "2011",
+    "ali",
+    "beri",
+    "fener",
+    "gorev",
+    "isine",
+    "koc",
+    "perso",
+    "sebeb",
+    "veril",
+    "yakin",
+    "yapan",
+    "yilin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed8796c3d880": {
+   "id": "ed8796c3d880",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde \"Öğretmenlere Saygı Gecesi\" programında açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-43389819",
+   "zaman": "2026-11-24T19:52:44+03:00",
+   "kelimeler": [
+    "acikl",
+    "cumhu",
+    "dan",
+    "erdog",
+    "oneml"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "04c131c8da02"
+  },
+  "11de61f2d9be": {
+   "id": "11de61f2d9be",
+   "kaynak": "AA",
+   "baslik": "AB'de 13 ülkenin bütçe disiplini mercek altında",
+   "ozet": "Avrupa Birliği (AB) Komisyonu, 13 üye ülkenin bütçe disiplinine ilişkin sorunlar yaşadığını belirlerken, mali kurallara uymayan Bulgaristan ve Macaristan'a yönelik yaptırımların önünü açabilecek adımlar atılmasını önerdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abde-13-ulkenin-butce-disiplini-mercek-altinda/4136169",
+   "zaman": "2026-11-24T19:55:01+03:00",
+   "kelimeler": [
+    "13",
+    "ab",
+    "altin",
+    "butce",
+    "disip",
+    "merce",
+    "ulken"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6005109b4c37": {
+   "id": "6005109b4c37",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz'dan eski TBMM Başkanı Hikmet Çetin için taziye mesajı",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tedavi gördüğü hastanede vefat eden eski TBMM Başkanı Hikmet Çetin için başsağlığı mesajı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-eski-tbmm-baskani-hikmet-cetin-icin-taziye-mesaji/4136172",
+   "zaman": "2026-11-24T19:58:00+03:00",
+   "kelimeler": [
+    "baska",
+    "cetin",
+    "cumhu",
+    "dan",
+    "eski",
+    "hikme",
+    "mesaj",
+    "taziy",
+    "tbmm",
+    "yardi",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "84cc08c7870f"
   }
  },
  "kayit": [
+  "24.11 20:03:28  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Muğla'da korkutan deprem",
+  "24.11 20:02:05  7 yeni haber",
   "24.11 19:46:03  1 yeni haber",
   "24.11 19:31:41  2 yeni haber",
   "24.11 19:16:07  3 yeni haber",
@@ -26047,9 +26220,7 @@
   "22.11 13:33:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyonluğa ulaştı",
   "22.11 13:31:15  5 yeni haber",
   "22.11 13:16:03  5 yeni haber",
-  "22.11 13:01:19  1 yeni haber",
-  "22.11 12:58:35  7 yeni haber",
-  "22.11 12:45:56  7 yeni haber"
+  "22.11 13:01:19  1 yeni haber"
  ],
  "otomatik": false
 }
