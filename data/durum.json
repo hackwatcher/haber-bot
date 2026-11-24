@@ -1,115 +1,5 @@
 {
  "haberler": {
-  "d55ec61138fe": {
-   "id": "d55ec61138fe",
-   "kaynak": "TRT Haber",
-   "baslik": "New York'ta ıstakozların canlı haşlanması yasaklanıyor",
-   "ozet": "New York Belediye Meclisi üyeleri, restoranlarda ıstakoz, yengeç ve diğer kabuklu deniz canlılarının bayıltılmadan canlı olarak kaynar suya atılmasını yasaklayan bir yasa tasarısı sundu.",
-   "link": "https://www.trthaber.com/haber/dunya/new-yorkta-istakozlarin-canli-haslanmasi-yasaklaniyor-964064.html",
-   "zaman": "2026-11-21T14:17:00+03:00",
-   "kelimeler": [
-    "hasla",
-    "istak",
-    "new",
-    "ta",
-    "yasak",
-    "york"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2b27eb3a1341": {
-   "id": "2b27eb3a1341",
-   "kaynak": "Hürriyet",
-   "baslik": "Sakarya'da zincirleme kaza: 15 araç birbirine girdi, yaralılar var",
-   "ozet": "Sakarya'da 15 araç zincirleme kazaya karıştı. Alınan ilk bilgiye göre yaralılar var",
-   "link": "https://www.hurriyet.com.tr/gundem/sakaryada-zincirleme-kaza-15-arac-birbirine-girdi-yaralilar-var-43386147",
-   "zaman": "2026-11-21T14:19:16+03:00",
-   "kelimeler": [
-    "15",
-    "arac",
-    "birbi",
-    "girdi",
-    "kaza",
-    "sakar",
-    "yaral",
-    "zinci"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-21T14:48:24.616002+03:00",
-   "ig_id": "18046041281829675",
-   "reels_id": "18124282324989685",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "29845758141698278",
-   "slayt": 5,
-   "kanca": "15 ARAÇ BİRBİRİNE GİRDİ",
-   "diger_kaynaklar": []
-  },
-  "1b10620abec7": {
-   "id": "1b10620abec7",
-   "kaynak": "TRT Haber",
-   "baslik": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarparak alev aldı",
-   "ozet": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri Komutanlığı, Hürmüz Boğazı'nın doğusunda izin verilmeyen bölgede ilerleyen bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carparak-alev-aldi-964065.html",
-   "zaman": "2026-11-21T14:20:00+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "bogaz",
-    "carpa",
-    "devri",
-    "dogus",
-    "hurmu",
-    "iran",
-    "mayin",
-    "muhaf",
-    "nin",
-    "ordus",
-    "petro",
-    "tanke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "78bc28746256"
-  },
-  "f1eb414e206c": {
-   "id": "f1eb414e206c",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Teknoloji hisselerindeki düşüş için uzmanlar ne diyor?",
-   "ozet": "Anthropic’in hisseleri borsadaki ikinci gününde halka arz fiyatına yaklaşırken, yapay zekâ yatırımlarının ne zaman karşılığını vereceğine ilişkin kaygılar teknoloji hisselerindeki satış dalgasını derinleştirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cx7v2ne04np2o",
-   "zaman": "2026-11-21T14:23:53+03:00",
-   "kelimeler": [
-    "diyor",
-    "dusus",
-    "hisse",
-    "tekno",
-    "uzman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "698cf6b77eb1": {
-   "id": "698cf6b77eb1",
-   "kaynak": "AA",
-   "baslik": "AYM ile TİHEK arasında işbirliği protokolü imzalandı",
-   "ozet": "Anayasa Mahkemesi (AYM) ile Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK) arasında insan haklarının korunması ve geliştirilmesi amacıyla işbirliği protokolü imzalandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/aym-ile-tihek-arasinda-isbirligi-protokolu-imzalandi/4132887",
-   "zaman": "2026-11-21T14:30:18+03:00",
-   "kelimeler": [
-    "arasi",
-    "aym",
-    "imzal",
-    "isbir",
-    "proto",
-    "tihek"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0749240d0056": {
    "id": "0749240d0056",
    "kaynak": "AA",
@@ -23726,7 +23616,10 @@
     "yol"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "38835c42f824": {
    "id": "38835c42f824",
@@ -24693,8 +24586,17 @@
     "yatir",
     "yetis"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-24T14:34:02.734503+03:00",
+   "ig_id": "18116693606144065",
+   "reels_id": "17897954295683484",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1123839077028634",
+   "slayt": 6,
+   "kanca": "EMBRİYO TRANSFERİYLE DAMIZLIK"
   },
   "4a272d688b15": {
    "id": "4a272d688b15",
@@ -25029,7 +24931,11 @@
     "yolcu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet",
+    "AA"
+   ]
   },
   "c0150443fa28": {
    "id": "c0150443fa28",
@@ -25154,7 +25060,10 @@
     "tan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "997b192656b6": {
    "id": "997b192656b6",
@@ -25260,9 +25169,185 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c4b4ee49402d": {
+   "id": "c4b4ee49402d",
+   "kaynak": "Hürriyet",
+   "baslik": "Bıçaklanarak öldürülen öğretmen Yasin Demir, Öğretmenler Günü'nde toprağa verildi",
+   "ozet": "Antalya’nın Alanya ilçesinde bıçaklanarak öldürülen 42 yaşındaki Türkçe öğretmeni Yasin Demir, baba ocağı Erzincan’da son yolculuğuna uğurlandı. Saliha Hatun Camisi’ndeki törenin ardından Demir, 24 Kasım Öğretmenler Günü’nde toprağa verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bicaklanarak-oldurulen-ogretmen-yasin-demir-ogretmenler-gununde-topraga-verildi-43389344",
+   "zaman": "2026-11-24T14:04:38+03:00",
+   "kelimeler": [
+    "bicak",
+    "demir",
+    "gunu",
+    "nde",
+    "ogret",
+    "oldur",
+    "topra",
+    "veril",
+    "yasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d4300f69be80"
+  },
+  "a34e4ddf57a6": {
+   "id": "a34e4ddf57a6",
+   "kaynak": "TRT Haber",
+   "baslik": "Yağmur sonrası denizin rengi kahverengiye döndü",
+   "ozet": "Zonguldakta dün akşam saatlerinden bu yana etkisini sürdüren sağanak sonrası derelerin taşıdığı alüvyon nedeniyle denizin rengi kahverengine döndü.",
+   "link": "https://www.trthaber.com/haber/turkiye/yagmur-sonrasi-denizin-rengi-kahverengiye-dondu-964320.html",
+   "zaman": "2026-11-24T14:10:00+03:00",
+   "kelimeler": [
+    "deniz",
+    "dondu",
+    "kahve",
+    "rengi",
+    "sonra",
+    "yagmu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3af358696a6a": {
+   "id": "3af358696a6a",
+   "kaynak": "Hürriyet",
+   "baslik": "Aksaray-Nevşehir kara yolunda yolcu otobüsü devrildi: İlk belirlemelere göre 19 yaralı",
+   "ozet": "Aksaray-Nevşehir kara yolu Alayhan mevkiinde Ankara'dan Gaziantep'e giden yolcu otobüsü devrildi; ilk belirlemelere göre 19 kişi yaralandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/aksaray-nevsehir-kara-yolunda-yolcu-otobusu-devrildi-ilk-belirlemelere-gore-19-yarali-43389363",
+   "zaman": "2026-11-24T14:10:00+03:00",
+   "kelimeler": [
+    "19",
+    "aksar",
+    "belir",
+    "devri",
+    "gore",
+    "ilk",
+    "kara",
+    "nevse",
+    "otobu",
+    "yaral",
+    "yolcu",
+    "yolun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c12ede8b4adb"
+  },
+  "5684848c5b12": {
+   "id": "5684848c5b12",
+   "kaynak": "AA",
+   "baslik": "Filistin Devlet Başkanı Abbas: Dünyanın Filistin halkının yaşadığı acılara alışmasına müsamaha gösterilmemeli",
+   "ozet": "Filistin Devlet Başkanı Mahmud Abbas, Filistin halkının zorla yerinden edilmeyi kabul etmeyeceğini belirterek, dünyanın Filistinlilerin çektiği acılara alışmaması ve haklarının sürekli ihlal edilmesine müsamaha gösterilmemesi gerektiğini kaydetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskani-abbas-dunyanin-filistin-halkinin-yasadigi-acilara-alismasina-musamaha-gosterilmemeli/4135683",
+   "zaman": "2026-11-24T14:14:43+03:00",
+   "kelimeler": [
+    "abbas",
+    "acila",
+    "alism",
+    "baska",
+    "devle",
+    "dunya",
+    "filis",
+    "goste",
+    "halki",
+    "musam",
+    "yasad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f2379c94c94d"
+  },
+  "2c08106a4263": {
+   "id": "2c08106a4263",
+   "kaynak": "AA",
+   "baslik": "Filistin destekçisi ABD'li rapçi Macklemore, Gazze'deki soykırımı anlatan şarkı çıkardı",
+   "ozet": "Filistin destekçisi ABD'li ünlü rapçi Macklemore, İsrail'in Gazze'deki soykırımına dikkati çeken \"Where's our love\" isimli yeni bir şarkı yayımladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-destekcisi-abdli-rapci-macklemore-gazzedeki-soykirimi-anlatan-sarki-cikardi/4135684",
+   "zaman": "2026-11-24T14:15:48+03:00",
+   "kelimeler": [
+    "abd",
+    "anlat",
+    "cikar",
+    "deki",
+    "deste",
+    "filis",
+    "gazze",
+    "li",
+    "mackl",
+    "rapci",
+    "sarki",
+    "soyki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b26cdc248d83": {
+   "id": "b26cdc248d83",
+   "kaynak": "TRT Haber",
+   "baslik": "Karadeniz için fırtına uyarısı",
+   "ozet": "Batı Karadeniz'in doğusu ile Doğu Karadeniz'de rüzgarın yarın fırtına şeklinde esmesi bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/karadeniz-icin-firtina-uyarisi-964321.html",
+   "zaman": "2026-11-24T14:17:00+03:00",
+   "kelimeler": [
+    "firti",
+    "karad",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6de5fd80a9be"
+  },
+  "1641d89c951c": {
+   "id": "1641d89c951c",
+   "kaynak": "AA",
+   "baslik": "Aksaray'da yolcu otobüsü devrildi, 22 kişi yaralandı",
+   "ozet": "Aksaray'da yolcu otobüsünün devrilmesi sonucu 1'i ağır 22 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/aksarayda-yolcu-otobusu-devrildi-22-kisi-yaralandi-/4135691",
+   "zaman": "2026-11-24T14:18:29+03:00",
+   "kelimeler": [
+    "22",
+    "aksar",
+    "devri",
+    "kisi",
+    "otobu",
+    "yaral",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c12ede8b4adb"
+  },
+  "f5ee1d347a1c": {
+   "id": "f5ee1d347a1c",
+   "kaynak": "Hürriyet",
+   "baslik": "71 ilde eş zamanlı mali suç operasyonu: Silah, nakit, altın ve milyonluk çekler çıktı",
+   "ozet": "Tefecilikten rüşvete uzanan suçlamalarla 301’i gözaltı kararlı 455 şüpheliye operasyon düzenlendi. Aramalarda 26 ruhsatsız silah, milyonluk çekler, nakit para, döviz ve altın ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/71-ilde-es-zamanli-mali-suc-operasyonu-silah-nakit-altin-ve-milyonluk-cekler-cikti-43389398",
+   "zaman": "2026-11-24T14:27:00+03:00",
+   "kelimeler": [
+    "71",
+    "altin",
+    "cekle",
+    "cikti",
+    "es",
+    "ilde",
+    "mali",
+    "milyo",
+    "nakit",
+    "opera",
+    "silah",
+    "suc",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 14:34:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İzmir'de embriyo transferiyle damızlık yetiştiriciliği yatırımı",
+  "24.11 14:31:06  3 yeni haber",
   "24.11 14:16:07  7 yeni haber",
   "24.11 14:01:26  1 yeni haber",
   "24.11 13:52:11  3 yeni haber",
@@ -25460,9 +25545,7 @@
   "22.11 07:15:54  7 yeni haber",
   "22.11 07:02:31  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · #SONDAKİKA",
   "22.11 07:01:14  1 yeni haber",
-  "22.11 05:01:24  2 yeni haber",
-  "22.11 04:45:55  1 yeni haber",
-  "22.11 03:45:59  4 yeni haber"
+  "22.11 05:01:24  2 yeni haber"
  ],
  "otomatik": false
 }
