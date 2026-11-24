@@ -26491,7 +26491,8 @@
     "uyele"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "6b8f8bf49cbe": {
    "id": "6b8f8bf49cbe",
@@ -26768,10 +26769,95 @@
     "yonel"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "2e02f635597b": {
+   "id": "2e02f635597b",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da fuhuş ve uyuşturucu soruşturmasında 35 gözaltı kararı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığınca yürütülen fuhuş ve uyuşturucu soruşturmaları kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Operasyonda gözaltına alınanlar arasında şarkıcı Özcan Deniz ile oyuncu Deniz Çakır da bulunuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-fuhus-ve-uyusturucu-sorusturmasinda-35-gozalti-karari-964370.html",
+   "zaman": "2026-11-24T23:24:00+03:00",
+   "kelimeler": [
+    "35",
+    "fuhus",
+    "gozal",
+    "istan",
+    "karar",
+    "sorus",
+    "uyust"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "0481af737fd1": {
+   "id": "0481af737fd1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bahçeli'den şehit askerlerimiz için başsağlığı mesajı",
+   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit olan 5 asker için başsağlığı mesajı yayımladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bahceliden-sehit-askerlerimiz-icin-bassagligi-mesaji-964371.html",
+   "zaman": "2026-11-24T23:28:00+03:00",
+   "kelimeler": [
+    "asker",
+    "bahce",
+    "bassa",
+    "den",
+    "mesaj",
+    "sehit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5042d474e42b"
+  },
+  "72fe66f6deea": {
+   "id": "72fe66f6deea",
+   "kaynak": "NTV",
+   "baslik": "Microsoft'un 24 saatlik krizinin perde arkası ortaya çıktı",
+   "ozet": "Microsoft, 12-13 Kasım'da dünya genelinde 24 saat süren hizmet kesintisinin ardından \"kırmızı alarm\" ilan etti.",
+   "link": "https://www.ntv.com.tr/turkiye/microsoftun-24-saatlik-krizinin-perde-arkasi-ortaya-cikti-1752429",
+   "zaman": "2026-11-24T23:31:50+03:00",
+   "kelimeler": [
+    "24",
+    "arkas",
+    "cikti",
+    "krizi",
+    "micro",
+    "ortay",
+    "perde",
+    "saatl",
+    "un"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3713f170f551": {
+   "id": "3713f170f551",
+   "kaynak": "NTV",
+   "baslik": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz gözaltına alındı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var.",
+   "link": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+   "zaman": "2026-11-24T23:45:38+03:00",
+   "kelimeler": [
+    "alind",
+    "deniz",
+    "gozal",
+    "opera",
+    "ozcan",
+    "unlul",
+    "uyust",
+    "yeni",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2d867e1a69e2"
   }
  },
  "kayit": [
+  "24.11 23:46:06  2 yeni haber",
   "24.11 23:31:12  2 yeni haber",
   "24.11 23:16:30  5 yeni haber",
   "24.11 23:03:00  3 yeni haber",
@@ -26970,8 +27056,7 @@
   "22.11 17:01:19  2 yeni haber",
   "22.11 16:45:57  1 yeni haber",
   "22.11 16:31:22  1 yeni haber",
-  "22.11 16:15:58  4 yeni haber",
-  "22.11 15:45:59  2 yeni haber"
+  "22.11 16:15:58  4 yeni haber"
  ],
  "otomatik": false
 }
