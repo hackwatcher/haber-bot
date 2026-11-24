@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "2771d4a4031c": {
-   "id": "2771d4a4031c",
-   "kaynak": "Hürriyet",
-   "baslik": "Fon soruşturmasına yeni gelişme: 'Gildencrest Capital' için MASAK raporu hazırlandı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında Gildencrest Capital hakkında, Mali Suçları Araştırma Kurulu (MASAK) tarafından rapor hazırlandığı bildirildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasina-yeni-gelisme-gildencrest-capital-icin-masak-raporu-hazirlandi-43386023",
-   "zaman": "2026-11-21T12:48:00+03:00",
-   "kelimeler": [
-    "capit",
-    "fon",
-    "gelis",
-    "gilde",
-    "hazir",
-    "masak",
-    "rapor",
-    "sorus",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "79fc82358594": {
-   "id": "79fc82358594",
-   "kaynak": "AA",
-   "baslik": "Sağanak bazı illerde yaşamı olumsuz etkiledi",
-   "ozet": "Bazı illerde etkisini sürdüren sağanak, taşkınlara ve trafikte aksamalara neden oldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/saganak-bazi-illerde-yasami-olumsuz-etkiledi/4132819",
-   "zaman": "2026-11-21T12:58:11+03:00",
-   "kelimeler": [
-    "bazi",
-    "etkil",
-    "iller",
-    "olums",
-    "sagan",
-    "yasam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "76e4dafa781a": {
-   "id": "76e4dafa781a",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Can Atalay'dan AİHM kararı sonrası tahliye çağrısı",
-   "ozet": "Milletvekilliği düşürülmüş tutuklu avukat Can Atalay, Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hakkındaki kararının ardından derhal tahliye edilmesini ve seçildiği Hatay milletvekili olarak Meclis çalışmalarına katılmasının sağlanmasını istedi",
-   "link": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko",
-   "zaman": "2026-11-21T12:58:15+03:00",
-   "kelimeler": [
-    "aihm",
-    "atala",
-    "cagri",
-    "can",
-    "dan",
-    "karar",
-    "sonra",
-    "tahli"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "df37e2cdad19": {
    "id": "df37e2cdad19",
    "kaynak": "NTV",
@@ -14909,7 +14846,8 @@
     "yili"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "fd9b9c1e83c5": {
    "id": "fd9b9c1e83c5",
@@ -25082,11 +25020,203 @@
     "volka",
     "yasin"
    ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-24T13:03:47.383579+03:00",
+   "ig_id": "18508973173103810",
+   "reels_id": "17869365261676772",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2010362929644328",
+   "slayt": 5,
+   "kanca": "KAMYONETİN ALTINDA KALDI"
+  },
+  "e9b5a0233f97": {
+   "id": "e9b5a0233f97",
+   "kaynak": "AA",
+   "baslik": "Ulaştırma ve Altyapı Bakanlığının 2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonunda",
+   "ozet": "TBMM Plan ve Bütçe Komisyonunda, Ulaştırma ve Altyapı Bakanlığının 2027 yılı bütçesinin görüşmelerine başlandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ulastirma-ve-altyapi-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda/4135427",
+   "zaman": "2026-11-24T11:18:30+03:00",
+   "kelimeler": [
+    "2027",
+    "altya",
+    "bakan",
+    "butce",
+    "komis",
+    "plan",
+    "tbmm",
+    "ulast",
+    "yili"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d9f2c7203a50"
+  },
+  "76e4dafa781a": {
+   "id": "76e4dafa781a",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Can Atalay'dan AİHM kararı sonrası TBMM Başkanı Kurtulmuş'a 'sorumluluk al' çağrısı",
+   "ozet": "Milletvekilliği düşürülmüş tutuklu avukat Can Atalay, Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hakkındaki kararının ardından derhal tahliye edilmesini ve seçildiği Hatay milletvekili olarak Meclis çalışmalarına katılmasının sağlanmasını istedi",
+   "link": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko",
+   "zaman": "2026-11-24T12:05:39+03:00",
+   "kelimeler": [
+    "aihm",
+    "al",
+    "atala",
+    "baska",
+    "cagri",
+    "can",
+    "dan",
+    "karar",
+    "kurtu",
+    "sonra",
+    "sorum",
+    "tbmm"
+   ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": false
+  },
+  "7e5aab06e9d8": {
+   "id": "7e5aab06e9d8",
+   "kaynak": "AA",
+   "baslik": "DOSYA HABER: Olimpiyat Coşkusu Başlıyor",
+   "ozet": "Fransa'nın başkenti Paris'te yapılacak 33. Yaz Olimpiyatları'nda Türkiye'yi 18 branşta 102 sporcu temsil edecek. Yaş ortalaması 25,82 olan kafilede 16 yaşındaki Kuzey Tunçelli en genç, 51 yaşındaki Yusuf Dikeç ise en tecrübeli isim oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/dosya-haber-olimpiyat-coskusu-basliyor/4135557",
+   "zaman": "2026-11-24T12:37:16+03:00",
+   "kelimeler": [
+    "basli",
+    "cosku",
+    "dosya",
+    "olimp"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2dc450a18ae8": {
+   "id": "2dc450a18ae8",
+   "kaynak": "TRT Haber",
+   "baslik": "İranda bir askeri kışla yakınında patlama meydana geldi",
+   "ozet": "İranın Sistan ve Beluçistan eyaletinde bir askeri kışla yakınında patlama meydana geldiği bildirildi.",
+   "link": "https://www.trthaber.com/haber/dunya/iranda-bir-askeri-kisla-yakininda-patlama-meydana-geldi-964308.html",
+   "zaman": "2026-11-24T12:43:00+03:00",
+   "kelimeler": [
+    "asker",
+    "geldi",
+    "irand",
+    "kisla",
+    "meyda",
+    "patla",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "019679a1420b": {
+   "id": "019679a1420b",
+   "kaynak": "Hürriyet",
+   "baslik": "TBMM Başkanı Kurtulmuş, Avustralya'ya gitti",
+   "ozet": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, MIKTA (Meksika, Endonezya, Güney Kore, Türkiye, Avustralya) 12’nci Parlamento Başkanları Toplantısı'na katılmak üzere Avustralya'ya gitti.",
+   "link": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-avustralyaya-gitti-43389175",
+   "zaman": "2026-11-24T12:46:21+03:00",
+   "kelimeler": [
+    "avust",
+    "baska",
+    "gitti",
+    "kurtu",
+    "tbmm",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b44bbf9745c": {
+   "id": "0b44bbf9745c",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş ile Hapoel Beer-Sheva arasındaki maçı Danimarkalı Krogh yönetecek",
+   "ozet": "Beşiktaş'ın UEFA Avrupa Ligi'nin 5. haftasında İsrail temsilcisi Hapoel Beer-Sheva'yı Gürcistan'da konuk edeceği maçta Danimarkalı hakem Morten Krogh düdük çalacak.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-hapoel-beer-sheva-arasindaki-maci-danimarkali-krogh-yonetecek/4135572",
+   "zaman": "2026-11-24T12:47:30+03:00",
+   "kelimeler": [
+    "arasi",
+    "beer",
+    "besik",
+    "danim",
+    "hapoe",
+    "krogh",
+    "maci",
+    "sheva",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd4c1722a7a6": {
+   "id": "bd4c1722a7a6",
+   "kaynak": "AA",
+   "baslik": "ABD'li Senatör Hassan'dan Başkan Yardımcısı Vance'e soruşturma",
+   "ozet": "ABD'li Senatör Maggie Hassan, ABD Başkan Yardımcısı JD Vance'in bir kişiye Venezuela petrolüyle ilgili iş fırsatları elde etmesi için yardım ettiği yönündeki iddialara ilişkin bir soruşturma başlattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-senator-hassandan-baskan-yardimcisi-vancee-sorusturma/4135573",
+   "zaman": "2026-11-24T12:47:43+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "dan",
+    "hassa",
+    "li",
+    "senat",
+    "sorus",
+    "vance",
+    "yardi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3389599b3402": {
+   "id": "3389599b3402",
+   "kaynak": "AA",
+   "baslik": "Fransa'da polis okulu öğrencilerinin ırkçı mesajları soruşturuluyor",
+   "ozet": "Fransa'da polis okulu öğrencilerinin ırkçı mesajlarına ilişkin soruşturma yürütüldüğü belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-okulu-ogrencilerinin-irkci-mesajlari-sorusturuluyor/4135578",
+   "zaman": "2026-11-24T12:51:18+03:00",
+   "kelimeler": [
+    "frans",
+    "irkci",
+    "mesaj",
+    "ogren",
+    "okulu",
+    "polis",
+    "sorus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1920fe0a1633": {
+   "id": "1920fe0a1633",
+   "kaynak": "AA",
+   "baslik": "Kazım Karabekir Stadı'nda Erzurum soğuğuna \"sıcak hava kalkanı\"",
+   "ozet": "Erzurum'un dondurucu soğuğuna karşı Kazım Karabekir Stadı'ndaki yedek kulübelerine kurulan özel ısıtma sistemiyle futbolculara daha sıcak ve konforlu bir ortam sunuluyor.",
+   "link": "https://www.aa.com.tr/tr/spor/kazim-karabekir-stadinda-erzurum-soguguna-sicak-hava-kalkani/4135580",
+   "zaman": "2026-11-24T12:52:44+03:00",
+   "kelimeler": [
+    "erzur",
+    "hava",
+    "kalka",
+    "karab",
+    "kazim",
+    "nda",
+    "sicak",
+    "sogug",
+    "stadi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 13:03:47  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kartonların arasında oynayan 3 yaşındaki Volkan’ın üzerinden kamyonet ",
+  "24.11 13:01:52  8 yeni haber",
   "24.11 12:46:09  4 yeni haber",
   "24.11 12:31:22  12 yeni haber",
   "24.11 12:16:06  5 yeni haber",
@@ -25284,9 +25414,7 @@
   "22.11 02:15:55  2 yeni haber",
   "22.11 02:01:31  2 yeni haber",
   "22.11 01:48:10  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Sözcü · Türkiye-İran sınırında korkutan deprem",
-  "22.11 01:46:10  1 yeni haber",
-  "22.11 01:31:12  1 yeni haber",
-  "22.11 01:18:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Şanlıurfa'da feci kaza: 2 kişi öldü, 5 kişi yaralandı"
+  "22.11 01:46:10  1 yeni haber"
  ],
  "otomatik": false
 }
