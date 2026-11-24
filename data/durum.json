@@ -22975,7 +22975,10 @@
     "yakal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "3afa7d7fe23a": {
    "id": "3afa7d7fe23a",
@@ -23154,9 +23157,67 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "3afa7d7fe23a"
+  },
+  "d0661694946c": {
+   "id": "d0661694946c",
+   "kaynak": "TRT Haber",
+   "baslik": "Öğretmenler Günü 46 yıldır coşkuyla kutlanıyor",
+   "ozet": "Büyük Önder Atatürk, hayatının her döneminde bilim ve eğitimi baş tacı yaptı. 1921 yılında topladığı Maarif Kongresinde, eğitimi, \"kazanılması gereken ikinci savaş\" olarak tanımladı. Atatürk'e 24 Kasım 1928'de başöğretmen unvanı verildi.",
+   "link": "https://www.trthaber.com/haber/gundem/ogretmenler-gunu-46-yildir-coskuyla-kutlaniyor-964245.html",
+   "zaman": "2026-11-24T06:04:00+03:00",
+   "kelimeler": [
+    "46",
+    "cosku",
+    "gunu",
+    "kutla",
+    "ogret",
+    "yildi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8180bdf11aad": {
+   "id": "8180bdf11aad",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara'da çeşitli suçlardan aranan 161 hükümlü yakalandı",
+   "ozet": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 161 hükümlü yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-cesitli-suclardan-aranan-161-hukumlu-yakalandi-964246.html",
+   "zaman": "2026-11-24T06:13:00+03:00",
+   "kelimeler": [
+    "161",
+    "ankar",
+    "arana",
+    "cesit",
+    "hukum",
+    "sucla",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "72a3ddb3db5a"
+  },
+  "ac3ed57349d6": {
+   "id": "ac3ed57349d6",
+   "kaynak": "TRT Haber",
+   "baslik": "19 il için sarı uyarı: Kar ve sağanak geliyor",
+   "ozet": "Meteoroloji Genel Müdürlüğü, kuvvetli yağış ve olumsuz hava koşulları nedeniyle 19 il için sarı kodlu uyarı yayımladı. Karadeniz'de karla karışık yağmur ve kar, birçok bölgede ise sağanak bekleniyor.",
+   "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-uyari-kar-ve-saganak-geliyor-964247.html",
+   "zaman": "2026-11-24T06:16:00+03:00",
+   "kelimeler": [
+    "19",
+    "geliy",
+    "il",
+    "kar",
+    "sagan",
+    "sari",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 06:31:16  2 yeni haber",
   "24.11 04:46:00  1 yeni haber",
   "24.11 04:31:05  1 yeni haber",
   "24.11 03:31:04  2 yeni haber",
@@ -23355,8 +23416,7 @@
   "21.11 20:45:56  2 yeni haber",
   "21.11 20:31:11  1 yeni haber",
   "21.11 20:15:59  3 yeni haber",
-  "21.11 20:01:28  2 yeni haber",
-  "21.11 19:46:16  1 yeni haber"
+  "21.11 20:01:28  2 yeni haber"
  ],
  "otomatik": false
 }
