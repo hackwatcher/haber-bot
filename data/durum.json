@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "7f175d6d920f": {
-   "id": "7f175d6d920f",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
-   "zaman": "2026-11-22T00:00:00+03:00",
-   "kelimeler": [
-    "2026",
-    "22",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "il",
-    "istan",
-    "izmir",
-    "kasim",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "9a1090d76bc9"
-  },
-  "608a824904ce": {
-   "id": "608a824904ce",
-   "kaynak": "TRT Haber",
-   "baslik": "Bahreyn'de ikinci kez güvenlik alarmı verildi",
-   "ozet": "Bahreyn İçişleri Bakanlığı, bir kez daha \"mevcut bir tehlike uyarısı\" kapsamında vatandaşlara \"en yakın güvenli yere gitmeleri\" çağrısında bulundu.",
-   "link": "https://www.trthaber.com/haber/dunya/bahreynde-ikinci-kez-guvenlik-alarmi-verildi-964100.html",
-   "zaman": "2026-11-21T23:56:00+03:00",
-   "kelimeler": [
-    "alarm",
-    "bahre",
-    "guven",
-    "ikinc",
-    "kez",
-    "veril"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "de4ab4e1ea1b": {
    "id": "de4ab4e1ea1b",
    "kaynak": "NTV",
@@ -26471,9 +26429,18 @@
     "sehit",
     "uyele"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [],
+   "paylasildi": "2026-11-25T00:03:26.703760+03:00",
+   "ig_id": "18133473763695559",
+   "reels_id": "18148530925599416",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1171179849040689",
+   "slayt": 1,
+   "kanca": "Son dakika"
   },
   "6b8f8bf49cbe": {
    "id": "6b8f8bf49cbe",
@@ -26752,7 +26719,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "2e02f635597b": {
@@ -26943,9 +26911,103 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "2e02f635597b"
+  },
+  "a27797e16b6d": {
+   "id": "a27797e16b6d",
+   "kaynak": "Hürriyet",
+   "baslik": "Aralarında Özcan Deniz ile Deniz Çakır da var… Ünlülere yönelik soruşturmada 35 zanlı için gözaltı kararı",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı, ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında 35 şüpheli hakkında gözaltı kararı verildiğini bildirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-aralarinda-ozcan-deniz-ile-deniz-cakir-da-var-unlulere-yonelik-sorusturmada-35-zanli-icin-gozalti-karari-43389996",
+   "zaman": "2026-11-24T23:47:00+03:00",
+   "kelimeler": [
+    "35",
+    "arala",
+    "cakir",
+    "deniz",
+    "gozal",
+    "karar",
+    "ozcan",
+    "sorus",
+    "unlul",
+    "yonel",
+    "zanli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2d867e1a69e2"
+  },
+  "30bfcdfd1bb3": {
+   "id": "30bfcdfd1bb3",
+   "kaynak": "TRT Haber",
+   "baslik": "Nvidia CEO'su Huang, Trump'ın baskısıyla göreve döndüğü iddiasını reddetti",
+   "ozet": "ABD merkezli çip üreticisi Nvidia'nın Üst Yöneticiliğine CEO yeniden getirilen Jensen Huang, göreve dönüşünün Başkan Donald Trump'ın baskısı sonucu olmadığını ifade etti.",
+   "link": "https://www.trthaber.com/haber/dunya/nvidia-ceosu-huang-trumpin-baskisiyla-goreve-dondugu-iddiasini-reddetti-964374.html",
+   "zaman": "2026-11-24T23:54:00+03:00",
+   "kelimeler": [
+    "baski",
+    "ceo",
+    "dondu",
+    "gorev",
+    "huang",
+    "iddia",
+    "in",
+    "nvidi",
+    "redde",
+    "su",
+    "trump"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a3c7b2c4a66d"
+  },
+  "44394b44ca55": {
+   "id": "44394b44ca55",
+   "kaynak": "AA",
+   "baslik": "İsrail basını: Eisenkot gelecek hafta hükümeti kurduğunu açıklamayı planlıyor",
+   "ozet": "Eisenkot'un Herzog'dan 14 günlük ek süre talebinde bulunmayacağı ve İsrail vatandaşı Filistinlileri temsil eden partilerin dışarıdan desteğiyle bir azınlık hükümeti kurduğunu açıklayacağı iddia edildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-eisenkot-gelecek-hafta-hukumeti-kurdugunu-aciklamayi-planliyor/4136469",
+   "zaman": "2026-11-24T23:54:01+03:00",
+   "kelimeler": [
+    "acikl",
+    "basin",
+    "eisen",
+    "gelec",
+    "hafta",
+    "hukum",
+    "israi",
+    "kurdu",
+    "planl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a3fbc6aa14fd": {
+   "id": "a3fbc6aa14fd",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
+   "zaman": "2026-11-25T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "25",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "il",
+    "istan",
+    "izmir",
+    "kasim",
+    "nered"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "25.11 00:03:26  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): TRT Haber · Kabine üyelerinden şehit askerlerimiz için başsağlığı mesajı",
+  "25.11 00:01:19  2 yeni haber",
   "24.11 23:55:17  3 yeni haber",
   "24.11 23:46:06  2 yeni haber",
   "24.11 23:31:12  2 yeni haber",
@@ -27143,9 +27205,7 @@
   "22.11 17:46:29  3 yeni haber",
   "22.11 17:19:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Adana'da karşı şeride geçen cip otomobille çarpıştı: Kaza anı kamerada",
   "22.11 17:16:24  4 yeni haber",
-  "22.11 17:01:19  2 yeni haber",
-  "22.11 16:45:57  1 yeni haber",
-  "22.11 16:31:22  1 yeni haber"
+  "22.11 17:01:19  2 yeni haber"
  ],
  "otomatik": false
 }
