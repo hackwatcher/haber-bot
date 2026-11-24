@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "fe1ad229a494": {
-   "id": "fe1ad229a494",
-   "kaynak": "AA",
-   "baslik": "Japon ustalar, Kastamonu'daki bir köy okulunun yerden ısıtma sistemini yaptı",
-   "ozet": "Japon marangoz ve taş ustaları tarafından Kastamonu'nun Cide ilçesindeki bir köy okuluna yerden ısıtma sistemi yapıldı.",
-   "link": "https://www.aa.com.tr/tr/yasam/japon-ustalar-kastamonudaki-bir-koy-okulunun-yerden-isitma-sistemini-yapti/4133074",
-   "zaman": "2026-11-21T18:47:18+03:00",
-   "kelimeler": [
-    "daki",
-    "isitm",
-    "japon",
-    "kasta",
-    "koy",
-    "okulu",
-    "siste",
-    "ustal",
-    "yapti",
-    "yerde"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a162db644b71": {
-   "id": "a162db644b71",
-   "kaynak": "AA",
-   "baslik": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili oldu",
-   "ozet": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı yolları ve kaldırımları beyaza bürüdü, Büyükçekmece'de sağanak nedeniyle caddeler suyla doldu.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-oldu/4133081",
-   "zaman": "2026-11-21T18:54:20+03:00",
-   "kelimeler": [
-    "bazi",
-    "dolu",
-    "etkil",
-    "ilcel",
-    "istan",
-    "sagan",
-    "un"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "TRT Haber"
-   ]
-  },
   "1f54aff113f8": {
    "id": "1f54aff113f8",
    "kaynak": "TRT Haber",
@@ -25850,9 +25805,118 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "90f08c6b906f": {
+   "id": "90f08c6b906f",
+   "kaynak": "Hürriyet",
+   "baslik": "Muğla'da korkutan deprem",
+   "ozet": "AFAD, Muğla'nın Milas ilçesinde 4.6 büyüklüğünde deprem meydana geldiğini duyurdu.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-muglada-korkutan-deprem-43389775",
+   "zaman": "2026-11-24T18:48:00+03:00",
+   "kelimeler": [
+    "depre",
+    "korku",
+    "mugla"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "AA",
+    "Sözcü",
+    "NTV"
+   ]
+  },
+  "3aa48884f79c": {
+   "id": "3aa48884f79c",
+   "kaynak": "TRT Haber",
+   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
+   "ozet": "Muğla'nın Milas ilçesinde 4,6 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/muglada-46-buyuklugunde-deprem-964346.html",
+   "zaman": "2026-11-24T18:51:00+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "mugla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "90f08c6b906f"
+  },
+  "07086d39c949": {
+   "id": "07086d39c949",
+   "kaynak": "AA",
+   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
+   "ozet": "Muğla'nın Milas ilçesinde saat 18.39'da 4,6 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/muglada-4-6-buyuklugunde-deprem/4136118",
+   "zaman": "2026-11-24T18:54:21+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "mugla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "90f08c6b906f"
+  },
+  "0c8dc2272355": {
+   "id": "0c8dc2272355",
+   "kaynak": "Sözcü",
+   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/mugla-bodrum-deprem-24-kasim-2026-p384087",
+   "zaman": "2026-11-24T18:56:32+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "mugla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "90f08c6b906f"
+  },
+  "c0986a3faad7": {
+   "id": "c0986a3faad7",
+   "kaynak": "NTV",
+   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
+   "ozet": "Muğla'nın Milas ilçesinde saat 18.39'da 4,6 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.ntv.com.tr/gundem/muglada-46-buyuklugunde-deprem-1752419",
+   "zaman": "2026-11-24T18:58:11+03:00",
+   "kelimeler": [
+    "buyuk",
+    "depre",
+    "mugla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "90f08c6b906f"
+  },
+  "865fc304b84e": {
+   "id": "865fc304b84e",
+   "kaynak": "NTV",
+   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 24 Kasım 2026",
+   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 24 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-24-kasim-2026-1752420",
+   "zaman": "2026-11-24T19:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "24",
+    "afad",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "mugla",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "90f08c6b906f"
   }
  },
  "kayit": [
+  "24.11 19:01:22  1 yeni haber",
   "24.11 18:46:09  4 yeni haber",
   "24.11 18:31:22  3 yeni haber",
   "24.11 18:16:04  2 yeni haber",
@@ -26051,8 +26115,7 @@
   "22.11 12:45:56  7 yeni haber",
   "22.11 12:31:35  7 yeni haber",
   "22.11 12:16:22  3 yeni haber",
-  "22.11 12:04:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye, elektrikli battaniye ihracatıyla dış ticaretine sıcaklık kaza",
-  "22.11 12:01:19  5 yeni haber"
+  "22.11 12:04:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye, elektrikli battaniye ihracatıyla dış ticaretine sıcaklık kaza"
  ],
  "otomatik": false
 }
