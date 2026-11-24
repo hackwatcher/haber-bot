@@ -1,66 +1,5 @@
 {
  "haberler": {
-  "01bf1f06a742": {
-   "id": "01bf1f06a742",
-   "kaynak": "AA",
-   "baslik": "\"Fon soruşturması\"ndaki \"Gildencrest Capital\" için MASAK raporu hazırlandı",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında Gildencrest Capital hakkında, Mali Suçları Araştırma Kurulu (MASAK) tarafından rapor hazırlandığı bildirildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasindaki-gildencrest-capital-icin-masak-raporu-hazirlandi/4133148",
-   "zaman": "2026-11-21T20:35:46+03:00",
-   "kelimeler": [
-    "capit",
-    "fon",
-    "gilde",
-    "hazir",
-    "masak",
-    "ndaki",
-    "rapor",
-    "sorus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2771d4a4031c"
-  },
-  "9f3f9cdaf158": {
-   "id": "9f3f9cdaf158",
-   "kaynak": "AA",
-   "baslik": "Dışişleri Bakanı Fidan: Amerika-İran anlaşması küresel finansal krizin geriletilmesi manasında önemli",
-   "ozet": "Dışişleri Bakanı Fidan, \"Hürmüz'le ilgili süreç tıkanıklık içinde. Amerika-İran anlaşması sadece Hürmüz Boğazı’nın açılması için önemli değil, aslında küresel finansal krizin biraz daha geriletilmesi manasında önemli.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-amerika-iran-anlasmasi-kuresel-finansal-krizin-geriletilmesi-manasinda-onemli/4133147",
-   "zaman": "2026-11-21T20:35:35+03:00",
-   "kelimeler": [
-    "ameri",
-    "anlas",
-    "bakan",
-    "disis",
-    "fidan",
-    "finan",
-    "geril",
-    "iran",
-    "krizi",
-    "kures",
-    "manas",
-    "oneml"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "14cb4b411fef": {
-   "id": "14cb4b411fef",
-   "kaynak": "AA",
-   "baslik": "Özgün 4 koreografi \"Momentum\"da buluşuyor",
-   "ozet": "Çağdaş dansın farklı anlatım biçimlerini bir araya getiren \"Momentum\", 4 özgün koreografiyle 24 Kasım'dan itibaren Kadıköy Belediyesi Süreyya Opera Sahnesi'nde sanatseverlerin beğenisine sunulacak.",
-   "link": "https://www.aa.com.tr/tr/kultur/ozgun-4-koreografi-momentumda-bulusuyor/4133149",
-   "zaman": "2026-11-21T20:38:24+03:00",
-   "kelimeler": [
-    "bulus",
-    "koreo",
-    "momen",
-    "ozgun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "72d3b4afdfec": {
    "id": "72d3b4afdfec",
    "kaynak": "Sözcü",
@@ -336,35 +275,6 @@
    ],
    "durum": "yeni",
    "oncelikli": true
-  },
-  "e4c2e1c20c7d": {
-   "id": "e4c2e1c20c7d",
-   "kaynak": "AA",
-   "baslik": "Bakan Fidan: Türkiye’nin sahip olduğu gücü istikrarı tesis etmede kullanması onu sürekli aranan bir aktör hale getiriyor",
-   "ozet": "Dışişleri Bakanı Fidan, \"Türkiye’nin sahip olduğu gücü ve etkiyi, barışı, istikrarı ve refahı tesis etmede kullanması onu sürekli aranan bir aktör hale getiriyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiye-nin-sahip-oldugu-gucu-istikrari-tesis-etmede-kullanmasi-onu-surekli-aranan-bir-aktor-hale-getiriyor/4133147",
-   "zaman": "2026-11-21T20:35:35+03:00",
-   "kelimeler": [
-    "aktor",
-    "arana",
-    "bakan",
-    "etmed",
-    "fidan",
-    "getir",
-    "gucu",
-    "hale",
-    "istik",
-    "kulla",
-    "nin",
-    "oldug",
-    "onu",
-    "sahip",
-    "surek",
-    "tesis",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "56a85b3fe1ca": {
    "id": "56a85b3fe1ca",
@@ -12052,7 +11962,10 @@
     "zaabi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "c97116d4bfe9": {
    "id": "c97116d4bfe9",
@@ -25995,7 +25908,9 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "TRT Haber",
+    "Sözcü"
    ]
   },
   "095b16855bbb": {
@@ -26271,9 +26186,160 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5f6520a7fcaf"
+  },
+  "2edabad44ad1": {
+   "id": "2edabad44ad1",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu hafta içerisinde açıklanacak",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-hafta-icerisinde-aciklanacak-964348.html",
+   "zaman": "2026-11-24T18:57:00+03:00",
+   "kelimeler": [
+    "15",
+    "acikl",
+    "alim",
+    "bin",
+    "cumhu",
+    "duyur",
+    "erdog",
+    "hafta",
+    "iceri",
+    "ogret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c398cb438bc3"
+  },
+  "fe3131969033": {
+   "id": "fe3131969033",
+   "kaynak": "AA",
+   "baslik": "Eskişehir'den havalanan askeri helikopter kaza kırıma uğradı",
+   "ozet": "Milli Savunma Bakanlığı (MSB), eğitim maksadıyla Eskişehir'den havalanan Hava Kuvvetleri Komutanlığına ait AS-532 tipi bir helikopterin kaza kırıma uğradığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi/4136211",
+   "zaman": "2026-11-24T20:22:37+03:00",
+   "kelimeler": [
+    "asker",
+    "den",
+    "eskis",
+    "haval",
+    "helik",
+    "kaza",
+    "kirim",
+    "ugrad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5f6520a7fcaf"
+  },
+  "552660e507df": {
+   "id": "552660e507df",
+   "kaynak": "TRT Haber",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı istifa etti",
+   "ozet": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, görevinden istifa ettiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-964352.html",
+   "zaman": "2026-11-24T20:27:00+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "etti",
+    "genel",
+    "hayat",
+    "istif",
+    "parti",
+    "yardi",
+    "yazic"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7d1589e596b1"
+  },
+  "8fc5cf086fe5": {
+   "id": "8fc5cf086fe5",
+   "kaynak": "TRT Haber",
+   "baslik": "Microsoft küresel kesintinin ardından 'Kırmızı Alarm' ilan etti",
+   "ozet": "Microsoft, 1213 Kasım tarihlerinde yaşanan ve 24 saat süren tarihi hizmet kesintisinin mühendislik sistemlerindeki zafiyetleri ortaya çıkarması üzerine şirket içinde \"Kırmızı Alarm\" durumuna geçti.",
+   "link": "https://www.trthaber.com/haber/dunya/microsoft-kuresel-kesintinin-ardindan-kirmizi-alarm-ilan-etti-964353.html",
+   "zaman": "2026-11-24T20:36:00+03:00",
+   "kelimeler": [
+    "alarm",
+    "ardin",
+    "etti",
+    "ilan",
+    "kesin",
+    "kirmi",
+    "kures",
+    "micro"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6573011a6364": {
+   "id": "6573011a6364",
+   "kaynak": "XHABER",
+   "baslik": "SONDAKİKA | Milli Savunma Bakanlığı:",
+   "ozet": "Eğitim maksadıyla Eskişehir'den havalanan Hava Kuvvetlerimize ait AS-532 tipi helikopter kaza kırıma uğramıştır. Helikopterimizin enkazına ulaşılmış, arama kurtarma çalışmaları devam etmektedir.",
+   "link": "https://t.me/sahinozkan000/30901",
+   "zaman": "2026-11-24T20:37:12+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "SONDAKİKA | Milli Savunma Bakanlığı:\nEğitim maksadıyla Eskişehir'den havalanan Hava Kuvvetlerimize ait AS-532 tipi helikopter kaza kırıma uğramıştır.\nHelikopterimizin enkazına ulaşılmış, arama kurtarma çalışmaları devam etmektedir.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/R5yDGnKbLtwJ3G_VbEmxYpsk5e2Zx_9UI31Skys__pSBUnF8gqcqQzBJILHbCVZOZfpblGzbbjIAB_kL5hRWZ_XLDFoJnBmy_e6EyQIy0PStrrTGTSXf7KGDoLXagSpSWkECCe7A9yS-1oc6IYciz14r1AjvpT_-SHGVZ9t0APfE4FcPChdO3FuBxuhOnoZcNkizsXd0uAjjZGzoNt7Lu5yTPruOkZ5hyGs9DzaKJyIIRbOBDx1LbWI7D_vf0DtFWKWiE3yuaY41DL72tZlx2qrf9MuUGSyI-RhhY8enD7hov_ZmafcLR3QLWUafJLERI64aiLeU64qPhxNQdjR0bg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "bakan",
+    "milli",
+    "savun",
+    "sonda"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "6739fa9a5d16"
+  },
+  "f36b1d39b36a": {
+   "id": "f36b1d39b36a",
+   "kaynak": "AA",
+   "baslik": "\"Halkbank Üreten Kadınlar Buluşmaları\"nın yeni durağı Hatay oldu",
+   "ozet": "Halkbank Genel Müdürü Recep Süleyman Özdil, kadınların iş fikirleri geliştirmelerine ve yeni işbirlikleri kurmalarına katkı sağlamak amacıyla hayata geçirdikleri \"Halkbank Üreten Kadınlar Buluşmaları\" kapsamında girişimcilerle bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/halkbank-ureten-kadinlar-bulusmalarinin-yeni-duragi-hatay-oldu/4136284",
+   "zaman": "2026-11-24T20:42:25+03:00",
+   "kelimeler": [
+    "bulus",
+    "durag",
+    "halkb",
+    "hatay",
+    "kadin",
+    "nin",
+    "urete",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c684f65a8fba": {
+   "id": "c684f65a8fba",
+   "kaynak": "Sözcü",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
+   "zaman": "2026-11-24T20:42:57+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "etti",
+    "genel",
+    "gorev",
+    "hayat",
+    "istif",
+    "parti",
+    "yardi",
+    "yazic"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7d1589e596b1"
   }
  },
  "kayit": [
+  "24.11 20:46:37  2 yeni haber",
   "24.11 20:31:21  4 yeni haber",
   "24.11 20:16:14  3 yeni haber",
   "24.11 20:03:28  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Muğla'da korkutan deprem",
@@ -26472,8 +26538,7 @@
   "22.11 14:15:54  4 yeni haber",
   "22.11 14:01:23  5 yeni haber",
   "22.11 13:46:22  4 yeni haber",
-  "22.11 13:33:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyonluğa ulaştı",
-  "22.11 13:31:15  5 yeni haber"
+  "22.11 13:33:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyonluğa ulaştı"
  ],
  "otomatik": false
 }
