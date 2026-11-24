@@ -1,24 +1,5 @@
 {
  "haberler": {
-  "e1d59eb04582": {
-   "id": "e1d59eb04582",
-   "kaynak": "Hürriyet",
-   "baslik": "Güngören'de toprak altında kalan işçi kurtarıldı",
-   "ozet": "Güngören'de bir inşaatın temel çalışmaları sırasında toprak altında kalan işçi kurtarılarak hastaneye kaldırıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/gungorende-toprak-altinda-kalan-isci-kurtarildi-43386399",
-   "zaman": "2026-11-21T18:24:21+03:00",
-   "kelimeler": [
-    "altin",
-    "gungo",
-    "isci",
-    "kalan",
-    "kurta",
-    "topra"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "675b6ca210ef"
-  },
   "8e27d7e4a18a": {
    "id": "8e27d7e4a18a",
    "kaynak": "AA",
@@ -25779,9 +25760,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "831a1da464d0": {
+   "id": "831a1da464d0",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,25 değer kaybederek 10.965,93 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4136075",
+   "zaman": "2026-11-24T18:20:33+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca3e9b368294": {
+   "id": "ca3e9b368294",
+   "kaynak": "AA",
+   "baslik": "Yemen'de Husiler ile hükümet güçleri arasındaki çatışmalar sürüyor",
+   "ozet": "Yemen ordusu, Taiz vilayetinde Husilere ait mevzilere hava saldırıları düzenlediğini açıklarken, Husiler başkent Sana ve diğer 3 vilayetin Suudi Arabistan'ın hava saldırılarına maruz kaldığını iddia etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-husiler-ile-hukumet-gucleri-arasindaki-catismalar-suruyor/4136082",
+   "zaman": "2026-11-24T18:26:29+03:00",
+   "kelimeler": [
+    "arasi",
+    "catis",
+    "gucle",
+    "hukum",
+    "husil",
+    "suruy",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "db0ad65e53e0": {
+   "id": "db0ad65e53e0",
+   "kaynak": "AA",
+   "baslik": "Bakan Memişoğlu: Hastanelerimizde 24 saat kreş hizmeti ile anaokulu hizmetlerini vereceğimiz yapılanmaya giriyoruz",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"0-6 yaş ile ilgili bütün hastanelerimizde, büyük hastanelerimizde inşallah 24 saat kreş hizmeti ile anaokulu hizmetlerini vereceğimiz yapılanmaya giriyoruz. Şimdiye kadar 7 tane böyle merkezi açtık.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-hastanelerimizde-24-saat-kres-hizmeti-ile-anaokulu-hizmetlerini-verecegimiz-yapilanmaya-giriyoruz/4136083",
+   "zaman": "2026-11-24T18:27:06+03:00",
+   "kelimeler": [
+    "24",
+    "anaok",
+    "bakan",
+    "giriy",
+    "hasta",
+    "hizme",
+    "kres",
+    "memis",
+    "saat",
+    "verec",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "24.11 18:31:22  3 yeni haber",
   "24.11 18:16:04  2 yeni haber",
   "24.11 18:01:22  4 yeni haber",
   "24.11 17:49:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası:",
@@ -25980,8 +26020,7 @@
   "22.11 12:16:22  3 yeni haber",
   "22.11 12:04:05  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Türkiye, elektrikli battaniye ihracatıyla dış ticaretine sıcaklık kaza",
   "22.11 12:01:19  5 yeni haber",
-  "22.11 11:46:02  7 yeni haber",
-  "22.11 11:31:16  10 yeni haber"
+  "22.11 11:46:02  7 yeni haber"
  ],
  "otomatik": false
 }
