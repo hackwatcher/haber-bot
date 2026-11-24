@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "e24dd5486720": {
-   "id": "e24dd5486720",
-   "kaynak": "TRT Haber",
-   "baslik": "Şanlıurfa'da 2 otomobil çarpıştı: 2 ölü, 5 yaralı",
-   "ozet": "Şanlıurfa'nın Ceylanpınar ilçesinde iki otomobilin çarpıştığı kazada 2 kişi öldü, 5 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-2-otomobil-carpisti-2-olu-5-yarali-964091.html",
-   "zaman": "2026-11-21T21:29:00+03:00",
-   "kelimeler": [
-    "carpi",
-    "olu",
-    "otomo",
-    "sanli",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "56a85b3fe1ca": {
    "id": "56a85b3fe1ca",
    "kaynak": "NTV",
@@ -62,26 +45,6 @@
     "karar",
     "yemen",
     "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6ef86f8ac96d": {
-   "id": "6ef86f8ac96d",
-   "kaynak": "AA",
-   "baslik": "Fransa'da polis, göstericilere biber gazı ve copla müdahale etti",
-   "ozet": "Fransa'da sendika ve Sarı Yelekliler'in çağrısıyla gösteriler düzenlenirken, başkent Paris, Bordo, Marsilya dahil farklı kentlerde polis, göstericilere biber gazı ve copla müdahalede bulundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-gostericilere-biber-gazi-ve-copla-mudahale-etti/4133172",
-   "zaman": "2026-11-21T21:29:49+03:00",
-   "kelimeler": [
-    "biber",
-    "copla",
-    "etti",
-    "frans",
-    "gazi",
-    "goste",
-    "mudah",
-    "polis"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -25866,7 +25829,8 @@
     "AA",
     "Hürriyet",
     "NTV",
-    "Sözcü"
+    "Sözcü",
+    "BBC Türkçe"
    ]
   },
   "086ee6b47e87": {
@@ -26279,9 +26243,110 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5f6520a7fcaf"
+  },
+  "d5d493de3c8f": {
+   "id": "d5d493de3c8f",
+   "kaynak": "TRT Haber",
+   "baslik": "Eskişehir'de düşen helikopterde 5 askerimiz şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı, eğitim maksadıyla Eskişehir'den havalanan Hava Kuvvetleri'ne ait bir adet AS532 tipi helikopterin kaza kırıma uğradığını açıkladı. Bakanlık, helikopterde görevli 5 askerimizin şehit olduğunu belirtti.",
+   "link": "https://www.trthaber.com/haber/gundem/eskisehirde-dusen-helikopterde-5-askerimiz-sehit-oldu-964351.html",
+   "zaman": "2026-11-24T20:22:00+03:00",
+   "kelimeler": [
+    "asker",
+    "dusen",
+    "eskis",
+    "helik",
+    "sehit"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "Hürriyet"
+   ]
+  },
+  "8ced19ae3519": {
+   "id": "8ced19ae3519",
+   "kaynak": "AA",
+   "baslik": "Eskişehir'de kaza kırıma uğrayan helikopterde 5 asker şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan Hava Kuvvetleri Komutanlığına ait helikopterdeki 5 askerin şehit olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/eskisehirde-kaza-kirima-ugrayan-helikopterde-5-asker-sehit-oldu/4136211",
+   "zaman": "2026-11-24T20:22:37+03:00",
+   "kelimeler": [
+    "asker",
+    "eskis",
+    "helik",
+    "kaza",
+    "kirim",
+    "sehit",
+    "ugray"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d5d493de3c8f"
+  },
+  "93650f5adb9d": {
+   "id": "93650f5adb9d",
+   "kaynak": "Hürriyet",
+   "baslik": "Eskişehir'den acı haber! Helikopter kazasında 5 asker şehit oldu",
+   "ozet": "Son dakika haberi... Milli Savunma Bakanlığı, Eskişehir'de eğitim amacıyla havalanan Hava Kuvvetlerine ait AS-532 tipi helikopterin kaza kırıma uğradığını ve 5 askerin şehit olduğunu açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/msb-eskisehirdeki-helikopter-kazasinda-5-asker-sehit-oldu-43389840",
+   "zaman": "2026-11-24T20:25:00+03:00",
+   "kelimeler": [
+    "aci",
+    "asker",
+    "den",
+    "eskis",
+    "helik",
+    "kazas",
+    "sehit"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "d5d493de3c8f"
+  },
+  "ca64259ebcca": {
+   "id": "ca64259ebcca",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanlığı'ndan Hikmet Çetin için taziye mesajı",
+   "ozet": "Dışişleri Bakanlığı, eski TBMM Başkanı Hikmet Çetin’in vefatı dolayısıyla taziye mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-hikmet-cetin-icin-taziye-mesaji-43389888",
+   "zaman": "2026-11-24T21:14:02+03:00",
+   "kelimeler": [
+    "bakan",
+    "cetin",
+    "disis",
+    "hikme",
+    "mesaj",
+    "ndan",
+    "taziy"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "5751d8f8cf27": {
+   "id": "5751d8f8cf27",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
+   "ozet": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopterin kaza kırıma uğradığını bildirdi.",
+   "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo",
+   "zaman": "2026-11-24T21:29:07+03:00",
+   "kelimeler": [
+    "asker",
+    "bes",
+    "dustu",
+    "eskis",
+    "hayat",
+    "helik",
+    "kaybe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5f6520a7fcaf"
   }
  },
  "kayit": [
+  "24.11 21:31:08  2 yeni haber",
   "24.11 21:01:48  3 yeni haber",
   "24.11 20:46:37  2 yeni haber",
   "24.11 20:31:21  4 yeni haber",
@@ -26480,8 +26545,7 @@
   "22.11 14:46:08  3 yeni haber",
   "22.11 14:31:17  2 yeni haber",
   "22.11 14:15:54  4 yeni haber",
-  "22.11 14:01:23  5 yeni haber",
-  "22.11 13:46:22  4 yeni haber"
+  "22.11 14:01:23  5 yeni haber"
  ],
  "otomatik": false
 }
