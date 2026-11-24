@@ -1,34 +1,5 @@
 {
  "haberler": {
-  "c06c6a81ae98": {
-   "id": "c06c6a81ae98",
-   "kaynak": "AA",
-   "baslik": "Hamas Siyasi Büro Başkanı Hayye'ye göre İsrail'in \"Büyük İsrail\" hedefi söylemden eyleme geçti",
-   "ozet": "Hamas Siyasi Büro Başkanı Halil el-Hayye, İsrail'in \"Büyük İsrail\" hedefinin artık söylem aşamasından çıkarak uygulamaya geçirildiğini savundu.",
-   "link": "https://www.aa.com.tr/tr/dunya/hamas-siyasi-buro-baskani-hayyeye-gore-israilin-buyuk-israil-hedefi-soylemden-eyleme-gecti/4132995",
-   "zaman": "2026-11-21T16:34:04+03:00",
-   "kelimeler": [
-    "baska",
-    "buro",
-    "buyuk",
-    "eylem",
-    "gecti",
-    "gore",
-    "hamas",
-    "hayye",
-    "hedef",
-    "in",
-    "israi",
-    "siyas",
-    "soyle",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "ce90ff54ec02": {
    "id": "ce90ff54ec02",
    "kaynak": "TRT Haber",
@@ -17152,7 +17123,8 @@
     "semal"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "234677a57501": {
    "id": "234677a57501",
@@ -25633,10 +25605,137 @@
     "zenge"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "NTV"
+   ]
+  },
+  "04c87c39e206": {
+   "id": "04c87c39e206",
+   "kaynak": "TRT Haber",
+   "baslik": "Van semalarında mercek bulutu oluştu",
+   "ozet": "Van semalarında mercek bulutu oluştu. Sabah oluşan ve akşam saatlerine kadar şeklini koruyan bulut, vatandaşların ilgisini çekti.",
+   "link": "https://www.trthaber.com/haber/yasam/van-semalarinda-mercek-bulutu-olustu-964333.html",
+   "zaman": "2026-11-24T16:22:00+03:00",
+   "kelimeler": [
+    "bulut",
+    "merce",
+    "olust",
+    "semal",
+    "van"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5fddb7eac25f"
+  },
+  "2f978ea7ef03": {
+   "id": "2f978ea7ef03",
+   "kaynak": "TRT Haber",
+   "baslik": "Şehit öğretmen Şenay Aybüke Yalçın 24 Kasım'da unutulmadı",
+   "ozet": "Batman'ın Kozluk ilçesinde terör örgütü PKK üyelerinin saldırısında şehit olan öğretmen Şenay Aybüke Yalçın, 24 Kasım Öğretmenler Günü dolayısıyla Çorum'un Osmancık ilçesindeki kabri başında anıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/sehit-ogretmen-senay-aybuke-yalcin-24-kasimda-unutulmadi-964334.html",
+   "zaman": "2026-11-24T16:33:00+03:00",
+   "kelimeler": [
+    "24",
+    "aybuk",
+    "kasim",
+    "ogret",
+    "sehit",
+    "senay",
+    "unutu",
+    "yalci"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4d2268037033"
+  },
+  "13142cf5be7a": {
+   "id": "13142cf5be7a",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan \"Uluslararası Kafkasya Kongresi\" mesajı",
+   "ozet": "Cumhurbaşkanı Erdoğan, Kafkasya'nın tarihinin Türkiye'nin de tarihi olduğunu belirterek, ortak geçmişten alınan güçle gelecek nesillere barış ve güven içinde yaşayacakları bir bölge bırakma sorumluluğu taşıdıklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-uluslararasi-kafkasya-kongresi-mesaji/4135948",
+   "zaman": "2026-11-24T16:37:02+03:00",
+   "kelimeler": [
+    "cumhu",
+    "dan",
+    "erdog",
+    "kafka",
+    "kongr",
+    "mesaj",
+    "ulusl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a61eb6405ea8"
+  },
+  "d1498b0f587f": {
+   "id": "d1498b0f587f",
+   "kaynak": "AA",
+   "baslik": "Küresel ham çelik üretimi ekimde yüzde 1,1 azaldı",
+   "ozet": "Küresel ham çelik üretimi ekimde geçen yılın aynı ayına göre yüzde 1,1 azalarak 142,4 milyon ton oldu.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-ham-celik-uretimi-ekimde-yuzde-1-1-azaldi/4135951",
+   "zaman": "2026-11-24T16:38:01+03:00",
+   "kelimeler": [
+    "azald",
+    "celik",
+    "ekimd",
+    "ham",
+    "kures",
+    "ureti",
+    "yuzde"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "4d848af2a56f": {
+   "id": "4d848af2a56f",
+   "kaynak": "Hürriyet",
+   "baslik": "Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası: 9 şüpheli mahkemede",
+   "ozet": "KKTC’de 27 kişinin hayatını kaybettiği gemi kazasına ilişkin 9 şüphelinin yargılanmasına Girne Kaza Mahkemesi’nde devam edildi. Duruşmada polis yetkilisi, gemideki hasarın 400 liralık yapıştırıcıyla onarılıp ardından 79 sefer yapıldığını ileri sürdü.",
+   "link": "https://www.hurriyet.com.tr/gundem/girnede-batan-gemi-ve-kayip-27-can-400-liralik-yapistirici-iddiasi-9-supheli-mahkemede-43389621",
+   "zaman": "2026-11-24T16:39:51+03:00",
+   "kelimeler": [
+    "27",
+    "400",
+    "batan",
+    "can",
+    "gemi",
+    "girne",
+    "iddia",
+    "kayip",
+    "liral",
+    "mahke",
+    "suphe",
+    "yapis"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "3300c81aeafb": {
+   "id": "3300c81aeafb",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan'dan Kafkasya mesajı. \"Barış için çalışacağız\"",
+   "ozet": "Cumhurbaşkanı Erdoğan, Kafkasya'nın ortak tarihine ve bölgesel iş birliğine dikkat çekerek Zengezur Geçişinin açılmasıyla Türkiye ile Türk dünyası arasındaki bağlantının güçleneceğin belirtti.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-kafkasya-mesaji-baris-icin-calisacagiz-1752410",
+   "zaman": "2026-11-24T16:40:22+03:00",
+   "kelimeler": [
+    "baris",
+    "calis",
+    "cumhu",
+    "dan",
+    "erdog",
+    "kafka",
+    "mesaj"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a61eb6405ea8"
   }
  },
  "kayit": [
+  "24.11 16:46:17  2 yeni haber",
   "24.11 16:31:43  4 yeni haber",
   "24.11 16:15:53  6 yeni haber",
   "24.11 16:04:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kemal Kılıçdaroğlu:",
@@ -25835,8 +25934,7 @@
   "22.11 10:31:36  3 yeni haber",
   "22.11 10:16:03  2 yeni haber",
   "22.11 10:01:28  5 yeni haber",
-  "22.11 09:45:55  4 yeni haber",
-  "22.11 09:31:09  1 yeni haber"
+  "22.11 09:45:55  4 yeni haber"
  ],
  "otomatik": false
 }
