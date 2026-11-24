@@ -1,57 +1,5 @@
 {
  "haberler": {
-  "6658c126e15b": {
-   "id": "6658c126e15b",
-   "kaynak": "NTV",
-   "baslik": "İstanbul'da kış başlıyor: Bahar havası gidiyor, sıcaklık 10 derece düşecek",
-   "ozet": "Hava sıcaklıklarının bahar değerlerinde seyrettiği İstanbul kışa geçiş yapıyor. Hafta sonu aralıklı sağanak geçişlerinin yaşanacağı megakent, yeni haftada 10 derece birden soğuyacak.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-kis-basliyor-bahar-havasi-gidiyor-sicaklik-10-derece-dusecek-1751839",
-   "zaman": "2026-11-21T08:26:01+03:00",
-   "kelimeler": [
-    "10",
-    "bahar",
-    "basli",
-    "derec",
-    "dusec",
-    "gidiy",
-    "havas",
-    "istan",
-    "kis",
-    "sicak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "606e86085529": {
-   "id": "606e86085529",
-   "kaynak": "TRT Haber",
-   "baslik": "Diyarbakır'da uyuşturucu operasyonu: 20 şüpheli tutuklandı",
-   "ozet": "Diyarbakır'da düzenlenen uyuşturucu kullanımı ve ticaretinin önlenmesine yönelik operasyonlarda yakalanan 161 şüpheliden 20'si tutuklandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-uyusturucu-operasyonu-20-supheli-tutuklandi-964029.html",
-   "zaman": "2026-11-21T08:22:00+03:00",
-   "kelimeler": [
-    "20",
-    "diyar",
-    "opera",
-    "suphe",
-    "tutuk",
-    "uyust"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-21T08:48:27.671202+03:00",
-   "ig_id": "18058548383811487",
-   "reels_id": "18108829571321601",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2161528507906301",
-   "slayt": 5,
-   "kanca": "161 ŞÜPHELİ YAKALANDI",
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "8402ab6d0dcf": {
    "id": "8402ab6d0dcf",
    "kaynak": "XHABER",
@@ -23272,9 +23220,54 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ba3cf2235e84": {
+   "id": "ba3cf2235e84",
+   "kaynak": "Sözcü",
+   "baslik": "Kartal Belediyesi'ne \"rüşvet\" operasyonu... 10 kişi gözaltına alındı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-kartal-belediyesi-ne-rusvet-operasyonu-10-kisi-gozaltina-alindi-p383893",
+   "zaman": "2026-11-24T08:29:19+03:00",
+   "kelimeler": [
+    "10",
+    "alind",
+    "beled",
+    "gozal",
+    "karta",
+    "kisi",
+    "opera",
+    "rusve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "89ca5d7c7114": {
+   "id": "89ca5d7c7114",
+   "kaynak": "NTV",
+   "baslik": "Kartal Belediyesi'ne kentsel dönüşüm operasyonu. 10 şüpheli gözaltında",
+   "ozet": "Kartal Belediyesi’ne yönelik düzenlenen operasyonda belediye yetkililerinin de aralarında olduğu 10 şüpheli gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/kartal-belediyesine-kentsel-donusum-operasyonu-10-supheli-gozaltinda-1752285",
+   "zaman": "2026-11-24T08:30:19+03:00",
+   "kelimeler": [
+    "10",
+    "beled",
+    "donus",
+    "gozal",
+    "karta",
+    "kents",
+    "opera",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba3cf2235e84"
   }
  },
  "kayit": [
+  "24.11 08:31:11  1 yeni haber",
   "24.11 08:16:09  1 yeni haber",
   "24.11 07:47:11  1 yeni haber",
   "24.11 07:15:59  10 yeni haber",
@@ -23473,8 +23466,7 @@
   "21.11 22:01:15  3 yeni haber",
   "21.11 21:46:01  2 yeni haber",
   "21.11 21:31:07  2 yeni haber",
-  "21.11 21:15:57  3 yeni haber",
-  "21.11 21:01:15  1 yeni haber"
+  "21.11 21:15:57  3 yeni haber"
  ],
  "otomatik": false
 }
