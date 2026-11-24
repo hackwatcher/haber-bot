@@ -23754,7 +23754,10 @@
     "ogret"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "8d571b708731": {
    "id": "8d571b708731",
@@ -25991,7 +25994,9 @@
    ],
    "durum": "yeni",
    "oncelikli": true,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "095b16855bbb": {
    "id": "095b16855bbb",
@@ -26013,9 +26018,263 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "7d1589e596b1"
+  },
+  "c2cdacfed068": {
+   "id": "c2cdacfed068",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu bu hafta içerisinde açıklanacak",
+   "ozet": "Cumhurbaşkanı Erdoğan, \"2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-bu-hafta-icerisinde-aciklanacak/4135893",
+   "zaman": "2026-11-24T16:12:21+03:00",
+   "kelimeler": [
+    "15",
+    "acikl",
+    "alim",
+    "bin",
+    "cumhu",
+    "duyur",
+    "erdog",
+    "hafta",
+    "iceri",
+    "ogret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c398cb438bc3"
+  },
+  "67fb7cb3f490": {
+   "id": "67fb7cb3f490",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan: Öğretmenimiz bu ülke için hayati önem arz ediyor",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gençlerimizin bilgili, şuurlu, özgüvenli, en önemlisi de köklerinin idrakinde bir şekilde yetişmesine vesile olan öğretmenlerimiz bu ülke için hayati önem arz ediyor.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ogretmenimiz-bu-ulke-icin-hayati-onem-arz-ediyor-964348.html",
+   "zaman": "2026-11-24T18:57:00+03:00",
+   "kelimeler": [
+    "arz",
+    "cumhu",
+    "ediyo",
+    "erdog",
+    "hayat",
+    "ogret",
+    "onem",
+    "ulke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c398cb438bc3"
+  },
+  "ab45e265d943": {
+   "id": "ab45e265d943",
+   "kaynak": "TRT Haber",
+   "baslik": "NASA Mars'ta parmak izini andıran sıra dışı kaya dizilimleri görüntüledi",
+   "ozet": "NASA'nın Mars Yörünge Kaşifi uydusu, Kızıl Gezegen'in Daedalia Planum bölgesinde 5 ila 10 metre aralıklarla düzenli kavisler çizen parlak kaya sıraları tespit etti.",
+   "link": "https://www.trthaber.com/haber/dunya/nasa-marsta-parmak-izini-andiran-sira-disi-kaya-dizilimleri-goruntuledi-964349.html",
+   "zaman": "2026-11-24T20:10:00+03:00",
+   "kelimeler": [
+    "andir",
+    "disi",
+    "dizil",
+    "gorun",
+    "izini",
+    "kaya",
+    "mars",
+    "nasa",
+    "parma",
+    "sira",
+    "ta"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "66f33f2bb7b8": {
+   "id": "66f33f2bb7b8",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'de ateşkesi 6 bin 405 kez ihlal ettiği, 1690 Filistinliyi öldürdüğü açıklandı",
+   "ozet": "Gazze'deki hükümet, İsrail'in ateşkes kapsamında insani yardım tırlarının girişine ilişkin yükümlülüklerini yüzde 33, sınır kapılarındaki geçişlere ilişkin taahhütlerini ise yüzde 37 oranında yerine getirdiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-ateskesi-6-bin-405-kez-ihlal-ettigi-1690-filistinliyi-oldurdugu-aciklandi-/4136191",
+   "zaman": "2026-11-24T20:15:07+03:00",
+   "kelimeler": [
+    "1690",
+    "405",
+    "acikl",
+    "atesk",
+    "bin",
+    "ettig",
+    "filis",
+    "gazze",
+    "ihlal",
+    "in",
+    "israi",
+    "kez",
+    "oldur"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "e0e0e823e219": {
+   "id": "e0e0e823e219",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail'in Gazze'de ateşkesi 6 bin 405 kez ihlal ettiği, 1690 Filistinliyi öldürdüğü açıklandı",
+   "ozet": "Gazze'deki hükümet, İsrail'in 10 Ekim 2025'te yürürlüğe giren ateşkesi 6 bin 405 kez ihlal ettiğini, bu süreçte düzenlediği saldırılarda 1690 Filistinlinin hayatını kaybettiğini, 6 bin 120 kişinin yaralandığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-gazzede-ateskesi-6-bin-405-kez-ihlal-ettigi-1690-filistinliyi-oldurdugu-aciklandi-964350.html",
+   "zaman": "2026-11-24T20:19:00+03:00",
+   "kelimeler": [
+    "1690",
+    "405",
+    "acikl",
+    "atesk",
+    "bin",
+    "ettig",
+    "filis",
+    "gazze",
+    "ihlal",
+    "in",
+    "israi",
+    "kez",
+    "oldur",
+    "soyki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "66f33f2bb7b8"
+  },
+  "1d788a657314": {
+   "id": "1d788a657314",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Genel Başkan Yardımcısı Yazıcı, görevinden istifa etti",
+   "ozet": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, görevinden istifa etti. Yazıcı, açıklamasında \"Deruhte etmekte olduğum Merkez Yürütme Kurulu (MYK) ve Merkez Karar ve Yönetim Kurulu (MKYK) üyeliği görevlerimden istifa ediyorum\" ifadelerini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-ak-parti-genel-baskan-yardimcisi-yazici-gorevinden-istifa-etti-43389838",
+   "zaman": "2026-11-24T20:20:00+03:00",
+   "kelimeler": [
+    "ak",
+    "baska",
+    "etti",
+    "genel",
+    "gorev",
+    "istif",
+    "parti",
+    "yardi",
+    "yazic"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "9f0864dadb8f": {
+   "id": "9f0864dadb8f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "AKP Genel Başkan Yardımcısı Hayati Yazıcı görevlerinden istifa etti",
+   "ozet": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, oğlu Mustafa Yazıcı hakkındaki iddiaların ardından partideki görevlerinden istifa ettiğini açıkladı.",
+   "link": "https://www.bbc.com/turkce/articles/c5vg2nxdkmdro",
+   "zaman": "2026-11-24T20:20:02+03:00",
+   "kelimeler": [
+    "akp",
+    "baska",
+    "etti",
+    "genel",
+    "gorev",
+    "hayat",
+    "istif",
+    "yardi",
+    "yazic"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7d1589e596b1"
+  },
+  "5f6520a7fcaf": {
+   "id": "5f6520a7fcaf",
+   "kaynak": "TRT Haber",
+   "baslik": "Eğitim için havalanan helikopter, Eskişehir'de düştü",
+   "ozet": "Milli Savunma Bakanlığı, eğitim maksadıyla Eskişehir'den havalanan Hava Kuvvetleri'ne ait bir adet AS532 tipi helikopterin kaza kırıma uğradığını açıkladı. Bakanlık, helikopterin enkazına ulaşıldığını, arama kurtarma çalışmalarının devam ettiğini belirtti.",
+   "link": "https://www.trthaber.com/haber/gundem/egitim-icin-havalanan-helikopter-eskisehirde-dustu-964351.html",
+   "zaman": "2026-11-24T20:22:00+03:00",
+   "kelimeler": [
+    "dustu",
+    "egiti",
+    "eskis",
+    "haval",
+    "helik"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA",
+    "Hürriyet",
+    "NTV"
+   ]
+  },
+  "086ee6b47e87": {
+   "id": "086ee6b47e87",
+   "kaynak": "AA",
+   "baslik": "MSB: Eskişehir'den havalanan Hava Kuvvetlerimize ait AS-532 tipi helikopter kaza kırıma uğramıştır",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/gundem/msb-eskisehirden-havalanan-hava-kuvvetlerimize-ait-as-532-tipi-helikopter-kaza-kirima-ugramistir/4136211",
+   "zaman": "2026-11-24T20:22:37+03:00",
+   "kelimeler": [
+    "532",
+    "ait",
+    "as",
+    "den",
+    "eskis",
+    "hava",
+    "haval",
+    "helik",
+    "kaza",
+    "kirim",
+    "kuvve",
+    "msb",
+    "tipi",
+    "ugram"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5f6520a7fcaf"
+  },
+  "cf2e4916e729": {
+   "id": "cf2e4916e729",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB duyurdu: Eğitim maksadıyla havalanan helikopter kaza kırıma uğradı",
+   "ozet": "Milli Savunma Bakanlığı, eğitim maksadıyla Eskişehir'den havalanan Hava Kuvvetlerine ait AS-532 tipi helikopterin kaza kırıma uğradığını açıkladı. Açıklamada, \"Helikopterimizin enkazına ulaşılmış, arama kurtarma çalışmaları devam etmektedir.\" denildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/msb-duyurdu-egitim-maksadiyla-havalanan-helikopter-kaza-kirima-ugradi-43389840",
+   "zaman": "2026-11-24T20:25:00+03:00",
+   "kelimeler": [
+    "duyur",
+    "egiti",
+    "haval",
+    "helik",
+    "kaza",
+    "kirim",
+    "maksa",
+    "msb",
+    "ugrad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5f6520a7fcaf"
+  },
+  "8864aa4a6200": {
+   "id": "8864aa4a6200",
+   "kaynak": "NTV",
+   "baslik": "Eskişehir'de askeri helikopter düştü",
+   "ozet": "Milli Savunma Bakanlığı (MSB), eğitim amacıyla Eskişehir’den havalanan Hava Kuvvetleri Komutanlığına ait AS-532 tipi helikopterin kaza kırıma uğradığını bildirdi.",
+   "link": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+   "zaman": "2026-11-24T20:28:30+03:00",
+   "kelimeler": [
+    "asker",
+    "dustu",
+    "eskis",
+    "helik"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5f6520a7fcaf"
   }
  },
  "kayit": [
+  "24.11 20:31:21  4 yeni haber",
   "24.11 20:16:14  3 yeni haber",
   "24.11 20:03:28  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Muğla'da korkutan deprem",
   "24.11 20:02:05  7 yeni haber",
@@ -26214,8 +26473,7 @@
   "22.11 14:01:23  5 yeni haber",
   "22.11 13:46:22  4 yeni haber",
   "22.11 13:33:35  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyonluğa ulaştı",
-  "22.11 13:31:15  5 yeni haber",
-  "22.11 13:16:03  5 yeni haber"
+  "22.11 13:31:15  5 yeni haber"
  ],
  "otomatik": false
 }
