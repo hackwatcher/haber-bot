@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "2b5bac817ac5": {
-   "id": "2b5bac817ac5",
-   "kaynak": "NTV",
-   "baslik": "Antalya'da eşini silahla öldüren kişi intihar etti",
-   "ozet": "Antalya’nın Gazipaşa ilçesinde yaşlı adam, eşini tüfekle vurup öldürdükten sonra aynı tüfekle yaşamına son verdi.",
-   "link": "https://www.ntv.com.tr/turkiye/antalyada-esini-silahla-olduren-kisi-intihar-etti-1751972",
-   "zaman": "2026-11-22T00:22:49+03:00",
-   "kelimeler": [
-    "antal",
-    "esini",
-    "etti",
-    "intih",
-    "kisi",
-    "oldur",
-    "silah"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e6f4eba7abc0"
-  },
-  "b5ffaeee2d95": {
-   "id": "b5ffaeee2d95",
-   "kaynak": "TRT Haber",
-   "baslik": "Silah kazasında yaralanan bir askerimiz şehit oldu",
-   "ozet": "Şırnak'ta silah kazasında yaralanan İstihbarat Astsubay Çavuş Yalın Gergün, kaldırıldığı hastanede şehit oldu.",
-   "link": "https://www.trthaber.com/haber/gundem/silah-kazasinda-yaralanan-bir-askerimiz-sehit-oldu-964102.html",
-   "zaman": "2026-11-22T00:28:00+03:00",
-   "kelimeler": [
-    "asker",
-    "kazas",
-    "sehit",
-    "silah",
-    "yaral"
-   ],
-   "durum": "hata",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "AA",
-    "Hürriyet"
-   ],
-   "hata": "Instagram görseli işleyemedi (ERROR)"
-  },
-  "94eaaf47276b": {
-   "id": "94eaaf47276b",
-   "kaynak": "AA",
-   "baslik": "Bitcoin, sert satış dalgasının ardından yeniden 60 bin doların üzerine çıktı",
-   "ozet": "Kripto türev piyasalarındaki sert satış ve tasfiye dalgasının ardından tepki alımlarıyla karşılaşan bitcoinin fiyatı yeniden 60 bin dolar kritik seviyesinin üzerine yükseldi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti/4133256",
-   "zaman": "2026-11-22T00:28:20+03:00",
-   "kelimeler": [
-    "60",
-    "ardin",
-    "bin",
-    "bitco",
-    "cikti",
-    "dalga",
-    "dolar",
-    "satis",
-    "sert",
-    "uzeri",
-    "yenid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "b5ff1678c4f5"
-  },
   "12412e7194e2": {
    "id": "12412e7194e2",
    "kaynak": "TRT Haber",
@@ -154,72 +88,6 @@
    "oncelikli": true,
    "tekrar_of": "b5ffaeee2d95"
   },
-  "eb55dc23833b": {
-   "id": "eb55dc23833b",
-   "kaynak": "AA",
-   "baslik": "Suudi Arabistan'daki Etnospor Kültür Festivali'nin üçüncü günü sona erdi",
-   "ozet": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nin üçüncü gününde geleneksel güreş, Türk el sanatları ve atlı okçuluk ziyaretçilerin en çok ilgi gösterdiği etkinlikler oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/suudi-arabistandaki-etnospor-kultur-festivalinin-ucuncu-gunu-sona-erdi/4133257",
-   "zaman": "2026-11-22T00:28:33+03:00",
-   "kelimeler": [
-    "arabi",
-    "daki",
-    "erdi",
-    "etnos",
-    "festi",
-    "gunu",
-    "kultu",
-    "nin",
-    "sona",
-    "suudi",
-    "ucunc"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "510f92a0a3f8": {
-   "id": "510f92a0a3f8",
-   "kaynak": "AA",
-   "baslik": "Bazı illerde sağanak etkili oldu",
-   "ozet": "Bilecik, Erzurum, Ardahan ve Trabzon'un bazı ilçelerinde sağanak yaşamı olumsuz etkiledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-etkili-oldu/4133261",
-   "zaman": "2026-11-22T00:29:09+03:00",
-   "kelimeler": [
-    "bazi",
-    "etkil",
-    "iller",
-    "sagan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d6a3ea2b8871"
-  },
-  "dc3d77d8c3bd": {
-   "id": "dc3d77d8c3bd",
-   "kaynak": "AA",
-   "baslik": "İsrail'de Eisenkot'tan Netanyahu'nun Likud Partisi'ni \"müzakere maratonu\"na davet etme talimatı",
-   "ozet": "İsrail'de seçimlerin ardından hükümet kurma yetkisi alan Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun Likud Partisi'ni, geniş tabanlı bir hükümet kurma arayışları için \"müzakere maratonu\"na davet etme talimatı verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-likud-partisini-muzakere-maratonuna-davet-etme-talimati/4133259",
-   "zaman": "2026-11-22T00:28:53+03:00",
-   "kelimeler": [
-    "davet",
-    "eisen",
-    "etme",
-    "israi",
-    "likud",
-    "marat",
-    "muzak",
-    "na",
-    "netan",
-    "ni",
-    "nun",
-    "parti",
-    "talim",
-    "tan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3b92194949f3": {
    "id": "3b92194949f3",
    "kaynak": "Sözcü",
@@ -246,48 +114,6 @@
    "slayt": 5,
    "kanca": "VAN SINIRINDA SARSINTI"
   },
-  "175ac60ed71c": {
-   "id": "175ac60ed71c",
-   "kaynak": "AA",
-   "baslik": "İsrail saldırılarında ailelerini kaybeden Gazzeli çocuklar \"güvenli bir gelecek\" talebiyle gösteri yaptı",
-   "ozet": "İsrail'in saldırılarında ailelerini kaybeden çocuklar, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla düzenlenen gösteride, eğitim, sağlık ve güvenli bir gelecek çağrısı yaptı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-ailelerini-kaybeden-gazzeli-cocuklar-guvenli-bir-gelecek-talebiyle-gosteri-yapti/4133260",
-   "zaman": "2026-11-22T00:29:06+03:00",
-   "kelimeler": [
-    "ailel",
-    "cocuk",
-    "gazze",
-    "gelec",
-    "goste",
-    "guven",
-    "israi",
-    "kaybe",
-    "saldi",
-    "taleb",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7a57a435afc5": {
-   "id": "7a57a435afc5",
-   "kaynak": "AA",
-   "baslik": "Bazı illerde sağanak ve şiddetli rüzgar etkili oldu",
-   "ozet": "Bilecik, Erzurum, Ardahan ve Trabzon'un bazı ilçelerinde sağanak yaşamı olumsuz etkiledi, Muş'ta ise şiddetli rüzgar yaşamı olumsuz etkiledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-ve-siddetli-ruzgar-etkili-oldu/4133261",
-   "zaman": "2026-11-22T00:29:09+03:00",
-   "kelimeler": [
-    "bazi",
-    "etkil",
-    "iller",
-    "ruzga",
-    "sagan",
-    "sidde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "79fc82358594"
-  },
   "91f961e24559": {
    "id": "91f961e24559",
    "kaynak": "AA",
@@ -306,27 +132,6 @@
     "oturu",
     "sorul",
     "yanit"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5b46d7c664c5": {
-   "id": "5b46d7c664c5",
-   "kaynak": "AA",
-   "baslik": "İngiltere'de yüzlerce eylemci yapay zekaya yönelik daha sert düzenlemeler istedi",
-   "ozet": "Londra'da bir araya gelen yüzlerce eylemci, yapay zeka teknolojilerinin hızlı gelişmesinin ortaya çıkaracağı potansiyel tehlikelere işaret ederek yapay zekaya karşı daha sert düzenlemeler istedi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yuzlerce-eylemci-yapay-zekaya-yonelik-daha-sert-duzenlemeler-istedi/4133258",
-   "zaman": "2026-11-22T00:28:43+03:00",
-   "kelimeler": [
-    "duzen",
-    "eylem",
-    "ingil",
-    "isted",
-    "sert",
-    "yapay",
-    "yonel",
-    "yuzle",
-    "zekay"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -26934,11 +26739,20 @@
     "vali",
     "valis"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA"
-   ]
+   ],
+   "paylasildi": "2026-11-25T00:33:32.588231+03:00",
+   "ig_id": "18122635940117274",
+   "reels_id": "18157158076495434",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1725938768862642",
+   "slayt": 5,
+   "kanca": "41 İLİN VALİSİ DEĞİŞTİ"
   },
   "5a83c74ff308": {
    "id": "5a83c74ff308",
@@ -27021,9 +26835,127 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "ff54f51a386a"
+  },
+  "b58a16d01800": {
+   "id": "b58a16d01800",
+   "kaynak": "TRT Haber",
+   "baslik": "Ünlülere yönelik uyuşturucu ve fuhuş soruşturması: 19 gözaltı",
+   "ozet": "İstanbul'da ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturmasında haklarında gözaltı kararı verilen 35 şüpheliden 19'u gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasi-19-gozalti-964370.html",
+   "zaman": "2026-11-24T23:24:00+03:00",
+   "kelimeler": [
+    "19",
+    "fuhus",
+    "gozal",
+    "sorus",
+    "unlul",
+    "uyust",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2e02f635597b"
+  },
+  "6ca30373464e": {
+   "id": "6ca30373464e",
+   "kaynak": "Hürriyet",
+   "baslik": "Valiler kararnamesi Resmi Gazete'de yayımlandı! 41 ilin valisi değişti",
+   "ozet": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze alındı, 41 ilin valisi değişti. Ağrı Valisi Önder Bozkurt, AFAD Başkanlığı görevine getirildi",
+   "link": "https://www.hurriyet.com.tr/gundem/valiler-kararnamesi-resmi-gazetede-yayimlandi-19-ilin-valisi-degisti-43390018",
+   "zaman": "2026-11-25T00:13:00+03:00",
+   "kelimeler": [
+    "41",
+    "degis",
+    "gazet",
+    "ilin",
+    "karar",
+    "resmi",
+    "valil",
+    "valis",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "06ecfc2bf63e": {
+   "id": "06ecfc2bf63e",
+   "kaynak": "TRT Haber",
+   "baslik": "AFAD Başkanlığına Önder Bozkurt atandı",
+   "ozet": "Afet ve Acil Durum Yönetimi AFAD Başkanlığına Ağrı Valisi Önder Bozkurt getirildi.",
+   "link": "https://www.trthaber.com/haber/gundem/afad-baskanligina-onder-bozkurt-atandi-964376.html",
+   "zaman": "2026-11-25T00:17:00+03:00",
+   "kelimeler": [
+    "afad",
+    "atand",
+    "baska",
+    "bozku",
+    "onder"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
+  },
+  "986e70811ce2": {
+   "id": "986e70811ce2",
+   "kaynak": "Sözcü",
+   "baslik": "AFAD Başkanı Önder Bozkurt oldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/yeni-afad-baskani-onder-bozkurt-p384133",
+   "zaman": "2026-11-25T00:20:14+03:00",
+   "kelimeler": [
+    "afad",
+    "baska",
+    "bozku",
+    "onder"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "06ecfc2bf63e"
+  },
+  "8b38671ac812": {
+   "id": "8b38671ac812",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Eski Fransa Cumhurbaşkanı Sarkozy ve eşi Carla Bruni yargılanacak",
+   "ozet": "Eski Fransa cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni-Sarkozy, dönemin Libya lideri Muammer Kaddafi'nin 2007'de Fransa'daki seçim kampanyasına usulsüz şekilde mali destek sağladığı iddialarıyla ilgili gelecek yıl yargılanacak.",
+   "link": "https://www.bbc.com/turkce/articles/cmqj5qzzq02qo",
+   "zaman": "2026-11-25T00:21:16+03:00",
+   "kelimeler": [
+    "bruni",
+    "carla",
+    "cumhu",
+    "esi",
+    "eski",
+    "frans",
+    "sarko",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9732664f2a29": {
+   "id": "9732664f2a29",
+   "kaynak": "Hürriyet",
+   "baslik": "Basın İlan Kurumu ile TÜRKPATENT arasında işbirliği",
+   "ozet": "Basın İlan Kurumu (BİK) ile Türk Patent ve Marka Kurumu (TÜRKPATENT), basın sektöründe sınai mülkiyet haklarına ilişkin farkındalığın artırılması ve kurumlar arası işbirliğinin geliştirilmesi amacıyla protokol imzaladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/basin-ilan-kurumu-ile-turkpatent-arasinda-isbirligi-43390029",
+   "zaman": "2026-11-25T00:26:57+03:00",
+   "kelimeler": [
+    "arasi",
+    "basin",
+    "ilan",
+    "isbir",
+    "kurum",
+    "turkp"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 00:33:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 41 ilin valisi değişti, 14 vali merkeze çekildi",
+  "25.11 00:31:11  4 yeni haber",
   "25.11 00:16:10  4 yeni haber",
   "25.11 00:03:26  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): TRT Haber · Kabine üyelerinden şehit askerlerimiz için başsağlığı mesajı",
   "25.11 00:01:19  2 yeni haber",
@@ -27221,9 +27153,7 @@
   "22.11 18:31:28  4 yeni haber",
   "22.11 18:16:01  3 yeni haber",
   "22.11 18:01:23  3 yeni haber",
-  "22.11 17:46:29  3 yeni haber",
-  "22.11 17:19:03  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Adana'da karşı şeride geçen cip otomobille çarpıştı: Kaza anı kamerada",
-  "22.11 17:16:24  4 yeni haber"
+  "22.11 17:46:29  3 yeni haber"
  ],
  "otomatik": false
 }
