@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "ec4fa80e0881": {
-   "id": "ec4fa80e0881",
-   "kaynak": "TRT Haber",
-   "baslik": "Hatay'da zincirleme trafik kazası: 1 ölü 10 yaralı",
-   "ozet": "Hatay'ın merkez Antakya ilçesinde 5 aracın karıştığı zincirleme trafik kazasında 1 kişi öldü, 10 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/turkiye/hatayda-zincirleme-trafik-kazasi-1-olu-10-yarali-964105.html",
-   "zaman": "2026-11-22T02:07:00+03:00",
-   "kelimeler": [
-    "10",
-    "hatay",
-    "kazas",
-    "olu",
-    "trafi",
-    "yaral",
-    "zinci"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
   "e86f219c9334": {
    "id": "e86f219c9334",
    "kaynak": "XHABER",
@@ -26476,7 +26454,8 @@
    "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "BBC Türkçe"
    ],
    "paylasildi": "2026-11-25T00:33:32.588231+03:00",
    "ig_id": "18122635940117274",
@@ -26929,6 +26908,27 @@
    "fb_reels_id": "1808571150419689",
    "slayt": 1,
    "kanca": "Son dakika"
+  },
+  "2a70f192bab9": {
+   "id": "2a70f192bab9",
+   "kaynak": "BBC Türkçe",
+   "baslik": "41 ilin valisi değişti, 14 vali merkeze çekildi",
+   "ozet": "Cumhurbaşkanlığı kararıyla 41 ilin valisi değişti, 14 ilin valisi merkeze alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cmge3q17n44xo",
+   "zaman": "2026-11-25T02:09:00+03:00",
+   "kelimeler": [
+    "14",
+    "41",
+    "cekil",
+    "degis",
+    "ilin",
+    "merke",
+    "vali",
+    "valis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ff54f51a386a"
   }
  },
  "kayit": [
