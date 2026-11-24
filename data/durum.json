@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "8402ab6d0dcf": {
-   "id": "8402ab6d0dcf",
-   "kaynak": "XHABER",
-   "baslik": "Türkiye’de nadir görülen kuş türlerinden huş isketesi Kastamonu’da görüntülendi.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30797",
-   "zaman": "2026-11-21T08:34:18+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Türkiye’de nadir görülen kuş türlerinden huş isketesi Kastamonu’da görüntülendi.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/iaoQXHH4We4JkcoIno9m6VoHTYkJNrFWXwH7EQiAzBzUOdv1wqLDjiG7lyin2f1PsNTR28vp9eGaXKvIkGrrxViNokRQhqln6YwIbSgCerVOeO7jbTTh2m7FEqlF-I1j01YJ4fBYbJzlBRZZ3ySyZPIFvrSMkzifgpU6x4QQXBhNdXlm7M-NBkP_glO2XNWq-yrWx4t6hZIcnxorNQ5i3E8jNTOjW79xAiblVKOsuWh_f8K-nqAhlZdgJhsS78zjeeOQzDCZtMaf7u88qzA4G8WfTgJyJhlqaEpW2aWUD2foRjrz1aECSQZnQXKgTUgSc6kwfTG_lNPbnk1tGhX9Gw.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "gorul",
-    "gorun",
-    "hus",
-    "isket",
-    "kasta",
-    "kus",
-    "nadir",
-    "turki",
-    "turle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2430df00bd7e": {
    "id": "2430df00bd7e",
    "kaynak": "AA",
@@ -23241,7 +23216,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "89ca5d7c7114": {
@@ -23264,6 +23241,108 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ba3cf2235e84"
+  },
+  "69f137076e90": {
+   "id": "69f137076e90",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında 4 yeni tutuklama",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında adliyeye sevk edilen 6 şüpheliden 4'ü tutuklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-4-yeni-tutuklama-964248.html",
+   "zaman": "2026-11-24T08:25:00+03:00",
+   "kelimeler": [
+    "fon",
+    "sorus",
+    "tutuk",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c5d170bcebff"
+  },
+  "704f82ebfef1": {
+   "id": "704f82ebfef1",
+   "kaynak": "TRT Haber",
+   "baslik": "Kartal Belediyesi'ne yönelik operasyon: 10 gözaltı",
+   "ozet": "Kartal Belediyesi yetkililerine yönelik \"Resmi Belgede Sahtecilik, Suç İşlemek Amacıyla Örgüt Kurma ve Üye Olma ve Rüşvet\" suçlarından soruşturma başlatıldı. Düzenlenen operasyonda 10 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kartal-belediyesine-yonelik-operasyon-10-gozalti-964249.html",
+   "zaman": "2026-11-24T08:27:00+03:00",
+   "kelimeler": [
+    "10",
+    "beled",
+    "gozal",
+    "karta",
+    "opera",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba3cf2235e84"
+  },
+  "7ad3962fe889": {
+   "id": "7ad3962fe889",
+   "kaynak": "Hürriyet",
+   "baslik": "Başkentte jandarmadan 4 koldan takip: 161 firari yakalandı, 407 siteye erişim engellendi",
+   "ozet": "Ankara’da JASAT, KOM ve Narkotik operasyonlarında kaçak alkol, makaron ve uyuşturucu ele geçirilerek 16 şüpheli gözaltına alındı. 161 firari hükümlünün yakalandığı çalışmalarda, sanal devriyeyle tespit edilen 407 site de erişime engellendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/baskentte-jandarmadan-4-koldan-takip-161-firari-yakalandi-407-siteye-erisim-engellendi-43388683",
+   "zaman": "2026-11-24T08:27:57+03:00",
+   "kelimeler": [
+    "161",
+    "407",
+    "baske",
+    "engel",
+    "erisi",
+    "firar",
+    "janda",
+    "kolda",
+    "sitey",
+    "takip",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3afa7d7fe23a"
+  },
+  "f6182c2eb6f3": {
+   "id": "f6182c2eb6f3",
+   "kaynak": "Hürriyet",
+   "baslik": "Kartal Belediyesine operasyon: 10 gözaltı",
+   "ozet": "Kartal Belediyesine yönelik operasyonda aralarında belediye yetkililerinin de olduğu 10 kişi gözaltına alındı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kartal-belediyesine-operasyon-10-gozalti-43388688",
+   "zaman": "2026-11-24T08:34:00+03:00",
+   "kelimeler": [
+    "10",
+    "beled",
+    "gozal",
+    "karta",
+    "opera"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ba3cf2235e84"
+  },
+  "5efed210525a": {
+   "id": "5efed210525a",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın Necran ve Suleyil bölgelerinde erken uyarı sistemi devreye alındı",
+   "ozet": "Yemen'deki İran destekli Husilerin hedefindeki Suudi Arabistan'ın Necran ve Suleyil bölgelerinde saldırı tehdidine karşı erken uyarı sisteminin devreye alındığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-necran-ve-suleyil-bolgelerinde-erken-uyari-sistemi-devreye-alindi/4135222",
+   "zaman": "2026-11-24T08:41:30+03:00",
+   "kelimeler": [
+    "alind",
+    "arabi",
+    "bolge",
+    "devre",
+    "erken",
+    "in",
+    "necra",
+    "siste",
+    "suley",
+    "suudi",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "25bd4f0f16b5"
   }
  },
  "kayit": [
