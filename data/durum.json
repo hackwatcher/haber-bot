@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "0276989fb9d2": {
-   "id": "0276989fb9d2",
-   "kaynak": "TRT Haber",
-   "baslik": "COP31 Başkanı Kurum: Maalesef sürecin ilerlemesine engel oldular",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, bazı ülkelerin çözümsüz tavrına dikkat çekti.",
-   "link": "https://www.trthaber.com/haber/gundem/cop31-baskani-kurum-maalesef-surecin-ilerlemesine-engel-oldular-964143.html",
-   "zaman": "2026-11-22T16:48:00+03:00",
-   "kelimeler": [
-    "baska",
-    "cop31",
-    "engel",
-    "ilerl",
-    "kurum",
-    "maale",
-    "oldul",
-    "surec"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "97ca818c39f9": {
-   "id": "97ca818c39f9",
-   "kaynak": "Hürriyet",
-   "baslik": "Diyarbakır’’da eve yıldırım düştü: Yaralı anne ve 2 çocuğu traktörle yola çıkarıldı",
-   "ozet": "Diyarbakır’ın Ergani ilçesi kırsalındaki bir eve yıldırım düşmesiyle odada oturan 28 yaşındaki N.F. ile iki çocuğu yaralandı. Traktörle ana yola ulaştırılan anne ve çocukları, ambulanslarla hastaneye kaldırılarak tedaviye alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-eve-yildirim-dustu-yarali-anne-ve-2-cocugu-traktorle-yola-cikarildi-43387151",
-   "zaman": "2026-11-22T17:01:00+03:00",
-   "kelimeler": [
-    "anne",
-    "cikar",
-    "cocug",
-    "diyar",
-    "dustu",
-    "eve",
-    "trakt",
-    "yaral",
-    "yildi",
-    "yola"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "5115cdd9b0bb": {
    "id": "5115cdd9b0bb",
    "kaynak": "AA",
@@ -266,22 +224,6 @@
    "slayt": 5,
    "kanca": "8 OYUNCU SINIRDA KALDI"
   },
-  "186e04763291": {
-   "id": "186e04763291",
-   "kaynak": "AA",
-   "baslik": "Beşiktaş, Konyaspor'u 4-2 mağlup etti",
-   "ozet": "Trendyol Süper Lig'in 12. haftasında Beşiktaş, konuk olduğu TÜMOSAN Konyaspor'u 4-2 mağlup etti.",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-konyasporu-4-2-maglup-etti/4133621",
-   "zaman": "2026-11-22T17:00:06+03:00",
-   "kelimeler": [
-    "besik",
-    "etti",
-    "konya",
-    "maglu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "473afcda3be2": {
    "id": "473afcda3be2",
    "kaynak": "TRT Haber",
@@ -354,23 +296,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "27dbc7b9883e"
-  },
-  "f1da2607e26b": {
-   "id": "f1da2607e26b",
-   "kaynak": "AA",
-   "baslik": "Kasımpaşa, konuk ettiği Alanyaspor'u yendi",
-   "ozet": "Trendyol Süper Lig'in 12. haftasında Kasımpaşa, konuk ettiği Corendon Alanyaspor'u 2-1 yendi.",
-   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-konuk-ettigi-alanyasporu-yendi/4133622",
-   "zaman": "2026-11-22T17:00:30+03:00",
-   "kelimeler": [
-    "alany",
-    "ettig",
-    "kasim",
-    "konuk",
-    "yendi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "ff4f743632fd": {
    "id": "ff4f743632fd",
@@ -14576,7 +14501,10 @@
     "tarih"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "0b53e63b105b": {
    "id": "0b53e63b105b",
@@ -29522,9 +29450,137 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3c8cc1be7812": {
+   "id": "3c8cc1be7812",
+   "kaynak": "AA",
+   "baslik": "İşitme engelli milli güreşçiler, yarın Ermenistan'da ilk müsabakalarına çıkacak",
+   "ozet": "İşitme engelli milli güreşçiler, Ermenistan'da 2026 Avrupa Güreş Şampiyonası'nda yarın ilk madalya müsabakalarına çıkacak.",
+   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-guresciler-yarin-ermenistanda-ilk-musabakalarina-cikacak/4137548",
+   "zaman": "2026-11-25T16:18:37+03:00",
+   "kelimeler": [
+    "cikac",
+    "engel",
+    "ermen",
+    "gures",
+    "ilk",
+    "isitm",
+    "milli",
+    "musab",
+    "yarin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "aa9a544881bf": {
+   "id": "aa9a544881bf",
+   "kaynak": "TRT Haber",
+   "baslik": "Shakhtar Donetsk Fenerbahçe maçı TRT 1'de",
+   "ozet": "Temsilcimiz Fenerbahçe, UEFA Şampiyonlar Ligi'nin beşinci haftasında bugün Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'de karşı karşıya gelecek. TRT 1, tabii, ve TRT Radyo 1'den canlı yayınlanacak karşılaşma saat 23.00'te başlayacak.",
+   "link": "https://www.trthaber.com/haber/spor/shakhtar-donetsk-fenerbahce-maci-trt-1de-964450.html",
+   "zaman": "2026-11-25T16:25:00+03:00",
+   "kelimeler": [
+    "donet",
+    "fener",
+    "maci",
+    "shakh",
+    "trt"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "db364899920a"
+  },
+  "986900b76134": {
+   "id": "986900b76134",
+   "kaynak": "Hürriyet",
+   "baslik": "Alper Gezeravcı: 2027’nin ikinci çeyreğinde Ay’a ulaşmayı hedefliyoruz; uzaya erişimimiz bağımsız olmalı",
+   "ozet": "Sivas Cumhuriyet Üniversitesi’nde öğrencilerle buluşan Tuğgeneral Alper Gezeravcı, Milli Uzay Programı kapsamında 2027 yılının ikinci çeyreğinde Ay’a ulaşmayı hedeflediklerini söyledi. Gezeravcı, takvimlerin aksamaması için uzaya erişimin bağımsız olması gerektiğini vurguladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/alper-gezeravci-2027nin-ikinci-ceyreginde-aya-ulasmayi-hedefliyoruz-uzaya-erisimimiz-bagimsiz-olmali-43390939",
+   "zaman": "2026-11-25T16:40:55+03:00",
+   "kelimeler": [
+    "2027",
+    "alper",
+    "ay",
+    "bagim",
+    "ceyre",
+    "erisi",
+    "gezer",
+    "hedef",
+    "ikinc",
+    "nin",
+    "olmal",
+    "ulasm",
+    "uzaya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2a020c5de7f5": {
+   "id": "2a020c5de7f5",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Halife Hafter'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya Ulusal Ordusu Genel Komutanı Maraşel Halife Hafter ve beraberindeki heyeti, Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-halife-hafteri-kabul-etti-43390960",
+   "zaman": "2026-11-25T16:50:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "etti",
+    "hafte",
+    "halif",
+    "kabul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "76da2554e751": {
+   "id": "76da2554e751",
+   "kaynak": "TRT Haber",
+   "baslik": "Cumhurbaşkanı Erdoğan, Maraşel Hafter'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya Ulusal Ordusu Genel Komutanı Maraşel Halife Hafter ve beraberindeki heyeti, Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-marasel-hafteri-kabul-etti-964451.html",
+   "zaman": "2026-11-25T16:51:00+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "etti",
+    "hafte",
+    "kabul",
+    "maras"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2a020c5de7f5"
+  },
+  "61f2e05aac97": {
+   "id": "61f2e05aac97",
+   "kaynak": "Hürriyet",
+   "baslik": "Merve, yaşam mücadelesini kaybetti: Bakırköy'deki kazada ölü sayısı ikiye yükseldi",
+   "ozet": "Bakırköy'de hafif ticari aracın yolun karşısına geçen yayalara çarptığı kazanın ardından hastaneye kaldırılan Merve Çelik, 19 günlük hayat mücadelesini kaybetti. Kazada ölenlerin sayısı 2'ye yükseldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/merve-yasam-mucadelesini-kaybetti-bakirkoydeki-kazada-olu-sayisi-ikiye-yukseldi-43390949",
+   "zaman": "2026-11-25T16:53:00+03:00",
+   "kelimeler": [
+    "bakir",
+    "deki",
+    "ikiye",
+    "kaybe",
+    "kazad",
+    "merve",
+    "mucad",
+    "olu",
+    "sayis",
+    "yasam",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "25.11 17:01:42  4 yeni haber",
   "25.11 16:45:59  2 yeni haber",
   "25.11 16:41:19  6 yeni haber",
   "25.11 16:31:09  5 yeni haber",
@@ -29723,8 +29779,7 @@
   "23.11 12:18:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · COP31’in ardından: Antalya'da alınan kararlar ve Addis Ababa'ya kalan ",
   "23.11 12:16:09  9 yeni haber",
   "23.11 12:01:24  9 yeni haber",
-  "23.11 11:46:08  10 yeni haber",
-  "23.11 11:31:13  13 yeni haber"
+  "23.11 11:46:08  10 yeni haber"
  ],
  "otomatik": false
 }
