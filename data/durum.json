@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "47930e0cd277": {
-   "id": "47930e0cd277",
-   "kaynak": "Hürriyet",
-   "baslik": "Muş'ta kuvvetli rüzgâr ağaç ve direği park halindeki araçların üzerine devirdi",
-   "ozet": "Muş'ta dün akşam saatlerinde etkisini artıran kuvvetli rüzgâr iki ayrı noktada hasara yol açtı. İtfaiye ekipleri otomobilin üzerine devrilen ağacı testereyle kesip yoldan kaldırırken, belediye ekipleri kentte hasar tespiti için çalışma başlattı.",
-   "link": "https://www.hurriyet.com.tr/gundem/musta-kuvvetli-ruzgar-agac-ve-diregi-park-halindeki-araclarin-uzerine-devirdi-43386661",
-   "zaman": "2026-11-22T08:53:12+03:00",
-   "kelimeler": [
-    "agac",
-    "aracl",
-    "devir",
-    "direg",
-    "halin",
-    "kuvve",
-    "mus",
-    "park",
-    "ruzga",
-    "ta",
-    "uzeri"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c5c82e96affa": {
-   "id": "c5c82e96affa",
-   "kaynak": "NTV",
-   "baslik": "Beykoz’da İETT otobüsünde bıçakla tehdit eden şüpheli alkollü çıktı",
-   "ozet": "Beykoz'da seyir halindeki İETT otobüsünde bıçakla tehditte bulunduğu belirtilen şüpheli, polis ekipleri tarafından yakalanarak gözaltına alındı. Şüphelinin 2,41 promil alkollü olduğu belirlendi.",
-   "link": "https://www.ntv.com.tr/turkiye/video-beykozda-iett-otobusunde-bicakla-tehdit-eden-supheli-alkollu-cikti-1751999",
-   "zaman": "2026-11-22T08:59:58+03:00",
-   "kelimeler": [
-    "alkol",
-    "beyko",
-    "bicak",
-    "cikti",
-    "eden",
-    "iett",
-    "otobu",
-    "suphe",
-    "tehdi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "874fd58513a4"
-  },
-  "9ae0d6c203eb": {
-   "id": "9ae0d6c203eb",
-   "kaynak": "AA",
-   "baslik": "Terörsüz Türkiye hedefi milli barışı tahkim etmektir",
-   "ozet": "Terörsüz Türkiye hedefinin kalıcı başarısı, devletin kararlılığına bağlı olarak yüksek temsil gücüne sahip devlet erki olan Meclisin güçlü kurumsal ve yasama katkısıyla ve milletimizin ortak iradesiyle mümkün olacaktır.",
-   "link": "https://www.aa.com.tr/tr/analiz/terorsuz-turkiye-hedefi-milli-barisi-tahkim-etmektir/4133304",
-   "zaman": "2026-11-22T09:01:22+03:00",
-   "kelimeler": [
-    "baris",
-    "etmek",
-    "hedef",
-    "milli",
-    "tahki",
-    "teror",
-    "turki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "91fea7964d86": {
    "id": "91fea7964d86",
    "kaynak": "AA",
@@ -27118,7 +27054,10 @@
     "ogret"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "12285fba66b4": {
    "id": "12285fba66b4",
@@ -27399,7 +27338,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "89cf6f77d0af": {
    "id": "89cf6f77d0af",
@@ -27513,7 +27455,10 @@
     "tanke"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "2e7b52548d33": {
    "id": "2e7b52548d33",
@@ -27537,6 +27482,102 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "eb4fa94155de"
+  },
+  "72e576f61c05": {
+   "id": "72e576f61c05",
+   "kaynak": "AA",
+   "baslik": "İran: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda \"izinsiz güzergahı\" kullanan iki petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi/4136584",
+   "zaman": "2026-11-25T08:23:42+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "bogaz",
+    "carpa",
+    "deniz",
+    "hurmu",
+    "iki",
+    "iran",
+    "mayin",
+    "nda",
+    "petro",
+    "tanke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1e6105f27f92"
+  },
+  "879fbdadccb0": {
+   "id": "879fbdadccb0",
+   "kaynak": "NTV",
+   "baslik": "Sıcaklık 12 derece birden düştü. 20 il için kar ve fırtına uyarısı",
+   "ozet": "Yurt genelinde hava sıcaklıkları 12 derece birden düştü. Bugün, karayelle birlikte dondurucu soğuklar etkili olacak. 20 il için de sarı kodlu kar ve fırtına uyarı yapıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sicaklik-12-derece-birden-dustu-20-il-icin-kar-ve-firtina-uyarisi-1752471",
+   "zaman": "2026-11-25T08:46:07+03:00",
+   "kelimeler": [
+    "12",
+    "20",
+    "birde",
+    "derec",
+    "dustu",
+    "firti",
+    "il",
+    "kar",
+    "sicak",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd1e71f676ee"
+  },
+  "7e3462c6a31b": {
+   "id": "7e3462c6a31b",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda \"izinsiz güzergahı\" kullanan iki petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi-964391.html",
+   "zaman": "2026-11-25T08:51:00+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "bogaz",
+    "carpa",
+    "deniz",
+    "hurmu",
+    "iki",
+    "iran",
+    "mayin",
+    "nda",
+    "petro",
+    "tanke"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1e6105f27f92"
+  },
+  "bfeea0760c64": {
+   "id": "bfeea0760c64",
+   "kaynak": "NTV",
+   "baslik": "15 bin öğretmen ataması ne zaman, branş dağılımı belli oldu mu? 2026 MEB 15 bin öğretmen ataması",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın 24 Kasım Öğretmenler Günü programında verdiği 15 bin öğretmen atama müjdesi, atama bekleyen yüz binlerce öğretmen adayında büyük heyecan yarattı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-15-bin-ogretmen-atamasi-ne-zaman-brans-dagilimi-belli-oldu-mu-2026-meb-15-bin-ogretmen-atamasi-1752474",
+   "zaman": "2026-11-25T08:59:34+03:00",
+   "kelimeler": [
+    "15",
+    "2026",
+    "atama",
+    "belli",
+    "bin",
+    "brans",
+    "dagil",
+    "meb",
+    "ogret",
+    "zaman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e2a178575a84"
   }
  },
  "kayit": [
