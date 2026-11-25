@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "019f9cbabd94": {
-   "id": "019f9cbabd94",
-   "kaynak": "NTV",
-   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 23 Kasım 2026",
-   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-23-kasim-2026-1752114",
-   "zaman": "2026-11-23T00:00:00+03:00",
-   "kelimeler": [
-    "2026",
-    "23",
-    "afad",
-    "ankar",
-    "az",
-    "depre",
-    "il",
-    "istan",
-    "izmir",
-    "kasim",
-    "nered"
-   ],
-   "durum": "engelli",
-   "oncelikli": true,
-   "diger_kaynaklar": []
-  },
-  "9cf8810f44e9": {
-   "id": "9cf8810f44e9",
-   "kaynak": "AA",
-   "baslik": "Genç milli judocular, Dünya Şampiyonası'nı 2'si altın 3 madalyayla tamamladı",
-   "ozet": "Türkiye, Özbekistan'da düzenlenen Dünya Gençler Judo Şampiyonası'nı 2'si altın, 1'i gümüş olmak üzere 3 madalyayla bitirdi.",
-   "link": "https://www.aa.com.tr/tr/spor/genc-milli-judocular-dunya-sampiyonasini-2si-altin-3-madalyayla-tamamladi/4133865",
-   "zaman": "2026-11-22T23:57:58+03:00",
-   "kelimeler": [
-    "altin",
-    "dunya",
-    "genc",
-    "judoc",
-    "madal",
-    "milli",
-    "ni",
-    "sampi",
-    "si",
-    "tamam"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "2c59e87f122e"
-  },
   "47ed02b71903": {
    "id": "47ed02b71903",
    "kaynak": "NTV",
@@ -20343,7 +20296,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "ff54f51a386a": {
    "id": "ff54f51a386a",
@@ -28529,7 +28483,10 @@
     "shakh"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "a2efc0523868": {
    "id": "a2efc0523868",
@@ -30455,8 +30412,17 @@
     "parti",
     "sait"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-26T00:04:06.189364+03:00",
+   "ig_id": "18121935697956237",
+   "reels_id": "18448207681177171",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1473307324771898",
+   "slayt": 5,
+   "kanca": "BAĞIMSIZ DEVAM EDECEK"
   },
   "841943049f34": {
    "id": "841943049f34",
@@ -30586,7 +30552,10 @@
     "valis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "dc4d8eb939d0": {
    "id": "dc4d8eb939d0",
@@ -30661,10 +30630,153 @@
     "sorgu"
    ],
    "durum": "engelli",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "8bc6c3bff35f": {
+   "id": "8bc6c3bff35f",
+   "kaynak": "AA",
+   "baslik": "İstanbul Valisi Gül'den sokakta kalan vatandaşların 112'ye bildirilmesi çağrısı",
+   "ozet": "İstanbul Valisi Davut Gül, kentte hava sıcaklığının gece 2 dereceye kadar düşmesinin beklendiğine işaret ederek, sokakta kalan ve barınmaya ihtiyaç duyan vatandaşların 112 Acil Çağrı Merkezi'ne bildirilmesi çağrısında bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-sokakta-kalan-vatandaslarin-112ye-bildirilmesi-cagrisi/4138067",
+   "zaman": "2026-11-25T23:39:12+03:00",
+   "kelimeler": [
+    "112",
+    "bildi",
+    "cagri",
+    "den",
+    "gul",
+    "istan",
+    "kalan",
+    "sokak",
+    "valis",
+    "vatan",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "48779677f28e"
+  },
+  "db6467174a31": {
+   "id": "db6467174a31",
+   "kaynak": "AA",
+   "baslik": "Fed'in Bej Kitabı ABD'de büyüme ve fiyat artışının sürdüğüne işaret etti",
+   "ozet": "ABD Merkez Bankası (Fed), ülkenin çoğu bölgesinde ekonomik faaliyetin hafif ila ılımlı düzeyde büyüdüğünü, fiyatların ise ılımlı artışını sürdürdüğünü bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-abdde-buyume-ve-fiyat-artisinin-surdugune-isaret-etti/4138073",
+   "zaman": "2026-11-25T23:46:08+03:00",
+   "kelimeler": [
+    "abd",
+    "artis",
+    "bej",
+    "buyum",
+    "etti",
+    "fed",
+    "fiyat",
+    "in",
+    "isare",
+    "kitab",
+    "surdu"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "8ffc25217c3b": {
+   "id": "8ffc25217c3b",
+   "kaynak": "NTV",
+   "baslik": "Şans Topu Sonuçları Sorgulama Ekranı 25 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+   "ozet": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1752583",
+   "zaman": "2026-11-25T23:46:50+03:00",
+   "kelimeler": [
+    "25",
+    "bilet",
+    "ekran",
+    "hizli",
+    "kasim",
+    "mpi",
+    "sans",
+    "sonuc",
+    "sorgu",
+    "tikla",
+    "topu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8556242f609e"
+  },
+  "4a3733c81304": {
+   "id": "4a3733c81304",
+   "kaynak": "XHABER",
+   "baslik": "İY | 🇺🇦 Shakhtar Donetsk 0-0 Fenerbahçe 🇹🇷",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30923",
+   "zaman": "2026-11-25T23:51:29+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İY | 🇺🇦 Shakhtar Donetsk 0-0 Fenerbahçe 🇹🇷",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/iMXn_qlSB5BpUZvBIHU8ZFgqh5Rb6JyuCrpugnhmE3Sps0rC7gVGrpguUdOfWsIJo9N0WsyDp-uRCr4TRsxotSPKJ_DHj1Hmx77YcwvCcqP-Ei41B3S3veWLBo4FyS4usSkmJfzWdJnFzuAyQDYkvc9lovyeWONeNSQjVkBGxUHUWlAZiFMQL-Y-DGtZfqyGblmzacuUoZU6LUgRh8-tKb37kM_qZzuosCpLxt1F0CuU8JnGGNM5HIc7BleAv-GUjDxC1QkBoPcKxojLCNRlVPfEbxmG3zR_NZH7Y_wiBOr-eg2mD3zAOsH7ba0rPf5aiiIw5pxkIYP2G6xTgDBlHA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "donet",
+    "fener",
+    "iy",
+    "shakh"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3645484523d8"
+  },
+  "629d6d1e5b34": {
+   "id": "629d6d1e5b34",
+   "kaynak": "AA",
+   "baslik": "ABD'nin New Jersey eyaletinde yaklaşan fırtına nedeniyle \"olağanüstü hal\" ilan edildi",
+   "ozet": "ABD'nin New Jersey eyaletinde yaklaşan fırtına nedeniyle \"olağanüstü hal\" ilan edildiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi/4138082",
+   "zaman": "2026-11-25T23:59:35+03:00",
+   "kelimeler": [
+    "abd",
+    "edild",
+    "eyale",
+    "firti",
+    "hal",
+    "ilan",
+    "jerse",
+    "neden",
+    "new",
+    "nin",
+    "olaga",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3c397b5888bb": {
+   "id": "3c397b5888bb",
+   "kaynak": "NTV",
+   "baslik": "Deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Kasım 2026",
+   "ozet": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-kasim-2026-1752585",
+   "zaman": "2026-11-26T00:00:00+03:00",
+   "kelimeler": [
+    "2026",
+    "26",
+    "afad",
+    "ankar",
+    "az",
+    "depre",
+    "il",
+    "istan",
+    "izmir",
+    "kasim",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a3fbc6aa14fd"
   }
  },
  "kayit": [
+  "26.11 00:04:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Korgan Belediye Başkanı Sait Korgan İYİ Parti'den istifa etti",
+  "26.11 00:01:18  2 yeni haber",
   "25.11 23:45:54  4 yeni haber",
   "25.11 23:31:23  2 yeni haber",
   "25.11 23:16:01  4 yeni haber",
@@ -30862,9 +30974,7 @@
   "23.11 19:31:14  1 yeni haber",
   "23.11 19:07:23  6 yeni haber",
   "23.11 18:32:22  1 yeni haber",
-  "23.11 18:16:15  9 yeni haber",
-  "23.11 17:31:15  3 yeni haber",
-  "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev"
+  "23.11 18:16:15  9 yeni haber"
  ],
  "otomatik": false
 }
