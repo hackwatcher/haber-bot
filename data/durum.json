@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "4a9bd50c9bed": {
-   "id": "4a9bd50c9bed",
-   "kaynak": "AA",
-   "baslik": "THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı",
-   "ozet": "Türkiye Hava Sporları Federasyonu (THSF) tarafından düzenlenen THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası sona erdi.",
-   "link": "https://www.aa.com.tr/tr/spor/thsf-2026-fpv-drone-yesilay-turkiye-sampiyonasi-tamamlandi/4133846",
-   "zaman": "2026-11-22T23:19:09+03:00",
-   "kelimeler": [
-    "2026",
-    "drone",
-    "fpv",
-    "sampi",
-    "tamam",
-    "thsf",
-    "turki",
-    "yesil"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-23T01:04:01.963797+03:00",
-   "ig_id": "18098253749152910",
-   "reels_id": "18124840838472573",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1115104711330964",
-   "slayt": 5,
-   "kanca": "DRONE MİLLİ TAKIMI BELİRLENDİ"
-  },
-  "7402e96c3683": {
-   "id": "7402e96c3683",
-   "kaynak": "AA",
-   "baslik": "ABD'de Demokratlar, 1992'den bu yana Temsilciler Meclisindeki en yüksek sandalye sayısına ulaştı",
-   "ozet": "ABD'de Demokratlar, 3 Kasım'da düzenlenen Kongre ara seçimlerinde Temsilciler Meclisinde 258 sandalye kazanarak 1992'den bu yana elde edilen en yüksek sandalye sayısına ulaştı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-demokratlar-1992den-bu-yana-temsilciler-meclisindeki-en-yuksek-sandalye-sayisina-ulasti/4133847",
-   "zaman": "2026-11-22T23:19:32+03:00",
-   "kelimeler": [
-    "1992",
-    "abd",
-    "demok",
-    "den",
-    "mecli",
-    "sanda",
-    "sayis",
-    "temsi",
-    "ulast",
-    "yana",
-    "yukse"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-23T00:04:19.656818+03:00",
-   "ig_id": "18133901144478474",
-   "reels_id": "17899823214417064",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "2216568712257936",
-   "slayt": 5,
-   "kanca": "258 SANDALYE KAZANDILAR",
-   "diger_kaynaklar": [
-    "BBC Türkçe"
-   ]
-  },
   "592c8ce9faf7": {
    "id": "592c8ce9faf7",
    "kaynak": "AA",
@@ -29443,7 +29379,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "XHABER"
+    "XHABER",
+    "TRT Haber"
    ]
   },
   "e24d262d9add": {
@@ -29851,7 +29788,10 @@
     "vatan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "53275736a763": {
    "id": "53275736a763",
@@ -30635,9 +30575,97 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a5b3f6829fc0": {
+   "id": "a5b3f6829fc0",
+   "kaynak": "TRT Haber",
+   "baslik": "Selçuk Bayraktar: Tüylerimizi diken diken eden şey tesisler değil, içindeki ruh",
+   "ozet": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, Türk Havacılık ve Uzay Sanayii TUSAŞ mühendislerine yönelik etkinlikte, Tüylerimizi diken diken eden şey de sadece bu hangarlar, binalar, büyük tesisler değil, onun içinde taşınan ruh, gayret, emek, tam bağımsızlığımız, gök…",
+   "link": "https://www.trthaber.com/haber/savunma/selcuk-bayraktar-tuylerimizi-diken-diken-eden-sey-tesisler-degil-icindeki-ruh-964480.html",
+   "zaman": "2026-11-25T23:02:00+03:00",
+   "kelimeler": [
+    "bayra",
+    "degil",
+    "diken",
+    "eden",
+    "icind",
+    "ruh",
+    "selcu",
+    "sey",
+    "tesis",
+    "tuyle"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "464b969e754d"
+  },
+  "4e0f36fb3237": {
+   "id": "4e0f36fb3237",
+   "kaynak": "AA",
+   "baslik": "Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı",
+   "ozet": "Suriye'nin kuzeydoğusundaki Haseke kentinde bomba yüklü motosikletin patladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-haseke-kentinde-bomba-yuklu-motosiklet-patladi/4138046",
+   "zaman": "2026-11-25T23:13:03+03:00",
+   "kelimeler": [
+    "bomba",
+    "hasek",
+    "kenti",
+    "motos",
+    "nin",
+    "patla",
+    "suriy",
+    "yuklu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "54080b649a59": {
+   "id": "54080b649a59",
+   "kaynak": "AA",
+   "baslik": "ABD'den, Lübnan'a gönderilmek üzereyken ele geçirilen \"İran menşeli silahlar\" konusunda Suriye'ye tebrik",
+   "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Lübnan'a gönderilmek üzereyken ele geçirilen \"İran menşeli silahlar\" dolayısıyla Suriye yönetimini tebrik etti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-lubnana-gonderilmek-uzereyken-ele-gecirilen-iran-menseli-silahlar-konusunda-suriyeye-tebrik/4138047",
+   "zaman": "2026-11-25T23:13:51+03:00",
+   "kelimeler": [
+    "abd",
+    "den",
+    "ele",
+    "gecir",
+    "gonde",
+    "iran",
+    "konus",
+    "lubna",
+    "mense",
+    "silah",
+    "suriy",
+    "tebri",
+    "uzere",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5556eb3f93df": {
+   "id": "5556eb3f93df",
+   "kaynak": "TRT Haber",
+   "baslik": "İzmir'de suya yüzde 63 indirim",
+   "ozet": "İzmir Büyükşehir Belediye Meclisi, kentte suyun metreküp fiyatına 1 Ocak 2027'den geçerli olmak üzere konut ve konut dışı aboneler için kademeli indirim yapılmasını kararlaştırdı.",
+   "link": "https://www.trthaber.com/haber/turkiye/izmirde-suya-yuzde-63-indirim-964481.html",
+   "zaman": "2026-11-25T23:17:00+03:00",
+   "kelimeler": [
+    "63",
+    "indir",
+    "izmir",
+    "suya",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7acffa81ea25"
   }
  },
  "kayit": [
+  "25.11 23:31:23  2 yeni haber",
   "25.11 23:16:01  4 yeni haber",
   "25.11 23:01:29  1 yeni haber",
   "25.11 22:46:18  1 yeni haber",
@@ -30836,8 +30864,7 @@
   "23.11 18:16:15  9 yeni haber",
   "23.11 17:31:15  3 yeni haber",
   "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev",
-  "23.11 17:16:40  3 yeni haber",
-  "23.11 17:01:33  4 yeni haber"
+  "23.11 17:16:40  3 yeni haber"
  ],
  "otomatik": false
 }
