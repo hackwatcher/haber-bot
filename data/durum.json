@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "9c9f2dc2afea": {
-   "id": "9c9f2dc2afea",
-   "kaynak": "Hürriyet",
-   "baslik": "Eskişehir'de parkta çıkan tartışma bıçaklı kavgaya dönüştü: 1 yaralı",
-   "ozet": "Tepebaşı ilçesi Batıkent Mahallesi'ndeki parkta karşılaşan iki grup arasında bilinmeyen nedenle çıkan tartışma kavgaya döndü. Saat 02.00 sıralarındaki olayda bıçakla yaralanan Bedirhan Y. hastaneye kaldırılırken, polis ekiplerinin olayla ilgili başlattığı soruşturma devam ediyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/eskisehirde-parkta-cikan-tartisma-bicakli-kavgaya-donustu-1-yarali-43386633",
-   "zaman": "2026-11-22T06:50:28+03:00",
-   "kelimeler": [
-    "bicak",
-    "cikan",
-    "donus",
-    "eskis",
-    "kavga",
-    "parkt",
-    "tarti",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "e62790706d66": {
    "id": "e62790706d66",
    "kaynak": "Hürriyet",
@@ -27059,9 +27039,32 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "1c6a771ada08"
+  },
+  "3be7e8c81659": {
+   "id": "3be7e8c81659",
+   "kaynak": "TRT Haber",
+   "baslik": "Trabzon'da sel ve heyelan: Dere taştı, evleri su bastı, yollar kapandı",
+   "ozet": "Trabzon'da etkili olan sağanak nedeniyle Zarha Deresi taştı, ev ve iş yerlerini su bastı. Heyelanlar nedeniyle bazı yollar ulaşıma kapanırken, istinat duvarının çökmesi sonucu 5 araçta hasar meydana geldi.",
+   "link": "https://www.trthaber.com/haber/turkiye/trabzonda-sel-ve-heyelan-dere-tasti-evleri-su-basti-yollar-kapandi-964383.html",
+   "zaman": "2026-11-25T06:42:00+03:00",
+   "kelimeler": [
+    "basti",
+    "dere",
+    "evler",
+    "heyel",
+    "kapan",
+    "sel",
+    "su",
+    "tasti",
+    "trabz",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 06:51:43  1 yeni haber",
   "25.11 06:31:42  2 yeni haber",
   "25.11 06:16:00  1 yeni haber",
   "25.11 06:16:00  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
@@ -27260,8 +27263,7 @@
   "22.11 22:15:55  2 yeni haber",
   "22.11 21:46:06  2 yeni haber",
   "22.11 21:31:12  3 yeni haber",
-  "22.11 21:16:06  1 yeni haber",
-  "22.11 21:01:45  1 yeni haber"
+  "22.11 21:16:06  1 yeni haber"
  ],
  "otomatik": false
 }
