@@ -23962,7 +23962,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "f4dd605eca66": {
    "id": "f4dd605eca66",
@@ -26823,7 +26825,10 @@
     "zanli"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6628b868317f": {
    "id": "6628b868317f",
@@ -26944,9 +26949,96 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "27d14a8c283c": {
+   "id": "27d14a8c283c",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu, Batı Şeria'daki uygulamalarla on binlerce Filistinlinin hareket özgürlüğünü kısıtladı",
+   "ozet": "İsrail ordusunun, işgal altındaki Batı Şeria'nın El Halil kentinin batısında yer alan köylere 5 demir kapı yerleştirerek yaklaşık 70 bin Filistinlinin hareket özgürlüğünü kısıtladığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriadaki-uygulamalarla-on-binlerce-filistinlinin-hareket-ozgurlugunu-kisitladi/4136554",
+   "zaman": "2026-11-25T06:12:23+03:00",
+   "kelimeler": [
+    "bati",
+    "binle",
+    "daki",
+    "filis",
+    "harek",
+    "israi",
+    "kisit",
+    "on",
+    "ordus",
+    "ozgur",
+    "seria",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ca391bba79fa": {
+   "id": "ca391bba79fa",
+   "kaynak": "TRT Haber",
+   "baslik": "Ünlülere yönelik uyuşturucu soruşturmasında 23 gözaltı",
+   "ozet": "İstanbul'da ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturmasında haklarında gözaltı kararı verilen 35 şüpheliden 23'ü gözaltına alındı. Gözaltına alınanlar arasında Özcan Deniz ve Deniz Çakır da bulunuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-23-gozalti-964380.html",
+   "zaman": "2026-11-25T06:17:00+03:00",
+   "kelimeler": [
+    "23",
+    "gozal",
+    "sorus",
+    "unlul",
+    "uyust",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f3aeb2d77e18"
+  },
+  "b6435f59c5ea": {
+   "id": "b6435f59c5ea",
+   "kaynak": "Sözcü",
+   "baslik": "Boşanma aşamasındaki eşini öldürdü, polise 11 saat direndi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/bosanma-asamasindaki-esini-oldurdu-polise-11-saat-direndi-p384152",
+   "zaman": "2026-11-25T06:18:22+03:00",
+   "kelimeler": [
+    "11",
+    "asama",
+    "bosan",
+    "diren",
+    "esini",
+    "oldur",
+    "polis",
+    "saat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c2cb5dfa1e6d": {
+   "id": "c2cb5dfa1e6d",
+   "kaynak": "NTV",
+   "baslik": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü",
+   "ozet": "Çorum'da boşanma aşamasında olduğu eşi Esin Özdemir’i 3 çocuğunun gözü önünde öldüren saldırgan, 11 saat polise direndikten sonra intihara teşebbüs etti.",
+   "link": "https://www.ntv.com.tr/turkiye/corumda-kadin-cinayeti-bosanma-asamasinda-oldugu-esini-3-cocugunun-onunde-oldurdu-1752453",
+   "zaman": "2026-11-25T06:28:35+03:00",
+   "kelimeler": [
+    "asama",
+    "bosan",
+    "cinay",
+    "cocug",
+    "corum",
+    "esini",
+    "kadin",
+    "oldug",
+    "oldur",
+    "onund"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d49831cc8383"
   }
  },
  "kayit": [
+  "25.11 06:31:42  2 yeni haber",
   "25.11 06:16:00  1 yeni haber",
   "25.11 06:16:00  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "25.11 05:16:20  1 yeni haber",
@@ -27145,8 +27237,7 @@
   "22.11 21:46:06  2 yeni haber",
   "22.11 21:31:12  3 yeni haber",
   "22.11 21:16:06  1 yeni haber",
-  "22.11 21:01:45  1 yeni haber",
-  "22.11 20:46:14  3 yeni haber"
+  "22.11 21:01:45  1 yeni haber"
  ],
  "otomatik": false
 }
