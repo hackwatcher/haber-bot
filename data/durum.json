@@ -1,110 +1,5 @@
 {
  "haberler": {
-  "8ffac3bac042": {
-   "id": "8ffac3bac042",
-   "kaynak": "TRT Haber",
-   "baslik": "Tarımda dijitalleşmenin yol haritası belli oldu",
-   "ozet": "Yeşil Mutabakat Eylem Planı kapsamında sulama, kuraklık ve verim tahmininde \"Dijital Sulama Yönetimi Sistemi\" kullanılacak, akıllı tarım uygulamalarında yapay zeka etkin rol oynayacak.",
-   "link": "https://www.trthaber.com/haber/ekonomi/tarimda-dijitallesmenin-yol-haritasi-belli-oldu-964120.html",
-   "zaman": "2026-11-22T11:50:00+03:00",
-   "kelimeler": [
-    "belli",
-    "dijit",
-    "harit",
-    "tarim",
-    "yol"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d03fc47124ce"
-  },
-  "964bab13b8fd": {
-   "id": "964bab13b8fd",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nın doğusunda ABD yapımı MQ-1 tipi İHA düşürüldü",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda ABD yapımı MQ-1 tipi insansız hava aracının (İHA) ülke hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinin-dogusunda-abd-yapimi-mq-1-tipi-iha-dusuruldu/4133406",
-   "zaman": "2026-11-22T11:50:19+03:00",
-   "kelimeler": [
-    "abd",
-    "bogaz",
-    "devri",
-    "dogus",
-    "dusur",
-    "hurmu",
-    "iha",
-    "iran",
-    "mq",
-    "muhaf",
-    "nin",
-    "tipi",
-    "yapim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "c75e1ee5a0c9": {
-   "id": "c75e1ee5a0c9",
-   "kaynak": "BBC Türkçe",
-   "baslik": "COP31: 'Son' anlaşma taslağı müzakerelerin çökmesini engelleyebilecek mi?",
-   "ozet": "Türkiye ve Avustralya'nın eş başkanlığını yürüttüğü görüşmelerde, ülkeler arasındaki görüş ayrılığını gidermesi umulan yeni bir anlaşma taslağı pazar sabaha karşı yayımlandı.",
-   "link": "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
-   "zaman": "2026-11-22T11:53:52+03:00",
-   "kelimeler": [
-    "anlas",
-    "cokme",
-    "cop31",
-    "engel",
-    "muzak",
-    "tasla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "fabdeb038e2c": {
-   "id": "fabdeb038e2c",
-   "kaynak": "NTV",
-   "baslik": "Meclis'te bu hafta. Bütçe maratonunda son viraj",
-   "ozet": "Meclis'in bütçe maratonu devam ediyor. Cuma günü komisyonda bütçe görüşmeleri tamamlanacak. Genel Kurul'da ise iki önemli düzenleme ele alınacak.",
-   "link": "https://www.ntv.com.tr/turkiye/mecliste-bu-hafta-butce-maratonunda-son-viraj-1752032",
-   "zaman": "2026-11-22T12:00:35+03:00",
-   "kelimeler": [
-    "butce",
-    "hafta",
-    "marat",
-    "mecli",
-    "te",
-    "viraj"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "99d90c145742": {
-   "id": "99d90c145742",
-   "kaynak": "Hürriyet",
-   "baslik": "70 bin liralık telefon iddiasıyla hamile kadını bıçakladı: Kan beni çekiyor",
-   "ozet": "Bursa, Gemlik’te çalışan 4 aylık hamile Berna A., döner bıçağıyla iş yerine gelen Murat U.’nun saldırısına uğradı. Taburcu edilen Berna A. ile bebeğinin durumu iyiyken, tutuklanan şüpheli savcılık ifadesinde halüsinasyon gördüğünü öne sürdü.",
-   "link": "https://www.hurriyet.com.tr/gundem/70-bin-liralik-telefon-iddiasiyla-hamile-kadini-bicakladi-kan-beni-cekiyor-43386864",
-   "zaman": "2026-11-22T11:54:00+03:00",
-   "kelimeler": [
-    "70",
-    "beni",
-    "bicak",
-    "bin",
-    "cekiy",
-    "hamil",
-    "iddia",
-    "kadin",
-    "kan",
-    "liral",
-    "telef"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9a3af0da893a": {
    "id": "9a3af0da893a",
    "kaynak": "AA",
@@ -16735,7 +16630,8 @@
     "macin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "db364899920a": {
    "id": "db364899920a",
@@ -19658,7 +19554,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "aaf7e70b8dd7": {
@@ -27316,7 +27213,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "191cb4f205a8": {
@@ -28207,9 +28105,351 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7433b641b1a9": {
+   "id": "7433b641b1a9",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, Avrupa kupalarında 161. maçına çıkacak",
+   "ozet": "UEFA Konferans Ligi'nde yarın Bulgaristan'ın CSKA Sofya takımı ile deplasmanda karşılaşacak Trabzonspor, Avrupa kupalarındaki 161. maçına çıkacak.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-avrupa-kupalarinda-161-macina-cikacak/4136897",
+   "zaman": "2026-11-25T11:36:17+03:00",
+   "kelimeler": [
+    "161",
+    "avrup",
+    "cikac",
+    "kupal",
+    "macin",
+    "trabz"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "05cd66de4b67"
+  },
+  "6fcbc18c0c0c": {
+   "id": "6fcbc18c0c0c",
+   "kaynak": "TRT Haber",
+   "baslik": "Amasra'da şiddetli rüzgar: Dalga boyu 5 metreyi geçti",
+   "ozet": "Bartın'ın Amasra ilçesinde kuvvetli rüzgar nedeniyle 5 metrelik dalgalar oluştu. Balıkçılar denize açılamazken, polis ve zabıta ekipleri Küçük Liman mevkiinde bariyerlerle önlem aldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/amasrada-siddetli-ruzgar-dalga-boyu-5-metreyi-gecti-964419.html",
+   "zaman": "2026-11-25T11:41:00+03:00",
+   "kelimeler": [
+    "amasr",
+    "boyu",
+    "dalga",
+    "gecti",
+    "metre",
+    "ruzga",
+    "sidde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6e3dd3b0c8fa": {
+   "id": "6e3dd3b0c8fa",
+   "kaynak": "AA",
+   "baslik": "İsrailli sunucudan Filistinlilerin canlı kalkan yapılmasını anlatan haberin sansürlenmesi çağrılarına tepki",
+   "ozet": "İsrail devlet televizyonu Kan 11'de \"Zman Emet\" programını sunan Chen Liberman, İsrail ordusunun Filistinli sivilleri canlı kalkan olarak kullanmasını konu alan \"Sivrisinek Prosedürü\" araştırmasının sansürlenmesi yönündeki çağrılara tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-sunucudan-filistinlilerin-canli-kalkan-yapilmasini-anlatan-haberin-sansurlenmesi-cagrilarina-tepki/4136917",
+   "zaman": "2026-11-25T11:41:30+03:00",
+   "kelimeler": [
+    "anlat",
+    "cagri",
+    "filis",
+    "haber",
+    "israi",
+    "kalka",
+    "sansu",
+    "sunuc",
+    "tepki",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "41429f88d60c": {
+   "id": "41429f88d60c",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş, İsrail takımlarıyla 8. kez karşılaşacak",
+   "ozet": "UEFA Avrupa Ligi'nin beşinci haftasında yarın Hapoel Beer Sheva'yı Gürcistan'da ağırlayacak Beşiktaş, İsrail ekipleriyle 8. maçını oynayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-israil-takimlariyla-8-kez-karsilasacak/4136918",
+   "zaman": "2026-11-25T11:41:57+03:00",
+   "kelimeler": [
+    "besik",
+    "israi",
+    "karsi",
+    "kez",
+    "takim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "900bcab461b7": {
+   "id": "900bcab461b7",
+   "kaynak": "AA",
+   "baslik": "Rakibinin elini sıkmayan milli bilek güreşçinin tavrı \"İsrail zulmüne karşı\"",
+   "ozet": "Hindistan'da düzenlenen dünya şampiyonasında İsrailli rakibinin elini sıkmayan milli bilek güreşçi Beytullah Macit, kaçırdığı şampiyonluğa ulaşmak için antrenmanlarını sürdürüyor.",
+   "link": "https://www.aa.com.tr/tr/spor/rakibinin-elini-sikmayan-milli-bilek-gurescinin-tavri-israil-zulmune-karsi/4136922",
+   "zaman": "2026-11-25T11:43:05+03:00",
+   "kelimeler": [
+    "bilek",
+    "elini",
+    "gures",
+    "israi",
+    "karsi",
+    "milli",
+    "rakib",
+    "sikma",
+    "tavri",
+    "zulmu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8897a9eb031e": {
+   "id": "8897a9eb031e",
+   "kaynak": "AA",
+   "baslik": "Terminalden uçağa bir valizin havalimanındaki yolculuğu",
+   "ozet": "Havalimanlarında yolculara ait binlerce valiz, perde arkasında birçok işlemden geçerek önce uçaklara, ardından da kilometrelerce yol katederek varış noktalarına ulaşıyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/terminalden-ucaga-bir-valizin-havalimanindaki-yolculugu/4136923",
+   "zaman": "2026-11-25T11:43:11+03:00",
+   "kelimeler": [
+    "haval",
+    "termi",
+    "ucaga",
+    "valiz",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "841f2b992441": {
+   "id": "841f2b992441",
+   "kaynak": "AA",
+   "baslik": "A Milli Basketbol Takımı, İtalya karşısında resmi maçlardaki 3. galibiyetin peşinde",
+   "ozet": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Avrupa Elemeleri'nde yarın konuk olacağı İtalya karşısında resmi maçlardaki üçüncü galibiyetini almaya çalışacak.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-basketbol-takimi-italya-karsisinda-resmi-maclardaki-3-galibiyetin-pesinde/4136926",
+   "zaman": "2026-11-25T11:43:18+03:00",
+   "kelimeler": [
+    "baske",
+    "galib",
+    "italy",
+    "karsi",
+    "macla",
+    "milli",
+    "pesin",
+    "resmi",
+    "takim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3a89cbdbd4e7": {
+   "id": "3a89cbdbd4e7",
+   "kaynak": "AA",
+   "baslik": "Palamut balıkçıların yüzünü güldürüyor",
+   "ozet": "Karadeniz'de yüksek miktarda avcılığı yapılan palamut, bu sezonki bolluğuyla balıkçıların yüzünü güldürüyor.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/palamut-balikcilarin-yuzunu-gulduruyor/4136928",
+   "zaman": "2026-11-25T11:43:27+03:00",
+   "kelimeler": [
+    "balik",
+    "guldu",
+    "palam",
+    "yuzun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "648763be392d": {
+   "id": "648763be392d",
+   "kaynak": "Hürriyet",
+   "baslik": "60 ilde yeni nesil suç örgütlerine yönelik operasyon: 280 şüpheli yakalandı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi’nin talimatıyla MİT ve emniyet birimlerinin ortak çalışması sonucu 60 ilde yeni nesil suç örgütlerine yönelik operasyonlar düzenlendi. 280 şüphelinin yakalandığı aramalarda çok sayıda uzun namlulu silah, tabanca ve tüfek ele geçirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/60-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyon-280-supheli-yakalandi-43390449",
+   "zaman": "2026-11-25T11:44:00+03:00",
+   "kelimeler": [
+    "280",
+    "60",
+    "ilde",
+    "nesil",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe",
+    "yakal",
+    "yeni",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "460163a3fef7"
+  },
+  "6fec7351d713": {
+   "id": "6fec7351d713",
+   "kaynak": "Hürriyet",
+   "baslik": "Bolu'da Mars'la ilgili dikkat çeken proje | 'Önemli sonuçlar elde edildi'",
+   "ozet": "Bolu'da üç üniversitenin katılımıyla Mars toprağının tarıma elverişli hale getirilmesine yönelik proje yürütülüyor. Bolu Abant İzzet Baysal Üniversitesi Fen Edebiyat Fakültesi Öğretim Üyesi Doç. Dr.",
+   "link": "https://www.hurriyet.com.tr/gundem/boluda-marsla-ilgili-dikkat-ceken-proje-onemli-sonuclar-elde-edildi-43390437",
+   "zaman": "2026-11-25T11:44:00+03:00",
+   "kelimeler": [
+    "bolu",
+    "ceken",
+    "dikka",
+    "edild",
+    "elde",
+    "ilgil",
+    "la",
+    "mars",
+    "oneml",
+    "proje",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "418f4db0e431": {
+   "id": "418f4db0e431",
+   "kaynak": "AA",
+   "baslik": "Turistler Kapadokya'nın güzelliklerini foto safarilerle keşfediyor",
+   "ozet": "Türkiye'nin önemli turizm merkezlerinden Kapadokya'yı ziyaret eden turistler, bölgenin doğal güzelliklerini foto safari turlarıyla deneyimliyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/turistler-kapadokyanin-guzelliklerini-foto-safarilerle-kesfediyor/4136936",
+   "zaman": "2026-11-25T11:45:17+03:00",
+   "kelimeler": [
+    "guzel",
+    "kapad",
+    "kesfe",
+    "nin",
+    "safar",
+    "turis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "af28f6f1f19a": {
+   "id": "af28f6f1f19a",
+   "kaynak": "TRT Haber",
+   "baslik": "60 ilde yeni nesil suç örgütlerine operasyon 280 gözaltı",
+   "ozet": "İçişleri Bakanlığı, 60 ilde \"yeni nesil suç örgütleri\"ne yönelik düzenlenen operasyonlarda 280 şüphelinin yakalandığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/60-ilde-yeni-nesil-suc-orgutlerine-operasyon-280-gozalti-964420.html",
+   "zaman": "2026-11-25T11:46:00+03:00",
+   "kelimeler": [
+    "280",
+    "60",
+    "gozal",
+    "ilde",
+    "nesil",
+    "opera",
+    "orgut",
+    "suc",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a49e284935ae": {
+   "id": "a49e284935ae",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Uraloğlu: Kalkınma Yolu Projesi'ne geç kalmadan başlayarak hayata geçireceğiz",
+   "ozet": "Bakan Uraloğlu, Kalkınma Yolu Projesi'nin geç kalmadan hayata geçirileceğini söyleyerek, \"Türkiye, Orta Doğu'daki ulaştırma bağlantılarının güçlendirilmesini ekonomik bir gerekliliğin yanı sıra bölgesel istikrar ve ortak refah açısından stratejik öncelik olarak görüyor\"…",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-uraloglu-kalkinma-yolu-projesine-gec-kalmadan-baslayarak-hayata-gecirecegiz-964422.html",
+   "zaman": "2026-11-25T11:47:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "basla",
+    "gec",
+    "gecir",
+    "hayat",
+    "kalki",
+    "kalma",
+    "proje",
+    "uralo",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7153dcdf483a": {
+   "id": "7153dcdf483a",
+   "kaynak": "AA",
+   "baslik": "İngiltere-AB yakınlaşmasında ekonomik kazanımların boyutunu yeni ilişki modeli belirleyecek",
+   "ozet": "İngiltere, AB'den ayrılma kararının üzerinden geçen 10 yılın ardından Birlik ile yeniden yakınlaşırken, bu sürecin sağlayacağı ekonomik kazanımların boyutunu iki taraf arasındaki yeni ilişki modeli belirleyecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ingiltere-ab-yakinlasmasinda-ekonomik-kazanimlarin-boyutunu-yeni-iliski-modeli-belirleyecek/4136948",
+   "zaman": "2026-11-25T11:48:50+03:00",
+   "kelimeler": [
+    "ab",
+    "belir",
+    "boyut",
+    "ekono",
+    "ilisk",
+    "ingil",
+    "kazan",
+    "model",
+    "yakin",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "7dc161d335b8": {
+   "id": "7dc161d335b8",
+   "kaynak": "TRT Haber",
+   "baslik": "İmamoğlu'nun diploma iptali kararı onandı",
+   "ozet": "Danıştay 8. Dairesi, tutuklanmasının ardından İstanbul Büyükşehir Belediye İBB Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun, üniversite diplomasının iptal edilmesi kararına yapılan itirazın reddine hükmetti.",
+   "link": "https://www.trthaber.com/haber/gundem/imamoglunun-diploma-iptali-karari-onandi-964421.html",
+   "zaman": "2026-11-25T11:50:00+03:00",
+   "kelimeler": [
+    "diplo",
+    "imamo",
+    "iptal",
+    "karar",
+    "nun",
+    "onand"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9854b997c9cc"
+  },
+  "5b372f8f8d04": {
+   "id": "5b372f8f8d04",
+   "kaynak": "AA",
+   "baslik": "Türkiye'nin bitki genetik mirası eksi 196 derecede korunacak",
+   "ozet": "Türkiye'nin yerel sebze ve bitki çeşitlerine ait genetik kaynaklar, Erciyes Üniversitesi (ERÜ) bünyesinde kurulması planlanan tesiste eksi 196 derecedeki sıvı azot tanklarında dondurularak korunacak.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-bitki-genetik-mirasi-eksi-196-derecede-korunacak/4136964",
+   "zaman": "2026-11-25T11:53:55+03:00",
+   "kelimeler": [
+    "196",
+    "bitki",
+    "derec",
+    "eksi",
+    "genet",
+    "korun",
+    "miras",
+    "nin",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7fa097e508cd": {
+   "id": "7fa097e508cd",
+   "kaynak": "NTV",
+   "baslik": "DEM Parti heyeti Bakan Gürlek ile görüştü",
+   "ozet": "DEM Parti İmralı Heyeti, terörsüz Türkiye sürecine ilişkin Adalet Bakanı Akın Gürlek ile görüştü.",
+   "link": "https://www.ntv.com.tr/turkiye/dem-parti-heyeti-bakan-gurlek-ile-gorustu-1752531",
+   "zaman": "2026-11-25T11:59:44+03:00",
+   "kelimeler": [
+    "bakan",
+    "dem",
+    "gorus",
+    "gurle",
+    "heyet",
+    "parti"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 12:01:33  14 yeni haber",
   "25.11 11:46:00  15 yeni haber",
   "25.11 11:31:18  4 yeni haber",
   "25.11 11:16:29  7 yeni haber",
@@ -28408,8 +28648,7 @@
   "23.11 07:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "23.11 07:03:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Günümüzde Konya'da giyim mağazası işleten ve vatan uğruna iki bacağını",
   "23.11 07:01:47  1 yeni haber",
-  "23.11 06:31:14  1 yeni haber",
-  "23.11 03:31:41  1 yeni haber"
+  "23.11 06:31:14  1 yeni haber"
  ],
  "otomatik": false
 }
