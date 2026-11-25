@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "2b2c2d95a82f": {
-   "id": "2b2c2d95a82f",
-   "kaynak": "AA",
-   "baslik": "Netanyahu’nun Trump'ı \"en kısa sürede\" İran'a yeni saldırı başlatması için ikna etmeye çalıştığı bildirildi",
-   "ozet": "İsrail geçici Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'ı \"mümkün olan en kısa süre içinde\" İran'a yeni saldırı talimatı vermesi için ikna etmeye çalıştığı aktarıldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/netanyahu-nun-trumpi-en-kisa-surede-irana-yeni-saldiri-baslatmasi-icin-ikna-etmeye-calistigi-bildirildi/4133887",
-   "zaman": "2026-11-23T02:13:21+03:00",
-   "kelimeler": [
-    "basla",
-    "bildi",
-    "calis",
-    "etmey",
-    "ikna",
-    "iran",
-    "kisa",
-    "netan",
-    "nun",
-    "saldi",
-    "sured",
-    "trump",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3d4cc8a64b28": {
    "id": "3d4cc8a64b28",
    "kaynak": "TRT Haber",
@@ -27512,7 +27487,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f0eeddb74d1e": {
    "id": "f0eeddb74d1e",
@@ -30741,9 +30719,52 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "17fa9768b407": {
+   "id": "17fa9768b407",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'de düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyinde düzenlediği hava saldırısında 3 Filistinli yaşamını yitirdi, 2 kişi de yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti/4138114",
+   "zaman": "2026-11-26T02:00:01+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "ragme",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "499d367a7ff4"
+  },
+  "83a82cea80be": {
+   "id": "83a82cea80be",
+   "kaynak": "Sözcü",
+   "baslik": "Milyonlarca kişinin borcu siliniyor! Düzenleme Meclis'te",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/gss-borclarinin-tahsilinden-vazgecilmesini-ongoren-teklif-mecliste-p384441",
+   "zaman": "2026-11-26T02:08:56+03:00",
+   "kelimeler": [
+    "borcu",
+    "duzen",
+    "kisin",
+    "mecli",
+    "milyo",
+    "silin",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 02:15:55  1 yeni haber",
   "26.11 02:01:32  2 yeni haber",
   "26.11 01:33:39  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Arda Turan: \"Fenerbahçe'yi tebrik ediyorum.",
   "26.11 01:31:11  3 yeni haber",
@@ -30942,8 +30963,7 @@
   "23.11 21:16:01  2 yeni haber",
   "23.11 21:01:30  1 yeni haber",
   "23.11 20:46:17  2 yeni haber",
-  "23.11 20:31:21  5 yeni haber",
-  "23.11 20:16:12  2 yeni haber"
+  "23.11 20:31:21  5 yeni haber"
  ],
  "otomatik": false
 }
