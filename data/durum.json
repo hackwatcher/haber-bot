@@ -1,68 +1,5 @@
 {
  "haberler": {
-  "3934983b0e70": {
-   "id": "3934983b0e70",
-   "kaynak": "NTV",
-   "baslik": "Kepez Belediyesi'ne rüşvet operasyonu. 10 kişi gözaltına alındı",
-   "ozet": "Antalya'da Kepez Belediyesi'ne yönelik düzenlenen rüşvet ve irtikap operasyonunda 10 şüpheli gözaltına alındı.",
-   "link": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
-   "zaman": "2026-11-22T10:56:27+03:00",
-   "kelimeler": [
-    "10",
-    "alind",
-    "beled",
-    "gozal",
-    "kepez",
-    "kisi",
-    "opera",
-    "rusve"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "AA",
-    "TRT Haber",
-    "BBC Türkçe"
-   ]
-  },
-  "44761de68d78": {
-   "id": "44761de68d78",
-   "kaynak": "NTV",
-   "baslik": "Lokantada ölümle burun buruna geldi, Heimlich manevrasıyla kurtarıldı",
-   "ozet": "Adana'nın merkez Seyhan ilçesinde boğazına yiyecek takılan müşteri, lokanta sahibinin yaptığı Heimlich manevrasıyla kurtuldu.",
-   "link": "https://www.ntv.com.tr/turkiye/video-lokantada-olumle-burun-buruna-geldi-heimlich-manevrasiyla-kurtarildi-1752025",
-   "zaman": "2026-11-22T10:58:45+03:00",
-   "kelimeler": [
-    "burun",
-    "geldi",
-    "heiml",
-    "kurta",
-    "lokan",
-    "manev",
-    "oluml"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7cc1bc83d090": {
-   "id": "7cc1bc83d090",
-   "kaynak": "Hürriyet",
-   "baslik": "Kepez Belediyesi'ne operasyonda 10 gözaltı",
-   "ozet": "Antalya Kepez Belediyesi’ne yapılan rüşvet ve irtikap operasyonunda 10 kişi gözaltına alındı",
-   "link": "https://www.hurriyet.com.tr/gundem/kepez-belediyesine-operasyonda-10-gozalti-43386774",
-   "zaman": "2026-11-22T11:01:00+03:00",
-   "kelimeler": [
-    "10",
-    "beled",
-    "gozal",
-    "kepez",
-    "opera"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3934983b0e70"
-  },
   "bc8f6aa53abf": {
    "id": "bc8f6aa53abf",
    "kaynak": "AA",
@@ -1053,24 +990,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "93692b68d248": {
-   "id": "93692b68d248",
-   "kaynak": "Hürriyet",
-   "baslik": "Kepez Belediyesi'ne operasyonda 20 gözaltı",
-   "ozet": "Antalya'da Kepez Belediyesi’ne yönelik 'rüşvet' operasyonunda aralarında çoğunluğu belediyede müdür düzeyinde 20 şüpheli, gözaltına alındı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kepez-belediyesine-operasyonda-20-gozalti-43386774",
-   "zaman": "2026-11-22T11:01:00+03:00",
-   "kelimeler": [
-    "20",
-    "beled",
-    "gozal",
-    "kepez",
-    "opera"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3934983b0e70"
-  },
   "0fa10a690a0c": {
    "id": "0fa10a690a0c",
    "kaynak": "AA",
@@ -1943,29 +1862,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "96e73c48de9d"
-  },
-  "950242d8a2ae": {
-   "id": "950242d8a2ae",
-   "kaynak": "AA",
-   "baslik": "Yeryüzü Doktorlarından Lübnan'daki mülteci kampında Filistinlilere ücretsiz sağlık hizmeti",
-   "ozet": "Yeryüzü Doktorları Derneği, Lübnan'daki Filistinli mültecilerin sağlık hizmetlerine erişimini desteklemek amacıyla Nahr El Bared Mülteci Kampı'nda ücretsiz muayene gerçekleştirip ilaç desteği verdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/yeryuzu-doktorlarindan-lubnandaki-multeci-kampinda-filistinlilere-ucretsiz-saglik-hizmeti-/4133354",
-   "zaman": "2026-11-22T10:53:21+03:00",
-   "kelimeler": [
-    "daki",
-    "dokto",
-    "filis",
-    "hizme",
-    "kampi",
-    "lubna",
-    "multe",
-    "sagli",
-    "ucret",
-    "yeryu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "3d095d6f91e4": {
    "id": "3d095d6f91e4",
@@ -13945,7 +13841,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "TRT Haber"
    ]
   },
   "b79f57117929": {
@@ -17312,7 +17209,10 @@
     "payla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "60d009cf3d6e": {
    "id": "60d009cf3d6e",
@@ -27968,9 +27868,210 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a31d0661d58d": {
+   "id": "a31d0661d58d",
+   "kaynak": "TRT Haber",
+   "baslik": "Numan Kurtulmuş: Türkiye olarak sosyal dokunun sağlamlaştırılmasını esas alıyoruz",
+   "ozet": "TBMM Başkanı Numan Kurtulmuş, \"Türkiye olarak şiddete karşı sıfır tolerans ilkesiyle kadınların güçlenmesini, ailenin korunmasını ve sosyal dokunun sağlamlaştırılmasını esas alıyoruz\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-turkiye-olarak-sosyal-dokunun-saglamlastirilmasini-esas-aliyoruz-964404.html",
+   "zaman": "2026-11-25T10:40:00+03:00",
+   "kelimeler": [
+    "aliyo",
+    "dokun",
+    "esas",
+    "kurtu",
+    "numan",
+    "sagla",
+    "sosya",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22e46ea196f0": {
+   "id": "22e46ea196f0",
+   "kaynak": "TRT Haber",
+   "baslik": "Fon soruşturmasında tutuklananların sayısı 139 oldu",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 3 şüpheliden 1'i tutuklandı. Soruşturmada bugüne kadar 139 şüpheli tutuklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-tutuklananlarin-sayisi-139-oldu-964403.html",
+   "zaman": "2026-11-25T10:40:00+03:00",
+   "kelimeler": [
+    "139",
+    "fon",
+    "sayis",
+    "sorus",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "78d0c05448c0"
+  },
+  "df579d7c4a1f": {
+   "id": "df579d7c4a1f",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'de uçuşları durduran krizin nedeni belli oldu: Kurumu zorlu sorular bekliyor",
+   "ozet": "ABD Federal Havacılık İdaresi FAA , ülke genelinde tüm uçuşların durdurulmasına yol açan gizemli teknik arızanın kaynağını laboratuvar ortamında tespit etti.",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-ucuslari-durduran-krizin-nedeni-belli-oldu-kurumu-zorlu-sorular-bekliyor-964405.html",
+   "zaman": "2026-11-25T10:43:00+03:00",
+   "kelimeler": [
+    "abd",
+    "bekli",
+    "belli",
+    "durdu",
+    "krizi",
+    "kurum",
+    "neden",
+    "sorul",
+    "ucusl",
+    "zorlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a9ba9c7606ba": {
+   "id": "a9ba9c7606ba",
+   "kaynak": "TRT Haber",
+   "baslik": "Emine Erdoğan'dan Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü paylaşımı",
+   "ozet": "Emine Erdoğan, 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü dolayısıyla paylaşımda bulundu.",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-kadina-yonelik-siddete-karsi-uluslararasi-mucadele-gunu-paylasimi-964406.html",
+   "zaman": "2026-11-25T10:44:00+03:00",
+   "kelimeler": [
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kadin",
+    "karsi",
+    "mucad",
+    "payla",
+    "sidde",
+    "ulusl",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b1f5fde0d30"
+  },
+  "e750cb908482": {
+   "id": "e750cb908482",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasında gözaltına alınan 1 şüpheli tutuklandı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 3 şüpheliden 1'i tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gozaltina-alinan-1-supheli-tutuklandi-43390310",
+   "zaman": "2026-11-25T10:44:49+03:00",
+   "kelimeler": [
+    "alina",
+    "fon",
+    "gozal",
+    "sorus",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "78d0c05448c0"
+  },
+  "91ea7a0dab4b": {
+   "id": "91ea7a0dab4b",
+   "kaynak": "NTV",
+   "baslik": "Bir ay önce evlenen Kardelen'in şüpheli ölümü: Eşi tutuklandı",
+   "ozet": "İstanbul'da Kardelen Hoş isimli kadın, beşinci kattan düşerek yaşamını yitirdi. Kardelen'in bir ay önce evlendiği Burak E., tutuklanarak cezaevine gönderildi.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-bir-ay-once-evlenen-kardelenin-supheli-olumu-esi-tutuklandi-1752512",
+   "zaman": "2026-11-25T10:45:46+03:00",
+   "kelimeler": [
+    "ay",
+    "esi",
+    "evlen",
+    "in",
+    "karde",
+    "olumu",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-25T11:04:09.841894+03:00",
+   "ig_id": "17991150653882329",
+   "reels_id": "18501553807109645",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1144692048308962",
+   "slayt": 5,
+   "kanca": "EŞİ TUTUKLANDI"
+  },
+  "fee6e94bb9ec": {
+   "id": "fee6e94bb9ec",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan'dan 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü paylaşımı",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü dolayısıyla paylaşımda bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-25-kasim-kadina-yonelik-siddete-karsi-uluslararasi-mucadele-gunu-paylasimi-43390324",
+   "zaman": "2026-11-25T10:49:13+03:00",
+   "kelimeler": [
+    "25",
+    "dan",
+    "emine",
+    "erdog",
+    "gunu",
+    "kadin",
+    "karsi",
+    "kasim",
+    "mucad",
+    "payla",
+    "sidde",
+    "ulusl",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1b1f5fde0d30"
+  },
+  "50b989b1d933": {
+   "id": "50b989b1d933",
+   "kaynak": "TRT Haber",
+   "baslik": "KPSS Din Hizmetleri Alan Bilgisi Sınavı sonuçları açıklandı",
+   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca ÖSYM, 2026KPSS Din Hizmetleri Alan Bilgisi Sınavı DHBT sonuçları açıklandı.",
+   "link": "https://www.trthaber.com/haber/egitim/kpss-din-hizmetleri-alan-bilgisi-sinavi-sonuclari-aciklandi-964407.html",
+   "zaman": "2026-11-25T10:50:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "alan",
+    "bilgi",
+    "din",
+    "hizme",
+    "kpss",
+    "sinav",
+    "sonuc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9854b997c9cc": {
+   "id": "9854b997c9cc",
+   "kaynak": "NTV",
+   "baslik": "Danıştay 8. İdari Dairesi, İmamoğlu'nun diplomasının iptali kararını onadı",
+   "ozet": "Danıştay, 8. İdari Dairesi Ekrem İmamoğlu'nun diplomasının iptali kararını onadı.",
+   "link": "https://www.ntv.com.tr/turkiye/danistay-8-idari-dairesi-imamoglunun-diplomasinin-iptali-kararini-onadi-1751606",
+   "zaman": "2026-11-25T10:55:52+03:00",
+   "kelimeler": [
+    "daire",
+    "danis",
+    "diplo",
+    "idari",
+    "imamo",
+    "iptal",
+    "karar",
+    "nun",
+    "onadi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 11:04:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Bir ay önce evlenen Kardelen'in şüpheli ölümü: Eşi tutuklandı",
+  "25.11 11:01:34  5 yeni haber",
   "25.11 10:46:12  4 yeni haber",
   "25.11 10:31:10  7 yeni haber",
   "25.11 10:15:58  9 yeni haber",
@@ -28168,9 +28269,7 @@
   "23.11 03:31:41  1 yeni haber",
   "23.11 03:16:04  2 yeni haber",
   "23.11 02:31:18  1 yeni haber",
-  "23.11 02:15:54  2 yeni haber",
-  "23.11 01:16:18  2 yeni haber",
-  "23.11 01:04:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı"
+  "23.11 02:15:54  2 yeni haber"
  ],
  "otomatik": false
 }
