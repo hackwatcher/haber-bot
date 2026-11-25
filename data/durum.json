@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "508641a28679": {
-   "id": "508641a28679",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara'da iki yavru ayının vurulmasıyla ilgili soruşturma başlatıldı",
-   "ozet": "Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesindeki Soğuksu Milli Parkı'nda iki yavru bozayının vurulmasına ilişkin idari soruşturma başlattı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ankarada-iki-yavru-ayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-964142.html",
-   "zaman": "2026-11-22T16:43:00+03:00",
-   "kelimeler": [
-    "ankar",
-    "ayini",
-    "basla",
-    "iki",
-    "ilgil",
-    "sorus",
-    "vurul",
-    "yavru"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "AA"
-   ]
-  },
-  "f2f39d0df75f": {
-   "id": "f2f39d0df75f",
-   "kaynak": "Hürriyet",
-   "baslik": "Sakarya’da dolu yağışı çevreyi beyaza bürüdü, ardından gökkuşağı çıktı",
-   "ozet": "Kaynarca ilçesine bağlı Sabırlı Mahallesi’nde gün içinde etkili olan sağanak ve dolu yağışı nedeniyle zemin ile ekili alanlar beyaz örtüyle kaplandı. Yağışın dinmesiyle çıkan güneşin ardından gökyüzünde oluşan gökkuşağı cep telefonlarıyla görüntülendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/sakaryada-dolu-yagisi-cevreyi-beyaza-burudu-ardindan-gokkusagi-cikti-43387136",
-   "zaman": "2026-11-22T16:45:00+03:00",
-   "kelimeler": [
-    "ardin",
-    "beyaz",
-    "burud",
-    "cevre",
-    "cikti",
-    "dolu",
-    "gokku",
-    "sakar",
-    "yagis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "0276989fb9d2": {
    "id": "0276989fb9d2",
    "kaynak": "TRT Haber",
@@ -189,26 +144,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "96118789edb4": {
-   "id": "96118789edb4",
-   "kaynak": "TRT Haber",
-   "baslik": "Ankara'da iki ayının vurulmasıyla ilgili soruşturma başlatıldı",
-   "ozet": "Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesindeki Soğuksu Milli Parkı'nda iki bozayının vurulmasına ilişkin idari soruşturma başlattı.",
-   "link": "https://www.trthaber.com/haber/turkiye/ankarada-iki-ayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-964142.html",
-   "zaman": "2026-11-22T16:43:00+03:00",
-   "kelimeler": [
-    "ankar",
-    "ayini",
-    "basla",
-    "iki",
-    "ilgil",
-    "sorus",
-    "vurul"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "508641a28679"
   },
   "c714209417ba": {
    "id": "c714209417ba",
@@ -29543,9 +29478,54 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "7ab7aa447485"
+  },
+  "872ae7746467": {
+   "id": "872ae7746467",
+   "kaynak": "AA",
+   "baslik": "NBA Avrupa için 10 milyar avroluk girişim planı",
+   "ozet": "Amerikan Basketbol Ligi (NBA), NBA Avrupa projesi kapsamında kıta genelinde basketbol salonlarının ve çevresindeki eğlence bölgelerinin geliştirilmesiyle yenilenmesi için en az 10 milyar avroluk finansman hedefleyen girişim planını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/spor/nba-avrupa-icin-10-milyar-avroluk-girisim-plani/4137582",
+   "zaman": "2026-11-25T16:37:32+03:00",
+   "kelimeler": [
+    "10",
+    "avrol",
+    "avrup",
+    "giris",
+    "milya",
+    "nba",
+    "plani"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a671e107414f": {
+   "id": "a671e107414f",
+   "kaynak": "AA",
+   "baslik": "Yemen'de ordu ile Husilerin karşılıklı saldırıları BM'nin insani krize ilişkin çağrılarına rağmen sürüyor",
+   "ozet": "Yemen'de hükümet güçleri ile İran destekli Husiler arasındaki karşılıklı saldırılar sonucu Hudeyde, Sada ve Amran başta olmak üzere birçok vilayette askeri gerilim tırmanırken ülkedeki insani kriz de derinleşiyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-ordu-ile-husilerin-karsilikli-saldirilari-bmnin-insani-krize-iliskin-cagrilarina-ragmen-suruyor/4137583",
+   "zaman": "2026-11-25T16:37:52+03:00",
+   "kelimeler": [
+    "bm",
+    "cagri",
+    "husil",
+    "ilisk",
+    "insan",
+    "karsi",
+    "krize",
+    "nin",
+    "ordu",
+    "ragme",
+    "saldi",
+    "suruy",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 16:45:59  2 yeni haber",
   "25.11 16:41:19  6 yeni haber",
   "25.11 16:31:09  5 yeni haber",
   "25.11 16:18:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ormanda baba-oğul cinayetinde miras şüphesi: Eş, bakıcı ve erkek arkad",
@@ -29744,8 +29724,7 @@
   "23.11 12:16:09  9 yeni haber",
   "23.11 12:01:24  9 yeni haber",
   "23.11 11:46:08  10 yeni haber",
-  "23.11 11:31:13  13 yeni haber",
-  "23.11 11:16:02  7 yeni haber"
+  "23.11 11:31:13  13 yeni haber"
  ],
  "otomatik": false
 }
