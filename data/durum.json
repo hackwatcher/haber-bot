@@ -1,54 +1,5 @@
 {
  "haberler": {
-  "592c8ce9faf7": {
-   "id": "592c8ce9faf7",
-   "kaynak": "AA",
-   "baslik": "Van'ın 2 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
-   "ozet": "Van'ın Çaldıran ve Muradiye ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanin-2-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
-   "zaman": "2026-11-22T23:39:42+03:00",
-   "kelimeler": [
-    "ara",
-    "egiti",
-    "ilces",
-    "in",
-    "kar",
-    "neden",
-    "van",
-    "veril",
-    "yagis",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "NTV",
-    "TRT Haber"
-   ]
-  },
-  "cef554d03110": {
-   "id": "cef554d03110",
-   "kaynak": "Hürriyet",
-   "baslik": "Van'ın 2 ilçesinde kar yağışı nedeniyle eğitime ara verildi",
-   "ozet": "Van'ın Çaldıran ve Muradiye ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/vanin-2-ilcesinde-kar-yagisi-nedeniyle-egitime-ara-verildi-43387424",
-   "zaman": "2026-11-22T23:34:51+03:00",
-   "kelimeler": [
-    "ara",
-    "egiti",
-    "ilces",
-    "in",
-    "kar",
-    "neden",
-    "van",
-    "veril",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "592c8ce9faf7"
-  },
   "019f9cbabd94": {
    "id": "019f9cbabd94",
    "kaynak": "NTV",
@@ -305,29 +256,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "3bedec468037": {
-   "id": "3bedec468037",
-   "kaynak": "AA",
-   "baslik": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
-   "ozet": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
-   "zaman": "2026-11-22T23:39:42+03:00",
-   "kelimeler": [
-    "ara",
-    "egiti",
-    "ilces",
-    "in",
-    "kar",
-    "neden",
-    "van",
-    "veril",
-    "yagis",
-    "yarin"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "592c8ce9faf7"
   },
   "d426b194f9c7": {
    "id": "d426b194f9c7",
@@ -823,28 +751,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "10df2f6fb847": {
-   "id": "10df2f6fb847",
-   "kaynak": "AA",
-   "baslik": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime ara verildi",
-   "ozet": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-ara-verildi/4133858",
-   "zaman": "2026-11-22T23:39:42+03:00",
-   "kelimeler": [
-    "ara",
-    "egiti",
-    "ilces",
-    "in",
-    "kar",
-    "neden",
-    "van",
-    "veril",
-    "yagis"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "592c8ce9faf7"
   },
   "7f8359137b33": {
    "id": "7f8359137b33",
@@ -30662,9 +30568,104 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "7acffa81ea25"
+  },
+  "48779677f28e": {
+   "id": "48779677f28e",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul Valisi Gül'den sokakta kalanlar için çağrı",
+   "ozet": "İstanbul Valisi Davut Gül, kentte hava sıcaklığının gece 2 dereceye kadar düşmesinin beklendiğine işaret ederek, sokakta kalan ve barınmaya ihtiyaç duyan vatandaşların 112 Acil Çağrı Merkezi'ne bildirilmesi çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gulden-sokakta-kalanlar-icin-cagri-964482.html",
+   "zaman": "2026-11-25T23:28:00+03:00",
+   "kelimeler": [
+    "cagri",
+    "den",
+    "gul",
+    "istan",
+    "kalan",
+    "sokak",
+    "valis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dc4d8eb939d0": {
+   "id": "dc4d8eb939d0",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'ye yönelik saldırılarında 38 binden fazla kadın ve kız çocuğu hayatını kaybetti",
+   "ozet": "BM Kadın Biriminin verilerine göre, Ekim 2023 ile Aralık 2025 arasında Gazze'de 38 binden fazla kadın ve kız çocuğu yaşamını yitirdi, yaklaşık 11 bini engelli kaldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-yonelik-saldirilarinda-38-binden-fazla-kadin-ve-kiz-cocugu-hayatini-kaybetti-/4138059",
+   "zaman": "2026-11-25T23:30:20+03:00",
+   "kelimeler": [
+    "38",
+    "binde",
+    "cocug",
+    "fazla",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kadin",
+    "kaybe",
+    "kiz",
+    "saldi",
+    "ye",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e15ac2c8b8b2": {
+   "id": "e15ac2c8b8b2",
+   "kaynak": "AA",
+   "baslik": "Sağlık Bakanı Memişoğlu Çin'in Ankara Büyükelçisi Xuebin ile görüştü",
+   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Çin'in Ankara Büyükelçisi Jiang Xuebin ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cinin-ankara-buyukelcisi-xuebin-ile-gorustu/4138063",
+   "zaman": "2026-11-25T23:33:20+03:00",
+   "kelimeler": [
+    "ankar",
+    "bakan",
+    "buyuk",
+    "cin",
+    "gorus",
+    "in",
+    "memis",
+    "sagli",
+    "xuebi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8556242f609e": {
+   "id": "8556242f609e",
+   "kaynak": "NTV",
+   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 25 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752582",
+   "zaman": "2026-11-25T23:44:28+03:00",
+   "kelimeler": [
+    "2026",
+    "25",
+    "acikl",
+    "bilet",
+    "buldu",
+    "cilgi",
+    "dev",
+    "ekran",
+    "ikram",
+    "kasim",
+    "loto",
+    "mpi",
+    "sahib",
+    "sayis",
+    "sonuc",
+    "sorgu"
+   ],
+   "durum": "engelli",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 23:45:54  4 yeni haber",
   "25.11 23:31:23  2 yeni haber",
   "25.11 23:16:01  4 yeni haber",
   "25.11 23:01:29  1 yeni haber",
@@ -30863,8 +30864,7 @@
   "23.11 18:32:22  1 yeni haber",
   "23.11 18:16:15  9 yeni haber",
   "23.11 17:31:15  3 yeni haber",
-  "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev",
-  "23.11 17:16:40  3 yeni haber"
+  "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev"
  ],
  "otomatik": false
 }
