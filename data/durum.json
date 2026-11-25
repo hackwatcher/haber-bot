@@ -29565,7 +29565,10 @@
     "topla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "3ed11343a1db": {
    "id": "3ed11343a1db",
@@ -30741,6 +30744,55 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "c3bb8fcd233d": {
+   "id": "c3bb8fcd233d",
+   "kaynak": "TRT Haber",
+   "baslik": "İşgalci İsrail'in ateşkese rağmen Gazze'de düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyinde düzenlediği hava saldırısında 3 Filistinli yaşamını yitirdi, 2 kişi de yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-ateskese-ragmen-gazzede-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-964486.html",
+   "zaman": "2026-11-26T02:22:00+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "isgal",
+    "israi",
+    "kaybe",
+    "ragme",
+    "saldi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "499d367a7ff4"
+  },
+  "853734d1dcbc": {
+   "id": "853734d1dcbc",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasıyla ilgili ortak basın toplantısı. Yılmaz, Şimşek ve Gürlek bugün açıklama yapacak",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ve Adalet Bakanı Gürlek fon meselesinde son duruma ilişkin bugün basın toplantısı yapacak.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-bugun-aciklama-yapacak-1752597",
+   "zaman": "2026-11-26T02:45:51+03:00",
+   "kelimeler": [
+    "acikl",
+    "basin",
+    "bugun",
+    "fon",
+    "gurle",
+    "ilgil",
+    "ortak",
+    "simse",
+    "sorus",
+    "topla",
+    "yapac",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f44e250aa03"
   }
  },
  "kayit": [
