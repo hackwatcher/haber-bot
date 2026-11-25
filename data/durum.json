@@ -30232,7 +30232,10 @@
     "yuzde"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "e24d262d9add": {
    "id": "e24d262d9add",
@@ -30427,9 +30430,76 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "f0805e8d2191": {
+   "id": "f0805e8d2191",
+   "kaynak": "AA",
+   "baslik": "İran Dışişleri Bakanı Erakçi: İsrail, yönelttiği her suçlamayla aslında kendi suçunu itiraf ediyor",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Savunma Bakanı Yisrael Katz'ın ülkesini kimyasal silah üretmeye çalışmakla suçlamasına tepki göstererek, \"İsrail, yönelttiği her suçlamayla aslında kendi suçunu itiraf ediyor.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-israil-yonelttigi-her-suclamayla-aslinda-kendi-sucunu-itiraf-ediyor/4137817",
+   "zaman": "2026-11-25T20:02:18+03:00",
+   "kelimeler": [
+    "aslin",
+    "bakan",
+    "disis",
+    "ediyo",
+    "erakc",
+    "her",
+    "iran",
+    "israi",
+    "itira",
+    "kendi",
+    "sucla",
+    "sucun",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "400ddd2e3820": {
+   "id": "400ddd2e3820",
+   "kaynak": "NTV",
+   "baslik": "Bursa'dan Kars'a 18 şehir daha YHT ile buluşacak",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 2030 yılına kadar 18 ilin daha yüksek hızlı trenle (YHT) buluşacağını söyledi.",
+   "link": "https://www.ntv.com.tr/turkiye/bursadan-karsa-18-sehir-daha-yht-ile-bulusacak-1752572",
+   "zaman": "2026-11-25T20:08:57+03:00",
+   "kelimeler": [
+    "18",
+    "bulus",
+    "bursa",
+    "dan",
+    "kars",
+    "sehir",
+    "yht"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "84af3823a9fe": {
+   "id": "84af3823a9fe",
+   "kaynak": "XHABER",
+   "baslik": "İzmir'de suya %63 indirim yapıldı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30919",
+   "zaman": "2026-11-25T20:10:39+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İzmir'de suya %63 indirim yapıldı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/iptotg_8HV_E6zRz0uXV97XmtOnFxYYBCYOVLsFSk4eklH8RJTElQKhrXR1eWSwvWmf-xzIiTm78tahKq1c8HqCTsso_elvfGdS1TqHZiThnwLo8uKx-PR931oPcPUIshJuVVpgxMVnOD1YYBuyCcSn427C36UsUt9lVM53l7leUr0bgSWjoTLMZgtKsl7AeptkyHwOoDcJMJCw7YpL0YXmR4OMH7CHf1fCzkUnmmCoefsSutHutn1w02WXQ-CC4IwNybPzrXlAdLJYo-l-UlkXgiK_3_ap3DwY4i_zU2t6gGofiM5J5oBtOeEjFzMOGoU1ZcCIy-lpK9XX4XVtOJQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "63",
+    "indir",
+    "izmir",
+    "suya",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7acffa81ea25"
   }
  },
  "kayit": [
+  "25.11 20:16:13  2 yeni haber",
   "25.11 20:01:51  4 yeni haber",
   "25.11 19:45:59  3 yeni haber",
   "25.11 19:31:14  12 yeni haber",
@@ -30628,8 +30698,7 @@
   "23.11 15:16:35  4 yeni haber",
   "23.11 15:01:35  4 yeni haber",
   "23.11 14:45:57  4 yeni haber",
-  "23.11 14:31:09  4 yeni haber",
-  "23.11 14:16:09  3 yeni haber"
+  "23.11 14:31:09  4 yeni haber"
  ],
  "otomatik": false
 }
