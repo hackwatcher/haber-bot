@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "9a3af0da893a": {
-   "id": "9a3af0da893a",
-   "kaynak": "AA",
-   "baslik": "Kars'ta ekipler enkazdan hastaneye uzanan hayat kurtarma zincirini kış şartlarında denedi",
-   "ozet": "Kars'ta ekipler, kış aylarında ağırlaşan hava ve arazi koşullarına rağmen olası afetlerde enkazdan yaralıların çıkarılması, ilk müdahalelerinin yapılması ve hastaneye ulaştırılması süreçlerini eksiksiz yürütebilmek için çalışma yapıyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/karsta-ekipler-enkazdan-hastaneye-uzanan-hayat-kurtarma-zincirini-kis-sartlarinda-denedi/4133411",
-   "zaman": "2026-11-22T12:03:14+03:00",
-   "kelimeler": [
-    "dened",
-    "ekipl",
-    "enkaz",
-    "hasta",
-    "hayat",
-    "kars",
-    "kis",
-    "kurta",
-    "sartl",
-    "ta",
-    "uzana",
-    "zinci"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "69ee74b1e3f3": {
-   "id": "69ee74b1e3f3",
-   "kaynak": "TRT Haber",
-   "baslik": "İletişim Başkanı Duran'dan şehidimiz Gergün için taziye mesajı",
-   "ozet": "İletişim Başkanı Burhanettin Duran, Şırnak'ın Uludere ilçesinde silah kazası sonucu şehit olan Astsubay Çavuş Yalın Gergün için başsağlığı diledi.",
-   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-sehidimiz-gergun-icin-taziye-mesaji-964121.html",
-   "zaman": "2026-11-22T12:13:00+03:00",
-   "kelimeler": [
-    "baska",
-    "dan",
-    "duran",
-    "gergu",
-    "ileti",
-    "mesaj",
-    "sehid",
-    "taziy"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "d78d3ec745de": {
-   "id": "d78d3ec745de",
-   "kaynak": "AA",
-   "baslik": "Meteorolojiden doğu kesimlerde kuvvetli sağanak ve kar uyarısı",
-   "ozet": "Meteoroloji Genel Müdürlüğü, Muş, Ağrı, Van, Bitlis, Diyarbakır, Bingöl, Batman ve Siirt çevrelerinde kuvvetli sağanak, yüksek kesimlerde ise karla karışık yağmur ve kar beklendiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-dogu-kesimlerde-kuvvetli-saganak-ve-kar-uyarisi/4133423",
-   "zaman": "2026-11-22T12:14:32+03:00",
-   "kelimeler": [
-    "dogu",
-    "kar",
-    "kesim",
-    "kuvve",
-    "meteo",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "6aca61c7b848": {
    "id": "6aca61c7b848",
    "kaynak": "AA",
@@ -639,25 +573,6 @@
     "AA",
     "TRT Haber"
    ]
-  },
-  "28429bf13deb": {
-   "id": "28429bf13deb",
-   "kaynak": "AA",
-   "baslik": "Meteorolojiden İstanbul ve çevresi için kuvvetli sağanak uyarısı",
-   "ozet": "Meteoroloji Genel Müdürlüğü, Marmara'nın güney ve doğusu ile Kuzey Ege'de kuvvetli sağanak uyarısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/meteorolojiden-istanbul-ve-cevresi-icin-kuvvetli-saganak-uyarisi/4133423",
-   "zaman": "2026-11-22T12:14:32+03:00",
-   "kelimeler": [
-    "cevre",
-    "istan",
-    "kuvve",
-    "meteo",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d78d3ec745de"
   },
   "9edef7b630f8": {
    "id": "9edef7b630f8",
@@ -28427,7 +28342,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7fa097e508cd": {
    "id": "7fa097e508cd",
@@ -28446,9 +28364,380 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "22691850843d": {
+   "id": "22691850843d",
+   "kaynak": "AA",
+   "baslik": "Yaşamına 118 film sığdıran oyuncu ve yönetmen Temel Gürsu evinin kapılarını AA'ya açtı",
+   "ozet": "Silivri’deki evinin kapılarını AA'ya açan sanatçı, Ferdi Tayfur’dan Türkan Şoray’a, Fatma Girik’ten Cüneyt Arkın’a uzanan yıldızlarla geçen yıllarını ve unutulmaz filmlerinin hikayelerini paylaştı.",
+   "link": "https://www.aa.com.tr/tr/kultur/yasamina-118-film-sigdiran-oyuncu-ve-yonetmen-temel-gursu-evinin-kapilarini-aaya-acti/4136789",
+   "zaman": "2026-11-25T11:03:03+03:00",
+   "kelimeler": [
+    "118",
+    "aa",
+    "acti",
+    "evini",
+    "film",
+    "gursu",
+    "kapil",
+    "oyunc",
+    "sigdi",
+    "temel",
+    "ya",
+    "yasam",
+    "yonet"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "183347e24a69": {
+   "id": "183347e24a69",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk müziği küçük ellerde hayat buluyor",
+   "ozet": "Türkiye'nin ilk Türk müziği ilkokulunda çocuklar, altı yaşından itibaren geleneksel enstrümanlarla tanışıyor. Kanun, ud ve lavta gibi enstrümanları kendi tercihleriyle seçen öğrenciler, akademik derslerinin yanı sıra Türk müziği eğitimi de alıyor.",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/turk-muzigi-kucuk-ellerde-hayat-buluyor-964418.html",
+   "zaman": "2026-11-25T11:26:00+03:00",
+   "kelimeler": [
+    "buluy",
+    "eller",
+    "hayat",
+    "kucuk",
+    "muzig",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1849746ccd65": {
+   "id": "1849746ccd65",
+   "kaynak": "AA",
+   "baslik": "İşitme engelli milli güreşçilerin Avrupa Şampiyonası'nda hedefi zirve",
+   "ozet": "İşitme Engelli Güreş Milli Takımı Başantrenörü Yücel Ünsal, 2026 Avrupa Şampiyonası'na 48 sporcuyla geldiklerini belirterek, büyüklerde 10 sıkletin 8'inde altın madalya hedeflediklerini söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-gurescilerin-avrupa-sampiyonasinda-hedefi-zirve/4136951",
+   "zaman": "2026-11-25T11:49:46+03:00",
+   "kelimeler": [
+    "avrup",
+    "engel",
+    "gures",
+    "hedef",
+    "isitm",
+    "milli",
+    "nda",
+    "sampi",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "8b2e4e893a67": {
+   "id": "8b2e4e893a67",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Ordu Sözcüsü Ekreminia: Hürmüz Boğazı üzerinde daha güçlü bir kontrol ve gözetim uygulanıyor",
+   "ozet": "İran Ordu Sözcüsü Tuğgeneral Muhammed Ekreminia, Hürmüz Boğazı üzerindeki kontrol ve gözetimin artırıldığını belirterek, gemilerin güvenli geçiş için İran Silahlı Kuvvetleri ile koordinasyon sağlaması gerektiğini söyledi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-ordu-sozcusu-ekreminia-hurmuz-bogazi-uzerinde-daha-guclu-bir-kontrol-ve-gozetim-uygulaniyor-964423.html",
+   "zaman": "2026-11-25T11:56:00+03:00",
+   "kelimeler": [
+    "bogaz",
+    "ekrem",
+    "gozet",
+    "guclu",
+    "hurmu",
+    "iran",
+    "kontr",
+    "ordu",
+    "sozcu",
+    "uygul",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ed9c1d037aae": {
+   "id": "ed9c1d037aae",
+   "kaynak": "TRT Haber",
+   "baslik": "Bitki genetik mirası eksi 196 derecede korunacak",
+   "ozet": "Türkiye'nin yerel sebze ve bitki çeşitlerine ait genetik kaynaklar, Erciyes Üniversitesi ERÜ bünyesinde kurulması planlanan tesiste eksi 196 derecedeki sıvı azot tanklarında dondurularak korunacak.",
+   "link": "https://www.trthaber.com/haber/cevre/bitki-genetik-mirasi-eksi-196-derecede-korunacak-964424.html",
+   "zaman": "2026-11-25T11:57:00+03:00",
+   "kelimeler": [
+    "196",
+    "bitki",
+    "derec",
+    "eksi",
+    "genet",
+    "korun",
+    "miras"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5b372f8f8d04"
+  },
+  "7c70e633e3d6": {
+   "id": "7c70e633e3d6",
+   "kaynak": "AA",
+   "baslik": "Birleşik Krallık-AB anlaşması: Yeniden katılım siyaseti mi?",
+   "ozet": "Brüksel’de varılan anlaşma, nihayetinde Birleşik Krallık’ın AB’ye katılımıyla sonuçlanabilecek bir sürecin hem sembolik hem de somut anlamda bir başlangıcı olabilir.",
+   "link": "https://www.aa.com.tr/tr/analiz/birlesik-krallik-ab-anlasmasi-yeniden-katilim-siyaseti-mi/4136977",
+   "zaman": "2026-11-25T11:57:40+03:00",
+   "kelimeler": [
+    "ab",
+    "anlas",
+    "birle",
+    "katil",
+    "krall",
+    "siyas",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1aabbffdf48a": {
+   "id": "1aabbffdf48a",
+   "kaynak": "AA",
+   "baslik": "Uzmanlara göre, Türkiye-Katar savunma anlaşması Körfez'in güvenliğini güçlendirecek",
+   "ozet": "Uzmanlar Türkiye ile Katar arasında imzalanan ortak savunma işbirliği anlaşmasının yalnızca Katar'ın değil, tüm Körfez bölgesinin güvenliğine katkı sağlayacağını belirtiyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/uzmanlara-gore-turkiye-katar-savunma-anlasmasi-korfezin-guvenligini-guclendirecek/4136980",
+   "zaman": "2026-11-25T11:59:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "gore",
+    "gucle",
+    "guven",
+    "in",
+    "katar",
+    "korfe",
+    "savun",
+    "turki",
+    "uzman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1e103b014182": {
+   "id": "1e103b014182",
+   "kaynak": "Hürriyet",
+   "baslik": "Dünyadan COP31 için geldiler, Toroslar’daki 2,5 milyon yıllık buzula çıktılar",
+   "ozet": "Almanya, İtalya, Kolombiya, Filipinler ve Kuzey Amerika’dan çevreciler, Meke Gölü’nün ardından gezgin Hasan Hüseyin Kahriman’la Geyik Dağları’na çıktı. Kolombiyalı sözcü Barreneche, 2,5 milyon yıllık buzulun keşfini \"dünya için mucize\" olarak niteledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/dunyadan-cop31-icin-geldiler-toroslardaki-2-5-milyon-yillik-buzula-ciktilar-43390386",
+   "zaman": "2026-11-25T12:00:54+03:00",
+   "kelimeler": [
+    "buzul",
+    "cikti",
+    "cop31",
+    "daki",
+    "dunya",
+    "geldi",
+    "milyo",
+    "toros",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3ce014d31d7f": {
+   "id": "3ce014d31d7f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Çözüm sürecinde gözler MGK'ya çevrildi: Teyit kararı ne zaman çıkacak?",
+   "ozet": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı süreçte, PKK'nın silah bıraktığının teyidi konusunda gözler 26 Kasım Perşembe günü yapılması beklenen Milli Güvenlik Kurulu (MGK) toplantısına çevrildi.",
+   "link": "https://www.bbc.com/turkce/articles/c63rg9vy987qo",
+   "zaman": "2026-11-25T12:02:03+03:00",
+   "kelimeler": [
+    "cevri",
+    "cikac",
+    "cozum",
+    "gozle",
+    "karar",
+    "mgk",
+    "surec",
+    "teyit",
+    "ya",
+    "zaman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0e25b956dc23": {
+   "id": "0e25b956dc23",
+   "kaynak": "AA",
+   "baslik": "\"Yeni nesil suç örgütlerine\" yönelik 60 ilde düzenlenen operasyonlarda 280 şüpheli yakalandı",
+   "ozet": "İçişleri Bakanlığı, 60 ilde \"yeni nesil suç örgütlerine\" yönelik operasyonlarda 280 şüphelinin gözaltına alındığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/yeni-nesil-suc-orgutlerine-yonelik-60-ilde-duzenlenen-operasyonlarda-280-supheli-yakalandi/4136991",
+   "zaman": "2026-11-25T12:03:57+03:00",
+   "kelimeler": [
+    "280",
+    "60",
+    "duzen",
+    "ilde",
+    "nesil",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe",
+    "yakal",
+    "yeni",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "460163a3fef7"
+  },
+  "fc1573606529": {
+   "id": "fc1573606529",
+   "kaynak": "TRT Haber",
+   "baslik": "HSK Genel Kurulunca Yargıtay üyeliklerine 5 isim seçildi",
+   "ozet": "Adalet Bakanı Akın Gürlek, Hakimler ve Savcılar Kurulu HSK Genel Kurulu toplantısı sonucunda Yargıtay üyeliklerine 5 ismin seçildiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/gundem/hsk-genel-kurulunca-yargitay-uyeliklerine-5-isim-secildi-964425.html",
+   "zaman": "2026-11-25T12:04:00+03:00",
+   "kelimeler": [
+    "genel",
+    "hsk",
+    "isim",
+    "kurul",
+    "secil",
+    "uyeli",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "c09e64eadf21": {
+   "id": "c09e64eadf21",
+   "kaynak": "AA",
+   "baslik": "Türkiye genelinde şiddetli yağışları hesaplayacak dijital araç geliştirildi",
+   "ozet": "Erzurum Teknik Üniversitesi (ETÜ) ile İngiltere'deki Bath Üniversitesi işbirliğinde, iklim değişikliğiyle artan kısa süreli şiddetli yağışların büyüklüğünü Türkiye genelinde istatistiksel olarak tahmin edebilen dijital araç geliştirildi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-genelinde-siddetli-yagislari-hesaplayacak-dijital-arac-gelistirildi/4136992",
+   "zaman": "2026-11-25T12:05:09+03:00",
+   "kelimeler": [
+    "arac",
+    "dijit",
+    "gelis",
+    "genel",
+    "hesap",
+    "sidde",
+    "turki",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3b56181d8d99": {
+   "id": "3b56181d8d99",
+   "kaynak": "NTV",
+   "baslik": "Yargıtay'a beş yeni üye seçildi",
+   "ozet": "Adalet Bakanı Akın Gürlek, Hakimler ve Savcılar Kurulu (HSK) Genel Kurulu toplantısında Yargıtay üyeliklerine beş ismin seçildiğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/yargitaya-bes-yeni-uye-secildi-1752533",
+   "zaman": "2026-11-25T12:07:12+03:00",
+   "kelimeler": [
+    "bes",
+    "secil",
+    "uye",
+    "yargi",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9b69aa915978": {
+   "id": "9b69aa915978",
+   "kaynak": "TRT Haber",
+   "baslik": "Ankara Hali'nde esnafı tehdit eden gruba operasyon: 26 gözaltı",
+   "ozet": "Ankara Büyükşehir Belediyesi Toptancı Hali'ndeki iş yeri sahiplerine baskı ve tehdit uygulayıp nitelikli yağma yoluyla haksız kazanç elde etmeye çalıştığı ve korsan otoparkçılık yaparak sürücülerden usulsüz ücret talep ettiği öne sürülen 26 şüpheli gözaltına alındı.",
+   "link": "https://www.trthaber.com/haber/gundem/ankara-halinde-esnafi-tehdit-eden-gruba-operasyon-26-gozalti-964426.html",
+   "zaman": "2026-11-25T12:08:00+03:00",
+   "kelimeler": [
+    "26",
+    "ankar",
+    "eden",
+    "esnaf",
+    "gozal",
+    "gruba",
+    "hali",
+    "nde",
+    "opera",
+    "tehdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b7c6cdf94333": {
+   "id": "b7c6cdf94333",
+   "kaynak": "AA",
+   "baslik": "HSK, Yargıtay üyeliğine 5 isim seçti",
+   "ozet": "Adalet Bakanı Akın Gürlek, Hakimler ve Savcılar Kurulunca (HSK) Yargıtay üyeliğine 5 ismin seçildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/hsk-yargitay-uyeligine-5-isim-secti/4136999",
+   "zaman": "2026-11-25T12:09:46+03:00",
+   "kelimeler": [
+    "hsk",
+    "isim",
+    "secti",
+    "uyeli",
+    "yargi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fc1573606529"
+  },
+  "a4f6939918fe": {
+   "id": "a4f6939918fe",
+   "kaynak": "BBC Türkçe",
+   "baslik": "25 Kasım'da kadınlar sokağa çıkıyor: İstanbul'da bazı yollar kapatılıyor",
+   "ozet": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenlenecek. İstanbul'da Tünel'deki buluşma nedeniyle Beyoğlu'nda bazı yollar trafiğe kapatılacak.",
+   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o",
+   "zaman": "2026-11-25T12:10:44+03:00",
+   "kelimeler": [
+    "25",
+    "bazi",
+    "cikiy",
+    "istan",
+    "kadin",
+    "kapat",
+    "kasim",
+    "sokag",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c23b56e3c273": {
+   "id": "c23b56e3c273",
+   "kaynak": "AA",
+   "baslik": "Gaziantep Basketbol'da \"sistem şampiyonluğa kuruldu\"",
+   "ozet": "Türkiye Sigorta Türkiye Basketbol Ligi ekiplerinden Gaziantep Basketbol'un yeni başantrenörü Şemsettin Baş, sistemi yeniden kurduklarını ve şampiyonluğa odaklandıklarını söyledi.",
+   "link": "https://www.aa.com.tr/tr/spor/gaziantep-basketbolda-sistem-sampiyonluga-kuruldu/4137003",
+   "zaman": "2026-11-25T12:11:56+03:00",
+   "kelimeler": [
+    "baske",
+    "gazia",
+    "kurul",
+    "sampi",
+    "siste"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6e705de89696": {
+   "id": "6e705de89696",
+   "kaynak": "NTV",
+   "baslik": "Kızılay metrosunda bıçaklı saldırgan paniği",
+   "ozet": "Ankara'da metro istasyonunda bir kişi tartıştığı güvenlik görevlilerine bıçak çekti. Saldırgan, etkisiz hale getirilip polise teslim edildi.",
+   "link": "https://www.ntv.com.tr/turkiye/kizilay-metrosunda-bicakli-saldirgan-panigi-1752536",
+   "zaman": "2026-11-25T12:12:06+03:00",
+   "kelimeler": [
+    "bicak",
+    "kizil",
+    "metro",
+    "panig",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 12:16:30  15 yeni haber",
   "25.11 12:01:33  14 yeni haber",
   "25.11 11:46:00  15 yeni haber",
   "25.11 11:31:18  4 yeni haber",
@@ -28647,8 +28936,7 @@
   "23.11 07:31:16  9 yeni haber",
   "23.11 07:15:58  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "23.11 07:03:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Günümüzde Konya'da giyim mağazası işleten ve vatan uğruna iki bacağını",
-  "23.11 07:01:47  1 yeni haber",
-  "23.11 06:31:14  1 yeni haber"
+  "23.11 07:01:47  1 yeni haber"
  ],
  "otomatik": false
 }
