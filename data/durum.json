@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "9c8a45e13c80": {
-   "id": "9c8a45e13c80",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul’da züccaciye mağazası açılışında izdiham: Ezilme tehlikesi geçirdiler",
-   "ozet": "Şirinevler'de açılışa özel indirimler nedeniyle binlerce kişi mağaza önünde toplandı. Kapıların açılmasıyla yaşanan yoğunlukta bazı vatandaşlar yere düşerek ezilme tehlikesi geçirdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-zuccaciye-magazasi-acilisinda-izdiham-ezilme-tehlikesi-gecirdiler-43386713",
-   "zaman": "2026-11-22T10:09:17+03:00",
-   "kelimeler": [
-    "acili",
-    "ezilm",
-    "gecir",
-    "istan",
-    "izdih",
-    "magaz",
-    "tehli",
-    "zucca"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4573e6b1b9e4": {
-   "id": "4573e6b1b9e4",
-   "kaynak": "AA",
-   "baslik": "Husiler: Suudi Arabistan savaş uçakları Sana'ya hava saldırısı düzenledi",
-   "ozet": "Suudi Arabistan Hava Kuvvetleri'nin, Yemen'de İran destekli Husilerin kontrolündeki başkent Sana'ya hava saldırısı düzenlediği öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistan-savas-ucaklari-sanaya-hava-saldirisi-duzenledi/4133337",
-   "zaman": "2026-11-22T10:11:11+03:00",
-   "kelimeler": [
-    "arabi",
-    "duzen",
-    "hava",
-    "husil",
-    "saldi",
-    "sana",
-    "savas",
-    "suudi",
-    "ucakl",
-    "ya"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "40c6d99aad89": {
    "id": "40c6d99aad89",
    "kaynak": "AA",
@@ -16871,7 +16829,8 @@
     "fiyat"
    ],
    "durum": "engelli",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "bb7051a68f62": {
    "id": "bb7051a68f62",
@@ -27692,9 +27651,223 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "a418092742cf": {
+   "id": "a418092742cf",
+   "kaynak": "AA",
+   "baslik": "Rusya'nın Samara bölgesine İHA'larla düzenlenen saldırıda bir kişi hayatını kaybetti",
+   "ozet": "Rusya'nın Samara Bölgesi Valisi Fedorişçev, Ukrayna'nın gece İHA ile düzenlediği yoğun saldırıda bir kişinin hayatını kaybettiğini ve bölgenin bazı kesimlerinde elektriğin kesildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-samara-bolgesine-ihalarla-duzenlenen-saldirida-bir-kisi-hayatini-kaybetti/4136613",
+   "zaman": "2026-11-25T09:12:05+03:00",
+   "kelimeler": [
+    "bolge",
+    "duzen",
+    "hayat",
+    "iha",
+    "kaybe",
+    "kisi",
+    "larla",
+    "nin",
+    "rusya",
+    "saldi",
+    "samar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "653b0b58c819": {
+   "id": "653b0b58c819",
+   "kaynak": "AA",
+   "baslik": "Doğu Anadolu'da 4 ilde kar yağışı etkili oldu",
+   "ozet": "Erzurum, Kars, Tunceli ve Ardahan'da kar yağışı etkili oldu. Erzurum'daki tarihi Yakutiye Medresesi, Çifte Minareli Medrese, Erzurum Kalesi, tepsi minareli saat kulesi, Üç Kümbetler ve çevresi karla beyaza büründü.",
+   "link": "https://www.aa.com.tr/tr/gundem/dogu-anadoluda-4-ilde-kar-yagisi-etkili-oldu/4136656",
+   "zaman": "2026-11-25T09:54:38+03:00",
+   "kelimeler": [
+    "anado",
+    "dogu",
+    "etkil",
+    "ilde",
+    "kar",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6b7567633d80": {
+   "id": "6b7567633d80",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul’da bazı yollar geçici süreyle trafiğe kapatılacak",
+   "ozet": "Beyoğlu'nda gerçekleştirilecek Kadına Yönelik Şiddete Karşı Mücadele Günü programı kapsamında bazı yolların geçici süreyle trafiğe kapatılacağı ve alternatif güzergahların belirlendiği açıklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-bazi-yollar-gecici-sureyle-trafige-kapatilacak-43390223",
+   "zaman": "2026-11-25T09:55:45+03:00",
+   "kelimeler": [
+    "bazi",
+    "gecic",
+    "istan",
+    "kapat",
+    "surey",
+    "trafi",
+    "yolla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "531b048a78e1": {
+   "id": "531b048a78e1",
+   "kaynak": "AA",
+   "baslik": "Beşiktaş, UEFA Avrupa Ligi'nde Hapoel Beer-Sheva'yı yarın Gürcistan'da ağırlayacak",
+   "ozet": "Beşiktaş, UEFA Avrupa Ligi'nin beşinci haftasında yarın İsrail temsilcisi Hapoel Beer-Sheva'yı Gürcistan'da konuk edecek.",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-hapoel-beer-shevayi-yarin-gurcistanda-agirlayacak/4136663",
+   "zaman": "2026-11-25T09:58:27+03:00",
+   "kelimeler": [
+    "agirl",
+    "avrup",
+    "beer",
+    "besik",
+    "gurci",
+    "hapoe",
+    "ligi",
+    "nde",
+    "sheva",
+    "uefa",
+    "yarin",
+    "yi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8b6ebf954885": {
+   "id": "8b6ebf954885",
+   "kaynak": "Hürriyet",
+   "baslik": "Doğan Hızlan'ın denemeleri, Hürriyet Kitap tarafından okurlarla buluşturuldu",
+   "ozet": "Türk edebiyatının önemli eleştirmen ve yazarlarından Doğan Hızlan'ın edebiyat, sanat, kültür, dil, müzik ve sinema gibi farklı alanları ele aldığı denemeleri, Hürriyet Kitap tarafından okurlarla buluşturuldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/dogan-hizlanin-denemeleri-hurriyet-kitap-tarafindan-okurlarla-bulusturuldu-43390226",
+   "zaman": "2026-11-25T10:00:00+03:00",
+   "kelimeler": [
+    "bulus",
+    "denem",
+    "dogan",
+    "hizla",
+    "hurri",
+    "in",
+    "kitap",
+    "okurl",
+    "taraf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e5d82096538f": {
+   "id": "e5d82096538f",
+   "kaynak": "AA",
+   "baslik": "Borsa güne düşüşle başladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,13 azalışla 10.951,16 puandan başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4136668",
+   "zaman": "2026-11-25T10:02:38+03:00",
+   "kelimeler": [
+    "basla",
+    "borsa",
+    "dusus",
+    "gune"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df06aa9960e9": {
+   "id": "df06aa9960e9",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatları düşmeye devam ediyor",
+   "ozet": "Gram altın güne düşüşle başlamasının ardından 5 bin 744 liradan işlem görüyor. Çeyrek altın 10 bin 45 liradan, cumhuriyet altını 39 bin 700 liradan satılıyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlari-dusmeye-devam-ediyor-964400.html",
+   "zaman": "2026-11-25T10:05:00+03:00",
+   "kelimeler": [
+    "altin",
+    "devam",
+    "dusme",
+    "ediyo",
+    "fiyat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a110d4e690a5"
+  },
+  "af3d2ebb7605": {
+   "id": "af3d2ebb7605",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Rusya'nın kendi verilerine göre Ukrayna'daki savaşta yaklaşık 500 bin kişi öldü",
+   "ozet": "Rusya İstatistik Kurumu'nun (Rosstat) sızdırılan verileri, Ukrayna'nın topyekün işgaliyle Rusya'daki ölüm oranlarının nasıl değiştirdiğini ortaya koyuyor.",
+   "link": "https://www.bbc.com/turkce/articles/cqrlg0z9zywwo",
+   "zaman": "2026-11-25T10:05:22+03:00",
+   "kelimeler": [
+    "500",
+    "bin",
+    "daki",
+    "gore",
+    "kendi",
+    "kisi",
+    "nin",
+    "rusya",
+    "savas",
+    "ukray",
+    "veril",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6d9338610368": {
+   "id": "6d9338610368",
+   "kaynak": "AA",
+   "baslik": "Pinterest'te ebeveynler, gençlere önerilen yapay zeka içeriklerinin miktarını ayarlayabilecek",
+   "ozet": "ABD merkezli görsel keşif motoru Pinterest, ebeveynlerin, genç kullanıcılara önerilen yapay zeka (AI) içeriklerinin miktarını ayarlayabileceğini açıkladı.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/pinterestte-ebeveynler-genclere-onerilen-yapay-zeka-iceriklerinin-miktarini-ayarlayabilecek/4136671",
+   "zaman": "2026-11-25T10:05:30+03:00",
+   "kelimeler": [
+    "ayarl",
+    "ebeve",
+    "gencl",
+    "iceri",
+    "mikta",
+    "oneri",
+    "pinte",
+    "te",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f36ba4f7737": {
+   "id": "3f36ba4f7737",
+   "kaynak": "AA",
+   "baslik": "Yemen'deki Husiler, Suudi Arabistan'daki petrol rafinerisi ile Kral Abdullah Ekonomi Şehri'ni hedef aldıklarını duyurdu",
+   "ozet": "Yemen'deki Husiler, Suudi Arabistan'ın doğusundaki Ras Tanura Petrol Rafinerisi ile Riyad'daki Kral Abdullah Ekonomi Şehri'ni hedef aldıklarını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistandaki-petrol-rafinerisi-ile-kral-abdullah-ekonomi-sehrini-hedef-aldiklarini-duyurdu/4136674",
+   "zaman": "2026-11-25T10:09:00+03:00",
+   "kelimeler": [
+    "abdul",
+    "aldik",
+    "arabi",
+    "daki",
+    "deki",
+    "duyur",
+    "ekono",
+    "hedef",
+    "husil",
+    "kral",
+    "ni",
+    "petro",
+    "rafin",
+    "sehri",
+    "suudi",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 10:15:58  9 yeni haber",
   "25.11 10:01:20  4 yeni haber",
   "25.11 09:45:58  5 yeni haber",
   "25.11 09:32:58  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fonda 4 yeni tutuklama",
@@ -27893,8 +28066,7 @@
   "23.11 01:16:18  2 yeni haber",
   "23.11 01:04:01  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · THSF 2026 FPV Drone Yeşilay Türkiye Şampiyonası tamamlandı",
   "23.11 01:01:18  1 yeni haber",
-  "23.11 00:45:52  3 yeni haber",
-  "23.11 00:33:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli badmintoncular, Ankara'daki uluslararası turnuvada 12 madalya el"
+  "23.11 00:45:52  3 yeni haber"
  ],
  "otomatik": false
 }
