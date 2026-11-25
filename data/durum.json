@@ -27250,7 +27250,10 @@
    "fb_id": null,
    "fb_reels_id": "1715991339944105",
    "slayt": 4,
-   "kanca": "OTOMOBİLİ BIRAKIP KAÇTILAR"
+   "kanca": "OTOMOBİLİ BIRAKIP KAÇTILAR",
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "37c08e74e1aa": {
    "id": "37c08e74e1aa",
@@ -27484,9 +27487,60 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "78d0c05448c0"
+  },
+  "1e6105f27f92": {
+   "id": "1e6105f27f92",
+   "kaynak": "AA",
+   "baslik": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda iki petrol tankerinin deniz mayınına çarparak alev aldığını açıkladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi/4136584",
+   "zaman": "2026-11-25T08:23:42+03:00",
+   "kelimeler": [
+    "aldi",
+    "alev",
+    "bogaz",
+    "carpa",
+    "deniz",
+    "devri",
+    "hurmu",
+    "iki",
+    "iran",
+    "mayin",
+    "muhaf",
+    "nda",
+    "ordus",
+    "petro",
+    "tanke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2e7b52548d33": {
+   "id": "2e7b52548d33",
+   "kaynak": "Hürriyet",
+   "baslik": "Kayseri'de kaza yapan sürücü ve yolcu, otomobili yol ortasında bırakıp gitti",
+   "ozet": "Kocasinan ilçesi Osmangazi Mahallesi’nde kaldırıma çarparak yol ortasında kalan 58 EK 318 plakalı otomobildeki iki kişi aracı terk etti. Yolu kısmen kapatan araç çekiciyle kaldırılırken, sürücünün kimliğini belirleme çalışması başlatıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kayseride-kaza-yapan-surucu-ve-yolcu-otomobili-yol-ortasinda-birakip-gitti-43390126",
+   "zaman": "2026-11-25T08:25:56+03:00",
+   "kelimeler": [
+    "birak",
+    "gitti",
+    "kayse",
+    "kaza",
+    "ortas",
+    "otomo",
+    "suruc",
+    "yapan",
+    "yol",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "eb4fa94155de"
   }
  },
  "kayit": [
+  "25.11 08:46:03  1 yeni haber",
   "25.11 08:18:04  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Kaza yaptılar, otomobili yol ortasında bırakıp gittiler",
   "25.11 08:15:58  2 yeni haber",
   "25.11 08:01:28  2 yeni haber",
@@ -27685,8 +27739,7 @@
   "23.11 00:04:19  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD'de Demokratlar, 1992'den bu yana Temsilciler Meclisindeki en yükse",
   "23.11 00:01:21  2 yeni haber",
   "22.11 23:45:58  1 yeni haber",
-  "22.11 23:31:16  4 yeni haber",
-  "22.11 23:01:15  2 yeni haber"
+  "22.11 23:31:16  4 yeni haber"
  ],
  "otomatik": false
 }
