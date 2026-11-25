@@ -1,64 +1,5 @@
 {
  "haberler": {
-  "e3bb16a395f4": {
-   "id": "e3bb16a395f4",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Gürlek duyurdu: HGS icralarına soruşturma başlatıldı",
-   "ozet": "Adalet Bakanı Akın Gürlek, HGS icralarıyla ilgili iddialar üzerine İstanbul Cumhuriyet Başsavcılığımızca soruşturma başlatıldığını duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-hgs-icralarina-sorusturma-baslatildi-43387112",
-   "zaman": "2026-11-22T16:09:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "basla",
-    "duyur",
-    "gurle",
-    "hgs",
-    "icral",
-    "sorus"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Sözcü",
-    "BBC Türkçe"
-   ]
-  },
-  "32f6dcf7f5f7": {
-   "id": "32f6dcf7f5f7",
-   "kaynak": "NTV",
-   "baslik": "HGS icra takiplerine soruşturma",
-   "ozet": "Hızlı Geçiş Sistemi (HGS) icra takiplerine yönelik soruşturma başlatıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/hizli-gecis-sistemi-hgs-icra-takiplerine-sorusturma-1752076",
-   "zaman": "2026-11-22T16:12:37+03:00",
-   "kelimeler": [
-    "hgs",
-    "icra",
-    "sorus",
-    "takip"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "bbc7940bcebc": {
-   "id": "bbc7940bcebc",
-   "kaynak": "TRT Haber",
-   "baslik": "HGS icra takiplerine soruşturma",
-   "ozet": "Adalet Bakanı Akın Gürlek, HGS icra takipleriyle ilgili iddialar üzerine İstanbul Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/gundem/hgs-icra-takiplerine-sorusturma-964141.html",
-   "zaman": "2026-11-22T16:06:00+03:00",
-   "kelimeler": [
-    "hgs",
-    "icra",
-    "sorus",
-    "takip"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "32f6dcf7f5f7"
-  },
   "7d473365d0e5": {
    "id": "7d473365d0e5",
    "kaynak": "Sözcü",
@@ -28273,7 +28214,10 @@
     "yasan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "868ca7e07181": {
    "id": "868ca7e07181",
@@ -28859,8 +28803,17 @@
     "suphe",
     "tutuk"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-25T16:18:37.491402+03:00",
+   "ig_id": "18017531708969470",
+   "reels_id": "18021916733951964",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1615265029910534",
+   "slayt": 4,
+   "kanca": "BABA OĞUL CİNAYETİ"
   },
   "ed1d54be07cd": {
    "id": "ed1d54be07cd",
@@ -29321,9 +29274,76 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ee5ae1853bff": {
+   "id": "ee5ae1853bff",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da grev nedeniyle ParisLondra tren seferlerinde aksamalar yaşandı",
+   "ozet": "Fransada demir yolu çalışanlarının grevi nedeniyle Avrupa genelinde yüksek hızlı tren hizmeti veren Eurostar'ın ParisLondra hattındaki seferlerinde iptaller oldu.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-grev-nedeniyle-paris-londra-tren-seferlerinde-aksamalar-yasandi-964445.html",
+   "zaman": "2026-11-25T15:55:00+03:00",
+   "kelimeler": [
+    "aksam",
+    "frans",
+    "grev",
+    "neden",
+    "paris",
+    "sefer",
+    "tren",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "164c8c5c901f"
+  },
+  "6aa33d14dade": {
+   "id": "6aa33d14dade",
+   "kaynak": "XHABER",
+   "baslik": "Gram altın, 5.677 TL ile son 15 ayın en düşük seviyesini gördü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30914",
+   "zaman": "2026-11-25T16:08:58+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Gram altın, 5.677 TL ile son 15 ayın en düşük seviyesini gördü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/HgEkMSvMlQIpIp0ESc4Te5J5FEJRc5QluSwAvNzR8tLwnJaFbhtmQkMnESyS9aYXdErSGvAVNdZN_IGmRqaPs5EmjOZZTqLXszomBg1MY9QzzUzEGt84LgPlUF8Rs-FSiTg5vb8nCoXmVkgj1i_7BVYCpg_1wNr6VsgZtq3Rs7YX3SpQX7N593lJ3xuJLtHleZGwBlWmduA1CbjsqQY3fkoa5FPZKtsfeKUxUL_tTcSdkMddGkY7y7Tv36kO6RNUBBt9HDlE8BcFAfGuJ54FJlU0mYohPNFf7KqG390A2hlJTbYi6E89C9kAuhmtZWiv71fbzJlgvjyNQGytpbrK3A.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "15",
+    "677",
+    "altin",
+    "ayin",
+    "dusuk",
+    "gordu",
+    "gram",
+    "seviy",
+    "tl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e9fbb82ac904": {
+   "id": "e9fbb82ac904",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İngiltere'de gençler ve yetişkinlere cinsellik araştırması ne sonuçlar verdi?",
+   "ozet": "Büyük Britanya'yı oluşturan İngiltere, İskoçya ve Galler'de yapılan büyük bir araştırmaya göre özellikle genç ve genç yetişkin Britanyalılar, geçmiş nesillere kıyasla daha az cinsel ilişkiye giriyor veya tamamen uzak duruyor.",
+   "link": "https://www.bbc.com/turkce/articles/c6lykxd4knmeo",
+   "zaman": "2026-11-25T16:12:57+03:00",
+   "kelimeler": [
+    "arast",
+    "cinse",
+    "gencl",
+    "ingil",
+    "sonuc",
+    "verdi",
+    "yetis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 16:18:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ormanda baba-oğul cinayetinde miras şüphesi: Eş, bakıcı ve erkek arkad",
+  "25.11 16:15:56  2 yeni haber",
   "25.11 16:01:47  5 yeni haber",
   "25.11 15:46:19  3 yeni haber",
   "25.11 15:31:56  5 yeni haber",
@@ -29521,9 +29541,7 @@
   "23.11 11:31:13  13 yeni haber",
   "23.11 11:16:02  7 yeni haber",
   "23.11 11:01:31  10 yeni haber",
-  "23.11 10:49:51  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Çalıntı kamyondaki milyonluk sigaraları aktarırken suçüstü yakalandıla",
-  "23.11 10:46:06  3 yeni haber",
-  "23.11 10:31:10  8 yeni haber"
+  "23.11 10:49:51  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Çalıntı kamyondaki milyonluk sigaraları aktarırken suçüstü yakalandıla"
  ],
  "otomatik": false
 }
