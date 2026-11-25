@@ -25570,7 +25570,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d4d16d742f53": {
    "id": "d4d16d742f53",
@@ -27293,8 +27295,17 @@
     "yapti",
     "yol"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-25T08:18:04.575547+03:00",
+   "ig_id": "18361511107218971",
+   "reels_id": "18117235004157098",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1715991339944105",
+   "slayt": 4,
+   "kanca": "OTOMOBİLİ BIRAKIP KAÇTILAR"
   },
   "37c08e74e1aa": {
    "id": "37c08e74e1aa",
@@ -27387,9 +27398,86 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "4786b4792237": {
+   "id": "4786b4792237",
+   "kaynak": "TRT Haber",
+   "baslik": "Freni boşalan kiremit yüklü tır bahçe duvarını yıkarak durabildi",
+   "ozet": "İstanbul Üsküdar'da park halindeyken freni boşalan kiremit yüklü tır, bir gecekondunun bahçe duvarına çarptı.",
+   "link": "https://www.trthaber.com/haber/turkiye/freni-bosalan-kiremit-yuklu-tir-bahce-duvarini-yikarak-durabildi-964389.html",
+   "zaman": "2026-11-25T07:55:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "bosal",
+    "durab",
+    "duvar",
+    "freni",
+    "kirem",
+    "tir",
+    "yikar",
+    "yuklu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fd1e71f676ee": {
+   "id": "fd1e71f676ee",
+   "kaynak": "Hürriyet",
+   "baslik": "Sıcaklıklar 6 derece birden düşüyor: 20 ilde sarı kodlu alarm! Kuvvetli yağış, kar ve fırtına geliyor: Hızı 90 kilometreye çıkacak",
+   "ozet": "Meteoroloji Genel Müdürlüğü, kuvvetli yağış, kar ve fırtına beklentisi nedeniyle 20 il için sarı kodlu uyarı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sicakliklar-6-derece-birden-dusuyor-20-ilde-sari-kodlu-alarm-kuvvetli-yagis-kar-ve-firtina-geliyor-hizi-90-kilometreye-cikacak-43390107",
+   "zaman": "2026-11-25T07:56:00+03:00",
+   "kelimeler": [
+    "20",
+    "90",
+    "alarm",
+    "birde",
+    "cikac",
+    "derec",
+    "dusuy",
+    "firti",
+    "geliy",
+    "hizi",
+    "ilde",
+    "kar",
+    "kilom",
+    "kodlu",
+    "kuvve",
+    "sari",
+    "sicak",
+    "yagis"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "89cf6f77d0af": {
+   "id": "89cf6f77d0af",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı İletişim Başkanlığınca \"Ortak Gelecekte Biriz\" çalıştay serisinin Konya buluşması yapıldı",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından \"Ortak Gelecekte Biriz\" Stratejik İletişim Kampanyası kapsamında sürdürülen çalıştay serisinin Konya buluşması gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskanliginca-ortak-gelecekte-biriz-calistay-serisinin-konya-bulusmasi-yapildi-/4136565",
+   "zaman": "2026-11-25T08:01:35+03:00",
+   "kelimeler": [
+    "baska",
+    "biriz",
+    "bulus",
+    "calis",
+    "cumhu",
+    "gelec",
+    "ileti",
+    "konya",
+    "ortak",
+    "seris",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1c6a771ada08"
   }
  },
  "kayit": [
+  "25.11 08:18:04  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Kaza yaptılar, otomobili yol ortasında bırakıp gittiler",
+  "25.11 08:15:58  2 yeni haber",
   "25.11 08:01:28  2 yeni haber",
   "25.11 07:46:01  4 yeni haber",
   "25.11 07:15:56  15 yeni haber",
@@ -27587,9 +27675,7 @@
   "23.11 00:01:21  2 yeni haber",
   "22.11 23:45:58  1 yeni haber",
   "22.11 23:31:16  4 yeni haber",
-  "22.11 23:01:15  2 yeni haber",
-  "22.11 22:46:17  4 yeni haber",
-  "22.11 22:31:10  1 yeni haber"
+  "22.11 23:01:15  2 yeni haber"
  ],
  "otomatik": false
 }
