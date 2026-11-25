@@ -1,34 +1,5 @@
 {
  "haberler": {
-  "4684587fd933": {
-   "id": "4684587fd933",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi: Toplam 111 bin 904 ton insani yardım malzemesi Gazze'ye ulaştırıldı",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 7 Ekim 2023'ten bugüne kadar toplam 111 bin 904 ton insani yardım malzemesinin Gazze'ye ulaştırıldığını açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-toplam-111-bin-904-ton-insani-yardim-malzemesi-gazzeye-ulastirildi-964152.html",
-   "zaman": "2026-11-22T21:26:00+03:00",
-   "kelimeler": [
-    "111",
-    "904",
-    "bakan",
-    "bin",
-    "ciftc",
-    "gazze",
-    "insan",
-    "malze",
-    "ton",
-    "topla",
-    "ulast",
-    "yardi",
-    "ye"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "AA"
-   ]
-  },
   "04001a914bf9": {
    "id": "04001a914bf9",
    "kaynak": "TRT Haber",
@@ -19289,7 +19260,8 @@
     "tepki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "361a3904500f": {
    "id": "361a3904500f",
@@ -30421,10 +30393,106 @@
     "yuzde"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "7432b0321141": {
+   "id": "7432b0321141",
+   "kaynak": "TRT Haber",
+   "baslik": "İletişim Başkanı Duran'dan Suudi Arabistan'a saldırıya tepki",
+   "ozet": "İletişim Başkanı Burhanettin Duran, \"Husiler tarafından Suudi Arabistanın başkenti Riyadda bulunan Kral Abdullah Finans Merkezine yönelik yapılan saldırıyı şiddetle kınıyor, yaralılara acil şifalar diliyorum.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-suudi-arabistana-saldiriya-tepki-964472.html",
+   "zaman": "2026-11-25T21:20:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "baska",
+    "dan",
+    "duran",
+    "ileti",
+    "saldi",
+    "suudi",
+    "tepki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d5faebb6fe48"
+  },
+  "8bd2d12165f5": {
+   "id": "8bd2d12165f5",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanlığı Hukuk Politikaları Kurulu, Çankaya Köşkü'nde toplandı",
+   "ozet": "Siber Güvenlik Başkanı Ümit Önal, \"Dijital egemenlik; kendi verimiz, kendi altyapımız, kendi teknolojimiz ve kendi kararlarımız üzerinde söz sahibi olabilmek.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskanligi-hukuk-politikalari-kurulu-cankaya-koskunde-toplandi-1752577",
+   "zaman": "2026-11-25T21:20:47+03:00",
+   "kelimeler": [
+    "canka",
+    "cumhu",
+    "hukuk",
+    "kosku",
+    "kurul",
+    "nde",
+    "polit",
+    "topla"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "2d8d6076c94c": {
+   "id": "2d8d6076c94c",
+   "kaynak": "AA",
+   "baslik": "AB Yüksek Temsilcisi Kallas: Süper güçler kuralları kendi çıkarlarına göre yeniden yazmaya çalışıyor",
+   "ozet": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, \"süper güçlerin\" kuralları kendi çıkarlarına göre yeniden yazmaya çalıştığını söyledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-yuksek-temsilcisi-kallas-super-gucler-kurallari-kendi-cikarlarina-gore-yeniden-yazmaya-calisiyor/4137892",
+   "zaman": "2026-11-25T21:21:11+03:00",
+   "kelimeler": [
+    "ab",
+    "calis",
+    "cikar",
+    "gore",
+    "gucle",
+    "kalla",
+    "kendi",
+    "kural",
+    "super",
+    "temsi",
+    "yazma",
+    "yenid",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1d00514ef81c": {
+   "id": "1d00514ef81c",
+   "kaynak": "AA",
+   "baslik": "Trump'a oy veren ama ara seçimlere katılmayanların yüzde 78'i \"İsrail'e desteğin azaltılmasını\" istiyor",
+   "ozet": "ABD'de yapılan anket, 2024 başkanlık seçimlerinde Donald Trump'a oy veren ancak 2026 ara seçimlerinde sandığa gitmeyen seçmenlerin yüzde 78'inin, Washington yönetiminin İsrail'e verdiği desteğin azaltılmasını istediğini ortaya çıkardı.",
+   "link": "https://www.aa.com.tr/tr/dunya/trumpa-oy-veren-ama-ara-secimlere-katilmayanlarin-yuzde-78i-israile-destegin-azaltilmasini-istiyor/4137894",
+   "zaman": "2026-11-25T21:21:26+03:00",
+   "kelimeler": [
+    "78",
+    "ama",
+    "ara",
+    "azalt",
+    "deste",
+    "israi",
+    "istiy",
+    "katil",
+    "oy",
+    "secim",
+    "trump",
+    "veren",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c6b97c90ea08"
   }
  },
  "kayit": [
+  "25.11 21:31:09  2 yeni haber",
   "25.11 21:20:48  2 yeni haber",
   "25.11 21:08:02  7 yeni haber",
   "25.11 20:45:55  2 yeni haber",
@@ -30623,8 +30691,7 @@
   "23.11 16:01:43  5 yeni haber",
   "23.11 15:45:59  9 yeni haber",
   "23.11 15:31:16  3 yeni haber",
-  "23.11 15:19:45  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fahreddin Paşa, vefatının 78. yıl dönümünde Boğaziçi Üniversitesi'nde ",
-  "23.11 15:16:35  4 yeni haber"
+  "23.11 15:19:45  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fahreddin Paşa, vefatının 78. yıl dönümünde Boğaziçi Üniversitesi'nde "
  ],
  "otomatik": false
 }
