@@ -1,84 +1,5 @@
 {
  "haberler": {
-  "492b8295dcd4": {
-   "id": "492b8295dcd4",
-   "kaynak": "AA",
-   "baslik": "Yabancı Dil Bilgisi Seviye Tespit Sınavı yapıldı",
-   "ozet": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca Yabancı Dil Bilgisi Seviye Tespit Sınavı (2026-YDS/2) yapıldı. Sınavın sonuçları 10 Aralık'ta duyurulacak.",
-   "link": "https://www.aa.com.tr/tr/gundem/yabanci-dil-bilgisi-seviye-tespit-sinavi-yapildi/4133478",
-   "zaman": "2026-11-22T13:24:20+03:00",
-   "kelimeler": [
-    "bilgi",
-    "dil",
-    "seviy",
-    "sinav",
-    "tespi",
-    "yaban",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7e3c133b3d51": {
-   "id": "7e3c133b3d51",
-   "kaynak": "Hürriyet",
-   "baslik": "Şehit astsubayın naaşı memleketine getirildi",
-   "ozet": "Şırnak'ta silah kazasında yaralanan ve kaldırıldığı hastanede şehit olan 22 yaşındaki Astsubay Çavuş Yalın Gergün'ün naaşı, memleketi Samsun'a getirildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/sirnakta-silah-kazasinda-sehit-olan-asker-memleketine-getirildi-43386965",
-   "zaman": "2026-11-22T13:29:00+03:00",
-   "kelimeler": [
-    "astsu",
-    "getir",
-    "memle",
-    "naasi",
-    "sehit"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "262e2f98317f": {
-   "id": "262e2f98317f",
-   "kaynak": "AA",
-   "baslik": "NATO, Polonya hava sahasının ihlalini görüşmek için toplanacak",
-   "ozet": "NATO, Polonya hava sahasının ihlal edilmesini görüşmek üzere yarın Kuzey Atlantik Konseyi'nin toplanacağını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/nato-polonya-hava-sahasinin-ihlalini-gorusmek-icin-toplanacak/4133482",
-   "zaman": "2026-11-22T13:30:17+03:00",
-   "kelimeler": [
-    "gorus",
-    "hava",
-    "ihlal",
-    "nato",
-    "polon",
-    "sahas",
-    "topla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5da193d837a9": {
-   "id": "5da193d837a9",
-   "kaynak": "AA",
-   "baslik": "Vietnam’ın Trang An vadilerinde kadınlar geçimlerini küreklerle sağlıyor",
-   "ozet": "Vietnam'ın başkenti Hanoi'nin 90 kilometre güneyindeki turistik Ninh Binh kentinde, çoğunluğu kadınlardan oluşan yerel halk, \"sampan\" adı verilen geleneksel kayıklarla turistleri Trang An vadilerinde gezdirerek geçimini sağlıyor.",
-   "link": "https://www.aa.com.tr/tr/dunya/vietnam-in-trang-an-vadilerinde-kadinlar-gecimlerini-kureklerle-sagliyor/4133483",
-   "zaman": "2026-11-22T13:31:35+03:00",
-   "kelimeler": [
-    "an",
-    "gecim",
-    "in",
-    "kadin",
-    "kurek",
-    "sagli",
-    "trang",
-    "vadil",
-    "vietn"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7233f2895326": {
    "id": "7233f2895326",
    "kaynak": "XHABER",
@@ -438,29 +359,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "964bab13b8fd"
-  },
-  "4821ca7e4c0c": {
-   "id": "4821ca7e4c0c",
-   "kaynak": "AA",
-   "baslik": "İletişim Başkanlığından \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" belgeseli",
-   "ozet": "İletişim Başkanlığı, Cumhurbaşkanı Erdoğan'ın NATO, BM, TDT ve COP31 zirvelerindeki yoğun diplomasi trafiğini, liderlerle kritik görüşmelerini içeren \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" belgeselini hazırladı.",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turkiyenin-diplomasi-rotasi-dort-zirvede-lider-diplomasisi-belgeseli/4133475",
-   "zaman": "2026-11-22T13:19:50+03:00",
-   "kelimeler": [
-    "baska",
-    "belge",
-    "diplo",
-    "dort",
-    "ileti",
-    "lider",
-    "nin",
-    "rotas",
-    "turki",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "44a0c81beb37"
   },
   "fd25e9993900": {
    "id": "fd25e9993900",
@@ -28841,7 +28739,10 @@
     "voley"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a1c38520fefb": {
    "id": "a1c38520fefb",
@@ -28882,9 +28783,118 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7f6082925eaf": {
+   "id": "7f6082925eaf",
+   "kaynak": "AA",
+   "baslik": "Üniversite öğrencileri günde 6 saatten fazla ekrana bakıyor, telefonunu 142 kez kontrol ediyor",
+   "ozet": "Nörobilim ve Nöroteknoloji Mükemmeliyet Ortak Uygulama ve Araştırma Merkezi (NÖROM) tarafından yürütülen bir araştırma, gençlerin telefonlarını günde ortalama 142 kez kontrol ettiğini ortaya koydu.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/universite-ogrencileri-gunde-6-saatten-fazla-ekrana-bakiyor-telefonunu-142-kez-kontrol-ediyor/4137060",
+   "zaman": "2026-11-25T13:00:53+03:00",
+   "kelimeler": [
+    "142",
+    "bakiy",
+    "ediyo",
+    "ekran",
+    "fazla",
+    "gunde",
+    "kez",
+    "kontr",
+    "ogren",
+    "saatt",
+    "telef",
+    "unive"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6f128e0eb87c": {
+   "id": "6f128e0eb87c",
+   "kaynak": "AA",
+   "baslik": "Avustralya'da dijital güvenlik tedbirlerini içeren yasa tasarısı parlamentodan onay aldı",
+   "ozet": "Avustralya'da çevrim içi güvenlik yasalarını güçlendirmesi hedeflenen \"Dijital Bakım Yükümlülüğü\" yasa tasarısı parlamentodan geçti.",
+   "link": "https://www.aa.com.tr/tr/dunya/avustralyada-dijital-guvenlik-tedbirlerini-iceren-yasa-tasarisi-parlamentodan-onay-aldi/4137076",
+   "zaman": "2026-11-25T13:12:47+03:00",
+   "kelimeler": [
+    "aldi",
+    "avust",
+    "dijit",
+    "guven",
+    "icere",
+    "onay",
+    "parla",
+    "tasar",
+    "tedbi",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "de0039677b23": {
+   "id": "de0039677b23",
+   "kaynak": "TRT Haber",
+   "baslik": "'Filenin Sultanları'nın Milletler Ligi'ndeki rakipleri belli oldu",
+   "ozet": "A Milli Kadın Voleybol Takımı'nın 2027 FIVB Milletler Ligi'nde VNL mücadele edeceği takımlar belli oldu. Milliler, etaplarda maçlarını Çin, Hollanda ve Türkiye'de oynayacak.",
+   "link": "https://www.trthaber.com/haber/gundem/filenin-sultanlarinin-milletler-ligindeki-rakipleri-belli-oldu-964431.html",
+   "zaman": "2026-11-25T13:16:00+03:00",
+   "kelimeler": [
+    "belli",
+    "filen",
+    "ligi",
+    "mille",
+    "ndeki",
+    "nin",
+    "rakip",
+    "sulta"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "875c0c4e5cde"
+  },
+  "d8970b89bfbc": {
+   "id": "d8970b89bfbc",
+   "kaynak": "TRT Haber",
+   "baslik": "DAP'tan 15 ile 18,6 milyar liralık yatırım desteği",
+   "ozet": "Doğu Anadolu Projesi DAP Bölge Kalkınma İdaresi, 15 ilde tarımdan kalkınmaya kadar farklı sektörlerde yürütülen 2 bin 130 projeye 2013'ten bu yana 18,6 milyar liralık kaynak aktararak, bölgenin ekonomik potansiyelini yatırımlarla harekete geçiriyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/daptan-15-ile-186-milyar-liralik-yatirim-destegi-964432.html",
+   "zaman": "2026-11-25T13:20:00+03:00",
+   "kelimeler": [
+    "15",
+    "18",
+    "dap",
+    "deste",
+    "liral",
+    "milya",
+    "tan",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b24dec639eeb": {
+   "id": "b24dec639eeb",
+   "kaynak": "NTV",
+   "baslik": "ZDF'ye silahlı röportaj veren Daltonlar üyelerine İstanbul'da baskın",
+   "ozet": "Alman ZDF kanalına ellerinde silahlarla röportaj veren Daltonlar Çetesi üyelerine operasyon düzenlendi. Polis dokuz şüpheliyi yakaladı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-zdfye-silahli-roportaj-veren-daltonlar-uyelerine-istanbulda-baskin-1752551",
+   "zaman": "2026-11-25T13:22:55+03:00",
+   "kelimeler": [
+    "baski",
+    "dalto",
+    "istan",
+    "ropor",
+    "silah",
+    "uyele",
+    "veren",
+    "ye",
+    "zdf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 13:31:39  4 yeni haber",
   "25.11 13:15:59  8 yeni haber",
   "25.11 13:01:15  9 yeni haber",
   "25.11 12:46:02  5 yeni haber",
@@ -29083,8 +29093,7 @@
   "23.11 08:46:13  4 yeni haber",
   "23.11 08:31:29  2 yeni haber",
   "23.11 08:19:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · GTA VI, ilk gün satışları rekorları altüst etti",
-  "23.11 08:16:10  2 yeni haber",
-  "23.11 08:01:30  1 yeni haber"
+  "23.11 08:16:10  2 yeni haber"
  ],
  "otomatik": false
 }
