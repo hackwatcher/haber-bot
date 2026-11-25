@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "5115cdd9b0bb": {
-   "id": "5115cdd9b0bb",
-   "kaynak": "AA",
-   "baslik": "Muş'ta sağanak ve rüzgar hasara yol açtı",
-   "ozet": "Muş'ta etkili olan sağanak ve şiddetli rüzgar nedeniyle bazı köy yolları ile ev ve iş yerlerinin çatıları hasar gördü.",
-   "link": "https://www.aa.com.tr/tr/gundem/musta-saganak-ve-ruzgar-hasara-yol-acti/4133627",
-   "zaman": "2026-11-22T17:10:50+03:00",
-   "kelimeler": [
-    "acti",
-    "hasar",
-    "mus",
-    "ruzga",
-    "sagan",
-    "ta",
-    "yol"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5358ea3bdec8": {
-   "id": "5358ea3bdec8",
-   "kaynak": "TRT Haber",
-   "baslik": "Gazze Şeridi'nde menenjit vakalarında olağan dışı artış yaşanıyor",
-   "ozet": "Gazze Şeridi'ndeki Sağlık Bakanlığı, bölgede menenjit vakalarında mevsimsel açıdan olağan dışı ve endişe verici artış yaşandığı uyarısında bulundu ve bulaşma riskinin kontrol altına alınması için acil uluslararası müdahale çağrısı yaptı.",
-   "link": "https://www.trthaber.com/haber/dunya/gazze-seridinde-menenjit-vakalarinda-olagan-disi-artis-yasaniyor-964144.html",
-   "zaman": "2026-11-22T17:02:00+03:00",
-   "kelimeler": [
-    "artis",
-    "disi",
-    "gazze",
-    "menen",
-    "nde",
-    "olaga",
-    "serid",
-    "vakal",
-    "yasan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e1a3bf4d4545"
-  },
   "f63c09d752db": {
    "id": "f63c09d752db",
    "kaynak": "Hürriyet",
@@ -1478,23 +1437,6 @@
     "firti",
     "marma",
     "sefer"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "6cc00e350693": {
-   "id": "6cc00e350693",
-   "kaynak": "AA",
-   "baslik": "Muş ve Bitlis'te sağanak etkili oldu",
-   "ozet": "Muş'ta etkili olan sağanak ve şiddetli rüzgar nedeniyle bazı köy yolları ile ev ve iş yerlerinin çatıları hasar gördü. Bitlis'in Tatvan ilçesinde etkili olan sağanak nedeniyle caddelerde su birikintileri oluştu, sürücüler ilerlemekte güçlük yaşadı.",
-   "link": "https://www.aa.com.tr/tr/gundem/mus-ve-bitliste-saganak-etkili-oldu/4133627",
-   "zaman": "2026-11-22T17:10:50+03:00",
-   "kelimeler": [
-    "bitli",
-    "etkil",
-    "mus",
-    "sagan",
-    "te"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -27548,7 +27490,8 @@
     "ulusa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "65f1919e9e06": {
    "id": "65f1919e9e06",
@@ -28964,7 +28907,10 @@
     "yasan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "dc8d64941421": {
    "id": "dc8d64941421",
@@ -29577,9 +29523,153 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "a3c02ce8d23f": {
+   "id": "a3c02ce8d23f",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya'da rafinerilerdeki onarımlar nedeniyle akaryakıt piyasasında sıkıntı yaşanıyor",
+   "ozet": "Rusya Başbakan Yardımcısı Aleksandr Novak, petrol rafinerilerindeki onarım çalışmaları nedeniyle ülkenin akaryakıt piyasasında sıkıntı yaşandığını söyledi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/rusyada-rafinerilerdeki-onarimlar-nedeniyle-akaryakit-piyasasinda-sikinti-yasaniyor-964452.html",
+   "zaman": "2026-11-25T16:51:00+03:00",
+   "kelimeler": [
+    "akary",
+    "neden",
+    "onari",
+    "piyas",
+    "rafin",
+    "rusya",
+    "sikin",
+    "yasan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0ef77abd35ed"
+  },
+  "2a5b15c2449c": {
+   "id": "2a5b15c2449c",
+   "kaynak": "AA",
+   "baslik": "Libya-Türkiye deniz yetki alanları anlaşması Libya Resmi Gazetesi'nde yayımlandı",
+   "ozet": "Libya Temsilciler Meclisinin onayladığı Türkiye ile Libya arasındaki deniz yetki alanlarının sınırlandırılmasına ilişkin anlaşma, harita ve coğrafi koordinatlarıyla birlikte Libya Resmi Gazetesi'nde yayımlandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/libya-turkiye-deniz-yetki-alanlari-anlasmasi-libya-resmi-gazetesinde-yayimlandi/4137610",
+   "zaman": "2026-11-25T16:58:30+03:00",
+   "kelimeler": [
+    "alanl",
+    "anlas",
+    "deniz",
+    "gazet",
+    "libya",
+    "nde",
+    "resmi",
+    "turki",
+    "yayim",
+    "yetki"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6e28a68a278e": {
+   "id": "6e28a68a278e",
+   "kaynak": "Hürriyet",
+   "baslik": "4 ülkeden 52 öğretmeni buluşturan ‘Smart Learn’ projesi tamamlandı: 891 öğrenciye ulaşıldı",
+   "ozet": "TOGEMDER’in Türkiye, Kuzey Makedonya, İspanya ve Hırvatistan ortaklığında 3 yıl yürüttüğü 'Smart Learn' projesinin kapanış programı Üsküdar’da gerçekleştirildi. Proje kapsamında 45 okulda 891 öğrenciye atölye çalışmaları yapıldığı açıklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/4-ulkeden-52-ogretmeni-bulusturan-smart-learn-projesi-tamamlandi-891-ogrenciye-ulasildi-43390970",
+   "zaman": "2026-11-25T16:59:52+03:00",
+   "kelimeler": [
+    "52",
+    "891",
+    "bulus",
+    "learn",
+    "ogren",
+    "ogret",
+    "proje",
+    "smart",
+    "tamam",
+    "ulasi",
+    "ulked"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "73f7062e4b96": {
+   "id": "73f7062e4b96",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya Ulusal Ordusu Genel Komutanı Mareşal Halife Hafter ve beraberindeki heyeti kabul etti.",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti/4137618",
+   "zaman": "2026-11-25T17:02:22+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "etti",
+    "genel",
+    "hafte",
+    "kabul",
+    "komut",
+    "libya",
+    "ordus",
+    "ulusa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "98246da18ee7"
+  },
+  "8dfac830aabb": {
+   "id": "8dfac830aabb",
+   "kaynak": "AA",
+   "baslik": "ABD ekonomisi yüzde 4,3 büyüdü",
+   "ozet": "ABD ekonomisi bu yılın üçüncü çeyreğinde yüzde 4,3 büyüdü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-ekonomisi-yuzde-4-3-buyudu/4137620",
+   "zaman": "2026-11-25T17:02:53+03:00",
+   "kelimeler": [
+    "abd",
+    "buyud",
+    "ekono",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4e9cec7bbb2e": {
+   "id": "4e9cec7bbb2e",
+   "kaynak": "AA",
+   "baslik": "Edirne'de şehitlerin portrelerinden oluşan sergi açıldı",
+   "ozet": "Edirne'de şehitlerin portrelerinden oluşan sergi törenle açıldı.",
+   "link": "https://www.aa.com.tr/tr/kultur/edirnede-sehitlerin-portrelerinden-olusan-sergi-acildi/4137624",
+   "zaman": "2026-11-25T17:07:00+03:00",
+   "kelimeler": [
+    "acild",
+    "edirn",
+    "olusa",
+    "portr",
+    "sehit",
+    "sergi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "14ae3d8888ad": {
+   "id": "14ae3d8888ad",
+   "kaynak": "AA",
+   "baslik": "ABD'de kişisel tüketim harcamaları ekimde beklentilerin altında arttı",
+   "ozet": "Fed'in enflasyon göstergesi olarak dikkate aldığı çekirdek kişisel tüketim harcamaları fiyat endeksi ekimde yıllık bazda yüzde 3,3 yükseldi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-kisisel-tuketim-harcamalari-ekimde-beklentilerin-altinda-artti/4137629",
+   "zaman": "2026-11-25T17:09:08+03:00",
+   "kelimeler": [
+    "abd",
+    "altin",
+    "artti",
+    "bekle",
+    "ekimd",
+    "harca",
+    "kisis",
+    "tuket"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 17:16:03  5 yeni haber",
   "25.11 17:01:42  4 yeni haber",
   "25.11 16:45:59  2 yeni haber",
   "25.11 16:41:19  6 yeni haber",
@@ -29778,8 +29868,7 @@
   "23.11 12:31:16  8 yeni haber",
   "23.11 12:18:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · COP31’in ardından: Antalya'da alınan kararlar ve Addis Ababa'ya kalan ",
   "23.11 12:16:09  9 yeni haber",
-  "23.11 12:01:24  9 yeni haber",
-  "23.11 11:46:08  10 yeni haber"
+  "23.11 12:01:24  9 yeni haber"
  ],
  "otomatik": false
 }
