@@ -1,111 +1,5 @@
 {
  "haberler": {
-  "4ab2cd9c6044": {
-   "id": "4ab2cd9c6044",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da bu yıl 4,5 milyonu aşkın ağız ve diş sağlığı muayenesi yapıldı",
-   "ozet": "İstanbul'daki kamuya bağlı ağız ve diş sağlığı merkezleri, hastaneleri ve kamu hastanelerinin diş polikliniklerinde bu yıl 4 milyon 535 bin 716 muayenenin gerçekleştirildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-bu-yil-4-5-milyonu-askin-agiz-ve-dis-sagligi-muayenesi-yapildi/4133460",
-   "zaman": "2026-11-22T13:01:50+03:00",
-   "kelimeler": [
-    "agiz",
-    "askin",
-    "dis",
-    "istan",
-    "milyo",
-    "muaye",
-    "sagli",
-    "yapil",
-    "yil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "844398452654": {
-   "id": "844398452654",
-   "kaynak": "Hürriyet",
-   "baslik": "KADEM’in Uluslararası Kadın ve Adalet Zirvesi, ikinci gününde devam ediyor",
-   "ozet": "Kadın ve Demokrasi Vakfı (KADEM) tarafından iki yılda bir düzenlenen Uluslararası Kadın ve Adalet Zirvesi, 'Kurgulanmış Güzellikler' temasıyla ikinci gününde devam ediyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/kademin-uluslararasi-kadin-ve-adalet-zirvesi-ikinci-gununde-devam-ediyor-43386933",
-   "zaman": "2026-11-22T13:03:44+03:00",
-   "kelimeler": [
-    "adale",
-    "devam",
-    "ediyo",
-    "gunun",
-    "ikinc",
-    "in",
-    "kadem",
-    "kadin",
-    "ulusl",
-    "zirve"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1904d3061f84"
-  },
-  "2168d1617d17": {
-   "id": "2168d1617d17",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Galler Prensesi Kate yeni belgeselde kanser yolculuğunu anlatıyor",
-   "ozet": "BBC'nin yeni belgeseli Galler Prensesi Catherine'in kanser sürecini anlatıyor. Prenses, \"Kanser teşhisinin sizde değiştirdiği şeylerin çok daha derin bir boyutu var\" diyor.",
-   "link": "https://www.bbc.com/turkce/articles/c6z7490p3l8no",
-   "zaman": "2026-11-22T13:04:59+03:00",
-   "kelimeler": [
-    "anlat",
-    "belge",
-    "galle",
-    "kanse",
-    "kate",
-    "prens",
-    "yeni",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7ef4f29cee02": {
-   "id": "7ef4f29cee02",
-   "kaynak": "Hürriyet",
-   "baslik": "23 saat sonra gelen telefonla sarıldılar: Kayıp E.A. Esenyurt'ta bulundu",
-   "ozet": "İstanbul, Avcılar’da evden ayrılan 16 yaşındaki E.A. için ailesi ve muhtar Canan Karaköse sanal medyada paylaşımlar yaptı. E.A.’nın Esenyurt’ta sağ salim bulunduğunu öğrenen aile, kızlarını almak üzere polis merkezine gitti.",
-   "link": "https://www.hurriyet.com.tr/gundem/23-saat-sonra-gelen-telefonla-sarildilar-kayip-e-a-esenyurtta-bulundu-43386939",
-   "zaman": "2026-11-22T13:06:00+03:00",
-   "kelimeler": [
-    "23",
-    "bulun",
-    "eseny",
-    "gelen",
-    "kayip",
-    "saat",
-    "saril",
-    "ta",
-    "telef"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "5b0f8eebd504": {
-   "id": "5b0f8eebd504",
-   "kaynak": "TRT Haber",
-   "baslik": "Pendik'te doğal gaz zehirlenmesi: 16 kişi hastaneye kaldırıldı",
-   "ozet": "İstanbul Pendik'te, 9 katlı binada oturan 16 kişi doğal gaz zehirlenmesi şüphesiyle hastanede tedavi altına alındı.",
-   "link": "https://www.trthaber.com/haber/turkiye/pendikte-dogal-gaz-zehirlenmesi-16-kisi-hastaneye-kaldirildi-964129.html",
-   "zaman": "2026-11-22T13:13:00+03:00",
-   "kelimeler": [
-    "16",
-    "dogal",
-    "gaz",
-    "hasta",
-    "kaldi",
-    "kisi",
-    "pendi",
-    "te",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "492b8295dcd4": {
    "id": "492b8295dcd4",
    "kaynak": "AA",
@@ -27246,7 +27140,10 @@
     "yasam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cf0c6b493d81": {
    "id": "cf0c6b493d81",
@@ -27593,7 +27490,10 @@
     "yolu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "7153dcdf483a": {
    "id": "7153dcdf483a",
@@ -28770,9 +28670,222 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7fc495db8437": {
+   "id": "7fc495db8437",
+   "kaynak": "AA",
+   "baslik": "Bakan Uraloğlu: Kalkınma Yolu Projesi'ni geç kalmadan hayata geçireceğiz",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Irak'ın Fav Limanı'ndan başlayarak Türkiye üzerinden Avrupa'ya uzanacak Kalkınma Yolu Projesi'nin geç kalmadan hayata geçirileceğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-kalkinma-yolu-projesini-gec-kalmadan-hayata-gecirecegiz/4136958",
+   "zaman": "2026-11-25T11:52:13+03:00",
+   "kelimeler": [
+    "bakan",
+    "gec",
+    "gecir",
+    "hayat",
+    "kalki",
+    "kalma",
+    "ni",
+    "proje",
+    "uralo",
+    "yolu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a49e284935ae"
+  },
+  "b07686cbc35f": {
+   "id": "b07686cbc35f",
+   "kaynak": "AA",
+   "baslik": "İsrail ordusu Nablus’ta iki okuldaki öğretmenleri okulları boşaltmaya zorladı",
+   "ozet": "İsrail ordusu, işgal altındaki Batı Şeria’nın kuzeyindeki Nablus kentinde bulunan Burka köyündeki iki okula baskın düzenleyerek öğretmenleri okulları boşaltmaya zorladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-nablus-ta-iki-okuldaki-ogretmenleri-okullari-bosaltmaya-zorladi/4137046",
+   "zaman": "2026-11-25T12:54:13+03:00",
+   "kelimeler": [
+    "bosal",
+    "iki",
+    "israi",
+    "nablu",
+    "ogret",
+    "okuld",
+    "okull",
+    "ordus",
+    "ta",
+    "zorla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "587cbd5a83ed": {
+   "id": "587cbd5a83ed",
+   "kaynak": "AA",
+   "baslik": "Cumhurbaşkanlığı himayelerinde 2. Palandöken Ekonomi Forumu düzenlenecek",
+   "ozet": "Uluslararası yatırımlar ve yeni ticaret fırsatlarının ele alınacağı 2. Palandöken Ekonomi Forumu, Cumhurbaşkanlığı himayelerinde \"Küresel Belirsizlik Altında Sermaye: Yatırımın Yeni Denklemi\" temasıyla 4-6 Aralık'ta Erzurum'da gerçekleştirilecek.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-himayelerinde-2-palandoken-ekonomi-forumu-duzenlenecek/4137055",
+   "zaman": "2026-11-25T12:58:29+03:00",
+   "kelimeler": [
+    "cumhu",
+    "duzen",
+    "ekono",
+    "forum",
+    "himay",
+    "palan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d9459da7cc62": {
+   "id": "d9459da7cc62",
+   "kaynak": "TRT Haber",
+   "baslik": "Şiddet mağduru kadınlara 7/24 kesintisiz destek: ŞÖNİM",
+   "ozet": "Türkiye genelinde 88 noktada 7/24 hizmet veren Şiddet Önleme ve İzleme Merkezleri ŞÖNİM, psikososyal ve hukuki desteğin yanı sıra konukevinden ayrılan kadınların izleme, takip ve danışmanlık süreçlerini sürdürerek toplumsal hayata katılımlarına destek oluyor.",
+   "link": "https://www.trthaber.com/haber/gundem/siddet-magduru-kadinlara-724-kesintisiz-destek-sonim-964430.html",
+   "zaman": "2026-11-25T13:02:00+03:00",
+   "kelimeler": [
+    "24",
+    "deste",
+    "kadin",
+    "kesin",
+    "magdu",
+    "sidde",
+    "sonim"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0306feede133"
+  },
+  "598f5c752c62": {
+   "id": "598f5c752c62",
+   "kaynak": "AA",
+   "baslik": "Fransa'daki eylemlerde bir gencin göğsüne mermi isabet etmesiyle ilgili cinayete teşebbüs soruşturması",
+   "ozet": "Fransa genelinde 17 Ekim'de düzenlenen eylemlerde bir gencin göğsüne mermi isabet ettiği olayla ilgili cinayete teşebbüs soruşturması açıldığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransadaki-eylemlerde-bir-gencin-gogsune-mermi-isabet-etmesiyle-ilgili-cinayete-tesebbus-sorusturmasi/4137064",
+   "zaman": "2026-11-25T13:03:03+03:00",
+   "kelimeler": [
+    "cinay",
+    "daki",
+    "etmes",
+    "eylem",
+    "frans",
+    "genci",
+    "gogsu",
+    "ilgil",
+    "isabe",
+    "mermi",
+    "sorus",
+    "teseb"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "98246da18ee7": {
+   "id": "98246da18ee7",
+   "kaynak": "AA",
+   "baslik": "Libya Ulusal Ordusu Genel Komutanı Halife Hafter Ankara'da",
+   "ozet": "Libya Ulusal Ordusu Genel Komutanı Maraşel Halife Hafter ve beraberindeki heyet Ankara'da üst düzey temaslarda bulundu.",
+   "link": "https://www.aa.com.tr/tr/gundem/libya-ulusal-ordusu-genel-komutani-halife-hafter-ankarada/4137065",
+   "zaman": "2026-11-25T13:03:15+03:00",
+   "kelimeler": [
+    "ankar",
+    "genel",
+    "hafte",
+    "halif",
+    "komut",
+    "libya",
+    "ordus",
+    "ulusa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "65f1919e9e06": {
+   "id": "65f1919e9e06",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Göktaş: Ekranın dilinin şiddete karşı güçlü duruş sergilemesini istiyoruz",
+   "ozet": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Ankara’da düzenlenen panelde konuşan Bakan Mahinur Özdemir Göktaş, medyanın şiddeti sıradanlaştırmayan bir dil kullanmasını istediklerini söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-goktas-ekranin-dilinin-siddete-karsi-guclu-durus-sergilemesini-istiyoruz-43390590",
+   "zaman": "2026-11-25T13:03:31+03:00",
+   "kelimeler": [
+    "bakan",
+    "dilin",
+    "durus",
+    "ekran",
+    "gokta",
+    "guclu",
+    "istiy",
+    "karsi",
+    "sergi",
+    "sidde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "875c0c4e5cde": {
+   "id": "875c0c4e5cde",
+   "kaynak": "AA",
+   "baslik": "A Milli Kadın Voleybol Takımı'nın 2027 Milletler Ligi'ndeki rakipleri belli oldu",
+   "ozet": "A Milli Kadın Voleybol Takımı'nın 2027 FIVB Milletler Ligi'nde (VNL) mücadele edeceği takımlar belli oldu.",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takiminin-2027-milletler-ligindeki-rakipleri-belli-oldu/4137069",
+   "zaman": "2026-11-25T13:07:42+03:00",
+   "kelimeler": [
+    "2027",
+    "belli",
+    "kadin",
+    "ligi",
+    "mille",
+    "milli",
+    "ndeki",
+    "nin",
+    "rakip",
+    "takim",
+    "voley"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a1c38520fefb": {
+   "id": "a1c38520fefb",
+   "kaynak": "AA",
+   "baslik": "Galatasaraylı futbolcu Deniz Gül ameliyat edildi",
+   "ozet": "Aston Villa ile oynanan UEFA Şampiyonlar Ligi maçında yüzüne aldığı darbeyle sakatlanan Deniz Gül'ün ameliyat edildiği açıklandı.",
+   "link": "https://www.aa.com.tr/tr/spor/galatasarayli-futbolcu-deniz-gul-ameliyat-edildi/4137070",
+   "zaman": "2026-11-25T13:08:05+03:00",
+   "kelimeler": [
+    "ameli",
+    "deniz",
+    "edild",
+    "futbo",
+    "galat",
+    "gul"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "99766d53b6f6": {
+   "id": "99766d53b6f6",
+   "kaynak": "AA",
+   "baslik": "Ulaştırma ve Altyapı Bakanı Uraloğlu: Kalkınma Yolu ile Hicaz Demiryolu birbirini destekliyor",
+   "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Kalkınma Yolu ile Hicaz Yolu hatlarının birbirine rakip olmadığını, aksine birbirini desteklediğini söyledi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ulastirma-ve-altyapi-bakani-uraloglu-kalkinma-yolu-ile-hicaz-demiryolu-birbirini-destekliyor/4137072",
+   "zaman": "2026-11-25T13:08:49+03:00",
+   "kelimeler": [
+    "altya",
+    "bakan",
+    "birbi",
+    "demir",
+    "deste",
+    "hicaz",
+    "kalki",
+    "ulast",
+    "uralo",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 13:15:59  8 yeni haber",
   "25.11 13:01:15  9 yeni haber",
   "25.11 12:46:02  5 yeni haber",
   "25.11 12:34:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD Başkanı Trump: İran'la savaşı istediğimiz zaman bitirebiliriz",
@@ -28971,8 +29084,7 @@
   "23.11 08:31:29  2 yeni haber",
   "23.11 08:19:00  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · GTA VI, ilk gün satışları rekorları altüst etti",
   "23.11 08:16:10  2 yeni haber",
-  "23.11 08:01:30  1 yeni haber",
-  "23.11 07:46:08  1 yeni haber"
+  "23.11 08:01:30  1 yeni haber"
  ],
  "otomatik": false
 }
