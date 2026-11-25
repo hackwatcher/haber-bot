@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "6d789e5c0490": {
-   "id": "6d789e5c0490",
-   "kaynak": "NTV",
-   "baslik": "Bakan Kurum: Geldiğimiz noktada tarihi bir fırsatın eşiğindeyiz",
-   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum; son ana kadar uzlaşının imkanlarını aradıklarını ve gelinen noktada tarihi bir fırsatın eşiğinde olunduğunu söyledi.",
-   "link": "https://www.ntv.com.tr/turkiye/bakan-kurum-geldigimiz-noktada-tarihi-bir-firsatin-esigindeyiz-1752070",
-   "zaman": "2026-11-22T15:44:39+03:00",
-   "kelimeler": [
-    "bakan",
-    "esigi",
-    "firsa",
-    "geldi",
-    "kurum",
-    "nokta",
-    "tarih"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f80916ebf57d"
-  },
-  "871b1088a8a6": {
-   "id": "871b1088a8a6",
-   "kaynak": "NTV",
-   "baslik": "Mustafa Sarıgül'ün fezlekesinden ayrıntılar. 4 mağdurun beyanları ve milyon euroluk kayıtlar",
-   "ozet": "Mustafa Sarıgül hakkında hazırlanan fezlekede dört mağdura yönelik cinsel saldırı ve istismar eylemlerinin yanı sıra haksız menfaatleri aklamak amacıyla suç örgütü kurup yönettiği tespitleri yer aldı.",
-   "link": "https://www.ntv.com.tr/turkiye/mustafa-sarigulun-fezlekesinden-ayrintilar-4-magdurun-beyanlari-ve-milyon-euroluk-kayitlar-1752067",
-   "zaman": "2026-11-22T15:46:17+03:00",
-   "kelimeler": [
-    "ayrin",
-    "beyan",
-    "eurol",
-    "fezle",
-    "kayit",
-    "magdu",
-    "milyo",
-    "musta",
-    "sarig",
-    "un"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e7230b1a5604"
-  },
-  "48d1e1eb6d5f": {
-   "id": "48d1e1eb6d5f",
-   "kaynak": "TRT Haber",
-   "baslik": "Yusufeli Barajı'ndan ekonomiye 16 milyar lirayı aşan katkı",
-   "ozet": "Bakan Yumaklı, Yusufeli Barajı ve Hidroelektrik Santrali'nin HES 4 yaşında olduğunu belirterek, \"Yusufeli, 275 metre gövde yüksekliği, ürettiği 5,6 milyar kilovatsaat elektrik ve ekonomimize sağladığı 16,7 milyar lirayı aşan katkıyla ülkemizin gururu olmaya devam ediyor\"…",
-   "link": "https://www.trthaber.com/haber/ekonomi/yusufeli-barajindan-ekonomiye-16-milyar-lirayi-asan-katki-964140.html",
-   "zaman": "2026-11-22T15:45:00+03:00",
-   "kelimeler": [
-    "16",
-    "asan",
-    "baraj",
-    "ekono",
-    "katki",
-    "liray",
-    "milya",
-    "ndan",
-    "yusuf"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ff423fe0509a"
-  },
   "e3bb16a395f4": {
    "id": "e3bb16a395f4",
    "kaynak": "Hürriyet",
@@ -29115,7 +29050,8 @@
     "zarar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "b5db55e203f0": {
    "id": "b5db55e203f0",
@@ -29196,9 +29132,91 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3a2fb12d380d": {
+   "id": "3a2fb12d380d",
+   "kaynak": "AA",
+   "baslik": "Uluslararası Af Örgütü: İsrail Gazze'de kadınlar ve kız çocuklarını sistematik zararlara maruz bıraktı",
+   "ozet": "Uluslararası Af Örgütü, İsrail'in işgali altındaki Gazze Şeridi'nde Filistinlilere yönelik sürdürdüğü soykırımın kadınlar ve kız çocukları üzerindeki etkilerine ilişkin hazırladığı 135 sayfalık yeni raporu kamuoyuyla paylaştı.",
+   "link": "https://www.aa.com.tr/tr/dunya/uluslararasi-af-orgutu-israil-gazzede-kadinlar-ve-kiz-cocuklarini-sistematik-zararlara-maruz-birakti/4137241",
+   "zaman": "2026-11-25T15:08:30+03:00",
+   "kelimeler": [
+    "af",
+    "birak",
+    "cocuk",
+    "gazze",
+    "israi",
+    "kadin",
+    "kiz",
+    "maruz",
+    "orgut",
+    "siste",
+    "ulusl",
+    "zarar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9be128b7f904"
+  },
+  "b1bbf4cbcbf3": {
+   "id": "b1bbf4cbcbf3",
+   "kaynak": "AA",
+   "baslik": "Türk Eximbank, 740 milyon dolarlık sendikasyon kredisi sağladı",
+   "ozet": "Türk Eximbank, dolar, avro ve yuan cinsinden 1, 2 ve 3 yıl vadeli dilimlerden oluşan 740 milyon dolar tutarındaki sendikasyon kredisini başarıyla tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-eximbank-740-milyon-dolarlik-sendikasyon-kredisi-sagladi/4137447",
+   "zaman": "2026-11-25T15:40:29+03:00",
+   "kelimeler": [
+    "740",
+    "dolar",
+    "eximb",
+    "kredi",
+    "milyo",
+    "sagla",
+    "sendi",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7f6e11593c4e": {
+   "id": "7f6e11593c4e",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan: Siyaset çözüm üretme yeridir",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerine terörsüz Türkiye sürecine ilişkin tutumları nedeniyle tepki gösterirken \"Kendilerine perde yapıyorlar. Siyaset çözüm üretme yeridir.\" dedi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
+   "zaman": "2026-11-25T15:41:02+03:00",
+   "kelimeler": [
+    "cozum",
+    "cumhu",
+    "erdog",
+    "siyas",
+    "uretm",
+    "yerid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f1c313eabab6": {
+   "id": "f1c313eabab6",
+   "kaynak": "AA",
+   "baslik": "Erciyes'te yapay karlama çalışmaları başladı",
+   "ozet": "Türkiye'nin önemli kayak merkezlerinden Erciyes'te 2026-2027 kayak sezonu hazırlıkları kapsamında yapay kar üretilmeye başladı.",
+   "link": "https://www.aa.com.tr/tr/kultur/erciyeste-yapay-karlama-calismalari-basladi/4137459",
+   "zaman": "2026-11-25T15:41:54+03:00",
+   "kelimeler": [
+    "basla",
+    "calis",
+    "erciy",
+    "karla",
+    "te",
+    "yapay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 15:46:19  3 yeni haber",
   "25.11 15:31:56  5 yeni haber",
   "25.11 15:16:07  3 yeni haber",
   "25.11 15:01:55  6 yeni haber",
@@ -29397,8 +29415,7 @@
   "23.11 10:49:51  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Çalıntı kamyondaki milyonluk sigaraları aktarırken suçüstü yakalandıla",
   "23.11 10:46:06  3 yeni haber",
   "23.11 10:31:10  8 yeni haber",
-  "23.11 10:15:57  7 yeni haber",
-  "23.11 10:01:20  4 yeni haber"
+  "23.11 10:15:57  7 yeni haber"
  ],
  "otomatik": false
 }
