@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "7bbccf1470b5": {
-   "id": "7bbccf1470b5",
-   "kaynak": "TRT Haber",
-   "baslik": "Sarıyerde aslan alarmı: Yakalama çalışması başladı",
-   "ozet": "İstanbul Sarıyer'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde aslan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
-   "link": "https://www.trthaber.com/haber/turkiye/sariyerde-aslan-alarmi-yakalama-calismasi-basladi-964155.html",
-   "zaman": "2026-11-22T23:11:00+03:00",
-   "kelimeler": [
-    "alarm",
-    "aslan",
-    "basla",
-    "calis",
-    "sariy",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "XHABER",
-    "Hürriyet",
-    "NTV",
-    "BBC Türkçe"
-   ]
-  },
-  "31e1031e1886": {
-   "id": "31e1031e1886",
-   "kaynak": "Hürriyet",
-   "baslik": "Bakan Kurum: Tıkanan müzakereleri ve süreçleri tüm dünyanın ve insanlığın takdirine bırakıyorum",
-   "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Türkiye olarak Antalya'da uzlaşının bütün imkanlarını zorladık.",
-   "link": "https://www.hurriyet.com.tr/gundem/bakan-kurum-tikanan-muzakereleri-ve-surecleri-tum-dunyanin-ve-insanligin-takdirine-birakiyorum-43387411",
-   "zaman": "2026-11-22T23:11:06+03:00",
-   "kelimeler": [
-    "bakan",
-    "birak",
-    "dunya",
-    "insan",
-    "kurum",
-    "muzak",
-    "surec",
-    "takdi",
-    "tikan",
-    "tum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c003f2cef795": {
-   "id": "c003f2cef795",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump, İran'a saldırıların yeni yıldan sonra yeniden başlayabileceği uyarısında bulundu",
-   "ozet": "ABD Başkanı Donald Trump, İran ile anlaşmaya varılamaması halinde 1 Ocak'tan sonra bu ülkeye yönelik askeri saldırı emri verebileceğini belirtti.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-irana-saldirilarin-yeni-yildan-sonra-yeniden-baslayabilecegi-uyarisinda-bulundu-964156.html",
-   "zaman": "2026-11-22T23:16:00+03:00",
-   "kelimeler": [
-    "basla",
-    "bulun",
-    "iran",
-    "saldi",
-    "trump",
-    "uyari",
-    "yeni",
-    "yenid",
-    "yilda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "5186455db1e0"
-  },
   "4a9bd50c9bed": {
    "id": "4a9bd50c9bed",
    "kaynak": "AA",
@@ -16518,7 +16450,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "9dc4db0ef4c5": {
    "id": "9dc4db0ef4c5",
@@ -30516,7 +30451,10 @@
     "liman"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "d1c64b1c015e": {
    "id": "d1c64b1c015e",
@@ -30564,9 +30502,143 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a383393fbcd1"
+  },
+  "2d515488ae94": {
+   "id": "2d515488ae94",
+   "kaynak": "AA",
+   "baslik": "Berlin'de Filistin'e destek gösterisi düzenlendi",
+   "ozet": "Almanya'nın başkenti Berlin’de Filistin’e destek gösterisi düzenlendi.",
+   "link": "https://www.aa.com.tr/tr/dunya/berlinde-filistine-destek-gosterisi-duzenlendi/4137952",
+   "zaman": "2026-11-25T22:29:55+03:00",
+   "kelimeler": [
+    "berli",
+    "deste",
+    "duzen",
+    "filis",
+    "goste"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d4c96fa25e4f"
+  },
+  "ffaa4c31cd6f": {
+   "id": "ffaa4c31cd6f",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Cidde Limanı çevresini hedef alan Husilere ait bir İHA imha edildi",
+   "ozet": "Arap Koalisyonu, İran destekli Husilerin Suudi Arabistan'ın batısındaki Cidde Limanı çevresine fırlattığı bir insansız hava aracının İHA imha edildiğini duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-cidde-limani-cevresini-hedef-alan-husilere-ait-bir-iha-imha-edildi-964476.html",
+   "zaman": "2026-11-25T22:49:00+03:00",
+   "kelimeler": [
+    "ait",
+    "alan",
+    "arap",
+    "cevre",
+    "cidde",
+    "edild",
+    "hedef",
+    "husil",
+    "iha",
+    "imha",
+    "koali",
+    "liman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "89bf07398d29"
+  },
+  "de16374c90be": {
+   "id": "de16374c90be",
+   "kaynak": "AA",
+   "baslik": "ABD Ukrayna’ya 622 milyon dolarlık F-16 bakım ve destek ekipmanı satışını onayladı",
+   "ozet": "ABD Dışişleri Bakanlığı, Ukrayna’ya 622 milyon dolar tutarında F-16 uçaklarının bakım ve destek hizmetleri ile ilgili ekipman satışını onayladığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi/4138031",
+   "zaman": "2026-11-25T22:56:42+03:00",
+   "kelimeler": [
+    "16",
+    "622",
+    "abd",
+    "bakim",
+    "deste",
+    "dolar",
+    "ekipm",
+    "milyo",
+    "onayl",
+    "satis",
+    "ukray",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e887cd7e41ef": {
+   "id": "e887cd7e41ef",
+   "kaynak": "TRT Haber",
+   "baslik": "Netanyahu'dan yolsuzluk davası ve yeniden iktidarını engelleyecek yasaya tepki",
+   "ozet": "Geçici İsrail Başbakanı Binyamin Netanyahu, hakkında devam eden yolsuzluk davasının \"derhal\" sonlandırılmasını isterken, yeniden başbakan olmasını kısıtlamayı amaçlayan yasa tasarısına da tepki gösterdi.",
+   "link": "https://www.trthaber.com/haber/dunya/netanyahudan-yolsuzluk-davasi-ve-yeniden-iktidarini-engelleyecek-yasaya-tepki-964478.html",
+   "zaman": "2026-11-25T23:01:00+03:00",
+   "kelimeler": [
+    "dan",
+    "davas",
+    "engel",
+    "iktid",
+    "netan",
+    "tepki",
+    "yasay",
+    "yenid",
+    "yolsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9dbc6f809cb9": {
+   "id": "9dbc6f809cb9",
+   "kaynak": "Hürriyet",
+   "baslik": "Korgan Belediye Başkanı Sait Korgan İYİ Parti'den istifa etti",
+   "ozet": "Ordu'da Korgan Belediye Başkanı Sait Korgan, İYİ Parti'den istifa ettiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/korgan-belediye-baskani-sait-korgan-iyi-partiden-istifa-etti-43391214",
+   "zaman": "2026-11-25T23:01:45+03:00",
+   "kelimeler": [
+    "baska",
+    "beled",
+    "den",
+    "etti",
+    "istif",
+    "iyi",
+    "korga",
+    "parti",
+    "sait"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "841943049f34": {
+   "id": "841943049f34",
+   "kaynak": "TRT Haber",
+   "baslik": "BM: Somali'de insani yardım planının yalnızca yüzde 36'sı finanse edilmiş durumda",
+   "ozet": "Birleşmiş Milletler BM, Somali için hazırlanan insani yardım planının sadece yüzde 36'sının finanse edildiğini belirterek, bu kapsamda hedeflenen 2,4 milyondan fazla kişinin 1,4 milyonuna veya daha fazlasına ihtiyaç duydukları yardımın ulaştırılamadığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/bm-somalide-insani-yardim-planinin-yalnizca-yuzde-36si-finanse-edilmis-durumda-964479.html",
+   "zaman": "2026-11-25T23:03:00+03:00",
+   "kelimeler": [
+    "36",
+    "bm",
+    "durum",
+    "edilm",
+    "finan",
+    "insan",
+    "plani",
+    "si",
+    "somal",
+    "yalni",
+    "yardi",
+    "yuzde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 23:16:01  4 yeni haber",
   "25.11 23:01:29  1 yeni haber",
   "25.11 22:46:18  1 yeni haber",
   "25.11 22:31:14  1 yeni haber",
@@ -30765,8 +30837,7 @@
   "23.11 17:31:15  3 yeni haber",
   "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev",
   "23.11 17:16:40  3 yeni haber",
-  "23.11 17:01:33  4 yeni haber",
-  "23.11 16:46:08  5 yeni haber"
+  "23.11 17:01:33  4 yeni haber"
  ],
  "otomatik": false
 }
