@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "f90d1dc8ee26": {
-   "id": "f90d1dc8ee26",
-   "kaynak": "NTV",
-   "baslik": "Sarıyer'de \"aslan gördüm\" ihbarı",
-   "ozet": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/video-sariyerde-aslan-gordum-ihbari-1752110",
-   "zaman": "2026-11-22T22:57:30+03:00",
-   "kelimeler": [
-    "aslan",
-    "gordu",
-    "ihbar",
-    "sariy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet",
-    "XHABER",
-    "AA"
-   ]
-  },
-  "2105880c118e": {
-   "id": "2105880c118e",
-   "kaynak": "NTV",
-   "baslik": "Sarıyer'de \"aslan gördüm\" ihbarı: Ekipler çalışma başlattı",
-   "ozet": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar uyarıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
-   "zaman": "2026-11-22T22:57:51+03:00",
-   "kelimeler": [
-    "aslan",
-    "basla",
-    "calis",
-    "ekipl",
-    "gordu",
-    "ihbar",
-    "sariy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f90d1dc8ee26"
-  },
-  "fa0c1af03ea3": {
-   "id": "fa0c1af03ea3",
-   "kaynak": "Hürriyet",
-   "baslik": "Sarıyer'de 'aslan gördüm' ihbarı yapıldı; ekipler çalışma başlattı",
-   "ozet": "SARIYER'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sariyerde-aslan-gordum-ihbari-yapildi-ekipler-calisma-baslatti-43387403",
-   "zaman": "2026-11-22T22:59:00+03:00",
-   "kelimeler": [
-    "aslan",
-    "basla",
-    "calis",
-    "ekipl",
-    "gordu",
-    "ihbar",
-    "sariy",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f90d1dc8ee26"
-  },
   "7bbccf1470b5": {
    "id": "7bbccf1470b5",
    "kaynak": "TRT Haber",
@@ -21677,7 +21615,10 @@
     "nasil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "XHABER"
+   ]
   },
   "c8e00b9ba840": {
    "id": "c8e00b9ba840",
@@ -27269,7 +27210,10 @@
     "zaman"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "70ebc78384c5": {
    "id": "70ebc78384c5",
@@ -30549,9 +30493,81 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "89bf07398d29": {
+   "id": "89bf07398d29",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Cidde Limanı çevresini hedef alan Husilere ait bir İHA imha edildi",
+   "ozet": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin Suudi Arabistan'ın batısındaki Cidde Limanı çevresine fırlattığı bir insansız hava aracının (İHA) imha edildiğini duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-cidde-limani-cevresini-hedef-alan-husilere-ait-bir-iha-imha-edildi/4137808",
+   "zaman": "2026-11-25T19:54:26+03:00",
+   "kelimeler": [
+    "ait",
+    "alan",
+    "arap",
+    "cevre",
+    "cidde",
+    "edild",
+    "hedef",
+    "husil",
+    "iha",
+    "imha",
+    "koali",
+    "liman"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d1c64b1c015e": {
+   "id": "d1c64b1c015e",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'a kar ne zaman yağacak?",
+   "ozet": "İstanbul Büyükşehir Belediyesi İBB Afet Koordinasyon Merkezi AKOM, kentte kar yağışı için en kuvvetli ihtimalin ocak ayı başından şubat ortasına kadarki süreçte gerçekleşeceğinin öngörüldüğünü duyurdu.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbula-kar-ne-zaman-yagacak-964477.html",
+   "zaman": "2026-11-25T22:52:00+03:00",
+   "kelimeler": [
+    "istan",
+    "kar",
+    "yagac",
+    "zaman"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "de414cbb8eca"
+  },
+  "79cfbd1545f4": {
+   "id": "79cfbd1545f4",
+   "kaynak": "XHABER",
+   "baslik": "İstanbul Sarıyer’de iki gün boyunca aslan olduğu düşünülerek aranan hayvanın kedi olduğu ortaya çıktı.",
+   "ozet": "(Hürriyet)",
+   "link": "https://t.me/sahinozkan000/30921",
+   "zaman": "2026-11-25T22:57:19+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "İstanbul Sarıyer’de iki gün boyunca aslan olduğu düşünülerek aranan hayvanın kedi olduğu ortaya çıktı. (Hürriyet)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/hSrGJ0mHEj5KCPytyUo6jHI_6v9H6cwAmIYUodsaFcDvXAY0jjBZJaJPsTilblUOivmrNndbRElZr1YX_ssDRU1R8e6vaXzQEiG_t2UqvrgKcHm5ylE6OwmBVSW5BzxhW7BBDZs7ztH2MnXBYgTM3TX0hlsdgAVRVnVN53_0JpdLaXqnS2qAlsepoQ0Ed-ChGilJ75PQbOvqYfQRS__0dZTmrtYkSgbtOFiAhmE5nHMaM_k_X5stw0hnoU91QjY047Dn5JMX37R_DqWDF36IIzYk3gCWo3u3H2YrYT3pdKdw4ai1QrKidqcS74m8QLCDlBSC9E2amIbCF4EP_69Axw.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "arana",
+    "aslan",
+    "boyun",
+    "cikti",
+    "dusun",
+    "gun",
+    "hayva",
+    "iki",
+    "istan",
+    "kedi",
+    "oldug",
+    "ortay",
+    "sariy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a383393fbcd1"
   }
  },
  "kayit": [
+  "25.11 23:01:29  1 yeni haber",
   "25.11 22:46:18  1 yeni haber",
   "25.11 22:31:14  1 yeni haber",
   "25.11 22:16:09  1 yeni haber",
@@ -30750,8 +30766,7 @@
   "23.11 17:18:42  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · UEFA'dan Halil Umut Meler'e görev",
   "23.11 17:16:40  3 yeni haber",
   "23.11 17:01:33  4 yeni haber",
-  "23.11 16:46:08  5 yeni haber",
-  "23.11 16:31:36  3 yeni haber"
+  "23.11 16:46:08  5 yeni haber"
  ],
  "otomatik": false
 }
