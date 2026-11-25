@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "d9ef4b8bbd58": {
-   "id": "d9ef4b8bbd58",
-   "kaynak": "AA",
-   "baslik": "Delta Air Lines uçuşları teknik sorun nedeniyle ABD genelinde gecikme ve iptaller yaşıyor",
-   "ozet": "ABD'nin Atlanta şehrinde yaşanan teknik bir aksaklık sebebiyle hava yolu şirketi Delta Air Lines'ın uçuşlarında ülke genelinde gecikme ve iptaller yaşandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/delta-air-lines-ucuslari-teknik-sorun-nedeniyle-abd-genelinde-gecikme-ve-iptaller-yasiyor/4133817",
-   "zaman": "2026-11-22T22:24:04+03:00",
-   "kelimeler": [
-    "abd",
-    "air",
-    "delta",
-    "gecik",
-    "genel",
-    "iptal",
-    "lines",
-    "neden",
-    "sorun",
-    "tekni",
-    "ucusl",
-    "yasiy"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "586a53d5fe33": {
-   "id": "586a53d5fe33",
-   "kaynak": "TRT Haber",
-   "baslik": "BUDO'nun yarınki 12 seferi iptal edildi",
-   "ozet": "Bursa Deniz Otobüslerinin BUDO yarınki 12 seferi olumsuz hava şartları nedeniyle iptal edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/budonun-yarinki-12-seferi-iptal-edildi-964154.html",
-   "zaman": "2026-11-22T22:26:00+03:00",
-   "kelimeler": [
-    "12",
-    "budo",
-    "edild",
-    "iptal",
-    "nun",
-    "sefer",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "af06c1265095": {
    "id": "af06c1265095",
    "kaynak": "AA",
@@ -19679,7 +19635,8 @@
     "yasam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ef3e36b431d7": {
    "id": "ef3e36b431d7",
@@ -30532,10 +30489,82 @@
     "yangi"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "b5115c2e1285": {
+   "id": "b5115c2e1285",
+   "kaynak": "TRT Haber",
+   "baslik": "Mısır'da yakıt tankerinde çıkan yangında 30 kişi hayatını kaybetti",
+   "ozet": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol ürünleri taşıyan bir tankerde nedeni henüz belirlenemeyen şekilde çıkan yangında ilk belirlemelere göre 30 kişi yaşamını yitirdi, 15 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti-964474.html",
+   "zaman": "2026-11-25T21:50:00+03:00",
+   "kelimeler": [
+    "30",
+    "cikan",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "misir",
+    "tanke",
+    "yakit",
+    "yangi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3965bb3c7f9f"
+  },
+  "8e32e76c1286": {
+   "id": "8e32e76c1286",
+   "kaynak": "AA",
+   "baslik": "Almanya'nın Trier Katolik Piskoposluğu'nda yaklaşık 800 çocuk ve gencin cinsel istismara uğradığı belirlendi",
+   "ozet": "Almanya'da Trier Katolik Piskoposluğu'nda 1946-2021 döneminde yaklaşık 800 çocuk ve gencin, rahipler ve din görevlilerinin cinsel istismarına maruz kaldığı ortaya çıktı.",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyanin-trier-katolik-piskoposlugunda-yaklasik-800-cocuk-ve-gencin-cinsel-istismara-ugradigi-belirlendi/4137928",
+   "zaman": "2026-11-25T22:15:29+03:00",
+   "kelimeler": [
+    "800",
+    "alman",
+    "belir",
+    "cinse",
+    "cocuk",
+    "genci",
+    "istis",
+    "katol",
+    "nda",
+    "nin",
+    "pisko",
+    "trier",
+    "ugrad",
+    "yakla"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "a22061e90e9d": {
+   "id": "a22061e90e9d",
+   "kaynak": "AA",
+   "baslik": "Fransa'nın güneyinde sağanak hayatı olumsuz etkiledi",
+   "ozet": "Fransa'nın güneyindeki Var ilinde sağanak nedeniyle yollar ve binalar sular altında kaldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/fransanin-guneyinde-saganak-hayati-olumsuz-etkiledi/4137934",
+   "zaman": "2026-11-25T22:20:09+03:00",
+   "kelimeler": [
+    "etkil",
+    "frans",
+    "guney",
+    "hayat",
+    "nin",
+    "olums",
+    "sagan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d0926768ee1a"
   }
  },
  "kayit": [
+  "25.11 22:31:14  1 yeni haber",
   "25.11 22:16:09  1 yeni haber",
   "25.11 22:01:19  3 yeni haber",
   "25.11 21:46:22  6 yeni haber",
@@ -30734,8 +30763,7 @@
   "23.11 17:01:33  4 yeni haber",
   "23.11 16:46:08  5 yeni haber",
   "23.11 16:31:36  3 yeni haber",
-  "23.11 16:16:02  2 yeni haber",
-  "23.11 16:01:43  5 yeni haber"
+  "23.11 16:16:02  2 yeni haber"
  ],
  "otomatik": false
 }
