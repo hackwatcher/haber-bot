@@ -26722,7 +26722,10 @@
     "yuvar"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "8f8bb8b48820": {
    "id": "8f8bb8b48820",
@@ -27247,9 +27250,142 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "993aabc83f8c": {
+   "id": "993aabc83f8c",
+   "kaynak": "TRT Haber",
+   "baslik": "İngiltere'de aşırı sıcaklar 5 bin 258 can aldı",
+   "ozet": "İngiltere'de bu yaz aşırı sıcaklığa bağlı 5 bin 258 kişinin yaşamını yitirdiğinin tahmin edildiği ve bu sayının 2016'dan bu yana kaydedilen \"en yüksek seviye\" olduğu aktarıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/ingilterede-asiri-sicaklar-5-bin-258-can-aldi-964385.html",
+   "zaman": "2026-11-25T07:24:00+03:00",
+   "kelimeler": [
+    "258",
+    "aldi",
+    "asiri",
+    "bin",
+    "can",
+    "ingil",
+    "sicak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b926e67161a5": {
+   "id": "b926e67161a5",
+   "kaynak": "TRT Haber",
+   "baslik": "Uçurumdan yuvarlanan ATV sürücüsü 6 saatlik çalışmayla kurtarıldı",
+   "ozet": "Yalova'nın Termal ilçesinde ATV ile seyir halindeyken uçurumdan yuvarlanan sürücü, ekiplerin 6 saatlik çalışmasıyla kurtarıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ucurumdan-yuvarlanan-atv-surucusu-6-saatlik-calismayla-kurtarildi-964386.html",
+   "zaman": "2026-11-25T07:30:00+03:00",
+   "kelimeler": [
+    "atv",
+    "calis",
+    "kurta",
+    "saatl",
+    "suruc",
+    "ucuru",
+    "yuvar"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "f12b90ab6e9d"
+  },
+  "c7a1fe0d7af0": {
+   "id": "c7a1fe0d7af0",
+   "kaynak": "AA",
+   "baslik": "Suudi Arabistan'ın doğusunda 4 İHA'nın engellendiği sırada bölgeye bazı şarapneller düştüğü bildirildi",
+   "ozet": "Yemen'de meşru hükümeti destekleyen Arap Koalisyonu, Suudi Arabistan'ın doğusundaki Ras Tanura'da tespit edilen 4 insansız hava aracının (İHA) engellendiği sırada bölgeye şarapnellerin düştüğünü ancak can kayıplarının olmadığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-dogusunda-4-ihanin-engellendigi-sirada-bolgeye-bazi-sarapneller-dustugu-bildirildi/4136561",
+   "zaman": "2026-11-25T07:30:58+03:00",
+   "kelimeler": [
+    "arabi",
+    "bazi",
+    "bildi",
+    "bolge",
+    "dogus",
+    "dustu",
+    "engel",
+    "iha",
+    "in",
+    "nin",
+    "sarap",
+    "sirad",
+    "suudi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "eb4fa94155de": {
+   "id": "eb4fa94155de",
+   "kaynak": "TRT Haber",
+   "baslik": "Kaza yaptılar, otomobili yol ortasında bırakıp gittiler",
+   "ozet": "Kayserinin Kocasinan ilçesinde iki kişi kaza yaptıkları otomobili yolun ortasında bırakıp gitti. Yolu kısmi olarak trafiğe kapatan otomobil çekici yardımıyla kaldırıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kaza-yaptilar-otomobili-yol-ortasinda-birakip-gittiler-964387.html",
+   "zaman": "2026-11-25T07:33:00+03:00",
+   "kelimeler": [
+    "birak",
+    "gitti",
+    "kaza",
+    "ortas",
+    "otomo",
+    "yapti",
+    "yol"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "37c08e74e1aa": {
+   "id": "37c08e74e1aa",
+   "kaynak": "Hürriyet",
+   "baslik": "Ünlülere uyuşturucu operasyonunda yeni dalga: Çok sayıda isme gözaltı kararı! Listede Özcan Deniz, Burcu Özberk, Murat Ceylan ve Deniz Çakır da var",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen ünlülere yönelik uyuşturucu soruşturması kapsamında, aralarında oyuncu Özcan Deniz, Burcu Özberk, Murat Ceylan, Murat Başoğlu ve Deniz Çakır'ın da bulunduğu 35 kişi hakkında gözaltı kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/unlulere-uyusturucu-operasyonunda-yeni-dalga-cok-sayida-isme-gozalti-karari-listede-ozcan-deniz-burcu-ozberk-murat-ceylan-ve-deniz-43390110",
+   "zaman": "2026-11-25T07:33:00+03:00",
+   "kelimeler": [
+    "burcu",
+    "cakir",
+    "ceyla",
+    "dalga",
+    "deniz",
+    "gozal",
+    "isme",
+    "karar",
+    "liste",
+    "murat",
+    "opera",
+    "ozber",
+    "ozcan",
+    "sayid",
+    "unlul",
+    "uyust",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2d867e1a69e2"
+  },
+  "b5d9183d6654": {
+   "id": "b5d9183d6654",
+   "kaynak": "NTV",
+   "baslik": "Numan Kurtulmuş: İzleme komisyonu 19 üyeli olacak",
+   "ozet": "Meclis Başkanı Numan Kurtulmuş, Meclis'te kurulacak İzleme Komisyonunun komisyonun 19 üye ile görev yapacağını açıkladı. Meclis Başkanı dokunulmazlıklar konusunda da dikkat çeken mesajlar verdi.",
+   "link": "https://www.ntv.com.tr/turkiye/numan-kurtulmus-izleme-komisyonu-19-uyeli-olacak-1752459",
+   "zaman": "2026-11-25T07:33:29+03:00",
+   "kelimeler": [
+    "19",
+    "izlem",
+    "komis",
+    "kurtu",
+    "numan",
+    "olaca",
+    "uyeli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "25.11 07:46:01  4 yeni haber",
   "25.11 07:15:56  15 yeni haber",
   "25.11 07:03:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı",
   "25.11 06:51:43  1 yeni haber",
@@ -27448,8 +27584,7 @@
   "22.11 23:01:15  2 yeni haber",
   "22.11 22:46:17  4 yeni haber",
   "22.11 22:31:10  1 yeni haber",
-  "22.11 22:15:55  2 yeni haber",
-  "22.11 21:46:06  2 yeni haber"
+  "22.11 22:15:55  2 yeni haber"
  ],
  "otomatik": false
 }
