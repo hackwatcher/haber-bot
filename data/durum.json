@@ -1,44 +1,5 @@
 {
  "haberler": {
-  "f63c09d752db": {
-   "id": "f63c09d752db",
-   "kaynak": "Hürriyet",
-   "baslik": "Gürbulak’ta şüpheli tankerde yakalandı: Dorseye iple sarkıtılmış 271 kilo uyuşturucu",
-   "ozet": "Gürbulak Gümrük Kapısı’nda kontrole alınan tankerin yük kısmında ip ve poşetle gizlenmiş uyuşturucular bulundu. Ekipler 121 kilo 400 gram metamfetamin ile 150 kilo 350 gram esrara el koyarken, adli işlemler sürüyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/gurbulakta-supheli-tankerde-yakalandi-dorseye-iple-sarkitilmis-271-kilo-uyusturucu-43387184",
-   "zaman": "2026-11-22T17:28:00+03:00",
-   "kelimeler": [
-    "271",
-    "dorse",
-    "gurbu",
-    "iple",
-    "kilo",
-    "sarki",
-    "suphe",
-    "ta",
-    "tanke",
-    "uyust",
-    "yakal"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1cfee038ba7d": {
-   "id": "1cfee038ba7d",
-   "kaynak": "AA",
-   "baslik": "MotoGP'de Marc Marquez şampiyon oldu",
-   "ozet": "MotoGP'de 2026 sezonunda, İspanyol pilot Marc Marquez şampiyonluğa ulaştı.",
-   "link": "https://www.aa.com.tr/tr/spor/motogpde-marc-marquez-sampiyon-oldu/4133642",
-   "zaman": "2026-11-22T17:30:34+03:00",
-   "kelimeler": [
-    "marc",
-    "marqu",
-    "motog",
-    "sampi"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
   "7d07cff32186": {
    "id": "7d07cff32186",
    "kaynak": "AA",
@@ -23945,7 +23906,8 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "c62ec39fac85": {
    "id": "c62ec39fac85",
@@ -27491,7 +27453,9 @@
    ],
    "durum": "yeni",
    "oncelikli": false,
-   "diger_kaynaklar": []
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "65f1919e9e06": {
    "id": "65f1919e9e06",
@@ -29245,7 +29209,10 @@
     "uyele"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "d5818a0b7f22": {
    "id": "d5818a0b7f22",
@@ -29565,7 +29532,10 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "6e28a68a278e": {
    "id": "6e28a68a278e",
@@ -29666,9 +29636,158 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "d502dc2ae85f": {
+   "id": "d502dc2ae85f",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Göktaş: Kadına şiddetle mücadeleyi bir insan hakları mücadelesi olarak görüyoruz",
+   "ozet": "Kadına yönelik şiddetle mücadeleyi bir insan hakları mücadelesi olarak gördüklerini ifade eden Bakan Göktaş, \"Bu mücadelenin özünde ise insanı yaratılmışların en şereflisi kabul eden, merhameti, adaleti ve insana hürmeti esas alan medeniyet anlayışımız vardır.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-kadina-siddetle-mucadeleyi-bir-insan-haklari-mucadelesi-olarak-goruyoruz-964454.html",
+   "zaman": "2026-11-25T16:57:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "gokta",
+    "goruy",
+    "hakla",
+    "insan",
+    "kadin",
+    "mucad",
+    "sidde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e9afafa2e5c4"
+  },
+  "499d367a7ff4": {
+   "id": "499d367a7ff4",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail'in Gazze'ye saldırılarında hayatını kaybeden Filistinlilerin sayısı 6'ya yükseldi",
+   "ozet": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin çeşitli bölgelerine sabah saatlerinden bu yana düzenlediği saldırılarda hayatını kaybeden Filistinlilerin sayısı 6'ya yükseldi.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-saldirilarinda-hayatini-kaybeden-filistinlilerin-sayisi-6ya-yukseldi-964453.html",
+   "zaman": "2026-11-25T17:05:00+03:00",
+   "kelimeler": [
+    "filis",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "katil",
+    "kaybe",
+    "saldi",
+    "sayis",
+    "ya",
+    "ye",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f0eeddb74d1e": {
+   "id": "f0eeddb74d1e",
+   "kaynak": "TRT Haber",
+   "baslik": "TürkiyeLibya Deniz Yetki Anlaşması'nda resmi prosedürler tamamlandı",
+   "ozet": "Libya Temsilciler Meclisinin onayladığı Türkiye ile Libya arasındaki deniz yetki alanlarının sınırlandırılmasına ilişkin anlaşma, harita ve coğrafi koordinatlarıyla birlikte Libya Resmi Gazetesi'nde yayımlandı.",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-libya-deniz-yetki-anlasmasinda-resmi-prosedurler-tamamlandi-964455.html",
+   "zaman": "2026-11-25T17:13:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "deniz",
+    "nda",
+    "prose",
+    "resmi",
+    "tamam",
+    "turki",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2a5b15c2449c"
+  },
+  "425dc9a048d6": {
+   "id": "425dc9a048d6",
+   "kaynak": "AA",
+   "baslik": "Gazze'deki Eğitim Bakanlığı: İsrail, kasım ayı başından bu yana 16 çocuk ve öğrenciyi öldürdü",
+   "ozet": "İsrail ordusunun Gazze kentinin batısındaki bir eve düzenlediği saldırıda 2 kız kardeşin hayatını kaybetmesiyle, kasım ayı başından bu yana öldürülen çocuk ve öğrenci sayısının 16'ya yükseldiği bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-egitim-bakanligi-israil-kasim-ayi-basindan-bu-yana-16-cocuk-ve-ogrenciyi-oldurdu/4137638",
+   "zaman": "2026-11-25T17:13:25+03:00",
+   "kelimeler": [
+    "16",
+    "ayi",
+    "bakan",
+    "basin",
+    "cocuk",
+    "deki",
+    "egiti",
+    "gazze",
+    "israi",
+    "kasim",
+    "ogren",
+    "oldur",
+    "yana"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "cb223f7a0e43": {
+   "id": "cb223f7a0e43",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya'nın doğusundaki güçlerin lideri Halife Hafter ile Ankara'da bir araya geldi.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti-1752566",
+   "zaman": "2026-11-25T17:18:35+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "etti",
+    "genel",
+    "hafte",
+    "kabul",
+    "komut",
+    "libya",
+    "ordus",
+    "ulusa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "98246da18ee7"
+  },
+  "8a33ca173c4b": {
+   "id": "8a33ca173c4b",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın fiyatlarında son durum",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 10 bin liraya geriledi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-964456.html",
+   "zaman": "2026-11-25T17:21:00+03:00",
+   "kelimeler": [
+    "altin",
+    "durum",
+    "fiyat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a110d4e690a5"
+  },
+  "01040346fee0": {
+   "id": "01040346fee0",
+   "kaynak": "AA",
+   "baslik": "MHP'de izleme komisyonu üyeleri belli oldu",
+   "ozet": "MHP, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında TBMM'de kurulacak \"izleme komisyonu\"na, Genel Başkan Yardımcısı Feti Yıldız ile Sakarya Milletvekili Muhammed Levent Bülbül'ü görevlendirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/mhpde-izleme-komisyonu-uyeleri-belli-oldu/4137653",
+   "zaman": "2026-11-25T17:21:50+03:00",
+   "kelimeler": [
+    "belli",
+    "izlem",
+    "komis",
+    "mhp",
+    "uyele"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1c5967081c41"
   }
  },
  "kayit": [
+  "25.11 17:31:48  2 yeni haber",
   "25.11 17:16:03  5 yeni haber",
   "25.11 17:01:42  4 yeni haber",
   "25.11 16:45:59  2 yeni haber",
@@ -29867,8 +29986,7 @@
   "23.11 12:46:04  6 yeni haber",
   "23.11 12:31:16  8 yeni haber",
   "23.11 12:18:15  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · COP31’in ardından: Antalya'da alınan kararlar ve Addis Ababa'ya kalan ",
-  "23.11 12:16:09  9 yeni haber",
-  "23.11 12:01:24  9 yeni haber"
+  "23.11 12:16:09  9 yeni haber"
  ],
  "otomatik": false
 }
