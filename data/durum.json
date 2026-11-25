@@ -1,74 +1,5 @@
 {
  "haberler": {
-  "a45a3279b24e": {
-   "id": "a45a3279b24e",
-   "kaynak": "XHABER",
-   "baslik": "Doğanay Vural, vurulan Boz Ayı için açıklama yaptı.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30839",
-   "zaman": "2026-11-22T18:16:44+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Doğanay Vural, vurulan Boz Ayı için açıklama yaptı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/UWe8TAJ6AXw2_m6TAEbvgPWeL5YKs5vjQCim1tt785L-Lo99dpEW3nCq3wtSftrYawDvJ4ELGXLvAzbzxM6Tu4mYPeE3Npv1_YsOvF7PsR5fFa9vkkr_eDgMS0cxmPXd3OOOEjT_yIphnKAYeAR4UAsVcFgsmyMyIZYcFcrWPSA5EKcJ9ytIX4pIiqqz5dfbCnTGiVBwvlRI_nSgwSbxyiDkVhl2kR6FIvozzOt8Kua9_r77GiVGgDVUf9ErgRJwHYgKTJ9Jhd6G-_i5qO1PSGHIwUxOnirMEJ-z3UoICFPDYoUabByTtOhWjwADfXB6bXBVveZIASt4v-A1wC-gLA",
-   "tg_video_url": "",
-   "kelimeler": [
-    "acikl",
-    "ayi",
-    "boz",
-    "dogan",
-    "vural",
-    "vurul",
-    "yapti"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "857ed2ca95b6": {
-   "id": "857ed2ca95b6",
-   "kaynak": "AA",
-   "baslik": "Adalet Bakanı Gürlek: Fon soruşturmalarında 85 kişiden toplam 44,58 milyar lira tahsil edildi",
-   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında şimdiye kadar 632 şüphelinin bulunduğunu, gönüllü iade ve geri kazanım kapsamında 85 kişiden toplam 44,58 milyar lira tahsil edildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-fon-sorusturmalarinda-85-kisiden-toplam-44-58-milyar-lira-tahsil-edildi/4133673",
-   "zaman": "2026-11-22T18:22:37+03:00",
-   "kelimeler": [
-    "44",
-    "58",
-    "85",
-    "adale",
-    "bakan",
-    "edild",
-    "fon",
-    "gurle",
-    "kisid",
-    "lira",
-    "milya",
-    "sorus",
-    "tahsi",
-    "topla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5d3bbd2430e0"
-  },
-  "edd919b413d1": {
-   "id": "edd919b413d1",
-   "kaynak": "Hürriyet",
-   "baslik": "İki bozayının vurulmasıyla ilgili soruşturma başlatıldı",
-   "ozet": "TARIM Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesinde bulunan Soğuksu Milli Parkı'nda iki bozayının vurulmasına ilişkin idari soruşturma başlatıldığını duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/iki-bozayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-43387233",
-   "zaman": "2026-11-22T18:24:15+03:00",
-   "kelimeler": [
-    "basla",
-    "bozay",
-    "iki",
-    "ilgil",
-    "sorus",
-    "vurul"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "508641a28679"
-  },
   "864b70ab730e": {
    "id": "864b70ab730e",
    "kaynak": "Hürriyet",
@@ -18879,7 +18810,8 @@
     "tamam"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ca3e9b368294": {
    "id": "ca3e9b368294",
@@ -29905,9 +29837,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3645484523d8": {
+   "id": "3645484523d8",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Fenerbahçe, Londra'da Shakhtar Donetsk deplasmanına çıkıyor",
+   "ozet": "Fenerbahçe, Şampiyonlar Ligi'ndeki beşinci hafta maçında bu akşam Ukrayna'nın Shaktar Donetsk takımıyla karşılaşacak",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do",
+   "zaman": "2026-11-25T15:51:48+03:00",
+   "kelimeler": [
+    "cikiy",
+    "depla",
+    "donet",
+    "fener",
+    "londr",
+    "shakh"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "a2efc0523868": {
+   "id": "a2efc0523868",
+   "kaynak": "AA",
+   "baslik": "Fransa'da namazla alay eden ve Nazi selamı yapan memur görevinden geçici olarak uzaklaştırıldı",
+   "ozet": "",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memur-gorevinden-gecici-olarak-uzaklastirildi/4137728",
+   "zaman": "2026-11-25T18:22:47+03:00",
+   "kelimeler": [
+    "alay",
+    "eden",
+    "frans",
+    "gecic",
+    "gorev",
+    "memur",
+    "namaz",
+    "nazi",
+    "selam",
+    "uzakl",
+    "yapan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72dda4c42ba3": {
+   "id": "72dda4c42ba3",
+   "kaynak": "AA",
+   "baslik": "Borsa günü düşüşle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,83 değer kaybederek 10.655,74 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4137729",
+   "zaman": "2026-11-25T18:23:22+03:00",
+   "kelimeler": [
+    "borsa",
+    "dusus",
+    "gunu",
+    "tamam"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "831a1da464d0"
   }
  },
  "kayit": [
+  "25.11 18:31:18  2 yeni haber",
   "25.11 18:15:59  2 yeni haber",
   "25.11 18:01:33  4 yeni haber",
   "25.11 17:45:57  8 yeni haber",
@@ -30106,8 +30097,7 @@
   "23.11 13:49:19  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): AA · Shakhtar Donetsk-Fenerbahçe maçını İngiliz hakem Michael Oliver yönete",
   "23.11 13:45:59  6 yeni haber",
   "23.11 13:31:19  6 yeni haber",
-  "23.11 13:15:56  11 yeni haber",
-  "23.11 12:46:04  6 yeni haber"
+  "23.11 13:15:56  11 yeni haber"
  ],
  "otomatik": false
 }
