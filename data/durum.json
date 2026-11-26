@@ -1,87 +1,5 @@
 {
  "haberler": {
-  "fb3552511982": {
-   "id": "fb3552511982",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan konuşuyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine toplantısının ardından gündeme ilişkin açıklamalarda bulunuyor.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-964225.html",
-   "zaman": "2026-11-23T18:17:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "konus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "610c7dbbf16f"
-  },
-  "e8710153fa5d": {
-   "id": "e8710153fa5d",
-   "kaynak": "NTV",
-   "baslik": "Kabine toplantısı sona erdi. Cumhurbaşkanı Erdoğan açıklama yapıyor",
-   "ozet": "Cumhurbaşkanı Erdoğan, kabine toplantısı sonrası açıklama yapıyor.",
-   "link": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
-   "zaman": "2026-11-23T18:23:48+03:00",
-   "kelimeler": [
-    "acikl",
-    "cumhu",
-    "erdi",
-    "erdog",
-    "kabin",
-    "sona",
-    "topla",
-    "yapiy"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "960f8bef2319"
-  },
-  "f9022c919b94": {
-   "id": "f9022c919b94",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan: İnsansız savaş uçağını envanterine katan ilk ülke olduk",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Savunma sanayii alanında tarihi bir gün yaşadık. Bayraktar KIZILELMA'yı Türk Silahlı Kuvvetlerine vererek dünyada insansız hava uçaklarını envanterine katan ilk ülke olmayı başardık.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-insansiz-savas-ucagini-envanterine-katan-ilk-ulke-olduk-964225.html",
-   "zaman": "2026-11-23T18:17:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "envan",
-    "erdog",
-    "ilk",
-    "insan",
-    "katan",
-    "olduk",
-    "savas",
-    "ucagi",
-    "ulke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7b617cf79949": {
-   "id": "7b617cf79949",
-   "kaynak": "Hürriyet",
-   "baslik": "Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Atılan adımları yakından takip ediyoruz",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan Kabine Toplantısı sonrası açıklamalarda bulundu. Cumhurbaşkanı Erdoğan fon soruşturmasıyla ilgili olarak, \"Ekonomi kurmaylarımız, Adalet Bakanlığımız ve ilgili kurullarımız yoğun bir tempoda çalışmalarını sürdürüyorlar.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-43388403",
-   "zaman": "2026-11-23T18:18:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "adiml",
-    "atila",
-    "cumhu",
-    "dan",
-    "ediyo",
-    "erdog",
-    "fon",
-    "sorus",
-    "takip",
-    "yakin"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "86634095e53f": {
    "id": "86634095e53f",
    "kaynak": "AA",
@@ -21791,7 +21709,10 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "51048b7a8c5e": {
    "id": "51048b7a8c5e",
@@ -30580,7 +30501,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "9b9b78991590": {
@@ -31218,9 +31140,166 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "2436c54d0309": {
+   "id": "2436c54d0309",
+   "kaynak": "TRT Haber",
+   "baslik": "HAVELSANdan küresel havacılık sektöründe önemli başarı",
+   "ozet": "Havacılık, uzay ve savunma sanayii alanında küresel standartları hedefleyen HAVELSAN, uluslararası düzeyde kabul gören AS 9100 Rev.D Kalite Yönetim Sistemi belgesini almaya hak kazandı. Şirket, bu başarısının ardından Uluslararası Havacılık Kalite Grubuna IAQG kabul edildi.",
+   "link": "https://www.trthaber.com/haber/savunma/havelsandan-kuresel-havacilik-sektorunde-onemli-basari-964569.html",
+   "zaman": "2026-11-26T18:04:00+03:00",
+   "kelimeler": [
+    "basar",
+    "havac",
+    "havel",
+    "kures",
+    "oneml",
+    "sekto"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "851f7ec92342": {
+   "id": "851f7ec92342",
+   "kaynak": "TRT Haber",
+   "baslik": "Soykırımcı İsrail ordusu, Hamas'ın kullandığını iddia ederek Gazze'deki Baptist Hastanesi'ni hedef gösterdi",
+   "ozet": "Soykırımcı İsrail ordusu, daha önce hedef aldığı Gazze kentindeki ElEhli Baptist Hastanesi'ni Hamas'ın kullandığını iddia ederek bir kez daha hedef gösterdi.",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-hamasin-kullandigini-iddia-ederek-gazzedeki-baptist-hastanesini-hedef-gosterdi-964570.html",
+   "zaman": "2026-11-26T18:16:00+03:00",
+   "kelimeler": [
+    "bapti",
+    "deki",
+    "edere",
+    "gazze",
+    "goste",
+    "hamas",
+    "hasta",
+    "hedef",
+    "iddia",
+    "in",
+    "israi",
+    "kulla",
+    "ni",
+    "ordus",
+    "soyki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1f0e8257d041": {
+   "id": "1f0e8257d041",
+   "kaynak": "Hürriyet",
+   "baslik": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Enerjide Türkiye Yüzyılı Zirvesi'nde duyurdu: Türkiye Afrika’da iki deniz sahasına ortak oldu",
+   "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’nin Afrika’nın batısında yer alan Gine-Bissau’da iki deniz sahasına ortak olduğunu açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/enerji-ve-tabii-kaynaklar-bakani-bayraktar-enerjide-turkiye-yuzyili-zirvesinde-duyurdu-turkiye-afrikada-iki-deniz-sahasina-ortak-oldu-43392317",
+   "zaman": "2026-11-26T18:16:00+03:00",
+   "kelimeler": [
+    "afrik",
+    "bakan",
+    "bayra",
+    "deniz",
+    "duyur",
+    "enerj",
+    "iki",
+    "kayna",
+    "nde",
+    "ortak",
+    "sahas",
+    "tabii",
+    "turki",
+    "yuzyi",
+    "zirve"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "63bff005c0c0": {
+   "id": "63bff005c0c0",
+   "kaynak": "TRT Haber",
+   "baslik": "Arap Koalisyonu: Suudi Arabistandaki Cazan Petrol Rafinerisi Husilerin saldırısına uğradı",
+   "ozet": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Suudi Arabistan'ın güneybatısında yer alan Cazan Petrol Rafinerisi'nin Yemen'deki İran destekli Husilerin saldırısına uğradığını bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistandaki-cazan-petrol-rafinerisi-husilerin-saldirisina-ugradi-964571.html",
+   "zaman": "2026-11-26T18:17:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "cazan",
+    "husil",
+    "koali",
+    "petro",
+    "rafin",
+    "saldi",
+    "suudi",
+    "ugrad"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "761a62ed06a6"
+  },
+  "dcb4ade6dd14": {
+   "id": "dcb4ade6dd14",
+   "kaynak": "Hürriyet",
+   "baslik": "Türkiye ile Suudi Arabistan arasında savunma sanayinde iş birliği mutabakatı imzalandı",
+   "ozet": "SAVUNMA Sanayii Başkanlığı (SSB) ile Suudi Arabistan Krallığı Savunma Geliştirme Genel Otoritesi (GADD) arasında savunma Ar-Ge ve inovasyon iş birliği mutabakat zaptı imzalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/turkiye-ile-suudi-arabistan-arasinda-is-birligi-mutabakati-imzalandi-43392322",
+   "zaman": "2026-11-26T18:20:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "arasi",
+    "birli",
+    "imzal",
+    "is",
+    "mutab",
+    "sanay",
+    "savun",
+    "suudi",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "75a5169421b1"
+  },
+  "2d273c376425": {
+   "id": "2d273c376425",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump, revize edilen büyüme verisi için soruşturma talep etti",
+   "ozet": "ABD Başkanı Donald Trump, dün yukarı yönlü revize edilen üçüncü çeyrek büyüme verisinin ardından, seçimden önce yayımlanan ekonomik verilerin \"sahte\" olduğunu öne sürerek, bu durumun soruşturulmasını istedi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-revize-edilen-buyume-verisi-icin-sorusturma-talep-etti-/4139306",
+   "zaman": "2026-11-26T18:23:09+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "buyum",
+    "edile",
+    "etti",
+    "reviz",
+    "sorus",
+    "talep",
+    "trump",
+    "veris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a8677afc9e39": {
+   "id": "a8677afc9e39",
+   "kaynak": "AA",
+   "baslik": "Borsa günü yükselişle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4139309",
+   "zaman": "2026-11-26T18:26:35+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "26.11 18:31:17  5 yeni haber",
   "26.11 18:15:57  4 yeni haber",
   "26.11 18:01:36  3 yeni haber",
   "26.11 17:46:05  3 yeni haber",
@@ -31419,8 +31498,7 @@
   "24.11 15:31:19  9 yeni haber",
   "24.11 15:16:07  2 yeni haber",
   "24.11 15:01:46  6 yeni haber",
-  "24.11 14:46:05  8 yeni haber",
-  "24.11 14:34:02  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İzmir'de embriyo transferiyle damızlık yetiştiriciliği yatırımı"
+  "24.11 14:46:05  8 yeni haber"
  ],
  "otomatik": false
 }
