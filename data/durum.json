@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "a58b582b9e86": {
-   "id": "a58b582b9e86",
-   "kaynak": "Hürriyet",
-   "baslik": "Cinayetlerin dijital şifresi: ‘Biyolojik kara kutu gibi çalışıyor’ | Ankara, Erzurum ve Muğla’daki olaylarda dikkat çeken detay",
-   "ozet": "Cinayet soruşturmalarında yıllarca çözülemeyen sırlar, bazen gözden kaçan tek bir ayrıntıyla aydınlanabiliyor. Türkiye’de son dönemde gündeme gelen çarpıcı cinayet dosyaları da dijital delillerin soruşturmalardaki belirleyici rolünü gözler önüne serdi.",
-   "link": "https://www.hurriyet.com.tr/gundem/cinayetlerin-dijital-sifresi-biyolojik-kara-kutu-gibi-calisiyor-ankara-erzurum-ve-mugladaki-olaylarda-dikkat-ceken-detay-43386723",
-   "zaman": "2026-11-23T06:22:09+03:00",
-   "kelimeler": [
-    "ankar",
-    "biyol",
-    "calis",
-    "ceken",
-    "cinay",
-    "daki",
-    "detay",
-    "dijit",
-    "dikka",
-    "erzur",
-    "kara",
-    "kutu",
-    "mugla",
-    "olayl",
-    "sifre"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "31eec7ddf67c": {
    "id": "31eec7ddf67c",
    "kaynak": "TRT Haber",
@@ -598,26 +571,6 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Hürriyet"
-   ]
-  },
-  "960f8bef2319": {
-   "id": "960f8bef2319",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanlığı Kabinesi yoğun gündemle toplanacak",
-   "ozet": "Cumhurbaşkanlığı Kabinesi, 2 haftalık aranın ardından Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Cumhurbaşkanlığı Külliyesi'nde toplanacak.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kabinesi-yogun-gundemle-toplanacak-964164.html",
-   "zaman": "2026-11-23T06:27:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "gunde",
-    "kabin",
-    "topla",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV"
    ]
   },
   "f583445ee0c1": {
@@ -30209,7 +30162,10 @@
     "yaral"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "afb9ece64b72": {
    "id": "afb9ece64b72",
@@ -30535,7 +30491,10 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c3bb8fcd233d": {
    "id": "c3bb8fcd233d",
@@ -30789,9 +30748,90 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "a0cae90969d3": {
+   "id": "a0cae90969d3",
+   "kaynak": "TRT Haber",
+   "baslik": "Fransa'da lise eylemlerinde yaklaşık 500 öğrenci yaralandı",
+   "ozet": "Fransa Eğitim Bakanı Edouard Geffray, ülkede 2 ayı aşkın süredir devam eden lise eylemlerinde yaklaşık 500 öğrencinin yaralandığını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/fransada-lise-eylemlerinde-yaklasik-500-ogrenci-yaralandi-964487.html",
+   "zaman": "2026-11-26T06:06:00+03:00",
+   "kelimeler": [
+    "500",
+    "eylem",
+    "frans",
+    "lise",
+    "ogren",
+    "yakla",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e6371bf4e95d"
+  },
+  "ddedbd6b20a0": {
+   "id": "ddedbd6b20a0",
+   "kaynak": "TRT Haber",
+   "baslik": "Kayseri'de zehir taciri 19 kişi tutuklandı",
+   "ozet": "Kayseri'de düzenlenen uyuşturucu operasyonunda gözaltına alınan 20 zanlıdan 19'u tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kayseride-zehir-taciri-19-kisi-tutuklandi-964488.html",
+   "zaman": "2026-11-26T06:14:00+03:00",
+   "kelimeler": [
+    "19",
+    "kayse",
+    "kisi",
+    "tacir",
+    "tutuk",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "0af2f70e1ae4": {
+   "id": "0af2f70e1ae4",
+   "kaynak": "Sözcü",
+   "baslik": "Yılmaz, Şimşek ve Gürlek'den fon soruşturması toplantısı: Yer ve saati belli oldu",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/yilmaz-simsek-ve-gurlekden-fon-sorusturmasi-toplantisi-saat-ve-yer-belli-oldu-p384459",
+   "zaman": "2026-11-26T06:19:34+03:00",
+   "kelimeler": [
+    "belli",
+    "den",
+    "fon",
+    "gurle",
+    "saati",
+    "simse",
+    "sorus",
+    "topla",
+    "yer",
+    "yilma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0b4f26a2f3f2": {
+   "id": "0b4f26a2f3f2",
+   "kaynak": "TRT Haber",
+   "baslik": "Mısır'da tanker yangınında can kaybı 31'e yükseldi",
+   "ozet": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol yüklü tankerde çıkan yangında yaşamını yitirenlerin sayısı 31'e, yaralananların sayısı ise 21'e çıktı.",
+   "link": "https://www.trthaber.com/haber/dunya/misirda-tanker-yangininda-can-kaybi-31e-yukseldi-964489.html",
+   "zaman": "2026-11-26T06:21:00+03:00",
+   "kelimeler": [
+    "31",
+    "can",
+    "kaybi",
+    "misir",
+    "tanke",
+    "yangi",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0a64f3f26d03"
   }
  },
  "kayit": [
+  "26.11 06:31:23  2 yeni haber",
   "26.11 06:02:09  2 yeni haber",
   "26.11 04:31:11  1 yeni haber",
   "26.11 03:46:05  3 yeni haber",
@@ -30990,8 +31030,7 @@
   "23.11 22:45:55  1 yeni haber",
   "23.11 22:31:18  2 yeni haber",
   "23.11 22:23:23  1 yeni haber",
-  "23.11 22:01:27  5 yeni haber",
-  "23.11 21:45:59  4 yeni haber"
+  "23.11 22:01:27  5 yeni haber"
  ],
  "otomatik": false
 }
