@@ -1,61 +1,5 @@
 {
  "haberler": {
-  "e36a340de5d5": {
-   "id": "e36a340de5d5",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'a soğuk hava geliyor: Sıcaklık 8 derece düşüyor",
-   "ozet": "İstanbul Valiliği, kentte hava sıcaklıklarının yarından itibaren hissedilir derecede azalarak mevsim normallerinin 6 ila 8 derece altında seyretmesinin beklendiğini duyurdu.",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbula-soguk-hava-geliyor-sicaklik-8-derece-dusuyor-964227.html",
-   "zaman": "2026-11-23T19:39:00+03:00",
-   "kelimeler": [
-    "derec",
-    "dusuy",
-    "geliy",
-    "hava",
-    "istan",
-    "sicak",
-    "soguk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a8b70a7bdc3b": {
-   "id": "a8b70a7bdc3b",
-   "kaynak": "TRT Haber",
-   "baslik": "Freni boşalan kamyonun 5 araca çarpma anı kamerada",
-   "ozet": "Kocaelinin İzmit ilçesinde freni boşaldığı değerlendirilen kamyonun park halindeki panelvan, otomobil ve servis aracına çarpmasıyla başlayan kazanın farklı görüntüleri ortaya çıktı. Kazada 2 yaya yaralanırken, yaşananlar güvenlik kamerasına da yansıdı.",
-   "link": "https://www.trthaber.com/haber/turkiye/freni-bosalan-kamyonun-5-araca-carpma-ani-kamerada-964226.html",
-   "zaman": "2026-11-23T19:44:00+03:00",
-   "kelimeler": [
-    "ani",
-    "araca",
-    "bosal",
-    "carpm",
-    "freni",
-    "kamer",
-    "kamyo"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "dc401f32131c": {
-   "id": "dc401f32131c",
-   "kaynak": "Hürriyet",
-   "baslik": "Hayvan pazarında silahlı kavga: 1 ölü, 1 yaralı",
-   "ozet": "ÇORUM'da hayvan pazarında iki grup arasında çıkan silahlı kavgada 1 kişi öldü, 1 kişi yaralandı.",
-   "link": "https://www.hurriyet.com.tr/gundem/hayvan-pazarinda-silahli-kavga-1-olu-1-yarali-43388458",
-   "zaman": "2026-11-23T19:44:14+03:00",
-   "kelimeler": [
-    "hayva",
-    "kavga",
-    "olu",
-    "pazar",
-    "silah",
-    "yaral"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "8ee95afd9367": {
    "id": "8ee95afd9367",
    "kaynak": "AA",
@@ -31798,10 +31742,74 @@
     "yasha"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "0e6239232f4f": {
+   "id": "0e6239232f4f",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Şimşek konuşuyor",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, olağan ve olağanüstü fonlardaki tasfiye süreciyle ilgili olarak basın bilgilendirme toplantısında konuşuyor.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-simsek-konusuyor-964577.html",
+   "zaman": "2026-11-26T19:34:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "konus",
+    "simse"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "1b34e9c54390": {
+   "id": "1b34e9c54390",
+   "kaynak": "AA",
+   "baslik": "Paris'te binlerce kişi, eğitime daha fazla bütçe ayrılması talebiyle gösteri düzenledi",
+   "ozet": "Fransa'nın başkenti Paris'te binlerce kişi, hükümetin eğitime daha fazla bütçe ayırması talebiyle gösteri yaptı.",
+   "link": "https://www.aa.com.tr/tr/dunya/pariste-binlerce-kisi-egitime-daha-fazla-butce-ayrilmasi-talebiyle-gosteri-duzenledi/4139415",
+   "zaman": "2026-11-26T19:34:12+03:00",
+   "kelimeler": [
+    "ayril",
+    "binle",
+    "butce",
+    "duzen",
+    "egiti",
+    "fazla",
+    "goste",
+    "kisi",
+    "paris",
+    "taleb",
+    "te"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3f639fdf8c3f": {
+   "id": "3f639fdf8c3f",
+   "kaynak": "TRT Haber",
+   "baslik": "İsrail'de muhalefetteki Yashar ve Demokratlar partileri koalisyon anlaşması konusunda uzlaştıklarını açıkladı",
+   "ozet": "İsrail'de hükümet kurmakla yetkilendirilen Gadi Eisenkot'un Yashar Partisi ile Yair Golan liderliğindeki Demokratlar Partisi, koalisyon anlaşması imzalama konusunda uzlaştıklarını duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/israilde-muhalefetteki-yashar-ve-demokratlar-partileri-koalisyon-anlasmasi-konusunda-uzlastiklarini-acikladi-964578.html",
+   "zaman": "2026-11-26T19:38:00+03:00",
+   "kelimeler": [
+    "anlas",
+    "demok",
+    "israi",
+    "koali",
+    "konus",
+    "muhal",
+    "parti",
+    "uzlas",
+    "yasha"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3e3561d56395"
   }
  },
  "kayit": [
+  "26.11 19:45:53  2 yeni haber",
   "26.11 19:36:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Borsa günü yükselişle tamamladı",
   "26.11 19:34:51  6 yeni haber",
   "26.11 19:16:08  5 yeni haber",
@@ -32000,8 +32008,7 @@
   "24.11 16:46:17  2 yeni haber",
   "24.11 16:31:43  4 yeni haber",
   "24.11 16:15:53  6 yeni haber",
-  "24.11 16:04:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kemal Kılıçdaroğlu:",
-  "24.11 16:01:32  5 yeni haber"
+  "24.11 16:04:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kemal Kılıçdaroğlu:"
  ],
  "otomatik": false
 }
