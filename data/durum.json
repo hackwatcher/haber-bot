@@ -32355,7 +32355,10 @@
     "trabz"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "c514d01707af": {
    "id": "c514d01707af",
@@ -32373,9 +32376,76 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "40427326d14d": {
+   "id": "40427326d14d",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, UEFA Konferans Ligi'nde CSKA Sofya'yı yendi",
+   "ozet": "UEFA Konferans Ligi dördüncü haftasında Trabzonspor, Bulgaristan'ın CSKA Sofya takımını deplasmanda 2-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-uefa-konferans-liginde-cska-sofyayi-yendi/4139806",
+   "zaman": "2026-11-26T23:59:12+03:00",
+   "kelimeler": [
+    "cska",
+    "konfe",
+    "ligi",
+    "nde",
+    "sofya",
+    "trabz",
+    "uefa",
+    "yendi",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "e1a56cd0e1b0"
+  },
+  "6a6fe96ad286": {
+   "id": "6a6fe96ad286",
+   "kaynak": "TRT Haber",
+   "baslik": "Trabzonspor Bulgaristan'dan galibiyetle dönüyor",
+   "ozet": "Trabzonspor, UEFA Konferans Ligi'nde CSKA Sofya'yı 21 yendi.",
+   "link": "https://www.trthaber.com/haber/gundem/trabzonspor-bulgaristandan-galibiyetle-donuyor-964600.html",
+   "zaman": "2026-11-27T00:57:00+03:00",
+   "kelimeler": [
+    "bulga",
+    "dan",
+    "donuy",
+    "galib",
+    "trabz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "43ff81de2c11": {
+   "id": "43ff81de2c11",
+   "kaynak": "XHABER",
+   "baslik": "Fenerbahçe formalı bir taraftar Beşiktaş tribünlerine saldıran Gürcü polislere koltuk fırlattı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30970",
+   "zaman": "2026-11-27T01:01:07+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Fenerbahçe formalı bir taraftar Beşiktaş tribünlerine saldıran Gürcü polislere koltuk fırlattı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/TxDHXlDymfZ-bQnYyG0s9LGBdnkRE_bbFwVEZf-e07xfrnlauAYxtoOe07felpqXlnoV8Q1KiKcOIwIeg0uNa3qLVZyJRweuYF9ZOfhXqpEygg4k77sT1-cemBw6H_ezVBT4gG6WxPnERgXGiCVCy1MviT0Bf3ol2hxXBdXDZ9Bdn6JPJhHe0MDL4zt9nWghERPJK8UjPZ4di-lN859dAfydVaa1MPVzJS4Fz-UE2WNbFdT84gL8B64NdSuaixzxfy_LHCfQgP1yrCk_D2G9fr8e-tQHzddrmVEaNu2Opgc99jcm9pfKy9Tn-Jprh0IsAi_o-EWr0AuThv5fx9YKDQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "besik",
+    "fener",
+    "firla",
+    "forma",
+    "gurcu",
+    "koltu",
+    "polis",
+    "saldi",
+    "taraf",
+    "tribu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6c57068be5cd"
   }
  },
  "kayit": [
+  "27.11 01:15:57  1 yeni haber",
   "27.11 01:03:25  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Orkun Kökçü: Filistin halkını destekliyoruz, yanlarındayız az da olsa ",
   "27.11 01:01:17  4 yeni haber",
   "27.11 00:46:01  2 yeni haber",
@@ -32574,8 +32644,7 @@
   "24.11 22:01:15  2 yeni haber",
   "24.11 21:46:15  5 yeni haber",
   "24.11 21:31:08  2 yeni haber",
-  "24.11 21:01:48  3 yeni haber",
-  "24.11 20:46:37  2 yeni haber"
+  "24.11 21:01:48  3 yeni haber"
  ],
  "otomatik": false
 }
