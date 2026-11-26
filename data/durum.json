@@ -32475,7 +32475,8 @@
    "diger_kaynaklar": [
     "TRT Haber",
     "NTV",
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ]
   },
   "e2ae0a61683c": {
@@ -32534,6 +32535,28 @@
    ],
    "durum": "tekrar",
    "oncelikli": true,
+   "tekrar_of": "cd439c4e20b3"
+  },
+  "f3d84705615d": {
+   "id": "f3d84705615d",
+   "kaynak": "AA",
+   "baslik": "Bankacılık Düzenleme ve Denetleme Kurumunun Başkanlığına Yusuf Kenan Bağır atandı",
+   "ozet": "Bankacılık Düzenleme ve Denetleme Kurumunun (BDDK) Başkanlığına Yusuf Kenan Bağır getirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bankacilik-duzenleme-ve-denetleme-kurumunun-baskanligina-yusuf-kenan-bagir-atandi/4139858",
+   "zaman": "2026-11-27T02:34:47+03:00",
+   "kelimeler": [
+    "atand",
+    "bagir",
+    "banka",
+    "baska",
+    "denet",
+    "duzen",
+    "kenan",
+    "kurum",
+    "yusuf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
    "tekrar_of": "cd439c4e20b3"
   }
  },
