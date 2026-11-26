@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "9ea7c632f67b": {
-   "id": "9ea7c632f67b",
-   "kaynak": "Hürriyet",
-   "baslik": "Ege Denizi'nde 4.2 büyüklüğünde deprem",
-   "ozet": "Ege Denizi'nde Bodrum’da 66 kilometre mesafede Richter ölçeğine göre 4,2 büyüklüğünde deprem meydana geldi. Depremde herhangi bir olumsuzluk yaşanmadı.",
-   "link": "https://www.hurriyet.com.tr/gundem/ege-denizinde-4-2-buyuklugunde-deprem-43387485",
-   "zaman": "2026-11-23T04:27:00+03:00",
-   "kelimeler": [
-    "buyuk",
-    "deniz",
-    "depre",
-    "ege",
-    "nde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "7890136a38fd"
-  },
   "45c717598905": {
    "id": "45c717598905",
    "kaynak": "XHABER",
@@ -30793,9 +30775,32 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "e02d0ec230b4": {
+   "id": "e02d0ec230b4",
+   "kaynak": "NTV",
+   "baslik": "\"Hayalet Arıza\" oyunu. Şikayetler arttı, her yıl yüzbinlerce kişi kandırılıyor",
+   "ozet": "İstanbul’daki bir lastik servisinde yaşanan aldatmaca olayı Türkiye'deki \"hayalet arıza\" vurgununu gözler önüne serdi. Her yıl yüzbinlerce müşteri bu kandırmaca ile mağdur oluyor. Haber: Osman Terkan",
+   "link": "https://www.ntv.com.tr/turkiye/hayalet-ariza-oyunu-her-yil-yuzbinlerce-kisi-kandiriliyor-nelere-dikkat-edilmeli-1752602",
+   "zaman": "2026-11-26T04:30:41+03:00",
+   "kelimeler": [
+    "ariza",
+    "artti",
+    "hayal",
+    "her",
+    "kandi",
+    "kisi",
+    "oyunu",
+    "sikay",
+    "yil",
+    "yuzbi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 04:31:11  1 yeni haber",
   "26.11 03:46:05  3 yeni haber",
   "26.11 03:16:04  2 yeni haber",
   "26.11 02:31:48  1 yeni haber",
@@ -30994,8 +30999,7 @@
   "23.11 22:23:23  1 yeni haber",
   "23.11 22:01:27  5 yeni haber",
   "23.11 21:45:59  4 yeni haber",
-  "23.11 21:31:33  2 yeni haber",
-  "23.11 21:16:01  2 yeni haber"
+  "23.11 21:31:33  2 yeni haber"
  ],
  "otomatik": false
 }
