@@ -1,49 +1,5 @@
 {
  "haberler": {
-  "c3312359383b": {
-   "id": "c3312359383b",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Oxfam: İsrail saldırıları Gazze'yi 'zehirli bir çorak araziye' dönüştürdü",
-   "ozet": "Oxfam yardım kuruluşunun yeni bir raporuna göre, İsrail saldırıları nedeniyle Gazze, yüzde 99'undan fazlasında çevre kirliliği görülen bir \"zehirli çorak araziye\" dönüştü.",
-   "link": "https://www.bbc.com/turkce/articles/c6174rxvk8pgo",
-   "zaman": "2026-11-23T22:34:32+03:00",
-   "kelimeler": [
-    "arazi",
-    "corak",
-    "donus",
-    "gazze",
-    "israi",
-    "oxfam",
-    "saldi",
-    "yi",
-    "zehir"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "c830c707b795": {
-   "id": "c830c707b795",
-   "kaynak": "TRT Haber",
-   "baslik": "Trump: Huang'ı CEO'luk görevine döndürmek için Nvidia'yı ikna ettim",
-   "ozet": "ABD Başkanı Donald Trump, Nvidia Yönetim Kurulu ile görüştüğünü ve Jensen Huang'ı yeniden üst yöneticilik CEO görevine getirmelerine ikna ettiğini söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-ettim-964235.html",
-   "zaman": "2026-11-23T22:43:00+03:00",
-   "kelimeler": [
-    "ceo",
-    "dondu",
-    "ettim",
-    "gorev",
-    "huang",
-    "ikna",
-    "luk",
-    "nvidi",
-    "trump",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "234677a57501"
-  },
   "ac98dca21faa": {
    "id": "ac98dca21faa",
    "kaynak": "AA",
@@ -32154,9 +32110,52 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "db64209ed717": {
+   "id": "db64209ed717",
+   "kaynak": "TRT Haber",
+   "baslik": "Hamas: İsrail, ateşkese rağmen Gazze'de yaklaşık 1700 Filistinliyi öldürdü",
+   "ozet": "Hamas, İsrail'in Gazze Şeridi'nde ateşkese rağmen sürdürdüğü saldırılarda yaklaşık 1700 Filistinliyi öldürdüğünü ve halkı güneye sürmeyi hedeflediğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/hamas-israil-ateskese-ragmen-gazzede-yaklasik-1700-filistinliyi-oldurdu-964590.html",
+   "zaman": "2026-11-26T22:35:00+03:00",
+   "kelimeler": [
+    "1700",
+    "atesk",
+    "filis",
+    "gazze",
+    "hamas",
+    "israi",
+    "oldur",
+    "ragme",
+    "yakla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "840987ff16f7": {
+   "id": "840987ff16f7",
+   "kaynak": "AA",
+   "baslik": "Kosova'da T3 Vakfı desteğiyle İHA inovasyon merkezi açılması planlanıyor",
+   "ozet": "Kosova Başbakanı Kurti, T3 Vakfı ile Podujeva Belediyesi arasında imzalanan anlaşma kapsamında, kentte insansız hava araçlarına (İHA) odaklanan bilim ve teknoloji inovasyon merkezinin gelecek yıl faaliyete geçirilmesinin planlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kosovada-t3-vakfi-destegiyle-iha-inovasyon-merkezi-acilmasi-planlaniyor/4139633",
+   "zaman": "2026-11-26T22:37:36+03:00",
+   "kelimeler": [
+    "acilm",
+    "deste",
+    "iha",
+    "inova",
+    "kosov",
+    "merke",
+    "planl",
+    "t3",
+    "vakfi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 22:46:03  2 yeni haber",
   "26.11 22:31:12  3 yeni haber",
   "26.11 22:15:59  1 yeni haber",
   "26.11 22:01:18  2 yeni haber",
@@ -32355,8 +32354,7 @@
   "24.11 19:01:22  1 yeni haber",
   "24.11 18:46:09  4 yeni haber",
   "24.11 18:31:22  3 yeni haber",
-  "24.11 18:16:04  2 yeni haber",
-  "24.11 18:01:22  4 yeni haber"
+  "24.11 18:16:04  2 yeni haber"
  ],
  "otomatik": false
 }
