@@ -1,22 +1,5 @@
 {
  "haberler": {
-  "0afa1b6299a3": {
-   "id": "0afa1b6299a3",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Yeniden değerleme oranı belirlendi",
-   "ozet": "Vergi, harç ve çeşitli kamu alacaklarının hesaplanmasında kullanılan yeniden değerleme oranı 2026 yılı için yüzde 27,83 olarak belirlendi.",
-   "link": "https://www.bbc.com/turkce/articles/cvglre569j3po",
-   "zaman": "2026-11-24T01:33:42+03:00",
-   "kelimeler": [
-    "belir",
-    "deger",
-    "orani",
-    "yenid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3b0bf71e25a8"
-  },
   "21579db4e9ef": {
    "id": "21579db4e9ef",
    "kaynak": "NTV",
@@ -21539,7 +21522,10 @@
    "fb_id": null,
    "fb_reels_id": "2022505241775475",
    "slayt": 5,
-   "kanca": "LONDRA'DA 3 PUAN"
+   "kanca": "LONDRA'DA 3 PUAN",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "9944fc5b520b": {
    "id": "9944fc5b520b",
@@ -32141,7 +32127,8 @@
     "yi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4e69eb707fdf": {
    "id": "4e69eb707fdf",
@@ -32471,9 +32458,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "57c255106c45": {
+   "id": "57c255106c45",
+   "kaynak": "AA",
+   "baslik": "Trabzonspor, Bulgaristan'dan 3 puanla dönüyor",
+   "ozet": "Trabzonspor, UEFA Konferans Ligi'nde uzatma dakikalarında attığı golle CSKA Sofya'yı deplasmanda 2-1 yendi.",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-bulgaristandan-3-puanla-donuyor-/4139806",
+   "zaman": "2026-11-26T23:59:12+03:00",
+   "kelimeler": [
+    "bulga",
+    "dan",
+    "donuy",
+    "puanl",
+    "trabz"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "64e8db45a623"
+  },
+  "89e5c8f7971d": {
+   "id": "89e5c8f7971d",
+   "kaynak": "TRT Haber",
+   "baslik": "12 Dev Adam İtalya'ya mağlup oldu",
+   "ozet": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Elemeleri'nde İtalya'ya 8672 mağlup oldu.",
+   "link": "https://www.trthaber.com/haber/gundem/12-dev-adam-italyaya-maglup-oldu-964596.html",
+   "zaman": "2026-11-27T00:06:00+03:00",
+   "kelimeler": [
+    "12",
+    "adam",
+    "dev",
+    "italy",
+    "maglu",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5316796d21fc"
+  },
+  "586b2d5d1597": {
+   "id": "586b2d5d1597",
+   "kaynak": "XHABER",
+   "baslik": "Bir Beşiktaş taraftarı, Gürcistan Polisine ait yeleği çaldı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30973",
+   "zaman": "2026-11-27T01:39:28+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Bir Beşiktaş taraftarı, Gürcistan Polisine ait yeleği çaldı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/oMeIPuO6rXnS7qJ-iIwLtRRI-QWcebRthf5fLgeNREP7KejJ9A5GrupxCtw9Sfg4kOGc1u_IbtKBNSgSE_8TpuU92n-y4dCN8RXFbArc7UvvdIi36B-oH4ohHZgBhK60zqaWxJISgXF7OJChUue9dse7h6Ugv7HFN8GS4BksQ3LcpqsJce8M0W3HYonpI5HUrZyYPKt58KKerUjlI11YaPgAGdL0ZK7opms2wX_qNgY74rStEuaCfDGEzyk4ErKUKcJzdOPrDQQkHhK8C6VXWfw_k_sBz29Dp7qOFu-cAOrQrtXs4kjEvFqzxPOLFGcrzYu9YZ7dSrl9TKsBjy9osg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "ait",
+    "besik",
+    "caldi",
+    "gurci",
+    "polis",
+    "taraf",
+    "yeleg"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 01:45:54  1 yeni haber",
   "27.11 01:33:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli takıma seçilen down sendromlu Hamza Dönmez'in hedefi masa tenisi",
   "27.11 01:31:06  2 yeni haber",
   "27.11 01:15:57  1 yeni haber",
@@ -32672,8 +32720,7 @@
   "24.11 22:45:54  5 yeni haber",
   "24.11 22:31:28  6 yeni haber",
   "24.11 22:15:56  6 yeni haber",
-  "24.11 22:01:15  2 yeni haber",
-  "24.11 21:46:15  5 yeni haber"
+  "24.11 22:01:15  2 yeni haber"
  ],
  "otomatik": false
 }
