@@ -32072,7 +32072,10 @@
     "zorun"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "db64209ed717": {
    "id": "db64209ed717",
@@ -32256,10 +32259,146 @@
     "goooo"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "5da93e0de0c5": {
+   "id": "5da93e0de0c5",
+   "kaynak": "TRT Haber",
+   "baslik": "Gençlik ve Spor Bakanı Bak'tan Gürcistan'da yaşanan olaylara tepki",
+   "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel BeerSheva arasında Gürcistan'ın Batum şehrinde oynanan karşılaşmada yaşanan olaylara tepki gösterdi.",
+   "link": "https://www.trthaber.com/haber/gundem/genclik-ve-spor-bakani-baktan-gurcistanda-yasanan-olaylara-tepki-964593.html",
+   "zaman": "2026-11-26T22:50:00+03:00",
+   "kelimeler": [
+    "bak",
+    "bakan",
+    "gencl",
+    "gurci",
+    "olayl",
+    "spor",
+    "tan",
+    "tepki",
+    "yasan"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "363ac5b6cd92": {
+   "id": "363ac5b6cd92",
+   "kaynak": "NTV",
+   "baslik": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve makroihtiyati çerçeveye ilişkin yeni kararlar aldı.",
+   "link": "https://www.ntv.com.tr/turkiye/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar-1752756",
+   "zaman": "2026-11-26T23:01:26+03:00",
+   "kelimeler": [
+    "adiml",
+    "den",
+    "ilisk",
+    "karsi",
+    "likid",
+    "liras",
+    "tcmb",
+    "turk",
+    "yeni",
+    "yonet",
+    "zorun"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c94c995a05a7"
+  },
+  "056c58c0f675": {
+   "id": "056c58c0f675",
+   "kaynak": "XHABER",
+   "baslik": "Vlahovic'in iptal edilen golü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30956",
+   "zaman": "2026-11-26T23:04:10+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Vlahovic'in iptal edilen golü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/UGTHdBT8XkteCQdnnZAJNo75fBCcu9yXRqfq8t13W1cjQCemalfggfk5mRShJ6h1EL_yL1nwwJBN4opSIez-OBa265Wi8xYks2hBKU2FoV3sSMtIR0uAn1frN1JLEfUDxabFGOR7xBECTLEKmSc74z6PFW4t8VXGgUJKadRvS-MM0qo1FPBw8u9UhQebeoZk_DoBe0jIpiOGWnPbrlQm0hXeh4981mpVndXqEU1Y7cmvQMjD_hRLTW5TSHoQbiiRnjyuH1IIQovqVhgzkVjXs_YWBreIgxNKtUBpoNlKV0v9kYx3KJr04rHtZLpHx239jkuuzDg7RVJSsYdQgENLCg.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "edile",
+    "golu",
+    "in",
+    "iptal",
+    "vlaho"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4b84d55f4f65": {
+   "id": "4b84d55f4f65",
+   "kaynak": "AA",
+   "baslik": "Yemen Sanayi ve Ticaret Bakanı Eşvel: Türkiye ile ticaret hacmimiz 2025'te 732 milyon doları aştı",
+   "ozet": "Yemen Sanayi ve Ticaret Bakanı Muhammed el-Eşvel, Türkiye ile Yemen arasındaki ticaret hacminin 2025 yılında 732 milyon doları aştığını, iki ülke arasında ortak bir iş insanları konseyi kurulmasının planlandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yemen-sanayi-ve-ticaret-bakani-esvel-turkiye-ile-ticaret-hacmimiz-2025te-732-milyon-dolari-asti/4139715",
+   "zaman": "2026-11-26T23:06:53+03:00",
+   "kelimeler": [
+    "2025",
+    "732",
+    "asti",
+    "bakan",
+    "dolar",
+    "esvel",
+    "hacmi",
+    "milyo",
+    "sanay",
+    "te",
+    "ticar",
+    "turki",
+    "yemen"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "76475300fd7d": {
+   "id": "76475300fd7d",
+   "kaynak": "NTV",
+   "baslik": "Süper Loto çekiliş sonuçları belli oldu: 26 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "ozet": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikramiye kazanıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1752757",
+   "zaman": "2026-11-26T23:07:48+03:00",
+   "kelimeler": [
+    "2026",
+    "26",
+    "belli",
+    "cekil",
+    "ekran",
+    "kasim",
+    "kazan",
+    "loto",
+    "mpi",
+    "numar",
+    "sonuc",
+    "sorgu",
+    "super"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "c84f417683a0": {
+   "id": "c84f417683a0",
+   "kaynak": "XHABER",
+   "baslik": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
+   "ozet": "Beşiktaş 2-0 Hapoel Beer Sheva ⚽️ 89' Orkun",
+   "link": "https://t.me/sahinozkan000/30957",
+   "zaman": "2026-11-26T23:08:32+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\nBeşiktaş 2-0 Hapoel Beer Sheva\n⚽️ 89' Orkun",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "goooo"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7a97bd12c2b4"
   }
  },
  "kayit": [
+  "26.11 23:16:02  4 yeni haber",
   "26.11 23:01:18  6 yeni haber",
   "26.11 22:46:03  2 yeni haber",
   "26.11 22:31:12  3 yeni haber",
@@ -32458,8 +32597,7 @@
   "24.11 19:31:41  2 yeni haber",
   "24.11 19:16:07  3 yeni haber",
   "24.11 19:01:22  1 yeni haber",
-  "24.11 18:46:09  4 yeni haber",
-  "24.11 18:31:22  3 yeni haber"
+  "24.11 18:46:09  4 yeni haber"
  ],
  "otomatik": false
 }
