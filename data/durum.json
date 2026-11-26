@@ -31008,9 +31008,49 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "9b9b78991590": {
+   "id": "9b9b78991590",
+   "kaynak": "AA",
+   "baslik": "60 saniyede ekonomide bugün (26 Kasım 2026)",
+   "ozet": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-26-kasim-2026/4138723",
+   "zaman": "2026-11-26T15:26:16+03:00",
+   "kelimeler": [
+    "2026",
+    "26",
+    "60",
+    "bugun",
+    "ekono",
+    "kasim",
+    "saniy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "bf9c95919bf6": {
+   "id": "bf9c95919bf6",
+   "kaynak": "AA",
+   "baslik": "60 saniyede bugün (26 Kasım 2026)",
+   "ozet": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-26-kasim-2026/4138726",
+   "zaman": "2026-11-26T15:27:19+03:00",
+   "kelimeler": [
+    "2026",
+    "26",
+    "60",
+    "bugun",
+    "kasim",
+    "saniy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9b9b78991590"
   }
  },
  "kayit": [
+  "26.11 17:06:35  1 yeni haber",
   "26.11 17:01:25  7 yeni haber",
   "26.11 16:45:53  2 yeni haber",
   "26.11 16:31:08  5 yeni haber",
@@ -31209,8 +31249,7 @@
   "24.11 14:01:26  1 yeni haber",
   "24.11 13:52:11  3 yeni haber",
   "24.11 13:45:55  4 yeni haber",
-  "24.11 13:31:14  4 yeni haber",
-  "24.11 13:15:59  9 yeni haber"
+  "24.11 13:31:14  4 yeni haber"
  ],
  "otomatik": false
 }
