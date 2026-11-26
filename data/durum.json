@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "472deede93a3": {
-   "id": "472deede93a3",
-   "kaynak": "TRT Haber",
-   "baslik": "Merkür'ün yörüngesine giren ikinci uzay aracında itici sorunu",
-   "ozet": "AvrupaJaponya ortak yapımı BepiColombo uzay aracı, sekiz yıllık yolculuğunun ardından Merkürün yörüngesine giren ikinci araç oldu; ancak iticilerinde bir aksaklık yaşandığı bildirildi.",
-   "link": "https://www.trthaber.com/haber/dunya/merkurun-yorungesine-giren-ikinci-uzay-aracinda-itici-sorunu-964166.html",
-   "zaman": "2026-11-23T07:07:00+03:00",
-   "kelimeler": [
-    "araci",
-    "giren",
-    "ikinc",
-    "itici",
-    "merku",
-    "sorun",
-    "un",
-    "uzay",
-    "yorun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "372b449c0c72": {
    "id": "372b449c0c72",
    "kaynak": "TRT Haber",
@@ -71,29 +50,6 @@
     "NTV",
     "AA"
    ]
-  },
-  "b8974b326089": {
-   "id": "b8974b326089",
-   "kaynak": "Hürriyet",
-   "baslik": "Sarıyer'de 'aslan' alarmı! Çalışmalar havadan görüntülendi: Vatandaşa 'evinizden çıkmayın' uyarısı",
-   "ozet": "Sarıyer'de bir kişinin aslan gördüğünü ihbar etmesi üzerine ekipler çalışma başlattı. Güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen hayvan tespit edilirken, bölgede yaşayanlar Jandarma ekipleri tarafından uyarıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/sariyerde-aslan-alarmi-calismalar-havadan-goruntulendi-vatandasa-evinizden-cikmayin-uyarisi-43387403",
-   "zaman": "2026-11-23T07:02:00+03:00",
-   "kelimeler": [
-    "alarm",
-    "aslan",
-    "calis",
-    "cikma",
-    "evini",
-    "gorun",
-    "havad",
-    "sariy",
-    "uyari",
-    "vatan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "7bbccf1470b5"
   },
   "780e5e75a528": {
    "id": "780e5e75a528",
@@ -19406,7 +19362,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "AA",
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ],
    "paylasildi": "2026-11-25T00:33:32.588231+03:00",
    "ig_id": "18122635940117274",
@@ -23440,7 +23397,10 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a49e284935ae": {
    "id": "a49e284935ae",
@@ -26702,7 +26662,10 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "aa9a544881bf": {
    "id": "aa9a544881bf",
@@ -26877,7 +26840,8 @@
     "ulked"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "73f7062e4b96": {
    "id": "73f7062e4b96",
@@ -27443,7 +27407,8 @@
     "suphe"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3450e65f375b": {
    "id": "3450e65f375b",
@@ -30712,9 +30677,333 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "80d3b28717b0": {
+   "id": "80d3b28717b0",
+   "kaynak": "TRT Haber",
+   "baslik": "Ters yönde ilerleyen otomobil faciaya neden oldu: 1 ölü, 5 yaralı",
+   "ozet": "Burdur'da ters yönde ilerleyen otomobilin başka bir araçla çarpıştığı kazada 18 yaşındaki sürücü hayatını kaybetti, 2'si ağır 5 kişi yaralandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/ters-yonde-ilerleyen-otomobil-faciaya-neden-oldu-1-olu-5-yarali-964492.html",
+   "zaman": "2026-11-26T06:53:00+03:00",
+   "kelimeler": [
+    "facia",
+    "ilerl",
+    "neden",
+    "olu",
+    "otomo",
+    "ters",
+    "yaral",
+    "yonde"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f06e3289b6be": {
+   "id": "f06e3289b6be",
+   "kaynak": "Hürriyet",
+   "baslik": "Özel’in yeni ‘A Takımı’",
+   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, dün önce 160 kişilik Parti Meclisi üyeleriyle Anıtkabir’e çıktı ardından ‘seçim kabinesi’ olarak da nitelediği yeni “A Takımı”nı belirledi. 28 kişilik yeni MYK’ya dokuz yeni isim girdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozelin-yeni-a-takimi-43391266",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "in",
+    "ozel",
+    "takim",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "04fd967e616d": {
+   "id": "04fd967e616d",
+   "kaynak": "Hürriyet",
+   "baslik": "Dervişoğlu: Özel’in kararı memnuniyet verici",
+   "ozet": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, YENİ Parti Genel Başkanı Özgür Özel’in komisyona katılmama kararını memnuniyetle karşıladığını belirtti.",
+   "link": "https://www.hurriyet.com.tr/gundem/dervisoglu-ozelin-karari-memnuniyet-verici-43391268",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "dervi",
+    "in",
+    "karar",
+    "memnu",
+    "ozel",
+    "veric"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82b2aa789582": {
+   "id": "82b2aa789582",
+   "kaynak": "Hürriyet",
+   "baslik": "Şile’de tanık Haluk Levent",
+   "ozet": "Şile Belediyesi’ne yönelik ‘suç işlemek amacıyla örgüt kurma’, ‘irtikap’, ‘rüşvet’ ve ‘ihaleye fesat karıştırma’ iddialarına ilişkin davada, AHBAP Derneği’ne yönelik yürütülen soruşturma kapsamında tutuklanan şarkıcı Haluk Levent tanık olarak dinlendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/silede-tanik-haluk-levent-43391269",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "haluk",
+    "leven",
+    "sile",
+    "tanik"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fec086693cf9"
+  },
+  "b9dc67759182": {
+   "id": "b9dc67759182",
+   "kaynak": "Hürriyet",
+   "baslik": "Kurtulmuş’tan komisyona üye çağrısı: 30 Kasım’a kadar bildirin",
+   "ozet": "TBMM Başkanı, partilere İzleme Komisyonu için 30 Kasım Pazartesi saat 17.00’ye kadar üye isimlerini bildirme çağrısında bulundu. Kurtulmuş’un doğal başkan olacağı komisyonun ilk toplantısını gelecek ay yapması planlanıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/kurtulmustan-komisyona-uye-cagrisi-30-kasima-kadar-bildirin-43391270",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "30",
+    "bildi",
+    "cagri",
+    "kasim",
+    "komis",
+    "kurtu",
+    "tan",
+    "uye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "177c2c2280e6": {
+   "id": "177c2c2280e6",
+   "kaynak": "Hürriyet",
+   "baslik": "41 ilin valisi değişti... Kararnamenin şifreleri",
+   "ozet": "Valiler Kararnamesi’yle 14 ilin valisi merkeze alınırken, 41 ilin valisi değişti. AFAD Başkanı Ali Hamza Pehlivan, Hatay Valisi olurken; Ağrı Valisi Önder Bozkurt, AFAD Başkanlığı görevine getirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/41-ilin-valisi-degisti-kararnamenin-sifreleri-43391271",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "41",
+    "degis",
+    "ilin",
+    "karar",
+    "sifre",
+    "valis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ff54f51a386a"
+  },
+  "ec3d80748552": {
+   "id": "ec3d80748552",
+   "kaynak": "Hürriyet",
+   "baslik": "5 şehit acısı yüreğimizi yaktı",
+   "ozet": "Türkiye, Eskişehir’de eğitim uçuşu sırasında kaza kırıma uğrayan AS-532 tipi askeri helikopterde şehit düşen 5 askerine ağlıyor...",
+   "link": "https://www.hurriyet.com.tr/gundem/5-sehit-acisi-yuregimizi-yakti-43391273",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "acisi",
+    "sehit",
+    "yakti",
+    "yureg"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "71f1ee606ff3": {
+   "id": "71f1ee606ff3",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Smart Learn’le öğrenme",
+   "ozet": "Onursal Başkanlığı’nı Emine Erdoğan’ın yürüttüğü Toplumsal Gelişim Eğitim ve Sosyal Dayanışma Derneği (TOGEMDER), uluslararası ‘Smart Learn’ projesinin kapanış programını Üsküdar Bağlarbaşı Kültür Merkezi’nde gerçekleştirdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/smart-learnle-ogrenme-43391276",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "le",
+    "learn",
+    "ogren",
+    "smart"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6e28a68a278e"
+  },
+  "4c9a104d966d": {
+   "id": "4c9a104d966d",
+   "kaynak": "Hürriyet",
+   "baslik": "Ermenilerin ilk Paşinyan’ı!",
+   "ozet": "Ermenistan, Başbakan Paşinyan liderliğinde Türkiye ile ilişkilerde tarihi adımlar atmaya hazırlanırken, daha 1923’te ilk başbakan Ovanes Kaçaznuni’nin “Türklerle anlaşmalıydık” dediği raporu akıllara geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ermenilerin-ilk-pasinyani-43391277",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "ermen",
+    "ilk",
+    "pasin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3c8cc1be7812"
+  },
+  "7dceeb270905": {
+   "id": "7dceeb270905",
+   "kaynak": "Hürriyet",
+   "baslik": "Ölümün gölgesinde 25 Kasım… Ne evlilik yaşattı ne ayrılık",
+   "ozet": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü’nde iki kadının ölümü gündemdeydi.",
+   "link": "https://www.hurriyet.com.tr/gundem/olumun-golgesinde-25-kasim-ne-evlilik-yasatti-ne-ayrilik-43391285",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "25",
+    "ayril",
+    "evlil",
+    "golge",
+    "kasim",
+    "olumu",
+    "yasat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1751815c50af": {
+   "id": "1751815c50af",
+   "kaynak": "Hürriyet",
+   "baslik": "24 ünlü adliyede",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nın, ünlü isimlere yönelik fuhuş ve uyuşturucu suçlamalarıyla yürüttüğü soruşturma kapsamında önceki gün 35 şüpheli hakkında gözaltı kararı verildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/24-unlu-adliyede-43391287",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "24",
+    "adliy",
+    "unlu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5cb803fc24e1"
+  },
+  "373d2831be13": {
+   "id": "373d2831be13",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan’ın Libya ziyareti öncesi Hafter Ankara’da",
+   "ozet": "TÜRKİYE, beş gün içinde Libya’daki siyasi ve askeri ayrışmanın iki önemli tarafı olan Trablus ve Bingazi’den kritik isimleri ağırladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdoganin-libya-ziyareti-oncesi-hafter-ankarada-43391291",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "erdog",
+    "hafte",
+    "in",
+    "libya",
+    "onces",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8beddd3cae5d": {
+   "id": "8beddd3cae5d",
+   "kaynak": "Hürriyet",
+   "baslik": "Telefonlarını cebinde taşıyan erkekler dikkat… Üreme sağlığı tehdit altında",
+   "ozet": "Op. Dr. Dilara Tekden Kırgız, pantolon cebinde taşınan cep telefonlarının erkek üreme sağlığını doğrudan tehdit ettiğini söyledi. Kırgız, bu durumun 2050 yılında sağlıklı sperm oranında ciddi bir düşüşe yol açacağı uyarısında da bulundu.",
+   "link": "https://www.hurriyet.com.tr/gundem/telefonlarini-cebinde-tasiyan-erkekler-dikkat-ureme-sagligi-tehdit-altinda-43391292",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "altin",
+    "cebin",
+    "dikka",
+    "erkek",
+    "sagli",
+    "tasiy",
+    "tehdi",
+    "telef",
+    "ureme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d503e7823891": {
+   "id": "d503e7823891",
+   "kaynak": "Hürriyet",
+   "baslik": "Emine Erdoğan: Hepimizin ortak meselesi",
+   "ozet": "CUMHURBAŞKANI Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Kadına kalkan her el, bütün bir toplumu derinden sarsar” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/emine-erdogan-hepimizin-ortak-meselesi-43391293",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "emine",
+    "erdog",
+    "hepim",
+    "mesel",
+    "ortak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d492701d849e": {
+   "id": "d492701d849e",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan: Kadına şiddet alçaklıktır",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan, “Kadına yönelik şiddet, çok net söylüyorum, vicdansızlıktır, insafsızlıktır, insanlıktan nasibini almamışlara mahsus bir alçaklıktır” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-kadina-siddet-alcakliktir-43391294",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "alcak",
+    "erdog",
+    "kadin",
+    "sidde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "81fcf74d8348": {
+   "id": "81fcf74d8348",
+   "kaynak": "Hürriyet",
+   "baslik": "Busforus Haliç Hattı’na Moskova’dan ödül",
+   "ozet": "İSTANBUL Büyükşehir Belediyesi (İBB) iştiraki, İstanbul Ulaşım AŞ tarafından hayata geçirilen Busforus Haliç Hattı, dünya genelindeki yerel yönetimlerin başarılı çalışmalarının değerlendirildiği BRICS+ Sürdürülebilirlik Liderleri Ödülleri’nde (BRICS+ Sustainability Leaders…",
+   "link": "https://www.hurriyet.com.tr/gundem/busforus-halic-hattina-moskovadan-odul-43391295",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "busfo",
+    "dan",
+    "halic",
+    "hatti",
+    "mosko",
+    "na",
+    "odul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c89520a0d47b": {
+   "id": "c89520a0d47b",
+   "kaynak": "Hürriyet",
+   "baslik": "Yeni nesil örgütlere darbe: 60 ilde 280 gözaltı",
+   "ozet": "İÇİŞLERİ Bakanlığı, 60 ilde yeni nesil suç örgütlerine yönelik operasyonlarda 280 şüphelinin yakalandığını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/yeni-nesil-orgutlere-darbe-60-ilde-280-gozalti-43391297",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "280",
+    "60",
+    "darbe",
+    "gozal",
+    "ilde",
+    "nesil",
+    "orgut",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "af28f6f1f19a"
+  },
+  "3a3b805d621a": {
+   "id": "3a3b805d621a",
+   "kaynak": "Hürriyet",
+   "baslik": "Daltonlar’a ‘belgesel tadında’ operasyon",
+   "ozet": "Alman televizyon kanalı ZDF’de yayınlanan belgeselde, sınırsız cephaneleri ve silahları olduğunu söyleyerek şov yapmaya çalışan Daltonlar çetesine operasyon düzenlendi. Ters kelepçe takılan 9 çete üyesine kendi belgeselleri izletildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/daltonlara-belgesel-tadinda-operasyon-43391300",
+   "zaman": "2026-11-26T07:00:00+03:00",
+   "kelimeler": [
+    "belge",
+    "dalto",
+    "opera",
+    "tadin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 07:16:30  12 yeni haber",
   "26.11 07:05:41  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Vedat Muriqi: \"Eşim futboldan çok anlamaz ama Şampiyonlar Ligi'ne kald",
   "26.11 07:01:45  1 yeni haber",
   "26.11 06:45:56  2 yeni haber",
@@ -30913,8 +31202,7 @@
   "23.11 23:45:56  3 yeni haber",
   "23.11 23:31:33  1 yeni haber",
   "23.11 23:16:02  1 yeni haber",
-  "23.11 23:05:44  2 yeni haber",
-  "23.11 22:45:55  1 yeni haber"
+  "23.11 23:05:44  2 yeni haber"
  ],
  "otomatik": false
 }
