@@ -1,45 +1,5 @@
 {
  "haberler": {
-  "ac98dca21faa": {
-   "id": "ac98dca21faa",
-   "kaynak": "AA",
-   "baslik": "Almanya ile Ukrayna arasında savunma işbirliği artıyor",
-   "ozet": "Almanya Savunma Bakanı Boris Pistorius, Ukrayna'nın savunmasına gelecek yıl 11,6 milyar avro destek sağlayacaklarını ve Ukrayna'da kullanılan keşif insansız hava araçlarının (İHA) üretimini Almanya'da yapacaklarını bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/almanya-ile-ukrayna-arasinda-savunma-isbirligi-artiyor/4135119",
-   "zaman": "2026-11-23T22:49:55+03:00",
-   "kelimeler": [
-    "alman",
-    "arasi",
-    "artiy",
-    "isbir",
-    "savun",
-    "ukray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a5944b9ac7cd": {
-   "id": "a5944b9ac7cd",
-   "kaynak": "TRT Haber",
-   "baslik": "Pendik Tersane Köprüsü'nde iki şerit 40 gün kapalı olacak",
-   "ozet": "Pendik'te Tersane Köprüsü'nde yapılacak çalışmalar nedeniyle bugünden itibaren 40 gün süreyle gece saatlerinde sahil istikametindeki iki şerit trafiğe kapatılacak.",
-   "link": "https://www.trthaber.com/haber/turkiye/pendik-tersane-koprusunde-iki-serit-40-gun-kapali-olacak-964236.html",
-   "zaman": "2026-11-23T22:56:00+03:00",
-   "kelimeler": [
-    "40",
-    "gun",
-    "iki",
-    "kapal",
-    "kopru",
-    "nde",
-    "olaca",
-    "pendi",
-    "serit",
-    "tersa"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a207dae5aade": {
    "id": "a207dae5aade",
    "kaynak": "BBC Türkçe",
@@ -20427,7 +20387,10 @@
     "siber"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7acffa81ea25": {
    "id": "7acffa81ea25",
@@ -32152,9 +32115,152 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "f944b5ff5a33": {
+   "id": "f944b5ff5a33",
+   "kaynak": "AA",
+   "baslik": "Süper Lig kulüpleri, Beşiktaş-Hapoel Beer Sheva maçındaki polis şiddetine tepki gösterdi",
+   "ozet": "Trendyol Süper Lig kulüpleri, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında Gürcistan'ın Batum şehrinde oynanan müsabakada siyah-beyazlı taraftarlara yönelik polis şiddetine tepki gösterdi.",
+   "link": "https://www.aa.com.tr/tr/spor/super-lig-kulupleri-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-tepki-gosterdi/4139624",
+   "zaman": "2026-11-26T22:30:06+03:00",
+   "kelimeler": [
+    "beer",
+    "besik",
+    "goste",
+    "hapoe",
+    "kulup",
+    "lig",
+    "macin",
+    "polis",
+    "sheva",
+    "sidde",
+    "super",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "df7125f07e3f": {
+   "id": "df7125f07e3f",
+   "kaynak": "TRT Haber",
+   "baslik": "Beşiktaş: Cumhurbaşkanı Erdoğan olayı yakından takip ettiğini ifade etti",
+   "ozet": "Beşiktaş Kulübü, UEFA Avrupa Ligi'nin beşinci haftasında İsrail ekibi Hapoel BeerSheva ile Gürcistan'ın Batum kentinde oynanan karşılaşmada siyahbeyazlı taraftarlara yönelik polis şiddetine dair açıklama yaptı.",
+   "link": "https://www.trthaber.com/haber/gundem/besiktas-cumhurbaskani-erdogan-olayi-yakindan-takip-ettigini-ifade-etti-964591.html",
+   "zaman": "2026-11-26T22:40:00+03:00",
+   "kelimeler": [
+    "besik",
+    "cumhu",
+    "erdog",
+    "etti",
+    "ettig",
+    "ifade",
+    "olayi",
+    "takip",
+    "yakin"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a53b44f456f1": {
+   "id": "a53b44f456f1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi, Gürcü mevkidaşı ile görüştü",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Gürcistan İçişleri Bakanı Sulkhan Tamazaşvili ile Beşiktaş'ın Batum'da oynadığı karşılaşmada yaşanan olaylarla ilgili görüştü.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-gurcu-mevkidasi-ile-gorustu-964592.html",
+   "zaman": "2026-11-26T22:46:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "ciftc",
+    "gorus",
+    "gurcu",
+    "mevki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1553f325c61e"
+  },
+  "557c354fce11": {
+   "id": "557c354fce11",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi, Batum'da taraftarlara yönelik müdahaleyi Gürcü mevkidaşıyla görüştü",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, Gürcistan İçişleri Bakanı Sulkhan Tamazaşvili ile Beşiktaş'ın Batum'da oynadığı karşılaşmada yaşanan olaylara ilişkin görüştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu-43392482",
+   "zaman": "2026-11-26T22:46:59+03:00",
+   "kelimeler": [
+    "bakan",
+    "batum",
+    "ciftc",
+    "gorus",
+    "gurcu",
+    "mevki",
+    "mudah",
+    "taraf",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bd11649de74a": {
+   "id": "bd11649de74a",
+   "kaynak": "XHABER",
+   "baslik": "Batum sokakları Mustafa Kemal’in Askerleriyiz sloganlarıyla yankılanıyor.",
+   "ozet": "(X: Selçuk Çağlar)",
+   "link": "https://t.me/sahinozkan000/30953",
+   "zaman": "2026-11-26T22:49:21+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Batum sokakları Mustafa Kemal’in Askerleriyiz sloganlarıyla yankılanıyor. 🇹🇷\n(X: Selçuk Çağlar)",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/ZjohaylkFZ8QEeL5dO6FLlBZa3-uX8IZmCKXxWOPB1SHyvLbaYAV2hRtWFLIFFZZqztpnc3Ucle-n8H-u7p8nEo7KSiediHXzeXdvf4G4TVhbtV4fLB70eOq9Phl6ZVQ-Dy0j633rjI3__ANP3jxOOKIrVq7qfe3MMAjCV1B9itlC5EXQl-MbhYKsneKTWvIIbpTAnICgX7Hxtg93j69mfstNX9weYPgH0kdWcCQgUejYqi5iL-9UoGQDGlHY4gYjAKjIXJYnWN2W3oY23gc1gKSR9JnANHOZFXl9HLv4FfdGWXa6pOlZu3vfyOt0CA9WPz3144nL_qJupYRk7TAew",
+   "tg_video_url": "https://cdn4.telesco.pe/file/bca9eaf172.mp4?token=cPz2zw6OFnn8b3kvu9t47H6BxDhHGMFOQLDmrqfJ47CZFSINW8IsbXqN7kVk6nhjdWouteF7QaQ65bni8bDpU6I-P6jQdYYzy9fU6TdnnIegFDTmiwCDZE7kpsOoOzsPz2gAlOZ0zmi-mFmYX69dEw5qkJkhlXxNp5FNC4mfNB6X7LefOwFTCR7hJwNEGq6VDCncmNdS0hck0k_kG4Bwrci7tlnLw1z1KD3VhDfsHP0gCHKZ3bhCIhCmzT8fMkvAx5exg29def-KwO3-CD8OFkNNWjLMAYfQw_NZmt4p273g0fCos4uj1FzB-gmed9Mixl6-JkXMNCgJZHn2Rm4A2g",
+   "kelimeler": [
+    "asker",
+    "batum",
+    "in",
+    "kemal",
+    "musta",
+    "sloga",
+    "sokak",
+    "yanki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "85acb15ea6f6": {
+   "id": "85acb15ea6f6",
+   "kaynak": "TRT Haber",
+   "baslik": "TFF, UEFA nezdinde girişimde bulunacak",
+   "ozet": "Türkiye Futbol Federasyonu TFF, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş'ın İsrail ekibi Hapoel BeerSheva'yı Gürcistan'da konuk ettiği maçtaki polis şiddetine tepki göstererek birçok olumsuzlukla karşılaşan siyahbeyazlı kulübün yanında olduğunu açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/tff-uefa-nezdinde-girisimde-bulunacak-964593.html",
+   "zaman": "2026-11-26T22:50:00+03:00",
+   "kelimeler": [
+    "bulun",
+    "giris",
+    "nezdi",
+    "tff",
+    "uefa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7a97bd12c2b4": {
+   "id": "7a97bd12c2b4",
+   "kaynak": "XHABER",
+   "baslik": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL",
+   "ozet": "Beşiktaş 1-0 Hapoel Beer Sheva ⚽️ 75' Olaitan",
+   "link": "https://t.me/sahinozkan000/30955",
+   "zaman": "2026-11-26T22:54:23+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL\nBeşiktaş 1-0 Hapoel Beer Sheva\n⚽️ 75' Olaitan",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "goooo"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 23:01:18  6 yeni haber",
   "26.11 22:46:03  2 yeni haber",
   "26.11 22:31:12  3 yeni haber",
   "26.11 22:15:59  1 yeni haber",
@@ -32353,8 +32459,7 @@
   "24.11 19:16:07  3 yeni haber",
   "24.11 19:01:22  1 yeni haber",
   "24.11 18:46:09  4 yeni haber",
-  "24.11 18:31:22  3 yeni haber",
-  "24.11 18:16:04  2 yeni haber"
+  "24.11 18:31:22  3 yeni haber"
  ],
  "otomatik": false
 }
