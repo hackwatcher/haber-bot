@@ -1,65 +1,5 @@
 {
  "haberler": {
-  "7923d27098ac": {
-   "id": "7923d27098ac",
-   "kaynak": "Sözcü",
-   "baslik": "Nvidia'da yönetim değişikliği: Jensen Huang geri döndü",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/nvidia-da-jensen-huang-geri-dondu-p383785",
-   "zaman": "2026-11-23T17:12:02+03:00",
-   "kelimeler": [
-    "degis",
-    "dondu",
-    "geri",
-    "huang",
-    "jense",
-    "nvidi",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a3c7b2c4a66d": {
-   "id": "a3c7b2c4a66d",
-   "kaynak": "TRT Haber",
-   "baslik": "Jensen Huang yeniden Nvidia CEO'su oldu",
-   "ozet": "Nvidia, Jensen Huang'ın derhal geçerli olmak üzere yeniden şirketin Üst Yöneticisi CEO olarak göreve getirildiğini duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/jensen-huang-yeniden-nvidia-ceosu-oldu-964221.html",
-   "zaman": "2026-11-23T17:07:00+03:00",
-   "kelimeler": [
-    "ceo",
-    "huang",
-    "jense",
-    "nvidi",
-    "su",
-    "yenid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA",
-    "BBC Türkçe"
-   ]
-  },
-  "745decd3febc": {
-   "id": "745decd3febc",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Düşman koşulsuz teslimiyetten koşulsuz müzakereye geçti",
-   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, İsrail ve ABD'nin \"koşulsuz teslimiyet\" sloganıyla 2025'te İran'a karşı başlattığı 12 günlük çatışma sürecinden bugün \"koşulsuz müzakere\" sürecine geçtiğini söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-dusman-kosulsuz-teslimiyetten-kosulsuz-muzakereye-gecti-964222.html",
-   "zaman": "2026-11-23T17:14:00+03:00",
-   "kelimeler": [
-    "dusma",
-    "gecti",
-    "iran",
-    "kosul",
-    "muzak",
-    "tesli"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d8eb8bf1307d"
-  },
   "93a562ea98ee": {
    "id": "93a562ea98ee",
    "kaynak": "XHABER",
@@ -29837,7 +29777,10 @@
     "trafi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "cd899cc54a05": {
    "id": "cd899cc54a05",
@@ -30020,7 +29963,8 @@
     "topla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "65f89a015f7d": {
    "id": "65f89a015f7d",
@@ -30867,7 +30811,8 @@
     "yolcu"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "1cb42ed6799c": {
    "id": "1cb42ed6799c",
@@ -31007,7 +30952,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "9b9b78991590": {
    "id": "9b9b78991590",
@@ -31047,9 +30995,186 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9b9b78991590"
+  },
+  "b3e1ff60bd76": {
+   "id": "b3e1ff60bd76",
+   "kaynak": "AA",
+   "baslik": "Milli Güvenlik Kurulu toplantısı yapıldı",
+   "ozet": "Milli Güvenlik Kurulu (MGK) toplantısı, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/milli-guvenlik-kurulu-toplantisi-yapildi/4138678",
+   "zaman": "2026-11-26T14:46:52+03:00",
+   "kelimeler": [
+    "guven",
+    "kurul",
+    "milli",
+    "topla",
+    "yapil"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3b1f9724445c"
+  },
+  "816d85c9a6df": {
+   "id": "816d85c9a6df",
+   "kaynak": "TRT Haber",
+   "baslik": "Şehit Hava Astsubay Gürdağ, Antalya'da son yolculuğuna uğurlandı",
+   "ozet": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit düşen Hava Piyade Astsubay Kıdemli Çavuş Mehmet Alp Gürdağ'ın cenazesi, Antalya'da toprağa verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/sehit-hava-astsubay-gurdag-antalyada-son-yolculuguna-ugurlandi-964557.html",
+   "zaman": "2026-11-26T16:28:00+03:00",
+   "kelimeler": [
+    "antal",
+    "astsu",
+    "gurda",
+    "hava",
+    "sehit",
+    "ugurl",
+    "yolcu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "5b7471d59b36"
+  },
+  "b3219ccb57a5": {
+   "id": "b3219ccb57a5",
+   "kaynak": "TRT Haber",
+   "baslik": "Türkiye ve Suudi Arabistan'ın savunma sanayisi işbirliği güçleniyor",
+   "ozet": "Savunma Sanayii Başkanı Haluk Görgün, Suudi Arabistan Krallığı Savunma Geliştirme Genel Otoritesi GADD Başkanı Faleh bin Abdullah AlSulaimanı kabul etti.",
+   "link": "https://www.trthaber.com/haber/savunma/turkiye-ve-suudi-arabistanin-savunma-sanayisi-isbirligi-gucleniyor-964560.html",
+   "zaman": "2026-11-26T16:56:00+03:00",
+   "kelimeler": [
+    "arabi",
+    "gucle",
+    "in",
+    "isbir",
+    "sanay",
+    "savun",
+    "suudi",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "75a5169421b1"
+  },
+  "e4bdee828ef6": {
+   "id": "e4bdee828ef6",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir’den Aydın’a getirdi, yolda yürürken yakalandı: Üzerinden 1100 hap çıktı",
+   "ozet": "Aydın’ın Efeler ilçesinde İzmir’den uyuşturucu getirdiği istihbaratıyla takibe alınan kadın şüpheli R.A. yolda yürürken durduruldu. Üzerinde 1100 sentetik hap ele geçirilen R.A., çıkarıldığı mahkemece tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/izmirden-aydina-getirdi-yolda-yururken-yakalandi-uzerinden-1100-hap-cikti-43392225",
+   "zaman": "2026-11-26T16:56:00+03:00",
+   "kelimeler": [
+    "1100",
+    "aydin",
+    "cikti",
+    "den",
+    "getir",
+    "hap",
+    "izmir",
+    "uzeri",
+    "yakal",
+    "yolda",
+    "yurur"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-26T17:17:58.047740+03:00",
+   "ig_id": "18382800244232251",
+   "reels_id": "18123122786067012",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "5530001427225214",
+   "slayt": 5,
+   "kanca": "1100 SENTETİK HAP"
+  },
+  "1f1892ad1d3d": {
+   "id": "1f1892ad1d3d",
+   "kaynak": "TRT Haber",
+   "baslik": "Altın günü düşüşle kapattı",
+   "ozet": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon liraya geriledi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-gunu-dususle-kapatti-964559.html",
+   "zaman": "2026-11-26T17:01:00+03:00",
+   "kelimeler": [
+    "altin",
+    "dusus",
+    "gunu",
+    "kapat"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1614d88de4aa": {
+   "id": "1614d88de4aa",
+   "kaynak": "TRT Haber",
+   "baslik": "Tekirdağ'da trafikte kavga eden 3 kişiye 620 bin lira ceza",
+   "ozet": "Tekirdağ'ın Kapaklı ilçesinde trafikte kavga eden 3 kişiye toplam 620 bin lira para cezası uygulandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/tekirdagda-trafikte-kavga-eden-3-kisiye-620-bin-lira-ceza-964561.html",
+   "zaman": "2026-11-26T17:05:00+03:00",
+   "kelimeler": [
+    "620",
+    "bin",
+    "ceza",
+    "eden",
+    "kavga",
+    "kisiy",
+    "lira",
+    "tekir",
+    "trafi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "68da52f8d188"
+  },
+  "982c43f9079a": {
+   "id": "982c43f9079a",
+   "kaynak": "Hürriyet",
+   "baslik": "Şile Belediyesi ‘yolsuzluk' davasında 5 sanık tahliye edildi! Haluk Levent’in kardeşi de var",
+   "ozet": "Şile Belediyesi'ne yönelik yürütülen rüşvet ve yolsuzluk soruşturması kapsamında tutuklanan ve görevinden uzaklaştırılan Şile Belediye Başkanı Özgür Kabadayı hakkında 33 yıl 3 aydan 92 yıla kadar hapis istemiyle açılan davada 12. duruşma görüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/sile-belediyesi-yolsuzluk-davasinda-5-sanik-tahliye-edildi-haluk-leventin-kardesi-de-var-43392238",
+   "zaman": "2026-11-26T17:07:46+03:00",
+   "kelimeler": [
+    "beled",
+    "davas",
+    "edild",
+    "haluk",
+    "in",
+    "karde",
+    "leven",
+    "sanik",
+    "sile",
+    "tahli",
+    "yolsu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b52b6bb439cb": {
+   "id": "b52b6bb439cb",
+   "kaynak": "AA",
+   "baslik": "İsrail muhalefeti, Meclis çoğunluğuyla Netanyahu döneminin tartışmalı yasalarının iptali için harekete geçti",
+   "ozet": "İsrail'de hükümet kurmaya hazırlanan Değişim Bloğu, Filistin kökenli partilerin desteğiyle Meclisteki çoğunluğunu kullanarak geçici Başbakan Netanyahu koalisyonunun çıkardığı tartışmalı yasaları iptal etmek için meclis çalışmalarına başladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-muhalefeti-meclis-cogunluguyla-netanyahu-doneminin-tartismali-yasalarinin-iptali-icin-harekete-gecti/4138925",
+   "zaman": "2026-11-26T17:10:00+03:00",
+   "kelimeler": [
+    "cogun",
+    "donem",
+    "gecti",
+    "harek",
+    "iptal",
+    "israi",
+    "mecli",
+    "muhal",
+    "netan",
+    "tarti",
+    "yasal"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 17:17:58  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İzmir’den Aydın’a getirdi, yolda yürürken yakalandı: Üzerinden 1100 ha",
+  "26.11 17:15:55  4 yeni haber",
   "26.11 17:06:35  1 yeni haber",
   "26.11 17:01:25  7 yeni haber",
   "26.11 16:45:53  2 yeni haber",
@@ -31247,9 +31372,7 @@
   "24.11 14:31:06  3 yeni haber",
   "24.11 14:16:07  7 yeni haber",
   "24.11 14:01:26  1 yeni haber",
-  "24.11 13:52:11  3 yeni haber",
-  "24.11 13:45:55  4 yeni haber",
-  "24.11 13:31:14  4 yeni haber"
+  "24.11 13:52:11  3 yeni haber"
  ],
  "otomatik": false
 }
