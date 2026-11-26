@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "21579db4e9ef": {
-   "id": "21579db4e9ef",
-   "kaynak": "NTV",
-   "baslik": "Bahçeli'den Öğretmenler Günü mesajı",
-   "ozet": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"Bütün öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü kutluyor, kendilerine en içten sevgi ve saygılarımı sunuyorum\" dedi.",
-   "link": "https://www.ntv.com.tr/turkiye/bahceliden-ogretmenler-gunu-mesaji-1752270",
-   "zaman": "2026-11-24T01:54:36+03:00",
-   "kelimeler": [
-    "bahce",
-    "den",
-    "gunu",
-    "mesaj",
-    "ogret"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "49824876df27"
-  },
   "e56d62054473": {
    "id": "e56d62054473",
    "kaynak": "TRT Haber",
@@ -32518,9 +32500,71 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "cd439c4e20b3": {
+   "id": "cd439c4e20b3",
+   "kaynak": "Sözcü",
+   "baslik": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/bddk-baskanligina-yusuf-kenan-bagir-atandi-p384749",
+   "zaman": "2026-11-27T01:48:41+03:00",
+   "kelimeler": [
+    "atand",
+    "bagir",
+    "baska",
+    "bddk",
+    "kenan",
+    "yusuf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber",
+    "NTV"
+   ]
+  },
+  "e2ae0a61683c": {
+   "id": "e2ae0a61683c",
+   "kaynak": "TRT Haber",
+   "baslik": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+   "ozet": "Resmi Gazetede yayımlanan atama kararlarına göre, BDDK Başkanlığına Yusuf Kenan Bağır atandı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bddk-baskanligina-yusuf-kenan-bagir-atandi-964601.html",
+   "zaman": "2026-11-27T01:49:00+03:00",
+   "kelimeler": [
+    "atand",
+    "bagir",
+    "baska",
+    "bddk",
+    "kenan",
+    "na",
+    "yusuf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cd439c4e20b3"
+  },
+  "e47c6e648f45": {
+   "id": "e47c6e648f45",
+   "kaynak": "NTV",
+   "baslik": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+   "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı.",
+   "link": "https://www.ntv.com.tr/turkiye/bddk-baskanligina-yusuf-kenan-bagir-atandi-1752770",
+   "zaman": "2026-11-27T01:56:22+03:00",
+   "kelimeler": [
+    "atand",
+    "bagir",
+    "baska",
+    "bddk",
+    "kenan",
+    "yusuf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cd439c4e20b3"
   }
  },
  "kayit": [
+  "27.11 01:57:19  1 yeni haber",
   "27.11 01:45:54  1 yeni haber",
   "27.11 01:33:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli takıma seçilen down sendromlu Hamza Dönmez'in hedefi masa tenisi",
   "27.11 01:31:06  2 yeni haber",
@@ -32719,8 +32763,7 @@
   "24.11 23:03:00  3 yeni haber",
   "24.11 22:45:54  5 yeni haber",
   "24.11 22:31:28  6 yeni haber",
-  "24.11 22:15:56  6 yeni haber",
-  "24.11 22:01:15  2 yeni haber"
+  "24.11 22:15:56  6 yeni haber"
  ],
  "otomatik": false
 }
