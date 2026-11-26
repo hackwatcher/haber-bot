@@ -30481,7 +30481,8 @@
    "diger_kaynaklar": [
     "NTV",
     "TRT Haber",
-    "AA"
+    "AA",
+    "BBC Türkçe"
    ]
   },
   "aae6fdf9f143": {
@@ -30656,11 +30657,22 @@
     "tutuk",
     "yonel"
    ],
-   "durum": "yeni",
+   "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "Sözcü"
-   ]
+    "Sözcü",
+    "TRT Haber",
+    "AA"
+   ],
+   "paylasildi": "2026-11-26T09:47:54.963146+03:00",
+   "ig_id": "18657479605044505",
+   "reels_id": "18016611482984841",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1141827038465765",
+   "slayt": 5,
+   "kanca": "21 KİŞİ TUTUKLANDI"
   },
   "80b9677767e5": {
    "id": "80b9677767e5",
@@ -30827,9 +30839,147 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "7fa097e508cd"
+  },
+  "2be24520209e": {
+   "id": "2be24520209e",
+   "kaynak": "Hürriyet",
+   "baslik": "1,5 milyar liralık yasa dışı bahis soruşturmasında 33 şüpheli adliyeye çıkarıldı",
+   "ozet": "Samsun merkezli 8 ilde yasa dışı bahis ve aklama soruşturmasında gözaltına alınan 75 şüpheliden 33’ü sabah saatlerinde adliyeye sevk edildi. 74 kişinin banka hesaplarında yaklaşık 1,5 milyar liralık işlem hacmi tespit edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/1-5-milyar-liralik-yasa-disi-bahis-sorusturmasinda-33-supheli-adliyeye-cikarildi-43391419",
+   "zaman": "2026-11-26T09:30:00+03:00",
+   "kelimeler": [
+    "33",
+    "adliy",
+    "bahis",
+    "cikar",
+    "disi",
+    "liral",
+    "milya",
+    "sorus",
+    "suphe",
+    "yasa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3bf953aedda0": {
+   "id": "3bf953aedda0",
+   "kaynak": "Hürriyet",
+   "baslik": "Süper Loto'da ikramiyeyi duyan bayilere koşuyor! Müşteriler hayallerini anlattı: Hepsine para yeter",
+   "ozet": "Süper Loto'da 1 milyar 23 milyon 782 bin liraya ulaşan büyük ikramiyeyi kazanma heyecanı Antalya'da da yaşanmaya başlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/super-lotoda-ikramiyeyi-duyan-bayilere-kosuyor-43391412",
+   "zaman": "2026-11-26T09:34:00+03:00",
+   "kelimeler": [
+    "anlat",
+    "bayil",
+    "duyan",
+    "hayal",
+    "hepsi",
+    "ikram",
+    "kosuy",
+    "loto",
+    "muste",
+    "para",
+    "super",
+    "yeter"
+   ],
+   "durum": "engelli",
+   "oncelikli": true
+  },
+  "45c53df9f315": {
+   "id": "45c53df9f315",
+   "kaynak": "Hürriyet",
+   "baslik": "Ünlülere yönelik uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır, Burcu Özberk, Murat Başoğlu ve Ceylan Kaya hakkında karar verildi",
+   "ozet": "Ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturması kapsamında gözaltına alınan şarkıcı Ceylan Kaya, \"suçtan kaynaklanan malvarlığı değerlerini aklama\" suçundan tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
+   "zaman": "2026-11-26T09:34:00+03:00",
+   "kelimeler": [
+    "basog",
+    "burcu",
+    "cakir",
+    "ceyla",
+    "deniz",
+    "hakki",
+    "karar",
+    "kaya",
+    "murat",
+    "opera",
+    "ozber",
+    "ozcan",
+    "unlul",
+    "uyust",
+    "veril",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "2d867e1a69e2"
+  },
+  "6f0af8c13852": {
+   "id": "6f0af8c13852",
+   "kaynak": "TRT Haber",
+   "baslik": "Kepez Belediyesi'ne rüşvet soruşturması: 21 gözaltı",
+   "ozet": "Antalya'da, Kepez Belediyesine yönelik yürütülen soruşturma kapsamında \"rüşvet\", \"kamu kurum ve kuruluşlarının ihalesine fesat karıştırma\" ve \"edimin ifasına fesat karıştırma\" suçlarından gözaltına alınan 24 şüpheliden 21'i tutuklandı, 3'ü adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kepez-belediyesine-rusvet-sorusturmasi-21-gozalti-964497.html",
+   "zaman": "2026-11-26T09:35:00+03:00",
+   "kelimeler": [
+    "21",
+    "beled",
+    "gozal",
+    "kepez",
+    "rusve",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "aaf85c2e2847"
+  },
+  "bd5e461f4c42": {
+   "id": "bd5e461f4c42",
+   "kaynak": "AA",
+   "baslik": "Kepez Belediyesine yönelik \"rüşvet\" soruşturmasında 21 şüpheli tutuklandı",
+   "ozet": "Antalya'da Kepez Belediyesine yönelik yürütülen soruşturma kapsamında gözaltına alınan 24 şüpheliden 21'i tutuklandı, 3'ü adli kontrol şartıyla serbest bırakıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/kepez-belediyesine-yonelik-rusvet-sorusturmasinda-21-supheli-tutuklandi/4138206",
+   "zaman": "2026-11-26T09:37:45+03:00",
+   "kelimeler": [
+    "21",
+    "beled",
+    "kepez",
+    "rusve",
+    "sorus",
+    "suphe",
+    "tutuk",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "aaf85c2e2847"
+  },
+  "2c2a1d071c8d": {
+   "id": "2c2a1d071c8d",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Eski BDDK Başkanı Şahap Kavcıoğlu hakkında soruşturma izni",
+   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon soruşturması kapsamında, Bakanlık Teftiş Başkanlığının ön inceleme raporuna istinaden eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verdi.",
+   "link": "https://www.bbc.com/turkce/articles/ck1wre80j7ggo",
+   "zaman": "2026-11-26T09:38:11+03:00",
+   "kelimeler": [
+    "baska",
+    "bddk",
+    "eski",
+    "hakki",
+    "izni",
+    "kavci",
+    "sahap",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "31c8b2e4be45"
   }
  },
  "kayit": [
+  "26.11 09:47:54  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kepez Belediyesi'ne yönelik rüşvet operasyonu: 21 kişi tutuklandı",
+  "26.11 09:45:54  2 yeni haber",
   "26.11 09:40:06  8 yeni haber",
   "26.11 09:16:07  3 yeni haber",
   "26.11 08:53:20  4 yeni haber",
@@ -31027,9 +31177,7 @@
   "24.11 03:09:28  1 yeni haber",
   "24.11 02:31:08  1 yeni haber",
   "24.11 01:32:32  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Seda Sayan: \"YouTube'da biraz daha sansürsüzüm.",
-  "24.11 01:01:22  1 yeni haber",
-  "24.11 00:46:03  1 yeni haber",
-  "24.11 00:33:08  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Resmi Gazete'de yayımlandı... Yeniden değerleme oranı belirlendi"
+  "24.11 01:01:22  1 yeni haber"
  ],
  "otomatik": false
 }
