@@ -1,64 +1,5 @@
 {
  "haberler": {
-  "36450a42e225": {
-   "id": "36450a42e225",
-   "kaynak": "AA",
-   "baslik": "Çin'de elektrikli araç şarj istasyonları ve veri merkezlerinin elektrik tüketimi arttı",
-   "ozet": "Çin'de elektrikli araçların ve yapay zeka uygulamalarının yaygınlaşmasıyla şarj istasyonları ve veri merkezlerinin elektrik tüketimi hızla artıyor.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cinde-elektrikli-arac-sarj-istasyonlari-ve-veri-merkezlerinin-elektrik-tuketimi-artti/4135070",
-   "zaman": "2026-11-23T21:21:04+03:00",
-   "kelimeler": [
-    "arac",
-    "artti",
-    "cin",
-    "elekt",
-    "istas",
-    "merke",
-    "sarj",
-    "tuket",
-    "veri"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "4e57f439d15c": {
-   "id": "4e57f439d15c",
-   "kaynak": "Hürriyet",
-   "baslik": "Tekirdağ Belediye Başkanı Yüceer, AK Parti’ye katılma kararının gerekçesini açıkladı",
-   "ozet": "AK Parti Tekirdağ İl Başkanlığınca haftalık olağan İl Yürütme ve İl Yönetim Kurulu toplantısı düzenlendi.",
-   "link": "https://www.hurriyet.com.tr/gundem/tekirdag-belediye-baskani-yuceer-ak-partiye-katilma-kararinin-gerekcesini-acikladi-43388524",
-   "zaman": "2026-11-23T21:28:05+03:00",
-   "kelimeler": [
-    "ak",
-    "baska",
-    "beled",
-    "gerek",
-    "karar",
-    "katil",
-    "parti",
-    "tekir",
-    "ye",
-    "yucee"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "2c17f07e3a8d": {
-   "id": "2c17f07e3a8d",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da sağanak etkili oluyor",
-   "ozet": "İstanbul'da lodosun ardından sağanak etkili oluyor. Kısa sürede şiddetini artıran yağışa hazırlıksız yakalananlar zor anlar yaşadı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-saganak-etkili-oluyor-43388527",
-   "zaman": "2026-11-23T21:30:00+03:00",
-   "kelimeler": [
-    "etkil",
-    "istan",
-    "oluyo",
-    "sagan"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "f7084536eba7": {
    "id": "f7084536eba7",
    "kaynak": "XHABER",
@@ -31563,7 +31504,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "63990ef3ca64": {
    "id": "63990ef3ca64",
@@ -31899,9 +31843,189 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9603e5099957"
+  },
+  "cc4b8d80311c": {
+   "id": "cc4b8d80311c",
+   "kaynak": "AA",
+   "baslik": "Polonya, Türkiye ile savunma sanayisi işbirliğini geliştirmek istiyor",
+   "ozet": "Polonya Milli Savunma Bakan Yardımcısı Magdalena Sobkowiak-Czarnecka, Türkiye ile savunma sanayisi alanındaki işbirliğinin geliştirilmesini istediklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/polonya-turkiye-ile-savunma-sanayisi-isbirligini-gelistirmek-istiyor/4139520",
+   "zaman": "2026-11-26T20:16:44+03:00",
+   "kelimeler": [
+    "gelis",
+    "isbir",
+    "istiy",
+    "polon",
+    "sanay",
+    "savun",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fc1ca973ec84"
+  },
+  "a3947f6f7d76": {
+   "id": "a3947f6f7d76",
+   "kaynak": "AA",
+   "baslik": "Irak'ta IKBY kontrolündeki Beşte ve el-Velid sınır kapıları kapatıldı",
+   "ozet": "Irak Sınır Muhafızları, Irak'ta Irak Kürt Bölgesel Yönetimi (IKBY) kontrolünde bulunan Beşte ve el-Velid sınır kapılarını kapattı.",
+   "link": "https://www.aa.com.tr/tr/dunya/irakta-ikby-kontrolundeki-beste-ve-el-velid-sinir-kapilari-kapatildi/4139572",
+   "zaman": "2026-11-26T21:14:12+03:00",
+   "kelimeler": [
+    "beste",
+    "el",
+    "ikby",
+    "irak",
+    "kapat",
+    "kapil",
+    "kontr",
+    "sinir",
+    "ta",
+    "velid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c3038e0e46e7": {
+   "id": "c3038e0e46e7",
+   "kaynak": "XHABER",
+   "baslik": "Gürcü polisi Türk taraftarlara biber gazı ile müdahale ediyor.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30943",
+   "zaman": "2026-11-26T21:20:57+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Gürcü polisi Türk taraftarlara biber gazı ile müdahale ediyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/gvJn_HLdYE5hTVi-VUBr15eMu-7mIsCv1RDLwdXT72P626nNHaaD47J3e9tnJ5BCOgPRvieBWkcXoMb3Vnyxv0VdflQ8e-waS_dag4VMKvCwFm29o0mBgq2MlZwaGLakFtTf1zezfPcOLfjEuFFkM8xHEbdx0rRbzIpmHnJyBNFk7mcsCYsvbfpiKSWbsp_56_2UMXlvX_-nXL_8W7L6sdpEumUuJfX82wGN-PyI8FE1tJKdZveIC8oxl9Fhte0ZFjtfqP8SrKLyr2a2GcMobiNZ1wVZoVu1UL_LZfCC9Iz2JNEokCTbu600jLTvcrpYttZQ_VB2Szx-2k4TYgzOHQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "biber",
+    "ediyo",
+    "gazi",
+    "gurcu",
+    "mudah",
+    "polis",
+    "taraf",
+    "turk"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "9a3014a4c9cb": {
+   "id": "9a3014a4c9cb",
+   "kaynak": "XHABER",
+   "baslik": "Gürcü polisi Türk taraftarlara biber gazı ile müdahale ediyor.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30944",
+   "zaman": "2026-11-26T21:22:52+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Gürcü polisi Türk taraftarlara biber gazı ile müdahale ediyor.",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "biber",
+    "ediyo",
+    "gazi",
+    "gurcu",
+    "mudah",
+    "polis",
+    "taraf",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c3038e0e46e7"
+  },
+  "6f80fbe708b1": {
+   "id": "6f80fbe708b1",
+   "kaynak": "XHABER",
+   "baslik": "Sedye ile stadyum dışına çıkarılan bazı Beşiktaş taraftarları kameraya yansıyor.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30945",
+   "zaman": "2026-11-26T21:23:41+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Sedye ile stadyum dışına çıkarılan bazı Beşiktaş taraftarları kameraya yansıyor.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/bw5Cd2BqxnqwZZ0krM_QCyAAJNAk-a7_uXYUmLrDZy4TN4ggiZYM5NhQg3XTnWfMWhirDg5_hL37HFO8qCoCo-kdSvsVrvxOCTkFFTDSD7fHGOMmcb02kkLhlot1bL6uRi6wAAn53Wssxf6AiYKAgQSDCYTYS4tjzjYMmTbvqEBBlSKjfChreBWNZP1T_k4NVksFsZHeh0QhJYqdCa4hNXc3Ngsb3ryGUW5DF7zsSwlJ1cQuWVrKruMFU5RlOamG3pEz2EV-n7khoMWusmCn6BJ0EEWWaFmCfZOYD-Kyb6V36n-DdpOk6-D-VjEIumvWLAkInI3DEoSTqjEt-r3KAQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "bazi",
+    "besik",
+    "cikar",
+    "disin",
+    "kamer",
+    "sedye",
+    "stady",
+    "taraf",
+    "yansi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b917c819d8bc": {
+   "id": "b917c819d8bc",
+   "kaynak": "BBC Türkçe",
+   "baslik": "İddianame, ödemeler: Fon krizi ortak basın toplantısından neler öğrendik?",
+   "ozet": "Fon soruşturmalarıyla ilgili üç bakanın basın toplantısında, yatırımcılara ödemeler, sorumluluların cezalandırılması ve gelecekte benzer senaryoların yaşanmaması için alınan önlemler ele alındı.",
+   "link": "https://www.bbc.com/turkce/articles/cmrlgzxy0rp6o",
+   "zaman": "2026-11-26T21:24:01+03:00",
+   "kelimeler": [
+    "basin",
+    "fon",
+    "iddia",
+    "krizi",
+    "neler",
+    "odeme",
+    "ogren",
+    "ortak",
+    "topla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3aa5fa0d3c71": {
+   "id": "3aa5fa0d3c71",
+   "kaynak": "XHABER",
+   "baslik": "Olayların başlama anı!",
+   "ozet": "Gürcistan’da Filistin bayrağı açan Beşiktaş taraftarlarına polis müdahale etti.",
+   "link": "https://t.me/sahinozkan000/30946",
+   "zaman": "2026-11-26T21:24:47+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Olayların başlama anı!\nGürcistan’da Filistin bayrağı açan Beşiktaş taraftarlarına polis müdahale etti.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/qtqTQ_PGI4I0YbTOHHdN2vDg-ptTG2kNswFlHGno7xlhOd1yvnqNZLlyyNt6MVmIF434R4J56n7MXUFFWj1Ps7lb8Nvfmc9z94jDv7tcIT5A-U1PHgJTUzmKJvZP1TMaEsifvVDb-fAkd_ziDs3ldBugZzAyyhIp8j7Rvn_wl-cMYWX2tys8zcpEkbfUwwXZ5wSRrMq6Z-D4Bo7sPBrGgLrf2ViZOR5747ObYueBGQV0n2QdlLMow0lfp7HeQLCpCaAYj50E7HxNmQXZMyJGETvEs-Mjx8RBZESUxQ-hNREOwNU-52_LxRgVZrwlh1S9ZmtY9A5tco7croOOpdjXZg",
+   "tg_video_url": "https://cdn4.telesco.pe/file/4d7e0f80e5.mp4?token=ZszIpIOFizT_w5LdPmlzuJVt372tr1gGtoSHaEua1CbqSiNARh88wAtrw9suNhnw0F6Gcp0mHY3m-KI6ooJd_EmJroTcTl-SzTbuBqX2g7g59KGPc3gnlKMj78lM_4NyvQGFCafujBFfk1YEz7g7y-VCNCSQS46yhwxaC61zbNrg8RPht5kvTn91kLq5oWjviYKlKN3pFzVxCJfsHv01jqanONK3ZLxqnp4oeG8U15GSEIDhZ1C6sW1acteZU2ACfELJdkqCPSRrqtNj43Ib8PzFrh0IzIY8zJjR9_yjCCBpWDN1b0725uPYNVCIbm157P2hohz-Iyi49uBNjw0uog",
+   "kelimeler": [
+    "ani",
+    "basla",
+    "olayl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6c57068be5cd": {
+   "id": "6c57068be5cd",
+   "kaynak": "XHABER",
+   "baslik": "Beşiktaş taraftarı önce Gürcü polisine dayak attı.",
+   "ozet": "Ardından tüm Dünya'ya \"Özgür Filistin\" mesajı verdi.",
+   "link": "https://t.me/sahinozkan000/30947",
+   "zaman": "2026-11-26T21:30:47+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Beşiktaş taraftarı önce Gürcü polisine dayak attı.\nArdından tüm Dünya'ya \"Özgür Filistin\" mesajı verdi.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/VNfFbfWlN5F4HSqHOqk7IOKTohZmHxTWS5MBdlkyon8wNi9vqgSy2dEf3rrSsqVHXf3G66_Z1HOhn8SfW5LCUHNZ0b-Se-1UcX-JSA9_8lne4s5WFMYgqfpBOHTjZmTMJb-bkC5-jUxUUVZKKRu3h8HRB7kGA4mmOebKlqXfTdGX-y_AdQ82ZNm8d_q4rEnYFm2SGsED3-7Hrc9ITSR9mJhN6wRqIgh0UtECqKW5oMSrtWXwxvvqPEYByvAOrMGGq0GhUi5aPwiBxRTYSZMh79hfhJlOXvJXoXRkqF9aYzOGP-BpLhSKqb6oMoOsSuEPYpuEvORABsOlcpuTYLPl2w.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "atti",
+    "besik",
+    "dayak",
+    "gurcu",
+    "polis",
+    "taraf"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 21:31:08  6 yeni haber",
   "26.11 21:16:04  2 yeni haber",
   "26.11 21:01:17  6 yeni haber",
   "26.11 20:31:46  1 yeni haber",
@@ -32100,8 +32224,7 @@
   "24.11 17:49:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası:",
   "24.11 17:46:07  2 yeni haber",
   "24.11 17:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
-  "24.11 17:31:12  4 yeni haber",
-  "24.11 17:16:10  3 yeni haber"
+  "24.11 17:31:12  4 yeni haber"
  ],
  "otomatik": false
 }
