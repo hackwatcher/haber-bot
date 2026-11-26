@@ -1,29 +1,5 @@
 {
  "haberler": {
-  "e56d62054473": {
-   "id": "e56d62054473",
-   "kaynak": "TRT Haber",
-   "baslik": "İşgalci İsrailin Gazze Şeridine düzenlediği saldırılarda 2 Filistinli hayatını kaybetti",
-   "ozet": "İşgalci İsrail ordusunun ateşkese rağmen Gazze Şeridinde insansız hava araçlarıyla düzenlediği saldırılarda 2 Filistinli yaşamını yitirdi, 8 Filistinli yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-gazze-seridine-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti-964243.html",
-   "zaman": "2026-11-24T02:15:00+03:00",
-   "kelimeler": [
-    "duzen",
-    "filis",
-    "gazze",
-    "hayat",
-    "isgal",
-    "israi",
-    "kaybe",
-    "saldi",
-    "serid"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "726d9c5d31f5": {
    "id": "726d9c5d31f5",
    "kaynak": "AA",
@@ -32520,7 +32496,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "e2ae0a61683c": {
@@ -32560,6 +32537,25 @@
    ],
    "durum": "tekrar",
    "oncelikli": false,
+   "tekrar_of": "cd439c4e20b3"
+  },
+  "864b7dba25ad": {
+   "id": "864b7dba25ad",
+   "kaynak": "Hürriyet",
+   "baslik": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+   "ozet": "Resmi Gazete’de yayımlanan atama kararlarına göre, BDDK Başkanlığına Yusuf Kenan Bağır atandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bddk-baskanligina-yusuf-kenan-bagir-atandi-43392615",
+   "zaman": "2026-11-27T02:04:31+03:00",
+   "kelimeler": [
+    "atand",
+    "bagir",
+    "baska",
+    "bddk",
+    "kenan",
+    "yusuf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
    "tekrar_of": "cd439c4e20b3"
   }
  },
