@@ -31721,7 +31721,10 @@
     "yu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "541f6d984c9b": {
    "id": "541f6d984c9b",
@@ -31805,9 +31808,101 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "05b96c872164": {
+   "id": "05b96c872164",
+   "kaynak": "TRT Haber",
+   "baslik": "Rusya: Kiev yönetimi, Rusya ile NATO'yu karşı karşıya getirmeye çalışıyor",
+   "ozet": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, Ukrayna yönetiminin, Rusya ile NATO ülkelerini karşı karşıya getirmeye çalıştığını belirterek, \"Kiev yönetimi, çatışma alanını genişletmeye ve çatışmaları Ukrayna toprakları dışındaki deniz sahalarına yaymaya çalışıyor.\" dedi.",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-kiev-yonetimi-rusya-ile-natoyu-karsi-karsiya-getirmeye-calisiyor-964583.html",
+   "zaman": "2026-11-26T20:56:00+03:00",
+   "kelimeler": [
+    "calis",
+    "getir",
+    "karsi",
+    "kiev",
+    "nato",
+    "rusya",
+    "yonet",
+    "yu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5c5eaa0200e0"
+  },
+  "bacf9bef1858": {
+   "id": "bacf9bef1858",
+   "kaynak": "AA",
+   "baslik": "İGA, liman işletmeciliği hizmetlerinde en fazla ihracat gerçekleştiren şirket oldu",
+   "ozet": "İstanbul Havalimanı İşletmecisi İGA, Hizmet İhracatçıları Birliği (HİB) tarafından \"Liman İşletmeciliği Hizmetleri\" alanında en fazla ihracat gerçekleştiren işletme ödülüne layık görüldü.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/iga-liman-isletmeciligi-hizmetlerinde-en-fazla-ihracat-gerceklestiren-sirket-oldu/4139561",
+   "zaman": "2026-11-26T20:58:37+03:00",
+   "kelimeler": [
+    "fazla",
+    "gerce",
+    "hizme",
+    "iga",
+    "ihrac",
+    "islet",
+    "liman",
+    "sirke"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9603e5099957": {
+   "id": "9603e5099957",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Beşiktaş - HB Seva maçında tribünler birbirine girdi.",
+   "ozet": "Maç durdu.",
+   "link": "https://t.me/sahinozkan000/30941",
+   "zaman": "2026-11-26T21:12:35+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Beşiktaş - HB Seva maçında tribünler birbirine girdi.\nMaç durdu.",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "besik",
+    "birbi",
+    "girdi",
+    "hb",
+    "macin",
+    "seva",
+    "sonda",
+    "tribu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "7510cb9823a3": {
+   "id": "7510cb9823a3",
+   "kaynak": "XHABER",
+   "baslik": "#SONDAKİKA | Beşiktaş - HB Seva maçında tribünler birbirine girdi.",
+   "ozet": "Maç durdu.",
+   "link": "https://t.me/sahinozkan000/30942",
+   "zaman": "2026-11-26T21:14:10+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "#SONDAKİKA | Beşiktaş - HB Seva maçında tribünler birbirine girdi. Maç durdu.",
+   "tg_foto_url": "",
+   "tg_video_url": "",
+   "kelimeler": [
+    "besik",
+    "birbi",
+    "girdi",
+    "hb",
+    "macin",
+    "seva",
+    "sonda",
+    "tribu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9603e5099957"
   }
  },
  "kayit": [
+  "26.11 21:16:04  2 yeni haber",
   "26.11 21:01:17  6 yeni haber",
   "26.11 20:31:46  1 yeni haber",
   "26.11 20:16:39  5 yeni haber",
@@ -32006,8 +32101,7 @@
   "24.11 17:46:07  2 yeni haber",
   "24.11 17:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099",
   "24.11 17:31:12  4 yeni haber",
-  "24.11 17:16:10  3 yeni haber",
-  "24.11 17:01:29  6 yeni haber"
+  "24.11 17:16:10  3 yeni haber"
  ],
  "otomatik": false
 }
