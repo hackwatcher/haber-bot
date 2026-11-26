@@ -1,39 +1,5 @@
 {
  "haberler": {
-  "59f1e2cabfc7": {
-   "id": "59f1e2cabfc7",
-   "kaynak": "XHABER",
-   "baslik": "#SONDAKİKA | Sarıyer'de aslan görüldüğü ihbarı üzerine başlatılan aramalarda şu ana kadar hayvana ait iz veya bulguya rastlanmadığı bildirildi.",
-   "ozet": "Aramaların beş ayrı noktada dronlarla sürdürüldüğünü açıklandı.",
-   "link": "https://t.me/sahinozkan000/30882",
-   "zaman": "2026-11-23T22:21:13+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "#SONDAKİKA | Sarıyer'de aslan görüldüğü ihbarı üzerine başlatılan aramalarda şu ana kadar hayvana ait iz veya bulguya rastlanmadığı bildirildi.\nAramaların beş ayrı noktada dronlarla sürdürüldüğünü açıklandı.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/kKseYiFkOBfTyqW2QgH_W77mk2DXJwVzX9L9RJkY1RhhATfpYlx79kARrzhtMilOxJDtkQcF3InmQGZ_dQ9sDoQYkxcjjCh2rzeF8fuM4Xdxa-y0AU8JHrLCAjXsVDwFvIj84-O6fVXLpgf-ML8XS8jcB8LTGM6HzfiWnO3pJ3aDWXdVJopbNMmoO0OCeSk2sYFzJKAfmOa3Oc33KTrrgVYrn3pu9-IMFShp8ROZtSld3WAyaZ_q4TlMamuaEQoJKjWqn53EQ32HWJ9HC7oOttEJYBV7PTrWlcJmfotGKKUFF_Y2v6WvuubcE5r8VwxzqFz97XRiKjXQbbkqu_D15A.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "ait",
-    "ana",
-    "arama",
-    "aslan",
-    "basla",
-    "bildi",
-    "bulgu",
-    "gorul",
-    "hayva",
-    "ihbar",
-    "iz",
-    "rastl",
-    "sariy",
-    "sonda",
-    "su",
-    "uzeri",
-    "veya"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "f90d1dc8ee26"
-  },
   "c3312359383b": {
    "id": "c3312359383b",
    "kaynak": "BBC Türkçe",
@@ -28690,7 +28656,10 @@
     "turki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "2645d173b534": {
    "id": "2645d173b534",
@@ -31970,7 +31939,11 @@
     "tepki"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA",
+    "XHABER"
+   ]
   },
   "3c17eb099c18": {
    "id": "3c17eb099c18",
@@ -32019,9 +31992,172 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0de127db1bfb"
+  },
+  "898cf3238efd": {
+   "id": "898cf3238efd",
+   "kaynak": "AA",
+   "baslik": "Gürcistan'da güvenlik güçlerinden Beşiktaş taraftarlarına orantısız müdahale",
+   "ozet": "UEFA Avrupa Ligi'nde Beşiktaş-Hapoel Beer-Sheva karşılaşması, tribün olayları nedeniyle verilen aranın ardından devam ederken, Gürcistan güvenlik güçlerinin Beşiktaş taraftarlarına müdahalesi tepki çekti.",
+   "link": "https://www.aa.com.tr/tr/spor/gurcistanda-guvenlik-guclerinden-besiktas-taraftarlarina-orantisiz-mudahale-/4139601",
+   "zaman": "2026-11-26T21:57:22+03:00",
+   "kelimeler": [
+    "besik",
+    "gucle",
+    "gurci",
+    "guven",
+    "mudah",
+    "orant",
+    "taraf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "86b9fd09f809"
+  },
+  "0d4fb1d9bde8": {
+   "id": "0d4fb1d9bde8",
+   "kaynak": "TRT Haber",
+   "baslik": "İran Dışişleri Bakanı Arakçi, Kuveytli mevkidaşıyla görüşmesinde İHA saldırısı iddiasını reddetti",
+   "ozet": "İran Dışişleri Bakanı Abbas Arakçi, Kuveytli mevkidaşı Şeyh Cerrah Cabir elAhmed esSabah ile görüşmesinde, ülkesinin Kuveyt'e insansız hava aracı İHA saldırısı düzenlediği iddiasını kesin bir dille reddetti.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-kuveytli-mevkidasiyla-gorusmesinde-iha-saldirisi-iddiasini-reddetti-964588.html",
+   "zaman": "2026-11-26T22:09:00+03:00",
+   "kelimeler": [
+    "arakc",
+    "bakan",
+    "disis",
+    "gorus",
+    "iddia",
+    "iha",
+    "iran",
+    "kuvey",
+    "mevki",
+    "redde",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": []
+  },
+  "6f5d2ad63929": {
+   "id": "6f5d2ad63929",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran'dan AP'nin kararına tepki",
+   "ozet": "İletişim Başkanı Burhanettin Duran, Avrupa Parlamentosu Genel Kurulu’nun, Türkiye ile Libya arasında 2019 yılında imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkındaki kararına tepki gösterdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-apnin-kararina-tepki-43392457",
+   "zaman": "2026-11-26T22:16:55+03:00",
+   "kelimeler": [
+    "ap",
+    "baska",
+    "dan",
+    "duran",
+    "ileti",
+    "karar",
+    "nin",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "599bb4ee49a6": {
+   "id": "599bb4ee49a6",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan, Gürcü mevkidaşı ile görüştü",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Beşiktaşın UEFA Avrupa Ligi maçını izlemek üzere Batumda bulunan vatandaşların durumuyla ilgili Gürcistan Dışişleri Bakanı Maka Botchorishvili ile telefonda görüştü.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-gurcu-mevkidasi-ile-gorustu-964589.html",
+   "zaman": "2026-11-26T22:19:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "fidan",
+    "gorus",
+    "gurcu",
+    "mevki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0d4fb1d9bde8"
+  },
+  "f59a32fad53b": {
+   "id": "f59a32fad53b",
+   "kaynak": "XHABER",
+   "baslik": "Cumhurbaşkanı Erdoğan, Gürcistan’da Beşiktaş taraftarlarına yönelik polis müdahalesinin ardından Beşiktaş Başkanı Serdal Adalı ile telefonda görüştü.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30952",
+   "zaman": "2026-11-26T22:24:16+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Cumhurbaşkanı Erdoğan, Gürcistan’da Beşiktaş taraftarlarına yönelik polis müdahalesinin ardından Beşiktaş Başkanı Serdal Adalı ile telefonda görüştü.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/gMXuCVELDRd_cR0ThY94ZVIUul-TfFHCAmcp7Mx8l5HHL-Ow337nWzfrrGjFzqItq92GRA-s_95t1F6-mk3ZzijCzOGEFX0kiOGZ02lf7Ebmotc63ZbTAlMUWtL9AD6NqtHRgcK3rKtgIqgFmIgPKb4FqSQZof1gEfgd6BMy_gJvMydA9MHmhHICmEvSOs6kJPJKD_jMtrgzgC4zBapf1zbjZZ2SpOO8zxeKl2cGh8yYwu5aKGmIES3SbVrKilkCl-EPWN5y_mTbTL8VUcZpND0X7hyENVRglBg7DebeKGFmWmcaROmoECgoNkG_tVWqD3GhWUsJj3c4UZwnGfpRjQ.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "adali",
+    "ardin",
+    "baska",
+    "besik",
+    "cumhu",
+    "erdog",
+    "gorus",
+    "gurci",
+    "mudah",
+    "polis",
+    "serda",
+    "taraf",
+    "telef",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "86b9fd09f809"
+  },
+  "d329bb8bc714": {
+   "id": "d329bb8bc714",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran'dan Avrupa Parlamentosu'nun Türkiye-Libya mutabakatına ilişkin kararına tepki",
+   "ozet": "İletişim Başkanı Duran, Avrupa Parlamentosu'nun Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ettiği kararın hukuki dayanaktan yoksun olduğunu belirtti.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-avrupa-parlamentosunun-turkiye-libya-mutabakatina-iliskin-kararina-tepki/4139616",
+   "zaman": "2026-11-26T22:25:28+03:00",
+   "kelimeler": [
+    "avrup",
+    "baska",
+    "dan",
+    "duran",
+    "ileti",
+    "ilisk",
+    "karar",
+    "libya",
+    "mutab",
+    "nun",
+    "parla",
+    "tepki",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "109bf7b5d9ac"
+  },
+  "c94c995a05a7": {
+   "id": "c94c995a05a7",
+   "kaynak": "AA",
+   "baslik": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
+   "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve makroihtiyati çerçeveye ilişkin yeni kararlar aldı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar/4139619",
+   "zaman": "2026-11-26T22:27:26+03:00",
+   "kelimeler": [
+    "adiml",
+    "den",
+    "ilisk",
+    "karsi",
+    "likid",
+    "liras",
+    "tcmb",
+    "turk",
+    "yeni",
+    "yonet",
+    "zorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 22:31:12  3 yeni haber",
   "26.11 22:15:59  1 yeni haber",
   "26.11 22:01:18  2 yeni haber",
   "26.11 21:45:52  5 yeni haber",
@@ -32220,8 +32356,7 @@
   "24.11 18:46:09  4 yeni haber",
   "24.11 18:31:22  3 yeni haber",
   "24.11 18:16:04  2 yeni haber",
-  "24.11 18:01:22  4 yeni haber",
-  "24.11 17:49:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası:"
+  "24.11 18:01:22  4 yeni haber"
  ],
  "otomatik": false
 }
