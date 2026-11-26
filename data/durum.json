@@ -1,40 +1,5 @@
 {
  "haberler": {
-  "5bb6cc7b377a": {
-   "id": "5bb6cc7b377a",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da ara tatilin ardından trafik yoğunluğu",
-   "ozet": "İstanbul'da ara tatilin sona ermesinin ardından haftanın ilk iş günü trafik yoğunluğu oluştu. Trafik yoğunluğu saat 08.00 itibarıyla yüzde 62'ye ulaştı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-ara-tatilin-ardindan-trafik-yogunlugu-43387509",
-   "zaman": "2026-11-23T08:25:00+03:00",
-   "kelimeler": [
-    "ara",
-    "ardin",
-    "istan",
-    "tatil",
-    "trafi",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "1357c9972c9f": {
-   "id": "1357c9972c9f",
-   "kaynak": "TRT Haber",
-   "baslik": "Yapay Ay toprağında patates yetiştirildi",
-   "ozet": "NASA destekli araştırmada bilim insanları, organik maddeyle desteklenen yapay Ay toprağında yenilebilir ve besleyici patatesler büyütmeyi başardı. Çalışma, gelecekte Ay üslerinde görev yapacak astronotlar için yerel gıda üretiminin önünü açıyor.",
-   "link": "https://www.trthaber.com/haber/dunya/yapay-ay-topraginda-patates-yetistirildi-964173.html",
-   "zaman": "2026-11-23T08:26:00+03:00",
-   "kelimeler": [
-    "ay",
-    "patat",
-    "topra",
-    "yapay",
-    "yetis"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "2febeaf66968": {
    "id": "2febeaf66968",
    "kaynak": "AA",
@@ -30804,7 +30769,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "TRT Haber"
    ]
   },
   "a61204e97b79": {
@@ -30824,9 +30790,71 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "61ea51b484ef"
+  },
+  "5a99d89c4b0e": {
+   "id": "5a99d89c4b0e",
+   "kaynak": "TRT Haber",
+   "baslik": "Firari 3 FETÖ'cü Ankara'da yakalandı",
+   "ozet": "Başkentte polisin Fetullahçı Terör Örgütü'ne FETÖ yönelik operasyonunda 3 firari yakalandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/firari-3-fetocu-ankarada-yakalandi-964494.html",
+   "zaman": "2026-11-26T08:11:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "cu",
+    "feto",
+    "firar",
+    "yakal"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "61ea51b484ef"
+  },
+  "4d2a6443e0ee": {
+   "id": "4d2a6443e0ee",
+   "kaynak": "Hürriyet",
+   "baslik": "Hava sıcaklığı sıfırın altına indi: Dağlara kar, şehre ayaz düştü",
+   "ozet": "Erzincan'da etkili olan soğuk hava yaşamı olumsuz etkiledi. Refahiye ilçesinde gece saatlerinde hava sıcaklığı sıfırın altında 13 dereceye kadar düştü.",
+   "link": "https://www.hurriyet.com.tr/gundem/hava-sicakligi-sifirin-altina-indi-daglara-kar-sehre-ayaz-dustu-43391368",
+   "zaman": "2026-11-26T08:21:38+03:00",
+   "kelimeler": [
+    "altin",
+    "ayaz",
+    "dagla",
+    "dustu",
+    "hava",
+    "indi",
+    "kar",
+    "sehre",
+    "sicak",
+    "sifir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "90a677c650ce": {
+   "id": "90a677c650ce",
+   "kaynak": "Hürriyet",
+   "baslik": "Artvin’de heyelanda yamaçtan kopan kayalar seyir halindeki araca düştü",
+   "ozet": "Artvin-Ardanuç kara yolu Soğanlı Tüneli girişinde heyelanla yamaçtan kopan kayalar seyir halindeki araca isabet etti; sürücü yara almadan kurtuldu.",
+   "link": "https://www.hurriyet.com.tr/gundem/artvinde-heyelanda-yamactan-kopan-kayalar-seyir-halindeki-araca-dustu-43391371",
+   "zaman": "2026-11-26T08:21:59+03:00",
+   "kelimeler": [
+    "araca",
+    "artvi",
+    "dustu",
+    "halin",
+    "heyel",
+    "kayal",
+    "kopan",
+    "seyir",
+    "yamac"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 08:31:18  2 yeni haber",
   "26.11 08:19:40  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · 5 şehit acısı yüreğimizi yaktı",
   "26.11 08:16:00  1 yeni haber",
   "26.11 08:01:23  1 yeni haber",
@@ -31025,8 +31053,7 @@
   "24.11 00:33:08  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): Hürriyet · Resmi Gazete'de yayımlandı... Yeniden değerleme oranı belirlendi",
   "24.11 00:31:12  3 yeni haber",
   "24.11 00:16:03  3 yeni haber",
-  "24.11 00:02:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Lvbel C5 ve Batuflex, yeni albümlerinde yer alan bir şarkıya 'Dersimli",
-  "24.11 00:01:25  3 yeni haber"
+  "24.11 00:02:49  Paylaşıldı (otomatik, 4 slaytlık karusel + Story + Facebook): XHABER · Lvbel C5 ve Batuflex, yeni albümlerinde yer alan bir şarkıya 'Dersimli"
  ],
  "otomatik": false
 }
