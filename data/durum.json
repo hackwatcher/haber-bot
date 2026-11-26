@@ -1,52 +1,5 @@
 {
  "haberler": {
-  "ac6c75b08ffe": {
-   "id": "ac6c75b08ffe",
-   "kaynak": "TRT Haber",
-   "baslik": "Danimarka'da okullarda cep telefonu kullanımı yasaklanıyor",
-   "ozet": "Danimarka, 20272028 eğitim öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu kullanımına izin verilmeyeceğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/dunya/danimarkada-okullarda-cep-telefonu-kullanimi-yasaklaniyor-964234.html",
-   "zaman": "2026-11-23T22:08:00+03:00",
-   "kelimeler": [
-    "cep",
-    "danim",
-    "kulla",
-    "okull",
-    "telef",
-    "yasak"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e7a73eddbd61"
-  },
-  "d09956bd6783": {
-   "id": "d09956bd6783",
-   "kaynak": "Hürriyet",
-   "baslik": "Kuvvetli yağış yurda giriş yaptı... Bazı illerde yollar göle döndü, evleri ve iş yerlerini su bastı",
-   "ozet": "İstanbul dahil 22 il için meteorolojik sarı kodlu uyarı verilmesinin ardından beklenen yağış etkisini göstermeye başladı. İstanbul, Edremit, Bursa, Balıkesir’de etkili olan yağışlar nedeniyle sokaklar ve caddeler göle döndü, iş yerlerini su bastı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kuvvetli-yagis-yurda-giris-yapti-bazi-illerde-yollar-gole-dondu-evleri-ve-is-yerlerini-su-basti-43388545",
-   "zaman": "2026-11-23T22:08:48+03:00",
-   "kelimeler": [
-    "basti",
-    "bazi",
-    "dondu",
-    "evler",
-    "giris",
-    "gole",
-    "iller",
-    "is",
-    "kuvve",
-    "su",
-    "yagis",
-    "yapti",
-    "yerle",
-    "yolla",
-    "yurda"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
   "59f1e2cabfc7": {
    "id": "59f1e2cabfc7",
    "kaynak": "XHABER",
@@ -80,53 +33,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "f90d1dc8ee26"
-  },
-  "4bf31fbb631e": {
-   "id": "4bf31fbb631e",
-   "kaynak": "Hürriyet",
-   "baslik": "Kuvvetli yağış yurda giriş yaptı... Bazı illerde yollar göle döndü, iş yerlerini su bastı",
-   "ozet": "İstanbul dahil 22 il için meteorolojik sarı kodlu uyarı verilmesinin ardından beklenen yağış etkisini göstermeye başladı. İstanbul, Edremit, Bursa, Balıkesir’de etkili olan yağışlar nedeniyle sokaklar ve caddeler göle döndü, iş yerlerini su bastı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kuvvetli-yagis-yurda-giris-yapti-bazi-illerde-yollar-gole-dondu-is-yerlerini-su-basti-43388545",
-   "zaman": "2026-11-23T22:08:00+03:00",
-   "kelimeler": [
-    "basti",
-    "bazi",
-    "dondu",
-    "giris",
-    "gole",
-    "iller",
-    "is",
-    "kuvve",
-    "su",
-    "yagis",
-    "yapti",
-    "yerle",
-    "yolla",
-    "yurda"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d09956bd6783"
-  },
-  "920581747252": {
-   "id": "920581747252",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul Valiliği'nden 'aslan' açıklaması",
-   "ozet": "İstanbul Valiliği, Sarıyer'deki aslan iddialarıyla ilgili açıklama yaptı. Valilik, \"Görüntülerin incelenmesi sonucunda, görüntülerdeki hayvanın aslan veya diğer büyük kedi türlerinden biri olmadığı değerlendirilmiştir\" dedi.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbul-valiliginden-aslan-aciklamasi-43388552",
-   "zaman": "2026-11-23T22:15:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "aslan",
-    "istan",
-    "nden",
-    "valil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
   },
   "c3312359383b": {
    "id": "c3312359383b",
@@ -32018,7 +31924,10 @@
     "yapil"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "a9eb08b91d24": {
    "id": "a9eb08b91d24",
@@ -32062,9 +31971,58 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3c17eb099c18": {
+   "id": "3c17eb099c18",
+   "kaynak": "AA",
+   "baslik": "Yaşanan olaylardan dolayı duran Beşiktaş-Hapoel Beer-Sheva maçı kaldığı yerden devam etti",
+   "ozet": "UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında oynanan karşılaşma, tribündeki olaylar nedeniyle durduktan sonra kaldığı yerden devam etti.",
+   "link": "https://www.aa.com.tr/tr/spor/yasanan-olaylardan-dolayi-duran-besiktas-hapoel-beer-sheva-maci-kaldigi-yerden-devam-etti/4139601",
+   "zaman": "2026-11-26T21:57:22+03:00",
+   "kelimeler": [
+    "beer",
+    "besik",
+    "devam",
+    "dolay",
+    "duran",
+    "etti",
+    "hapoe",
+    "kaldi",
+    "maci",
+    "olayl",
+    "sheva",
+    "yasan",
+    "yerde"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "55617cde229f": {
+   "id": "55617cde229f",
+   "kaynak": "Hürriyet",
+   "baslik": "AK Parti Sözcüsü Ömer Çelik: Beşiktaş taraftarına şiddet kabul edilemez",
+   "ozet": "AK Parti Sözcüsü Ömer Çelik, Gürcistan’da oynanan karşılaşma öncesinde ve esnasında Beşiktaş taraftarlarına yönelik gerçekleştirilen saldırıları kınayarak siyah-beyazlı camiaya geçmiş olsun mesajı yayımladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celik-besiktas-taraftarina-siddet-kabul-edilemez-43392444",
+   "zaman": "2026-11-26T21:57:59+03:00",
+   "kelimeler": [
+    "ak",
+    "besik",
+    "celik",
+    "edile",
+    "kabul",
+    "omer",
+    "parti",
+    "sidde",
+    "sozcu",
+    "taraf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0de127db1bfb"
   }
  },
  "kayit": [
+  "26.11 22:15:59  1 yeni haber",
   "26.11 22:01:18  2 yeni haber",
   "26.11 21:45:52  5 yeni haber",
   "26.11 21:31:08  6 yeni haber",
@@ -32263,8 +32221,7 @@
   "24.11 18:31:22  3 yeni haber",
   "24.11 18:16:04  2 yeni haber",
   "24.11 18:01:22  4 yeni haber",
-  "24.11 17:49:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası:",
-  "24.11 17:46:07  2 yeni haber"
+  "24.11 17:49:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası:"
  ],
  "otomatik": false
 }
