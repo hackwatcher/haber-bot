@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "86634095e53f": {
-   "id": "86634095e53f",
-   "kaynak": "AA",
-   "baslik": "AB, Rusya'ya yeni yaptırımlara hazırlanıyor",
-   "ozet": "Avrupa Birliği (AB) Komisyonu, yaklaşık 60 Rus bankasının SWIFT ödeme sisteminden çıkarılmasını, Rusya'nın gölge filosundaki 70'ten fazla geminin yaptırım listesine alınmasını öngören yeni yaptırım paketini sundu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor/4134869",
-   "zaman": "2026-11-23T18:45:14+03:00",
-   "kelimeler": [
-    "ab",
-    "hazir",
-    "rusya",
-    "ya",
-    "yapti",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "9bf793799090": {
    "id": "9bf793799090",
    "kaynak": "Hürriyet",
@@ -29986,7 +29968,8 @@
     "zapti"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "2bbd5632f94a": {
    "id": "2bbd5632f94a",
@@ -31295,10 +31278,174 @@
     "yukse"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "6d83b469a3be": {
+   "id": "6d83b469a3be",
+   "kaynak": "TRT Haber",
+   "baslik": "TPAO, OMV ve OMV Petrom arasında 5 yıllık mutabakat zaptı",
+   "ozet": "Bakan Alparslan Bayraktar, TPAO, Avusturya merkezli OMV ve Romanya merkezli OMV Petrom arasında 5 yıllık Mutabakat Zaptı imzalandığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/tpao-omv-ve-omv-petrom-arasinda-5-yillik-mutabakat-zapti-964550.html",
+   "zaman": "2026-11-26T15:47:00+03:00",
+   "kelimeler": [
+    "arasi",
+    "mutab",
+    "omv",
+    "petro",
+    "tpao",
+    "yilli",
+    "zapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c87742ceb8d1"
+  },
+  "acf34d94332e": {
+   "id": "acf34d94332e",
+   "kaynak": "AA",
+   "baslik": "İran: ABD ile müzakereler konusunda Katar ve Pakistan'ın arabuluculuk faaliyetleri sürüyor",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD ile müzakereler konusunda Katarlı ve Pakistanlı arabulucuların faaliyetlerinin devam ettiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-abd-ile-muzakereler-konusunda-katar-ve-pakistanin-arabuluculuk-faaliyetleri-suruyor/4139316",
+   "zaman": "2026-11-26T18:28:39+03:00",
+   "kelimeler": [
+    "abd",
+    "arabu",
+    "faali",
+    "in",
+    "iran",
+    "katar",
+    "konus",
+    "muzak",
+    "pakis",
+    "suruy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "bbbbd6c2da95": {
+   "id": "bbbbd6c2da95",
+   "kaynak": "TRT Haber",
+   "baslik": "İran: ABD ile müzakereler konusunda Katar ve Pakistan'ın arabuluculuk faaliyetleri sürüyor",
+   "ozet": "İran Dışişleri Bakanı Abbas Erakçi, ABD ile müzakereler konusunda Katarlı ve Pakistanlı arabulucuların faaliyetlerinin devam ettiğini bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-abd-ile-muzakereler-konusunda-katar-ve-pakistanin-arabuluculuk-faaliyetleri-suruyor-964572.html",
+   "zaman": "2026-11-26T18:30:00+03:00",
+   "kelimeler": [
+    "abd",
+    "arabu",
+    "faali",
+    "in",
+    "iran",
+    "katar",
+    "konus",
+    "muzak",
+    "pakis",
+    "suruy"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "acf34d94332e"
+  },
+  "bd50c940a758": {
+   "id": "bd50c940a758",
+   "kaynak": "Hürriyet",
+   "baslik": "Borsa günü yükselişle tamamladı… İşte en çok kazandıran ve kaybettiren sektörler",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran-ve-kaybettiren-sektorler-43392329",
+   "zaman": "2026-11-26T18:31:23+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "iste",
+    "kaybe",
+    "kazan",
+    "sekto",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a8677afc9e39"
+  },
+  "e46846910822": {
+   "id": "e46846910822",
+   "kaynak": "AA",
+   "baslik": "Avrupa Merkez Bankası Başkanlığına İspanyol ekonomist Hernandez de Cos'un getirilmesinde uzlaşı sağlandı",
+   "ozet": "Avro Bölgesi ülkelerinin liderleri, Avrupa Merkez Bankası (ECB) Başkanlığına İspanya Merkez Bankasının eski Başkanı Pablo Hernandez de Cos'un getirilmesi konusunda anlaştı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskanligina-ispanyol-ekonomist-hernandez-de-cosun-getirilmesinde-uzlasi-saglandi/4139322",
+   "zaman": "2026-11-26T18:33:52+03:00",
+   "kelimeler": [
+    "avrup",
+    "banka",
+    "baska",
+    "cos",
+    "ekono",
+    "getir",
+    "herna",
+    "ispan",
+    "merke",
+    "sagla",
+    "un",
+    "uzlas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "578af4838632": {
+   "id": "578af4838632",
+   "kaynak": "AA",
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda 1 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyinde düzenlediği hava saldırısında 1 Filistinli yaşamını yitirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-1-kisi-hayatini-kaybetti/4139327",
+   "zaman": "2026-11-26T18:37:26+03:00",
+   "kelimeler": [
+    "atesk",
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "ragme",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "499d367a7ff4"
+  },
+  "01540db1ce0d": {
+   "id": "01540db1ce0d",
+   "kaynak": "AA",
+   "baslik": "Hamas lideri Hayye: Ateşkesle birlikte saldırı ve ablukanın devam etmesi kabul edilemez",
+   "ozet": "Hamas Siyasi Büro Başkanı Halil el-Hayye, Gazze'de ateşkesle birlikte saldırı ve ablukanın da sürmesinin kabul edilemez olduğunu, bu ihlallere karşı atılacak adımlara ilişkin Filistinli gruplarla görüşmeler yürüttüklerini kaydetti.",
+   "link": "https://www.aa.com.tr/tr/dunya/hamas-lideri-hayye-ateskesle-birlikte-saldiri-ve-ablukanin-devam-etmesi-kabul-edilemez/4139331",
+   "zaman": "2026-11-26T18:43:36+03:00",
+   "kelimeler": [
+    "abluk",
+    "atesk",
+    "birli",
+    "devam",
+    "edile",
+    "etmes",
+    "hamas",
+    "hayye",
+    "kabul",
+    "lider",
+    "saldi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 18:46:04  3 yeni haber",
   "26.11 18:31:17  5 yeni haber",
   "26.11 18:15:57  4 yeni haber",
   "26.11 18:01:36  3 yeni haber",
@@ -31497,8 +31644,7 @@
   "24.11 15:45:54  2 yeni haber",
   "24.11 15:31:19  9 yeni haber",
   "24.11 15:16:07  2 yeni haber",
-  "24.11 15:01:46  6 yeni haber",
-  "24.11 14:46:05  8 yeni haber"
+  "24.11 15:01:46  6 yeni haber"
  ],
  "otomatik": false
 }
