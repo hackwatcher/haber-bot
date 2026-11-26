@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "e11eeab75b7f": {
-   "id": "e11eeab75b7f",
-   "kaynak": "AA",
-   "baslik": "Ege Denizi'nde 4,2 büyüklüğünde deprem",
-   "ozet": "Ege Denizi'nde saat 02.42'de 4,2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ege-denizinde-4-2-buyuklugunde-deprem/4133893",
-   "zaman": "2026-11-23T03:04:40+03:00",
-   "kelimeler": [
-    "buyuk",
-    "deniz",
-    "depre",
-    "ege",
-    "nde"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "7890136a38fd"
-  },
-  "e66d5044c8f4": {
-   "id": "e66d5044c8f4",
-   "kaynak": "NTV",
-   "baslik": "Muğla açıklarında 4,2 büyüklüğünde deprem",
-   "ozet": "Ege Denizi'nde Muğla açıklarında 4,2 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/turkiye/mugla-aciklarinda-42-buyuklugunde-deprem-1752118",
-   "zaman": "2026-11-23T03:06:08+03:00",
-   "kelimeler": [
-    "acikl",
-    "buyuk",
-    "depre",
-    "mugla"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "f2018803d570": {
-   "id": "f2018803d570",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 23 Kasım 2026",
-   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 23 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-23-kasim-2026-1752119",
-   "zaman": "2026-11-23T03:10:00+03:00",
-   "kelimeler": [
-    "2026",
-    "23",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "mugla",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "019f9cbabd94"
-  },
   "89e695bbfabf": {
    "id": "89e695bbfabf",
    "kaynak": "BBC Türkçe",
@@ -30611,7 +30554,10 @@
     "vaadi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "6e205e614472": {
    "id": "6e205e614472",
@@ -30748,9 +30694,73 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "0f44e250aa03"
+  },
+  "7a3454d0e4fc": {
+   "id": "7a3454d0e4fc",
+   "kaynak": "NTV",
+   "baslik": "Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında",
+   "ozet": "Beykoz'da 3 katlı villaya düzenlenen uyuşturucu operasyonunda 1 kişi gözaltına alındı.",
+   "link": "https://www.ntv.com.tr/turkiye/villayi-uyusturucu-serasini-cevirmis-bir-kisi-gozaltinda-1752599",
+   "zaman": "2026-11-26T03:01:40+03:00",
+   "kelimeler": [
+    "cevir",
+    "gozal",
+    "kisi",
+    "seras",
+    "uyust",
+    "villa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f7d56d10ac28": {
+   "id": "f7d56d10ac28",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Avrupa'nın tartışmalı 'Ruanda'ya sürgün' planı düzensiz göçmenleri nasıl etkileyecek?",
+   "ozet": "Göç uzmanları, Almanya'nın da aralarında yer aldığı 5 Avrupa Birliği (AB) üyesi ülkenin istenmeyen göçmenleri Ruanda'ya gönderme planını \"Avrupa demokrasisini zayıflatan\" bir girişim olarak nitelendiriyor. Peki Avrupa hükümetlerinin bu planının arkasında ne yatıyor?",
+   "link": "https://www.bbc.com/turkce/articles/cw05360g5p0ro",
+   "zaman": "2026-11-26T03:13:12+03:00",
+   "kelimeler": [
+    "avrup",
+    "duzen",
+    "etkil",
+    "gocme",
+    "nasil",
+    "nin",
+    "plani",
+    "ruand",
+    "surgu",
+    "tarti",
+    "ya"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2f0efca99659": {
+   "id": "2f0efca99659",
+   "kaynak": "NTV",
+   "baslik": "Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması",
+   "ozet": "İzmir'de kendisini \"mehdi\" olarak tanıtarak şifa vaaden kişi, bir aileyi 3 milyon TL dolandırmak ve cinsel istismarda bulunduğu suçlamasıyla tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/sahte-mehdi-tutuklandi-sifa-vaadi-ile-dolandiricilik-ve-cinsel-istismar-suclamasi-1752600",
+   "zaman": "2026-11-26T03:13:17+03:00",
+   "kelimeler": [
+    "cinse",
+    "dolan",
+    "istis",
+    "mehdi",
+    "sahte",
+    "sifa",
+    "sucla",
+    "tutuk",
+    "vaadi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "aac19f0dc480"
   }
  },
  "kayit": [
+  "26.11 03:16:04  2 yeni haber",
   "26.11 02:31:48  1 yeni haber",
   "26.11 02:15:55  1 yeni haber",
   "26.11 02:01:32  2 yeni haber",
@@ -30949,8 +30959,7 @@
   "23.11 21:45:59  4 yeni haber",
   "23.11 21:31:33  2 yeni haber",
   "23.11 21:16:01  2 yeni haber",
-  "23.11 21:01:30  1 yeni haber",
-  "23.11 20:46:17  2 yeni haber"
+  "23.11 21:01:30  1 yeni haber"
  ],
  "otomatik": false
 }
