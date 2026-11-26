@@ -20266,7 +20266,10 @@
     "yetki"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "20f99286a766": {
    "id": "20f99286a766",
@@ -31218,7 +31221,8 @@
    "durum": "yeni",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "TRT Haber"
    ]
   },
   "6d83b469a3be": {
@@ -31472,9 +31476,227 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "025dd474ff6f"
+  },
+  "cb16836b079f": {
+   "id": "cb16836b079f",
+   "kaynak": "AA",
+   "baslik": "\"İsmail Sarıkaya Sarı Kırmızı Kareler\" fotoğraf yarışmasının ödül töreni yapıldı",
+   "ozet": "1905 Galatasaraylı Yönetici ve İş İnsanları Derneği (1905 GSYİAD) tarafından bu yıl 24. kez düzenlenen \"İsmail Sarıkaya Sarı Kırmızı Kareler\" fotoğraf yarışmasının ödül töreni gerçekleştirildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/ismail-sarikaya-sari-kirmizi-kareler-fotograf-yarismasinin-odul-toreni-yapildi/4139345",
+   "zaman": "2026-11-26T18:56:42+03:00",
+   "kelimeler": [
+    "fotog",
+    "ismai",
+    "karel",
+    "kirmi",
+    "odul",
+    "sari",
+    "sarik",
+    "toren",
+    "yapil",
+    "yaris"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "26500b3d0434": {
+   "id": "26500b3d0434",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri'nden Avrupa Parlamentosu'na Libya tepkisi",
+   "ozet": "Dışişleri Bakanlığı, Avrupa Parlamentosu'nun (AP) Türkiye ile Libya arasında 2019 yılında imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ettiği kararı reddettiğini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/disislerinden-avrupa-parlamentosuna-libya-tepkisi-43392345",
+   "zaman": "2026-11-26T18:59:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "disis",
+    "libya",
+    "na",
+    "nden",
+    "parla",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "d54f7bc67027": {
+   "id": "d54f7bc67027",
+   "kaynak": "AA",
+   "baslik": "Sağlık Bakanlığından İlk Defa ve Yeniden Atama Kurası'na ilişkin açıklama",
+   "ozet": "Sağlık Bakanlığı, 2026 Yılı 3. Dönem İlk Defa ve Yeniden Atama Kurası'nın tamamlanmasının ardından, ekranda adı \"İŞ\", soyadı \"YERİ\" olarak görünen kaydın incelendiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama/4139352",
+   "zaman": "2026-11-26T19:00:15+03:00",
+   "kelimeler": [
+    "acikl",
+    "atama",
+    "bakan",
+    "defa",
+    "ilisk",
+    "ilk",
+    "kuras",
+    "na",
+    "sagli",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a885df50ab5a": {
+   "id": "a885df50ab5a",
+   "kaynak": "TRT Haber",
+   "baslik": "Dışişleri Bakanlığı'ndan Avrupa Parlamentosu'nun Libya kararına tepki",
+   "ozet": "Dışişleri Bakanlığı, Avrupa Parlamentosu AP Genel Kurulu'nda, Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul edilen, \"taraflı ve mesnetsiz iddialar içeren kararın\" reddedildiğini açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanligindan-avrupa-parlamentosunun-libya-kararina-tepki-964573.html",
+   "zaman": "2026-11-26T19:01:00+03:00",
+   "kelimeler": [
+    "avrup",
+    "bakan",
+    "disis",
+    "karar",
+    "libya",
+    "ndan",
+    "nun",
+    "parla",
+    "tepki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "26500b3d0434"
+  },
+  "100cf1173248": {
+   "id": "100cf1173248",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Gerard Depardieu, aktris Arnould'ya tecavüz suçlamasıyla yargılanacak",
+   "ozet": "Fransız sinemasının önde gelen isimlerinden Gerard Depardieu, aktris Charlotte Arnould'ya sekiz yıl önce tecavüz ettiği iddiasıyla yargılanacak. Davada 7 Ağustos 2018 günü yaşanan olaylar dinlenecek.",
+   "link": "https://www.bbc.com/turkce/articles/cqrmg478l99yo",
+   "zaman": "2026-11-26T19:02:06+03:00",
+   "kelimeler": [
+    "aktri",
+    "arnou",
+    "depar",
+    "gerar",
+    "sucla",
+    "tecav",
+    "ya",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e40eef61b680": {
+   "id": "e40eef61b680",
+   "kaynak": "AA",
+   "baslik": "Türkiye'den AP Genel Kurulu'nda Türkiye-Libya deniz yetki alanı anlaşmasına ilişkin alınan karara tepki",
+   "ozet": "Dışişleri Bakanlığı, AP Genel Kurulu'nda, Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına dair Mutabakat Muhtırası hakkında kabul edilen, \"taraflı ve mesnetsiz iddialar içeren kararın\" reddedildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-ap-genel-kurulunda-turkiye-libya-deniz-yetki-alani-anlasmasina-iliskin-alinan-karara-tepki/4139353",
+   "zaman": "2026-11-26T19:03:54+03:00",
+   "kelimeler": [
+    "alani",
+    "alina",
+    "anlas",
+    "ap",
+    "den",
+    "deniz",
+    "genel",
+    "ilisk",
+    "karar",
+    "kurul",
+    "libya",
+    "nda",
+    "tepki",
+    "turki",
+    "yetki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c54336eb1117"
+  },
+  "67dc0d2797b8": {
+   "id": "67dc0d2797b8",
+   "kaynak": "TRT Haber",
+   "baslik": "Borsa günü yükselişle tamamladı",
+   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-964574.html",
+   "zaman": "2026-11-26T19:04:00+03:00",
+   "kelimeler": [
+    "borsa",
+    "gunu",
+    "tamam",
+    "yukse"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a8677afc9e39"
+  },
+  "7e7eb42a5311": {
+   "id": "7e7eb42a5311",
+   "kaynak": "Hürriyet",
+   "baslik": "Fon soruşturmasına ilişkin ortak açıklama",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek, fon soruşturmasıyla ilgili açıklamalarda bulunuyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-fon-sorusturmasina-iliskin-ortak-aciklama-43392349",
+   "zaman": "2026-11-26T19:09:47+03:00",
+   "kelimeler": [
+    "acikl",
+    "fon",
+    "ilisk",
+    "ortak",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f44e250aa03"
+  },
+  "2614503c4477": {
+   "id": "2614503c4477",
+   "kaynak": "NTV",
+   "baslik": "Fon soruşturmasıyla ilgili ortak basın toplantısı. Yılmaz, Şimşek ve Gürlek açıklama yapıyor",
+   "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ve Adalet Bakanı Akın Gürlek fon soruşturmasındaki gelişmeleri aktarıyor.",
+   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-aciklama-yapiyor-1752748",
+   "zaman": "2026-11-26T19:10:12+03:00",
+   "kelimeler": [
+    "acikl",
+    "basin",
+    "fon",
+    "gurle",
+    "ilgil",
+    "ortak",
+    "simse",
+    "sorus",
+    "topla",
+    "yapiy",
+    "yilma"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0f44e250aa03"
+  },
+  "284573d90ceb": {
+   "id": "284573d90ceb",
+   "kaynak": "AA",
+   "baslik": "Rusya'daki Slavyansk petrol rafinerisi İHA saldırısında ağır hasar gördü",
+   "ozet": "Rusya'nın Krasnodar bölgesinde bulunan Slavyansk petrol rafinerisinin insansız hava aracı (İHA) saldırısında ağır hasar gördüğü ve tesiste petrol sızıntısı yaşandığı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyadaki-slavyansk-petrol-rafinerisi-iha-saldirisinda-agir-hasar-gordu/4139357",
+   "zaman": "2026-11-26T19:10:42+03:00",
+   "kelimeler": [
+    "agir",
+    "daki",
+    "gordu",
+    "hasar",
+    "iha",
+    "petro",
+    "rafin",
+    "rusya",
+    "saldi",
+    "slavy"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 19:16:08  5 yeni haber",
   "26.11 19:01:22  3 yeni haber",
   "26.11 18:46:04  3 yeni haber",
   "26.11 18:31:17  5 yeni haber",
@@ -31673,8 +31895,7 @@
   "24.11 16:04:07  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Kemal Kılıçdaroğlu:",
   "24.11 16:01:32  5 yeni haber",
   "24.11 15:45:54  2 yeni haber",
-  "24.11 15:31:19  9 yeni haber",
-  "24.11 15:16:07  2 yeni haber"
+  "24.11 15:31:19  9 yeni haber"
  ],
  "otomatik": false
 }
