@@ -1,62 +1,5 @@
 {
  "haberler": {
-  "5eb021977ff7": {
-   "id": "5eb021977ff7",
-   "kaynak": "AA",
-   "baslik": "Ukrayna: Rusya'da iki petrol rafinerisi ve bir petrol pompalama istasyonunu hedef aldık",
-   "ozet": "Ukrayna ordusu ve güvenlik güçlerinin Rusya'daki iki farklı petrol rafinerisi ile bir petrol pompalama istasyonuna saldırılar düzenlediği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyada-iki-petrol-rafinerisi-ve-bir-petrol-pompalama-istasyonunu-hedef-aldik/4135077",
-   "zaman": "2026-11-23T21:50:55+03:00",
-   "kelimeler": [
-    "aldik",
-    "hedef",
-    "iki",
-    "istas",
-    "petro",
-    "pompa",
-    "rafin",
-    "rusya",
-    "ukray"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a4d91f555d35": {
-   "id": "a4d91f555d35",
-   "kaynak": "XHABER",
-   "baslik": "Lvbel C5 ve Batuflex, yeni albümlerinde yer alan bir şarkıya 'Dersimli' adını verdi.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30880",
-   "zaman": "2026-11-23T21:56:38+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Lvbel C5 ve Batuflex, yeni albümlerinde yer alan bir şarkıya 'Dersimli' adını verdi.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/lfRCrBRSLvL7dbWaWSxbvp-L2PtURaYBcRp668c3nAp_bKt09_dK5kJrt9T-p-0uT8nLx5OTLCXAzyBaBO-JA2c3f4fkGLusYugEb2hSMzh1shXHvHi4WCL8B3EWWMX1DP-bWqYP-y1rxDLOS-HNxGOCtKXace7CqqERfxCJd9ZwbFdC4ZuNkgVy0App3S4AFgzoxeJkyfeCIQMdlCAKKe-AaStIs-rOt9rRQhjRgyv4qxcXPWoaccf69APpA0DP3klwD_xGgLQrAqF7vM5ivMqCWyF_7fLfW5wo2gfH8uCdf78bJhK7PFteW387WBmSIN1Zm0UQvwWaYp0PIijfzw.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "adini",
-    "alan",
-    "album",
-    "batuf",
-    "c5",
-    "dersi",
-    "lvbel",
-    "sarki",
-    "verdi",
-    "yeni",
-    "yer"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": false,
-   "paylasildi": "2026-11-24T00:02:49.024540+03:00",
-   "ig_id": "18110151838979887",
-   "reels_id": null,
-   "story_id": "18116616740593604",
-   "yorum_id": null,
-   "fb_id": "1276642895542042_122119729029472027",
-   "fb_reels_id": null,
-   "slayt": 4,
-   "kanca": "DERSİMLİ ŞARKISI"
-  },
   "ac6c75b08ffe": {
    "id": "ac6c75b08ffe",
    "kaynak": "TRT Haber",
@@ -31057,7 +31000,8 @@
     "taraf"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3e3561d56395": {
    "id": "3e3561d56395",
@@ -31842,7 +31786,8 @@
     "taraf"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "f09f4fb036d9": {
    "id": "f09f4fb036d9",
@@ -31950,7 +31895,10 @@
     "sundu"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "7db55bec73cb": {
    "id": "7db55bec73cb",
@@ -32001,9 +31949,123 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "12dbcf75cc12": {
+   "id": "12dbcf75cc12",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD merkezli sosyal medya platformu X, ebeveyn denetimi özelliğini kullanıma sundu",
+   "ozet": "ABD merkezli sosyal medya platformu X, \"ebeveyn denetimi\" özelliğinin kullanıma sunulduğunu duyurdu.",
+   "link": "https://www.trthaber.com/haber/dunya/abd-merkezli-sosyal-medya-platformu-x-ebeveyn-denetimi-ozelligini-kullanima-sundu-964586.html",
+   "zaman": "2026-11-26T21:42:00+03:00",
+   "kelimeler": [
+    "abd",
+    "denet",
+    "ebeve",
+    "kulla",
+    "medya",
+    "merke",
+    "ozell",
+    "platf",
+    "sosya",
+    "sundu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c6cb96dbc770"
+  },
+  "95d2da4de4e2": {
+   "id": "95d2da4de4e2",
+   "kaynak": "XHABER",
+   "baslik": "Beşiktaş taraftarı, Türkiye ve Filistin bayraklarına dokunulmasına izin vermiyor.",
+   "ozet": "Tüm Türk takımlarının forması tribünlerde mevcut Tüm Türkiye, tek yürek. 🇹🇷",
+   "link": "https://t.me/sahinozkan000/30950",
+   "zaman": "2026-11-26T21:46:39+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Beşiktaş taraftarı, Türkiye ve Filistin bayraklarına dokunulmasına izin vermiyor.\nTüm Türk takımlarının forması tribünlerde mevcut Tüm Türkiye, tek yürek. 🇹🇷",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/uWE92xsSrHwvkExLWuAttXChxNkFZVMawMGT-VVJ5lX5S_SlrfgjvVwHRXN-Jyv9u0qh__q7eI3DREJdeY-HkjiCVPu8OWwpZOFRGBXItP1Di8Iv3e0bq3G_eEFjqIuh3tU86Vd7qZKbeWWMzOYTHwC0Y4ZMYu2y2egp1TOc9aD8mc2_8EMy6Zd_tWX4YdwWSCqunL_ij8ABKvKa0KUcVrEPi-z7-nHEFtMXzfPaAruzWkzsO3YvUYnpBoSHwgU6tlnE5ZPVjLN81QYx8DxnXuGcdhbYWih6nypzv9f5lftRBpJggwZHv_timq-PT5FGP3X8LNX3L65wWLesV6o9pA.jpg",
+   "tg_video_url": "",
+   "kelimeler": [
+    "bayra",
+    "besik",
+    "dokun",
+    "filis",
+    "izin",
+    "taraf",
+    "turki",
+    "vermi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "60c6d312d910"
+  },
+  "0de127db1bfb": {
+   "id": "0de127db1bfb",
+   "kaynak": "TRT Haber",
+   "baslik": "AK Parti Sözcüsü Çelik: Beşiktaş taraftarlarına yapılan müdahale kabul edilemez",
+   "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Gürcistanda oynanan maçta 'Filistin'e özgürlük' pankartı ve Filistin bayrağı açan Beşiktaş taraftarlarına yapılan müdahale ve şiddet kabul edilemez.\" dedi.",
+   "link": "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-besiktas-taraftarlarina-yapilan-mudahale-kabul-edilemez-964587.html",
+   "zaman": "2026-11-26T21:51:00+03:00",
+   "kelimeler": [
+    "ak",
+    "besik",
+    "celik",
+    "edile",
+    "kabul",
+    "mudah",
+    "parti",
+    "sozcu",
+    "taraf",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a9eb08b91d24": {
+   "id": "a9eb08b91d24",
+   "kaynak": "XHABER",
+   "baslik": "SONDAKİKA | Gürcü polisi, bir Beşiktaş taraftarına yumruk atarak bayılttı.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30951",
+   "zaman": "2026-11-26T21:53:35+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "SONDAKİKA | Gürcü polisi, bir Beşiktaş taraftarına yumruk atarak bayılttı.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/tAdDwpy8l1S3cjYhi4htVkpBhu-ht_UalxgKwkvXYvSW8eLLW6dHTPwIMHpPeFnBjTOdlcb7xiJ5nOjnzBC-CqfwGhQgYe8SUXPFfuUBUnYKslBkGcz8__NmYEVcyD70--i6woWDLABGXVkK2qO1o5o2VoYCiWgm3YKAWNXDZIhBh4ksCDi4Ectzws4S_uIeeLKDu2MMOXKj-t0oZxLKzFd8PQWWINosna0rwKkO65nxo49GfNwZLXJFRek3FF_nq-JhEty7nlh_Kgaw4-7SAcZnXVbzMZDA5_ea-6Z4wX-CNjFX1rFZP0CyGjDz6RG9_ZWbvkJvNeGGs6Lz04q4jQ",
+   "tg_video_url": "https://cdn4.telesco.pe/file/9603fb1a34.mp4?token=rZUbvP5MUWcdeKDl8Bndr4OHxhIcdmMys7v0Bh8AZUD6gforX2RtMqObpUwLraEB8taTzYo-Y9_pk0L_qjnx1ZLS0DHyZS9WuG-2NHaQ3B5k_OH6piET5TOBqx7diKXMb4yeqA_URqlMnHLA2iY2w647LKlFLtqVRncJolxYOUXHZ6WvO_lAPlvcMOnPZcCl0nS2MJlCtlHw_mT5FMkCt6buIDriH4oozbR9r9N3DHRmUruavsvbfnOXKIYTU-i4UZbhxbszYRRzCbj4njpJqd6vsBAy6lDfmnU9UgnsGW-mWE1X-sgJzUO6M92iZHFeXyD4YnyfjzjCE7l1r740O4i-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ",
+   "kelimeler": [
+    "atara",
+    "bayil",
+    "besik",
+    "gurcu",
+    "polis",
+    "sonda",
+    "taraf",
+    "yumru"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6c57068be5cd"
+  },
+  "86b9fd09f809": {
+   "id": "86b9fd09f809",
+   "kaynak": "NTV",
+   "baslik": "Gürcistan'da Beşiktaş taraftarlarına müdahaleye siyasilerden tepki",
+   "ozet": "Gürcistan'da oynanan maçta Beşiktaş taraftarlarına yönelik müdahaleye AK Parti Sözcüsü Ömer Çelik ile Gençlik ve Spor Bakanı Osman Aşkın Bak tepki gösterdi.",
+   "link": "https://www.ntv.com.tr/turkiye/gurcistanda-besiktas-taraftarlarina-mudahaleye-siyasilerden-tepki-1752754",
+   "zaman": "2026-11-26T22:00:44+03:00",
+   "kelimeler": [
+    "besik",
+    "gurci",
+    "mudah",
+    "siyas",
+    "taraf",
+    "tepki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "26.11 22:01:18  2 yeni haber",
   "26.11 21:45:52  5 yeni haber",
   "26.11 21:31:08  6 yeni haber",
   "26.11 21:16:04  2 yeni haber",
@@ -32202,8 +32264,7 @@
   "24.11 18:16:04  2 yeni haber",
   "24.11 18:01:22  4 yeni haber",
   "24.11 17:49:26  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Girne’de batan gemi ve kayıp 27 can | 400 liralık yapıştırıcı iddiası:",
-  "24.11 17:46:07  2 yeni haber",
-  "24.11 17:46:07  Akış okunamadı: Hürriyet: not well-formed (invalid token): line 1, column 5099"
+  "24.11 17:46:07  2 yeni haber"
  ],
  "otomatik": false
 }
