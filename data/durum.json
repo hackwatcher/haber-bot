@@ -1,88 +1,5 @@
 {
  "haberler": {
-  "b9f8d7353feb": {
-   "id": "b9f8d7353feb",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel ham çelik üretimi azaldı",
-   "ozet": "Küresel ham çelik üretimi ekimde geçen yılın aynı ayına göre yüzde 1,1 azalarak 142,4 milyon ton oldu.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-ham-celik-uretimi-azaldi-964339.html",
-   "zaman": "2026-11-24T16:49:00+03:00",
-   "kelimeler": [
-    "azald",
-    "celik",
-    "ham",
-    "kures",
-    "ureti"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d1498b0f587f"
-  },
-  "93638ff6cdc9": {
-   "id": "93638ff6cdc9",
-   "kaynak": "Hürriyet",
-   "baslik": "Demirören Medya ve Teknoloji MTAL’de 24 Kasım Öğretmenler Günü etkinliği",
-   "ozet": "Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi’nde 24 Kasım Öğretmenler Günü kapsamında kutlama yemeği düzenlendi. Öğretmenler Günü dolayısıyla gerçekleştirilen programda, eğitimcilerle kutlama yapıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/demiroren-medya-ve-teknoloji-mtalde-24-kasim-ogretmenler-gunu-etkinligi-43389644",
-   "zaman": "2026-11-24T16:52:00+03:00",
-   "kelimeler": [
-    "24",
-    "demir",
-    "etkin",
-    "gunu",
-    "kasim",
-    "medya",
-    "mtal",
-    "ogret",
-    "tekno"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "f34829057753": {
-   "id": "f34829057753",
-   "kaynak": "Hürriyet",
-   "baslik": "Yol açmak için korna çalan ambulansa dönüş yolunda saldırı: O anlar kamerada",
-   "ozet": "İzmir Konak’ta çift şeritli yoldaki park araçları nedeniyle korna çalan acil tıp teknisyeni, hastasını bıraktıktan sonra kırmızı ışıkta darbedildi. İş yeri kamerasına yansıyan olayın ardından çenesinden yaralanan şoför darp raporu aldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/yol-acmak-icin-korna-calan-ambulansa-donus-yolunda-saldiri-o-anlar-kamerada-43389658",
-   "zaman": "2026-11-24T17:00:33+03:00",
-   "kelimeler": [
-    "acmak",
-    "ambul",
-    "anlar",
-    "calan",
-    "donus",
-    "kamer",
-    "korna",
-    "saldi",
-    "yol",
-    "yolun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "10f20bd8781c": {
-   "id": "10f20bd8781c",
-   "kaynak": "AA",
-   "baslik": "Rami Kütüphanesi'nde ileri düzey masal anlatıcılığı eğitimi düzenlenecek",
-   "ozet": "Rami Kütüphanesi, sözlü kültür mirasının önemli unsurlarından masal anlatıcılığı geleneğini yaşatmak ve bu alanda yeni anlatıcılar yetiştirmek amacıyla \"Drama Teknikleri ile İleri Düzey Masal Anlatıcılığı Eğitimi\" programı düzenleyecek.",
-   "link": "https://www.aa.com.tr/tr/kultur/rami-kutuphanesinde-ileri-duzey-masal-anlaticiligi-egitimi-duzenlenecek/4135979",
-   "zaman": "2026-11-24T17:01:05+03:00",
-   "kelimeler": [
-    "anlat",
-    "duzen",
-    "duzey",
-    "egiti",
-    "ileri",
-    "kutup",
-    "masal",
-    "nde",
-    "rami"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "0e0cb611c5da"
-  },
   "51aa3f7bbfb0": {
    "id": "51aa3f7bbfb0",
    "kaynak": "AA",
@@ -2490,30 +2407,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "5c10448aec1f": {
-   "id": "5c10448aec1f",
-   "kaynak": "AA",
-   "baslik": "Türk takımı İstanbul Warriors, binicilikte Dünya Şampiyonlar Ligi Süper Kupası'nı kazandı",
-   "ozet": "Carpe Diem Binicilik Takımı'nın kurduğu Türk ekibi İstanbul Warriors, İtalya'da düzenlenen 2026 Dünya Şampiyonlar Ligi Süper Kupası'nın (GCL) sahibi oldu.",
-   "link": "https://www.aa.com.tr/tr/spor/turk-takimi-istanbul-warriors-binicilikte-dunya-sampiyonlar-ligi-super-kupasini-kazandi-/4135967",
-   "zaman": "2026-11-24T16:55:27+03:00",
-   "kelimeler": [
-    "binic",
-    "dunya",
-    "istan",
-    "kazan",
-    "kupas",
-    "ligi",
-    "ni",
-    "sampi",
-    "super",
-    "takim",
-    "turk",
-    "warri"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
   },
   "273bbd6294f1": {
    "id": "273bbd6294f1",
@@ -21165,7 +21058,10 @@
     "yemen"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "e86e6728a74f": {
    "id": "e86e6728a74f",
@@ -31812,7 +31708,8 @@
     "yonel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "7f8e7d0e41b7": {
    "id": "7f8e7d0e41b7",
@@ -31926,9 +31823,156 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "39852f20b244"
+  },
+  "7cecb9992723": {
+   "id": "7cecb9992723",
+   "kaynak": "AA",
+   "baslik": "Ukrayna'nın Rusya'ya yönelik saldırılarındaki menzil artışı dikkati çekiyor",
+   "ozet": "Ukrayna, Rusya içine yaptığı saldırılarda menzilini artırmaya devam ederken Libya gibi üçüncü ülkelerde de Rus unsurlara saldırılar düzenliyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/ukraynanin-rusyaya-yonelik-saldirilarindaki-menzil-artisi-dikkati-cekiyor/4140467",
+   "zaman": "2026-11-27T16:16:49+03:00",
+   "kelimeler": [
+    "artis",
+    "cekiy",
+    "dikka",
+    "menzi",
+    "nin",
+    "rusya",
+    "saldi",
+    "ukray",
+    "ya",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5de02067c6c5"
+  },
+  "48f237b4ee2f": {
+   "id": "48f237b4ee2f",
+   "kaynak": "TRT Haber",
+   "baslik": "DEİK, Helal Expo 2026da TürkiyeYemen İş Forumu düzenledi",
+   "ozet": "Türkiye ile Yemen arasındaki ticari ve ekonomik ilişkilerin geliştirilmesi, karşılıklı yatırımların artırılması ve yeni iş birliklerinin kurulması amacıyla 12. Dünya Helal Zirvesi ve Helal Expo 2026 kapsamında TürkiyeYemen İş Forumu düzenlendi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/deik-helal-expo-2026da-turkiye-yemen-is-forumu-duzenledi-964672.html",
+   "zaman": "2026-11-27T16:50:00+03:00",
+   "kelimeler": [
+    "2026d",
+    "deik",
+    "duzen",
+    "expo",
+    "forum",
+    "helal",
+    "is",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "c2d698bb06b1"
+  },
+  "bc241eda00ab": {
+   "id": "bc241eda00ab",
+   "kaynak": "AA",
+   "baslik": "Hamas'ın lideri Hayye'nin hayattaki tek oğlu ve ailesi İsrail'in saldırısından sağ kurtuldu",
+   "ozet": "Hamas lideri Halil el-Hayye'nin hayatta kalan tek oğlu ve ailesinin İsrail tarafından düzenlenen saldırıdan sağ kurtulduğu bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/hamasin-lideri-hayyenin-hayattaki-tek-oglu-ve-ailesi-israilin-saldirisindan-sag-kurtuldu/4140531",
+   "zaman": "2026-11-27T16:50:45+03:00",
+   "kelimeler": [
+    "ailes",
+    "hamas",
+    "hayat",
+    "hayye",
+    "in",
+    "israi",
+    "kurtu",
+    "lider",
+    "nin",
+    "oglu",
+    "sag",
+    "saldi",
+    "tek"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "fbfddf95520a": {
+   "id": "fbfddf95520a",
+   "kaynak": "AA",
+   "baslik": "İsrail Meclis Başkanı, Netanyahu’nun ülkeyi erken seçime sürüklemesine izin vermeyeceklerini söyledi",
+   "ozet": "İsrail Meclis Başkanı Matan Kahana, geçici Başbakan Binyamin Netanyahu'nun koalisyon görüşmelerini uzatarak ülkeyi yeni bir seçime sürüklemeye çalıştığını, ancak buna izin vermeyeceklerini belirtti.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-meclis-baskani-netanyahu-nun-ulkeyi-erken-secime-suruklemesine-izin-vermeyeceklerini-soyledi/4140532",
+   "zaman": "2026-11-27T16:50:58+03:00",
+   "kelimeler": [
+    "baska",
+    "erken",
+    "israi",
+    "izin",
+    "mecli",
+    "netan",
+    "nun",
+    "secim",
+    "soyle",
+    "suruk",
+    "ulkey",
+    "verme"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "543a427195af": {
+   "id": "543a427195af",
+   "kaynak": "AA",
+   "baslik": "Lübnan'da İsrail işgali altındaki bölgelerde taşınmazların satışı ve devri yasaklandı",
+   "ozet": "Lübnan Cumhurbaşkanı Joseph Avn, ülkede İsrail ordusunun işgali altındaki bölgelerde taşınmazların satışını ve devrini yasaklayan kanunu onayladı.",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnanda-israil-isgali-altindaki-bolgelerde-tasinmazlarin-satisi-ve-devri-yasaklandi/4140534",
+   "zaman": "2026-11-27T16:51:30+03:00",
+   "kelimeler": [
+    "altin",
+    "bolge",
+    "devri",
+    "isgal",
+    "israi",
+    "lubna",
+    "satis",
+    "tasin",
+    "yasak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "58941711358f": {
+   "id": "58941711358f",
+   "kaynak": "Hürriyet",
+   "baslik": "3 çocuğun peş peşe ölümü seri cinayet çıktı! 22 yıl sonra aralanan sır perdesinde kan donduran detaylar: Kıydığı canlardan biri kendi evladıymış",
+   "ozet": "Adalet Bakanı Akın Gürlek, İstanbul Kağıthane'de 2004 ve 2005 yıllarında aynı apartmanda 3 çocuğun ölümüne ilişkin dosyanın yeniden ele alındığını ve bu kapsamda 7 şüphelinin gözaltına alındığını duyumuştu. Korkunç olayın ayrıntıları ortaya çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/3-cocugun-pes-pese-olumu-seri-cinayet-cikti-22-yil-sonra-aralanan-sir-perdesinde-kan-donduran-detaylar-kiydigi-canlardan-biri-kendi-43393428",
+   "zaman": "2026-11-27T16:53:06+03:00",
+   "kelimeler": [
+    "22",
+    "arala",
+    "biri",
+    "canla",
+    "cikti",
+    "cinay",
+    "cocug",
+    "detay",
+    "dondu",
+    "evlad",
+    "kan",
+    "kendi",
+    "kiydi",
+    "olumu",
+    "perde",
+    "pes",
+    "pese",
+    "seri",
+    "sir",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 17:01:25  4 yeni haber",
   "27.11 16:46:04  5 yeni haber",
   "27.11 16:31:13  5 yeni haber",
   "27.11 16:19:18  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · İstanbul'da suç örgütlerine operasyonda 46 şüpheli tutuklandı",
@@ -32127,8 +32171,7 @@
   "25.11 12:46:02  5 yeni haber",
   "25.11 12:34:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · ABD Başkanı Trump: İran'la savaşı istediğimiz zaman bitirebiliriz",
   "25.11 12:31:13  9 yeni haber",
-  "25.11 12:16:30  15 yeni haber",
-  "25.11 12:01:33  14 yeni haber"
+  "25.11 12:16:30  15 yeni haber"
  ],
  "otomatik": false
 }
