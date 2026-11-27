@@ -1,100 +1,5 @@
 {
  "haberler": {
-  "b9aa84026767": {
-   "id": "b9aa84026767",
-   "kaynak": "AA",
-   "baslik": "İstanbul'da yüksek katlı binalara yıldırım düşmesi görüntülendi",
-   "ozet": "İstanbul'da etkili olan yağış sırasında Çamlıca Kulesi ile yüksek katlı bir binaya düşen yıldırım cep telefonu kamerasıyla kaydedildi.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-yuksek-katli-binalara-yildirim-dusmesi-goruntulendi/4135224",
-   "zaman": "2026-11-24T08:49:31+03:00",
-   "kelimeler": [
-    "binal",
-    "dusme",
-    "gorun",
-    "istan",
-    "katli",
-    "yildi",
-    "yukse"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "a19e3f014b98": {
-   "id": "a19e3f014b98",
-   "kaynak": "AA",
-   "baslik": "İsrail'in Gazze'ye düzenlediği İHA saldırısında 3 Filistinli hayatını kaybetti",
-   "ozet": "İsrail ordusunun Gazze Şeridi'nin güneyindeki Han Yunus kentine insansız hava aracıyla (İHA) düzenlediği saldırıda 3 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-iha-saldirisinda-3-filistinli-hayatini-kaybetti/4135231",
-   "zaman": "2026-11-24T08:57:05+03:00",
-   "kelimeler": [
-    "duzen",
-    "filis",
-    "gazze",
-    "hayat",
-    "iha",
-    "in",
-    "israi",
-    "kaybe",
-    "saldi",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e56d62054473"
-  },
-  "1fa39337589f": {
-   "id": "1fa39337589f",
-   "kaynak": "TRT Haber",
-   "baslik": "Fenerbahçe, Shakhtar Donetsk ile İngiltere'de karşılaşacak",
-   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin beşinci haftasında yarın Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'de karşı karşıya gelecek.",
-   "link": "https://www.trthaber.com/haber/turkiye/fenerbahce-shakhtar-donetsk-ile-ingilterede-karsilasacak-964250.html",
-   "zaman": "2026-11-24T08:54:00+03:00",
-   "kelimeler": [
-    "donet",
-    "fener",
-    "ingil",
-    "karsi",
-    "shakh"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "52626a310f40"
-  },
-  "53cc3042df92": {
-   "id": "53cc3042df92",
-   "kaynak": "TRT Haber",
-   "baslik": "Galatasaray bugün Aston Villa'yı ağırlayacak",
-   "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftasında bugün İngiltere'nin Aston Villa takımını konuk edecek. Karşılaşma, Türkiye'de TRT 1 ve tabii platformundan yayımlanacak.",
-   "link": "https://www.trthaber.com/haber/turkiye/galatasaray-bugun-aston-villayi-agirlayacak-964251.html",
-   "zaman": "2026-11-24T08:57:00+03:00",
-   "kelimeler": [
-    "agirl",
-    "aston",
-    "bugun",
-    "galat",
-    "villa",
-    "yi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "79dcc594e07f"
-  },
-  "64b30a3189cc": {
-   "id": "64b30a3189cc",
-   "kaynak": "TRT Haber",
-   "baslik": "Batı Akdeniz için fırtına uyarısı",
-   "ozet": "Batı Akdeniz'de rüzgarın öğle saatlerinden itibaren batı ve güneybatı yönlerden fırtına şeklinde esmesi bekleniyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/bati-akdeniz-icin-firtina-uyarisi-964252.html",
-   "zaman": "2026-11-24T09:00:00+03:00",
-   "kelimeler": [
-    "akden",
-    "bati",
-    "firti",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "69de4e5ab5ac": {
    "id": "69de4e5ab5ac",
    "kaynak": "TRT Haber",
@@ -211,25 +116,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ba3cf2235e84"
-  },
-  "8a2f9a2f8c0f": {
-   "id": "8a2f9a2f8c0f",
-   "kaynak": "AA",
-   "baslik": "Fenerbahçe, Shakhtar Donetsk ile İngiltere'de karşı karşıya gelecek",
-   "ozet": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin beşinci haftasında yarın Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'de karşı karşıya gelecek.",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-shakhtar-donetsk-ile-ingilterede-karsi-karsiya-gelecek/4135230",
-   "zaman": "2026-11-24T08:56:48+03:00",
-   "kelimeler": [
-    "donet",
-    "fener",
-    "gelec",
-    "ingil",
-    "karsi",
-    "shakh"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "52626a310f40"
   },
   "670016ea527a": {
    "id": "670016ea527a",
@@ -31853,7 +31739,10 @@
     "uyust"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Sözcü"
+   ]
   },
   "547bec9df72b": {
    "id": "547bec9df72b",
@@ -32590,9 +32479,76 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "248413fead0d": {
+   "id": "248413fead0d",
+   "kaynak": "AA",
+   "baslik": "Kamu alacakları için gecikme zammı oranı yüzde 3,2'ye, tecil faizi yıllık yüzde 29'a düşürüldü",
+   "ozet": "Kamu alacakları için uygulanan gecikme zammı oranı yüzde 3,7'den yüzde 3,2'ye, tecil faiz oranı ise yıllık yüzde 39'dan yüzde 29'a indirildi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kamu-alacaklari-icin-gecikme-zammi-orani-yuzde-3-2ye-tecil-faizi-yillik-yuzde-29a-dusuruldu/4139896",
+   "zaman": "2026-11-27T08:49:02+03:00",
+   "kelimeler": [
+    "29",
+    "alaca",
+    "dusur",
+    "faizi",
+    "gecik",
+    "kamu",
+    "orani",
+    "tecil",
+    "ye",
+    "yilli",
+    "yuzde",
+    "zammi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "76eda2368f61": {
+   "id": "76eda2368f61",
+   "kaynak": "TRT Haber",
+   "baslik": "Kamu alacakları için gecikme zammı oranı düşürüldü",
+   "ozet": "Kamu alacakları için uygulanan gecikme zammı oranı yüzde 3,7'den yüzde 3,2'ye, tecil faiz oranı ise yıllık yüzde 39'dan yüzde 29'a indirildi.",
+   "link": "https://www.trthaber.com/haber/ekonomi/kamu-alacaklari-icin-gecikme-zammi-orani-dusuruldu-964606.html",
+   "zaman": "2026-11-27T08:51:00+03:00",
+   "kelimeler": [
+    "alaca",
+    "dusur",
+    "gecik",
+    "kamu",
+    "orani",
+    "zammi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "248413fead0d"
+  },
+  "ea0c497abd57": {
+   "id": "ea0c497abd57",
+   "kaynak": "Sözcü",
+   "baslik": "Ünlülere uyuşturucu soruşturmasında yeni gelişme: 3 isim tutuklandı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/son-dakika-unlulere-uyusturucu-sorusturmasinda-yeni-gelisme-3-isim-tutuklandi-p384798",
+   "zaman": "2026-11-27T08:59:37+03:00",
+   "kelimeler": [
+    "gelis",
+    "isim",
+    "sorus",
+    "tutuk",
+    "unlul",
+    "uyust",
+    "yeni"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "415268bff036"
   }
  },
  "kayit": [
+  "27.11 09:01:22  1 yeni haber",
   "27.11 08:45:56  3 yeni haber",
   "27.11 08:18:27  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Uyuşturucu kullanmadık",
   "27.11 08:15:58  1 yeni haber",
@@ -32791,8 +32747,7 @@
   "25.11 01:04:08  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · Fenerbahçe Teknik Direktörü Emre Belözoğlu: İlk 24'e kalmak bizim için",
   "25.11 00:46:13  1 yeni haber",
   "25.11 00:33:32  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · 41 ilin valisi değişti, 14 vali merkeze çekildi",
-  "25.11 00:31:11  4 yeni haber",
-  "25.11 00:16:10  4 yeni haber"
+  "25.11 00:31:11  4 yeni haber"
  ],
  "otomatik": false
 }
