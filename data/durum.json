@@ -1,144 +1,5 @@
 {
  "haberler": {
-  "90f08c6b906f": {
-   "id": "90f08c6b906f",
-   "kaynak": "Hürriyet",
-   "baslik": "Muğla'da korkutan deprem",
-   "ozet": "AFAD, Muğla'nın Milas ilçesinde 4.6 büyüklüğünde deprem meydana geldiğini duyurdu.",
-   "link": "https://www.hurriyet.com.tr/gundem/son-dakika-muglada-korkutan-deprem-43389775",
-   "zaman": "2026-11-24T18:48:00+03:00",
-   "kelimeler": [
-    "depre",
-    "korku",
-    "mugla"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "TRT Haber",
-    "AA",
-    "Sözcü",
-    "NTV"
-   ],
-   "paylasildi": "2026-11-24T20:03:28.399964+03:00",
-   "ig_id": "18116585450182025",
-   "reels_id": "18098943425154131",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1930942754554897",
-   "slayt": 1,
-   "kanca": "Dikkat"
-  },
-  "3aa48884f79c": {
-   "id": "3aa48884f79c",
-   "kaynak": "TRT Haber",
-   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
-   "ozet": "Muğla'nın Milas ilçesinde 4,6 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.trthaber.com/haber/turkiye/muglada-46-buyuklugunde-deprem-964346.html",
-   "zaman": "2026-11-24T18:51:00+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "mugla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "90f08c6b906f"
-  },
-  "07086d39c949": {
-   "id": "07086d39c949",
-   "kaynak": "AA",
-   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
-   "ozet": "Muğla'nın Milas ilçesinde saat 18.39'da 4,6 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/muglada-4-6-buyuklugunde-deprem/4136118",
-   "zaman": "2026-11-24T18:54:21+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "mugla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "90f08c6b906f"
-  },
-  "0c8dc2272355": {
-   "id": "0c8dc2272355",
-   "kaynak": "Sözcü",
-   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/mugla-bodrum-deprem-24-kasim-2026-p384087",
-   "zaman": "2026-11-24T18:56:32+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "mugla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "90f08c6b906f"
-  },
-  "c0986a3faad7": {
-   "id": "c0986a3faad7",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da 4,6 büyüklüğünde deprem",
-   "ozet": "Muğla'nın Milas ilçesinde saat 18.39'da 4,6 büyüklüğünde deprem meydana geldi.",
-   "link": "https://www.ntv.com.tr/gundem/muglada-46-buyuklugunde-deprem-1752419",
-   "zaman": "2026-11-24T18:58:11+03:00",
-   "kelimeler": [
-    "buyuk",
-    "depre",
-    "mugla"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "90f08c6b906f"
-  },
-  "865fc304b84e": {
-   "id": "865fc304b84e",
-   "kaynak": "NTV",
-   "baslik": "Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 24 Kasım 2026",
-   "ozet": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 24 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğla son deprem büyüklüğü ne kadar?",
-   "link": "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-24-kasim-2026-1752420",
-   "zaman": "2026-11-24T19:00:00+03:00",
-   "kelimeler": [
-    "2026",
-    "24",
-    "afad",
-    "az",
-    "depre",
-    "kandi",
-    "kasim",
-    "liste",
-    "mugla",
-    "nered"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "90f08c6b906f"
-  },
-  "a25484628b86": {
-   "id": "a25484628b86",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: ABD, bölgede işlevsiz kalan askeri üslerini daha uzağa taşımaya çalışıyor",
-   "ozet": "İran Genelkurmay Başkanı Tümgeneral Ali Abdullahi, ABD'nin savaş sırasında zarar gören ve operasyonel olarak işlevsiz hale gelen bazı askeri üslerini daha uzak noktalara taşımaya ve o bölgelerde konuşlanmaya çalıştığını söyledi.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-abd-bolgede-islevsiz-kalan-askeri-uslerini-daha-uzaga-tasimaya-calisiyor-964347.html",
-   "zaman": "2026-11-24T18:57:00+03:00",
-   "kelimeler": [
-    "abd",
-    "asker",
-    "bolge",
-    "calis",
-    "iran",
-    "islev",
-    "kalan",
-    "tasim",
-    "usler",
-    "uzaga"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "96d4288e74e1": {
    "id": "96d4288e74e1",
    "kaynak": "AA",
@@ -269,23 +130,6 @@
     "siste",
     "ten",
     "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "56dc236c9c60": {
-   "id": "56dc236c9c60",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Recep Tayyip Erdoğan konuşuyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde \"Öğretmenlere Saygı Gecesi\" programına katılıyor.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-recep-tayyip-erdogan-konusuyor-964348.html",
-   "zaman": "2026-11-24T18:57:00+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "konus",
-    "recep",
-    "tayyi"
    ],
    "durum": "yeni",
    "oncelikli": false
@@ -606,27 +450,6 @@
    "oncelikli": true,
    "tekrar_of": "7d1589e596b1"
   },
-  "67fb7cb3f490": {
-   "id": "67fb7cb3f490",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan: Öğretmenimiz bu ülke için hayati önem arz ediyor",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Gençlerimizin bilgili, şuurlu, özgüvenli, en önemlisi de köklerinin idrakinde bir şekilde yetişmesine vesile olan öğretmenlerimiz bu ülke için hayati önem arz ediyor.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ogretmenimiz-bu-ulke-icin-hayati-onem-arz-ediyor-964348.html",
-   "zaman": "2026-11-24T18:57:00+03:00",
-   "kelimeler": [
-    "arz",
-    "cumhu",
-    "ediyo",
-    "erdog",
-    "hayat",
-    "ogret",
-    "onem",
-    "ulke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c398cb438bc3"
-  },
   "ab45e265d943": {
    "id": "ab45e265d943",
    "kaynak": "TRT Haber",
@@ -837,29 +660,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "5f6520a7fcaf"
-  },
-  "2edabad44ad1": {
-   "id": "2edabad44ad1",
-   "kaynak": "TRT Haber",
-   "baslik": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu hafta içerisinde açıklanacak",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-hafta-icerisinde-aciklanacak-964348.html",
-   "zaman": "2026-11-24T18:57:00+03:00",
-   "kelimeler": [
-    "15",
-    "acikl",
-    "alim",
-    "bin",
-    "cumhu",
-    "duyur",
-    "erdog",
-    "hafta",
-    "iceri",
-    "ogret"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c398cb438bc3"
   },
   "fe3131969033": {
    "id": "fe3131969033",
@@ -1642,24 +1442,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ea76936573bc"
-  },
-  "d0926768ee1a": {
-   "id": "d0926768ee1a",
-   "kaynak": "AA",
-   "baslik": "Trabzon'da sağanak yaşamı olumsuz etkiledi",
-   "ozet": "Trabzon'da sağanak hayatı olumsuz etkiledi.",
-   "link": "https://www.aa.com.tr/tr/gundem/trabzonda-saganak-yasami-olumsuz-etkiledi/4136114",
-   "zaman": "2026-11-24T18:51:40+03:00",
-   "kelimeler": [
-    "etkil",
-    "olums",
-    "sagan",
-    "trabz",
-    "yasam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
   },
   "ef3e36b431d7": {
    "id": "ef3e36b431d7",
@@ -32180,9 +31962,123 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "650e41ce91fd": {
+   "id": "650e41ce91fd",
+   "kaynak": "AA",
+   "baslik": "Kosova'da \"Güç Günü\" kutlanıyor",
+   "ozet": "Kosova’da geleneksel olarak 27 Kasım’da kutlanan “Güç Günü” dolayısıyla Kosova Güvenlik Gücünün (FSK) ülke genelindeki kışlaları halkın ziyaretine açıldı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kosovada-guc-gunu-kutlaniyor/4140670",
+   "zaman": "2026-11-27T18:13:27+03:00",
+   "kelimeler": [
+    "guc",
+    "gunu",
+    "kosov",
+    "kutla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9ca55b48d000": {
+   "id": "9ca55b48d000",
+   "kaynak": "AA",
+   "baslik": "Bu hafta yatırım araçlarının performansı",
+   "ozet": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 1,39 değer kaybederken, altının gram fiyatı yüzde 2,37, dolar/TL yüzde 0,40, avro/TL yüzde 0,02 değer kazandı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4140716",
+   "zaman": "2026-11-27T18:45:56+03:00",
+   "kelimeler": [
+    "aracl",
+    "hafta",
+    "perfo",
+    "yatir"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-27T19:03:39.195035+03:00",
+   "ig_id": "18217454239366327",
+   "reels_id": "18116605481139932",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1377960284268798",
+   "slayt": 5,
+   "kanca": "ALTINDA YÜZDE 2,37 ARTIŞ"
+  },
+  "c0481b67d2ff": {
+   "id": "c0481b67d2ff",
+   "kaynak": "XHABER",
+   "baslik": "Bir puro sarma fabrikasında çalışan bir adam, üzerinde çaliştığı ürünün kalitesini test etti.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30993",
+   "zaman": "2026-11-27T18:49:56+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Bir puro sarma fabrikasında çalışan bir adam, üzerinde çaliştığı ürünün kalitesini test etti.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/OrtAqNNrqO17a8w7oCy8kdCAb9uhQ2qHKmsW45zxdd0g3wfHAH3CVxm4o_hc1PWiuw-Ed5XMMnzXATUE4iOYWxr_rb_f5kkVHay-5m_xDl1La4qMBpiYNWx6lqZAvLuNGDDz1wY_ipXPENXdtCa723t67MPimqN12vCjOwalozES6BwRO0zgcaoyabd3vRQLfpxbr4oPze_7x9DwxFetl9q0rMahGGLNbA36hnko-Ccz77Szi59YZTPx5vVt_vbL2Bg6G_2ldK8c8Tg6SLutysDVH0bQF9gdArEOXvKaGD36fyu8vdNAlbzwdeylaFKRrImILiDic46yL3gFmlx7KQ",
+   "tg_video_url": "https://cdn4.telesco.pe/file/955e3332b1.mp4?token=DOCeBioAcO-TJTndCFERYElMjcQ20yMMJ9CWMQgcanW0Dpz_thFxjHw9fwFv1zjF-qTIVdESzrodMcPAFUObuKI30KdqXcthme9QlV0c-dtCyfzChTDmmxbvMFnzOl_1m-k1d3XkJT4Netftcl13CypxcN1NyacHSEiZSg8IZLvRJb5nOMc8fml3VTOWKrQPw8Nip2kaKLJ2Izs292j44k5LlA3VUYyO-EfXL1orlH5HKcaCiRzD65emk-WWqeWUdQOIETZWBm2G2i5iFnozSylAnX69H20HMPbCp_GBh12OcbMOnDSEaaIFFGKt40lrAFWvMHo6iRiVCAS08YAXJzNDgg35tikZfczoteliGx5Eu9As6kMhwr46aKtdE_UPnvGawL6gzXJTOaGgwzCR0Ua6S_9t-2of0LsmDjcZRNGmOvDcIFWGKIHMFDUW74QPSrQryxQ6eCHRIc9SVB7nDEXzRjnFlO5DRo06qD38LvZPvtibI5TJu419GOTFxmfcOhFx7mYGUrljLpmpD7pSrlInCerKn_ANiPVKKvjaqc4vBcgQPDcv0TfVL17vea0d592pepm21nab2TFJaLgh3SLjOkUYXoTrQ-on9jSXJlQZu1MmZSqPcskdUD2-EOjvS2Yv45YXx7S5rmg6q2jN_pzOz1YSd8cKvIhm05Lz5lE",
+   "kelimeler": [
+    "adam",
+    "calis",
+    "etti",
+    "fabri",
+    "kalit",
+    "puro",
+    "sarma",
+    "test",
+    "urunu",
+    "uzeri"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "218bf7e82a76": {
+   "id": "218bf7e82a76",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Göktaş: Sosyal politikalar alanında Türkiye'ye devrimler getiren bir AK Parti var",
+   "ozet": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Eser ve hizmet siyasetinin yanında aynı zamanda sosyal politikalar alanında da emeklisiyle, genciyle, yaşlısıyla, engellisiyle, kadın haklarıyla Türkiye'ye devrimler getiren bir AK Parti var\" dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-goktas-sosyal-politikalar-alaninda-turkiyeye-devrimler-getiren-bir-ak-parti-var-43393574",
+   "zaman": "2026-11-27T18:50:00+03:00",
+   "kelimeler": [
+    "ak",
+    "alani",
+    "bakan",
+    "devri",
+    "getir",
+    "gokta",
+    "parti",
+    "polit",
+    "sosya",
+    "turki",
+    "ye"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ddc4a6e4ec99": {
+   "id": "ddc4a6e4ec99",
+   "kaynak": "Hürriyet",
+   "baslik": "Otomotiv sektörüne yönelik Rekabet Kurulunca hazırlanan inceleme ön raporu yayımlandı",
+   "ozet": "Rekabet Kurulunca hazırlanan otomotiv sektörüne yönelik inceleme ön raporunda, sektörün küresel ve Türkiye ölçeğindeki genel görünümü, üretim ve satış yapısı ile arz ve talebi etkileyen faktörler incelendi.",
+   "link": "https://www.hurriyet.com.tr/gundem/otomotiv-sektorune-yonelik-rekabet-kurulunca-hazirlanan-inceleme-on-raporu-yayimlandi-43393577",
+   "zaman": "2026-11-27T18:52:00+03:00",
+   "kelimeler": [
+    "hazir",
+    "incel",
+    "kurul",
+    "on",
+    "otomo",
+    "rapor",
+    "rekab",
+    "sekto",
+    "yayim",
+    "yonel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 19:03:39  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Bu hafta yatırım araçlarının performansı",
+  "27.11 19:01:23  5 yeni haber",
   "27.11 18:46:04  8 yeni haber",
   "27.11 18:31:18  2 yeni haber",
   "27.11 18:16:15  3 yeni haber",
@@ -32380,9 +32276,7 @@
   "25.11 14:46:05  5 yeni haber",
   "25.11 14:31:07  5 yeni haber",
   "25.11 14:18:43  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Yunan ordusunda kitlesel istifa alarmı",
-  "25.11 14:16:17  5 yeni haber",
-  "25.11 14:01:57  5 yeni haber",
-  "25.11 13:45:56  6 yeni haber"
+  "25.11 14:16:17  5 yeni haber"
  ],
  "otomatik": false
 }
