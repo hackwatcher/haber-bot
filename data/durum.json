@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "ac3ed57349d6": {
-   "id": "ac3ed57349d6",
-   "kaynak": "TRT Haber",
-   "baslik": "19 il için sarı uyarı: Kar ve sağanak geliyor",
-   "ozet": "Meteoroloji Genel Müdürlüğü, kuvvetli yağış ve olumsuz hava koşulları nedeniyle 19 il için sarı kodlu uyarı yayımladı. Karadeniz'de karla karışık yağmur ve kar, birçok bölgede ise sağanak bekleniyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-uyari-kar-ve-saganak-geliyor-964247.html",
-   "zaman": "2026-11-24T06:16:00+03:00",
-   "kelimeler": [
-    "19",
-    "geliy",
-    "il",
-    "kar",
-    "sagan",
-    "sari",
-    "uyari"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "75c130a546ed": {
    "id": "75c130a546ed",
    "kaynak": "Hürriyet",
@@ -22463,7 +22441,10 @@
     "yagis"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f11571f8df07": {
    "id": "f11571f8df07",
@@ -32583,6 +32564,24 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "51a2621ca98d": {
+   "id": "51a2621ca98d",
+   "kaynak": "TRT Haber",
+   "baslik": "Hafta sonu hava nasıl olacak?",
+   "ozet": "Meteoroloji Genel Müdürlüğü'ne MGM göre, hafta sonu yurdun birçok bölgesinde yağış beklenmezken Edirne, Kırklareli ve Tekirdağ çevrelerinde sağanak etkili olacak. Pazar günü yağışlar yurdun geniş kesimlerine yayılacak. Doğu Anadolu'nun kuzey ve doğusunda kar yağışı görülecek.",
+   "link": "https://www.trthaber.com/haber/turkiye/hafta-sonu-hava-nasil-olacak-964605.html",
+   "zaman": "2026-11-27T06:10:00+03:00",
+   "kelimeler": [
+    "hafta",
+    "hava",
+    "nasil",
+    "olaca",
+    "sonu"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "78e988994854"
   }
  },
  "kayit": [
