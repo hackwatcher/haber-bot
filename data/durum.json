@@ -1,73 +1,5 @@
 {
  "haberler": {
-  "2539347c0905": {
-   "id": "2539347c0905",
-   "kaynak": "AA",
-   "baslik": "NBC: Trump yönetimi yetkilileri İranlı üst düzey isimlere suikastı değerlendiriyor",
-   "ozet": "ABD'de Başkan Donald Trump yönetimi yetkililerinin, İran'da yönetimdeki üst düzey isimlere yönelik suikast düzenleyip düzenlememe konusunu tartıştığı öne sürüldü.",
-   "link": "https://www.aa.com.tr/tr/dunya/nbc-trump-yonetimi-yetkilileri-iranli-ust-duzey-isimlere-suikasti-degerlendiriyor/4136288",
-   "zaman": "2026-11-24T20:50:04+03:00",
-   "kelimeler": [
-    "deger",
-    "duzey",
-    "iranl",
-    "isiml",
-    "nbc",
-    "suika",
-    "trump",
-    "ust",
-    "yetki",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "d5faebb6fe48": {
-   "id": "d5faebb6fe48",
-   "kaynak": "TRT Haber",
-   "baslik": "İletişim Başkanı Duran'dan Özgür Özel'e tepki",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Yeni Parti Genel Başkanı Özgür Özel'in açıklamalarına ilişkin, \"Cumhurbaşkanımızı 'diktatörlük' ve 'faşizm' gibi kavramlarla anmak, siyasi eleştiri sınırlarını aşan bir yaklaşımdır.\" dedi.",
-   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-ozgur-ozele-tepki-964354.html",
-   "zaman": "2026-11-24T20:52:00+03:00",
-   "kelimeler": [
-    "baska",
-    "dan",
-    "duran",
-    "ileti",
-    "ozel",
-    "ozgur",
-    "tepki"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "361a3904500f": {
-   "id": "361a3904500f",
-   "kaynak": "TRT Haber",
-   "baslik": "NBC: Trump yönetimi yetkilileri İranlı üst düzey isimlere suikastı değerlendiriyor",
-   "ozet": "ABD'de Başkan Donald Trump yönetimi yetkililerinin, İran'da yönetimdeki üst düzey isimlere yönelik suikast düzenleyip düzenlememe konusunu tartıştığı öne sürüldü.",
-   "link": "https://www.trthaber.com/haber/dunya/nbc-trump-yonetimi-yetkilileri-iranli-ust-duzey-isimlere-suikasti-degerlendiriyor-964355.html",
-   "zaman": "2026-11-24T21:00:00+03:00",
-   "kelimeler": [
-    "deger",
-    "duzey",
-    "iranl",
-    "isiml",
-    "nbc",
-    "suika",
-    "trump",
-    "ust",
-    "yetki",
-    "yonet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2539347c0905"
-  },
   "df85cd0d2688": {
    "id": "df85cd0d2688",
    "kaynak": "NTV",
@@ -28740,7 +28672,10 @@
     "oyunl"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "852c17b7dd1f": {
    "id": "852c17b7dd1f",
@@ -31911,9 +31846,107 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "748b47f1b0f8"
+  },
+  "8d383dd93082": {
+   "id": "8d383dd93082",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul 2027 Avrupa Oyunları için gönüllü başvuruları başladı",
+   "ozet": "İstanbul'un 16-27 Haziran 2027 tarihlerinde ev sahipliği yapacağı Avrupa Oyunları için gönüllü başvuruları başladı. Organizasyonda görev almak isteyen gönüllüler, 15 Ocak 2027'ye kadar başvuruda bulunabilecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-2027-avrupa-oyunlari-icin-gonullu-basvurulari-basladi-43393659",
+   "zaman": "2026-11-27T20:34:09+03:00",
+   "kelimeler": [
+    "2027",
+    "avrup",
+    "basla",
+    "basvu",
+    "gonul",
+    "istan",
+    "oyunl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "894792588484"
+  },
+  "d8d60bdbb7b5": {
+   "id": "d8d60bdbb7b5",
+   "kaynak": "Hürriyet",
+   "baslik": "Kahramanmaraş, UNESCO ile dünya edebiyat sahnesinde",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 6. Uluslararası Kahramanmaraş Edebiyat Ödülleri Töreni’ne katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kahramanmaras-unesco-ile-dunya-edebiyat-sahnesinde-43393661",
+   "zaman": "2026-11-27T20:38:00+03:00",
+   "kelimeler": [
+    "dunya",
+    "edebi",
+    "kahra",
+    "sahne",
+    "unesc"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "4f26593965ad": {
+   "id": "4f26593965ad",
+   "kaynak": "TRT Haber",
+   "baslik": "İran savaşı havacılığı vurdu, hava yolu şirketi iflas etti",
+   "ozet": "İran savaşı nedeniyle yükselen jet yakıtı fiyatları, Norveç merkezli Norse Atlantic Airways'i iflasa sürükledi. Şirket tüm uçuşlarını iptal ederken yolcularına havalimanlarına gitmemeleri çağrısında bulundu.",
+   "link": "https://www.trthaber.com/haber/dunya/iran-savasi-havaciligi-vurdu-hava-yolu-sirketi-iflas-etti-964686.html",
+   "zaman": "2026-11-27T20:48:00+03:00",
+   "kelimeler": [
+    "etti",
+    "hava",
+    "havac",
+    "iflas",
+    "iran",
+    "savas",
+    "sirke",
+    "vurdu",
+    "yolu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "bb01a1195dd9": {
+   "id": "bb01a1195dd9",
+   "kaynak": "Hürriyet",
+   "baslik": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile görüşecek",
+   "ozet": "Cumhurbaşkanı Erdoğan, yarın Yunanistan Cumhurbaşkanı Tasulas ile İstanbul’da bir görüşme gerçekleştirecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorusecek-43393667",
+   "zaman": "2026-11-27T20:55:35+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gorus",
+    "tasul",
+    "yunan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "NTV"
+   ]
+  },
+  "0dad3e25147e": {
+   "id": "0dad3e25147e",
+   "kaynak": "NTV",
+   "baslik": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı ile yarın İstanbul'da görüşecek",
+   "ozet": "Yunanistan Cumhurbaşkanı Konstantinos Tasulas yarın İstanbul'a geliyor. Cumhurbaşkanımız Recep Tayyip Erdoğan, Tasulas’la İstanbul’da bir görüşme gerçekleştirecek.",
+   "link": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-ile-yarin-istanbulda-gorusecek-1752902",
+   "zaman": "2026-11-27T21:00:30+03:00",
+   "kelimeler": [
+    "cumhu",
+    "erdog",
+    "gorus",
+    "istan",
+    "yarin",
+    "yunan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "bb01a1195dd9"
   }
  },
  "kayit": [
+  "27.11 21:01:24  3 yeni haber",
   "27.11 20:46:00  3 yeni haber",
   "27.11 20:31:10  4 yeni haber",
   "27.11 20:15:57  2 yeni haber",
@@ -32112,8 +32145,7 @@
   "25.11 16:31:09  5 yeni haber",
   "25.11 16:18:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ormanda baba-oğul cinayetinde miras şüphesi: Eş, bakıcı ve erkek arkad",
   "25.11 16:15:56  2 yeni haber",
-  "25.11 16:01:47  5 yeni haber",
-  "25.11 15:46:19  3 yeni haber"
+  "25.11 16:01:47  5 yeni haber"
  ],
  "otomatik": false
 }
