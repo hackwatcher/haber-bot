@@ -1,90 +1,5 @@
 {
  "haberler": {
-  "831a1da464d0": {
-   "id": "831a1da464d0",
-   "kaynak": "AA",
-   "baslik": "Borsa günü düşüşle tamamladı",
-   "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,25 değer kaybederek 10.965,93 puandan tamamladı.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4136075",
-   "zaman": "2026-11-24T18:20:33+03:00",
-   "kelimeler": [
-    "borsa",
-    "dusus",
-    "gunu",
-    "tamam"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "ca3e9b368294": {
-   "id": "ca3e9b368294",
-   "kaynak": "AA",
-   "baslik": "Yemen'de Husiler ile hükümet güçleri arasındaki çatışmalar sürüyor",
-   "ozet": "Yemen ordusu, Taiz vilayetinde Husilere ait mevzilere hava saldırıları düzenlediğini açıklarken, Husiler başkent Sana ve diğer 3 vilayetin Suudi Arabistan'ın hava saldırılarına maruz kaldığını iddia etti.",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-husiler-ile-hukumet-gucleri-arasindaki-catismalar-suruyor/4136082",
-   "zaman": "2026-11-24T18:26:29+03:00",
-   "kelimeler": [
-    "arasi",
-    "catis",
-    "gucle",
-    "hukum",
-    "husil",
-    "suruy",
-    "yemen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "db0ad65e53e0": {
-   "id": "db0ad65e53e0",
-   "kaynak": "AA",
-   "baslik": "Bakan Memişoğlu: Hastanelerimizde 24 saat kreş hizmeti ile anaokulu hizmetlerini vereceğimiz yapılanmaya giriyoruz",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"0-6 yaş ile ilgili bütün hastanelerimizde, büyük hastanelerimizde inşallah 24 saat kreş hizmeti ile anaokulu hizmetlerini vereceğimiz yapılanmaya giriyoruz. Şimdiye kadar 7 tane böyle merkezi açtık.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-hastanelerimizde-24-saat-kres-hizmeti-ile-anaokulu-hizmetlerini-verecegimiz-yapilanmaya-giriyoruz/4136083",
-   "zaman": "2026-11-24T18:27:06+03:00",
-   "kelimeler": [
-    "24",
-    "anaok",
-    "bakan",
-    "giriy",
-    "hasta",
-    "hizme",
-    "kres",
-    "memis",
-    "saat",
-    "verec",
-    "yapil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "e7f3f1cc131b": {
-   "id": "e7f3f1cc131b",
-   "kaynak": "AA",
-   "baslik": "Bakan Memişoğlu: Hastanelerimizde 24 saat kreş hizmeti vereceğimiz yapılanmaya giriyoruz",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, \"0-6 yaş ile ilgili bütün hastanelerimizde, büyük hastanelerimizde inşallah 24 saat kreş hizmeti ile anaokulu hizmetlerini vereceğimiz yapılanmaya giriyoruz. Şimdiye kadar 7 tane böyle merkezi açtık.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-hastanelerimizde-24-saat-kres-hizmeti-verecegimiz-yapilanmaya-giriyoruz/4136083",
-   "zaman": "2026-11-24T18:27:06+03:00",
-   "kelimeler": [
-    "24",
-    "bakan",
-    "giriy",
-    "hasta",
-    "hizme",
-    "kres",
-    "memis",
-    "saat",
-    "verec",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "db0ad65e53e0"
-  },
   "27712c8e5a8f": {
    "id": "27712c8e5a8f",
    "kaynak": "TRT Haber",
@@ -26184,7 +26099,8 @@
     "ye"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "5826d78435cc": {
    "id": "5826d78435cc",
@@ -32066,9 +31982,79 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "7155760665d0": {
+   "id": "7155760665d0",
+   "kaynak": "AA",
+   "baslik": "İletişim Başkanı Duran: Dijital alandaki varlığınızın sürekli eleştirel şekilde ele alınması gerekiyor",
+   "ozet": "İletişim Başkanı Duran, \"Yapmamanız gereken şey, bence dijital alandaki varlığınızı normal görmemeniz, onu sürekli muhasebeye çekmeniz lazım. Yani dijital alandaki varlığınızın sürekli eleştirel şekilde ele alınması gerekiyor.\" ifadelerini kullandı.",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-dijital-alandaki-varliginizin-surekli-elestirel-sekilde-ele-alinmasi-gerekiyor/4140628",
+   "zaman": "2026-11-27T17:48:52+03:00",
+   "kelimeler": [
+    "aland",
+    "alinm",
+    "baska",
+    "dijit",
+    "duran",
+    "ele",
+    "elest",
+    "gerek",
+    "ileti",
+    "sekil",
+    "surek",
+    "varli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "85da9d70d792": {
+   "id": "85da9d70d792",
+   "kaynak": "AA",
+   "baslik": "İsrail'in Gazze'ye düzenlediği saldırılarda 3 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun Gazze Şeridi’nin farklı bölgelerine düzenlediği hava saldırılarında 3 Filistinli yaşamını yitirirken aralarında bebek, çocuk ve kadınların da bulunduğu en az 6 kişi yaralandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/-israilin-gazzeye-duzenledigi-saldirilarda-3-kisi-hayatini-kaybetti/4140673",
+   "zaman": "2026-11-27T18:14:59+03:00",
+   "kelimeler": [
+    "duzen",
+    "gazze",
+    "hayat",
+    "in",
+    "israi",
+    "kaybe",
+    "kisi",
+    "saldi",
+    "ye"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "3ecf152d0e48"
+  },
+  "562859d760a4": {
+   "id": "562859d760a4",
+   "kaynak": "AA",
+   "baslik": "KKTC'de batan yolcu gemisi davasında 9 şüpheli tutuklu yargılanmak üzere cezaevine gönderildi",
+   "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kenti açıklarında 30 Ağustos'ta batan yolcu gemisi davasında yargılanan, aralarında kaptan ve şirket yöneticisinin de bulunduğu gözaltındaki 9 şüpheli tutuklandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/kktcde-batan-yolcu-gemisi-davasinda-9-supheli-tutuklu-yargilanmak-uzere-cezaevine-gonderildi/4140681",
+   "zaman": "2026-11-27T18:25:56+03:00",
+   "kelimeler": [
+    "batan",
+    "cezae",
+    "davas",
+    "gemis",
+    "gonde",
+    "kktc",
+    "suphe",
+    "tutuk",
+    "uzere",
+    "yargi",
+    "yolcu"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "27.11 18:31:18  2 yeni haber",
   "27.11 18:16:15  3 yeni haber",
   "27.11 18:01:30  4 yeni haber",
   "27.11 17:45:56  1 yeni haber",
@@ -32267,8 +32253,7 @@
   "25.11 14:16:17  5 yeni haber",
   "25.11 14:01:57  5 yeni haber",
   "25.11 13:45:56  6 yeni haber",
-  "25.11 13:31:39  4 yeni haber",
-  "25.11 13:15:59  8 yeni haber"
+  "25.11 13:31:39  4 yeni haber"
  ],
  "otomatik": false
 }
