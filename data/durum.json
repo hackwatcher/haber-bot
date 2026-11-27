@@ -1,119 +1,5 @@
 {
  "haberler": {
-  "162f24c4c7b0": {
-   "id": "162f24c4c7b0",
-   "kaynak": "AA",
-   "baslik": "Fitch: ABD'de verimlilik artışı istikrarlı şekilde iyileşiyor",
-   "ozet": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'de verimlilik performansının son 3-4 yıldır istikrarlı şekilde iyileştiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abdde-verimlilik-artisi-istikrarli-sekilde-iyilesiyor/4136184",
-   "zaman": "2026-11-24T20:04:48+03:00",
-   "kelimeler": [
-    "abd",
-    "artis",
-    "fitch",
-    "istik",
-    "iyile",
-    "sekil",
-    "verim"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7d1589e596b1": {
-   "id": "7d1589e596b1",
-   "kaynak": "NTV",
-   "baslik": "Hayati Yazıcı istifa mı etti? Açıklama yapıldı",
-   "ozet": "AK Parti Siyasi ve Hukuki İşlerden Sorumlu Genel Başkan Yardımcısı Hayati Yazıcı, görevinden istifa etti.",
-   "link": "https://www.ntv.com.tr/turkiye/hayati-yazici-istifa-mi-etti-aciklama-yapildi-1752422",
-   "zaman": "2026-11-24T20:06:17+03:00",
-   "kelimeler": [
-    "acikl",
-    "etti",
-    "hayat",
-    "istif",
-    "yapil",
-    "yazic"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "BBC Türkçe",
-    "TRT Haber",
-    "Sözcü"
-   ]
-  },
-  "095b16855bbb": {
-   "id": "095b16855bbb",
-   "kaynak": "NTV",
-   "baslik": "Hayati Yazıcı, AK Parti'deki görevlerinden istifa etti",
-   "ozet": "AK Parti'nin kurucu isimlerinden, Siyasi ve Hukuki İşlerden Sorumlu Genel Başkan Yardımcısı Hayati Yazıcı, görevinden istifa etti.",
-   "link": "https://www.ntv.com.tr/turkiye/hayati-yazici-ak-partideki-gorevlerimi-birakiyorum-1752421",
-   "zaman": "2026-11-24T20:07:50+03:00",
-   "kelimeler": [
-    "ak",
-    "deki",
-    "etti",
-    "gorev",
-    "hayat",
-    "istif",
-    "parti",
-    "yazic"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "7d1589e596b1"
-  },
-  "ab45e265d943": {
-   "id": "ab45e265d943",
-   "kaynak": "TRT Haber",
-   "baslik": "NASA Mars'ta parmak izini andıran sıra dışı kaya dizilimleri görüntüledi",
-   "ozet": "NASA'nın Mars Yörünge Kaşifi uydusu, Kızıl Gezegen'in Daedalia Planum bölgesinde 5 ila 10 metre aralıklarla düzenli kavisler çizen parlak kaya sıraları tespit etti.",
-   "link": "https://www.trthaber.com/haber/dunya/nasa-marsta-parmak-izini-andiran-sira-disi-kaya-dizilimleri-goruntuledi-964349.html",
-   "zaman": "2026-11-24T20:10:00+03:00",
-   "kelimeler": [
-    "andir",
-    "disi",
-    "dizil",
-    "gorun",
-    "izini",
-    "kaya",
-    "mars",
-    "nasa",
-    "parma",
-    "sira",
-    "ta"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "66f33f2bb7b8": {
-   "id": "66f33f2bb7b8",
-   "kaynak": "AA",
-   "baslik": "İsrail'in Gazze'de ateşkesi 6 bin 405 kez ihlal ettiği, 1690 Filistinliyi öldürdüğü açıklandı",
-   "ozet": "Gazze'deki hükümet, İsrail'in ateşkes kapsamında insani yardım tırlarının girişine ilişkin yükümlülüklerini yüzde 33, sınır kapılarındaki geçişlere ilişkin taahhütlerini ise yüzde 37 oranında yerine getirdiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-ateskesi-6-bin-405-kez-ihlal-ettigi-1690-filistinliyi-oldurdugu-aciklandi-/4136191",
-   "zaman": "2026-11-24T20:15:07+03:00",
-   "kelimeler": [
-    "1690",
-    "405",
-    "acikl",
-    "atesk",
-    "bin",
-    "ettig",
-    "filis",
-    "gazze",
-    "ihlal",
-    "in",
-    "israi",
-    "kez",
-    "oldur"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "e0e0e823e219": {
    "id": "e0e0e823e219",
    "kaynak": "TRT Haber",
@@ -15143,7 +15029,10 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "def361b4a71c": {
    "id": "def361b4a71c",
@@ -31829,7 +31718,10 @@
     "tutuk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "c263eb07b37e": {
    "id": "c263eb07b37e",
@@ -32004,9 +31896,92 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "b10b5fa6c869": {
+   "id": "b10b5fa6c869",
+   "kaynak": "Hürriyet",
+   "baslik": "3 ilde yasa dışı bahis operasyonu: 27 tutuklama",
+   "ozet": "Aydın merkezli 3 ilde düzenlenen yasa dışı bahis operasyonunda 27 şüpheli tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/3-ilde-yasa-disi-bahis-operasyonu-27-tutuklama-43393628",
+   "zaman": "2026-11-27T19:56:00+03:00",
+   "kelimeler": [
+    "27",
+    "bahis",
+    "disi",
+    "ilde",
+    "opera",
+    "tutuk",
+    "yasa"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "a824b5b7efbf"
+  },
+  "004a3247bf58": {
+   "id": "004a3247bf58",
+   "kaynak": "TRT Haber",
+   "baslik": "Alihan Kuriş suç örgütüne operasyonda 18 kişi tutuklandı",
+   "ozet": "Ankara merkezli 8 ilde düzenlenen Alihan Kuriş suç örgütüne yönelik operasyonda gözaltına alınan 22 şüpheliden 18i hakkında tutuklama kararı verildi.",
+   "link": "https://www.trthaber.com/haber/turkiye/alihan-kuris-suc-orgutune-operasyonda-18-kisi-tutuklandi-964683.html",
+   "zaman": "2026-11-27T20:03:00+03:00",
+   "kelimeler": [
+    "18",
+    "aliha",
+    "kisi",
+    "kuris",
+    "opera",
+    "orgut",
+    "suc",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "1d3d2819d4e6"
+  },
+  "4540e883aeb6": {
+   "id": "4540e883aeb6",
+   "kaynak": "AA",
+   "baslik": "Fare sorunuyla gündeme gelen Brüksel, şimdi de \"fare avıyla\" ödül aldı",
+   "ozet": "Brüksel'de kentin tarihi ve turistik merkezini saran fareler, esnafın tepkisine ve Belediyenin yetersiz önlem aldığı yönünde eleştirilere neden olurken Brüksel Belediyesi, farelerle mücadele politikasıyla uluslararası ödüle layık görüldü.",
+   "link": "https://www.aa.com.tr/tr/dunya/fare-sorunuyla-gundeme-gelen-bruksel-simdi-de-fare-aviyla-odul-aldi/4140796",
+   "zaman": "2026-11-27T20:08:57+03:00",
+   "kelimeler": [
+    "aldi",
+    "aviyl",
+    "bruks",
+    "fare",
+    "gelen",
+    "gunde",
+    "odul",
+    "simdi",
+    "sorun"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "0a01b563fc2c": {
+   "id": "0a01b563fc2c",
+   "kaynak": "Sözcü",
+   "baslik": "Ünlü isimlerin test sonuçları belli oldu: 3 isim pozitif çıktı",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/unlu-sorusturmasinda-yeni-pozitifler-27-kasim-2026-p384977",
+   "zaman": "2026-11-27T20:15:06+03:00",
+   "kelimeler": [
+    "belli",
+    "cikti",
+    "isim",
+    "isiml",
+    "pozit",
+    "sonuc",
+    "test",
+    "unlu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 20:15:57  2 yeni haber",
   "27.11 20:01:26  3 yeni haber",
   "27.11 19:45:59  5 yeni haber",
   "27.11 19:31:10  1 yeni haber",
@@ -32205,8 +32180,7 @@
   "25.11 16:01:47  5 yeni haber",
   "25.11 15:46:19  3 yeni haber",
   "25.11 15:31:56  5 yeni haber",
-  "25.11 15:16:07  3 yeni haber",
-  "25.11 15:01:55  6 yeni haber"
+  "25.11 15:16:07  3 yeni haber"
  ],
  "otomatik": false
 }
