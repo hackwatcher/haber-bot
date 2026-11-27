@@ -1,30 +1,5 @@
 {
  "haberler": {
-  "60dd03ecb475": {
-   "id": "60dd03ecb475",
-   "kaynak": "Sözcü",
-   "baslik": "Yeniden değerleme oranı belli oldu: İşte 2027'nin yeni ehliyet, pasaport ve kimlik ücretleri",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/yeniden-degerleme-orani-belli-oldu-iste-2027-nin-yeni-ehliyet-pasaport-ve-kimlik-ucretleri-p383851",
-   "zaman": "2026-11-24T07:03:57+03:00",
-   "kelimeler": [
-    "2027",
-    "belli",
-    "deger",
-    "ehliy",
-    "iste",
-    "kimli",
-    "nin",
-    "orani",
-    "pasap",
-    "ucret",
-    "yeni",
-    "yenid"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3b0bf71e25a8"
-  },
   "739ca96cb277": {
    "id": "739ca96cb277",
    "kaynak": "Hürriyet",
@@ -22651,7 +22626,8 @@
     "yasa"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3bf953aedda0": {
    "id": "3bf953aedda0",
@@ -24017,7 +23993,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "5a32025de719": {
@@ -24582,7 +24559,8 @@
     "yeni"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "d87f6ce4a4e0": {
    "id": "d87f6ce4a4e0",
@@ -25560,7 +25538,8 @@
     "ret"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "3b7049d67a2d": {
    "id": "3b7049d67a2d",
@@ -28579,7 +28558,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "TRT Haber"
+    "TRT Haber",
+    "Hürriyet"
    ]
   },
   "78b05f318929": {
@@ -32263,7 +32243,10 @@
    "fb_id": null,
    "fb_reels_id": "1608418774390943",
    "slayt": 5,
-   "kanca": "EGE DENİZİ'NDE SARSINTI"
+   "kanca": "EGE DENİZİ'NDE SARSINTI",
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "f9e85ab259f5": {
    "id": "f9e85ab259f5",
@@ -32361,9 +32344,396 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "e9d7c6e51320"
+  },
+  "36459fbb9803": {
+   "id": "36459fbb9803",
+   "kaynak": "Hürriyet",
+   "baslik": "Uyuşturucu kullanmadık",
+   "ozet": "Ünlülere yönelik yürütülen ‘uyuşturucu’ soruşturması kapsamında şarkıcı Ceylan Kaya ‘suçtan kaynaklanan malvarlığı değerlerini aklama’ iddiasıyla tutuklandı. 9 kişi ise yurtdışına çıkış yasağı adli kontrolü uygulanarak serbest bırakıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/uyusturucu-kullanmadik-43392560",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "kulla",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "e8caf288d234": {
+   "id": "e8caf288d234",
+   "kaynak": "Hürriyet",
+   "baslik": "Nagihan’ın acı sözü: Sonunda vurdun",
+   "ozet": "Eski sevgilisi Nagihan Karadeniz’i başından tabancayla vurarak öldürüp intihara kalkışan tutuklu sanık Halit Dertli, “Bilincimi kaybedip kendisine ateş ettim. Son olarak, ‘En sonunda beni vurdun ya’ dediğini hatırlıyorum” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/nagihanin-aci-sozu-sonunda-vurdun-43392561",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "aci",
+    "in",
+    "nagih",
+    "sonun",
+    "sozu",
+    "vurdu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "470078853d5b": {
+   "id": "470078853d5b",
+   "kaynak": "Hürriyet",
+   "baslik": "Namık Tan’ın oğlu da gözaltında",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında gözaltına alınan şüpheliler arasında Yeni Parti İstanbul Milletvekili Namık Tan'ın oğlu Aras Tan'ın da bulunduğu belirtildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/namik-tanin-oglu-da-gozaltinda-43392562",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "gozal",
+    "in",
+    "namik",
+    "oglu",
+    "tan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "47936deded58"
+  },
+  "302652729197": {
+   "id": "302652729197",
+   "kaynak": "Hürriyet",
+   "baslik": "2.2 milyarlık para hareketi",
+   "ozet": "Ankara merkezli 12 ilde yapılan yasadışı bahis operasyonunda 25 kişi yakalandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/2-2-milyarlik-para-hareketi-43392563",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "harek",
+    "milya",
+    "para"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "a2df0fb950ab"
+  },
+  "957c58d12430": {
+   "id": "957c58d12430",
+   "kaynak": "Hürriyet",
+   "baslik": "Gökçeada organik ada olacak",
+   "ozet": "Gökçeada organik üretimin artırılması için dünyanın sayılı örneklerden biri olarak ‘Organik Tarım Havzası’ ilan edilecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/gokceada-organik-ada-olacak-43392564",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "ada",
+    "gokce",
+    "olaca",
+    "organ"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5dab5692d0a7": {
+   "id": "5dab5692d0a7",
+   "kaynak": "Hürriyet",
+   "baslik": "Demirören Medya’ya ödül yağdı",
+   "ozet": "Muhabirler Derneği’nin 2026 ödülleri Ankara’da düzenlenen törenle sahiplerini buldu. Başkentteki törende Hürriyet, CNN Türk, Kanal D, Milliyet ve DHA bünyesindeki isimler 9 dalda ödüle layık görüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/demiroren-medyaya-odul-yagdi-43392565",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "demir",
+    "medya",
+    "odul",
+    "ya",
+    "yagdi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ee6f66041017": {
+   "id": "ee6f66041017",
+   "kaynak": "Hürriyet",
+   "baslik": "COP31’de iklim krizi sanatla anlatıldı",
+   "ozet": "COP31 Antalya kapsamında ilk kez hayata geçirilen resmi sanat programı COPArt, iklim krizini sanatın perspektifinden uluslararası gündeme taşıdı.",
+   "link": "https://www.hurriyet.com.tr/gundem/cop31de-iklim-krizi-sanatla-anlatildi-43392567",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "anlat",
+    "cop31",
+    "iklim",
+    "krizi",
+    "sanat"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2ebd0c02263e"
+  },
+  "9613221c1e03": {
+   "id": "9613221c1e03",
+   "kaynak": "Hürriyet",
+   "baslik": "Müzayedeye çıkarılıyor... GS logolu 101 yıllık cep saati",
+   "ozet": "Galatasaray Kulübü’nün kurucusu ve ilk başkanı Ali Sami Yen’e, kulübün kuruluşunda yer alan üyeler tarafından hediye edilen; üzerinde sarı-kırmızılıların ilk logosu olan ‘gayın’ ve ‘sin’ harflerinin altın işlemeyle yer aldığı 101 yıllık cep saati müzayedeye çıkarılıyor.",
+   "link": "https://www.hurriyet.com.tr/gundem/muzayedeye-cikariliyor-gs-logolu-101-yillik-cep-saati-43392569",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "101",
+    "cep",
+    "cikar",
+    "gs",
+    "logol",
+    "muzay",
+    "saati",
+    "yilli"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "b0b4df28c7ed": {
+   "id": "b0b4df28c7ed",
+   "kaynak": "Hürriyet",
+   "baslik": "Siber casuslara MİT operasyonu",
+   "ozet": "MİT, yabancı bir ülkenin istihbarat servisi adına faaliyet yürüten ve savunma sanayisi ile bazı kritik kurumların kablosuz internet ağlarına sızmayı hedefleyen siber casusluk çetesini deşifre etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/siber-casuslara-mit-operasyonu-43392571",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "casus",
+    "mit",
+    "opera",
+    "siber"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "52ab3d820504"
+  },
+  "8927e462bd0f": {
+   "id": "8927e462bd0f",
+   "kaynak": "Hürriyet",
+   "baslik": "MGK toplantısında Terörsüz Türkiye, Terörsüz Bölge",
+   "ozet": "Cumhurbaşkanı Tayyip Erdoğan başkanlığında yapılan MGK toplantısında Terörsüz Türkiye süreci ve Terörsüz Bölge hedefine ilişkin çalışmalarda kaydedilen somut ilerlemeler değerlendirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mgk-toplantisinda-terorsuz-turkiye-terorsuz-bolge-43392575",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "bolge",
+    "mgk",
+    "teror",
+    "topla",
+    "turki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "48dfb968c0a5"
+  },
+  "b36fb1668546": {
+   "id": "b36fb1668546",
+   "kaynak": "Hürriyet",
+   "baslik": "Enerjini kaybetme",
+   "ozet": "İŞTE Enerji ve Tabii Kaynaklar Bakanlığı Enerji Verimliliği ve Çevre Dairesi Başkanlığı’ndan Enerji Verimliliği rehberi:",
+   "link": "https://www.hurriyet.com.tr/gundem/enerjini-kaybetme-43392577",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "enerj",
+    "kaybe"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "dbbc7f90d91b": {
+   "id": "dbbc7f90d91b",
+   "kaynak": "Hürriyet",
+   "baslik": "Kore gazisine 74 yıl sonra madalya",
+   "ozet": "KORE Savaşı’na 1952 yılında katılan Hüsnü Kaya (94), aradan geçen 74 yılın ardından gazilik madalyası ve beratına kavuştu. 11 çocuk ve 100 torunu bulunan Kaya, madalyasını alırken duygulandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kore-gazisine-74-yil-sonra-madalya-43392578",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "74",
+    "gazis",
+    "kore",
+    "madal",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "1a643c645502": {
+   "id": "1a643c645502",
+   "kaynak": "Hürriyet",
+   "baslik": "MSB’den helikopter açıklaması: Her olasılığı dikkate alıyoruz",
+   "ozet": "MİLLİ Savunma Bakanlığı’ndan yapılan açıklamada, Malatya ve Eskişehir’de gece şartlarında gerçekleştirilen eğitimler sırasında meydana gelen helikopter kazalarının ardından derhal adli ve idari süreçler başlatıldığı belirtildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/msbden-helikopter-aciklamasi-her-olasiligi-dikkate-aliyoruz-43392580",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "aliyo",
+    "den",
+    "dikka",
+    "helik",
+    "her",
+    "msb",
+    "olasi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b984b35ee004": {
+   "id": "b984b35ee004",
+   "kaynak": "Hürriyet",
+   "baslik": "Kahraman şehitlerimizi kalbimize gömdük",
+   "ozet": "Eskişehir’de eğitim uçuşu sırasında düşen helikopterde şehit olan 5 askerden 4’ü dün son yolcuklarına uğurlandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/kahraman-sehitlerimizi-kalbimize-gomduk-43392583",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "gomdu",
+    "kahra",
+    "kalbi",
+    "sehit"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7d167513f3b8": {
+   "id": "7d167513f3b8",
+   "kaynak": "Hürriyet",
+   "baslik": "Fonda ara ödeme süreci tamamlandı… 444 bin 987 yatırımcıya 199.25 milyar TL ödeme",
+   "ozet": "Kamuoyunu aylardır meşgul eden fon soruşturmasına ilişkin Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ile Hazine ve Maliye bakanı Mehmet Şimşek, ortak basın toplantısıyla akıllardaki tüm sorulara yanıt verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fonda-ara-odeme-sureci-tamamlandi-444-bin-987-yatirimciya-199-25-milyar-tl-odeme-43392589",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "199",
+    "25",
+    "444",
+    "987",
+    "ara",
+    "bin",
+    "fonda",
+    "milya",
+    "odeme",
+    "surec",
+    "tamam",
+    "tl",
+    "yatir"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "d56be0bcb180": {
+   "id": "d56be0bcb180",
+   "kaynak": "Hürriyet",
+   "baslik": "Özel’den seçim yorumu: En çok bir sene kaldı",
+   "ozet": "Gaziantep’te vatandaşlara seslenen Özel, “Kimse moralini bozmasın, enseyi karartmasın. Dayandık dayandık, şunun şurasında en çok 1 sene kaldı. 1 sene sonra artık halkın yüzünü güldürecek yeni bir iktidar geliyor” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ozelden-secim-yorumu-en-cok-bir-sene-kaldi-43392590",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "den",
+    "kaldi",
+    "ozel",
+    "secim",
+    "sene",
+    "yorum"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ae3342889900": {
+   "id": "ae3342889900",
+   "kaynak": "Hürriyet",
+   "baslik": "DEM’den ziyaret... Bahçeli ile süreç görüşmesi",
+   "ozet": "İMRALI Adası’nda Abdullah Öcalan ile görüşen DEM Parti İmralı Heyeti, Adalet Bakanı Akın Gürlek’in ardından dün de MHP Genel Başkanı Devlet Bahçeli’yi ziyaret etti.",
+   "link": "https://www.hurriyet.com.tr/gundem/demden-ziyaret-bahceli-ile-surec-gorusmesi-43392592",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "bahce",
+    "dem",
+    "den",
+    "gorus",
+    "surec",
+    "ziyar"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "72fd57f33c2d": {
+   "id": "72fd57f33c2d",
+   "kaynak": "Hürriyet",
+   "baslik": "AYM’den İmamoğlu’na ret: Hak ihlali yok",
+   "ozet": "ANAYASA Mahkemesi (AYM) Genel Kurulu, Ekrem İmamoğlu’nun tutukluluğu nedeniyle ‘kişi hürriyeti ve güvenliği hakkı’ ile ‘seçilme ve siyasi faaliyette bulunma hakları’nın ihlal edildiği iddiasıyla yaptığı bireysel başvuruyu reddetti.",
+   "link": "https://www.hurriyet.com.tr/gundem/aymden-imamogluna-ret-hak-ihlali-yok-43392593",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "aym",
+    "den",
+    "hak",
+    "ihlal",
+    "imamo",
+    "na",
+    "ret"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "41e5b9b73bb4"
+  },
+  "2ebf0ce7015a": {
+   "id": "2ebf0ce7015a",
+   "kaynak": "Hürriyet",
+   "baslik": "Şile davasında 5 tahliye",
+   "ozet": "ŞİLE Belediyesi’ne yönelik, ‘suç işlemek amacıyla örgüt kurma’, ‘irtikap’, ‘rüşvet’ ve ‘ihaleye fesat karıştırma’ iddialarına ilişkin davada beş tahliye kararı çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sile-davasinda-5-tahliye-43392594",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "davas",
+    "sile",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "982c43f9079a"
+  },
+  "a11beb710fef": {
+   "id": "a11beb710fef",
+   "kaynak": "Hürriyet",
+   "baslik": "Fonda 5 şüpheli adliyede",
+   "ozet": "İSTANBUL Cumhuriyet Başsavcılığı tarafından yürütülen ‘fon soruşturması’ kapsamında üçüncü kez gözaltına alınan Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya’nın arasında olduğu 5 şüpheli adliyeye sevk edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fonda-5-supheli-adliyede-43392595",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "adliy",
+    "fonda",
+    "suphe"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2be24520209e"
+  },
+  "ca542b0dc525": {
+   "id": "ca542b0dc525",
+   "kaynak": "Hürriyet",
+   "baslik": "Kavcıoğlu için soruşturma izni",
+   "ozet": "HAZİNE ve Maliye Bakanı Mehmet Şimşek, eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/kavcioglu-icin-sorusturma-izni-43392596",
+   "zaman": "2026-11-27T07:00:00+03:00",
+   "kelimeler": [
+    "izni",
+    "kavci",
+    "sorus"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "31c8b2e4be45"
+  },
+  "952736e55a0c": {
+   "id": "952736e55a0c",
+   "kaynak": "AA",
+   "baslik": "Ege Denizi'nde 4,1 büyüklüğünde deprem",
+   "ozet": "Ege Denizi'nde saat 05.44'te 4,1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/ege-denizinde-4-1-buyuklugunde-deprem/4139878",
+   "zaman": "2026-11-27T07:03:30+03:00",
+   "kelimeler": [
+    "buyuk",
+    "deniz",
+    "depre",
+    "ege",
+    "nde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "696503b42001"
   }
  },
  "kayit": [
+  "27.11 07:16:02  12 yeni haber",
   "27.11 07:03:57  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Ege Denizi'nde 4,1 büyüklüğünde deprem",
   "27.11 06:15:59  3 yeni haber",
   "27.11 04:15:59  1 yeni haber",
@@ -32562,8 +32932,7 @@
   "25.11 00:16:10  4 yeni haber",
   "25.11 00:03:26  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): TRT Haber · Kabine üyelerinden şehit askerlerimiz için başsağlığı mesajı",
   "25.11 00:01:19  2 yeni haber",
-  "24.11 23:55:17  3 yeni haber",
-  "24.11 23:46:06  2 yeni haber"
+  "24.11 23:55:17  3 yeni haber"
  ],
  "otomatik": false
 }
