@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "1e3f255d5830": {
-   "id": "1e3f255d5830",
-   "kaynak": "TRT Haber",
-   "baslik": "Eminönü Balık Ekmek coğrafi işaretle tescillendi",
-   "ozet": "İstanbul'un simge lezzetlerinden Eminönü balık ekmeğinin lezzeti ve sunumu tescillendi. Eminönü Meydanı'nda düzenlenen ve 19. yüzyıl tezgah denetimlerinin canlandırıldığı törende, vatandaşlara ve turistlere balık ekmek ikram edildi.",
-   "link": "https://www.trthaber.com/haber/turkiye/eminonu-balik-ekmek-cografi-isaretle-tescillendi-964329.html",
-   "zaman": "2026-11-24T15:42:00+03:00",
-   "kelimeler": [
-    "balik",
-    "cogra",
-    "ekmek",
-    "emino",
-    "isare",
-    "tesci"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
-  },
-  "e72763ba33d3": {
-   "id": "e72763ba33d3",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Papa Francesco 'şeytanı üç kez gördüğünü' günlüğüne yazmış",
-   "ozet": "Geçtiğimiz yıl hayatını kaybeden Papa Francesco, özel günlüğünden kamuoyuna yansıyan yeni bölümlerde, hayatı boyunca üç kez şeytanı gördüğünü yazıyor.",
-   "link": "https://www.bbc.com/turkce/articles/ck1wr3w05qd2o",
-   "zaman": "2026-11-24T15:45:56+03:00",
-   "kelimeler": [
-    "franc",
-    "gordu",
-    "gunlu",
-    "kez",
-    "papa",
-    "seyta",
-    "uc",
-    "yazmi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "856c02b821da": {
    "id": "856c02b821da",
    "kaynak": "Hürriyet",
@@ -272,30 +231,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "b1f81afc8b8b": {
-   "id": "b1f81afc8b8b",
-   "kaynak": "TRT Haber",
-   "baslik": "İran'da ABD yaptırımları sonrası dolar serbest piyasada tarihinin en yüksek seviyesine çıktı",
-   "ozet": "İran'da doların serbest piyasadaki satış kuru, ABD yaptırımları sonrası tarihinin en yüksek seviyesine çıkarak 284 bin tümen sınırını gördü.",
-   "link": "https://www.trthaber.com/haber/ekonomi/iranda-abd-yaptirimlari-sonrasi-dolar-serbest-piyasada-tarihinin-en-yuksek-seviyesine-cikti-964331.html",
-   "zaman": "2026-11-24T15:46:00+03:00",
-   "kelimeler": [
-    "abd",
-    "cikti",
-    "dolar",
-    "iran",
-    "piyas",
-    "serbe",
-    "seviy",
-    "sonra",
-    "tarih",
-    "yapti",
-    "yukse"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2a63ad469e53"
   },
   "8fbf6570d6e0": {
    "id": "8fbf6570d6e0",
@@ -31688,7 +31623,10 @@
     "topla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f109212edcaa": {
    "id": "f109212edcaa",
@@ -31797,9 +31735,245 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "e5f22edc3073": {
+   "id": "e5f22edc3073",
+   "kaynak": "AA",
+   "baslik": "COP31, Antalya'nın 2027 turizm sezonuna katkı sağlayacak",
+   "ozet": "Antalya Kent Konseyi Turizm Çalışma Grubu Başkanı Recep Yavuz, COP31'in kentlerinde düzenlenmesine ilişkin \"Durgun dönemde Antalya'nın adının geçmesi önemliydi. 2027 turizm sezonuna geçiş açısından kolaylık sağlayacaktır.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-antalyanin-2027-turizm-sezonuna-katki-saglayacak/4140019",
+   "zaman": "2026-11-27T11:07:28+03:00",
+   "kelimeler": [
+    "2027",
+    "antal",
+    "cop31",
+    "katki",
+    "nin",
+    "sagla",
+    "sezon",
+    "turiz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f5d499655008": {
+   "id": "f5d499655008",
+   "kaynak": "AA",
+   "baslik": "Afgan iş insanları Helal Expo Fuarı'nda yeni işbirliklerine kapı araladı",
+   "ozet": "Afganistan Ticaret ve Yatırım Odası Vilayetler İşleri Başkan Yardımcısı Feyz Ahmed Havafi, Helal Expo 2026 kapsamında yürütülen temaslara dikkati çekerken, \"Bu temasların Afganistan ticaretine uzun vadeli ve olumlu etkileri olacak.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/afgan-is-insanlari-helal-expo-fuarinda-yeni-isbirliklerine-kapi-araladi/4140364",
+   "zaman": "2026-11-27T14:48:27+03:00",
+   "kelimeler": [
+    "afgan",
+    "arala",
+    "expo",
+    "fuari",
+    "helal",
+    "insan",
+    "is",
+    "isbir",
+    "kapi",
+    "nda",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "5e64fd1b7980": {
+   "id": "5e64fd1b7980",
+   "kaynak": "AA",
+   "baslik": "BM kurumlarına göre, El Nino ve çatışmalar yeni açlık noktaları ortaya çıkarıyor",
+   "ozet": "Birleşmiş Milletler (BM) Gıda ve Tarım Örgütü (FAO) ile BM Dünya Gıda Programı (WFP) tarafından hazırlanan ortak rapora göre, aşırı hava olayı El Nino ve devam eden çatışmalar nedeniyle açlık konusunda kritik konumda olan yer sayısı arttı.",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-kurumlarina-gore-el-nino-ve-catismalar-yeni-aclik-noktalari-ortaya-cikariyor/4140386",
+   "zaman": "2026-11-27T14:59:05+03:00",
+   "kelimeler": [
+    "aclik",
+    "bm",
+    "catis",
+    "cikar",
+    "el",
+    "gore",
+    "kurum",
+    "nino",
+    "nokta",
+    "ortay",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6498bbe05f37": {
+   "id": "6498bbe05f37",
+   "kaynak": "TRT Haber",
+   "baslik": "Sanatçılar, yapay zekanın eserlerini çalacağı korkusuyla sosyal medyayı terk ediyor",
+   "ozet": "Yapay zeka ile üretilen kopyaların sanatçıların işlerini ve gelirlerini tehdit etmesi, ayrıca Meta'nın hizmet koşullarında yapmayı planladığı veri toplama düzenlemeleri bağımsız sanatçıları platformlardan çekilmeye yöneltiyor.",
+   "link": "https://www.trthaber.com/haber/dunya/sanatcilar-yapay-zekanin-eserlerini-calacagi-korkusuyla-sosyal-medyayi-terk-ediyor-964660.html",
+   "zaman": "2026-11-27T15:24:00+03:00",
+   "kelimeler": [
+    "calac",
+    "ediyo",
+    "eserl",
+    "korku",
+    "medya",
+    "sanat",
+    "sosya",
+    "terk",
+    "yapay",
+    "zekan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "630971e45d62": {
+   "id": "630971e45d62",
+   "kaynak": "AA",
+   "baslik": "Sırbistan'da cumhurbaşkanı seçiminde Öğrenci Listesi'nin adayı Radomir Saicic oldu",
+   "ozet": "Sırbistan'da 27 Aralık'ta yapılacak cumhurbaşkanı seçiminde Öğrenci Listesi'nin adayı akademisyen Radomir Saicic oldu.",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-cumhurbaskani-seciminde-ogrenci-listesinin-adayi-radomir-saicic-oldu/4140422",
+   "zaman": "2026-11-27T15:25:01+03:00",
+   "kelimeler": [
+    "adayi",
+    "cumhu",
+    "liste",
+    "nin",
+    "ogren",
+    "radom",
+    "saici",
+    "secim",
+    "sirbi"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7bbad0a38360": {
+   "id": "7bbad0a38360",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul'da suç örgütlerine operasyonda 46 şüpheli tutuklandı",
+   "ozet": "İstanbul'da suç örgütlerine yönelik düzenlenen operasyon kapsamında adliyeye sevk edilen 56 şüpheliden 46'sı tutuklandı.",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-suc-orgutlerine-operasyonda-46-supheli-tutuklandi-964661.html",
+   "zaman": "2026-11-27T15:32:00+03:00",
+   "kelimeler": [
+    "46",
+    "istan",
+    "opera",
+    "orgut",
+    "suc",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "6706f4b71898": {
+   "id": "6706f4b71898",
+   "kaynak": "AA",
+   "baslik": "TBMM Başkanı Kurtulmuş, Kanberra'da Güney Kore Ulusal Meclisi Başkanı Cho ile görüştü",
+   "ozet": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, MIKTA 12. Parlamento Başkanları Toplantısı kapsamında Avustralya'nın başkenti Kanberra'da Güney Kore Ulusal Meclisi Başkanı Cho Jeong-shik ile bir araya geldi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kanberrada-guney-kore-ulusal-meclisi-baskani-cho-ile-gorustu/4140430",
+   "zaman": "2026-11-27T15:33:38+03:00",
+   "kelimeler": [
+    "baska",
+    "cho",
+    "gorus",
+    "guney",
+    "kanbe",
+    "kore",
+    "kurtu",
+    "mecli",
+    "tbmm",
+    "ulusa"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "f828904679ad": {
+   "id": "f828904679ad",
+   "kaynak": "TRT Haber",
+   "baslik": "Türk heyeti İslamabad'da ortak savunma toplantısına katılacak",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Milli Savunma Bakanı Yaşar Güler ve Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Mekke Ortak Savunma Anlaşması kapsamında tesis edilen Stratejik Siyasi ve Savunma Komitesi'nin bugün İslamabad'da düzenlenecek ikinci olağan toplantısına…",
+   "link": "https://www.trthaber.com/haber/gundem/turk-heyeti-islamabadda-ortak-savunma-toplantisina-katilacak-964662.html",
+   "zaman": "2026-11-27T15:34:00+03:00",
+   "kelimeler": [
+    "heyet",
+    "islam",
+    "katil",
+    "ortak",
+    "savun",
+    "topla",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "64b67da2d88b"
+  },
+  "e58f307aa35c": {
+   "id": "e58f307aa35c",
+   "kaynak": "TRT Haber",
+   "baslik": "IrakTürkiye petrol boru hattı yeniden faaliyete geçecek",
+   "ozet": "Irak, 12 yıldır kapalı olan eski IrakTürkiye petrol boru hattını yeniden faaliyete geçirmek için çalışmalara başlarken, hattın ilk aşamada günlük 300 bin daha sonra ise 500 bin varil petrol taşıma kapasitesine ulaşmasını hedefliyor.",
+   "link": "https://www.trthaber.com/haber/ekonomi/irak-turkiye-petrol-boru-hatti-yeniden-faaliyete-gececek-964663.html",
+   "zaman": "2026-11-27T15:38:00+03:00",
+   "kelimeler": [
+    "boru",
+    "faali",
+    "gecec",
+    "hatti",
+    "irakt",
+    "petro",
+    "yenid"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "78cb2192e068": {
+   "id": "78cb2192e068",
+   "kaynak": "AA",
+   "baslik": "Avrupa'da doğal gaz fiyatları ılıman hava ve Norveç'ten arz beklentisiyle geriledi",
+   "ozet": "Avrupa'da doğal gaz fiyatları, ılıman hava tahminleri ve Norveç'ten gaz akışının artacağı beklentisinin arz görünümünü desteklemesiyle haftalık bazda yüzde 6,6 geriledi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-iliman-hava-ve-norvecten-arz-beklentisiyle-geriledi/4140437",
+   "zaman": "2026-11-27T15:42:42+03:00",
+   "kelimeler": [
+    "arz",
+    "avrup",
+    "bekle",
+    "dogal",
+    "fiyat",
+    "gaz",
+    "geril",
+    "hava",
+    "ilima",
+    "norve",
+    "ten"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "562f1dffeb55": {
+   "id": "562f1dffeb55",
+   "kaynak": "XHABER",
+   "baslik": "Cumhurbaşkanı Başdanışmanı Gülşen Orhan, Kürtçe kaside okudu.",
+   "ozet": "",
+   "link": "https://t.me/sahinozkan000/30983",
+   "zaman": "2026-11-27T15:43:23+03:00",
+   "tg_kanal": "sahinozkan000",
+   "tg_metin": "Cumhurbaşkanı Başdanışmanı Gülşen Orhan, Kürtçe kaside okudu.",
+   "tg_foto_url": "https://cdn4.telesco.pe/file/Ow2fRbs2zopjbLVsqDliwb1qL5Gy2U62kNuWaYsybNgA9VMXbrFQYZhVj4jYd7q8DAELiJJQO2FW-b8uUqGi_Zo2JL9k7bMcfORGKLZOynCXZ1n6Wp3eE1SMbVwZSgJZPFcxwCwlSg-2kLgappEw1hizt2uc-eR0n5j-73wTOtUGruQZigBeXkT2KOKvpA42quz_BiMA8MyKiBuOMmW8Y0y92EUydRV9TTXh5KNIsVQusRiZNvnZA6eVXymz4nYS8pBpVVIiy3uWMwBb3CRin26-wqqVz8ZdAm7-10gdu070RmN98rRO2utresY7cgbN0FZYlJGfp4TItsrq7Bm97w",
+   "tg_video_url": "",
+   "kelimeler": [
+    "basda",
+    "cumhu",
+    "gulse",
+    "kasid",
+    "kurtc",
+    "okudu",
+    "orhan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 15:46:03  10 yeni haber",
   "27.11 15:31:13  6 yeni haber",
   "27.11 15:16:05  3 yeni haber",
   "27.11 15:01:34  4 yeni haber",
@@ -31998,8 +32172,7 @@
   "25.11 11:31:18  4 yeni haber",
   "25.11 11:16:29  7 yeni haber",
   "25.11 11:04:09  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Bir ay önce evlenen Kardelen'in şüpheli ölümü: Eşi tutuklandı",
-  "25.11 11:01:34  5 yeni haber",
-  "25.11 10:46:12  4 yeni haber"
+  "25.11 11:01:34  5 yeni haber"
  ],
  "otomatik": false
 }
