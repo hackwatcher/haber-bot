@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "c53b231a97ba": {
-   "id": "c53b231a97ba",
-   "kaynak": "NTV",
-   "baslik": "Eski CHP Genel Başkanı Hikmet Çetin hayatını kaybetti",
-   "ozet": "Türk siyasetinin deneyimli isimlerinden, eski CHP Genel Başkanı ve TBMM Başkanı Hikmet Çetin hayatını kaybetti.",
-   "link": "https://www.ntv.com.tr/turkiye/eski-chp-genel-baskani-hikmet-cetin-hayatini-kaybetti-1752414",
-   "zaman": "2026-11-25T00:52:06+03:00",
-   "kelimeler": [
-    "baska",
-    "cetin",
-    "chp",
-    "eski",
-    "genel",
-    "hayat",
-    "hikme",
-    "kaybe"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "84cc08c7870f"
-  },
   "cc13abb73080": {
    "id": "cc13abb73080",
    "kaynak": "AA",
@@ -30677,8 +30656,17 @@
     "tefec",
     "tutuk"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-28T01:03:13.712332+03:00",
+   "ig_id": "18101252915655371",
+   "reels_id": "18196134121406469",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1479987257430616",
+   "slayt": 5,
+   "kanca": "16 TUTUKLAMA"
   },
   "cc5e85c2e331": {
    "id": "cc5e85c2e331",
@@ -31426,6 +31414,7 @@
   }
  },
  "kayit": [
+  "28.11 01:03:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İstanbul merkezli 3 ilde tefecilik operasyonu: 16 şüpheli tutuklandı",
   "28.11 00:46:00  1 yeni haber",
   "28.11 00:34:52  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Kartal Belediyesi’ne yönelik soruşturmada 10 şüpheli tutuklandı",
   "28.11 00:31:13  1 yeni haber",
@@ -31624,8 +31613,7 @@
   "25.11 21:08:02  7 yeni haber",
   "25.11 20:45:55  2 yeni haber",
   "25.11 20:16:13  2 yeni haber",
-  "25.11 20:01:51  4 yeni haber",
-  "25.11 19:45:59  3 yeni haber"
+  "25.11 20:01:51  4 yeni haber"
  ],
  "otomatik": false
 }
