@@ -21321,7 +21321,8 @@
     "suudi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "4882647fc94a": {
    "id": "4882647fc94a",
@@ -31979,7 +31980,8 @@
     "nered"
    ],
    "durum": "engelli",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": []
   },
   "744dac7eb490": {
    "id": "744dac7eb490",
@@ -32558,6 +32560,54 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "cd439c4e20b3"
+  },
+  "bf217b6b7ee0": {
+   "id": "bf217b6b7ee0",
+   "kaynak": "NTV",
+   "baslik": "Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya deprem Kandilli ve AFAD son depremler listesi 27 Kasım 2026",
+   "ozet": "Son dakika Antalya deprem haberleri.. Antalya'da deprem mi oldu? Az önce deprem Antalya'da nerede oldu? Antalya Kandilli ve AFAD son depremler.. 27 Kasım 2026 Antalya deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Antalya'da?",
+   "link": "https://www.ntv.com.tr/turkiye/son-dakika-antalyada-deprem-mi-oldu-az-once-deprem-antalyada-nerede-oldu-antalya-deprem-kandilli-ve-afad-son-depremler-listesi-27-kasim-2026-1752773",
+   "zaman": "2026-11-27T02:50:00+03:00",
+   "kelimeler": [
+    "2026",
+    "27",
+    "afad",
+    "antal",
+    "az",
+    "depre",
+    "kandi",
+    "kasim",
+    "liste",
+    "nered"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "dc6caa8c9ea8"
+  },
+  "1909da712b9f": {
+   "id": "1909da712b9f",
+   "kaynak": "AA",
+   "baslik": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın Güney bölgesine fırlattığı İHA imha edildi",
+   "ozet": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki İran destekli Husilerin Güney bölgesine fırlattığı bir insansız hava aracının (İHA) hava savunma sistemleriyle imha edildiğini bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guney-bolgesine-firlattigi-iha-imha-edildi/4139861",
+   "zaman": "2026-11-27T02:53:38+03:00",
+   "kelimeler": [
+    "arabi",
+    "arap",
+    "bolge",
+    "edild",
+    "firla",
+    "guney",
+    "husil",
+    "iha",
+    "imha",
+    "in",
+    "koali",
+    "suudi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1fe6595ac987"
   }
  },
  "kayit": [
