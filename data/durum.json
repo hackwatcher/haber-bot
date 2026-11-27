@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "44119f1b90d0": {
-   "id": "44119f1b90d0",
-   "kaynak": "XHABER",
-   "baslik": "Türkiye, son 13 ayda meydana gelen 5 ayrı hava aracı kazasında toplam 31 askerini şehit verdi.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30907",
-   "zaman": "2026-11-25T01:17:57+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Türkiye, son 13 ayda meydana gelen 5 ayrı hava aracı kazasında toplam 31 askerini şehit verdi.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/PzImuN44JQIW5EsNkHItr-RbhNBpk3BX1xBqgK-h9ljGSJlSk_Jf3NvCa2y4akOAEz6Ebx3hxXu26h_GAzI_Ps1j_Z-WZsEPF2BFCXkXTvjVd32QUTRdrHDZFPITu1e1WzjmpoDetiSxUZFI4UTpm9UBmCmAKS4LrAsT9ZlW2Pla2k6xXK8XrW_5lzyUWYbayK2_c_FEs72BzbTiEJ3EATnfpt8WAhOwhukKCUIGYgSXZUptBeRgvAGnLcgxHMv-RECzoYBe1GGzesnRt_DtKho1kISMUhX1NS517DGrcj5ydONzEkw1egC5YooiEixBi838mtIBxhCRst6jO4bvDA",
-   "tg_video_url": "https://cdn4.telesco.pe/file/eea6f796b4.mp4?token=JbspwFdY34RkeGVG4LyRWy4vPdKx-hk4UX1tOCcHR57z-2pjaFbbBVXBI4IRwHfUO7dzt0g6CAoV5sUJPFl_5hPZdkBYoFb_ajeSZi1ZwcpteUuKifxG6HiyFDWgIay0ZwqHen_BZv3Hgw9R_VycYZHAgt-pQow5zQhK9Kp3CaOw0COy-5PhvuE3Cjx-tzIP9PNO_WJKs7iXlzPMHV_z1Qn7eL4vaSamwEjdZcqq_AONzYNIjCfSPmouxAsPnz5v2zAGWXPVh6d1g19F0orCZMxz4RmKkEl_gRjB6B2mfuur43-tq5yB5V6ZEEwU73x7Ekua06x6HdwRu3JEXw_Qmg",
-   "kelimeler": [
-    "13",
-    "31",
-    "araci",
-    "asker",
-    "ayda",
-    "ayri",
-    "gelen",
-    "hava",
-    "kazas",
-    "meyda",
-    "sehit",
-    "topla",
-    "turki",
-    "verdi"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "paylasildi": "2026-11-25T01:32:37.622560+03:00",
-   "ig_id": "18136097548808533",
-   "reels_id": "18120168935119016",
-   "story_id": "18105262661382371",
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1808571150419689",
-   "slayt": 1,
-   "kanca": "Son dakika",
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
   "2a70f192bab9": {
    "id": "2a70f192bab9",
    "kaynak": "BBC Türkçe",
@@ -31230,7 +31188,10 @@
    "fb_id": null,
    "fb_reels_id": "1681787260322562",
    "slayt": 5,
-   "kanca": "10 ŞÜPHELİ TUTUKLANDI"
+   "kanca": "10 ŞÜPHELİ TUTUKLANDI",
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "606ab6a0b9af": {
    "id": "606ab6a0b9af",
@@ -31333,7 +31294,10 @@
     "spk"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "f9679e0477b7": {
    "id": "f9679e0477b7",
@@ -31357,6 +31321,50 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "596ad37f8703": {
+   "id": "596ad37f8703",
+   "kaynak": "Hürriyet",
+   "baslik": "SPK'den 55,3 milyon liralık idari para cezası",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), 3 gerçek ve 7 tüzel kişiye toplam 55 milyon 345 bin 53 lira idari para cezası uygulanmasına karar verdi.",
+   "link": "https://www.hurriyet.com.tr/gundem/spkden-55-3-milyon-liralik-idari-para-cezasi-43393841",
+   "zaman": "2026-11-28T01:10:00+03:00",
+   "kelimeler": [
+    "55",
+    "cezas",
+    "den",
+    "idari",
+    "liral",
+    "milyo",
+    "para",
+    "spk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9437fb56f7e9"
+  },
+  "7cbc9395934f": {
+   "id": "7cbc9395934f",
+   "kaynak": "TRT Haber",
+   "baslik": "Kartal Belediyesi'ne yönelik usulsüz bina ölçümleri soruşturmasında 10 kişi tutuklandı",
+   "ozet": "Kartal Belediyesi yetkililerinin usulsüz yapılan bina ölçümlerini onayladığı gerekçesiyle başlatılan soruşturmada gözaltına alınan, aralarında belediyenin kentsel dönüşüm müdürünün de bulunduğu 10 şüpheli tutuklandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/kartal-belediyesine-yonelik-usulsuz-bina-olcumleri-sorusturmasinda-10-kisi-tutuklandi-964706.html",
+   "zaman": "2026-11-28T01:15:00+03:00",
+   "kelimeler": [
+    "10",
+    "beled",
+    "bina",
+    "karta",
+    "kisi",
+    "olcum",
+    "sorus",
+    "tutuk",
+    "usuls",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "f7f4c3d67fb9"
   }
  },
  "kayit": [
