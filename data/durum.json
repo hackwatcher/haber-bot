@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "08a738b24259": {
-   "id": "08a738b24259",
-   "kaynak": "AA",
-   "baslik": "Nvidia'nın CEO'su Huang'ın kamuoyuna yansımayan ilişkilerini de yönetim kuruluna açıkladığı iddiası",
-   "ozet": "ABD merkezli çip üreticisi Nvidia'nın Üst Yöneticisi (CEO) Jensen Huang'ın, daha önce kamuoyuna yansıyan ilişkilerinin yanı sıra başka ilişkileri olduğunu da şirketin yönetim kuruluna açıkladığı ileri sürüldü.",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nvidianin-ceosu-huangin-kamuoyuna-yansimayan-iliskilerini-de-yonetim-kuruluna-acikladigi-iddiasi/4136342",
-   "zaman": "2026-11-24T21:46:03+03:00",
-   "kelimeler": [
-    "acikl",
-    "ceo",
-    "huang",
-    "iddia",
-    "ilisk",
-    "in",
-    "kamuo",
-    "kurul",
-    "nin",
-    "nvidi",
-    "su",
-    "yansi",
-    "yonet"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "a3c7b2c4a66d"
-  },
-  "7826f6c8fa16": {
-   "id": "7826f6c8fa16",
-   "kaynak": "AA",
-   "baslik": "Galata Kulesi'nde Öğretmenler Günü'ne özel mapping gösterisi",
-   "ozet": "Galata Kulesi'nde \"24 Kasım Öğretmenler Günü\" dolayısıyla yapılan mapping gösterisi yoğun ilgi gördü.",
-   "link": "https://www.aa.com.tr/tr/gundem/galata-kulesinde-ogretmenler-gunune-ozel-mapping-gosterisi/4136346",
-   "zaman": "2026-11-24T21:49:21+03:00",
-   "kelimeler": [
-    "galat",
-    "goste",
-    "gunu",
-    "kules",
-    "mappi",
-    "nde",
-    "ogret",
-    "ozel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "14f1c243bf36": {
-   "id": "14f1c243bf36",
-   "kaynak": "AA",
-   "baslik": "Galler Prensi William, İngiltere Başbakanı Burnham'ı Başbakanlık Ofisi'nde ilk kez ziyaret etti",
-   "ozet": "İngiltere tahtının varisi Galler Prensi William'ın, Başbakan Andy Burnham'ı Başbakanlık Ofisi 10 Numara'da ilk kez ziyaret ettiği belirtildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/galler-prensi-william-ingiltere-basbakani-burnhami-basbakanlik-ofisinde-ilk-kez-ziyaret-etti/4136357",
-   "zaman": "2026-11-24T21:56:51+03:00",
-   "kelimeler": [
-    "basba",
-    "burnh",
-    "etti",
-    "galle",
-    "ilk",
-    "ingil",
-    "kez",
-    "nde",
-    "ofisi",
-    "prens",
-    "willi",
-    "ziyar"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "ea76936573bc": {
    "id": "ea76936573bc",
    "kaynak": "Hürriyet",
@@ -223,28 +153,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "ea76936573bc"
-  },
-  "ef3e36b431d7": {
-   "id": "ef3e36b431d7",
-   "kaynak": "AA",
-   "baslik": "Bakan Şimşek: Türkiye ile Umman'ın tarih boyunca üstlendikleri çok önemli bir rol var",
-   "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Türkiye ile Umman'ın tarih boyunca üstlendikleri çok önemli bir rol var. Her iki ülke de bulundukları coğrafyalar arasında ticaretin ve kültürel etkileşimin gelişmesine büyük katkı sağlıyor.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-turkiye-ile-ummanin-tarih-boyunca-ustlendikleri-cok-onemli-bir-rol-var/4136361",
-   "zaman": "2026-11-24T22:00:56+03:00",
-   "kelimeler": [
-    "bakan",
-    "boyun",
-    "in",
-    "oneml",
-    "rol",
-    "simse",
-    "tarih",
-    "turki",
-    "umman",
-    "ustle"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "398b65cab1f5": {
    "id": "398b65cab1f5",
@@ -31983,7 +31891,10 @@
     "soyle"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "5351ccb32004": {
    "id": "5351ccb32004",
@@ -32002,9 +31913,99 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "5d8cd0608e22"
+  },
+  "3c2500bb7e7a": {
+   "id": "3c2500bb7e7a",
+   "kaynak": "AA",
+   "baslik": "Uyuşturucuyla mücadele kapsamında yılbaşından 20 Kasım'a kadar 42 bin 980 şüpheli tutuklandı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, yılbaşından 20 Kasım'a kadar uyuşturucu imal ve ticaretine yönelik gerçekleştirilen 49 bin 564 operasyonda 42 bin 980 şüphelinin tutuklandığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/uyusturucuyla-mucadele-kapsaminda-yilbasindan-20-kasima-kadar-42-bin-980-supheli-tutuklandi/4140884",
+   "zaman": "2026-11-27T21:41:23+03:00",
+   "kelimeler": [
+    "20",
+    "42",
+    "980",
+    "bin",
+    "kapsa",
+    "kasim",
+    "mucad",
+    "suphe",
+    "tutuk",
+    "uyust",
+    "yilba"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "f6d41d20ccd1": {
+   "id": "f6d41d20ccd1",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Fidan: Gürcistan'ın Ankara Büyükelçisi'ne gereken uyarıları yaptık",
+   "ozet": "Dışişleri Bakanı Fidan, Beşiktaş'ın Gürcistan'ın Batum kentinde oynadığı UEFA Avrupa Ligi maçında yaşanan olaylara ilişkin, \"Bu, bizim için son derece kabul edilemez bir durum. Seyircilerimizin böyle muamele görmesini biz kabul edemeyiz.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-gurcistanin-ankara-buyukelcisine-gereken-uyarilari-yaptik-964693.html",
+   "zaman": "2026-11-27T21:43:00+03:00",
+   "kelimeler": [
+    "ankar",
+    "bakan",
+    "buyuk",
+    "fidan",
+    "gerek",
+    "gurci",
+    "in",
+    "uyari",
+    "yapti"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "db3b51ab1f29"
+  },
+  "b0007a196a7f": {
+   "id": "b0007a196a7f",
+   "kaynak": "Hürriyet",
+   "baslik": "Dışişleri Bakanı Hakan Fidan: Barışa katkı sağlaması bu Mekke İttifakı'nın en büyük amacı",
+   "ozet": "Dışişleri Bakanı Hakan Fidan, Ortak Savunma için Mekke İttifakı'ndaki ülkelerin askeri ve savunma sanayisindeki imkanlarını bir araya getirerek daha fazla ortaya güç çıkarmasının ve barış ile istikrara katkı sağlamasının ittifakın en büyük amacı olduğunu söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-barisa-katki-saglamasi-bu-mekke-ittifakinin-en-buyuk-amaci-43393706",
+   "zaman": "2026-11-27T21:47:39+03:00",
+   "kelimeler": [
+    "amaci",
+    "bakan",
+    "baris",
+    "buyuk",
+    "disis",
+    "fidan",
+    "hakan",
+    "ittif",
+    "katki",
+    "mekke",
+    "nin",
+    "sagla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee4a8b9e0178"
+  },
+  "7c2d7322eb26": {
+   "id": "7c2d7322eb26",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Çiftçi: Zehir tacirlerinin tezgahlarını başlarına yıkıyoruz",
+   "ozet": "İçişleri Bakanı Çiftçi, yılbaşından 20 Kasım'a kadar uyuşturucu imal ve ticaretine yönelik gerçekleştirilen 49 bin 564 operasyonda 42 bin 980 şüphelinin tutuklandığını açıkladı.",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-zehir-tacirlerinin-tezgahlarini-baslarina-yikiyoruz-964694.html",
+   "zaman": "2026-11-27T21:48:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "basla",
+    "ciftc",
+    "tacir",
+    "tezga",
+    "yikiy",
+    "zehir"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "27.11 22:01:21  2 yeni haber",
   "27.11 21:45:56  6 yeni haber",
   "27.11 21:31:11  1 yeni haber",
   "27.11 21:16:36  4 yeni haber",
@@ -32203,8 +32204,7 @@
   "25.11 17:16:03  5 yeni haber",
   "25.11 17:01:42  4 yeni haber",
   "25.11 16:45:59  2 yeni haber",
-  "25.11 16:41:19  6 yeni haber",
-  "25.11 16:31:09  5 yeni haber"
+  "25.11 16:41:19  6 yeni haber"
  ],
  "otomatik": false
 }
