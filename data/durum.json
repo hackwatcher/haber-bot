@@ -32563,7 +32563,10 @@
     "izmir"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "51a2621ca98d": {
    "id": "51a2621ca98d",
@@ -32582,6 +32585,23 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "78e988994854"
+  },
+  "82fc5abb4967": {
+   "id": "82fc5abb4967",
+   "kaynak": "Hürriyet",
+   "baslik": "İzmir açıklarında 4.1 büyüklüğünde deprem",
+   "ozet": "İzmir'in Seferihisar ilçesi açıklarında Richter ölçeğine göre 4.1 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/izmir-aciklarinda-4-1-buyuklugunde-deprem-43392628",
+   "zaman": "2026-11-27T06:37:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "buyuk",
+    "depre",
+    "izmir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "e9d7c6e51320"
   }
  },
  "kayit": [
