@@ -1,75 +1,5 @@
 {
  "haberler": {
-  "5042d474e42b": {
-   "id": "5042d474e42b",
-   "kaynak": "TRT Haber",
-   "baslik": "Kabine üyelerinden şehit askerlerimiz için başsağlığı mesajı",
-   "ozet": "Cumhurbaşkanlığı Kabinesi üyeleri, Eskişehir'de kaza kırıma uğrayan helikopterde şehit olan 5 asker için başsağlığı mesajı yayımladı.",
-   "link": "https://www.trthaber.com/haber/gundem/kabine-uyelerinden-sehit-askerlerimiz-icin-bassagligi-mesaji-964365.html",
-   "zaman": "2026-11-24T22:51:00+03:00",
-   "kelimeler": [
-    "asker",
-    "bassa",
-    "kabin",
-    "mesaj",
-    "sehit",
-    "uyele"
-   ],
-   "durum": "paylasildi",
-   "oncelikli": true,
-   "diger_kaynaklar": [],
-   "paylasildi": "2026-11-25T00:03:26.703760+03:00",
-   "ig_id": "18133473763695559",
-   "reels_id": "18148530925599416",
-   "story_id": null,
-   "yorum_id": null,
-   "fb_id": null,
-   "fb_reels_id": "1171179849040689",
-   "slayt": 1,
-   "kanca": "Son dakika"
-  },
-  "6b8f8bf49cbe": {
-   "id": "6b8f8bf49cbe",
-   "kaynak": "NTV",
-   "baslik": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
-   "ozet": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, piyasa dolandırıcılığı cezalarının artırılmasını öngören düzenleme taslağının hazırlandığı bildirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
-   "zaman": "2026-11-24T22:54:08+03:00",
-   "kelimeler": [
-    "duzen",
-    "fon",
-    "hazir",
-    "koord",
-    "kurul",
-    "topla",
-    "yeni"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8f91f38f13e1": {
-   "id": "8f91f38f13e1",
-   "kaynak": "TRT Haber",
-   "baslik": "Uraloğlu'ndan HGS açıklaması: Usulüne uygun yapılmamış ödemeler iade edilecek",
-   "ozet": "Ulaştırma ve Altyapı bakanı Abdulkadir Uraloğlu, HGS ödemelerinde yasal takibi durdurduklarını belirterek, usulüne uygun yapılmamış bütün ödemeleri iade ettireceklerini duyurdu.",
-   "link": "https://www.trthaber.com/haber/ekonomi/uraloglundan-hgs-aciklamasi-usulune-uygun-yapilmamis-odemeler-iade-edilecek-964366.html",
-   "zaman": "2026-11-24T22:57:00+03:00",
-   "kelimeler": [
-    "acikl",
-    "edile",
-    "hgs",
-    "iade",
-    "ndan",
-    "odeme",
-    "uralo",
-    "usulu",
-    "uygun",
-    "yapil"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ea76936573bc"
-  },
   "55557b91fe75": {
    "id": "55557b91fe75",
    "kaynak": "TRT Haber",
@@ -24788,7 +24718,8 @@
    "oncelikli": true,
    "diger_kaynaklar": [
     "Hürriyet",
-    "AA"
+    "AA",
+    "NTV"
    ],
    "paylasildi": "2026-11-27T12:33:18.350008+03:00",
    "ig_id": "18139814149660910",
@@ -31722,9 +31653,84 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "7d8c479ebc8c": {
+   "id": "7d8c479ebc8c",
+   "kaynak": "AA",
+   "baslik": "Mekke İttifakı bünyesindeki Stratejik Siyasi ve Savunma Komitesi'nin ortak açıklaması yayımlandı",
+   "ozet": "Mekke İttifakı bünyesindeki komitenin ortak açıklamasında, Husilerin Suudi Arabistan'a yönelik saldırılarının güçlü şekilde kınandığı yinelendi, ülkenin güvenliğinin korunmasına verilen desteğin sürdürülmesi konusundaki kararlılık vurgulandı.",
+   "link": "https://www.aa.com.tr/tr/dunya/mekke-ittifaki-bunyesindeki-stratejik-siyasi-ve-savunma-komitesinin-ortak-aciklamasi-yayimlandi/4140932",
+   "zaman": "2026-11-27T22:49:30+03:00",
+   "kelimeler": [
+    "acikl",
+    "bunye",
+    "ittif",
+    "komit",
+    "mekke",
+    "nin",
+    "ortak",
+    "savun",
+    "siyas",
+    "strat",
+    "yayim"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2e0b5e6d756d": {
+   "id": "2e0b5e6d756d",
+   "kaynak": "NTV",
+   "baslik": "73 ilde zehir tacirlerine ağır darbe. Bakan Çiftçi: 42 bin 980 şüpheli tutuklandı",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 73 ilde yapılan operasyonlarda, yılbaşından bugüne 48,4 ton uyuşturucu madde, 122 milyon uyuşturucu hap ve 22 milyon kök kenevir ile skunk ele geçirildiğini açıkladı.",
+   "link": "https://www.ntv.com.tr/turkiye/73-ilde-zehir-tacirlerine-agir-darbe-bakan-ciftci-42-bin-980-supheli-tutuklandi-1752909",
+   "zaman": "2026-11-27T22:53:32+03:00",
+   "kelimeler": [
+    "42",
+    "73",
+    "980",
+    "agir",
+    "bakan",
+    "bin",
+    "ciftc",
+    "darbe",
+    "ilde",
+    "suphe",
+    "tacir",
+    "tutuk",
+    "zehir"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "c40e23a5ff10"
+  },
+  "bd0e8fd41a30": {
+   "id": "bd0e8fd41a30",
+   "kaynak": "AA",
+   "baslik": "TBMM Plan ve Bütçe Komisyonunda 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi kabul edildi",
+   "ozet": "TBMM Plan ve Bütçe Komisyonunda, 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi ile 2025 Yılı Merkezi Yönetim Kesin Hesap Kanunu Teklifi kabul edildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-plan-ve-butce-komisyonunda-2027-yili-merkezi-yonetim-butce-kanunu-teklifi-kabul-edildi/4140934",
+   "zaman": "2026-11-27T22:56:01+03:00",
+   "kelimeler": [
+    "2027",
+    "butce",
+    "edild",
+    "kabul",
+    "kanun",
+    "komis",
+    "merke",
+    "plan",
+    "tbmm",
+    "tekli",
+    "yili",
+    "yonet"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5d8cd0608e22"
   }
  },
  "kayit": [
+  "27.11 23:01:41  1 yeni haber",
   "27.11 22:46:02  3 yeni haber",
   "27.11 22:31:09  3 yeni haber",
   "27.11 22:16:26  3 yeni haber",
@@ -31923,8 +31929,7 @@
   "25.11 18:15:59  2 yeni haber",
   "25.11 18:01:33  4 yeni haber",
   "25.11 17:45:57  8 yeni haber",
-  "25.11 17:31:48  2 yeni haber",
-  "25.11 17:16:03  5 yeni haber"
+  "25.11 17:31:48  2 yeni haber"
  ],
  "otomatik": false
 }
