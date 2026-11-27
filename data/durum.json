@@ -1,153 +1,5 @@
 {
  "haberler": {
-  "b26cdc248d83": {
-   "id": "b26cdc248d83",
-   "kaynak": "TRT Haber",
-   "baslik": "Karadeniz için fırtına uyarısı",
-   "ozet": "Batı Karadeniz'in doğusu ile Doğu Karadeniz'de rüzgarın yarın fırtına şeklinde esmesi bekleniyor.",
-   "link": "https://www.trthaber.com/haber/turkiye/karadeniz-icin-firtina-uyarisi-964321.html",
-   "zaman": "2026-11-24T14:17:00+03:00",
-   "kelimeler": [
-    "firti",
-    "karad",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "6de5fd80a9be"
-  },
-  "1641d89c951c": {
-   "id": "1641d89c951c",
-   "kaynak": "AA",
-   "baslik": "Aksaray'da yolcu otobüsü devrildi, 22 kişi yaralandı",
-   "ozet": "Aksaray'da yolcu otobüsünün devrilmesi sonucu 1'i ağır 22 kişi yaralandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/aksarayda-yolcu-otobusu-devrildi-22-kisi-yaralandi-/4135691",
-   "zaman": "2026-11-24T14:18:29+03:00",
-   "kelimeler": [
-    "22",
-    "aksar",
-    "devri",
-    "kisi",
-    "otobu",
-    "yaral",
-    "yolcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "c12ede8b4adb"
-  },
-  "f5ee1d347a1c": {
-   "id": "f5ee1d347a1c",
-   "kaynak": "Hürriyet",
-   "baslik": "71 ilde eş zamanlı mali suç operasyonu: Silah, nakit, altın ve milyonluk çekler çıktı",
-   "ozet": "Tefecilikten rüşvete uzanan suçlamalarla 301’i gözaltı kararlı 455 şüpheliye operasyon düzenlendi. Aramalarda 26 ruhsatsız silah, milyonluk çekler, nakit para, döviz ve altın ele geçirildi.",
-   "link": "https://www.hurriyet.com.tr/gundem/71-ilde-es-zamanli-mali-suc-operasyonu-silah-nakit-altin-ve-milyonluk-cekler-cikti-43389398",
-   "zaman": "2026-11-24T14:27:00+03:00",
-   "kelimeler": [
-    "71",
-    "altin",
-    "cekle",
-    "cikti",
-    "es",
-    "ilde",
-    "mali",
-    "milyo",
-    "nakit",
-    "opera",
-    "silah",
-    "suc",
-    "zaman"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "9bbc7285ccc7": {
-   "id": "9bbc7285ccc7",
-   "kaynak": "AA",
-   "baslik": "Belçika'da gösteri sonrası gazeteciye polis şiddeti",
-   "ozet": "Belçika Profesyonel Gazeteciler Birliği (AJP), 23 Kasım'da düzenlenen gösterinin ardından bir gazetecinin polis tarafından darbedildiğini bildirdi.",
-   "link": "https://www.aa.com.tr/tr/dunya/belcikada-gosteri-sonrasi-gazeteciye-polis-siddeti/4135685",
-   "zaman": "2026-11-24T14:16:23+03:00",
-   "kelimeler": [
-    "belci",
-    "gazet",
-    "goste",
-    "polis",
-    "sidde",
-    "sonra"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "3c1b4f2b4ed3": {
-   "id": "3c1b4f2b4ed3",
-   "kaynak": "AA",
-   "baslik": "Eski İsrail Başbakanı Olmert'in kızı, gözaltında İsrail polisi tarafından darbedildiğini söyledi",
-   "ozet": "Eski İsrail Başbakanı Ehud Olmert'in kızı Dana Olmert'in, Tel Aviv'de gözaltına alındığı sırada polis tarafından darbedildiği bildirildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/eski-israil-basbakani-olmertin-kizi-gozaltinda-israil-polisi-tarafindan-darbedildigini-soyledi/4135699",
-   "zaman": "2026-11-24T14:24:21+03:00",
-   "kelimeler": [
-    "basba",
-    "darbe",
-    "eski",
-    "gozal",
-    "in",
-    "israi",
-    "kizi",
-    "olmer",
-    "polis",
-    "soyle",
-    "taraf"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "7aafe09916e9": {
-   "id": "7aafe09916e9",
-   "kaynak": "AA",
-   "baslik": "AB, bazı ülkelerden hibrit otomobil ithalatına geçici kota getirdi",
-   "ozet": "Avrupa Birliği (AB) Komisyonu, birlik otomobil üreticilerini korumak amacıyla Çin, ABD, Japonya, Güney Kore, İngiltere ve Türkiye'nin de aralarında bulunduğu üçüncü ülkelerden hibrit otomobillerin ithalatına geçici kota getirdi.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ab-bazi-ulkelerden-hibrit-otomobil-ithalatina-gecici-kota-getirdi/4135710",
-   "zaman": "2026-11-24T14:27:45+03:00",
-   "kelimeler": [
-    "ab",
-    "bazi",
-    "gecic",
-    "getir",
-    "hibri",
-    "ithal",
-    "kota",
-    "otomo",
-    "ulkel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "e6ef45bba7d7": {
-   "id": "e6ef45bba7d7",
-   "kaynak": "AA",
-   "baslik": "Jared Kushner, Trump'ı Zelenskiy'e yönelik sert tutumundan vazgeçirmeye çalıştığını söyledi",
-   "ozet": "ABD Başkanı Donald Trump'ın damadı ve Özel Temsilcisi Jared Kushner, Trump'ı, Ukrayna Devlet Başkanı Volodimir Zelenskiy'e yönelik sert tutumundan vazgeçirmeye çalıştığını belirtti.",
-   "link": "https://www.aa.com.tr/tr/dunya/jared-kushner-trumpi-zelenskiye-yonelik-sert-tutumundan-vazgecirmeye-calistigini-soyledi/4135718",
-   "zaman": "2026-11-24T14:31:08+03:00",
-   "kelimeler": [
-    "calis",
-    "jared",
-    "kushn",
-    "sert",
-    "soyle",
-    "trump",
-    "tutum",
-    "vazge",
-    "yonel",
-    "zelen"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "460163a3fef7": {
    "id": "460163a3fef7",
    "kaynak": "AA",
@@ -7308,27 +7160,6 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": []
-  },
-  "026504771f43": {
-   "id": "026504771f43",
-   "kaynak": "AA",
-   "baslik": "YSK Başkanı Mutta, Antalya Uluslararası Seçim Forumu'nda konuştu",
-   "ozet": "Yüksek Seçim Kurulu (YSK) Başkanı Serdar Mutta, \"Seçim dönemlerinde, manipülatif içeriklerin seçmen iradesini zedeleme riskine karşı kurumlarımızın koordineli hareket etmesi tarihi bir zorunluluktur.\" dedi.",
-   "link": "https://www.aa.com.tr/tr/gundem/ysk-baskani-mutta-antalya-uluslararasi-secim-forumunda-konustu/4135716",
-   "zaman": "2026-11-24T14:30:23+03:00",
-   "kelimeler": [
-    "antal",
-    "baska",
-    "forum",
-    "konus",
-    "mutta",
-    "nda",
-    "secim",
-    "ulusl",
-    "ysk"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "9610d108ba38": {
    "id": "9610d108ba38",
@@ -30232,7 +30063,10 @@
     "vatan"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "069f8a44c3cc": {
    "id": "069f8a44c3cc",
@@ -31864,9 +31698,117 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ebbb570f8c49": {
+   "id": "ebbb570f8c49",
+   "kaynak": "TRT Haber",
+   "baslik": "Bakan Yumaklı: Tarımsal hasılada 90 milyar dolar tavanına yaklaştık",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"İhracatımız 30 milyar doların üzerine çıktı.",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-yumakli-tarimsal-hasilada-90-milyar-dolar-tavanina-yaklastik-964651.html",
+   "zaman": "2026-11-27T14:05:00+03:00",
+   "kelimeler": [
+    "90",
+    "bakan",
+    "dolar",
+    "hasil",
+    "milya",
+    "tarim",
+    "tavan",
+    "yakla",
+    "yumak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
+  },
+  "8d627d24aff9": {
+   "id": "8d627d24aff9",
+   "kaynak": "AA",
+   "baslik": "IKBY'de derinleşen kriz ve Bağdat hükümetinin kararları",
+   "ozet": "Bağdat'ın kararları, taraflar arasında ortak bir çıkar zemini yaratsa da onları karşı karşıya getiren parlamento oturumu konusunda ortak bir tutum oluşmasını sağlamadı",
+   "link": "https://www.aa.com.tr/tr/analiz/ikbyde-derinlesen-kriz-ve-bagdat-hukumetinin-kararlari/4140300",
+   "zaman": "2026-11-27T14:08:37+03:00",
+   "kelimeler": [
+    "bagda",
+    "derin",
+    "hukum",
+    "ikby",
+    "karar",
+    "kriz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "70c2d1bd2d14": {
+   "id": "70c2d1bd2d14",
+   "kaynak": "TRT Haber",
+   "baslik": "Ritmik, 86 milyon vatandaşın kişisel sağlık asistanı olacak",
+   "ozet": "Sağlık Bakan Yardımcısı Doç. Dr. Şuayıp Birinci, \"Artık 86 milyon kişinin Ritmik diye bir asistanı var. Geçmişte eNabızı tanıtan eNabız Ritmik, bugün bireysel sağlık asistanına dönüşmüş durumda. Herkese sağlığına göre öneriler sunacak\" dedi.",
+   "link": "https://www.trthaber.com/haber/saglik/ritmik-86-milyon-vatandasin-kisisel-saglik-asistani-olacak-964652.html",
+   "zaman": "2026-11-27T14:17:00+03:00",
+   "kelimeler": [
+    "86",
+    "asist",
+    "kisis",
+    "milyo",
+    "olaca",
+    "ritmi",
+    "sagli",
+    "vatan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "19968f511ebe"
+  },
+  "1bb20217bfe6": {
+   "id": "1bb20217bfe6",
+   "kaynak": "AA",
+   "baslik": "Bakan Yumaklı: Ülkemizde tarımsal hasıla 90 milyar dolar tavanına yaklaştı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"Ülkemizde tarımsal hasıla 90 milyar dolar tavanına yaklaştı. Aynı şekilde ihracatımız 30 milyar doların üzerine çıktı.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-ulkemizde-tarimsal-hasila-90-milyar-dolar-tavanina-yaklasti/4140324",
+   "zaman": "2026-11-27T14:22:49+03:00",
+   "kelimeler": [
+    "90",
+    "bakan",
+    "dolar",
+    "hasil",
+    "milya",
+    "tarim",
+    "tavan",
+    "ulkem",
+    "yakla",
+    "yumak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ebbb570f8c49"
+  },
+  "cc2076313a55": {
+   "id": "cc2076313a55",
+   "kaynak": "AA",
+   "baslik": "Hafta sonundan itibaren yurtta hava sıcaklıkları hissedilir derecede düşecek",
+   "ozet": "Yurt genelinde mevsim normalleri civarında seyreden hava sıcaklıklarının pazar gününden itibaren kuzeybatı kesimlerden başlayarak hissedilir derecede azalması bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/hafta-sonundan-itibaren-yurtta-hava-sicakliklari-hissedilir-derecede-dusecek/4140327",
+   "zaman": "2026-11-27T14:27:27+03:00",
+   "kelimeler": [
+    "derec",
+    "dusec",
+    "hafta",
+    "hava",
+    "hisse",
+    "itiba",
+    "sicak",
+    "sonun",
+    "yurtt"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 14:31:49  3 yeni haber",
   "27.11 14:17:51  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Ankara Toptancı Hali'ne yönelik operasyonda gözaltına alınan 30 şüphel",
   "27.11 14:15:56  3 yeni haber",
   "27.11 14:01:56  9 yeni haber",
@@ -32065,8 +32007,7 @@
   "25.11 10:31:10  7 yeni haber",
   "25.11 10:15:58  9 yeni haber",
   "25.11 10:01:20  4 yeni haber",
-  "25.11 09:45:58  5 yeni haber",
-  "25.11 09:32:58  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Fonda 4 yeni tutuklama"
+  "25.11 09:45:58  5 yeni haber"
  ],
  "otomatik": false
 }
