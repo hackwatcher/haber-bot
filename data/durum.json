@@ -31050,7 +31050,8 @@
     "yedig"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "69db5ade7483": {
    "id": "69db5ade7483",
@@ -31215,7 +31216,10 @@
     "uyari"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "788bb08135e1": {
    "id": "788bb08135e1",
@@ -31483,9 +31487,100 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "de7a5682de24": {
+   "id": "de7a5682de24",
+   "kaynak": "TRT Haber",
+   "baslik": "Bolu'ya geziye giden 10 kız çocuğu ve 3 görevli sağ olarak bulundu",
+   "ozet": "Bolu Yedigöller bölgesine geziye giden 10 kız çocuğu ve 3 görevli personelin bulunduğu araçla dönüş yolunda irtibat kesildi. Saatler süren arama çalışmalarının ardından bataklığa saplandığı tespit edilen araç bulundu.",
+   "link": "https://www.trthaber.com/haber/turkiye/boluya-geziye-giden-10-kiz-cocugu-ve-3-gorevli-sag-olarak-bulundu-964701.html",
+   "zaman": "2026-11-27T23:20:00+03:00",
+   "kelimeler": [
+    "10",
+    "bolu",
+    "bulun",
+    "cocug",
+    "geziy",
+    "giden",
+    "gorev",
+    "kiz",
+    "sag",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "abd88b381a2d"
+  },
+  "231dbe340b89": {
+   "id": "231dbe340b89",
+   "kaynak": "AA",
+   "baslik": "Bakan Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını açıkladı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu açıkladı.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigoller-bolgesine-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967",
+   "zaman": "2026-11-27T23:31:32+03:00",
+   "kelimeler": [
+    "amaci",
+    "aract",
+    "bakan",
+    "bolge",
+    "cocuk",
+    "gezi",
+    "giden",
+    "gokta",
+    "perso",
+    "ulasi",
+    "yedig"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8b8ba2892675"
+  },
+  "7757d49a5e10": {
+   "id": "7757d49a5e10",
+   "kaynak": "AA",
+   "baslik": "Marmara, Kuzey Ege ve Batı Karadeniz için fırtına uyarısı",
+   "ozet": "Batı Karadeniz ve Kuzey Ege'de bugün, Marmara'da pazar günü fırtına bekleniyor.",
+   "link": "https://www.aa.com.tr/tr/gundem/marmara-kuzey-ege-ve-bati-karadeniz-icin-firtina-uyarisi/4140991",
+   "zaman": "2026-11-28T00:08:15+03:00",
+   "kelimeler": [
+    "bati",
+    "ege",
+    "firti",
+    "karad",
+    "kuzey",
+    "marma",
+    "uyari"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5a97e2b11ff5"
+  },
+  "20fd3651bc44": {
+   "id": "20fd3651bc44",
+   "kaynak": "AA",
+   "baslik": "İsrail basını: Netanyahu, Trump'ın Gazze planının uygulanmasını onaylamak için kabineyi toplayacak",
+   "ozet": "İsrail basını, geçici Başbakan Binyamin Netanyahu'nun, ABD Başkanı Donald Trump'ın Gazze planının uygulanmasını onaylamak için pazar günü kabineyi toplayacağını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-trumpin-gazze-planinin-uygulanmasini-onaylamak-icin-kabineyi-toplayacak/4141048",
+   "zaman": "2026-11-28T00:26:46+03:00",
+   "kelimeler": [
+    "basin",
+    "gazze",
+    "in",
+    "israi",
+    "kabin",
+    "netan",
+    "onayl",
+    "plani",
+    "topla",
+    "trump",
+    "uygul"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.11 02:31:12  1 yeni haber",
   "28.11 02:15:55  4 yeni haber",
   "28.11 02:01:32  1 yeni haber",
   "28.11 01:15:52  2 yeni haber",
@@ -31684,8 +31779,7 @@
   "25.11 22:01:19  3 yeni haber",
   "25.11 21:46:22  6 yeni haber",
   "25.11 21:31:09  2 yeni haber",
-  "25.11 21:20:48  2 yeni haber",
-  "25.11 21:08:02  7 yeni haber"
+  "25.11 21:20:48  2 yeni haber"
  ],
  "otomatik": false
 }
