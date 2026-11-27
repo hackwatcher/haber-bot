@@ -1,70 +1,5 @@
 {
  "haberler": {
-  "2d867e1a69e2": {
-   "id": "2d867e1a69e2",
-   "kaynak": "Sözcü",
-   "baslik": "Ünlülere yönelik uyuşturucu operasyonu! Aralarında Özcan Deniz ve Deniz Çakır da var",
-   "ozet": "",
-   "link": "https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124",
-   "zaman": "2026-11-24T23:28:33+03:00",
-   "kelimeler": [
-    "arala",
-    "cakir",
-    "deniz",
-    "opera",
-    "ozcan",
-    "unlul",
-    "uyust",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "NTV",
-    "Hürriyet"
-   ]
-  },
-  "2e02f635597b": {
-   "id": "2e02f635597b",
-   "kaynak": "TRT Haber",
-   "baslik": "İstanbul'da fuhuş ve uyuşturucu soruşturmasında 35 gözaltı kararı",
-   "ozet": "İstanbul Cumhuriyet Başsavcılığınca yürütülen fuhuş ve uyuşturucu soruşturmaları kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Operasyonda gözaltına alınanlar arasında şarkıcı Özcan Deniz ile oyuncu Deniz Çakır da bulunuyor.",
-   "link": "https://www.trthaber.com/haber/gundem/istanbulda-fuhus-ve-uyusturucu-sorusturmasinda-35-gozalti-karari-964370.html",
-   "zaman": "2026-11-24T23:24:00+03:00",
-   "kelimeler": [
-    "35",
-    "fuhus",
-    "gozal",
-    "istan",
-    "karar",
-    "sorus",
-    "uyust"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
-  "0481af737fd1": {
-   "id": "0481af737fd1",
-   "kaynak": "TRT Haber",
-   "baslik": "Bahçeli'den şehit askerlerimiz için başsağlığı mesajı",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit olan 5 asker için başsağlığı mesajı yayımladı.",
-   "link": "https://www.trthaber.com/haber/gundem/bahceliden-sehit-askerlerimiz-icin-bassagligi-mesaji-964371.html",
-   "zaman": "2026-11-24T23:28:00+03:00",
-   "kelimeler": [
-    "asker",
-    "bahce",
-    "bassa",
-    "den",
-    "mesaj",
-    "sehit"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5042d474e42b"
-  },
   "72fe66f6deea": {
    "id": "72fe66f6deea",
    "kaynak": "NTV",
@@ -428,26 +363,6 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "ff54f51a386a"
-  },
-  "b58a16d01800": {
-   "id": "b58a16d01800",
-   "kaynak": "TRT Haber",
-   "baslik": "Ünlülere yönelik uyuşturucu ve fuhuş soruşturması: 19 gözaltı",
-   "ozet": "İstanbul'da ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturmasında haklarında gözaltı kararı verilen 35 şüpheliden 19'u gözaltına alındı.",
-   "link": "https://www.trthaber.com/haber/gundem/unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasi-19-gozalti-964370.html",
-   "zaman": "2026-11-24T23:24:00+03:00",
-   "kelimeler": [
-    "19",
-    "fuhus",
-    "gozal",
-    "sorus",
-    "unlul",
-    "uyust",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "2e02f635597b"
   },
   "6ca30373464e": {
    "id": "6ca30373464e",
@@ -22559,7 +22474,8 @@
     "yagdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ee6f66041017": {
    "id": "ee6f66041017",
@@ -26541,7 +26457,8 @@
    "durum": "paylasildi",
    "oncelikli": true,
    "diger_kaynaklar": [
-    "Hürriyet"
+    "Hürriyet",
+    "AA"
    ],
    "paylasildi": "2026-11-27T14:17:51.961246+03:00",
    "ig_id": "18136415833753412",
@@ -29424,7 +29341,10 @@
     "zekas"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "85c7de205068": {
    "id": "85c7de205068",
@@ -31658,10 +31578,185 @@
     "perso"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "a49f92be1192": {
+   "id": "a49f92be1192",
+   "kaynak": "Hürriyet",
+   "baslik": "Bolu'da 10 kız çocuğu ile 3 personel kayıp... Bakan Göktaş'tan açıklama geldi",
+   "ozet": "Bolu'nun Yedigöller mevkisinde, içerisinde10 kız çocuğu ile 3 görevli personelin bulunduğu araçtan haber alınamaması üzerine Aile ve sosyal Hizmetler Bakanlığı'ndan açıklama geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/live-boluda-10-kiz-cocugu-ile-3-personel-kayip-bakan-goktastan-aciklama-geldi-43393761",
+   "zaman": "2026-11-27T23:10:00+03:00",
+   "kelimeler": [
+    "10",
+    "acikl",
+    "bakan",
+    "bolu",
+    "cocug",
+    "geldi",
+    "gokta",
+    "kayip",
+    "kiz",
+    "perso",
+    "tan"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "43ee5515b6f9"
+  },
+  "14322406adae": {
+   "id": "14322406adae",
+   "kaynak": "AA",
+   "baslik": "\"6. Uluslararası Kahramanmaraş Edebiyat Ödülleri\" sahiplerini buldu",
+   "ozet": "Kahramanmaraş Büyükşehir Belediyesi tarafından bu yıl 6. kez düzenlenen \"Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri\" kapsamında \"Uluslararası Kahramanmaraş Edebiyat Ödülleri\" verildi.",
+   "link": "https://www.aa.com.tr/tr/kultur/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu/4140953",
+   "zaman": "2026-11-27T23:11:45+03:00",
+   "kelimeler": [
+    "buldu",
+    "edebi",
+    "kahra",
+    "odull",
+    "sahip",
+    "ulusl"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ba10b1fc3263": {
+   "id": "ba10b1fc3263",
+   "kaynak": "Hürriyet",
+   "baslik": "'29’uncu Zoom Yılın En İyi Görüntüleri Yarışması'nda Demirören Medya'ya 2 ödül",
+   "ozet": "Türkiye Haber Kameramanları Derneği tarafından düzenlenen ‘29’uncu Zoom Yılın En İyi Görüntüleri Yarışması Ödül Töreni’ İçişleri Bakanı Mustafa Çiftçi’nin katılımıyla Ankara’da gerçekleştirildi. Demirören Medya Grubu bünyesindeki CNN TÜRK ve DHA da ödüle layık görüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/29uncu-zoom-yilin-en-iyi-goruntuleri-yarismasinda-demiroren-medyaya-2-odul-43393758",
+   "zaman": "2026-11-27T23:14:34+03:00",
+   "kelimeler": [
+    "29",
+    "demir",
+    "gorun",
+    "iyi",
+    "medya",
+    "nda",
+    "odul",
+    "uncu",
+    "ya",
+    "yaris",
+    "yilin",
+    "zoom"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5dab5692d0a7"
+  },
+  "f7041f398775": {
+   "id": "f7041f398775",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Yeni Parti lideri Özel, cumhurbaşkanı adayıyla ilgili 4 Aralık'ta açıklama yapacağını duyurdu",
+   "ozet": "Yeni Parti Genel Başkanı Özgür Özel, cumhurbaşkanı adaylığı konusunda 4 Aralık Cuma günü Ankara'da bir basın toplantısı düzenleyeceğini açıklayarak, \"Tüm Türkiye haftaya bugün başka bir şey konuşuyor olacak\" dedi.",
+   "link": "https://www.bbc.com/turkce/articles/cmpqrvg1g0r5o",
+   "zaman": "2026-11-27T23:16:40+03:00",
+   "kelimeler": [
+    "acikl",
+    "adayi",
+    "arali",
+    "cumhu",
+    "duyur",
+    "ilgil",
+    "lider",
+    "ozel",
+    "parti",
+    "ta",
+    "yapac",
+    "yeni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "8631a0f53e08": {
+   "id": "8631a0f53e08",
+   "kaynak": "AA",
+   "baslik": "Belçika'da yayıncılar kitaplara \"yapay zekasız\" etiketi basılmasını istiyor",
+   "ozet": "Belçika'da Fransızca yayın yapan yayınevleri, yapay zekanın yayıncılık sektöründe kullanımının yaygınlaşması nedeniyle insan emeğiyle hazırlanan kitapların özel bir etiketle belgelendirilmesini talep ediyor.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/belcikada-yayincilar-kitaplara-yapay-zekasiz-etiketi-basilmasini-istiyor/4140960",
+   "zaman": "2026-11-27T23:16:58+03:00",
+   "kelimeler": [
+    "basil",
+    "belci",
+    "etike",
+    "istiy",
+    "kitap",
+    "yapay",
+    "yayin",
+    "zekas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "6e0e019c821b"
+  },
+  "9d49b194c6d4": {
+   "id": "9d49b194c6d4",
+   "kaynak": "TRT Haber",
+   "baslik": "Kanada'da başörtüsü ve dini sembollere yasak onaylandı",
+   "ozet": "Kanada Yüksek Mahkemesi, ülkenin doğusundaki Quebec eyaletinde kamu sektörü çalışanlarının dini semboller taşımasını yasaklayan düzenlemenin anayasaya uygun olduğuna hükmetti.",
+   "link": "https://www.trthaber.com/haber/dunya/kanadada-basortusu-ve-dini-sembollere-yasak-onaylandi-964700.html",
+   "zaman": "2026-11-27T23:18:00+03:00",
+   "kelimeler": [
+    "basor",
+    "dini",
+    "kanad",
+    "onayl",
+    "sembo",
+    "yasak"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3febbd503843": {
+   "id": "3febbd503843",
+   "kaynak": "AA",
+   "baslik": "Ankara Toptancı Hali'ne yönelik operasyonda 13 şüpheli tutuklandı",
+   "ozet": "Ankara Büyükşehir Belediyesi Toptancı Hali'nde esnaf ve vatandaşlara baskı uygulayarak haksız kazanç sağladıkları iddiasıyla gözaltına alınan 30 şüpheliden 13'ü tutuklandı. Şüphelilerden 17'si ise adli kontrol şartı ile serbest bırakıldı.",
+   "link": "https://www.aa.com.tr/tr/gundem/ankara-toptanci-haline-yonelik-operasyonda-13-supheli-tutuklandi/4140962",
+   "zaman": "2026-11-27T23:20:03+03:00",
+   "kelimeler": [
+    "13",
+    "ankar",
+    "hali",
+    "opera",
+    "suphe",
+    "topta",
+    "tutuk",
+    "yonel"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "500bf10049fe"
+  },
+  "1378473a4d28": {
+   "id": "1378473a4d28",
+   "kaynak": "Sözcü",
+   "baslik": "Bolu'da 10 çocuk ve 3 personel kayıp! Bakanlıktan açıklama geldi",
+   "ozet": "",
+   "link": "https://www.sozcu.com.tr/bolu-da-arac-kayboldu-p384993",
+   "zaman": "2026-11-27T23:28:46+03:00",
+   "kelimeler": [
+    "10",
+    "acikl",
+    "bakan",
+    "bolu",
+    "cocuk",
+    "geldi",
+    "kayip",
+    "perso"
+   ],
+   "durum": "yeni",
    "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 23:31:08  4 yeni haber",
   "27.11 23:16:28  3 yeni haber",
   "27.11 23:01:41  1 yeni haber",
   "27.11 22:46:02  3 yeni haber",
@@ -31860,8 +31955,7 @@
   "25.11 19:01:27  8 yeni haber",
   "25.11 18:31:18  2 yeni haber",
   "25.11 18:15:59  2 yeni haber",
-  "25.11 18:01:33  4 yeni haber",
-  "25.11 17:45:57  8 yeni haber"
+  "25.11 18:01:33  4 yeni haber"
  ],
  "otomatik": false
 }
