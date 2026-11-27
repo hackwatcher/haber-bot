@@ -1,47 +1,5 @@
 {
  "haberler": {
-  "3712f184457f": {
-   "id": "3712f184457f",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Futbolun yeni genç yıldızı 16 yaşındaki JJ Gabriel'i neler bekliyor?",
-   "ozet": "Yılın en büyük transfer dedikodularından biri, henüz A takımda hiç resmi maça çıkmamış 16 yaşında bir oyuncu etrafında dönüyor.",
-   "link": "https://www.bbc.com/turkce/articles/cqr7gz4r1kvvo",
-   "zaman": "2026-11-24T03:28:45+03:00",
-   "kelimeler": [
-    "16",
-    "bekli",
-    "futbo",
-    "gabri",
-    "genc",
-    "jj",
-    "neler",
-    "yasin",
-    "yeni",
-    "yildi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "ab6665d79e16": {
-   "id": "ab6665d79e16",
-   "kaynak": "NTV",
-   "baslik": "Eber Gölü'nde dört farklı noktada yangın çıktı",
-   "ozet": "Türkiye'nin en büyük göllerinden birisi olan Eber gönlün Afyonkarahisar sınırları içerisinde kalan 4 farklı noktasında yangın çıktı.",
-   "link": "https://www.ntv.com.tr/turkiye/eber-golunde-dort-farkli-noktada-yangin-cikti-1752272",
-   "zaman": "2026-11-24T03:29:28+03:00",
-   "kelimeler": [
-    "cikti",
-    "dort",
-    "eber",
-    "farkl",
-    "golu",
-    "nde",
-    "nokta",
-    "yangi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1a8c283c8b91": {
    "id": "1a8c283c8b91",
    "kaynak": "NTV",
@@ -32434,7 +32392,8 @@
     "TRT Haber",
     "NTV",
     "Hürriyet",
-    "AA"
+    "AA",
+    "BBC Türkçe"
    ]
   },
   "e2ae0a61683c": {
@@ -32564,9 +32523,67 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "1fe6595ac987"
+  },
+  "dad906ad9bf6": {
+   "id": "dad906ad9bf6",
+   "kaynak": "TRT Haber",
+   "baslik": "Yargıtay üyeliklerine seçme kararı Resmi Gazete'de",
+   "ozet": "Hakimler ve Savcılar Kurulu HSK Başkanlığı Genel Kurulunca, Yargıtay'daki 5 üyelik için yapılan seçime yönelik karar Resmi Gazete'de yayımlandı.",
+   "link": "https://www.trthaber.com/haber/turkiye/yargitay-uyeliklerine-secme-karari-resmi-gazetede-964602.html",
+   "zaman": "2026-11-27T03:20:00+03:00",
+   "kelimeler": [
+    "gazet",
+    "karar",
+    "resmi",
+    "secme",
+    "uyeli",
+    "yargi"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "415268bff036": {
+   "id": "415268bff036",
+   "kaynak": "NTV",
+   "baslik": "Ünlülere uyuşturucu soruşturmasında 3 kişi hakkında tutuklama talebi",
+   "ozet": "İstanbul'da ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltı süresi uzatılan şüphelilerden 3'ü hakkında tutuklama, 10 kişi için ise adli kontrol istendi.",
+   "link": "https://www.ntv.com.tr/turkiye/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-1752774",
+   "zaman": "2026-11-27T03:21:01+03:00",
+   "kelimeler": [
+    "hakki",
+    "kisi",
+    "sorus",
+    "taleb",
+    "tutuk",
+    "unlul",
+    "uyust"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "547bec9df72b": {
+   "id": "547bec9df72b",
+   "kaynak": "BBC Türkçe",
+   "baslik": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+   "ozet": "Şahap Kavcıoğlu'nun fon kriziyle ilgili hakkında çıkan iddialar nedeniyle istifa etmesinin ardından Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı olarak Yusuf Kenan Bağır atandı.",
+   "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o",
+   "zaman": "2026-11-27T03:29:34+03:00",
+   "kelimeler": [
+    "atand",
+    "bagir",
+    "baska",
+    "bddk",
+    "kenan",
+    "na",
+    "yusuf"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "cd439c4e20b3"
   }
  },
  "kayit": [
+  "27.11 03:31:08  2 yeni haber",
   "27.11 01:57:19  1 yeni haber",
   "27.11 01:45:54  1 yeni haber",
   "27.11 01:33:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): AA · Milli takıma seçilen down sendromlu Hamza Dönmez'in hedefi masa tenisi",
@@ -32765,8 +32782,7 @@
   "24.11 23:16:30  5 yeni haber",
   "24.11 23:03:00  3 yeni haber",
   "24.11 22:45:54  5 yeni haber",
-  "24.11 22:31:28  6 yeni haber",
-  "24.11 22:15:56  6 yeni haber"
+  "24.11 22:31:28  6 yeni haber"
  ],
  "otomatik": false
 }
