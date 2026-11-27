@@ -1,50 +1,5 @@
 {
  "haberler": {
-  "5751d8f8cf27": {
-   "id": "5751d8f8cf27",
-   "kaynak": "BBC Türkçe",
-   "baslik": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
-   "ozet": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopterin kaza kırıma uğradığını bildirdi.",
-   "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo",
-   "zaman": "2026-11-24T21:29:07+03:00",
-   "kelimeler": [
-    "asker",
-    "bes",
-    "dustu",
-    "eskis",
-    "hayat",
-    "helik",
-    "kaybe"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "5f6520a7fcaf"
-  },
-  "e02a712c01da": {
-   "id": "e02a712c01da",
-   "kaynak": "TRT Haber",
-   "baslik": "Axios: Anthropic ve OpenAI, henüz yayımlamadıkları çok daha gelişmiş yapay zeka sistemlerine sahip",
-   "ozet": "ABD merkezli yapay zeka şirketleri Anthropic ve OpenAI'ın, kurum içinde geliştirilen ancak henüz kamuoyuna sunulmayan çok daha gelişmiş yapay zeka modellerine sahip olduğu iddia edildi.",
-   "link": "https://www.trthaber.com/haber/dunya/axios-anthropic-ve-openai-henuz-yayimlamadiklari-cok-daha-gelismis-yapay-zeka-sistemlerine-sahip-964357.html",
-   "zaman": "2026-11-24T21:22:00+03:00",
-   "kelimeler": [
-    "anthr",
-    "axios",
-    "gelis",
-    "henuz",
-    "opena",
-    "sahip",
-    "siste",
-    "yapay",
-    "yayim",
-    "zeka"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "AA"
-   ]
-  },
   "da429b847c6f": {
    "id": "da429b847c6f",
    "kaynak": "Hürriyet",
@@ -28918,7 +28873,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "Sözcü"
+    "Sözcü",
+    "Hürriyet"
    ]
   },
   "f109212edcaa": {
@@ -31861,7 +31817,10 @@
     "yapab"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f52f17cb047d": {
    "id": "f52f17cb047d",
@@ -31948,9 +31907,69 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "bb01a1195dd9"
+  },
+  "bfe795bbb888": {
+   "id": "bfe795bbb888",
+   "kaynak": "TRT Haber",
+   "baslik": "Fas'ta camilerde yağmur duası yapıldı",
+   "ozet": "Fas'ta ülke genelinde yağışların azalmasının ardından camilerde yağmur duası yapıldı.",
+   "link": "https://www.trthaber.com/haber/dunya/fasta-camilerde-yagmur-duasi-yapildi-964688.html",
+   "zaman": "2026-11-27T21:15:00+03:00",
+   "kelimeler": [
+    "camil",
+    "duasi",
+    "fas",
+    "ta",
+    "yagmu",
+    "yapil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "62203651b480": {
+   "id": "62203651b480",
+   "kaynak": "TRT Haber",
+   "baslik": "İtalya, BM raportörü Albanese için devreye girdi",
+   "ozet": "İtalya Dışişleri Bakanlığı, BM Filistin Özel Raportörü ve İtalyan vatandaşı Francesca Albanese'nin Kosta Rika'ya girişine izin verilmemesi üzerine, ülkeye girişini kolaylaştırmak için birçok girişimde bulunulduğunu bildirdi.",
+   "link": "https://www.trthaber.com/haber/dunya/italya-bm-raportoru-albanese-icin-devreye-girdi-964689.html",
+   "zaman": "2026-11-27T21:17:00+03:00",
+   "kelimeler": [
+    "alban",
+    "bm",
+    "devre",
+    "girdi",
+    "italy",
+    "rapor"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "d2d2425505be"
+  },
+  "93de8c05126e": {
+   "id": "93de8c05126e",
+   "kaynak": "Hürriyet",
+   "baslik": "Ortak savunma komitesi'nin ikinci olağan toplantısı islamabad'da gerçekleştirildi",
+   "ozet": "TÜRKİYE, Pakistan ve Suudi Arabistan yetkilileri, ortak savunma komitesinin ikinci olağan toplantısı için İslamabad'da bir araya geldi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ortak-savunma-komitesinin-ikinci-olagan-toplantisi-islamabadda-gerceklestirildi-43393693",
+   "zaman": "2026-11-27T21:19:03+03:00",
+   "kelimeler": [
+    "gerce",
+    "ikinc",
+    "islam",
+    "komit",
+    "nin",
+    "olaga",
+    "ortak",
+    "savun",
+    "topla"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "64b67da2d88b"
   }
  },
  "kayit": [
+  "27.11 21:31:11  1 yeni haber",
   "27.11 21:16:36  4 yeni haber",
   "27.11 21:01:24  3 yeni haber",
   "27.11 20:46:00  3 yeni haber",
@@ -32149,8 +32168,7 @@
   "25.11 16:45:59  2 yeni haber",
   "25.11 16:41:19  6 yeni haber",
   "25.11 16:31:09  5 yeni haber",
-  "25.11 16:18:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ormanda baba-oğul cinayetinde miras şüphesi: Eş, bakıcı ve erkek arkad",
-  "25.11 16:15:56  2 yeni haber"
+  "25.11 16:18:37  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ormanda baba-oğul cinayetinde miras şüphesi: Eş, bakıcı ve erkek arkad"
  ],
  "otomatik": false
 }
