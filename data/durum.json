@@ -1,23 +1,5 @@
 {
  "haberler": {
-  "1a8c283c8b91": {
-   "id": "1a8c283c8b91",
-   "kaynak": "NTV",
-   "baslik": "407 internet sitesine erişim engellendi",
-   "ozet": "Yasa dışı bahis, dolandırıcılık ve müstehcen içerikli paylaşım yaptığı belirlenen 407 internet sitesine erişim engellendi.",
-   "link": "https://www.ntv.com.tr/turkiye/407-internet-sitesine-erisim-engellendi-1752273",
-   "zaman": "2026-11-24T03:35:21+03:00",
-   "kelimeler": [
-    "407",
-    "engel",
-    "erisi",
-    "inter",
-    "sites"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3afa7d7fe23a"
-  },
   "ffec9a1a041b": {
    "id": "ffec9a1a041b",
    "kaynak": "Hürriyet",
@@ -32540,7 +32522,10 @@
     "yargi"
    ],
    "durum": "yeni",
-   "oncelikli": true
+   "oncelikli": true,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "415268bff036": {
    "id": "415268bff036",
@@ -32580,9 +32565,53 @@
    "durum": "tekrar",
    "oncelikli": true,
    "tekrar_of": "cd439c4e20b3"
+  },
+  "f6dd074a8269": {
+   "id": "f6dd074a8269",
+   "kaynak": "AA",
+   "baslik": "Bakanlık ve kamu kurumlarına ilişkin atama ile Yargıtay üyeliği kararları Resmi Gazete'de",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla bazı bakanlık ve kamu kurumlarına ilişkin atama kararları Resmi Gazete'de yayımlanırken, Hakimler ve Savcılar Kurulu (HSK) Genel Kurulunca yapılan seçim sonucunda 5 isim Yargıtay üyeliğine seçildi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakanlik-ve-kamu-kurumlarina-iliskin-atama-ile-yargitay-uyeligi-kararlari-resmi-gazetede/4139867",
+   "zaman": "2026-11-27T03:25:58+03:00",
+   "kelimeler": [
+    "atama",
+    "bakan",
+    "gazet",
+    "ilisk",
+    "kamu",
+    "karar",
+    "kurum",
+    "resmi",
+    "uyeli",
+    "yargi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "dad906ad9bf6"
+  },
+  "2840f766eadb": {
+   "id": "2840f766eadb",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Husilerin saldırılarını artırdığı Suudi başkenti Riyad'da neler yaşanıyor?",
+   "ozet": "Riyad gibi Suudi şehirleri, Husilerin düzenlediği insansız hava aracı ve füze saldırılarına son dönemde düzenli olarak maruz kalıyor.",
+   "link": "https://www.bbc.com/turkce/articles/crjwj6nlx3peo",
+   "zaman": "2026-11-27T03:31:11+03:00",
+   "kelimeler": [
+    "artir",
+    "baske",
+    "husil",
+    "neler",
+    "riyad",
+    "saldi",
+    "suudi",
+    "yasan"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "27.11 03:45:55  1 yeni haber",
   "27.11 03:31:08  2 yeni haber",
   "27.11 01:57:19  1 yeni haber",
   "27.11 01:45:54  1 yeni haber",
@@ -32781,8 +32810,7 @@
   "24.11 23:31:12  2 yeni haber",
   "24.11 23:16:30  5 yeni haber",
   "24.11 23:03:00  3 yeni haber",
-  "24.11 22:45:54  5 yeni haber",
-  "24.11 22:31:28  6 yeni haber"
+  "24.11 22:45:54  5 yeni haber"
  ],
  "otomatik": false
 }
