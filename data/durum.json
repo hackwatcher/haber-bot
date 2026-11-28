@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "ebdcfc8ad545": {
-   "id": "ebdcfc8ad545",
-   "kaynak": "XHABER",
-   "baslik": "GOOOLLL | 🇺🇦 Shakhtar 0-1 Fenerbahçe 🇹🇷",
-   "ozet": "⚽️ 56' Vedat",
-   "link": "https://t.me/sahinozkan000/30925",
-   "zaman": "2026-11-26T00:16:58+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "GOOOLLL | 🇺🇦 Shakhtar 0-1 Fenerbahçe 🇹🇷\n⚽️ 56' Vedat",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/J2LxugNrKtHn9lq474cRP4FGv8a4-MmGrDoDXTdLjM6LOxE4SUHSh-OhnVdh0GlCV-Uf5XXHeVl-5746uyo4kEaKEd_m8vrQxJuuof4gqHTB_xYNy8-_5iB7SPAjkQzqBTPTl9Vf-g-rt-F9o_X9T-2q3vAMHJgLoixO_ZL3skwm9JWIPXUm1aahUmMhAM8YwpeUU4h2cre38w4CqxDHdeycFV2oU-ebRyca4031H8tAnwlGDtgX6bUvWUHqsi7XEqPbFpuGiQy-L6i1w-vXQ2QEvp0QhBGl2tFNlKlMiBDI3iDCx3j3UXqkcTl3jRFJWSYDIhV1zce3CK6X90y2yw.jpg",
-   "tg_video_url": "",
-   "kelimeler": [
-    "fener",
-    "goool",
-    "shakh"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3645484523d8"
-  },
   "4882647fc94a": {
    "id": "4882647fc94a",
    "kaynak": "TRT Haber",
@@ -87,29 +67,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "44bb30fc2a96": {
-   "id": "44bb30fc2a96",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Yumaklı: Toprak Mahsulleri Ofisi 12,6 milyon ton ürün alımı yaptı",
-   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Toprak Mahsulleri Ofisinin TMO bu yıl 12,6 milyon ton ürün alımı yaptığını ve karşılığında 231,5 milyar lira ödediğini açıkladı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-yumakli-toprak-mahsulleri-ofisi-126-milyon-ton-urun-alimi-yapti-964483.html",
-   "zaman": "2026-11-26T00:30:00+03:00",
-   "kelimeler": [
-    "12",
-    "alimi",
-    "bakan",
-    "mahsu",
-    "milyo",
-    "ofisi",
-    "ton",
-    "topra",
-    "urun",
-    "yapti",
-    "yumak"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
   },
   "64e8db45a623": {
    "id": "64e8db45a623",
@@ -22925,7 +22882,10 @@
    "fb_id": null,
    "fb_reels_id": "1935689847787604",
    "slayt": 5,
-   "kanca": "DUVARA ÇARPTI"
+   "kanca": "DUVARA ÇARPTI",
+   "diger_kaynaklar": [
+    "NTV"
+   ]
   },
   "3a5fa4bb6b97": {
    "id": "3a5fa4bb6b97",
@@ -28405,9 +28365,128 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "81fc565573a0"
+  },
+  "1a78b2436fb6": {
+   "id": "1a78b2436fb6",
+   "kaynak": "AA",
+   "baslik": "ABD Başkanı Trump, medyanın \"süper zeka\" yerine \"yapay zeka\" ifadesini kullanmasını eleştirdi",
+   "ozet": "ABD Başkanı Donald Trump, Fox News ve The Wall Street Journal'a (WSJ), süper zeka (SI) yerine yapay zeka (AI) terimini kullanmaları nedeniyle eleştiri yöneltti.",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-medyanin-super-zeka-yerine-yapay-zeka-ifadesini-kullanmasini-elestirdi-/4141713",
+   "zaman": "2026-11-29T00:04:14+03:00",
+   "kelimeler": [
+    "abd",
+    "baska",
+    "elest",
+    "ifade",
+    "kulla",
+    "medya",
+    "super",
+    "trump",
+    "yapay",
+    "yerin",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "97238ee35289": {
+   "id": "97238ee35289",
+   "kaynak": "NTV",
+   "baslik": "13 yaşındaki kıza cinsel istismar iddiası. 6 çocuktan 4'ü tutuklandı",
+   "ozet": "Aydın'ın Efeler ilçesinde cinsel istismarda bulundukları iddiasıyla adli süreçteki 6 çocuktan 4'ü tutuklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/13-yasindaki-kiza-cinsel-istismar-iddiasi-6-cocuktan-4u-tutuklandi-1753050",
+   "zaman": "2026-11-29T00:21:57+03:00",
+   "kelimeler": [
+    "13",
+    "cinse",
+    "cocuk",
+    "iddia",
+    "istis",
+    "kiza",
+    "tutuk",
+    "yasin"
+   ],
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-29T00:33:13.295572+03:00",
+   "ig_id": "18118985579144764",
+   "reels_id": "18028201331923925",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "2062473521806924",
+   "slayt": 5,
+   "kanca": "4 ÇOCUK TUTUKLANDI"
+  },
+  "7769b34e433b": {
+   "id": "7769b34e433b",
+   "kaynak": "AA",
+   "baslik": "Belçika'da hızlı trenin bir kişiye çarpması sonucu Fransa seferleri durduruldu",
+   "ozet": "Brüksel'den Londra'ya giden hızlı trenin bir kişiye çarparak ölümüne neden olması üzerine Belçika ile Fransa arasındaki hızlı tren seferleri durdurulurken, İngiltere seferlerinde ciddi aksamalar yaşanacağı bildirildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikada-hizli-trenin-bir-kisiye-carpmasi-sonucu-fransa-seferleri-durduruldu/4141716",
+   "zaman": "2026-11-29T00:23:07+03:00",
+   "kelimeler": [
+    "belci",
+    "carpm",
+    "durdu",
+    "frans",
+    "hizli",
+    "kisiy",
+    "sefer",
+    "sonuc",
+    "treni"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "971c3d008718": {
+   "id": "971c3d008718",
+   "kaynak": "AA",
+   "baslik": "Şirket yazışmalarındaki riskli ifadeleri yapay zekayla analiz eden yazılım geliştirdi",
+   "ozet": "Eskişehir'de iletişim uzmanı Ali Can Elagöz, şirketlerin e-posta ve dijital yazışmalarındaki hukuki ve ticari risk oluşturabilecek ifadeleri önceden tespit etmeye yardımcı olan yapay zeka destekli yerli yazılım geliştirdi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sirket-yazismalarindaki-riskli-ifadeleri-yapay-zekayla-analiz-eden-yazilim-gelistirdi/4141718",
+   "zaman": "2026-11-29T00:25:03+03:00",
+   "kelimeler": [
+    "anali",
+    "eden",
+    "gelis",
+    "ifade",
+    "riskl",
+    "sirke",
+    "yapay",
+    "yazil",
+    "yazis",
+    "zekay"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "7ef07f1ae5ce": {
+   "id": "7ef07f1ae5ce",
+   "kaynak": "NTV",
+   "baslik": "Uşak'ta otomobil duvara çarptı. 3 kişi hayatını kaybetti, 2 kişi yaralandı",
+   "ozet": "Uşak'ta otomobilin iş yerinin duvarına çarpması sonucu sürücü, eşi ve kayınvalidesi öldü, biri çocuk 2 kişi yaralandı.",
+   "link": "https://www.ntv.com.tr/turkiye/usakta-otomobil-duvara-carpti-3-kisi-hayatini-kaybetti-2-kisi-yaralandi-1753051",
+   "zaman": "2026-11-29T00:27:39+03:00",
+   "kelimeler": [
+    "carpt",
+    "duvar",
+    "hayat",
+    "kaybe",
+    "kisi",
+    "otomo",
+    "ta",
+    "usak",
+    "yaral"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "76bcd34a6de1"
   }
  },
  "kayit": [
+  "29.11 00:33:13  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · 13 yaşındaki kıza cinsel istismar iddiası. 6 çocuktan 4'ü tutuklandı",
+  "29.11 00:31:13  4 yeni haber",
   "29.11 00:03:24  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Ata çarpan olay yeri inceleme aracı zincirleme kazaya karıştı",
   "29.11 00:01:23  3 yeni haber",
   "28.11 23:46:02  2 yeni haber",
@@ -28605,9 +28684,7 @@
   "26.11 19:34:51  6 yeni haber",
   "26.11 19:16:08  5 yeni haber",
   "26.11 19:01:22  3 yeni haber",
-  "26.11 18:46:04  3 yeni haber",
-  "26.11 18:31:17  5 yeni haber",
-  "26.11 18:15:57  4 yeni haber"
+  "26.11 18:46:04  3 yeni haber"
  ],
  "otomatik": false
 }
