@@ -1,79 +1,5 @@
 {
  "haberler": {
-  "e15ac2c8b8b2": {
-   "id": "e15ac2c8b8b2",
-   "kaynak": "AA",
-   "baslik": "Sağlık Bakanı Memişoğlu Çin'in Ankara Büyükelçisi Xuebin ile görüştü",
-   "ozet": "Sağlık Bakanı Kemal Memişoğlu, Çin'in Ankara Büyükelçisi Jiang Xuebin ile bir araya geldi.",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cinin-ankara-buyukelcisi-xuebin-ile-gorustu/4138063",
-   "zaman": "2026-11-25T23:33:20+03:00",
-   "kelimeler": [
-    "ankar",
-    "bakan",
-    "buyuk",
-    "cin",
-    "gorus",
-    "in",
-    "memis",
-    "sagli",
-    "xuebi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "8556242f609e": {
-   "id": "8556242f609e",
-   "kaynak": "NTV",
-   "baslik": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 25 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-   "ozet": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752582",
-   "zaman": "2026-11-25T23:44:28+03:00",
-   "kelimeler": [
-    "2026",
-    "25",
-    "acikl",
-    "bilet",
-    "buldu",
-    "cilgi",
-    "dev",
-    "ekran",
-    "ikram",
-    "kasim",
-    "loto",
-    "mpi",
-    "sahib",
-    "sayis",
-    "sonuc",
-    "sorgu"
-   ],
-   "durum": "engelli",
-   "oncelikli": false,
-   "diger_kaynaklar": []
-  },
-  "8bc6c3bff35f": {
-   "id": "8bc6c3bff35f",
-   "kaynak": "AA",
-   "baslik": "İstanbul Valisi Gül'den sokakta kalan vatandaşların 112'ye bildirilmesi çağrısı",
-   "ozet": "İstanbul Valisi Davut Gül, kentte hava sıcaklığının gece 2 dereceye kadar düşmesinin beklendiğine işaret ederek, sokakta kalan ve barınmaya ihtiyaç duyan vatandaşların 112 Acil Çağrı Merkezi'ne bildirilmesi çağrısında bulundu.",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-sokakta-kalan-vatandaslarin-112ye-bildirilmesi-cagrisi/4138067",
-   "zaman": "2026-11-25T23:39:12+03:00",
-   "kelimeler": [
-    "112",
-    "bildi",
-    "cagri",
-    "den",
-    "gul",
-    "istan",
-    "kalan",
-    "sokak",
-    "valis",
-    "vatan",
-    "ye"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "48779677f28e"
-  },
   "db6467174a31": {
    "id": "db6467174a31",
    "kaynak": "AA",
@@ -28336,7 +28262,10 @@
     "trt"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "8554b37324c6": {
    "id": "8554b37324c6",
@@ -28376,10 +28305,96 @@
     "yumak"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
+  },
+  "20af95a80394": {
+   "id": "20af95a80394",
+   "kaynak": "AA",
+   "baslik": "Selçuk Bayraktar, Baykar'ın teknoloji geliştirme hızını anlattı",
+   "ozet": "Baykar Yönetim Kurulu Başkanı Bayraktar, \"Bütün Avrupa'nın bir yılda yaptığı yeniliği ve testi bir günde yapıyoruz Baykar'da. Her gün yeni bir mühimmat, yeni bir elektronik harp sistemi, yeni bir yazılım, yeni bir özellik deneyebiliyoruz.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/selcuk-bayraktar-baykarin-teknoloji-gelistirme-hizini-anlatti/4141671",
+   "zaman": "2026-11-28T22:41:37+03:00",
+   "kelimeler": [
+    "anlat",
+    "bayka",
+    "bayra",
+    "gelis",
+    "hizin",
+    "in",
+    "selcu",
+    "tekno"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "3c3b4841cf09": {
+   "id": "3c3b4841cf09",
+   "kaynak": "Hürriyet",
+   "baslik": "İletişim Başkanı Duran'dan 8. TRT Humanitarian Film Festivali'ne ilişkin paylaşım",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dezenformasyonla mücadelemizi sürdürürken TRT Humanitarian Film Festivali kapsamında izleyiciyle buluşan filmleri görmezden gelinen gerçeklerin görünür kılınması bakımından kıymetli buluyorum.\" ifadesini kullandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-8-trt-humanitarian-film-festivaline-iliskin-paylasim-43394722",
+   "zaman": "2026-11-28T23:30:56+03:00",
+   "kelimeler": [
+    "baska",
+    "dan",
+    "duran",
+    "festi",
+    "film",
+    "human",
+    "ileti",
+    "ilisk",
+    "payla",
+    "trt"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b743f86dbb93"
+  },
+  "e57970fafb69": {
+   "id": "e57970fafb69",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Yumaklı hakkındaki iddiaları yalanladı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Gübretaş Genel Müdürü olduğu döneme yönelik iddialara ilişkin, \"Gübretaş'ta görev yaptığım Ekim 2016-Nisan 2022 döneminin tamamında şahsıma, şirket yönetimine veya şirkete yönelik hisse manipülasyonu veya başka herhangi bir gerekçeyle…",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-yumakli-hakkindaki-iddialari-yalanladi-43394723",
+   "zaman": "2026-11-28T23:35:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "hakki",
+    "iddia",
+    "yalan",
+    "yumak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0578b5c4db0d"
+  },
+  "4691e86dd7c5": {
+   "id": "4691e86dd7c5",
+   "kaynak": "AA",
+   "baslik": "Formula 1 Katar Grand Prix'sinde pole pozisyonu Russell'ın",
+   "ozet": "Formula 1 Dünya Şampiyonası'nda sezonun 22. etabı Katar Grand Prix'sine, Mercedes'in Britanyalı pilotu George Russell ilk sıradan başlayacak.",
+   "link": "https://www.aa.com.tr/tr/spor/formula-1-katar-grand-prixsinde-pole-pozisyonu-russellin/4141701",
+   "zaman": "2026-11-28T23:38:25+03:00",
+   "kelimeler": [
+    "formu",
+    "grand",
+    "in",
+    "katar",
+    "pole",
+    "pozis",
+    "prix",
+    "russe",
+    "sinde"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "28.11 23:46:02  2 yeni haber",
   "28.11 23:31:18  1 yeni haber",
   "28.11 23:16:19  3 yeni haber",
   "28.11 23:01:13  5 yeni haber",
@@ -28578,8 +28593,7 @@
   "26.11 18:31:17  5 yeni haber",
   "26.11 18:15:57  4 yeni haber",
   "26.11 18:01:36  3 yeni haber",
-  "26.11 17:46:05  3 yeni haber",
-  "26.11 17:31:14  6 yeni haber"
+  "26.11 17:46:05  3 yeni haber"
  ],
  "otomatik": false
 }
