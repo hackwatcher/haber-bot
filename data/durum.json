@@ -1,27 +1,5 @@
 {
  "haberler": {
-  "6628b868317f": {
-   "id": "6628b868317f",
-   "kaynak": "NTV",
-   "baslik": "Sahte plakayla trafiğe çıkan sürücüye 650 bin TL ceza yazıldı",
-   "ozet": "Polis ekiplerinin \"dur\" ihtarına uymayarak, kaçan sürücü yakalanınca plakasının sahte olduğu anlaşıldı. Sürücüye 650 bin TL idari para cezası yazıldı.",
-   "link": "https://www.ntv.com.tr/turkiye/sahte-plakayla-trafige-cikan-surucuye-650-bin-tl-ceza-yazildi-1752447",
-   "zaman": "2026-11-25T03:24:38+03:00",
-   "kelimeler": [
-    "650",
-    "bin",
-    "ceza",
-    "cikan",
-    "plaka",
-    "sahte",
-    "suruc",
-    "tl",
-    "trafi",
-    "yazil"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "05686ff77375": {
    "id": "05686ff77375",
    "kaynak": "NTV",
@@ -24454,7 +24432,10 @@
     "ya"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "2def1c111525": {
    "id": "2def1c111525",
@@ -31685,9 +31666,76 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "9437fb56f7e9"
+  },
+  "137498cf5dd4": {
+   "id": "137498cf5dd4",
+   "kaynak": "AA",
+   "baslik": "Bakan Göktaş, Yedigöller'e gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını açıkladı",
+   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigollere-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967",
+   "zaman": "2026-11-27T23:31:32+03:00",
+   "kelimeler": [
+    "amaci",
+    "aract",
+    "bakan",
+    "cocuk",
+    "gezi",
+    "giden",
+    "gokta",
+    "perso",
+    "ulasi",
+    "yedig"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "8b8ba2892675"
+  },
+  "6d0dc6865342": {
+   "id": "6d0dc6865342",
+   "kaynak": "AA",
+   "baslik": "IMF'den Türkiye değerlendirmesi",
+   "ozet": "Uluslararası Para Fonu (IMF), Türkiye'nin Orta Doğu'daki çatışma ve yatırım fonu stresi nedeniyle 2026'da zorlu bir yılla karşı karşıya kaldığını belirterek, yetkililerin kararlı politika adımlarının istikrarı korumaya yardımcı olduğunu bildirdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/imfden-turkiye-degerlendirmesi/4141093",
+   "zaman": "2026-11-28T03:22:24+03:00",
+   "kelimeler": [
+    "deger",
+    "den",
+    "imf",
+    "turki"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "e70886d4597c": {
+   "id": "e70886d4597c",
+   "kaynak": "BBC Türkçe",
+   "baslik": "BM Filistin Özel Raportörü Francesca Albanese Kosta Rika'ya alınmadı, iki gece havaalanında bekletildi",
+   "ozet": "Birleşmiş Milletler (BM) Filistin Özel Raportörü Francesca Albanese'in, bir üniversiteden fahri doktora almak üzere gittiği Kosta Rika'ya girişine izin verilmedi.",
+   "link": "https://www.bbc.com/turkce/articles/cmvg20er901ro",
+   "zaman": "2026-11-28T03:28:45+03:00",
+   "kelimeler": [
+    "alban",
+    "alinm",
+    "bekle",
+    "bm",
+    "filis",
+    "franc",
+    "gece",
+    "havaa",
+    "iki",
+    "kosta",
+    "ozel",
+    "rapor",
+    "rika",
+    "ya"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b6fad8c84698"
   }
  },
  "kayit": [
+  "28.11 03:31:12  1 yeni haber",
   "28.11 02:46:01  1 yeni haber",
   "28.11 02:31:12  1 yeni haber",
   "28.11 02:15:55  4 yeni haber",
@@ -31886,8 +31934,7 @@
   "25.11 22:31:14  1 yeni haber",
   "25.11 22:16:09  1 yeni haber",
   "25.11 22:01:19  3 yeni haber",
-  "25.11 21:46:22  6 yeni haber",
-  "25.11 21:31:09  2 yeni haber"
+  "25.11 21:46:22  6 yeni haber"
  ],
  "otomatik": false
 }
