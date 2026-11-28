@@ -1,32 +1,5 @@
 {
  "haberler": {
-  "db93c99966b5": {
-   "id": "db93c99966b5",
-   "kaynak": "XHABER",
-   "baslik": "Taksim’e yürümek kadınlar, \"Hayatlarımıza kasteden erkek-devlet şiddetine karşı isyandayız\" pankartlarıyla Taksim’de.",
-   "ozet": "",
-   "link": "https://t.me/sahinozkan000/30920",
-   "zaman": "2026-11-25T22:45:02+03:00",
-   "tg_kanal": "sahinozkan000",
-   "tg_metin": "Taksim’e yürümek kadınlar, \"Hayatlarımıza kasteden erkek-devlet şiddetine karşı isyandayız\" pankartlarıyla Taksim’de.",
-   "tg_foto_url": "https://cdn4.telesco.pe/file/jNsCSWgzbk7sAU8bhf0oK3RGS0XXs15MATO6LwoatJvLCLUMXE7_Wd3C8KV1uG6IHooBqlqMowmm_B-Wg87wueVbyl0RNC63Twf5nxLiaIXreh3Z1QrfeYu9QKONtTQtwxUb-FUwRqIdhYS0R2uOxQjOwv5nw2bmd3s3c9gIBIY7okWiesyC0oJYcjNAyP2Xlx1QQgIaM8fAQou8XUgGAdQylv_JMxTAtQ6RGYgBnYpdVDQ4riSKuOhd1sxPT6gWjHKH8LHTsVq_WiFa8rxYUFl4I61qeoNek2qDRx2ZHylxo_bCA_5vmfzlDjAcltaNvp-tpfwMaWt-WIegI7w9Cg",
-   "tg_video_url": "https://cdn4.telesco.pe/file/932719be79.mp4?token=dGKsLoap0Mz-a01MQUeZC2UJ-BWkSjptS_tIAcSN_5VMSh-QqftANCudbizxFuAABNCTyrt3_olvJIxONVwiR0I71S4hEnAqenlG8iVrQHL5i53BvUabKySFTcym_R7x076qH64hcJfGOa-yZPjm6Styzu5VY5FNOGPgXYYiDYzGAzZ1j9qizH8m89phmWTWud1_KVI5qFA8KMzNT7XEMaqlz2NBqZ8xHhSUTzrkPXXmBY-Wb2TiPl62tEor2n-kip0GWPi5R40C7S94-1SeHb238hiIlgnZXIDQqj1547gcmtQc72M3sqKdsOyDnN1XGv3HFTYXcZEkt7_8F62gaw",
-   "kelimeler": [
-    "devle",
-    "erkek",
-    "hayat",
-    "isyan",
-    "kadin",
-    "karsi",
-    "kaste",
-    "panka",
-    "sidde",
-    "taksi",
-    "yurum"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "d1c64b1c015e": {
    "id": "d1c64b1c015e",
    "kaynak": "TRT Haber",
@@ -28221,7 +28194,10 @@
     "ozel"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "24ed2219559f": {
    "id": "24ed2219559f",
@@ -28466,6 +28442,33 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "be3bfb17eedb": {
+   "id": "be3bfb17eedb",
+   "kaynak": "Hürriyet",
+   "baslik": "İstanbul 2027 Avrupa Oyunları'na 200 gün kaldı: Galata Kulesi’nde Avrupa Oyunları ışık gösterisi gerçekleştirildi",
+   "ozet": "İstanbul'un ev sahipliğindeki 2027 Avrupa Oyunları'na 200 gün kala, Galata Kulesi'nde özel ışık gösterisi yapıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/istanbul-2027-avrupa-oyunlarina-200-gun-kaldi-galata-kulesinde-avrupa-oyunlari-isik-gosterisi-gerceklestirildi-43394697",
+   "zaman": "2026-11-28T22:37:00+03:00",
+   "kelimeler": [
+    "200",
+    "2027",
+    "avrup",
+    "galat",
+    "gerce",
+    "goste",
+    "gun",
+    "isik",
+    "istan",
+    "kaldi",
+    "kules",
+    "na",
+    "nde",
+    "oyunl"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "b23456ed3274"
   }
  },
  "kayit": [
