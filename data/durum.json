@@ -1,26 +1,5 @@
 {
  "haberler": {
-  "0f2855565614": {
-   "id": "0f2855565614",
-   "kaynak": "Hürriyet",
-   "baslik": "İletişim Başkanı Duran’dan Riyad'daki düzenlenen saldırıya kınama",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Suudi Arabistan'ın güvenliğini, egemenliğini ve sivilleri hedef alan bu saldırılar, tüm bölgenin barış ve istikrarına yönelik bir tehdittir.",
-   "link": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-riyaddaki-duzenlenen-saldiriya-kinama-43391219",
-   "zaman": "2026-11-25T21:47:55+03:00",
-   "kelimeler": [
-    "baska",
-    "daki",
-    "dan",
-    "duran",
-    "duzen",
-    "ileti",
-    "kinam",
-    "riyad",
-    "saldi"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "3965bb3c7f9f": {
    "id": "3965bb3c7f9f",
    "kaynak": "AA",
@@ -44,28 +23,6 @@
    "diger_kaynaklar": [
     "TRT Haber"
    ]
-  },
-  "b5115c2e1285": {
-   "id": "b5115c2e1285",
-   "kaynak": "TRT Haber",
-   "baslik": "Mısır'da yakıt tankerinde çıkan yangında 30 kişi hayatını kaybetti",
-   "ozet": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde petrol ürünleri taşıyan bir tankerde nedeni henüz belirlenemeyen şekilde çıkan yangında ilk belirlemelere göre 30 kişi yaşamını yitirdi, 15 kişi yaralandı.",
-   "link": "https://www.trthaber.com/haber/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti-964474.html",
-   "zaman": "2026-11-25T21:50:00+03:00",
-   "kelimeler": [
-    "30",
-    "cikan",
-    "hayat",
-    "kaybe",
-    "kisi",
-    "misir",
-    "tanke",
-    "yakit",
-    "yangi"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3965bb3c7f9f"
   },
   "8e32e76c1286": {
    "id": "8e32e76c1286",
@@ -28431,9 +28388,68 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "1cf04ff5c377": {
+   "id": "1cf04ff5c377",
+   "kaynak": "AA",
+   "baslik": "Kars'ta bir bozayı yavrularıyla mahallede yiyecek aradı",
+   "ozet": "Kars'ın Sarıkamış ilçesinde bir bozayı, yavrularıyla geldiği mahallede çöp konteynerlerinde beslenmeye çalıştı.",
+   "link": "https://www.aa.com.tr/tr/gundem/karsta-bir-bozayi-yavrulariyla-mahallede-yiyecek-aradi/4141629",
+   "zaman": "2026-11-28T21:29:30+03:00",
+   "kelimeler": [
+    "aradi",
+    "bozay",
+    "kars",
+    "mahal",
+    "ta",
+    "yavru",
+    "yiyec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "17d46f8620ec": {
+   "id": "17d46f8620ec",
+   "kaynak": "AA",
+   "baslik": "Belçika'da 120'den fazla belediye siber saldırıdan etkilenmiş olabilir",
+   "ozet": "Belçika'nın Flaman Bölgesi'nde kişisel verilerin çalındığı siber saldırıdan 120'den fazla belediyenin etkilenmiş olabileceği belirtildi.",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikada-120den-fazla-belediye-siber-saldiridan-etkilenmis-olabilir/4141638",
+   "zaman": "2026-11-28T21:47:16+03:00",
+   "kelimeler": [
+    "120",
+    "belci",
+    "beled",
+    "den",
+    "etkil",
+    "fazla",
+    "olabi",
+    "saldi",
+    "siber"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "283f83734bfd": {
+   "id": "283f83734bfd",
+   "kaynak": "AA",
+   "baslik": "ABD'nin California açıklarında 5 büyüklüğünde deprem oldu",
+   "ozet": "ABD'nin California eyaleti açıklarında 5 büyüklüğünde deprem meydana geldi.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-california-aciklarinda-5-buyuklugunde-deprem-oldu/4141643",
+   "zaman": "2026-11-28T21:55:02+03:00",
+   "kelimeler": [
+    "abd",
+    "acikl",
+    "buyuk",
+    "calif",
+    "depre",
+    "nin"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
   }
  },
  "kayit": [
+  "28.11 22:01:23  3 yeni haber",
   "28.11 21:45:56  3 yeni haber",
   "28.11 21:15:57  1 yeni haber",
   "28.11 21:01:19  2 yeni haber",
@@ -28632,8 +28648,7 @@
   "26.11 17:15:55  4 yeni haber",
   "26.11 17:06:35  1 yeni haber",
   "26.11 17:01:25  7 yeni haber",
-  "26.11 16:45:53  2 yeni haber",
-  "26.11 16:31:08  5 yeni haber"
+  "26.11 16:45:53  2 yeni haber"
  ],
  "otomatik": false
 }
