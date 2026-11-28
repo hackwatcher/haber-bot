@@ -1,102 +1,5 @@
 {
  "haberler": {
-  "188b975043e2": {
-   "id": "188b975043e2",
-   "kaynak": "NTV",
-   "baslik": "Fon soruşturmasında yeni gelişme: Bir şüpheli tutuklandı",
-   "ozet": "Fon soruşturmasında adliyeye sevk edilen bir şüpheli daha tutuklandı.",
-   "link": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-bir-supheli-tutuklandi-1752468",
-   "zaman": "2026-11-25T08:19:00+03:00",
-   "kelimeler": [
-    "fon",
-    "gelis",
-    "sorus",
-    "suphe",
-    "tutuk",
-    "yeni"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "78d0c05448c0"
-  },
-  "1e6105f27f92": {
-   "id": "1e6105f27f92",
-   "kaynak": "AA",
-   "baslik": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda iki petrol tankerinin deniz mayınına çarparak alev aldığını açıkladı.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi/4136584",
-   "zaman": "2026-11-25T08:23:42+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "bogaz",
-    "carpa",
-    "deniz",
-    "devri",
-    "hurmu",
-    "iki",
-    "iran",
-    "mayin",
-    "muhaf",
-    "nda",
-    "ordus",
-    "petro",
-    "tanke"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "2e7b52548d33": {
-   "id": "2e7b52548d33",
-   "kaynak": "Hürriyet",
-   "baslik": "Kayseri'de kaza yapan sürücü ve yolcu, otomobili yol ortasında bırakıp gitti",
-   "ozet": "Kocasinan ilçesi Osmangazi Mahallesi’nde kaldırıma çarparak yol ortasında kalan 58 EK 318 plakalı otomobildeki iki kişi aracı terk etti. Yolu kısmen kapatan araç çekiciyle kaldırılırken, sürücünün kimliğini belirleme çalışması başlatıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/kayseride-kaza-yapan-surucu-ve-yolcu-otomobili-yol-ortasinda-birakip-gitti-43390126",
-   "zaman": "2026-11-25T08:25:56+03:00",
-   "kelimeler": [
-    "birak",
-    "gitti",
-    "kayse",
-    "kaza",
-    "ortas",
-    "otomo",
-    "suruc",
-    "yapan",
-    "yol",
-    "yolcu"
-   ],
-   "durum": "tekrar",
-   "oncelikli": true,
-   "tekrar_of": "eb4fa94155de"
-  },
-  "72e576f61c05": {
-   "id": "72e576f61c05",
-   "kaynak": "AA",
-   "baslik": "İran: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda \"izinsiz güzergahı\" kullanan iki petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi/4136584",
-   "zaman": "2026-11-25T08:23:42+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "bogaz",
-    "carpa",
-    "deniz",
-    "hurmu",
-    "iki",
-    "iran",
-    "mayin",
-    "nda",
-    "petro",
-    "tanke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1e6105f27f92"
-  },
   "879fbdadccb0": {
    "id": "879fbdadccb0",
    "kaynak": "NTV",
@@ -24344,7 +24247,8 @@
     "sehit"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "6292d37bb25d": {
    "id": "6292d37bb25d",
@@ -31375,6 +31279,26 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "3a1d3808440f": {
+   "id": "3a1d3808440f",
+   "kaynak": "Hürriyet",
+   "baslik": "Sanal medyada şehitlere hakaret eden şüpheli tutuklandı",
+   "ozet": "Hatay'da sanal medyada yaptığı canlı yayında Türkiye Cumhuriyeti, polis teşkilatı ve şehitlere hakaret ettiği gerekçesiyle gözaltına alınan M.U.Y., tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sanal-medyada-sehitlere-hakaret-eden-supheli-tutuklandi-43393910",
+   "zaman": "2026-11-28T08:18:11+03:00",
+   "kelimeler": [
+    "eden",
+    "hakar",
+    "medya",
+    "sanal",
+    "sehit",
+    "suphe",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "8009e30263d3"
   }
  },
  "kayit": [
