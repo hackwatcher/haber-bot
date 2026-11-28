@@ -1,71 +1,5 @@
 {
  "haberler": {
-  "7e3462c6a31b": {
-   "id": "7e3462c6a31b",
-   "kaynak": "TRT Haber",
-   "baslik": "İran: Hürmüz Boğazı'nda iki petrol tankeri deniz mayınına çarparak alev aldı",
-   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda \"izinsiz güzergahı\" kullanan iki petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-deniz-mayinina-carparak-alev-aldi-964391.html",
-   "zaman": "2026-11-25T08:51:00+03:00",
-   "kelimeler": [
-    "aldi",
-    "alev",
-    "bogaz",
-    "carpa",
-    "deniz",
-    "hurmu",
-    "iki",
-    "iran",
-    "mayin",
-    "nda",
-    "petro",
-    "tanke"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "1e6105f27f92"
-  },
-  "bfeea0760c64": {
-   "id": "bfeea0760c64",
-   "kaynak": "NTV",
-   "baslik": "15 bin öğretmen ataması ne zaman, branş dağılımı belli oldu mu? 2026 MEB 15 bin öğretmen ataması",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın 24 Kasım Öğretmenler Günü programında verdiği 15 bin öğretmen atama müjdesi, atama bekleyen yüz binlerce öğretmen adayında büyük heyecan yarattı.",
-   "link": "https://www.ntv.com.tr/turkiye/galeri-15-bin-ogretmen-atamasi-ne-zaman-brans-dagilimi-belli-oldu-mu-2026-meb-15-bin-ogretmen-atamasi-1752474",
-   "zaman": "2026-11-25T08:59:34+03:00",
-   "kelimeler": [
-    "15",
-    "2026",
-    "atama",
-    "belli",
-    "bin",
-    "brans",
-    "dagil",
-    "meb",
-    "ogret",
-    "zaman"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "e2a178575a84"
-  },
-  "bb22fce7c1e4": {
-   "id": "bb22fce7c1e4",
-   "kaynak": "TRT Haber",
-   "baslik": "Meteorolojiden kar, sağanak ve fırtına uyarısı",
-   "ozet": "Orta ve Doğu Karadeniz kıyıları ile Doğu Anadolu'da beklenen kar, karla karışık yağmur, yerel kuvvetli yağış ve fırtına nedeniyle 19 il için \"sarı\" kodlu uyarıda bulunuldu.",
-   "link": "https://www.trthaber.com/haber/gundem/meteorolojiden-kar-saganak-ve-firtina-uyarisi-964392.html",
-   "zaman": "2026-11-25T08:54:00+03:00",
-   "kelimeler": [
-    "firti",
-    "kar",
-    "meteo",
-    "sagan",
-    "uyari"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "ac3ed57349d6"
-  },
   "125d4786d1c8": {
    "id": "125d4786d1c8",
    "kaynak": "AA",
@@ -27959,8 +27893,17 @@
     "urunu",
     "uzeri"
    ],
-   "durum": "yeni",
-   "oncelikli": false
+   "durum": "paylasildi",
+   "oncelikli": false,
+   "paylasildi": "2026-11-28T09:03:31.201894+03:00",
+   "ig_id": "18017554919801012",
+   "reels_id": "18442690600178366",
+   "story_id": "18123872050968196",
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1194661669891833",
+   "slayt": 1,
+   "kanca": "PURO KALİTE TESTİ"
   },
   "218bf7e82a76": {
    "id": "218bf7e82a76",
@@ -30192,7 +30135,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Hürriyet",
-    "Sözcü"
+    "Sözcü",
+    "AA"
    ]
   },
   "f9679e0477b7": {
@@ -31345,10 +31289,81 @@
     "yuzde"
    ],
    "durum": "yeni",
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
+  },
+  "336b933ac32c": {
+   "id": "336b933ac32c",
+   "kaynak": "AA",
+   "baslik": "ABD'yi Şükran Günü'nde vuran fırtınanın ardından 216 binden fazla haneye hala elektrik verilemiyor",
+   "ozet": "ABD'de Şükran Günü'nde etkili olan fırtınanın etkilerinin sürmesi nedeniyle ülkede birçok eyalette toplam 216 binden fazla haneye elektrik sağlanamıyor.",
+   "link": "https://www.aa.com.tr/tr/dunya/abdyi-sukran-gununde-vuran-firtinanin-ardindan-216-binden-fazla-haneye-hala-elektrik-verilemiyor/4141117",
+   "zaman": "2026-11-28T08:45:27+03:00",
+   "kelimeler": [
+    "216",
+    "abd",
+    "ardin",
+    "binde",
+    "elekt",
+    "fazla",
+    "firti",
+    "gunu",
+    "hala",
+    "haney",
+    "nde",
+    "sukra",
+    "veril",
+    "vuran",
+    "yi"
+   ],
+   "durum": "yeni",
    "oncelikli": false
+  },
+  "f42007d8d4aa": {
+   "id": "f42007d8d4aa",
+   "kaynak": "TRT Haber",
+   "baslik": "Konaklama vergisinde yüzde 1 uygulaması uzatıldı",
+   "ozet": "Konaklama vergisi 2027 sonuna kadar yüzde 1 olarak uygulanacak.",
+   "link": "https://www.trthaber.com/haber/ekonomi/konaklama-vergisinde-yuzde-1-uygulamasi-uzatildi-964713.html",
+   "zaman": "2026-11-28T08:53:00+03:00",
+   "kelimeler": [
+    "konak",
+    "uygul",
+    "uzati",
+    "vergi",
+    "yuzde"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "fd2931d7a4bd"
+  },
+  "aac05c945f19": {
+   "id": "aac05c945f19",
+   "kaynak": "AA",
+   "baslik": "SPK'den 55,3 milyon liralık idari para cezası",
+   "ozet": "Sermaye Piyasası Kurulu (SPK), 3 gerçek ve 7 tüzel kişiye toplam 55 milyon 345 bin 53 lira idari para cezası uygulanmasına karar verdi.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-55-3-milyon-liralik-idari-para-cezasi/4141120",
+   "zaman": "2026-11-28T08:58:15+03:00",
+   "kelimeler": [
+    "55",
+    "cezas",
+    "den",
+    "idari",
+    "liral",
+    "milyo",
+    "para",
+    "spk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "9437fb56f7e9"
   }
  },
  "kayit": [
+  "28.11 09:03:31  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Bir puro sarma fabrikasında çalışan bir adam, üzerinde çaliştığı ürünü",
+  "28.11 09:01:26  1 yeni haber",
   "28.11 08:46:21  3 yeni haber",
   "28.11 08:01:21  1 yeni haber",
   "28.11 07:31:28  1 yeni haber",
@@ -31546,9 +31561,7 @@
   "26.11 01:33:39  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Arda Turan: \"Fenerbahçe'yi tebrik ediyorum.",
   "26.11 01:31:11  3 yeni haber",
   "26.11 01:03:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Fenerbahçe Londra'dan 3 puanla dönüyor",
-  "26.11 01:01:21  4 yeni haber",
-  "26.11 00:46:02  3 yeni haber",
-  "26.11 00:04:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Korgan Belediye Başkanı Sait Korgan İYİ Parti'den istifa etti"
+  "26.11 01:01:21  4 yeni haber"
  ],
  "otomatik": false
 }
