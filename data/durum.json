@@ -1,25 +1,5 @@
 {
  "haberler": {
-  "a22061e90e9d": {
-   "id": "a22061e90e9d",
-   "kaynak": "AA",
-   "baslik": "Fransa'nın güneyinde sağanak hayatı olumsuz etkiledi",
-   "ozet": "Fransa'nın güneyindeki Var ilinde sağanak nedeniyle yollar ve binalar sular altında kaldı.",
-   "link": "https://www.aa.com.tr/tr/dunya/fransanin-guneyinde-saganak-hayati-olumsuz-etkiledi/4137934",
-   "zaman": "2026-11-25T22:20:09+03:00",
-   "kelimeler": [
-    "etkil",
-    "frans",
-    "guney",
-    "hayat",
-    "nin",
-    "olums",
-    "sagan"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d0926768ee1a"
-  },
   "db93c99966b5": {
    "id": "db93c99966b5",
    "kaynak": "XHABER",
@@ -93,24 +73,6 @@
    "durum": "tekrar",
    "oncelikli": false,
    "tekrar_of": "a383393fbcd1"
-  },
-  "2d515488ae94": {
-   "id": "2d515488ae94",
-   "kaynak": "AA",
-   "baslik": "Berlin'de Filistin'e destek gösterisi düzenlendi",
-   "ozet": "Almanya'nın başkenti Berlin’de Filistin’e destek gösterisi düzenlendi.",
-   "link": "https://www.aa.com.tr/tr/dunya/berlinde-filistine-destek-gosterisi-duzenlendi/4137952",
-   "zaman": "2026-11-25T22:29:55+03:00",
-   "kelimeler": [
-    "berli",
-    "deste",
-    "duzen",
-    "filis",
-    "goste"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "d4c96fa25e4f"
   },
   "ffaa4c31cd6f": {
    "id": "ffaa4c31cd6f",
@@ -28465,9 +28427,49 @@
    ],
    "durum": "engelli",
    "oncelikli": false
+  },
+  "d5d3ee2517a3": {
+   "id": "d5d3ee2517a3",
+   "kaynak": "TRT Haber",
+   "baslik": "39 il için 'sarı' kodlu uyarı: Kar, yağmur ve fırtına geliyor",
+   "ozet": "Yurt genelinde soğuk hava etkili olacak. Meteoroloji, 39 il için 'sarı' kodlu uyarıda bulundu. Rüzgar, sağanak ve kar yağışının beklendiği kentlerde vatandaşlardan tedbirli olmaları istendi.",
+   "link": "https://www.trthaber.com/haber/turkiye/39-il-icin-sari-kodlu-uyari-kar-yagmur-ve-firtina-geliyor-964760.html",
+   "zaman": "2026-11-28T21:38:00+03:00",
+   "kelimeler": [
+    "39",
+    "firti",
+    "geliy",
+    "il",
+    "kar",
+    "kodlu",
+    "sari",
+    "uyari",
+    "yagmu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "82d9726352e7": {
+   "id": "82d9726352e7",
+   "kaynak": "NTV",
+   "baslik": "Tramvay durağında bekleyen kadına koşarak saldırdı",
+   "ozet": "Kocaeli'nin İzmit ilçesinde tramvay durağında bekleyen genç kadın, yanına koşarak gelen kişinin saldırısına uğradı.",
+   "link": "https://www.ntv.com.tr/turkiye/video-tramvay-duraginda-bekleyen-kadina-kosarak-saldirdi-1753045",
+   "zaman": "2026-11-28T22:26:38+03:00",
+   "kelimeler": [
+    "bekle",
+    "durag",
+    "kadin",
+    "kosar",
+    "saldi",
+    "tramv"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.11 22:31:09  2 yeni haber",
   "28.11 22:15:54  3 yeni haber",
   "28.11 22:01:23  3 yeni haber",
   "28.11 21:45:56  3 yeni haber",
@@ -28666,8 +28668,7 @@
   "26.11 17:31:14  6 yeni haber",
   "26.11 17:17:58  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · İzmir’den Aydın’a getirdi, yolda yürürken yakalandı: Üzerinden 1100 ha",
   "26.11 17:15:55  4 yeni haber",
-  "26.11 17:06:35  1 yeni haber",
-  "26.11 17:01:25  7 yeni haber"
+  "26.11 17:06:35  1 yeni haber"
  ],
  "otomatik": false
 }
