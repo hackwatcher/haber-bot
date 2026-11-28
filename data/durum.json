@@ -1,53 +1,5 @@
 {
  "haberler": {
-  "7ab7aa447485": {
-   "id": "7ab7aa447485",
-   "kaynak": "AA",
-   "baslik": "İstanbul Havalimanı günlük ortalama 1379 uçuşla Avrupa'nın en yoğun havalimanı",
-   "ozet": "İstanbul Havalimanı günlük 1379 uçuş ortalamasıyla Avrupa'nın en yoğun havalimanı oldu.",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-gunluk-ortalama-1379-ucusla-avrupanin-en-yogun-havalimani/4137550",
-   "zaman": "2026-11-25T16:19:04+03:00",
-   "kelimeler": [
-    "1379",
-    "avrup",
-    "gunlu",
-    "haval",
-    "istan",
-    "nin",
-    "ortal",
-    "ucusl",
-    "yogun"
-   ],
-   "durum": "yeni",
-   "oncelikli": false,
-   "diger_kaynaklar": [
-    "TRT Haber"
-   ]
-  },
-  "4838bf425313": {
-   "id": "4838bf425313",
-   "kaynak": "Hürriyet",
-   "baslik": "İstanbul'da ilginç olay! Ne kedi ne martı... Pencere ile korkuluk arasına sıkıştı, itfaiye tarafından kurtarıldı",
-   "ozet": "Küçükçekmece'de 3 katlı binanın 1'inci katındaki dairenin balkon korkuluğu ile penceresi arasında sıkışan tavuk, olay yerine çağrılan itfaiye ekipleri tarafından kurtarıldı.",
-   "link": "https://www.hurriyet.com.tr/gundem/istanbulda-ilginc-olay-pencere-ile-korkuluk-arasina-sikisti-itfaiye-tarafindan-kurtarildi-43390898",
-   "zaman": "2026-11-25T16:20:00+03:00",
-   "kelimeler": [
-    "arasi",
-    "ilgin",
-    "istan",
-    "itfai",
-    "kedi",
-    "korku",
-    "kurta",
-    "marti",
-    "olay",
-    "pence",
-    "sikis",
-    "taraf"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "1c5967081c41": {
    "id": "1c5967081c41",
    "kaynak": "Hürriyet",
@@ -218,30 +170,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "3c8cc1be7812": {
-   "id": "3c8cc1be7812",
-   "kaynak": "AA",
-   "baslik": "İşitme engelli milli güreşçiler, yarın Ermenistan'da ilk müsabakalarına çıkacak",
-   "ozet": "İşitme engelli milli güreşçiler, Ermenistan'da 2026 Avrupa Güreş Şampiyonası'nda yarın ilk madalya müsabakalarına çıkacak.",
-   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-guresciler-yarin-ermenistanda-ilk-musabakalarina-cikacak/4137548",
-   "zaman": "2026-11-25T16:18:37+03:00",
-   "kelimeler": [
-    "cikac",
-    "engel",
-    "ermen",
-    "gures",
-    "ilk",
-    "isitm",
-    "milli",
-    "musab",
-    "yarin"
-   ],
-   "durum": "yeni",
-   "oncelikli": true,
-   "diger_kaynaklar": [
-    "Hürriyet"
-   ]
   },
   "aa9a544881bf": {
    "id": "aa9a544881bf",
@@ -25822,7 +25750,10 @@
     "yapiy"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "a02923c65115": {
    "id": "a02923c65115",
@@ -29616,9 +29547,52 @@
    ],
    "durum": "yeni",
    "oncelikli": true
+  },
+  "43e9f9dcce73": {
+   "id": "43e9f9dcce73",
+   "kaynak": "TRT Haber",
+   "baslik": "İstanbul için kuvvetli yağış uyarısı",
+   "ozet": "İstanbul Valiliği, gece saatlerinden itibaren etkili olması beklenen sağanak nedeniyle vatandaşları dikkatli olmaları konusunda uyardı.",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-kuvvetli-yagis-uyarisi-964749.html",
+   "zaman": "2026-11-28T16:07:00+03:00",
+   "kelimeler": [
+    "istan",
+    "kuvve",
+    "uyari",
+    "yagis"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "270577298b9e"
+  },
+  "5a06410e49b5": {
+   "id": "5a06410e49b5",
+   "kaynak": "NTV",
+   "baslik": "Tel örgülerden atlayıp sahaya girmişti. Çeşme Belediye Başkanı Lal Denizli hakkında işlem başlatıldı",
+   "ozet": "İmren Alaçatıspor ile Çeşme Belediyespor arasında oynanan karşılaşmada tel örgülerden atlayarak sahaya giren Çeşme Belediye Başkanı Lal Denizli hakkında işlem başlatıldı.",
+   "link": "https://www.ntv.com.tr/turkiye/galeri-tel-orgulerden-atlayip-sahaya-girmisti-cesme-belediye-baskani-lal-denizli-hakkinda-islem-baslatildi-1753011",
+   "zaman": "2026-11-28T16:20:25+03:00",
+   "kelimeler": [
+    "atlay",
+    "baska",
+    "basla",
+    "beled",
+    "cesme",
+    "deniz",
+    "girmi",
+    "hakki",
+    "islem",
+    "lal",
+    "orgul",
+    "sahay",
+    "tel"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.11 16:21:37  1 yeni haber",
   "28.11 16:16:07  5 yeni haber",
   "28.11 16:01:27  2 yeni haber",
   "28.11 15:47:41  Paylaşıldı (otomatik, tek kart + Reels + Facebook_reels): NTV · Yargıtay kararı onadı: Cesedi yakılan Afgan madencinin ölümü iş kazası",
@@ -29817,8 +29791,7 @@
   "26.11 12:35:38  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): Hürriyet · MSB'den kaza kırıma uğrayan helikopterlere ilişkin açıklama",
   "26.11 12:33:00  5 yeni haber",
   "26.11 12:15:56  8 yeni haber",
-  "26.11 12:01:22  7 yeni haber",
-  "26.11 11:46:07  10 yeni haber"
+  "26.11 12:01:22  7 yeni haber"
  ],
  "otomatik": false
 }
