@@ -1,46 +1,5 @@
 {
  "haberler": {
-  "dda5539d7473": {
-   "id": "dda5539d7473",
-   "kaynak": "AA",
-   "baslik": "ABD'nin Alaska eyaletinde tartışmalı Senato yarışını Demokrat aday Peltola kazandı",
-   "ozet": "ABD'de 3 Kasım'da düzenlenen ara seçimlerde oy pusulasında benzer isimli adayların yer alması nedeniyle ülkenin en hararetli tartışmalarından birine sahne olan Alaska eyaletinde, Senato yarışını Demokrat aday Mary Peltola kazandı.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-alaska-eyaletinde-tartismali-senato-yarisini-demokrat-aday-peltola-kazandi/4136621",
-   "zaman": "2026-11-25T09:20:35+03:00",
-   "kelimeler": [
-    "abd",
-    "aday",
-    "alask",
-    "demok",
-    "eyale",
-    "kazan",
-    "nin",
-    "pelto",
-    "senat",
-    "tarti",
-    "yaris"
-   ],
-   "durum": "yeni",
-   "oncelikli": true
-  },
-  "884437dd7b6d": {
-   "id": "884437dd7b6d",
-   "kaynak": "TRT Haber",
-   "baslik": "Küresel piyasalar veri gündemine odaklandı",
-   "ozet": "Küresel piyasalar, yapay zeka odaklı yatırımların sürdürülebilirliğine ilişkin şüphelerin teknoloji hisselerinde satış baskısına neden olmasıyla satış ağırlıklı seyrederken, gözler bugün ABD'de açıklanacak büyüme ve Kişisel Tüketim Harcamaları PCE verilerine çevrildi.",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-veri-gundemine-odaklandi-964394.html",
-   "zaman": "2026-11-25T09:23:00+03:00",
-   "kelimeler": [
-    "gunde",
-    "kures",
-    "odakl",
-    "piyas",
-    "veri"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "51b52218eee6"
-  },
   "6e9865a0ad50": {
    "id": "6e9865a0ad50",
    "kaynak": "TRT Haber",
@@ -4333,22 +4292,6 @@
    "durum": "yeni",
    "oncelikli": false
   },
-  "cc041a5b00b3": {
-   "id": "cc041a5b00b3",
-   "kaynak": "AA",
-   "baslik": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
-   "ozet": "Cumhurbaşkanı Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde \"25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü\" programında konuşuyor.",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4136630",
-   "zaman": "2026-11-25T09:28:52+03:00",
-   "kelimeler": [
-    "cumhu",
-    "erdog",
-    "konus"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "3bb76f4e55c5"
-  },
   "2f35b93ed6bc": {
    "id": "2f35b93ed6bc",
    "kaynak": "AA",
@@ -4609,28 +4552,6 @@
    ],
    "durum": "yeni",
    "oncelikli": false
-  },
-  "344786f30767": {
-   "id": "344786f30767",
-   "kaynak": "AA",
-   "baslik": "Cumhurbaşkanı Erdoğan: Kadına yönelik şiddetin hiçbir bahanesi ve gerekçesi olamaz",
-   "ozet": "Cumhurbaşkanı Erdoğan, \"Kadına yönelik şiddet vicdansızlıktır, insafsızlıktır, insanlıktan nasibini almamışlara mahsus bir alçaklıktır. Onun için kadına yönelik şiddetin hiçbir bahanesi, hiçbir gerekçesi olamaz.\" ifadelerini kullandı.",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadina-yonelik-siddetin-hicbir-bahanesi-ve-gerekcesi-olamaz/4136630",
-   "zaman": "2026-11-25T09:28:52+03:00",
-   "kelimeler": [
-    "bahan",
-    "cumhu",
-    "erdog",
-    "gerek",
-    "hicbi",
-    "kadin",
-    "olama",
-    "sidde",
-    "yonel"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "17f509087548"
   },
   "dbced5e75b65": {
    "id": "dbced5e75b65",
@@ -25487,7 +25408,10 @@
     "tanke"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "AA"
+   ]
   },
   "63360458a38c": {
    "id": "63360458a38c",
@@ -26925,7 +26849,8 @@
     "yarin"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "ecfa5e72cf6a": {
    "id": "ecfa5e72cf6a",
@@ -31133,7 +31058,10 @@
     "yi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "f42007d8d4aa": {
    "id": "f42007d8d4aa",
@@ -31196,9 +31124,103 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "ac0ee7902e6e": {
+   "id": "ac0ee7902e6e",
+   "kaynak": "TRT Haber",
+   "baslik": "ABD'yi Şükran Günü'nde vuran fırtınanın ardından 216 binden fazla haneye hala elektrik verilemiyor",
+   "ozet": "ABD'de Şükran Günü'nde etkili olan fırtınanın etkilerinin sürmesi nedeniyle ülkede birçok eyalette toplam 216 binden fazla haneye elektrik sağlanamıyor.",
+   "link": "https://www.trthaber.com/haber/dunya/abdyi-sukran-gununde-vuran-firtinanin-ardindan-216-binden-fazla-haneye-hala-elektrik-verilemiyor-964714.html",
+   "zaman": "2026-11-28T09:14:00+03:00",
+   "kelimeler": [
+    "216",
+    "abd",
+    "ardin",
+    "binde",
+    "elekt",
+    "fazla",
+    "firti",
+    "gunu",
+    "hala",
+    "haney",
+    "nde",
+    "sukra",
+    "veril",
+    "vuran",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "336b933ac32c"
+  },
+  "d718e7c57050": {
+   "id": "d718e7c57050",
+   "kaynak": "AA",
+   "baslik": "Binance Blokzincir Haftası, \"dönüşüm\" temasıyla Tayland'da başladı",
+   "ozet": "Kripto para borsası Binance'in 2023'te İstanbul'da 2024 ve 2025'te Dubai'de düzenlediği kripto para ve blokzincir etkinliği \"Binance Blokzincir Haftası\", bu yıl Tayland'ın başkenti Bangkok'ta başladı.",
+   "link": "https://www.aa.com.tr/tr/ekonomi/binance-blokzincir-haftasi-donusum-temasiyla-taylandda-basladi/4141126",
+   "zaman": "2026-11-28T09:14:25+03:00",
+   "kelimeler": [
+    "basla",
+    "binan",
+    "blokz",
+    "donus",
+    "hafta",
+    "tayla",
+    "temas"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c9130af63de6": {
+   "id": "c9130af63de6",
+   "kaynak": "AA",
+   "baslik": "Fenerbahçe, Süper Lig'de yarın Erzurumspor FK'yi konuk edecek",
+   "ozet": "Fenerbahçe, Trendyol Süper Lig'in 13. haftasında yarın Erzurumspor FK ile karşı karşıya gelecek.",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-erzurumspor-fkyi-konuk-edecek/4141128",
+   "zaman": "2026-11-28T09:19:41+03:00",
+   "kelimeler": [
+    "edece",
+    "erzur",
+    "fener",
+    "fk",
+    "konuk",
+    "lig",
+    "super",
+    "yarin",
+    "yi"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "175f971a018e"
+  },
+  "0058a1fcc5f3": {
+   "id": "0058a1fcc5f3",
+   "kaynak": "AA",
+   "baslik": "İran: Hürmüz Boğazı ve Umman kıyıları yakınlarında 2 petrol tankeri deniz mayınına çarptı",
+   "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda ve Umman kıyıları yakınlarında 2 petrol tankerinin deniz mayınına çarparak patladığını duyurdu.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazi-ve-umman-kiyilari-yakinlarinda-2-petrol-tankeri-deniz-mayinina-carpti/4141131",
+   "zaman": "2026-11-28T09:22:49+03:00",
+   "kelimeler": [
+    "bogaz",
+    "carpt",
+    "deniz",
+    "hurmu",
+    "iran",
+    "kiyil",
+    "mayin",
+    "petro",
+    "tanke",
+    "umman",
+    "yakin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2ee4474c8132"
   }
  },
  "kayit": [
+  "28.11 09:31:07  1 yeni haber",
   "28.11 09:15:53  1 yeni haber",
   "28.11 09:03:31  Paylaşıldı (otomatik, tek kart + Reels + Story + Facebook_reels): XHABER · Bir puro sarma fabrikasında çalışan bir adam, üzerinde çaliştığı ürünü",
   "28.11 09:01:26  1 yeni haber",
@@ -31397,8 +31419,7 @@
   "26.11 02:15:55  1 yeni haber",
   "26.11 02:01:32  2 yeni haber",
   "26.11 01:33:39  Paylaşıldı (otomatik, 4 slaytlık karusel + Reels + Story + Facebook_reels): XHABER · Arda Turan: \"Fenerbahçe'yi tebrik ediyorum.",
-  "26.11 01:31:11  3 yeni haber",
-  "26.11 01:03:17  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): TRT Haber · Fenerbahçe Londra'dan 3 puanla dönüyor"
+  "26.11 01:31:11  3 yeni haber"
  ],
  "otomatik": false
 }
