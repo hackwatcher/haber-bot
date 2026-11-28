@@ -1,69 +1,5 @@
 {
  "haberler": {
-  "e24d262d9add": {
-   "id": "e24d262d9add",
-   "kaynak": "NTV",
-   "baslik": "HSK'nin mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
-   "ozet": "Hakimler ve Savcılar Kurulunun (HSK), mazeret kararnamesiyle 957 hakim ve Cumhuriyet savcısının görev yeri değiştirildi.",
-   "link": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
-   "zaman": "2026-11-25T19:32:48+03:00",
-   "kelimeler": [
-    "957",
-    "degis",
-    "gorev",
-    "hakim",
-    "hsk",
-    "karar",
-    "mazer",
-    "nin",
-    "savci",
-    "yeri"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "87597646e205"
-  },
-  "ed4508a42f1b": {
-   "id": "ed4508a42f1b",
-   "kaynak": "TRT Haber",
-   "baslik": "Beşiktaş kafilesini taşıyan uçak Batum'a inemedi",
-   "ozet": "UEFA Avrupa Ligi'nin 5. haftasında yarın Hapoel Beer Sheva'yı Gürcistan'da ağırlayacak Beşiktaş kafilesini taşıyan uçak, olumsuz hava koşulları nedeniyle Alexander Kartveli Batum Uluslararası Havalimanı'na iniş yapamadı.",
-   "link": "https://www.trthaber.com/haber/gundem/besiktas-kafilesini-tasiyan-ucak-batuma-inemedi-964468.html",
-   "zaman": "2026-11-25T19:36:00+03:00",
-   "kelimeler": [
-    "batum",
-    "besik",
-    "ineme",
-    "kafil",
-    "tasiy",
-    "ucak"
-   ],
-   "durum": "tekrar",
-   "oncelikli": false,
-   "tekrar_of": "63713f3d212f"
-  },
-  "fcc06941084e": {
-   "id": "fcc06941084e",
-   "kaynak": "TRT Haber",
-   "baslik": "Bakan Çiftçi: Kadına yönelen her türlü şiddet, insan haysiyetine yönelik bir saldırıdır",
-   "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Kadına yönelen her türlü şiddet, insan haysiyetine, toplumsal vicdanımıza ve medeniyet değerlerimize yönelik bir saldırıdır.\" ifadesini kullandı.",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-kadina-yonelen-her-turlu-siddet-insan-haysiyetine-yonelik-bir-saldiridir-964469.html",
-   "zaman": "2026-11-25T19:43:00+03:00",
-   "kelimeler": [
-    "bakan",
-    "ciftc",
-    "haysi",
-    "her",
-    "insan",
-    "kadin",
-    "saldi",
-    "sidde",
-    "turlu",
-    "yonel"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "a87a6a5367f5": {
    "id": "a87a6a5367f5",
    "kaynak": "Hürriyet",
@@ -28108,7 +28044,10 @@
     "yokum"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "BBC Türkçe"
+   ]
   },
   "9ee0124d62b8": {
    "id": "9ee0124d62b8",
@@ -28680,8 +28619,17 @@
     "tutuk",
     "yasa"
    ],
-   "durum": "yeni",
-   "oncelikli": true
+   "durum": "paylasildi",
+   "oncelikli": true,
+   "paylasildi": "2026-11-28T19:48:28.579339+03:00",
+   "ig_id": "17905949538377446",
+   "reels_id": "17886656982628993",
+   "story_id": null,
+   "yorum_id": null,
+   "fb_id": null,
+   "fb_reels_id": "1664193582053889",
+   "slayt": 5,
+   "kanca": "6 MİLYARLIK HAREKETLİLİK"
   },
   "a7c9a2fa84d3": {
    "id": "a7c9a2fa84d3",
@@ -28799,9 +28747,70 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "597d1f7ff590": {
+   "id": "597d1f7ff590",
+   "kaynak": "TRT Haber",
+   "baslik": "Trump'ın golf sahası yapmak istediği parkı sel bastı",
+   "ozet": "ABD Başkanı Donald Trump, başkent Washington'da golf sahası olarak genişletmek istediği East Potomac Parkı'nın yağmur nedeniyle su altında kalmasını, \"Tanrı'nın, bu projeye karşı çıkan ABD yargıcıyla yaşadığı sorunları izlediği\" şeklinde yorumladı.",
+   "link": "https://www.trthaber.com/haber/dunya/trumpin-golf-sahasi-yapmak-istedigi-parki-sel-basti-964754.html",
+   "zaman": "2026-11-28T19:17:00+03:00",
+   "kelimeler": [
+    "basti",
+    "golf",
+    "in",
+    "isted",
+    "parki",
+    "sahas",
+    "sel",
+    "trump",
+    "yapma"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "22cc552405aa": {
+   "id": "22cc552405aa",
+   "kaynak": "TRT Haber",
+   "baslik": "Katil İsrail, Batı Şeria'da en az 5 kişiyi yaraladı",
+   "ozet": "Soykırımcı İsrail Batı Şeria'nın farklı bölgelerinde birini gerçek mermiyle olmak üzere en az 5 Filistinliyi yaraladığı belirtildi.",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israil-bati-seriada-en-az-5-kisiyi-yaraladi-964755.html",
+   "zaman": "2026-11-28T19:26:00+03:00",
+   "kelimeler": [
+    "az",
+    "bati",
+    "israi",
+    "katil",
+    "kisiy",
+    "seria",
+    "yaral"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "ebbd8099455f": {
+   "id": "ebbd8099455f",
+   "kaynak": "BBC Türkçe",
+   "baslik": "Mansur Yavaş'tan adaylık açıklaması: 'Bilgim yok'",
+   "ozet": "Yeni Parti Genel Başkanı Özgür Özel'in cumhurbaşkanı adaylığı konusunda yakında bir açıklama yapacağını söylemesinin ardından Ankara Belediye Başkanı Mansur Yavaş'a aday olma ihtimali soruldu.",
+   "link": "https://www.bbc.com/turkce/articles/cqrkgjz6k6x2o",
+   "zaman": "2026-11-28T19:42:55+03:00",
+   "kelimeler": [
+    "acikl",
+    "adayl",
+    "bilgi",
+    "mansu",
+    "tan",
+    "yavas"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "0858d3fce8b1"
   }
  },
  "kayit": [
+  "28.11 19:48:28  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): NTV · Hesaplarında 6 milyar liralık hareketlilik tespit edildi. Yasa dışı ba",
+  "28.11 19:46:26  2 yeni haber",
   "28.11 19:31:08  3 yeni haber",
   "28.11 19:16:01  4 yeni haber",
   "28.11 19:01:34  1 yeni haber",
@@ -28999,9 +29008,7 @@
   "26.11 15:33:43  Paylaşıldı (otomatik, 6 slaytlık karusel + Reels + Facebook_reels): AA · İngiltere Merkez Bankasından küresel piyasalara \"yapay zeka ve Orta Do",
   "26.11 15:31:15  4 yeni haber",
   "26.11 15:15:55  4 yeni haber",
-  "26.11 15:01:33  5 yeni haber",
-  "26.11 14:45:59  8 yeni haber",
-  "26.11 14:31:15  5 yeni haber"
+  "26.11 15:01:33  5 yeni haber"
  ],
  "otomatik": false
 }
