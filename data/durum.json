@@ -28286,7 +28286,9 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "AA"
+    "AA",
+    "Hürriyet",
+    "NTV"
    ]
   },
   "6d1d2886e7c4": {
@@ -28337,6 +28339,72 @@
    ],
    "durum": "engelli",
    "oncelikli": true
+  },
+  "4c1136e30f25": {
+   "id": "4c1136e30f25",
+   "kaynak": "TRT Haber",
+   "baslik": "Soğuksu Milli Parkı'nda 2 bozayının vurulmasına ilişkin soruşturma başlatıldı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı, Kızılcahamam'daki Soğuksu Milli Parkı'nda 2 bozayının vurulmasına ilişkin soruşturma başlattı.",
+   "link": "https://www.trthaber.com/haber/turkiye/soguksu-milli-parkinda-2-bozayinin-vurulmasina-iliskin-sorusturma-baslatildi-964766.html",
+   "zaman": "2026-11-28T23:53:00+03:00",
+   "kelimeler": [
+    "basla",
+    "bozay",
+    "ilisk",
+    "milli",
+    "nda",
+    "parki",
+    "soguk",
+    "sorus",
+    "vurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "81fc565573a0"
+  },
+  "a28006a52636": {
+   "id": "a28006a52636",
+   "kaynak": "Hürriyet",
+   "baslik": "Soğuksu Milli Parkı'nda 2 boz ayının vurulmasıyla ilgili soruşturma başlatıldı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı, Kızılcahamam'daki Soğuksu Milli Parkı'nda 2 boz ayının vurulmasına ilişkin soruşturma başlattı.",
+   "link": "https://www.hurriyet.com.tr/gundem/soguksu-milli-parkinda-2-boz-ayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-43394741",
+   "zaman": "2026-11-29T00:04:31+03:00",
+   "kelimeler": [
+    "ayini",
+    "basla",
+    "boz",
+    "ilgil",
+    "milli",
+    "nda",
+    "parki",
+    "soguk",
+    "sorus",
+    "vurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "81fc565573a0"
+  },
+  "c652a18b7385": {
+   "id": "c652a18b7385",
+   "kaynak": "NTV",
+   "baslik": "Ankara’da iki boz ayının vurulmasıyla ilgili soruşturma başlatıldı",
+   "ozet": "Ankara Cumhuriyet Başsavcılığınca, Ankara’nın Kızılcahamam ilçesindeki Soğuksu Milli Parkında iki boz ayının vurulmasına ilişkin soruşturma başlatıldığı açıklandı.",
+   "link": "https://www.ntv.com.tr/turkiye/ankarada-iki-boz-ayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-1753049",
+   "zaman": "2026-11-29T00:14:42+03:00",
+   "kelimeler": [
+    "ankar",
+    "ayini",
+    "basla",
+    "boz",
+    "iki",
+    "ilgil",
+    "sorus",
+    "vurul"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "81fc565573a0"
   }
  },
  "kayit": [
