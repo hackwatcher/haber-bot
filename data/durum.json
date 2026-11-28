@@ -21570,7 +21570,10 @@
     "takdi"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "6ceef76075b7": {
    "id": "6ceef76075b7",
@@ -22171,7 +22174,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "Sözcü",
-    "BBC Türkçe"
+    "BBC Türkçe",
+    "Hürriyet"
    ]
   },
   "c8050e4d2916": {
@@ -22625,7 +22629,8 @@
    "durum": "yeni",
    "oncelikli": false,
    "diger_kaynaklar": [
-    "NTV"
+    "NTV",
+    "Hürriyet"
    ]
   },
   "1b7a8ccdc526": {
@@ -24937,7 +24942,10 @@
     "yakla"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "Hürriyet"
+   ]
   },
   "2888a10ac6d9": {
    "id": "2888a10ac6d9",
@@ -25854,7 +25862,10 @@
     "yurtt"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": [
+    "TRT Haber"
+   ]
   },
   "ba6379c9f889": {
    "id": "ba6379c9f889",
@@ -28570,7 +28581,8 @@
    "oncelikli": false,
    "diger_kaynaklar": [
     "TRT Haber",
-    "AA"
+    "AA",
+    "Hürriyet"
    ]
   },
   "c263eb07b37e": {
@@ -31230,9 +31242,405 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "fe6883204763": {
+   "id": "fe6883204763",
+   "kaynak": "TRT Haber",
+   "baslik": "Hava sıcaklıkları hissedilir derecede azalacak",
+   "ozet": "Yarından itibaren kuzeybatı kesimlerden başlayarak hissedilir derecede azalacak hava sıcaklıklarının, yeni haftada kuzey, iç ve batı kesimlerde mevsim normallerinin altına ineceği tahmin ediliyor.",
+   "link": "https://www.trthaber.com/haber/gundem/hava-sicakliklari-hissedilir-derecede-azalacak-964710.html",
+   "zaman": "2026-11-28T06:49:00+03:00",
+   "kelimeler": [
+    "azala",
+    "derec",
+    "hava",
+    "hisse",
+    "sicak"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "cc2076313a55"
+  },
+  "7d6065f26225": {
+   "id": "7d6065f26225",
+   "kaynak": "Hürriyet",
+   "baslik": "Meclis’te devlet töreni: Dünya da ona ‘Hikmet abi’ diyordu",
+   "ozet": "Hikmet Çetin için dün önce Meclis’te devlet töreni düzenlendi. Çetin ardından Ahmet Hamdi Akseki Camisi’nde cenaze namazının ardından defnedildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mecliste-devlet-toreni-dunya-da-ona-hikmet-abi-diyordu-43393780",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "abi",
+    "devle",
+    "diyor",
+    "dunya",
+    "hikme",
+    "mecli",
+    "ona",
+    "te",
+    "toren"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2db5102aca7c": {
+   "id": "2db5102aca7c",
+   "kaynak": "Hürriyet",
+   "baslik": "Son dalgada 18 tutuklama",
+   "ozet": "SÜLEYMANCILAR cemaatine yönelik ‘Alihan Kuriş Suç Örgütü’ soruşturması kapsamında Ankara İl Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü’nce yürütülen çalışmalar sonucunda, liderliğini Alihan Kuriş’in yaptığı öne sürülen çıkar amaçlı suç örgütüne yönelik operasyon…",
+   "link": "https://www.hurriyet.com.tr/gundem/son-dalgada-18-tutuklama-43393792",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "18",
+    "dalga",
+    "tutuk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "1d3d2819d4e6"
+  },
+  "00ad9e0c1f54": {
+   "id": "00ad9e0c1f54",
+   "kaynak": "Hürriyet",
+   "baslik": "Ünlülere uyuşturucu operasyonunda 3 kişinin testi pozitif",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nca ünlü isimlere yönelik ‘Fuhuş’, ‘Uyuşturucu veya Uyarıcı Madde Ticareti’, ‘Uyuşturucu veya Uyarıcı Madde Temin Etme’ ile ‘Uyuşturucu Madde Kullanma veya Bulundurma’ suçlarından yürütülen soruşturma kapsamında, 24 Kasım’da 25 şüpheli gözaltına…",
+   "link": "https://www.hurriyet.com.tr/gundem/unlulere-uyusturucu-operasyonunda-3-kisinin-testi-pozitif-43393794",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "kisin",
+    "opera",
+    "pozit",
+    "testi",
+    "unlul",
+    "uyust"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "480805cfe9f0"
+  },
+  "6aa71ff029d6": {
+   "id": "6aa71ff029d6",
+   "kaynak": "Hürriyet",
+   "baslik": "‘Geleceği’ bitene değil bitirene baktılar",
+   "ozet": "Ayrıldığı sevgilisi Selim Akarçay’ın ölüm tehditleri nedeniyle hayatına son veren üniversite öğrencisi Aleyna Kaya davasında karar çıktı.",
+   "link": "https://www.hurriyet.com.tr/gundem/gelecegi-bitene-degil-bitirene-baktilar-43393795",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "bakti",
+    "biten",
+    "bitir",
+    "degil",
+    "gelec"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "6a3f4b04b9c4": {
+   "id": "6a3f4b04b9c4",
+   "kaynak": "Hürriyet",
+   "baslik": "Adaylık çıkışı: Cuma günü açıklayacağım",
+   "ozet": "YENİ Parti Genel Başkanı Özgür Özel, partisinin cumhurbaşkanı adaylığına ilişkin sürpriz bir çıkış yaparak, “Önümüzdeki cuma, gündemi sarsacak önemli bir açıklama yapacağım” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/adaylik-cikisi-cuma-gunu-aciklayacagim-43393801",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "acikl",
+    "adayl",
+    "cikis",
+    "cuma",
+    "gunu"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "a3bc596ee19d": {
+   "id": "a3bc596ee19d",
+   "kaynak": "Hürriyet",
+   "baslik": "Sarıgül’ün fezlekesi Meclis’te: En az 47 yılla yargılanacak",
+   "ozet": "Kara para aklama, suç örgütü kurmanın yanı sıra hakkında yüz kızartıcı suçlamalar olan Erzincan Milletvekili Mustafa Sarıgül’ün fezlekesi Meclis’e ulaştı.",
+   "link": "https://www.hurriyet.com.tr/gundem/sarigulun-fezlekesi-mecliste-en-az-47-yilla-yargilanacak-43393803",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "47",
+    "az",
+    "fezle",
+    "mecli",
+    "sarig",
+    "te",
+    "un",
+    "yargi",
+    "yilla"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "c123d17a953b": {
+   "id": "c123d17a953b",
+   "kaynak": "Hürriyet",
+   "baslik": "Halk TV’de üçüncü dalga: İki gazeteci gözaltında",
+   "ozet": "İstanbul Cumhuriyet Başsavcılığı’nın, Halk TV’nin sahibi Cafer Mahiroğlu hakkında yürüttüğü soruşturmada, üçüncü dalga operasyon gerçekleştirildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/halk-tvde-ucuncu-dalga-iki-gazeteci-gozaltinda-43393809",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "dalga",
+    "gazet",
+    "gozal",
+    "halk",
+    "iki",
+    "tv",
+    "ucunc"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "5826d78435cc"
+  },
+  "577abe5551cd": {
+   "id": "577abe5551cd",
+   "kaynak": "Hürriyet",
+   "baslik": "Erdoğan Ali Kemal Hut’un cenazesine katıldı",
+   "ozet": "CUMHURBAŞKANI Tayyip Erdoğan, 92 yaşında vefat eden Kurrâ Hâfız Ali Kemal Hut için Fatih Camisi’nde düzenlenen cenaze törenine katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/erdogan-ali-kemal-hutun-cenazesine-katildi-43393813",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "ali",
+    "cenaz",
+    "erdog",
+    "hut",
+    "katil",
+    "kemal",
+    "un"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "008f8340cc96"
+  },
+  "4b2c43a9350c": {
+   "id": "4b2c43a9350c",
+   "kaynak": "Hürriyet",
+   "baslik": "Mustafa Balcı ve Şaban Sevinç tahliye edildi",
+   "ozet": "FON soruşturmasına ilişkin sosyal medya paylaşımları nedeniyle yargılanan gazeteciler Şaban Sevinç ve Mustafa Balcı tahliye edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/mustafa-balci-ve-saban-sevinc-tahliye-edildi-43393815",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "balci",
+    "edild",
+    "musta",
+    "saban",
+    "sevin",
+    "tahli"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "2888a10ac6d9"
+  },
+  "7d6a07519b63": {
+   "id": "7d6a07519b63",
+   "kaynak": "Hürriyet",
+   "baslik": "İttifak’ın en büyük amacı barışa katkı",
+   "ozet": "Bakan Fidan “Mekke İttifakı’nın en büyük amacı ülkelerin sadece askeri imkânlarını değil, savunma sanayisindeki imkânlarını da bir araya getirerek daha fazla ortaya güç çıkarmak, barışa ve istikrara daha büyük katkı sağlamak” dedi.",
+   "link": "https://www.hurriyet.com.tr/gundem/ittifakin-en-buyuk-amaci-barisa-katki-43393816",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "amaci",
+    "baris",
+    "buyuk",
+    "in",
+    "ittif",
+    "katki"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "ee4a8b9e0178"
+  },
+  "983f70e72af9": {
+   "id": "983f70e72af9",
+   "kaynak": "Hürriyet",
+   "baslik": "Türk Hava Kuvvetleri NATO hava nöbetinde",
+   "ozet": "TÜRK Hava Kuvvetleri’ne bağlı 151’inci Jet Filo Komutanlığı, NATO kapsamında Romanya’da icra edilecek 73’üncü Dönem Geliştirilmiş Hava Polisliği görevini üstlenecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/turk-hava-kuvvetleri-nato-hava-nobetinde-43393818",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "hava",
+    "kuvve",
+    "nato",
+    "nobet",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "863ef19d6f2a"
+  },
+  "c5c65ee50ba7": {
+   "id": "c5c65ee50ba7",
+   "kaynak": "Hürriyet",
+   "baslik": "Akdeniz’de 3 şüphe... Ukrayna Libya’da Rus gemilerini nasıl buldu",
+   "ozet": "1- AB’nin İrini izi mi var 2- Atina Kiev’le işbirliğinde mi 3- İngiliz üslerinden bilgi mi sağlandı",
+   "link": "https://www.hurriyet.com.tr/gundem/akdenizde-3-suphe-ukrayna-libyada-rus-gemilerini-nasil-buldu-43393821",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "akden",
+    "buldu",
+    "gemil",
+    "libya",
+    "nasil",
+    "rus",
+    "suphe",
+    "ukray"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "2e07a9f3507b": {
+   "id": "2e07a9f3507b",
+   "kaynak": "Hürriyet",
+   "baslik": "San Francisco Bay Üniversitesi’nde Dersleri yapay zekâ veriyor",
+   "ozet": "ABD’deki San Francisco Bay Üniversitesi, eğitimin büyük ölçüde yapay zekâ modelleri tarafından verildiği ‘İşletme Yönetimi Yüksek Lisansı’ adlı çevrimiçi bir program açtı.",
+   "link": "https://www.hurriyet.com.tr/gundem/san-francisco-bay-universitesinde-dersleri-yapay-zeka-veriyor-43393825",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "bay",
+    "dersl",
+    "franc",
+    "nde",
+    "san",
+    "unive",
+    "veriy",
+    "yapay",
+    "zeka"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "34c6c2394014": {
+   "id": "34c6c2394014",
+   "kaynak": "Hürriyet",
+   "baslik": "Fatma Şahin'e Japon Devlet Nişanı",
+   "ozet": "Gaziantep Belediye Başkanı Şahin’e, Türkiye ile Japonya arasındaki dostluk ilişkilerinin geliştirilmesine yönelik çalışmalarından dolayı Japonya’nın en prestijli devlet nişanlarından 'Altın Işıklar, Yükselen Güneş Nişanı ve Boyun Bağı' (Kyokujitsu-shō) takdim edildi.",
+   "link": "https://www.hurriyet.com.tr/gundem/fatma-sahine-japon-devlet-nisani-43393832",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "devle",
+    "fatma",
+    "japon",
+    "nisan",
+    "sahin"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "7afc25829d51"
+  },
+  "a6beb3381497": {
+   "id": "a6beb3381497",
+   "kaynak": "Hürriyet",
+   "baslik": "15 bin aday öğretmenin branş dağılımı açıklandı",
+   "ozet": "Milli Eğitim Bakanlığı (MEB), akademide hazırlık eğitimine alınacak öğretmen adaylarının alanlara göre kontenjan dağılımını ve başvuru takvimini açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/15-bin-aday-ogretmenin-brans-dagilimi-aciklandi-43393834",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "acikl",
+    "aday",
+    "bin",
+    "brans",
+    "dagil",
+    "ogret"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "9446131c6c5c": {
+   "id": "9446131c6c5c",
+   "kaynak": "Hürriyet",
+   "baslik": "Formula 1’e gel Antalya’da yüz",
+   "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Formula 1 yarışı için İstanbul’a gelecek ziyaretçilerin tatillerini Ege ve Akdeniz kıyılarına uzatmalarını sağlayacak paketler hazırlanacağını söyledi.",
+   "link": "https://www.hurriyet.com.tr/gundem/formula-1e-gel-antalyada-yuz-43393843",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "antal",
+    "formu",
+    "gel",
+    "yuz"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "79655f93ab12": {
+   "id": "79655f93ab12",
+   "kaynak": "Hürriyet",
+   "baslik": "Brezilyalıları dolandırmışlar: Rus ordusuna katılıp cepheye gönderildiler",
+   "ozet": "Brezilya’dan onlarca kişinin, yüksek maaş ve cephe gerisinde görev vaatleriyle Rus ordusuna katılmaya ikna edildiği, ancak Ukrayna’da cepheye gönderilerek maaşlarının aracılar tarafından alındığı öne sürüldü.",
+   "link": "https://www.hurriyet.com.tr/gundem/brezilyalilari-dolandirmislar-rus-ordusuna-katilip-cepheye-gonderildiler-43393857",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "brezi",
+    "cephe",
+    "dolan",
+    "gonde",
+    "katil",
+    "ordus",
+    "rus"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "338a5fae52b9": {
+   "id": "338a5fae52b9",
+   "kaynak": "Hürriyet",
+   "baslik": "Sağlık Bakanlığı’ndan teknolojik müdahale... Obeziteye ‘ritmik’ uyarı",
+   "ozet": "Sağlık Bakanlığı, obeziteyle mücadeleyi teknolojik boyuta taşıdı. Geliştirilen ‘Ritmik’ uygulamasıyla akıllı saatler ve şeker ölçüm cihazlarından hastaların sağlık verisi anlık olarak e-Nabız’a yüklenecek.",
+   "link": "https://www.hurriyet.com.tr/gundem/saglik-bakanligindan-teknolojik-mudahale-obeziteye-ritmik-uyari-43393865",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "bakan",
+    "mudah",
+    "ndan",
+    "obezi",
+    "ritmi",
+    "sagli",
+    "tekno",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
+  },
+  "3421105eb0ab": {
+   "id": "3421105eb0ab",
+   "kaynak": "Hürriyet",
+   "baslik": "2 saat 15 dakikaya düşecek... Bursa İstanbul hattında test",
+   "ozet": "ULAŞTIRMA ve Altyapı Bakanı Abdulkadir Uraloğlu, Bursa’nın Yenişehir İlçesi’nde, Bursa’da Osmaneli-Bursa Yüksek Hızlı Tren Hattı ile Emek-YHT Gar-Şehir Hastanesi Metro Hattı’nın test sürüşleri programına katıldı.",
+   "link": "https://www.hurriyet.com.tr/gundem/2-saat-15-dakikaya-dusecek-bursa-istanbul-hattinda-test-43393867",
+   "zaman": "2026-11-28T07:00:00+03:00",
+   "kelimeler": [
+    "15",
+    "bursa",
+    "dakik",
+    "dusec",
+    "hatti",
+    "istan",
+    "saat",
+    "test"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "4f766e977152"
+  },
+  "745ff5a8c654": {
+   "id": "745ff5a8c654",
+   "kaynak": "TRT Haber",
+   "baslik": "Meteorolojiden denizlerde fırtına uyarısı",
+   "ozet": "Meteoroloji Genel Müdürlüğünden MGM yapılan uyarıya göre, Batı Karadeniz, Marmara ve Kuzey Ege'de kuvvetli fırtına etkili olacak.",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-denizlerde-firtina-uyarisi-964711.html",
+   "zaman": "2026-11-28T07:01:00+03:00",
+   "kelimeler": [
+    "deniz",
+    "firti",
+    "meteo",
+    "uyari"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.11 07:15:51  11 yeni haber",
   "28.11 07:02:55  Paylaşıldı (otomatik, 5 slaytlık karusel + Story + Facebook): XHABER · GSStore, Kasım ayına özel tüm ürünlerinde büyük indirim başlattı!",
   "28.11 06:46:06  1 yeni haber",
   "28.11 06:31:10  1 yeni haber",
@@ -31431,8 +31839,7 @@
   "26.11 00:04:06  Paylaşıldı (otomatik, 5 slaytlık karusel + Reels + Facebook_reels): Hürriyet · Korgan Belediye Başkanı Sait Korgan İYİ Parti'den istifa etti",
   "26.11 00:01:18  2 yeni haber",
   "25.11 23:45:54  4 yeni haber",
-  "25.11 23:31:23  2 yeni haber",
-  "25.11 23:16:01  4 yeni haber"
+  "25.11 23:31:23  2 yeni haber"
  ],
  "otomatik": false
 }
