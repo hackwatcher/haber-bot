@@ -1,67 +1,5 @@
 {
  "haberler": {
-  "f1437872238d": {
-   "id": "f1437872238d",
-   "kaynak": "AA",
-   "baslik": "ANTRAY, COP31'de günde 130 bin yolcu taşıdı",
-   "ozet": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) süresinde, hafif raylı sistem ANTRAY günlük ortalama 130 bin yolcuya hizmet verdi.",
-   "link": "https://www.aa.com.tr/tr/gundem/antray-cop31de-gunde-130-bin-yolcu-tasidi/4137869",
-   "zaman": "2026-11-25T20:46:05+03:00",
-   "kelimeler": [
-    "130",
-    "antra",
-    "bin",
-    "cop31",
-    "gunde",
-    "tasid",
-    "yolcu"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "458d3b3e22e7": {
-   "id": "458d3b3e22e7",
-   "kaynak": "Hürriyet",
-   "baslik": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, TUSAŞ'ta mühendislere seslendi",
-   "ozet": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, Türk Havacılık ve Uzay Sanayii (TUSAŞ) mühendislerine yönelik etkinlikte, \"İnanın sizlerin yaptığı işlerle, gayretinizle, ruhunuzla bütün bu alanlar anlam ve kıymet buluyor.",
-   "link": "https://www.hurriyet.com.tr/gundem/baykar-yonetim-kurulu-baskani-selcuk-bayraktar-tusasta-muhendislere-seslendi-43391185",
-   "zaman": "2026-11-25T20:49:52+03:00",
-   "kelimeler": [
-    "baska",
-    "bayka",
-    "bayra",
-    "kurul",
-    "muhen",
-    "selcu",
-    "sesle",
-    "ta",
-    "tusas",
-    "yonet"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
-  "46a27cb61b28": {
-   "id": "46a27cb61b28",
-   "kaynak": "AA",
-   "baslik": "ABD'de orduya ait yaklaşık 5 tonluk mühimmat kontrollü şekilde patlatıldı",
-   "ozet": "ABD'nin Iowa eyaletinde, orduya ait bir mühimmat fabrikasında bulunan yaklaşık 5 ton kurşun azit stoku kontrollü şekilde imha edildi.",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-orduya-ait-yaklasik-5-tonluk-muhimmat-kontrollu-sekilde-patlatildi/4137876",
-   "zaman": "2026-11-25T21:01:09+03:00",
-   "kelimeler": [
-    "abd",
-    "ait",
-    "kontr",
-    "muhim",
-    "orduy",
-    "patla",
-    "sekil",
-    "tonlu",
-    "yakla"
-   ],
-   "durum": "yeni",
-   "oncelikli": false
-  },
   "7e87d94a39e2": {
    "id": "7e87d94a39e2",
    "kaynak": "AA",
@@ -26970,7 +26908,8 @@
     "sharq"
    ],
    "durum": "yeni",
-   "oncelikli": false
+   "oncelikli": false,
+   "diger_kaynaklar": []
   },
   "076e8ba4cdc1": {
    "id": "076e8ba4cdc1",
@@ -28611,9 +28550,99 @@
    ],
    "durum": "yeni",
    "oncelikli": false
+  },
+  "69bb7bb53b13": {
+   "id": "69bb7bb53b13",
+   "kaynak": "AA",
+   "baslik": "Al Sharq Forum 2026'da mimarlık, şehircilik ve dayanıklılık ele alındı",
+   "ozet": "Mısırlı mimar Vekil, modern şehirlerin insan ihtiyaçları yerine ekonomik kazanç ve yüksek yapılaşma odaklı inşa edilmesinin sorunlara yol açtığına dikkati çekerek, \"Şehirleri otomobillere göre değil insanlara göre tasarlamalıyız.\" dedi.",
+   "link": "https://www.aa.com.tr/tr/gundem/al-sharq-forum-2026da-mimarlik-sehircilik-ve-dayaniklilik-ele-alindi/4141600",
+   "zaman": "2026-11-28T20:18:01+03:00",
+   "kelimeler": [
+    "2026",
+    "al",
+    "alind",
+    "dayan",
+    "ele",
+    "forum",
+    "mimar",
+    "sehir",
+    "sharq"
+   ],
+   "durum": "tekrar",
+   "oncelikli": true,
+   "tekrar_of": "7d780e24019b"
+  },
+  "fa3593f7902f": {
+   "id": "fa3593f7902f",
+   "kaynak": "Hürriyet",
+   "baslik": "Ankara'da yasadışı bahis gelirlerini aklayanlara operasyon: 20 tutuklama",
+   "ozet": "Ankara Cumhuriyet Başsavcılığı koordinesinde, yasadışı bahis suçundan elde edilen gelirleri kripto varlık alım satım platformları üzerinden aklayarak yurt dışına aktardıkları belirlenen şüphelilere yönelik düzenlenen operasyonda 20 kişi tutuklandı.",
+   "link": "https://www.hurriyet.com.tr/gundem/ankarada-yasadisi-bahis-gelirlerini-aklayanlara-operasyon-20-tutuklama-43394623",
+   "zaman": "2026-11-28T20:45:48+03:00",
+   "kelimeler": [
+    "20",
+    "aklay",
+    "ankar",
+    "bahis",
+    "gelir",
+    "opera",
+    "tutuk",
+    "yasad"
+   ],
+   "durum": "yeni",
+   "oncelikli": true
+  },
+  "b4d63e795425": {
+   "id": "b4d63e795425",
+   "kaynak": "AA",
+   "baslik": "Türk Hava Kuvvetleri personeli NATO Geliştirilmiş Hava Polisliği Blok-73 görevini devraldı",
+   "ozet": "Milli Savunma Bakanlığı (MSB), Hava Kuvvetleri Komutanlığına bağlı 5'inci Ana Jet Üs Komutanlığından 5 F-16 savaş uçağı ve 109 personelin, NATO Geliştirilmiş Hava Polisliği Blok-73 görevini devraldığını bildirdi.",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-hava-kuvvetleri-personeli-nato-gelistirilmis-hava-polisligi-blok-73-gorevini-devraldi/4141620",
+   "zaman": "2026-11-28T20:48:10+03:00",
+   "kelimeler": [
+    "73",
+    "blok",
+    "devra",
+    "gelis",
+    "gorev",
+    "hava",
+    "kuvve",
+    "nato",
+    "perso",
+    "polis",
+    "turk"
+   ],
+   "durum": "tekrar",
+   "oncelikli": false,
+   "tekrar_of": "863ef19d6f2a"
+  },
+  "db5725915257": {
+   "id": "db5725915257",
+   "kaynak": "Hürriyet",
+   "baslik": "Bakan Çiftçi'den biyometrik kimlik ve ehliyet uyarısı: Yıl sonunda süre doluyor",
+   "ozet": "İçişleri Bakanı Mustafa Çiftçi, 2017 yılında verilmeye başlanan biyometrik kimliklerin 10 yıllık kullanım süresinin yıl sonunda dolacağını açıkladı.",
+   "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-biyometrik-kimlik-ve-ehliyet-uyarisi-yil-sonunda-sure-doluyor-43394625",
+   "zaman": "2026-11-28T20:50:48+03:00",
+   "kelimeler": [
+    "bakan",
+    "biyom",
+    "ciftc",
+    "den",
+    "doluy",
+    "ehliy",
+    "kimli",
+    "sonun",
+    "sure",
+    "uyari",
+    "yil"
+   ],
+   "durum": "yeni",
+   "oncelikli": false
   }
  },
  "kayit": [
+  "28.11 21:01:19  2 yeni haber",
   "28.11 20:46:03  1 yeni haber",
   "28.11 20:31:09  2 yeni haber",
   "28.11 20:16:00  2 yeni haber",
@@ -28812,8 +28841,7 @@
   "26.11 16:45:53  2 yeni haber",
   "26.11 16:31:08  5 yeni haber",
   "26.11 16:16:14  6 yeni haber",
-  "26.11 16:01:35  5 yeni haber",
-  "26.11 15:45:57  4 yeni haber"
+  "26.11 16:01:35  5 yeni haber"
  ],
  "otomatik": false
 }
